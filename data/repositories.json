@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "model": "gpt-6-astra",
+  "count": 3,
+  "promptCount": 4,
+  "repositories": [
+    {
+      "url": "https://github.com/alesha-pro/bench-portal",
+      "promptIds": [
+        "gpt-6-astra-2095988972879335792",
+        "gpt-6-astra-2095967568825582044"
+      ],
+      "sourceUrls": [
+        "https://x.com/superalesha/status/2095988972879335792",
+        "https://x.com/superalesha/status/2095967568825582044"
+      ],
+      "demoUrls": [
+        "https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/"
+      ]
+    },
+    {
+      "url": "https://github.com/emollick/abyssal-living-deep",
+      "promptIds": [
+        "gpt-6-astra-2095673885605630429"
+      ],
+      "sourceUrls": [
+        "https://x.com/emollick/status/2095673885605630429"
+      ],
+      "demoUrls": [
+        "https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1"
+      ]
+    },
+    {
+      "url": "https://github.com/petergpt/gogh-strike",
+      "promptIds": [
+        "gpt-6-astra-2096013280519016608"
+      ],
+      "sourceUrls": [
+        "https://x.com/petergostev/status/2096013280519016608"
+      ],
+      "demoUrls": [
+        "https://gogh-strike.surge.sh/"
+      ]
+    }
+  ]
+}

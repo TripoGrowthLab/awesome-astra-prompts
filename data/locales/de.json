@@ -1,0 +1,1228 @@
+{
+  "locale": "de",
+  "model": "gpt-6-astra",
+  "count": 103,
+  "prompts": {
+    "gpt-6-astra-2095596175705399482": {
+      "title": "Eine überlebensfähige Gesellschaft autonomer Unreal-Menschen",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Erstelle eine Unreal-Engine-Welt mit autonom handelnden Menschen. Gib ihnen individuelle Bedürfnisse und ein gemeinsames Überlebensziel, sodass sie kommunizieren, Arbeit aufteilen, Unterkünfte bauen und die Gesellschaft auch ohne den Spieler am Leben halten.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Unreal Engine",
+        "autonome Agenten",
+        "Überlebenssimulation"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095596175705399482"
+    },
+    "gpt-6-astra-2095609734845927525": {
+      "title": "Manhattan Straße für Straße in Unreal Engine",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Baue ein erkundbares Manhattan in Unreal Engine. Arbeite Bezirk für Bezirk und Straße für Straße. Bewahre erkennbare Größenverhältnisse, Straßenführung, Wahrzeichen, Verkehr und den Charakter der Viertel. Führe eine Prüfliste und verbessere jeden Bereich, bevor du weitergehst.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Unreal Engine",
+        "Manhattan",
+        "offene Welt"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095609734845927525"
+    },
+    "gpt-6-astra-2095636679264780481": {
+      "title": "Moderne Villa als Blender-Szene",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Erstelle in Blender eine vollständige moderne Villa mit stimmiger Architektur, eingerichteten Innenräumen, Infinitypool, Landschaftsgestaltung, realistischen Materialien und einer filmischen Kamerafahrt zur goldenen Stunde.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "Villa",
+        "Architekturvisualisierung"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095636679264780481"
+    },
+    "gpt-6-astra-2095599934766764338": {
+      "title": "Ein Browser-3D-Spiel mit einer einzigen Anfrage",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Erstelle ein vollständiges 3D-Browserspiel als eigenständig ausführbares Projekt. Integriere ein verständliches Ziel, direkte Steuerung, räumlich stimmige Level, Gegner oder Gefahren, Rückmeldungen, Punkte, Neustart und Schutzmaßnahmen für die Performance.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Browserspiel",
+        "ein Durchlauf",
+        "räumliches Denken"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095599934766764338"
+    },
+    "gpt-6-astra-2095598645190291775": {
+      "title": "Vom Hausfoto zur bearbeitbaren Blender-Welt",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Rekonstruiere das bereitgestellte Hausbild als vollständig bearbeitbare Blender-Szene. Modelliere Architektur, Möbel, Geräte und Spielzeug als separate Objekte, wahre plausible Proportionen und ermögliche einen lokal flüssigen Rundgang mit 60 FPS.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "Bild zu 3D",
+        "bearbeitbares Haus"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095598645190291775"
+    },
+    "gpt-6-astra-2095612137582526615": {
+      "title": "Vom Zillow-Inserat zum 3D-Immobilienfilm",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Rekonstruiere das Haus anhand des Immobilieninserats und aller Fotos in 3D, leite einen stimmigen Grundriss ab und erstelle einen hochwertigen Werberundgang als Video. Kennzeichne unsichere Geometrie und korrigiere Abweichungen nach dem ersten Durchlauf.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Immobilien",
+        "Inseratfotos",
+        "3D-Rundgang"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095612137582526615"
+    },
+    "gpt-6-astra-2095756085890310311": {
+      "title": "Von der Dampflokzeichnung zur bearbeitbaren Blender-Baugruppe",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Rekonstruiere die historische Dampflokzeichnung in Blender als detaillierte mechanische Baugruppe. Halte Räder, Achsen, Federung, Gestänge, Kesselarmaturen und Karosseriebleche als benannte, bearbeitbare Objekte getrennt und mache den Detailumfang steuerbar.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "Dampflokomotive",
+        "mechanische Modellierung"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095756085890310311"
+    },
+    "gpt-6-astra-2095630197257367857": {
+      "title": "Prozedurales Oval-Office-Set für Cycles",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Übersetze eine Setbeschreibung des Oval Office in ausführbaren Szenencode. Baue den Raum in Blender mit bearbeitbaren Möbeln, Wänden, Beleuchtung und Kamerapositionen und rendere ein filmisches Ergebnis mit Cycles.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "Cycles",
+        "Setgestaltung"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095630197257367857"
+    },
+    "gpt-6-astra-2095597137849446688": {
+      "title": "Minecraft-inspirierte Welt in einem Durchlauf",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Baue in einem Durchlauf eine spielbare, von Minecraft inspirierte Voxelwelt mit Geländegenerierung, Blocksetzen und -abbau, Ego-Steuerung, Inventar, Beleuchtung, Wasser und einem kompakten Überlebensablauf.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Voxelspiel",
+        "Minecraft-inspiriert",
+        "ein Durchlauf"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095597137849446688"
+    },
+    "gpt-6-astra-2095653641164329143": {
+      "title": "Palace of Fine Arts in Blender nachgebaut",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Baue San Franciscos Palace of Fine Arts in Blender nach: erkennbare Proportionen der Rotunde, Kolonnaden, Lagune, Vegetation, verwitterte Materialien und optimistisch-filmisches Licht im Geist der Weltausstellungszeit.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "Palace of Fine Arts",
+        "Architektur"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095653641164329143"
+    },
+    "gpt-6-astra-2095776685807346105": {
+      "title": "Eine begehbare Stadt aus sechs Van-Gogh-Gemälden",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Verbinde sechs bereitgestellte Van-Gogh-Gemälde zu einer zusammenhängenden, begehbaren Three.js-Stadt. Bewahre Palette und Pinselcharakter jedes Bildes und verknüpfe Straßen, Wahrzeichen und Übergänge zu einer erkundbaren Welt.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "Van Gogh",
+        "begehbare Kunst"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095776685807346105"
+    },
+    "gpt-6-astra-2095608358086840647": {
+      "title": "Ein 3D-Spiel per Sprache für Einsteiger",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Übernimm die Rolle meines 3D-Spieleentwicklers. Frage nur nach fehlendem Spielerziel, Gestaltungsrichtung und Steuerung. Erstelle dann ein sofort spielbares Browserspiel und überarbeite es fortlaufend anhand kurzer Sprachanweisungen.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "sprachgesteuerter Ablauf",
+        "3D-Spiel",
+        "Einsteiger"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095608358086840647"
+    },
+    "gpt-6-astra-2095580402505400369": {
+      "title": "Drei Kartspiele aus einem Greybox-Prototyp",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Erstelle aus dem bereitgestellten Unity-Kart-Greybox-Prototyp drei spielbare Themenvarianten: Piraten, Süßigkeiten und Cyberpunk. Nutze die Fahrmechanik weiter, tausche Umgebung und Feedback aus, teste jede Version und behebe die auffälligsten Fehler.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity",
+        "Kartrennen",
+        "Greybox-Prototyp"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095580402505400369"
+    },
+    "gpt-6-astra-2095596341422440714": {
+      "title": "Open-World-Abenteuer im Browser",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Baue ein offenes 3D-Abenteuer mit mehreren verbundenen Biomen, Fortbewegung, Entdeckungen, leichten Kämpfen, Quests, Orientierungspunkten, Tag-Nacht-Stimmung und genügend Führung für eine zielgerichtete Erkundung.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "offene Welt",
+        "Abenteuerspiel",
+        "Browser-3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095596341422440714"
+    },
+    "gpt-6-astra-2095619319690400253": {
+      "title": "Studio für fotorealistische 3D-Produktmockups",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Erstelle ein Browserwerkzeug, das hochgeladene Designs auf fotorealistische 3D-Produktmockups legt. Unterstütze Kamerakreisung, Material- und Farbsteuerung, Umgebungslicht, mehrere Produkte und hochauflösenden Export.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "3D-Mockup",
+        "Produktvisualisierung",
+        "Browserwerkzeug"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095619319690400253"
+    },
+    "gpt-6-astra-2095673885605630429": {
+      "title": "Prozeduraler lebendiger Ozean mit Sturmsimulation",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Erweitere den bereitgestellten Ein-Datei-Generator für stürmische Meeresoberflächen zu einem vollständigen prozeduralen Ozean. Ergänze Riffe, Tiefwasser, glaubwürdiges Wetter, Tierpopulationen mit emergentem Verhalten, ökologische Wechselwirkungen und eine Kamera für Oberfläche und Unterwasserwelt.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "prozeduraler Ozean",
+        "Tiersimulation"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095673885605630429"
+    },
+    "gpt-6-astra-2095611134992945385": {
+      "title": "3D-Aquariumspiel aus einem Referenzbild",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Baue anhand des Referenzbilds in einem Durchlauf ein vollständiges 3D-Aquariumspiel. Rekonstruiere die Beckenkomposition und ergänze animierte Fische, Füttern und Sammeln, Wassereffekte, Kamerasteuerung und ein klares Ziel.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Aquariumspiel",
+        "Referenzbild",
+        "ein Prompt"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095611134992945385"
+    },
+    "gpt-6-astra-2095647685210669541": {
+      "title": "Spielbares Echtzeit-3D-Spiel aus einem Prompt",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Baue aus einem Prompt ein spielbares Echtzeit-3D-Spiel. Definiere eine kompakte Kernmechanik, ein klares Ziel und eine kurze Geschichte. Erzeuge Szene, Figuren, Requisiten, Feedback und Neustartzustand für einen sofortigen Spielstart.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Echtzeit-3D",
+        "spielbares Spiel",
+        "ein Prompt"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095647685210669541"
+    },
+    "gpt-6-astra-2095840435319001278": {
+      "title": "Three.js-Seeschlacht in einer Gesprächsrunde",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Erstelle in einer Gesprächsrunde eine detaillierte Seeschlacht in Three.js. Integriere unterschiedliche Schiffe, physikalisch glaubwürdige Wasserinteraktion, Kielwasser und Gischt, Luftkampf, Explosionen, filmisches Licht, Kamerabewegung und performantes Rendering.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "Seeschlacht",
+        "eine Gesprächsrunde"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095840435319001278"
+    },
+    "gpt-6-astra-2095598026916049024": {
+      "title": "Halo-inspirierter 10-gegen-10-Multiplayer-FPS",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Baue einen von klassischen Sci-Fi-FPS inspirierten Multiplayer-Arena-Shooter für 10 gegen 10. Integriere Teams, Respawns, klar erkennbare Waffen, Schilde, Sammelobjekte, kompakte Karten, Punkte, Matchablauf und latenzarmes Browserspiel.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Multiplayer-FPS",
+        "Sci-Fi-Arena",
+        "10 gegen 10"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095598026916049024"
+    },
+    "gpt-6-astra-2095719731860750613": {
+      "title": "Interaktiver Voxel-Eisenbahntisch",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Baue einen detaillierten Voxel-Eisenbahntisch in Three.js. Mehrere Züge sollen start- und stoppbar sein. Ermögliche Weichenstellung, Drehen und Zoomen, das Erkunden kleiner Städte und das Auslösen kleiner Umgebungsanimationen.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "Voxelzug",
+        "interaktives Spielzeug"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095719731860750613"
+    },
+    "gpt-6-astra-2095699049722581065": {
+      "title": "Lebendiges Voxel-Buddelschiff",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Erstelle ein detailliertes Voxel-Segelschiff des 17. Jahrhunderts in einer Glasflasche. Simuliere rollende Wellen und Schiffsbewegung, ergänze kreisende Möwen, einen Miniaturhafen und Korallenriffe und produziere eine filmische Kamerasequenz mit ruhiger Musik.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "Buddelschiff",
+        "Voxelkunst"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095699049722581065"
+    },
+    "gpt-6-astra-2095641163441254676": {
+      "title": "Druckbare USS-Enterprise-CAD-Baugruppe",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Entwirf in CAD eine eigenständige, druckfertige Hommage an die USS Enterprise NCC-1701. Integriere erkennbare Proportionen, Brücke und ausgewählte Innenräume, mindestens 28 funktionsfähige bewegliche Teile, getrennte Baugruppen und exportierbare Fertigungsdateien.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "CAD",
+        "Sternenschiff",
+        "3D-Druck"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095641163441254676"
+    },
+    "gpt-6-astra-2095630044102279312": {
+      "title": "Weltraum-Trench-Run in Unity",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Erzeuge in Unity das Gefühl eines klassischen Weltraum-Trench-Runs: schneller Tiefflug, Geschützfeuer, Hindernisse, Zielerfassung, steigender Druck, ein finales Ziel und eine filmische Erfolgs- oder Fehlschlagsequenz.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity",
+        "Trench-Run",
+        "Weltraumspiel"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095630044102279312"
+    },
+    "gpt-6-astra-2093690427849191855": {
+      "title": "Prozedurales Voxel-Schloss als Showcase",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Generiere eine große Voxelburg mit klaren Verteidigungsebenen, Türmen, Mauern, Toren, Höfen und umliegendem Gelände. Nutze Instancing, Orbitkamera, wechselndes Licht und deterministische Generierung für ein stabiles, untersuchbares Ergebnis.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Voxelburg",
+        "prozedurale Architektur",
+        "Instancing"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2093690427849191855"
+    },
+    "gpt-6-astra-2095597640587374887": {
+      "title": "Erkundbare Unity-Stadt aus vorhandenen Assets",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Setze aus der bereitgestellten Assetbibliothek eine erkundbare Unity-Stadt zusammen. Erstelle ein stimmiges Straßennetz, Hochhäuser, Fahrzeuge, Palmen, Licht und Navigation. Optimiere die Szene und liefere einen stabilen Ego-Rundgang.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity",
+        "Stadtmontage",
+        "Assetbibliothek"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095597640587374887"
+    },
+    "gpt-6-astra-2095868420327710840": {
+      "title": "Mechanisch vollständig modellierte Blender-Lokomotive",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Modelliere eine Dampflokomotive in Blender als echte mechanische Aufgliederung statt als texturierte Hülle. Benenne und trenne Achsen, Achslagerführungen, Lagerblöcke, Stehbolzen, Federungsglieder, Dampfdom und jede wichtige Baugruppe.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "Lokomotive",
+        "mechanische Baugruppe"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095868420327710840"
+    },
+    "gpt-6-astra-2095819786651374023": {
+      "title": "Tidal Rush: Browserrennen mit acht Fahrern",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Baue ein vollständiges Browser-Kartspiel mit acht Fahrern, drei Runden, Driften, Sammelitems, direkter Physik, verständlichem HUD, attraktiver Grafik und einem Ergebnisbildschirm nach dem Zieleinlauf.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Kartrennen",
+        "Browserspiel",
+        "Driften"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095819786651374023"
+    },
+    "gpt-6-astra-2095805694603673631": {
+      "title": "Echtzeit-WebGL-Galaxie als Launch-Hero",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Analysiere die Gestaltung des bereitgestellten Galaxie-Heros und baue sie als Echtzeit-WebGL statt Video nach. Nutze räumliche Partikel, leuchtenden Staub, sanfte Zeigerreaktion, zurückhaltende Typografieflächen und adaptive Performance.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "WebGL",
+        "Galaxie-Hero",
+        "interaktive Website"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095805694603673631"
+    },
+    "gpt-6-astra-2095898198413922791": {
+      "title": "Selbstspielendes Arcade-Spiel mit Kulturmotiv",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Baue ein selbstspielendes Arcade-Spiel für ein G7-Land. Übersetze ein bekanntes kulturelles Wahrzeichen in die Kernmechanik. Die Aktion soll ohne Eingabe verständlich sein. Ergänze Punkte, steigende Schwierigkeit und einen einprägsamen Höhepunkt.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Arcade-Spiel",
+        "Kulturspiel",
+        "selbstspielend"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095898198413922791"
+    },
+    "gpt-6-astra-2095597560253862065": {
+      "title": "Hochwertiger interaktiver Prototyp in einem Durchlauf",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Entwirf und implementiere aus dem Produktkonzept in einem Durchlauf einen hochwertigen interaktiven Prototyp. Wähle eine starke visuelle Gestaltung, priorisiere die Hauptaktion, ergänze ausgefeilte Übergänge und liefere einen gehosteten responsiven Build.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "interaktiver Prototyp",
+        "ein Durchlauf",
+        "Produktdesign"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095597560253862065"
+    },
+    "gpt-6-astra-2095776712579571725": {
+      "title": "Interaktiver 3D-Turbolader mit Explosionsansicht",
+      "description": "Deutsche Übersetzung der Aufgabenformulierung, die der Autor im verlinkten X-Beitrag veröffentlicht hat. Am Ausgangstext wurden lediglich Zeichensetzung und Formatierung leicht vereinheitlicht.",
+      "prompt": "Baue einen interaktiven 3D-Turbolader. Trenne jedes funktionierende System. Lass mich ihn drehen, Teile isolieren und sehen, was die Maschine tatsächlich macht.",
+      "evidenceNote": "Übersetzung des vom Autor veröffentlichten Originalprompts",
+      "tags": [
+        "GPT-6 Astra",
+        "interaktive Technik",
+        "Turbolader",
+        "Explosionsansicht"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095776712579571725"
+    },
+    "gpt-6-astra-2095663498101662198": {
+      "title": "Überraschendes Three.js-Spiel in einem Versuch",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Erstelle in einem Versuch ein originelles Three.js-Spiel, das den Titel „Amaze“ verdient. Wähle eine überraschende visuelle Mechanik, erkläre sie innerhalb weniger Sekunden, baue eine kurze Entwicklungskurve und ende mit einem befriedigenden Spektakel.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "kreatives Spiel",
+        "ein Durchlauf"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095663498101662198"
+    },
+    "gpt-6-astra-2095907526566990013": {
+      "title": "Schneller spielbarer Spieleprototyp",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Erstelle unter einem strengen Zeit- und Tokenbudget einen visuell stimmigen spielbaren Prototyp. Priorisiere einen vollständigen Spielablauf, direkte Eingaben, klares Feedback, stabile Leistung und einen auslieferbaren Browserbuild statt möglichst vieler Funktionen.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "schneller Prototyp",
+        "Spieleentwicklung",
+        "Budgetgrenze"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095907526566990013"
+    },
+    "gpt-6-astra-2095872986477908108": {
+      "title": "Vom Prompt zum Open-World-Spiel",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Baue aus diesem Konzept ein Open-World-Spiel: [Weltprämisse]. Integriere drei unterschiedliche Regionen, Fortbewegung, dynamische Begegnungen, eine einfache Questkette, Orientierungspunkte, Speichern und Neustart sowie ausreichende Browseroptimierung.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "offene Welt",
+        "vom Prompt zum Spiel",
+        "Browserspiel"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095872986477908108"
+    },
+    "gpt-6-astra-2095806515579879457": {
+      "title": "Interaktive Three.js-Galaxie als Homepage",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Erstelle einen hochwertigen Launch-Hero mit einer Echtzeit-Three.js-Galaxie. Die Partikel sollen dezent eine Sechs formen und auf Scrollen und Zeigerbewegung reagieren. Erhalte die Textlesbarkeit und reduziere Effekte auf schwächeren Geräten behutsam.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "Landingpage",
+        "Partikelgalaxie"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095806515579879457"
+    },
+    "gpt-6-astra-2095898303019856230": {
+      "title": "Nahtloses Cyberpunk-Schlafzimmer in Blender",
+      "description": "Deutsche Übersetzung der Aufgabenformulierung, die der Autor im verlinkten X-Beitrag veröffentlicht hat. Am Ausgangstext wurden lediglich Zeichensetzung und Formatierung leicht vereinheitlicht.",
+      "prompt": "Erstelle in Blender ein filmisches Cyberpunk-Schlafzimmer mit Blick auf eine regnerische Neonstadt bei Nacht. Ergänze animierte Werbetafeln und gestalte die Szene fotorealistisch und nahtlos wiederholbar.",
+      "evidenceNote": "Übersetzung des vom Autor veröffentlichten Originalprompts",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "Cyberpunk-Schlafzimmer",
+        "nahtlose Schleife"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095898303019856230"
+    },
+    "gpt-6-astra-2095871735824339279": {
+      "title": "Van-Gogh-Stadt in Three.js",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Erstelle eine begehbare, von Van Gogh inspirierte Three.js-Stadt. Verwandle gemalte Straßen, Sterne, Cafés und Felder in geschichtete 3D-Räume und bewahre den Pinselstrich durch Shader, Texturen und animiertes Licht.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "Van Gogh",
+        "stilisierte Stadt"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095871735824339279"
+    },
+    "gpt-6-astra-2095805115580199372": {
+      "title": "Ein Spaziergang durch die Straßen der Sternennacht",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Verbinde sechs Van-Gogh-Gemälde zu einer erkundbaren Stadt, durch deren Sternennacht-Straßen Besucher spazieren können. Entwirf natürliche Übergänge zwischen Bildern, halte den Maßstab einheitlich und ergänze sanfte Umgebungsinteraktionen.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Kunstwelt",
+        "begehbare Stadt",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095805115580199372"
+    },
+    "gpt-6-astra-2095742344293454148": {
+      "title": "Fahrbarer Eisenbahntisch aus Kindertagen",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Baue einen Eisenbahntisch aus Kindertagen als haptisch wirkendes Three.js-Spielzeug mit Voxelgleisen und -fahrzeugen nach. Lass Spieler Züge steuern, Weichen stellen, den Tisch umkreisen und animierte Miniaturszenen entdecken.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "Eisenbahntisch",
+        "interaktives Spielzeug"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095742344293454148"
+    },
+    "gpt-6-astra-2095623452678144366": {
+      "title": "Vom Text zur erkundbaren Unity-Stadt",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Verwandle die Stadtvision in eine erkundbare Unity-Umgebung mit Hochhäusern, Straßen, Fahrzeugen, Palmen und atmosphärischem Licht. Sorge für glaubwürdigen Maßstab, Navigation, fließenden Verkehr und eine sanfte Ego-Kamera.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity",
+        "3D-Stadt",
+        "Text zu Welt"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095623452678144366"
+    },
+    "gpt-6-astra-2095650251902239139": {
+      "title": "Aquarium-Benchmark mit einem Prompt",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Baue aus dem Referenzbild mit einem Prompt ein 3D-Aquariumspiel. Triff Anordnung und Stimmung und ergänze lebendige Fische, Wasserkaustiken, Orbitsteuerung und einen kleinen Interaktionsablauf zum Vergleich von Modellergebnissen.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Modellvergleich",
+        "Aquarium",
+        "Referenzbild"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095650251902239139"
+    },
+    "gpt-6-astra-2095725404883476661": {
+      "title": "Vom Grundriss zum vollständigen 3D-Rundgang",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Wandle den Grundriss in einen vollständigen architektonischen 3D-Rundgang um. Beachte Raummaße und Laufwege, ergänze Türen, Fenster, Möbel, Materialien und Licht und erstelle eine Kamerafahrt, die den Grundriss verständlich macht.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Grundriss",
+        "Architektur",
+        "3D-Rundgang"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095725404883476661"
+    },
+    "gpt-6-astra-2095777502681825541": {
+      "title": "Reales Haus als bearbeitbare Blender-Szene mit 60 FPS",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Rekonstruiere das reale Haus als vollständig bearbeitbare Blender-Szene. Halte Architektur und Einrichtung getrennt, optimiere Geometrie und Materialien und liefere einen lokal gerenderten Rundgang mit konstanten 60 FPS.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "bearbeitbare Szene",
+        "Echtzeitrundgang"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095777502681825541"
+    },
+    "gpt-6-astra-2095916820431827408": {
+      "title": "Street Heat: Drift-Rennspiel im Browser",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Baue aus einem Satz ein vollständiges Arcade-Straßenrennspiel im Browser. Implementiere befriedigende Driftphysik, Kombopunkte, Beinaheunfall-Boni, Geschwindigkeitsmessstellen, Nitro, Verkehr, ein verständliches HUD und einen kurzen, wiederholbaren Kurs.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Arcade-Rennspiel",
+        "Driftphysik",
+        "Browserspiel"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095916820431827408"
+    },
+    "gpt-6-astra-2095616529572503593": {
+      "title": "3D-Museums-Previs für die Kameraplanung",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Erstelle eine 3D-Museums-Previsualisierung mit Schauplatz, Darstellerpositionen, Kameraaufstellung und Shotliste. Halte alle Aufstellungen im tatsächlichen Viewport und exportiere einheitliche Vorlagen für die anschließende Videogenerierung.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "3D-Previs",
+        "Museum",
+        "Kameraaufstellung"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095616529572503593"
+    },
+    "gpt-6-astra-2095695603808309497": {
+      "title": "Spielbare Produktwerbung in 15 Sekunden",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Baue eine mobiloptimierte interaktive 15-Sekunden-Demo von [Produkt]. Nutzer sollen die Kernfunktion mit einer Geste ausprobieren, sofort 3D-Feedback erhalten und mit einer klaren Handlungsaufforderung „Vollen Zugriff erhalten“ abschließen. Nutze ein vertikales 9:16-Layout und bewahre die Markenfarben.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "spielbare Werbung",
+        "3D-Produktdemo",
+        "mobile Interaktion"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095695603808309497"
+    },
+    "gpt-6-astra-2095624712244072551": {
+      "title": "Vom Bauplan über Blender zu Unreal-Archviz",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Erstelle aus dem Architekturplan ein präzises, bearbeitbares Blender-Modell. Übertrage es anschließend nach Unreal Engine als beleuchtete, begehbare Archviz-Erfahrung mit richtigem Maßstab und Kollisionen.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "Unreal Engine",
+        "Architekturvisualisierung"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095624712244072551"
+    },
+    "gpt-6-astra-2095752726886105375": {
+      "title": "Waldvilla Solace: vom Briefing bis UE5",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Erstelle eine begehbare moderne Waldvilla namens Solace mit drei Schlafzimmern, Büro, zentralem Hof, Pool und Wald. Baue sie prozedural in Blender, rendere Bilder zur goldenen Stunde und exportiere einen UE5-Rundgang mit 60 FPS.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "UE5",
+        "moderne Villa"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095752726886105375"
+    },
+    "gpt-6-astra-2095844872171421771": {
+      "title": "Blender-Szenenchallenge in 30 Sekunden",
+      "description": "Eine wiederverwendbare Aufgabenbeschreibung, rekonstruiert aus der öffentlichen Projektvorstellung. Sie wird nicht als wortgetreue Wiedergabe eines unveröffentlichten Prompts ausgegeben.",
+      "prompt": "Baue unter extremem Zeitdruck eine stimmige Blender-Szene. Priorisiere eine starke Silhouette, drei Tiefenebenen, ein prägendes Material, filmisches Licht und eine kamerafertige Komposition. Alle Objekte müssen bearbeitbar bleiben.",
+      "evidenceNote": "Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffentlich",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "schnelle Szenenerstellung",
+        "bearbeitbare Geometrie"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095844872171421771"
+    },
+    "gpt-6-astra-2095980885732704629": {
+      "title": "Rube-Goldberg-Kettenreaktionsmaschine",
+      "description": "Erstelle eine Rube-Goldberg-Maschine als eigenständige Three.js-HTML-Datei. Eine Folge mechanischer Interaktionen soll schließlich einen Knopf drücken und eine theatralische Explosion auslösen.",
+      "prompt": "Erstelle eine Rube-Goldberg-Maschine als eigenständige Three.js-HTML-Datei. Eine Folge mechanischer Interaktionen soll schließlich einen Knopf drücken und eine theatralische Explosion auslösen.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095980885732704629"
+    },
+    "gpt-6-astra-2096035962824335798": {
+      "title": "Erkundbares Taj Mahal",
+      "description": "Rekonstruiere das Taj Mahal als erkundbare 3D-Szene. Priorisiere erkennbare Proportionen, symmetrische Gärten, zentrale Kuppel, Minarette und die Beziehungen zwischen Gebäuden.",
+      "prompt": "Rekonstruiere das Taj Mahal als erkundbare 3D-Szene. Priorisiere erkennbare Proportionen, symmetrische Gärten, zentrale Kuppel, Minarette und die Beziehungen zwischen Gebäuden.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096035962824335798"
+    },
+    "gpt-6-astra-2096225621303042258": {
+      "title": "Simulator für orbitale Rendezvous",
+      "description": "Baue eine Echtzeit-Rendezvous-Simulation mit Zweikörper-ECI-Propagation und HCW-Führung. Integriere Orientierung mit sechs Freiheitsgraden, Treibstoffverbrauch, Kraftgrenzen und ein Andockziel.",
+      "prompt": "Baue eine Echtzeit-Rendezvous-Simulation mit Zweikörper-ECI-Propagation und HCW-Führung. Integriere Orientierung mit sechs Freiheitsgraden, Treibstoffverbrauch, Kraftgrenzen und ein Andockziel.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096225621303042258"
+    },
+    "gpt-6-astra-2096180220839760375": {
+      "title": "Schlepperbaugruppe nach Referenzbildern",
+      "description": "Rekonstruiere einen Schlepper in Blender aus Referenzbildern. Modelliere Rumpf, geneigtes Steuerhaus, Decksbeschläge und Schleppausrüstung und löse widersprüchliche Ansichten zu einem stimmigen Schiff auf.",
+      "prompt": "Rekonstruiere einen Schlepper in Blender aus Referenzbildern. Modelliere Rumpf, geneigtes Steuerhaus, Decksbeschläge und Schleppausrüstung und löse widersprüchliche Ansichten zu einem stimmigen Schiff auf.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096180220839760375"
+    },
+    "gpt-6-astra-2096059736693305794": {
+      "title": "Bohrmaschine aus einer einzelnen Ansicht",
+      "description": "Rekonstruiere eine Bohrmaschine in Blender aus einer Referenzansicht. Modelliere Gehäuse, Griff, Bohrfutter und Bedienelemente als bearbeitbare Geometrie und prüfe das Ergebnis aus mehreren Blickwinkeln.",
+      "prompt": "Rekonstruiere eine Bohrmaschine in Blender aus einer Referenzansicht. Modelliere Gehäuse, Griff, Bohrfutter und Bedienelemente als bearbeitbare Geometrie und prüfe das Ergebnis aus mehreren Blickwinkeln.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096059736693305794"
+    },
+    "gpt-6-astra-2095981655370666076": {
+      "title": "3D-Vogelschleuderspiel",
+      "description": "Baue ein 3D-Schleuderspiel mit vier Vögeln und unterschiedlichen Spezialfähigkeiten. Integriere Zielen-und-Loslassen-Steuerung, zerstörbare Bauten und einen wiederholbaren Punkteablauf.",
+      "prompt": "Baue ein 3D-Schleuderspiel mit vier Vögeln und unterschiedlichen Spezialfähigkeiten. Integriere Zielen-und-Loslassen-Steuerung, zerstörbare Bauten und einen wiederholbaren Punkteablauf.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095981655370666076"
+    },
+    "gpt-6-astra-2095962376344309843": {
+      "title": "Third-Person-Shooter mit Bullet-Time",
+      "description": "Baue einen von Max Payne inspirierten Third-Person-Shooter in Three.js. Konzentriere dich auf Zeitlupenaction, direktes Waffengefühl und eine spielbare Szene mit guter Verfolgerkamera.",
+      "prompt": "Baue einen von Max Payne inspirierten Third-Person-Shooter in Three.js. Konzentriere dich auf Zeitlupenaction, direktes Waffengefühl und eine spielbare Szene mit guter Verfolgerkamera.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095962376344309843"
+    },
+    "gpt-6-astra-2096008241104711698": {
+      "title": "Wackelnder WebGPU-Wackelpudding",
+      "description": "Erstelle mit Three.js und WebGPU einen appetitlichen, federnden Wackelpudding. Er soll sich nach Interaktion natürlich verformen und beruhigen, mit durchscheinendem Material und gut lesbarer Beleuchtung.",
+      "prompt": "Erstelle mit Three.js und WebGPU einen appetitlichen, federnden Wackelpudding. Er soll sich nach Interaktion natürlich verformen und beruhigen, mit durchscheinendem Material und gut lesbarer Beleuchtung.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "WebGPU"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096008241104711698"
+    },
+    "gpt-6-astra-2095967131573649552": {
+      "title": "Interaktiver PS5-Controller",
+      "description": "Baue einen untersuchbaren PlayStation-5-Controller in Three.js mit erkennbarer Silhouette, Knöpfen, Triggern, Analogsticks und unterschiedlichen Oberflächenmaterialien.",
+      "prompt": "Baue einen untersuchbaren PlayStation-5-Controller in Three.js mit erkennbarer Silhouette, Knöpfen, Triggern, Analogsticks und unterschiedlichen Oberflächenmaterialien.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095967131573649552"
+    },
+    "gpt-6-astra-2096079660605997264": {
+      "title": "Astral War: Browser-Shooter",
+      "description": "Baue einen von World at War inspirierten Three.js-Browser-Shooter. Erstelle ein vollständig spielbares Schlachtfeld mit direktem Kampf, räumlichem Audio, Figurenassets und Matchablauf.",
+      "prompt": "Baue einen von World at War inspirierten Three.js-Browser-Shooter. Erstelle ein vollständig spielbares Schlachtfeld mit direktem Kampf, räumlichem Audio, Figurenassets und Matchablauf.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096079660605997264"
+    },
+    "gpt-6-astra-2096079976433082502": {
+      "title": "Vom Schaltplan-PDF zur Platine und 3D-Ansicht",
+      "description": "Überarbeite anhand eines Schaltplan-PDFs eine Schaltung in KiCad, route eine zweilagige 50 × 20 mm große Platine und rendere ihre 3D-Baugruppe. Prüfe Bauteildatenblätter und behebe Designregelverletzungen.",
+      "prompt": "Überarbeite anhand eines Schaltplan-PDFs eine Schaltung in KiCad, route eine zweilagige 50 × 20 mm große Platine und rendere ihre 3D-Baugruppe. Prüfe Bauteildatenblätter und behebe Designregelverletzungen.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096079976433082502"
+    },
+    "gpt-6-astra-2096149823216898445": {
+      "title": "Flugspiel im Browser",
+      "description": "Erstelle aus einem leeren Projekt ein vollständiges 3D-Flugspiel im Browser. Integriere steuerbaren Flug, navigierbare Umgebung, ein klares Ziel und eine stimmige Präsentation.",
+      "prompt": "Erstelle aus einem leeren Projekt ein vollständiges 3D-Flugspiel im Browser. Integriere steuerbaren Flug, navigierbare Umgebung, ein klares Ziel und eine stimmige Präsentation.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096149823216898445"
+    },
+    "gpt-6-astra-2096082432197837065": {
+      "title": "Interaktives Globus-Dashboard",
+      "description": "Baue ein Three.js-Globus-Dashboard nach einem Referenzbild nach. Integriere Tag- und Nachtmodus, lesbare geografische Daten und funktionierende Bedienelemente entsprechend der Vorlage.",
+      "prompt": "Baue ein Three.js-Globus-Dashboard nach einem Referenzbild nach. Integriere Tag- und Nachtmodus, lesbare geografische Daten und funktionierende Bedienelemente entsprechend der Vorlage.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096082432197837065"
+    },
+    "gpt-6-astra-2096107322536051057": {
+      "title": "Azadi-Turm in Blender",
+      "description": "Erstelle ein bearbeitbares Blender-Modell des Azadi-Turms. Konzentriere dich auf den ausgestellten Sockel, den kreuzenden Bogen, gemusterte Oberflächen und erkennbare Proportionen.",
+      "prompt": "Erstelle ein bearbeitbares Blender-Modell des Azadi-Turms. Konzentriere dich auf den ausgestellten Sockel, den kreuzenden Bogen, gemusterte Oberflächen und erkennbare Proportionen.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096107322536051057"
+    },
+    "gpt-6-astra-2096245759121277132": {
+      "title": "Scrollgesteuerte 3D-Studiowebsite",
+      "description": "Verwandle das Referenzbild in eine Three.js-Szene innerhalb einer flüssig scrollgesteuerten Studiowebsite. Stimme Kamerabewegung, Typografie und Abschnittsübergänge aufeinander ab.",
+      "prompt": "Verwandle das Referenzbild in eine Three.js-Szene innerhalb einer flüssig scrollgesteuerten Studiowebsite. Stimme Kamerabewegung, Typografie und Abschnittsübergänge aufeinander ab.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096245759121277132"
+    },
+    "gpt-6-astra-2096244208533455049": {
+      "title": "Komorebi: Kajakfahrt auf dem Fluss",
+      "description": "Baue ein 3D-Flusskajakspiel mit Anime-inspirierter Ästhetik. Spieler sollen links und rechts paddeln, um Hindernissen auszuweichen. Erzeuge fließendes Wasser, Landschaft, Musik und Soundeffekte per Code.",
+      "prompt": "Baue ein 3D-Flusskajakspiel mit Anime-inspirierter Ästhetik. Spieler sollen links und rechts paddeln, um Hindernissen auszuweichen. Erzeuge fließendes Wasser, Landschaft, Musik und Soundeffekte per Code.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096244208533455049"
+    },
+    "gpt-6-astra-2096243989439713677": {
+      "title": "Produktgeschichte mit lichtbrechender Flasche",
+      "description": "Baue eine interaktive Produktwebsite um eine fotorealistische WebGL-Glasflasche. Nutze lichtbrechende Flüssigkeit, scrollgesteuerte Rotation und markante Typografie, ohne die Browserperformance zu beeinträchtigen.",
+      "prompt": "Baue eine interaktive Produktwebsite um eine fotorealistische WebGL-Glasflasche. Nutze lichtbrechende Flüssigkeit, scrollgesteuerte Rotation und markante Typografie, ohne die Browserperformance zu beeinträchtigen.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "WebGL"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096243989439713677"
+    },
+    "gpt-6-astra-2096013280519016608": {
+      "title": "Gogh Strike: Multiplayer-FPS",
+      "description": "Baue einen postimpressionistischen 5-gegen-5-Ego-Shooter mit in Blender gerenderten Künstlerfiguren, erkennbaren Teams und einem vollständigen Multiplayer-Match im Browser.",
+      "prompt": "Baue einen postimpressionistischen 5-gegen-5-Ego-Shooter mit in Blender gerenderten Künstlerfiguren, erkennbaren Teams und einem vollständigen Multiplayer-Match im Browser.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096013280519016608"
+    },
+    "gpt-6-astra-2095988972879335792": {
+      "title": "Hack-and-Slash-Arena in einer Kathedrale",
+      "description": "Baue ein Third-Person-Hack-and-Slash-Spiel in Three.js in einer Kathedrale über einem toten Stern. Integriere leichte Schwertkombos, schwere Angriffe, Flächenmagie, Ausweichen und glaubwürdig geerdete Zweihandanimationen.",
+      "prompt": "Baue ein Third-Person-Hack-and-Slash-Spiel in Three.js in einer Kathedrale über einem toten Stern. Integriere leichte Schwertkombos, schwere Angriffe, Flächenmagie, Ausweichen und glaubwürdig geerdete Zweihandanimationen.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095988972879335792"
+    },
+    "gpt-6-astra-2096082580554777041": {
+      "title": "Prozedurale Züge in Explosionsansicht",
+      "description": "Generiere zwei Züge direkt in Three.js aus Maßen, Profilen und Geometriefunktionen. Animiere Räder und ergänze eine Explosions- und Wiederzusammensetzungssequenz.",
+      "prompt": "Generiere zwei Züge direkt in Three.js aus Maßen, Profilen und Geometriefunktionen. Animiere Räder und ergänze eine Explosions- und Wiederzusammensetzungssequenz.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096082580554777041"
+    },
+    "gpt-6-astra-2096201415051911597": {
+      "title": "Verspielte Kleinkind-Spielzeugwelt",
+      "description": "Baue ein warmes Three.js-Spielzimmer, in dem ein Kleinkind zwischen Spielzeugen wechselt und jedes anders animiert benutzt. Ergänze Spielmatte, Bücher, Regale, Klettergeräte sowie Orbit- und Zoomsteuerung.",
+      "prompt": "Baue ein warmes Three.js-Spielzimmer, in dem ein Kleinkind zwischen Spielzeugen wechselt und jedes anders animiert benutzt. Ergänze Spielmatte, Bücher, Regale, Klettergeräte sowie Orbit- und Zoomsteuerung.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096201415051911597"
+    },
+    "gpt-6-astra-2095967568825582044": {
+      "title": "Antigravitations-Kampfrennen",
+      "description": "Baue ein schnelles Antigravitations-Kampfrennspiel in Three.js mit Driften, Boosts, geneigten Kameras, Luftbremsen und Schilditems. Integriere leichte, ausgewogene und schwere Fahrzeuge auf einer erhöhten Alienrennstrecke.",
+      "prompt": "Baue ein schnelles Antigravitations-Kampfrennspiel in Three.js mit Driften, Boosts, geneigten Kameras, Luftbremsen und Schilditems. Integriere leichte, ausgewogene und schwere Fahrzeuge auf einer erhöhten Alienrennstrecke.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095967568825582044"
+    },
+    "gpt-6-astra-2096122429319852319": {
+      "title": "Lebendige Jetfertigung",
+      "description": "Recherchiere Flugzeugfertigung und baue eine live laufende Three.js-Jetfabriksimulation. Modelliere Maschinenzyklen, Produktionsstationen, Transporte und Engpässe und teste den Ablauf.",
+      "prompt": "Recherchiere Flugzeugfertigung und baue eine live laufende Three.js-Jetfabriksimulation. Modelliere Maschinenzyklen, Produktionsstationen, Transporte und Engpässe und teste den Ablauf.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096122429319852319"
+    },
+    "gpt-6-astra-2096251574918013135": {
+      "title": "Kaiju-Kampf in der Stadt",
+      "description": "Baue ein Kaiju-inspiriertes Three.js-Spiel mit generierten Kreaturenmodellen und Soundeffekten. Sorge für verständliche Riesenkämpfe und eine Umgebung, die die Größe der Kreaturen vermittelt.",
+      "prompt": "Baue ein Kaiju-inspiriertes Three.js-Spiel mit generierten Kreaturenmodellen und Soundeffekten. Sorge für verständliche Riesenkämpfe und eine Umgebung, die die Größe der Kreaturen vermittelt.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096251574918013135"
+    },
+    "gpt-6-astra-2096220264413409648": {
+      "title": "Ein Sturm in einem Würfel",
+      "description": "Generiere in Three.js einen in einem Würfel gefangenen Sturm mit steuerbarem Wetter.",
+      "prompt": "Generiere in Three.js einen in einem Würfel gefangenen Sturm mit steuerbarem Wetter.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096220264413409648"
+    },
+    "gpt-6-astra-2096047660662722620": {
+      "title": "Zork als 3D-Action-Abenteuer",
+      "description": "Verwandle das klassische Textabenteuer Zork in ein 3D-Action-Abenteuer. Bewahre Handlung und Rätsel, ergänze Kämpfe und baue Figuren und Umgebungen in Three.js.",
+      "prompt": "Verwandle das klassische Textabenteuer Zork in ein 3D-Action-Abenteuer. Bewahre Handlung und Rätsel, ergänze Kämpfe und baue Figuren und Umgebungen in Three.js.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096047660662722620"
+    },
+    "gpt-6-astra-2096133339329536249": {
+      "title": "Geriggter und animierter T. rex",
+      "description": "Rigg ein generiertes T.-rex-Modell und erstelle glaubwürdige Bewegungen. Rendere die Figur in Three.js und prüfe, ob die Animation das Modell stimmig verformt.",
+      "prompt": "Rigg ein generiertes T.-rex-Modell und erstelle glaubwürdige Bewegungen. Rendere die Figur in Three.js und prüfe, ob die Animation das Modell stimmig verformt.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096133339329536249"
+    },
+    "gpt-6-astra-2096174858837074198": {
+      "title": "Meeresleben in einer Kaffeetasse",
+      "description": "Erstelle ein Miniatur-Meeresökosystem in einer Kaffeetasse in Three.js. Enthülle das Wasserleben mit einer gezielten Kamera, während Tasse und kleine Größenverhältnisse klar erkennbar bleiben.",
+      "prompt": "Erstelle ein Miniatur-Meeresökosystem in einer Kaffeetasse in Three.js. Enthülle das Wasserleben mit einer gezielten Kamera, während Tasse und kleine Größenverhältnisse klar erkennbar bleiben.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096174858837074198"
+    },
+    "gpt-6-astra-2096250748099068377": {
+      "title": "Interaktive Hyperloop-Demo",
+      "description": "Baue eine interaktive Three.js-Hyperloop-Demonstration mit Transportkapsel, Röhreninfrastruktur und Bewegung durch das System.",
+      "prompt": "Baue eine interaktive Three.js-Hyperloop-Demonstration mit Transportkapsel, Röhreninfrastruktur und Bewegung durch das System.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096250748099068377"
+    },
+    "gpt-6-astra-2096234355395903672": {
+      "title": "Prozedurale Napoleon-Büste",
+      "description": "Programmiere eine 3D-Büste Napoleons in Three.js. Baue sie schrittweise, prüfe unterschiedliche Ansichten und verbessere Gesichtsproportionen und Kleidungsdetails.",
+      "prompt": "Programmiere eine 3D-Büste Napoleons in Three.js. Baue sie schrittweise, prüfe unterschiedliche Ansichten und verbessere Gesichtsproportionen und Kleidungsdetails.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096234355395903672"
+    },
+    "gpt-6-astra-2096226711222546461": {
+      "title": "Bahnhofshalle",
+      "description": "Erstelle eine Bahnhofshalle mit starkem architektonischem Rhythmus, glaubwürdigem Maßstab und überzeugenden Materialien. Liefere eine untersuchbare 3D-Szene mit sorgfältig komponierten Bahnhofsansichten.",
+      "prompt": "Erstelle eine Bahnhofshalle mit starkem architektonischem Rhythmus, glaubwürdigem Maßstab und überzeugenden Materialien. Liefere eine untersuchbare 3D-Szene mit sorgfältig komponierten Bahnhofsansichten.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096226711222546461"
+    },
+    "gpt-6-astra-2096222790894661841": {
+      "title": "Animiertes Onboarding-Diorama",
+      "description": "Baue ein kleines Onboarding-Diorama in Blender und belebe es in Three.js. Erkläre die ersten Nutzeraktionen mit klaren Blickpunkten und kurzen Animationssequenzen.",
+      "prompt": "Baue ein kleines Onboarding-Diorama in Blender und belebe es in Three.js. Erkläre die ersten Nutzeraktionen mit klaren Blickpunkten und kurzen Animationssequenzen.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096222790894661841"
+    },
+    "gpt-6-astra-2096206082712768897": {
+      "title": "OX Vice Drive: Rennen in einer offenen Stadt",
+      "description": "Baue ein offenes Browser-Stadtfahrspiel mit Verkehr, Driften und Lieferfahrten als Rennen. Entwirf eine Küstenstadt, deren Navigation Spaß macht und einen vollständigen Fahrablauf ermöglicht.",
+      "prompt": "Baue ein offenes Browser-Stadtfahrspiel mit Verkehr, Driften und Lieferfahrten als Rennen. Entwirf eine Küstenstadt, deren Navigation Spaß macht und einen vollständigen Fahrablauf ermöglicht.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096206082712768897"
+    },
+    "gpt-6-astra-2096111709496680842": {
+      "title": "Spielbares Remake einer Mobile-Game-Werbung",
+      "description": "Nutze eine Mobile-Game-Werbung als Vorlage für ein spielbares Browserspiel. Rekonstruiere ihre Kerninteraktion und passe mit Blender-Assets die visuelle Grundidee an.",
+      "prompt": "Nutze eine Mobile-Game-Werbung als Vorlage für ein spielbares Browserspiel. Rekonstruiere ihre Kerninteraktion und passe mit Blender-Assets die visuelle Grundidee an.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096111709496680842"
+    },
+    "gpt-6-astra-2095999578419929412": {
+      "title": "Anime-Arenakämpfe in Roblox",
+      "description": "Erstelle ein Roblox-Arena-Kampfspiel, inspiriert von Anime-Crossover-Kämpfen. Baue Arena und Figuren mit Blender und verfügbaren Assets und implementiere einen spielbaren Kampfablauf.",
+      "prompt": "Erstelle ein Roblox-Arena-Kampfspiel, inspiriert von Anime-Crossover-Kämpfen. Baue Arena und Figuren mit Blender und verfügbaren Assets und implementiere einen spielbaren Kampfablauf.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "Roblox"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095999578419929412"
+    },
+    "gpt-6-astra-2096258619574513880": {
+      "title": "Browser-Rennphysik in C# und WASM",
+      "description": "Rekonstruiere ein Trackmania-artiges Fahrphysiksystem in C#, führe es über WASM aus und rendere die Strecke in Three.js. Nutze kollidierbare Streckenmeshes und teste das Fahrzeughandling.",
+      "prompt": "Rekonstruiere ein Trackmania-artiges Fahrphysiksystem in C#, führe es über WASM aus und rendere die Strecke in Three.js. Nutze kollidierbare Streckenmeshes und teste das Fahrzeughandling.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096258619574513880"
+    },
+    "gpt-6-astra-2096141728487178503": {
+      "title": "Automatisches Figurenrig mit Kung-Fu-Bewegungen",
+      "description": "Erstelle für die bereitgestellte 3D-Figur ein Rig und ergänze Gehen, Laufen und mehrere Kung-Fu-Bewegungen. Prüfe die Animationen auf kaputte Gelenke und instabile Posen.",
+      "prompt": "Erstelle für die bereitgestellte 3D-Figur ein Rig und ergänze Gehen, Laufen und mehrere Kung-Fu-Bewegungen. Prüfe die Animationen auf kaputte Gelenke und instabile Posen.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096141728487178503"
+    },
+    "gpt-6-astra-2096107343268257953": {
+      "title": "Vom Artwork zur spielbaren Figur",
+      "description": "Rekonstruiere ein Noctavia-Figurenartwork als spielbare 3D-Figur. Bewahre die Designsprache und erstelle ein vollständiges Modell für eine interaktive Präsentation.",
+      "prompt": "Rekonstruiere ein Noctavia-Figurenartwork als spielbare 3D-Figur. Bewahre die Designsprache und erstelle ein vollständiges Modell für eine interaktive Präsentation.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096107343268257953"
+    },
+    "gpt-6-astra-2096023793772998704": {
+      "title": "Persönliches 3D-Portfolio mit Vortragsglobus",
+      "description": "Verwandle ein Porträt in eine Blender-Figur innerhalb eines redaktionell gestalteten WebGL-Portfolios. Ergänze einen rotierenden Globus mit Vortragsorten und integriere die Assets in die Website.",
+      "prompt": "Verwandle ein Porträt in eine Blender-Figur innerhalb eines redaktionell gestalteten WebGL-Portfolios. Ergänze einen rotierenden Globus mit Vortragsorten und integriere die Assets in die Website.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "WebGL"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096023793772998704"
+    },
+    "gpt-6-astra-2096056285896536086": {
+      "title": "Sonic-inspirierter Godot-Vertical-Slice",
+      "description": "Baue in Godot einen ausgefeilten Sonic-inspirierten 3D-Level mit lokalen und prozeduralen Assets. Priorisiere Schwung, direkte Fortbewegung, Ringe, Loopings, Grindrails und eine durchgehende tropische Küste.",
+      "prompt": "Baue in Godot einen ausgefeilten Sonic-inspirierten 3D-Level mit lokalen und prozeduralen Assets. Priorisiere Schwung, direkte Fortbewegung, Ringe, Loopings, Grindrails und eine durchgehende tropische Küste.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Godot"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096056285896536086"
+    },
+    "gpt-6-astra-2096140378777010278": {
+      "title": "Wikingerfigur in Blender",
+      "description": "Erstelle eine bearbeitbare 3D-Wikingerfigur in Blender. Konzentriere dich auf erkennbare Kleidung, Gesichtsstruktur, Körperproportionen und eine klare Präsentationspose.",
+      "prompt": "Erstelle eine bearbeitbare 3D-Wikingerfigur in Blender. Konzentriere dich auf erkennbare Kleidung, Gesichtsstruktur, Körperproportionen und eine klare Präsentationspose.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096140378777010278"
+    },
+    "gpt-6-astra-2096155883122413946": {
+      "title": "Dropzone: Battle-Royale-Arena",
+      "description": "Baue ein Third-Person-Browser-Battle-Royale mit Sturmkreis, neun KI-Gegnern, Pulsgewehr, Gesundheit und Nachladen. Ergänze platzierbare Deckungswände und einen vollständigen Eliminationsablauf.",
+      "prompt": "Baue ein Third-Person-Browser-Battle-Royale mit Sturmkreis, neun KI-Gegnern, Pulsgewehr, Gesundheit und Nachladen. Ergänze platzierbare Deckungswände und einen vollständigen Eliminationsablauf.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096155883122413946"
+    },
+    "gpt-6-astra-2096096998092841449": {
+      "title": "Rundgang durch den Garten des Suzhou-Museums",
+      "description": "Nutze eine Webseite über das Suzhou-Museum als Referenz und rekonstruiere seinen Garten in Blender. Produziere einen durchgehenden Rundgang, der die Beziehung zwischen moderner Architektur und traditioneller chinesischer Gartenkunst bewahrt.",
+      "prompt": "Nutze eine Webseite über das Suzhou-Museum als Referenz und rekonstruiere seinen Garten in Blender. Produziere einen durchgehenden Rundgang, der die Beziehung zwischen moderner Architektur und traditioneller chinesischer Gartenkunst bewahrt.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096096998092841449"
+    },
+    "gpt-6-astra-2095986941753712841": {
+      "title": "Interaktive Wissenschaftsausstellung über Titan",
+      "description": "Baue eine lehrreiche 3D-Simulation von Titan, Saturns größtem Mond, mit erkundbarer Umgebung und einer Informationsebene zu seinen besonderen physikalischen Eigenschaften.",
+      "prompt": "Baue eine lehrreiche 3D-Simulation von Titan, Saturns größtem Mond, mit erkundbarer Umgebung und einer Informationsebene zu seinen besonderen physikalischen Eigenschaften.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095986941753712841"
+    },
+    "gpt-6-astra-2096040448477515874": {
+      "title": "Evolvierendes WebGL-Ökosystem",
+      "description": "Baue ein sich entwickelndes 3D-Ökosystem in einer HTML-Datei mit reinem WebGL und GLSL. Lass Mutation, natürliche Selektion, Raubverhalten, Energieverbrauch und mehrzellige Verbindungen zusammenwirken.",
+      "prompt": "Baue ein sich entwickelndes 3D-Ökosystem in einer HTML-Datei mit reinem WebGL und GLSL. Lass Mutation, natürliche Selektion, Raubverhalten, Energieverbrauch und mehrzellige Verbindungen zusammenwirken.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "WebGL"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096040448477515874"
+    },
+    "gpt-6-astra-2096042360513904742": {
+      "title": "Liefernetz mit Brückensperrungen",
+      "description": "Baue eine 3D-Liefersimulation, in der Brückensperrungen Lkw-Routen ändern. Erkenne unerreichbare Ziele und nimm Lieferungen wieder auf, sobald eine Route geöffnet wird.",
+      "prompt": "Baue eine 3D-Liefersimulation, in der Brückensperrungen Lkw-Routen ändern. Erkenne unerreichbare Ziele und nimm Lieferungen wieder auf, sobald eine Route geöffnet wird.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096042360513904742"
+    },
+    "gpt-6-astra-2096062355692048605": {
+      "title": "Sinclair-ZX-Spectrum-Simulator",
+      "description": "Rekonstruiere einen Sinclair ZX Spectrum 48K als interaktive 3D-Desktop-App. Integriere Gummitastatur, Kassettenrekorder, Startbildschirm, ein spielbares Spiel und eine BASIC-Programmierschnittstelle.",
+      "prompt": "Rekonstruiere einen Sinclair ZX Spectrum 48K als interaktive 3D-Desktop-App. Integriere Gummitastatur, Kassettenrekorder, Startbildschirm, ein spielbares Spiel und eine BASIC-Programmierschnittstelle.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096062355692048605"
+    },
+    "gpt-6-astra-2096092080397246707": {
+      "title": "Vom Photogrammetriescan zum bearbeitbaren Wohnzimmer",
+      "description": "Baue ein Wohnzimmer anhand eines Photogrammetriescans in Blender neu auf. Modelliere die Szene von Grund auf, entnimm Texturen aus dem Scan und verwende bei Bedarf prozedurale Shader.",
+      "prompt": "Baue ein Wohnzimmer anhand eines Photogrammetriescans in Blender neu auf. Modelliere die Szene von Grund auf, entnimm Texturen aus dem Scan und verwende bei Bedarf prozedurale Shader.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096092080397246707"
+    },
+    "gpt-6-astra-2096135808243876152": {
+      "title": "Odyssey-inspiriertes Plattformabenteuer",
+      "description": "Baue einen Odyssey-inspirierten Three.js-Level mit acht Plattformen, drei sammelbaren Monden, zurückkehrenden Kappenangriffen, Gegnern und Checkpoints. Ergänze Touchsteuerung und teste einen vollständigen Durchlauf.",
+      "prompt": "Baue einen Odyssey-inspirierten Three.js-Level mit acht Plattformen, drei sammelbaren Monden, zurückkehrenden Kappenangriffen, Gegnern und Checkpoints. Ergänze Touchsteuerung und teste einen vollständigen Durchlauf.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096135808243876152"
+    },
+    "gpt-6-astra-2096221988763173186": {
+      "title": "Interaktive Anatomie in Explosionsansicht",
+      "description": "Baue eine 3D-Anatomiewebsite, auf der sich der menschliche Körper in einzeln untersuchbare Strukturen zerlegt. Mache die Explosionsansicht navigierbar und ordne Teile sinnvollen Organsystemen zu.",
+      "prompt": "Baue eine 3D-Anatomiewebsite, auf der sich der menschliche Körper in einzeln untersuchbare Strukturen zerlegt. Mache die Explosionsansicht navigierbar und ordne Teile sinnvollen Organsystemen zu.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096221988763173186"
+    },
+    "gpt-6-astra-2096009146248122416": {
+      "title": "Tesla Model X in Explosionsansicht",
+      "description": "Erstelle eine 3D-Website, die ein Tesla Model X in modellierte Komponenten zerlegt. Besucher sollen Baugruppen untersuchen und das Fahrzeug interaktiv wieder zusammensetzen können.",
+      "prompt": "Erstelle eine 3D-Website, die ein Tesla Model X in modellierte Komponenten zerlegt. Besucher sollen Baugruppen untersuchen und das Fahrzeug interaktiv wieder zusammensetzen können.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096009146248122416"
+    },
+    "gpt-6-astra-2096241295949975602": {
+      "title": "Erinnerungskapselmaschine",
+      "description": "Baue eine 3D-Erinnerungskapselmaschine. Ein Drehknopf gibt eine Erinnerung frei. Modelliere die Mechanik in Blender und gib fallenden Kapseln plausible Bewegung und Geräusche.",
+      "prompt": "Baue eine 3D-Erinnerungskapselmaschine. Ein Drehknopf gibt eine Erinnerung frei. Modelliere die Mechanik in Blender und gib fallenden Kapseln plausible Bewegung und Geräusche.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096241295949975602"
+    },
+    "gpt-6-astra-2096125193580113957": {
+      "title": "Formel-1-Auto in Blender",
+      "description": "Erstelle durch Computerbedienung ein 3D-Formel-1-Modell in Blender.",
+      "prompt": "Erstelle durch Computerbedienung ein 3D-Formel-1-Modell in Blender.",
+      "evidenceNote": "Aus der öffentlichen Projektbeschreibung des Autors abgeleitet.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096125193580113957"
+    }
+  }
+}

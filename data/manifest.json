@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "snapshotDate": "2026-09-06",
+  "source": {
+    "name": "Tripo 3D Prompts",
+    "url": "https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra"
+  },
+  "model": "gpt-6-astra",
+  "count": 103,
+  "locales": [
+    "en",
+    "zh",
+    "es",
+    "ko",
+    "ru",
+    "pt",
+    "ja",
+    "tr",
+    "de",
+    "fr",
+    "it",
+    "zh-Hant",
+    "uk",
+    "vi"
+  ],
+  "evidenceCounts": {
+    "verbatim": 2,
+    "source-derived": 101
+  },
+  "repositoryCount": 3,
+  "promptsWithRepository": 4,
+  "promptsWithDemo": 5,
+  "mediaCounts": {
+    "images": 103,
+    "videos": 0
+  },
+  "originalPromptCount": 0,
+  "sourceExcerptCount": 0,
+  "sourcePublishedRange": {
+    "from": "2026-08-29T13:21:11.000Z",
+    "to": "2026-09-05T15:26:16.000Z"
+  },
+  "files": [
+    {
+      "path": "data/prompts.json",
+      "sha256": "3d050575961afbfbff22676a58ab9e07e3e88db3790566f3afa9b3216a20890f",
+      "bytes": 126917
+    },
+    {
+      "path": "data/locales/en.json",
+      "sha256": "aeb711bf8c345c518b4a08b7e1738d4176347e9d9f3e434d5692b0d07ba0b5e7",
+      "bytes": 76271
+    },
+    {
+      "path": "data/locales/zh.json",
+      "sha256": "5fdc09180e520efd3c3d7040acd255225ca0a2758d6ac8e0d3d391a393cde21f",
+      "bytes": 69705
+    },
+    {
+      "path": "data/locales/es.json",
+      "sha256": "41c22b49f8ed01c55f88cbc990cdc439af07eb4d871089c52969d84db8a66000",
+      "bytes": 87995
+    },
+    {
+      "path": "data/locales/ko.json",
+      "sha256": "25cc3b3de19cc521b23f736f8f53e5e145bea5699dcb9835966f5d8f655b8576",
+      "bytes": 90588
+    },
+    {
+      "path": "data/locales/ru.json",
+      "sha256": "d029fde1ac4695532312697b4035a50c22398c15a81f752e555cbe309c1e230f",
+      "bytes": 120271
+    },
+    {
+      "path": "data/locales/pt.json",
+      "sha256": "a89435d47a001b2cb39dd98156a70c3bc7d77eba3e93123e013444717acb0ed3",
+      "bytes": 85526
+    },
+    {
+      "path": "data/locales/ja.json",
+      "sha256": "aac266c7e88542411127ba733f86cbe23e7c5a377785314f14f107c3505481a7",
+      "bytes": 95042
+    },
+    {
+      "path": "data/locales/tr.json",
+      "sha256": "cfdbcee9aef6e8b57fad292fa58dd5ab5ffde5d63f53be97799d6c78e4ee2cfe",
+      "bytes": 83449
+    },
+    {
+      "path": "data/locales/de.json",
+      "sha256": "6a5b4808e1ba4c48d28ee401e2af71354f665af7c9c3d0b62ac66fefcfc9d921",
+      "bytes": 85074
+    },
+    {
+      "path": "data/locales/fr.json",
+      "sha256": "f41be0a3be9ef67f711d4ff59dce6b865b99bbacf3a1b213a18f898a3b422772",
+      "bytes": 88429
+    },
+    {
+      "path": "data/locales/it.json",
+      "sha256": "631dec0b03e270189229ccc40107a74c72d49793abfa4cf244a988da7cc0ffba",
+      "bytes": 84907
+    },
+    {
+      "path": "data/locales/zh-Hant.json",
+      "sha256": "68b639c8fe10c7827bb2b9dad799f9eea7c26f8581059043664e9bc5f734e215",
+      "bytes": 70582
+    },
+    {
+      "path": "data/locales/uk.json",
+      "sha256": "ace79a6ea9f6ef52a51301c08a9164ab160b252f50acdcf487e81f15173edf48",
+      "bytes": 116637
+    },
+    {
+      "path": "data/locales/vi.json",
+      "sha256": "616ba9b6e3e6ff22f3fac94ed923804795fd33280f7a26660eb7287edd71c337",
+      "bytes": 91818
+    },
+    {
+      "path": "data/repositories.json",
+      "sha256": "462f05ab07def1287de586496b9665ff4cfd57c7464620aadc40fc48e10405b5",
+      "bytes": 1225
+    }
+  ]
+}

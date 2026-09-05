@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Astra prompt collection",
+  "description": "English prompt collection. Localized records share stable prompt IDs. Third-party source and media rights remain with their owners.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "model", "homepage", "locales", "count", "prompts"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "model": { "type": "object", "additionalProperties": false, "required": ["id", "name"], "properties": { "id": { "const": "gpt-6-astra" }, "name": { "const": "GPT-6 Astra" } } },
+    "homepage": { "$ref": "#/$defs/url" },
+    "locales": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "type": "string", "minLength": 2 } },
+    "count": { "type": "integer", "minimum": 1 },
+    "prompts": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/prompt" } }
+  },
+  "$defs": {
+    "text": { "type": "string", "minLength": 1 },
+    "url": { "type": "string", "format": "uri", "pattern": "^https://" },
+    "mediaReference": { "type": "string", "minLength": 1, "pattern": "^(https://|(?:\\./)?(?:assets|media)/)" },
+    "prompt": {
+      "type": "object", "additionalProperties": false,
+      "required": ["id", "model", "title", "description", "prompt", "author", "source", "evidence", "tags", "links", "media"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+        "model": { "const": "gpt-6-astra" },
+        "title": { "$ref": "#/$defs/text" }, "description": { "$ref": "#/$defs/text" }, "prompt": { "$ref": "#/$defs/text" },
+        "author": { "type": "object", "additionalProperties": false, "required": ["name", "url"], "properties": { "name": { "$ref": "#/$defs/text" }, "url": { "$ref": "#/$defs/url" } } },
+        "source": { "type": "object", "additionalProperties": false, "required": ["url", "publishedAt", "language"], "properties": { "url": { "$ref": "#/$defs/url" }, "publishedAt": { "type": "string", "format": "date-time" }, "language": { "$ref": "#/$defs/text" } } },
+        "evidence": { "type": "object", "additionalProperties": false, "required": ["kind", "note"], "properties": { "kind": { "enum": ["verbatim", "source-derived"] }, "note": { "$ref": "#/$defs/text" } } },
+        "tags": { "type": "array", "items": { "$ref": "#/$defs/text" } },
+        "links": { "type": "object", "additionalProperties": false, "required": ["tripo"], "properties": { "tripo": { "$ref": "#/$defs/url" }, "repository": { "$ref": "#/$defs/url" }, "demo": { "$ref": "#/$defs/url" } } },
+        "media": { "type": "object", "additionalProperties": false, "required": ["image"], "properties": { "image": { "$ref": "#/$defs/mediaReference" }, "video": { "$ref": "#/$defs/mediaReference" } } },
+        "originalPrompt": { "$ref": "#/$defs/text" },
+        "sourceExcerpt": { "const": true }
+      }
+    },
+    "localizedPrompt": {
+      "type": "object", "additionalProperties": false,
+      "required": ["title", "description", "prompt", "evidenceNote", "tags", "pageUrl"],
+      "properties": { "title": { "$ref": "#/$defs/text" }, "description": { "$ref": "#/$defs/text" }, "prompt": { "$ref": "#/$defs/text" }, "evidenceNote": { "$ref": "#/$defs/text" }, "tags": { "type": "array", "items": { "$ref": "#/$defs/text" } }, "pageUrl": { "$ref": "#/$defs/url" } }
+    }
+  }
+}

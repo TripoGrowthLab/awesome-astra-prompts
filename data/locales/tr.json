@@ -1,0 +1,1228 @@
+{
+  "locale": "tr",
+  "model": "gpt-6-astra",
+  "count": 103,
+  "prompts": {
+    "gpt-6-astra-2095596175705399482": {
+      "title": "Unreal'da kendi kendine hayatta kalan insan toplumu",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Unreal Engine'de otonom insan ajanlarının yaşadığı bir dünya oluştur. Her birine bireysel ihtiyaçlar ve ortak bir hayatta kalma amacı ver; iletişim kurmaları, işleri paylaşmaları, barınak yapmaları ve oyuncu ayrıldığında toplumu yaşatmaları gereksin.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "Unreal Engine",
+        "otonom ajanlar",
+        "hayatta kalma simülasyonu"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095596175705399482"
+    },
+    "gpt-6-astra-2095609734845927525": {
+      "title": "Unreal Engine'de sokak sokak Manhattan",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Unreal Engine'de keşfedilebilir bir Manhattan oluştur. Tanınabilir ölçeği, yol ağını, önemli yapıları, trafiği ve mahallelerin karakterini koruyarak bölge bölge, sokak sokak ilerle. Bir değerlendirme kontrol listesi tut ve sonraki alana geçmeden her alanı iyileştir.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "Unreal Engine",
+        "Manhattan",
+        "açık dünya"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095609734845927525"
+    },
+    "gpt-6-astra-2095636679264780481": {
+      "title": "Blender'da modern villa sahnesi",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Blender'da tutarlı mimarisi, döşenmiş iç mekânları, sonsuzluk havuzu, peyzajı, gerçekçi malzemeleri ve altın saatte sinematik kamera rotası olan eksiksiz bir modern villa sahnesi oluştur.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "villa",
+        "mimari görselleştirme"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095636679264780481"
+    },
+    "gpt-6-astra-2095599934766764338": {
+      "title": "Tek istemle tarayıcıda 3B oyun",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Tarayıcıda çalışan eksiksiz bir 3B oyunu kendi kendine yeterli tek bir proje olarak oluştur. Açık bir hedef, hızlı tepki veren kontroller, mekânsal açıdan tutarlı bölümler, düşmanlar veya tehlikeler, geri bildirim, puanlama, yeniden başlatma ve performans önlemleri ekle.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "tarayıcı oyunu",
+        "tek denemede",
+        "uzamsal akıl yürütme"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095599934766764338"
+    },
+    "gpt-6-astra-2095598645190291775": {
+      "title": "Ev fotoğrafından düzenlenebilir Blender dünyasına",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Verilen ev görüntüsünü bütünüyle düzenlenebilir bir Blender sahnesi olarak yeniden oluştur. Mimariyi, mobilyaları, ev aletlerini ve oyuncakları ayrı nesneler olarak modelle. Makul oranları koru ve sonucu yerel olarak 60 FPS'de akıcı bir gezinti olarak çalıştır.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "görselden 3D'ye",
+        "düzenlenebilir ev"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095598645190291775"
+    },
+    "gpt-6-astra-2095612137582526615": {
+      "title": "Zillow ilanından 3B emlak tanıtım filmine",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Verilen emlak ilanını ve ilandaki tüm fotoğrafları kullanarak evi 3B olarak yeniden oluştur, tutarlı bir kat planı çıkar ve özenli bir tanıtım gezintisi videosu hazırla. Geometrisi belirsiz kısımları işaretle ve ilk sürümden sonra uyuşmazlıkları düzelt.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "emlak",
+        "emlak ilanı fotoğrafları",
+        "3D sanal tur"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095612137582526615"
+    },
+    "gpt-6-astra-2095756085890310311": {
+      "title": "Buharlı tren çiziminden düzenlenebilir Blender montajına",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Verilen eski buharlı tren çizimini Blender'da ayrıntılı bir mekanik montaj olarak yeniden oluştur. Tekerlekleri, aksları, süspansiyonu, biyelleri, kazan bağlantılarını ve gövde panellerini adlandırılmış, düzenlenebilir nesneler olarak tut. Ayrıntı bütçesi ayarlanabilir olsun.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "buharlı lokomotif",
+        "mekanik modelleme"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095756085890310311"
+    },
+    "gpt-6-astra-2095630197257367857": {
+      "title": "Cycles için prosedürel Oval Ofis dekoru",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Oval Ofis'in dekor açıklamasını çalıştırılabilir sahne koduna dönüştür. Blender'da mobilyaları, duvarları, ışıkları ve kamera yerleşimleri düzenlenebilir olan mekânı kur; ardından Cycles ile sinematik bir render al.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "Cycles",
+        "dekor tasarımı"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095630197257367857"
+    },
+    "gpt-6-astra-2095597137849446688": {
+      "title": "Tek seferde Minecraft tarzı dünya",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Tek seferde Minecraft'tan esinlenen oynanabilir bir voksel dünyası oluştur. Arazi üretimi, blok yerleştirme ve kırma, birinci şahıs kontrolleri, envanter, aydınlatma, su ve kompakt bir hayatta kalma döngüsü ekle.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "voksel oyunu",
+        "Minecraft esintili",
+        "tek denemede"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095597137849446688"
+    },
+    "gpt-6-astra-2095653641164329143": {
+      "title": "Blender'da Güzel Sanatlar Sarayı'nın yeniden yapımı",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "San Francisco'daki Güzel Sanatlar Sarayı'nı Blender'da yeniden oluştur. Tanınabilir kubbeli yapı oranları, sütun dizileri, gölet, bitki örtüsü, yıpranmış malzemeler ve dünya fuarları döneminin iyimserliğini yansıtan sinematik ışık kullan.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "Güzel Sanatlar Sarayı",
+        "mimari"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095653641164329143"
+    },
+    "gpt-6-astra-2095776685807346105": {
+      "title": "Altı Van Gogh tablosundan yürünebilir kasaba",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Verilen altı Van Gogh tablosunu Three.js'de tutarlı, yürünebilir tek bir kasabaya dönüştür. Sokakları, önemli yerleri ve geçişleri keşfedilebilir bir dünyada birleştirirken her tablonun renk paletini ve fırça karakterini koru.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "Van Gogh",
+        "içinde gezilebilen sanat"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095776685807346105"
+    },
+    "gpt-6-astra-2095608358086840647": {
+      "title": "Yeni başlayanlar için sesle yönlendirilen 3B oyun",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "3B oyun geliştiricim ol. Yalnızca eksik olan oyuncu hedefini, sanat yönünü ve kontrolleri sor. Ardından hemen oynayabileceğim bir tarayıcı oyunu oluştur ve kısa sesli talimatlarımla düzenlemeye devam et.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "sesli komutlarla çalışma",
+        "3D oyun",
+        "başlangıç düzeyi"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095608358086840647"
+    },
+    "gpt-6-astra-2095580402505400369": {
+      "title": "Tek kaba prototipten üç temalı kart yarışı",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Verilen Unity kart yarışı kaba prototipinden korsan, şekerleme ve siberpunk temalı üç oynanabilir sürüm üret. Temel sürüş döngüsünü yeniden kullan, ortamları ve geri bildirimleri değiştir, her sürümü oynayarak test et ve en belirgin hataları düzelt.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity",
+        "kart yarışı oyunu",
+        "gri kutu prototipi"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095580402505400369"
+    },
+    "gpt-6-astra-2095596341422440714": {
+      "title": "Tarayıcıda açık dünya macerası",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Birbirine bağlı çeşitli biyomları, dolaşımı, keşifleri, hafif çatışmaları, görevleri, önemli yerleri ve gece-gündüz atmosferi olan açık dünya 3B macerası oluştur. Keşfin amaçlı hissettirmesi için yeterli yönlendirme sağla.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "açık dünya",
+        "macera oyunu",
+        "tarayıcıda 3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095596341422440714"
+    },
+    "gpt-6-astra-2095619319690400253": {
+      "title": "Fotogerçekçi 3B ürün maketi stüdyosu",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Yüklenen tasarımları fotogerçekçi 3B ürün maketlerine yerleştiren bir tarayıcı aracı oluştur. Yörünge kamerası, malzeme ve renk kontrolleri, ortam aydınlatması, birden fazla ürün ve yüksek çözünürlüklü dışa aktarma destekle.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "3D tasarım maketi",
+        "ürün görselleştirme",
+        "tarayıcı aracı"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095619319690400253"
+    },
+    "gpt-6-astra-2095673885605630429": {
+      "title": "Yaşayan prosedürel okyanus ve fırtına simülasyonu",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Verilen tek dosyalık okyanus yüzeyi fırtına üreticisini eksiksiz bir prosedürel okyanusa genişlet. Resifler, derin sular, inandırıcı hava koşulları, kendiliğinden davranışlar geliştiren hayvan popülasyonları, ekosistem etkileşimleri ve yüzey ile su altı arasında dolaşabilen bir kamera ekle.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "prosedürel okyanus",
+        "hayvan simülasyonu"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095673885605630429"
+    },
+    "gpt-6-astra-2095611134992945385": {
+      "title": "Referans görüntüden 3B akvaryum oyunu",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Verilen referans görüntüyü kullanarak tek seferde eksiksiz bir 3B akvaryum oyunu oluştur. Akvaryumun kompozisyonunu yeniden kur, balıkları canlandır; besleme ve koleksiyon etkileşimleri, su efektleri, kamera kontrolleri ve açık bir hedef ekle.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "akvaryum oyunu",
+        "referans görsel",
+        "tek istem"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095611134992945385"
+    },
+    "gpt-6-astra-2095647685210669541": {
+      "title": "Tek istemle gerçek zamanlı oynanabilir 3B oyun",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Tek istemden gerçek zamanlı, oynanabilir bir 3B oyun oluştur. Kompakt bir temel mekanik, açık bir hedef ve kısa bir hikâye belirle. Ardından sahneyi, karakterleri, nesneleri, geri bildirimleri ve yeniden başlatma durumunu üreterek hemen oynanabilir hâle getir.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "gerçek zamanlı 3D",
+        "oynanabilir oyun",
+        "tek istem"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095647685210669541"
+    },
+    "gpt-6-astra-2095840435319001278": {
+      "title": "Tek turda Three.js deniz savaşı sahnesi",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Three.js'de tek turda ayrıntılı bir deniz savaşı oluştur. Farklı gemiler, fiziksel olarak inandırıcı su etkileşimi, dümen suyu ve sıçramalar, hava çatışmaları, patlamalar, sinematik aydınlatma, kamera hareketi ve performansı gözeten render ekle.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "deniz savaşı",
+        "tek turda"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095840435319001278"
+    },
+    "gpt-6-astra-2095598026916049024": {
+      "title": "Halo'dan esinlenen 10'a 10 çok oyunculu FPS",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Klasik bilim kurgu FPS oyunlarından esinlenen 10'a 10 çok oyunculu arena nişancı oyunu oluştur. Takımlar, yeniden doğma, ayırt edilebilir silahlar, kalkanlar, toplanabilir nesneler, kompakt haritalar, puanlama, maç akışı ve düşük gecikmeli tarayıcı oyunu ekle.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "çok oyunculu FPS",
+        "bilim kurgu arenası",
+        "10v10"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095598026916049024"
+    },
+    "gpt-6-astra-2095719731860750613": {
+      "title": "Etkileşimli voksel tren maketi",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Three.js'de ayrıntılı bir voksel tren maketi oluştur. Kullanıcılar birden fazla treni başlatıp durdurabilsin, rayları değiştirebilsin, masanın çevresinde dönebilip yakınlaşabilsin, minyatür kasabaları inceleyebilsin ve küçük çevre animasyonlarını tetikleyebilsin.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "voksel tren",
+        "etkileşimli oyuncak"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095719731860750613"
+    },
+    "gpt-6-astra-2095699049722581065": {
+      "title": "Şişede yaşayan voksel gemi",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Cam şişenin içinde yüzen, 17. yüzyıla ait ayrıntılı bir voksel gemi oluştur. Dalgaları ve geminin hareketini simüle et; dönen martılar, minyatür liman ve mercan resifleri ekle. Ardından sinematik bir kamera sekansı ve sakin bir müzik hazırla.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "şişede gemi",
+        "voksel sanatı"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095699049722581065"
+    },
+    "gpt-6-astra-2095641163441254676": {
+      "title": "Yazdırılabilir USS Enterprise CAD montajı",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "CAD'de USS Enterprise NCC-1701'e özgün bir saygı duruşu niteliğinde, baskıya hazır model tasarla. Tanınabilir oranlar, komuta köprüsü ve seçilmiş iç mekânlar, en az 28 işlevsel hareketli parça, ayrılmış montajlar ve dışa aktarılabilir üretim dosyaları ekle.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "CAD",
+        "yıldız gemisi",
+        "3D baskı"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095641163441254676"
+    },
+    "gpt-6-astra-2095630044102279312": {
+      "title": "Unity'de uzay hendeği uçuş oyunu",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Unity'de klasik bir uzay hendeği saldırısının hissini yeniden yarat. Alçaktan hızlı uçuş, taret ateşi, engeller, hedefleme, artan baskı, son hedef ve sinematik başarı veya başarısızlık sekansı ekle.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity",
+        "hendek uçuşu",
+        "uzay oyunu"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095630044102279312"
+    },
+    "gpt-6-astra-2093690427849191855": {
+      "title": "Prosedürel voksel kale gösterimi",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Açıkça okunabilen savunma katmanları, kuleler, surlar, kapılar, avlular ve çevre arazisi olan büyük bir voksel kale üret. Kararlı ve incelenebilir bir sonuç için örnekleme, yörünge kamerası, değişen ışık ve deterministik üretim kullan.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "voksel kale",
+        "prosedürel mimari",
+        "örnekleme (instancing)"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2093690427849191855"
+    },
+    "gpt-6-astra-2095597640587374887": {
+      "title": "Hazır kaynaklarla keşfedilebilir Unity şehri",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Verilen kaynak kitaplığından keşfedilebilir bir Unity şehri kur. Tutarlı yol ağı, kuleler, araçlar, palmiyeler, aydınlatma ve gezinme oluştur. Ardından sahneyi optimize et ve kararlı bir birinci şahıs gezintisi hazırla.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity",
+        "şehir oluşturma",
+        "varlık kütüphanesi"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095597640587374887"
+    },
+    "gpt-6-astra-2095868420327710840": {
+      "title": "Blender'da mekanik olarak eksiksiz lokomotif",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Blender'da bir buharlı lokomotifi dokulu bir kabuk olarak değil, gerçek mekanik parçalara ayrılmış biçimde modelle. Aksları, aks kutusu kılavuzlarını, yatak bloklarını, gergileri, süspansiyon bağlantılarını, buhar kubbesini ve tüm ana montajları ayrı tutup adlandır.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "lokomotif",
+        "mekanik montaj"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095868420327710840"
+    },
+    "gpt-6-astra-2095819786651374023": {
+      "title": "Tidal Rush: tarayıcıda sekiz yarışçı",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Tarayıcıda eksiksiz bir kart yarışı oyunu oluştur. Sekiz yarışçı, üç tur, drift, toplanabilir nesneler, hızlı tepki veren fizik, açık HUD, çekici grafikler ve bitişte sonuç ekranı ekle.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "kart yarışı",
+        "tarayıcı oyunu",
+        "drift"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095819786651374023"
+    },
+    "gpt-6-astra-2095805694603673631": {
+      "title": "Lansman açılışı için gerçek zamanlı WebGL galaksisi",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Verilen galaksi açılışının görsel dilini çözümle ve video yerine gerçek zamanlı WebGL olarak yeniden oluştur. Derinlikli parçacıklar, parlayan toz, yumuşak imleç tepkisi, tipografi için sade alan ve uyarlanabilir performans kullan.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "WebGL",
+        "galaksi temalı açılış bölümü",
+        "etkileşimli web sitesi"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095805694603673631"
+    },
+    "gpt-6-astra-2095898198413922791": {
+      "title": "Kendi kendine oynayan kültürel arcade oyunu",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Bir G7 ülkesi için kendi kendine oynayan arcade oyunu oluştur. Tanınabilir bir kültürel simgeyi temel mekaniğe dönüştür, eylem giriş olmadan anlaşılabilsin. Puan, artan zorluk ve akılda kalıcı bir açığa çıkış ekle.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "arcade oyunu",
+        "kültür temalı oyun",
+        "kendi kendine oynayan"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095898198413922791"
+    },
+    "gpt-6-astra-2095597560253862065": {
+      "title": "Tek seferde özenli etkileşimli prototip",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Verilen ürün fikrinden tek seferde üst düzey bir etkileşimli prototip tasarla ve geliştir. Güçlü bir görsel sistem seç, ana eyleme öncelik ver, özenli geçişler ekle ve barındırılan, ekranlara uyumlu bir sürüm teslim et.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "etkileşimli prototip",
+        "tek denemede",
+        "ürün tasarımı"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095597560253862065"
+    },
+    "gpt-6-astra-2095776712579571725": {
+      "title": "Patlatılmış görünümde etkileşimli 3B turboşarj",
+      "description": "Yazar, bağlantılı X gönderisinde görevin tam metnini yayımladı; yalnızca küçük noktalama ve biçim düzenlemeleri yapıldı.",
+      "prompt": "Etkileşimli bir 3B turboşarj oluştur. Çalışan tüm sistemleri ayır. Döndürebileyim, parçaları tek başına görebileyim ve makinenin gerçekte ne yaptığını anlayabileyim.",
+      "evidenceNote": "Yazarın yayımladığı birebir istem",
+      "tags": [
+        "GPT-6 Astra",
+        "etkileşimli mühendislik",
+        "turboşarj",
+        "patlatılmış görünüm"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095776712579571725"
+    },
+    "gpt-6-astra-2095663498101662198": {
+      "title": "Tek istemle şaşırtıcı Three.js oyunu",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Tek seferde “Amaze” adını hak eden özgün bir Three.js oyunu yap. Şaşırtıcı bir görsel mekanik seç, saniyeler içinde öğret, kısa bir ilerleme eğrisi kur ve tatmin edici bir gösteriyle bitir.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "yaratıcı oyun",
+        "tek denemede"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095663498101662198"
+    },
+    "gpt-6-astra-2095907526566990013": {
+      "title": "Hızlı oynanabilir oyun prototipi",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Sıkı zaman ve token bütçesi altında görsel açıdan tutarlı, oynanabilir bir oyun prototipi oluştur. Özellik sayısından önce eksiksiz bir oyun döngüsüne, hızlı kontrollere, açık geri bildirime, kararlı performansa ve yayımlanabilir tarayıcı sürümüne öncelik ver.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "hızlı prototip",
+        "oyun geliştirme",
+        "bütçe sınırı"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095907526566990013"
+    },
+    "gpt-6-astra-2095872986477908108": {
+      "title": "İstemden açık dünya oyununa",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Şu fikirden açık dünya oyunu oluştur: [dünyanın ana fikri]. Üç ayrı bölge, dolaşım, dinamik karşılaşmalar, basit görev zinciri, önemli yerler, kaydetme ve yeniden başlatma davranışı ile tarayıcıda çalışmaya yetecek optimizasyon ekle.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "açık dünya",
+        "istemden oyuna",
+        "tarayıcı oyunu"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095872986477908108"
+    },
+    "gpt-6-astra-2095806515579879457": {
+      "title": "Etkileşimli Three.js galaksi ana sayfası",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Gerçek zamanlı bir Three.js galaksisi etrafında üst düzey bir lansman açılışı oluştur. Parçacıklar belli belirsiz altı rakamını oluştursun, kaydırmaya ve imlece tepki versin. Metin okunabilirliğini koru ve zayıf cihazlarda efektleri kademeli azalt.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "açılış sayfası",
+        "parçacık galaksisi"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095806515579879457"
+    },
+    "gpt-6-astra-2095898303019856230": {
+      "title": "Blender'da döngüsel siberpunk yatak odası",
+      "description": "Yazar, bağlantılı X gönderisinde görevin tam metnini yayımladı; yalnızca küçük noktalama ve biçim düzenlemeleri yapıldı.",
+      "prompt": "Blender'da gece yağmurlu neon şehre bakan sinematik bir siberpunk yatak odası oluştur. Animasyonlu reklam panoları ekle; fotogerçekçi ve kesintisiz döngü hâlinde olsun.",
+      "evidenceNote": "Yazarın yayımladığı birebir istem",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "siberpunk yatak odası",
+        "kesintisiz döngü"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095898303019856230"
+    },
+    "gpt-6-astra-2095871735824339279": {
+      "title": "Three.js'de Van Gogh kasabası",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Van Gogh'dan esinlenen yürünebilir bir Three.js kasabası oluştur. Boyalı sokakları, yıldızları, kafeleri ve tarlaları katmanlı 3B mekânlara dönüştürürken gölgelendiriciler, dokular ve animasyonlu ışıkla fırça izlerini canlı tut.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "Van Gogh",
+        "stilize kasaba"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095871735824339279"
+    },
+    "gpt-6-astra-2095805115580199372": {
+      "title": "Yıldızlı Gece sokaklarında yürüyüş",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Altı Van Gogh tablosunu ziyaretçilerin Yıldızlı Gece sokaklarında gezebileceği tek bir kasabada birleştir. Tablolar arasında doğal geçitler tasarla, tutarlı ölçeği koru ve hafif ortam etkileşimleri ekle.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "sanat dünyası",
+        "yürüyerek gezilebilen kasaba",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095805115580199372"
+    },
+    "gpt-6-astra-2095742344293454148": {
+      "title": "Çocukluk tren maketini sürmek",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Bir çocukluk tren maketini, voksel rayları ve trenleri olan dokunsal bir Three.js oyuncağı olarak yeniden yap. Oyuncu trenleri sürsün, makasları değiştirsin, masanın çevresinde dönsün ve animasyonlu minyatür sahneleri keşfetsin.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "maket tren masası",
+        "etkileşimli oyuncak"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095742344293454148"
+    },
+    "gpt-6-astra-2095623452678144366": {
+      "title": "Metinden keşfedilebilir Unity şehrine",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Verilen şehir tasavvurunu kuleleri, yolları, araçları, palmiyeleri ve atmosferik ışığı olan keşfedilebilir bir Unity ortamına dönüştür. İnandırıcı ölçek, gezinme, hareketli trafik ve akıcı birinci şahıs kamerası oluştur.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity",
+        "3D şehir",
+        "metinden dünyaya"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095623452678144366"
+    },
+    "gpt-6-astra-2095650251902239139": {
+      "title": "Modelleri karşılaştırmak için tek istemli akvaryum",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Verilen referans görüntüden tek istemle bir 3B akvaryum oyunu oluştur. Yerleşimi ve atmosferi eşleştir; canlı balık davranışları, su kaustikleri, yörünge kontrolleri ve model çıktılarını karşılaştırmaya uygun küçük bir etkileşim döngüsü ekle.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "model karşılaştırması",
+        "akvaryum",
+        "referans görsel"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095650251902239139"
+    },
+    "gpt-6-astra-2095725404883476661": {
+      "title": "Kat planından eksiksiz 3B gezintiye",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Verilen kat planını eksiksiz bir 3B mimari gezintiye dönüştür. Oda boyutlarına ve dolaşıma sadık kal; kapılar, pencereler, mobilyalar, malzemeler ve ışık ekle. Ardından yerleşimi anlatan bir kamera rotası oluştur.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "kat planı",
+        "mimari",
+        "3D sanal tur"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095725404883476661"
+    },
+    "gpt-6-astra-2095777502681825541": {
+      "title": "Gerçek evden düzenlenebilir 60 FPS Blender sahnesine",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Verilen gerçek evi tamamen düzenlenebilir bir Blender sahnesi olarak yeniden oluştur. Mimari ve mobilya öğelerini ayrı tut, geometriyi ve malzemeleri optimize et, yerel render ile 60 FPS'yi sürdüren bir gezinti teslim et.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "düzenlenebilir sahne",
+        "gerçek zamanlı sanal tur"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095777502681825541"
+    },
+    "gpt-6-astra-2095916820431827408": {
+      "title": "Street Heat: tarayıcıda drift yarışı",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Tek cümleden tarayıcıda eksiksiz bir arcade sokak yarışı oluştur. Tatmin edici drift fiziği, kombo puanı, kıl payı geçiş bonusları, hız noktaları, nitro, trafik, okunabilir HUD ve tekrar oynanabilir kısa parkur uygula.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "arcade yarış oyunu",
+        "drift fiziği",
+        "tarayıcı oyunu"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095916820431827408"
+    },
+    "gpt-6-astra-2095616529572503593": {
+      "title": "3B müzede sinematografi ön görselleştirmesi",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Mekânı, oyuncu yerleşimlerini, kamera konumlarını ve çekim listesini haritalayan bir 3B müze ön görselleştirmesi oluştur. Her kurulumu fiziksel görüntü alanında tut, ardından sonraki video üretimi için tutarlı kılavuzlar dışa aktar.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "3D ön görselleştirme",
+        "müze",
+        "kamera yerleşimi"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095616529572503593"
+    },
+    "gpt-6-astra-2095695603808309497": {
+      "title": "15 saniyelik oynanabilir ürün reklamı",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "[Ürün] için mobil öncelikli, 15 saniyelik etkileşimli bir demo oluştur. Kullanıcı tek hareketle ana özelliği denesin, anında 3B geri bildirim alsın ve deneyim açık bir “Tam erişim al” çağrısıyla bitsin. Dikey 9:16 düzen kullan, marka renklerini koru.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "oynanabilir reklam",
+        "3D ürün demosu",
+        "mobil etkileşim"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095695603808309497"
+    },
+    "gpt-6-astra-2095624712244072551": {
+      "title": "Mimari çizimden Blender ve Unreal görselleştirmesine",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Verilen mimari çizimden başlayarak Blender'da doğru ve düzenlenebilir bir model oluştur. Sonra doğru ölçek ve çarpışmalara sahip, aydınlatılmış ve yürünebilir bir mimari deneyim olarak Unreal Engine'e aktar.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "Unreal Engine",
+        "mimari görselleştirme"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095624712244072551"
+    },
+    "gpt-6-astra-2095752726886105375": {
+      "title": "Solace orman villası: yönergeden UE5'e",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Solace adlı yürünebilir modern bir orman villası oluştur. Üç yatak odası, çalışma odası, merkez avlu, havuz ve çevre ormanı olsun. Blender'da prosedürel kur, altın saatte sabit görüntüler render et ve UE5'te 60 FPS gezinti dışa aktar.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "UE5",
+        "modern villa"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095752726886105375"
+    },
+    "gpt-6-astra-2095844872171421771": {
+      "title": "Otuz saniyelik Blender sahnesi meydan okuması",
+      "description": "Yazarın kamuya açık proje açıklamasından hazırlanmış, yeniden kullanılabilir görev yönergesi. Yayımlanmamış bir istemin birebir metni olarak sunulmaz.",
+      "prompt": "Çok sıkı bir sürede tutarlı bir Blender sahnesi kur. Güçlü silüet, üç derinlik katmanı, bir ana malzeme, sinematik ışık ve çekime hazır kompozisyona öncelik ver. Tüm nesneler düzenlenebilir kalsın.",
+      "evidenceNote": "Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "hızlı sahne oluşturma",
+        "düzenlenebilir geometri"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095844872171421771"
+    },
+    "gpt-6-astra-2095980885732704629": {
+      "title": "Rube Goldberg zincirleme tepki makinesi",
+      "description": "Kendi kendine yeterli bir Three.js HTML dosyasında Rube Goldberg makinesi oluştur. Sonunda bir düğmeye basıp gösterişli patlama başlatan mekanik etkileşimler dizisi kullan.",
+      "prompt": "Kendi kendine yeterli bir Three.js HTML dosyasında Rube Goldberg makinesi oluştur. Sonunda bir düğmeye basıp gösterişli patlama başlatan mekanik etkileşimler dizisi kullan.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095980885732704629"
+    },
+    "gpt-6-astra-2096035962824335798": {
+      "title": "Keşfedilebilir Tac Mahal",
+      "description": "Tac Mahal'i keşfedilebilir bir 3B sahne olarak yeniden oluştur. Tanınabilir oranlara, simetrik bahçelere, ana kubbeye, minarelere ve yapılar arası ilişkiye öncelik ver.",
+      "prompt": "Tac Mahal'i keşfedilebilir bir 3B sahne olarak yeniden oluştur. Tanınabilir oranlara, simetrik bahçelere, ana kubbeye, minarelere ve yapılar arası ilişkiye öncelik ver.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096035962824335798"
+    },
+    "gpt-6-astra-2096225621303042258": {
+      "title": "Yörüngede buluşma simülatörü",
+      "description": "İki cisimli ECI yörünge ilerletmesi ve HCW güdümüyle gerçek zamanlı yörünge buluşma simülasyonu oluştur. Altı serbestlik dereceli yönelim, yakıt kullanımı, kuvvet sınırları ve kenetlenme hedefi ekle.",
+      "prompt": "İki cisimli ECI yörünge ilerletmesi ve HCW güdümüyle gerçek zamanlı yörünge buluşma simülasyonu oluştur. Altı serbestlik dereceli yönelim, yakıt kullanımı, kuvvet sınırları ve kenetlenme hedefi ekle.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096225621303042258"
+    },
+    "gpt-6-astra-2096180220839760375": {
+      "title": "Referans görüntülerden römorkör montajı",
+      "description": "Referans görüntülerden Blender'da römorkör oluştur. Gövdeyi, eğimli kaptan köşkünü, güverte donanımlarını ve çekme ekipmanını modelle; tutarsız bakış açılarını tek bir tutarlı tekneye dönüştür.",
+      "prompt": "Referans görüntülerden Blender'da römorkör oluştur. Gövdeyi, eğimli kaptan köşkünü, güverte donanımlarını ve çekme ekipmanını modelle; tutarsız bakış açılarını tek bir tutarlı tekneye dönüştür.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096180220839760375"
+    },
+    "gpt-6-astra-2096059736693305794": {
+      "title": "Tek görünümden matkap yeniden yapımı",
+      "description": "Tek referans görünümünden Blender'da matkap oluştur. Gövdeyi, tutacağı, mandreni ve kontrolleri düzenlenebilir geometri olarak modelle; ardından sonucu farklı açılardan incele.",
+      "prompt": "Tek referans görünümünden Blender'da matkap oluştur. Gövdeyi, tutacağı, mandreni ve kontrolleri düzenlenebilir geometri olarak modelle; ardından sonucu farklı açılardan incele.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096059736693305794"
+    },
+    "gpt-6-astra-2095981655370666076": {
+      "title": "3B sapanlı kuş oyunu",
+      "description": "Dört kuş ve farklı özel güçlerle 3B sapan oyunu oluştur. Nişan alıp bırakma kontrolleri, yıkılabilir yapılar ve tekrar oynanabilir puan döngüsü ekle.",
+      "prompt": "Dört kuş ve farklı özel güçlerle 3B sapan oyunu oluştur. Nişan alıp bırakma kontrolleri, yıkılabilir yapılar ve tekrar oynanabilir puan döngüsü ekle.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095981655370666076"
+    },
+    "gpt-6-astra-2095962376344309843": {
+      "title": "Mermi zamanlı üçüncü şahıs nişancı",
+      "description": "Three.js'de Max Payne'den esinlenen üçüncü şahıs nişancı oyunu oluştur. Ağır çekim aksiyona, hızlı tepki veren silah kullanımına ve etkili takip kamerası olan oynanabilir sahneye odaklan.",
+      "prompt": "Three.js'de Max Payne'den esinlenen üçüncü şahıs nişancı oyunu oluştur. Ağır çekim aksiyona, hızlı tepki veren silah kullanımına ve etkili takip kamerası olan oynanabilir sahneye odaklan.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095962376344309843"
+    },
+    "gpt-6-astra-2096008241104711698": {
+      "title": "Esnek WebGPU jölesi",
+      "description": "Three.js ve WebGPU ile lezzetli görünen, zıplayan bir jöle oluştur. Yarı saydam malzeme ve anlaşılır ışıkla etkileşimden sonra doğal biçimde deforme olup durulsun.",
+      "prompt": "Three.js ve WebGPU ile lezzetli görünen, zıplayan bir jöle oluştur. Yarı saydam malzeme ve anlaşılır ışıkla etkileşimden sonra doğal biçimde deforme olup durulsun.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "WebGPU"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096008241104711698"
+    },
+    "gpt-6-astra-2095967131573649552": {
+      "title": "Etkileşimli PS5 kontrolcüsü",
+      "description": "Three.js'de tanınabilir silüeti, düğmeleri, tetikleri, analog çubukları ve farklı yüzey malzemeleri olan incelenebilir bir PlayStation 5 kontrolcüsü oluştur.",
+      "prompt": "Three.js'de tanınabilir silüeti, düğmeleri, tetikleri, analog çubukları ve farklı yüzey malzemeleri olan incelenebilir bir PlayStation 5 kontrolcüsü oluştur.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095967131573649552"
+    },
+    "gpt-6-astra-2096079660605997264": {
+      "title": "Astral War tarayıcı nişancı oyunu",
+      "description": "Three.js'de World at War'dan esinlenen tarayıcı nişancı oyunu oluştur. Hızlı tepki veren savaş, mekânsal ses, karakter varlıkları ve maç akışıyla eksiksiz oynanabilir savaş alanı yap.",
+      "prompt": "Three.js'de World at War'dan esinlenen tarayıcı nişancı oyunu oluştur. Hızlı tepki veren savaş, mekânsal ses, karakter varlıkları ve maç akışıyla eksiksiz oynanabilir savaş alanı yap.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096079660605997264"
+    },
+    "gpt-6-astra-2096079976433082502": {
+      "title": "Şema PDF'sinden PCB ve 3B görünüme",
+      "description": "Şema PDF'sini kullanarak KiCad'de devreyi düzenle, 50'ye 20 mm iki katmanlı PCB'nin yollarını çiz ve 3B montajını render et. Bileşen veri sayfalarını incele, tasarım kuralı ihlallerini çöz.",
+      "prompt": "Şema PDF'sini kullanarak KiCad'de devreyi düzenle, 50'ye 20 mm iki katmanlı PCB'nin yollarını çiz ve 3B montajını render et. Bileşen veri sayfalarını incele, tasarım kuralı ihlallerini çöz.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096079976433082502"
+    },
+    "gpt-6-astra-2096149823216898445": {
+      "title": "Tarayıcı uçuş oyunu",
+      "description": "Boş bir projeden tarayıcıda eksiksiz bir 3B uçuş oyunu oluştur. Kontrol edilebilir uçuş, gezilebilir ortam, açık hedef ve tutarlı sunum ekle.",
+      "prompt": "Boş bir projeden tarayıcıda eksiksiz bir 3B uçuş oyunu oluştur. Kontrol edilebilir uçuş, gezilebilir ortam, açık hedef ve tutarlı sunum ekle.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096149823216898445"
+    },
+    "gpt-6-astra-2096082432197837065": {
+      "title": "Etkileşimli dünya küresi paneli",
+      "description": "Referans görüntüden Three.js 3B dünya küresi panelini yeniden yap. Gündüz ve gece modları, okunabilir coğrafi veriler ve referansa uyan işlevsel kontroller ekle.",
+      "prompt": "Referans görüntüden Three.js 3B dünya küresi panelini yeniden yap. Gündüz ve gece modları, okunabilir coğrafi veriler ve referansa uyan işlevsel kontroller ekle.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096082432197837065"
+    },
+    "gpt-6-astra-2096107322536051057": {
+      "title": "Blender'da Azadi Kulesi",
+      "description": "Blender'da Azadi Kulesi'nin düzenlenebilir modelini oluştur. Genişleyen tabanına, kesişen kemerine, desenli yüzeylerine ve tanınabilir oranlarına odaklan.",
+      "prompt": "Blender'da Azadi Kulesi'nin düzenlenebilir modelini oluştur. Genişleyen tabanına, kesişen kemerine, desenli yüzeylerine ve tanınabilir oranlarına odaklan.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096107322536051057"
+    },
+    "gpt-6-astra-2096245759121277132": {
+      "title": "Kaydırmayla ilerleyen 3B stüdyo sitesi",
+      "description": "Verilen referans görüntüyü, akıcı kaydırmalı stüdyo sitesi içinde Three.js sahnesine dönüştür. Kamera hareketini, tipografiyi ve bölüm geçişlerini koordine et.",
+      "prompt": "Verilen referans görüntüyü, akıcı kaydırmalı stüdyo sitesi içinde Three.js sahnesine dönüştür. Kamera hareketini, tipografiyi ve bölüm geçişlerini koordine et.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096245759121277132"
+    },
+    "gpt-6-astra-2096244208533455049": {
+      "title": "Komorebi nehir kanosu",
+      "description": "Anime estetiğinde 3B nehir kanosu oyunu oluştur. Oyuncu engellerden kaçınmak için sağa ve sola kürek çekebilsin. Akan suyu, manzarayı, müziği ve ses efektlerini kodla üret.",
+      "prompt": "Anime estetiğinde 3B nehir kanosu oyunu oluştur. Oyuncu engellerden kaçınmak için sağa ve sola kürek çekebilsin. Akan suyu, manzarayı, müziği ve ses efektlerini kodla üret.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096244208533455049"
+    },
+    "gpt-6-astra-2096243989439713677": {
+      "title": "Işığı kıran şişeyle ürün hikâyesi",
+      "description": "Fotogerçekçi WebGL cam şişe etrafında etkileşimli ürün sitesi oluştur. Tarayıcı performansını korurken ışığı kıran sıvı, kaydırmayla dönme ve güçlü tipografi kullan.",
+      "prompt": "Fotogerçekçi WebGL cam şişe etrafında etkileşimli ürün sitesi oluştur. Tarayıcı performansını korurken ışığı kıran sıvı, kaydırmayla dönme ve güçlü tipografi kullan.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "WebGL"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096243989439713677"
+    },
+    "gpt-6-astra-2096013280519016608": {
+      "title": "Gogh Strike çok oyunculu FPS",
+      "description": "Blender'da render edilmiş sanatçı karakterler, kolay ayırt edilen takımlar ve tarayıcıda eksiksiz çok oyunculu maçla Post-Empresyonist 5'e 5 birinci şahıs nişancı oyunu oluştur.",
+      "prompt": "Blender'da render edilmiş sanatçı karakterler, kolay ayırt edilen takımlar ve tarayıcıda eksiksiz çok oyunculu maçla Post-Empresyonist 5'e 5 birinci şahıs nişancı oyunu oluştur.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096013280519016608"
+    },
+    "gpt-6-astra-2095988972879335792": {
+      "title": "Katedralde yakın dövüş arenası",
+      "description": "Ölü bir yıldızın üzerindeki katedralde geçen, üçüncü şahıs Three.js yakın dövüş oyunu oluştur. Hafif kılıç komboları, ağır saldırılar, alan büyüsü, kaçınma ve yere basan iki elli animasyonlar ekle.",
+      "prompt": "Ölü bir yıldızın üzerindeki katedralde geçen, üçüncü şahıs Three.js yakın dövüş oyunu oluştur. Hafif kılıç komboları, ağır saldırılar, alan büyüsü, kaçınma ve yere basan iki elli animasyonlar ekle.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095988972879335792"
+    },
+    "gpt-6-astra-2096082580554777041": {
+      "title": "Parçalarına ayrılan prosedürel tren montajları",
+      "description": "Boyutlar, profiller ve geometri fonksiyonlarından doğrudan Three.js'de iki tren üret. Tekerlekleri canlandır; patlatılmış görünüm ve yeniden birleştirme sekansı sağla.",
+      "prompt": "Boyutlar, profiller ve geometri fonksiyonlarından doğrudan Three.js'de iki tren üret. Tekerlekleri canlandır; patlatılmış görünüm ve yeniden birleştirme sekansı sağla.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096082580554777041"
+    },
+    "gpt-6-astra-2096201415051911597": {
+      "title": "Küçük çocuk için eğlenceli oyuncak dünyası",
+      "description": "Three.js'de küçük çocuğun oyuncaklar arasında dolaşıp her birini farklı animasyonla kullandığı sıcak bir oyun odası oluştur. Oyun halısı, kitaplar, raflar ve tırmanma yapıları ekle; yörünge ve yakınlaştırma kontrolleri olsun.",
+      "prompt": "Three.js'de küçük çocuğun oyuncaklar arasında dolaşıp her birini farklı animasyonla kullandığı sıcak bir oyun odası oluştur. Oyun halısı, kitaplar, raflar ve tırmanma yapıları ekle; yörünge ve yakınlaştırma kontrolleri olsun.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096201415051911597"
+    },
+    "gpt-6-astra-2095967568825582044": {
+      "title": "Anti-yerçekimli savaş yarışı",
+      "description": "Three.js'de drift, hızlanma, yatış yapan kamera, hava frenleri ve kalkan toplama içeren yüksek hızlı anti-yerçekimli savaş yarışı oluştur. Yükseltilmiş uzaylı pistinde hafif, dengeli ve ağır araçlar bulunsun.",
+      "prompt": "Three.js'de drift, hızlanma, yatış yapan kamera, hava frenleri ve kalkan toplama içeren yüksek hızlı anti-yerçekimli savaş yarışı oluştur. Yükseltilmiş uzaylı pistinde hafif, dengeli ve ağır araçlar bulunsun.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095967568825582044"
+    },
+    "gpt-6-astra-2096122429319852319": {
+      "title": "Canlı jet üretim tesisi",
+      "description": "Uçak üretimini araştır ve Three.js'de çalışan bir jet fabrikası simülasyonu kur. Makine çevrimlerini, üretim istasyonlarını, taşımayı ve darboğazları modelle, ardından akışı test et.",
+      "prompt": "Uçak üretimini araştır ve Three.js'de çalışan bir jet fabrikası simülasyonu kur. Makine çevrimlerini, üretim istasyonlarını, taşımayı ve darboğazları modelle, ardından akışı test et.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096122429319852319"
+    },
+    "gpt-6-astra-2096251574918013135": {
+      "title": "Şehirde kaiju savaşı",
+      "description": "Üretilmiş yaratık modelleri ve ses efektleriyle kaiju esintili Three.js oyunu oluştur. Dev ölçekli çatışma anlaşılır, ortam yaratıkların büyüklüğünü hissettirir olsun.",
+      "prompt": "Üretilmiş yaratık modelleri ve ses efektleriyle kaiju esintili Three.js oyunu oluştur. Dev ölçekli çatışma anlaşılır, ortam yaratıkların büyüklüğünü hissettirir olsun.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096251574918013135"
+    },
+    "gpt-6-astra-2096220264413409648": {
+      "title": "Küpe hapsolmuş fırtına",
+      "description": "Three.js'de havasını kontrol edebileceğin, bir küpe hapsolmuş fırtına üret.",
+      "prompt": "Three.js'de havasını kontrol edebileceğin, bir küpe hapsolmuş fırtına üret.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096220264413409648"
+    },
+    "gpt-6-astra-2096047660662722620": {
+      "title": "3B aksiyon macerası olarak Zork",
+      "description": "Klasik metin macerası Zork'u 3B aksiyon-macera oyununa dönüştür. Hikâyesini ve bulmacalarını koru, savaş sahneleri ekle; karakterleri ve ortamları Three.js'de kur.",
+      "prompt": "Klasik metin macerası Zork'u 3B aksiyon-macera oyununa dönüştür. Hikâyesini ve bulmacalarını koru, savaş sahneleri ekle; karakterleri ve ortamları Three.js'de kur.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096047660662722620"
+    },
+    "gpt-6-astra-2096133339329536249": {
+      "title": "İskeletli ve animasyonlu T. rex",
+      "description": "Üretilmiş T. rex modeline iskelet ekleyip inandırıcı hareket oluştur. Karakteri Three.js'de render et ve animasyonun modeli tutarlı biçimde deforme ettiğini doğrula.",
+      "prompt": "Üretilmiş T. rex modeline iskelet ekleyip inandırıcı hareket oluştur. Karakteri Three.js'de render et ve animasyonun modeli tutarlı biçimde deforme ettiğini doğrula.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096133339329536249"
+    },
+    "gpt-6-astra-2096174858837074198": {
+      "title": "Kahve fincanında deniz yaşamı",
+      "description": "Three.js'de kahve fincanının içinde minyatür deniz ekosistemi oluştur. Fincanı ve küçük ölçekli ortamı anlaşılır tutarken yönetilen kamerayla su yaşamını açığa çıkar.",
+      "prompt": "Three.js'de kahve fincanının içinde minyatür deniz ekosistemi oluştur. Fincanı ve küçük ölçekli ortamı anlaşılır tutarken yönetilen kamerayla su yaşamını açığa çıkar.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096174858837074198"
+    },
+    "gpt-6-astra-2096250748099068377": {
+      "title": "Etkileşimli Hyperloop demosu",
+      "description": "Taşıma kapsülünü, tüp altyapısını ve sistemdeki hareketi gösteren etkileşimli Three.js Hyperloop demosu oluştur.",
+      "prompt": "Taşıma kapsülünü, tüp altyapısını ve sistemdeki hareketi gösteren etkileşimli Three.js Hyperloop demosu oluştur.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096250748099068377"
+    },
+    "gpt-6-astra-2096234355395903672": {
+      "title": "Prosedürel Napolyon büstü",
+      "description": "Three.js'de 3B Napolyon büstünü kodla oluştur. Aşamalar hâlinde yap, farklı açılardan incele; yüz oranlarını ve kıyafet ayrıntılarını iyileştir.",
+      "prompt": "Three.js'de 3B Napolyon büstünü kodla oluştur. Aşamalar hâlinde yap, farklı açılardan incele; yüz oranlarını ve kıyafet ayrıntılarını iyileştir.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096234355395903672"
+    },
+    "gpt-6-astra-2096226711222546461": {
+      "title": "Tren istasyonu ana salonu",
+      "description": "Güçlü mimari ritmi, inandırıcı ölçeği ve malzemeleri olan tren istasyonu salonu oluştur. Özenle kadrajlanmış istasyon görünümleriyle incelenebilir 3B sahne üret.",
+      "prompt": "Güçlü mimari ritmi, inandırıcı ölçeği ve malzemeleri olan tren istasyonu salonu oluştur. Özenle kadrajlanmış istasyon görünümleriyle incelenebilir 3B sahne üret.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096226711222546461"
+    },
+    "gpt-6-astra-2096222790894661841": {
+      "title": "Animasyonlu ilk kullanım dioraması",
+      "description": "Blender'da küçük bir ilk kullanım dioraması oluştur ve Three.js'de canlandır. İlk kullanıcı eylemlerini anlatmak için açık odak nesneleri ve kısa animasyon sekansları kullan.",
+      "prompt": "Blender'da küçük bir ilk kullanım dioraması oluştur ve Three.js'de canlandır. İlk kullanıcı eylemlerini anlatmak için açık odak nesneleri ve kısa animasyon sekansları kullan.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096222790894661841"
+    },
+    "gpt-6-astra-2096206082712768897": {
+      "title": "OX Vice Drive açık şehir yarışı",
+      "description": "Trafik, drift ve teslimat yarışları olan açık şehir tarayıcı sürüş oyunu oluştur. Gezmesi keyifli ve eksiksiz sürüş döngüsünü destekleyen kıyı şehri tasarla.",
+      "prompt": "Trafik, drift ve teslimat yarışları olan açık şehir tarayıcı sürüş oyunu oluştur. Gezmesi keyifli ve eksiksiz sürüş döngüsünü destekleyen kıyı şehri tasarla.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096206082712768897"
+    },
+    "gpt-6-astra-2096111709496680842": {
+      "title": "Mobil oyun reklamının oynanabilir yeniden yapımı",
+      "description": "Mobil oyun reklamını referans alarak oynanabilir tarayıcı oyunu oluştur. Ana etkileşimi yeniden yap ve görsel fikri karşılamak için Blender varlıkları kullan.",
+      "prompt": "Mobil oyun reklamını referans alarak oynanabilir tarayıcı oyunu oluştur. Ana etkileşimi yeniden yap ve görsel fikri karşılamak için Blender varlıkları kullan.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096111709496680842"
+    },
+    "gpt-6-astra-2095999578419929412": {
+      "title": "Roblox'ta anime arena dövüşü",
+      "description": "Anime karakterlerinin karşılaştığı savaşlardan esinlenen Roblox arena dövüş oyunu oluştur. Arenayı ve karakterleri Blender ve mevcut varlıklarla kur, oynanabilir savaş döngüsü uygula.",
+      "prompt": "Anime karakterlerinin karşılaştığı savaşlardan esinlenen Roblox arena dövüş oyunu oluştur. Arenayı ve karakterleri Blender ve mevcut varlıklarla kur, oynanabilir savaş döngüsü uygula.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "Roblox"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095999578419929412"
+    },
+    "gpt-6-astra-2096258619574513880": {
+      "title": "C# ve WASM ile tarayıcı yarış fiziği",
+      "description": "Trackmania tarzı yarış fizik sistemini C# ile yeniden oluştur, WASM üzerinden çalıştır ve parkuru Three.js'de render et. Çarpışma destekli pist ağları kullan, araç kontrolünü test et.",
+      "prompt": "Trackmania tarzı yarış fizik sistemini C# ile yeniden oluştur, WASM üzerinden çalıştır ve parkuru Three.js'de render et. Çarpışma destekli pist ağları kullan, araç kontrolünü test et.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096258619574513880"
+    },
+    "gpt-6-astra-2096141728487178503": {
+      "title": "Otomatik karakter iskeleti ve kung fu hareketleri",
+      "description": "Verilen 3B karaktere iskelet ekle; yürüme, koşma ve çeşitli kung fu hareketleri oluştur. Animasyonlarda bozuk eklemleri ve kararsız pozları kontrol et.",
+      "prompt": "Verilen 3B karaktere iskelet ekle; yürüme, koşma ve çeşitli kung fu hareketleri oluştur. Animasyonlarda bozuk eklemleri ve kararsız pozları kontrol et.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096141728487178503"
+    },
+    "gpt-6-astra-2096107343268257953": {
+      "title": "Çizimden oynanabilir karaktere",
+      "description": "Noctavia karakter çizimini oynanabilir 3B karakter olarak yeniden oluştur. Tasarım dilini koru ve etkileşimli sunuma uygun eksiksiz model yap.",
+      "prompt": "Noctavia karakter çizimini oynanabilir 3B karakter olarak yeniden oluştur. Tasarım dilini koru ve etkileşimli sunuma uygun eksiksiz model yap.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096107343268257953"
+    },
+    "gpt-6-astra-2096023793772998704": {
+      "title": "Konuşma etkinliklerini gösteren küreli kişisel 3B portföy",
+      "description": "Bir portreyi editoryal WebGL portföyünde Blender karakterine dönüştür. Konuşmacı olarak katılınan etkinlikleri haritalayan dönen dünya küresi ekle, varlıkları siteye entegre et.",
+      "prompt": "Bir portreyi editoryal WebGL portföyünde Blender karakterine dönüştür. Konuşmacı olarak katılınan etkinlikleri haritalayan dönen dünya küresi ekle, varlıkları siteye entegre et.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "WebGL"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096023793772998704"
+    },
+    "gpt-6-astra-2096056285896536086": {
+      "title": "Godot'ta Sonic esintili örnek bölüm",
+      "description": "Yerel ve prosedürel varlıklarla Godot'ta Sonic esintili özenli bir 3B bölüm yap. Momentuma, tepkili dolaşıma, halkalara, döngülere, kayma raylarına ve kesintisiz tropikal kıyıya öncelik ver.",
+      "prompt": "Yerel ve prosedürel varlıklarla Godot'ta Sonic esintili özenli bir 3B bölüm yap. Momentuma, tepkili dolaşıma, halkalara, döngülere, kayma raylarına ve kesintisiz tropikal kıyıya öncelik ver.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Godot"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096056285896536086"
+    },
+    "gpt-6-astra-2096140378777010278": {
+      "title": "Blender'da Viking karakteri",
+      "description": "Blender'da düzenlenebilir bir 3B Viking karakteri oluştur. Tanınabilir kostüme, yüz yapısına, vücut oranlarına ve anlaşılır sunum pozuna odaklan.",
+      "prompt": "Blender'da düzenlenebilir bir 3B Viking karakteri oluştur. Tanınabilir kostüme, yüz yapısına, vücut oranlarına ve anlaşılır sunum pozuna odaklan.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096140378777010278"
+    },
+    "gpt-6-astra-2096155883122413946": {
+      "title": "Dropzone battle royale arenası",
+      "description": "Fırtına çemberi, dokuz yapay zekâ düşmanı, darbe tüfeği, sağlık ve şarjör doldurmayla üçüncü şahıs tarayıcı battle royale oyunu kur. Yerleştirilebilir siper duvarları ve eksiksiz eleme döngüsü ekle.",
+      "prompt": "Fırtına çemberi, dokuz yapay zekâ düşmanı, darbe tüfeği, sağlık ve şarjör doldurmayla üçüncü şahıs tarayıcı battle royale oyunu kur. Yerleştirilebilir siper duvarları ve eksiksiz eleme döngüsü ekle.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096155883122413946"
+    },
+    "gpt-6-astra-2096096998092841449": {
+      "title": "Suzhou Müzesi bahçesi gezintisi",
+      "description": "Suzhou Müzesi hakkındaki bir web sayfasını referans alarak bahçeyi Blender'da yeniden yap. Modern mimari ile geleneksel Çin peyzajı arasındaki ilişkiyi koruyan kesintisiz gezinti üret.",
+      "prompt": "Suzhou Müzesi hakkındaki bir web sayfasını referans alarak bahçeyi Blender'da yeniden yap. Modern mimari ile geleneksel Çin peyzajı arasındaki ilişkiyi koruyan kesintisiz gezinti üret.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096096998092841449"
+    },
+    "gpt-6-astra-2095986941753712841": {
+      "title": "Etkileşimli Titan bilim sergisi",
+      "description": "Satürn'ün en büyük uydusu Titan'ın keşfedilebilir ortamını ve kendine özgü fiziksel özelliklerini anlatan bilgi katmanını içeren eğitici 3B simülasyon oluştur.",
+      "prompt": "Satürn'ün en büyük uydusu Titan'ın keşfedilebilir ortamını ve kendine özgü fiziksel özelliklerini anlatan bilgi katmanını içeren eğitici 3B simülasyon oluştur.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095986941753712841"
+    },
+    "gpt-6-astra-2096040448477515874": {
+      "title": "Evrilen WebGL ekosistemi",
+      "description": "Saf WebGL ve GLSL ile tek HTML dosyasında evrilen 3B ekosistem oluştur. Mutasyon, doğal seçilim, avlanma, enerji kullanımı ve çok hücreli birleşmeler etkileşsin.",
+      "prompt": "Saf WebGL ve GLSL ile tek HTML dosyasında evrilen 3B ekosistem oluştur. Mutasyon, doğal seçilim, avlanma, enerji kullanımı ve çok hücreli birleşmeler etkileşsin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "WebGL"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096040448477515874"
+    },
+    "gpt-6-astra-2096042360513904742": {
+      "title": "Köprü kapanmalarından etkilenen teslimat ağı",
+      "description": "Köprülerin kapanmasının kamyon rotalarını değiştirdiği 3B teslimat simülasyonu oluştur. Ulaşılamayan hedefleri tespit et ve rota tekrar açıldığında teslimatları sürdür.",
+      "prompt": "Köprülerin kapanmasının kamyon rotalarını değiştirdiği 3B teslimat simülasyonu oluştur. Ulaşılamayan hedefleri tespit et ve rota tekrar açıldığında teslimatları sürdür.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096042360513904742"
+    },
+    "gpt-6-astra-2096062355692048605": {
+      "title": "Sinclair ZX Spectrum simülatörü",
+      "description": "Sinclair ZX Spectrum 48K'yı etkileşimli 3B masaüstü uygulaması olarak yeniden yap. Kauçuk klavyesi, kasetçalar, başlangıç ekranı, oynanabilir oyun ve BASIC programlama arayüzü olsun.",
+      "prompt": "Sinclair ZX Spectrum 48K'yı etkileşimli 3B masaüstü uygulaması olarak yeniden yap. Kauçuk klavyesi, kasetçalar, başlangıç ekranı, oynanabilir oyun ve BASIC programlama arayüzü olsun.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096062355692048605"
+    },
+    "gpt-6-astra-2096092080397246707": {
+      "title": "Fotogrametri taramasından düzenlenebilir oturma odasına",
+      "description": "Fotogrametri taramasından Blender'da oturma odasını yeniden oluştur. Sahneyi sıfırdan modelle, dokuları taramadan al ve uygun yerlerde prosedürel gölgelendiriciler kullan.",
+      "prompt": "Fotogrametri taramasından Blender'da oturma odasını yeniden oluştur. Sahneyi sıfırdan modelle, dokuları taramadan al ve uygun yerlerde prosedürel gölgelendiriciler kullan.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096092080397246707"
+    },
+    "gpt-6-astra-2096135808243876152": {
+      "title": "Odyssey esintili platform macerası",
+      "description": "Sekiz platform, toplanabilir üç ay, geri dönen şapka saldırıları, düşmanlar ve kontrol noktaları olan Odyssey esintili Three.js bölümü yap. Dokunmatik kontroller ekle ve baştan sona oyna.",
+      "prompt": "Sekiz platform, toplanabilir üç ay, geri dönen şapka saldırıları, düşmanlar ve kontrol noktaları olan Odyssey esintili Three.js bölümü yap. Dokunmatik kontroller ekle ve baştan sona oyna.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096135808243876152"
+    },
+    "gpt-6-astra-2096221988763173186": {
+      "title": "Parçalı etkileşimli insan anatomisi",
+      "description": "İnsan bedeninin tek tek incelenebilir yapılara ayrıldığı bir 3B anatomi sitesi oluştur. Patlatılmış görünümde gezinilebilsin ve parçaları anlamlı sistemler hâlinde düzenle.",
+      "prompt": "İnsan bedeninin tek tek incelenebilir yapılara ayrıldığı bir 3B anatomi sitesi oluştur. Patlatılmış görünümde gezinilebilsin ve parçaları anlamlı sistemler hâlinde düzenle.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096221988763173186"
+    },
+    "gpt-6-astra-2096009146248122416": {
+      "title": "Tesla Model X patlatılmış görünümü",
+      "description": "Tesla Model X'i modellenmiş bileşenlerine ayıran 3B site oluştur. Ziyaretçiler montajları inceleyebilsin, aracı etkileşimli biçimde yeniden birleştirebilsin.",
+      "prompt": "Tesla Model X'i modellenmiş bileşenlerine ayıran 3B site oluştur. Ziyaretçiler montajları inceleyebilsin, aracı etkileşimli biçimde yeniden birleştirebilsin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096009146248122416"
+    },
+    "gpt-6-astra-2096241295949975602": {
+      "title": "Anı kapsülü makinesi",
+      "description": "3B anı kapsülü makinesi oluştur. Düğmeyi çevirince bir anı serbest kalsın. Mekanizmayı Blender'da modelle; düşen kapsüllere inandırıcı hareket ve ses ver.",
+      "prompt": "3B anı kapsülü makinesi oluştur. Düğmeyi çevirince bir anı serbest kalsın. Mekanizmayı Blender'da modelle; düşen kapsüllere inandırıcı hareket ve ses ver.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096241295949975602"
+    },
+    "gpt-6-astra-2096125193580113957": {
+      "title": "Blender'da Formula 1 aracı",
+      "description": "Bilgisayar kontrolüyle Blender'da bir 3B Formula 1 modeli oluştur.",
+      "prompt": "Bilgisayar kontrolüyle Blender'da bir 3B Formula 1 modeli oluştur.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096125193580113957"
+    }
+  }
+}

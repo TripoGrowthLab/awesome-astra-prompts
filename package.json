@@ -1,0 +1,14 @@
+{
+  "name": "awesome-astra-prompts",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Source-linked Astra prompts and 3D examples for games, scenes and interactive worlds.",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "catalog": "node scripts/build-catalogs.mjs",
+    "validate": "node scripts/validate.mjs",
+    "check": "node scripts/build-catalogs.mjs --check && node scripts/validate.mjs",
+    "vendor-media": "node scripts/vendor-media.mjs"
+  }
+}

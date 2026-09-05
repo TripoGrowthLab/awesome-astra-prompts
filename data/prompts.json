@@ -1,0 +1,3214 @@
+{
+  "schemaVersion": 1,
+  "model": {
+    "id": "gpt-6-astra",
+    "name": "GPT-6 Astra"
+  },
+  "homepage": "https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra",
+  "locales": [
+    "en",
+    "zh",
+    "es",
+    "ko",
+    "ru",
+    "pt",
+    "ja",
+    "tr",
+    "de",
+    "fr",
+    "it",
+    "zh-Hant",
+    "uk",
+    "vi"
+  ],
+  "count": 103,
+  "prompts": [
+    {
+      "id": "gpt-6-astra-2095596175705399482",
+      "model": "gpt-6-astra",
+      "title": "Surviving society of autonomous Unreal humans",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Create an Unreal Engine world populated by autonomous human agents. Give them individual needs and a shared survival goal so they must communicate, divide work, build shelter and keep the society alive when the player leaves.",
+      "author": {
+        "name": "Matt Shumer",
+        "url": "https://x.com/mattshumer_"
+      },
+      "source": {
+        "url": "https://x.com/mattshumer_/status/2095596175705399482",
+        "publishedAt": "2026-09-03T19:33:57.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Unreal Engine",
+        "autonomous agents",
+        "survival simulation"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095596175705399482"
+      },
+      "media": {
+        "image": "assets/previews/3dfc15d51104de183c13.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095609734845927525",
+      "model": "gpt-6-astra",
+      "title": "Street-by-street Manhattan in Unreal Engine",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Build an explorable Manhattan world in Unreal Engine. Work district by district and street by street, preserving recognizable scale, road layout, landmarks, traffic and neighborhood character; keep an evaluation checklist and refine each area before moving on.",
+      "author": {
+        "name": "Matt Shumer",
+        "url": "https://x.com/mattshumer_"
+      },
+      "source": {
+        "url": "https://x.com/mattshumer_/status/2095609734845927525",
+        "publishedAt": "2026-09-03T20:27:49.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Unreal Engine",
+        "Manhattan",
+        "open world"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095609734845927525"
+      },
+      "media": {
+        "image": "assets/previews/df1e2d655d7eca4caf78.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095636679264780481",
+      "model": "gpt-6-astra",
+      "title": "Modern villa scene in Blender",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Build a complete modern villa scene in Blender with coherent architecture, furnished interiors, an infinity pool, landscaping, realistic materials and a cinematic golden-hour camera path.",
+      "author": {
+        "name": "Karan",
+        "url": "https://x.com/karankendre"
+      },
+      "source": {
+        "url": "https://x.com/karankendre/status/2095636679264780481",
+        "publishedAt": "2026-09-03T22:14:54.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "villa",
+        "architectural visualization"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095636679264780481"
+      },
+      "media": {
+        "image": "assets/previews/d1f867dcf59b933bc843.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095599934766764338",
+      "model": "gpt-6-astra",
+      "title": "One-shot browser 3D game",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Create a complete 3D game that runs in the browser in one self-contained project. Include a readable objective, responsive controls, spatially coherent levels, enemies or hazards, feedback, scoring, restart and performance safeguards.",
+      "author": {
+        "name": "Theo - t3.gg",
+        "url": "https://x.com/theo"
+      },
+      "source": {
+        "url": "https://x.com/theo/status/2095599934766764338",
+        "publishedAt": "2026-09-03T19:48:53.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "browser game",
+        "one shot",
+        "spatial reasoning"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095599934766764338"
+      },
+      "media": {
+        "image": "assets/previews/83ed142104b7acba468c.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095598645190291775",
+      "model": "gpt-6-astra",
+      "title": "House photo to editable Blender world",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Reconstruct the supplied house image as a fully editable Blender scene. Model the architecture plus furniture, appliances and toys as separate objects, preserve plausible proportions and make the result run locally as a smooth 60 FPS walkthrough.",
+      "author": {
+        "name": "Tom Krcha",
+        "url": "https://x.com/tomkrcha"
+      },
+      "source": {
+        "url": "https://x.com/tomkrcha/status/2095598645190291775",
+        "publishedAt": "2026-09-03T19:43:46.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "image to 3D",
+        "editable house"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095598645190291775"
+      },
+      "media": {
+        "image": "assets/previews/e54b3e2710c53a16b303.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095612137582526615",
+      "model": "gpt-6-astra",
+      "title": "Zillow listing to 3D property film",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Use the supplied real-estate listing and all listing photos to reconstruct the house in 3D, infer a coherent floor plan, then create a polished promotional walkthrough video. Flag uncertain geometry and refine mismatches after the first pass.",
+      "author": {
+        "name": "Yunfan Ye",
+        "url": "https://x.com/realYunfanYe"
+      },
+      "source": {
+        "url": "https://x.com/realYunfanYe/status/2095612137582526615",
+        "publishedAt": "2026-09-03T20:37:22.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "real estate",
+        "listing photos",
+        "3D walkthrough"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095612137582526615"
+      },
+      "media": {
+        "image": "assets/previews/6f8c345161829fa354d9.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095756085890310311",
+      "model": "gpt-6-astra",
+      "title": "Steam-train drawing to editable Blender assembly",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Reconstruct the supplied vintage steam-train drawing in Blender as a detailed mechanical assembly. Keep wheels, axles, suspension, rods, boiler fittings and body panels as named editable objects, with a controllable detail budget.",
+      "author": {
+        "name": "Tom Krcha",
+        "url": "https://x.com/tomkrcha"
+      },
+      "source": {
+        "url": "https://x.com/tomkrcha/status/2095756085890310311",
+        "publishedAt": "2026-09-04T06:09:22.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "steam locomotive",
+        "mechanical modeling"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095756085890310311"
+      },
+      "media": {
+        "image": "assets/previews/06507ec81e3b2b48f511.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095630197257367857",
+      "model": "gpt-6-astra",
+      "title": "Procedural Oval Office set for Cycles",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Translate a set-design description of the Oval Office into executable scene code, build the location in Blender with editable furniture, walls, lighting and camera blocking, then render a cinematic result with Cycles.",
+      "author": {
+        "name": "Higgsfield AI 🧩",
+        "url": "https://x.com/higgsfield_ai"
+      },
+      "source": {
+        "url": "https://x.com/higgsfield_ai/status/2095630197257367857",
+        "publishedAt": "2026-09-03T21:49:08.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "Cycles",
+        "set design"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095630197257367857"
+      },
+      "media": {
+        "image": "assets/previews/27b8c4a9f00b1882f1a8.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095597137849446688",
+      "model": "gpt-6-astra",
+      "title": "One-shot Minecraft-style world",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Build a playable Minecraft-inspired voxel world in one pass with terrain generation, block placing and breaking, first-person controls, inventory, lighting, water and a compact survival loop.",
+      "author": {
+        "name": "Flavio Adamo",
+        "url": "https://x.com/flavioAd"
+      },
+      "source": {
+        "url": "https://x.com/flavioAd/status/2095597137849446688",
+        "publishedAt": "2026-09-03T19:37:46.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "voxel game",
+        "Minecraft-inspired",
+        "one shot"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095597137849446688"
+      },
+      "media": {
+        "image": "assets/previews/4057aefd543af899d3d0.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095653641164329143",
+      "model": "gpt-6-astra",
+      "title": "Palace of Fine Arts Blender recreation",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Recreate San Francisco’s Palace of Fine Arts in Blender with recognizable rotunda proportions, colonnades, lagoon, vegetation, weathered materials and optimistic world-fair-era cinematic lighting.",
+      "author": {
+        "name": "Sharif Shameem",
+        "url": "https://x.com/sharifshameem"
+      },
+      "source": {
+        "url": "https://x.com/sharifshameem/status/2095653641164329143",
+        "publishedAt": "2026-09-03T23:22:18.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "Palace of Fine Arts",
+        "architecture"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095653641164329143"
+      },
+      "media": {
+        "image": "assets/previews/425b651bd5174e37b02f.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095776685807346105",
+      "model": "gpt-6-astra",
+      "title": "Walkable town made from six Van Gogh paintings",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Turn six supplied Van Gogh paintings into one coherent walkable Three.js town. Preserve each painting’s palette and brush-stroke character while connecting streets, landmarks and transitions into an explorable world.",
+      "author": {
+        "name": "Peter Gostev",
+        "url": "https://x.com/petergostev"
+      },
+      "source": {
+        "url": "https://x.com/petergostev/status/2095776685807346105",
+        "publishedAt": "2026-09-04T07:31:14.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "Van Gogh",
+        "walkable art"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095776685807346105",
+        "demo": "https://van-goghs-town.surge.sh/"
+      },
+      "media": {
+        "image": "assets/previews/2d8a09166b72394c4292.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095608358086840647",
+      "model": "gpt-6-astra",
+      "title": "Voice-directed 3D game for beginners",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Act as my 3D game builder. Ask only for the missing player goal, art direction and controls, then create a browser game I can play immediately and keep revising it from short voice instructions.",
+      "author": {
+        "name": "el.cine",
+        "url": "https://x.com/EHuanglu"
+      },
+      "source": {
+        "url": "https://x.com/EHuanglu/status/2095608358086840647",
+        "publishedAt": "2026-09-03T20:22:21.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "voice workflow",
+        "3D game",
+        "beginner"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095608358086840647"
+      },
+      "media": {
+        "image": "assets/previews/ae76084678dab574ad49.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095580402505400369",
+      "model": "gpt-6-astra",
+      "title": "Three themed kart games from one greybox",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Take the supplied Unity kart-racing greybox and produce three playable themed variants: pirate, candy and cyberpunk. Reuse the core driving loop, replace environments and feedback, play-test each build and fix the most visible bugs.",
+      "author": {
+        "name": "Chetaslua",
+        "url": "https://x.com/chetaslua"
+      },
+      "source": {
+        "url": "https://x.com/chetaslua/status/2095580402505400369",
+        "publishedAt": "2026-09-03T18:31:16.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Unity",
+        "kart racer",
+        "greybox"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095580402505400369"
+      },
+      "media": {
+        "image": "assets/previews/16e9382415e9e7610e15.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095596341422440714",
+      "model": "gpt-6-astra",
+      "title": "Open-world browser adventure",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Build an open-world 3D adventure with several connected biomes, traversal, discoveries, light combat, quests, landmarks, day-night atmosphere and enough guidance that exploration feels purposeful.",
+      "author": {
+        "name": "Peter Gostev",
+        "url": "https://x.com/petergostev"
+      },
+      "source": {
+        "url": "https://x.com/petergostev/status/2095596341422440714",
+        "publishedAt": "2026-09-03T19:34:36.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "open world",
+        "adventure game",
+        "browser 3D"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095596341422440714"
+      },
+      "media": {
+        "image": "assets/previews/62267b50bd0c00e10a37.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095619319690400253",
+      "model": "gpt-6-astra",
+      "title": "Photoreal 3D product mockup studio",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Create a browser tool that places uploaded artwork onto photorealistic 3D product mockups. Support camera orbit, material and color controls, environment lighting, multiple products and high-resolution export.",
+      "author": {
+        "name": "Josh Millgate",
+        "url": "https://x.com/joshmillgate"
+      },
+      "source": {
+        "url": "https://x.com/joshmillgate/status/2095619319690400253",
+        "publishedAt": "2026-09-03T21:05:55.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "3D mockup",
+        "product visualization",
+        "browser tool"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095619319690400253"
+      },
+      "media": {
+        "image": "assets/previews/7762f843277fda2d2f52.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095673885605630429",
+      "model": "gpt-6-astra",
+      "title": "Procedural living ocean and storm simulation",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Extend the supplied single-file ocean-surface storm generator into a complete procedural ocean. Add reefs, deep water, believable weather, animal populations with emergent behavior, ecosystem interactions and a camera that can move between surface and underwater.",
+      "author": {
+        "name": "Ethan Mollick",
+        "url": "https://x.com/emollick"
+      },
+      "source": {
+        "url": "https://x.com/emollick/status/2095673885605630429",
+        "publishedAt": "2026-09-04T00:42:44.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "procedural ocean",
+        "animal simulation"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095673885605630429",
+        "repository": "https://github.com/emollick/abyssal-living-deep",
+        "demo": "https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1"
+      },
+      "media": {
+        "image": "assets/previews/f328a1a13f9ac8c829d2.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095611134992945385",
+      "model": "gpt-6-astra",
+      "title": "Reference-image 3D aquarium game",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Use the supplied reference image to build a complete 3D aquarium game in a single pass. Reconstruct the tank composition, animate fish, add feeding and collection interactions, water effects, camera controls and a clear objective.",
+      "author": {
+        "name": "Tim Jayas",
+        "url": "https://x.com/TimJayas"
+      },
+      "source": {
+        "url": "https://x.com/TimJayas/status/2095611134992945385",
+        "publishedAt": "2026-09-03T20:33:23.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "aquarium game",
+        "reference image",
+        "single prompt"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095611134992945385"
+      },
+      "media": {
+        "image": "assets/previews/c522341161fd8999972e.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095647685210669541",
+      "model": "gpt-6-astra",
+      "title": "Single-prompt playable real-time 3D game",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Build a playable real-time 3D game from one prompt. Define a compact core mechanic, a clear objective and short story, then generate the scene, characters, props, feedback and restart state so the result can be played immediately.",
+      "author": {
+        "name": "Higgsfield AI 🧩",
+        "url": "https://x.com/higgsfield"
+      },
+      "source": {
+        "url": "https://x.com/higgsfield/status/2095647685210669541",
+        "publishedAt": "2026-09-03T22:58:38.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "real-time 3D",
+        "playable game",
+        "single prompt"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095647685210669541"
+      },
+      "media": {
+        "image": "assets/previews/d10512aa45750b6fcfc3.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095840435319001278",
+      "model": "gpt-6-astra",
+      "title": "Single-turn Three.js naval war scene",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Create a detailed naval battle in Three.js in one turn. Include several distinct ships, physically convincing water interaction, wakes and spray, aerial action, explosions, cinematic lighting, camera motion and performance-aware rendering.",
+      "author": {
+        "name": "leo 🐾",
+        "url": "https://x.com/synthwavedd"
+      },
+      "source": {
+        "url": "https://x.com/synthwavedd/status/2095840435319001278",
+        "publishedAt": "2026-09-04T11:44:33.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "naval battle",
+        "single turn"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095840435319001278"
+      },
+      "media": {
+        "image": "assets/previews/d720a08832dc8749ad7b.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095598026916049024",
+      "model": "gpt-6-astra",
+      "title": "10v10 Halo-inspired multiplayer FPS",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Build a 10-versus-10 multiplayer arena shooter inspired by classic sci-fi FPS games. Include teams, respawns, readable weapons, shields, pickups, compact maps, scoring, match flow and low-latency browser play.",
+      "author": {
+        "name": "Halfdan",
+        "url": "https://x.com/VikiingAI"
+      },
+      "source": {
+        "url": "https://x.com/VikiingAI/status/2095598026916049024",
+        "publishedAt": "2026-09-03T19:41:18.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "multiplayer FPS",
+        "sci-fi arena",
+        "10v10"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095598026916049024"
+      },
+      "media": {
+        "image": "assets/previews/56d4000d3fc115fd7529.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095719731860750613",
+      "model": "gpt-6-astra",
+      "title": "Interactive voxel railway table",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Build a detailed voxel railway table in Three.js. Let users start and stop multiple trains, switch tracks, rotate and zoom around the table, inspect miniature towns and trigger small environmental animations.",
+      "author": {
+        "name": "Derya Unutmaz, MD",
+        "url": "https://x.com/DeryaTR_"
+      },
+      "source": {
+        "url": "https://x.com/DeryaTR_/status/2095719731860750613",
+        "publishedAt": "2026-09-04T03:44:55.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "voxel train",
+        "interactive toy"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095719731860750613",
+        "demo": "https://lindenhafen-railway.vercel.app/"
+      },
+      "media": {
+        "image": "assets/previews/7a7bcde401d8420e09e2.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095699049722581065",
+      "model": "gpt-6-astra",
+      "title": "Living voxel ship in a bottle",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Create a detailed 17th-century voxel ship sailing inside a glass bottle. Simulate rolling waves and ship motion, add circling gulls, a miniature harbor and coral reefs, then produce a cinematic camera sequence and calm soundtrack.",
+      "author": {
+        "name": "Derya Unutmaz, MD",
+        "url": "https://x.com/DeryaTR_"
+      },
+      "source": {
+        "url": "https://x.com/DeryaTR_/status/2095699049722581065",
+        "publishedAt": "2026-09-04T02:22:44.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "ship in a bottle",
+        "voxel art"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095699049722581065"
+      },
+      "media": {
+        "image": "assets/previews/a3c527769a0401300bf1.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095641163441254676",
+      "model": "gpt-6-astra",
+      "title": "Printable USS Enterprise CAD assembly",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Design an original, print-ready homage to the USS Enterprise NCC-1701 in CAD. Include recognizable proportions, a bridge and selected interiors, at least 28 functional moving parts, separated assemblies and exportable manufacturing files.",
+      "author": {
+        "name": "Derya Unutmaz, MD",
+        "url": "https://x.com/DeryaTR_"
+      },
+      "source": {
+        "url": "https://x.com/DeryaTR_/status/2095641163441254676",
+        "publishedAt": "2026-09-03T22:32:43.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "CAD",
+        "starship",
+        "3D printing"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095641163441254676"
+      },
+      "media": {
+        "image": "assets/previews/3b7b068d0eb0e5288ff2.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095630044102279312",
+      "model": "gpt-6-astra",
+      "title": "Unity space trench-run game",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Recreate the feel of a classic space trench run in Unity with fast low-altitude flight, turret fire, obstacles, targeting, escalating pressure, a final objective and a cinematic success or failure sequence.",
+      "author": {
+        "name": "Ronald Mannak",
+        "url": "https://x.com/ronaldmannak"
+      },
+      "source": {
+        "url": "https://x.com/ronaldmannak/status/2095630044102279312",
+        "publishedAt": "2026-09-03T21:48:32.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Unity",
+        "trench run",
+        "space game"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095630044102279312"
+      },
+      "media": {
+        "image": "assets/previews/be8d6964ee56b4d4d219.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2093690427849191855",
+      "model": "gpt-6-astra",
+      "title": "Procedural voxel castle showcase",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Generate a large voxel castle with readable defensive layers, towers, walls, gates, courtyards and surrounding terrain. Use instancing, an orbit camera, changing light and deterministic generation so the result is stable and inspectable.",
+      "author": {
+        "name": "Hakm",
+        "url": "https://x.com/hakmgpt"
+      },
+      "source": {
+        "url": "https://x.com/hakmgpt/status/2093690427849191855",
+        "publishedAt": "2026-08-29T13:21:11.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "voxel castle",
+        "procedural architecture",
+        "instancing"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2093690427849191855"
+      },
+      "media": {
+        "image": "assets/previews/b1d1817a37c203d66e96.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095597640587374887",
+      "model": "gpt-6-astra",
+      "title": "Asset-driven explorable Unity city",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Assemble an explorable Unity city from the provided asset library. Create a coherent road network, towers, vehicles, palms, lighting and navigation, then optimize the scene and produce a stable first-person walkthrough.",
+      "author": {
+        "name": "Chetaslua",
+        "url": "https://x.com/chetaslua"
+      },
+      "source": {
+        "url": "https://x.com/chetaslua/status/2095597640587374887",
+        "publishedAt": "2026-09-03T19:39:46.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Unity",
+        "city assembly",
+        "asset library"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095597640587374887"
+      },
+      "media": {
+        "image": "assets/previews/35299b2ab45e0614dcc7.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095868420327710840",
+      "model": "gpt-6-astra",
+      "title": "Mechanically complete Blender locomotive",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Model a steam locomotive in Blender as a real mechanical breakdown rather than a textured shell. Name and separate the axles, horn guides, journal blocks, stays, suspension links, steam dome and every major assembly.",
+      "author": {
+        "name": "sheemamoto",
+        "url": "https://x.com/sheemamoto"
+      },
+      "source": {
+        "url": "https://x.com/sheemamoto/status/2095868420327710840",
+        "publishedAt": "2026-09-04T13:35:45.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "locomotive",
+        "mechanical assembly"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095868420327710840"
+      },
+      "media": {
+        "image": "assets/previews/a02294169159c5b88bfb.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095819786651374023",
+      "model": "gpt-6-astra",
+      "title": "Tidal Rush eight-racer browser game",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Build a complete browser kart-racing game with eight racers, three laps, drifting, collectible items, responsive physics, clear HUD, attractive graphics and a finish-state results screen.",
+      "author": {
+        "name": "RESONANCE SCIENCE 🧬🔬",
+        "url": "https://x.com/amazing13_13"
+      },
+      "source": {
+        "url": "https://x.com/amazing13_13/status/2095819786651374023",
+        "publishedAt": "2026-09-04T10:22:30.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "kart racing",
+        "browser game",
+        "drifting"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095819786651374023"
+      },
+      "media": {
+        "image": "assets/previews/19e2e109daf0820abba3.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095805694603673631",
+      "model": "gpt-6-astra",
+      "title": "Real-time WebGL galaxy launch hero",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Reverse-engineer the visual language of the supplied galaxy hero and rebuild it as real-time WebGL rather than video. Use depth-aware particles, luminous dust, smooth pointer response, restrained typography space and adaptive performance.",
+      "author": {
+        "name": "Fluxora",
+        "url": "https://x.com/Fluxora_Studios"
+      },
+      "source": {
+        "url": "https://x.com/Fluxora_Studios/status/2095805694603673631",
+        "publishedAt": "2026-09-04T09:26:30.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "WebGL",
+        "galaxy hero",
+        "interactive website"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095805694603673631"
+      },
+      "media": {
+        "image": "assets/previews/fe2d45919c2bec07fc5f.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095898198413922791",
+      "model": "gpt-6-astra",
+      "title": "Self-playing cultural arcade game",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Build a self-playing arcade game for a G7 country. Translate one recognizable cultural landmark into the core mechanic, make the action readable without input, and add score, escalating challenge and a memorable reveal.",
+      "author": {
+        "name": "Good Morning",
+        "url": "https://x.com/say_gm_"
+      },
+      "source": {
+        "url": "https://x.com/say_gm_/status/2095898198413922791",
+        "publishedAt": "2026-09-04T15:34:05.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "arcade game",
+        "cultural game",
+        "self-playing"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095898198413922791"
+      },
+      "media": {
+        "image": "assets/previews/e8816591f99630e061fd.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095597560253862065",
+      "model": "gpt-6-astra",
+      "title": "One-shot premium interactive prototype",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Design and implement a premium interactive prototype in one pass from the supplied product concept. Choose a strong visual system, prioritize the primary action, add polished transitions and deliver a responsive hosted build.",
+      "author": {
+        "name": "AJ Orbach 🐳",
+        "url": "https://x.com/AY_Orbach"
+      },
+      "source": {
+        "url": "https://x.com/AY_Orbach/status/2095597560253862065",
+        "publishedAt": "2026-09-03T19:39:27.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "interactive prototype",
+        "one shot",
+        "product design"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095597560253862065"
+      },
+      "media": {
+        "image": "assets/previews/33f3f93183ced23b1e8c.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095776712579571725",
+      "model": "gpt-6-astra",
+      "title": "Exploded interactive 3D turbocharger",
+      "description": "The author published the exact task wording in the linked X post; only light punctuation and formatting normalization was applied.",
+      "prompt": "Build an interactive 3D turbocharger. Separate every working system. Let me rotate it, isolate parts, and see what the machine is actually doing.",
+      "author": {
+        "name": "Feraser",
+        "url": "https://x.com/Feraser8"
+      },
+      "source": {
+        "url": "https://x.com/Feraser8/status/2095776712579571725",
+        "publishedAt": "2026-09-04T07:31:20.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "verbatim",
+        "note": "Verbatim prompt published by the author"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "interactive engineering",
+        "turbocharger",
+        "exploded view"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095776712579571725"
+      },
+      "media": {
+        "image": "assets/previews/906d471ad638279a8457.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095663498101662198",
+      "model": "gpt-6-astra",
+      "title": "One-shot Three.js surprise game",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Make an original Three.js game in one shot that earns the title “Amaze.” Pick one surprising visual mechanic, teach it within seconds, build a short progression arc and end with a satisfying spectacle.",
+      "author": {
+        "name": "Prathamesh",
+        "url": "https://x.com/pratt_builds"
+      },
+      "source": {
+        "url": "https://x.com/pratt_builds/status/2095663498101662198",
+        "publishedAt": "2026-09-04T00:01:28.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "creative game",
+        "one shot"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095663498101662198"
+      },
+      "media": {
+        "image": "assets/previews/01a4fe457300f75b9f45.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095907526566990013",
+      "model": "gpt-6-astra",
+      "title": "Rapid playable game prototype",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Create a visually coherent playable game prototype under a strict time and token budget. Prioritize one complete loop, responsive input, clear feedback, stable performance and a shippable browser build over feature count.",
+      "author": {
+        "name": "GLUNIVERSE™",
+        "url": "https://x.com/gibglue"
+      },
+      "source": {
+        "url": "https://x.com/gibglue/status/2095907526566990013",
+        "publishedAt": "2026-09-04T16:11:09.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "rapid prototype",
+        "game development",
+        "budget constraint"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095907526566990013"
+      },
+      "media": {
+        "image": "assets/previews/8aa9a7706316dc84c6df.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095872986477908108",
+      "model": "gpt-6-astra",
+      "title": "Prompt-to-open-world game",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Build an open-world game from this concept: [world premise]. Include three distinct regions, traversal, dynamic encounters, a simple quest chain, landmarks, save and restart behavior, and enough optimization to run in-browser.",
+      "author": {
+        "name": "Ejaj AHmed 🦅",
+        "url": "https://x.com/aeejazkhan"
+      },
+      "source": {
+        "url": "https://x.com/aeejazkhan/status/2095872986477908108",
+        "publishedAt": "2026-09-04T13:53:54.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "open world",
+        "prompt to game",
+        "browser game"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095872986477908108"
+      },
+      "media": {
+        "image": "assets/previews/81360ee1cb1d7aaa7aef.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095806515579879457",
+      "model": "gpt-6-astra",
+      "title": "Interactive Three.js galaxy homepage",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Create a premium launch-page hero around a real-time Three.js galaxy. Make the particles form a subtle number-six silhouette, respond to scroll and pointer motion, preserve text readability and gracefully reduce effects on weaker devices.",
+      "author": {
+        "name": "Three.js Resources",
+        "url": "https://x.com/threejsresource"
+      },
+      "source": {
+        "url": "https://x.com/threejsresource/status/2095806515579879457",
+        "publishedAt": "2026-09-04T09:29:46.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "landing page",
+        "particle galaxy"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095806515579879457"
+      },
+      "media": {
+        "image": "assets/previews/0838004dbcf9c31ee5d0.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095898303019856230",
+      "model": "gpt-6-astra",
+      "title": "Looping cyberpunk bedroom in Blender",
+      "description": "The author published the exact task wording in the linked X post; only light punctuation and formatting normalization was applied.",
+      "prompt": "Create a cinematic cyberpunk bedroom in Blender overlooking a rainy neon city at night. Add animated billboards and make it photorealistic and seamlessly looped.",
+      "author": {
+        "name": "Coin Shot ☁️",
+        "url": "https://x.com/CoinSh0t"
+      },
+      "source": {
+        "url": "https://x.com/CoinSh0t/status/2095898303019856230",
+        "publishedAt": "2026-09-04T15:34:30.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "verbatim",
+        "note": "Verbatim prompt published by the author"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "cyberpunk bedroom",
+        "seamless loop"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095898303019856230"
+      },
+      "media": {
+        "image": "assets/previews/e2345fe72cbaa70b18e7.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095871735824339279",
+      "model": "gpt-6-astra",
+      "title": "Van Gogh town in Three.js",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Create a walkable Three.js town inspired by Van Gogh. Turn painted streets, stars, cafés and fields into layered 3D spaces while keeping the brushwork alive through shaders, texture and animated light.",
+      "author": {
+        "name": "Fede(URU) 🇺🇾",
+        "url": "https://x.com/RealFedeURU"
+      },
+      "source": {
+        "url": "https://x.com/RealFedeURU/status/2095871735824339279",
+        "publishedAt": "2026-09-04T13:48:55.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "Van Gogh",
+        "stylized town"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095871735824339279"
+      },
+      "media": {
+        "image": "assets/previews/2d8a09166b72394c4292.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095805115580199372",
+      "model": "gpt-6-astra",
+      "title": "Starry Night streets you can stroll",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Combine six Van Gogh paintings into one explorable town where visitors can stroll through Starry Night streets. Design natural portals between paintings, maintain a coherent scale and add gentle ambient interaction.",
+      "author": {
+        "name": "₿IGRYAN",
+        "url": "https://x.com/BigRyan"
+      },
+      "source": {
+        "url": "https://x.com/BigRyan/status/2095805115580199372",
+        "publishedAt": "2026-09-04T09:24:12.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "art world",
+        "walkable town",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095805115580199372"
+      },
+      "media": {
+        "image": "assets/previews/3bb18f1641ee2093e980.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095742344293454148",
+      "model": "gpt-6-astra",
+      "title": "Driveable childhood train table",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Rebuild a childhood train table as a tactile Three.js toy with voxel tracks and rolling stock. Let the player drive trains, switch junctions, orbit the table and discover animated miniature scenes.",
+      "author": {
+        "name": "₿IGRYAN",
+        "url": "https://x.com/BigRyan"
+      },
+      "source": {
+        "url": "https://x.com/BigRyan/status/2095742344293454148",
+        "publishedAt": "2026-09-04T05:14:46.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "train table",
+        "interactive toy"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095742344293454148"
+      },
+      "media": {
+        "image": "assets/previews/93c7b29090d7ae96b607.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095623452678144366",
+      "model": "gpt-6-astra",
+      "title": "Text-to-explorable Unity city",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Turn the supplied city vision into an explorable Unity environment with towers, roads, vehicles, palms and atmospheric light. Establish believable scale, navigation, traffic motion and a smooth first-person camera.",
+      "author": {
+        "name": "Md Ismail Šojal 🕷️",
+        "url": "https://x.com/0x0SojalSec"
+      },
+      "source": {
+        "url": "https://x.com/0x0SojalSec/status/2095623452678144366",
+        "publishedAt": "2026-09-03T21:22:20.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Unity",
+        "3D city",
+        "text to world"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095623452678144366"
+      },
+      "media": {
+        "image": "assets/previews/35299b2ab45e0614dcc7.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095650251902239139",
+      "model": "gpt-6-astra",
+      "title": "Single-prompt aquarium benchmark",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "From the supplied reference image, build a 3D aquarium game with one prompt. Match the layout and mood, add lively fish behavior, water caustics, orbit controls and a small interaction loop suitable for comparing model outputs.",
+      "author": {
+        "name": "Tony出海",
+        "url": "https://x.com/iamtonyzhu"
+      },
+      "source": {
+        "url": "https://x.com/iamtonyzhu/status/2095650251902239139",
+        "publishedAt": "2026-09-03T23:08:50.000Z",
+        "language": "zh"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "model comparison",
+        "aquarium",
+        "reference image"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095650251902239139"
+      },
+      "media": {
+        "image": "assets/previews/c522341161fd8999972e.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095725404883476661",
+      "model": "gpt-6-astra",
+      "title": "Floor plan to complete 3D walkthrough",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Convert the supplied floor plan into a full 3D architectural walkthrough. Respect room dimensions and circulation, add doors, windows, furniture, materials and lighting, then create a camera path that explains the layout.",
+      "author": {
+        "name": "AidarosGo",
+        "url": "https://x.com/aidarosgo3"
+      },
+      "source": {
+        "url": "https://x.com/aidarosgo3/status/2095725404883476661",
+        "publishedAt": "2026-09-04T04:07:27.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "floor plan",
+        "architecture",
+        "3D walkthrough"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095725404883476661"
+      },
+      "media": {
+        "image": "assets/previews/a9453628a11a2eca58a3.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095777502681825541",
+      "model": "gpt-6-astra",
+      "title": "Real house to editable 60 FPS Blender scene",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Reconstruct the supplied real house as a fully editable Blender scene. Keep architectural and furnishing elements separate, optimize geometry and materials, and deliver a locally rendered walkthrough that sustains 60 FPS.",
+      "author": {
+        "name": "Alvin Foo",
+        "url": "https://x.com/alvinfoo"
+      },
+      "source": {
+        "url": "https://x.com/alvinfoo/status/2095777502681825541",
+        "publishedAt": "2026-09-04T07:34:28.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "editable scene",
+        "real-time walkthrough"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095777502681825541"
+      },
+      "media": {
+        "image": "assets/previews/ca2c8c153392a345f4e8.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095916820431827408",
+      "model": "gpt-6-astra",
+      "title": "Street Heat browser drift racer",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Build a complete arcade street racer in the browser from one sentence. Implement satisfying drift physics, combo scoring, near-miss bonuses, speed traps, nitro, traffic, a readable HUD and a short replayable course.",
+      "author": {
+        "name": "Higgsfield AI 🧩",
+        "url": "https://x.com/higgsfield_ai"
+      },
+      "source": {
+        "url": "https://x.com/higgsfield_ai/status/2095916820431827408",
+        "publishedAt": "2026-09-04T16:48:04.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "arcade racer",
+        "drift physics",
+        "browser game"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095916820431827408"
+      },
+      "media": {
+        "image": "assets/previews/911fb2b70e5d4c824524.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095616529572503593",
+      "model": "gpt-6-astra",
+      "title": "3D museum cinematography previsualization",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Build a 3D museum previsualization that maps the location, cast positions, camera blocking and shot list. Keep every setup inside the physical viewport, then export consistent guides for downstream video generation.",
+      "author": {
+        "name": "Higgsfield AI 🧩",
+        "url": "https://x.com/higgsfield_ai"
+      },
+      "source": {
+        "url": "https://x.com/higgsfield_ai/status/2095616529572503593",
+        "publishedAt": "2026-09-03T20:54:49.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "3D previz",
+        "museum",
+        "camera blocking"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095616529572503593"
+      },
+      "media": {
+        "image": "assets/previews/395c33eedc4e4b959135.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095695603808309497",
+      "model": "gpt-6-astra",
+      "title": "Playable 15-second product demo ad",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Build a mobile-first 15-second interactive demo of [product]. Let the user try the core feature with one gesture, give immediate 3D feedback and end with a clear “Get full access” CTA. Use a vertical 9:16 layout and preserve brand colors.",
+      "author": {
+        "name": "Zack (Paid Ads Specialist)",
+        "url": "https://x.com/zackpaid"
+      },
+      "source": {
+        "url": "https://x.com/zackpaid/status/2095695603808309497",
+        "publishedAt": "2026-09-04T02:09:02.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "playable ad",
+        "3D product demo",
+        "mobile interaction"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095695603808309497"
+      },
+      "media": {
+        "image": "assets/previews/d10512aa45750b6fcfc3.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095624712244072551",
+      "model": "gpt-6-astra",
+      "title": "Blueprint to Blender to Unreal archviz",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Start from the supplied architectural blueprint, create an accurate editable model in Blender, then transfer it into Unreal Engine as a lit, walkable archviz experience with correct scale and collision.",
+      "author": {
+        "name": "Linus ✦ Ekenstam",
+        "url": "https://x.com/LinusEkenstam"
+      },
+      "source": {
+        "url": "https://x.com/LinusEkenstam/status/2095624712244072551",
+        "publishedAt": "2026-09-03T21:27:20.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "Unreal Engine",
+        "archviz"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095624712244072551"
+      },
+      "media": {
+        "image": "assets/previews/8fef1df6618607f0028f.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095752726886105375",
+      "model": "gpt-6-astra",
+      "title": "Solace forest villa from brief to UE5",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Create a walkable modern forest villa named Solace with three bedrooms, an office, central courtyard, pool and surrounding woodland. Build it procedurally in Blender, render golden-hour stills, then export a 60 FPS UE5 walkthrough.",
+      "author": {
+        "name": "SuSu_酥酥👅",
+        "url": "https://x.com/NFT_Chen"
+      },
+      "source": {
+        "url": "https://x.com/NFT_Chen/status/2095752726886105375",
+        "publishedAt": "2026-09-04T05:56:01.000Z",
+        "language": "zh"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "UE5",
+        "modern villa"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095752726886105375"
+      },
+      "media": {
+        "image": "assets/previews/8fef1df6618607f0028f.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095844872171421771",
+      "model": "gpt-6-astra",
+      "title": "Thirty-second Blender scene challenge",
+      "description": "A reusable task brief reconstructed from the author’s public project description. It is not presented as a verbatim hidden prompt.",
+      "prompt": "Build a coherent Blender scene under an extreme time limit. Prioritize a strong silhouette, three depth layers, one hero material, cinematic lighting and a camera-ready composition; leave every object editable.",
+      "author": {
+        "name": "Satyam Kumar",
+        "url": "https://x.com/_satyam_ai"
+      },
+      "source": {
+        "url": "https://x.com/_satyam_ai/status/2095844872171421771",
+        "publishedAt": "2026-09-04T12:02:11.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Source-derived brief; exact hidden prompt was not public"
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "rapid scene",
+        "editable geometry"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095844872171421771"
+      },
+      "media": {
+        "image": "assets/previews/1b7302e35b4c879de4aa.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095980885732704629",
+      "model": "gpt-6-astra",
+      "title": "Rube Goldberg chain-reaction machine",
+      "description": "Create a Rube Goldberg machine in a self-contained Three.js HTML file. Use a sequence of mechanical interactions that finally presses a button and triggers a theatrical explosion.",
+      "prompt": "Create a Rube Goldberg machine in a self-contained Three.js HTML file. Use a sequence of mechanical interactions that finally presses a button and triggers a theatrical explosion.",
+      "author": {
+        "name": "thehype.",
+        "url": "https://x.com/thehypedotnews"
+      },
+      "source": {
+        "url": "https://x.com/thehypedotnews/status/2095980885732704629",
+        "publishedAt": "2026-09-04T21:02:39.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095980885732704629"
+      },
+      "media": {
+        "image": "assets/previews/368d9d79144335c0bffc.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096035962824335798",
+      "model": "gpt-6-astra",
+      "title": "Explorable Taj Mahal",
+      "description": "Recreate the Taj Mahal as an explorable 3D scene. Prioritize recognizable proportions, symmetric gardens, the central dome, minarets and the relationship between buildings.",
+      "prompt": "Recreate the Taj Mahal as an explorable 3D scene. Prioritize recognizable proportions, symmetric gardens, the central dome, minarets and the relationship between buildings.",
+      "author": {
+        "name": "vikas sabbi",
+        "url": "https://x.com/vikassabbi"
+      },
+      "source": {
+        "url": "https://x.com/vikassabbi/status/2096035962824335798",
+        "publishedAt": "2026-09-05T00:41:30.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096035962824335798"
+      },
+      "media": {
+        "image": "assets/previews/afd70948169390c74fbe.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096225621303042258",
+      "model": "gpt-6-astra",
+      "title": "Orbital rendezvous simulator",
+      "description": "Build a real-time orbital rendezvous simulation using two-body ECI propagation and HCW guidance. Include six-degree-of-freedom orientation, fuel use, force limits and a docking objective.",
+      "prompt": "Build a real-time orbital rendezvous simulation using two-body ECI propagation and HCW guidance. Include six-degree-of-freedom orientation, fuel use, force limits and a docking objective.",
+      "author": {
+        "name": "Alican Kiraz",
+        "url": "https://x.com/AlicanKiraz0"
+      },
+      "source": {
+        "url": "https://x.com/AlicanKiraz0/status/2096225621303042258",
+        "publishedAt": "2026-09-05T13:15:08.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096225621303042258"
+      },
+      "media": {
+        "image": "assets/previews/42e7d7821256b5c0e0d6.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096180220839760375",
+      "model": "gpt-6-astra",
+      "title": "Reference-image tugboat assembly",
+      "description": "Reconstruct a tugboat in Blender from reference images. Model the hull, slanted wheelhouse, deck fittings and towing equipment, resolving inconsistent viewpoints into one coherent vessel.",
+      "prompt": "Reconstruct a tugboat in Blender from reference images. Model the hull, slanted wheelhouse, deck fittings and towing equipment, resolving inconsistent viewpoints into one coherent vessel.",
+      "author": {
+        "name": "Alex",
+        "url": "https://x.com/NarvisAlex"
+      },
+      "source": {
+        "url": "https://x.com/NarvisAlex/status/2096180220839760375",
+        "publishedAt": "2026-09-05T10:14:44.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096180220839760375"
+      },
+      "media": {
+        "image": "assets/previews/c2a965c19b4319993a70.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096059736693305794",
+      "model": "gpt-6-astra",
+      "title": "Single-view power drill reconstruction",
+      "description": "Reconstruct a power drill in Blender from one reference view. Model the housing, grip, chuck and controls as editable geometry, then inspect the result from multiple angles.",
+      "prompt": "Reconstruct a power drill in Blender from one reference view. Model the housing, grip, chuck and controls as editable geometry, then inspect the result from multiple angles.",
+      "author": {
+        "name": "Utah teapot 🫖",
+        "url": "https://x.com/SkyeSharkie"
+      },
+      "source": {
+        "url": "https://x.com/SkyeSharkie/status/2096059736693305794",
+        "publishedAt": "2026-09-05T02:15:58.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096059736693305794"
+      },
+      "media": {
+        "image": "assets/previews/eab0ddb7ed59c8047050.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095981655370666076",
+      "model": "gpt-6-astra",
+      "title": "3D slingshot bird game",
+      "description": "Build a 3D slingshot game with four birds and distinct special powers. Include aim-and-release controls, destructible structures and a replayable scoring loop.",
+      "prompt": "Build a 3D slingshot game with four birds and distinct special powers. Include aim-and-release controls, destructible structures and a replayable scoring loop.",
+      "author": {
+        "name": "Max",
+        "url": "https://x.com/MozeTech"
+      },
+      "source": {
+        "url": "https://x.com/MozeTech/status/2095981655370666076",
+        "publishedAt": "2026-09-04T21:05:42.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095981655370666076"
+      },
+      "media": {
+        "image": "assets/previews/b9fc3db28e9b9b586476.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095962376344309843",
+      "model": "gpt-6-astra",
+      "title": "Bullet-time third-person shooter",
+      "description": "Build a Three.js third-person shooter inspired by Max Payne. Focus on slow-motion action, responsive gunplay and a playable scene with an effective chase camera.",
+      "prompt": "Build a Three.js third-person shooter inspired by Max Payne. Focus on slow-motion action, responsive gunplay and a playable scene with an effective chase camera.",
+      "author": {
+        "name": "Andrei",
+        "url": "https://x.com/HangoutWHAndrei"
+      },
+      "source": {
+        "url": "https://x.com/HangoutWHAndrei/status/2095962376344309843",
+        "publishedAt": "2026-09-04T19:49:06.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095962376344309843"
+      },
+      "media": {
+        "image": "assets/previews/c0c429e42811528f60da.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096008241104711698",
+      "model": "gpt-6-astra",
+      "title": "Bouncy WebGPU jelly",
+      "description": "Create a delicious-looking bouncy jelly using Three.js and WebGPU. Make it deform and settle naturally after interaction, with translucent material and readable lighting.",
+      "prompt": "Create a delicious-looking bouncy jelly using Three.js and WebGPU. Make it deform and settle naturally after interaction, with translucent material and readable lighting.",
+      "author": {
+        "name": "Scott",
+        "url": "https://x.com/scottstts"
+      },
+      "source": {
+        "url": "https://x.com/scottstts/status/2096008241104711698",
+        "publishedAt": "2026-09-04T22:51:21.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js",
+        "WebGPU"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096008241104711698"
+      },
+      "media": {
+        "image": "assets/previews/cf4454a16a06ed243c20.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095967131573649552",
+      "model": "gpt-6-astra",
+      "title": "Interactive PS5 controller",
+      "description": "Build an inspectable PlayStation 5 controller in Three.js with a recognizable silhouette, buttons, triggers, analog sticks and distinct surface materials.",
+      "prompt": "Build an inspectable PlayStation 5 controller in Three.js with a recognizable silhouette, buttons, triggers, analog sticks and distinct surface materials.",
+      "author": {
+        "name": "bluedev",
+        "url": "https://x.com/blueemi99"
+      },
+      "source": {
+        "url": "https://x.com/blueemi99/status/2095967131573649552",
+        "publishedAt": "2026-09-04T20:08:00.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095967131573649552"
+      },
+      "media": {
+        "image": "assets/previews/c17fee4a534e826e0ab3.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096079660605997264",
+      "model": "gpt-6-astra",
+      "title": "Astral War browser shooter",
+      "description": "Build a World at War-inspired browser shooter in Three.js. Create a complete playable battlefield with responsive combat, spatial audio, character assets and match flow.",
+      "prompt": "Build a World at War-inspired browser shooter in Three.js. Create a complete playable battlefield with responsive combat, spatial audio, character assets and match flow.",
+      "author": {
+        "name": "Rishi",
+        "url": "https://x.com/0xRishi"
+      },
+      "source": {
+        "url": "https://x.com/0xRishi/status/2096079660605997264",
+        "publishedAt": "2026-09-05T03:35:09.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096079660605997264"
+      },
+      "media": {
+        "image": "assets/previews/10cc70e94dc0a8e6605b.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096079976433082502",
+      "model": "gpt-6-astra",
+      "title": "Schematic PDF to PCB and 3D view",
+      "description": "Use a schematic PDF to revise a circuit in KiCad, route a 50 by 20 mm two-layer PCB and render its 3D assembly. Review component datasheets and resolve design-rule violations.",
+      "prompt": "Use a schematic PDF to revise a circuit in KiCad, route a 50 by 20 mm two-layer PCB and render its 3D assembly. Review component datasheets and resolve design-rule violations.",
+      "author": {
+        "name": "Titlist400",
+        "url": "https://x.com/swjtutl"
+      },
+      "source": {
+        "url": "https://x.com/swjtutl/status/2096079976433082502",
+        "publishedAt": "2026-09-05T03:36:24.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096079976433082502"
+      },
+      "media": {
+        "image": "assets/previews/1bfc13d5447aa0038e27.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096149823216898445",
+      "model": "gpt-6-astra",
+      "title": "Browser flight game",
+      "description": "Create a complete 3D flight game in the browser. Include controllable flight, a navigable environment, a clear objective and coherent presentation from an empty project.",
+      "prompt": "Create a complete 3D flight game in the browser. Include controllable flight, a navigable environment, a clear objective and coherent presentation from an empty project.",
+      "author": {
+        "name": "Givros",
+        "url": "https://x.com/givros"
+      },
+      "source": {
+        "url": "https://x.com/givros/status/2096149823216898445",
+        "publishedAt": "2026-09-05T08:13:57.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096149823216898445"
+      },
+      "media": {
+        "image": "assets/previews/094260e4ea7a88a23850.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096082432197837065",
+      "model": "gpt-6-astra",
+      "title": "Interactive globe dashboard",
+      "description": "Rebuild a Three.js 3D globe dashboard from a reference image. Include day and night modes, readable geographic data and functional controls matching the reference.",
+      "prompt": "Rebuild a Three.js 3D globe dashboard from a reference image. Include day and night modes, readable geographic data and functional controls matching the reference.",
+      "author": {
+        "name": "Kai",
+        "url": "https://x.com/hqmank"
+      },
+      "source": {
+        "url": "https://x.com/hqmank/status/2096082432197837065",
+        "publishedAt": "2026-09-05T03:46:09.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096082432197837065"
+      },
+      "media": {
+        "image": "assets/previews/ce8131795b341edda606.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096107322536051057",
+      "model": "gpt-6-astra",
+      "title": "Azadi Tower in Blender",
+      "description": "Create an editable Blender model of Azadi Tower, focusing on its flared base, crossing arch, patterned surfaces and recognizable proportions.",
+      "prompt": "Create an editable Blender model of Azadi Tower, focusing on its flared base, crossing arch, patterned surfaces and recognizable proportions.",
+      "author": {
+        "name": "taesiri",
+        "url": "https://x.com/taesiri"
+      },
+      "source": {
+        "url": "https://x.com/taesiri/status/2096107322536051057",
+        "publishedAt": "2026-09-05T05:25:04.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096107322536051057"
+      },
+      "media": {
+        "image": "assets/previews/dccea8a39052877e2e5c.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096245759121277132",
+      "model": "gpt-6-astra",
+      "title": "Scroll-driven 3D studio website",
+      "description": "Turn the supplied reference image into a Three.js scene within a smooth scroll-driven studio website. Coordinate camera motion, typography and section transitions.",
+      "prompt": "Turn the supplied reference image into a Three.js scene within a smooth scroll-driven studio website. Coordinate camera motion, typography and section transitions.",
+      "author": {
+        "name": "ui.debbie",
+        "url": "https://x.com/mx_debbiee"
+      },
+      "source": {
+        "url": "https://x.com/mx_debbiee/status/2096245759121277132",
+        "publishedAt": "2026-09-05T14:35:09.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096245759121277132"
+      },
+      "media": {
+        "image": "assets/previews/a315174ac48f5392bb9a.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096244208533455049",
+      "model": "gpt-6-astra",
+      "title": "Komorebi river kayaking",
+      "description": "Build a 3D river kayaking game with anime-inspired aesthetics. Let the player paddle left and right to avoid obstacles, with flowing water, scenery, music and sound effects generated in code.",
+      "prompt": "Build a 3D river kayaking game with anime-inspired aesthetics. Let the player paddle left and right to avoid obstacles, with flowing water, scenery, music and sound effects generated in code.",
+      "author": {
+        "name": "AJ",
+        "url": "https://x.com/ItsmeAjayKV"
+      },
+      "source": {
+        "url": "https://x.com/ItsmeAjayKV/status/2096244208533455049",
+        "publishedAt": "2026-09-05T14:29:00.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096244208533455049"
+      },
+      "media": {
+        "image": "assets/previews/177462bb87e3089acbf2.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096243989439713677",
+      "model": "gpt-6-astra",
+      "title": "Refractive bottle product story",
+      "description": "Build an interactive product website around a photorealistic WebGL glass bottle. Use refractive liquid, scroll-driven rotation and bold typography while maintaining browser performance.",
+      "prompt": "Build an interactive product website around a photorealistic WebGL glass bottle. Use refractive liquid, scroll-driven rotation and bold typography while maintaining browser performance.",
+      "author": {
+        "name": "Himanshu Hingorani",
+        "url": "https://x.com/himanshubuildss"
+      },
+      "source": {
+        "url": "https://x.com/himanshubuildss/status/2096243989439713677",
+        "publishedAt": "2026-09-05T14:28:08.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "WebGL"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096243989439713677"
+      },
+      "media": {
+        "image": "assets/previews/0752e3417e975ec333d5.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096013280519016608",
+      "model": "gpt-6-astra",
+      "title": "Gogh Strike multiplayer FPS",
+      "description": "Build a Post-Impressionist 5v5 first-person shooter with Blender-rendered artist characters, readable teams and a complete multiplayer match in the browser.",
+      "prompt": "Build a Post-Impressionist 5v5 first-person shooter with Blender-rendered artist characters, readable teams and a complete multiplayer match in the browser.",
+      "author": {
+        "name": "Peter Gostev",
+        "url": "https://x.com/petergostev"
+      },
+      "source": {
+        "url": "https://x.com/petergostev/status/2096013280519016608",
+        "publishedAt": "2026-09-04T23:11:22.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096013280519016608",
+        "repository": "https://github.com/petergpt/gogh-strike",
+        "demo": "https://gogh-strike.surge.sh/"
+      },
+      "media": {
+        "image": "assets/previews/70ad9e97aa42a9189998.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095988972879335792",
+      "model": "gpt-6-astra",
+      "title": "Cathedral hack-and-slash arena",
+      "description": "Build a third-person Three.js hack-and-slash game in a cathedral above a dead star. Include light sword combos, heavy attacks, area magic, dodging and grounded two-handed animation.",
+      "prompt": "Build a third-person Three.js hack-and-slash game in a cathedral above a dead star. Include light sword combos, heavy attacks, area magic, dodging and grounded two-handed animation.",
+      "author": {
+        "name": "Alexey Fateev",
+        "url": "https://x.com/superalesha"
+      },
+      "source": {
+        "url": "https://x.com/superalesha/status/2095988972879335792",
+        "publishedAt": "2026-09-04T21:34:47.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095988972879335792",
+        "repository": "https://github.com/alesha-pro/bench-portal",
+        "demo": "https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/"
+      },
+      "media": {
+        "image": "assets/previews/b8e73f6ab2b929800dd1.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096082580554777041",
+      "model": "gpt-6-astra",
+      "title": "Exploding procedural train assemblies",
+      "description": "Generate two trains directly in Three.js from dimensions, profiles and geometry functions. Animate wheels and provide an exploded-view and reassembly sequence.",
+      "prompt": "Generate two trains directly in Three.js from dimensions, profiles and geometry functions. Animate wheels and provide an exploded-view and reassembly sequence.",
+      "author": {
+        "name": "Tom Krcha",
+        "url": "https://x.com/tomkrcha"
+      },
+      "source": {
+        "url": "https://x.com/tomkrcha/status/2096082580554777041",
+        "publishedAt": "2026-09-05T03:46:45.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096082580554777041"
+      },
+      "media": {
+        "image": "assets/previews/1bd8465e8c05d9d38315.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096201415051911597",
+      "model": "gpt-6-astra",
+      "title": "A playful toddler toy world",
+      "description": "Build a warm Three.js playroom where a toddler moves between toys and uses each with a different animation. Include a play mat, books, shelves and climbing structures, with orbit and zoom controls.",
+      "prompt": "Build a warm Three.js playroom where a toddler moves between toys and uses each with a different animation. Include a play mat, books, shelves and climbing structures, with orbit and zoom controls.",
+      "author": {
+        "name": "AI少年",
+        "url": "https://x.com/aehyok"
+      },
+      "source": {
+        "url": "https://x.com/aehyok/status/2096201415051911597",
+        "publishedAt": "2026-09-05T11:38:57.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096201415051911597"
+      },
+      "media": {
+        "image": "assets/previews/965f7261ca51d323b38a.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095967568825582044",
+      "model": "gpt-6-astra",
+      "title": "Anti-gravity combat racer",
+      "description": "Build a high-speed anti-gravity combat racer in Three.js with drifting, boosts, banking cameras, air brakes and shield pickups. Include light, balanced and heavy craft on an elevated alien raceway.",
+      "prompt": "Build a high-speed anti-gravity combat racer in Three.js with drifting, boosts, banking cameras, air brakes and shield pickups. Include light, balanced and heavy craft on an elevated alien raceway.",
+      "author": {
+        "name": "Alexey Fateev",
+        "url": "https://x.com/superalesha"
+      },
+      "source": {
+        "url": "https://x.com/superalesha/status/2095967568825582044",
+        "publishedAt": "2026-09-04T20:09:44.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095967568825582044",
+        "repository": "https://github.com/alesha-pro/bench-portal"
+      },
+      "media": {
+        "image": "assets/previews/76744b47af9907732336.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096122429319852319",
+      "model": "gpt-6-astra",
+      "title": "Live jet-manufacturing plant",
+      "description": "Research aircraft manufacturing and build a live Three.js jet factory simulation. Model machine cycles, production stations, transport and bottlenecks, then test the flow.",
+      "prompt": "Research aircraft manufacturing and build a live Three.js jet factory simulation. Model machine cycles, production stations, transport and bottlenecks, then test the flow.",
+      "author": {
+        "name": "Konstantin Saifoulline",
+        "url": "https://x.com/konstantinsaifo"
+      },
+      "source": {
+        "url": "https://x.com/konstantinsaifo/status/2096122429319852319",
+        "publishedAt": "2026-09-05T06:25:05.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096122429319852319"
+      },
+      "media": {
+        "image": "assets/previews/88e94868f034bdf39f97.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096251574918013135",
+      "model": "gpt-6-astra",
+      "title": "Kaiju city battle",
+      "description": "Build a kaiju-inspired Three.js game using generated creature models and sound effects. Create readable giant-scale combat and an environment that communicates the size of the creatures.",
+      "prompt": "Build a kaiju-inspired Three.js game using generated creature models and sound effects. Create readable giant-scale combat and an environment that communicates the size of the creatures.",
+      "author": {
+        "name": "Majid Manzarpour",
+        "url": "https://x.com/majidmanzarpour"
+      },
+      "source": {
+        "url": "https://x.com/majidmanzarpour/status/2096251574918013135",
+        "publishedAt": "2026-09-05T14:58:16.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096251574918013135"
+      },
+      "media": {
+        "image": "assets/previews/8f55d646820e4f1f0b98.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096220264413409648",
+      "model": "gpt-6-astra",
+      "title": "A storm trapped in a cube",
+      "description": "Generate a storm trapped in a cube with weather you can control in Three.js.",
+      "prompt": "Generate a storm trapped in a cube with weather you can control in Three.js.",
+      "author": {
+        "name": "zcw",
+        "url": "https://x.com/zwb44"
+      },
+      "source": {
+        "url": "https://x.com/zwb44/status/2096220264413409648",
+        "publishedAt": "2026-09-05T12:53:51.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096220264413409648"
+      },
+      "media": {
+        "image": "assets/previews/631562c3a38f51debed3.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096047660662722620",
+      "model": "gpt-6-astra",
+      "title": "Zork as a 3D action adventure",
+      "description": "Turn the classic text adventure Zork into a 3D action-adventure game. Preserve its plot and puzzles, add fight scenes, and build the characters and environments in Three.js.",
+      "prompt": "Turn the classic text adventure Zork into a 3D action-adventure game. Preserve its plot and puzzles, add fight scenes, and build the characters and environments in Three.js.",
+      "author": {
+        "name": "Ethan Mollick",
+        "url": "https://x.com/emollick"
+      },
+      "source": {
+        "url": "https://x.com/emollick/status/2096047660662722620",
+        "publishedAt": "2026-09-05T01:27:59.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096047660662722620"
+      },
+      "media": {
+        "image": "assets/previews/88fedcd618dd733a21f5.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096133339329536249",
+      "model": "gpt-6-astra",
+      "title": "Rigged and animated T. rex",
+      "description": "Take a generated T. rex model, rig it and create believable movement. Render the character in Three.js and verify that the animation deforms the model coherently.",
+      "prompt": "Take a generated T. rex model, rig it and create believable movement. Render the character in Three.js and verify that the animation deforms the model coherently.",
+      "author": {
+        "name": "Majid Manzarpour",
+        "url": "https://x.com/majidmanzarpour"
+      },
+      "source": {
+        "url": "https://x.com/majidmanzarpour/status/2096133339329536249",
+        "publishedAt": "2026-09-05T07:08:27.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096133339329536249"
+      },
+      "media": {
+        "image": "assets/previews/6bf58344b93f183cd255.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096174858837074198",
+      "model": "gpt-6-astra",
+      "title": "Marine life in a coffee cup",
+      "description": "Create a miniature marine ecosystem inside a cup of coffee in Three.js. Use a directed camera to reveal the aquatic life while keeping the cup and small-scale setting readable.",
+      "prompt": "Create a miniature marine ecosystem inside a cup of coffee in Three.js. Use a directed camera to reveal the aquatic life while keeping the cup and small-scale setting readable.",
+      "author": {
+        "name": "Sagi Polaczek 🦜",
+        "url": "https://x.com/PolaczekSagi"
+      },
+      "source": {
+        "url": "https://x.com/PolaczekSagi/status/2096174858837074198",
+        "publishedAt": "2026-09-05T09:53:26.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096174858837074198"
+      },
+      "media": {
+        "image": "assets/previews/3990cf9279eb906cfc93.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096250748099068377",
+      "model": "gpt-6-astra",
+      "title": "Interactive Hyperloop demo",
+      "description": "Build an interactive Three.js Hyperloop demonstration showing a transport pod, tube infrastructure and motion through the system.",
+      "prompt": "Build an interactive Three.js Hyperloop demonstration showing a transport pod, tube infrastructure and motion through the system.",
+      "author": {
+        "name": "Amir",
+        "url": "https://x.com/hbanay98"
+      },
+      "source": {
+        "url": "https://x.com/hbanay98/status/2096250748099068377",
+        "publishedAt": "2026-09-05T14:54:59.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096250748099068377"
+      },
+      "media": {
+        "image": "assets/previews/6fe7e10c4907c28861e5.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096234355395903672",
+      "model": "gpt-6-astra",
+      "title": "Procedural Napoleon bust",
+      "description": "Code a 3D bust of Napoleon in Three.js. Build it in stages, inspect it from different angles and refine facial proportions and clothing details.",
+      "prompt": "Code a 3D bust of Napoleon in Three.js. Build it in stages, inspect it from different angles and refine facial proportions and clothing details.",
+      "author": {
+        "name": "Le PLOUTOS",
+        "url": "https://x.com/leploutos"
+      },
+      "source": {
+        "url": "https://x.com/leploutos/status/2096234355395903672",
+        "publishedAt": "2026-09-05T13:49:51.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096234355395903672"
+      },
+      "media": {
+        "image": "assets/previews/fda483263b1b7468f091.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096226711222546461",
+      "model": "gpt-6-astra",
+      "title": "Railway station concourse",
+      "description": "Create a railway concourse with a strong architectural rhythm, believable scale and convincing materials. Produce an inspectable 3D scene with carefully framed station views.",
+      "prompt": "Create a railway concourse with a strong architectural rhythm, believable scale and convincing materials. Produce an inspectable 3D scene with carefully framed station views.",
+      "author": {
+        "name": "Wormhole404",
+        "url": "https://x.com/0xWormhole404"
+      },
+      "source": {
+        "url": "https://x.com/0xWormhole404/status/2096226711222546461",
+        "publishedAt": "2026-09-05T13:19:28.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096226711222546461"
+      },
+      "media": {
+        "image": "assets/previews/ec572c18e5e02ac65512.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096222790894661841",
+      "model": "gpt-6-astra",
+      "title": "Animated onboarding diorama",
+      "description": "Build a small onboarding diorama in Blender and bring it to life in Three.js. Use clear focal objects and short animation sequences to explain the first user actions.",
+      "prompt": "Build a small onboarding diorama in Blender and bring it to life in Three.js. Use clear focal objects and short animation sequences to explain the first user actions.",
+      "author": {
+        "name": "Emil",
+        "url": "https://x.com/EmilHovv"
+      },
+      "source": {
+        "url": "https://x.com/EmilHovv/status/2096222790894661841",
+        "publishedAt": "2026-09-05T13:03:53.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096222790894661841"
+      },
+      "media": {
+        "image": "assets/previews/42b972bdf19630b039a0.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096206082712768897",
+      "model": "gpt-6-astra",
+      "title": "OX Vice Drive open-city racer",
+      "description": "Build an open-city browser driving game with traffic, drifting and delivery races. Design a coastal city that is enjoyable to navigate and supports a complete driving loop.",
+      "prompt": "Build an open-city browser driving game with traffic, drifting and delivery races. Design a coastal city that is enjoyable to navigate and supports a complete driving loop.",
+      "author": {
+        "name": "DomX",
+        "url": "https://x.com/qok_ai"
+      },
+      "source": {
+        "url": "https://x.com/qok_ai/status/2096206082712768897",
+        "publishedAt": "2026-09-05T11:57:30.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096206082712768897"
+      },
+      "media": {
+        "image": "assets/previews/3b47ced29ac0872998ae.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096111709496680842",
+      "model": "gpt-6-astra",
+      "title": "Playable remake of a mobile game ad",
+      "description": "Use a mobile game advertisement as reference to build a playable browser game. Recreate its central interaction and use Blender assets to match the visual premise.",
+      "prompt": "Use a mobile game advertisement as reference to build a playable browser game. Recreate its central interaction and use Blender assets to match the visual premise.",
+      "author": {
+        "name": "daniel",
+        "url": "https://x.com/buildingadlicio"
+      },
+      "source": {
+        "url": "https://x.com/buildingadlicio/status/2096111709496680842",
+        "publishedAt": "2026-09-05T05:42:30.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096111709496680842"
+      },
+      "media": {
+        "image": "assets/previews/4d8530d89c735d14003f.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095999578419929412",
+      "model": "gpt-6-astra",
+      "title": "Anime arena fighter in Roblox",
+      "description": "Create a Roblox arena fighter inspired by anime crossover battles. Build the arena and characters with Blender and available assets, then implement a playable combat loop.",
+      "prompt": "Create a Roblox arena fighter inspired by anime crossover battles. Build the arena and characters with Blender and available assets, then implement a playable combat loop.",
+      "author": {
+        "name": "hiraeth",
+        "url": "https://x.com/WoahWurdz"
+      },
+      "source": {
+        "url": "https://x.com/WoahWurdz/status/2095999578419929412",
+        "publishedAt": "2026-09-04T22:16:55.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "Roblox"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095999578419929412"
+      },
+      "media": {
+        "image": "assets/previews/da567da60113f6fde024.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096258619574513880",
+      "model": "gpt-6-astra",
+      "title": "Browser racing physics in C# and WASM",
+      "description": "Recreate a Trackmania-style racing physics system in C#, run it through WASM and render the course in Three.js. Use collidable track meshes and test vehicle handling.",
+      "prompt": "Recreate a Trackmania-style racing physics system in C#, run it through WASM and render the course in Three.js. Use collidable track meshes and test vehicle handling.",
+      "author": {
+        "name": "achepta",
+        "url": "https://x.com/achepta_tm"
+      },
+      "source": {
+        "url": "https://x.com/achepta_tm/status/2096258619574513880",
+        "publishedAt": "2026-09-05T15:26:16.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096258619574513880"
+      },
+      "media": {
+        "image": "assets/previews/da595232495fdcdcd646.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096141728487178503",
+      "model": "gpt-6-astra",
+      "title": "Automatic character rig and kung fu moves",
+      "description": "Take the supplied 3D character, create a rig and add walking, running and several kung fu moves. Inspect the animations for broken joints and unstable poses.",
+      "prompt": "Take the supplied 3D character, create a rig and add walking, running and several kung fu moves. Inspect the animations for broken joints and unstable poses.",
+      "author": {
+        "name": "The Bugged Dev",
+        "url": "https://x.com/thebuggeddev"
+      },
+      "source": {
+        "url": "https://x.com/thebuggeddev/status/2096141728487178503",
+        "publishedAt": "2026-09-05T07:41:47.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096141728487178503"
+      },
+      "media": {
+        "image": "assets/previews/b667cbe461565dc1ef4c.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096107343268257953",
+      "model": "gpt-6-astra",
+      "title": "Artwork to a playable character",
+      "description": "Recreate a Noctavia character artwork as a playable 3D character. Preserve the design language and build a complete model suitable for interactive presentation.",
+      "prompt": "Recreate a Noctavia character artwork as a playable 3D character. Preserve the design language and build a complete model suitable for interactive presentation.",
+      "author": {
+        "name": "NOCTAVIA™",
+        "url": "https://x.com/noctav1a"
+      },
+      "source": {
+        "url": "https://x.com/noctav1a/status/2096107343268257953",
+        "publishedAt": "2026-09-05T05:25:09.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096107343268257953"
+      },
+      "media": {
+        "image": "assets/previews/bb636fabd44b05a7797b.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096023793772998704",
+      "model": "gpt-6-astra",
+      "title": "Personal 3D portfolio with a speaking globe",
+      "description": "Turn a portrait into a Blender character inside an editorial WebGL portfolio. Add a revolving globe that maps speaking events and integrate the assets into the website.",
+      "prompt": "Turn a portrait into a Blender character inside an editorial WebGL portfolio. Add a revolving globe that maps speaking events and integrate the assets into the website.",
+      "author": {
+        "name": "Shivay Lamba",
+        "url": "https://x.com/HowDevelop"
+      },
+      "source": {
+        "url": "https://x.com/HowDevelop/status/2096023793772998704",
+        "publishedAt": "2026-09-04T23:53:09.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender",
+        "WebGL"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096023793772998704"
+      },
+      "media": {
+        "image": "assets/previews/8ed97e5172601ffcf208.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096056285896536086",
+      "model": "gpt-6-astra",
+      "title": "Sonic-inspired Godot vertical slice",
+      "description": "Build a polished Sonic-inspired 3D level in Godot using local and procedural assets. Prioritize momentum, responsive traversal, rings, loops, grind rails and a continuous tropical coast.",
+      "prompt": "Build a polished Sonic-inspired 3D level in Godot using local and procedural assets. Prioritize momentum, responsive traversal, rings, loops, grind rails and a continuous tropical coast.",
+      "author": {
+        "name": "AiBattle",
+        "url": "https://x.com/AiBattle_"
+      },
+      "source": {
+        "url": "https://x.com/AiBattle_/status/2096056285896536086",
+        "publishedAt": "2026-09-05T02:02:16.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Godot"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096056285896536086"
+      },
+      "media": {
+        "image": "assets/previews/4b1d7461ea62bbcb07bb.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096140378777010278",
+      "model": "gpt-6-astra",
+      "title": "Viking character in Blender",
+      "description": "Create an editable 3D Viking character in Blender. Focus on recognizable costume, facial structure, body proportions and a readable presentation pose.",
+      "prompt": "Create an editable 3D Viking character in Blender. Focus on recognizable costume, facial structure, body proportions and a readable presentation pose.",
+      "author": {
+        "name": "Emil",
+        "url": "https://x.com/fre4kspace"
+      },
+      "source": {
+        "url": "https://x.com/fre4kspace/status/2096140378777010278",
+        "publishedAt": "2026-09-05T07:36:25.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096140378777010278"
+      },
+      "media": {
+        "image": "assets/previews/47571b98331669c487a6.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096155883122413946",
+      "model": "gpt-6-astra",
+      "title": "Dropzone battle royale arena",
+      "description": "Build a third-person browser battle royale with a storm circle, nine AI enemies, a pulse rifle, health and reloading. Include placeable cover walls and a complete elimination loop.",
+      "prompt": "Build a third-person browser battle royale with a storm circle, nine AI enemies, a pulse rifle, health and reloading. Include placeable cover walls and a complete elimination loop.",
+      "author": {
+        "name": "MotionViz",
+        "url": "https://x.com/Motion_Viz"
+      },
+      "source": {
+        "url": "https://x.com/Motion_Viz/status/2096155883122413946",
+        "publishedAt": "2026-09-05T08:38:01.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096155883122413946"
+      },
+      "media": {
+        "image": "assets/previews/37245ebc377553686009.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096096998092841449",
+      "model": "gpt-6-astra",
+      "title": "Suzhou Museum garden walkthrough",
+      "description": "Use a webpage about the Suzhou Museum as reference to recreate its garden in Blender. Produce a continuous walkthrough that preserves the relationship between modern architecture and traditional Chinese landscaping.",
+      "prompt": "Use a webpage about the Suzhou Museum as reference to recreate its garden in Blender. Produce a continuous walkthrough that preserves the relationship between modern architecture and traditional Chinese landscaping.",
+      "author": {
+        "name": "amber shen",
+        "url": "https://x.com/whosamberella"
+      },
+      "source": {
+        "url": "https://x.com/whosamberella/status/2096096998092841449",
+        "publishedAt": "2026-09-05T04:44:02.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096096998092841449"
+      },
+      "media": {
+        "image": "assets/previews/5dd1b274746b07e46ff0.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2095986941753712841",
+      "model": "gpt-6-astra",
+      "title": "Interactive Titan science exhibit",
+      "description": "Build an educational 3D simulation of Titan, Saturn’s largest moon, with an explorable environment and an information layer explaining its distinctive physical features.",
+      "prompt": "Build an educational 3D simulation of Titan, Saturn’s largest moon, with an explorable environment and an information layer explaining its distinctive physical features.",
+      "author": {
+        "name": "Arda Tuğsat",
+        "url": "https://x.com/ArdaTugsat"
+      },
+      "source": {
+        "url": "https://x.com/ArdaTugsat/status/2095986941753712841",
+        "publishedAt": "2026-09-04T21:26:43.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095986941753712841"
+      },
+      "media": {
+        "image": "assets/previews/01903613570d42ab83a5.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096040448477515874",
+      "model": "gpt-6-astra",
+      "title": "Evolving WebGL ecosystem",
+      "description": "Build a 3D evolving ecosystem in one HTML file using raw WebGL and GLSL. Let mutation, natural selection, predation, energy use and multicellular bonding interact.",
+      "prompt": "Build a 3D evolving ecosystem in one HTML file using raw WebGL and GLSL. Let mutation, natural selection, predation, energy use and multicellular bonding interact.",
+      "author": {
+        "name": "Yume_X",
+        "url": "https://x.com/yume_arasaki"
+      },
+      "source": {
+        "url": "https://x.com/yume_arasaki/status/2096040448477515874",
+        "publishedAt": "2026-09-05T00:59:20.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "WebGL"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096040448477515874"
+      },
+      "media": {
+        "image": "assets/previews/417256d668a87f961903.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096042360513904742",
+      "model": "gpt-6-astra",
+      "title": "Delivery network with bridge closures",
+      "description": "Build a 3D delivery simulation where closing bridges changes truck routes. Detect unreachable destinations and restore deliveries when a route reopens.",
+      "prompt": "Build a 3D delivery simulation where closing bridges changes truck routes. Detect unreachable destinations and restore deliveries when a route reopens.",
+      "author": {
+        "name": "AgentworkflowLab",
+        "url": "https://x.com/AgentWorkflowLa"
+      },
+      "source": {
+        "url": "https://x.com/AgentWorkflowLa/status/2096042360513904742",
+        "publishedAt": "2026-09-05T01:06:55.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096042360513904742"
+      },
+      "media": {
+        "image": "assets/previews/1f3a527d5461971e3394.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096062355692048605",
+      "model": "gpt-6-astra",
+      "title": "Sinclair ZX Spectrum simulator",
+      "description": "Recreate a Sinclair ZX Spectrum 48K as an interactive 3D desktop app. Include its rubber keyboard, tape player, startup screen, a playable game and a BASIC programming interface.",
+      "prompt": "Recreate a Sinclair ZX Spectrum 48K as an interactive 3D desktop app. Include its rubber keyboard, tape player, startup screen, a playable game and a BASIC programming interface.",
+      "author": {
+        "name": "Derya Unutmaz, MD",
+        "url": "https://x.com/DeryaTR_"
+      },
+      "source": {
+        "url": "https://x.com/DeryaTR_/status/2096062355692048605",
+        "publishedAt": "2026-09-05T02:26:23.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096062355692048605"
+      },
+      "media": {
+        "image": "assets/previews/8342e2a2ae6ab568fa2f.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096092080397246707",
+      "model": "gpt-6-astra",
+      "title": "Photogrammetry scan to editable living room",
+      "description": "Rebuild a living room in Blender from a photogrammetry scan. Model the scene from scratch, source textures from the scan and use procedural shaders where appropriate.",
+      "prompt": "Rebuild a living room in Blender from a photogrammetry scan. Model the scene from scratch, source textures from the scan and use procedural shaders where appropriate.",
+      "author": {
+        "name": "Bilawal Sidhu",
+        "url": "https://x.com/bilawalsidhu"
+      },
+      "source": {
+        "url": "https://x.com/bilawalsidhu/status/2096092080397246707",
+        "publishedAt": "2026-09-05T04:24:30.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096092080397246707"
+      },
+      "media": {
+        "image": "assets/previews/d7643b0568a783c1fabd.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096135808243876152",
+      "model": "gpt-6-astra",
+      "title": "Odyssey-inspired platform adventure",
+      "description": "Build an Odyssey-inspired Three.js level with eight platforms, three collectible moons, returning cap attacks, enemies and checkpoints. Add touch controls and test a complete playthrough.",
+      "prompt": "Build an Odyssey-inspired Three.js level with eight platforms, three collectible moons, returning cap attacks, enemies and checkpoints. Add touch controls and test a complete playthrough.",
+      "author": {
+        "name": "AIHubmix",
+        "url": "https://x.com/AiHubMix"
+      },
+      "source": {
+        "url": "https://x.com/AiHubMix/status/2096135808243876152",
+        "publishedAt": "2026-09-05T07:18:15.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096135808243876152"
+      },
+      "media": {
+        "image": "assets/previews/f8e883bece1bb1220b1f.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096221988763173186",
+      "model": "gpt-6-astra",
+      "title": "Exploded interactive human anatomy",
+      "description": "Build a 3D anatomy website where the human body separates into individually inspectable structures. Make the exploded view navigable and organize the parts into meaningful systems.",
+      "prompt": "Build a 3D anatomy website where the human body separates into individually inspectable structures. Make the exploded view navigable and organize the parts into meaningful systems.",
+      "author": {
+        "name": "ashe",
+        "url": "https://x.com/ashebytes"
+      },
+      "source": {
+        "url": "https://x.com/ashebytes/status/2096221988763173186",
+        "publishedAt": "2026-09-05T13:00:42.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096221988763173186"
+      },
+      "media": {
+        "image": "assets/previews/73fbb8ce4494edce62d6.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096009146248122416",
+      "model": "gpt-6-astra",
+      "title": "Tesla Model X exploded view",
+      "description": "Create a 3D website that pulls a Tesla Model X apart into modeled components. Let visitors inspect the assemblies and reassemble the vehicle interactively.",
+      "prompt": "Create a 3D website that pulls a Tesla Model X apart into modeled components. Let visitors inspect the assemblies and reassemble the vehicle interactively.",
+      "author": {
+        "name": "ashe",
+        "url": "https://x.com/ashebytes"
+      },
+      "source": {
+        "url": "https://x.com/ashebytes/status/2096009146248122416",
+        "publishedAt": "2026-09-04T22:54:57.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096009146248122416"
+      },
+      "media": {
+        "image": "assets/previews/59bc5339c02dceeee7e0.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096241295949975602",
+      "model": "gpt-6-astra",
+      "title": "Memory capsule machine",
+      "description": "Build a 3D memory capsule machine. Turn a knob to release a memory, model the mechanism in Blender and give the falling capsules believable motion and sound.",
+      "prompt": "Build a 3D memory capsule machine. Turn a knob to release a memory, model the mechanism in Blender and give the falling capsules believable motion and sound.",
+      "author": {
+        "name": "Gloria Zhang",
+        "url": "https://x.com/gloria_zwq"
+      },
+      "source": {
+        "url": "https://x.com/gloria_zwq/status/2096241295949975602",
+        "publishedAt": "2026-09-05T14:17:25.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096241295949975602"
+      },
+      "media": {
+        "image": "assets/previews/2623ee6ae5ad1e80ed6a.webp"
+      }
+    },
+    {
+      "id": "gpt-6-astra-2096125193580113957",
+      "model": "gpt-6-astra",
+      "title": "Formula One car in Blender",
+      "description": "Create a 3D Formula One model in Blender with computer use.",
+      "prompt": "Create a 3D Formula One model in Blender with computer use.",
+      "author": {
+        "name": "Conor Dart",
+        "url": "https://x.com/Conor_D_Dart"
+      },
+      "source": {
+        "url": "https://x.com/Conor_D_Dart/status/2096125193580113957",
+        "publishedAt": "2026-09-05T06:36:04.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096125193580113957"
+      },
+      "media": {
+        "image": "assets/previews/7b1991638d1cf62afb53.webp"
+      }
+    }
+  ]
+}
