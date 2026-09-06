@@ -7,8 +7,8 @@
     {
       "url": "https://github.com/alesha-pro/bench-portal",
       "promptIds": [
-        "gpt-6-astra-2095988972879335792",
-        "gpt-6-astra-2095967568825582044"
+        "2095988972879335792",
+        "2095967568825582044"
       ],
       "sourceUrls": [
         "https://x.com/superalesha/status/2095988972879335792",
@@ -21,7 +21,7 @@
     {
       "url": "https://github.com/emollick/abyssal-living-deep",
       "promptIds": [
-        "gpt-6-astra-2095673885605630429"
+        "2095673885605630429"
       ],
       "sourceUrls": [
         "https://x.com/emollick/status/2095673885605630429"
@@ -33,7 +33,7 @@
     {
       "url": "https://github.com/petergpt/gogh-strike",
       "promptIds": [
-        "gpt-6-astra-2096013280519016608"
+        "2096013280519016608"
       ],
       "sourceUrls": [
         "https://x.com/petergostev/status/2096013280519016608"

@@ -19,9 +19,10 @@
     "mediaReference": { "type": "string", "minLength": 1, "pattern": "^(https://|(?:\\./)?(?:assets|media)/)" },
     "prompt": {
       "type": "object", "additionalProperties": false,
-      "required": ["id", "model", "title", "description", "prompt", "author", "source", "evidence", "tags", "links", "media"],
+      "required": ["id", "slug", "model", "title", "description", "prompt", "author", "source", "evidence", "tags", "links", "media"],
       "properties": {
-        "id": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+        "id": { "type": "string", "pattern": "^[1-9][0-9]{9,24}$" },
+        "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*-[1-9][0-9]{9,24}$" },
         "model": { "const": "gpt-6-astra" },
         "title": { "$ref": "#/$defs/text" }, "description": { "$ref": "#/$defs/text" }, "prompt": { "$ref": "#/$defs/text" },
         "author": { "type": "object", "additionalProperties": false, "required": ["name", "url"], "properties": { "name": { "$ref": "#/$defs/text" }, "url": { "$ref": "#/$defs/url" } } },

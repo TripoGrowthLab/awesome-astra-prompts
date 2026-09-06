@@ -61,13 +61,25 @@ function publicUrl(value, field) {
   return value;
 }
 const ids = new Set();
+// Reuse verified vendored previews by source URL, not the changeable editorial slug.
+let assetManifest;
+try { assetManifest = JSON.parse(await readFile(join(root, 'assets/manifest.json'), 'utf8')); }
+catch (error) { if (error.code !== 'ENOENT') throw error; }
+const localImages = new Map((assetManifest?.files ?? []).map(file => [file.sourceUrl, file]));
+for (const file of localImages.values()) {
+  if (!/^assets\/previews\/[a-z0-9.-]+$/.test(file.path)) throw new Error('Invalid vendored preview path');
+  const bytes = await readFile(join(root, file.path));
+  if (createHash('sha256').update(bytes).digest('hex') !== file.sha256) throw new Error(`Preview checksum mismatch: ${file.path}`);
+}
 const prompts = selected.map(entry => {
-  if (ids.has(entry.slug)) throw new Error(`Duplicate prompt ID: ${entry.slug}`);
-  ids.add(entry.slug);
+  if (!/^[1-9]\d{9,24}$/.test(entry.id) || !entry.sourceUrl.endsWith(`/status/${entry.id}`)) throw new Error('Invalid tweet ID');
+  if (ids.has(entry.id)) throw new Error(`Duplicate prompt ID: ${entry.id}`);
+  ids.add(entry.id);
   if (!['source-derived', 'verbatim'].includes(entry.evidence?.kind)) throw new Error(`Missing evidence classification: ${entry.slug}`);
   if (!entry.video?.poster) throw new Error(`Missing image: ${entry.slug}`);
   const record = {
-    id: entry.slug,
+    id: entry.id,
+    slug: entry.slug,
     model: MODEL,
     title: entry.title.en,
     description: entry.description.en,
@@ -81,7 +93,7 @@ const prompts = selected.map(entry => {
       ...(entry.links?.repository ? { repository: publicUrl(entry.links.repository, 'repository') } : {}),
       ...(entry.links?.liveDemo ? { demo: publicUrl(entry.links.liveDemo, 'demo') } : {}),
     },
-    media: { image: publicUrl(entry.video.poster, 'image'), ...(entry.video.url ? { video: publicUrl(entry.video.url, 'video') } : {}) },
+    media: { image: localImages.get(entry.video.poster)?.path ?? publicUrl(entry.video.poster, 'image'), ...(entry.video.url ? { video: publicUrl(entry.video.url, 'video') } : {}) },
     ...(entry.originalPrompt ? { originalPrompt: entry.originalPrompt } : {}),
     ...(entry.sourceExcerpt ? { sourceExcerpt: true } : {}),
   };
@@ -102,7 +114,7 @@ for (const locale of locales) {
       prompt: localized(entry.prompt, locale),
       evidenceNote: localized(entry.evidence.note, locale),
       tags: entry.tags.map(tag => localized(tag, locale)),
-      pageUrl: `${ORIGIN}${locale === 'en' ? '' : `/${locale}`}/3d-prompts/${entry.id}`,
+      pageUrl: `${ORIGIN}${locale === 'en' ? '' : `/${locale}`}/3d-prompts/${entry.slug}`,
     }])),
   });
 }
@@ -123,6 +135,13 @@ addJson('data/repositories.json', {
   repositories: [...repositories.values()].sort((a, b) => a.url.localeCompare(b.url)),
 });
 const published = prompts.map(entry => entry.source.publishedAt).sort();
+if (assetManifest) {
+  assetManifest.files = assetManifest.files.map(file => ({
+    ...file,
+    promptIds: prompts.filter(prompt => prompt.media.image === file.path).map(prompt => prompt.id),
+  })).filter(file => file.promptIds.length);
+  addJson('assets/manifest.json', assetManifest);
+}
 addJson('data/manifest.json', {
   schemaVersion: 1, snapshotDate, source: { name: 'Tripo 3D Prompts', url: homepage },
   model: MODEL, count: prompts.length, locales,

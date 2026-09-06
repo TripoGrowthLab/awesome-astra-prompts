@@ -55,7 +55,9 @@ const ids = data.prompts.map(prompt => prompt.id)
 assert.equal(new Set(ids).size, ids.length, 'Duplicate IDs')
 assert.equal(new Set(data.prompts.map(prompt => new URL(prompt.source.url).pathname.split('/status/')[1])).size, ids.length, 'Duplicate source posts')
 for (const prompt of data.prompts) {
-  assert.equal(prompt.links.tripo, `https://www.tripo3d.ai/3d-prompts/${prompt.id}`)
+  assert(prompt.source.url.endsWith(`/status/${prompt.id}`), 'ID must be the exact tweet ID string')
+  assert(prompt.slug.endsWith(`-${prompt.id}`), 'Canonical slug must end with the tweet ID')
+  assert.equal(prompt.links.tripo, `https://www.tripo3d.ai/3d-prompts/${prompt.slug}`)
   assert(prompt.media.image.startsWith('assets/previews/'), `Preview must be repository-local: ${prompt.id}`)
   if (prompt.links.repository) assert.equal(new URL(prompt.links.repository).hostname, 'github.com')
 }
@@ -68,7 +70,7 @@ for (const locale of data.locales) {
     const entry = catalog.prompts[prompt.id]
     validate(entry, schema.$defs.localizedPrompt, `${locale}.${prompt.id}`)
     assert.equal(entry.tags.length, prompt.tags.length)
-    assert.equal(entry.pageUrl, `https://www.tripo3d.ai${locale === 'en' ? '' : `/${locale}`}/3d-prompts/${prompt.id}`)
+    assert.equal(entry.pageUrl, `https://www.tripo3d.ai${locale === 'en' ? '' : `/${locale}`}/3d-prompts/${prompt.slug}`)
     if (locale === 'en') for (const key of ['title', 'description', 'prompt']) assert.equal(entry[key], prompt[key])
     else assert.notEqual(entry.prompt, prompt.prompt, `${locale}.${prompt.id}: untranslated body`)
   }
@@ -119,7 +121,7 @@ for (const path of allFiles.filter(path => /\.(md|json|mjs|yml)$/.test(path))) {
     const absolute = resolve(dirname(path), file)
     assert(!relative(root, absolute).startsWith('..'), `Link escapes repository: ${path} ${target}`)
     await stat(absolute)
-    if (anchor?.startsWith('gpt-6-astra-')) assert((await readFile(absolute, 'utf8')).includes(`id="${anchor}"`), `Missing anchor ${path} ${target}`)
+    if (anchor && /^[1-9][0-9]{9,24}$/.test(anchor)) assert((await readFile(absolute, 'utf8')).includes(`id="${anchor}"`), `Missing anchor ${path} ${target}`)
     linkCount++
   }
 }

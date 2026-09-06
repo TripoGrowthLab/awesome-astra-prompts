@@ -43,7 +43,7 @@ for (const locale of dataset.locales) {
   for (const prompt of sorted) {
     const entry = localized.prompts[prompt.id]
     const kind = prompt.evidence.kind === 'verbatim' ? published : derived
-    lines.push(`<a id="${prompt.id}"></a>`, '', `## ${md(entry.title)}`, '', `[${md(prompt.author.name)}](${prompt.author.url}) · ${prompt.source.publishedAt.slice(0, 10)} · **${kind}**`, '', md(entry.description), '', `<details>`, `<summary>${preview}</summary>`, '', `![${md(entry.title)}](../${prompt.media.image})`, '', '</details>', '', entry.evidenceNote, '', '```text', entry.prompt.replaceAll('```', '`\u200b``'), '```', '', [ `[${source}](${prompt.source.url})`, ...(prompt.links.repository ? [`[${code}](${prompt.links.repository})`] : []), ...(prompt.links.demo ? [`[${demo}](${prompt.links.demo})`] : []) ].join(' · '), '', '---', '')
+    lines.push(`<a id="${prompt.id}"></a>`, '', `## ${md(entry.title)}`, '', `[${md(prompt.author.name)}](${prompt.author.url}) · ${prompt.source.publishedAt.slice(0, 10)} · **${kind}**`, '', md(entry.description), '', `<details>`, `<summary>${preview}</summary>`, '', `![${md(entry.title)}](../${prompt.media.image})`, '', '</details>', '', entry.evidenceNote, '', '```text', entry.prompt.replaceAll('```', '`\u200b``'), '```', '', [ `[Tripo ↗](${entry.pageUrl})`, `[${source}](${prompt.source.url})`, ...(prompt.links.repository ? [`[${code}](${prompt.links.repository})`] : []), ...(prompt.links.demo ? [`[${demo}](${prompt.links.demo})`] : []) ].join(' · '), '', '---', '')
   }
   await write(`docs/catalog.${locale}.md`, lines.join('\n'))
 }
@@ -77,7 +77,7 @@ for (const locale of ['en', 'zh']) {
   for (const prompt of sorted) {
     const entry = localizations[locale].prompts[prompt.id]
     const kind = labels[locale][prompt.evidence.kind === 'verbatim' ? 3 : 2]
-    all.push(`<a id="${prompt.id}"></a>`, '', `### ${md(entry.title)}`, '', `[${md(prompt.author.name)}](${prompt.author.url}) · ${prompt.source.publishedAt.slice(0, 10)} · **${kind}**`, '', `<img src="${prompt.media.image}" width="840" loading="lazy" alt="${text(entry.title)}">`, '', md(entry.description), '', `> ${entry.evidenceNote}`, '', `**${locale === 'en' ? 'Prompt' : '提示词'}**`, '', '```text', entry.prompt.replaceAll('```', '`\u200b``'), '```', '', [`[${labels[locale][4]}](${prompt.source.url})`, ...(prompt.links.repository ? [`[${labels[locale][5]}](${prompt.links.repository})`] : []), ...(prompt.links.demo ? [`[${labels[locale][6]}](${prompt.links.demo})`] : []), `[${locale === 'en' ? 'Back to all prompts' : '返回提示词导航'}](#all-prompts)`].join(' · '), '', '---', '')
+    all.push(`<a id="${prompt.id}"></a>`, '', `### ${md(entry.title)}`, '', `[${md(prompt.author.name)}](${prompt.author.url}) · ${prompt.source.publishedAt.slice(0, 10)} · **${kind}**`, '', `<img src="${prompt.media.image}" width="840" loading="lazy" alt="${text(entry.title)}">`, '', md(entry.description), '', `> ${entry.evidenceNote}`, '', `**${locale === 'en' ? 'Prompt' : '提示词'}**`, '', '```text', entry.prompt.replaceAll('```', '`\u200b``'), '```', '', [`[Tripo ↗](${entry.pageUrl})`, `[${labels[locale][4]}](${prompt.source.url})`, ...(prompt.links.repository ? [`[${labels[locale][5]}](${prompt.links.repository})`] : []), ...(prompt.links.demo ? [`[${labels[locale][6]}](${prompt.links.demo})`] : []), `[${locale === 'en' ? 'Back to all prompts' : '返回提示词导航'}](#all-prompts)`].join(' · '), '', '---', '')
   }
   update('all-prompts', all.join('\n'))
   contents = contents.replaceAll(`docs/catalog.${locale}.md#`, '#')

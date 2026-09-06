@@ -43,83 +43,88 @@
   "files": [
     {
       "path": "data/prompts.json",
-      "sha256": "3d050575961afbfbff22676a58ab9e07e3e88db3790566f3afa9b3216a20890f",
-      "bytes": 126917
+      "sha256": "58f8f67ae2b94560142add079d5989cc16650abf13ad4d9672f6c1e61ee51880",
+      "bytes": 135020
     },
     {
       "path": "data/locales/en.json",
-      "sha256": "aeb711bf8c345c518b4a08b7e1738d4176347e9d9f3e434d5692b0d07ba0b5e7",
-      "bytes": 76271
+      "sha256": "e18e0d8e348984d21d23458d0adbc15153ee5a0f3840ab1ed4e52bb58bb3dbea",
+      "bytes": 77181
     },
     {
       "path": "data/locales/zh.json",
-      "sha256": "5fdc09180e520efd3c3d7040acd255225ca0a2758d6ac8e0d3d391a393cde21f",
-      "bytes": 69705
+      "sha256": "1037420488aada5816607c26431f447a591d596070f30145791a82eb435ced89",
+      "bytes": 70615
     },
     {
       "path": "data/locales/es.json",
-      "sha256": "41c22b49f8ed01c55f88cbc990cdc439af07eb4d871089c52969d84db8a66000",
-      "bytes": 87995
+      "sha256": "db4e39038daba42cbb171a8018ce58b79ab2189785a23a938e65f8b2b17c66d0",
+      "bytes": 88905
     },
     {
       "path": "data/locales/ko.json",
-      "sha256": "25cc3b3de19cc521b23f736f8f53e5e145bea5699dcb9835966f5d8f655b8576",
-      "bytes": 90588
+      "sha256": "b8b17693599895f280ad2ffc084dc4c0a2a2c501cb69c1375917687a5e32d55c",
+      "bytes": 91498
     },
     {
       "path": "data/locales/ru.json",
-      "sha256": "d029fde1ac4695532312697b4035a50c22398c15a81f752e555cbe309c1e230f",
-      "bytes": 120271
+      "sha256": "91b1b48851953b107cb09c35a630a86a12a3467115854de212f5241d47566117",
+      "bytes": 121181
     },
     {
       "path": "data/locales/pt.json",
-      "sha256": "a89435d47a001b2cb39dd98156a70c3bc7d77eba3e93123e013444717acb0ed3",
-      "bytes": 85526
+      "sha256": "47ae1a6fbd369692fae3f61b4b75b0f8a6066cda802fd870fc616c3adeee1adb",
+      "bytes": 86436
     },
     {
       "path": "data/locales/ja.json",
-      "sha256": "aac266c7e88542411127ba733f86cbe23e7c5a377785314f14f107c3505481a7",
-      "bytes": 95042
+      "sha256": "4101a4cca28fffc0b0f15fc9982e1cada5bd498c7c28d93acfd2e3d37f09cf3d",
+      "bytes": 95952
     },
     {
       "path": "data/locales/tr.json",
-      "sha256": "cfdbcee9aef6e8b57fad292fa58dd5ab5ffde5d63f53be97799d6c78e4ee2cfe",
-      "bytes": 83449
+      "sha256": "fdb4e7d51c7cdf444ca6239554a678d7929a53dcbaa9fe771224517782fc2a12",
+      "bytes": 84359
     },
     {
       "path": "data/locales/de.json",
-      "sha256": "6a5b4808e1ba4c48d28ee401e2af71354f665af7c9c3d0b62ac66fefcfc9d921",
-      "bytes": 85074
+      "sha256": "87d633f5e53d7f620b9e1d1c774344dc73ceff3658f58e95c030e6ee4e7730e0",
+      "bytes": 85984
     },
     {
       "path": "data/locales/fr.json",
-      "sha256": "f41be0a3be9ef67f711d4ff59dce6b865b99bbacf3a1b213a18f898a3b422772",
-      "bytes": 88429
+      "sha256": "b4f7636a437b42c7a68667a2650cdeceecdd99a3d46b93551399dc20813bb95c",
+      "bytes": 89339
     },
     {
       "path": "data/locales/it.json",
-      "sha256": "631dec0b03e270189229ccc40107a74c72d49793abfa4cf244a988da7cc0ffba",
-      "bytes": 84907
+      "sha256": "3d077c8ad13a6035894d8381a095772ace3eab15f5fe9bdefa0baf12a9d45845",
+      "bytes": 85817
     },
     {
       "path": "data/locales/zh-Hant.json",
-      "sha256": "68b639c8fe10c7827bb2b9dad799f9eea7c26f8581059043664e9bc5f734e215",
-      "bytes": 70582
+      "sha256": "8004583dd3f6288081b897427c78aab28cbe735caea63fd7e7d55c63f9ef4957",
+      "bytes": 71492
     },
     {
       "path": "data/locales/uk.json",
-      "sha256": "ace79a6ea9f6ef52a51301c08a9164ab160b252f50acdcf487e81f15173edf48",
-      "bytes": 116637
+      "sha256": "1fd5a30326f12b74eb38c1835705ab9139b37b6659740d14a76acd7c7def21cf",
+      "bytes": 117547
     },
     {
       "path": "data/locales/vi.json",
-      "sha256": "616ba9b6e3e6ff22f3fac94ed923804795fd33280f7a26660eb7287edd71c337",
-      "bytes": 91818
+      "sha256": "24b55e2cf8d91878b6465e143d4ad6d2e3976a35829c4ab53f034d971bd97fdf",
+      "bytes": 92728
     },
     {
       "path": "data/repositories.json",
-      "sha256": "462f05ab07def1287de586496b9665ff4cfd57c7464620aadc40fc48e10405b5",
-      "bytes": 1225
+      "sha256": "724272d62a1a126c8f16d292c35165206553cb2bd9b3833fce35c5201d17b163",
+      "bytes": 1177
+    },
+    {
+      "path": "assets/manifest.json",
+      "sha256": "cca9eaf5e85229ead75f40e0103ea2f847a1f512fce5f47e2129a0cdd463f06e",
+      "bytes": 35656
     }
   ]
 }

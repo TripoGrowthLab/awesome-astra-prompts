@@ -4,111 +4,111 @@
 
 <!-- Generated from data/*.json. Edit the data, then run npm run catalog. -->
 
-- [Un océan procédural vivant et une simulation de tempête](#gpt-6-astra-2095673885605630429) · GitHub
-- [Gogh Strike : un FPS multijoueur](#gpt-6-astra-2096013280519016608) · GitHub
-- [Une arène de combat dans une cathédrale](#gpt-6-astra-2095988972879335792) · GitHub
-- [Une course de combat antigravité](#gpt-6-astra-2095967568825582044) · GitHub
-- [Une société d'humains autonomes qui survit dans Unreal](#gpt-6-astra-2095596175705399482)
-- [Manhattan rue par rue dans Unreal Engine](#gpt-6-astra-2095609734845927525)
-- [Une villa contemporaine dans Blender](#gpt-6-astra-2095636679264780481)
-- [Un jeu 3D pour navigateur en une seule génération](#gpt-6-astra-2095599934766764338)
-- [D'une photo de maison à un monde Blender modifiable](#gpt-6-astra-2095598645190291775)
-- [D'une annonce Zillow à un film immobilier 3D](#gpt-6-astra-2095612137582526615)
-- [D'un dessin de train à vapeur à un assemblage Blender modifiable](#gpt-6-astra-2095756085890310311)
-- [Un décor procédural du Bureau ovale pour Cycles](#gpt-6-astra-2095630197257367857)
-- [Un monde façon Minecraft en une seule génération](#gpt-6-astra-2095597137849446688)
-- [Le Palace of Fine Arts recréé dans Blender](#gpt-6-astra-2095653641164329143)
-- [Une ville à parcourir issue de six tableaux de Van Gogh](#gpt-6-astra-2095776685807346105)
-- [Un jeu 3D piloté à la voix pour débuter](#gpt-6-astra-2095608358086840647)
-- [Trois jeux de kart thématiques à partir d'une seule maquette](#gpt-6-astra-2095580402505400369)
-- [Une aventure en monde ouvert dans le navigateur](#gpt-6-astra-2095596341422440714)
-- [Un studio de maquettes produit 3D photoréalistes](#gpt-6-astra-2095619319690400253)
-- [Un jeu d'aquarium 3D à partir d'une image de référence](#gpt-6-astra-2095611134992945385)
-- [Un jeu 3D temps réel jouable avec un seul prompt](#gpt-6-astra-2095647685210669541)
-- [Une bataille navale Three.js en un seul échange](#gpt-6-astra-2095840435319001278)
-- [Un FPS multijoueur 10 contre 10 inspiré de Halo](#gpt-6-astra-2095598026916049024)
-- [Une table de trains voxel interactive](#gpt-6-astra-2095719731860750613)
-- [Un navire voxel vivant dans une bouteille](#gpt-6-astra-2095699049722581065)
-- [Un assemblage CAO de l'USS Enterprise prêt à imprimer](#gpt-6-astra-2095641163441254676)
-- [Une course spatiale dans une tranchée sous Unity](#gpt-6-astra-2095630044102279312)
-- [Un château voxel procédural à découvrir](#gpt-6-astra-2093690427849191855)
-- [Une ville Unity explorable assemblée à partir d'assets](#gpt-6-astra-2095597640587374887)
-- [Une locomotive Blender mécaniquement complète](#gpt-6-astra-2095868420327710840)
-- [Tidal Rush : huit pilotes dans le navigateur](#gpt-6-astra-2095819786651374023)
-- [Une galaxie WebGL temps réel en tête de page de lancement](#gpt-6-astra-2095805694603673631)
-- [Un jeu d'arcade culturel qui se joue tout seul](#gpt-6-astra-2095898198413922791)
-- [Un prototype interactif haut de gamme en une seule passe](#gpt-6-astra-2095597560253862065)
-- [Un turbocompresseur 3D interactif en vue éclatée](#gpt-6-astra-2095776712579571725)
-- [Un jeu Three.js surprenant en une seule génération](#gpt-6-astra-2095663498101662198)
-- [Un prototype de jeu rapidement jouable](#gpt-6-astra-2095907526566990013)
-- [Du prompt au jeu en monde ouvert](#gpt-6-astra-2095872986477908108)
-- [Une page d'accueil galactique interactive en Three.js](#gpt-6-astra-2095806515579879457)
-- [Une chambre cyberpunk en boucle dans Blender](#gpt-6-astra-2095898303019856230)
-- [Une ville de Van Gogh en Three.js](#gpt-6-astra-2095871735824339279)
-- [Se promener dans les rues de La Nuit étoilée](#gpt-6-astra-2095805115580199372)
-- [Une table de trains d'enfance à piloter](#gpt-6-astra-2095742344293454148)
-- [D'un texte à une ville Unity explorable](#gpt-6-astra-2095623452678144366)
-- [Un aquarium pour comparer les modèles avec un seul prompt](#gpt-6-astra-2095650251902239139)
-- [D'un plan à une visite 3D complète](#gpt-6-astra-2095725404883476661)
-- [Une vraie maison dans une scène Blender modifiable à 60 images/s](#gpt-6-astra-2095777502681825541)
-- [Street Heat : dérapages urbains dans le navigateur](#gpt-6-astra-2095916820431827408)
-- [Prévisualisation cinématographique d'un musée 3D](#gpt-6-astra-2095616529572503593)
-- [Une publicité produit jouable de 15 secondes](#gpt-6-astra-2095695603808309497)
-- [Du plan à Blender puis à Unreal pour une visite architecturale](#gpt-6-astra-2095624712244072551)
-- [Solace : de la villa forestière à la visite UE5](#gpt-6-astra-2095752726886105375)
-- [Le défi d'une scène Blender en trente secondes](#gpt-6-astra-2095844872171421771)
-- [Une machine à réactions en chaîne de Rube Goldberg](#gpt-6-astra-2095980885732704629)
-- [Un Taj Mahal explorable](#gpt-6-astra-2096035962824335798)
-- [Un simulateur de rendez-vous orbital](#gpt-6-astra-2096225621303042258)
-- [Un remorqueur assemblé à partir d'images de référence](#gpt-6-astra-2096180220839760375)
-- [Une perceuse reconstituée à partir d'une seule vue](#gpt-6-astra-2096059736693305794)
-- [Un jeu d'oiseaux au lance-pierre en 3D](#gpt-6-astra-2095981655370666076)
-- [Un jeu de tir à la troisième personne en bullet time](#gpt-6-astra-2095962376344309843)
-- [Une gelée WebGPU rebondissante](#gpt-6-astra-2096008241104711698)
-- [Une manette PS5 interactive](#gpt-6-astra-2095967131573649552)
-- [Astral War : un jeu de tir dans le navigateur](#gpt-6-astra-2096079660605997264)
-- [D'un schéma PDF à un circuit imprimé et sa vue 3D](#gpt-6-astra-2096079976433082502)
-- [Un jeu de vol dans le navigateur](#gpt-6-astra-2096149823216898445)
-- [Un tableau de bord avec globe interactif](#gpt-6-astra-2096082432197837065)
-- [La tour Azadi dans Blender](#gpt-6-astra-2096107322536051057)
-- [Un site de studio 3D animé par le défilement](#gpt-6-astra-2096245759121277132)
-- [Komorebi : du kayak en rivière](#gpt-6-astra-2096244208533455049)
-- [Une bouteille réfractive au cœur d'un récit produit](#gpt-6-astra-2096243989439713677)
-- [Des trains procéduraux en vue éclatée](#gpt-6-astra-2096082580554777041)
-- [Un univers de jouets pour tout-petit](#gpt-6-astra-2096201415051911597)
-- [Une usine d'avions à réaction en activité](#gpt-6-astra-2096122429319852319)
-- [Une bataille de kaijus en ville](#gpt-6-astra-2096251574918013135)
-- [Une tempête enfermée dans un cube](#gpt-6-astra-2096220264413409648)
-- [Zork devient un jeu d'action-aventure 3D](#gpt-6-astra-2096047660662722620)
-- [Un T. rex riggé et animé](#gpt-6-astra-2096133339329536249)
-- [La vie marine dans une tasse de café](#gpt-6-astra-2096174858837074198)
-- [Une démo Hyperloop interactive](#gpt-6-astra-2096250748099068377)
-- [Un buste procédural de Napoléon](#gpt-6-astra-2096234355395903672)
-- [Un hall de gare](#gpt-6-astra-2096226711222546461)
-- [Un diorama animé pour les premiers pas](#gpt-6-astra-2096222790894661841)
-- [OX Vice Drive : conduire dans une ville ouverte](#gpt-6-astra-2096206082712768897)
-- [Une publicité de jeu mobile rendue jouable](#gpt-6-astra-2096111709496680842)
-- [Un jeu de combat d'arène anime dans Roblox](#gpt-6-astra-2095999578419929412)
-- [Une physique de course pour navigateur en C# et WASM](#gpt-6-astra-2096258619574513880)
-- [Un rig automatique et des mouvements de kung-fu](#gpt-6-astra-2096141728487178503)
-- [D'une illustration à un personnage jouable](#gpt-6-astra-2096107343268257953)
-- [Un portfolio 3D personnel avec un globe des conférences](#gpt-6-astra-2096023793772998704)
-- [Une tranche jouable Godot inspirée de Sonic](#gpt-6-astra-2096056285896536086)
-- [Un personnage viking dans Blender](#gpt-6-astra-2096140378777010278)
-- [Dropzone : une arène de battle royale](#gpt-6-astra-2096155883122413946)
-- [Une visite du jardin du musée de Suzhou](#gpt-6-astra-2096096998092841449)
-- [Une exposition scientifique interactive sur Titan](#gpt-6-astra-2095986941753712841)
-- [Un écosystème WebGL qui évolue](#gpt-6-astra-2096040448477515874)
-- [Un réseau de livraison avec fermeture de ponts](#gpt-6-astra-2096042360513904742)
-- [Un simulateur Sinclair ZX Spectrum](#gpt-6-astra-2096062355692048605)
-- [D'un scan photogrammétrique à un salon modifiable](#gpt-6-astra-2096092080397246707)
-- [Une aventure de plateformes inspirée d'Odyssey](#gpt-6-astra-2096135808243876152)
-- [L'anatomie humaine en vue éclatée interactive](#gpt-6-astra-2096221988763173186)
-- [Une Tesla Model X en vue éclatée](#gpt-6-astra-2096009146248122416)
-- [Une machine à capsules de souvenirs](#gpt-6-astra-2096241295949975602)
-- [Une Formule 1 dans Blender](#gpt-6-astra-2096125193580113957)
+- [Un océan procédural vivant et une simulation de tempête](#2095673885605630429) · GitHub
+- [Gogh Strike : un FPS multijoueur](#2096013280519016608) · GitHub
+- [Une arène de combat dans une cathédrale](#2095988972879335792) · GitHub
+- [Une course de combat antigravité](#2095967568825582044) · GitHub
+- [Une société d'humains autonomes qui survit dans Unreal](#2095596175705399482)
+- [Manhattan rue par rue dans Unreal Engine](#2095609734845927525)
+- [Une villa contemporaine dans Blender](#2095636679264780481)
+- [Un jeu 3D pour navigateur en une seule génération](#2095599934766764338)
+- [D'une photo de maison à un monde Blender modifiable](#2095598645190291775)
+- [D'une annonce Zillow à un film immobilier 3D](#2095612137582526615)
+- [D'un dessin de train à vapeur à un assemblage Blender modifiable](#2095756085890310311)
+- [Un décor procédural du Bureau ovale pour Cycles](#2095630197257367857)
+- [Un monde façon Minecraft en une seule génération](#2095597137849446688)
+- [Le Palace of Fine Arts recréé dans Blender](#2095653641164329143)
+- [Une ville à parcourir issue de six tableaux de Van Gogh](#2095776685807346105)
+- [Un jeu 3D piloté à la voix pour débuter](#2095608358086840647)
+- [Trois jeux de kart thématiques à partir d'une seule maquette](#2095580402505400369)
+- [Une aventure en monde ouvert dans le navigateur](#2095596341422440714)
+- [Un studio de maquettes produit 3D photoréalistes](#2095619319690400253)
+- [Un jeu d'aquarium 3D à partir d'une image de référence](#2095611134992945385)
+- [Un jeu 3D temps réel jouable avec un seul prompt](#2095647685210669541)
+- [Une bataille navale Three.js en un seul échange](#2095840435319001278)
+- [Un FPS multijoueur 10 contre 10 inspiré de Halo](#2095598026916049024)
+- [Une table de trains voxel interactive](#2095719731860750613)
+- [Un navire voxel vivant dans une bouteille](#2095699049722581065)
+- [Un assemblage CAO de l'USS Enterprise prêt à imprimer](#2095641163441254676)
+- [Une course spatiale dans une tranchée sous Unity](#2095630044102279312)
+- [Un château voxel procédural à découvrir](#2093690427849191855)
+- [Une ville Unity explorable assemblée à partir d'assets](#2095597640587374887)
+- [Une locomotive Blender mécaniquement complète](#2095868420327710840)
+- [Tidal Rush : huit pilotes dans le navigateur](#2095819786651374023)
+- [Une galaxie WebGL temps réel en tête de page de lancement](#2095805694603673631)
+- [Un jeu d'arcade culturel qui se joue tout seul](#2095898198413922791)
+- [Un prototype interactif haut de gamme en une seule passe](#2095597560253862065)
+- [Un turbocompresseur 3D interactif en vue éclatée](#2095776712579571725)
+- [Un jeu Three.js surprenant en une seule génération](#2095663498101662198)
+- [Un prototype de jeu rapidement jouable](#2095907526566990013)
+- [Du prompt au jeu en monde ouvert](#2095872986477908108)
+- [Une page d'accueil galactique interactive en Three.js](#2095806515579879457)
+- [Une chambre cyberpunk en boucle dans Blender](#2095898303019856230)
+- [Une ville de Van Gogh en Three.js](#2095871735824339279)
+- [Se promener dans les rues de La Nuit étoilée](#2095805115580199372)
+- [Une table de trains d'enfance à piloter](#2095742344293454148)
+- [D'un texte à une ville Unity explorable](#2095623452678144366)
+- [Un aquarium pour comparer les modèles avec un seul prompt](#2095650251902239139)
+- [D'un plan à une visite 3D complète](#2095725404883476661)
+- [Une vraie maison dans une scène Blender modifiable à 60 images/s](#2095777502681825541)
+- [Street Heat : dérapages urbains dans le navigateur](#2095916820431827408)
+- [Prévisualisation cinématographique d'un musée 3D](#2095616529572503593)
+- [Une publicité produit jouable de 15 secondes](#2095695603808309497)
+- [Du plan à Blender puis à Unreal pour une visite architecturale](#2095624712244072551)
+- [Solace : de la villa forestière à la visite UE5](#2095752726886105375)
+- [Le défi d'une scène Blender en trente secondes](#2095844872171421771)
+- [Une machine à réactions en chaîne de Rube Goldberg](#2095980885732704629)
+- [Un Taj Mahal explorable](#2096035962824335798)
+- [Un simulateur de rendez-vous orbital](#2096225621303042258)
+- [Un remorqueur assemblé à partir d'images de référence](#2096180220839760375)
+- [Une perceuse reconstituée à partir d'une seule vue](#2096059736693305794)
+- [Un jeu d'oiseaux au lance-pierre en 3D](#2095981655370666076)
+- [Un jeu de tir à la troisième personne en bullet time](#2095962376344309843)
+- [Une gelée WebGPU rebondissante](#2096008241104711698)
+- [Une manette PS5 interactive](#2095967131573649552)
+- [Astral War : un jeu de tir dans le navigateur](#2096079660605997264)
+- [D'un schéma PDF à un circuit imprimé et sa vue 3D](#2096079976433082502)
+- [Un jeu de vol dans le navigateur](#2096149823216898445)
+- [Un tableau de bord avec globe interactif](#2096082432197837065)
+- [La tour Azadi dans Blender](#2096107322536051057)
+- [Un site de studio 3D animé par le défilement](#2096245759121277132)
+- [Komorebi : du kayak en rivière](#2096244208533455049)
+- [Une bouteille réfractive au cœur d'un récit produit](#2096243989439713677)
+- [Des trains procéduraux en vue éclatée](#2096082580554777041)
+- [Un univers de jouets pour tout-petit](#2096201415051911597)
+- [Une usine d'avions à réaction en activité](#2096122429319852319)
+- [Une bataille de kaijus en ville](#2096251574918013135)
+- [Une tempête enfermée dans un cube](#2096220264413409648)
+- [Zork devient un jeu d'action-aventure 3D](#2096047660662722620)
+- [Un T. rex riggé et animé](#2096133339329536249)
+- [La vie marine dans une tasse de café](#2096174858837074198)
+- [Une démo Hyperloop interactive](#2096250748099068377)
+- [Un buste procédural de Napoléon](#2096234355395903672)
+- [Un hall de gare](#2096226711222546461)
+- [Un diorama animé pour les premiers pas](#2096222790894661841)
+- [OX Vice Drive : conduire dans une ville ouverte](#2096206082712768897)
+- [Une publicité de jeu mobile rendue jouable](#2096111709496680842)
+- [Un jeu de combat d'arène anime dans Roblox](#2095999578419929412)
+- [Une physique de course pour navigateur en C# et WASM](#2096258619574513880)
+- [Un rig automatique et des mouvements de kung-fu](#2096141728487178503)
+- [D'une illustration à un personnage jouable](#2096107343268257953)
+- [Un portfolio 3D personnel avec un globe des conférences](#2096023793772998704)
+- [Une tranche jouable Godot inspirée de Sonic](#2096056285896536086)
+- [Un personnage viking dans Blender](#2096140378777010278)
+- [Dropzone : une arène de battle royale](#2096155883122413946)
+- [Une visite du jardin du musée de Suzhou](#2096096998092841449)
+- [Une exposition scientifique interactive sur Titan](#2095986941753712841)
+- [Un écosystème WebGL qui évolue](#2096040448477515874)
+- [Un réseau de livraison avec fermeture de ponts](#2096042360513904742)
+- [Un simulateur Sinclair ZX Spectrum](#2096062355692048605)
+- [D'un scan photogrammétrique à un salon modifiable](#2096092080397246707)
+- [Une aventure de plateformes inspirée d'Odyssey](#2096135808243876152)
+- [L'anatomie humaine en vue éclatée interactive](#2096221988763173186)
+- [Une Tesla Model X en vue éclatée](#2096009146248122416)
+- [Une machine à capsules de souvenirs](#2096241295949975602)
+- [Une Formule 1 dans Blender](#2096125193580113957)
 
-<a id="gpt-6-astra-2095673885605630429"></a>
+<a id="2095673885605630429"></a>
 
 ## Un océan procédural vivant et une simulation de tempête
 
@@ -129,11 +129,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Transforme le générateur de surface océanique en tempête fourni dans un seul fichier en océan procédural complet. Ajoute des récifs, des profondeurs, une météo crédible, des populations animales aux comportements émergents, des interactions d'écosystème et une caméra capable de passer de la surface au monde sous-marin.
 ```
 
-[Publication originale](https://x.com/emollick/status/2095673885605630429) · [Code source](https://github.com/emollick/abyssal-living-deep) · [Démo](https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429) · [Publication originale](https://x.com/emollick/status/2095673885605630429) · [Code source](https://github.com/emollick/abyssal-living-deep) · [Démo](https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1)
 
 ---
 
-<a id="gpt-6-astra-2096013280519016608"></a>
+<a id="2096013280519016608"></a>
 
 ## Gogh Strike : un FPS multijoueur
 
@@ -154,11 +154,11 @@ Adapté de la description publique du projet par son auteur.
 Construis un FPS postimpressionniste à 5 contre 5 avec des personnages artistes rendus dans Blender, des équipes faciles à distinguer et un match multijoueur complet dans le navigateur.
 ```
 
-[Publication originale](https://x.com/petergostev/status/2096013280519016608) · [Code source](https://github.com/petergpt/gogh-strike) · [Démo](https://gogh-strike.surge.sh/)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608) · [Publication originale](https://x.com/petergostev/status/2096013280519016608) · [Code source](https://github.com/petergpt/gogh-strike) · [Démo](https://gogh-strike.surge.sh/)
 
 ---
 
-<a id="gpt-6-astra-2095988972879335792"></a>
+<a id="2095988972879335792"></a>
 
 ## Une arène de combat dans une cathédrale
 
@@ -179,11 +179,11 @@ Adapté de la description publique du projet par son auteur.
 Construis un jeu Three.js de hack-and-slash à la troisième personne dans une cathédrale au-dessus d'une étoile morte. Prévois des combos légers à l'épée, des attaques lourdes, de la magie de zone, des esquives et des animations à deux mains bien ancrées.
 ```
 
-[Publication originale](https://x.com/superalesha/status/2095988972879335792) · [Code source](https://github.com/alesha-pro/bench-portal) · [Démo](https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792) · [Publication originale](https://x.com/superalesha/status/2095988972879335792) · [Code source](https://github.com/alesha-pro/bench-portal) · [Démo](https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/)
 
 ---
 
-<a id="gpt-6-astra-2095967568825582044"></a>
+<a id="2095967568825582044"></a>
 
 ## Une course de combat antigravité
 
@@ -204,11 +204,11 @@ Adapté de la description publique du projet par son auteur.
 Construis dans Three.js un jeu de course de combat antigravité à grande vitesse avec dérapages, accélérations, caméras inclinées, aérofreins et boucliers à ramasser. Prévois des engins légers, équilibrés et lourds sur un circuit extraterrestre surélevé.
 ```
 
-[Publication originale](https://x.com/superalesha/status/2095967568825582044) · [Code source](https://github.com/alesha-pro/bench-portal)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/anti-gravity-combat-racer-2095967568825582044) · [Publication originale](https://x.com/superalesha/status/2095967568825582044) · [Code source](https://github.com/alesha-pro/bench-portal)
 
 ---
 
-<a id="gpt-6-astra-2095596175705399482"></a>
+<a id="2095596175705399482"></a>
 
 ## Une société d'humains autonomes qui survit dans Unreal
 
@@ -229,11 +229,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Crée un monde Unreal Engine peuplé d'agents humains autonomes. Donne-leur des besoins individuels et un objectif commun de survie pour qu'ils doivent communiquer, répartir le travail, construire des abris et maintenir leur société en vie lorsque le joueur s'en va.
 ```
 
-[Publication originale](https://x.com/mattshumer_/status/2095596175705399482)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Publication originale](https://x.com/mattshumer_/status/2095596175705399482)
 
 ---
 
-<a id="gpt-6-astra-2095609734845927525"></a>
+<a id="2095609734845927525"></a>
 
 ## Manhattan rue par rue dans Unreal Engine
 
@@ -254,11 +254,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Construis un Manhattan explorable dans Unreal Engine. Avance quartier par quartier et rue par rue, en conservant une échelle reconnaissable, le tracé des rues, les monuments, la circulation et l'identité de chaque quartier ; tiens une liste de vérification et améliore chaque zone avant de poursuivre.
 ```
 
-[Publication originale](https://x.com/mattshumer_/status/2095609734845927525)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [Publication originale](https://x.com/mattshumer_/status/2095609734845927525)
 
 ---
 
-<a id="gpt-6-astra-2095636679264780481"></a>
+<a id="2095636679264780481"></a>
 
 ## Une villa contemporaine dans Blender
 
@@ -279,11 +279,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Construis une scène complète de villa contemporaine dans Blender : architecture cohérente, intérieurs meublés, piscine à débordement, aménagement paysager, matériaux réalistes et parcours de caméra cinématographique à l'heure dorée.
 ```
 
-[Publication originale](https://x.com/karankendre/status/2095636679264780481)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/modern-villa-scene-in-blender-2095636679264780481) · [Publication originale](https://x.com/karankendre/status/2095636679264780481)
 
 ---
 
-<a id="gpt-6-astra-2095599934766764338"></a>
+<a id="2095599934766764338"></a>
 
 ## Un jeu 3D pour navigateur en une seule génération
 
@@ -304,11 +304,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Crée un jeu 3D complet qui fonctionne dans le navigateur au sein d'un projet autonome. Prévois un objectif clair, des commandes réactives, des niveaux cohérents dans l'espace, des ennemis ou des dangers, des retours visuels, un score, un redémarrage et des garde-fous pour les performances.
 ```
 
-[Publication originale](https://x.com/theo/status/2095599934766764338)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/one-shot-browser-3d-game-2095599934766764338) · [Publication originale](https://x.com/theo/status/2095599934766764338)
 
 ---
 
-<a id="gpt-6-astra-2095598645190291775"></a>
+<a id="2095598645190291775"></a>
 
 ## D'une photo de maison à un monde Blender modifiable
 
@@ -329,11 +329,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Reconstitue l'image de maison fournie sous forme de scène Blender entièrement modifiable. Modélise séparément l'architecture, les meubles, les appareils électroménagers et les jouets, conserve des proportions plausibles et fais fonctionner le résultat localement avec une visite fluide à 60 images par seconde.
 ```
 
-[Publication originale](https://x.com/tomkrcha/status/2095598645190291775)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775) · [Publication originale](https://x.com/tomkrcha/status/2095598645190291775)
 
 ---
 
-<a id="gpt-6-astra-2095612137582526615"></a>
+<a id="2095612137582526615"></a>
 
 ## D'une annonce Zillow à un film immobilier 3D
 
@@ -354,11 +354,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 À partir de l'annonce immobilière fournie et de toutes ses photos, reconstitue la maison en 3D, déduis un plan cohérent puis crée une vidéo de visite promotionnelle soignée. Signale les incertitudes géométriques et corrige les écarts après une première version.
 ```
 
-[Publication originale](https://x.com/realYunfanYe/status/2095612137582526615)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615) · [Publication originale](https://x.com/realYunfanYe/status/2095612137582526615)
 
 ---
 
-<a id="gpt-6-astra-2095756085890310311"></a>
+<a id="2095756085890310311"></a>
 
 ## D'un dessin de train à vapeur à un assemblage Blender modifiable
 
@@ -379,11 +379,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Reconstitue le dessin de train à vapeur ancien fourni dans Blender sous forme d'assemblage mécanique détaillé. Garde les roues, essieux, suspensions, bielles, équipements de chaudière et panneaux de carrosserie comme objets nommés et modifiables, avec un niveau de détail maîtrisable.
 ```
 
-[Publication originale](https://x.com/tomkrcha/status/2095756085890310311)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Publication originale](https://x.com/tomkrcha/status/2095756085890310311)
 
 ---
 
-<a id="gpt-6-astra-2095630197257367857"></a>
+<a id="2095630197257367857"></a>
 
 ## Un décor procédural du Bureau ovale pour Cycles
 
@@ -404,11 +404,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Traduis une description de décor du Bureau ovale en code de scène exécutable. Construis le lieu dans Blender avec mobilier, murs, éclairages et placements de caméra modifiables, puis réalise un rendu cinématographique avec Cycles.
 ```
 
-[Publication originale](https://x.com/higgsfield_ai/status/2095630197257367857)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857) · [Publication originale](https://x.com/higgsfield_ai/status/2095630197257367857)
 
 ---
 
-<a id="gpt-6-astra-2095597137849446688"></a>
+<a id="2095597137849446688"></a>
 
 ## Un monde façon Minecraft en une seule génération
 
@@ -429,11 +429,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Construis en une seule passe un monde voxel jouable inspiré de Minecraft, avec génération du terrain, pose et destruction de blocs, commandes à la première personne, inventaire, éclairage, eau et boucle de survie compacte.
 ```
 
-[Publication originale](https://x.com/flavioAd/status/2095597137849446688)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/one-shot-minecraft-style-world-2095597137849446688) · [Publication originale](https://x.com/flavioAd/status/2095597137849446688)
 
 ---
 
-<a id="gpt-6-astra-2095653641164329143"></a>
+<a id="2095653641164329143"></a>
 
 ## Le Palace of Fine Arts recréé dans Blender
 
@@ -454,11 +454,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Recrée le Palace of Fine Arts de San Francisco dans Blender : proportions reconnaissables de la rotonde, colonnades, lagune, végétation, matériaux patinés et éclairage cinématographique empreint de l'optimisme des expositions universelles.
 ```
 
-[Publication originale](https://x.com/sharifshameem/status/2095653641164329143)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143) · [Publication originale](https://x.com/sharifshameem/status/2095653641164329143)
 
 ---
 
-<a id="gpt-6-astra-2095776685807346105"></a>
+<a id="2095776685807346105"></a>
 
 ## Une ville à parcourir issue de six tableaux de Van Gogh
 
@@ -479,11 +479,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Transforme les six tableaux de Van Gogh fournis en une ville Three.js cohérente où l'on peut se promener. Conserve la palette et le caractère des coups de pinceau de chaque tableau tout en reliant rues, lieux emblématiques et transitions dans un monde explorable.
 ```
 
-[Publication originale](https://x.com/petergostev/status/2095776685807346105) · [Démo](https://van-goghs-town.surge.sh/)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Publication originale](https://x.com/petergostev/status/2095776685807346105) · [Démo](https://van-goghs-town.surge.sh/)
 
 ---
 
-<a id="gpt-6-astra-2095608358086840647"></a>
+<a id="2095608358086840647"></a>
 
 ## Un jeu 3D piloté à la voix pour débuter
 
@@ -504,11 +504,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Agis comme mon créateur de jeux 3D. Demande uniquement les éléments manquants concernant l'objectif du joueur, la direction artistique et les commandes, puis crée un jeu pour navigateur immédiatement jouable et continue de le modifier à partir de brèves instructions vocales.
 ```
 
-[Publication originale](https://x.com/EHuanglu/status/2095608358086840647)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647) · [Publication originale](https://x.com/EHuanglu/status/2095608358086840647)
 
 ---
 
-<a id="gpt-6-astra-2095580402505400369"></a>
+<a id="2095580402505400369"></a>
 
 ## Trois jeux de kart thématiques à partir d'une seule maquette
 
@@ -529,11 +529,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 À partir de la maquette en volumes gris du jeu de kart Unity fourni, produis trois variantes jouables : pirate, confiserie et cyberpunk. Réutilise la boucle de conduite, remplace les environnements et les effets de retour, teste chaque version en jouant et corrige les bugs les plus visibles.
 ```
 
-[Publication originale](https://x.com/chetaslua/status/2095580402505400369)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369) · [Publication originale](https://x.com/chetaslua/status/2095580402505400369)
 
 ---
 
-<a id="gpt-6-astra-2095596341422440714"></a>
+<a id="2095596341422440714"></a>
 
 ## Une aventure en monde ouvert dans le navigateur
 
@@ -554,11 +554,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Construis une aventure 3D en monde ouvert avec plusieurs biomes reliés, des déplacements, des découvertes, des combats légers, des quêtes, des repères, une ambiance jour-nuit et assez d'indications pour que l'exploration ait un sens.
 ```
 
-[Publication originale](https://x.com/petergostev/status/2095596341422440714)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/open-world-browser-adventure-2095596341422440714) · [Publication originale](https://x.com/petergostev/status/2095596341422440714)
 
 ---
 
-<a id="gpt-6-astra-2095619319690400253"></a>
+<a id="2095619319690400253"></a>
 
 ## Un studio de maquettes produit 3D photoréalistes
 
@@ -579,11 +579,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Crée un outil pour navigateur qui applique les visuels importés à des maquettes de produits 3D photoréalistes. Prévois une caméra orbitale, des réglages de matériaux et de couleurs, un éclairage d'environnement, plusieurs produits et un export haute résolution.
 ```
 
-[Publication originale](https://x.com/joshmillgate/status/2095619319690400253)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253) · [Publication originale](https://x.com/joshmillgate/status/2095619319690400253)
 
 ---
 
-<a id="gpt-6-astra-2095611134992945385"></a>
+<a id="2095611134992945385"></a>
 
 ## Un jeu d'aquarium 3D à partir d'une image de référence
 
@@ -604,11 +604,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 À partir de l'image de référence fournie, construis en une seule passe un jeu d'aquarium 3D complet. Reconstitue la composition du bac, anime les poissons, ajoute des interactions de nourrissage et de collection, des effets d'eau, des commandes de caméra et un objectif clair.
 ```
 
-[Publication originale](https://x.com/TimJayas/status/2095611134992945385)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/reference-image-3d-aquarium-game-2095611134992945385) · [Publication originale](https://x.com/TimJayas/status/2095611134992945385)
 
 ---
 
-<a id="gpt-6-astra-2095647685210669541"></a>
+<a id="2095647685210669541"></a>
 
 ## Un jeu 3D temps réel jouable avec un seul prompt
 
@@ -629,11 +629,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Construis un jeu 3D temps réel jouable à partir d'un seul prompt. Définis une mécanique centrale compacte, un objectif clair et une courte histoire, puis génère la scène, les personnages, les accessoires, les retours d'action et l'état de redémarrage pour que le résultat soit immédiatement jouable.
 ```
 
-[Publication originale](https://x.com/higgsfield/status/2095647685210669541)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/single-playable-real-time-3d-game-2095647685210669541) · [Publication originale](https://x.com/higgsfield/status/2095647685210669541)
 
 ---
 
-<a id="gpt-6-astra-2095840435319001278"></a>
+<a id="2095840435319001278"></a>
 
 ## Une bataille navale Three.js en un seul échange
 
@@ -654,11 +654,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Crée une bataille navale détaillée dans Three.js en un seul échange. Inclus plusieurs navires distincts, des interactions avec l'eau physiquement convaincantes, des sillages et embruns, de l'action aérienne, des explosions, un éclairage cinématographique, des mouvements de caméra et un rendu attentif aux performances.
 ```
 
-[Publication originale](https://x.com/synthwavedd/status/2095840435319001278)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278) · [Publication originale](https://x.com/synthwavedd/status/2095840435319001278)
 
 ---
 
-<a id="gpt-6-astra-2095598026916049024"></a>
+<a id="2095598026916049024"></a>
 
 ## Un FPS multijoueur 10 contre 10 inspiré de Halo
 
@@ -679,11 +679,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Construis un jeu de tir d'arène multijoueur à 10 contre 10 inspiré des FPS de science-fiction classiques. Prévois des équipes, des réapparitions, des armes faciles à identifier, des boucliers, des objets à ramasser, des cartes compactes, un score, le déroulement des matchs et un jeu sur navigateur à faible latence.
 ```
 
-[Publication originale](https://x.com/VikiingAI/status/2095598026916049024)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024) · [Publication originale](https://x.com/VikiingAI/status/2095598026916049024)
 
 ---
 
-<a id="gpt-6-astra-2095719731860750613"></a>
+<a id="2095719731860750613"></a>
 
 ## Une table de trains voxel interactive
 
@@ -704,11 +704,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Construis une table de trains voxel détaillée dans Three.js. Permets de démarrer et d'arrêter plusieurs trains, d'actionner les aiguillages, de tourner autour de la table et de zoomer, d'observer les villes miniatures et de déclencher de petites animations du décor.
 ```
 
-[Publication originale](https://x.com/DeryaTR_/status/2095719731860750613) · [Démo](https://lindenhafen-railway.vercel.app/)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/interactive-voxel-railway-table-2095719731860750613) · [Publication originale](https://x.com/DeryaTR_/status/2095719731860750613) · [Démo](https://lindenhafen-railway.vercel.app/)
 
 ---
 
-<a id="gpt-6-astra-2095699049722581065"></a>
+<a id="2095699049722581065"></a>
 
 ## Un navire voxel vivant dans une bouteille
 
@@ -729,11 +729,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Crée un navire voxel détaillé du XVIIe siècle naviguant à l'intérieur d'une bouteille en verre. Simule la houle et le mouvement du navire, ajoute des mouettes qui tournent, un port miniature et des récifs coralliens, puis produis une séquence de caméra cinématographique avec une bande-son paisible.
 ```
 
-[Publication originale](https://x.com/DeryaTR_/status/2095699049722581065)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065) · [Publication originale](https://x.com/DeryaTR_/status/2095699049722581065)
 
 ---
 
-<a id="gpt-6-astra-2095641163441254676"></a>
+<a id="2095641163441254676"></a>
 
 ## Un assemblage CAO de l'USS Enterprise prêt à imprimer
 
@@ -754,11 +754,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Conçois en CAO un hommage original à l'USS Enterprise NCC-1701 prêt pour l'impression. Prévois des proportions reconnaissables, une passerelle et certains intérieurs, au moins 28 pièces mobiles fonctionnelles, des assemblages séparés et des fichiers de fabrication exportables.
 ```
 
-[Publication originale](https://x.com/DeryaTR_/status/2095641163441254676)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676) · [Publication originale](https://x.com/DeryaTR_/status/2095641163441254676)
 
 ---
 
-<a id="gpt-6-astra-2095630044102279312"></a>
+<a id="2095630044102279312"></a>
 
 ## Une course spatiale dans une tranchée sous Unity
 
@@ -779,11 +779,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Recrée dans Unity les sensations d'une course spatiale classique en tranchée : vol rapide à basse altitude, tirs de tourelles, obstacles, ciblage, pression croissante, objectif final et séquence cinématographique de réussite ou d'échec.
 ```
 
-[Publication originale](https://x.com/ronaldmannak/status/2095630044102279312)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/unity-space-trench-run-game-2095630044102279312) · [Publication originale](https://x.com/ronaldmannak/status/2095630044102279312)
 
 ---
 
-<a id="gpt-6-astra-2093690427849191855"></a>
+<a id="2093690427849191855"></a>
 
 ## Un château voxel procédural à découvrir
 
@@ -804,11 +804,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Génère un grand château voxel avec des lignes de défense lisibles, des tours, des remparts, des portes, des cours et le terrain alentour. Utilise l'instanciation, une caméra orbitale, un éclairage changeant et une génération déterministe pour obtenir un résultat stable et inspectable.
 ```
 
-[Publication originale](https://x.com/hakmgpt/status/2093690427849191855)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/procedural-voxel-castle-showcase-2093690427849191855) · [Publication originale](https://x.com/hakmgpt/status/2093690427849191855)
 
 ---
 
-<a id="gpt-6-astra-2095597640587374887"></a>
+<a id="2095597640587374887"></a>
 
 ## Une ville Unity explorable assemblée à partir d'assets
 
@@ -829,11 +829,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Assemble une ville Unity explorable à partir de la bibliothèque d'assets fournie. Crée un réseau routier cohérent, des tours, des véhicules, des palmiers, un éclairage et une navigation, puis optimise la scène et produis une visite stable à la première personne.
 ```
 
-[Publication originale](https://x.com/chetaslua/status/2095597640587374887)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887) · [Publication originale](https://x.com/chetaslua/status/2095597640587374887)
 
 ---
 
-<a id="gpt-6-astra-2095868420327710840"></a>
+<a id="2095868420327710840"></a>
 
 ## Une locomotive Blender mécaniquement complète
 
@@ -854,11 +854,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Modélise une locomotive à vapeur dans Blender comme un véritable ensemble mécanique démontable plutôt que comme une coque texturée. Nomme et sépare les essieux, glissières de boîtes d'essieux, coussinets, entretoises, biellettes de suspension, dôme de vapeur et chaque assemblage majeur.
 ```
 
-[Publication originale](https://x.com/sheemamoto/status/2095868420327710840)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840) · [Publication originale](https://x.com/sheemamoto/status/2095868420327710840)
 
 ---
 
-<a id="gpt-6-astra-2095819786651374023"></a>
+<a id="2095819786651374023"></a>
 
 ## Tidal Rush : huit pilotes dans le navigateur
 
@@ -879,11 +879,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Construis un jeu de kart complet pour navigateur avec huit pilotes, trois tours, du dérapage, des objets à ramasser, une physique réactive, un HUD clair, de beaux graphismes et un écran de résultats à l'arrivée.
 ```
 
-[Publication originale](https://x.com/amazing13_13/status/2095819786651374023)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023) · [Publication originale](https://x.com/amazing13_13/status/2095819786651374023)
 
 ---
 
-<a id="gpt-6-astra-2095805694603673631"></a>
+<a id="2095805694603673631"></a>
 
 ## Une galaxie WebGL temps réel en tête de page de lancement
 
@@ -904,11 +904,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Analyse le langage visuel de la section d'accueil galactique fournie et reconstruis-le en WebGL temps réel plutôt qu'en vidéo. Utilise des particules avec profondeur, de la poussière lumineuse, une réaction fluide au pointeur, un espace typographique sobre et des performances adaptatives.
 ```
 
-[Publication originale](https://x.com/Fluxora_Studios/status/2095805694603673631)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631) · [Publication originale](https://x.com/Fluxora_Studios/status/2095805694603673631)
 
 ---
 
-<a id="gpt-6-astra-2095898198413922791"></a>
+<a id="2095898198413922791"></a>
 
 ## Un jeu d'arcade culturel qui se joue tout seul
 
@@ -929,11 +929,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Construis un jeu d'arcade qui se joue tout seul pour un pays du G7. Transforme un monument culturel reconnaissable en mécanique centrale, rends l'action compréhensible sans intervention et ajoute un score, une difficulté croissante et une révélation mémorable.
 ```
 
-[Publication originale](https://x.com/say_gm_/status/2095898198413922791)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791) · [Publication originale](https://x.com/say_gm_/status/2095898198413922791)
 
 ---
 
-<a id="gpt-6-astra-2095597560253862065"></a>
+<a id="2095597560253862065"></a>
 
 ## Un prototype interactif haut de gamme en une seule passe
 
@@ -954,11 +954,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Conçois et réalise en une seule passe un prototype interactif haut de gamme à partir du concept produit fourni. Choisis un système visuel affirmé, donne la priorité à l'action principale, ajoute des transitions soignées et livre une version adaptative hébergée.
 ```
 
-[Publication originale](https://x.com/AY_Orbach/status/2095597560253862065)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065) · [Publication originale](https://x.com/AY_Orbach/status/2095597560253862065)
 
 ---
 
-<a id="gpt-6-astra-2095776712579571725"></a>
+<a id="2095776712579571725"></a>
 
 ## Un turbocompresseur 3D interactif en vue éclatée
 
@@ -979,11 +979,11 @@ Prompt original publié par l'auteur
 Construis un turbocompresseur 3D interactif. Sépare chaque système fonctionnel. Laisse-moi le faire tourner, isoler les pièces et voir ce que fait réellement la machine.
 ```
 
-[Publication originale](https://x.com/Feraser8/status/2095776712579571725)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725) · [Publication originale](https://x.com/Feraser8/status/2095776712579571725)
 
 ---
 
-<a id="gpt-6-astra-2095663498101662198"></a>
+<a id="2095663498101662198"></a>
 
 ## Un jeu Three.js surprenant en une seule génération
 
@@ -1004,11 +1004,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Crée en une seule génération un jeu Three.js original qui mérite le titre « Amaze ». Choisis une mécanique visuelle surprenante, fais-la comprendre en quelques secondes, construis une courte progression et termine par un spectacle gratifiant.
 ```
 
-[Publication originale](https://x.com/pratt_builds/status/2095663498101662198)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198) · [Publication originale](https://x.com/pratt_builds/status/2095663498101662198)
 
 ---
 
-<a id="gpt-6-astra-2095907526566990013"></a>
+<a id="2095907526566990013"></a>
 
 ## Un prototype de jeu rapidement jouable
 
@@ -1029,11 +1029,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Crée un prototype de jeu jouable et visuellement cohérent avec un budget de temps et de tokens strict. Privilégie une boucle complète, des commandes réactives, des retours clairs, des performances stables et une version navigateur livrable plutôt que le nombre de fonctionnalités.
 ```
 
-[Publication originale](https://x.com/gibglue/status/2095907526566990013)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/rapid-playable-game-prototype-2095907526566990013) · [Publication originale](https://x.com/gibglue/status/2095907526566990013)
 
 ---
 
-<a id="gpt-6-astra-2095872986477908108"></a>
+<a id="2095872986477908108"></a>
 
 ## Du prompt au jeu en monde ouvert
 
@@ -1054,11 +1054,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Construis un jeu en monde ouvert à partir de ce concept : [prémisse du monde]. Prévois trois régions distinctes, des déplacements, des rencontres dynamiques, une chaîne de quêtes simple, des repères, la sauvegarde et le redémarrage, ainsi qu'une optimisation suffisante pour fonctionner dans le navigateur.
 ```
 
-[Publication originale](https://x.com/aeejazkhan/status/2095872986477908108)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/open-world-game-from-a-prompt-2095872986477908108) · [Publication originale](https://x.com/aeejazkhan/status/2095872986477908108)
 
 ---
 
-<a id="gpt-6-astra-2095806515579879457"></a>
+<a id="2095806515579879457"></a>
 
 ## Une page d'accueil galactique interactive en Three.js
 
@@ -1079,11 +1079,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Crée une section d'accueil haut de gamme pour une page de lancement autour d'une galaxie Three.js temps réel. Fais former aux particules une subtile silhouette du chiffre six, réagir au défilement et au pointeur, préserve la lisibilité du texte et réduis progressivement les effets sur les appareils moins puissants.
 ```
 
-[Publication originale](https://x.com/threejsresource/status/2095806515579879457)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457) · [Publication originale](https://x.com/threejsresource/status/2095806515579879457)
 
 ---
 
-<a id="gpt-6-astra-2095898303019856230"></a>
+<a id="2095898303019856230"></a>
 
 ## Une chambre cyberpunk en boucle dans Blender
 
@@ -1104,11 +1104,11 @@ Prompt original publié par l'auteur
 Crée dans Blender une chambre cyberpunk cinématographique donnant sur une ville nocturne pluvieuse et éclairée au néon. Ajoute des panneaux publicitaires animés et rends le tout photoréaliste, avec une boucle parfaitement fluide.
 ```
 
-[Publication originale](https://x.com/CoinSh0t/status/2095898303019856230)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [Publication originale](https://x.com/CoinSh0t/status/2095898303019856230)
 
 ---
 
-<a id="gpt-6-astra-2095871735824339279"></a>
+<a id="2095871735824339279"></a>
 
 ## Une ville de Van Gogh en Three.js
 
@@ -1129,11 +1129,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Crée une ville Three.js où se promener, inspirée de Van Gogh. Transforme rues peintes, étoiles, cafés et champs en espaces 3D superposés tout en gardant la touche picturale vivante grâce aux shaders, aux textures et à l'éclairage animé.
 ```
 
-[Publication originale](https://x.com/RealFedeURU/status/2095871735824339279)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/van-gogh-town-in-three-js-2095871735824339279) · [Publication originale](https://x.com/RealFedeURU/status/2095871735824339279)
 
 ---
 
-<a id="gpt-6-astra-2095805115580199372"></a>
+<a id="2095805115580199372"></a>
 
 ## Se promener dans les rues de La Nuit étoilée
 
@@ -1154,11 +1154,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Réunis six tableaux de Van Gogh en une ville explorable où les visiteurs peuvent se promener dans les rues de La Nuit étoilée. Conçois des passages naturels entre les tableaux, conserve une échelle cohérente et ajoute de légères interactions d'ambiance.
 ```
 
-[Publication originale](https://x.com/BigRyan/status/2095805115580199372)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372) · [Publication originale](https://x.com/BigRyan/status/2095805115580199372)
 
 ---
 
-<a id="gpt-6-astra-2095742344293454148"></a>
+<a id="2095742344293454148"></a>
 
 ## Une table de trains d'enfance à piloter
 
@@ -1179,11 +1179,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Recrée une table de trains d'enfance sous forme de jouet Three.js tactile avec voies et matériel roulant voxel. Permets au joueur de conduire les trains, d'actionner les aiguillages, de tourner autour de la table et de découvrir des scènes miniatures animées.
 ```
 
-[Publication originale](https://x.com/BigRyan/status/2095742344293454148)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [Publication originale](https://x.com/BigRyan/status/2095742344293454148)
 
 ---
 
-<a id="gpt-6-astra-2095623452678144366"></a>
+<a id="2095623452678144366"></a>
 
 ## D'un texte à une ville Unity explorable
 
@@ -1204,11 +1204,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Transforme la vision de ville fournie en environnement Unity explorable avec tours, routes, véhicules, palmiers et éclairage d'ambiance. Établis une échelle crédible, la navigation, le mouvement de la circulation et une caméra à la première personne fluide.
 ```
 
-[Publication originale](https://x.com/0x0SojalSec/status/2095623452678144366)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/text-to-explorable-unity-city-2095623452678144366) · [Publication originale](https://x.com/0x0SojalSec/status/2095623452678144366)
 
 ---
 
-<a id="gpt-6-astra-2095650251902239139"></a>
+<a id="2095650251902239139"></a>
 
 ## Un aquarium pour comparer les modèles avec un seul prompt
 
@@ -1229,11 +1229,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 À partir de l'image de référence fournie, construis un jeu d'aquarium 3D avec un seul prompt. Reproduis la disposition et l'ambiance, ajoute des poissons vivants, des caustiques d'eau, des commandes orbitales et une petite boucle d'interaction adaptée à la comparaison des résultats des modèles.
 ```
 
-[Publication originale](https://x.com/iamtonyzhu/status/2095650251902239139)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/single-aquarium-benchmark-2095650251902239139) · [Publication originale](https://x.com/iamtonyzhu/status/2095650251902239139)
 
 ---
 
-<a id="gpt-6-astra-2095725404883476661"></a>
+<a id="2095725404883476661"></a>
 
 ## D'un plan à une visite 3D complète
 
@@ -1254,11 +1254,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Convertis le plan fourni en visite architecturale 3D complète. Respecte les dimensions des pièces et les circulations, ajoute portes, fenêtres, mobilier, matériaux et éclairage, puis crée un parcours de caméra qui explique l'agencement.
 ```
 
-[Publication originale](https://x.com/aidarosgo3/status/2095725404883476661)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [Publication originale](https://x.com/aidarosgo3/status/2095725404883476661)
 
 ---
 
-<a id="gpt-6-astra-2095777502681825541"></a>
+<a id="2095777502681825541"></a>
 
 ## Une vraie maison dans une scène Blender modifiable à 60 images/s
 
@@ -1279,11 +1279,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Reconstitue la maison réelle fournie sous forme de scène Blender entièrement modifiable. Sépare les éléments architecturaux et le mobilier, optimise la géométrie et les matériaux, et livre une visite rendue localement qui maintient 60 images par seconde.
 ```
 
-[Publication originale](https://x.com/alvinfoo/status/2095777502681825541)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [Publication originale](https://x.com/alvinfoo/status/2095777502681825541)
 
 ---
 
-<a id="gpt-6-astra-2095916820431827408"></a>
+<a id="2095916820431827408"></a>
 
 ## Street Heat : dérapages urbains dans le navigateur
 
@@ -1304,11 +1304,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Construis un jeu de course urbaine arcade complet pour navigateur à partir d'une seule phrase. Réalise une physique de dérapage satisfaisante, un score par combos, des bonus pour les frôlements, des radars, du nitro, de la circulation, un HUD lisible et un parcours court que l'on a envie de rejouer.
 ```
 
-[Publication originale](https://x.com/higgsfield_ai/status/2095916820431827408)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [Publication originale](https://x.com/higgsfield_ai/status/2095916820431827408)
 
 ---
 
-<a id="gpt-6-astra-2095616529572503593"></a>
+<a id="2095616529572503593"></a>
 
 ## Prévisualisation cinématographique d'un musée 3D
 
@@ -1329,11 +1329,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Construis une prévisualisation 3D de musée qui représente le lieu, les positions des acteurs, les placements de caméra et le découpage des plans. Garde chaque configuration dans la fenêtre de visualisation physique, puis exporte des guides cohérents pour la génération vidéo en aval.
 ```
 
-[Publication originale](https://x.com/higgsfield_ai/status/2095616529572503593)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593) · [Publication originale](https://x.com/higgsfield_ai/status/2095616529572503593)
 
 ---
 
-<a id="gpt-6-astra-2095695603808309497"></a>
+<a id="2095695603808309497"></a>
 
 ## Une publicité produit jouable de 15 secondes
 
@@ -1354,11 +1354,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Construis une démo interactive de 15 secondes de [produit], pensée d'abord pour le mobile. Permets à l'utilisateur d'essayer la fonction principale d'un geste, fournis un retour 3D immédiat et termine par un appel à l'action clair « Accéder à la version complète ». Utilise un format vertical 9:16 et conserve les couleurs de la marque.
 ```
 
-[Publication originale](https://x.com/zackpaid/status/2095695603808309497)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/playable-15-second-product-demo-ad-2095695603808309497) · [Publication originale](https://x.com/zackpaid/status/2095695603808309497)
 
 ---
 
-<a id="gpt-6-astra-2095624712244072551"></a>
+<a id="2095624712244072551"></a>
 
 ## Du plan à Blender puis à Unreal pour une visite architecturale
 
@@ -1379,11 +1379,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 À partir du plan architectural fourni, crée un modèle précis et modifiable dans Blender, puis transfère-le dans Unreal Engine sous forme de visite architecturale éclairée, avec une échelle et des collisions correctes.
 ```
 
-[Publication originale](https://x.com/LinusEkenstam/status/2095624712244072551)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551) · [Publication originale](https://x.com/LinusEkenstam/status/2095624712244072551)
 
 ---
 
-<a id="gpt-6-astra-2095752726886105375"></a>
+<a id="2095752726886105375"></a>
 
 ## Solace : de la villa forestière à la visite UE5
 
@@ -1404,11 +1404,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Crée une villa contemporaine en forêt, nommée Solace, que l'on peut visiter, avec trois chambres, un bureau, une cour centrale, une piscine et les bois alentour. Construis-la de manière procédurale dans Blender, rends des images fixes à l'heure dorée, puis exporte une visite UE5 à 60 images par seconde.
 ```
 
-[Publication originale](https://x.com/NFT_Chen/status/2095752726886105375)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [Publication originale](https://x.com/NFT_Chen/status/2095752726886105375)
 
 ---
 
-<a id="gpt-6-astra-2095844872171421771"></a>
+<a id="2095844872171421771"></a>
 
 ## Le défi d'une scène Blender en trente secondes
 
@@ -1429,11 +1429,11 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Construis une scène Blender cohérente dans un délai extrêmement court. Privilégie une silhouette forte, trois plans de profondeur, un matériau vedette, un éclairage cinématographique et une composition prête à filmer ; garde chaque objet modifiable.
 ```
 
-[Publication originale](https://x.com/_satyam_ai/status/2095844872171421771)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [Publication originale](https://x.com/_satyam_ai/status/2095844872171421771)
 
 ---
 
-<a id="gpt-6-astra-2095980885732704629"></a>
+<a id="2095980885732704629"></a>
 
 ## Une machine à réactions en chaîne de Rube Goldberg
 
@@ -1454,11 +1454,11 @@ Adapté de la description publique du projet par son auteur.
 Crée une machine de Rube Goldberg dans un fichier HTML Three.js autonome. Utilise une suite d'interactions mécaniques qui finit par appuyer sur un bouton et déclencher une explosion théâtrale.
 ```
 
-[Publication originale](https://x.com/thehypedotnews/status/2095980885732704629)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629) · [Publication originale](https://x.com/thehypedotnews/status/2095980885732704629)
 
 ---
 
-<a id="gpt-6-astra-2096035962824335798"></a>
+<a id="2096035962824335798"></a>
 
 ## Un Taj Mahal explorable
 
@@ -1479,11 +1479,11 @@ Adapté de la description publique du projet par son auteur.
 Recrée le Taj Mahal sous forme de scène 3D explorable. Privilégie ses proportions reconnaissables, ses jardins symétriques, son dôme central, ses minarets et les relations entre les bâtiments.
 ```
 
-[Publication originale](https://x.com/vikassabbi/status/2096035962824335798)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/explorable-taj-mahal-2096035962824335798) · [Publication originale](https://x.com/vikassabbi/status/2096035962824335798)
 
 ---
 
-<a id="gpt-6-astra-2096225621303042258"></a>
+<a id="2096225621303042258"></a>
 
 ## Un simulateur de rendez-vous orbital
 
@@ -1504,11 +1504,11 @@ Adapté de la description publique du projet par son auteur.
 Construis une simulation de rendez-vous orbital temps réel avec propagation à deux corps dans le repère ECI et guidage HCW. Inclus l'orientation à six degrés de liberté, la consommation de carburant, les limites de force et un objectif d'amarrage.
 ```
 
-[Publication originale](https://x.com/AlicanKiraz0/status/2096225621303042258)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/orbital-rendezvous-simulator-2096225621303042258) · [Publication originale](https://x.com/AlicanKiraz0/status/2096225621303042258)
 
 ---
 
-<a id="gpt-6-astra-2096180220839760375"></a>
+<a id="2096180220839760375"></a>
 
 ## Un remorqueur assemblé à partir d'images de référence
 
@@ -1529,11 +1529,11 @@ Adapté de la description publique du projet par son auteur.
 Reconstitue un remorqueur dans Blender à partir d'images de référence. Modélise la coque, la timonerie inclinée, les équipements de pont et de remorquage, en résolvant les incohérences entre vues pour obtenir un navire cohérent.
 ```
 
-[Publication originale](https://x.com/NarvisAlex/status/2096180220839760375)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/reference-image-tugboat-assembly-2096180220839760375) · [Publication originale](https://x.com/NarvisAlex/status/2096180220839760375)
 
 ---
 
-<a id="gpt-6-astra-2096059736693305794"></a>
+<a id="2096059736693305794"></a>
 
 ## Une perceuse reconstituée à partir d'une seule vue
 
@@ -1554,11 +1554,11 @@ Adapté de la description publique du projet par son auteur.
 Reconstitue une perceuse électrique dans Blender à partir d'une seule vue de référence. Modélise le boîtier, la poignée, le mandrin et les commandes en géométrie modifiable, puis inspecte le résultat sous plusieurs angles.
 ```
 
-[Publication originale](https://x.com/SkyeSharkie/status/2096059736693305794)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794) · [Publication originale](https://x.com/SkyeSharkie/status/2096059736693305794)
 
 ---
 
-<a id="gpt-6-astra-2095981655370666076"></a>
+<a id="2095981655370666076"></a>
 
 ## Un jeu d'oiseaux au lance-pierre en 3D
 
@@ -1579,11 +1579,11 @@ Adapté de la description publique du projet par son auteur.
 Construis un jeu de lance-pierre 3D avec quatre oiseaux aux pouvoirs distincts. Prévois des commandes de visée et de lâcher, des structures destructibles et une boucle de score rejouable.
 ```
 
-[Publication originale](https://x.com/MozeTech/status/2095981655370666076)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/3d-slingshot-bird-game-2095981655370666076) · [Publication originale](https://x.com/MozeTech/status/2095981655370666076)
 
 ---
 
-<a id="gpt-6-astra-2095962376344309843"></a>
+<a id="2095962376344309843"></a>
 
 ## Un jeu de tir à la troisième personne en bullet time
 
@@ -1604,11 +1604,11 @@ Adapté de la description publique du projet par son auteur.
 Construis un jeu de tir Three.js à la troisième personne inspiré de Max Payne. Concentre-toi sur l'action au ralenti, les sensations réactives des armes et une scène jouable avec une caméra de poursuite efficace.
 ```
 
-[Publication originale](https://x.com/HangoutWHAndrei/status/2095962376344309843)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/bullet-time-third-person-shooter-2095962376344309843) · [Publication originale](https://x.com/HangoutWHAndrei/status/2095962376344309843)
 
 ---
 
-<a id="gpt-6-astra-2096008241104711698"></a>
+<a id="2096008241104711698"></a>
 
 ## Une gelée WebGPU rebondissante
 
@@ -1629,11 +1629,11 @@ Adapté de la description publique du projet par son auteur.
 Crée une gelée rebondissante appétissante avec Three.js et WebGPU. Fais-la se déformer puis se stabiliser naturellement après une interaction, avec un matériau translucide et un éclairage lisible.
 ```
 
-[Publication originale](https://x.com/scottstts/status/2096008241104711698)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/bouncy-webgpu-jelly-2096008241104711698) · [Publication originale](https://x.com/scottstts/status/2096008241104711698)
 
 ---
 
-<a id="gpt-6-astra-2095967131573649552"></a>
+<a id="2095967131573649552"></a>
 
 ## Une manette PS5 interactive
 
@@ -1654,11 +1654,11 @@ Adapté de la description publique du projet par son auteur.
 Construis une manette PlayStation 5 inspectable dans Three.js avec silhouette reconnaissable, boutons, gâchettes, sticks analogiques et matériaux de surface distincts.
 ```
 
-[Publication originale](https://x.com/blueemi99/status/2095967131573649552)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/interactive-ps5-controller-2095967131573649552) · [Publication originale](https://x.com/blueemi99/status/2095967131573649552)
 
 ---
 
-<a id="gpt-6-astra-2096079660605997264"></a>
+<a id="2096079660605997264"></a>
 
 ## Astral War : un jeu de tir dans le navigateur
 
@@ -1679,11 +1679,11 @@ Adapté de la description publique du projet par son auteur.
 Construis un jeu de tir pour navigateur inspiré de World at War dans Three.js. Crée un champ de bataille complet et jouable avec combats réactifs, audio spatial, assets de personnages et déroulement des matchs.
 ```
 
-[Publication originale](https://x.com/0xRishi/status/2096079660605997264)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/astral-war-browser-shooter-2096079660605997264) · [Publication originale](https://x.com/0xRishi/status/2096079660605997264)
 
 ---
 
-<a id="gpt-6-astra-2096079976433082502"></a>
+<a id="2096079976433082502"></a>
 
 ## D'un schéma PDF à un circuit imprimé et sa vue 3D
 
@@ -1704,11 +1704,11 @@ Adapté de la description publique du projet par son auteur.
 Utilise un schéma PDF pour réviser un circuit dans KiCad, router un PCB double couche de 50 sur 20 mm et réaliser le rendu de son assemblage 3D. Consulte les fiches techniques des composants et corrige les violations des règles de conception.
 ```
 
-[Publication originale](https://x.com/swjtutl/status/2096079976433082502)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Publication originale](https://x.com/swjtutl/status/2096079976433082502)
 
 ---
 
-<a id="gpt-6-astra-2096149823216898445"></a>
+<a id="2096149823216898445"></a>
 
 ## Un jeu de vol dans le navigateur
 
@@ -1729,11 +1729,11 @@ Adapté de la description publique du projet par son auteur.
 Crée un jeu de vol 3D complet dans le navigateur. À partir d'un projet vide, prévois un vol pilotable, un environnement navigable, un objectif clair et une présentation cohérente.
 ```
 
-[Publication originale](https://x.com/givros/status/2096149823216898445)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/browser-flight-game-2096149823216898445) · [Publication originale](https://x.com/givros/status/2096149823216898445)
 
 ---
 
-<a id="gpt-6-astra-2096082432197837065"></a>
+<a id="2096082432197837065"></a>
 
 ## Un tableau de bord avec globe interactif
 
@@ -1754,11 +1754,11 @@ Adapté de la description publique du projet par son auteur.
 Recrée un tableau de bord à globe 3D Three.js à partir d'une image de référence. Inclus des modes jour et nuit, des données géographiques lisibles et des commandes fonctionnelles conformes à la référence.
 ```
 
-[Publication originale](https://x.com/hqmank/status/2096082432197837065)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/interactive-globe-dashboard-2096082432197837065) · [Publication originale](https://x.com/hqmank/status/2096082432197837065)
 
 ---
 
-<a id="gpt-6-astra-2096107322536051057"></a>
+<a id="2096107322536051057"></a>
 
 ## La tour Azadi dans Blender
 
@@ -1779,11 +1779,11 @@ Adapté de la description publique du projet par son auteur.
 Crée un modèle Blender modifiable de la tour Azadi en soignant sa base évasée, son arc croisé, ses surfaces à motifs et ses proportions reconnaissables.
 ```
 
-[Publication originale](https://x.com/taesiri/status/2096107322536051057)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/azadi-tower-in-blender-2096107322536051057) · [Publication originale](https://x.com/taesiri/status/2096107322536051057)
 
 ---
 
-<a id="gpt-6-astra-2096245759121277132"></a>
+<a id="2096245759121277132"></a>
 
 ## Un site de studio 3D animé par le défilement
 
@@ -1804,11 +1804,11 @@ Adapté de la description publique du projet par son auteur.
 Transforme l'image de référence fournie en scène Three.js au sein d'un site de studio au défilement fluide. Coordonne les mouvements de caméra, la typographie et les transitions entre sections.
 ```
 
-[Publication originale](https://x.com/mx_debbiee/status/2096245759121277132)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [Publication originale](https://x.com/mx_debbiee/status/2096245759121277132)
 
 ---
 
-<a id="gpt-6-astra-2096244208533455049"></a>
+<a id="2096244208533455049"></a>
 
 ## Komorebi : du kayak en rivière
 
@@ -1829,11 +1829,11 @@ Adapté de la description publique du projet par son auteur.
 Construis un jeu de kayak 3D en rivière à l'esthétique inspirée de l'anime. Permets au joueur de pagayer à gauche et à droite pour éviter les obstacles, avec eau courante, paysages, musique et effets sonores générés par le code.
 ```
 
-[Publication originale](https://x.com/ItsmeAjayKV/status/2096244208533455049)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [Publication originale](https://x.com/ItsmeAjayKV/status/2096244208533455049)
 
 ---
 
-<a id="gpt-6-astra-2096243989439713677"></a>
+<a id="2096243989439713677"></a>
 
 ## Une bouteille réfractive au cœur d'un récit produit
 
@@ -1854,11 +1854,11 @@ Adapté de la description publique du projet par son auteur.
 Construis un site produit interactif autour d'une bouteille en verre WebGL photoréaliste. Utilise un liquide réfractif, une rotation pilotée par le défilement et une typographie affirmée tout en préservant les performances du navigateur.
 ```
 
-[Publication originale](https://x.com/himanshubuildss/status/2096243989439713677)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [Publication originale](https://x.com/himanshubuildss/status/2096243989439713677)
 
 ---
 
-<a id="gpt-6-astra-2096082580554777041"></a>
+<a id="2096082580554777041"></a>
 
 ## Des trains procéduraux en vue éclatée
 
@@ -1879,11 +1879,11 @@ Adapté de la description publique du projet par son auteur.
 Génère deux trains directement dans Three.js à partir de dimensions, de profils et de fonctions géométriques. Anime les roues et prévois une séquence de vue éclatée puis de réassemblage.
 ```
 
-[Publication originale](https://x.com/tomkrcha/status/2096082580554777041)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041) · [Publication originale](https://x.com/tomkrcha/status/2096082580554777041)
 
 ---
 
-<a id="gpt-6-astra-2096201415051911597"></a>
+<a id="2096201415051911597"></a>
 
 ## Un univers de jouets pour tout-petit
 
@@ -1904,11 +1904,11 @@ Adapté de la description publique du projet par son auteur.
 Construis une salle de jeux Three.js chaleureuse où un tout-petit passe d'un jouet à l'autre et utilise chacun avec une animation différente. Ajoute tapis de jeu, livres, étagères et structures à grimper, avec commandes orbitales et zoom.
 ```
 
-[Publication originale](https://x.com/aehyok/status/2096201415051911597)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/a-playful-toddler-toy-world-2096201415051911597) · [Publication originale](https://x.com/aehyok/status/2096201415051911597)
 
 ---
 
-<a id="gpt-6-astra-2096122429319852319"></a>
+<a id="2096122429319852319"></a>
 
 ## Une usine d'avions à réaction en activité
 
@@ -1929,11 +1929,11 @@ Adapté de la description publique du projet par son auteur.
 Renseigne-toi sur la fabrication aéronautique et construis une simulation Three.js d'usine d'avions à réaction en activité. Modélise les cycles des machines, postes de production, transports et goulots d'étranglement, puis teste le flux.
 ```
 
-[Publication originale](https://x.com/konstantinsaifo/status/2096122429319852319)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/live-jet-manufacturing-plant-2096122429319852319) · [Publication originale](https://x.com/konstantinsaifo/status/2096122429319852319)
 
 ---
 
-<a id="gpt-6-astra-2096251574918013135"></a>
+<a id="2096251574918013135"></a>
 
 ## Une bataille de kaijus en ville
 
@@ -1954,11 +1954,11 @@ Adapté de la description publique du projet par son auteur.
 Construis un jeu Three.js inspiré des kaijus en utilisant des modèles de créatures et des effets sonores générés. Crée des combats de géants lisibles et un environnement qui fait ressentir leur taille.
 ```
 
-[Publication originale](https://x.com/majidmanzarpour/status/2096251574918013135)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/kaiju-city-battle-2096251574918013135) · [Publication originale](https://x.com/majidmanzarpour/status/2096251574918013135)
 
 ---
 
-<a id="gpt-6-astra-2096220264413409648"></a>
+<a id="2096220264413409648"></a>
 
 ## Une tempête enfermée dans un cube
 
@@ -1979,11 +1979,11 @@ Adapté de la description publique du projet par son auteur.
 Génère une tempête enfermée dans un cube avec une météo contrôlable dans Three.js.
 ```
 
-[Publication originale](https://x.com/zwb44/status/2096220264413409648)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648) · [Publication originale](https://x.com/zwb44/status/2096220264413409648)
 
 ---
 
-<a id="gpt-6-astra-2096047660662722620"></a>
+<a id="2096047660662722620"></a>
 
 ## Zork devient un jeu d'action-aventure 3D
 
@@ -2004,11 +2004,11 @@ Adapté de la description publique du projet par son auteur.
 Transforme l'aventure textuelle classique Zork en jeu d'action-aventure 3D. Conserve son intrigue et ses énigmes, ajoute des scènes de combat et construis les personnages et environnements dans Three.js.
 ```
 
-[Publication originale](https://x.com/emollick/status/2096047660662722620)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620) · [Publication originale](https://x.com/emollick/status/2096047660662722620)
 
 ---
 
-<a id="gpt-6-astra-2096133339329536249"></a>
+<a id="2096133339329536249"></a>
 
 ## Un T. rex riggé et animé
 
@@ -2029,11 +2029,11 @@ Adapté de la description publique du projet par son auteur.
 Prends un modèle de T. rex généré, ajoute un rig et crée des mouvements crédibles. Affiche le personnage dans Three.js et vérifie que l'animation déforme le modèle de manière cohérente.
 ```
 
-[Publication originale](https://x.com/majidmanzarpour/status/2096133339329536249)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [Publication originale](https://x.com/majidmanzarpour/status/2096133339329536249)
 
 ---
 
-<a id="gpt-6-astra-2096174858837074198"></a>
+<a id="2096174858837074198"></a>
 
 ## La vie marine dans une tasse de café
 
@@ -2054,11 +2054,11 @@ Adapté de la description publique du projet par son auteur.
 Crée un écosystème marin miniature dans une tasse de café dans Three.js. Utilise une caméra dirigée pour révéler la vie aquatique tout en gardant la tasse et l'échelle miniature bien lisibles.
 ```
 
-[Publication originale](https://x.com/PolaczekSagi/status/2096174858837074198)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [Publication originale](https://x.com/PolaczekSagi/status/2096174858837074198)
 
 ---
 
-<a id="gpt-6-astra-2096250748099068377"></a>
+<a id="2096250748099068377"></a>
 
 ## Une démo Hyperloop interactive
 
@@ -2079,11 +2079,11 @@ Adapté de la description publique du projet par son auteur.
 Construis une démonstration Three.js interactive d'Hyperloop montrant une capsule de transport, les tubes de l'infrastructure et les déplacements dans le système.
 ```
 
-[Publication originale](https://x.com/hbanay98/status/2096250748099068377)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [Publication originale](https://x.com/hbanay98/status/2096250748099068377)
 
 ---
 
-<a id="gpt-6-astra-2096234355395903672"></a>
+<a id="2096234355395903672"></a>
 
 ## Un buste procédural de Napoléon
 
@@ -2104,11 +2104,11 @@ Adapté de la description publique du projet par son auteur.
 Code un buste 3D de Napoléon dans Three.js. Construis-le par étapes, inspecte-le sous différents angles et affine les proportions du visage et les détails des vêtements.
 ```
 
-[Publication originale](https://x.com/leploutos/status/2096234355395903672)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [Publication originale](https://x.com/leploutos/status/2096234355395903672)
 
 ---
 
-<a id="gpt-6-astra-2096226711222546461"></a>
+<a id="2096226711222546461"></a>
 
 ## Un hall de gare
 
@@ -2129,11 +2129,11 @@ Adapté de la description publique du projet par son auteur.
 Crée un hall de gare avec un rythme architectural marqué, une échelle crédible et des matériaux convaincants. Produis une scène 3D inspectable avec des vues de la gare soigneusement cadrées.
 ```
 
-[Publication originale](https://x.com/0xWormhole404/status/2096226711222546461)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/railway-station-concourse-2096226711222546461) · [Publication originale](https://x.com/0xWormhole404/status/2096226711222546461)
 
 ---
 
-<a id="gpt-6-astra-2096222790894661841"></a>
+<a id="2096222790894661841"></a>
 
 ## Un diorama animé pour les premiers pas
 
@@ -2154,11 +2154,11 @@ Adapté de la description publique du projet par son auteur.
 Construis un petit diorama d'accueil dans Blender et anime-le dans Three.js. Utilise des objets focaux clairs et de courtes séquences animées pour expliquer les premières actions de l'utilisateur.
 ```
 
-[Publication originale](https://x.com/EmilHovv/status/2096222790894661841)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/animated-onboarding-diorama-2096222790894661841) · [Publication originale](https://x.com/EmilHovv/status/2096222790894661841)
 
 ---
 
-<a id="gpt-6-astra-2096206082712768897"></a>
+<a id="2096206082712768897"></a>
 
 ## OX Vice Drive : conduire dans une ville ouverte
 
@@ -2179,11 +2179,11 @@ Adapté de la description publique du projet par son auteur.
 Construis un jeu de conduite pour navigateur dans une ville ouverte, avec circulation, dérapages et courses de livraison. Conçois une ville côtière agréable à parcourir et offrant une boucle de conduite complète.
 ```
 
-[Publication originale](https://x.com/qok_ai/status/2096206082712768897)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897) · [Publication originale](https://x.com/qok_ai/status/2096206082712768897)
 
 ---
 
-<a id="gpt-6-astra-2096111709496680842"></a>
+<a id="2096111709496680842"></a>
 
 ## Une publicité de jeu mobile rendue jouable
 
@@ -2204,11 +2204,11 @@ Adapté de la description publique du projet par son auteur.
 Utilise une publicité de jeu mobile comme référence pour construire un jeu pour navigateur jouable. Recrée son interaction centrale et utilise des assets Blender pour retrouver sa proposition visuelle.
 ```
 
-[Publication originale](https://x.com/buildingadlicio/status/2096111709496680842)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842) · [Publication originale](https://x.com/buildingadlicio/status/2096111709496680842)
 
 ---
 
-<a id="gpt-6-astra-2095999578419929412"></a>
+<a id="2095999578419929412"></a>
 
 ## Un jeu de combat d'arène anime dans Roblox
 
@@ -2229,11 +2229,11 @@ Adapté de la description publique du projet par son auteur.
 Crée un jeu de combat d'arène Roblox inspiré des affrontements entre univers d'anime. Construis l'arène et les personnages avec Blender et les assets disponibles, puis réalise une boucle de combat jouable.
 ```
 
-[Publication originale](https://x.com/WoahWurdz/status/2095999578419929412)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412) · [Publication originale](https://x.com/WoahWurdz/status/2095999578419929412)
 
 ---
 
-<a id="gpt-6-astra-2096258619574513880"></a>
+<a id="2096258619574513880"></a>
 
 ## Une physique de course pour navigateur en C# et WASM
 
@@ -2254,11 +2254,11 @@ Adapté de la description publique du projet par son auteur.
 Recrée un système de physique de course façon Trackmania en C#, exécute-le via WASM et affiche le circuit dans Three.js. Utilise des maillages de piste avec collisions et teste le comportement du véhicule.
 ```
 
-[Publication originale](https://x.com/achepta_tm/status/2096258619574513880)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Publication originale](https://x.com/achepta_tm/status/2096258619574513880)
 
 ---
 
-<a id="gpt-6-astra-2096141728487178503"></a>
+<a id="2096141728487178503"></a>
 
 ## Un rig automatique et des mouvements de kung-fu
 
@@ -2279,11 +2279,11 @@ Adapté de la description publique du projet par son auteur.
 Prends le personnage 3D fourni, crée un rig et ajoute la marche, la course et plusieurs mouvements de kung-fu. Inspecte les animations pour repérer les articulations cassées et les poses instables.
 ```
 
-[Publication originale](https://x.com/thebuggeddev/status/2096141728487178503)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [Publication originale](https://x.com/thebuggeddev/status/2096141728487178503)
 
 ---
 
-<a id="gpt-6-astra-2096107343268257953"></a>
+<a id="2096107343268257953"></a>
 
 ## D'une illustration à un personnage jouable
 
@@ -2304,11 +2304,11 @@ Adapté de la description publique du projet par son auteur.
 Recrée une illustration de personnage Noctavia sous forme de personnage 3D jouable. Conserve son langage graphique et construis un modèle complet adapté à une présentation interactive.
 ```
 
-[Publication originale](https://x.com/noctav1a/status/2096107343268257953)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/artwork-to-a-playable-character-2096107343268257953) · [Publication originale](https://x.com/noctav1a/status/2096107343268257953)
 
 ---
 
-<a id="gpt-6-astra-2096023793772998704"></a>
+<a id="2096023793772998704"></a>
 
 ## Un portfolio 3D personnel avec un globe des conférences
 
@@ -2329,11 +2329,11 @@ Adapté de la description publique du projet par son auteur.
 Transforme un portrait en personnage Blender au sein d'un portfolio WebGL éditorial. Ajoute un globe tournant qui situe les prises de parole et intègre les assets au site.
 ```
 
-[Publication originale](https://x.com/HowDevelop/status/2096023793772998704)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [Publication originale](https://x.com/HowDevelop/status/2096023793772998704)
 
 ---
 
-<a id="gpt-6-astra-2096056285896536086"></a>
+<a id="2096056285896536086"></a>
 
 ## Une tranche jouable Godot inspirée de Sonic
 
@@ -2354,11 +2354,11 @@ Adapté de la description publique du projet par son auteur.
 Construis un niveau 3D soigné inspiré de Sonic dans Godot avec des assets locaux et procéduraux. Privilégie l'élan, des déplacements réactifs, les anneaux, les loopings, les rails de glisse et un littoral tropical continu.
 ```
 
-[Publication originale](https://x.com/AiBattle_/status/2096056285896536086)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086) · [Publication originale](https://x.com/AiBattle_/status/2096056285896536086)
 
 ---
 
-<a id="gpt-6-astra-2096140378777010278"></a>
+<a id="2096140378777010278"></a>
 
 ## Un personnage viking dans Blender
 
@@ -2379,11 +2379,11 @@ Adapté de la description publique du projet par son auteur.
 Crée un personnage viking 3D modifiable dans Blender. Soigne la tenue reconnaissable, la structure du visage, les proportions du corps et une pose de présentation lisible.
 ```
 
-[Publication originale](https://x.com/fre4kspace/status/2096140378777010278)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/viking-character-in-blender-2096140378777010278) · [Publication originale](https://x.com/fre4kspace/status/2096140378777010278)
 
 ---
 
-<a id="gpt-6-astra-2096155883122413946"></a>
+<a id="2096155883122413946"></a>
 
 ## Dropzone : une arène de battle royale
 
@@ -2404,11 +2404,11 @@ Adapté de la description publique du projet par son auteur.
 Construis un battle royale pour navigateur à la troisième personne avec cercle de tempête, neuf ennemis IA, fusil à impulsion, santé et rechargement. Inclus des murs de couverture à placer et une boucle d'élimination complète.
 ```
 
-[Publication originale](https://x.com/Motion_Viz/status/2096155883122413946)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [Publication originale](https://x.com/Motion_Viz/status/2096155883122413946)
 
 ---
 
-<a id="gpt-6-astra-2096096998092841449"></a>
+<a id="2096096998092841449"></a>
 
 ## Une visite du jardin du musée de Suzhou
 
@@ -2429,11 +2429,11 @@ Adapté de la description publique du projet par son auteur.
 Utilise une page web sur le musée de Suzhou comme référence pour recréer son jardin dans Blender. Produis une visite continue qui préserve les relations entre architecture contemporaine et jardin paysager chinois traditionnel.
 ```
 
-[Publication originale](https://x.com/whosamberella/status/2096096998092841449)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449) · [Publication originale](https://x.com/whosamberella/status/2096096998092841449)
 
 ---
 
-<a id="gpt-6-astra-2095986941753712841"></a>
+<a id="2095986941753712841"></a>
 
 ## Une exposition scientifique interactive sur Titan
 
@@ -2454,11 +2454,11 @@ Adapté de la description publique du projet par son auteur.
 Construis une simulation pédagogique 3D de Titan, la plus grande lune de Saturne, avec environnement explorable et couche d'informations expliquant ses particularités physiques.
 ```
 
-[Publication originale](https://x.com/ArdaTugsat/status/2095986941753712841)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/interactive-titan-science-exhibit-2095986941753712841) · [Publication originale](https://x.com/ArdaTugsat/status/2095986941753712841)
 
 ---
 
-<a id="gpt-6-astra-2096040448477515874"></a>
+<a id="2096040448477515874"></a>
 
 ## Un écosystème WebGL qui évolue
 
@@ -2479,11 +2479,11 @@ Adapté de la description publique du projet par son auteur.
 Construis un écosystème évolutif 3D dans un seul fichier HTML en WebGL brut et GLSL. Fais interagir mutation, sélection naturelle, prédation, consommation d'énergie et liaisons multicellulaires.
 ```
 
-[Publication originale](https://x.com/yume_arasaki/status/2096040448477515874)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/evolving-webgl-ecosystem-2096040448477515874) · [Publication originale](https://x.com/yume_arasaki/status/2096040448477515874)
 
 ---
 
-<a id="gpt-6-astra-2096042360513904742"></a>
+<a id="2096042360513904742"></a>
 
 ## Un réseau de livraison avec fermeture de ponts
 
@@ -2504,11 +2504,11 @@ Adapté de la description publique du projet par son auteur.
 Construis une simulation de livraison 3D où la fermeture des ponts modifie les trajets des camions. Détecte les destinations inaccessibles et rétablis les livraisons lorsqu'un itinéraire rouvre.
 ```
 
-[Publication originale](https://x.com/AgentWorkflowLa/status/2096042360513904742)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742) · [Publication originale](https://x.com/AgentWorkflowLa/status/2096042360513904742)
 
 ---
 
-<a id="gpt-6-astra-2096062355692048605"></a>
+<a id="2096062355692048605"></a>
 
 ## Un simulateur Sinclair ZX Spectrum
 
@@ -2529,11 +2529,11 @@ Adapté de la description publique du projet par son auteur.
 Recrée un Sinclair ZX Spectrum 48K sous forme d'application de bureau 3D interactive. Inclus son clavier en caoutchouc, son lecteur de cassettes, son écran de démarrage, un jeu jouable et une interface de programmation BASIC.
 ```
 
-[Publication originale](https://x.com/DeryaTR_/status/2096062355692048605)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605) · [Publication originale](https://x.com/DeryaTR_/status/2096062355692048605)
 
 ---
 
-<a id="gpt-6-astra-2096092080397246707"></a>
+<a id="2096092080397246707"></a>
 
 ## D'un scan photogrammétrique à un salon modifiable
 
@@ -2554,11 +2554,11 @@ Adapté de la description publique du projet par son auteur.
 Reconstitue un salon dans Blender à partir d'un scan photogrammétrique. Modélise la scène de zéro, récupère les textures du scan et utilise des shaders procéduraux lorsque c'est pertinent.
 ```
 
-[Publication originale](https://x.com/bilawalsidhu/status/2096092080397246707)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/photogrammetry-scan-to-editable-living-room-2096092080397246707) · [Publication originale](https://x.com/bilawalsidhu/status/2096092080397246707)
 
 ---
 
-<a id="gpt-6-astra-2096135808243876152"></a>
+<a id="2096135808243876152"></a>
 
 ## Une aventure de plateformes inspirée d'Odyssey
 
@@ -2579,11 +2579,11 @@ Adapté de la description publique du projet par son auteur.
 Construis un niveau Three.js inspiré d'Odyssey avec huit plateformes, trois lunes à collecter, des attaques au chapeau qui revient, des ennemis et des points de contrôle. Ajoute des commandes tactiles et teste une partie complète.
 ```
 
-[Publication originale](https://x.com/AiHubMix/status/2096135808243876152)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [Publication originale](https://x.com/AiHubMix/status/2096135808243876152)
 
 ---
 
-<a id="gpt-6-astra-2096221988763173186"></a>
+<a id="2096221988763173186"></a>
 
 ## L'anatomie humaine en vue éclatée interactive
 
@@ -2604,11 +2604,11 @@ Adapté de la description publique du projet par son auteur.
 Construis un site d'anatomie 3D où le corps humain se sépare en structures inspectables individuellement. Rends la vue éclatée navigable et organise les parties en systèmes pertinents.
 ```
 
-[Publication originale](https://x.com/ashebytes/status/2096221988763173186)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186) · [Publication originale](https://x.com/ashebytes/status/2096221988763173186)
 
 ---
 
-<a id="gpt-6-astra-2096009146248122416"></a>
+<a id="2096009146248122416"></a>
 
 ## Une Tesla Model X en vue éclatée
 
@@ -2629,11 +2629,11 @@ Adapté de la description publique du projet par son auteur.
 Crée un site 3D qui décompose une Tesla Model X en composants modélisés. Permets aux visiteurs d'inspecter les assemblages et de remonter le véhicule de manière interactive.
 ```
 
-[Publication originale](https://x.com/ashebytes/status/2096009146248122416)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/tesla-model-x-exploded-view-2096009146248122416) · [Publication originale](https://x.com/ashebytes/status/2096009146248122416)
 
 ---
 
-<a id="gpt-6-astra-2096241295949975602"></a>
+<a id="2096241295949975602"></a>
 
 ## Une machine à capsules de souvenirs
 
@@ -2654,11 +2654,11 @@ Adapté de la description publique du projet par son auteur.
 Construis une machine 3D à capsules de souvenirs. Tourne une molette pour libérer un souvenir, modélise le mécanisme dans Blender et donne aux capsules qui tombent des mouvements et des sons crédibles.
 ```
 
-[Publication originale](https://x.com/gloria_zwq/status/2096241295949975602)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/memory-capsule-machine-2096241295949975602) · [Publication originale](https://x.com/gloria_zwq/status/2096241295949975602)
 
 ---
 
-<a id="gpt-6-astra-2096125193580113957"></a>
+<a id="2096125193580113957"></a>
 
 ## Une Formule 1 dans Blender
 
@@ -2679,6 +2679,6 @@ Adapté de la description publique du projet par son auteur.
 Crée un modèle 3D de Formule 1 dans Blender en pilotant l'ordinateur.
 ```
 
-[Publication originale](https://x.com/Conor_D_Dart/status/2096125193580113957)
+[Tripo ↗](https://www.tripo3d.ai/fr/3d-prompts/formula-one-car-in-blender-2096125193580113957) · [Publication originale](https://x.com/Conor_D_Dart/status/2096125193580113957)
 
 ---

@@ -3,7 +3,7 @@
   "model": "gpt-6-astra",
   "count": 103,
   "prompts": {
-    "gpt-6-astra-2095596175705399482": {
+    "2095596175705399482": {
       "title": "Unreal 自主人類生存社會",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "在 Unreal Engine 中建立一個由自主人類智慧體組成的世界。賦予每個人獨立需求與共同生存目標，讓他們在玩家離開後仍會交流、分工、搭建庇護所並維持社會運轉。",
@@ -14,9 +14,9 @@
         "自主智慧體",
         "生存模擬"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095596175705399482"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"
     },
-    "gpt-6-astra-2095609734845927525": {
+    "2095609734845927525": {
       "title": "逐街復刻曼哈頓 Unreal 世界",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "在 Unreal Engine 中建置可探索的曼哈頓世界。按行政區與街道逐步製作，保留可辨識的尺度、道路、地標、交通和街區氣質，併為每個區域建立驗收清單，合格後再繼續。",
@@ -27,9 +27,9 @@
         "曼哈頓",
         "開放世界"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095609734845927525"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525"
     },
-    "gpt-6-astra-2095636679264780481": {
+    "2095636679264780481": {
       "title": "Blender 現代別墅場景",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "在 Blender 中建置完整的現代別墅場景，包含合理建築結構、帶傢俱的室內、無邊泳池、景觀、真實材質與黃金時刻電影鏡頭。",
@@ -40,9 +40,9 @@
         "別墅",
         "建築視覺化"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095636679264780481"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/modern-villa-scene-in-blender-2095636679264780481"
     },
-    "gpt-6-astra-2095599934766764338": {
+    "2095599934766764338": {
       "title": "一次生成的瀏覽器 3D 遊戲",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "在一個自包含專案中建立可直接在瀏覽器執行的完整 3D 遊戲，包含清晰目標、靈敏控制、空間連貫關卡、敵人或危險、回饋、計分、重開與效能保護。",
@@ -53,9 +53,9 @@
         "單次生成",
         "空間推理"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095599934766764338"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/one-shot-browser-3d-game-2095599934766764338"
     },
-    "gpt-6-astra-2095598645190291775": {
+    "2095598645190291775": {
       "title": "住宅照片轉可編輯 Blender 世界",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "把給定住宅圖片重建為完整可編輯的 Blender 場景。將建築、傢俱、電器和玩具建成獨立物件，保持合理比例，並讓結果能在本地以流暢 60 FPS 漫遊。",
@@ -66,9 +66,9 @@
         "圖片轉 3D",
         "可編輯房屋"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095598645190291775"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775"
     },
-    "gpt-6-astra-2095612137582526615": {
+    "2095612137582526615": {
       "title": "房產頁面轉 3D 宣傳片",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "使用給定房產頁面及全部照片重建 3D 住宅，推斷連貫戶型，再製作精緻宣傳漫遊影片。標記不確定的幾何關係，並在首輪後繼續修正偏差。",
@@ -79,9 +79,9 @@
         "房源照片",
         "3D 漫遊"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095612137582526615"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615"
     },
-    "gpt-6-astra-2095756085890310311": {
+    "2095756085890310311": {
       "title": "蒸汽火車圖紙轉 Blender 裝配體",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "把給定復古蒸汽火車圖紙在 Blender 中重建為高細節機械裝配體。車輪、車軸、懸掛、連桿、鍋爐配件與車身面板都要成為命名清晰、可編輯的物件，並允許控制細節預算。",
@@ -92,9 +92,9 @@
         "蒸汽機車",
         "機械建模"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095756085890310311"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311"
     },
-    "gpt-6-astra-2095630197257367857": {
+    "2095630197257367857": {
       "title": "程式化橢圓形辦公室佈景",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "把橢圓形辦公室的佈景描述轉為可執行場景程式碼，在 Blender 中建置可編輯傢俱、牆體、燈光與機位，再用 Cycles 輸出電影感渲染。",
@@ -105,9 +105,9 @@
         "Cycles",
         "場景設計"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095630197257367857"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857"
     },
-    "gpt-6-astra-2095597137849446688": {
+    "2095597137849446688": {
       "title": "一次生成的 Minecraft 風世界",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "一次建置可玩的 Minecraft 風格體素世界，包含地形生成、方塊放置與破壞、第一人稱控制、物品欄、燈光、水體和緊湊生存迴圈。",
@@ -118,9 +118,9 @@
         "《我的世界》風格",
         "單次生成"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095597137849446688"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/one-shot-minecraft-style-world-2095597137849446688"
     },
-    "gpt-6-astra-2095653641164329143": {
+    "2095653641164329143": {
       "title": "Blender 復刻藝術宮",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "在 Blender 中復刻舊金山藝術宮，準確表現穹頂比例、柱廊、瀉湖、植被、風化材質，並加入具有世博時代樂觀氣質的電影燈光。",
@@ -131,9 +131,9 @@
         "藝術宮",
         "建築"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095653641164329143"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143"
     },
-    "gpt-6-astra-2095776685807346105": {
+    "2095776685807346105": {
       "title": "六幅梵高畫作組成的可漫遊小鎮",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "把六幅給定梵高畫作融合成一個連貫、可漫遊的 Three.js 小鎮。保留每幅畫的色板與筆觸氣質，同時用街道、地標與轉場將其連線為可探索世界。",
@@ -144,9 +144,9 @@
         "梵高",
         "可漫遊的藝術世界"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095776685807346105"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"
     },
-    "gpt-6-astra-2095608358086840647": {
+    "2095608358086840647": {
       "title": "面向零經驗使用者的語音 3D 遊戲",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "充當我的 3D 遊戲建置器。只追問缺失的玩家目標、美術方向和控制方式，然後建立可立即遊玩的瀏覽器遊戲，並支援我用簡短語音指令持續修改。",
@@ -157,9 +157,9 @@
         "3D 遊戲",
         "新手入門"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095608358086840647"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647"
     },
-    "gpt-6-astra-2095580402505400369": {
+    "2095580402505400369": {
       "title": "一個灰盒生成三款主題卡丁車遊戲",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "基於給定 Unity 卡丁車灰盒製作海盜、糖果和賽博朋克三款可玩主題版本。重複使用核心駕駛迴圈，替換環境與回饋，親自測試每個版本並修復最明顯的問題。",
@@ -170,9 +170,9 @@
         "卡丁車競速",
         "灰盒原型"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095580402505400369"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369"
     },
-    "gpt-6-astra-2095596341422440714": {
+    "2095596341422440714": {
       "title": "瀏覽器開放世界冒險",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "建置開放世界 3D 冒險，包含多個相連生態區、移動、發現、輕戰鬥、任務、地標與晝夜氛圍，並提供足夠引導，讓探索具有目標感。",
@@ -183,9 +183,9 @@
         "冒險遊戲",
         "瀏覽器 3D"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095596341422440714"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/open-world-browser-adventure-2095596341422440714"
     },
-    "gpt-6-astra-2095619319690400253": {
+    "2095619319690400253": {
       "title": "照片級 3D 產品樣機工具",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "建立瀏覽器工具，把上傳的圖案貼到照片級 3D 產品樣機上。支援環繞鏡頭、材質與顏色控制、環境燈光、多種產品和高解析度匯出。",
@@ -196,9 +196,9 @@
         "產品視覺化",
         "瀏覽器工具"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095619319690400253"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253"
     },
-    "gpt-6-astra-2095673885605630429": {
+    "2095673885605630429": {
       "title": "程式化鮮活海洋與風暴模擬",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "把給定單檔案海面風暴生成器擴充套件為完整程式化海洋，加入珊瑚礁、深海、可信天氣、具有湧現行為的動物種群、生態互動，以及可在水面與水下切換的鏡頭。",
@@ -209,9 +209,9 @@
         "程式化海洋",
         "動物模擬"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095673885605630429"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429"
     },
-    "gpt-6-astra-2095611134992945385": {
+    "2095611134992945385": {
       "title": "參考圖驅動的 3D 水族館遊戲",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "使用給定參考圖一次建置完整 3D 水族館遊戲。重建魚缸構圖，製作魚類動畫，並加入餵食、收集、水體效果、鏡頭控制與清晰目標。",
@@ -222,9 +222,9 @@
         "參考圖",
         "單條提示詞"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095611134992945385"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/reference-image-3d-aquarium-game-2095611134992945385"
     },
-    "gpt-6-astra-2095647685210669541": {
+    "2095647685210669541": {
       "title": "單提示詞生成可玩實時 3D 遊戲",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "用一條提示詞建置可玩的實時 3D 遊戲。定義緊湊的核心機制、明確目標與簡短故事，再生成場景、角色、道具、回饋和重開狀態，讓結果能夠立即遊玩。",
@@ -235,9 +235,9 @@
         "可玩遊戲",
         "單條提示詞"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095647685210669541"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/single-playable-real-time-3d-game-2095647685210669541"
     },
-    "gpt-6-astra-2095840435319001278": {
+    "2095840435319001278": {
       "title": "單輪 Three.js 海戰場景",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "單輪建立高細節 Three.js 海戰場景，包含多種不同艦船、可信水體互動、尾流與飛沫、空中行動、爆炸、電影燈光、鏡頭運動和兼顧效能的渲染。",
@@ -248,9 +248,9 @@
         "海戰",
         "單輪生成"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095840435319001278"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278"
     },
-    "gpt-6-astra-2095598026916049024": {
+    "2095598026916049024": {
       "title": "10v10 Halo 風多人 FPS",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "建置 10 對 10 多人競技場射擊遊戲，靈感來自經典科幻 FPS。包含陣營、復活、易讀武器、護盾、拾取物、緊湊地圖、計分、比賽流程與低延遲瀏覽器遊玩。",
@@ -261,9 +261,9 @@
         "科幻競技場",
         "10v10"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095598026916049024"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024"
     },
-    "gpt-6-astra-2095719731860750613": {
+    "2095719731860750613": {
       "title": "可互動體素鐵路沙盤",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "用 Three.js 建置高細節體素鐵路沙盤。允許使用者啟停多列火車、切換軌道、旋轉縮放檢視沙盤、探索微縮城鎮並觸發環境小動畫。",
@@ -274,9 +274,9 @@
         "體素火車",
         "互動玩具"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095719731860750613"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-voxel-railway-table-2095719731860750613"
     },
-    "gpt-6-astra-2095699049722581065": {
+    "2095699049722581065": {
       "title": "瓶中鮮活體素帆船",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "建立一艘在玻璃瓶中航行的高細節 17 世紀體素帆船。模擬起伏海浪與船體運動，加入盤旋海鷗、微型港口和珊瑚礁，再製作電影鏡頭與舒緩配樂。",
@@ -287,9 +287,9 @@
         "瓶中船",
         "體素藝術"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095699049722581065"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065"
     },
-    "gpt-6-astra-2095641163441254676": {
+    "2095641163441254676": {
       "title": "可列印的企業號 CAD 裝配體",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "在 CAD 中設計一個可列印的企業號 NCC-1701 致敬模型。包含可辨識比例、艦橋和部分內飾、至少 28 個可運動部件、分離裝配體與可匯出的製造檔案。",
@@ -300,9 +300,9 @@
         "星際飛船",
         "3D 列印"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095641163441254676"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676"
     },
-    "gpt-6-astra-2095630044102279312": {
+    "2095630044102279312": {
       "title": "Unity 太空戰壕突襲遊戲",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "在 Unity 中重現經典太空戰壕突襲體驗，包含高速低空飛行、炮塔火力、障礙、瞄準、不斷升級的壓力、最終目標和電影感成敗演出。",
@@ -313,9 +313,9 @@
         "戰壕飛行",
         "太空遊戲"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095630044102279312"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/unity-space-trench-run-game-2095630044102279312"
     },
-    "gpt-6-astra-2093690427849191855": {
+    "2093690427849191855": {
       "title": "程式化體素城堡展示",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "生成大型體素城堡，清晰表現防禦層級、塔樓、城牆、城門、庭院與周邊地形。使用例項化、環繞鏡頭、變化光照和確定性生成，讓結果穩定且可檢視。",
@@ -326,9 +326,9 @@
         "程式化建築",
         "例項化"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2093690427849191855"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-voxel-castle-showcase-2093690427849191855"
     },
-    "gpt-6-astra-2095597640587374887": {
+    "2095597640587374887": {
       "title": "現有資產驅動的 Unity 可探索城市",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "使用給定資產庫組裝可探索的 Unity 城市。建立連貫道路、高樓、車輛、棕櫚樹、燈光與導航，然後最佳化場景並交付穩定的第一人稱漫遊。",
@@ -339,9 +339,9 @@
         "城市拼裝",
         "資產庫"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095597640587374887"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887"
     },
-    "gpt-6-astra-2095868420327710840": {
+    "2095868420327710840": {
       "title": "機械結構完整的 Blender 機車",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "在 Blender 中把蒸汽機車建成真正的機械分解體，而不是貼圖外殼。命名並分離車軸、軸箱導軌、軸頸座、拉桿、懸掛連桿、蒸汽穹頂和各主要裝配件。",
@@ -352,9 +352,9 @@
         "機車",
         "機械裝配"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095868420327710840"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840"
     },
-    "gpt-6-astra-2095819786651374023": {
+    "2095819786651374023": {
       "title": "Tidal Rush 八人卡丁車遊戲",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "建置完整瀏覽器卡丁車遊戲，包含 8 名車手、3 圈比賽、漂移、可拾取道具、靈敏物理、清晰 HUD、精緻畫面和終點結果頁。",
@@ -365,9 +365,9 @@
         "瀏覽器遊戲",
         "漂移"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095819786651374023"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023"
     },
-    "gpt-6-astra-2095805694603673631": {
+    "2095805694603673631": {
       "title": "實時 WebGL 星系首屏",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "分析給定星系首屏的視覺語言，並用實時 WebGL 而不是影片重建。使用具有景深的粒子、發光塵埃、流暢指標響應、剋制的排版留白與自適應效能。",
@@ -378,9 +378,9 @@
         "星系首屏",
         "互動網站"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095805694603673631"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631"
     },
-    "gpt-6-astra-2095898198413922791": {
+    "2095898198413922791": {
       "title": "自動遊玩的國家文化街機遊戲",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "為一個 G7 國家建置自動遊玩的街機遊戲。把一個可辨識文化地標轉成核心機制，讓無人操作時也能看懂玩法，並加入計分、升級挑戰和記憶點揭曉。",
@@ -391,9 +391,9 @@
         "文化主題遊戲",
         "自動遊玩"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095898198413922791"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791"
     },
-    "gpt-6-astra-2095597560253862065": {
+    "2095597560253862065": {
       "title": "一次生成的高階互動原型",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "根據給定產品概念一次設計並實現高階互動原型。選擇鮮明視覺系統，突出主要動作，加入精緻轉場，並交付響應式可託管版本。",
@@ -404,9 +404,9 @@
         "單次生成",
         "產品設計"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095597560253862065"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065"
     },
-    "gpt-6-astra-2095776712579571725": {
+    "2095776712579571725": {
       "title": "可拆解互動式 3D 渦輪增壓器",
       "description": "作者在所連結的 X 原帖中公開了準確任務表述；這裡只做了輕微標點與格式規範化。",
       "prompt": "建置一個互動式 3D 渦輪增壓器。拆分所有工作系統，讓我能夠旋轉、隔離部件，並看清機器實際如何運作。",
@@ -417,9 +417,9 @@
         "渦輪增壓器",
         "爆炸圖"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095776712579571725"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725"
     },
-    "gpt-6-astra-2095663498101662198": {
+    "2095663498101662198": {
       "title": "一次生成的 Three.js 驚喜遊戲",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "一次生成一款配得上“Amaze”之名的原創 Three.js 遊戲。選擇一個令人驚訝的視覺機制，在數秒內教會玩家，建置短成長曲線，並以令人滿足的奇觀收尾。",
@@ -430,9 +430,9 @@
         "創意遊戲",
         "單次生成"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095663498101662198"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198"
     },
-    "gpt-6-astra-2095907526566990013": {
+    "2095907526566990013": {
       "title": "快速可玩遊戲原型",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "在嚴格時間與 Token 預算下建立視覺連貫的可玩遊戲原型。優先保證一個完整迴圈、靈敏輸入、清晰回饋、穩定效能和可交付瀏覽器版本，而不是堆功能數量。",
@@ -443,9 +443,9 @@
         "遊戲開發",
         "預算限制"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095907526566990013"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/rapid-playable-game-prototype-2095907526566990013"
     },
-    "gpt-6-astra-2095872986477908108": {
+    "2095872986477908108": {
       "title": "提示詞生成開放世界遊戲",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "根據這個概念建置開放世界遊戲：[世界設定]。包含三個不同區域、移動、動態遭遇、簡單任務鏈、地標、儲存與重開，並做足最佳化以在瀏覽器執行。",
@@ -456,9 +456,9 @@
         "提示詞生成遊戲",
         "瀏覽器遊戲"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095872986477908108"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/open-world-game-from-a-prompt-2095872986477908108"
     },
-    "gpt-6-astra-2095806515579879457": {
+    "2095806515579879457": {
       "title": "互動式 Three.js 星系首頁",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "圍繞實時 Three.js 星系建立高階釋出頁首屏。讓粒子形成隱約的數字 6 輪廓，響應滾動和指標，同時保證文字可讀，並在低效能裝置優雅降級。",
@@ -469,9 +469,9 @@
         "落地頁",
         "粒子星系"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095806515579879457"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457"
     },
-    "gpt-6-astra-2095898303019856230": {
+    "2095898303019856230": {
       "title": "Blender 迴圈賽博朋克臥室",
       "description": "作者在所連結的 X 原帖中公開了準確任務表述；這裡只做了輕微標點與格式規範化。",
       "prompt": "在 Blender 中建立一個電影感賽博朋克臥室，俯瞰雨夜霓虹城市。加入動態廣告牌，讓畫面達到照片級並實現無縫迴圈。",
@@ -482,9 +482,9 @@
         "賽博朋克臥室",
         "無縫迴圈"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095898303019856230"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230"
     },
-    "gpt-6-astra-2095871735824339279": {
+    "2095871735824339279": {
       "title": "Three.js 梵高小鎮",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "建立受梵高啟發的可漫遊 Three.js 小鎮。把畫中的街道、星空、咖啡館與田野轉為分層 3D 空間，並透過 Shader、紋理和動態燈光保留筆觸生命力。",
@@ -495,9 +495,9 @@
         "梵高",
         "風格化小鎮"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095871735824339279"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/van-gogh-town-in-three-js-2095871735824339279"
     },
-    "gpt-6-astra-2095805115580199372": {
+    "2095805115580199372": {
       "title": "可漫步的星月夜街道",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "把六幅梵高畫作組合成一座可探索小鎮，讓訪客能漫步在《星月夜》的街道中。為畫作之間設計自然入口，保持尺度連貫，並加入輕柔環境互動。",
@@ -508,9 +508,9 @@
         "可漫遊小鎮",
         "Three.js"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095805115580199372"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372"
     },
-    "gpt-6-astra-2095742344293454148": {
+    "2095742344293454148": {
       "title": "可駕駛的童年火車沙盤",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "把童年火車沙盤重建為具有觸感的 Three.js 玩具，使用體素軌道與車輛。允許玩家駕駛火車、切換岔道、環繞檢視沙盤並發現動態微縮場景。",
@@ -521,9 +521,9 @@
         "沙盤火車",
         "互動玩具"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095742344293454148"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/driveable-childhood-train-table-2095742344293454148"
     },
-    "gpt-6-astra-2095623452678144366": {
+    "2095623452678144366": {
       "title": "文字生成可探索 Unity 城市",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "把給定城市願景轉為可探索 Unity 環境，包含高樓、道路、車輛、棕櫚樹與氛圍燈光，並建立可信尺度、導航、交通動態和流暢第一人稱鏡頭。",
@@ -534,9 +534,9 @@
         "3D 城市",
         "文字生成世界"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095623452678144366"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/text-to-explorable-unity-city-2095623452678144366"
     },
-    "gpt-6-astra-2095650251902239139": {
+    "2095650251902239139": {
       "title": "單提示詞水族館對比任務",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "根據給定參考圖用一條提示詞建置 3D 水族館遊戲。匹配佈局與氛圍，加入生動魚群行為、水下焦散、環繞控制和適合模型對比的小互動迴圈。",
@@ -547,9 +547,9 @@
         "水族箱",
         "參考圖"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095650251902239139"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/single-aquarium-benchmark-2095650251902239139"
     },
-    "gpt-6-astra-2095725404883476661": {
+    "2095725404883476661": {
       "title": "平面圖轉完整 3D 漫遊",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "把給定平面圖轉成完整 3D 建築漫遊。尊重房間尺寸與動線，加入門窗、傢俱、材質與燈光，再設計能說明佈局的鏡頭路徑。",
@@ -560,9 +560,9 @@
         "建築",
         "3D 漫遊"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095725404883476661"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661"
     },
-    "gpt-6-astra-2095777502681825541": {
+    "2095777502681825541": {
       "title": "真實住宅轉 60 FPS 可編輯 Blender 場景",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "把給定真實住宅重建為完全可編輯的 Blender 場景。分離建築與傢俱元素，最佳化幾何和材質，並交付可在本地穩定 60 FPS 渲染的漫遊。",
@@ -573,9 +573,9 @@
         "可編輯場景",
         "實時漫遊"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095777502681825541"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541"
     },
-    "gpt-6-astra-2095916820431827408": {
+    "2095916820431827408": {
       "title": "Street Heat 瀏覽器漂移賽車",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "根據一句話在瀏覽器中建置完整街機街頭賽車。實現爽快漂移物理、連擊計分、擦肩獎勵、測速點、氮氣、交通、清晰 HUD 和可重複遊玩的短賽道。",
@@ -586,9 +586,9 @@
         "漂移物理",
         "瀏覽器遊戲"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095916820431827408"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"
     },
-    "gpt-6-astra-2095616529572503593": {
+    "2095616529572503593": {
       "title": "3D 博物館電影預演",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "建置 3D 博物館電影預演，規劃場地、演員位置、鏡頭排程與分鏡表。確保每個機位都處在物理空間內，再為下游影片生成匯出一致的引導。",
@@ -599,9 +599,9 @@
         "博物館",
         "鏡頭排程"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095616529572503593"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593"
     },
-    "gpt-6-astra-2095695603808309497": {
+    "2095695603808309497": {
       "title": "15 秒可玩產品演示廣告",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "建置移動優先的 15 秒 [產品] 可互動演示。讓使用者用一個手勢體驗核心功能，獲得即時 3D 回饋，並以清晰的“獲取完整體驗”CTA 收尾。採用 9:16 豎屏並保留品牌色。",
@@ -612,9 +612,9 @@
         "3D 產品演示",
         "移動端互動"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095695603808309497"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/playable-15-second-product-demo-ad-2095695603808309497"
     },
-    "gpt-6-astra-2095624712244072551": {
+    "2095624712244072551": {
       "title": "藍圖經 Blender 到 Unreal 建築視覺化",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "從給定建築藍圖出發，在 Blender 中建立準確、可編輯的模型，再傳入 Unreal Engine，製作具有正確尺度、碰撞和燈光的可漫遊建築視覺化。",
@@ -625,9 +625,9 @@
         "Unreal Engine",
         "建築視覺化"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095624712244072551"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551"
     },
-    "gpt-6-astra-2095752726886105375": {
+    "2095752726886105375": {
       "title": "Solace 森林別墅從 Brief 到 UE5",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "建立名為 Solace 的可漫遊現代森林別墅，包含三間臥室、辦公室、中央庭院、泳池和周邊林地。在 Blender 中程式化建置，輸出黃金時刻靜幀，再匯出 60 FPS 的 UE5 漫遊。",
@@ -638,9 +638,9 @@
         "UE5",
         "現代別墅"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095752726886105375"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375"
     },
-    "gpt-6-astra-2095844872171421771": {
+    "2095844872171421771": {
       "title": "30 秒 Blender 場景挑戰",
       "description": "根據作者公開的專案描述整理為可重複使用任務說明；不將其冒充為未公開的逐字 Prompt。",
       "prompt": "在極限時間內建置連貫 Blender 場景。優先保證鮮明輪廓、三層景深、一個主角材質、電影燈光和可直接出圖的構圖，並保持所有物件可編輯。",
@@ -651,9 +651,9 @@
         "快速場景搭建",
         "可編輯幾何體"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095844872171421771"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771"
     },
-    "gpt-6-astra-2095980885732704629": {
+    "2095980885732704629": {
       "title": "魯布·戈德堡連鎖機械",
       "description": "在獨立 Three.js HTML 檔案中建立魯布·戈德堡機械，透過一連串機械互動最終按下按鈕並觸發戲劇化爆炸。",
       "prompt": "在獨立 Three.js HTML 檔案中建立魯布·戈德堡機械，透過一連串機械互動最終按下按鈕並觸發戲劇化爆炸。",
@@ -662,9 +662,9 @@
         "GPT-6 Astra",
         "Three.js"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095980885732704629"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629"
     },
-    "gpt-6-astra-2096035962824335798": {
+    "2096035962824335798": {
       "title": "可探索的泰姬陵",
       "description": "將泰姬陵重建為可探索的 3D 場景，優先還原比例、對稱花園、中央穹頂、宣禮塔及建築之間的關係。",
       "prompt": "將泰姬陵重建為可探索的 3D 場景，優先還原比例、對稱花園、中央穹頂、宣禮塔及建築之間的關係。",
@@ -672,9 +672,9 @@
       "tags": [
         "GPT-6 Astra"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096035962824335798"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/explorable-taj-mahal-2096035962824335798"
     },
-    "gpt-6-astra-2096225621303042258": {
+    "2096225621303042258": {
       "title": "軌道交會對接模擬",
       "description": "建置實時軌道交會模擬，採用雙體 ECI 軌道傳播與 HCW 制導，包含六自由度姿態、燃料消耗、推力限制和對接目標。",
       "prompt": "建置實時軌道交會模擬，採用雙體 ECI 軌道傳播與 HCW 制導，包含六自由度姿態、燃料消耗、推力限制和對接目標。",
@@ -682,9 +682,9 @@
       "tags": [
         "GPT-6 Astra"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096225621303042258"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/orbital-rendezvous-simulator-2096225621303042258"
     },
-    "gpt-6-astra-2096180220839760375": {
+    "2096180220839760375": {
       "title": "參考圖轉拖船模型",
       "description": "根據參考圖在 Blender 中重建拖船，製作船體、傾斜駕駛室、甲板附件與拖曳裝置，將不同視角統一成結構連貫的船。",
       "prompt": "根據參考圖在 Blender 中重建拖船，製作船體、傾斜駕駛室、甲板附件與拖曳裝置，將不同視角統一成結構連貫的船。",
@@ -693,9 +693,9 @@
         "GPT-6 Astra",
         "Blender"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096180220839760375"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/reference-image-tugboat-assembly-2096180220839760375"
     },
-    "gpt-6-astra-2096059736693305794": {
+    "2096059736693305794": {
       "title": "單檢視電鑽重建",
       "description": "根據單張參考圖在 Blender 中重建電鑽，將外殼、握柄、夾頭與控制件做成可編輯幾何體，並從多個角度檢視。",
       "prompt": "根據單張參考圖在 Blender 中重建電鑽，將外殼、握柄、夾頭與控制件做成可編輯幾何體，並從多個角度檢視。",
@@ -704,9 +704,9 @@
         "GPT-6 Astra",
         "Blender"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096059736693305794"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794"
     },
-    "gpt-6-astra-2095981655370666076": {
+    "2095981655370666076": {
       "title": "3D 彈弓小鳥遊戲",
       "description": "製作 3D 彈弓遊戲，包含四種具有不同技能的小鳥、瞄準釋放操作、可破壞結構與可重玩的計分迴圈。",
       "prompt": "製作 3D 彈弓遊戲，包含四種具有不同技能的小鳥、瞄準釋放操作、可破壞結構與可重玩的計分迴圈。",
@@ -714,9 +714,9 @@
       "tags": [
         "GPT-6 Astra"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095981655370666076"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/3d-slingshot-bird-game-2095981655370666076"
     },
-    "gpt-6-astra-2095962376344309843": {
+    "2095962376344309843": {
       "title": "子彈時間第三人稱射擊",
       "description": "建置受馬克思佩恩啟發的 Three.js 第三人稱射擊遊戲，重點實現慢動作、靈敏槍戰及有效的跟隨鏡頭。",
       "prompt": "建置受馬克思佩恩啟發的 Three.js 第三人稱射擊遊戲，重點實現慢動作、靈敏槍戰及有效的跟隨鏡頭。",
@@ -725,9 +725,9 @@
         "GPT-6 Astra",
         "Three.js"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095962376344309843"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/bullet-time-third-person-shooter-2095962376344309843"
     },
-    "gpt-6-astra-2096008241104711698": {
+    "2096008241104711698": {
       "title": "可點選彈跳的 WebGPU 果凍",
       "description": "用 Three.js 和 WebGPU 製作誘人的彈跳果凍，讓它在互動後自然變形與回彈，配合半透明材質和清晰燈光。",
       "prompt": "用 Three.js 和 WebGPU 製作誘人的彈跳果凍，讓它在互動後自然變形與回彈，配合半透明材質和清晰燈光。",
@@ -737,9 +737,9 @@
         "Three.js",
         "WebGPU"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096008241104711698"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/bouncy-webgpu-jelly-2096008241104711698"
     },
-    "gpt-6-astra-2095967131573649552": {
+    "2095967131573649552": {
       "title": "可互動的 PS5 手柄",
       "description": "在 Three.js 中建立可檢視的 PS5 手柄，還原輪廓、按鍵、扳機、搖桿與不同表面材質。",
       "prompt": "在 Three.js 中建立可檢視的 PS5 手柄，還原輪廓、按鍵、扳機、搖桿與不同表面材質。",
@@ -748,9 +748,9 @@
         "GPT-6 Astra",
         "Three.js"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095967131573649552"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-ps5-controller-2095967131573649552"
     },
-    "gpt-6-astra-2096079660605997264": {
+    "2096079660605997264": {
       "title": "Astral War 瀏覽器射擊遊戲",
       "description": "用 Three.js 建置受戰爭世界啟發的瀏覽器射擊遊戲，提供完整可玩戰場、靈敏戰鬥、空間音效、角色資產與比賽流程。",
       "prompt": "用 Three.js 建置受戰爭世界啟發的瀏覽器射擊遊戲，提供完整可玩戰場、靈敏戰鬥、空間音效、角色資產與比賽流程。",
@@ -759,9 +759,9 @@
         "GPT-6 Astra",
         "Three.js"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096079660605997264"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/astral-war-browser-shooter-2096079660605997264"
     },
-    "gpt-6-astra-2096079976433082502": {
+    "2096079976433082502": {
       "title": "原理圖 PDF 轉 PCB 與 3D 檢視",
       "description": "根據原理圖 PDF 在 KiCad 中修改電路，佈線 50×20 毫米雙層 PCB 並渲染 3D 裝配，核對元件資料並解決設計規則錯誤。",
       "prompt": "根據原理圖 PDF 在 KiCad 中修改電路，佈線 50×20 毫米雙層 PCB 並渲染 3D 裝配，核對元件資料並解決設計規則錯誤。",
@@ -769,9 +769,9 @@
       "tags": [
         "GPT-6 Astra"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096079976433082502"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502"
     },
-    "gpt-6-astra-2096149823216898445": {
+    "2096149823216898445": {
       "title": "瀏覽器飛行遊戲",
       "description": "從空專案建置完整瀏覽器 3D 飛行遊戲，提供可控飛行、可探索環境、明確目標與連貫視覺呈現。",
       "prompt": "從空專案建置完整瀏覽器 3D 飛行遊戲，提供可控飛行、可探索環境、明確目標與連貫視覺呈現。",
@@ -779,9 +779,9 @@
       "tags": [
         "GPT-6 Astra"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096149823216898445"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/browser-flight-game-2096149823216898445"
     },
-    "gpt-6-astra-2096082432197837065": {
+    "2096082432197837065": {
       "title": "互動式地球儀儀表盤",
       "description": "根據參考圖重建 Three.js 地球儀儀表盤，包含晝夜模式、清晰地理資料與符合參考的可用控制元件。",
       "prompt": "根據參考圖重建 Three.js 地球儀儀表盤，包含晝夜模式、清晰地理資料與符合參考的可用控制元件。",
@@ -790,9 +790,9 @@
         "GPT-6 Astra",
         "Three.js"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096082432197837065"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-globe-dashboard-2096082432197837065"
     },
-    "gpt-6-astra-2096107322536051057": {
+    "2096107322536051057": {
       "title": "Blender 自由紀念塔",
       "description": "建立可編輯的 Blender 自由紀念塔模型，重點還原外展基座、交叉拱門、表面圖案與可識別比例。",
       "prompt": "建立可編輯的 Blender 自由紀念塔模型，重點還原外展基座、交叉拱門、表面圖案與可識別比例。",
@@ -801,9 +801,9 @@
         "GPT-6 Astra",
         "Blender"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096107322536051057"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/azadi-tower-in-blender-2096107322536051057"
     },
-    "gpt-6-astra-2096245759121277132": {
+    "2096245759121277132": {
       "title": "滾動驅動的 3D 工作室網站",
       "description": "將參考圖轉成 Three.js 場景並融入滾動驅動的工作室網站，協調鏡頭運動、文字排版與章節過渡。",
       "prompt": "將參考圖轉成 Three.js 場景並融入滾動驅動的工作室網站，協調鏡頭運動、文字排版與章節過渡。",
@@ -812,9 +812,9 @@
         "GPT-6 Astra",
         "Three.js"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096245759121277132"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132"
     },
-    "gpt-6-astra-2096244208533455049": {
+    "2096244208533455049": {
       "title": "Komorebi 河流皮划艇",
       "description": "製作動漫風格的 3D 河流皮划艇遊戲，讓玩家左右划槳躲避障礙，透過程式碼生成流水、風景、音樂與音效。",
       "prompt": "製作動漫風格的 3D 河流皮划艇遊戲，讓玩家左右划槳躲避障礙，透過程式碼生成流水、風景、音樂與音效。",
@@ -822,9 +822,9 @@
       "tags": [
         "GPT-6 Astra"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096244208533455049"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/komorebi-river-kayaking-2096244208533455049"
     },
-    "gpt-6-astra-2096243989439713677": {
+    "2096243989439713677": {
       "title": "折射玻璃瓶產品敘事",
       "description": "圍繞寫實 WebGL 玻璃瓶建置互動產品網站，採用折射液體、滾動旋轉與醒目文字，同時保證瀏覽器效能。",
       "prompt": "圍繞寫實 WebGL 玻璃瓶建置互動產品網站，採用折射液體、滾動旋轉與醒目文字，同時保證瀏覽器效能。",
@@ -833,9 +833,9 @@
         "GPT-6 Astra",
         "WebGL"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096243989439713677"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/refractive-bottle-product-story-2096243989439713677"
     },
-    "gpt-6-astra-2096013280519016608": {
+    "2096013280519016608": {
       "title": "Gogh Strike 多人射擊",
       "description": "建立後印象派風格的 5 對 5 第一人稱射擊遊戲，包含 Blender 渲染藝術家角色、清晰隊伍和完整瀏覽器多人比賽。",
       "prompt": "建立後印象派風格的 5 對 5 第一人稱射擊遊戲，包含 Blender 渲染藝術家角色、清晰隊伍和完整瀏覽器多人比賽。",
@@ -844,9 +844,9 @@
         "GPT-6 Astra",
         "Blender"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096013280519016608"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608"
     },
-    "gpt-6-astra-2095988972879335792": {
+    "2095988972879335792": {
       "title": "大教堂動作戰鬥場",
       "description": "在死星上方的大教堂中建置第三人稱 Three.js 動作遊戲，包含輕劍連擊、重攻擊、範圍魔法、閃避和腳步落地的雙手動畫。",
       "prompt": "在死星上方的大教堂中建置第三人稱 Three.js 動作遊戲，包含輕劍連擊、重攻擊、範圍魔法、閃避和腳步落地的雙手動畫。",
@@ -855,9 +855,9 @@
         "GPT-6 Astra",
         "Three.js"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095988972879335792"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792"
     },
-    "gpt-6-astra-2096082580554777041": {
+    "2096082580554777041": {
       "title": "可拆解的程式化火車元件",
       "description": "根據尺寸、截面和幾何函式在 Three.js 中生成兩列火車，製作車輪動畫，提供爆炸分解與重組展示。",
       "prompt": "根據尺寸、截面和幾何函式在 Three.js 中生成兩列火車，製作車輪動畫，提供爆炸分解與重組展示。",
@@ -866,9 +866,9 @@
         "GPT-6 Astra",
         "Three.js"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096082580554777041"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041"
     },
-    "gpt-6-astra-2096201415051911597": {
+    "2096201415051911597": {
       "title": "幼兒玩具互動世界",
       "description": "建立溫暖的 Three.js 遊戲室，讓幼兒在玩具間移動並使用不同動畫玩耍，包含爬爬墊、書、架子與攀爬設施，支援環繞和縮放。",
       "prompt": "建立溫暖的 Three.js 遊戲室，讓幼兒在玩具間移動並使用不同動畫玩耍，包含爬爬墊、書、架子與攀爬設施，支援環繞和縮放。",
@@ -877,9 +877,9 @@
         "GPT-6 Astra",
         "Three.js"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096201415051911597"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/a-playful-toddler-toy-world-2096201415051911597"
     },
-    "gpt-6-astra-2095967568825582044": {
+    "2095967568825582044": {
       "title": "反重力戰鬥賽車",
       "description": "用 Three.js 建置高速反重力戰鬥競速，加入漂移、加速、傾斜鏡頭、空氣制動和護盾道具，在外星高架賽道提供輕型、均衡和重型飛行器。",
       "prompt": "用 Three.js 建置高速反重力戰鬥競速，加入漂移、加速、傾斜鏡頭、空氣制動和護盾道具，在外星高架賽道提供輕型、均衡和重型飛行器。",
@@ -888,9 +888,9 @@
         "GPT-6 Astra",
         "Three.js"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095967568825582044"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/anti-gravity-combat-racer-2095967568825582044"
     },
-    "gpt-6-astra-2096122429319852319": {
+    "2096122429319852319": {
       "title": "實時飛機制造工廠",
       "description": "研究飛機制造並建立實時 Three.js 工廠模擬，建模機械週期、生產工位、運輸與瓶頸，並測試流程。",
       "prompt": "研究飛機制造並建立實時 Three.js 工廠模擬，建模機械週期、生產工位、運輸與瓶頸，並測試流程。",
@@ -899,9 +899,9 @@
         "GPT-6 Astra",
         "Three.js"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096122429319852319"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/live-jet-manufacturing-plant-2096122429319852319"
     },
-    "gpt-6-astra-2096251574918013135": {
+    "2096251574918013135": {
       "title": "怪獸城市戰鬥",
       "description": "使用生成的生物模型與音效製作怪獸風格 Three.js 遊戲，建置清晰的巨型戰鬥和體現生物尺度的環境。",
       "prompt": "使用生成的生物模型與音效製作怪獸風格 Three.js 遊戲，建置清晰的巨型戰鬥和體現生物尺度的環境。",
@@ -910,9 +910,9 @@
         "GPT-6 Astra",
         "Three.js"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096251574918013135"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/kaiju-city-battle-2096251574918013135"
     },
-    "gpt-6-astra-2096220264413409648": {
+    "2096220264413409648": {
       "title": "困在立方體中的風暴",
       "description": "用 Three.js 生成困在立方體中的風暴，並讓天氣可以控制。",
       "prompt": "用 Three.js 生成困在立方體中的風暴，並讓天氣可以控制。",
@@ -921,9 +921,9 @@
         "GPT-6 Astra",
         "Three.js"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096220264413409648"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648"
     },
-    "gpt-6-astra-2096047660662722620": {
+    "2096047660662722620": {
       "title": "Zork 轉 3D 動作冒險",
       "description": "將經典文字冒險 Zork 製作為 3D 動作冒險，保留故事和謎題，增加戰鬥，並用 Three.js 建立角色和環境。",
       "prompt": "將經典文字冒險 Zork 製作為 3D 動作冒險，保留故事和謎題，增加戰鬥，並用 Three.js 建立角色和環境。",
@@ -932,9 +932,9 @@
         "GPT-6 Astra",
         "Three.js"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096047660662722620"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620"
     },
-    "gpt-6-astra-2096133339329536249": {
+    "2096133339329536249": {
       "title": "繫結與動畫霸王龍",
       "description": "將生成的霸王龍模型繫結並製作可信運動，在 Three.js 中渲染並檢查模型變形是否協調。",
       "prompt": "將生成的霸王龍模型繫結並製作可信運動，在 Three.js 中渲染並檢查模型變形是否協調。",
@@ -943,9 +943,9 @@
         "GPT-6 Astra",
         "Three.js"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096133339329536249"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/rigged-and-animated-t-rex-2096133339329536249"
     },
-    "gpt-6-astra-2096174858837074198": {
+    "2096174858837074198": {
       "title": "咖啡杯裡的海洋生命",
       "description": "用 Three.js 在咖啡杯中建立微型海洋生態，透過鏡頭展示水生生命，同時保持杯子與微縮尺度清晰。",
       "prompt": "用 Three.js 在咖啡杯中建立微型海洋生態，透過鏡頭展示水生生命，同時保持杯子與微縮尺度清晰。",
@@ -954,9 +954,9 @@
         "GPT-6 Astra",
         "Three.js"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096174858837074198"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198"
     },
-    "gpt-6-astra-2096250748099068377": {
+    "2096250748099068377": {
       "title": "互動式超級高鐵演示",
       "description": "建置互動式 Three.js 超級高鐵演示，展示運輸艙、管道設施及系統中的執行過程。",
       "prompt": "建置互動式 Three.js 超級高鐵演示，展示運輸艙、管道設施及系統中的執行過程。",
@@ -965,9 +965,9 @@
         "GPT-6 Astra",
         "Three.js"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096250748099068377"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-hyperloop-demo-2096250748099068377"
     },
-    "gpt-6-astra-2096234355395903672": {
+    "2096234355395903672": {
       "title": "程式化拿破崙半身像",
       "description": "用 Three.js 編寫拿破崙半身像，分階段建模，從不同角度檢視並完善臉部比例和服裝細節。",
       "prompt": "用 Three.js 編寫拿破崙半身像，分階段建模，從不同角度檢視並完善臉部比例和服裝細節。",
@@ -976,9 +976,9 @@
         "GPT-6 Astra",
         "Three.js"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096234355395903672"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-napoleon-bust-2096234355395903672"
     },
-    "gpt-6-astra-2096226711222546461": {
+    "2096226711222546461": {
       "title": "鐵路車站大廳",
       "description": "建立具有鮮明建築節奏、可信尺度和材質的鐵路車站大廳，提供可檢視的 3D 場景與精心構圖視角。",
       "prompt": "建立具有鮮明建築節奏、可信尺度和材質的鐵路車站大廳，提供可檢視的 3D 場景與精心構圖視角。",
@@ -986,9 +986,9 @@
       "tags": [
         "GPT-6 Astra"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096226711222546461"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/railway-station-concourse-2096226711222546461"
     },
-    "gpt-6-astra-2096222790894661841": {
+    "2096222790894661841": {
       "title": "動畫引導微縮場景",
       "description": "在 Blender 中建立引導微縮場景，並用 Three.js 呈現，以清晰核心物體和短動畫解釋使用者首次操作。",
       "prompt": "在 Blender 中建立引導微縮場景，並用 Three.js 呈現，以清晰核心物體和短動畫解釋使用者首次操作。",
@@ -998,9 +998,9 @@
         "Blender",
         "Three.js"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096222790894661841"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/animated-onboarding-diorama-2096222790894661841"
     },
-    "gpt-6-astra-2096206082712768897": {
+    "2096206082712768897": {
       "title": "OX Vice Drive 開放城市駕駛",
       "description": "建立開放城市瀏覽器駕駛遊戲，包含交通、漂移與送貨競速，設計適合探索的海濱城市和完整駕駛迴圈。",
       "prompt": "建立開放城市瀏覽器駕駛遊戲，包含交通、漂移與送貨競速，設計適合探索的海濱城市和完整駕駛迴圈。",
@@ -1008,9 +1008,9 @@
       "tags": [
         "GPT-6 Astra"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096206082712768897"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897"
     },
-    "gpt-6-astra-2096111709496680842": {
+    "2096111709496680842": {
       "title": "手遊廣告轉可玩遊戲",
       "description": "以手遊廣告為參考製作可玩的瀏覽器遊戲，還原核心互動並透過 Blender 資產匹配視覺設定。",
       "prompt": "以手遊廣告為參考製作可玩的瀏覽器遊戲，還原核心互動並透過 Blender 資產匹配視覺設定。",
@@ -1019,9 +1019,9 @@
         "GPT-6 Astra",
         "Blender"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096111709496680842"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842"
     },
-    "gpt-6-astra-2095999578419929412": {
+    "2095999578419929412": {
       "title": "Roblox 動漫競技格鬥",
       "description": "建立受動漫跨界戰鬥啟發的 Roblox 競技格鬥，利用 Blender 和可用資產製作場地與角色，實現可玩的戰鬥迴圈。",
       "prompt": "建立受動漫跨界戰鬥啟發的 Roblox 競技格鬥，利用 Blender 和可用資產製作場地與角色，實現可玩的戰鬥迴圈。",
@@ -1031,9 +1031,9 @@
         "Blender",
         "Roblox"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095999578419929412"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412"
     },
-    "gpt-6-astra-2096258619574513880": {
+    "2096258619574513880": {
       "title": "C# 與 WASM 瀏覽器賽車物理",
       "description": "用 C# 重建賽道狂飆風格賽車物理，透過 WASM 執行並用 Three.js 渲染，使用可碰撞賽道網格並測試操控。",
       "prompt": "用 C# 重建賽道狂飆風格賽車物理，透過 WASM 執行並用 Three.js 渲染，使用可碰撞賽道網格並測試操控。",
@@ -1042,9 +1042,9 @@
         "GPT-6 Astra",
         "Three.js"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096258619574513880"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880"
     },
-    "gpt-6-astra-2096141728487178503": {
+    "2096141728487178503": {
       "title": "自動角色繫結與功夫動作",
       "description": "為給定 3D 角色建立骨骼，增加行走、跑步及幾段功夫動作，並檢查動畫中的關節破損和姿態不穩。",
       "prompt": "為給定 3D 角色建立骨骼，增加行走、跑步及幾段功夫動作，並檢查動畫中的關節破損和姿態不穩。",
@@ -1052,9 +1052,9 @@
       "tags": [
         "GPT-6 Astra"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096141728487178503"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503"
     },
-    "gpt-6-astra-2096107343268257953": {
+    "2096107343268257953": {
       "title": "藝術作品轉可玩角色",
       "description": "把 Noctavia 角色藝術作品重建為可玩的 3D 角色，保留設計語言並建立適合互動展示的完整模型。",
       "prompt": "把 Noctavia 角色藝術作品重建為可玩的 3D 角色，保留設計語言並建立適合互動展示的完整模型。",
@@ -1062,9 +1062,9 @@
       "tags": [
         "GPT-6 Astra"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096107343268257953"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/artwork-to-a-playable-character-2096107343268257953"
     },
-    "gpt-6-astra-2096023793772998704": {
+    "2096023793772998704": {
       "title": "帶演講地球儀的個人 3D 作品集",
       "description": "將肖像轉成 Blender 角色並放入編輯式 WebGL 作品集，加入標出演講活動的旋轉地球儀並整合網站資產。",
       "prompt": "將肖像轉成 Blender 角色並放入編輯式 WebGL 作品集，加入標出演講活動的旋轉地球儀並整合網站資產。",
@@ -1074,9 +1074,9 @@
         "Blender",
         "WebGL"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096023793772998704"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"
     },
-    "gpt-6-astra-2096056285896536086": {
+    "2096056285896536086": {
       "title": "索尼克風格 Godot 遊戲切片",
       "description": "利用本地和程式化資產在 Godot 中建立精緻索尼克風格 3D 關卡，優先完善慣性、靈敏移動、圓環、迴環、滑軌與連貫熱帶海岸。",
       "prompt": "利用本地和程式化資產在 Godot 中建立精緻索尼克風格 3D 關卡，優先完善慣性、靈敏移動、圓環、迴環、滑軌與連貫熱帶海岸。",
@@ -1085,9 +1085,9 @@
         "GPT-6 Astra",
         "Godot"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096056285896536086"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086"
     },
-    "gpt-6-astra-2096140378777010278": {
+    "2096140378777010278": {
       "title": "Blender 維京角色",
       "description": "在 Blender 中製作可編輯 3D 維京角色，重點處理可識別服裝、面部結構、身體比例和清晰展示姿態。",
       "prompt": "在 Blender 中製作可編輯 3D 維京角色，重點處理可識別服裝、面部結構、身體比例和清晰展示姿態。",
@@ -1096,9 +1096,9 @@
         "GPT-6 Astra",
         "Blender"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096140378777010278"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/viking-character-in-blender-2096140378777010278"
     },
-    "gpt-6-astra-2096155883122413946": {
+    "2096155883122413946": {
       "title": "Dropzone 大逃殺競技場",
       "description": "製作第三人稱瀏覽器大逃殺，包含風暴圈、九個 AI 敵人、脈衝步槍、生命值和換彈，加入可搭建掩體和完整淘汰迴圈。",
       "prompt": "製作第三人稱瀏覽器大逃殺，包含風暴圈、九個 AI 敵人、脈衝步槍、生命值和換彈，加入可搭建掩體和完整淘汰迴圈。",
@@ -1106,9 +1106,9 @@
       "tags": [
         "GPT-6 Astra"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096155883122413946"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/dropzone-battle-royale-arena-2096155883122413946"
     },
-    "gpt-6-astra-2096096998092841449": {
+    "2096096998092841449": {
       "title": "蘇州博物館花園漫遊",
       "description": "參考蘇州博物館網頁在 Blender 中重建花園，製作連續漫遊，保留現代建築與傳統中式園林之間的關係。",
       "prompt": "參考蘇州博物館網頁在 Blender 中重建花園，製作連續漫遊，保留現代建築與傳統中式園林之間的關係。",
@@ -1117,9 +1117,9 @@
         "GPT-6 Astra",
         "Blender"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096096998092841449"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449"
     },
-    "gpt-6-astra-2095986941753712841": {
+    "2095986941753712841": {
       "title": "土衛六互動科學展覽",
       "description": "建立土星最大衛星土衛六的教育型 3D 模擬，提供可探索環境及解釋其獨特物理特徵的資訊層。",
       "prompt": "建立土星最大衛星土衛六的教育型 3D 模擬，提供可探索環境及解釋其獨特物理特徵的資訊層。",
@@ -1127,9 +1127,9 @@
       "tags": [
         "GPT-6 Astra"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095986941753712841"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-titan-science-exhibit-2095986941753712841"
     },
-    "gpt-6-astra-2096040448477515874": {
+    "2096040448477515874": {
       "title": "演化中的 WebGL 生態系統",
       "description": "在單個 HTML 檔案中用原生 WebGL 和 GLSL 建立 3D 演化生態，讓突變、自然選擇、捕食、能量使用與多細胞結合互相作用。",
       "prompt": "在單個 HTML 檔案中用原生 WebGL 和 GLSL 建立 3D 演化生態，讓突變、自然選擇、捕食、能量使用與多細胞結合互相作用。",
@@ -1138,9 +1138,9 @@
         "GPT-6 Astra",
         "WebGL"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096040448477515874"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/evolving-webgl-ecosystem-2096040448477515874"
     },
-    "gpt-6-astra-2096042360513904742": {
+    "2096042360513904742": {
       "title": "可關閉橋樑的配送網路",
       "description": "建置 3D 配送模擬，讓關閉橋樑改變卡車路線，識別無法到達的目的地，並在路線恢復時重新配送。",
       "prompt": "建置 3D 配送模擬，讓關閉橋樑改變卡車路線，識別無法到達的目的地，並在路線恢復時重新配送。",
@@ -1148,9 +1148,9 @@
       "tags": [
         "GPT-6 Astra"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096042360513904742"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742"
     },
-    "gpt-6-astra-2096062355692048605": {
+    "2096062355692048605": {
       "title": "Sinclair ZX Spectrum 模擬器",
       "description": "將 Sinclair ZX Spectrum 48K 重建為互動式 3D 桌面應用，包含橡膠鍵盤、磁帶機、開機介面、可玩遊戲與 BASIC 程式設計介面。",
       "prompt": "將 Sinclair ZX Spectrum 48K 重建為互動式 3D 桌面應用，包含橡膠鍵盤、磁帶機、開機介面、可玩遊戲與 BASIC 程式設計介面。",
@@ -1158,9 +1158,9 @@
       "tags": [
         "GPT-6 Astra"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096062355692048605"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605"
     },
-    "gpt-6-astra-2096092080397246707": {
+    "2096092080397246707": {
       "title": "攝影測量掃描轉可編輯客廳",
       "description": "根據攝影測量掃描在 Blender 中從零重建客廳，從掃描提取紋理，並在合適位置採用程式化著色器。",
       "prompt": "根據攝影測量掃描在 Blender 中從零重建客廳，從掃描提取紋理，並在合適位置採用程式化著色器。",
@@ -1169,9 +1169,9 @@
         "GPT-6 Astra",
         "Blender"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096092080397246707"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/photogrammetry-scan-to-editable-living-room-2096092080397246707"
     },
-    "gpt-6-astra-2096135808243876152": {
+    "2096135808243876152": {
       "title": "奧德賽風格平臺冒險",
       "description": "製作奧德賽風格 Three.js 關卡，包含八個平臺、三枚可收集月亮、迴旋帽攻擊、敵人和檢查點，加入觸控操作並完成試玩。",
       "prompt": "製作奧德賽風格 Three.js 關卡，包含八個平臺、三枚可收集月亮、迴旋帽攻擊、敵人和檢查點，加入觸控操作並完成試玩。",
@@ -1180,9 +1180,9 @@
         "GPT-6 Astra",
         "Three.js"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096135808243876152"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152"
     },
-    "gpt-6-astra-2096221988763173186": {
+    "2096221988763173186": {
       "title": "可拆解的人體解剖模型",
       "description": "製作 3D 解剖網站，讓人體分解成可單獨檢視的結構，使爆炸檢視可導航，並按有意義的系統組織部件。",
       "prompt": "製作 3D 解剖網站，讓人體分解成可單獨檢視的結構，使爆炸檢視可導航，並按有意義的系統組織部件。",
@@ -1190,9 +1190,9 @@
       "tags": [
         "GPT-6 Astra"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096221988763173186"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186"
     },
-    "gpt-6-astra-2096009146248122416": {
+    "2096009146248122416": {
       "title": "特斯拉 Model X 爆炸檢視",
       "description": "建立將特斯拉 Model X 拆解為建模元件的 3D 網站，讓訪客互動檢視元件並重新組裝車輛。",
       "prompt": "建立將特斯拉 Model X 拆解為建模元件的 3D 網站，讓訪客互動檢視元件並重新組裝車輛。",
@@ -1200,9 +1200,9 @@
       "tags": [
         "GPT-6 Astra"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096009146248122416"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/tesla-model-x-exploded-view-2096009146248122416"
     },
-    "gpt-6-astra-2096241295949975602": {
+    "2096241295949975602": {
       "title": "記憶扭蛋機",
       "description": "建置 3D 記憶扭蛋機，轉動旋鈕釋放記憶，在 Blender 中建模機械結構，為掉落扭蛋新增可信運動和聲音。",
       "prompt": "建置 3D 記憶扭蛋機，轉動旋鈕釋放記憶，在 Blender 中建模機械結構，為掉落扭蛋新增可信運動和聲音。",
@@ -1211,9 +1211,9 @@
         "GPT-6 Astra",
         "Blender"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096241295949975602"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/memory-capsule-machine-2096241295949975602"
     },
-    "gpt-6-astra-2096125193580113957": {
+    "2096125193580113957": {
       "title": "Blender 一級方程式賽車",
       "description": "透過計算機操作在 Blender 中建立 3D 一級方程式賽車模型。",
       "prompt": "透過計算機操作在 Blender 中建立 3D 一級方程式賽車模型。",
@@ -1222,7 +1222,7 @@
         "GPT-6 Astra",
         "Blender"
       ],
-      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096125193580113957"
+      "pageUrl": "https://www.tripo3d.ai/zh-Hant/3d-prompts/formula-one-car-in-blender-2096125193580113957"
     }
   }
 }

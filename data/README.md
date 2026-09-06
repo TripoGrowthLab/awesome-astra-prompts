@@ -22,6 +22,8 @@ Titles and descriptions are editorial summaries. Examples are references to adap
 
 ## Field boundaries
 
+`id` is the original X/Twitter post ID, stored as a **string** to avoid integer precision loss. `slug` is a stable editorial topic followed by that ID, for example `gogh-strike-multiplayer-fps-2096013280519016608`. Localized records and repository references use `id`; public page links use `slug`. The website resolves the trailing ID regardless of the incoming prefix, without redirecting, and uses the official topic + ID URL as canonical.
+
 The export intentionally excludes engagement metrics, internal media IDs, API credentials, raw research logs, private repository identifiers and local filesystem paths. `links.tripo` and localized `pageUrl` point to the full example; `links.repository` and `links.demo` are optional, separately attributed external destinations.
 
 All 103 current image references are repository-relative paths into `assets/previews/`, deduplicated into 98 WebP files. The source dataset contains no direct video URLs for these records, so this export includes previews, not video files. `assets/manifest.json` records public file origins and checksums for attribution and integrity. A media reference is not a redistribution license.
@@ -36,4 +38,4 @@ node scripts/export-from-homepage.mjs --source /path/to/source-checkout --date Y
 
 The source checkout must have its dependencies installed. The exporter imports the **final merged `PROMPTS` export**, including repository-link enrichment, rather than an initial collection batch. It uses the source project's FNV-1a key helper and raw locale catalogs; missing translations fail the export instead of silently falling back to English. TypeScript is bundled in memory with the source checkout's esbuild dependency. No source files are changed and no dependencies are installed.
 
-Regeneration replaces these JSON snapshots, including media references, with current source values. If media have subsequently been vendored into this repository, rerun that repository's media-localization step after exporting. Refresh manifest hashes after any post-export data changes.
+Regeneration replaces these JSON snapshots with current source values. Existing repository-local previews are reused by their public source URL after checksum verification; their ID references and manifest hashes are refreshed automatically. Newly added previews still need the repository's media-localization step before validation and publication.
