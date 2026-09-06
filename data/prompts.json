@@ -60,7 +60,8 @@
       },
       "media": {
         "image": "assets/previews/3dfc15d51104de183c13.webp",
-        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-video-hd-720p-e3dd83502b5a.mp4"
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-video-hd-720p-e3dd83502b5a.mp4",
+        "previewVideo": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-preview-0-20s-720p-b159443d3add.mp4"
       }
     },
     {

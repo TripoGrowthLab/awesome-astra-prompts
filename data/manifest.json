@@ -43,8 +43,8 @@
   "files": [
     {
       "path": "data/prompts.json",
-      "sha256": "9974cf885dca7ff6aaa45bbca832b3818e1c6e5b0c0bd909b19fb9fd6ae3d297",
-      "bytes": 217002
+      "sha256": "cb56bb804b24ac3d290fb14969ac28a12e08b425a363f4b8c1765baa2b8101ec",
+      "bytes": 217142
     },
     {
       "path": "data/locales/en.json",

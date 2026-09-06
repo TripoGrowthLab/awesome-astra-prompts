@@ -95,7 +95,11 @@ const prompts = selected.map(entry => {
       ...(entry.links?.repository ? { repository: publicUrl(entry.links.repository, 'repository') } : {}),
       ...(entry.links?.liveDemo ? { demo: publicUrl(entry.links.liveDemo, 'demo') } : {}),
     },
-    media: { image: localImages.get(entry.video.poster)?.path ?? publicUrl(entry.video.poster, 'image'), ...(entry.video.url ? { video: publicUrl(entry.video.url, 'video') } : {}) },
+    media: {
+      image: localImages.get(entry.video.poster)?.path ?? publicUrl(entry.video.poster, 'image'),
+      ...(entry.video.url ? { video: publicUrl(entry.video.url, 'video') } : {}),
+      ...(entry.video.previewUrl ? { previewVideo: publicUrl(entry.video.previewUrl, 'previewVideo') } : {}),
+    },
     ...(entry.originalPrompt ? { originalPrompt: entry.originalPrompt } : {}),
     ...(entry.sourceExcerpt ? { sourceExcerpt: true } : {}),
   };

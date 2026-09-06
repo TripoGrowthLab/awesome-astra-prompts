@@ -31,7 +31,7 @@
         "evidence": { "type": "object", "additionalProperties": false, "required": ["kind", "note"], "properties": { "kind": { "enum": ["verbatim", "source-derived"] }, "note": { "$ref": "#/$defs/text" } } },
         "tags": { "type": "array", "items": { "$ref": "#/$defs/text" } },
         "links": { "type": "object", "additionalProperties": false, "required": ["tripo"], "properties": { "tripo": { "$ref": "#/$defs/url" }, "repository": { "$ref": "#/$defs/url" }, "demo": { "$ref": "#/$defs/url" } } },
-        "media": { "type": "object", "additionalProperties": false, "required": ["image"], "properties": { "image": { "$ref": "#/$defs/mediaReference" }, "video": { "$ref": "#/$defs/mediaReference" } } },
+        "media": { "type": "object", "additionalProperties": false, "required": ["image"], "properties": { "image": { "$ref": "#/$defs/mediaReference" }, "video": { "$ref": "#/$defs/mediaReference" }, "previewVideo": { "$ref": "#/$defs/url", "description": "Optional short preview. The full-length video remains in media.video." } } },
         "originalPrompt": { "$ref": "#/$defs/text" },
         "sourceExcerpt": { "const": true }
       }
