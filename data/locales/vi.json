@@ -1,7 +1,7 @@
 {
   "locale": "vi",
   "model": "gpt-6-astra",
-  "count": 103,
+  "count": 153,
   "prompts": {
     "2095596175705399482": {
       "title": "Xã hội sinh tồn của những con người tự chủ trong Unreal Engine",
@@ -1223,6 +1223,556 @@
         "Blender"
       ],
       "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/formula-one-car-in-blender-2096125193580113957"
+    },
+    "2096525100518453342": {
+      "title": "Chuyển đổi biểu cảm nhân vật trong Blender",
+      "description": "Chuẩn bị các phiên bản biểu cảm của nhân vật Tripo trong Blender trước khi gắn xương. Căn chỉnh các lưới rồi chuyển đổi từng phiên bản, thu nhỏ những phiên bản không dùng vào bên trong đầu. Không mô tả cách này là nội suy biểu cảm mượt mà hay tương thích với VRM.",
+      "prompt": "Chuẩn bị các phiên bản biểu cảm của nhân vật Tripo trong Blender trước khi gắn xương. Căn chỉnh các lưới rồi chuyển đổi từng phiên bản, thu nhỏ những phiên bản không dùng vào bên trong đầu. Không mô tả cách này là nội suy biểu cảm mượt mà hay tương thích với VRM.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"
+    },
+    "2096308567863079420": {
+      "title": "Cảnh nhân vật lấy cảm hứng từ Warcraft trong Unity",
+      "description": "Dựng một cảnh nhân vật lấy cảm hứng từ Warcraft bằng Astra, Tripo P2, Blender và Unity. Tạo mô hình nhân vật, chuẩn bị mô hình trong Blender rồi lắp ghép thành một cảnh có thể chơi được trong Unity.",
+      "prompt": "Dựng một cảnh nhân vật lấy cảm hứng từ Warcraft bằng Astra, Tripo P2, Blender và Unity. Tạo mô hình nhân vật, chuẩn bị mô hình trong Blender rồi lắp ghép thành một cảnh có thể chơi được trong Unity.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420"
+    },
+    "2096015772334047319": {
+      "title": "Đấu trường Three.js với tài nguyên Tripo",
+      "description": "Xây dựng một đấu trường có thể chơi được bằng Three.js. Sử dụng nhân vật và cây do Tripo tạo, tích hợp chúng vào đấu trường và vòng lặp chơi cốt lõi.",
+      "prompt": "Xây dựng một đấu trường có thể chơi được bằng Three.js. Sử dụng nhân vật và cây do Tripo tạo, tích hợp chúng vào đấu trường và vòng lặp chơi cốt lõi.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/three-js-battle-arena-with-tripo-assets-2096015772334047319"
+    },
+    "2096579856133947507": {
+      "title": "Bàn cờ shogi 3D có thể xoay",
+      "description": "Xây dựng ứng dụng chơi shogi 3D với bàn cờ có thể xoay tự do. Qua từng lần đánh giá, tiếp tục hoàn thiện bàn cờ, quân cờ và cách tương tác.",
+      "prompt": "Xây dựng ứng dụng chơi shogi 3D với bàn cờ có thể xoay tự do. Qua từng lần đánh giá, tiếp tục hoàn thiện bàn cờ, quân cờ và cách tương tác.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/rotatable-3d-shogi-board-2096579856133947507"
+    },
+    "2096578761877860502": {
+      "title": "Bản đồ tháo rời linh kiện máy tính để bàn",
+      "description": "Tạo một website 3D tương tác cho phép tách máy tính để bàn thành 29 linh kiện chính. Thêm hoạt cảnh tháo rời và phần giải thích cho từng linh kiện.",
+      "prompt": "Tạo một website 3D tương tác cho phép tách máy tính để bàn thành 29 linh kiện chính. Thêm hoạt cảnh tháo rời và phần giải thích cho từng linh kiện.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502"
+    },
+    "2096578684010508736": {
+      "title": "Lên phương án bố trí phòng trẻ em kiêm nơi làm việc",
+      "description": "Tái dựng phòng trẻ em kiêm nơi làm việc từ bốn ảnh chụp ở các góc phòng cùng số đo căn phòng. Cung cấp góc nhìn của người lớn và trẻ em, góc nhìn tổng thể và các phương án bố trí nội thất khác nhau.",
+      "prompt": "Tái dựng phòng trẻ em kiêm nơi làm việc từ bốn ảnh chụp ở các góc phòng cùng số đo căn phòng. Cung cấp góc nhìn của người lớn và trẻ em, góc nhìn tổng thể và các phương án bố trí nội thất khác nhau.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736"
+    },
+    "2095999282088378520": {
+      "title": "Mặt bằng đồng bộ với chuyến tham quan 3D",
+      "description": "Dùng cùng một bộ kích thước để dựng mặt bằng và chuyến tham quan căn hộ một phòng ngủ. Đồng bộ vị trí hiện tại giữa hai chế độ xem, đồng thời ghi rõ những giả định về chiều cao trần và vật liệu hoàn thiện.",
+      "prompt": "Dùng cùng một bộ kích thước để dựng mặt bằng và chuyến tham quan căn hộ một phòng ngủ. Đồng bộ vị trí hiện tại giữa hai chế độ xem, đồng thời ghi rõ những giả định về chiều cao trần và vật liệu hoàn thiện.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520"
+    },
+    "2096557555086725159": {
+      "title": "Mô hình Seoul thu nhỏ có thể khám phá",
+      "description": "Dựng mô hình Seoul thu nhỏ bằng Three.js từ dữ liệu bản đồ mở. Thêm điều hướng theo quận, cảnh bay qua các địa danh, chế độ ngày và đêm cùng điều khiển cảm ứng. Nêu rõ những tòa nhà đã được đơn giản hóa, chiều cao ước tính và giấy phép dữ liệu.",
+      "prompt": "Dựng mô hình Seoul thu nhỏ bằng Three.js từ dữ liệu bản đồ mở. Thêm điều hướng theo quận, cảnh bay qua các địa danh, chế độ ngày và đêm cùng điều khiển cảm ứng. Nêu rõ những tòa nhà đã được đơn giản hóa, chiều cao ước tính và giấy phép dữ liệu.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/interactive-miniature-of-seoul-2096557555086725159"
+    },
+    "2096551010089263181": {
+      "title": "Lõi năng lượng hai vòng tương tác",
+      "description": "Dựng lõi năng lượng, hai vòng và đế kim loại trong Blender. Xuất mô hình kèm vật liệu sang trình xem Three.js có chức năng xoay, thu phóng, tự động bay quanh và điều chỉnh hiệu ứng nhịp xung.",
+      "prompt": "Dựng lõi năng lượng, hai vòng và đế kim loại trong Blender. Xuất mô hình kèm vật liệu sang trình xem Three.js có chức năng xoay, thu phóng, tự động bay quanh và điều chỉnh hiệu ứng nhịp xung.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181"
+    },
+    "2096460081982304546": {
+      "title": "Côn trùng tạo bằng thuật toán bò trên nhiều bề mặt",
+      "description": "Tạo một côn trùng 3D nhiều chân có thể bám và đi trên các bề mặt khác nhau. Phối hợp chuyển động của chân và thân khi vượt qua những chỗ chênh lệch độ cao.",
+      "prompt": "Tạo một côn trùng 3D nhiều chân có thể bám và đi trên các bề mặt khác nhau. Phối hợp chuyển động của chân và thân khi vượt qua những chỗ chênh lệch độ cao.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/surface-climbing-procedural-insect-2096460081982304546"
+    },
+    "2096467585785286808": {
+      "title": "Lái Wright Flyer qua khu rừng Nhật Bản",
+      "description": "Xây dựng trò chơi bay bằng Three.js với chiếc Wright Flyer năm 1903 trong một khu rừng Nhật Bản. Nghiên cứu chiếc máy bay rồi dùng thuật toán tạo máy bay, cây, cổng torii, nhà và núi mà không dùng tài nguyên bên ngoài.",
+      "prompt": "Xây dựng trò chơi bay bằng Three.js với chiếc Wright Flyer năm 1903 trong một khu rừng Nhật Bản. Nghiên cứu chiếc máy bay rồi dùng thuật toán tạo máy bay, cây, cổng torii, nhà và núi mà không dùng tài nguyên bên ngoài.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"
+    },
+    "2096576154337734865": {
+      "title": "Dựng một ngôi nhà từ đầu trong Blender",
+      "description": "Dựng mô hình một ngôi nhà từ đầu trong Blender. Giữ cảnh ở dạng có thể chỉnh sửa để tiếp tục kiểm tra và hoàn thiện công trình qua các lần lặp sau.",
+      "prompt": "Dựng mô hình một ngôi nhà từ đầu trong Blender. Giữ cảnh ở dạng có thể chỉnh sửa để tiếp tục kiểm tra và hoàn thiện công trình qua các lần lặp sau.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865"
+    },
+    "2096143359505269079": {
+      "title": "Từ ảnh quán cà phê đến video tham quan khung dọc",
+      "description": "Tái dựng quán cà phê từ ảnh trong Blender, gồm trần gỗ, đèn dải, máy rang, kệ và cây xanh. Bàn giao cảnh có thể chỉnh sửa và video camera tham quan dài 15 giây theo khung hình dọc.",
+      "prompt": "Tái dựng quán cà phê từ ảnh trong Blender, gồm trần gỗ, đèn dải, máy rang, kệ và cây xanh. Bàn giao cảnh có thể chỉnh sửa và video camera tham quan dài 15 giây theo khung hình dọc.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"
+    },
+    "2096501340889374883": {
+      "title": "Từ mặt bằng tầng trên cùng đến bản xem trước Blender",
+      "description": "Dùng mặt bằng tầng trên cùng của ngôi nhà để dựng cảnh Blender và kết xuất bản xem trước 10 giây với số mẫu thấp. Ưu tiên bố cục không gian rõ ràng trước khi hoàn thiện vật liệu.",
+      "prompt": "Dùng mặt bằng tầng trên cùng của ngôi nhà để dựng cảnh Blender và kết xuất bản xem trước 10 giây với số mẫu thấp. Ưu tiên bố cục không gian rõ ràng trước khi hoàn thiện vật liệu.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883"
+    },
+    "2096298425914450021": {
+      "title": "Quảng trường Terreiro do Paço tại Lisbon trong Blender",
+      "description": "Tái hiện Terreiro do Paço tại Lisbon dưới dạng cảnh Blender có thể chỉnh sửa. Nghiên cứu tư liệu tham khảo để định hướng kiến trúc, vật liệu và ánh sáng của quảng trường.",
+      "prompt": "Tái hiện Terreiro do Paço tại Lisbon dưới dạng cảnh Blender có thể chỉnh sửa. Nghiên cứu tư liệu tham khảo để định hướng kiến trúc, vật liệu và ánh sáng của quảng trường.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021"
+    },
+    "2096574297703637111": {
+      "title": "Nhiệm vụ khám phá The Quiet Crossing",
+      "description": "Xây dựng trò chơi khám phá vùng tuyết bằng Three.js với nhân vật dựng trong Blender, cây thông voxel và cổng dịch chuyển bằng đá. Cho người chơi thu thập sáu mảnh phát sáng, để camera theo chân nhân vật và hiển thị khoảng cách tới cổng.",
+      "prompt": "Xây dựng trò chơi khám phá vùng tuyết bằng Three.js với nhân vật dựng trong Blender, cây thông voxel và cổng dịch chuyển bằng đá. Cho người chơi thu thập sáu mảnh phát sáng, để camera theo chân nhân vật và hiển thị khoảng cách tới cổng.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111"
+    },
+    "2096263046918197609": {
+      "title": "Khu rừng rậm tạo bằng thuật toán trong Three.js",
+      "description": "Tạo một khu rừng Three.js chi tiết với hàng nghìn cây, cỏ dày và dương xỉ. Dùng shader tùy chỉnh và cơ chế lặp hình học hiệu quả để giữ độ chi tiết trên toàn cảnh.",
+      "prompt": "Tạo một khu rừng Three.js chi tiết với hàng nghìn cây, cỏ dày và dương xỉ. Dùng shader tùy chỉnh và cơ chế lặp hình học hiệu quả để giữ độ chi tiết trên toàn cảnh.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609"
+    },
+    "2096013228090245181": {
+      "title": "Mô hình máy ghi âm TP-7 từ ảnh tham khảo",
+      "description": "Tái hiện Teenage Engineering TP-7 bằng Three.js từ ảnh tham khảo. Làm đúng hình dáng và các bộ phận điều khiển nhìn thấy được trong một mô hình 3D có thể quan sát từ nhiều phía.",
+      "prompt": "Tái hiện Teenage Engineering TP-7 bằng Three.js từ ảnh tham khảo. Làm đúng hình dáng và các bộ phận điều khiển nhìn thấy được trong một mô hình 3D có thể quan sát từ nhiều phía.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/tp-7-recorder-reference-model-2096013228090245181"
+    },
+    "2096577430274429157": {
+      "title": "Đầu máy hơi nước chạy qua miền quê",
+      "description": "Dựng đầu máy hơi nước bằng Three.js và tạo hoạt cảnh chạy qua khung cảnh miền quê. Đồng bộ chuyển động bánh xe với chuyển động của đoàn tàu.",
+      "prompt": "Dựng đầu máy hơi nước bằng Three.js và tạo hoạt cảnh chạy qua khung cảnh miền quê. Đồng bộ chuyển động bánh xe với chuyển động của đoàn tàu.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157"
+    },
+    "2096561346766877106": {
+      "title": "Cảnh máy hát đĩa than trên bàn",
+      "description": "Dựng cảnh máy hát đĩa than đặt trên bàn bằng Three.js. Dàn dựng như một màn giới thiệu sản phẩm, với đèn bật sáng và camera cho thấy máy hát cùng đồ nội thất xung quanh.",
+      "prompt": "Dựng cảnh máy hát đĩa than đặt trên bàn bằng Three.js. Dàn dựng như một màn giới thiệu sản phẩm, với đèn bật sáng và camera cho thấy máy hát cùng đồ nội thất xung quanh.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106"
+    },
+    "2096555856204644550": {
+      "title": "Vòng lặp đối chiến của trò chơi thẻ bài sưu tầm",
+      "description": "Xây dựng bản mẫu trò chơi thẻ bài sưu tầm bằng Three.js: mua bộ bài và gói thẻ bổ sung, xây dựng bộ bài, bước vào đấu trường và nhận phần thưởng. Thiết kế để có thể thay lưới tạm bằng tài nguyên hoàn chỉnh.",
+      "prompt": "Xây dựng bản mẫu trò chơi thẻ bài sưu tầm bằng Three.js: mua bộ bài và gói thẻ bổ sung, xây dựng bộ bài, bước vào đấu trường và nhận phần thưởng. Thiết kế để có thể thay lưới tạm bằng tài nguyên hoàn chỉnh.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/trading-card-battle-game-loop-2096555856204644550"
+    },
+    "2096362653480562751": {
+      "title": "Trò chơi mô phỏng mạng lưới đường sắt",
+      "description": "Mở rộng mô hình tàu Three.js thành mô phỏng đường sắt với thành phố, đường nhánh, sông và cầu. Thêm camera bám theo tàu, camera 3D tự do, góc nhìn đẳng cự và hiệu ứng khói.",
+      "prompt": "Mở rộng mô hình tàu Three.js thành mô phỏng đường sắt với thành phố, đường nhánh, sông và cầu. Thêm camera bám theo tàu, camera 3D tự do, góc nhìn đẳng cự và hiệu ứng khói.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/railway-network-simulation-game-2096362653480562751"
+    },
+    "2096490395614019793": {
+      "title": "Dạo bước trong ngôi làng low-poly lấy cảm hứng từ Gwacheon",
+      "description": "Tạo một ngôi làng low-poly ấm cúng, có thể khám phá, lấy cảm hứng từ Gwacheon trong một tệp HTML duy nhất. Kết hợp cảnh quan 3D tạo bằng thuật toán, bầu không khí, giao diện và tương tác.",
+      "prompt": "Tạo một ngôi làng low-poly ấm cúng, có thể khám phá, lấy cảm hứng từ Gwacheon trong một tệp HTML duy nhất. Kết hợp cảnh quan 3D tạo bằng thuật toán, bầu không khí, giao diện và tương tác.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793"
+    },
+    "2096505740643246231": {
+      "title": "Màn chơi giải đố Three.js hoàn chỉnh",
+      "description": "Xây dựng một màn chơi giải đố 3D hoàn chỉnh bằng Three.js, bao gồm các cơ chế thực sự chơi được. Khi màn chơi và các tương tác đã hoạt động, hãy tích hợp âm thanh được cung cấp.",
+      "prompt": "Xây dựng một màn chơi giải đố 3D hoàn chỉnh bằng Three.js, bao gồm các cơ chế thực sự chơi được. Khi màn chơi và các tương tác đã hoạt động, hãy tích hợp âm thanh được cung cấp.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/complete-three-js-puzzle-level-2096505740643246231"
+    },
+    "2096570815714414844": {
+      "title": "Săn kho báu trên bãi biển low-poly",
+      "description": "Xây dựng trò chơi săn kho báu 3D có thể chơi được trên bãi biển trong Unity. Dựng cây cọ và sàn gỗ low-poly, đồng thời hoàn thiện vòng lặp khám phá và tìm kho báu cốt lõi.",
+      "prompt": "Xây dựng trò chơi săn kho báu 3D có thể chơi được trên bãi biển trong Unity. Dựng cây cọ và sàn gỗ low-poly, đồng thời hoàn thiện vòng lặp khám phá và tìm kho báu cốt lõi.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844"
+    },
+    "2096560142871658589": {
+      "title": "Mô hình Blender kết hợp hiệu ứng Unity VFX",
+      "description": "Tạo các mô hình cho cảnh trong Blender rồi nhập vào Unity. Thêm hiệu ứng bằng VFX Graph và bố trí ánh sáng để mô hình cùng hiệu ứng đều thể hiện rõ khi xuất hiện chung.",
+      "prompt": "Tạo các mô hình cho cảnh trong Blender rồi nhập vào Unity. Thêm hiệu ứng bằng VFX Graph và bố trí ánh sáng để mô hình cùng hiệu ứng đều thể hiện rõ khi xuất hiện chung.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/blender-models-with-unity-vfx-2096560142871658589"
+    },
+    "2096556692842348826": {
+      "title": "Trò chơi đua rally Unity chơi được trên điện thoại",
+      "description": "Xây dựng bản mẫu lái xe rally bằng Codex, Blender và Unity. Chuẩn bị tài nguyên 3D và cách điều khiển để thử chơi trên điện thoại.",
+      "prompt": "Xây dựng bản mẫu lái xe rally bằng Codex, Blender và Unity. Chuẩn bị tài nguyên 3D và cách điều khiển để thử chơi trên điện thoại.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826"
+    },
+    "2096572429066006845": {
+      "title": "Cây xoài Ấn Độ trong SpeedTree",
+      "description": "Tạo cây xoài Ấn Độ trong SpeedTree cho một cảnh Unreal hướng tới 60 FPS. Tạo vật liệu lá và vỏ cây, kiểm tra diện mạo trước khi hoàn thiện mô hình.",
+      "prompt": "Tạo cây xoài Ấn Độ trong SpeedTree cho một cảnh Unreal hướng tới 60 FPS. Tạo vật liệu lá và vỏ cây, kiểm tra diện mạo trước khi hoàn thiện mô hình.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Unreal Engine"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845"
+    },
+    "2096566598689783878": {
+      "title": "Áp dụng texture và gắn xương cho nhân vật Tripo",
+      "description": "Đưa nhân vật Tripo Smart Mesh vào Blender. Áp dụng bộ texture của nhân vật và xây dựng bộ xương cơ thể có thể sử dụng được trước khi chuyển sang biểu cảm khuôn mặt.",
+      "prompt": "Đưa nhân vật Tripo Smart Mesh vào Blender. Áp dụng bộ texture của nhân vật và xây dựng bộ xương cơ thể có thể sử dụng được trước khi chuyển sang biểu cảm khuôn mặt.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878"
+    },
+    "2096064140510970318": {
+      "title": "Bản mẫu trò chơi The Legend of Astra",
+      "description": "Xây dựng bản mẫu trò chơi phiêu lưu 3D trong Unity bằng các cảnh đã chuẩn bị trong Blender và tài nguyên Tripo. Tích hợp hoạt ảnh nhân vật vào bản chơi thử.",
+      "prompt": "Xây dựng bản mẫu trò chơi phiêu lưu 3D trong Unity bằng các cảnh đã chuẩn bị trong Blender và tài nguyên Tripo. Tích hợp hoạt ảnh nhân vật vào bản chơi thử.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/the-legend-of-astra-game-prototype-2096064140510970318"
+    },
+    "2096566686266597754": {
+      "title": "Từ phác thảo căn hộ đến ảnh nội thất kết xuất",
+      "description": "Kết hợp ảnh tham khảo căn hộ với bản phác mặt bằng đơn giản để tái dựng nội thất trong Blender. Bàn giao cảnh có thể chỉnh sửa, ảnh kết xuất từng phòng và video tham quan ngắn đã biên tập.",
+      "prompt": "Kết hợp ảnh tham khảo căn hộ với bản phác mặt bằng đơn giản để tái dựng nội thất trong Blender. Bàn giao cảnh có thể chỉnh sửa, ảnh kết xuất từng phòng và video tham quan ngắn đã biên tập.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754"
+    },
+    "2095993826569502785": {
+      "title": "Cảnh dòng sông tương tác trong trình duyệt",
+      "description": "Tạo cảnh dòng sông tương tác chạy trong trình duyệt. Trước tiên dựng bản mẫu nước thời gian thực hoạt động được, sau đó kiểm tra và hoàn thiện kết quả hình ảnh.",
+      "prompt": "Tạo cảnh dòng sông tương tác chạy trong trình duyệt. Trước tiên dựng bản mẫu nước thời gian thực hoạt động được, sau đó kiểm tra và hoàn thiện kết quả hình ảnh.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/interactive-browser-river-scene-2095993826569502785"
+    },
+    "2096128774203171021": {
+      "title": "Bay quanh Adiyogi trong ánh chiều",
+      "description": "Dựng cảnh Adiyogi trong Blender với khuôn viên rộng, các góc cận cảnh chi tiết và ánh chiều ấm. Kết xuất đoạn bay tham quan 30 giây và giữ lại cảnh có thể chỉnh sửa.",
+      "prompt": "Dựng cảnh Adiyogi trong Blender với khuôn viên rộng, các góc cận cảnh chi tiết và ánh chiều ấm. Kết xuất đoạn bay tham quan 30 giây và giữ lại cảnh có thể chỉnh sửa.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/adiyogi-evening-fly-through-2096128774203171021"
+    },
+    "2096521798150242631": {
+      "title": "Mặt nước lặp tuần hoàn bằng Geometry Nodes",
+      "description": "Tạo hiệu ứng mặt nước tuần hoàn bằng Blender Geometry Nodes mà không bake. Giữ hệ thống nút ở dạng có thể chỉnh sửa và mô tả đây là mô hình bề mặt, không phải mô phỏng chất lỏng đầy đủ.",
+      "prompt": "Tạo hiệu ứng mặt nước tuần hoàn bằng Blender Geometry Nodes mà không bake. Giữ hệ thống nút ở dạng có thể chỉnh sửa và mô tả đây là mô hình bề mặt, không phải mô phỏng chất lỏng đầy đủ.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631"
+    },
+    "2096518775042707700": {
+      "title": "Thế giới hàng hải lấy cảm hứng từ One Piece",
+      "description": "Xây dựng một thế giới hàng hải có thể chơi được với tàu dựng trong Blender và đại dương Three.js. Thêm thời tiết thay đổi, khám phá dưới nước, vệt sóng sau tàu, bọt, nước bắn và cánh buồm chuyển động.",
+      "prompt": "Xây dựng một thế giới hàng hải có thể chơi được với tàu dựng trong Blender và đại dương Three.js. Thêm thời tiết thay đổi, khám phá dưới nước, vệt sóng sau tàu, bọt, nước bắn và cánh buồm chuyển động.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700"
+    },
+    "2096572156453028193": {
+      "title": "Tập hút Lorenz tương tác",
+      "description": "Trực quan hóa hai quỹ đạo của hệ Lorenz có vị trí ban đầu chênh nhau rất nhỏ. Cho người xem điều chỉnh độ chênh và tua qua các thời điểm, đồng thời phân biệt việc kiểm tra bằng tính toán số với dự đoán dài hạn chính xác.",
+      "prompt": "Trực quan hóa hai quỹ đạo của hệ Lorenz có vị trí ban đầu chênh nhau rất nhỏ. Cho người xem điều chỉnh độ chênh và tua qua các thời điểm, đồng thời phân biệt việc kiểm tra bằng tính toán số với dự đoán dài hạn chính xác.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/interactive-lorenz-attractor-2096572156453028193"
+    },
+    "2096358854275543457": {
+      "title": "Quán rượu với nhân viên và khách hoạt động",
+      "description": "Tái dựng quán rượu từ ảnh tham khảo rồi thêm khách và nhân viên. Cho khách gọi đồ ăn, thức uống và nhân viên chuẩn bị các món đó, có xử lý va chạm và tìm đường.",
+      "prompt": "Tái dựng quán rượu từ ảnh tham khảo rồi thêm khách và nhân viên. Cho khách gọi đồ ăn, thức uống và nhân viên chuẩn bị các món đó, có xử lý va chạm và tìm đường.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457"
+    },
+    "2096506357868642342": {
+      "title": "Biến căn phòng riêng thành hồ sơ năng lực tương tác",
+      "description": "Biến căn phòng riêng thành website tự giới thiệu có tính tương tác. Dựng và bake cảnh trong Blender, sau đó thêm hơi cà phê, hoạt ảnh kiểu Matrix và hiệu ứng shader nhẹ nhàng.",
+      "prompt": "Biến căn phòng riêng thành website tự giới thiệu có tính tương tác. Dựng và bake cảnh trong Blender, sau đó thêm hơi cà phê, hoạt ảnh kiểu Matrix và hiệu ứng shader nhẹ nhàng.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342"
+    },
+    "2096503275910832461": {
+      "title": "Thuyền YF-24 trên mặt biển 3D êm dịu",
+      "description": "Dựng thuyền YF-24 trong Blender và tạo hoạt cảnh thuyền di chuyển trên biển ba chiều với gió cấp 2 theo thang Beaufort. Dùng tư liệu tham khảo về thuyền để cải thiện hình dáng.",
+      "prompt": "Dựng thuyền YF-24 trong Blender và tạo hoạt cảnh thuyền di chuyển trên biển ba chiều với gió cấp 2 theo thang Beaufort. Dùng tư liệu tham khảo về thuyền để cải thiện hình dáng.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"
+    },
+    "2096413869841473930": {
+      "title": "Căn hộ lấy cảm hứng từ D4 có thể khám phá trong game",
+      "description": "Nghiên cứu căn hộ của nhân vật chính trong D4 và tái dựng thành bản mẫu 3D có thể chơi được. Đối chiếu bố cục và tương tác với tư liệu tham khảo thay vì mặc định rằng đã tái hiện chính xác.",
+      "prompt": "Nghiên cứu căn hộ của nhân vật chính trong D4 và tái dựng thành bản mẫu 3D có thể chơi được. Đối chiếu bố cục và tương tác với tư liệu tham khảo thay vì mặc định rằng đã tái hiện chính xác.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/playable-d4-inspired-apartment-2096413869841473930"
+    },
+    "2096398839830008292": {
+      "title": "Trò chơi thành phố trên trình duyệt với nhân vật có sẵn",
+      "description": "Xây dựng trò chơi thành phố WebGL dùng RIO_MA002.fbx làm nhân vật người chơi. Dựng xe cộ và đường phố trong Blender theo tư liệu tham khảo, rồi cải thiện NPC, vật lý lái xe, đạo cụ có thể phá hủy và khu ngoại ô.",
+      "prompt": "Xây dựng trò chơi thành phố WebGL dùng RIO_MA002.fbx làm nhân vật người chơi. Dựng xe cộ và đường phố trong Blender theo tư liệu tham khảo, rồi cải thiện NPC, vật lý lái xe, đạo cụ có thể phá hủy và khu ngoại ô.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/browser-city-game-with-a-supplied-character-2096398839830008292"
+    },
+    "2096339041679442428": {
+      "title": "Khám phá quỹ đạo trong Hệ Mặt Trời",
+      "description": "Tạo công cụ khám phá Hệ Mặt Trời trong trình duyệt bằng Three.js với tám hành tinh và hai mươi vệ tinh. Cho phép di chuyển camera và lập kế hoạch bay không gian ở mức đơn giản.",
+      "prompt": "Tạo công cụ khám phá Hệ Mặt Trời trong trình duyệt bằng Three.js với tám hành tinh và hai mươi vệ tinh. Cho phép di chuyển camera và lập kế hoạch bay không gian ở mức đơn giản.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/orbital-solar-system-explorer-2096339041679442428"
+    },
+    "2096093614397170104": {
+      "title": "Sự hình thành hố đen qua WebGL",
+      "description": "Tạo bài trình chiếu giáo dục về sự hình thành hố đen với hình ảnh trực quan WebGL. Dùng các cảnh 3D động để minh họa phần giải thích.",
+      "prompt": "Tạo bài trình chiếu giáo dục về sự hình thành hố đen với hình ảnh trực quan WebGL. Dùng các cảnh 3D động để minh họa phần giải thích.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/black-hole-formation-in-webgl-2096093614397170104"
+    },
+    "2096559197999501724": {
+      "title": "Từ logo 2D đến nhân vật chuyển động",
+      "description": "Chuyển logo nhân vật 2D được cung cấp thành phiên bản 3D có hoạt ảnh. Giữ các đặc điểm nhận diện của nhân vật khi bổ sung hình khối và chuyển động.",
+      "prompt": "Chuyển logo nhân vật 2D được cung cấp thành phiên bản 3D có hoạt ảnh. Giữ các đặc điểm nhận diện của nhân vật khi bổ sung hình khối và chuyển động.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724"
+    },
+    "2096337879173591171": {
+      "title": "Trò chơi chú cua với cơ chế xoay quanh hành động",
+      "description": "Xây dựng trò chơi chú cua bằng Three.js từ bản yêu cầu có cấu trúc, bao gồm diện mạo, nhân vật, thế giới, hành động, mục tiêu, giao diện và camera. Làm cho đồng xu nổi lên rồi bay về phía cua khi cua đi ngang; chỉ rõ các yêu cầu mâu thuẫn nhau.",
+      "prompt": "Xây dựng trò chơi chú cua bằng Three.js từ bản yêu cầu có cấu trúc, bao gồm diện mạo, nhân vật, thế giới, hành động, mục tiêu, giao diện và camera. Làm cho đồng xu nổi lên rồi bay về phía cua khi cua đi ngang; chỉ rõ các yêu cầu mâu thuẫn nhau.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171"
+    },
+    "2096262733259837681": {
+      "title": "Quảng trường Thống Nhất ở Cluj-Napoca bằng voxel",
+      "description": "Tạo thế giới voxel tương tác tái hiện Piața Unirii ở Cluj-Napoca. Chuyển bố cục đặc trưng và các địa danh của quảng trường thành mô hình thu nhỏ có thể khám phá.",
+      "prompt": "Tạo thế giới voxel tương tác tái hiện Piața Unirii ở Cluj-Napoca. Chuyển bố cục đặc trưng và các địa danh của quảng trường thành mô hình thu nhỏ có thể khám phá.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681"
+    },
+    "2096555183790575682": {
+      "title": "Ngôi làng Đêm đầy sao với chu kỳ ngày đêm",
+      "description": "Biến bức Đêm đầy sao của Van Gogh thành ngôi làng 3D có thể khám phá, với cư dân, ánh sáng và chu kỳ ngày đêm. Kết xuất một bộ phim ngắn đi qua thế giới đã hoàn thiện.",
+      "prompt": "Biến bức Đêm đầy sao của Van Gogh thành ngôi làng 3D có thể khám phá, với cư dân, ánh sáng và chu kỳ ngày đêm. Kết xuất một bộ phim ngắn đi qua thế giới đã hoàn thiện.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/starry-night-village-with-a-day-night-cycle-2096555183790575682"
+    },
+    "2096510126244999366": {
+      "title": "Giao diện Three.js bám sát thiết kế tham khảo",
+      "description": "Tái hiện thiết kế tham khảo trong một tệp HTML bằng Three.js. Liên tục so sánh kết quả và sửa các khác biệt; tinh chỉnh ánh sáng, độ sâu của mô hình và các nút điều khiển dạng kính, kèm hiệu ứng nhẹ phản hồi theo con trỏ.",
+      "prompt": "Tái hiện thiết kế tham khảo trong một tệp HTML bằng Three.js. Liên tục so sánh kết quả và sửa các khác biệt; tinh chỉnh ánh sáng, độ sâu của mô hình và các nút điều khiển dạng kính, kèm hiệu ứng nhẹ phản hồi theo con trỏ.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/reference-matched-three-js-interface-2096510126244999366"
+    },
+    "2096481425050743048": {
+      "title": "Lắp ghép và tạo hoạt ảnh cho các mô hình 3D đã tạo",
+      "description": "Tạo tài nguyên 3D đã tối ưu bằng Tripo P2, lắp ghép trong Blender, rồi gắn xương và tạo hoạt ảnh cho nhân vật. Kiểm tra sự phù hợp về không gian giữa nhân vật và cảnh.",
+      "prompt": "Tạo tài nguyên 3D đã tối ưu bằng Tripo P2, lắp ghép trong Blender, rồi gắn xương và tạo hoạt ảnh cho nhân vật. Kiểm tra sự phù hợp về không gian giữa nhân vật và cảnh.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048"
+    },
+    "2096269057544831175": {
+      "title": "Trang đích biển sâu với ánh sáng sinh học",
+      "description": "Xây dựng trang đích biển sâu với hiệu ứng nước Three.js, giao diện kính tối màu và chuyển động theo thao tác cuộn. Kết hợp bầu không khí 3D với tương tác website rõ ràng, thích ứng với các kích thước màn hình.",
+      "prompt": "Xây dựng trang đích biển sâu với hiệu ứng nước Three.js, giao diện kính tối màu và chuyển động theo thao tác cuộn. Kết hợp bầu không khí 3D với tương tác website rõ ràng, thích ứng với các kích thước màn hình.",
+      "evidenceNote": "Được biên soạn từ mô tả dự án công khai của tác giả.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/vi/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175"
     }
   }
 }

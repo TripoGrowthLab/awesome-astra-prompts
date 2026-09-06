@@ -42,6 +42,8 @@ const ORIGIN = 'https://www.tripo3d.ai';
 const homepage = `${ORIGIN}/3d-prompts/models/${MODEL}`;
 const selected = PROMPTS.filter(entry => entry.model === MODEL);
 if (!selected.length) throw new Error('No Astra prompts found in final PROMPTS export.');
+const featuredIds = JSON.parse(await readFile(join(source, 'shared/data/prompt-featured.json'), 'utf8'));
+if (!Array.isArray(featuredIds) || !featuredIds.length || new Set(featuredIds).size !== featuredIds.length || featuredIds.some(id => !selected.some(entry => entry.id === id))) throw new Error('Featured IDs must be unique Astra IDs in this snapshot.');
 const locales = configuredLocales.map(entry => entry.code);
 if (new Set(locales).size !== locales.length) throw new Error('Duplicate locale code.');
 const catalogs = Object.fromEntries(await Promise.all(locales.map(async locale => {
@@ -104,7 +106,7 @@ const prompts = selected.map(entry => {
 });
 const files = new Map();
 const addJson = (path, data) => files.set(path, `${JSON.stringify(data, null, 2)}\n`);
-addJson('data/prompts.json', { schemaVersion: 1, model: { id: MODEL, name: 'GPT-6 Astra' }, homepage, locales, count: prompts.length, prompts });
+addJson('data/prompts.json', { schemaVersion: 1, model: { id: MODEL, name: 'GPT-6 Astra' }, homepage, locales, count: prompts.length, featuredIds, prompts });
 for (const locale of locales) {
   addJson(`data/locales/${locale}.json`, {
     locale, model: MODEL, count: prompts.length,

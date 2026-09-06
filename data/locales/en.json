@@ -1,7 +1,7 @@
 {
   "locale": "en",
   "model": "gpt-6-astra",
-  "count": 103,
+  "count": 153,
   "prompts": {
     "2095596175705399482": {
       "title": "Surviving society of autonomous Unreal humans",
@@ -1223,6 +1223,556 @@
         "Blender"
       ],
       "pageUrl": "https://www.tripo3d.ai/3d-prompts/formula-one-car-in-blender-2096125193580113957"
+    },
+    "2096525100518453342": {
+      "title": "Switchable character expressions in Blender",
+      "description": "Set up expression variants of a Tripo character in Blender before rigging. Align the meshes and switch them discretely, shrinking inactive variants inside the head. Do not imply smooth blending or VRM compatibility.",
+      "prompt": "Set up expression variants of a Tripo character in Blender before rigging. Align the meshes and switch them discretely, shrinking inactive variants inside the head. Do not imply smooth blending or VRM compatibility.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"
+    },
+    "2096308567863079420": {
+      "title": "Warcraft-inspired character scene in Unity",
+      "description": "Build a Warcraft-inspired character scene with Astra, Tripo P2, Blender and Unity. Generate the character asset, prepare it in Blender and assemble a playable scene in Unity.",
+      "prompt": "Build a Warcraft-inspired character scene with Astra, Tripo P2, Blender and Unity. Generate the character asset, prepare it in Blender and assemble a playable scene in Unity.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420"
+    },
+    "2096015772334047319": {
+      "title": "Three.js battle arena with Tripo assets",
+      "description": "Build a playable battle arena in Three.js. Use Tripo-generated characters and trees, and integrate them into the arena and its game loop.",
+      "prompt": "Build a playable battle arena in Three.js. Use Tripo-generated characters and trees, and integrate them into the arena and its game loop.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/three-js-battle-arena-with-tripo-assets-2096015772334047319"
+    },
+    "2096579856133947507": {
+      "title": "Rotatable 3D shogi board",
+      "description": "Build a playable 3D shogi application with a freely rotatable board. Refine the board, pieces and interactions through successive reviews.",
+      "prompt": "Build a playable 3D shogi application with a freely rotatable board. Refine the board, pieces and interactions through successive reviews.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/rotatable-3d-shogi-board-2096579856133947507"
+    },
+    "2096578761877860502": {
+      "title": "Exploded desktop-computer atlas",
+      "description": "Create an interactive 3D website that separates a desktop computer into 29 core components. Add animated disassembly and explanations for each part.",
+      "prompt": "Create an interactive 3D website that separates a desktop computer into 29 core components. Add animated disassembly and explanations for each part.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502"
+    },
+    "2096578684010508736": {
+      "title": "Children's room and workspace planner",
+      "description": "Reconstruct a child's room that doubles as a workspace from four corner photos and room dimensions. Show adult and child viewpoints, an overview and alternative furniture layouts.",
+      "prompt": "Reconstruct a child's room that doubles as a workspace from four corner photos and room dimensions. Show adult and child viewpoints, an overview and alternative furniture layouts.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736"
+    },
+    "2095999282088378520": {
+      "title": "Linked floor plan and 3D walkthrough",
+      "description": "Build a one-bedroom apartment walkthrough and a floor plan from the same dimensions. Synchronize the current position between views and clearly label assumed ceiling heights and finishes.",
+      "prompt": "Build a one-bedroom apartment walkthrough and a floor plan from the same dimensions. Synchronize the current position between views and clearly label assumed ceiling heights and finishes.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520"
+    },
+    "2096557555086725159": {
+      "title": "Interactive miniature of Seoul",
+      "description": "Build a Three.js miniature of Seoul from open map data. Add district navigation, landmark fly-throughs, day and night modes and touch controls. Disclose simplified buildings, estimated heights and data licenses.",
+      "prompt": "Build a Three.js miniature of Seoul from open map data. Add district navigation, landmark fly-throughs, day and night modes and touch controls. Disclose simplified buildings, estimated heights and data licenses.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/interactive-miniature-of-seoul-2096557555086725159"
+    },
+    "2096551010089263181": {
+      "title": "Interactive dual-ring energy core",
+      "description": "Model an energy core, two rings and a metal base in Blender. Export the materials to a Three.js viewer with rotation, zoom, automatic orbit and pulse controls.",
+      "prompt": "Model an energy core, two rings and a metal base in Blender. Export the materials to a Three.js viewer with rotation, zoom, automatic orbit and pulse controls.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181"
+    },
+    "2096460081982304546": {
+      "title": "Surface-climbing procedural insect",
+      "description": "Create a multi-legged 3D insect that walks while adhering to different surfaces. Coordinate its legs and body as it crosses changes in height.",
+      "prompt": "Create a multi-legged 3D insect that walks while adhering to different surfaces. Coordinate its legs and body as it crosses changes in height.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/surface-climbing-procedural-insect-2096460081982304546"
+    },
+    "2096467585785286808": {
+      "title": "Wright Flyer through a Japanese forest",
+      "description": "Build a Three.js flight game featuring the 1903 Wright Flyer in a Japanese forest. Research the aircraft and procedurally create the plane, trees, torii gates, houses and mountains without external assets.",
+      "prompt": "Build a Three.js flight game featuring the 1903 Wright Flyer in a Japanese forest. Research the aircraft and procedurally create the plane, trees, torii gates, houses and mountains without external assets.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"
+    },
+    "2096576154337734865": {
+      "title": "A house modeled from scratch in Blender",
+      "description": "Model a house from scratch in Blender. Keep the scene editable so the building can be inspected and refined in subsequent iterations.",
+      "prompt": "Model a house from scratch in Blender. Keep the scene editable so the building can be inspected and refined in subsequent iterations.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865"
+    },
+    "2096143359505269079": {
+      "title": "Coffee-shop photo to vertical walkthrough",
+      "description": "Rebuild a coffee shop from its photo in Blender, including the wooden ceiling, light strips, roaster, shelves and plants. Deliver an editable scene and a 15-second vertical camera walkthrough.",
+      "prompt": "Rebuild a coffee shop from its photo in Blender, including the wooden ceiling, light strips, roaster, shelves and plants. Deliver an editable scene and a 15-second vertical camera walkthrough.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"
+    },
+    "2096501340889374883": {
+      "title": "Top-floor plan to Blender preview",
+      "description": "Use a home's top-floor plan to build a Blender scene and render a 10-second low-sample preview. Prioritize a clear spatial layout before refining materials.",
+      "prompt": "Use a home's top-floor plan to build a Blender scene and render a 10-second low-sample preview. Prioritize a clear spatial layout before refining materials.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883"
+    },
+    "2096298425914450021": {
+      "title": "Lisbon's Terreiro do Paço in Blender",
+      "description": "Recreate Terreiro do Paço in Lisbon as an editable Blender scene. Use reference research to guide the square's architecture, materials and lighting.",
+      "prompt": "Recreate Terreiro do Paço in Lisbon as an editable Blender scene. Use reference research to guide the square's architecture, materials and lighting.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021"
+    },
+    "2096574297703637111": {
+      "title": "The Quiet Crossing exploration quest",
+      "description": "Build a snowy Three.js exploration game with a Blender character, voxel pines and a stone waygate. Collect six glowing fragments, follow the character with the camera and show the gate's distance.",
+      "prompt": "Build a snowy Three.js exploration game with a Blender character, voxel pines and a stone waygate. Collect six glowing fragments, follow the character with the camera and show the gate's distance.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111"
+    },
+    "2096263046918197609": {
+      "title": "Dense procedural forest in Three.js",
+      "description": "Create a detailed Three.js forest with thousands of trees, dense grass and ferns. Use custom shaders and efficient repeated geometry to preserve detail across the scene.",
+      "prompt": "Create a detailed Three.js forest with thousands of trees, dense grass and ferns. Use custom shaders and efficient repeated geometry to preserve detail across the scene.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609"
+    },
+    "2096013228090245181": {
+      "title": "TP-7 recorder reference model",
+      "description": "Recreate the Teenage Engineering TP-7 in Three.js from reference images. Match its shape and visible controls in an inspectable 3D model.",
+      "prompt": "Recreate the Teenage Engineering TP-7 in Three.js from reference images. Match its shape and visible controls in an inspectable 3D model.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/tp-7-recorder-reference-model-2096013228090245181"
+    },
+    "2096577430274429157": {
+      "title": "Steam locomotive across the countryside",
+      "description": "Model a steam locomotive in Three.js and animate it travelling through a countryside scene. Synchronize the wheel movement with the train's motion.",
+      "prompt": "Model a steam locomotive in Three.js and animate it travelling through a countryside scene. Synchronize the wheel movement with the train's motion.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157"
+    },
+    "2096561346766877106": {
+      "title": "Vinyl-player tabletop scene",
+      "description": "Build a Three.js vinyl-player scene on a table. Stage a product-style demonstration with lamps switching on and a camera that shows the player and surrounding furniture.",
+      "prompt": "Build a Three.js vinyl-player scene on a table. Stage a product-style demonstration with lamps switching on and a camera that shows the player and surrounding furniture.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106"
+    },
+    "2096555856204644550": {
+      "title": "Trading-card battle game loop",
+      "description": "Build a Three.js trading-card prototype: buy decks and boosters, construct a deck, enter a battle arena and earn rewards. Keep placeholder meshes replaceable with finished assets.",
+      "prompt": "Build a Three.js trading-card prototype: buy decks and boosters, construct a deck, enter a battle arena and earn rewards. Keep placeholder meshes replaceable with finished assets.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/trading-card-battle-game-loop-2096555856204644550"
+    },
+    "2096362653480562751": {
+      "title": "Railway network simulation game",
+      "description": "Expand a Three.js train model into a railway simulation with cities, junctions, rivers and bridges. Add train-following, free 3D and isometric cameras, plus smoke effects.",
+      "prompt": "Expand a Three.js train model into a railway simulation with cities, junctions, rivers and bridges. Add train-following, free 3D and isometric cameras, plus smoke effects.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/railway-network-simulation-game-2096362653480562751"
+    },
+    "2096490395614019793": {
+      "title": "Walkable low-poly Gwacheon village",
+      "description": "Create a cozy, explorable low-poly village inspired by Gwacheon in a single HTML file. Combine procedural 3D scenery, atmosphere, interface and interactions.",
+      "prompt": "Create a cozy, explorable low-poly village inspired by Gwacheon in a single HTML file. Combine procedural 3D scenery, atmosphere, interface and interactions.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793"
+    },
+    "2096505740643246231": {
+      "title": "Complete Three.js puzzle level",
+      "description": "Build a complete 3D puzzle-game level in Three.js, including its playable mechanics. Integrate supplied audio after the level and interactions work.",
+      "prompt": "Build a complete 3D puzzle-game level in Three.js, including its playable mechanics. Integrate supplied audio after the level and interactions work.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/complete-three-js-puzzle-level-2096505740643246231"
+    },
+    "2096570815714414844": {
+      "title": "Low-poly beach treasure hunt",
+      "description": "Build a playable 3D treasure hunt on a beach in Unity. Model low-poly palm trees and wooden decks, and establish the core exploration and treasure-finding loop.",
+      "prompt": "Build a playable 3D treasure hunt on a beach in Unity. Model low-poly palm trees and wooden decks, and establish the core exploration and treasure-finding loop.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844"
+    },
+    "2096560142871658589": {
+      "title": "Blender models with Unity VFX",
+      "description": "Create scene models in Blender and import them into Unity. Add effects with VFX Graph and light the scene so the models and effects read clearly together.",
+      "prompt": "Create scene models in Blender and import them into Unity. Add effects with VFX Graph and light the scene so the models and effects read clearly together.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/blender-models-with-unity-vfx-2096560142871658589"
+    },
+    "2096556692842348826": {
+      "title": "Mobile-playable Unity rally game",
+      "description": "Build a rally-driving prototype with Codex, Blender and Unity. Prepare its 3D assets and controls for playtesting on a phone.",
+      "prompt": "Build a rally-driving prototype with Codex, Blender and Unity. Prepare its 3D assets and controls for playtesting on a phone.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826"
+    },
+    "2096572429066006845": {
+      "title": "Indian mango tree in SpeedTree",
+      "description": "Create an Indian mango tree in SpeedTree for an Unreal scene targeting 60 FPS. Generate leaf and bark materials and review their appearance before finalizing the asset.",
+      "prompt": "Create an Indian mango tree in SpeedTree for an Unreal scene targeting 60 FPS. Generate leaf and bark materials and review their appearance before finalizing the asset.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Unreal Engine"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845"
+    },
+    "2096566598689783878": {
+      "title": "Texture and rig a Tripo character",
+      "description": "Take a Tripo Smart Mesh character into Blender. Apply its textures and build a usable body rig before moving on to facial expressions.",
+      "prompt": "Take a Tripo Smart Mesh character into Blender. Apply its textures and build a usable body rig before moving on to facial expressions.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878"
+    },
+    "2096064140510970318": {
+      "title": "The Legend of Astra game prototype",
+      "description": "Build a 3D adventure-game prototype in Unity using Blender-prepared scenes and Tripo assets. Integrate character animation into the playable demo.",
+      "prompt": "Build a 3D adventure-game prototype in Unity using Blender-prepared scenes and Tripo assets. Integrate character animation into the playable demo.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/the-legend-of-astra-game-prototype-2096064140510970318"
+    },
+    "2096566686266597754": {
+      "title": "Apartment sketch to rendered interiors",
+      "description": "Combine apartment reference images with a simple floor-plan sketch to reconstruct the interior in Blender. Deliver an editable scene, room renders and a short edited walkthrough.",
+      "prompt": "Combine apartment reference images with a simple floor-plan sketch to reconstruct the interior in Blender. Deliver an editable scene, room renders and a short edited walkthrough.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754"
+    },
+    "2095993826569502785": {
+      "title": "Interactive browser river scene",
+      "description": "Create an interactive river scene that runs in the browser. Establish a working real-time water prototype, then inspect and refine the visual result.",
+      "prompt": "Create an interactive river scene that runs in the browser. Establish a working real-time water prototype, then inspect and refine the visual result.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/interactive-browser-river-scene-2095993826569502785"
+    },
+    "2096128774203171021": {
+      "title": "Adiyogi evening fly-through",
+      "description": "Build an Adiyogi scene in Blender with wide grounds, detailed close-ups and warm evening light. Render a 30-second fly-through and retain the editable scene.",
+      "prompt": "Build an Adiyogi scene in Blender with wide grounds, detailed close-ups and warm evening light. Render a 30-second fly-through and retain the editable scene.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/adiyogi-evening-fly-through-2096128774203171021"
+    },
+    "2096521798150242631": {
+      "title": "Looping water with Geometry Nodes",
+      "description": "Create a periodic water-surface effect using Blender Geometry Nodes without baking. Keep the node setup editable and describe it as a surface model, not a full fluid simulation.",
+      "prompt": "Create a periodic water-surface effect using Blender Geometry Nodes without baking. Keep the node setup editable and describe it as a surface model, not a full fluid simulation.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631"
+    },
+    "2096518775042707700": {
+      "title": "One Piece-inspired sailing world",
+      "description": "Build a playable sailing world with a Blender ship and a Three.js ocean. Add changing weather, underwater exploration, wake, foam, spray and moving sails.",
+      "prompt": "Build a playable sailing world with a Blender ship and a Three.js ocean. Add changing weather, underwater exploration, wake, foam, spray and moving sails.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700"
+    },
+    "2096572156453028193": {
+      "title": "Interactive Lorenz attractor",
+      "description": "Visualize two Lorenz-system trajectories with a tiny initial-position difference. Let viewers change the difference and scrub through time, while distinguishing numerical checks from exact long-term predictions.",
+      "prompt": "Visualize two Lorenz-system trajectories with a tiny initial-position difference. Let viewers change the difference and scrub through time, while distinguishing numerical checks from exact long-term predictions.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/interactive-lorenz-attractor-2096572156453028193"
+    },
+    "2096358854275543457": {
+      "title": "Tavern with working staff and guests",
+      "description": "Recreate a tavern from a reference image and populate it with guests and workers. Guests order food and drinks; staff prepare them, with collision handling and pathfinding.",
+      "prompt": "Recreate a tavern from a reference image and populate it with guests and workers. Guests order food and drinks; staff prepare them, with collision handling and pathfinding.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457"
+    },
+    "2096506357868642342": {
+      "title": "Personal room as an interactive portfolio",
+      "description": "Turn a personal room into an interactive self-introduction website. Build and bake the scene in Blender, then add coffee steam, Matrix-style animation and subtle shader effects.",
+      "prompt": "Turn a personal room into an interactive self-introduction website. Build and bake the scene in Blender, then add coffee steam, Matrix-style animation and subtle shader effects.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342"
+    },
+    "2096503275910832461": {
+      "title": "YF-24 boat on a gentle 3D sea",
+      "description": "Model a YF-24 boat in Blender and animate it travelling across a three-dimensional sea at Beaufort force 2. Use boat references to improve the shape.",
+      "prompt": "Model a YF-24 boat in Blender and animate it travelling across a three-dimensional sea at Beaufort force 2. Use boat references to improve the shape.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"
+    },
+    "2096413869841473930": {
+      "title": "Playable D4-inspired apartment",
+      "description": "Research the protagonist's apartment from D4 and recreate it as a playable 3D prototype. Inspect the layout and interactions against references rather than assuming an exact recreation.",
+      "prompt": "Research the protagonist's apartment from D4 and recreate it as a playable 3D prototype. Inspect the layout and interactions against references rather than assuming an exact recreation.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/playable-d4-inspired-apartment-2096413869841473930"
+    },
+    "2096398839830008292": {
+      "title": "Browser city game with a supplied character",
+      "description": "Build a WebGL city game using RIO_MA002.fbx as the player. Model referenced vehicles and streets in Blender, then improve NPCs, driving physics, destructible props and suburban areas.",
+      "prompt": "Build a WebGL city game using RIO_MA002.fbx as the player. Model referenced vehicles and streets in Blender, then improve NPCs, driving physics, destructible props and suburban areas.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/browser-city-game-with-a-supplied-character-2096398839830008292"
+    },
+    "2096339041679442428": {
+      "title": "Orbital solar-system explorer",
+      "description": "Create a browser solar-system explorer in Three.js with eight planets and twenty moons. Allow camera movement and simplified spaceflight planning.",
+      "prompt": "Create a browser solar-system explorer in Three.js with eight planets and twenty moons. Allow camera movement and simplified spaceflight planning.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/orbital-solar-system-explorer-2096339041679442428"
+    },
+    "2096093614397170104": {
+      "title": "Black-hole formation in WebGL",
+      "description": "Create an educational slideshow about black-hole formation with WebGL visualizations. Use animated 3D scenes to accompany the explanations.",
+      "prompt": "Create an educational slideshow about black-hole formation with WebGL visualizations. Use animated 3D scenes to accompany the explanations.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/black-hole-formation-in-webgl-2096093614397170104"
+    },
+    "2096559197999501724": {
+      "title": "A 2D logo becomes an animated character",
+      "description": "Turn a supplied 2D character logo into an animated 3D version. Preserve its recognizable identity as the character gains volume and movement.",
+      "prompt": "Turn a supplied 2D character logo into an animated 3D version. Preserve its recognizable identity as the character gains volume and movement.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724"
+    },
+    "2096337879173591171": {
+      "title": "A crab game with action-driven mechanics",
+      "description": "Build a Three.js crab game from a structured brief covering appearance, character, world, actions, goals, interface and camera. Make coins rise and fly toward the passing crab; flag contradictory requirements.",
+      "prompt": "Build a Three.js crab game from a structured brief covering appearance, character, world, actions, goals, interface and camera. Make coins rise and fly toward the passing crab; flag contradictory requirements.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171"
+    },
+    "2096262733259837681": {
+      "title": "Cluj-Napoca Union Square in voxels",
+      "description": "Create an interactive voxel world of Piața Unirii in Cluj-Napoca. Adapt the square's recognizable layout and landmarks into an explorable miniature.",
+      "prompt": "Create an interactive voxel world of Piața Unirii in Cluj-Napoca. Adapt the square's recognizable layout and landmarks into an explorable miniature.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681"
+    },
+    "2096555183790575682": {
+      "title": "Starry Night village with a day-night cycle",
+      "description": "Transform Van Gogh's Starry Night into an explorable 3D village with inhabitants, lighting and a day-night cycle. Render a short film through the finished world.",
+      "prompt": "Transform Van Gogh's Starry Night into an explorable 3D village with inhabitants, lighting and a day-night cycle. Render a short film through the finished world.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/starry-night-village-with-a-day-night-cycle-2096555183790575682"
+    },
+    "2096510126244999366": {
+      "title": "Reference-matched Three.js interface",
+      "description": "Recreate a reference in one HTML file with Three.js. Repeatedly compare the result and correct differences; refine lighting, model depth and glass-like controls with subtle pointer-responsive effects.",
+      "prompt": "Recreate a reference in one HTML file with Three.js. Repeatedly compare the result and correct differences; refine lighting, model depth and glass-like controls with subtle pointer-responsive effects.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/reference-matched-three-js-interface-2096510126244999366"
+    },
+    "2096481425050743048": {
+      "title": "Assemble and animate generated 3D assets",
+      "description": "Generate optimized 3D assets with Tripo P2, assemble them in Blender, and rig and animate the characters. Review how the characters and scene fit together spatially.",
+      "prompt": "Generate optimized 3D assets with Tripo P2, assemble them in Blender, and rig and animate the characters. Review how the characters and scene fit together spatially.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048"
+    },
+    "2096269057544831175": {
+      "title": "Bioluminescent deep-sea landing page",
+      "description": "Build a deep-sea landing page with Three.js water effects, a dark glass-like interface and scroll-driven motion. Combine the 3D atmosphere with clear, responsive website interactions.",
+      "prompt": "Build a deep-sea landing page with Three.js water effects, a dark glass-like interface and scroll-driven motion. Combine the 3D atmosphere with clear, responsive website interactions.",
+      "evidenceNote": "Adapted from the author’s public project description.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175"
     }
   }
 }

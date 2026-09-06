@@ -53,6 +53,9 @@ assert.equal(data.count, data.prompts.length)
 assert.equal(manifest.count, data.count)
 const ids = data.prompts.map(prompt => prompt.id)
 assert.equal(new Set(ids).size, ids.length, 'Duplicate IDs')
+assert(Array.isArray(data.featuredIds) && data.featuredIds.length > 0, 'Missing shared featured IDs')
+assert.equal(new Set(data.featuredIds).size, data.featuredIds.length, 'Duplicate featured IDs')
+for (const id of data.featuredIds) assert(ids.includes(id), `Unknown featured ID: ${id}`)
 assert.equal(new Set(data.prompts.map(prompt => new URL(prompt.source.url).pathname.split('/status/')[1])).size, ids.length, 'Duplicate source posts')
 for (const prompt of data.prompts) {
   assert(prompt.source.url.endsWith(`/status/${prompt.id}`), 'ID must be the exact tweet ID string')
@@ -101,6 +104,18 @@ for (const file of assets.files) {
   }
 }
 assert.deepEqual(imageIds.sort(), [...ids].sort(), 'Image provenance must cover every prompt exactly once')
+const featured = await read('assets/featured/manifest.json')
+assert.deepEqual(featured.files.map(file => file.id), data.featuredIds, 'Featured thumbnail order must match the website selection')
+for (const file of featured.files) {
+  assert.equal(file.path, `assets/featured/${file.id}.webp`)
+  assert.equal(file.sourcePath, data.prompts.find(prompt => prompt.id === file.id)?.media.image)
+  assert.equal(hash(await readFile(file.sourcePath)), file.sourceSha256, `Stale featured source: ${file.id}`)
+  const bytes = await readFile(file.path)
+  assert.equal(hash(bytes), file.sha256, `Featured checksum: ${file.id}`)
+  assert.equal(bytes.length, file.bytes)
+  assert.equal(file.width, 840)
+  assert.equal(file.height, 525)
+}
 async function files(directory) {
   const entries = await readdir(directory, { withFileTypes: true })
   return (await Promise.all(entries.filter(entry => !['.git', 'node_modules'].includes(entry.name)).map(async entry => entry.isDirectory() ? files(`${directory}/${entry.name}`) : [`${directory}/${entry.name}`]))).flat()

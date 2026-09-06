@@ -1,7 +1,7 @@
 {
   "locale": "ko",
   "model": "gpt-6-astra",
-  "count": 103,
+  "count": 153,
   "prompts": {
     "2095596175705399482": {
       "title": "자율적으로 살아남는 Unreal 속 인간 사회",
@@ -1223,6 +1223,556 @@
         "Blender"
       ],
       "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/formula-one-car-in-blender-2096125193580113957"
+    },
+    "2096525100518453342": {
+      "title": "Blender에서 전환하는 캐릭터 표정",
+      "description": "리깅에 앞서 Blender에서 Tripo 캐릭터의 표정별 변형을 준비하세요. 메시의 위치를 맞추고, 비활성 표정은 머리 안쪽으로 축소해 숨겨 표정이 단계적으로 전환되게 하세요. 부드러운 블렌딩이나 VRM 호환성을 지원한다고 표현하지 마세요.",
+      "prompt": "리깅에 앞서 Blender에서 Tripo 캐릭터의 표정별 변형을 준비하세요. 메시의 위치를 맞추고, 비활성 표정은 머리 안쪽으로 축소해 숨겨 표정이 단계적으로 전환되게 하세요. 부드러운 블렌딩이나 VRM 호환성을 지원한다고 표현하지 마세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"
+    },
+    "2096308567863079420": {
+      "title": "Warcraft에서 영감을 받은 Unity 캐릭터 장면",
+      "description": "Astra, Tripo P2, Blender, Unity를 사용해 Warcraft에서 영감을 받은 캐릭터 장면을 만드세요. 캐릭터 에셋을 생성하고 Blender에서 정리한 뒤, Unity에서 플레이 가능한 장면으로 구성하세요.",
+      "prompt": "Astra, Tripo P2, Blender, Unity를 사용해 Warcraft에서 영감을 받은 캐릭터 장면을 만드세요. 캐릭터 에셋을 생성하고 Blender에서 정리한 뒤, Unity에서 플레이 가능한 장면으로 구성하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420"
+    },
+    "2096015772334047319": {
+      "title": "Tripo 에셋으로 만든 Three.js 전투 아레나",
+      "description": "Three.js로 플레이 가능한 전투 아레나를 만드세요. Tripo로 생성한 캐릭터와 나무를 사용하고, 아레나와 기본 게임 진행 구조에 통합하세요.",
+      "prompt": "Three.js로 플레이 가능한 전투 아레나를 만드세요. Tripo로 생성한 캐릭터와 나무를 사용하고, 아레나와 기본 게임 진행 구조에 통합하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/three-js-battle-arena-with-tripo-assets-2096015772334047319"
+    },
+    "2096579856133947507": {
+      "title": "자유롭게 회전하는 3D 쇼기판",
+      "description": "보드를 자유롭게 회전하며 대국할 수 있는 3D 쇼기 앱을 만드세요. 반복 검토를 통해 보드, 말, 조작 방식을 다듬으세요.",
+      "prompt": "보드를 자유롭게 회전하며 대국할 수 있는 3D 쇼기 앱을 만드세요. 반복 검토를 통해 보드, 말, 조작 방식을 다듬으세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/rotatable-3d-shogi-board-2096579856133947507"
+    },
+    "2096578761877860502": {
+      "title": "데스크톱 컴퓨터 분해 도감",
+      "description": "데스크톱 컴퓨터를 29개 핵심 부품으로 나누어 살펴보는 인터랙티브 3D 웹사이트를 만드세요. 분해 애니메이션과 각 부품의 설명을 추가하세요.",
+      "prompt": "데스크톱 컴퓨터를 29개 핵심 부품으로 나누어 살펴보는 인터랙티브 3D 웹사이트를 만드세요. 분해 애니메이션과 각 부품의 설명을 추가하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502"
+    },
+    "2096578684010508736": {
+      "title": "아이 방과 업무 공간 배치 도구",
+      "description": "방의 네 모서리에서 찍은 사진 4장과 치수를 이용해 업무 공간을 겸하는 아이 방을 재구성하세요. 어른과 아이의 눈높이, 전체 보기, 가구 배치 대안을 제공하세요.",
+      "prompt": "방의 네 모서리에서 찍은 사진 4장과 치수를 이용해 업무 공간을 겸하는 아이 방을 재구성하세요. 어른과 아이의 눈높이, 전체 보기, 가구 배치 대안을 제공하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736"
+    },
+    "2095999282088378520": {
+      "title": "평면도와 연동되는 3D 둘러보기",
+      "description": "동일한 치수로 침실이 하나인 아파트의 평면도와 실내 둘러보기를 만드세요. 두 보기의 현재 위치를 동기화하고, 가정한 천장 높이와 마감재를 명확히 표시하세요.",
+      "prompt": "동일한 치수로 침실이 하나인 아파트의 평면도와 실내 둘러보기를 만드세요. 두 보기의 현재 위치를 동기화하고, 가정한 천장 높이와 마감재를 명확히 표시하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520"
+    },
+    "2096557555086725159": {
+      "title": "직접 탐색하는 서울 미니어처",
+      "description": "공개 지도 데이터로 Three.js 서울 미니어처를 만드세요. 지역별 탐색, 명소를 지나는 비행 시점, 주야간 모드, 터치 조작을 추가하세요. 단순화한 건물, 추정한 높이, 데이터 라이선스를 공개하세요.",
+      "prompt": "공개 지도 데이터로 Three.js 서울 미니어처를 만드세요. 지역별 탐색, 명소를 지나는 비행 시점, 주야간 모드, 터치 조작을 추가하세요. 단순화한 건물, 추정한 높이, 데이터 라이선스를 공개하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/interactive-miniature-of-seoul-2096557555086725159"
+    },
+    "2096551010089263181": {
+      "title": "두 개의 링으로 이루어진 에너지 코어",
+      "description": "Blender에서 에너지 코어, 링 2개, 금속 받침대를 모델링하세요. 재질을 포함해 Three.js 뷰어로 내보내고 회전, 확대·축소, 자동 공전, 맥동 조작 기능을 추가하세요.",
+      "prompt": "Blender에서 에너지 코어, 링 2개, 금속 받침대를 모델링하세요. 재질을 포함해 Three.js 뷰어로 내보내고 회전, 확대·축소, 자동 공전, 맥동 조작 기능을 추가하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181"
+    },
+    "2096460081982304546": {
+      "title": "표면을 타고 오르는 절차적 곤충",
+      "description": "여러 표면에 붙어 걸어 다니는 다족 3D 곤충을 만드세요. 높이가 달라지는 구간을 통과할 때 다리와 몸통이 조화를 이루어 움직이도록 하세요.",
+      "prompt": "여러 표면에 붙어 걸어 다니는 다족 3D 곤충을 만드세요. 높이가 달라지는 구간을 통과할 때 다리와 몸통이 조화를 이루어 움직이도록 하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/surface-climbing-procedural-insect-2096460081982304546"
+    },
+    "2096467585785286808": {
+      "title": "일본 숲을 비행하는 라이트 플라이어",
+      "description": "1903년 라이트 플라이어를 타고 일본 숲을 비행하는 Three.js 게임을 만드세요. 항공기를 조사하고, 외부 에셋 없이 비행기, 나무, 도리이, 집, 산을 절차적으로 생성하세요.",
+      "prompt": "1903년 라이트 플라이어를 타고 일본 숲을 비행하는 Three.js 게임을 만드세요. 항공기를 조사하고, 외부 에셋 없이 비행기, 나무, 도리이, 집, 산을 절차적으로 생성하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"
+    },
+    "2096576154337734865": {
+      "title": "Blender에서 처음부터 만드는 주택",
+      "description": "Blender에서 주택을 처음부터 모델링하세요. 이후 반복 작업에서 건물을 살펴보고 개선할 수 있도록 장면을 편집 가능한 상태로 유지하세요.",
+      "prompt": "Blender에서 주택을 처음부터 모델링하세요. 이후 반복 작업에서 건물을 살펴보고 개선할 수 있도록 장면을 편집 가능한 상태로 유지하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865"
+    },
+    "2096143359505269079": {
+      "title": "카페 사진을 세로형 실내 투어로",
+      "description": "사진을 참고해 목재 천장, 띠 조명, 로스터, 선반, 식물을 갖춘 카페를 Blender에서 재구성하세요. 편집 가능한 장면과 15초 분량의 세로형 카메라 투어를 제공하세요.",
+      "prompt": "사진을 참고해 목재 천장, 띠 조명, 로스터, 선반, 식물을 갖춘 카페를 Blender에서 재구성하세요. 편집 가능한 장면과 15초 분량의 세로형 카메라 투어를 제공하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"
+    },
+    "2096501340889374883": {
+      "title": "최상층 평면도에서 Blender 미리보기까지",
+      "description": "주택 최상층의 평면도로 Blender 장면을 만들고 낮은 샘플 수로 10초 미리보기를 렌더링하세요. 재질을 다듬기 전에 공간 배치가 명확히 드러나도록 하세요.",
+      "prompt": "주택 최상층의 평면도로 Blender 장면을 만들고 낮은 샘플 수로 10초 미리보기를 렌더링하세요. 재질을 다듬기 전에 공간 배치가 명확히 드러나도록 하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883"
+    },
+    "2096298425914450021": {
+      "title": "Blender로 재현한 리스본 테헤이루 두 파수",
+      "description": "리스본의 테헤이루 두 파수를 편집 가능한 Blender 장면으로 재현하세요. 참고 자료를 조사해 광장의 건축, 재질, 조명에 반영하세요.",
+      "prompt": "리스본의 테헤이루 두 파수를 편집 가능한 Blender 장면으로 재현하세요. 참고 자료를 조사해 광장의 건축, 재질, 조명에 반영하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021"
+    },
+    "2096574297703637111": {
+      "title": "The Quiet Crossing 설원 탐험 퀘스트",
+      "description": "Blender 캐릭터, 복셀 소나무, 돌로 된 이동 관문이 등장하는 Three.js 설원 탐험 게임을 만드세요. 빛나는 조각 6개를 모으게 하고, 카메라가 캐릭터를 따라가며 관문까지의 거리를 표시하도록 하세요.",
+      "prompt": "Blender 캐릭터, 복셀 소나무, 돌로 된 이동 관문이 등장하는 Three.js 설원 탐험 게임을 만드세요. 빛나는 조각 6개를 모으게 하고, 카메라가 캐릭터를 따라가며 관문까지의 거리를 표시하도록 하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111"
+    },
+    "2096263046918197609": {
+      "title": "Three.js로 생성한 울창한 숲",
+      "description": "수천 그루의 나무와 빽빽한 풀, 양치식물로 이루어진 정교한 Three.js 숲을 만드세요. 사용자 정의 셰이더와 효율적인 반복 지오메트리를 사용해 장면 전체의 디테일을 유지하세요.",
+      "prompt": "수천 그루의 나무와 빽빽한 풀, 양치식물로 이루어진 정교한 Three.js 숲을 만드세요. 사용자 정의 셰이더와 효율적인 반복 지오메트리를 사용해 장면 전체의 디테일을 유지하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609"
+    },
+    "2096013228090245181": {
+      "title": "참고 이미지로 재현하는 TP-7 레코더",
+      "description": "참고 이미지로 Teenage Engineering TP-7을 Three.js에서 재현하세요. 형태와 겉으로 보이는 조작부를 맞추고, 여러 방향에서 살펴볼 수 있는 3D 모델로 만드세요.",
+      "prompt": "참고 이미지로 Teenage Engineering TP-7을 Three.js에서 재현하세요. 형태와 겉으로 보이는 조작부를 맞추고, 여러 방향에서 살펴볼 수 있는 3D 모델로 만드세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/tp-7-recorder-reference-model-2096013228090245181"
+    },
+    "2096577430274429157": {
+      "title": "전원 풍경을 달리는 증기 기관차",
+      "description": "Three.js에서 증기 기관차를 모델링하고 전원 풍경을 달리는 애니메이션을 만드세요. 바퀴의 움직임을 열차의 이동에 맞춰 동기화하세요.",
+      "prompt": "Three.js에서 증기 기관차를 모델링하고 전원 풍경을 달리는 애니메이션을 만드세요. 바퀴의 움직임을 열차의 이동에 맞춰 동기화하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157"
+    },
+    "2096561346766877106": {
+      "title": "테이블 위 레코드플레이어 장면",
+      "description": "테이블 위에 레코드플레이어를 놓은 Three.js 장면을 만드세요. 조명이 켜지는 연출과 플레이어 및 주변 가구를 비추는 카메라를 구성해 제품 소개 데모처럼 보여 주세요.",
+      "prompt": "테이블 위에 레코드플레이어를 놓은 Three.js 장면을 만드세요. 조명이 켜지는 연출과 플레이어 및 주변 가구를 비추는 카메라를 구성해 제품 소개 데모처럼 보여 주세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106"
+    },
+    "2096555856204644550": {
+      "title": "트레이딩 카드 대전의 기본 게임 루프",
+      "description": "Three.js로 트레이딩 카드 게임 프로토타입을 만드세요. 덱과 부스터 팩 구매, 덱 구성, 전투 아레나 진입, 보상 획득을 구현하세요. 임시 메시는 완성된 에셋으로 교체할 수 있도록 하세요.",
+      "prompt": "Three.js로 트레이딩 카드 게임 프로토타입을 만드세요. 덱과 부스터 팩 구매, 덱 구성, 전투 아레나 진입, 보상 획득을 구현하세요. 임시 메시는 완성된 에셋으로 교체할 수 있도록 하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/trading-card-battle-game-loop-2096555856204644550"
+    },
+    "2096362653480562751": {
+      "title": "철도망 시뮬레이션 게임",
+      "description": "Three.js 열차 모델을 도시, 분기점, 강, 다리가 있는 철도 시뮬레이션으로 확장하세요. 열차 추적, 자유로운 3D 시점, 아이소메트릭 시점의 카메라와 연기 효과를 추가하세요.",
+      "prompt": "Three.js 열차 모델을 도시, 분기점, 강, 다리가 있는 철도 시뮬레이션으로 확장하세요. 열차 추적, 자유로운 3D 시점, 아이소메트릭 시점의 카메라와 연기 효과를 추가하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/railway-network-simulation-game-2096362653480562751"
+    },
+    "2096490395614019793": {
+      "title": "걸어서 둘러보는 로우폴리 과천 마을",
+      "description": "과천에서 영감을 받은 아늑하고 탐색 가능한 로우폴리 마을을 단일 HTML 파일로 만드세요. 절차적 3D 풍경, 분위기, 인터페이스, 상호작용을 함께 구성하세요.",
+      "prompt": "과천에서 영감을 받은 아늑하고 탐색 가능한 로우폴리 마을을 단일 HTML 파일로 만드세요. 절차적 3D 풍경, 분위기, 인터페이스, 상호작용을 함께 구성하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793"
+    },
+    "2096505740643246231": {
+      "title": "Three.js로 완성하는 퍼즐 스테이지",
+      "description": "실제 플레이 규칙까지 갖춘 완전한 3D 퍼즐 게임 스테이지를 Three.js로 만드세요. 스테이지와 상호작용이 작동한 뒤 제공된 오디오를 통합하세요.",
+      "prompt": "실제 플레이 규칙까지 갖춘 완전한 3D 퍼즐 게임 스테이지를 Three.js로 만드세요. 스테이지와 상호작용이 작동한 뒤 제공된 오디오를 통합하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/complete-three-js-puzzle-level-2096505740643246231"
+    },
+    "2096570815714414844": {
+      "title": "로우폴리 해변 보물찾기",
+      "description": "Unity에서 해변을 배경으로 한 플레이 가능한 3D 보물찾기 게임을 만드세요. 로우폴리 야자수와 목재 데크를 모델링하고, 탐험하며 보물을 찾는 핵심 게임 루프를 구성하세요.",
+      "prompt": "Unity에서 해변을 배경으로 한 플레이 가능한 3D 보물찾기 게임을 만드세요. 로우폴리 야자수와 목재 데크를 모델링하고, 탐험하며 보물을 찾는 핵심 게임 루프를 구성하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844"
+    },
+    "2096560142871658589": {
+      "title": "Blender 모델에 더하는 Unity VFX",
+      "description": "Blender에서 장면용 모델을 만들고 Unity로 가져오세요. VFX Graph로 효과를 추가하고, 모델과 효과가 함께 선명하게 보이도록 장면의 조명을 설정하세요.",
+      "prompt": "Blender에서 장면용 모델을 만들고 Unity로 가져오세요. VFX Graph로 효과를 추가하고, 모델과 효과가 함께 선명하게 보이도록 장면의 조명을 설정하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/blender-models-with-unity-vfx-2096560142871658589"
+    },
+    "2096556692842348826": {
+      "title": "휴대폰에서 플레이하는 Unity 랠리 게임",
+      "description": "Codex, Blender, Unity로 랠리 운전 프로토타입을 만드세요. 휴대폰에서 플레이 테스트를 할 수 있도록 3D 에셋과 조작 방식을 준비하세요.",
+      "prompt": "Codex, Blender, Unity로 랠리 운전 프로토타입을 만드세요. 휴대폰에서 플레이 테스트를 할 수 있도록 3D 에셋과 조작 방식을 준비하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826"
+    },
+    "2096572429066006845": {
+      "title": "SpeedTree로 만드는 인도 망고나무",
+      "description": "60 FPS를 목표로 하는 Unreal 장면용 인도 망고나무를 SpeedTree에서 만드세요. 잎과 나무껍질 재질을 생성하고, 외관을 검토한 뒤 에셋을 완성하세요.",
+      "prompt": "60 FPS를 목표로 하는 Unreal 장면용 인도 망고나무를 SpeedTree에서 만드세요. 잎과 나무껍질 재질을 생성하고, 외관을 검토한 뒤 에셋을 완성하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Unreal Engine"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845"
+    },
+    "2096566598689783878": {
+      "title": "Tripo 캐릭터의 텍스처와 리깅",
+      "description": "Tripo Smart Mesh 캐릭터를 Blender로 가져오세요. 텍스처를 적용하고 사용 가능한 몸체 리그를 완성한 뒤 표정 작업으로 넘어가세요.",
+      "prompt": "Tripo Smart Mesh 캐릭터를 Blender로 가져오세요. 텍스처를 적용하고 사용 가능한 몸체 리그를 완성한 뒤 표정 작업으로 넘어가세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878"
+    },
+    "2096064140510970318": {
+      "title": "The Legend of Astra 게임 프로토타입",
+      "description": "Blender에서 준비한 장면과 Tripo 에셋을 활용해 Unity에서 3D 어드벤처 게임 프로토타입을 만드세요. 플레이 가능한 데모에 캐릭터 애니메이션을 통합하세요.",
+      "prompt": "Blender에서 준비한 장면과 Tripo 에셋을 활용해 Unity에서 3D 어드벤처 게임 프로토타입을 만드세요. 플레이 가능한 데모에 캐릭터 애니메이션을 통합하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/the-legend-of-astra-game-prototype-2096064140510970318"
+    },
+    "2096566686266597754": {
+      "title": "아파트 스케치에서 실내 렌더링까지",
+      "description": "아파트 참고 이미지와 간단한 평면도 스케치를 결합해 Blender에서 실내를 재구성하세요. 편집 가능한 장면, 방별 렌더링, 짧게 편집한 실내 투어 영상을 제공하세요.",
+      "prompt": "아파트 참고 이미지와 간단한 평면도 스케치를 결합해 Blender에서 실내를 재구성하세요. 편집 가능한 장면, 방별 렌더링, 짧게 편집한 실내 투어 영상을 제공하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754"
+    },
+    "2095993826569502785": {
+      "title": "브라우저에서 조작하는 강 장면",
+      "description": "브라우저에서 작동하는 인터랙티브 강 장면을 만드세요. 먼저 실시간 물 표현이 작동하는 프로토타입을 만든 뒤, 시각적 결과를 살펴보고 다듬으세요.",
+      "prompt": "브라우저에서 작동하는 인터랙티브 강 장면을 만드세요. 먼저 실시간 물 표현이 작동하는 프로토타입을 만든 뒤, 시각적 결과를 살펴보고 다듬으세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/interactive-browser-river-scene-2095993826569502785"
+    },
+    "2096128774203171021": {
+      "title": "저녁빛 속 아디요기 비행 투어",
+      "description": "넓은 부지, 정교한 근접 장면, 따뜻한 저녁빛을 갖춘 아디요기 장면을 Blender에서 만드세요. 30초 비행 투어를 렌더링하고 편집 가능한 장면을 보관하세요.",
+      "prompt": "넓은 부지, 정교한 근접 장면, 따뜻한 저녁빛을 갖춘 아디요기 장면을 Blender에서 만드세요. 30초 비행 투어를 렌더링하고 편집 가능한 장면을 보관하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/adiyogi-evening-fly-through-2096128774203171021"
+    },
+    "2096521798150242631": {
+      "title": "Geometry Nodes로 만드는 반복 수면 효과",
+      "description": "베이킹 없이 Blender Geometry Nodes를 사용해 주기적으로 반복되는 수면 효과를 만드세요. 노드 구성을 편집 가능한 상태로 유지하고, 완전한 유체 시뮬레이션이 아닌 수면 모델임을 설명하세요.",
+      "prompt": "베이킹 없이 Blender Geometry Nodes를 사용해 주기적으로 반복되는 수면 효과를 만드세요. 노드 구성을 편집 가능한 상태로 유지하고, 완전한 유체 시뮬레이션이 아닌 수면 모델임을 설명하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631"
+    },
+    "2096518775042707700": {
+      "title": "원피스에서 영감을 받은 항해 세계",
+      "description": "Blender 선박과 Three.js 바다로 플레이 가능한 항해 세계를 만드세요. 변화하는 날씨, 수중 탐험, 항적, 거품, 물보라, 움직이는 돛을 추가하세요.",
+      "prompt": "Blender 선박과 Three.js 바다로 플레이 가능한 항해 세계를 만드세요. 변화하는 날씨, 수중 탐험, 항적, 거품, 물보라, 움직이는 돛을 추가하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700"
+    },
+    "2096572156453028193": {
+      "title": "직접 조작하는 로렌츠 끌개",
+      "description": "초기 위치에 아주 작은 차이가 있는 두 로렌츠 시스템 궤적을 시각화하세요. 관람자가 그 차이를 조절하고 시간 축을 앞뒤로 탐색할 수 있게 하세요. 수치 검증과 정확한 장기 예측은 구분해 설명하세요.",
+      "prompt": "초기 위치에 아주 작은 차이가 있는 두 로렌츠 시스템 궤적을 시각화하세요. 관람자가 그 차이를 조절하고 시간 축을 앞뒤로 탐색할 수 있게 하세요. 수치 검증과 정확한 장기 예측은 구분해 설명하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/interactive-lorenz-attractor-2096572156453028193"
+    },
+    "2096358854275543457": {
+      "title": "직원과 손님이 움직이는 선술집",
+      "description": "참고 이미지로 선술집을 재현하고 손님과 직원을 배치하세요. 손님은 음식과 음료를 주문하고 직원은 이를 준비하게 하세요. 충돌 처리와 길 찾기를 구현하세요.",
+      "prompt": "참고 이미지로 선술집을 재현하고 손님과 직원을 배치하세요. 손님은 음식과 음료를 주문하고 직원은 이를 준비하게 하세요. 충돌 처리와 길 찾기를 구현하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457"
+    },
+    "2096506357868642342": {
+      "title": "내 방을 인터랙티브 포트폴리오로",
+      "description": "개인 방을 인터랙티브 자기소개 웹사이트로 바꾸세요. Blender에서 장면을 만들고 베이킹한 뒤, 커피 김, Matrix 스타일 애니메이션, 은은한 셰이더 효과를 추가하세요.",
+      "prompt": "개인 방을 인터랙티브 자기소개 웹사이트로 바꾸세요. Blender에서 장면을 만들고 베이킹한 뒤, 커피 김, Matrix 스타일 애니메이션, 은은한 셰이더 효과를 추가하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342"
+    },
+    "2096503275910832461": {
+      "title": "잔잔한 3D 바다를 달리는 YF-24 보트",
+      "description": "Blender에서 YF-24 보트를 모델링하고 보퍼트 풍력 계급 2의 3차원 바다를 항해하는 애니메이션을 만드세요. 보트 참고 자료를 활용해 형태를 개선하세요.",
+      "prompt": "Blender에서 YF-24 보트를 모델링하고 보퍼트 풍력 계급 2의 3차원 바다를 항해하는 애니메이션을 만드세요. 보트 참고 자료를 활용해 형태를 개선하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"
+    },
+    "2096413869841473930": {
+      "title": "D4에서 영감을 받은 플레이 가능한 아파트",
+      "description": "D4 주인공의 아파트를 조사하고 플레이 가능한 3D 프로토타입으로 재현하세요. 정확한 복제라고 단정하지 말고, 참고 자료와 비교해 구조와 상호작용을 확인하세요.",
+      "prompt": "D4 주인공의 아파트를 조사하고 플레이 가능한 3D 프로토타입으로 재현하세요. 정확한 복제라고 단정하지 말고, 참고 자료와 비교해 구조와 상호작용을 확인하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/playable-d4-inspired-apartment-2096413869841473930"
+    },
+    "2096398839830008292": {
+      "title": "제공된 캐릭터로 즐기는 브라우저 도시 게임",
+      "description": "RIO_MA002.fbx를 플레이어 캐릭터로 사용하는 WebGL 도시 게임을 만드세요. 참고 자료의 차량과 거리를 Blender에서 모델링한 뒤, NPC, 주행 물리, 파괴 가능한 소품, 교외 지역을 개선하세요.",
+      "prompt": "RIO_MA002.fbx를 플레이어 캐릭터로 사용하는 WebGL 도시 게임을 만드세요. 참고 자료의 차량과 거리를 Blender에서 모델링한 뒤, NPC, 주행 물리, 파괴 가능한 소품, 교외 지역을 개선하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/browser-city-game-with-a-supplied-character-2096398839830008292"
+    },
+    "2096339041679442428": {
+      "title": "궤도를 따라 탐색하는 태양계",
+      "description": "행성 8개와 위성 20개를 포함한 브라우저용 태양계 탐색기를 Three.js로 만드세요. 카메라 이동과 단순화된 우주 비행 계획 기능을 제공하세요.",
+      "prompt": "행성 8개와 위성 20개를 포함한 브라우저용 태양계 탐색기를 Three.js로 만드세요. 카메라 이동과 단순화된 우주 비행 계획 기능을 제공하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/orbital-solar-system-explorer-2096339041679442428"
+    },
+    "2096093614397170104": {
+      "title": "WebGL로 살펴보는 블랙홀의 형성",
+      "description": "WebGL 시각화를 활용해 블랙홀의 형성을 설명하는 교육용 슬라이드쇼를 만드세요. 설명에 맞춰 움직이는 3D 장면을 보여 주세요.",
+      "prompt": "WebGL 시각화를 활용해 블랙홀의 형성을 설명하는 교육용 슬라이드쇼를 만드세요. 설명에 맞춰 움직이는 3D 장면을 보여 주세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/black-hole-formation-in-webgl-2096093614397170104"
+    },
+    "2096559197999501724": {
+      "title": "2D 로고를 움직이는 3D 캐릭터로",
+      "description": "제공된 2D 캐릭터 로고를 애니메이션이 있는 3D 버전으로 바꾸세요. 입체감과 움직임을 더하더라도 원래 캐릭터를 알아볼 수 있는 특징을 유지하세요.",
+      "prompt": "제공된 2D 캐릭터 로고를 애니메이션이 있는 3D 버전으로 바꾸세요. 입체감과 움직임을 더하더라도 원래 캐릭터를 알아볼 수 있는 특징을 유지하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724"
+    },
+    "2096337879173591171": {
+      "title": "행동 중심 규칙을 갖춘 게 게임",
+      "description": "외형, 캐릭터, 세계, 행동, 목표, 인터페이스, 카메라를 정리한 기획서로 Three.js 게 게임을 만드세요. 게가 지나가면 동전이 떠올라 게를 향해 날아오도록 하세요. 서로 모순되는 요구사항은 지적하세요.",
+      "prompt": "외형, 캐릭터, 세계, 행동, 목표, 인터페이스, 카메라를 정리한 기획서로 Three.js 게 게임을 만드세요. 게가 지나가면 동전이 떠올라 게를 향해 날아오도록 하세요. 서로 모순되는 요구사항은 지적하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171"
+    },
+    "2096262733259837681": {
+      "title": "복셀로 재현한 클루지나포카 통일 광장",
+      "description": "클루지나포카의 피아차 우니리이를 인터랙티브 복셀 세계로 만드세요. 광장의 알아볼 수 있는 배치와 명소를 살려 탐험 가능한 미니어처로 재구성하세요.",
+      "prompt": "클루지나포카의 피아차 우니리이를 인터랙티브 복셀 세계로 만드세요. 광장의 알아볼 수 있는 배치와 명소를 살려 탐험 가능한 미니어처로 재구성하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681"
+    },
+    "2096555183790575682": {
+      "title": "낮과 밤이 바뀌는 ‘별이 빛나는 밤’ 마을",
+      "description": "반 고흐의 ‘별이 빛나는 밤’을 주민, 조명, 주야간 순환이 있는 탐험 가능한 3D 마을로 바꾸세요. 완성된 세계를 돌아보는 짧은 영상을 렌더링하세요.",
+      "prompt": "반 고흐의 ‘별이 빛나는 밤’을 주민, 조명, 주야간 순환이 있는 탐험 가능한 3D 마을로 바꾸세요. 완성된 세계를 돌아보는 짧은 영상을 렌더링하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/starry-night-village-with-a-day-night-cycle-2096555183790575682"
+    },
+    "2096510126244999366": {
+      "title": "참고 디자인에 맞춘 Three.js 인터페이스",
+      "description": "Three.js를 사용해 참고 디자인을 단일 HTML 파일로 재현하세요. 결과를 반복 비교하며 차이를 수정하고, 조명과 모델의 깊이감, 유리 느낌의 조작부를 다듬으세요. 포인터에 반응하는 은은한 효과도 추가하세요.",
+      "prompt": "Three.js를 사용해 참고 디자인을 단일 HTML 파일로 재현하세요. 결과를 반복 비교하며 차이를 수정하고, 조명과 모델의 깊이감, 유리 느낌의 조작부를 다듬으세요. 포인터에 반응하는 은은한 효과도 추가하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/reference-matched-three-js-interface-2096510126244999366"
+    },
+    "2096481425050743048": {
+      "title": "생성한 3D 에셋의 조립과 애니메이션",
+      "description": "Tripo P2로 최적화된 3D 에셋을 생성하고 Blender에서 조립한 뒤 캐릭터를 리깅하고 애니메이션을 적용하세요. 캐릭터와 장면이 공간적으로 잘 어울리는지 검토하세요.",
+      "prompt": "Tripo P2로 최적화된 3D 에셋을 생성하고 Blender에서 조립한 뒤 캐릭터를 리깅하고 애니메이션을 적용하세요. 캐릭터와 장면이 공간적으로 잘 어울리는지 검토하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048"
+    },
+    "2096269057544831175": {
+      "title": "생물 발광으로 빛나는 심해 랜딩 페이지",
+      "description": "Three.js 물 효과, 어두운 유리 느낌의 인터페이스, 스크롤에 연동되는 움직임으로 심해 랜딩 페이지를 만드세요. 3D 분위기와 명확하고 반응형인 웹사이트 상호작용을 조화롭게 구성하세요.",
+      "prompt": "Three.js 물 효과, 어두운 유리 느낌의 인터페이스, 스크롤에 연동되는 움직임으로 심해 랜딩 페이지를 만드세요. 3D 분위기와 명확하고 반응형인 웹사이트 상호작용을 조화롭게 구성하세요.",
+      "evidenceNote": "제작자가 공개한 프로젝트 설명을 바탕으로 재구성했습니다.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/ko/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175"
     }
   }
 }

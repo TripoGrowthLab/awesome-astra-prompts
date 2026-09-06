@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "model": "gpt-6-astra",
-  "count": 3,
-  "promptCount": 4,
+  "count": 5,
+  "promptCount": 6,
   "repositories": [
     {
       "url": "https://github.com/alesha-pro/bench-portal",
@@ -16,6 +16,18 @@
       ],
       "demoUrls": [
         "https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/"
+      ]
+    },
+    {
+      "url": "https://github.com/danmana/piata-unirii",
+      "promptIds": [
+        "2096262733259837681"
+      ],
+      "sourceUrls": [
+        "https://x.com/danmana/status/2096262733259837681"
+      ],
+      "demoUrls": [
+        "https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/"
       ]
     },
     {
@@ -40,6 +52,18 @@
       ],
       "demoUrls": [
         "https://gogh-strike.surge.sh/"
+      ]
+    },
+    {
+      "url": "https://github.com/wangruofeng/orbital-core-showcase",
+      "promptIds": [
+        "2096551010089263181"
+      ],
+      "sourceUrls": [
+        "https://x.com/oneruofeng/status/2096551010089263181"
+      ],
+      "demoUrls": [
+        "https://orbital-core-showcase.wangruofeng007.workers.dev/"
       ]
     }
   ]

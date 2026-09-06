@@ -1,6 +1,6 @@
 # Все примеры Astra
 
-[← Awesome Astra Prompts](../README.md) · Русский · 103
+[← Awesome Astra Prompts](../README.md) · Русский · 153
 
 <!-- Generated from data/*.json. Edit the data, then run npm run catalog. -->
 
@@ -8,6 +8,8 @@
 - [Gogh Strike — сетевой FPS](#2096013280519016608) · GitHub
 - [Арена hack-and-slash в соборе](#2095988972879335792) · GitHub
 - [Антигравитационные боевые гонки](#2095967568825582044) · GitHub
+- [Интерактивное энергетическое ядро с двумя кольцами](#2096551010089263181) · GitHub
+- [Площадь Единства в Клуж-Напоке из вокселей](#2096262733259837681) · GitHub
 - [Общество автономных персонажей в Unreal Engine](#2095596175705399482)
 - [Манхэттен в Unreal Engine, улица за улицей](#2095609734845927525)
 - [Современная вилла в Blender](#2095636679264780481)
@@ -107,6 +109,54 @@
 - [Разборная модель Tesla Model X](#2096009146248122416)
 - [Автомат с капсулами воспоминаний](#2096241295949975602)
 - [Болид Формулы-1 в Blender](#2096125193580113957)
+- [Переключаемые выражения лица в Blender](#2096525100518453342)
+- [Сцена с персонажем в духе Warcraft в Unity](#2096308567863079420)
+- [Боевая арена Three.js с моделями Tripo](#2096015772334047319)
+- [Вращаемая 3D-доска для сёги](#2096579856133947507)
+- [Интерактивный атлас разобранного настольного компьютера](#2096578761877860502)
+- [Планировщик детской комнаты с рабочим местом](#2096578684010508736)
+- [Связанные план квартиры и 3D-прогулка](#2095999282088378520)
+- [Интерактивный Сеул в миниатюре](#2096557555086725159)
+- [Процедурное насекомое, ползающее по поверхностям](#2096460081982304546)
+- [Wright Flyer над японским лесом](#2096467585785286808)
+- [Дом, смоделированный с нуля в Blender](#2096576154337734865)
+- [Из фотографии кофейни в вертикальную видеопрогулку](#2096143359505269079)
+- [Из плана верхнего этажа в предпросмотр Blender](#2096501340889374883)
+- [Площадь Террейру-ду-Пасу в Лиссабоне в Blender](#2096298425914450021)
+- [Исследовательское приключение The Quiet Crossing](#2096574297703637111)
+- [Густой процедурный лес в Three.js](#2096263046918197609)
+- [Модель рекордера TP-7 по референсам](#2096013228090245181)
+- [Паровоз в сельском пейзаже](#2096577430274429157)
+- [Сцена с виниловым проигрывателем на столе](#2096561346766877106)
+- [Игровой цикл сражений коллекционными картами](#2096555856204644550)
+- [Игра-симулятор железнодорожной сети](#2096362653480562751)
+- [Низкополигональная деревня по мотивам Квачхона для прогулок](#2096490395614019793)
+- [Полноценный уровень головоломки на Three.js](#2096505740643246231)
+- [Поиск сокровищ на низкополигональном пляже](#2096570815714414844)
+- [Модели Blender с эффектами Unity VFX](#2096560142871658589)
+- [Раллийная игра Unity для телефона](#2096556692842348826)
+- [Индийское манговое дерево в SpeedTree](#2096572429066006845)
+- [Текстуры и риг персонажа Tripo](#2096566598689783878)
+- [Прототип игры The Legend of Astra](#2096064140510970318)
+- [Из эскиза квартиры в рендеры интерьера](#2096566686266597754)
+- [Интерактивная речная сцена в браузере](#2095993826569502785)
+- [Вечерний пролёт по сцене Адийоги](#2096128774203171021)
+- [Зацикленная вода с Geometry Nodes](#2096521798150242631)
+- [Морской мир по мотивам One Piece](#2096518775042707700)
+- [Интерактивный аттрактор Лоренца](#2096572156453028193)
+- [Таверна с работающим персоналом и посетителями](#2096358854275543457)
+- [Личная комната как интерактивное портфолио](#2096506357868642342)
+- [Катер YF-24 на спокойном 3D-море](#2096503275910832461)
+- [Игровая квартира по мотивам D4](#2096413869841473930)
+- [Городская браузерная игра с предоставленным персонажем](#2096398839830008292)
+- [Орбитальный исследователь Солнечной системы](#2096339041679442428)
+- [Образование чёрных дыр в WebGL](#2096093614397170104)
+- [Из 2D-логотипа в анимированного персонажа](#2096559197999501724)
+- [Игра про краба с механиками, основанными на действиях](#2096337879173591171)
+- [Деревня «Звёздной ночи» со сменой дня и ночи](#2096555183790575682)
+- [Интерфейс Three.js по референсу](#2096510126244999366)
+- [Сборка и анимация сгенерированных 3D-моделей](#2096481425050743048)
+- [Глубоководный лендинг с биолюминесценцией](#2096269057544831175)
 
 <a id="2095673885605630429"></a>
 
@@ -129,7 +179,7 @@
 Развей предоставленный однофайловый генератор штормовой поверхности в полноценный процедурный океан. Добавь рифы, глубины, правдоподобную погоду, популяции животных с возникающим из взаимодействий поведением, связи экосистемы и камеру, перемещающуюся над водой и под ней.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429) · [Исходная публикация](https://x.com/emollick/status/2095673885605630429) · [Исходный код](https://github.com/emollick/abyssal-living-deep) · [Демо](https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095673008803241987-video-48e1e14348a0.mp4) · [Исходная публикация](https://x.com/emollick/status/2095673885605630429) · [Исходный код](https://github.com/emollick/abyssal-living-deep) · [Демо](https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1)
 
 ---
 
@@ -154,7 +204,7 @@
 Создай постимпрессионистский шутер от первого лица 5 на 5 с персонажами-художниками, отрендеренными в Blender, легко различимыми командами и полноценным сетевым матчем в браузере.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608) · [Исходная публикация](https://x.com/petergostev/status/2096013280519016608) · [Исходный код](https://github.com/petergpt/gogh-strike) · [Демо](https://gogh-strike.surge.sh/)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096012866734501888-video-972adb2fb60f.mp4) · [Исходная публикация](https://x.com/petergostev/status/2096013280519016608) · [Исходный код](https://github.com/petergpt/gogh-strike) · [Демо](https://gogh-strike.surge.sh/)
 
 ---
 
@@ -179,7 +229,7 @@
 Создай игру hack-and-slash от третьего лица на Three.js в соборе над мёртвой звездой. Добавь лёгкие комбинации ударов мечом, тяжёлые атаки, магию по области, уклонение и убедительную анимацию владения двуручным оружием.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792) · [Исходная публикация](https://x.com/superalesha/status/2095988972879335792) · [Исходный код](https://github.com/alesha-pro/bench-portal) · [Демо](https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095988588534272001-video-af1e5c9a142b.mp4) · [Исходная публикация](https://x.com/superalesha/status/2095988972879335792) · [Исходный код](https://github.com/alesha-pro/bench-portal) · [Демо](https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/)
 
 ---
 
@@ -204,7 +254,57 @@
 Создай скоростные антигравитационные боевые гонки на Three.js с дрифтом, ускорениями, наклоняющимися камерами, воздушными тормозами и подбираемыми щитами. Добавь лёгкие, сбалансированные и тяжёлые аппараты на приподнятой инопланетной трассе.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/anti-gravity-combat-racer-2095967568825582044) · [Исходная публикация](https://x.com/superalesha/status/2095967568825582044) · [Исходный код](https://github.com/alesha-pro/bench-portal)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/anti-gravity-combat-racer-2095967568825582044) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095966450385289216-video-44433db9ca50.mp4) · [Исходная публикация](https://x.com/superalesha/status/2095967568825582044) · [Исходный код](https://github.com/alesha-pro/bench-portal)
+
+---
+
+<a id="2096551010089263181"></a>
+
+## Интерактивное энергетическое ядро с двумя кольцами
+
+[ruofeng](https://x.com/oneruofeng) · 2026-09-06 · **Задание по описанию автора**
+
+Смоделируйте в Blender энергетическое ядро, два кольца и металлическое основание. Экспортируйте материалы в просмотрщик Three.js с управлением вращением, масштабом, автоматическим облётом и пульсацией.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181"><img src="../assets/previews/6e5f5eddec63a18ae0d3.webp" width="840" loading="lazy" alt="Интерактивное энергетическое ядро с двумя кольцами"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Смоделируйте в Blender энергетическое ядро, два кольца и металлическое основание. Экспортируйте материалы в просмотрщик Three.js с управлением вращением, масштабом, автоматическим облётом и пульсацией.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096549512995368961-video-3eacc87e8c74.mp4) · [Исходная публикация](https://x.com/oneruofeng/status/2096551010089263181) · [Исходный код](https://github.com/wangruofeng/orbital-core-showcase) · [Демо](https://orbital-core-showcase.wangruofeng007.workers.dev/)
+
+---
+
+<a id="2096262733259837681"></a>
+
+## Площадь Единства в Клуж-Напоке из вокселей
+
+[Dan Manastireanu](https://x.com/danmana) · 2026-09-05 · **Задание по описанию автора**
+
+Создайте интерактивный воксельный мир площади Piața Unirii в Клуж-Напоке. Превратите узнаваемую планировку и достопримечательности площади в миниатюру для исследования.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681"><img src="../assets/previews/6fbb5254f46d92a86881.webp" width="840" loading="lazy" alt="Площадь Единства в Клуж-Напоке из вокселей"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте интерактивный воксельный мир площади Piața Unirii в Клуж-Напоке. Превратите узнаваемую планировку и достопримечательности площади в миниатюру для исследования.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096248939876126720-video-9e98c19a900a.mp4) · [Исходная публикация](https://x.com/danmana/status/2096262733259837681) · [Исходный код](https://github.com/danmana/piata-unirii) · [Демо](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/)
 
 ---
 
@@ -229,7 +329,7 @@
 Создай мир в Unreal Engine с автономными людьми. Задай каждому собственные потребности и общую цель выживания: они должны общаться, распределять работу, строить укрытия и поддерживать жизнь общества, даже когда игрок уходит.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Исходная публикация](https://x.com/mattshumer_/status/2095596175705399482)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-video-a133b7a6d1c6.mp4) · [Исходная публикация](https://x.com/mattshumer_/status/2095596175705399482)
 
 ---
 
@@ -254,7 +354,7 @@
 Создай доступный для исследования Манхэттен в Unreal Engine. Прорабатывай район за районом, улицу за улицей, сохраняя узнаваемый масштаб, планировку дорог, достопримечательности, движение и характер кварталов. Веди список критериев проверки и дорабатывай каждый участок, прежде чем переходить к следующему.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [Исходная публикация](https://x.com/mattshumer_/status/2095609734845927525)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095609426770010113-video-05968f9d59fb.mp4) · [Исходная публикация](https://x.com/mattshumer_/status/2095609734845927525)
 
 ---
 
@@ -279,7 +379,7 @@
 Создай полноценную сцену современной виллы в Blender: целостная архитектура, меблированные интерьеры, инфинити-бассейн, озеленение, реалистичные материалы и кинематографичная траектория камеры в золотой час.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/modern-villa-scene-in-blender-2095636679264780481) · [Исходная публикация](https://x.com/karankendre/status/2095636679264780481)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/modern-villa-scene-in-blender-2095636679264780481) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095636565192241152-video-97d4ec4c239f.mp4) · [Исходная публикация](https://x.com/karankendre/status/2095636679264780481)
 
 ---
 
@@ -304,7 +404,7 @@
 Создай полноценную браузерную 3D-игру в одном самостоятельном проекте. Добавь понятную цель, отзывчивое управление, пространственно связные уровни, врагов или опасности, обратную связь, подсчёт очков, перезапуск и меры для стабильной производительности.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/one-shot-browser-3d-game-2095599934766764338) · [Исходная публикация](https://x.com/theo/status/2095599934766764338)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/one-shot-browser-3d-game-2095599934766764338) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095599652796272640-video-19ead087387b.mp4) · [Исходная публикация](https://x.com/theo/status/2095599934766764338)
 
 ---
 
@@ -329,7 +429,7 @@
 Воссоздай дом с предоставленного изображения как полностью редактируемую сцену Blender. Создай архитектуру, мебель, бытовую технику и игрушки отдельными объектами, сохрани правдоподобные пропорции и обеспечь плавную локальную прогулку со скоростью 60 FPS.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775) · [Исходная публикация](https://x.com/tomkrcha/status/2095598645190291775)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095596412650283008-video-ba69ffc1845f.mp4) · [Исходная публикация](https://x.com/tomkrcha/status/2095598645190291775)
 
 ---
 
@@ -354,7 +454,7 @@
 Используй объявление о недвижимости и все его фотографии, чтобы воссоздать дом в 3D, вывести согласованную планировку и подготовить качественный рекламный видеотур. Отметь геометрию, в которой нет уверенности, и исправь несоответствия после первого прохода.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615) · [Исходная публикация](https://x.com/realYunfanYe/status/2095612137582526615)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095611898968547328-video-ac32ebda7148.mp4) · [Исходная публикация](https://x.com/realYunfanYe/status/2095612137582526615)
 
 ---
 
@@ -379,7 +479,7 @@
 Воссоздай старинный паровоз с предоставленного чертежа в Blender в виде детальной механической сборки. Колёса, оси, подвеска, тяги, арматура котла и панели корпуса должны быть отдельными именованными редактируемыми объектами. Предусмотри управление уровнем детализации.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Исходная публикация](https://x.com/tomkrcha/status/2095756085890310311)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095754646069354497-video-61d8e4756cf0.mp4) · [Исходная публикация](https://x.com/tomkrcha/status/2095756085890310311)
 
 ---
 
@@ -404,7 +504,7 @@
 Преобразуй описание декораций Овального кабинета в исполняемый код сцены. Построй помещение в Blender с редактируемой мебелью, стенами, освещением и расстановкой камер, затем создай кинематографичный рендер в Cycles.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857) · [Исходная публикация](https://x.com/higgsfield_ai/status/2095630197257367857)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095629993678344192-video-4ddc3c553b82.mp4) · [Исходная публикация](https://x.com/higgsfield_ai/status/2095630197257367857)
 
 ---
 
@@ -429,7 +529,7 @@
 Создай за один проход игровой воксельный мир в духе Minecraft: генерация ландшафта, установка и разрушение блоков, управление от первого лица, инвентарь, освещение, вода и небольшой цикл выживания.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/one-shot-minecraft-style-world-2095597137849446688) · [Исходная публикация](https://x.com/flavioAd/status/2095597137849446688)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/one-shot-minecraft-style-world-2095597137849446688) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095576150743400453-video-af32f40d4a39.mp4) · [Исходная публикация](https://x.com/flavioAd/status/2095597137849446688)
 
 ---
 
@@ -454,7 +554,7 @@
 Воссоздай Дворец изящных искусств Сан-Франциско в Blender: узнаваемые пропорции ротонды, колоннады, лагуна, растительность, состаренные материалы и кинематографичный свет, передающий оптимизм эпохи всемирных выставок.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143) · [Исходная публикация](https://x.com/sharifshameem/status/2095653641164329143)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095652923917361152-video-39313e3745d0.mp4) · [Исходная публикация](https://x.com/sharifshameem/status/2095653641164329143)
 
 ---
 
@@ -479,7 +579,7 @@
 Преврати шесть предоставленных картин Ван Гога в единый город для прогулок на Three.js. Сохрани палитру и характер мазков каждой картины, связав улицы, ориентиры и переходы в доступный для исследования мир.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Исходная публикация](https://x.com/petergostev/status/2095776685807346105) · [Демо](https://van-goghs-town.surge.sh/)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095776416302280708-video-abded525de38.mp4) · [Исходная публикация](https://x.com/petergostev/status/2095776685807346105) · [Демо](https://van-goghs-town.surge.sh/)
 
 ---
 
@@ -504,7 +604,7 @@
 Выступи моим разработчиком 3D-игры. Уточни только недостающие сведения о цели игрока, визуальном стиле и управлении, затем создай браузерную игру, в которую можно сразу сыграть, и дорабатывай её по коротким голосовым указаниям.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647) · [Исходная публикация](https://x.com/EHuanglu/status/2095608358086840647)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095608290923425792-video-163f53a6c23f.mp4) · [Исходная публикация](https://x.com/EHuanglu/status/2095608358086840647)
 
 ---
 
@@ -529,7 +629,7 @@
 Преврати предоставленный черновой прототип картинговых гонок в Unity в три игровых варианта: пиратский, конфетный и киберпанк. Сохрани основную механику вождения, замени окружение и обратную связь, протестируй каждую сборку и исправь наиболее заметные ошибки.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369) · [Исходная публикация](https://x.com/chetaslua/status/2095580402505400369)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095580316710879232-video-b3f497eb07bb.mp4) · [Исходная публикация](https://x.com/chetaslua/status/2095580402505400369)
 
 ---
 
@@ -554,7 +654,7 @@
 Создай 3D-приключение в открытом мире с несколькими связанными биомами, перемещением, открытиями, несложными боями, заданиями, ориентирами и сменой дня и ночи. Дай достаточно подсказок, чтобы исследование ощущалось осмысленным.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/open-world-browser-adventure-2095596341422440714) · [Исходная публикация](https://x.com/petergostev/status/2095596341422440714)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/open-world-browser-adventure-2095596341422440714) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095590957890797568-video-da104fbe8619.mp4) · [Исходная публикация](https://x.com/petergostev/status/2095596341422440714)
 
 ---
 
@@ -579,7 +679,7 @@
 Создай браузерный инструмент для размещения загруженных изображений на фотореалистичных 3D-мокапах товаров. Добавь вращение камеры, настройку материалов и цветов, освещение окружением, выбор разных товаров и экспорт в высоком разрешении.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253) · [Исходная публикация](https://x.com/joshmillgate/status/2095619319690400253)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095619198437240836-video-0980b9ee2b65.mp4) · [Исходная публикация](https://x.com/joshmillgate/status/2095619319690400253)
 
 ---
 
@@ -604,7 +704,7 @@
 Используй предоставленный референс, чтобы за один проход создать полноценную 3D-игру-аквариум. Воссоздай композицию резервуара, анимируй рыб, добавь кормление и коллекционирование, эффекты воды, управление камерой и понятную цель.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/reference-image-3d-aquarium-game-2095611134992945385) · [Исходная публикация](https://x.com/TimJayas/status/2095611134992945385)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/reference-image-3d-aquarium-game-2095611134992945385) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095610918570958848-video-154a5abed1ba.mp4) · [Исходная публикация](https://x.com/TimJayas/status/2095611134992945385)
 
 ---
 
@@ -629,7 +729,7 @@
 Создай по одному промпту 3D-игру, работающую в реальном времени. Определи небольшую основную механику, понятную цель и короткую историю, затем создай сцену, персонажей, предметы, обратную связь и состояние перезапуска, чтобы можно было сразу играть.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/single-playable-real-time-3d-game-2095647685210669541) · [Исходная публикация](https://x.com/higgsfield/status/2095647685210669541)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/single-playable-real-time-3d-game-2095647685210669541) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095639396385198080-video-2439075a6fef.mp4) · [Исходная публикация](https://x.com/higgsfield/status/2095647685210669541)
 
 ---
 
@@ -654,7 +754,7 @@
 Создай детальное морское сражение на Three.js за один запрос. Добавь несколько различных кораблей, физически убедительное взаимодействие с водой, кильватерные следы и брызги, воздушный бой, взрывы, кинематографичный свет, движение камеры и рендеринг с учётом производительности.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278) · [Исходная публикация](https://x.com/synthwavedd/status/2095840435319001278)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095839735818412033-video-7ded403f2fb9.mp4) · [Исходная публикация](https://x.com/synthwavedd/status/2095840435319001278)
 
 ---
 
@@ -679,7 +779,7 @@
 Создай сетевой ареновый шутер 10 на 10 в духе классических научно-фантастических FPS. Добавь команды, возрождение, легко различимое оружие, щиты, подбираемые предметы, компактные карты, очки, ход матча и браузерную игру с низкой задержкой.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024) · [Исходная публикация](https://x.com/VikiingAI/status/2095598026916049024)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095597293734895622-video-abe5a7cfbbd9.mp4) · [Исходная публикация](https://x.com/VikiingAI/status/2095598026916049024)
 
 ---
 
@@ -704,7 +804,7 @@
 Создай детальный воксельный железнодорожный макет на Three.js. Позволь запускать и останавливать несколько поездов, переключать пути, вращать и приближать камеру, рассматривать миниатюрные города и включать небольшие анимации окружения.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-voxel-railway-table-2095719731860750613) · [Исходная публикация](https://x.com/DeryaTR_/status/2095719731860750613) · [Демо](https://lindenhafen-railway.vercel.app/)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-voxel-railway-table-2095719731860750613) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095719136571629573-video-a0540558f73b.mp4) · [Исходная публикация](https://x.com/DeryaTR_/status/2095719731860750613) · [Демо](https://lindenhafen-railway.vercel.app/)
 
 ---
 
@@ -729,7 +829,7 @@
 Создай детальный воксельный корабль XVII века, плывущий внутри стеклянной бутылки. Смоделируй волны и качку, добавь кружащих чаек, миниатюрную гавань и коралловые рифы, затем подготовь кинематографичный пролёт камеры и спокойную звуковую дорожку.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065) · [Исходная публикация](https://x.com/DeryaTR_/status/2095699049722581065)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095698775075622912-video-e275aa332ebb.mp4) · [Исходная публикация](https://x.com/DeryaTR_/status/2095699049722581065)
 
 ---
 
@@ -754,7 +854,7 @@
 Создай в CAD оригинальную модель по мотивам USS Enterprise NCC-1701, готовую к печати. Сохрани узнаваемые пропорции, добавь мостик и отдельные интерьеры, не менее 28 работающих подвижных деталей, раздельные сборки и экспортируемые производственные файлы.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676) · [Исходная публикация](https://x.com/DeryaTR_/status/2095641163441254676)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095640960680243200-video-272db069f601.mp4) · [Исходная публикация](https://x.com/DeryaTR_/status/2095641163441254676)
 
 ---
 
@@ -779,7 +879,7 @@
 Передай в Unity ощущение классического космического полёта по траншее: скоростной полёт на малой высоте, огонь турелей, препятствия, наведение, нарастающее напряжение, конечная цель и кинематографичная сцена успеха или поражения.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/unity-space-trench-run-game-2095630044102279312) · [Исходная публикация](https://x.com/ronaldmannak/status/2095630044102279312)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/unity-space-trench-run-game-2095630044102279312) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2067003685574483968-video-f9b57b7e0d54.mp4) · [Исходная публикация](https://x.com/ronaldmannak/status/2095630044102279312)
 
 ---
 
@@ -804,7 +904,7 @@
 Сгенерируй большой воксельный замок с понятными линиями обороны, башнями, стенами, воротами, дворами и окружающим ландшафтом. Используй инстансинг, орбитальную камеру, меняющийся свет и детерминированную генерацию, чтобы результат был стабильным и удобным для осмотра.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/procedural-voxel-castle-showcase-2093690427849191855) · [Исходная публикация](https://x.com/hakmgpt/status/2093690427849191855)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/procedural-voxel-castle-showcase-2093690427849191855) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2093690174018330624-video-184f0db40faf.mp4) · [Исходная публикация](https://x.com/hakmgpt/status/2093690427849191855)
 
 ---
 
@@ -829,7 +929,7 @@
 Собери доступный для исследования город в Unity из предоставленной библиотеки ассетов. Создай целостную дорожную сеть, высотные здания, машины, пальмы, освещение и навигацию. Оптимизируй сцену и подготовь стабильную прогулку от первого лица.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887) · [Исходная публикация](https://x.com/chetaslua/status/2095597640587374887)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095597547717029888-video-fda40533e887.mp4) · [Исходная публикация](https://x.com/chetaslua/status/2095597640587374887)
 
 ---
 
@@ -854,7 +954,7 @@
 Создай паровоз в Blender как настоящую разборную механическую модель, а не текстурированную оболочку. Раздели и назови оси, буксовые направляющие, буксы, связи, элементы подвески, паровой колпак и все основные узлы.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840) · [Исходная публикация](https://x.com/sheemamoto/status/2095868420327710840)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095868324701700098-video-0cc691c80738.mp4) · [Исходная публикация](https://x.com/sheemamoto/status/2095868420327710840)
 
 ---
 
@@ -879,7 +979,7 @@
 Создай полноценные браузерные картинговые гонки: восемь гонщиков, три круга, дрифт, подбираемые предметы, отзывчивая физика, понятный HUD, привлекательная графика и экран результатов после финиша.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023) · [Исходная публикация](https://x.com/amazing13_13/status/2095819786651374023)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095817928524599296-video-68a8b3595841.mp4) · [Исходная публикация](https://x.com/amazing13_13/status/2095819786651374023)
 
 ---
 
@@ -904,7 +1004,7 @@
 Разбери визуальный язык предоставленного первого экрана с галактикой и воссоздай его в WebGL в реальном времени, без видео. Используй частицы с ощущением глубины, светящуюся пыль, плавную реакцию на указатель, свободное пространство для текста и адаптивную производительность.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631) · [Исходная публикация](https://x.com/Fluxora_Studios/status/2095805694603673631)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095804250420879360-video-dc96ce63180f.mp4) · [Исходная публикация](https://x.com/Fluxora_Studios/status/2095805694603673631)
 
 ---
 
@@ -929,7 +1029,7 @@
 Создай автоматически играющую аркаду для одной из стран G7. Преврати узнаваемую культурную достопримечательность в основную механику, сделай происходящее понятным без управления, добавь очки, нарастающую сложность и запоминающееся раскрытие замысла.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791) · [Исходная публикация](https://x.com/say_gm_/status/2095898198413922791)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095897987142791169-video-f889a9dbf887.mp4) · [Исходная публикация](https://x.com/say_gm_/status/2095898198413922791)
 
 ---
 
@@ -954,7 +1054,7 @@
 Спроектируй и реализуй за один проход качественный интерактивный прототип по предоставленной концепции продукта. Выбери выразительную визуальную систему, выдели основное действие, добавь отточенные переходы и подготовь размещённую в интернете адаптивную сборку.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065) · [Исходная публикация](https://x.com/AY_Orbach/status/2095597560253862065)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095596408040468483-video-09e9e1639c30.mp4) · [Исходная публикация](https://x.com/AY_Orbach/status/2095597560253862065)
 
 ---
 
@@ -979,7 +1079,7 @@
 Создай интерактивный 3D-турбокомпрессор. Раздели все рабочие системы. Дай мне вращать его, рассматривать детали отдельно и видеть, что именно делает механизм.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725) · [Исходная публикация](https://x.com/Feraser8/status/2095776712579571725)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095769948190801920-video-b6c916167d68.mp4) · [Исходная публикация](https://x.com/Feraser8/status/2095776712579571725)
 
 ---
 
@@ -1004,7 +1104,7 @@
 Создай за один запрос оригинальную игру на Three.js, достойную названия «Amaze». Выбери одну удивляющую визуальную механику, объясни её за несколько секунд, выстрой короткое развитие и заверши игру эффектным зрелищем.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198) · [Исходная публикация](https://x.com/pratt_builds/status/2095663498101662198)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095663390886912001-video-84fe550dddf8.mp4) · [Исходная публикация](https://x.com/pratt_builds/status/2095663498101662198)
 
 ---
 
@@ -1029,7 +1129,7 @@
 Создай визуально целостный игровой прототип при строгом ограничении времени и токенов. Отдай приоритет одному законченному игровому циклу, отзывчивому управлению, понятной обратной связи, стабильной производительности и готовой браузерной сборке, а не количеству функций.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/rapid-playable-game-prototype-2095907526566990013) · [Исходная публикация](https://x.com/gibglue/status/2095907526566990013)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/rapid-playable-game-prototype-2095907526566990013) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095907053655248897-video-e9b0bdbb4b6c.mp4) · [Исходная публикация](https://x.com/gibglue/status/2095907526566990013)
 
 ---
 
@@ -1054,7 +1154,7 @@
 Создай игру с открытым миром по концепции: [замысел мира]. Добавь три разных региона, перемещение, динамические встречи, простую цепочку заданий, ориентиры, сохранение и перезапуск, а также оптимизацию для работы в браузере.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/open-world-game-from-a-prompt-2095872986477908108) · [Исходная публикация](https://x.com/aeejazkhan/status/2095872986477908108)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/open-world-game-from-a-prompt-2095872986477908108) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095872181087670272-video-b49ed9994d6c.mp4) · [Исходная публикация](https://x.com/aeejazkhan/status/2095872986477908108)
 
 ---
 
@@ -1079,7 +1179,7 @@
 Создай качественный первый экран страницы запуска продукта с галактикой на Three.js в реальном времени. Пусть частицы образуют ненавязчивый силуэт цифры шесть и реагируют на прокрутку и указатель. Сохрани читаемость текста и плавно упрощай эффекты на слабых устройствах.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457) · [Исходная публикация](https://x.com/threejsresource/status/2095806515579879457)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095802938845470720-video-2b838b3fe64c.mp4) · [Исходная публикация](https://x.com/threejsresource/status/2095806515579879457)
 
 ---
 
@@ -1104,7 +1204,7 @@
 Создай кинематографичную киберпанк-спальню в Blender с видом на ночной неоновый город под дождём. Добавь анимированные рекламные экраны, добейся фотореализма и бесшовного зацикливания.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [Исходная публикация](https://x.com/CoinSh0t/status/2095898303019856230)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095898263429775360-video-bfa98177286e.mp4) · [Исходная публикация](https://x.com/CoinSh0t/status/2095898303019856230)
 
 ---
 
@@ -1129,7 +1229,7 @@
 Создай город для прогулок на Three.js, вдохновлённый Ван Гогом. Преврати нарисованные улицы, звёзды, кафе и поля в многослойные 3D-пространства, сохранив живые мазки с помощью шейдеров, текстур и анимированного света.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/van-gogh-town-in-three-js-2095871735824339279) · [Исходная публикация](https://x.com/RealFedeURU/status/2095871735824339279)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/van-gogh-town-in-three-js-2095871735824339279) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095776416302280708-video-abded525de38.mp4) · [Исходная публикация](https://x.com/RealFedeURU/status/2095871735824339279)
 
 ---
 
@@ -1154,7 +1254,7 @@
 Объедини шесть картин Ван Гога в доступный для исследования город, где можно гулять по улицам «Звёздной ночи». Продумай естественные переходы между картинами, выдержи единый масштаб и добавь мягкие фоновые взаимодействия.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372) · [Исходная публикация](https://x.com/BigRyan/status/2095805115580199372)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095804813997182976-video-4db160ec3b48.mp4) · [Исходная публикация](https://x.com/BigRyan/status/2095805115580199372)
 
 ---
 
@@ -1179,7 +1279,7 @@
 Воссоздай детский железнодорожный макет как тактильную игрушку на Three.js с воксельными рельсами и подвижным составом. Дай игроку водить поезда, переводить стрелки, вращать камеру вокруг стола и находить анимированные миниатюрные сценки.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [Исходная публикация](https://x.com/BigRyan/status/2095742344293454148)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095742030609846272-video-0732b341a55a.mp4) · [Исходная публикация](https://x.com/BigRyan/status/2095742344293454148)
 
 ---
 
@@ -1204,7 +1304,7 @@
 Преврати предоставленное описание города в окружение Unity с высотками, дорогами, автомобилями, пальмами и атмосферным светом. Обеспечь правдоподобный масштаб, навигацию, движение транспорта и плавную камеру от первого лица.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/text-to-explorable-unity-city-2095623452678144366) · [Исходная публикация](https://x.com/0x0SojalSec/status/2095623452678144366)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/text-to-explorable-unity-city-2095623452678144366) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095597547717029888-video-fda40533e887.mp4) · [Исходная публикация](https://x.com/0x0SojalSec/status/2095623452678144366)
 
 ---
 
@@ -1229,7 +1329,7 @@
 Создай по предоставленному референсу 3D-игру-аквариум одним промптом. Передай композицию и настроение, добавь живое поведение рыб, водную каустику, орбитальное управление и небольшой цикл взаимодействий для сравнения результатов моделей.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/single-aquarium-benchmark-2095650251902239139) · [Исходная публикация](https://x.com/iamtonyzhu/status/2095650251902239139)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/single-aquarium-benchmark-2095650251902239139) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095610918570958848-video-154a5abed1ba.mp4) · [Исходная публикация](https://x.com/iamtonyzhu/status/2095650251902239139)
 
 ---
 
@@ -1254,7 +1354,7 @@
 Преврати предоставленный план этажа в полноценную архитектурную 3D-прогулку. Соблюдай размеры комнат и связи между ними, добавь двери, окна, мебель, материалы и освещение, затем проложи маршрут камеры, раскрывающий планировку.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [Исходная публикация](https://x.com/aidarosgo3/status/2095725404883476661)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095628000180232192-video-d8d0e43283da.mp4) · [Исходная публикация](https://x.com/aidarosgo3/status/2095725404883476661)
 
 ---
 
@@ -1279,7 +1379,7 @@
 Воссоздай предоставленный реальный дом как полностью редактируемую сцену Blender. Раздели архитектуру и обстановку на отдельные объекты, оптимизируй геометрию и материалы и подготовь локальную прогулку со стабильными 60 FPS.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [Исходная публикация](https://x.com/alvinfoo/status/2095777502681825541)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095730824343879680-video-dca4aaab2d86.mp4) · [Исходная публикация](https://x.com/alvinfoo/status/2095777502681825541)
 
 ---
 
@@ -1304,7 +1404,7 @@
 Создай полноценные аркадные уличные гонки в браузере по одному предложению. Реализуй приятную физику дрифта, очки за комбо, бонусы за опасные сближения, камеры скорости, нитро, транспорт, понятный HUD и короткую трассу для повторных заездов.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [Исходная публикация](https://x.com/higgsfield_ai/status/2095916820431827408)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095915630633603074-video-ba5f5143a657.mp4) · [Исходная публикация](https://x.com/higgsfield_ai/status/2095916820431827408)
 
 ---
 
@@ -1329,7 +1429,7 @@
 Создай 3D-превиз музея с планом пространства, позициями актёров, постановкой камер и списком кадров. Все постановки должны оставаться внутри физической сцены. Экспортируй согласованные инструкции для последующей генерации видео.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593) · [Исходная публикация](https://x.com/higgsfield_ai/status/2095616529572503593)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095616375641583617-video-3ba498f1c2cf.mp4) · [Исходная публикация](https://x.com/higgsfield_ai/status/2095616529572503593)
 
 ---
 
@@ -1354,7 +1454,7 @@
 Создай интерактивную 15-секундную демонстрацию [продукта] прежде всего для мобильных устройств. Дай пользователю попробовать основную функцию одним жестом, сразу покажи 3D-отклик и заверши понятным призывом «Получить полный доступ». Используй вертикальный формат 9:16 и фирменные цвета.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/playable-15-second-product-demo-ad-2095695603808309497) · [Исходная публикация](https://x.com/zackpaid/status/2095695603808309497)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/playable-15-second-product-demo-ad-2095695603808309497) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095639396385198080-video-9cb15dd700f3.mp4) · [Исходная публикация](https://x.com/zackpaid/status/2095695603808309497)
 
 ---
 
@@ -1379,7 +1479,7 @@
 Возьми предоставленный архитектурный чертёж, создай точную редактируемую модель в Blender, затем перенеси её в Unreal Engine как освещённую архитектурную сцену для прогулок с правильным масштабом и коллизиями.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551) · [Исходная публикация](https://x.com/LinusEkenstam/status/2095624712244072551)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095596669320810496-video-039b2a1b1ef0.mp4) · [Исходная публикация](https://x.com/LinusEkenstam/status/2095624712244072551)
 
 ---
 
@@ -1404,7 +1504,7 @@
 Создай современную лесную виллу Solace для прогулок: три спальни, кабинет, центральный двор, бассейн и окружающий лес. Построй её процедурно в Blender, отрендери кадры в золотой час и экспортируй прогулку в UE5 со скоростью 60 FPS.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [Исходная публикация](https://x.com/NFT_Chen/status/2095752726886105375)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095596669320810496-video-039b2a1b1ef0.mp4) · [Исходная публикация](https://x.com/NFT_Chen/status/2095752726886105375)
 
 ---
 
@@ -1429,7 +1529,7 @@
 Создай целостную сцену Blender за предельно короткое время. Сосредоточься на выразительном силуэте, трёх планах глубины, одном основном материале, кинематографичном свете и готовой к съёмке композиции. Оставь все объекты редактируемыми.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [Исходная публикация](https://x.com/_satyam_ai/status/2095844872171421771)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095844222733893632-video-60938d617c9c.mp4) · [Исходная публикация](https://x.com/_satyam_ai/status/2095844872171421771)
 
 ---
 
@@ -1454,7 +1554,7 @@
 Создай машину Руба Голдберга в самостоятельном HTML-файле на Three.js. Построй последовательность механических взаимодействий, которая в конце нажимает кнопку и вызывает театральный взрыв.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629) · [Исходная публикация](https://x.com/thehypedotnews/status/2095980885732704629)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095980472887308288-video-adeb46729f34.mp4) · [Исходная публикация](https://x.com/thehypedotnews/status/2095980885732704629)
 
 ---
 
@@ -1479,7 +1579,7 @@
 Воссоздай Тадж-Махал как доступную для исследования 3D-сцену. Удели особое внимание узнаваемым пропорциям, симметричным садам, центральному куполу, минаретам и взаимному расположению зданий.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/explorable-taj-mahal-2096035962824335798) · [Исходная публикация](https://x.com/vikassabbi/status/2096035962824335798)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/explorable-taj-mahal-2096035962824335798) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096030438963970048-video-bec575b41c1e.mp4) · [Исходная публикация](https://x.com/vikassabbi/status/2096035962824335798)
 
 ---
 
@@ -1504,7 +1604,7 @@
 Создай симуляцию орбитального сближения в реальном времени с расчётом движения двух тел в системе ECI и наведением HCW. Добавь ориентацию с шестью степенями свободы, расход топлива, ограничения сил и цель стыковки.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/orbital-rendezvous-simulator-2096225621303042258) · [Исходная публикация](https://x.com/AlicanKiraz0/status/2096225621303042258)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/orbital-rendezvous-simulator-2096225621303042258) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096224812020690944-video-9e1b5e9a36f6.mp4) · [Исходная публикация](https://x.com/AlicanKiraz0/status/2096225621303042258)
 
 ---
 
@@ -1579,7 +1679,7 @@
 Создай 3D-игру с рогаткой, четырьмя птицами и разными особыми способностями. Добавь прицеливание и запуск, разрушаемые конструкции и систему очков, побуждающую переигрывать.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/3d-slingshot-bird-game-2095981655370666076) · [Исходная публикация](https://x.com/MozeTech/status/2095981655370666076)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/3d-slingshot-bird-game-2095981655370666076) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095981423538958336-video-fc54301bee6a.mp4) · [Исходная публикация](https://x.com/MozeTech/status/2095981655370666076)
 
 ---
 
@@ -1604,7 +1704,7 @@
 Создай шутер от третьего лица на Three.js в духе Max Payne. Сосредоточься на замедленном экшене, отзывчивой стрельбе и игровой сцене с удобной следящей камерой.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/bullet-time-third-person-shooter-2095962376344309843) · [Исходная публикация](https://x.com/HangoutWHAndrei/status/2095962376344309843)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/bullet-time-third-person-shooter-2095962376344309843) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095962176804753408-video-ab7d330a7c99.mp4) · [Исходная публикация](https://x.com/HangoutWHAndrei/status/2095962376344309843)
 
 ---
 
@@ -1629,7 +1729,7 @@
 Создай аппетитное пружинящее желе с помощью Three.js и WebGPU. Пусть оно естественно деформируется после взаимодействия и постепенно успокаивается. Используй полупрозрачный материал и наглядное освещение.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/bouncy-webgpu-jelly-2096008241104711698) · [Исходная публикация](https://x.com/scottstts/status/2096008241104711698)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/bouncy-webgpu-jelly-2096008241104711698) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096007734642552835-video-7ebd768021af.mp4) · [Исходная публикация](https://x.com/scottstts/status/2096008241104711698)
 
 ---
 
@@ -1654,7 +1754,7 @@
 Создай модель контроллера PlayStation 5 на Three.js для подробного осмотра: узнаваемый силуэт, кнопки, триггеры, аналоговые стики и разные материалы поверхностей.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-ps5-controller-2095967131573649552) · [Исходная публикация](https://x.com/blueemi99/status/2095967131573649552)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-ps5-controller-2095967131573649552) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095967014825160710-video-4ca1b8f7fd8a.mp4) · [Исходная публикация](https://x.com/blueemi99/status/2095967131573649552)
 
 ---
 
@@ -1679,7 +1779,7 @@
 Создай браузерный шутер на Three.js в духе World at War. Подготовь полноценное игровое поле боя с отзывчивыми сражениями, пространственным звуком, ассетами персонажей и полным ходом матча.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/astral-war-browser-shooter-2096079660605997264) · [Исходная публикация](https://x.com/0xRishi/status/2096079660605997264)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/astral-war-browser-shooter-2096079660605997264) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096062838892814336-video-8f7d4c8188bb.mp4) · [Исходная публикация](https://x.com/0xRishi/status/2096079660605997264)
 
 ---
 
@@ -1729,7 +1829,7 @@
 Создай полноценную браузерную 3D-игру о полётах с нуля. Реализуй управляемый полёт, доступное для навигации окружение, понятную цель и целостное оформление.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/browser-flight-game-2096149823216898445) · [Исходная публикация](https://x.com/givros/status/2096149823216898445)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/browser-flight-game-2096149823216898445) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096149593037889536-video-7d3f77669fb5.mp4) · [Исходная публикация](https://x.com/givros/status/2096149823216898445)
 
 ---
 
@@ -1754,7 +1854,7 @@
 Воссоздай по референсу панель с 3D-глобусом на Three.js. Добавь дневной и ночной режимы, читаемые географические данные и рабочие элементы управления, соответствующие референсу.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-globe-dashboard-2096082432197837065) · [Исходная публикация](https://x.com/hqmank/status/2096082432197837065)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-globe-dashboard-2096082432197837065) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096082301176164361-video-1f5957451d5a.mp4) · [Исходная публикация](https://x.com/hqmank/status/2096082432197837065)
 
 ---
 
@@ -1779,7 +1879,7 @@
 Создай редактируемую модель башни Азади в Blender, уделив внимание расширенному основанию, пересекающейся арке, узорчатым поверхностям и узнаваемым пропорциям.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/azadi-tower-in-blender-2096107322536051057) · [Исходная публикация](https://x.com/taesiri/status/2096107322536051057)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/azadi-tower-in-blender-2096107322536051057) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096107229338636288-video-bfeb987de96b.mp4) · [Исходная публикация](https://x.com/taesiri/status/2096107322536051057)
 
 ---
 
@@ -1804,7 +1904,7 @@
 Преврати предоставленное изображение в сцену Three.js внутри сайта студии с плавной анимацией при прокрутке. Согласуй движение камеры, типографику и переходы между разделами.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [Исходная публикация](https://x.com/mx_debbiee/status/2096245759121277132)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096245656314589184-video-1bb14795b8f2.mp4) · [Исходная публикация](https://x.com/mx_debbiee/status/2096245759121277132)
 
 ---
 
@@ -1829,7 +1929,7 @@
 Создай 3D-игру о сплаве на каяке с эстетикой аниме. Дай игроку грести влево и вправо, обходя препятствия. Текущую воду, пейзажи, музыку и звуковые эффекты создай кодом.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [Исходная публикация](https://x.com/ItsmeAjayKV/status/2096244208533455049)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096235513309229056-video-0e12d9df3ce8.mp4) · [Исходная публикация](https://x.com/ItsmeAjayKV/status/2096244208533455049)
 
 ---
 
@@ -1854,7 +1954,7 @@
 Создай интерактивный продуктовый сайт вокруг фотореалистичной стеклянной бутылки WebGL. Используй жидкость с преломлением, вращение при прокрутке и выразительную типографику, сохранив производительность браузера.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [Исходная публикация](https://x.com/himanshubuildss/status/2096243989439713677)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096243753367592960-video-2ccb4eb4135b.mp4) · [Исходная публикация](https://x.com/himanshubuildss/status/2096243989439713677)
 
 ---
 
@@ -1879,7 +1979,7 @@
 Сгенерируй два поезда непосредственно на Three.js по размерам, профилям и геометрическим функциям. Анимируй колёса и добавь последовательность разнесения деталей и обратной сборки.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041) · [Исходная публикация](https://x.com/tomkrcha/status/2096082580554777041)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096080925239185408-video-effe135e70ba.mp4) · [Исходная публикация](https://x.com/tomkrcha/status/2096082580554777041)
 
 ---
 
@@ -1904,7 +2004,7 @@
 Создай уютную игровую комнату на Three.js, где малыш переходит между игрушками и играет с каждой по-своему. Добавь игровой коврик, книги, полки и конструкции для лазания, а также вращение и приближение камеры.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/a-playful-toddler-toy-world-2096201415051911597) · [Исходная публикация](https://x.com/aehyok/status/2096201415051911597)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/a-playful-toddler-toy-world-2096201415051911597) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096046840546549761-video-d523bff80007.mp4) · [Исходная публикация](https://x.com/aehyok/status/2096201415051911597)
 
 ---
 
@@ -1929,7 +2029,7 @@
 Изучи производство самолётов и создай работающую симуляцию авиазавода на Three.js. Смоделируй циклы оборудования, производственные посты, транспортировку и узкие места, затем проверь поток производства.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/live-jet-manufacturing-plant-2096122429319852319) · [Исходная публикация](https://x.com/konstantinsaifo/status/2096122429319852319)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/live-jet-manufacturing-plant-2096122429319852319) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096121674982727684-video-16fa7681ed82.mp4) · [Исходная публикация](https://x.com/konstantinsaifo/status/2096122429319852319)
 
 ---
 
@@ -1954,7 +2054,7 @@
 Создай игру на Three.js в духе кайдзю с использованием сгенерированных моделей существ и звуковых эффектов. Сделай гигантские сражения понятными, а окружение — передающим размеры существ.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/kaiju-city-battle-2096251574918013135) · [Исходная публикация](https://x.com/majidmanzarpour/status/2096251574918013135)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/kaiju-city-battle-2096251574918013135) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096251295594135556-video-cc717933e256.mp4) · [Исходная публикация](https://x.com/majidmanzarpour/status/2096251574918013135) · [Демо](https://stormcolossus.netlify.app/)
 
 ---
 
@@ -1979,7 +2079,7 @@
 Сгенерируй бурю, заключённую в кубе, с управляемой погодой на Three.js.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648) · [Исходная публикация](https://x.com/zwb44/status/2096220264413409648)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096215832367878145-video-0150533ce275.mp4) · [Исходная публикация](https://x.com/zwb44/status/2096220264413409648)
 
 ---
 
@@ -2004,7 +2104,7 @@
 Преврати классическое текстовое приключение Zork в трёхмерную приключенческую игру с экшеном. Сохрани сюжет и загадки, добавь боевые сцены и создай персонажей и окружение на Three.js.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620) · [Исходная публикация](https://x.com/emollick/status/2096047660662722620)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096032513387110400-video-81b6d2734d03.mp4) · [Исходная публикация](https://x.com/emollick/status/2096047660662722620)
 
 ---
 
@@ -2029,7 +2129,7 @@
 Возьми сгенерированную модель тираннозавра, создай риг и правдоподобные движения. Покажи персонажа на Three.js и проверь, что анимация корректно деформирует модель.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [Исходная публикация](https://x.com/majidmanzarpour/status/2096133339329536249)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096132586565226502-video-da225779ad98.mp4) · [Исходная публикация](https://x.com/majidmanzarpour/status/2096133339329536249)
 
 ---
 
@@ -2054,7 +2154,7 @@
 Создай миниатюрную морскую экосистему внутри чашки кофе на Three.js. Постановочной камерой покажи водных обитателей так, чтобы чашка и миниатюрный масштаб оставались понятными.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [Исходная публикация](https://x.com/PolaczekSagi/status/2096174858837074198)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096173747736883201-video-3555dca2231c.mp4) · [Исходная публикация](https://x.com/PolaczekSagi/status/2096174858837074198)
 
 ---
 
@@ -2079,7 +2179,7 @@
 Создай интерактивную демонстрацию Hyperloop на Three.js, показывающую транспортную капсулу, трубную инфраструктуру и движение по системе.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [Исходная публикация](https://x.com/hbanay98/status/2096250748099068377)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096250641752711168-video-604ad7feb30f.mp4) · [Исходная публикация](https://x.com/hbanay98/status/2096250748099068377)
 
 ---
 
@@ -2104,7 +2204,7 @@
 Создай кодом 3D-бюст Наполеона на Three.js. Работай поэтапно, осматривай модель с разных сторон и уточняй пропорции лица и детали одежды.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [Исходная публикация](https://x.com/leploutos/status/2096234355395903672)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096234130044297216-video-f3d91bcdcb16.mp4) · [Исходная публикация](https://x.com/leploutos/status/2096234355395903672)
 
 ---
 
@@ -2129,7 +2229,7 @@
 Создай вокзальный зал с выразительным архитектурным ритмом, правдоподобным масштабом и убедительными материалами. Подготовь 3D-сцену для осмотра с тщательно выстроенными видами вокзала.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/railway-station-concourse-2096226711222546461) · [Исходная публикация](https://x.com/0xWormhole404/status/2096226711222546461)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/railway-station-concourse-2096226711222546461) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096226451297300480-video-76b0ad295189.mp4) · [Исходная публикация](https://x.com/0xWormhole404/status/2096226711222546461)
 
 ---
 
@@ -2154,7 +2254,7 @@
 Создай небольшую обучающую диораму в Blender и оживи её в Three.js. Используй ясные центральные объекты и короткие анимации, чтобы объяснить первые действия пользователя.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/animated-onboarding-diorama-2096222790894661841) · [Исходная публикация](https://x.com/EmilHovv/status/2096222790894661841)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/animated-onboarding-diorama-2096222790894661841) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096222762989928448-video-4d9def8e3682.mp4) · [Исходная публикация](https://x.com/EmilHovv/status/2096222790894661841)
 
 ---
 
@@ -2204,7 +2304,7 @@
 Используй рекламу мобильной игры как референс для создания настоящей браузерной игры. Воссоздай основное взаимодействие и используй ассеты Blender, чтобы передать визуальную задумку.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842) · [Исходная публикация](https://x.com/buildingadlicio/status/2096111709496680842)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096111511337107456-video-551f5e0446d2.mp4) · [Исходная публикация](https://x.com/buildingadlicio/status/2096111709496680842)
 
 ---
 
@@ -2229,7 +2329,7 @@
 Создай ареновый файтинг в Roblox в духе кроссоверных битв аниме-персонажей. Построй арену и персонажей с помощью Blender и доступных ассетов, затем реализуй полноценный боевой цикл.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412) · [Исходная публикация](https://x.com/WoahWurdz/status/2095999578419929412)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095999519968333824-video-e6d1a18772e0.mp4) · [Исходная публикация](https://x.com/WoahWurdz/status/2095999578419929412)
 
 ---
 
@@ -2254,7 +2354,7 @@
 Воссоздай гоночную физику в стиле Trackmania на C#, запусти её через WASM и отрисуй трассу в Three.js. Используй трековые меши с коллизиями и протестируй управляемость автомобиля.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Исходная публикация](https://x.com/achepta_tm/status/2096258619574513880)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096257642486431744-video-4c1bece302f4.mp4) · [Исходная публикация](https://x.com/achepta_tm/status/2096258619574513880)
 
 ---
 
@@ -2279,7 +2379,7 @@
 Возьми предоставленного 3D-персонажа, создай риг и добавь ходьбу, бег и несколько движений кунг-фу. Проверь анимации на изломы суставов и неустойчивые позы.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [Исходная публикация](https://x.com/thebuggeddev/status/2096141728487178503)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096139240476454913-video-a0fd30c3ba8a.mp4) · [Исходная публикация](https://x.com/thebuggeddev/status/2096141728487178503)
 
 ---
 
@@ -2329,7 +2429,7 @@
 Преврати портрет в персонажа Blender для WebGL-портфолио с журнальным оформлением. Добавь вращающийся глобус с местами публичных выступлений и интегрируй ассеты в сайт.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [Исходная публикация](https://x.com/HowDevelop/status/2096023793772998704)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096022456750542848-video-f8aa000c9ee6.mp4) · [Исходная публикация](https://x.com/HowDevelop/status/2096023793772998704)
 
 ---
 
@@ -2354,7 +2454,7 @@
 Создай качественный 3D-уровень в духе Sonic на Godot, используя локальные и процедурные ассеты. Сосредоточься на инерции, отзывчивом перемещении, кольцах, петлях, рельсах для скольжения и непрерывном тропическом побережье.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086) · [Исходная публикация](https://x.com/AiBattle_/status/2096056285896536086)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096055803866193925-video-1f6a9bf97b27.mp4) · [Исходная публикация](https://x.com/AiBattle_/status/2096056285896536086)
 
 ---
 
@@ -2404,7 +2504,7 @@
 Создай браузерную королевскую битву от третьего лица: сужающийся штормовой круг, девять ИИ-противников, импульсная винтовка, здоровье и перезарядка. Добавь устанавливаемые стены-укрытия и полный цикл выбывания.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [Исходная публикация](https://x.com/Motion_Viz/status/2096155883122413946)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096155779850190848-video-812518247b63.mp4) · [Исходная публикация](https://x.com/Motion_Viz/status/2096155883122413946)
 
 ---
 
@@ -2429,7 +2529,7 @@
 Используй веб-страницу о музее Сучжоу как референс, чтобы воссоздать его сад в Blender. Подготовь непрерывную прогулку, сохранив связь современной архитектуры с традиционным китайским садовым искусством.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449) · [Исходная публикация](https://x.com/whosamberella/status/2096096998092841449)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096096301616381952-video-4a739bdf3183.mp4) · [Исходная публикация](https://x.com/whosamberella/status/2096096998092841449)
 
 ---
 
@@ -2454,7 +2554,7 @@
 Создай учебную 3D-симуляцию Титана, крупнейшего спутника Сатурна, с окружением для исследования и информационным слоем, объясняющим его особые физические характеристики.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-titan-science-exhibit-2095986941753712841) · [Исходная публикация](https://x.com/ArdaTugsat/status/2095986941753712841)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-titan-science-exhibit-2095986941753712841) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095986724040290305-video-47d62d124cfd.mp4) · [Исходная публикация](https://x.com/ArdaTugsat/status/2095986941753712841)
 
 ---
 
@@ -2479,7 +2579,7 @@
 Создай эволюционирующую 3D-экосистему в одном HTML-файле на чистом WebGL и GLSL. Пусть мутации, естественный отбор, хищничество, расход энергии и объединение в многоклеточные формы взаимодействуют друг с другом.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/evolving-webgl-ecosystem-2096040448477515874) · [Исходная публикация](https://x.com/yume_arasaki/status/2096040448477515874)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/evolving-webgl-ecosystem-2096040448477515874) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096039411645566976-video-71c8620bd4aa.mp4) · [Исходная публикация](https://x.com/yume_arasaki/status/2096040448477515874)
 
 ---
 
@@ -2504,7 +2604,7 @@
 Создай 3D-симуляцию доставки, где закрытие мостов меняет маршруты грузовиков. Определяй недоступные пункты назначения и возобновляй доставку, когда маршрут открывается.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742) · [Исходная публикация](https://x.com/AgentWorkflowLa/status/2096042360513904742)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-5c3efd3efdda-video-5c3efd3efdda.mp4) · [Исходная публикация](https://x.com/AgentWorkflowLa/status/2096042360513904742)
 
 ---
 
@@ -2529,7 +2629,7 @@
 Воссоздай Sinclair ZX Spectrum 48K как интерактивное настольное 3D-приложение. Добавь резиновую клавиатуру, кассетный магнитофон, стартовый экран, рабочую игру и интерфейс программирования на BASIC.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605) · [Исходная публикация](https://x.com/DeryaTR_/status/2096062355692048605)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096061606581133312-video-615bfd65c028.mp4) · [Исходная публикация](https://x.com/DeryaTR_/status/2096062355692048605)
 
 ---
 
@@ -2554,7 +2654,7 @@
 Воссоздай гостиную в Blender по фотограмметрическому скану. Смоделируй сцену с нуля, возьми текстуры из скана и используй процедурные шейдеры там, где это уместно.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/photogrammetry-scan-to-editable-living-room-2096092080397246707) · [Исходная публикация](https://x.com/bilawalsidhu/status/2096092080397246707)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/photogrammetry-scan-to-editable-living-room-2096092080397246707) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096091625915301888-video-6a1270fd0cf5.mp4) · [Исходная публикация](https://x.com/bilawalsidhu/status/2096092080397246707)
 
 ---
 
@@ -2579,7 +2679,7 @@
 Создай уровень на Three.js в духе Odyssey: восемь платформ, три собираемые луны, атаки возвращающейся шляпой, враги и контрольные точки. Добавь сенсорное управление и протестируй полное прохождение.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [Исходная публикация](https://x.com/AiHubMix/status/2096135808243876152)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096134919546425344-video-ce32ad4bdb95.mp4) · [Исходная публикация](https://x.com/AiHubMix/status/2096135808243876152)
 
 ---
 
@@ -2604,7 +2704,7 @@
 Создай 3D-сайт по анатомии, на котором тело человека разделяется на структуры для самостоятельного осмотра. Дай перемещаться по разобранному виду и организуй части в осмысленные системы.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186) · [Исходная публикация](https://x.com/ashebytes/status/2096221988763173186)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096218474930405376-video-875c2d463d2b.mp4) · [Исходная публикация](https://x.com/ashebytes/status/2096221988763173186)
 
 ---
 
@@ -2629,7 +2729,7 @@
 Создай 3D-сайт, разбирающий Tesla Model X на смоделированные компоненты. Дай посетителям осматривать узлы и интерактивно собирать автомобиль обратно.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/tesla-model-x-exploded-view-2096009146248122416) · [Исходная публикация](https://x.com/ashebytes/status/2096009146248122416)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/tesla-model-x-exploded-view-2096009146248122416) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096008340329627648-video-7b0604309820.mp4) · [Исходная публикация](https://x.com/ashebytes/status/2096009146248122416)
 
 ---
 
@@ -2654,7 +2754,7 @@
 Создай 3D-автомат с капсулами воспоминаний. Поворот ручки должен выпускать воспоминание; смоделируй механизм в Blender и добавь падающим капсулам правдоподобное движение и звук.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/memory-capsule-machine-2096241295949975602) · [Исходная публикация](https://x.com/gloria_zwq/status/2096241295949975602)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/memory-capsule-machine-2096241295949975602) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096240294815821824-video-4c217fa6025d.mp4) · [Исходная публикация](https://x.com/gloria_zwq/status/2096241295949975602)
 
 ---
 
@@ -2679,6 +2779,1206 @@
 Создай 3D-модель Формулы-1 в Blender с помощью управления компьютером.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/formula-one-car-in-blender-2096125193580113957) · [Исходная публикация](https://x.com/Conor_D_Dart/status/2096125193580113957)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/formula-one-car-in-blender-2096125193580113957) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096124892378963969-video-036aa7b94b4e.mp4) · [Исходная публикация](https://x.com/Conor_D_Dart/status/2096125193580113957)
+
+---
+
+<a id="2096525100518453342"></a>
+
+## Переключаемые выражения лица в Blender
+
+[Nano(ナノ)](https://x.com/Dstudio_ai) · 2026-09-06 · **Задание по описанию автора**
+
+Подготовьте в Blender варианты выражений лица персонажа Tripo до создания рига. Совместите сетки и переключайте их без интерполяции, уменьшая неактивные варианты внутрь головы. Не представляйте этот способ как плавное смешивание выражений или решение, совместимое с VRM.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/previews/e172122424c525a2dfb3.webp" width="840" loading="lazy" alt="Переключаемые выражения лица в Blender"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Подготовьте в Blender варианты выражений лица персонажа Tripo до создания рига. Совместите сетки и переключайте их без интерполяции, уменьшая неактивные варианты внутрь головы. Не представляйте этот способ как плавное смешивание выражений или решение, совместимое с VRM.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096524256012316672-video-4b1e211ec04c.mp4) · [Исходная публикация](https://x.com/Dstudio_ai/status/2096525100518453342)
+
+---
+
+<a id="2096308567863079420"></a>
+
+## Сцена с персонажем в духе Warcraft в Unity
+
+[Lucca Cerf ➔ Pluma Finance](https://x.com/luccacerf) · 2026-09-05 · **Задание по описанию автора**
+
+Создайте сцену с персонажем в духе Warcraft с помощью Astra, Tripo P2, Blender и Unity. Сгенерируйте модель персонажа, подготовьте её в Blender и соберите игровую сцену в Unity.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420"><img src="../assets/previews/b6aa0b916788e64af33e.webp" width="840" loading="lazy" alt="Сцена с персонажем в духе Warcraft в Unity"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте сцену с персонажем в духе Warcraft с помощью Astra, Tripo P2, Blender и Unity. Сгенерируйте модель персонажа, подготовьте её в Blender и соберите игровую сцену в Unity.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096303795890278401-video-b5a61e848bab.mp4) · [Исходная публикация](https://x.com/luccacerf/status/2096308567863079420)
+
+---
+
+<a id="2096015772334047319"></a>
+
+## Боевая арена Three.js с моделями Tripo
+
+[Normz](https://x.com/Normaneeeeee) · 2026-09-04 · **Задание по описанию автора**
+
+Создайте игровую боевую арену в Three.js. Используйте персонажей и деревья, сгенерированные в Tripo, и включите их в арену и игровой цикл.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/three-js-battle-arena-with-tripo-assets-2096015772334047319"><img src="../assets/previews/fea90c1b2ce4c2c10621.webp" width="840" loading="lazy" alt="Боевая арена Three.js с моделями Tripo"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте игровую боевую арену в Three.js. Используйте персонажей и деревья, сгенерированные в Tripo, и включите их в арену и игровой цикл.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/three-js-battle-arena-with-tripo-assets-2096015772334047319) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096014103366238208-video-4bd6865e78da.mp4) · [Исходная публикация](https://x.com/Normaneeeeee/status/2096015772334047319)
+
+---
+
+<a id="2096579856133947507"></a>
+
+## Вращаемая 3D-доска для сёги
+
+[薄幸柄 / LAB](https://x.com/hatukougara) · 2026-09-06 · **Задание по описанию автора**
+
+Создайте приложение для игры в 3D-сёги со свободно вращаемой доской. Последовательно проверяйте и дорабатывайте доску, фигуры и взаимодействия.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/rotatable-3d-shogi-board-2096579856133947507"><img src="../assets/previews/c6c11f611cd50ab65bad.webp" width="840" loading="lazy" alt="Вращаемая 3D-доска для сёги"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте приложение для игры в 3D-сёги со свободно вращаемой доской. Последовательно проверяйте и дорабатывайте доску, фигуры и взаимодействия.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/rotatable-3d-shogi-board-2096579856133947507) · [Исходная публикация](https://x.com/hatukougara/status/2096579856133947507)
+
+---
+
+<a id="2096578761877860502"></a>
+
+## Интерактивный атлас разобранного настольного компьютера
+
+[cooper](https://x.com/icooperhero) · 2026-09-06 · **Задание по описанию автора**
+
+Создайте интерактивный 3D-сайт, на котором настольный компьютер разделяется на 29 основных компонентов. Добавьте анимацию разборки и пояснения к каждой детали.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502"><img src="../assets/previews/3e793aa49d00596d7f0f.webp" width="840" loading="lazy" alt="Интерактивный атлас разобранного настольного компьютера"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте интерактивный 3D-сайт, на котором настольный компьютер разделяется на 29 основных компонентов. Добавьте анимацию разборки и пояснения к каждой детали.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096578527097421824-video-b1e4e76ee419.mp4) · [Исходная публикация](https://x.com/icooperhero/status/2096578761877860502)
+
+---
+
+<a id="2096578684010508736"></a>
+
+## Планировщик детской комнаты с рабочим местом
+
+[かのこ🌼AI×子育て×探究](https://x.com/dqlh47m) · 2026-09-06 · **Задание по описанию автора**
+
+Воссоздайте детскую комнату, которая также служит рабочим пространством, по четырём фотографиям из углов и размерам помещения. Покажите вид с высоты взрослого и ребёнка, общий обзор и альтернативные расстановки мебели.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736"><img src="../assets/previews/1d761ad321c1abd86b86.webp" width="840" loading="lazy" alt="Планировщик детской комнаты с рабочим местом"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Воссоздайте детскую комнату, которая также служит рабочим пространством, по четырём фотографиям из углов и размерам помещения. Покажите вид с высоты взрослого и ребёнка, общий обзор и альтернативные расстановки мебели.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096578530561966080-video-99133894dee5.mp4) · [Исходная публикация](https://x.com/dqlh47m/status/2096578684010508736)
+
+---
+
+<a id="2095999282088378520"></a>
+
+## Связанные план квартиры и 3D-прогулка
+
+[おのふみ\| AIクリエーター×個人開発](https://x.com/onofumi_AI) · 2026-09-04 · **Задание по описанию автора**
+
+Создайте прогулку по квартире с одной спальней и план по одним и тем же размерам. Синхронизируйте текущее положение между видами и явно отметьте предполагаемые высоты потолков и варианты отделки.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520"><img src="../assets/previews/3d696686e58aba41eb01.webp" width="840" loading="lazy" alt="Связанные план квартиры и 3D-прогулка"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте прогулку по квартире с одной спальней и план по одним и тем же размерам. Синхронизируйте текущее положение между видами и явно отметьте предполагаемые высоты потолков и варианты отделки.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095999235611414528-video-da2dbe52f816.mp4) · [Исходная публикация](https://x.com/onofumi_AI/status/2095999282088378520)
+
+---
+
+<a id="2096557555086725159"></a>
+
+## Интерактивный Сеул в миниатюре
+
+[synabreu](https://x.com/synabreu) · 2026-09-06 · **Задание по описанию автора**
+
+Создайте миниатюру Сеула в Three.js по открытым картографическим данным. Добавьте навигацию по районам, пролёты между достопримечательностями, дневной и ночной режимы и сенсорное управление. Укажите упрощённые здания, приблизительные высоты и лицензии данных.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/interactive-miniature-of-seoul-2096557555086725159"><img src="../assets/previews/495c8dd1868b4e0c9fbe.webp" width="840" loading="lazy" alt="Интерактивный Сеул в миниатюре"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте миниатюру Сеула в Three.js по открытым картографическим данным. Добавьте навигацию по районам, пролёты между достопримечательностями, дневной и ночной режимы и сенсорное управление. Укажите упрощённые здания, приблизительные высоты и лицензии данных.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-miniature-of-seoul-2096557555086725159) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096557441312034816-video-78abc20e6310.mp4) · [Исходная публикация](https://x.com/synabreu/status/2096557555086725159) · [Демо](https://seoul-3d-atlas.synabreu.chatgpt.site/)
+
+---
+
+<a id="2096460081982304546"></a>
+
+## Процедурное насекомое, ползающее по поверхностям
+
+[XiaoLei Liu](https://x.com/leo_xiaolei) · 2026-09-06 · **Задание по описанию автора**
+
+Создайте многоногое 3D-насекомое, которое при ходьбе удерживается на разных поверхностях. Согласуйте движения ног и тела при преодолении перепадов высоты.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/surface-climbing-procedural-insect-2096460081982304546"><img src="../assets/previews/fb132b9e6a026ce7de5d.webp" width="840" loading="lazy" alt="Процедурное насекомое, ползающее по поверхностям"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте многоногое 3D-насекомое, которое при ходьбе удерживается на разных поверхностях. Согласуйте движения ног и тела при преодолении перепадов высоты.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/surface-climbing-procedural-insect-2096460081982304546) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096457635352698880-video-b8ee4ffe10bf.mp4) · [Исходная публикация](https://x.com/leo_xiaolei/status/2096460081982304546) · [Демо](https://threerocks.github.io/web-3d-pages/)
+
+---
+
+<a id="2096467585785286808"></a>
+
+## Wright Flyer над японским лесом
+
+[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-06 · **Задание по описанию автора**
+
+Создайте лётную игру на Three.js с самолётом Wright Flyer 1903 года в японском лесу. Изучите самолёт и процедурно создайте его, деревья, ворота тории, дома и горы без внешних ресурсов.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="../assets/previews/67349df6f55e75c5acee.webp" width="840" loading="lazy" alt="Wright Flyer над японским лесом"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте лётную игру на Three.js с самолётом Wright Flyer 1903 года в японском лесу. Изучите самолёт и процедурно создайте его, деревья, ворота тории, дома и горы без внешних ресурсов.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096460762189565952-video-9d36a3a844f2.mp4) · [Исходная публикация](https://x.com/thebuggeddev/status/2096467585785286808)
+
+---
+
+<a id="2096576154337734865"></a>
+
+## Дом, смоделированный с нуля в Blender
+
+[みずくん](https://x.com/mizkun) · 2026-09-06 · **Задание по описанию автора**
+
+Смоделируйте дом с нуля в Blender. Сохраните возможность редактировать сцену, чтобы изучать и дорабатывать здание в следующих итерациях.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865"><img src="../assets/previews/3dac0cf4428bc4a32bd1.webp" width="840" loading="lazy" alt="Дом, смоделированный с нуля в Blender"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Смоделируйте дом с нуля в Blender. Сохраните возможность редактировать сцену, чтобы изучать и дорабатывать здание в следующих итерациях.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096575873629769728-video-7a237d3c1b82.mp4) · [Исходная публикация](https://x.com/mizkun/status/2096576154337734865)
+
+---
+
+<a id="2096143359505269079"></a>
+
+## Из фотографии кофейни в вертикальную видеопрогулку
+
+[森叔](https://x.com/harrisonitsme) · 2026-09-05 · **Задание по описанию автора**
+
+Воссоздайте кофейню в Blender по фотографии, включая деревянный потолок, световые полосы, ростер, полки и растения. Подготовьте редактируемую сцену и 15-секундную прогулку камеры в вертикальном формате.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"><img src="../assets/previews/ffcfb39c9d14b56e65e3.webp" width="840" loading="lazy" alt="Из фотографии кофейни в вертикальную видеопрогулку"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Воссоздайте кофейню в Blender по фотографии, включая деревянный потолок, световые полосы, ростер, полки и растения. Подготовьте редактируемую сцену и 15-секундную прогулку камеры в вертикальном формате.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096143056991076352-video-e2a96d0e0f27.mp4) · [Исходная публикация](https://x.com/harrisonitsme/status/2096143359505269079)
+
+---
+
+<a id="2096501340889374883"></a>
+
+## Из плана верхнего этажа в предпросмотр Blender
+
+[indigo](https://x.com/indigox) · 2026-09-06 · **Задание по описанию автора**
+
+Создайте сцену Blender по плану верхнего этажа дома и отрендерите 10-секундный предпросмотр с небольшим числом сэмплов. Сначала добейтесь понятной пространственной планировки, затем дорабатывайте материалы.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883"><img src="../assets/previews/43b5fb834bebe6a4e434.webp" width="840" loading="lazy" alt="Из плана верхнего этажа в предпросмотр Blender"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте сцену Blender по плану верхнего этажа дома и отрендерите 10-секундный предпросмотр с небольшим числом сэмплов. Сначала добейтесь понятной пространственной планировки, затем дорабатывайте материалы.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096499441167671296-video-09a55294f759.mp4) · [Исходная публикация](https://x.com/indigox/status/2096501340889374883)
+
+---
+
+<a id="2096298425914450021"></a>
+
+## Площадь Террейру-ду-Пасу в Лиссабоне в Blender
+
+[Gonçalo Canhoto 🇵🇹](https://x.com/goncalo_canhoto) · 2026-09-05 · **Задание по описанию автора**
+
+Воссоздайте площадь Террейру-ду-Пасу в Лиссабоне как редактируемую сцену Blender. Изучите референсы, чтобы определить архитектуру, материалы и освещение площади.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021"><img src="../assets/previews/1a02f9822127ff717210.webp" width="840" loading="lazy" alt="Площадь Террейру-ду-Пасу в Лиссабоне в Blender"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Воссоздайте площадь Террейру-ду-Пасу в Лиссабоне как редактируемую сцену Blender. Изучите референсы, чтобы определить архитектуру, материалы и освещение площади.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096296038672023552-video-48b7bae96747.mp4) · [Исходная публикация](https://x.com/goncalo_canhoto/status/2096298425914450021)
+
+---
+
+<a id="2096574297703637111"></a>
+
+## Исследовательское приключение The Quiet Crossing
+
+[MotionViz](https://x.com/Motion_Viz) · 2026-09-06 · **Задание по описанию автора**
+
+Создайте заснеженную исследовательскую игру на Three.js с персонажем из Blender, воксельными соснами и каменным порталом. Добавьте сбор шести светящихся фрагментов, камеру, следующую за персонажем, и показ расстояния до портала.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111"><img src="../assets/previews/0ba729978213ae4955db.webp" width="840" loading="lazy" alt="Исследовательское приключение The Quiet Crossing"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте заснеженную исследовательскую игру на Three.js с персонажем из Blender, воксельными соснами и каменным порталом. Добавьте сбор шести светящихся фрагментов, камеру, следующую за персонажем, и показ расстояния до портала.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096573682848251904-video-6e87dd09e525.mp4) · [Исходная публикация](https://x.com/Motion_Viz/status/2096574297703637111)
+
+---
+
+<a id="2096263046918197609"></a>
+
+## Густой процедурный лес в Three.js
+
+[Leon Lin](https://x.com/LexnLin) · 2026-09-05 · **Задание по описанию автора**
+
+Создайте подробный лес в Three.js с тысячами деревьев, густой травой и папоротниками. Используйте собственные шейдеры и эффективное повторение геометрии, чтобы сохранить детализацию всей сцены.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609"><img src="../assets/previews/f2a686fc1b131953cac4.webp" width="840" loading="lazy" alt="Густой процедурный лес в Three.js"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте подробный лес в Three.js с тысячами деревьев, густой травой и папоротниками. Используйте собственные шейдеры и эффективное повторение геометрии, чтобы сохранить детализацию всей сцены.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096262956774490112-video-dabda51264b8.mp4) · [Исходная публикация](https://x.com/LexnLin/status/2096263046918197609)
+
+---
+
+<a id="2096013228090245181"></a>
+
+## Модель рекордера TP-7 по референсам
+
+[Tykra](https://x.com/ty_kra_lab) · 2026-09-04 · **Задание по описанию автора**
+
+Воссоздайте Teenage Engineering TP-7 в Three.js по референсным изображениям. Передайте его форму и видимые органы управления в 3D-модели, которую можно рассмотреть со всех сторон.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/tp-7-recorder-reference-model-2096013228090245181"><img src="../assets/previews/6247b0b5d738f5e9d87d.webp" width="840" loading="lazy" alt="Модель рекордера TP-7 по референсам"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Воссоздайте Teenage Engineering TP-7 в Three.js по референсным изображениям. Передайте его форму и видимые органы управления в 3D-модели, которую можно рассмотреть со всех сторон.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/tp-7-recorder-reference-model-2096013228090245181) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096012812199862273-video-9013baf810d8.mp4) · [Исходная публикация](https://x.com/ty_kra_lab/status/2096013228090245181)
+
+---
+
+<a id="2096577430274429157"></a>
+
+## Паровоз в сельском пейзаже
+
+[ダンさんブル@d三b](https://x.com/dansanburu) · 2026-09-06 · **Задание по описанию автора**
+
+Смоделируйте паровоз в Three.js и анимируйте его движение через сельский пейзаж. Синхронизируйте вращение колёс с движением поезда.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157"><img src="../assets/previews/fb7fa5cb69d8bab3b242.webp" width="840" loading="lazy" alt="Паровоз в сельском пейзаже"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Смоделируйте паровоз в Three.js и анимируйте его движение через сельский пейзаж. Синхронизируйте вращение колёс с движением поезда.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096576986462539776-video-59f0fa2baa5a.mp4) · [Исходная публикация](https://x.com/dansanburu/status/2096577430274429157)
+
+---
+
+<a id="2096561346766877106"></a>
+
+## Сцена с виниловым проигрывателем на столе
+
+[Nitesh Seram](https://x.com/niteshseram) · 2026-09-06 · **Задание по описанию автора**
+
+Создайте сцену Three.js с виниловым проигрывателем на столе. Поставьте демонстрацию в стиле презентации продукта: лампы включаются, а камера показывает проигрыватель и окружающую мебель.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106"><img src="../assets/previews/51118e05b31dbe92e3cc.webp" width="840" loading="lazy" alt="Сцена с виниловым проигрывателем на столе"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте сцену Three.js с виниловым проигрывателем на столе. Поставьте демонстрацию в стиле презентации продукта: лампы включаются, а камера показывает проигрыватель и окружающую мебель.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096560995208687616-video-b191a25a673b.mp4) · [Исходная публикация](https://x.com/niteshseram/status/2096561346766877106)
+
+---
+
+<a id="2096555856204644550"></a>
+
+## Игровой цикл сражений коллекционными картами
+
+[FaryaBlender3D](https://x.com/FaryaBlender3D) · 2026-09-06 · **Задание по описанию автора**
+
+Создайте прототип коллекционной карточной игры на Three.js: покупка колод и бустеров, сборка колоды, выход на боевую арену и получение наград. Сохраните возможность заменить временные сетки готовыми моделями.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/trading-card-battle-game-loop-2096555856204644550"><img src="../assets/previews/9467608cd8acae08c827.webp" width="840" loading="lazy" alt="Игровой цикл сражений коллекционными картами"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте прототип коллекционной карточной игры на Three.js: покупка колод и бустеров, сборка колоды, выход на боевую арену и получение наград. Сохраните возможность заменить временные сетки готовыми моделями.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096553778136887296-video-51c26a0f2901.mp4) · [Исходная публикация](https://x.com/FaryaBlender3D/status/2096555856204644550)
+
+---
+
+<a id="2096362653480562751"></a>
+
+## Игра-симулятор железнодорожной сети
+
+[Tom Krcha](https://x.com/tomkrcha) · 2026-09-05 · **Задание по описанию автора**
+
+Развейте модель поезда на Three.js в железнодорожную симуляцию с городами, развязками, реками и мостами. Добавьте камеру слежения за поездом, свободную 3D-камеру, изометрический вид и эффекты дыма.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/railway-network-simulation-game-2096362653480562751"><img src="../assets/previews/66b6fe9a782625a1d13b.webp" width="840" loading="lazy" alt="Игра-симулятор железнодорожной сети"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Развейте модель поезда на Three.js в железнодорожную симуляцию с городами, развязками, реками и мостами. Добавьте камеру слежения за поездом, свободную 3D-камеру, изометрический вид и эффекты дыма.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/railway-network-simulation-game-2096362653480562751) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096361540161257472-video-39d66dd5664e.mp4) · [Исходная публикация](https://x.com/tomkrcha/status/2096362653480562751)
+
+---
+
+<a id="2096490395614019793"></a>
+
+## Низкополигональная деревня по мотивам Квачхона для прогулок
+
+[Manas Joshi](https://x.com/ManasJoshi76254) · 2026-09-06 · **Задание по описанию автора**
+
+Создайте в одном HTML-файле уютную низкополигональную деревню по мотивам Квачхона, которую можно исследовать. Объедините процедурный 3D-пейзаж, атмосферу, интерфейс и взаимодействия.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793"><img src="../assets/previews/8421a65dcff65f18140d.webp" width="840" loading="lazy" alt="Низкополигональная деревня по мотивам Квачхона для прогулок"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте в одном HTML-файле уютную низкополигональную деревню по мотивам Квачхона, которую можно исследовать. Объедините процедурный 3D-пейзаж, атмосферу, интерфейс и взаимодействия.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096490096442986496-video-3809a76a10f4.mp4) · [Исходная публикация](https://x.com/ManasJoshi76254/status/2096490395614019793)
+
+---
+
+<a id="2096505740643246231"></a>
+
+## Полноценный уровень головоломки на Three.js
+
+[Steve的花园儿](https://x.com/TvWoo) · 2026-09-06 · **Задание по описанию автора**
+
+Создайте полноценный уровень 3D-головоломки в Three.js, включая рабочие игровые механики. Подключите предоставленное аудио после того, как уровень и взаимодействия заработают.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/complete-three-js-puzzle-level-2096505740643246231"><img src="../assets/previews/b00b0f3011c9f77412b6.webp" width="840" loading="lazy" alt="Полноценный уровень головоломки на Three.js"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте полноценный уровень 3D-головоломки в Three.js, включая рабочие игровые механики. Подключите предоставленное аудио после того, как уровень и взаимодействия заработают.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/complete-three-js-puzzle-level-2096505740643246231) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096505045651173376-video-c97ee86140a5.mp4) · [Исходная публикация](https://x.com/TvWoo/status/2096505740643246231)
+
+---
+
+<a id="2096570815714414844"></a>
+
+## Поиск сокровищ на низкополигональном пляже
+
+[空野こんこん＠個人ゲーム開発者](https://x.com/sorano_concon_g) · 2026-09-06 · **Задание по описанию автора**
+
+Создайте в Unity игровую 3D-охоту за сокровищами на пляже. Смоделируйте низкополигональные пальмы и деревянные настилы, реализуйте основной цикл исследования и поиска сокровищ.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844"><img src="../assets/previews/1fb12fca3f886c06a5f5.webp" width="840" loading="lazy" alt="Поиск сокровищ на низкополигональном пляже"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте в Unity игровую 3D-охоту за сокровищами на пляже. Смоделируйте низкополигональные пальмы и деревянные настилы, реализуйте основной цикл исследования и поиска сокровищ.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844) · [Исходная публикация](https://x.com/sorano_concon_g/status/2096570815714414844)
+
+---
+
+<a id="2096560142871658589"></a>
+
+## Модели Blender с эффектами Unity VFX
+
+[ねぎぽよし](https://x.com/CST_negi) · 2026-09-06 · **Задание по описанию автора**
+
+Создайте модели сцены в Blender и импортируйте их в Unity. Добавьте эффекты через VFX Graph и настройте освещение так, чтобы модели и эффекты были хорошо различимы вместе.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/blender-models-with-unity-vfx-2096560142871658589"><img src="../assets/previews/d13ca069743cb65e0501.webp" width="840" loading="lazy" alt="Модели Blender с эффектами Unity VFX"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте модели сцены в Blender и импортируйте их в Unity. Добавьте эффекты через VFX Graph и настройте освещение так, чтобы модели и эффекты были хорошо различимы вместе.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/blender-models-with-unity-vfx-2096560142871658589) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096559190202597376-video-4ff7324a3cb3.mp4) · [Исходная публикация](https://x.com/CST_negi/status/2096560142871658589)
+
+---
+
+<a id="2096556692842348826"></a>
+
+## Раллийная игра Unity для телефона
+
+[Kevin Kern](https://x.com/kevinkern) · 2026-09-06 · **Задание по описанию автора**
+
+Создайте прототип раллийной езды с Codex, Blender и Unity. Подготовьте 3D-модели и управление для игровых тестов на телефоне.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826"><img src="../assets/previews/eceebf1bdd5561e25fad.webp" width="840" loading="lazy" alt="Раллийная игра Unity для телефона"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте прототип раллийной езды с Codex, Blender и Unity. Подготовьте 3D-модели и управление для игровых тестов на телефоне.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096555393577259008-video-112f32b99aab.mp4) · [Исходная публикация](https://x.com/kevinkern/status/2096556692842348826)
+
+---
+
+<a id="2096572429066006845"></a>
+
+## Индийское манговое дерево в SpeedTree
+
+[Varun Mayya](https://x.com/waitin4agi_) · 2026-09-06 · **Задание по описанию автора**
+
+Создайте индийское манговое дерево в SpeedTree для сцены Unreal с целевой частотой 60 FPS. Сгенерируйте материалы листьев и коры и проверьте их вид перед завершением модели.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845"><img src="../assets/previews/c3858642eb37b219de33.webp" width="840" loading="lazy" alt="Индийское манговое дерево в SpeedTree"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте индийское манговое дерево в SpeedTree для сцены Unreal с целевой частотой 60 FPS. Сгенерируйте материалы листьев и коры и проверьте их вид перед завершением модели.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845) · [Исходная публикация](https://x.com/waitin4agi_/status/2096572429066006845)
+
+---
+
+<a id="2096566598689783878"></a>
+
+## Текстуры и риг персонажа Tripo
+
+[たけうちさんは縮退しました🌀](https://x.com/chimerast) · 2026-09-06 · **Задание по описанию автора**
+
+Перенесите персонажа Tripo Smart Mesh в Blender. Примените его текстуры и создайте пригодный для работы риг тела, прежде чем переходить к выражениям лица.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878"><img src="../assets/previews/409939b647056905bc16.webp" width="840" loading="lazy" alt="Текстуры и риг персонажа Tripo"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Перенесите персонажа Tripo Smart Mesh в Blender. Примените его текстуры и создайте пригодный для работы риг тела, прежде чем переходить к выражениям лица.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096566304161619968-video-6b2851018644.mp4) · [Исходная публикация](https://x.com/chimerast/status/2096566598689783878)
+
+---
+
+<a id="2096064140510970318"></a>
+
+## Прототип игры The Legend of Astra
+
+[lofibloom](https://x.com/lofihashbloom) · 2026-09-05 · **Задание по описанию автора**
+
+Создайте прототип 3D-приключения в Unity со сценами, подготовленными в Blender, и моделями Tripo. Включите анимацию персонажей в игровую демоверсию.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/the-legend-of-astra-game-prototype-2096064140510970318"><img src="../assets/previews/2e75b416be710d22df3d.webp" width="840" loading="lazy" alt="Прототип игры The Legend of Astra"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте прототип 3D-приключения в Unity со сценами, подготовленными в Blender, и моделями Tripo. Включите анимацию персонажей в игровую демоверсию.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/the-legend-of-astra-game-prototype-2096064140510970318) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096062862880092160-video-67e55cc4794e.mp4) · [Исходная публикация](https://x.com/lofihashbloom/status/2096064140510970318)
+
+---
+
+<a id="2096566686266597754"></a>
+
+## Из эскиза квартиры в рендеры интерьера
+
+[Everett World](https://x.com/WorldEverett) · 2026-09-06 · **Задание по описанию автора**
+
+Совместите референсные изображения квартиры с простым эскизом плана, чтобы восстановить интерьер в Blender. Подготовьте редактируемую сцену, рендеры комнат и короткую смонтированную видеопрогулку.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754"><img src="../assets/previews/76eeeaa8710b4767fb99.webp" width="840" loading="lazy" alt="Из эскиза квартиры в рендеры интерьера"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Совместите референсные изображения квартиры с простым эскизом плана, чтобы восстановить интерьер в Blender. Подготовьте редактируемую сцену, рендеры комнат и короткую смонтированную видеопрогулку.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096566625826742276-video-41e3afaa8883.mp4) · [Исходная публикация](https://x.com/WorldEverett/status/2096566686266597754)
+
+---
+
+<a id="2095993826569502785"></a>
+
+## Интерактивная речная сцена в браузере
+
+[Dan Greenheck](https://x.com/dangreenheck) · 2026-09-04 · **Задание по описанию автора**
+
+Создайте интерактивную речную сцену для браузера. Сначала сделайте рабочий прототип воды в реальном времени, затем оцените и доработайте визуальный результат.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/interactive-browser-river-scene-2095993826569502785"><img src="../assets/previews/0576145ccc4d4331532d.webp" width="840" loading="lazy" alt="Интерактивная речная сцена в браузере"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте интерактивную речную сцену для браузера. Сначала сделайте рабочий прототип воды в реальном времени, затем оцените и доработайте визуальный результат.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-browser-river-scene-2095993826569502785) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095992532962607104-video-76faf96ed3eb.mp4) · [Исходная публикация](https://x.com/dangreenheck/status/2095993826569502785)
+
+---
+
+<a id="2096128774203171021"></a>
+
+## Вечерний пролёт по сцене Адийоги
+
+[Adi](https://x.com/thejothiram) · 2026-09-05 · **Задание по описанию автора**
+
+Создайте сцену Адийоги в Blender с обширной территорией, подробными крупными планами и тёплым вечерним светом. Отрендерите 30-секундный пролёт камеры и сохраните редактируемую сцену.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/adiyogi-evening-fly-through-2096128774203171021"><img src="../assets/previews/38756d78911bac44657e.webp" width="840" loading="lazy" alt="Вечерний пролёт по сцене Адийоги"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте сцену Адийоги в Blender с обширной территорией, подробными крупными планами и тёплым вечерним светом. Отрендерите 30-секундный пролёт камеры и сохраните редактируемую сцену.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/adiyogi-evening-fly-through-2096128774203171021) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096127589219983360-video-0e8fcabb7049.mp4) · [Исходная публикация](https://x.com/thejothiram/status/2096128774203171021)
+
+---
+
+<a id="2096521798150242631"></a>
+
+## Зацикленная вода с Geometry Nodes
+
+[黒曜陣](https://x.com/uB95A7tobA17057) · 2026-09-06 · **Задание по описанию автора**
+
+Создайте периодический эффект водной поверхности с помощью Geometry Nodes в Blender без запекания. Сохраните редактируемую структуру узлов и опишите её как модель поверхности, а не полноценную симуляцию жидкости.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631"><img src="../assets/previews/c1f28f7d54e74bcfdc5a.webp" width="840" loading="lazy" alt="Зацикленная вода с Geometry Nodes"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте периодический эффект водной поверхности с помощью Geometry Nodes в Blender без запекания. Сохраните редактируемую структуру узлов и опишите её как модель поверхности, а не полноценную симуляцию жидкости.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-26327614ee00-video-26327614ee00.mp4) · [Исходная публикация](https://x.com/uB95A7tobA17057/status/2096521798150242631)
+
+---
+
+<a id="2096518775042707700"></a>
+
+## Морской мир по мотивам One Piece
+
+[Yash](https://x.com/yash_yk45) · 2026-09-06 · **Задание по описанию автора**
+
+Создайте игровой морской мир с кораблём из Blender и океаном на Three.js. Добавьте смену погоды, подводное исследование, кильватерный след, пену, брызги и движущиеся паруса.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700"><img src="../assets/previews/43d06f647b736fefd9e3.webp" width="840" loading="lazy" alt="Морской мир по мотивам One Piece"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте игровой морской мир с кораблём из Blender и океаном на Three.js. Добавьте смену погоды, подводное исследование, кильватерный след, пену, брызги и движущиеся паруса.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096515158227206144-video-955ff3de6a1b.mp4) · [Исходная публикация](https://x.com/yash_yk45/status/2096518775042707700) · [Демо](https://one-piece-sea-world.vercel.app/)
+
+---
+
+<a id="2096572156453028193"></a>
+
+## Интерактивный аттрактор Лоренца
+
+[Juy \| AI experiments](https://x.com/juyeam) · 2026-09-06 · **Задание по описанию автора**
+
+Визуализируйте две траектории системы Лоренца с крошечной разницей в начальной позиции. Позвольте зрителям изменять эту разницу и перемещаться по времени, отделяя численные проверки от точных долгосрочных предсказаний.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/interactive-lorenz-attractor-2096572156453028193"><img src="../assets/previews/8ca9458a913113644712.webp" width="840" loading="lazy" alt="Интерактивный аттрактор Лоренца"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Визуализируйте две траектории системы Лоренца с крошечной разницей в начальной позиции. Позвольте зрителям изменять эту разницу и перемещаться по времени, отделяя численные проверки от точных долгосрочных предсказаний.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-lorenz-attractor-2096572156453028193) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096556348947517440-video-9e92e0e7a1ed.mp4) · [Исходная публикация](https://x.com/juyeam/status/2096572156453028193) · [Демо](https://tiny-worlds-juyeam.juyeam.chatgpt.site/chaos)
+
+---
+
+<a id="2096358854275543457"></a>
+
+## Таверна с работающим персоналом и посетителями
+
+[Rogue](https://x.com/Rogue0114) · 2026-09-05 · **Задание по описанию автора**
+
+Воссоздайте таверну по референсному изображению и наполните её посетителями и работниками. Посетители заказывают еду и напитки, персонал готовит их; добавьте обработку столкновений и поиск пути.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457"><img src="../assets/previews/51cf1822b9fe467de3b2.webp" width="840" loading="lazy" alt="Таверна с работающим персоналом и посетителями"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Воссоздайте таверну по референсному изображению и наполните её посетителями и работниками. Посетители заказывают еду и напитки, персонал готовит их; добавьте обработку столкновений и поиск пути.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096357698434461699-video-c6f4a25f9a07.mp4) · [Исходная публикация](https://x.com/Rogue0114/status/2096358854275543457)
+
+---
+
+<a id="2096506357868642342"></a>
+
+## Личная комната как интерактивное портфолио
+
+[Kalan ◂Ⓘ▸](https://x.com/kalanyei) · 2026-09-06 · **Задание по описанию автора**
+
+Превратите личную комнату в интерактивный сайт-знакомство. Постройте сцену и выполните запекание в Blender, затем добавьте пар от кофе, анимацию в стиле «Матрицы» и ненавязчивые шейдерные эффекты.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342"><img src="../assets/previews/866c74c1a0c5aa285626.webp" width="840" loading="lazy" alt="Личная комната как интерактивное портфолио"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Превратите личную комнату в интерактивный сайт-знакомство. Постройте сцену и выполните запекание в Blender, затем добавьте пар от кофе, анимацию в стиле «Матрицы» и ненавязчивые шейдерные эффекты.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096502795746910208-video-0fa8acb98948.mp4) · [Исходная публикация](https://x.com/kalanyei/status/2096506357868642342) · [Демо](https://room.kalan.dev/)
+
+---
+
+<a id="2096503275910832461"></a>
+
+## Катер YF-24 на спокойном 3D-море
+
+[yhmtmt](https://x.com/yhmtmt1) · 2026-09-06 · **Задание по описанию автора**
+
+Смоделируйте катер YF-24 в Blender и анимируйте его движение по трёхмерному морю при ветре силой 2 балла по шкале Бофорта. Используйте референсы катера для уточнения формы.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"><img src="../assets/previews/8369341108c9ee030167.webp" width="840" loading="lazy" alt="Катер YF-24 на спокойном 3D-море"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Смоделируйте катер YF-24 в Blender и анимируйте его движение по трёхмерному морю при ветре силой 2 балла по шкале Бофорта. Используйте референсы катера для уточнения формы.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096500632966631425-video-7aa795ec66f0.mp4) · [Исходная публикация](https://x.com/yhmtmt1/status/2096503275910832461)
+
+---
+
+<a id="2096413869841473930"></a>
+
+## Игровая квартира по мотивам D4
+
+[Hidetaka SWERY SueHERO](https://x.com/Swery65) · 2026-09-06 · **Задание по описанию автора**
+
+Изучите квартиру главного героя D4 и воссоздайте её как игровой 3D-прототип. Сверяйте планировку и взаимодействия с референсами, не предполагая заранее точного воспроизведения.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/playable-d4-inspired-apartment-2096413869841473930"><img src="../assets/previews/1f412131b9d66511d6a2.webp" width="840" loading="lazy" alt="Игровая квартира по мотивам D4"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Изучите квартиру главного героя D4 и воссоздайте её как игровой 3D-прототип. Сверяйте планировку и взаимодействия с референсами, не предполагая заранее точного воспроизведения.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/playable-d4-inspired-apartment-2096413869841473930) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096413677717225472-video-3d17ea73456e.mp4) · [Исходная публикация](https://x.com/Swery65/status/2096413869841473930)
+
+---
+
+<a id="2096398839830008292"></a>
+
+## Городская браузерная игра с предоставленным персонажем
+
+[DJ RIO \| REALITY](https://x.com/djrio_vr) · 2026-09-06 · **Задание по описанию автора**
+
+Создайте городскую WebGL-игру с RIO_MA002.fbx в роли персонажа игрока. Смоделируйте транспорт и улицы по референсам в Blender, затем улучшите NPC, физику вождения, разрушаемые объекты и пригородные районы.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/browser-city-game-with-a-supplied-character-2096398839830008292"><img src="../assets/previews/2b020e0fc8275195843f.webp" width="840" loading="lazy" alt="Городская браузерная игра с предоставленным персонажем"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте городскую WebGL-игру с RIO_MA002.fbx в роли персонажа игрока. Смоделируйте транспорт и улицы по референсам в Blender, затем улучшите NPC, физику вождения, разрушаемые объекты и пригородные районы.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/browser-city-game-with-a-supplied-character-2096398839830008292) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096398600695869440-video-9db110aaf6b5.mp4) · [Исходная публикация](https://x.com/djrio_vr/status/2096398839830008292)
+
+---
+
+<a id="2096339041679442428"></a>
+
+## Орбитальный исследователь Солнечной системы
+
+[Andromedus](https://x.com/dzhohola) · 2026-09-05 · **Задание по описанию автора**
+
+Создайте браузерный исследователь Солнечной системы на Three.js с восемью планетами и двадцатью спутниками. Добавьте перемещение камеры и упрощённое планирование космических полётов.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/orbital-solar-system-explorer-2096339041679442428"><img src="../assets/previews/3b8d0fa55368b35e4f43.webp" width="840" loading="lazy" alt="Орбитальный исследователь Солнечной системы"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте браузерный исследователь Солнечной системы на Three.js с восемью планетами и двадцатью спутниками. Добавьте перемещение камеры и упрощённое планирование космических полётов.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/orbital-solar-system-explorer-2096339041679442428) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096339015465115654-video-3a4c1138a19b.mp4) · [Исходная публикация](https://x.com/dzhohola/status/2096339041679442428)
+
+---
+
+<a id="2096093614397170104"></a>
+
+## Образование чёрных дыр в WebGL
+
+[ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen) · 2026-09-05 · **Задание по описанию автора**
+
+Создайте учебную презентацию об образовании чёрных дыр с визуализациями WebGL. Сопроводите объяснения анимированными 3D-сценами.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/black-hole-formation-in-webgl-2096093614397170104"><img src="../assets/previews/a181ebe4abb83ae076e0.webp" width="840" loading="lazy" alt="Образование чёрных дыр в WebGL"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте учебную презентацию об образовании чёрных дыр с визуализациями WebGL. Сопроводите объяснения анимированными 3D-сценами.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/black-hole-formation-in-webgl-2096093614397170104) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096093135785107456-video-525882e52f0c.mp4) · [Исходная публикация](https://x.com/zeeeeeen/status/2096093614397170104)
+
+---
+
+<a id="2096559197999501724"></a>
+
+## Из 2D-логотипа в анимированного персонажа
+
+[Anthony Riera](https://x.com/anthonyriera) · 2026-09-06 · **Задание по описанию автора**
+
+Преобразуйте предоставленный 2D-логотип персонажа в анимированную 3D-версию. Сохраните узнаваемый образ, добавляя персонажу объём и движение.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724"><img src="../assets/previews/8dcd8f7d1406525c0a56.webp" width="840" loading="lazy" alt="Из 2D-логотипа в анимированного персонажа"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Преобразуйте предоставленный 2D-логотип персонажа в анимированную 3D-версию. Сохраните узнаваемый образ, добавляя персонажу объём и движение.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096558319678713856-video-d188c30033a6.mp4) · [Исходная публикация](https://x.com/anthonyriera/status/2096559197999501724)
+
+---
+
+<a id="2096337879173591171"></a>
+
+## Игра про краба с механиками, основанными на действиях
+
+[ZEUS⚡️](https://x.com/zeuuss_01) · 2026-09-05 · **Задание по описанию автора**
+
+Создайте игру про краба на Three.js по структурированному заданию, охватывающему внешний вид, персонажа, мир, действия, цели, интерфейс и камеру. Пусть монеты поднимаются и летят к проходящему крабу; отметьте противоречивые требования.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171"><img src="../assets/previews/b357895cffa990ebc6d5.webp" width="840" loading="lazy" alt="Игра про краба с механиками, основанными на действиях"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте игру про краба на Three.js по структурированному заданию, охватывающему внешний вид, персонажа, мир, действия, цели, интерфейс и камеру. Пусть монеты поднимаются и летят к проходящему крабу; отметьте противоречивые требования.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096337699737350144-video-d20dcbc3e616.mp4) · [Исходная публикация](https://x.com/zeuuss_01/status/2096337879173591171) · [Демо](https://beach-crab-game.netlify.app/)
+
+---
+
+<a id="2096555183790575682"></a>
+
+## Деревня «Звёздной ночи» со сменой дня и ночи
+
+[Firisis](https://x.com/Firisis_) · 2026-09-06 · **Задание по описанию автора**
+
+Превратите «Звёздную ночь» Ван Гога в исследуемую 3D-деревню с жителями, освещением и сменой дня и ночи. Отрендерите короткий фильм-путешествие по завершённому миру.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/starry-night-village-with-a-day-night-cycle-2096555183790575682"><img src="../assets/previews/996c7433def5bbb3d45c.webp" width="840" loading="lazy" alt="Деревня «Звёздной ночи» со сменой дня и ночи"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Превратите «Звёздную ночь» Ван Гога в исследуемую 3D-деревню с жителями, освещением и сменой дня и ночи. Отрендерите короткий фильм-путешествие по завершённому миру.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/starry-night-village-with-a-day-night-cycle-2096555183790575682) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096552620626182144-video-6643bf0e6e0a.mp4) · [Исходная публикация](https://x.com/Firisis_/status/2096555183790575682)
+
+---
+
+<a id="2096510126244999366"></a>
+
+## Интерфейс Three.js по референсу
+
+[Meng To](https://x.com/MengTo) · 2026-09-06 · **Задание по описанию автора**
+
+Воссоздайте референс в одном HTML-файле с Three.js. Неоднократно сравнивайте результат и исправляйте различия; доработайте освещение, глубину моделей и стеклоподобные элементы управления с ненавязчивыми эффектами, реагирующими на указатель.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/reference-matched-three-js-interface-2096510126244999366"><img src="../assets/previews/56897f733e8ee248d50e.webp" width="840" loading="lazy" alt="Интерфейс Three.js по референсу"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Воссоздайте референс в одном HTML-файле с Three.js. Неоднократно сравнивайте результат и исправляйте различия; доработайте освещение, глубину моделей и стеклоподобные элементы управления с ненавязчивыми эффектами, реагирующими на указатель.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/reference-matched-three-js-interface-2096510126244999366) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096509525641805824-video-3b59d2080454.mp4) · [Исходная публикация](https://x.com/MengTo/status/2096510126244999366)
+
+---
+
+<a id="2096481425050743048"></a>
+
+## Сборка и анимация сгенерированных 3D-моделей
+
+[Stefan 3D AI](https://x.com/Stefan_3D_AI) · 2026-09-06 · **Задание по описанию автора**
+
+Сгенерируйте оптимизированные 3D-модели с Tripo P2, соберите их в Blender, создайте риги и анимации персонажей. Проверьте, как персонажи и сцена сочетаются в пространстве.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048"><img src="../assets/previews/3388e9e5e8f519fb22f6.webp" width="840" loading="lazy" alt="Сборка и анимация сгенерированных 3D-моделей"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Сгенерируйте оптимизированные 3D-модели с Tripo P2, соберите их в Blender, создайте риги и анимации персонажей. Проверьте, как персонажи и сцена сочетаются в пространстве.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096480471941255169-video-945e4c7db324.mp4) · [Исходная публикация](https://x.com/Stefan_3D_AI/status/2096481425050743048)
+
+---
+
+<a id="2096269057544831175"></a>
+
+## Глубоководный лендинг с биолюминесценцией
+
+[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05 · **Задание по описанию автора**
+
+Создайте глубоководный лендинг с эффектами воды Three.js, тёмным стеклоподобным интерфейсом и движением, связанным с прокруткой. Объедините 3D-атмосферу с понятными веб-взаимодействиями и адаптацией к разным экранам.
+
+<details>
+<summary>Предпросмотр</summary>
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175"><img src="../assets/previews/15b86aef756eda749579.webp" width="840" loading="lazy" alt="Глубоководный лендинг с биолюминесценцией"></a>
+
+</details>
+
+Адаптировано по публичному описанию проекта автора.
+
+```text
+Создайте глубоководный лендинг с эффектами воды Three.js, тёмным стеклоподобным интерфейсом и движением, связанным с прокруткой. Объедините 3D-атмосферу с понятными веб-взаимодействиями и адаптацией к разным экранам.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096268589192097792-video-db6769b12fa2.mp4) · [Исходная публикация](https://x.com/himanshubuildss/status/2096269057544831175)
 
 ---

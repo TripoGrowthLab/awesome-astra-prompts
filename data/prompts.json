@@ -21,7 +21,13 @@
     "uk",
     "vi"
   ],
-  "count": 103,
+  "count": 153,
+  "featuredIds": [
+    "2095596175705399482",
+    "2096251574918013135",
+    "2096525100518453342",
+    "2095597137849446688"
+  ],
   "prompts": [
     {
       "id": "2095596175705399482",
@@ -53,7 +59,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"
       },
       "media": {
-        "image": "assets/previews/3dfc15d51104de183c13.webp"
+        "image": "assets/previews/3dfc15d51104de183c13.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-video-a133b7a6d1c6.mp4"
       }
     },
     {
@@ -86,7 +93,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525"
       },
       "media": {
-        "image": "assets/previews/df1e2d655d7eca4caf78.webp"
+        "image": "assets/previews/df1e2d655d7eca4caf78.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095609426770010113-video-05968f9d59fb.mp4"
       }
     },
     {
@@ -119,7 +127,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/modern-villa-scene-in-blender-2095636679264780481"
       },
       "media": {
-        "image": "assets/previews/d1f867dcf59b933bc843.webp"
+        "image": "assets/previews/d1f867dcf59b933bc843.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095636565192241152-video-97d4ec4c239f.mp4"
       }
     },
     {
@@ -152,7 +161,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/one-shot-browser-3d-game-2095599934766764338"
       },
       "media": {
-        "image": "assets/previews/83ed142104b7acba468c.webp"
+        "image": "assets/previews/83ed142104b7acba468c.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095599652796272640-video-19ead087387b.mp4"
       }
     },
     {
@@ -185,7 +195,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775"
       },
       "media": {
-        "image": "assets/previews/e54b3e2710c53a16b303.webp"
+        "image": "assets/previews/e54b3e2710c53a16b303.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095596412650283008-video-ba69ffc1845f.mp4"
       }
     },
     {
@@ -218,7 +229,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615"
       },
       "media": {
-        "image": "assets/previews/6f8c345161829fa354d9.webp"
+        "image": "assets/previews/6f8c345161829fa354d9.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095611898968547328-video-ac32ebda7148.mp4"
       }
     },
     {
@@ -251,7 +263,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311"
       },
       "media": {
-        "image": "assets/previews/06507ec81e3b2b48f511.webp"
+        "image": "assets/previews/06507ec81e3b2b48f511.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095754646069354497-video-61d8e4756cf0.mp4"
       }
     },
     {
@@ -284,7 +297,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857"
       },
       "media": {
-        "image": "assets/previews/27b8c4a9f00b1882f1a8.webp"
+        "image": "assets/previews/27b8c4a9f00b1882f1a8.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095629993678344192-video-4ddc3c553b82.mp4"
       }
     },
     {
@@ -317,7 +331,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/one-shot-minecraft-style-world-2095597137849446688"
       },
       "media": {
-        "image": "assets/previews/4057aefd543af899d3d0.webp"
+        "image": "assets/previews/4057aefd543af899d3d0.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095576150743400453-video-af32f40d4a39.mp4"
       }
     },
     {
@@ -350,7 +365,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143"
       },
       "media": {
-        "image": "assets/previews/425b651bd5174e37b02f.webp"
+        "image": "assets/previews/425b651bd5174e37b02f.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095652923917361152-video-39313e3745d0.mp4"
       }
     },
     {
@@ -384,7 +400,8 @@
         "demo": "https://van-goghs-town.surge.sh/"
       },
       "media": {
-        "image": "assets/previews/2d8a09166b72394c4292.webp"
+        "image": "assets/previews/2d8a09166b72394c4292.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095776416302280708-video-abded525de38.mp4"
       }
     },
     {
@@ -417,7 +434,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647"
       },
       "media": {
-        "image": "assets/previews/ae76084678dab574ad49.webp"
+        "image": "assets/previews/ae76084678dab574ad49.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095608290923425792-video-163f53a6c23f.mp4"
       }
     },
     {
@@ -450,7 +468,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369"
       },
       "media": {
-        "image": "assets/previews/16e9382415e9e7610e15.webp"
+        "image": "assets/previews/16e9382415e9e7610e15.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095580316710879232-video-b3f497eb07bb.mp4"
       }
     },
     {
@@ -483,7 +502,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/open-world-browser-adventure-2095596341422440714"
       },
       "media": {
-        "image": "assets/previews/62267b50bd0c00e10a37.webp"
+        "image": "assets/previews/62267b50bd0c00e10a37.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095590957890797568-video-da104fbe8619.mp4"
       }
     },
     {
@@ -516,7 +536,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253"
       },
       "media": {
-        "image": "assets/previews/7762f843277fda2d2f52.webp"
+        "image": "assets/previews/7762f843277fda2d2f52.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095619198437240836-video-0980b9ee2b65.mp4"
       }
     },
     {
@@ -551,7 +572,8 @@
         "demo": "https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1"
       },
       "media": {
-        "image": "assets/previews/f328a1a13f9ac8c829d2.webp"
+        "image": "assets/previews/f328a1a13f9ac8c829d2.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095673008803241987-video-48e1e14348a0.mp4"
       }
     },
     {
@@ -584,7 +606,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/reference-image-3d-aquarium-game-2095611134992945385"
       },
       "media": {
-        "image": "assets/previews/c522341161fd8999972e.webp"
+        "image": "assets/previews/c522341161fd8999972e.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095610918570958848-video-154a5abed1ba.mp4"
       }
     },
     {
@@ -617,7 +640,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/single-playable-real-time-3d-game-2095647685210669541"
       },
       "media": {
-        "image": "assets/previews/d10512aa45750b6fcfc3.webp"
+        "image": "assets/previews/d10512aa45750b6fcfc3.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095639396385198080-video-2439075a6fef.mp4"
       }
     },
     {
@@ -650,7 +674,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278"
       },
       "media": {
-        "image": "assets/previews/d720a08832dc8749ad7b.webp"
+        "image": "assets/previews/d720a08832dc8749ad7b.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095839735818412033-video-7ded403f2fb9.mp4"
       }
     },
     {
@@ -683,7 +708,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024"
       },
       "media": {
-        "image": "assets/previews/56d4000d3fc115fd7529.webp"
+        "image": "assets/previews/56d4000d3fc115fd7529.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095597293734895622-video-abe5a7cfbbd9.mp4"
       }
     },
     {
@@ -717,7 +743,8 @@
         "demo": "https://lindenhafen-railway.vercel.app/"
       },
       "media": {
-        "image": "assets/previews/7a7bcde401d8420e09e2.webp"
+        "image": "assets/previews/7a7bcde401d8420e09e2.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095719136571629573-video-a0540558f73b.mp4"
       }
     },
     {
@@ -750,7 +777,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065"
       },
       "media": {
-        "image": "assets/previews/a3c527769a0401300bf1.webp"
+        "image": "assets/previews/a3c527769a0401300bf1.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095698775075622912-video-e275aa332ebb.mp4"
       }
     },
     {
@@ -783,7 +811,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676"
       },
       "media": {
-        "image": "assets/previews/3b7b068d0eb0e5288ff2.webp"
+        "image": "assets/previews/3b7b068d0eb0e5288ff2.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095640960680243200-video-272db069f601.mp4"
       }
     },
     {
@@ -816,7 +845,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/unity-space-trench-run-game-2095630044102279312"
       },
       "media": {
-        "image": "assets/previews/be8d6964ee56b4d4d219.webp"
+        "image": "assets/previews/be8d6964ee56b4d4d219.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2067003685574483968-video-f9b57b7e0d54.mp4"
       }
     },
     {
@@ -849,7 +879,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/procedural-voxel-castle-showcase-2093690427849191855"
       },
       "media": {
-        "image": "assets/previews/b1d1817a37c203d66e96.webp"
+        "image": "assets/previews/b1d1817a37c203d66e96.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2093690174018330624-video-184f0db40faf.mp4"
       }
     },
     {
@@ -882,7 +913,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887"
       },
       "media": {
-        "image": "assets/previews/35299b2ab45e0614dcc7.webp"
+        "image": "assets/previews/35299b2ab45e0614dcc7.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095597547717029888-video-fda40533e887.mp4"
       }
     },
     {
@@ -915,7 +947,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840"
       },
       "media": {
-        "image": "assets/previews/a02294169159c5b88bfb.webp"
+        "image": "assets/previews/a02294169159c5b88bfb.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095868324701700098-video-0cc691c80738.mp4"
       }
     },
     {
@@ -948,7 +981,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023"
       },
       "media": {
-        "image": "assets/previews/19e2e109daf0820abba3.webp"
+        "image": "assets/previews/19e2e109daf0820abba3.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095817928524599296-video-68a8b3595841.mp4"
       }
     },
     {
@@ -981,7 +1015,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631"
       },
       "media": {
-        "image": "assets/previews/fe2d45919c2bec07fc5f.webp"
+        "image": "assets/previews/fe2d45919c2bec07fc5f.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095804250420879360-video-dc96ce63180f.mp4"
       }
     },
     {
@@ -1014,7 +1049,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791"
       },
       "media": {
-        "image": "assets/previews/e8816591f99630e061fd.webp"
+        "image": "assets/previews/e8816591f99630e061fd.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095897987142791169-video-f889a9dbf887.mp4"
       }
     },
     {
@@ -1047,7 +1083,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065"
       },
       "media": {
-        "image": "assets/previews/33f3f93183ced23b1e8c.webp"
+        "image": "assets/previews/33f3f93183ced23b1e8c.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095596408040468483-video-09e9e1639c30.mp4"
       }
     },
     {
@@ -1080,7 +1117,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725"
       },
       "media": {
-        "image": "assets/previews/906d471ad638279a8457.webp"
+        "image": "assets/previews/906d471ad638279a8457.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095769948190801920-video-b6c916167d68.mp4"
       }
     },
     {
@@ -1113,7 +1151,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198"
       },
       "media": {
-        "image": "assets/previews/01a4fe457300f75b9f45.webp"
+        "image": "assets/previews/01a4fe457300f75b9f45.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095663390886912001-video-84fe550dddf8.mp4"
       }
     },
     {
@@ -1146,7 +1185,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/rapid-playable-game-prototype-2095907526566990013"
       },
       "media": {
-        "image": "assets/previews/8aa9a7706316dc84c6df.webp"
+        "image": "assets/previews/8aa9a7706316dc84c6df.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095907053655248897-video-e9b0bdbb4b6c.mp4"
       }
     },
     {
@@ -1179,7 +1219,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/open-world-game-from-a-prompt-2095872986477908108"
       },
       "media": {
-        "image": "assets/previews/81360ee1cb1d7aaa7aef.webp"
+        "image": "assets/previews/81360ee1cb1d7aaa7aef.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095872181087670272-video-b49ed9994d6c.mp4"
       }
     },
     {
@@ -1212,7 +1253,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457"
       },
       "media": {
-        "image": "assets/previews/0838004dbcf9c31ee5d0.webp"
+        "image": "assets/previews/0838004dbcf9c31ee5d0.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095802938845470720-video-2b838b3fe64c.mp4"
       }
     },
     {
@@ -1245,7 +1287,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230"
       },
       "media": {
-        "image": "assets/previews/e2345fe72cbaa70b18e7.webp"
+        "image": "assets/previews/e2345fe72cbaa70b18e7.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095898263429775360-video-bfa98177286e.mp4"
       }
     },
     {
@@ -1278,7 +1321,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/van-gogh-town-in-three-js-2095871735824339279"
       },
       "media": {
-        "image": "assets/previews/2d8a09166b72394c4292.webp"
+        "image": "assets/previews/2d8a09166b72394c4292.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095776416302280708-video-abded525de38.mp4"
       }
     },
     {
@@ -1311,7 +1355,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372"
       },
       "media": {
-        "image": "assets/previews/3bb18f1641ee2093e980.webp"
+        "image": "assets/previews/3bb18f1641ee2093e980.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095804813997182976-video-4db160ec3b48.mp4"
       }
     },
     {
@@ -1344,7 +1389,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/driveable-childhood-train-table-2095742344293454148"
       },
       "media": {
-        "image": "assets/previews/93c7b29090d7ae96b607.webp"
+        "image": "assets/previews/93c7b29090d7ae96b607.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095742030609846272-video-0732b341a55a.mp4"
       }
     },
     {
@@ -1377,7 +1423,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/text-to-explorable-unity-city-2095623452678144366"
       },
       "media": {
-        "image": "assets/previews/35299b2ab45e0614dcc7.webp"
+        "image": "assets/previews/35299b2ab45e0614dcc7.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095597547717029888-video-fda40533e887.mp4"
       }
     },
     {
@@ -1410,7 +1457,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/single-aquarium-benchmark-2095650251902239139"
       },
       "media": {
-        "image": "assets/previews/c522341161fd8999972e.webp"
+        "image": "assets/previews/c522341161fd8999972e.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095610918570958848-video-154a5abed1ba.mp4"
       }
     },
     {
@@ -1443,7 +1491,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661"
       },
       "media": {
-        "image": "assets/previews/a9453628a11a2eca58a3.webp"
+        "image": "assets/previews/a9453628a11a2eca58a3.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095628000180232192-video-d8d0e43283da.mp4"
       }
     },
     {
@@ -1476,7 +1525,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541"
       },
       "media": {
-        "image": "assets/previews/ca2c8c153392a345f4e8.webp"
+        "image": "assets/previews/ca2c8c153392a345f4e8.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095730824343879680-video-dca4aaab2d86.mp4"
       }
     },
     {
@@ -1509,7 +1559,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"
       },
       "media": {
-        "image": "assets/previews/911fb2b70e5d4c824524.webp"
+        "image": "assets/previews/911fb2b70e5d4c824524.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095915630633603074-video-ba5f5143a657.mp4"
       }
     },
     {
@@ -1542,7 +1593,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593"
       },
       "media": {
-        "image": "assets/previews/395c33eedc4e4b959135.webp"
+        "image": "assets/previews/395c33eedc4e4b959135.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095616375641583617-video-3ba498f1c2cf.mp4"
       }
     },
     {
@@ -1575,7 +1627,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/playable-15-second-product-demo-ad-2095695603808309497"
       },
       "media": {
-        "image": "assets/previews/d10512aa45750b6fcfc3.webp"
+        "image": "assets/previews/d10512aa45750b6fcfc3.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095639396385198080-video-9cb15dd700f3.mp4"
       }
     },
     {
@@ -1608,7 +1661,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551"
       },
       "media": {
-        "image": "assets/previews/8fef1df6618607f0028f.webp"
+        "image": "assets/previews/8fef1df6618607f0028f.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095596669320810496-video-039b2a1b1ef0.mp4"
       }
     },
     {
@@ -1641,7 +1695,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375"
       },
       "media": {
-        "image": "assets/previews/8fef1df6618607f0028f.webp"
+        "image": "assets/previews/8fef1df6618607f0028f.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095596669320810496-video-039b2a1b1ef0.mp4"
       }
     },
     {
@@ -1674,7 +1729,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771"
       },
       "media": {
-        "image": "assets/previews/1b7302e35b4c879de4aa.webp"
+        "image": "assets/previews/1b7302e35b4c879de4aa.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095844222733893632-video-60938d617c9c.mp4"
       }
     },
     {
@@ -1705,7 +1761,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629"
       },
       "media": {
-        "image": "assets/previews/368d9d79144335c0bffc.webp"
+        "image": "assets/previews/368d9d79144335c0bffc.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095980472887308288-video-adeb46729f34.mp4"
       }
     },
     {
@@ -1735,7 +1792,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/explorable-taj-mahal-2096035962824335798"
       },
       "media": {
-        "image": "assets/previews/afd70948169390c74fbe.webp"
+        "image": "assets/previews/afd70948169390c74fbe.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096030438963970048-video-bec575b41c1e.mp4"
       }
     },
     {
@@ -1765,7 +1823,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/orbital-rendezvous-simulator-2096225621303042258"
       },
       "media": {
-        "image": "assets/previews/42e7d7821256b5c0e0d6.webp"
+        "image": "assets/previews/42e7d7821256b5c0e0d6.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096224812020690944-video-9e1b5e9a36f6.mp4"
       }
     },
     {
@@ -1857,7 +1916,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/3d-slingshot-bird-game-2095981655370666076"
       },
       "media": {
-        "image": "assets/previews/b9fc3db28e9b9b586476.webp"
+        "image": "assets/previews/b9fc3db28e9b9b586476.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095981423538958336-video-fc54301bee6a.mp4"
       }
     },
     {
@@ -1888,7 +1948,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/bullet-time-third-person-shooter-2095962376344309843"
       },
       "media": {
-        "image": "assets/previews/c0c429e42811528f60da.webp"
+        "image": "assets/previews/c0c429e42811528f60da.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095962176804753408-video-ab7d330a7c99.mp4"
       }
     },
     {
@@ -1920,7 +1981,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/bouncy-webgpu-jelly-2096008241104711698"
       },
       "media": {
-        "image": "assets/previews/cf4454a16a06ed243c20.webp"
+        "image": "assets/previews/cf4454a16a06ed243c20.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096007734642552835-video-7ebd768021af.mp4"
       }
     },
     {
@@ -1951,7 +2013,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/interactive-ps5-controller-2095967131573649552"
       },
       "media": {
-        "image": "assets/previews/c17fee4a534e826e0ab3.webp"
+        "image": "assets/previews/c17fee4a534e826e0ab3.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095967014825160710-video-4ca1b8f7fd8a.mp4"
       }
     },
     {
@@ -1982,7 +2045,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/astral-war-browser-shooter-2096079660605997264"
       },
       "media": {
-        "image": "assets/previews/10cc70e94dc0a8e6605b.webp"
+        "image": "assets/previews/10cc70e94dc0a8e6605b.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096062838892814336-video-8f7d4c8188bb.mp4"
       }
     },
     {
@@ -2042,7 +2106,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/browser-flight-game-2096149823216898445"
       },
       "media": {
-        "image": "assets/previews/094260e4ea7a88a23850.webp"
+        "image": "assets/previews/094260e4ea7a88a23850.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096149593037889536-video-7d3f77669fb5.mp4"
       }
     },
     {
@@ -2073,7 +2138,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/interactive-globe-dashboard-2096082432197837065"
       },
       "media": {
-        "image": "assets/previews/ce8131795b341edda606.webp"
+        "image": "assets/previews/ce8131795b341edda606.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096082301176164361-video-1f5957451d5a.mp4"
       }
     },
     {
@@ -2104,7 +2170,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/azadi-tower-in-blender-2096107322536051057"
       },
       "media": {
-        "image": "assets/previews/dccea8a39052877e2e5c.webp"
+        "image": "assets/previews/dccea8a39052877e2e5c.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096107229338636288-video-bfeb987de96b.mp4"
       }
     },
     {
@@ -2135,7 +2202,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132"
       },
       "media": {
-        "image": "assets/previews/a315174ac48f5392bb9a.webp"
+        "image": "assets/previews/a315174ac48f5392bb9a.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096245656314589184-video-1bb14795b8f2.mp4"
       }
     },
     {
@@ -2165,7 +2233,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/komorebi-river-kayaking-2096244208533455049"
       },
       "media": {
-        "image": "assets/previews/177462bb87e3089acbf2.webp"
+        "image": "assets/previews/177462bb87e3089acbf2.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096235513309229056-video-0e12d9df3ce8.mp4"
       }
     },
     {
@@ -2196,7 +2265,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/refractive-bottle-product-story-2096243989439713677"
       },
       "media": {
-        "image": "assets/previews/0752e3417e975ec333d5.webp"
+        "image": "assets/previews/0752e3417e975ec333d5.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096243753367592960-video-2ccb4eb4135b.mp4"
       }
     },
     {
@@ -2229,7 +2299,8 @@
         "demo": "https://gogh-strike.surge.sh/"
       },
       "media": {
-        "image": "assets/previews/70ad9e97aa42a9189998.webp"
+        "image": "assets/previews/70ad9e97aa42a9189998.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096012866734501888-video-972adb2fb60f.mp4"
       }
     },
     {
@@ -2262,7 +2333,8 @@
         "demo": "https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/"
       },
       "media": {
-        "image": "assets/previews/b8e73f6ab2b929800dd1.webp"
+        "image": "assets/previews/b8e73f6ab2b929800dd1.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095988588534272001-video-af1e5c9a142b.mp4"
       }
     },
     {
@@ -2293,7 +2365,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041"
       },
       "media": {
-        "image": "assets/previews/1bd8465e8c05d9d38315.webp"
+        "image": "assets/previews/1bd8465e8c05d9d38315.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096080925239185408-video-effe135e70ba.mp4"
       }
     },
     {
@@ -2324,7 +2397,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/a-playful-toddler-toy-world-2096201415051911597"
       },
       "media": {
-        "image": "assets/previews/965f7261ca51d323b38a.webp"
+        "image": "assets/previews/965f7261ca51d323b38a.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096046840546549761-video-d523bff80007.mp4"
       }
     },
     {
@@ -2356,7 +2430,8 @@
         "repository": "https://github.com/alesha-pro/bench-portal"
       },
       "media": {
-        "image": "assets/previews/76744b47af9907732336.webp"
+        "image": "assets/previews/76744b47af9907732336.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095966450385289216-video-44433db9ca50.mp4"
       }
     },
     {
@@ -2387,7 +2462,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/live-jet-manufacturing-plant-2096122429319852319"
       },
       "media": {
-        "image": "assets/previews/88e94868f034bdf39f97.webp"
+        "image": "assets/previews/88e94868f034bdf39f97.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096121674982727684-video-16fa7681ed82.mp4"
       }
     },
     {
@@ -2415,10 +2491,12 @@
         "Three.js"
       ],
       "links": {
-        "tripo": "https://www.tripo3d.ai/3d-prompts/kaiju-city-battle-2096251574918013135"
+        "tripo": "https://www.tripo3d.ai/3d-prompts/kaiju-city-battle-2096251574918013135",
+        "demo": "https://stormcolossus.netlify.app/"
       },
       "media": {
-        "image": "assets/previews/8f55d646820e4f1f0b98.webp"
+        "image": "assets/previews/8f55d646820e4f1f0b98.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096251295594135556-video-cc717933e256.mp4"
       }
     },
     {
@@ -2449,7 +2527,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648"
       },
       "media": {
-        "image": "assets/previews/631562c3a38f51debed3.webp"
+        "image": "assets/previews/631562c3a38f51debed3.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096215832367878145-video-0150533ce275.mp4"
       }
     },
     {
@@ -2480,7 +2559,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620"
       },
       "media": {
-        "image": "assets/previews/88fedcd618dd733a21f5.webp"
+        "image": "assets/previews/88fedcd618dd733a21f5.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096032513387110400-video-81b6d2734d03.mp4"
       }
     },
     {
@@ -2511,7 +2591,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/rigged-and-animated-t-rex-2096133339329536249"
       },
       "media": {
-        "image": "assets/previews/6bf58344b93f183cd255.webp"
+        "image": "assets/previews/6bf58344b93f183cd255.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096132586565226502-video-da225779ad98.mp4"
       }
     },
     {
@@ -2542,7 +2623,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198"
       },
       "media": {
-        "image": "assets/previews/3990cf9279eb906cfc93.webp"
+        "image": "assets/previews/3990cf9279eb906cfc93.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096173747736883201-video-3555dca2231c.mp4"
       }
     },
     {
@@ -2573,7 +2655,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/interactive-hyperloop-demo-2096250748099068377"
       },
       "media": {
-        "image": "assets/previews/6fe7e10c4907c28861e5.webp"
+        "image": "assets/previews/6fe7e10c4907c28861e5.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096250641752711168-video-604ad7feb30f.mp4"
       }
     },
     {
@@ -2604,7 +2687,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/procedural-napoleon-bust-2096234355395903672"
       },
       "media": {
-        "image": "assets/previews/fda483263b1b7468f091.webp"
+        "image": "assets/previews/fda483263b1b7468f091.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096234130044297216-video-f3d91bcdcb16.mp4"
       }
     },
     {
@@ -2634,7 +2718,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/railway-station-concourse-2096226711222546461"
       },
       "media": {
-        "image": "assets/previews/ec572c18e5e02ac65512.webp"
+        "image": "assets/previews/ec572c18e5e02ac65512.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096226451297300480-video-76b0ad295189.mp4"
       }
     },
     {
@@ -2666,7 +2751,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/animated-onboarding-diorama-2096222790894661841"
       },
       "media": {
-        "image": "assets/previews/42b972bdf19630b039a0.webp"
+        "image": "assets/previews/42b972bdf19630b039a0.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096222762989928448-video-4d9def8e3682.mp4"
       }
     },
     {
@@ -2727,7 +2813,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842"
       },
       "media": {
-        "image": "assets/previews/4d8530d89c735d14003f.webp"
+        "image": "assets/previews/4d8530d89c735d14003f.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096111511337107456-video-551f5e0446d2.mp4"
       }
     },
     {
@@ -2759,7 +2846,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412"
       },
       "media": {
-        "image": "assets/previews/da567da60113f6fde024.webp"
+        "image": "assets/previews/da567da60113f6fde024.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095999519968333824-video-e6d1a18772e0.mp4"
       }
     },
     {
@@ -2790,7 +2878,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880"
       },
       "media": {
-        "image": "assets/previews/da595232495fdcdcd646.webp"
+        "image": "assets/previews/da595232495fdcdcd646.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096257642486431744-video-4c1bece302f4.mp4"
       }
     },
     {
@@ -2820,7 +2909,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503"
       },
       "media": {
-        "image": "assets/previews/b667cbe461565dc1ef4c.webp"
+        "image": "assets/previews/b667cbe461565dc1ef4c.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096139240476454913-video-a0fd30c3ba8a.mp4"
       }
     },
     {
@@ -2882,7 +2972,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"
       },
       "media": {
-        "image": "assets/previews/8ed97e5172601ffcf208.webp"
+        "image": "assets/previews/8ed97e5172601ffcf208.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096022456750542848-video-f8aa000c9ee6.mp4"
       }
     },
     {
@@ -2913,7 +3004,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086"
       },
       "media": {
-        "image": "assets/previews/4b1d7461ea62bbcb07bb.webp"
+        "image": "assets/previews/4b1d7461ea62bbcb07bb.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096055803866193925-video-1f6a9bf97b27.mp4"
       }
     },
     {
@@ -2974,7 +3066,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/dropzone-battle-royale-arena-2096155883122413946"
       },
       "media": {
-        "image": "assets/previews/37245ebc377553686009.webp"
+        "image": "assets/previews/37245ebc377553686009.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096155779850190848-video-812518247b63.mp4"
       }
     },
     {
@@ -3005,7 +3098,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449"
       },
       "media": {
-        "image": "assets/previews/5dd1b274746b07e46ff0.webp"
+        "image": "assets/previews/5dd1b274746b07e46ff0.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096096301616381952-video-4a739bdf3183.mp4"
       }
     },
     {
@@ -3035,7 +3129,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/interactive-titan-science-exhibit-2095986941753712841"
       },
       "media": {
-        "image": "assets/previews/01903613570d42ab83a5.webp"
+        "image": "assets/previews/01903613570d42ab83a5.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095986724040290305-video-47d62d124cfd.mp4"
       }
     },
     {
@@ -3066,7 +3161,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/evolving-webgl-ecosystem-2096040448477515874"
       },
       "media": {
-        "image": "assets/previews/417256d668a87f961903.webp"
+        "image": "assets/previews/417256d668a87f961903.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096039411645566976-video-71c8620bd4aa.mp4"
       }
     },
     {
@@ -3096,7 +3192,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742"
       },
       "media": {
-        "image": "assets/previews/1f3a527d5461971e3394.webp"
+        "image": "assets/previews/1f3a527d5461971e3394.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-5c3efd3efdda-video-5c3efd3efdda.mp4"
       }
     },
     {
@@ -3126,7 +3223,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605"
       },
       "media": {
-        "image": "assets/previews/8342e2a2ae6ab568fa2f.webp"
+        "image": "assets/previews/8342e2a2ae6ab568fa2f.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096061606581133312-video-615bfd65c028.mp4"
       }
     },
     {
@@ -3157,7 +3255,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/photogrammetry-scan-to-editable-living-room-2096092080397246707"
       },
       "media": {
-        "image": "assets/previews/d7643b0568a783c1fabd.webp"
+        "image": "assets/previews/d7643b0568a783c1fabd.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096091625915301888-video-6a1270fd0cf5.mp4"
       }
     },
     {
@@ -3188,7 +3287,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152"
       },
       "media": {
-        "image": "assets/previews/f8e883bece1bb1220b1f.webp"
+        "image": "assets/previews/f8e883bece1bb1220b1f.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096134919546425344-video-ce32ad4bdb95.mp4"
       }
     },
     {
@@ -3218,7 +3318,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186"
       },
       "media": {
-        "image": "assets/previews/73fbb8ce4494edce62d6.webp"
+        "image": "assets/previews/73fbb8ce4494edce62d6.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096218474930405376-video-875c2d463d2b.mp4"
       }
     },
     {
@@ -3248,7 +3349,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/tesla-model-x-exploded-view-2096009146248122416"
       },
       "media": {
-        "image": "assets/previews/59bc5339c02dceeee7e0.webp"
+        "image": "assets/previews/59bc5339c02dceeee7e0.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096008340329627648-video-7b0604309820.mp4"
       }
     },
     {
@@ -3279,7 +3381,8 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/memory-capsule-machine-2096241295949975602"
       },
       "media": {
-        "image": "assets/previews/2623ee6ae5ad1e80ed6a.webp"
+        "image": "assets/previews/2623ee6ae5ad1e80ed6a.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096240294815821824-video-4c217fa6025d.mp4"
       }
     },
     {
@@ -3310,7 +3413,1615 @@
         "tripo": "https://www.tripo3d.ai/3d-prompts/formula-one-car-in-blender-2096125193580113957"
       },
       "media": {
-        "image": "assets/previews/7b1991638d1cf62afb53.webp"
+        "image": "assets/previews/7b1991638d1cf62afb53.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096124892378963969-video-036aa7b94b4e.mp4"
+      }
+    },
+    {
+      "id": "2096525100518453342",
+      "slug": "switchable-character-expressions-in-blender-2096525100518453342",
+      "model": "gpt-6-astra",
+      "title": "Switchable character expressions in Blender",
+      "description": "Set up expression variants of a Tripo character in Blender before rigging. Align the meshes and switch them discretely, shrinking inactive variants inside the head. Do not imply smooth blending or VRM compatibility.",
+      "prompt": "Set up expression variants of a Tripo character in Blender before rigging. Align the meshes and switch them discretely, shrinking inactive variants inside the head. Do not imply smooth blending or VRM compatibility.",
+      "author": {
+        "name": "Nano(ナノ)",
+        "url": "https://x.com/Dstudio_ai"
+      },
+      "source": {
+        "url": "https://x.com/Dstudio_ai/status/2096525100518453342",
+        "publishedAt": "2026-09-06T09:05:10.000Z",
+        "language": "ja"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"
+      },
+      "media": {
+        "image": "assets/previews/e172122424c525a2dfb3.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096524256012316672-video-4b1e211ec04c.mp4"
+      }
+    },
+    {
+      "id": "2096308567863079420",
+      "slug": "warcraft-inspired-character-scene-in-unity-2096308567863079420",
+      "model": "gpt-6-astra",
+      "title": "Warcraft-inspired character scene in Unity",
+      "description": "Build a Warcraft-inspired character scene with Astra, Tripo P2, Blender and Unity. Generate the character asset, prepare it in Blender and assemble a playable scene in Unity.",
+      "prompt": "Build a Warcraft-inspired character scene with Astra, Tripo P2, Blender and Unity. Generate the character asset, prepare it in Blender and assemble a playable scene in Unity.",
+      "author": {
+        "name": "Lucca Cerf ➔ Pluma Finance",
+        "url": "https://x.com/luccacerf"
+      },
+      "source": {
+        "url": "https://x.com/luccacerf/status/2096308567863079420",
+        "publishedAt": "2026-09-05T18:44:44.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420"
+      },
+      "media": {
+        "image": "assets/previews/b6aa0b916788e64af33e.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096303795890278401-video-b5a61e848bab.mp4"
+      }
+    },
+    {
+      "id": "2096015772334047319",
+      "slug": "three-js-battle-arena-with-tripo-assets-2096015772334047319",
+      "model": "gpt-6-astra",
+      "title": "Three.js battle arena with Tripo assets",
+      "description": "Build a playable battle arena in Three.js. Use Tripo-generated characters and trees, and integrate them into the arena and its game loop.",
+      "prompt": "Build a playable battle arena in Three.js. Use Tripo-generated characters and trees, and integrate them into the arena and its game loop.",
+      "author": {
+        "name": "Normz",
+        "url": "https://x.com/Normaneeeeee"
+      },
+      "source": {
+        "url": "https://x.com/Normaneeeeee/status/2096015772334047319",
+        "publishedAt": "2026-09-04T23:21:16.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/three-js-battle-arena-with-tripo-assets-2096015772334047319"
+      },
+      "media": {
+        "image": "assets/previews/fea90c1b2ce4c2c10621.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096014103366238208-video-4bd6865e78da.mp4"
+      }
+    },
+    {
+      "id": "2096579856133947507",
+      "slug": "rotatable-3d-shogi-board-2096579856133947507",
+      "model": "gpt-6-astra",
+      "title": "Rotatable 3D shogi board",
+      "description": "Build a playable 3D shogi application with a freely rotatable board. Refine the board, pieces and interactions through successive reviews.",
+      "prompt": "Build a playable 3D shogi application with a freely rotatable board. Refine the board, pieces and interactions through successive reviews.",
+      "author": {
+        "name": "薄幸柄 / LAB",
+        "url": "https://x.com/hatukougara"
+      },
+      "source": {
+        "url": "https://x.com/hatukougara/status/2096579856133947507",
+        "publishedAt": "2026-09-06T12:42:44.000Z",
+        "language": "ja"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/rotatable-3d-shogi-board-2096579856133947507"
+      },
+      "media": {
+        "image": "assets/previews/c6c11f611cd50ab65bad.webp"
+      }
+    },
+    {
+      "id": "2096578761877860502",
+      "slug": "exploded-desktop-computer-atlas-2096578761877860502",
+      "model": "gpt-6-astra",
+      "title": "Exploded desktop-computer atlas",
+      "description": "Create an interactive 3D website that separates a desktop computer into 29 core components. Add animated disassembly and explanations for each part.",
+      "prompt": "Create an interactive 3D website that separates a desktop computer into 29 core components. Add animated disassembly and explanations for each part.",
+      "author": {
+        "name": "cooper",
+        "url": "https://x.com/icooperhero"
+      },
+      "source": {
+        "url": "https://x.com/icooperhero/status/2096578761877860502",
+        "publishedAt": "2026-09-06T12:38:24.000Z",
+        "language": "zh"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502"
+      },
+      "media": {
+        "image": "assets/previews/3e793aa49d00596d7f0f.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096578527097421824-video-b1e4e76ee419.mp4"
+      }
+    },
+    {
+      "id": "2096578684010508736",
+      "slug": "children-s-room-and-workspace-planner-2096578684010508736",
+      "model": "gpt-6-astra",
+      "title": "Children's room and workspace planner",
+      "description": "Reconstruct a child's room that doubles as a workspace from four corner photos and room dimensions. Show adult and child viewpoints, an overview and alternative furniture layouts.",
+      "prompt": "Reconstruct a child's room that doubles as a workspace from four corner photos and room dimensions. Show adult and child viewpoints, an overview and alternative furniture layouts.",
+      "author": {
+        "name": "かのこ🌼AI×子育て×探究",
+        "url": "https://x.com/dqlh47m"
+      },
+      "source": {
+        "url": "https://x.com/dqlh47m/status/2096578684010508736",
+        "publishedAt": "2026-09-06T12:38:05.000Z",
+        "language": "ja"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736"
+      },
+      "media": {
+        "image": "assets/previews/1d761ad321c1abd86b86.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096578530561966080-video-99133894dee5.mp4"
+      }
+    },
+    {
+      "id": "2095999282088378520",
+      "slug": "linked-floor-plan-and-3d-walkthrough-2095999282088378520",
+      "model": "gpt-6-astra",
+      "title": "Linked floor plan and 3D walkthrough",
+      "description": "Build a one-bedroom apartment walkthrough and a floor plan from the same dimensions. Synchronize the current position between views and clearly label assumed ceiling heights and finishes.",
+      "prompt": "Build a one-bedroom apartment walkthrough and a floor plan from the same dimensions. Synchronize the current position between views and clearly label assumed ceiling heights and finishes.",
+      "author": {
+        "name": "おのふみ| AIクリエーター×個人開発",
+        "url": "https://x.com/onofumi_AI"
+      },
+      "source": {
+        "url": "https://x.com/onofumi_AI/status/2095999282088378520",
+        "publishedAt": "2026-09-04T22:15:45.000Z",
+        "language": "ja"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520"
+      },
+      "media": {
+        "image": "assets/previews/3d696686e58aba41eb01.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095999235611414528-video-da2dbe52f816.mp4"
+      }
+    },
+    {
+      "id": "2096557555086725159",
+      "slug": "interactive-miniature-of-seoul-2096557555086725159",
+      "model": "gpt-6-astra",
+      "title": "Interactive miniature of Seoul",
+      "description": "Build a Three.js miniature of Seoul from open map data. Add district navigation, landmark fly-throughs, day and night modes and touch controls. Disclose simplified buildings, estimated heights and data licenses.",
+      "prompt": "Build a Three.js miniature of Seoul from open map data. Add district navigation, landmark fly-throughs, day and night modes and touch controls. Disclose simplified buildings, estimated heights and data licenses.",
+      "author": {
+        "name": "synabreu",
+        "url": "https://x.com/synabreu"
+      },
+      "source": {
+        "url": "https://x.com/synabreu/status/2096557555086725159",
+        "publishedAt": "2026-09-06T11:14:07.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/interactive-miniature-of-seoul-2096557555086725159",
+        "demo": "https://seoul-3d-atlas.synabreu.chatgpt.site/"
+      },
+      "media": {
+        "image": "assets/previews/495c8dd1868b4e0c9fbe.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096557441312034816-video-78abc20e6310.mp4"
+      }
+    },
+    {
+      "id": "2096551010089263181",
+      "slug": "interactive-dual-ring-energy-core-2096551010089263181",
+      "model": "gpt-6-astra",
+      "title": "Interactive dual-ring energy core",
+      "description": "Model an energy core, two rings and a metal base in Blender. Export the materials to a Three.js viewer with rotation, zoom, automatic orbit and pulse controls.",
+      "prompt": "Model an energy core, two rings and a metal base in Blender. Export the materials to a Three.js viewer with rotation, zoom, automatic orbit and pulse controls.",
+      "author": {
+        "name": "ruofeng",
+        "url": "https://x.com/oneruofeng"
+      },
+      "source": {
+        "url": "https://x.com/oneruofeng/status/2096551010089263181",
+        "publishedAt": "2026-09-06T10:48:07.000Z",
+        "language": "zh"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181",
+        "repository": "https://github.com/wangruofeng/orbital-core-showcase",
+        "demo": "https://orbital-core-showcase.wangruofeng007.workers.dev/"
+      },
+      "media": {
+        "image": "assets/previews/6e5f5eddec63a18ae0d3.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096549512995368961-video-3eacc87e8c74.mp4"
+      }
+    },
+    {
+      "id": "2096460081982304546",
+      "slug": "surface-climbing-procedural-insect-2096460081982304546",
+      "model": "gpt-6-astra",
+      "title": "Surface-climbing procedural insect",
+      "description": "Create a multi-legged 3D insect that walks while adhering to different surfaces. Coordinate its legs and body as it crosses changes in height.",
+      "prompt": "Create a multi-legged 3D insect that walks while adhering to different surfaces. Coordinate its legs and body as it crosses changes in height.",
+      "author": {
+        "name": "XiaoLei Liu",
+        "url": "https://x.com/leo_xiaolei"
+      },
+      "source": {
+        "url": "https://x.com/leo_xiaolei/status/2096460081982304546",
+        "publishedAt": "2026-09-06T04:46:48.000Z",
+        "language": "zh"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/surface-climbing-procedural-insect-2096460081982304546",
+        "demo": "https://threerocks.github.io/web-3d-pages/"
+      },
+      "media": {
+        "image": "assets/previews/fb132b9e6a026ce7de5d.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096457635352698880-video-b8ee4ffe10bf.mp4"
+      }
+    },
+    {
+      "id": "2096467585785286808",
+      "slug": "wright-flyer-through-a-japanese-forest-2096467585785286808",
+      "model": "gpt-6-astra",
+      "title": "Wright Flyer through a Japanese forest",
+      "description": "Build a Three.js flight game featuring the 1903 Wright Flyer in a Japanese forest. Research the aircraft and procedurally create the plane, trees, torii gates, houses and mountains without external assets.",
+      "prompt": "Build a Three.js flight game featuring the 1903 Wright Flyer in a Japanese forest. Research the aircraft and procedurally create the plane, trees, torii gates, houses and mountains without external assets.",
+      "author": {
+        "name": "The Bugged Dev",
+        "url": "https://x.com/thebuggeddev"
+      },
+      "source": {
+        "url": "https://x.com/thebuggeddev/status/2096467585785286808",
+        "publishedAt": "2026-09-06T05:16:37.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"
+      },
+      "media": {
+        "image": "assets/previews/67349df6f55e75c5acee.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096460762189565952-video-9d36a3a844f2.mp4"
+      }
+    },
+    {
+      "id": "2096576154337734865",
+      "slug": "a-house-modeled-from-scratch-in-blender-2096576154337734865",
+      "model": "gpt-6-astra",
+      "title": "A house modeled from scratch in Blender",
+      "description": "Model a house from scratch in Blender. Keep the scene editable so the building can be inspected and refined in subsequent iterations.",
+      "prompt": "Model a house from scratch in Blender. Keep the scene editable so the building can be inspected and refined in subsequent iterations.",
+      "author": {
+        "name": "みずくん",
+        "url": "https://x.com/mizkun"
+      },
+      "source": {
+        "url": "https://x.com/mizkun/status/2096576154337734865",
+        "publishedAt": "2026-09-06T12:28:02.000Z",
+        "language": "ja"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865"
+      },
+      "media": {
+        "image": "assets/previews/3dac0cf4428bc4a32bd1.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096575873629769728-video-7a237d3c1b82.mp4"
+      }
+    },
+    {
+      "id": "2096143359505269079",
+      "slug": "coffee-shop-photo-to-vertical-walkthrough-2096143359505269079",
+      "model": "gpt-6-astra",
+      "title": "Coffee-shop photo to vertical walkthrough",
+      "description": "Rebuild a coffee shop from its photo in Blender, including the wooden ceiling, light strips, roaster, shelves and plants. Deliver an editable scene and a 15-second vertical camera walkthrough.",
+      "prompt": "Rebuild a coffee shop from its photo in Blender, including the wooden ceiling, light strips, roaster, shelves and plants. Deliver an editable scene and a 15-second vertical camera walkthrough.",
+      "author": {
+        "name": "森叔",
+        "url": "https://x.com/harrisonitsme"
+      },
+      "source": {
+        "url": "https://x.com/harrisonitsme/status/2096143359505269079",
+        "publishedAt": "2026-09-05T07:48:16.000Z",
+        "language": "zh"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"
+      },
+      "media": {
+        "image": "assets/previews/ffcfb39c9d14b56e65e3.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096143056991076352-video-e2a96d0e0f27.mp4"
+      }
+    },
+    {
+      "id": "2096501340889374883",
+      "slug": "top-floor-plan-to-blender-preview-2096501340889374883",
+      "model": "gpt-6-astra",
+      "title": "Top-floor plan to Blender preview",
+      "description": "Use a home's top-floor plan to build a Blender scene and render a 10-second low-sample preview. Prioritize a clear spatial layout before refining materials.",
+      "prompt": "Use a home's top-floor plan to build a Blender scene and render a 10-second low-sample preview. Prioritize a clear spatial layout before refining materials.",
+      "author": {
+        "name": "indigo",
+        "url": "https://x.com/indigox"
+      },
+      "source": {
+        "url": "https://x.com/indigox/status/2096501340889374883",
+        "publishedAt": "2026-09-06T07:30:45.000Z",
+        "language": "zh"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883"
+      },
+      "media": {
+        "image": "assets/previews/43b5fb834bebe6a4e434.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096499441167671296-video-09a55294f759.mp4"
+      }
+    },
+    {
+      "id": "2096298425914450021",
+      "slug": "lisbon-s-terreiro-do-paco-in-blender-2096298425914450021",
+      "model": "gpt-6-astra",
+      "title": "Lisbon's Terreiro do Paço in Blender",
+      "description": "Recreate Terreiro do Paço in Lisbon as an editable Blender scene. Use reference research to guide the square's architecture, materials and lighting.",
+      "prompt": "Recreate Terreiro do Paço in Lisbon as an editable Blender scene. Use reference research to guide the square's architecture, materials and lighting.",
+      "author": {
+        "name": "Gonçalo Canhoto 🇵🇹",
+        "url": "https://x.com/goncalo_canhoto"
+      },
+      "source": {
+        "url": "https://x.com/goncalo_canhoto/status/2096298425914450021",
+        "publishedAt": "2026-09-05T18:04:26.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021"
+      },
+      "media": {
+        "image": "assets/previews/1a02f9822127ff717210.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096296038672023552-video-48b7bae96747.mp4"
+      }
+    },
+    {
+      "id": "2096574297703637111",
+      "slug": "the-quiet-crossing-exploration-quest-2096574297703637111",
+      "model": "gpt-6-astra",
+      "title": "The Quiet Crossing exploration quest",
+      "description": "Build a snowy Three.js exploration game with a Blender character, voxel pines and a stone waygate. Collect six glowing fragments, follow the character with the camera and show the gate's distance.",
+      "prompt": "Build a snowy Three.js exploration game with a Blender character, voxel pines and a stone waygate. Collect six glowing fragments, follow the character with the camera and show the gate's distance.",
+      "author": {
+        "name": "MotionViz",
+        "url": "https://x.com/Motion_Viz"
+      },
+      "source": {
+        "url": "https://x.com/Motion_Viz/status/2096574297703637111",
+        "publishedAt": "2026-09-06T12:20:39.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111"
+      },
+      "media": {
+        "image": "assets/previews/0ba729978213ae4955db.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096573682848251904-video-6e87dd09e525.mp4"
+      }
+    },
+    {
+      "id": "2096263046918197609",
+      "slug": "dense-procedural-forest-in-three-js-2096263046918197609",
+      "model": "gpt-6-astra",
+      "title": "Dense procedural forest in Three.js",
+      "description": "Create a detailed Three.js forest with thousands of trees, dense grass and ferns. Use custom shaders and efficient repeated geometry to preserve detail across the scene.",
+      "prompt": "Create a detailed Three.js forest with thousands of trees, dense grass and ferns. Use custom shaders and efficient repeated geometry to preserve detail across the scene.",
+      "author": {
+        "name": "Leon Lin",
+        "url": "https://x.com/LexnLin"
+      },
+      "source": {
+        "url": "https://x.com/LexnLin/status/2096263046918197609",
+        "publishedAt": "2026-09-05T15:43:51.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609"
+      },
+      "media": {
+        "image": "assets/previews/f2a686fc1b131953cac4.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096262956774490112-video-dabda51264b8.mp4"
+      }
+    },
+    {
+      "id": "2096013228090245181",
+      "slug": "tp-7-recorder-reference-model-2096013228090245181",
+      "model": "gpt-6-astra",
+      "title": "TP-7 recorder reference model",
+      "description": "Recreate the Teenage Engineering TP-7 in Three.js from reference images. Match its shape and visible controls in an inspectable 3D model.",
+      "prompt": "Recreate the Teenage Engineering TP-7 in Three.js from reference images. Match its shape and visible controls in an inspectable 3D model.",
+      "author": {
+        "name": "Tykra",
+        "url": "https://x.com/ty_kra_lab"
+      },
+      "source": {
+        "url": "https://x.com/ty_kra_lab/status/2096013228090245181",
+        "publishedAt": "2026-09-04T23:11:10.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/tp-7-recorder-reference-model-2096013228090245181"
+      },
+      "media": {
+        "image": "assets/previews/6247b0b5d738f5e9d87d.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096012812199862273-video-9013baf810d8.mp4"
+      }
+    },
+    {
+      "id": "2096577430274429157",
+      "slug": "steam-locomotive-across-the-countryside-2096577430274429157",
+      "model": "gpt-6-astra",
+      "title": "Steam locomotive across the countryside",
+      "description": "Model a steam locomotive in Three.js and animate it travelling through a countryside scene. Synchronize the wheel movement with the train's motion.",
+      "prompt": "Model a steam locomotive in Three.js and animate it travelling through a countryside scene. Synchronize the wheel movement with the train's motion.",
+      "author": {
+        "name": "ダンさんブル@d三b",
+        "url": "https://x.com/dansanburu"
+      },
+      "source": {
+        "url": "https://x.com/dansanburu/status/2096577430274429157",
+        "publishedAt": "2026-09-06T12:33:06.000Z",
+        "language": "ja"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157"
+      },
+      "media": {
+        "image": "assets/previews/fb7fa5cb69d8bab3b242.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096576986462539776-video-59f0fa2baa5a.mp4"
+      }
+    },
+    {
+      "id": "2096561346766877106",
+      "slug": "vinyl-player-tabletop-scene-2096561346766877106",
+      "model": "gpt-6-astra",
+      "title": "Vinyl-player tabletop scene",
+      "description": "Build a Three.js vinyl-player scene on a table. Stage a product-style demonstration with lamps switching on and a camera that shows the player and surrounding furniture.",
+      "prompt": "Build a Three.js vinyl-player scene on a table. Stage a product-style demonstration with lamps switching on and a camera that shows the player and surrounding furniture.",
+      "author": {
+        "name": "Nitesh Seram",
+        "url": "https://x.com/niteshseram"
+      },
+      "source": {
+        "url": "https://x.com/niteshseram/status/2096561346766877106",
+        "publishedAt": "2026-09-06T11:29:11.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106"
+      },
+      "media": {
+        "image": "assets/previews/51118e05b31dbe92e3cc.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096560995208687616-video-b191a25a673b.mp4"
+      }
+    },
+    {
+      "id": "2096555856204644550",
+      "slug": "trading-card-battle-game-loop-2096555856204644550",
+      "model": "gpt-6-astra",
+      "title": "Trading-card battle game loop",
+      "description": "Build a Three.js trading-card prototype: buy decks and boosters, construct a deck, enter a battle arena and earn rewards. Keep placeholder meshes replaceable with finished assets.",
+      "prompt": "Build a Three.js trading-card prototype: buy decks and boosters, construct a deck, enter a battle arena and earn rewards. Keep placeholder meshes replaceable with finished assets.",
+      "author": {
+        "name": "FaryaBlender3D",
+        "url": "https://x.com/FaryaBlender3D"
+      },
+      "source": {
+        "url": "https://x.com/FaryaBlender3D/status/2096555856204644550",
+        "publishedAt": "2026-09-06T11:07:22.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/trading-card-battle-game-loop-2096555856204644550"
+      },
+      "media": {
+        "image": "assets/previews/9467608cd8acae08c827.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096553778136887296-video-51c26a0f2901.mp4"
+      }
+    },
+    {
+      "id": "2096362653480562751",
+      "slug": "railway-network-simulation-game-2096362653480562751",
+      "model": "gpt-6-astra",
+      "title": "Railway network simulation game",
+      "description": "Expand a Three.js train model into a railway simulation with cities, junctions, rivers and bridges. Add train-following, free 3D and isometric cameras, plus smoke effects.",
+      "prompt": "Expand a Three.js train model into a railway simulation with cities, junctions, rivers and bridges. Add train-following, free 3D and isometric cameras, plus smoke effects.",
+      "author": {
+        "name": "Tom Krcha",
+        "url": "https://x.com/tomkrcha"
+      },
+      "source": {
+        "url": "https://x.com/tomkrcha/status/2096362653480562751",
+        "publishedAt": "2026-09-05T22:19:39.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/railway-network-simulation-game-2096362653480562751"
+      },
+      "media": {
+        "image": "assets/previews/66b6fe9a782625a1d13b.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096361540161257472-video-39d66dd5664e.mp4"
+      }
+    },
+    {
+      "id": "2096490395614019793",
+      "slug": "walkable-low-poly-gwacheon-village-2096490395614019793",
+      "model": "gpt-6-astra",
+      "title": "Walkable low-poly Gwacheon village",
+      "description": "Create a cozy, explorable low-poly village inspired by Gwacheon in a single HTML file. Combine procedural 3D scenery, atmosphere, interface and interactions.",
+      "prompt": "Create a cozy, explorable low-poly village inspired by Gwacheon in a single HTML file. Combine procedural 3D scenery, atmosphere, interface and interactions.",
+      "author": {
+        "name": "Manas Joshi",
+        "url": "https://x.com/ManasJoshi76254"
+      },
+      "source": {
+        "url": "https://x.com/ManasJoshi76254/status/2096490395614019793",
+        "publishedAt": "2026-09-06T06:47:15.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793"
+      },
+      "media": {
+        "image": "assets/previews/8421a65dcff65f18140d.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096490096442986496-video-3809a76a10f4.mp4"
+      }
+    },
+    {
+      "id": "2096505740643246231",
+      "slug": "complete-three-js-puzzle-level-2096505740643246231",
+      "model": "gpt-6-astra",
+      "title": "Complete Three.js puzzle level",
+      "description": "Build a complete 3D puzzle-game level in Three.js, including its playable mechanics. Integrate supplied audio after the level and interactions work.",
+      "prompt": "Build a complete 3D puzzle-game level in Three.js, including its playable mechanics. Integrate supplied audio after the level and interactions work.",
+      "author": {
+        "name": "Steve的花园儿",
+        "url": "https://x.com/TvWoo"
+      },
+      "source": {
+        "url": "https://x.com/TvWoo/status/2096505740643246231",
+        "publishedAt": "2026-09-06T07:48:14.000Z",
+        "language": "zh"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/complete-three-js-puzzle-level-2096505740643246231"
+      },
+      "media": {
+        "image": "assets/previews/b00b0f3011c9f77412b6.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096505045651173376-video-c97ee86140a5.mp4"
+      }
+    },
+    {
+      "id": "2096570815714414844",
+      "slug": "low-poly-beach-treasure-hunt-2096570815714414844",
+      "model": "gpt-6-astra",
+      "title": "Low-poly beach treasure hunt",
+      "description": "Build a playable 3D treasure hunt on a beach in Unity. Model low-poly palm trees and wooden decks, and establish the core exploration and treasure-finding loop.",
+      "prompt": "Build a playable 3D treasure hunt on a beach in Unity. Model low-poly palm trees and wooden decks, and establish the core exploration and treasure-finding loop.",
+      "author": {
+        "name": "空野こんこん＠個人ゲーム開発者",
+        "url": "https://x.com/sorano_concon_g"
+      },
+      "source": {
+        "url": "https://x.com/sorano_concon_g/status/2096570815714414844",
+        "publishedAt": "2026-09-06T12:06:49.000Z",
+        "language": "ja"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844"
+      },
+      "media": {
+        "image": "assets/previews/1fb12fca3f886c06a5f5.webp"
+      }
+    },
+    {
+      "id": "2096560142871658589",
+      "slug": "blender-models-with-unity-vfx-2096560142871658589",
+      "model": "gpt-6-astra",
+      "title": "Blender models with Unity VFX",
+      "description": "Create scene models in Blender and import them into Unity. Add effects with VFX Graph and light the scene so the models and effects read clearly together.",
+      "prompt": "Create scene models in Blender and import them into Unity. Add effects with VFX Graph and light the scene so the models and effects read clearly together.",
+      "author": {
+        "name": "ねぎぽよし",
+        "url": "https://x.com/CST_negi"
+      },
+      "source": {
+        "url": "https://x.com/CST_negi/status/2096560142871658589",
+        "publishedAt": "2026-09-06T11:24:24.000Z",
+        "language": "ja"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/blender-models-with-unity-vfx-2096560142871658589"
+      },
+      "media": {
+        "image": "assets/previews/d13ca069743cb65e0501.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096559190202597376-video-4ff7324a3cb3.mp4"
+      }
+    },
+    {
+      "id": "2096556692842348826",
+      "slug": "mobile-playable-unity-rally-game-2096556692842348826",
+      "model": "gpt-6-astra",
+      "title": "Mobile-playable Unity rally game",
+      "description": "Build a rally-driving prototype with Codex, Blender and Unity. Prepare its 3D assets and controls for playtesting on a phone.",
+      "prompt": "Build a rally-driving prototype with Codex, Blender and Unity. Prepare its 3D assets and controls for playtesting on a phone.",
+      "author": {
+        "name": "Kevin Kern",
+        "url": "https://x.com/kevinkern"
+      },
+      "source": {
+        "url": "https://x.com/kevinkern/status/2096556692842348826",
+        "publishedAt": "2026-09-06T11:10:42.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826"
+      },
+      "media": {
+        "image": "assets/previews/eceebf1bdd5561e25fad.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096555393577259008-video-112f32b99aab.mp4"
+      }
+    },
+    {
+      "id": "2096572429066006845",
+      "slug": "indian-mango-tree-in-speedtree-2096572429066006845",
+      "model": "gpt-6-astra",
+      "title": "Indian mango tree in SpeedTree",
+      "description": "Create an Indian mango tree in SpeedTree for an Unreal scene targeting 60 FPS. Generate leaf and bark materials and review their appearance before finalizing the asset.",
+      "prompt": "Create an Indian mango tree in SpeedTree for an Unreal scene targeting 60 FPS. Generate leaf and bark materials and review their appearance before finalizing the asset.",
+      "author": {
+        "name": "Varun Mayya",
+        "url": "https://x.com/waitin4agi_"
+      },
+      "source": {
+        "url": "https://x.com/waitin4agi_/status/2096572429066006845",
+        "publishedAt": "2026-09-06T12:13:14.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Unreal Engine"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845"
+      },
+      "media": {
+        "image": "assets/previews/c3858642eb37b219de33.webp"
+      }
+    },
+    {
+      "id": "2096566598689783878",
+      "slug": "texture-and-rig-a-tripo-character-2096566598689783878",
+      "model": "gpt-6-astra",
+      "title": "Texture and rig a Tripo character",
+      "description": "Take a Tripo Smart Mesh character into Blender. Apply its textures and build a usable body rig before moving on to facial expressions.",
+      "prompt": "Take a Tripo Smart Mesh character into Blender. Apply its textures and build a usable body rig before moving on to facial expressions.",
+      "author": {
+        "name": "たけうちさんは縮退しました🌀",
+        "url": "https://x.com/chimerast"
+      },
+      "source": {
+        "url": "https://x.com/chimerast/status/2096566598689783878",
+        "publishedAt": "2026-09-06T11:50:04.000Z",
+        "language": "ja"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878"
+      },
+      "media": {
+        "image": "assets/previews/409939b647056905bc16.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096566304161619968-video-6b2851018644.mp4"
+      }
+    },
+    {
+      "id": "2096064140510970318",
+      "slug": "the-legend-of-astra-game-prototype-2096064140510970318",
+      "model": "gpt-6-astra",
+      "title": "The Legend of Astra game prototype",
+      "description": "Build a 3D adventure-game prototype in Unity using Blender-prepared scenes and Tripo assets. Integrate character animation into the playable demo.",
+      "prompt": "Build a 3D adventure-game prototype in Unity using Blender-prepared scenes and Tripo assets. Integrate character animation into the playable demo.",
+      "author": {
+        "name": "lofibloom",
+        "url": "https://x.com/lofihashbloom"
+      },
+      "source": {
+        "url": "https://x.com/lofihashbloom/status/2096064140510970318",
+        "publishedAt": "2026-09-05T02:33:28.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/the-legend-of-astra-game-prototype-2096064140510970318"
+      },
+      "media": {
+        "image": "assets/previews/2e75b416be710d22df3d.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096062862880092160-video-67e55cc4794e.mp4"
+      }
+    },
+    {
+      "id": "2096566686266597754",
+      "slug": "apartment-sketch-to-rendered-interiors-2096566686266597754",
+      "model": "gpt-6-astra",
+      "title": "Apartment sketch to rendered interiors",
+      "description": "Combine apartment reference images with a simple floor-plan sketch to reconstruct the interior in Blender. Deliver an editable scene, room renders and a short edited walkthrough.",
+      "prompt": "Combine apartment reference images with a simple floor-plan sketch to reconstruct the interior in Blender. Deliver an editable scene, room renders and a short edited walkthrough.",
+      "author": {
+        "name": "Everett World",
+        "url": "https://x.com/WorldEverett"
+      },
+      "source": {
+        "url": "https://x.com/WorldEverett/status/2096566686266597754",
+        "publishedAt": "2026-09-06T11:50:24.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754"
+      },
+      "media": {
+        "image": "assets/previews/76eeeaa8710b4767fb99.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096566625826742276-video-41e3afaa8883.mp4"
+      }
+    },
+    {
+      "id": "2095993826569502785",
+      "slug": "interactive-browser-river-scene-2095993826569502785",
+      "model": "gpt-6-astra",
+      "title": "Interactive browser river scene",
+      "description": "Create an interactive river scene that runs in the browser. Establish a working real-time water prototype, then inspect and refine the visual result.",
+      "prompt": "Create an interactive river scene that runs in the browser. Establish a working real-time water prototype, then inspect and refine the visual result.",
+      "author": {
+        "name": "Dan Greenheck",
+        "url": "https://x.com/dangreenheck"
+      },
+      "source": {
+        "url": "https://x.com/dangreenheck/status/2095993826569502785",
+        "publishedAt": "2026-09-04T21:54:04.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/interactive-browser-river-scene-2095993826569502785"
+      },
+      "media": {
+        "image": "assets/previews/0576145ccc4d4331532d.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095992532962607104-video-76faf96ed3eb.mp4"
+      }
+    },
+    {
+      "id": "2096128774203171021",
+      "slug": "adiyogi-evening-fly-through-2096128774203171021",
+      "model": "gpt-6-astra",
+      "title": "Adiyogi evening fly-through",
+      "description": "Build an Adiyogi scene in Blender with wide grounds, detailed close-ups and warm evening light. Render a 30-second fly-through and retain the editable scene.",
+      "prompt": "Build an Adiyogi scene in Blender with wide grounds, detailed close-ups and warm evening light. Render a 30-second fly-through and retain the editable scene.",
+      "author": {
+        "name": "Adi",
+        "url": "https://x.com/thejothiram"
+      },
+      "source": {
+        "url": "https://x.com/thejothiram/status/2096128774203171021",
+        "publishedAt": "2026-09-05T06:50:18.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/adiyogi-evening-fly-through-2096128774203171021"
+      },
+      "media": {
+        "image": "assets/previews/38756d78911bac44657e.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096127589219983360-video-0e8fcabb7049.mp4"
+      }
+    },
+    {
+      "id": "2096521798150242631",
+      "slug": "looping-water-with-geometry-nodes-2096521798150242631",
+      "model": "gpt-6-astra",
+      "title": "Looping water with Geometry Nodes",
+      "description": "Create a periodic water-surface effect using Blender Geometry Nodes without baking. Keep the node setup editable and describe it as a surface model, not a full fluid simulation.",
+      "prompt": "Create a periodic water-surface effect using Blender Geometry Nodes without baking. Keep the node setup editable and describe it as a surface model, not a full fluid simulation.",
+      "author": {
+        "name": "黒曜陣",
+        "url": "https://x.com/uB95A7tobA17057"
+      },
+      "source": {
+        "url": "https://x.com/uB95A7tobA17057/status/2096521798150242631",
+        "publishedAt": "2026-09-06T08:52:02.000Z",
+        "language": "ja"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631"
+      },
+      "media": {
+        "image": "assets/previews/c1f28f7d54e74bcfdc5a.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-26327614ee00-video-26327614ee00.mp4"
+      }
+    },
+    {
+      "id": "2096518775042707700",
+      "slug": "one-piece-inspired-sailing-world-2096518775042707700",
+      "model": "gpt-6-astra",
+      "title": "One Piece-inspired sailing world",
+      "description": "Build a playable sailing world with a Blender ship and a Three.js ocean. Add changing weather, underwater exploration, wake, foam, spray and moving sails.",
+      "prompt": "Build a playable sailing world with a Blender ship and a Three.js ocean. Add changing weather, underwater exploration, wake, foam, spray and moving sails.",
+      "author": {
+        "name": "Yash",
+        "url": "https://x.com/yash_yk45"
+      },
+      "source": {
+        "url": "https://x.com/yash_yk45/status/2096518775042707700",
+        "publishedAt": "2026-09-06T08:40:02.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700",
+        "demo": "https://one-piece-sea-world.vercel.app/"
+      },
+      "media": {
+        "image": "assets/previews/43d06f647b736fefd9e3.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096515158227206144-video-955ff3de6a1b.mp4"
+      }
+    },
+    {
+      "id": "2096572156453028193",
+      "slug": "interactive-lorenz-attractor-2096572156453028193",
+      "model": "gpt-6-astra",
+      "title": "Interactive Lorenz attractor",
+      "description": "Visualize two Lorenz-system trajectories with a tiny initial-position difference. Let viewers change the difference and scrub through time, while distinguishing numerical checks from exact long-term predictions.",
+      "prompt": "Visualize two Lorenz-system trajectories with a tiny initial-position difference. Let viewers change the difference and scrub through time, while distinguishing numerical checks from exact long-term predictions.",
+      "author": {
+        "name": "Juy | AI experiments",
+        "url": "https://x.com/juyeam"
+      },
+      "source": {
+        "url": "https://x.com/juyeam/status/2096572156453028193",
+        "publishedAt": "2026-09-06T12:12:09.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/interactive-lorenz-attractor-2096572156453028193",
+        "demo": "https://tiny-worlds-juyeam.juyeam.chatgpt.site/chaos"
+      },
+      "media": {
+        "image": "assets/previews/8ca9458a913113644712.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096556348947517440-video-9e92e0e7a1ed.mp4"
+      }
+    },
+    {
+      "id": "2096358854275543457",
+      "slug": "tavern-with-working-staff-and-guests-2096358854275543457",
+      "model": "gpt-6-astra",
+      "title": "Tavern with working staff and guests",
+      "description": "Recreate a tavern from a reference image and populate it with guests and workers. Guests order food and drinks; staff prepare them, with collision handling and pathfinding.",
+      "prompt": "Recreate a tavern from a reference image and populate it with guests and workers. Guests order food and drinks; staff prepare them, with collision handling and pathfinding.",
+      "author": {
+        "name": "Rogue",
+        "url": "https://x.com/Rogue0114"
+      },
+      "source": {
+        "url": "https://x.com/Rogue0114/status/2096358854275543457",
+        "publishedAt": "2026-09-05T22:04:33.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457"
+      },
+      "media": {
+        "image": "assets/previews/51cf1822b9fe467de3b2.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096357698434461699-video-c6f4a25f9a07.mp4"
+      }
+    },
+    {
+      "id": "2096506357868642342",
+      "slug": "personal-room-as-an-interactive-portfolio-2096506357868642342",
+      "model": "gpt-6-astra",
+      "title": "Personal room as an interactive portfolio",
+      "description": "Turn a personal room into an interactive self-introduction website. Build and bake the scene in Blender, then add coffee steam, Matrix-style animation and subtle shader effects.",
+      "prompt": "Turn a personal room into an interactive self-introduction website. Build and bake the scene in Blender, then add coffee steam, Matrix-style animation and subtle shader effects.",
+      "author": {
+        "name": "Kalan ◂Ⓘ▸",
+        "url": "https://x.com/kalanyei"
+      },
+      "source": {
+        "url": "https://x.com/kalanyei/status/2096506357868642342",
+        "publishedAt": "2026-09-06T07:50:41.000Z",
+        "language": "zh"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342",
+        "demo": "https://room.kalan.dev/"
+      },
+      "media": {
+        "image": "assets/previews/866c74c1a0c5aa285626.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096502795746910208-video-0fa8acb98948.mp4"
+      }
+    },
+    {
+      "id": "2096503275910832461",
+      "slug": "yf-24-boat-on-a-gentle-3d-sea-2096503275910832461",
+      "model": "gpt-6-astra",
+      "title": "YF-24 boat on a gentle 3D sea",
+      "description": "Model a YF-24 boat in Blender and animate it travelling across a three-dimensional sea at Beaufort force 2. Use boat references to improve the shape.",
+      "prompt": "Model a YF-24 boat in Blender and animate it travelling across a three-dimensional sea at Beaufort force 2. Use boat references to improve the shape.",
+      "author": {
+        "name": "yhmtmt",
+        "url": "https://x.com/yhmtmt1"
+      },
+      "source": {
+        "url": "https://x.com/yhmtmt1/status/2096503275910832461",
+        "publishedAt": "2026-09-06T07:38:26.000Z",
+        "language": "ja"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"
+      },
+      "media": {
+        "image": "assets/previews/8369341108c9ee030167.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096500632966631425-video-7aa795ec66f0.mp4"
+      }
+    },
+    {
+      "id": "2096413869841473930",
+      "slug": "playable-d4-inspired-apartment-2096413869841473930",
+      "model": "gpt-6-astra",
+      "title": "Playable D4-inspired apartment",
+      "description": "Research the protagonist's apartment from D4 and recreate it as a playable 3D prototype. Inspect the layout and interactions against references rather than assuming an exact recreation.",
+      "prompt": "Research the protagonist's apartment from D4 and recreate it as a playable 3D prototype. Inspect the layout and interactions against references rather than assuming an exact recreation.",
+      "author": {
+        "name": "Hidetaka SWERY SueHERO",
+        "url": "https://x.com/Swery65"
+      },
+      "source": {
+        "url": "https://x.com/Swery65/status/2096413869841473930",
+        "publishedAt": "2026-09-06T01:43:10.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/playable-d4-inspired-apartment-2096413869841473930"
+      },
+      "media": {
+        "image": "assets/previews/1f412131b9d66511d6a2.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096413677717225472-video-3d17ea73456e.mp4"
+      }
+    },
+    {
+      "id": "2096398839830008292",
+      "slug": "browser-city-game-with-a-supplied-character-2096398839830008292",
+      "model": "gpt-6-astra",
+      "title": "Browser city game with a supplied character",
+      "description": "Build a WebGL city game using RIO_MA002.fbx as the player. Model referenced vehicles and streets in Blender, then improve NPCs, driving physics, destructible props and suburban areas.",
+      "prompt": "Build a WebGL city game using RIO_MA002.fbx as the player. Model referenced vehicles and streets in Blender, then improve NPCs, driving physics, destructible props and suburban areas.",
+      "author": {
+        "name": "DJ RIO | REALITY",
+        "url": "https://x.com/djrio_vr"
+      },
+      "source": {
+        "url": "https://x.com/djrio_vr/status/2096398839830008292",
+        "publishedAt": "2026-09-06T00:43:27.000Z",
+        "language": "ja"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/browser-city-game-with-a-supplied-character-2096398839830008292"
+      },
+      "media": {
+        "image": "assets/previews/2b020e0fc8275195843f.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096398600695869440-video-9db110aaf6b5.mp4"
+      }
+    },
+    {
+      "id": "2096339041679442428",
+      "slug": "orbital-solar-system-explorer-2096339041679442428",
+      "model": "gpt-6-astra",
+      "title": "Orbital solar-system explorer",
+      "description": "Create a browser solar-system explorer in Three.js with eight planets and twenty moons. Allow camera movement and simplified spaceflight planning.",
+      "prompt": "Create a browser solar-system explorer in Three.js with eight planets and twenty moons. Allow camera movement and simplified spaceflight planning.",
+      "author": {
+        "name": "Andromedus",
+        "url": "https://x.com/dzhohola"
+      },
+      "source": {
+        "url": "https://x.com/dzhohola/status/2096339041679442428",
+        "publishedAt": "2026-09-05T20:45:50.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/orbital-solar-system-explorer-2096339041679442428"
+      },
+      "media": {
+        "image": "assets/previews/3b8d0fa55368b35e4f43.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096339015465115654-video-3a4c1138a19b.mp4"
+      }
+    },
+    {
+      "id": "2096093614397170104",
+      "slug": "black-hole-formation-in-webgl-2096093614397170104",
+      "model": "gpt-6-astra",
+      "title": "Black-hole formation in WebGL",
+      "description": "Create an educational slideshow about black-hole formation with WebGL visualizations. Use animated 3D scenes to accompany the explanations.",
+      "prompt": "Create an educational slideshow about black-hole formation with WebGL visualizations. Use animated 3D scenes to accompany the explanations.",
+      "author": {
+        "name": "ゼン🍣🐟🇳🇿",
+        "url": "https://x.com/zeeeeeen"
+      },
+      "source": {
+        "url": "https://x.com/zeeeeeen/status/2096093614397170104",
+        "publishedAt": "2026-09-05T04:30:35.000Z",
+        "language": "ja"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/black-hole-formation-in-webgl-2096093614397170104"
+      },
+      "media": {
+        "image": "assets/previews/a181ebe4abb83ae076e0.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096093135785107456-video-525882e52f0c.mp4"
+      }
+    },
+    {
+      "id": "2096559197999501724",
+      "slug": "a-2d-logo-becomes-an-animated-character-2096559197999501724",
+      "model": "gpt-6-astra",
+      "title": "A 2D logo becomes an animated character",
+      "description": "Turn a supplied 2D character logo into an animated 3D version. Preserve its recognizable identity as the character gains volume and movement.",
+      "prompt": "Turn a supplied 2D character logo into an animated 3D version. Preserve its recognizable identity as the character gains volume and movement.",
+      "author": {
+        "name": "Anthony Riera",
+        "url": "https://x.com/anthonyriera"
+      },
+      "source": {
+        "url": "https://x.com/anthonyriera/status/2096559197999501724",
+        "publishedAt": "2026-09-06T11:20:39.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724"
+      },
+      "media": {
+        "image": "assets/previews/8dcd8f7d1406525c0a56.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096558319678713856-video-d188c30033a6.mp4"
+      }
+    },
+    {
+      "id": "2096337879173591171",
+      "slug": "a-crab-game-with-action-driven-mechanics-2096337879173591171",
+      "model": "gpt-6-astra",
+      "title": "A crab game with action-driven mechanics",
+      "description": "Build a Three.js crab game from a structured brief covering appearance, character, world, actions, goals, interface and camera. Make coins rise and fly toward the passing crab; flag contradictory requirements.",
+      "prompt": "Build a Three.js crab game from a structured brief covering appearance, character, world, actions, goals, interface and camera. Make coins rise and fly toward the passing crab; flag contradictory requirements.",
+      "author": {
+        "name": "ZEUS⚡️",
+        "url": "https://x.com/zeuuss_01"
+      },
+      "source": {
+        "url": "https://x.com/zeuuss_01/status/2096337879173591171",
+        "publishedAt": "2026-09-05T20:41:13.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171",
+        "demo": "https://beach-crab-game.netlify.app/"
+      },
+      "media": {
+        "image": "assets/previews/b357895cffa990ebc6d5.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096337699737350144-video-d20dcbc3e616.mp4"
+      }
+    },
+    {
+      "id": "2096262733259837681",
+      "slug": "cluj-napoca-union-square-in-voxels-2096262733259837681",
+      "model": "gpt-6-astra",
+      "title": "Cluj-Napoca Union Square in voxels",
+      "description": "Create an interactive voxel world of Piața Unirii in Cluj-Napoca. Adapt the square's recognizable layout and landmarks into an explorable miniature.",
+      "prompt": "Create an interactive voxel world of Piața Unirii in Cluj-Napoca. Adapt the square's recognizable layout and landmarks into an explorable miniature.",
+      "author": {
+        "name": "Dan Manastireanu",
+        "url": "https://x.com/danmana"
+      },
+      "source": {
+        "url": "https://x.com/danmana/status/2096262733259837681",
+        "publishedAt": "2026-09-05T15:42:36.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681",
+        "repository": "https://github.com/danmana/piata-unirii",
+        "demo": "https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/"
+      },
+      "media": {
+        "image": "assets/previews/6fbb5254f46d92a86881.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096248939876126720-video-9e98c19a900a.mp4"
+      }
+    },
+    {
+      "id": "2096555183790575682",
+      "slug": "starry-night-village-with-a-day-night-cycle-2096555183790575682",
+      "model": "gpt-6-astra",
+      "title": "Starry Night village with a day-night cycle",
+      "description": "Transform Van Gogh's Starry Night into an explorable 3D village with inhabitants, lighting and a day-night cycle. Render a short film through the finished world.",
+      "prompt": "Transform Van Gogh's Starry Night into an explorable 3D village with inhabitants, lighting and a day-night cycle. Render a short film through the finished world.",
+      "author": {
+        "name": "Firisis",
+        "url": "https://x.com/Firisis_"
+      },
+      "source": {
+        "url": "https://x.com/Firisis_/status/2096555183790575682",
+        "publishedAt": "2026-09-06T11:04:42.000Z",
+        "language": "fr"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/starry-night-village-with-a-day-night-cycle-2096555183790575682"
+      },
+      "media": {
+        "image": "assets/previews/996c7433def5bbb3d45c.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096552620626182144-video-6643bf0e6e0a.mp4"
+      }
+    },
+    {
+      "id": "2096510126244999366",
+      "slug": "reference-matched-three-js-interface-2096510126244999366",
+      "model": "gpt-6-astra",
+      "title": "Reference-matched Three.js interface",
+      "description": "Recreate a reference in one HTML file with Three.js. Repeatedly compare the result and correct differences; refine lighting, model depth and glass-like controls with subtle pointer-responsive effects.",
+      "prompt": "Recreate a reference in one HTML file with Three.js. Repeatedly compare the result and correct differences; refine lighting, model depth and glass-like controls with subtle pointer-responsive effects.",
+      "author": {
+        "name": "Meng To",
+        "url": "https://x.com/MengTo"
+      },
+      "source": {
+        "url": "https://x.com/MengTo/status/2096510126244999366",
+        "publishedAt": "2026-09-06T08:05:40.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/reference-matched-three-js-interface-2096510126244999366"
+      },
+      "media": {
+        "image": "assets/previews/56897f733e8ee248d50e.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096509525641805824-video-3b59d2080454.mp4"
+      }
+    },
+    {
+      "id": "2096481425050743048",
+      "slug": "assemble-and-animate-generated-3d-assets-2096481425050743048",
+      "model": "gpt-6-astra",
+      "title": "Assemble and animate generated 3D assets",
+      "description": "Generate optimized 3D assets with Tripo P2, assemble them in Blender, and rig and animate the characters. Review how the characters and scene fit together spatially.",
+      "prompt": "Generate optimized 3D assets with Tripo P2, assemble them in Blender, and rig and animate the characters. Review how the characters and scene fit together spatially.",
+      "author": {
+        "name": "Stefan 3D AI",
+        "url": "https://x.com/Stefan_3D_AI"
+      },
+      "source": {
+        "url": "https://x.com/Stefan_3D_AI/status/2096481425050743048",
+        "publishedAt": "2026-09-06T06:11:37.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048"
+      },
+      "media": {
+        "image": "assets/previews/3388e9e5e8f519fb22f6.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096480471941255169-video-945e4c7db324.mp4"
+      }
+    },
+    {
+      "id": "2096269057544831175",
+      "slug": "bioluminescent-deep-sea-landing-page-2096269057544831175",
+      "model": "gpt-6-astra",
+      "title": "Bioluminescent deep-sea landing page",
+      "description": "Build a deep-sea landing page with Three.js water effects, a dark glass-like interface and scroll-driven motion. Combine the 3D atmosphere with clear, responsive website interactions.",
+      "prompt": "Build a deep-sea landing page with Three.js water effects, a dark glass-like interface and scroll-driven motion. Combine the 3D atmosphere with clear, responsive website interactions.",
+      "author": {
+        "name": "Himanshu Hingorani",
+        "url": "https://x.com/himanshubuildss"
+      },
+      "source": {
+        "url": "https://x.com/himanshubuildss/status/2096269057544831175",
+        "publishedAt": "2026-09-05T16:07:44.000Z",
+        "language": "en"
+      },
+      "evidence": {
+        "kind": "source-derived",
+        "note": "Adapted from the author’s public project description."
+      },
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "links": {
+        "tripo": "https://www.tripo3d.ai/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175"
+      },
+      "media": {
+        "image": "assets/previews/15b86aef756eda749579.webp",
+        "video": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096268589192097792-video-db6769b12fa2.mp4"
       }
     }
   ]

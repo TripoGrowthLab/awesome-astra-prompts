@@ -21,6 +21,8 @@ npm run catalog
 npm run check
 ```
 
-For a source snapshot refresh, use the optional exporter described in [the data guide](data/README.md), then `npm run vendor-media` and `npm run catalog`. Review every data change before committing. The media step fetches public source files and updates checksums; it does not write to a CMS.
+For a source snapshot refresh, use the optional exporter described in [the data guide](data/README.md), then `npm run vendor-media`, `npm run featured-media` and `npm run catalog`. Review every data change before committing. The media step fetches public source files and updates checksums; it does not write to a CMS. Featured thumbnail generation requires installed `ffmpeg` and `cwebp` commands, preserves full source frames, and writes separate 16:10 WebP previews. It never changes the full-size source images.
+
+`data/prompts.json` carries the website's ordered `featuredIds`, so the two galleries use one selection. Keep video URLs in the independent `media.video` field. README previews link to the localized web detail page; direct video links remain available because GitHub does not reliably autoplay external videos.
 
 Update all locale records, counts and manifests together. Preserve stable IDs. Do not replace source screenshots with AI-generated illustrations. The cover artwork is separately identified as conceptual.

@@ -1,7 +1,7 @@
 {
   "locale": "tr",
   "model": "gpt-6-astra",
-  "count": 103,
+  "count": 153,
   "prompts": {
     "2095596175705399482": {
       "title": "Unreal'da kendi kendine hayatta kalan insan toplumu",
@@ -1223,6 +1223,556 @@
         "Blender"
       ],
       "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/formula-one-car-in-blender-2096125193580113957"
+    },
+    "2096525100518453342": {
+      "title": "Blender’da değiştirilebilir karakter ifadeleri",
+      "description": "Bir Tripo karakterinin ifade varyantlarını rig oluşturmadan önce Blender’da hazırlayın. Mesh’leri hizalayın ve aralarında yumuşak geçiş yapmadan değiştirin; etkin olmayan varyantları küçülterek başın içine alın. Bu yöntemin ifadeleri yumuşak biçimde harmanladığını veya VRM uyumlu olduğunu ima etmeyin.",
+      "prompt": "Bir Tripo karakterinin ifade varyantlarını rig oluşturmadan önce Blender’da hazırlayın. Mesh’leri hizalayın ve aralarında yumuşak geçiş yapmadan değiştirin; etkin olmayan varyantları küçülterek başın içine alın. Bu yöntemin ifadeleri yumuşak biçimde harmanladığını veya VRM uyumlu olduğunu ima etmeyin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"
+    },
+    "2096308567863079420": {
+      "title": "Unity’de Warcraft esintili karakter sahnesi",
+      "description": "Astra, Tripo P2, Blender ve Unity ile Warcraft esintili bir karakter sahnesi oluşturun. Karakter varlığını üretin, Blender’da hazırlayın ve Unity’de oynanabilir bir sahne kurun.",
+      "prompt": "Astra, Tripo P2, Blender ve Unity ile Warcraft esintili bir karakter sahnesi oluşturun. Karakter varlığını üretin, Blender’da hazırlayın ve Unity’de oynanabilir bir sahne kurun.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420"
+    },
+    "2096015772334047319": {
+      "title": "Tripo varlıklarıyla Three.js savaş arenası",
+      "description": "Three.js ile oynanabilir bir savaş arenası oluşturun. Tripo ile üretilmiş karakterleri ve ağaçları kullanarak bunları arenaya ve oyun döngüsüne entegre edin.",
+      "prompt": "Three.js ile oynanabilir bir savaş arenası oluşturun. Tripo ile üretilmiş karakterleri ve ağaçları kullanarak bunları arenaya ve oyun döngüsüne entegre edin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/three-js-battle-arena-with-tripo-assets-2096015772334047319"
+    },
+    "2096579856133947507": {
+      "title": "Döndürülebilir 3D shogi tahtası",
+      "description": "Tahtası serbestçe döndürülebilen, oynanabilir bir 3D shogi uygulaması oluşturun. Tahtayı, taşları ve etkileşimleri art arda değerlendirmelerle iyileştirin.",
+      "prompt": "Tahtası serbestçe döndürülebilen, oynanabilir bir 3D shogi uygulaması oluşturun. Tahtayı, taşları ve etkileşimleri art arda değerlendirmelerle iyileştirin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/rotatable-3d-shogi-board-2096579856133947507"
+    },
+    "2096578761877860502": {
+      "title": "Parçalarına ayrılan masaüstü bilgisayar atlası",
+      "description": "Bir masaüstü bilgisayarı 29 temel bileşenine ayıran etkileşimli bir 3D web sitesi oluşturun. Animasyonlu söküm ve her parça için açıklamalar ekleyin.",
+      "prompt": "Bir masaüstü bilgisayarı 29 temel bileşenine ayıran etkileşimli bir 3D web sitesi oluşturun. Animasyonlu söküm ve her parça için açıklamalar ekleyin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502"
+    },
+    "2096578684010508736": {
+      "title": "Çocuk odası ve çalışma alanı planlayıcısı",
+      "description": "Aynı zamanda çalışma alanı olarak kullanılan bir çocuk odasını, dört köşeden çekilmiş fotoğraflar ve oda ölçülerinden yeniden oluşturun. Yetişkin ve çocuk bakış açılarını, genel görünümü ve alternatif mobilya yerleşimlerini gösterin.",
+      "prompt": "Aynı zamanda çalışma alanı olarak kullanılan bir çocuk odasını, dört köşeden çekilmiş fotoğraflar ve oda ölçülerinden yeniden oluşturun. Yetişkin ve çocuk bakış açılarını, genel görünümü ve alternatif mobilya yerleşimlerini gösterin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736"
+    },
+    "2095999282088378520": {
+      "title": "Eş zamanlı kat planı ve 3D gezinti",
+      "description": "Aynı ölçülerden tek yatak odalı bir daire için gezinti ve kat planı oluşturun. Mevcut konumu iki görünüm arasında eşitleyin; varsayılan tavan yüksekliklerini ve yüzey kaplamalarını açıkça belirtin.",
+      "prompt": "Aynı ölçülerden tek yatak odalı bir daire için gezinti ve kat planı oluşturun. Mevcut konumu iki görünüm arasında eşitleyin; varsayılan tavan yüksekliklerini ve yüzey kaplamalarını açıkça belirtin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520"
+    },
+    "2096557555086725159": {
+      "title": "Seul’ün etkileşimli minyatürü",
+      "description": "Açık harita verileriyle Three.js içinde Seul’ün bir minyatürünü oluşturun. Bölgelere göre gezinme, simge yapılar arasında kamera uçuşları, gündüz ve gece modları ile dokunmatik kontroller ekleyin. Basitleştirilen binaları, tahmini yükseklikleri ve veri lisanslarını belirtin.",
+      "prompt": "Açık harita verileriyle Three.js içinde Seul’ün bir minyatürünü oluşturun. Bölgelere göre gezinme, simge yapılar arasında kamera uçuşları, gündüz ve gece modları ile dokunmatik kontroller ekleyin. Basitleştirilen binaları, tahmini yükseklikleri ve veri lisanslarını belirtin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/interactive-miniature-of-seoul-2096557555086725159"
+    },
+    "2096551010089263181": {
+      "title": "Çift halkalı etkileşimli enerji çekirdeği",
+      "description": "Blender’da bir enerji çekirdeği, iki halka ve metal bir taban modelleyin. Malzemeleri döndürme, yakınlaştırma, otomatik yörünge ve nabız efekti kontrolleri sunan bir Three.js görüntüleyicisine aktarın.",
+      "prompt": "Blender’da bir enerji çekirdeği, iki halka ve metal bir taban modelleyin. Malzemeleri döndürme, yakınlaştırma, otomatik yörünge ve nabız efekti kontrolleri sunan bir Three.js görüntüleyicisine aktarın.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181"
+    },
+    "2096460081982304546": {
+      "title": "Yüzeylere tırmanan prosedürel böcek",
+      "description": "Farklı yüzeylere tutunarak yürüyen çok bacaklı bir 3D böcek oluşturun. Yükseklik değişimlerini aşarken bacakları ile gövdesini koordineli hareket ettirin.",
+      "prompt": "Farklı yüzeylere tutunarak yürüyen çok bacaklı bir 3D böcek oluşturun. Yükseklik değişimlerini aşarken bacakları ile gövdesini koordineli hareket ettirin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/surface-climbing-procedural-insect-2096460081982304546"
+    },
+    "2096467585785286808": {
+      "title": "Japon ormanında Wright Flyer uçuşu",
+      "description": "1903 Wright Flyer uçağını Japon ormanında uçurabileceğiniz bir Three.js oyunu oluşturun. Uçağı araştırın; uçağı, ağaçları, torii kapılarını, evleri ve dağları dış varlık kullanmadan prosedürel olarak üretin.",
+      "prompt": "1903 Wright Flyer uçağını Japon ormanında uçurabileceğiniz bir Three.js oyunu oluşturun. Uçağı araştırın; uçağı, ağaçları, torii kapılarını, evleri ve dağları dış varlık kullanmadan prosedürel olarak üretin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"
+    },
+    "2096576154337734865": {
+      "title": "Blender’da sıfırdan modellenen ev",
+      "description": "Blender’da sıfırdan bir ev modelleyin. Binanın sonraki yinelemelerde incelenip iyileştirilebilmesi için sahneyi düzenlenebilir tutun.",
+      "prompt": "Blender’da sıfırdan bir ev modelleyin. Binanın sonraki yinelemelerde incelenip iyileştirilebilmesi için sahneyi düzenlenebilir tutun.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865"
+    },
+    "2096143359505269079": {
+      "title": "Kafe fotoğrafından dikey gezinti videosuna",
+      "description": "Bir kafeyi fotoğrafından Blender’da yeniden oluşturun; ahşap tavanı, ışık şeritlerini, kahve kavurma makinesini, rafları ve bitkileri ekleyin. Düzenlenebilir sahne ve dikey formatta 15 saniyelik bir kamera gezintisi teslim edin.",
+      "prompt": "Bir kafeyi fotoğrafından Blender’da yeniden oluşturun; ahşap tavanı, ışık şeritlerini, kahve kavurma makinesini, rafları ve bitkileri ekleyin. Düzenlenebilir sahne ve dikey formatta 15 saniyelik bir kamera gezintisi teslim edin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"
+    },
+    "2096501340889374883": {
+      "title": "Üst kat planından Blender önizlemesine",
+      "description": "Bir evin en üst kat planını kullanarak Blender sahnesi oluşturun ve düşük örnek sayısıyla 10 saniyelik önizleme render’ı alın. Malzemeleri iyileştirmeden önce mekânsal düzenin anlaşılır olmasına öncelik verin.",
+      "prompt": "Bir evin en üst kat planını kullanarak Blender sahnesi oluşturun ve düşük örnek sayısıyla 10 saniyelik önizleme render’ı alın. Malzemeleri iyileştirmeden önce mekânsal düzenin anlaşılır olmasına öncelik verin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883"
+    },
+    "2096298425914450021": {
+      "title": "Lizbon’daki Terreiro do Paço Blender’da",
+      "description": "Lizbon’daki Terreiro do Paço’yu düzenlenebilir bir Blender sahnesi olarak yeniden oluşturun. Meydanın mimarisini, malzemelerini ve aydınlatmasını belirlemek için referans araştırması yapın.",
+      "prompt": "Lizbon’daki Terreiro do Paço’yu düzenlenebilir bir Blender sahnesi olarak yeniden oluşturun. Meydanın mimarisini, malzemelerini ve aydınlatmasını belirlemek için referans araştırması yapın.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021"
+    },
+    "2096574297703637111": {
+      "title": "The Quiet Crossing keşif macerası",
+      "description": "Blender karakteri, voksel çam ağaçları ve taş bir geçit içeren karlı bir Three.js keşif oyunu oluşturun. Altı parlayan parçanın toplanmasını sağlayın, kamerayı karaktere takip ettirin ve geçide olan mesafeyi gösterin.",
+      "prompt": "Blender karakteri, voksel çam ağaçları ve taş bir geçit içeren karlı bir Three.js keşif oyunu oluşturun. Altı parlayan parçanın toplanmasını sağlayın, kamerayı karaktere takip ettirin ve geçide olan mesafeyi gösterin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111"
+    },
+    "2096263046918197609": {
+      "title": "Three.js ile yoğun prosedürel orman",
+      "description": "Binlerce ağaç, sık çimenler ve eğrelti otları içeren ayrıntılı bir Three.js ormanı oluşturun. Sahnenin tamamındaki ayrıntıyı korumak için özel shader’lar ve verimli geometri tekrarı kullanın.",
+      "prompt": "Binlerce ağaç, sık çimenler ve eğrelti otları içeren ayrıntılı bir Three.js ormanı oluşturun. Sahnenin tamamındaki ayrıntıyı korumak için özel shader’lar ve verimli geometri tekrarı kullanın.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609"
+    },
+    "2096013228090245181": {
+      "title": "Referanslardan TP-7 kayıt cihazı modeli",
+      "description": "Teenage Engineering TP-7’yi referans görsellerinden Three.js içinde yeniden oluşturun. Biçimini ve görünür kontrollerini incelenebilir bir 3D modelde eşleştirin.",
+      "prompt": "Teenage Engineering TP-7’yi referans görsellerinden Three.js içinde yeniden oluşturun. Biçimini ve görünür kontrollerini incelenebilir bir 3D modelde eşleştirin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/tp-7-recorder-reference-model-2096013228090245181"
+    },
+    "2096577430274429157": {
+      "title": "Kırsalda ilerleyen buharlı lokomotif",
+      "description": "Three.js ile bir buharlı lokomotif modelleyin ve kırsal bir sahnede ilerleyişini canlandırın. Tekerlek hareketlerini trenin hareketiyle eşitleyin.",
+      "prompt": "Three.js ile bir buharlı lokomotif modelleyin ve kırsal bir sahnede ilerleyişini canlandırın. Tekerlek hareketlerini trenin hareketiyle eşitleyin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157"
+    },
+    "2096561346766877106": {
+      "title": "Masa üstünde pikap sahnesi",
+      "description": "Three.js ile masa üstünde bir pikap sahnesi oluşturun. Lambaların yandığı ve kameranın pikabı çevredeki mobilyalarla birlikte gösterdiği bir ürün sunumu hazırlayın.",
+      "prompt": "Three.js ile masa üstünde bir pikap sahnesi oluşturun. Lambaların yandığı ve kameranın pikabı çevredeki mobilyalarla birlikte gösterdiği bir ürün sunumu hazırlayın.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106"
+    },
+    "2096555856204644550": {
+      "title": "Koleksiyon kartı savaş oyununun döngüsü",
+      "description": "Three.js ile bir koleksiyon kartı prototipi oluşturun: deste ve kart paketleri satın alma, deste hazırlama, savaş arenasına girme ve ödül kazanma. Geçici mesh’lerin bitmiş varlıklarla değiştirilebilmesini sağlayın.",
+      "prompt": "Three.js ile bir koleksiyon kartı prototipi oluşturun: deste ve kart paketleri satın alma, deste hazırlama, savaş arenasına girme ve ödül kazanma. Geçici mesh’lerin bitmiş varlıklarla değiştirilebilmesini sağlayın.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/trading-card-battle-game-loop-2096555856204644550"
+    },
+    "2096362653480562751": {
+      "title": "Demiryolu ağı simülasyon oyunu",
+      "description": "Bir Three.js tren modelini şehirler, kavşaklar, nehirler ve köprüler içeren bir demiryolu simülasyonuna dönüştürün. Tren takip, serbest 3D ve izometrik kameralar ile duman efektleri ekleyin.",
+      "prompt": "Bir Three.js tren modelini şehirler, kavşaklar, nehirler ve köprüler içeren bir demiryolu simülasyonuna dönüştürün. Tren takip, serbest 3D ve izometrik kameralar ile duman efektleri ekleyin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/railway-network-simulation-game-2096362653480562751"
+    },
+    "2096490395614019793": {
+      "title": "Yürüyerek keşfedilen düşük poligonlu Gwacheon köyü",
+      "description": "Tek bir HTML dosyasında Gwacheon’dan esinlenen, sıcak atmosferli ve keşfedilebilir düşük poligonlu bir köy oluşturun. Prosedürel 3D çevreyi, atmosferi, arayüzü ve etkileşimleri birleştirin.",
+      "prompt": "Tek bir HTML dosyasında Gwacheon’dan esinlenen, sıcak atmosferli ve keşfedilebilir düşük poligonlu bir köy oluşturun. Prosedürel 3D çevreyi, atmosferi, arayüzü ve etkileşimleri birleştirin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793"
+    },
+    "2096505740643246231": {
+      "title": "Three.js ile tamamlanmış bulmaca bölümü",
+      "description": "Three.js ile oynanabilir mekanikleri de içeren eksiksiz bir 3D bulmaca oyunu bölümü oluşturun. Bölüm ve etkileşimler çalıştıktan sonra sağlanan sesleri entegre edin.",
+      "prompt": "Three.js ile oynanabilir mekanikleri de içeren eksiksiz bir 3D bulmaca oyunu bölümü oluşturun. Bölüm ve etkileşimler çalıştıktan sonra sağlanan sesleri entegre edin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/complete-three-js-puzzle-level-2096505740643246231"
+    },
+    "2096570815714414844": {
+      "title": "Düşük poligonlu sahilde hazine avı",
+      "description": "Unity’de sahilde geçen oynanabilir bir 3D hazine avı oluşturun. Düşük poligonlu palmiyeler ve ahşap platformlar modelleyin; temel keşif ve hazine bulma döngüsünü kurun.",
+      "prompt": "Unity’de sahilde geçen oynanabilir bir 3D hazine avı oluşturun. Düşük poligonlu palmiyeler ve ahşap platformlar modelleyin; temel keşif ve hazine bulma döngüsünü kurun.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844"
+    },
+    "2096560142871658589": {
+      "title": "Unity VFX ile Blender modelleri",
+      "description": "Sahne modellerini Blender’da oluşturup Unity’ye aktarın. VFX Graph ile efektler ekleyin ve modeller ile efektlerin birlikte açıkça seçilebildiği bir aydınlatma kurun.",
+      "prompt": "Sahne modellerini Blender’da oluşturup Unity’ye aktarın. VFX Graph ile efektler ekleyin ve modeller ile efektlerin birlikte açıkça seçilebildiği bir aydınlatma kurun.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/blender-models-with-unity-vfx-2096560142871658589"
+    },
+    "2096556692842348826": {
+      "title": "Telefonda oynanabilen Unity ralli oyunu",
+      "description": "Codex, Blender ve Unity ile bir ralli sürüş prototipi oluşturun. 3D varlıklarını ve kontrollerini telefonda oyun testine uygun hâle getirin.",
+      "prompt": "Codex, Blender ve Unity ile bir ralli sürüş prototipi oluşturun. 3D varlıklarını ve kontrollerini telefonda oyun testine uygun hâle getirin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826"
+    },
+    "2096572429066006845": {
+      "title": "SpeedTree’de Hint mango ağacı",
+      "description": "60 FPS hedefleyen bir Unreal sahnesi için SpeedTree’de Hint mango ağacı oluşturun. Yaprak ve kabuk malzemelerini üretin ve varlığı tamamlamadan önce görünümlerini değerlendirin.",
+      "prompt": "60 FPS hedefleyen bir Unreal sahnesi için SpeedTree’de Hint mango ağacı oluşturun. Yaprak ve kabuk malzemelerini üretin ve varlığı tamamlamadan önce görünümlerini değerlendirin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Unreal Engine"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845"
+    },
+    "2096566598689783878": {
+      "title": "Tripo karakterine doku ve rig hazırlama",
+      "description": "Bir Tripo Smart Mesh karakterini Blender’a aktarın. Yüz ifadelerine geçmeden önce dokularını uygulayın ve kullanılabilir bir gövde rig’i oluşturun.",
+      "prompt": "Bir Tripo Smart Mesh karakterini Blender’a aktarın. Yüz ifadelerine geçmeden önce dokularını uygulayın ve kullanılabilir bir gövde rig’i oluşturun.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878"
+    },
+    "2096064140510970318": {
+      "title": "The Legend of Astra oyun prototipi",
+      "description": "Blender’da hazırlanmış sahneler ve Tripo varlıkları kullanarak Unity’de bir 3D macera oyunu prototipi oluşturun. Karakter animasyonunu oynanabilir demoya entegre edin.",
+      "prompt": "Blender’da hazırlanmış sahneler ve Tripo varlıkları kullanarak Unity’de bir 3D macera oyunu prototipi oluşturun. Karakter animasyonunu oynanabilir demoya entegre edin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/the-legend-of-astra-game-prototype-2096064140510970318"
+    },
+    "2096566686266597754": {
+      "title": "Daire eskizinden iç mekân render’larına",
+      "description": "Bir dairenin referans görsellerini basit bir kat planı eskiziyle birleştirerek iç mekânı Blender’da yeniden oluşturun. Düzenlenebilir sahne, oda render’ları ve kısa, kurgulanmış bir gezinti videosu teslim edin.",
+      "prompt": "Bir dairenin referans görsellerini basit bir kat planı eskiziyle birleştirerek iç mekânı Blender’da yeniden oluşturun. Düzenlenebilir sahne, oda render’ları ve kısa, kurgulanmış bir gezinti videosu teslim edin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754"
+    },
+    "2095993826569502785": {
+      "title": "Tarayıcıda etkileşimli nehir sahnesi",
+      "description": "Tarayıcıda çalışan etkileşimli bir nehir sahnesi oluşturun. Önce çalışan bir gerçek zamanlı su prototipi kurun, ardından görsel sonucu inceleyip iyileştirin.",
+      "prompt": "Tarayıcıda çalışan etkileşimli bir nehir sahnesi oluşturun. Önce çalışan bir gerçek zamanlı su prototipi kurun, ardından görsel sonucu inceleyip iyileştirin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/interactive-browser-river-scene-2095993826569502785"
+    },
+    "2096128774203171021": {
+      "title": "Akşam ışığında Adiyogi kamera uçuşu",
+      "description": "Blender’da geniş araziler, ayrıntılı yakın çekimler ve sıcak akşam ışığı içeren bir Adiyogi sahnesi oluşturun. 30 saniyelik bir kamera uçuşu render’ı alın ve düzenlenebilir sahneyi koruyun.",
+      "prompt": "Blender’da geniş araziler, ayrıntılı yakın çekimler ve sıcak akşam ışığı içeren bir Adiyogi sahnesi oluşturun. 30 saniyelik bir kamera uçuşu render’ı alın ve düzenlenebilir sahneyi koruyun.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/adiyogi-evening-fly-through-2096128774203171021"
+    },
+    "2096521798150242631": {
+      "title": "Geometry Nodes ile döngüsel su yüzeyi",
+      "description": "Blender Geometry Nodes ile bake işlemi gerektirmeyen periyodik bir su yüzeyi efekti oluşturun. Düğüm düzenini düzenlenebilir tutun ve bunu tam bir akışkan simülasyonu değil, yüzey modeli olarak açıklayın.",
+      "prompt": "Blender Geometry Nodes ile bake işlemi gerektirmeyen periyodik bir su yüzeyi efekti oluşturun. Düğüm düzenini düzenlenebilir tutun ve bunu tam bir akışkan simülasyonu değil, yüzey modeli olarak açıklayın.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631"
+    },
+    "2096518775042707700": {
+      "title": "One Piece esintili denizcilik dünyası",
+      "description": "Blender gemisi ve Three.js okyanusuyla oynanabilir bir denizcilik dünyası oluşturun. Değişen hava koşulları, su altı keşfi, gemi izi, köpük, su sıçramaları ve hareketli yelkenler ekleyin.",
+      "prompt": "Blender gemisi ve Three.js okyanusuyla oynanabilir bir denizcilik dünyası oluşturun. Değişen hava koşulları, su altı keşfi, gemi izi, köpük, su sıçramaları ve hareketli yelkenler ekleyin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700"
+    },
+    "2096572156453028193": {
+      "title": "Etkileşimli Lorenz çekicisi",
+      "description": "Başlangıç konumları arasında çok küçük fark bulunan iki Lorenz sistemi yörüngesini görselleştirin. İzleyicilerin bu farkı değiştirmesini ve zaman içinde gezinmesini sağlayın; sayısal kontrolleri kesin uzun vadeli tahminlerden ayırın.",
+      "prompt": "Başlangıç konumları arasında çok küçük fark bulunan iki Lorenz sistemi yörüngesini görselleştirin. İzleyicilerin bu farkı değiştirmesini ve zaman içinde gezinmesini sağlayın; sayısal kontrolleri kesin uzun vadeli tahminlerden ayırın.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/interactive-lorenz-attractor-2096572156453028193"
+    },
+    "2096358854275543457": {
+      "title": "Çalışanları ve müşterileriyle işleyen taverna",
+      "description": "Bir referans görselinden tavernayı yeniden oluşturup müşteriler ve çalışanlarla doldurun. Müşteriler yiyecek ve içecek siparişi versin, çalışanlar bunları hazırlasın; çarpışma yönetimi ve yol bulma ekleyin.",
+      "prompt": "Bir referans görselinden tavernayı yeniden oluşturup müşteriler ve çalışanlarla doldurun. Müşteriler yiyecek ve içecek siparişi versin, çalışanlar bunları hazırlasın; çarpışma yönetimi ve yol bulma ekleyin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457"
+    },
+    "2096506357868642342": {
+      "title": "Kişisel odadan etkileşimli portfolyoya",
+      "description": "Kişisel bir odayı etkileşimli bir tanıtım sitesine dönüştürün. Sahneyi Blender’da oluşturup bake işlemini yapın; ardından kahve buharı, Matrix tarzı animasyon ve hafif shader efektleri ekleyin.",
+      "prompt": "Kişisel bir odayı etkileşimli bir tanıtım sitesine dönüştürün. Sahneyi Blender’da oluşturup bake işlemini yapın; ardından kahve buharı, Matrix tarzı animasyon ve hafif shader efektleri ekleyin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342"
+    },
+    "2096503275910832461": {
+      "title": "Sakin bir 3D denizde YF-24 teknesi",
+      "description": "Blender’da bir YF-24 teknesi modelleyin ve Beaufort ölçeğinde kuvvet 2 koşullarındaki üç boyutlu denizde ilerleyişini canlandırın. Biçimini iyileştirmek için tekne referanslarından yararlanın.",
+      "prompt": "Blender’da bir YF-24 teknesi modelleyin ve Beaufort ölçeğinde kuvvet 2 koşullarındaki üç boyutlu denizde ilerleyişini canlandırın. Biçimini iyileştirmek için tekne referanslarından yararlanın.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"
+    },
+    "2096413869841473930": {
+      "title": "D4 esintili oynanabilir daire",
+      "description": "D4’ün başkarakterinin dairesini araştırıp oynanabilir bir 3D prototip olarak yeniden oluşturun. Birebir kopya olduğunu varsaymak yerine yerleşimi ve etkileşimleri referanslarla karşılaştırın.",
+      "prompt": "D4’ün başkarakterinin dairesini araştırıp oynanabilir bir 3D prototip olarak yeniden oluşturun. Birebir kopya olduğunu varsaymak yerine yerleşimi ve etkileşimleri referanslarla karşılaştırın.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/playable-d4-inspired-apartment-2096413869841473930"
+    },
+    "2096398839830008292": {
+      "title": "Hazır karakterle tarayıcıda şehir oyunu",
+      "description": "Oyuncu karakteri olarak RIO_MA002.fbx kullanan bir WebGL şehir oyunu oluşturun. Referans verilen araçları ve sokakları Blender’da modelleyin; ardından NPC’leri, sürüş fiziğini, parçalanabilir nesneleri ve banliyö alanlarını geliştirin.",
+      "prompt": "Oyuncu karakteri olarak RIO_MA002.fbx kullanan bir WebGL şehir oyunu oluşturun. Referans verilen araçları ve sokakları Blender’da modelleyin; ardından NPC’leri, sürüş fiziğini, parçalanabilir nesneleri ve banliyö alanlarını geliştirin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/browser-city-game-with-a-supplied-character-2096398839830008292"
+    },
+    "2096339041679442428": {
+      "title": "Yörüngeleriyle Güneş Sistemi gezgini",
+      "description": "Three.js ile tarayıcıda çalışan, sekiz gezegen ve yirmi uydu içeren bir Güneş Sistemi gezgini oluşturun. Kamera hareketine ve basitleştirilmiş uzay uçuşu planlamasına olanak tanıyın.",
+      "prompt": "Three.js ile tarayıcıda çalışan, sekiz gezegen ve yirmi uydu içeren bir Güneş Sistemi gezgini oluşturun. Kamera hareketine ve basitleştirilmiş uzay uçuşu planlamasına olanak tanıyın.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/orbital-solar-system-explorer-2096339041679442428"
+    },
+    "2096093614397170104": {
+      "title": "WebGL ile kara delik oluşumu",
+      "description": "WebGL görselleştirmeleriyle kara delik oluşumunu anlatan eğitici bir slayt sunumu oluşturun. Açıklamalara animasyonlu 3D sahneler eşlik etsin.",
+      "prompt": "WebGL görselleştirmeleriyle kara delik oluşumunu anlatan eğitici bir slayt sunumu oluşturun. Açıklamalara animasyonlu 3D sahneler eşlik etsin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/black-hole-formation-in-webgl-2096093614397170104"
+    },
+    "2096559197999501724": {
+      "title": "2D logodan animasyonlu karaktere",
+      "description": "Sağlanan 2D karakter logosunu animasyonlu bir 3D sürüme dönüştürün. Karakter hacim ve hareket kazanırken tanınabilir kimliğini koruyun.",
+      "prompt": "Sağlanan 2D karakter logosunu animasyonlu bir 3D sürüme dönüştürün. Karakter hacim ve hareket kazanırken tanınabilir kimliğini koruyun.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724"
+    },
+    "2096337879173591171": {
+      "title": "Eylem odaklı mekaniklere sahip yengeç oyunu",
+      "description": "Görünüm, karakter, dünya, eylemler, hedefler, arayüz ve kamerayı kapsayan yapılandırılmış bir brief’ten Three.js yengeç oyunu oluşturun. Geçen yengece doğru paraların yükselip uçmasını sağlayın; çelişkili gereksinimleri belirtin.",
+      "prompt": "Görünüm, karakter, dünya, eylemler, hedefler, arayüz ve kamerayı kapsayan yapılandırılmış bir brief’ten Three.js yengeç oyunu oluşturun. Geçen yengece doğru paraların yükselip uçmasını sağlayın; çelişkili gereksinimleri belirtin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171"
+    },
+    "2096262733259837681": {
+      "title": "Voksellerle Cluj-Napoca Birlik Meydanı",
+      "description": "Cluj-Napoca’daki Piața Unirii’nin etkileşimli voksel dünyasını oluşturun. Meydanın tanınabilir yerleşimini ve simge yapılarını keşfedilebilir bir minyatüre uyarlayın.",
+      "prompt": "Cluj-Napoca’daki Piața Unirii’nin etkileşimli voksel dünyasını oluşturun. Meydanın tanınabilir yerleşimini ve simge yapılarını keşfedilebilir bir minyatüre uyarlayın.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681"
+    },
+    "2096555183790575682": {
+      "title": "Gece-gündüz döngülü Yıldızlı Gece köyü",
+      "description": "Van Gogh’un Yıldızlı Gece tablosunu sakinleri, aydınlatması ve gece-gündüz döngüsü olan keşfedilebilir bir 3D köye dönüştürün. Tamamlanan dünyanın içinden geçen kısa bir film render’ı alın.",
+      "prompt": "Van Gogh’un Yıldızlı Gece tablosunu sakinleri, aydınlatması ve gece-gündüz döngüsü olan keşfedilebilir bir 3D köye dönüştürün. Tamamlanan dünyanın içinden geçen kısa bir film render’ı alın.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/starry-night-village-with-a-day-night-cycle-2096555183790575682"
+    },
+    "2096510126244999366": {
+      "title": "Referansa uyumlu Three.js arayüzü",
+      "description": "Three.js ile bir referansı tek HTML dosyasında yeniden oluşturun. Sonucu tekrar tekrar karşılaştırıp farkları düzeltin; aydınlatmayı, model derinliğini ve cam görünümlü kontrolleri işaretçiye tepki veren hafif efektlerle iyileştirin.",
+      "prompt": "Three.js ile bir referansı tek HTML dosyasında yeniden oluşturun. Sonucu tekrar tekrar karşılaştırıp farkları düzeltin; aydınlatmayı, model derinliğini ve cam görünümlü kontrolleri işaretçiye tepki veren hafif efektlerle iyileştirin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/reference-matched-three-js-interface-2096510126244999366"
+    },
+    "2096481425050743048": {
+      "title": "Üretilen 3D varlıkları birleştirme ve canlandırma",
+      "description": "Tripo P2 ile optimize edilmiş 3D varlıklar üretin, bunları Blender’da birleştirin ve karakterlere rig ile animasyon ekleyin. Karakterlerle sahnenin mekânsal olarak nasıl bir araya geldiğini inceleyin.",
+      "prompt": "Tripo P2 ile optimize edilmiş 3D varlıklar üretin, bunları Blender’da birleştirin ve karakterlere rig ile animasyon ekleyin. Karakterlerle sahnenin mekânsal olarak nasıl bir araya geldiğini inceleyin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048"
+    },
+    "2096269057544831175": {
+      "title": "Biyolüminesanslı derin deniz açılış sayfası",
+      "description": "Three.js su efektleri, koyu cam görünümlü arayüz ve kaydırmaya bağlı hareketlerle bir derin deniz açılış sayfası oluşturun. 3D atmosferi, anlaşılır ve farklı ekranlara uyum sağlayan web etkileşimleriyle birleştirin.",
+      "prompt": "Three.js su efektleri, koyu cam görünümlü arayüz ve kaydırmaya bağlı hareketlerle bir derin deniz açılış sayfası oluşturun. 3D atmosferi, anlaşılır ve farklı ekranlara uyum sağlayan web etkileşimleriyle birleştirin.",
+      "evidenceNote": "Yazarın kamuya açık proje açıklamasından uyarlandı.",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/tr/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175"
     }
   }
 }

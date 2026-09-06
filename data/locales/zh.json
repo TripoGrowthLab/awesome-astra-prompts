@@ -1,7 +1,7 @@
 {
   "locale": "zh",
   "model": "gpt-6-astra",
-  "count": 103,
+  "count": 153,
   "prompts": {
     "2095596175705399482": {
       "title": "Unreal 自主人类生存社会",
@@ -1223,6 +1223,556 @@
         "Blender"
       ],
       "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/formula-one-car-in-blender-2096125193580113957"
+    },
+    "2096525100518453342": {
+      "title": "Blender 角色表情切换",
+      "description": "在绑定骨骼前，将 Tripo 角色的不同表情模型在 Blender 中对齐，通过离散切换显示表情，把未启用的网格缩小收进头部。不要将这种方法描述为平滑表情混合，也不要假定它兼容 VRM。",
+      "prompt": "在绑定骨骼前，将 Tripo 角色的不同表情模型在 Blender 中对齐，通过离散切换显示表情，把未启用的网格缩小收进头部。不要将这种方法描述为平滑表情混合，也不要假定它兼容 VRM。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"
+    },
+    "2096308567863079420": {
+      "title": "Unity 魔兽风格角色场景",
+      "description": "使用 Astra、Tripo P2、Blender 和 Unity 制作魔兽风格角色场景。先生成角色资产，在 Blender 中整理，再在 Unity 中搭建可玩的场景。",
+      "prompt": "使用 Astra、Tripo P2、Blender 和 Unity 制作魔兽风格角色场景。先生成角色资产，在 Blender 中整理，再在 Unity 中搭建可玩的场景。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420"
+    },
+    "2096015772334047319": {
+      "title": "搭配 Tripo 资产的 Three.js 战斗竞技场",
+      "description": "在 Three.js 中制作可玩的战斗竞技场。使用 Tripo 生成角色和树木，并将它们融入场景与游戏循环。",
+      "prompt": "在 Three.js 中制作可玩的战斗竞技场。使用 Tripo 生成角色和树木，并将它们融入场景与游戏循环。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/three-js-battle-arena-with-tripo-assets-2096015772334047319"
+    },
+    "2096579856133947507": {
+      "title": "可旋转的 3D 将棋棋盘",
+      "description": "制作可玩的 3D 将棋应用，让棋盘能够自由旋转。通过逐轮检查完善棋盘、棋子和交互。",
+      "prompt": "制作可玩的 3D 将棋应用，让棋盘能够自由旋转。通过逐轮检查完善棋盘、棋子和交互。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/rotatable-3d-shogi-board-2096579856133947507"
+    },
+    "2096578761877860502": {
+      "title": "台式电脑交互拆解图谱",
+      "description": "制作交互式 3D 网站，将台式电脑拆解为 29 个核心部件，为各部件添加拆解动画和说明。",
+      "prompt": "制作交互式 3D 网站，将台式电脑拆解为 29 个核心部件，为各部件添加拆解动画和说明。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502"
+    },
+    "2096578684010508736": {
+      "title": "儿童房兼工作区布局规划",
+      "description": "根据房间四角照片与长宽尺寸，重建兼作工作区的儿童房。提供成人视角、儿童视角、全景和不同的家具布置方案。",
+      "prompt": "根据房间四角照片与长宽尺寸，重建兼作工作区的儿童房。提供成人视角、儿童视角、全景和不同的家具布置方案。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736"
+    },
+    "2095999282088378520": {
+      "title": "平面图与 3D 漫游联动",
+      "description": "用同一组尺寸数据制作一居室的平面图和 3D 漫游，让两种视图中的当前位置同步，并清楚标注假设的层高与装修材质。",
+      "prompt": "用同一组尺寸数据制作一居室的平面图和 3D 漫游，让两种视图中的当前位置同步，并清楚标注假设的层高与装修材质。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520"
+    },
+    "2096557555086725159": {
+      "title": "首尔交互式微缩城市",
+      "description": "使用开放地图数据，在 Three.js 中搭建首尔微缩城市。加入行政区导航、地标飞行浏览、昼夜模式与触控操作，说明建筑简化方式、估算高度及数据许可。",
+      "prompt": "使用开放地图数据，在 Three.js 中搭建首尔微缩城市。加入行政区导航、地标飞行浏览、昼夜模式与触控操作，说明建筑简化方式、估算高度及数据许可。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/interactive-miniature-of-seoul-2096557555086725159"
+    },
+    "2096551010089263181": {
+      "title": "双环能量核心交互展示",
+      "description": "在 Blender 中制作能量核心、双环和金属底座，保留材质导出到 Three.js 查看器，支持旋转、缩放、自动环绕和脉冲效果控制。",
+      "prompt": "在 Blender 中制作能量核心、双环和金属底座，保留材质导出到 Three.js 查看器，支持旋转、缩放、自动环绕和脉冲效果控制。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181"
+    },
+    "2096460081982304546": {
+      "title": "沿表面爬行的程序化昆虫",
+      "description": "制作能够贴着不同表面行走的多足 3D 昆虫，让腿部与身体在跨越高度变化时协调运动。",
+      "prompt": "制作能够贴着不同表面行走的多足 3D 昆虫，让腿部与身体在跨越高度变化时协调运动。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/surface-climbing-procedural-insect-2096460081982304546"
+    },
+    "2096467585785286808": {
+      "title": "驾驶莱特飞行器穿越日式森林",
+      "description": "在 Three.js 中制作驾驶 1903 年莱特飞行器穿越日式森林的游戏。研究飞机结构，不使用外部资产，以程序化方式创建飞机、树木、鸟居、房屋和山峦。",
+      "prompt": "在 Three.js 中制作驾驶 1903 年莱特飞行器穿越日式森林的游戏。研究飞机结构，不使用外部资产，以程序化方式创建飞机、树木、鸟居、房屋和山峦。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"
+    },
+    "2096576154337734865": {
+      "title": "从零搭建 Blender 住宅",
+      "description": "在 Blender 中从零搭建一栋住宅，保留可编辑场景，以便在后续迭代中检查和完善建筑。",
+      "prompt": "在 Blender 中从零搭建一栋住宅，保留可编辑场景，以便在后续迭代中检查和完善建筑。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865"
+    },
+    "2096143359505269079": {
+      "title": "咖啡店照片转竖屏漫游",
+      "description": "根据照片在 Blender 中重建咖啡店，包括木质吊顶、灯带、烘豆机、货架和绿植。交付可编辑场景与 15 秒竖屏镜头漫游。",
+      "prompt": "根据照片在 Blender 中重建咖啡店，包括木质吊顶、灯带、烘豆机、货架和绿植。交付可编辑场景与 15 秒竖屏镜头漫游。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"
+    },
+    "2096501340889374883": {
+      "title": "顶层平面图转 Blender 预览",
+      "description": "根据住宅顶层平面图搭建 Blender 场景，渲染 10 秒低采样预览。先清楚呈现空间布局，再细化材质。",
+      "prompt": "根据住宅顶层平面图搭建 Blender 场景，渲染 10 秒低采样预览。先清楚呈现空间布局，再细化材质。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883"
+    },
+    "2096298425914450021": {
+      "title": "Blender 里斯本商业广场",
+      "description": "将里斯本商业广场重建为可编辑的 Blender 场景，根据参考资料制作广场建筑、材质和光照。",
+      "prompt": "将里斯本商业广场重建为可编辑的 Blender 场景，根据参考资料制作广场建筑、材质和光照。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021"
+    },
+    "2096574297703637111": {
+      "title": "静谧渡口探索任务",
+      "description": "制作雪地 Three.js 探索游戏，在 Blender 中创建角色、体素松树和石质传送门。让玩家收集六个发光碎片，镜头跟随角色，并显示距传送门的距离。",
+      "prompt": "制作雪地 Three.js 探索游戏，在 Blender 中创建角色、体素松树和石质传送门。让玩家收集六个发光碎片，镜头跟随角色，并显示距传送门的距离。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111"
+    },
+    "2096263046918197609": {
+      "title": "Three.js 高密度程序化森林",
+      "description": "在 Three.js 中制作包含数千棵树、茂密草丛与蕨类的森林，使用自定义着色器和高效复用的几何体保留场景细节。",
+      "prompt": "在 Three.js 中制作包含数千棵树、茂密草丛与蕨类的森林，使用自定义着色器和高效复用的几何体保留场景细节。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609"
+    },
+    "2096013228090245181": {
+      "title": "TP-7 录音机参考建模",
+      "description": "根据参考图片，在 Three.js 中重建 Teenage Engineering TP-7，制作可查看的 3D 模型，还原外形与可见控件。",
+      "prompt": "根据参考图片，在 Three.js 中重建 Teenage Engineering TP-7，制作可查看的 3D 模型，还原外形与可见控件。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/tp-7-recorder-reference-model-2096013228090245181"
+    },
+    "2096577430274429157": {
+      "title": "穿越田园的蒸汽机车",
+      "description": "在 Three.js 中制作蒸汽机车，让它行驶于田园场景，并使车轮转动与列车运动同步。",
+      "prompt": "在 Three.js 中制作蒸汽机车，让它行驶于田园场景，并使车轮转动与列车运动同步。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157"
+    },
+    "2096561346766877106": {
+      "title": "黑胶唱机桌面场景",
+      "description": "在 Three.js 中搭建桌上的黑胶唱机场景，制作产品展示式演示：灯具亮起，镜头展示唱机与周围家具。",
+      "prompt": "在 Three.js 中搭建桌上的黑胶唱机场景，制作产品展示式演示：灯具亮起，镜头展示唱机与周围家具。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106"
+    },
+    "2096555856204644550": {
+      "title": "集换式卡牌战斗循环",
+      "description": "制作 Three.js 集换式卡牌原型：购买牌组和补充包、组牌、进入竞技场战斗并获得奖励。让占位网格可以替换为成品资产。",
+      "prompt": "制作 Three.js 集换式卡牌原型：购买牌组和补充包、组牌、进入竞技场战斗并获得奖励。让占位网格可以替换为成品资产。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/trading-card-battle-game-loop-2096555856204644550"
+    },
+    "2096362653480562751": {
+      "title": "铁路网络模拟游戏",
+      "description": "将 Three.js 列车模型扩展为包含城市、道岔、河流和桥梁的铁路模拟游戏，加入列车跟随、自由 3D 与等距视角，以及烟雾效果。",
+      "prompt": "将 Three.js 列车模型扩展为包含城市、道岔、河流和桥梁的铁路模拟游戏，加入列车跟随、自由 3D 与等距视角，以及烟雾效果。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/railway-network-simulation-game-2096362653480562751"
+    },
+    "2096490395614019793": {
+      "title": "可漫游的低多边形果川村落",
+      "description": "在单个 HTML 文件中制作以果川为灵感、可探索的温馨低多边形村落，将程序化 3D 场景、氛围、界面与交互结合起来。",
+      "prompt": "在单个 HTML 文件中制作以果川为灵感、可探索的温馨低多边形村落，将程序化 3D 场景、氛围、界面与交互结合起来。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793"
+    },
+    "2096505740643246231": {
+      "title": "完整的 Three.js 解谜关卡",
+      "description": "在 Three.js 中搭建完整的 3D 解谜关卡及可玩的机制，在关卡与交互正常运行后接入提供的音频。",
+      "prompt": "在 Three.js 中搭建完整的 3D 解谜关卡及可玩的机制，在关卡与交互正常运行后接入提供的音频。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/complete-three-js-puzzle-level-2096505740643246231"
+    },
+    "2096570815714414844": {
+      "title": "低多边形海滩寻宝",
+      "description": "在 Unity 中制作可玩的 3D 海滩寻宝游戏，搭建低多边形棕榈树与木栈台，建立探索和寻找宝藏的核心循环。",
+      "prompt": "在 Unity 中制作可玩的 3D 海滩寻宝游戏，搭建低多边形棕榈树与木栈台，建立探索和寻找宝藏的核心循环。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844"
+    },
+    "2096560142871658589": {
+      "title": "Blender 模型与 Unity 视觉特效",
+      "description": "在 Blender 中创建场景模型并导入 Unity，使用 VFX Graph 添加特效，布置光照，让模型与特效在画面中清楚协调。",
+      "prompt": "在 Blender 中创建场景模型并导入 Unity，使用 VFX Graph 添加特效，布置光照，让模型与特效在画面中清楚协调。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/blender-models-with-unity-vfx-2096560142871658589"
+    },
+    "2096556692842348826": {
+      "title": "可在手机试玩的 Unity 拉力赛",
+      "description": "使用 Codex、Blender 和 Unity 制作拉力驾驶原型，整理 3D 资产与控制方式，使其能够在手机上试玩。",
+      "prompt": "使用 Codex、Blender 和 Unity 制作拉力驾驶原型，整理 3D 资产与控制方式，使其能够在手机上试玩。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826"
+    },
+    "2096572429066006845": {
+      "title": "SpeedTree 印度芒果树",
+      "description": "在 SpeedTree 中制作印度芒果树，用于目标为 60 FPS 的 Unreal 场景。生成叶片和树皮材质，在确定资产前检查其视觉效果。",
+      "prompt": "在 SpeedTree 中制作印度芒果树，用于目标为 60 FPS 的 Unreal 场景。生成叶片和树皮材质，在确定资产前检查其视觉效果。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Unreal Engine"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845"
+    },
+    "2096566598689783878": {
+      "title": "为 Tripo 角色贴图并绑定骨骼",
+      "description": "将 Tripo Smart Mesh 角色导入 Blender，应用贴图并建立可用的身体骨骼绑定，再继续制作面部表情。",
+      "prompt": "将 Tripo Smart Mesh 角色导入 Blender，应用贴图并建立可用的身体骨骼绑定，再继续制作面部表情。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878"
+    },
+    "2096064140510970318": {
+      "title": "Astra 传说游戏原型",
+      "description": "在 Unity 中制作 3D 冒险游戏原型，使用经 Blender 整理的场景和 Tripo 资产，并把角色动画接入可玩的演示。",
+      "prompt": "在 Unity 中制作 3D 冒险游戏原型，使用经 Blender 整理的场景和 Tripo 资产，并把角色动画接入可玩的演示。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Unity"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/the-legend-of-astra-game-prototype-2096064140510970318"
+    },
+    "2096566686266597754": {
+      "title": "公寓草图转室内渲染",
+      "description": "结合公寓参考图与简单的平面草图，在 Blender 中重建室内。交付可编辑场景、各房间渲染图和剪辑后的短篇漫游。",
+      "prompt": "结合公寓参考图与简单的平面草图，在 Blender 中重建室内。交付可编辑场景、各房间渲染图和剪辑后的短篇漫游。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754"
+    },
+    "2095993826569502785": {
+      "title": "浏览器交互式河流场景",
+      "description": "制作在浏览器中运行的交互式河流场景，先完成实时水面原型，再检查并细化视觉效果。",
+      "prompt": "制作在浏览器中运行的交互式河流场景，先完成实时水面原型，再检查并细化视觉效果。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/interactive-browser-river-scene-2095993826569502785"
+    },
+    "2096128774203171021": {
+      "title": "阿迪瑜伽雕像黄昏飞行浏览",
+      "description": "在 Blender 中搭建阿迪瑜伽雕像场景，呈现宽阔场地、细节特写和温暖的黄昏光线。渲染 30 秒飞行浏览视频，保留可编辑场景。",
+      "prompt": "在 Blender 中搭建阿迪瑜伽雕像场景，呈现宽阔场地、细节特写和温暖的黄昏光线。渲染 30 秒飞行浏览视频，保留可编辑场景。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/adiyogi-evening-fly-through-2096128774203171021"
+    },
+    "2096521798150242631": {
+      "title": "几何节点循环水面",
+      "description": "使用 Blender 几何节点制作无需烘焙的周期性水面效果。保留可编辑节点，并说明它是水面模型，而非完整的流体模拟。",
+      "prompt": "使用 Blender 几何节点制作无需烘焙的周期性水面效果。保留可编辑节点，并说明它是水面模型，而非完整的流体模拟。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631"
+    },
+    "2096518775042707700": {
+      "title": "海贼王风格航海世界",
+      "description": "使用 Blender 船只模型和 Three.js 海洋搭建可玩的航海世界，加入天气变化、水下探索、尾流、泡沫、水花和飘动的船帆。",
+      "prompt": "使用 Blender 船只模型和 Three.js 海洋搭建可玩的航海世界，加入天气变化、水下探索、尾流、泡沫、水花和飘动的船帆。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700"
+    },
+    "2096572156453028193": {
+      "title": "交互式洛伦兹吸引子",
+      "description": "将初始位置仅有微小差异的两条洛伦兹系统轨迹可视化，让观众调整差异并拖动时间，同时区分数值检验与精确的长期预测。",
+      "prompt": "将初始位置仅有微小差异的两条洛伦兹系统轨迹可视化，让观众调整差异并拖动时间，同时区分数值检验与精确的长期预测。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/interactive-lorenz-attractor-2096572156453028193"
+    },
+    "2096358854275543457": {
+      "title": "有员工与顾客互动的酒馆",
+      "description": "根据参考图重建酒馆，加入顾客与员工。让顾客点餐点酒、员工准备食物和饮品，并实现碰撞处理与寻路。",
+      "prompt": "根据参考图重建酒馆，加入顾客与员工。让顾客点餐点酒、员工准备食物和饮品，并实现碰撞处理与寻路。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457"
+    },
+    "2096506357868642342": {
+      "title": "用自己的房间做交互式作品集",
+      "description": "将自己的房间变成互动式自我介绍网站，在 Blender 中搭建并烘焙场景，再加入咖啡热气、Matrix 风格动画和细腻的着色器效果。",
+      "prompt": "将自己的房间变成互动式自我介绍网站，在 Blender 中搭建并烘焙场景，再加入咖啡热气、Matrix 风格动画和细腻的着色器效果。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342"
+    },
+    "2096503275910832461": {
+      "title": "YF-24 船只与轻浪 3D 海面",
+      "description": "在 Blender 中制作 YF-24 船只模型，让它航行于蒲福风级 2 级的三维海面，使用船只参考资料改善外形。",
+      "prompt": "在 Blender 中制作 YF-24 船只模型，让它航行于蒲福风级 2 级的三维海面，使用船只参考资料改善外形。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"
+    },
+    "2096413869841473930": {
+      "title": "可游玩的 D4 风格公寓",
+      "description": "研究 D4 主角的公寓，将其重建为可游玩的 3D 原型。对照参考资料检查布局与交互，不要假定结果已经精确还原。",
+      "prompt": "研究 D4 主角的公寓，将其重建为可游玩的 3D 原型。对照参考资料检查布局与交互，不要假定结果已经精确还原。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/playable-d4-inspired-apartment-2096413869841473930"
+    },
+    "2096398839830008292": {
+      "title": "使用指定角色的浏览器城市游戏",
+      "description": "使用 RIO_MA002.fbx 作为玩家角色，制作 WebGL 城市游戏。在 Blender 中参照图片制作车辆与街道，再完善 NPC、驾驶物理、可破坏道具和郊区。",
+      "prompt": "使用 RIO_MA002.fbx 作为玩家角色，制作 WebGL 城市游戏。在 Blender 中参照图片制作车辆与街道，再完善 NPC、驾驶物理、可破坏道具和郊区。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/browser-city-game-with-a-supplied-character-2096398839830008292"
+    },
+    "2096339041679442428": {
+      "title": "Orbital 太阳系探索",
+      "description": "在 Three.js 中制作浏览器太阳系探索器，包含八颗行星和二十颗卫星，支持移动镜头和简化的航天路线规划。",
+      "prompt": "在 Three.js 中制作浏览器太阳系探索器，包含八颗行星和二十颗卫星，支持移动镜头和简化的航天路线规划。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/orbital-solar-system-explorer-2096339041679442428"
+    },
+    "2096093614397170104": {
+      "title": "WebGL 黑洞形成演示",
+      "description": "制作介绍黑洞形成的教学幻灯片，使用 WebGL 动态 3D 场景配合说明。",
+      "prompt": "制作介绍黑洞形成的教学幻灯片，使用 WebGL 动态 3D 场景配合说明。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/black-hole-formation-in-webgl-2096093614397170104"
+    },
+    "2096559197999501724": {
+      "title": "二维标志变成动画角色",
+      "description": "将提供的二维角色标志变成动画 3D 角色，在增加立体感与动作时保留其辨识度。",
+      "prompt": "将提供的二维角色标志变成动画 3D 角色，在增加立体感与动作时保留其辨识度。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724"
+    },
+    "2096337879173591171": {
+      "title": "以动作效果定义机制的螃蟹游戏",
+      "description": "根据涵盖外观、角色、世界、动作、目标、界面和镜头的结构化说明，制作 Three.js 螃蟹游戏。让金币在螃蟹经过时升起并飞向它，并指出需求中的矛盾。",
+      "prompt": "根据涵盖外观、角色、世界、动作、目标、界面和镜头的结构化说明，制作 Three.js 螃蟹游戏。让金币在螃蟹经过时升起并飞向它，并指出需求中的矛盾。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171"
+    },
+    "2096262733259837681": {
+      "title": "体素克卢日-纳波卡联合广场",
+      "description": "制作克卢日-纳波卡联合广场的交互式体素世界，将有辨识度的广场布局和地标转化为可探索的微缩场景。",
+      "prompt": "制作克卢日-纳波卡联合广场的交互式体素世界，将有辨识度的广场布局和地标转化为可探索的微缩场景。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681"
+    },
+    "2096555183790575682": {
+      "title": "带昼夜变化的星夜村落",
+      "description": "将梵高《星夜》转化为可探索的 3D 村落，加入居民、光照和昼夜循环，再拍摄穿行于这个世界的短片。",
+      "prompt": "将梵高《星夜》转化为可探索的 3D 村落，加入居民、光照和昼夜循环，再拍摄穿行于这个世界的短片。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "3D"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/starry-night-village-with-a-day-night-cycle-2096555183790575682"
+    },
+    "2096510126244999366": {
+      "title": "对照参考迭代的 Three.js 界面",
+      "description": "在一个 HTML 文件中用 Three.js 重现参考效果，反复对照并修正差异；细化光照、模型深度和玻璃质感控件，加入轻微的指针响应效果。",
+      "prompt": "在一个 HTML 文件中用 Three.js 重现参考效果，反复对照并修正差异；细化光照、模型深度和玻璃质感控件，加入轻微的指针响应效果。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/reference-matched-three-js-interface-2096510126244999366"
+    },
+    "2096481425050743048": {
+      "title": "组装并动画化生成的 3D 资产",
+      "description": "使用 Tripo P2 生成优化的 3D 资产，在 Blender 中组装，为角色绑定骨骼并添加动画，检查角色与场景在空间中的配合。",
+      "prompt": "使用 Tripo P2 生成优化的 3D 资产，在 Blender 中组装，为角色绑定骨骼并添加动画，检查角色与场景在空间中的配合。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Blender"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048"
+    },
+    "2096269057544831175": {
+      "title": "生物荧光深海主题落地页",
+      "description": "制作深海主题落地页，结合 Three.js 水面效果、深色玻璃质感界面和滚动动效，让 3D 氛围与清晰、响应流畅的网站交互协调呈现。",
+      "prompt": "制作深海主题落地页，结合 Three.js 水面效果、深色玻璃质感界面和滚动动效，让 3D 氛围与清晰、响应流畅的网站交互协调呈现。",
+      "evidenceNote": "根据作者公开的项目说明整理。",
+      "tags": [
+        "GPT-6 Astra",
+        "Three.js"
+      ],
+      "pageUrl": "https://www.tripo3d.ai/zh/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175"
     }
   }
 }

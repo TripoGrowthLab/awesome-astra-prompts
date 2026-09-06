@@ -9,6 +9,7 @@
     "catalog": "node scripts/build-catalogs.mjs",
     "validate": "node scripts/validate.mjs",
     "check": "node scripts/build-catalogs.mjs --check && node scripts/validate.mjs",
-    "vendor-media": "node scripts/vendor-media.mjs"
+    "vendor-media": "node scripts/vendor-media.mjs",
+    "featured-media": "node scripts/build-featured-media.mjs"
   }
 }
