@@ -6,6 +6,13 @@ const manifest = await read('data/manifest.json')
 const check = process.argv.includes('--check')
 const text = value => String(value).replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;').replaceAll('"', '&quot;')
 const md = value => text(value).replace(/[\[\]|]/g, char => `\\${char}`)
+const detailLabels = {
+  en: 'View detail', zh: '查看详情', es: 'Ver detalles', ko: '자세히 보기',
+  ru: 'Подробнее', pt: 'Ver detalhes', ja: '詳細を見る', tr: 'Ayrıntıları görüntüle',
+  de: 'Details ansehen', fr: 'Voir les détails', it: 'Vedi dettagli',
+  'zh-Hant': '查看詳情', uk: 'Докладніше', vi: 'Xem chi tiết',
+}
+const linkedPreview = (prompt, entry, prefix = '', width = 840) => `<a href="${text(entry.pageUrl)}"><img src="${prefix}${text(prompt.media.image)}" width="${width}" loading="lazy" alt="${text(entry.title)}"></a>`
 const labels = {
   en: ['English', 'All Astra examples', 'Source-derived brief', 'Published prompt', 'Original post', 'Source code', 'Live demo', 'Preview'],
   zh: ['简体中文', 'Astra 完整案例目录', '来源整理稿', '已公开提示词', '查看原帖', '项目源码', '在线演示', '作品预览'],
@@ -43,7 +50,7 @@ for (const locale of dataset.locales) {
   for (const prompt of sorted) {
     const entry = localized.prompts[prompt.id]
     const kind = prompt.evidence.kind === 'verbatim' ? published : derived
-    lines.push(`<a id="${prompt.id}"></a>`, '', `## ${md(entry.title)}`, '', `[${md(prompt.author.name)}](${prompt.author.url}) · ${prompt.source.publishedAt.slice(0, 10)} · **${kind}**`, '', md(entry.description), '', `<details>`, `<summary>${preview}</summary>`, '', `![${md(entry.title)}](../${prompt.media.image})`, '', '</details>', '', entry.evidenceNote, '', '```text', entry.prompt.replaceAll('```', '`\u200b``'), '```', '', [ `[Tripo ↗](${entry.pageUrl})`, `[${source}](${prompt.source.url})`, ...(prompt.links.repository ? [`[${code}](${prompt.links.repository})`] : []), ...(prompt.links.demo ? [`[${demo}](${prompt.links.demo})`] : []) ].join(' · '), '', '---', '')
+    lines.push(`<a id="${prompt.id}"></a>`, '', `## ${md(entry.title)}`, '', `[${md(prompt.author.name)}](${prompt.author.url}) · ${prompt.source.publishedAt.slice(0, 10)} · **${kind}**`, '', md(entry.description), '', `<details>`, `<summary>${preview}</summary>`, '', linkedPreview(prompt, entry, '../'), '', '</details>', '', entry.evidenceNote, '', '```text', entry.prompt.replaceAll('```', '`\u200b``'), '```', '', [ `[${detailLabels[locale]} ↗](${entry.pageUrl})`, `[${source}](${prompt.source.url})`, ...(prompt.links.repository ? [`[${code}](${prompt.links.repository})`] : []), ...(prompt.links.demo ? [`[${demo}](${prompt.links.demo})`] : []) ].join(' · '), '', '---', '')
   }
   await write(`docs/catalog.${locale}.md`, lines.join('\n'))
 }
@@ -67,7 +74,7 @@ for (const locale of ['en', 'zh']) {
     const entry = localizations[locale].prompts[prompt.id]
     const catalog = `#${prompt.id}`
     const kind = labels[locale][prompt.evidence.kind === 'verbatim' ? 3 : 2]
-    return `<td width="50%" valign="top"><a href="${catalog}"><img src="${prompt.media.image}" width="420" alt="${text(entry.title)}"></a><br><strong><a href="${catalog}">${text(entry.title)}</a></strong><br><sub>${text(kind)} · <a href="${prompt.source.url}">${text(prompt.author.name)}</a></sub><br>${prompt.links.repository ? `<a href="${prompt.links.repository}">GitHub ↗</a> · ` : ''}<a href="${catalog}">${locale === 'en' ? 'Read the prompt' : '阅读提示词'} →</a></td>`
+    return `<td width="50%" valign="top">${linkedPreview(prompt, entry, '', 420)}<br><strong><a href="${catalog}">${text(entry.title)}</a></strong><br><sub>${text(kind)} · <a href="${prompt.source.url}">${text(prompt.author.name)}</a></sub><br>${prompt.links.repository ? `<a href="${prompt.links.repository}">GitHub ↗</a> · ` : ''}<a href="${catalog}">${locale === 'en' ? 'Read the prompt' : '阅读提示词'} →</a></td>`
   })
   update('featured', `<table>\n${Array.from({ length: 3 }, (_, i) => `<tr>\n${cells.slice(i * 2, i * 2 + 2).join('\n')}\n</tr>`).join('\n')}\n</table>`)
   update('languages', dataset.locales.map(key => `[${labels[key][0]}](docs/catalog.${key}.md)`).join(' · '))
@@ -77,7 +84,7 @@ for (const locale of ['en', 'zh']) {
   for (const prompt of sorted) {
     const entry = localizations[locale].prompts[prompt.id]
     const kind = labels[locale][prompt.evidence.kind === 'verbatim' ? 3 : 2]
-    all.push(`<a id="${prompt.id}"></a>`, '', `### ${md(entry.title)}`, '', `[${md(prompt.author.name)}](${prompt.author.url}) · ${prompt.source.publishedAt.slice(0, 10)} · **${kind}**`, '', `<img src="${prompt.media.image}" width="840" loading="lazy" alt="${text(entry.title)}">`, '', md(entry.description), '', `> ${entry.evidenceNote}`, '', `**${locale === 'en' ? 'Prompt' : '提示词'}**`, '', '```text', entry.prompt.replaceAll('```', '`\u200b``'), '```', '', [`[Tripo ↗](${entry.pageUrl})`, `[${labels[locale][4]}](${prompt.source.url})`, ...(prompt.links.repository ? [`[${labels[locale][5]}](${prompt.links.repository})`] : []), ...(prompt.links.demo ? [`[${labels[locale][6]}](${prompt.links.demo})`] : []), `[${locale === 'en' ? 'Back to all prompts' : '返回提示词导航'}](#all-prompts)`].join(' · '), '', '---', '')
+    all.push(`<a id="${prompt.id}"></a>`, '', `### ${md(entry.title)}`, '', `[${md(prompt.author.name)}](${prompt.author.url}) · ${prompt.source.publishedAt.slice(0, 10)} · **${kind}**`, '', linkedPreview(prompt, entry), '', md(entry.description), '', `> ${entry.evidenceNote}`, '', `**${locale === 'en' ? 'Prompt' : '提示词'}**`, '', '```text', entry.prompt.replaceAll('```', '`\u200b``'), '```', '', [`[${detailLabels[locale]} ↗](${entry.pageUrl})`, `[${labels[locale][4]}](${prompt.source.url})`, ...(prompt.links.repository ? [`[${labels[locale][5]}](${prompt.links.repository})`] : []), ...(prompt.links.demo ? [`[${labels[locale][6]}](${prompt.links.demo})`] : []), `[${locale === 'en' ? 'Back to all prompts' : '返回提示词导航'}](#all-prompts)`].join(' · '), '', '---', '')
   }
   update('all-prompts', all.join('\n'))
   contents = contents.replaceAll(`docs/catalog.${locale}.md#`, '#')

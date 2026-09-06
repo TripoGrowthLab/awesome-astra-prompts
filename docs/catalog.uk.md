@@ -119,7 +119,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Процедурний живий океан і симуляція шторму](../assets/previews/f328a1a13f9ac8c829d2.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429"><img src="../assets/previews/f328a1a13f9ac8c829d2.webp" width="840" loading="lazy" alt="Процедурний живий океан і симуляція шторму"></a>
 
 </details>
 
@@ -129,7 +129,7 @@
 Розвинь наданий однофайловий генератор штормової поверхні у повноцінний процедурний океан. Додай рифи, глибини, правдоподібну погоду, популяції тварин з емерджентною поведінкою, взаємодії екосистеми та камеру, що переміщується над водою й під нею.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429) · [Оригінальний допис](https://x.com/emollick/status/2095673885605630429) · [Вихідний код](https://github.com/emollick/abyssal-living-deep) · [Демо](https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429) · [Оригінальний допис](https://x.com/emollick/status/2095673885605630429) · [Вихідний код](https://github.com/emollick/abyssal-living-deep) · [Демо](https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1)
 
 ---
 
@@ -144,7 +144,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Gogh Strike — мережевий FPS](../assets/previews/70ad9e97aa42a9189998.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608"><img src="../assets/previews/70ad9e97aa42a9189998.webp" width="840" loading="lazy" alt="Gogh Strike — мережевий FPS"></a>
 
 </details>
 
@@ -154,7 +154,7 @@
 Створи постімпресіоністський шутер від першої особи 5 на 5 з персонажами-художниками, відрендереними в Blender, чітко розрізнюваними командами та повноцінним мережевим матчем у браузері.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608) · [Оригінальний допис](https://x.com/petergostev/status/2096013280519016608) · [Вихідний код](https://github.com/petergpt/gogh-strike) · [Демо](https://gogh-strike.surge.sh/)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608) · [Оригінальний допис](https://x.com/petergostev/status/2096013280519016608) · [Вихідний код](https://github.com/petergpt/gogh-strike) · [Демо](https://gogh-strike.surge.sh/)
 
 ---
 
@@ -169,7 +169,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Арена hack-and-slash у соборі](../assets/previews/b8e73f6ab2b929800dd1.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792"><img src="../assets/previews/b8e73f6ab2b929800dd1.webp" width="840" loading="lazy" alt="Арена hack-and-slash у соборі"></a>
 
 </details>
 
@@ -179,7 +179,7 @@
 Створи гру hack-and-slash від третьої особи на Three.js у соборі над мертвою зорею. Додай легкі комбінації ударів мечем, важкі атаки, магію по площі, ухиляння та переконливу анімацію дворучної зброї.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792) · [Оригінальний допис](https://x.com/superalesha/status/2095988972879335792) · [Вихідний код](https://github.com/alesha-pro/bench-portal) · [Демо](https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792) · [Оригінальний допис](https://x.com/superalesha/status/2095988972879335792) · [Вихідний код](https://github.com/alesha-pro/bench-portal) · [Демо](https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/)
 
 ---
 
@@ -194,7 +194,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Антигравітаційні бойові перегони](../assets/previews/76744b47af9907732336.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/anti-gravity-combat-racer-2095967568825582044"><img src="../assets/previews/76744b47af9907732336.webp" width="840" loading="lazy" alt="Антигравітаційні бойові перегони"></a>
 
 </details>
 
@@ -204,7 +204,7 @@
 Створи швидкісні антигравітаційні бойові перегони на Three.js із дрифтом, прискоренням, нахилами камер, повітряними гальмами й щитами для збирання. Додай легкі, збалансовані та важкі апарати на піднятій інопланетній трасі.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/anti-gravity-combat-racer-2095967568825582044) · [Оригінальний допис](https://x.com/superalesha/status/2095967568825582044) · [Вихідний код](https://github.com/alesha-pro/bench-portal)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/anti-gravity-combat-racer-2095967568825582044) · [Оригінальний допис](https://x.com/superalesha/status/2095967568825582044) · [Вихідний код](https://github.com/alesha-pro/bench-portal)
 
 ---
 
@@ -219,7 +219,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Спільнота автономних людей в Unreal Engine](../assets/previews/3dfc15d51104de183c13.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/previews/3dfc15d51104de183c13.webp" width="840" loading="lazy" alt="Спільнота автономних людей в Unreal Engine"></a>
 
 </details>
 
@@ -229,7 +229,7 @@
 Створи світ в Unreal Engine, населений автономними людьми. Задай кожному власні потреби та спільну мету виживання: вони мають спілкуватися, розподіляти роботу, будувати укриття й підтримувати життя спільноти, навіть коли гравець іде.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Оригінальний допис](https://x.com/mattshumer_/status/2095596175705399482)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Оригінальний допис](https://x.com/mattshumer_/status/2095596175705399482)
 
 ---
 
@@ -244,7 +244,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Мангеттен в Unreal Engine, вулиця за вулицею](../assets/previews/df1e2d655d7eca4caf78.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525"><img src="../assets/previews/df1e2d655d7eca4caf78.webp" width="840" loading="lazy" alt="Мангеттен в Unreal Engine, вулиця за вулицею"></a>
 
 </details>
 
@@ -254,7 +254,7 @@
 Створи Мангеттен для дослідження в Unreal Engine. Опрацьовуй район за районом і вулицю за вулицею, зберігаючи впізнаваний масштаб, мережу доріг, визначні місця, рух транспорту й характер кварталів. Веди перелік критеріїв перевірки та вдосконалюй кожну ділянку, перш ніж переходити до наступної.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [Оригінальний допис](https://x.com/mattshumer_/status/2095609734845927525)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [Оригінальний допис](https://x.com/mattshumer_/status/2095609734845927525)
 
 ---
 
@@ -269,7 +269,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Сучасна вілла в Blender](../assets/previews/d1f867dcf59b933bc843.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/modern-villa-scene-in-blender-2095636679264780481"><img src="../assets/previews/d1f867dcf59b933bc843.webp" width="840" loading="lazy" alt="Сучасна вілла в Blender"></a>
 
 </details>
 
@@ -279,7 +279,7 @@
 Створи повноцінну сцену сучасної вілли в Blender: узгоджена архітектура, мебльовані інтер’єри, інфініті-басейн, озеленення, реалістичні матеріали та кінематографічна траєкторія камери в золоту годину.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/modern-villa-scene-in-blender-2095636679264780481) · [Оригінальний допис](https://x.com/karankendre/status/2095636679264780481)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/modern-villa-scene-in-blender-2095636679264780481) · [Оригінальний допис](https://x.com/karankendre/status/2095636679264780481)
 
 ---
 
@@ -294,7 +294,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Браузерна 3D-гра за один запит](../assets/previews/83ed142104b7acba468c.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/one-shot-browser-3d-game-2095599934766764338"><img src="../assets/previews/83ed142104b7acba468c.webp" width="840" loading="lazy" alt="Браузерна 3D-гра за один запит"></a>
 
 </details>
 
@@ -304,7 +304,7 @@
 Створи повноцінну браузерну 3D-гру в одному самодостатньому проєкті. Додай зрозумілу мету, чутливе керування, просторово узгоджені рівні, ворогів або небезпеки, зворотний зв’язок, підрахунок очок, перезапуск і засоби підтримання продуктивності.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/one-shot-browser-3d-game-2095599934766764338) · [Оригінальний допис](https://x.com/theo/status/2095599934766764338)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/one-shot-browser-3d-game-2095599934766764338) · [Оригінальний допис](https://x.com/theo/status/2095599934766764338)
 
 ---
 
@@ -319,7 +319,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![З фотографії будинку в редагований світ Blender](../assets/previews/e54b3e2710c53a16b303.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775"><img src="../assets/previews/e54b3e2710c53a16b303.webp" width="840" loading="lazy" alt="З фотографії будинку в редагований світ Blender"></a>
 
 </details>
 
@@ -329,7 +329,7 @@
 Відтвори будинок із наданого зображення як повністю редаговану сцену Blender. Змоделюй архітектуру, меблі, побутову техніку та іграшки окремими об’єктами, збережи правдоподібні пропорції й забезпеч плавну локальну прогулянку зі швидкістю 60 FPS.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775) · [Оригінальний допис](https://x.com/tomkrcha/status/2095598645190291775)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775) · [Оригінальний допис](https://x.com/tomkrcha/status/2095598645190291775)
 
 ---
 
@@ -344,7 +344,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![З оголошення Zillow у 3D-відео про будинок](../assets/previews/6f8c345161829fa354d9.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615"><img src="../assets/previews/6f8c345161829fa354d9.webp" width="840" loading="lazy" alt="З оголошення Zillow у 3D-відео про будинок"></a>
 
 </details>
 
@@ -354,7 +354,7 @@
 Використай надане оголошення про нерухомість і всі його фотографії, щоб відтворити будинок у 3D, вивести узгоджений план поверхів і створити якісну рекламну відеопрогулянку. Познач непевну геометрію та виправ невідповідності після першої версії.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615) · [Оригінальний допис](https://x.com/realYunfanYe/status/2095612137582526615)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615) · [Оригінальний допис](https://x.com/realYunfanYe/status/2095612137582526615)
 
 ---
 
@@ -369,7 +369,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![З креслення паровоза в редаговану збірку Blender](../assets/previews/06507ec81e3b2b48f511.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311"><img src="../assets/previews/06507ec81e3b2b48f511.webp" width="840" loading="lazy" alt="З креслення паровоза в редаговану збірку Blender"></a>
 
 </details>
 
@@ -379,7 +379,7 @@
 Відтвори старовинний паровоз із наданого креслення в Blender як докладну механічну збірку. Залиши колеса, осі, підвіску, тяги, арматуру котла й панелі корпусу окремими названими редагованими об’єктами та передбач керований рівень деталізації.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Оригінальний допис](https://x.com/tomkrcha/status/2095756085890310311)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Оригінальний допис](https://x.com/tomkrcha/status/2095756085890310311)
 
 ---
 
@@ -394,7 +394,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Процедурна декорація Овального кабінету для Cycles](../assets/previews/27b8c4a9f00b1882f1a8.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857"><img src="../assets/previews/27b8c4a9f00b1882f1a8.webp" width="840" loading="lazy" alt="Процедурна декорація Овального кабінету для Cycles"></a>
 
 </details>
 
@@ -404,7 +404,7 @@
 Перетвори опис декорацій Овального кабінету на виконуваний код сцени. Побудуй приміщення в Blender з редагованими меблями, стінами, освітленням і постановкою камер, а тоді створи кінематографічний рендер у Cycles.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857) · [Оригінальний допис](https://x.com/higgsfield_ai/status/2095630197257367857)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857) · [Оригінальний допис](https://x.com/higgsfield_ai/status/2095630197257367857)
 
 ---
 
@@ -419,7 +419,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Світ у стилі Minecraft за один запит](../assets/previews/4057aefd543af899d3d0.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/one-shot-minecraft-style-world-2095597137849446688"><img src="../assets/previews/4057aefd543af899d3d0.webp" width="840" loading="lazy" alt="Світ у стилі Minecraft за один запит"></a>
 
 </details>
 
@@ -429,7 +429,7 @@
 Створи за один прохід ігровий воксельний світ у дусі Minecraft: генерування рельєфу, встановлення й руйнування блоків, керування від першої особи, інвентар, освітлення, вода та невеликий цикл виживання.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/one-shot-minecraft-style-world-2095597137849446688) · [Оригінальний допис](https://x.com/flavioAd/status/2095597137849446688)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/one-shot-minecraft-style-world-2095597137849446688) · [Оригінальний допис](https://x.com/flavioAd/status/2095597137849446688)
 
 ---
 
@@ -444,7 +444,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Палац витончених мистецтв у Blender](../assets/previews/425b651bd5174e37b02f.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143"><img src="../assets/previews/425b651bd5174e37b02f.webp" width="840" loading="lazy" alt="Палац витончених мистецтв у Blender"></a>
 
 </details>
 
@@ -454,7 +454,7 @@
 Відтвори Палац витончених мистецтв Сан-Франциско в Blender: упізнавані пропорції ротонди, колонади, лагуна, рослинність, зістарені матеріали й кінематографічне світло, що передає оптимізм епохи всесвітніх виставок.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143) · [Оригінальний допис](https://x.com/sharifshameem/status/2095653641164329143)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143) · [Оригінальний допис](https://x.com/sharifshameem/status/2095653641164329143)
 
 ---
 
@@ -469,7 +469,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Місто для прогулянок із шести картин Ван Гога](../assets/previews/2d8a09166b72394c4292.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"><img src="../assets/previews/2d8a09166b72394c4292.webp" width="840" loading="lazy" alt="Місто для прогулянок із шести картин Ван Гога"></a>
 
 </details>
 
@@ -479,7 +479,7 @@
 Перетвори шість наданих картин Ван Гога на єдине місто для прогулянок на Three.js. Збережи палітру й характер мазків кожної картини, поєднавши вулиці, орієнтири та переходи у світ, який можна досліджувати.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Оригінальний допис](https://x.com/petergostev/status/2095776685807346105) · [Демо](https://van-goghs-town.surge.sh/)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Оригінальний допис](https://x.com/petergostev/status/2095776685807346105) · [Демо](https://van-goghs-town.surge.sh/)
 
 ---
 
@@ -494,7 +494,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Створення 3D-гри голосом для початківців](../assets/previews/ae76084678dab574ad49.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647"><img src="../assets/previews/ae76084678dab574ad49.webp" width="840" loading="lazy" alt="Створення 3D-гри голосом для початківців"></a>
 
 </details>
 
@@ -504,7 +504,7 @@
 Будь моїм розробником 3D-гри. Уточни лише відсутні відомості про мету гравця, художній напрям і керування, потім створи браузерну гру, у яку можна одразу грати, і надалі змінюй її за короткими голосовими вказівками.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647) · [Оригінальний допис](https://x.com/EHuanglu/status/2095608358086840647)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647) · [Оригінальний допис](https://x.com/EHuanglu/status/2095608358086840647)
 
 ---
 
@@ -519,7 +519,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Три тематичні перегони з одного чорнового прототипу](../assets/previews/16e9382415e9e7610e15.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369"><img src="../assets/previews/16e9382415e9e7610e15.webp" width="840" loading="lazy" alt="Три тематичні перегони з одного чорнового прототипу"></a>
 
 </details>
 
@@ -529,7 +529,7 @@
 Перетвори наданий чорновий прототип картингових перегонів у Unity на три ігрові версії: піратську, цукеркову й кіберпанкову. Збережи основний цикл водіння, заміни оточення та зворотний зв’язок, протестуй кожну збірку й усунь найпомітніші помилки.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369) · [Оригінальний допис](https://x.com/chetaslua/status/2095580402505400369)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369) · [Оригінальний допис](https://x.com/chetaslua/status/2095580402505400369)
 
 ---
 
@@ -544,7 +544,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Браузерна пригода у відкритому світі](../assets/previews/62267b50bd0c00e10a37.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/open-world-browser-adventure-2095596341422440714"><img src="../assets/previews/62267b50bd0c00e10a37.webp" width="840" loading="lazy" alt="Браузерна пригода у відкритому світі"></a>
 
 </details>
 
@@ -554,7 +554,7 @@
 Створи 3D-пригоду у відкритому світі з кількома пов’язаними біомами, пересуванням, відкриттями, нескладними боями, завданнями, орієнтирами та атмосферною зміною дня й ночі. Додай достатньо підказок, щоб дослідження мало відчутну мету.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/open-world-browser-adventure-2095596341422440714) · [Оригінальний допис](https://x.com/petergostev/status/2095596341422440714)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/open-world-browser-adventure-2095596341422440714) · [Оригінальний допис](https://x.com/petergostev/status/2095596341422440714)
 
 ---
 
@@ -569,7 +569,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Студія фотореалістичних 3D-мокапів товарів](../assets/previews/7762f843277fda2d2f52.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253"><img src="../assets/previews/7762f843277fda2d2f52.webp" width="840" loading="lazy" alt="Студія фотореалістичних 3D-мокапів товарів"></a>
 
 </details>
 
@@ -579,7 +579,7 @@
 Створи браузерний інструмент для розміщення завантажених зображень на фотореалістичних 3D-мокапах товарів. Додай обертання камери, налаштування матеріалів і кольорів, освітлення оточенням, вибір різних товарів та експорт у високій роздільності.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253) · [Оригінальний допис](https://x.com/joshmillgate/status/2095619319690400253)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253) · [Оригінальний допис](https://x.com/joshmillgate/status/2095619319690400253)
 
 ---
 
@@ -594,7 +594,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![3D-гра-акваріум за референсом](../assets/previews/c522341161fd8999972e.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/reference-image-3d-aquarium-game-2095611134992945385"><img src="../assets/previews/c522341161fd8999972e.webp" width="840" loading="lazy" alt="3D-гра-акваріум за референсом"></a>
 
 </details>
 
@@ -604,7 +604,7 @@
 Використай наданий референс, щоб за один прохід створити повноцінну 3D-гру-акваріум. Відтвори композицію резервуара, анімуй риб, додай годування й колекціонування, водні ефекти, керування камерою та чітку мету.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/reference-image-3d-aquarium-game-2095611134992945385) · [Оригінальний допис](https://x.com/TimJayas/status/2095611134992945385)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/reference-image-3d-aquarium-game-2095611134992945385) · [Оригінальний допис](https://x.com/TimJayas/status/2095611134992945385)
 
 ---
 
@@ -619,7 +619,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Ігровий 3D-світ у реальному часі за одним промптом](../assets/previews/d10512aa45750b6fcfc3.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/single-playable-real-time-3d-game-2095647685210669541"><img src="../assets/previews/d10512aa45750b6fcfc3.webp" width="840" loading="lazy" alt="Ігровий 3D-світ у реальному часі за одним промптом"></a>
 
 </details>
 
@@ -629,7 +629,7 @@
 Створи за одним промптом 3D-гру, що працює в реальному часі. Визнач невелику основну механіку, зрозумілу мету й коротку історію, потім згенеруй сцену, персонажів, предмети, зворотний зв’язок і стан перезапуску, щоб у результат можна було одразу грати.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/single-playable-real-time-3d-game-2095647685210669541) · [Оригінальний допис](https://x.com/higgsfield/status/2095647685210669541)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/single-playable-real-time-3d-game-2095647685210669541) · [Оригінальний допис](https://x.com/higgsfield/status/2095647685210669541)
 
 ---
 
@@ -644,7 +644,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Морська битва на Three.js за один запит](../assets/previews/d720a08832dc8749ad7b.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278"><img src="../assets/previews/d720a08832dc8749ad7b.webp" width="840" loading="lazy" alt="Морська битва на Three.js за один запит"></a>
 
 </details>
 
@@ -654,7 +654,7 @@
 Створи докладну морську битву на Three.js за один запит. Додай кілька різних кораблів, фізично переконливу взаємодію з водою, кільватерні сліди й бризки, повітряний бій, вибухи, кінематографічне світло, рух камери та рендеринг з урахуванням продуктивності.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278) · [Оригінальний допис](https://x.com/synthwavedd/status/2095840435319001278)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278) · [Оригінальний допис](https://x.com/synthwavedd/status/2095840435319001278)
 
 ---
 
@@ -669,7 +669,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Мережевий шутер 10 на 10 у дусі Halo](../assets/previews/56d4000d3fc115fd7529.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024"><img src="../assets/previews/56d4000d3fc115fd7529.webp" width="840" loading="lazy" alt="Мережевий шутер 10 на 10 у дусі Halo"></a>
 
 </details>
 
@@ -679,7 +679,7 @@
 Створи мережевий ареновий шутер 10 на 10 у дусі класичних науково-фантастичних FPS. Додай команди, відродження, добре розрізнювану зброю, щити, предмети для збирання, компактні карти, очки, перебіг матчу та браузерну гру з малою затримкою.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024) · [Оригінальний допис](https://x.com/VikiingAI/status/2095598026916049024)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024) · [Оригінальний допис](https://x.com/VikiingAI/status/2095598026916049024)
 
 ---
 
@@ -694,7 +694,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Інтерактивний воксельний залізничний макет](../assets/previews/7a7bcde401d8420e09e2.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/interactive-voxel-railway-table-2095719731860750613"><img src="../assets/previews/7a7bcde401d8420e09e2.webp" width="840" loading="lazy" alt="Інтерактивний воксельний залізничний макет"></a>
 
 </details>
 
@@ -704,7 +704,7 @@
 Створи докладний воксельний залізничний макет на Three.js. Дозволь запускати й зупиняти кілька потягів, перемикати колії, обертати та наближати камеру, оглядати мініатюрні міста й запускати невеликі анімації оточення.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/interactive-voxel-railway-table-2095719731860750613) · [Оригінальний допис](https://x.com/DeryaTR_/status/2095719731860750613) · [Демо](https://lindenhafen-railway.vercel.app/)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/interactive-voxel-railway-table-2095719731860750613) · [Оригінальний допис](https://x.com/DeryaTR_/status/2095719731860750613) · [Демо](https://lindenhafen-railway.vercel.app/)
 
 ---
 
@@ -719,7 +719,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Живий воксельний корабель у пляшці](../assets/previews/a3c527769a0401300bf1.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065"><img src="../assets/previews/a3c527769a0401300bf1.webp" width="840" loading="lazy" alt="Живий воксельний корабель у пляшці"></a>
 
 </details>
 
@@ -729,7 +729,7 @@
 Створи докладний воксельний корабель XVII століття, що пливе всередині скляної пляшки. Змоделюй хвилі й хитавицю, додай чайок, мініатюрну гавань і коралові рифи, потім підготуй кінематографічний проліт камери та спокійний звуковий супровід.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065) · [Оригінальний допис](https://x.com/DeryaTR_/status/2095699049722581065)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065) · [Оригінальний допис](https://x.com/DeryaTR_/status/2095699049722581065)
 
 ---
 
@@ -744,7 +744,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![CAD-збірка USS Enterprise для друку](../assets/previews/3b7b068d0eb0e5288ff2.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676"><img src="../assets/previews/3b7b068d0eb0e5288ff2.webp" width="840" loading="lazy" alt="CAD-збірка USS Enterprise для друку"></a>
 
 </details>
 
@@ -754,7 +754,7 @@
 Спроєктуй у CAD оригінальну модель за мотивами USS Enterprise NCC-1701, готову до друку. Збережи впізнавані пропорції, додай місток і вибрані інтер’єри, щонайменше 28 робочих рухомих деталей, окремі збірки та виробничі файли для експорту.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676) · [Оригінальний допис](https://x.com/DeryaTR_/status/2095641163441254676)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676) · [Оригінальний допис](https://x.com/DeryaTR_/status/2095641163441254676)
 
 ---
 
@@ -769,7 +769,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Космічний політ траншеєю в Unity](../assets/previews/be8d6964ee56b4d4d219.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/unity-space-trench-run-game-2095630044102279312"><img src="../assets/previews/be8d6964ee56b4d4d219.webp" width="840" loading="lazy" alt="Космічний політ траншеєю в Unity"></a>
 
 </details>
 
@@ -779,7 +779,7 @@
 Передай в Unity відчуття класичного космічного прольоту траншеєю: швидкий політ на малій висоті, вогонь турелей, перешкоди, наведення, наростання напруги, кінцева мета та кінематографічна сцена успіху або поразки.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/unity-space-trench-run-game-2095630044102279312) · [Оригінальний допис](https://x.com/ronaldmannak/status/2095630044102279312)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/unity-space-trench-run-game-2095630044102279312) · [Оригінальний допис](https://x.com/ronaldmannak/status/2095630044102279312)
 
 ---
 
@@ -794,7 +794,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Процедурний воксельний замок](../assets/previews/b1d1817a37c203d66e96.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/procedural-voxel-castle-showcase-2093690427849191855"><img src="../assets/previews/b1d1817a37c203d66e96.webp" width="840" loading="lazy" alt="Процедурний воксельний замок"></a>
 
 </details>
 
@@ -804,7 +804,7 @@
 Згенеруй великий воксельний замок із чіткими лініями оборони, вежами, мурами, воротами, дворами й навколишнім рельєфом. Використай інстансинг, орбітальну камеру, змінне світло та детерміноване генерування, щоб результат був стабільним і зручним для огляду.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/procedural-voxel-castle-showcase-2093690427849191855) · [Оригінальний допис](https://x.com/hakmgpt/status/2093690427849191855)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/procedural-voxel-castle-showcase-2093690427849191855) · [Оригінальний допис](https://x.com/hakmgpt/status/2093690427849191855)
 
 ---
 
@@ -819,7 +819,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Місто для дослідження в Unity з готових асетів](../assets/previews/35299b2ab45e0614dcc7.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887"><img src="../assets/previews/35299b2ab45e0614dcc7.webp" width="840" loading="lazy" alt="Місто для дослідження в Unity з готових асетів"></a>
 
 </details>
 
@@ -829,7 +829,7 @@
 Збери місто для дослідження в Unity з наданої бібліотеки асетів. Створи узгоджену мережу доріг, висотки, транспорт, пальми, освітлення й навігацію. Оптимізуй сцену та підготуй стабільну прогулянку від першої особи.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887) · [Оригінальний допис](https://x.com/chetaslua/status/2095597640587374887)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887) · [Оригінальний допис](https://x.com/chetaslua/status/2095597640587374887)
 
 ---
 
@@ -844,7 +844,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Механічно докладний паровоз у Blender](../assets/previews/a02294169159c5b88bfb.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840"><img src="../assets/previews/a02294169159c5b88bfb.webp" width="840" loading="lazy" alt="Механічно докладний паровоз у Blender"></a>
 
 </details>
 
@@ -854,7 +854,7 @@
 Змоделюй паровоз у Blender як справжню механічну конструкцію, а не текстуровану оболонку. Розділи й назви осі, буксові напрямні, букси, зв’язки, елементи підвіски, паровий ковпак і всі основні вузли.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840) · [Оригінальний допис](https://x.com/sheemamoto/status/2095868420327710840)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840) · [Оригінальний допис](https://x.com/sheemamoto/status/2095868420327710840)
 
 ---
 
@@ -869,7 +869,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Tidal Rush: браузерні перегони на вісім учасників](../assets/previews/19e2e109daf0820abba3.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023"><img src="../assets/previews/19e2e109daf0820abba3.webp" width="840" loading="lazy" alt="Tidal Rush: браузерні перегони на вісім учасників"></a>
 
 </details>
 
@@ -879,7 +879,7 @@
 Створи повноцінні браузерні картингові перегони: вісім гонщиків, три кола, дрифт, предмети для збирання, чутлива фізика, зрозумілий HUD, приваблива графіка й екран результатів після фінішу.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023) · [Оригінальний допис](https://x.com/amazing13_13/status/2095819786651374023)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023) · [Оригінальний допис](https://x.com/amazing13_13/status/2095819786651374023)
 
 ---
 
@@ -894,7 +894,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Галактика WebGL на першому екрані лендингу](../assets/previews/fe2d45919c2bec07fc5f.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631"><img src="../assets/previews/fe2d45919c2bec07fc5f.webp" width="840" loading="lazy" alt="Галактика WebGL на першому екрані лендингу"></a>
 
 </details>
 
@@ -904,7 +904,7 @@
 Розбери візуальну мову наданого першого екрана з галактикою та відтвори його у WebGL у реальному часі, без відео. Використай частинки з відчуттям глибини, світний пил, плавну реакцію на вказівник, стримане місце для тексту й адаптивну продуктивність.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631) · [Оригінальний допис](https://x.com/Fluxora_Studios/status/2095805694603673631)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631) · [Оригінальний допис](https://x.com/Fluxora_Studios/status/2095805694603673631)
 
 ---
 
@@ -919,7 +919,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Аркада з культурною темою, що грає сама](../assets/previews/e8816591f99630e061fd.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791"><img src="../assets/previews/e8816591f99630e061fd.webp" width="840" loading="lazy" alt="Аркада з культурною темою, що грає сама"></a>
 
 </details>
 
@@ -929,7 +929,7 @@
 Створи аркаду, яка грає сама, для однієї з країн G7. Перетвори впізнавану культурну пам’ятку на основну механіку, зроби події зрозумілими без керування та додай очки, наростання складності й незабутнє розкриття задуму.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791) · [Оригінальний допис](https://x.com/say_gm_/status/2095898198413922791)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791) · [Оригінальний допис](https://x.com/say_gm_/status/2095898198413922791)
 
 ---
 
@@ -944,7 +944,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Якісний інтерактивний прототип за один запит](../assets/previews/33f3f93183ced23b1e8c.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065"><img src="../assets/previews/33f3f93183ced23b1e8c.webp" width="840" loading="lazy" alt="Якісний інтерактивний прототип за один запит"></a>
 
 </details>
 
@@ -954,7 +954,7 @@
 Спроєктуй і реалізуй за один прохід якісний інтерактивний прототип за наданою концепцією продукту. Обери виразну візуальну систему, віддай пріоритет головній дії, додай відшліфовані переходи й підготуй розміщену в інтернеті адаптивну збірку.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065) · [Оригінальний допис](https://x.com/AY_Orbach/status/2095597560253862065)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065) · [Оригінальний допис](https://x.com/AY_Orbach/status/2095597560253862065)
 
 ---
 
@@ -969,7 +969,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Інтерактивна 3D-модель турбокомпресора з розбиранням](../assets/previews/906d471ad638279a8457.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725"><img src="../assets/previews/906d471ad638279a8457.webp" width="840" loading="lazy" alt="Інтерактивна 3D-модель турбокомпресора з розбиранням"></a>
 
 </details>
 
@@ -979,7 +979,7 @@
 Створи інтерактивний 3D-турбокомпресор. Розділи всі робочі системи. Дай мені обертати його, оглядати деталі окремо й бачити, що саме робить механізм.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725) · [Оригінальний допис](https://x.com/Feraser8/status/2095776712579571725)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725) · [Оригінальний допис](https://x.com/Feraser8/status/2095776712579571725)
 
 ---
 
@@ -994,7 +994,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Несподівана гра на Three.js за один запит](../assets/previews/01a4fe457300f75b9f45.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198"><img src="../assets/previews/01a4fe457300f75b9f45.webp" width="840" loading="lazy" alt="Несподівана гра на Three.js за один запит"></a>
 
 </details>
 
@@ -1004,7 +1004,7 @@
 Створи за один запит оригінальну гру на Three.js, гідну назви «Amaze». Обери одну дивовижну візуальну механіку, поясни її за кілька секунд, побудуй короткий розвиток і заверши гру захопливим видовищем.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198) · [Оригінальний допис](https://x.com/pratt_builds/status/2095663498101662198)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198) · [Оригінальний допис](https://x.com/pratt_builds/status/2095663498101662198)
 
 ---
 
@@ -1019,7 +1019,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Швидкий ігровий прототип](../assets/previews/8aa9a7706316dc84c6df.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/rapid-playable-game-prototype-2095907526566990013"><img src="../assets/previews/8aa9a7706316dc84c6df.webp" width="840" loading="lazy" alt="Швидкий ігровий прототип"></a>
 
 </details>
 
@@ -1029,7 +1029,7 @@
 Створи візуально цілісний ігровий прототип за суворих обмежень часу й токенів. Надай перевагу одному завершеному циклу, чутливому керуванню, зрозумілому зворотному зв’язку, стабільній продуктивності та готовій браузерній збірці, а не кількості функцій.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/rapid-playable-game-prototype-2095907526566990013) · [Оригінальний допис](https://x.com/gibglue/status/2095907526566990013)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/rapid-playable-game-prototype-2095907526566990013) · [Оригінальний допис](https://x.com/gibglue/status/2095907526566990013)
 
 ---
 
@@ -1044,7 +1044,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![З промпту в гру з відкритим світом](../assets/previews/81360ee1cb1d7aaa7aef.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/open-world-game-from-a-prompt-2095872986477908108"><img src="../assets/previews/81360ee1cb1d7aaa7aef.webp" width="840" loading="lazy" alt="З промпту в гру з відкритим світом"></a>
 
 </details>
 
@@ -1054,7 +1054,7 @@
 Створи гру з відкритим світом за концепцією: [задум світу]. Додай три різні регіони, пересування, динамічні зустрічі, простий ланцюжок завдань, орієнтири, збереження й перезапуск та достатню оптимізацію для роботи у браузері.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/open-world-game-from-a-prompt-2095872986477908108) · [Оригінальний допис](https://x.com/aeejazkhan/status/2095872986477908108)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/open-world-game-from-a-prompt-2095872986477908108) · [Оригінальний допис](https://x.com/aeejazkhan/status/2095872986477908108)
 
 ---
 
@@ -1069,7 +1069,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Головна сторінка з інтерактивною галактикою Three.js](../assets/previews/0838004dbcf9c31ee5d0.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457"><img src="../assets/previews/0838004dbcf9c31ee5d0.webp" width="840" loading="lazy" alt="Головна сторінка з інтерактивною галактикою Three.js"></a>
 
 </details>
 
@@ -1079,7 +1079,7 @@
 Створи якісний перший екран сторінки запуску продукту з галактикою на Three.js у реальному часі. Нехай частинки утворюють ненав’язливий силует цифри шість і реагують на прокручування та вказівник. Збережи читабельність тексту й плавно спрощуй ефекти на слабших пристроях.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457) · [Оригінальний допис](https://x.com/threejsresource/status/2095806515579879457)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457) · [Оригінальний допис](https://x.com/threejsresource/status/2095806515579879457)
 
 ---
 
@@ -1094,7 +1094,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Зациклена кіберпанкова спальня в Blender](../assets/previews/e2345fe72cbaa70b18e7.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230"><img src="../assets/previews/e2345fe72cbaa70b18e7.webp" width="840" loading="lazy" alt="Зациклена кіберпанкова спальня в Blender"></a>
 
 </details>
 
@@ -1104,7 +1104,7 @@
 Створи кінематографічну кіберпанкову спальню в Blender з видом на нічне неонове місто під дощем. Додай анімовані рекламні екрани, досягни фотореалізму та безшовного зациклення.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [Оригінальний допис](https://x.com/CoinSh0t/status/2095898303019856230)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [Оригінальний допис](https://x.com/CoinSh0t/status/2095898303019856230)
 
 ---
 
@@ -1119,7 +1119,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Місто Ван Гога на Three.js](../assets/previews/2d8a09166b72394c4292.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/van-gogh-town-in-three-js-2095871735824339279"><img src="../assets/previews/2d8a09166b72394c4292.webp" width="840" loading="lazy" alt="Місто Ван Гога на Three.js"></a>
 
 </details>
 
@@ -1129,7 +1129,7 @@
 Створи місто для прогулянок на Three.js, натхнене Ван Гогом. Перетвори намальовані вулиці, зорі, кафе й поля на багатошарові 3D-простори, зберігши живі мазки за допомогою шейдерів, текстур та анімованого світла.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/van-gogh-town-in-three-js-2095871735824339279) · [Оригінальний допис](https://x.com/RealFedeURU/status/2095871735824339279)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/van-gogh-town-in-three-js-2095871735824339279) · [Оригінальний допис](https://x.com/RealFedeURU/status/2095871735824339279)
 
 ---
 
@@ -1144,7 +1144,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Прогулянка вулицями «Зоряної ночі»](../assets/previews/3bb18f1641ee2093e980.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372"><img src="../assets/previews/3bb18f1641ee2093e980.webp" width="840" loading="lazy" alt="Прогулянка вулицями «Зоряної ночі»"></a>
 
 </details>
 
@@ -1154,7 +1154,7 @@
 Об’єднай шість картин Ван Гога в місто для дослідження, де відвідувачі можуть гуляти вулицями «Зоряної ночі». Продумай природні переходи між картинами, витримай єдиний масштаб і додай м’які фонові взаємодії.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372) · [Оригінальний допис](https://x.com/BigRyan/status/2095805115580199372)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372) · [Оригінальний допис](https://x.com/BigRyan/status/2095805115580199372)
 
 ---
 
@@ -1169,7 +1169,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Дитячий залізничний макет із керованими потягами](../assets/previews/93c7b29090d7ae96b607.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/driveable-childhood-train-table-2095742344293454148"><img src="../assets/previews/93c7b29090d7ae96b607.webp" width="840" loading="lazy" alt="Дитячий залізничний макет із керованими потягами"></a>
 
 </details>
 
@@ -1179,7 +1179,7 @@
 Відтвори дитячий залізничний макет як тактильну іграшку на Three.js із воксельними коліями й рухомим складом. Дай гравцеві водити потяги, переводити стрілки, обертати камеру навколо стола та відкривати анімовані мініатюрні сценки.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [Оригінальний допис](https://x.com/BigRyan/status/2095742344293454148)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [Оригінальний допис](https://x.com/BigRyan/status/2095742344293454148)
 
 ---
 
@@ -1194,7 +1194,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![З тексту в місто для дослідження в Unity](../assets/previews/35299b2ab45e0614dcc7.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/text-to-explorable-unity-city-2095623452678144366"><img src="../assets/previews/35299b2ab45e0614dcc7.webp" width="840" loading="lazy" alt="З тексту в місто для дослідження в Unity"></a>
 
 </details>
 
@@ -1204,7 +1204,7 @@
 Перетвори наданий задум міста на оточення Unity з висотками, дорогами, транспортом, пальмами й атмосферним світлом. Забезпеч правдоподібний масштаб, навігацію, рух транспорту та плавну камеру від першої особи.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/text-to-explorable-unity-city-2095623452678144366) · [Оригінальний допис](https://x.com/0x0SojalSec/status/2095623452678144366)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/text-to-explorable-unity-city-2095623452678144366) · [Оригінальний допис](https://x.com/0x0SojalSec/status/2095623452678144366)
 
 ---
 
@@ -1219,7 +1219,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Тест моделей: акваріум за одним промптом](../assets/previews/c522341161fd8999972e.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/single-aquarium-benchmark-2095650251902239139"><img src="../assets/previews/c522341161fd8999972e.webp" width="840" loading="lazy" alt="Тест моделей: акваріум за одним промптом"></a>
 
 </details>
 
@@ -1229,7 +1229,7 @@
 За наданим референсом створи 3D-гру-акваріум одним промптом. Передай композицію й настрій, додай жваву поведінку риб, водну каустику, орбітальне керування та невеликий цикл взаємодій для порівняння результатів моделей.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/single-aquarium-benchmark-2095650251902239139) · [Оригінальний допис](https://x.com/iamtonyzhu/status/2095650251902239139)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/single-aquarium-benchmark-2095650251902239139) · [Оригінальний допис](https://x.com/iamtonyzhu/status/2095650251902239139)
 
 ---
 
@@ -1244,7 +1244,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![З плану поверху в повноцінну 3D-прогулянку](../assets/previews/a9453628a11a2eca58a3.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661"><img src="../assets/previews/a9453628a11a2eca58a3.webp" width="840" loading="lazy" alt="З плану поверху в повноцінну 3D-прогулянку"></a>
 
 </details>
 
@@ -1254,7 +1254,7 @@
 Перетвори наданий план поверху на повноцінну архітектурну 3D-прогулянку. Дотримуйся розмірів кімнат і зв’язків між ними, додай двері, вікна, меблі, матеріали й освітлення, потім проклади маршрут камери, що пояснює планування.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [Оригінальний допис](https://x.com/aidarosgo3/status/2095725404883476661)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [Оригінальний допис](https://x.com/aidarosgo3/status/2095725404883476661)
 
 ---
 
@@ -1269,7 +1269,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Реальний будинок у редагованій сцені Blender при 60 FPS](../assets/previews/ca2c8c153392a345f4e8.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541"><img src="../assets/previews/ca2c8c153392a345f4e8.webp" width="840" loading="lazy" alt="Реальний будинок у редагованій сцені Blender при 60 FPS"></a>
 
 </details>
 
@@ -1279,7 +1279,7 @@
 Відтвори наданий реальний будинок як повністю редаговану сцену Blender. Залиши архітектуру й обстановку окремими об’єктами, оптимізуй геометрію та матеріали й підготуй локальну прогулянку зі стабільними 60 FPS.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [Оригінальний допис](https://x.com/alvinfoo/status/2095777502681825541)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [Оригінальний допис](https://x.com/alvinfoo/status/2095777502681825541)
 
 ---
 
@@ -1294,7 +1294,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Street Heat: браузерні дрифт-перегони](../assets/previews/911fb2b70e5d4c824524.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"><img src="../assets/previews/911fb2b70e5d4c824524.webp" width="840" loading="lazy" alt="Street Heat: браузерні дрифт-перегони"></a>
 
 </details>
 
@@ -1304,7 +1304,7 @@
 Створи повноцінні аркадні вуличні перегони у браузері за одним реченням. Реалізуй приємну фізику дрифту, очки за комбо, бонуси за небезпечні зближення, камери швидкості, нітро, транспорт, зрозумілий HUD і коротку трасу для повторних заїздів.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [Оригінальний допис](https://x.com/higgsfield_ai/status/2095916820431827408)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [Оригінальний допис](https://x.com/higgsfield_ai/status/2095916820431827408)
 
 ---
 
@@ -1319,7 +1319,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![3D-превіз зйомки в музеї](../assets/previews/395c33eedc4e4b959135.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593"><img src="../assets/previews/395c33eedc4e4b959135.webp" width="840" loading="lazy" alt="3D-превіз зйомки в музеї"></a>
 
 </details>
 
@@ -1329,7 +1329,7 @@
 Створи 3D-превіз музею з планом простору, позиціями акторів, постановкою камер і переліком кадрів. Усі постановки мають залишатися всередині фізичної сцени. Експортуй узгоджені настанови для подальшого генерування відео.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593) · [Оригінальний допис](https://x.com/higgsfield_ai/status/2095616529572503593)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593) · [Оригінальний допис](https://x.com/higgsfield_ai/status/2095616529572503593)
 
 ---
 
@@ -1344,7 +1344,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Інтерактивна 15-секундна реклама продукту](../assets/previews/d10512aa45750b6fcfc3.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/playable-15-second-product-demo-ad-2095695603808309497"><img src="../assets/previews/d10512aa45750b6fcfc3.webp" width="840" loading="lazy" alt="Інтерактивна 15-секундна реклама продукту"></a>
 
 </details>
 
@@ -1354,7 +1354,7 @@
 Створи інтерактивну 15-секундну демонстрацію [продукту], орієнтовану передусім на мобільні пристрої. Дай користувачеві випробувати головну функцію одним жестом, одразу покажи 3D-відгук і заверши чітким закликом «Отримати повний доступ». Використай вертикальний формат 9:16 і фірмові кольори.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/playable-15-second-product-demo-ad-2095695603808309497) · [Оригінальний допис](https://x.com/zackpaid/status/2095695603808309497)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/playable-15-second-product-demo-ad-2095695603808309497) · [Оригінальний допис](https://x.com/zackpaid/status/2095695603808309497)
 
 ---
 
@@ -1369,7 +1369,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Архвіз: від креслення через Blender до Unreal](../assets/previews/8fef1df6618607f0028f.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551"><img src="../assets/previews/8fef1df6618607f0028f.webp" width="840" loading="lazy" alt="Архвіз: від креслення через Blender до Unreal"></a>
 
 </details>
 
@@ -1379,7 +1379,7 @@
 Візьми надане архітектурне креслення, створи точну редаговану модель у Blender, потім перенеси її в Unreal Engine як освітлену архітектурну сцену для прогулянок із правильним масштабом і колізіями.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551) · [Оригінальний допис](https://x.com/LinusEkenstam/status/2095624712244072551)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551) · [Оригінальний допис](https://x.com/LinusEkenstam/status/2095624712244072551)
 
 ---
 
@@ -1394,7 +1394,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Лісова вілла Solace: від завдання до UE5](../assets/previews/8fef1df6618607f0028f.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375"><img src="../assets/previews/8fef1df6618607f0028f.webp" width="840" loading="lazy" alt="Лісова вілла Solace: від завдання до UE5"></a>
 
 </details>
 
@@ -1404,7 +1404,7 @@
 Створи сучасну лісову віллу Solace для прогулянок: три спальні, кабінет, центральне подвір’я, басейн і навколишній ліс. Побудуй її процедурно в Blender, відрендери кадри в золоту годину та експортуй прогулянку в UE5 зі швидкістю 60 FPS.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [Оригінальний допис](https://x.com/NFT_Chen/status/2095752726886105375)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [Оригінальний допис](https://x.com/NFT_Chen/status/2095752726886105375)
 
 ---
 
@@ -1419,7 +1419,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Сцена Blender за тридцять секунд](../assets/previews/1b7302e35b4c879de4aa.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771"><img src="../assets/previews/1b7302e35b4c879de4aa.webp" width="840" loading="lazy" alt="Сцена Blender за тридцять секунд"></a>
 
 </details>
 
@@ -1429,7 +1429,7 @@
 Створи узгоджену сцену Blender за надзвичайно короткий час. Зосередься на сильному силуеті, трьох планах глибини, одному головному матеріалі, кінематографічному світлі й композиції, готовій до зйомки. Залиши всі об’єкти редагованими.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [Оригінальний допис](https://x.com/_satyam_ai/status/2095844872171421771)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [Оригінальний допис](https://x.com/_satyam_ai/status/2095844872171421771)
 
 ---
 
@@ -1444,7 +1444,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Машина Руба Голдберга з ланцюговою реакцією](../assets/previews/368d9d79144335c0bffc.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629"><img src="../assets/previews/368d9d79144335c0bffc.webp" width="840" loading="lazy" alt="Машина Руба Голдберга з ланцюговою реакцією"></a>
 
 </details>
 
@@ -1454,7 +1454,7 @@
 Створи машину Руба Голдберга в самодостатньому HTML-файлі на Three.js. Побудуй послідовність механічних взаємодій, що зрештою натискає кнопку й запускає театральний вибух.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629) · [Оригінальний допис](https://x.com/thehypedotnews/status/2095980885732704629)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629) · [Оригінальний допис](https://x.com/thehypedotnews/status/2095980885732704629)
 
 ---
 
@@ -1469,7 +1469,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Тадж-Махал для дослідження](../assets/previews/afd70948169390c74fbe.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/explorable-taj-mahal-2096035962824335798"><img src="../assets/previews/afd70948169390c74fbe.webp" width="840" loading="lazy" alt="Тадж-Махал для дослідження"></a>
 
 </details>
 
@@ -1479,7 +1479,7 @@
 Відтвори Тадж-Махал як 3D-сцену для дослідження. Зосередься на впізнаваних пропорціях, симетричних садах, центральному куполі, мінаретах і взаємному розташуванні будівель.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/explorable-taj-mahal-2096035962824335798) · [Оригінальний допис](https://x.com/vikassabbi/status/2096035962824335798)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/explorable-taj-mahal-2096035962824335798) · [Оригінальний допис](https://x.com/vikassabbi/status/2096035962824335798)
 
 ---
 
@@ -1494,7 +1494,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Симулятор орбітального зближення](../assets/previews/42e7d7821256b5c0e0d6.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/orbital-rendezvous-simulator-2096225621303042258"><img src="../assets/previews/42e7d7821256b5c0e0d6.webp" width="840" loading="lazy" alt="Симулятор орбітального зближення"></a>
 
 </details>
 
@@ -1504,7 +1504,7 @@
 Створи симуляцію орбітального зближення в реальному часі з поширенням руху двох тіл у системі ECI й наведенням HCW. Додай орієнтацію з шістьма ступенями свободи, витрати палива, обмеження сил і мету стикування.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/orbital-rendezvous-simulator-2096225621303042258) · [Оригінальний допис](https://x.com/AlicanKiraz0/status/2096225621303042258)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/orbital-rendezvous-simulator-2096225621303042258) · [Оригінальний допис](https://x.com/AlicanKiraz0/status/2096225621303042258)
 
 ---
 
@@ -1519,7 +1519,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Збірка буксира за референсами](../assets/previews/c2a965c19b4319993a70.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/reference-image-tugboat-assembly-2096180220839760375"><img src="../assets/previews/c2a965c19b4319993a70.webp" width="840" loading="lazy" alt="Збірка буксира за референсами"></a>
 
 </details>
 
@@ -1529,7 +1529,7 @@
 Відтвори буксир у Blender за референсними зображеннями. Змоделюй корпус, похилу рубку, палубне оснащення й буксирувальне обладнання, узгодивши суперечливі ракурси в одне цілісне судно.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/reference-image-tugboat-assembly-2096180220839760375) · [Оригінальний допис](https://x.com/NarvisAlex/status/2096180220839760375)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/reference-image-tugboat-assembly-2096180220839760375) · [Оригінальний допис](https://x.com/NarvisAlex/status/2096180220839760375)
 
 ---
 
@@ -1544,7 +1544,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Відтворення дриля за одним ракурсом](../assets/previews/eab0ddb7ed59c8047050.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794"><img src="../assets/previews/eab0ddb7ed59c8047050.webp" width="840" loading="lazy" alt="Відтворення дриля за одним ракурсом"></a>
 
 </details>
 
@@ -1554,7 +1554,7 @@
 Відтвори електродриль у Blender за одним референсним ракурсом. Створи корпус, руків’я, патрон і органи керування як редаговану геометрію, потім оглянь результат із різних боків.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794) · [Оригінальний допис](https://x.com/SkyeSharkie/status/2096059736693305794)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794) · [Оригінальний допис](https://x.com/SkyeSharkie/status/2096059736693305794)
 
 ---
 
@@ -1569,7 +1569,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![3D-гра з птахами й рогаткою](../assets/previews/b9fc3db28e9b9b586476.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/3d-slingshot-bird-game-2095981655370666076"><img src="../assets/previews/b9fc3db28e9b9b586476.webp" width="840" loading="lazy" alt="3D-гра з птахами й рогаткою"></a>
 
 </details>
 
@@ -1579,7 +1579,7 @@
 Створи 3D-гру з рогаткою, чотирма птахами та різними особливими здібностями. Додай прицілювання й запуск, руйновані конструкції та систему очок, що заохочує повторні спроби.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/3d-slingshot-bird-game-2095981655370666076) · [Оригінальний допис](https://x.com/MozeTech/status/2095981655370666076)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/3d-slingshot-bird-game-2095981655370666076) · [Оригінальний допис](https://x.com/MozeTech/status/2095981655370666076)
 
 ---
 
@@ -1594,7 +1594,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Шутер від третьої особи зі сповільненням часу](../assets/previews/c0c429e42811528f60da.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/bullet-time-third-person-shooter-2095962376344309843"><img src="../assets/previews/c0c429e42811528f60da.webp" width="840" loading="lazy" alt="Шутер від третьої особи зі сповільненням часу"></a>
 
 </details>
 
@@ -1604,7 +1604,7 @@
 Створи шутер від третьої особи на Three.js у дусі Max Payne. Зосередься на сповільненому екшені, чутливій стрільбі й ігровій сцені зі зручною камерою переслідування.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/bullet-time-third-person-shooter-2095962376344309843) · [Оригінальний допис](https://x.com/HangoutWHAndrei/status/2095962376344309843)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/bullet-time-third-person-shooter-2095962376344309843) · [Оригінальний допис](https://x.com/HangoutWHAndrei/status/2095962376344309843)
 
 ---
 
@@ -1619,7 +1619,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Пружне желе на WebGPU](../assets/previews/cf4454a16a06ed243c20.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/bouncy-webgpu-jelly-2096008241104711698"><img src="../assets/previews/cf4454a16a06ed243c20.webp" width="840" loading="lazy" alt="Пружне желе на WebGPU"></a>
 
 </details>
 
@@ -1629,7 +1629,7 @@
 Створи апетитне пружне желе за допомогою Three.js і WebGPU. Нехай після взаємодії воно природно деформується та заспокоюється. Використай напівпрозорий матеріал і наочне освітлення.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/bouncy-webgpu-jelly-2096008241104711698) · [Оригінальний допис](https://x.com/scottstts/status/2096008241104711698)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/bouncy-webgpu-jelly-2096008241104711698) · [Оригінальний допис](https://x.com/scottstts/status/2096008241104711698)
 
 ---
 
@@ -1644,7 +1644,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Інтерактивний контролер PS5](../assets/previews/c17fee4a534e826e0ab3.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/interactive-ps5-controller-2095967131573649552"><img src="../assets/previews/c17fee4a534e826e0ab3.webp" width="840" loading="lazy" alt="Інтерактивний контролер PS5"></a>
 
 </details>
 
@@ -1654,7 +1654,7 @@
 Створи модель контролера PlayStation 5 на Three.js для огляду: впізнаваний силует, кнопки, тригери, аналогові стіки й різні матеріали поверхонь.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/interactive-ps5-controller-2095967131573649552) · [Оригінальний допис](https://x.com/blueemi99/status/2095967131573649552)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/interactive-ps5-controller-2095967131573649552) · [Оригінальний допис](https://x.com/blueemi99/status/2095967131573649552)
 
 ---
 
@@ -1669,7 +1669,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Astral War — браузерний шутер](../assets/previews/10cc70e94dc0a8e6605b.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/astral-war-browser-shooter-2096079660605997264"><img src="../assets/previews/10cc70e94dc0a8e6605b.webp" width="840" loading="lazy" alt="Astral War — браузерний шутер"></a>
 
 </details>
 
@@ -1679,7 +1679,7 @@
 Створи браузерний шутер на Three.js у дусі World at War. Підготуй повноцінне ігрове поле бою з чутливими сутичками, просторовим звуком, асетами персонажів і повним перебігом матчу.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/astral-war-browser-shooter-2096079660605997264) · [Оригінальний допис](https://x.com/0xRishi/status/2096079660605997264)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/astral-war-browser-shooter-2096079660605997264) · [Оригінальний допис](https://x.com/0xRishi/status/2096079660605997264)
 
 ---
 
@@ -1694,7 +1694,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![З PDF-схеми в друковану плату та 3D-збірку](../assets/previews/1bfc13d5447aa0038e27.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502"><img src="../assets/previews/1bfc13d5447aa0038e27.webp" width="840" loading="lazy" alt="З PDF-схеми в друковану плату та 3D-збірку"></a>
 
 </details>
 
@@ -1704,7 +1704,7 @@
 Використай PDF зі схемою, щоб доопрацювати електричне коло в KiCad, розвести двошарову плату 50 × 20 мм і відрендерити її 3D-збірку. Переглянь документацію компонентів та усунь порушення правил проєктування.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Оригінальний допис](https://x.com/swjtutl/status/2096079976433082502)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Оригінальний допис](https://x.com/swjtutl/status/2096079976433082502)
 
 ---
 
@@ -1719,7 +1719,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Браузерна гра про польоти](../assets/previews/094260e4ea7a88a23850.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/browser-flight-game-2096149823216898445"><img src="../assets/previews/094260e4ea7a88a23850.webp" width="840" loading="lazy" alt="Браузерна гра про польоти"></a>
 
 </details>
 
@@ -1729,7 +1729,7 @@
 Створи повноцінну браузерну 3D-гру про польоти з порожнього проєкту. Реалізуй керований політ, оточення для навігації, зрозумілу мету та узгоджену подачу.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/browser-flight-game-2096149823216898445) · [Оригінальний допис](https://x.com/givros/status/2096149823216898445)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/browser-flight-game-2096149823216898445) · [Оригінальний допис](https://x.com/givros/status/2096149823216898445)
 
 ---
 
@@ -1744,7 +1744,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Інтерактивна панель із глобусом](../assets/previews/ce8131795b341edda606.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/interactive-globe-dashboard-2096082432197837065"><img src="../assets/previews/ce8131795b341edda606.webp" width="840" loading="lazy" alt="Інтерактивна панель із глобусом"></a>
 
 </details>
 
@@ -1754,7 +1754,7 @@
 Відтвори за референсом панель із 3D-глобусом на Three.js. Додай денний і нічний режими, читабельні географічні дані й робочі елементи керування відповідно до референсу.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/interactive-globe-dashboard-2096082432197837065) · [Оригінальний допис](https://x.com/hqmank/status/2096082432197837065)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/interactive-globe-dashboard-2096082432197837065) · [Оригінальний допис](https://x.com/hqmank/status/2096082432197837065)
 
 ---
 
@@ -1769,7 +1769,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Вежа Азаді в Blender](../assets/previews/dccea8a39052877e2e5c.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/azadi-tower-in-blender-2096107322536051057"><img src="../assets/previews/dccea8a39052877e2e5c.webp" width="840" loading="lazy" alt="Вежа Азаді в Blender"></a>
 
 </details>
 
@@ -1779,7 +1779,7 @@
 Створи редаговану модель вежі Азаді в Blender, зосередившись на розширеній основі, перехресній арці, візерунчастих поверхнях і впізнаваних пропорціях.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/azadi-tower-in-blender-2096107322536051057) · [Оригінальний допис](https://x.com/taesiri/status/2096107322536051057)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/azadi-tower-in-blender-2096107322536051057) · [Оригінальний допис](https://x.com/taesiri/status/2096107322536051057)
 
 ---
 
@@ -1794,7 +1794,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![3D-сайт студії з анімацією під час прокручування](../assets/previews/a315174ac48f5392bb9a.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132"><img src="../assets/previews/a315174ac48f5392bb9a.webp" width="840" loading="lazy" alt="3D-сайт студії з анімацією під час прокручування"></a>
 
 </details>
 
@@ -1804,7 +1804,7 @@
 Перетвори надане зображення на сцену Three.js усередині сайту студії з плавною анімацією під час прокручування. Узгодь рух камери, типографіку та переходи між розділами.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [Оригінальний допис](https://x.com/mx_debbiee/status/2096245759121277132)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [Оригінальний допис](https://x.com/mx_debbiee/status/2096245759121277132)
 
 ---
 
@@ -1819,7 +1819,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Komorebi — сплав на каяку](../assets/previews/177462bb87e3089acbf2.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/komorebi-river-kayaking-2096244208533455049"><img src="../assets/previews/177462bb87e3089acbf2.webp" width="840" loading="lazy" alt="Komorebi — сплав на каяку"></a>
 
 </details>
 
@@ -1829,7 +1829,7 @@
 Створи 3D-гру про сплав на каяку з естетикою аніме. Дай гравцеві веслувати ліворуч і праворуч, оминаючи перешкоди. Текучу воду, краєвиди, музику й звукові ефекти створи кодом.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [Оригінальний допис](https://x.com/ItsmeAjayKV/status/2096244208533455049)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [Оригінальний допис](https://x.com/ItsmeAjayKV/status/2096244208533455049)
 
 ---
 
@@ -1844,7 +1844,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Історія продукту з пляшкою, що заломлює світло](../assets/previews/0752e3417e975ec333d5.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/refractive-bottle-product-story-2096243989439713677"><img src="../assets/previews/0752e3417e975ec333d5.webp" width="840" loading="lazy" alt="Історія продукту з пляшкою, що заломлює світло"></a>
 
 </details>
 
@@ -1854,7 +1854,7 @@
 Створи інтерактивний продуктовий сайт навколо фотореалістичної скляної пляшки WebGL. Використай рідину із заломленням, обертання під час прокручування та виразну типографіку, зберігши продуктивність браузера.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [Оригінальний допис](https://x.com/himanshubuildss/status/2096243989439713677)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [Оригінальний допис](https://x.com/himanshubuildss/status/2096243989439713677)
 
 ---
 
@@ -1869,7 +1869,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Процедурні потяги з розбиранням на вузли](../assets/previews/1bd8465e8c05d9d38315.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041"><img src="../assets/previews/1bd8465e8c05d9d38315.webp" width="840" loading="lazy" alt="Процедурні потяги з розбиранням на вузли"></a>
 
 </details>
 
@@ -1879,7 +1879,7 @@
 Згенеруй два потяги безпосередньо на Three.js за розмірами, профілями й геометричними функціями. Анімуй колеса та додай послідовність рознесення деталей і зворотного складання.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041) · [Оригінальний допис](https://x.com/tomkrcha/status/2096082580554777041)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041) · [Оригінальний допис](https://x.com/tomkrcha/status/2096082580554777041)
 
 ---
 
@@ -1894,7 +1894,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Іграшковий світ малюка](../assets/previews/965f7261ca51d323b38a.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/a-playful-toddler-toy-world-2096201415051911597"><img src="../assets/previews/965f7261ca51d323b38a.webp" width="840" loading="lazy" alt="Іграшковий світ малюка"></a>
 
 </details>
 
@@ -1904,7 +1904,7 @@
 Створи затишну ігрову кімнату на Three.js, де малюк переходить між іграшками й грається з кожною за допомогою окремої анімації. Додай килимок, книжки, полиці й конструкції для лазіння, а також обертання та наближення камери.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/a-playful-toddler-toy-world-2096201415051911597) · [Оригінальний допис](https://x.com/aehyok/status/2096201415051911597)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/a-playful-toddler-toy-world-2096201415051911597) · [Оригінальний допис](https://x.com/aehyok/status/2096201415051911597)
 
 ---
 
@@ -1919,7 +1919,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Діючий завод реактивних літаків](../assets/previews/88e94868f034bdf39f97.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/live-jet-manufacturing-plant-2096122429319852319"><img src="../assets/previews/88e94868f034bdf39f97.webp" width="840" loading="lazy" alt="Діючий завод реактивних літаків"></a>
 
 </details>
 
@@ -1929,7 +1929,7 @@
 Досліди виробництво літаків і створи живу симуляцію авіазаводу на Three.js. Змоделюй цикли обладнання, виробничі станції, транспортування й вузькі місця, потім перевір потік виробництва.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/live-jet-manufacturing-plant-2096122429319852319) · [Оригінальний допис](https://x.com/konstantinsaifo/status/2096122429319852319)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/live-jet-manufacturing-plant-2096122429319852319) · [Оригінальний допис](https://x.com/konstantinsaifo/status/2096122429319852319)
 
 ---
 
@@ -1944,7 +1944,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Битва кайдзю в місті](../assets/previews/8f55d646820e4f1f0b98.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/previews/8f55d646820e4f1f0b98.webp" width="840" loading="lazy" alt="Битва кайдзю в місті"></a>
 
 </details>
 
@@ -1954,7 +1954,7 @@
 Створи гру на Three.js у дусі кайдзю, використовуючи згенеровані моделі істот і звукові ефекти. Зроби велетенські бої зрозумілими, а оточення — таким, що передає розміри істот.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/kaiju-city-battle-2096251574918013135) · [Оригінальний допис](https://x.com/majidmanzarpour/status/2096251574918013135)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/kaiju-city-battle-2096251574918013135) · [Оригінальний допис](https://x.com/majidmanzarpour/status/2096251574918013135)
 
 ---
 
@@ -1969,7 +1969,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Буря всередині куба](../assets/previews/631562c3a38f51debed3.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648"><img src="../assets/previews/631562c3a38f51debed3.webp" width="840" loading="lazy" alt="Буря всередині куба"></a>
 
 </details>
 
@@ -1979,7 +1979,7 @@
 Згенеруй бурю, замкнену в кубі, з керованою погодою на Three.js.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648) · [Оригінальний допис](https://x.com/zwb44/status/2096220264413409648)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648) · [Оригінальний допис](https://x.com/zwb44/status/2096220264413409648)
 
 ---
 
@@ -1994,7 +1994,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Zork як тривимірна пригодницька гра](../assets/previews/88fedcd618dd733a21f5.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620"><img src="../assets/previews/88fedcd618dd733a21f5.webp" width="840" loading="lazy" alt="Zork як тривимірна пригодницька гра"></a>
 
 </details>
 
@@ -2004,7 +2004,7 @@
 Перетвори класичну текстову пригоду Zork на тривимірну пригодницьку гру з екшеном. Збережи сюжет і загадки, додай бойові сцени та створи персонажів і оточення на Three.js.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620) · [Оригінальний допис](https://x.com/emollick/status/2096047660662722620)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620) · [Оригінальний допис](https://x.com/emollick/status/2096047660662722620)
 
 ---
 
@@ -2019,7 +2019,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Тиранозавр із ригом та анімацією](../assets/previews/6bf58344b93f183cd255.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/rigged-and-animated-t-rex-2096133339329536249"><img src="../assets/previews/6bf58344b93f183cd255.webp" width="840" loading="lazy" alt="Тиранозавр із ригом та анімацією"></a>
 
 </details>
 
@@ -2029,7 +2029,7 @@
 Візьми згенеровану модель тиранозавра, створи риг і правдоподібні рухи. Покажи персонажа на Three.js та перевір, що анімація узгоджено деформує модель.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [Оригінальний допис](https://x.com/majidmanzarpour/status/2096133339329536249)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [Оригінальний допис](https://x.com/majidmanzarpour/status/2096133339329536249)
 
 ---
 
@@ -2044,7 +2044,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Морське життя у чашці кави](../assets/previews/3990cf9279eb906cfc93.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198"><img src="../assets/previews/3990cf9279eb906cfc93.webp" width="840" loading="lazy" alt="Морське життя у чашці кави"></a>
 
 </details>
 
@@ -2054,7 +2054,7 @@
 Створи мініатюрну морську екосистему всередині чашки кави на Three.js. Постановочною камерою покажи водних мешканців, зберігши зрозумілий вигляд чашки й мініатюрний масштаб.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [Оригінальний допис](https://x.com/PolaczekSagi/status/2096174858837074198)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [Оригінальний допис](https://x.com/PolaczekSagi/status/2096174858837074198)
 
 ---
 
@@ -2069,7 +2069,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Інтерактивна демонстрація Hyperloop](../assets/previews/6fe7e10c4907c28861e5.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/interactive-hyperloop-demo-2096250748099068377"><img src="../assets/previews/6fe7e10c4907c28861e5.webp" width="840" loading="lazy" alt="Інтерактивна демонстрація Hyperloop"></a>
 
 </details>
 
@@ -2079,7 +2079,7 @@
 Створи інтерактивну демонстрацію Hyperloop на Three.js, що показує транспортну капсулу, трубну інфраструктуру й рух системою.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [Оригінальний допис](https://x.com/hbanay98/status/2096250748099068377)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [Оригінальний допис](https://x.com/hbanay98/status/2096250748099068377)
 
 ---
 
@@ -2094,7 +2094,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Процедурне погруддя Наполеона](../assets/previews/fda483263b1b7468f091.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/procedural-napoleon-bust-2096234355395903672"><img src="../assets/previews/fda483263b1b7468f091.webp" width="840" loading="lazy" alt="Процедурне погруддя Наполеона"></a>
 
 </details>
 
@@ -2104,7 +2104,7 @@
 Створи кодом 3D-погруддя Наполеона на Three.js. Працюй поетапно, оглядай модель із різних боків і уточнюй пропорції обличчя та деталі одягу.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [Оригінальний допис](https://x.com/leploutos/status/2096234355395903672)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [Оригінальний допис](https://x.com/leploutos/status/2096234355395903672)
 
 ---
 
@@ -2119,7 +2119,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Зал залізничного вокзалу](../assets/previews/ec572c18e5e02ac65512.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/railway-station-concourse-2096226711222546461"><img src="../assets/previews/ec572c18e5e02ac65512.webp" width="840" loading="lazy" alt="Зал залізничного вокзалу"></a>
 
 </details>
 
@@ -2129,7 +2129,7 @@
 Створи вокзальний зал із виразним архітектурним ритмом, правдоподібним масштабом і переконливими матеріалами. Підготуй 3D-сцену для огляду з ретельно скомпонованими видами вокзалу.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/railway-station-concourse-2096226711222546461) · [Оригінальний допис](https://x.com/0xWormhole404/status/2096226711222546461)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/railway-station-concourse-2096226711222546461) · [Оригінальний допис](https://x.com/0xWormhole404/status/2096226711222546461)
 
 ---
 
@@ -2144,7 +2144,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Анімована діорама для знайомства з продуктом](../assets/previews/42b972bdf19630b039a0.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/animated-onboarding-diorama-2096222790894661841"><img src="../assets/previews/42b972bdf19630b039a0.webp" width="840" loading="lazy" alt="Анімована діорама для знайомства з продуктом"></a>
 
 </details>
 
@@ -2154,7 +2154,7 @@
 Створи невелику навчальну діораму в Blender та оживи її в Three.js. Використай зрозумілі центральні об’єкти й короткі анімації, щоб пояснити перші дії користувача.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/animated-onboarding-diorama-2096222790894661841) · [Оригінальний допис](https://x.com/EmilHovv/status/2096222790894661841)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/animated-onboarding-diorama-2096222790894661841) · [Оригінальний допис](https://x.com/EmilHovv/status/2096222790894661841)
 
 ---
 
@@ -2169,7 +2169,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![OX Vice Drive — перегони у відкритому місті](../assets/previews/3b47ced29ac0872998ae.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897"><img src="../assets/previews/3b47ced29ac0872998ae.webp" width="840" loading="lazy" alt="OX Vice Drive — перегони у відкритому місті"></a>
 
 </details>
 
@@ -2179,7 +2179,7 @@
 Створи браузерну гру про водіння у відкритому місті з транспортом, дрифтом і перегонами-доставками. Спроєктуй прибережне місто, яким приємно їздити та яке підтримує повноцінний цикл водіння.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897) · [Оригінальний допис](https://x.com/qok_ai/status/2096206082712768897)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897) · [Оригінальний допис](https://x.com/qok_ai/status/2096206082712768897)
 
 ---
 
@@ -2194,7 +2194,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Ігровий ремейк реклами мобільної гри](../assets/previews/4d8530d89c735d14003f.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842"><img src="../assets/previews/4d8530d89c735d14003f.webp" width="840" loading="lazy" alt="Ігровий ремейк реклами мобільної гри"></a>
 
 </details>
 
@@ -2204,7 +2204,7 @@
 Використай рекламу мобільної гри як референс для створення справжньої браузерної гри. Відтвори головну взаємодію та застосуй асети Blender, щоб передати візуальний задум.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842) · [Оригінальний допис](https://x.com/buildingadlicio/status/2096111709496680842)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842) · [Оригінальний допис](https://x.com/buildingadlicio/status/2096111709496680842)
 
 ---
 
@@ -2219,7 +2219,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Аніме-файтинг на арені Roblox](../assets/previews/da567da60113f6fde024.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412"><img src="../assets/previews/da567da60113f6fde024.webp" width="840" loading="lazy" alt="Аніме-файтинг на арені Roblox"></a>
 
 </details>
 
@@ -2229,7 +2229,7 @@
 Створи ареновий файтинг у Roblox у дусі кросоверних битв аніме-персонажів. Побудуй арену й персонажів за допомогою Blender та доступних асетів, потім реалізуй ігровий бойовий цикл.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412) · [Оригінальний допис](https://x.com/WoahWurdz/status/2095999578419929412)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412) · [Оригінальний допис](https://x.com/WoahWurdz/status/2095999578419929412)
 
 ---
 
@@ -2244,7 +2244,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Браузерна перегонова фізика на C# і WASM](../assets/previews/da595232495fdcdcd646.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880"><img src="../assets/previews/da595232495fdcdcd646.webp" width="840" loading="lazy" alt="Браузерна перегонова фізика на C# і WASM"></a>
 
 </details>
 
@@ -2254,7 +2254,7 @@
 Відтвори фізику перегонів у стилі Trackmania на C#, запусти її через WASM і відобрази трасу в Three.js. Використай меші траси з колізіями та перевір керованість автомобіля.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Оригінальний допис](https://x.com/achepta_tm/status/2096258619574513880)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Оригінальний допис](https://x.com/achepta_tm/status/2096258619574513880)
 
 ---
 
@@ -2269,7 +2269,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Автоматичний риг персонажа й рухи кунг-фу](../assets/previews/b667cbe461565dc1ef4c.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503"><img src="../assets/previews/b667cbe461565dc1ef4c.webp" width="840" loading="lazy" alt="Автоматичний риг персонажа й рухи кунг-фу"></a>
 
 </details>
 
@@ -2279,7 +2279,7 @@
 Візьми наданого 3D-персонажа, створи риг і додай ходьбу, біг та кілька рухів кунг-фу. Перевір анімації на зламані суглоби й нестійкі пози.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [Оригінальний допис](https://x.com/thebuggeddev/status/2096141728487178503)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [Оригінальний допис](https://x.com/thebuggeddev/status/2096141728487178503)
 
 ---
 
@@ -2294,7 +2294,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![З малюнка в ігрового персонажа](../assets/previews/bb636fabd44b05a7797b.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/artwork-to-a-playable-character-2096107343268257953"><img src="../assets/previews/bb636fabd44b05a7797b.webp" width="840" loading="lazy" alt="З малюнка в ігрового персонажа"></a>
 
 </details>
 
@@ -2304,7 +2304,7 @@
 Відтвори ілюстрацію персонажа Noctavia як ігрового 3D-персонажа. Збережи мову дизайну та створи повну модель для інтерактивної презентації.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/artwork-to-a-playable-character-2096107343268257953) · [Оригінальний допис](https://x.com/noctav1a/status/2096107343268257953)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/artwork-to-a-playable-character-2096107343268257953) · [Оригінальний допис](https://x.com/noctav1a/status/2096107343268257953)
 
 ---
 
@@ -2319,7 +2319,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Особисте 3D-портфоліо з глобусом виступів](../assets/previews/8ed97e5172601ffcf208.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"><img src="../assets/previews/8ed97e5172601ffcf208.webp" width="840" loading="lazy" alt="Особисте 3D-портфоліо з глобусом виступів"></a>
 
 </details>
 
@@ -2329,7 +2329,7 @@
 Перетвори портрет на персонажа Blender для WebGL-портфоліо з журнальним оформленням. Додай обертовий глобус із місцями виступів та інтегруй асети у сайт.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [Оригінальний допис](https://x.com/HowDevelop/status/2096023793772998704)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [Оригінальний допис](https://x.com/HowDevelop/status/2096023793772998704)
 
 ---
 
@@ -2344,7 +2344,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Вертикальний зріз гри в дусі Sonic на Godot](../assets/previews/4b1d7461ea62bbcb07bb.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086"><img src="../assets/previews/4b1d7461ea62bbcb07bb.webp" width="840" loading="lazy" alt="Вертикальний зріз гри в дусі Sonic на Godot"></a>
 
 </details>
 
@@ -2354,7 +2354,7 @@
 Створи якісний 3D-рівень у дусі Sonic на Godot, використовуючи локальні й процедурні асети. Зосередься на інерції, чутливому пересуванні, кільцях, петлях, рейках для ковзання та безперервному тропічному узбережжі.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086) · [Оригінальний допис](https://x.com/AiBattle_/status/2096056285896536086)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086) · [Оригінальний допис](https://x.com/AiBattle_/status/2096056285896536086)
 
 ---
 
@@ -2369,7 +2369,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Вікінг у Blender](../assets/previews/47571b98331669c487a6.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/viking-character-in-blender-2096140378777010278"><img src="../assets/previews/47571b98331669c487a6.webp" width="840" loading="lazy" alt="Вікінг у Blender"></a>
 
 </details>
 
@@ -2379,7 +2379,7 @@
 Створи редагованого 3D-вікінга в Blender. Зосередься на впізнаваному вбранні, будові обличчя, пропорціях тіла та виразній презентаційній позі.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/viking-character-in-blender-2096140378777010278) · [Оригінальний допис](https://x.com/fre4kspace/status/2096140378777010278)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/viking-character-in-blender-2096140378777010278) · [Оригінальний допис](https://x.com/fre4kspace/status/2096140378777010278)
 
 ---
 
@@ -2394,7 +2394,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Dropzone — арена королівської битви](../assets/previews/37245ebc377553686009.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/dropzone-battle-royale-arena-2096155883122413946"><img src="../assets/previews/37245ebc377553686009.webp" width="840" loading="lazy" alt="Dropzone — арена королівської битви"></a>
 
 </details>
 
@@ -2404,7 +2404,7 @@
 Створи браузерну королівську битву від третьої особи: штормове коло, дев’ять ШІ-ворогів, імпульсна гвинтівка, здоров’я й перезаряджання. Додай стіни-укриття, які можна встановлювати, та повний цикл вибування.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [Оригінальний допис](https://x.com/Motion_Viz/status/2096155883122413946)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [Оригінальний допис](https://x.com/Motion_Viz/status/2096155883122413946)
 
 ---
 
@@ -2419,7 +2419,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Прогулянка садом музею Сучжоу](../assets/previews/5dd1b274746b07e46ff0.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449"><img src="../assets/previews/5dd1b274746b07e46ff0.webp" width="840" loading="lazy" alt="Прогулянка садом музею Сучжоу"></a>
 
 </details>
 
@@ -2429,7 +2429,7 @@
 Використай вебсторінку про музей Сучжоу як референс, щоб відтворити його сад у Blender. Підготуй безперервну прогулянку, що зберігає зв’язок сучасної архітектури з традиційним китайським садовим мистецтвом.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449) · [Оригінальний допис](https://x.com/whosamberella/status/2096096998092841449)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449) · [Оригінальний допис](https://x.com/whosamberella/status/2096096998092841449)
 
 ---
 
@@ -2444,7 +2444,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Інтерактивна наукова експозиція Титана](../assets/previews/01903613570d42ab83a5.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/interactive-titan-science-exhibit-2095986941753712841"><img src="../assets/previews/01903613570d42ab83a5.webp" width="840" loading="lazy" alt="Інтерактивна наукова експозиція Титана"></a>
 
 </details>
 
@@ -2454,7 +2454,7 @@
 Створи навчальну 3D-симуляцію Титана, найбільшого супутника Сатурна, з оточенням для дослідження та інформаційним шаром, що пояснює його особливі фізичні характеристики.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/interactive-titan-science-exhibit-2095986941753712841) · [Оригінальний допис](https://x.com/ArdaTugsat/status/2095986941753712841)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/interactive-titan-science-exhibit-2095986941753712841) · [Оригінальний допис](https://x.com/ArdaTugsat/status/2095986941753712841)
 
 ---
 
@@ -2469,7 +2469,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Екосистема WebGL, що еволюціонує](../assets/previews/417256d668a87f961903.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/evolving-webgl-ecosystem-2096040448477515874"><img src="../assets/previews/417256d668a87f961903.webp" width="840" loading="lazy" alt="Екосистема WebGL, що еволюціонує"></a>
 
 </details>
 
@@ -2479,7 +2479,7 @@
 Створи 3D-екосистему, що еволюціонує, в одному HTML-файлі на чистому WebGL і GLSL. Нехай мутації, природний добір, хижацтво, витрати енергії та багатоклітинні об’єднання взаємодіють між собою.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/evolving-webgl-ecosystem-2096040448477515874) · [Оригінальний допис](https://x.com/yume_arasaki/status/2096040448477515874)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/evolving-webgl-ecosystem-2096040448477515874) · [Оригінальний допис](https://x.com/yume_arasaki/status/2096040448477515874)
 
 ---
 
@@ -2494,7 +2494,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Мережа доставки із закриттям мостів](../assets/previews/1f3a527d5461971e3394.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742"><img src="../assets/previews/1f3a527d5461971e3394.webp" width="840" loading="lazy" alt="Мережа доставки із закриттям мостів"></a>
 
 </details>
 
@@ -2504,7 +2504,7 @@
 Створи 3D-симуляцію доставки, де закриття мостів змінює маршрути вантажівок. Виявляй недоступні пункти призначення й відновлюй доставку, коли маршрут знову відкривається.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742) · [Оригінальний допис](https://x.com/AgentWorkflowLa/status/2096042360513904742)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742) · [Оригінальний допис](https://x.com/AgentWorkflowLa/status/2096042360513904742)
 
 ---
 
@@ -2519,7 +2519,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Симулятор Sinclair ZX Spectrum](../assets/previews/8342e2a2ae6ab568fa2f.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605"><img src="../assets/previews/8342e2a2ae6ab568fa2f.webp" width="840" loading="lazy" alt="Симулятор Sinclair ZX Spectrum"></a>
 
 </details>
 
@@ -2529,7 +2529,7 @@
 Відтвори Sinclair ZX Spectrum 48K як інтерактивний настільний 3D-застосунок. Додай гумову клавіатуру, касетний програвач, стартовий екран, робочу гру та інтерфейс програмування на BASIC.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605) · [Оригінальний допис](https://x.com/DeryaTR_/status/2096062355692048605)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605) · [Оригінальний допис](https://x.com/DeryaTR_/status/2096062355692048605)
 
 ---
 
@@ -2544,7 +2544,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![З фотограмметричного скану в редаговану вітальню](../assets/previews/d7643b0568a783c1fabd.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/photogrammetry-scan-to-editable-living-room-2096092080397246707"><img src="../assets/previews/d7643b0568a783c1fabd.webp" width="840" loading="lazy" alt="З фотограмметричного скану в редаговану вітальню"></a>
 
 </details>
 
@@ -2554,7 +2554,7 @@
 Відтвори вітальню в Blender за фотограмметричним сканом. Змоделюй сцену з нуля, візьми текстури зі скану й використай процедурні шейдери там, де це доречно.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/photogrammetry-scan-to-editable-living-room-2096092080397246707) · [Оригінальний допис](https://x.com/bilawalsidhu/status/2096092080397246707)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/photogrammetry-scan-to-editable-living-room-2096092080397246707) · [Оригінальний допис](https://x.com/bilawalsidhu/status/2096092080397246707)
 
 ---
 
@@ -2569,7 +2569,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Платформерна пригода в дусі Odyssey](../assets/previews/f8e883bece1bb1220b1f.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152"><img src="../assets/previews/f8e883bece1bb1220b1f.webp" width="840" loading="lazy" alt="Платформерна пригода в дусі Odyssey"></a>
 
 </details>
 
@@ -2579,7 +2579,7 @@
 Створи рівень на Three.js у дусі Odyssey: вісім платформ, три місяці для збирання, атаки капелюхом, що повертається, вороги та контрольні точки. Додай сенсорне керування й перевір повне проходження.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [Оригінальний допис](https://x.com/AiHubMix/status/2096135808243876152)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [Оригінальний допис](https://x.com/AiHubMix/status/2096135808243876152)
 
 ---
 
@@ -2594,7 +2594,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Інтерактивна анатомія людини з рознесенням структур](../assets/previews/73fbb8ce4494edce62d6.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186"><img src="../assets/previews/73fbb8ce4494edce62d6.webp" width="840" loading="lazy" alt="Інтерактивна анатомія людини з рознесенням структур"></a>
 
 </details>
 
@@ -2604,7 +2604,7 @@
 Створи 3D-сайт з анатомії, де людське тіло розділяється на структури для окремого огляду. Додай навігацію рознесеним виглядом і впорядкуй частини за змістовними системами.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186) · [Оригінальний допис](https://x.com/ashebytes/status/2096221988763173186)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186) · [Оригінальний допис](https://x.com/ashebytes/status/2096221988763173186)
 
 ---
 
@@ -2619,7 +2619,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Розбірна модель Tesla Model X](../assets/previews/59bc5339c02dceeee7e0.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/tesla-model-x-exploded-view-2096009146248122416"><img src="../assets/previews/59bc5339c02dceeee7e0.webp" width="840" loading="lazy" alt="Розбірна модель Tesla Model X"></a>
 
 </details>
 
@@ -2629,7 +2629,7 @@
 Створи 3D-сайт, який розбирає Tesla Model X на змодельовані компоненти. Дай відвідувачам оглядати вузли й інтерактивно збирати автомобіль назад.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/tesla-model-x-exploded-view-2096009146248122416) · [Оригінальний допис](https://x.com/ashebytes/status/2096009146248122416)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/tesla-model-x-exploded-view-2096009146248122416) · [Оригінальний допис](https://x.com/ashebytes/status/2096009146248122416)
 
 ---
 
@@ -2644,7 +2644,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Автомат із капсулами спогадів](../assets/previews/2623ee6ae5ad1e80ed6a.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/memory-capsule-machine-2096241295949975602"><img src="../assets/previews/2623ee6ae5ad1e80ed6a.webp" width="840" loading="lazy" alt="Автомат із капсулами спогадів"></a>
 
 </details>
 
@@ -2654,7 +2654,7 @@
 Створи 3D-автомат із капсулами спогадів. Поворот ручки має випускати спогад; змоделюй механізм у Blender і додай капсулам правдоподібні рухи та звук падіння.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/memory-capsule-machine-2096241295949975602) · [Оригінальний допис](https://x.com/gloria_zwq/status/2096241295949975602)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/memory-capsule-machine-2096241295949975602) · [Оригінальний допис](https://x.com/gloria_zwq/status/2096241295949975602)
 
 ---
 
@@ -2669,7 +2669,7 @@
 <details>
 <summary>Попередній перегляд</summary>
 
-![Болід Формули-1 у Blender](../assets/previews/7b1991638d1cf62afb53.webp)
+<a href="https://www.tripo3d.ai/uk/3d-prompts/formula-one-car-in-blender-2096125193580113957"><img src="../assets/previews/7b1991638d1cf62afb53.webp" width="840" loading="lazy" alt="Болід Формули-1 у Blender"></a>
 
 </details>
 
@@ -2679,6 +2679,6 @@
 Створи 3D-модель Формули-1 у Blender за допомогою керування комп’ютером.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/uk/3d-prompts/formula-one-car-in-blender-2096125193580113957) · [Оригінальний допис](https://x.com/Conor_D_Dart/status/2096125193580113957)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/formula-one-car-in-blender-2096125193580113957) · [Оригінальний допис](https://x.com/Conor_D_Dart/status/2096125193580113957)
 
 ---

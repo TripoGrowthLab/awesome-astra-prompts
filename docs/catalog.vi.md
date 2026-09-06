@@ -119,7 +119,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Đại dương sống và mô phỏng bão dựng bằng thủ tục](../assets/previews/f328a1a13f9ac8c829d2.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429"><img src="../assets/previews/f328a1a13f9ac8c829d2.webp" width="840" loading="lazy" alt="Đại dương sống và mô phỏng bão dựng bằng thủ tục"></a>
 
 </details>
 
@@ -129,7 +129,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Mở rộng trình tạo mặt biển bão trong một tệp được cung cấp thành đại dương thủ tục hoàn chỉnh. Thêm rạn san hô, vùng nước sâu, thời tiết hợp lý, quần thể động vật có hành vi nảy sinh từ tương tác, quan hệ sinh thái và camera di chuyển giữa trên mặt nước với dưới nước.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429) · [Bài đăng gốc](https://x.com/emollick/status/2095673885605630429) · [Mã nguồn](https://github.com/emollick/abyssal-living-deep) · [Bản demo](https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429) · [Bài đăng gốc](https://x.com/emollick/status/2095673885605630429) · [Mã nguồn](https://github.com/emollick/abyssal-living-deep) · [Bản demo](https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1)
 
 ---
 
@@ -144,7 +144,7 @@ Dựng FPS 5 đấu 5 phong cách Hậu Ấn tượng với nhân vật họa s�
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Gogh Strike: FPS nhiều người](../assets/previews/70ad9e97aa42a9189998.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608"><img src="../assets/previews/70ad9e97aa42a9189998.webp" width="840" loading="lazy" alt="Gogh Strike: FPS nhiều người"></a>
 
 </details>
 
@@ -154,7 +154,7 @@ Dựng FPS 5 đấu 5 phong cách Hậu Ấn tượng với nhân vật họa s�
 Dựng FPS 5 đấu 5 phong cách Hậu Ấn tượng với nhân vật họa sĩ render bằng Blender, đội dễ phân biệt và trận nhiều người hoàn chỉnh trong trình duyệt.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608) · [Bài đăng gốc](https://x.com/petergostev/status/2096013280519016608) · [Mã nguồn](https://github.com/petergpt/gogh-strike) · [Bản demo](https://gogh-strike.surge.sh/)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608) · [Bài đăng gốc](https://x.com/petergostev/status/2096013280519016608) · [Mã nguồn](https://github.com/petergpt/gogh-strike) · [Bản demo](https://gogh-strike.surge.sh/)
 
 ---
 
@@ -169,7 +169,7 @@ Dựng game Three.js chặt chém góc nhìn thứ ba trong thánh đường tr�
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Đấu trường chặt chém trong thánh đường](../assets/previews/b8e73f6ab2b929800dd1.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792"><img src="../assets/previews/b8e73f6ab2b929800dd1.webp" width="840" loading="lazy" alt="Đấu trường chặt chém trong thánh đường"></a>
 
 </details>
 
@@ -179,7 +179,7 @@ Dựng game Three.js chặt chém góc nhìn thứ ba trong thánh đường tr�
 Dựng game Three.js chặt chém góc nhìn thứ ba trong thánh đường trên ngôi sao chết. Có combo kiếm nhẹ, đòn nặng, phép diện rộng, né và hoạt ảnh vũ khí hai tay có trọng lượng.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792) · [Bài đăng gốc](https://x.com/superalesha/status/2095988972879335792) · [Mã nguồn](https://github.com/alesha-pro/bench-portal) · [Bản demo](https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792) · [Bài đăng gốc](https://x.com/superalesha/status/2095988972879335792) · [Mã nguồn](https://github.com/alesha-pro/bench-portal) · [Bản demo](https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/)
 
 ---
 
@@ -194,7 +194,7 @@ Dựng game đua chiến đấu phản trọng lực tốc độ cao trong Three
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Game đua chiến đấu phản trọng lực](../assets/previews/76744b47af9907732336.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/anti-gravity-combat-racer-2095967568825582044"><img src="../assets/previews/76744b47af9907732336.webp" width="840" loading="lazy" alt="Game đua chiến đấu phản trọng lực"></a>
 
 </details>
 
@@ -204,7 +204,7 @@ Dựng game đua chiến đấu phản trọng lực tốc độ cao trong Three
 Dựng game đua chiến đấu phản trọng lực tốc độ cao trong Three.js với drift, boost, camera nghiêng, phanh khí động và khiên nhặt được. Có phi thuyền nhẹ, cân bằng, nặng trên đường đua ngoài hành tinh trên cao.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/anti-gravity-combat-racer-2095967568825582044) · [Bài đăng gốc](https://x.com/superalesha/status/2095967568825582044) · [Mã nguồn](https://github.com/alesha-pro/bench-portal)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/anti-gravity-combat-racer-2095967568825582044) · [Bài đăng gốc](https://x.com/superalesha/status/2095967568825582044) · [Mã nguồn](https://github.com/alesha-pro/bench-portal)
 
 ---
 
@@ -219,7 +219,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Xã hội sinh tồn của những con người tự chủ trong Unreal Engine](../assets/previews/3dfc15d51104de183c13.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/previews/3dfc15d51104de183c13.webp" width="840" loading="lazy" alt="Xã hội sinh tồn của những con người tự chủ trong Unreal Engine"></a>
 
 </details>
 
@@ -229,7 +229,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Tạo một thế giới trong Unreal Engine với những nhân vật con người tự chủ. Mỗi người có nhu cầu riêng và cùng hướng đến mục tiêu sinh tồn, buộc họ phải giao tiếp, phân chia công việc, dựng nơi trú ẩn và duy trì xã hội ngay cả khi người chơi rời đi.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Bài đăng gốc](https://x.com/mattshumer_/status/2095596175705399482)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Bài đăng gốc](https://x.com/mattshumer_/status/2095596175705399482)
 
 ---
 
@@ -244,7 +244,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Dựng Manhattan trong Unreal Engine, từng con phố một](../assets/previews/df1e2d655d7eca4caf78.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525"><img src="../assets/previews/df1e2d655d7eca4caf78.webp" width="840" loading="lazy" alt="Dựng Manhattan trong Unreal Engine, từng con phố một"></a>
 
 </details>
 
@@ -254,7 +254,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Dựng một Manhattan có thể khám phá trong Unreal Engine. Làm lần lượt từng quận, từng con phố, giữ tỷ lệ dễ nhận biết, bố cục đường sá, địa danh, giao thông và đặc trưng khu phố. Duy trì danh sách tiêu chí đánh giá và hoàn thiện từng khu vực trước khi chuyển sang nơi tiếp theo.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [Bài đăng gốc](https://x.com/mattshumer_/status/2095609734845927525)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [Bài đăng gốc](https://x.com/mattshumer_/status/2095609734845927525)
 
 ---
 
@@ -269,7 +269,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Cảnh biệt thự hiện đại trong Blender](../assets/previews/d1f867dcf59b933bc843.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/modern-villa-scene-in-blender-2095636679264780481"><img src="../assets/previews/d1f867dcf59b933bc843.webp" width="840" loading="lazy" alt="Cảnh biệt thự hiện đại trong Blender"></a>
 
 </details>
 
@@ -279,7 +279,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Dựng một cảnh biệt thự hiện đại hoàn chỉnh trong Blender với kiến trúc nhất quán, nội thất đầy đủ, hồ bơi vô cực, cảnh quan, vật liệu chân thực và đường máy quay đậm chất điện ảnh trong giờ vàng.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/modern-villa-scene-in-blender-2095636679264780481) · [Bài đăng gốc](https://x.com/karankendre/status/2095636679264780481)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/modern-villa-scene-in-blender-2095636679264780481) · [Bài đăng gốc](https://x.com/karankendre/status/2095636679264780481)
 
 ---
 
@@ -294,7 +294,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Game 3D trên trình duyệt từ một yêu cầu](../assets/previews/83ed142104b7acba468c.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/one-shot-browser-3d-game-2095599934766764338"><img src="../assets/previews/83ed142104b7acba468c.webp" width="840" loading="lazy" alt="Game 3D trên trình duyệt từ một yêu cầu"></a>
 
 </details>
 
@@ -304,7 +304,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Tạo một game 3D hoàn chỉnh chạy trên trình duyệt trong một dự án độc lập. Có mục tiêu dễ hiểu, điều khiển nhạy, màn chơi hợp lý về không gian, kẻ địch hoặc chướng ngại, phản hồi rõ ràng, tính điểm, khởi động lại và biện pháp giữ hiệu năng ổn định.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/one-shot-browser-3d-game-2095599934766764338) · [Bài đăng gốc](https://x.com/theo/status/2095599934766764338)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/one-shot-browser-3d-game-2095599934766764338) · [Bài đăng gốc](https://x.com/theo/status/2095599934766764338)
 
 ---
 
@@ -319,7 +319,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Từ ảnh ngôi nhà đến thế giới Blender có thể chỉnh sửa](../assets/previews/e54b3e2710c53a16b303.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775"><img src="../assets/previews/e54b3e2710c53a16b303.webp" width="840" loading="lazy" alt="Từ ảnh ngôi nhà đến thế giới Blender có thể chỉnh sửa"></a>
 
 </details>
 
@@ -329,7 +329,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Dựng lại ngôi nhà trong ảnh được cung cấp thành một cảnh Blender có thể chỉnh sửa hoàn toàn. Tách kiến trúc, đồ nội thất, thiết bị và đồ chơi thành từng đối tượng, giữ tỷ lệ hợp lý và tạo trải nghiệm đi tham quan chạy cục bộ mượt ở 60 FPS.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775) · [Bài đăng gốc](https://x.com/tomkrcha/status/2095598645190291775)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775) · [Bài đăng gốc](https://x.com/tomkrcha/status/2095598645190291775)
 
 ---
 
@@ -344,7 +344,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Từ tin Zillow đến phim bất động sản 3D](../assets/previews/6f8c345161829fa354d9.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615"><img src="../assets/previews/6f8c345161829fa354d9.webp" width="840" loading="lazy" alt="Từ tin Zillow đến phim bất động sản 3D"></a>
 
 </details>
 
@@ -354,7 +354,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Dùng tin đăng bất động sản và toàn bộ ảnh đi kèm để dựng lại ngôi nhà trong 3D, suy ra mặt bằng nhất quán rồi tạo video tham quan quảng bá chỉn chu. Đánh dấu phần hình học chưa chắc chắn và sửa sai lệch sau bản đầu tiên.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615) · [Bài đăng gốc](https://x.com/realYunfanYe/status/2095612137582526615)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615) · [Bài đăng gốc](https://x.com/realYunfanYe/status/2095612137582526615)
 
 ---
 
@@ -369,7 +369,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Từ bản vẽ đầu máy hơi nước đến cụm lắp ráp Blender](../assets/previews/06507ec81e3b2b48f511.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311"><img src="../assets/previews/06507ec81e3b2b48f511.webp" width="840" loading="lazy" alt="Từ bản vẽ đầu máy hơi nước đến cụm lắp ráp Blender"></a>
 
 </details>
 
@@ -379,7 +379,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Dựng lại đầu máy hơi nước cổ trong bản vẽ thành cụm cơ khí chi tiết trong Blender. Giữ bánh xe, trục, hệ treo, thanh truyền, phụ kiện nồi hơi và các tấm vỏ thành đối tượng có tên, chỉnh sửa được, với ngân sách chi tiết có thể kiểm soát.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Bài đăng gốc](https://x.com/tomkrcha/status/2095756085890310311)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Bài đăng gốc](https://x.com/tomkrcha/status/2095756085890310311)
 
 ---
 
@@ -394,7 +394,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Bối cảnh Phòng Bầu dục dựng thủ tục cho Cycles](../assets/previews/27b8c4a9f00b1882f1a8.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857"><img src="../assets/previews/27b8c4a9f00b1882f1a8.webp" width="840" loading="lazy" alt="Bối cảnh Phòng Bầu dục dựng thủ tục cho Cycles"></a>
 
 </details>
 
@@ -404,7 +404,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Chuyển mô tả thiết kế bối cảnh Phòng Bầu dục thành mã dựng cảnh có thể chạy. Tạo không gian trong Blender với nội thất, tường, ánh sáng và bố trí máy quay đều chỉnh sửa được, rồi render kết quả mang chất điện ảnh bằng Cycles.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857) · [Bài đăng gốc](https://x.com/higgsfield_ai/status/2095630197257367857)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857) · [Bài đăng gốc](https://x.com/higgsfield_ai/status/2095630197257367857)
 
 ---
 
@@ -419,7 +419,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Thế giới kiểu Minecraft từ một yêu cầu](../assets/previews/4057aefd543af899d3d0.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/one-shot-minecraft-style-world-2095597137849446688"><img src="../assets/previews/4057aefd543af899d3d0.webp" width="840" loading="lazy" alt="Thế giới kiểu Minecraft từ một yêu cầu"></a>
 
 </details>
 
@@ -429,7 +429,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Tạo ngay trong một lượt một thế giới voxel lấy cảm hứng từ Minecraft có thể chơi được: sinh địa hình, đặt và phá khối, điều khiển góc nhìn thứ nhất, hành trang, ánh sáng, nước và một vòng lặp sinh tồn gọn.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/one-shot-minecraft-style-world-2095597137849446688) · [Bài đăng gốc](https://x.com/flavioAd/status/2095597137849446688)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/one-shot-minecraft-style-world-2095597137849446688) · [Bài đăng gốc](https://x.com/flavioAd/status/2095597137849446688)
 
 ---
 
@@ -444,7 +444,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Tái hiện Palace of Fine Arts trong Blender](../assets/previews/425b651bd5174e37b02f.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143"><img src="../assets/previews/425b651bd5174e37b02f.webp" width="840" loading="lazy" alt="Tái hiện Palace of Fine Arts trong Blender"></a>
 
 </details>
 
@@ -454,7 +454,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Tái hiện Palace of Fine Arts ở San Francisco trong Blender với tỷ lệ nhà tròn dễ nhận biết, hàng cột, hồ nước, cây cối, vật liệu phong hóa và ánh sáng điện ảnh mang tinh thần lạc quan của thời hội chợ thế giới.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143) · [Bài đăng gốc](https://x.com/sharifshameem/status/2095653641164329143)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143) · [Bài đăng gốc](https://x.com/sharifshameem/status/2095653641164329143)
 
 ---
 
@@ -469,7 +469,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Thị trấn có thể đi dạo từ sáu bức tranh Van Gogh](../assets/previews/2d8a09166b72394c4292.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"><img src="../assets/previews/2d8a09166b72394c4292.webp" width="840" loading="lazy" alt="Thị trấn có thể đi dạo từ sáu bức tranh Van Gogh"></a>
 
 </details>
 
@@ -479,7 +479,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Biến sáu bức tranh Van Gogh được cung cấp thành một thị trấn Three.js thống nhất có thể đi dạo. Giữ bảng màu và nét cọ riêng của từng tranh, đồng thời nối đường phố, địa danh và các đoạn chuyển tiếp thành một thế giới có thể khám phá.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Bài đăng gốc](https://x.com/petergostev/status/2095776685807346105) · [Bản demo](https://van-goghs-town.surge.sh/)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Bài đăng gốc](https://x.com/petergostev/status/2095776685807346105) · [Bản demo](https://van-goghs-town.surge.sh/)
 
 ---
 
@@ -494,7 +494,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Tạo game 3D bằng giọng nói cho người mới](../assets/previews/ae76084678dab574ad49.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647"><img src="../assets/previews/ae76084678dab574ad49.webp" width="840" loading="lazy" alt="Tạo game 3D bằng giọng nói cho người mới"></a>
 
 </details>
 
@@ -504,7 +504,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Hãy làm người xây dựng game 3D cho tôi. Chỉ hỏi thêm về mục tiêu người chơi, định hướng hình ảnh và điều khiển còn thiếu, sau đó tạo game trình duyệt có thể chơi ngay và tiếp tục chỉnh sửa theo các chỉ dẫn giọng nói ngắn.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647) · [Bài đăng gốc](https://x.com/EHuanglu/status/2095608358086840647)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647) · [Bài đăng gốc](https://x.com/EHuanglu/status/2095608358086840647)
 
 ---
 
@@ -519,7 +519,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Ba game đua kart theo chủ đề từ một bản greybox](../assets/previews/16e9382415e9e7610e15.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369"><img src="../assets/previews/16e9382415e9e7610e15.webp" width="840" loading="lazy" alt="Ba game đua kart theo chủ đề từ một bản greybox"></a>
 
 </details>
 
@@ -529,7 +529,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Dùng bản greybox đua kart Unity được cung cấp để tạo ba phiên bản chơi được: cướp biển, kẹo ngọt và cyberpunk. Tái sử dụng vòng lặp lái xe cốt lõi, thay môi trường và phản hồi, chơi thử từng bản rồi sửa các lỗi dễ thấy nhất.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369) · [Bài đăng gốc](https://x.com/chetaslua/status/2095580402505400369)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369) · [Bài đăng gốc](https://x.com/chetaslua/status/2095580402505400369)
 
 ---
 
@@ -544,7 +544,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Phiêu lưu thế giới mở trên trình duyệt](../assets/previews/62267b50bd0c00e10a37.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/open-world-browser-adventure-2095596341422440714"><img src="../assets/previews/62267b50bd0c00e10a37.webp" width="840" loading="lazy" alt="Phiêu lưu thế giới mở trên trình duyệt"></a>
 
 </details>
 
@@ -554,7 +554,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Tạo một game phiêu lưu 3D thế giới mở với nhiều quần xã kết nối, di chuyển, khám phá, chiến đấu nhẹ, nhiệm vụ, địa danh và bầu không khí ngày đêm. Có đủ chỉ dẫn để việc khám phá mang cảm giác có mục đích.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/open-world-browser-adventure-2095596341422440714) · [Bài đăng gốc](https://x.com/petergostev/status/2095596341422440714)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/open-world-browser-adventure-2095596341422440714) · [Bài đăng gốc](https://x.com/petergostev/status/2095596341422440714)
 
 ---
 
@@ -569,7 +569,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Studio mockup sản phẩm 3D chân thực](../assets/previews/7762f843277fda2d2f52.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253"><img src="../assets/previews/7762f843277fda2d2f52.webp" width="840" loading="lazy" alt="Studio mockup sản phẩm 3D chân thực"></a>
 
 </details>
 
@@ -579,7 +579,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Tạo công cụ trình duyệt đặt hình ảnh tải lên lên mockup sản phẩm 3D chân thực. Hỗ trợ xoay camera, chỉnh vật liệu và màu, ánh sáng môi trường, nhiều sản phẩm và xuất ảnh độ phân giải cao.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253) · [Bài đăng gốc](https://x.com/joshmillgate/status/2095619319690400253)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253) · [Bài đăng gốc](https://x.com/joshmillgate/status/2095619319690400253)
 
 ---
 
@@ -594,7 +594,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Game thủy cung 3D từ ảnh tham chiếu](../assets/previews/c522341161fd8999972e.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/reference-image-3d-aquarium-game-2095611134992945385"><img src="../assets/previews/c522341161fd8999972e.webp" width="840" loading="lazy" alt="Game thủy cung 3D từ ảnh tham chiếu"></a>
 
 </details>
 
@@ -604,7 +604,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Dùng ảnh tham chiếu được cung cấp để tạo game thủy cung 3D hoàn chỉnh trong một lượt. Dựng lại bố cục bể, tạo chuyển động cho cá, thêm cho ăn và sưu tầm, hiệu ứng nước, điều khiển camera và mục tiêu rõ ràng.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/reference-image-3d-aquarium-game-2095611134992945385) · [Bài đăng gốc](https://x.com/TimJayas/status/2095611134992945385)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/reference-image-3d-aquarium-game-2095611134992945385) · [Bài đăng gốc](https://x.com/TimJayas/status/2095611134992945385)
 
 ---
 
@@ -619,7 +619,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Game 3D thời gian thực chơi được từ một prompt](../assets/previews/d10512aa45750b6fcfc3.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/single-playable-real-time-3d-game-2095647685210669541"><img src="../assets/previews/d10512aa45750b6fcfc3.webp" width="840" loading="lazy" alt="Game 3D thời gian thực chơi được từ một prompt"></a>
 
 </details>
 
@@ -629,7 +629,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Tạo một game 3D thời gian thực có thể chơi từ một prompt. Xác định cơ chế cốt lõi gọn, mục tiêu rõ ràng và câu chuyện ngắn, rồi tạo cảnh, nhân vật, đạo cụ, phản hồi và trạng thái khởi động lại để chơi được ngay.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/single-playable-real-time-3d-game-2095647685210669541) · [Bài đăng gốc](https://x.com/higgsfield/status/2095647685210669541)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/single-playable-real-time-3d-game-2095647685210669541) · [Bài đăng gốc](https://x.com/higgsfield/status/2095647685210669541)
 
 ---
 
@@ -644,7 +644,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Cảnh hải chiến Three.js trong một lượt](../assets/previews/d720a08832dc8749ad7b.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278"><img src="../assets/previews/d720a08832dc8749ad7b.webp" width="840" loading="lazy" alt="Cảnh hải chiến Three.js trong một lượt"></a>
 
 </details>
 
@@ -654,7 +654,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Tạo trận hải chiến chi tiết trên Three.js trong một lượt. Có nhiều tàu khác nhau, tương tác với nước thuyết phục về vật lý, vệt sóng và nước bắn, hoạt động trên không, vụ nổ, ánh sáng điện ảnh, chuyển động camera và render có cân nhắc hiệu năng.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278) · [Bài đăng gốc](https://x.com/synthwavedd/status/2095840435319001278)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278) · [Bài đăng gốc](https://x.com/synthwavedd/status/2095840435319001278)
 
 ---
 
@@ -669,7 +669,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![FPS nhiều người 10 đấu 10 lấy cảm hứng từ Halo](../assets/previews/56d4000d3fc115fd7529.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024"><img src="../assets/previews/56d4000d3fc115fd7529.webp" width="840" loading="lazy" alt="FPS nhiều người 10 đấu 10 lấy cảm hứng từ Halo"></a>
 
 </details>
 
@@ -679,7 +679,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Tạo game bắn súng đấu trường nhiều người 10 đấu 10 lấy cảm hứng từ FPS khoa học viễn tưởng cổ điển. Có đội, hồi sinh, vũ khí dễ phân biệt, khiên, vật phẩm nhặt được, bản đồ gọn, tính điểm, tiến trình trận đấu và chơi trên trình duyệt với độ trễ thấp.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024) · [Bài đăng gốc](https://x.com/VikiingAI/status/2095598026916049024)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024) · [Bài đăng gốc](https://x.com/VikiingAI/status/2095598026916049024)
 
 ---
 
@@ -694,7 +694,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Mô hình đường sắt voxel tương tác](../assets/previews/7a7bcde401d8420e09e2.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-voxel-railway-table-2095719731860750613"><img src="../assets/previews/7a7bcde401d8420e09e2.webp" width="840" loading="lazy" alt="Mô hình đường sắt voxel tương tác"></a>
 
 </details>
 
@@ -704,7 +704,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Tạo mô hình đường sắt voxel chi tiết trên Three.js. Cho người dùng chạy và dừng nhiều đoàn tàu, chuyển đường ray, xoay và phóng to quanh bàn, xem các thị trấn thu nhỏ và kích hoạt hoạt cảnh môi trường nhỏ.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-voxel-railway-table-2095719731860750613) · [Bài đăng gốc](https://x.com/DeryaTR_/status/2095719731860750613) · [Bản demo](https://lindenhafen-railway.vercel.app/)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-voxel-railway-table-2095719731860750613) · [Bài đăng gốc](https://x.com/DeryaTR_/status/2095719731860750613) · [Bản demo](https://lindenhafen-railway.vercel.app/)
 
 ---
 
@@ -719,7 +719,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Con tàu voxel sống động trong chai](../assets/previews/a3c527769a0401300bf1.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065"><img src="../assets/previews/a3c527769a0401300bf1.webp" width="840" loading="lazy" alt="Con tàu voxel sống động trong chai"></a>
 
 </details>
 
@@ -729,7 +729,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Tạo con tàu voxel thế kỷ 17 chi tiết đang chạy bên trong chai thủy tinh. Mô phỏng sóng và chuyển động tàu, thêm hải âu bay vòng, cảng thu nhỏ và rạn san hô, rồi tạo chuỗi máy quay điện ảnh cùng nhạc nền êm dịu.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065) · [Bài đăng gốc](https://x.com/DeryaTR_/status/2095699049722581065)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065) · [Bài đăng gốc](https://x.com/DeryaTR_/status/2095699049722581065)
 
 ---
 
@@ -744,7 +744,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Cụm CAD USS Enterprise có thể in](../assets/previews/3b7b068d0eb0e5288ff2.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676"><img src="../assets/previews/3b7b068d0eb0e5288ff2.webp" width="840" loading="lazy" alt="Cụm CAD USS Enterprise có thể in"></a>
 
 </details>
 
@@ -754,7 +754,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Thiết kế trong CAD một mô hình nguyên bản tri ân USS Enterprise NCC-1701, sẵn sàng để in. Có tỷ lệ dễ nhận biết, cầu tàu và một số nội thất, ít nhất 28 chi tiết chuyển động hoạt động được, cụm lắp ráp tách riêng và tệp sản xuất có thể xuất.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676) · [Bài đăng gốc](https://x.com/DeryaTR_/status/2095641163441254676)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676) · [Bài đăng gốc](https://x.com/DeryaTR_/status/2095641163441254676)
 
 ---
 
@@ -769,7 +769,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Game bay xuyên hào không gian trong Unity](../assets/previews/be8d6964ee56b4d4d219.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/unity-space-trench-run-game-2095630044102279312"><img src="../assets/previews/be8d6964ee56b4d4d219.webp" width="840" loading="lazy" alt="Game bay xuyên hào không gian trong Unity"></a>
 
 </details>
 
@@ -779,7 +779,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Tái hiện cảm giác bay xuyên hào không gian kinh điển trong Unity: bay nhanh sát bề mặt, hỏa lực tháp súng, chướng ngại, ngắm mục tiêu, áp lực tăng dần, mục tiêu cuối và chuỗi thành công hoặc thất bại mang chất điện ảnh.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/unity-space-trench-run-game-2095630044102279312) · [Bài đăng gốc](https://x.com/ronaldmannak/status/2095630044102279312)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/unity-space-trench-run-game-2095630044102279312) · [Bài đăng gốc](https://x.com/ronaldmannak/status/2095630044102279312)
 
 ---
 
@@ -794,7 +794,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Trình diễn lâu đài voxel thủ tục](../assets/previews/b1d1817a37c203d66e96.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/procedural-voxel-castle-showcase-2093690427849191855"><img src="../assets/previews/b1d1817a37c203d66e96.webp" width="840" loading="lazy" alt="Trình diễn lâu đài voxel thủ tục"></a>
 
 </details>
 
@@ -804,7 +804,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Sinh một lâu đài voxel lớn với các lớp phòng thủ rõ ràng, tháp, tường, cổng, sân và địa hình xung quanh. Dùng instancing, camera xoay quanh, ánh sáng thay đổi và sinh có tính xác định để kết quả ổn định, dễ quan sát.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/procedural-voxel-castle-showcase-2093690427849191855) · [Bài đăng gốc](https://x.com/hakmgpt/status/2093690427849191855)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/procedural-voxel-castle-showcase-2093690427849191855) · [Bài đăng gốc](https://x.com/hakmgpt/status/2093690427849191855)
 
 ---
 
@@ -819,7 +819,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Thành phố Unity có thể khám phá từ thư viện asset](../assets/previews/35299b2ab45e0614dcc7.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887"><img src="../assets/previews/35299b2ab45e0614dcc7.webp" width="840" loading="lazy" alt="Thành phố Unity có thể khám phá từ thư viện asset"></a>
 
 </details>
 
@@ -829,7 +829,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Lắp ráp một thành phố Unity có thể khám phá từ thư viện asset được cung cấp. Tạo mạng đường nhất quán, nhà cao tầng, xe cộ, cây cọ, ánh sáng và điều hướng, rồi tối ưu cảnh để có chuyến tham quan góc nhìn thứ nhất ổn định.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887) · [Bài đăng gốc](https://x.com/chetaslua/status/2095597640587374887)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887) · [Bài đăng gốc](https://x.com/chetaslua/status/2095597640587374887)
 
 ---
 
@@ -844,7 +844,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Đầu máy Blender đầy đủ cấu tạo cơ khí](../assets/previews/a02294169159c5b88bfb.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840"><img src="../assets/previews/a02294169159c5b88bfb.webp" width="840" loading="lazy" alt="Đầu máy Blender đầy đủ cấu tạo cơ khí"></a>
 
 </details>
 
@@ -854,7 +854,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Dựng đầu máy hơi nước trong Blender như một cấu trúc cơ khí thực sự, không phải lớp vỏ có texture. Đặt tên và tách riêng trục, dẫn hướng hộp trục, hộp trục, thanh giằng, liên kết hệ treo, vòm hơi và mọi cụm chính.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840) · [Bài đăng gốc](https://x.com/sheemamoto/status/2095868420327710840)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840) · [Bài đăng gốc](https://x.com/sheemamoto/status/2095868420327710840)
 
 ---
 
@@ -869,7 +869,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Tidal Rush: game trình duyệt với tám tay đua](../assets/previews/19e2e109daf0820abba3.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023"><img src="../assets/previews/19e2e109daf0820abba3.webp" width="840" loading="lazy" alt="Tidal Rush: game trình duyệt với tám tay đua"></a>
 
 </details>
 
@@ -879,7 +879,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Tạo game đua kart trên trình duyệt hoàn chỉnh với tám tay đua, ba vòng, drift, vật phẩm nhặt được, vật lý nhạy, HUD rõ ràng, đồ họa đẹp và màn kết quả sau khi về đích.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023) · [Bài đăng gốc](https://x.com/amazing13_13/status/2095819786651374023)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023) · [Bài đăng gốc](https://x.com/amazing13_13/status/2095819786651374023)
 
 ---
 
@@ -894,7 +894,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Hero thiên hà WebGL thời gian thực](../assets/previews/fe2d45919c2bec07fc5f.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631"><img src="../assets/previews/fe2d45919c2bec07fc5f.webp" width="840" loading="lazy" alt="Hero thiên hà WebGL thời gian thực"></a>
 
 </details>
 
@@ -904,7 +904,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Phân tích ngôn ngữ hình ảnh của hero thiên hà được cung cấp và dựng lại bằng WebGL thời gian thực thay vì video. Dùng hạt có chiều sâu, bụi phát sáng, phản ứng con trỏ mượt, không gian chữ tiết chế và hiệu năng thích ứng.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631) · [Bài đăng gốc](https://x.com/Fluxora_Studios/status/2095805694603673631)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631) · [Bài đăng gốc](https://x.com/Fluxora_Studios/status/2095805694603673631)
 
 ---
 
@@ -919,7 +919,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Game arcade văn hóa tự chơi](../assets/previews/e8816591f99630e061fd.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791"><img src="../assets/previews/e8816591f99630e061fd.webp" width="840" loading="lazy" alt="Game arcade văn hóa tự chơi"></a>
 
 </details>
 
@@ -929,7 +929,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Tạo một game arcade tự chơi cho một quốc gia G7. Biến địa danh văn hóa dễ nhận biết thành cơ chế chính, làm hành động dễ hiểu mà không cần nhập lệnh, thêm điểm, thử thách tăng dần và màn hé lộ đáng nhớ.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791) · [Bài đăng gốc](https://x.com/say_gm_/status/2095898198413922791)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791) · [Bài đăng gốc](https://x.com/say_gm_/status/2095898198413922791)
 
 ---
 
@@ -944,7 +944,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Nguyên mẫu tương tác cao cấp trong một lượt](../assets/previews/33f3f93183ced23b1e8c.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065"><img src="../assets/previews/33f3f93183ced23b1e8c.webp" width="840" loading="lazy" alt="Nguyên mẫu tương tác cao cấp trong một lượt"></a>
 
 </details>
 
@@ -954,7 +954,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Thiết kế và triển khai nguyên mẫu tương tác chỉn chu trong một lượt từ ý tưởng sản phẩm được cung cấp. Chọn hệ hình ảnh mạnh, ưu tiên hành động chính, thêm chuyển cảnh mượt và bàn giao bản responsive đã được đưa lên web.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065) · [Bài đăng gốc](https://x.com/AY_Orbach/status/2095597560253862065)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065) · [Bài đăng gốc](https://x.com/AY_Orbach/status/2095597560253862065)
 
 ---
 
@@ -969,7 +969,7 @@ Tác giả đã công bố nguyên văn yêu cầu trong bài X được liên k
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Mô hình turbo 3D tương tác dạng tháo rời](../assets/previews/906d471ad638279a8457.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725"><img src="../assets/previews/906d471ad638279a8457.webp" width="840" loading="lazy" alt="Mô hình turbo 3D tương tác dạng tháo rời"></a>
 
 </details>
 
@@ -979,7 +979,7 @@ Prompt nguyên văn do tác giả công bố
 Dựng một bộ tăng áp turbo 3D tương tác. Tách riêng mọi hệ thống hoạt động. Cho tôi xoay nó, cô lập từng phần và thấy rõ cỗ máy đang làm gì.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725) · [Bài đăng gốc](https://x.com/Feraser8/status/2095776712579571725)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725) · [Bài đăng gốc](https://x.com/Feraser8/status/2095776712579571725)
 
 ---
 
@@ -994,7 +994,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Game Three.js gây bất ngờ trong một lượt](../assets/previews/01a4fe457300f75b9f45.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198"><img src="../assets/previews/01a4fe457300f75b9f45.webp" width="840" loading="lazy" alt="Game Three.js gây bất ngờ trong một lượt"></a>
 
 </details>
 
@@ -1004,7 +1004,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Tạo một game Three.js nguyên bản trong một lượt, xứng đáng với tên “Amaze”. Chọn một cơ chế hình ảnh bất ngờ, dạy người chơi trong vài giây, xây dựng nhịp tiến triển ngắn và kết thúc bằng màn trình diễn mãn nhãn.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198) · [Bài đăng gốc](https://x.com/pratt_builds/status/2095663498101662198)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198) · [Bài đăng gốc](https://x.com/pratt_builds/status/2095663498101662198)
 
 ---
 
@@ -1019,7 +1019,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Nguyên mẫu game chơi được thật nhanh](../assets/previews/8aa9a7706316dc84c6df.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/rapid-playable-game-prototype-2095907526566990013"><img src="../assets/previews/8aa9a7706316dc84c6df.webp" width="840" loading="lazy" alt="Nguyên mẫu game chơi được thật nhanh"></a>
 
 </details>
 
@@ -1029,7 +1029,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Tạo nguyên mẫu game nhất quán về hình ảnh dưới giới hạn thời gian và token nghiêm ngặt. Ưu tiên một vòng lặp hoàn chỉnh, điều khiển nhạy, phản hồi rõ, hiệu năng ổn định và bản trình duyệt có thể phát hành thay vì số lượng tính năng.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/rapid-playable-game-prototype-2095907526566990013) · [Bài đăng gốc](https://x.com/gibglue/status/2095907526566990013)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/rapid-playable-game-prototype-2095907526566990013) · [Bài đăng gốc](https://x.com/gibglue/status/2095907526566990013)
 
 ---
 
@@ -1044,7 +1044,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Từ prompt đến game thế giới mở](../assets/previews/81360ee1cb1d7aaa7aef.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/open-world-game-from-a-prompt-2095872986477908108"><img src="../assets/previews/81360ee1cb1d7aaa7aef.webp" width="840" loading="lazy" alt="Từ prompt đến game thế giới mở"></a>
 
 </details>
 
@@ -1054,7 +1054,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Tạo game thế giới mở từ ý tưởng: [bối cảnh thế giới]. Có ba vùng riêng biệt, di chuyển, các cuộc gặp động, chuỗi nhiệm vụ đơn giản, địa danh, lưu và khởi động lại cùng mức tối ưu đủ để chạy trên trình duyệt.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/open-world-game-from-a-prompt-2095872986477908108) · [Bài đăng gốc](https://x.com/aeejazkhan/status/2095872986477908108)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/open-world-game-from-a-prompt-2095872986477908108) · [Bài đăng gốc](https://x.com/aeejazkhan/status/2095872986477908108)
 
 ---
 
@@ -1069,7 +1069,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Trang chủ thiên hà Three.js tương tác](../assets/previews/0838004dbcf9c31ee5d0.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457"><img src="../assets/previews/0838004dbcf9c31ee5d0.webp" width="840" loading="lazy" alt="Trang chủ thiên hà Three.js tương tác"></a>
 
 </details>
 
@@ -1079,7 +1079,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Tạo hero trang ra mắt cao cấp xoay quanh thiên hà Three.js thời gian thực. Cho các hạt tạo thành bóng dáng số sáu tinh tế, phản ứng với cuộn trang và con trỏ; giữ chữ dễ đọc và giảm hiệu ứng nhẹ nhàng trên thiết bị yếu.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457) · [Bài đăng gốc](https://x.com/threejsresource/status/2095806515579879457)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457) · [Bài đăng gốc](https://x.com/threejsresource/status/2095806515579879457)
 
 ---
 
@@ -1094,7 +1094,7 @@ Tác giả đã công bố nguyên văn yêu cầu trong bài X được liên k
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Phòng ngủ cyberpunk lặp vô tận trong Blender](../assets/previews/e2345fe72cbaa70b18e7.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230"><img src="../assets/previews/e2345fe72cbaa70b18e7.webp" width="840" loading="lazy" alt="Phòng ngủ cyberpunk lặp vô tận trong Blender"></a>
 
 </details>
 
@@ -1104,7 +1104,7 @@ Prompt nguyên văn do tác giả công bố
 Tạo phòng ngủ cyberpunk đậm chất điện ảnh trong Blender nhìn ra thành phố neon về đêm dưới mưa. Thêm bảng quảng cáo động, làm hình ảnh chân thực và vòng lặp liền mạch.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [Bài đăng gốc](https://x.com/CoinSh0t/status/2095898303019856230)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [Bài đăng gốc](https://x.com/CoinSh0t/status/2095898303019856230)
 
 ---
 
@@ -1119,7 +1119,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Thị trấn Van Gogh trong Three.js](../assets/previews/2d8a09166b72394c4292.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/van-gogh-town-in-three-js-2095871735824339279"><img src="../assets/previews/2d8a09166b72394c4292.webp" width="840" loading="lazy" alt="Thị trấn Van Gogh trong Three.js"></a>
 
 </details>
 
@@ -1129,7 +1129,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Tạo thị trấn Three.js có thể đi dạo lấy cảm hứng từ Van Gogh. Biến đường phố, sao, quán cà phê và cánh đồng trong tranh thành không gian 3D nhiều lớp, giữ nét cọ sống động qua shader, texture và ánh sáng động.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/van-gogh-town-in-three-js-2095871735824339279) · [Bài đăng gốc](https://x.com/RealFedeURU/status/2095871735824339279)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/van-gogh-town-in-three-js-2095871735824339279) · [Bài đăng gốc](https://x.com/RealFedeURU/status/2095871735824339279)
 
 ---
 
@@ -1144,7 +1144,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Dạo bước trên phố “Đêm đầy sao”](../assets/previews/3bb18f1641ee2093e980.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372"><img src="../assets/previews/3bb18f1641ee2093e980.webp" width="840" loading="lazy" alt="Dạo bước trên phố “Đêm đầy sao”"></a>
 
 </details>
 
@@ -1154,7 +1154,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Kết hợp sáu bức tranh Van Gogh thành thị trấn có thể khám phá, nơi khách đi dạo trên phố “Đêm đầy sao”. Thiết kế cổng chuyển cảnh tự nhiên giữa các tranh, duy trì tỷ lệ nhất quán và thêm tương tác môi trường nhẹ.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372) · [Bài đăng gốc](https://x.com/BigRyan/status/2095805115580199372)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372) · [Bài đăng gốc](https://x.com/BigRyan/status/2095805115580199372)
 
 ---
 
@@ -1169,7 +1169,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Bàn tàu hỏa tuổi thơ có thể điều khiển](../assets/previews/93c7b29090d7ae96b607.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/driveable-childhood-train-table-2095742344293454148"><img src="../assets/previews/93c7b29090d7ae96b607.webp" width="840" loading="lazy" alt="Bàn tàu hỏa tuổi thơ có thể điều khiển"></a>
 
 </details>
 
@@ -1179,7 +1179,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Dựng lại bàn tàu hỏa tuổi thơ thành đồ chơi Three.js có cảm giác chạm, với đường ray và toa tàu voxel. Cho người chơi lái tàu, đổi nhánh ray, xoay quanh bàn và khám phá các cảnh nhỏ chuyển động.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [Bài đăng gốc](https://x.com/BigRyan/status/2095742344293454148)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [Bài đăng gốc](https://x.com/BigRyan/status/2095742344293454148)
 
 ---
 
@@ -1194,7 +1194,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Từ mô tả đến thành phố Unity có thể khám phá](../assets/previews/35299b2ab45e0614dcc7.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/text-to-explorable-unity-city-2095623452678144366"><img src="../assets/previews/35299b2ab45e0614dcc7.webp" width="840" loading="lazy" alt="Từ mô tả đến thành phố Unity có thể khám phá"></a>
 
 </details>
 
@@ -1204,7 +1204,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Biến ý tưởng thành phố được cung cấp thành môi trường Unity có nhà cao tầng, đường sá, xe cộ, cây cọ và ánh sáng giàu không khí. Thiết lập tỷ lệ hợp lý, điều hướng, chuyển động giao thông và camera góc nhìn thứ nhất mượt.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/text-to-explorable-unity-city-2095623452678144366) · [Bài đăng gốc](https://x.com/0x0SojalSec/status/2095623452678144366)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/text-to-explorable-unity-city-2095623452678144366) · [Bài đăng gốc](https://x.com/0x0SojalSec/status/2095623452678144366)
 
 ---
 
@@ -1219,7 +1219,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Thử nghiệm thủy cung từ một prompt](../assets/previews/c522341161fd8999972e.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/single-aquarium-benchmark-2095650251902239139"><img src="../assets/previews/c522341161fd8999972e.webp" width="840" loading="lazy" alt="Thử nghiệm thủy cung từ một prompt"></a>
 
 </details>
 
@@ -1229,7 +1229,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Từ ảnh tham chiếu được cung cấp, tạo game thủy cung 3D bằng một prompt. Khớp bố cục và cảm xúc, thêm hành vi cá sống động, caustics nước, điều khiển xoay quanh và vòng tương tác nhỏ phù hợp để so sánh kết quả các mô hình.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/single-aquarium-benchmark-2095650251902239139) · [Bài đăng gốc](https://x.com/iamtonyzhu/status/2095650251902239139)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/single-aquarium-benchmark-2095650251902239139) · [Bài đăng gốc](https://x.com/iamtonyzhu/status/2095650251902239139)
 
 ---
 
@@ -1244,7 +1244,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Từ mặt bằng đến chuyến tham quan 3D hoàn chỉnh](../assets/previews/a9453628a11a2eca58a3.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661"><img src="../assets/previews/a9453628a11a2eca58a3.webp" width="840" loading="lazy" alt="Từ mặt bằng đến chuyến tham quan 3D hoàn chỉnh"></a>
 
 </details>
 
@@ -1254,7 +1254,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Chuyển mặt bằng được cung cấp thành chuyến tham quan kiến trúc 3D đầy đủ. Tôn trọng kích thước phòng và luồng di chuyển, thêm cửa, cửa sổ, nội thất, vật liệu và ánh sáng, rồi tạo đường camera giải thích rõ bố cục.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [Bài đăng gốc](https://x.com/aidarosgo3/status/2095725404883476661)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [Bài đăng gốc](https://x.com/aidarosgo3/status/2095725404883476661)
 
 ---
 
@@ -1269,7 +1269,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Ngôi nhà thật thành cảnh Blender chỉnh sửa được ở 60 FPS](../assets/previews/ca2c8c153392a345f4e8.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541"><img src="../assets/previews/ca2c8c153392a345f4e8.webp" width="840" loading="lazy" alt="Ngôi nhà thật thành cảnh Blender chỉnh sửa được ở 60 FPS"></a>
 
 </details>
 
@@ -1279,7 +1279,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Dựng lại ngôi nhà thật được cung cấp thành cảnh Blender có thể chỉnh sửa hoàn toàn. Tách riêng các thành phần kiến trúc và nội thất, tối ưu hình học và vật liệu, bàn giao chuyến tham quan render cục bộ giữ ổn định 60 FPS.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [Bài đăng gốc](https://x.com/alvinfoo/status/2095777502681825541)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [Bài đăng gốc](https://x.com/alvinfoo/status/2095777502681825541)
 
 ---
 
@@ -1294,7 +1294,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Street Heat: game drift trên trình duyệt](../assets/previews/911fb2b70e5d4c824524.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"><img src="../assets/previews/911fb2b70e5d4c824524.webp" width="840" loading="lazy" alt="Street Heat: game drift trên trình duyệt"></a>
 
 </details>
 
@@ -1304,7 +1304,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Tạo game đua xe đường phố arcade hoàn chỉnh trên trình duyệt từ một câu. Có vật lý drift đã tay, điểm combo, thưởng lách sát, camera tốc độ, nitro, giao thông, HUD rõ ràng và đường đua ngắn dễ chơi lại.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [Bài đăng gốc](https://x.com/higgsfield_ai/status/2095916820431827408)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [Bài đăng gốc](https://x.com/higgsfield_ai/status/2095916820431827408)
 
 ---
 
@@ -1319,7 +1319,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Tiền kỳ quay phim bảo tàng bằng 3D](../assets/previews/395c33eedc4e4b959135.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593"><img src="../assets/previews/395c33eedc4e4b959135.webp" width="840" loading="lazy" alt="Tiền kỳ quay phim bảo tàng bằng 3D"></a>
 
 </details>
 
@@ -1329,7 +1329,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Dựng bản tiền kỳ 3D bảo tàng thể hiện địa điểm, vị trí diễn viên, bố trí camera và danh sách cảnh quay. Giữ mọi thiết lập trong khung nhìn vật lý, rồi xuất hướng dẫn nhất quán cho bước tạo video sau đó.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593) · [Bài đăng gốc](https://x.com/higgsfield_ai/status/2095616529572503593)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593) · [Bài đăng gốc](https://x.com/higgsfield_ai/status/2095616529572503593)
 
 ---
 
@@ -1344,7 +1344,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Quảng cáo demo sản phẩm chơi được trong 15 giây](../assets/previews/d10512aa45750b6fcfc3.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/playable-15-second-product-demo-ad-2095695603808309497"><img src="../assets/previews/d10512aa45750b6fcfc3.webp" width="840" loading="lazy" alt="Quảng cáo demo sản phẩm chơi được trong 15 giây"></a>
 
 </details>
 
@@ -1354,7 +1354,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Tạo demo tương tác 15 giây của [sản phẩm], ưu tiên di động. Cho người dùng thử tính năng chính bằng một cử chỉ, phản hồi 3D tức thì và kết thúc bằng CTA rõ ràng “Mở toàn bộ tính năng”. Dùng bố cục dọc 9:16 và giữ màu thương hiệu.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/playable-15-second-product-demo-ad-2095695603808309497) · [Bài đăng gốc](https://x.com/zackpaid/status/2095695603808309497)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/playable-15-second-product-demo-ad-2095695603808309497) · [Bài đăng gốc](https://x.com/zackpaid/status/2095695603808309497)
 
 ---
 
@@ -1369,7 +1369,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Archviz từ bản vẽ qua Blender đến Unreal](../assets/previews/8fef1df6618607f0028f.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551"><img src="../assets/previews/8fef1df6618607f0028f.webp" width="840" loading="lazy" alt="Archviz từ bản vẽ qua Blender đến Unreal"></a>
 
 </details>
 
@@ -1379,7 +1379,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Bắt đầu từ bản vẽ kiến trúc được cung cấp, dựng mô hình chính xác và chỉnh sửa được trong Blender, rồi chuyển sang Unreal Engine thành trải nghiệm archviz có ánh sáng và đi tham quan được, đúng tỷ lệ và va chạm.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551) · [Bài đăng gốc](https://x.com/LinusEkenstam/status/2095624712244072551)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551) · [Bài đăng gốc](https://x.com/LinusEkenstam/status/2095624712244072551)
 
 ---
 
@@ -1394,7 +1394,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Biệt thự rừng Solace: từ yêu cầu đến UE5](../assets/previews/8fef1df6618607f0028f.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375"><img src="../assets/previews/8fef1df6618607f0028f.webp" width="840" loading="lazy" alt="Biệt thự rừng Solace: từ yêu cầu đến UE5"></a>
 
 </details>
 
@@ -1404,7 +1404,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Tạo biệt thự hiện đại trong rừng tên Solace có thể đi tham quan, với ba phòng ngủ, phòng làm việc, sân trung tâm, hồ bơi và rừng bao quanh. Dựng bằng thủ tục trong Blender, render ảnh giờ vàng rồi xuất trải nghiệm UE5 ở 60 FPS.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [Bài đăng gốc](https://x.com/NFT_Chen/status/2095752726886105375)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [Bài đăng gốc](https://x.com/NFT_Chen/status/2095752726886105375)
 
 ---
 
@@ -1419,7 +1419,7 @@ Bản yêu cầu có thể tái sử dụng, được biên soạn từ mô tả
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Thử thách dựng cảnh Blender trong ba mươi giây](../assets/previews/1b7302e35b4c879de4aa.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771"><img src="../assets/previews/1b7302e35b4c879de4aa.webp" width="840" loading="lazy" alt="Thử thách dựng cảnh Blender trong ba mươi giây"></a>
 
 </details>
 
@@ -1429,7 +1429,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Dựng một cảnh Blender nhất quán dưới giới hạn thời gian cực ngắn. Ưu tiên dáng hình rõ, ba lớp chiều sâu, một vật liệu chủ đạo, ánh sáng điện ảnh và bố cục sẵn sàng lên hình; giữ mọi đối tượng có thể chỉnh sửa.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [Bài đăng gốc](https://x.com/_satyam_ai/status/2095844872171421771)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [Bài đăng gốc](https://x.com/_satyam_ai/status/2095844872171421771)
 
 ---
 
@@ -1444,7 +1444,7 @@ Tạo cỗ máy Rube Goldberg trong một tệp HTML Three.js độc lập. Dùn
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Cỗ máy phản ứng dây chuyền Rube Goldberg](../assets/previews/368d9d79144335c0bffc.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629"><img src="../assets/previews/368d9d79144335c0bffc.webp" width="840" loading="lazy" alt="Cỗ máy phản ứng dây chuyền Rube Goldberg"></a>
 
 </details>
 
@@ -1454,7 +1454,7 @@ Tạo cỗ máy Rube Goldberg trong một tệp HTML Three.js độc lập. Dùn
 Tạo cỗ máy Rube Goldberg trong một tệp HTML Three.js độc lập. Dùng chuỗi tương tác cơ khí cuối cùng nhấn nút và kích hoạt vụ nổ đầy kịch tính.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629) · [Bài đăng gốc](https://x.com/thehypedotnews/status/2095980885732704629)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629) · [Bài đăng gốc](https://x.com/thehypedotnews/status/2095980885732704629)
 
 ---
 
@@ -1469,7 +1469,7 @@ Tái hiện Taj Mahal thành cảnh 3D có thể khám phá. Ưu tiên tỷ lệ
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Khám phá Taj Mahal](../assets/previews/afd70948169390c74fbe.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/explorable-taj-mahal-2096035962824335798"><img src="../assets/previews/afd70948169390c74fbe.webp" width="840" loading="lazy" alt="Khám phá Taj Mahal"></a>
 
 </details>
 
@@ -1479,7 +1479,7 @@ Tái hiện Taj Mahal thành cảnh 3D có thể khám phá. Ưu tiên tỷ lệ
 Tái hiện Taj Mahal thành cảnh 3D có thể khám phá. Ưu tiên tỷ lệ dễ nhận biết, vườn đối xứng, mái vòm trung tâm, tháp và quan hệ giữa các công trình.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/explorable-taj-mahal-2096035962824335798) · [Bài đăng gốc](https://x.com/vikassabbi/status/2096035962824335798)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/explorable-taj-mahal-2096035962824335798) · [Bài đăng gốc](https://x.com/vikassabbi/status/2096035962824335798)
 
 ---
 
@@ -1494,7 +1494,7 @@ Dựng mô phỏng hội ngộ quỹ đạo thời gian thực bằng lan truy�
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Mô phỏng hội ngộ quỹ đạo](../assets/previews/42e7d7821256b5c0e0d6.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/orbital-rendezvous-simulator-2096225621303042258"><img src="../assets/previews/42e7d7821256b5c0e0d6.webp" width="840" loading="lazy" alt="Mô phỏng hội ngộ quỹ đạo"></a>
 
 </details>
 
@@ -1504,7 +1504,7 @@ Dựng mô phỏng hội ngộ quỹ đạo thời gian thực bằng lan truy�
 Dựng mô phỏng hội ngộ quỹ đạo thời gian thực bằng lan truyền hai vật thể ECI và dẫn đường HCW. Có định hướng sáu bậc tự do, tiêu hao nhiên liệu, giới hạn lực và mục tiêu ghép nối.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/orbital-rendezvous-simulator-2096225621303042258) · [Bài đăng gốc](https://x.com/AlicanKiraz0/status/2096225621303042258)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/orbital-rendezvous-simulator-2096225621303042258) · [Bài đăng gốc](https://x.com/AlicanKiraz0/status/2096225621303042258)
 
 ---
 
@@ -1519,7 +1519,7 @@ Dựng lại tàu kéo trong Blender từ ảnh tham chiếu. Mô hình hóa th�
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Cụm tàu kéo từ ảnh tham chiếu](../assets/previews/c2a965c19b4319993a70.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/reference-image-tugboat-assembly-2096180220839760375"><img src="../assets/previews/c2a965c19b4319993a70.webp" width="840" loading="lazy" alt="Cụm tàu kéo từ ảnh tham chiếu"></a>
 
 </details>
 
@@ -1529,7 +1529,7 @@ Dựng lại tàu kéo trong Blender từ ảnh tham chiếu. Mô hình hóa th�
 Dựng lại tàu kéo trong Blender từ ảnh tham chiếu. Mô hình hóa thân, buồng lái nghiêng, phụ kiện boong và thiết bị kéo, giải quyết góc nhìn không nhất quán thành một con tàu hợp lý.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/reference-image-tugboat-assembly-2096180220839760375) · [Bài đăng gốc](https://x.com/NarvisAlex/status/2096180220839760375)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/reference-image-tugboat-assembly-2096180220839760375) · [Bài đăng gốc](https://x.com/NarvisAlex/status/2096180220839760375)
 
 ---
 
@@ -1544,7 +1544,7 @@ Dựng lại máy khoan điện trong Blender từ một ảnh tham chiếu. T�
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Dựng máy khoan từ một góc nhìn](../assets/previews/eab0ddb7ed59c8047050.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794"><img src="../assets/previews/eab0ddb7ed59c8047050.webp" width="840" loading="lazy" alt="Dựng máy khoan từ một góc nhìn"></a>
 
 </details>
 
@@ -1554,7 +1554,7 @@ Dựng lại máy khoan điện trong Blender từ một ảnh tham chiếu. T�
 Dựng lại máy khoan điện trong Blender từ một ảnh tham chiếu. Tạo vỏ, tay cầm, đầu kẹp và nút điều khiển thành hình học chỉnh sửa được, rồi kiểm tra từ nhiều góc.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794) · [Bài đăng gốc](https://x.com/SkyeSharkie/status/2096059736693305794)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794) · [Bài đăng gốc](https://x.com/SkyeSharkie/status/2096059736693305794)
 
 ---
 
@@ -1569,7 +1569,7 @@ Dựng game ná 3D với bốn chú chim có năng lực riêng. Có ngắm và 
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Game bắn chim bằng ná 3D](../assets/previews/b9fc3db28e9b9b586476.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/3d-slingshot-bird-game-2095981655370666076"><img src="../assets/previews/b9fc3db28e9b9b586476.webp" width="840" loading="lazy" alt="Game bắn chim bằng ná 3D"></a>
 
 </details>
 
@@ -1579,7 +1579,7 @@ Dựng game ná 3D với bốn chú chim có năng lực riêng. Có ngắm và 
 Dựng game ná 3D với bốn chú chim có năng lực riêng. Có ngắm và thả, công trình phá hủy được và vòng tính điểm chơi lại được.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/3d-slingshot-bird-game-2095981655370666076) · [Bài đăng gốc](https://x.com/MozeTech/status/2095981655370666076)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/3d-slingshot-bird-game-2095981655370666076) · [Bài đăng gốc](https://x.com/MozeTech/status/2095981655370666076)
 
 ---
 
@@ -1594,7 +1594,7 @@ Dựng game bắn súng Three.js góc nhìn thứ ba lấy cảm hứng Max Payn
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Game bắn súng góc nhìn thứ ba với bullet time](../assets/previews/c0c429e42811528f60da.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/bullet-time-third-person-shooter-2095962376344309843"><img src="../assets/previews/c0c429e42811528f60da.webp" width="840" loading="lazy" alt="Game bắn súng góc nhìn thứ ba với bullet time"></a>
 
 </details>
 
@@ -1604,7 +1604,7 @@ Dựng game bắn súng Three.js góc nhìn thứ ba lấy cảm hứng Max Payn
 Dựng game bắn súng Three.js góc nhìn thứ ba lấy cảm hứng Max Payne. Tập trung hành động chậm, bắn súng nhạy và cảnh chơi được với camera bám theo hiệu quả.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/bullet-time-third-person-shooter-2095962376344309843) · [Bài đăng gốc](https://x.com/HangoutWHAndrei/status/2095962376344309843)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/bullet-time-third-person-shooter-2095962376344309843) · [Bài đăng gốc](https://x.com/HangoutWHAndrei/status/2095962376344309843)
 
 ---
 
@@ -1619,7 +1619,7 @@ Tạo khối thạch nảy trông ngon mắt bằng Three.js và WebGPU. Cho nó
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Thạch nảy WebGPU](../assets/previews/cf4454a16a06ed243c20.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/bouncy-webgpu-jelly-2096008241104711698"><img src="../assets/previews/cf4454a16a06ed243c20.webp" width="840" loading="lazy" alt="Thạch nảy WebGPU"></a>
 
 </details>
 
@@ -1629,7 +1629,7 @@ Tạo khối thạch nảy trông ngon mắt bằng Three.js và WebGPU. Cho nó
 Tạo khối thạch nảy trông ngon mắt bằng Three.js và WebGPU. Cho nó biến dạng rồi ổn định tự nhiên sau tương tác, với vật liệu bán trong suốt và ánh sáng rõ.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/bouncy-webgpu-jelly-2096008241104711698) · [Bài đăng gốc](https://x.com/scottstts/status/2096008241104711698)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/bouncy-webgpu-jelly-2096008241104711698) · [Bài đăng gốc](https://x.com/scottstts/status/2096008241104711698)
 
 ---
 
@@ -1644,7 +1644,7 @@ Dựng tay cầm PlayStation 5 quan sát được trong Three.js với dáng hì
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Tay cầm PS5 tương tác](../assets/previews/c17fee4a534e826e0ab3.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-ps5-controller-2095967131573649552"><img src="../assets/previews/c17fee4a534e826e0ab3.webp" width="840" loading="lazy" alt="Tay cầm PS5 tương tác"></a>
 
 </details>
 
@@ -1654,7 +1654,7 @@ Dựng tay cầm PlayStation 5 quan sát được trong Three.js với dáng hì
 Dựng tay cầm PlayStation 5 quan sát được trong Three.js với dáng hình dễ nhận biết, nút, cò, cần analog và vật liệu bề mặt khác nhau.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-ps5-controller-2095967131573649552) · [Bài đăng gốc](https://x.com/blueemi99/status/2095967131573649552)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-ps5-controller-2095967131573649552) · [Bài đăng gốc](https://x.com/blueemi99/status/2095967131573649552)
 
 ---
 
@@ -1669,7 +1669,7 @@ Dựng game bắn súng Three.js trên trình duyệt lấy cảm hứng World a
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Astral War: game bắn súng trình duyệt](../assets/previews/10cc70e94dc0a8e6605b.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/astral-war-browser-shooter-2096079660605997264"><img src="../assets/previews/10cc70e94dc0a8e6605b.webp" width="840" loading="lazy" alt="Astral War: game bắn súng trình duyệt"></a>
 
 </details>
 
@@ -1679,7 +1679,7 @@ Dựng game bắn súng Three.js trên trình duyệt lấy cảm hứng World a
 Dựng game bắn súng Three.js trên trình duyệt lấy cảm hứng World at War. Tạo chiến trường chơi được đầy đủ với chiến đấu nhạy, âm thanh không gian, asset nhân vật và tiến trình trận đấu.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/astral-war-browser-shooter-2096079660605997264) · [Bài đăng gốc](https://x.com/0xRishi/status/2096079660605997264)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/astral-war-browser-shooter-2096079660605997264) · [Bài đăng gốc](https://x.com/0xRishi/status/2096079660605997264)
 
 ---
 
@@ -1694,7 +1694,7 @@ Dùng PDF sơ đồ để sửa mạch trong KiCad, đi dây PCB hai lớp 50 ×
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Từ PDF sơ đồ đến PCB và bản dựng 3D](../assets/previews/1bfc13d5447aa0038e27.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502"><img src="../assets/previews/1bfc13d5447aa0038e27.webp" width="840" loading="lazy" alt="Từ PDF sơ đồ đến PCB và bản dựng 3D"></a>
 
 </details>
 
@@ -1704,7 +1704,7 @@ Dùng PDF sơ đồ để sửa mạch trong KiCad, đi dây PCB hai lớp 50 ×
 Dùng PDF sơ đồ để sửa mạch trong KiCad, đi dây PCB hai lớp 50 × 20 mm rồi render cụm 3D. Xem datasheet linh kiện và xử lý vi phạm quy tắc thiết kế.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Bài đăng gốc](https://x.com/swjtutl/status/2096079976433082502)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Bài đăng gốc](https://x.com/swjtutl/status/2096079976433082502)
 
 ---
 
@@ -1719,7 +1719,7 @@ Tạo game bay 3D hoàn chỉnh trên trình duyệt từ dự án trống, vớ
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Game bay trên trình duyệt](../assets/previews/094260e4ea7a88a23850.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/browser-flight-game-2096149823216898445"><img src="../assets/previews/094260e4ea7a88a23850.webp" width="840" loading="lazy" alt="Game bay trên trình duyệt"></a>
 
 </details>
 
@@ -1729,7 +1729,7 @@ Tạo game bay 3D hoàn chỉnh trên trình duyệt từ dự án trống, vớ
 Tạo game bay 3D hoàn chỉnh trên trình duyệt từ dự án trống, với điều khiển bay, môi trường điều hướng được, mục tiêu rõ và trình bày nhất quán.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/browser-flight-game-2096149823216898445) · [Bài đăng gốc](https://x.com/givros/status/2096149823216898445)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/browser-flight-game-2096149823216898445) · [Bài đăng gốc](https://x.com/givros/status/2096149823216898445)
 
 ---
 
@@ -1744,7 +1744,7 @@ Dựng lại dashboard địa cầu 3D Three.js từ ảnh tham chiếu. Có ch�
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Dashboard địa cầu tương tác](../assets/previews/ce8131795b341edda606.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-globe-dashboard-2096082432197837065"><img src="../assets/previews/ce8131795b341edda606.webp" width="840" loading="lazy" alt="Dashboard địa cầu tương tác"></a>
 
 </details>
 
@@ -1754,7 +1754,7 @@ Dựng lại dashboard địa cầu 3D Three.js từ ảnh tham chiếu. Có ch�
 Dựng lại dashboard địa cầu 3D Three.js từ ảnh tham chiếu. Có chế độ ngày đêm, dữ liệu địa lý dễ đọc và điều khiển hoạt động khớp ảnh.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-globe-dashboard-2096082432197837065) · [Bài đăng gốc](https://x.com/hqmank/status/2096082432197837065)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-globe-dashboard-2096082432197837065) · [Bài đăng gốc](https://x.com/hqmank/status/2096082432197837065)
 
 ---
 
@@ -1769,7 +1769,7 @@ Tạo mô hình tháp Azadi có thể chỉnh sửa trong Blender, tập trung p
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Tháp Azadi trong Blender](../assets/previews/dccea8a39052877e2e5c.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/azadi-tower-in-blender-2096107322536051057"><img src="../assets/previews/dccea8a39052877e2e5c.webp" width="840" loading="lazy" alt="Tháp Azadi trong Blender"></a>
 
 </details>
 
@@ -1779,7 +1779,7 @@ Tạo mô hình tháp Azadi có thể chỉnh sửa trong Blender, tập trung p
 Tạo mô hình tháp Azadi có thể chỉnh sửa trong Blender, tập trung phần đế loe, vòm giao nhau, bề mặt hoa văn và tỷ lệ dễ nhận biết.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/azadi-tower-in-blender-2096107322536051057) · [Bài đăng gốc](https://x.com/taesiri/status/2096107322536051057)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/azadi-tower-in-blender-2096107322536051057) · [Bài đăng gốc](https://x.com/taesiri/status/2096107322536051057)
 
 ---
 
@@ -1794,7 +1794,7 @@ Biến ảnh tham chiếu thành cảnh Three.js trong website studio điều kh
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Website studio 3D theo cuộn trang](../assets/previews/a315174ac48f5392bb9a.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132"><img src="../assets/previews/a315174ac48f5392bb9a.webp" width="840" loading="lazy" alt="Website studio 3D theo cuộn trang"></a>
 
 </details>
 
@@ -1804,7 +1804,7 @@ Biến ảnh tham chiếu thành cảnh Three.js trong website studio điều kh
 Biến ảnh tham chiếu thành cảnh Three.js trong website studio điều khiển bằng cuộn mượt. Đồng bộ chuyển động camera, chữ và chuyển giữa các phần.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [Bài đăng gốc](https://x.com/mx_debbiee/status/2096245759121277132)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [Bài đăng gốc](https://x.com/mx_debbiee/status/2096245759121277132)
 
 ---
 
@@ -1819,7 +1819,7 @@ Dựng game chèo kayak 3D mang thẩm mỹ anime. Cho người chơi chèo trá
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Komorebi: chèo kayak trên sông](../assets/previews/177462bb87e3089acbf2.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/komorebi-river-kayaking-2096244208533455049"><img src="../assets/previews/177462bb87e3089acbf2.webp" width="840" loading="lazy" alt="Komorebi: chèo kayak trên sông"></a>
 
 </details>
 
@@ -1829,7 +1829,7 @@ Dựng game chèo kayak 3D mang thẩm mỹ anime. Cho người chơi chèo trá
 Dựng game chèo kayak 3D mang thẩm mỹ anime. Cho người chơi chèo trái phải để tránh vật cản, với nước chảy, phong cảnh, nhạc và hiệu ứng âm thanh đều tạo bằng mã.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [Bài đăng gốc](https://x.com/ItsmeAjayKV/status/2096244208533455049)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [Bài đăng gốc](https://x.com/ItsmeAjayKV/status/2096244208533455049)
 
 ---
 
@@ -1844,7 +1844,7 @@ Dựng website sản phẩm tương tác quanh chai thủy tinh WebGL chân th�
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Câu chuyện sản phẩm với chai khúc xạ](../assets/previews/0752e3417e975ec333d5.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/refractive-bottle-product-story-2096243989439713677"><img src="../assets/previews/0752e3417e975ec333d5.webp" width="840" loading="lazy" alt="Câu chuyện sản phẩm với chai khúc xạ"></a>
 
 </details>
 
@@ -1854,7 +1854,7 @@ Dựng website sản phẩm tương tác quanh chai thủy tinh WebGL chân th�
 Dựng website sản phẩm tương tác quanh chai thủy tinh WebGL chân thực. Dùng chất lỏng khúc xạ, xoay theo cuộn và chữ mạnh, đồng thời giữ hiệu năng trình duyệt.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [Bài đăng gốc](https://x.com/himanshubuildss/status/2096243989439713677)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [Bài đăng gốc](https://x.com/himanshubuildss/status/2096243989439713677)
 
 ---
 
@@ -1869,7 +1869,7 @@ Sinh hai đoàn tàu trực tiếp trong Three.js từ kích thước, tiết di
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Cụm tàu thủ tục có thể tháo rời](../assets/previews/1bd8465e8c05d9d38315.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041"><img src="../assets/previews/1bd8465e8c05d9d38315.webp" width="840" loading="lazy" alt="Cụm tàu thủ tục có thể tháo rời"></a>
 
 </details>
 
@@ -1879,7 +1879,7 @@ Sinh hai đoàn tàu trực tiếp trong Three.js từ kích thước, tiết di
 Sinh hai đoàn tàu trực tiếp trong Three.js từ kích thước, tiết diện và hàm hình học. Tạo hoạt ảnh bánh xe, chế độ tháo rời và chuỗi lắp lại.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041) · [Bài đăng gốc](https://x.com/tomkrcha/status/2096082580554777041)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041) · [Bài đăng gốc](https://x.com/tomkrcha/status/2096082580554777041)
 
 ---
 
@@ -1894,7 +1894,7 @@ Dựng phòng chơi Three.js ấm áp, nơi em bé di chuyển giữa đồ chơ
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Thế giới đồ chơi của bé](../assets/previews/965f7261ca51d323b38a.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/a-playful-toddler-toy-world-2096201415051911597"><img src="../assets/previews/965f7261ca51d323b38a.webp" width="840" loading="lazy" alt="Thế giới đồ chơi của bé"></a>
 
 </details>
 
@@ -1904,7 +1904,7 @@ Dựng phòng chơi Three.js ấm áp, nơi em bé di chuyển giữa đồ chơ
 Dựng phòng chơi Three.js ấm áp, nơi em bé di chuyển giữa đồ chơi và dùng mỗi món với hoạt ảnh khác nhau. Có thảm, sách, kệ, khung leo trèo và điều khiển xoay, phóng to.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/a-playful-toddler-toy-world-2096201415051911597) · [Bài đăng gốc](https://x.com/aehyok/status/2096201415051911597)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/a-playful-toddler-toy-world-2096201415051911597) · [Bài đăng gốc](https://x.com/aehyok/status/2096201415051911597)
 
 ---
 
@@ -1919,7 +1919,7 @@ Nghiên cứu chế tạo máy bay và dựng mô phỏng nhà máy phản lực
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Nhà máy chế tạo phản lực đang hoạt động](../assets/previews/88e94868f034bdf39f97.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/live-jet-manufacturing-plant-2096122429319852319"><img src="../assets/previews/88e94868f034bdf39f97.webp" width="840" loading="lazy" alt="Nhà máy chế tạo phản lực đang hoạt động"></a>
 
 </details>
 
@@ -1929,7 +1929,7 @@ Nghiên cứu chế tạo máy bay và dựng mô phỏng nhà máy phản lực
 Nghiên cứu chế tạo máy bay và dựng mô phỏng nhà máy phản lực Three.js trực tiếp. Mô hình hóa chu kỳ máy, trạm sản xuất, vận chuyển và nút thắt, rồi kiểm tra dòng công việc.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/live-jet-manufacturing-plant-2096122429319852319) · [Bài đăng gốc](https://x.com/konstantinsaifo/status/2096122429319852319)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/live-jet-manufacturing-plant-2096122429319852319) · [Bài đăng gốc](https://x.com/konstantinsaifo/status/2096122429319852319)
 
 ---
 
@@ -1944,7 +1944,7 @@ Dựng game Three.js lấy cảm hứng kaiju bằng mô hình sinh vật và hi
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Kaiju giao chiến trong thành phố](../assets/previews/8f55d646820e4f1f0b98.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/previews/8f55d646820e4f1f0b98.webp" width="840" loading="lazy" alt="Kaiju giao chiến trong thành phố"></a>
 
 </details>
 
@@ -1954,7 +1954,7 @@ Dựng game Three.js lấy cảm hứng kaiju bằng mô hình sinh vật và hi
 Dựng game Three.js lấy cảm hứng kaiju bằng mô hình sinh vật và hiệu ứng âm thanh đã tạo. Làm chiến đấu quy mô khổng lồ dễ hiểu và môi trường thể hiện rõ kích thước quái vật.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/kaiju-city-battle-2096251574918013135) · [Bài đăng gốc](https://x.com/majidmanzarpour/status/2096251574918013135)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/kaiju-city-battle-2096251574918013135) · [Bài đăng gốc](https://x.com/majidmanzarpour/status/2096251574918013135)
 
 ---
 
@@ -1969,7 +1969,7 @@ Tạo cơn bão bị nhốt trong khối lập phương với thời tiết bạ
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Cơn bão trong khối lập phương](../assets/previews/631562c3a38f51debed3.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648"><img src="../assets/previews/631562c3a38f51debed3.webp" width="840" loading="lazy" alt="Cơn bão trong khối lập phương"></a>
 
 </details>
 
@@ -1979,7 +1979,7 @@ Tạo cơn bão bị nhốt trong khối lập phương với thời tiết bạ
 Tạo cơn bão bị nhốt trong khối lập phương với thời tiết bạn có thể điều khiển trong Three.js.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648) · [Bài đăng gốc](https://x.com/zwb44/status/2096220264413409648)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648) · [Bài đăng gốc](https://x.com/zwb44/status/2096220264413409648)
 
 ---
 
@@ -1994,7 +1994,7 @@ Biến game phiêu lưu văn bản Zork cổ điển thành game phiêu lưu hà
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Zork thành game phiêu lưu hành động 3D](../assets/previews/88fedcd618dd733a21f5.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620"><img src="../assets/previews/88fedcd618dd733a21f5.webp" width="840" loading="lazy" alt="Zork thành game phiêu lưu hành động 3D"></a>
 
 </details>
 
@@ -2004,7 +2004,7 @@ Biến game phiêu lưu văn bản Zork cổ điển thành game phiêu lưu hà
 Biến game phiêu lưu văn bản Zork cổ điển thành game phiêu lưu hành động 3D. Giữ cốt truyện và câu đố, thêm cảnh chiến đấu, dựng nhân vật và môi trường bằng Three.js.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620) · [Bài đăng gốc](https://x.com/emollick/status/2096047660662722620)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620) · [Bài đăng gốc](https://x.com/emollick/status/2096047660662722620)
 
 ---
 
@@ -2019,7 +2019,7 @@ Lấy mô hình T. rex đã tạo, gắn rig và tạo chuyển động hợp l�
 <details>
 <summary>Ảnh xem trước</summary>
 
-![T. rex có rig và hoạt ảnh](../assets/previews/6bf58344b93f183cd255.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/rigged-and-animated-t-rex-2096133339329536249"><img src="../assets/previews/6bf58344b93f183cd255.webp" width="840" loading="lazy" alt="T. rex có rig và hoạt ảnh"></a>
 
 </details>
 
@@ -2029,7 +2029,7 @@ Lấy mô hình T. rex đã tạo, gắn rig và tạo chuyển động hợp l�
 Lấy mô hình T. rex đã tạo, gắn rig và tạo chuyển động hợp lý. Render nhân vật trong Three.js và kiểm tra hoạt ảnh biến dạng mô hình nhất quán.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [Bài đăng gốc](https://x.com/majidmanzarpour/status/2096133339329536249)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [Bài đăng gốc](https://x.com/majidmanzarpour/status/2096133339329536249)
 
 ---
 
@@ -2044,7 +2044,7 @@ Tạo hệ sinh thái biển thu nhỏ trong tách cà phê bằng Three.js. Dù
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Sinh vật biển trong tách cà phê](../assets/previews/3990cf9279eb906cfc93.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198"><img src="../assets/previews/3990cf9279eb906cfc93.webp" width="840" loading="lazy" alt="Sinh vật biển trong tách cà phê"></a>
 
 </details>
 
@@ -2054,7 +2054,7 @@ Tạo hệ sinh thái biển thu nhỏ trong tách cà phê bằng Three.js. Dù
 Tạo hệ sinh thái biển thu nhỏ trong tách cà phê bằng Three.js. Dùng camera có dàn dựng để hé lộ sinh vật dưới nước, trong khi tách và tỷ lệ nhỏ vẫn dễ nhận biết.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [Bài đăng gốc](https://x.com/PolaczekSagi/status/2096174858837074198)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [Bài đăng gốc](https://x.com/PolaczekSagi/status/2096174858837074198)
 
 ---
 
@@ -2069,7 +2069,7 @@ Dựng demo Hyperloop tương tác bằng Three.js, thể hiện khoang vận ch
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Demo Hyperloop tương tác](../assets/previews/6fe7e10c4907c28861e5.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-hyperloop-demo-2096250748099068377"><img src="../assets/previews/6fe7e10c4907c28861e5.webp" width="840" loading="lazy" alt="Demo Hyperloop tương tác"></a>
 
 </details>
 
@@ -2079,7 +2079,7 @@ Dựng demo Hyperloop tương tác bằng Three.js, thể hiện khoang vận ch
 Dựng demo Hyperloop tương tác bằng Three.js, thể hiện khoang vận chuyển, hạ tầng ống và chuyển động qua hệ thống.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [Bài đăng gốc](https://x.com/hbanay98/status/2096250748099068377)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [Bài đăng gốc](https://x.com/hbanay98/status/2096250748099068377)
 
 ---
 
@@ -2094,7 +2094,7 @@ Viết mã tạo tượng bán thân Napoleon 3D trong Three.js. Dựng theo gia
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Tượng bán thân Napoleon thủ tục](../assets/previews/fda483263b1b7468f091.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/procedural-napoleon-bust-2096234355395903672"><img src="../assets/previews/fda483263b1b7468f091.webp" width="840" loading="lazy" alt="Tượng bán thân Napoleon thủ tục"></a>
 
 </details>
 
@@ -2104,7 +2104,7 @@ Viết mã tạo tượng bán thân Napoleon 3D trong Three.js. Dựng theo gia
 Viết mã tạo tượng bán thân Napoleon 3D trong Three.js. Dựng theo giai đoạn, xem từ nhiều góc rồi tinh chỉnh tỷ lệ mặt và chi tiết trang phục.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [Bài đăng gốc](https://x.com/leploutos/status/2096234355395903672)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [Bài đăng gốc](https://x.com/leploutos/status/2096234355395903672)
 
 ---
 
@@ -2119,7 +2119,7 @@ Tạo sảnh ga có nhịp kiến trúc mạnh, tỷ lệ hợp lý và vật li
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Sảnh ga đường sắt](../assets/previews/ec572c18e5e02ac65512.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/railway-station-concourse-2096226711222546461"><img src="../assets/previews/ec572c18e5e02ac65512.webp" width="840" loading="lazy" alt="Sảnh ga đường sắt"></a>
 
 </details>
 
@@ -2129,7 +2129,7 @@ Tạo sảnh ga có nhịp kiến trúc mạnh, tỷ lệ hợp lý và vật li
 Tạo sảnh ga có nhịp kiến trúc mạnh, tỷ lệ hợp lý và vật liệu thuyết phục. Tạo cảnh 3D quan sát được với khung hình ga được dàn dựng cẩn thận.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/railway-station-concourse-2096226711222546461) · [Bài đăng gốc](https://x.com/0xWormhole404/status/2096226711222546461)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/railway-station-concourse-2096226711222546461) · [Bài đăng gốc](https://x.com/0xWormhole404/status/2096226711222546461)
 
 ---
 
@@ -2144,7 +2144,7 @@ Dựng diorama hướng dẫn bắt đầu nhỏ trong Blender rồi làm sống
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Diorama hướng dẫn bắt đầu có hoạt ảnh](../assets/previews/42b972bdf19630b039a0.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/animated-onboarding-diorama-2096222790894661841"><img src="../assets/previews/42b972bdf19630b039a0.webp" width="840" loading="lazy" alt="Diorama hướng dẫn bắt đầu có hoạt ảnh"></a>
 
 </details>
 
@@ -2154,7 +2154,7 @@ Dựng diorama hướng dẫn bắt đầu nhỏ trong Blender rồi làm sống
 Dựng diorama hướng dẫn bắt đầu nhỏ trong Blender rồi làm sống động bằng Three.js. Dùng vật thể trọng tâm rõ và chuỗi hoạt ảnh ngắn để giải thích những thao tác đầu tiên.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/animated-onboarding-diorama-2096222790894661841) · [Bài đăng gốc](https://x.com/EmilHovv/status/2096222790894661841)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/animated-onboarding-diorama-2096222790894661841) · [Bài đăng gốc](https://x.com/EmilHovv/status/2096222790894661841)
 
 ---
 
@@ -2169,7 +2169,7 @@ Dựng game lái xe trình duyệt trong thành phố mở, có giao thông, dri
 <details>
 <summary>Ảnh xem trước</summary>
 
-![OX Vice Drive: đua xe thành phố mở](../assets/previews/3b47ced29ac0872998ae.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897"><img src="../assets/previews/3b47ced29ac0872998ae.webp" width="840" loading="lazy" alt="OX Vice Drive: đua xe thành phố mở"></a>
 
 </details>
 
@@ -2179,7 +2179,7 @@ Dựng game lái xe trình duyệt trong thành phố mở, có giao thông, dri
 Dựng game lái xe trình duyệt trong thành phố mở, có giao thông, drift và đua giao hàng. Thiết kế thành phố ven biển dễ đi, thú vị và hỗ trợ vòng lái xe hoàn chỉnh.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897) · [Bài đăng gốc](https://x.com/qok_ai/status/2096206082712768897)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897) · [Bài đăng gốc](https://x.com/qok_ai/status/2096206082712768897)
 
 ---
 
@@ -2194,7 +2194,7 @@ Dùng quảng cáo game di động làm tham chiếu để dựng game trình du
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Làm lại quảng cáo game di động thành game thật](../assets/previews/4d8530d89c735d14003f.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842"><img src="../assets/previews/4d8530d89c735d14003f.webp" width="840" loading="lazy" alt="Làm lại quảng cáo game di động thành game thật"></a>
 
 </details>
 
@@ -2204,7 +2204,7 @@ Dùng quảng cáo game di động làm tham chiếu để dựng game trình du
 Dùng quảng cáo game di động làm tham chiếu để dựng game trình duyệt chơi được. Tái hiện tương tác chính và dùng asset Blender để khớp ý tưởng hình ảnh.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842) · [Bài đăng gốc](https://x.com/buildingadlicio/status/2096111709496680842)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842) · [Bài đăng gốc](https://x.com/buildingadlicio/status/2096111709496680842)
 
 ---
 
@@ -2219,7 +2219,7 @@ Tạo game đối kháng đấu trường Roblox lấy cảm hứng các trận 
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Game đối kháng anime trong Roblox](../assets/previews/da567da60113f6fde024.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412"><img src="../assets/previews/da567da60113f6fde024.webp" width="840" loading="lazy" alt="Game đối kháng anime trong Roblox"></a>
 
 </details>
 
@@ -2229,7 +2229,7 @@ Tạo game đối kháng đấu trường Roblox lấy cảm hứng các trận 
 Tạo game đối kháng đấu trường Roblox lấy cảm hứng các trận crossover anime. Dựng đấu trường và nhân vật bằng Blender cùng asset có sẵn, rồi triển khai vòng chiến đấu chơi được.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412) · [Bài đăng gốc](https://x.com/WoahWurdz/status/2095999578419929412)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412) · [Bài đăng gốc](https://x.com/WoahWurdz/status/2095999578419929412)
 
 ---
 
@@ -2244,7 +2244,7 @@ Tái tạo hệ vật lý đua xe kiểu Trackmania bằng C#, chạy qua WASM v
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Vật lý đua xe trình duyệt bằng C# và WASM](../assets/previews/da595232495fdcdcd646.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880"><img src="../assets/previews/da595232495fdcdcd646.webp" width="840" loading="lazy" alt="Vật lý đua xe trình duyệt bằng C# và WASM"></a>
 
 </details>
 
@@ -2254,7 +2254,7 @@ Tái tạo hệ vật lý đua xe kiểu Trackmania bằng C#, chạy qua WASM v
 Tái tạo hệ vật lý đua xe kiểu Trackmania bằng C#, chạy qua WASM và render đường đua trong Three.js. Dùng mesh đường đua có va chạm và kiểm tra cảm giác lái.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Bài đăng gốc](https://x.com/achepta_tm/status/2096258619574513880)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Bài đăng gốc](https://x.com/achepta_tm/status/2096258619574513880)
 
 ---
 
@@ -2269,7 +2269,7 @@ Lấy nhân vật 3D được cung cấp, tạo rig và thêm đi bộ, chạy c
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Tự động rig nhân vật và động tác kung fu](../assets/previews/b667cbe461565dc1ef4c.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503"><img src="../assets/previews/b667cbe461565dc1ef4c.webp" width="840" loading="lazy" alt="Tự động rig nhân vật và động tác kung fu"></a>
 
 </details>
 
@@ -2279,7 +2279,7 @@ Lấy nhân vật 3D được cung cấp, tạo rig và thêm đi bộ, chạy c
 Lấy nhân vật 3D được cung cấp, tạo rig và thêm đi bộ, chạy cùng vài động tác kung fu. Kiểm tra hoạt ảnh để phát hiện khớp gãy và tư thế thiếu ổn định.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [Bài đăng gốc](https://x.com/thebuggeddev/status/2096141728487178503)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [Bài đăng gốc](https://x.com/thebuggeddev/status/2096141728487178503)
 
 ---
 
@@ -2294,7 +2294,7 @@ Dựng lại tranh nhân vật Noctavia thành nhân vật 3D chơi được. Gi
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Từ tranh đến nhân vật chơi được](../assets/previews/bb636fabd44b05a7797b.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/artwork-to-a-playable-character-2096107343268257953"><img src="../assets/previews/bb636fabd44b05a7797b.webp" width="840" loading="lazy" alt="Từ tranh đến nhân vật chơi được"></a>
 
 </details>
 
@@ -2304,7 +2304,7 @@ Dựng lại tranh nhân vật Noctavia thành nhân vật 3D chơi được. Gi
 Dựng lại tranh nhân vật Noctavia thành nhân vật 3D chơi được. Giữ ngôn ngữ thiết kế và tạo mô hình đầy đủ phù hợp để trình diễn tương tác.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/artwork-to-a-playable-character-2096107343268257953) · [Bài đăng gốc](https://x.com/noctav1a/status/2096107343268257953)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/artwork-to-a-playable-character-2096107343268257953) · [Bài đăng gốc](https://x.com/noctav1a/status/2096107343268257953)
 
 ---
 
@@ -2319,7 +2319,7 @@ Biến chân dung thành nhân vật Blender trong portfolio WebGL phong cách t
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Portfolio 3D cá nhân với địa cầu ghi dấu diễn thuyết](../assets/previews/8ed97e5172601ffcf208.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"><img src="../assets/previews/8ed97e5172601ffcf208.webp" width="840" loading="lazy" alt="Portfolio 3D cá nhân với địa cầu ghi dấu diễn thuyết"></a>
 
 </details>
 
@@ -2329,7 +2329,7 @@ Biến chân dung thành nhân vật Blender trong portfolio WebGL phong cách t
 Biến chân dung thành nhân vật Blender trong portfolio WebGL phong cách tạp chí. Thêm địa cầu xoay đánh dấu các sự kiện diễn thuyết và tích hợp asset vào website.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [Bài đăng gốc](https://x.com/HowDevelop/status/2096023793772998704)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [Bài đăng gốc](https://x.com/HowDevelop/status/2096023793772998704)
 
 ---
 
@@ -2344,7 +2344,7 @@ Dựng màn 3D Godot chỉn chu lấy cảm hứng Sonic bằng asset cục bộ
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Bản chơi mẫu Godot lấy cảm hứng Sonic](../assets/previews/4b1d7461ea62bbcb07bb.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086"><img src="../assets/previews/4b1d7461ea62bbcb07bb.webp" width="840" loading="lazy" alt="Bản chơi mẫu Godot lấy cảm hứng Sonic"></a>
 
 </details>
 
@@ -2354,7 +2354,7 @@ Dựng màn 3D Godot chỉn chu lấy cảm hứng Sonic bằng asset cục bộ
 Dựng màn 3D Godot chỉn chu lấy cảm hứng Sonic bằng asset cục bộ và thủ tục. Ưu tiên quán tính, di chuyển nhạy, vòng nhẫn, vòng lượn, thanh trượt và bờ biển nhiệt đới liền mạch.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086) · [Bài đăng gốc](https://x.com/AiBattle_/status/2096056285896536086)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086) · [Bài đăng gốc](https://x.com/AiBattle_/status/2096056285896536086)
 
 ---
 
@@ -2369,7 +2369,7 @@ Tạo nhân vật Viking 3D chỉnh sửa được trong Blender. Tập trung tr
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Nhân vật Viking trong Blender](../assets/previews/47571b98331669c487a6.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/viking-character-in-blender-2096140378777010278"><img src="../assets/previews/47571b98331669c487a6.webp" width="840" loading="lazy" alt="Nhân vật Viking trong Blender"></a>
 
 </details>
 
@@ -2379,7 +2379,7 @@ Tạo nhân vật Viking 3D chỉnh sửa được trong Blender. Tập trung tr
 Tạo nhân vật Viking 3D chỉnh sửa được trong Blender. Tập trung trang phục dễ nhận biết, cấu trúc mặt, tỷ lệ cơ thể và tư thế giới thiệu rõ.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/viking-character-in-blender-2096140378777010278) · [Bài đăng gốc](https://x.com/fre4kspace/status/2096140378777010278)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/viking-character-in-blender-2096140378777010278) · [Bài đăng gốc](https://x.com/fre4kspace/status/2096140378777010278)
 
 ---
 
@@ -2394,7 +2394,7 @@ Dựng game battle royale góc nhìn thứ ba trên trình duyệt với vòng b
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Dropzone: đấu trường battle royale](../assets/previews/37245ebc377553686009.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/dropzone-battle-royale-arena-2096155883122413946"><img src="../assets/previews/37245ebc377553686009.webp" width="840" loading="lazy" alt="Dropzone: đấu trường battle royale"></a>
 
 </details>
 
@@ -2404,7 +2404,7 @@ Dựng game battle royale góc nhìn thứ ba trên trình duyệt với vòng b
 Dựng game battle royale góc nhìn thứ ba trên trình duyệt với vòng bo bão, chín địch AI, súng trường xung, máu và nạp đạn. Có tường che chắn đặt được và vòng loại đối thủ hoàn chỉnh.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [Bài đăng gốc](https://x.com/Motion_Viz/status/2096155883122413946)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [Bài đăng gốc](https://x.com/Motion_Viz/status/2096155883122413946)
 
 ---
 
@@ -2419,7 +2419,7 @@ Dùng trang web về Bảo tàng Tô Châu làm tham chiếu để dựng lại 
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Tham quan vườn Bảo tàng Tô Châu](../assets/previews/5dd1b274746b07e46ff0.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449"><img src="../assets/previews/5dd1b274746b07e46ff0.webp" width="840" loading="lazy" alt="Tham quan vườn Bảo tàng Tô Châu"></a>
 
 </details>
 
@@ -2429,7 +2429,7 @@ Dùng trang web về Bảo tàng Tô Châu làm tham chiếu để dựng lại 
 Dùng trang web về Bảo tàng Tô Châu làm tham chiếu để dựng lại vườn trong Blender. Tạo chuyến tham quan liên tục, giữ quan hệ giữa kiến trúc hiện đại và cảnh quan truyền thống Trung Hoa.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449) · [Bài đăng gốc](https://x.com/whosamberella/status/2096096998092841449)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449) · [Bài đăng gốc](https://x.com/whosamberella/status/2096096998092841449)
 
 ---
 
@@ -2444,7 +2444,7 @@ Dựng mô phỏng giáo dục 3D về Titan, vệ tinh lớn nhất của sao T
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Triển lãm khoa học Titan tương tác](../assets/previews/01903613570d42ab83a5.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-titan-science-exhibit-2095986941753712841"><img src="../assets/previews/01903613570d42ab83a5.webp" width="840" loading="lazy" alt="Triển lãm khoa học Titan tương tác"></a>
 
 </details>
 
@@ -2454,7 +2454,7 @@ Dựng mô phỏng giáo dục 3D về Titan, vệ tinh lớn nhất của sao T
 Dựng mô phỏng giáo dục 3D về Titan, vệ tinh lớn nhất của sao Thổ, có môi trường khám phá được và lớp thông tin giải thích đặc điểm vật lý riêng.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-titan-science-exhibit-2095986941753712841) · [Bài đăng gốc](https://x.com/ArdaTugsat/status/2095986941753712841)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-titan-science-exhibit-2095986941753712841) · [Bài đăng gốc](https://x.com/ArdaTugsat/status/2095986941753712841)
 
 ---
 
@@ -2469,7 +2469,7 @@ Dựng hệ sinh thái 3D tiến hóa trong một tệp HTML bằng WebGL và GL
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Hệ sinh thái WebGL tiến hóa](../assets/previews/417256d668a87f961903.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/evolving-webgl-ecosystem-2096040448477515874"><img src="../assets/previews/417256d668a87f961903.webp" width="840" loading="lazy" alt="Hệ sinh thái WebGL tiến hóa"></a>
 
 </details>
 
@@ -2479,7 +2479,7 @@ Dựng hệ sinh thái 3D tiến hóa trong một tệp HTML bằng WebGL và GL
 Dựng hệ sinh thái 3D tiến hóa trong một tệp HTML bằng WebGL và GLSL thuần. Cho đột biến, chọn lọc tự nhiên, săn mồi, tiêu hao năng lượng và liên kết đa bào tương tác với nhau.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/evolving-webgl-ecosystem-2096040448477515874) · [Bài đăng gốc](https://x.com/yume_arasaki/status/2096040448477515874)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/evolving-webgl-ecosystem-2096040448477515874) · [Bài đăng gốc](https://x.com/yume_arasaki/status/2096040448477515874)
 
 ---
 
@@ -2494,7 +2494,7 @@ Dựng mô phỏng giao hàng 3D nơi đóng cầu làm thay đổi tuyến xe t
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Mạng giao hàng khi cầu bị đóng](../assets/previews/1f3a527d5461971e3394.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742"><img src="../assets/previews/1f3a527d5461971e3394.webp" width="840" loading="lazy" alt="Mạng giao hàng khi cầu bị đóng"></a>
 
 </details>
 
@@ -2504,7 +2504,7 @@ Dựng mô phỏng giao hàng 3D nơi đóng cầu làm thay đổi tuyến xe t
 Dựng mô phỏng giao hàng 3D nơi đóng cầu làm thay đổi tuyến xe tải. Phát hiện điểm đến không thể tiếp cận và phục hồi giao hàng khi tuyến mở lại.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742) · [Bài đăng gốc](https://x.com/AgentWorkflowLa/status/2096042360513904742)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742) · [Bài đăng gốc](https://x.com/AgentWorkflowLa/status/2096042360513904742)
 
 ---
 
@@ -2519,7 +2519,7 @@ Tái hiện Sinclair ZX Spectrum 48K thành ứng dụng desktop 3D tương tác
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Mô phỏng Sinclair ZX Spectrum](../assets/previews/8342e2a2ae6ab568fa2f.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605"><img src="../assets/previews/8342e2a2ae6ab568fa2f.webp" width="840" loading="lazy" alt="Mô phỏng Sinclair ZX Spectrum"></a>
 
 </details>
 
@@ -2529,7 +2529,7 @@ Tái hiện Sinclair ZX Spectrum 48K thành ứng dụng desktop 3D tương tác
 Tái hiện Sinclair ZX Spectrum 48K thành ứng dụng desktop 3D tương tác. Có bàn phím cao su, máy cassette, màn khởi động, game chơi được và giao diện lập trình BASIC.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605) · [Bài đăng gốc](https://x.com/DeryaTR_/status/2096062355692048605)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605) · [Bài đăng gốc](https://x.com/DeryaTR_/status/2096062355692048605)
 
 ---
 
@@ -2544,7 +2544,7 @@ Dựng lại phòng khách trong Blender từ bản quét photogrammetry. Mô h�
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Từ scan photogrammetry đến phòng khách chỉnh sửa được](../assets/previews/d7643b0568a783c1fabd.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/photogrammetry-scan-to-editable-living-room-2096092080397246707"><img src="../assets/previews/d7643b0568a783c1fabd.webp" width="840" loading="lazy" alt="Từ scan photogrammetry đến phòng khách chỉnh sửa được"></a>
 
 </details>
 
@@ -2554,7 +2554,7 @@ Dựng lại phòng khách trong Blender từ bản quét photogrammetry. Mô h�
 Dựng lại phòng khách trong Blender từ bản quét photogrammetry. Mô hình hóa cảnh từ đầu, lấy texture từ bản scan và dùng shader thủ tục khi phù hợp.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/photogrammetry-scan-to-editable-living-room-2096092080397246707) · [Bài đăng gốc](https://x.com/bilawalsidhu/status/2096092080397246707)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/photogrammetry-scan-to-editable-living-room-2096092080397246707) · [Bài đăng gốc](https://x.com/bilawalsidhu/status/2096092080397246707)
 
 ---
 
@@ -2569,7 +2569,7 @@ Dựng màn Three.js lấy cảm hứng Odyssey với tám bệ, ba mặt trăng
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Phiêu lưu platform lấy cảm hứng Odyssey](../assets/previews/f8e883bece1bb1220b1f.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152"><img src="../assets/previews/f8e883bece1bb1220b1f.webp" width="840" loading="lazy" alt="Phiêu lưu platform lấy cảm hứng Odyssey"></a>
 
 </details>
 
@@ -2579,7 +2579,7 @@ Dựng màn Three.js lấy cảm hứng Odyssey với tám bệ, ba mặt trăng
 Dựng màn Three.js lấy cảm hứng Odyssey với tám bệ, ba mặt trăng thu thập được, ném mũ quay lại, kẻ địch và checkpoint. Thêm điều khiển cảm ứng, kiểm tra toàn bộ lượt chơi.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [Bài đăng gốc](https://x.com/AiHubMix/status/2096135808243876152)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [Bài đăng gốc](https://x.com/AiHubMix/status/2096135808243876152)
 
 ---
 
@@ -2594,7 +2594,7 @@ Dựng website giải phẫu 3D nơi cơ thể người tách thành cấu trúc
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Giải phẫu người 3D tương tác dạng tách lớp](../assets/previews/73fbb8ce4494edce62d6.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186"><img src="../assets/previews/73fbb8ce4494edce62d6.webp" width="840" loading="lazy" alt="Giải phẫu người 3D tương tác dạng tách lớp"></a>
 
 </details>
 
@@ -2604,7 +2604,7 @@ Dựng website giải phẫu 3D nơi cơ thể người tách thành cấu trúc
 Dựng website giải phẫu 3D nơi cơ thể người tách thành cấu trúc quan sát riêng được. Cho điều hướng dạng tách lớp và tổ chức các phần thành hệ thống có ý nghĩa.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186) · [Bài đăng gốc](https://x.com/ashebytes/status/2096221988763173186)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186) · [Bài đăng gốc](https://x.com/ashebytes/status/2096221988763173186)
 
 ---
 
@@ -2619,7 +2619,7 @@ Tạo website 3D tháo Tesla Model X thành các thành phần đã dựng. Cho 
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Tesla Model X dạng tháo rời](../assets/previews/59bc5339c02dceeee7e0.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/tesla-model-x-exploded-view-2096009146248122416"><img src="../assets/previews/59bc5339c02dceeee7e0.webp" width="840" loading="lazy" alt="Tesla Model X dạng tháo rời"></a>
 
 </details>
 
@@ -2629,7 +2629,7 @@ Tạo website 3D tháo Tesla Model X thành các thành phần đã dựng. Cho 
 Tạo website 3D tháo Tesla Model X thành các thành phần đã dựng. Cho khách xem cụm lắp ráp và lắp lại xe bằng tương tác.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/tesla-model-x-exploded-view-2096009146248122416) · [Bài đăng gốc](https://x.com/ashebytes/status/2096009146248122416)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/tesla-model-x-exploded-view-2096009146248122416) · [Bài đăng gốc](https://x.com/ashebytes/status/2096009146248122416)
 
 ---
 
@@ -2644,7 +2644,7 @@ Dựng máy viên nang ký ức 3D. Xoay núm để thả một ký ức, mô h�
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Máy viên nang ký ức](../assets/previews/2623ee6ae5ad1e80ed6a.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/memory-capsule-machine-2096241295949975602"><img src="../assets/previews/2623ee6ae5ad1e80ed6a.webp" width="840" loading="lazy" alt="Máy viên nang ký ức"></a>
 
 </details>
 
@@ -2654,7 +2654,7 @@ Dựng máy viên nang ký ức 3D. Xoay núm để thả một ký ức, mô h�
 Dựng máy viên nang ký ức 3D. Xoay núm để thả một ký ức, mô hình hóa cơ cấu trong Blender và cho viên nang rơi với chuyển động, âm thanh hợp lý.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/memory-capsule-machine-2096241295949975602) · [Bài đăng gốc](https://x.com/gloria_zwq/status/2096241295949975602)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/memory-capsule-machine-2096241295949975602) · [Bài đăng gốc](https://x.com/gloria_zwq/status/2096241295949975602)
 
 ---
 
@@ -2669,7 +2669,7 @@ Tạo mô hình Formula One 3D trong Blender bằng thao tác máy tính.
 <details>
 <summary>Ảnh xem trước</summary>
 
-![Xe Formula One trong Blender](../assets/previews/7b1991638d1cf62afb53.webp)
+<a href="https://www.tripo3d.ai/vi/3d-prompts/formula-one-car-in-blender-2096125193580113957"><img src="../assets/previews/7b1991638d1cf62afb53.webp" width="840" loading="lazy" alt="Xe Formula One trong Blender"></a>
 
 </details>
 
@@ -2679,6 +2679,6 @@ Tạo mô hình Formula One 3D trong Blender bằng thao tác máy tính.
 Tạo mô hình Formula One 3D trong Blender bằng thao tác máy tính.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/vi/3d-prompts/formula-one-car-in-blender-2096125193580113957) · [Bài đăng gốc](https://x.com/Conor_D_Dart/status/2096125193580113957)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/formula-one-car-in-blender-2096125193580113957) · [Bài đăng gốc](https://x.com/Conor_D_Dart/status/2096125193580113957)
 
 ---

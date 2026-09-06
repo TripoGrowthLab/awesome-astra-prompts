@@ -119,7 +119,7 @@
 <details>
 <summary>プレビュー</summary>
 
-![生命と嵐を手続き生成する海洋シミュレーション](../assets/previews/f328a1a13f9ac8c829d2.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429"><img src="../assets/previews/f328a1a13f9ac8c829d2.webp" width="840" loading="lazy" alt="生命と嵐を手続き生成する海洋シミュレーション"></a>
 
 </details>
 
@@ -129,7 +129,7 @@
 提示された単一ファイルの海面・嵐ジェネレーターを、海洋全体の手続き生成へ拡張してください。サンゴ礁、深海、自然な天候、自発的な行動を示す動物群、生態系の相互作用、海上と水中を移動できるカメラを追加してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429) · [元の投稿](https://x.com/emollick/status/2095673885605630429) · [ソースコード](https://github.com/emollick/abyssal-living-deep) · [デモ](https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429) · [元の投稿](https://x.com/emollick/status/2095673885605630429) · [ソースコード](https://github.com/emollick/abyssal-living-deep) · [デモ](https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1)
 
 ---
 
@@ -144,7 +144,7 @@
 <details>
 <summary>プレビュー</summary>
 
-![マルチプレイ FPS Gogh Strike](../assets/previews/70ad9e97aa42a9189998.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608"><img src="../assets/previews/70ad9e97aa42a9189998.webp" width="840" loading="lazy" alt="マルチプレイ FPS Gogh Strike"></a>
 
 </details>
 
@@ -154,7 +154,7 @@
 ポスト印象派の画風による 5 対 5 の一人称シューターを作成してください。Blender でレンダリングした画家キャラクター、区別しやすいチーム、ブラウザで完結するマルチプレイ試合を実装してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608) · [元の投稿](https://x.com/petergostev/status/2096013280519016608) · [ソースコード](https://github.com/petergpt/gogh-strike) · [デモ](https://gogh-strike.surge.sh/)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608) · [元の投稿](https://x.com/petergostev/status/2096013280519016608) · [ソースコード](https://github.com/petergpt/gogh-strike) · [デモ](https://gogh-strike.surge.sh/)
 
 ---
 
@@ -169,7 +169,7 @@
 <details>
 <summary>プレビュー</summary>
 
-![大聖堂のハックアンドスラッシュアリーナ](../assets/previews/b8e73f6ab2b929800dd1.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792"><img src="../assets/previews/b8e73f6ab2b929800dd1.webp" width="840" loading="lazy" alt="大聖堂のハックアンドスラッシュアリーナ"></a>
 
 </details>
 
@@ -179,7 +179,7 @@
 死んだ星の上に建つ大聖堂を舞台に、三人称 Three.js ハックアンドスラッシュを作成してください。剣の弱攻撃コンボ、強攻撃、範囲魔法、回避、重心を感じる両手持ちアニメーションを含めてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792) · [元の投稿](https://x.com/superalesha/status/2095988972879335792) · [ソースコード](https://github.com/alesha-pro/bench-portal) · [デモ](https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792) · [元の投稿](https://x.com/superalesha/status/2095988972879335792) · [ソースコード](https://github.com/alesha-pro/bench-portal) · [デモ](https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/)
 
 ---
 
@@ -194,7 +194,7 @@
 <details>
 <summary>プレビュー</summary>
 
-![反重力コンバットレース](../assets/previews/76744b47af9907732336.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/anti-gravity-combat-racer-2095967568825582044"><img src="../assets/previews/76744b47af9907732336.webp" width="840" loading="lazy" alt="反重力コンバットレース"></a>
 
 </details>
 
@@ -204,7 +204,7 @@
 ドリフト、ブースト、旋回で傾くカメラ、エアブレーキ、シールド取得を備えた、高速な Three.js 反重力コンバットレースを作成してください。異星の高架コースに軽量、バランス型、重量級の機体を用意してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/anti-gravity-combat-racer-2095967568825582044) · [元の投稿](https://x.com/superalesha/status/2095967568825582044) · [ソースコード](https://github.com/alesha-pro/bench-portal)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/anti-gravity-combat-racer-2095967568825582044) · [元の投稿](https://x.com/superalesha/status/2095967568825582044) · [ソースコード](https://github.com/alesha-pro/bench-portal)
 
 ---
 
@@ -219,7 +219,7 @@
 <details>
 <summary>プレビュー</summary>
 
-![自律する人々が生き抜く Unreal の社会](../assets/previews/3dfc15d51104de183c13.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/previews/3dfc15d51104de183c13.webp" width="840" loading="lazy" alt="自律する人々が生き抜く Unreal の社会"></a>
 
 </details>
 
@@ -229,7 +229,7 @@
 自律的に行動する人々が暮らす Unreal Engine の世界を作成してください。一人ひとりの欲求と共通の生存目標を設定し、会話、分業、住居づくりを通じて、プレイヤーが離れても社会が存続するようにしてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [元の投稿](https://x.com/mattshumer_/status/2095596175705399482)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [元の投稿](https://x.com/mattshumer_/status/2095596175705399482)
 
 ---
 
@@ -244,7 +244,7 @@
 <details>
 <summary>プレビュー</summary>
 
-![Unreal Engine で街路まで再現するマンハッタン](../assets/previews/df1e2d655d7eca4caf78.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525"><img src="../assets/previews/df1e2d655d7eca4caf78.webp" width="840" loading="lazy" alt="Unreal Engine で街路まで再現するマンハッタン"></a>
 
 </details>
 
@@ -254,7 +254,7 @@
 Unreal Engine で探索できるマンハッタンを構築してください。地区ごと、通りごとに制作し、スケール、道路配置、名所、交通、街の個性を再現します。評価チェックリストを用意し、各エリアを改善してから次へ進んでください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [元の投稿](https://x.com/mattshumer_/status/2095609734845927525)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [元の投稿](https://x.com/mattshumer_/status/2095609734845927525)
 
 ---
 
@@ -269,7 +269,7 @@ Unreal Engine で探索できるマンハッタンを構築してください。
 <details>
 <summary>プレビュー</summary>
 
-![Blender で作るモダンなヴィラ](../assets/previews/d1f867dcf59b933bc843.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/modern-villa-scene-in-blender-2095636679264780481"><img src="../assets/previews/d1f867dcf59b933bc843.webp" width="840" loading="lazy" alt="Blender で作るモダンなヴィラ"></a>
 
 </details>
 
@@ -279,7 +279,7 @@ Unreal Engine で探索できるマンハッタンを構築してください。
 Blender でモダンなヴィラのシーンを完成させてください。整合性のある建築、家具付きの室内、インフィニティプール、植栽、リアルなマテリアル、夕日の時間帯を巡る映画的なカメラパスを含めてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/modern-villa-scene-in-blender-2095636679264780481) · [元の投稿](https://x.com/karankendre/status/2095636679264780481)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/modern-villa-scene-in-blender-2095636679264780481) · [元の投稿](https://x.com/karankendre/status/2095636679264780481)
 
 ---
 
@@ -294,7 +294,7 @@ Blender でモダンなヴィラのシーンを完成させてください。整
 <details>
 <summary>プレビュー</summary>
 
-![一度の指示で作るブラウザ 3D ゲーム](../assets/previews/83ed142104b7acba468c.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/one-shot-browser-3d-game-2095599934766764338"><img src="../assets/previews/83ed142104b7acba468c.webp" width="840" loading="lazy" alt="一度の指示で作るブラウザ 3D ゲーム"></a>
 
 </details>
 
@@ -304,7 +304,7 @@ Blender でモダンなヴィラのシーンを完成させてください。整
 単独で動作する一つのプロジェクトとして、ブラウザで遊べる 3D ゲームを完成させてください。明確な目標、反応のよい操作、空間的に一貫したステージ、敵や障害物、フィードバック、スコア、リスタート、性能対策を含めてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/one-shot-browser-3d-game-2095599934766764338) · [元の投稿](https://x.com/theo/status/2095599934766764338)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/one-shot-browser-3d-game-2095599934766764338) · [元の投稿](https://x.com/theo/status/2095599934766764338)
 
 ---
 
@@ -319,7 +319,7 @@ Blender でモダンなヴィラのシーンを完成させてください。整
 <details>
 <summary>プレビュー</summary>
 
-![住宅写真から編集可能な Blender の世界へ](../assets/previews/e54b3e2710c53a16b303.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775"><img src="../assets/previews/e54b3e2710c53a16b303.webp" width="840" loading="lazy" alt="住宅写真から編集可能な Blender の世界へ"></a>
 
 </details>
 
@@ -329,7 +329,7 @@ Blender でモダンなヴィラのシーンを完成させてください。整
 提示された住宅写真を、すべて編集可能な Blender シーンとして再構築してください。建物、家具、家電、おもちゃを別オブジェクトにし、自然な比率を保ち、ローカル環境で滑らかな 60 FPS のウォークスルーを実現してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775) · [元の投稿](https://x.com/tomkrcha/status/2095598645190291775)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775) · [元の投稿](https://x.com/tomkrcha/status/2095598645190291775)
 
 ---
 
@@ -344,7 +344,7 @@ Blender でモダンなヴィラのシーンを完成させてください。整
 <details>
 <summary>プレビュー</summary>
 
-![Zillow の物件情報から 3D 紹介動画へ](../assets/previews/6f8c345161829fa354d9.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615"><img src="../assets/previews/6f8c345161829fa354d9.webp" width="840" loading="lazy" alt="Zillow の物件情報から 3D 紹介動画へ"></a>
 
 </details>
 
@@ -354,7 +354,7 @@ Blender でモダンなヴィラのシーンを完成させてください。整
 提示された不動産情報と掲載写真すべてから住宅を 3D 再構築し、矛盾のない間取りを推定して、完成度の高い紹介用ウォークスルー動画を作成してください。不確かな形状を明示し、初回制作後に相違点を修正してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615) · [元の投稿](https://x.com/realYunfanYe/status/2095612137582526615)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615) · [元の投稿](https://x.com/realYunfanYe/status/2095612137582526615)
 
 ---
 
@@ -369,7 +369,7 @@ Blender でモダンなヴィラのシーンを完成させてください。整
 <details>
 <summary>プレビュー</summary>
 
-![蒸気機関車の図面を編集可能な Blender アセンブリに](../assets/previews/06507ec81e3b2b48f511.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311"><img src="../assets/previews/06507ec81e3b2b48f511.webp" width="840" loading="lazy" alt="蒸気機関車の図面を編集可能な Blender アセンブリに"></a>
 
 </details>
 
@@ -379,7 +379,7 @@ Blender でモダンなヴィラのシーンを完成させてください。整
 提示された古い蒸気機関車の図面を、Blender で精密な機械アセンブリとして再現してください。車輪、車軸、サスペンション、ロッド、ボイラー部品、車体パネルに名前を付け、個別に編集できるようにします。ディテールの量も調整可能にしてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [元の投稿](https://x.com/tomkrcha/status/2095756085890310311)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [元の投稿](https://x.com/tomkrcha/status/2095756085890310311)
 
 ---
 
@@ -394,7 +394,7 @@ Blender でモダンなヴィラのシーンを完成させてください。整
 <details>
 <summary>プレビュー</summary>
 
-![Cycles 向けに手続き生成する大統領執務室](../assets/previews/27b8c4a9f00b1882f1a8.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857"><img src="../assets/previews/27b8c4a9f00b1882f1a8.webp" width="840" loading="lazy" alt="Cycles 向けに手続き生成する大統領執務室"></a>
 
 </details>
 
@@ -404,7 +404,7 @@ Blender でモダンなヴィラのシーンを完成させてください。整
 大統領執務室のセット説明を実行可能なシーンコードに変換してください。Blender で家具、壁、照明、カメラ位置を編集可能に構築し、Cycles で映画的にレンダリングしてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857) · [元の投稿](https://x.com/higgsfield_ai/status/2095630197257367857)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857) · [元の投稿](https://x.com/higgsfield_ai/status/2095630197257367857)
 
 ---
 
@@ -419,7 +419,7 @@ Blender でモダンなヴィラのシーンを完成させてください。整
 <details>
 <summary>プレビュー</summary>
 
-![一度の指示で作る Minecraft 風の世界](../assets/previews/4057aefd543af899d3d0.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/one-shot-minecraft-style-world-2095597137849446688"><img src="../assets/previews/4057aefd543af899d3d0.webp" width="840" loading="lazy" alt="一度の指示で作る Minecraft 風の世界"></a>
 
 </details>
 
@@ -429,7 +429,7 @@ Blender でモダンなヴィラのシーンを完成させてください。整
 Minecraft に着想を得た、遊べるボクセル世界を一度で作成してください。地形生成、ブロックの設置と破壊、一人称操作、所持品、照明、水、短く完結したサバイバルの流れを実装してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/one-shot-minecraft-style-world-2095597137849446688) · [元の投稿](https://x.com/flavioAd/status/2095597137849446688)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/one-shot-minecraft-style-world-2095597137849446688) · [元の投稿](https://x.com/flavioAd/status/2095597137849446688)
 
 ---
 
@@ -444,7 +444,7 @@ Minecraft に着想を得た、遊べるボクセル世界を一度で作成し�
 <details>
 <summary>プレビュー</summary>
 
-![Blender で再現するパレス・オブ・ファイン・アーツ](../assets/previews/425b651bd5174e37b02f.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143"><img src="../assets/previews/425b651bd5174e37b02f.webp" width="840" loading="lazy" alt="Blender で再現するパレス・オブ・ファイン・アーツ"></a>
 
 </details>
 
@@ -454,7 +454,7 @@ Minecraft に着想を得た、遊べるボクセル世界を一度で作成し�
 サンフランシスコのパレス・オブ・ファイン・アーツを Blender で再現してください。円形建築の特徴的な比率、列柱、池、植物、経年変化した素材、万博時代の明るい未来観を感じる映画的照明を表現してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143) · [元の投稿](https://x.com/sharifshameem/status/2095653641164329143)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143) · [元の投稿](https://x.com/sharifshameem/status/2095653641164329143)
 
 ---
 
@@ -469,7 +469,7 @@ Minecraft に着想を得た、遊べるボクセル世界を一度で作成し�
 <details>
 <summary>プレビュー</summary>
 
-![ゴッホの絵画 6 点から生まれる歩ける街](../assets/previews/2d8a09166b72394c4292.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"><img src="../assets/previews/2d8a09166b72394c4292.webp" width="840" loading="lazy" alt="ゴッホの絵画 6 点から生まれる歩ける街"></a>
 
 </details>
 
@@ -479,7 +479,7 @@ Minecraft に着想を得た、遊べるボクセル世界を一度で作成し�
 提示されたゴッホの絵画 6 点を、一続きに歩ける Three.js の街にしてください。各作品の色彩と筆致を保ち、道路、名所、場面のつながりを統合した探索可能な世界を作ってください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [元の投稿](https://x.com/petergostev/status/2095776685807346105) · [デモ](https://van-goghs-town.surge.sh/)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [元の投稿](https://x.com/petergostev/status/2095776685807346105) · [デモ](https://van-goghs-town.surge.sh/)
 
 ---
 
@@ -494,7 +494,7 @@ Minecraft に着想を得た、遊べるボクセル世界を一度で作成し�
 <details>
 <summary>プレビュー</summary>
 
-![初心者が音声で作る 3D ゲーム](../assets/previews/ae76084678dab574ad49.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647"><img src="../assets/previews/ae76084678dab574ad49.webp" width="840" loading="lazy" alt="初心者が音声で作る 3D ゲーム"></a>
 
 </details>
 
@@ -504,7 +504,7 @@ Minecraft に着想を得た、遊べるボクセル世界を一度で作成し�
 私の 3D ゲーム制作者として振る舞ってください。不足しているプレイヤーの目標、画風、操作方法だけを質問し、すぐに遊べるブラウザゲームを作成してください。その後は短い音声指示で改良を続けてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647) · [元の投稿](https://x.com/EHuanglu/status/2095608358086840647)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647) · [元の投稿](https://x.com/EHuanglu/status/2095608358086840647)
 
 ---
 
@@ -519,7 +519,7 @@ Minecraft に着想を得た、遊べるボクセル世界を一度で作成し�
 <details>
 <summary>プレビュー</summary>
 
-![一つのグレーボックスから 3 テーマのカートゲームへ](../assets/previews/16e9382415e9e7610e15.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369"><img src="../assets/previews/16e9382415e9e7610e15.webp" width="840" loading="lazy" alt="一つのグレーボックスから 3 テーマのカートゲームへ"></a>
 
 </details>
 
@@ -529,7 +529,7 @@ Minecraft に着想を得た、遊べるボクセル世界を一度で作成し�
 提示された Unity のカートレース用グレーボックスから、海賊、お菓子、サイバーパンクの 3 種類の遊べる作品を作成してください。走行の仕組みは再利用し、環境と演出を変更します。各ビルドを試遊し、目立つ不具合を修正してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369) · [元の投稿](https://x.com/chetaslua/status/2095580402505400369)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369) · [元の投稿](https://x.com/chetaslua/status/2095580402505400369)
 
 ---
 
@@ -544,7 +544,7 @@ Minecraft に着想を得た、遊べるボクセル世界を一度で作成し�
 <details>
 <summary>プレビュー</summary>
 
-![ブラウザで探索するオープンワールド冒険](../assets/previews/62267b50bd0c00e10a37.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/open-world-browser-adventure-2095596341422440714"><img src="../assets/previews/62267b50bd0c00e10a37.webp" width="840" loading="lazy" alt="ブラウザで探索するオープンワールド冒険"></a>
 
 </details>
 
@@ -554,7 +554,7 @@ Minecraft に着想を得た、遊べるボクセル世界を一度で作成し�
 複数のバイオームがつながるオープンワールド 3D アドベンチャーを作成してください。移動、発見、軽い戦闘、クエスト、名所、昼夜の雰囲気を用意し、目的を感じながら探索できる案内を加えてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/open-world-browser-adventure-2095596341422440714) · [元の投稿](https://x.com/petergostev/status/2095596341422440714)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/open-world-browser-adventure-2095596341422440714) · [元の投稿](https://x.com/petergostev/status/2095596341422440714)
 
 ---
 
@@ -569,7 +569,7 @@ Minecraft に着想を得た、遊べるボクセル世界を一度で作成し�
 <details>
 <summary>プレビュー</summary>
 
-![フォトリアルな 3D 商品モックアップスタジオ](../assets/previews/7762f843277fda2d2f52.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253"><img src="../assets/previews/7762f843277fda2d2f52.webp" width="840" loading="lazy" alt="フォトリアルな 3D 商品モックアップスタジオ"></a>
 
 </details>
 
@@ -579,7 +579,7 @@ Minecraft に着想を得た、遊べるボクセル世界を一度で作成し�
 アップロードしたデザインをフォトリアルな 3D 商品モックアップに配置するブラウザツールを作成してください。カメラ回転、素材と色の調整、環境照明、複数の商品、高解像度の書き出しに対応してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253) · [元の投稿](https://x.com/joshmillgate/status/2095619319690400253)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253) · [元の投稿](https://x.com/joshmillgate/status/2095619319690400253)
 
 ---
 
@@ -594,7 +594,7 @@ Minecraft に着想を得た、遊べるボクセル世界を一度で作成し�
 <details>
 <summary>プレビュー</summary>
 
-![参考画像から作る 3D アクアリウムゲーム](../assets/previews/c522341161fd8999972e.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/reference-image-3d-aquarium-game-2095611134992945385"><img src="../assets/previews/c522341161fd8999972e.webp" width="840" loading="lazy" alt="参考画像から作る 3D アクアリウムゲーム"></a>
 
 </details>
 
@@ -604,7 +604,7 @@ Minecraft に着想を得た、遊べるボクセル世界を一度で作成し�
 参考画像を基に、3D アクアリウムゲームを一度で完成させてください。水槽の構図を再現し、魚の動き、餌やりと収集、水の表現、カメラ操作、明確な目標を実装してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/reference-image-3d-aquarium-game-2095611134992945385) · [元の投稿](https://x.com/TimJayas/status/2095611134992945385)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/reference-image-3d-aquarium-game-2095611134992945385) · [元の投稿](https://x.com/TimJayas/status/2095611134992945385)
 
 ---
 
@@ -619,7 +619,7 @@ Minecraft に着想を得た、遊べるボクセル世界を一度で作成し�
 <details>
 <summary>プレビュー</summary>
 
-![一つのプロンプトで遊べるリアルタイム 3D ゲーム](../assets/previews/d10512aa45750b6fcfc3.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/single-playable-real-time-3d-game-2095647685210669541"><img src="../assets/previews/d10512aa45750b6fcfc3.webp" width="840" loading="lazy" alt="一つのプロンプトで遊べるリアルタイム 3D ゲーム"></a>
 
 </details>
 
@@ -629,7 +629,7 @@ Minecraft に着想を得た、遊べるボクセル世界を一度で作成し�
 一つのプロンプトから、遊べるリアルタイム 3D ゲームを作成してください。小さくまとまった中心的な遊び、明確な目標、短い物語を定め、シーン、キャラクター、小物、フィードバック、リスタート状態を生成して、すぐに遊べるようにしてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/single-playable-real-time-3d-game-2095647685210669541) · [元の投稿](https://x.com/higgsfield/status/2095647685210669541)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/single-playable-real-time-3d-game-2095647685210669541) · [元の投稿](https://x.com/higgsfield/status/2095647685210669541)
 
 ---
 
@@ -644,7 +644,7 @@ Minecraft に着想を得た、遊べるボクセル世界を一度で作成し�
 <details>
 <summary>プレビュー</summary>
 
-![一度のやり取りで作る Three.js 海戦シーン](../assets/previews/d720a08832dc8749ad7b.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278"><img src="../assets/previews/d720a08832dc8749ad7b.webp" width="840" loading="lazy" alt="一度のやり取りで作る Three.js 海戦シーン"></a>
 
 </details>
 
@@ -654,7 +654,7 @@ Minecraft に着想を得た、遊べるボクセル世界を一度で作成し�
 Three.js で精細な海戦を一度のやり取りで作成してください。特徴の異なる複数の艦船、物理的に説得力のある水との相互作用、航跡と飛沫、空中戦、爆発、映画的照明、カメラ移動、性能を考慮した描画を含めてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278) · [元の投稿](https://x.com/synthwavedd/status/2095840435319001278)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278) · [元の投稿](https://x.com/synthwavedd/status/2095840435319001278)
 
 ---
 
@@ -669,7 +669,7 @@ Three.js で精細な海戦を一度のやり取りで作成してください�
 <details>
 <summary>プレビュー</summary>
 
-![Halo に着想を得た 10 対 10 のマルチプレイ FPS](../assets/previews/56d4000d3fc115fd7529.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024"><img src="../assets/previews/56d4000d3fc115fd7529.webp" width="840" loading="lazy" alt="Halo に着想を得た 10 対 10 のマルチプレイ FPS"></a>
 
 </details>
 
@@ -679,7 +679,7 @@ Three.js で精細な海戦を一度のやり取りで作成してください�
 往年の SF 系 FPS に着想を得た、10 対 10 のマルチプレイアリーナシューターを作成してください。チーム、復活、判別しやすい武器、シールド、アイテム、小規模マップ、スコア、試合進行、低遅延のブラウザプレイを実装してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024) · [元の投稿](https://x.com/VikiingAI/status/2095598026916049024)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024) · [元の投稿](https://x.com/VikiingAI/status/2095598026916049024)
 
 ---
 
@@ -694,7 +694,7 @@ Three.js で精細な海戦を一度のやり取りで作成してください�
 <details>
 <summary>プレビュー</summary>
 
-![操作できるボクセル鉄道ジオラマ](../assets/previews/7a7bcde401d8420e09e2.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-voxel-railway-table-2095719731860750613"><img src="../assets/previews/7a7bcde401d8420e09e2.webp" width="840" loading="lazy" alt="操作できるボクセル鉄道ジオラマ"></a>
 
 </details>
 
@@ -704,7 +704,7 @@ Three.js で精細な海戦を一度のやり取りで作成してください�
 Three.js で精細なボクセル鉄道ジオラマを作成してください。複数の列車の発車と停止、線路切り替え、視点回転とズーム、ミニチュアの街の観察、小さな環境アニメーションの起動を可能にしてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-voxel-railway-table-2095719731860750613) · [元の投稿](https://x.com/DeryaTR_/status/2095719731860750613) · [デモ](https://lindenhafen-railway.vercel.app/)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-voxel-railway-table-2095719731860750613) · [元の投稿](https://x.com/DeryaTR_/status/2095719731860750613) · [デモ](https://lindenhafen-railway.vercel.app/)
 
 ---
 
@@ -719,7 +719,7 @@ Three.js で精細なボクセル鉄道ジオラマを作成してください�
 <details>
 <summary>プレビュー</summary>
 
-![ボトルの中で航海するボクセル帆船](../assets/previews/a3c527769a0401300bf1.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065"><img src="../assets/previews/a3c527769a0401300bf1.webp" width="840" loading="lazy" alt="ボトルの中で航海するボクセル帆船"></a>
 
 </details>
 
@@ -729,7 +729,7 @@ Three.js で精細なボクセル鉄道ジオラマを作成してください�
 ガラス瓶の中を航海する、精細な 17 世紀のボクセル帆船を作成してください。うねる波と船の揺れ、旋回するカモメ、小さな港とサンゴ礁を加え、映画的なカメラシーケンスと穏やかな音楽を制作してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065) · [元の投稿](https://x.com/DeryaTR_/status/2095699049722581065)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065) · [元の投稿](https://x.com/DeryaTR_/status/2095699049722581065)
 
 ---
 
@@ -744,7 +744,7 @@ Three.js で精細なボクセル鉄道ジオラマを作成してください�
 <details>
 <summary>プレビュー</summary>
 
-![3D プリントできる USS エンタープライズの CAD アセンブリ](../assets/previews/3b7b068d0eb0e5288ff2.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676"><img src="../assets/previews/3b7b068d0eb0e5288ff2.webp" width="840" loading="lazy" alt="3D プリントできる USS エンタープライズの CAD アセンブリ"></a>
 
 </details>
 
@@ -754,7 +754,7 @@ Three.js で精細なボクセル鉄道ジオラマを作成してください�
 USS エンタープライズ NCC-1701 へのオマージュとなる、独自の 3D プリント対応 CAD モデルを設計してください。特徴的な比率、ブリッジと一部の内装、少なくとも 28 個の機能する可動部品、分割されたアセンブリ、製造用ファイルの書き出しを含めてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676) · [元の投稿](https://x.com/DeryaTR_/status/2095641163441254676)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676) · [元の投稿](https://x.com/DeryaTR_/status/2095641163441254676)
 
 ---
 
@@ -769,7 +769,7 @@ USS エンタープライズ NCC-1701 へのオマージュとなる、独自の
 <details>
 <summary>プレビュー</summary>
 
-![Unity で作る宇宙トレンチラン](../assets/previews/be8d6964ee56b4d4d219.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/unity-space-trench-run-game-2095630044102279312"><img src="../assets/previews/be8d6964ee56b4d4d219.webp" width="840" loading="lazy" alt="Unity で作る宇宙トレンチラン"></a>
 
 </details>
 
@@ -779,7 +779,7 @@ USS エンタープライズ NCC-1701 へのオマージュとなる、独自の
 往年の宇宙トレンチランの感覚を Unity で再現してください。高速の低空飛行、砲台射撃、障害物、照準、増す緊迫感、最終目標、成功または失敗の映画的演出を実装してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/unity-space-trench-run-game-2095630044102279312) · [元の投稿](https://x.com/ronaldmannak/status/2095630044102279312)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/unity-space-trench-run-game-2095630044102279312) · [元の投稿](https://x.com/ronaldmannak/status/2095630044102279312)
 
 ---
 
@@ -794,7 +794,7 @@ USS エンタープライズ NCC-1701 へのオマージュとなる、独自の
 <details>
 <summary>プレビュー</summary>
 
-![手続き生成するボクセル城のショーケース](../assets/previews/b1d1817a37c203d66e96.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/procedural-voxel-castle-showcase-2093690427849191855"><img src="../assets/previews/b1d1817a37c203d66e96.webp" width="840" loading="lazy" alt="手続き生成するボクセル城のショーケース"></a>
 
 </details>
 
@@ -804,7 +804,7 @@ USS エンタープライズ NCC-1701 へのオマージュとなる、独自の
 防御の階層が分かる大きなボクセル城を生成してください。塔、城壁、門、中庭、周辺地形を含めます。インスタンシング、周回カメラ、変化する光、決定論的生成を使い、安定して細部を観察できるようにしてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/procedural-voxel-castle-showcase-2093690427849191855) · [元の投稿](https://x.com/hakmgpt/status/2093690427849191855)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/procedural-voxel-castle-showcase-2093690427849191855) · [元の投稿](https://x.com/hakmgpt/status/2093690427849191855)
 
 ---
 
@@ -819,7 +819,7 @@ USS エンタープライズ NCC-1701 へのオマージュとなる、独自の
 <details>
 <summary>プレビュー</summary>
 
-![アセットを組み合わせた探索可能な Unity 都市](../assets/previews/35299b2ab45e0614dcc7.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887"><img src="../assets/previews/35299b2ab45e0614dcc7.webp" width="840" loading="lazy" alt="アセットを組み合わせた探索可能な Unity 都市"></a>
 
 </details>
 
@@ -829,7 +829,7 @@ USS エンタープライズ NCC-1701 へのオマージュとなる、独自の
 提供されたアセットライブラリから、探索できる Unity の都市を構築してください。一貫した道路網、高層建築、車両、ヤシ、照明、移動経路を配置し、シーンを最適化して安定した一人称ウォークスルーを実現してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887) · [元の投稿](https://x.com/chetaslua/status/2095597640587374887)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887) · [元の投稿](https://x.com/chetaslua/status/2095597640587374887)
 
 ---
 
@@ -844,7 +844,7 @@ USS エンタープライズ NCC-1701 へのオマージュとなる、独自の
 <details>
 <summary>プレビュー</summary>
 
-![機構まで作り込む Blender 蒸気機関車](../assets/previews/a02294169159c5b88bfb.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840"><img src="../assets/previews/a02294169159c5b88bfb.webp" width="840" loading="lazy" alt="機構まで作り込む Blender 蒸気機関車"></a>
 
 </details>
 
@@ -854,7 +854,7 @@ USS エンタープライズ NCC-1701 へのオマージュとなる、独自の
 蒸気機関車を、テクスチャ付きの外殻ではなく、機構を分解できる Blender モデルとして制作してください。車軸、軸箱守、軸箱、ステー、サスペンションリンク、蒸気ドーム、主要アセンブリをそれぞれ分けて命名してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840) · [元の投稿](https://x.com/sheemamoto/status/2095868420327710840)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840) · [元の投稿](https://x.com/sheemamoto/status/2095868420327710840)
 
 ---
 
@@ -869,7 +869,7 @@ USS エンタープライズ NCC-1701 へのオマージュとなる、独自の
 <details>
 <summary>プレビュー</summary>
 
-![8 台で競うブラウザゲーム Tidal Rush](../assets/previews/19e2e109daf0820abba3.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023"><img src="../assets/previews/19e2e109daf0820abba3.webp" width="840" loading="lazy" alt="8 台で競うブラウザゲーム Tidal Rush"></a>
 
 </details>
 
@@ -879,7 +879,7 @@ USS エンタープライズ NCC-1701 へのオマージュとなる、独自の
 8 台のレーサー、3 周のレース、ドリフト、取得アイテム、反応のよい物理挙動、分かりやすい HUD、魅力的な映像、ゴール後の結果画面を備えたブラウザカートゲームを完成させてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023) · [元の投稿](https://x.com/amazing13_13/status/2095819786651374023)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023) · [元の投稿](https://x.com/amazing13_13/status/2095819786651374023)
 
 ---
 
@@ -894,7 +894,7 @@ USS エンタープライズ NCC-1701 へのオマージュとなる、独自の
 <details>
 <summary>プレビュー</summary>
 
-![リアルタイム WebGL 銀河のヒーローセクション](../assets/previews/fe2d45919c2bec07fc5f.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631"><img src="../assets/previews/fe2d45919c2bec07fc5f.webp" width="840" loading="lazy" alt="リアルタイム WebGL 銀河のヒーローセクション"></a>
 
 </details>
 
@@ -904,7 +904,7 @@ USS エンタープライズ NCC-1701 へのオマージュとなる、独自の
 提示された銀河のヒーロー表現を分析し、動画ではなくリアルタイム WebGL で再構築してください。奥行きのある粒子、発光する塵、滑らかなポインター反応、文字を置く余白、端末性能に応じた調整を取り入れてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631) · [元の投稿](https://x.com/Fluxora_Studios/status/2095805694603673631)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631) · [元の投稿](https://x.com/Fluxora_Studios/status/2095805694603673631)
 
 ---
 
@@ -919,7 +919,7 @@ USS エンタープライズ NCC-1701 へのオマージュとなる、独自の
 <details>
 <summary>プレビュー</summary>
 
-![文化を題材にした自動進行アーケードゲーム](../assets/previews/e8816591f99630e061fd.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791"><img src="../assets/previews/e8816591f99630e061fd.webp" width="840" loading="lazy" alt="文化を題材にした自動進行アーケードゲーム"></a>
 
 </details>
 
@@ -929,7 +929,7 @@ USS エンタープライズ NCC-1701 へのオマージュとなる、独自の
 G7 の一国を題材に、自動で進行するアーケードゲームを作成してください。有名な文化的名所を中心的な遊びに変換し、操作しなくても状況が分かるようにします。スコア、段階的な難易度、印象的な見せ場を加えてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791) · [元の投稿](https://x.com/say_gm_/status/2095898198413922791)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791) · [元の投稿](https://x.com/say_gm_/status/2095898198413922791)
 
 ---
 
@@ -944,7 +944,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 <details>
 <summary>プレビュー</summary>
 
-![一度の指示で作る上質なインタラクティブ試作](../assets/previews/33f3f93183ced23b1e8c.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065"><img src="../assets/previews/33f3f93183ced23b1e8c.webp" width="840" loading="lazy" alt="一度の指示で作る上質なインタラクティブ試作"></a>
 
 </details>
 
@@ -954,7 +954,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 提示された製品コンセプトから、上質なインタラクティブプロトタイプを一度で設計・実装してください。明確なビジュアルルールを選び、主操作を優先し、洗練された画面遷移を加え、レスポンシブな公開済みビルドを納品してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065) · [元の投稿](https://x.com/AY_Orbach/status/2095597560253862065)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065) · [元の投稿](https://x.com/AY_Orbach/status/2095597560253862065)
 
 ---
 
@@ -969,7 +969,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 <details>
 <summary>プレビュー</summary>
 
-![分解して操作できる 3D ターボチャージャー](../assets/previews/906d471ad638279a8457.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725"><img src="../assets/previews/906d471ad638279a8457.webp" width="840" loading="lazy" alt="分解して操作できる 3D ターボチャージャー"></a>
 
 </details>
 
@@ -979,7 +979,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 操作できる 3D ターボチャージャーを作ってください。動作する各系統を分けてください。回転させ、部品を個別に取り出し、機械が実際に何をしているか確認できるようにしてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725) · [元の投稿](https://x.com/Feraser8/status/2095776712579571725)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725) · [元の投稿](https://x.com/Feraser8/status/2095776712579571725)
 
 ---
 
@@ -994,7 +994,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 <details>
 <summary>プレビュー</summary>
 
-![一度で驚きを生む Three.js ゲーム](../assets/previews/01a4fe457300f75b9f45.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198"><img src="../assets/previews/01a4fe457300f75b9f45.webp" width="840" loading="lazy" alt="一度で驚きを生む Three.js ゲーム"></a>
 
 </details>
 
@@ -1004,7 +1004,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 「Amaze」の名にふさわしい独創的な Three.js ゲームを一度で作ってください。驚きのある視覚的な仕組みを一つ選び、数秒で理解できる導入、短い成長の流れ、満足感のある華やかな結末を用意してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198) · [元の投稿](https://x.com/pratt_builds/status/2095663498101662198)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198) · [元の投稿](https://x.com/pratt_builds/status/2095663498101662198)
 
 ---
 
@@ -1019,7 +1019,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 <details>
 <summary>プレビュー</summary>
 
-![短時間で遊べるゲームプロトタイプ](../assets/previews/8aa9a7706316dc84c6df.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/rapid-playable-game-prototype-2095907526566990013"><img src="../assets/previews/8aa9a7706316dc84c6df.webp" width="840" loading="lazy" alt="短時間で遊べるゲームプロトタイプ"></a>
 
 </details>
 
@@ -1029,7 +1029,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 厳しい時間・トークン予算内で、見た目に一貫性のある遊べるゲーム試作を作成してください。機能数より、一つの完結した遊び、反応のよい入力、明快なフィードバック、安定した性能、公開できるブラウザビルドを優先してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/rapid-playable-game-prototype-2095907526566990013) · [元の投稿](https://x.com/gibglue/status/2095907526566990013)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/rapid-playable-game-prototype-2095907526566990013) · [元の投稿](https://x.com/gibglue/status/2095907526566990013)
 
 ---
 
@@ -1044,7 +1044,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 <details>
 <summary>プレビュー</summary>
 
-![プロンプトから作るオープンワールドゲーム](../assets/previews/81360ee1cb1d7aaa7aef.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/open-world-game-from-a-prompt-2095872986477908108"><img src="../assets/previews/81360ee1cb1d7aaa7aef.webp" width="840" loading="lazy" alt="プロンプトから作るオープンワールドゲーム"></a>
 
 </details>
 
@@ -1054,7 +1054,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 次の構想からオープンワールドゲームを作ってください：[世界の設定]。異なる 3 地域、移動、動的な遭遇、簡単な連続クエスト、名所、保存と再開、ブラウザで動くための最適化を含めてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/open-world-game-from-a-prompt-2095872986477908108) · [元の投稿](https://x.com/aeejazkhan/status/2095872986477908108)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/open-world-game-from-a-prompt-2095872986477908108) · [元の投稿](https://x.com/aeejazkhan/status/2095872986477908108)
 
 ---
 
@@ -1069,7 +1069,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 <details>
 <summary>プレビュー</summary>
 
-![Three.js の銀河が動くホームページ](../assets/previews/0838004dbcf9c31ee5d0.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457"><img src="../assets/previews/0838004dbcf9c31ee5d0.webp" width="840" loading="lazy" alt="Three.js の銀河が動くホームページ"></a>
 
 </details>
 
@@ -1079,7 +1079,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 リアルタイム Three.js の銀河を中心に、上質な製品発表ページのヒーローを作成してください。粒子でさりげなく数字の 6 を描き、スクロールとポインターに反応させます。文字の読みやすさを保ち、非力な端末では自然に効果を減らしてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457) · [元の投稿](https://x.com/threejsresource/status/2095806515579879457)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457) · [元の投稿](https://x.com/threejsresource/status/2095806515579879457)
 
 ---
 
@@ -1094,7 +1094,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 <details>
 <summary>プレビュー</summary>
 
-![Blender で作るループするサイバーパンクの寝室](../assets/previews/e2345fe72cbaa70b18e7.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230"><img src="../assets/previews/e2345fe72cbaa70b18e7.webp" width="840" loading="lazy" alt="Blender で作るループするサイバーパンクの寝室"></a>
 
 </details>
 
@@ -1104,7 +1104,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 夜の雨に濡れたネオン街を見下ろす、映画的なサイバーパンクの寝室を Blender で作成してください。動く広告看板を追加し、フォトリアルで継ぎ目なくループする映像にしてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [元の投稿](https://x.com/CoinSh0t/status/2095898303019856230)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [元の投稿](https://x.com/CoinSh0t/status/2095898303019856230)
 
 ---
 
@@ -1119,7 +1119,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 <details>
 <summary>プレビュー</summary>
 
-![Three.js で歩くゴッホの街](../assets/previews/2d8a09166b72394c4292.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/van-gogh-town-in-three-js-2095871735824339279"><img src="../assets/previews/2d8a09166b72394c4292.webp" width="840" loading="lazy" alt="Three.js で歩くゴッホの街"></a>
 
 </details>
 
@@ -1129,7 +1129,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 ゴッホに着想を得た、歩ける Three.js の街を作成してください。絵の街路、星、カフェ、畑を立体的に重なる空間へ変え、シェーダー、テクスチャ、動く光で筆致を生かしてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/van-gogh-town-in-three-js-2095871735824339279) · [元の投稿](https://x.com/RealFedeURU/status/2095871735824339279)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/van-gogh-town-in-three-js-2095871735824339279) · [元の投稿](https://x.com/RealFedeURU/status/2095871735824339279)
 
 ---
 
@@ -1144,7 +1144,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 <details>
 <summary>プレビュー</summary>
 
-![散歩できる『星月夜』の街路](../assets/previews/3bb18f1641ee2093e980.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372"><img src="../assets/previews/3bb18f1641ee2093e980.webp" width="840" loading="lazy" alt="散歩できる『星月夜』の街路"></a>
 
 </details>
 
@@ -1154,7 +1154,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 ゴッホの絵画 6 点を一つの探索可能な街にまとめ、『星月夜』の通りを散歩できるようにしてください。絵画間の自然な出入口、一貫したスケール、穏やかな環境インタラクションを設計してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372) · [元の投稿](https://x.com/BigRyan/status/2095805115580199372)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372) · [元の投稿](https://x.com/BigRyan/status/2095805115580199372)
 
 ---
 
@@ -1169,7 +1169,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 <details>
 <summary>プレビュー</summary>
 
-![運転できる思い出の鉄道テーブル](../assets/previews/93c7b29090d7ae96b607.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/driveable-childhood-train-table-2095742344293454148"><img src="../assets/previews/93c7b29090d7ae96b607.webp" width="840" loading="lazy" alt="運転できる思い出の鉄道テーブル"></a>
 
 </details>
 
@@ -1179,7 +1179,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 子どもの頃の鉄道テーブルを、ボクセルの線路と車両を使った、触れたくなる Three.js のおもちゃとして再現してください。列車の運転、分岐の切り替え、周回視点、動くミニチュア風景の発見を楽しめるようにしてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [元の投稿](https://x.com/BigRyan/status/2095742344293454148)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [元の投稿](https://x.com/BigRyan/status/2095742344293454148)
 
 ---
 
@@ -1194,7 +1194,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 <details>
 <summary>プレビュー</summary>
 
-![文章から探索できる Unity 都市へ](../assets/previews/35299b2ab45e0614dcc7.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/text-to-explorable-unity-city-2095623452678144366"><img src="../assets/previews/35299b2ab45e0614dcc7.webp" width="840" loading="lazy" alt="文章から探索できる Unity 都市へ"></a>
 
 </details>
 
@@ -1204,7 +1204,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 提示された都市構想を、高層建築、道路、車両、ヤシ、雰囲気のある光を備えた、探索可能な Unity 環境にしてください。自然なスケール、移動経路、交通の動き、滑らかな一人称カメラを整えてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/text-to-explorable-unity-city-2095623452678144366) · [元の投稿](https://x.com/0x0SojalSec/status/2095623452678144366)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/text-to-explorable-unity-city-2095623452678144366) · [元の投稿](https://x.com/0x0SojalSec/status/2095623452678144366)
 
 ---
 
@@ -1219,7 +1219,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 <details>
 <summary>プレビュー</summary>
 
-![一つのプロンプトで比べるアクアリウム制作](../assets/previews/c522341161fd8999972e.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/single-aquarium-benchmark-2095650251902239139"><img src="../assets/previews/c522341161fd8999972e.webp" width="840" loading="lazy" alt="一つのプロンプトで比べるアクアリウム制作"></a>
 
 </details>
 
@@ -1229,7 +1229,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 提示された参考画像から、一つのプロンプトで 3D アクアリウムゲームを作成してください。配置と雰囲気を合わせ、生き生きした魚、水の集光模様、周回操作、モデル出力の比較に適した小さな遊びを加えてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/single-aquarium-benchmark-2095650251902239139) · [元の投稿](https://x.com/iamtonyzhu/status/2095650251902239139)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/single-aquarium-benchmark-2095650251902239139) · [元の投稿](https://x.com/iamtonyzhu/status/2095650251902239139)
 
 ---
 
@@ -1244,7 +1244,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 <details>
 <summary>プレビュー</summary>
 
-![間取り図から完全な 3D ウォークスルーへ](../assets/previews/a9453628a11a2eca58a3.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661"><img src="../assets/previews/a9453628a11a2eca58a3.webp" width="840" loading="lazy" alt="間取り図から完全な 3D ウォークスルーへ"></a>
 
 </details>
 
@@ -1254,7 +1254,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 提示された間取り図を、建物全体の 3D ウォークスルーに変換してください。部屋の寸法と動線を守り、扉、窓、家具、素材、照明を追加し、間取りが伝わるカメラパスを作成してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [元の投稿](https://x.com/aidarosgo3/status/2095725404883476661)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [元の投稿](https://x.com/aidarosgo3/status/2095725404883476661)
 
 ---
 
@@ -1269,7 +1269,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 <details>
 <summary>プレビュー</summary>
 
-![実在の家を 60 FPS の編集可能な Blender シーンに](../assets/previews/ca2c8c153392a345f4e8.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541"><img src="../assets/previews/ca2c8c153392a345f4e8.webp" width="840" loading="lazy" alt="実在の家を 60 FPS の編集可能な Blender シーンに"></a>
 
 </details>
 
@@ -1279,7 +1279,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 提示された実在の家を、すべて編集可能な Blender シーンとして再構築してください。建築要素と家具を分け、形状と素材を最適化し、ローカル描画で 60 FPS を維持するウォークスルーを提供してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [元の投稿](https://x.com/alvinfoo/status/2095777502681825541)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [元の投稿](https://x.com/alvinfoo/status/2095777502681825541)
 
 ---
 
@@ -1294,7 +1294,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 <details>
 <summary>プレビュー</summary>
 
-![ブラウザでドリフトする Street Heat](../assets/previews/911fb2b70e5d4c824524.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"><img src="../assets/previews/911fb2b70e5d4c824524.webp" width="840" loading="lazy" alt="ブラウザでドリフトする Street Heat"></a>
 
 </details>
 
@@ -1304,7 +1304,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 一文からブラウザ用アーケード街頭レースを完成させてください。気持ちよいドリフト物理、コンボ得点、ニアミスボーナス、速度計測地点、ニトロ、交通、分かりやすい HUD、短く繰り返し遊べるコースを実装してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [元の投稿](https://x.com/higgsfield_ai/status/2095916820431827408)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [元の投稿](https://x.com/higgsfield_ai/status/2095916820431827408)
 
 ---
 
@@ -1319,7 +1319,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 <details>
 <summary>プレビュー</summary>
 
-![3D 美術館で行う撮影プリビズ](../assets/previews/395c33eedc4e4b959135.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593"><img src="../assets/previews/395c33eedc4e4b959135.webp" width="840" loading="lazy" alt="3D 美術館で行う撮影プリビズ"></a>
 
 </details>
 
@@ -1329,7 +1329,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 場所、出演者の位置、カメラ配置、ショットリストを整理した 3D 美術館のプリビズを作成してください。各撮影設定を実際のビューポート内に収め、後続の動画生成に使う一貫したガイドを書き出してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593) · [元の投稿](https://x.com/higgsfield_ai/status/2095616529572503593)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593) · [元の投稿](https://x.com/higgsfield_ai/status/2095616529572503593)
 
 ---
 
@@ -1344,7 +1344,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 <details>
 <summary>プレビュー</summary>
 
-![15 秒で体験できる商品デモ広告](../assets/previews/d10512aa45750b6fcfc3.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/playable-15-second-product-demo-ad-2095695603808309497"><img src="../assets/previews/d10512aa45750b6fcfc3.webp" width="840" loading="lazy" alt="15 秒で体験できる商品デモ広告"></a>
 
 </details>
 
@@ -1354,7 +1354,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 [商品] のモバイル優先の 15 秒インタラクティブデモを作成してください。一つのジェスチャーで中心機能を試せ、すぐに 3D の反応を返し、最後は「すべての機能を使う」という明確な CTA につなげます。縦型 9:16 とブランドカラーを保ってください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/playable-15-second-product-demo-ad-2095695603808309497) · [元の投稿](https://x.com/zackpaid/status/2095695603808309497)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/playable-15-second-product-demo-ad-2095695603808309497) · [元の投稿](https://x.com/zackpaid/status/2095695603808309497)
 
 ---
 
@@ -1369,7 +1369,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 <details>
 <summary>プレビュー</summary>
 
-![設計図から Blender、Unreal へつなぐ建築ビジュアル](../assets/previews/8fef1df6618607f0028f.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551"><img src="../assets/previews/8fef1df6618607f0028f.webp" width="840" loading="lazy" alt="設計図から Blender、Unreal へつなぐ建築ビジュアル"></a>
 
 </details>
 
@@ -1379,7 +1379,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 提示された建築設計図から正確で編集可能なモデルを Blender で作成し、Unreal Engine に移してください。正しいスケールと衝突判定を備え、照明付きで歩ける建築ビジュアライゼーションに仕上げてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551) · [元の投稿](https://x.com/LinusEkenstam/status/2095624712244072551)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551) · [元の投稿](https://x.com/LinusEkenstam/status/2095624712244072551)
 
 ---
 
@@ -1394,7 +1394,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 <details>
 <summary>プレビュー</summary>
 
-![森のヴィラ Solace を構想から UE5 へ](../assets/previews/8fef1df6618607f0028f.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375"><img src="../assets/previews/8fef1df6618607f0028f.webp" width="840" loading="lazy" alt="森のヴィラ Solace を構想から UE5 へ"></a>
 
 </details>
 
@@ -1404,7 +1404,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 寝室 3 室、書斎、中庭、プール、周囲の森を備えたモダンなヴィラ「Solace」を、歩ける空間として作成してください。Blender で手続き生成し、夕景の静止画をレンダリングして、60 FPS の UE5 ウォークスルーを書き出してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [元の投稿](https://x.com/NFT_Chen/status/2095752726886105375)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [元の投稿](https://x.com/NFT_Chen/status/2095752726886105375)
 
 ---
 
@@ -1419,7 +1419,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 <details>
 <summary>プレビュー</summary>
 
-![30 秒で作る Blender シーンの挑戦](../assets/previews/1b7302e35b4c879de4aa.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771"><img src="../assets/previews/1b7302e35b4c879de4aa.webp" width="840" loading="lazy" alt="30 秒で作る Blender シーンの挑戦"></a>
 
 </details>
 
@@ -1429,7 +1429,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 極端に短い制限時間で、一貫した Blender シーンを作成してください。印象的なシルエット、3 層の奥行き、一つの主役素材、映画的照明、撮影に適した構図を優先し、すべてのオブジェクトを編集可能にしてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [元の投稿](https://x.com/_satyam_ai/status/2095844872171421771)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [元の投稿](https://x.com/_satyam_ai/status/2095844872171421771)
 
 ---
 
@@ -1444,7 +1444,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 <details>
 <summary>プレビュー</summary>
 
-![連鎖反応するルーブ・ゴールドバーグ装置](../assets/previews/368d9d79144335c0bffc.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629"><img src="../assets/previews/368d9d79144335c0bffc.webp" width="840" loading="lazy" alt="連鎖反応するルーブ・ゴールドバーグ装置"></a>
 
 </details>
 
@@ -1454,7 +1454,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 単独で動く Three.js の HTML ファイルで、ルーブ・ゴールドバーグ装置を作成してください。機械的な相互作用が次々につながり、最後にボタンを押して演出的な爆発を起こすようにしてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629) · [元の投稿](https://x.com/thehypedotnews/status/2095980885732704629)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629) · [元の投稿](https://x.com/thehypedotnews/status/2095980885732704629)
 
 ---
 
@@ -1469,7 +1469,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 <details>
 <summary>プレビュー</summary>
 
-![探索できるタージ・マハル](../assets/previews/afd70948169390c74fbe.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/explorable-taj-mahal-2096035962824335798"><img src="../assets/previews/afd70948169390c74fbe.webp" width="840" loading="lazy" alt="探索できるタージ・マハル"></a>
 
 </details>
 
@@ -1479,7 +1479,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 タージ・マハルを探索できる 3D シーンとして再現してください。特徴的な比率、左右対称の庭園、中央ドーム、ミナレット、建物同士の位置関係を優先してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/explorable-taj-mahal-2096035962824335798) · [元の投稿](https://x.com/vikassabbi/status/2096035962824335798)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/explorable-taj-mahal-2096035962824335798) · [元の投稿](https://x.com/vikassabbi/status/2096035962824335798)
 
 ---
 
@@ -1494,7 +1494,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 <details>
 <summary>プレビュー</summary>
 
-![軌道ランデブーシミュレーター](../assets/previews/42e7d7821256b5c0e0d6.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/orbital-rendezvous-simulator-2096225621303042258"><img src="../assets/previews/42e7d7821256b5c0e0d6.webp" width="840" loading="lazy" alt="軌道ランデブーシミュレーター"></a>
 
 </details>
 
@@ -1504,7 +1504,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 二体問題の ECI 軌道伝播と HCW 誘導を使った、リアルタイムの軌道ランデブーシミュレーションを作成してください。6 自由度の姿勢、燃料消費、推力制限、ドッキング目標を含めてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/orbital-rendezvous-simulator-2096225621303042258) · [元の投稿](https://x.com/AlicanKiraz0/status/2096225621303042258)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/orbital-rendezvous-simulator-2096225621303042258) · [元の投稿](https://x.com/AlicanKiraz0/status/2096225621303042258)
 
 ---
 
@@ -1519,7 +1519,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 <details>
 <summary>プレビュー</summary>
 
-![参考画像から再構築するタグボート](../assets/previews/c2a965c19b4319993a70.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/reference-image-tugboat-assembly-2096180220839760375"><img src="../assets/previews/c2a965c19b4319993a70.webp" width="840" loading="lazy" alt="参考画像から再構築するタグボート"></a>
 
 </details>
 
@@ -1529,7 +1529,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 参考画像から Blender でタグボートを再構築してください。船体、傾斜した操舵室、甲板装備、曳航設備をモデル化し、視点間の食い違いを整理して一貫した船にしてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/reference-image-tugboat-assembly-2096180220839760375) · [元の投稿](https://x.com/NarvisAlex/status/2096180220839760375)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/reference-image-tugboat-assembly-2096180220839760375) · [元の投稿](https://x.com/NarvisAlex/status/2096180220839760375)
 
 ---
 
@@ -1544,7 +1544,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 <details>
 <summary>プレビュー</summary>
 
-![一方向の画像から電動ドリルを再現](../assets/previews/eab0ddb7ed59c8047050.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794"><img src="../assets/previews/eab0ddb7ed59c8047050.webp" width="840" loading="lazy" alt="一方向の画像から電動ドリルを再現"></a>
 
 </details>
 
@@ -1554,7 +1554,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 一方向の参考画像から Blender で電動ドリルを再構築してください。本体、グリップ、チャック、操作部を編集可能な形状として作り、複数の角度から結果を確認してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794) · [元の投稿](https://x.com/SkyeSharkie/status/2096059736693305794)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794) · [元の投稿](https://x.com/SkyeSharkie/status/2096059736693305794)
 
 ---
 
@@ -1569,7 +1569,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 <details>
 <summary>プレビュー</summary>
 
-![鳥を飛ばす 3D スリングショットゲーム](../assets/previews/b9fc3db28e9b9b586476.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/3d-slingshot-bird-game-2095981655370666076"><img src="../assets/previews/b9fc3db28e9b9b586476.webp" width="840" loading="lazy" alt="鳥を飛ばす 3D スリングショットゲーム"></a>
 
 </details>
 
@@ -1579,7 +1579,7 @@ G7 の一国を題材に、自動で進行するアーケードゲームを作�
 異なる特殊能力を持つ 4 羽の鳥が登場する 3D スリングショットゲームを作成してください。狙って放す操作、破壊可能な建造物、繰り返し得点を狙える遊びを含めてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/3d-slingshot-bird-game-2095981655370666076) · [元の投稿](https://x.com/MozeTech/status/2095981655370666076)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/3d-slingshot-bird-game-2095981655370666076) · [元の投稿](https://x.com/MozeTech/status/2095981655370666076)
 
 ---
 
@@ -1594,7 +1594,7 @@ Max Payne に着想を得た Three.js の三人称シューターを作成して
 <details>
 <summary>プレビュー</summary>
 
-![バレットタイムの三人称シューター](../assets/previews/c0c429e42811528f60da.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/bullet-time-third-person-shooter-2095962376344309843"><img src="../assets/previews/c0c429e42811528f60da.webp" width="840" loading="lazy" alt="バレットタイムの三人称シューター"></a>
 
 </details>
 
@@ -1604,7 +1604,7 @@ Max Payne に着想を得た Three.js の三人称シューターを作成して
 Max Payne に着想を得た Three.js の三人称シューターを作成してください。スローモーションのアクション、反応のよい射撃、使いやすい追従カメラを備えた遊べるシーンに集中してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/bullet-time-third-person-shooter-2095962376344309843) · [元の投稿](https://x.com/HangoutWHAndrei/status/2095962376344309843)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/bullet-time-third-person-shooter-2095962376344309843) · [元の投稿](https://x.com/HangoutWHAndrei/status/2095962376344309843)
 
 ---
 
@@ -1619,7 +1619,7 @@ Three.js と WebGPU で、おいしそうに弾むゼリーを作成してくだ
 <details>
 <summary>プレビュー</summary>
 
-![WebGPU でぷるぷる揺れるゼリー](../assets/previews/cf4454a16a06ed243c20.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/bouncy-webgpu-jelly-2096008241104711698"><img src="../assets/previews/cf4454a16a06ed243c20.webp" width="840" loading="lazy" alt="WebGPU でぷるぷる揺れるゼリー"></a>
 
 </details>
 
@@ -1629,7 +1629,7 @@ Three.js と WebGPU で、おいしそうに弾むゼリーを作成してくだ
 Three.js と WebGPU で、おいしそうに弾むゼリーを作成してください。触れると自然に変形して静まり、半透明の素材と形が分かる照明で表現してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/bouncy-webgpu-jelly-2096008241104711698) · [元の投稿](https://x.com/scottstts/status/2096008241104711698)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/bouncy-webgpu-jelly-2096008241104711698) · [元の投稿](https://x.com/scottstts/status/2096008241104711698)
 
 ---
 
@@ -1644,7 +1644,7 @@ Three.js で、細部を観察できる PlayStation 5 コントローラーを�
 <details>
 <summary>プレビュー</summary>
 
-![操作できる PS5 コントローラー](../assets/previews/c17fee4a534e826e0ab3.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-ps5-controller-2095967131573649552"><img src="../assets/previews/c17fee4a534e826e0ab3.webp" width="840" loading="lazy" alt="操作できる PS5 コントローラー"></a>
 
 </details>
 
@@ -1654,7 +1654,7 @@ Three.js で、細部を観察できる PlayStation 5 コントローラーを�
 Three.js で、細部を観察できる PlayStation 5 コントローラーを作成してください。特徴的な輪郭、ボタン、トリガー、アナログスティック、部位ごとに異なる表面素材を再現してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-ps5-controller-2095967131573649552) · [元の投稿](https://x.com/blueemi99/status/2095967131573649552)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-ps5-controller-2095967131573649552) · [元の投稿](https://x.com/blueemi99/status/2095967131573649552)
 
 ---
 
@@ -1669,7 +1669,7 @@ World at War に着想を得た Three.js ブラウザシューターを作成し
 <details>
 <summary>プレビュー</summary>
 
-![ブラウザシューター Astral War](../assets/previews/10cc70e94dc0a8e6605b.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/astral-war-browser-shooter-2096079660605997264"><img src="../assets/previews/10cc70e94dc0a8e6605b.webp" width="840" loading="lazy" alt="ブラウザシューター Astral War"></a>
 
 </details>
 
@@ -1679,7 +1679,7 @@ World at War に着想を得た Three.js ブラウザシューターを作成し
 World at War に着想を得た Three.js ブラウザシューターを作成してください。反応のよい戦闘、空間音響、キャラクターアセット、試合進行を備えた、最後まで遊べる戦場を構築してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/astral-war-browser-shooter-2096079660605997264) · [元の投稿](https://x.com/0xRishi/status/2096079660605997264)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/astral-war-browser-shooter-2096079660605997264) · [元の投稿](https://x.com/0xRishi/status/2096079660605997264)
 
 ---
 
@@ -1694,7 +1694,7 @@ World at War に着想を得た Three.js ブラウザシューターを作成し
 <details>
 <summary>プレビュー</summary>
 
-![回路図 PDF から基板と 3D 表示へ](../assets/previews/1bfc13d5447aa0038e27.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502"><img src="../assets/previews/1bfc13d5447aa0038e27.webp" width="840" loading="lazy" alt="回路図 PDF から基板と 3D 表示へ"></a>
 
 </details>
 
@@ -1704,7 +1704,7 @@ World at War に着想を得た Three.js ブラウザシューターを作成し
 回路図 PDF を使って KiCad の回路を修正し、50 × 20 mm の 2 層基板を配線して、3D アセンブリをレンダリングしてください。部品のデータシートを確認し、設計ルール違反を解消してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [元の投稿](https://x.com/swjtutl/status/2096079976433082502)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [元の投稿](https://x.com/swjtutl/status/2096079976433082502)
 
 ---
 
@@ -1719,7 +1719,7 @@ World at War に着想を得た Three.js ブラウザシューターを作成し
 <details>
 <summary>プレビュー</summary>
 
-![ブラウザで遊ぶ飛行ゲーム](../assets/previews/094260e4ea7a88a23850.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/browser-flight-game-2096149823216898445"><img src="../assets/previews/094260e4ea7a88a23850.webp" width="840" loading="lazy" alt="ブラウザで遊ぶ飛行ゲーム"></a>
 
 </details>
 
@@ -1729,7 +1729,7 @@ World at War に着想を得た Three.js ブラウザシューターを作成し
 空のプロジェクトから、ブラウザ用 3D 飛行ゲームを完成させてください。操縦できる飛行、移動可能な環境、明確な目標、一貫した見せ方を含めてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/browser-flight-game-2096149823216898445) · [元の投稿](https://x.com/givros/status/2096149823216898445)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/browser-flight-game-2096149823216898445) · [元の投稿](https://x.com/givros/status/2096149823216898445)
 
 ---
 
@@ -1744,7 +1744,7 @@ World at War に着想を得た Three.js ブラウザシューターを作成し
 <details>
 <summary>プレビュー</summary>
 
-![操作できる地球儀ダッシュボード](../assets/previews/ce8131795b341edda606.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-globe-dashboard-2096082432197837065"><img src="../assets/previews/ce8131795b341edda606.webp" width="840" loading="lazy" alt="操作できる地球儀ダッシュボード"></a>
 
 </details>
 
@@ -1754,7 +1754,7 @@ World at War に着想を得た Three.js ブラウザシューターを作成し
 参考画像から Three.js の 3D 地球儀ダッシュボードを再構築してください。昼・夜モード、読みやすい地理データ、参考に合った動作する操作部を用意してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-globe-dashboard-2096082432197837065) · [元の投稿](https://x.com/hqmank/status/2096082432197837065)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-globe-dashboard-2096082432197837065) · [元の投稿](https://x.com/hqmank/status/2096082432197837065)
 
 ---
 
@@ -1769,7 +1769,7 @@ World at War に着想を得た Three.js ブラウザシューターを作成し
 <details>
 <summary>プレビュー</summary>
 
-![Blender で作るアーザーディー・タワー](../assets/previews/dccea8a39052877e2e5c.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/azadi-tower-in-blender-2096107322536051057"><img src="../assets/previews/dccea8a39052877e2e5c.webp" width="840" loading="lazy" alt="Blender で作るアーザーディー・タワー"></a>
 
 </details>
 
@@ -1779,7 +1779,7 @@ World at War に着想を得た Three.js ブラウザシューターを作成し
 編集可能なアーザーディー・タワーの Blender モデルを作成してください。広がる基部、交差するアーチ、表面模様、特徴的な比率を重視してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/azadi-tower-in-blender-2096107322536051057) · [元の投稿](https://x.com/taesiri/status/2096107322536051057)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/azadi-tower-in-blender-2096107322536051057) · [元の投稿](https://x.com/taesiri/status/2096107322536051057)
 
 ---
 
@@ -1794,7 +1794,7 @@ World at War に着想を得た Three.js ブラウザシューターを作成し
 <details>
 <summary>プレビュー</summary>
 
-![スクロールで動く 3D スタジオサイト](../assets/previews/a315174ac48f5392bb9a.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132"><img src="../assets/previews/a315174ac48f5392bb9a.webp" width="840" loading="lazy" alt="スクロールで動く 3D スタジオサイト"></a>
 
 </details>
 
@@ -1804,7 +1804,7 @@ World at War に着想を得た Three.js ブラウザシューターを作成し
 提示された参考画像を Three.js シーンにし、滑らかなスクロール連動のスタジオサイトに組み込んでください。カメラ移動、文字組み、セクション遷移を連動させてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [元の投稿](https://x.com/mx_debbiee/status/2096245759121277132)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [元の投稿](https://x.com/mx_debbiee/status/2096245759121277132)
 
 ---
 
@@ -1819,7 +1819,7 @@ World at War に着想を得た Three.js ブラウザシューターを作成し
 <details>
 <summary>プレビュー</summary>
 
-![木漏れ日の川を下るカヤック](../assets/previews/177462bb87e3089acbf2.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/komorebi-river-kayaking-2096244208533455049"><img src="../assets/previews/177462bb87e3089acbf2.webp" width="840" loading="lazy" alt="木漏れ日の川を下るカヤック"></a>
 
 </details>
 
@@ -1829,7 +1829,7 @@ World at War に着想を得た Three.js ブラウザシューターを作成し
 アニメ風の美しさを持つ 3D 川下りカヤックゲームを作成してください。左右に漕いで障害物を避ける操作を実装し、流れる水、風景、音楽、効果音をコードで生成してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [元の投稿](https://x.com/ItsmeAjayKV/status/2096244208533455049)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [元の投稿](https://x.com/ItsmeAjayKV/status/2096244208533455049)
 
 ---
 
@@ -1844,7 +1844,7 @@ World at War に着想を得た Three.js ブラウザシューターを作成し
 <details>
 <summary>プレビュー</summary>
 
-![屈折するボトルで伝える商品ストーリー](../assets/previews/0752e3417e975ec333d5.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/refractive-bottle-product-story-2096243989439713677"><img src="../assets/previews/0752e3417e975ec333d5.webp" width="840" loading="lazy" alt="屈折するボトルで伝える商品ストーリー"></a>
 
 </details>
 
@@ -1854,7 +1854,7 @@ World at War に着想を得た Three.js ブラウザシューターを作成し
 フォトリアルな WebGL ガラスボトルを中心に、インタラクティブな商品サイトを作成してください。ブラウザ性能を保ちつつ、光を屈折させる液体、スクロール連動の回転、大胆な文字組みを用いてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [元の投稿](https://x.com/himanshubuildss/status/2096243989439713677)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [元の投稿](https://x.com/himanshubuildss/status/2096243989439713677)
 
 ---
 
@@ -1869,7 +1869,7 @@ World at War に着想を得た Three.js ブラウザシューターを作成し
 <details>
 <summary>プレビュー</summary>
 
-![手続き生成した列車の分解アニメーション](../assets/previews/1bd8465e8c05d9d38315.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041"><img src="../assets/previews/1bd8465e8c05d9d38315.webp" width="840" loading="lazy" alt="手続き生成した列車の分解アニメーション"></a>
 
 </details>
 
@@ -1879,7 +1879,7 @@ World at War に着想を得た Three.js ブラウザシューターを作成し
 寸法、断面形状、ジオメトリ関数から、Three.js 内で直接 2 台の列車を生成してください。車輪を動かし、分解表示と再組み立てのシーケンスを用意してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041) · [元の投稿](https://x.com/tomkrcha/status/2096082580554777041)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041) · [元の投稿](https://x.com/tomkrcha/status/2096082580554777041)
 
 ---
 
@@ -1894,7 +1894,7 @@ World at War に着想を得た Three.js ブラウザシューターを作成し
 <details>
 <summary>プレビュー</summary>
 
-![幼児が遊ぶ温かな玩具の世界](../assets/previews/965f7261ca51d323b38a.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/a-playful-toddler-toy-world-2096201415051911597"><img src="../assets/previews/965f7261ca51d323b38a.webp" width="840" loading="lazy" alt="幼児が遊ぶ温かな玩具の世界"></a>
 
 </details>
 
@@ -1904,7 +1904,7 @@ World at War に着想を得た Three.js ブラウザシューターを作成し
 幼児がおもちゃの間を移動し、それぞれ異なる動きで遊ぶ、温かな Three.js プレイルームを作成してください。プレイマット、本、棚、登って遊ぶ設備、周回とズームの操作を含めてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/a-playful-toddler-toy-world-2096201415051911597) · [元の投稿](https://x.com/aehyok/status/2096201415051911597)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/a-playful-toddler-toy-world-2096201415051911597) · [元の投稿](https://x.com/aehyok/status/2096201415051911597)
 
 ---
 
@@ -1919,7 +1919,7 @@ World at War に着想を得た Three.js ブラウザシューターを作成し
 <details>
 <summary>プレビュー</summary>
 
-![稼働するジェット機製造工場](../assets/previews/88e94868f034bdf39f97.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/live-jet-manufacturing-plant-2096122429319852319"><img src="../assets/previews/88e94868f034bdf39f97.webp" width="840" loading="lazy" alt="稼働するジェット機製造工場"></a>
 
 </details>
 
@@ -1929,7 +1929,7 @@ World at War に着想を得た Three.js ブラウザシューターを作成し
 航空機製造を調査し、稼働する Three.js ジェット機工場シミュレーションを作成してください。機械の作業サイクル、生産ステーション、搬送、ボトルネックをモデル化し、工程の流れを検証してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/live-jet-manufacturing-plant-2096122429319852319) · [元の投稿](https://x.com/konstantinsaifo/status/2096122429319852319)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/live-jet-manufacturing-plant-2096122429319852319) · [元の投稿](https://x.com/konstantinsaifo/status/2096122429319852319)
 
 ---
 
@@ -1944,7 +1944,7 @@ World at War に着想を得た Three.js ブラウザシューターを作成し
 <details>
 <summary>プレビュー</summary>
 
-![怪獣が戦う都市](../assets/previews/8f55d646820e4f1f0b98.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/previews/8f55d646820e4f1f0b98.webp" width="840" loading="lazy" alt="怪獣が戦う都市"></a>
 
 </details>
 
@@ -1954,7 +1954,7 @@ World at War に着想を得た Three.js ブラウザシューターを作成し
 生成した怪獣モデルと効果音を使い、怪獣作品に着想を得た Three.js ゲームを作成してください。巨大な戦闘が分かりやすく、怪獣の大きさが伝わる環境を構築してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/kaiju-city-battle-2096251574918013135) · [元の投稿](https://x.com/majidmanzarpour/status/2096251574918013135)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/kaiju-city-battle-2096251574918013135) · [元の投稿](https://x.com/majidmanzarpour/status/2096251574918013135)
 
 ---
 
@@ -1969,7 +1969,7 @@ Three.js で、天候を操作できる、立方体に閉じ込められた嵐�
 <details>
 <summary>プレビュー</summary>
 
-![立方体に閉じ込めた嵐](../assets/previews/631562c3a38f51debed3.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648"><img src="../assets/previews/631562c3a38f51debed3.webp" width="840" loading="lazy" alt="立方体に閉じ込めた嵐"></a>
 
 </details>
 
@@ -1979,7 +1979,7 @@ Three.js で、天候を操作できる、立方体に閉じ込められた嵐�
 Three.js で、天候を操作できる、立方体に閉じ込められた嵐を生成してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648) · [元の投稿](https://x.com/zwb44/status/2096220264413409648)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648) · [元の投稿](https://x.com/zwb44/status/2096220264413409648)
 
 ---
 
@@ -1994,7 +1994,7 @@ Three.js で、天候を操作できる、立方体に閉じ込められた嵐�
 <details>
 <summary>プレビュー</summary>
 
-![Zork を 3D アクションアドベンチャーに](../assets/previews/88fedcd618dd733a21f5.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620"><img src="../assets/previews/88fedcd618dd733a21f5.webp" width="840" loading="lazy" alt="Zork を 3D アクションアドベンチャーに"></a>
 
 </details>
 
@@ -2004,7 +2004,7 @@ Three.js で、天候を操作できる、立方体に閉じ込められた嵐�
 古典的なテキストアドベンチャー Zork を、3D アクションアドベンチャーにしてください。物語と謎解きを保ち、戦闘シーンを加え、キャラクターと環境を Three.js で構築してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620) · [元の投稿](https://x.com/emollick/status/2096047660662722620)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620) · [元の投稿](https://x.com/emollick/status/2096047660662722620)
 
 ---
 
@@ -2019,7 +2019,7 @@ Three.js で、天候を操作できる、立方体に閉じ込められた嵐�
 <details>
 <summary>プレビュー</summary>
 
-![リグを付けて動かすティラノサウルス](../assets/previews/6bf58344b93f183cd255.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/rigged-and-animated-t-rex-2096133339329536249"><img src="../assets/previews/6bf58344b93f183cd255.webp" width="840" loading="lazy" alt="リグを付けて動かすティラノサウルス"></a>
 
 </details>
 
@@ -2029,7 +2029,7 @@ Three.js で、天候を操作できる、立方体に閉じ込められた嵐�
 生成したティラノサウルスのモデルにリグを付け、自然な動きを作成してください。Three.js で描画し、アニメーションによるモデルの変形に整合性があるか確認してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [元の投稿](https://x.com/majidmanzarpour/status/2096133339329536249)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [元の投稿](https://x.com/majidmanzarpour/status/2096133339329536249)
 
 ---
 
@@ -2044,7 +2044,7 @@ Three.js で、コーヒーカップの中に小さな海洋生態系を作成�
 <details>
 <summary>プレビュー</summary>
 
-![コーヒーカップの中の海洋生物](../assets/previews/3990cf9279eb906cfc93.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198"><img src="../assets/previews/3990cf9279eb906cfc93.webp" width="840" loading="lazy" alt="コーヒーカップの中の海洋生物"></a>
 
 </details>
 
@@ -2054,7 +2054,7 @@ Three.js で、コーヒーカップの中に小さな海洋生態系を作成�
 Three.js で、コーヒーカップの中に小さな海洋生態系を作成してください。意図を持って動くカメラで水生生物を見せつつ、カップと小さな世界であることが分かる構図を保ってください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [元の投稿](https://x.com/PolaczekSagi/status/2096174858837074198)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [元の投稿](https://x.com/PolaczekSagi/status/2096174858837074198)
 
 ---
 
@@ -2069,7 +2069,7 @@ Three.js で、コーヒーカップの中に小さな海洋生態系を作成�
 <details>
 <summary>プレビュー</summary>
 
-![操作できる Hyperloop デモ](../assets/previews/6fe7e10c4907c28861e5.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-hyperloop-demo-2096250748099068377"><img src="../assets/previews/6fe7e10c4907c28861e5.webp" width="840" loading="lazy" alt="操作できる Hyperloop デモ"></a>
 
 </details>
 
@@ -2079,7 +2079,7 @@ Three.js で、コーヒーカップの中に小さな海洋生態系を作成�
 輸送ポッド、チューブ設備、システム内の移動を見せる、操作可能な Three.js Hyperloop デモを作成してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [元の投稿](https://x.com/hbanay98/status/2096250748099068377)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [元の投稿](https://x.com/hbanay98/status/2096250748099068377)
 
 ---
 
@@ -2094,7 +2094,7 @@ Three.js のコードでナポレオンの 3D 胸像を作成してください�
 <details>
 <summary>プレビュー</summary>
 
-![手続き生成するナポレオンの胸像](../assets/previews/fda483263b1b7468f091.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/procedural-napoleon-bust-2096234355395903672"><img src="../assets/previews/fda483263b1b7468f091.webp" width="840" loading="lazy" alt="手続き生成するナポレオンの胸像"></a>
 
 </details>
 
@@ -2104,7 +2104,7 @@ Three.js のコードでナポレオンの 3D 胸像を作成してください�
 Three.js のコードでナポレオンの 3D 胸像を作成してください。段階的に制作し、異なる角度から確認して、顔の比率と衣服の細部を磨いてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [元の投稿](https://x.com/leploutos/status/2096234355395903672)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [元の投稿](https://x.com/leploutos/status/2096234355395903672)
 
 ---
 
@@ -2119,7 +2119,7 @@ Three.js のコードでナポレオンの 3D 胸像を作成してください�
 <details>
 <summary>プレビュー</summary>
 
-![鉄道駅のコンコース](../assets/previews/ec572c18e5e02ac65512.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/railway-station-concourse-2096226711222546461"><img src="../assets/previews/ec572c18e5e02ac65512.webp" width="840" loading="lazy" alt="鉄道駅のコンコース"></a>
 
 </details>
 
@@ -2129,7 +2129,7 @@ Three.js のコードでナポレオンの 3D 胸像を作成してください�
 力強い建築的リズム、自然なスケール、説得力のある素材を備えた駅のコンコースを作成してください。丁寧に構図を決めた駅の眺めを持つ、細部を観察できる 3D シーンにしてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/railway-station-concourse-2096226711222546461) · [元の投稿](https://x.com/0xWormhole404/status/2096226711222546461)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/railway-station-concourse-2096226711222546461) · [元の投稿](https://x.com/0xWormhole404/status/2096226711222546461)
 
 ---
 
@@ -2144,7 +2144,7 @@ Blender で小さな導入説明用ジオラマを作り、Three.js で動かし
 <details>
 <summary>プレビュー</summary>
 
-![アニメーションで使い方を伝えるジオラマ](../assets/previews/42b972bdf19630b039a0.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/animated-onboarding-diorama-2096222790894661841"><img src="../assets/previews/42b972bdf19630b039a0.webp" width="840" loading="lazy" alt="アニメーションで使い方を伝えるジオラマ"></a>
 
 </details>
 
@@ -2154,7 +2154,7 @@ Blender で小さな導入説明用ジオラマを作り、Three.js で動かし
 Blender で小さな導入説明用ジオラマを作り、Three.js で動かしてください。注目対象を明確にし、短いアニメーションで最初の操作を説明してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/animated-onboarding-diorama-2096222790894661841) · [元の投稿](https://x.com/EmilHovv/status/2096222790894661841)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/animated-onboarding-diorama-2096222790894661841) · [元の投稿](https://x.com/EmilHovv/status/2096222790894661841)
 
 ---
 
@@ -2169,7 +2169,7 @@ Blender で小さな導入説明用ジオラマを作り、Three.js で動かし
 <details>
 <summary>プレビュー</summary>
 
-![都市を自由に走る OX Vice Drive](../assets/previews/3b47ced29ac0872998ae.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897"><img src="../assets/previews/3b47ced29ac0872998ae.webp" width="840" loading="lazy" alt="都市を自由に走る OX Vice Drive"></a>
 
 </details>
 
@@ -2179,7 +2179,7 @@ Blender で小さな導入説明用ジオラマを作り、Three.js で動かし
 交通、ドリフト、配達レースを備えた、自由に街を走れるブラウザ運転ゲームを作成してください。移動が楽しく、運転の遊びが完結する海沿いの街を設計してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897) · [元の投稿](https://x.com/qok_ai/status/2096206082712768897)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897) · [元の投稿](https://x.com/qok_ai/status/2096206082712768897)
 
 ---
 
@@ -2194,7 +2194,7 @@ Blender で小さな導入説明用ジオラマを作り、Three.js で動かし
 <details>
 <summary>プレビュー</summary>
 
-![モバイルゲーム広告を本当に遊べる作品に](../assets/previews/4d8530d89c735d14003f.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842"><img src="../assets/previews/4d8530d89c735d14003f.webp" width="840" loading="lazy" alt="モバイルゲーム広告を本当に遊べる作品に"></a>
 
 </details>
 
@@ -2204,7 +2204,7 @@ Blender で小さな導入説明用ジオラマを作り、Three.js で動かし
 モバイルゲーム広告を参考に、遊べるブラウザゲームを作成してください。中心的な操作を再現し、Blender アセットで広告の見た目の構想に合わせてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842) · [元の投稿](https://x.com/buildingadlicio/status/2096111709496680842)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842) · [元の投稿](https://x.com/buildingadlicio/status/2096111709496680842)
 
 ---
 
@@ -2219,7 +2219,7 @@ Blender で小さな導入説明用ジオラマを作り、Three.js で動かし
 <details>
 <summary>プレビュー</summary>
 
-![Roblox のアニメ風アリーナ格闘ゲーム](../assets/previews/da567da60113f6fde024.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412"><img src="../assets/previews/da567da60113f6fde024.webp" width="840" loading="lazy" alt="Roblox のアニメ風アリーナ格闘ゲーム"></a>
 
 </details>
 
@@ -2229,7 +2229,7 @@ Blender で小さな導入説明用ジオラマを作り、Three.js で動かし
 アニメのクロスオーバーバトルに着想を得た Roblox アリーナ格闘ゲームを作成してください。Blender と利用可能なアセットでアリーナとキャラクターを構築し、遊べる戦闘の流れを実装してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412) · [元の投稿](https://x.com/WoahWurdz/status/2095999578419929412)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412) · [元の投稿](https://x.com/WoahWurdz/status/2095999578419929412)
 
 ---
 
@@ -2244,7 +2244,7 @@ Trackmania 風のレース物理を C# で再現し、WASM で動かして Three
 <details>
 <summary>プレビュー</summary>
 
-![C# と WASM によるブラウザレース物理](../assets/previews/da595232495fdcdcd646.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880"><img src="../assets/previews/da595232495fdcdcd646.webp" width="840" loading="lazy" alt="C# と WASM によるブラウザレース物理"></a>
 
 </details>
 
@@ -2254,7 +2254,7 @@ Trackmania 風のレース物理を C# で再現し、WASM で動かして Three
 Trackmania 風のレース物理を C# で再現し、WASM で動かして Three.js でコースを描画してください。衝突判定のあるコースメッシュを使い、車両の操縦感を検証してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [元の投稿](https://x.com/achepta_tm/status/2096258619574513880)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [元の投稿](https://x.com/achepta_tm/status/2096258619574513880)
 
 ---
 
@@ -2269,7 +2269,7 @@ Trackmania 風のレース物理を C# で再現し、WASM で動かして Three
 <details>
 <summary>プレビュー</summary>
 
-![自動リギングとカンフーの動作](../assets/previews/b667cbe461565dc1ef4c.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503"><img src="../assets/previews/b667cbe461565dc1ef4c.webp" width="840" loading="lazy" alt="自動リギングとカンフーの動作"></a>
 
 </details>
 
@@ -2279,7 +2279,7 @@ Trackmania 風のレース物理を C# で再現し、WASM で動かして Three
 提示された 3D キャラクターにリグを作成し、歩行、走行、複数のカンフー動作を追加してください。関節の破綻や不安定な姿勢がないかアニメーションを確認してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [元の投稿](https://x.com/thebuggeddev/status/2096141728487178503)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [元の投稿](https://x.com/thebuggeddev/status/2096141728487178503)
 
 ---
 
@@ -2294,7 +2294,7 @@ Noctavia のキャラクターイラストを、操作できる 3D キャラク�
 <details>
 <summary>プレビュー</summary>
 
-![イラストから操作できるキャラクターへ](../assets/previews/bb636fabd44b05a7797b.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/artwork-to-a-playable-character-2096107343268257953"><img src="../assets/previews/bb636fabd44b05a7797b.webp" width="840" loading="lazy" alt="イラストから操作できるキャラクターへ"></a>
 
 </details>
 
@@ -2304,7 +2304,7 @@ Noctavia のキャラクターイラストを、操作できる 3D キャラク�
 Noctavia のキャラクターイラストを、操作できる 3D キャラクターとして再現してください。デザインの特徴を保ち、インタラクティブな展示に適した完成モデルを作成してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/artwork-to-a-playable-character-2096107343268257953) · [元の投稿](https://x.com/noctav1a/status/2096107343268257953)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/artwork-to-a-playable-character-2096107343268257953) · [元の投稿](https://x.com/noctav1a/status/2096107343268257953)
 
 ---
 
@@ -2319,7 +2319,7 @@ Noctavia のキャラクターイラストを、操作できる 3D キャラク�
 <details>
 <summary>プレビュー</summary>
 
-![講演活動を地球儀で見せる 3D ポートフォリオ](../assets/previews/8ed97e5172601ffcf208.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"><img src="../assets/previews/8ed97e5172601ffcf208.webp" width="840" loading="lazy" alt="講演活動を地球儀で見せる 3D ポートフォリオ"></a>
 
 </details>
 
@@ -2329,7 +2329,7 @@ Noctavia のキャラクターイラストを、操作できる 3D キャラク�
 人物写真から Blender キャラクターを作り、編集デザインを生かした WebGL ポートフォリオに配置してください。講演イベントの場所を示す回転地球儀を追加し、各アセットをサイトに統合してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [元の投稿](https://x.com/HowDevelop/status/2096023793772998704)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [元の投稿](https://x.com/HowDevelop/status/2096023793772998704)
 
 ---
 
@@ -2344,7 +2344,7 @@ Noctavia のキャラクターイラストを、操作できる 3D キャラク�
 <details>
 <summary>プレビュー</summary>
 
-![Godot で作る Sonic 風の完成度の高い一ステージ](../assets/previews/4b1d7461ea62bbcb07bb.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086"><img src="../assets/previews/4b1d7461ea62bbcb07bb.webp" width="840" loading="lazy" alt="Godot で作る Sonic 風の完成度の高い一ステージ"></a>
 
 </details>
 
@@ -2354,7 +2354,7 @@ Noctavia のキャラクターイラストを、操作できる 3D キャラク�
 ローカルおよび手続き生成のアセットを使い、Godot で Sonic に着想を得た 3D ステージを磨き上げてください。勢い、反応のよい移動、リング、ループ、グラインドレール、途切れない南国の海岸を優先してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086) · [元の投稿](https://x.com/AiBattle_/status/2096056285896536086)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086) · [元の投稿](https://x.com/AiBattle_/status/2096056285896536086)
 
 ---
 
@@ -2369,7 +2369,7 @@ Blender で編集可能な 3D ヴァイキングを作成してください。�
 <details>
 <summary>プレビュー</summary>
 
-![Blender で作るヴァイキングのキャラクター](../assets/previews/47571b98331669c487a6.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/viking-character-in-blender-2096140378777010278"><img src="../assets/previews/47571b98331669c487a6.webp" width="840" loading="lazy" alt="Blender で作るヴァイキングのキャラクター"></a>
 
 </details>
 
@@ -2379,7 +2379,7 @@ Blender で編集可能な 3D ヴァイキングを作成してください。�
 Blender で編集可能な 3D ヴァイキングを作成してください。特徴的な衣装、顔の構造、体の比率、見やすい展示ポーズに重点を置いてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/viking-character-in-blender-2096140378777010278) · [元の投稿](https://x.com/fre4kspace/status/2096140378777010278)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/viking-character-in-blender-2096140378777010278) · [元の投稿](https://x.com/fre4kspace/status/2096140378777010278)
 
 ---
 
@@ -2394,7 +2394,7 @@ Blender で編集可能な 3D ヴァイキングを作成してください。�
 <details>
 <summary>プレビュー</summary>
 
-![バトルロイヤルアリーナ Dropzone](../assets/previews/37245ebc377553686009.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/dropzone-battle-royale-arena-2096155883122413946"><img src="../assets/previews/37245ebc377553686009.webp" width="840" loading="lazy" alt="バトルロイヤルアリーナ Dropzone"></a>
 
 </details>
 
@@ -2404,7 +2404,7 @@ Blender で編集可能な 3D ヴァイキングを作成してください。�
 縮小するストーム圏、9 体の AI 敵、パルスライフル、体力、リロードを備えた、三人称ブラウザバトルロイヤルを作成してください。設置できる遮蔽壁と、決着まで遊べる脱落戦を実装してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [元の投稿](https://x.com/Motion_Viz/status/2096155883122413946)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [元の投稿](https://x.com/Motion_Viz/status/2096155883122413946)
 
 ---
 
@@ -2419,7 +2419,7 @@ Blender で編集可能な 3D ヴァイキングを作成してください。�
 <details>
 <summary>プレビュー</summary>
 
-![蘇州博物館の庭園ウォークスルー](../assets/previews/5dd1b274746b07e46ff0.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449"><img src="../assets/previews/5dd1b274746b07e46ff0.webp" width="840" loading="lazy" alt="蘇州博物館の庭園ウォークスルー"></a>
 
 </details>
 
@@ -2429,7 +2429,7 @@ Blender で編集可能な 3D ヴァイキングを作成してください。�
 蘇州博物館についてのウェブページを参考に、Blender で庭園を再現してください。現代建築と伝統的な中国庭園の関係を保った、連続したウォークスルーを制作してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449) · [元の投稿](https://x.com/whosamberella/status/2096096998092841449)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449) · [元の投稿](https://x.com/whosamberella/status/2096096998092841449)
 
 ---
 
@@ -2444,7 +2444,7 @@ Blender で編集可能な 3D ヴァイキングを作成してください。�
 <details>
 <summary>プレビュー</summary>
 
-![操作して学ぶタイタンの科学展示](../assets/previews/01903613570d42ab83a5.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-titan-science-exhibit-2095986941753712841"><img src="../assets/previews/01903613570d42ab83a5.webp" width="840" loading="lazy" alt="操作して学ぶタイタンの科学展示"></a>
 
 </details>
 
@@ -2454,7 +2454,7 @@ Blender で編集可能な 3D ヴァイキングを作成してください。�
 土星最大の衛星タイタンの教育用 3D シミュレーションを作成してください。探索できる環境と、特徴的な物理的性質を解説する情報レイヤーを用意してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-titan-science-exhibit-2095986941753712841) · [元の投稿](https://x.com/ArdaTugsat/status/2095986941753712841)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-titan-science-exhibit-2095986941753712841) · [元の投稿](https://x.com/ArdaTugsat/status/2095986941753712841)
 
 ---
 
@@ -2469,7 +2469,7 @@ Blender で編集可能な 3D ヴァイキングを作成してください。�
 <details>
 <summary>プレビュー</summary>
 
-![WebGL で進化する生態系](../assets/previews/417256d668a87f961903.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/evolving-webgl-ecosystem-2096040448477515874"><img src="../assets/previews/417256d668a87f961903.webp" width="840" loading="lazy" alt="WebGL で進化する生態系"></a>
 
 </details>
 
@@ -2479,7 +2479,7 @@ Blender で編集可能な 3D ヴァイキングを作成してください。�
 素の WebGL と GLSL を使い、一つの HTML ファイルに進化する 3D 生態系を作成してください。突然変異、自然選択、捕食、エネルギー消費、多細胞の結合を相互に作用させてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/evolving-webgl-ecosystem-2096040448477515874) · [元の投稿](https://x.com/yume_arasaki/status/2096040448477515874)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/evolving-webgl-ecosystem-2096040448477515874) · [元の投稿](https://x.com/yume_arasaki/status/2096040448477515874)
 
 ---
 
@@ -2494,7 +2494,7 @@ Blender で編集可能な 3D ヴァイキングを作成してください。�
 <details>
 <summary>プレビュー</summary>
 
-![橋の通行止めで変わる配送網](../assets/previews/1f3a527d5461971e3394.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742"><img src="../assets/previews/1f3a527d5461971e3394.webp" width="840" loading="lazy" alt="橋の通行止めで変わる配送網"></a>
 
 </details>
 
@@ -2504,7 +2504,7 @@ Blender で編集可能な 3D ヴァイキングを作成してください。�
 橋を閉鎖するとトラックの経路が変わる 3D 配送シミュレーションを作成してください。到達不能な配送先を検出し、経路が再開したら配達を復旧させてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742) · [元の投稿](https://x.com/AgentWorkflowLa/status/2096042360513904742)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742) · [元の投稿](https://x.com/AgentWorkflowLa/status/2096042360513904742)
 
 ---
 
@@ -2519,7 +2519,7 @@ Sinclair ZX Spectrum 48K を、操作できる 3D デスクトップアプリと
 <details>
 <summary>プレビュー</summary>
 
-![Sinclair ZX Spectrum シミュレーター](../assets/previews/8342e2a2ae6ab568fa2f.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605"><img src="../assets/previews/8342e2a2ae6ab568fa2f.webp" width="840" loading="lazy" alt="Sinclair ZX Spectrum シミュレーター"></a>
 
 </details>
 
@@ -2529,7 +2529,7 @@ Sinclair ZX Spectrum 48K を、操作できる 3D デスクトップアプリと
 Sinclair ZX Spectrum 48K を、操作できる 3D デスクトップアプリとして再現してください。ゴム製キーボード、テーププレーヤー、起動画面、遊べるゲーム、BASIC プログラミング画面を含めてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605) · [元の投稿](https://x.com/DeryaTR_/status/2096062355692048605)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605) · [元の投稿](https://x.com/DeryaTR_/status/2096062355692048605)
 
 ---
 
@@ -2544,7 +2544,7 @@ Sinclair ZX Spectrum 48K を、操作できる 3D デスクトップアプリと
 <details>
 <summary>プレビュー</summary>
 
-![写真測量スキャンから編集可能なリビングへ](../assets/previews/d7643b0568a783c1fabd.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/photogrammetry-scan-to-editable-living-room-2096092080397246707"><img src="../assets/previews/d7643b0568a783c1fabd.webp" width="840" loading="lazy" alt="写真測量スキャンから編集可能なリビングへ"></a>
 
 </details>
 
@@ -2554,7 +2554,7 @@ Sinclair ZX Spectrum 48K を、操作できる 3D デスクトップアプリと
 写真測量スキャンを基に、Blender でリビングを再構築してください。シーンをゼロからモデル化し、スキャンからテクスチャを取り出して、適切な箇所では手続き型シェーダーを使ってください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/photogrammetry-scan-to-editable-living-room-2096092080397246707) · [元の投稿](https://x.com/bilawalsidhu/status/2096092080397246707)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/photogrammetry-scan-to-editable-living-room-2096092080397246707) · [元の投稿](https://x.com/bilawalsidhu/status/2096092080397246707)
 
 ---
 
@@ -2569,7 +2569,7 @@ Sinclair ZX Spectrum 48K を、操作できる 3D デスクトップアプリと
 <details>
 <summary>プレビュー</summary>
 
-![Odyssey 風の足場アドベンチャー](../assets/previews/f8e883bece1bb1220b1f.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152"><img src="../assets/previews/f8e883bece1bb1220b1f.webp" width="840" loading="lazy" alt="Odyssey 風の足場アドベンチャー"></a>
 
 </details>
 
@@ -2579,7 +2579,7 @@ Sinclair ZX Spectrum 48K を、操作できる 3D デスクトップアプリと
 8 つの足場、3 個の収集ムーン、戻ってくる帽子攻撃、敵、チェックポイントを備えた、Odyssey に着想を得た Three.js ステージを作成してください。タッチ操作を加え、最後まで通して試遊してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [元の投稿](https://x.com/AiHubMix/status/2096135808243876152)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [元の投稿](https://x.com/AiHubMix/status/2096135808243876152)
 
 ---
 
@@ -2594,7 +2594,7 @@ Sinclair ZX Spectrum 48K を、操作できる 3D デスクトップアプリと
 <details>
 <summary>プレビュー</summary>
 
-![分解して観察する 3D 人体解剖](../assets/previews/73fbb8ce4494edce62d6.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186"><img src="../assets/previews/73fbb8ce4494edce62d6.webp" width="840" loading="lazy" alt="分解して観察する 3D 人体解剖"></a>
 
 </details>
 
@@ -2604,7 +2604,7 @@ Sinclair ZX Spectrum 48K を、操作できる 3D デスクトップアプリと
 人体が、個別に観察できる構造へ分かれる 3D 解剖学サイトを作成してください。分解表示を操作できるようにし、各部位を意味のある器官系に整理してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186) · [元の投稿](https://x.com/ashebytes/status/2096221988763173186)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186) · [元の投稿](https://x.com/ashebytes/status/2096221988763173186)
 
 ---
 
@@ -2619,7 +2619,7 @@ Tesla Model X をモデル化した部品に分解する 3D サイトを作成�
 <details>
 <summary>プレビュー</summary>
 
-![Tesla Model X の分解表示](../assets/previews/59bc5339c02dceeee7e0.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/tesla-model-x-exploded-view-2096009146248122416"><img src="../assets/previews/59bc5339c02dceeee7e0.webp" width="840" loading="lazy" alt="Tesla Model X の分解表示"></a>
 
 </details>
 
@@ -2629,7 +2629,7 @@ Tesla Model X をモデル化した部品に分解する 3D サイトを作成�
 Tesla Model X をモデル化した部品に分解する 3D サイトを作成してください。各アセンブリを観察し、操作して車を再組み立てできるようにしてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/tesla-model-x-exploded-view-2096009146248122416) · [元の投稿](https://x.com/ashebytes/status/2096009146248122416)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/tesla-model-x-exploded-view-2096009146248122416) · [元の投稿](https://x.com/ashebytes/status/2096009146248122416)
 
 ---
 
@@ -2644,7 +2644,7 @@ Tesla Model X をモデル化した部品に分解する 3D サイトを作成�
 <details>
 <summary>プレビュー</summary>
 
-![思い出のカプセルマシン](../assets/previews/2623ee6ae5ad1e80ed6a.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/memory-capsule-machine-2096241295949975602"><img src="../assets/previews/2623ee6ae5ad1e80ed6a.webp" width="840" loading="lazy" alt="思い出のカプセルマシン"></a>
 
 </details>
 
@@ -2654,7 +2654,7 @@ Tesla Model X をモデル化した部品に分解する 3D サイトを作成�
 3D の思い出カプセルマシンを作成してください。つまみを回すと思い出が出てきます。機構を Blender でモデル化し、落ちるカプセルに自然な動きと音を付けてください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/memory-capsule-machine-2096241295949975602) · [元の投稿](https://x.com/gloria_zwq/status/2096241295949975602)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/memory-capsule-machine-2096241295949975602) · [元の投稿](https://x.com/gloria_zwq/status/2096241295949975602)
 
 ---
 
@@ -2669,7 +2669,7 @@ Tesla Model X をモデル化した部品に分解する 3D サイトを作成�
 <details>
 <summary>プレビュー</summary>
 
-![Blender で作る F1 マシン](../assets/previews/7b1991638d1cf62afb53.webp)
+<a href="https://www.tripo3d.ai/ja/3d-prompts/formula-one-car-in-blender-2096125193580113957"><img src="../assets/previews/7b1991638d1cf62afb53.webp" width="840" loading="lazy" alt="Blender で作る F1 マシン"></a>
 
 </details>
 
@@ -2679,6 +2679,6 @@ Tesla Model X をモデル化した部品に分解する 3D サイトを作成�
 コンピューター操作を使い、Blender で Formula One の 3D モデルを作成してください。
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ja/3d-prompts/formula-one-car-in-blender-2096125193580113957) · [元の投稿](https://x.com/Conor_D_Dart/status/2096125193580113957)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/formula-one-car-in-blender-2096125193580113957) · [元の投稿](https://x.com/Conor_D_Dart/status/2096125193580113957)
 
 ---

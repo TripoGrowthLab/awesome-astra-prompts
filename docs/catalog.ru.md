@@ -119,7 +119,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Процедурный живой океан и симуляция шторма](../assets/previews/f328a1a13f9ac8c829d2.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429"><img src="../assets/previews/f328a1a13f9ac8c829d2.webp" width="840" loading="lazy" alt="Процедурный живой океан и симуляция шторма"></a>
 
 </details>
 
@@ -129,7 +129,7 @@
 Развей предоставленный однофайловый генератор штормовой поверхности в полноценный процедурный океан. Добавь рифы, глубины, правдоподобную погоду, популяции животных с возникающим из взаимодействий поведением, связи экосистемы и камеру, перемещающуюся над водой и под ней.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429) · [Исходная публикация](https://x.com/emollick/status/2095673885605630429) · [Исходный код](https://github.com/emollick/abyssal-living-deep) · [Демо](https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429) · [Исходная публикация](https://x.com/emollick/status/2095673885605630429) · [Исходный код](https://github.com/emollick/abyssal-living-deep) · [Демо](https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1)
 
 ---
 
@@ -144,7 +144,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Gogh Strike — сетевой FPS](../assets/previews/70ad9e97aa42a9189998.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608"><img src="../assets/previews/70ad9e97aa42a9189998.webp" width="840" loading="lazy" alt="Gogh Strike — сетевой FPS"></a>
 
 </details>
 
@@ -154,7 +154,7 @@
 Создай постимпрессионистский шутер от первого лица 5 на 5 с персонажами-художниками, отрендеренными в Blender, легко различимыми командами и полноценным сетевым матчем в браузере.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608) · [Исходная публикация](https://x.com/petergostev/status/2096013280519016608) · [Исходный код](https://github.com/petergpt/gogh-strike) · [Демо](https://gogh-strike.surge.sh/)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608) · [Исходная публикация](https://x.com/petergostev/status/2096013280519016608) · [Исходный код](https://github.com/petergpt/gogh-strike) · [Демо](https://gogh-strike.surge.sh/)
 
 ---
 
@@ -169,7 +169,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Арена hack-and-slash в соборе](../assets/previews/b8e73f6ab2b929800dd1.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792"><img src="../assets/previews/b8e73f6ab2b929800dd1.webp" width="840" loading="lazy" alt="Арена hack-and-slash в соборе"></a>
 
 </details>
 
@@ -179,7 +179,7 @@
 Создай игру hack-and-slash от третьего лица на Three.js в соборе над мёртвой звездой. Добавь лёгкие комбинации ударов мечом, тяжёлые атаки, магию по области, уклонение и убедительную анимацию владения двуручным оружием.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792) · [Исходная публикация](https://x.com/superalesha/status/2095988972879335792) · [Исходный код](https://github.com/alesha-pro/bench-portal) · [Демо](https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792) · [Исходная публикация](https://x.com/superalesha/status/2095988972879335792) · [Исходный код](https://github.com/alesha-pro/bench-portal) · [Демо](https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/)
 
 ---
 
@@ -194,7 +194,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Антигравитационные боевые гонки](../assets/previews/76744b47af9907732336.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/anti-gravity-combat-racer-2095967568825582044"><img src="../assets/previews/76744b47af9907732336.webp" width="840" loading="lazy" alt="Антигравитационные боевые гонки"></a>
 
 </details>
 
@@ -204,7 +204,7 @@
 Создай скоростные антигравитационные боевые гонки на Three.js с дрифтом, ускорениями, наклоняющимися камерами, воздушными тормозами и подбираемыми щитами. Добавь лёгкие, сбалансированные и тяжёлые аппараты на приподнятой инопланетной трассе.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/anti-gravity-combat-racer-2095967568825582044) · [Исходная публикация](https://x.com/superalesha/status/2095967568825582044) · [Исходный код](https://github.com/alesha-pro/bench-portal)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/anti-gravity-combat-racer-2095967568825582044) · [Исходная публикация](https://x.com/superalesha/status/2095967568825582044) · [Исходный код](https://github.com/alesha-pro/bench-portal)
 
 ---
 
@@ -219,7 +219,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Общество автономных персонажей в Unreal Engine](../assets/previews/3dfc15d51104de183c13.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/previews/3dfc15d51104de183c13.webp" width="840" loading="lazy" alt="Общество автономных персонажей в Unreal Engine"></a>
 
 </details>
 
@@ -229,7 +229,7 @@
 Создай мир в Unreal Engine с автономными людьми. Задай каждому собственные потребности и общую цель выживания: они должны общаться, распределять работу, строить укрытия и поддерживать жизнь общества, даже когда игрок уходит.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Исходная публикация](https://x.com/mattshumer_/status/2095596175705399482)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Исходная публикация](https://x.com/mattshumer_/status/2095596175705399482)
 
 ---
 
@@ -244,7 +244,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Манхэттен в Unreal Engine, улица за улицей](../assets/previews/df1e2d655d7eca4caf78.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525"><img src="../assets/previews/df1e2d655d7eca4caf78.webp" width="840" loading="lazy" alt="Манхэттен в Unreal Engine, улица за улицей"></a>
 
 </details>
 
@@ -254,7 +254,7 @@
 Создай доступный для исследования Манхэттен в Unreal Engine. Прорабатывай район за районом, улицу за улицей, сохраняя узнаваемый масштаб, планировку дорог, достопримечательности, движение и характер кварталов. Веди список критериев проверки и дорабатывай каждый участок, прежде чем переходить к следующему.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [Исходная публикация](https://x.com/mattshumer_/status/2095609734845927525)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [Исходная публикация](https://x.com/mattshumer_/status/2095609734845927525)
 
 ---
 
@@ -269,7 +269,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Современная вилла в Blender](../assets/previews/d1f867dcf59b933bc843.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/modern-villa-scene-in-blender-2095636679264780481"><img src="../assets/previews/d1f867dcf59b933bc843.webp" width="840" loading="lazy" alt="Современная вилла в Blender"></a>
 
 </details>
 
@@ -279,7 +279,7 @@
 Создай полноценную сцену современной виллы в Blender: целостная архитектура, меблированные интерьеры, инфинити-бассейн, озеленение, реалистичные материалы и кинематографичная траектория камеры в золотой час.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/modern-villa-scene-in-blender-2095636679264780481) · [Исходная публикация](https://x.com/karankendre/status/2095636679264780481)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/modern-villa-scene-in-blender-2095636679264780481) · [Исходная публикация](https://x.com/karankendre/status/2095636679264780481)
 
 ---
 
@@ -294,7 +294,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Браузерная 3D-игра за один запрос](../assets/previews/83ed142104b7acba468c.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/one-shot-browser-3d-game-2095599934766764338"><img src="../assets/previews/83ed142104b7acba468c.webp" width="840" loading="lazy" alt="Браузерная 3D-игра за один запрос"></a>
 
 </details>
 
@@ -304,7 +304,7 @@
 Создай полноценную браузерную 3D-игру в одном самостоятельном проекте. Добавь понятную цель, отзывчивое управление, пространственно связные уровни, врагов или опасности, обратную связь, подсчёт очков, перезапуск и меры для стабильной производительности.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/one-shot-browser-3d-game-2095599934766764338) · [Исходная публикация](https://x.com/theo/status/2095599934766764338)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/one-shot-browser-3d-game-2095599934766764338) · [Исходная публикация](https://x.com/theo/status/2095599934766764338)
 
 ---
 
@@ -319,7 +319,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Из фотографии дома в редактируемый мир Blender](../assets/previews/e54b3e2710c53a16b303.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775"><img src="../assets/previews/e54b3e2710c53a16b303.webp" width="840" loading="lazy" alt="Из фотографии дома в редактируемый мир Blender"></a>
 
 </details>
 
@@ -329,7 +329,7 @@
 Воссоздай дом с предоставленного изображения как полностью редактируемую сцену Blender. Создай архитектуру, мебель, бытовую технику и игрушки отдельными объектами, сохрани правдоподобные пропорции и обеспечь плавную локальную прогулку со скоростью 60 FPS.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775) · [Исходная публикация](https://x.com/tomkrcha/status/2095598645190291775)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775) · [Исходная публикация](https://x.com/tomkrcha/status/2095598645190291775)
 
 ---
 
@@ -344,7 +344,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Из объявления Zillow в 3D-ролик о доме](../assets/previews/6f8c345161829fa354d9.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615"><img src="../assets/previews/6f8c345161829fa354d9.webp" width="840" loading="lazy" alt="Из объявления Zillow в 3D-ролик о доме"></a>
 
 </details>
 
@@ -354,7 +354,7 @@
 Используй объявление о недвижимости и все его фотографии, чтобы воссоздать дом в 3D, вывести согласованную планировку и подготовить качественный рекламный видеотур. Отметь геометрию, в которой нет уверенности, и исправь несоответствия после первого прохода.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615) · [Исходная публикация](https://x.com/realYunfanYe/status/2095612137582526615)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615) · [Исходная публикация](https://x.com/realYunfanYe/status/2095612137582526615)
 
 ---
 
@@ -369,7 +369,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Из чертежа паровоза в редактируемую сборку Blender](../assets/previews/06507ec81e3b2b48f511.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311"><img src="../assets/previews/06507ec81e3b2b48f511.webp" width="840" loading="lazy" alt="Из чертежа паровоза в редактируемую сборку Blender"></a>
 
 </details>
 
@@ -379,7 +379,7 @@
 Воссоздай старинный паровоз с предоставленного чертежа в Blender в виде детальной механической сборки. Колёса, оси, подвеска, тяги, арматура котла и панели корпуса должны быть отдельными именованными редактируемыми объектами. Предусмотри управление уровнем детализации.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Исходная публикация](https://x.com/tomkrcha/status/2095756085890310311)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Исходная публикация](https://x.com/tomkrcha/status/2095756085890310311)
 
 ---
 
@@ -394,7 +394,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Процедурная декорация Овального кабинета для Cycles](../assets/previews/27b8c4a9f00b1882f1a8.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857"><img src="../assets/previews/27b8c4a9f00b1882f1a8.webp" width="840" loading="lazy" alt="Процедурная декорация Овального кабинета для Cycles"></a>
 
 </details>
 
@@ -404,7 +404,7 @@
 Преобразуй описание декораций Овального кабинета в исполняемый код сцены. Построй помещение в Blender с редактируемой мебелью, стенами, освещением и расстановкой камер, затем создай кинематографичный рендер в Cycles.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857) · [Исходная публикация](https://x.com/higgsfield_ai/status/2095630197257367857)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857) · [Исходная публикация](https://x.com/higgsfield_ai/status/2095630197257367857)
 
 ---
 
@@ -419,7 +419,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Мир в стиле Minecraft за один запрос](../assets/previews/4057aefd543af899d3d0.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/one-shot-minecraft-style-world-2095597137849446688"><img src="../assets/previews/4057aefd543af899d3d0.webp" width="840" loading="lazy" alt="Мир в стиле Minecraft за один запрос"></a>
 
 </details>
 
@@ -429,7 +429,7 @@
 Создай за один проход игровой воксельный мир в духе Minecraft: генерация ландшафта, установка и разрушение блоков, управление от первого лица, инвентарь, освещение, вода и небольшой цикл выживания.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/one-shot-minecraft-style-world-2095597137849446688) · [Исходная публикация](https://x.com/flavioAd/status/2095597137849446688)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/one-shot-minecraft-style-world-2095597137849446688) · [Исходная публикация](https://x.com/flavioAd/status/2095597137849446688)
 
 ---
 
@@ -444,7 +444,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Дворец изящных искусств в Blender](../assets/previews/425b651bd5174e37b02f.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143"><img src="../assets/previews/425b651bd5174e37b02f.webp" width="840" loading="lazy" alt="Дворец изящных искусств в Blender"></a>
 
 </details>
 
@@ -454,7 +454,7 @@
 Воссоздай Дворец изящных искусств Сан-Франциско в Blender: узнаваемые пропорции ротонды, колоннады, лагуна, растительность, состаренные материалы и кинематографичный свет, передающий оптимизм эпохи всемирных выставок.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143) · [Исходная публикация](https://x.com/sharifshameem/status/2095653641164329143)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143) · [Исходная публикация](https://x.com/sharifshameem/status/2095653641164329143)
 
 ---
 
@@ -469,7 +469,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Город для прогулок из шести картин Ван Гога](../assets/previews/2d8a09166b72394c4292.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"><img src="../assets/previews/2d8a09166b72394c4292.webp" width="840" loading="lazy" alt="Город для прогулок из шести картин Ван Гога"></a>
 
 </details>
 
@@ -479,7 +479,7 @@
 Преврати шесть предоставленных картин Ван Гога в единый город для прогулок на Three.js. Сохрани палитру и характер мазков каждой картины, связав улицы, ориентиры и переходы в доступный для исследования мир.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Исходная публикация](https://x.com/petergostev/status/2095776685807346105) · [Демо](https://van-goghs-town.surge.sh/)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Исходная публикация](https://x.com/petergostev/status/2095776685807346105) · [Демо](https://van-goghs-town.surge.sh/)
 
 ---
 
@@ -494,7 +494,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Создание 3D-игры голосом для новичков](../assets/previews/ae76084678dab574ad49.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647"><img src="../assets/previews/ae76084678dab574ad49.webp" width="840" loading="lazy" alt="Создание 3D-игры голосом для новичков"></a>
 
 </details>
 
@@ -504,7 +504,7 @@
 Выступи моим разработчиком 3D-игры. Уточни только недостающие сведения о цели игрока, визуальном стиле и управлении, затем создай браузерную игру, в которую можно сразу сыграть, и дорабатывай её по коротким голосовым указаниям.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647) · [Исходная публикация](https://x.com/EHuanglu/status/2095608358086840647)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647) · [Исходная публикация](https://x.com/EHuanglu/status/2095608358086840647)
 
 ---
 
@@ -519,7 +519,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Три тематические гонки из одного прототипа](../assets/previews/16e9382415e9e7610e15.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369"><img src="../assets/previews/16e9382415e9e7610e15.webp" width="840" loading="lazy" alt="Три тематические гонки из одного прототипа"></a>
 
 </details>
 
@@ -529,7 +529,7 @@
 Преврати предоставленный черновой прототип картинговых гонок в Unity в три игровых варианта: пиратский, конфетный и киберпанк. Сохрани основную механику вождения, замени окружение и обратную связь, протестируй каждую сборку и исправь наиболее заметные ошибки.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369) · [Исходная публикация](https://x.com/chetaslua/status/2095580402505400369)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369) · [Исходная публикация](https://x.com/chetaslua/status/2095580402505400369)
 
 ---
 
@@ -544,7 +544,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Браузерное приключение в открытом мире](../assets/previews/62267b50bd0c00e10a37.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/open-world-browser-adventure-2095596341422440714"><img src="../assets/previews/62267b50bd0c00e10a37.webp" width="840" loading="lazy" alt="Браузерное приключение в открытом мире"></a>
 
 </details>
 
@@ -554,7 +554,7 @@
 Создай 3D-приключение в открытом мире с несколькими связанными биомами, перемещением, открытиями, несложными боями, заданиями, ориентирами и сменой дня и ночи. Дай достаточно подсказок, чтобы исследование ощущалось осмысленным.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/open-world-browser-adventure-2095596341422440714) · [Исходная публикация](https://x.com/petergostev/status/2095596341422440714)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/open-world-browser-adventure-2095596341422440714) · [Исходная публикация](https://x.com/petergostev/status/2095596341422440714)
 
 ---
 
@@ -569,7 +569,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Студия фотореалистичных 3D-мокапов товаров](../assets/previews/7762f843277fda2d2f52.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253"><img src="../assets/previews/7762f843277fda2d2f52.webp" width="840" loading="lazy" alt="Студия фотореалистичных 3D-мокапов товаров"></a>
 
 </details>
 
@@ -579,7 +579,7 @@
 Создай браузерный инструмент для размещения загруженных изображений на фотореалистичных 3D-мокапах товаров. Добавь вращение камеры, настройку материалов и цветов, освещение окружением, выбор разных товаров и экспорт в высоком разрешении.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253) · [Исходная публикация](https://x.com/joshmillgate/status/2095619319690400253)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253) · [Исходная публикация](https://x.com/joshmillgate/status/2095619319690400253)
 
 ---
 
@@ -594,7 +594,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![3D-игра-аквариум по референсу](../assets/previews/c522341161fd8999972e.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/reference-image-3d-aquarium-game-2095611134992945385"><img src="../assets/previews/c522341161fd8999972e.webp" width="840" loading="lazy" alt="3D-игра-аквариум по референсу"></a>
 
 </details>
 
@@ -604,7 +604,7 @@
 Используй предоставленный референс, чтобы за один проход создать полноценную 3D-игру-аквариум. Воссоздай композицию резервуара, анимируй рыб, добавь кормление и коллекционирование, эффекты воды, управление камерой и понятную цель.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/reference-image-3d-aquarium-game-2095611134992945385) · [Исходная публикация](https://x.com/TimJayas/status/2095611134992945385)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/reference-image-3d-aquarium-game-2095611134992945385) · [Исходная публикация](https://x.com/TimJayas/status/2095611134992945385)
 
 ---
 
@@ -619,7 +619,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Игровой 3D-мир в реальном времени по одному промпту](../assets/previews/d10512aa45750b6fcfc3.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/single-playable-real-time-3d-game-2095647685210669541"><img src="../assets/previews/d10512aa45750b6fcfc3.webp" width="840" loading="lazy" alt="Игровой 3D-мир в реальном времени по одному промпту"></a>
 
 </details>
 
@@ -629,7 +629,7 @@
 Создай по одному промпту 3D-игру, работающую в реальном времени. Определи небольшую основную механику, понятную цель и короткую историю, затем создай сцену, персонажей, предметы, обратную связь и состояние перезапуска, чтобы можно было сразу играть.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/single-playable-real-time-3d-game-2095647685210669541) · [Исходная публикация](https://x.com/higgsfield/status/2095647685210669541)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/single-playable-real-time-3d-game-2095647685210669541) · [Исходная публикация](https://x.com/higgsfield/status/2095647685210669541)
 
 ---
 
@@ -644,7 +644,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Морское сражение на Three.js за один запрос](../assets/previews/d720a08832dc8749ad7b.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278"><img src="../assets/previews/d720a08832dc8749ad7b.webp" width="840" loading="lazy" alt="Морское сражение на Three.js за один запрос"></a>
 
 </details>
 
@@ -654,7 +654,7 @@
 Создай детальное морское сражение на Three.js за один запрос. Добавь несколько различных кораблей, физически убедительное взаимодействие с водой, кильватерные следы и брызги, воздушный бой, взрывы, кинематографичный свет, движение камеры и рендеринг с учётом производительности.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278) · [Исходная публикация](https://x.com/synthwavedd/status/2095840435319001278)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278) · [Исходная публикация](https://x.com/synthwavedd/status/2095840435319001278)
 
 ---
 
@@ -669,7 +669,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Сетевой шутер 10 на 10 в духе Halo](../assets/previews/56d4000d3fc115fd7529.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024"><img src="../assets/previews/56d4000d3fc115fd7529.webp" width="840" loading="lazy" alt="Сетевой шутер 10 на 10 в духе Halo"></a>
 
 </details>
 
@@ -679,7 +679,7 @@
 Создай сетевой ареновый шутер 10 на 10 в духе классических научно-фантастических FPS. Добавь команды, возрождение, легко различимое оружие, щиты, подбираемые предметы, компактные карты, очки, ход матча и браузерную игру с низкой задержкой.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024) · [Исходная публикация](https://x.com/VikiingAI/status/2095598026916049024)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024) · [Исходная публикация](https://x.com/VikiingAI/status/2095598026916049024)
 
 ---
 
@@ -694,7 +694,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Интерактивный воксельный железнодорожный макет](../assets/previews/7a7bcde401d8420e09e2.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/interactive-voxel-railway-table-2095719731860750613"><img src="../assets/previews/7a7bcde401d8420e09e2.webp" width="840" loading="lazy" alt="Интерактивный воксельный железнодорожный макет"></a>
 
 </details>
 
@@ -704,7 +704,7 @@
 Создай детальный воксельный железнодорожный макет на Three.js. Позволь запускать и останавливать несколько поездов, переключать пути, вращать и приближать камеру, рассматривать миниатюрные города и включать небольшие анимации окружения.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-voxel-railway-table-2095719731860750613) · [Исходная публикация](https://x.com/DeryaTR_/status/2095719731860750613) · [Демо](https://lindenhafen-railway.vercel.app/)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-voxel-railway-table-2095719731860750613) · [Исходная публикация](https://x.com/DeryaTR_/status/2095719731860750613) · [Демо](https://lindenhafen-railway.vercel.app/)
 
 ---
 
@@ -719,7 +719,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Живой воксельный корабль в бутылке](../assets/previews/a3c527769a0401300bf1.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065"><img src="../assets/previews/a3c527769a0401300bf1.webp" width="840" loading="lazy" alt="Живой воксельный корабль в бутылке"></a>
 
 </details>
 
@@ -729,7 +729,7 @@
 Создай детальный воксельный корабль XVII века, плывущий внутри стеклянной бутылки. Смоделируй волны и качку, добавь кружащих чаек, миниатюрную гавань и коралловые рифы, затем подготовь кинематографичный пролёт камеры и спокойную звуковую дорожку.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065) · [Исходная публикация](https://x.com/DeryaTR_/status/2095699049722581065)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065) · [Исходная публикация](https://x.com/DeryaTR_/status/2095699049722581065)
 
 ---
 
@@ -744,7 +744,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![CAD-сборка USS Enterprise для печати](../assets/previews/3b7b068d0eb0e5288ff2.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676"><img src="../assets/previews/3b7b068d0eb0e5288ff2.webp" width="840" loading="lazy" alt="CAD-сборка USS Enterprise для печати"></a>
 
 </details>
 
@@ -754,7 +754,7 @@
 Создай в CAD оригинальную модель по мотивам USS Enterprise NCC-1701, готовую к печати. Сохрани узнаваемые пропорции, добавь мостик и отдельные интерьеры, не менее 28 работающих подвижных деталей, раздельные сборки и экспортируемые производственные файлы.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676) · [Исходная публикация](https://x.com/DeryaTR_/status/2095641163441254676)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676) · [Исходная публикация](https://x.com/DeryaTR_/status/2095641163441254676)
 
 ---
 
@@ -769,7 +769,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Космический полёт по траншее в Unity](../assets/previews/be8d6964ee56b4d4d219.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/unity-space-trench-run-game-2095630044102279312"><img src="../assets/previews/be8d6964ee56b4d4d219.webp" width="840" loading="lazy" alt="Космический полёт по траншее в Unity"></a>
 
 </details>
 
@@ -779,7 +779,7 @@
 Передай в Unity ощущение классического космического полёта по траншее: скоростной полёт на малой высоте, огонь турелей, препятствия, наведение, нарастающее напряжение, конечная цель и кинематографичная сцена успеха или поражения.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/unity-space-trench-run-game-2095630044102279312) · [Исходная публикация](https://x.com/ronaldmannak/status/2095630044102279312)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/unity-space-trench-run-game-2095630044102279312) · [Исходная публикация](https://x.com/ronaldmannak/status/2095630044102279312)
 
 ---
 
@@ -794,7 +794,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Процедурный воксельный замок](../assets/previews/b1d1817a37c203d66e96.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/procedural-voxel-castle-showcase-2093690427849191855"><img src="../assets/previews/b1d1817a37c203d66e96.webp" width="840" loading="lazy" alt="Процедурный воксельный замок"></a>
 
 </details>
 
@@ -804,7 +804,7 @@
 Сгенерируй большой воксельный замок с понятными линиями обороны, башнями, стенами, воротами, дворами и окружающим ландшафтом. Используй инстансинг, орбитальную камеру, меняющийся свет и детерминированную генерацию, чтобы результат был стабильным и удобным для осмотра.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/procedural-voxel-castle-showcase-2093690427849191855) · [Исходная публикация](https://x.com/hakmgpt/status/2093690427849191855)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/procedural-voxel-castle-showcase-2093690427849191855) · [Исходная публикация](https://x.com/hakmgpt/status/2093690427849191855)
 
 ---
 
@@ -819,7 +819,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Город для исследования в Unity из готовых ассетов](../assets/previews/35299b2ab45e0614dcc7.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887"><img src="../assets/previews/35299b2ab45e0614dcc7.webp" width="840" loading="lazy" alt="Город для исследования в Unity из готовых ассетов"></a>
 
 </details>
 
@@ -829,7 +829,7 @@
 Собери доступный для исследования город в Unity из предоставленной библиотеки ассетов. Создай целостную дорожную сеть, высотные здания, машины, пальмы, освещение и навигацию. Оптимизируй сцену и подготовь стабильную прогулку от первого лица.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887) · [Исходная публикация](https://x.com/chetaslua/status/2095597640587374887)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887) · [Исходная публикация](https://x.com/chetaslua/status/2095597640587374887)
 
 ---
 
@@ -844,7 +844,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Механически подробный паровоз в Blender](../assets/previews/a02294169159c5b88bfb.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840"><img src="../assets/previews/a02294169159c5b88bfb.webp" width="840" loading="lazy" alt="Механически подробный паровоз в Blender"></a>
 
 </details>
 
@@ -854,7 +854,7 @@
 Создай паровоз в Blender как настоящую разборную механическую модель, а не текстурированную оболочку. Раздели и назови оси, буксовые направляющие, буксы, связи, элементы подвески, паровой колпак и все основные узлы.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840) · [Исходная публикация](https://x.com/sheemamoto/status/2095868420327710840)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840) · [Исходная публикация](https://x.com/sheemamoto/status/2095868420327710840)
 
 ---
 
@@ -869,7 +869,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Tidal Rush: браузерные гонки на восемь участников](../assets/previews/19e2e109daf0820abba3.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023"><img src="../assets/previews/19e2e109daf0820abba3.webp" width="840" loading="lazy" alt="Tidal Rush: браузерные гонки на восемь участников"></a>
 
 </details>
 
@@ -879,7 +879,7 @@
 Создай полноценные браузерные картинговые гонки: восемь гонщиков, три круга, дрифт, подбираемые предметы, отзывчивая физика, понятный HUD, привлекательная графика и экран результатов после финиша.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023) · [Исходная публикация](https://x.com/amazing13_13/status/2095819786651374023)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023) · [Исходная публикация](https://x.com/amazing13_13/status/2095819786651374023)
 
 ---
 
@@ -894,7 +894,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Галактика WebGL в первом экране лендинга](../assets/previews/fe2d45919c2bec07fc5f.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631"><img src="../assets/previews/fe2d45919c2bec07fc5f.webp" width="840" loading="lazy" alt="Галактика WebGL в первом экране лендинга"></a>
 
 </details>
 
@@ -904,7 +904,7 @@
 Разбери визуальный язык предоставленного первого экрана с галактикой и воссоздай его в WebGL в реальном времени, без видео. Используй частицы с ощущением глубины, светящуюся пыль, плавную реакцию на указатель, свободное пространство для текста и адаптивную производительность.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631) · [Исходная публикация](https://x.com/Fluxora_Studios/status/2095805694603673631)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631) · [Исходная публикация](https://x.com/Fluxora_Studios/status/2095805694603673631)
 
 ---
 
@@ -919,7 +919,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Аркада с культурной темой, играющая сама](../assets/previews/e8816591f99630e061fd.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791"><img src="../assets/previews/e8816591f99630e061fd.webp" width="840" loading="lazy" alt="Аркада с культурной темой, играющая сама"></a>
 
 </details>
 
@@ -929,7 +929,7 @@
 Создай автоматически играющую аркаду для одной из стран G7. Преврати узнаваемую культурную достопримечательность в основную механику, сделай происходящее понятным без управления, добавь очки, нарастающую сложность и запоминающееся раскрытие замысла.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791) · [Исходная публикация](https://x.com/say_gm_/status/2095898198413922791)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791) · [Исходная публикация](https://x.com/say_gm_/status/2095898198413922791)
 
 ---
 
@@ -944,7 +944,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Качественный интерактивный прототип за один запрос](../assets/previews/33f3f93183ced23b1e8c.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065"><img src="../assets/previews/33f3f93183ced23b1e8c.webp" width="840" loading="lazy" alt="Качественный интерактивный прототип за один запрос"></a>
 
 </details>
 
@@ -954,7 +954,7 @@
 Спроектируй и реализуй за один проход качественный интерактивный прототип по предоставленной концепции продукта. Выбери выразительную визуальную систему, выдели основное действие, добавь отточенные переходы и подготовь размещённую в интернете адаптивную сборку.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065) · [Исходная публикация](https://x.com/AY_Orbach/status/2095597560253862065)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065) · [Исходная публикация](https://x.com/AY_Orbach/status/2095597560253862065)
 
 ---
 
@@ -969,7 +969,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Интерактивная 3D-модель турбокомпрессора с разборкой](../assets/previews/906d471ad638279a8457.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725"><img src="../assets/previews/906d471ad638279a8457.webp" width="840" loading="lazy" alt="Интерактивная 3D-модель турбокомпрессора с разборкой"></a>
 
 </details>
 
@@ -979,7 +979,7 @@
 Создай интерактивный 3D-турбокомпрессор. Раздели все рабочие системы. Дай мне вращать его, рассматривать детали отдельно и видеть, что именно делает механизм.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725) · [Исходная публикация](https://x.com/Feraser8/status/2095776712579571725)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725) · [Исходная публикация](https://x.com/Feraser8/status/2095776712579571725)
 
 ---
 
@@ -994,7 +994,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Неожиданная игра на Three.js за один запрос](../assets/previews/01a4fe457300f75b9f45.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198"><img src="../assets/previews/01a4fe457300f75b9f45.webp" width="840" loading="lazy" alt="Неожиданная игра на Three.js за один запрос"></a>
 
 </details>
 
@@ -1004,7 +1004,7 @@
 Создай за один запрос оригинальную игру на Three.js, достойную названия «Amaze». Выбери одну удивляющую визуальную механику, объясни её за несколько секунд, выстрой короткое развитие и заверши игру эффектным зрелищем.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198) · [Исходная публикация](https://x.com/pratt_builds/status/2095663498101662198)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198) · [Исходная публикация](https://x.com/pratt_builds/status/2095663498101662198)
 
 ---
 
@@ -1019,7 +1019,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Быстрый игровой прототип](../assets/previews/8aa9a7706316dc84c6df.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/rapid-playable-game-prototype-2095907526566990013"><img src="../assets/previews/8aa9a7706316dc84c6df.webp" width="840" loading="lazy" alt="Быстрый игровой прототип"></a>
 
 </details>
 
@@ -1029,7 +1029,7 @@
 Создай визуально целостный игровой прототип при строгом ограничении времени и токенов. Отдай приоритет одному законченному игровому циклу, отзывчивому управлению, понятной обратной связи, стабильной производительности и готовой браузерной сборке, а не количеству функций.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/rapid-playable-game-prototype-2095907526566990013) · [Исходная публикация](https://x.com/gibglue/status/2095907526566990013)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/rapid-playable-game-prototype-2095907526566990013) · [Исходная публикация](https://x.com/gibglue/status/2095907526566990013)
 
 ---
 
@@ -1044,7 +1044,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Из промпта в игру с открытым миром](../assets/previews/81360ee1cb1d7aaa7aef.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/open-world-game-from-a-prompt-2095872986477908108"><img src="../assets/previews/81360ee1cb1d7aaa7aef.webp" width="840" loading="lazy" alt="Из промпта в игру с открытым миром"></a>
 
 </details>
 
@@ -1054,7 +1054,7 @@
 Создай игру с открытым миром по концепции: [замысел мира]. Добавь три разных региона, перемещение, динамические встречи, простую цепочку заданий, ориентиры, сохранение и перезапуск, а также оптимизацию для работы в браузере.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/open-world-game-from-a-prompt-2095872986477908108) · [Исходная публикация](https://x.com/aeejazkhan/status/2095872986477908108)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/open-world-game-from-a-prompt-2095872986477908108) · [Исходная публикация](https://x.com/aeejazkhan/status/2095872986477908108)
 
 ---
 
@@ -1069,7 +1069,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Главная страница с интерактивной галактикой Three.js](../assets/previews/0838004dbcf9c31ee5d0.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457"><img src="../assets/previews/0838004dbcf9c31ee5d0.webp" width="840" loading="lazy" alt="Главная страница с интерактивной галактикой Three.js"></a>
 
 </details>
 
@@ -1079,7 +1079,7 @@
 Создай качественный первый экран страницы запуска продукта с галактикой на Three.js в реальном времени. Пусть частицы образуют ненавязчивый силуэт цифры шесть и реагируют на прокрутку и указатель. Сохрани читаемость текста и плавно упрощай эффекты на слабых устройствах.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457) · [Исходная публикация](https://x.com/threejsresource/status/2095806515579879457)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457) · [Исходная публикация](https://x.com/threejsresource/status/2095806515579879457)
 
 ---
 
@@ -1094,7 +1094,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Зацикленная киберпанк-спальня в Blender](../assets/previews/e2345fe72cbaa70b18e7.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230"><img src="../assets/previews/e2345fe72cbaa70b18e7.webp" width="840" loading="lazy" alt="Зацикленная киберпанк-спальня в Blender"></a>
 
 </details>
 
@@ -1104,7 +1104,7 @@
 Создай кинематографичную киберпанк-спальню в Blender с видом на ночной неоновый город под дождём. Добавь анимированные рекламные экраны, добейся фотореализма и бесшовного зацикливания.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [Исходная публикация](https://x.com/CoinSh0t/status/2095898303019856230)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [Исходная публикация](https://x.com/CoinSh0t/status/2095898303019856230)
 
 ---
 
@@ -1119,7 +1119,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Город Ван Гога на Three.js](../assets/previews/2d8a09166b72394c4292.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/van-gogh-town-in-three-js-2095871735824339279"><img src="../assets/previews/2d8a09166b72394c4292.webp" width="840" loading="lazy" alt="Город Ван Гога на Three.js"></a>
 
 </details>
 
@@ -1129,7 +1129,7 @@
 Создай город для прогулок на Three.js, вдохновлённый Ван Гогом. Преврати нарисованные улицы, звёзды, кафе и поля в многослойные 3D-пространства, сохранив живые мазки с помощью шейдеров, текстур и анимированного света.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/van-gogh-town-in-three-js-2095871735824339279) · [Исходная публикация](https://x.com/RealFedeURU/status/2095871735824339279)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/van-gogh-town-in-three-js-2095871735824339279) · [Исходная публикация](https://x.com/RealFedeURU/status/2095871735824339279)
 
 ---
 
@@ -1144,7 +1144,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Прогулка по улицам «Звёздной ночи»](../assets/previews/3bb18f1641ee2093e980.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372"><img src="../assets/previews/3bb18f1641ee2093e980.webp" width="840" loading="lazy" alt="Прогулка по улицам «Звёздной ночи»"></a>
 
 </details>
 
@@ -1154,7 +1154,7 @@
 Объедини шесть картин Ван Гога в доступный для исследования город, где можно гулять по улицам «Звёздной ночи». Продумай естественные переходы между картинами, выдержи единый масштаб и добавь мягкие фоновые взаимодействия.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372) · [Исходная публикация](https://x.com/BigRyan/status/2095805115580199372)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372) · [Исходная публикация](https://x.com/BigRyan/status/2095805115580199372)
 
 ---
 
@@ -1169,7 +1169,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Игрушечная железная дорога с управляемыми поездами](../assets/previews/93c7b29090d7ae96b607.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/driveable-childhood-train-table-2095742344293454148"><img src="../assets/previews/93c7b29090d7ae96b607.webp" width="840" loading="lazy" alt="Игрушечная железная дорога с управляемыми поездами"></a>
 
 </details>
 
@@ -1179,7 +1179,7 @@
 Воссоздай детский железнодорожный макет как тактильную игрушку на Three.js с воксельными рельсами и подвижным составом. Дай игроку водить поезда, переводить стрелки, вращать камеру вокруг стола и находить анимированные миниатюрные сценки.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [Исходная публикация](https://x.com/BigRyan/status/2095742344293454148)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [Исходная публикация](https://x.com/BigRyan/status/2095742344293454148)
 
 ---
 
@@ -1194,7 +1194,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Из описания в город для исследования в Unity](../assets/previews/35299b2ab45e0614dcc7.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/text-to-explorable-unity-city-2095623452678144366"><img src="../assets/previews/35299b2ab45e0614dcc7.webp" width="840" loading="lazy" alt="Из описания в город для исследования в Unity"></a>
 
 </details>
 
@@ -1204,7 +1204,7 @@
 Преврати предоставленное описание города в окружение Unity с высотками, дорогами, автомобилями, пальмами и атмосферным светом. Обеспечь правдоподобный масштаб, навигацию, движение транспорта и плавную камеру от первого лица.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/text-to-explorable-unity-city-2095623452678144366) · [Исходная публикация](https://x.com/0x0SojalSec/status/2095623452678144366)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/text-to-explorable-unity-city-2095623452678144366) · [Исходная публикация](https://x.com/0x0SojalSec/status/2095623452678144366)
 
 ---
 
@@ -1219,7 +1219,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Тест моделей: аквариум по одному промпту](../assets/previews/c522341161fd8999972e.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/single-aquarium-benchmark-2095650251902239139"><img src="../assets/previews/c522341161fd8999972e.webp" width="840" loading="lazy" alt="Тест моделей: аквариум по одному промпту"></a>
 
 </details>
 
@@ -1229,7 +1229,7 @@
 Создай по предоставленному референсу 3D-игру-аквариум одним промптом. Передай композицию и настроение, добавь живое поведение рыб, водную каустику, орбитальное управление и небольшой цикл взаимодействий для сравнения результатов моделей.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/single-aquarium-benchmark-2095650251902239139) · [Исходная публикация](https://x.com/iamtonyzhu/status/2095650251902239139)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/single-aquarium-benchmark-2095650251902239139) · [Исходная публикация](https://x.com/iamtonyzhu/status/2095650251902239139)
 
 ---
 
@@ -1244,7 +1244,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Из плана этажа в полноценную 3D-прогулку](../assets/previews/a9453628a11a2eca58a3.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661"><img src="../assets/previews/a9453628a11a2eca58a3.webp" width="840" loading="lazy" alt="Из плана этажа в полноценную 3D-прогулку"></a>
 
 </details>
 
@@ -1254,7 +1254,7 @@
 Преврати предоставленный план этажа в полноценную архитектурную 3D-прогулку. Соблюдай размеры комнат и связи между ними, добавь двери, окна, мебель, материалы и освещение, затем проложи маршрут камеры, раскрывающий планировку.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [Исходная публикация](https://x.com/aidarosgo3/status/2095725404883476661)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [Исходная публикация](https://x.com/aidarosgo3/status/2095725404883476661)
 
 ---
 
@@ -1269,7 +1269,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Реальный дом в редактируемой сцене Blender при 60 FPS](../assets/previews/ca2c8c153392a345f4e8.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541"><img src="../assets/previews/ca2c8c153392a345f4e8.webp" width="840" loading="lazy" alt="Реальный дом в редактируемой сцене Blender при 60 FPS"></a>
 
 </details>
 
@@ -1279,7 +1279,7 @@
 Воссоздай предоставленный реальный дом как полностью редактируемую сцену Blender. Раздели архитектуру и обстановку на отдельные объекты, оптимизируй геометрию и материалы и подготовь локальную прогулку со стабильными 60 FPS.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [Исходная публикация](https://x.com/alvinfoo/status/2095777502681825541)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [Исходная публикация](https://x.com/alvinfoo/status/2095777502681825541)
 
 ---
 
@@ -1294,7 +1294,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Street Heat: браузерные дрифт-гонки](../assets/previews/911fb2b70e5d4c824524.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"><img src="../assets/previews/911fb2b70e5d4c824524.webp" width="840" loading="lazy" alt="Street Heat: браузерные дрифт-гонки"></a>
 
 </details>
 
@@ -1304,7 +1304,7 @@
 Создай полноценные аркадные уличные гонки в браузере по одному предложению. Реализуй приятную физику дрифта, очки за комбо, бонусы за опасные сближения, камеры скорости, нитро, транспорт, понятный HUD и короткую трассу для повторных заездов.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [Исходная публикация](https://x.com/higgsfield_ai/status/2095916820431827408)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [Исходная публикация](https://x.com/higgsfield_ai/status/2095916820431827408)
 
 ---
 
@@ -1319,7 +1319,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![3D-превиз съёмки в музее](../assets/previews/395c33eedc4e4b959135.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593"><img src="../assets/previews/395c33eedc4e4b959135.webp" width="840" loading="lazy" alt="3D-превиз съёмки в музее"></a>
 
 </details>
 
@@ -1329,7 +1329,7 @@
 Создай 3D-превиз музея с планом пространства, позициями актёров, постановкой камер и списком кадров. Все постановки должны оставаться внутри физической сцены. Экспортируй согласованные инструкции для последующей генерации видео.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593) · [Исходная публикация](https://x.com/higgsfield_ai/status/2095616529572503593)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593) · [Исходная публикация](https://x.com/higgsfield_ai/status/2095616529572503593)
 
 ---
 
@@ -1344,7 +1344,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Интерактивная 15-секундная реклама продукта](../assets/previews/d10512aa45750b6fcfc3.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/playable-15-second-product-demo-ad-2095695603808309497"><img src="../assets/previews/d10512aa45750b6fcfc3.webp" width="840" loading="lazy" alt="Интерактивная 15-секундная реклама продукта"></a>
 
 </details>
 
@@ -1354,7 +1354,7 @@
 Создай интерактивную 15-секундную демонстрацию [продукта] прежде всего для мобильных устройств. Дай пользователю попробовать основную функцию одним жестом, сразу покажи 3D-отклик и заверши понятным призывом «Получить полный доступ». Используй вертикальный формат 9:16 и фирменные цвета.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/playable-15-second-product-demo-ad-2095695603808309497) · [Исходная публикация](https://x.com/zackpaid/status/2095695603808309497)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/playable-15-second-product-demo-ad-2095695603808309497) · [Исходная публикация](https://x.com/zackpaid/status/2095695603808309497)
 
 ---
 
@@ -1369,7 +1369,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Архвиз: от чертежа через Blender к Unreal](../assets/previews/8fef1df6618607f0028f.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551"><img src="../assets/previews/8fef1df6618607f0028f.webp" width="840" loading="lazy" alt="Архвиз: от чертежа через Blender к Unreal"></a>
 
 </details>
 
@@ -1379,7 +1379,7 @@
 Возьми предоставленный архитектурный чертёж, создай точную редактируемую модель в Blender, затем перенеси её в Unreal Engine как освещённую архитектурную сцену для прогулок с правильным масштабом и коллизиями.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551) · [Исходная публикация](https://x.com/LinusEkenstam/status/2095624712244072551)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551) · [Исходная публикация](https://x.com/LinusEkenstam/status/2095624712244072551)
 
 ---
 
@@ -1394,7 +1394,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Лесная вилла Solace: от задания до UE5](../assets/previews/8fef1df6618607f0028f.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375"><img src="../assets/previews/8fef1df6618607f0028f.webp" width="840" loading="lazy" alt="Лесная вилла Solace: от задания до UE5"></a>
 
 </details>
 
@@ -1404,7 +1404,7 @@
 Создай современную лесную виллу Solace для прогулок: три спальни, кабинет, центральный двор, бассейн и окружающий лес. Построй её процедурно в Blender, отрендери кадры в золотой час и экспортируй прогулку в UE5 со скоростью 60 FPS.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [Исходная публикация](https://x.com/NFT_Chen/status/2095752726886105375)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [Исходная публикация](https://x.com/NFT_Chen/status/2095752726886105375)
 
 ---
 
@@ -1419,7 +1419,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Blender-сцена за тридцать секунд](../assets/previews/1b7302e35b4c879de4aa.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771"><img src="../assets/previews/1b7302e35b4c879de4aa.webp" width="840" loading="lazy" alt="Blender-сцена за тридцать секунд"></a>
 
 </details>
 
@@ -1429,7 +1429,7 @@
 Создай целостную сцену Blender за предельно короткое время. Сосредоточься на выразительном силуэте, трёх планах глубины, одном основном материале, кинематографичном свете и готовой к съёмке композиции. Оставь все объекты редактируемыми.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [Исходная публикация](https://x.com/_satyam_ai/status/2095844872171421771)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [Исходная публикация](https://x.com/_satyam_ai/status/2095844872171421771)
 
 ---
 
@@ -1444,7 +1444,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Машина Руба Голдберга с цепной реакцией](../assets/previews/368d9d79144335c0bffc.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629"><img src="../assets/previews/368d9d79144335c0bffc.webp" width="840" loading="lazy" alt="Машина Руба Голдберга с цепной реакцией"></a>
 
 </details>
 
@@ -1454,7 +1454,7 @@
 Создай машину Руба Голдберга в самостоятельном HTML-файле на Three.js. Построй последовательность механических взаимодействий, которая в конце нажимает кнопку и вызывает театральный взрыв.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629) · [Исходная публикация](https://x.com/thehypedotnews/status/2095980885732704629)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629) · [Исходная публикация](https://x.com/thehypedotnews/status/2095980885732704629)
 
 ---
 
@@ -1469,7 +1469,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Тадж-Махал для исследования](../assets/previews/afd70948169390c74fbe.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/explorable-taj-mahal-2096035962824335798"><img src="../assets/previews/afd70948169390c74fbe.webp" width="840" loading="lazy" alt="Тадж-Махал для исследования"></a>
 
 </details>
 
@@ -1479,7 +1479,7 @@
 Воссоздай Тадж-Махал как доступную для исследования 3D-сцену. Удели особое внимание узнаваемым пропорциям, симметричным садам, центральному куполу, минаретам и взаимному расположению зданий.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/explorable-taj-mahal-2096035962824335798) · [Исходная публикация](https://x.com/vikassabbi/status/2096035962824335798)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/explorable-taj-mahal-2096035962824335798) · [Исходная публикация](https://x.com/vikassabbi/status/2096035962824335798)
 
 ---
 
@@ -1494,7 +1494,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Симулятор орбитального сближения](../assets/previews/42e7d7821256b5c0e0d6.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/orbital-rendezvous-simulator-2096225621303042258"><img src="../assets/previews/42e7d7821256b5c0e0d6.webp" width="840" loading="lazy" alt="Симулятор орбитального сближения"></a>
 
 </details>
 
@@ -1504,7 +1504,7 @@
 Создай симуляцию орбитального сближения в реальном времени с расчётом движения двух тел в системе ECI и наведением HCW. Добавь ориентацию с шестью степенями свободы, расход топлива, ограничения сил и цель стыковки.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/orbital-rendezvous-simulator-2096225621303042258) · [Исходная публикация](https://x.com/AlicanKiraz0/status/2096225621303042258)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/orbital-rendezvous-simulator-2096225621303042258) · [Исходная публикация](https://x.com/AlicanKiraz0/status/2096225621303042258)
 
 ---
 
@@ -1519,7 +1519,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Сборка буксира по референсам](../assets/previews/c2a965c19b4319993a70.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/reference-image-tugboat-assembly-2096180220839760375"><img src="../assets/previews/c2a965c19b4319993a70.webp" width="840" loading="lazy" alt="Сборка буксира по референсам"></a>
 
 </details>
 
@@ -1529,7 +1529,7 @@
 Воссоздай буксир в Blender по референсным изображениям. Смоделируй корпус, наклонную рубку, палубную арматуру и буксировочное оборудование, согласовав противоречивые ракурсы в одно целостное судно.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/reference-image-tugboat-assembly-2096180220839760375) · [Исходная публикация](https://x.com/NarvisAlex/status/2096180220839760375)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/reference-image-tugboat-assembly-2096180220839760375) · [Исходная публикация](https://x.com/NarvisAlex/status/2096180220839760375)
 
 ---
 
@@ -1544,7 +1544,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Воссоздание дрели по одному ракурсу](../assets/previews/eab0ddb7ed59c8047050.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794"><img src="../assets/previews/eab0ddb7ed59c8047050.webp" width="840" loading="lazy" alt="Воссоздание дрели по одному ракурсу"></a>
 
 </details>
 
@@ -1554,7 +1554,7 @@
 Воссоздай электрическую дрель в Blender по одному референсному ракурсу. Создай корпус, рукоятку, патрон и органы управления как редактируемую геометрию, затем осмотри результат с разных сторон.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794) · [Исходная публикация](https://x.com/SkyeSharkie/status/2096059736693305794)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794) · [Исходная публикация](https://x.com/SkyeSharkie/status/2096059736693305794)
 
 ---
 
@@ -1569,7 +1569,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![3D-игра с птицами и рогаткой](../assets/previews/b9fc3db28e9b9b586476.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/3d-slingshot-bird-game-2095981655370666076"><img src="../assets/previews/b9fc3db28e9b9b586476.webp" width="840" loading="lazy" alt="3D-игра с птицами и рогаткой"></a>
 
 </details>
 
@@ -1579,7 +1579,7 @@
 Создай 3D-игру с рогаткой, четырьмя птицами и разными особыми способностями. Добавь прицеливание и запуск, разрушаемые конструкции и систему очков, побуждающую переигрывать.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/3d-slingshot-bird-game-2095981655370666076) · [Исходная публикация](https://x.com/MozeTech/status/2095981655370666076)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/3d-slingshot-bird-game-2095981655370666076) · [Исходная публикация](https://x.com/MozeTech/status/2095981655370666076)
 
 ---
 
@@ -1594,7 +1594,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Шутер от третьего лица с замедлением времени](../assets/previews/c0c429e42811528f60da.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/bullet-time-third-person-shooter-2095962376344309843"><img src="../assets/previews/c0c429e42811528f60da.webp" width="840" loading="lazy" alt="Шутер от третьего лица с замедлением времени"></a>
 
 </details>
 
@@ -1604,7 +1604,7 @@
 Создай шутер от третьего лица на Three.js в духе Max Payne. Сосредоточься на замедленном экшене, отзывчивой стрельбе и игровой сцене с удобной следящей камерой.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/bullet-time-third-person-shooter-2095962376344309843) · [Исходная публикация](https://x.com/HangoutWHAndrei/status/2095962376344309843)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/bullet-time-third-person-shooter-2095962376344309843) · [Исходная публикация](https://x.com/HangoutWHAndrei/status/2095962376344309843)
 
 ---
 
@@ -1619,7 +1619,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Пружинящее желе на WebGPU](../assets/previews/cf4454a16a06ed243c20.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/bouncy-webgpu-jelly-2096008241104711698"><img src="../assets/previews/cf4454a16a06ed243c20.webp" width="840" loading="lazy" alt="Пружинящее желе на WebGPU"></a>
 
 </details>
 
@@ -1629,7 +1629,7 @@
 Создай аппетитное пружинящее желе с помощью Three.js и WebGPU. Пусть оно естественно деформируется после взаимодействия и постепенно успокаивается. Используй полупрозрачный материал и наглядное освещение.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/bouncy-webgpu-jelly-2096008241104711698) · [Исходная публикация](https://x.com/scottstts/status/2096008241104711698)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/bouncy-webgpu-jelly-2096008241104711698) · [Исходная публикация](https://x.com/scottstts/status/2096008241104711698)
 
 ---
 
@@ -1644,7 +1644,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Интерактивный контроллер PS5](../assets/previews/c17fee4a534e826e0ab3.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/interactive-ps5-controller-2095967131573649552"><img src="../assets/previews/c17fee4a534e826e0ab3.webp" width="840" loading="lazy" alt="Интерактивный контроллер PS5"></a>
 
 </details>
 
@@ -1654,7 +1654,7 @@
 Создай модель контроллера PlayStation 5 на Three.js для подробного осмотра: узнаваемый силуэт, кнопки, триггеры, аналоговые стики и разные материалы поверхностей.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-ps5-controller-2095967131573649552) · [Исходная публикация](https://x.com/blueemi99/status/2095967131573649552)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-ps5-controller-2095967131573649552) · [Исходная публикация](https://x.com/blueemi99/status/2095967131573649552)
 
 ---
 
@@ -1669,7 +1669,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Astral War — браузерный шутер](../assets/previews/10cc70e94dc0a8e6605b.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/astral-war-browser-shooter-2096079660605997264"><img src="../assets/previews/10cc70e94dc0a8e6605b.webp" width="840" loading="lazy" alt="Astral War — браузерный шутер"></a>
 
 </details>
 
@@ -1679,7 +1679,7 @@
 Создай браузерный шутер на Three.js в духе World at War. Подготовь полноценное игровое поле боя с отзывчивыми сражениями, пространственным звуком, ассетами персонажей и полным ходом матча.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/astral-war-browser-shooter-2096079660605997264) · [Исходная публикация](https://x.com/0xRishi/status/2096079660605997264)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/astral-war-browser-shooter-2096079660605997264) · [Исходная публикация](https://x.com/0xRishi/status/2096079660605997264)
 
 ---
 
@@ -1694,7 +1694,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Из PDF-схемы в печатную плату и 3D-сборку](../assets/previews/1bfc13d5447aa0038e27.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502"><img src="../assets/previews/1bfc13d5447aa0038e27.webp" width="840" loading="lazy" alt="Из PDF-схемы в печатную плату и 3D-сборку"></a>
 
 </details>
 
@@ -1704,7 +1704,7 @@
 Используй PDF со схемой, чтобы доработать цепь в KiCad, развести двухслойную плату 50 × 20 мм и отрендерить её 3D-сборку. Изучи документацию компонентов и устрани нарушения правил проектирования.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Исходная публикация](https://x.com/swjtutl/status/2096079976433082502)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Исходная публикация](https://x.com/swjtutl/status/2096079976433082502)
 
 ---
 
@@ -1719,7 +1719,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Браузерная игра о полётах](../assets/previews/094260e4ea7a88a23850.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/browser-flight-game-2096149823216898445"><img src="../assets/previews/094260e4ea7a88a23850.webp" width="840" loading="lazy" alt="Браузерная игра о полётах"></a>
 
 </details>
 
@@ -1729,7 +1729,7 @@
 Создай полноценную браузерную 3D-игру о полётах с нуля. Реализуй управляемый полёт, доступное для навигации окружение, понятную цель и целостное оформление.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/browser-flight-game-2096149823216898445) · [Исходная публикация](https://x.com/givros/status/2096149823216898445)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/browser-flight-game-2096149823216898445) · [Исходная публикация](https://x.com/givros/status/2096149823216898445)
 
 ---
 
@@ -1744,7 +1744,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Интерактивная панель с глобусом](../assets/previews/ce8131795b341edda606.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/interactive-globe-dashboard-2096082432197837065"><img src="../assets/previews/ce8131795b341edda606.webp" width="840" loading="lazy" alt="Интерактивная панель с глобусом"></a>
 
 </details>
 
@@ -1754,7 +1754,7 @@
 Воссоздай по референсу панель с 3D-глобусом на Three.js. Добавь дневной и ночной режимы, читаемые географические данные и рабочие элементы управления, соответствующие референсу.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-globe-dashboard-2096082432197837065) · [Исходная публикация](https://x.com/hqmank/status/2096082432197837065)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-globe-dashboard-2096082432197837065) · [Исходная публикация](https://x.com/hqmank/status/2096082432197837065)
 
 ---
 
@@ -1769,7 +1769,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Башня Азади в Blender](../assets/previews/dccea8a39052877e2e5c.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/azadi-tower-in-blender-2096107322536051057"><img src="../assets/previews/dccea8a39052877e2e5c.webp" width="840" loading="lazy" alt="Башня Азади в Blender"></a>
 
 </details>
 
@@ -1779,7 +1779,7 @@
 Создай редактируемую модель башни Азади в Blender, уделив внимание расширенному основанию, пересекающейся арке, узорчатым поверхностям и узнаваемым пропорциям.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/azadi-tower-in-blender-2096107322536051057) · [Исходная публикация](https://x.com/taesiri/status/2096107322536051057)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/azadi-tower-in-blender-2096107322536051057) · [Исходная публикация](https://x.com/taesiri/status/2096107322536051057)
 
 ---
 
@@ -1794,7 +1794,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![3D-сайт студии с анимацией при прокрутке](../assets/previews/a315174ac48f5392bb9a.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132"><img src="../assets/previews/a315174ac48f5392bb9a.webp" width="840" loading="lazy" alt="3D-сайт студии с анимацией при прокрутке"></a>
 
 </details>
 
@@ -1804,7 +1804,7 @@
 Преврати предоставленное изображение в сцену Three.js внутри сайта студии с плавной анимацией при прокрутке. Согласуй движение камеры, типографику и переходы между разделами.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [Исходная публикация](https://x.com/mx_debbiee/status/2096245759121277132)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [Исходная публикация](https://x.com/mx_debbiee/status/2096245759121277132)
 
 ---
 
@@ -1819,7 +1819,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Komorebi — сплав на каяке](../assets/previews/177462bb87e3089acbf2.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/komorebi-river-kayaking-2096244208533455049"><img src="../assets/previews/177462bb87e3089acbf2.webp" width="840" loading="lazy" alt="Komorebi — сплав на каяке"></a>
 
 </details>
 
@@ -1829,7 +1829,7 @@
 Создай 3D-игру о сплаве на каяке с эстетикой аниме. Дай игроку грести влево и вправо, обходя препятствия. Текущую воду, пейзажи, музыку и звуковые эффекты создай кодом.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [Исходная публикация](https://x.com/ItsmeAjayKV/status/2096244208533455049)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [Исходная публикация](https://x.com/ItsmeAjayKV/status/2096244208533455049)
 
 ---
 
@@ -1844,7 +1844,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![История продукта с преломляющей свет бутылкой](../assets/previews/0752e3417e975ec333d5.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/refractive-bottle-product-story-2096243989439713677"><img src="../assets/previews/0752e3417e975ec333d5.webp" width="840" loading="lazy" alt="История продукта с преломляющей свет бутылкой"></a>
 
 </details>
 
@@ -1854,7 +1854,7 @@
 Создай интерактивный продуктовый сайт вокруг фотореалистичной стеклянной бутылки WebGL. Используй жидкость с преломлением, вращение при прокрутке и выразительную типографику, сохранив производительность браузера.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [Исходная публикация](https://x.com/himanshubuildss/status/2096243989439713677)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [Исходная публикация](https://x.com/himanshubuildss/status/2096243989439713677)
 
 ---
 
@@ -1869,7 +1869,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Процедурные поезда с разборкой на узлы](../assets/previews/1bd8465e8c05d9d38315.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041"><img src="../assets/previews/1bd8465e8c05d9d38315.webp" width="840" loading="lazy" alt="Процедурные поезда с разборкой на узлы"></a>
 
 </details>
 
@@ -1879,7 +1879,7 @@
 Сгенерируй два поезда непосредственно на Three.js по размерам, профилям и геометрическим функциям. Анимируй колёса и добавь последовательность разнесения деталей и обратной сборки.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041) · [Исходная публикация](https://x.com/tomkrcha/status/2096082580554777041)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041) · [Исходная публикация](https://x.com/tomkrcha/status/2096082580554777041)
 
 ---
 
@@ -1894,7 +1894,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Игровой мир малыша](../assets/previews/965f7261ca51d323b38a.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/a-playful-toddler-toy-world-2096201415051911597"><img src="../assets/previews/965f7261ca51d323b38a.webp" width="840" loading="lazy" alt="Игровой мир малыша"></a>
 
 </details>
 
@@ -1904,7 +1904,7 @@
 Создай уютную игровую комнату на Three.js, где малыш переходит между игрушками и играет с каждой по-своему. Добавь игровой коврик, книги, полки и конструкции для лазания, а также вращение и приближение камеры.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/a-playful-toddler-toy-world-2096201415051911597) · [Исходная публикация](https://x.com/aehyok/status/2096201415051911597)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/a-playful-toddler-toy-world-2096201415051911597) · [Исходная публикация](https://x.com/aehyok/status/2096201415051911597)
 
 ---
 
@@ -1919,7 +1919,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Действующий завод реактивных самолётов](../assets/previews/88e94868f034bdf39f97.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/live-jet-manufacturing-plant-2096122429319852319"><img src="../assets/previews/88e94868f034bdf39f97.webp" width="840" loading="lazy" alt="Действующий завод реактивных самолётов"></a>
 
 </details>
 
@@ -1929,7 +1929,7 @@
 Изучи производство самолётов и создай работающую симуляцию авиазавода на Three.js. Смоделируй циклы оборудования, производственные посты, транспортировку и узкие места, затем проверь поток производства.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/live-jet-manufacturing-plant-2096122429319852319) · [Исходная публикация](https://x.com/konstantinsaifo/status/2096122429319852319)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/live-jet-manufacturing-plant-2096122429319852319) · [Исходная публикация](https://x.com/konstantinsaifo/status/2096122429319852319)
 
 ---
 
@@ -1944,7 +1944,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Битва кайдзю в городе](../assets/previews/8f55d646820e4f1f0b98.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/previews/8f55d646820e4f1f0b98.webp" width="840" loading="lazy" alt="Битва кайдзю в городе"></a>
 
 </details>
 
@@ -1954,7 +1954,7 @@
 Создай игру на Three.js в духе кайдзю с использованием сгенерированных моделей существ и звуковых эффектов. Сделай гигантские сражения понятными, а окружение — передающим размеры существ.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/kaiju-city-battle-2096251574918013135) · [Исходная публикация](https://x.com/majidmanzarpour/status/2096251574918013135)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/kaiju-city-battle-2096251574918013135) · [Исходная публикация](https://x.com/majidmanzarpour/status/2096251574918013135)
 
 ---
 
@@ -1969,7 +1969,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Буря внутри куба](../assets/previews/631562c3a38f51debed3.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648"><img src="../assets/previews/631562c3a38f51debed3.webp" width="840" loading="lazy" alt="Буря внутри куба"></a>
 
 </details>
 
@@ -1979,7 +1979,7 @@
 Сгенерируй бурю, заключённую в кубе, с управляемой погодой на Three.js.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648) · [Исходная публикация](https://x.com/zwb44/status/2096220264413409648)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648) · [Исходная публикация](https://x.com/zwb44/status/2096220264413409648)
 
 ---
 
@@ -1994,7 +1994,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Zork как трёхмерное приключение](../assets/previews/88fedcd618dd733a21f5.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620"><img src="../assets/previews/88fedcd618dd733a21f5.webp" width="840" loading="lazy" alt="Zork как трёхмерное приключение"></a>
 
 </details>
 
@@ -2004,7 +2004,7 @@
 Преврати классическое текстовое приключение Zork в трёхмерную приключенческую игру с экшеном. Сохрани сюжет и загадки, добавь боевые сцены и создай персонажей и окружение на Three.js.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620) · [Исходная публикация](https://x.com/emollick/status/2096047660662722620)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620) · [Исходная публикация](https://x.com/emollick/status/2096047660662722620)
 
 ---
 
@@ -2019,7 +2019,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Тираннозавр с ригом и анимацией](../assets/previews/6bf58344b93f183cd255.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/rigged-and-animated-t-rex-2096133339329536249"><img src="../assets/previews/6bf58344b93f183cd255.webp" width="840" loading="lazy" alt="Тираннозавр с ригом и анимацией"></a>
 
 </details>
 
@@ -2029,7 +2029,7 @@
 Возьми сгенерированную модель тираннозавра, создай риг и правдоподобные движения. Покажи персонажа на Three.js и проверь, что анимация корректно деформирует модель.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [Исходная публикация](https://x.com/majidmanzarpour/status/2096133339329536249)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [Исходная публикация](https://x.com/majidmanzarpour/status/2096133339329536249)
 
 ---
 
@@ -2044,7 +2044,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Морская жизнь в чашке кофе](../assets/previews/3990cf9279eb906cfc93.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198"><img src="../assets/previews/3990cf9279eb906cfc93.webp" width="840" loading="lazy" alt="Морская жизнь в чашке кофе"></a>
 
 </details>
 
@@ -2054,7 +2054,7 @@
 Создай миниатюрную морскую экосистему внутри чашки кофе на Three.js. Постановочной камерой покажи водных обитателей так, чтобы чашка и миниатюрный масштаб оставались понятными.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [Исходная публикация](https://x.com/PolaczekSagi/status/2096174858837074198)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [Исходная публикация](https://x.com/PolaczekSagi/status/2096174858837074198)
 
 ---
 
@@ -2069,7 +2069,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Интерактивная демонстрация Hyperloop](../assets/previews/6fe7e10c4907c28861e5.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/interactive-hyperloop-demo-2096250748099068377"><img src="../assets/previews/6fe7e10c4907c28861e5.webp" width="840" loading="lazy" alt="Интерактивная демонстрация Hyperloop"></a>
 
 </details>
 
@@ -2079,7 +2079,7 @@
 Создай интерактивную демонстрацию Hyperloop на Three.js, показывающую транспортную капсулу, трубную инфраструктуру и движение по системе.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [Исходная публикация](https://x.com/hbanay98/status/2096250748099068377)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [Исходная публикация](https://x.com/hbanay98/status/2096250748099068377)
 
 ---
 
@@ -2094,7 +2094,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Процедурный бюст Наполеона](../assets/previews/fda483263b1b7468f091.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/procedural-napoleon-bust-2096234355395903672"><img src="../assets/previews/fda483263b1b7468f091.webp" width="840" loading="lazy" alt="Процедурный бюст Наполеона"></a>
 
 </details>
 
@@ -2104,7 +2104,7 @@
 Создай кодом 3D-бюст Наполеона на Three.js. Работай поэтапно, осматривай модель с разных сторон и уточняй пропорции лица и детали одежды.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [Исходная публикация](https://x.com/leploutos/status/2096234355395903672)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [Исходная публикация](https://x.com/leploutos/status/2096234355395903672)
 
 ---
 
@@ -2119,7 +2119,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Зал железнодорожного вокзала](../assets/previews/ec572c18e5e02ac65512.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/railway-station-concourse-2096226711222546461"><img src="../assets/previews/ec572c18e5e02ac65512.webp" width="840" loading="lazy" alt="Зал железнодорожного вокзала"></a>
 
 </details>
 
@@ -2129,7 +2129,7 @@
 Создай вокзальный зал с выразительным архитектурным ритмом, правдоподобным масштабом и убедительными материалами. Подготовь 3D-сцену для осмотра с тщательно выстроенными видами вокзала.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/railway-station-concourse-2096226711222546461) · [Исходная публикация](https://x.com/0xWormhole404/status/2096226711222546461)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/railway-station-concourse-2096226711222546461) · [Исходная публикация](https://x.com/0xWormhole404/status/2096226711222546461)
 
 ---
 
@@ -2144,7 +2144,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Анимированная диорама для знакомства с продуктом](../assets/previews/42b972bdf19630b039a0.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/animated-onboarding-diorama-2096222790894661841"><img src="../assets/previews/42b972bdf19630b039a0.webp" width="840" loading="lazy" alt="Анимированная диорама для знакомства с продуктом"></a>
 
 </details>
 
@@ -2154,7 +2154,7 @@
 Создай небольшую обучающую диораму в Blender и оживи её в Three.js. Используй ясные центральные объекты и короткие анимации, чтобы объяснить первые действия пользователя.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/animated-onboarding-diorama-2096222790894661841) · [Исходная публикация](https://x.com/EmilHovv/status/2096222790894661841)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/animated-onboarding-diorama-2096222790894661841) · [Исходная публикация](https://x.com/EmilHovv/status/2096222790894661841)
 
 ---
 
@@ -2169,7 +2169,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![OX Vice Drive — гонки в открытом городе](../assets/previews/3b47ced29ac0872998ae.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897"><img src="../assets/previews/3b47ced29ac0872998ae.webp" width="840" loading="lazy" alt="OX Vice Drive — гонки в открытом городе"></a>
 
 </details>
 
@@ -2179,7 +2179,7 @@
 Создай браузерную игру о вождении в открытом городе с транспортом, дрифтом и гонками-доставками. Спроектируй прибрежный город, по которому приятно ездить и который поддерживает полноценный игровой цикл вождения.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897) · [Исходная публикация](https://x.com/qok_ai/status/2096206082712768897)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897) · [Исходная публикация](https://x.com/qok_ai/status/2096206082712768897)
 
 ---
 
@@ -2194,7 +2194,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Игровой ремейк рекламы мобильной игры](../assets/previews/4d8530d89c735d14003f.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842"><img src="../assets/previews/4d8530d89c735d14003f.webp" width="840" loading="lazy" alt="Игровой ремейк рекламы мобильной игры"></a>
 
 </details>
 
@@ -2204,7 +2204,7 @@
 Используй рекламу мобильной игры как референс для создания настоящей браузерной игры. Воссоздай основное взаимодействие и используй ассеты Blender, чтобы передать визуальную задумку.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842) · [Исходная публикация](https://x.com/buildingadlicio/status/2096111709496680842)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842) · [Исходная публикация](https://x.com/buildingadlicio/status/2096111709496680842)
 
 ---
 
@@ -2219,7 +2219,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Аниме-файтинг на арене Roblox](../assets/previews/da567da60113f6fde024.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412"><img src="../assets/previews/da567da60113f6fde024.webp" width="840" loading="lazy" alt="Аниме-файтинг на арене Roblox"></a>
 
 </details>
 
@@ -2229,7 +2229,7 @@
 Создай ареновый файтинг в Roblox в духе кроссоверных битв аниме-персонажей. Построй арену и персонажей с помощью Blender и доступных ассетов, затем реализуй полноценный боевой цикл.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412) · [Исходная публикация](https://x.com/WoahWurdz/status/2095999578419929412)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412) · [Исходная публикация](https://x.com/WoahWurdz/status/2095999578419929412)
 
 ---
 
@@ -2244,7 +2244,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Браузерная гоночная физика на C# и WASM](../assets/previews/da595232495fdcdcd646.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880"><img src="../assets/previews/da595232495fdcdcd646.webp" width="840" loading="lazy" alt="Браузерная гоночная физика на C# и WASM"></a>
 
 </details>
 
@@ -2254,7 +2254,7 @@
 Воссоздай гоночную физику в стиле Trackmania на C#, запусти её через WASM и отрисуй трассу в Three.js. Используй трековые меши с коллизиями и протестируй управляемость автомобиля.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Исходная публикация](https://x.com/achepta_tm/status/2096258619574513880)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Исходная публикация](https://x.com/achepta_tm/status/2096258619574513880)
 
 ---
 
@@ -2269,7 +2269,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Автоматический риг персонажа и движения кунг-фу](../assets/previews/b667cbe461565dc1ef4c.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503"><img src="../assets/previews/b667cbe461565dc1ef4c.webp" width="840" loading="lazy" alt="Автоматический риг персонажа и движения кунг-фу"></a>
 
 </details>
 
@@ -2279,7 +2279,7 @@
 Возьми предоставленного 3D-персонажа, создай риг и добавь ходьбу, бег и несколько движений кунг-фу. Проверь анимации на изломы суставов и неустойчивые позы.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [Исходная публикация](https://x.com/thebuggeddev/status/2096141728487178503)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [Исходная публикация](https://x.com/thebuggeddev/status/2096141728487178503)
 
 ---
 
@@ -2294,7 +2294,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Из рисунка в игрового персонажа](../assets/previews/bb636fabd44b05a7797b.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/artwork-to-a-playable-character-2096107343268257953"><img src="../assets/previews/bb636fabd44b05a7797b.webp" width="840" loading="lazy" alt="Из рисунка в игрового персонажа"></a>
 
 </details>
 
@@ -2304,7 +2304,7 @@
 Воссоздай рисунок персонажа Noctavia как игрового 3D-персонажа. Сохрани язык дизайна и создай полноценную модель для интерактивной презентации.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/artwork-to-a-playable-character-2096107343268257953) · [Исходная публикация](https://x.com/noctav1a/status/2096107343268257953)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/artwork-to-a-playable-character-2096107343268257953) · [Исходная публикация](https://x.com/noctav1a/status/2096107343268257953)
 
 ---
 
@@ -2319,7 +2319,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Личное 3D-портфолио с глобусом выступлений](../assets/previews/8ed97e5172601ffcf208.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"><img src="../assets/previews/8ed97e5172601ffcf208.webp" width="840" loading="lazy" alt="Личное 3D-портфолио с глобусом выступлений"></a>
 
 </details>
 
@@ -2329,7 +2329,7 @@
 Преврати портрет в персонажа Blender для WebGL-портфолио с журнальным оформлением. Добавь вращающийся глобус с местами публичных выступлений и интегрируй ассеты в сайт.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [Исходная публикация](https://x.com/HowDevelop/status/2096023793772998704)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [Исходная публикация](https://x.com/HowDevelop/status/2096023793772998704)
 
 ---
 
@@ -2344,7 +2344,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Вертикальный срез игры в духе Sonic на Godot](../assets/previews/4b1d7461ea62bbcb07bb.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086"><img src="../assets/previews/4b1d7461ea62bbcb07bb.webp" width="840" loading="lazy" alt="Вертикальный срез игры в духе Sonic на Godot"></a>
 
 </details>
 
@@ -2354,7 +2354,7 @@
 Создай качественный 3D-уровень в духе Sonic на Godot, используя локальные и процедурные ассеты. Сосредоточься на инерции, отзывчивом перемещении, кольцах, петлях, рельсах для скольжения и непрерывном тропическом побережье.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086) · [Исходная публикация](https://x.com/AiBattle_/status/2096056285896536086)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086) · [Исходная публикация](https://x.com/AiBattle_/status/2096056285896536086)
 
 ---
 
@@ -2369,7 +2369,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Викинг в Blender](../assets/previews/47571b98331669c487a6.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/viking-character-in-blender-2096140378777010278"><img src="../assets/previews/47571b98331669c487a6.webp" width="840" loading="lazy" alt="Викинг в Blender"></a>
 
 </details>
 
@@ -2379,7 +2379,7 @@
 Создай редактируемого 3D-викинга в Blender. Удели внимание узнаваемому костюму, строению лица, пропорциям тела и выразительной презентационной позе.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/viking-character-in-blender-2096140378777010278) · [Исходная публикация](https://x.com/fre4kspace/status/2096140378777010278)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/viking-character-in-blender-2096140378777010278) · [Исходная публикация](https://x.com/fre4kspace/status/2096140378777010278)
 
 ---
 
@@ -2394,7 +2394,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Dropzone — арена королевской битвы](../assets/previews/37245ebc377553686009.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/dropzone-battle-royale-arena-2096155883122413946"><img src="../assets/previews/37245ebc377553686009.webp" width="840" loading="lazy" alt="Dropzone — арена королевской битвы"></a>
 
 </details>
 
@@ -2404,7 +2404,7 @@
 Создай браузерную королевскую битву от третьего лица: сужающийся штормовой круг, девять ИИ-противников, импульсная винтовка, здоровье и перезарядка. Добавь устанавливаемые стены-укрытия и полный цикл выбывания.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [Исходная публикация](https://x.com/Motion_Viz/status/2096155883122413946)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [Исходная публикация](https://x.com/Motion_Viz/status/2096155883122413946)
 
 ---
 
@@ -2419,7 +2419,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Прогулка по саду музея Сучжоу](../assets/previews/5dd1b274746b07e46ff0.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449"><img src="../assets/previews/5dd1b274746b07e46ff0.webp" width="840" loading="lazy" alt="Прогулка по саду музея Сучжоу"></a>
 
 </details>
 
@@ -2429,7 +2429,7 @@
 Используй веб-страницу о музее Сучжоу как референс, чтобы воссоздать его сад в Blender. Подготовь непрерывную прогулку, сохранив связь современной архитектуры с традиционным китайским садовым искусством.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449) · [Исходная публикация](https://x.com/whosamberella/status/2096096998092841449)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449) · [Исходная публикация](https://x.com/whosamberella/status/2096096998092841449)
 
 ---
 
@@ -2444,7 +2444,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Интерактивная научная экспозиция Титана](../assets/previews/01903613570d42ab83a5.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/interactive-titan-science-exhibit-2095986941753712841"><img src="../assets/previews/01903613570d42ab83a5.webp" width="840" loading="lazy" alt="Интерактивная научная экспозиция Титана"></a>
 
 </details>
 
@@ -2454,7 +2454,7 @@
 Создай учебную 3D-симуляцию Титана, крупнейшего спутника Сатурна, с окружением для исследования и информационным слоем, объясняющим его особые физические характеристики.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-titan-science-exhibit-2095986941753712841) · [Исходная публикация](https://x.com/ArdaTugsat/status/2095986941753712841)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-titan-science-exhibit-2095986941753712841) · [Исходная публикация](https://x.com/ArdaTugsat/status/2095986941753712841)
 
 ---
 
@@ -2469,7 +2469,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Эволюционирующая экосистема WebGL](../assets/previews/417256d668a87f961903.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/evolving-webgl-ecosystem-2096040448477515874"><img src="../assets/previews/417256d668a87f961903.webp" width="840" loading="lazy" alt="Эволюционирующая экосистема WebGL"></a>
 
 </details>
 
@@ -2479,7 +2479,7 @@
 Создай эволюционирующую 3D-экосистему в одном HTML-файле на чистом WebGL и GLSL. Пусть мутации, естественный отбор, хищничество, расход энергии и объединение в многоклеточные формы взаимодействуют друг с другом.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/evolving-webgl-ecosystem-2096040448477515874) · [Исходная публикация](https://x.com/yume_arasaki/status/2096040448477515874)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/evolving-webgl-ecosystem-2096040448477515874) · [Исходная публикация](https://x.com/yume_arasaki/status/2096040448477515874)
 
 ---
 
@@ -2494,7 +2494,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Сеть доставки с закрывающимися мостами](../assets/previews/1f3a527d5461971e3394.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742"><img src="../assets/previews/1f3a527d5461971e3394.webp" width="840" loading="lazy" alt="Сеть доставки с закрывающимися мостами"></a>
 
 </details>
 
@@ -2504,7 +2504,7 @@
 Создай 3D-симуляцию доставки, где закрытие мостов меняет маршруты грузовиков. Определяй недоступные пункты назначения и возобновляй доставку, когда маршрут открывается.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742) · [Исходная публикация](https://x.com/AgentWorkflowLa/status/2096042360513904742)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742) · [Исходная публикация](https://x.com/AgentWorkflowLa/status/2096042360513904742)
 
 ---
 
@@ -2519,7 +2519,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Симулятор Sinclair ZX Spectrum](../assets/previews/8342e2a2ae6ab568fa2f.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605"><img src="../assets/previews/8342e2a2ae6ab568fa2f.webp" width="840" loading="lazy" alt="Симулятор Sinclair ZX Spectrum"></a>
 
 </details>
 
@@ -2529,7 +2529,7 @@
 Воссоздай Sinclair ZX Spectrum 48K как интерактивное настольное 3D-приложение. Добавь резиновую клавиатуру, кассетный магнитофон, стартовый экран, рабочую игру и интерфейс программирования на BASIC.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605) · [Исходная публикация](https://x.com/DeryaTR_/status/2096062355692048605)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605) · [Исходная публикация](https://x.com/DeryaTR_/status/2096062355692048605)
 
 ---
 
@@ -2544,7 +2544,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Из фотограмметрического скана в редактируемую гостиную](../assets/previews/d7643b0568a783c1fabd.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/photogrammetry-scan-to-editable-living-room-2096092080397246707"><img src="../assets/previews/d7643b0568a783c1fabd.webp" width="840" loading="lazy" alt="Из фотограмметрического скана в редактируемую гостиную"></a>
 
 </details>
 
@@ -2554,7 +2554,7 @@
 Воссоздай гостиную в Blender по фотограмметрическому скану. Смоделируй сцену с нуля, возьми текстуры из скана и используй процедурные шейдеры там, где это уместно.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/photogrammetry-scan-to-editable-living-room-2096092080397246707) · [Исходная публикация](https://x.com/bilawalsidhu/status/2096092080397246707)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/photogrammetry-scan-to-editable-living-room-2096092080397246707) · [Исходная публикация](https://x.com/bilawalsidhu/status/2096092080397246707)
 
 ---
 
@@ -2569,7 +2569,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Платформенное приключение в духе Odyssey](../assets/previews/f8e883bece1bb1220b1f.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152"><img src="../assets/previews/f8e883bece1bb1220b1f.webp" width="840" loading="lazy" alt="Платформенное приключение в духе Odyssey"></a>
 
 </details>
 
@@ -2579,7 +2579,7 @@
 Создай уровень на Three.js в духе Odyssey: восемь платформ, три собираемые луны, атаки возвращающейся шляпой, враги и контрольные точки. Добавь сенсорное управление и протестируй полное прохождение.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [Исходная публикация](https://x.com/AiHubMix/status/2096135808243876152)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [Исходная публикация](https://x.com/AiHubMix/status/2096135808243876152)
 
 ---
 
@@ -2594,7 +2594,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Интерактивная анатомия человека с разнесением структур](../assets/previews/73fbb8ce4494edce62d6.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186"><img src="../assets/previews/73fbb8ce4494edce62d6.webp" width="840" loading="lazy" alt="Интерактивная анатомия человека с разнесением структур"></a>
 
 </details>
 
@@ -2604,7 +2604,7 @@
 Создай 3D-сайт по анатомии, на котором тело человека разделяется на структуры для самостоятельного осмотра. Дай перемещаться по разобранному виду и организуй части в осмысленные системы.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186) · [Исходная публикация](https://x.com/ashebytes/status/2096221988763173186)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186) · [Исходная публикация](https://x.com/ashebytes/status/2096221988763173186)
 
 ---
 
@@ -2619,7 +2619,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Разборная модель Tesla Model X](../assets/previews/59bc5339c02dceeee7e0.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/tesla-model-x-exploded-view-2096009146248122416"><img src="../assets/previews/59bc5339c02dceeee7e0.webp" width="840" loading="lazy" alt="Разборная модель Tesla Model X"></a>
 
 </details>
 
@@ -2629,7 +2629,7 @@
 Создай 3D-сайт, разбирающий Tesla Model X на смоделированные компоненты. Дай посетителям осматривать узлы и интерактивно собирать автомобиль обратно.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/tesla-model-x-exploded-view-2096009146248122416) · [Исходная публикация](https://x.com/ashebytes/status/2096009146248122416)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/tesla-model-x-exploded-view-2096009146248122416) · [Исходная публикация](https://x.com/ashebytes/status/2096009146248122416)
 
 ---
 
@@ -2644,7 +2644,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Автомат с капсулами воспоминаний](../assets/previews/2623ee6ae5ad1e80ed6a.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/memory-capsule-machine-2096241295949975602"><img src="../assets/previews/2623ee6ae5ad1e80ed6a.webp" width="840" loading="lazy" alt="Автомат с капсулами воспоминаний"></a>
 
 </details>
 
@@ -2654,7 +2654,7 @@
 Создай 3D-автомат с капсулами воспоминаний. Поворот ручки должен выпускать воспоминание; смоделируй механизм в Blender и добавь падающим капсулам правдоподобное движение и звук.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/memory-capsule-machine-2096241295949975602) · [Исходная публикация](https://x.com/gloria_zwq/status/2096241295949975602)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/memory-capsule-machine-2096241295949975602) · [Исходная публикация](https://x.com/gloria_zwq/status/2096241295949975602)
 
 ---
 
@@ -2669,7 +2669,7 @@
 <details>
 <summary>Предпросмотр</summary>
 
-![Болид Формулы-1 в Blender](../assets/previews/7b1991638d1cf62afb53.webp)
+<a href="https://www.tripo3d.ai/ru/3d-prompts/formula-one-car-in-blender-2096125193580113957"><img src="../assets/previews/7b1991638d1cf62afb53.webp" width="840" loading="lazy" alt="Болид Формулы-1 в Blender"></a>
 
 </details>
 
@@ -2679,6 +2679,6 @@
 Создай 3D-модель Формулы-1 в Blender с помощью управления компьютером.
 ```
 
-[Tripo ↗](https://www.tripo3d.ai/ru/3d-prompts/formula-one-car-in-blender-2096125193580113957) · [Исходная публикация](https://x.com/Conor_D_Dart/status/2096125193580113957)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/formula-one-car-in-blender-2096125193580113957) · [Исходная публикация](https://x.com/Conor_D_Dart/status/2096125193580113957)
 
 ---
