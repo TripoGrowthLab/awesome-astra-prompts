@@ -65,12 +65,22 @@ for (const locale of ['en', 'zh']) {
     : `**${dataset.count} 条案例** · **${dataset.locales.length} 种语言** · **${manifest.promptsWithRepository} 条附项目源码** · **${manifest.evidenceCounts.verbatim} 条公开提示词 + ${manifest.evidenceCounts['source-derived']} 条来源整理稿**`)
   const cells = picks.map(prompt => {
     const entry = localizations[locale].prompts[prompt.id]
-    const catalog = `docs/catalog.${locale}.md#${prompt.id}`
+    const catalog = `#${prompt.id}`
     const kind = labels[locale][prompt.evidence.kind === 'verbatim' ? 3 : 2]
     return `<td width="50%" valign="top"><a href="${catalog}"><img src="${prompt.media.image}" width="420" alt="${text(entry.title)}"></a><br><strong><a href="${catalog}">${text(entry.title)}</a></strong><br><sub>${text(kind)} · <a href="${prompt.source.url}">${text(prompt.author.name)}</a></sub><br>${prompt.links.repository ? `<a href="${prompt.links.repository}">GitHub ↗</a> · ` : ''}<a href="${catalog}">${locale === 'en' ? 'Read the prompt' : '阅读提示词'} →</a></td>`
   })
   update('featured', `<table>\n${Array.from({ length: 3 }, (_, i) => `<tr>\n${cells.slice(i * 2, i * 2 + 2).join('\n')}\n</tr>`).join('\n')}\n</table>`)
   update('languages', dataset.locales.map(key => `[${labels[key][0]}](docs/catalog.${key}.md)`).join(' · '))
+  const all = ['<a id="all-prompts"></a>', '', locale === 'en' ? '## All Astra prompts' : '## 全部 Astra 提示词', '', locale === 'en' ? `All ${dataset.count} entries are displayed below with their complete prompt text. Examples with project repositories come first.` : `以下直接展示全部 ${dataset.count} 条内容、配图与完整提示词，有项目源码的案例优先。`, '', '<details>', `<summary>${locale === 'en' ? 'Jump to an example' : '展开案例导航'}</summary>`, '']
+  for (const prompt of sorted) all.push(`- [${md(localizations[locale].prompts[prompt.id].title)}](#${prompt.id})${prompt.links.repository ? ' · GitHub' : ''}`)
+  all.push('', '</details>', '')
+  for (const prompt of sorted) {
+    const entry = localizations[locale].prompts[prompt.id]
+    const kind = labels[locale][prompt.evidence.kind === 'verbatim' ? 3 : 2]
+    all.push(`<a id="${prompt.id}"></a>`, '', `### ${md(entry.title)}`, '', `[${md(prompt.author.name)}](${prompt.author.url}) · ${prompt.source.publishedAt.slice(0, 10)} · **${kind}**`, '', `<img src="${prompt.media.image}" width="840" loading="lazy" alt="${text(entry.title)}">`, '', md(entry.description), '', `> ${entry.evidenceNote}`, '', `**${locale === 'en' ? 'Prompt' : '提示词'}**`, '', '```text', entry.prompt.replaceAll('```', '`\u200b``'), '```', '', [`[${labels[locale][4]}](${prompt.source.url})`, ...(prompt.links.repository ? [`[${labels[locale][5]}](${prompt.links.repository})`] : []), ...(prompt.links.demo ? [`[${labels[locale][6]}](${prompt.links.demo})`] : []), `[${locale === 'en' ? 'Back to all prompts' : '返回提示词导航'}](#all-prompts)`].join(' · '), '', '---', '')
+  }
+  update('all-prompts', all.join('\n'))
+  contents = contents.replaceAll(`docs/catalog.${locale}.md#`, '#')
   await write(path, contents)
 }
 
