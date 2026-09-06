@@ -329,7 +329,7 @@
 Создай мир в Unreal Engine с автономными людьми. Задай каждому собственные потребности и общую цель выживания: они должны общаться, распределять работу, строить укрытия и поддерживать жизнь общества, даже когда игрок уходит.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-video-a133b7a6d1c6.mp4) · [Исходная публикация](https://x.com/mattshumer_/status/2095596175705399482)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Смотреть видео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-video-hd-720p-e3dd83502b5a.mp4) · [Исходная публикация](https://x.com/mattshumer_/status/2095596175705399482)
 
 ---
 

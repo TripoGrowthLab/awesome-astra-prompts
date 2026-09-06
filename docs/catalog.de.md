@@ -329,7 +329,7 @@ Aus öffentlichen Quellen abgeleitet; der genaue interne Prompt war nicht öffen
 Erstelle eine Unreal-Engine-Welt mit autonom handelnden Menschen. Gib ihnen individuelle Bedürfnisse und ein gemeinsames Überlebensziel, sodass sie kommunizieren, Arbeit aufteilen, Unterkünfte bauen und die Gesellschaft auch ohne den Spieler am Leben halten.
 ```
 
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Video ansehen ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-video-a133b7a6d1c6.mp4) · [Originalbeitrag](https://x.com/mattshumer_/status/2095596175705399482)
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Video ansehen ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-video-hd-720p-e3dd83502b5a.mp4) · [Originalbeitrag](https://x.com/mattshumer_/status/2095596175705399482)
 
 ---
 

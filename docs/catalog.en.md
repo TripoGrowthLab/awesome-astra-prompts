@@ -329,7 +329,7 @@ Source-derived brief; exact hidden prompt was not public
 Create an Unreal Engine world populated by autonomous human agents. Give them individual needs and a shared survival goal so they must communicate, divide work, build shelter and keep the society alive when the player leaves.
 ```
 
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Watch video ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-video-a133b7a6d1c6.mp4) · [Original post](https://x.com/mattshumer_/status/2095596175705399482)
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Watch video ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-video-hd-720p-e3dd83502b5a.mp4) · [Original post](https://x.com/mattshumer_/status/2095596175705399482)
 
 ---
 

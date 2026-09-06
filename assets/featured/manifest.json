@@ -3,12 +3,12 @@
   "note": "Display-only 16:10 letterbox previews. Full source frames are preserved without cropping or distortion.",
   "files": [
     {
-      "id": "2095596175705399482",
-      "path": "assets/featured/2095596175705399482.webp",
-      "sourcePath": "assets/previews/3dfc15d51104de183c13.webp",
-      "sourceSha256": "3dfc15d51104de183c135d0b642dc751ccdb1981c8f05ebbbc490884ae9e89c4",
-      "sha256": "89ba925b92f40c3e57dd23b9e6d85f0784be2777883e3d61991cda609511ab8e",
-      "bytes": 112086,
+      "id": "2095609734845927525",
+      "path": "assets/featured/2095609734845927525.webp",
+      "sourcePath": "assets/previews/df1e2d655d7eca4caf78.webp",
+      "sourceSha256": "df1e2d655d7eca4caf78959755d956223d625b390f65a80962bd2dd31434a478",
+      "sha256": "9385e43f85e9f185c49f672ba419a0f1101d578a7442a08c002fc2f65dc26856",
+      "bytes": 83596,
       "width": 840,
       "height": 525
     },

@@ -329,7 +329,7 @@ Cahier des charges reconstitué ; le prompt exact n'a pas été publié
 Crée un monde Unreal Engine peuplé d'agents humains autonomes. Donne-leur des besoins individuels et un objectif commun de survie pour qu'ils doivent communiquer, répartir le travail, construire des abris et maintenir leur société en vie lorsque le joueur s'en va.
 ```
 
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Voir la vidéo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-video-a133b7a6d1c6.mp4) · [Publication originale](https://x.com/mattshumer_/status/2095596175705399482)
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Voir la vidéo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-video-hd-720p-e3dd83502b5a.mp4) · [Publication originale](https://x.com/mattshumer_/status/2095596175705399482)
 
 ---
 

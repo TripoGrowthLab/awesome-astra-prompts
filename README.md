@@ -21,7 +21,7 @@ Explore the same featured projects as the web gallery, then read the prompt. Eve
 <!-- generated:featured:start -->
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="assets/featured/2095596175705399482.webp" width="420" loading="lazy" alt="Surviving society of autonomous Unreal humans"></a><br><strong><a href="#2095596175705399482">Surviving society of autonomous Unreal humans</a></strong><br><sub>Source-derived brief · <a href="https://x.com/mattshumer_/status/2095596175705399482">Matt Shumer</a></sub><br><a href="https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-video-a133b7a6d1c6.mp4">Watch video ↗</a> · <a href="#2095596175705399482">Read the prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525"><img src="assets/featured/2095609734845927525.webp" width="420" loading="lazy" alt="Street-by-street Manhattan in Unreal Engine"></a><br><strong><a href="#2095609734845927525">Street-by-street Manhattan in Unreal Engine</a></strong><br><sub>Source-derived brief · <a href="https://x.com/mattshumer_/status/2095609734845927525">Matt Shumer</a></sub><br><a href="https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095609426770010113-video-05968f9d59fb.mp4">Watch video ↗</a> · <a href="#2095609734845927525">Read the prompt →</a></td>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="assets/featured/2096251574918013135.webp" width="420" loading="lazy" alt="Kaiju city battle"></a><br><strong><a href="#2096251574918013135">Kaiju city battle</a></strong><br><sub>Source-derived brief · <a href="https://x.com/majidmanzarpour/status/2096251574918013135">Majid Manzarpour</a></sub><br><a href="https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096251295594135556-video-cc717933e256.mp4">Watch video ↗</a> · <a href="#2096251574918013135">Read the prompt →</a></td>
 </tr>
 <tr>
@@ -387,7 +387,7 @@ A reusable task brief reconstructed from the author’s public project descripti
 Create an Unreal Engine world populated by autonomous human agents. Give them individual needs and a shared survival goal so they must communicate, divide work, build shelter and keep the society alive when the player leaves.
 ```
 
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Watch video ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-video-a133b7a6d1c6.mp4) · [Original post](https://x.com/mattshumer_/status/2095596175705399482) · [Back to all prompts](#all-prompts)
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Watch video ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-video-hd-720p-e3dd83502b5a.mp4) · [Original post](https://x.com/mattshumer_/status/2095596175705399482) · [Back to all prompts](#all-prompts)
 
 ---
 

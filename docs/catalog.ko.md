@@ -329,7 +329,7 @@ Blender에서 에너지 코어, 링 2개, 금속 받침대를 모델링하세요
 자율적으로 행동하는 인간 에이전트가 사는 Unreal Engine 세계를 만드세요. 각자에게 개인적인 욕구와 공동의 생존 목표를 부여하세요. 서로 소통하고 일을 나누며 거처를 지어, 플레이어가 떠나도 사회가 유지되도록 하세요.
 ```
 
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [동영상 보기 ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-video-a133b7a6d1c6.mp4) · [원본 게시물](https://x.com/mattshumer_/status/2095596175705399482)
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [동영상 보기 ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-video-hd-720p-e3dd83502b5a.mp4) · [원본 게시물](https://x.com/mattshumer_/status/2095596175705399482)
 
 ---
 

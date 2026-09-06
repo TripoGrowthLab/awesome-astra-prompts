@@ -329,7 +329,7 @@ Kaynaktan uyarlanan yönerge; asıl istemin tamamı yayımlanmamıştı
 Unreal Engine'de otonom insan ajanlarının yaşadığı bir dünya oluştur. Her birine bireysel ihtiyaçlar ve ortak bir hayatta kalma amacı ver; iletişim kurmaları, işleri paylaşmaları, barınak yapmaları ve oyuncu ayrıldığında toplumu yaşatmaları gereksin.
 ```
 
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Videoyu izle ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-video-a133b7a6d1c6.mp4) · [Orijinal gönderi](https://x.com/mattshumer_/status/2095596175705399482)
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Videoyu izle ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-video-hd-720p-e3dd83502b5a.mp4) · [Orijinal gönderi](https://x.com/mattshumer_/status/2095596175705399482)
 
 ---
 

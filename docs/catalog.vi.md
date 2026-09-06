@@ -329,7 +329,7 @@ Bản yêu cầu dựa trên nguồn công khai; prompt gốc chính xác chưa 
 Tạo một thế giới trong Unreal Engine với những nhân vật con người tự chủ. Mỗi người có nhu cầu riêng và cùng hướng đến mục tiêu sinh tồn, buộc họ phải giao tiếp, phân chia công việc, dựng nơi trú ẩn và duy trì xã hội ngay cả khi người chơi rời đi.
 ```
 
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Xem video ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-video-a133b7a6d1c6.mp4) · [Bài đăng gốc](https://x.com/mattshumer_/status/2095596175705399482)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Xem video ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-video-hd-720p-e3dd83502b5a.mp4) · [Bài đăng gốc](https://x.com/mattshumer_/status/2095596175705399482)
 
 ---
 

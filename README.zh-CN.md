@@ -21,7 +21,7 @@
 <!-- generated:featured:start -->
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/zh/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="assets/featured/2095596175705399482.webp" width="420" loading="lazy" alt="Unreal 自主人类生存社会"></a><br><strong><a href="#2095596175705399482">Unreal 自主人类生存社会</a></strong><br><sub>来源整理稿 · <a href="https://x.com/mattshumer_/status/2095596175705399482">Matt Shumer</a></sub><br><a href="https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-video-a133b7a6d1c6.mp4">观看视频 ↗</a> · <a href="#2095596175705399482">阅读提示词 →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/zh/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525"><img src="assets/featured/2095609734845927525.webp" width="420" loading="lazy" alt="逐街复刻曼哈顿 Unreal 世界"></a><br><strong><a href="#2095609734845927525">逐街复刻曼哈顿 Unreal 世界</a></strong><br><sub>来源整理稿 · <a href="https://x.com/mattshumer_/status/2095609734845927525">Matt Shumer</a></sub><br><a href="https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095609426770010113-video-05968f9d59fb.mp4">观看视频 ↗</a> · <a href="#2095609734845927525">阅读提示词 →</a></td>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/zh/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="assets/featured/2096251574918013135.webp" width="420" loading="lazy" alt="怪兽城市战斗"></a><br><strong><a href="#2096251574918013135">怪兽城市战斗</a></strong><br><sub>来源整理稿 · <a href="https://x.com/majidmanzarpour/status/2096251574918013135">Majid Manzarpour</a></sub><br><a href="https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096251295594135556-video-cc717933e256.mp4">观看视频 ↗</a> · <a href="#2096251574918013135">阅读提示词 →</a></td>
 </tr>
 <tr>
@@ -375,7 +375,7 @@
 在 Unreal Engine 中创建一个由自主人类智能体组成的世界。赋予每个人独立需求与共同生存目标，让他们在玩家离开后仍会交流、分工、搭建庇护所并维持社会运转。
 ```
 
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [观看视频 ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-video-a133b7a6d1c6.mp4) · [查看原帖](https://x.com/mattshumer_/status/2095596175705399482) · [返回提示词导航](#all-prompts)
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [观看视频 ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-video-hd-720p-e3dd83502b5a.mp4) · [查看原帖](https://x.com/mattshumer_/status/2095596175705399482) · [返回提示词导航](#all-prompts)
 
 ---
 

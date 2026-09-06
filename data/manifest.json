@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-09-06",
+  "snapshotDate": "2026-09-07",
   "source": {
     "name": "Tripo 3D Prompts",
     "url": "https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra"
@@ -43,8 +43,8 @@
   "files": [
     {
       "path": "data/prompts.json",
-      "sha256": "3ee26b418f368ee18f575a8337bcf5bd1c07581a0962ac00c4a9bfcb60c62e9f",
-      "bytes": 216994
+      "sha256": "9974cf885dca7ff6aaa45bbca832b3818e1c6e5b0c0bd909b19fb9fd6ae3d297",
+      "bytes": 217002
     },
     {
       "path": "data/locales/en.json",

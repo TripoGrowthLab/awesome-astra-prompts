@@ -329,7 +329,7 @@
 在 Unreal Engine 中创建一个由自主人类智能体组成的世界。赋予每个人独立需求与共同生存目标，让他们在玩家离开后仍会交流、分工、搭建庇护所并维持社会运转。
 ```
 
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [观看视频 ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-video-a133b7a6d1c6.mp4) · [查看原帖](https://x.com/mattshumer_/status/2095596175705399482)
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [观看视频 ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-video-hd-720p-e3dd83502b5a.mp4) · [查看原帖](https://x.com/mattshumer_/status/2095596175705399482)
 
 ---
 
