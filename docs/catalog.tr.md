@@ -26,13 +26,13 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**153 · Tüm Astra istemleri**
+**155 · Tüm Astra istemleri**
 
 ## Öne çıkan projeler
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/tr/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/featured/2095596175705399482.webp" width="420" loading="lazy" alt="Unreal'da kendi kendine hayatta kalan insan toplumu"></a><br><strong><a href="#2095596175705399482">Unreal'da kendi kendine hayatta kalan insan toplumu</a></strong><br><sub><a href="https://x.com/mattshumer_/status/2095596175705399482">Matt Shumer</a></sub><br><a href="#2095596175705399482">İstem →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/tr/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525"><img src="../assets/featured/2095609734845927525.webp" width="420" loading="lazy" alt="Unreal Engine'de sokak sokak Manhattan"></a><br><strong><a href="#2095609734845927525">Unreal Engine'de sokak sokak Manhattan</a></strong><br><sub><a href="https://x.com/mattshumer_/status/2095609734845927525">Matt Shumer</a></sub><br><a href="#2095609734845927525">İstem →</a></td>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/tr/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/featured/2096251574918013135.webp" width="420" loading="lazy" alt="Şehirde kaiju savaşı"></a><br><strong><a href="#2096251574918013135">Şehirde kaiju savaşı</a></strong><br><sub><a href="https://x.com/majidmanzarpour/status/2096251574918013135">Majid Manzarpour</a></sub><br><a href="#2096251574918013135">İstem →</a></td>
 </tr>
 <tr>
@@ -56,6 +56,8 @@
 - [Voksellerle Cluj-Napoca Birlik Meydanı](#2096262733259837681) · GitHub
 - [Unreal'da kendi kendine hayatta kalan insan toplumu](#2095596175705399482)
 - [Unreal Engine'de sokak sokak Manhattan](#2095609734845927525)
+- [Konsept görselini referans alarak Astra ile ham bir 3B mini oyun oluşturma](#2096068401294929940)
+- [Blender MCP ile LEGO minifigür oyun varlığı](#2096766465730847059)
 - [Şehirde kaiju savaşı](#2096251574918013135)
 - [Blender'da modern villa sahnesi](#2095636679264780481)
 - [Blender’da değiştirilebilir karakter ifadeleri](#2096525100518453342)
@@ -345,6 +347,46 @@ Unreal Engine'de keşfedilebilir bir Manhattan oluştur. Tanınabilir ölçeği,
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [Videoyu izle ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095609426770010113-video-05968f9d59fb.mp4) · [Orijinal gönderi](https://x.com/mattshumer_/status/2095609734845927525) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2096068401294929940"></a>
+
+### Konsept görselini referans alarak Astra ile ham bir 3B mini oyun oluşturma
+
+[陈硕KAI](https://x.com/ChenshuoAI) · 2026-09-05
+
+<a href="https://x.com/ChenshuoAI/status/2096068401294929940"><img src="../assets/previews/e292ca90b7878b4d444f462a178fe416099145cd661aeda4f5de200e21d3afee.jpg" width="840" loading="lazy" alt="Konsept görselini referans alarak Astra ile ham bir 3B mini oyun oluşturma"></a>
+
+Yazar, Codex, Blender MCP ve Astra kullanarak ham bir 3B mini oyun oluşturma sürecini paylaşıyor: Önce hedef konsept görseli oluşturuluyor, ardından oyun görüntüsü ekran görüntüleriyle karşılaştırılarak sürekli geliştiriliyor ve 60 FPS korunuyor.
+
+**İstem**
+
+```text
+Hüzünlü ama güzel bir distopik dünya; voxel / Low Poly stil, yağmurlu gece, ince sis, ıslak yüzey yansımaları, soğuk mavi ortam + sıcak turuncu ışıklar. Işıklandırma mümkün olduğunca gerçekçi ve sinematik olmalı.
+```
+
+[Videoyu izle ↗](https://video.twimg.com/amplify_video/2096067890562883584/vid/avc1/1902x886/89DcMKBb55ZmEHTh.mp4?tag=29) · [Orijinal gönderi](https://x.com/ChenshuoAI/status/2096068401294929940) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2096766465730847059"></a>
+
+### Blender MCP ile LEGO minifigür oyun varlığı
+
+[Simon Smith](https://x.com/_simonsmith) · 2026-09-07
+
+<a href="https://x.com/_simonsmith/status/2096766465730847059"><img src="../assets/previews/2b65a179759aadacaa8dcf78ecfd45f3e7dcd04b4d1f535bc553c3d9f7505f2d.jpg" width="840" loading="lazy" alt="Blender MCP ile LEGO minifigür oyun varlığı"></a>
+
+Blender MCP kullanarak Donald Trump'ın LEGO minifigürünü yüksek kaliteli, AAA düzeyinde bir oyun varlığı olarak oluşturur.
+
+**İstem**
+
+```text
+Blender MCP'yi kullanarak oyunda varlık olarak kullanabileceğim bir Donald Trump LEGO minifigürü oluştur. Kaliteyi olağanüstü, AAA düzeyinde tut; modelin ayrıntılı, doğru ve kusursuz olduğundan emin olmak için çalışmanı titizlikle test et.
+```
+
+[Videoyu izle ↗](https://video.twimg.com/amplify_video/2096766389113556999/vid/avc1/1920x1080/t6dpye7hPDiWK9D2.mp4?tag=29) · [Orijinal gönderi](https://x.com/_simonsmith/status/2096766465730847059) · [Örneklere dön](#all-prompts)
 
 ---
 

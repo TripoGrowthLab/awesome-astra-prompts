@@ -26,13 +26,13 @@
 **Ідеї для вашої наступної гри, сцени або інтерактивного світу.**
 
 
-**153 · Усі промпти Astra**
+**155 · Усі промпти Astra**
 
 ## Вибрані проєкти
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/uk/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/featured/2095596175705399482.webp" width="420" loading="lazy" alt="Спільнота автономних людей в Unreal Engine"></a><br><strong><a href="#2095596175705399482">Спільнота автономних людей в Unreal Engine</a></strong><br><sub><a href="https://x.com/mattshumer_/status/2095596175705399482">Matt Shumer</a></sub><br><a href="#2095596175705399482">Промпт →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/uk/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525"><img src="../assets/featured/2095609734845927525.webp" width="420" loading="lazy" alt="Мангеттен в Unreal Engine, вулиця за вулицею"></a><br><strong><a href="#2095609734845927525">Мангеттен в Unreal Engine, вулиця за вулицею</a></strong><br><sub><a href="https://x.com/mattshumer_/status/2095609734845927525">Matt Shumer</a></sub><br><a href="#2095609734845927525">Промпт →</a></td>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/uk/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/featured/2096251574918013135.webp" width="420" loading="lazy" alt="Битва кайдзю в місті"></a><br><strong><a href="#2096251574918013135">Битва кайдзю в місті</a></strong><br><sub><a href="https://x.com/majidmanzarpour/status/2096251574918013135">Majid Manzarpour</a></sub><br><a href="#2096251574918013135">Промпт →</a></td>
 </tr>
 <tr>
@@ -56,6 +56,8 @@
 - [Площа Єдності в Клуж-Напоці з вокселів](#2096262733259837681) · GitHub
 - [Спільнота автономних людей в Unreal Engine](#2095596175705399482)
 - [Мангеттен в Unreal Engine, вулиця за вулицею](#2095609734845927525)
+- [Створення грубо стилізованої 3D-гри в Astra на основі концепт-арту](#2096068401294929940)
+- [Ігровий асет LEGO-мініфігурки за допомогою Blender MCP](#2096766465730847059)
 - [Битва кайдзю в місті](#2096251574918013135)
 - [Сучасна вілла в Blender](#2095636679264780481)
 - [Перемикання виразів обличчя персонажа в Blender](#2096525100518453342)
@@ -345,6 +347,46 @@
 ```
 
 [Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [Переглянути відео ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095609426770010113-video-05968f9d59fb.mp4) · [Оригінальний допис](https://x.com/mattshumer_/status/2095609734845927525) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="2096068401294929940"></a>
+
+### Створення грубо стилізованої 3D-гри в Astra на основі концепт-арту
+
+[陈硕KAI](https://x.com/ChenshuoAI) · 2026-09-05
+
+<a href="https://x.com/ChenshuoAI/status/2096068401294929940"><img src="../assets/previews/e292ca90b7878b4d444f462a178fe416099145cd661aeda4f5de200e21d3afee.jpg" width="840" loading="lazy" alt="Створення грубо стилізованої 3D-гри в Astra на основі концепт-арту"></a>
+
+Автор ділиться процесом створення грубо стилізованої 3D-гри за допомогою Codex, Blender MCP і Astra: спочатку генерується цільовий концепт-арт, потім ігрова сцена постійно доопрацьовується через порівняння зі скриншотами, водночас зберігається частота 60 кадрів/с.
+
+**Промпт**
+
+```text
+Сумний, але прекрасний антиутопічний світ у воксельному стилі / Low Poly: дощова ніч, легкий туман, відбиття на мокрій поверхні, холодне синє навколишнє освітлення + тепле помаранчеве світло. Освітлення має бути якомога реалістичнішим і кінематографічним.
+```
+
+[Переглянути відео ↗](https://video.twimg.com/amplify_video/2096067890562883584/vid/avc1/1902x886/89DcMKBb55ZmEHTh.mp4?tag=29) · [Оригінальний допис](https://x.com/ChenshuoAI/status/2096068401294929940) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="2096766465730847059"></a>
+
+### Ігровий асет LEGO-мініфігурки за допомогою Blender MCP
+
+[Simon Smith](https://x.com/_simonsmith) · 2026-09-07
+
+<a href="https://x.com/_simonsmith/status/2096766465730847059"><img src="../assets/previews/2b65a179759aadacaa8dcf78ecfd45f3e7dcd04b4d1f535bc553c3d9f7505f2d.jpg" width="840" loading="lazy" alt="Ігровий асет LEGO-мініфігурки за допомогою Blender MCP"></a>
+
+Створює версію Дональда Трампа у вигляді мініфігурки LEGO як високоякісний ігровий асет рівня AAA за допомогою Blender MCP.
+
+**Промпт**
+
+```text
+За допомогою Blender MCP створи версію Дональда Трампа у вигляді мініфігурки LEGO, яку можна використовувати як ігровий асет. Забезпеч виняткову якість рівня AAA та ретельно перевір результат, щоб він був деталізованим, точним і бездоганним.
+```
+
+[Переглянути відео ↗](https://video.twimg.com/amplify_video/2096766389113556999/vid/avc1/1920x1080/t6dpye7hPDiWK9D2.mp4?tag=29) · [Оригінальний допис](https://x.com/_simonsmith/status/2096766465730847059) · [Назад до прикладів](#all-prompts)
 
 ---
 

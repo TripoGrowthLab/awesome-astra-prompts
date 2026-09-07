@@ -26,13 +26,13 @@
 **次のゲーム、シーン、インタラクティブな世界づくりのヒントに。**
 
 
-**153 · Astra の全プロンプト**
+**155 · Astra の全プロンプト**
 
 ## 注目の作品
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/ja/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/featured/2095596175705399482.webp" width="420" loading="lazy" alt="自律する人々が生き抜く Unreal の社会"></a><br><strong><a href="#2095596175705399482">自律する人々が生き抜く Unreal の社会</a></strong><br><sub><a href="https://x.com/mattshumer_/status/2095596175705399482">Matt Shumer</a></sub><br><a href="#2095596175705399482">プロンプト →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/ja/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525"><img src="../assets/featured/2095609734845927525.webp" width="420" loading="lazy" alt="Unreal Engine で街路まで再現するマンハッタン"></a><br><strong><a href="#2095609734845927525">Unreal Engine で街路まで再現するマンハッタン</a></strong><br><sub><a href="https://x.com/mattshumer_/status/2095609734845927525">Matt Shumer</a></sub><br><a href="#2095609734845927525">プロンプト →</a></td>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/ja/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/featured/2096251574918013135.webp" width="420" loading="lazy" alt="怪獣が戦う都市"></a><br><strong><a href="#2096251574918013135">怪獣が戦う都市</a></strong><br><sub><a href="https://x.com/majidmanzarpour/status/2096251574918013135">Majid Manzarpour</a></sub><br><a href="#2096251574918013135">プロンプト →</a></td>
 </tr>
 <tr>
@@ -56,6 +56,8 @@
 - [ボクセルで再現するクルジュ＝ナポカの統一広場](#2096262733259837681) · GitHub
 - [自律する人々が生き抜く Unreal の社会](#2095596175705399482)
 - [Unreal Engine で街路まで再現するマンハッタン](#2095609734845927525)
+- [コンセプトアートを起点にAstraでラフな3Dミニゲームを制作](#2096068401294929940)
+- [Blender MCPで作るLEGOミニフィグのゲームアセット](#2096766465730847059)
 - [怪獣が戦う都市](#2096251574918013135)
 - [Blender で作るモダンなヴィラ](#2095636679264780481)
 - [Blenderで切り替えるキャラクターの表情](#2096525100518453342)
@@ -345,6 +347,46 @@ Unreal Engine で探索できるマンハッタンを構築してください。
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [動画を見る ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095609426770010113-video-05968f9d59fb.mp4) · [元の投稿](https://x.com/mattshumer_/status/2095609734845927525) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="2096068401294929940"></a>
+
+### コンセプトアートを起点にAstraでラフな3Dミニゲームを制作
+
+[陈硕KAI](https://x.com/ChenshuoAI) · 2026-09-05
+
+<a href="https://x.com/ChenshuoAI/status/2096068401294929940"><img src="../assets/previews/e292ca90b7878b4d444f462a178fe416099145cd661aeda4f5de200e21d3afee.jpg" width="840" loading="lazy" alt="コンセプトアートを起点にAstraでラフな3Dミニゲームを制作"></a>
+
+作者が、Codex、Blender MCP、Astraを使ってラフな3Dミニゲームを制作する手順を紹介します。まず目標となるコンセプトアートを生成し、スクリーンショットとの比較を繰り返しながらゲーム画面を調整し、60fpsを維持します。
+
+**プロンプト**
+
+```text
+悲しくも美しいディストピアの世界。ボクセル／ローポリスタイル、雨の夜、薄い霧、濡れた地面の反射、寒色の青い環境光＋暖かなオレンジ色のライト。ライティングはできるだけリアルで、映画的に。
+```
+
+[動画を見る ↗](https://video.twimg.com/amplify_video/2096067890562883584/vid/avc1/1902x886/89DcMKBb55ZmEHTh.mp4?tag=29) · [元の投稿](https://x.com/ChenshuoAI/status/2096068401294929940) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="2096766465730847059"></a>
+
+### Blender MCPで作るLEGOミニフィグのゲームアセット
+
+[Simon Smith](https://x.com/_simonsmith) · 2026-09-07
+
+<a href="https://x.com/_simonsmith/status/2096766465730847059"><img src="../assets/previews/2b65a179759aadacaa8dcf78ecfd45f3e7dcd04b4d1f535bc553c3d9f7505f2d.jpg" width="840" loading="lazy" alt="Blender MCPで作るLEGOミニフィグのゲームアセット"></a>
+
+Blender MCPを使って、ドナルド・トランプをモデルにしたLEGOミニフィグを、高品質なAAAゲーム用アセットとして作成します。
+
+**プロンプト**
+
+```text
+Blender MCPを使って、ゲームアセットとして利用できるドナルド・トランプのLEGOミニフィグを作成してください。AAAゲーム品質の exceptional な仕上がりを目指し、細部まで作り込み、正確で優れたモデルになっているか入念に検証してください。
+```
+
+[動画を見る ↗](https://video.twimg.com/amplify_video/2096766389113556999/vid/avc1/1920x1080/t6dpye7hPDiWK9D2.mp4?tag=29) · [元の投稿](https://x.com/_simonsmith/status/2096766465730847059) · [作例一覧に戻る](#all-prompts)
 
 ---
 

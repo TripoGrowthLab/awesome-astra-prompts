@@ -243,6 +243,16 @@
       ]
     },
     {
+      "path": "assets/previews/2b65a179759aadacaa8dcf78ecfd45f3e7dcd04b4d1f535bc553c3d9f7505f2d.jpg",
+      "fingerprint": "fdda301578f273737b23a107fc9eced83d7d330f4f9c5abb39233dba702dce0f",
+      "sha256": "2b65a179759aadacaa8dcf78ecfd45f3e7dcd04b4d1f535bc553c3d9f7505f2d",
+      "bytes": 19830,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2096766389113556999/img/hN9hsB2OZfAAoSY5.jpg",
+      "promptIds": [
+        "2096766465730847059"
+      ]
+    },
+    {
       "path": "assets/previews/2d8a09166b72394c4292749b322250e07ab0964fa7aa5e162b5774df388f26d4.webp",
       "fingerprint": "afb56a7162812e42aee0d0e85df7751b7be00b69b2b3e932c9646e506e845472",
       "sha256": "2d8a09166b72394c4292749b322250e07ab0964fa7aa5e162b5774df388f26d4",
@@ -1348,6 +1358,16 @@
       ]
     },
     {
+      "path": "assets/previews/e292ca90b7878b4d444f462a178fe416099145cd661aeda4f5de200e21d3afee.jpg",
+      "fingerprint": "f17ae55c7ddf1087f6072e39b0a45b0ee85b7d513d2bed1063327ebefffae74f",
+      "sha256": "e292ca90b7878b4d444f462a178fe416099145cd661aeda4f5de200e21d3afee",
+      "bytes": 56498,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2096067890562883584/img/b5cLMmQtPZTLWnh3.jpg",
+      "promptIds": [
+        "2096068401294929940"
+      ]
+    },
+    {
       "path": "assets/previews/e54b3e2710c53a16b3034c7e2d309e31ffb6b2025193d036bf26743f8ed65e0a.webp",
       "fingerprint": "fcf7b2dcddeef0267f57d213a0ff8fc3c49b47888671b0decbfdcfa626d60f75",
       "sha256": "e54b3e2710c53a16b3034c7e2d309e31ffb6b2025193d036bf26743f8ed65e0a",
@@ -1488,13 +1508,13 @@
       ]
     },
     {
-      "path": "assets/featured/2095596175705399482.webp",
-      "fingerprint": "5968888c64006040cb8f147cf2c2328b33ed816c145bf1535920b8077e93eb8a",
-      "sha256": "11d5edb35b1e971fedaf9270477616ed63cd8c372e4b75bfc54fc04d9dc42e09",
-      "bytes": 110492,
-      "sourceUrl": "https://x.com/mattshumer_/status/2095596175705399482",
+      "path": "assets/featured/2095609734845927525.webp",
+      "fingerprint": "42de2de4b2bfdd53a35cdd4edf809468a014ea6df075e11ccc2219a7428c2366",
+      "sha256": "db8211552b7e6e0ab1d7a57ee15f7ae846b2810345ff7334ae7ffd21e14f0ed8",
+      "bytes": 79222,
+      "sourceUrl": "https://x.com/mattshumer_/status/2095609734845927525",
       "promptIds": [
-        "2095596175705399482"
+        "2095609734845927525"
       ],
       "width": 840,
       "height": 525

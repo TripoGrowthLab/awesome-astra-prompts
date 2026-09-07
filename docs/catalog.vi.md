@@ -26,13 +26,13 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**153 · Tất cả prompt Astra**
+**155 · Tất cả prompt Astra**
 
 ## Dự án nổi bật
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/featured/2095596175705399482.webp" width="420" loading="lazy" alt="Xã hội sinh tồn của những con người tự chủ trong Unreal Engine"></a><br><strong><a href="#2095596175705399482">Xã hội sinh tồn của những con người tự chủ trong Unreal Engine</a></strong><br><sub><a href="https://x.com/mattshumer_/status/2095596175705399482">Matt Shumer</a></sub><br><a href="#2095596175705399482">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525"><img src="../assets/featured/2095609734845927525.webp" width="420" loading="lazy" alt="Dựng Manhattan trong Unreal Engine, từng con phố một"></a><br><strong><a href="#2095609734845927525">Dựng Manhattan trong Unreal Engine, từng con phố một</a></strong><br><sub><a href="https://x.com/mattshumer_/status/2095609734845927525">Matt Shumer</a></sub><br><a href="#2095609734845927525">Prompt →</a></td>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/featured/2096251574918013135.webp" width="420" loading="lazy" alt="Kaiju giao chiến trong thành phố"></a><br><strong><a href="#2096251574918013135">Kaiju giao chiến trong thành phố</a></strong><br><sub><a href="https://x.com/majidmanzarpour/status/2096251574918013135">Majid Manzarpour</a></sub><br><a href="#2096251574918013135">Prompt →</a></td>
 </tr>
 <tr>
@@ -56,6 +56,8 @@
 - [Quảng trường Thống Nhất ở Cluj-Napoca bằng voxel](#2096262733259837681) · GitHub
 - [Xã hội sinh tồn của những con người tự chủ trong Unreal Engine](#2095596175705399482)
 - [Dựng Manhattan trong Unreal Engine, từng con phố một](#2095609734845927525)
+- [Dùng concept art để tạo game 3D nhỏ thô sơ với Astra](#2096068401294929940)
+- [Mô hình nhân vật LEGO cho game bằng Blender MCP](#2096766465730847059)
 - [Kaiju giao chiến trong thành phố](#2096251574918013135)
 - [Cảnh biệt thự hiện đại trong Blender](#2095636679264780481)
 - [Chuyển đổi biểu cảm nhân vật trong Blender](#2096525100518453342)
@@ -345,6 +347,46 @@ Dựng một Manhattan có thể khám phá trong Unreal Engine. Làm lần lư�
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [Xem video ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095609426770010113-video-05968f9d59fb.mp4) · [Bài đăng gốc](https://x.com/mattshumer_/status/2095609734845927525) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2096068401294929940"></a>
+
+### Dùng concept art để tạo game 3D nhỏ thô sơ với Astra
+
+[陈硕KAI](https://x.com/ChenshuoAI) · 2026-09-05
+
+<a href="https://x.com/ChenshuoAI/status/2096068401294929940"><img src="../assets/previews/e292ca90b7878b4d444f462a178fe416099145cd661aeda4f5de200e21d3afee.jpg" width="840" loading="lazy" alt="Dùng concept art để tạo game 3D nhỏ thô sơ với Astra"></a>
+
+Tác giả chia sẻ quy trình dùng Codex, Blender MCP và Astra để tạo một game 3D nhỏ thô sơ: trước tiên tạo concept art mục tiêu, sau đó liên tục chỉnh sửa hình ảnh trong game bằng cách so sánh ảnh chụp màn hình, đồng thời duy trì 60fps.
+
+**Prompt**
+
+```text
+Thế giới phản địa đàng buồn bã nhưng tuyệt đẹp, phong cách voxel / Low Poly, đêm mưa, sương mỏng, phản chiếu trên mặt đất ướt, môi trường xanh lam lạnh kết hợp ánh đèn cam ấm; ánh sáng cần chân thực và có chất điện ảnh nhất có thể
+```
+
+[Xem video ↗](https://video.twimg.com/amplify_video/2096067890562883584/vid/avc1/1902x886/89DcMKBb55ZmEHTh.mp4?tag=29) · [Bài đăng gốc](https://x.com/ChenshuoAI/status/2096068401294929940) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2096766465730847059"></a>
+
+### Mô hình nhân vật LEGO cho game bằng Blender MCP
+
+[Simon Smith](https://x.com/_simonsmith) · 2026-09-07
+
+<a href="https://x.com/_simonsmith/status/2096766465730847059"><img src="../assets/previews/2b65a179759aadacaa8dcf78ecfd45f3e7dcd04b4d1f535bc553c3d9f7505f2d.jpg" width="840" loading="lazy" alt="Mô hình nhân vật LEGO cho game bằng Blender MCP"></a>
+
+Tạo phiên bản nhân vật LEGO của Donald Trump dưới dạng tài sản game AAA chất lượng cao bằng Blender MCP.
+
+**Prompt**
+
+```text
+Sử dụng Blender MCP để tạo phiên bản nhân vật LEGO của Donald Trump mà tôi có thể dùng làm tài sản game. Hãy đảm bảo chất lượng vượt trội theo tiêu chuẩn game AAA, đồng thời kiểm tra kỹ sản phẩm để bảo đảm mô hình có độ chi tiết, độ chính xác và chất lượng xuất sắc.
+```
+
+[Xem video ↗](https://video.twimg.com/amplify_video/2096766389113556999/vid/avc1/1920x1080/t6dpye7hPDiWK9D2.mp4?tag=29) · [Bài đăng gốc](https://x.com/_simonsmith/status/2096766465730847059) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

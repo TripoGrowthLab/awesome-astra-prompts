@@ -26,13 +26,13 @@
 **다음 게임, 장면, 인터랙티브 세계를 위한 아이디어를 찾아보세요.**
 
 
-**153 · 모든 Astra 프롬프트**
+**155 · 모든 Astra 프롬프트**
 
 ## 추천 작품
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/ko/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/featured/2095596175705399482.webp" width="420" loading="lazy" alt="자율적으로 살아남는 Unreal 속 인간 사회"></a><br><strong><a href="#2095596175705399482">자율적으로 살아남는 Unreal 속 인간 사회</a></strong><br><sub><a href="https://x.com/mattshumer_/status/2095596175705399482">Matt Shumer</a></sub><br><a href="#2095596175705399482">프롬프트 →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/ko/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525"><img src="../assets/featured/2095609734845927525.webp" width="420" loading="lazy" alt="Unreal Engine으로 거리마다 재현한 맨해튼"></a><br><strong><a href="#2095609734845927525">Unreal Engine으로 거리마다 재현한 맨해튼</a></strong><br><sub><a href="https://x.com/mattshumer_/status/2095609734845927525">Matt Shumer</a></sub><br><a href="#2095609734845927525">프롬프트 →</a></td>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/ko/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/featured/2096251574918013135.webp" width="420" loading="lazy" alt="거대 괴수의 도시 전투"></a><br><strong><a href="#2096251574918013135">거대 괴수의 도시 전투</a></strong><br><sub><a href="https://x.com/majidmanzarpour/status/2096251574918013135">Majid Manzarpour</a></sub><br><a href="#2096251574918013135">프롬프트 →</a></td>
 </tr>
 <tr>
@@ -56,6 +56,8 @@
 - [복셀로 재현한 클루지나포카 통일 광장](#2096262733259837681) · GitHub
 - [자율적으로 살아남는 Unreal 속 인간 사회](#2095596175705399482)
 - [Unreal Engine으로 거리마다 재현한 맨해튼](#2095609734845927525)
+- [콘셉트 이미지로 Astra를 활용해 투박한 3D 미니게임 만들기](#2096068401294929940)
+- [Blender MCP로 제작하는 레고 미니피겨 게임 에셋](#2096766465730847059)
 - [거대 괴수의 도시 전투](#2096251574918013135)
 - [Blender로 만든 모던 빌라 장면](#2095636679264780481)
 - [Blender에서 전환하는 캐릭터 표정](#2096525100518453342)
@@ -345,6 +347,46 @@ Unreal Engine에서 탐험할 수 있는 맨해튼을 만드세요. 구역별, �
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [동영상 보기 ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095609426770010113-video-05968f9d59fb.mp4) · [원본 게시물](https://x.com/mattshumer_/status/2095609734845927525) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="2096068401294929940"></a>
+
+### 콘셉트 이미지로 Astra를 활용해 투박한 3D 미니게임 만들기
+
+[陈硕KAI](https://x.com/ChenshuoAI) · 2026-09-05
+
+<a href="https://x.com/ChenshuoAI/status/2096068401294929940"><img src="../assets/previews/e292ca90b7878b4d444f462a178fe416099145cd661aeda4f5de200e21d3afee.jpg" width="840" loading="lazy" alt="콘셉트 이미지로 Astra를 활용해 투박한 3D 미니게임 만들기"></a>
+
+작성자가 Codex, Blender MCP, Astra를 활용해 투박한 3D 미니게임을 제작한 과정을 공유합니다. 먼저 목표 콘셉트 이미지를 생성한 뒤, 스크린샷을 비교하며 게임 화면을 계속 수정하고 60fps를 유지합니다.
+
+**프롬프트**
+
+```text
+슬프지만 아름다운 디스토피아 세계, 복셀 / 로우폴리 스타일, 비 내리는 밤, 옅은 안개, 젖은 지형의 반사, 차가운 푸른색 환경광 + 따뜻한 주황색 조명. 조명은 최대한 사실적이고 영화적인 느낌으로 연출하세요.
+```
+
+[동영상 보기 ↗](https://video.twimg.com/amplify_video/2096067890562883584/vid/avc1/1902x886/89DcMKBb55ZmEHTh.mp4?tag=29) · [원본 게시물](https://x.com/ChenshuoAI/status/2096068401294929940) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="2096766465730847059"></a>
+
+### Blender MCP로 제작하는 레고 미니피겨 게임 에셋
+
+[Simon Smith](https://x.com/_simonsmith) · 2026-09-07
+
+<a href="https://x.com/_simonsmith/status/2096766465730847059"><img src="../assets/previews/2b65a179759aadacaa8dcf78ecfd45f3e7dcd04b4d1f535bc553c3d9f7505f2d.jpg" width="840" loading="lazy" alt="Blender MCP로 제작하는 레고 미니피겨 게임 에셋"></a>
+
+Blender MCP를 사용해 도널드 트럼프를 레고 미니피겨 스타일로 구현한 고품질 AAA 게임 에셋을 제작합니다.
+
+**프롬프트**
+
+```text
+Blender MCP를 사용해 게임 에셋으로 활용할 수 있는 도널드 트럼프 레고 미니피겨를 제작해 주세요. AAA급의 뛰어난 품질로 완성하고, 디테일과 정확성, 완성도를 확인할 수 있도록 결과물을 철저히 검증해 주세요.
+```
+
+[동영상 보기 ↗](https://video.twimg.com/amplify_video/2096766389113556999/vid/avc1/1920x1080/t6dpye7hPDiWK9D2.mp4?tag=29) · [원본 게시물](https://x.com/_simonsmith/status/2096766465730847059) · [사례 목록으로](#all-prompts)
 
 ---
 

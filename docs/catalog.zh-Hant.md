@@ -26,13 +26,13 @@
 **為你的下一個遊戲、場景或互動世界尋找靈感。**
 
 
-**153 · 全部 Astra 提示詞**
+**155 · 全部 Astra 提示詞**
 
 ## 精選作品
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/featured/2095596175705399482.webp" width="420" loading="lazy" alt="Unreal 自主人類生存社會"></a><br><strong><a href="#2095596175705399482">Unreal 自主人類生存社會</a></strong><br><sub><a href="https://x.com/mattshumer_/status/2095596175705399482">Matt Shumer</a></sub><br><a href="#2095596175705399482">提示詞 →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525"><img src="../assets/featured/2095609734845927525.webp" width="420" loading="lazy" alt="逐街復刻曼哈頓 Unreal 世界"></a><br><strong><a href="#2095609734845927525">逐街復刻曼哈頓 Unreal 世界</a></strong><br><sub><a href="https://x.com/mattshumer_/status/2095609734845927525">Matt Shumer</a></sub><br><a href="#2095609734845927525">提示詞 →</a></td>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/featured/2096251574918013135.webp" width="420" loading="lazy" alt="怪獸城市戰鬥"></a><br><strong><a href="#2096251574918013135">怪獸城市戰鬥</a></strong><br><sub><a href="https://x.com/majidmanzarpour/status/2096251574918013135">Majid Manzarpour</a></sub><br><a href="#2096251574918013135">提示詞 →</a></td>
 </tr>
 <tr>
@@ -56,6 +56,8 @@
 - [體素版克盧日－納波卡統一廣場](#2096262733259837681) · GitHub
 - [Unreal 自主人類生存社會](#2095596175705399482)
 - [逐街復刻曼哈頓 Unreal 世界](#2095609734845927525)
+- [用概念圖驅動 Astra 製作簡易 3D 小遊戲](#2096068401294929940)
+- [使用 Blender MCP 製作 LEGO 人偶遊戲資產](#2096766465730847059)
 - [怪獸城市戰鬥](#2096251574918013135)
 - [Blender 現代別墅場景](#2095636679264780481)
 - [在 Blender 中切換角色表情](#2096525100518453342)
@@ -345,6 +347,46 @@
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [觀看影片 ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095609426770010113-video-05968f9d59fb.mp4) · [查看原文](https://x.com/mattshumer_/status/2095609734845927525) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2096068401294929940"></a>
+
+### 用概念圖驅動 Astra 製作簡易 3D 小遊戲
+
+[陈硕KAI](https://x.com/ChenshuoAI) · 2026-09-05
+
+<a href="https://x.com/ChenshuoAI/status/2096068401294929940"><img src="../assets/previews/e292ca90b7878b4d444f462a178fe416099145cd661aeda4f5de200e21d3afee.jpg" width="840" loading="lazy" alt="用概念圖驅動 Astra 製作簡易 3D 小遊戲"></a>
+
+作者分享使用 Codex、Blender MCP 與 Astra 製作簡易 3D 小遊戲的流程：先生成目標概念圖，再透過截圖比對持續調整遊戲畫面，並維持 60fps。
+
+**提示詞**
+
+```text
+悲傷卻美麗的反烏托邦世界，體素／低多邊形風格，雨夜、薄霧、濕地反射、冷藍色環境光搭配暖橙色燈光；光影要盡可能寫實，並呈現電影感
+```
+
+[觀看影片 ↗](https://video.twimg.com/amplify_video/2096067890562883584/vid/avc1/1902x886/89DcMKBb55ZmEHTh.mp4?tag=29) · [查看原文](https://x.com/ChenshuoAI/status/2096068401294929940) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2096766465730847059"></a>
+
+### 使用 Blender MCP 製作 LEGO 人偶遊戲資產
+
+[Simon Smith](https://x.com/_simonsmith) · 2026-09-07
+
+<a href="https://x.com/_simonsmith/status/2096766465730847059"><img src="../assets/previews/2b65a179759aadacaa8dcf78ecfd45f3e7dcd04b4d1f535bc553c3d9f7505f2d.jpg" width="840" loading="lazy" alt="使用 Blender MCP 製作 LEGO 人偶遊戲資產"></a>
+
+使用 Blender MCP，將 Donald Trump 製作成高品質 AAA 級 LEGO 人偶遊戲資產。
+
+**提示詞**
+
+```text
+使用 Blender MCP 製作 Donald Trump 的 LEGO 人偶版本，讓我能將其用作遊戲資產。請以 AAA 級遊戲的標準打造卓越品質，並反覆檢驗成果，確保細節豐富、造型準確且整體表現出色。
+```
+
+[觀看影片 ↗](https://video.twimg.com/amplify_video/2096766389113556999/vid/avc1/1920x1080/t6dpye7hPDiWK9D2.mp4?tag=29) · [查看原文](https://x.com/_simonsmith/status/2096766465730847059) · [返回案例導覽](#all-prompts)
 
 ---
 

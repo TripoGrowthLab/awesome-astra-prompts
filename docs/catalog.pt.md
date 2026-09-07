@@ -26,13 +26,13 @@
 **Um ponto de partida para seu próximo jogo, cena ou mundo interativo.**
 
 
-**153 · Todos os prompts do Astra**
+**155 · Todos os prompts do Astra**
 
 ## Projetos em destaque
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/pt/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/featured/2095596175705399482.webp" width="420" loading="lazy" alt="Uma sociedade de humanos autônomos que sobrevive no Unreal"></a><br><strong><a href="#2095596175705399482">Uma sociedade de humanos autônomos que sobrevive no Unreal</a></strong><br><sub><a href="https://x.com/mattshumer_/status/2095596175705399482">Matt Shumer</a></sub><br><a href="#2095596175705399482">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/pt/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525"><img src="../assets/featured/2095609734845927525.webp" width="420" loading="lazy" alt="Manhattan, rua por rua, no Unreal Engine"></a><br><strong><a href="#2095609734845927525">Manhattan, rua por rua, no Unreal Engine</a></strong><br><sub><a href="https://x.com/mattshumer_/status/2095609734845927525">Matt Shumer</a></sub><br><a href="#2095609734845927525">Prompt →</a></td>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/pt/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/featured/2096251574918013135.webp" width="420" loading="lazy" alt="Uma batalha de kaijus na cidade"></a><br><strong><a href="#2096251574918013135">Uma batalha de kaijus na cidade</a></strong><br><sub><a href="https://x.com/majidmanzarpour/status/2096251574918013135">Majid Manzarpour</a></sub><br><a href="#2096251574918013135">Prompt →</a></td>
 </tr>
 <tr>
@@ -56,6 +56,8 @@
 - [Praça da União de Cluj-Napoca em voxels](#2096262733259837681) · GitHub
 - [Uma sociedade de humanos autônomos que sobrevive no Unreal](#2095596175705399482)
 - [Manhattan, rua por rua, no Unreal Engine](#2095609734845927525)
+- [Criando um pequeno jogo 3D rudimentar com Astra a partir de uma arte conceitual](#2096068401294929940)
+- [Asset de jogo de minifig LEGO com Blender MCP](#2096766465730847059)
 - [Uma batalha de kaijus na cidade](#2096251574918013135)
 - [Uma casa moderna no Blender](#2095636679264780481)
 - [Expressões de personagem alternáveis no Blender](#2096525100518453342)
@@ -345,6 +347,46 @@ Construa uma Manhattan explorável no Unreal Engine. Trabalhe bairro por bairro 
 ```
 
 [Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095609426770010113-video-05968f9d59fb.mp4) · [Publicação original](https://x.com/mattshumer_/status/2095609734845927525) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2096068401294929940"></a>
+
+### Criando um pequeno jogo 3D rudimentar com Astra a partir de uma arte conceitual
+
+[陈硕KAI](https://x.com/ChenshuoAI) · 2026-09-05
+
+<a href="https://x.com/ChenshuoAI/status/2096068401294929940"><img src="../assets/previews/e292ca90b7878b4d444f462a178fe416099145cd661aeda4f5de200e21d3afee.jpg" width="840" loading="lazy" alt="Criando um pequeno jogo 3D rudimentar com Astra a partir de uma arte conceitual"></a>
+
+O autor compartilha o processo de criação de um pequeno jogo 3D rudimentar usando Codex, Blender MCP e Astra: primeiro, gera uma arte conceitual de referência; depois, ajusta continuamente os visuais do jogo comparando-os com capturas de tela, mantendo 60 fps.
+
+**Prompt**
+
+```text
+Um mundo distópico triste, mas belo, em estilo voxel / Low Poly, com noite chuvosa, neblina leve, reflexos em áreas alagadas, ambiente em tons de azul frio + iluminação em laranja quente. A iluminação deve ser o mais realista e cinematográfica possível.
+```
+
+[Ver vídeo ↗](https://video.twimg.com/amplify_video/2096067890562883584/vid/avc1/1902x886/89DcMKBb55ZmEHTh.mp4?tag=29) · [Publicação original](https://x.com/ChenshuoAI/status/2096068401294929940) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2096766465730847059"></a>
+
+### Asset de jogo de minifig LEGO com Blender MCP
+
+[Simon Smith](https://x.com/_simonsmith) · 2026-09-07
+
+<a href="https://x.com/_simonsmith/status/2096766465730847059"><img src="../assets/previews/2b65a179759aadacaa8dcf78ecfd45f3e7dcd04b4d1f535bc553c3d9f7505f2d.jpg" width="840" loading="lazy" alt="Asset de jogo de minifig LEGO com Blender MCP"></a>
+
+Cria uma versão de Donald Trump em formato de minifig LEGO como um asset de jogo AAA de alta qualidade usando o Blender MCP.
+
+**Prompt**
+
+```text
+Use o Blender MCP para criar uma versão de Donald Trump em formato de minifig LEGO que eu possa usar como asset de jogo. Garanta uma qualidade excepcional, no nível de um jogo AAA, e avalie rigorosamente o resultado para confirmar que ele seja detalhado, preciso e excelente.
+```
+
+[Ver vídeo ↗](https://video.twimg.com/amplify_video/2096766389113556999/vid/avc1/1920x1080/t6dpye7hPDiWK9D2.mp4?tag=29) · [Publicação original](https://x.com/_simonsmith/status/2096766465730847059) · [Voltar aos exemplos](#all-prompts)
 
 ---
 

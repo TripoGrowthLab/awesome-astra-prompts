@@ -27,13 +27,13 @@
 
 探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。
 
-**153 条案例 · 14 种语言 · 6 条附项目源码**
+**155 条案例 · 14 种语言 · 6 条附项目源码**
 
 ## 精选作品
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/zh/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/featured/2095596175705399482.webp" width="420" loading="lazy" alt="Unreal 自主人类生存社会"></a><br><strong><a href="#2095596175705399482">Unreal 自主人类生存社会</a></strong><br><sub><a href="https://x.com/mattshumer_/status/2095596175705399482">Matt Shumer</a></sub><br><a href="#2095596175705399482">提示词 →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/zh/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525"><img src="../assets/featured/2095609734845927525.webp" width="420" loading="lazy" alt="逐街复刻曼哈顿 Unreal 世界"></a><br><strong><a href="#2095609734845927525">逐街复刻曼哈顿 Unreal 世界</a></strong><br><sub><a href="https://x.com/mattshumer_/status/2095609734845927525">Matt Shumer</a></sub><br><a href="#2095609734845927525">提示词 →</a></td>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/zh/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/featured/2096251574918013135.webp" width="420" loading="lazy" alt="怪兽城市战斗"></a><br><strong><a href="#2096251574918013135">怪兽城市战斗</a></strong><br><sub><a href="https://x.com/majidmanzarpour/status/2096251574918013135">Majid Manzarpour</a></sub><br><a href="#2096251574918013135">提示词 →</a></td>
 </tr>
 <tr>
@@ -57,6 +57,8 @@
 - [体素克卢日-纳波卡联合广场](#2096262733259837681) · GitHub
 - [Unreal 自主人类生存社会](#2095596175705399482)
 - [逐街复刻曼哈顿 Unreal 世界](#2095609734845927525)
+- [用概念图驱动 Astra 制作粗糙的 3D 小游戏](#2096068401294929940)
+- [使用 Blender MCP 制作 LEGO 人仔游戏资产](#2096766465730847059)
 - [怪兽城市战斗](#2096251574918013135)
 - [Blender 现代别墅场景](#2095636679264780481)
 - [Blender 角色表情切换](#2096525100518453342)
@@ -346,6 +348,46 @@
 ```
 
 [查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [观看视频 ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095609426770010113-video-05968f9d59fb.mp4) · [查看原帖](https://x.com/mattshumer_/status/2095609734845927525) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2096068401294929940"></a>
+
+### 用概念图驱动 Astra 制作粗糙的 3D 小游戏
+
+[陈硕KAI](https://x.com/ChenshuoAI) · 2026-09-05
+
+<a href="https://x.com/ChenshuoAI/status/2096068401294929940"><img src="../assets/previews/e292ca90b7878b4d444f462a178fe416099145cd661aeda4f5de200e21d3afee.jpg" width="840" loading="lazy" alt="用概念图驱动 Astra 制作粗糙的 3D 小游戏"></a>
+
+作者分享了使用 Codex、Blender MCP 和 Astra 制作粗糙 3D 小游戏的流程：先生成目标概念图，再通过截图对比持续修改游戏画面，并保持 60fps。
+
+**提示词**
+
+```text
+悲伤但美丽的反乌托邦世界，体素 / Low Poly 风格，雨夜、薄雾、湿地反射、冷蓝色环境 + 暖橙色灯光，灯光要尽量真实、有电影感
+```
+
+[观看视频 ↗](https://video.twimg.com/amplify_video/2096067890562883584/vid/avc1/1902x886/89DcMKBb55ZmEHTh.mp4?tag=29) · [查看原帖](https://x.com/ChenshuoAI/status/2096068401294929940) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2096766465730847059"></a>
+
+### 使用 Blender MCP 制作 LEGO 人仔游戏资产
+
+[Simon Smith](https://x.com/_simonsmith) · 2026-09-07
+
+<a href="https://x.com/_simonsmith/status/2096766465730847059"><img src="../assets/previews/2b65a179759aadacaa8dcf78ecfd45f3e7dcd04b4d1f535bc553c3d9f7505f2d.jpg" width="840" loading="lazy" alt="使用 Blender MCP 制作 LEGO 人仔游戏资产"></a>
+
+使用 Blender MCP，将唐纳德·特朗普制作成高品质 AAA 级游戏资产的 LEGO 人仔版本。
+
+**提示词**
+
+```text
+使用 Blender MCP 制作一个唐纳德·特朗普的 LEGO 人仔版本，供我用作游戏资产。请达到卓越品质和 AAA 级游戏资产标准，并反复检查和验证作品，确保细节丰富、还原准确、整体出色。
+```
+
+[观看视频 ↗](https://video.twimg.com/amplify_video/2096766389113556999/vid/avc1/1920x1080/t6dpye7hPDiWK9D2.mp4?tag=29) · [查看原帖](https://x.com/_simonsmith/status/2096766465730847059) · [返回案例导航](#all-prompts)
 
 ---
 
