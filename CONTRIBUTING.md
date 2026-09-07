@@ -1,28 +1,42 @@
 # Add something worth building
 
-We welcome Astra examples with a visible result and a traceable source. Games, interactive websites, explorable scenes, simulations and Blender projects all belong here.
+We welcome Astra games, interactive websites, explorable scenes, simulations and Blender projects with a visible result and a traceable source.
 
-## Before submitting
+[Suggest an example](https://github.com/TripoGrowthLab/awesome-astra-prompts/issues/new) with the original author, post URL, date, preview and any available prompt, repository or demo. Search the catalogs first to avoid duplicates. Check the author's replies for missing context. Respect creator attribution and removal requests.
 
-1. Search `data/prompts.json` for the source-post ID and project title. A different repost or camera angle of the same work is not automatically a new example.
-2. Include the original author, post URL, date and a useful preview image. Check the author's replies for the full prompt, demo or repository. Link the exact project; do not guess a repository from an account name.
-3. Label evidence honestly. Use `verbatim` only when the author published the prompt text. Otherwise write a clearly labeled `source-derived` brief. Never imply that an unpublished prompt was recovered.
-4. Include repository and demo links when available. Check the repository license before calling it open source. Third-party source code belongs in its original repository, not copied into this one.
-5. Keep author attribution and respect rights/removal requests. Do not upload credentials, private conversations, raw research logs or engagement metrics.
+Maintainers curate the accepted content and its translations in Growth CMS. Keep provenance accurate in the CMS evidence fields; do not present reconstructed text as the author's original words. Only published Astra records are synchronized. A CMS editor must complete the localized title and prompt for all 14 languages before publication.
 
-An issue with these details is enough; you do not have to translate fourteen languages yourself. Maintainers can curate and localize an accepted contribution before adding it to the dataset. Translations should preserve the task and technical terms, not add capabilities or promises absent from the source.
+## Development
 
-## Maintainer checks
-
-Use Node.js 22 or newer. No package install or service credentials are needed to validate an existing checkout.
+Use Node.js 22.16 or newer. The existing Markdown can be read and checked without a CMS account.
 
 ```sh
-npm run catalog
+npm ci
 npm run check
 ```
 
-For a source snapshot refresh, use the optional exporter described in [the data guide](data/README.md), then `npm run vendor-media`, `npm run featured-media` and `npm run catalog`. Review every data change before committing. The media step fetches public source files and updates checksums; it does not write to a CMS. Featured thumbnail generation requires installed `ffmpeg` and `cwebp` commands, preserves full source frames, and writes separate 16:10 WebP previews. It never changes the full-size source images.
+For a live refresh, copy `.env.example` to `.env.local` and supply a read-only CMS User API Key. Keep that file private.
 
-`data/prompts.json` carries the website's ordered `featuredIds`, so the two galleries use one selection. Keep video URLs in the independent `media.video` field. README previews link to the localized web detail page; direct video links remain available because GitHub does not reliably autoplay external videos.
+```sh
+npm run verify:cms
+npm run sync
+npm run check
+# Check that the committed output still matches the live CMS:
+npm run sync -- --check
+```
 
-Update all locale records, counts and manifests together. Preserve stable IDs. Do not replace source screenshots with AI-generated illustrations. The cover artwork is separately identified as conceptual.
+The generated catalogs, READMEs, source-code index and preview images are output artifacts. Edit content in CMS and presentation in `scripts/lib/render.mjs` or `scripts/lib/locales.mjs`. Do not edit generated Markdown directly. There is no local source dataset or legacy website-export fallback.
+
+## Scheduled publishing
+
+[Sync prompts](https://github.com/TripoGrowthLab/awesome-astra-prompts/actions/workflows/sync-prompts.yml) runs twice daily at 00:23 and 12:23 UTC (08:23 and 20:23 Asia/Shanghai), and supports manual dispatch. GitHub schedules can be delayed; public repository schedules may be disabled after 60 days without repository activity. Workflow status and logs are the source of truth for each run.
+
+Repository secret `CMS_API_KEY` is required. Optional repository variable `CMS_URL` overrides the default CMS origin. The job runs only on the canonical repository. Pull-request checks never receive the CMS key. The sync job uses a read-only CMS identity and a repository-scoped GitHub token to commit validated output.
+
+The job resolves the Astra model by slug, reads all published records with pagination and locale fallback disabled, and requires complete localized titles and prompts. Translation is managed in CMS; this repository does not enqueue or regenerate translations. Draft and review records stay out of the public collection.
+
+Images are downloaded with authentication, verified, and stored as public repository assets. Only published prompt image relations are exported. Unchanged images reuse a verified checksum; new featured thumbnails preserve the full frame in a 16:10 letterbox. Public video provenance URLs remain links; private-only uploads use their source-post links instead. Preview links point to migrated public detail pages where available.
+
+Pagination errors, missing translations, invalid images, or concurrent CMS edits stop the run before updating generated files. Staged output passes link and checksum validation first. Local write errors roll back; a successful GitHub run publishes all output in one commit. Content removals in CMS remove the corresponding generated entries and unused images on the next successful sync. Empty collections are rejected for review.
+
+Raw CMS records, private media URLs, user details, source snapshots and credentials are never committed. `docs/sync-manifest.json` contains only public IDs, coverage counts and output checksums; `assets/manifest.json` records generated media checksums and public attribution. Neither is an editable prompt dataset.

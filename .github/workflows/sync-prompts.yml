@@ -1,0 +1,45 @@
+name: Sync prompts
+on:
+  schedule:
+    # 08:23 and 20:23 Asia/Shanghai. Avoid the busy top of the hour.
+    - cron: '23 0,12 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: sync-prompts-main
+  cancel-in-progress: false
+jobs:
+  sync:
+    if: github.repository == 'TripoGrowthLab/awesome-astra-prompts' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - name: Fetch published CMS content and generate all languages
+        env:
+          CMS_URL: ${{ vars.CMS_URL || 'https://cms.tripogrowth.space' }}
+          CMS_API_KEY: ${{ secrets.CMS_API_KEY }}
+        run: npm run sync
+      - run: npm run check
+      - name: Publish changes
+        run: |
+          git add -- README.md README.zh-CN.md docs/catalog.*.md docs/with-code.md docs/sync-manifest.json assets/manifest.json assets/previews assets/featured
+          if git diff --cached --quiet; then
+            echo "CMS content is unchanged."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "docs: sync published Astra prompts from CMS"
+          # A competing change must cause a clean failure, never overwrite newer work.
+          git push origin HEAD:main

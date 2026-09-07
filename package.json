@@ -4,12 +4,18 @@
   "private": true,
   "type": "module",
   "description": "Source-linked Astra prompts and 3D examples for games, scenes and interactive worlds.",
-  "engines": { "node": ">=22" },
+  "engines": {
+    "node": ">=22.16"
+  },
   "scripts": {
-    "catalog": "node scripts/build-catalogs.mjs",
+    "sync": "node --env-file-if-exists=.env.local scripts/sync-cms.mjs",
+    "catalog": "npm run sync",
+    "verify:cms": "npm run sync -- --verify-only",
     "validate": "node scripts/validate.mjs",
-    "check": "node scripts/build-catalogs.mjs --check && node scripts/validate.mjs",
-    "vendor-media": "node scripts/vendor-media.mjs",
-    "featured-media": "node scripts/build-featured-media.mjs"
+    "test": "node --test scripts/*.test.mjs",
+    "check": "npm test && npm run validate"
+  },
+  "dependencies": {
+    "sharp": "0.35.4"
   }
 }
