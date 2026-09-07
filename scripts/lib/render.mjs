@@ -70,7 +70,7 @@ export function renderCatalog(prompts, locale, prefix = '') {
     const entry = prompt.translations[locale.code]
     lines.push(`<a id="${prompt.id}"></a>`, '', `### ${md(entry.title)}`, '', `${link(prompt.author.name, prompt.author.url)} · ${prompt.date}`, '')
     for (const image of prompt.images) lines.push(preview(prompt, entry, locale, prefix + image), '')
-    if (entry.description && descriptionCounts.get(entry.description) === 1) lines.push(md(entry.description), '')
+    if (entry.description && entry.description.trim() !== entry.prompt.trim() && descriptionCounts.get(entry.description) === 1) lines.push(md(entry.description), '')
     lines.push(`**${locale.prompt}**`, '', fenced(entry.prompt), '', links(prompt, locale), '', '---', '')
   }
   if (en || zh) {
