@@ -230,8 +230,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608"><img src="../assets/previews/70ad9e97aa42a918999866fdd0d26b3bd8d90b8440e25540820954c484bc5d75.webp" width="840" loading="lazy" alt="Gogh Strike 多人射擊"></a>
 
-建立後印象派風格的 5 對 5 第一人稱射擊遊戲，包含 Blender 渲染藝術家角色、清晰隊伍和完整瀏覽器多人比賽。
-
 **提示詞**
 
 ```text
@@ -249,8 +247,6 @@
 [Alexey Fateev](https://x.com/superalesha) · 2026-09-04
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792"><img src="../assets/previews/b8e73f6ab2b929800dd1778704bdf9b18c9f9fd7b31b234b32d26e3149454681.webp" width="840" loading="lazy" alt="大教堂動作戰鬥場"></a>
-
-在死星上方的大教堂中建置第三人稱 Three.js 動作遊戲，包含輕劍連擊、重攻擊、範圍魔法、閃避和腳步落地的雙手動畫。
 
 **提示詞**
 
@@ -270,8 +266,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/anti-gravity-combat-racer-2095967568825582044"><img src="../assets/previews/76744b47af990773233664a67e783a95d9633b7f214b74198217e6dc358db9a2.webp" width="840" loading="lazy" alt="反重力戰鬥賽車"></a>
 
-用 Three.js 建置高速反重力戰鬥競速，加入漂移、加速、傾斜鏡頭、空氣制動和護盾道具，在外星高架賽道提供輕型、均衡和重型飛行器。
-
 **提示詞**
 
 ```text
@@ -290,8 +284,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181"><img src="../assets/previews/6e5f5eddec63a18ae0d3ecf97b602134366d92611a36c4729098b5c8bb9c4275.webp" width="840" loading="lazy" alt="可互動的雙環能量核心"></a>
 
-在 Blender 中建立能量核心、兩個圓環與金屬底座。連同材質匯出至 Three.js 檢視器，提供旋轉、縮放、自動環繞與脈動效果控制。
-
 **提示詞**
 
 ```text
@@ -309,8 +301,6 @@
 [Dan Manastireanu](https://x.com/danmana) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681"><img src="../assets/previews/6fbb5254f46d92a8688194420483c835fad03380a827128eb4d94e627d32f961.webp" width="840" loading="lazy" alt="體素版克盧日－納波卡統一廣場"></a>
-
-將克盧日－納波卡的 Piața Unirii（統一廣場）製作成互動式體素世界。保留廣場可辨識的配置與地標，改編為可探索的微縮場景。
 
 **提示詞**
 
@@ -366,8 +356,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/previews/8f55d646820e4f1f0b98d00cdc85125c79f19093abe73bc0cecdfbf2e2365e50.webp" width="840" loading="lazy" alt="怪獸城市戰鬥"></a>
 
-使用生成的生物模型與音效製作怪獸風格 Three.js 遊戲，建置清晰的巨型戰鬥和體現生物尺度的環境。
-
 **提示詞**
 
 ```text
@@ -403,8 +391,6 @@
 [Nano(ナノ)](https://x.com/Dstudio_ai) · 2026-09-06
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/previews/e172122424c525a2dfb3968370d9707b0f7f661172fde0f5cf326ba550884780.webp" width="840" loading="lazy" alt="在 Blender 中切換角色表情"></a>
-
-在綁定骨架前，先於 Blender 中準備 Tripo 角色的不同表情版本。對齊網格，將未啟用的版本縮小並藏入頭部，以逐個切換的方式改變表情。不要宣稱能平滑混合表情或相容 VRM。
 
 **提示詞**
 
@@ -1252,8 +1238,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629"><img src="../assets/previews/368d9d79144335c0bffc9ca9cbf1cd20a45c4813434007fe798abb04d279baf4.webp" width="840" loading="lazy" alt="魯布·戈德堡連鎖機械"></a>
 
-在獨立 Three.js HTML 檔案中建立魯布·戈德堡機械，透過一連串機械互動最終按下按鈕並觸發戲劇化爆炸。
-
 **提示詞**
 
 ```text
@@ -1271,8 +1255,6 @@
 [vikas sabbi](https://x.com/vikassabbi) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/explorable-taj-mahal-2096035962824335798"><img src="../assets/previews/afd70948169390c74fbefd9c607465c9663d0d4af1a4c2dfba2e867af6ad85e3.webp" width="840" loading="lazy" alt="可探索的泰姬陵"></a>
-
-將泰姬陵重建為可探索的 3D 場景，優先還原比例、對稱花園、中央穹頂、宣禮塔及建築之間的關係。
 
 **提示詞**
 
@@ -1292,8 +1274,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/orbital-rendezvous-simulator-2096225621303042258"><img src="../assets/previews/42e7d7821256b5c0e0d6ef4267f582a3a9406817642abaecae99cc2e479b733f.webp" width="840" loading="lazy" alt="軌道交會對接模擬"></a>
 
-建置實時軌道交會模擬，採用雙體 ECI 軌道傳播與 HCW 制導，包含六自由度姿態、燃料消耗、推力限制和對接目標。
-
 **提示詞**
 
 ```text
@@ -1311,8 +1291,6 @@
 [Alex](https://x.com/NarvisAlex) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/reference-image-tugboat-assembly-2096180220839760375"><img src="../assets/previews/c2a965c19b4319993a70a4a31d66043dfa9db1a79aa3c9acc72a8b7cc5b5444d.webp" width="840" loading="lazy" alt="參考圖轉拖船模型"></a>
-
-根據參考圖在 Blender 中重建拖船，製作船體、傾斜駕駛室、甲板附件與拖曳裝置，將不同視角統一成結構連貫的船。
 
 **提示詞**
 
@@ -1332,8 +1310,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794"><img src="../assets/previews/eab0ddb7ed59c8047050debd215c64dfaf6899097f28386376a4b95efce9212b.webp" width="840" loading="lazy" alt="單檢視電鑽重建"></a>
 
-根據單張參考圖在 Blender 中重建電鑽，將外殼、握柄、夾頭與控制件做成可編輯幾何體，並從多個角度檢視。
-
 **提示詞**
 
 ```text
@@ -1351,8 +1327,6 @@
 [Max](https://x.com/MozeTech) · 2026-09-04
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/3d-slingshot-bird-game-2095981655370666076"><img src="../assets/previews/b9fc3db28e9b9b586476b7061626618fe3e415e82cd786ce582b3ef7190affb8.webp" width="840" loading="lazy" alt="3D 彈弓小鳥遊戲"></a>
-
-製作 3D 彈弓遊戲，包含四種具有不同技能的小鳥、瞄準釋放操作、可破壞結構與可重玩的計分迴圈。
 
 **提示詞**
 
@@ -1372,8 +1346,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/bullet-time-third-person-shooter-2095962376344309843"><img src="../assets/previews/c0c429e42811528f60da5ae7d9c24faf99aa2703686691832b53556fa25399a3.webp" width="840" loading="lazy" alt="子彈時間第三人稱射擊"></a>
 
-建置受馬克思佩恩啟發的 Three.js 第三人稱射擊遊戲，重點實現慢動作、靈敏槍戰及有效的跟隨鏡頭。
-
 **提示詞**
 
 ```text
@@ -1391,8 +1363,6 @@
 [Scott](https://x.com/scottstts) · 2026-09-04
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/bouncy-webgpu-jelly-2096008241104711698"><img src="../assets/previews/cf4454a16a06ed243c203b314acb3f3921df60350cf2670c6b1f0f1ad882f95e.webp" width="840" loading="lazy" alt="可點選彈跳的 WebGPU 果凍"></a>
-
-用 Three.js 和 WebGPU 製作誘人的彈跳果凍，讓它在互動後自然變形與回彈，配合半透明材質和清晰燈光。
 
 **提示詞**
 
@@ -1412,8 +1382,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-ps5-controller-2095967131573649552"><img src="../assets/previews/c17fee4a534e826e0ab35517c7117265376b14535dd59dcaf6c88989a25a5f72.webp" width="840" loading="lazy" alt="可互動的 PS5 手柄"></a>
 
-在 Three.js 中建立可檢視的 PS5 手柄，還原輪廓、按鍵、扳機、搖桿與不同表面材質。
-
 **提示詞**
 
 ```text
@@ -1431,8 +1399,6 @@
 [Rishi](https://x.com/0xRishi) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/astral-war-browser-shooter-2096079660605997264"><img src="../assets/previews/10cc70e94dc0a8e6605b4b081d0e8b3a07c3a6e64ed6d3c8082b4db38d0e89d5.webp" width="840" loading="lazy" alt="Astral War 瀏覽器射擊遊戲"></a>
-
-用 Three.js 建置受戰爭世界啟發的瀏覽器射擊遊戲，提供完整可玩戰場、靈敏戰鬥、空間音效、角色資產與比賽流程。
 
 **提示詞**
 
@@ -1452,8 +1418,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502"><img src="../assets/previews/1bfc13d5447aa0038e2789f8f084e20c3011e2f2e5399e340574851b76f24526.webp" width="840" loading="lazy" alt="原理圖 PDF 轉 PCB 與 3D 檢視"></a>
 
-根據原理圖 PDF 在 KiCad 中修改電路，佈線 50×20 毫米雙層 PCB 並渲染 3D 裝配，核對元件資料並解決設計規則錯誤。
-
 **提示詞**
 
 ```text
@@ -1471,8 +1435,6 @@
 [Givros](https://x.com/givros) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/browser-flight-game-2096149823216898445"><img src="../assets/previews/094260e4ea7a88a23850bb8e25f4952257e74479fab70f9773f1972c6bfab80f.webp" width="840" loading="lazy" alt="瀏覽器飛行遊戲"></a>
-
-從空專案建置完整瀏覽器 3D 飛行遊戲，提供可控飛行、可探索環境、明確目標與連貫視覺呈現。
 
 **提示詞**
 
@@ -1492,8 +1454,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-globe-dashboard-2096082432197837065"><img src="../assets/previews/ce8131795b341edda606ed94a2d7d3799f30eaf33e318069ad675403fcf05be2.webp" width="840" loading="lazy" alt="互動式地球儀儀表盤"></a>
 
-根據參考圖重建 Three.js 地球儀儀表盤，包含晝夜模式、清晰地理資料與符合參考的可用控制元件。
-
 **提示詞**
 
 ```text
@@ -1511,8 +1471,6 @@
 [taesiri](https://x.com/taesiri) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/azadi-tower-in-blender-2096107322536051057"><img src="../assets/previews/dccea8a39052877e2e5c83c92d0b0b7d668cf6b430894fce95a7e7291ef23dd5.webp" width="840" loading="lazy" alt="Blender 自由紀念塔"></a>
-
-建立可編輯的 Blender 自由紀念塔模型，重點還原外展基座、交叉拱門、表面圖案與可識別比例。
 
 **提示詞**
 
@@ -1532,8 +1490,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132"><img src="../assets/previews/a315174ac48f5392bb9a0a9ecb0f7948a9a2d1bf33f9f32f4cdfdb6c553a89ff.webp" width="840" loading="lazy" alt="滾動驅動的 3D 工作室網站"></a>
 
-將參考圖轉成 Three.js 場景並融入滾動驅動的工作室網站，協調鏡頭運動、文字排版與章節過渡。
-
 **提示詞**
 
 ```text
@@ -1551,8 +1507,6 @@
 [AJ](https://x.com/ItsmeAjayKV) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/komorebi-river-kayaking-2096244208533455049"><img src="../assets/previews/177462bb87e3089acbf23e2e6f58e75e4fa5cb7291601fdce6da2a3fb5f2b6af.webp" width="840" loading="lazy" alt="Komorebi 河流皮划艇"></a>
-
-製作動漫風格的 3D 河流皮划艇遊戲，讓玩家左右划槳躲避障礙，透過程式碼生成流水、風景、音樂與音效。
 
 **提示詞**
 
@@ -1572,8 +1526,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/refractive-bottle-product-story-2096243989439713677"><img src="../assets/previews/0752e3417e975ec333d58ef948643def758c883afb543c38e664b40f45d11b43.webp" width="840" loading="lazy" alt="折射玻璃瓶產品敘事"></a>
 
-圍繞寫實 WebGL 玻璃瓶建置互動產品網站，採用折射液體、滾動旋轉與醒目文字，同時保證瀏覽器效能。
-
 **提示詞**
 
 ```text
@@ -1591,8 +1543,6 @@
 [Tom Krcha](https://x.com/tomkrcha) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041"><img src="../assets/previews/1bd8465e8c05d9d383153498b2c95c5acf8b9785a79e668bf0a5e04cef48f5f6.webp" width="840" loading="lazy" alt="可拆解的程式化火車元件"></a>
-
-根據尺寸、截面和幾何函式在 Three.js 中生成兩列火車，製作車輪動畫，提供爆炸分解與重組展示。
 
 **提示詞**
 
@@ -1612,8 +1562,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/a-playful-toddler-toy-world-2096201415051911597"><img src="../assets/previews/965f7261ca51d323b38ae9c6c0970182ce8417113527c8c5cd4bd42c0473354c.webp" width="840" loading="lazy" alt="幼兒玩具互動世界"></a>
 
-建立溫暖的 Three.js 遊戲室，讓幼兒在玩具間移動並使用不同動畫玩耍，包含爬爬墊、書、架子與攀爬設施，支援環繞和縮放。
-
 **提示詞**
 
 ```text
@@ -1631,8 +1579,6 @@
 [Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/live-jet-manufacturing-plant-2096122429319852319"><img src="../assets/previews/88e94868f034bdf39f97a336b683c3eb911bcf58a404de83d7dc8106868f481d.webp" width="840" loading="lazy" alt="實時飛機制造工廠"></a>
-
-研究飛機制造並建立實時 Three.js 工廠模擬，建模機械週期、生產工位、運輸與瓶頸，並測試流程。
 
 **提示詞**
 
@@ -1652,8 +1598,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648"><img src="../assets/previews/631562c3a38f51debed3cd6a3155680ea14b83678ceee3fb384ea95f3b8a3eb5.webp" width="840" loading="lazy" alt="困在立方體中的風暴"></a>
 
-用 Three.js 生成困在立方體中的風暴，並讓天氣可以控制。
-
 **提示詞**
 
 ```text
@@ -1671,8 +1615,6 @@
 [Ethan Mollick](https://x.com/emollick) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620"><img src="../assets/previews/88fedcd618dd733a21f549d866389ac4f0e075ece0c2e562713dccc7346d842b.webp" width="840" loading="lazy" alt="Zork 轉 3D 動作冒險"></a>
-
-將經典文字冒險 Zork 製作為 3D 動作冒險，保留故事和謎題，增加戰鬥，並用 Three.js 建立角色和環境。
 
 **提示詞**
 
@@ -1692,8 +1634,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/rigged-and-animated-t-rex-2096133339329536249"><img src="../assets/previews/6bf58344b93f183cd25507533e35628c41a22155c9dd4b95ef1098724ee176c4.webp" width="840" loading="lazy" alt="繫結與動畫霸王龍"></a>
 
-將生成的霸王龍模型繫結並製作可信運動，在 Three.js 中渲染並檢查模型變形是否協調。
-
 **提示詞**
 
 ```text
@@ -1711,8 +1651,6 @@
 [Sagi Polaczek 🦜](https://x.com/PolaczekSagi) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198"><img src="../assets/previews/3990cf9279eb906cfc9303f3ed9459d6600479ea83c7ddc908d4d74398345d3b.webp" width="840" loading="lazy" alt="咖啡杯裡的海洋生命"></a>
-
-用 Three.js 在咖啡杯中建立微型海洋生態，透過鏡頭展示水生生命，同時保持杯子與微縮尺度清晰。
 
 **提示詞**
 
@@ -1732,8 +1670,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-hyperloop-demo-2096250748099068377"><img src="../assets/previews/6fe7e10c4907c28861e51727de19f2b115f6c9d7ffab6b0288b6cb0fc8f250e2.webp" width="840" loading="lazy" alt="互動式超級高鐵演示"></a>
 
-建置互動式 Three.js 超級高鐵演示，展示運輸艙、管道設施及系統中的執行過程。
-
 **提示詞**
 
 ```text
@@ -1751,8 +1687,6 @@
 [Le PLOUTOS](https://x.com/leploutos) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-napoleon-bust-2096234355395903672"><img src="../assets/previews/fda483263b1b7468f091f1798d7841bcfb9b983bc7659ca2ef491c23f3bbc948.webp" width="840" loading="lazy" alt="程式化拿破崙半身像"></a>
-
-用 Three.js 編寫拿破崙半身像，分階段建模，從不同角度檢視並完善臉部比例和服裝細節。
 
 **提示詞**
 
@@ -1772,8 +1706,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/railway-station-concourse-2096226711222546461"><img src="../assets/previews/ec572c18e5e02ac65512d6d72ffe09c5afb807b131336ac8b75d13aefb86899c.webp" width="840" loading="lazy" alt="鐵路車站大廳"></a>
 
-建立具有鮮明建築節奏、可信尺度和材質的鐵路車站大廳，提供可檢視的 3D 場景與精心構圖視角。
-
 **提示詞**
 
 ```text
@@ -1791,8 +1723,6 @@
 [Emil](https://x.com/EmilHovv) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/animated-onboarding-diorama-2096222790894661841"><img src="../assets/previews/42b972bdf19630b039a0b32ca1d30631228ee68665a29e37dafa1a63b9090fe2.webp" width="840" loading="lazy" alt="動畫引導微縮場景"></a>
-
-在 Blender 中建立引導微縮場景，並用 Three.js 呈現，以清晰核心物體和短動畫解釋使用者首次操作。
 
 **提示詞**
 
@@ -1812,8 +1742,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897"><img src="../assets/previews/3b47ced29ac0872998aed94cda19d2bd5e5c555f15f2023481336c68a8ce23d5.webp" width="840" loading="lazy" alt="OX Vice Drive 開放城市駕駛"></a>
 
-建立開放城市瀏覽器駕駛遊戲，包含交通、漂移與送貨競速，設計適合探索的海濱城市和完整駕駛迴圈。
-
 **提示詞**
 
 ```text
@@ -1831,8 +1759,6 @@
 [daniel](https://x.com/buildingadlicio) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842"><img src="../assets/previews/4d8530d89c735d14003f2bf753e2cb73013a740e9c0e65d9e76d876331480777.webp" width="840" loading="lazy" alt="手遊廣告轉可玩遊戲"></a>
-
-以手遊廣告為參考製作可玩的瀏覽器遊戲，還原核心互動並透過 Blender 資產匹配視覺設定。
 
 **提示詞**
 
@@ -1852,8 +1778,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412"><img src="../assets/previews/da567da60113f6fde02427585999b127ca13beb4999807b35630e9683d184156.webp" width="840" loading="lazy" alt="Roblox 動漫競技格鬥"></a>
 
-建立受動漫跨界戰鬥啟發的 Roblox 競技格鬥，利用 Blender 和可用資產製作場地與角色，實現可玩的戰鬥迴圈。
-
 **提示詞**
 
 ```text
@@ -1871,8 +1795,6 @@
 [achepta](https://x.com/achepta_tm) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880"><img src="../assets/previews/da595232495fdcdcd646614361e119ff7b780672c6c697364c0197cc19302fd1.webp" width="840" loading="lazy" alt="C# 與 WASM 瀏覽器賽車物理"></a>
-
-用 C# 重建賽道狂飆風格賽車物理，透過 WASM 執行並用 Three.js 渲染，使用可碰撞賽道網格並測試操控。
 
 **提示詞**
 
@@ -1892,8 +1814,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503"><img src="../assets/previews/b667cbe461565dc1ef4c531685416b80150c3a7eec1c861e8bdd3a875c750845.webp" width="840" loading="lazy" alt="自動角色繫結與功夫動作"></a>
 
-為給定 3D 角色建立骨骼，增加行走、跑步及幾段功夫動作，並檢查動畫中的關節破損和姿態不穩。
-
 **提示詞**
 
 ```text
@@ -1911,8 +1831,6 @@
 [NOCTAVIA™](https://x.com/noctav1a) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/artwork-to-a-playable-character-2096107343268257953"><img src="../assets/previews/bb636fabd44b05a7797b41240daa9f1e59caead85ba6c1973dc01518d1488270.webp" width="840" loading="lazy" alt="藝術作品轉可玩角色"></a>
-
-把 Noctavia 角色藝術作品重建為可玩的 3D 角色，保留設計語言並建立適合互動展示的完整模型。
 
 **提示詞**
 
@@ -1932,8 +1850,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"><img src="../assets/previews/8ed97e5172601ffcf208eb587d99f92e196223a26d8af5f2f223d1d1d3e5b018.webp" width="840" loading="lazy" alt="帶演講地球儀的個人 3D 作品集"></a>
 
-將肖像轉成 Blender 角色並放入編輯式 WebGL 作品集，加入標出演講活動的旋轉地球儀並整合網站資產。
-
 **提示詞**
 
 ```text
@@ -1951,8 +1867,6 @@
 [AiBattle](https://x.com/AiBattle_) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086"><img src="../assets/previews/4b1d7461ea62bbcb07bb6a8c85e96382b2a7778f1cd0f36627fbfdd6ca04eb29.webp" width="840" loading="lazy" alt="索尼克風格 Godot 遊戲切片"></a>
-
-利用本地和程式化資產在 Godot 中建立精緻索尼克風格 3D 關卡，優先完善慣性、靈敏移動、圓環、迴環、滑軌與連貫熱帶海岸。
 
 **提示詞**
 
@@ -1972,8 +1886,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/viking-character-in-blender-2096140378777010278"><img src="../assets/previews/47571b98331669c487a6b59fb8d0b20e3d4a0859d799fb78d35e4b387ee3c3e3.webp" width="840" loading="lazy" alt="Blender 維京角色"></a>
 
-在 Blender 中製作可編輯 3D 維京角色，重點處理可識別服裝、面部結構、身體比例和清晰展示姿態。
-
 **提示詞**
 
 ```text
@@ -1991,8 +1903,6 @@
 [MotionViz](https://x.com/Motion_Viz) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/dropzone-battle-royale-arena-2096155883122413946"><img src="../assets/previews/37245ebc3775536860092d7f7f05f5cd0907a4133d401898a7e97b42db8eade2.webp" width="840" loading="lazy" alt="Dropzone 大逃殺競技場"></a>
-
-製作第三人稱瀏覽器大逃殺，包含風暴圈、九個 AI 敵人、脈衝步槍、生命值和換彈，加入可搭建掩體和完整淘汰迴圈。
 
 **提示詞**
 
@@ -2012,8 +1922,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449"><img src="../assets/previews/5dd1b274746b07e46ff01137341ad552598616ba9af701ced49bdef5ad600236.webp" width="840" loading="lazy" alt="蘇州博物館花園漫遊"></a>
 
-參考蘇州博物館網頁在 Blender 中重建花園，製作連續漫遊，保留現代建築與傳統中式園林之間的關係。
-
 **提示詞**
 
 ```text
@@ -2031,8 +1939,6 @@
 [Arda Tuğsat](https://x.com/ArdaTugsat) · 2026-09-04
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-titan-science-exhibit-2095986941753712841"><img src="../assets/previews/01903613570d42ab83a5886a4e782efb0a9532c357a8634dec0390816846a0d5.webp" width="840" loading="lazy" alt="土衛六互動科學展覽"></a>
-
-建立土星最大衛星土衛六的教育型 3D 模擬，提供可探索環境及解釋其獨特物理特徵的資訊層。
 
 **提示詞**
 
@@ -2052,8 +1958,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/evolving-webgl-ecosystem-2096040448477515874"><img src="../assets/previews/417256d668a87f961903739f369ecbb7a6117dc44719b3527c78dfe4e6c667e5.webp" width="840" loading="lazy" alt="演化中的 WebGL 生態系統"></a>
 
-在單個 HTML 檔案中用原生 WebGL 和 GLSL 建立 3D 演化生態，讓突變、自然選擇、捕食、能量使用與多細胞結合互相作用。
-
 **提示詞**
 
 ```text
@@ -2071,8 +1975,6 @@
 [AgentworkflowLab](https://x.com/AgentWorkflowLa) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742"><img src="../assets/previews/1f3a527d5461971e3394745b2e68ad5fd245d9e66bf5f4c7f9913dd356d76c29.webp" width="840" loading="lazy" alt="可關閉橋樑的配送網路"></a>
-
-建置 3D 配送模擬，讓關閉橋樑改變卡車路線，識別無法到達的目的地，並在路線恢復時重新配送。
 
 **提示詞**
 
@@ -2092,8 +1994,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605"><img src="../assets/previews/8342e2a2ae6ab568fa2fa8291e110aabe042660d3d32bd707cd7ce720ec6d7f1.webp" width="840" loading="lazy" alt="Sinclair ZX Spectrum 模擬器"></a>
 
-將 Sinclair ZX Spectrum 48K 重建為互動式 3D 桌面應用，包含橡膠鍵盤、磁帶機、開機介面、可玩遊戲與 BASIC 程式設計介面。
-
 **提示詞**
 
 ```text
@@ -2111,8 +2011,6 @@
 [Bilawal Sidhu](https://x.com/bilawalsidhu) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/photogrammetry-scan-to-editable-living-room-2096092080397246707"><img src="../assets/previews/d7643b0568a783c1fabde8c7898232d6f45ccab9bde5a939a4d9604db09919c9.webp" width="840" loading="lazy" alt="攝影測量掃描轉可編輯客廳"></a>
-
-根據攝影測量掃描在 Blender 中從零重建客廳，從掃描提取紋理，並在合適位置採用程式化著色器。
 
 **提示詞**
 
@@ -2132,8 +2030,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152"><img src="../assets/previews/f8e883bece1bb1220b1f35dfc38101d0cf0ad95355d2256dbd6b7acfd1989ea5.webp" width="840" loading="lazy" alt="奧德賽風格平臺冒險"></a>
 
-製作奧德賽風格 Three.js 關卡，包含八個平臺、三枚可收集月亮、迴旋帽攻擊、敵人和檢查點，加入觸控操作並完成試玩。
-
 **提示詞**
 
 ```text
@@ -2151,8 +2047,6 @@
 [ashe](https://x.com/ashebytes) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186"><img src="../assets/previews/73fbb8ce4494edce62d66860d9dc1aebc51a7a4032b056bd4712c2fa15e37c8f.webp" width="840" loading="lazy" alt="可拆解的人體解剖模型"></a>
-
-製作 3D 解剖網站，讓人體分解成可單獨檢視的結構，使爆炸檢視可導航，並按有意義的系統組織部件。
 
 **提示詞**
 
@@ -2172,8 +2066,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/tesla-model-x-exploded-view-2096009146248122416"><img src="../assets/previews/59bc5339c02dceeee7e021c906df70bf0c383e02d76a8c3d520bf7d5ebdb9ee8.webp" width="840" loading="lazy" alt="特斯拉 Model X 爆炸檢視"></a>
 
-建立將特斯拉 Model X 拆解為建模元件的 3D 網站，讓訪客互動檢視元件並重新組裝車輛。
-
 **提示詞**
 
 ```text
@@ -2191,8 +2083,6 @@
 [Gloria Zhang](https://x.com/gloria_zwq) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/memory-capsule-machine-2096241295949975602"><img src="../assets/previews/2623ee6ae5ad1e80ed6af68f48f0ef33bb34a6fc638f5fd6d55f8ab0de7b3625.webp" width="840" loading="lazy" alt="記憶扭蛋機"></a>
-
-建置 3D 記憶扭蛋機，轉動旋鈕釋放記憶，在 Blender 中建模機械結構，為掉落扭蛋新增可信運動和聲音。
 
 **提示詞**
 
@@ -2212,8 +2102,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/formula-one-car-in-blender-2096125193580113957"><img src="../assets/previews/7b1991638d1cf62afb53f325569e6277a15c2f61ec5f1991e3b4a6b0ef28f875.webp" width="840" loading="lazy" alt="Blender 一級方程式賽車"></a>
 
-透過計算機操作在 Blender 中建立 3D 一級方程式賽車模型。
-
 **提示詞**
 
 ```text
@@ -2231,8 +2119,6 @@
 [Lucca Cerf ➔ Pluma Finance](https://x.com/luccacerf) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420"><img src="../assets/previews/b6aa0b916788e64af33eff01ad8591efe62843e7ad986e9657eb5b31ce48b855.webp" width="840" loading="lazy" alt="以《魔獸爭霸》為靈感的 Unity 角色場景"></a>
-
-使用 Astra、Tripo P2、Blender 與 Unity，製作以《魔獸爭霸》為靈感的角色場景。先生成角色資產，在 Blender 中整理，再於 Unity 中組合成可遊玩的場景。
 
 **提示詞**
 
@@ -2252,8 +2138,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/three-js-battle-arena-with-tripo-assets-2096015772334047319"><img src="../assets/previews/fea90c1b2ce4c2c106216a41975e54b589967b2f8d6d37e2b10acd5153335267.webp" width="840" loading="lazy" alt="使用 Tripo 資產的 Three.js 戰鬥競技場"></a>
 
-使用 Three.js 製作可遊玩的戰鬥競技場。採用 Tripo 生成的角色與樹木，將它們整合至競技場和核心遊戲循環中。
-
 **提示詞**
 
 ```text
@@ -2271,8 +2155,6 @@
 [薄幸柄 / LAB](https://x.com/hatukougara) · 2026-09-06
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/rotatable-3d-shogi-board-2096579856133947507"><img src="../assets/previews/c6c11f611cd50ab65badd0bdeae3b4b91d1fd9e8da7d15c7ac7c5ccbb27b4d03.webp" width="840" loading="lazy" alt="可旋轉的 3D 將棋棋盤"></a>
-
-製作可對弈的 3D 將棋應用程式，讓棋盤能自由旋轉。透過多輪檢視，逐步改善棋盤、棋子與操作體驗。
 
 **提示詞**
 
@@ -2292,8 +2174,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502"><img src="../assets/previews/3e793aa49d00596d7f0fde1ede3a8d6bdfd788e24dcaabfd8a411333c01ad01a.webp" width="840" loading="lazy" alt="桌上型電腦的互動拆解圖鑑"></a>
 
-製作互動式 3D 網站，將桌上型電腦拆分為 29 個核心零組件。加入拆解動畫及各零件的說明。
-
 **提示詞**
 
 ```text
@@ -2311,8 +2191,6 @@
 [かのこ🌼AI×子育て×探究](https://x.com/dqlh47m) · 2026-09-06
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736"><img src="../assets/previews/1d761ad321c1abd86b860b5666524d43f1c618b478cbea34f5c33f4662723f6e.webp" width="840" loading="lazy" alt="兒童房與工作區配置規劃"></a>
-
-根據房間四個角落拍攝的四張照片及尺寸，重建兼作工作區的兒童房。提供成人與兒童視角、整體俯瞰，以及不同的家具配置方案。
 
 **提示詞**
 
@@ -2332,8 +2210,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520"><img src="../assets/previews/3d696686e58aba41eb01111e19c9a9fe9d4938352d472c6ddc33618f2e93fa25.webp" width="840" loading="lazy" alt="平面圖與 3D 漫遊同步呈現"></a>
 
-使用同一組尺寸資料，製作單臥室公寓的平面圖與室內漫遊。同步顯示兩種視圖中的目前位置，並清楚標示假設的天花板高度與裝修材質。
-
 **提示詞**
 
 ```text
@@ -2351,8 +2227,6 @@
 [synabreu](https://x.com/synabreu) · 2026-09-06
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-miniature-of-seoul-2096557555086725159"><img src="../assets/previews/495c8dd1868b4e0c9fbeef9d970d26b2f334db89db4edcd802e510cc0f8cb85a.webp" width="840" loading="lazy" alt="可探索的首爾微縮城市"></a>
-
-利用開放地圖資料，以 Three.js 製作首爾微縮城市。加入分區導覽、地標飛行巡覽、日夜模式及觸控操作。註明簡化過的建築、估算的高度與資料授權。
 
 **提示詞**
 
@@ -2372,8 +2246,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/surface-climbing-procedural-insect-2096460081982304546"><img src="../assets/previews/fb132b9e6a026ce7de5d7b1710f5a7e78653b07c96cb7d17edaf1062021c7fd5.webp" width="840" loading="lazy" alt="能攀爬不同表面的程序化昆蟲"></a>
 
-製作一隻多足 3D 昆蟲，讓牠能貼附在不同表面上行走。跨越高低落差時，協調腿部與身體的動作。
-
 **提示詞**
 
 ```text
@@ -2391,8 +2263,6 @@
 [The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-06
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="../assets/previews/67349df6f55e75c5acee30371c715c3ec04b9ae5c26c628e71d3afb3aae6c9e0.webp" width="840" loading="lazy" alt="駕駛萊特飛行器穿越日本森林"></a>
-
-使用 Three.js 製作飛行遊戲，讓玩家駕駛 1903 年的萊特飛行器穿越日本森林。先研究飛機構造，再以程序化方式建立飛機、樹木、鳥居、房屋與山脈，不使用外部資產。
 
 **提示詞**
 
@@ -2412,8 +2282,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865"><img src="../assets/previews/3dac0cf4428bc4a32bd1418c62a971bc75be632f3e10e918ba9b45800f364ba2.webp" width="840" loading="lazy" alt="在 Blender 中從零建立住宅"></a>
 
-在 Blender 中從零建立住宅模型。保留可編輯的場景，讓後續迭代能檢視建築並逐步改善。
-
 **提示詞**
 
 ```text
@@ -2431,8 +2299,6 @@
 [森叔](https://x.com/harrisonitsme) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"><img src="../assets/previews/ffcfb39c9d14b56e65e3d89a656460fd7dbd09ea1ca260185cf1b2fd9da8552d.webp" width="840" loading="lazy" alt="將咖啡店照片變成直式漫遊影片"></a>
-
-根據照片在 Blender 中重建咖啡店，包含木質天花板、燈條、烘豆機、層架與植物。交付可編輯場景及 15 秒的直式鏡頭漫遊影片。
 
 **提示詞**
 
@@ -2452,8 +2318,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883"><img src="../assets/previews/43b5fb834bebe6a4e4348b43a9b12c363d09ce37ce76f35026436aab1c2260cb.webp" width="840" loading="lazy" alt="從頂樓平面圖製作 Blender 預覽"></a>
 
-使用住宅頂樓的平面圖建立 Blender 場景，並以低取樣數算繪 10 秒預覽。先讓空間配置清楚易懂，再細修材質。
-
 **提示詞**
 
 ```text
@@ -2471,8 +2335,6 @@
 [Gonçalo Canhoto 🇵🇹](https://x.com/goncalo_canhoto) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021"><img src="../assets/previews/1a02f9822127ff717210634691346b1137e87f5e721498e19a61a744e480a3be.webp" width="840" loading="lazy" alt="在 Blender 中重現里斯本宮殿廣場"></a>
-
-將里斯本的 Terreiro do Paço（宮殿廣場）重建為可編輯的 Blender 場景。研究參考資料，作為廣場建築、材質與打光的依據。
 
 **提示詞**
 
@@ -2492,8 +2354,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111"><img src="../assets/previews/0ba729978213ae4955dbc48dc1842a22c3ccfe72d686a037cf599fba60a214dd.webp" width="840" loading="lazy" alt="The Quiet Crossing 雪地探索任務"></a>
 
-使用 Three.js 製作雪地探索遊戲，包含 Blender 角色、體素松樹與石造傳送門。設計收集六塊發光碎片的玩法，讓鏡頭跟隨角色，並顯示距離傳送門有多遠。
-
 **提示詞**
 
 ```text
@@ -2511,8 +2371,6 @@
 [Leon Lin](https://x.com/LexnLin) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609"><img src="../assets/previews/f2a686fc1b131953cac41cec39c2492f871a7987eae5f2606755fddb83401adb.webp" width="840" loading="lazy" alt="以 Three.js 程序化生成茂密森林"></a>
-
-使用 Three.js 製作細緻森林，包含數千棵樹、茂密草叢與蕨類。利用自訂著色器及高效率的重複幾何配置，保留整個場景的細節。
 
 **提示詞**
 
@@ -2532,8 +2390,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/tp-7-recorder-reference-model-2096013228090245181"><img src="../assets/previews/6247b0b5d738f5e9d87d689c333dce99718de568260645eef0fa012326ac5cad.webp" width="840" loading="lazy" alt="依照參考資料重建 TP-7 錄音機"></a>
 
-根據參考圖片，使用 Three.js 重建 Teenage Engineering TP-7。對齊外形與可見操作元件，製作能從各角度檢視的 3D 模型。
-
 **提示詞**
 
 ```text
@@ -2551,8 +2407,6 @@
 [ダンさんブル@d三b](https://x.com/dansanburu) · 2026-09-06
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157"><img src="../assets/previews/fb7fa5cb69d8bab3b242d25a63a64824b6d86e8f9de46f3329e4ea8de756de07.webp" width="840" loading="lazy" alt="穿越鄉間的蒸汽火車"></a>
-
-使用 Three.js 建立蒸汽火車模型，並製作穿越鄉間場景的行駛動畫。讓車輪轉動與火車移動同步。
 
 **提示詞**
 
@@ -2572,8 +2426,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106"><img src="../assets/previews/51118e05b31dbe92e3cca2db56ddfa5ea034e0fdd2eaa943af8aad73515392d8.webp" width="840" loading="lazy" alt="桌上的黑膠唱片機場景"></a>
 
-使用 Three.js 製作桌上黑膠唱片機場景。透過燈具亮起的演出與鏡頭運動，展示唱片機和周圍家具，呈現產品介紹影片的感覺。
-
 **提示詞**
 
 ```text
@@ -2591,8 +2443,6 @@
 [FaryaBlender3D](https://x.com/FaryaBlender3D) · 2026-09-06
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/trading-card-battle-game-loop-2096555856204644550"><img src="../assets/previews/9467608cd8acae08c8272517d7c6605284f8073c38eefd78221597d07dfe93db.webp" width="840" loading="lazy" alt="集換式卡牌的對戰遊戲循環"></a>
-
-使用 Three.js 製作集換式卡牌遊戲原型：購買牌組與補充包、組建牌組、進入競技場對戰並獲得獎勵。保留以完成版資產替換暫用網格的彈性。
 
 **提示詞**
 
@@ -2612,8 +2462,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/railway-network-simulation-game-2096362653480562751"><img src="../assets/previews/66b6fe9a782625a1d13bf79872857593fecf604421e40eb8cfd67c212ad0b695.webp" width="840" loading="lazy" alt="鐵路網模擬遊戲"></a>
 
-將 Three.js 火車模型擴充為鐵路模擬，加入城市、岔路、河流與橋梁。提供跟隨列車、自由 3D 視角及等角視角的鏡頭，並加入煙霧效果。
-
 **提示詞**
 
 ```text
@@ -2631,8 +2479,6 @@
 [Manas Joshi](https://x.com/ManasJoshi76254) · 2026-09-06
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793"><img src="../assets/previews/8421a65dcff65f18140db9a668855715aeef10b3e8cf18b4c5a3f56553b583cc.webp" width="840" loading="lazy" alt="可步行探索的低多邊形果川村落"></a>
-
-在單一 HTML 檔案中，建立以果川為靈感、溫馨且可探索的低多邊形村落。結合程序化 3D 景觀、氛圍、介面與互動。
 
 **提示詞**
 
@@ -2652,8 +2498,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/complete-three-js-puzzle-level-2096505740643246231"><img src="../assets/previews/b00b0f3011c9f77412b6212bff0efb0fc453cefca3af7186267fabb90c0536f0.webp" width="840" loading="lazy" alt="完整的 Three.js 解謎關卡"></a>
 
-使用 Three.js 製作完整的 3D 解謎遊戲關卡，包含能實際遊玩的機制。待關卡與互動正常運作後，再整合提供的音訊。
-
 **提示詞**
 
 ```text
@@ -2671,8 +2515,6 @@
 [空野こんこん＠個人ゲーム開発者](https://x.com/sorano_concon_g) · 2026-09-06
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844"><img src="../assets/previews/1fb12fca3f886c06a5f5670a2138319083090972bb6e38e16beebd7e4a8853aa.webp" width="840" loading="lazy" alt="低多邊形海灘尋寶遊戲"></a>
-
-在 Unity 中製作可遊玩的 3D 海灘尋寶遊戲。建立低多邊形棕櫚樹與木棧臺，完成探索和尋找寶藏的核心遊戲循環。
 
 **提示詞**
 
@@ -2692,8 +2534,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/blender-models-with-unity-vfx-2096560142871658589"><img src="../assets/previews/d13ca069743cb65e0501484737d96a1fbde81927026e9b8837b149ece9b0693d.webp" width="840" loading="lazy" alt="Blender 模型搭配 Unity VFX"></a>
 
-在 Blender 中製作場景模型，並匯入 Unity。使用 VFX Graph 加入特效，調整場景打光，讓模型與特效同時清楚呈現。
-
 **提示詞**
 
 ```text
@@ -2711,8 +2551,6 @@
 [Kevin Kern](https://x.com/kevinkern) · 2026-09-06
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826"><img src="../assets/previews/eceebf1bdd5561e25fada5daec055473bd5506cf272760a5a08a8b4ad111988c.webp" width="840" loading="lazy" alt="可在手機遊玩的 Unity 拉力賽車"></a>
-
-使用 Codex、Blender 與 Unity 製作拉力賽車原型。整理 3D 資產與操作方式，讓遊戲能在手機上進行遊玩測試。
 
 **提示詞**
 
@@ -2732,8 +2570,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845"><img src="../assets/previews/c3858642eb37b219de3378529a8d1121913c658e17165e2b368571eb7a597c39.webp" width="840" loading="lazy" alt="用 SpeedTree 製作印度芒果樹"></a>
 
-在 SpeedTree 中製作印度芒果樹，供目標為 60 FPS 的 Unreal 場景使用。生成葉片與樹皮材質，檢視外觀後再完成資產。
-
 **提示詞**
 
 ```text
@@ -2751,8 +2587,6 @@
 [たけうちさんは縮退しました🌀](https://x.com/chimerast) · 2026-09-06
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878"><img src="../assets/previews/409939b647056905bc163425f4e5f1b7447f4a4f807b3e112ef99e2e09e34691.webp" width="840" loading="lazy" alt="替 Tripo 角色貼圖並綁定骨架"></a>
-
-將 Tripo Smart Mesh 角色匯入 Blender。先套用貼圖並建立可用的身體骨架，再繼續處理臉部表情。
 
 **提示詞**
 
@@ -2772,8 +2606,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/the-legend-of-astra-game-prototype-2096064140510970318"><img src="../assets/previews/2e75b416be710d22df3d31e7cd922509238dcc5ca57d99ec56f020ca9127501a.webp" width="840" loading="lazy" alt="The Legend of Astra 遊戲原型"></a>
 
-使用 Blender 準備的場景與 Tripo 資產，在 Unity 中製作 3D 冒險遊戲原型。將角色動畫整合進可遊玩的示範版本。
-
 **提示詞**
 
 ```text
@@ -2791,8 +2623,6 @@
 [Everett World](https://x.com/WorldEverett) · 2026-09-06
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754"><img src="../assets/previews/76eeeaa8710b4767fb99c09689e3a0b87ba770495f026e34ea34cb2b5f1f76fc.webp" width="840" loading="lazy" alt="從公寓草圖到室內算繪"></a>
-
-結合公寓參考圖片與簡單的平面草圖，在 Blender 中重建室內。交付可編輯場景、各房間的算繪圖，以及剪輯完成的短版漫遊影片。
 
 **提示詞**
 
@@ -2812,8 +2642,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-browser-river-scene-2095993826569502785"><img src="../assets/previews/0576145ccc4d4331532d91a055a1678d9a5b9292272e606905cb4867c88df11f.webp" width="840" loading="lazy" alt="可在瀏覽器互動的河流場景"></a>
 
-製作在瀏覽器中運作的互動河流場景。先完成可運作的即時水面原型，再檢視並改善視覺效果。
-
 **提示詞**
 
 ```text
@@ -2831,8 +2659,6 @@
 [Adi](https://x.com/thejothiram) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/adiyogi-evening-fly-through-2096128774203171021"><img src="../assets/previews/38756d78911bac44657e3035b1f8742239f296d966babc6d16c0203d74295152.webp" width="840" loading="lazy" alt="夕照下的阿迪瑜伽飛行巡覽"></a>
-
-在 Blender 中製作阿迪瑜伽（Adiyogi）場景，包含寬闊場地、細緻特寫與溫暖夕照。算繪 30 秒飛行巡覽影片，並保留可編輯場景。
 
 **提示詞**
 
@@ -2852,8 +2678,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631"><img src="../assets/previews/c1f28f7d54e74bcfdc5a9af0c8802782ae717109591d19c56aff83e056a3d5ff.webp" width="840" loading="lazy" alt="用 Geometry Nodes 製作循環水面"></a>
 
-使用 Blender Geometry Nodes 製作可週期循環的水面效果，不進行烘焙。保留可編輯的節點設定，並明確說明這是水面模型，不是完整的流體模擬。
-
 **提示詞**
 
 ```text
@@ -2871,8 +2695,6 @@
 [Yash](https://x.com/yash_yk45) · 2026-09-06
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700"><img src="../assets/previews/43d06f647b736fefd9e35f14f5a547a9e58943fefc224182925a32bdc0c814ae.webp" width="840" loading="lazy" alt="以《航海王》為靈感的航海世界"></a>
-
-結合 Blender 船隻與 Three.js 海洋，製作可遊玩的航海世界。加入多變天氣、水下探索、航跡、泡沫、水花與會動的船帆。
 
 **提示詞**
 
@@ -2892,8 +2714,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-lorenz-attractor-2096572156453028193"><img src="../assets/previews/8ca9458a9131136447121ad42d7c998aff884f2b37bc8989f3b06d8e905d0e91.webp" width="840" loading="lazy" alt="可互動的勞侖茲吸引子"></a>
 
-將兩條初始位置僅有微小差異的勞侖茲系統軌跡視覺化。讓使用者調整差異並拖曳時間軸，同時清楚區分數值驗證與精確的長期預測。
-
 **提示詞**
 
 ```text
@@ -2911,8 +2731,6 @@
 [Rogue](https://x.com/Rogue0114) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457"><img src="../assets/previews/51cf1822b9fe467de3b29ffd21021bd2f05a0a1aadf86773596869583512f603.webp" width="840" loading="lazy" alt="店員與客人會活動的酒館"></a>
-
-根據參考圖片重建酒館，並加入客人與員工。讓客人點餐與點飲料，由員工準備，並實作碰撞處理及路徑搜尋。
 
 **提示詞**
 
@@ -2932,8 +2750,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342"><img src="../assets/previews/866c74c1a0c5aa28562647e34518578bfa25e58a2afed0279ba6142eb9d64f44.webp" width="840" loading="lazy" alt="把自己的房間變成互動作品集"></a>
 
-將自己的房間改造成互動式自我介紹網站。在 Blender 中建立並烘焙場景，再加入咖啡蒸氣、《駭客任務》風格動畫與細微的著色器效果。
-
 **提示詞**
 
 ```text
@@ -2951,8 +2767,6 @@
 [yhmtmt](https://x.com/yhmtmt1) · 2026-09-06
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"><img src="../assets/previews/8369341108c9ee030167ffe4e426974a0417136cb0c8a95b91084dcbccc26480.webp" width="840" loading="lazy" alt="行駛在平靜 3D 海面的 YF-24 船艇"></a>
-
-在 Blender 中建立 YF-24 船艇模型，製作其航行於蒲福風級 2 級的三維海面上的動畫。參考船艇資料，改善船身形狀。
 
 **提示詞**
 
@@ -2972,8 +2786,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/playable-d4-inspired-apartment-2096413869841473930"><img src="../assets/previews/1f412131b9d66511d6a2496509cd7e477be4768a1542c19780e6eb4148068f89.webp" width="840" loading="lazy" alt="以 D4 為靈感的可遊玩公寓"></a>
 
-研究 D4 主角的公寓，並重建為可遊玩的 3D 原型。對照參考資料檢查格局與互動，不要直接假定已精確還原。
-
 **提示詞**
 
 ```text
@@ -2991,8 +2803,6 @@
 [DJ RIO \| REALITY](https://x.com/djrio_vr) · 2026-09-06
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/browser-city-game-with-a-supplied-character-2096398839830008292"><img src="../assets/previews/2b020e0fc8275195843fe93dfea7923e440940671c21060866aa6fd429e471e9.webp" width="840" loading="lazy" alt="以指定角色遊玩的瀏覽器城市遊戲"></a>
-
-使用 RIO\_MA002.fbx 作為玩家角色，製作 WebGL 城市遊戲。在 Blender 中依參考資料建立車輛與街道，再改善 NPC、駕駛物理、可破壞物件及郊區。
 
 **提示詞**
 
@@ -3012,8 +2822,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/orbital-solar-system-explorer-2096339041679442428"><img src="../assets/previews/3b8d0fa55368b35e4f43bb0769b66adc3283691f2ddc0fcc9deaed3e05447fe0.webp" width="840" loading="lazy" alt="沿軌道探索太陽系"></a>
 
-使用 Three.js 製作瀏覽器版太陽系探索工具，包含八顆行星與二十顆衛星。提供鏡頭移動及簡化的太空飛行規劃功能。
-
 **提示詞**
 
 ```text
@@ -3031,8 +2839,6 @@
 [ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/black-hole-formation-in-webgl-2096093614397170104"><img src="../assets/previews/a181ebe4abb83ae076e08d4da4fe0abdc94949a4a57cb12610b73b38e3b83778.webp" width="840" loading="lazy" alt="用 WebGL 解說黑洞形成"></a>
-
-製作介紹黑洞形成的教學投影片，加入 WebGL 視覺化。以動態 3D 場景搭配文字解說。
 
 **提示詞**
 
@@ -3052,8 +2858,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724"><img src="../assets/previews/8dcd8f7d1406525c0a56e16bf3bc2591fb0191c1e4226f74cc364b4daa841efd.webp" width="840" loading="lazy" alt="將 2D 標誌變成動態 3D 角色"></a>
 
-把提供的 2D 角色標誌轉為具有動畫的 3D 版本。增加立體感與動作時，保留讓人一眼認出的角色特徵。
-
 **提示詞**
 
 ```text
@@ -3071,8 +2875,6 @@
 [ZEUS⚡️](https://x.com/zeuuss_01) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171"><img src="../assets/previews/b357895cffa990ebc6d5404e59b1f2371a45536a5cabca80b976c590192d8338.webp" width="840" loading="lazy" alt="以動作機制為核心的螃蟹遊戲"></a>
-
-根據涵蓋外觀、角色、世界、動作、目標、介面及鏡頭的結構化需求，製作 Three.js 螃蟹遊戲。讓金幣在螃蟹經過時浮起並飛向牠；若需求彼此矛盾，請明確指出。
 
 **提示詞**
 
@@ -3092,8 +2894,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/starry-night-village-with-a-day-night-cycle-2096555183790575682"><img src="../assets/previews/996c7433def5bbb3d45ccc962a820224ea443e32125c8fbd1024549df900256c.webp" width="840" loading="lazy" alt="日夜交替的《星夜》村落"></a>
 
-將梵谷的《星夜》轉為可探索的 3D 村落，加入居民、照明與日夜循環。算繪一段穿梭於完成世界中的短片。
-
 **提示詞**
 
 ```text
@@ -3111,8 +2911,6 @@
 [Meng To](https://x.com/MengTo) · 2026-09-06
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/reference-matched-three-js-interface-2096510126244999366"><img src="../assets/previews/56897f733e8ee248d50edff98d7a754fe404431e8be64d2093a85e9fc7b42c64.webp" width="840" loading="lazy" alt="貼近參考設計的 Three.js 介面"></a>
-
-使用 Three.js 在單一 HTML 檔案中重現參考設計。反覆比對成果並修正差異，細調照明、模型深度與玻璃質感的控制元件，加入隨游標反應的細微效果。
 
 **提示詞**
 
@@ -3132,8 +2930,6 @@
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048"><img src="../assets/previews/3388e9e5e8f519fb22f67c35c98f5038335da857c0a1b8883c406c6e14c36c4a.webp" width="840" loading="lazy" alt="組裝生成的 3D 資產並製作動畫"></a>
 
-使用 Tripo P2 生成最佳化的 3D 資產，在 Blender 中組裝，再為角色綁定骨架並製作動畫。檢視角色與場景在空間上的搭配是否合適。
-
 **提示詞**
 
 ```text
@@ -3151,8 +2947,6 @@
 [Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175"><img src="../assets/previews/15b86aef756eda74957965d57ff6104a61d7fcc04cad37581a49726ef5f363aa.webp" width="840" loading="lazy" alt="以生物發光點綴的深海著陸頁"></a>
-
-製作深海主題著陸頁，結合 Three.js 水面效果、深色玻璃質感介面與捲動驅動的動態。兼顧 3D 氛圍，以及清楚、能適應不同螢幕的網站互動。
 
 **提示詞**
 
