@@ -2,7 +2,7 @@
 
 # Awesome Astra Prompts
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/sindresorhus/awesome) [![GitHub stars](https://img.shields.io/github/stars/TripoGrowthLab/awesome-astra-prompts?style=flat-square&color=f5c542)](https://github.com/TripoGrowthLab/awesome-astra-prompts/stargazers) [![License: MIT](https://img.shields.io/badge/License-MIT-64748b?style=flat-square)](../LICENSE) [![Sync prompts](https://github.com/TripoGrowthLab/awesome-astra-prompts/actions/workflows/sync-prompts.yml/badge.svg)](https://github.com/TripoGrowthLab/awesome-astra-prompts/actions/workflows/sync-prompts.yml) [![Contributions welcome](https://img.shields.io/badge/PRs-welcome-238636?style=flat-square)](../CONTRIBUTING.md)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/sindresorhus/awesome) [![GitHub stars](https://img.shields.io/github/stars/TripoGrowthLab/awesome-astra-prompts?style=flat-square&color=f5c542)](https://github.com/TripoGrowthLab/awesome-astra-prompts/stargazers) [![License: MIT](https://img.shields.io/badge/License-MIT-64748b?style=flat-square)](../LICENSE) [![Sync prompts](https://github.com/TripoGrowthLab/awesome-astra-prompts/actions/workflows/sync-prompts.yml/badge.svg?branch=main)](https://github.com/TripoGrowthLab/awesome-astra-prompts/actions/workflows/sync-prompts.yml) [![Contributions welcome](https://img.shields.io/badge/PRs-welcome-238636?style=flat-square)](../CONTRIBUTING.md)
 
 <p>
   <a href="../README.md"><img alt="English" src="https://img.shields.io/badge/English-64748b?style=flat-square"></a>
