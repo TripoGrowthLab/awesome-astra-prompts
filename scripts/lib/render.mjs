@@ -18,7 +18,7 @@ function badges(prompts, locale, prefix) {
     `[![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/sindresorhus/awesome)`,
     `[![GitHub stars](https://img.shields.io/github/stars/${repository}?style=flat-square&color=f5c542)](${root}/stargazers)`,
     `[![License: MIT](https://img.shields.io/badge/License-MIT-64748b?style=flat-square)](${prefix}LICENSE)`,
-    `[![Sync prompts](${root}/actions/workflows/sync-prompts.yml/badge.svg)](${root}/actions/workflows/sync-prompts.yml)`,
+    `[![Sync prompts](${root}/actions/workflows/sync-prompts.yml/badge.svg?branch=main)](${root}/actions/workflows/sync-prompts.yml)`,
     `[![Contributions welcome](https://img.shields.io/badge/PRs-welcome-238636?style=flat-square)](${prefix}CONTRIBUTING.md)`,
   ].join(' ') + '\n\n' + languageBadges(locale, prefix)
 }
