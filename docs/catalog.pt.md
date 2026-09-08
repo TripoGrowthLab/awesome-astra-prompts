@@ -26,7 +26,7 @@
 **Um ponto de partida para seu próximo jogo, cena ou mundo interativo.**
 
 
-**155 · Todos os prompts do Astra**
+**156 · Todos os prompts do Astra**
 
 ## Projetos em destaque
 
@@ -58,6 +58,7 @@
 - [Manhattan, rua por rua, no Unreal Engine](#2095609734845927525)
 - [Criando um pequeno jogo 3D rudimentar com Astra a partir de uma arte conceitual](#2096068401294929940)
 - [Asset de jogo de minifig LEGO com Blender MCP](#2096766465730847059)
+- [Estrada na floresta de 12 segundos no Blender](#2096986557244723371)
 - [Uma batalha de kaijus na cidade](#2096251574918013135)
 - [Uma casa moderna no Blender](#2095636679264780481)
 - [Expressões de personagem alternáveis no Blender](#2096525100518453342)
@@ -387,6 +388,26 @@ Use o Blender MCP para criar uma versão de Donald Trump em formato de minifig L
 ```
 
 [Ver vídeo ↗](https://video.twimg.com/amplify_video/2096766389113556999/vid/avc1/1920x1080/t6dpye7hPDiWK9D2.mp4?tag=29) · [Publicação original](https://x.com/_simonsmith/status/2096766465730847059) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2096986557244723371"></a>
+
+### Estrada na floresta de 12 segundos no Blender
+
+[Can Matrix](https://x.com/Jomolos) · 2026-09-07
+
+<a href="https://x.com/Jomolos/status/2096986557244723371"><img src="../assets/previews/3e060bfb3bf3973f0efb048cacbdc625fe879b8bca0cb46c2bb8fd367eb75268.jpg" width="840" loading="lazy" alt="Estrada na floresta de 12 segundos no Blender"></a>
+
+Solicitação para criar no Blender uma cena de estrada na floresta com 12 segundos de duração.
+
+**Prompt**
+
+```text
+Estrada na floresta de 12 segundos no Blender
+```
+
+[Ver vídeo ↗](https://video.twimg.com/amplify_video/2096986504044097536/vid/avc1/1800x1440/UX_z5aG0dAl1vdha.mp4?tag=29) · [Publicação original](https://x.com/Jomolos/status/2096986557244723371) · [Voltar aos exemplos](#all-prompts)
 
 ---
 

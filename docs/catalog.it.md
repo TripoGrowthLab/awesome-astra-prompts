@@ -26,7 +26,7 @@
 **Un punto di partenza per il tuo prossimo gioco, scena o mondo interattivo.**
 
 
-**155 · Tutti i prompt Astra**
+**156 · Tutti i prompt Astra**
 
 ## Progetti in evidenza
 
@@ -58,6 +58,7 @@
 - [Manhattan, strada per strada, in Unreal Engine](#2095609734845927525)
 - [Creare un piccolo gioco 3D grezzo con Astra, guidato da un concept art](#2096068401294929940)
 - [Asset di gioco di una minifigure LEGO con Blender MCP](#2096766465730847059)
+- [Sentiero nella foresta di 12 secondi in Blender](#2096986557244723371)
 - [Una battaglia di kaiju in città](#2096251574918013135)
 - [Una villa moderna in Blender](#2095636679264780481)
 - [Espressioni del personaggio intercambiabili in Blender](#2096525100518453342)
@@ -387,6 +388,26 @@ Usa Blender MCP per realizzare una versione di Donald Trump in stile minifigure 
 ```
 
 [Guarda il video ↗](https://video.twimg.com/amplify_video/2096766389113556999/vid/avc1/1920x1080/t6dpye7hPDiWK9D2.mp4?tag=29) · [Post originale](https://x.com/_simonsmith/status/2096766465730847059) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="2096986557244723371"></a>
+
+### Sentiero nella foresta di 12 secondi in Blender
+
+[Can Matrix](https://x.com/Jomolos) · 2026-09-07
+
+<a href="https://x.com/Jomolos/status/2096986557244723371"><img src="../assets/previews/3e060bfb3bf3973f0efb048cacbdc625fe879b8bca0cb46c2bb8fd367eb75268.jpg" width="840" loading="lazy" alt="Sentiero nella foresta di 12 secondi in Blender"></a>
+
+Richiesta di creare in Blender una scena di un sentiero nella foresta della durata di 12 secondi.
+
+**Prompt**
+
+```text
+Sentiero nella foresta di 12 secondi in Blender
+```
+
+[Guarda il video ↗](https://video.twimg.com/amplify_video/2096986504044097536/vid/avc1/1800x1440/UX_z5aG0dAl1vdha.mp4?tag=29) · [Post originale](https://x.com/Jomolos/status/2096986557244723371) · [Torna agli esempi](#all-prompts)
 
 ---
 

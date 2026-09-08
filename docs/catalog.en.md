@@ -27,7 +27,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**155 examples · 14 languages · 6 examples with source code**
+**156 examples · 14 languages · 6 examples with source code**
 
 ## Featured projects
 
@@ -59,6 +59,7 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Street-by-street Manhattan in Unreal Engine](#2095609734845927525)
 - [Build a Rough 3D Game in Astra from Concept Art](#2096068401294929940)
 - [LEGO Minifig Game Asset with Blender MCP](#2096766465730847059)
+- [A 12-Second Forest Road in Blender](#2096986557244723371)
 - [Kaiju city battle](#2096251574918013135)
 - [Modern villa scene in Blender](#2095636679264780481)
 - [Switchable character expressions in Blender](#2096525100518453342)
@@ -388,6 +389,26 @@ Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can us
 ```
 
 [Watch video ↗](https://video.twimg.com/amplify_video/2096766389113556999/vid/avc1/1920x1080/t6dpye7hPDiWK9D2.mp4?tag=29) · [Original post](https://x.com/_simonsmith/status/2096766465730847059) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2096986557244723371"></a>
+
+### A 12-Second Forest Road in Blender
+
+[Can Matrix](https://x.com/Jomolos) · 2026-09-07
+
+<a href="https://x.com/Jomolos/status/2096986557244723371"><img src="../assets/previews/3e060bfb3bf3973f0efb048cacbdc625fe879b8bca0cb46c2bb8fd367eb75268.jpg" width="840" loading="lazy" alt="A 12-Second Forest Road in Blender"></a>
+
+A request to create a 12-second forest road scene in Blender.
+
+**Prompt**
+
+```text
+A 12-second forest road in Blender
+```
+
+[Watch video ↗](https://video.twimg.com/amplify_video/2096986504044097536/vid/avc1/1800x1440/UX_z5aG0dAl1vdha.mp4?tag=29) · [Original post](https://x.com/Jomolos/status/2096986557244723371) · [Back to examples](#all-prompts)
 
 ---
 

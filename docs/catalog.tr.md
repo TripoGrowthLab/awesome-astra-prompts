@@ -26,7 +26,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**155 · Tüm Astra istemleri**
+**156 · Tüm Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -58,6 +58,7 @@
 - [Unreal Engine'de sokak sokak Manhattan](#2095609734845927525)
 - [Konsept görselini referans alarak Astra ile ham bir 3B mini oyun oluşturma](#2096068401294929940)
 - [Blender MCP ile LEGO minifigür oyun varlığı](#2096766465730847059)
+- [Blender’da 12 saniyelik bir orman yolu](#2096986557244723371)
 - [Şehirde kaiju savaşı](#2096251574918013135)
 - [Blender'da modern villa sahnesi](#2095636679264780481)
 - [Blender’da değiştirilebilir karakter ifadeleri](#2096525100518453342)
@@ -387,6 +388,26 @@ Blender MCP'yi kullanarak oyunda varlık olarak kullanabileceğim bir Donald Tru
 ```
 
 [Videoyu izle ↗](https://video.twimg.com/amplify_video/2096766389113556999/vid/avc1/1920x1080/t6dpye7hPDiWK9D2.mp4?tag=29) · [Orijinal gönderi](https://x.com/_simonsmith/status/2096766465730847059) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2096986557244723371"></a>
+
+### Blender’da 12 saniyelik bir orman yolu
+
+[Can Matrix](https://x.com/Jomolos) · 2026-09-07
+
+<a href="https://x.com/Jomolos/status/2096986557244723371"><img src="../assets/previews/3e060bfb3bf3973f0efb048cacbdc625fe879b8bca0cb46c2bb8fd367eb75268.jpg" width="840" loading="lazy" alt="Blender’da 12 saniyelik bir orman yolu"></a>
+
+Blender’da 12 saniyelik bir orman yolu sahnesi oluşturma isteği.
+
+**İstem**
+
+```text
+Blender’da 12 saniyelik bir orman yolu
+```
+
+[Videoyu izle ↗](https://video.twimg.com/amplify_video/2096986504044097536/vid/avc1/1800x1440/UX_z5aG0dAl1vdha.mp4?tag=29) · [Orijinal gönderi](https://x.com/Jomolos/status/2096986557244723371) · [Örneklere dön](#all-prompts)
 
 ---
 

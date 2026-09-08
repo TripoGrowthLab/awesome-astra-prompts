@@ -26,7 +26,7 @@
 **다음 게임, 장면, 인터랙티브 세계를 위한 아이디어를 찾아보세요.**
 
 
-**155 · 모든 Astra 프롬프트**
+**156 · 모든 Astra 프롬프트**
 
 ## 추천 작품
 
@@ -58,6 +58,7 @@
 - [Unreal Engine으로 거리마다 재현한 맨해튼](#2095609734845927525)
 - [콘셉트 이미지로 Astra를 활용해 투박한 3D 미니게임 만들기](#2096068401294929940)
 - [Blender MCP로 제작하는 레고 미니피겨 게임 에셋](#2096766465730847059)
+- [Blender에서 12초짜리 숲길](#2096986557244723371)
 - [거대 괴수의 도시 전투](#2096251574918013135)
 - [Blender로 만든 모던 빌라 장면](#2095636679264780481)
 - [Blender에서 전환하는 캐릭터 표정](#2096525100518453342)
@@ -387,6 +388,26 @@ Blender MCP를 사용해 게임 에셋으로 활용할 수 있는 도널드 트�
 ```
 
 [동영상 보기 ↗](https://video.twimg.com/amplify_video/2096766389113556999/vid/avc1/1920x1080/t6dpye7hPDiWK9D2.mp4?tag=29) · [원본 게시물](https://x.com/_simonsmith/status/2096766465730847059) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="2096986557244723371"></a>
+
+### Blender에서 12초짜리 숲길
+
+[Can Matrix](https://x.com/Jomolos) · 2026-09-07
+
+<a href="https://x.com/Jomolos/status/2096986557244723371"><img src="../assets/previews/3e060bfb3bf3973f0efb048cacbdc625fe879b8bca0cb46c2bb8fd367eb75268.jpg" width="840" loading="lazy" alt="Blender에서 12초짜리 숲길"></a>
+
+Blender에서 12초 분량의 숲길 장면을 만드는 프롬프트입니다.
+
+**프롬프트**
+
+```text
+Blender에서 12초짜리 숲길
+```
+
+[동영상 보기 ↗](https://video.twimg.com/amplify_video/2096986504044097536/vid/avc1/1800x1440/UX_z5aG0dAl1vdha.mp4?tag=29) · [원본 게시물](https://x.com/Jomolos/status/2096986557244723371) · [사례 목록으로](#all-prompts)
 
 ---
 

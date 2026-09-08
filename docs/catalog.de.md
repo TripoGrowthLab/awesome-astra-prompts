@@ -26,7 +26,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**155 · Alle Astra-Prompts**
+**156 · Alle Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -58,6 +58,7 @@
 - [Manhattan Straße für Straße in Unreal Engine](#2095609734845927525)
 - [Mit Konzeptbildern Astra zur Erstellung eines groben 3D-Minispiels steuern](#2096068401294929940)
 - [LEGO-Minifigur als Game-Asset mit Blender MCP](#2096766465730847059)
+- [12-sekündiger Waldweg in Blender](#2096986557244723371)
 - [Kaiju-Kampf in der Stadt](#2096251574918013135)
 - [Moderne Villa als Blender-Szene](#2095636679264780481)
 - [Umschaltbare Gesichtsausdrücke in Blender](#2096525100518453342)
@@ -387,6 +388,26 @@ Verwende Blender MCP, um eine LEGO-Minifigur von Donald Trump zu erstellen, die 
 ```
 
 [Video ansehen ↗](https://video.twimg.com/amplify_video/2096766389113556999/vid/avc1/1920x1080/t6dpye7hPDiWK9D2.mp4?tag=29) · [Originalbeitrag](https://x.com/_simonsmith/status/2096766465730847059) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2096986557244723371"></a>
+
+### 12-sekündiger Waldweg in Blender
+
+[Can Matrix](https://x.com/Jomolos) · 2026-09-07
+
+<a href="https://x.com/Jomolos/status/2096986557244723371"><img src="../assets/previews/3e060bfb3bf3973f0efb048cacbdc625fe879b8bca0cb46c2bb8fd367eb75268.jpg" width="840" loading="lazy" alt="12-sekündiger Waldweg in Blender"></a>
+
+Anfrage zur Erstellung einer 12-sekündigen Waldweg-Szene in Blender.
+
+**Prompt**
+
+```text
+12-sekündiger Waldweg in Blender
+```
+
+[Video ansehen ↗](https://video.twimg.com/amplify_video/2096986504044097536/vid/avc1/1800x1440/UX_z5aG0dAl1vdha.mp4?tag=29) · [Originalbeitrag](https://x.com/Jomolos/status/2096986557244723371) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 

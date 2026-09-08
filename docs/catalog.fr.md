@@ -26,7 +26,7 @@
 **Un point de départ pour votre prochain jeu, scène ou monde interactif.**
 
 
-**155 · Tous les prompts Astra**
+**156 · Tous les prompts Astra**
 
 ## Projets à découvrir
 
@@ -58,6 +58,7 @@
 - [Manhattan rue par rue dans Unreal Engine](#2095609734845927525)
 - [Créer un petit jeu 3D rudimentaire avec Astra à partir d’une image conceptuelle](#2096068401294929940)
 - [Asset de jeu LEGO Minifig avec Blender MCP](#2096766465730847059)
+- [Un chemin forestier de 12 secondes dans Blender](#2096986557244723371)
 - [Une bataille de kaijus en ville](#2096251574918013135)
 - [Une villa contemporaine dans Blender](#2095636679264780481)
 - [Expressions de personnage interchangeables dans Blender](#2096525100518453342)
@@ -387,6 +388,26 @@ Utilise Blender MCP pour créer une version LEGO Minifig de Donald Trump que je 
 ```
 
 [Voir la vidéo ↗](https://video.twimg.com/amplify_video/2096766389113556999/vid/avc1/1920x1080/t6dpye7hPDiWK9D2.mp4?tag=29) · [Publication originale](https://x.com/_simonsmith/status/2096766465730847059) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2096986557244723371"></a>
+
+### Un chemin forestier de 12 secondes dans Blender
+
+[Can Matrix](https://x.com/Jomolos) · 2026-09-07
+
+<a href="https://x.com/Jomolos/status/2096986557244723371"><img src="../assets/previews/3e060bfb3bf3973f0efb048cacbdc625fe879b8bca0cb46c2bb8fd367eb75268.jpg" width="840" loading="lazy" alt="Un chemin forestier de 12 secondes dans Blender"></a>
+
+Créer une scène de chemin forestier de 12 secondes dans Blender.
+
+**Prompt**
+
+```text
+Un chemin forestier de 12 secondes dans Blender
+```
+
+[Voir la vidéo ↗](https://video.twimg.com/amplify_video/2096986504044097536/vid/avc1/1800x1440/UX_z5aG0dAl1vdha.mp4?tag=29) · [Publication originale](https://x.com/Jomolos/status/2096986557244723371) · [Retour aux exemples](#all-prompts)
 
 ---
 

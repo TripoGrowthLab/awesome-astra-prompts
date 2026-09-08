@@ -26,7 +26,7 @@
 **為你的下一個遊戲、場景或互動世界尋找靈感。**
 
 
-**155 · 全部 Astra 提示詞**
+**156 · 全部 Astra 提示詞**
 
 ## 精選作品
 
@@ -58,6 +58,7 @@
 - [逐街復刻曼哈頓 Unreal 世界](#2095609734845927525)
 - [用概念圖驅動 Astra 製作簡易 3D 小遊戲](#2096068401294929940)
 - [使用 Blender MCP 製作 LEGO 人偶遊戲資產](#2096766465730847059)
+- [Blender 中的 12 秒森林小徑](#2096986557244723371)
 - [怪獸城市戰鬥](#2096251574918013135)
 - [Blender 現代別墅場景](#2095636679264780481)
 - [在 Blender 中切換角色表情](#2096525100518453342)
@@ -387,6 +388,26 @@
 ```
 
 [觀看影片 ↗](https://video.twimg.com/amplify_video/2096766389113556999/vid/avc1/1920x1080/t6dpye7hPDiWK9D2.mp4?tag=29) · [查看原文](https://x.com/_simonsmith/status/2096766465730847059) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2096986557244723371"></a>
+
+### Blender 中的 12 秒森林小徑
+
+[Can Matrix](https://x.com/Jomolos) · 2026-09-07
+
+<a href="https://x.com/Jomolos/status/2096986557244723371"><img src="../assets/previews/3e060bfb3bf3973f0efb048cacbdc625fe879b8bca0cb46c2bb8fd367eb75268.jpg" width="840" loading="lazy" alt="Blender 中的 12 秒森林小徑"></a>
+
+在 Blender 中建立 12 秒森林小徑場景的提示詞。
+
+**提示詞**
+
+```text
+Blender 中的 12 秒森林小徑
+```
+
+[觀看影片 ↗](https://video.twimg.com/amplify_video/2096986504044097536/vid/avc1/1800x1440/UX_z5aG0dAl1vdha.mp4?tag=29) · [查看原文](https://x.com/Jomolos/status/2096986557244723371) · [返回案例導覽](#all-prompts)
 
 ---
 

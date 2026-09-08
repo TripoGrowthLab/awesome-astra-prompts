@@ -26,7 +26,7 @@
 **次のゲーム、シーン、インタラクティブな世界づくりのヒントに。**
 
 
-**155 · Astra の全プロンプト**
+**156 · Astra の全プロンプト**
 
 ## 注目の作品
 
@@ -58,6 +58,7 @@
 - [Unreal Engine で街路まで再現するマンハッタン](#2095609734845927525)
 - [コンセプトアートを起点にAstraでラフな3Dミニゲームを制作](#2096068401294929940)
 - [Blender MCPで作るLEGOミニフィグのゲームアセット](#2096766465730847059)
+- [Blenderで作る12秒の森の道](#2096986557244723371)
 - [怪獣が戦う都市](#2096251574918013135)
 - [Blender で作るモダンなヴィラ](#2095636679264780481)
 - [Blenderで切り替えるキャラクターの表情](#2096525100518453342)
@@ -387,6 +388,26 @@ Blender MCPを使って、ゲームアセットとして利用できるドナル
 ```
 
 [動画を見る ↗](https://video.twimg.com/amplify_video/2096766389113556999/vid/avc1/1920x1080/t6dpye7hPDiWK9D2.mp4?tag=29) · [元の投稿](https://x.com/_simonsmith/status/2096766465730847059) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="2096986557244723371"></a>
+
+### Blenderで作る12秒の森の道
+
+[Can Matrix](https://x.com/Jomolos) · 2026-09-07
+
+<a href="https://x.com/Jomolos/status/2096986557244723371"><img src="../assets/previews/3e060bfb3bf3973f0efb048cacbdc625fe879b8bca0cb46c2bb8fd367eb75268.jpg" width="840" loading="lazy" alt="Blenderで作る12秒の森の道"></a>
+
+Blenderで12秒間の森の道のシーンを作成するためのプロンプト。
+
+**プロンプト**
+
+```text
+Blenderで12秒間の森の道のシーンを作成する
+```
+
+[動画を見る ↗](https://video.twimg.com/amplify_video/2096986504044097536/vid/avc1/1800x1440/UX_z5aG0dAl1vdha.mp4?tag=29) · [元の投稿](https://x.com/Jomolos/status/2096986557244723371) · [作例一覧に戻る](#all-prompts)
 
 ---
 

@@ -26,7 +26,7 @@
 **Un punto de partida para tu próximo juego, escena o mundo interactivo.**
 
 
-**155 · Todos los prompts de Astra**
+**156 · Todos los prompts de Astra**
 
 ## Proyectos destacados
 
@@ -58,6 +58,7 @@
 - [Manhattan, calle a calle, en Unreal Engine](#2095609734845927525)
 - [Crear un pequeño juego 3D rudimentario con Astra a partir de un concept art](#2096068401294929940)
 - [Asset de videojuego de una minifigura LEGO con Blender MCP](#2096766465730847059)
+- [Un camino forestal de 12 segundos en Blender](#2096986557244723371)
 - [Una batalla de kaijus en la ciudad](#2096251574918013135)
 - [Una villa moderna en Blender](#2095636679264780481)
 - [Expresiones de personaje intercambiables en Blender](#2096525100518453342)
@@ -387,6 +388,26 @@ Usa Blender MCP para crear una versión de Donald Trump como minifigura LEGO que
 ```
 
 [Ver vídeo ↗](https://video.twimg.com/amplify_video/2096766389113556999/vid/avc1/1920x1080/t6dpye7hPDiWK9D2.mp4?tag=29) · [Publicación original](https://x.com/_simonsmith/status/2096766465730847059) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2096986557244723371"></a>
+
+### Un camino forestal de 12 segundos en Blender
+
+[Can Matrix](https://x.com/Jomolos) · 2026-09-07
+
+<a href="https://x.com/Jomolos/status/2096986557244723371"><img src="../assets/previews/3e060bfb3bf3973f0efb048cacbdc625fe879b8bca0cb46c2bb8fd367eb75268.jpg" width="840" loading="lazy" alt="Un camino forestal de 12 segundos en Blender"></a>
+
+Solicitud para crear una escena de un camino forestal de 12 segundos en Blender.
+
+**Prompt**
+
+```text
+Un camino forestal de 12 segundos en Blender
+```
+
+[Ver vídeo ↗](https://video.twimg.com/amplify_video/2096986504044097536/vid/avc1/1800x1440/UX_z5aG0dAl1vdha.mp4?tag=29) · [Publicación original](https://x.com/Jomolos/status/2096986557244723371) · [Volver a los ejemplos](#all-prompts)
 
 ---
 

@@ -27,7 +27,7 @@
 
 探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。
 
-**155 条案例 · 14 种语言 · 6 条附项目源码**
+**156 条案例 · 14 种语言 · 6 条附项目源码**
 
 ## 精选作品
 
@@ -59,6 +59,7 @@
 - [逐街复刻曼哈顿 Unreal 世界](#2095609734845927525)
 - [用概念图驱动 Astra 制作粗糙的 3D 小游戏](#2096068401294929940)
 - [使用 Blender MCP 制作 LEGO 人仔游戏资产](#2096766465730847059)
+- [Blender：12 秒森林小路](#2096986557244723371)
 - [怪兽城市战斗](#2096251574918013135)
 - [Blender 现代别墅场景](#2095636679264780481)
 - [Blender 角色表情切换](#2096525100518453342)
@@ -388,6 +389,26 @@
 ```
 
 [观看视频 ↗](https://video.twimg.com/amplify_video/2096766389113556999/vid/avc1/1920x1080/t6dpye7hPDiWK9D2.mp4?tag=29) · [查看原帖](https://x.com/_simonsmith/status/2096766465730847059) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2096986557244723371"></a>
+
+### Blender：12 秒森林小路
+
+[Can Matrix](https://x.com/Jomolos) · 2026-09-07
+
+<a href="https://x.com/Jomolos/status/2096986557244723371"><img src="../assets/previews/3e060bfb3bf3973f0efb048cacbdc625fe879b8bca0cb46c2bb8fd367eb75268.jpg" width="840" loading="lazy" alt="Blender：12 秒森林小路"></a>
+
+在 Blender 中创建一个 12 秒森林小路场景的提示词。
+
+**提示词**
+
+```text
+Blender 中的 12 秒森林小路
+```
+
+[观看视频 ↗](https://video.twimg.com/amplify_video/2096986504044097536/vid/avc1/1800x1440/UX_z5aG0dAl1vdha.mp4?tag=29) · [查看原帖](https://x.com/Jomolos/status/2096986557244723371) · [返回案例导航](#all-prompts)
 
 ---
 

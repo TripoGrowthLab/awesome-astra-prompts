@@ -26,7 +26,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**155 · Tất cả prompt Astra**
+**156 · Tất cả prompt Astra**
 
 ## Dự án nổi bật
 
@@ -58,6 +58,7 @@
 - [Dựng Manhattan trong Unreal Engine, từng con phố một](#2095609734845927525)
 - [Dùng concept art để tạo game 3D nhỏ thô sơ với Astra](#2096068401294929940)
 - [Mô hình nhân vật LEGO cho game bằng Blender MCP](#2096766465730847059)
+- [Con đường rừng dài 12 giây trong Blender](#2096986557244723371)
 - [Kaiju giao chiến trong thành phố](#2096251574918013135)
 - [Cảnh biệt thự hiện đại trong Blender](#2095636679264780481)
 - [Chuyển đổi biểu cảm nhân vật trong Blender](#2096525100518453342)
@@ -387,6 +388,26 @@ Sử dụng Blender MCP để tạo phiên bản nhân vật LEGO của Donald T
 ```
 
 [Xem video ↗](https://video.twimg.com/amplify_video/2096766389113556999/vid/avc1/1920x1080/t6dpye7hPDiWK9D2.mp4?tag=29) · [Bài đăng gốc](https://x.com/_simonsmith/status/2096766465730847059) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2096986557244723371"></a>
+
+### Con đường rừng dài 12 giây trong Blender
+
+[Can Matrix](https://x.com/Jomolos) · 2026-09-07
+
+<a href="https://x.com/Jomolos/status/2096986557244723371"><img src="../assets/previews/3e060bfb3bf3973f0efb048cacbdc625fe879b8bca0cb46c2bb8fd367eb75268.jpg" width="840" loading="lazy" alt="Con đường rừng dài 12 giây trong Blender"></a>
+
+Yêu cầu tạo một cảnh con đường rừng dài 12 giây trong Blender.
+
+**Prompt**
+
+```text
+Con đường rừng dài 12 giây trong Blender
+```
+
+[Xem video ↗](https://video.twimg.com/amplify_video/2096986504044097536/vid/avc1/1800x1440/UX_z5aG0dAl1vdha.mp4?tag=29) · [Bài đăng gốc](https://x.com/Jomolos/status/2096986557244723371) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
