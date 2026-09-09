@@ -55,7 +55,10 @@ export async function validateOutputs(staging = '.') {
     assert(!/source-derived|hidden prompt|来源整理稿|Get the JSON|Try an idea, then make it yours|What “prompt” means here/i.test(prose), `Removed copy returned in ${path}`)
     if (path !== 'docs/with-code.md') {
       const locale = locales.find(l => path === `docs/catalog.${l.code}.md` || path === (l.code === 'en' ? 'README.md' : l.code === 'zh' ? 'README.zh-CN.md' : ''))
-      for (const placement of ['top', 'bottom']) assert(prose.includes(galleryNotice(locale, manifest.count, manifest.totalCount, placement)), `Missing localized gallery link: ${path}`)
+      assert(!prose.includes('utm_content=catalog_top'), `Top gallery box returned: ${path}`)
+      assert(prose.includes(galleryNotice(locale, manifest.count, manifest.totalCount, 'bottom')), `Missing localized gallery link: ${path}`)
+      if (locale.code === 'en') assert(prose.includes(`**${manifest.totalCount} examples · ${locales.length} languages · ${manifest.sourceCodeCount} examples with source code**`), `Incorrect full collection counts: ${path}`)
+      if (locale.code === 'zh') assert(prose.includes(`**${manifest.totalCount} 条案例 · ${locales.length} 种语言 · ${manifest.sourceCodeCount} 条附项目源码**`), `Incorrect full collection counts: ${path}`)
       const ids = [...prose.matchAll(/<a id="([^"]+)"><\/a>/g)].map(m => m[1])
       assert.deepEqual(ids, ['all-prompts', ...manifest.promptIds], `Missing or reordered examples: ${path}`)
       const badges = [...prose.matchAll(/alt="([^"]+)" src="https:\/\/img.shields.io\/badge\//g)]

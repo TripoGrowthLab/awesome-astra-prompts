@@ -37,7 +37,9 @@ function fenced(value) {
   return `${fence}text\n${value}\n${fence}`
 }
 
-export function renderCatalog(prompts, locale, prefix = '', total = prompts.length) {
+export function renderCatalog(prompts, locale, prefix = '') {
+  const total = prompts.length
+  const sourceCodeCount = prompts.filter(p => p.repository).length
   prompts = selectCatalog(prompts)
   const zh = locale.code === 'zh', en = locale.code === 'en'
   const picks = prompts.filter(p => p.featured && p.images.length).sort((a, b) => a.order - b.order || a.id.localeCompare(b.id, 'en')).slice(0, 4)
@@ -45,9 +47,8 @@ export function renderCatalog(prompts, locale, prefix = '', total = prompts.leng
     `<a href="https://www.tripo3d.ai${en ? '' : `/${locale.code}`}/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=readme_hero"><img src="${prefix}assets/hero.webp" width="100%" alt="Awesome Astra Prompts"></a>`, '',
     `**${locale.intro}**`, '',
     en ? 'Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.' : zh ? '探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。' : '', '',
-    en ? `**${prompts.length} examples · ${locales.length} languages · ${prompts.filter(p => p.repository).length} examples with source code**` : zh ? `**${prompts.length} 条案例 · ${locales.length} 种语言 · ${prompts.filter(p => p.repository).length} 条附项目源码**` : `**${prompts.length} · ${catalogTitle(locale)}**`, '',
+    en ? `**${total} examples · ${locales.length} languages · ${sourceCodeCount} examples with source code**` : zh ? `**${total} 条案例 · ${locales.length} 种语言 · ${sourceCodeCount} 条附项目源码**` : `**${total} · ${catalogTitle(locale)}**`, '',
   ]
-  lines.push(galleryNotice(locale, prompts.length, total, 'top'), '')
   if (picks.length) {
     lines.push(`## ${locale.featured}`, '', '<table>')
     for (let i = 0; i < picks.length; i += 2) {
@@ -87,12 +88,12 @@ export function renderCatalog(prompts, locale, prefix = '', total = prompts.leng
   return lines.join('\n').replace(/\n{4,}/g, '\n\n\n')
 }
 
-export function renderAll(prompts, total = prompts.length) {
-  prompts = selectCatalog(prompts)
+export function renderAll(prompts) {
   const output = new Map()
-  for (const locale of locales) output.set(`docs/catalog.${locale.code}.md`, renderCatalog(prompts, locale, '../', total))
-  output.set('README.md', renderCatalog(prompts, locales.find(l => l.code === 'en'), '', total))
-  output.set('README.zh-CN.md', renderCatalog(prompts, locales.find(l => l.code === 'zh'), '', total))
+  for (const locale of locales) output.set(`docs/catalog.${locale.code}.md`, renderCatalog(prompts, locale, '../'))
+  output.set('README.md', renderCatalog(prompts, locales.find(l => l.code === 'en'), ''))
+  output.set('README.zh-CN.md', renderCatalog(prompts, locales.find(l => l.code === 'zh'), ''))
+  prompts = selectCatalog(prompts)
   const lines = [generated, '', '# Start with source code', '', '[← Awesome Astra Prompts](../README.md)', '', 'Explore the linked projects and check their own licenses before reuse.', '']
   const repos = [...new Set(prompts.map(p => p.repository).filter(Boolean))]
   for (const repo of repos) {

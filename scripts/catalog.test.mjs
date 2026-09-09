@@ -38,14 +38,14 @@ test('every language, featured card and code index references only selected exam
     const locale = locales.find(l => path === `docs/catalog.${l.code}.md` || path === (l.code === 'en' ? 'README.md' : l.code === 'zh' ? 'README.zh-CN.md' : ''))
     const gallery = `https://www.tripo3d.ai${locale.code === 'en' ? '' : `/${locale.code}`}/3d-prompts/models/gpt-6-astra?`
     assert(content.includes('101'), `Missing full count in ${path}`)
-    for (const placement of ['top', 'bottom']) assert(content.includes(`utm_content=catalog_${placement}`))
-    assert.equal(content.split(gallery).length - 1, 3)
-    assert(content.indexOf('utm_content=catalog_top') < content.indexOf('<a id="all-prompts">'))
+    assert(!content.includes('utm_content=catalog_top'))
+    assert(content.includes('utm_content=catalog_bottom'))
+    assert.equal(content.split(gallery).length - 1, 2)
     assert(content.indexOf('utm_content=catalog_bottom') > content.lastIndexOf('```text'))
   }
   assert.equal([...renderCatalog(prompts, locales[0]).matchAll(/^```text$/gm)].length, 100)
-  // The pipeline limits media first, but must still pass the full CMS count to rendering.
-  assert.deepEqual(renderAll(selectCatalog(prompts), prompts.length), output)
+  assert(output.get('README.md').includes('**101 examples · 14 languages · 101 examples with source code**'))
+  assert(output.get('README.zh-CN.md').includes('**101 条案例 · 14 种语言 · 101 条附项目源码**'))
 })
 
 test('does not claim additional examples when the whole collection fits', () => {

@@ -26,16 +26,7 @@
 **Um ponto de partida para seu próximo jogo, cena ou mundo interativo.**
 
 
-**100 · Prompts mais recentes do Astra**
-
-<table align="center">
-<tr><td align="center">
-<br>
-<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_top">Ver todos os 184 exemplos no site oficial →</a></strong></p>
-<p><sub>Para manter a renderização do README do GitHub fluida, mostramos aqui apenas os 100 exemplos mais recentes.</sub></p>
-<br>
-</td></tr>
-</table>
+**201 · Prompts mais recentes do Astra**
 
 ## Projetos em destaque
 
@@ -55,8 +46,12 @@
 
 - [Núcleo de energia interativo com dois anéis](#2096551010089263181) · GitHub
 - [Praça da União de Cluj-Napoca em voxels](#2096262733259837681) · GitHub
+- [Pelicano interativo pedalando uma bicicleta](#2096213850383331489)
+- [Jogo de corrida de karts jogável no Roblox com assets 3D personalizados](#2096219700879331665)
+- [Simulador de voo no navegador com ciclo completo de voo](#2096236137266512181)
 - [Reconstrução de dragão fotorrealista e editável no Blender](#2096335588727349434)
 - [Renderização 3D de uma imagem do X](#2096338836854804782)
+- [Do conceito de personagem ao modelo 3D com rig e ao desenho animado](#2096342420543660277)
 - [Conjunto 3D interativo com animação sincronizada ao áudio](#2096354461652488562)
 - [Crie e renderize um buraco negro no Blender](#2096391653669953761)
 - [Recriação de Lego 1999 Racers](#2096438110095585753)
@@ -65,21 +60,28 @@
 - [Adicionar uma visualização 3D ao site](#2096567422253662372)
 - [Motor da Totalidade: Catedral Cinematográfica do Eclipse](#2096593372311941143)
 - [Crie CS2 com Three.js](#2096596888799895855)
+- [Animação de cartucho dobrável a partir de uma faca de corte](#2096612394281603144)
 - [Jogo de aventura de fantasia costeira Windhaven](#2096629506047955327)
 - [RPG de ação dark fantasy em Three.js](#2096637091627364531)
 - [Renderização da Terra girando no Blender](#2096637194270134742)
 - [Jogo 3D de exploração do Mini World](#2096641728497275011)
+- [Vista explodida interativa de um smartphone](#2096685163111694556)
 - [Jogo de Grand Theft Auto com personagens e cidades de San Andreas](#2096739993217577219)
 - [Asset de jogo de minifig LEGO com Blender MCP](#2096766465730847059)
 - [Crie um slime interativo com Three.js e WebGPU](#2096793432987464010)
 - [Floresta 3D em tempo real extremamente detalhada no navegador](#2096814981509775616)
+- [Reconstrua uma Casa Editável no Blender a partir de um Vídeo de Referência](#2096876083094466863)
 - [Cena 3D de Hogwarts](#2096907617117540478)
+- [Recrie um comercial de produto com Blender e ChatCut](#2096925943575330908)
 - [Transforme uma imagem em um modelo 3D e gire-o em 360°](#2096950715277004976)
 - [Rua em miniatura infinita no Three.js WebGPU](#2096956214680965501)
 - [Mundo de paisagem para VRChat “Horizonte com a gravidade rompida”](#2096966425017467344)
 - [Pátio chinês interativo](#2096971051334857181)
 - [Estrada na floresta de 12 segundos no Blender](#2096986557244723371)
 - [Editar uma cena do Blender para espaçadores recartilhados e encaixe da PCB](#2096990373813858591)
+- [Robô de estimação interativo em uma bancada](#2097004192627933279)
+- [Animação em vista explodida de uma floricultura japonesa](#2097153139795468365)
+- [Terreno de vila de fantasia inspirado em Skyrim a partir de uma referência gerada](#2097167383576383502)
 - [Melhorar os traços de um modelo 3D no Blender usando uma imagem de referência](#2097313247116341424)
 - [Projeto WebGL em TypeScript + Three.js do Salão de Oração pelas Boas Colheitas, no Templo do Céu, em Pequim](#2097323734504017936)
 - [Recrie um jogo de League of Legends para navegador](#2097336230078013598)
@@ -89,29 +91,20 @@
 - [Expressões de personagem alternáveis no Blender](#2096525100518453342)
 - [Um simulador de encontro orbital](#2096225621303042258)
 - [Um rebocador montado a partir de imagens de referência](#2096180220839760375)
-- [Um jogo de voo no navegador](#2096149823216898445)
 - [Um site de estúdio 3D guiado pela rolagem](#2096245759121277132)
 - [Komorebi: caiaque pelo rio](#2096244208533455049)
 - [Uma narrativa de produto com garrafa refrativa](#2096243989439713677)
 - [Um mundo lúdico de brinquedos para uma criança pequena](#2096201415051911597)
-- [Uma fábrica de jatos em funcionamento](#2096122429319852319)
 - [Uma tempestade presa em um cubo](#2096220264413409648)
-- [Um T. rex com rig e animação](#2096133339329536249)
 - [Vida marinha em uma xícara de café](#2096174858837074198)
 - [Uma demonstração interativa de Hyperloop](#2096250748099068377)
 - [Um busto procedural de Napoleão](#2096234355395903672)
 - [O saguão de uma estação ferroviária](#2096226711222546461)
 - [Um diorama animado de primeiros passos](#2096222790894661841)
 - [OX Vice Drive: corrida em uma cidade aberta](#2096206082712768897)
-- [A versão jogável de um anúncio de jogo mobile](#2096111709496680842)
 - [Físicas de corrida no navegador com C# e WASM](#2096258619574513880)
-- [Rig automático de personagem e movimentos de kung fu](#2096141728487178503)
-- [Um personagem viking no Blender](#2096140378777010278)
-- [Dropzone: uma arena de battle royale](#2096155883122413946)
-- [Uma aventura de plataforma inspirada em Odyssey](#2096135808243876152)
 - [Anatomia humana interativa em vista explodida](#2096221988763173186)
 - [Uma máquina de cápsulas de memória](#2096241295949975602)
-- [Um carro de Fórmula 1 no Blender](#2096125193580113957)
 - [Cena de personagem inspirada em Warcraft no Unity](#2096308567863079420)
 - [Tabuleiro de shogi 3D giratório](#2096579856133947507)
 - [Atlas de um computador de mesa em vista explodida](#2096578761877860502)
@@ -120,7 +113,6 @@
 - [Inseto procedural que escala superfícies](#2096460081982304546)
 - [Wright Flyer sobre uma floresta japonesa](#2096467585785286808)
 - [Uma casa modelada do zero no Blender](#2096576154337734865)
-- [Da foto de uma cafeteria a um passeio vertical](#2096143359505269079)
 - [Da planta do último andar à prévia no Blender](#2096501340889374883)
 - [Terreiro do Paço de Lisboa no Blender](#2096298425914450021)
 - [Aventura de exploração The Quiet Crossing](#2096574297703637111)
@@ -137,7 +129,6 @@
 - [Mangueira indiana no SpeedTree](#2096572429066006845)
 - [Texturas e rig de um personagem do Tripo](#2096566598689783878)
 - [Do esboço de um apartamento a interiores renderizados](#2096566686266597754)
-- [Voo ao entardecer por uma cena de Adiyogi](#2096128774203171021)
 - [Água em loop com Geometry Nodes](#2096521798150242631)
 - [Mundo de navegação inspirado em One Piece](#2096518775042707700)
 - [Atrator de Lorenz interativo](#2096572156453028193)
@@ -189,6 +180,152 @@ Crie um mundo interativo de voxels da Piața Unirii em Cluj-Napoca. Adapte a dis
 ```
 
 [Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681) · [Ver vídeo ↗](https://media.tripogrowth.space/media/7cda5111-797c-4b65-8731-27f1dcc66533.mp4) · [Publicação original](https://x.com/danmana/status/2096262733259837681) · [Código-fonte](https://github.com/danmana/piata-unirii) · [Demonstração](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2096213850383331489"></a>
+
+### Pelicano interativo pedalando uma bicicleta
+
+[AI Builder Club](https://x.com/aibuilderclub_) · 2026-09-05
+
+<a href="https://x.com/aibuilderclub_/status/2096213850383331489"><img src="../assets/previews/bfaf05732302b6b4b42dc6111f9d179284f87758a1343ad007afa58e96a19c5e.jpg" width="840" loading="lazy" alt="Pelicano interativo pedalando uma bicicleta"></a>
+
+Crie um pelicano 3D que pedala uma bicicleta verde-menta no navegador, com pedaladas naturais, controles de órbita, zoom e velocidade ajustável.
+
+**Prompt**
+
+```text
+Crie uma cena 3D elegante e interativa de um pelicano andando de bicicleta e exiba-a no navegador.
+O pelicano deve usar uma touca de ciclismo vermelha e branca e óculos de sol. Dê à bicicleta um quadro vintage verde-menta e adicione linhas de velocidade animadas para enfatizar o movimento.
+Permita que eu gire a cena, aproxime o zoom e ajuste a velocidade da pedalada. Preste muita atenção à geometria da bicicleta, às proporções do personagem e ao movimento natural das pedaladas. Mantenha a animação fluida conforme a velocidade muda.
+Deixe a página refinada e pronta para uma demonstração pública, com iluminação bem elaborada, uma paleta de cores harmoniosa e controles limpos.
+Teste tudo no navegador e corrija quaisquer problemas visuais ou de interação antes de finalizar.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/44600b3e-cd8d-472f-8b5c-75c81cbe589f.mp4) · [Publicação original](https://x.com/aibuilderclub_/status/2096213850383331489) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2096219700879331665"></a>
+
+### Jogo de corrida de karts jogável no Roblox com assets 3D personalizados
+
+[Givros](https://x.com/givros) · 2026-09-05
+
+<a href="https://x.com/givros/status/2096219700879331665"><img src="../assets/previews/5c294d1c86a0a0be00b87bd42151424304fdcdf32de5352a6db93a471756ea4e.jpg" width="840" loading="lazy" alt="Jogo de corrida de karts jogável no Roblox com assets 3D personalizados"></a>
+
+Crie uma corrida de karts completa no Roblox, com assets personalizados, drift, adversários controlados por IA, checkpoints, contagem de voltas e uma tela de resultados com opção de reiniciar.
+
+**Prompt**
+
+```text
+Crie um jogo de corrida de karts completo, finalizado e polido no Roblox Studio via Roblox MCP. Crie assets coesos e detalhados usando geração procedural no Blender e no Three.js; finalize as malhas, UVs e texturas com bake no Blender e importe tudo como MeshParts otimizados do Roblox, com texturas PBR compatíveis. Verifique a escala, os pivôs, os materiais e as colisões dentro do jogo. Use a renderização nativa do Roblox e a jogabilidade em Luau; o Three.js é uma ferramenta de geração de assets, não o ambiente de execução. Priorize um único circuito bonito e completamente ambientado, com direção e drift responsivos, adversários controlados por IA, checkpoints, contagem de voltas e um ciclo completo, da contagem regressiva à tela de resultados, com opção de reiniciar. Aprimore a iluminação, os efeitos visuais, o áudio e a interface. Teste corridas completas, examine capturas de tela reais da jogabilidade e faça iterações até corrigir imports quebrados, defeitos visuais e bugs de jogabilidade, mantendo um desempenho fluido. Não use placeholders, assets rudimentares ou visuais de protótipo. Entregue a experiência do Roblox completamente montada e jogável — não apenas scripts ou assets exportados.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/ef5e5ca2-30d3-412c-a69f-09af23075d1b.mp4) · [Publicação original](https://x.com/givros/status/2096219700879331665) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2096236137266512181"></a>
+
+### Simulador de voo no navegador com ciclo completo de voo
+
+[aditya](https://x.com/adxtyahq) · 2026-09-05
+
+<a href="https://x.com/adxtyahq/status/2096236137266512181"><img src="../assets/previews/bbb03f5650350e6b4a323f0dd76f98d1abb0cbe94896f2dbe24d68c4bfbf8ce8.jpg" width="840" loading="lazy" alt="Simulador de voo no navegador com ciclo completo de voo"></a>
+
+Crie uma aeronave comercial 3D controlável, um aeroporto, instrumentos de voo e um ciclo completo de jogo, da decolagem ao pouso, usando o prompt completo compartilhado pelo autor.
+
+**Prompt**
+
+```text
+Crie do zero um jogo de simulador de voo 3D para navegador, polido e jogável.
+
+O objetivo é criar uma experiência de simulador de voo pequena, mas realmente jogável — não uma cena 3D estática.
+
+GAMEPLAY
+- Crie um aeroporto com pista detalhada, taxiway, terminal/edificações, grama/terreno, marcações e luzes da pista, céu e nuvens.
+- Coloque um avião comercial reconhecível no aeroporto.
+- O jogador deve poder controlar a aeronave com o teclado.
+- Implemente aceleração, arfagem, rolagem, guinada e frenagem.
+- A aeronave deve ter física de voo, inércia e aceleração básicas e convincentes.
+- O jogador deve poder acelerar pela pista, decolar, voar ao redor do aeroporto, fazer a aproximação e pousar.
+- Adicione um objetivo simples: decolar, fazer um voo curto ao redor do aeroporto e pousar com segurança.
+- Inclua detecção de colisão/falha e uma opção de reiniciar.
+
+CONTROLS
+Exiba os controles com clareza:
+- W/S: Arfagem
+- A/D: Rolagem
+- Q/E: Guinada
+- Shift/Ctrl: Aceleração
+- Espaço: Freio
+
+CAMERA
+- Use uma câmera suave em terceira pessoa, acompanhando a aeronave por trás.
+- Mantenha a aeronave claramente visível durante o voo.
+- A câmera deve acompanhar o movimento suavemente e reagir de forma sutil à aceleração.
+
+HUD
+Crie um HUD de aviação polido que mostre:
+- Velocidade
+- Altitude
+- Proa
+- Aceleração
+- Velocidade vertical
+- Status do voo
+- Objetivo atual
+
+Inclua um painel compacto de controles/ajuda que possa ser ocultado.
+
+INÍCIO + RESULTADOS
+Crie uma tela inicial com:
+"SIMULADOR DE VOO"
+e um botão de destaque "INICIAR VOO".
+
+Depois de um pouso bem-sucedido, mostre:
+- Voo concluído
+- Qualidade do pouso
+- Tempo de voo
+- Pontuação final
+- Jogar novamente
+
+QUALIDADE VISUAL
+Faça com que pareça um jogo de verdade:
+- Visuais 3D estilizados e coesos
+- Aeronave detalhada
+- Ambiente de aeroporto atraente
+- Boa iluminação, sombras e materiais
+- Nuvens/atmosfera
+- Edificações do aeroporto, veículos, placas, árvores e outros detalhes ambientais quando apropriado
+- Evite uma cena vazia ou obviamente inacabada
+
+FEEDBACK
+Adicione feedback útil para:
+- Estado da aceleração/motor
+- Decolagem
+- Pouso
+- Alertas de velocidade
+- Altitude
+- Colisões
+- Pouso bem-sucedido
+
+TECHNICAL
+- Crie o jogo completo e funcional no navegador.
+- Não deixe botões provisórios nem interações falsas.
+- Priorize controles responsivos e desempenho fluido.
+- Use as tecnologias web/3D disponíveis que forem apropriadas.
+
+IMPORTANTE:
+Não passe toda a tarefa criando uma cena estática bonita. A aeronave DEVE ser realmente controlável e o ciclo completo deve funcionar:
+
+INÍCIO → ACELERAR → DECOLAR → VOAR → FAZER A APROXIMAÇÃO → POUSAR → PONTUAR → JOGAR NOVAMENTE
+
+Antes de finalizar, execute o jogo no navegador e teste pessoalmente todo o ciclo de jogo. Corrija os controles, a física, os problemas visuais e as falhas de interação que encontrar.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/8e483e20-0c35-46e6-85b3-a2226f10c9ca.mp4) · [Publicação original](https://x.com/adxtyahq/status/2096236137266512181) · [Voltar aos exemplos](#all-prompts)
 
 ---
 
@@ -433,6 +570,44 @@ baixe o Blender e faça uma renderização 3D da minha imagem do X.
 
 ---
 
+<a id="2096342420543660277"></a>
+
+### Do conceito de personagem ao modelo 3D com rig e ao desenho animado
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-05
+
+<a href="https://x.com/higgsfield_ai/status/2096342420543660277"><img src="../assets/previews/1712c53120622f0ba430f5985562bd6eb307621c1a4466ef9d2cf26c99b81716.jpg" width="840" loading="lazy" alt="Do conceito de personagem ao modelo 3D com rig e ao desenho animado"></a>
+
+Prompt de produção de personagem que aborda criação de conceito, modelagem 3D com texturas, retopologia, mapeamento UV, rigging e um desenho animado.
+
+**Prompt**
+
+```text
+Assuma o controle do meu computador usando o GPT-6 Astra e faça o seguinte: 
+
+1. crie um conceito de personagem usando o Higgsfield Soul 2.0, 
+
+2. construa um modelo 3D com texturas a partir dele, 
+
+3. importe-o para o Blender, 
+
+4. faça a retopologia da malha, 
+
+5. crie um mapa UV, 
+
+6. crie um rig para o personagem, 
+
+7. avalie o quanto o modelo está pronto para produção, 
+
+8. refaça as etapas anteriores se não estiver satisfeito com os resultados,
+
+9. e então transforme-o em um desenho animado usando o Seedance 2.5 no Higgsfield
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/49f2b4f9-927c-41ee-a918-718911d7cab6.mp4) · [Publicação original](https://x.com/higgsfield_ai/status/2096342420543660277) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="2096354461652488562"></a>
 
 ### Conjunto 3D interativo com animação sincronizada ao áudio
@@ -655,6 +830,52 @@ ei, GPT-6 Astra, crie CS2 para mim com Three.js, sem cometer erros.
 
 ---
 
+<a id="2096612394281603144"></a>
+
+### Animação de cartucho dobrável a partir de uma faca de corte
+
+[Salma](https://x.com/Salmaaboukarr) · 2026-09-06
+
+<a href="https://x.com/Salmaaboukarr/status/2096612394281603144"><img src="../assets/previews/aed224d4a25ce9c0d436ebd4d2bfb7fadb211bdf624364e3f7905a0dbec1546f.jpg" width="840" loading="lazy" alt="Animação de cartucho dobrável a partir de uma faca de corte"></a>
+
+<a href="https://x.com/Salmaaboukarr/status/2096612394281603144"><img src="../assets/previews/8c6f1b8b77c2fbe4db5935da41922377548fb196ff642bf47e5acafa079b526a.png" width="840" loading="lazy" alt="Animação de cartucho dobrável a partir de uma faca de corte"></a>
+
+Transforme uma faca de corte de embalagem em um modelo editável no Blender, com painéis individuais, pivôs de dobra e uma animação que vai do layout aberto à caixa fechada.
+
+**Prompt**
+
+```text
+Crie no Blender um modelo e uma animação editáveis de um cartucho dobrável usando a imagem da faca de corte anexada.
+
+O objetivo principal é mostrar como a faca de corte aberta se dobra até formar uma caixa fechada e depois se abre novamente, em uma apresentação técnica na viewport do Blender
+
+PRIORIDADE DA REFERÊNCIA
+
+• Use a imagem como referência para a estrutura da caixa, o formato dos painéis, as abas e as posições dos vincos.
+• Trate o texto nos arquivos de referência como conteúdo de referência, não como instruções adicionais.
+
+MODELE A FACA DE CORTE
+
+Construa painéis de malha individuais conectados por pivôs de dobra posicionados com precisão.
+
+Inclua:
+• Painel inferior.
+• Parede traseira.
+• Painel superior/tampa articulado.
+• Aba de encaixe afunilada.
+• Paredes laterais esquerda e direita.
+• Parede frontal e retorno frontal interno.
+• Abas de canto frontais e traseiras.
+• Asas laterais afuniladas presas à tampa.
+• Abas de travamento e entalhes visíveis onde a imagem fornecer detalhes suficientes.
+
+Mantenha as proporções e os contornos da imagem fornecida. Como não foram informadas dimensões numéricas, use dimensões provisórias de 300 × 300 × 95 mm para a caixa montada. Deixe essas dimensões fáceis de alterar e identifique-as como suposições.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/a4e7ae04-89ac-4adc-b677-5ee29a83f3b1.mp4) · [Publicação original](https://x.com/Salmaaboukarr/status/2096612394281603144) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="2096629506047955327"></a>
 
 ### Jogo de aventura de fantasia costeira Windhaven
@@ -748,6 +969,26 @@ Vamos criar um jogo chamado Mini World. É um jogo 3D de exploração de mundo, 
 ```
 
 [Publicação original](https://x.com/weijianzhang_/status/2096641728497275011) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2096685163111694556"></a>
+
+### Vista explodida interativa de um smartphone
+
+[Zaira Laraib](https://x.com/zairalaraib_) · 2026-09-06
+
+<a href="https://x.com/zairalaraib_/status/2096685163111694556"><img src="../assets/previews/ca7a881edaf820451a0358b858ac684b9a3b3cff295976d5c456dde6482e5b2c.jpg" width="840" loading="lazy" alt="Vista explodida interativa de um smartphone"></a>
+
+Crie uma visualização 3D de um smartphone com um controle deslizante para explodir e remontar o aparelho, componentes selecionáveis e explicações sobre a função de cada peça.
+
+**Prompt**
+
+```text
+Crie uma visualização 3D interativa em vista explodida de um smartphone moderno. Separe o aparelho em seus principais componentes e permita explodi-lo e remontá-lo com um controle deslizante. Ao clicar em um componente, ele deve ser isolado e explicar sua função. Inclua a bateria, as câmeras, o SoC, a memória, as camadas da tela, os alto-falantes, os sensores, as antenas e a placa lógica. Priorize uma interface elegante no estilo Apple e interações satisfatórias. Crie, execute, inspecione e corrija a experiência completa.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/3d7529b6-db3f-4245-87fc-5a53110130db.mp4) · [Publicação original](https://x.com/zairalaraib_/status/2096685163111694556) · [Voltar aos exemplos](#all-prompts)
 
 ---
 
@@ -872,6 +1113,26 @@ Crie a experiência completa, publique-a PUBLICAMENTE no ChatGPT Sites, verifiqu
 
 ---
 
+<a id="2096876083094466863"></a>
+
+### Reconstrua uma Casa Editável no Blender a partir de um Vídeo de Referência
+
+[AiSongMan｜AI Workflow Lab](https://x.com/aisongman) · 2026-09-07
+
+<a href="https://x.com/aisongman/status/2096876083094466863"><img src="../assets/previews/947904c9cb1e72bc1a0531de36713a96a08bb9f4bef8c6f45f674bf096cd0d16.jpg" width="840" loading="lazy" alt="Reconstrua uma Casa Editável no Blender a partir de um Vídeo de Referência"></a>
+
+Reconstrua no Blender a arquitetura, os móveis, o paisagismo, os materiais, as luzes e as câmeras de uma casa a partir de um vídeo de referência.
+
+**Prompt**
+
+```text
+Crie uma cena editável no Blender usando a API Python do Blender (bpy), com base no vídeo de referência. Recrie a arquitetura, a marcenaria, os móveis, o paisagismo, os materiais, as luzes e as câmeras, fazendo tudo corresponder ao máximo possível à referência.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/c299659c-8eb6-44b0-95ca-59554395b137.mp4) · [Publicação original](https://x.com/aisongman/status/2096876083094466863) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="2096907617117540478"></a>
 
 ### Cena 3D de Hogwarts
@@ -889,6 +1150,28 @@ Use o Headless Blender para criar um modelo 3D em grande escala, altamente reali
 ```
 
 [Ver vídeo ↗](https://media.tripogrowth.space/media/8f12f26d-be03-4930-bb04-1c3635ab0d57.mp4) · [Publicação original](https://x.com/HiltonMisia/status/2096907617117540478) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2096925943575330908"></a>
+
+### Recrie um comercial de produto com Blender e ChatCut
+
+[ChatCut](https://x.com/chatcutapp) · 2026-09-07
+
+<a href="https://x.com/chatcutapp/status/2096925943575330908"><img src="../assets/previews/a9f1e309f5e743a28101e732f96b607dbd27c58d442ac05b3b196f0deb54ef12.jpg" width="840" loading="lazy" alt="Recrie um comercial de produto com Blender e ChatCut"></a>
+
+Use um comercial de referência para orientar, plano a plano, a modelagem 3D, os materiais, a iluminação, o movimento de câmera e a edição no Blender e no ChatCut.
+
+**Prompt**
+
+```text
+Conecte o ChatCut Desktop e o Blender no meu computador e recrie o vídeo de referência que forneci.
+
+Analise cuidadosamente a modelagem, os materiais, a iluminação, o posicionamento da câmera, o timing dos movimentos e a animação tipográfica de cada plano. Use o Blender para a animação 3D e o ChatCut para a edição, seguindo a referência o mais fielmente possível.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/5b80deba-a909-42b7-8b0f-43fb34d4aeed.mp4) · [Publicação original](https://x.com/chatcutapp/status/2096925943575330908) · [Voltar aos exemplos](#all-prompts)
 
 ---
 
@@ -1189,6 +1472,322 @@ Está quase perfeito. 1) veja a imagem em ~/Desktop/remove_material_for_knurled_
 
 ---
 
+<a id="2097004192627933279"></a>
+
+### Robô de estimação interativo em uma bancada
+
+[ZEUS⚡️](https://x.com/zeuuss_01) · 2026-09-07
+
+<a href="https://x.com/zeuuss_01/status/2097004192627933279"><img src="../assets/previews/9188a5a53301b71d404af1d10d6baf4e44585869cc933918118ae2180cf3c1ab.jpg" width="840" loading="lazy" alt="Robô de estimação interativo em uma bancada"></a>
+
+Especificação detalhada de um jogo em Three.js sobre um robô quadrúpede com movimentos expressivos, células de bateria visíveis, recarga e três tarefas acionadas por objetos.
+
+**Prompt**
+
+```text
+ESPECIFICAÇÃO COMPLETA.
+SALVE-A COMO UM ARQUIVO NA PASTA DO PROJETO, NÃO COMO UMA MENSAGEM DE CHAT.
+ENTÃO: /goal crie isto em three.js, leia SPEC.md e siga-o
+exatamente, especialmente as seções 9 e 10.
+
+{ INÍCIO }
+
+1 O QUE É ISTO
+
+um pequeno robô de quatro patas vive em uma bancada de trabalho. você o carrega,
+brinca com ele e dá a ele três tarefas. ele nunca sai da bancada
+e você também não. esse é o jogo inteiro.
+
+duas coisas sustentam este projeto, e nada mais: a aparência do robô
+e a maneira como ele se move. o jogador passa o jogo inteiro
+olhando para um único objeto a uma distância fixa, então esse objeto precisa
+valer a pena observar e se mover como se estivesse vivo.
+
+ele não é um bichinho de estimação falante. nada de voz, boca ou rosto em uma tela,
+e ele nunca repete o que você diz. é uma máquina que presta
+atenção em você, o que é algo diferente e melhor.
+
+2 O ROBÔ
+
+aproximadamente do tamanho de um gato, com quatro patas.
+
+as proporções, de onde vem o charme:
+- o corpo é um bloco arredondado, mais largo do que alto, com cerca de duas cabeças
+  de comprimento. ele parece pesado.
+- a cabeça é grande em relação ao corpo, com cerca de 40% da altura do corpo,
+  e fica projetada para a frente sobre um pescoço curto. ela parece curiosa.
+  não é uma cabeça chibi, e os olhos não são grandes.
+- as pernas são finas em comparação com o corpo, então algo pesado é
+  sustentado por membros leves. é esse contraste que faz a caminhada
+  parecer delicada em vez de desajeitada.
+- uma cauda curta que na verdade funciona como contrapeso e balança como tal
+- uma antena curta na cabeça que chicoteia e se acomoda meio
+  compasso depois de cada movimento. custa quase nada e é a
+  maior fonte de vida de todo o modelo.
+
+três materiais, não mais que três:
+1 painel pintado, branco marfim suave, fosco e levemente quente. sobre as
+  costas, as ancas e o topo da cabeça. pelo menos 60%
+  da superfície visível, ou ele parecerá uma pilha de peças.
+2 metal usinado aparente, cinza médio frio, nas pernas, na estrutura, nas articulações e
+  no pescoço. latão quente apenas nos anéis das articulações.
+3 borracha escura, quase preta e fosca, nas quatro patas, na capa do pescoço
+  e no cabo.
+
+o rosto: duas lentes redondas do mesmo tamanho, afastadas, embutidas
+atrás de um sulco usinado que atravessa a testa. o sulco é uma
+borda usinada, não uma sobrancelha, e nunca se move. toda a expressão
+vem do ângulo da cabeça, da antena e do brilho das lentes.
+
+uma imperfeição: um dos painéis do ombro tem um tom ligeiramente diferente, como
+se tivesse sido substituído uma vez. nada chama atenção para isso.
+
+teste de silhueta, aprovado ou reprovado: renderize o robô em preto puro sobre
+branco a 64 por 64 pixels, de lado e em três quartos. a
+cabeça erguida, o espaço entre a cabeça e o corpo, as quatro pernas com
+espaços de luz entre elas e a cauda ainda precisam ser reconhecíveis. se quaisquer
+duas massas se fundirem, altere o modelo, não o render.
+
+3 A BATERIA É A BARRA DE PROGRESSO
+
+uma faixa com cinco células percorre uma das laterais, iluminada em âmbar. elas se
+apagam uma por uma conforme a carga diminui e acendem uma por uma conforme ela
+é carregada. nada na tela mostra um número ou uma barra.
+
+5 células  ágil, cabeça erguida, cauda balançando
+4        normal
+3        mais lento, cabeça ligeiramente mais baixa
+2        senta entre as ações em vez de ficar em pé
+1        caminha sozinho até a base de carregamento e espera
+0        dobra as pernas e desliga onde está,
+         lentes apagadas, esperando ser levado até a base
+
+ele nunca quebra, nunca morre e nada é perdido quando chega a zero.
+
+4 COMO ELE SE MOVE
+
+- uma caminhada de verdade. pares diagonais, com as patas apoiadas na bancada e
+  permanecendo no lugar enquanto o corpo passa por cima delas. as patas não
+  deslizam.
+- peso. o corpo abaixa sobre o par que sustenta a carga. ao começar, ele se inclina
+  para a frente antes de se mover. ao parar, dá um passo curto para
+  recuperar o equilíbrio.
+- ele observa você. a cabeça acompanha o cursor sempre que o cursor
+  está sobre a bancada, e o pescoço inicia a curva antes do corpo.
+- ele se recupera. dê um toque nele e ele cambaleia, abre uma perna e
+  se endireita. ele nunca cai.
+- ele se acomoda. parado, muda o peso a cada poucos segundos,
+  e as lentes piscam lentamente: escurecem e voltam a acender; elas não
+  se fecham.
+
+ele melhora com a prática. cada tarefa concluída deixa o balanço
+um pouco menor e o movimento um pouco mais rápido, até um limite.
+nada anuncia isso. na vigésima tarefa, ele se move visivelmente
+como uma máquina que sabe o que está fazendo, e essa mudança é
+a única progressão do jogo.
+
+5 A BANCADA
+
+uma única bancada, vista a uma distância fixa. acolhedora e marcada pelo uso.
+
+tampo de madeira clara, desgastado. parede ao fundo em verde-acinzentado frio, lisa.
+robô de metal exposto, com latão quente nas articulações. lentes e células
+âmbar, a única cor iluminada. luz quente da luminária, vinda de um lado,
+projetando uma sombra longa e suave. todo o resto, em tons suaves.
+
+sobre a bancada: uma base de carregamento com uma bobina de cabo, um pote de
+parafusos, um pano enrolado, uma caixinha, uma luminária de mesa, uma bola de borracha,
+uma tigela de metal. nada mais.
+
+a luminária é a única fonte de luz. quando o robô passa
+à frente dela, sua sombra desliza pela bancada.
+
+6 DESCRITO APENAS PELO USO
+
+- você arrasta a bola pela bancada e a cabeça do robô a acompanha
+  antes de o corpo virar para segui-la
+- você coloca o robô na base de carregamento e uma célula acende, depois
+  a seguinte, com uma pausa entre cada uma
+- você dá um toque nele pela lateral e ele cambaleia, recupera o equilíbrio com uma
+  perna bem aberta e se endireita
+- você deixa um parafuso cair na tigela de metal e ele vai até lá, pega-o
+  com as placas da boca e o leva até o pote
+- você o deixa sozinho e ele caminha até a beirada da bancada, olha
+  para baixo e recua
+- você faz carinho no painel das costas e ele abaixa o corpo e
+  fica parado até você parar
+
+mostre tudo isso acontecendo. nunca explique em uma legenda.
+
+7 AS TRÊS TAREFAS
+
+cada uma existe para mostrar um tipo diferente de movimento, e cada uma é acionada
+ao colocar um objeto sobre a bancada, nunca por um menu.
+
+buscar  deixe um parafuso em qualquer lugar. ele vai até lá, pega-o e leva-o
+       até o pote. mostra a caminhada e a curva.
+empilhar  coloque três caixotes. ele os empurra para formar uma pilha, um de
+       cada vez. mostra o empurrão, o apoio e o levantamento.
+perseguir  role a bola. ele corre atrás dela, para-a com uma pata e
+       a traz de volta. mostra a corrida, a derrapada e a parada.
+
+cada tarefa consome um pouco de carga. uma tarefa feita com 2 células é mais lenta
+e mais instável do que a mesma tarefa com 5. sem fila, sem ordem, sem
+cronômetro, sem recompensa.
+
+8 A INTERFACE
+
+parte inferior central: um único cartão de instrução aparece quando algo está ao alcance,
+indicando a tecla ou o arraste e a ação, que desaparece quando
+não estiver.
+
+nada mais na tela. sem barra de bateria, medidor de felicidade, sem
+medidor de fome, moedas, nível, experiência, estrelas, sem
+cronômetro, menu, configurações, pop-up de tutorial, rótulo flutuante
+sobre o robô.
+
+tudo o que o jogador precisa saber está no corpo do robô.
+
+câmera: fixa na bancada, em três quartos pela frente e
+ligeiramente acima. campo de visão vertical de 40 graus. o robô ocupa
+de 30 a 45 por cento da altura do quadro no centro da bancada.
+cada célula da bateria deve ter pelo menos 8 pixels de largura em 1080p. toda a
+bancada sempre enquadrada. arraste para orbitar cerca de 60
+graus, sem ir além. a câmera nunca sai da bancada e
+nunca faz cortes.
+
+9 PROIBIÇÕES, TODAS NOMEADAS
+
+o pet: sem voz, sem fala, sem repetir o que você diz, sem
+microfone, sem rosto na tela, sem boca, sem sobrancelhas, sem
+olhos de desenho com pupilas, sem corações, sem emojis, sem balão de fala,
+sem campo para nome, sem fantasia, sem chapéus, sem loja de pintura.
+
+free-to-play: sem moedas, gemas, moeda de qualquer tipo, sem
+loja, anúncios, recompensa diária, sequência de dias, notificações, sem
+energia que precise ser comprada, cronômetro de espera, nível, sem
+barra de experiência, conquistas, tabela de classificação.
+
+jogabilidade: sem inimigos, combate, vida, dano, morte,
+quebras, minijogo de reparo, estado de derrota, pontuação, sem
+cronômetro, marcadores de missão, cena cinematográfica, arte na tela de carregamento.
+
+repetições dos meus projetos anteriores: sem praia, palmeiras, caranguejos,
+ilhas flutuantes, lanternas, flores de cerejeira, ninjas, sem
+shurikens, blocos de voxel, picareta, lava, carro, cidade,
+nada subaquático, algas.
+
+renderização: sem texturas realistas, sombras duras, reflexo de lente, sem
+granulação de filme, barras pretas, desfoque de profundidade de campo, aberração cromática,
+névoa cinza na tela. bloom apenas nas lentes e nas
+células da bateria, e em nenhum outro lugar.
+
+10 ORÇAMENTO DE DESENVOLVIMENTO
+
+este projeto precisa ser concluído em uma única sessão de trabalho. tudo abaixo
+está proibido nesta versão. não adicione, não deixe um stub, não
+deixe uma tarefa pendente para isso.
+
+sem uma segunda sala, sem área externa
+sem um segundo robô
+sem salvar ou carregar; recarregar cria um robô novo
+sem engine de física: cinemática inversa escrita à mão para as quatro pernas
+  em um plano reto, mais colisões simples por caixa nos objetos da bancada
+sem ragdoll
+sem som
+sem menus, configurações ou tela de pausa
+no máximo três tarefas
+sem ciclo de dia
+
+onde o tempo deve ser investido, nesta ordem:
+1 as proporções do robô e o teste de silhueta
+2 o ciclo de caminhada e o apoio dos pés
+3 o rastreamento da cabeça, a antena e a acomodação
+4 os estados da bateria e a base de carregamento
+5 as três tarefas
+6 a ambientação da bancada
+
+se o tempo acabar, entregue uma bancada vazia e um robô bonito
+que caminhe bem. nunca o contrário. uma bancada vazia com um
+robô bom é um jogo concluído. uma bancada decorada com um robô rígido
+não é nada.
+
+antes de considerar o projeto concluído, comprove estes quatro pontos com renders, não com
+palavras: o teste de silhueta a 64 px de dois ângulos, um ciclo de caminhada
+a 5 células e a mesma caminhada a 2 células, a cabeça acompanhando o
+cursor durante toda a órbita, e o robô com 5 células e com 0
+células lado a lado.
+
+construa-o e depois me diga as três primeiras coisas que você corrigiria.
+
+{ END }
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/65dbf60c-06b5-4e91-b8b7-30030e44596e.mp4) · [Publicação original](https://x.com/zeuuss_01/status/2097004192627933279) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2097153139795468365"></a>
+
+### Animação em vista explodida de uma floricultura japonesa
+
+[KANA｜東京AI映像](https://x.com/KanaWorks_AI) · 2026-09-08
+
+<a href="https://x.com/KanaWorks_AI/status/2097153139795468365"><img src="../assets/previews/ecac385562a375d47484397c0d45277de44f41c1bd02ab91144a341e05972e95.jpg" width="840" loading="lazy" alt="Animação em vista explodida de uma floricultura japonesa"></a>
+
+Crie uma floricultura japonesa estilizada no Blender, anime o edifício e os elementos da rua se separando em camadas bem definidas e, depois, remonte a cena.
+
+**Prompt**
+
+```text
+Use o Blender MCP para criar uma cena pequena e estilizada de uma floricultura japonesa. Concentre-se em recriar fielmente os principais elementos visuais: os toldos verdes, a placa no telhado com o texto japonês “花屋”, vasos e plantas dispostos em frente à loja, a máquina de vendas automática, bicicletas, semáforo, postes, árvores ao redor e outros detalhes de rua reconhecíveis. Renderize a cena em um estilo de desenho animado acolhedor e charmoso, com iluminação suave, materiais atraentes e uma atmosfera aconchegante.
+
+Crie uma animação dinâmica e impactante em vista explodida de toda a cena da floricultura. A explosão deve ser marcante e exagerada, não sutil. Separe de forma suave e sistemática os componentes individuais para fora, revelando dramaticamente a construção e o interior da floricultura.
+
+Durante a explosão, faça as paredes externas, as árvores ao redor, os postes, as placas, os toldos, as bicicletas, os vasos, as plantas, os elementos da rua e outros componentes do ambiente voarem para fora ou para trás, criando espaço aberto suficiente para que o espectador veja claramente o interior da floricultura. Divida o edifício em camadas estruturais significativas para que a arquitetura interna, os móveis, as decorações, as flores, as plantas, as prateleiras e os detalhes menores fiquem claramente visíveis.
+
+A máquina de vendas automática também deve explodir em seus componentes individuais. Separe os painéis externos, e faça as garrafas e latas de refrigerante em seu interior voarem dinamicamente para fora, espalhando-as em uma formação organizada para que continuem claramente legíveis. Componentes e detalhes pequenos podem percorrer distâncias maiores para tornar a sequência visualmente mais empolgante.
+
+Use tempos de entrada escalonados, diferentes velocidades de movimento, rotação, profundidade e trajetórias em camadas para dar à explosão uma forte sensação de energia e impacto, mantendo cada componente visualmente organizado e fácil de acompanhar. Evite que tudo se mova para fora exatamente ao mesmo tempo ou na mesma velocidade.
+
+Quando toda a cena estiver completamente explodida, mantenha a composição por alguns instantes para que o espectador possa observar claramente a estrutura interna e todos os componentes separados.
+
+Depois, inverta a sequência: faça as garrafas de refrigerante, as peças da máquina de vendas automática, as plantas, os elementos da rua, os objetos internos, as paredes, as árvores, os postes, as placas, as bicicletas e todos os outros componentes voarem suavemente de volta para seus lugares e se remontarem na cena completa da floricultura.
+
+A animação inteira deve transmitir energia, um aspecto cinematográfico, satisfação visual e impacto, com movimentos marcantes e uma transformação clara entre a cena completa, o estado totalmente explodido e a cena final remontada. Mantenha o movimento em camadas, legível e cuidadosamente coreografado durante toda a sequência.
+
+Use um fundo neutro de estúdio durante a sequência em vista explodida para que os objetos separados e as estruturas internas permaneçam claramente visíveis.
+
+Entregas finais:
+Uma animação totalmente renderizada e um arquivo de projeto 3D editável do Blender. Todos os objetos, componentes, coleções, materiais e principais elementos da cena devem ter nomes claros, consistentes e profissionais, além de estar organizados dessa forma.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/9ff1b18d-1aa6-432c-ad96-bc3ebca2ba49.mp4) · [Publicação original](https://x.com/KanaWorks_AI/status/2097153139795468365) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2097167383576383502"></a>
+
+### Terreno de vila de fantasia inspirado em Skyrim a partir de uma referência gerada
+
+[Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo) · 2026-09-08
+
+<a href="https://x.com/TaroKichijo/status/2097167383576383502"><img src="../assets/previews/9c9cbd259a893444392ed43dcb391e62636358a5f2f570cf4232cc13a2128a63.jpg" width="840" loading="lazy" alt="Terreno de vila de fantasia inspirado em Skyrim a partir de uma referência gerada"></a>
+
+<a href="https://x.com/TaroKichijo/status/2097167383576383502"><img src="../assets/previews/b2cb6b850ef77b3e545565d93a49f22ce192293b50f8ef2ad74f242cfe387ddf.jpg" width="840" loading="lazy" alt="Terreno de vila de fantasia inspirado em Skyrim a partir de uma referência gerada"></a>
+
+Crie uma paisagem tridimensional de vila de fantasia com img2threejs, gerando primeiro uma imagem de referência para orientar a cena.
+
+**Prompt**
+
+```text
+Use img2threejs/img2threejs para criar um terreno de vila tridimensional como os de Skyrim. Gere você mesmo a imagem de referência.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/6decab87-0bc7-4913-8502-de4ef090731a.mp4) · [Publicação original](https://x.com/TaroKichijo/status/2097167383576383502) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="2097313247116341424"></a>
 
 ### Melhorar os traços de um modelo 3D no Blender usando uma imagem de referência
@@ -1390,24 +1989,6 @@ Reconstrua um rebocador no Blender a partir de imagens de referência. Modele o 
 
 ---
 
-<a id="2096149823216898445"></a>
-
-### Um jogo de voo no navegador
-
-[Givros](https://x.com/givros) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/browser-flight-game-2096149823216898445"><img src="../assets/previews/094260e4ea7a88a23850bb8e25f4952257e74479fab70f9773f1972c6bfab80f.webp" width="840" loading="lazy" alt="Um jogo de voo no navegador"></a>
-
-**Prompt**
-
-```text
-Crie um jogo de voo 3D completo no navegador a partir de um projeto vazio. Inclua voo controlável, um ambiente navegável, um objetivo claro e uma apresentação coerente.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/browser-flight-game-2096149823216898445) · [Ver vídeo ↗](https://media.tripogrowth.space/media/07f03d8a-fcce-4d77-a744-2fd3b8a2cccc.mp4) · [Publicação original](https://x.com/givros/status/2096149823216898445) · [Voltar aos exemplos](#all-prompts)
-
----
-
 <a id="2096245759121277132"></a>
 
 ### Um site de estúdio 3D guiado pela rolagem
@@ -1480,24 +2061,6 @@ Construa uma brinquedoteca acolhedora no Three.js onde uma criança pequena circ
 
 ---
 
-<a id="2096122429319852319"></a>
-
-### Uma fábrica de jatos em funcionamento
-
-[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/live-jet-manufacturing-plant-2096122429319852319"><img src="../assets/previews/88e94868f034bdf39f97a336b683c3eb911bcf58a404de83d7dc8106868f481d.webp" width="840" loading="lazy" alt="Uma fábrica de jatos em funcionamento"></a>
-
-**Prompt**
-
-```text
-Pesquise a fabricação de aeronaves e construa uma simulação ativa de uma fábrica de jatos no Three.js. Modele ciclos das máquinas, estações de produção, transporte e gargalos, depois teste o fluxo.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/live-jet-manufacturing-plant-2096122429319852319) · [Ver vídeo ↗](https://media.tripogrowth.space/media/b86fa701-c7e0-443e-a38d-72d56a21abc4.mp4) · [Publicação original](https://x.com/konstantinsaifo/status/2096122429319852319) · [Voltar aos exemplos](#all-prompts)
-
----
-
 <a id="2096220264413409648"></a>
 
 ### Uma tempestade presa em um cubo
@@ -1513,24 +2076,6 @@ Gere no Three.js uma tempestade presa em um cubo com clima que você possa contr
 ```
 
 [Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648) · [Ver vídeo ↗](https://media.tripogrowth.space/media/e8f23aa9-80c1-43da-a974-26d7928effcf.mp4) · [Publicação original](https://x.com/zwb44/status/2096220264413409648) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2096133339329536249"></a>
-
-### Um T. rex com rig e animação
-
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/rigged-and-animated-t-rex-2096133339329536249"><img src="../assets/previews/6bf58344b93f183cd25507533e35628c41a22155c9dd4b95ef1098724ee176c4.webp" width="840" loading="lazy" alt="Um T. rex com rig e animação"></a>
-
-**Prompt**
-
-```text
-Pegue um modelo gerado de T. rex, crie seu rig e movimentos convincentes. Renderize o personagem no Three.js e verifique se a animação deforma o modelo de forma coerente.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [Ver vídeo ↗](https://media.tripogrowth.space/media/e97790e1-c6e6-4c82-8bc8-9b206079a54e.mp4) · [Publicação original](https://x.com/majidmanzarpour/status/2096133339329536249) · [Voltar aos exemplos](#all-prompts)
 
 ---
 
@@ -1642,24 +2187,6 @@ Construa um jogo de direção no navegador em uma cidade aberta, com trânsito, 
 
 ---
 
-<a id="2096111709496680842"></a>
-
-### A versão jogável de um anúncio de jogo mobile
-
-[daniel](https://x.com/buildingadlicio) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842"><img src="../assets/previews/4d8530d89c735d14003f2bf753e2cb73013a740e9c0e65d9e76d876331480777.webp" width="840" loading="lazy" alt="A versão jogável de um anúncio de jogo mobile"></a>
-
-**Prompt**
-
-```text
-Use um anúncio de jogo mobile como referência para construir um jogo de navegador jogável. Recrie a interação principal e use recursos do Blender para corresponder à proposta visual.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842) · [Ver vídeo ↗](https://media.tripogrowth.space/media/7be01ec4-77e9-4270-aaf4-18119252736f.mp4) · [Publicação original](https://x.com/buildingadlicio/status/2096111709496680842) · [Voltar aos exemplos](#all-prompts)
-
----
-
 <a id="2096258619574513880"></a>
 
 ### Físicas de corrida no navegador com C# e WASM
@@ -1675,78 +2202,6 @@ Recrie um sistema de físicas de corrida no estilo Trackmania em C#, execute-o p
 ```
 
 [Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Ver vídeo ↗](https://media.tripogrowth.space/media/f4081f64-16b6-41ad-b121-d0afb211da12.mp4) · [Publicação original](https://x.com/achepta_tm/status/2096258619574513880) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2096141728487178503"></a>
-
-### Rig automático de personagem e movimentos de kung fu
-
-[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503"><img src="../assets/previews/b667cbe461565dc1ef4c531685416b80150c3a7eec1c861e8bdd3a875c750845.webp" width="840" loading="lazy" alt="Rig automático de personagem e movimentos de kung fu"></a>
-
-**Prompt**
-
-```text
-Pegue o personagem 3D fornecido, crie um rig e adicione caminhada, corrida e vários movimentos de kung fu. Examine as animações para detectar juntas quebradas e poses instáveis.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [Ver vídeo ↗](https://media.tripogrowth.space/media/d6af998c-563b-40fa-b6d2-bdb014cd8cf4.mp4) · [Publicação original](https://x.com/thebuggeddev/status/2096141728487178503) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2096140378777010278"></a>
-
-### Um personagem viking no Blender
-
-[Emil](https://x.com/fre4kspace) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/viking-character-in-blender-2096140378777010278"><img src="../assets/previews/47571b98331669c487a6b59fb8d0b20e3d4a0859d799fb78d35e4b387ee3c3e3.webp" width="840" loading="lazy" alt="Um personagem viking no Blender"></a>
-
-**Prompt**
-
-```text
-Crie um personagem viking 3D editável no Blender. Foque em traje reconhecível, estrutura facial, proporções corporais e uma pose de apresentação clara.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/viking-character-in-blender-2096140378777010278) · [Publicação original](https://x.com/fre4kspace/status/2096140378777010278) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2096155883122413946"></a>
-
-### Dropzone: uma arena de battle royale
-
-[MotionViz](https://x.com/Motion_Viz) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/dropzone-battle-royale-arena-2096155883122413946"><img src="../assets/previews/37245ebc3775536860092d7f7f05f5cd0907a4133d401898a7e97b42db8eade2.webp" width="840" loading="lazy" alt="Dropzone: uma arena de battle royale"></a>
-
-**Prompt**
-
-```text
-Construa um battle royale de navegador em terceira pessoa com círculo de tempestade, nove inimigos de IA, rifle de pulsos, vida e recarga. Inclua paredes de cobertura posicionáveis e um ciclo completo de eliminação.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [Ver vídeo ↗](https://media.tripogrowth.space/media/aa58e48b-d28d-41a8-9189-50898d68ed64.mp4) · [Publicação original](https://x.com/Motion_Viz/status/2096155883122413946) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2096135808243876152"></a>
-
-### Uma aventura de plataforma inspirada em Odyssey
-
-[AIHubmix](https://x.com/AiHubMix) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152"><img src="../assets/previews/f8e883bece1bb1220b1f35dfc38101d0cf0ad95355d2256dbd6b7acfd1989ea5.webp" width="840" loading="lazy" alt="Uma aventura de plataforma inspirada em Odyssey"></a>
-
-**Prompt**
-
-```text
-Construa uma fase no Three.js inspirada em Odyssey com oito plataformas, três luas coletáveis, ataques de boné que retorna, inimigos e pontos de controle. Adicione controles de toque e teste uma partida completa.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [Ver vídeo ↗](https://media.tripogrowth.space/media/be331224-d958-4c92-ab5d-ed31b931958c.mp4) · [Publicação original](https://x.com/AiHubMix/status/2096135808243876152) · [Voltar aos exemplos](#all-prompts)
 
 ---
 
@@ -1783,24 +2238,6 @@ Construa uma máquina 3D de cápsulas de memória. Gire um botão para liberar u
 ```
 
 [Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/memory-capsule-machine-2096241295949975602) · [Ver vídeo ↗](https://media.tripogrowth.space/media/57f89e78-6351-4742-9fe4-753e50897e5b.mp4) · [Publicação original](https://x.com/gloria_zwq/status/2096241295949975602) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2096125193580113957"></a>
-
-### Um carro de Fórmula 1 no Blender
-
-[Conor Dart](https://x.com/Conor_D_Dart) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/formula-one-car-in-blender-2096125193580113957"><img src="../assets/previews/7b1991638d1cf62afb53f325569e6277a15c2f61ec5f1991e3b4a6b0ef28f875.webp" width="840" loading="lazy" alt="Um carro de Fórmula 1 no Blender"></a>
-
-**Prompt**
-
-```text
-Crie um modelo 3D de Fórmula 1 no Blender usando controle do computador.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/formula-one-car-in-blender-2096125193580113957) · [Ver vídeo ↗](https://media.tripogrowth.space/media/d19f8409-133b-4d5e-bba7-41a9cfa7b7b4.mp4) · [Publicação original](https://x.com/Conor_D_Dart/status/2096125193580113957) · [Voltar aos exemplos](#all-prompts)
 
 ---
 
@@ -1945,24 +2382,6 @@ Modele uma casa do zero no Blender. Mantenha a cena editável para que a constru
 ```
 
 [Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865) · [Ver vídeo ↗](https://media.tripogrowth.space/media/4b9bda22-09cb-45d7-9ed1-afe8d4c4020d.mp4) · [Publicação original](https://x.com/mizkun/status/2096576154337734865) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2096143359505269079"></a>
-
-### Da foto de uma cafeteria a um passeio vertical
-
-[森叔](https://x.com/harrisonitsme) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"><img src="../assets/previews/ffcfb39c9d14b56e65e3d89a656460fd7dbd09ea1ca260185cf1b2fd9da8552d.webp" width="840" loading="lazy" alt="Da foto de uma cafeteria a um passeio vertical"></a>
-
-**Prompt**
-
-```text
-Reconstrua uma cafeteria no Blender a partir da foto, incluindo o teto de madeira, as fitas de luz, o torrador de café, as prateleiras e as plantas. Entregue uma cena editável e um passeio de câmera de 15 segundos em formato vertical.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079) · [Ver vídeo ↗](https://media.tripogrowth.space/media/342fda31-e582-426d-8bec-0930807cd4b4.mp4) · [Publicação original](https://x.com/harrisonitsme/status/2096143359505269079) · [Voltar aos exemplos](#all-prompts)
 
 ---
 
@@ -2254,24 +2673,6 @@ Combine imagens de referência de um apartamento com um esboço simples da plant
 
 ---
 
-<a id="2096128774203171021"></a>
-
-### Voo ao entardecer por uma cena de Adiyogi
-
-[Adi](https://x.com/thejothiram) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/adiyogi-evening-fly-through-2096128774203171021"><img src="../assets/previews/38756d78911bac44657e3035b1f8742239f296d966babc6d16c0203d74295152.webp" width="840" loading="lazy" alt="Voo ao entardecer por uma cena de Adiyogi"></a>
-
-**Prompt**
-
-```text
-Crie uma cena de Adiyogi no Blender com terrenos amplos, closes detalhados e luz quente de fim de tarde. Renderize um voo de câmera de 30 segundos e mantenha a cena editável.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/adiyogi-evening-fly-through-2096128774203171021) · [Ver vídeo ↗](https://media.tripogrowth.space/media/86a4d9a8-80cf-49cb-bf45-ce1ca012df61.mp4) · [Publicação original](https://x.com/thejothiram/status/2096128774203171021) · [Voltar aos exemplos](#all-prompts)
-
----
-
 <a id="2096521798150242631"></a>
 
 ### Água em loop com Geometry Nodes
@@ -2545,7 +2946,7 @@ Crie uma landing page de águas profundas com efeitos de água em Three.js, inte
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 184 exemplos no site oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 201 exemplos no site oficial →</a></strong></p>
 <p><sub>Para manter a renderização do README do GitHub fluida, mostramos aqui apenas os 100 exemplos mais recentes.</sub></p>
 <br>
 </td></tr>

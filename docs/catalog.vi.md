@@ -26,16 +26,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**100 · Prompt Astra mới nhất**
-
-<table align="center">
-<tr><td align="center">
-<br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_top">Xem toàn bộ 184 ví dụ trên trang chính thức →</a></strong></p>
-<p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
-<br>
-</td></tr>
-</table>
+**201 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -55,8 +46,12 @@
 
 - [Lõi năng lượng hai vòng tương tác](#2096551010089263181) · GitHub
 - [Quảng trường Thống Nhất ở Cluj-Napoca bằng voxel](#2096262733259837681) · GitHub
+- [Chim bồ nông tương tác đạp xe đạp](#2096213850383331489)
+- [Game đua xe kart Roblox có thể chơi với tài sản 3D tùy chỉnh](#2096219700879331665)
+- [Trình mô phỏng bay trên trình duyệt với vòng lặp bay hoàn chỉnh](#2096236137266512181)
 - [Dựng lại rồng chân thực có thể chỉnh sửa trong Blender](#2096335588727349434)
 - [Dựng hình 3D từ ảnh trên X](#2096338836854804782)
+- [Từ ý tưởng nhân vật đến mô hình 3D đã rig và phim hoạt hình](#2096342420543660277)
 - [Nhóm nhạc 3D có thể tương tác với hoạt ảnh đồng bộ âm thanh](#2096354461652488562)
 - [Tạo và kết xuất hố đen trong Blender](#2096391653669953761)
 - [Tái tạo Lego 1999 Racers](#2096438110095585753)
@@ -65,21 +60,28 @@
 - [Thêm chế độ xem 3D vào website](#2096567422253662372)
 - [Totality Engine: Thánh đường Nhật thực Điện ảnh](#2096593372311941143)
 - [Tạo CS2 bằng Three.js](#2096596888799895855)
+- [Hoạt ảnh gấp hộp giấy từ bản vẽ khuôn bế](#2096612394281603144)
 - [Game phiêu lưu fantasy ven biển Windhaven](#2096629506047955327)
 - [RPG hành động dark fantasy bằng Three.js](#2096637091627364531)
 - [Render Trái Đất xoay trong Blender](#2096637194270134742)
 - [Trò chơi khám phá thế giới 3D Mini World](#2096641728497275011)
+- [Phối cảnh tháo rời smartphone tương tác](#2096685163111694556)
 - [Trò chơi Grand Theft Auto với các nhân vật và thành phố San Andreas](#2096739993217577219)
 - [Mô hình nhân vật LEGO cho game bằng Blender MCP](#2096766465730847059)
 - [Tạo slime mềm tương tác bằng Three.js và WebGPU](#2096793432987464010)
 - [Rừng 3D thời gian thực siêu chi tiết trên trình duyệt](#2096814981509775616)
+- [Dựng lại ngôi nhà có thể chỉnh sửa trong Blender từ video tham chiếu](#2096876083094466863)
 - [Cảnh 3D Hogwarts](#2096907617117540478)
+- [Tái tạo quảng cáo sản phẩm bằng Blender và ChatCut](#2096925943575330908)
 - [Chuyển ảnh thành mô hình 3D và xoay 360°](#2096950715277004976)
 - [Đường phố thu nhỏ vô tận với Three.js WebGPU](#2096956214680965501)
 - [Thế giới cảnh quan VRChat “Đường chân trời nơi trọng lực tan vỡ”](#2096966425017467344)
 - [Sân trong Trung Hoa tương tác](#2096971051334857181)
 - [Con đường rừng dài 12 giây trong Blender](#2096986557244723371)
 - [Chỉnh sửa cảnh Blender để lắp trụ khía nhám và căn PCB](#2096990373813858591)
+- [Thú cưng robot tương tác trên bàn làm việc](#2097004192627933279)
+- [Hoạt ảnh tách lớp cửa hàng hoa Nhật Bản](#2097153139795468365)
+- [Địa hình làng quê lấy cảm hứng từ Skyrim từ ảnh tham chiếu được tạo bằng AI](#2097167383576383502)
 - [Cải thiện đường nét khuôn mặt của mô hình 3D trong Blender bằng hình ảnh tham chiếu](#2097313247116341424)
 - [Dự án WebGL TypeScript + Three.js mô phỏng Điện Kỳ Niên ở Thiên Đàn Bắc Kinh](#2097323734504017936)
 - [Tái tạo game web 《Liên Minh Huyền Thoại》](#2097336230078013598)
@@ -89,29 +91,20 @@
 - [Chuyển đổi biểu cảm nhân vật trong Blender](#2096525100518453342)
 - [Mô phỏng hội ngộ quỹ đạo](#2096225621303042258)
 - [Cụm tàu kéo từ ảnh tham chiếu](#2096180220839760375)
-- [Game bay trên trình duyệt](#2096149823216898445)
 - [Website studio 3D theo cuộn trang](#2096245759121277132)
 - [Komorebi: chèo kayak trên sông](#2096244208533455049)
 - [Câu chuyện sản phẩm với chai khúc xạ](#2096243989439713677)
 - [Thế giới đồ chơi của bé](#2096201415051911597)
-- [Nhà máy chế tạo phản lực đang hoạt động](#2096122429319852319)
 - [Cơn bão trong khối lập phương](#2096220264413409648)
-- [T. rex có rig và hoạt ảnh](#2096133339329536249)
 - [Sinh vật biển trong tách cà phê](#2096174858837074198)
 - [Demo Hyperloop tương tác](#2096250748099068377)
 - [Tượng bán thân Napoleon thủ tục](#2096234355395903672)
 - [Sảnh ga đường sắt](#2096226711222546461)
 - [Diorama hướng dẫn bắt đầu có hoạt ảnh](#2096222790894661841)
 - [OX Vice Drive: đua xe thành phố mở](#2096206082712768897)
-- [Làm lại quảng cáo game di động thành game thật](#2096111709496680842)
 - [Vật lý đua xe trình duyệt bằng C# và WASM](#2096258619574513880)
-- [Tự động rig nhân vật và động tác kung fu](#2096141728487178503)
-- [Nhân vật Viking trong Blender](#2096140378777010278)
-- [Dropzone: đấu trường battle royale](#2096155883122413946)
-- [Phiêu lưu platform lấy cảm hứng Odyssey](#2096135808243876152)
 - [Giải phẫu người 3D tương tác dạng tách lớp](#2096221988763173186)
 - [Máy viên nang ký ức](#2096241295949975602)
-- [Xe Formula One trong Blender](#2096125193580113957)
 - [Cảnh nhân vật lấy cảm hứng từ Warcraft trong Unity](#2096308567863079420)
 - [Bàn cờ shogi 3D có thể xoay](#2096579856133947507)
 - [Bản đồ tháo rời linh kiện máy tính để bàn](#2096578761877860502)
@@ -120,7 +113,6 @@
 - [Côn trùng tạo bằng thuật toán bò trên nhiều bề mặt](#2096460081982304546)
 - [Lái Wright Flyer qua khu rừng Nhật Bản](#2096467585785286808)
 - [Dựng một ngôi nhà từ đầu trong Blender](#2096576154337734865)
-- [Từ ảnh quán cà phê đến video tham quan khung dọc](#2096143359505269079)
 - [Từ mặt bằng tầng trên cùng đến bản xem trước Blender](#2096501340889374883)
 - [Quảng trường Terreiro do Paço tại Lisbon trong Blender](#2096298425914450021)
 - [Nhiệm vụ khám phá The Quiet Crossing](#2096574297703637111)
@@ -137,7 +129,6 @@
 - [Cây xoài Ấn Độ trong SpeedTree](#2096572429066006845)
 - [Áp dụng texture và gắn xương cho nhân vật Tripo](#2096566598689783878)
 - [Từ phác thảo căn hộ đến ảnh nội thất kết xuất](#2096566686266597754)
-- [Bay quanh Adiyogi trong ánh chiều](#2096128774203171021)
 - [Mặt nước lặp tuần hoàn bằng Geometry Nodes](#2096521798150242631)
 - [Thế giới hàng hải lấy cảm hứng từ One Piece](#2096518775042707700)
 - [Tập hút Lorenz tương tác](#2096572156453028193)
@@ -189,6 +180,152 @@ Tạo thế giới voxel tương tác tái hiện Piața Unirii ở Cluj-Napoca.
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681) · [Xem video ↗](https://media.tripogrowth.space/media/7cda5111-797c-4b65-8731-27f1dcc66533.mp4) · [Bài đăng gốc](https://x.com/danmana/status/2096262733259837681) · [Mã nguồn](https://github.com/danmana/piata-unirii) · [Bản demo](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2096213850383331489"></a>
+
+### Chim bồ nông tương tác đạp xe đạp
+
+[AI Builder Club](https://x.com/aibuilderclub_) · 2026-09-05
+
+<a href="https://x.com/aibuilderclub_/status/2096213850383331489"><img src="../assets/previews/bfaf05732302b6b4b42dc6111f9d179284f87758a1343ad007afa58e96a19c5e.jpg" width="840" loading="lazy" alt="Chim bồ nông tương tác đạp xe đạp"></a>
+
+Tạo một chú bồ nông 3D đạp xe trên chiếc xe đạp màu xanh bạc hà trong trình duyệt, với chuyển động đạp tự nhiên, điều khiển xoay quanh, thu phóng và tốc độ có thể điều chỉnh.
+
+**Prompt**
+
+```text
+Tạo một cảnh 3D tương tác, bắt mắt về chú bồ nông đạp xe đạp và hiển thị cảnh đó trong trình duyệt.
+Chú bồ nông đội mũ đạp xe màu đỏ-trắng và đeo kính râm. Tạo cho xe đạp một khung cổ điển màu xanh bạc hà, đồng thời thêm các vệt tốc độ động để nhấn mạnh chuyển động.
+Cho phép tôi xoay cảnh, phóng to và điều chỉnh tốc độ đạp xe. Chú ý kỹ đến hình học của xe đạp, tỷ lệ nhân vật và chuyển động đạp tự nhiên. Giữ hoạt ảnh mượt mà khi tốc độ thay đổi.
+Hoàn thiện trang để sẵn sàng trình diễn công khai, với ánh sáng được chăm chút, bảng màu hài hòa và các điều khiển gọn gàng.
+Tự kiểm tra trong trình duyệt và khắc phục mọi lỗi hiển thị hoặc tương tác trước khi hoàn tất.
+```
+
+[Xem video ↗](https://media.tripogrowth.space/media/44600b3e-cd8d-472f-8b5c-75c81cbe589f.mp4) · [Bài đăng gốc](https://x.com/aibuilderclub_/status/2096213850383331489) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2096219700879331665"></a>
+
+### Game đua xe kart Roblox có thể chơi với tài sản 3D tùy chỉnh
+
+[Givros](https://x.com/givros) · 2026-09-05
+
+<a href="https://x.com/givros/status/2096219700879331665"><img src="../assets/previews/5c294d1c86a0a0be00b87bd42151424304fdcdf32de5352a6db93a471756ea4e.jpg" width="840" loading="lazy" alt="Game đua xe kart Roblox có thể chơi với tài sản 3D tùy chỉnh"></a>
+
+Tạo một game đua xe kart Roblox hoàn chỉnh với tài sản tùy chỉnh, cơ chế drift, đối thủ AI, checkpoint, theo dõi vòng đua và màn hình kết quả có thể chơi lại.
+
+**Prompt**
+
+```text
+Xây dựng một game đua xe kart hoàn thiện, chỉn chu trong Roblox Studio thông qua Roblox MCP. Tạo các tài sản đồng bộ, chi tiết bằng Blender và quy trình tạo nội dung thủ tục với Three.js; hoàn thiện mesh, UV và kết cấu bề mặt đã bake trong Blender, sau đó nhập dưới dạng MeshPart Roblox được tối ưu với kết cấu PBR tương thích. Kiểm tra tỷ lệ, pivot, vật liệu và va chạm trong game. Sử dụng hệ thống dựng hình gốc của Roblox và gameplay bằng Luau; Three.js chỉ là công cụ tạo tài sản, không phải môi trường chạy game. Ưu tiên một đường đua đẹp mắt, được hoàn thiện đầy đủ với cảm giác lái và drift nhạy, đối thủ AI, checkpoint, theo dõi vòng đua và toàn bộ vòng lặp từ đếm ngược đến màn hình kết quả, kèm khả năng chơi lại. Trau chuốt ánh sáng, VFX, âm thanh và giao diện. Chơi thử các cuộc đua hoàn chỉnh, kiểm tra ảnh chụp gameplay thực tế và lặp lại quy trình cho đến khi khắc phục được lỗi nhập, khiếm khuyết hình ảnh và lỗi gameplay, đồng thời duy trì hiệu năng mượt mà. Không dùng placeholder, tài sản sơ sài hoặc hình ảnh kiểu prototype. Bàn giao trải nghiệm Roblox đã lắp ráp hoàn chỉnh và có thể chơi—không chỉ là script hoặc tài sản đã xuất.
+```
+
+[Xem video ↗](https://media.tripogrowth.space/media/ef5e5ca2-30d3-412c-a69f-09af23075d1b.mp4) · [Bài đăng gốc](https://x.com/givros/status/2096219700879331665) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2096236137266512181"></a>
+
+### Trình mô phỏng bay trên trình duyệt với vòng lặp bay hoàn chỉnh
+
+[aditya](https://x.com/adxtyahq) · 2026-09-05
+
+<a href="https://x.com/adxtyahq/status/2096236137266512181"><img src="../assets/previews/bbb03f5650350e6b4a323f0dd76f98d1abb0cbe94896f2dbe24d68c4bfbf8ce8.jpg" width="840" loading="lazy" alt="Trình mô phỏng bay trên trình duyệt với vòng lặp bay hoàn chỉnh"></a>
+
+Xây dựng máy bay chở khách 3D có thể điều khiển, sân bay, thiết bị bay và vòng lặp trò chơi hoàn chỉnh từ cất cánh đến hạ cánh, bằng toàn bộ prompt do tác giả chia sẻ.
+
+**Prompt**
+
+```text
+Xây dựng từ đầu một game mô phỏng bay 3D trên trình duyệt được hoàn thiện chỉn chu và có thể chơi được.
+
+Mục tiêu là tạo ra một trải nghiệm mô phỏng bay quy mô nhỏ nhưng thực sự có thể chơi, không phải một cảnh 3D tĩnh.
+
+GAMEPLAY
+- Tạo một sân bay với đường băng, đường lăn, nhà ga/các tòa nhà, cỏ/địa hình, vạch sơn và đèn đường băng, bầu trời cùng mây được thể hiện chi tiết.
+- Đặt một máy bay chở khách dễ nhận biết tại sân bay.
+- Người chơi phải có thể điều khiển máy bay bằng bàn phím.
+- Triển khai điều khiển ga, góc ngẩng, lăn, hướng và phanh.
+- Máy bay phải có vật lý bay cơ bản hợp lý, quán tính và khả năng tăng tốc.
+- Người chơi phải có thể tăng tốc trên đường băng, cất cánh, bay quanh sân bay, tiếp cận đường băng và hạ cánh.
+- Thêm một mục tiêu đơn giản: cất cánh, hoàn thành một chuyến bay ngắn quanh sân bay và hạ cánh an toàn.
+- Bao gồm phát hiện va chạm/thất bại và tùy chọn chơi lại.
+
+CONTROLS
+Hiển thị rõ các phím điều khiển:
+- W/S: Góc ngẩng
+- A/D: Lăn
+- Q/E: Hướng
+- Shift/Ctrl: Ga
+- Space: Phanh
+
+CAMERA
+- Sử dụng camera bám đuổi mượt ở góc nhìn người thứ ba, phía sau máy bay.
+- Giữ cho máy bay luôn dễ quan sát trong suốt chuyến bay.
+- Camera phải bám theo chuyển động mượt mà và phản hồi nhẹ theo gia tốc.
+
+HUD
+Tạo HUD phong cách hàng không được hoàn thiện chỉn chu, hiển thị:
+- Tốc độ bay
+- Độ cao
+- Hướng bay
+- Ga
+- Tốc độ lên/xuống
+- Trạng thái chuyến bay
+- Mục tiêu hiện tại
+
+Bao gồm một bảng điều khiển/trợ giúp nhỏ gọn, có thể ẩn đi.
+
+BẮT ĐẦU + KẾT QUẢ
+Tạo màn hình bắt đầu với:
+"MÔ PHỎNG BAY"
+và một nút "BẮT ĐẦU CHUYẾN BAY" nổi bật.
+
+Sau khi hạ cánh thành công, hiển thị:
+- Hoàn thành chuyến bay
+- Chất lượng hạ cánh
+- Thời gian bay
+- Điểm tổng kết
+- Chơi lại
+
+CHẤT LƯỢNG HÌNH ẢNH
+Tạo cảm giác như một game thực thụ:
+- Hình ảnh 3D cách điệu nhất quán
+- Máy bay được thể hiện chi tiết
+- Môi trường sân bay bắt mắt
+- Ánh sáng, bóng đổ và vật liệu chất lượng
+- Mây/khí quyển
+- Tòa nhà sân bay, phương tiện, biển báo, cây cối và các chi tiết môi trường khác khi phù hợp
+- Tránh tạo ra một cảnh trống trải hoặc rõ ràng còn dang dở
+
+FEEDBACK
+Thêm phản hồi hữu ích cho:
+- Trạng thái ga/động cơ
+- Cất cánh
+- Hạ cánh
+- Cảnh báo tốc độ
+- Độ cao
+- Va chạm
+- Hạ cánh thành công
+
+TECHNICAL
+- Xây dựng toàn bộ game có thể hoạt động trong trình duyệt.
+- Không để lại các nút giữ chỗ hoặc tương tác giả.
+- Ưu tiên khả năng điều khiển phản hồi nhanh và hiệu năng mượt mà.
+- Sử dụng các công nghệ web/3D phù hợp hiện có.
+
+QUAN TRỌNG:
+Không dành toàn bộ thời gian để tạo một cảnh tĩnh đẹp mắt. Máy bay PHẢI thực sự điều khiển được và vòng lặp hoàn chỉnh phải hoạt động:
+
+BẮT ĐẦU → TĂNG TỐC → CẤT CÁNH → BAY → TIẾP CẬN → HẠ CÁNH → TÍNH ĐIỂM → CHƠI LẠI
+
+Trước khi hoàn tất, hãy chạy game trên trình duyệt và tự kiểm thử toàn bộ vòng lặp gameplay. Khắc phục các lỗi về điều khiển, vật lý, hình ảnh và tương tác mà bạn phát hiện.
+```
+
+[Xem video ↗](https://media.tripogrowth.space/media/8e483e20-0c35-46e6-85b3-a2226f10c9ca.mp4) · [Bài đăng gốc](https://x.com/adxtyahq/status/2096236137266512181) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -433,6 +570,44 @@ Tải Blender xuống và tạo bản dựng 3D từ ảnh trên X của tôi.
 
 ---
 
+<a id="2096342420543660277"></a>
+
+### Từ ý tưởng nhân vật đến mô hình 3D đã rig và phim hoạt hình
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-05
+
+<a href="https://x.com/higgsfield_ai/status/2096342420543660277"><img src="../assets/previews/1712c53120622f0ba430f5985562bd6eb307621c1a4466ef9d2cf26c99b81716.jpg" width="840" loading="lazy" alt="Từ ý tưởng nhân vật đến mô hình 3D đã rig và phim hoạt hình"></a>
+
+Prompt sản xuất nhân vật bao quát thiết kế ý tưởng, dựng mô hình 3D có kết cấu bề mặt, retopology, tạo UV, rigging và phim hoạt hình.
+
+**Prompt**
+
+```text
+Hãy điều khiển máy tính của tôi bằng GPT-6 Astra và thực hiện các bước sau: 
+
+1. thiết kế ý tưởng nhân vật bằng Higgsfield Soul 2.0, 
+
+2. dựng mô hình 3D có kết cấu bề mặt từ ý tưởng đó, 
+
+3. nhập mô hình vào Blender, 
+
+4. thực hiện retopology cho lưới, 
+
+5. tạo UV map, 
+
+6. xây dựng rig cho nhân vật, 
+
+7. đánh giá mức độ sẵn sàng đưa mô hình vào sản xuất, 
+
+8. thực hiện lại các bước trước nếu bạn không hài lòng với kết quả,
+
+9. sau đó chuyển mô hình thành phim hoạt hình bằng Seedance 2.5 trên Higgsfield
+```
+
+[Xem video ↗](https://media.tripogrowth.space/media/49f2b4f9-927c-41ee-a918-718911d7cab6.mp4) · [Bài đăng gốc](https://x.com/higgsfield_ai/status/2096342420543660277) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="2096354461652488562"></a>
 
 ### Nhóm nhạc 3D có thể tương tác với hoạt ảnh đồng bộ âm thanh
@@ -655,6 +830,52 @@ Này GPT-6 Astra, hãy tạo cho tôi CS2 bằng Three.js, đừng mắc lỗi n
 
 ---
 
+<a id="2096612394281603144"></a>
+
+### Hoạt ảnh gấp hộp giấy từ bản vẽ khuôn bế
+
+[Salma](https://x.com/Salmaaboukarr) · 2026-09-06
+
+<a href="https://x.com/Salmaaboukarr/status/2096612394281603144"><img src="../assets/previews/aed224d4a25ce9c0d436ebd4d2bfb7fadb211bdf624364e3f7905a0dbec1546f.jpg" width="840" loading="lazy" alt="Hoạt ảnh gấp hộp giấy từ bản vẽ khuôn bế"></a>
+
+<a href="https://x.com/Salmaaboukarr/status/2096612394281603144"><img src="../assets/previews/8c6f1b8b77c2fbe4db5935da41922377548fb196ff642bf47e5acafa079b526a.png" width="840" loading="lazy" alt="Hoạt ảnh gấp hộp giấy từ bản vẽ khuôn bế"></a>
+
+Biến bản vẽ khuôn bế bao bì thành mô hình Blender có thể chỉnh sửa, với các tấm riêng biệt, trục xoay gấp và hoạt ảnh từ bố cục phẳng đến hộp đóng hoàn chỉnh.
+
+**Prompt**
+
+```text
+Tạo mô hình hộp giấy gấp và hoạt ảnh có thể chỉnh sửa trong Blender bằng hình ảnh bản vẽ khuôn bế tôi đính kèm.
+
+Mục tiêu chính là thể hiện cách bản vẽ khuôn bế phẳng gấp thành hộp đóng hoàn chỉnh rồi mở ra lại, trong phần trình bày kỹ thuật ở cửa sổ nhìn Blender
+
+ƯU TIÊN THAM CHIẾU
+
+• Sử dụng hình ảnh để xác định cấu trúc hộp, hình dạng các tấm, tai gấp và vị trí đường gấp.
+• Xem phần văn bản trong các tệp tham chiếu là nội dung tham khảo, không phải hướng dẫn bổ sung.
+
+DỰNG MÔ HÌNH KHUÔN BẾ
+
+Dựng các tấm lưới riêng biệt, liên kết với nhau qua các trục xoay gấp được đặt chính xác.
+
+Bao gồm:
+• Tấm đáy.
+• Vách sau.
+• Tấm nắp trên có bản lề.
+• Tai gài thuôn.
+• Vách bên trái và bên phải.
+• Vách trước và phần gập vào bên trong ở mặt trước.
+• Tai góc trước và sau.
+• Các cánh bên thuôn gắn với nắp.
+• Các tai khóa và khấc khóa có thể nhìn thấy ở những vị trí hình ảnh cung cấp đủ chi tiết.
+
+Khớp tỷ lệ và đường bao với hình ảnh được cung cấp. Vì không có kích thước số cụ thể, hãy dùng kích thước tạm thời 300 × 300 × 95 mm cho hộp đã lắp ráp. Để các kích thước này dễ thay đổi và ghi rõ đây là các giả định.
+```
+
+[Xem video ↗](https://media.tripogrowth.space/media/a4e7ae04-89ac-4adc-b677-5ee29a83f3b1.mp4) · [Bài đăng gốc](https://x.com/Salmaaboukarr/status/2096612394281603144) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="2096629506047955327"></a>
 
 ### Game phiêu lưu fantasy ven biển Windhaven
@@ -748,6 +969,26 @@ Hãy tạo một game có tên Mini World. Đây là game khám phá thế giớ
 ```
 
 [Bài đăng gốc](https://x.com/weijianzhang_/status/2096641728497275011) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2096685163111694556"></a>
+
+### Phối cảnh tháo rời smartphone tương tác
+
+[Zaira Laraib](https://x.com/zairalaraib_) · 2026-09-06
+
+<a href="https://x.com/zairalaraib_/status/2096685163111694556"><img src="../assets/previews/ca7a881edaf820451a0358b858ac684b9a3b3cff295976d5c456dde6482e5b2c.jpg" width="840" loading="lazy" alt="Phối cảnh tháo rời smartphone tương tác"></a>
+
+Xây dựng hình ảnh trực quan 3D của một smartphone với thanh trượt tháo rời–lắp lại, các linh kiện có thể chọn và phần giải thích chức năng của từng bộ phận.
+
+**Prompt**
+
+```text
+Xây dựng một hình ảnh trực quan 3D tương tác về một smartphone hiện đại theo dạng tháo rời. Tách thiết bị thành các linh kiện chính và cho phép tôi tháo rời/lắp lại bằng thanh trượt. Khi nhấp vào một linh kiện, hãy tách riêng linh kiện đó và giải thích chức năng của nó. Bao gồm pin, camera, SoC, bộ nhớ, các lớp màn hình, loa, cảm biến, ăng-ten và bo mạch logic. Ưu tiên giao diện đẹp theo phong cách Apple cùng các tương tác mượt mà, đã mắt. Xây dựng, chạy thử, kiểm tra và khắc phục lỗi cho toàn bộ trải nghiệm.
+```
+
+[Xem video ↗](https://media.tripogrowth.space/media/3d7529b6-db3f-4245-87fc-5a53110130db.mp4) · [Bài đăng gốc](https://x.com/zairalaraib_/status/2096685163111694556) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -872,6 +1113,26 @@ Dựng toàn bộ trải nghiệm, công khai trên ChatGPT Sites, xác minh b�
 
 ---
 
+<a id="2096876083094466863"></a>
+
+### Dựng lại ngôi nhà có thể chỉnh sửa trong Blender từ video tham chiếu
+
+[AiSongMan｜AI Workflow Lab](https://x.com/aisongman) · 2026-09-07
+
+<a href="https://x.com/aisongman/status/2096876083094466863"><img src="../assets/previews/947904c9cb1e72bc1a0531de36713a96a08bb9f4bef8c6f45f674bf096cd0d16.jpg" width="840" loading="lazy" alt="Dựng lại ngôi nhà có thể chỉnh sửa trong Blender từ video tham chiếu"></a>
+
+Dựng lại kiến trúc, nội thất, cây xanh, vật liệu, ánh sáng và camera của một ngôi nhà trong Blender dựa trên video tham chiếu.
+
+**Prompt**
+
+```text
+Dùng Blender Python API (bpy) để tạo một scene Blender có thể chỉnh sửa dựa trên video tham chiếu. Tái tạo kiến trúc, chi tiết mộc, nội thất, cây xanh, vật liệu, ánh sáng và camera, đồng thời cố gắng khớp mọi chi tiết với video tham chiếu một cách chính xác nhất có thể.
+```
+
+[Xem video ↗](https://media.tripogrowth.space/media/c299659c-8eb6-44b0-95ca-59554395b137.mp4) · [Bài đăng gốc](https://x.com/aisongman/status/2096876083094466863) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="2096907617117540478"></a>
 
 ### Cảnh 3D Hogwarts
@@ -889,6 +1150,28 @@ Sử dụng Headless Blender để tạo mô hình 3D quy mô lớn, cực kỳ 
 ```
 
 [Xem video ↗](https://media.tripogrowth.space/media/8f12f26d-be03-4930-bb04-1c3635ab0d57.mp4) · [Bài đăng gốc](https://x.com/HiltonMisia/status/2096907617117540478) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2096925943575330908"></a>
+
+### Tái tạo quảng cáo sản phẩm bằng Blender và ChatCut
+
+[ChatCut](https://x.com/chatcutapp) · 2026-09-07
+
+<a href="https://x.com/chatcutapp/status/2096925943575330908"><img src="../assets/previews/a9f1e309f5e743a28101e732f96b607dbd27c58d442ac05b3b196f0deb54ef12.jpg" width="840" loading="lazy" alt="Tái tạo quảng cáo sản phẩm bằng Blender và ChatCut"></a>
+
+Dùng một quảng cáo tham khảo để định hướng việc dựng mô hình 3D, thiết lập vật liệu, ánh sáng, chuyển động máy quay và biên tập theo từng cảnh trong Blender và ChatCut.
+
+**Prompt**
+
+```text
+Kết nối ChatCut Desktop và Blender trên máy tính của tôi, rồi tái tạo video tham khảo tôi đã cung cấp.
+
+Phân tích kỹ mô hình, vật liệu, ánh sáng, vị trí máy quay, nhịp chuyển động và hoạt ảnh chữ trong từng cảnh. Dùng Blender để tạo hoạt ảnh 3D và ChatCut để biên tập, bám sát video tham khảo nhất có thể.
+```
+
+[Xem video ↗](https://media.tripogrowth.space/media/5b80deba-a909-42b7-8b0f-43fb34d4aeed.mp4) · [Bài đăng gốc](https://x.com/chatcutapp/status/2096925943575330908) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -1189,6 +1472,322 @@ Gần như hoàn hảo. 1) Xem hình tại ~/Desktop/remove_material_for_knurled
 
 ---
 
+<a id="2097004192627933279"></a>
+
+### Thú cưng robot tương tác trên bàn làm việc
+
+[ZEUS⚡️](https://x.com/zeuuss_01) · 2026-09-07
+
+<a href="https://x.com/zeuuss_01/status/2097004192627933279"><img src="../assets/previews/9188a5a53301b71d404af1d10d6baf4e44585869cc933918118ae2180cf3c1ab.jpg" width="840" loading="lazy" alt="Thú cưng robot tương tác trên bàn làm việc"></a>
+
+Đặc tả game Three.js chi tiết về một robot bốn chân với chuyển động biểu cảm, các ô pin hiển thị rõ, cơ chế sạc và ba nhiệm vụ dựa trên vật thể.
+
+**Prompt**
+
+```text
+TOÀN BỘ ĐẶC TẢ.
+LƯU NỘI DUNG NÀY THÀNH TỆP TRONG THƯ MỤC DỰ ÁN, KHÔNG PHẢI DƯỚI DẠNG TIN NHẮN CHAT.
+SAU ĐÓ: /goal xây dựng nội dung này bằng three.js, đọc SPEC.md và làm theo
+chính xác, đặc biệt là các mục 9 và 10.
+
+{ BẮT ĐẦU }
+
+1 NỘI DUNG NÀY LÀ GÌ
+
+một chú robot bốn chân nhỏ sống trên bàn làm việc. bạn sạc pin cho nó,
+chơi cùng nó và giao cho nó ba công việc. nó không bao giờ rời khỏi bàn
+và bạn cũng vậy. đó là toàn bộ trò chơi.
+
+bản dựng này chỉ dựa vào hai yếu tố, không có gì khác: diện mạo của robot
+và cách nó chuyển động. người chơi dành toàn bộ thời gian nhìn một vật thể
+từ khoảng cách cố định, nên vật thể đó phải đủ cuốn hút để ngắm nhìn,
+và phải chuyển động như thể nó đang sống.
+
+đây không phải thú cưng biết nói. không giọng nói, không miệng, không khuôn mặt trên màn hình,
+và nó không bao giờ lặp lại lời bạn nói. nó là một cỗ máy chú ý đến bạn,
+và đó là một điều khác biệt, thậm chí tốt hơn.
+
+2 ROBOT
+
+kích thước khoảng bằng một con mèo, có bốn chân.
+
+tỷ lệ, yếu tố tạo nên sự duyên dáng:
+- thân robot là một khối bo tròn, rộng hơn chiều cao, dài khoảng bằng hai lần
+  chiều rộng của đầu. tạo cảm giác nặng nề.
+- đầu lớn so với thân, cao khoảng 40 phần trăm chiều cao thân,
+  và nhô về phía trước trên một chiếc cổ ngắn. tạo cảm giác tò mò.
+  không phải đầu chibi, và mắt không được quá to.
+- chân thanh mảnh khi đặt cạnh thân, khiến một vật thể nặng nề
+  được nâng đỡ bởi những chi nhẹ. sự tương phản này khiến dáng đi
+  trông thanh thoát thay vì vụng về.
+- một chiếc đuôi ngắn thực chất là đối trọng, đung đưa đúng như vậy
+- một ăng-ten ngắn trên đầu, quật theo rồi lắng xuống chậm nửa
+  nhịp sau mỗi chuyển động. gần như không tốn chi phí, nhưng đây là
+  nguồn tạo sức sống lớn nhất cho toàn bộ mô hình.
+
+ba vật liệu, không quá ba:
+1 tấm ốp sơn màu trắng ngà dịu, bề mặt mờ, hơi ấm. phủ trên
+  lưng, phần hông và đỉnh đầu. ít nhất 60 phần trăm
+  bề mặt nhìn thấy, nếu không robot sẽ trông như một đống linh kiện.
+2 kim loại gia công để trần, màu xám trung tính mát, dùng cho chân, khung, khớp và
+  cổ. chỉ vòng khớp mới có màu đồng thau ấm.
+3 cao su tối màu, gần như đen và bề mặt mờ, dùng cho bốn bàn chân, ống bọc
+  cổ và dây cáp.
+
+khuôn mặt: hai thấu kính tròn cùng kích thước, đặt cách xa nhau, lõm vào
+sau một rãnh gia công chạy ngang trán. rãnh này là một
+cạnh gia công, không phải lông mày, và không bao giờ chuyển động. mọi biểu cảm
+đều đến từ góc nghiêng của đầu, ăng-ten và độ sáng của thấu kính.
+
+một khuyết điểm: một tấm ốp vai có sắc độ hơi khác, như thể
+đã từng được thay. không cần làm nổi bật chi tiết này.
+
+kiểm tra hình dáng, đạt hoặc không đạt: render robot màu đen hoàn toàn trên
+nền trắng ở kích thước 64 × 64 pixel, từ góc bên và góc ba phần tư. chiếc đầu
+ngẩng lên, khoảng hở giữa đầu và thân, bốn chân với
+ánh sáng lọt qua giữa chúng và chiếc đuôi đều phải vẫn dễ nhận ra. nếu bất kỳ
+hai khối nào hòa vào nhau, hãy sửa mô hình, không phải bản render.
+
+3 PIN LÀ THANH TIẾN TRÌNH
+
+một dải gồm năm ô pin chạy dọc một bên sườn, phát sáng màu hổ phách. chúng sẽ
+tắt lần lượt khi pin giảm và sáng lần lượt khi đang
+sạc. không hiển thị con số hay thanh trạng thái nào trên màn hình.
+
+5 ô pin  nhanh nhẹn, đầu ngẩng, đuôi đung đưa
+4          bình thường
+3          chậm hơn, đầu hơi cúi
+2          ngồi xuống giữa các hành động thay vì đứng
+1          tự đi đến đế sạc và chờ
+0          gập chân lại và tắt nguồn ngay tại chỗ,
+         thấu kính tối om, chờ được mang đến đế sạc
+
+nó không bao giờ hỏng, không bao giờ chết và không mất gì khi về 0.
+
+4 CÁCH DI CHUYỂN
+
+- bước đi thực sự. các cặp chân chéo nhau, bàn chân đặt trên bàn và
+  giữ nguyên vị trí trong khi thân mình di chuyển qua chúng. bàn chân không
+  trượt.
+- trọng lượng. thân mình hạ xuống ở cặp chân đang chịu tải. khi bắt đầu, nó nghiêng
+  về phía trước trước khi di chuyển. khi dừng lại, nó bước thêm một bước ngắn để
+  giữ thăng bằng.
+- nó quan sát bạn. đầu dõi theo con trỏ mỗi khi con trỏ nằm trên bàn, và cổ dẫn hướng xoay trước thân mình.
+  khi con trỏ nằm trên bàn, cổ dẫn hướng xoay trước thân mình.
+- nó tự lấy lại thăng bằng. chạm nhẹ vào nó, nó loạng choạng, dang rộng một chân để trụ và
+  tự đứng thẳng lại. nó không bao giờ bị ngã.
+- nó ổn định lại. khi đứng yên, nó chuyển trọng lượng sau vài giây, và
+  thấu kính chớp chậm: chúng mờ đi rồi sáng trở lại, chứ
+  không khép lại.
+
+nó tiến bộ qua luyện tập. mỗi lần hoàn thành một công việc, độ lắc lư lại
+giảm đi một chút và chuyển động nhanh hơn một chút, cho đến khi đạt giới hạn.
+không có thông báo nào về điều này. đến công việc thứ hai mươi, nó chuyển động rõ ràng
+như một cỗ máy biết mình đang làm gì, và sự thay đổi đó là
+tiến trình duy nhất trong trò chơi.
+
+5 BÀN THỢ
+
+một chiếc bàn thợ, được nhìn từ khoảng cách cố định. ấm áp, in đậm dấu vết sử dụng.
+
+mặt bàn bằng gỗ sáng màu đã mòn. bức tường phía sau màu xanh xám lạnh, đơn giản.
+robot bằng kim loại trần, các khớp nối bằng đồng thau ấm. thấu kính và các cell pin
+phát sáng màu hổ phách, là màu duy nhất được chiếu sáng. ánh đèn ấm từ một bên,
+đổ bóng dài, mềm. mọi thứ khác đều trầm màu.
+
+trên bàn: một đế sạc với cuộn dây cáp, một lọ đựng
+bu lông, một mảnh vải cuộn, một chiếc thùng nhỏ, một đèn bàn, một quả bóng cao su,
+một bát thiếc. không có gì khác.
+
+chiếc đèn là nguồn sáng duy nhất. khi robot đi ngang
+phía trước đèn, bóng của nó quét ngang mặt bàn.
+
+6 CHỈ THỂ HIỆN QUA CÁCH SỬ DỤNG
+
+- bạn kéo quả bóng ngang mặt bàn, đầu robot dõi theo
+  nó trước khi xoay thân mình để đi theo
+- bạn đặt robot lên đế sạc, một cell pin sáng lên, rồi đến
+  cell tiếp theo, giữa mỗi lần sáng có một khoảng dừng
+- bạn chạm nhẹ vào sườn robot, nó loạng choạng, chống lại bằng một
+  chân dang rộng rồi đứng thẳng lại
+- bạn thả một chiếc bu lông vào bát thiếc, nó đi tới, nhặt bu lông
+  bằng các tấm hàm kẹp ở miệng rồi mang đến chiếc lọ
+- bạn để mặc nó, nó đi đến mép bàn, nhìn
+  xuống dưới rồi lùi lại
+- bạn gãi lên tấm ốp trên lưng, nó hạ thấp thân mình và
+  giữ yên cho đến khi bạn dừng lại
+
+hãy thể hiện tất cả những điều này qua hành động. không bao giờ giải thích bằng chú thích.
+
+7 BA CÔNG VIỆC
+
+mỗi công việc nhằm thể hiện một kiểu chuyển động khác nhau, và người chơi yêu cầu chúng
+bằng cách đặt một vật lên bàn, không bao giờ qua menu.
+
+nhặt  thả một chiếc bu lông ở bất kỳ đâu. nó đi tới, nhặt lên rồi mang
+       đến chiếc lọ. thể hiện bước đi và cú xoay.
+xếp  đặt ba chiếc thùng ra bàn. nó đẩy chúng thành một chồng, từng chiếc
+       một. thể hiện động tác đẩy, chống trụ và nâng.
+đuổi  lăn quả bóng. nó chạy theo, dùng một chân chặn lại rồi
+       mang về. thể hiện chạy, trượt và dừng.
+
+mỗi công việc tiêu tốn một ít điện. công việc thực hiện ở mức 2 cell pin sẽ chậm hơn
+và lắc lư nhiều hơn so với cùng công việc ở mức 5. không hàng đợi, không thứ tự, không
+hẹn giờ, không phần thưởng.
+
+8 GIAO DIỆN
+
+giữa cạnh dưới màn hình: một thẻ nhắc duy nhất xuất hiện khi có vật trong tầm với,
+nêu phím hoặc thao tác kéo cùng hành động tương ứng; thẻ này sẽ biến mất khi
+không còn phù hợp.
+
+không có gì khác trên màn hình. không có thanh pin, chỉ số hạnh phúc, không có
+chỉ số đói, tiền xu, cấp độ, kinh nghiệm, ngôi sao, không có
+bộ đếm giờ, menu, cài đặt, cửa sổ hướng dẫn, nhãn nổi
+bên trên robot.
+
+mọi thông tin người chơi cần biết đều thể hiện trên thân robot.
+
+camera: cố định theo hướng bàn, nhìn chếch ba phần tư từ phía trước và
+hơi từ trên xuống. trường nhìn dọc 40 độ. robot chiếm
+30 đến 45 phần trăm chiều cao khung hình ở giữa bàn.
+mỗi ô pin rộng ít nhất 8 pixel ở độ phân giải 1080p. toàn bộ
+bàn luôn nằm trong khung hình. kéo để xoay khoảng 60
+độ, không hơn. camera không bao giờ rời khỏi bàn và
+không bao giờ cắt cảnh.
+
+9 NHỮNG ĐIỀU BỊ CẤM, LIỆT KÊ CỤ THỂ
+
+thú cưng: không có giọng nói, không nói chuyện, không lặp lại lời bạn nói, không
+micro, không có khuôn mặt trên màn hình, không miệng, không lông mày, không
+mắt hoạt hình có con ngươi, không trái tim, không emoji, không bong bóng thoại,
+không nhập tên, không trang phục, không mũ, không cửa hàng sơn.
+
+mô hình free-to-play: không tiền xu, không đá quý, không bất kỳ loại tiền tệ nào, không
+cửa hàng, quảng cáo, phần thưởng hằng ngày, chuỗi thành tích, thông báo, không
+năng lượng phải mua, bộ đếm thời gian chờ, cấp độ, không
+thanh kinh nghiệm, thành tựu, bảng xếp hạng.
+
+gameplay: không kẻ địch, chiến đấu, máu, sát thương, chết,
+hỏng hóc, mini-game sửa chữa, trạng thái thất bại, điểm số, không
+bộ đếm giờ, dấu nhiệm vụ, đoạn cắt cảnh, hình minh họa màn hình tải.
+
+lặp lại từ các bản dựng trước của tôi: không bãi biển, cây cọ, cua,
+đảo bay, đèn lồng, hoa anh đào, ninja, không
+shuriken, khối voxel, cuốc chim, dung nham, ô tô, thành phố,
+không có cảnh dưới nước, rong biển.
+
+kết xuất: không kết cấu bề mặt chân thực, bóng cứng, lóe sáng ống kính, không
+hạt phim, khung viền điện ảnh, nhòe độ sâu trường ảnh, quang sai màu
+sắc, sương mù xám trên màn hình. chỉ tạo bloom trên thấu kính và
+các ô pin, không thêm bất kỳ chỗ nào khác.
+
+10 NGÂN SÁCH DỰNG
+
+bản dựng này phải hoàn thành trong một buổi làm việc. mọi thứ dưới đây
+đều tuyệt đối không được có trong phiên bản này. không thêm, không dựng stub, không
+để lại TODO cho chúng.
+
+không có phòng thứ hai, không có ngoại cảnh
+không có robot thứ hai
+không lưu hoặc tải; mỗi lần tải lại là một robot mới
+không dùng engine vật lý: tự viết inverse kinematics cho bốn chân
+  trên mặt phẳng, cùng va chạm hộp đơn giản cho các vật thể trên bàn
+không ragdoll
+không âm thanh
+không menu, không cài đặt, không màn hình tạm dừng
+không quá ba công việc
+không có chu kỳ ngày đêm
+
+phải dành thời gian cho các phần sau, theo thứ tự này:
+1 tỷ lệ cơ thể robot và bài kiểm tra silhouette
+2 chu kỳ bước đi và cách đặt chân
+3 khả năng dõi theo bằng đầu, ăng-ten và chuyển động ổn định
+4 các trạng thái pin và đế sạc
+5 ba công việc
+6 trang trí bàn làm việc
+
+nếu hết thời gian, hãy phát hành bản dựng với một chiếc bàn trống và robot đẹp mắt
+có dáng đi tốt. tuyệt đối không làm ngược lại. một chiếc bàn trống với
+robot tốt đã là một game hoàn chỉnh. chiếc bàn được trang trí nhưng robot cứng đờ
+thì chẳng có ý nghĩa gì.
+
+trước khi tuyên bố hoàn tất, hãy chứng minh bốn điều này bằng bản kết xuất, không phải bằng
+lời: bài kiểm tra dáng đen ở 64 px từ hai góc, một chu kỳ bước đi
+ở mức 5 ô pin và cùng chu kỳ bước đi đó ở mức 2 ô pin, phần đầu bám theo
+con trỏ trong toàn bộ cung xoay, và robot ở mức 5 ô pin và ở mức 0
+ô pin cạnh nhau.
+
+hãy dựng nó, rồi cho tôi biết ba điều bạn sẽ sửa đầu tiên.
+
+{ END }
+```
+
+[Xem video ↗](https://media.tripogrowth.space/media/65dbf60c-06b5-4e91-b8b7-30030e44596e.mp4) · [Bài đăng gốc](https://x.com/zeuuss_01/status/2097004192627933279) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2097153139795468365"></a>
+
+### Hoạt ảnh tách lớp cửa hàng hoa Nhật Bản
+
+[KANA｜東京AI映像](https://x.com/KanaWorks_AI) · 2026-09-08
+
+<a href="https://x.com/KanaWorks_AI/status/2097153139795468365"><img src="../assets/previews/ecac385562a375d47484397c0d45277de44f41c1bd02ab91144a341e05972e95.jpg" width="840" loading="lazy" alt="Hoạt ảnh tách lớp cửa hàng hoa Nhật Bản"></a>
+
+Tạo một cửa hàng hoa cách điệu trong Blender, làm hoạt ảnh để tòa nhà và các đạo cụ đường phố tách thành những lớp rõ ràng, rồi lắp ráp lại toàn bộ cảnh.
+
+**Prompt**
+
+```text
+Dùng Blender MCP để dựng một cảnh cửa hàng hoa Nhật Bản nhỏ, cách điệu. Tập trung tái hiện trung thực các yếu tố hình ảnh chính: mái hiên màu xanh, biển hiệu trên mái có dòng chữ tiếng Nhật “花屋”, các chậu hoa và cây cảnh được sắp trước cửa hàng, máy bán hàng tự động, xe đạp, đèn giao thông, cột điện, cây cối xung quanh và những chi tiết đường phố dễ nhận biết khác. Kết xuất cảnh theo phong cách hoạt hình ấm áp, đáng yêu, với ánh sáng dịu, vật liệu bắt mắt và bầu không khí thân thiện.
+
+Tạo một hoạt ảnh tách lớp có tác động thị giác mạnh và giàu chuyển động cho toàn bộ cảnh cửa hàng hoa. Hiệu ứng tách lớp cần rõ ràng, phóng đại thay vì tinh tế. Tách riêng từng thành phần ra phía ngoài một cách mượt mà, có hệ thống để làm nổi bật cấu trúc và phần bên trong của cửa hàng hoa.
+
+Trong quá trình tách lớp, cho các bức tường bên ngoài, cây cối xung quanh, cột điện, biển hiệu, mái hiên, xe đạp, chậu hoa, cây cảnh, đạo cụ đường phố và các yếu tố môi trường khác bay ra phía ngoài hoặc lùi về phía sau, tạo đủ khoảng trống để người xem nhìn rõ bên trong cửa hàng hoa. Chia tòa nhà thành các lớp kết cấu có ý nghĩa để kiến trúc nội thất, đồ nội thất, vật trang trí, hoa, cây cảnh, kệ và các chi tiết nhỏ hơn hiện rõ.
+
+Máy bán hàng tự động cũng cần tách thành các bộ phận riêng. Các tấm vỏ bên ngoài phải tách ra, còn từng chai và lon nước ngọt bên trong bay ra linh hoạt, giãn thành một đội hình có trật tự để vẫn dễ nhận biết. Các bộ phận và chi tiết nhỏ có thể di chuyển xa hơn nhằm tăng sức hấp dẫn thị giác cho phân đoạn.
+
+Sử dụng thời điểm xuất hiện lệch nhau, tốc độ chuyển động khác nhau, chuyển động xoay, chiều sâu và các quỹ đạo phân lớp để tạo cảm giác năng lượng và lực tác động mạnh, đồng thời giữ mọi thành phần gọn gàng, dễ theo dõi. Tránh để tất cả cùng di chuyển ra ngoài chính xác cùng lúc hoặc cùng tốc độ.
+
+Khi toàn bộ cảnh đã tách hoàn toàn, giữ bố cục trong giây lát để người xem quan sát rõ cấu trúc bên trong và tất cả các thành phần đã tách rời.
+
+Sau đó đảo ngược trình tự: các chai nước ngọt, bộ phận của máy bán hàng tự động, cây cảnh, đạo cụ, đồ vật nội thất, tường, cây cối, cột điện, biển hiệu, xe đạp và mọi thành phần khác bay mượt mà trở về vị trí, lắp ráp lại thành cảnh cửa hàng hoa hoàn chỉnh.
+
+Toàn bộ hoạt ảnh cần có cảm giác giàu năng lượng, điện ảnh, thỏa mãn và tạo ấn tượng thị giác mạnh, với chuyển động rõ ràng và sự chuyển đổi dễ nhận biết giữa cảnh hoàn chỉnh, trạng thái tách lớp hoàn toàn và cảnh được lắp ráp lại ở cuối. Duy trì chuyển động có lớp lang, dễ theo dõi và được dàn dựng cẩn thận trong suốt hoạt ảnh.
+
+Sử dụng nền studio trung tính trong phân đoạn tách lớp để các vật thể đã tách rời và cấu trúc bên trong luôn hiện rõ.
+
+Sản phẩm bàn giao cuối cùng:
+Một hoạt ảnh được kết xuất hoàn chỉnh và một tệp dự án Blender 3D có thể chỉnh sửa. Tất cả vật thể, bộ phận, collection, vật liệu và các thành phần chính của cảnh phải được đặt tên, sắp xếp rõ ràng, nhất quán và chuyên nghiệp.
+```
+
+[Xem video ↗](https://media.tripogrowth.space/media/9ff1b18d-1aa6-432c-ad96-bc3ebca2ba49.mp4) · [Bài đăng gốc](https://x.com/KanaWorks_AI/status/2097153139795468365) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2097167383576383502"></a>
+
+### Địa hình làng quê lấy cảm hứng từ Skyrim từ ảnh tham chiếu được tạo bằng AI
+
+[Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo) · 2026-09-08
+
+<a href="https://x.com/TaroKichijo/status/2097167383576383502"><img src="../assets/previews/9c9cbd259a893444392ed43dcb391e62636358a5f2f570cf4232cc13a2128a63.jpg" width="840" loading="lazy" alt="Địa hình làng quê lấy cảm hứng từ Skyrim từ ảnh tham chiếu được tạo bằng AI"></a>
+
+<a href="https://x.com/TaroKichijo/status/2097167383576383502"><img src="../assets/previews/b2cb6b850ef77b3e545565d93a49f22ce192293b50f8ef2ad74f242cfe387ddf.jpg" width="840" loading="lazy" alt="Địa hình làng quê lấy cảm hứng từ Skyrim từ ảnh tham chiếu được tạo bằng AI"></a>
+
+Tạo cảnh quan làng quê giả tưởng 3D bằng img2threejs, trước tiên tạo một ảnh tham chiếu để định hướng cho cảnh.
+
+**Prompt**
+
+```text
+Sử dụng img2threejs/img2threejs để tạo địa hình làng quê 3D mang phong cách như trong Skyrim. Tự tạo ảnh tham chiếu.
+```
+
+[Xem video ↗](https://media.tripogrowth.space/media/6decab87-0bc7-4913-8502-de4ef090731a.mp4) · [Bài đăng gốc](https://x.com/TaroKichijo/status/2097167383576383502) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="2097313247116341424"></a>
 
 ### Cải thiện đường nét khuôn mặt của mô hình 3D trong Blender bằng hình ảnh tham chiếu
@@ -1390,24 +1989,6 @@ Dựng lại tàu kéo trong Blender từ ảnh tham chiếu. Mô hình hóa th�
 
 ---
 
-<a id="2096149823216898445"></a>
-
-### Game bay trên trình duyệt
-
-[Givros](https://x.com/givros) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/browser-flight-game-2096149823216898445"><img src="../assets/previews/094260e4ea7a88a23850bb8e25f4952257e74479fab70f9773f1972c6bfab80f.webp" width="840" loading="lazy" alt="Game bay trên trình duyệt"></a>
-
-**Prompt**
-
-```text
-Tạo game bay 3D hoàn chỉnh trên trình duyệt từ dự án trống, với điều khiển bay, môi trường điều hướng được, mục tiêu rõ và trình bày nhất quán.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/browser-flight-game-2096149823216898445) · [Xem video ↗](https://media.tripogrowth.space/media/07f03d8a-fcce-4d77-a744-2fd3b8a2cccc.mp4) · [Bài đăng gốc](https://x.com/givros/status/2096149823216898445) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="2096245759121277132"></a>
 
 ### Website studio 3D theo cuộn trang
@@ -1480,24 +2061,6 @@ Dựng phòng chơi Three.js ấm áp, nơi em bé di chuyển giữa đồ chơ
 
 ---
 
-<a id="2096122429319852319"></a>
-
-### Nhà máy chế tạo phản lực đang hoạt động
-
-[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/live-jet-manufacturing-plant-2096122429319852319"><img src="../assets/previews/88e94868f034bdf39f97a336b683c3eb911bcf58a404de83d7dc8106868f481d.webp" width="840" loading="lazy" alt="Nhà máy chế tạo phản lực đang hoạt động"></a>
-
-**Prompt**
-
-```text
-Nghiên cứu chế tạo máy bay và dựng mô phỏng nhà máy phản lực Three.js trực tiếp. Mô hình hóa chu kỳ máy, trạm sản xuất, vận chuyển và nút thắt, rồi kiểm tra dòng công việc.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/live-jet-manufacturing-plant-2096122429319852319) · [Xem video ↗](https://media.tripogrowth.space/media/b86fa701-c7e0-443e-a38d-72d56a21abc4.mp4) · [Bài đăng gốc](https://x.com/konstantinsaifo/status/2096122429319852319) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="2096220264413409648"></a>
 
 ### Cơn bão trong khối lập phương
@@ -1513,24 +2076,6 @@ Tạo cơn bão bị nhốt trong khối lập phương với thời tiết bạ
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648) · [Xem video ↗](https://media.tripogrowth.space/media/e8f23aa9-80c1-43da-a974-26d7928effcf.mp4) · [Bài đăng gốc](https://x.com/zwb44/status/2096220264413409648) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096133339329536249"></a>
-
-### T. rex có rig và hoạt ảnh
-
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/rigged-and-animated-t-rex-2096133339329536249"><img src="../assets/previews/6bf58344b93f183cd25507533e35628c41a22155c9dd4b95ef1098724ee176c4.webp" width="840" loading="lazy" alt="T. rex có rig và hoạt ảnh"></a>
-
-**Prompt**
-
-```text
-Lấy mô hình T. rex đã tạo, gắn rig và tạo chuyển động hợp lý. Render nhân vật trong Three.js và kiểm tra hoạt ảnh biến dạng mô hình nhất quán.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [Xem video ↗](https://media.tripogrowth.space/media/e97790e1-c6e6-4c82-8bc8-9b206079a54e.mp4) · [Bài đăng gốc](https://x.com/majidmanzarpour/status/2096133339329536249) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -1642,24 +2187,6 @@ Dựng game lái xe trình duyệt trong thành phố mở, có giao thông, dri
 
 ---
 
-<a id="2096111709496680842"></a>
-
-### Làm lại quảng cáo game di động thành game thật
-
-[daniel](https://x.com/buildingadlicio) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842"><img src="../assets/previews/4d8530d89c735d14003f2bf753e2cb73013a740e9c0e65d9e76d876331480777.webp" width="840" loading="lazy" alt="Làm lại quảng cáo game di động thành game thật"></a>
-
-**Prompt**
-
-```text
-Dùng quảng cáo game di động làm tham chiếu để dựng game trình duyệt chơi được. Tái hiện tương tác chính và dùng asset Blender để khớp ý tưởng hình ảnh.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842) · [Xem video ↗](https://media.tripogrowth.space/media/7be01ec4-77e9-4270-aaf4-18119252736f.mp4) · [Bài đăng gốc](https://x.com/buildingadlicio/status/2096111709496680842) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="2096258619574513880"></a>
 
 ### Vật lý đua xe trình duyệt bằng C# và WASM
@@ -1675,78 +2202,6 @@ Tái tạo hệ vật lý đua xe kiểu Trackmania bằng C#, chạy qua WASM v
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Xem video ↗](https://media.tripogrowth.space/media/f4081f64-16b6-41ad-b121-d0afb211da12.mp4) · [Bài đăng gốc](https://x.com/achepta_tm/status/2096258619574513880) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096141728487178503"></a>
-
-### Tự động rig nhân vật và động tác kung fu
-
-[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503"><img src="../assets/previews/b667cbe461565dc1ef4c531685416b80150c3a7eec1c861e8bdd3a875c750845.webp" width="840" loading="lazy" alt="Tự động rig nhân vật và động tác kung fu"></a>
-
-**Prompt**
-
-```text
-Lấy nhân vật 3D được cung cấp, tạo rig và thêm đi bộ, chạy cùng vài động tác kung fu. Kiểm tra hoạt ảnh để phát hiện khớp gãy và tư thế thiếu ổn định.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [Xem video ↗](https://media.tripogrowth.space/media/d6af998c-563b-40fa-b6d2-bdb014cd8cf4.mp4) · [Bài đăng gốc](https://x.com/thebuggeddev/status/2096141728487178503) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096140378777010278"></a>
-
-### Nhân vật Viking trong Blender
-
-[Emil](https://x.com/fre4kspace) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/viking-character-in-blender-2096140378777010278"><img src="../assets/previews/47571b98331669c487a6b59fb8d0b20e3d4a0859d799fb78d35e4b387ee3c3e3.webp" width="840" loading="lazy" alt="Nhân vật Viking trong Blender"></a>
-
-**Prompt**
-
-```text
-Tạo nhân vật Viking 3D chỉnh sửa được trong Blender. Tập trung trang phục dễ nhận biết, cấu trúc mặt, tỷ lệ cơ thể và tư thế giới thiệu rõ.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/viking-character-in-blender-2096140378777010278) · [Bài đăng gốc](https://x.com/fre4kspace/status/2096140378777010278) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096155883122413946"></a>
-
-### Dropzone: đấu trường battle royale
-
-[MotionViz](https://x.com/Motion_Viz) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/dropzone-battle-royale-arena-2096155883122413946"><img src="../assets/previews/37245ebc3775536860092d7f7f05f5cd0907a4133d401898a7e97b42db8eade2.webp" width="840" loading="lazy" alt="Dropzone: đấu trường battle royale"></a>
-
-**Prompt**
-
-```text
-Dựng game battle royale góc nhìn thứ ba trên trình duyệt với vòng bo bão, chín địch AI, súng trường xung, máu và nạp đạn. Có tường che chắn đặt được và vòng loại đối thủ hoàn chỉnh.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [Xem video ↗](https://media.tripogrowth.space/media/aa58e48b-d28d-41a8-9189-50898d68ed64.mp4) · [Bài đăng gốc](https://x.com/Motion_Viz/status/2096155883122413946) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096135808243876152"></a>
-
-### Phiêu lưu platform lấy cảm hứng Odyssey
-
-[AIHubmix](https://x.com/AiHubMix) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152"><img src="../assets/previews/f8e883bece1bb1220b1f35dfc38101d0cf0ad95355d2256dbd6b7acfd1989ea5.webp" width="840" loading="lazy" alt="Phiêu lưu platform lấy cảm hứng Odyssey"></a>
-
-**Prompt**
-
-```text
-Dựng màn Three.js lấy cảm hứng Odyssey với tám bệ, ba mặt trăng thu thập được, ném mũ quay lại, kẻ địch và checkpoint. Thêm điều khiển cảm ứng, kiểm tra toàn bộ lượt chơi.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [Xem video ↗](https://media.tripogrowth.space/media/be331224-d958-4c92-ab5d-ed31b931958c.mp4) · [Bài đăng gốc](https://x.com/AiHubMix/status/2096135808243876152) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -1783,24 +2238,6 @@ Dựng máy viên nang ký ức 3D. Xoay núm để thả một ký ức, mô h�
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/memory-capsule-machine-2096241295949975602) · [Xem video ↗](https://media.tripogrowth.space/media/57f89e78-6351-4742-9fe4-753e50897e5b.mp4) · [Bài đăng gốc](https://x.com/gloria_zwq/status/2096241295949975602) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096125193580113957"></a>
-
-### Xe Formula One trong Blender
-
-[Conor Dart](https://x.com/Conor_D_Dart) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/formula-one-car-in-blender-2096125193580113957"><img src="../assets/previews/7b1991638d1cf62afb53f325569e6277a15c2f61ec5f1991e3b4a6b0ef28f875.webp" width="840" loading="lazy" alt="Xe Formula One trong Blender"></a>
-
-**Prompt**
-
-```text
-Tạo mô hình Formula One 3D trong Blender bằng thao tác máy tính.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/formula-one-car-in-blender-2096125193580113957) · [Xem video ↗](https://media.tripogrowth.space/media/d19f8409-133b-4d5e-bba7-41a9cfa7b7b4.mp4) · [Bài đăng gốc](https://x.com/Conor_D_Dart/status/2096125193580113957) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -1945,24 +2382,6 @@ Dựng mô hình một ngôi nhà từ đầu trong Blender. Giữ cảnh ở d�
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865) · [Xem video ↗](https://media.tripogrowth.space/media/4b9bda22-09cb-45d7-9ed1-afe8d4c4020d.mp4) · [Bài đăng gốc](https://x.com/mizkun/status/2096576154337734865) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096143359505269079"></a>
-
-### Từ ảnh quán cà phê đến video tham quan khung dọc
-
-[森叔](https://x.com/harrisonitsme) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"><img src="../assets/previews/ffcfb39c9d14b56e65e3d89a656460fd7dbd09ea1ca260185cf1b2fd9da8552d.webp" width="840" loading="lazy" alt="Từ ảnh quán cà phê đến video tham quan khung dọc"></a>
-
-**Prompt**
-
-```text
-Tái dựng quán cà phê từ ảnh trong Blender, gồm trần gỗ, đèn dải, máy rang, kệ và cây xanh. Bàn giao cảnh có thể chỉnh sửa và video camera tham quan dài 15 giây theo khung hình dọc.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079) · [Xem video ↗](https://media.tripogrowth.space/media/342fda31-e582-426d-8bec-0930807cd4b4.mp4) · [Bài đăng gốc](https://x.com/harrisonitsme/status/2096143359505269079) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -2254,24 +2673,6 @@ Kết hợp ảnh tham khảo căn hộ với bản phác mặt bằng đơn gi�
 
 ---
 
-<a id="2096128774203171021"></a>
-
-### Bay quanh Adiyogi trong ánh chiều
-
-[Adi](https://x.com/thejothiram) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/adiyogi-evening-fly-through-2096128774203171021"><img src="../assets/previews/38756d78911bac44657e3035b1f8742239f296d966babc6d16c0203d74295152.webp" width="840" loading="lazy" alt="Bay quanh Adiyogi trong ánh chiều"></a>
-
-**Prompt**
-
-```text
-Dựng cảnh Adiyogi trong Blender với khuôn viên rộng, các góc cận cảnh chi tiết và ánh chiều ấm. Kết xuất đoạn bay tham quan 30 giây và giữ lại cảnh có thể chỉnh sửa.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/adiyogi-evening-fly-through-2096128774203171021) · [Xem video ↗](https://media.tripogrowth.space/media/86a4d9a8-80cf-49cb-bf45-ce1ca012df61.mp4) · [Bài đăng gốc](https://x.com/thejothiram/status/2096128774203171021) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="2096521798150242631"></a>
 
 ### Mặt nước lặp tuần hoàn bằng Geometry Nodes
@@ -2545,7 +2946,7 @@ Xây dựng trang đích biển sâu với hiệu ứng nước Three.js, giao d
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 184 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 201 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>
