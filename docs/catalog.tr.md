@@ -28,9 +28,14 @@
 
 **100 · En yeni Astra istemleri**
 
-> En yeni 100 örnek burada. Daha fazla ilham için resmî siteyi ziyaret edin.
->
-> **[Resmî sitede 184 örneğin tümünü keşfet →](https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&utm_medium=referral&utm_campaign=awesome_astra_prompts&utm_content=catalog_top)**
+<table width="100%">
+<tr><td align="center">
+<br>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_top">Resmî sitede 184 örneğin tümünü keşfet →</a></strong></p>
+<p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
+<br>
+</td></tr>
+</table>
 
 ## Öne çıkan projeler
 
@@ -2537,6 +2542,11 @@ Three.js su efektleri, koyu cam görünümlü arayüz ve kaydırmaya bağlı har
 
 ---
 
-> En yeni 100 örnek burada. Daha fazla ilham için resmî siteyi ziyaret edin.
->
-> **[Resmî sitede 184 örneğin tümünü keşfet →](https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&utm_medium=referral&utm_campaign=awesome_astra_prompts&utm_content=catalog_bottom)**
+<table width="100%">
+<tr><td align="center">
+<br>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 184 örneğin tümünü keşfet →</a></strong></p>
+<p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
+<br>
+</td></tr>
+</table>

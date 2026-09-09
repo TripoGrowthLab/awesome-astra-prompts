@@ -29,9 +29,14 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 
 **100 examples · 14 languages · 2 examples with source code**
 
-> Showing the latest 100 examples. Discover more on the official site.
->
-> **[Explore all 184 examples →](https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&utm_medium=referral&utm_campaign=awesome_astra_prompts&utm_content=catalog_top)**
+<table width="100%">
+<tr><td align="center">
+<br>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_top">Explore all 184 examples →</a></strong></p>
+<p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
+<br>
+</td></tr>
+</table>
 
 ## Featured projects
 
@@ -2538,9 +2543,14 @@ Build a deep-sea landing page with Three.js water effects, a dark glass-like int
 
 ---
 
-> Showing the latest 100 examples. Discover more on the official site.
->
-> **[Explore all 184 examples →](https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&utm_medium=referral&utm_campaign=awesome_astra_prompts&utm_content=catalog_bottom)**
+<table width="100%">
+<tr><td align="center">
+<br>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 184 examples →</a></strong></p>
+<p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
+<br>
+</td></tr>
+</table>
 
 ## Share a good example
 
@@ -2548,6 +2558,6 @@ Build a deep-sea landing page with Three.js water effects, a dark glass-like int
 
 ## Credits
 
-Curated by [TripoGrowthLab](https://github.com/TripoGrowthLab). Layout inspired by [YouMind’s Awesome GPT Image 2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2). Thanks to every creator who shared their work.
+Curated by [TripoGrowthLab](https://github.com/TripoGrowthLab). Thanks to every creator who shared their work.
 
 The banner is conceptual artwork. Example images belong to their credited creators. The [MIT license](LICENSE) covers our tooling and original documentation; third-party material retains its owners’ rights. [Attribution and removal requests](RIGHTS.md).

@@ -29,9 +29,14 @@
 
 **100 条案例 · 14 种语言 · 2 条附项目源码**
 
-> 这里收录最新 100 条案例，更多灵感尽在官网。
->
-> **[前往官网查看全部 184 条案例 →](https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&utm_medium=referral&utm_campaign=awesome_astra_prompts&utm_content=catalog_top)**
+<table width="100%">
+<tr><td align="center">
+<br>
+<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_top">前往官网查看全部 184 条案例 →</a></strong></p>
+<p><sub>为保持 GitHub README 渲染流畅，这里仅展示最新 100 条案例。</sub></p>
+<br>
+</td></tr>
+</table>
 
 ## 精选作品
 
@@ -2538,9 +2543,14 @@ Blender 中的 12 秒森林小路
 
 ---
 
-> 这里收录最新 100 条案例，更多灵感尽在官网。
->
-> **[前往官网查看全部 184 条案例 →](https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&utm_medium=referral&utm_campaign=awesome_astra_prompts&utm_content=catalog_bottom)**
+<table width="100%">
+<tr><td align="center">
+<br>
+<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 184 条案例 →</a></strong></p>
+<p><sub>为保持 GitHub README 渲染流畅，这里仅展示最新 100 条案例。</sub></p>
+<br>
+</td></tr>
+</table>
 
 ## 分享好作品
 
@@ -2548,6 +2558,6 @@ Blender 中的 12 秒森林小路
 
 ## 致谢
 
-由 [TripoGrowthLab](https://github.com/TripoGrowthLab) 整理，排版参考 [YouMind Awesome GPT Image 2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)。感谢分享作品的创作者。
+由 [TripoGrowthLab](https://github.com/TripoGrowthLab) 整理。感谢分享作品的创作者。
 
 顶部封面为概念插画，案例图片属于已标注的创作者。[MIT 许可](../LICENSE)适用于本仓库工具和原创文档，第三方内容保留其原有权利。[署名与移除请求](../RIGHTS.md)。

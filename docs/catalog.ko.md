@@ -28,9 +28,14 @@
 
 **100 · 최신 Astra 프롬프트**
 
-> 최신 사례 100개를 소개합니다. 공식 사이트에서 더 많은 영감을 찾아보세요.
->
-> **[공식 사이트에서 전체 사례 184개 보기 →](https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&utm_medium=referral&utm_campaign=awesome_astra_prompts&utm_content=catalog_top)**
+<table width="100%">
+<tr><td align="center">
+<br>
+<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_top">공식 사이트에서 전체 사례 184개 보기 →</a></strong></p>
+<p><sub>GitHub README가 원활하게 렌더링되도록 최신 사례 100개만 표시합니다.</sub></p>
+<br>
+</td></tr>
+</table>
 
 ## 추천 작품
 
@@ -2537,6 +2542,11 @@ Three.js 물 효과, 어두운 유리 느낌의 인터페이스, 스크롤에 �
 
 ---
 
-> 최신 사례 100개를 소개합니다. 공식 사이트에서 더 많은 영감을 찾아보세요.
->
-> **[공식 사이트에서 전체 사례 184개 보기 →](https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&utm_medium=referral&utm_campaign=awesome_astra_prompts&utm_content=catalog_bottom)**
+<table width="100%">
+<tr><td align="center">
+<br>
+<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 184개 보기 →</a></strong></p>
+<p><sub>GitHub README가 원활하게 렌더링되도록 최신 사례 100개만 표시합니다.</sub></p>
+<br>
+</td></tr>
+</table>

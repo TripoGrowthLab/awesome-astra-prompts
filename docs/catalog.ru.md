@@ -28,9 +28,14 @@
 
 **100 · Новые промпты Astra**
 
-> Здесь собраны последние 100 примеров. Ещё больше идей — на официальном сайте.
->
-> **[Все 184 примеров на официальном сайте →](https://www.tripo3d.ai/ru/3d-prompts/models/gpt-6-astra?utm_source=github&utm_medium=referral&utm_campaign=awesome_astra_prompts&utm_content=catalog_top)**
+<table width="100%">
+<tr><td align="center">
+<br>
+<p><strong><a href="https://www.tripo3d.ai/ru/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_top">Все 184 примеров на официальном сайте →</a></strong></p>
+<p><sub>Чтобы README на GitHub отображался без задержек, здесь показаны только последние 100 примеров.</sub></p>
+<br>
+</td></tr>
+</table>
 
 ## Избранные проекты
 
@@ -2537,6 +2542,11 @@ PROPS
 
 ---
 
-> Здесь собраны последние 100 примеров. Ещё больше идей — на официальном сайте.
->
-> **[Все 184 примеров на официальном сайте →](https://www.tripo3d.ai/ru/3d-prompts/models/gpt-6-astra?utm_source=github&utm_medium=referral&utm_campaign=awesome_astra_prompts&utm_content=catalog_bottom)**
+<table width="100%">
+<tr><td align="center">
+<br>
+<p><strong><a href="https://www.tripo3d.ai/ru/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Все 184 примеров на официальном сайте →</a></strong></p>
+<p><sub>Чтобы README на GitHub отображался без задержек, здесь показаны только последние 100 примеров.</sub></p>
+<br>
+</td></tr>
+</table>

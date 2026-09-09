@@ -28,9 +28,14 @@
 
 **100 · 最新 Astra 提示詞**
 
-> 這裡收錄最新 100 個案例，更多靈感盡在官網。
->
-> **[前往官網查看全部 184 個案例 →](https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&utm_medium=referral&utm_campaign=awesome_astra_prompts&utm_content=catalog_top)**
+<table width="100%">
+<tr><td align="center">
+<br>
+<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_top">前往官網查看全部 184 個案例 →</a></strong></p>
+<p><sub>為保持 GitHub README 渲染流暢，這裡僅展示最新 100 個案例。</sub></p>
+<br>
+</td></tr>
+</table>
 
 ## 精選作品
 
@@ -2537,6 +2542,11 @@ Blender 中的 12 秒森林小徑
 
 ---
 
-> 這裡收錄最新 100 個案例，更多靈感盡在官網。
->
-> **[前往官網查看全部 184 個案例 →](https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&utm_medium=referral&utm_campaign=awesome_astra_prompts&utm_content=catalog_bottom)**
+<table width="100%">
+<tr><td align="center">
+<br>
+<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 184 個案例 →</a></strong></p>
+<p><sub>為保持 GitHub README 渲染流暢，這裡僅展示最新 100 個案例。</sub></p>
+<br>
+</td></tr>
+</table>

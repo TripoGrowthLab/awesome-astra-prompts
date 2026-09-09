@@ -28,9 +28,14 @@
 
 **100 · Derniers prompts Astra**
 
-> Découvrez les 100 exemples les plus récents. Retrouvez davantage d’inspiration sur le site officiel.
->
-> **[Voir les 184 exemples sur le site officiel →](https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&utm_medium=referral&utm_campaign=awesome_astra_prompts&utm_content=catalog_top)**
+<table width="100%">
+<tr><td align="center">
+<br>
+<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_top">Voir les 184 exemples sur le site officiel →</a></strong></p>
+<p><sub>Pour préserver la fluidité du rendu du README sur GitHub, seuls les 100 exemples les plus récents sont affichés ici.</sub></p>
+<br>
+</td></tr>
+</table>
 
 ## Projets à découvrir
 
@@ -2537,6 +2542,11 @@ Crée une landing page des grands fonds avec des effets d’eau Three.js, une in
 
 ---
 
-> Découvrez les 100 exemples les plus récents. Retrouvez davantage d’inspiration sur le site officiel.
->
-> **[Voir les 184 exemples sur le site officiel →](https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&utm_medium=referral&utm_campaign=awesome_astra_prompts&utm_content=catalog_bottom)**
+<table width="100%">
+<tr><td align="center">
+<br>
+<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 184 exemples sur le site officiel →</a></strong></p>
+<p><sub>Pour préserver la fluidité du rendu du README sur GitHub, seuls les 100 exemples les plus récents sont affichés ici.</sub></p>
+<br>
+</td></tr>
+</table>

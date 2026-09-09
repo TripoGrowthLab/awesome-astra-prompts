@@ -28,9 +28,14 @@
 
 **100 · Prompt Astra mới nhất**
 
-> Khám phá 100 ví dụ mới nhất tại đây. Tìm thêm cảm hứng trên trang chính thức.
->
-> **[Xem toàn bộ 184 ví dụ trên trang chính thức →](https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&utm_medium=referral&utm_campaign=awesome_astra_prompts&utm_content=catalog_top)**
+<table width="100%">
+<tr><td align="center">
+<br>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_top">Xem toàn bộ 184 ví dụ trên trang chính thức →</a></strong></p>
+<p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
+<br>
+</td></tr>
+</table>
 
 ## Dự án nổi bật
 
@@ -2537,6 +2542,11 @@ Xây dựng trang đích biển sâu với hiệu ứng nước Three.js, giao d
 
 ---
 
-> Khám phá 100 ví dụ mới nhất tại đây. Tìm thêm cảm hứng trên trang chính thức.
->
-> **[Xem toàn bộ 184 ví dụ trên trang chính thức →](https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&utm_medium=referral&utm_campaign=awesome_astra_prompts&utm_content=catalog_bottom)**
+<table width="100%">
+<tr><td align="center">
+<br>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 184 ví dụ trên trang chính thức →</a></strong></p>
+<p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
+<br>
+</td></tr>
+</table>

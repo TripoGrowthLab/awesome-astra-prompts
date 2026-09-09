@@ -28,9 +28,14 @@
 
 **100 · Prompt Astra più recenti**
 
-> Qui trovi i 100 esempi più recenti. Scopri altre idee sul sito ufficiale.
->
-> **[Esplora tutti i 184 esempi sul sito ufficiale →](https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&utm_medium=referral&utm_campaign=awesome_astra_prompts&utm_content=catalog_top)**
+<table width="100%">
+<tr><td align="center">
+<br>
+<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_top">Esplora tutti i 184 esempi sul sito ufficiale →</a></strong></p>
+<p><sub>Per mantenere fluido il rendering del README su GitHub, qui mostriamo solo i 100 esempi più recenti.</sub></p>
+<br>
+</td></tr>
+</table>
 
 ## Progetti in evidenza
 
@@ -2537,6 +2542,11 @@ Crea una landing page degli abissi con effetti d’acqua Three.js, un’interfac
 
 ---
 
-> Qui trovi i 100 esempi più recenti. Scopri altre idee sul sito ufficiale.
->
-> **[Esplora tutti i 184 esempi sul sito ufficiale →](https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&utm_medium=referral&utm_campaign=awesome_astra_prompts&utm_content=catalog_bottom)**
+<table width="100%">
+<tr><td align="center">
+<br>
+<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 184 esempi sul sito ufficiale →</a></strong></p>
+<p><sub>Per mantenere fluido il rendering del README su GitHub, qui mostriamo solo i 100 esempi più recenti.</sub></p>
+<br>
+</td></tr>
+</table>

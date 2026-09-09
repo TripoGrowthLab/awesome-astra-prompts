@@ -81,7 +81,7 @@ export function renderCatalog(prompts, locale, prefix = '', total = prompts.leng
     lines.push(en ? '## Share a good example' : '## 分享好作品', '',
       en ? `[Suggest an example](${root}/issues/new) with the original post, a preview and any available prompt or project repository. See [CONTRIBUTING.md](${prefix}CONTRIBUTING.md).` : `发现了值得尝试的作品？[推荐案例](${root}/issues/new)，附上原帖、预览和可获取的提示词或项目源码。参见[贡献指南](${prefix}CONTRIBUTING.md)。`, '',
       en ? '## Credits' : '## 致谢', '',
-      en ? `Curated by [TripoGrowthLab](https://github.com/TripoGrowthLab). Layout inspired by [YouMind’s Awesome GPT Image 2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2). Thanks to every creator who shared their work.` : `由 [TripoGrowthLab](https://github.com/TripoGrowthLab) 整理，排版参考 [YouMind Awesome GPT Image 2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)。感谢分享作品的创作者。`, '',
+      en ? `Curated by [TripoGrowthLab](https://github.com/TripoGrowthLab). Thanks to every creator who shared their work.` : `由 [TripoGrowthLab](https://github.com/TripoGrowthLab) 整理。感谢分享作品的创作者。`, '',
       en ? `The banner is conceptual artwork. Example images belong to their credited creators. The [MIT license](${prefix}LICENSE) covers our tooling and original documentation; third-party material retains its owners’ rights. [Attribution and removal requests](${prefix}RIGHTS.md).` : `顶部封面为概念插画，案例图片属于已标注的创作者。[MIT 许可](${prefix}LICENSE)适用于本仓库工具和原创文档，第三方内容保留其原有权利。[署名与移除请求](${prefix}RIGHTS.md)。`, '')
   }
   return lines.join('\n').replace(/\n{4,}/g, '\n\n\n')

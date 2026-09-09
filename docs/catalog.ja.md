@@ -28,9 +28,14 @@
 
 **100 · 最新の Astra プロンプト**
 
-> 最新の作例 100 件を掲載しています。さらに多くの作例は公式サイトで。
->
-> **[全 184 件の作例を公式サイトで見る →](https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&utm_medium=referral&utm_campaign=awesome_astra_prompts&utm_content=catalog_top)**
+<table width="100%">
+<tr><td align="center">
+<br>
+<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_top">全 184 件の作例を公式サイトで見る →</a></strong></p>
+<p><sub>GitHub README をスムーズに表示するため、ここでは最新の作例 100 件のみを掲載しています。</sub></p>
+<br>
+</td></tr>
+</table>
 
 ## 注目の作品
 
@@ -2537,6 +2542,11 @@ Three.jsの水表現、暗いガラス風のインターフェース、スクロ
 
 ---
 
-> 最新の作例 100 件を掲載しています。さらに多くの作例は公式サイトで。
->
-> **[全 184 件の作例を公式サイトで見る →](https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&utm_medium=referral&utm_campaign=awesome_astra_prompts&utm_content=catalog_bottom)**
+<table width="100%">
+<tr><td align="center">
+<br>
+<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 184 件の作例を公式サイトで見る →</a></strong></p>
+<p><sub>GitHub README をスムーズに表示するため、ここでは最新の作例 100 件のみを掲載しています。</sub></p>
+<br>
+</td></tr>
+</table>
