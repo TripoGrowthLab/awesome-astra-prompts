@@ -64,3 +64,63 @@ test('only public fields enter the renderer; prompt code fences remain intact', 
     assert(!content.includes('https://www.tripo3d.ai/3d-prompts/test-scene'), 'Do not invent detail pages for new CMS-only prompts')
   }
 })
+
+test('public R2 media is accepted and fetched anonymously; legacy files retain auth', async () => {
+  const seen = []
+  const cms = createCMS({ baseURL: origin, apiKey: 'test-only-key', fetcher: async (url, init) => {
+    seen.push({ url: url.href, headers: init.headers, redirect: init.redirect })
+    return new Response('media')
+  } })
+  const value = doc()
+  value.media[0].url = 'https://media.tripogrowth.space/media/image.webp'
+  value.video = { url: 'https://media.tripogrowth.space/media/current.mp4', sourceURL: 'https://example.com/old.mp4' }
+  const [projected] = projectPrompts([value], 1, origin)
+  assert.equal(projected.video, value.video.url)
+  await cms.request(projected.media[0].url, { media: true })
+  await cms.request('/api/media/file/image.webp', { media: true })
+  assert.deepEqual(seen.map(r => r.headers), [{}, { Authorization: 'users API-Key test-only-key' }])
+  assert(seen.every(r => r.redirect === 'error'))
+})
+
+test('R2 allowance does not authorize arbitrary hosts, signed URLs, paths or API calls', async () => {
+  let calls = 0
+  const cms = createCMS({ baseURL: origin, apiKey: 'test-only-key', fetcher: async () => { calls++; return new Response('unexpected') } })
+  for (const url of [
+    'https://media.tripogrowth.space.evil.example/media/image.webp',
+    'https://media.tripogrowth.space/api/prompts',
+    'https://media.tripogrowth.space/media/image.webp?token=secret',
+    'https://user:secret@media.tripogrowth.space/media/image.webp',
+    'https://media.tripogrowth.space/media/folder%2Fimage.webp',
+    'http://media.tripogrowth.space/media/image.webp',
+  ]) await assert.rejects(cms.request(url, { media: true }))
+  await assert.rejects(cms.request('https://media.tripogrowth.space/api/prompts'))
+  assert.equal(calls, 0)
+})
+
+test('public media retries stay anonymous and redirect responses are rejected', async () => {
+  let attempts = 0
+  const cms = createCMS({ baseURL: origin, apiKey: 'test-only-key', retryDelay: 0, fetcher: async (url, init) => {
+    assert.deepEqual(init.headers, {})
+    assert.equal(init.redirect, 'error')
+    return ++attempts === 1 ? new Response('', { status: 503 }) : new Response('', { status: 302, headers: { location: 'https://other.example/file' } })
+  } })
+  await assert.rejects(cms.request('https://media.tripogrowth.space/media/image.webp', { media: true }), /HTTP 302/)
+  assert.equal(attempts, 2)
+})
+
+test('video-only featured prompts retain all translations and video links without broken thumbnails', async () => {
+  const { prepareMedia } = await import('./lib/media.mjs')
+  const value = doc()
+  value.media = []
+  value.video = { url: 'https://media.tripogrowth.space/media/current.mp4' }
+  value.editorial.featured = true
+  const prompts = projectPrompts([value], 1, origin)
+  const media = await prepareMedia(prompts, { request: async () => { throw new Error('No image should be requested') } })
+  assert.equal(JSON.parse(media.get('assets/manifest.json')).files.length, 0)
+  for (const [path, contents] of renderAll(prompts)) {
+    if (path === 'docs/with-code.md') continue
+    assert(contents.includes(value.video.url))
+    assert(contents.includes('Build a scene.'))
+    assert(!contents.includes('assets/featured/') && !contents.includes('undefined'))
+  }
+})

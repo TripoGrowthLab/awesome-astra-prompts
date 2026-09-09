@@ -38,7 +38,10 @@ export async function validateOutputs(staging = '.') {
     assert.equal(hash(bytes), file.sha256, `Generated checksum mismatch: ${file.path}`)
     assert.equal(bytes.length, file.bytes, `Generated file size mismatch: ${file.path}`)
   }
-  assert.deepEqual([...new Set(media.files.filter(f => f.path.startsWith('assets/previews/')).flatMap(f => f.promptIds))].sort(), [...manifest.promptIds].sort())
+  const imagePromptIds = manifest.imagePromptIds ?? manifest.promptIds
+  assert.equal(new Set(imagePromptIds).size, imagePromptIds.length, 'Duplicate image prompt IDs')
+  assert(imagePromptIds.every(id => manifest.promptIds.includes(id)), 'Unknown image prompt ID')
+  assert.deepEqual([...new Set(media.files.filter(f => f.path.startsWith('assets/previews/')).flatMap(f => f.promptIds))].sort(), [...imagePromptIds].sort())
   let linkCount = 0
   for (const path of expected.filter(p => p.endsWith('.md'))) {
     const content = (await read(path)).toString()

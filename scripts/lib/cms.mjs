@@ -2,6 +2,22 @@ import assert from 'node:assert/strict'
 import { setTimeout as delay } from 'node:timers/promises'
 import { locales, modelSlug } from './locales.mjs'
 
+const publicMediaOrigin = 'https://media.tripogrowth.space'
+
+// CMS metadata is private; its current R2 media URLs are public. Keep the
+// legacy authenticated file endpoint working without forwarding keys to R2.
+export function mediaURL(value, cmsOrigin) {
+  const url = new URL(value, cmsOrigin)
+  const isPublic = url.origin === publicMediaOrigin
+  assert(isPublic || url.origin === cmsOrigin, 'Never send the CMS key to another origin; unsupported media host')
+  assert(url.protocol === 'https:' && !url.username && !url.password && !url.search && !url.hash, 'Unexpected CMS media URL')
+  const prefix = isPublic ? '/media/' : '/api/media/file/'
+  assert(url.pathname.startsWith(prefix), 'Unexpected CMS media path')
+  const filename = decodeURIComponent(url.pathname.slice(prefix.length))
+  assert(filename && !/[\/\\\x00-\x1f]/.test(filename) && !['.', '..'].includes(filename), 'Invalid CMS media filename')
+  return { url, authenticated: !isPublic }
+}
+
 export function publicURL(value, cmsOrigin) {
   if (!value) return null
   const url = new URL(value)
@@ -17,12 +33,16 @@ export function createCMS({ baseURL, apiKey, fetcher = fetch, retryDelay = 1000 
   assert(base.protocol === 'https:' && !base.username && !base.password && base.pathname === '/', 'CMS_URL must be an HTTPS origin')
   async function request(path, { media = false } = {}) {
     const url = new URL(path, base)
-    assert.equal(url.origin, base.origin, 'Never send the CMS key to another origin')
-    assert(url.pathname.startsWith(media ? '/api/media/file/' : '/api/'), 'Unexpected CMS endpoint')
+    let authenticated = true
+    if (media) ({ authenticated } = mediaURL(url.href, base.origin))
+    else {
+      assert.equal(url.origin, base.origin, 'Never send the CMS key to another origin')
+      assert(!url.username && !url.password && url.pathname.startsWith('/api/'), 'Unexpected CMS endpoint')
+    }
     for (let attempt = 0; attempt < 3; attempt++) {
       let response
       try {
-        response = await fetcher(url, { headers: { Authorization: `users API-Key ${apiKey}` }, redirect: 'error', signal: AbortSignal.timeout(60_000) })
+        response = await fetcher(url, { headers: authenticated ? { Authorization: `users API-Key ${apiKey}` } : {}, redirect: 'error', signal: AbortSignal.timeout(60_000) })
       } catch {
         if (attempt === 2) throw new Error(`CMS request failed: ${url.pathname}`)
         await delay(retryDelay * (attempt + 1)); continue
@@ -91,18 +111,19 @@ export function projectPrompts(docs, modelId, cmsOrigin) {
     assert(source && doc.author?.name?.trim(), `Missing source attribution for ${id}`)
     const date = doc.source?.publishedAt || doc.publishedAt
     assert(date && !Number.isNaN(Date.parse(date)), `Missing source date for ${id}`)
-    assert(Array.isArray(doc.media) && doc.media.length, `Missing preview image for ${id}`)
+    // Images are optional in CMS: video-only and text prompts are publishable.
+    assert(Array.isArray(doc.media), `Invalid image list for ${id}`)
     const media = doc.media.map(m => {
       assert(m && typeof m === 'object' && /^image\/(webp|png|jpeg|gif)$/.test(m.mimeType), `Invalid preview image for ${id}`)
       assert(Number.isInteger(m.filesize) && m.filesize > 0 && m.filesize <= 25 * 1024 * 1024, `Invalid preview size for ${id}`)
-      const url = new URL(m.url, cmsOrigin)
-      assert.equal(url.origin, cmsOrigin, 'CMS media must use the authenticated CMS origin')
-      assert(url.pathname.startsWith('/api/media/file/') && !url.search, 'Unexpected CMS media URL')
+      const { url } = mediaURL(m.url, cmsOrigin)
       return { url: url.href, mimeType: m.mimeType, filesize: m.filesize, updatedAt: m.updatedAt, source: publicURL(m.sourceURL, cmsOrigin) || source }
     })
-    // GitHub readers cannot open private CMS videos. Prefer the public provenance URL;
-    // uploads without one still have their original post and public detail page.
-    const video = publicURL(doc.video?.sourceURL || doc.sourceVideo?.url, cmsOrigin)
+    // Use the current uploaded video, not its potentially stale source. Legacy
+    // private uploads still fall back to a public provenance URL.
+    const currentVideo = doc.video?.url && new URL(doc.video.url, cmsOrigin).origin === publicMediaOrigin
+      ? mediaURL(doc.video.url, cmsOrigin).url.href : null
+    const video = currentVideo || publicURL(doc.video?.sourceURL || doc.sourceVideo?.url, cmsOrigin)
     return {
       id, slug: doc.slug, hasDetailPage: doc.migration?.sourceSystem === 'homepage-3d-prompts', translations, author: { name: doc.author.name, url: publicURL(doc.author.url, cmsOrigin) || source },
       source, date: date.slice(0, 10), repository: publicURL(doc.links?.repository, cmsOrigin), demo: publicURL(doc.links?.liveDemo, cmsOrigin),

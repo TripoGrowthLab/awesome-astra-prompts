@@ -58,7 +58,7 @@ export async function prepareMedia(prompts, cms, previous = { files: [] }) {
     })
   }
   const files = [...records.values()].sort((a, b) => a.path.localeCompare(b.path, 'en') || a.fingerprint.localeCompare(b.fingerprint, 'en'))
-  const picks = prompts.filter(p => p.featured).sort((a, b) => a.order - b.order || a.id.localeCompare(b.id, 'en')).slice(0, 4)
+  const picks = prompts.filter(p => p.featured && p.images.length).sort((a, b) => a.order - b.order || a.id.localeCompare(b.id, 'en')).slice(0, 4)
   for (const prompt of picks) {
     const source = output.get(prompt.images[0])
     const fingerprint = hash(`sharp-contain-840x525-webp88-v1:${hash(source)}`)

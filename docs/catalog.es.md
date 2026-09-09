@@ -26,7 +26,7 @@
 **Un punto de partida para tu próximo juego, escena o mundo interactivo.**
 
 
-**156 · Todos los prompts de Astra**
+**184 · Todos los prompts de Astra**
 
 ## Proyectos destacados
 
@@ -57,8 +57,36 @@
 - [Una sociedad de humanos autónomos que sobrevive en Unreal](#2095596175705399482)
 - [Manhattan, calle a calle, en Unreal Engine](#2095609734845927525)
 - [Crear un pequeño juego 3D rudimentario con Astra a partir de un concept art](#2096068401294929940)
+- [Reconstrucción fotorrealista y editable de un dragón en Blender](#2096335588727349434)
+- [Render 3D de una imagen de X](#2096338836854804782)
+- [Ensamble 3D jugable con animación sincronizada con el audio](#2096354461652488562)
+- [Crea y renderiza un agujero negro en Blender](#2096391653669953761)
+- [Reconstrucción de Lego 1999 Racers](#2096438110095585753)
+- [La visión del templo de Ezequiel en 3D](#2096547658164834788)
+- [Simulación 3D de una explosión nuclear en una ciudad](#2096562462674079868)
+- [Añadir una vista 3D al sitio web](#2096567422253662372)
+- [Motor de la Totalidad: Catedral cinematográfica del eclipse](#2096593372311941143)
+- [Crea CS2 con Three.js](#2096596888799895855)
+- [Videojuego de aventuras de fantasía costera: Windhaven](#2096629506047955327)
+- [RPG de acción de fantasía oscura en Three.js](#2096637091627364531)
+- [Render de la Tierra girando en Blender](#2096637194270134742)
+- [Juego de exploración 3D Mini World](#2096641728497275011)
+- [Juego de Grand Theft Auto con personajes y ciudades de San Andreas](#2096739993217577219)
 - [Asset de videojuego de una minifigura LEGO con Blender MCP](#2096766465730847059)
+- [Crea un slime blando e interactivo con Three.js y WebGPU](#2096793432987464010)
+- [Bosque 3D en tiempo real, extremadamente detallado, en el navegador](#2096814981509775616)
+- [Escena 3D de Hogwarts](#2096907617117540478)
+- [Convierte una imagen en un modelo 3D y gíralo 360°](#2096950715277004976)
+- [Calle en miniatura infinita en Three.js WebGPU](#2096956214680965501)
+- [Mundo paisajístico para VRChat: «El horizonte donde la gravedad se rompió»](#2096966425017467344)
+- [Patio chino interactivo](#2096971051334857181)
 - [Un camino forestal de 12 segundos en Blender](#2096986557244723371)
+- [Editar una escena de Blender para ajustar separadores moleteados y una PCB](#2096990373813858591)
+- [Mejorar las facciones de un modelo 3D en Blender usando una imagen de referencia](#2097313247116341424)
+- [Proyecto WebGL con TypeScript + Three.js del Salón de Oración por las Buenas Cosechas del Templo del Cielo de Beijing](#2097323734504017936)
+- [Recrear League of Legends como juego web](#2097336230078013598)
+- [Playroom: Arcade 3D retro para navegador](#2097339176094195899)
+- [Mundo acogedor de humedal y lago](#2097343467026289039)
 - [Una batalla de kaijus en la ciudad](#2096251574918013135)
 - [Una villa moderna en Blender](#2095636679264780481)
 - [Expresiones de personaje intercambiables en Blender](#2096525100518453342)
@@ -221,7 +249,7 @@
 Amplía el generador de tormentas sobre el océano de un solo archivo proporcionado hasta convertirlo en un océano procedural completo. Añade arrecifes, aguas profundas, meteorología creíble, poblaciones animales con comportamientos emergentes, interacciones del ecosistema y una cámara que pase de la superficie al fondo marino.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095673008803241987-video-48e1e14348a0.mp4) · [Publicación original](https://x.com/emollick/status/2095673885605630429) · [Código fuente](https://github.com/emollick/abyssal-living-deep) · [Demo en línea](https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429) · [Ver vídeo ↗](https://media.tripogrowth.space/media/465175c4-93cb-4691-815a-b6c0f5bd235c.mp4) · [Publicación original](https://x.com/emollick/status/2095673885605630429) · [Código fuente](https://github.com/emollick/abyssal-living-deep) · [Demo en línea](https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -239,7 +267,7 @@ Amplía el generador de tormentas sobre el océano de un solo archivo proporcion
 Construye un shooter posimpresionista en primera persona de 5 contra 5, con personajes artistas renderizados en Blender, equipos fáciles de distinguir y una partida multijugador completa en el navegador.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096012866734501888-video-972adb2fb60f.mp4) · [Publicación original](https://x.com/petergostev/status/2096013280519016608) · [Código fuente](https://github.com/petergpt/gogh-strike) · [Demo en línea](https://gogh-strike.surge.sh/) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608) · [Ver vídeo ↗](https://media.tripogrowth.space/media/65117e82-1385-4ebf-8439-e8b332b52b47.mp4) · [Publicación original](https://x.com/petergostev/status/2096013280519016608) · [Código fuente](https://github.com/petergpt/gogh-strike) · [Demo en línea](https://gogh-strike.surge.sh/) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -257,7 +285,7 @@ Construye un shooter posimpresionista en primera persona de 5 contra 5, con pers
 Construye un juego de acción cuerpo a cuerpo en tercera persona con Three.js, ambientado en una catedral sobre una estrella muerta. Incluye combos ligeros de espada, ataques fuertes, magia de área, esquivas y animaciones a dos manos con sensación de peso.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095988588534272001-video-af1e5c9a142b.mp4) · [Publicación original](https://x.com/superalesha/status/2095988972879335792) · [Código fuente](https://github.com/alesha-pro/bench-portal) · [Demo en línea](https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792) · [Ver vídeo ↗](https://media.tripogrowth.space/media/a43eba88-e34e-4346-a2bb-22928302e168.mp4) · [Publicación original](https://x.com/superalesha/status/2095988972879335792) · [Código fuente](https://github.com/alesha-pro/bench-portal) · [Demo en línea](https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -275,7 +303,7 @@ Construye un juego de acción cuerpo a cuerpo en tercera persona con Three.js, a
 Construye un juego de carreras de combate antigravedad de alta velocidad en Three.js, con derrapes, acelerones, cámaras que se inclinen, aerofrenos y escudos recogibles. Incluye vehículos ligeros, equilibrados y pesados en un circuito alienígena elevado.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/anti-gravity-combat-racer-2095967568825582044) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095966450385289216-video-44433db9ca50.mp4) · [Publicación original](https://x.com/superalesha/status/2095967568825582044) · [Código fuente](https://github.com/alesha-pro/bench-portal) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/anti-gravity-combat-racer-2095967568825582044) · [Ver vídeo ↗](https://media.tripogrowth.space/media/ba96bc36-7d38-463a-99b0-81994091d290.mp4) · [Publicación original](https://x.com/superalesha/status/2095967568825582044) · [Código fuente](https://github.com/alesha-pro/bench-portal) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -293,7 +321,7 @@ Construye un juego de carreras de combate antigravedad de alta velocidad en Thre
 Modela un núcleo de energía, dos anillos y una base metálica en Blender. Exporta los materiales a un visor de Three.js con controles de rotación, zoom, órbita automática y pulsación.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096549512995368961-video-3eacc87e8c74.mp4) · [Publicación original](https://x.com/oneruofeng/status/2096551010089263181) · [Código fuente](https://github.com/wangruofeng/orbital-core-showcase) · [Demo en línea](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [Ver vídeo ↗](https://media.tripogrowth.space/media/ec698960-001f-4034-b885-237c8d313d5a.mp4) · [Publicación original](https://x.com/oneruofeng/status/2096551010089263181) · [Código fuente](https://github.com/wangruofeng/orbital-core-showcase) · [Demo en línea](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -311,7 +339,7 @@ Modela un núcleo de energía, dos anillos y una base metálica en Blender. Expo
 Crea un mundo interactivo de vóxeles de Piața Unirii en Cluj-Napoca. Adapta la distribución y los monumentos reconocibles de la plaza a una miniatura que se pueda explorar.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096248939876126720-video-9e98c19a900a.mp4) · [Publicación original](https://x.com/danmana/status/2096262733259837681) · [Código fuente](https://github.com/danmana/piata-unirii) · [Demo en línea](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681) · [Ver vídeo ↗](https://media.tripogrowth.space/media/7cda5111-797c-4b65-8731-27f1dcc66533.mp4) · [Publicación original](https://x.com/danmana/status/2096262733259837681) · [Código fuente](https://github.com/danmana/piata-unirii) · [Demo en línea](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -329,7 +357,7 @@ Crea un mundo interactivo de vóxeles de Piața Unirii en Cluj-Napoca. Adapta la
 Crea un mundo en Unreal Engine poblado por agentes humanos autónomos. Asigna a cada uno necesidades propias y un objetivo común de supervivencia que los obligue a comunicarse, repartirse el trabajo, construir refugios y mantener viva la sociedad cuando el jugador se vaya.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095589100539531264-video-a133b7a6d1c6.mp4) · [Publicación original](https://x.com/mattshumer_/status/2095596175705399482) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Ver vídeo ↗](https://media.tripogrowth.space/media/481f5c63-84a8-49f1-8901-6ea356b8f629.mp4) · [Publicación original](https://x.com/mattshumer_/status/2095596175705399482) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -347,7 +375,7 @@ Crea un mundo en Unreal Engine poblado por agentes humanos autónomos. Asigna a 
 Construye un Manhattan explorable en Unreal Engine. Trabaja barrio a barrio y calle a calle, respetando una escala reconocible, el trazado viario, los lugares emblemáticos, el tráfico y el carácter de cada zona. Lleva una lista de comprobación y perfecciona cada área antes de avanzar.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095609426770010113-video-05968f9d59fb.mp4) · [Publicación original](https://x.com/mattshumer_/status/2095609734845927525) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [Ver vídeo ↗](https://media.tripogrowth.space/media/ccd25c09-9f8c-480a-9610-d4fed0d34dbd.mp4) · [Publicación original](https://x.com/mattshumer_/status/2095609734845927525) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -367,7 +395,585 @@ El autor comparte su flujo de trabajo para crear un pequeño juego 3D rudimentar
 Un mundo distópico, triste pero hermoso, con estilo voxel / Low Poly; noche lluviosa, niebla ligera, reflejos en el suelo mojado, ambiente azul frío + iluminación naranja cálida. La iluminación debe ser lo más realista y cinematográfica posible.
 ```
 
-[Ver vídeo ↗](https://video.twimg.com/amplify_video/2096067890562883584/vid/avc1/1902x886/89DcMKBb55ZmEHTh.mp4?tag=29) · [Publicación original](https://x.com/ChenshuoAI/status/2096068401294929940) · [Volver a los ejemplos](#all-prompts)
+[Ver vídeo ↗](https://media.tripogrowth.space/media/f0a5e5ad-4b08-47f0-84e4-8b081e683954.mp4) · [Publicación original](https://x.com/ChenshuoAI/status/2096068401294929940) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2096335588727349434"></a>
+
+### Reconstrucción fotorrealista y editable de un dragón en Blender
+
+[Sarang Borude](https://x.com/doomdave) · 2026-09-05
+
+<a href="https://x.com/doomdave/status/2096335588727349434"><img src="../assets/previews/756d0d4859c6a3bec065b9594d7fed7544101b6f6b6fb1e331bbfee059e84738.jpg" width="840" loading="lazy" alt="Reconstrucción fotorrealista y editable de un dragón en Blender"></a>
+
+Prompt literal para Blender que permite reconstruir un dragón 3D fotorrealista y totalmente editable a partir de una lámina de referencias proporcionada, con anatomía modelada, materiales, iluminación cinematográfica, renders de validación y un vuelo de cámara de 10 segundos.
+
+**Prompt**
+
+```text
+Crea dentro de Blender una reconstrucción 3D fotorrealista y totalmente editable del dragón mostrado en la lámina de referencias adjunta.
+
+Usa todas las vistas proporcionadas —incluidas las vistas lateral, frontal, superior y posterior, los ángulos de la cabeza, los primeros planos de la cabeza, el ojo, las escamas y el ala— para reconstruir un único dragón coherente y anatómicamente creíble.
+
+Reproduce la referencia con la mayor fidelidad posible, especialmente:
+
+- Las proporciones generales del cuerpo y la silueta
+- El cuello largo y musculoso y la cola afilada
+- Cuatro patas y dos grandes alas de tipo murciélago
+- La forma de la cabeza y la mandíbula
+- El número, la forma y la disposición de los cuernos
+- Las espinas dorsales a lo largo del cuello, el lomo y la cola
+- Los patrones de escamas en carbón oscuro y marrón terroso
+- Las escamas superpuestas con aspecto de armadura
+- Los ojos de color ámbar dorado con pupilas verticales
+- Las garras, los dientes y las membranas alares
+- El aspecto antiguo, realista y amenazador
+
+Los paneles de referencia pueden contener pequeñas inconsistencias. Intégralas en una criatura base físicamente coherente y simétrica, conservando la identidad visual del dragón. Usa la vista lateral para las proporciones generales, la vista frontal para la anchura y la postura, las vistas superior y posterior para las alas y la cola, y los primeros planos para la cabeza, los ojos, las escamas y los materiales de las alas.
+
+Construye el dragón desde cero como geometría real y editable de Blender. No descargues ni importes un modelo de dragón existente. No uses carteles, proyecciones 2D, ilusiones creadas con mapas de profundidad ni vídeo generado en lugar de geometría.
+
+Usa scripts modulares de Python para Blender (`bpy`) y el ejecutable de Blender en modo de fondo/sin interfaz como método principal de construcción. Mantén los scripts reproducibles y conserva las versiones correctas del archivo `.blend`. Usa el control del equipo para abrir e inspeccionar la escena de Blender siempre que resulte útil realizar una inspección visual. No instales ni dependas de un servidor MCP de Blender.
+
+ENFOQUE DE MODELADO
+
+Empieza con un bloqueo anatómico antes de añadir detalles. Establece:
+
+- El cráneo, la mandíbula y las órbitas oculares
+- El cuello, el pecho, la caja torácica y la pelvis
+- Cuatro patas anatómicamente convincentes
+- Dedos separados y garras curvas
+- Los hombros de las alas integrados en el torso
+- Brazos articulados de las alas y huesos de los dedos
+- Membranas alares conectadas correctamente
+- Una cola larga que continúe de forma natural desde la pelvis
+- Los cuernos principales y las espinas dorsales
+
+Evita extremidades adicionales, cuernos duplicados, membranas desconectadas, articulaciones rotas, escamas flotantes, intersecciones, formas excesivamente finas, asimetrías accidentales y proporciones propias de un juguete.
+
+Después de validar el bloqueo, añade detalles secundarios y terciarios:
+
+- Placas superpuestas del pecho y el cuello
+- Escamas direccionales que sigan la anatomía
+- Arcos superciliares y párpados
+- Aberturas nasales reales
+- Interior de la boca, encías y dientes individuales
+- Relieves, mellas y puntas desgastadas en los cuernos
+- Armadura de las patas y placas de los nudillos
+- Tendones, pliegues, venas y cicatrices discretas en las alas
+- Espinas dorsales que continúen por la cola
+- Una asimetría natural sutil
+
+Usa geometría para todo lo que afecte a la silueta, incluidos cuernos, garras, dientes, escamas principales, espinas dorsales, dedos de las alas y pliegues importantes de las membranas. Usa mapas de normales, bump o desplazamiento moderado únicamente para los microdetalles.
+
+MATERIALES
+
+Crea materiales fotorrealistas basados físicamente.
+
+Las escamas deben ser predominantemente negras, de color carbón, con variaciones sutiles de grafito y marrón terroso. Añade variaciones moderadas de color, rugosidad y microdetalles en las normales. Las escamas elevadas, la piel hundida y las placas de armadura deben reflejar la luz de forma diferente. Evita el brillo plástico uniforme y el ruido procedural indiscriminado.
+
+Las membranas de las alas deben parecer cuero de reptil desgastado por la intemperie. Deben verse más finas entre los huesos de soporte y más gruesas cerca de las articulaciones y los bordes de ataque. Incluye venas, pliegues, tensión, cicatrices, translucidez y variaciones de color sutiles, sin hacer que parezcan tela, goma o papel.
+
+Crea cuernos y garras similares a la queratina, con bases oscuras, puntas desgastadas más claras, relieves longitudinales y daños sutiles.
+
+Los ojos deben tener:
+
+- Iris de color ámbar dorado
+- Pupilas negras verticales
+- Estructuras detalladas en el iris
+- Regiones limbares oscuras
+- Globos oculares tridimensionales reales
+- Párpados realistas
+- Brillos húmedos en la córnea
+- Humedad sutil a lo largo de los bordes de los párpados
+
+No hagas que los ojos sean emisivos ni que brillen de forma artificial.
+
+ILUMINACIÓN Y ENTORNO
+
+Crea un entorno cinematográfico sobrio, similar al de la referencia:
+
+- Pedestal rocoso oscuro o saliente montañoso
+- Montañas atmosféricas lejanas
+- Cielo cubierto y dramático
+- Iluminación ambiental fría
+- Luz direccional ligeramente más cálida que revele el rostro y las escamas
+- Niebla atmosférica ligera
+- Ninguna estructura ni criatura adicional que distraiga
+
+Coloca al dragón en una postura estable y dominante:
+
+- Cabeza elevada y alerta
+- Cuello ligeramente curvado
+- Alas completamente o casi completamente extendidas
+- Peso distribuido de forma creíble entre las cuatro patas
+- Cola apoyada o curvada de forma natural detrás del cuerpo
+- Boca cerrada o ligeramente entreabierta
+- Ojos dirigidos hacia la cámara o justo más allá de ella
+
+VERIFICACIÓN VISUAL
+
+Crea cámaras de validación emparejadas para:
+
+- Vista lateral
+- Vista frontal
+- Vista superior
+- Vista posterior
+- Perfiles izquierdo y derecho de la cabeza
+- Vista principal de tres cuartos
+- Primer plano de la cabeza
+- Primer plano del ojo
+- Primer plano de las escamas
+- Primer plano del ala
+
+Realiza al menos tres ciclos de evaluación y corrección.
+
+En cada ciclo:
+
+1. Renderiza todas las cámaras de validación.
+2. Compara cada render con el panel de referencia correspondiente.
+3. Evalúa la silueta, la anatomía, las proporciones, la identidad de la cabeza, los cuernos, las alas, las patas, los pies, la cola, la dirección de las escamas, los materiales, la simetría, las intersecciones, el sombreado y las normales.
+4. Elabora una lista de discrepancias ordenada por prioridad.
+5. Corrige los problemas visualmente más importantes.
+6. Vuelve a renderizar con las mismas cámaras.
+7. Conserva las comparaciones del antes y el después.
+
+No afirmes que el trabajo está terminado solo porque se hayan creado los objetos. La finalización requiere inspeccionar los renders reales y corregir los problemas visibles.
+
+VUELO DE CÁMARA DE 10 SEGUNDOS
+
+Crea un vuelo de cámara cinematográfico alrededor del dragón terminado con estos requisitos:
+
+- Exactamente 10 segundos
+- Resolución de 1920 × 1080
+- 30 fotogramas por segundo
+- Exactamente 300 fotogramas
+- Movimiento de cámara continuo y fluido
+- Sin cortes
+- Aproximadamente una órbita completa de 360 grados
+- Comienza con una composición frontal sólida de tres cuartos
+- Recorre el lateral, la parte posterior y el lateral opuesto
+- Termina con una composición que conecte suavemente con el fotograma inicial
+- Añade un cambio de elevación moderado para mostrar la construcción del lomo y las alas
+- Mantén al dragón completo dentro del encuadre
+- Mantén la cabeza y el torso como foco visual principal
+- Usa interpolación Bézier suave
+- Evita aceleraciones repentinas y el giro de la cámara sobre su eje
+- Evita atravesar las alas, la cola, el terreno o el cuerpo
+- Usa un objetivo de perspectiva natural, sin una distorsión gran angular marcada
+- Mantén la profundidad de campo lo bastante sutil para que el dragón siga siendo legible
+- Usa desenfoque de movimiento moderado
+
+Antes del render final, genera una previsualización rápida de toda la animación a 1080p y con pocas muestras. Inspecciona la previsualización completa y corrige el encuadre incorrecto, las colisiones de la cámara, las siluetas extrañas, las vistas obstruidas, los movimientos bruscos, los defectos de sombreado y las intersecciones de geometría visibles.
+
+RENDER FINAL
+
+Después de completar los ciclos de evaluación y aprobar la previsualización de la animación:
+
+- Renderiza la animación final a 1920 × 1080.
+- Usa Cycles con aceleración por GPU cuando esté disponible.
+- Renderiza a 30 fps durante exactamente 300 fotogramas.
+- Usa muestreo adaptativo y eliminación de ruido.
+- Renderiza primero fotogramas de imagen individuales para poder reanudar un render interrumpido.
+- Usa PNG de 16 bits o OpenEXR para los fotogramas maestros.
+- Ensambla los fotogramas renderizados en un MP4 H.264 de alta calidad.
+- No uses interpolación de fotogramas mediante IA.
+- Conserva los fotogramas individuales después de ensamblar el vídeo.
+
+ENTREGABLES
+
+Proporciona:
+
+1. Archivo `.blend` editable final
+2. Todos los scripts `bpy` reproducibles
+3. README con instrucciones para reconstruir y renderizar
+4. Informe del análisis de referencias y las suposiciones
+5. Comparaciones de referencias con vistas emparejadas
+6. Comparaciones de los ciclos de evaluación, antes y después
+7. Renders fijos de alta calidad del dragón completo y de los detalles importantes
+8. Secuencia de imágenes completa de 300 fotogramas
+9. Vídeo H.264 final de 10 segundos a 1080p
+10. Informe de validación de la geometría y los materiales
+11. Un manifiesto que identifique todos los recursos externos permitidos del entorno y sus licencias
+
+CRITERIOS DE ÉXITO
+
+El resultado será satisfactorio si:
+
+- El resultado se reconoce claramente como el mismo dragón de la referencia.
+- Su anatomía sigue siendo coherente desde cualquier ángulo.
+- La cabeza, los cuernos, los ojos ámbar, las alas, las espinas dorsales y las escamas oscuras superpuestas coinciden estrechamente con la referencia.
+- El dragón es completamente tridimensional y editable.
+- Los detalles principales y medianos están modelados, no simulados.
+- Los materiales reaccionan de forma natural mientras se mueve la cámara.
+- No hay intersecciones evidentes, escamas flotantes, anatomía duplicada ni normales defectuosas.
+- Se parece a una criatura física fotografiada, no a un juguete, una escultura, un modelo procedural genérico o un recurso de juego convencional.
+- El movimiento de la cámara es fluido y cinematográfico, y dura exactamente 10 segundos.
+
+Trabaja de forma autónoma durante estas etapas. Empieza con el análisis de referencias y el bloqueo anatómico. Si encuentras una ambigüedad importante que no pueda resolverse a partir de la referencia, toma la decisión anatómicamente más plausible, documenta la suposición y continúa.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/37abdf440442e643f2cd1704bd9fc7b850a2e7c4111b10d25d2a46a5b1c96b25.mp4) · [Publicación original](https://x.com/doomdave/status/2096335588727349434) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2096338836854804782"></a>
+
+### Render 3D de una imagen de X
+
+[Matt Boyle](https://x.com/MattJamesBoyle) · 2026-09-05
+
+<a href="https://x.com/MattJamesBoyle/status/2096338836854804782"><img src="../assets/previews/ea082ba0b96ce2048a717565f743d1448c4bef031ad0585dcdb75aced928fad8.jpg" width="840" loading="lazy" alt="Render 3D de una imagen de X"></a>
+
+<a href="https://x.com/MattJamesBoyle/status/2096338836854804782"><img src="../assets/previews/26763990c48c54529e71a58e0de45e5ed7ba72f3937e895b52a9f60da4eb0460.png" width="840" loading="lazy" alt="Render 3D de una imagen de X"></a>
+
+El autor afirma que indicó a Astra que descargara Blender y creara un render 3D a partir de su imagen de X, dando como resultado una nueva foto de perfil.
+
+**Prompt**
+
+```text
+Descarga Blender y crea un render 3D de mi imagen de X.
+```
+
+[Publicación original](https://x.com/MattJamesBoyle/status/2096338836854804782) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2096354461652488562"></a>
+
+### Ensamble 3D jugable con animación sincronizada con el audio
+
+[Generator](https://x.com/groovestreetgen) · 2026-09-05
+
+<a href="https://x.com/groovestreetgen/status/2096354461652488562"><img src="../assets/previews/72b971d6246be2161f38fbee61113a317d4da0ae9c42e3fbe6f431adf9337003.jpg" width="840" loading="lazy" alt="Ensamble 3D jugable con animación sincronizada con el audio"></a>
+
+Se pidió a Astra que creara una pieza corta original y un ensamble 3D jugable, con animación controlada por el audio, navegación por la línea de tiempo, cámara lenta, controles de cámara, MIDI y código fuente.
+
+**Prompt**
+
+```text
+Compón una pieza corta original y crea un ensamble 3D jugable. Controla la animación según el tiempo del audio. Incluye navegación por la línea de tiempo, cámara lenta, controles de cámara, MIDI y código fuente.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/31a8ef5fdf9df19e171eb6e9959eef420812fbd00696f5bc87062af319a667e1.mp4) · [Publicación original](https://x.com/groovestreetgen/status/2096354461652488562) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2096391653669953761"></a>
+
+### Crea y renderiza un agujero negro en Blender
+
+[John Kler](https://x.com/JohnKlerAI) · 2026-09-06
+
+<a href="https://x.com/JohnKlerAI/status/2096391653669953761"><img src="../assets/previews/0203a375c4a0f77f1fae00d9c8c9173739b940debd87bf4144d4f375ccc8c12e.jpg" width="840" loading="lazy" alt="Crea y renderiza un agujero negro en Blender"></a>
+
+El autor afirma que dio el mismo prompt a GPT Astra y Fable 5.1 para crear y renderizar en Blender un agujero negro inspirado en Interstellar.
+
+**Prompt**
+
+```text
+Crea y renderiza en Blender un hermoso agujero negro, como el de Interstellar.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/1b73598434da7ad65d81ad44ae9f64256b96030f284a8cec325a1caff5f56b56.mp4) · [Publicación original](https://x.com/JohnKlerAI/status/2096391653669953761) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2096438110095585753"></a>
+
+### Reconstrucción de Lego 1999 Racers
+
+[Mo Elgaraihy](https://x.com/EngMoElgaraihy) · 2026-09-06
+
+<a href="https://x.com/EngMoElgaraihy/status/2096438110095585753"><img src="../assets/previews/e14b00869191181ad52fe51c4e0a57d3ad72c405802c16cb36147a9b5d613143.jpg" width="840" loading="lazy" alt="Reconstrucción de Lego 1999 Racers"></a>
+
+Solicitud para reconstruir por completo el juego de carreras Lego 1999 Racers con GPT-6 Astra.
+
+**Prompt**
+
+```text
+Reconstruye por completo el popular juego de carreras Lego 1999 Racers.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/2d031e51276cbf6c7d559143e251455c3e81db292e333d5db7e8200dda691528.mp4) · [Publicación original](https://x.com/EngMoElgaraihy/status/2096438110095585753) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2096547658164834788"></a>
+
+### La visión del templo de Ezequiel en 3D
+
+[KrixAi](https://x.com/KrixOnok) · 2026-09-06
+
+<a href="https://x.com/KrixOnok/status/2096547658164834788"><img src="../assets/previews/eadc8f8cca00ee66056e71bf05b1b36329d411767d2d0f7e3d110e8889cdc48e.jpg" width="840" loading="lazy" alt="La visión del templo de Ezequiel en 3D"></a>
+
+Un prompt para recrear en 3D la visión del templo de Ezequiel y el paisaje que lo rodea, incluidos los patios y un río que da vida.
+
+**Prompt**
+
+```text
+¿Cómo se vería en 3D la visión del templo de Ezequiel?
+```
+
+[Publicación original](https://x.com/KrixOnok/status/2096547658164834788) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2096562462674079868"></a>
+
+### Simulación 3D de una explosión nuclear en una ciudad
+
+[Ashish Thakur](https://x.com/ashishthakur___) · 2026-09-06
+
+<a href="https://x.com/ashishthakur___/status/2096562462674079868"><img src="../assets/previews/e7222558f53aaf22484aa3c0cf3b3732d4481a0552afa4401ecb26fa0f7ef2af.jpg" width="840" loading="lazy" alt="Simulación 3D de una explosión nuclear en una ciudad"></a>
+
+Demostración 3D de una explosión nuclear en una ciudad, con destello nuclear, onda expansiva, bola de fuego, humo y edificios que se fracturan y colapsan a medida que los alcanza la explosión.
+
+**Prompt**
+
+```text
+Crea una demostración de una explosión nuclear con una ciudad en 3D, un destello nuclear, una onda expansiva creciente, una bola de fuego, humo y edificios que se fracturen y colapsen progresivamente cuando la explosión los alcance.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/b4430be0a5e8ccad3b4bd26ce397300c536ce53d32c6031cc92acc0e89519dd6.mp4) · [Publicación original](https://x.com/ashishthakur___/status/2096562462674079868) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2096567422253662372"></a>
+
+### Añadir una vista 3D al sitio web
+
+[Maxence](https://x.com/Dgamax) · 2026-09-06
+
+El autor indica que utilizó GPT-6 Astra para recrear un MMORPG en Three.js y después le pidió que añadiera la vista 3D resultante al sitio web, incluidas vistas de las zonas de aparición con audio.
+
+**Prompt**
+
+```text
+Esto está genial. ¡Añadamos también esta vista 3D al sitio web!
+```
+
+[Publicación original](https://x.com/Dgamax/status/2096567422253662372) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2096593372311941143"></a>
+
+### Motor de la Totalidad: Catedral cinematográfica del eclipse
+
+[Chris W](https://x.com/Chris_Wozniczek) · 2026-09-06
+
+<a href="https://x.com/Chris_Wozniczek/status/2096593372311941143"><img src="../assets/previews/52de12ef7c4dd44ec548962b86297e175683992ebdfdd2665699a18fe86bb9ca.jpg" width="840" loading="lazy" alt="Motor de la Totalidad: Catedral cinematográfica del eclipse"></a>
+
+<a href="https://x.com/Chris_Wozniczek/status/2096593372311941143"><img src="../assets/previews/9e97a6d41453e28ab9686e13dcab0dcef1a92a9a19b5c06469dd6d763559548d.jpg" width="840" loading="lazy" alt="Motor de la Totalidad: Catedral cinematográfica del eclipse"></a>
+
+Un prompt completo para Three.js/WebGL que crea un cortometraje cinematográfico en bucle de 32 segundos dentro de una catedral gótica inundada, con un reloj astronómico monumental, movimientos de cámara dirigidos, agua procedural, planetas de cristal e iluminación de eclipse. Chris W publicó una ejecución en Astra y una comparación con otros modelos.
+
+**Prompt**
+
+```text
+Crea una experiencia pulida y visualmente impactante de HTML/WebGL, autocontenida y en un único archivo, llamada:
+
+totality-engine.html colócala en documents/llm-benchmarks
+
+No te limites a describir la idea. Genera realmente el archivo HTML completo y funcional, y guárdalo en el directorio actual.
+
+Construye un cortometraje cinematográfico en bucle de 32 segundos, no un diorama de pruebas. El producto es la interpretación de la cámara. La interacción es un extra que se activa después de reproducir el filme una vez.
+
+Mundo:
+Una catedral gótica sumergida durante la totalidad de un eclipse solar. El agua negra cubre el suelo de la nave. En el crucero se alza un reloj astronómico monumental de latón, el Motor de la Totalidad: anillos de orrery anidados, planetas de cristal, un núcleo de sol negro y un péndulo de mármol oscuro de 40 metros con herrajes dorados. Caliza mojada, verdín, llamas de velas y polvo de oro. Todo debe generarse mediante código procedural. No uses modelos, texturas, imágenes, fuentes como archivos ni audio externos.
+
+Filme dirigido (un solo reloj, beats con nombre, bucle continuo):
+
+0.0–4.0 s POLVO
+Primerísimo primer plano. Una mota de polvo gira en un haz de luz rojo dorado. Casi no hay contexto. Avance lento de cámara.
+
+4.0–10.0 s NAVE
+Retrocede y asciende. Estamos con el agua negra hasta las rodillas, en el crucero de la catedral. Las bóvedas de crucería se pierden en la niebla. El péndulo entra en cuadro desde la izquierda, pesado y lento, y pasa lo bastante cerca como para sentir su masa. Se forman ondas en el agua desde la cámara.
+
+10.0–18.0 s ASCENSO
+Acompaña el ascenso del péndulo. Revela el orrery en la bóveda: al menos cuatro anillos de latón anidados, con distintas inclinaciones; tres planetas de cristal con atmósferas diferenciadas —uno nuboso, otro con anillos y otro con bandas de tormenta—; y el núcleo de sol negro. Agrupaciones de velas a lo largo del triforio. El polvo de oro asciende contra la gravedad.
+
+18.0–24.0 s HILO
+La cámara se abre paso entre el orrery. Atraviesa el cristal del planeta con anillos —refracción, no un truco de transparencia—, sigue su plano de anillos durante un instante y sale en dirección al sol negro. El siguiente balanceo del péndulo deforma la luz a su alrededor como una lente gravitacional débil.
+
+24.0–30.0 s TOTALIDAD
+La corona estalla en un anillo de fuego blanco dorado que se convierte en la rueda más externa del orrery. Un tic de reloj que se sienta como un sonido: todos los anillos encajan de golpe en una alineación perfecta y, después, la corona permanece. No fundas a blanco. Mantén la silueta de toda la máquina contra el anillo de fuego.
+
+30.0–32.0 s CODA
+Deslízate hacia una continuación lenta que coincida con el fotograma 0, para que el bucle sea invisible. No hagas un corte brusco.
+
+Después de la primera reproducción completa, habilita arrastrar para orbitar, zoom con la rueda del ratón y un control «Reproducir filme». El botón Pausa debe funcionar siempre. Opcional: las teclas 1–5 saltan al inicio de cada beat.
+
+Construcción de la escena:
+- Define un primer plano, un plano medio y un fondo sólidos. El péndulo ocupa el primer plano en NAVE. Las bóvedas y la niebla aportan profundidad.
+- Incluye al menos dos referencias a escala humana —un banco sumergido, una aguja caída o una fila de velas— para que la máquina se perciba enorme.
+- El agua debe ser un material real: reflejos del orrery, un fresnel tenue, desplazamiento lento y las ondas producidas por el péndulo y la cámara.
+- Los planetas deben ser de cristal grueso, no esferas brillantes. A través de al menos uno de ellos debe verse una catedral distorsionada.
+- El latón debe transmitir peso: oscuro en las sombras, con solo los bordes captando la luz de la corona.
+- Las llamas de las velas y el polvo de oro deben usar instanciación. El polvo solo asciende durante ASCENSO y TOTALIDAD.
+- Bóvedas de crucería, siluetas de arbotantes y un enorme rosetón circular o abertura de eclipse en el muro del fondo, alineado con el sol negro.
+- Paleta limitada y fija: caliza mojada #8a8680, latón #c4a574, verdín #2f6f66, carmesí del eclipse #6b1020, corona #ffe9c2, agua negra #05070c, polvo de oro #e6c27a. Nada de cian, magenta, neón, arcoíris ni ese «look de IA» morado sobre negro.
+- Tipografía: un único título pequeño «TOTALITY ENGINE» y el nombre del beat; estética cinematográfica, no de panel de control.
+
+Requisitos técnicos:
+- Usa Three.js desde una CDN estable. Incluye todo el HTML, CSS y JS en este único archivo.
+- Controla toda la animación con un único reloj de tiempo transcurrido y ventanas de beat con nombre. No uses bucles independientes con Math.random, Date.now en los shaders ni ruido sin semilla. Usa únicamente un RNG con semilla; la constante de semilla es 0xA2E1.
+- La película de cámara debe usar interpolación suave con ease-in-out en los grandes movimientos, un easing más pesado para el péndulo —tiene masa— y una estabilización de cola larga al entrar en TOTALIDAD. Una órbita lineal como cámara principal es inaceptable.
+- Usa GLSL personalizado —ShaderMaterial o un pase a pantalla completa—, no materiales estándar que solo lo aparenten:
+1. Agua (reflejo + fresnel + desplazamiento lento)
+2. Corona del sol negro (fuego/plasma, no un sprite)
+3. Lente gravitacional del péndulo (la luz se curva cerca de la pesa durante HILO)
+4. Cristal grueso para al menos un planeta
+- Usa InstancedMesh para el polvo, las velas y cualquier elemento repetido de piedra o latón. No generes miles de objetos Mesh independientes.
+- Se permite el posprocesado, pero no puede sustituir a la iluminación. Si usas bloom, aplícalo con sutileza únicamente a la corona y las velas. Un UnrealBloom aplicado a toda la escena es inaceptable.
+- La niebla, los reflejos húmedos y la abertura del eclipse deben crear la atmósfera. No uses conos transparentes baratos como «rayos divinos» a menos que estén realmente controlados por un shader.
+- La experiencia debe adaptarse a toda la ventana del navegador, gestionar el redimensionado y apuntar a 60 fps en un portátil de 2023. Si tienes que elegir, reduce la cantidad de partículas antes que sacrificar la película de cámara.
+- UI pequeña y discreta: título, beat actual, pausa y repetición. No incluyas contador de FPS, dat.gui ni asistentes de depuración activos.
+- No dejes comentarios TODO, pseudocódigo, marcadores de posición, funciones ausentes ni frases como «esto quedaría mejor con X».
+- Al cargarse, el filme debe comenzar por sí solo. Mostrar un fotograma estático detrás de un botón de inicio es inaceptable.
+
+Nivel de calidad:
+Esto debe parecer un fotograma de un cortometraje, no un ejemplo de Three.js. Si una captura a los 26 segundos no se interpreta como «un reloj del tamaño de una catedral en el momento del eclipse», aún no has terminado. Itera en la composición, los materiales y la cámara antes de añadir más objetos.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/58e4abad-e682-4de8-b90b-e41667474cf7.mp4) · [Publicación original](https://x.com/Chris_Wozniczek/status/2096593372311941143) · [Demo en línea](https://chris-website-theta.vercel.app/astra-xhigh-totality-engine.html) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2096596888799895855"></a>
+
+### Crea CS2 con Three.js
+
+[Neatprompts](https://x.com/neatpromptsai) · 2026-09-06
+
+<a href="https://x.com/neatpromptsai/status/2096596888799895855"><img src="../assets/previews/56c259cdea4b8765fc130231a638ad18bde4ac8712b8add0bcbbdef052027c03.jpg" width="840" loading="lazy" alt="Crea CS2 con Three.js"></a>
+
+Un prompt breve compartido por Neatprompts para crear una escena de estilo CS2 en Three.js con GPT-6 Astra. La cadena de difusión pasa por Om Patel y llega a una demostración pública en Reddit de u/TimeForsaken5275.
+
+**Prompt**
+
+```text
+hey GPT-6 Astra, créame CS2 con Three.js, sin cometer errores.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/e271d98fca4347c75b9c4f81b29b4224b38a394ae837c6a946f6ecdf227d783c.mp4) · [Publicación original](https://x.com/neatpromptsai/status/2096596888799895855) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2096629506047955327"></a>
+
+### Videojuego de aventuras de fantasía costera: Windhaven
+
+[Tripo](https://x.com/tripoai) · 2026-09-06
+
+<a href="https://x.com/tripoai/status/2096629506047955327"><img src="../assets/previews/e3304eeb4bf4186f9a57768af5e1962741c3dce44ed5aace2aef04585d0e69ca.jpg" width="840" loading="lazy" alt="Videojuego de aventuras de fantasía costera: Windhaven"></a>
+
+Prompt de Unity proporcionado por un autor para crear un videojuego jugable de aventuras de fantasía costera estilizada y su entorno 3D de ciudad insular, Windhaven, con una plaza central, un templo, puntos de referencia y una propuesta de juego en tercera persona.
+
+**Prompt**
+
+```text
+Diseña un juego conmigo. El juego debe estar creado en Unity. Usa primero los recursos predeterminados; los sustituiré más adelante.
+Estilo del juego:
+Un videojuego de aventuras de fantasía costera estilizada y de alta calidad, ambientado en una pequeña ciudad insular bañada por el sol llamada Windhaven. La ciudad está construida con piedra caliza de marfil cálido y arenisca dorada, rodeada de aguas turquesas cristalinas, y cuenta con tejados de cobre verde azulado, puestos de mercado a la sombra, accesos arqueados, frondosos árboles en los patios, fuentes talladas, balizas mágicas resplandecientes y un templo monumental que domina la ciudad. Un joven explorador solitario, con capa de viaje y mochila, recorre la plaza central en dirección al templo. El entorno transmite una sensación de paz, misterio, antigüedad y magia sutil, con influencias arquitectónicas mediterráneas y norteafricanas. Materiales PBR estilizados de gran detalle, superficies de piedra trabajadas a mano, desgaste sutil, elegantes tallas decorativas, suave luz de la tarde, largas sombras cinematográficas, paleta de colores turquesa y dorado cálido, dirección artística pulida propia de un juego de aventuras AA, cámara de juego en tercera persona, plano general de presentación, diseño ambiental cohesionado, rutas y puntos de referencia claramente legibles, sin interfaz de usuario, sin texto, sin logotipos ni objetos modernos.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/7a9c804e3db0b128f569756d890729450ae9852b5b420c507f381d6a80ec40ac.mp4) · [Publicación original](https://x.com/tripoai/status/2096629506047955327) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2096637091627364531"></a>
+
+### RPG de acción de fantasía oscura en Three.js
+
+[Prompt Case](https://x.com/HiltonMisia) · 2026-09-06
+
+<a href="https://x.com/HiltonMisia/status/2096637091627364531"><img src="../assets/previews/ad164224745a34f4bcd14af8ec14fe0d7a6cf7203a80ea7544106dd1b76dc8f7.jpg" width="840" loading="lazy" alt="RPG de acción de fantasía oscura en Three.js"></a>
+
+Un prompt para crear un RPG de acción de fantasía oscura en 3D, totalmente jugable, con Three.js. Incluye un santuario gótico invadido por el bosque, combates de caballero, magia, un enfrentamiento contra un jefe, elementos de HUD en chino tradicional y todos los flujos del juego.
+
+**Prompt**
+
+```text
+Usa Three.js para crear desde cero un RPG de acción de fantasía oscura en 3D, pulido y totalmente jugable.
+
+Usa una cámara de seguimiento cenital en ángulo. El escenario es un gran santuario gótico invadido por el bosque, con torres en ruinas, galerías porticadas, puentes de piedra cubiertos de musgo, colinas onduladas, arroyos, cascadas y fogatas. Crea una atmósfera con múltiples capas mediante materiales realistas, iluminación cinematográfica, una ligera neblina, vegetación agitada por el viento y agua en movimiento.
+
+El protagonista es un poderoso caballero con una armadura pesada de acero y oro, elaborada con gran detalle, una capa ondeante y una espada rúnica y un escudo resplandecientes. El personaje debe poder moverse, atacar con la espada, rodar, bloquear, curarse y lanzar magia con círculos mágicos enormes, haces de luz y efectos de rayos. Tras derrotar a los guardias, el jugador debe enfrentarse a un jefe caballero gigante con astas.
+
+Las animaciones de ataque, los efectos visuales y las direcciones de los impactos deben coincidir siempre con la dirección hacia la que mira el personaje. Incluye un HUD pulido en chino tradicional, una pantalla de equipamiento del personaje y flujos completos de victoria, derrota y reinicio.
+
+Encárgate de forma independiente del modelado, la creación o adquisición de recursos, la programación y la optimización del rendimiento. Busca un acabado visual de nivel AAA. Prueba el juego continuamente, revisa los aspectos visuales y corrige los problemas hasta entregar un juego completo y jugable, instrucciones para iniciarlo y el código fuente.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/b13845b05ef5436efebf143b9312aceae495d96246bb0eb6475eadd48f5fbcd5.mp4) · [Publicación original](https://x.com/HiltonMisia/status/2096637091627364531) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2096637194270134742"></a>
+
+### Render de la Tierra girando en Blender
+
+[John Kler](https://x.com/JohnKlerAI) · 2026-09-06
+
+<a href="https://x.com/JohnKlerAI/status/2096637194270134742"><img src="../assets/previews/84a5d8102434534e61ab35c026fa683ed9919bef12f0b14bbc41c482941a00de.jpg" width="840" loading="lazy" alt="Render de la Tierra girando en Blender"></a>
+
+Un prompt para Blender que permite crear un espectacular render de cinco segundos de la Tierra girando, vista desde el espacio. El autor afirma que ambos modelos se probaron con este mismo prompt.
+
+**Prompt**
+
+```text
+En Blender, crea un render espectacular de 5 segundos de la Tierra girando, vista desde el espacio.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/48daeb6040d6e4c973074c202242b728d1b401e8e26be5ae0b511936af504299.mp4) · [Publicación original](https://x.com/JohnKlerAI/status/2096637194270134742) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2096641728497275011"></a>
+
+### Juego de exploración 3D Mini World
+
+[Weijian Zhang](https://x.com/weijianzhang_) · 2026-09-06
+
+<a href="https://x.com/weijianzhang_/status/2096641728497275011"><img src="../assets/previews/30b921728503d9086c9f52adbcc90a3fa3dc568cb7e85903172fc1c5295cb279.jpg" width="840" loading="lazy" alt="Juego de exploración 3D Mini World"></a>
+
+<a href="https://x.com/weijianzhang_/status/2096641728497275011"><img src="../assets/previews/1c1069d42fdaa31366b4154c69a205a264955350472475e3a932b0f3f7049efb.jpg" width="840" loading="lazy" alt="Juego de exploración 3D Mini World"></a>
+
+<a href="https://x.com/weijianzhang_/status/2096641728497275011"><img src="../assets/previews/e74bf6ff2780644c0873ea7117b727228e024d922753968e98ef8a647ccf7a93.jpg" width="840" loading="lazy" alt="Juego de exploración 3D Mini World"></a>
+
+<a href="https://x.com/weijianzhang_/status/2096641728497275011"><img src="../assets/previews/d648e6703ab0743201b31b075e98778544146a0de037da5184ba54d1b09e7390.jpg" width="840" loading="lazy" alt="Juego de exploración 3D Mini World"></a>
+
+Un prompt reutilizable para crear un juego infantil de exploración 3D con un mundo esférico, zoom, bosques, desiertos, océanos, natación, exploración y mejoras iterativas.
+
+**Prompt**
+
+```text
+Creemos un juego llamado Mini World. Es un juego de exploración de un mundo 3D, con una interfaz gráfica atractiva y de alta calidad, diseñado para que sea divertido y fácil de jugar para mi hijo de cuatro años y medio. Debe ser posible acercar y alejar la cámara. Desde lejos, el mundo parece una pequeña esfera, pero en su interior cuenta con distintas regiones para explorar. Una región puede parecer un bosque, otra un desierto, y también puede haber océanos en los que el personaje pueda nadar. El juego debe resultar divertido y ofrecer una experiencia jugable, con un personaje capaz de recorrer distintas partes del mundo, explorar diversos entornos y descubrir cosas por el camino. Considera que conseguir que todo funcione correctamente es el objetivo principal. El diseño debe ser atractivo y probarse minuciosamente mediante ciclos iterativos, para que el movimiento, el zoom, la exploración, la natación, los entornos, los controles y la experiencia general funcionen de forma fluida y coordinada. Sigue probándolo y mejorándolo hasta que todo funcione de manera fiable y el juego esté pulido, sea intuitivo y resulte divertido para un niño pequeño.
+```
+
+[Publicación original](https://x.com/weijianzhang_/status/2096641728497275011) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2096739993217577219"></a>
+
+### Juego de Grand Theft Auto con personajes y ciudades de San Andreas
+
+[ElIngeRRC](https://x.com/ElIngeRRC) · 2026-09-06
+
+Solicita crear un juego de Grand Theft Auto en el que CJ, Michael, Trevor, Lucia y Jason tengan los roles indicados en distintas ciudades.
+
+**Prompt**
+
+```text
+Haz un juego de Grand Theft Auto donde CJ sea un magnate de la ciudad de las Venturas, Michael sea un accionista de San Fierro. 
+Trevor sea un traficante de Los Santos y Lucia y Jason sean sus compañeros.
+```
+
+[Publicación original](https://x.com/ElIngeRRC/status/2096739993217577219) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -387,7 +993,364 @@ Crea una versión de Donald Trump como minifigura LEGO, convertida en un asset d
 Usa Blender MCP para crear una versión de Donald Trump como minifigura LEGO que pueda utilizar como asset de videojuego. Haz que tenga una calidad excepcional, propia de un videojuego AAA, y somete tu trabajo a una revisión exhaustiva para asegurarte de que sea detallado, preciso y excelente.
 ```
 
-[Ver vídeo ↗](https://video.twimg.com/amplify_video/2096766389113556999/vid/avc1/1920x1080/t6dpye7hPDiWK9D2.mp4?tag=29) · [Publicación original](https://x.com/_simonsmith/status/2096766465730847059) · [Volver a los ejemplos](#all-prompts)
+[Ver vídeo ↗](https://media.tripogrowth.space/media/92169546-6768-4c0b-a8ae-f92fead653ad.mp4) · [Publicación original](https://x.com/_simonsmith/status/2096766465730847059) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2096793432987464010"></a>
+
+### Crea un slime blando e interactivo con Three.js y WebGPU
+
+[码农暖爸](https://x.com/Delroy715) · 2026-09-07
+
+<a href="https://x.com/Delroy715/status/2096793432987464010"><img src="../assets/previews/080a768b7958082811553a4d1a4c865caeee6e542e68fe0ba9e32ed478233342.jpg" width="840" loading="lazy" alt="Crea un slime blando e interactivo con Three.js y WebGPU"></a>
+
+El autor muestra una aplicación de slime para navegador llamada Softie y, a continuación, publica explícitamente el prompt utilizado para crearla. El prompt pide crear un slime blando que se pueda arrastrar y aplastar, con controles ajustables.
+
+**Prompt**
+
+```text
+Crea un directorio nuevo y desarrolla una página con un slime jugable en el navegador. Usa Three.js y WebGPU; no recurras a WebGL.
+En el centro debe haber un slime redondo y regordete, rosa o verde azulado, semitransparente y con burbujas apenas visibles en su interior. El usuario debe poder presionarlo y arrastrarlo con el ratón; al soltarlo, debe balancearse hasta recuperar su forma. Añade un poco de gravedad para que pueda caer suavemente sobre una mesa invisible. No lo hagas como una esfera rígida: debe tener una sensación blanda y carnosa.
+Coloca una cara simpática: dos ojos negros como cuentas y una boquita pequeña, que se deformen junto con la superficie; no los separes del cuerpo. En la parte derecha, añade unos controles sencillos para el color, la suavidad y la amortiguación. El botón «Darle un toque» debe hacer que salte ligeramente.
+Mantén la página limpia, con un fondo gris claro y un título grande. Debe funcionar a 60 fotogramas por segundo. Primero genera una imagen de referencia del resultado objetivo y después construye la página basándote en ella; añade más detalles solo cuando la captura de pantalla se parezca al objetivo.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/ff1a75d50fccfb32eeea78b2dae5f667ed84673761cffbae90f01c501bbd3be9.mp4) · [Publicación original](https://x.com/Delroy715/status/2096793432987464010) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2096814981509775616"></a>
+
+### Bosque 3D en tiempo real, extremadamente detallado, en el navegador
+
+[Rakib Hossen](https://x.com/rakib_hossen_ai) · 2026-09-07
+
+<a href="https://x.com/rakib_hossen_ai/status/2096814981509775616"><img src="../assets/previews/07c895f71d234e5fe33db4f12806b3c27102c020c4dab9ec784acb393ac62646.jpg" width="840" loading="lazy" alt="Bosque 3D en tiempo real, extremadamente detallado, en el navegador"></a>
+
+Un prompt exacto para crear y publicar públicamente un bosque 3D en tiempo real, muy detallado y basado en navegador, con vegetación densa, variación del terreno, efectos atmosféricos, exploración con cámara libre e inspección visual iterativa.
+
+**Prompt**
+
+```text
+Primero busca la habilidad «/unlazy», léela completa y utilízala durante toda la tarea.
+
+Considera esto una construcción visual importante que debe durar al menos 5 horas. Si el entorno lo permite, dedica entre 8 y 24 horas a una implementación e iteración significativas. No te detengas después de producir una escena que simplemente se vea bien.
+
+Crea un bosque 3D en tiempo real, extremadamente detallado, en el navegador. Nada más. No incluyas una página de inicio, tarjetas, historia, interfaz de marketing, panel de control ni texto innecesario. El bosque en sí debe ser toda la experiencia.
+
+Lleva la densidad y la calidad visual al límite.
+
+Construye cantidades enormes de hierba detallada, árboles variados, ramas, hojas, arbustos, helechos, musgo, flores, malas hierbas, raíces, madera caída, piedras, tierra, hojarasca, plantas pequeñas, variación del terreno y diminutos detalles ambientales.
+
+El bosque debe sentirse casi excesivamente denso. El terreno vacío debe ser poco frecuente.
+
+Concéntrate obsesivamente en:
+siluetas de árboles realistas,
+hierba densa,
+variación natural de los elementos,
+colores intensos,
+iluminación,
+sombras de contacto,
+viento,
+movimiento del follaje,
+profundidad atmosférica,
+niebla,
+haces de luz solar,
+partículas,
+terreno,
+materiales,
+escala,
+composición
+y detalle tanto en las distancias cortas como en las lejanas.
+
+Evita elementos que se repitan de forma evidente, follaje con aspecto de cartel, terrenos en mosaico, plantas flotantes, materiales plásticos, árboles idénticos, colocación procedural poco densa, exceso de bloom o una apariencia genérica de demostración de Three.js.
+
+Incluye una exploración fluida con cámara libre.
+
+Captura e inspecciona la escena repetidamente desde muchas posiciones. Identifica la vegetación débil, las zonas vacías, los colores inadecuados, la repetición, los materiales deficientes, la iluminación poco realista, las formas de árbol poco atractivas, los cuellos de botella de rendimiento y cualquier elemento que rompa la inmersión. Corrige estos problemas y sigue aumentando la calidad durante toda la ejecución.
+
+El objetivo no es contar funciones. El objetivo es conseguir que un solo bosque en el navegador resulte completamente desmesurado por su nivel de detalle y su atmósfera.
+
+Construye la experiencia completa, publícala PÚBLICAMENTE en ChatGPT Sites, verifica el despliegue y devuelve la URL pública.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/bc3c2a55-feba-4ceb-9c93-a36192f4be6a.mp4) · [Publicación original](https://x.com/rakib_hossen_ai/status/2096814981509775616) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2096907617117540478"></a>
+
+### Escena 3D de Hogwarts
+
+[Prompt Case](https://x.com/HiltonMisia) · 2026-09-07
+
+<a href="https://x.com/HiltonMisia/status/2096907617117540478"><img src="../assets/previews/bffeb201cd39ed86178dd22e30bda1ea70e4ff92902307d88ba66700e21dcd32.jpg" width="840" loading="lazy" alt="Escena 3D de Hogwarts"></a>
+
+Un prompt reutilizable para crear un modelo 3D de gran escala, realista y explorable de Hogwarts, con su entorno, lugares emblemáticos, interiores, objetos, presentación cinematográfica, niebla, diseño sonoro y ajustes visuales configurables.
+
+**Prompt**
+
+```text
+Usa Headless Blender para crear un modelo 3D de gran escala, muy realista y completamente detallado del Colegio Hogwarts de Magia y Hechicería de Harry Potter. Incluye el entorno natural circundante, lugares emblemáticos, interiores fieles y objetos. Ofrece materiales, iluminación, renderizado y diseño sonoro con calidad cinematográfica, una atmósfera misteriosa y niebla dinámica que se desplace lentamente. Permite explorar libremente el entorno y proporciona ajustes configurables para la iluminación y otras opciones visuales.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/8f12f26d-be03-4930-bb04-1c3635ab0d57.mp4) · [Publicación original](https://x.com/HiltonMisia/status/2096907617117540478) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2096950715277004976"></a>
+
+### Convierte una imagen en un modelo 3D y gíralo 360°
+
+[Zentrix⌚️](https://x.com/ZentrixHQ) · 2026-09-07
+
+<a href="https://x.com/ZentrixHQ/status/2096950715277004976"><img src="../assets/previews/97e0eb2219fface4eb1761e339ee46e0099540feb84eddf3e2513285374d9d70.jpg" width="840" loading="lazy" alt="Convierte una imagen en un modelo 3D y gíralo 360°"></a>
+
+Prompt creado específicamente para usar una sola imagen, generar un modelo 3D y girarlo 360 grados; la demostración resultante se presenta como una escena de terror en 3D.
+
+**Prompt**
+
+```text
+Convierte esto en un modelo 3D y gíralo 360°.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/ee7409031030817c7e237eaaef039147e07f72c0cce1a5068e5be562cdca1a04.mp4) · [Publicación original](https://x.com/ZentrixHQ/status/2096950715277004976) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2096956214680965501"></a>
+
+### Calle en miniatura infinita en Three.js WebGPU
+
+[Dash](https://x.com/creativedash) · 2026-09-07
+
+<a href="https://x.com/creativedash/status/2096956214680965501"><img src="../assets/previews/c2aa4cd5daf5e1bc8f71051db13c08e7f52359b5a5aaf7b813b72d474117897e.jpg" width="840" loading="lazy" alt="Calle en miniatura infinita en Three.js WebGPU"></a>
+
+Crea una escena interactiva de una calle en miniatura con una bicicleta de reparto, tiendas, efectos de asfalto mojado, hojas esparcidas, un mundo curvado, estética pixel art y parámetros de Forge ajustables.
+
+**Prompt**
+
+```text
+Crea para mí una calle en miniatura infinita en Three.js WebGPU: una bicicleta de reparto que pasa junto a una hilera de pequeñas tiendas, asfalto mojado con charcos que generan ondas y salpicaduras cuando los neumáticos los atraviesan, huellas de neumáticos que se desvanecen, hojas que se dispersan y un mundo suavemente curvado. Estética pixel art, con un rendimiento fluido en móviles. Añade parámetros de Forge para poder manipular por completo el mundo.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/d8eee1e2-597e-4e14-b48f-c1a33b6ca10e.mp4) · [Publicación original](https://x.com/creativedash/status/2096956214680965501) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2096966425017467344"></a>
+
+### Mundo paisajístico para VRChat: «El horizonte donde la gravedad se rompió»
+
+[Xenoah](https://x.com/shuminchuuu) · 2026-09-07
+
+<a href="https://x.com/shuminchuuu/status/2096966425017467344"><img src="../assets/previews/4249576bc3ef16efff9d41b996da6d554a81ab9b92521403fc31f796bdc219e6.jpg" width="840" loading="lazy" alt="Mundo paisajístico para VRChat: «El horizonte donde la gravedad se rompió»"></a>
+
+<a href="https://x.com/shuminchuuu/status/2096966425017467344"><img src="../assets/previews/51d37ab77febf4110ac195be5af21dd52d50affd6065a08c5e6db483990660b1.jpg" width="840" loading="lazy" alt="Mundo paisajístico para VRChat: «El horizonte donde la gravedad se rompió»"></a>
+
+<a href="https://x.com/shuminchuuu/status/2096966425017467344"><img src="../assets/previews/bbf43abf35435160d5917d94efa7a576610b94ea5786009662d9427c88b5ac97.jpg" width="840" loading="lazy" alt="Mundo paisajístico para VRChat: «El horizonte donde la gravedad se rompió»"></a>
+
+<a href="https://x.com/shuminchuuu/status/2096966425017467344"><img src="../assets/previews/82e3e79bf97929c164258f8ed906c7080b9366386db02792fc854ef6a9b26117.jpg" width="840" loading="lazy" alt="Mundo paisajístico para VRChat: «El horizonte donde la gravedad se rompió»"></a>
+
+Este prompt sirve para crear en Blender el conjunto completo de modelos 3D de un mundo paisajístico para VRChat, con un horizonte donde la gravedad se ha roto. Construye colinas, una plataforma de observación semicircular, un dispositivo de observación, un mar vertical, una cordillera invertida, pilares negros y fracturas espaciales como grandes siluetas de estilo low-poly.
+
+**Prompt**
+
+```text
+Crea en Blender el conjunto completo de modelos 3D de un mundo paisajístico para VRChat.
+
+El tema es 
+
+«El horizonte donde la gravedad se rompió»
+
+.
+
+Solo la cima de la colina donde se encuentra el jugador debe ser normal; únicamente el horizonte lejano debe mostrar una gran alteración de las leyes físicas.
+
+Mantén toda la escena con formas sencillas.
+Da prioridad a 
+las grandes siluetas
+
+, la anomalía del horizonte lejano
+, la forma de la plataforma de observación
+ y la composición espacial
+, por encima de los detalles decorativos.
+
+Composición
+
+Crea los siguientes elementos.
+
+Cima de la colina
+
+Sendero estrecho
+Desmonte poco profundo
+Plataforma de observación semicircular
+Unos pocos bancos
+Panel informativo roto
+Dispositivo central de observación
+Ciudad en el horizonte
+Mar en posición vertical
+Cordillera invertida
+Pilares negros gigantes
+Fracturas espaciales
+Nubes estáticas
+Plataforma de observación
+
+La plataforma de observación debe ser semicircular.
+
+No imites ninguna plataforma de observación existente; crea una forma completamente original.
+
+Características:
+
+Semicircular
+
+Asimétrica
+Una parte sobresale hacia el vacío
+Borde bajo
+Forma pensada para un material semitransparente
+Una parte deformada por una anomalía gravitatoria
+No la hagas demasiado compleja; debe ser una gran silueta reconocible incluso desde lejos.
+
+Dispositivo central de observación
+
+Coloca en el centro de la plataforma de observación un dispositivo sencillo que combine 
+
+una esfera semitransparente
+
+un anillo incompleto
+ y un marco de puntería orientado hacia los pilares negros
+.
+
+Horizonte lejano
+
+El horizonte lejano es lo más importante.
+
+Crea los siguientes elementos con formas grandes y simplificadas.
+
+Ciudad que cae hacia el cielo
+
+Haz que los edificios cúbicos se extiendan en direcciones distintas de las habituales.
+
+Mar vertical
+
+Coloca un enorme plano de superficie marina casi a 90 grados de la horizontal.
+
+Cordillera invertida
+
+Invierte verticalmente la silueta simplificada de una montaña.
+
+Pilares negros
+
+Coloca en el horizonte unos pilares negros extremadamente grandes y alargados.
+
+Haz que parezcan una ausencia en el espacio, no un edificio.
+
+Fracturas espaciales
+
+Coloca alrededor de los pilares negros formas grandes, planas o en forma de bandas, como si el espacio estuviera desgarrado.
+
+Deben estar pensadas para utilizar materiales emisivos.
+
+Terreno
+
+La colina debe ser una pradera de suaves pendientes.
+
+Crea desde el punto de aparición hasta la plataforma de observación 
+
+un sendero estrecho
+
+ y un desmonte poco profundo
+.
+
+Al salir del desmonte, la composición debe revelar de golpe todo el horizonte lejano.
+
+Vegetación
+
+Reduce la vegetación al mínimo.
+
+Hierba
+
+Unos pocos arbustos bajos
+ y unas pocas plantas inclinadas en direcciones anómalas
+ serán suficientes.
+
+Criterios de modelado
+
+Puedes usar un estilo cercano al low-poly.
+
+No trabajes demasiado los detalles.
+
+Usa activamente primitivas y construye la escena principalmente con 
+
+Cube
+
+Plane
+
+Cylinder
+
+Sphere
+
+Curve
+.
+Simplifica especialmente el horizonte lejano.
+
+Lo importante no son los detalles, sino 
+
+«que, al mirar a lo lejos, se entienda al instante que algo no funciona en este mundo»
+
+.
+
+Organización en Blender
+
+Divide los objetos en las siguientes colecciones.
+
+PLAYER_AREA
+OBSERVATION_DECK
+OBSERVATION_DEVICE
+VEGETATION
+DISTANT_CITY
+DISTANT_SEA
+DISTANT_MOUNTAINS
+BLACK_PILLAR
+SPACE_FRACTURE
+CLOUDS
+PROPS
+Organiza la escena para facilitar su exportación a Unity para VRChat.
+
+La máxima prioridad es 
+
+«el paisaje visto desde la plataforma de observación como una sola imagen»
+.
+```
+
+[Publicación original](https://x.com/shuminchuuu/status/2096966425017467344) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2096971051334857181"></a>
+
+### Patio chino interactivo
+
+[Larus Canus](https://x.com/MrLarus) · 2026-09-07
+
+<a href="https://x.com/MrLarus/status/2096971051334857181"><img src="../assets/previews/e8d834a9a7ddc8627c0556335e17c834a6058acb2351f02dcd1a47beb8631ecf.jpg" width="840" loading="lazy" alt="Patio chino interactivo"></a>
+
+Un prompt reutilizable para crear un patio chino 3D explorable con Blender y Three.js, con elementos arquitectónicos, navegación interactiva, efectos ambientales, fauna animada y un proyecto ejecutable en el navegador.
+
+**Prompt**
+
+```text
+Crea un patio chino interactivo con Blender y Three.js que pueda explorar en el navegador.
+
+Incluye paredes blancas, tejados de tejas oscuras, una puerta lunar, pinos, un estanque y un jardín de rocas, además de una sala de estar, una sala de té y un dormitorio. Usa Python para ejecutar Blender en segundo plano, generar los modelos y exportar archivos GLB. Usa Three.js para la iluminación, los reflejos, las animaciones y la interacción.
+
+Admite controles orbitales, zoom, navegación con WASD, cambio entre día y noche y un control para mostrar u ocultar el tejado. Añade gradualmente agua corriente, carpas koi, ranas que salten, libélulas, un gato del patio, gorriones y luciérnagas nocturnas. Mantén los movimientos sutiles y naturales.
+
+Crea una interfaz original que no obstruya la escena. Desarrolla el proyecto por etapas, inspecciona los resultados en el navegador, corrige los problemas y entrega el proyecto ejecutable, los archivos fuente y las instrucciones de configuración.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/02dc67e53653c583671e53ea9e08103aa8c3a91da1a4fb31c9d6441aab3d3aef.mp4) · [Publicación original](https://x.com/MrLarus/status/2096971051334857181) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -407,7 +1370,158 @@ Solicitud para crear una escena de un camino forestal de 12 segundos en Blender.
 Un camino forestal de 12 segundos en Blender
 ```
 
-[Ver vídeo ↗](https://video.twimg.com/amplify_video/2096986504044097536/vid/avc1/1800x1440/UX_z5aG0dAl1vdha.mp4?tag=29) · [Publicación original](https://x.com/Jomolos/status/2096986557244723371) · [Volver a los ejemplos](#all-prompts)
+[Ver vídeo ↗](https://media.tripogrowth.space/media/48260d191ecc20aefc450814edc110dbfcf4ecf50b6057d8eefcc5e6ebf4cf4e.mp4) · [Publicación original](https://x.com/Jomolos/status/2096986557244723371) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2096990373813858591"></a>
+
+### Editar una escena de Blender para ajustar separadores moleteados y una PCB
+
+[Robert Boyd](https://x.com/rboyd) · 2026-09-07
+
+<a href="https://x.com/rboyd/status/2096990373813858591"><img src="../assets/previews/a8ee5a495643a02333b8f904a4d46c26f8211b6ba6ecb40ba3b2521387e81571.jpg" width="840" loading="lazy" alt="Editar una escena de Blender para ajustar separadores moleteados y una PCB"></a>
+
+<a href="https://x.com/rboyd/status/2096990373813858591"><img src="../assets/previews/c25a45735c30595705175753c2fc55322a8e0a5327592956caaaf3942b53f511.png" width="840" loading="lazy" alt="Editar una escena de Blender para ajustar separadores moleteados y una PCB"></a>
+
+Un prompt entre comillas pide a Astra que edite una escena de Blender retirando material para los separadores M3 hembra-hembra con extremos moleteados y profundizando una ranura para la PCB, de modo que los orificios de los tornillos queden alineados, además de incorporar a la escena un modelo adecuado del separador.
+
+**Prompt**
+
+```text
+Casi perfecto. 1) Mira la imagen en ~/Desktop/remove_material_for_knurled_ends.png: tenemos que retirar aquí el material suficiente para los extremos moleteados de los separadores M3 hembra-hembra, de modo que queden al ras. Intenta encontrar un modelo / STL o STEP de estos separadores con los extremos moleteados e incorpóralo a la escena de Blender. 2) Mira ~/Desktop/deepen_pcb_slot.png: la ranura para la PCB tiene aproximadamente 1 mm menos de profundidad (es decir, necesito introducir la PCB aproximadamente 1 mm más en nuestra pieza, así que hay que retirar material) para que los orificios de los tornillos queden alineados.
+```
+
+[Publicación original](https://x.com/rboyd/status/2096990373813858591) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2097313247116341424"></a>
+
+### Mejorar las facciones de un modelo 3D en Blender usando una imagen de referencia
+
+[Carlos Olivera Terrazas](https://x.com/carlos_olivera) · 2026-09-08
+
+<a href="https://x.com/carlos_olivera/status/2097313247116341424"><img src="../assets/previews/8528f6aaa8b6070a8c1e3732f0791feac42ed1ba7d0c23cc85c7c9e0212600a1.png" width="840" loading="lazy" alt="Mejorar las facciones de un modelo 3D en Blender usando una imagen de referencia"></a>
+
+<a href="https://x.com/carlos_olivera/status/2097313247116341424"><img src="../assets/previews/815f26c4feffea428b39e1c5d57de7f183ffc87c517bedb34755eec115e32d6e.png" width="840" loading="lazy" alt="Mejorar las facciones de un modelo 3D en Blender usando una imagen de referencia"></a>
+
+El autor plantea un desafío para GPT-6 Astra: usar la primera imagen como referencia para mejorar las facciones de la segunda imagen en un proyecto de modelado 3D en Blender.
+
+**Prompt**
+
+```text
+tomar como referencia la primera imagen y mejorar las facciones de la segunda imagen.
+```
+
+[Publicación original](https://x.com/carlos_olivera/status/2097313247116341424) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2097323734504017936"></a>
+
+### Proyecto WebGL con TypeScript + Three.js del Salón de Oración por las Buenas Cosechas del Templo del Cielo de Beijing
+
+[govin.eth \| G哥](https://x.com/goan999999) · 2026-09-08
+
+<a href="https://x.com/goan999999/status/2097323734504017936"><img src="../assets/previews/b96633c15d16a1fad0fe0e700c8bec74e9157a05c86bbf84264cea903f333c4a.jpg" width="840" loading="lazy" alt="Proyecto WebGL con TypeScript + Three.js del Salón de Oración por las Buenas Cosechas del Templo del Cielo de Beijing"></a>
+
+La publicación original muestra un modelo 3D y una experiencia web del Salón de Oración por las Buenas Cosechas del Templo del Cielo de Beijing, creados con GPT-6 Astra y Three.js; posteriormente, el autor compartió el prompt completo en chino utilizado para crear este tipo de proyecto.
+
+**Prompt**
+
+```text
+Crea con TypeScript + Three.js un proyecto WebGL completo y ejecutable del Salón de Oración por las Buenas Cosechas del Templo del Cielo de Beijing. Toda la geometría arquitectónica, las texturas y las animaciones deben generarse mediante código y de forma procedural durante la ejecución; no cargues modelos externos .glb, .gltf, .obj, .fbx ni de otros formatos.
+
+Recreación arquitectónica:
+tres cubiertas circulares escalonadas, con distintos tamaños y alturas, revestidas de tejas vidriadas azules; un remate dorado, columnas rojas, cuerpo circular, decoración pintada en azul, verde y dorado, soportes dougong, puertas y ventanas.
+Usa perfiles curvos, superficies de revolución o geometría personalizada para las cubiertas, de modo que los aleros se vean amplios y ligeramente levantados; no los sustituyas por conos simples.
+Crea una plataforma circular blanca de tres niveles de mármol blanco de Han, con una escalinata central de piedra, barandillas y balaustres; mantén proporciones equilibradas y una jerarquía visual clara.
+Genera proceduralmente las texturas de las tejas y los elementos decorativos; prioriza InstancedMesh para los componentes repetidos.
+
+Escena e interacción:
+incluye el cielo azul de Beijing, el pavimento de la plaza y una pequeña cantidad de vegetación; usa DirectionalLight junto con AmbientLight／HemisphereLight, activa las sombras y la oclusión ambiental, y aplica un mapeo de tonos cinematográfico moderado.
+Admite rotación y zoom mediante OrbitControls, además de una vista de recorrido orbital lento que se pueda activar y desactivar.
+Añade un botón para alternar entre «explosión» y «recomposición»: la cubierta, las columnas, los soportes dougong, los muros, las puertas y ventanas, las barandillas y la plataforma deben separarse suavemente por niveles y volver después con precisión a su posición original. La animación debe estar controlada por código, tener un ritmo escalonado y evitar los saltos instantáneos.
+
+Entrega directamente el proyecto completo junto con las instrucciones de inicio. La página debe adaptarse de forma responsive al tamaño de la ventana, ofrecer una calidad visual alta y una interacción fluida, y mantener un buen rendimiento en navegadores de escritorio comunes mediante instanciación, un nivel razonable de detalle geométrico y optimizaciones de renderizado. Organiza el código en módulos claros para facilitar su ampliación; verifica la compilación y las funciones principales, e indica con honestidad qué elementos no se hayan podido verificar.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/01eda954-4f59-4a02-ba94-7d5470fe7de8.mp4) · [Publicación original](https://x.com/goan999999/status/2097323734504017936) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2097336230078013598"></a>
+
+### Recrear League of Legends como juego web
+
+[李岳](https://x.com/liyue_ai) · 2026-09-08
+
+<a href="https://x.com/liyue_ai/status/2097336230078013598"><img src="../assets/previews/36b98467e6157525383fbc35526f9c07f2cadf9f16b1559da917bb3cc5fc4eca.jpg" width="840" loading="lazy" alt="Recrear League of Legends como juego web"></a>
+
+El autor reproduce y enumera un prompt para crear un juego web inspirado en League of Legends, con requisitos como recrear el mapa, los héroes, los súbditos, las torres defensivas y una partida que comienza con cinco héroes. El prompt describe un objetivo de creación de un juego tridimensional, pero la publicación no aclara si el autor lo introdujo personalmente.
+
+**Prompt**
+
+```text
+Crea un juego idéntico a League of Legends. Debe incluir todo el contenido de League of Legends, con el mismo mapa y un nivel de calidad gráfica equivalente, además de héroes, súbditos, torres defensivas y otros elementos. Al comenzar la partida, selecciona 5 héroes.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/f7618e1a-2e80-4350-a11a-f2f168a67562.mp4) · [Publicación original](https://x.com/liyue_ai/status/2097336230078013598) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2097339176094195899"></a>
+
+### Playroom: Arcade 3D retro para navegador
+
+[Tripo](https://x.com/tripoai) · 2026-09-08
+
+<a href="https://x.com/tripoai/status/2097339176094195899"><img src="../assets/previews/a50398d5761279d4c67fa425f175dd71bdd68472435b1df9f4c8e703c7edb035.jpg" width="840" loading="lazy" alt="Playroom: Arcade 3D retro para navegador"></a>
+
+Prompt publicado literalmente por su autor para crear un arcade de navegador completo y jugable con Three.js, con recursos de hardware GLB independientes, transiciones 3D interactivas, tres juegos basados en cartuchos, controles adaptables y un comportamiento alternativo accesible.
+
+**Prompt**
+
+```text
+Crea un arcade de navegador completo y jugable llamado “Playroom”, con una estética nostálgica del hardware de finales de los años 80 y una interfaz editorial contemporánea y sobria. Usa Three.js para el renderizado y carga recursos GLB independientes para el monitor CRT, la consola, el mando y los cartuchos de juegos. Entrega una experiencia funcional, no una maqueta estática. 
+
+Dirección artística: usa un fondo blanco roto cálido, plástico marfil envejecido, detalles en carbón, verde salvia apagado, terracota empolvada y azul desvaído. Combina títulos en Space Grotesk con etiquetas pequeñas en DM Mono. Añade líneas divisorias finas, abundante espacio en blanco, anotaciones técnicas sutiles y una navegación compacta. Evita el estilo ciberpunk de neón, las tarjetas de panel brillantes y los degradados excesivos.
+
+La página de inicio debe parecer una fotografía de producto cuidadosamente compuesta. Coloca el CRT de forma destacada hacia la derecha, la consola hacia la izquierda, un cartucho en posición vertical y bien asentado sobre la consola, y un mando delante. Conecta los dispositivos con cables curvos que lleguen a sus conectores reales. Usa iluminación direccional suave, sombras de contacto creíbles, bordes redondeados y materiales de plástico ligeramente rugosos. Evita que los objetos se intersequen. 
+
+Dota a la página de inicio de una órbita lateral lenta y cinematográfica. Permite que los usuarios arrastren para rotar la vista y reanuda después suavemente el movimiento en reposo. Añade pulsos de datos sobrios que recorran lentamente algunos detalles del hardware. El CRT debe mostrar una escena de espera en pixel art que se repita en bucle, con una mascota pequeña, líneas de escaneo sutiles y el texto “PLAYER ONE”. Usa con precisión el logotipo formado por una T amarilla y una V blanca en los rostros de las mascotas. 
+
+Un botón destacado “ENCENDER”, o hacer clic en la escena de la consola, debe iniciar una única transición continua. Acerca suavemente la cámara a la pantalla del CRT, introduce un flujo de datos animado y amplía gradualmente la escena hasta cubrir toda la ventana gráfica. Mantén cubiertos los bordes superior e inferior durante todo el proceso. Muestra la colección de cartuchos mediante una transición fluida de oscuro a claro, sin una superposición que aparezca de repente ni un salto brusco de cámara.
+
+La colección contiene tres cartuchos verticales distintos: Snake en verde salvia, Breakout en terracota y Blocks en azul. Cada uno tiene una tipografía nítida en la portada y una pequeña mascota animada encaramada encima. Usa un balanceo sutil, elevación al pasar el cursor y una inclinación suave. Permite tanto hacer clic en los cartuchos 3D como usar botones de texto accesibles debajo de ellos. 
+
+Cada selección abre una interfaz de juego jugable. Snake incluye cadenas de comida y frutas de bonificación con tiempo limitado. Breakout incluye varias configuraciones de ladrillos y mejoras para la pala o multibola. Blocks incluye una vista previa de la siguiente pieza, una silueta de aterrizaje y puntuación por completar líneas. Proporciona instrucciones claras, puntuación, pausa, reinicio y navegación para volver. Admite controles de teclado y botones táctiles, con persistencia local de las mejores puntuaciones. 
+
+Mantén el contenido de la pantalla y las etiquetas de los cartuchos como texturas independientes en tiempo de ejecución para que el texto conserve su nitidez. Conserva las partes con nombre de los modelos para la interacción y la animación de las mascotas. Incluye indicadores de carga, una alternativa utilizable si fallan los recursos 3D, diseños adaptables, foco de teclado visible y compatibilidad con la reducción de movimiento. Organiza el proyecto de forma limpia, verifica los tres juegos y las transiciones, y déjalo listo para desplegarlo en GitHub y Vercel.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/92687847-5ef9-4103-85bc-0231f0a84219.mp4) · [Publicación original](https://x.com/tripoai/status/2097339176094195899) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2097343467026289039"></a>
+
+### Mundo acogedor de humedal y lago
+
+[Givros](https://x.com/givros) · 2026-09-08
+
+<a href="https://x.com/givros/status/2097343467026289039"><img src="../assets/previews/23dbba2d83ef0ccef6ab1db4578e1b513eb19d4e0c3571a1509f628963f56423.jpg" width="840" loading="lazy" alt="Mundo acogedor de humedal y lago"></a>
+
+Un prompt reutilizable para crear una acogedora escena 3D de humedal con un lago, una cabaña, una isla, una casa abandonada, una barca, senderos, vegetación, fauna y un bosque alrededor.
+
+**Prompt**
+
+```text
+Crea un lago acogedor con una cabaña de pescador en la orilla pantanosa. Coloca una pequeña isla en el centro del agua, con una casa abandonada oculta entre los árboles. Añade una barca de pesca junto a la cabaña, nenúfares, juncos, peces saltando, fauna típica de humedales, una pequeña playa, un sendero que conduzca a la playa y a la cabaña, otro sendero que se adentre de nuevo en el bosque y una franja de árboles que rodee toda la escena.
+```
+
+[Ver vídeo ↗](https://media.tripogrowth.space/media/29297bf0-5dc5-4ba4-81c9-7683e9b7b4ed.mp4) · [Publicación original](https://x.com/givros/status/2097343467026289039) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -425,7 +1539,7 @@ Un camino forestal de 12 segundos en Blender
 Construye un juego inspirado en los kaijus con Three.js, usando modelos de criaturas y efectos sonoros generados. Crea combates a escala gigante fáciles de seguir y un entorno que transmita el tamaño de las criaturas.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/kaiju-city-battle-2096251574918013135) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096251295594135556-video-cc717933e256.mp4) · [Publicación original](https://x.com/majidmanzarpour/status/2096251574918013135) · [Demo en línea](https://stormcolossus.netlify.app/) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/kaiju-city-battle-2096251574918013135) · [Ver vídeo ↗](https://media.tripogrowth.space/media/a11e4581-9641-40f4-8d8e-424fcf0c4932.mp4) · [Publicación original](https://x.com/majidmanzarpour/status/2096251574918013135) · [Demo en línea](https://stormcolossus.netlify.app/) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -443,7 +1557,7 @@ Construye un juego inspirado en los kaijus con Three.js, usando modelos de criat
 Construye una escena completa de una villa moderna en Blender, con arquitectura coherente, interiores amueblados, piscina infinita, jardines, materiales realistas y un recorrido de cámara cinematográfico durante la hora dorada.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/modern-villa-scene-in-blender-2095636679264780481) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095636565192241152-video-97d4ec4c239f.mp4) · [Publicación original](https://x.com/karankendre/status/2095636679264780481) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/modern-villa-scene-in-blender-2095636679264780481) · [Ver vídeo ↗](https://media.tripogrowth.space/media/387728b5-b9be-46a6-bce7-1a23ba2aea73.mp4) · [Publicación original](https://x.com/karankendre/status/2095636679264780481) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -461,7 +1575,7 @@ Construye una escena completa de una villa moderna en Blender, con arquitectura 
 Prepara variantes de expresión de un personaje de Tripo en Blender antes de crear el esqueleto. Alinea las mallas y alterna entre ellas sin interpolación, reduciendo las variantes inactivas dentro de la cabeza. No presentes el resultado como una mezcla suave de expresiones ni como compatible con VRM.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096524256012316672-video-4b1e211ec04c.mp4) · [Publicación original](https://x.com/Dstudio_ai/status/2096525100518453342) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [Ver vídeo ↗](https://media.tripogrowth.space/media/be890da4-1580-4ed6-b221-aff7ce09ea09.mp4) · [Publicación original](https://x.com/Dstudio_ai/status/2096525100518453342) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -479,7 +1593,7 @@ Prepara variantes de expresión de un personaje de Tripo en Blender antes de cre
 Construye de una sola vez un mundo de vóxeles jugable inspirado en Minecraft, con generación de terreno, colocación y destrucción de bloques, controles en primera persona, inventario, iluminación, agua y un ciclo de supervivencia compacto.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/one-shot-minecraft-style-world-2095597137849446688) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095576150743400453-video-af32f40d4a39.mp4) · [Publicación original](https://x.com/flavioAd/status/2095597137849446688) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/one-shot-minecraft-style-world-2095597137849446688) · [Ver vídeo ↗](https://media.tripogrowth.space/media/8a94a39a-9e96-4361-849f-65fadafda7c2.mp4) · [Publicación original](https://x.com/flavioAd/status/2095597137849446688) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -497,7 +1611,7 @@ Construye de una sola vez un mundo de vóxeles jugable inspirado en Minecraft, c
 Crea un juego 3D completo que funcione en el navegador como un proyecto autónomo. Incluye un objetivo claro, controles ágiles, niveles espacialmente coherentes, enemigos o peligros, respuestas visibles a las acciones, puntuación, reinicio y medidas para mantener el rendimiento.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/one-shot-browser-3d-game-2095599934766764338) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095599652796272640-video-19ead087387b.mp4) · [Publicación original](https://x.com/theo/status/2095599934766764338) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/one-shot-browser-3d-game-2095599934766764338) · [Ver vídeo ↗](https://media.tripogrowth.space/media/1d3c372a-5986-4ba5-b4f4-0a79c88dbe79.mp4) · [Publicación original](https://x.com/theo/status/2095599934766764338) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -515,7 +1629,7 @@ Crea un juego 3D completo que funcione en el navegador como un proyecto autónom
 Reconstruye la casa de la imagen proporcionada como una escena de Blender completamente editable. Modela la arquitectura, los muebles, los electrodomésticos y los juguetes como objetos independientes. Mantén proporciones verosímiles y permite recorrerla localmente con fluidez a 60 FPS.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095596412650283008-video-ba69ffc1845f.mp4) · [Publicación original](https://x.com/tomkrcha/status/2095598645190291775) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775) · [Ver vídeo ↗](https://media.tripogrowth.space/media/8390176b-5ea3-4bae-a6ed-60e406202184.mp4) · [Publicación original](https://x.com/tomkrcha/status/2095598645190291775) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -533,7 +1647,7 @@ Reconstruye la casa de la imagen proporcionada como una escena de Blender comple
 Utiliza el anuncio inmobiliario proporcionado y todas sus fotos para reconstruir la casa en 3D, deducir una distribución coherente y crear un vídeo promocional cuidado que la recorra. Señala la geometría incierta y corrige las discrepancias tras la primera versión.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095611898968547328-video-ac32ebda7148.mp4) · [Publicación original](https://x.com/realYunfanYe/status/2095612137582526615) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615) · [Ver vídeo ↗](https://media.tripogrowth.space/media/bafd6e1a-1775-492f-a1d7-5a4c702b937e.mp4) · [Publicación original](https://x.com/realYunfanYe/status/2095612137582526615) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -551,7 +1665,7 @@ Utiliza el anuncio inmobiliario proporcionado y todas sus fotos para reconstruir
 Reconstruye en Blender el dibujo proporcionado de un tren de vapor antiguo como un conjunto mecánico detallado. Conserva ruedas, ejes, suspensión, bielas, accesorios de la caldera y paneles de carrocería como objetos editables con nombre propio, con un nivel de detalle ajustable.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095754646069354497-video-61d8e4756cf0.mp4) · [Publicación original](https://x.com/tomkrcha/status/2095756085890310311) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Ver vídeo ↗](https://media.tripogrowth.space/media/7871ed9a-6960-4e54-a0b2-28328db65cd2.mp4) · [Publicación original](https://x.com/tomkrcha/status/2095756085890310311) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -569,7 +1683,7 @@ Reconstruye en Blender el dibujo proporcionado de un tren de vapor antiguo como 
 Convierte una descripción escenográfica del Despacho Oval en código ejecutable. Construye el espacio en Blender con mobiliario, paredes, iluminación y posiciones de cámara editables, y renderiza un resultado cinematográfico con Cycles.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095629993678344192-video-4ddc3c553b82.mp4) · [Publicación original](https://x.com/higgsfield_ai/status/2095630197257367857) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857) · [Ver vídeo ↗](https://media.tripogrowth.space/media/5e229b6c-ec0f-46d7-a549-2079a7c5c88b.mp4) · [Publicación original](https://x.com/higgsfield_ai/status/2095630197257367857) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -587,7 +1701,7 @@ Convierte una descripción escenográfica del Despacho Oval en código ejecutabl
 Recrea el Palacio de Bellas Artes de San Francisco en Blender: proporciones reconocibles de la rotonda, columnatas, laguna, vegetación, materiales envejecidos e iluminación cinematográfica que evoque el optimismo de las exposiciones universales.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095652923917361152-video-39313e3745d0.mp4) · [Publicación original](https://x.com/sharifshameem/status/2095653641164329143) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143) · [Ver vídeo ↗](https://media.tripogrowth.space/media/ed72fb9a-d881-4191-be5b-22e8b026b133.mp4) · [Publicación original](https://x.com/sharifshameem/status/2095653641164329143) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -605,7 +1719,7 @@ Recrea el Palacio de Bellas Artes de San Francisco en Blender: proporciones reco
 Convierte los seis cuadros de Van Gogh proporcionados en un pueblo coherente y transitable en Three.js. Conserva la paleta y el carácter de las pinceladas de cada cuadro mientras conectas calles, puntos de referencia y transiciones en un mundo explorable.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095776416302280708-video-abded525de38.mp4) · [Publicación original](https://x.com/petergostev/status/2095776685807346105) · [Demo en línea](https://van-goghs-town.surge.sh/) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Ver vídeo ↗](https://media.tripogrowth.space/media/7237d705-fdd2-42c5-a6cb-2f05617487f2.mp4) · [Publicación original](https://x.com/petergostev/status/2095776685807346105) · [Demo en línea](https://van-goghs-town.surge.sh/) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -623,7 +1737,7 @@ Convierte los seis cuadros de Van Gogh proporcionados en un pueblo coherente y t
 Ayúdame a crear un juego 3D. Pregunta solo por el objetivo del jugador, la dirección artística y los controles que falten. Después crea un juego de navegador que pueda probar de inmediato y sigue ajustándolo mediante instrucciones breves de voz.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095608290923425792-video-163f53a6c23f.mp4) · [Publicación original](https://x.com/EHuanglu/status/2095608358086840647) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647) · [Ver vídeo ↗](https://media.tripogrowth.space/media/6b86cc87-8f78-4485-a70f-81abef47cd65.mp4) · [Publicación original](https://x.com/EHuanglu/status/2095608358086840647) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -641,7 +1755,7 @@ Ayúdame a crear un juego 3D. Pregunta solo por el objetivo del jugador, la dire
 A partir del prototipo de carreras de karts de Unity proporcionado, crea tres variantes jugables: pirata, golosinas y ciberpunk. Reutiliza la conducción principal, cambia los entornos y las respuestas audiovisuales, prueba cada versión y corrige los fallos más visibles.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095580316710879232-video-b3f497eb07bb.mp4) · [Publicación original](https://x.com/chetaslua/status/2095580402505400369) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369) · [Ver vídeo ↗](https://media.tripogrowth.space/media/ccc73ad6-e449-4ca5-9b11-623057379c69.mp4) · [Publicación original](https://x.com/chetaslua/status/2095580402505400369) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -659,7 +1773,7 @@ A partir del prototipo de carreras de karts de Unity proporcionado, crea tres va
 Construye una aventura 3D de mundo abierto con varios biomas conectados, desplazamiento, descubrimientos, combates sencillos, misiones, lugares emblemáticos, ambiente diurno y nocturno y orientación suficiente para que explorar tenga sentido.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/open-world-browser-adventure-2095596341422440714) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095590957890797568-video-da104fbe8619.mp4) · [Publicación original](https://x.com/petergostev/status/2095596341422440714) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/open-world-browser-adventure-2095596341422440714) · [Ver vídeo ↗](https://media.tripogrowth.space/media/5de78672-9d15-4242-ae41-3e4102e17471.mp4) · [Publicación original](https://x.com/petergostev/status/2095596341422440714) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -677,7 +1791,7 @@ Construye una aventura 3D de mundo abierto con varios biomas conectados, desplaz
 Crea una herramienta de navegador que aplique diseños subidos por el usuario a maquetas de productos 3D fotorrealistas. Incluye cámara orbital, ajustes de materiales y colores, iluminación ambiental, varios productos y exportación en alta resolución.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095619198437240836-video-0980b9ee2b65.mp4) · [Publicación original](https://x.com/joshmillgate/status/2095619319690400253) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253) · [Ver vídeo ↗](https://media.tripogrowth.space/media/05cc6b77-be18-49fd-a6c7-6b330a8d2903.mp4) · [Publicación original](https://x.com/joshmillgate/status/2095619319690400253) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -695,7 +1809,7 @@ Crea una herramienta de navegador que aplique diseños subidos por el usuario a 
 Usa la imagen de referencia proporcionada para crear un juego de acuario 3D completo de una sola vez. Reconstruye la composición de la pecera, anima los peces y añade alimentación, coleccionismo, efectos de agua, controles de cámara y un objetivo claro.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/reference-image-3d-aquarium-game-2095611134992945385) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095610918570958848-video-154a5abed1ba.mp4) · [Publicación original](https://x.com/TimJayas/status/2095611134992945385) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/reference-image-3d-aquarium-game-2095611134992945385) · [Ver vídeo ↗](https://media.tripogrowth.space/media/b9b6186b-3a7c-47f6-9c6f-63d72bc5045f.mp4) · [Publicación original](https://x.com/TimJayas/status/2095611134992945385) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -713,7 +1827,7 @@ Usa la imagen de referencia proporcionada para crear un juego de acuario 3D comp
 Construye un juego 3D jugable en tiempo real a partir de un único prompt. Define una mecánica principal compacta, un objetivo claro y una historia breve. Después genera la escena, los personajes, los objetos, las respuestas a las acciones y el estado de reinicio para poder jugar de inmediato.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/single-playable-real-time-3d-game-2095647685210669541) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095639396385198080-video-2439075a6fef.mp4) · [Publicación original](https://x.com/higgsfield/status/2095647685210669541) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/single-playable-real-time-3d-game-2095647685210669541) · [Ver vídeo ↗](https://media.tripogrowth.space/media/7470411d-ec4d-41b9-9b6c-1c1716401a05.mp4) · [Publicación original](https://x.com/higgsfield/status/2095647685210669541) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -731,7 +1845,7 @@ Construye un juego 3D jugable en tiempo real a partir de un único prompt. Defin
 Crea una batalla naval detallada en Three.js en un solo turno. Incluye varios barcos diferenciados, interacción convincente con el agua, estelas y salpicaduras, acción aérea, explosiones, iluminación cinematográfica, movimiento de cámara y renderizado optimizado.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095839735818412033-video-7ded403f2fb9.mp4) · [Publicación original](https://x.com/synthwavedd/status/2095840435319001278) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278) · [Ver vídeo ↗](https://media.tripogrowth.space/media/67418d75-6deb-4b64-9e74-376ecada6634.mp4) · [Publicación original](https://x.com/synthwavedd/status/2095840435319001278) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -749,7 +1863,7 @@ Crea una batalla naval detallada en Three.js en un solo turno. Incluye varios ba
 Construye un shooter multijugador por equipos de 10 contra 10 inspirado en los FPS clásicos de ciencia ficción. Incluye equipos, reapariciones, armas fáciles de distinguir, escudos, objetos recogibles, mapas compactos, puntuación, desarrollo de las partidas y juego en navegador con baja latencia.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095597293734895622-video-abe5a7cfbbd9.mp4) · [Publicación original](https://x.com/VikiingAI/status/2095598026916049024) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024) · [Ver vídeo ↗](https://media.tripogrowth.space/media/674a4a61-cff0-48b0-90d4-f6185ffef514.mp4) · [Publicación original](https://x.com/VikiingAI/status/2095598026916049024) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -767,7 +1881,7 @@ Construye un shooter multijugador por equipos de 10 contra 10 inspirado en los F
 Construye una maqueta ferroviaria detallada de vóxeles en Three.js. Permite arrancar y detener varios trenes, cambiar las vías, girar y acercar la cámara, examinar pueblos en miniatura y activar pequeñas animaciones del entorno.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-voxel-railway-table-2095719731860750613) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095719136571629573-video-a0540558f73b.mp4) · [Publicación original](https://x.com/DeryaTR_/status/2095719731860750613) · [Demo en línea](https://lindenhafen-railway.vercel.app/) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-voxel-railway-table-2095719731860750613) · [Ver vídeo ↗](https://media.tripogrowth.space/media/43af78b3-d720-48b2-b157-5c425fffc479.mp4) · [Publicación original](https://x.com/DeryaTR_/status/2095719731860750613) · [Demo en línea](https://lindenhafen-railway.vercel.app/) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -785,7 +1899,7 @@ Construye una maqueta ferroviaria detallada de vóxeles en Three.js. Permite arr
 Crea un barco de vóxeles detallado del siglo XVII que navegue dentro de una botella de cristal. Simula el oleaje y el movimiento del barco, añade gaviotas en vuelo, un puerto en miniatura y arrecifes de coral, y produce una secuencia de cámara cinematográfica con una banda sonora tranquila.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095698775075622912-video-e275aa332ebb.mp4) · [Publicación original](https://x.com/DeryaTR_/status/2095699049722581065) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065) · [Ver vídeo ↗](https://media.tripogrowth.space/media/6b2186d0-0037-4a22-a816-ad3cdbab8852.mp4) · [Publicación original](https://x.com/DeryaTR_/status/2095699049722581065) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -803,7 +1917,7 @@ Crea un barco de vóxeles detallado del siglo XVII que navegue dentro de una bot
 Diseña en CAD un homenaje original a la USS Enterprise NCC-1701 preparado para impresión. Incluye proporciones reconocibles, un puente de mando y algunos interiores, al menos 28 piezas móviles funcionales, conjuntos separados y archivos de fabricación exportables.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095640960680243200-video-272db069f601.mp4) · [Publicación original](https://x.com/DeryaTR_/status/2095641163441254676) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676) · [Ver vídeo ↗](https://media.tripogrowth.space/media/8301258f-ee2b-457c-9e62-7810da40f0b2.mp4) · [Publicación original](https://x.com/DeryaTR_/status/2095641163441254676) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -821,7 +1935,7 @@ Diseña en CAD un homenaje original a la USS Enterprise NCC-1701 preparado para 
 Recrea en Unity la sensación de una incursión espacial clásica por una trinchera, con vuelo rápido a baja altura, disparos de torretas, obstáculos, apuntado, dificultad creciente, un objetivo final y una secuencia cinematográfica de éxito o fracaso.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/unity-space-trench-run-game-2095630044102279312) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2067003685574483968-video-f9b57b7e0d54.mp4) · [Publicación original](https://x.com/ronaldmannak/status/2095630044102279312) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/unity-space-trench-run-game-2095630044102279312) · [Ver vídeo ↗](https://media.tripogrowth.space/media/13862343-c8da-4870-9d79-d6382edd0094.mp4) · [Publicación original](https://x.com/ronaldmannak/status/2095630044102279312) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -839,7 +1953,7 @@ Recrea en Unity la sensación de una incursión espacial clásica por una trinch
 Genera un gran castillo de vóxeles con líneas defensivas claras, torres, murallas, puertas, patios y terreno circundante. Usa instancias, cámara orbital, luz cambiante y generación determinista para obtener un resultado estable que se pueda examinar.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/procedural-voxel-castle-showcase-2093690427849191855) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2093690174018330624-video-184f0db40faf.mp4) · [Publicación original](https://x.com/hakmgpt/status/2093690427849191855) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/procedural-voxel-castle-showcase-2093690427849191855) · [Ver vídeo ↗](https://media.tripogrowth.space/media/c08e574a-509d-4726-a031-a6b1dfa1afa7.mp4) · [Publicación original](https://x.com/hakmgpt/status/2093690427849191855) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -857,7 +1971,7 @@ Genera un gran castillo de vóxeles con líneas defensivas claras, torres, mural
 Monta una ciudad explorable en Unity con la biblioteca de recursos proporcionada. Crea una red de carreteras coherente, torres, vehículos, palmeras, iluminación y navegación. Después optimiza la escena y ofrece un recorrido estable en primera persona.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095597547717029888-video-fda40533e887.mp4) · [Publicación original](https://x.com/chetaslua/status/2095597640587374887) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887) · [Ver vídeo ↗](https://media.tripogrowth.space/media/e1a8dc78-ce82-4e49-a34e-919f3a6aedf8.mp4) · [Publicación original](https://x.com/chetaslua/status/2095597640587374887) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -875,7 +1989,7 @@ Monta una ciudad explorable en Unity con la biblioteca de recursos proporcionada
 Modela una locomotora de vapor en Blender como un despiece mecánico real, no como una carcasa con texturas. Separa y nombra los ejes, las guías de las cajas de grasa, las cajas de cojinetes, los tirantes, los enlaces de suspensión, el domo de vapor y todos los conjuntos principales.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095868324701700098-video-0cc691c80738.mp4) · [Publicación original](https://x.com/sheemamoto/status/2095868420327710840) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840) · [Ver vídeo ↗](https://media.tripogrowth.space/media/aa831296-8079-49df-930a-ded80375a717.mp4) · [Publicación original](https://x.com/sheemamoto/status/2095868420327710840) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -893,7 +2007,7 @@ Modela una locomotora de vapor en Blender como un despiece mecánico real, no co
 Construye un juego completo de carreras de karts en el navegador, con ocho pilotos, tres vueltas, derrapes, objetos recogibles, físicas ágiles, un HUD claro, gráficos atractivos y una pantalla de resultados al terminar.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095817928524599296-video-68a8b3595841.mp4) · [Publicación original](https://x.com/amazing13_13/status/2095819786651374023) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023) · [Ver vídeo ↗](https://media.tripogrowth.space/media/b33c3448-65d3-4029-b1a3-8d257426a7c8.mp4) · [Publicación original](https://x.com/amazing13_13/status/2095819786651374023) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -911,7 +2025,7 @@ Construye un juego completo de carreras de karts en el navegador, con ocho pilot
 Analiza el lenguaje visual de la cabecera galáctica proporcionada y reprodúcelo con WebGL en tiempo real, no con vídeo. Usa partículas con profundidad, polvo luminoso, respuesta suave al puntero, espacio despejado para la tipografía y rendimiento adaptable.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095804250420879360-video-dc96ce63180f.mp4) · [Publicación original](https://x.com/Fluxora_Studios/status/2095805694603673631) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631) · [Ver vídeo ↗](https://media.tripogrowth.space/media/558e9df7-a90e-4b83-a9db-d5e13d3d8714.mp4) · [Publicación original](https://x.com/Fluxora_Studios/status/2095805694603673631) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -929,7 +2043,7 @@ Analiza el lenguaje visual de la cabecera galáctica proporcionada y reprodúcel
 Construye un juego arcade que se juegue solo para un país del G7. Convierte un referente cultural reconocible en la mecánica principal, haz que la acción se entienda sin intervenir y añade puntuación, dificultad creciente y una revelación memorable.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095897987142791169-video-f889a9dbf887.mp4) · [Publicación original](https://x.com/say_gm_/status/2095898198413922791) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791) · [Ver vídeo ↗](https://media.tripogrowth.space/media/09604047-b292-49de-85a9-7a93ba31c630.mp4) · [Publicación original](https://x.com/say_gm_/status/2095898198413922791) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -947,7 +2061,7 @@ Construye un juego arcade que se juegue solo para un país del G7. Convierte un 
 Diseña e implementa en una sola pasada un prototipo interactivo de gran calidad a partir del concepto de producto proporcionado. Elige un sistema visual sólido, prioriza la acción principal, añade transiciones cuidadas y entrega una versión adaptable alojada en la web.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095596408040468483-video-09e9e1639c30.mp4) · [Publicación original](https://x.com/AY_Orbach/status/2095597560253862065) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065) · [Ver vídeo ↗](https://media.tripogrowth.space/media/6b601cb7-f39f-4daa-9fa1-014545dee978.mp4) · [Publicación original](https://x.com/AY_Orbach/status/2095597560253862065) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -965,7 +2079,7 @@ Diseña e implementa en una sola pasada un prototipo interactivo de gran calidad
 Construye un turbocompresor 3D interactivo. Separa todos sus sistemas de funcionamiento. Déjame girarlo, aislar piezas y ver qué está haciendo realmente la máquina.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095769948190801920-video-b6c916167d68.mp4) · [Publicación original](https://x.com/Feraser8/status/2095776712579571725) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725) · [Ver vídeo ↗](https://media.tripogrowth.space/media/9eba257a-6432-48e8-bc77-d7382803e7ea.mp4) · [Publicación original](https://x.com/Feraser8/status/2095776712579571725) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -983,7 +2097,7 @@ Construye un turbocompresor 3D interactivo. Separa todos sus sistemas de funcion
 Crea de una sola vez un juego original en Three.js que merezca el título «Amaze». Elige una mecánica visual sorprendente, enséñala en segundos, construye una progresión breve y termina con un espectáculo satisfactorio.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095663390886912001-video-84fe550dddf8.mp4) · [Publicación original](https://x.com/pratt_builds/status/2095663498101662198) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198) · [Ver vídeo ↗](https://media.tripogrowth.space/media/c3ff0504-2d4f-454a-8545-3e4700c9cd58.mp4) · [Publicación original](https://x.com/pratt_builds/status/2095663498101662198) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1001,7 +2115,7 @@ Crea de una sola vez un juego original en Three.js que merezca el título «Amaz
 Crea un prototipo de juego visualmente coherente con límites estrictos de tiempo y tokens. Prioriza un ciclo de juego completo, controles ágiles, respuestas claras, rendimiento estable y una versión de navegador lista para compartir por encima del número de funciones.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/rapid-playable-game-prototype-2095907526566990013) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095907053655248897-video-e9b0bdbb4b6c.mp4) · [Publicación original](https://x.com/gibglue/status/2095907526566990013) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/rapid-playable-game-prototype-2095907526566990013) · [Ver vídeo ↗](https://media.tripogrowth.space/media/447264f3-cca1-4f4f-b2b7-fe107b6f8852.mp4) · [Publicación original](https://x.com/gibglue/status/2095907526566990013) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1019,7 +2133,7 @@ Crea un prototipo de juego visualmente coherente con límites estrictos de tiemp
 Construye un juego de mundo abierto a partir de este concepto: [premisa del mundo]. Incluye tres regiones distintas, desplazamiento, encuentros dinámicos, una cadena sencilla de misiones, lugares emblemáticos, guardado y reinicio, y optimización suficiente para funcionar en el navegador.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/open-world-game-from-a-prompt-2095872986477908108) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095872181087670272-video-b49ed9994d6c.mp4) · [Publicación original](https://x.com/aeejazkhan/status/2095872986477908108) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/open-world-game-from-a-prompt-2095872986477908108) · [Ver vídeo ↗](https://media.tripogrowth.space/media/c311c829-c3f9-491a-84a2-b99053b3f08e.mp4) · [Publicación original](https://x.com/aeejazkhan/status/2095872986477908108) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1037,7 +2151,7 @@ Construye un juego de mundo abierto a partir de este concepto: [premisa del mund
 Crea una cabecera de lanzamiento de gran calidad alrededor de una galaxia en tiempo real en Three.js. Haz que las partículas dibujen sutilmente el número seis y respondan al desplazamiento y al puntero. Mantén la legibilidad del texto y reduce los efectos de forma gradual en dispositivos menos potentes.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095802938845470720-video-2b838b3fe64c.mp4) · [Publicación original](https://x.com/threejsresource/status/2095806515579879457) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457) · [Ver vídeo ↗](https://media.tripogrowth.space/media/22e664cb-4772-46cb-a92c-28661cf28a0f.mp4) · [Publicación original](https://x.com/threejsresource/status/2095806515579879457) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1055,7 +2169,7 @@ Crea una cabecera de lanzamiento de gran calidad alrededor de una galaxia en tie
 Crea en Blender un dormitorio ciberpunk cinematográfico con vistas nocturnas a una ciudad de neón bajo la lluvia. Añade anuncios animados y consigue un aspecto fotorrealista con un bucle perfecto.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095898263429775360-video-bfa98177286e.mp4) · [Publicación original](https://x.com/CoinSh0t/status/2095898303019856230) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [Ver vídeo ↗](https://media.tripogrowth.space/media/79390b8b-8240-48b8-8bff-3beba4524605.mp4) · [Publicación original](https://x.com/CoinSh0t/status/2095898303019856230) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1073,7 +2187,7 @@ Crea en Blender un dormitorio ciberpunk cinematográfico con vistas nocturnas a 
 Crea un pueblo transitable en Three.js inspirado en Van Gogh. Convierte calles pintadas, estrellas, cafés y campos en espacios 3D por capas, manteniendo vivas las pinceladas mediante shaders, texturas y luz animada.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/van-gogh-town-in-three-js-2095871735824339279) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095776416302280708-video-abded525de38.mp4) · [Publicación original](https://x.com/RealFedeURU/status/2095871735824339279) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/van-gogh-town-in-three-js-2095871735824339279) · [Ver vídeo ↗](https://media.tripogrowth.space/media/7237d705-fdd2-42c5-a6cb-2f05617487f2.mp4) · [Publicación original](https://x.com/RealFedeURU/status/2095871735824339279) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1091,7 +2205,7 @@ Crea un pueblo transitable en Three.js inspirado en Van Gogh. Convierte calles p
 Combina seis cuadros de Van Gogh en un pueblo explorable donde los visitantes puedan pasear por las calles de La noche estrellada. Diseña pasos naturales entre los cuadros, mantén una escala coherente y añade interacciones ambientales suaves.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095804813997182976-video-4db160ec3b48.mp4) · [Publicación original](https://x.com/BigRyan/status/2095805115580199372) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372) · [Ver vídeo ↗](https://media.tripogrowth.space/media/57a3c8f6-436e-4cf8-b014-7c6eaa7c5039.mp4) · [Publicación original](https://x.com/BigRyan/status/2095805115580199372) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1109,7 +2223,7 @@ Combina seis cuadros de Van Gogh en un pueblo explorable donde los visitantes pu
 Reconstruye una maqueta de trenes de la infancia como un juguete táctil en Three.js, con vías y material rodante de vóxeles. Permite conducir los trenes, cambiar los desvíos, girar alrededor de la mesa y descubrir escenas animadas en miniatura.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095742030609846272-video-0732b341a55a.mp4) · [Publicación original](https://x.com/BigRyan/status/2095742344293454148) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [Ver vídeo ↗](https://media.tripogrowth.space/media/f2aa8ec0-9eb0-4bb0-9f0e-0641914f6ef3.mp4) · [Publicación original](https://x.com/BigRyan/status/2095742344293454148) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1127,7 +2241,7 @@ Reconstruye una maqueta de trenes de la infancia como un juguete táctil en Thre
 Convierte la visión de ciudad proporcionada en un entorno explorable en Unity, con torres, carreteras, vehículos, palmeras e iluminación ambiental. Establece una escala creíble, navegación, tráfico en movimiento y una cámara fluida en primera persona.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/text-to-explorable-unity-city-2095623452678144366) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095597547717029888-video-fda40533e887.mp4) · [Publicación original](https://x.com/0x0SojalSec/status/2095623452678144366) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/text-to-explorable-unity-city-2095623452678144366) · [Ver vídeo ↗](https://media.tripogrowth.space/media/e1a8dc78-ce82-4e49-a34e-919f3a6aedf8.mp4) · [Publicación original](https://x.com/0x0SojalSec/status/2095623452678144366) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1145,7 +2259,7 @@ Convierte la visión de ciudad proporcionada en un entorno explorable en Unity, 
 A partir de la imagen de referencia proporcionada, construye un juego de acuario 3D con un solo prompt. Reproduce la distribución y el ambiente, añade peces con comportamientos vivos, cáusticas en el agua, controles orbitales y un pequeño ciclo de interacción que sirva para comparar resultados entre modelos.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/single-aquarium-benchmark-2095650251902239139) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095610918570958848-video-154a5abed1ba.mp4) · [Publicación original](https://x.com/iamtonyzhu/status/2095650251902239139) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/single-aquarium-benchmark-2095650251902239139) · [Ver vídeo ↗](https://media.tripogrowth.space/media/b9b6186b-3a7c-47f6-9c6f-63d72bc5045f.mp4) · [Publicación original](https://x.com/iamtonyzhu/status/2095650251902239139) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1163,7 +2277,7 @@ A partir de la imagen de referencia proporcionada, construye un juego de acuario
 Convierte el plano proporcionado en un recorrido arquitectónico 3D completo. Respeta las dimensiones de las habitaciones y las zonas de paso; añade puertas, ventanas, muebles, materiales e iluminación. Crea después un recorrido de cámara que permita entender la distribución.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095628000180232192-video-d8d0e43283da.mp4) · [Publicación original](https://x.com/aidarosgo3/status/2095725404883476661) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [Ver vídeo ↗](https://media.tripogrowth.space/media/d1632bc5-92e0-4901-a8e7-30c6c396e6ce.mp4) · [Publicación original](https://x.com/aidarosgo3/status/2095725404883476661) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1181,7 +2295,7 @@ Convierte el plano proporcionado en un recorrido arquitectónico 3D completo. Re
 Reconstruye la casa real proporcionada como una escena de Blender completamente editable. Mantén separados los elementos arquitectónicos y el mobiliario, optimiza la geometría y los materiales y entrega un recorrido renderizado localmente que mantenga 60 FPS.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095730824343879680-video-dca4aaab2d86.mp4) · [Publicación original](https://x.com/alvinfoo/status/2095777502681825541) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [Ver vídeo ↗](https://media.tripogrowth.space/media/95d8e372-fde7-4d75-9ec1-8e38b507c6f6.mp4) · [Publicación original](https://x.com/alvinfoo/status/2095777502681825541) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1199,7 +2313,7 @@ Reconstruye la casa real proporcionada como una escena de Blender completamente 
 Construye un juego arcade completo de carreras callejeras en el navegador a partir de una frase. Implementa derrapes satisfactorios, puntuación por combos, bonificaciones por esquivar por poco, radares de velocidad, nitro, tráfico, un HUD legible y un circuito breve que invite a repetir.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095915630633603074-video-ba5f5143a657.mp4) · [Publicación original](https://x.com/higgsfield_ai/status/2095916820431827408) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [Ver vídeo ↗](https://media.tripogrowth.space/media/bf1f5839-af07-4cd9-847f-68d2ac0871e4.mp4) · [Publicación original](https://x.com/higgsfield_ai/status/2095916820431827408) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1217,7 +2331,7 @@ Construye un juego arcade completo de carreras callejeras en el navegador a part
 Construye una previsualización 3D de un museo que sitúe el espacio, a los actores, las posiciones de cámara y la lista de planos. Mantén cada montaje dentro del visor físico y exporta guías coherentes para la posterior generación de vídeo.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095616375641583617-video-3ba498f1c2cf.mp4) · [Publicación original](https://x.com/higgsfield_ai/status/2095616529572503593) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593) · [Ver vídeo ↗](https://media.tripogrowth.space/media/bfa953d8-3bc1-416a-914d-6a82f7e0899f.mp4) · [Publicación original](https://x.com/higgsfield_ai/status/2095616529572503593) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1235,7 +2349,7 @@ Construye una previsualización 3D de un museo que sitúe el espacio, a los acto
 Construye una demostración interactiva de [producto] de 15 segundos, pensada primero para móviles. Permite probar la función principal con un gesto, responde de inmediato en 3D y termina con una llamada clara a «Obtener acceso completo». Usa un formato vertical 9:16 y conserva los colores de la marca.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/playable-15-second-product-demo-ad-2095695603808309497) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095639396385198080-video-9cb15dd700f3.mp4) · [Publicación original](https://x.com/zackpaid/status/2095695603808309497) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/playable-15-second-product-demo-ad-2095695603808309497) · [Ver vídeo ↗](https://media.tripogrowth.space/media/22322712-3e16-43a7-ab29-02102c4cb447.mp4) · [Publicación original](https://x.com/zackpaid/status/2095695603808309497) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1253,7 +2367,7 @@ Construye una demostración interactiva de [producto] de 15 segundos, pensada pr
 Parte del plano arquitectónico proporcionado, crea un modelo preciso y editable en Blender y transfiérelo a Unreal Engine como una experiencia arquitectónica iluminada y transitable, con escala y colisiones correctas.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095596669320810496-video-039b2a1b1ef0.mp4) · [Publicación original](https://x.com/LinusEkenstam/status/2095624712244072551) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551) · [Ver vídeo ↗](https://media.tripogrowth.space/media/27d285ca-fad5-4654-856b-10d8aaaf7129.mp4) · [Publicación original](https://x.com/LinusEkenstam/status/2095624712244072551) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1271,7 +2385,7 @@ Parte del plano arquitectónico proporcionado, crea un modelo preciso y editable
 Crea una villa moderna transitable en el bosque llamada Solace, con tres dormitorios, despacho, patio central, piscina y arboleda alrededor. Constrúyela de forma procedural en Blender, renderiza imágenes durante la hora dorada y exporta un recorrido en UE5 a 60 FPS.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095596669320810496-video-039b2a1b1ef0.mp4) · [Publicación original](https://x.com/NFT_Chen/status/2095752726886105375) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [Ver vídeo ↗](https://media.tripogrowth.space/media/27d285ca-fad5-4654-856b-10d8aaaf7129.mp4) · [Publicación original](https://x.com/NFT_Chen/status/2095752726886105375) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1289,7 +2403,7 @@ Crea una villa moderna transitable en el bosque llamada Solace, con tres dormito
 Construye una escena coherente en Blender con un límite de tiempo extremo. Prioriza una silueta potente, tres planos de profundidad, un material protagonista, iluminación cinematográfica y una composición lista para cámara. Deja todos los objetos editables.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095844222733893632-video-60938d617c9c.mp4) · [Publicación original](https://x.com/_satyam_ai/status/2095844872171421771) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [Ver vídeo ↗](https://media.tripogrowth.space/media/dc7eab47-cc21-44ff-88ec-fc90214aff12.mp4) · [Publicación original](https://x.com/_satyam_ai/status/2095844872171421771) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1307,7 +2421,7 @@ Construye una escena coherente en Blender con un límite de tiempo extremo. Prio
 Crea una máquina de Rube Goldberg en un archivo HTML autónomo con Three.js. Usa una secuencia de interacciones mecánicas que termine pulsando un botón y provocando una explosión teatral.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095980472887308288-video-adeb46729f34.mp4) · [Publicación original](https://x.com/thehypedotnews/status/2095980885732704629) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629) · [Ver vídeo ↗](https://media.tripogrowth.space/media/b0e178fc-2a39-440b-a27b-a353951c1e13.mp4) · [Publicación original](https://x.com/thehypedotnews/status/2095980885732704629) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1325,7 +2439,7 @@ Crea una máquina de Rube Goldberg en un archivo HTML autónomo con Three.js. Us
 Recrea el Taj Mahal como una escena 3D explorable. Prioriza las proporciones reconocibles, los jardines simétricos, la cúpula central, los minaretes y la relación entre edificios.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/explorable-taj-mahal-2096035962824335798) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096030438963970048-video-bec575b41c1e.mp4) · [Publicación original](https://x.com/vikassabbi/status/2096035962824335798) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/explorable-taj-mahal-2096035962824335798) · [Ver vídeo ↗](https://media.tripogrowth.space/media/068531eb-56bc-4dc4-b4fe-63b6c51892ce.mp4) · [Publicación original](https://x.com/vikassabbi/status/2096035962824335798) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1343,7 +2457,7 @@ Recrea el Taj Mahal como una escena 3D explorable. Prioriza las proporciones rec
 Construye una simulación de encuentro orbital en tiempo real con propagación de dos cuerpos en coordenadas ECI y guiado HCW. Incluye orientación de seis grados de libertad, consumo de combustible, límites de fuerza y un objetivo de acoplamiento.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/orbital-rendezvous-simulator-2096225621303042258) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096224812020690944-video-9e1b5e9a36f6.mp4) · [Publicación original](https://x.com/AlicanKiraz0/status/2096225621303042258) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/orbital-rendezvous-simulator-2096225621303042258) · [Ver vídeo ↗](https://media.tripogrowth.space/media/de95a497-4613-4840-8a19-0cabb30ab3c4.mp4) · [Publicación original](https://x.com/AlicanKiraz0/status/2096225621303042258) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1397,7 +2511,7 @@ Reconstruye un taladro eléctrico en Blender a partir de una única vista de ref
 Construye un juego 3D de tirachinas con cuatro pájaros y poderes especiales distintos. Incluye controles de apuntar y soltar, estructuras destructibles y un ciclo de puntuación que invite a volver a jugar.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/3d-slingshot-bird-game-2095981655370666076) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095981423538958336-video-fc54301bee6a.mp4) · [Publicación original](https://x.com/MozeTech/status/2095981655370666076) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/3d-slingshot-bird-game-2095981655370666076) · [Ver vídeo ↗](https://media.tripogrowth.space/media/c7cfc2d2-abc8-454a-aa73-c75243fad4c5.mp4) · [Publicación original](https://x.com/MozeTech/status/2095981655370666076) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1415,7 +2529,7 @@ Construye un juego 3D de tirachinas con cuatro pájaros y poderes especiales dis
 Construye un shooter en tercera persona en Three.js inspirado en Max Payne. Céntrate en la acción a cámara lenta, los disparos ágiles y una escena jugable con una cámara de seguimiento eficaz.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/bullet-time-third-person-shooter-2095962376344309843) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095962176804753408-video-ab7d330a7c99.mp4) · [Publicación original](https://x.com/HangoutWHAndrei/status/2095962376344309843) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/bullet-time-third-person-shooter-2095962376344309843) · [Ver vídeo ↗](https://media.tripogrowth.space/media/50742542-9359-4055-8d1a-5d4e5ffa780b.mp4) · [Publicación original](https://x.com/HangoutWHAndrei/status/2095962376344309843) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1433,7 +2547,7 @@ Construye un shooter en tercera persona en Three.js inspirado en Max Payne. Cén
 Crea una gelatina de aspecto delicioso y elástico con Three.js y WebGPU. Haz que se deforme y recupere su forma de manera natural al interactuar, con un material translúcido e iluminación clara.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/bouncy-webgpu-jelly-2096008241104711698) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096007734642552835-video-7ebd768021af.mp4) · [Publicación original](https://x.com/scottstts/status/2096008241104711698) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/bouncy-webgpu-jelly-2096008241104711698) · [Ver vídeo ↗](https://media.tripogrowth.space/media/1c564ed6-a9a5-409d-a440-e2b0ccb0c432.mp4) · [Publicación original](https://x.com/scottstts/status/2096008241104711698) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1451,7 +2565,7 @@ Crea una gelatina de aspecto delicioso y elástico con Three.js y WebGPU. Haz qu
 Construye un mando de PlayStation 5 que se pueda examinar en Three.js, con silueta reconocible, botones, gatillos, palancas analógicas y materiales de superficie diferenciados.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-ps5-controller-2095967131573649552) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095967014825160710-video-4ca1b8f7fd8a.mp4) · [Publicación original](https://x.com/blueemi99/status/2095967131573649552) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-ps5-controller-2095967131573649552) · [Ver vídeo ↗](https://media.tripogrowth.space/media/b94cae64-35ef-41b7-a2a4-160c4a4979cf.mp4) · [Publicación original](https://x.com/blueemi99/status/2095967131573649552) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1469,7 +2583,7 @@ Construye un mando de PlayStation 5 que se pueda examinar en Three.js, con silue
 Construye un shooter de navegador en Three.js inspirado en World at War. Crea un campo de batalla completo y jugable con combate ágil, audio espacial, personajes y desarrollo completo de las partidas.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/astral-war-browser-shooter-2096079660605997264) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096062838892814336-video-8f7d4c8188bb.mp4) · [Publicación original](https://x.com/0xRishi/status/2096079660605997264) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/astral-war-browser-shooter-2096079660605997264) · [Ver vídeo ↗](https://media.tripogrowth.space/media/348300b8-8ead-4483-b038-9bfa0b67f9ae.mp4) · [Publicación original](https://x.com/0xRishi/status/2096079660605997264) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1505,7 +2619,7 @@ Usa un esquema en PDF para revisar un circuito en KiCad, trazar una PCB de dos c
 Crea un juego 3D de vuelo completo en el navegador desde un proyecto vacío. Incluye vuelo controlable, un entorno navegable, un objetivo claro y una presentación coherente.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/browser-flight-game-2096149823216898445) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096149593037889536-video-7d3f77669fb5.mp4) · [Publicación original](https://x.com/givros/status/2096149823216898445) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/browser-flight-game-2096149823216898445) · [Ver vídeo ↗](https://media.tripogrowth.space/media/07f03d8a-fcce-4d77-a744-2fd3b8a2cccc.mp4) · [Publicación original](https://x.com/givros/status/2096149823216898445) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1523,7 +2637,7 @@ Crea un juego 3D de vuelo completo en el navegador desde un proyecto vacío. Inc
 Reconstruye a partir de una imagen de referencia un panel de datos con globo terráqueo 3D en Three.js. Incluye modos diurno y nocturno, datos geográficos legibles y controles funcionales que coincidan con la referencia.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-globe-dashboard-2096082432197837065) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096082301176164361-video-1f5957451d5a.mp4) · [Publicación original](https://x.com/hqmank/status/2096082432197837065) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-globe-dashboard-2096082432197837065) · [Ver vídeo ↗](https://media.tripogrowth.space/media/fd0b72cb-ae49-4124-bb02-6a25bb8b4ad4.mp4) · [Publicación original](https://x.com/hqmank/status/2096082432197837065) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1541,7 +2655,7 @@ Reconstruye a partir de una imagen de referencia un panel de datos con globo ter
 Crea un modelo editable de la torre Azadi en Blender, prestando atención a su base ensanchada, los arcos que se cruzan, las superficies con patrones y sus proporciones reconocibles.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/azadi-tower-in-blender-2096107322536051057) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096107229338636288-video-bfeb987de96b.mp4) · [Publicación original](https://x.com/taesiri/status/2096107322536051057) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/azadi-tower-in-blender-2096107322536051057) · [Ver vídeo ↗](https://media.tripogrowth.space/media/3b8ab8f6-58ab-4e7c-ae12-dd64b7e3ca64.mp4) · [Publicación original](https://x.com/taesiri/status/2096107322536051057) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1559,7 +2673,7 @@ Crea un modelo editable de la torre Azadi en Blender, prestando atención a su b
 Convierte la imagen de referencia proporcionada en una escena de Three.js dentro de una web de estudio con desplazamiento fluido. Coordina el movimiento de cámara, la tipografía y las transiciones entre secciones.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096245656314589184-video-1bb14795b8f2.mp4) · [Publicación original](https://x.com/mx_debbiee/status/2096245759121277132) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [Ver vídeo ↗](https://media.tripogrowth.space/media/eb879819-4641-46d1-9f57-d76246f72e1f.mp4) · [Publicación original](https://x.com/mx_debbiee/status/2096245759121277132) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1577,7 +2691,7 @@ Convierte la imagen de referencia proporcionada en una escena de Three.js dentro
 Construye un juego 3D de kayak por un río con estética inspirada en el anime. Permite remar a izquierda y derecha para evitar obstáculos, con agua que fluya, paisaje, música y efectos sonoros generados mediante código.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096235513309229056-video-0e12d9df3ce8.mp4) · [Publicación original](https://x.com/ItsmeAjayKV/status/2096244208533455049) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [Ver vídeo ↗](https://media.tripogrowth.space/media/3d070a0f-c280-42f4-8aec-3c367187c1f0.mp4) · [Publicación original](https://x.com/ItsmeAjayKV/status/2096244208533455049) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1595,7 +2709,7 @@ Construye un juego 3D de kayak por un río con estética inspirada en el anime. 
 Construye una web interactiva de producto alrededor de una botella de cristal WebGL fotorrealista. Usa líquido refractante, rotación guiada por el desplazamiento y tipografía contundente sin comprometer el rendimiento del navegador.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096243753367592960-video-2ccb4eb4135b.mp4) · [Publicación original](https://x.com/himanshubuildss/status/2096243989439713677) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [Ver vídeo ↗](https://media.tripogrowth.space/media/410ec6df-40c5-464a-8b75-0ab12c165d2e.mp4) · [Publicación original](https://x.com/himanshubuildss/status/2096243989439713677) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1613,7 +2727,7 @@ Construye una web interactiva de producto alrededor de una botella de cristal We
 Genera dos trenes directamente en Three.js mediante dimensiones, perfiles y funciones geométricas. Anima las ruedas y ofrece una secuencia de vista explosionada y posterior montaje.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096080925239185408-video-effe135e70ba.mp4) · [Publicación original](https://x.com/tomkrcha/status/2096082580554777041) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041) · [Ver vídeo ↗](https://media.tripogrowth.space/media/eadc2873-fc22-489e-b74e-daf84f72db0f.mp4) · [Publicación original](https://x.com/tomkrcha/status/2096082580554777041) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1631,7 +2745,7 @@ Genera dos trenes directamente en Three.js mediante dimensiones, perfiles y func
 Construye una sala de juegos acogedora en Three.js donde un niño pequeño pase de un juguete a otro y use cada uno con una animación distinta. Incluye alfombra de juegos, libros, estanterías y estructuras para trepar, con controles de órbita y zoom.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/a-playful-toddler-toy-world-2096201415051911597) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096046840546549761-video-d523bff80007.mp4) · [Publicación original](https://x.com/aehyok/status/2096201415051911597) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/a-playful-toddler-toy-world-2096201415051911597) · [Ver vídeo ↗](https://media.tripogrowth.space/media/2913f4b6-d955-4726-91d0-e0fcebab07ec.mp4) · [Publicación original](https://x.com/aehyok/status/2096201415051911597) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1649,7 +2763,7 @@ Construye una sala de juegos acogedora en Three.js donde un niño pequeño pase 
 Investiga la fabricación de aeronaves y construye una simulación activa de una fábrica de reactores en Three.js. Modela ciclos de máquinas, puestos de producción, transporte y cuellos de botella; después prueba el flujo de trabajo.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/live-jet-manufacturing-plant-2096122429319852319) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096121674982727684-video-16fa7681ed82.mp4) · [Publicación original](https://x.com/konstantinsaifo/status/2096122429319852319) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/live-jet-manufacturing-plant-2096122429319852319) · [Ver vídeo ↗](https://media.tripogrowth.space/media/b86fa701-c7e0-443e-a38d-72d56a21abc4.mp4) · [Publicación original](https://x.com/konstantinsaifo/status/2096122429319852319) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1667,7 +2781,7 @@ Investiga la fabricación de aeronaves y construye una simulación activa de una
 Genera en Three.js una tormenta atrapada en un cubo con un clima que puedas controlar.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096215832367878145-video-0150533ce275.mp4) · [Publicación original](https://x.com/zwb44/status/2096220264413409648) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648) · [Ver vídeo ↗](https://media.tripogrowth.space/media/e8f23aa9-80c1-43da-a974-26d7928effcf.mp4) · [Publicación original](https://x.com/zwb44/status/2096220264413409648) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1685,7 +2799,7 @@ Genera en Three.js una tormenta atrapada en un cubo con un clima que puedas cont
 Convierte la aventura de texto clásica Zork en un juego de acción y aventura 3D. Conserva su trama y sus puzles, añade combates y construye los personajes y entornos en Three.js.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096032513387110400-video-81b6d2734d03.mp4) · [Publicación original](https://x.com/emollick/status/2096047660662722620) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620) · [Ver vídeo ↗](https://media.tripogrowth.space/media/6f181e74-6f6b-4cf6-93e6-e599cc2c0921.mp4) · [Publicación original](https://x.com/emollick/status/2096047660662722620) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1703,7 +2817,7 @@ Convierte la aventura de texto clásica Zork en un juego de acción y aventura 3
 Toma un modelo generado de T. rex, crea su esqueleto de animación y dale movimientos creíbles. Renderiza el personaje en Three.js y comprueba que la animación deforme el modelo de manera coherente.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096132586565226502-video-da225779ad98.mp4) · [Publicación original](https://x.com/majidmanzarpour/status/2096133339329536249) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [Ver vídeo ↗](https://media.tripogrowth.space/media/e97790e1-c6e6-4c82-8bc8-9b206079a54e.mp4) · [Publicación original](https://x.com/majidmanzarpour/status/2096133339329536249) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1721,7 +2835,7 @@ Toma un modelo generado de T. rex, crea su esqueleto de animación y dale movimi
 Crea un ecosistema marino en miniatura dentro de una taza de café con Three.js. Usa una cámara dirigida para descubrir la vida acuática sin perder de vista la taza ni la escala reducida del entorno.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096173747736883201-video-3555dca2231c.mp4) · [Publicación original](https://x.com/PolaczekSagi/status/2096174858837074198) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [Ver vídeo ↗](https://media.tripogrowth.space/media/1ccc3b57-ea95-4ba8-9c76-7cc25f3f36d5.mp4) · [Publicación original](https://x.com/PolaczekSagi/status/2096174858837074198) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1739,7 +2853,7 @@ Crea un ecosistema marino en miniatura dentro de una taza de café con Three.js.
 Construye una demostración interactiva de Hyperloop en Three.js que muestre una cápsula de transporte, la infraestructura tubular y su movimiento por el sistema.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096250641752711168-video-604ad7feb30f.mp4) · [Publicación original](https://x.com/hbanay98/status/2096250748099068377) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [Ver vídeo ↗](https://media.tripogrowth.space/media/2042ea4e-7a04-4340-8ab1-e7ff38443e3b.mp4) · [Publicación original](https://x.com/hbanay98/status/2096250748099068377) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1757,7 +2871,7 @@ Construye una demostración interactiva de Hyperloop en Three.js que muestre una
 Programa un busto 3D de Napoleón en Three.js. Constrúyelo por etapas, examínalo desde distintos ángulos y perfecciona las proporciones faciales y los detalles de la ropa.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096234130044297216-video-f3d91bcdcb16.mp4) · [Publicación original](https://x.com/leploutos/status/2096234355395903672) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [Ver vídeo ↗](https://media.tripogrowth.space/media/ad6593e8-dc09-482c-95a3-f11c1ab83c11.mp4) · [Publicación original](https://x.com/leploutos/status/2096234355395903672) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1775,7 +2889,7 @@ Programa un busto 3D de Napoleón en Three.js. Constrúyelo por etapas, examína
 Crea el vestíbulo de una estación ferroviaria con un ritmo arquitectónico marcado, escala creíble y materiales convincentes. Produce una escena 3D que se pueda examinar con vistas de la estación cuidadosamente encuadradas.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/railway-station-concourse-2096226711222546461) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096226451297300480-video-76b0ad295189.mp4) · [Publicación original](https://x.com/0xWormhole404/status/2096226711222546461) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/railway-station-concourse-2096226711222546461) · [Ver vídeo ↗](https://media.tripogrowth.space/media/41cdf424-4904-472e-aa92-cfacc3dbbe3d.mp4) · [Publicación original](https://x.com/0xWormhole404/status/2096226711222546461) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1793,7 +2907,7 @@ Crea el vestíbulo de una estación ferroviaria con un ritmo arquitectónico mar
 Construye un pequeño diorama de introducción en Blender y dale vida en Three.js. Usa objetos protagonistas claros y secuencias breves de animación para explicar las primeras acciones del usuario.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/animated-onboarding-diorama-2096222790894661841) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096222762989928448-video-4d9def8e3682.mp4) · [Publicación original](https://x.com/EmilHovv/status/2096222790894661841) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/animated-onboarding-diorama-2096222790894661841) · [Ver vídeo ↗](https://media.tripogrowth.space/media/79fd590e-19a2-4406-816e-99573442986c.mp4) · [Publicación original](https://x.com/EmilHovv/status/2096222790894661841) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1829,7 +2943,7 @@ Construye un juego de conducción de navegador en una ciudad abierta, con tráfi
 Usa un anuncio de un juego móvil como referencia para construir un juego de navegador jugable. Recrea su interacción principal y utiliza recursos de Blender para reproducir su propuesta visual.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096111511337107456-video-551f5e0446d2.mp4) · [Publicación original](https://x.com/buildingadlicio/status/2096111709496680842) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842) · [Ver vídeo ↗](https://media.tripogrowth.space/media/7be01ec4-77e9-4270-aaf4-18119252736f.mp4) · [Publicación original](https://x.com/buildingadlicio/status/2096111709496680842) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1847,7 +2961,7 @@ Usa un anuncio de un juego móvil como referencia para construir un juego de nav
 Crea un juego de lucha en arena en Roblox inspirado en los combates entre personajes de distintos animes. Construye la arena y los personajes con Blender y los recursos disponibles e implementa un ciclo de combate jugable.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095999519968333824-video-e6d1a18772e0.mp4) · [Publicación original](https://x.com/WoahWurdz/status/2095999578419929412) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412) · [Ver vídeo ↗](https://media.tripogrowth.space/media/5fcb63f3-99cd-4ead-85b8-18240bb26287.mp4) · [Publicación original](https://x.com/WoahWurdz/status/2095999578419929412) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1865,7 +2979,7 @@ Crea un juego de lucha en arena en Roblox inspirado en los combates entre person
 Recrea un sistema de físicas de carreras al estilo Trackmania en C#, ejecútalo mediante WASM y renderiza el circuito en Three.js. Usa mallas de pista con colisiones y prueba el comportamiento del vehículo.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096257642486431744-video-4c1bece302f4.mp4) · [Publicación original](https://x.com/achepta_tm/status/2096258619574513880) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Ver vídeo ↗](https://media.tripogrowth.space/media/f4081f64-16b6-41ad-b121-d0afb211da12.mp4) · [Publicación original](https://x.com/achepta_tm/status/2096258619574513880) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1883,7 +2997,7 @@ Recrea un sistema de físicas de carreras al estilo Trackmania en C#, ejecútalo
 Toma el personaje 3D proporcionado, crea su esqueleto de animación y añade caminar, correr y varios movimientos de kung-fu. Examina las animaciones para detectar articulaciones defectuosas y poses inestables.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096139240476454913-video-a0fd30c3ba8a.mp4) · [Publicación original](https://x.com/thebuggeddev/status/2096141728487178503) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [Ver vídeo ↗](https://media.tripogrowth.space/media/d6af998c-563b-40fa-b6d2-bdb014cd8cf4.mp4) · [Publicación original](https://x.com/thebuggeddev/status/2096141728487178503) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1919,7 +3033,7 @@ Recrea una ilustración de un personaje de Noctavia como un personaje 3D jugable
 Convierte un retrato en un personaje de Blender dentro de un portafolio WebGL de estilo editorial. Añade un globo giratorio que sitúe los eventos donde se ha intervenido como ponente e integra los recursos en el sitio web.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096022456750542848-video-f8aa000c9ee6.mp4) · [Publicación original](https://x.com/HowDevelop/status/2096023793772998704) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [Ver vídeo ↗](https://media.tripogrowth.space/media/0b2e991c-67db-40b2-bd38-027d182e8780.mp4) · [Publicación original](https://x.com/HowDevelop/status/2096023793772998704) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1937,7 +3051,7 @@ Convierte un retrato en un personaje de Blender dentro de un portafolio WebGL de
 Construye un nivel 3D cuidado inspirado en Sonic en Godot, con recursos locales y procedurales. Prioriza la inercia, el desplazamiento ágil, los anillos, los bucles, los raíles para deslizarse y una costa tropical continua.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096055803866193925-video-1f6a9bf97b27.mp4) · [Publicación original](https://x.com/AiBattle_/status/2096056285896536086) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086) · [Ver vídeo ↗](https://media.tripogrowth.space/media/2c80350e-b8f3-41fb-9ec4-081aec18dbda.mp4) · [Publicación original](https://x.com/AiBattle_/status/2096056285896536086) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1973,7 +3087,7 @@ Crea un personaje vikingo 3D editable en Blender. Céntrate en una indumentaria 
 Construye un battle royale de navegador en tercera persona con un círculo de tormenta, nueve enemigos controlados por IA, un rifle de pulsos, salud y recarga. Incluye muros de cobertura que se puedan colocar y un ciclo completo de eliminación.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096155779850190848-video-812518247b63.mp4) · [Publicación original](https://x.com/Motion_Viz/status/2096155883122413946) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [Ver vídeo ↗](https://media.tripogrowth.space/media/aa58e48b-d28d-41a8-9189-50898d68ed64.mp4) · [Publicación original](https://x.com/Motion_Viz/status/2096155883122413946) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1991,7 +3105,7 @@ Construye un battle royale de navegador en tercera persona con un círculo de to
 Usa una página web sobre el Museo de Suzhou como referencia para recrear su jardín en Blender. Produce un recorrido continuo que conserve la relación entre la arquitectura moderna y el paisajismo tradicional chino.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096096301616381952-video-4a739bdf3183.mp4) · [Publicación original](https://x.com/whosamberella/status/2096096998092841449) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449) · [Ver vídeo ↗](https://media.tripogrowth.space/media/38eef18b-c3cb-4df4-bfdc-db0c79307960.mp4) · [Publicación original](https://x.com/whosamberella/status/2096096998092841449) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2009,7 +3123,7 @@ Usa una página web sobre el Museo de Suzhou como referencia para recrear su jar
 Construye una simulación educativa 3D de Titán, la mayor luna de Saturno, con un entorno explorable y una capa informativa que explique sus rasgos físicos distintivos.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-titan-science-exhibit-2095986941753712841) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095986724040290305-video-47d62d124cfd.mp4) · [Publicación original](https://x.com/ArdaTugsat/status/2095986941753712841) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-titan-science-exhibit-2095986941753712841) · [Ver vídeo ↗](https://media.tripogrowth.space/media/94b69a0b-8179-41e5-8fd2-e1e557475a7e.mp4) · [Publicación original](https://x.com/ArdaTugsat/status/2095986941753712841) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2027,7 +3141,7 @@ Construye una simulación educativa 3D de Titán, la mayor luna de Saturno, con 
 Construye un ecosistema 3D evolutivo en un único archivo HTML con WebGL puro y GLSL. Haz que interactúen la mutación, la selección natural, la depredación, el consumo de energía y la unión multicelular.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/evolving-webgl-ecosystem-2096040448477515874) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096039411645566976-video-71c8620bd4aa.mp4) · [Publicación original](https://x.com/yume_arasaki/status/2096040448477515874) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/evolving-webgl-ecosystem-2096040448477515874) · [Ver vídeo ↗](https://media.tripogrowth.space/media/fe76fc77-0534-400e-a0d0-37fd7d2f7f85.mp4) · [Publicación original](https://x.com/yume_arasaki/status/2096040448477515874) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2045,7 +3159,7 @@ Construye un ecosistema 3D evolutivo en un único archivo HTML con WebGL puro y 
 Construye una simulación 3D de reparto donde el cierre de puentes modifique las rutas de los camiones. Detecta destinos inaccesibles y restablece los repartos cuando vuelva a abrirse una ruta.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-5c3efd3efdda-video-5c3efd3efdda.mp4) · [Publicación original](https://x.com/AgentWorkflowLa/status/2096042360513904742) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742) · [Ver vídeo ↗](https://media.tripogrowth.space/media/e398acdc-6b11-45c5-ae27-b014e08ff0d3.mp4) · [Publicación original](https://x.com/AgentWorkflowLa/status/2096042360513904742) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2063,7 +3177,7 @@ Construye una simulación 3D de reparto donde el cierre de puentes modifique las
 Recrea un Sinclair ZX Spectrum 48K como una aplicación 3D interactiva de escritorio. Incluye su teclado de goma, reproductor de cintas, pantalla de arranque, un juego jugable y una interfaz de programación BASIC.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096061606581133312-video-615bfd65c028.mp4) · [Publicación original](https://x.com/DeryaTR_/status/2096062355692048605) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605) · [Ver vídeo ↗](https://media.tripogrowth.space/media/711153f8-a7ae-4872-b0f4-181f018b3b99.mp4) · [Publicación original](https://x.com/DeryaTR_/status/2096062355692048605) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2081,7 +3195,7 @@ Recrea un Sinclair ZX Spectrum 48K como una aplicación 3D interactiva de escrit
 Reconstruye un salón en Blender a partir de un escaneo fotogramétrico. Modela la escena desde cero, extrae las texturas del escaneo y utiliza shaders procedurales cuando convenga.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/photogrammetry-scan-to-editable-living-room-2096092080397246707) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096091625915301888-video-6a1270fd0cf5.mp4) · [Publicación original](https://x.com/bilawalsidhu/status/2096092080397246707) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/photogrammetry-scan-to-editable-living-room-2096092080397246707) · [Ver vídeo ↗](https://media.tripogrowth.space/media/ff32fca9-23e4-49f6-ab50-b6a4c76d46a7.mp4) · [Publicación original](https://x.com/bilawalsidhu/status/2096092080397246707) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2099,7 +3213,7 @@ Reconstruye un salón en Blender a partir de un escaneo fotogramétrico. Modela 
 Construye un nivel en Three.js inspirado en Odyssey con ocho plataformas, tres lunas coleccionables, ataques con gorra que regresa, enemigos y puntos de control. Añade controles táctiles y prueba una partida completa.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096134919546425344-video-ce32ad4bdb95.mp4) · [Publicación original](https://x.com/AiHubMix/status/2096135808243876152) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [Ver vídeo ↗](https://media.tripogrowth.space/media/be331224-d958-4c92-ab5d-ed31b931958c.mp4) · [Publicación original](https://x.com/AiHubMix/status/2096135808243876152) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2117,7 +3231,7 @@ Construye un nivel en Three.js inspirado en Odyssey con ocho plataformas, tres l
 Construye una web de anatomía 3D donde el cuerpo humano se separe en estructuras que puedan examinarse individualmente. Permite navegar por la vista explosionada y organiza las partes en sistemas con sentido.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096218474930405376-video-875c2d463d2b.mp4) · [Publicación original](https://x.com/ashebytes/status/2096221988763173186) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186) · [Ver vídeo ↗](https://media.tripogrowth.space/media/de5d4c26-e29d-4e1b-8b10-5b4e4ce57403.mp4) · [Publicación original](https://x.com/ashebytes/status/2096221988763173186) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2135,7 +3249,7 @@ Construye una web de anatomía 3D donde el cuerpo humano se separe en estructura
 Crea una web 3D que desmonte un Tesla Model X en sus componentes modelados. Permite examinar los conjuntos y volver a montar el vehículo de forma interactiva.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/tesla-model-x-exploded-view-2096009146248122416) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096008340329627648-video-7b0604309820.mp4) · [Publicación original](https://x.com/ashebytes/status/2096009146248122416) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/tesla-model-x-exploded-view-2096009146248122416) · [Ver vídeo ↗](https://media.tripogrowth.space/media/4d953028-be06-4eea-b476-59142bcb1f2c.mp4) · [Publicación original](https://x.com/ashebytes/status/2096009146248122416) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2153,7 +3267,7 @@ Crea una web 3D que desmonte un Tesla Model X en sus componentes modelados. Perm
 Construye una máquina 3D de cápsulas de recuerdos. Gira un mando para liberar un recuerdo, modela el mecanismo en Blender y da a las cápsulas que caen un movimiento y sonido creíbles.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/memory-capsule-machine-2096241295949975602) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096240294815821824-video-4c217fa6025d.mp4) · [Publicación original](https://x.com/gloria_zwq/status/2096241295949975602) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/memory-capsule-machine-2096241295949975602) · [Ver vídeo ↗](https://media.tripogrowth.space/media/57f89e78-6351-4742-9fe4-753e50897e5b.mp4) · [Publicación original](https://x.com/gloria_zwq/status/2096241295949975602) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2171,7 +3285,7 @@ Construye una máquina 3D de cápsulas de recuerdos. Gira un mando para liberar 
 Crea un modelo 3D de Fórmula 1 en Blender mediante el control del ordenador.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/formula-one-car-in-blender-2096125193580113957) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096124892378963969-video-036aa7b94b4e.mp4) · [Publicación original](https://x.com/Conor_D_Dart/status/2096125193580113957) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/formula-one-car-in-blender-2096125193580113957) · [Ver vídeo ↗](https://media.tripogrowth.space/media/d19f8409-133b-4d5e-bba7-41a9cfa7b7b4.mp4) · [Publicación original](https://x.com/Conor_D_Dart/status/2096125193580113957) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2189,7 +3303,7 @@ Crea un modelo 3D de Fórmula 1 en Blender mediante el control del ordenador.
 Crea una escena de personajes inspirada en Warcraft con Astra, Tripo P2, Blender y Unity. Genera el personaje, prepáralo en Blender y monta una escena jugable en Unity.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096303795890278401-video-b5a61e848bab.mp4) · [Publicación original](https://x.com/luccacerf/status/2096308567863079420) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420) · [Ver vídeo ↗](https://media.tripogrowth.space/media/2f33ef11-989e-42d8-9576-ca5fd51a3f03.mp4) · [Publicación original](https://x.com/luccacerf/status/2096308567863079420) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2207,7 +3321,7 @@ Crea una escena de personajes inspirada en Warcraft con Astra, Tripo P2, Blender
 Crea una arena de combate jugable en Three.js. Usa personajes y árboles generados con Tripo e intégralos en la arena y en su ciclo de juego.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/three-js-battle-arena-with-tripo-assets-2096015772334047319) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096014103366238208-video-4bd6865e78da.mp4) · [Publicación original](https://x.com/Normaneeeeee/status/2096015772334047319) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/three-js-battle-arena-with-tripo-assets-2096015772334047319) · [Ver vídeo ↗](https://media.tripogrowth.space/media/0f33754d-9b52-4518-88e8-46c143adf8e7.mp4) · [Publicación original](https://x.com/Normaneeeeee/status/2096015772334047319) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2243,7 +3357,7 @@ Crea una aplicación de shogi 3D jugable con un tablero que se pueda girar libre
 Crea una web 3D interactiva que descomponga un ordenador de sobremesa en 29 componentes principales. Añade una animación de desmontaje y explicaciones de cada pieza.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096578527097421824-video-b1e4e76ee419.mp4) · [Publicación original](https://x.com/icooperhero/status/2096578761877860502) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502) · [Ver vídeo ↗](https://media.tripogrowth.space/media/f43e1580-941e-4bb7-8515-99ff62112c90.mp4) · [Publicación original](https://x.com/icooperhero/status/2096578761877860502) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2261,7 +3375,7 @@ Crea una web 3D interactiva que descomponga un ordenador de sobremesa en 29 comp
 Reconstruye una habitación infantil que también sirva como zona de trabajo a partir de cuatro fotos tomadas desde las esquinas y las medidas de la estancia. Muestra las perspectivas de un adulto y un niño, una vista general y distintas distribuciones de muebles.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096578530561966080-video-99133894dee5.mp4) · [Publicación original](https://x.com/dqlh47m/status/2096578684010508736) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736) · [Ver vídeo ↗](https://media.tripogrowth.space/media/31de0409-36ec-4532-80cf-67e50b02fb67.mp4) · [Publicación original](https://x.com/dqlh47m/status/2096578684010508736) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2279,7 +3393,7 @@ Reconstruye una habitación infantil que también sirva como zona de trabajo a p
 Crea un recorrido por un apartamento de un dormitorio y un plano a partir de las mismas medidas. Sincroniza la posición actual entre ambas vistas e indica claramente qué alturas de techo y acabados se han supuesto.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095999235611414528-video-da2dbe52f816.mp4) · [Publicación original](https://x.com/onofumi_AI/status/2095999282088378520) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520) · [Ver vídeo ↗](https://media.tripogrowth.space/media/9dda5719-a496-4936-93cc-fd5c58732f47.mp4) · [Publicación original](https://x.com/onofumi_AI/status/2095999282088378520) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2297,7 +3411,7 @@ Crea un recorrido por un apartamento de un dormitorio y un plano a partir de las
 Crea una miniatura de Seúl en Three.js con datos cartográficos abiertos. Añade navegación por distritos, vuelos entre lugares emblemáticos, modos diurno y nocturno y controles táctiles. Indica qué edificios se han simplificado, qué alturas se han estimado y las licencias de los datos.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-miniature-of-seoul-2096557555086725159) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096557441312034816-video-78abc20e6310.mp4) · [Publicación original](https://x.com/synabreu/status/2096557555086725159) · [Demo en línea](https://seoul-3d-atlas.synabreu.chatgpt.site/) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-miniature-of-seoul-2096557555086725159) · [Ver vídeo ↗](https://media.tripogrowth.space/media/f582b0f8-5d53-4701-bb3d-dbb5bde50b0c.mp4) · [Publicación original](https://x.com/synabreu/status/2096557555086725159) · [Demo en línea](https://seoul-3d-atlas.synabreu.chatgpt.site/) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2315,7 +3429,7 @@ Crea una miniatura de Seúl en Three.js con datos cartográficos abiertos. Añad
 Crea un insecto 3D de varias patas que camine adherido a distintas superficies. Coordina las patas y el cuerpo al superar cambios de altura.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/surface-climbing-procedural-insect-2096460081982304546) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096457635352698880-video-b8ee4ffe10bf.mp4) · [Publicación original](https://x.com/leo_xiaolei/status/2096460081982304546) · [Demo en línea](https://threerocks.github.io/web-3d-pages/) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/surface-climbing-procedural-insect-2096460081982304546) · [Ver vídeo ↗](https://media.tripogrowth.space/media/f739ec22-2888-4cbe-aff8-7b7a81fd85b4.mp4) · [Publicación original](https://x.com/leo_xiaolei/status/2096460081982304546) · [Demo en línea](https://threerocks.github.io/web-3d-pages/) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2333,7 +3447,7 @@ Crea un insecto 3D de varias patas que camine adherido a distintas superficies. 
 Crea un juego de vuelo en Three.js con el Wright Flyer de 1903 en un bosque japonés. Investiga el avión y genera de forma procedural el aparato, los árboles, los torii, las casas y las montañas, sin recursos externos.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096460762189565952-video-9d36a3a844f2.mp4) · [Publicación original](https://x.com/thebuggeddev/status/2096467585785286808) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808) · [Ver vídeo ↗](https://media.tripogrowth.space/media/b3ce0b9f-67bf-4c19-850b-fe1ed4490ba8.mp4) · [Publicación original](https://x.com/thebuggeddev/status/2096467585785286808) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2351,7 +3465,7 @@ Crea un juego de vuelo en Three.js con el Wright Flyer de 1903 en un bosque japo
 Modela una casa desde cero en Blender. Mantén la escena editable para poder inspeccionar y mejorar el edificio en iteraciones posteriores.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096575873629769728-video-7a237d3c1b82.mp4) · [Publicación original](https://x.com/mizkun/status/2096576154337734865) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865) · [Ver vídeo ↗](https://media.tripogrowth.space/media/4b9bda22-09cb-45d7-9ed1-afe8d4c4020d.mp4) · [Publicación original](https://x.com/mizkun/status/2096576154337734865) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2369,7 +3483,7 @@ Modela una casa desde cero en Blender. Mantén la escena editable para poder ins
 Reconstruye una cafetería en Blender a partir de su foto, con el techo de madera, las tiras de luz, la tostadora de café, las estanterías y las plantas. Entrega una escena editable y un recorrido de cámara de 15 segundos en formato vertical.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096143056991076352-video-e2a96d0e0f27.mp4) · [Publicación original](https://x.com/harrisonitsme/status/2096143359505269079) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079) · [Ver vídeo ↗](https://media.tripogrowth.space/media/342fda31-e582-426d-8bec-0930807cd4b4.mp4) · [Publicación original](https://x.com/harrisonitsme/status/2096143359505269079) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2387,7 +3501,7 @@ Reconstruye una cafetería en Blender a partir de su foto, con el techo de mader
 Usa el plano de la última planta de una vivienda para crear una escena en Blender y renderiza una vista previa de 10 segundos con pocas muestras. Prioriza una distribución espacial clara antes de perfeccionar los materiales.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096499441167671296-video-09a55294f759.mp4) · [Publicación original](https://x.com/indigox/status/2096501340889374883) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883) · [Ver vídeo ↗](https://media.tripogrowth.space/media/3eff58e4-c164-4aab-b1ce-bd8a76ab6a01.mp4) · [Publicación original](https://x.com/indigox/status/2096501340889374883) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2405,7 +3519,7 @@ Usa el plano de la última planta de una vivienda para crear una escena en Blend
 Recrea el Terreiro do Paço de Lisboa como una escena editable en Blender. Investiga referencias para definir la arquitectura, los materiales y la iluminación de la plaza.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096296038672023552-video-48b7bae96747.mp4) · [Publicación original](https://x.com/goncalo_canhoto/status/2096298425914450021) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021) · [Ver vídeo ↗](https://media.tripogrowth.space/media/00f360b4-1443-4bc1-9b44-33433e332ef6.mp4) · [Publicación original](https://x.com/goncalo_canhoto/status/2096298425914450021) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2423,7 +3537,7 @@ Recrea el Terreiro do Paço de Lisboa como una escena editable en Blender. Inves
 Crea un juego de exploración en la nieve con Three.js, un personaje de Blender, pinos de vóxeles y un portal de piedra. Permite recoger seis fragmentos luminosos, haz que la cámara siga al personaje y muestra la distancia al portal.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096573682848251904-video-6e87dd09e525.mp4) · [Publicación original](https://x.com/Motion_Viz/status/2096574297703637111) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111) · [Ver vídeo ↗](https://media.tripogrowth.space/media/63e2f655-b71e-4aa9-872d-7443d05ae7ee.mp4) · [Publicación original](https://x.com/Motion_Viz/status/2096574297703637111) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2441,7 +3555,7 @@ Crea un juego de exploración en la nieve con Three.js, un personaje de Blender,
 Crea un bosque detallado en Three.js con miles de árboles, hierba espesa y helechos. Usa shaders propios y geometría repetida de forma eficiente para mantener el detalle en toda la escena.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096262956774490112-video-dabda51264b8.mp4) · [Publicación original](https://x.com/LexnLin/status/2096263046918197609) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609) · [Ver vídeo ↗](https://media.tripogrowth.space/media/493db261-27ae-4f56-8b77-dd409f3b2408.mp4) · [Publicación original](https://x.com/LexnLin/status/2096263046918197609) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2459,7 +3573,7 @@ Crea un bosque detallado en Three.js con miles de árboles, hierba espesa y hele
 Recrea la Teenage Engineering TP-7 en Three.js a partir de imágenes de referencia. Reproduce su forma y sus controles visibles en un modelo 3D que se pueda inspeccionar.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/tp-7-recorder-reference-model-2096013228090245181) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096012812199862273-video-9013baf810d8.mp4) · [Publicación original](https://x.com/ty_kra_lab/status/2096013228090245181) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/tp-7-recorder-reference-model-2096013228090245181) · [Ver vídeo ↗](https://media.tripogrowth.space/media/a87e621e-21bb-4bd4-a7e1-605ad5b48811.mp4) · [Publicación original](https://x.com/ty_kra_lab/status/2096013228090245181) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2477,7 +3591,7 @@ Recrea la Teenage Engineering TP-7 en Three.js a partir de imágenes de referenc
 Modela una locomotora de vapor en Three.js y anímala recorriendo una escena rural. Sincroniza el movimiento de las ruedas con el desplazamiento del tren.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096576986462539776-video-59f0fa2baa5a.mp4) · [Publicación original](https://x.com/dansanburu/status/2096577430274429157) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157) · [Ver vídeo ↗](https://media.tripogrowth.space/media/4f10352c-5d1c-4059-ad9b-b9ad05348622.mp4) · [Publicación original](https://x.com/dansanburu/status/2096577430274429157) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2495,7 +3609,7 @@ Modela una locomotora de vapor en Three.js y anímala recorriendo una escena rur
 Crea una escena en Three.js con un tocadiscos sobre una mesa. Prepara una presentación de producto en la que se enciendan las lámparas y la cámara muestre el tocadiscos y los muebles cercanos.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096560995208687616-video-b191a25a673b.mp4) · [Publicación original](https://x.com/niteshseram/status/2096561346766877106) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106) · [Ver vídeo ↗](https://media.tripogrowth.space/media/1d0d5e22-4f13-4324-9c0d-23a285dd8a28.mp4) · [Publicación original](https://x.com/niteshseram/status/2096561346766877106) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2513,7 +3627,7 @@ Crea una escena en Three.js con un tocadiscos sobre una mesa. Prepara una presen
 Crea un prototipo de cartas coleccionables en Three.js: comprar mazos y sobres, construir un mazo, entrar en una arena de combate y conseguir recompensas. Deja las mallas provisionales listas para sustituirlas por recursos terminados.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096553778136887296-video-51c26a0f2901.mp4) · [Publicación original](https://x.com/FaryaBlender3D/status/2096555856204644550) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [Ver vídeo ↗](https://media.tripogrowth.space/media/1bb8a72a-c62a-4d08-ba46-a414bdf699b5.mp4) · [Publicación original](https://x.com/FaryaBlender3D/status/2096555856204644550) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2531,7 +3645,7 @@ Crea un prototipo de cartas coleccionables en Three.js: comprar mazos y sobres, 
 Amplía un modelo de tren en Three.js hasta convertirlo en una simulación ferroviaria con ciudades, cruces, ríos y puentes. Añade cámaras de seguimiento del tren, 3D libre e isométrica, además de efectos de humo.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/railway-network-simulation-game-2096362653480562751) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096361540161257472-video-39d66dd5664e.mp4) · [Publicación original](https://x.com/tomkrcha/status/2096362653480562751) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/railway-network-simulation-game-2096362653480562751) · [Ver vídeo ↗](https://media.tripogrowth.space/media/47286b65-319f-44a6-9d6b-17c5c50095b9.mp4) · [Publicación original](https://x.com/tomkrcha/status/2096362653480562751) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2549,7 +3663,7 @@ Amplía un modelo de tren en Three.js hasta convertirlo en una simulación ferro
 Crea en un único archivo HTML un pueblo low poly acogedor y explorable inspirado en Gwacheon. Combina escenario 3D procedural, ambientación, interfaz e interacciones.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096490096442986496-video-3809a76a10f4.mp4) · [Publicación original](https://x.com/ManasJoshi76254/status/2096490395614019793) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793) · [Ver vídeo ↗](https://media.tripogrowth.space/media/00daa262-0338-44dd-8cc7-0a53723a83ed.mp4) · [Publicación original](https://x.com/ManasJoshi76254/status/2096490395614019793) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2567,7 +3681,7 @@ Crea en un único archivo HTML un pueblo low poly acogedor y explorable inspirad
 Crea un nivel completo de un juego de puzles 3D en Three.js, incluidas sus mecánicas jugables. Integra el audio proporcionado cuando el nivel y las interacciones ya funcionen.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/complete-three-js-puzzle-level-2096505740643246231) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096505045651173376-video-c97ee86140a5.mp4) · [Publicación original](https://x.com/TvWoo/status/2096505740643246231) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/complete-three-js-puzzle-level-2096505740643246231) · [Ver vídeo ↗](https://media.tripogrowth.space/media/886b702e-ea8b-41d0-8321-fbd82a104bc0.mp4) · [Publicación original](https://x.com/TvWoo/status/2096505740643246231) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2603,7 +3717,7 @@ Crea en Unity una búsqueda del tesoro 3D jugable en una playa. Modela palmeras 
 Crea los modelos de la escena en Blender e impórtalos en Unity. Añade efectos con VFX Graph e ilumina la escena para que los modelos y los efectos se distingan bien al mostrarse juntos.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/blender-models-with-unity-vfx-2096560142871658589) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096559190202597376-video-4ff7324a3cb3.mp4) · [Publicación original](https://x.com/CST_negi/status/2096560142871658589) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/blender-models-with-unity-vfx-2096560142871658589) · [Ver vídeo ↗](https://media.tripogrowth.space/media/5bdb15cd-d837-4a5b-91d2-2a9f7873432e.mp4) · [Publicación original](https://x.com/CST_negi/status/2096560142871658589) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2621,7 +3735,7 @@ Crea los modelos de la escena en Blender e impórtalos en Unity. Añade efectos 
 Crea un prototipo de conducción de rally con Codex, Blender y Unity. Prepara sus recursos 3D y sus controles para probarlo en un teléfono.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096555393577259008-video-112f32b99aab.mp4) · [Publicación original](https://x.com/kevinkern/status/2096556692842348826) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826) · [Ver vídeo ↗](https://media.tripogrowth.space/media/db736240-b575-43e4-98b4-a7f94f65b3ea.mp4) · [Publicación original](https://x.com/kevinkern/status/2096556692842348826) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2657,7 +3771,7 @@ Crea un mango de la India en SpeedTree para una escena de Unreal con un objetivo
 Lleva un personaje de Tripo Smart Mesh a Blender. Aplica sus texturas y crea un rig corporal utilizable antes de pasar a las expresiones faciales.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096566304161619968-video-6b2851018644.mp4) · [Publicación original](https://x.com/chimerast/status/2096566598689783878) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878) · [Ver vídeo ↗](https://media.tripogrowth.space/media/0aa18c31-8a4c-4c19-acb3-b92a3ec712e8.mp4) · [Publicación original](https://x.com/chimerast/status/2096566598689783878) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2675,7 +3789,7 @@ Lleva un personaje de Tripo Smart Mesh a Blender. Aplica sus texturas y crea un 
 Crea un prototipo de aventura 3D en Unity con escenas preparadas en Blender y recursos de Tripo. Integra la animación de los personajes en la demo jugable.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/the-legend-of-astra-game-prototype-2096064140510970318) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096062862880092160-video-67e55cc4794e.mp4) · [Publicación original](https://x.com/lofihashbloom/status/2096064140510970318) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/the-legend-of-astra-game-prototype-2096064140510970318) · [Ver vídeo ↗](https://media.tripogrowth.space/media/b2d2edc8-1452-4042-a6e3-cfd598849050.mp4) · [Publicación original](https://x.com/lofihashbloom/status/2096064140510970318) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2693,7 +3807,7 @@ Crea un prototipo de aventura 3D en Unity con escenas preparadas en Blender y re
 Combina imágenes de referencia de un apartamento con un plano sencillo dibujado a mano para reconstruir el interior en Blender. Entrega una escena editable, renders de las habitaciones y un breve recorrido de vídeo editado.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096566625826742276-video-41e3afaa8883.mp4) · [Publicación original](https://x.com/WorldEverett/status/2096566686266597754) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754) · [Ver vídeo ↗](https://media.tripogrowth.space/media/7ae582fd-cfb0-46de-8db8-f25d3387bf80.mp4) · [Publicación original](https://x.com/WorldEverett/status/2096566686266597754) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2711,7 +3825,7 @@ Combina imágenes de referencia de un apartamento con un plano sencillo dibujado
 Crea una escena de río interactiva que funcione en el navegador. Desarrolla primero un prototipo funcional de agua en tiempo real y después inspecciona y mejora el resultado visual.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-browser-river-scene-2095993826569502785) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095992532962607104-video-76faf96ed3eb.mp4) · [Publicación original](https://x.com/dangreenheck/status/2095993826569502785) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-browser-river-scene-2095993826569502785) · [Ver vídeo ↗](https://media.tripogrowth.space/media/7c65b108-34a5-4815-91ef-0021f7139f71.mp4) · [Publicación original](https://x.com/dangreenheck/status/2095993826569502785) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2729,7 +3843,7 @@ Crea una escena de río interactiva que funcione en el navegador. Desarrolla pri
 Crea una escena de Adiyogi en Blender con un entorno amplio, primeros planos detallados y luz cálida de atardecer. Renderiza un vuelo de cámara de 30 segundos y conserva la escena editable.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/adiyogi-evening-fly-through-2096128774203171021) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096127589219983360-video-0e8fcabb7049.mp4) · [Publicación original](https://x.com/thejothiram/status/2096128774203171021) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/adiyogi-evening-fly-through-2096128774203171021) · [Ver vídeo ↗](https://media.tripogrowth.space/media/86a4d9a8-80cf-49cb-bf45-ce1ca012df61.mp4) · [Publicación original](https://x.com/thejothiram/status/2096128774203171021) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2747,7 +3861,7 @@ Crea una escena de Adiyogi en Blender con un entorno amplio, primeros planos det
 Crea un efecto periódico de superficie de agua con Geometry Nodes de Blender, sin horneado. Mantén editable la configuración de nodos y descríbela como un modelo de superficie, no como una simulación completa de fluidos.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-26327614ee00-video-26327614ee00.mp4) · [Publicación original](https://x.com/uB95A7tobA17057/status/2096521798150242631) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631) · [Ver vídeo ↗](https://media.tripogrowth.space/media/75383b5d-d5c0-4ba4-be48-e46d4fe85340.mp4) · [Publicación original](https://x.com/uB95A7tobA17057/status/2096521798150242631) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2765,7 +3879,7 @@ Crea un efecto periódico de superficie de agua con Geometry Nodes de Blender, s
 Crea un mundo de navegación jugable con un barco de Blender y un océano de Three.js. Añade tiempo cambiante, exploración submarina, estela, espuma, salpicaduras y velas en movimiento.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096515158227206144-video-955ff3de6a1b.mp4) · [Publicación original](https://x.com/yash_yk45/status/2096518775042707700) · [Demo en línea](https://one-piece-sea-world.vercel.app/) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700) · [Ver vídeo ↗](https://media.tripogrowth.space/media/956c8a5b-2ec9-4f32-b173-d5daa040a387.mp4) · [Publicación original](https://x.com/yash_yk45/status/2096518775042707700) · [Demo en línea](https://one-piece-sea-world.vercel.app/) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2783,7 +3897,7 @@ Crea un mundo de navegación jugable con un barco de Blender y un océano de Thr
 Visualiza dos trayectorias del sistema de Lorenz con una diferencia mínima en la posición inicial. Permite modificar esa diferencia y recorrer el tiempo, distinguiendo las comprobaciones numéricas de las predicciones exactas a largo plazo.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-lorenz-attractor-2096572156453028193) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096556348947517440-video-9e92e0e7a1ed.mp4) · [Publicación original](https://x.com/juyeam/status/2096572156453028193) · [Demo en línea](https://tiny-worlds-juyeam.juyeam.chatgpt.site/chaos) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-lorenz-attractor-2096572156453028193) · [Ver vídeo ↗](https://media.tripogrowth.space/media/c1a06bf3-0776-470d-8abb-0aca7c1b0968.mp4) · [Publicación original](https://x.com/juyeam/status/2096572156453028193) · [Demo en línea](https://tiny-worlds-juyeam.juyeam.chatgpt.site/chaos) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2801,7 +3915,7 @@ Visualiza dos trayectorias del sistema de Lorenz con una diferencia mínima en l
 Recrea una taberna a partir de una imagen de referencia y llénala de clientes y trabajadores. Haz que los clientes pidan comida y bebida y que el personal las prepare, con gestión de colisiones y búsqueda de rutas.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096357698434461699-video-c6f4a25f9a07.mp4) · [Publicación original](https://x.com/Rogue0114/status/2096358854275543457) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457) · [Ver vídeo ↗](https://media.tripogrowth.space/media/8921e021-b5b5-415a-9f6e-a285e66b70c5.mp4) · [Publicación original](https://x.com/Rogue0114/status/2096358854275543457) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2819,7 +3933,7 @@ Recrea una taberna a partir de una imagen de referencia y llénala de clientes y
 Convierte una habitación personal en una web interactiva de presentación. Construye y hornea la escena en Blender; después añade vapor de café, animación al estilo de Matrix y efectos sutiles de shaders.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096502795746910208-video-0fa8acb98948.mp4) · [Publicación original](https://x.com/kalanyei/status/2096506357868642342) · [Demo en línea](https://room.kalan.dev/) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342) · [Ver vídeo ↗](https://media.tripogrowth.space/media/e62d6828-9737-4346-9241-9e89c54f0b6f.mp4) · [Publicación original](https://x.com/kalanyei/status/2096506357868642342) · [Demo en línea](https://room.kalan.dev/) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2837,7 +3951,7 @@ Convierte una habitación personal en una web interactiva de presentación. Cons
 Modela un barco YF-24 en Blender y anímalo navegando por un mar tridimensional con fuerza 2 en la escala de Beaufort. Usa referencias del barco para mejorar su forma.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096500632966631425-video-7aa795ec66f0.mp4) · [Publicación original](https://x.com/yhmtmt1/status/2096503275910832461) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461) · [Ver vídeo ↗](https://media.tripogrowth.space/media/d3cdf313-4aad-4ec0-8255-b13b94007479.mp4) · [Publicación original](https://x.com/yhmtmt1/status/2096503275910832461) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2855,7 +3969,7 @@ Modela un barco YF-24 en Blender y anímalo navegando por un mar tridimensional 
 Investiga el apartamento del protagonista de D4 y recréalo como un prototipo 3D jugable. Contrasta la distribución y las interacciones con las referencias, sin dar por hecho que la recreación sea exacta.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/playable-d4-inspired-apartment-2096413869841473930) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096413677717225472-video-3d17ea73456e.mp4) · [Publicación original](https://x.com/Swery65/status/2096413869841473930) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/playable-d4-inspired-apartment-2096413869841473930) · [Ver vídeo ↗](https://media.tripogrowth.space/media/3c3387ff-f03d-4329-b0df-c0839abbfcf4.mp4) · [Publicación original](https://x.com/Swery65/status/2096413869841473930) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2873,7 +3987,7 @@ Investiga el apartamento del protagonista de D4 y recréalo como un prototipo 3D
 Crea un juego urbano WebGL con RIO_MA002.fbx como personaje del jugador. Modela los vehículos y las calles de referencia en Blender y mejora después los PNJ, la física de conducción, los objetos destruibles y las zonas suburbanas.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/browser-city-game-with-a-supplied-character-2096398839830008292) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096398600695869440-video-9db110aaf6b5.mp4) · [Publicación original](https://x.com/djrio_vr/status/2096398839830008292) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/browser-city-game-with-a-supplied-character-2096398839830008292) · [Ver vídeo ↗](https://media.tripogrowth.space/media/cff83f4e-937c-4178-aabc-643e6f415a9a.mp4) · [Publicación original](https://x.com/djrio_vr/status/2096398839830008292) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2891,7 +4005,7 @@ Crea un juego urbano WebGL con RIO_MA002.fbx como personaje del jugador. Modela 
 Crea en Three.js un explorador del sistema solar para el navegador con ocho planetas y veinte lunas. Permite mover la cámara y planificar vuelos espaciales de forma simplificada.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/orbital-solar-system-explorer-2096339041679442428) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096339015465115654-video-3a4c1138a19b.mp4) · [Publicación original](https://x.com/dzhohola/status/2096339041679442428) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/orbital-solar-system-explorer-2096339041679442428) · [Ver vídeo ↗](https://media.tripogrowth.space/media/32fb54fb-83df-467a-8f8d-5e52e48e8812.mp4) · [Publicación original](https://x.com/dzhohola/status/2096339041679442428) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2909,7 +4023,7 @@ Crea en Three.js un explorador del sistema solar para el navegador con ocho plan
 Crea una presentación educativa sobre la formación de agujeros negros con visualizaciones WebGL. Acompaña las explicaciones con escenas 3D animadas.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/black-hole-formation-in-webgl-2096093614397170104) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096093135785107456-video-525882e52f0c.mp4) · [Publicación original](https://x.com/zeeeeeen/status/2096093614397170104) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/black-hole-formation-in-webgl-2096093614397170104) · [Ver vídeo ↗](https://media.tripogrowth.space/media/302c87fa-73a3-4b17-ad67-ad22a47eee0f.mp4) · [Publicación original](https://x.com/zeeeeeen/status/2096093614397170104) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2927,7 +4041,7 @@ Crea una presentación educativa sobre la formación de agujeros negros con visu
 Convierte el logotipo 2D de un personaje proporcionado en una versión 3D animada. Conserva su identidad reconocible al darle volumen y movimiento.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096558319678713856-video-d188c30033a6.mp4) · [Publicación original](https://x.com/anthonyriera/status/2096559197999501724) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724) · [Ver vídeo ↗](https://media.tripogrowth.space/media/3def50d2-e12a-4031-9c2a-7d84f598a5d2.mp4) · [Publicación original](https://x.com/anthonyriera/status/2096559197999501724) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2945,7 +4059,7 @@ Convierte el logotipo 2D de un personaje proporcionado en una versión 3D animad
 Crea un juego de un cangrejo en Three.js a partir de un documento estructurado que abarque aspecto, personaje, mundo, acciones, objetivos, interfaz y cámara. Haz que las monedas se eleven y vuelen hacia el cangrejo cuando pase; señala cualquier requisito contradictorio.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096337699737350144-video-d20dcbc3e616.mp4) · [Publicación original](https://x.com/zeuuss_01/status/2096337879173591171) · [Demo en línea](https://beach-crab-game.netlify.app/) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171) · [Ver vídeo ↗](https://media.tripogrowth.space/media/521a94bc-d2ac-4586-9f3e-669779fae56d.mp4) · [Publicación original](https://x.com/zeuuss_01/status/2096337879173591171) · [Demo en línea](https://beach-crab-game.netlify.app/) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2963,7 +4077,7 @@ Crea un juego de un cangrejo en Three.js a partir de un documento estructurado q
 Transforma La noche estrellada de Van Gogh en un pueblo 3D explorable con habitantes, iluminación y ciclo de día y noche. Renderiza un cortometraje que recorra el mundo terminado.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/starry-night-village-with-a-day-night-cycle-2096555183790575682) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096552620626182144-video-6643bf0e6e0a.mp4) · [Publicación original](https://x.com/Firisis_/status/2096555183790575682) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/starry-night-village-with-a-day-night-cycle-2096555183790575682) · [Ver vídeo ↗](https://media.tripogrowth.space/media/615501f9-2bc2-428a-99e0-14047bfacc7c.mp4) · [Publicación original](https://x.com/Firisis_/status/2096555183790575682) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2981,7 +4095,7 @@ Transforma La noche estrellada de Van Gogh en un pueblo 3D explorable con habita
 Recrea una referencia en un único archivo HTML con Three.js. Compara el resultado repetidamente y corrige las diferencias; perfecciona la iluminación, la profundidad de los modelos y los controles de aspecto vítreo con efectos sutiles que respondan al puntero.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/reference-matched-three-js-interface-2096510126244999366) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096509525641805824-video-3b59d2080454.mp4) · [Publicación original](https://x.com/MengTo/status/2096510126244999366) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/reference-matched-three-js-interface-2096510126244999366) · [Ver vídeo ↗](https://media.tripogrowth.space/media/f7755cc7-fb8d-4889-b378-76ff414bac62.mp4) · [Publicación original](https://x.com/MengTo/status/2096510126244999366) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2999,7 +4113,7 @@ Recrea una referencia en un único archivo HTML con Three.js. Compara el resulta
 Genera recursos 3D optimizados con Tripo P2, móntalos en Blender y crea el rig y la animación de los personajes. Revisa cómo encajan espacialmente los personajes y la escena.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096480471941255169-video-945e4c7db324.mp4) · [Publicación original](https://x.com/Stefan_3D_AI/status/2096481425050743048) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048) · [Ver vídeo ↗](https://media.tripogrowth.space/media/d9606a81-22b9-4fe5-9da4-4e86593ae549.mp4) · [Publicación original](https://x.com/Stefan_3D_AI/status/2096481425050743048) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -3017,6 +4131,6 @@ Genera recursos 3D optimizados con Tripo P2, móntalos en Blender y crea el rig 
 Crea una landing page de las profundidades marinas con efectos de agua de Three.js, una interfaz oscura de aspecto vítreo y movimiento ligado al desplazamiento. Combina la ambientación 3D con interacciones web claras y adaptables a distintos tamaños de pantalla.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175) · [Ver vídeo ↗](https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096268589192097792-video-db6769b12fa2.mp4) · [Publicación original](https://x.com/himanshubuildss/status/2096269057544831175) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175) · [Ver vídeo ↗](https://media.tripogrowth.space/media/683057c6-6991-4b76-846d-8f6d990c3e91.mp4) · [Publicación original](https://x.com/himanshubuildss/status/2096269057544831175) · [Volver a los ejemplos](#all-prompts)
 
 ---

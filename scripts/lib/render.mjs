@@ -38,7 +38,7 @@ function fenced(value) {
 
 export function renderCatalog(prompts, locale, prefix = '') {
   const zh = locale.code === 'zh', en = locale.code === 'en'
-  const picks = prompts.filter(p => p.featured).sort((a, b) => a.order - b.order || a.id.localeCompare(b.id, 'en')).slice(0, 4)
+  const picks = prompts.filter(p => p.featured && p.images.length).sort((a, b) => a.order - b.order || a.id.localeCompare(b.id, 'en')).slice(0, 4)
   const lines = [generated, '', '# Awesome Astra Prompts', '', badges(prompts, locale, prefix), '',
     `<a href="https://www.tripo3d.ai${en ? '' : `/${locale.code}`}/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=readme_hero"><img src="${prefix}assets/hero.webp" width="100%" alt="Awesome Astra Prompts"></a>`, '',
     `**${locale.intro}**`, '',
