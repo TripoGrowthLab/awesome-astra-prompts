@@ -28,7 +28,7 @@
 
 **100 · 最新の Astra プロンプト**
 
-<table width="100%">
+<table align="center">
 <tr><td align="center">
 <br>
 <p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_top">全 184 件の作例を公式サイトで見る →</a></strong></p>
@@ -2542,7 +2542,7 @@ Three.jsの水表現、暗いガラス風のインターフェース、スクロ
 
 ---
 
-<table width="100%">
+<table align="center">
 <tr><td align="center">
 <br>
 <p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 184 件の作例を公式サイトで見る →</a></strong></p>

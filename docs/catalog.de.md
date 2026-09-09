@@ -28,7 +28,7 @@
 
 **100 · Neueste Astra-Prompts**
 
-<table width="100%">
+<table align="center">
 <tr><td align="center">
 <br>
 <p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_top">Alle 184 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
@@ -2542,7 +2542,7 @@ Erstelle eine Tiefsee-Landingpage mit Three.js-Wassereffekten, einer dunklen gla
 
 ---
 
-<table width="100%">
+<table align="center">
 <tr><td align="center">
 <br>
 <p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 184 Beispiele auf der offiziellen Website ansehen →</a></strong></p>

@@ -28,7 +28,7 @@
 
 **100 · Derniers prompts Astra**
 
-<table width="100%">
+<table align="center">
 <tr><td align="center">
 <br>
 <p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_top">Voir les 184 exemples sur le site officiel →</a></strong></p>
@@ -2542,7 +2542,7 @@ Crée une landing page des grands fonds avec des effets d’eau Three.js, une in
 
 ---
 
-<table width="100%">
+<table align="center">
 <tr><td align="center">
 <br>
 <p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 184 exemples sur le site officiel →</a></strong></p>

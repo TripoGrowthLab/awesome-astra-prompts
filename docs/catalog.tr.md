@@ -28,7 +28,7 @@
 
 **100 · En yeni Astra istemleri**
 
-<table width="100%">
+<table align="center">
 <tr><td align="center">
 <br>
 <p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_top">Resmî sitede 184 örneğin tümünü keşfet →</a></strong></p>
@@ -2542,7 +2542,7 @@ Three.js su efektleri, koyu cam görünümlü arayüz ve kaydırmaya bağlı har
 
 ---
 
-<table width="100%">
+<table align="center">
 <tr><td align="center">
 <br>
 <p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 184 örneğin tümünü keşfet →</a></strong></p>

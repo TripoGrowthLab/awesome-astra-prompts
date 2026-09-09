@@ -28,7 +28,7 @@
 
 **100 · Prompt Astra mới nhất**
 
-<table width="100%">
+<table align="center">
 <tr><td align="center">
 <br>
 <p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_top">Xem toàn bộ 184 ví dụ trên trang chính thức →</a></strong></p>
@@ -2542,7 +2542,7 @@ Xây dựng trang đích biển sâu với hiệu ứng nước Three.js, giao d
 
 ---
 
-<table width="100%">
+<table align="center">
 <tr><td align="center">
 <br>
 <p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 184 ví dụ trên trang chính thức →</a></strong></p>

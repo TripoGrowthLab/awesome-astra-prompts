@@ -33,5 +33,5 @@ export function galleryNotice(locale, count, total, placement) {
   if (total <= count) return ''
   const fill = text => text.replace('{count}', count).replace('{total}', total)
   const url = `https://www.tripo3d.ai${locale.code === 'en' ? '' : `/${locale.code}`}/3d-prompts/models/${modelSlug}?utm_source=github&utm_medium=referral&utm_campaign=awesome_astra_prompts&utm_content=catalog_${placement}`
-  return `<table width="100%">\n<tr><td align="center">\n<br>\n<p><strong><a href="${url.replaceAll('&', '&amp;')}">${fill(copy[locale.code][2])} →</a></strong></p>\n<p><sub>${fill(copy[locale.code][1])}</sub></p>\n<br>\n</td></tr>\n</table>`
+  return `<table align="center">\n<tr><td align="center">\n<br>\n<p><strong><a href="${url.replaceAll('&', '&amp;')}">${fill(copy[locale.code][2])} →</a></strong></p>\n<p><sub>${fill(copy[locale.code][1])}</sub></p>\n<br>\n</td></tr>\n</table>`
 }

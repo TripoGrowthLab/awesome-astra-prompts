@@ -28,7 +28,7 @@
 
 **100 · Prompt Astra più recenti**
 
-<table width="100%">
+<table align="center">
 <tr><td align="center">
 <br>
 <p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_top">Esplora tutti i 184 esempi sul sito ufficiale →</a></strong></p>
@@ -2542,7 +2542,7 @@ Crea una landing page degli abissi con effetti d’acqua Three.js, un’interfac
 
 ---
 
-<table width="100%">
+<table align="center">
 <tr><td align="center">
 <br>
 <p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 184 esempi sul sito ufficiale →</a></strong></p>

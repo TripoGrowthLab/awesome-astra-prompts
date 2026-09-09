@@ -28,7 +28,7 @@
 
 **100 · 최신 Astra 프롬프트**
 
-<table width="100%">
+<table align="center">
 <tr><td align="center">
 <br>
 <p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_top">공식 사이트에서 전체 사례 184개 보기 →</a></strong></p>
@@ -2542,7 +2542,7 @@ Three.js 물 효과, 어두운 유리 느낌의 인터페이스, 스크롤에 �
 
 ---
 
-<table width="100%">
+<table align="center">
 <tr><td align="center">
 <br>
 <p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 184개 보기 →</a></strong></p>
