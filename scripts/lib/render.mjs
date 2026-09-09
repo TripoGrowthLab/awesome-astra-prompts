@@ -1,4 +1,5 @@
 import { locales, repository } from './locales.mjs'
+import { selectCatalog, catalogTitle, galleryNotice } from './catalog.mjs'
 
 export const html = value => String(value).replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;').replaceAll('"', '&quot;')
 const md = value => html(value).replace(/[\\\[\]|*_`]/g, char => `\\${char}`).replace(/\r?\n/g, ' ')
@@ -36,15 +37,17 @@ function fenced(value) {
   return `${fence}text\n${value}\n${fence}`
 }
 
-export function renderCatalog(prompts, locale, prefix = '') {
+export function renderCatalog(prompts, locale, prefix = '', total = prompts.length) {
+  prompts = selectCatalog(prompts)
   const zh = locale.code === 'zh', en = locale.code === 'en'
   const picks = prompts.filter(p => p.featured && p.images.length).sort((a, b) => a.order - b.order || a.id.localeCompare(b.id, 'en')).slice(0, 4)
   const lines = [generated, '', '# Awesome Astra Prompts', '', badges(prompts, locale, prefix), '',
     `<a href="https://www.tripo3d.ai${en ? '' : `/${locale.code}`}/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=readme_hero"><img src="${prefix}assets/hero.webp" width="100%" alt="Awesome Astra Prompts"></a>`, '',
     `**${locale.intro}**`, '',
     en ? 'Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.' : zh ? '探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。' : '', '',
-    en ? `**${prompts.length} examples · ${locales.length} languages · ${prompts.filter(p => p.repository).length} examples with source code**` : zh ? `**${prompts.length} 条案例 · ${locales.length} 种语言 · ${prompts.filter(p => p.repository).length} 条附项目源码**` : `**${prompts.length} · ${locale.title}**`, '',
+    en ? `**${prompts.length} examples · ${locales.length} languages · ${prompts.filter(p => p.repository).length} examples with source code**` : zh ? `**${prompts.length} 条案例 · ${locales.length} 种语言 · ${prompts.filter(p => p.repository).length} 条附项目源码**` : `**${prompts.length} · ${catalogTitle(locale)}**`, '',
   ]
+  lines.push(galleryNotice(locale, prompts.length, total, 'top'), '')
   if (picks.length) {
     lines.push(`## ${locale.featured}`, '', '<table>')
     for (let i = 0; i < picks.length; i += 2) {
@@ -57,7 +60,7 @@ export function renderCatalog(prompts, locale, prefix = '') {
     }
     lines.push('</table>', '')
   }
-  lines.push('<a id="all-prompts"></a>', '', `## ${locale.title}`, '', '<details>', `<summary>${locale.browse}</summary>`, '')
+  lines.push('<a id="all-prompts"></a>', '', `## ${catalogTitle(locale)}`, '', '<details>', `<summary>${locale.browse}</summary>`, '')
   for (const prompt of prompts) lines.push(`- ${link(prompt.translations[locale.code].title, '#' + prompt.id)}${prompt.repository ? ' · GitHub' : ''}`)
   lines.push('', '</details>', '')
   // Repeated imported boilerplate adds no information about the actual example.
@@ -73,6 +76,7 @@ export function renderCatalog(prompts, locale, prefix = '') {
     if (entry.description && entry.description.trim() !== entry.prompt.trim() && descriptionCounts.get(entry.description) === 1) lines.push(md(entry.description), '')
     lines.push(`**${locale.prompt}**`, '', fenced(entry.prompt), '', links(prompt, locale), '', '---', '')
   }
+  lines.push(galleryNotice(locale, prompts.length, total, 'bottom'), '')
   if (en || zh) {
     lines.push(en ? '## Share a good example' : '## 分享好作品', '',
       en ? `[Suggest an example](${root}/issues/new) with the original post, a preview and any available prompt or project repository. See [CONTRIBUTING.md](${prefix}CONTRIBUTING.md).` : `发现了值得尝试的作品？[推荐案例](${root}/issues/new)，附上原帖、预览和可获取的提示词或项目源码。参见[贡献指南](${prefix}CONTRIBUTING.md)。`, '',
@@ -83,11 +87,12 @@ export function renderCatalog(prompts, locale, prefix = '') {
   return lines.join('\n').replace(/\n{4,}/g, '\n\n\n')
 }
 
-export function renderAll(prompts) {
+export function renderAll(prompts, total = prompts.length) {
+  prompts = selectCatalog(prompts)
   const output = new Map()
-  for (const locale of locales) output.set(`docs/catalog.${locale.code}.md`, renderCatalog(prompts, locale, '../'))
-  output.set('README.md', renderCatalog(prompts, locales.find(l => l.code === 'en')))
-  output.set('README.zh-CN.md', renderCatalog(prompts, locales.find(l => l.code === 'zh')))
+  for (const locale of locales) output.set(`docs/catalog.${locale.code}.md`, renderCatalog(prompts, locale, '../', total))
+  output.set('README.md', renderCatalog(prompts, locales.find(l => l.code === 'en'), '', total))
+  output.set('README.zh-CN.md', renderCatalog(prompts, locales.find(l => l.code === 'zh'), '', total))
   const lines = [generated, '', '# Start with source code', '', '[← Awesome Astra Prompts](../README.md)', '', 'Explore the linked projects and check their own licenses before reuse.', '']
   const repos = [...new Set(prompts.map(p => p.repository).filter(Boolean))]
   for (const repo of repos) {

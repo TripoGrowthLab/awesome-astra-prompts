@@ -126,7 +126,7 @@ export function projectPrompts(docs, modelId, cmsOrigin) {
     const video = currentVideo || publicURL(doc.video?.sourceURL || doc.sourceVideo?.url, cmsOrigin)
     return {
       id, slug: doc.slug, hasDetailPage: doc.migration?.sourceSystem === 'homepage-3d-prompts', translations, author: { name: doc.author.name, url: publicURL(doc.author.url, cmsOrigin) || source },
-      source, date: date.slice(0, 10), repository: publicURL(doc.links?.repository, cmsOrigin), demo: publicURL(doc.links?.liveDemo, cmsOrigin),
+      source, date: date.slice(0, 10), publishedAt: new Date(date).toISOString(), repository: publicURL(doc.links?.repository, cmsOrigin), demo: publicURL(doc.links?.liveDemo, cmsOrigin),
       video, media, featured: Boolean(doc.editorial?.featured), order: Number.isFinite(doc.editorial?.order) ? doc.editorial.order : 0,
     }
   }).sort((a, b) => Number(Boolean(b.repository)) - Number(Boolean(a.repository)) || a.order - b.order || a.id.localeCompare(b.id, 'en'))

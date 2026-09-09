@@ -4,6 +4,7 @@ import { dirname, join, resolve, relative } from 'node:path'
 import { pathToFileURL } from 'node:url'
 import { createHash } from 'node:crypto'
 import { locales } from './lib/locales.mjs'
+import { CATALOG_LIMIT, galleryNotice } from './lib/catalog.mjs'
 
 const hash = bytes => createHash('sha256').update(bytes).digest('hex')
 const withoutFences = content => {
@@ -26,6 +27,9 @@ export async function validateOutputs(staging = '.') {
   const media = JSON.parse(await read('assets/manifest.json'))
   assert.equal(manifest.schemaVersion, 1)
   assert(manifest.count > 0)
+  assert.equal(manifest.limit, CATALOG_LIMIT)
+  assert(Number.isSafeInteger(manifest.totalCount) && manifest.totalCount >= manifest.count)
+  assert.equal(manifest.count, Math.min(manifest.totalCount, CATALOG_LIMIT), 'Catalog must contain at most the latest 100 prompts')
   assert.equal(manifest.promptIds.length, manifest.count)
   assert.equal(new Set(manifest.promptIds).size, manifest.count)
   assert.deepEqual(manifest.locales, locales.map(l => l.code))
@@ -50,6 +54,8 @@ export async function validateOutputs(staging = '.') {
     const prose = withoutFences(content)
     assert(!/source-derived|hidden prompt|来源整理稿|Get the JSON|Try an idea, then make it yours|What “prompt” means here/i.test(prose), `Removed copy returned in ${path}`)
     if (path !== 'docs/with-code.md') {
+      const locale = locales.find(l => path === `docs/catalog.${l.code}.md` || path === (l.code === 'en' ? 'README.md' : l.code === 'zh' ? 'README.zh-CN.md' : ''))
+      for (const placement of ['top', 'bottom']) assert(prose.includes(galleryNotice(locale, manifest.count, manifest.totalCount, placement)), `Missing localized gallery link: ${path}`)
       const ids = [...prose.matchAll(/<a id="([^"]+)"><\/a>/g)].map(m => m[1])
       assert.deepEqual(ids, ['all-prompts', ...manifest.promptIds], `Missing or reordered examples: ${path}`)
       const badges = [...prose.matchAll(/alt="([^"]+)" src="https:\/\/img.shields.io\/badge\//g)]
