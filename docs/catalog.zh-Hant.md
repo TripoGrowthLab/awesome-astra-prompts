@@ -26,7 +26,7 @@
 **為你的下一個遊戲、場景或互動世界尋找靈感。**
 
 
-**201 · 最新 Astra 提示詞**
+**211 · 最新 Astra 提示詞**
 
 ## 精選作品
 
@@ -44,10 +44,9 @@
 <details>
 <summary>瀏覽案例</summary>
 
+- [Mosswing：行動版 3D 點按拍翅遊戲](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
 - [可互動的雙環能量核心](#2096551010089263181) · GitHub
 - [體素版克盧日－納波卡統一廣場](#2096262733259837681) · GitHub
-- [騎自行車的鵜鶘互動場景](#2096213850383331489)
-- [搭配自製 3D 素材的 Roblox 卡丁車遊戲](#2096219700879331665)
 - [完整起降流程的瀏覽器飛行模擬器](#2096236137266512181)
 - [在 Blender 中重建寫實且可編輯的龍](#2096335588727349434)
 - [將 X 圖片製作成 3D 渲染](#2096338836854804782)
@@ -80,30 +79,31 @@
 - [Blender 中的 12 秒森林小徑](#2096986557244723371)
 - [編輯 Blender 場景，調整滾花銅柱與 PCB 配合](#2096990373813858591)
 - [工作桌上的機器人寵物](#2097004192627933279)
+- [房屋的詳細 3D 建模](#2097057316138832282)
+- [互動式果凍檸檬樹](#2097065330728128920)
+- [在 Godot 中為趾行式機甲建立骨架並製作動畫](#2097123382852829230)
 - [日式花店拆解與復原動畫](#2097153139795468365)
 - [從參考圖生成 Skyrim 風格村莊地形](#2097167383576383502)
 - [使用參考圖改善 Blender 3D 模型的臉部特徵](#2097313247116341424)
+- [重現《英雄聯盟》的迷你 3D 遊戲](#2097320830602809682)
 - [北京天壇祈年殿 TypeScript + Three.js WebGL 專案](#2097323734504017936)
 - [重現《英雄聯盟》風格的網頁遊戲](#2097336230078013598)
 - [Playroom：復古 3D 瀏覽器遊樂場](#2097339176094195899)
 - [溫馨濕地湖畔世界](#2097343467026289039)
+- [受《Backrooms》啟發的 Blender VHS 場景](#2097534290112188602)
+- [以影片為參考，在 Three.js 重建 3D 場景](#2097588270171660321)
+- [沉浸式 3D 稻田網站](#2097602565110419781)
+- [以 GPT-6 Astra 與 Blender 搭建機械臂追貓喜劇場景](#2097675660873605422)
+- [建構 THE LAST GATE：帶算術門的人群跑酷](#2097678911882809407)
 - [怪獸城市戰鬥](#2096251574918013135)
 - [在 Blender 中切換角色表情](#2096525100518453342)
-- [軌道交會對接模擬](#2096225621303042258)
-- [參考圖轉拖船模型](#2096180220839760375)
 - [滾動驅動的 3D 工作室網站](#2096245759121277132)
 - [Komorebi 河流皮划艇](#2096244208533455049)
 - [折射玻璃瓶產品敘事](#2096243989439713677)
-- [幼兒玩具互動世界](#2096201415051911597)
-- [困在立方體中的風暴](#2096220264413409648)
-- [咖啡杯裡的海洋生命](#2096174858837074198)
 - [互動式超級高鐵演示](#2096250748099068377)
 - [程式化拿破崙半身像](#2096234355395903672)
 - [鐵路車站大廳](#2096226711222546461)
-- [動畫引導微縮場景](#2096222790894661841)
-- [OX Vice Drive 開放城市駕駛](#2096206082712768897)
 - [C# 與 WASM 瀏覽器賽車物理](#2096258619574513880)
-- [可拆解的人體解剖模型](#2096221988763173186)
 - [記憶扭蛋機](#2096241295949975602)
 - [以《魔獸爭霸》為靈感的 Unity 角色場景](#2096308567863079420)
 - [可旋轉的 3D 將棋棋盤](#2096579856133947507)
@@ -147,6 +147,26 @@
 
 </details>
 
+<a id="mosswing-mobile-3d-tap-to-flap-game"></a>
+
+### Mosswing：行動版 3D 點按拍翅遊戲
+
+[Ayi1337](https://github.com/Ayi1337) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/mosswing-mobile-3d-tap-to-flap-game"><img src="../assets/previews/e48e75f6d576698277fbf38943951dca9b414e6f8a6ec01da83ac63b9df5f829.png" width="840" loading="lazy" alt="Mosswing：行動版 3D 點按拍翅遊戲"></a>
+
+打造一款精緻的行動瀏覽器 3D 飛行遊戲，具備單指點按操作、持續捲動的間隙、即時計分，以及原創的生物與世界觀。
+
+**提示詞**
+
+```text
+重新詮釋經典的「點按拍翅」遊戲——玩家透過點按，讓小型生物維持滯空，滑翔穿越一連串無盡的間隙——將它製作成可在行動瀏覽器遊玩的 3D 遊戲。只需一個 index.html，開啟後即可立即遊玩，不使用外部素材（可使用 CDN 函式庫，由你自行決定）。保留大家記憶中的核心玩法：單指點按操作、重力、朝玩家方向捲動的間隙、碰撞一次即結束，以及以通過的間隙數計分。其他一切都由你決定：生物的種類、障礙物、世界觀、鏡頭、拍翅手感，以及視覺呈現的發揮程度。請設計原創角色與風格，不要複製原作美術。我不會回答釐清問題。我評判的是一件完整、優雅且手感出色的作品，而不是功能清單。小而完整，勝過龐大卻粗糙。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [查看原文](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [專案原始碼](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [線上展示](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="2096551010089263181"></a>
 
 ### 可互動的雙環能量核心
@@ -161,7 +181,7 @@
 在 Blender 中建立能量核心、兩個圓環與金屬底座。連同材質匯出至 Three.js 檢視器，提供旋轉、縮放、自動環繞與脈動效果控制。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [觀看影片 ↗](https://media.tripogrowth.space/media/ec698960-001f-4034-b885-237c8d313d5a.mp4) · [查看原文](https://x.com/oneruofeng/status/2096551010089263181) · [專案原始碼](https://github.com/wangruofeng/orbital-core-showcase) · [線上展示](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [查看原文](https://x.com/oneruofeng/status/2096551010089263181) · [專案原始碼](https://github.com/wangruofeng/orbital-core-showcase) · [線上展示](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -179,51 +199,7 @@
 將克盧日－納波卡的 Piața Unirii（統一廣場）製作成互動式體素世界。保留廣場可辨識的配置與地標，改編為可探索的微縮場景。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681) · [觀看影片 ↗](https://media.tripogrowth.space/media/7cda5111-797c-4b65-8731-27f1dcc66533.mp4) · [查看原文](https://x.com/danmana/status/2096262733259837681) · [專案原始碼](https://github.com/danmana/piata-unirii) · [線上展示](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2096213850383331489"></a>
-
-### 騎自行車的鵜鶘互動場景
-
-[AI Builder Club](https://x.com/aibuilderclub_) · 2026-09-05
-
-<a href="https://x.com/aibuilderclub_/status/2096213850383331489"><img src="../assets/previews/bfaf05732302b6b4b42dc6111f9d179284f87758a1343ad007afa58e96a19c5e.jpg" width="840" loading="lazy" alt="騎自行車的鵜鶘互動場景"></a>
-
-建立一隻在瀏覽器中騎著薄荷綠自行車的 3D 鵜鶘，具備自然踩踏、軌道控制、縮放與可調整速度功能。
-
-**提示詞**
-
-```text
-建立一個時尚且具互動性的 3D 鵜鶘騎自行車場景，並在瀏覽器中呈現。
-鵜鶘應戴著紅白相間的自行車帽與太陽眼鏡。為自行車製作薄荷綠的復古車架，並加入動畫速度線來強調動感。
-讓我可以旋轉場景、放大檢視，並調整騎乘速度。請特別注意自行車幾何結構、角色比例與自然的踩踏動作。速度變化時，動畫也要保持流暢。
-將頁面製作得精緻完善，準備好用於公開展示；採用經過考量的燈光、協調一致的配色，以及簡潔的控制項。
-請自行在瀏覽器中測試，並在完成前修正任何視覺或互動上的問題。
-```
-
-[觀看影片 ↗](https://media.tripogrowth.space/media/44600b3e-cd8d-472f-8b5c-75c81cbe589f.mp4) · [查看原文](https://x.com/aibuilderclub_/status/2096213850383331489) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2096219700879331665"></a>
-
-### 搭配自製 3D 素材的 Roblox 卡丁車遊戲
-
-[Givros](https://x.com/givros) · 2026-09-05
-
-<a href="https://x.com/givros/status/2096219700879331665"><img src="../assets/previews/5c294d1c86a0a0be00b87bd42151424304fdcdf32de5352a6db93a471756ea4e.jpg" width="840" loading="lazy" alt="搭配自製 3D 素材的 Roblox 卡丁車遊戲"></a>
-
-打造完整的 Roblox 卡丁車競速遊戲，包含自訂資產、甩尾、AI 對手、檢查點、圈數追蹤，以及可重新開始的賽果畫面。
-
-**提示詞**
-
-```text
-透過 Roblox MCP 在 Roblox Studio 中打造完成度高、經過精緻打磨的卡丁車競速遊戲。使用 Blender 與 Three.js 程序化生成風格一致且細節豐富的資產；在 Blender 中完成網格、UV 與烘焙貼圖，再匯入為經過最佳化、搭配相容 PBR 貼圖的 Roblox MeshParts。在遊戲中確認比例、軸心、材質與碰撞。使用 Roblox 原生算圖與 Luau 實作遊戲玩法；Three.js 僅用於生成資產，不作為執行時環境。優先完成一條精美、內容完整的賽道，並加入靈敏的駕駛與甩尾手感、AI 對手、檢查點、圈數追蹤，以及從倒數到結算並可重新開始的完整流程。細緻調整光照、VFX、音效與 UI。完整遊玩比賽、檢查實際遊玩截圖，持續迭代，直到修正匯入失敗、視覺瑕疵與遊戲玩法錯誤，同時維持流暢效能。不要使用佔位內容、粗糙資產或原型視覺效果。交付完整組裝且可遊玩的 Roblox 體驗，而不只是腳本或匯出的資產。
-```
-
-[觀看影片 ↗](https://media.tripogrowth.space/media/ef5e5ca2-30d3-412c-a69f-09af23075d1b.mp4) · [查看原文](https://x.com/givros/status/2096219700879331665) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681) · [查看原文](https://x.com/danmana/status/2096262733259837681) · [專案原始碼](https://github.com/danmana/piata-unirii) · [線上展示](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -233,7 +209,7 @@
 
 [aditya](https://x.com/adxtyahq) · 2026-09-05
 
-<a href="https://x.com/adxtyahq/status/2096236137266512181"><img src="../assets/previews/bbb03f5650350e6b4a323f0dd76f98d1abb0cbe94896f2dbe24d68c4bfbf8ce8.jpg" width="840" loading="lazy" alt="完整起降流程的瀏覽器飛行模擬器"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096236137266512181"><img src="../assets/previews/bbb03f5650350e6b4a323f0dd76f98d1abb0cbe94896f2dbe24d68c4bfbf8ce8.jpg" width="840" loading="lazy" alt="完整起降流程的瀏覽器飛行模擬器"></a>
 
 使用作者分享的完整提示詞，打造可操控的 3D 客機、機場與飛行儀表，並實作從起飛到降落的完整遊戲流程。
 
@@ -325,7 +301,7 @@ TECHNICAL
 完成前，請在瀏覽器中執行遊戲並自行測試完整的遊戲流程。修正你發現的操控、物理、視覺錯誤與互動問題。
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/8e483e20-0c35-46e6-85b3-a2226f10c9ca.mp4) · [查看原文](https://x.com/adxtyahq/status/2096236137266512181) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096236137266512181) · [查看原文](https://x.com/adxtyahq/status/2096236137266512181) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -335,7 +311,7 @@ TECHNICAL
 
 [Sarang Borude](https://x.com/doomdave) · 2026-09-05
 
-<a href="https://x.com/doomdave/status/2096335588727349434"><img src="../assets/previews/756d0d4859c6a3bec065b9594d7fed7544101b6f6b6fb1e331bbfee059e84738.jpg" width="840" loading="lazy" alt="在 Blender 中重建寫實且可編輯的龍"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096335588727349434"><img src="../assets/previews/756d0d4859c6a3bec065b9594d7fed7544101b6f6b6fb1e331bbfee059e84738.jpg" width="840" loading="lazy" alt="在 Blender 中重建寫實且可編輯的龍"></a>
 
 一份逐字可用的 Blender 提示詞，用於根據提供的參考圖重建寫實、完全可編輯的 3D 龍，內容包含解剖結構建模、材質、電影感打光、驗證渲染，以及 10 秒鏡頭環繞展示。
 
@@ -544,7 +520,7 @@ TECHNICAL
 自主完成以上各階段。先從參考圖分析與解剖結構粗模開始。如果遇到無法從參考圖解決的重大歧義，請選擇最符合解剖結構的方案，記錄該假設並繼續執行。
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/37abdf440442e643f2cd1704bd9fc7b850a2e7c4111b10d25d2a46a5b1c96b25.mp4) · [查看原文](https://x.com/doomdave/status/2096335588727349434) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096335588727349434) · [查看原文](https://x.com/doomdave/status/2096335588727349434) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -554,9 +530,9 @@ TECHNICAL
 
 [Matt Boyle](https://x.com/MattJamesBoyle) · 2026-09-05
 
-<a href="https://x.com/MattJamesBoyle/status/2096338836854804782"><img src="../assets/previews/ea082ba0b96ce2048a717565f743d1448c4bef031ad0585dcdb75aced928fad8.jpg" width="840" loading="lazy" alt="將 X 圖片製作成 3D 渲染"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096338836854804782"><img src="../assets/previews/ea082ba0b96ce2048a717565f743d1448c4bef031ad0585dcdb75aced928fad8.jpg" width="840" loading="lazy" alt="將 X 圖片製作成 3D 渲染"></a>
 
-<a href="https://x.com/MattJamesBoyle/status/2096338836854804782"><img src="../assets/previews/26763990c48c54529e71a58e0de45e5ed7ba72f3937e895b52a9f60da4eb0460.png" width="840" loading="lazy" alt="將 X 圖片製作成 3D 渲染"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096338836854804782"><img src="../assets/previews/26763990c48c54529e71a58e0de45e5ed7ba72f3937e895b52a9f60da4eb0460.png" width="840" loading="lazy" alt="將 X 圖片製作成 3D 渲染"></a>
 
 作者表示，他請 Astra 下載 Blender，並根據自己在 X 上的圖片製作 3D 渲染，最後產出一張新的個人頭像。
 
@@ -566,7 +542,7 @@ TECHNICAL
 下載 Blender，將我在 X 上的圖片製作成 3D 渲染。
 ```
 
-[查看原文](https://x.com/MattJamesBoyle/status/2096338836854804782) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096338836854804782) · [查看原文](https://x.com/MattJamesBoyle/status/2096338836854804782) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -576,14 +552,14 @@ TECHNICAL
 
 [Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-05
 
-<a href="https://x.com/higgsfield_ai/status/2096342420543660277"><img src="../assets/previews/1712c53120622f0ba430f5985562bd6eb307621c1a4466ef9d2cf26c99b81716.jpg" width="840" loading="lazy" alt="從角色概念到 3D 建模、骨架綁定與動畫"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096342420543660277"><img src="../assets/previews/1712c53120622f0ba430f5985562bd6eb307621c1a4466ef9d2cf26c99b81716.jpg" width="840" loading="lazy" alt="從角色概念到 3D 建模、骨架綁定與動畫"></a>
 
 涵蓋角色概念設計、貼圖 3D 建模、拓撲重建、UV 展開、骨架綁定與卡通動畫的角色製作提示詞。
 
 **提示詞**
 
 ```text
-使用 GPT-6 Astra 控制我的電腦，並完成以下事項： 
+使用 GPT-6 Astra 控制我的電腦，並完成以下事項：
 
 1. 使用 Higgsfield Soul 2.0 設計角色概念，
 
@@ -604,7 +580,7 @@ TECHNICAL
 9. 然後在 Higgsfield 上使用 Seedance 2.5 將它製作成卡通動畫
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/49f2b4f9-927c-41ee-a918-718911d7cab6.mp4) · [查看原文](https://x.com/higgsfield_ai/status/2096342420543660277) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096342420543660277) · [查看原文](https://x.com/higgsfield_ai/status/2096342420543660277) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -614,7 +590,7 @@ TECHNICAL
 
 [Generator](https://x.com/groovestreetgen) · 2026-09-05
 
-<a href="https://x.com/groovestreetgen/status/2096354461652488562"><img src="../assets/previews/72b971d6246be2161f38fbee61113a317d4da0ae9c42e3fbe6f431adf9337003.jpg" width="840" loading="lazy" alt="可互動的 3D 樂團與音訊同步動畫"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096354461652488562"><img src="../assets/previews/72b971d6246be2161f38fbee61113a317d4da0ae9c42e3fbe6f431adf9337003.jpg" width="840" loading="lazy" alt="可互動的 3D 樂團與音訊同步動畫"></a>
 
 Astra 受託創作一部原創短篇作品，並打造一個可互動的 3D 樂團，包含音訊驅動動畫、時間跳轉、慢動作、鏡頭控制、MIDI 與原始檔。
 
@@ -624,7 +600,7 @@ Astra 受託創作一部原創短篇作品，並打造一個可互動的 3D 樂�
 創作一部原創短篇作品，並打造一個可互動的 3D 樂團。根據音訊時間驅動動畫。加入時間跳轉、慢動作、鏡頭控制、MIDI 與原始檔。
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/31a8ef5fdf9df19e171eb6e9959eef420812fbd00696f5bc87062af319a667e1.mp4) · [查看原文](https://x.com/groovestreetgen/status/2096354461652488562) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096354461652488562) · [查看原文](https://x.com/groovestreetgen/status/2096354461652488562) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -634,7 +610,7 @@ Astra 受託創作一部原創短篇作品，並打造一個可互動的 3D 樂�
 
 [John Kler](https://x.com/JohnKlerAI) · 2026-09-06
 
-<a href="https://x.com/JohnKlerAI/status/2096391653669953761"><img src="../assets/previews/0203a375c4a0f77f1fae00d9c8c9173739b940debd87bf4144d4f375ccc8c12e.jpg" width="840" loading="lazy" alt="在 Blender 中建立並渲染黑洞"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096391653669953761"><img src="../assets/previews/0203a375c4a0f77f1fae00d9c8c9173739b940debd87bf4144d4f375ccc8c12e.jpg" width="840" loading="lazy" alt="在 Blender 中建立並渲染黑洞"></a>
 
 作者表示，他們讓 GPT Astra 和 Fable 5.1 使用相同的提示詞，在 Blender 中建立並渲染一個受《星際效應》啟發的黑洞。
 
@@ -644,7 +620,7 @@ Astra 受託創作一部原創短篇作品，並打造一個可互動的 3D 樂�
 在 Blender 中製作並渲染一個如同《星際效應》裡那樣美麗的黑洞。
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/1b73598434da7ad65d81ad44ae9f64256b96030f284a8cec325a1caff5f56b56.mp4) · [查看原文](https://x.com/JohnKlerAI/status/2096391653669953761) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096391653669953761) · [查看原文](https://x.com/JohnKlerAI/status/2096391653669953761) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -654,7 +630,7 @@ Astra 受託創作一部原創短篇作品，並打造一個可互動的 3D 樂�
 
 [Mo Elgaraihy](https://x.com/EngMoElgaraihy) · 2026-09-06
 
-<a href="https://x.com/EngMoElgaraihy/status/2096438110095585753"><img src="../assets/previews/e14b00869191181ad52fe51c4e0a57d3ad72c405802c16cb36147a9b5d613143.jpg" width="840" loading="lazy" alt="Lego 1999 Racers 重建版"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096438110095585753"><img src="../assets/previews/e14b00869191181ad52fe51c4e0a57d3ad72c405802c16cb36147a9b5d613143.jpg" width="840" loading="lazy" alt="Lego 1999 Racers 重建版"></a>
 
 使用 GPT-6 Astra 完整重建 Lego 1999 Racers 賽車遊戲。
 
@@ -664,7 +640,7 @@ Astra 受託創作一部原創短篇作品，並打造一個可互動的 3D 樂�
 完整重建知名賽車遊戲 Lego 1999 Racers。
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/2d031e51276cbf6c7d559143e251455c3e81db292e333d5db7e8200dda691528.mp4) · [查看原文](https://x.com/EngMoElgaraihy/status/2096438110095585753) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096438110095585753) · [查看原文](https://x.com/EngMoElgaraihy/status/2096438110095585753) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -674,7 +650,7 @@ Astra 受託創作一部原創短篇作品，並打造一個可互動的 3D 樂�
 
 [KrixAi](https://x.com/KrixOnok) · 2026-09-06
 
-<a href="https://x.com/KrixOnok/status/2096547658164834788"><img src="../assets/previews/eadc8f8cca00ee66056e71bf05b1b36329d411767d2d0f7e3d110e8889cdc48e.jpg" width="840" loading="lazy" alt="以西結的聖殿異象：3D 場景"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096547658164834788"><img src="../assets/previews/eadc8f8cca00ee66056e71bf05b1b36329d411767d2d0f7e3d110e8889cdc48e.jpg" width="840" loading="lazy" alt="以西結的聖殿異象：3D 場景"></a>
 
 用於將以西結的聖殿異象及其周圍景觀重現為 3D 場景的提示詞，包含庭院與一條賜生命的河流。
 
@@ -684,7 +660,7 @@ Astra 受託創作一部原創短篇作品，並打造一個可互動的 3D 樂�
 以西結的聖殿異象以 3D 呈現會是什麼樣子？
 ```
 
-[查看原文](https://x.com/KrixOnok/status/2096547658164834788) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096547658164834788) · [查看原文](https://x.com/KrixOnok/status/2096547658164834788) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -694,7 +670,7 @@ Astra 受託創作一部原創短篇作品，並打造一個可互動的 3D 樂�
 
 [Ashish Thakur](https://x.com/ashishthakur___) · 2026-09-06
 
-<a href="https://x.com/ashishthakur___/status/2096562462674079868"><img src="../assets/previews/e7222558f53aaf22484aa3c0cf3b3732d4481a0552afa4401ecb26fa0f7ef2af.jpg" width="840" loading="lazy" alt="核爆炸 3D 城市模擬"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096562462674079868"><img src="../assets/previews/e7222558f53aaf22484aa3c0cf3b3732d4481a0552afa4401ecb26fa0f7ef2af.jpg" width="840" loading="lazy" alt="核爆炸 3D 城市模擬"></a>
 
 以城市為場景的 3D 核爆炸示範，呈現核閃光、擴散中的衝擊波、火球與煙霧，以及爆炸波及建築物時造成的龜裂與坍塌。
 
@@ -704,7 +680,7 @@ Astra 受託創作一部原創短篇作品，並打造一個可互動的 3D 樂�
 建立核爆炸示範：包含 3D 城市、核閃光、擴散中的衝擊波、火球與煙霧，並讓建築物在爆炸波及時逐步龜裂並坍塌
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/b4430be0a5e8ccad3b4bd26ce397300c536ce53d32c6031cc92acc0e89519dd6.mp4) · [查看原文](https://x.com/ashishthakur___/status/2096562462674079868) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096562462674079868) · [查看原文](https://x.com/ashishthakur___/status/2096562462674079868) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -722,7 +698,7 @@ Astra 受託創作一部原創短篇作品，並打造一個可互動的 3D 樂�
 太酷了！我們也把這個 3D 視圖加到網站上吧！
 ```
 
-[查看原文](https://x.com/Dgamax/status/2096567422253662372) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096567422253662372) · [查看原文](https://x.com/Dgamax/status/2096567422253662372) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -732,9 +708,9 @@ Astra 受託創作一部原創短篇作品，並打造一個可互動的 3D 樂�
 
 [Chris W](https://x.com/Chris_Wozniczek) · 2026-09-06
 
-<a href="https://x.com/Chris_Wozniczek/status/2096593372311941143"><img src="../assets/previews/52de12ef7c4dd44ec548962b86297e175683992ebdfdd2665699a18fe86bb9ca.jpg" width="840" loading="lazy" alt="Totality Engine：電影感日蝕大教堂"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/totality-engine-cinematic-eclipse-cathedral-2096593372311941143"><img src="../assets/previews/52de12ef7c4dd44ec548962b86297e175683992ebdfdd2665699a18fe86bb9ca.jpg" width="840" loading="lazy" alt="Totality Engine：電影感日蝕大教堂"></a>
 
-<a href="https://x.com/Chris_Wozniczek/status/2096593372311941143"><img src="../assets/previews/9e97a6d41453e28ab9686e13dcab0dcef1a92a9a19b5c06469dd6d763559548d.jpg" width="840" loading="lazy" alt="Totality Engine：電影感日蝕大教堂"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/totality-engine-cinematic-eclipse-cathedral-2096593372311941143"><img src="../assets/previews/9e97a6d41453e28ab9686e13dcab0dcef1a92a9a19b5c06469dd6d763559548d.jpg" width="840" loading="lazy" alt="Totality Engine：電影感日蝕大教堂"></a>
 
 完整的 Three.js/WebGL 提示詞，用於製作一部 32 秒循環短片：場景位於淹水的哥德式大教堂內，設有宏偉的天文鐘、經過編排的攝影機節拍、程序化水體、玻璃行星與日蝕光效。Chris W 發布了 Astra 執行結果，以及與其他模型的比較。
 
@@ -806,7 +782,7 @@ totality-engine.html 將它放入 documents/llm-benchmarks
 畫面應該像一格短片劇照，而不是 Three.js 範例。如果第 26 秒的截圖看不出「日蝕瞬間、如大教堂般巨大的時鐘」，就代表尚未完成。請先調整構圖、材質與攝影機，再加入更多物件。
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/58e4abad-e682-4de8-b90b-e41667474cf7.mp4) · [查看原文](https://x.com/Chris_Wozniczek/status/2096593372311941143) · [線上展示](https://chris-website-theta.vercel.app/astra-xhigh-totality-engine.html) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/totality-engine-cinematic-eclipse-cathedral-2096593372311941143) · [查看原文](https://x.com/Chris_Wozniczek/status/2096593372311941143) · [線上展示](https://chris-website-theta.vercel.app/astra-xhigh-totality-engine.html) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -816,7 +792,7 @@ totality-engine.html 將它放入 documents/llm-benchmarks
 
 [Neatprompts](https://x.com/neatpromptsai) · 2026-09-06
 
-<a href="https://x.com/neatpromptsai/status/2096596888799895855"><img src="../assets/previews/56c259cdea4b8765fc130231a638ad18bde4ac8712b8add0bcbbdef052027c03.jpg" width="840" loading="lazy" alt="使用 Three.js 建立 CS2"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096596888799895855"><img src="../assets/previews/56c259cdea4b8765fc130231a638ad18bde4ac8712b8add0bcbbdef052027c03.jpg" width="840" loading="lazy" alt="使用 Three.js 建立 CS2"></a>
 
 Neatprompts 分享的一則短提示詞，用 GPT-6 Astra 在 Three.js 中建立 CS2 風格場景。這則分享經由 Om Patel，追溯至 u/TimeForsaken5275 在 Reddit 上公開示範的內容。
 
@@ -826,7 +802,7 @@ Neatprompts 分享的一則短提示詞，用 GPT-6 Astra 在 Three.js 中建立
 嘿，GPT-6 Astra，請使用 Three.js 幫我製作 CS2，不要出錯。
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/e271d98fca4347c75b9c4f81b29b4224b38a394ae837c6a946f6ecdf227d783c.mp4) · [查看原文](https://x.com/neatpromptsai/status/2096596888799895855) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096596888799895855) · [查看原文](https://x.com/neatpromptsai/status/2096596888799895855) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -836,9 +812,9 @@ Neatprompts 分享的一則短提示詞，用 GPT-6 Astra 在 Three.js 中建立
 
 [Salma](https://x.com/Salmaaboukarr) · 2026-09-06
 
-<a href="https://x.com/Salmaaboukarr/status/2096612394281603144"><img src="../assets/previews/aed224d4a25ce9c0d436ebd4d2bfb7fadb211bdf624364e3f7905a0dbec1546f.jpg" width="840" loading="lazy" alt="從刀模圖到紙盒摺疊動畫"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096612394281603144"><img src="../assets/previews/aed224d4a25ce9c0d436ebd4d2bfb7fadb211bdf624364e3f7905a0dbec1546f.jpg" width="840" loading="lazy" alt="從刀模圖到紙盒摺疊動畫"></a>
 
-<a href="https://x.com/Salmaaboukarr/status/2096612394281603144"><img src="../assets/previews/8c6f1b8b77c2fbe4db5935da41922377548fb196ff642bf47e5acafa079b526a.png" width="840" loading="lazy" alt="從刀模圖到紙盒摺疊動畫"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096612394281603144"><img src="../assets/previews/8c6f1b8b77c2fbe4db5935da41922377548fb196ff642bf47e5acafa079b526a.png" width="840" loading="lazy" alt="從刀模圖到紙盒摺疊動畫"></a>
 
 將包裝刀模線轉換成可編輯的 Blender 模型，包含獨立面板、摺疊樞軸，以及從平面展開到閉合成盒的動畫。
 
@@ -872,7 +848,7 @@ Neatprompts 分享的一則短提示詞，用 GPT-6 Astra 在 Three.js 中建立
 比對並符合所提供圖片的比例與外框。由於未提供數值尺寸，請以組裝後 300 × 300 × 95 mm 的紙盒作為暫定尺寸。請讓這些尺寸易於修改，並明確標示為假設值。
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/a4e7ae04-89ac-4adc-b677-5ee29a83f3b1.mp4) · [查看原文](https://x.com/Salmaaboukarr/status/2096612394281603144) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096612394281603144) · [查看原文](https://x.com/Salmaaboukarr/status/2096612394281603144) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -882,7 +858,7 @@ Neatprompts 分享的一則短提示詞，用 GPT-6 Astra 在 Three.js 中建立
 
 [Tripo](https://x.com/tripoai) · 2026-09-06
 
-<a href="https://x.com/tripoai/status/2096629506047955327"><img src="../assets/previews/e3304eeb4bf4186f9a57768af5e1962741c3dce44ed5aace2aef04585d0e69ca.jpg" width="840" loading="lazy" alt="Windhaven 海岸奇幻冒險遊戲"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096629506047955327"><img src="../assets/previews/e3304eeb4bf4186f9a57768af5e1962741c3dce44ed5aace2aef04585d0e69ca.jpg" width="840" loading="lazy" alt="Windhaven 海岸奇幻冒險遊戲"></a>
 
 由作者提供的 Unity 提示詞，用於打造可遊玩的風格化海岸奇幻冒險遊戲，以及其 3D 島嶼城市環境「Windhaven」；包含中央廣場、神殿、地標與第三人稱遊戲設計方向。
 
@@ -894,7 +870,7 @@ Neatprompts 分享的一則短提示詞，用 GPT-6 Astra 在 Three.js 中建立
 一款高質感、風格化的海岸奇幻冒險遊戲，背景設定在一座名為 Windhaven、陽光普照的小型島嶼城市。城市以溫暖的象牙色石灰岩與金黃色砂岩建造，四周環繞著清澈的土耳其藍海水；城市中可見青綠色銅屋頂、有遮棚的市集攤位、拱形城門、繁茂的庭院樹木、雕刻噴泉、散發光芒的魔法信標，以及俯瞰城鎮的宏偉神殿。一名身穿旅行斗篷、背著背包的年輕獨行探險者，穿過中央廣場，朝神殿前進。環境氛圍寧靜、神秘、古老，並帶有溫和的魔法氣息；建築融入地中海與北非風格。高細節的風格化 PBR 材質、手工雕琢的石材表面、細微的風化痕跡、優雅的裝飾雕刻、柔和的午後陽光、悠長的電影感陰影、土耳其藍與暖金色調、精緻的 AA 級冒險遊戲美術方向、第三人稱遊戲鏡頭、寬幅建立鏡頭、統一的環境設計、清楚易辨的路徑與地標；不要使用者介面、文字、標誌或現代物件。
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/7a9c804e3db0b128f569756d890729450ae9852b5b420c507f381d6a80ec40ac.mp4) · [查看原文](https://x.com/tripoai/status/2096629506047955327) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096629506047955327) · [查看原文](https://x.com/tripoai/status/2096629506047955327) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -904,7 +880,7 @@ Neatprompts 分享的一則短提示詞，用 GPT-6 Astra 在 Three.js 中建立
 
 [Prompt Case](https://x.com/HiltonMisia) · 2026-09-06
 
-<a href="https://x.com/HiltonMisia/status/2096637091627364531"><img src="../assets/previews/ad164224745a34f4bcd14af8ec14fe0d7a6cf7203a80ea7544106dd1b76dc8f7.jpg" width="840" loading="lazy" alt="Three.js 黑暗奇幻動作角色扮演遊戲"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096637091627364531"><img src="../assets/previews/ad164224745a34f4bcd14af8ec14fe0d7a6cf7203a80ea7544106dd1b76dc8f7.jpg" width="840" loading="lazy" alt="Three.js 黑暗奇幻動作角色扮演遊戲"></a>
 
 使用 Three.js 打造一款完整可遊玩的 3D 黑暗奇幻動作角色扮演遊戲，包含被森林重新 reclaim 的哥德式聖所、騎士戰鬥、魔法、首領戰、繁體中文 HUD 元素，以及完整的遊戲流程。
 
@@ -922,7 +898,7 @@ Neatprompts 分享的一則短提示詞，用 GPT-6 Astra 在 Three.js 中建立
 獨立完成建模、資產製作或取得、程式開發與效能最佳化。以 AAA 級的視覺完成度為目標。持續進行遊玩測試、檢視畫面並修正問題，直到交付完整可玩的遊戲、啟動說明與原始碼。
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/b13845b05ef5436efebf143b9312aceae495d96246bb0eb6475eadd48f5fbcd5.mp4) · [查看原文](https://x.com/HiltonMisia/status/2096637091627364531) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096637091627364531) · [查看原文](https://x.com/HiltonMisia/status/2096637091627364531) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -932,7 +908,7 @@ Neatprompts 分享的一則短提示詞，用 GPT-6 Astra 在 Three.js 中建立
 
 [John Kler](https://x.com/JohnKlerAI) · 2026-09-06
 
-<a href="https://x.com/JohnKlerAI/status/2096637194270134742"><img src="../assets/previews/84a5d8102434534e61ab35c026fa683ed9919bef12f0b14bbc41c482941a00de.jpg" width="840" loading="lazy" alt="Blender 旋轉地球渲染"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096637194270134742"><img src="../assets/previews/84a5d8102434534e61ab35c026fa683ed9919bef12f0b14bbc41c482941a00de.jpg" width="840" loading="lazy" alt="Blender 旋轉地球渲染"></a>
 
 用於製作精美 5 秒地球自轉渲染的 Blender 提示詞，視角從太空望向地球。作者表示，兩個模型都使用這段相同的提示詞進行測試。
 
@@ -942,7 +918,7 @@ Neatprompts 分享的一則短提示詞，用 GPT-6 Astra 在 Three.js 中建立
 在 Blender 中製作一段精美的 5 秒地球自轉渲染，視角從太空望向地球。
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/48daeb6040d6e4c973074c202242b728d1b401e8e26be5ae0b511936af504299.mp4) · [查看原文](https://x.com/JohnKlerAI/status/2096637194270134742) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096637194270134742) · [查看原文](https://x.com/JohnKlerAI/status/2096637194270134742) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -952,13 +928,13 @@ Neatprompts 分享的一則短提示詞，用 GPT-6 Astra 在 Three.js 中建立
 
 [Weijian Zhang](https://x.com/weijianzhang_) · 2026-09-06
 
-<a href="https://x.com/weijianzhang_/status/2096641728497275011"><img src="../assets/previews/30b921728503d9086c9f52adbcc90a3fa3dc568cb7e85903172fc1c5295cb279.jpg" width="840" loading="lazy" alt="Mini World 3D 探索遊戲"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096641728497275011"><img src="../assets/previews/30b921728503d9086c9f52adbcc90a3fa3dc568cb7e85903172fc1c5295cb279.jpg" width="840" loading="lazy" alt="Mini World 3D 探索遊戲"></a>
 
-<a href="https://x.com/weijianzhang_/status/2096641728497275011"><img src="../assets/previews/1c1069d42fdaa31366b4154c69a205a264955350472475e3a932b0f3f7049efb.jpg" width="840" loading="lazy" alt="Mini World 3D 探索遊戲"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096641728497275011"><img src="../assets/previews/1c1069d42fdaa31366b4154c69a205a264955350472475e3a932b0f3f7049efb.jpg" width="840" loading="lazy" alt="Mini World 3D 探索遊戲"></a>
 
-<a href="https://x.com/weijianzhang_/status/2096641728497275011"><img src="../assets/previews/e74bf6ff2780644c0873ea7117b727228e024d922753968e98ef8a647ccf7a93.jpg" width="840" loading="lazy" alt="Mini World 3D 探索遊戲"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096641728497275011"><img src="../assets/previews/e74bf6ff2780644c0873ea7117b727228e024d922753968e98ef8a647ccf7a93.jpg" width="840" loading="lazy" alt="Mini World 3D 探索遊戲"></a>
 
-<a href="https://x.com/weijianzhang_/status/2096641728497275011"><img src="../assets/previews/d648e6703ab0743201b31b075e98778544146a0de037da5184ba54d1b09e7390.jpg" width="840" loading="lazy" alt="Mini World 3D 探索遊戲"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096641728497275011"><img src="../assets/previews/d648e6703ab0743201b31b075e98778544146a0de037da5184ba54d1b09e7390.jpg" width="840" loading="lazy" alt="Mini World 3D 探索遊戲"></a>
 
 用於建立適合兒童的 3D 世界探索遊戲的可重複使用提示詞，包含球形世界、縮放、森林、沙漠、海洋、游泳、探索，以及反覆優化。
 
@@ -968,7 +944,7 @@ Neatprompts 分享的一則短提示詞，用 GPT-6 Astra 在 Three.js 中建立
 讓我們製作一款名為 Mini World 的遊戲。這是一款 3D 世界探索遊戲，採用美觀且高品質的圖像介面，設計目標是讓我四歲半的兒子也能輕鬆遊玩並享受其中。玩家應該可以放大和縮小視角。從遠處看，這個世界像一顆小球，但靠近後，裡面有不同的區域可供探索。其中一個區域可以是森林，另一個可以是沙漠，還可以加入讓角色四處游泳的海洋。遊戲必須讓人感到有趣且真正可玩，角色能在世界各處移動、探索不同環境，並一路發現各種事物。請將確實完成這些功能視為首要目標。遊戲應經過精心設計，並以反覆測試的方式持續打磨，確保移動、縮放、探索、游泳、環境、操作方式與整體體驗都能順暢整合。請持續測試並改進，直到所有功能都能可靠運作，讓遊戲達到精緻、直覺且適合幼兒享受的程度。
 ```
 
-[查看原文](https://x.com/weijianzhang_/status/2096641728497275011) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096641728497275011) · [查看原文](https://x.com/weijianzhang_/status/2096641728497275011) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -978,7 +954,7 @@ Neatprompts 分享的一則短提示詞，用 GPT-6 Astra 在 Three.js 中建立
 
 [Zaira Laraib](https://x.com/zairalaraib_) · 2026-09-06
 
-<a href="https://x.com/zairalaraib_/status/2096685163111694556"><img src="../assets/previews/ca7a881edaf820451a0358b858ac684b9a3b3cff295976d5c456dde6482e5b2c.jpg" width="840" loading="lazy" alt="可互動的手機拆解展示"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096685163111694556"><img src="../assets/previews/ca7a881edaf820451a0358b858ac684b9a3b3cff295976d5c456dde6482e5b2c.jpg" width="840" loading="lazy" alt="可互動的手機拆解展示"></a>
 
 建立 3D 智慧型手機視覺化，加入可控制分解與重組的滑桿、可選取的元件，以及各部件功能說明。
 
@@ -988,7 +964,7 @@ Neatprompts 分享的一則短提示詞，用 GPT-6 Astra 在 Three.js 中建立
 建立現代智慧型手機的互動式 3D 爆炸圖視覺化。將裝置拆分為主要元件，並讓我透過滑桿分解／重組手機。點選元件時，應將其單獨顯示並說明其功能。請納入電池、相機、SoC、記憶體、螢幕各層、喇叭、感測器、天線與主機板。優先打造美觀、類 Apple 風格的介面與令人滿意的互動效果。建置、執行、檢視並修正完整體驗。
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/3d7529b6-db3f-4245-87fc-5a53110130db.mp4) · [查看原文](https://x.com/zairalaraib_/status/2096685163111694556) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096685163111694556) · [查看原文](https://x.com/zairalaraib_/status/2096685163111694556) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1007,7 +983,7 @@ Neatprompts 分享的一則短提示詞，用 GPT-6 Astra 在 Three.js 中建立
 Trevor 是洛聖都的毒品販子，而 Lucia 和 Jason 是他的夥伴。
 ```
 
-[查看原文](https://x.com/ElIngeRRC/status/2096739993217577219) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096739993217577219) · [查看原文](https://x.com/ElIngeRRC/status/2096739993217577219) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1017,7 +993,7 @@ Trevor 是洛聖都的毒品販子，而 Lucia 和 Jason 是他的夥伴。
 
 [Simon Smith](https://x.com/_simonsmith) · 2026-09-07
 
-<a href="https://x.com/_simonsmith/status/2096766465730847059"><img src="../assets/previews/2b65a179759aadacaa8dcf78ecfd45f3e7dcd04b4d1f535bc553c3d9f7505f2d.jpg" width="840" loading="lazy" alt="使用 Blender MCP 製作 LEGO 人偶遊戲資產"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/astra-3d-2096766465730847059"><img src="../assets/previews/2b65a179759aadacaa8dcf78ecfd45f3e7dcd04b4d1f535bc553c3d9f7505f2d.jpg" width="840" loading="lazy" alt="使用 Blender MCP 製作 LEGO 人偶遊戲資產"></a>
 
 使用 Blender MCP，將 Donald Trump 製作成高品質 AAA 級 LEGO 人偶遊戲資產。
 
@@ -1027,7 +1003,7 @@ Trevor 是洛聖都的毒品販子，而 Lucia 和 Jason 是他的夥伴。
 使用 Blender MCP 製作 Donald Trump 的 LEGO 人偶版本，讓我能將其用作遊戲資產。請以 AAA 級遊戲的標準打造卓越品質，並反覆檢驗成果，確保細節豐富、造型準確且整體表現出色。
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/92169546-6768-4c0b-a8ae-f92fead653ad.mp4) · [查看原文](https://x.com/_simonsmith/status/2096766465730847059) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/astra-3d-2096766465730847059) · [查看原文](https://x.com/_simonsmith/status/2096766465730847059) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1037,7 +1013,7 @@ Trevor 是洛聖都的毒品販子，而 Lucia 和 Jason 是他的夥伴。
 
 [码农暖爸](https://x.com/Delroy715) · 2026-09-07
 
-<a href="https://x.com/Delroy715/status/2096793432987464010"><img src="../assets/previews/080a768b7958082811553a4d1a4c865caeee6e542e68fe0ba9e32ed478233342.jpg" width="840" loading="lazy" alt="使用 Three.js 和 WebGPU 製作可互動的軟體史萊姆"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096793432987464010"><img src="../assets/previews/080a768b7958082811553a4d1a4c865caeee6e542e68fe0ba9e32ed478233342.jpg" width="840" loading="lazy" alt="使用 Three.js 和 WebGPU 製作可互動的軟體史萊姆"></a>
 
 作者展示了一個名為 Softie 的瀏覽器史萊姆應用程式，並在後續明確發布了製作它所使用的提示詞。提示詞要求建立一個可拖曳、可擠壓，並具備可調整控制項的軟體史萊姆。
 
@@ -1050,7 +1026,7 @@ Trevor 是洛聖都的毒品販子，而 Lucia 和 Jason 是他的夥伴。
 頁面保持簡潔，使用淺灰色背景，標題採用大字。需要維持 60 幀。先產出一張目標效果圖，再依照這張圖建構，等截圖看起來相似後，再繼續增加細節。
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/ff1a75d50fccfb32eeea78b2dae5f667ed84673761cffbae90f01c501bbd3be9.mp4) · [查看原文](https://x.com/Delroy715/status/2096793432987464010) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096793432987464010) · [查看原文](https://x.com/Delroy715/status/2096793432987464010) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1060,7 +1036,7 @@ Trevor 是洛聖都的毒品販子，而 Lucia 和 Jason 是他的夥伴。
 
 [Rakib Hossen](https://x.com/rakib_hossen_ai) · 2026-09-07
 
-<a href="https://x.com/rakib_hossen_ai/status/2096814981509775616"><img src="../assets/previews/07c895f71d234e5fe33db4f12806b3c27102c020c4dab9ec784acb393ac62646.jpg" width="840" loading="lazy" alt="瀏覽器中的極致細節即時 3D 森林"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096814981509775616"><img src="../assets/previews/07c895f71d234e5fe33db4f12806b3c27102c020c4dab9ec784acb393ac62646.jpg" width="840" loading="lazy" alt="瀏覽器中的極致細節即時 3D 森林"></a>
 
 用於建立並公開發布高細節瀏覽器即時 3D 森林的逐字提示，包含茂密植被、地形變化、大氣效果、自由鏡頭探索，以及反覆進行的視覺檢視。
 
@@ -1109,7 +1085,7 @@ Trevor 是洛聖都的毒品販子，而 Lucia 和 Jason 是他的夥伴。
 建置完整體驗，在 ChatGPT Sites 上公開發布，確認部署成功，並回傳公開網址。
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/bc3c2a55-feba-4ceb-9c93-a36192f4be6a.mp4) · [查看原文](https://x.com/rakib_hossen_ai/status/2096814981509775616) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096814981509775616) · [查看原文](https://x.com/rakib_hossen_ai/status/2096814981509775616) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1119,7 +1095,7 @@ Trevor 是洛聖都的毒品販子，而 Lucia 和 Jason 是他的夥伴。
 
 [AiSongMan｜AI Workflow Lab](https://x.com/aisongman) · 2026-09-07
 
-<a href="https://x.com/aisongman/status/2096876083094466863"><img src="../assets/previews/947904c9cb1e72bc1a0531de36713a96a08bb9f4bef8c6f45f674bf096cd0d16.jpg" width="840" loading="lazy" alt="依參考影片重建可編輯的 Blender 房屋"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096876083094466863"><img src="../assets/previews/947904c9cb1e72bc1a0531de36713a96a08bb9f4bef8c6f45f674bf096cd0d16.jpg" width="840" loading="lazy" alt="依參考影片重建可編輯的 Blender 房屋"></a>
 
 根據參考影片，在 Blender 中重建房屋的建築結構、家具、植栽、材質、燈光與攝影機。
 
@@ -1129,7 +1105,7 @@ Trevor 是洛聖都的毒品販子，而 Lucia 和 Jason 是他的夥伴。
 使用 Blender Python API（bpy），根據參考影片建立可編輯的 Blender 場景。重現建築結構、接合細節、家具、植栽、材質、燈光與攝影機，並盡可能讓所有內容貼近參考影片。
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/c299659c-8eb6-44b0-95ca-59554395b137.mp4) · [查看原文](https://x.com/aisongman/status/2096876083094466863) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096876083094466863) · [查看原文](https://x.com/aisongman/status/2096876083094466863) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1139,7 +1115,7 @@ Trevor 是洛聖都的毒品販子，而 Lucia 和 Jason 是他的夥伴。
 
 [Prompt Case](https://x.com/HiltonMisia) · 2026-09-07
 
-<a href="https://x.com/HiltonMisia/status/2096907617117540478"><img src="../assets/previews/bffeb201cd39ed86178dd22e30bda1ea70e4ff92902307d88ba66700e21dcd32.jpg" width="840" loading="lazy" alt="霍格華茲 3D 場景"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096907617117540478"><img src="../assets/previews/bffeb201cd39ed86178dd22e30bda1ea70e4ff92902307d88ba66700e21dcd32.jpg" width="840" loading="lazy" alt="霍格華茲 3D 場景"></a>
 
 可重複使用的提示詞，用於建立大規模、寫實且可探索的霍格華茲 3D 模型，包含周邊環境、地標、室內場景、道具、電影級呈現、霧氣、音效設計，以及可切換的視覺設定。
 
@@ -1149,7 +1125,7 @@ Trevor 是洛聖都的毒品販子，而 Lucia 和 Jason 是他的夥伴。
 使用 Headless Blender 建立《哈利波特》中的霍格華茲魔法與巫術學院，打造大規模、高度寫實且細節完整的 3D 模型。納入周邊自然環境、標誌性地標、忠實還原的室內場景與道具。提供電影級的材質、燈光、渲染與音效設計，營造神祕氛圍，並加入動態飄移的霧氣。允許使用者自由探索整個環境，並提供可切換的燈光與其他視覺選項設定。
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/8f12f26d-be03-4930-bb04-1c3635ab0d57.mp4) · [查看原文](https://x.com/HiltonMisia/status/2096907617117540478) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096907617117540478) · [查看原文](https://x.com/HiltonMisia/status/2096907617117540478) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1159,7 +1135,7 @@ Trevor 是洛聖都的毒品販子，而 Lucia 和 Jason 是他的夥伴。
 
 [ChatCut](https://x.com/chatcutapp) · 2026-09-07
 
-<a href="https://x.com/chatcutapp/status/2096925943575330908"><img src="../assets/previews/a9f1e309f5e743a28101e732f96b607dbd27c58d442ac05b3b196f0deb54ef12.jpg" width="840" loading="lazy" alt="用 Blender 和 ChatCut 重現產品廣告"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096925943575330908"><img src="../assets/previews/a9f1e309f5e743a28101e732f96b607dbd27c58d442ac05b3b196f0deb54ef12.jpg" width="840" loading="lazy" alt="用 Blender 和 ChatCut 重現產品廣告"></a>
 
 參考商業廣告，使用 Blender 與 ChatCut 逐鏡引導 3D 建模、材質、燈光、鏡頭運動與剪輯。
 
@@ -1171,7 +1147,7 @@ Trevor 是洛聖都的毒品販子，而 Lucia 和 Jason 是他的夥伴。
 仔細分析每個鏡頭的建模、材質、燈光、攝影機位置、動態時間安排與文字動畫。使用 Blender 製作 3D 動畫，並使用 ChatCut 進行剪輯，盡可能貼近參考影片。
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/5b80deba-a909-42b7-8b0f-43fb34d4aeed.mp4) · [查看原文](https://x.com/chatcutapp/status/2096925943575330908) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096925943575330908) · [查看原文](https://x.com/chatcutapp/status/2096925943575330908) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1181,7 +1157,7 @@ Trevor 是洛聖都的毒品販子，而 Lucia 和 Jason 是他的夥伴。
 
 [Zentrix⌚️](https://x.com/ZentrixHQ) · 2026-09-07
 
-<a href="https://x.com/ZentrixHQ/status/2096950715277004976"><img src="../assets/previews/97e0eb2219fface4eb1761e339ee46e0099540feb84eddf3e2513285374d9d70.jpg" width="840" loading="lazy" alt="將圖片轉換為 3D 模型並旋轉 360°"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096950715277004976"><img src="../assets/previews/97e0eb2219fface4eb1761e339ee46e0099540feb84eddf3e2513285374d9d70.jpg" width="840" loading="lazy" alt="將圖片轉換為 3D 模型並旋轉 360°"></a>
 
 作者明確以單張圖片搭配這段提示詞，建立 3D 模型並旋轉 360 度；產出的示範作品被描述為 3D 恐怖作品。
 
@@ -1191,7 +1167,7 @@ Trevor 是洛聖都的毒品販子，而 Lucia 和 Jason 是他的夥伴。
 將這張圖片轉換為 3D 模型並旋轉 360°。
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/ee7409031030817c7e237eaaef039147e07f72c0cce1a5068e5be562cdca1a04.mp4) · [查看原文](https://x.com/ZentrixHQ/status/2096950715277004976) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096950715277004976) · [查看原文](https://x.com/ZentrixHQ/status/2096950715277004976) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1201,7 +1177,7 @@ Trevor 是洛聖都的毒品販子，而 Lucia 和 Jason 是他的夥伴。
 
 [Dash](https://x.com/creativedash) · 2026-09-07
 
-<a href="https://x.com/creativedash/status/2096956214680965501"><img src="../assets/previews/c2aa4cd5daf5e1bc8f71051db13c08e7f52359b5a5aaf7b813b72d474117897e.jpg" width="840" loading="lazy" alt="Three.js WebGPU 無限微縮街景"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096956214680965501"><img src="../assets/previews/c2aa4cd5daf5e1bc8f71051db13c08e7f52359b5a5aaf7b813b72d474117897e.jpg" width="840" loading="lazy" alt="Three.js WebGPU 無限微縮街景"></a>
 
 建立互動式微縮街景，包含外送自行車、店家、濕滑路面效果、散落的落葉、彎曲世界、像素藝術風格，以及可調整的 Forge 參數。
 
@@ -1211,7 +1187,7 @@ Trevor 是洛聖都的毒品販子，而 Lucia 和 Jason 是他的夥伴。
 使用 three.js WebGPU 打造無限延伸的微縮街道：外送自行車騎過一排小店，潮濕柏油路上的水窪會在輪胎壓過時產生漣漪與水花，胎痕會逐漸淡去，落葉會四處散落，世界則呈現柔和的彎曲效果。採用像素藝術風格，並在手機上流暢執行。加入 Forge 參數，全面操控這個世界。
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/d8eee1e2-597e-4e14-b48f-c1a33b6ca10e.mp4) · [查看原文](https://x.com/creativedash/status/2096956214680965501) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096956214680965501) · [查看原文](https://x.com/creativedash/status/2096956214680965501) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1221,13 +1197,13 @@ Trevor 是洛聖都的毒品販子，而 Lucia 和 Jason 是他的夥伴。
 
 [Xenoah](https://x.com/shuminchuuu) · 2026-09-07
 
-<a href="https://x.com/shuminchuuu/status/2096966425017467344"><img src="../assets/previews/4249576bc3ef16efff9d41b996da6d554a81ab9b92521403fc31f796bdc219e6.jpg" width="840" loading="lazy" alt="「重力崩壞的地平線」VRChat 景觀世界"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/4249576bc3ef16efff9d41b996da6d554a81ab9b92521403fc31f796bdc219e6.jpg" width="840" loading="lazy" alt="「重力崩壞的地平線」VRChat 景觀世界"></a>
 
-<a href="https://x.com/shuminchuuu/status/2096966425017467344"><img src="../assets/previews/51d37ab77febf4110ac195be5af21dd52d50affd6065a08c5e6db483990660b1.jpg" width="840" loading="lazy" alt="「重力崩壞的地平線」VRChat 景觀世界"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/51d37ab77febf4110ac195be5af21dd52d50affd6065a08c5e6db483990660b1.jpg" width="840" loading="lazy" alt="「重力崩壞的地平線」VRChat 景觀世界"></a>
 
-<a href="https://x.com/shuminchuuu/status/2096966425017467344"><img src="../assets/previews/bbf43abf35435160d5917d94efa7a576610b94ea5786009662d9427c88b5ac97.jpg" width="840" loading="lazy" alt="「重力崩壞的地平線」VRChat 景觀世界"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/bbf43abf35435160d5917d94efa7a576610b94ea5786009662d9427c88b5ac97.jpg" width="840" loading="lazy" alt="「重力崩壞的地平線」VRChat 景觀世界"></a>
 
-<a href="https://x.com/shuminchuuu/status/2096966425017467344"><img src="../assets/previews/82e3e79bf97929c164258f8ed906c7080b9366386db02792fc854ef6a9b26117.jpg" width="840" loading="lazy" alt="「重力崩壞的地平線」VRChat 景觀世界"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/82e3e79bf97929c164258f8ed906c7080b9366386db02792fc854ef6a9b26117.jpg" width="840" loading="lazy" alt="「重力崩壞的地平線」VRChat 景觀世界"></a>
 
 這是一則使用 Blender 製作 VRChat 景觀世界完整 3D 模型的提示詞，呈現重力崩壞的遠景。以偏低模、醒目的大型剪影，構成丘陵、半圓形觀測平台、觀測裝置、垂直海面、倒置山脈、黑色柱體與空間斷層等元素。
 
@@ -1400,7 +1376,7 @@ PROPS
 。
 ```
 
-[查看原文](https://x.com/shuminchuuu/status/2096966425017467344) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096966425017467344) · [查看原文](https://x.com/shuminchuuu/status/2096966425017467344) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1410,7 +1386,7 @@ PROPS
 
 [Larus Canus](https://x.com/MrLarus) · 2026-09-07
 
-<a href="https://x.com/MrLarus/status/2096971051334857181"><img src="../assets/previews/e8d834a9a7ddc8627c0556335e17c834a6058acb2351f02dcd1a47beb8631ecf.jpg" width="840" loading="lazy" alt="可互動的中式庭院"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096971051334857181"><img src="../assets/previews/e8d834a9a7ddc8627c0556335e17c834a6058acb2351f02dcd1a47beb8631ecf.jpg" width="840" loading="lazy" alt="可互動的中式庭院"></a>
 
 使用 Blender 與 Three.js 製作可探索的 3D 中式庭院，包含建築元素、互動導覽、環境效果、動態野生動物，以及可在瀏覽器中執行的專案。
 
@@ -1426,7 +1402,7 @@ PROPS
 設計不遮擋場景的原創介面。分階段建立內容，在瀏覽器中檢查成果、修正問題，並交付可執行的專案、原始檔案與設定說明。
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/02dc67e53653c583671e53ea9e08103aa8c3a91da1a4fb31c9d6441aab3d3aef.mp4) · [查看原文](https://x.com/MrLarus/status/2096971051334857181) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096971051334857181) · [查看原文](https://x.com/MrLarus/status/2096971051334857181) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1436,7 +1412,7 @@ PROPS
 
 [Can Matrix](https://x.com/Jomolos) · 2026-09-07
 
-<a href="https://x.com/Jomolos/status/2096986557244723371"><img src="../assets/previews/3e060bfb3bf3973f0efb048cacbdc625fe879b8bca0cb46c2bb8fd367eb75268.jpg" width="840" loading="lazy" alt="Blender 中的 12 秒森林小徑"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096986557244723371"><img src="../assets/previews/3e060bfb3bf3973f0efb048cacbdc625fe879b8bca0cb46c2bb8fd367eb75268.jpg" width="840" loading="lazy" alt="Blender 中的 12 秒森林小徑"></a>
 
 在 Blender 中建立 12 秒森林小徑場景的提示詞。
 
@@ -1446,7 +1422,7 @@ PROPS
 Blender 中的 12 秒森林小徑
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/48260d191ecc20aefc450814edc110dbfcf4ecf50b6057d8eefcc5e6ebf4cf4e.mp4) · [查看原文](https://x.com/Jomolos/status/2096986557244723371) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096986557244723371) · [查看原文](https://x.com/Jomolos/status/2096986557244723371) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1456,9 +1432,9 @@ Blender 中的 12 秒森林小徑
 
 [Robert Boyd](https://x.com/rboyd) · 2026-09-07
 
-<a href="https://x.com/rboyd/status/2096990373813858591"><img src="../assets/previews/a8ee5a495643a02333b8f904a4d46c26f8211b6ba6ecb40ba3b2521387e81571.jpg" width="840" loading="lazy" alt="編輯 Blender 場景，調整滾花銅柱與 PCB 配合"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096990373813858591"><img src="../assets/previews/a8ee5a495643a02333b8f904a4d46c26f8211b6ba6ecb40ba3b2521387e81571.jpg" width="840" loading="lazy" alt="編輯 Blender 場景，調整滾花銅柱與 PCB 配合"></a>
 
-<a href="https://x.com/rboyd/status/2096990373813858591"><img src="../assets/previews/c25a45735c30595705175753c2fc55322a8e0a5327592956caaaf3942b53f511.png" width="840" loading="lazy" alt="編輯 Blender 場景，調整滾花銅柱與 PCB 配合"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096990373813858591"><img src="../assets/previews/c25a45735c30595705175753c2fc55322a8e0a5327592956caaaf3942b53f511.png" width="840" loading="lazy" alt="編輯 Blender 場景，調整滾花銅柱與 PCB 配合"></a>
 
 一段引用的提示詞要求 Astra 編輯 Blender 場景：挖除材料，讓滾花 M3 雙內牙銅柱能夠齊平安裝；加深 PCB 插槽，讓螺絲孔對齊；同時將合適的銅柱模型匯入場景。
 
@@ -1468,7 +1444,7 @@ Blender 中的 12 秒森林小徑
 幾乎完成了。1）請參考 ~/Desktop/remove_material_for_knurled_ends.png 中的圖片——我們需要在這裡挖除足夠的材料，讓 M3 雙內牙銅柱的滾花端能夠齊平安裝。請看看是否能找到帶有滾花端的這類銅柱模型／STL 或 STEP 檔案，並將其匯入 Blender 場景。2）請參考 ~/Desktop/deepen_pcb_slot.png，PCB 插槽大約淺了 1 mm（也就是說，我需要將 PCB 再往零件內推入約 1 mm，因此要挖除材料），才能讓螺絲孔對齊。
 ```
 
-[查看原文](https://x.com/rboyd/status/2096990373813858591) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096990373813858591) · [查看原文](https://x.com/rboyd/status/2096990373813858591) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1478,7 +1454,7 @@ Blender 中的 12 秒森林小徑
 
 [ZEUS⚡️](https://x.com/zeuuss_01) · 2026-09-07
 
-<a href="https://x.com/zeuuss_01/status/2097004192627933279"><img src="../assets/previews/9188a5a53301b71d404af1d10d6baf4e44585869cc933918118ae2180cf3c1ab.jpg" width="840" loading="lazy" alt="工作桌上的機器人寵物"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097004192627933279"><img src="../assets/previews/9188a5a53301b71d404af1d10d6baf4e44585869cc933918118ae2180cf3c1ab.jpg" width="840" loading="lazy" alt="工作桌上的機器人寵物"></a>
 
 一份詳盡的 Three.js 遊戲規格，描述一隻動作生動、電池電芯清晰可見、可充電並能執行三項物件驅動工作的四足機器人。
 
@@ -1723,7 +1699,67 @@ Blender 中的 12 秒森林小徑
 
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/65dbf60c-06b5-4e91-b8b7-30030e44596e.mp4) · [查看原文](https://x.com/zeuuss_01/status/2097004192627933279) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097004192627933279) · [查看原文](https://x.com/zeuuss_01/status/2097004192627933279) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2097057316138832282"></a>
+
+### 房屋的詳細 3D 建模
+
+[silvan](https://x.com/silvanrec) · 2026-09-07
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097057316138832282"><img src="../assets/previews/74346c42eb8d47709ba800a4e437c9eaf2a54ccf6d547f4932ff8193cf2987f2.jpg" width="840" loading="lazy" alt="房屋的詳細 3D 建模"></a>
+
+這篇貼文展示一個真實房屋的可編輯 3D 模型，包含玩具、家電和家具；模型由照片生成，並已在 Blender 中開啟。
+
+**提示詞**
+
+```text
+將這個場景詳細建模為 3D，包含玩具、家電和家具
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097057316138832282) · [查看原文](https://x.com/silvanrec/status/2097057316138832282) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2097065330728128920"></a>
+
+### 互動式果凍檸檬樹
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-07
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097065330728128920"><img src="../assets/previews/19fa5b36caaf4663987e99892e3cb3babcc452cbe50e1ef2f6108a859d3eba36.jpg" width="840" loading="lazy" alt="互動式果凍檸檬樹"></a>
+
+使用 WebGPU 建立互動式 3D 果凍檸檬樹，包含搖曳的樹枝、可用滑鼠拾取的檸檬，以及擠壓與彈跳物理效果。
+
+**提示詞**
+
+```text
+使用 WebGPU 建立互動式果凍檸檬樹
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097065330728128920) · [查看原文](https://x.com/vib3coded/status/2097065330728128920) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2097123382852829230"></a>
+
+### 在 Godot 中為趾行式機甲建立骨架並製作動畫
+
+[Om Patel](https://x.com/om_patel5) · 2026-09-08
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097123382852829230"><img src="../assets/previews/a89f2393a0951b706bb98c904c317b3afb4707e76b5f3f9432a19725616d2f11.jpg" width="840" loading="lazy" alt="在 Godot 中為趾行式機甲建立骨架並製作動畫"></a>
+
+引號中的提示詞要求 Astra 為現有的 GLB 機甲建立骨架，並製作趾行式腿部動畫，以便在 Godot 中預覽。
+
+**提示詞**
+
+```text
+可以幫我為這個 GLB 建立骨架並製作動畫嗎？我想在 Godot 預覽中看到趾行式腿部自然可信地行走，謝謝。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097123382852829230) · [查看原文](https://x.com/om_patel5/status/2097123382852829230) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1733,7 +1769,7 @@ Blender 中的 12 秒森林小徑
 
 [KANA｜東京AI映像](https://x.com/KanaWorks_AI) · 2026-09-08
 
-<a href="https://x.com/KanaWorks_AI/status/2097153139795468365"><img src="../assets/previews/ecac385562a375d47484397c0d45277de44f41c1bd02ab91144a341e05972e95.jpg" width="840" loading="lazy" alt="日式花店拆解與復原動畫"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097153139795468365"><img src="../assets/previews/ecac385562a375d47484397c0d45277de44f41c1bd02ab91144a341e05972e95.jpg" width="840" loading="lazy" alt="日式花店拆解與復原動畫"></a>
 
 在 Blender 中打造風格化花店，將建築與街道道具動畫化，分離成清晰易讀的層次，再重新組裝場景。
 
@@ -1762,7 +1798,7 @@ Blender 中的 12 秒森林小徑
 完整渲染的動畫，以及可編輯的 Blender 3D 專案檔。所有物件、元件、集合、材質與主要場景元素都必須以清晰、一致且專業的方式命名與整理。
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/9ff1b18d-1aa6-432c-ad96-bc3ebca2ba49.mp4) · [查看原文](https://x.com/KanaWorks_AI/status/2097153139795468365) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097153139795468365) · [查看原文](https://x.com/KanaWorks_AI/status/2097153139795468365) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1772,9 +1808,9 @@ Blender 中的 12 秒森林小徑
 
 [Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo) · 2026-09-08
 
-<a href="https://x.com/TaroKichijo/status/2097167383576383502"><img src="../assets/previews/9c9cbd259a893444392ed43dcb391e62636358a5f2f570cf4232cc13a2128a63.jpg" width="840" loading="lazy" alt="從參考圖生成 Skyrim 風格村莊地形"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097167383576383502"><img src="../assets/previews/9c9cbd259a893444392ed43dcb391e62636358a5f2f570cf4232cc13a2128a63.jpg" width="840" loading="lazy" alt="從參考圖生成 Skyrim 風格村莊地形"></a>
 
-<a href="https://x.com/TaroKichijo/status/2097167383576383502"><img src="../assets/previews/b2cb6b850ef77b3e545565d93a49f22ce192293b50f8ef2ad74f242cfe387ddf.jpg" width="840" loading="lazy" alt="從參考圖生成 Skyrim 風格村莊地形"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097167383576383502"><img src="../assets/previews/b2cb6b850ef77b3e545565d93a49f22ce192293b50f8ef2ad74f242cfe387ddf.jpg" width="840" loading="lazy" alt="從參考圖生成 Skyrim 風格村莊地形"></a>
 
 使用 img2threejs 建立 3D 奇幻村莊景觀，先生成參考圖來引導場景製作。
 
@@ -1784,7 +1820,7 @@ Blender 中的 12 秒森林小徑
 使用原始提示中指定的 img2threejs/img2threejs，建立類似 Skyrim 風格的 3D 村莊地形。請自行生成參考圖。
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/6decab87-0bc7-4913-8502-de4ef090731a.mp4) · [查看原文](https://x.com/TaroKichijo/status/2097167383576383502) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097167383576383502) · [查看原文](https://x.com/TaroKichijo/status/2097167383576383502) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1794,9 +1830,9 @@ Blender 中的 12 秒森林小徑
 
 [Carlos Olivera Terrazas](https://x.com/carlos_olivera) · 2026-09-08
 
-<a href="https://x.com/carlos_olivera/status/2097313247116341424"><img src="../assets/previews/8528f6aaa8b6070a8c1e3732f0791feac42ed1ba7d0c23cc85c7c9e0212600a1.png" width="840" loading="lazy" alt="使用參考圖改善 Blender 3D 模型的臉部特徵"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097313247116341424"><img src="../assets/previews/8528f6aaa8b6070a8c1e3732f0791feac42ed1ba7d0c23cc85c7c9e0212600a1.png" width="840" loading="lazy" alt="使用參考圖改善 Blender 3D 模型的臉部特徵"></a>
 
-<a href="https://x.com/carlos_olivera/status/2097313247116341424"><img src="../assets/previews/815f26c4feffea428b39e1c5d57de7f183ffc87c517bedb34755eec115e32d6e.png" width="840" loading="lazy" alt="使用參考圖改善 Blender 3D 模型的臉部特徵"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097313247116341424"><img src="../assets/previews/815f26c4feffea428b39e1c5d57de7f183ffc87c517bedb34755eec115e32d6e.png" width="840" loading="lazy" alt="使用參考圖改善 Blender 3D 模型的臉部特徵"></a>
 
 作者向 GPT-6 Astra 提出挑戰：在 Blender 3D 建模專案中，將第一張圖片作為參考，改善第二張圖片的臉部特徵。
 
@@ -1806,7 +1842,29 @@ Blender 中的 12 秒森林小徑
 以第一張圖片作為參考，改善第二張圖片的臉部特徵。
 ```
 
-[查看原文](https://x.com/carlos_olivera/status/2097313247116341424) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097313247116341424) · [查看原文](https://x.com/carlos_olivera/status/2097313247116341424) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2097320830602809682"></a>
+
+### 重現《英雄聯盟》的迷你 3D 遊戲
+
+[岚叔](https://x.com/LufzzLiz) · 2026-09-08
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097320830602809682"><img src="../assets/previews/36b98467e6157525383fbc35526f9c07f2cadf9f16b1559da917bb3cc5fc4eca.jpg" width="840" loading="lazy" alt="重現《英雄聯盟》的迷你 3D 遊戲"></a>
+
+貼文推薦了一段用於讓 Astra 建立《英雄聯盟》風格迷你遊戲的提示詞，要求包含地圖、英雄、小兵、防禦塔和原生遊戲 UI。這段提示詞屬於推薦內容，無法確認就是展示作品實際使用的輸入。
+
+**提示詞**
+
+```text
+第一步：做一款和《英雄聯盟》完全一樣的遊戲。LOL 有什麼，它就得有什麼：同一張地圖，畫質也要相符，還要有英雄、小兵、防禦塔等等。先從 5 名英雄開始。
+
+第二步：PUA（回嗆）Astra：這不是《英雄聯盟》，只是廉價山寨品。先寫好計畫，再依照真實尺寸與機制精準實作；UI 不准用 HTML 疊在上面，要做成原生、好看、像真正遊戲的介面。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097320830602809682) · [查看原文](https://x.com/LufzzLiz/status/2097320830602809682) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1816,7 +1874,7 @@ Blender 中的 12 秒森林小徑
 
 [govin.eth \| G哥](https://x.com/goan999999) · 2026-09-08
 
-<a href="https://x.com/goan999999/status/2097323734504017936"><img src="../assets/previews/b96633c15d16a1fad0fe0e700c8bec74e9157a05c86bbf84264cea903f333c4a.jpg" width="840" loading="lazy" alt="北京天壇祈年殿 TypeScript + Three.js WebGL 專案"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097323734504017936"><img src="../assets/previews/b96633c15d16a1fad0fe0e700c8bec74e9157a05c86bbf84264cea903f333c4a.jpg" width="840" loading="lazy" alt="北京天壇祈年殿 TypeScript + Three.js WebGL 專案"></a>
 
 根貼展示了使用 GPT-6 Astra 與 Three.js 製作的北京天壇祈年殿 3D 模型及網頁效果；作者後續貼出了用於建立此類專案的完整中文提示詞。
 
@@ -1839,7 +1897,7 @@ Blender 中的 12 秒森林小徑
 直接交付完整專案與啟動說明。頁面應能回應式適配視窗，具備高品質視覺效果與流暢互動，並透過實例化、合理的幾何細節及渲染最佳化，兼顧一般桌面瀏覽器的效能。程式碼模組應結構清晰、便於擴充；請驗證建置與主要功能，並如實說明尚未驗證的項目。
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/01eda954-4f59-4a02-ba94-7d5470fe7de8.mp4) · [查看原文](https://x.com/goan999999/status/2097323734504017936) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097323734504017936) · [查看原文](https://x.com/goan999999/status/2097323734504017936) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1849,7 +1907,7 @@ Blender 中的 12 秒森林小徑
 
 [李岳](https://x.com/liyue_ai) · 2026-09-08
 
-<a href="https://x.com/liyue_ai/status/2097336230078013598"><img src="../assets/previews/36b98467e6157525383fbc35526f9c07f2cadf9f16b1559da917bb3cc5fc4eca.jpg" width="840" loading="lazy" alt="重現《英雄聯盟》風格的網頁遊戲"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097336230078013598"><img src="../assets/previews/36b98467e6157525383fbc35526f9c07f2cadf9f16b1559da917bb3cc5fc4eca.jpg" width="840" loading="lazy" alt="重現《英雄聯盟》風格的網頁遊戲"></a>
 
 作者轉述並列出一段用於製作《英雄聯盟》風格網頁遊戲的提示詞，要求重現地圖、英雄、小兵、防禦塔，以及開局選用五名英雄等內容。這段提示詞描述的是 3D 遊戲創作目標，但貼文未明確說明是否為作者本人實際輸入。
 
@@ -1859,7 +1917,7 @@ Blender 中的 12 秒森林小徑
 製作一款和《英雄聯盟》一模一樣的遊戲。它需要包含《英雄聯盟》的全部內容、相同的地圖，以及相當的畫質水準，並包含英雄、小兵、防禦塔等元素。開局選用 5 名英雄。
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/f7618e1a-2e80-4350-a11a-f2f168a67562.mp4) · [查看原文](https://x.com/liyue_ai/status/2097336230078013598) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097336230078013598) · [查看原文](https://x.com/liyue_ai/status/2097336230078013598) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1869,31 +1927,31 @@ Blender 中的 12 秒森林小徑
 
 [Tripo](https://x.com/tripoai) · 2026-09-08
 
-<a href="https://x.com/tripoai/status/2097339176094195899"><img src="../assets/previews/a50398d5761279d4c67fa425f175dd71bdd68472435b1df9f4c8e703c7edb035.jpg" width="840" loading="lazy" alt="Playroom：復古 3D 瀏覽器遊樂場"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097339176094195899"><img src="../assets/previews/a50398d5761279d4c67fa425f175dd71bdd68472435b1df9f4c8e703c7edb035.jpg" width="840" loading="lazy" alt="Playroom：復古 3D 瀏覽器遊樂場"></a>
 
 這是一段作者原文發布的提示詞，用於打造完整且可遊玩的 Three.js 瀏覽器遊樂場：包含獨立的 GLB 硬體資產、互動式 3D 轉場、三款以卡匣為核心的遊戲、響應式控制，以及具無障礙性的備援行為。
 
 **提示詞**
 
 ```text
-打造一個名為「Playroom」的完整可玩瀏覽器遊樂場，採用懷舊的 1980 年代末期硬體美學，搭配克制而當代的編輯風格介面。使用 Three.js 進行渲染，並為 CRT 螢幕、主機、控制器與遊戲卡匣分別載入獨立的 GLB 資產。交付可實際運作的體驗，而非靜態模型。 
+打造一個名為「Playroom」的完整可玩瀏覽器遊樂場，採用懷舊的 1980 年代末期硬體美學，搭配克制而當代的編輯風格介面。使用 Three.js 進行渲染，並為 CRT 螢幕、主機、控制器與遊戲卡匣分別載入獨立的 GLB 資產。交付可實際運作的體驗，而非靜態模型。
 
 美術方向：使用暖調米白背景、仿舊象牙色塑膠、炭灰色細節、低彩度鼠尾草綠、灰霧陶土色與褪色藍。標題使用 Space Grotesk，搭配小尺寸 DM Mono 標籤。加入細分隔線、寬裕留白、低調的技術註記與精簡導覽。避免霓虹賽博龐克風格、光澤感儀表板卡片，以及過度使用漸層。
 
-首頁應如同精心安排的產品攝影。將 CRT 螢幕醒目地放在右側，主機放在左側，直立卡匣穩固地插在主機上，控制器置於前方。使用彎曲連接線連結各裝置，並讓線材接上實際的插孔。採用柔和的定向光、可信的接觸陰影、圓潤邊緣與略帶粗糙感的塑膠材質。避免物件彼此穿插。 
+首頁應如同精心安排的產品攝影。將 CRT 螢幕醒目地放在右側，主機放在左側，直立卡匣穩固地插在主機上，控制器置於前方。使用彎曲連接線連結各裝置，並讓線材接上實際的插孔。採用柔和的定向光、可信的接觸陰影、圓潤邊緣與略帶粗糙感的塑膠材質。避免物件彼此穿插。
 
-讓首頁以緩慢、電影感的左右環繞運鏡呈現。允許使用者拖曳旋轉視角，之後平順地恢復待機動態。在選定的硬體細節周圍加入克制且緩慢流動的資料脈衝。CRT 螢幕應顯示循環播放的像素藝術待機畫面，包含小型吉祥物、細微掃描線與「PLAYER ONE」字樣。準確地在吉祥物臉部使用提供的黃色 T 與白色 V 標誌。 
+讓首頁以緩慢、電影感的左右環繞運鏡呈現。允許使用者拖曳旋轉視角，之後平順地恢復待機動態。在選定的硬體細節周圍加入克制且緩慢流動的資料脈衝。CRT 螢幕應顯示循環播放的像素藝術待機畫面，包含小型吉祥物、細微掃描線與「PLAYER ONE」字樣。準確地在吉祥物臉部使用提供的黃色 T 與白色 V 標誌。
 
 醒目的「POWER ON」按鈕，或點擊主機場景，都應開始一段連續的轉場。讓攝影機平順地靠近 CRT 螢幕，引入動畫資料流，並逐步擴展場景以覆蓋整個視窗。全程覆蓋頂部與底部邊緣。透過平滑的明暗轉場揭示卡匣收藏，不要突然出現覆蓋層，也不要讓攝影機突然跳動。
 
-收藏區包含三款各具特色的直立卡匣：鼠尾草綠的 Snake、陶土色的 Breakout，以及藍色的 Blocks。每款都要有清晰的封面字樣，以及一個停棲在上方的小型動畫吉祥物。加入細微上下浮動、滑入抬升與輕柔傾斜效果。同時支援點擊 3D 卡匣，以及點擊其下方的無障礙文字按鈕。 
+收藏區包含三款各具特色的直立卡匣：鼠尾草綠的 Snake、陶土色的 Breakout，以及藍色的 Blocks。每款都要有清晰的封面字樣，以及一個停棲在上方的小型動畫吉祥物。加入細微上下浮動、滑入抬升與輕柔傾斜效果。同時支援點擊 3D 卡匣，以及點擊其下方的無障礙文字按鈕。
 
-每次選取都會開啟可玩的遊戲介面。Snake 包含食物鏈與限時加分水果。Breakout 包含多種磚塊排列，以及擋板或多球強化道具。Blocks 包含下一個方塊預覽、落點幽靈影像與消除列計分。提供清楚的操作說明、分數、暫停、重新開始與返回導覽。支援鍵盤控制與觸控按鈕，並在本機保存最佳分數。 
+每次選取都會開啟可玩的遊戲介面。Snake 包含食物鏈與限時加分水果。Breakout 包含多種磚塊排列，以及擋板或多球強化道具。Blocks 包含下一個方塊預覽、落點幽靈影像與消除列計分。提供清楚的操作說明、分數、暫停、重新開始與返回導覽。支援鍵盤控制與觸控按鈕，並在本機保存最佳分數。
 
 將螢幕內容與卡匣標籤維持為獨立的執行階段貼圖，確保文字保持銳利。保留具名模型部件，以支援互動與吉祥物動畫。加入載入回饋、3D 資產載入失敗時仍可使用的備援介面、響應式版面配置、清楚可見的鍵盤焦點，以及減少動態效果支援。整潔地整理專案，驗證三款遊戲與所有轉場，並準備好部署至 GitHub 與 Vercel。
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/92687847-5ef9-4103-85bc-0231f0a84219.mp4) · [查看原文](https://x.com/tripoai/status/2097339176094195899) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097339176094195899) · [查看原文](https://x.com/tripoai/status/2097339176094195899) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1903,7 +1961,7 @@ Blender 中的 12 秒森林小徑
 
 [Givros](https://x.com/givros) · 2026-09-08
 
-<a href="https://x.com/givros/status/2097343467026289039"><img src="../assets/previews/23dbba2d83ef0ccef6ab1db4578e1b513eb19d4e0c3571a1509f628963f56423.jpg" width="840" loading="lazy" alt="溫馨濕地湖畔世界"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097343467026289039"><img src="../assets/previews/23dbba2d83ef0ccef6ab1db4578e1b513eb19d4e0c3571a1509f628963f56423.jpg" width="840" loading="lazy" alt="溫馨濕地湖畔世界"></a>
 
 可重複使用的提示詞，用於建立溫馨的 3D 濕地場景，包含湖泊、小屋、島嶼、廢棄房屋、船隻、小徑、植被、野生動物，以及周圍的森林。
 
@@ -1913,7 +1971,204 @@ Blender 中的 12 秒森林小徑
 建立一座溫馨的湖泊，沼澤湖岸旁設有一間漁夫小屋。在湖中央放置一座小島，島上有一棟隱藏在樹林間的廢棄房屋。在小屋旁加入一艘漁船、睡蓮葉、蘆葦、躍出水面的魚、常見的濕地野生動物，以及一小片沙灘；安排一條小徑通往沙灘和小屋，另一條小徑延伸回森林，並以環繞整個場景的樹林作為邊界。
 ```
 
-[觀看影片 ↗](https://media.tripogrowth.space/media/29297bf0-5dc5-4ba4-81c9-7683e9b7b4ed.mp4) · [查看原文](https://x.com/givros/status/2097343467026289039) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097343467026289039) · [查看原文](https://x.com/givros/status/2097343467026289039) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2097534290112188602"></a>
+
+### 受《Backrooms》啟發的 Blender VHS 場景
+
+[CHRIS FIRST](https://x.com/chrisfirst) · 2026-09-09
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097534290112188602"><img src="../assets/previews/721eed98f68b8ad4264b4fbd922b185c7e6501834c9aa828a0b3b369fba5ff28.jpg" width="840" loading="lazy" alt="受《Backrooms》啟發的 Blender VHS 場景"></a>
+
+建立一個照片級寫實的 Blender 場景，呈現第一人稱 VHS 風格的《Backrooms》旅程，包含手持攝影般的慌亂感、迷宮般的房間與走廊，片長 30 秒。
+
+**提示詞**
+
+```text
+在 Blender 中渲染一個場景，呈現某人穿越《Backrooms》時以第一人稱拍攝的 VHS 錄影。整體應具備照片級寫實感，鏡頭運動呈現手持攝影般的慌亂感。角色先四處張望，接著開始在《Backrooms》的迷宮中奔跑。部分房間寬敞開闊，其他區域則是彷彿沒有盡頭的走廊。營造極度恐慌的氛圍。片長 30 秒。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097534290112188602) · [查看原文](https://x.com/chrisfirst/status/2097534290112188602) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2097588270171660321"></a>
+
+### 以影片為參考，在 Three.js 重建 3D 場景
+
+[Henry Li](https://x.com/henry19840301) · 2026-09-09
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097588270171660321"><img src="../assets/previews/063337844500a06926ea87505df32746fd9b06e308cf92109568d0b13b2232f2.jpg" width="840" loading="lazy" alt="以影片為參考，在 Three.js 重建 3D 場景"></a>
+
+用於在 Three.js 中重建影片裡的 3D 物件、場景、動作、燈光、材質與陰影，並在同一頁面並排比較 MP4 影片。
+
+**提示詞**
+
+```text
+/goal 在 Three.js 中建立相同的 3D 物件與場景，並重現影片中的精確動作，包括燈光、材質、陰影等。
+在同一頁面加入與 MP4 的並排比較。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097588270171660321) · [查看原文](https://x.com/henry19840301/status/2097588270171660321) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2097602565110419781"></a>
+
+### 沉浸式 3D 稻田網站
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-09
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097602565110419781"><img src="../assets/previews/00a3d885b9462dcaa8cd54c0109462182b6382ea9924e0239258d2b2c51ad744.jpg" width="840" loading="lazy" alt="沉浸式 3D 稻田網站"></a>
+
+用於建立瀏覽器版 Three.js 3D 稻田景觀的提示詞，包含自然風動畫、光照與攝影機模式、響應式控制項、程序化植被，以及即時算圖。
+
+**提示詞**
+
+```text
+建立一個可在瀏覽器中執行的沉浸式 3D 稻田網站，主題為：
+「一片綠意海洋／風吹過稻田。」
+完成程式碼、安裝必要的相依套件並啟動預覽。不要只停留在提案或實作計畫。
+
+1. 視覺方向
+
+整體氛圍應自然、寧靜且精緻，像是一個具備一致藝術指導的互動式景觀網站。
+
+場景應包含：
+
+前景：清楚可辨識的細長葉片、彎曲莖稈，以及少量下垂的稻穗。
+
+中景：向遠方延伸的連續稻田，具備足夠密度，且株距自然變化。
+
+背景：不規則的樹線、層疊的低矮丘陵，以及細微的大氣透視效果。
+天空：柔和的灰藍色調、細微的雲層變化，以及自然的地平線過渡。
+將預設攝影機放置在略高於稻穗的位置，朝著遠方丘陵橫向眺望整片稻田。
+天空約佔畫面的三分之一，構圖應以稻田為主。
+植被顏色以深綠、橄欖綠和黃綠色為主。避免使用螢光綠。
+自然地改變稻株的高度、朝向、彎曲程度與顏色。
+2. 動畫需求
+風必須呈現持續橫向穿過田野的波浪：
+讓根部大致固定，並使越靠近葉尖和稻穗的位置產生越強的位移。
+同一區域的植株應協調移動，同時保留個體差異。
+
+結合緩慢的大尺度風浪與細微的局部擾動。
+
+避免所有植株完全同步搖擺。避免平移整株植物，也不要讓葉片閃爍。
+
+使用柔和的預設微風，長時間觀看時仍應舒適。
+3. 互動需求
+提供確實會影響場景的簡易控制項：
+風速滑桿：平順調整風動畫的強度與速度。
+光照模式：早晨、午後和黃金時刻。同步調整天空、光線方向、色溫與霧的顏色。
+
+視角模式：開闊田野與稻田之間，並提供平順的攝影機轉場。
+
+暫停／繼續：暫停並繼續環境動畫。
+
+滑鼠移動可以產生非常細微的攝影機回應，但不應造成暈眩。
+預設情況下，不要讓攝影機持續旋轉大幅度的角度。
+4. 介面設計
+使用全螢幕場景，並在上方疊加介面：
+左上角：小型 VERDANT 字標。
+
+左下角：襯線標題「一片綠意海洋」。
+標題下方放置較小的副標「無須做任何事，只要隨風而行。」
+右下角：小巧、半透明的深綠色控制面板。
+
+確保文字清晰易讀，保留充裕間距，並避免控制項遮擋主要景觀。
+
+在窄螢幕上也必須能使用控制項，且不可互相重疊。
+
+5. 技術與效能
+使用 Three.js。若已有現成專案，請保留其建置環境。
+使用實例化和 GPU 頂點動畫，以處理大量植被。
+避免為每株植物建立獨立的繪製物件，也不要在每一幀由 CPU 更新所有植株。
+隨距離增加降低植被細節，並設定合理的像素比上限。
+優先使用程序化幾何與材質，以確保資產載入可靠。
+場景必須即時算圖。不要以完整景觀圖片或影片作為主要場景。
+模型名稱與比較標籤會在後製階段加入；不要將它們放入場景。
+6. 完成標準
+完成實作後，使用可用的瀏覽器工具確認：
+初始視圖能正確算圖，且沒有明顯的主控台錯誤。
+
+每個控制項都確實會影響場景。
+
+前景、中景和背景具有可辨識的深度與層次。
+稻株不只是簡單直立的綠線。
+風的運動持續且自然，不會出現明顯的規律性重複。
+攝影機轉場平順，介面在窄螢幕上仍可使用。
+若無法執行某項檢查，請清楚說明。
+最後提供啟動說明，以及實際完成的功能摘要。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097602565110419781) · [查看原文](https://x.com/YouWareAI/status/2097602565110419781) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2097675660873605422"></a>
+
+### 以 GPT-6 Astra 與 Blender 搭建機械臂追貓喜劇場景
+
+[探路AI](https://x.com/TanLuAI) · 2026-09-09
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097675660873605422"><img src="../assets/previews/b6d2405bd8f8e5cd9543cde67c0c3719a2e7b5ac38c080cca7336d0f7c1ec1d1.jpg" width="840" loading="lazy" alt="以 GPT-6 Astra 與 Blender 搭建機械臂追貓喜劇場景"></a>
+
+作者表示使用 GPT-6 Astra 與 Blender 完成場景與鏡頭搭建，並發布一段 10 秒動物喜劇短片所使用的中文生成提示詞。提示詞定義了橘白貓、家用機械臂、貓尾造型玩具、客廳場景、鏡頭關係與動作反轉。
+
+**提示詞**
+
+```text
+生成一段 10 秒、16:9 橫向畫面、具備真實電影實拍質感的動物喜劇短片
+家用機械臂追抓橘白貓，貓靈巧地閃開，調皮地繞到收納箱後方。機械爪夾住箱後露出的橘色尾巴，提起來才發現那是一件貓尾造型玩具。真正的貓已繞到機械臂底座旁，伸爪按下機械臂底座上的紅色關機按鈕。機械臂停止運作，貓露出開心、滿足的神情。
+開場直接進入追抓動作，中段透過遮擋保留懸念，提起玩具形成反轉，最後由貓主動關機，完成第二個笑點。全程僅生成現場音效，不生成背景音樂、BGM、旁白或對白。
+【資產錨點與參考規則】
+參考影片 cat_robot_previs：參考其運鏡、時間、運動軌跡與空間關係。
+參考影片中的橘色方塊身體、白色腳部，以及帶有耳朵和尾巴的幾何主體，對應圖 1 的真實橘白貓。
+奶油白連桿、橙色關節、三指夾爪，以及帶紅色按鈕的底座，對應圖 2 的機械臂。
+橘色直立尾巴、灰色連接桿與綠色底座組成的小型主體，對應圖 3 的貓尾造型玩具。玩具與貓是兩個獨立物件。
+中央白色箱體對應真實奶油白收納箱，保留箱體的位置、體積與遮擋作用。室內環境參考圖 4。
+依照參考影片的剪接時間、機位、景別、貓的移動路線、機械爪的追蹤路徑、箱後遮擋、玩具提起路徑，以及貓爪與按鈕的接觸關係生成。
+貓的幾何平移僅用於標示運動路線，重新生成自然的側跳、奔跑、轉向、蹲伏、轉頭與抬爪動作。允許在原位置與時間範圍內增加細微的表情與身體動作，但不得改變關鍵事件與空間關係。移除所有白模、幾何佔位形狀與輔助標記。
+圖 1 image：唯一的貓咪外觀。
+同一隻年輕成年橘白短毛貓，橘色虎斑頭頂與背部、白色口鼻與胸口、四隻白爪，琥珀色眼睛、粉紅色鼻頭，橘色環紋尾巴與淺色尾尖。保持真實的身體比例、毛色分布、臉部特徵與尾巴長度。毛髮細緻、鬍鬚自然，不穿戴任何服飾。
+圖 2 image：唯一的機械臂外觀。
+奶油白外殼、橙色關節護蓋、深灰色連接件、三指軟質夾爪、腕部琥珀色狀態燈，安裝於低矮寬大的底座上。機械臂底座上的紅色關機按鈕，貓站在地面即可觸及。底座固定不動，機械臂透過關節轉動完成追抓。
+圖 3 image：唯一的貓尾造型玩具外觀。
+橘色環紋絨毛尾巴、淺色尾尖，下方連接金屬彈簧與薄荷綠不倒翁底座，底座帶有白色魚骨圖案。機械爪抓住絨毛尾巴後，彈簧與底座作為完整玩具一同被提起，連接關係始終清楚。
+圖 4 image：場景外觀。
+參考圖 4 的溫暖客廳、淺色木地板、大面窗戶灑入的日光、淺色沙發、木質家具、綠色植栽與寵物生活細節。所有動作均發生在室內地面。參考圖中的攝影棚背景與九宮格排版不得出現在成片中。
+【視覺風格與場景】
+具備真實寵物短片與精緻家用機器人廣告的攝影質感，自然光照、真實材質，喜劇效果來自行為與節奏。
+寬敞的住宅客廳，淺橡木地板帶有細緻木紋與柔和反光。左側落地窗透入溫暖日光，薄紗窗簾在地面投下柔和光影，貓毛邊緣與機械臂外殼形成自然輪廓光。
+背景為淺灰色沙發、抱枕、小茶几、地毯、暖色落地燈與收納櫃，窗邊有綠色植栽，側邊設有貓窩與貓抓架。地毯位於遠處，前景活動區維持連續、開闊的木地板。
+中央偏後方放置奶油白圓角收納箱，帶有淺橙色把手。箱體可以遮住蹲伏的貓與玩具底座，左右兩側及後方保留連通路線。機械臂位於箱體右側，紅色按鈕朝向貓最後抵達的位置。
+攝影機接近貓眼高度，主體清晰，背景適度虛化。低機位突顯機械爪向下抓取的突發感、貓的輕巧動作，以及箱後揭曉時的層次。所有接觸都呈現自然陰影與受力回饋。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097675660873605422) · [查看原文](https://x.com/TanLuAI/status/2097675660873605422) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2097678911882809407"></a>
+
+### 建構 THE LAST GATE：帶算術門的人群跑酷
+
+[MSB](https://x.com/KeWai386772) · 2026-09-09
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097678911882809407"><img src="../assets/previews/a8bbf8917e9f19971a1ed3976735efde583ae25e4dedf23df3e71f16f775b59a.jpg" width="840" loading="lazy" alt="建構 THE LAST GATE：帶算術門的人群跑酷"></a>
+
+打造一款可遊玩的直式人群跑酷遊戲，包含算術門、真實的隊伍人數變化、障礙造成的人數損失、由存活人數決定的終點遭遇、三條短路線、即時重試，以及帶種子的輸入回放。
+
+**提示詞**
+
+```text
+建構 THE LAST GATE 建構 THE LAST GATE：一款帶算術門的可遊玩直式人群跑酷遊戲。可見的隊伍規模必須與實際人數一致，實現會造成實際後果的障礙損失，以及由人數決定的終點遭遇。交付三條短路線、即時重試與帶種子的輸入回放，不得虛構勝利。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097678911882809407) · [查看原文](https://x.com/KeWai386772/status/2097678911882809407) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1931,7 +2186,7 @@ Blender 中的 12 秒森林小徑
 使用生成的生物模型與音效製作怪獸風格 Three.js 遊戲，建置清晰的巨型戰鬥和體現生物尺度的環境。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/kaiju-city-battle-2096251574918013135) · [觀看影片 ↗](https://media.tripogrowth.space/media/a11e4581-9641-40f4-8d8e-424fcf0c4932.mp4) · [查看原文](https://x.com/majidmanzarpour/status/2096251574918013135) · [線上展示](https://stormcolossus.netlify.app/) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/kaiju-city-battle-2096251574918013135) · [查看原文](https://x.com/majidmanzarpour/status/2096251574918013135) · [線上展示](https://stormcolossus.netlify.app/) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1949,43 +2204,7 @@ Blender 中的 12 秒森林小徑
 在綁定骨架前，先於 Blender 中準備 Tripo 角色的不同表情版本。對齊網格，將未啟用的版本縮小並藏入頭部，以逐個切換的方式改變表情。不要宣稱能平滑混合表情或相容 VRM。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [觀看影片 ↗](https://media.tripogrowth.space/media/be890da4-1580-4ed6-b221-aff7ce09ea09.mp4) · [查看原文](https://x.com/Dstudio_ai/status/2096525100518453342) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2096225621303042258"></a>
-
-### 軌道交會對接模擬
-
-[Alican Kiraz](https://x.com/AlicanKiraz0) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/orbital-rendezvous-simulator-2096225621303042258"><img src="../assets/previews/42e7d7821256b5c0e0d6ef4267f582a3a9406817642abaecae99cc2e479b733f.webp" width="840" loading="lazy" alt="軌道交會對接模擬"></a>
-
-**提示詞**
-
-```text
-建置實時軌道交會模擬，採用雙體 ECI 軌道傳播與 HCW 制導，包含六自由度姿態、燃料消耗、推力限制和對接目標。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/orbital-rendezvous-simulator-2096225621303042258) · [觀看影片 ↗](https://media.tripogrowth.space/media/de95a497-4613-4840-8a19-0cabb30ab3c4.mp4) · [查看原文](https://x.com/AlicanKiraz0/status/2096225621303042258) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2096180220839760375"></a>
-
-### 參考圖轉拖船模型
-
-[Alex](https://x.com/NarvisAlex) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/reference-image-tugboat-assembly-2096180220839760375"><img src="../assets/previews/c2a965c19b4319993a70a4a31d66043dfa9db1a79aa3c9acc72a8b7cc5b5444d.webp" width="840" loading="lazy" alt="參考圖轉拖船模型"></a>
-
-**提示詞**
-
-```text
-根據參考圖在 Blender 中重建拖船，製作船體、傾斜駕駛室、甲板附件與拖曳裝置，將不同視角統一成結構連貫的船。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/reference-image-tugboat-assembly-2096180220839760375) · [查看原文](https://x.com/NarvisAlex/status/2096180220839760375) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [查看原文](https://x.com/Dstudio_ai/status/2096525100518453342) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2003,7 +2222,7 @@ Blender 中的 12 秒森林小徑
 將參考圖轉成 Three.js 場景並融入滾動驅動的工作室網站，協調鏡頭運動、文字排版與章節過渡。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [觀看影片 ↗](https://media.tripogrowth.space/media/eb879819-4641-46d1-9f57-d76246f72e1f.mp4) · [查看原文](https://x.com/mx_debbiee/status/2096245759121277132) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [查看原文](https://x.com/mx_debbiee/status/2096245759121277132) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2021,7 +2240,7 @@ Blender 中的 12 秒森林小徑
 製作動漫風格的 3D 河流皮划艇遊戲，讓玩家左右划槳躲避障礙，透過程式碼生成流水、風景、音樂與音效。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [觀看影片 ↗](https://media.tripogrowth.space/media/3d070a0f-c280-42f4-8aec-3c367187c1f0.mp4) · [查看原文](https://x.com/ItsmeAjayKV/status/2096244208533455049) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [查看原文](https://x.com/ItsmeAjayKV/status/2096244208533455049) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2039,61 +2258,7 @@ Blender 中的 12 秒森林小徑
 圍繞寫實 WebGL 玻璃瓶建置互動產品網站，採用折射液體、滾動旋轉與醒目文字，同時保證瀏覽器效能。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [觀看影片 ↗](https://media.tripogrowth.space/media/410ec6df-40c5-464a-8b75-0ab12c165d2e.mp4) · [查看原文](https://x.com/himanshubuildss/status/2096243989439713677) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2096201415051911597"></a>
-
-### 幼兒玩具互動世界
-
-[AI少年](https://x.com/aehyok) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/a-playful-toddler-toy-world-2096201415051911597"><img src="../assets/previews/965f7261ca51d323b38ae9c6c0970182ce8417113527c8c5cd4bd42c0473354c.webp" width="840" loading="lazy" alt="幼兒玩具互動世界"></a>
-
-**提示詞**
-
-```text
-建立溫暖的 Three.js 遊戲室，讓幼兒在玩具間移動並使用不同動畫玩耍，包含爬爬墊、書、架子與攀爬設施，支援環繞和縮放。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/a-playful-toddler-toy-world-2096201415051911597) · [觀看影片 ↗](https://media.tripogrowth.space/media/2913f4b6-d955-4726-91d0-e0fcebab07ec.mp4) · [查看原文](https://x.com/aehyok/status/2096201415051911597) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2096220264413409648"></a>
-
-### 困在立方體中的風暴
-
-[zcw](https://x.com/zwb44) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648"><img src="../assets/previews/631562c3a38f51debed3cd6a3155680ea14b83678ceee3fb384ea95f3b8a3eb5.webp" width="840" loading="lazy" alt="困在立方體中的風暴"></a>
-
-**提示詞**
-
-```text
-用 Three.js 生成困在立方體中的風暴，並讓天氣可以控制。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648) · [觀看影片 ↗](https://media.tripogrowth.space/media/e8f23aa9-80c1-43da-a974-26d7928effcf.mp4) · [查看原文](https://x.com/zwb44/status/2096220264413409648) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2096174858837074198"></a>
-
-### 咖啡杯裡的海洋生命
-
-[Sagi Polaczek 🦜](https://x.com/PolaczekSagi) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198"><img src="../assets/previews/3990cf9279eb906cfc9303f3ed9459d6600479ea83c7ddc908d4d74398345d3b.webp" width="840" loading="lazy" alt="咖啡杯裡的海洋生命"></a>
-
-**提示詞**
-
-```text
-用 Three.js 在咖啡杯中建立微型海洋生態，透過鏡頭展示水生生命，同時保持杯子與微縮尺度清晰。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [觀看影片 ↗](https://media.tripogrowth.space/media/1ccc3b57-ea95-4ba8-9c76-7cc25f3f36d5.mp4) · [查看原文](https://x.com/PolaczekSagi/status/2096174858837074198) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [查看原文](https://x.com/himanshubuildss/status/2096243989439713677) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2111,7 +2276,7 @@ Blender 中的 12 秒森林小徑
 建置互動式 Three.js 超級高鐵演示，展示運輸艙、管道設施及系統中的執行過程。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [觀看影片 ↗](https://media.tripogrowth.space/media/2042ea4e-7a04-4340-8ab1-e7ff38443e3b.mp4) · [查看原文](https://x.com/hbanay98/status/2096250748099068377) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [查看原文](https://x.com/hbanay98/status/2096250748099068377) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2129,7 +2294,7 @@ Blender 中的 12 秒森林小徑
 用 Three.js 編寫拿破崙半身像，分階段建模，從不同角度檢視並完善臉部比例和服裝細節。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [觀看影片 ↗](https://media.tripogrowth.space/media/ad6593e8-dc09-482c-95a3-f11c1ab83c11.mp4) · [查看原文](https://x.com/leploutos/status/2096234355395903672) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [查看原文](https://x.com/leploutos/status/2096234355395903672) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2147,43 +2312,7 @@ Blender 中的 12 秒森林小徑
 建立具有鮮明建築節奏、可信尺度和材質的鐵路車站大廳，提供可檢視的 3D 場景與精心構圖視角。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/railway-station-concourse-2096226711222546461) · [觀看影片 ↗](https://media.tripogrowth.space/media/41cdf424-4904-472e-aa92-cfacc3dbbe3d.mp4) · [查看原文](https://x.com/0xWormhole404/status/2096226711222546461) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2096222790894661841"></a>
-
-### 動畫引導微縮場景
-
-[Emil](https://x.com/EmilHovv) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/animated-onboarding-diorama-2096222790894661841"><img src="../assets/previews/42b972bdf19630b039a0b32ca1d30631228ee68665a29e37dafa1a63b9090fe2.webp" width="840" loading="lazy" alt="動畫引導微縮場景"></a>
-
-**提示詞**
-
-```text
-在 Blender 中建立引導微縮場景，並用 Three.js 呈現，以清晰核心物體和短動畫解釋使用者首次操作。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/animated-onboarding-diorama-2096222790894661841) · [觀看影片 ↗](https://media.tripogrowth.space/media/79fd590e-19a2-4406-816e-99573442986c.mp4) · [查看原文](https://x.com/EmilHovv/status/2096222790894661841) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2096206082712768897"></a>
-
-### OX Vice Drive 開放城市駕駛
-
-[DomX](https://x.com/qok_ai) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897"><img src="../assets/previews/3b47ced29ac0872998aed94cda19d2bd5e5c555f15f2023481336c68a8ce23d5.webp" width="840" loading="lazy" alt="OX Vice Drive 開放城市駕駛"></a>
-
-**提示詞**
-
-```text
-建立開放城市瀏覽器駕駛遊戲，包含交通、漂移與送貨競速，設計適合探索的海濱城市和完整駕駛迴圈。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897) · [查看原文](https://x.com/qok_ai/status/2096206082712768897) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/railway-station-concourse-2096226711222546461) · [查看原文](https://x.com/0xWormhole404/status/2096226711222546461) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2201,25 +2330,7 @@ Blender 中的 12 秒森林小徑
 用 C# 重建賽道狂飆風格賽車物理，透過 WASM 執行並用 Three.js 渲染，使用可碰撞賽道網格並測試操控。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [觀看影片 ↗](https://media.tripogrowth.space/media/f4081f64-16b6-41ad-b121-d0afb211da12.mp4) · [查看原文](https://x.com/achepta_tm/status/2096258619574513880) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2096221988763173186"></a>
-
-### 可拆解的人體解剖模型
-
-[ashe](https://x.com/ashebytes) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186"><img src="../assets/previews/73fbb8ce4494edce62d66860d9dc1aebc51a7a4032b056bd4712c2fa15e37c8f.webp" width="840" loading="lazy" alt="可拆解的人體解剖模型"></a>
-
-**提示詞**
-
-```text
-製作 3D 解剖網站，讓人體分解成可單獨檢視的結構，使爆炸檢視可導航，並按有意義的系統組織部件。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186) · [觀看影片 ↗](https://media.tripogrowth.space/media/de5d4c26-e29d-4e1b-8b10-5b4e4ce57403.mp4) · [查看原文](https://x.com/ashebytes/status/2096221988763173186) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [查看原文](https://x.com/achepta_tm/status/2096258619574513880) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2237,7 +2348,7 @@ Blender 中的 12 秒森林小徑
 建置 3D 記憶扭蛋機，轉動旋鈕釋放記憶，在 Blender 中建模機械結構，為掉落扭蛋新增可信運動和聲音。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/memory-capsule-machine-2096241295949975602) · [觀看影片 ↗](https://media.tripogrowth.space/media/57f89e78-6351-4742-9fe4-753e50897e5b.mp4) · [查看原文](https://x.com/gloria_zwq/status/2096241295949975602) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/memory-capsule-machine-2096241295949975602) · [查看原文](https://x.com/gloria_zwq/status/2096241295949975602) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2255,7 +2366,7 @@ Blender 中的 12 秒森林小徑
 使用 Astra、Tripo P2、Blender 與 Unity，製作以《魔獸爭霸》為靈感的角色場景。先生成角色資產，在 Blender 中整理，再於 Unity 中組合成可遊玩的場景。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420) · [觀看影片 ↗](https://media.tripogrowth.space/media/2f33ef11-989e-42d8-9576-ca5fd51a3f03.mp4) · [查看原文](https://x.com/luccacerf/status/2096308567863079420) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420) · [查看原文](https://x.com/luccacerf/status/2096308567863079420) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2291,7 +2402,7 @@ Blender 中的 12 秒森林小徑
 製作互動式 3D 網站，將桌上型電腦拆分為 29 個核心零組件。加入拆解動畫及各零件的說明。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502) · [觀看影片 ↗](https://media.tripogrowth.space/media/f43e1580-941e-4bb7-8515-99ff62112c90.mp4) · [查看原文](https://x.com/icooperhero/status/2096578761877860502) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502) · [查看原文](https://x.com/icooperhero/status/2096578761877860502) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2309,7 +2420,7 @@ Blender 中的 12 秒森林小徑
 根據房間四個角落拍攝的四張照片及尺寸，重建兼作工作區的兒童房。提供成人與兒童視角、整體俯瞰，以及不同的家具配置方案。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736) · [觀看影片 ↗](https://media.tripogrowth.space/media/31de0409-36ec-4532-80cf-67e50b02fb67.mp4) · [查看原文](https://x.com/dqlh47m/status/2096578684010508736) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736) · [查看原文](https://x.com/dqlh47m/status/2096578684010508736) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2327,7 +2438,7 @@ Blender 中的 12 秒森林小徑
 利用開放地圖資料，以 Three.js 製作首爾微縮城市。加入分區導覽、地標飛行巡覽、日夜模式及觸控操作。註明簡化過的建築、估算的高度與資料授權。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-miniature-of-seoul-2096557555086725159) · [觀看影片 ↗](https://media.tripogrowth.space/media/f582b0f8-5d53-4701-bb3d-dbb5bde50b0c.mp4) · [查看原文](https://x.com/synabreu/status/2096557555086725159) · [線上展示](https://seoul-3d-atlas.synabreu.chatgpt.site/) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-miniature-of-seoul-2096557555086725159) · [查看原文](https://x.com/synabreu/status/2096557555086725159) · [線上展示](https://seoul-3d-atlas.synabreu.chatgpt.site/) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2345,7 +2456,7 @@ Blender 中的 12 秒森林小徑
 製作一隻多足 3D 昆蟲，讓牠能貼附在不同表面上行走。跨越高低落差時，協調腿部與身體的動作。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/surface-climbing-procedural-insect-2096460081982304546) · [觀看影片 ↗](https://media.tripogrowth.space/media/f739ec22-2888-4cbe-aff8-7b7a81fd85b4.mp4) · [查看原文](https://x.com/leo_xiaolei/status/2096460081982304546) · [線上展示](https://threerocks.github.io/web-3d-pages/) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/surface-climbing-procedural-insect-2096460081982304546) · [查看原文](https://x.com/leo_xiaolei/status/2096460081982304546) · [線上展示](https://threerocks.github.io/web-3d-pages/) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2363,7 +2474,7 @@ Blender 中的 12 秒森林小徑
 使用 Three.js 製作飛行遊戲，讓玩家駕駛 1903 年的萊特飛行器穿越日本森林。先研究飛機構造，再以程序化方式建立飛機、樹木、鳥居、房屋與山脈，不使用外部資產。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808) · [觀看影片 ↗](https://media.tripogrowth.space/media/b3ce0b9f-67bf-4c19-850b-fe1ed4490ba8.mp4) · [查看原文](https://x.com/thebuggeddev/status/2096467585785286808) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808) · [查看原文](https://x.com/thebuggeddev/status/2096467585785286808) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2381,7 +2492,7 @@ Blender 中的 12 秒森林小徑
 在 Blender 中從零建立住宅模型。保留可編輯的場景，讓後續迭代能檢視建築並逐步改善。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865) · [觀看影片 ↗](https://media.tripogrowth.space/media/4b9bda22-09cb-45d7-9ed1-afe8d4c4020d.mp4) · [查看原文](https://x.com/mizkun/status/2096576154337734865) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865) · [查看原文](https://x.com/mizkun/status/2096576154337734865) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2399,7 +2510,7 @@ Blender 中的 12 秒森林小徑
 使用住宅頂樓的平面圖建立 Blender 場景，並以低取樣數算繪 10 秒預覽。先讓空間配置清楚易懂，再細修材質。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883) · [觀看影片 ↗](https://media.tripogrowth.space/media/3eff58e4-c164-4aab-b1ce-bd8a76ab6a01.mp4) · [查看原文](https://x.com/indigox/status/2096501340889374883) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883) · [查看原文](https://x.com/indigox/status/2096501340889374883) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2417,7 +2528,7 @@ Blender 中的 12 秒森林小徑
 將里斯本的 Terreiro do Paço（宮殿廣場）重建為可編輯的 Blender 場景。研究參考資料，作為廣場建築、材質與打光的依據。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021) · [觀看影片 ↗](https://media.tripogrowth.space/media/00f360b4-1443-4bc1-9b44-33433e332ef6.mp4) · [查看原文](https://x.com/goncalo_canhoto/status/2096298425914450021) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021) · [查看原文](https://x.com/goncalo_canhoto/status/2096298425914450021) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2435,7 +2546,7 @@ Blender 中的 12 秒森林小徑
 使用 Three.js 製作雪地探索遊戲，包含 Blender 角色、體素松樹與石造傳送門。設計收集六塊發光碎片的玩法，讓鏡頭跟隨角色，並顯示距離傳送門有多遠。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111) · [觀看影片 ↗](https://media.tripogrowth.space/media/63e2f655-b71e-4aa9-872d-7443d05ae7ee.mp4) · [查看原文](https://x.com/Motion_Viz/status/2096574297703637111) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111) · [查看原文](https://x.com/Motion_Viz/status/2096574297703637111) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2453,7 +2564,7 @@ Blender 中的 12 秒森林小徑
 使用 Three.js 製作細緻森林，包含數千棵樹、茂密草叢與蕨類。利用自訂著色器及高效率的重複幾何配置，保留整個場景的細節。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609) · [觀看影片 ↗](https://media.tripogrowth.space/media/493db261-27ae-4f56-8b77-dd409f3b2408.mp4) · [查看原文](https://x.com/LexnLin/status/2096263046918197609) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609) · [查看原文](https://x.com/LexnLin/status/2096263046918197609) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2471,7 +2582,7 @@ Blender 中的 12 秒森林小徑
 使用 Three.js 建立蒸汽火車模型，並製作穿越鄉間場景的行駛動畫。讓車輪轉動與火車移動同步。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157) · [觀看影片 ↗](https://media.tripogrowth.space/media/4f10352c-5d1c-4059-ad9b-b9ad05348622.mp4) · [查看原文](https://x.com/dansanburu/status/2096577430274429157) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157) · [查看原文](https://x.com/dansanburu/status/2096577430274429157) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2489,7 +2600,7 @@ Blender 中的 12 秒森林小徑
 使用 Three.js 製作桌上黑膠唱片機場景。透過燈具亮起的演出與鏡頭運動，展示唱片機和周圍家具，呈現產品介紹影片的感覺。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106) · [觀看影片 ↗](https://media.tripogrowth.space/media/1d0d5e22-4f13-4324-9c0d-23a285dd8a28.mp4) · [查看原文](https://x.com/niteshseram/status/2096561346766877106) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106) · [查看原文](https://x.com/niteshseram/status/2096561346766877106) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2507,7 +2618,7 @@ Blender 中的 12 秒森林小徑
 使用 Three.js 製作集換式卡牌遊戲原型：購買牌組與補充包、組建牌組、進入競技場對戰並獲得獎勵。保留以完成版資產替換暫用網格的彈性。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [觀看影片 ↗](https://media.tripogrowth.space/media/1bb8a72a-c62a-4d08-ba46-a414bdf699b5.mp4) · [查看原文](https://x.com/FaryaBlender3D/status/2096555856204644550) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [查看原文](https://x.com/FaryaBlender3D/status/2096555856204644550) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2525,7 +2636,7 @@ Blender 中的 12 秒森林小徑
 將 Three.js 火車模型擴充為鐵路模擬，加入城市、岔路、河流與橋梁。提供跟隨列車、自由 3D 視角及等角視角的鏡頭，並加入煙霧效果。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/railway-network-simulation-game-2096362653480562751) · [觀看影片 ↗](https://media.tripogrowth.space/media/47286b65-319f-44a6-9d6b-17c5c50095b9.mp4) · [查看原文](https://x.com/tomkrcha/status/2096362653480562751) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/railway-network-simulation-game-2096362653480562751) · [查看原文](https://x.com/tomkrcha/status/2096362653480562751) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2543,7 +2654,7 @@ Blender 中的 12 秒森林小徑
 在單一 HTML 檔案中，建立以果川為靈感、溫馨且可探索的低多邊形村落。結合程序化 3D 景觀、氛圍、介面與互動。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793) · [觀看影片 ↗](https://media.tripogrowth.space/media/00daa262-0338-44dd-8cc7-0a53723a83ed.mp4) · [查看原文](https://x.com/ManasJoshi76254/status/2096490395614019793) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793) · [查看原文](https://x.com/ManasJoshi76254/status/2096490395614019793) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2561,7 +2672,7 @@ Blender 中的 12 秒森林小徑
 使用 Three.js 製作完整的 3D 解謎遊戲關卡，包含能實際遊玩的機制。待關卡與互動正常運作後，再整合提供的音訊。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/complete-three-js-puzzle-level-2096505740643246231) · [觀看影片 ↗](https://media.tripogrowth.space/media/886b702e-ea8b-41d0-8321-fbd82a104bc0.mp4) · [查看原文](https://x.com/TvWoo/status/2096505740643246231) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/complete-three-js-puzzle-level-2096505740643246231) · [查看原文](https://x.com/TvWoo/status/2096505740643246231) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2597,7 +2708,7 @@ Blender 中的 12 秒森林小徑
 在 Blender 中製作場景模型，並匯入 Unity。使用 VFX Graph 加入特效，調整場景打光，讓模型與特效同時清楚呈現。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/blender-models-with-unity-vfx-2096560142871658589) · [觀看影片 ↗](https://media.tripogrowth.space/media/5bdb15cd-d837-4a5b-91d2-2a9f7873432e.mp4) · [查看原文](https://x.com/CST_negi/status/2096560142871658589) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/blender-models-with-unity-vfx-2096560142871658589) · [查看原文](https://x.com/CST_negi/status/2096560142871658589) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2615,7 +2726,7 @@ Blender 中的 12 秒森林小徑
 使用 Codex、Blender 與 Unity 製作拉力賽車原型。整理 3D 資產與操作方式，讓遊戲能在手機上進行遊玩測試。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826) · [觀看影片 ↗](https://media.tripogrowth.space/media/db736240-b575-43e4-98b4-a7f94f65b3ea.mp4) · [查看原文](https://x.com/kevinkern/status/2096556692842348826) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826) · [查看原文](https://x.com/kevinkern/status/2096556692842348826) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2651,7 +2762,7 @@ Blender 中的 12 秒森林小徑
 將 Tripo Smart Mesh 角色匯入 Blender。先套用貼圖並建立可用的身體骨架，再繼續處理臉部表情。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878) · [觀看影片 ↗](https://media.tripogrowth.space/media/0aa18c31-8a4c-4c19-acb3-b92a3ec712e8.mp4) · [查看原文](https://x.com/chimerast/status/2096566598689783878) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878) · [查看原文](https://x.com/chimerast/status/2096566598689783878) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2669,7 +2780,7 @@ Blender 中的 12 秒森林小徑
 結合公寓參考圖片與簡單的平面草圖，在 Blender 中重建室內。交付可編輯場景、各房間的算繪圖，以及剪輯完成的短版漫遊影片。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754) · [觀看影片 ↗](https://media.tripogrowth.space/media/7ae582fd-cfb0-46de-8db8-f25d3387bf80.mp4) · [查看原文](https://x.com/WorldEverett/status/2096566686266597754) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754) · [查看原文](https://x.com/WorldEverett/status/2096566686266597754) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2687,7 +2798,7 @@ Blender 中的 12 秒森林小徑
 使用 Blender Geometry Nodes 製作可週期循環的水面效果，不進行烘焙。保留可編輯的節點設定，並明確說明這是水面模型，不是完整的流體模擬。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631) · [觀看影片 ↗](https://media.tripogrowth.space/media/75383b5d-d5c0-4ba4-be48-e46d4fe85340.mp4) · [查看原文](https://x.com/uB95A7tobA17057/status/2096521798150242631) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631) · [查看原文](https://x.com/uB95A7tobA17057/status/2096521798150242631) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2705,7 +2816,7 @@ Blender 中的 12 秒森林小徑
 結合 Blender 船隻與 Three.js 海洋，製作可遊玩的航海世界。加入多變天氣、水下探索、航跡、泡沫、水花與會動的船帆。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700) · [觀看影片 ↗](https://media.tripogrowth.space/media/956c8a5b-2ec9-4f32-b173-d5daa040a387.mp4) · [查看原文](https://x.com/yash_yk45/status/2096518775042707700) · [線上展示](https://one-piece-sea-world.vercel.app/) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700) · [查看原文](https://x.com/yash_yk45/status/2096518775042707700) · [線上展示](https://one-piece-sea-world.vercel.app/) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2723,7 +2834,7 @@ Blender 中的 12 秒森林小徑
 將兩條初始位置僅有微小差異的勞侖茲系統軌跡視覺化。讓使用者調整差異並拖曳時間軸，同時清楚區分數值驗證與精確的長期預測。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-lorenz-attractor-2096572156453028193) · [觀看影片 ↗](https://media.tripogrowth.space/media/c1a06bf3-0776-470d-8abb-0aca7c1b0968.mp4) · [查看原文](https://x.com/juyeam/status/2096572156453028193) · [線上展示](https://tiny-worlds-juyeam.juyeam.chatgpt.site/chaos) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-lorenz-attractor-2096572156453028193) · [查看原文](https://x.com/juyeam/status/2096572156453028193) · [線上展示](https://tiny-worlds-juyeam.juyeam.chatgpt.site/chaos) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2741,7 +2852,7 @@ Blender 中的 12 秒森林小徑
 根據參考圖片重建酒館，並加入客人與員工。讓客人點餐與點飲料，由員工準備，並實作碰撞處理及路徑搜尋。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457) · [觀看影片 ↗](https://media.tripogrowth.space/media/8921e021-b5b5-415a-9f6e-a285e66b70c5.mp4) · [查看原文](https://x.com/Rogue0114/status/2096358854275543457) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457) · [查看原文](https://x.com/Rogue0114/status/2096358854275543457) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2759,7 +2870,7 @@ Blender 中的 12 秒森林小徑
 將自己的房間改造成互動式自我介紹網站。在 Blender 中建立並烘焙場景，再加入咖啡蒸氣、《駭客任務》風格動畫與細微的著色器效果。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342) · [觀看影片 ↗](https://media.tripogrowth.space/media/e62d6828-9737-4346-9241-9e89c54f0b6f.mp4) · [查看原文](https://x.com/kalanyei/status/2096506357868642342) · [線上展示](https://room.kalan.dev/) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342) · [查看原文](https://x.com/kalanyei/status/2096506357868642342) · [線上展示](https://room.kalan.dev/) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2777,7 +2888,7 @@ Blender 中的 12 秒森林小徑
 在 Blender 中建立 YF-24 船艇模型，製作其航行於蒲福風級 2 級的三維海面上的動畫。參考船艇資料，改善船身形狀。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461) · [觀看影片 ↗](https://media.tripogrowth.space/media/d3cdf313-4aad-4ec0-8255-b13b94007479.mp4) · [查看原文](https://x.com/yhmtmt1/status/2096503275910832461) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461) · [查看原文](https://x.com/yhmtmt1/status/2096503275910832461) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2795,7 +2906,7 @@ Blender 中的 12 秒森林小徑
 研究 D4 主角的公寓，並重建為可遊玩的 3D 原型。對照參考資料檢查格局與互動，不要直接假定已精確還原。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/playable-d4-inspired-apartment-2096413869841473930) · [觀看影片 ↗](https://media.tripogrowth.space/media/3c3387ff-f03d-4329-b0df-c0839abbfcf4.mp4) · [查看原文](https://x.com/Swery65/status/2096413869841473930) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/playable-d4-inspired-apartment-2096413869841473930) · [查看原文](https://x.com/Swery65/status/2096413869841473930) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2813,7 +2924,7 @@ Blender 中的 12 秒森林小徑
 使用 RIO_MA002.fbx 作為玩家角色，製作 WebGL 城市遊戲。在 Blender 中依參考資料建立車輛與街道，再改善 NPC、駕駛物理、可破壞物件及郊區。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/browser-city-game-with-a-supplied-character-2096398839830008292) · [觀看影片 ↗](https://media.tripogrowth.space/media/cff83f4e-937c-4178-aabc-643e6f415a9a.mp4) · [查看原文](https://x.com/djrio_vr/status/2096398839830008292) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/browser-city-game-with-a-supplied-character-2096398839830008292) · [查看原文](https://x.com/djrio_vr/status/2096398839830008292) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2831,7 +2942,7 @@ Blender 中的 12 秒森林小徑
 使用 Three.js 製作瀏覽器版太陽系探索工具，包含八顆行星與二十顆衛星。提供鏡頭移動及簡化的太空飛行規劃功能。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/orbital-solar-system-explorer-2096339041679442428) · [觀看影片 ↗](https://media.tripogrowth.space/media/32fb54fb-83df-467a-8f8d-5e52e48e8812.mp4) · [查看原文](https://x.com/dzhohola/status/2096339041679442428) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/orbital-solar-system-explorer-2096339041679442428) · [查看原文](https://x.com/dzhohola/status/2096339041679442428) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2849,7 +2960,7 @@ Blender 中的 12 秒森林小徑
 把提供的 2D 角色標誌轉為具有動畫的 3D 版本。增加立體感與動作時，保留讓人一眼認出的角色特徵。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724) · [觀看影片 ↗](https://media.tripogrowth.space/media/3def50d2-e12a-4031-9c2a-7d84f598a5d2.mp4) · [查看原文](https://x.com/anthonyriera/status/2096559197999501724) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724) · [查看原文](https://x.com/anthonyriera/status/2096559197999501724) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2867,7 +2978,7 @@ Blender 中的 12 秒森林小徑
 根據涵蓋外觀、角色、世界、動作、目標、介面及鏡頭的結構化需求，製作 Three.js 螃蟹遊戲。讓金幣在螃蟹經過時浮起並飛向牠；若需求彼此矛盾，請明確指出。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171) · [觀看影片 ↗](https://media.tripogrowth.space/media/521a94bc-d2ac-4586-9f3e-669779fae56d.mp4) · [查看原文](https://x.com/zeuuss_01/status/2096337879173591171) · [線上展示](https://beach-crab-game.netlify.app/) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171) · [查看原文](https://x.com/zeuuss_01/status/2096337879173591171) · [線上展示](https://beach-crab-game.netlify.app/) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2885,7 +2996,7 @@ Blender 中的 12 秒森林小徑
 將梵谷的《星夜》轉為可探索的 3D 村落，加入居民、照明與日夜循環。算繪一段穿梭於完成世界中的短片。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/starry-night-village-with-a-day-night-cycle-2096555183790575682) · [觀看影片 ↗](https://media.tripogrowth.space/media/615501f9-2bc2-428a-99e0-14047bfacc7c.mp4) · [查看原文](https://x.com/Firisis_/status/2096555183790575682) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/starry-night-village-with-a-day-night-cycle-2096555183790575682) · [查看原文](https://x.com/Firisis_/status/2096555183790575682) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2903,7 +3014,7 @@ Blender 中的 12 秒森林小徑
 使用 Three.js 在單一 HTML 檔案中重現參考設計。反覆比對成果並修正差異，細調照明、模型深度與玻璃質感的控制元件，加入隨游標反應的細微效果。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/reference-matched-three-js-interface-2096510126244999366) · [觀看影片 ↗](https://media.tripogrowth.space/media/f7755cc7-fb8d-4889-b378-76ff414bac62.mp4) · [查看原文](https://x.com/MengTo/status/2096510126244999366) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/reference-matched-three-js-interface-2096510126244999366) · [查看原文](https://x.com/MengTo/status/2096510126244999366) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2921,7 +3032,7 @@ Blender 中的 12 秒森林小徑
 使用 Tripo P2 生成最佳化的 3D 資產，在 Blender 中組裝，再為角色綁定骨架並製作動畫。檢視角色與場景在空間上的搭配是否合適。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048) · [觀看影片 ↗](https://media.tripogrowth.space/media/d9606a81-22b9-4fe5-9da4-4e86593ae549.mp4) · [查看原文](https://x.com/Stefan_3D_AI/status/2096481425050743048) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048) · [查看原文](https://x.com/Stefan_3D_AI/status/2096481425050743048) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2939,14 +3050,14 @@ Blender 中的 12 秒森林小徑
 製作深海主題著陸頁，結合 Three.js 水面效果、深色玻璃質感介面與捲動驅動的動態。兼顧 3D 氛圍，以及清楚、能適應不同螢幕的網站互動。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175) · [觀看影片 ↗](https://media.tripogrowth.space/media/683057c6-6991-4b76-846d-8f6d990c3e91.mp4) · [查看原文](https://x.com/himanshubuildss/status/2096269057544831175) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175) · [查看原文](https://x.com/himanshubuildss/status/2096269057544831175) · [返回案例導覽](#all-prompts)
 
 ---
 
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 201 個案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 211 個案例 →</a></strong></p>
 <p><sub>為保持 GitHub README 渲染流暢，這裡僅展示最新 100 個案例。</sub></p>
 <br>
 </td></tr>

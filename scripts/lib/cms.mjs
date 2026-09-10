@@ -92,7 +92,10 @@ export function projectPrompts(docs, modelId, cmsOrigin) {
   return docs.map(doc => {
     assert(doc.status === 'published' && (doc.model?.id ?? doc.model) === modelId, 'Unexpected unpublished or unrelated prompt')
     assert(doc.updatedAt && !Number.isNaN(Date.parse(doc.updatedAt)), 'Missing CMS revision')
-    const id = String(doc.source?.postId || doc.slug)
+    const sourceId = String(doc.source?.postId || '')
+    // A source identifier may be a repository fragment rather than a public-safe
+    // anchor. The CMS slug is always validated and remains stable in that case.
+    const id = /^[a-z0-9][a-z0-9-]*$/.test(sourceId) ? sourceId : doc.slug
     assert(/^[a-z0-9][a-z0-9-]*$/.test(id) && !ids.has(id), 'Invalid or duplicate public prompt ID')
     ids.add(id)
     assert(/^[a-z0-9][a-z0-9-]*$/.test(doc.slug) && !slugs.has(doc.slug), 'Invalid or duplicate prompt slug')
@@ -119,15 +122,10 @@ export function projectPrompts(docs, modelId, cmsOrigin) {
       const { url } = mediaURL(m.url, cmsOrigin)
       return { url: url.href, mimeType: m.mimeType, filesize: m.filesize, updatedAt: m.updatedAt, source: publicURL(m.sourceURL, cmsOrigin) || source }
     })
-    // Use the current uploaded video, not its potentially stale source. Legacy
-    // private uploads still fall back to a public provenance URL.
-    const currentVideo = doc.video?.url && new URL(doc.video.url, cmsOrigin).origin === publicMediaOrigin
-      ? mediaURL(doc.video.url, cmsOrigin).url.href : null
-    const video = currentVideo || publicURL(doc.video?.sourceURL || doc.sourceVideo?.url, cmsOrigin)
     return {
-      id, slug: doc.slug, hasDetailPage: doc.migration?.sourceSystem === 'homepage-3d-prompts', translations, author: { name: doc.author.name, url: publicURL(doc.author.url, cmsOrigin) || source },
+      id, slug: doc.slug, translations, author: { name: doc.author.name, url: publicURL(doc.author.url, cmsOrigin) || source },
       source, date: date.slice(0, 10), publishedAt: new Date(date).toISOString(), repository: publicURL(doc.links?.repository, cmsOrigin), demo: publicURL(doc.links?.liveDemo, cmsOrigin),
-      video, media, featured: Boolean(doc.editorial?.featured), order: Number.isFinite(doc.editorial?.order) ? doc.editorial.order : 0,
+      media, featured: Boolean(doc.editorial?.featured), order: Number.isFinite(doc.editorial?.order) ? doc.editorial.order : 0,
     }
   }).sort((a, b) => Number(Boolean(b.repository)) - Number(Boolean(a.repository)) || a.order - b.order || a.id.localeCompare(b.id, 'en'))
 }
@@ -137,7 +135,7 @@ export async function fetchCollection(cms) {
   assert.equal(models.length, 1, 'Expected exactly one Astra model')
   assert(models[0].active, 'Astra model is inactive')
   const modelId = models[0].id
-  const selection = Object.fromEntries(['id', 'title', 'slug', 'status', 'model', 'description', 'prompt', 'source', 'author', 'media', 'video', 'sourceVideo', 'links', 'editorial', 'migration', 'updatedAt'].map(field => [`select[${field}]`, 'true']))
+  const selection = Object.fromEntries(['id', 'title', 'slug', 'status', 'model', 'description', 'prompt', 'source', 'author', 'media', 'links', 'editorial', 'publishedAt', 'updatedAt'].map(field => [`select[${field}]`, 'true']))
   const docs = await cms.all('prompts', { ...promptQuery(modelId), ...selection })
   return { prompts: projectPrompts(docs, modelId, cms.origin), revision: revision(docs), modelId }
 }

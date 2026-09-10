@@ -50,8 +50,10 @@ test('missing one translation, draft, empty or unsafe source blocks publication'
   }
   assert.throws(() => projectPrompts([], 1, origin), /empty/)
 })
-test('only public fields enter the renderer; prompt code fences remain intact', () => {
-  const [prompt] = projectPrompts([doc()], 1, origin)
+test('every prompt links to its localized Tripo detail page; prompt code fences remain intact', () => {
+  const value = doc()
+  value.prompt = localized('Build a scene.  \n```js\nconst x = 1\n```')
+  const [prompt] = projectPrompts([value], 1, origin)
   assert(!JSON.stringify(prompt).includes('private-sentinel'))
   prompt.images = ['assets/previews/example.webp']
   const output = renderAll([prompt])
@@ -61,7 +63,9 @@ test('only public fields enter the renderer; prompt code fences remain intact', 
     if (path === 'docs/with-code.md') continue
     assert(content.includes('````text\nBuild a scene.\n```js\nconst x = 1\n```\n````'))
     assert(content.includes('An &lt;interesting&gt; scene'))
-    assert(!content.includes('https://www.tripo3d.ai/3d-prompts/test-scene'), 'Do not invent detail pages for new CMS-only prompts')
+    const locale = locales.find(l => path === `docs/catalog.${l.code}.md` || path === (l.code === 'en' ? 'README.md' : l.code === 'zh' ? 'README.zh-CN.md' : ''))
+    const detailURL = `https://www.tripo3d.ai${locale.code === 'en' ? '' : `/${locale.code}`}/3d-prompts/test-scene`
+    assert(content.includes(`[${locale.detail} ↗](${detailURL})`))
   }
 })
 
@@ -75,7 +79,6 @@ test('public R2 media is accepted and fetched anonymously; legacy files retain a
   value.media[0].url = 'https://media.tripogrowth.space/media/image.webp'
   value.video = { url: 'https://media.tripogrowth.space/media/current.mp4', sourceURL: 'https://example.com/old.mp4' }
   const [projected] = projectPrompts([value], 1, origin)
-  assert.equal(projected.video, value.video.url)
   await cms.request(projected.media[0].url, { media: true })
   await cms.request('/api/media/file/image.webp', { media: true })
   assert.deepEqual(seen.map(r => r.headers), [{}, { Authorization: 'users API-Key test-only-key' }])
@@ -108,7 +111,7 @@ test('public media retries stay anonymous and redirect responses are rejected', 
   assert.equal(attempts, 2)
 })
 
-test('video-only featured prompts retain all translations and video links without broken thumbnails', async () => {
+test('video-only featured prompts retain all translations and use detail links without broken thumbnails', async () => {
   const { prepareMedia } = await import('./lib/media.mjs')
   const value = doc()
   value.media = []
@@ -119,8 +122,19 @@ test('video-only featured prompts retain all translations and video links withou
   assert.equal(JSON.parse(media.get('assets/manifest.json')).files.length, 0)
   for (const [path, contents] of renderAll(prompts)) {
     if (path === 'docs/with-code.md') continue
-    assert(contents.includes(value.video.url))
+    assert(!contents.includes(value.video.url))
+    assert(contents.includes(`/3d-prompts/${value.slug}`))
     assert(contents.includes('Build a scene.'))
     assert(!contents.includes('assets/featured/') && !contents.includes('undefined'))
   }
+})
+
+test('uses the slug when a source identifier is not a safe Markdown anchor', () => {
+  const value = doc()
+  value.source.postId = 'owner/repository#example'
+  value.source.publishedAt = null
+  value.publishedAt = '2026-09-08T00:00:00Z'
+  const [prompt] = projectPrompts([value], 1, origin)
+  assert.equal(prompt.id, value.slug)
+  assert.equal(prompt.date, '2026-09-08')
 })

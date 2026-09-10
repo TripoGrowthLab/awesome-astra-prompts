@@ -3,6 +3,16 @@
   "note": "Generated images from CMS. Source attribution remains in the catalogs. Featured previews preserve the complete frame.",
   "files": [
     {
+      "path": "assets/previews/00a3d885b9462dcaa8cd54c0109462182b6382ea9924e0239258d2b2c51ad744.jpg",
+      "fingerprint": "e1f9c39a0c479f969b9f22e495247549f6af943281f3a303d926397616c4369e",
+      "sha256": "00a3d885b9462dcaa8cd54c0109462182b6382ea9924e0239258d2b2c51ad744",
+      "bytes": 129685,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2097602512660709376/img/NK1ZVDKq2GHwgz_h.jpg",
+      "promptIds": [
+        "2097602565110419781"
+      ]
+    },
+    {
       "path": "assets/previews/0203a375c4a0f77f1fae00d9c8c9173739b940debd87bf4144d4f375ccc8c12e.jpg",
       "fingerprint": "c18bf7ea812fd083aded1fadf22f4aa8f3d39db354cdd4d3803fc6ada03ff657",
       "sha256": "0203a375c4a0f77f1fae00d9c8c9173739b940debd87bf4144d4f375ccc8c12e",
@@ -10,6 +20,16 @@
       "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2096391411738566656/img/ONzKqGYgF9RMF9lb.jpg",
       "promptIds": [
         "2096391653669953761"
+      ]
+    },
+    {
+      "path": "assets/previews/063337844500a06926ea87505df32746fd9b06e308cf92109568d0b13b2232f2.jpg",
+      "fingerprint": "fa166a32e0f759278d5efeb888754c25906563d9120074a6dcbb30f2711a0d7b",
+      "sha256": "063337844500a06926ea87505df32746fd9b06e308cf92109568d0b13b2232f2",
+      "bytes": 48752,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2097586271963246592/img/lOzxkR-CCeDui2LP.jpg",
+      "promptIds": [
+        "2097588270171660321"
       ]
     },
     {
@@ -80,6 +100,16 @@
       "sourceUrl": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096235513309229056-poster-9cbe50b9970b.webp",
       "promptIds": [
         "2096244208533455049"
+      ]
+    },
+    {
+      "path": "assets/previews/19fa5b36caaf4663987e99892e3cb3babcc452cbe50e1ef2f6108a859d3eba36.jpg",
+      "fingerprint": "1e32b9db1ddb1b3ca2cba8940cf09471a7c6f9d16970611f2d885c2da010086d",
+      "sha256": "19fa5b36caaf4663987e99892e3cb3babcc452cbe50e1ef2f6108a859d3eba36",
+      "bytes": 49506,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2097065247492411392/img/KS9gGkg6pO1ZkS37.jpg",
+      "promptIds": [
+        "2097065330728128920"
       ]
     },
     {
@@ -209,27 +239,8 @@
       "bytes": 87957,
       "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2097163774700691456/img/PxN8990qRo7p2-um.jpg",
       "promptIds": [
+        "2097320830602809682",
         "2097336230078013598"
-      ]
-    },
-    {
-      "path": "assets/previews/3990cf9279eb906cfc9303f3ed9459d6600479ea83c7ddc908d4d74398345d3b.webp",
-      "fingerprint": "25df4922a730a6ee86f40e7cc4cfb970a839b5980608dd7e78e342a542ce6a93",
-      "sha256": "3990cf9279eb906cfc9303f3ed9459d6600479ea83c7ddc908d4d74398345d3b",
-      "bytes": 39522,
-      "sourceUrl": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096173747736883201-poster-7d6e41b4642b.webp",
-      "promptIds": [
-        "2096174858837074198"
-      ]
-    },
-    {
-      "path": "assets/previews/3b47ced29ac0872998aed94cda19d2bd5e5c555f15f2023481336c68a8ce23d5.webp",
-      "fingerprint": "0f4bf6f5804350f1262b86da2005bffbb9d60923745891b9d8f10148b9e4b3b1",
-      "sha256": "3b47ced29ac0872998aed94cda19d2bd5e5c555f15f2023481336c68a8ce23d5",
-      "bytes": 139170,
-      "sourceUrl": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-273e972ca047-poster-273e972ca047.webp",
-      "promptIds": [
-        "2096206082712768897"
       ]
     },
     {
@@ -290,26 +301,6 @@
       "sourceUrl": "https://pbs.twimg.com/media/HRnpX5paUAAW_my.jpg",
       "promptIds": [
         "2096966425017467344"
-      ]
-    },
-    {
-      "path": "assets/previews/42b972bdf19630b039a0b32ca1d30631228ee68665a29e37dafa1a63b9090fe2.webp",
-      "fingerprint": "6fb766c8b38abb1f99131c316d4ae7cd82a1509f78c1db175f5596fadf389798",
-      "sha256": "42b972bdf19630b039a0b32ca1d30631228ee68665a29e37dafa1a63b9090fe2",
-      "bytes": 59628,
-      "sourceUrl": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096222762989928448-poster-9be71f72d6cb.webp",
-      "promptIds": [
-        "2096222790894661841"
-      ]
-    },
-    {
-      "path": "assets/previews/42e7d7821256b5c0e0d6ef4267f582a3a9406817642abaecae99cc2e479b733f.webp",
-      "fingerprint": "c41becc2c011421d6d329a9f8cc7885487576087899f4a7e07a0919c357201ba",
-      "sha256": "42e7d7821256b5c0e0d6ef4267f582a3a9406817642abaecae99cc2e479b733f",
-      "bytes": 58172,
-      "sourceUrl": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096224812020690944-poster-e78a4312cb50.webp",
-      "promptIds": [
-        "2096225621303042258"
       ]
     },
     {
@@ -403,26 +394,6 @@
       ]
     },
     {
-      "path": "assets/previews/5c294d1c86a0a0be00b87bd42151424304fdcdf32de5352a6db93a471756ea4e.jpg",
-      "fingerprint": "b915770a3e2a7c1c181aa0de658d12f36a4270ab9061a521677c34926f8ef075",
-      "sha256": "5c294d1c86a0a0be00b87bd42151424304fdcdf32de5352a6db93a471756ea4e",
-      "bytes": 105220,
-      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2096219608550461440/img/VmSvyEIrRRdukfjg.jpg",
-      "promptIds": [
-        "2096219700879331665"
-      ]
-    },
-    {
-      "path": "assets/previews/631562c3a38f51debed3cd6a3155680ea14b83678ceee3fb384ea95f3b8a3eb5.webp",
-      "fingerprint": "de7ee8a927dc78c8d75c3416ccbf3aba4f6ee7512dc1948a641897023fbf7f2f",
-      "sha256": "631562c3a38f51debed3cd6a3155680ea14b83678ceee3fb384ea95f3b8a3eb5",
-      "bytes": 30330,
-      "sourceUrl": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096215832367878145-poster-83cee06fab31.webp",
-      "promptIds": [
-        "2096220264413409648"
-      ]
-    },
-    {
       "path": "assets/previews/66b6fe9a782625a1d13bf79872857593fecf604421e40eb8cfd67c212ad0b695.webp",
       "fingerprint": "4abdcfa73fdf86be4a6319ca9f833e671950636986c86c3f2c8e05cba75cd413",
       "sha256": "66b6fe9a782625a1d13bf79872857593fecf604421e40eb8cfd67c212ad0b695",
@@ -473,6 +444,16 @@
       ]
     },
     {
+      "path": "assets/previews/721eed98f68b8ad4264b4fbd922b185c7e6501834c9aa828a0b3b369fba5ff28.jpg",
+      "fingerprint": "fa1fbda25bb17d8d91a28387357fd6da54c1116ba041d084be5fd31fd27ae77c",
+      "sha256": "721eed98f68b8ad4264b4fbd922b185c7e6501834c9aa828a0b3b369fba5ff28",
+      "bytes": 62968,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2097532465170546689/img/7q3NxvLCdUivT3ax.jpg",
+      "promptIds": [
+        "2097534290112188602"
+      ]
+    },
+    {
       "path": "assets/previews/72b971d6246be2161f38fbee61113a317d4da0ae9c42e3fbe6f431adf9337003.jpg",
       "fingerprint": "3d3ab9d565f726c07e35b3c775a7302235164cae6b14c730170e05df21f869a5",
       "sha256": "72b971d6246be2161f38fbee61113a317d4da0ae9c42e3fbe6f431adf9337003",
@@ -483,13 +464,13 @@
       ]
     },
     {
-      "path": "assets/previews/73fbb8ce4494edce62d66860d9dc1aebc51a7a4032b056bd4712c2fa15e37c8f.webp",
-      "fingerprint": "5c056316c1112af7d8673a25df30e6cfd641b3888db1cef060f54ba64e568c1a",
-      "sha256": "73fbb8ce4494edce62d66860d9dc1aebc51a7a4032b056bd4712c2fa15e37c8f",
-      "bytes": 28188,
-      "sourceUrl": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096218474930405376-poster-a2b68479205e.webp",
+      "path": "assets/previews/74346c42eb8d47709ba800a4e437c9eaf2a54ccf6d547f4932ff8193cf2987f2.jpg",
+      "fingerprint": "8e52e8df6a1532b047fcc9fc9adfe23dbb01fdae58ed9fc46dad54762ff1f869",
+      "sha256": "74346c42eb8d47709ba800a4e437c9eaf2a54ccf6d547f4932ff8193cf2987f2",
+      "bytes": 150540,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2097003172095033344/img/TzRulEoZDr59Xk5o.jpg",
       "promptIds": [
-        "2096221988763173186"
+        "2097057316138832282"
       ]
     },
     {
@@ -653,16 +634,6 @@
       ]
     },
     {
-      "path": "assets/previews/965f7261ca51d323b38ae9c6c0970182ce8417113527c8c5cd4bd42c0473354c.webp",
-      "fingerprint": "a8bad538967dee1ff7155d85cdba4cc4afc175ef252689eee9789b8a9c358f1d",
-      "sha256": "965f7261ca51d323b38ae9c6c0970182ce8417113527c8c5cd4bd42c0473354c",
-      "bytes": 48204,
-      "sourceUrl": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096046840546549761-poster-318cd780059f.webp",
-      "promptIds": [
-        "2096201415051911597"
-      ]
-    },
-    {
       "path": "assets/previews/97e0eb2219fface4eb1761e339ee46e0099540feb84eddf3e2513285374d9d70.jpg",
       "fingerprint": "0d509f62fbc4fb25eb3818c3c4ebe51ae50fe812ec58617dd058df4f8955ce4c",
       "sha256": "97e0eb2219fface4eb1761e339ee46e0099540feb84eddf3e2513285374d9d70",
@@ -720,6 +691,26 @@
       "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2097307920975515648/img/vzQZOMxXnr7xNr04.jpg",
       "promptIds": [
         "2097339176094195899"
+      ]
+    },
+    {
+      "path": "assets/previews/a89f2393a0951b706bb98c904c317b3afb4707e76b5f3f9432a19725616d2f11.jpg",
+      "fingerprint": "eb3ea825c6ae24cdbfe87072b4a9396f5aefcc3bbda995c39ab614f8d52c72a7",
+      "sha256": "a89f2393a0951b706bb98c904c317b3afb4707e76b5f3f9432a19725616d2f11",
+      "bytes": 86500,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2097123357233680384/img/vGyrEeEbj45yQlYQ.jpg",
+      "promptIds": [
+        "2097123382852829230"
+      ]
+    },
+    {
+      "path": "assets/previews/a8bbf8917e9f19971a1ed3976735efde583ae25e4dedf23df3e71f16f775b59a.jpg",
+      "fingerprint": "35436ad4e722bd166d994bf74412018f1b19e4fcf9236e10be5de6e1574a42e8",
+      "sha256": "a8bbf8917e9f19971a1ed3976735efde583ae25e4dedf23df3e71f16f775b59a",
+      "bytes": 86272,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2097646681856823296/img/Op_H9wQUtDHm0Eq_.jpg",
+      "promptIds": [
+        "2097678911882809407"
       ]
     },
     {
@@ -803,6 +794,16 @@
       ]
     },
     {
+      "path": "assets/previews/b6d2405bd8f8e5cd9543cde67c0c3719a2e7b5ac38c080cca7336d0f7c1ec1d1.jpg",
+      "fingerprint": "cd4648c123f6d1c9a828ecc8efb1439c00166b7ab0a84767cd1dd9e05dfa97d4",
+      "sha256": "b6d2405bd8f8e5cd9543cde67c0c3719a2e7b5ac38c080cca7336d0f7c1ec1d1",
+      "bytes": 82561,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2097673340370796544/img/pYaxo63zCnmSdB8j.jpg",
+      "promptIds": [
+        "2097675660873605422"
+      ]
+    },
+    {
       "path": "assets/previews/b96633c15d16a1fad0fe0e700c8bec74e9157a05c86bbf84264cea903f333c4a.jpg",
       "fingerprint": "87f7cbd2031fbb2bbb667d36d410890ca4287a7a8094c3ab7e77365a84d296ac",
       "sha256": "b96633c15d16a1fad0fe0e700c8bec74e9157a05c86bbf84264cea903f333c4a",
@@ -833,16 +834,6 @@
       ]
     },
     {
-      "path": "assets/previews/bfaf05732302b6b4b42dc6111f9d179284f87758a1343ad007afa58e96a19c5e.jpg",
-      "fingerprint": "a4b00ba5eb26ec9af668d3188e8f3f5a14c8e2de7fd3c67ea73e11c1f407dbcf",
-      "sha256": "bfaf05732302b6b4b42dc6111f9d179284f87758a1343ad007afa58e96a19c5e",
-      "bytes": 86539,
-      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2096213723769958400/img/eZ6KJzlRf_TSYhOH.jpg",
-      "promptIds": [
-        "2096213850383331489"
-      ]
-    },
-    {
       "path": "assets/previews/bffeb201cd39ed86178dd22e30bda1ea70e4ff92902307d88ba66700e21dcd32.jpg",
       "fingerprint": "813d067fb86816e7041d14ecf5ead25c8dfa78ebbbd20492b286604fdf967cad",
       "sha256": "bffeb201cd39ed86178dd22e30bda1ea70e4ff92902307d88ba66700e21dcd32",
@@ -870,16 +861,6 @@
       "sourceUrl": "https://pbs.twimg.com/media/HRoA72qX0AAsCnk.png",
       "promptIds": [
         "2096990373813858591"
-      ]
-    },
-    {
-      "path": "assets/previews/c2a965c19b4319993a70a4a31d66043dfa9db1a79aa3c9acc72a8b7cc5b5444d.webp",
-      "fingerprint": "7a2d77342e62c2f00f8928e6f32ed8735cd1e0fd98bf1c2ce2c0ac6a3e6faaa3",
-      "sha256": "c2a965c19b4319993a70a4a31d66043dfa9db1a79aa3c9acc72a8b7cc5b5444d",
-      "bytes": 88770,
-      "sourceUrl": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-8e6fd0e1c978-poster-8e6fd0e1c978.webp",
-      "promptIds": [
-        "2096180220839760375"
       ]
     },
     {
@@ -980,6 +961,16 @@
       "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2096626220935061504/img/AMhMafn4jRoV_58V.jpg",
       "promptIds": [
         "2096629506047955327"
+      ]
+    },
+    {
+      "path": "assets/previews/e48e75f6d576698277fbf38943951dca9b414e6f8a6ec01da83ac63b9df5f829.png",
+      "fingerprint": "cf82693da1cc5fbf5ec9f6a4f68bbcf2d1f8d0c3d7dbd6bd7ba43de2dd31dc5f",
+      "sha256": "e48e75f6d576698277fbf38943951dca9b414e6f8a6ec01da83ac63b9df5f829",
+      "bytes": 49622,
+      "sourceUrl": "https://raw.githubusercontent.com/Ayi1337/gpt6-astra-one-shot-games/main/mosswing/src/design/desktop-final.png",
+      "promptIds": [
+        "mosswing-mobile-3d-tap-to-flap-game"
       ]
     },
     {

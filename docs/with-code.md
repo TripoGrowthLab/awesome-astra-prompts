@@ -6,6 +6,10 @@
 
 Explore the linked projects and check their own licenses before reuse.
 
+## [Ayi1337/gpt6-astra-one-shot-games](https://github.com/Ayi1337/gpt6-astra-one-shot-games)
+
+- [Mosswing: Mobile 3D Tap-to-Flap Game](catalog.en.md#mosswing-mobile-3d-tap-to-flap-game) · [Ayi1337](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing)
+
 ## [wangruofeng/orbital-core-showcase](https://github.com/wangruofeng/orbital-core-showcase)
 
 - [Interactive dual-ring energy core](catalog.en.md#2096551010089263181) · [ruofeng](https://x.com/oneruofeng/status/2096551010089263181)

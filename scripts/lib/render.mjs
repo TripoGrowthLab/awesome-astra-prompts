@@ -7,7 +7,7 @@ const linkURL = url => url.replaceAll('(', '%28').replaceAll(')', '%29')
 const link = (label, url) => `[${md(label)}](${linkURL(url)})`
 const root = `https://github.com/${repository}`
 const generated = '<!-- Generated from Growth CMS. Update content in CMS; run npm run sync. -->'
-const publicPage = (prompt, locale) => prompt.hasDetailPage ? `https://www.tripo3d.ai${locale.code === 'en' ? '' : `/${locale.code}`}/3d-prompts/${prompt.slug}` : prompt.source
+const publicPage = (prompt, locale) => `https://www.tripo3d.ai${locale.code === 'en' ? '' : `/${locale.code}`}/3d-prompts/${prompt.slug}`
 export const languageBadges = (current, prefix) => '<p>\n' + locales.map(locale => {
   const target = locale.code === 'en' ? `${prefix}README.md` : locale.code === 'zh' ? `${prefix}README.zh-CN.md` : `${prefix}docs/catalog.${locale.code}.md`
   const url = `https://img.shields.io/badge/${encodeURIComponent(locale.name.replaceAll('-', '--'))}-${locale.code === current.code ? '✓-238636' : '64748b'}?style=flat-square`
@@ -25,16 +25,16 @@ function badges(prompts, locale, prefix) {
 }
 const preview = (prompt, entry, locale, path, width = 840) => `<a href="${html(publicPage(prompt, locale))}"><img src="${path}" width="${width}" loading="lazy" alt="${html(entry.title)}"></a>`
 const links = (prompt, locale) => [
-  ...(prompt.hasDetailPage ? [link(`${locale.detail} ↗`, publicPage(prompt, locale))] : []),
-  ...(prompt.video ? [link(`${locale.video} ↗`, prompt.video)] : []),
+  link(`${locale.detail} ↗`, publicPage(prompt, locale)),
   link(locale.source, prompt.source),
   ...(prompt.repository ? [link(locale.repository, prompt.repository)] : []),
   ...(prompt.demo ? [link(locale.demo, prompt.demo)] : []),
   link(locale.back, '#all-prompts'),
 ].join(' · ')
 function fenced(value) {
-  const fence = '`'.repeat(Math.max(3, ...[...value.matchAll(/`+/g)].map(match => match[0].length + 1)))
-  return `${fence}text\n${value}\n${fence}`
+  const clean = value.replace(/[ \t]+$/gm, '')
+  const fence = '`'.repeat(Math.max(3, ...[...clean.matchAll(/`+/g)].map(match => match[0].length + 1)))
+  return `${fence}text\n${clean}\n${fence}`
 }
 
 export function renderCatalog(prompts, locale, prefix = '') {

@@ -55,6 +55,9 @@ export async function validateOutputs(staging = '.') {
     assert(!/source-derived|hidden prompt|来源整理稿|Get the JSON|Try an idea, then make it yours|What “prompt” means here/i.test(prose), `Removed copy returned in ${path}`)
     if (path !== 'docs/with-code.md') {
       const locale = locales.find(l => path === `docs/catalog.${l.code}.md` || path === (l.code === 'en' ? 'README.md' : l.code === 'zh' ? 'README.zh-CN.md' : ''))
+      const detailPrefix = `[${locale.detail} ↗](https://www.tripo3d.ai${locale.code === 'en' ? '' : `/${locale.code}`}/3d-prompts/`
+      assert.equal(content.split(detailPrefix).length - 1, manifest.count, `Every example must have one localized detail link: ${path}`)
+      assert(!/\.mp4(?:[?#][^)]*)?\)/i.test(prose), `Video CTA returned: ${path}`)
       assert(!prose.includes('utm_content=catalog_top'), `Top gallery box returned: ${path}`)
       assert(prose.includes(galleryNotice(locale, manifest.count, manifest.totalCount, 'bottom')), `Missing localized gallery link: ${path}`)
       if (locale.code === 'en') assert(prose.includes(`**${manifest.totalCount} examples · ${locales.length} languages · ${manifest.sourceCodeCount} examples with source code**`), `Incorrect full collection counts: ${path}`)
