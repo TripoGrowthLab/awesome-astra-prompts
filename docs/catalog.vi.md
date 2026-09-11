@@ -26,7 +26,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**211 · Prompt Astra mới nhất**
+**216 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -47,7 +47,6 @@
 - [Mosswing: Game 3D mobile chạm để vỗ cánh](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
 - [Lõi năng lượng hai vòng tương tác](#2096551010089263181) · GitHub
 - [Quảng trường Thống Nhất ở Cluj-Napoca bằng voxel](#2096262733259837681) · GitHub
-- [Trình mô phỏng bay trên trình duyệt với vòng lặp bay hoàn chỉnh](#2096236137266512181)
 - [Dựng lại rồng chân thực có thể chỉnh sửa trong Blender](#2096335588727349434)
 - [Dựng hình 3D từ ảnh trên X](#2096338836854804782)
 - [Từ ý tưởng nhân vật đến mô hình 3D đã rig và phim hoạt hình](#2096342420543660277)
@@ -56,7 +55,6 @@
 - [Tái tạo Lego 1999 Racers](#2096438110095585753)
 - [Khải tượng đền thờ của Ê-xê-chi-ên trong không gian 3D](#2096547658164834788)
 - [Mô phỏng vụ nổ hạt nhân trong thành phố 3D](#2096562462674079868)
-- [Thêm chế độ xem 3D vào website](#2096567422253662372)
 - [Totality Engine: Thánh đường Nhật thực Điện ảnh](#2096593372311941143)
 - [Tạo CS2 bằng Three.js](#2096596888799895855)
 - [Hoạt ảnh gấp hộp giấy từ bản vẽ khuôn bế](#2096612394281603144)
@@ -65,7 +63,6 @@
 - [Render Trái Đất xoay trong Blender](#2096637194270134742)
 - [Trò chơi khám phá thế giới 3D Mini World](#2096641728497275011)
 - [Phối cảnh tháo rời smartphone tương tác](#2096685163111694556)
-- [Trò chơi Grand Theft Auto với các nhân vật và thành phố San Andreas](#2096739993217577219)
 - [Mô hình nhân vật LEGO cho game bằng Blender MCP](#2096766465730847059)
 - [Tạo slime mềm tương tác bằng Three.js và WebGPU](#2096793432987464010)
 - [Rừng 3D thời gian thực siêu chi tiết trên trình duyệt](#2096814981509775616)
@@ -95,16 +92,19 @@
 - [Website cánh đồng lúa 3D sống động](#2097602565110419781)
 - [Dựng cảnh hài hước mèo bị cánh tay robot đuổi bắt bằng GPT-6 Astra và Blender](#2097675660873605422)
 - [Xây dựng THE LAST GATE: game chạy vượt chướng ngại vật theo nhóm với các cổng tính toán](#2097678911882809407)
+- [Mô phỏng địa hình sân golf 18 hố](#2097755845001937172)
+- [Bản demo đồ họa fantasy tương tác](#2097821164093480999)
+- [Video ngắn 3D không lời: Mèo và nút thưởng](#2097900087901106244)
+- [Tăng độ thử thách cho sân golf 18 hố](#2098038909514944562)
+- [Quy trình dựng cảnh rượt đuổi ô tô hoạt hình lấy cảm hứng từ GTA](#2098049032195293190)
+- [Nhịp đập thành phố](#2098063352832610473)
+- [Hoạt ảnh học viện phép thuật bay lơ lửng](#2098071577309122854)
 - [Kaiju giao chiến trong thành phố](#2096251574918013135)
 - [Chuyển đổi biểu cảm nhân vật trong Blender](#2096525100518453342)
 - [Website studio 3D theo cuộn trang](#2096245759121277132)
 - [Komorebi: chèo kayak trên sông](#2096244208533455049)
-- [Câu chuyện sản phẩm với chai khúc xạ](#2096243989439713677)
 - [Demo Hyperloop tương tác](#2096250748099068377)
-- [Tượng bán thân Napoleon thủ tục](#2096234355395903672)
-- [Sảnh ga đường sắt](#2096226711222546461)
 - [Vật lý đua xe trình duyệt bằng C# và WASM](#2096258619574513880)
-- [Máy viên nang ký ức](#2096241295949975602)
 - [Cảnh nhân vật lấy cảm hứng từ Warcraft trong Unity](#2096308567863079420)
 - [Bàn cờ shogi 3D có thể xoay](#2096579856133947507)
 - [Bản đồ tháo rời linh kiện máy tính để bàn](#2096578761877860502)
@@ -200,108 +200,6 @@ Tạo thế giới voxel tương tác tái hiện Piața Unirii ở Cluj-Napoca.
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681) · [Bài đăng gốc](https://x.com/danmana/status/2096262733259837681) · [Mã nguồn](https://github.com/danmana/piata-unirii) · [Bản demo](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096236137266512181"></a>
-
-### Trình mô phỏng bay trên trình duyệt với vòng lặp bay hoàn chỉnh
-
-[aditya](https://x.com/adxtyahq) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096236137266512181"><img src="../assets/previews/bbb03f5650350e6b4a323f0dd76f98d1abb0cbe94896f2dbe24d68c4bfbf8ce8.jpg" width="840" loading="lazy" alt="Trình mô phỏng bay trên trình duyệt với vòng lặp bay hoàn chỉnh"></a>
-
-Xây dựng máy bay chở khách 3D có thể điều khiển, sân bay, thiết bị bay và vòng lặp trò chơi hoàn chỉnh từ cất cánh đến hạ cánh, bằng toàn bộ prompt do tác giả chia sẻ.
-
-**Prompt**
-
-```text
-Xây dựng từ đầu một game mô phỏng bay 3D trên trình duyệt được hoàn thiện chỉn chu và có thể chơi được.
-
-Mục tiêu là tạo ra một trải nghiệm mô phỏng bay quy mô nhỏ nhưng thực sự có thể chơi, không phải một cảnh 3D tĩnh.
-
-GAMEPLAY
-- Tạo một sân bay với đường băng, đường lăn, nhà ga/các tòa nhà, cỏ/địa hình, vạch sơn và đèn đường băng, bầu trời cùng mây được thể hiện chi tiết.
-- Đặt một máy bay chở khách dễ nhận biết tại sân bay.
-- Người chơi phải có thể điều khiển máy bay bằng bàn phím.
-- Triển khai điều khiển ga, góc ngẩng, lăn, hướng và phanh.
-- Máy bay phải có vật lý bay cơ bản hợp lý, quán tính và khả năng tăng tốc.
-- Người chơi phải có thể tăng tốc trên đường băng, cất cánh, bay quanh sân bay, tiếp cận đường băng và hạ cánh.
-- Thêm một mục tiêu đơn giản: cất cánh, hoàn thành một chuyến bay ngắn quanh sân bay và hạ cánh an toàn.
-- Bao gồm phát hiện va chạm/thất bại và tùy chọn chơi lại.
-
-CONTROLS
-Hiển thị rõ các phím điều khiển:
-- W/S: Góc ngẩng
-- A/D: Lăn
-- Q/E: Hướng
-- Shift/Ctrl: Ga
-- Space: Phanh
-
-CAMERA
-- Sử dụng camera bám đuổi mượt ở góc nhìn người thứ ba, phía sau máy bay.
-- Giữ cho máy bay luôn dễ quan sát trong suốt chuyến bay.
-- Camera phải bám theo chuyển động mượt mà và phản hồi nhẹ theo gia tốc.
-
-HUD
-Tạo HUD phong cách hàng không được hoàn thiện chỉn chu, hiển thị:
-- Tốc độ bay
-- Độ cao
-- Hướng bay
-- Ga
-- Tốc độ lên/xuống
-- Trạng thái chuyến bay
-- Mục tiêu hiện tại
-
-Bao gồm một bảng điều khiển/trợ giúp nhỏ gọn, có thể ẩn đi.
-
-BẮT ĐẦU + KẾT QUẢ
-Tạo màn hình bắt đầu với:
-"MÔ PHỎNG BAY"
-và một nút "BẮT ĐẦU CHUYẾN BAY" nổi bật.
-
-Sau khi hạ cánh thành công, hiển thị:
-- Hoàn thành chuyến bay
-- Chất lượng hạ cánh
-- Thời gian bay
-- Điểm tổng kết
-- Chơi lại
-
-CHẤT LƯỢNG HÌNH ẢNH
-Tạo cảm giác như một game thực thụ:
-- Hình ảnh 3D cách điệu nhất quán
-- Máy bay được thể hiện chi tiết
-- Môi trường sân bay bắt mắt
-- Ánh sáng, bóng đổ và vật liệu chất lượng
-- Mây/khí quyển
-- Tòa nhà sân bay, phương tiện, biển báo, cây cối và các chi tiết môi trường khác khi phù hợp
-- Tránh tạo ra một cảnh trống trải hoặc rõ ràng còn dang dở
-
-FEEDBACK
-Thêm phản hồi hữu ích cho:
-- Trạng thái ga/động cơ
-- Cất cánh
-- Hạ cánh
-- Cảnh báo tốc độ
-- Độ cao
-- Va chạm
-- Hạ cánh thành công
-
-TECHNICAL
-- Xây dựng toàn bộ game có thể hoạt động trong trình duyệt.
-- Không để lại các nút giữ chỗ hoặc tương tác giả.
-- Ưu tiên khả năng điều khiển phản hồi nhanh và hiệu năng mượt mà.
-- Sử dụng các công nghệ web/3D phù hợp hiện có.
-
-QUAN TRỌNG:
-Không dành toàn bộ thời gian để tạo một cảnh tĩnh đẹp mắt. Máy bay PHẢI thực sự điều khiển được và vòng lặp hoàn chỉnh phải hoạt động:
-
-BẮT ĐẦU → TĂNG TỐC → CẤT CÁNH → BAY → TIẾP CẬN → HẠ CÁNH → TÍNH ĐIỂM → CHƠI LẠI
-
-Trước khi hoàn tất, hãy chạy game trên trình duyệt và tự kiểm thử toàn bộ vòng lặp gameplay. Khắc phục các lỗi về điều khiển, vật lý, hình ảnh và tương tác mà bạn phát hiện.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096236137266512181) · [Bài đăng gốc](https://x.com/adxtyahq/status/2096236137266512181) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -684,24 +582,6 @@ Tạo bản demo vụ nổ hạt nhân với thành phố 3D, chớp sáng hạt
 
 ---
 
-<a id="2096567422253662372"></a>
-
-### Thêm chế độ xem 3D vào website
-
-[Maxence](https://x.com/Dgamax) · 2026-09-06
-
-Tác giả cho biết đã dùng GPT-6 Astra để tái tạo một MMORPG bằng Three.js, sau đó yêu cầu thêm chế độ xem 3D này vào website, bao gồm cả các góc nhìn khu vực xuất hiện kèm âm thanh.
-
-**Prompt**
-
-```text
-Đỉnh quá! Thêm chế độ xem 3D này vào website luôn nhé!
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096567422253662372) · [Bài đăng gốc](https://x.com/Dgamax/status/2096567422253662372) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="2096593372311941143"></a>
 
 ### Totality Engine: Thánh đường Nhật thực Điện ảnh
@@ -965,25 +845,6 @@ Xây dựng một hình ảnh trực quan 3D tương tác về một smartphone 
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096685163111694556) · [Bài đăng gốc](https://x.com/zairalaraib_/status/2096685163111694556) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096739993217577219"></a>
-
-### Trò chơi Grand Theft Auto với các nhân vật và thành phố San Andreas
-
-[ElIngeRRC](https://x.com/ElIngeRRC) · 2026-09-06
-
-Yêu cầu tạo một trò chơi Grand Theft Auto, trong đó CJ, Michael, Trevor, Lucia và Jason đảm nhận các vai trò đã nêu tại những thành phố khác nhau.
-
-**Prompt**
-
-```text
-Tạo một trò chơi Grand Theft Auto, trong đó CJ là một ông trùm ở thành phố Las Venturas, Michael là một cổ đông ở San Fierro.
-Trevor là một tay buôn ở Los Santos, còn Lucia và Jason là đồng bọn của anh ta.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096739993217577219) · [Bài đăng gốc](https://x.com/ElIngeRRC/status/2096739993217577219) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -2172,6 +2033,216 @@ Xây dựng THE LAST GATE: một game chạy vượt chướng ngại vật theo
 
 ---
 
+<a id="2097755845001937172"></a>
+
+### Mô phỏng địa hình sân golf 18 hố
+
+[Rory Flynn](https://x.com/Ror_Fly) · 2026-09-09
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097755845001937172"><img src="../assets/previews/8e002ab8ef0a47379b651aee5b3e38702f31b065040adf68fd55f2db7fb5a7f3.jpg" width="840" loading="lazy" alt="Mô phỏng địa hình sân golf 18 hố"></a>
+
+Yêu cầu mô phỏng việc xây dựng một sân golf 18 hố tại một địa điểm thực tế bằng bản đồ và dữ liệu địa hình thực tế, với các hố được bố trí phù hợp với địa hình tự nhiên.
+
+**Prompt**
+
+```text
+Mô phỏng việc xây dựng một sân golf 18 hố
+>Tìm một địa điểm thực tế
+>Sử dụng bản đồ + dữ liệu địa hình thực tế
+> Bố trí các hố phù hợp với địa hình tự nhiên
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097755845001937172) · [Bài đăng gốc](https://x.com/Ror_Fly/status/2097755845001937172) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2097821164093480999"></a>
+
+### Bản demo đồ họa fantasy tương tác
+
+[Anshu](https://x.com/anshuc) · 2026-09-09
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097821164093480999"><img src="../assets/previews/541f111bea72b7c24bb7edb2d84396581e7a11bc997cf8d910d973ae34715f27.png" width="840" loading="lazy" alt="Bản demo đồ họa fantasy tương tác"></a>
+
+Prompt Dream Loop Plus để tạo một cảnh fantasy Three.js chạy trên trình duyệt, với camera isometric, nhân vật có thể điều khiển, sàn ướt phản chiếu và chuyển động môi trường sống động. Tác giả giới thiệu đây là prompt demo sử dụng GPT-5.6 Luna xhigh; bài đăng cho biết Astra đảm nhiệm phần hình ảnh trong quy trình đã tối ưu.
+
+**Prompt**
+
+```text
+Dùng Dream Loop Plus để tạo cho tôi một bản demo đồ họa: camera isometric, đổ bóng chân thực, sàn ướt phản chiếu và một nhân vật trong bối cảnh thú vị. Bối cảnh fantasy (gợi nhớ Elden Ring, Diablo). Sử dụng Three.js trên trình duyệt, tốc độ khung hình >60fps. Điều khiển: nhấp chuột để di chuyển nhân vật, camera bám theo có độ trễ; kéo để xoay camera; cuộn để phóng to/thu nhỏ. Hiện chưa cần gameplay. Thế giới cần có cảm giác sống động: chuyển động, hoạt ảnh và các hành vi môi trường tinh tế.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097821164093480999) · [Bài đăng gốc](https://x.com/anshuc/status/2097821164093480999) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2097900087901106244"></a>
+
+### Video ngắn 3D không lời: Mèo và nút thưởng
+
+[AI実践ラボ](https://x.com/boboga777) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097900087901106244"><img src="../assets/previews/e80882d1c32752e76536bc6977f53cef0bdde11ab64dad0e751c1c1079428acb.jpg" width="840" loading="lazy" alt="Video ngắn 3D không lời: Mèo và nút thưởng"></a>
+
+Yêu cầu tạo một đoạn hoạt hình 3D không lời về một chú mèo, xoay quanh duy nhất một nút thưởng, sự hỗn loạn tăng dần và một cú chốt nho nhỏ.
+
+**Prompt**
+
+```text
+Tạo một video ngắn 3D không lời về một chú mèo: chỉ một nút thưởng, hỗn loạn tột độ và một cú chốt nho nhỏ. Thêm diễn xuất giàu biểu cảm, chuyển động máy quay, âm nhạc và vòng lặp.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097900087901106244) · [Bài đăng gốc](https://x.com/boboga777/status/2097900087901106244) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2098038909514944562"></a>
+
+### Tăng độ thử thách cho sân golf 18 hố
+
+[Rory Flynn](https://x.com/Ror_Fly) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098038909514944562"><img src="../assets/previews/f5a4d2f44955ee094959c3e503ec284bf99779bbdc16141a66d1305f8df3d895.jpg" width="840" loading="lazy" alt="Tăng độ thử thách cho sân golf 18 hố"></a>
+
+Mục tiêu được tác giả đặt ra trong một đêm: chỉnh sửa mô hình sân golf 18 hố trên trình duyệt với các hố golf thử thách hơn, fairway bị chia cắt, hố cát và chướng ngại vật táo bạo hơn, cùng nhiều lựa chọn đánh bóng có ý nghĩa hơn.
+
+**Prompt**
+
+```text
+Tăng độ thử thách cho mọi hố
+>Chia cắt các fairway thẳng
+>Thêm hố cát và chướng ngại vật táo bạo hơn
+>Tạo thêm nhiều lựa chọn đánh bóng có ý nghĩa
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098038909514944562) · [Bài đăng gốc](https://x.com/Ror_Fly/status/2098038909514944562) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2098049032195293190"></a>
+
+### Quy trình dựng cảnh rượt đuổi ô tô hoạt hình lấy cảm hứng từ GTA
+
+[PixVerse](https://x.com/PixVerse) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098049032195293190"><img src="../assets/previews/939609b429641e344a40ab78f01e7bf6dbfd57e8e707db7765c81ae04057ac31.jpg" width="840" loading="lazy" alt="Quy trình dựng cảnh rượt đuổi ô tô hoạt hình lấy cảm hứng từ GTA"></a>
+
+Prompt quy trình có thể tái sử dụng để tạo và diễn hoạt cảnh rượt đuổi ô tô hoạt hình dài 12 giây lấy cảm hứng từ GTA trong Blender, sau đó xử lý các cảnh quay bằng PixVerse Seedance 2.5.
+
+**Prompt**
+
+```text
+Tạo một cảnh rượt đuổi ô tô hoạt hình nguyên bản lấy cảm hứng từ GTA bằng quy trình này:
+Thiết kế: Xác định một tài xế chính, một ô tô chạy trốn, một ô tô truy đuổi và một môi trường đô thị. Giữ thiết kế của các đối tượng nhất quán. Lên kế hoạch cho ba cảnh quay dài 4 giây: cảnh truy đuổi bám theo từ phía sau, cảnh bám theo từ bên hông khi qua một khúc cua gấp và cảnh toàn rộng khi thoát khỏi khu vực.
+Dựng trong Blender: Tạo mô hình màu xám gọn gàng cùng rig nhân vật và phương tiện có thể hoạt động. Không cần tạo kết cấu bề mặt hoặc mở UV.
+Diễn hoạt và kiểm tra: Diễn hoạt tài xế, thao tác đánh lái, chuyển động quay của bánh xe, các phương tiện và camera. Duy trì hướng di chuyển cũng như thứ tự các phương tiện nhất quán. Sửa các lỗi xuyên mesh, bánh xe bị lơ lửng, lốp trượt, tư thế bị hỏng và tình trạng tay mất tiếp xúc với vô lăng.
+Render trong Blender: Render các khung hình 1–288 ở độ phân giải 1280×720, 24 fps. Ghép các khung hình thực sự được render từ Blender thành video master mô hình màu xám hoàn chỉnh dài 12 giây. Xuất riêng từng cảnh quay và render các khung hình tĩnh màu xám tương ứng để làm tham chiếu hình dạng và bố cục.
+Hoàn thiện bằng plugin [@PixVerse](plugin://pixverse@openai-curated-remote): Sử dụng Seedance 2.5 ở 720p, xử lý riêng từng cảnh quay. Dùng các đoạn clip từ Blender làm tham chiếu chuyển động và các khung hình tĩnh màu xám làm tham chiếu hình dạng. Xác định một bảng màu hoạt hình nhất quán trong prompt tạo ảnh. Giữ nguyên chuyển động camera, nhịp điệu hành động, thiết kế nhân vật và phương tiện, cũng như số lượng phương tiện.
+Kiểm tra và bàn giao: Kiểm tra cả hai video hoàn chỉnh để phát hiện lỗi hình ảnh và vấn đề liên tục. Sửa các lỗi trong Blender và chỉ tạo lại những cảnh Seedance bị lỗi, tối đa hai lần thử lại cho mỗi cảnh. Bàn giao tệp .blend có thể chỉnh sửa, video mô hình màu xám 720p gốc từ Blender, phiên bản Seedance 720p có nhãn riêng cho từng cảnh và bản đánh giá ngắn về những hạn chế còn lại.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098049032195293190) · [Bài đăng gốc](https://x.com/PixVerse/status/2098049032195293190) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2098063352832610473"></a>
+
+### Nhịp đập thành phố
+
+[Seoyeon Jun 📊](https://x.com/tableau_viz) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098063352832610473"><img src="../assets/previews/5d96794ffdfbbd2d258ceafada52e1fbe1baa78da9bd613cb7f66f3d16e369ba.jpg" width="840" loading="lazy" alt="Nhịp đập thành phố"></a>
+
+Bản đồ dữ liệu 3D tương tác về hoạt động của taxi vàng tại Thành phố New York trong tháng 1 năm 2025, gồm bản đồ 3D, tính năng phát lại chuyển động theo giờ, kiểm tra từng khu vực và so sánh với mức trung bình của ngày thường hoặc cuối tuần.
+
+**Prompt**
+
+```text
+# Xây dựng "Nhịp đập thành phố": bản đồ dữ liệu 3D tương tác về hoạt động taxi tại Thành phố New York (tháng 1 năm 2025)
+
+## Mục tiêu
+Một hình thức trực quan hóa web một trang bằng tiếng Anh, cho thấy nhịp chuyển động của New York trong một tháng:
+31 ngày, 24 giờ, 263 khu vực taxi. Người xem có thể theo dõi nhịp sinh hoạt hằng ngày của thành phố,
+so sánh bất kỳ ngày nào với một ngày thường hoặc cuối tuần điển hình, đồng thời xem chi tiết từng khu vực.
+Đây là công cụ phân tích mô tả, không phải sản phẩm thời gian thực hay GPS. Mọi hình ảnh trực quan phải nêu rõ một dấu hiệu đại diện cho điều gì.
+
+## Dữ liệu
+Nguồn (công khai):
+- Dữ liệu chuyến đi NYC TLC, Taxi vàng, tháng 1 năm 2025 (parquet)
+- Khu vực taxi NYC TLC (263 khu vực, hình dạng + tra cứu quận)
+- Dấu chân tòa nhà từ NYC Open Data (chỉ Manhattan, dùng làm bối cảnh trực quan)
+
+Tiền xử lý (Python + DuckDB hoặc pandas), xuất ra các tệp JSON tĩnh có dung lượng nhỏ:
+- Lọc các chuyến đi không hợp lệ: đón khách ngoài tháng 1 năm 2025, thời lượng không dương hoặc dài hơn 3 giờ, khu vực không xác định (264/265).
+- Theo từng ngày, khu vực và giờ: số lượt đón khách, thời lượng chuyến đi trung vị.
+- Theo từng ngày và giờ: các cặp khu vực điểm đi → điểm đến hàng đầu (luồng đã tổng hợp, lấy N cặp hàng đầu mỗi giờ).
+- Mức trung bình tham chiếu theo khu vực-giờ: trung bình ngày thường (23 ngày) và cuối tuần (8 ngày), tính trung bình theo ngày; các ngày lễ vẫn được xếp vào nhóm ngày thường.
+- Thang đo cố định cho cả tháng: số lượt đón khách cao nhất theo khu vực-giờ, dùng cho mọi ngày để chiều cao luôn có thể so sánh.
+- Siêu dữ liệu khu vực: id, tên, quận, tâm khu vực, điểm neo nhãn. Đơn giản hóa hình học khu vực.
+Tệp: month.json (tổng theo ngày, thang đo, các khu vực hàng đầu), weekday.json, weekend.json, days/2025-01-DD.json, geojson khu vực.
+Tải dữ liệu của ngày hiện tại theo kiểu trì hoãn; ưu tiên hiển thị lần đầu nhanh.
+
+## Công nghệ
+- Một tệp HTML độc lập (hoặc ứng dụng Vite nhỏ) với Three.js 0.160 (ES modules qua importmap), OrbitControls, EffectComposer + bloom.
+- Chỉ dùng D3 cho thang đo, định dạng và các biểu đồ SVG nhỏ.
+- Không bắt buộc dùng framework. Không gọi API bên ngoài khi chạy; mọi dữ liệu đều đọc từ JSON tĩnh.
+
+## Bố cục (màn hình desktop 1920×1080 phải hiển thị vừa một màn hình, không cần cuộn)
+1. Tiêu đề: "CITY PULSE / MOBILITY ATLAS", trạng thái "Phát lại dữ liệu", liên kết "Dữ liệu & phương pháp".
+2. Hàng trạng thái: "Một thành phố đang chuyển động." + ba KPI: số lượt đón khách toàn thành phố (giờ được chọn), so với mức trung bình đối chiếu, thời lượng chuyến đi trung vị.
+3. Dải tháng: 31 nút ngày dạng thanh mini (chiều cao thanh = số lượt đón khách trong ngày, đánh dấu cuối tuần), nút ngày trước/ngày sau, chọn ngày, lựa chọn "So sánh với" (Trung bình ngày thường · 23 ngày / Trung bình cuối tuần · 8 ngày).
+4. Thanh câu chuyện: "Mọi chuyển động đều để lại một mô thức." với 4 chương (01 Theo dõi, 02 Mở ra, 03 So sánh, 04 Chia sẻ) và nút "Bắt đầu câu chuyện".
+5. Tab chế độ xem: 01 Kết nối, 02 Khối lượng thành phố, 03 Mở 24 giờ, 04 Thành phố bóng ma, cùng với "Chia sẻ phát hiện" và "Tạo bản tóm tắt".
+6. Khu vực làm việc: sân khấu bản đồ 3D (bên trái) + bảng kiểm tra Thông tin địa điểm (bên phải, khoảng 330px, cuộn nội bộ).
+7. Dòng thời gian: Phát ngày, tốc độ (0.25×–4×), thanh tua theo giờ đặt trên biểu đồ thanh 24 giờ của ngày được chọn so với mức trung bình.
+Chiều cao sân khấu bản đồ phải thích ứng với khung nhìn (giới hạn trong khoảng ~470px đến ~780px) để toàn bộ bảng điều khiển, bao gồm dòng thời gian, hiển thị được ở mức thu phóng 100%.
+
+## Cảnh 3D
+- Mặt nền tối, đường viền khu vực là các đường mảnh, dấu chân tòa nhà Manhattan là bối cảnh thực tế mờ.
+- Camera: phối cảnh, xoay quanh + thu phóng, có nút căn giữa lại. Giữ nguyên camera của người dùng khi chuyển chế độ xem, ngoại trừ "Mở 24 giờ", chế độ này luôn căn lại khung để hiển thị toàn bộ ma trận.
+- Rê chuột lên một khu vực: hiển thị tooltip với tên và số lượt đón khách. Nhấp vào một khu vực: chọn khu vực đó (cập nhật bảng kiểm tra và các luồng).
+
+Các chế độ xem (mỗi lần chuyển đều có hoạt ảnh, không chuyển cảnh đột ngột):
+- 01 Kết nối: các chuyến đi giữa các khu vực đã tổng hợp được hiển thị dưới dạng cung phát sáng với các hạt sáng chuyển động; mật độ hạt ∝ số chuyến đi; gắn nhãn cho luồng nổi bật ("TỪ / Midtown Center → ĐẾN / Upper East Side North, 71 chuyến / 18:00"). Chú thích: "Chuyến đi giữa các khu vực đã ghi nhận · chuyển động sơ đồ. Không phải GPS."
+- 02 Khối lượng thành phố: đùn từng khu vực; chiều cao = số lượt đón khách theo thang đo cố định của tháng; khu vực được chọn được làm nổi bật.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098063352832610473) · [Bài đăng gốc](https://x.com/tableau_viz/status/2098063352832610473) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2098071577309122854"></a>
+
+### Hoạt ảnh học viện phép thuật bay lơ lửng
+
+[PixVerse](https://x.com/PixVerse) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098071577309122854"><img src="../assets/previews/9b408ceb1b603f7a12e8bc7b5d7626551da9f3e0b153f574d2f694a1edc9cba4.jpg" width="840" loading="lazy" alt="Hoạt ảnh học viện phép thuật bay lơ lửng"></a>
+
+Tạo hoạt ảnh mô hình trắng dài 12 giây trong Blender, gồm cổng vào đồ sộ, cảnh bay xuyên lỗ khóa, một khí cụ thiên văn và học viện bay lơ lửng; sau đó dùng PixVerse để kết xuất thành một phân cảnh fantasy điện ảnh. Các tệp bàn giao gồm cả hai video MP4 và một dự án Blender có thể chỉnh sửa.
+
+**Prompt**
+
+```text
+Tạo một hoạt ảnh mô hình trắng dài 12 giây, quay bằng một cú máy liên tục trong Blender, sau đó dùng @PixVerse để biến hoạt ảnh đã xuất thành một phân cảnh phim fantasy người đóng ngoạn mục.
+
+Trong Blender, dựng một cổng vào đồ sộ, một khí cụ thiên văn xoay và một học viện phép thuật bay lơ lửng rộng lớn. Sử dụng hình học đơn giản màu trắng hoặc xám nhạt, với silhouette dễ nhận biết và ánh sáng cơ bản. Khi bắt đầu, hiển thị toàn bộ cánh cửa ra vào, với những bức tường kiên cố bao quanh và che kín hoàn toàn thế giới phía sau. Tạo một lỗ khóa nhỏ với tỷ lệ chân thực. Phía bên kia cổng vào, bố trí một lâu đài lớn ở trung tâm, các tòa tháp, những đảo bay nhỏ hơn và các cây cầu kết nối. Làm nổi bật quy mô kiến trúc ấn tượng cùng khoảng cách rộng rãi giữa các công trình.
+
+Bắt đầu bằng chuyển động tiến chậm về phía cánh cửa, sau đó tăng tốc mạnh và bay liên tục xuyên qua lỗ khóa. Tạo hoạt ảnh cho một chiếc chìa khóa bay lơ lửng, xoay rồi dịch sang một bên trước khi camera đi qua. Tiếp tục bay qua các vòng thiên văn xoay nhanh, hé lộ học viện bay lơ lửng, rồi chuyển thành một vòng orbit mượt quanh quần thể kiến trúc. Để các đảo gần đó nhanh chóng nâng lên và các đoạn cầu xoay vào đúng vị trí. Giữ cho chuyển động của vật thể mạnh mẽ và dứt khoát. Vòng orbit phải diễn ra liên tục, thay đổi tốc độ mượt mà và không lặp lại các khoảng dừng. Kiểm tra lối đi qua lỗ khóa, khoảng hở của camera, tính liên tục không gian và chuyển động ở tốc độ phát bình thường.
+
+Xuất video MP4 mô hình trắng dài 12 giây, không có tạp chất. Sau đó dùng @PixVerse để tạo video AI dài 12 giây, sử dụng hoạt ảnh Blender làm tham chiếu tương đối về cấu trúc và chuyển động. Giữ lại diễn tiến dễ nhận biết từ cảnh tiến đến cánh cửa, đi qua lỗ khóa, xuất hiện khí cụ thiên văn, hé lộ học viện và chuyển sang orbit; đồng thời tự do làm phong phú thế giới và cách dàn dựng điện ảnh.
+
+Biến học viện thành một thành phố bay lơ lửng cổ đại, khổng lồ: một lâu đài trung tâm bao quanh bởi các khu phố, thư viện, đài quan sát, sân trong, những tầng mái xếp lớp, các cây cầu đá khổng lồ và thác nước đổ xuống mây. Mở rộng khung cảnh xung quanh với các thung lũng phủ rừng, hồ nước, núi non phía xa và thêm nhiều đảo bay. Thêm những người đi bộ nhỏ bé, tàu bay, cờ chuyển động, chim chóc và các hoạt động trong không khí để thể hiện quy mô. Trong đoạn orbit về sau, để một con rồng khổng lồ xuất hiện từ những đám mây phía sau học viện và lướt qua các tòa tháp, tạo bóng đổ chuyển động phủ lên thành phố.
+
+Hướng đến độ phong phú như một bộ phim fantasy người đóng quy mô lớn, với vật liệu phong hóa, ánh nắng vàng dịu xuyên qua những đám mây lạnh màu, chiều sâu không khí tự nhiên và các điểm sáng nhiếp ảnh nhẹ nhàng. Thêm nhạc giao hưởng nguyên bản cùng âm thanh môi trường và âm thanh hành động được đồng bộ.
+
+Bàn giao video MP4 mô hình trắng, video MP4 do PixVerse kết xuất bằng AI và dự án Blender có thể chỉnh sửa.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098071577309122854) · [Bài đăng gốc](https://x.com/PixVerse/status/2098071577309122854) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="2096251574918013135"></a>
 
 ### Kaiju giao chiến trong thành phố
@@ -2244,24 +2315,6 @@ Dựng game chèo kayak 3D mang thẩm mỹ anime. Cho người chơi chèo trá
 
 ---
 
-<a id="2096243989439713677"></a>
-
-### Câu chuyện sản phẩm với chai khúc xạ
-
-[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/refractive-bottle-product-story-2096243989439713677"><img src="../assets/previews/0752e3417e975ec333d58ef948643def758c883afb543c38e664b40f45d11b43.webp" width="840" loading="lazy" alt="Câu chuyện sản phẩm với chai khúc xạ"></a>
-
-**Prompt**
-
-```text
-Dựng website sản phẩm tương tác quanh chai thủy tinh WebGL chân thực. Dùng chất lỏng khúc xạ, xoay theo cuộn và chữ mạnh, đồng thời giữ hiệu năng trình duyệt.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [Bài đăng gốc](https://x.com/himanshubuildss/status/2096243989439713677) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="2096250748099068377"></a>
 
 ### Demo Hyperloop tương tác
@@ -2280,42 +2333,6 @@ Dựng demo Hyperloop tương tác bằng Three.js, thể hiện khoang vận ch
 
 ---
 
-<a id="2096234355395903672"></a>
-
-### Tượng bán thân Napoleon thủ tục
-
-[Le PLOUTOS](https://x.com/leploutos) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/procedural-napoleon-bust-2096234355395903672"><img src="../assets/previews/fda483263b1b7468f091f1798d7841bcfb9b983bc7659ca2ef491c23f3bbc948.webp" width="840" loading="lazy" alt="Tượng bán thân Napoleon thủ tục"></a>
-
-**Prompt**
-
-```text
-Viết mã tạo tượng bán thân Napoleon 3D trong Three.js. Dựng theo giai đoạn, xem từ nhiều góc rồi tinh chỉnh tỷ lệ mặt và chi tiết trang phục.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [Bài đăng gốc](https://x.com/leploutos/status/2096234355395903672) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096226711222546461"></a>
-
-### Sảnh ga đường sắt
-
-[Wormhole404](https://x.com/0xWormhole404) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/railway-station-concourse-2096226711222546461"><img src="../assets/previews/ec572c18e5e02ac65512d6d72ffe09c5afb807b131336ac8b75d13aefb86899c.webp" width="840" loading="lazy" alt="Sảnh ga đường sắt"></a>
-
-**Prompt**
-
-```text
-Tạo sảnh ga có nhịp kiến trúc mạnh, tỷ lệ hợp lý và vật liệu thuyết phục. Tạo cảnh 3D quan sát được với khung hình ga được dàn dựng cẩn thận.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/railway-station-concourse-2096226711222546461) · [Bài đăng gốc](https://x.com/0xWormhole404/status/2096226711222546461) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="2096258619574513880"></a>
 
 ### Vật lý đua xe trình duyệt bằng C# và WASM
@@ -2331,24 +2348,6 @@ Tái tạo hệ vật lý đua xe kiểu Trackmania bằng C#, chạy qua WASM v
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Bài đăng gốc](https://x.com/achepta_tm/status/2096258619574513880) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096241295949975602"></a>
-
-### Máy viên nang ký ức
-
-[Gloria Zhang](https://x.com/gloria_zwq) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/memory-capsule-machine-2096241295949975602"><img src="../assets/previews/2623ee6ae5ad1e80ed6af68f48f0ef33bb34a6fc638f5fd6d55f8ab0de7b3625.webp" width="840" loading="lazy" alt="Máy viên nang ký ức"></a>
-
-**Prompt**
-
-```text
-Dựng máy viên nang ký ức 3D. Xoay núm để thả một ký ức, mô hình hóa cơ cấu trong Blender và cho viên nang rơi với chuyển động, âm thanh hợp lý.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/memory-capsule-machine-2096241295949975602) · [Bài đăng gốc](https://x.com/gloria_zwq/status/2096241295949975602) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3057,7 +3056,7 @@ Xây dựng trang đích biển sâu với hiệu ứng nước Three.js, giao d
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 211 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 216 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

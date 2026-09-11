@@ -26,7 +26,7 @@
 **為你的下一個遊戲、場景或互動世界尋找靈感。**
 
 
-**211 · 最新 Astra 提示詞**
+**216 · 最新 Astra 提示詞**
 
 ## 精選作品
 
@@ -47,7 +47,6 @@
 - [Mosswing：行動版 3D 點按拍翅遊戲](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
 - [可互動的雙環能量核心](#2096551010089263181) · GitHub
 - [體素版克盧日－納波卡統一廣場](#2096262733259837681) · GitHub
-- [完整起降流程的瀏覽器飛行模擬器](#2096236137266512181)
 - [在 Blender 中重建寫實且可編輯的龍](#2096335588727349434)
 - [將 X 圖片製作成 3D 渲染](#2096338836854804782)
 - [從角色概念到 3D 建模、骨架綁定與動畫](#2096342420543660277)
@@ -56,7 +55,6 @@
 - [Lego 1999 Racers 重建版](#2096438110095585753)
 - [以西結的聖殿異象：3D 場景](#2096547658164834788)
 - [核爆炸 3D 城市模擬](#2096562462674079868)
-- [將 3D 視圖加入網站](#2096567422253662372)
 - [Totality Engine：電影感日蝕大教堂](#2096593372311941143)
 - [使用 Three.js 建立 CS2](#2096596888799895855)
 - [從刀模圖到紙盒摺疊動畫](#2096612394281603144)
@@ -65,7 +63,6 @@
 - [Blender 旋轉地球渲染](#2096637194270134742)
 - [Mini World 3D 探索遊戲](#2096641728497275011)
 - [可互動的手機拆解展示](#2096685163111694556)
-- [以《Grand Theft Auto》角色與聖安地列斯城市為主題的遊戲](#2096739993217577219)
 - [使用 Blender MCP 製作 LEGO 人偶遊戲資產](#2096766465730847059)
 - [使用 Three.js 和 WebGPU 製作可互動的軟體史萊姆](#2096793432987464010)
 - [瀏覽器中的極致細節即時 3D 森林](#2096814981509775616)
@@ -95,16 +92,19 @@
 - [沉浸式 3D 稻田網站](#2097602565110419781)
 - [以 GPT-6 Astra 與 Blender 搭建機械臂追貓喜劇場景](#2097675660873605422)
 - [建構 THE LAST GATE：帶算術門的人群跑酷](#2097678911882809407)
+- [18 洞高爾夫球場地形模擬](#2097755845001937172)
+- [互動式奇幻圖形展示](#2097821164093480999)
+- [無台詞 3D 貓咪零食短片](#2097900087901106244)
+- [打造更具挑戰性的 18 洞高爾夫球場](#2098038909514944562)
+- [GTA 風格卡通追車工作流程](#2098049032195293190)
+- [城市脈動](#2098063352832610473)
+- [浮空魔法學院動畫](#2098071577309122854)
 - [怪獸城市戰鬥](#2096251574918013135)
 - [在 Blender 中切換角色表情](#2096525100518453342)
 - [滾動驅動的 3D 工作室網站](#2096245759121277132)
 - [Komorebi 河流皮划艇](#2096244208533455049)
-- [折射玻璃瓶產品敘事](#2096243989439713677)
 - [互動式超級高鐵演示](#2096250748099068377)
-- [程式化拿破崙半身像](#2096234355395903672)
-- [鐵路車站大廳](#2096226711222546461)
 - [C# 與 WASM 瀏覽器賽車物理](#2096258619574513880)
-- [記憶扭蛋機](#2096241295949975602)
 - [以《魔獸爭霸》為靈感的 Unity 角色場景](#2096308567863079420)
 - [可旋轉的 3D 將棋棋盤](#2096579856133947507)
 - [桌上型電腦的互動拆解圖鑑](#2096578761877860502)
@@ -200,108 +200,6 @@
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681) · [查看原文](https://x.com/danmana/status/2096262733259837681) · [專案原始碼](https://github.com/danmana/piata-unirii) · [線上展示](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2096236137266512181"></a>
-
-### 完整起降流程的瀏覽器飛行模擬器
-
-[aditya](https://x.com/adxtyahq) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096236137266512181"><img src="../assets/previews/bbb03f5650350e6b4a323f0dd76f98d1abb0cbe94896f2dbe24d68c4bfbf8ce8.jpg" width="840" loading="lazy" alt="完整起降流程的瀏覽器飛行模擬器"></a>
-
-使用作者分享的完整提示詞，打造可操控的 3D 客機、機場與飛行儀表，並實作從起飛到降落的完整遊戲流程。
-
-**提示詞**
-
-```text
-從零開始打造一款精緻、可遊玩的瀏覽器 3D 飛行模擬遊戲。
-
-目標是製作小巧但真正可遊玩的飛行模擬體驗，而不是靜態的 3D 場景。
-
-GAMEPLAY
-- 建立一座具備詳細跑道、滑行道、航廈／建築物、草地／地形、跑道標線／燈光、天空與雲朵的機場。
-- 在機場放置一架外觀易於辨識的客機。
-- 玩家必須能使用鍵盤操控飛機。
-- 實作油門、俯仰、滾轉、偏航與煞車。
-- 飛機必須具備基本且合理可信的飛行物理、慣性與加速度。
-- 玩家應能沿跑道加速、起飛、在機場周邊飛行、進場並降落。
-- 加入簡單目標：起飛、繞機場完成一小段飛行，並安全降落。
-- 加入墜機／失敗偵測與重新開始選項。
-
-CONTROLS
-清楚顯示操作方式：
-- W／S：俯仰
-- A／D：滾轉
-- Q／E：偏航
-- Shift／Ctrl：油門
-- 空白鍵：煞車
-
-CAMERA
-- 使用位於飛機後方、流暢的第三人稱追蹤鏡頭。
-- 飛行過程中清楚呈現飛機。
-- 鏡頭應流暢跟隨移動，並對加速度做出細微回應。
-
-HUD
-製作精緻、航空風格的 HUD，顯示：
-- 空速
-- 高度
-- 航向
-- 油門
-- 垂直速度
-- 飛行狀態
-- 目前目標
-
-加入可隱藏的精簡操作／說明面板。
-
-開始 + 結果
-建立一個開始畫面，包含：
-「飛行模擬器」
-以及醒目的「開始飛行」按鈕。
-
-成功降落後，顯示：
-- 飛行完成
-- 降落品質
-- 飛行時間
-- 最終分數
-- 再玩一次
-
-視覺品質
-讓遊戲呈現真正的遊戲質感：
-- 風格統一的 3D 視覺效果
-- 細節豐富的飛機
-- 具吸引力的機場環境
-- 良好的光照、陰影與材質
-- 雲朵／大氣效果
-- 適當加入機場建築物、車輛、標誌、樹木與其他環境細節
-- 避免場景空曠或明顯未完成
-
-FEEDBACK
-為以下項目加入實用的回饋：
-- 油門／引擎狀態
-- 起飛
-- 降落
-- 速度警告
-- 高度
-- 墜機
-- 成功降落
-
-TECHNICAL
-- 在瀏覽器中建立完整可運作的遊戲。
-- 不要留下佔位按鈕或虛假的互動功能。
-- 優先確保操控反應靈敏與效能流暢。
-- 使用任何適合且可用的網頁／3D 技術。
-
-重要：
-不要把整個任務都花在製作漂亮的靜態場景上。飛機必須真的可操控，且完整流程必須正常運作：
-
-開始 → 加速 → 起飛 → 飛行 → 進場 → 降落 → 計分 → 再玩一次
-
-完成前，請在瀏覽器中執行遊戲並自行測試完整的遊戲流程。修正你發現的操控、物理、視覺錯誤與互動問題。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096236137266512181) · [查看原文](https://x.com/adxtyahq/status/2096236137266512181) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -684,24 +582,6 @@ Astra 受託創作一部原創短篇作品，並打造一個可互動的 3D 樂�
 
 ---
 
-<a id="2096567422253662372"></a>
-
-### 將 3D 視圖加入網站
-
-[Maxence](https://x.com/Dgamax) · 2026-09-06
-
-作者表示，他使用 GPT-6 Astra 以 Three.js 重現了一款 MMORPG，接著要求將產生的 3D 視圖加入網站，其中也包含帶有音效的出生區域視圖。
-
-**提示詞**
-
-```text
-太酷了！我們也把這個 3D 視圖加到網站上吧！
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096567422253662372) · [查看原文](https://x.com/Dgamax/status/2096567422253662372) · [返回案例導覽](#all-prompts)
-
----
-
 <a id="2096593372311941143"></a>
 
 ### Totality Engine：電影感日蝕大教堂
@@ -965,25 +845,6 @@ Neatprompts 分享的一則短提示詞，用 GPT-6 Astra 在 Three.js 中建立
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096685163111694556) · [查看原文](https://x.com/zairalaraib_/status/2096685163111694556) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2096739993217577219"></a>
-
-### 以《Grand Theft Auto》角色與聖安地列斯城市為主題的遊戲
-
-[ElIngeRRC](https://x.com/ElIngeRRC) · 2026-09-06
-
-建立一款《Grand Theft Auto》遊戲，讓 CJ、Michael、Trevor、Lucia 和 Jason 在不同城市中擔任指定角色。
-
-**提示詞**
-
-```text
-製作一款《Grand Theft Auto》遊戲：CJ 是拉斯文圖拉斯市的巨擘，Michael 是聖菲耶羅的股東。
-Trevor 是洛聖都的毒品販子，而 Lucia 和 Jason 是他的夥伴。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096739993217577219) · [查看原文](https://x.com/ElIngeRRC/status/2096739993217577219) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2172,6 +2033,216 @@ Blender 中的 12 秒森林小徑
 
 ---
 
+<a id="2097755845001937172"></a>
+
+### 18 洞高爾夫球場地形模擬
+
+[Rory Flynn](https://x.com/Ror_Fly) · 2026-09-09
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097755845001937172"><img src="../assets/previews/8e002ab8ef0a47379b651aee5b3e38702f31b065040adf68fd55f2db7fb5a7f3.jpg" width="840" loading="lazy" alt="18 洞高爾夫球場地形模擬"></a>
+
+使用地圖與實際地形資料，模擬在真實地點建造一座 18 洞高爾夫球場，並讓各洞配合自然地形配置。
+
+**提示詞**
+
+```text
+模擬建造一座 18 洞球場
+>尋找真實地點
+>使用地圖與實際地形資料
+>讓各洞配合自然地形配置
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097755845001937172) · [查看原文](https://x.com/Ror_Fly/status/2097755845001937172) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2097821164093480999"></a>
+
+### 互動式奇幻圖形展示
+
+[Anshu](https://x.com/anshuc) · 2026-09-09
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097821164093480999"><img src="../assets/previews/541f111bea72b7c24bb7edb2d84396581e7a11bc997cf8d910d973ae34715f27.png" width="840" loading="lazy" alt="互動式奇幻圖形展示"></a>
+
+一段 Dream Loop Plus 提示詞，用於在瀏覽器中製作 Three.js 奇幻場景，包含等角視角、可控制角色、具反射效果的濕地面，以及環境氛圍動態。作者將其標示為使用 GPT-5.6 Luna xhigh 的展示提示詞；貼文表示，在最佳化流程中由 Astra 負責視覺呈現。
+
+**提示詞**
+
+```text
+使用 Dream Loop Plus 幫我製作一個圖形展示：採用等角視角、寫實著色與具反射效果的濕地面，並在有趣的場景中加入一名角色。設定為奇幻世界（可以參考 Elden Ring、Diablo）。使用瀏覽器中的 Three.js，效能達到 >60fps。操作方式：點擊移動角色，鏡頭以帶有延遲的方式平滑跟隨；拖曳旋轉鏡頭；滾動縮放鏡頭。暫時不要加入遊戲玩法。世界應該充滿生命感：加入動態、動畫，以及細微的環境行為。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097821164093480999) · [查看原文](https://x.com/anshuc/status/2097821164093480999) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2097900087901106244"></a>
+
+### 無台詞 3D 貓咪零食短片
+
+[AI実践ラボ](https://x.com/boboga777) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097900087901106244"><img src="../assets/previews/e80882d1c32752e76536bc6977f53cef0bdde11ab64dad0e751c1c1079428acb.jpg" width="840" loading="lazy" alt="無台詞 3D 貓咪零食短片"></a>
+
+一部以單一零食按鈕為核心、混亂程度不斷升高，最後帶來一點小回報的無台詞 3D 貓咪動畫。
+
+**提示詞**
+
+```text
+製作一部無台詞的 3D 貓咪短片：一個零食按鈕、徹底失控的混亂場面，以及一點小回報。加入生動的角色表演、鏡頭運動、音樂，並設計成可循環播放。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097900087901106244) · [查看原文](https://x.com/boboga777/status/2097900087901106244) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2098038909514944562"></a>
+
+### 打造更具挑戰性的 18 洞高爾夫球場
+
+[Rory Flynn](https://x.com/Ror_Fly) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098038909514944562"><img src="../assets/previews/f5a4d2f44955ee094959c3e503ec284bf99779bbdc16141a66d1305f8df3d895.jpg" width="840" loading="lazy" alt="打造更具挑戰性的 18 洞高爾夫球場"></a>
+
+作者提出的隔夜改版目標：修改 18 洞高爾夫球場的瀏覽器模型，讓球洞更具挑戰性、球道不再筆直單調，並加入更醒目的沙坑與障礙區，創造更具策略性的擊球選擇。
+
+**提示詞**
+
+```text
+讓每個球洞更具挑戰性
+>打破筆直的球道
+>加入更醒目的沙坑與障礙區
+>打造更具策略性的擊球選擇
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098038909514944562) · [查看原文](https://x.com/Ror_Fly/status/2098038909514944562) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2098049032195293190"></a>
+
+### GTA 風格卡通追車工作流程
+
+[PixVerse](https://x.com/PixVerse) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098049032195293190"><img src="../assets/previews/939609b429641e344a40ab78f01e7bf6dbfd57e8e707db7765c81ae04057ac31.jpg" width="840" loading="lazy" alt="GTA 風格卡通追車工作流程"></a>
+
+可重複使用的工作流程提示詞：在 Blender 中製作並動畫化一段 12 秒的 GTA 風格卡通追車，再使用 PixVerse Seedance 2.5 處理各個鏡頭。
+
+**提示詞**
+
+```text
+使用此工作流程製作原創的 GTA 風格卡通追車：
+設計：設定一名主要駕駛、一輛逃逸車、一輛追逐車，以及一個城市環境。維持所有元素的設計一致。規劃三個 4 秒鏡頭：從車輛後方跟拍追逐、側面跟拍通過急轉彎，以及廣角離場鏡頭。
+在 Blender 中製作：建立乾淨的灰模，以及可正常運作的角色與車輛骨架綁定。不需要製作貼圖或展開 UV。
+製作動畫並測試：為駕駛、方向盤操作、車輪旋轉、車輛和攝影機製作動畫。維持一致的行進方向與車輛順序。修正穿插、車輪懸空、輪胎滑動、姿勢錯誤，以及雙手脫離方向盤等問題。
+在 Blender 中算圖：以 1280×720、24 fps 算出第 1–288 幀。將實際由 Blender 算出的影格組合成完整的 12 秒灰模母片。分別匯出每個鏡頭，並算出相符的灰模靜幀，作為形狀與構圖參考。
+使用 [@PixVerse](plugin://pixverse@openai-curated-remote) 外掛完成：使用 Seedance 2.5 的 720p 設定，分別處理每個鏡頭。以 Blender 片段作為動態參考，以灰模靜幀作為形狀參考。在生成提示詞中定義一致的卡通配色。保留攝影機運動、動作時序、角色與車輛設計，以及車輛數量。
+檢查並交付：檢查兩個完整影片的視覺瑕疵與連戲一致性。修正 Blender 問題，且只重新生成 Seedance 中失敗的鏡頭；每個鏡頭最多重試兩次。交付可編輯的 .blend、Blender 原生 720p 灰模影片、個別標示的 720p Seedance 版本，以及一份簡短的剩餘限制評估。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098049032195293190) · [查看原文](https://x.com/PixVerse/status/2098049032195293190) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2098063352832610473"></a>
+
+### 城市脈動
+
+[Seoyeon Jun 📊](https://x.com/tableau_viz) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098063352832610473"><img src="../assets/previews/5d96794ffdfbbd2d258ceafada52e1fbe1baa78da9bd613cb7f66f3d16e369ba.jpg" width="840" loading="lazy" alt="城市脈動"></a>
+
+互動式 3D 移動圖譜，呈現 2025 年 1 月紐約市黃色計程車的活動，包含 3D 地圖、可重播的每小時移動、分區檢視，以及與平日或週末平均值的比較。
+
+**提示詞**
+
+```text
+# 建立「城市脈動」：紐約市計程車活動的互動式 3D 移動圖譜（2025 年 1 月）
+
+## 目標
+製作單頁、英文介面的網頁視覺化，呈現紐約在一個月內如何運轉：
+31 天、24 小時、263 個計程車分區。讀者應能觀看城市每日的節奏，
+將任一天與典型平日或週末相比較，並詳細檢視任一分區。
+這是描述性分析工具，不是即時或 GPS 產品。每個視覺元素都必須說明一個標記代表什麼。
+
+## 資料
+來源（公開）：
+- NYC TLC Trip Record Data，黃色計程車，2025 年 1 月（Parquet）
+- NYC TLC Taxi Zones（263 個分區、形狀與行政區對照表）
+- NYC Open Data 建築物輪廓（僅限曼哈頓，作為視覺脈絡）
+
+前處理（Python + DuckDB 或 pandas），輸出小型靜態 JSON 檔案：
+- 篩除無效行程：接送時間不在 2025 年 1 月、行程時間不大於 0 或超過 3 小時、未知分區（264/265）。
+- 依日、分區與小時統計：接送次數、行程時間中位數。
+- 依日與小時統計：起點 → 終點分區配對排行（彙總流量，每小時取前 N 名）。
+- 每個分區與小時的參考平均值：平日平均（23 天）與週末平均（8 天），以每日平均計算，假日保留在平日群組中。
+- 月度固定比例尺：分區－小時接送次數的最大值，套用於每一天，確保高度可比較。
+- 分區中繼資料：ID、名稱、行政區、質心、標籤錨點。簡化分區幾何。
+檔案：month.json（每日總計、比例尺、熱門分區）、weekday.json、weekend.json、days/2025-01-DD.json、zones geojson。
+以延遲載入方式載入目前日期；讓首次繪製保持快速。
+
+## 技術堆疊
+- 單一自包含 HTML 檔案（或小型 Vite 應用程式），搭配 Three.js 0.160（透過 importmap 使用 ES modules）、OrbitControls、EffectComposer + bloom。
+- D3 僅用於比例尺、格式化與小型 SVG 圖表。
+- 不要求使用框架。執行期間不得呼叫外部 API；所有內容皆讀取靜態 JSON。
+
+## 版面配置（桌面版 1920×1080 必須在單一畫面內完整顯示，不可捲動）
+1. 標頭：「CITY PULSE / MOBILITY ATLAS」、「Recorded replay」狀態，以及「Data & methods」連結。
+2. 狀態列：「A city, in motion.」+ 三項 KPI：全市接送次數（選定小時）、相較於比較平均值、行程時間中位數。
+3. 月份列：31 個日期按鈕，以迷你長條呈現（長條高度 = 每日接送次數，標示週末）、前一天／下一天、日期選擇，以及「Compare with」選擇器（平日平均 · 23 天／週末平均 · 8 天）。
+4. 故事列：「Every movement leaves a pattern.」，包含 4 個章節（01 Watch、02 Unfold、03 Compare、04 Share）與「Start the story」。
+5. 檢視分頁：01 Connections、02 Volume city、03 Unfold 24h、04 Ghost city，另有「Share finding」與「Create briefing」。
+6. 工作區：3D 地圖舞台（左）+ Location Insight 檢視器（右側約 330px，內部可捲動）。
+7. 時間軸：播放日期、速度（0.25×–4×）、小時拖曳條，覆蓋於選定日期與平均值的 24 小時長條圖上。
+地圖舞台高度必須配合視窗大小調整（約在 470px 至 780px 之間限制），確保在 100% 縮放時，包含時間軸在內的整個控制台都能顯示。
+
+## 3D 場景
+- 深色地面、以細線繪製的分區輪廓，以及作為淡化真實世界脈絡的曼哈頓建築物輪廓。
+- 相機：透視投影、旋轉與縮放，以及重新置中的按鈕。切換檢視時保留使用者的相機位置，但「Unfold 24h」除外；此檢視必須重新取景以顯示完整矩陣。
+- 將游標移到分區上：顯示包含名稱與接送次數的工具提示。點擊分區：選取該分區（更新檢視器與流量）。
+
+檢視（每次切換都要有動畫，不得硬切）：
+- 01 Connections：以帶有移動光粒子的發光弧線呈現彙總的分區對分區行程；粒子密度 ∝ 行程次數；為焦點流量加上標籤（「FROM / Midtown Center → TO / Upper East Side North，71 trips / 18:00」）。說明文字：「Recorded zone-to-zone trips · schematic motion. Not GPS.」
+- 02 Volume city：將每個分區擠出成 3D 幾何體；高度 = 採用固定月度比例尺的接送次數；以醒目方式標示選定分區。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098063352832610473) · [查看原文](https://x.com/tableau_viz/status/2098063352832610473) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2098071577309122854"></a>
+
+### 浮空魔法學院動畫
+
+[PixVerse](https://x.com/PixVerse) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098071577309122854"><img src="../assets/previews/9b408ceb1b603f7a12e8bc7b5d7626551da9f3e0b153f574d2f694a1edc9cba4.jpg" width="840" loading="lazy" alt="浮空魔法學院動畫"></a>
+
+使用 Blender 製作一段 12 秒的白模動畫，呈現宏偉入口、穿越鎖孔、天文儀器與浮空學院，接著使用 PixVerse 將其渲染成電影感奇幻片段。交付內容包含兩個 MP4 檔案，以及可編輯的 Blender 專案。
+
+**提示詞**
+
+```text
+在 Blender 中製作一段 12 秒、單一鏡頭的白模動畫，接著使用 @PixVerse 將輸出的動畫轉換成壯觀的實拍風格奇幻電影片段。
+
+在 Blender 中建構宏偉入口、旋轉的天文儀器，以及廣闊的浮空魔法學院。使用簡潔的白色或淺灰色幾何體，確保輪廓清晰易讀，並採用基礎打光。開頭要完整呈現入口大門，周圍以實心牆面包圍，完全遮蔽門後的世界。為大門設計一個比例符合現實的小型鎖孔。穿過入口後，安排一座大型中央城堡、塔樓、較小的浮空島嶼，以及彼此連接的橋樑。營造令人震撼的建築尺度，並讓各個結構之間保有寬敞距離。
+
+先緩慢朝大門接近，接著大幅加速，持續穿越鎖孔。讓一把漂浮的鑰匙旋轉並移到一旁，再讓鏡頭通過。接著穿越快速旋轉的天文環，揭示浮空學院，並轉入圍繞建築平滑運動的環繞鏡頭。讓鄰近島嶼快速升起，橋樑區段旋轉並對接到位。保持物件動作充滿活力且果斷。環繞運鏡應持續流暢，速度平順變化，不要反覆停頓。在正常播放速度下檢查鎖孔穿越、鏡頭淨空、空間連續性與動態效果。
+
+輸出乾淨的 12 秒白模 MP4。接著使用 @PixVerse 生成 12 秒的 AI 渲染影片，並將 Blender 動畫作為寬鬆的結構與動態參考。保留從接近大門、穿越鎖孔、呈現天文儀器、揭示學院到環繞運鏡的清晰發展順序，同時自由豐富世界細節與電影式場面調度。
+
+將學院轉化為一座宏偉古老的浮空城市：中央城堡周圍環繞著各個城區、圖書館、天文台、庭院、層疊屋頂、巨大的石橋，以及墜入雲海的瀑布。將周遭景觀延伸至森林覆蓋的山谷、湖泊、遠方山脈與更多浮空島嶼。加入細小的行人、飛行船、飄動的旗幟、飛鳥與大氣活動，傳達宏大的尺度。在後段環繞運鏡期間，讓一頭巨大的龍從學院後方的雲層中現身，掠過塔樓，並在城市上投下移動的陰影。
+
+以實拍風格奇幻劇情長片的豐富質感為目標，呈現風化材質、穿透冷色雲層的柔和金色陽光、自然的大氣透視深度，以及細膩的攝影高光。加入原創管弦樂配樂，並同步搭配環境音效與動作音效。
+
+交付白模 MP4、PixVerse AI 渲染 MP4，以及可編輯的 Blender 專案。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098071577309122854) · [查看原文](https://x.com/PixVerse/status/2098071577309122854) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="2096251574918013135"></a>
 
 ### 怪獸城市戰鬥
@@ -2244,24 +2315,6 @@ Blender 中的 12 秒森林小徑
 
 ---
 
-<a id="2096243989439713677"></a>
-
-### 折射玻璃瓶產品敘事
-
-[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/refractive-bottle-product-story-2096243989439713677"><img src="../assets/previews/0752e3417e975ec333d58ef948643def758c883afb543c38e664b40f45d11b43.webp" width="840" loading="lazy" alt="折射玻璃瓶產品敘事"></a>
-
-**提示詞**
-
-```text
-圍繞寫實 WebGL 玻璃瓶建置互動產品網站，採用折射液體、滾動旋轉與醒目文字，同時保證瀏覽器效能。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [查看原文](https://x.com/himanshubuildss/status/2096243989439713677) · [返回案例導覽](#all-prompts)
-
----
-
 <a id="2096250748099068377"></a>
 
 ### 互動式超級高鐵演示
@@ -2280,42 +2333,6 @@ Blender 中的 12 秒森林小徑
 
 ---
 
-<a id="2096234355395903672"></a>
-
-### 程式化拿破崙半身像
-
-[Le PLOUTOS](https://x.com/leploutos) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-napoleon-bust-2096234355395903672"><img src="../assets/previews/fda483263b1b7468f091f1798d7841bcfb9b983bc7659ca2ef491c23f3bbc948.webp" width="840" loading="lazy" alt="程式化拿破崙半身像"></a>
-
-**提示詞**
-
-```text
-用 Three.js 編寫拿破崙半身像，分階段建模，從不同角度檢視並完善臉部比例和服裝細節。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [查看原文](https://x.com/leploutos/status/2096234355395903672) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2096226711222546461"></a>
-
-### 鐵路車站大廳
-
-[Wormhole404](https://x.com/0xWormhole404) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/railway-station-concourse-2096226711222546461"><img src="../assets/previews/ec572c18e5e02ac65512d6d72ffe09c5afb807b131336ac8b75d13aefb86899c.webp" width="840" loading="lazy" alt="鐵路車站大廳"></a>
-
-**提示詞**
-
-```text
-建立具有鮮明建築節奏、可信尺度和材質的鐵路車站大廳，提供可檢視的 3D 場景與精心構圖視角。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/railway-station-concourse-2096226711222546461) · [查看原文](https://x.com/0xWormhole404/status/2096226711222546461) · [返回案例導覽](#all-prompts)
-
----
-
 <a id="2096258619574513880"></a>
 
 ### C# 與 WASM 瀏覽器賽車物理
@@ -2331,24 +2348,6 @@ Blender 中的 12 秒森林小徑
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [查看原文](https://x.com/achepta_tm/status/2096258619574513880) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2096241295949975602"></a>
-
-### 記憶扭蛋機
-
-[Gloria Zhang](https://x.com/gloria_zwq) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/memory-capsule-machine-2096241295949975602"><img src="../assets/previews/2623ee6ae5ad1e80ed6af68f48f0ef33bb34a6fc638f5fd6d55f8ab0de7b3625.webp" width="840" loading="lazy" alt="記憶扭蛋機"></a>
-
-**提示詞**
-
-```text
-建置 3D 記憶扭蛋機，轉動旋鈕釋放記憶，在 Blender 中建模機械結構，為掉落扭蛋新增可信運動和聲音。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/memory-capsule-machine-2096241295949975602) · [查看原文](https://x.com/gloria_zwq/status/2096241295949975602) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -3057,7 +3056,7 @@ Blender 中的 12 秒森林小徑
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 211 個案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 216 個案例 →</a></strong></p>
 <p><sub>為保持 GitHub README 渲染流暢，這裡僅展示最新 100 個案例。</sub></p>
 <br>
 </td></tr>

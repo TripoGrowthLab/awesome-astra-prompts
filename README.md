@@ -27,7 +27,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**211 examples · 14 languages · 7 examples with source code**
+**216 examples · 14 languages · 7 examples with source code**
 
 ## Featured projects
 
@@ -48,7 +48,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Mosswing: Mobile 3D Tap-to-Flap Game](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
 - [Interactive dual-ring energy core](#2096551010089263181) · GitHub
 - [Cluj-Napoca Union Square in voxels](#2096262733259837681) · GitHub
-- [Browser Flight Simulator with a Complete Flight Loop](#2096236137266512181)
 - [Photorealistic Editable Dragon Reconstruction in Blender](#2096335588727349434)
 - [3D render of an X picture](#2096338836854804782)
 - [Character Concept to Rigged 3D Model and Cartoon](#2096342420543660277)
@@ -57,7 +56,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Rebuilding Lego 1999 Racers](#2096438110095585753)
 - [Ezekiel’s Temple Vision in 3D](#2096547658164834788)
 - [Nuclear Explosion 3D City Simulation](#2096562462674079868)
-- [Add a 3D view to the website](#2096567422253662372)
 - [Totality Engine: Cinematic Eclipse Cathedral](#2096593372311941143)
 - [Create CS2 in Three.js](#2096596888799895855)
 - [Folding Carton Animation from a Dieline](#2096612394281603144)
@@ -66,7 +64,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Rotating Earth Render in Blender](#2096637194270134742)
 - [Mini World 3D exploration game](#2096641728497275011)
 - [Interactive Smartphone Exploded View](#2096685163111694556)
-- [Grand Theft Auto Game with San Andreas Characters and Cities](#2096739993217577219)
 - [LEGO Minifig Game Asset with Blender MCP](#2096766465730847059)
 - [Create an Interactive Soft-Body Slime with Three.js and WebGPU](#2096793432987464010)
 - [Extremely detailed real-time 3D forest in the browser](#2096814981509775616)
@@ -96,16 +93,19 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Immersive 3D rice-field website](#2097602565110419781)
 - [Building a Comedy Scene of a Robotic Arm Chasing a Cat with GPT-6 Astra and Blender](#2097675660873605422)
 - [Build THE LAST GATE: A Crowd Runner with Math Gates](#2097678911882809407)
+- [18-hole golf course terrain simulation](#2097755845001937172)
+- [Interactive fantasy graphics demo](#2097821164093480999)
+- [Wordless 3D Cat Treat Short](#2097900087901106244)
+- [Make an 18-hole golf course more demanding](#2098038909514944562)
+- [GTA-inspired cartoon car chase workflow](#2098049032195293190)
+- [City Pulse](#2098063352832610473)
+- [Floating magical academy animation](#2098071577309122854)
 - [Kaiju city battle](#2096251574918013135)
 - [Switchable character expressions in Blender](#2096525100518453342)
 - [Scroll-driven 3D studio website](#2096245759121277132)
 - [Komorebi river kayaking](#2096244208533455049)
-- [Refractive bottle product story](#2096243989439713677)
 - [Interactive Hyperloop demo](#2096250748099068377)
-- [Procedural Napoleon bust](#2096234355395903672)
-- [Railway station concourse](#2096226711222546461)
 - [Browser racing physics in C# and WASM](#2096258619574513880)
-- [Memory capsule machine](#2096241295949975602)
 - [Warcraft-inspired character scene in Unity](#2096308567863079420)
 - [Rotatable 3D shogi board](#2096579856133947507)
 - [Exploded desktop-computer atlas](#2096578761877860502)
@@ -201,108 +201,6 @@ Create an interactive voxel world of Piața Unirii in Cluj-Napoca. Adapt the squ
 ```
 
 [View detail ↗](https://www.tripo3d.ai/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681) · [Original post](https://x.com/danmana/status/2096262733259837681) · [Source code](https://github.com/danmana/piata-unirii) · [Live demo](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [Back to examples](#all-prompts)
-
----
-
-<a id="2096236137266512181"></a>
-
-### Browser Flight Simulator with a Complete Flight Loop
-
-[aditya](https://x.com/adxtyahq) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096236137266512181"><img src="assets/previews/bbb03f5650350e6b4a323f0dd76f98d1abb0cbe94896f2dbe24d68c4bfbf8ce8.jpg" width="840" loading="lazy" alt="Browser Flight Simulator with a Complete Flight Loop"></a>
-
-Build a controllable 3D passenger aircraft, airport, flight instruments and a full takeoff-to-landing game loop, using the complete author-shared prompt.
-
-**Prompt**
-
-```text
-Build a polished, playable browser-based 3D flight simulator game from scratch.
-
-The goal is to create a small but genuinely playable flight-sim experience, not a static 3D scene.
-
-GAMEPLAY
-- Create an airport with a detailed runway, taxiway, terminal/buildings, grass/terrain, runway markings/lights, sky and clouds.
-- Place a recognizable passenger airplane at the airport.
-- The player must be able to control the aircraft with the keyboard.
-- Implement throttle, pitch, roll, yaw and braking.
-- The aircraft must have basic believable flight physics, momentum and acceleration.
-- The player should be able to accelerate down the runway, take off, fly around the airport, approach the runway and land.
-- Add a simple objective: take off, complete a short flight around the airport and land safely.
-- Include crash/failure detection and a restart option.
-
-CONTROLS
-Display controls clearly:
-- W/S: Pitch
-- A/D: Roll
-- Q/E: Yaw
-- Shift/Ctrl: Throttle
-- Space: Brake
-
-CAMERA
-- Use a smooth third-person chase camera behind the aircraft.
-- Keep the aircraft clearly visible during flight.
-- Camera should smoothly follow movement and respond subtly to acceleration.
-
-HUD
-Create a polished aviation-style HUD showing:
-- Airspeed
-- Altitude
-- Heading
-- Throttle
-- Vertical speed
-- Flight status
-- Current objective
-
-Include a compact controls/help panel that can be hidden.
-
-START + RESULTS
-Create a start screen with:
-"FLIGHT SIMULATOR"
-and a prominent "START FLIGHT" button.
-
-After a successful landing, show:
-- Flight completed
-- Landing quality
-- Flight time
-- Final score
-- Play Again
-
-VISUAL QUALITY
-Make it feel like a real game:
-- Cohesive stylized 3D visuals
-- Detailed aircraft
-- Attractive airport environment
-- Good lighting, shadows and materials
-- Clouds/atmosphere
-- Airport buildings, vehicles, signs, trees and other environmental details where appropriate
-- Avoid an empty or obviously unfinished scene
-
-FEEDBACK
-Add useful feedback for:
-- Throttle/engine state
-- Takeoff
-- Landing
-- Speed warnings
-- Altitude
-- Crashes
-- Successful landing
-
-TECHNICAL
-- Build the complete working game in the browser.
-- Do not leave placeholder buttons or fake interactions.
-- Prioritize responsive controls and smooth performance.
-- Use whatever appropriate web/3D technologies are available.
-
-IMPORTANT:
-Do not spend the entire task making a beautiful static scene. The aircraft MUST actually be controllable and the complete loop must work:
-
-START → ACCELERATE → TAKE OFF → FLY → APPROACH → LAND → SCORE → PLAY AGAIN
-
-Before finishing, run the game in the browser and test the entire gameplay loop yourself. Fix broken controls, physics, visual bugs and interaction issues you find.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096236137266512181) · [Original post](https://x.com/adxtyahq/status/2096236137266512181) · [Back to examples](#all-prompts)
 
 ---
 
@@ -685,24 +583,6 @@ Create nuclear explosion demo with a 3D city, nuclear flash, expanding shockwave
 
 ---
 
-<a id="2096567422253662372"></a>
-
-### Add a 3D view to the website
-
-[Maxence](https://x.com/Dgamax) · 2026-09-06
-
-The author reports using GPT-6 Astra to recreate an MMORPG in Three.js and then asked it to add the resulting 3D view to the website, including spawn-area views with audio.
-
-**Prompt**
-
-```text
-Dude, this is awesome. Let's add this 3D view to the website too!
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096567422253662372) · [Original post](https://x.com/Dgamax/status/2096567422253662372) · [Back to examples](#all-prompts)
-
----
-
 <a id="2096593372311941143"></a>
 
 ### Totality Engine: Cinematic Eclipse Cathedral
@@ -966,25 +846,6 @@ Build an interactive 3D exploded-view visualization of a modern smartphone. Sepa
 ```
 
 [View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096685163111694556) · [Original post](https://x.com/zairalaraib_/status/2096685163111694556) · [Back to examples](#all-prompts)
-
----
-
-<a id="2096739993217577219"></a>
-
-### Grand Theft Auto Game with San Andreas Characters and Cities
-
-[ElIngeRRC](https://x.com/ElIngeRRC) · 2026-09-06
-
-Create a Grand Theft Auto game where CJ, Michael, Trevor, Lucia, and Jason take on the specified roles in different cities.
-
-**Prompt**
-
-```text
-Make a Grand Theft Auto game where CJ is a tycoon in Las Venturas, Michael is a shareholder in San Fierro.
-Trevor is a drug dealer in Los Santos, and Lucia and Jason are his associates.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096739993217577219) · [Original post](https://x.com/ElIngeRRC/status/2096739993217577219) · [Back to examples](#all-prompts)
 
 ---
 
@@ -2173,6 +2034,216 @@ Build THE LAST GATE Build THE LAST GATE: a playable portrait crowd runner with m
 
 ---
 
+<a id="2097755845001937172"></a>
+
+### 18-hole golf course terrain simulation
+
+[Rory Flynn](https://x.com/Ror_Fly) · 2026-09-09
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2097755845001937172"><img src="assets/previews/8e002ab8ef0a47379b651aee5b3e38702f31b065040adf68fd55f2db7fb5a7f3.jpg" width="840" loading="lazy" alt="18-hole golf course terrain simulation"></a>
+
+A request to simulate building an 18-hole golf course at a real location using maps and actual topographic data, with holes fitted to the natural terrain.
+
+**Prompt**
+
+```text
+Simulate building an 18-hole course
+>Find a real location
+>Use maps + actual topographic data
+> Fit the holes to the natural terrain
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2097755845001937172) · [Original post](https://x.com/Ror_Fly/status/2097755845001937172) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2097821164093480999"></a>
+
+### Interactive fantasy graphics demo
+
+[Anshu](https://x.com/anshuc) · 2026-09-09
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2097821164093480999"><img src="assets/previews/541f111bea72b7c24bb7edb2d84396581e7a11bc997cf8d910d973ae34715f27.png" width="840" loading="lazy" alt="Interactive fantasy graphics demo"></a>
+
+A Dream Loop Plus prompt for a browser-based Three.js fantasy scene with an isometric camera, a controllable character, reflective wet floors, and ambient environmental motion. The author labels it a demo prompt using GPT-5.6 Luna xhigh; the post says Astra performs the visual work in the optimized flow.
+
+**Prompt**
+
+```text
+Use Dream Loop Plus to build me a graphics demo: isometric camera, realistic shading and reflective wet floors, a character in an interesting scene. Fantasy setting (think Elden Ring, Diablo). Three.js in browser, >60fps. Controls: click to move the character, camera lazy-follows; drag to rotate camera; scroll to zoom in/out. No gameplay for now. World should feel alive: motion, animations, subtle environmental behaviors.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2097821164093480999) · [Original post](https://x.com/anshuc/status/2097821164093480999) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2097900087901106244"></a>
+
+### Wordless 3D Cat Treat Short
+
+[AI実践ラボ](https://x.com/boboga777) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2097900087901106244"><img src="assets/previews/e80882d1c32752e76536bc6977f53cef0bdde11ab64dad0e751c1c1079428acb.jpg" width="840" loading="lazy" alt="Wordless 3D Cat Treat Short"></a>
+
+A request for a wordless 3D cat animation centered on one treat button, escalating chaos, and a small payoff.
+
+**Prompt**
+
+```text
+Make a wordless 3D cat short: one treat button, total chaos, a tiny payoff. Add expressive acting, camera moves, music and a loop.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2097900087901106244) · [Original post](https://x.com/boboga777/status/2097900087901106244) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2098038909514944562"></a>
+
+### Make an 18-hole golf course more demanding
+
+[Rory Flynn](https://x.com/Ror_Fly) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098038909514944562"><img src="assets/previews/f5a4d2f44955ee094959c3e503ec284bf99779bbdc16141a66d1305f8df3d895.jpg" width="840" loading="lazy" alt="Make an 18-hole golf course more demanding"></a>
+
+An author-stated overnight goal to revise an 18-hole golf-course browser model with more demanding holes, broken-up fairways, bolder bunkers and hazards, and more meaningful shot choices.
+
+**Prompt**
+
+```text
+Make every hole more demanding
+>Break up the straight fairways
+>Add bolder bunkers + hazards
+>Build more meaningful shot choices
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098038909514944562) · [Original post](https://x.com/Ror_Fly/status/2098038909514944562) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2098049032195293190"></a>
+
+### GTA-inspired cartoon car chase workflow
+
+[PixVerse](https://x.com/PixVerse) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098049032195293190"><img src="assets/previews/939609b429641e344a40ab78f01e7bf6dbfd57e8e707db7765c81ae04057ac31.jpg" width="840" loading="lazy" alt="GTA-inspired cartoon car chase workflow"></a>
+
+A reusable workflow prompt for creating and animating a 12-second GTA-inspired cartoon car chase in Blender, then processing the shots with PixVerse Seedance 2.5.
+
+**Prompt**
+
+```text
+Create an original GTA-inspired cartoon car chase using this workflow:
+Design: Define one main driver, one getaway car, one pursuing car, and one urban environment. Keep their designs consistent. Plan three 4-second shots: rear tracking pursuit, side tracking through a sharp turn, and a wide exit shot.
+Build in Blender: Create clean gray models and functional character and vehicle rigs. No textures or UV unwrapping are required.
+Animate and test: Animate the driver, steering, wheel rotation, vehicles, and cameras. Maintain coherent travel direction and vehicle order. Fix clipping, floating wheels, sliding tires, broken poses, and hands losing contact with the steering wheel.
+Render in Blender: Render frames 1–288 at 1280×720, 24 fps. Assemble actual Blender-rendered frames into a complete 12-second gray-model master. Export each shot separately and render matching gray stills as shape and composition references.
+Finish with [@PixVerse](plugin://pixverse@openai-curated-remote) Plugin: Use Seedance 2.5 at 720p, processing each shot separately. Use the Blender clips as motion references and the gray stills as shape references. Define a consistent cartoon color palette in the generation prompt. Preserve camera movement, action timing, character and vehicle designs, and vehicle count.
+Review and deliver: Inspect both complete videos for visual defects and continuity. Repair Blender issues and regenerate only failed Seedance shots, with at most two retries per shot. Deliver the editable .blend, the native 720p Blender gray-model video, the separately labeled 720p Seedance version, and a brief assessment of remaining limitations.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098049032195293190) · [Original post](https://x.com/PixVerse/status/2098049032195293190) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2098063352832610473"></a>
+
+### City Pulse
+
+[Seoyeon Jun 📊](https://x.com/tableau_viz) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098063352832610473"><img src="assets/previews/5d96794ffdfbbd2d258ceafada52e1fbe1baa78da9bd613cb7f66f3d16e369ba.jpg" width="840" loading="lazy" alt="City Pulse"></a>
+
+An interactive 3D mobility atlas of New York City Yellow Taxi activity in January 2025, with a 3D map, replayable hourly movement, zone inspection, and comparisons with weekday or weekend averages.
+
+**Prompt**
+
+```text
+# Build "City Pulse": an interactive 3D mobility atlas of New York City taxi activity (January 2025)
+
+## Goal
+A single-page, English-language web visualization that shows how New York moves across one month:
+31 days, 24 hours, 263 taxi zones. The reader should be able to watch the city's daily rhythm,
+compare any day against a typical weekday or weekend, and inspect any zone in detail.
+It is a descriptive analysis tool, not a real-time or GPS product. Every visual must state what one mark represents.
+
+## Data
+Sources (public):
+- NYC TLC Trip Record Data, Yellow Taxi, January 2025 (parquet)
+- NYC TLC Taxi Zones (263 zones, shapes + borough lookup)
+- NYC Open Data building footprints (Manhattan only, as visual context)
+
+Preprocessing (Python + DuckDB or pandas), output small static JSON files:
+- Filter invalid trips: pickup outside Jan 2025, non-positive or > 3h duration, unknown zones (264/265).
+- Per day, per zone, per hour: pickup count, median trip duration.
+- Per day, per hour: top origin → destination zone pairs (aggregated flows, top N per hour).
+- Reference averages per zone-hour: weekday average (23 days) and weekend average (8 days), per-day means, holidays kept in the weekday group.
+- Month-level fixed scale: max zone-hour pickups, used for every day so heights stay comparable.
+- Zone metadata: id, name, borough, centroid, label anchor. Simplify zone geometry.
+Files: month.json (daily totals, scale, top zones), weekday.json, weekend.json, days/2025-01-DD.json, zones geojson.
+Load the current day lazily; keep the first paint fast.
+
+## Stack
+- One self-contained HTML file (or small Vite app) with Three.js 0.160 (ES modules via importmap), OrbitControls, EffectComposer + bloom.
+- D3 only for scales/formatting and small SVG charts.
+- No framework required. No external API calls at runtime; everything reads the static JSON.
+
+## Layout (desktop 1920×1080 must fit in one screen without scrolling)
+1. Header: "CITY PULSE / MOBILITY ATLAS", "Recorded replay" status, "Data & methods" link.
+2. Status row: "A city, in motion." + three KPIs: citywide pickups (selected hour), vs. comparison average, median trip time.
+3. Month strip: 31 day buttons as mini bars (bar height = daily pickups, weekends marked), prev/next day, date select, "Compare with" select (Weekday average · 23 days / Weekend average · 8 days).
+4. Story bar: "Every movement leaves a pattern." with 4 chapters (01 Watch, 02 Unfold, 03 Compare, 04 Share) and "Start the story".
+5. View tabs: 01 Connections, 02 Volume city, 03 Unfold 24h, 04 Ghost city, plus "Share finding" and "Create briefing".
+6. Workspace: 3D map stage (left) + Location Insight inspector (right, ~330px, scrolls internally).
+7. Timeline: Play day, speed (0.25×–4×), hour scrubber over a 24-hour bar chart of the selected day vs. average.
+Map stage height must adapt to the viewport (clamp between ~470px and ~780px) so the whole console, including the timeline, is visible at 100% zoom.
+
+## 3D scene
+- Dark ground, zone outlines as thin lines, Manhattan building footprints as faint real-world context.
+- Camera: perspective, orbit + zoom, a recenter button. Keep the user's camera when switching views, except "Unfold 24h", which always reframes to show the whole matrix.
+- Hover a zone: tooltip with name and pickups. Click a zone: select it (updates inspector and flows).
+
+Views (each switch animates, no hard pops):
+- 01 Connections: aggregated zone-to-zone trips as glowing arcs with moving light particles; particle density ∝ trips; label the featured flow ("FROM / Midtown Center → TO / Upper East Side North, 71 trips / 18:00"). Caption: "Recorded zone-to-zone trips · schematic motion. Not GPS."
+- 02 Volume city: each zone extruded; height = pickups on the fixed monthly scale; selected zone highlighted.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098063352832610473) · [Original post](https://x.com/tableau_viz/status/2098063352832610473) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2098071577309122854"></a>
+
+### Floating magical academy animation
+
+[PixVerse](https://x.com/PixVerse) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098071577309122854"><img src="assets/previews/9b408ceb1b603f7a12e8bc7b5d7626551da9f3e0b153f574d2f694a1edc9cba4.jpg" width="840" loading="lazy" alt="Floating magical academy animation"></a>
+
+Create a 12-second Blender white-model animation of a monumental entrance, keyhole fly-through, astronomical instrument, and floating academy, then use PixVerse to render it as a cinematic fantasy sequence. The requested deliverables include both MP4s and an editable Blender project.
+
+**Prompt**
+
+```text
+Create a 12-second, single-take white-model animation in Blender, then use @PixVerse to transform the exported animation into a spectacular live-action fantasy film sequence.
+
+In Blender, build a monumental entrance, a rotating astronomical instrument, and a vast floating magical academy. Use simple white or light-gray geometry with readable silhouettes and basic lighting. Show the complete entrance door at the beginning, with solid walls surrounding it and fully concealing the world behind it. Give the door a realistically proportioned small keyhole. Beyond the entrance, arrange a large central castle, towers, smaller floating islands, and connecting bridges. Establish an impressive architectural scale and generous distances between structures.
+
+Begin with a slow approach toward the door, then accelerate sharply and fly continuously through the keyhole. Animate a floating key turning and moving aside before the camera passes. Continue through rapidly rotating astronomical rings, reveal the floating academy, and transition into a smooth orbit around the architecture. Let nearby islands rise quickly and bridge sections rotate into place. Keep object movements energetic and decisive. The orbit should flow continuously, with smooth changes in speed and no repeated pauses. Check the keyhole passage, camera clearance, spatial continuity, and motion at normal playback.
+
+Export the clean 12-second white-model MP4. Then use @PixVerse to generate a 12-second AI-rendered video, using the Blender animation as a loose structural and motion reference. Preserve the recognizable progression from door approach to keyhole passage, astronomical instrument, academy reveal, and orbit, while freely enriching the world and cinematic staging.
+
+Turn the academy into an immense, ancient floating city: a central castle surrounded by districts, libraries, observatories, courtyards, layered rooftops, enormous stone bridges, and waterfalls plunging into clouds. Extend the surroundings into forested valleys, lakes, distant mountains, and additional floating islands. Add tiny pedestrians, flying vessels, moving flags, birds, and atmospheric activity to communicate scale. During the later orbit, let an enormous dragon emerge from clouds behind the academy and glide past the towers, casting a moving shadow over the city.
+
+Aim for the richness of a live-action fantasy feature film, with weathered materials, soft golden sunlight breaking through cool clouds, natural atmospheric depth, and gentle photographic highlights. Include original orchestral music and synchronized environmental and action sounds.
+
+Deliver the white-model MP4, the PixVerse AI-rendered MP4, and the editable Blender project.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098071577309122854) · [Original post](https://x.com/PixVerse/status/2098071577309122854) · [Back to examples](#all-prompts)
+
+---
+
 <a id="2096251574918013135"></a>
 
 ### Kaiju city battle
@@ -2245,24 +2316,6 @@ Build a 3D river kayaking game with anime-inspired aesthetics. Let the player pa
 
 ---
 
-<a id="2096243989439713677"></a>
-
-### Refractive bottle product story
-
-[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/3d-prompts/refractive-bottle-product-story-2096243989439713677"><img src="assets/previews/0752e3417e975ec333d58ef948643def758c883afb543c38e664b40f45d11b43.webp" width="840" loading="lazy" alt="Refractive bottle product story"></a>
-
-**Prompt**
-
-```text
-Build an interactive product website around a photorealistic WebGL glass bottle. Use refractive liquid, scroll-driven rotation and bold typography while maintaining browser performance.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [Original post](https://x.com/himanshubuildss/status/2096243989439713677) · [Back to examples](#all-prompts)
-
----
-
 <a id="2096250748099068377"></a>
 
 ### Interactive Hyperloop demo
@@ -2281,42 +2334,6 @@ Build an interactive Three.js Hyperloop demonstration showing a transport pod, t
 
 ---
 
-<a id="2096234355395903672"></a>
-
-### Procedural Napoleon bust
-
-[Le PLOUTOS](https://x.com/leploutos) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/3d-prompts/procedural-napoleon-bust-2096234355395903672"><img src="assets/previews/fda483263b1b7468f091f1798d7841bcfb9b983bc7659ca2ef491c23f3bbc948.webp" width="840" loading="lazy" alt="Procedural Napoleon bust"></a>
-
-**Prompt**
-
-```text
-Code a 3D bust of Napoleon in Three.js. Build it in stages, inspect it from different angles and refine facial proportions and clothing details.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [Original post](https://x.com/leploutos/status/2096234355395903672) · [Back to examples](#all-prompts)
-
----
-
-<a id="2096226711222546461"></a>
-
-### Railway station concourse
-
-[Wormhole404](https://x.com/0xWormhole404) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/3d-prompts/railway-station-concourse-2096226711222546461"><img src="assets/previews/ec572c18e5e02ac65512d6d72ffe09c5afb807b131336ac8b75d13aefb86899c.webp" width="840" loading="lazy" alt="Railway station concourse"></a>
-
-**Prompt**
-
-```text
-Create a railway concourse with a strong architectural rhythm, believable scale and convincing materials. Produce an inspectable 3D scene with carefully framed station views.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/railway-station-concourse-2096226711222546461) · [Original post](https://x.com/0xWormhole404/status/2096226711222546461) · [Back to examples](#all-prompts)
-
----
-
 <a id="2096258619574513880"></a>
 
 ### Browser racing physics in C# and WASM
@@ -2332,24 +2349,6 @@ Recreate a Trackmania-style racing physics system in C#, run it through WASM and
 ```
 
 [View detail ↗](https://www.tripo3d.ai/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Original post](https://x.com/achepta_tm/status/2096258619574513880) · [Back to examples](#all-prompts)
-
----
-
-<a id="2096241295949975602"></a>
-
-### Memory capsule machine
-
-[Gloria Zhang](https://x.com/gloria_zwq) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/3d-prompts/memory-capsule-machine-2096241295949975602"><img src="assets/previews/2623ee6ae5ad1e80ed6af68f48f0ef33bb34a6fc638f5fd6d55f8ab0de7b3625.webp" width="840" loading="lazy" alt="Memory capsule machine"></a>
-
-**Prompt**
-
-```text
-Build a 3D memory capsule machine. Turn a knob to release a memory, model the mechanism in Blender and give the falling capsules believable motion and sound.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/memory-capsule-machine-2096241295949975602) · [Original post](https://x.com/gloria_zwq/status/2096241295949975602) · [Back to examples](#all-prompts)
 
 ---
 
@@ -3058,7 +3057,7 @@ Build a deep-sea landing page with Three.js water effects, a dark glass-like int
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 211 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 216 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>

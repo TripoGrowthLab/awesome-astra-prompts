@@ -26,7 +26,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**211 · En yeni Astra istemleri**
+**216 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -47,7 +47,6 @@
 - [Mosswing: Mobil 3B Dokunarak Uçma Oyunu](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
 - [Çift halkalı etkileşimli enerji çekirdeği](#2096551010089263181) · GitHub
 - [Voksellerle Cluj-Napoca Birlik Meydanı](#2096262733259837681) · GitHub
-- [Eksiksiz Uçuş Döngüsüne Sahip Tarayıcı Uçuş Simülatörü](#2096236137266512181)
 - [Blender’da Fotogerçekçi, Düzenlenebilir Ejderha Rekonstrüksiyonu](#2096335588727349434)
 - [X görselinin 3B render’ı](#2096338836854804782)
 - [Karakter Konseptinden Rig'li 3B Modele ve Çizgi Filme](#2096342420543660277)
@@ -56,7 +55,6 @@
 - [Lego 1999 Racers'ı yeniden oluşturma](#2096438110095585753)
 - [Hezekiel’in Tapınak Vizyonu: 3B](#2096547658164834788)
 - [3B Şehirde Nükleer Patlama Simülasyonu](#2096562462674079868)
-- [Web sitesine 3B görünüm ekle](#2096567422253662372)
 - [Totality Engine: Sinematik Tutulma Katedrali](#2096593372311941143)
 - [Three.js ile CS2 oluştur](#2096596888799895855)
 - [Kesim Şablonundan Katlanır Kutu Animasyonu](#2096612394281603144)
@@ -65,7 +63,6 @@
 - [Blender'da Dönen Dünya Renderı](#2096637194270134742)
 - [Mini World 3B keşif oyunu](#2096641728497275011)
 - [Etkileşimli Akıllı Telefon Patlatılmış Görünümü](#2096685163111694556)
-- [San Andreas karakterleri ve şehirleriyle Grand Theft Auto oyunu](#2096739993217577219)
 - [Blender MCP ile LEGO minifigür oyun varlığı](#2096766465730847059)
 - [Three.js ve WebGPU ile etkileşimli yumuşak gövdeli slime oluşturma](#2096793432987464010)
 - [Tarayıcıda son derece ayrıntılı gerçek zamanlı 3B orman](#2096814981509775616)
@@ -95,16 +92,19 @@
 - [Sürükleyici 3B pirinç tarlası web sitesi](#2097602565110419781)
 - [GPT-6 Astra ve Blender ile Kedi Kovalayan Robot Kol Komedisi](#2097675660873605422)
 - [THE LAST GATE'i oluştur: Aritmetik kapıları olan kalabalık koşu oyunu](#2097678911882809407)
+- [18 Delikli Golf Sahası Arazi Simülasyonu](#2097755845001937172)
+- [Etkileşimli fantastik grafik demosu](#2097821164093480999)
+- [Sözsüz 3B Kedi Ödül Maması Kısa Filmi](#2097900087901106244)
+- [18 delikli golf sahasını daha zorlu hâle getir](#2098038909514944562)
+- [GTA esintili çizgi film araba kovalamacası iş akışı](#2098049032195293190)
+- [Şehir Nabzı](#2098063352832610473)
+- [Uçan büyülü akademi animasyonu](#2098071577309122854)
 - [Şehirde kaiju savaşı](#2096251574918013135)
 - [Blender’da değiştirilebilir karakter ifadeleri](#2096525100518453342)
 - [Kaydırmayla ilerleyen 3B stüdyo sitesi](#2096245759121277132)
 - [Komorebi nehir kanosu](#2096244208533455049)
-- [Işığı kıran şişeyle ürün hikâyesi](#2096243989439713677)
 - [Etkileşimli Hyperloop demosu](#2096250748099068377)
-- [Prosedürel Napolyon büstü](#2096234355395903672)
-- [Tren istasyonu ana salonu](#2096226711222546461)
 - [C# ve WASM ile tarayıcı yarış fiziği](#2096258619574513880)
-- [Anı kapsülü makinesi](#2096241295949975602)
 - [Unity’de Warcraft esintili karakter sahnesi](#2096308567863079420)
 - [Döndürülebilir 3D shogi tahtası](#2096579856133947507)
 - [Parçalarına ayrılan masaüstü bilgisayar atlası](#2096578761877860502)
@@ -200,108 +200,6 @@ Cluj-Napoca’daki Piața Unirii’nin etkileşimli voksel dünyasını oluştur
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681) · [Orijinal gönderi](https://x.com/danmana/status/2096262733259837681) · [Kaynak kodu](https://github.com/danmana/piata-unirii) · [Canlı demo](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096236137266512181"></a>
-
-### Eksiksiz Uçuş Döngüsüne Sahip Tarayıcı Uçuş Simülatörü
-
-[aditya](https://x.com/adxtyahq) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096236137266512181"><img src="../assets/previews/bbb03f5650350e6b4a323f0dd76f98d1abb0cbe94896f2dbe24d68c4bfbf8ce8.jpg" width="840" loading="lazy" alt="Eksiksiz Uçuş Döngüsüne Sahip Tarayıcı Uçuş Simülatörü"></a>
-
-Eksiksiz, yazar tarafından paylaşılan istemi kullanarak kontrol edilebilir bir 3B yolcu uçağı, havaalanı, uçuş göstergeleri ve kalkıştan inişe uzanan tam bir oyun döngüsü oluşturun.
-
-**İstem**
-
-```text
-Sıfırdan, cilalı ve oynanabilir, tarayıcı tabanlı bir 3B uçuş simülatörü oyunu oluşturun.
-
-Amaç statik bir 3B sahne değil, küçük ancak gerçekten oynanabilir bir uçuş simülasyonu deneyimi oluşturmaktır.
-
-GAMEPLAY
-- Ayrıntılı bir pist, taksi yolu, terminal/binalar, çim/arazi, pist işaretleri ve ışıkları, gökyüzü ve bulutlarla bir havaalanı oluşturun.
-- Havaalanına tanınabilir bir yolcu uçağı yerleştirin.
-- Oyuncu uçağı klavyeyle kontrol edebilmelidir.
-- Gaz, yunuslama, yatış, sapma ve frenlemeyi uygulayın.
-- Uçakta temel düzeyde inandırıcı uçuş fiziği, momentum ve ivmelenme bulunmalıdır.
-- Oyuncu pistte hızlanabilmeli, kalkış yapabilmeli, havaalanı çevresinde uçabilmeli, piste yaklaşabilmeli ve iniş yapabilmelidir.
-- Basit bir hedef ekleyin: kalkış yapın, havaalanı çevresinde kısa bir uçuşu tamamlayın ve güvenli şekilde iniş yapın.
-- Kaza/başarısızlık algılama ve yeniden başlatma seçeneği ekleyin.
-
-CONTROLS
-Kontrolleri açıkça gösterin:
-- W/S: Yunuslama
-- A/D: Yatış
-- Q/E: Sapma
-- Shift/Ctrl: Gaz
-- Space: Fren
-
-CAMERA
-- Uçağın arkasından takip eden yumuşak bir üçüncü şahıs takip kamerası kullanın.
-- Uçuş sırasında uçağın net biçimde görünür kalmasını sağlayın.
-- Kamera hareketi akıcı biçimde takip etmeli ve ivmelenmeye hafifçe tepki vermelidir.
-
-HUD
-Şunları gösteren, havacılık tarzında cilalı bir HUD oluşturun:
-- Hava hızı
-- İrtifa
-- Rota
-- Gaz
-- Dikey hız
-- Uçuş durumu
-- Mevcut hedef
-
-Gizlenebilen kompakt bir kontrol/yardım paneli ekleyin.
-
-BAŞLANGIÇ + SONUÇLAR
-Şunları içeren bir başlangıç ekranı oluşturun:
-"FLIGHT SIMULATOR"
-ve belirgin bir "START FLIGHT" düğmesi.
-
-Başarılı bir inişten sonra şunları gösterin:
-- Uçuş tamamlandı
-- İniş kalitesi
-- Uçuş süresi
-- Final puanı
-- Tekrar Oyna
-
-GÖRSEL KALİTE
-Gerçek bir oyun hissi vermesini sağlayın:
-- Birbiriyle uyumlu, stilize 3B görseller
-- Ayrıntılı uçak
-- Etkileyici bir havaalanı ortamı
-- İyi aydınlatma, gölgeler ve materyaller
-- Bulutlar/atmosfer
-- Uygun yerlerde havaalanı binaları, araçlar, tabelalar, ağaçlar ve diğer çevre ayrıntıları
-- Boş veya açıkça tamamlanmamış bir sahneden kaçının
-
-FEEDBACK
-Şunlar için yararlı geri bildirimler ekleyin:
-- Gaz/motor durumu
-- Kalkış
-- İniş
-- Hız uyarıları
-- İrtifa
-- Kazalar
-- Başarılı iniş
-
-TECHNICAL
-- Eksiksiz çalışan oyunu tarayıcıda oluşturun.
-- Yer tutucu düğmeler veya sahte etkileşimler bırakmayın.
-- Tepkisel kontrollere ve akıcı performansa öncelik verin.
-- Kullanılabilir uygun web/3B teknolojilerinden yararlanın.
-
-ÖNEMLİ:
-Tüm görevi güzel bir statik sahne oluşturmaya harcamayın. Uçak MUTLAKA gerçekten kontrol edilebilir olmalı ve eksiksiz döngü çalışmalıdır:
-
-BAŞLAT → HIZLAN → KALKIŞ YAP → UÇ → YAKLAŞ → İN → PUANLA → TEKRAR OYNA
-
-Bitirmeden önce oyunu tarayıcıda çalıştırın ve tüm oynanış döngüsünü kendiniz test edin. Karşılaştığınız bozuk kontrolleri, fizik sorunlarını, görsel hataları ve etkileşim problemlerini düzeltin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096236137266512181) · [Orijinal gönderi](https://x.com/adxtyahq/status/2096236137266512181) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -684,24 +582,6 @@ Bir şehir, nükleer flaş, genişleyen şok dalgası, ateş topu, duman ve patl
 
 ---
 
-<a id="2096567422253662372"></a>
-
-### Web sitesine 3B görünüm ekle
-
-[Maxence](https://x.com/Dgamax) · 2026-09-06
-
-Yazar, bir MMORPG'yi Three.js ile yeniden oluşturmak için GPT-6 Astra'yı kullandığını, ardından ses içeren başlangıç alanı görünümleri de dahil olmak üzere ortaya çıkan 3B görünümü web sitesine eklemesini istediğini belirtiyor.
-
-**İstem**
-
-```text
-Dostum, bu harika olmuş. Bu 3B görünümü web sitesine de ekleyelim!
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096567422253662372) · [Orijinal gönderi](https://x.com/Dgamax/status/2096567422253662372) · [Örneklere dön](#all-prompts)
-
----
-
 <a id="2096593372311941143"></a>
 
 ### Totality Engine: Sinematik Tutulma Katedrali
@@ -965,25 +845,6 @@ Modern bir akıllı telefonun etkileşimli 3B patlatılmış görünüm görsell
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096685163111694556) · [Orijinal gönderi](https://x.com/zairalaraib_/status/2096685163111694556) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096739993217577219"></a>
-
-### San Andreas karakterleri ve şehirleriyle Grand Theft Auto oyunu
-
-[ElIngeRRC](https://x.com/ElIngeRRC) · 2026-09-06
-
-CJ, Michael, Trevor, Lucia ve Jason'ın farklı şehirlerde belirtilen rolleri üstlendiği bir Grand Theft Auto oyunu oluşturmayı ister.
-
-**İstem**
-
-```text
-CJ'nin Las Venturas şehrinde bir magnat, Michael'ın San Fierro'da bir hissedar olduğu bir Grand Theft Auto oyunu yap.
-Trevor Los Santos'ta bir kaçakçı, Lucia ve Jason da onun ortakları olsun.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096739993217577219) · [Orijinal gönderi](https://x.com/ElIngeRRC/status/2096739993217577219) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -2172,6 +2033,216 @@ THE LAST GATE'i oluştur THE LAST GATE'i oluştur: Aritmetik kapıları olan oyn
 
 ---
 
+<a id="2097755845001937172"></a>
+
+### 18 Delikli Golf Sahası Arazi Simülasyonu
+
+[Rory Flynn](https://x.com/Ror_Fly) · 2026-09-09
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097755845001937172"><img src="../assets/previews/8e002ab8ef0a47379b651aee5b3e38702f31b065040adf68fd55f2db7fb5a7f3.jpg" width="840" loading="lazy" alt="18 Delikli Golf Sahası Arazi Simülasyonu"></a>
+
+Haritaları ve gerçek topografik verileri kullanarak gerçek bir konumda 18 delikli bir golf sahası inşa etmeyi; delikleri doğal araziye uyarlamayı simüle etme isteği.
+
+**İstem**
+
+```text
+18 delikli bir saha inşa etmeyi simüle et
+>Gerçek bir konum bul
+>Haritaları ve gerçek topografik verileri kullan
+>Delikleri doğal araziye uyarla
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097755845001937172) · [Orijinal gönderi](https://x.com/Ror_Fly/status/2097755845001937172) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2097821164093480999"></a>
+
+### Etkileşimli fantastik grafik demosu
+
+[Anshu](https://x.com/anshuc) · 2026-09-09
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097821164093480999"><img src="../assets/previews/541f111bea72b7c24bb7edb2d84396581e7a11bc997cf8d910d973ae34715f27.png" width="840" loading="lazy" alt="Etkileşimli fantastik grafik demosu"></a>
+
+İzometrik kameralı, kontrol edilebilir karaktere, yansıtıcı ıslak zeminlere ve ortamda hareketliliğe sahip, tarayıcı tabanlı bir Three.js fantastik sahnesi için Dream Loop Plus istemi. Yazar bunu GPT-5.6 Luna xhigh kullanan bir demo istemi olarak etiketliyor; gönderide, optimize edilmiş akışta görsel çalışmayı Astra’nın gerçekleştirdiği belirtiliyor.
+
+**İstem**
+
+```text
+Dream Loop Plus’ı kullanarak bir grafik demosu oluştur: izometrik kamera, gerçekçi gölgelendirme ve yansıtıcı ıslak zeminler, ilgi çekici bir sahnede bir karakter. Fantastik bir ortam kullan (Elden Ring ve Diablo’yu düşün). Tarayıcıda Three.js, >60fps. Kontroller: karakteri hareket ettirmek için tıkla; kamera karakteri yumuşak bir gecikmeyle takip etsin; kamerayı döndürmek için sürükle; yakınlaştırmak ve uzaklaştırmak için kaydır. Şimdilik oynanış ekleme. Dünya canlı hissettirmeli: hareket, animasyonlar ve çevredeki ince davranışlar olsun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097821164093480999) · [Orijinal gönderi](https://x.com/anshuc/status/2097821164093480999) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2097900087901106244"></a>
+
+### Sözsüz 3B Kedi Ödül Maması Kısa Filmi
+
+[AI実践ラボ](https://x.com/boboga777) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097900087901106244"><img src="../assets/previews/e80882d1c32752e76536bc6977f53cef0bdde11ab64dad0e751c1c1079428acb.jpg" width="840" loading="lazy" alt="Sözsüz 3B Kedi Ödül Maması Kısa Filmi"></a>
+
+Tek bir ödül düğmesi etrafında gelişen, kaosun giderek tırmandığı ve küçük bir ödülle sonuçlanan sözsüz bir 3B kedi animasyonu isteği.
+
+**İstem**
+
+```text
+Sözsüz bir 3B kedi kısa animasyonu oluştur: tek bir ödül düğmesi, tam bir kaos ve ufak bir ödül. İfadeli oyunculuk, kamera hareketleri, müzik ve döngüye uygun bir akış ekle.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097900087901106244) · [Orijinal gönderi](https://x.com/boboga777/status/2097900087901106244) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2098038909514944562"></a>
+
+### 18 delikli golf sahasını daha zorlu hâle getir
+
+[Rory Flynn](https://x.com/Ror_Fly) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098038909514944562"><img src="../assets/previews/f5a4d2f44955ee094959c3e503ec284bf99779bbdc16141a66d1305f8df3d895.jpg" width="840" loading="lazy" alt="18 delikli golf sahasını daha zorlu hâle getir"></a>
+
+Yazarın belirttiği bir gecelik hedef: 18 delikli golf sahasının tarayıcı modelini; daha zorlu delikler, bölünmüş fairway'ler, daha iddialı bunkerlar ve engeller ve daha anlamlı vuruş seçenekleriyle yeniden düzenlemek.
+
+**İstem**
+
+```text
+Her deliği daha zorlu hâle getir
+>Düz fairway'leri böl
+>Daha iddialı bunkerlar + engeller ekle
+>Daha anlamlı vuruş seçenekleri oluştur
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098038909514944562) · [Orijinal gönderi](https://x.com/Ror_Fly/status/2098038909514944562) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2098049032195293190"></a>
+
+### GTA esintili çizgi film araba kovalamacası iş akışı
+
+[PixVerse](https://x.com/PixVerse) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098049032195293190"><img src="../assets/previews/939609b429641e344a40ab78f01e7bf6dbfd57e8e707db7765c81ae04057ac31.jpg" width="840" loading="lazy" alt="GTA esintili çizgi film araba kovalamacası iş akışı"></a>
+
+Blender'da 12 saniyelik GTA esintili çizgi film araba kovalamacası oluşturup canlandırmak, ardından planları PixVerse Seedance 2.5 ile işlemek için yeniden kullanılabilir iş akışı istemi.
+
+**İstem**
+
+```text
+Bu iş akışını kullanarak özgün bir GTA esintili çizgi film araba kovalamacası oluşturun:
+Tasarım: Bir ana sürücü, bir kaçış aracı, bir takip aracı ve bir şehir ortamı tanımlayın. Tasarımlarının tutarlı kalmasını sağlayın. Dört saniyelik üç planı planlayın: arkadan takip, keskin bir virajda yandan takip ve geniş açıyla çıkış planı.
+Blender'da oluşturun: Temiz gri modeller ile işlevsel karakter ve araç rig'leri oluşturun. Doku veya UV açma işlemi gerekmez.
+Canlandırın ve test edin: Sürücüyü, direksiyonu, tekerlek dönüşünü, araçları ve kameraları canlandırın. Hareket yönünü ve araç sıralamasını tutarlı tutun. Kesişmeleri, havada duran tekerlekleri, kayan lastikleri, bozuk pozları ve ellerin direksiyonla temasını kaybetmesini düzeltin.
+Blender'da render alın: 1280×720 çözünürlükte, 24 fps ile 1–288. kareleri render alın. Gerçek Blender render karelerini birleştirerek 12 saniyelik eksiksiz bir gri model ana video oluşturun. Her planı ayrı ayrı dışa aktarın ve biçim ile kompozisyon referansı olarak eşleşen gri sabit görüntüler render alın.
+[ @PixVerse](plugin://pixverse@openai-curated-remote) Plugin ile tamamlayın: Seedance 2.5'i 720p olarak kullanın ve her planı ayrı ayrı işleyin. Blender kliplerini hareket referansı, gri sabit görüntüleri ise biçim referansı olarak kullanın. Oluşturma isteminde tutarlı bir çizgi film renk paleti tanımlayın. Kamera hareketini, aksiyon zamanlamasını, karakter ve araç tasarımlarını ve araç sayısını koruyun.
+İnceleyin ve teslim edin: Her iki eksiksiz videoyu görsel kusurlar ve devamlılık açısından kontrol edin. Blender sorunlarını düzeltin ve yalnızca başarısız Seedance planlarını, plan başına en fazla iki yeniden denemeyle yeniden oluşturun. Düzenlenebilir .blend dosyasını, Blender'dan alınan yerel 720p gri model videosunu, ayrı etiketlenmiş 720p Seedance sürümünü ve kalan sınırlamaların kısa bir değerlendirmesini teslim edin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098049032195293190) · [Orijinal gönderi](https://x.com/PixVerse/status/2098049032195293190) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2098063352832610473"></a>
+
+### Şehir Nabzı
+
+[Seoyeon Jun 📊](https://x.com/tableau_viz) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098063352832610473"><img src="../assets/previews/5d96794ffdfbbd2d258ceafada52e1fbe1baa78da9bd613cb7f66f3d16e369ba.jpg" width="840" loading="lazy" alt="Şehir Nabzı"></a>
+
+Ocak 2025'te New York'un sarı taksi hareketliliğini gösteren; 3B harita, saatlik hareketlerin yeniden oynatılması, bölge inceleme ve hafta içi ya da hafta sonu ortalamalarıyla karşılaştırma özelliklerine sahip etkileşimli bir 3B ulaşım atlası.
+
+**İstem**
+
+```text
+# "City Pulse" oluşturun: New York'un taksi hareketliliği için etkileşimli bir 3B ulaşım atlası (Ocak 2025)
+
+## Amaç
+New York'un bir ay boyunca nasıl hareket ettiğini gösteren, tek sayfalık ve İngilizce bir web görselleştirmesi:
+31 gün, 24 saat, 263 taksi bölgesi. Okuyucu şehrin günlük ritmini izleyebilmeli,
+herhangi bir günü tipik bir hafta içi veya hafta sonuyla karşılaştırabilmeli ve istediği bölgeyi ayrıntılı olarak inceleyebilmeli.
+Bu, gerçek zamanlı veya GPS tabanlı bir ürün değil, betimleyici bir analiz aracıdır. Her görsel, tek bir işaretin neyi temsil ettiğini belirtmelidir.
+
+## Veriler
+Kaynaklar (herkese açık):
+- NYC TLC Trip Record Data, Yellow Taxi, Ocak 2025 (parquet)
+- NYC TLC Taxi Zones (263 bölge, şekiller + ilçe eşlemesi)
+- NYC Open Data bina ayak izleri (görsel bağlam olarak yalnızca Manhattan)
+
+Ön işleme (Python + DuckDB veya pandas), küçük statik JSON dosyaları çıktısı:
+- Geçersiz yolculukları filtreleyin: Ocak 2025 dışındaki alma tarihleri, pozitif olmayan veya 3 saati aşan süreler, bilinmeyen bölgeler (264/265).
+- Gün, bölge ve saat başına: alma sayısı, medyan yolculuk süresi.
+- Gün ve saat başına: en sık kullanılan başlangıç → varış bölgesi çiftleri (birleştirilmiş akışlar, saat başına en yüksek N değer).
+- Bölge-saat başına referans ortalamaları: hafta içi ortalaması (23 gün) ve hafta sonu ortalaması (8 gün), gün bazında ortalamalar; tatiller hafta içi grubunda tutulur.
+- Ay düzeyinde sabit ölçek: her gün için kullanılan, en yüksek bölge-saat alma sayısı; böylece yükseklikler karşılaştırılabilir kalır.
+- Bölge meta verileri: kimlik, ad, ilçe, merkez noktası, etiket bağlantı noktası. Bölge geometrisini sadeleştirin.
+Dosyalar: month.json (günlük toplamlar, ölçek, en yoğun bölgeler), weekday.json, weekend.json, days/2025-01-DD.json, zones geojson.
+Geçerli günü tembel yükleme ile yükleyin; ilk görüntülemeyi hızlı tutun.
+
+## Teknoloji yığını
+- Three.js 0.160 kullanan, kendi içinde çalışan tek bir HTML dosyası (veya küçük bir Vite uygulaması); importmap üzerinden ES modülleri, OrbitControls, EffectComposer + bloom.
+- D3 yalnızca ölçekler/biçimlendirme ve küçük SVG grafikleri için.
+- Framework zorunlu değil. Çalışma zamanında harici API çağrısı yapılmayacak; her şey statik JSON'dan okunacak.
+
+## Yerleşim (masaüstünde 1920×1080 boyutuna kaydırma olmadan tek ekrana sığmalı)
+1. Üst bilgi: "CITY PULSE / MOBILITY ATLAS", "Recorded replay" durumu, "Data & methods" bağlantısı.
+2. Durum satırı: "Hareket hâlindeki bir şehir." + üç KPI: şehir genelindeki alma sayısı (seçili saat), karşılaştırma ortalamasına göre, medyan yolculuk süresi.
+3. Ay şeridi: mini çubuklar olarak 31 gün düğmesi (çubuk yüksekliği = günlük alma sayısı, hafta sonları işaretli), önceki/sonraki gün, tarih seçimi, "Compare with" seçimi (Hafta içi ortalaması · 23 gün / Hafta sonu ortalaması · 8 gün).
+4. Hikâye çubuğu: "Her hareket bir iz bırakır."; 4 bölüm (01 İzle, 02 Aç, 03 Karşılaştır, 04 Paylaş) ve "Hikâyeyi başlat".
+5. Görünüm sekmeleri: 01 Bağlantılar, 02 Şehir hacmi, 03 24 saati aç, 04 Hayalet şehir; ayrıca "Bulguyu paylaş" ve "Brifing oluştur".
+6. Çalışma alanı: 3B harita sahnesi (sol) + Location Insight denetçisi (sağda, yaklaşık 330 px, kendi içinde kaydırılabilir).
+7. Zaman çizelgesi: Günü oynat, hız (0.25×–4×), seçili günün ortalamayla karşılaştırıldığı 24 saatlik çubuk grafik üzerinde saat kaydırıcısı.
+Harita sahnesinin yüksekliği, %100 yakınlaştırmada zaman çizelgesi dahil tüm konsol görünecek şekilde, görüntü alanına uyarlanmalı (yaklaşık 470 px ile 780 px arasında sınırlandırılmalı).
+
+## 3B sahne
+- Koyu zemin, ince çizgilerle bölge sınırları, gerçek dünyadan hafif bir bağlam olarak Manhattan bina ayak izleri.
+- Kamera: perspektif, yörünge + yakınlaştırma, yeniden merkezleme düğmesi. Görünümler arasında geçiş yaparken kullanıcının kamera konumunu koruyun; ancak tüm matrisi gösterecek şekilde yeniden kadrajlanan "24 saati aç" görünümü bunun dışındadır.
+- Bir bölgenin üzerine gelindiğinde: ad ve alma sayısını gösteren araç ipucu. Bir bölgeye tıklandığında: bölgeyi seçin (denetçiyi ve akışları güncelleyin).
+
+Görünümler (her geçiş animasyonlu olmalı, ani değişimler olmamalı):
+- 01 Bağlantılar: bölgeden bölgeye birleştirilmiş yolculukları, hareketli ışık parçacıkları içeren parlayan yaylarla gösterin; parçacık yoğunluğu ∝ yolculuk sayısı; öne çıkan akışı etiketleyin ("FROM / Midtown Center → TO / Upper East Side North, 71 trips / 18:00"). Açıklama: "Kayıtlı bölgeden bölgeye yolculuklar · şematik hareket. GPS değildir."
+- 02 Şehir hacmi: her bölgeyi yükseltilmiş bir hacim olarak gösterin; yükseklik = sabit aylık ölçekteki alma sayısı; seçili bölgeyi vurgulayın.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098063352832610473) · [Orijinal gönderi](https://x.com/tableau_viz/status/2098063352832610473) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2098071577309122854"></a>
+
+### Uçan büyülü akademi animasyonu
+
+[PixVerse](https://x.com/PixVerse) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098071577309122854"><img src="../assets/previews/9b408ceb1b603f7a12e8bc7b5d7626551da9f3e0b153f574d2f694a1edc9cba4.jpg" width="840" loading="lazy" alt="Uçan büyülü akademi animasyonu"></a>
+
+Anıtsal bir giriş, anahtar deliğinden geçiş, astronomi aleti ve uçan akademiden oluşan 12 saniyelik bir Blender beyaz model animasyonu oluşturun; ardından PixVerse kullanarak bunu sinematik bir fantastik sekansa dönüştürün. İstenen teslimatlar arasında her iki MP4 dosyası ve düzenlenebilir bir Blender projesi bulunuyor.
+
+**İstem**
+
+```text
+Blender'da 12 saniyelik, tek planlı bir beyaz model animasyonu oluşturun; ardından @PixVerse kullanarak dışa aktarılan animasyonu görkemli, canlı çekim tarzında bir fantastik film sekansına dönüştürün.
+
+Blender'da anıtsal bir giriş, dönen bir astronomi aleti ve devasa bir uçan büyülü akademi oluşturun. Okunaklı silüetler ve temel aydınlatma kullanarak basit beyaz veya açık gri geometrilerden yararlanın. Başlangıçta giriş kapısını tamamen gösterin; kapının çevresindeki sağlam duvarlar arkasındaki dünyayı tamamen gizlesin. Kapıya gerçekçi oranlarda küçük bir anahtar deliği ekleyin. Girişin ötesinde büyük bir merkezi kale, kuleler, daha küçük yüzen adalar ve bunları birbirine bağlayan köprüler yerleştirin. Etkileyici bir mimari ölçek ve yapılar arasında geniş mesafeler oluşturun.
+
+Kapıya doğru yavaş bir yaklaşmayla başlayın, ardından hızla ivmelenerek kesintisiz biçimde anahtar deliğinden geçin. Kamera geçmeden önce yüzen bir anahtarı döndürüp kenara çekin. Hızla dönen astronomik halkaların içinden ilerlemeyi sürdürün, uçan akademiyi ortaya çıkarın ve mimarinin çevresinde akıcı bir yörünge hareketine geçin. Yakındaki adaların hızla yükselmesini ve köprü bölümlerinin dönerek yerlerine oturmasını sağlayın. Nesne hareketlerini enerjik ve kararlı tutun. Yörünge hareketi kesintisiz aksın; hız değişimleri yumuşak olsun ve tekrarlanan duraklamalar bulunmasın. Normal oynatma hızında anahtar deliğinden geçişi, kamera açıklığını, mekânsal sürekliliği ve hareketi kontrol edin.
+
+Temiz 12 saniyelik beyaz model MP4'ü dışa aktarın. Ardından @PixVerse kullanarak, Blender animasyonunu gevşek bir yapısal ve hareket referansı olarak değerlendiren 12 saniyelik, yapay zekâyla işlenmiş bir video oluşturun. Kapıya yaklaşmadan anahtar deliğinden geçişe, astronomi aletine, akademinin ortaya çıkışına ve yörünge hareketine uzanan tanınabilir ilerleyişi koruyun; dünyayı ve sinematik sahne düzenini özgürce zenginleştirin.
+
+Akademiyi; bölgeler, kütüphaneler, gözlemevleri, avlular, katmanlı çatılar, devasa taş köprüler ve bulutlara dökülen şelalelerle çevrili, uçan kadim ve uçsuz bucaksız bir şehre dönüştürün. Çevreyi ormanlık vadiler, göller, uzaktaki dağlar ve ek yüzen adalarla genişletin. Ölçeği anlatmak için küçük yayalar, uçan araçlar, hareket eden bayraklar, kuşlar ve atmosferik hareketlilik ekleyin. İlerleyen yörünge hareketi sırasında devasa bir ejderhanın akademinin arkasındaki bulutların arasından çıkıp kulelerin yanından süzülmesini ve şehrin üzerine hareketli bir gölge düşürmesini sağlayın.
+
+Hava koşullarından etkilenmiş malzemeler, serin bulutların arasından süzülen yumuşak altın rengi güneş ışığı, doğal atmosferik derinlik ve zarif fotografik parlaklıklarla canlı çekim tarzında bir fantastik uzun metrajlı filmin zenginliğini hedefleyin. Özgün orkestra müziği ile senkronize çevre ve aksiyon sesleri ekleyin.
+
+Beyaz model MP4'ü, PixVerse tarafından yapay zekâyla işlenmiş MP4'ü ve düzenlenebilir Blender projesini teslim edin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098071577309122854) · [Orijinal gönderi](https://x.com/PixVerse/status/2098071577309122854) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="2096251574918013135"></a>
 
 ### Şehirde kaiju savaşı
@@ -2244,24 +2315,6 @@ Anime estetiğinde 3B nehir kanosu oyunu oluştur. Oyuncu engellerden kaçınmak
 
 ---
 
-<a id="2096243989439713677"></a>
-
-### Işığı kıran şişeyle ürün hikâyesi
-
-[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/refractive-bottle-product-story-2096243989439713677"><img src="../assets/previews/0752e3417e975ec333d58ef948643def758c883afb543c38e664b40f45d11b43.webp" width="840" loading="lazy" alt="Işığı kıran şişeyle ürün hikâyesi"></a>
-
-**İstem**
-
-```text
-Fotogerçekçi WebGL cam şişe etrafında etkileşimli ürün sitesi oluştur. Tarayıcı performansını korurken ışığı kıran sıvı, kaydırmayla dönme ve güçlü tipografi kullan.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [Orijinal gönderi](https://x.com/himanshubuildss/status/2096243989439713677) · [Örneklere dön](#all-prompts)
-
----
-
 <a id="2096250748099068377"></a>
 
 ### Etkileşimli Hyperloop demosu
@@ -2280,42 +2333,6 @@ Taşıma kapsülünü, tüp altyapısını ve sistemdeki hareketi gösteren etki
 
 ---
 
-<a id="2096234355395903672"></a>
-
-### Prosedürel Napolyon büstü
-
-[Le PLOUTOS](https://x.com/leploutos) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/procedural-napoleon-bust-2096234355395903672"><img src="../assets/previews/fda483263b1b7468f091f1798d7841bcfb9b983bc7659ca2ef491c23f3bbc948.webp" width="840" loading="lazy" alt="Prosedürel Napolyon büstü"></a>
-
-**İstem**
-
-```text
-Three.js'de 3B Napolyon büstünü kodla oluştur. Aşamalar hâlinde yap, farklı açılardan incele; yüz oranlarını ve kıyafet ayrıntılarını iyileştir.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [Orijinal gönderi](https://x.com/leploutos/status/2096234355395903672) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096226711222546461"></a>
-
-### Tren istasyonu ana salonu
-
-[Wormhole404](https://x.com/0xWormhole404) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/railway-station-concourse-2096226711222546461"><img src="../assets/previews/ec572c18e5e02ac65512d6d72ffe09c5afb807b131336ac8b75d13aefb86899c.webp" width="840" loading="lazy" alt="Tren istasyonu ana salonu"></a>
-
-**İstem**
-
-```text
-Güçlü mimari ritmi, inandırıcı ölçeği ve malzemeleri olan tren istasyonu salonu oluştur. Özenle kadrajlanmış istasyon görünümleriyle incelenebilir 3B sahne üret.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/railway-station-concourse-2096226711222546461) · [Orijinal gönderi](https://x.com/0xWormhole404/status/2096226711222546461) · [Örneklere dön](#all-prompts)
-
----
-
 <a id="2096258619574513880"></a>
 
 ### C# ve WASM ile tarayıcı yarış fiziği
@@ -2331,24 +2348,6 @@ Trackmania tarzı yarış fizik sistemini C# ile yeniden oluştur, WASM üzerind
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Orijinal gönderi](https://x.com/achepta_tm/status/2096258619574513880) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096241295949975602"></a>
-
-### Anı kapsülü makinesi
-
-[Gloria Zhang](https://x.com/gloria_zwq) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/memory-capsule-machine-2096241295949975602"><img src="../assets/previews/2623ee6ae5ad1e80ed6af68f48f0ef33bb34a6fc638f5fd6d55f8ab0de7b3625.webp" width="840" loading="lazy" alt="Anı kapsülü makinesi"></a>
-
-**İstem**
-
-```text
-3B anı kapsülü makinesi oluştur. Düğmeyi çevirince bir anı serbest kalsın. Mekanizmayı Blender'da modelle; düşen kapsüllere inandırıcı hareket ve ses ver.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/memory-capsule-machine-2096241295949975602) · [Orijinal gönderi](https://x.com/gloria_zwq/status/2096241295949975602) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3057,7 +3056,7 @@ Three.js su efektleri, koyu cam görünümlü arayüz ve kaydırmaya bağlı har
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 211 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 216 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>
