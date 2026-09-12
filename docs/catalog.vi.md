@@ -26,12 +26,13 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**225 · Prompt Astra mới nhất**
+**205 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
 <table>
 <tr>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/featured/2096251574918013135.webp" width="420" loading="lazy" alt="Kaiju giao chiến trong thành phố"></a><br><strong><a href="#2096251574918013135">Kaiju giao chiến trong thành phố</a></strong><br><sub><a href="https://x.com/majidmanzarpour/status/2096251574918013135">Majid Manzarpour</a></sub><br><a href="#2096251574918013135">Prompt →</a></td>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/featured/2096525100518453342.webp" width="420" loading="lazy" alt="Chuyển đổi biểu cảm nhân vật trong Blender"></a><br><strong><a href="#2096525100518453342">Chuyển đổi biểu cảm nhân vật trong Blender</a></strong><br><sub><a href="https://x.com/Dstudio_ai/status/2096525100518453342">Nano(ナノ)</a></sub><br><a href="#2096525100518453342">Prompt →</a></td>
 </tr>
 </table>
@@ -46,8 +47,9 @@
 - [Máy gia tốc hạt 3D tương tác](#2097781208596029936) · GitHub
 - [Mosswing: Game 3D mobile chạm để vỗ cánh](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
 - [Lõi năng lượng hai vòng tương tác](#2096551010089263181) · GitHub
+- [Quảng trường Thống Nhất ở Cluj-Napoca bằng voxel](#2096262733259837681) · GitHub
+- [Trình mô phỏng bay trên trình duyệt với vòng lặp bay hoàn chỉnh](#2096236137266512181)
 - [Dựng lại rồng chân thực có thể chỉnh sửa trong Blender](#2096335588727349434)
-- [Dựng hình 3D từ ảnh trên X](#2096338836854804782)
 - [Từ ý tưởng nhân vật đến mô hình 3D đã rig và phim hoạt hình](#2096342420543660277)
 - [Nhóm nhạc 3D có thể tương tác với hoạt ảnh đồng bộ âm thanh](#2096354461652488562)
 - [Tạo và kết xuất hố đen trong Blender](#2096391653669953761)
@@ -64,18 +66,12 @@
 - [Phối cảnh tháo rời smartphone tương tác](#2096685163111694556)
 - [Mô hình nhân vật LEGO cho game bằng Blender MCP](#2096766465730847059)
 - [Tạo slime mềm tương tác bằng Three.js và WebGPU](#2096793432987464010)
-- [Rừng 3D thời gian thực siêu chi tiết trên trình duyệt](#2096814981509775616)
-- [Dựng lại ngôi nhà có thể chỉnh sửa trong Blender từ video tham chiếu](#2096876083094466863)
 - [Cảnh 3D Hogwarts](#2096907617117540478)
-- [Tái tạo quảng cáo sản phẩm bằng Blender và ChatCut](#2096925943575330908)
-- [Chuyển ảnh thành mô hình 3D và xoay 360°](#2096950715277004976)
 - [Đường phố thu nhỏ vô tận với Three.js WebGPU](#2096956214680965501)
 - [Thế giới cảnh quan VRChat “Đường chân trời nơi trọng lực tan vỡ”](#2096966425017467344)
 - [Sân trong Trung Hoa tương tác](#2096971051334857181)
 - [Con đường rừng dài 12 giây trong Blender](#2096986557244723371)
-- [Chỉnh sửa cảnh Blender để lắp trụ khía nhám và căn PCB](#2096990373813858591)
 - [Thú cưng robot tương tác trên bàn làm việc](#2097004192627933279)
-- [Dựng mô hình 3D chi tiết cho một ngôi nhà](#2097057316138832282)
 - [Cây chanh vàng thạch tương tác](#2097065330728128920)
 - [Rigging và tạo hoạt ảnh cho mech chân digitigrade trong Godot](#2097123382852829230)
 - [Hoạt ảnh tách lớp cửa hàng hoa Nhật Bản](#2097153139795468365)
@@ -84,15 +80,12 @@
 - [Tái tạo một game 3D mini kiểu Liên Minh Huyền Thoại](#2097320830602809682)
 - [Dự án WebGL TypeScript + Three.js mô phỏng Điện Kỳ Niên ở Thiên Đàn Bắc Kinh](#2097323734504017936)
 - [Tái tạo game web 《Liên Minh Huyền Thoại》](#2097336230078013598)
-- [Playroom: Arcade trình duyệt 3D retro](#2097339176094195899)
 - [Thế giới hồ đất ngập nước ấm cúng](#2097343467026289039)
 - [Cảnh VHS Backrooms lấy cảm hứng từ Blender](#2097534290112188602)
-- [Dựng lại cảnh 3D từ video tham chiếu bằng Three.js](#2097588270171660321)
 - [Website cánh đồng lúa 3D sống động](#2097602565110419781)
 - [Dựng cảnh hài hước mèo bị cánh tay robot đuổi bắt bằng GPT-6 Astra và Blender](#2097675660873605422)
 - [Xây dựng THE LAST GATE: game chạy vượt chướng ngại vật theo nhóm với các cổng tính toán](#2097678911882809407)
 - [Mô phỏng nhà máy và bệ phóng 3D thời gian thực](#2097730920224534868)
-- [Mô phỏng địa hình sân golf 18 hố](#2097755845001937172)
 - [Bản sao Minecraft có chế độ nhiều người chơi](#2097797479488246071)
 - [Bản demo đồ họa fantasy tương tác](#2097821164093480999)
 - [Video ngắn 3D không lời: Mèo và nút thưởng](#2097900087901106244)
@@ -102,11 +95,19 @@
 - [Nhịp đập thành phố](#2098063352832610473)
 - [Hoạt ảnh học viện phép thuật bay lơ lửng](#2098071577309122854)
 - [Tàu vận chuyển dân dụng cơ bản Sol Horizon](#2098225609558335846)
-- [Quy trình sản xuất màn rượt đuổi ô tô 3D phong cách GTA](#2098371778234179766)
-- [Mô hình 3D tương tác cho thiết kế nội thất phòng](#2098374138092277920)
 - [Cảnh mô hình thu nhỏ 3D dạng lập thể của ngôi đền](#2098403061463224543)
 - [Mô hình bé gái chơi robot](#2098406473273663992)
+- [Kaiju giao chiến trong thành phố](#2096251574918013135)
 - [Chuyển đổi biểu cảm nhân vật trong Blender](#2096525100518453342)
+- [Mô phỏng hội ngộ quỹ đạo](#2096225621303042258)
+- [Website studio 3D theo cuộn trang](#2096245759121277132)
+- [Komorebi: chèo kayak trên sông](#2096244208533455049)
+- [Câu chuyện sản phẩm với chai khúc xạ](#2096243989439713677)
+- [Demo Hyperloop tương tác](#2096250748099068377)
+- [Tượng bán thân Napoleon thủ tục](#2096234355395903672)
+- [Sảnh ga đường sắt](#2096226711222546461)
+- [Vật lý đua xe trình duyệt bằng C# và WASM](#2096258619574513880)
+- [Máy viên nang ký ức](#2096241295949975602)
 - [Cảnh nhân vật lấy cảm hứng từ Warcraft trong Unity](#2096308567863079420)
 - [Bàn cờ shogi 3D có thể xoay](#2096579856133947507)
 - [Bản đồ tháo rời linh kiện máy tính để bàn](#2096578761877860502)
@@ -116,7 +117,9 @@
 - [Lái Wright Flyer qua khu rừng Nhật Bản](#2096467585785286808)
 - [Dựng một ngôi nhà từ đầu trong Blender](#2096576154337734865)
 - [Từ mặt bằng tầng trên cùng đến bản xem trước Blender](#2096501340889374883)
+- [Quảng trường Terreiro do Paço tại Lisbon trong Blender](#2096298425914450021)
 - [Nhiệm vụ khám phá The Quiet Crossing](#2096574297703637111)
+- [Khu rừng rậm tạo bằng thuật toán trong Three.js](#2096263046918197609)
 - [Đầu máy hơi nước chạy qua miền quê](#2096577430274429157)
 - [Cảnh máy hát đĩa than trên bàn](#2096561346766877106)
 - [Vòng lặp đối chiến của trò chơi thẻ bài sưu tầm](#2096555856204644550)
@@ -136,13 +139,11 @@
 - [Biến căn phòng riêng thành hồ sơ năng lực tương tác](#2096506357868642342)
 - [Thuyền YF-24 trên mặt biển 3D êm dịu](#2096503275910832461)
 - [Căn hộ lấy cảm hứng từ D4 có thể khám phá trong game](#2096413869841473930)
-- [Trò chơi thành phố trên trình duyệt với nhân vật có sẵn](#2096398839830008292)
 - [Khám phá quỹ đạo trong Hệ Mặt Trời](#2096339041679442428)
 - [Từ logo 2D đến nhân vật chuyển động](#2096559197999501724)
 - [Trò chơi chú cua với cơ chế xoay quanh hành động](#2096337879173591171)
-- [Ngôi làng Đêm đầy sao với chu kỳ ngày đêm](#2096555183790575682)
-- [Giao diện Three.js bám sát thiết kế tham khảo](#2096510126244999366)
 - [Lắp ghép và tạo hoạt ảnh cho các mô hình 3D đã tạo](#2096481425050743048)
+- [Trang đích biển sâu với ánh sáng sinh học](#2096269057544831175)
 
 </details>
 
@@ -213,6 +214,126 @@ Dựng lõi năng lượng, hai vòng và đế kim loại trong Blender. Xuất
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [Bài đăng gốc](https://x.com/oneruofeng/status/2096551010089263181) · [Mã nguồn](https://github.com/wangruofeng/orbital-core-showcase) · [Bản demo](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2096262733259837681"></a>
+
+### Quảng trường Thống Nhất ở Cluj-Napoca bằng voxel
+
+[Dan Manastireanu](https://x.com/danmana) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681"><img src="../assets/previews/6fbb5254f46d92a8688194420483c835fad03380a827128eb4d94e627d32f961.webp" width="840" loading="lazy" alt="Quảng trường Thống Nhất ở Cluj-Napoca bằng voxel"></a>
+
+**Prompt**
+
+```text
+Tạo thế giới voxel tương tác tái hiện Piața Unirii ở Cluj-Napoca. Chuyển bố cục đặc trưng và các địa danh của quảng trường thành mô hình thu nhỏ có thể khám phá.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681) · [Bài đăng gốc](https://x.com/danmana/status/2096262733259837681) · [Mã nguồn](https://github.com/danmana/piata-unirii) · [Bản demo](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2096236137266512181"></a>
+
+### Trình mô phỏng bay trên trình duyệt với vòng lặp bay hoàn chỉnh
+
+[aditya](https://x.com/adxtyahq) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096236137266512181"><img src="../assets/previews/bbb03f5650350e6b4a323f0dd76f98d1abb0cbe94896f2dbe24d68c4bfbf8ce8.jpg" width="840" loading="lazy" alt="Trình mô phỏng bay trên trình duyệt với vòng lặp bay hoàn chỉnh"></a>
+
+Xây dựng máy bay chở khách 3D có thể điều khiển, sân bay, thiết bị bay và vòng lặp trò chơi hoàn chỉnh từ cất cánh đến hạ cánh, bằng toàn bộ prompt do tác giả chia sẻ.
+
+**Prompt**
+
+```text
+Xây dựng từ đầu một game mô phỏng bay 3D trên trình duyệt được hoàn thiện chỉn chu và có thể chơi được.
+
+Mục tiêu là tạo ra một trải nghiệm mô phỏng bay quy mô nhỏ nhưng thực sự có thể chơi, không phải một cảnh 3D tĩnh.
+
+GAMEPLAY
+- Tạo một sân bay với đường băng, đường lăn, nhà ga/các tòa nhà, cỏ/địa hình, vạch sơn và đèn đường băng, bầu trời cùng mây được thể hiện chi tiết.
+- Đặt một máy bay chở khách dễ nhận biết tại sân bay.
+- Người chơi phải có thể điều khiển máy bay bằng bàn phím.
+- Triển khai điều khiển ga, góc ngẩng, lăn, hướng và phanh.
+- Máy bay phải có vật lý bay cơ bản hợp lý, quán tính và khả năng tăng tốc.
+- Người chơi phải có thể tăng tốc trên đường băng, cất cánh, bay quanh sân bay, tiếp cận đường băng và hạ cánh.
+- Thêm một mục tiêu đơn giản: cất cánh, hoàn thành một chuyến bay ngắn quanh sân bay và hạ cánh an toàn.
+- Bao gồm phát hiện va chạm/thất bại và tùy chọn chơi lại.
+
+CONTROLS
+Hiển thị rõ các phím điều khiển:
+- W/S: Góc ngẩng
+- A/D: Lăn
+- Q/E: Hướng
+- Shift/Ctrl: Ga
+- Space: Phanh
+
+CAMERA
+- Sử dụng camera bám đuổi mượt ở góc nhìn người thứ ba, phía sau máy bay.
+- Giữ cho máy bay luôn dễ quan sát trong suốt chuyến bay.
+- Camera phải bám theo chuyển động mượt mà và phản hồi nhẹ theo gia tốc.
+
+HUD
+Tạo HUD phong cách hàng không được hoàn thiện chỉn chu, hiển thị:
+- Tốc độ bay
+- Độ cao
+- Hướng bay
+- Ga
+- Tốc độ lên/xuống
+- Trạng thái chuyến bay
+- Mục tiêu hiện tại
+
+Bao gồm một bảng điều khiển/trợ giúp nhỏ gọn, có thể ẩn đi.
+
+BẮT ĐẦU + KẾT QUẢ
+Tạo màn hình bắt đầu với:
+"MÔ PHỎNG BAY"
+và một nút "BẮT ĐẦU CHUYẾN BAY" nổi bật.
+
+Sau khi hạ cánh thành công, hiển thị:
+- Hoàn thành chuyến bay
+- Chất lượng hạ cánh
+- Thời gian bay
+- Điểm tổng kết
+- Chơi lại
+
+CHẤT LƯỢNG HÌNH ẢNH
+Tạo cảm giác như một game thực thụ:
+- Hình ảnh 3D cách điệu nhất quán
+- Máy bay được thể hiện chi tiết
+- Môi trường sân bay bắt mắt
+- Ánh sáng, bóng đổ và vật liệu chất lượng
+- Mây/khí quyển
+- Tòa nhà sân bay, phương tiện, biển báo, cây cối và các chi tiết môi trường khác khi phù hợp
+- Tránh tạo ra một cảnh trống trải hoặc rõ ràng còn dang dở
+
+FEEDBACK
+Thêm phản hồi hữu ích cho:
+- Trạng thái ga/động cơ
+- Cất cánh
+- Hạ cánh
+- Cảnh báo tốc độ
+- Độ cao
+- Va chạm
+- Hạ cánh thành công
+
+TECHNICAL
+- Xây dựng toàn bộ game có thể hoạt động trong trình duyệt.
+- Không để lại các nút giữ chỗ hoặc tương tác giả.
+- Ưu tiên khả năng điều khiển phản hồi nhanh và hiệu năng mượt mà.
+- Sử dụng các công nghệ web/3D phù hợp hiện có.
+
+QUAN TRỌNG:
+Không dành toàn bộ thời gian để tạo một cảnh tĩnh đẹp mắt. Máy bay PHẢI thực sự điều khiển được và vòng lặp hoàn chỉnh phải hoạt động:
+
+BẮT ĐẦU → TĂNG TỐC → CẤT CÁNH → BAY → TIẾP CẬN → HẠ CÁNH → TÍNH ĐIỂM → CHƠI LẠI
+
+Trước khi hoàn tất, hãy chạy game trên trình duyệt và tự kiểm thử toàn bộ vòng lặp gameplay. Khắc phục các lỗi về điều khiển, vật lý, hình ảnh và tương tác mà bạn phát hiện.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096236137266512181) · [Bài đăng gốc](https://x.com/adxtyahq/status/2096236137266512181) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -432,28 +553,6 @@ Tự chủ thực hiện các giai đoạn này. Bắt đầu bằng phân tích
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096335588727349434) · [Bài đăng gốc](https://x.com/doomdave/status/2096335588727349434) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096338836854804782"></a>
-
-### Dựng hình 3D từ ảnh trên X
-
-[Matt Boyle](https://x.com/MattJamesBoyle) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096338836854804782"><img src="../assets/previews/ea082ba0b96ce2048a717565f743d1448c4bef031ad0585dcdb75aced928fad8.jpg" width="840" loading="lazy" alt="Dựng hình 3D từ ảnh trên X"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096338836854804782"><img src="../assets/previews/26763990c48c54529e71a58e0de45e5ed7ba72f3937e895b52a9f60da4eb0460.png" width="840" loading="lazy" alt="Dựng hình 3D từ ảnh trên X"></a>
-
-Tác giả cho biết họ đã yêu cầu Astra tải Blender xuống và tạo bản dựng 3D dựa trên ảnh trên X của mình, từ đó tạo ra một ảnh đại diện mới.
-
-**Prompt**
-
-```text
-Tải Blender xuống và tạo bản dựng 3D từ ảnh trên X của tôi.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096338836854804782) · [Bài đăng gốc](https://x.com/MattJamesBoyle/status/2096338836854804782) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -904,85 +1003,6 @@ Tạo một thư mục mới và làm một trang slime có thể chơi ngay tr�
 
 ---
 
-<a id="2096814981509775616"></a>
-
-### Rừng 3D thời gian thực siêu chi tiết trên trình duyệt
-
-[Rakib Hossen](https://x.com/rakib_hossen_ai) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096814981509775616"><img src="../assets/previews/07c895f71d234e5fe33db4f12806b3c27102c020c4dab9ec784acb393ac62646.jpg" width="840" loading="lazy" alt="Rừng 3D thời gian thực siêu chi tiết trên trình duyệt"></a>
-
-Prompt nguyên văn để tạo và công khai một khu rừng 3D thời gian thực trên trình duyệt, với độ chi tiết cao, thảm thực vật dày đặc, địa hình đa dạng, hiệu ứng khí quyển, khám phá bằng camera tự do và kiểm tra hình ảnh lặp lại.
-
-**Prompt**
-
-```text
-Trước tiên, hãy tìm kỹ năng "/unlazy", đọc đầy đủ và sử dụng kỹ năng này trong toàn bộ tác vụ.
-
-Hãy xem đây là một dự án dựng hình lớn kéo dài ít nhất 5 giờ. Nếu môi trường cho phép, ưu tiên 8–24 giờ triển khai và lặp lại có ý nghĩa. Không dừng lại sau khi tạo được một cảnh có hình thức khá ổn.
-
-Tạo một khu rừng 3D thời gian thực siêu chi tiết trên trình duyệt. Không có gì khác. Không trang đích, thẻ, cốt truyện, giao diện tiếp thị, bảng điều khiển hay văn bản không cần thiết. Bản thân khu rừng là toàn bộ trải nghiệm.
-
-Đẩy mật độ và chất lượng hình ảnh lên mức cao nhất có thể.
-
-Dựng thật nhiều cỏ chi tiết, cây đa dạng, cành, lá, bụi cây, dương xỉ, rêu, hoa, cỏ dại, rễ cây, gỗ đổ, đá, đất, thảm lá mục, cây nhỏ, địa hình biến đổi và các chi tiết môi trường dù là nhỏ nhất.
-
-Khu rừng phải có cảm giác dày đặc đến mức gần như quá mức. Mặt đất trống cần rất hiếm.
-
-Tập trung cao độ vào:
-silhouette cây chân thực,
-cỏ dày đặc,
-biến thể tài nguyên tự nhiên,
-màu sắc phong phú,
-ánh sáng,
-bóng đổ tiếp xúc,
-gió,
-chuyển động của tán lá,
-chiều sâu khí quyển,
-sương mù,
-tia nắng xuyên qua tán cây,
-hạt hiệu ứng,
-địa hình,
-vật liệu,
-tỷ lệ,
-bố cục,
-và độ chi tiết ở cả khoảng cách gần lẫn xa.
-
-Tránh các tài nguyên lặp lại dễ nhận thấy, thảm thực vật trông như billboard, địa hình lát lặp, cây trôi nổi, vật liệu nhựa, những cây giống hệt nhau, cách rải đối tượng thủ tục thưa thớt, bloom quá mức hoặc diện mạo demo Three.js chung chung.
-
-Bao gồm trải nghiệm khám phá mượt mà bằng camera tự do.
-
-Liên tục chụp và kiểm tra cảnh từ nhiều vị trí. Xác định thảm thực vật yếu, khu vực trống, màu sắc kém, sự lặp lại, vật liệu chất lượng thấp, ánh sáng thiếu chân thực, hình dáng cây xấu, điểm nghẽn hiệu năng và mọi yếu tố làm giảm cảm giác nhập vai. Khắc phục các vấn đề này và tiếp tục nâng cao chất lượng trong suốt quá trình.
-
-Mục tiêu không phải là số lượng tính năng. Mục tiêu là khiến một khu rừng trên trình duyệt trở nên phi lý đến mức ấn tượng về độ chi tiết và bầu không khí.
-
-Dựng toàn bộ trải nghiệm, công khai trên ChatGPT Sites, xác minh bản triển khai và trả về URL công khai.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096814981509775616) · [Bài đăng gốc](https://x.com/rakib_hossen_ai/status/2096814981509775616) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096876083094466863"></a>
-
-### Dựng lại ngôi nhà có thể chỉnh sửa trong Blender từ video tham chiếu
-
-[AiSongMan｜AI Workflow Lab](https://x.com/aisongman) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096876083094466863"><img src="../assets/previews/947904c9cb1e72bc1a0531de36713a96a08bb9f4bef8c6f45f674bf096cd0d16.jpg" width="840" loading="lazy" alt="Dựng lại ngôi nhà có thể chỉnh sửa trong Blender từ video tham chiếu"></a>
-
-Dựng lại kiến trúc, nội thất, cây xanh, vật liệu, ánh sáng và camera của một ngôi nhà trong Blender dựa trên video tham chiếu.
-
-**Prompt**
-
-```text
-Dùng Blender Python API (bpy) để tạo một scene Blender có thể chỉnh sửa dựa trên video tham chiếu. Tái tạo kiến trúc, chi tiết mộc, nội thất, cây xanh, vật liệu, ánh sáng và camera, đồng thời cố gắng khớp mọi chi tiết với video tham chiếu một cách chính xác nhất có thể.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096876083094466863) · [Bài đăng gốc](https://x.com/aisongman/status/2096876083094466863) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="2096907617117540478"></a>
 
 ### Cảnh 3D Hogwarts
@@ -1000,48 +1020,6 @@ Sử dụng Headless Blender để tạo mô hình 3D quy mô lớn, cực kỳ 
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096907617117540478) · [Bài đăng gốc](https://x.com/HiltonMisia/status/2096907617117540478) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096925943575330908"></a>
-
-### Tái tạo quảng cáo sản phẩm bằng Blender và ChatCut
-
-[ChatCut](https://x.com/chatcutapp) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096925943575330908"><img src="../assets/previews/a9f1e309f5e743a28101e732f96b607dbd27c58d442ac05b3b196f0deb54ef12.jpg" width="840" loading="lazy" alt="Tái tạo quảng cáo sản phẩm bằng Blender và ChatCut"></a>
-
-Dùng một quảng cáo tham khảo để định hướng việc dựng mô hình 3D, thiết lập vật liệu, ánh sáng, chuyển động máy quay và biên tập theo từng cảnh trong Blender và ChatCut.
-
-**Prompt**
-
-```text
-Kết nối ChatCut Desktop và Blender trên máy tính của tôi, rồi tái tạo video tham khảo tôi đã cung cấp.
-
-Phân tích kỹ mô hình, vật liệu, ánh sáng, vị trí máy quay, nhịp chuyển động và hoạt ảnh chữ trong từng cảnh. Dùng Blender để tạo hoạt ảnh 3D và ChatCut để biên tập, bám sát video tham khảo nhất có thể.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096925943575330908) · [Bài đăng gốc](https://x.com/chatcutapp/status/2096925943575330908) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096950715277004976"></a>
-
-### Chuyển ảnh thành mô hình 3D và xoay 360°
-
-[Zentrix⌚️](https://x.com/ZentrixHQ) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096950715277004976"><img src="../assets/previews/97e0eb2219fface4eb1761e339ee46e0099540feb84eddf3e2513285374d9d70.jpg" width="840" loading="lazy" alt="Chuyển ảnh thành mô hình 3D và xoay 360°"></a>
-
-Prompt này được tác giả sử dụng với một ảnh để tạo mô hình 3D và xoay mô hình 360°; bản minh họa tạo ra mang phong cách kinh dị 3D.
-
-**Prompt**
-
-```text
-Chuyển ảnh này thành mô hình 3D và xoay 360°.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096950715277004976) · [Bài đăng gốc](https://x.com/ZentrixHQ/status/2096950715277004976) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -1300,28 +1278,6 @@ Con đường rừng dài 12 giây trong Blender
 
 ---
 
-<a id="2096990373813858591"></a>
-
-### Chỉnh sửa cảnh Blender để lắp trụ khía nhám và căn PCB
-
-[Robert Boyd](https://x.com/rboyd) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096990373813858591"><img src="../assets/previews/a8ee5a495643a02333b8f904a4d46c26f8211b6ba6ecb40ba3b2521387e81571.jpg" width="840" loading="lazy" alt="Chỉnh sửa cảnh Blender để lắp trụ khía nhám và căn PCB"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096990373813858591"><img src="../assets/previews/c25a45735c30595705175753c2fc55322a8e0a5327592956caaaf3942b53f511.png" width="840" loading="lazy" alt="Chỉnh sửa cảnh Blender để lắp trụ khía nhám và căn PCB"></a>
-
-Một prompt được trích dẫn yêu cầu Astra chỉnh sửa cảnh Blender: loại bỏ vật liệu để lắp vừa các trụ M3 ren trong hai đầu có đầu khía nhám, đồng thời làm sâu hơn khe PCB để các lỗ vít thẳng hàng và đưa một mẫu trụ phù hợp vào cảnh.
-
-**Prompt**
-
-```text
-Gần như hoàn hảo. 1) Xem hình tại ~/Desktop/remove_material_for_knurled_ends.png — chúng ta cần loại bỏ đủ vật liệu ở đây để các đầu khía nhám của trụ M3 ren trong hai đầu nằm phẳng với bề mặt. Hãy thử tìm mẫu STL hoặc STEP của loại trụ này có đầu khía nhám và đưa nó vào cảnh Blender. 2) Xem ~/Desktop/deepen_pcb_slot.png. Khe dành cho PCB nông hơn khoảng 1 mm (tức là tôi cần đẩy PCB vào chi tiết sâu hơn khoảng 1 mm, nên hãy loại bỏ vật liệu) để các lỗ vít thẳng hàng.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096990373813858591) · [Bài đăng gốc](https://x.com/rboyd/status/2096990373813858591) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="2097004192627933279"></a>
 
 ### Thú cưng robot tương tác trên bàn làm việc
@@ -1577,26 +1533,6 @@ hãy dựng nó, rồi cho tôi biết ba điều bạn sẽ sửa đầu tiên.
 
 ---
 
-<a id="2097057316138832282"></a>
-
-### Dựng mô hình 3D chi tiết cho một ngôi nhà
-
-[silvan](https://x.com/silvanrec) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097057316138832282"><img src="../assets/previews/74346c42eb8d47709ba800a4e437c9eaf2a54ccf6d547f4932ff8193cf2987f2.jpg" width="840" loading="lazy" alt="Dựng mô hình 3D chi tiết cho một ngôi nhà"></a>
-
-Bài đăng giới thiệu mô hình 3D có thể chỉnh sửa của một ngôi nhà có thật, bao gồm đồ chơi, thiết bị gia dụng và đồ nội thất. Mô hình được tạo từ một bức ảnh và mở trong Blender.
-
-**Prompt**
-
-```text
-Dựng lại hình ảnh này thành mô hình 3D chi tiết, bao gồm đồ chơi, thiết bị gia dụng và đồ nội thất
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097057316138832282) · [Bài đăng gốc](https://x.com/silvanrec/status/2097057316138832282) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="2097065330728128920"></a>
 
 ### Cây chanh vàng thạch tương tác
@@ -1795,40 +1731,6 @@ Tạo một game giống hệt 《Liên Minh Huyền Thoại》. Game cần có 
 
 ---
 
-<a id="2097339176094195899"></a>
-
-### Playroom: Arcade trình duyệt 3D retro
-
-[Tripo](https://x.com/tripoai) · 2026-09-08
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097339176094195899"><img src="../assets/previews/a50398d5761279d4c67fa425f175dd71bdd68472435b1df9f4c8e703c7edb035.jpg" width="840" loading="lazy" alt="Playroom: Arcade trình duyệt 3D retro"></a>
-
-Prompt nguyên văn do tác giả đăng để xây dựng một arcade trình duyệt Three.js hoàn chỉnh, có thể chơi được, với các tài sản phần cứng GLB riêng biệt, chuyển cảnh 3D tương tác, ba trò chơi dùng băng game, điều khiển thích ứng và hành vi dự phòng hỗ trợ khả năng tiếp cận.
-
-**Prompt**
-
-```text
-Xây dựng một arcade trình duyệt hoàn chỉnh, có thể chơi được, mang tên “Playroom”, với thẩm mỹ phần cứng hoài cổ cuối thập niên 1980 và giao diện biên tập đương đại, tiết chế. Dùng Three.js để kết xuất và tải các tài sản GLB riêng biệt cho màn hình CRT, máy console, tay cầm và băng game. Tạo một trải nghiệm hoạt động đầy đủ, không phải bản mô phỏng tĩnh.
-
-Định hướng nghệ thuật: sử dụng nền trắng ngà ấm, nhựa màu ngà hơi cũ, các chi tiết màu than, xanh sage dịu, đất nung trầm và xanh lam phai. Kết hợp tiêu đề bằng Space Grotesk với nhãn nhỏ bằng DM Mono. Thêm các đường phân cách mảnh, khoảng trắng rộng rãi, chú thích kỹ thuật tinh tế và điều hướng gọn. Tránh phong cách cyberpunk neon, các thẻ bảng điều khiển bóng loáng và lạm dụng chuyển màu.
-
-Trang chủ nên giống một bức ảnh chụp sản phẩm được sắp đặt cẩn thận. Đặt màn hình CRT nổi bật về phía bên phải, máy console về phía bên trái, một băng game dựng đứng được gắn chắc chắn trên máy console và tay cầm ở phía trước. Nối các thiết bị bằng những sợi cáp cong, kết nối đúng với các cổng thực tế của chúng. Sử dụng ánh sáng định hướng mềm, bóng tiếp xúc thuyết phục, các cạnh bo tròn và vật liệu nhựa hơi nhám. Ngăn các vật thể giao cắt nhau.
-
-Tạo cho trang chủ chuyển động quỹ đạo chậm, mang tính điện ảnh, từ bên này sang bên kia. Cho phép người dùng kéo để xoay góc nhìn, sau đó chuyển mượt về chuyển động tự động. Thêm các xung dữ liệu tiết chế, di chuyển chậm quanh một số chi tiết phần cứng được chọn. CRT phải hiển thị một cảnh chờ pixel art lặp lại, có linh vật nhỏ, hiệu ứng scanline tinh tế và kiểu chữ “PLAYER ONE”. Sử dụng chính xác logo chữ T màu vàng và chữ V màu trắng được cung cấp trên khuôn mặt các linh vật.
-
-Một nút “POWER ON” nổi bật hoặc thao tác nhấp vào cảnh máy console phải bắt đầu một chuỗi chuyển cảnh liên tục. Đưa camera tiến dần về phía màn hình CRT, tạo một luồng dữ liệu động và từ từ mở rộng cảnh để phủ kín toàn bộ khung nhìn. Luôn phủ kín các cạnh trên và dưới trong suốt quá trình. Hiển thị bộ sưu tập băng game qua một chuyển cảnh mượt từ tối sang sáng, không dùng lớp phủ đột ngột xuất hiện hay cú nhảy camera gấp.
-
-Bộ sưu tập gồm ba băng game dựng đứng, khác biệt rõ ràng: Snake màu sage, Breakout màu đất nung và Blocks màu xanh lam. Mỗi băng có kiểu chữ bìa sắc nét cùng một linh vật nhỏ hoạt ảnh ngồi phía trên. Dùng chuyển động nhấp nhô tinh tế, hiệu ứng nâng khi rê chuột và độ nghiêng nhẹ nhàng. Hỗ trợ cả thao tác nhấp vào băng game 3D lẫn các nút văn bản dễ tiếp cận bên dưới.
-
-Mỗi lựa chọn sẽ mở một giao diện trò chơi có thể chơi được. Snake có chuỗi thức ăn và trái cây thưởng theo thời gian. Breakout có nhiều bố cục gạch cùng vật phẩm tăng sức mạnh cho thanh đỡ hoặc chế độ nhiều bóng. Blocks có phần xem trước khối tiếp theo, bóng mờ vị trí hạ xuống và tính điểm khi xóa hàng. Cung cấp hướng dẫn rõ ràng, điểm số, chức năng tạm dừng, khởi động lại và điều hướng quay về. Hỗ trợ điều khiển bằng bàn phím và các nút cảm ứng, đồng thời lưu điểm cao nhất trên thiết bị.
-
-Giữ nội dung màn hình và nhãn băng game dưới dạng các kết cấu runtime riêng biệt để văn bản luôn sắc nét. Bảo toàn tên các bộ phận mô hình để phục vụ tương tác và hoạt ảnh linh vật. Bổ sung phản hồi khi tải, phương án dự phòng có thể sử dụng nếu tài sản 3D không tải được, bố cục thích ứng, trạng thái focus bàn phím hiển thị rõ ràng và hỗ trợ giảm chuyển động. Tổ chức dự án gọn gàng, kiểm tra cả ba trò chơi và các chuyển cảnh, đồng thời chuẩn bị sẵn để triển khai trên GitHub và Vercel.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097339176094195899) · [Bài đăng gốc](https://x.com/tripoai/status/2097339176094195899) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="2097343467026289039"></a>
 
 ### Thế giới hồ đất ngập nước ấm cúng
@@ -1866,27 +1768,6 @@ Dựng một cảnh trong Blender trông như đoạn ghi hình VHS dưới góc
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097534290112188602) · [Bài đăng gốc](https://x.com/chrisfirst/status/2097534290112188602) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2097588270171660321"></a>
-
-### Dựng lại cảnh 3D từ video tham chiếu bằng Three.js
-
-[Henry Li](https://x.com/henry19840301) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097588270171660321"><img src="../assets/previews/063337844500a06926ea87505df32746fd9b06e308cf92109568d0b13b2232f2.jpg" width="840" loading="lazy" alt="Dựng lại cảnh 3D từ video tham chiếu bằng Three.js"></a>
-
-Prompt tái tạo các đối tượng 3D, cảnh, chuyển động, ánh sáng, vật liệu và bóng đổ trong video bằng Three.js, kèm phần so sánh MP4 đặt cạnh nhau trên cùng một trang.
-
-**Prompt**
-
-```text
-/goal dựng các đối tượng 3D và cảnh giống hệt trong Three.js, đồng thời tái tạo chính xác chuyển động từ video, bao gồm ánh sáng, vật liệu, bóng đổ, v.v.
-Trên cùng một trang, thêm phần so sánh MP4 đặt cạnh nhau.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097588270171660321) · [Bài đăng gốc](https://x.com/henry19840301/status/2097588270171660321) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -2063,29 +1944,6 @@ Nghiên cứu các sách về sản xuất tinh gọn của @AirsupHQ, phát tri
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097730920224534868) · [Bài đăng gốc](https://x.com/konstantinsaifo/status/2097730920224534868) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2097755845001937172"></a>
-
-### Mô phỏng địa hình sân golf 18 hố
-
-[Rory Flynn](https://x.com/Ror_Fly) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097755845001937172"><img src="../assets/previews/8e002ab8ef0a47379b651aee5b3e38702f31b065040adf68fd55f2db7fb5a7f3.jpg" width="840" loading="lazy" alt="Mô phỏng địa hình sân golf 18 hố"></a>
-
-Yêu cầu mô phỏng việc xây dựng một sân golf 18 hố tại một địa điểm thực tế bằng bản đồ và dữ liệu địa hình thực tế, với các hố được bố trí phù hợp với địa hình tự nhiên.
-
-**Prompt**
-
-```text
-Mô phỏng việc xây dựng một sân golf 18 hố
->Tìm một địa điểm thực tế
->Sử dụng bản đồ + dữ liệu địa hình thực tế
-> Bố trí các hố phù hợp với địa hình tự nhiên
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097755845001937172) · [Bài đăng gốc](https://x.com/Ror_Fly/status/2097755845001937172) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -2338,69 +2196,6 @@ Trong Blender, hãy tạo tàu vận chuyển dân dụng cơ bản của Sol Ho
 
 ---
 
-<a id="2098371778234179766"></a>
-
-### Quy trình sản xuất màn rượt đuổi ô tô 3D phong cách GTA
-
-[はさまるスタジオ (Hasamaru Studio)](https://x.com/hasamaru_studio) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098371778234179766"><img src="../assets/previews/6dc9ff60afd9d91d7ba17fa714e81e7d254847f878ad17f736d2dee8628e0ec5.jpg" width="840" loading="lazy" alt="Quy trình sản xuất màn rượt đuổi ô tô 3D phong cách GTA"></a>
-
-Đây là prompt yêu cầu tạo một màn rượt đuổi ô tô 3D nguyên bản phong cách GTA: dựng gray model, rig nhân vật và xe, làm animation cùng video master dài 12 giây trong Blender, sau đó hoàn thiện từng shot bằng plugin PixVerse.
-
-**Prompt**
-
-```text
-Hãy tạo một màn rượt đuổi ô tô 3D nguyên bản phong cách GTA theo quy trình dưới đây.
-
-【Thiết kế】
-Thiết lập một tài xế chính, một xe bỏ chạy, một xe truy đuổi và một bối cảnh đô thị; bảo đảm thiết kế của tất cả các thành phần nhất quán. Lên kế hoạch cho tổng cộng 3 shot, mỗi shot dài 4 giây.
-・Shot truy đuổi xe từ phía sau
-・Shot bám theo xe từ bên hông khi xe ôm cua gấp
-・Shot góc rộng ghi lại cảnh các xe chạy khuất dần
-
-【Dựng trong Blender】
-Hãy tạo gray model gọn gàng cùng rig nhân vật và xe có thể điều khiển. Không cần texture hay UV unwrap.
-
-【Animation và kiểm thử】
-Hãy animate tài xế, thao tác vô-lăng, chuyển động quay của bánh xe, xe và camera. Bảo đảm hướng di chuyển cũng như quan hệ trước-sau giữa các xe luôn nhất quán; khắc phục hiện tượng xuyên mesh, bánh xe bị lơ lửng, lốp trượt bất thường, pose bị biến dạng và tay rời khỏi vô-lăng.
-
-【Render trong Blender】
-Hãy render frame 1–288 ở độ phân giải 1280×720, 24fps. Ghép các frame thực sự được render trong Blender để tạo video master gray model dài 12 giây. Xuất từng shot riêng lẻ, đồng thời render ảnh tĩnh gray tương ứng để tham chiếu hình khối và bố cục.
-
-【Hoàn thiện bằng plugin PixVerse】
-Sử dụng Seedance 2.5 ở 720p và xử lý từng shot riêng lẻ. Dùng video Blender làm tham chiếu chuyển động và ảnh tĩnh gray làm tham chiếu hình khối. Trong prompt tạo video, hãy chỉ định bảng màu nhất quán cho toàn bộ footage. Giữ nguyên chuyển động camera, nhịp hành động, thiết kế nhân vật và xe, cũng như số lượng xe.
-
-【Kiểm tra và bàn giao】
-Kiểm tra cả hai video hoàn thiện, rà soát lỗi hình ảnh và độ liền mạch giữa các shot. Sửa các vấn đề ở phía Blender và chỉ tạo lại những shot thất bại khi xử lý bằng Seedance. Mỗi shot được thử lại tối đa 2 lần.
-
-Bàn giao file .blend có thể chỉnh sửa, video gray model Blender 720p bản gốc, video 720p ghi rõ là bản Seedance và một bản đánh giá ngắn gọn về các hạn chế còn lại.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098371778234179766) · [Bài đăng gốc](https://x.com/hasamaru_studio/status/2098371778234179766) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2098374138092277920"></a>
-
-### Mô hình 3D tương tác cho thiết kế nội thất phòng
-
-[Roma Kumakura](https://x.com/RomaKumakura) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098374138092277920"><img src="../assets/previews/3502ac27242d7b63b0f3046fd7941c2f37ca1677492b8e5ddd2f45a157080751.jpg" width="840" loading="lazy" alt="Mô hình 3D tương tác cho thiết kế nội thất phòng"></a>
-
-Yêu cầu tạo một sản phẩm thiết kế nội thất 3D tương tác, tái hiện đúng kích thước căn phòng và cho phép kéo thả đồ nội thất để thay đổi cách bố trí. Sản phẩm cũng giới thiệu các phương án cải tạo theo từng phong cách, tùy chọn ngân sách và khả năng kiểm tra góc chụp.
-
-**Prompt**
-
-```text
-Cuối cùng, hãy tạo một sản phẩm giúp tôi dễ dàng hiểu phương án thiết kế nội thất, biết cần mua gì và nên bố trí như thế nào.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098374138092277920) · [Bài đăng gốc](https://x.com/RomaKumakura/status/2098374138092277920) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="2098403061463224543"></a>
 
 ### Cảnh mô hình thu nhỏ 3D dạng lập thể của ngôi đền
@@ -2441,6 +2236,24 @@ Mô hình bé gái chơi robot được lắp ráp hoàn chỉnh, đội mũ cô
 
 ---
 
+<a id="2096251574918013135"></a>
+
+### Kaiju giao chiến trong thành phố
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/previews/8f55d646820e4f1f0b98d00cdc85125c79f19093abe73bc0cecdfbf2e2365e50.webp" width="840" loading="lazy" alt="Kaiju giao chiến trong thành phố"></a>
+
+**Prompt**
+
+```text
+Dựng game Three.js lấy cảm hứng kaiju bằng mô hình sinh vật và hiệu ứng âm thanh đã tạo. Làm chiến đấu quy mô khổng lồ dễ hiểu và môi trường thể hiện rõ kích thước quái vật.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/kaiju-city-battle-2096251574918013135) · [Bài đăng gốc](https://x.com/majidmanzarpour/status/2096251574918013135) · [Bản demo](https://stormcolossus.netlify.app/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="2096525100518453342"></a>
 
 ### Chuyển đổi biểu cảm nhân vật trong Blender
@@ -2456,6 +2269,168 @@ Chuẩn bị các phiên bản biểu cảm của nhân vật Tripo trong Blende
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [Bài đăng gốc](https://x.com/Dstudio_ai/status/2096525100518453342) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2096225621303042258"></a>
+
+### Mô phỏng hội ngộ quỹ đạo
+
+[Alican Kiraz](https://x.com/AlicanKiraz0) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/orbital-rendezvous-simulator-2096225621303042258"><img src="../assets/previews/42e7d7821256b5c0e0d6ef4267f582a3a9406817642abaecae99cc2e479b733f.webp" width="840" loading="lazy" alt="Mô phỏng hội ngộ quỹ đạo"></a>
+
+**Prompt**
+
+```text
+Dựng mô phỏng hội ngộ quỹ đạo thời gian thực bằng lan truyền hai vật thể ECI và dẫn đường HCW. Có định hướng sáu bậc tự do, tiêu hao nhiên liệu, giới hạn lực và mục tiêu ghép nối.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/orbital-rendezvous-simulator-2096225621303042258) · [Bài đăng gốc](https://x.com/AlicanKiraz0/status/2096225621303042258) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2096245759121277132"></a>
+
+### Website studio 3D theo cuộn trang
+
+[ui.debbie](https://x.com/mx_debbiee) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132"><img src="../assets/previews/a315174ac48f5392bb9a0a9ecb0f7948a9a2d1bf33f9f32f4cdfdb6c553a89ff.webp" width="840" loading="lazy" alt="Website studio 3D theo cuộn trang"></a>
+
+**Prompt**
+
+```text
+Biến ảnh tham chiếu thành cảnh Three.js trong website studio điều khiển bằng cuộn mượt. Đồng bộ chuyển động camera, chữ và chuyển giữa các phần.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [Bài đăng gốc](https://x.com/mx_debbiee/status/2096245759121277132) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2096244208533455049"></a>
+
+### Komorebi: chèo kayak trên sông
+
+[AJ](https://x.com/ItsmeAjayKV) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/komorebi-river-kayaking-2096244208533455049"><img src="../assets/previews/177462bb87e3089acbf23e2e6f58e75e4fa5cb7291601fdce6da2a3fb5f2b6af.webp" width="840" loading="lazy" alt="Komorebi: chèo kayak trên sông"></a>
+
+**Prompt**
+
+```text
+Dựng game chèo kayak 3D mang thẩm mỹ anime. Cho người chơi chèo trái phải để tránh vật cản, với nước chảy, phong cảnh, nhạc và hiệu ứng âm thanh đều tạo bằng mã.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [Bài đăng gốc](https://x.com/ItsmeAjayKV/status/2096244208533455049) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2096243989439713677"></a>
+
+### Câu chuyện sản phẩm với chai khúc xạ
+
+[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/refractive-bottle-product-story-2096243989439713677"><img src="../assets/previews/0752e3417e975ec333d58ef948643def758c883afb543c38e664b40f45d11b43.webp" width="840" loading="lazy" alt="Câu chuyện sản phẩm với chai khúc xạ"></a>
+
+**Prompt**
+
+```text
+Dựng website sản phẩm tương tác quanh chai thủy tinh WebGL chân thực. Dùng chất lỏng khúc xạ, xoay theo cuộn và chữ mạnh, đồng thời giữ hiệu năng trình duyệt.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [Bài đăng gốc](https://x.com/himanshubuildss/status/2096243989439713677) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2096250748099068377"></a>
+
+### Demo Hyperloop tương tác
+
+[Amir](https://x.com/hbanay98) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-hyperloop-demo-2096250748099068377"><img src="../assets/previews/6fe7e10c4907c28861e51727de19f2b115f6c9d7ffab6b0288b6cb0fc8f250e2.webp" width="840" loading="lazy" alt="Demo Hyperloop tương tác"></a>
+
+**Prompt**
+
+```text
+Dựng demo Hyperloop tương tác bằng Three.js, thể hiện khoang vận chuyển, hạ tầng ống và chuyển động qua hệ thống.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [Bài đăng gốc](https://x.com/hbanay98/status/2096250748099068377) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2096234355395903672"></a>
+
+### Tượng bán thân Napoleon thủ tục
+
+[Le PLOUTOS](https://x.com/leploutos) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/procedural-napoleon-bust-2096234355395903672"><img src="../assets/previews/fda483263b1b7468f091f1798d7841bcfb9b983bc7659ca2ef491c23f3bbc948.webp" width="840" loading="lazy" alt="Tượng bán thân Napoleon thủ tục"></a>
+
+**Prompt**
+
+```text
+Viết mã tạo tượng bán thân Napoleon 3D trong Three.js. Dựng theo giai đoạn, xem từ nhiều góc rồi tinh chỉnh tỷ lệ mặt và chi tiết trang phục.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [Bài đăng gốc](https://x.com/leploutos/status/2096234355395903672) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2096226711222546461"></a>
+
+### Sảnh ga đường sắt
+
+[Wormhole404](https://x.com/0xWormhole404) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/railway-station-concourse-2096226711222546461"><img src="../assets/previews/ec572c18e5e02ac65512d6d72ffe09c5afb807b131336ac8b75d13aefb86899c.webp" width="840" loading="lazy" alt="Sảnh ga đường sắt"></a>
+
+**Prompt**
+
+```text
+Tạo sảnh ga có nhịp kiến trúc mạnh, tỷ lệ hợp lý và vật liệu thuyết phục. Tạo cảnh 3D quan sát được với khung hình ga được dàn dựng cẩn thận.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/railway-station-concourse-2096226711222546461) · [Bài đăng gốc](https://x.com/0xWormhole404/status/2096226711222546461) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2096258619574513880"></a>
+
+### Vật lý đua xe trình duyệt bằng C# và WASM
+
+[achepta](https://x.com/achepta_tm) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880"><img src="../assets/previews/da595232495fdcdcd646614361e119ff7b780672c6c697364c0197cc19302fd1.webp" width="840" loading="lazy" alt="Vật lý đua xe trình duyệt bằng C# và WASM"></a>
+
+**Prompt**
+
+```text
+Tái tạo hệ vật lý đua xe kiểu Trackmania bằng C#, chạy qua WASM và render đường đua trong Three.js. Dùng mesh đường đua có va chạm và kiểm tra cảm giác lái.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Bài đăng gốc](https://x.com/achepta_tm/status/2096258619574513880) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2096241295949975602"></a>
+
+### Máy viên nang ký ức
+
+[Gloria Zhang](https://x.com/gloria_zwq) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/memory-capsule-machine-2096241295949975602"><img src="../assets/previews/2623ee6ae5ad1e80ed6af68f48f0ef33bb34a6fc638f5fd6d55f8ab0de7b3625.webp" width="840" loading="lazy" alt="Máy viên nang ký ức"></a>
+
+**Prompt**
+
+```text
+Dựng máy viên nang ký ức 3D. Xoay núm để thả một ký ức, mô hình hóa cơ cấu trong Blender và cho viên nang rơi với chuyển động, âm thanh hợp lý.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/memory-capsule-machine-2096241295949975602) · [Bài đăng gốc](https://x.com/gloria_zwq/status/2096241295949975602) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -2621,6 +2596,24 @@ Dùng mặt bằng tầng trên cùng của ngôi nhà để dựng cảnh Blend
 
 ---
 
+<a id="2096298425914450021"></a>
+
+### Quảng trường Terreiro do Paço tại Lisbon trong Blender
+
+[Gonçalo Canhoto 🇵🇹](https://x.com/goncalo_canhoto) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021"><img src="../assets/previews/1a02f9822127ff717210634691346b1137e87f5e721498e19a61a744e480a3be.webp" width="840" loading="lazy" alt="Quảng trường Terreiro do Paço tại Lisbon trong Blender"></a>
+
+**Prompt**
+
+```text
+Tái hiện Terreiro do Paço tại Lisbon dưới dạng cảnh Blender có thể chỉnh sửa. Nghiên cứu tư liệu tham khảo để định hướng kiến trúc, vật liệu và ánh sáng của quảng trường.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021) · [Bài đăng gốc](https://x.com/goncalo_canhoto/status/2096298425914450021) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="2096574297703637111"></a>
 
 ### Nhiệm vụ khám phá The Quiet Crossing
@@ -2636,6 +2629,24 @@ Xây dựng trò chơi khám phá vùng tuyết bằng Three.js với nhân vậ
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111) · [Bài đăng gốc](https://x.com/Motion_Viz/status/2096574297703637111) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2096263046918197609"></a>
+
+### Khu rừng rậm tạo bằng thuật toán trong Three.js
+
+[Leon Lin](https://x.com/LexnLin) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609"><img src="../assets/previews/f2a686fc1b131953cac41cec39c2492f871a7987eae5f2606755fddb83401adb.webp" width="840" loading="lazy" alt="Khu rừng rậm tạo bằng thuật toán trong Three.js"></a>
+
+**Prompt**
+
+```text
+Tạo một khu rừng Three.js chi tiết với hàng nghìn cây, cỏ dày và dương xỉ. Dùng shader tùy chỉnh và cơ chế lặp hình học hiệu quả để giữ độ chi tiết trên toàn cảnh.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609) · [Bài đăng gốc](https://x.com/LexnLin/status/2096263046918197609) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -2949,7 +2960,7 @@ Biến căn phòng riêng thành website tự giới thiệu có tính tương t
 
 ### Thuyền YF-24 trên mặt biển 3D êm dịu
 
-[yhmtmt](https://x.com/yhmtmt1) · 2026-09-06
+[Yohei Matsumoto](https://x.com/yhmtmt1) · 2026-09-06
 
 <a href="https://www.tripo3d.ai/vi/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"><img src="../assets/previews/8369341108c9ee030167ffe4e426974a0417136cb0c8a95b91084dcbccc26480.webp" width="840" loading="lazy" alt="Thuyền YF-24 trên mặt biển 3D êm dịu"></a>
 
@@ -2978,24 +2989,6 @@ Nghiên cứu căn hộ của nhân vật chính trong D4 và tái dựng thành
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/playable-d4-inspired-apartment-2096413869841473930) · [Bài đăng gốc](https://x.com/Swery65/status/2096413869841473930) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096398839830008292"></a>
-
-### Trò chơi thành phố trên trình duyệt với nhân vật có sẵn
-
-[DJ RIO \| REALITY](https://x.com/djrio_vr) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/browser-city-game-with-a-supplied-character-2096398839830008292"><img src="../assets/previews/2b020e0fc8275195843fe93dfea7923e440940671c21060866aa6fd429e471e9.webp" width="840" loading="lazy" alt="Trò chơi thành phố trên trình duyệt với nhân vật có sẵn"></a>
-
-**Prompt**
-
-```text
-Xây dựng trò chơi thành phố WebGL dùng RIO_MA002.fbx làm nhân vật người chơi. Dựng xe cộ và đường phố trong Blender theo tư liệu tham khảo, rồi cải thiện NPC, vật lý lái xe, đạo cụ có thể phá hủy và khu ngoại ô.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/browser-city-game-with-a-supplied-character-2096398839830008292) · [Bài đăng gốc](https://x.com/djrio_vr/status/2096398839830008292) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3053,42 +3046,6 @@ Xây dựng trò chơi chú cua bằng Three.js từ bản yêu cầu có cấu 
 
 ---
 
-<a id="2096555183790575682"></a>
-
-### Ngôi làng Đêm đầy sao với chu kỳ ngày đêm
-
-[Firisis](https://x.com/Firisis_) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/starry-night-village-with-a-day-night-cycle-2096555183790575682"><img src="../assets/previews/996c7433def5bbb3d45ccc962a820224ea443e32125c8fbd1024549df900256c.webp" width="840" loading="lazy" alt="Ngôi làng Đêm đầy sao với chu kỳ ngày đêm"></a>
-
-**Prompt**
-
-```text
-Biến bức Đêm đầy sao của Van Gogh thành ngôi làng 3D có thể khám phá, với cư dân, ánh sáng và chu kỳ ngày đêm. Kết xuất một bộ phim ngắn đi qua thế giới đã hoàn thiện.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/starry-night-village-with-a-day-night-cycle-2096555183790575682) · [Bài đăng gốc](https://x.com/Firisis_/status/2096555183790575682) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096510126244999366"></a>
-
-### Giao diện Three.js bám sát thiết kế tham khảo
-
-[Meng To](https://x.com/MengTo) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/reference-matched-three-js-interface-2096510126244999366"><img src="../assets/previews/56897f733e8ee248d50edff98d7a754fe404431e8be64d2093a85e9fc7b42c64.webp" width="840" loading="lazy" alt="Giao diện Three.js bám sát thiết kế tham khảo"></a>
-
-**Prompt**
-
-```text
-Tái hiện thiết kế tham khảo trong một tệp HTML bằng Three.js. Liên tục so sánh kết quả và sửa các khác biệt; tinh chỉnh ánh sáng, độ sâu của mô hình và các nút điều khiển dạng kính, kèm hiệu ứng nhẹ phản hồi theo con trỏ.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/reference-matched-three-js-interface-2096510126244999366) · [Bài đăng gốc](https://x.com/MengTo/status/2096510126244999366) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="2096481425050743048"></a>
 
 ### Lắp ghép và tạo hoạt ảnh cho các mô hình 3D đã tạo
@@ -3107,10 +3064,28 @@ Tạo tài nguyên 3D đã tối ưu bằng Tripo P2, lắp ghép trong Blender,
 
 ---
 
+<a id="2096269057544831175"></a>
+
+### Trang đích biển sâu với ánh sáng sinh học
+
+[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175"><img src="../assets/previews/15b86aef756eda74957965d57ff6104a61d7fcc04cad37581a49726ef5f363aa.webp" width="840" loading="lazy" alt="Trang đích biển sâu với ánh sáng sinh học"></a>
+
+**Prompt**
+
+```text
+Xây dựng trang đích biển sâu với hiệu ứng nước Three.js, giao diện kính tối màu và chuyển động theo thao tác cuộn. Kết hợp bầu không khí 3D với tương tác website rõ ràng, thích ứng với các kích thước màn hình.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175) · [Bài đăng gốc](https://x.com/himanshubuildss/status/2096269057544831175) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 225 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 205 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

@@ -27,12 +27,13 @@
 
 探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。
 
-**225 条案例 · 14 种语言 · 8 条附项目源码**
+**205 条案例 · 14 种语言 · 8 条附项目源码**
 
 ## 精选作品
 
 <table>
 <tr>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/zh/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="assets/featured/2096251574918013135.webp" width="420" loading="lazy" alt="怪兽城市战斗"></a><br><strong><a href="#2096251574918013135">怪兽城市战斗</a></strong><br><sub><a href="https://x.com/majidmanzarpour/status/2096251574918013135">Majid Manzarpour</a></sub><br><a href="#2096251574918013135">提示词 →</a></td>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/zh/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="assets/featured/2096525100518453342.webp" width="420" loading="lazy" alt="Blender 角色表情切换"></a><br><strong><a href="#2096525100518453342">Blender 角色表情切换</a></strong><br><sub><a href="https://x.com/Dstudio_ai/status/2096525100518453342">Nano(ナノ)</a></sub><br><a href="#2096525100518453342">提示词 →</a></td>
 </tr>
 </table>
@@ -47,8 +48,9 @@
 - [交互式 3D 粒子对撞机](#2097781208596029936) · GitHub
 - [Mosswing：移动端 3D 点击振翅游戏](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
 - [双环能量核心交互展示](#2096551010089263181) · GitHub
+- [体素克卢日-纳波卡联合广场](#2096262733259837681) · GitHub
+- [完整起降流程的浏览器飞行模拟器](#2096236137266512181)
 - [在 Blender 中重建可编辑的写实巨龙](#2096335588727349434)
-- [X 图片的 3D 渲染图](#2096338836854804782)
 - [从角色概念到 3D 建模、绑定与动画](#2096342420543660277)
 - [可玩的3D乐团与音频同步动画](#2096354461652488562)
 - [在 Blender 中创建并渲染黑洞](#2096391653669953761)
@@ -65,18 +67,12 @@
 - [可交互的手机拆解展示](#2096685163111694556)
 - [使用 Blender MCP 制作 LEGO 人仔游戏资产](#2096766465730847059)
 - [使用 Three.js 和 WebGPU 制作可交互的软体史莱姆](#2096793432987464010)
-- [浏览器中的超高细节实时 3D 森林](#2096814981509775616)
-- [根据参考视频重建可编辑的 Blender 房屋](#2096876083094466863)
 - [霍格沃茨 3D 场景](#2096907617117540478)
-- [用 Blender 和 ChatCut 重现产品广告](#2096925943575330908)
-- [将图像转换为 3D 模型并旋转 360°](#2096950715277004976)
 - [Three.js WebGPU 无尽微缩街景](#2096956214680965501)
 - [《重力失常的地平线》VRChat 景观世界](#2096966425017467344)
 - [可交互的中式庭院](#2096971051334857181)
 - [Blender：12 秒森林小路](#2096986557244723371)
-- [编辑 Blender 场景以适配滚花支柱和 PCB](#2096990373813858591)
 - [工作台上的机器人宠物](#2097004192627933279)
-- [房屋三维精细建模](#2097057316138832282)
 - [互动果冻柠檬树](#2097065330728128920)
 - [在 Godot 中为跖行式机甲绑定骨骼并制作动画](#2097123382852829230)
 - [日式花店拆解与复原动画](#2097153139795468365)
@@ -85,15 +81,12 @@
 - [复刻《英雄联盟》的迷你版3D游戏](#2097320830602809682)
 - [北京天坛祈年殿 TypeScript + Three.js WebGL 项目](#2097323734504017936)
 - [复刻《英雄联盟》的网页版游戏](#2097336230078013598)
-- [Playroom：复古 3D 浏览器街机](#2097339176094195899)
 - [温馨湿地湖泊世界](#2097343467026289039)
 - [Blender 后室风格 VHS 场景](#2097534290112188602)
-- [基于视频参考在 Three.js 中重建 3D 场景](#2097588270171660321)
 - [沉浸式 3D 稻田网站](#2097602565110419781)
 - [GPT-6 Astra与Blender搭建机械臂追猫喜剧场景](#2097675660873605422)
 - [构建 THE LAST GATE：带算术门的人群跑酷](#2097678911882809407)
 - [实时 3D 工厂发射台模拟](#2097730920224534868)
-- [18洞高尔夫球场地形模拟](#2097755845001937172)
 - [支持多人游戏的 Minecraft 克隆版](#2097797479488246071)
 - [互动奇幻画面演示](#2097821164093480999)
 - [无对白 3D 猫咪短片](#2097900087901106244)
@@ -103,11 +96,19 @@
 - [城市脉动](#2098063352832610473)
 - [浮空魔法学院动画](#2098071577309122854)
 - [Sol Horizon 初始民用快递飞船](#2098225609558335846)
-- [GTA风格3D追车制作流程](#2098371778234179766)
-- [室内设计交互式 3D 模型](#2098374138092277920)
 - [寺庙微缩立体模型场景](#2098403061463224543)
 - [玩机器人的小女孩手办](#2098406473273663992)
+- [怪兽城市战斗](#2096251574918013135)
 - [Blender 角色表情切换](#2096525100518453342)
+- [轨道交会对接模拟](#2096225621303042258)
+- [滚动驱动的 3D 工作室网站](#2096245759121277132)
+- [Komorebi 河流皮划艇](#2096244208533455049)
+- [折射玻璃瓶产品叙事](#2096243989439713677)
+- [交互式超级高铁演示](#2096250748099068377)
+- [程序化拿破仑半身像](#2096234355395903672)
+- [铁路车站大厅](#2096226711222546461)
+- [C# 与 WASM 浏览器赛车物理](#2096258619574513880)
+- [记忆扭蛋机](#2096241295949975602)
 - [Unity 魔兽风格角色场景](#2096308567863079420)
 - [可旋转的 3D 将棋棋盘](#2096579856133947507)
 - [台式电脑交互拆解图谱](#2096578761877860502)
@@ -117,7 +118,9 @@
 - [驾驶莱特飞行器穿越日式森林](#2096467585785286808)
 - [从零搭建 Blender 住宅](#2096576154337734865)
 - [顶层平面图转 Blender 预览](#2096501340889374883)
+- [Blender 里斯本商业广场](#2096298425914450021)
 - [静谧渡口探索任务](#2096574297703637111)
+- [Three.js 高密度程序化森林](#2096263046918197609)
 - [穿越田园的蒸汽机车](#2096577430274429157)
 - [黑胶唱机桌面场景](#2096561346766877106)
 - [集换式卡牌战斗循环](#2096555856204644550)
@@ -137,13 +140,11 @@
 - [用自己的房间做交互式作品集](#2096506357868642342)
 - [YF-24 船只与轻浪 3D 海面](#2096503275910832461)
 - [可游玩的 D4 风格公寓](#2096413869841473930)
-- [使用指定角色的浏览器城市游戏](#2096398839830008292)
 - [Orbital 太阳系探索](#2096339041679442428)
 - [二维标志变成动画角色](#2096559197999501724)
 - [以动作效果定义机制的螃蟹游戏](#2096337879173591171)
-- [带昼夜变化的星夜村落](#2096555183790575682)
-- [对照参考迭代的 Three.js 界面](#2096510126244999366)
 - [组装并动画化生成的 3D 资产](#2096481425050743048)
+- [生物荧光深海主题落地页](#2096269057544831175)
 
 </details>
 
@@ -214,6 +215,126 @@
 ```
 
 [查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [查看原帖](https://x.com/oneruofeng/status/2096551010089263181) · [项目源码](https://github.com/wangruofeng/orbital-core-showcase) · [在线演示](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2096262733259837681"></a>
+
+### 体素克卢日-纳波卡联合广场
+
+[Dan Manastireanu](https://x.com/danmana) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681"><img src="assets/previews/6fbb5254f46d92a8688194420483c835fad03380a827128eb4d94e627d32f961.webp" width="840" loading="lazy" alt="体素克卢日-纳波卡联合广场"></a>
+
+**提示词**
+
+```text
+制作克卢日-纳波卡联合广场的交互式体素世界，将有辨识度的广场布局和地标转化为可探索的微缩场景。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681) · [查看原帖](https://x.com/danmana/status/2096262733259837681) · [项目源码](https://github.com/danmana/piata-unirii) · [在线演示](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2096236137266512181"></a>
+
+### 完整起降流程的浏览器飞行模拟器
+
+[aditya](https://x.com/adxtyahq) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096236137266512181"><img src="assets/previews/bbb03f5650350e6b4a323f0dd76f98d1abb0cbe94896f2dbe24d68c4bfbf8ce8.jpg" width="840" loading="lazy" alt="完整起降流程的浏览器飞行模拟器"></a>
+
+使用作者分享的完整提示词，构建一架可操控的 3D 客机、机场、飞行仪表，以及从起飞到着陆的完整游戏流程。
+
+**提示词**
+
+```text
+从零开始，打造一款精致、可玩的浏览器 3D 飞行模拟游戏。
+
+目标是制作一段规模虽小但真正可玩的飞行模拟体验，而不是静态的 3D 场景。
+
+GAMEPLAY
+- 创建一座机场，包含细节丰富的跑道、滑行道、航站楼及其他建筑、草地/地形、跑道标线与灯光、天空和云层。
+- 在机场停放一架容易辨认的客机。
+- 玩家必须能够使用键盘操控飞机。
+- 实现油门、俯仰、横滚、偏航和刹车控制。
+- 飞机必须具备基础且可信的飞行动力学、惯性和加速度。
+- 玩家应能够在跑道上加速、起飞、绕机场飞行、对准跑道进近并着陆。
+- 添加一个简单目标：起飞，绕机场完成一小段飞行，并安全着陆。
+- 加入坠毁/失败检测和重新开始选项。
+
+CONTROLS
+清晰显示操作方式：
+- W/S：俯仰
+- A/D：横滚
+- Q/E：偏航
+- Shift/Ctrl：油门
+- 空格：刹车
+
+CAMERA
+- 使用位于飞机后方的平滑第三人称追踪镜头。
+- 飞行过程中始终清晰显示飞机。
+- 镜头应平滑跟随飞机移动，并对加速度做出细微响应。
+
+HUD
+创建精致的航空风格 HUD，显示：
+- 空速
+- 高度
+- 航向
+- 油门
+- 垂直速度
+- 飞行状态
+- 当前目标
+
+加入一个可隐藏的紧凑型操作/帮助面板。
+
+开始 + 结果
+创建一个开始界面，包含：
+"飞行模拟器"
+以及醒目的"开始飞行"按钮。
+
+成功着陆后，显示：
+- 飞行完成
+- 着陆质量
+- 飞行时间
+- 最终得分
+- 再玩一次
+
+视觉品质
+让它具备真正游戏的感觉：
+- 风格统一的 3D 视觉效果
+- 细节丰富的飞机
+- 富有吸引力的机场环境
+- 出色的灯光、阴影和材质
+- 云层/大气效果
+- 在适当位置加入机场建筑、车辆、标牌、树木和其他环境细节
+- 避免场景空旷或明显未完成
+
+FEEDBACK
+为以下内容添加有用的反馈：
+- 油门/发动机状态
+- 起飞
+- 着陆
+- 速度警告
+- 高度
+- 坠毁
+- 成功着陆
+
+TECHNICAL
+- 在浏览器中构建完整可运行的游戏。
+- 不要留下占位按钮或虚假的交互。
+- 优先保证操控响应迅速、运行流畅。
+- 使用可用的、适合的 Web/3D 技术。
+
+重要：
+不要把全部精力都花在制作漂亮的静态场景上。飞机必须真正可操控，完整流程也必须能够运行：
+
+开始 → 加速 → 起飞 → 飞行 → 进近 → 着陆 → 计分 → 再玩一次
+
+完成前，在浏览器中运行游戏，亲自测试完整的游戏流程。修复发现的操控、物理、视觉和交互问题。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096236137266512181) · [查看原帖](https://x.com/adxtyahq/status/2096236137266512181) · [返回案例导航](#all-prompts)
 
 ---
 
@@ -433,28 +554,6 @@
 ```
 
 [查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096335588727349434) · [查看原帖](https://x.com/doomdave/status/2096335588727349434) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2096338836854804782"></a>
-
-### X 图片的 3D 渲染图
-
-[Matt Boyle](https://x.com/MattJamesBoyle) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096338836854804782"><img src="assets/previews/ea082ba0b96ce2048a717565f743d1448c4bef031ad0585dcdb75aced928fad8.jpg" width="840" loading="lazy" alt="X 图片的 3D 渲染图"></a>
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096338836854804782"><img src="assets/previews/26763990c48c54529e71a58e0de45e5ed7ba72f3937e895b52a9f60da4eb0460.png" width="840" loading="lazy" alt="X 图片的 3D 渲染图"></a>
-
-作者称，他们让 Astra 下载 Blender，并根据自己在 X 上的图片制作 3D 渲染图，最终生成了一张新的头像。
-
-**提示词**
-
-```text
-下载 Blender，根据我在 X 上的图片制作一张 3D 渲染图。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096338836854804782) · [查看原帖](https://x.com/MattJamesBoyle/status/2096338836854804782) · [返回案例导航](#all-prompts)
 
 ---
 
@@ -905,85 +1004,6 @@ Neatprompts 分享的一段简短提示词，用于借助 GPT-6 Astra 在 Three.
 
 ---
 
-<a id="2096814981509775616"></a>
-
-### 浏览器中的超高细节实时 3D 森林
-
-[Rakib Hossen](https://x.com/rakib_hossen_ai) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096814981509775616"><img src="assets/previews/07c895f71d234e5fe33db4f12806b3c27102c020c4dab9ec784acb393ac62646.jpg" width="840" loading="lazy" alt="浏览器中的超高细节实时 3D 森林"></a>
-
-用于创建并公开发布高细节浏览器实时 3D 森林的原样提示词，包含茂密植被、丰富地形变化、大气效果、自由镜头探索和反复视觉检查。
-
-**提示词**
-
-```text
-首先搜索“/unlazy”技能，完整阅读后在整个任务中使用它。
-
-将此任务视为至少持续 5 小时的大型视觉构建项目。如果环境允许，优先投入 8–24 小时进行有意义的实现与迭代。不要在只制作出一个看起来还不错的场景后就停止。
-
-在浏览器中创建一个极其详尽的实时 3D 森林。除此之外什么都不要做。不要着陆页、卡片、故事、营销界面、仪表盘或多余文字。森林本身就是完整体验。
-
-将密度和视觉质量推向极致。
-
-构建数量极其庞大的高细节草地、形态各异的树木、树枝、树叶、灌木、蕨类、苔藓、花朵、杂草、根系、倒木、石块、土壤、落叶层、小型植物、地形变化以及微小环境细节。
-
-森林应当密集到近乎过度。裸露地面应当非常少见。
-
-持续专注于：
-逼真的树木轮廓、
-茂密草地、
-自然的资产变化、
-丰富的色彩、
-光照、
-接触阴影、
-风、
-植被动态、
-大气纵深、
-雾效、
-阳光光束、
-粒子、
-地形、
-材质、
-尺度、
-构图，
-以及近距离和远距离下的细节表现。
-
-避免出现明显重复的资产、贴片感植被、重复铺陈的地形、漂浮的植物、塑料质感的材质、完全相同的树木、稀疏的程序化摆放、过度泛光或千篇一律的 Three.js 演示效果。
-
-加入流畅的自由镜头探索。
-
-从多个位置反复捕捉并检查场景。找出植被薄弱、区域空旷、色彩不佳、重复感明显、材质表现欠佳、光照不真实、树形难看、性能瓶颈以及任何破坏沉浸感的问题。修复这些问题，并在整个运行过程中持续提升质量。
-
-目标不是功能数量，而是让一个浏览器森林在细节和氛围方面夸张到令人难以置信。
-
-构建完整体验，将其公开发布到 ChatGPT Sites，验证部署，并返回公开 URL。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096814981509775616) · [查看原帖](https://x.com/rakib_hossen_ai/status/2096814981509775616) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2096876083094466863"></a>
-
-### 根据参考视频重建可编辑的 Blender 房屋
-
-[AiSongMan｜AI Workflow Lab](https://x.com/aisongman) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096876083094466863"><img src="assets/previews/947904c9cb1e72bc1a0531de36713a96a08bb9f4bef8c6f45f674bf096cd0d16.jpg" width="840" loading="lazy" alt="根据参考视频重建可编辑的 Blender 房屋"></a>
-
-根据参考视频，在 Blender 中重建房屋的建筑结构、家具、绿化、材质、灯光和摄像机。
-
-**提示词**
-
-```text
-通过 Blender Python API（bpy），根据参考视频创建可编辑的 Blender 场景。重建建筑结构、木作细节、家具、绿化、材质、灯光和摄像机，并尽可能让所有内容与参考视频保持一致。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096876083094466863) · [查看原帖](https://x.com/aisongman/status/2096876083094466863) · [返回案例导航](#all-prompts)
-
----
-
 <a id="2096907617117540478"></a>
 
 ### 霍格沃茨 3D 场景
@@ -1001,48 +1021,6 @@ Neatprompts 分享的一段简短提示词，用于借助 GPT-6 Astra 在 Three.
 ```
 
 [查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096907617117540478) · [查看原帖](https://x.com/HiltonMisia/status/2096907617117540478) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2096925943575330908"></a>
-
-### 用 Blender 和 ChatCut 重现产品广告
-
-[ChatCut](https://x.com/chatcutapp) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096925943575330908"><img src="assets/previews/a9f1e309f5e743a28101e732f96b607dbd27c58d442ac05b3b196f0deb54ef12.jpg" width="840" loading="lazy" alt="用 Blender 和 ChatCut 重现产品广告"></a>
-
-参考商业广告，使用 Blender 和 ChatCut 逐镜头还原 3D 建模、材质、灯光、镜头运动和剪辑。
-
-**提示词**
-
-```text
-连接我电脑上的 ChatCut Desktop 和 Blender，重现我提供的参考视频。
-
-仔细分析每个镜头的建模、材质、灯光、镜头位置、运动节奏和字体动画。使用 Blender 制作 3D 动画，并使用 ChatCut 进行剪辑，尽可能贴近参考视频。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096925943575330908) · [查看原帖](https://x.com/chatcutapp/status/2096925943575330908) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2096950715277004976"></a>
-
-### 将图像转换为 3D 模型并旋转 360°
-
-[Zentrix⌚️](https://x.com/ZentrixHQ) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096950715277004976"><img src="assets/previews/97e0eb2219fface4eb1761e339ee46e0099540feb84eddf3e2513285374d9d70.jpg" width="840" loading="lazy" alt="将图像转换为 3D 模型并旋转 360°"></a>
-
-作者使用一张图像生成 3D 模型并将其旋转 360°；最终演示呈现为恐怖风格的 3D 作品。
-
-**提示词**
-
-```text
-将其转换为 3D 模型并旋转 360°。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096950715277004976) · [查看原帖](https://x.com/ZentrixHQ/status/2096950715277004976) · [返回案例导航](#all-prompts)
 
 ---
 
@@ -1301,28 +1279,6 @@ Blender 中的 12 秒森林小路
 
 ---
 
-<a id="2096990373813858591"></a>
-
-### 编辑 Blender 场景以适配滚花支柱和 PCB
-
-[Robert Boyd](https://x.com/rboyd) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096990373813858591"><img src="assets/previews/a8ee5a495643a02333b8f904a4d46c26f8211b6ba6ecb40ba3b2521387e81571.jpg" width="840" loading="lazy" alt="编辑 Blender 场景以适配滚花支柱和 PCB"></a>
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096990373813858591"><img src="assets/previews/c25a45735c30595705175753c2fc55322a8e0a5327592956caaaf3942b53f511.png" width="840" loading="lazy" alt="编辑 Blender 场景以适配滚花支柱和 PCB"></a>
-
-这段引用的提示词要求 Astra 编辑 Blender 场景：为滚花 M3 双内螺纹支柱去除材料，并加深 PCB 插槽，使螺丝孔对齐，同时将合适的支柱模型导入场景。
-
-**提示词**
-
-```text
-差不多完美了。1）请查看 ~/Desktop/remove_material_for_knurled_ends.png 中的图片——这里需要去除足够的材料，以便 M3 双内螺纹支柱的滚花端能够与表面齐平。请尝试查找带滚花端的这类支柱模型（STL 或 STEP 格式），并将其导入 Blender 场景。2）请查看 ~/Desktop/deepen_pcb_slot.png，PCB 插槽大约浅了 1 mm（也就是说，我需要将 PCB 再向我们的部件内部推入约 1 mm，因此需要去除材料），这样螺丝孔才能对齐。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096990373813858591) · [查看原帖](https://x.com/rboyd/status/2096990373813858591) · [返回案例导航](#all-prompts)
-
----
-
 <a id="2097004192627933279"></a>
 
 ### 工作台上的机器人宠物
@@ -1472,26 +1428,6 @@ Blender 中的 12 秒森林小路
 ```
 
 [查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097004192627933279) · [查看原帖](https://x.com/zeuuss_01/status/2097004192627933279) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2097057316138832282"></a>
-
-### 房屋三维精细建模
-
-[silvan](https://x.com/silvanrec) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097057316138832282"><img src="assets/previews/74346c42eb8d47709ba800a4e437c9eaf2a54ccf6d547f4932ff8193cf2987f2.jpg" width="840" loading="lazy" alt="房屋三维精细建模"></a>
-
-这篇帖子展示了一个真实房屋的可编辑三维模型，包含玩具、家电和家具。模型由照片生成，并已在 Blender 中打开。
-
-**提示词**
-
-```text
-将这张图精细地建模为三维模型，包括玩具、家电和家具
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097057316138832282) · [查看原帖](https://x.com/silvanrec/status/2097057316138832282) · [返回案例导航](#all-prompts)
 
 ---
 
@@ -1693,40 +1629,6 @@ Blender 中的 12 秒森林小路
 
 ---
 
-<a id="2097339176094195899"></a>
-
-### Playroom：复古 3D 浏览器街机
-
-[Tripo](https://x.com/tripoai) · 2026-09-08
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097339176094195899"><img src="assets/previews/a50398d5761279d4c67fa425f175dd71bdd68472435b1df9f4c8e703c7edb035.jpg" width="840" loading="lazy" alt="Playroom：复古 3D 浏览器街机"></a>
-
-一份作者原样发布的提示词，用于构建完整且可玩的 Three.js 浏览器街机体验，包含独立的 GLB 硬件资产、交互式 3D 转场、三款基于游戏卡带的游戏、响应式操作，以及无障碍回退方案。
-
-**提示词**
-
-```text
-构建一款名为“Playroom”的完整可玩浏览器街机，采用怀旧的 20 世纪 80 年代末硬件美学，并搭配克制、现代的编辑风界面。使用 Three.js 进行渲染，并分别加载 CRT 显示器、主机、控制器和游戏卡带的 GLB 资产。交付可正常运行的体验，而不是静态样机。
-
-艺术指导：使用暖灰白背景、做旧象牙色塑料、炭黑细节、低饱和鼠尾草绿、灰调陶土色和褪色蓝。标题使用 Space Grotesk，辅以小号 DM Mono 标签。加入细分隔线、充裕留白、细微的技术标注和紧凑导航。避免霓虹赛博朋克风格、光泽感仪表盘卡片和过多渐变。
-
-首页应像一张精心布置的产品摄影图。将 CRT 显示器醒目地放在右侧，主机放在左侧，一盘直立的卡带稳固插在主机上，控制器置于前方。使用弧形线缆连接设备，并让线缆接入真实的插口。采用柔和的定向光照、可信的接触阴影、圆润边缘和略带粗糙感的塑料材质。避免物体相互穿插。
-
-让首页进行缓慢、电影感的左右环绕运动。允许用户拖拽旋转视角，随后平滑恢复空闲运动。在选定的硬件细节周围加入克制且缓慢流动的数据脉冲。CRT 屏幕应显示循环播放的像素风待机画面，包含一个小吉祥物、细微扫描线和“PLAYER ONE”字样。准确使用吉祥物面部上的黄色 T 和白色 V 标志。
-
-点击醒目的“POWER ON”按钮或主机场景，即可开始一段连续转场。让摄像机向 CRT 屏幕缓缓推进，引入动态数据流，并逐渐扩展场景以覆盖整个视口。整个过程中始终覆盖顶部和底部边缘。通过平滑的明暗过渡展示卡带合集，避免突然出现的遮罩层或突兀的摄像机跳转。
-
-合集包含三盘各具特色的直立卡带：鼠尾草绿色的《贪吃蛇》、陶土色的《打砖块》和蓝色的《方块》。每盘卡带都应有清晰的封面字体，以及一个栖息在顶部的小型动画吉祥物。加入细微上下浮动、悬停升起和轻柔倾斜效果。同时支持点击 3D 卡带，以及点击其下方的无障碍文本按钮。
-
-每次选择都会打开一个可玩的游戏界面。《贪吃蛇》包含食物连锁和限时奖励水果。《打砖块》包含多种砖块布局，以及挡板或多球强化道具。《方块》包含下一个方块预览、落点预览影子和消行计分。提供清晰的操作说明、分数、暂停、重新开始和返回导航。支持键盘操作和触摸按钮，并在本地保存最佳分数。
-
-将屏幕内容和卡带标签保留为独立的运行时纹理，确保文字始终清晰。保留已命名的模型部件，以支持交互和吉祥物动画。加入加载反馈；如果 3D 资产加载失败，提供可用的回退方案；同时支持响应式布局、可见的键盘焦点和减少动态效果模式。整洁地组织项目，验证三款游戏和所有转场，并使其能够直接部署到 GitHub 和 Vercel。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097339176094195899) · [查看原帖](https://x.com/tripoai/status/2097339176094195899) · [返回案例导航](#all-prompts)
-
----
-
 <a id="2097343467026289039"></a>
 
 ### 温馨湿地湖泊世界
@@ -1764,27 +1666,6 @@ Blender 中的 12 秒森林小路
 ```
 
 [查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097534290112188602) · [查看原帖](https://x.com/chrisfirst/status/2097534290112188602) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2097588270171660321"></a>
-
-### 基于视频参考在 Three.js 中重建 3D 场景
-
-[Henry Li](https://x.com/henry19840301) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097588270171660321"><img src="assets/previews/063337844500a06926ea87505df32746fd9b06e308cf92109568d0b13b2232f2.jpg" width="840" loading="lazy" alt="基于视频参考在 Three.js 中重建 3D 场景"></a>
-
-用于在 Three.js 中重建视频中的 3D 对象、场景、运动、光照、材质和阴影，并在同一页面中左右并排对比 MP4 视频的提示词。
-
-**提示词**
-
-```text
-/goal 在 Three.js 中构建相同的 3D 对象和场景，并精确复现视频中的运动，包括光照、材质、阴影等。
-在同一页面中添加与 mp4 的左右并排对比。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097588270171660321) · [查看原帖](https://x.com/henry19840301/status/2097588270171660321) · [返回案例导航](#all-prompts)
 
 ---
 
@@ -1961,29 +1842,6 @@ Blender 中的 12 秒森林小路
 ```
 
 [查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097730920224534868) · [查看原帖](https://x.com/konstantinsaifo/status/2097730920224534868) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2097755845001937172"></a>
-
-### 18洞高尔夫球场地形模拟
-
-[Rory Flynn](https://x.com/Ror_Fly) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097755845001937172"><img src="assets/previews/8e002ab8ef0a47379b651aee5b3e38702f31b065040adf68fd55f2db7fb5a7f3.jpg" width="840" loading="lazy" alt="18洞高尔夫球场地形模拟"></a>
-
-使用地图和真实地形数据，模拟在真实地点建造一座18洞高尔夫球场，并根据自然地形规划各个球洞。
-
-**提示词**
-
-```text
-模拟建造一座18洞球场
->查找真实地点
->使用地图和真实地形数据
->根据自然地形规划各个球洞
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097755845001937172) · [查看原帖](https://x.com/Ror_Fly/status/2097755845001937172) · [返回案例导航](#all-prompts)
 
 ---
 
@@ -2236,69 +2094,6 @@ Blender 中的 12 秒森林小路
 
 ---
 
-<a id="2098371778234179766"></a>
-
-### GTA风格3D追车制作流程
-
-[はさまるスタジオ (Hasamaru Studio)](https://x.com/hasamaru_studio) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098371778234179766"><img src="assets/previews/6dc9ff60afd9d91d7ba17fa714e81e7d254847f878ad17f736d2dee8628e0ec5.jpg" width="840" loading="lazy" alt="GTA风格3D追车制作流程"></a>
-
-这是一条制作原创GTA风格3D追车的提示词：要求在Blender中完成灰模、角色与车辆骨骼绑定、动画和12秒主视频，并使用PixVerse插件完成各个镜头的后期制作。
-
-**提示词**
-
-```text
-请按照以下制作流程，制作一段原创GTA风格3D追车。
-
-【设计】
-设定一名主要驾驶员、一辆逃逸车辆、一辆追捕车辆和一座城市场景，并确保各项设计保持一致。规划3个镜头，每个4秒，总时长12秒。
-・从后方跟拍车辆的追踪镜头
-・从侧面跟拍车辆急转弯的镜头
-・以较大景别捕捉车辆驶离的镜头
-
-【在Blender中搭建】
-创建整洁的灰模，以及可正常驱动的角色和车辆骨骼绑定。无需制作纹理或进行UV展开。
-
-【动画与测试】
-为驾驶员、方向盘操作、车轮旋转、车辆和摄像机制作动画。确保行驶方向以及车辆之间的前后关系保持一致，并修复穿插、车轮悬空、轮胎不自然打滑、姿势变形以及双手脱离方向盘等问题。
-
-【在Blender中渲染】
-以1280×720、24fps渲染第1至288帧。将实际在Blender中渲染的帧连接起来，制作12秒的灰模主视频。分别导出每个镜头，并渲染对应的灰模静帧，作为形状和构图参考。
-
-【使用PixVerse插件完成制作】
-使用Seedance 2.5，以720p分别处理每个镜头。将Blender视频作为动作参考，将灰模静帧作为形状参考。在生成提示词中指定统一的配色方案，确保整个视频风格一致。保持摄像机运动、动作时机、角色与车辆设计以及车辆数量不变。
-
-【检查与交付】
-检查完成后的两个视频版本，排查画面问题以及镜头之间的衔接。修复Blender端的问题，仅重新生成Seedance处理失败的镜头。每个镜头最多重试2次。
-
-交付可编辑的.blend文件、原生720p的Blender灰模视频、明确标注为Seedance版本的720p视频，以及对剩余限制的简要评估。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098371778234179766) · [查看原帖](https://x.com/hasamaru_studio/status/2098371778234179766) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2098374138092277920"></a>
-
-### 室内设计交互式 3D 模型
-
-[Roma Kumakura](https://x.com/RomaKumakura) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098374138092277920"><img src="assets/previews/3502ac27242d7b63b0f3046fd7941c2f37ca1677492b8e5ddd2f45a157080751.jpg" width="840" loading="lazy" alt="室内设计交互式 3D 模型"></a>
-
-创建一款交互式 3D 室内设计作品，还原房间尺寸，并支持拖动家具调整布局。作品还应展示不同主题的装修方案、预算切换和视角预览。
-
-**提示词**
-
-```text
-最终请制作一个能让我清晰理解室内设计方案，并了解需要购买哪些物品以及应如何摆放的作品。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098374138092277920) · [查看原帖](https://x.com/RomaKumakura/status/2098374138092277920) · [返回案例导航](#all-prompts)
-
----
-
 <a id="2098403061463224543"></a>
 
 ### 寺庙微缩立体模型场景
@@ -2339,6 +2134,24 @@ Blender 中的 12 秒森林小路
 
 ---
 
+<a id="2096251574918013135"></a>
+
+### 怪兽城市战斗
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="assets/previews/8f55d646820e4f1f0b98d00cdc85125c79f19093abe73bc0cecdfbf2e2365e50.webp" width="840" loading="lazy" alt="怪兽城市战斗"></a>
+
+**提示词**
+
+```text
+使用生成的生物模型与音效制作怪兽风格 Three.js 游戏，构建清晰的巨型战斗和体现生物尺度的环境。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/kaiju-city-battle-2096251574918013135) · [查看原帖](https://x.com/majidmanzarpour/status/2096251574918013135) · [在线演示](https://stormcolossus.netlify.app/) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="2096525100518453342"></a>
 
 ### Blender 角色表情切换
@@ -2354,6 +2167,168 @@ Blender 中的 12 秒森林小路
 ```
 
 [查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [查看原帖](https://x.com/Dstudio_ai/status/2096525100518453342) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2096225621303042258"></a>
+
+### 轨道交会对接模拟
+
+[Alican Kiraz](https://x.com/AlicanKiraz0) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/orbital-rendezvous-simulator-2096225621303042258"><img src="assets/previews/42e7d7821256b5c0e0d6ef4267f582a3a9406817642abaecae99cc2e479b733f.webp" width="840" loading="lazy" alt="轨道交会对接模拟"></a>
+
+**提示词**
+
+```text
+构建实时轨道交会模拟，采用双体 ECI 轨道传播与 HCW 制导，包含六自由度姿态、燃料消耗、推力限制和对接目标。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/orbital-rendezvous-simulator-2096225621303042258) · [查看原帖](https://x.com/AlicanKiraz0/status/2096225621303042258) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2096245759121277132"></a>
+
+### 滚动驱动的 3D 工作室网站
+
+[ui.debbie](https://x.com/mx_debbiee) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132"><img src="assets/previews/a315174ac48f5392bb9a0a9ecb0f7948a9a2d1bf33f9f32f4cdfdb6c553a89ff.webp" width="840" loading="lazy" alt="滚动驱动的 3D 工作室网站"></a>
+
+**提示词**
+
+```text
+将参考图转成 Three.js 场景并融入滚动驱动的工作室网站，协调镜头运动、文字排版与章节过渡。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [查看原帖](https://x.com/mx_debbiee/status/2096245759121277132) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2096244208533455049"></a>
+
+### Komorebi 河流皮划艇
+
+[AJ](https://x.com/ItsmeAjayKV) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/komorebi-river-kayaking-2096244208533455049"><img src="assets/previews/177462bb87e3089acbf23e2e6f58e75e4fa5cb7291601fdce6da2a3fb5f2b6af.webp" width="840" loading="lazy" alt="Komorebi 河流皮划艇"></a>
+
+**提示词**
+
+```text
+制作动漫风格的 3D 河流皮划艇游戏，让玩家左右划桨躲避障碍，通过代码生成流水、风景、音乐与音效。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [查看原帖](https://x.com/ItsmeAjayKV/status/2096244208533455049) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2096243989439713677"></a>
+
+### 折射玻璃瓶产品叙事
+
+[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/refractive-bottle-product-story-2096243989439713677"><img src="assets/previews/0752e3417e975ec333d58ef948643def758c883afb543c38e664b40f45d11b43.webp" width="840" loading="lazy" alt="折射玻璃瓶产品叙事"></a>
+
+**提示词**
+
+```text
+围绕写实 WebGL 玻璃瓶构建交互产品网站，采用折射液体、滚动旋转与醒目文字，同时保证浏览器性能。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [查看原帖](https://x.com/himanshubuildss/status/2096243989439713677) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2096250748099068377"></a>
+
+### 交互式超级高铁演示
+
+[Amir](https://x.com/hbanay98) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/interactive-hyperloop-demo-2096250748099068377"><img src="assets/previews/6fe7e10c4907c28861e51727de19f2b115f6c9d7ffab6b0288b6cb0fc8f250e2.webp" width="840" loading="lazy" alt="交互式超级高铁演示"></a>
+
+**提示词**
+
+```text
+构建交互式 Three.js 超级高铁演示，展示运输舱、管道设施及系统中的运行过程。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [查看原帖](https://x.com/hbanay98/status/2096250748099068377) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2096234355395903672"></a>
+
+### 程序化拿破仑半身像
+
+[Le PLOUTOS](https://x.com/leploutos) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/procedural-napoleon-bust-2096234355395903672"><img src="assets/previews/fda483263b1b7468f091f1798d7841bcfb9b983bc7659ca2ef491c23f3bbc948.webp" width="840" loading="lazy" alt="程序化拿破仑半身像"></a>
+
+**提示词**
+
+```text
+用 Three.js 编写拿破仑半身像，分阶段建模，从不同角度检视并完善脸部比例和服装细节。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [查看原帖](https://x.com/leploutos/status/2096234355395903672) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2096226711222546461"></a>
+
+### 铁路车站大厅
+
+[Wormhole404](https://x.com/0xWormhole404) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/railway-station-concourse-2096226711222546461"><img src="assets/previews/ec572c18e5e02ac65512d6d72ffe09c5afb807b131336ac8b75d13aefb86899c.webp" width="840" loading="lazy" alt="铁路车站大厅"></a>
+
+**提示词**
+
+```text
+创建具有鲜明建筑节奏、可信尺度和材质的铁路车站大厅，提供可检视的 3D 场景与精心构图视角。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/railway-station-concourse-2096226711222546461) · [查看原帖](https://x.com/0xWormhole404/status/2096226711222546461) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2096258619574513880"></a>
+
+### C# 与 WASM 浏览器赛车物理
+
+[achepta](https://x.com/achepta_tm) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880"><img src="assets/previews/da595232495fdcdcd646614361e119ff7b780672c6c697364c0197cc19302fd1.webp" width="840" loading="lazy" alt="C# 与 WASM 浏览器赛车物理"></a>
+
+**提示词**
+
+```text
+用 C# 重建赛道狂飙风格赛车物理，通过 WASM 运行并用 Three.js 渲染，使用可碰撞赛道网格并测试操控。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [查看原帖](https://x.com/achepta_tm/status/2096258619574513880) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2096241295949975602"></a>
+
+### 记忆扭蛋机
+
+[Gloria Zhang](https://x.com/gloria_zwq) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/memory-capsule-machine-2096241295949975602"><img src="assets/previews/2623ee6ae5ad1e80ed6af68f48f0ef33bb34a6fc638f5fd6d55f8ab0de7b3625.webp" width="840" loading="lazy" alt="记忆扭蛋机"></a>
+
+**提示词**
+
+```text
+构建 3D 记忆扭蛋机，转动旋钮释放记忆，在 Blender 中建模机械结构，为掉落扭蛋添加可信运动和声音。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/memory-capsule-machine-2096241295949975602) · [查看原帖](https://x.com/gloria_zwq/status/2096241295949975602) · [返回案例导航](#all-prompts)
 
 ---
 
@@ -2519,6 +2494,24 @@ Blender 中的 12 秒森林小路
 
 ---
 
+<a id="2096298425914450021"></a>
+
+### Blender 里斯本商业广场
+
+[Gonçalo Canhoto 🇵🇹](https://x.com/goncalo_canhoto) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021"><img src="assets/previews/1a02f9822127ff717210634691346b1137e87f5e721498e19a61a744e480a3be.webp" width="840" loading="lazy" alt="Blender 里斯本商业广场"></a>
+
+**提示词**
+
+```text
+将里斯本商业广场重建为可编辑的 Blender 场景，根据参考资料制作广场建筑、材质和光照。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021) · [查看原帖](https://x.com/goncalo_canhoto/status/2096298425914450021) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="2096574297703637111"></a>
 
 ### 静谧渡口探索任务
@@ -2534,6 +2527,24 @@ Blender 中的 12 秒森林小路
 ```
 
 [查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111) · [查看原帖](https://x.com/Motion_Viz/status/2096574297703637111) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2096263046918197609"></a>
+
+### Three.js 高密度程序化森林
+
+[Leon Lin](https://x.com/LexnLin) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609"><img src="assets/previews/f2a686fc1b131953cac41cec39c2492f871a7987eae5f2606755fddb83401adb.webp" width="840" loading="lazy" alt="Three.js 高密度程序化森林"></a>
+
+**提示词**
+
+```text
+在 Three.js 中制作包含数千棵树、茂密草丛与蕨类的森林，使用自定义着色器和高效复用的几何体保留场景细节。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609) · [查看原帖](https://x.com/LexnLin/status/2096263046918197609) · [返回案例导航](#all-prompts)
 
 ---
 
@@ -2847,7 +2858,7 @@ Blender 中的 12 秒森林小路
 
 ### YF-24 船只与轻浪 3D 海面
 
-[yhmtmt](https://x.com/yhmtmt1) · 2026-09-06
+[Yohei Matsumoto](https://x.com/yhmtmt1) · 2026-09-06
 
 <a href="https://www.tripo3d.ai/zh/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"><img src="assets/previews/8369341108c9ee030167ffe4e426974a0417136cb0c8a95b91084dcbccc26480.webp" width="840" loading="lazy" alt="YF-24 船只与轻浪 3D 海面"></a>
 
@@ -2876,24 +2887,6 @@ Blender 中的 12 秒森林小路
 ```
 
 [查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/playable-d4-inspired-apartment-2096413869841473930) · [查看原帖](https://x.com/Swery65/status/2096413869841473930) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2096398839830008292"></a>
-
-### 使用指定角色的浏览器城市游戏
-
-[DJ RIO \| REALITY](https://x.com/djrio_vr) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/browser-city-game-with-a-supplied-character-2096398839830008292"><img src="assets/previews/2b020e0fc8275195843fe93dfea7923e440940671c21060866aa6fd429e471e9.webp" width="840" loading="lazy" alt="使用指定角色的浏览器城市游戏"></a>
-
-**提示词**
-
-```text
-使用 RIO_MA002.fbx 作为玩家角色，制作 WebGL 城市游戏。在 Blender 中参照图片制作车辆与街道，再完善 NPC、驾驶物理、可破坏道具和郊区。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/browser-city-game-with-a-supplied-character-2096398839830008292) · [查看原帖](https://x.com/djrio_vr/status/2096398839830008292) · [返回案例导航](#all-prompts)
 
 ---
 
@@ -2951,42 +2944,6 @@ Blender 中的 12 秒森林小路
 
 ---
 
-<a id="2096555183790575682"></a>
-
-### 带昼夜变化的星夜村落
-
-[Firisis](https://x.com/Firisis_) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/starry-night-village-with-a-day-night-cycle-2096555183790575682"><img src="assets/previews/996c7433def5bbb3d45ccc962a820224ea443e32125c8fbd1024549df900256c.webp" width="840" loading="lazy" alt="带昼夜变化的星夜村落"></a>
-
-**提示词**
-
-```text
-将梵高《星夜》转化为可探索的 3D 村落，加入居民、光照和昼夜循环，再拍摄穿行于这个世界的短片。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/starry-night-village-with-a-day-night-cycle-2096555183790575682) · [查看原帖](https://x.com/Firisis_/status/2096555183790575682) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2096510126244999366"></a>
-
-### 对照参考迭代的 Three.js 界面
-
-[Meng To](https://x.com/MengTo) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/reference-matched-three-js-interface-2096510126244999366"><img src="assets/previews/56897f733e8ee248d50edff98d7a754fe404431e8be64d2093a85e9fc7b42c64.webp" width="840" loading="lazy" alt="对照参考迭代的 Three.js 界面"></a>
-
-**提示词**
-
-```text
-在一个 HTML 文件中用 Three.js 重现参考效果，反复对照并修正差异；细化光照、模型深度和玻璃质感控件，加入轻微的指针响应效果。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/reference-matched-three-js-interface-2096510126244999366) · [查看原帖](https://x.com/MengTo/status/2096510126244999366) · [返回案例导航](#all-prompts)
-
----
-
 <a id="2096481425050743048"></a>
 
 ### 组装并动画化生成的 3D 资产
@@ -3005,10 +2962,28 @@ Blender 中的 12 秒森林小路
 
 ---
 
+<a id="2096269057544831175"></a>
+
+### 生物荧光深海主题落地页
+
+[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175"><img src="assets/previews/15b86aef756eda74957965d57ff6104a61d7fcc04cad37581a49726ef5f363aa.webp" width="840" loading="lazy" alt="生物荧光深海主题落地页"></a>
+
+**提示词**
+
+```text
+制作深海主题落地页，结合 Three.js 水面效果、深色玻璃质感界面和滚动动效，让 3D 氛围与清晰、响应流畅的网站交互协调呈现。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175) · [查看原帖](https://x.com/himanshubuildss/status/2096269057544831175) · [返回案例导航](#all-prompts)
+
+---
+
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 225 条案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 205 条案例 →</a></strong></p>
 <p><sub>为保持 GitHub README 渲染流畅，这里仅展示最新 100 条案例。</sub></p>
 <br>
 </td></tr>
