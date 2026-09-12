@@ -26,13 +26,12 @@
 **為你的下一個遊戲、場景或互動世界尋找靈感。**
 
 
-**216 · 最新 Astra 提示詞**
+**225 · 最新 Astra 提示詞**
 
 ## 精選作品
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/featured/2096251574918013135.webp" width="420" loading="lazy" alt="怪獸城市戰鬥"></a><br><strong><a href="#2096251574918013135">怪獸城市戰鬥</a></strong><br><sub><a href="https://x.com/majidmanzarpour/status/2096251574918013135">Majid Manzarpour</a></sub><br><a href="#2096251574918013135">提示詞 →</a></td>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/featured/2096525100518453342.webp" width="420" loading="lazy" alt="在 Blender 中切換角色表情"></a><br><strong><a href="#2096525100518453342">在 Blender 中切換角色表情</a></strong><br><sub><a href="https://x.com/Dstudio_ai/status/2096525100518453342">Nano(ナノ)</a></sub><br><a href="#2096525100518453342">提示詞 →</a></td>
 </tr>
 </table>
@@ -44,9 +43,9 @@
 <details>
 <summary>瀏覽案例</summary>
 
+- [互動式 3D 粒子對撞機](#2097781208596029936) · GitHub
 - [Mosswing：行動版 3D 點按拍翅遊戲](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
 - [可互動的雙環能量核心](#2096551010089263181) · GitHub
-- [體素版克盧日－納波卡統一廣場](#2096262733259837681) · GitHub
 - [在 Blender 中重建寫實且可編輯的龍](#2096335588727349434)
 - [將 X 圖片製作成 3D 渲染](#2096338836854804782)
 - [從角色概念到 3D 建模、骨架綁定與動畫](#2096342420543660277)
@@ -92,19 +91,22 @@
 - [沉浸式 3D 稻田網站](#2097602565110419781)
 - [以 GPT-6 Astra 與 Blender 搭建機械臂追貓喜劇場景](#2097675660873605422)
 - [建構 THE LAST GATE：帶算術門的人群跑酷](#2097678911882809407)
+- [即時 3D 工廠發射台模擬](#2097730920224534868)
 - [18 洞高爾夫球場地形模擬](#2097755845001937172)
+- [支援多人遊戲的 Minecraft 複刻版](#2097797479488246071)
 - [互動式奇幻圖形展示](#2097821164093480999)
 - [無台詞 3D 貓咪零食短片](#2097900087901106244)
 - [打造更具挑戰性的 18 洞高爾夫球場](#2098038909514944562)
+- [互動式魷魚群](#2098043033446912315)
 - [GTA 風格卡通追車工作流程](#2098049032195293190)
 - [城市脈動](#2098063352832610473)
 - [浮空魔法學院動畫](#2098071577309122854)
-- [怪獸城市戰鬥](#2096251574918013135)
+- [Sol Horizon 入門款民用快遞船](#2098225609558335846)
+- [GTA 風格 3D 車輛追逐製作流程](#2098371778234179766)
+- [室內設計用互動式 3D 模型](#2098374138092277920)
+- [寺廟微縮立體模型場景](#2098403061463224543)
+- [玩機器人的小女孩公仔](#2098406473273663992)
 - [在 Blender 中切換角色表情](#2096525100518453342)
-- [滾動驅動的 3D 工作室網站](#2096245759121277132)
-- [Komorebi 河流皮划艇](#2096244208533455049)
-- [互動式超級高鐵演示](#2096250748099068377)
-- [C# 與 WASM 瀏覽器賽車物理](#2096258619574513880)
 - [以《魔獸爭霸》為靈感的 Unity 角色場景](#2096308567863079420)
 - [可旋轉的 3D 將棋棋盤](#2096579856133947507)
 - [桌上型電腦的互動拆解圖鑑](#2096578761877860502)
@@ -114,9 +116,7 @@
 - [駕駛萊特飛行器穿越日本森林](#2096467585785286808)
 - [在 Blender 中從零建立住宅](#2096576154337734865)
 - [從頂樓平面圖製作 Blender 預覽](#2096501340889374883)
-- [在 Blender 中重現里斯本宮殿廣場](#2096298425914450021)
 - [The Quiet Crossing 雪地探索任務](#2096574297703637111)
-- [以 Three.js 程序化生成茂密森林](#2096263046918197609)
 - [穿越鄉間的蒸汽火車](#2096577430274429157)
 - [桌上的黑膠唱片機場景](#2096561346766877106)
 - [集換式卡牌的對戰遊戲循環](#2096555856204644550)
@@ -143,9 +143,40 @@
 - [日夜交替的《星夜》村落](#2096555183790575682)
 - [貼近參考設計的 Three.js 介面](#2096510126244999366)
 - [組裝生成的 3D 資產並製作動畫](#2096481425050743048)
-- [以生物發光點綴的深海著陸頁](#2096269057544831175)
 
 </details>
+
+<a id="2097781208596029936"></a>
+
+### 互動式 3D 粒子對撞機
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-09
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097781208596029936"><img src="../assets/previews/4ed4699aef4eb5b9406b88d4752ffe8edc6769d3f9510d4157e617b201314e1f.jpg" width="840" loading="lazy" alt="互動式 3D 粒子對撞機"></a>
+
+作者建議的起始提示詞：使用單一自包含 HTML 檔案，打造受 CERN 的 LHC 與 ATLAS 啟發的互動式 3D 粒子對撞機。這段內容是用來建構類似作品的提示詞，並未明確聲稱就是展示成果所使用的原始輸入。
+
+**提示詞**
+
+```text
+使用 Three.js 打造細節豐富、可互動的 3D 粒子對撞機，靈感來自 CERN 的 LHC 與 ATLAS 偵測器。
+
+建立三種視圖：包含數千個可獨立動畫部件的偵測器、具有反向旋轉粒子束的加速器環，以及合成碰撞顯示。
+
+讓偵測器分六個階段展開，從大型端蓋輪與磁鐵逐步拆解至個別感測器模組。加入由捲動控制的拆解、30／60／90 秒播放、暫停，以及反向組裝功能。
+
+加入各系統的可見度切換、元件數量、教育性說明，以及環繞加速器環的鏡頭飛行。
+
+採用高質感深色介面、金屬材質、細緻的金色點綴與電影感燈光。確保各部件清晰可辨，避免過度重疊。
+
+參考 CERN 官方資料。清楚標示簡化幾何與合成事件。
+
+交付一個可離線運作的單一自包含 HTML 檔案，以及可攜式原始碼與 README。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097781208596029936) · [查看原文](https://x.com/k1rallik/status/2097781208596029936) · [專案原始碼](https://github.com/bubblik525/collider) · [返回案例導覽](#all-prompts)
+
+---
 
 <a id="mosswing-mobile-3d-tap-to-flap-game"></a>
 
@@ -182,24 +213,6 @@
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [查看原文](https://x.com/oneruofeng/status/2096551010089263181) · [專案原始碼](https://github.com/wangruofeng/orbital-core-showcase) · [線上展示](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2096262733259837681"></a>
-
-### 體素版克盧日－納波卡統一廣場
-
-[Dan Manastireanu](https://x.com/danmana) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681"><img src="../assets/previews/6fbb5254f46d92a8688194420483c835fad03380a827128eb4d94e627d32f961.webp" width="840" loading="lazy" alt="體素版克盧日－納波卡統一廣場"></a>
-
-**提示詞**
-
-```text
-將克盧日－納波卡的 Piața Unirii（統一廣場）製作成互動式體素世界。保留廣場可辨識的配置與地標，改編為可探索的微縮場景。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681) · [查看原文](https://x.com/danmana/status/2096262733259837681) · [專案原始碼](https://github.com/danmana/piata-unirii) · [線上展示](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2033,6 +2046,26 @@ Blender 中的 12 秒森林小徑
 
 ---
 
+<a id="2097730920224534868"></a>
+
+### 即時 3D 工廠發射台模擬
+
+[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-09
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097730920224534868"><img src="../assets/previews/037678cffe2db79eb31428a1ae5c1c82b08c90735d44f1f31cf452dfae4c6c61.jpg" width="840" loading="lazy" alt="即時 3D 工廠發射台模擬"></a>
+
+研讀 @AirsupHQ 的精實生產書籍，規劃一座設有 10 個發射台的工廠，並建立即時 3D 模擬，呈現物料到貨、火箭駛往發射台及升空的過程。
+
+**提示詞**
+
+```text
+研讀 @AirsupHQ 的精實生產書籍，規劃一座設有 10 個發射台的工廠概念，並建立即時 3D 模擬。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097730920224534868) · [查看原文](https://x.com/konstantinsaifo/status/2097730920224534868) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="2097755845001937172"></a>
 
 ### 18 洞高爾夫球場地形模擬
@@ -2053,6 +2086,26 @@ Blender 中的 12 秒森林小徑
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097755845001937172) · [查看原文](https://x.com/Ror_Fly/status/2097755845001937172) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2097797479488246071"></a>
+
+### 支援多人遊戲的 Minecraft 複刻版
+
+[Armaan Jain](https://x.com/Armaan_Jain123) · 2026-09-09
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097797479488246071"><img src="../assets/previews/1169f5f631b3b63a5ce327df6448839084a348584343618ae7dae88f5ac9b4fc.jpg" width="840" loading="lazy" alt="支援多人遊戲的 Minecraft 複刻版"></a>
+
+建立一款以瀏覽器為基礎的 Minecraft 複刻版，包含使用種子進行程序化生成的世界、生存模式、生態域、維度、生物、結構、成就、區域網路多人遊戲、遊戲內原生 UI、定向音訊、精確的方塊與流體行為，以及效能最佳化。
+
+**提示詞**
+
+```text
+建立一款從頭到尾都完美重現的 Minecraft 複刻版；如果需要我提供任何資訊，請告訴我。我已附上一份關於 Minecraft 的深度研究文件，應該會很有幫助。務必精準重現遊戲機制、動畫與畫面。每個新世界都應使用種子進行程序化隨機生成。加入玩家對 Minecraft 所期待的所有生物，並確保牠們會出現在正確的生態域中。完成單人遊戲後，加入讓玩家將世界開放至區域網路，彼此加入對方伺服器的功能。遊戲預設應使用生存模式。讓貼圖看起來與 Minecraft 完全一致；如果能在網路上找到完全相同的貼圖，也可以使用。當我說希望它與 Minecraft 完全一致時，我是認真的。任何人都不應看得出你建立的網站與真正的 Minecraft 有何差異。這一切都只是出於教育用途，因此不用擔心著作權。遊戲 UI 不要只使用 HTML；請在遊戲引擎內原生建置。角色與生物模型應使用真正的模型，外觀、運作方式與動畫都要和原版遊戲完全一致。加入定向音訊與音效。逐頁、逐個互動、逐項遊戲機制地檢查，將所有內容做到完美。完成所有功能並建立出完美的 Minecraft 複刻版後，開始使用剔除、渲染距離、模擬距離、依距離切換的 LOD、FPS 最佳化等技術，以及其他方法來最佳化效能。確保遊戲邏輯精確無誤。例如，如果破壞了其他沙或礫石方塊下方的沙或礫石方塊，上方的方塊就應該掉落。如果支撐方塊被破壞，上方的花或草也應該一起被破壞。物品欄 UI 應與原版完全相同，互動手感也要一致，包括快捷鍵、動畫，以及劍和其他武器、工具的命中特效。精確重現與水及水中生物的互動、自動跳躍，以及其他所有細節。專注於正確處理這些細節，將一切做到完美。遊戲不應有卡頓或錯誤感；應該流暢，並且與真正的 Minecraft 完全一致。留意雲朵、晝夜循環、天氣、Minecraft 背景音樂等細節。確保水與熔岩會依預期流動，並完美實作其渲染效果。生物不應重疊生成、生成在樹木內，或生成在方塊內。加入 Minecraft 的結構、村民、戰利品，以及所有相關內容。完善生物生成邏輯，確保生物動畫流暢，並讓每種生物與玩家角色的尺寸都精確符合真正的 Minecraft。專注於 Minecraft 玩家常做的操作，例如放置方塊時跳躍以加快搭橋或攀爬、跳躍時使用 Ctrl + W 等。讓手持在玩家手中的物品看起來自然美觀，並確保手部位置與真正的 Minecraft 完全一致。為生物加入命中特效，並讓物品欄中的每個物品圖示都與真正的 Minecraft 完全一致。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097797479488246071) · [查看原文](https://x.com/Armaan_Jain123/status/2097797479488246071) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2116,6 +2169,26 @@ Blender 中的 12 秒森林小徑
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098038909514944562) · [查看原文](https://x.com/Ror_Fly/status/2098038909514944562) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2098043033446912315"></a>
+
+### 互動式魷魚群
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098043033446912315"><img src="../assets/previews/3aad19d589e3d6a507904da717f40a29ca1c2142a2c5c3651b4fe16285114e02.jpg" width="840" loading="lazy" alt="互動式魷魚群"></a>
+
+互動式 WebGL 魷魚群，魷魚身體以數學點計算生成，具備即時動態、互動控制、顏色變化、慣性，以及觸碰水面時的驚慌反應。
+
+**提示詞**
+
+```text
+建立互動式魷魚群
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098043033446912315) · [查看原文](https://x.com/vib3coded/status/2098043033446912315) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2243,21 +2316,128 @@ Blender 中的 12 秒森林小徑
 
 ---
 
-<a id="2096251574918013135"></a>
+<a id="2098225609558335846"></a>
 
-### 怪獸城市戰鬥
+### Sol Horizon 入門款民用快遞船
 
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05
+[Jonathan Plumb — Spokane Valley](https://x.com/jonathanplumb) · 2026-09-11
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/previews/8f55d646820e4f1f0b98d00cdc85125c79f19093abe73bc0cecdfbf2e2365e50.webp" width="840" loading="lazy" alt="怪獸城市戰鬥"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098225609558335846"><img src="../assets/previews/8a672e63cd9fdbd2d4c5e721b2dc7576c34d9c37a023cb0edfe6a4d8a3bc6ce4.jpg" width="840" loading="lazy" alt="Sol Horizon 入門款民用快遞船"></a>
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098225609558335846"><img src="../assets/previews/57ae2f43a4ca798cfccd80c405c934bbdd10df6cb9738c29fd6ca1366dce9d2a.jpg" width="840" loading="lazy" alt="Sol Horizon 入門款民用快遞船"></a>
+
+在 Blender 中製作 Sol Horizon 入門款民用快遞船的可直接用於遊戲模型，採用便於維修的模組化硬表面設計，包含具名物件與碰撞幾何體，設定 Unity 的正向方向，並匯出 FBX。
 
 **提示詞**
 
 ```text
-使用生成的生物模型與音效製作怪獸風格 Three.js 遊戲，建置清晰的巨型戰鬥和體現生物尺度的環境。
+在 Blender 中製作 Sol Horizon 的入門款民用快遞船。外觀應呈現使用痕跡、便於維修、價格親民且安全可靠——不要有軍用風格。製作駕駛艙、貨艙艙門、外露的機動推進器、主引擎組件，以及四支起落架。採用適合未來製作變體的模組化硬表面風格。主要渲染網格面數須低於 15,000 個三角形。清楚命名物件，設定 Unity 的正向方向，建立簡單的碰撞幾何體，套用變換，儲存 .blend 檔案，並匯出可直接用於遊戲的 FBX。匯出前先顯示視窗區域截圖以供核准。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/kaiju-city-battle-2096251574918013135) · [查看原文](https://x.com/majidmanzarpour/status/2096251574918013135) · [線上展示](https://stormcolossus.netlify.app/) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098225609558335846) · [查看原文](https://x.com/jonathanplumb/status/2098225609558335846) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2098371778234179766"></a>
+
+### GTA 風格 3D 車輛追逐製作流程
+
+[はさまるスタジオ (Hasamaru Studio)](https://x.com/hasamaru_studio) · 2026-09-11
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098371778234179766"><img src="../assets/previews/6dc9ff60afd9d91d7ba17fa714e81e7d254847f878ad17f736d2dee8628e0ec5.jpg" width="840" loading="lazy" alt="GTA 風格 3D 車輛追逐製作流程"></a>
+
+這是一則提示詞，要求使用 Blender 製作原創 GTA 風格 3D 車輛追逐，包括灰模、角色與車輛骨架綁定、動畫及 12 秒主影片，並透過 PixVerse 外掛完成各個鏡頭。
+
+**提示詞**
+
+```text
+請依照以下製作流程，製作原創的 GTA 風格 3D 車輛追逐。
+
+【設計】
+設定 1 名主要駕駛、1 輛逃逸車、1 輛追緝車及 1 個城市場景，並維持各項設計的一致性。規劃共 3 個鏡頭，每個鏡頭 4 秒。
+・從後方追蹤車輛的追蹤鏡頭
+・從側面追蹤急轉彎車輛的鏡頭
+・以廣角捕捉車輛疾駛離去的鏡頭
+
+【使用 Blender 建構】
+建立整潔的灰模，以及可供動作控制的角色與車輛骨架綁定。無需製作貼圖或進行 UV 展開。
+
+【動畫與測試】
+為駕駛、方向盤操作、車輪旋轉、車輛及攝影機製作動畫。維持行進方向及車輛前後關係的一致性，修正穿模、車輪浮空、輪胎不自然打滑、姿勢變形，以及雙手脫離方向盤等問題。
+
+【使用 Blender 渲染】
+以 1280×720、24fps 渲染第 1 至 288 幀。串接實際在 Blender 中渲染的影格，製作 12 秒的灰模版主影片。分別輸出各個鏡頭，並渲染相應的灰模靜止影像，供形狀與構圖參考。
+
+【使用 PixVerse 外掛完成後製】
+使用 Seedance 2.5，以 720p 分別處理各個鏡頭。使用 Blender 影片作為動作參考，灰模靜止影像作為形狀參考。在生成提示詞中指定貫穿整部影片且一致的配色。維持攝影機運動、動作時序、角色與車輛設計，以及車輛數量。
+
+【確認與交付】
+檢查完成的兩部影片，確認畫面瑕疵及鏡頭之間的銜接。修正 Blender 端的問題，僅重新生成使用 Seedance 失敗的鏡頭。每個鏡頭最多重試 2 次。
+
+交付可編輯的 .blend 檔案、原生 720p 的 Blender 灰模影片、標明為 Seedance 版本的 720p 影片，以及一份簡要評估，說明剩餘的限制。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098371778234179766) · [查看原文](https://x.com/hasamaru_studio/status/2098371778234179766) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2098374138092277920"></a>
+
+### 室內設計用互動式 3D 模型
+
+[Roma Kumakura](https://x.com/RomaKumakura) · 2026-09-11
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098374138092277920"><img src="../assets/previews/3502ac27242d7b63b0f3046fd7941c2f37ca1677492b8e5ddd2f45a157080751.jpg" width="840" loading="lazy" alt="室內設計用互動式 3D 模型"></a>
+
+建立可重現房間尺寸、並可拖曳家具重新配置的互動式 3D 室內設計作品。同時展示不同主題的裝修方案、預算切換功能，以及拍攝角度預覽。
+
+**提示詞**
+
+```text
+請製作一份成果，讓我能清楚理解室內設計方案，並了解需要購買哪些物品，以及應如何配置。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098374138092277920) · [查看原文](https://x.com/RomaKumakura/status/2098374138092277920) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2098403061463224543"></a>
+
+### 寺廟微縮立體模型場景
+
+[Rion Wu](https://x.com/rionaifantasy) · 2026-09-11
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098403061463224543"><img src="../assets/previews/66d1394523ca0e755b767c67c4784666975662070815f63d52e11d5863f84849.jpg" width="840" loading="lazy" alt="寺廟微縮立體模型場景"></a>
+
+作者在回覆串中提供的參考圖提示詞，用於呈現包含寺廟標誌性元素的 45° 俯視等軸測微型立體模型場景。原貼文稱，這個寺廟微縮場景先以 Astra 拆分元件，再由 V2Fun 製作細節，最後組合並微調完成。
+
+**提示詞**
+
+```text
+呈現一個清晰的 45° 俯視等軸測微型 2.5D 卡通立體模型場景，採用柔和細緻的紋理、逼真的 PBR 材質，以及柔和而真實的光照效果。建立一個小型凸起的立體模型風格底座，其中包含寺廟最具辨識度的元素。使用純色背景。構圖：完美置中的版面，方形 1080x1080，呈現極度乾淨、高清晰度的立體模型美學；只需改用加粗、提亮的字體即可。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098403061463224543) · [查看原文](https://x.com/rionaifantasy/status/2098403061463224543) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2098406473273663992"></a>
+
+### 玩機器人的小女孩公仔
+
+[𝟡𝟜 ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI) · 2026-09-11
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098406473273663992"><img src="../assets/previews/36a29f044afe429a09799a73853956a95eaa3917011a12639f35ee3a4c506d25.jpg" width="840" loading="lazy" alt="玩機器人的小女孩公仔"></a>
+
+創作一尊完整組裝、站姿展示的高精度 3D 動漫風格小女孩公仔，包含工人帽、鐵皮機器人、遙控器與腰間維修箱。
+
+**提示詞**
+
+```text
+一尊完整組裝的玩機器人小女孩公仔，頭戴工人帽，一手拿著鐵皮製機器人，另一手拿著遙控器，腰間繫著維修箱。所有配件完整組合，呈站立姿態；純白背景、專業攝影棚燈光、高精度 3D 動漫風格公仔展示。ar3:4
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098406473273663992) · [查看原文](https://x.com/94vanAI/status/2098406473273663992) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2276,78 +2456,6 @@ Blender 中的 12 秒森林小徑
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [查看原文](https://x.com/Dstudio_ai/status/2096525100518453342) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2096245759121277132"></a>
-
-### 滾動驅動的 3D 工作室網站
-
-[ui.debbie](https://x.com/mx_debbiee) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132"><img src="../assets/previews/a315174ac48f5392bb9a0a9ecb0f7948a9a2d1bf33f9f32f4cdfdb6c553a89ff.webp" width="840" loading="lazy" alt="滾動驅動的 3D 工作室網站"></a>
-
-**提示詞**
-
-```text
-將參考圖轉成 Three.js 場景並融入滾動驅動的工作室網站，協調鏡頭運動、文字排版與章節過渡。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [查看原文](https://x.com/mx_debbiee/status/2096245759121277132) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2096244208533455049"></a>
-
-### Komorebi 河流皮划艇
-
-[AJ](https://x.com/ItsmeAjayKV) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/komorebi-river-kayaking-2096244208533455049"><img src="../assets/previews/177462bb87e3089acbf23e2e6f58e75e4fa5cb7291601fdce6da2a3fb5f2b6af.webp" width="840" loading="lazy" alt="Komorebi 河流皮划艇"></a>
-
-**提示詞**
-
-```text
-製作動漫風格的 3D 河流皮划艇遊戲，讓玩家左右划槳躲避障礙，透過程式碼生成流水、風景、音樂與音效。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [查看原文](https://x.com/ItsmeAjayKV/status/2096244208533455049) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2096250748099068377"></a>
-
-### 互動式超級高鐵演示
-
-[Amir](https://x.com/hbanay98) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-hyperloop-demo-2096250748099068377"><img src="../assets/previews/6fe7e10c4907c28861e51727de19f2b115f6c9d7ffab6b0288b6cb0fc8f250e2.webp" width="840" loading="lazy" alt="互動式超級高鐵演示"></a>
-
-**提示詞**
-
-```text
-建置互動式 Three.js 超級高鐵演示，展示運輸艙、管道設施及系統中的執行過程。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [查看原文](https://x.com/hbanay98/status/2096250748099068377) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2096258619574513880"></a>
-
-### C# 與 WASM 瀏覽器賽車物理
-
-[achepta](https://x.com/achepta_tm) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880"><img src="../assets/previews/da595232495fdcdcd646614361e119ff7b780672c6c697364c0197cc19302fd1.webp" width="840" loading="lazy" alt="C# 與 WASM 瀏覽器賽車物理"></a>
-
-**提示詞**
-
-```text
-用 C# 重建賽道狂飆風格賽車物理，透過 WASM 執行並用 Three.js 渲染，使用可碰撞賽道網格並測試操控。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [查看原文](https://x.com/achepta_tm/status/2096258619574513880) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2513,24 +2621,6 @@ Blender 中的 12 秒森林小徑
 
 ---
 
-<a id="2096298425914450021"></a>
-
-### 在 Blender 中重現里斯本宮殿廣場
-
-[Gonçalo Canhoto 🇵🇹](https://x.com/goncalo_canhoto) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021"><img src="../assets/previews/1a02f9822127ff717210634691346b1137e87f5e721498e19a61a744e480a3be.webp" width="840" loading="lazy" alt="在 Blender 中重現里斯本宮殿廣場"></a>
-
-**提示詞**
-
-```text
-將里斯本的 Terreiro do Paço（宮殿廣場）重建為可編輯的 Blender 場景。研究參考資料，作為廣場建築、材質與打光的依據。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021) · [查看原文](https://x.com/goncalo_canhoto/status/2096298425914450021) · [返回案例導覽](#all-prompts)
-
----
-
 <a id="2096574297703637111"></a>
 
 ### The Quiet Crossing 雪地探索任務
@@ -2546,24 +2636,6 @@ Blender 中的 12 秒森林小徑
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111) · [查看原文](https://x.com/Motion_Viz/status/2096574297703637111) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2096263046918197609"></a>
-
-### 以 Three.js 程序化生成茂密森林
-
-[Leon Lin](https://x.com/LexnLin) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609"><img src="../assets/previews/f2a686fc1b131953cac41cec39c2492f871a7987eae5f2606755fddb83401adb.webp" width="840" loading="lazy" alt="以 Three.js 程序化生成茂密森林"></a>
-
-**提示詞**
-
-```text
-使用 Three.js 製作細緻森林，包含數千棵樹、茂密草叢與蕨類。利用自訂著色器及高效率的重複幾何配置，保留整個場景的細節。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609) · [查看原文](https://x.com/LexnLin/status/2096263046918197609) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -3035,28 +3107,10 @@ Blender 中的 12 秒森林小徑
 
 ---
 
-<a id="2096269057544831175"></a>
-
-### 以生物發光點綴的深海著陸頁
-
-[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175"><img src="../assets/previews/15b86aef756eda74957965d57ff6104a61d7fcc04cad37581a49726ef5f363aa.webp" width="840" loading="lazy" alt="以生物發光點綴的深海著陸頁"></a>
-
-**提示詞**
-
-```text
-製作深海主題著陸頁，結合 Three.js 水面效果、深色玻璃質感介面與捲動驅動的動態。兼顧 3D 氛圍，以及清楚、能適應不同螢幕的網站互動。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175) · [查看原文](https://x.com/himanshubuildss/status/2096269057544831175) · [返回案例導覽](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 216 個案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 225 個案例 →</a></strong></p>
 <p><sub>為保持 GitHub README 渲染流暢，這裡僅展示最新 100 個案例。</sub></p>
 <br>
 </td></tr>

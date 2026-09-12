@@ -26,13 +26,12 @@
 **Un point de départ pour votre prochain jeu, scène ou monde interactif.**
 
 
-**216 · Derniers prompts Astra**
+**225 · Derniers prompts Astra**
 
 ## Projets à découvrir
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/fr/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/featured/2096251574918013135.webp" width="420" loading="lazy" alt="Une bataille de kaijus en ville"></a><br><strong><a href="#2096251574918013135">Une bataille de kaijus en ville</a></strong><br><sub><a href="https://x.com/majidmanzarpour/status/2096251574918013135">Majid Manzarpour</a></sub><br><a href="#2096251574918013135">Prompt →</a></td>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/fr/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/featured/2096525100518453342.webp" width="420" loading="lazy" alt="Expressions de personnage interchangeables dans Blender"></a><br><strong><a href="#2096525100518453342">Expressions de personnage interchangeables dans Blender</a></strong><br><sub><a href="https://x.com/Dstudio_ai/status/2096525100518453342">Nano(ナノ)</a></sub><br><a href="#2096525100518453342">Prompt →</a></td>
 </tr>
 </table>
@@ -44,9 +43,9 @@
 <details>
 <summary>Parcourir les exemples</summary>
 
+- [Collisionneur de particules 3D interactif](#2097781208596029936) · GitHub
 - [Mosswing : jeu mobile 3D où il faut tapoter pour battre des ailes](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
 - [Noyau d’énergie interactif à deux anneaux](#2096551010089263181) · GitHub
-- [La place de l’Union de Cluj-Napoca en voxels](#2096262733259837681) · GitHub
 - [Reconstruction photoréaliste et éditable d’un dragon dans Blender](#2096335588727349434)
 - [Rendu 3D d’une photo sur X](#2096338836854804782)
 - [Du concept de personnage au modèle 3D riggé et au dessin animé](#2096342420543660277)
@@ -92,19 +91,22 @@
 - [Paysage de rizières immersif en 3D](#2097602565110419781)
 - [Créer une scène comique de poursuite entre un bras robotisé et un chat avec GPT-6 Astra et Blender](#2097675660873605422)
 - [Construire THE LAST GATE : un crowd runner avec des portes arithmétiques](#2097678911882809407)
+- [Simulation 3D en direct d’une usine et de ses pas de tir](#2097730920224534868)
 - [Simulation du terrain d’un parcours de golf de 18 trous](#2097755845001937172)
+- [Clone de Minecraft multijoueur](#2097797479488246071)
 - [Démo graphique fantasy interactive](#2097821164093480999)
 - [Court métrage 3D muet sur un chat et une friandise](#2097900087901106244)
 - [Rendre un parcours de golf de 18 trous plus exigeant](#2098038909514944562)
+- [Banc interactif de calamars](#2098043033446912315)
 - [Workflow de course-poursuite automobile cartoon inspirée de GTA](#2098049032195293190)
 - [Pouls urbain](#2098063352832610473)
 - [Animation d’une académie magique flottante](#2098071577309122854)
-- [Une bataille de kaijus en ville](#2096251574918013135)
+- [Vaisseau-courrier civil de départ de Sol Horizon](#2098225609558335846)
+- [Processus de création d’une course-poursuite automobile en 3D à la GTA](#2098371778234179766)
+- [Modèle 3D interactif pour l’aménagement intérieur d’une pièce](#2098374138092277920)
+- [Scène miniature en volume représentant un temple](#2098403061463224543)
+- [Figurine d’une petite fille jouant avec un robot](#2098406473273663992)
 - [Expressions de personnage interchangeables dans Blender](#2096525100518453342)
-- [Un site de studio 3D animé par le défilement](#2096245759121277132)
-- [Komorebi : du kayak en rivière](#2096244208533455049)
-- [Une démo Hyperloop interactive](#2096250748099068377)
-- [Une physique de course pour navigateur en C# et WASM](#2096258619574513880)
 - [Scène de personnage inspirée de Warcraft dans Unity](#2096308567863079420)
 - [Plateau de shogi 3D pivotant](#2096579856133947507)
 - [Atlas éclaté d’un ordinateur de bureau](#2096578761877860502)
@@ -114,9 +116,7 @@
 - [Le Wright Flyer au-dessus d’une forêt japonaise](#2096467585785286808)
 - [Une maison modélisée de zéro dans Blender](#2096576154337734865)
 - [Du plan du dernier étage à un aperçu Blender](#2096501340889374883)
-- [Le Terreiro do Paço de Lisbonne dans Blender](#2096298425914450021)
 - [Quête d’exploration The Quiet Crossing](#2096574297703637111)
-- [Forêt procédurale dense dans Three.js](#2096263046918197609)
 - [Locomotive à vapeur à travers la campagne](#2096577430274429157)
 - [Platine vinyle sur une table](#2096561346766877106)
 - [Boucle de jeu de combats de cartes à collectionner](#2096555856204644550)
@@ -143,9 +143,40 @@
 - [Village de La Nuit étoilée avec cycle jour-nuit](#2096555183790575682)
 - [Interface Three.js fidèle à une référence](#2096510126244999366)
 - [Assembler et animer des assets 3D générés](#2096481425050743048)
-- [Landing page abyssale bioluminescente](#2096269057544831175)
 
 </details>
+
+<a id="2097781208596029936"></a>
+
+### Collisionneur de particules 3D interactif
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-09
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2097781208596029936"><img src="../assets/previews/4ed4699aef4eb5b9406b88d4752ffe8edc6769d3f9510d4157e617b201314e1f.jpg" width="840" loading="lazy" alt="Collisionneur de particules 3D interactif"></a>
+
+Prompt de départ proposé par l’auteur pour créer, dans un fichier HTML autonome, un collisionneur de particules 3D interactif inspiré du LHC du CERN et du détecteur ATLAS. Il s’agit d’un prompt pour créer un résultat similaire, et non nécessairement du prompt exact utilisé pour le résultat présenté.
+
+**Prompt**
+
+```text
+Créez avec Three.js un collisionneur de particules 3D détaillé et interactif, inspiré du LHC du CERN et du détecteur ATLAS.
+
+Créez trois vues : un détecteur composé de milliers d’éléments animés individuellement, un anneau d’accélérateur avec des faisceaux tournant en sens opposés et un affichage de collision synthétique.
+
+Faites se déployer le détecteur en six étapes, des grandes roues d’extrémité et des aimants jusqu’aux modules de capteurs individuels. Intégrez un désassemblage contrôlé par le défilement, une lecture de 30, 60 ou 90 secondes, la mise en pause et le remontage en sens inverse.
+
+Ajoutez des commandes de visibilité pour chaque système, le nombre de composants, des descriptions pédagogiques et un survol de l’anneau par la caméra.
+
+Utilisez une interface sombre haut de gamme, des matériaux métalliques, de subtils accents dorés et un éclairage cinématographique. Gardez les éléments lisibles et évitez les chevauchements excessifs.
+
+Consultez les ressources officielles du CERN. Indiquez clairement les géométries simplifiées et les événements synthétiques.
+
+Livrez un fichier HTML autonome fonctionnant hors ligne, ainsi que le code source portable et un README.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2097781208596029936) · [Publication originale](https://x.com/k1rallik/status/2097781208596029936) · [Code source](https://github.com/bubblik525/collider) · [Retour aux exemples](#all-prompts)
+
+---
 
 <a id="mosswing-mobile-3d-tap-to-flap-game"></a>
 
@@ -182,24 +213,6 @@ Modélise un noyau d’énergie, deux anneaux et un socle métallique dans Blend
 ```
 
 [Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [Publication originale](https://x.com/oneruofeng/status/2096551010089263181) · [Code source](https://github.com/wangruofeng/orbital-core-showcase) · [Démo](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2096262733259837681"></a>
-
-### La place de l’Union de Cluj-Napoca en voxels
-
-[Dan Manastireanu](https://x.com/danmana) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681"><img src="../assets/previews/6fbb5254f46d92a8688194420483c835fad03380a827128eb4d94e627d32f961.webp" width="840" loading="lazy" alt="La place de l’Union de Cluj-Napoca en voxels"></a>
-
-**Prompt**
-
-```text
-Crée un monde interactif en voxels de la Piața Unirii à Cluj-Napoca. Adapte le plan et les monuments reconnaissables de la place en une miniature explorable.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681) · [Publication originale](https://x.com/danmana/status/2096262733259837681) · [Code source](https://github.com/danmana/piata-unirii) · [Démo](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [Retour aux exemples](#all-prompts)
 
 ---
 
@@ -2033,6 +2046,26 @@ Construire THE LAST GATE Construire THE LAST GATE : un crowd runner jouable en o
 
 ---
 
+<a id="2097730920224534868"></a>
+
+### Simulation 3D en direct d’une usine et de ses pas de tir
+
+[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-09
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2097730920224534868"><img src="../assets/previews/037678cffe2db79eb31428a1ae5c1c82b08c90735d44f1f31cf452dfae4c6c61.jpg" width="840" loading="lazy" alt="Simulation 3D en direct d’une usine et de ses pas de tir"></a>
+
+Une demande visant à étudier les ouvrages d’@AirsupHQ sur la production lean, à concevoir une usine dotée de 10 pas de tir et à créer une simulation 3D en direct montrant l’arrivée des matériaux, le déplacement des fusées jusqu’aux pas de tir et leur décollage.
+
+**Prompt**
+
+```text
+étudier les ouvrages d’@AirsupHQ sur la production lean, concevoir une usine dotée de 10 pas de tir et créer une simulation 3D en direct.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2097730920224534868) · [Publication originale](https://x.com/konstantinsaifo/status/2097730920224534868) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="2097755845001937172"></a>
 
 ### Simulation du terrain d’un parcours de golf de 18 trous
@@ -2053,6 +2086,26 @@ Simuler la construction d’un parcours de 18 trous
 ```
 
 [Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2097755845001937172) · [Publication originale](https://x.com/Ror_Fly/status/2097755845001937172) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2097797479488246071"></a>
+
+### Clone de Minecraft multijoueur
+
+[Armaan Jain](https://x.com/Armaan_Jain123) · 2026-09-09
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2097797479488246071"><img src="../assets/previews/1169f5f631b3b63a5ce327df6448839084a348584343618ae7dae88f5ac9b4fc.jpg" width="840" loading="lazy" alt="Clone de Minecraft multijoueur"></a>
+
+Créez un clone de Minecraft jouable dans un navigateur, avec des mondes générés procéduralement à partir d’une seed, un mode Survie, des biomes, des dimensions, des créatures, des structures, des succès, le multijoueur en réseau local, une interface de jeu native, un audio directionnel, un comportement fidèle des blocs et des fluides, ainsi que des optimisations de performance.
+
+**Prompt**
+
+```text
+Créez un clone de Minecraft parfait de bout en bout et dites-moi si vous avez besoin de quoi que ce soit de ma part. J’ai joint un document de recherche approfondi sur Minecraft qui vous sera utile. Veillez à reproduire à la perfection les mécaniques, les animations et les graphismes. Chaque nouveau monde doit être généré de façon procédurale et aléatoire à partir d’une seed. Incluez toutes les créatures que les joueurs attendent de Minecraft et assurez-vous qu’elles apparaissent dans les biomes appropriés. Une fois l’implémentation solo terminée, ajoutez la possibilité d’ouvrir les mondes en réseau local et de rejoindre les serveurs des autres joueurs. Le jeu doit utiliser le mode Survie par défaut. Les textures doivent être exactement comme celles de Minecraft et, si vous trouvez les textures originales en ligne, vous pouvez les utiliser. Quand je dis que je le veux exactement comme Minecraft, je le pense vraiment. Personne ne doit pouvoir faire la différence entre le site que vous créez et le véritable Minecraft. Tout cela est réalisé à des fins éducatives, alors ne vous préoccupez pas des droits d’auteur. N’utilisez pas simplement du HTML pour l’interface du jeu. Construisez-la nativement dans le moteur de jeu. Les modèles du personnage et des créatures doivent être les vrais modèles, et ils doivent avoir exactement l’apparence, le fonctionnement et les animations du jeu original. Ajoutez un audio directionnel et des effets sonores. Passez en revue chaque page, chaque interaction et chaque mécanique afin d’atteindre la perfection. Une fois tout terminé et le clone de Minecraft parfait créé, commencez à optimiser ses performances à l’aide de techniques telles que le culling, la distance d’affichage, la distance de simulation, les niveaux de détail (LOD) selon la distance, l’optimisation des FPS, et bien plus encore. Assurez-vous que la logique du jeu est fidèle. Par exemple, si un bloc de sable ou de gravier situé sous d’autres blocs de sable ou de gravier est cassé, les blocs situés au-dessus doivent tomber. Si un bloc de support est cassé, les fleurs ou l’herbe placées au-dessus doivent également se casser. L’interface de l’inventaire doit être exactement identique et ses interactions doivent procurer les mêmes sensations, notamment les raccourcis, les animations et les effets d’impact des épées, des autres armes et des outils. Reproduisez fidèlement les interactions avec l’eau et les créatures qui s’y trouvent, le saut automatique et tous les autres petits détails. Concentrez-vous sur la précision de ces détails et rendez l’ensemble parfait. Le jeu ne doit pas sembler truffé de bugs. Il doit être fluide et exactement comme le véritable Minecraft. Faites attention aux détails plus discrets comme les nuages, le cycle jour-nuit, la météo, la musique d’ambiance de Minecraft, et bien plus encore. Assurez-vous que l’eau et la lave s’écoulent comme prévu et que leur rendu est parfaitement implémenté. Les créatures ne doivent pas apparaître les unes sur les autres, à l’intérieur des arbres ni à l’intérieur des blocs. Ajoutez les structures de Minecraft, les villageois, le butin et tout ce qui s’y rapporte. Perfectionnez la logique d’apparition des créatures, assurez-vous que leurs animations sont fluides et faites en sorte que la taille de chaque créature et du personnage du joueur corresponde fidèlement à celle de Minecraft. Concentrez-vous sur les actions couramment effectuées par les joueurs de Minecraft, comme sauter en plaçant des blocs pour construire des ponts plus rapidement ou grimper plus haut, utiliser Ctrl + W pendant un saut, et bien plus encore. Les objets doivent avoir une belle apparence lorsqu’ils sont tenus dans la main du joueur, et la position de la main doit correspondre exactement à celle de Minecraft. Ajoutez des effets d’impact sur les créatures et veillez à ce que chaque sprite d’objet dans l’inventaire ait exactement l’apparence de celui de Minecraft.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2097797479488246071) · [Publication originale](https://x.com/Armaan_Jain123/status/2097797479488246071) · [Retour aux exemples](#all-prompts)
 
 ---
 
@@ -2116,6 +2169,26 @@ Rendez chaque trou plus exigeant
 ```
 
 [Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098038909514944562) · [Publication originale](https://x.com/Ror_Fly/status/2098038909514944562) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2098043033446912315"></a>
+
+### Banc interactif de calamars
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098043033446912315"><img src="../assets/previews/3aad19d589e3d6a507904da717f40a29ca1c2142a2c5c3651b4fe16285114e02.jpg" width="840" loading="lazy" alt="Banc interactif de calamars"></a>
+
+Un banc interactif de calamars en WebGL, dont les corps sont calculés à partir de points mathématiques, avec des mouvements en temps réel, des contrôles, des changements de couleur, de l’inertie et une réaction de panique lorsque l’eau est touchée.
+
+**Prompt**
+
+```text
+créer un banc interactif de calamars
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098043033446912315) · [Publication originale](https://x.com/vib3coded/status/2098043033446912315) · [Retour aux exemples](#all-prompts)
 
 ---
 
@@ -2243,21 +2316,128 @@ Fournissez le MP4 en modèle blanc, le MP4 rendu par IA avec PixVerse et le proj
 
 ---
 
-<a id="2096251574918013135"></a>
+<a id="2098225609558335846"></a>
 
-### Une bataille de kaijus en ville
+### Vaisseau-courrier civil de départ de Sol Horizon
 
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05
+[Jonathan Plumb — Spokane Valley](https://x.com/jonathanplumb) · 2026-09-11
 
-<a href="https://www.tripo3d.ai/fr/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/previews/8f55d646820e4f1f0b98d00cdc85125c79f19093abe73bc0cecdfbf2e2365e50.webp" width="840" loading="lazy" alt="Une bataille de kaijus en ville"></a>
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098225609558335846"><img src="../assets/previews/8a672e63cd9fdbd2d4c5e721b2dc7576c34d9c37a023cb0edfe6a4d8a3bc6ce4.jpg" width="840" loading="lazy" alt="Vaisseau-courrier civil de départ de Sol Horizon"></a>
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098225609558335846"><img src="../assets/previews/57ae2f43a4ca798cfccd80c405c934bbdd10df6cb9738c29fd6ca1366dce9d2a.jpg" width="840" loading="lazy" alt="Vaisseau-courrier civil de départ de Sol Horizon"></a>
+
+Créez dans Blender un modèle prêt pour le jeu du vaisseau-courrier civil de départ de Sol Horizon, avec une conception modulaire hard-surface facilement réparable, des objets nommés, une géométrie de collision, une orientation avant adaptée à Unity et un export FBX.
 
 **Prompt**
 
 ```text
-Construis un jeu Three.js inspiré des kaijus en utilisant des modèles de créatures et des effets sonores générés. Crée des combats de géants lisibles et un environnement qui fait ressentir leur taille.
+Dans Blender, créez le vaisseau-courrier civil de départ de Sol Horizon. Il doit paraître usé, réparable, abordable et sûr — pas militaire. Créez un cockpit, une trappe de chargement, des propulseurs de manœuvre visibles, un ensemble moteur principal et quatre jambes d’atterrissage. Utilisez un style modulaire hard-surface adapté à de futures variantes. Limitez le maillage de rendu principal à moins de 15 000 triangles. Nommez clairement les objets, définissez l’orientation avant pour Unity, créez une géométrie de collision simple, appliquez les transformations, enregistrez le fichier .blend et exportez un FBX prêt pour le jeu. Affichez des captures d’écran de la vue 3D pour validation avant l’export.
 ```
 
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/kaiju-city-battle-2096251574918013135) · [Publication originale](https://x.com/majidmanzarpour/status/2096251574918013135) · [Démo](https://stormcolossus.netlify.app/) · [Retour aux exemples](#all-prompts)
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098225609558335846) · [Publication originale](https://x.com/jonathanplumb/status/2098225609558335846) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2098371778234179766"></a>
+
+### Processus de création d’une course-poursuite automobile en 3D à la GTA
+
+[はさまるスタジオ (Hasamaru Studio)](https://x.com/hasamaru_studio) · 2026-09-11
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098371778234179766"><img src="../assets/previews/6dc9ff60afd9d91d7ba17fa714e81e7d254847f878ad17f736d2dee8628e0ec5.jpg" width="840" loading="lazy" alt="Processus de création d’une course-poursuite automobile en 3D à la GTA"></a>
+
+Prompt demandant de créer dans Blender le modèle gris, les rigs du personnage et des véhicules, les animations ainsi qu’une vidéo maître de 12 secondes pour une course-poursuite automobile originale en 3D à la GTA, puis de finaliser chaque plan avec le plug-in PixVerse.
+
+**Prompt**
+
+```text
+Créez une course-poursuite automobile originale en 3D à la GTA en suivant le processus de production ci-dessous.
+
+【Conception】
+Définissez un conducteur principal, un véhicule en fuite, un véhicule de poursuite et un décor urbain, en veillant à la cohérence du design de chacun. Planifiez trois plans de 4 secondes chacun, pour une durée totale de 12 secondes.
+・Plan de poursuite suivant les véhicules depuis l’arrière
+・Plan latéral suivant les véhicules lorsqu’ils négocient un virage serré
+・Plan large montrant les véhicules s’éloignant
+
+【Construction dans Blender】
+Créez un modèle gris propre ainsi que des rigs fonctionnels pour le personnage et les véhicules. Les textures et le dépliage UV ne sont pas nécessaires.
+
+【Animation et tests】
+Animez le conducteur, les mouvements du volant, la rotation des roues, les véhicules et la caméra. Veillez à la cohérence du sens de déplacement et des positions relatives des véhicules, puis corrigez les intersections, les roues qui ne touchent pas le sol, le patinage irréaliste des pneus, les poses qui se déforment et les problèmes de mains qui quittent le volant.
+
+【Rendu dans Blender】
+Effectuez le rendu des images 1 à 288 en 1280 × 720 à 24 i/s. Assemblez les images réellement rendues dans Blender afin de créer une vidéo maître de 12 secondes avec les modèles gris. Exportez chaque plan séparément et rendez également l’image fixe grise correspondante pour servir de référence à la forme et au cadrage.
+
+【Finalisation avec le plug-in PixVerse】
+Utilisez Seedance 2.5 en 720p et traitez chaque plan séparément. Utilisez la vidéo Blender comme référence de mouvement et l’image fixe grise comme référence de forme. Indiquez dans le prompt de génération une palette de couleurs cohérente pour l’ensemble de la vidéo. Conservez les mouvements de caméra, le timing de l’action, le design des personnages et des véhicules ainsi que le nombre de véhicules.
+
+【Vérification et livraison】
+Vérifiez les deux vidéos finales et contrôlez les défauts visuels ainsi que la continuité entre les plans. Corrigez les problèmes du côté de Blender et régénérez uniquement les plans ayant échoué dans Seedance. Limitez les nouvelles tentatives à deux par plan.
+
+Livrez le fichier .blend modifiable, la vidéo des modèles gris Blender en 720p natif, la vidéo en 720p clairement identifiée comme version Seedance, ainsi qu’une brève évaluation des contraintes restantes.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098371778234179766) · [Publication originale](https://x.com/hasamaru_studio/status/2098371778234179766) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2098374138092277920"></a>
+
+### Modèle 3D interactif pour l’aménagement intérieur d’une pièce
+
+[Roma Kumakura](https://x.com/RomaKumakura) · 2026-09-11
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098374138092277920"><img src="../assets/previews/3502ac27242d7b63b0f3046fd7941c2f37ca1677492b8e5ddd2f45a157080751.jpg" width="840" loading="lazy" alt="Modèle 3D interactif pour l’aménagement intérieur d’une pièce"></a>
+
+Créez un projet interactif d’aménagement intérieur en 3D qui reproduit les dimensions de la pièce et permet de déplacer les meubles par glisser-déposer. Présentez également des propositions de rénovation par thème, un changement de budget et la vérification des angles de prise de vue.
+
+**Prompt**
+
+```text
+Au final, créez un projet qui me permette de comprendre clairement les propositions d’aménagement intérieur, de savoir quoi acheter et de comprendre comment disposer les éléments.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098374138092277920) · [Publication originale](https://x.com/RomaKumakura/status/2098374138092277920) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2098403061463224543"></a>
+
+### Scène miniature en volume représentant un temple
+
+[Rion Wu](https://x.com/rionaifantasy) · 2026-09-11
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098403061463224543"><img src="../assets/previews/66d1394523ca0e755b767c67c4784666975662070815f63d52e11d5863f84849.jpg" width="840" loading="lazy" alt="Scène miniature en volume représentant un temple"></a>
+
+Prompt de référence fourni par l’auteur dans les commentaires, pour créer une scène miniature en volume, en vue plongeante à 45° et en perspective isométrique, intégrant les éléments emblématiques d’un temple. Selon la publication d’origine, cette scène miniature de temple a été assemblée puis affinée à partir d’éléments séparés avec Astra et de détails réalisés avec V2Fun.
+
+**Prompt**
+
+```text
+Présenter une scène miniature en volume 2.5D de style cartoon, nette, en vue plongeante à 45° et en perspective isométrique, avec des textures douces et soignées, des matériaux PBR réalistes et un éclairage doux au rendu naturel. Créer une petite base surélevée, façon maquette, intégrant les éléments les plus reconnaissables d’un temple. Utiliser un fond uni. Composition : mise en page parfaitement centrée, format carré 1080 × 1080, esthétique de maquette en volume très propre et haute définition ; utiliser simplement une typographie plus grasse et plus lumineuse.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098403061463224543) · [Publication originale](https://x.com/rionaifantasy/status/2098403061463224543) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2098406473273663992"></a>
+
+### Figurine d’une petite fille jouant avec un robot
+
+[𝟡𝟜 ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI) · 2026-09-11
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098406473273663992"><img src="../assets/previews/36a29f044afe429a09799a73853956a95eaa3917011a12639f35ee3a4c506d25.jpg" width="840" loading="lazy" alt="Figurine d’une petite fille jouant avec un robot"></a>
+
+Créez une figurine complète de petite fille, en position debout, dans un style anime 3D très détaillé, avec un casque de chantier, un robot en tôle, une télécommande et une boîte à outils accrochée à la taille.
+
+**Prompt**
+
+```text
+Figurine entièrement assemblée d’une petite fille jouant avec un robot, portant un petit casque de chantier, tenant d’une main un robot en tôle et de l’autre une télécommande, avec une boîte à outils attachée à la taille. Tous les accessoires sont intégrés à la figurine en position debout, sur un fond blanc uni, avec un éclairage professionnel de studio, dans un style de présentation de figurine 3D anime très détaillé. ar3:4
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098406473273663992) · [Publication originale](https://x.com/94vanAI/status/2098406473273663992) · [Retour aux exemples](#all-prompts)
 
 ---
 
@@ -2276,78 +2456,6 @@ Prépare des variantes d’expression d’un personnage Tripo dans Blender avant
 ```
 
 [Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [Publication originale](https://x.com/Dstudio_ai/status/2096525100518453342) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2096245759121277132"></a>
-
-### Un site de studio 3D animé par le défilement
-
-[ui.debbie](https://x.com/mx_debbiee) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132"><img src="../assets/previews/a315174ac48f5392bb9a0a9ecb0f7948a9a2d1bf33f9f32f4cdfdb6c553a89ff.webp" width="840" loading="lazy" alt="Un site de studio 3D animé par le défilement"></a>
-
-**Prompt**
-
-```text
-Transforme l'image de référence fournie en scène Three.js au sein d'un site de studio au défilement fluide. Coordonne les mouvements de caméra, la typographie et les transitions entre sections.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [Publication originale](https://x.com/mx_debbiee/status/2096245759121277132) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2096244208533455049"></a>
-
-### Komorebi : du kayak en rivière
-
-[AJ](https://x.com/ItsmeAjayKV) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/komorebi-river-kayaking-2096244208533455049"><img src="../assets/previews/177462bb87e3089acbf23e2e6f58e75e4fa5cb7291601fdce6da2a3fb5f2b6af.webp" width="840" loading="lazy" alt="Komorebi : du kayak en rivière"></a>
-
-**Prompt**
-
-```text
-Construis un jeu de kayak 3D en rivière à l'esthétique inspirée de l'anime. Permets au joueur de pagayer à gauche et à droite pour éviter les obstacles, avec eau courante, paysages, musique et effets sonores générés par le code.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [Publication originale](https://x.com/ItsmeAjayKV/status/2096244208533455049) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2096250748099068377"></a>
-
-### Une démo Hyperloop interactive
-
-[Amir](https://x.com/hbanay98) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/interactive-hyperloop-demo-2096250748099068377"><img src="../assets/previews/6fe7e10c4907c28861e51727de19f2b115f6c9d7ffab6b0288b6cb0fc8f250e2.webp" width="840" loading="lazy" alt="Une démo Hyperloop interactive"></a>
-
-**Prompt**
-
-```text
-Construis une démonstration Three.js interactive d'Hyperloop montrant une capsule de transport, les tubes de l'infrastructure et les déplacements dans le système.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [Publication originale](https://x.com/hbanay98/status/2096250748099068377) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2096258619574513880"></a>
-
-### Une physique de course pour navigateur en C# et WASM
-
-[achepta](https://x.com/achepta_tm) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880"><img src="../assets/previews/da595232495fdcdcd646614361e119ff7b780672c6c697364c0197cc19302fd1.webp" width="840" loading="lazy" alt="Une physique de course pour navigateur en C# et WASM"></a>
-
-**Prompt**
-
-```text
-Recrée un système de physique de course façon Trackmania en C#, exécute-le via WASM et affiche le circuit dans Three.js. Utilise des maillages de piste avec collisions et teste le comportement du véhicule.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Publication originale](https://x.com/achepta_tm/status/2096258619574513880) · [Retour aux exemples](#all-prompts)
 
 ---
 
@@ -2513,24 +2621,6 @@ Utilise le plan du dernier étage d’une maison pour créer une scène Blender 
 
 ---
 
-<a id="2096298425914450021"></a>
-
-### Le Terreiro do Paço de Lisbonne dans Blender
-
-[Gonçalo Canhoto 🇵🇹](https://x.com/goncalo_canhoto) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021"><img src="../assets/previews/1a02f9822127ff717210634691346b1137e87f5e721498e19a61a744e480a3be.webp" width="840" loading="lazy" alt="Le Terreiro do Paço de Lisbonne dans Blender"></a>
-
-**Prompt**
-
-```text
-Recrée le Terreiro do Paço de Lisbonne sous forme de scène Blender modifiable. Recherche des références pour guider l’architecture, les matériaux et l’éclairage de la place.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021) · [Publication originale](https://x.com/goncalo_canhoto/status/2096298425914450021) · [Retour aux exemples](#all-prompts)
-
----
-
 <a id="2096574297703637111"></a>
 
 ### Quête d’exploration The Quiet Crossing
@@ -2546,24 +2636,6 @@ Crée un jeu d’exploration enneigé dans Three.js avec un personnage Blender, 
 ```
 
 [Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111) · [Publication originale](https://x.com/Motion_Viz/status/2096574297703637111) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2096263046918197609"></a>
-
-### Forêt procédurale dense dans Three.js
-
-[Leon Lin](https://x.com/LexnLin) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609"><img src="../assets/previews/f2a686fc1b131953cac41cec39c2492f871a7987eae5f2606755fddb83401adb.webp" width="840" loading="lazy" alt="Forêt procédurale dense dans Three.js"></a>
-
-**Prompt**
-
-```text
-Crée une forêt détaillée dans Three.js avec des milliers d’arbres, de l’herbe dense et des fougères. Utilise des shaders sur mesure et une répétition efficace de la géométrie pour conserver le détail dans toute la scène.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609) · [Publication originale](https://x.com/LexnLin/status/2096263046918197609) · [Retour aux exemples](#all-prompts)
 
 ---
 
@@ -3035,28 +3107,10 @@ Génère des assets 3D optimisés avec Tripo P2, assemble-les dans Blender, puis
 
 ---
 
-<a id="2096269057544831175"></a>
-
-### Landing page abyssale bioluminescente
-
-[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175"><img src="../assets/previews/15b86aef756eda74957965d57ff6104a61d7fcc04cad37581a49726ef5f363aa.webp" width="840" loading="lazy" alt="Landing page abyssale bioluminescente"></a>
-
-**Prompt**
-
-```text
-Crée une landing page des grands fonds avec des effets d’eau Three.js, une interface sombre à l’aspect vitré et des mouvements liés au défilement. Associe l’ambiance 3D à des interactions web claires et adaptées aux différentes tailles d’écran.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175) · [Publication originale](https://x.com/himanshubuildss/status/2096269057544831175) · [Retour aux exemples](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 216 exemples sur le site officiel →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 225 exemples sur le site officiel →</a></strong></p>
 <p><sub>Pour préserver la fluidité du rendu du README sur GitHub, seuls les 100 exemples les plus récents sont affichés ici.</sub></p>
 <br>
 </td></tr>
