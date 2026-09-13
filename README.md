@@ -27,7 +27,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**205 examples · 14 languages · 8 examples with source code**
+**214 examples · 14 languages · 9 examples with source code**
 
 ## Featured projects
 
@@ -46,10 +46,10 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 <summary>Browse examples</summary>
 
 - [Interactive 3D particle collider](#2097781208596029936) · GitHub
+- [Interactive 3D atlas of the human head and brain](#2098105648106078541) · GitHub
 - [Mosswing: Mobile 3D Tap-to-Flap Game](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
 - [Interactive dual-ring energy core](#2096551010089263181) · GitHub
 - [Cluj-Napoca Union Square in voxels](#2096262733259837681) · GitHub
-- [Browser Flight Simulator with a Complete Flight Loop](#2096236137266512181)
 - [Photorealistic Editable Dragon Reconstruction in Blender](#2096335588727349434)
 - [Character Concept to Rigged 3D Model and Cartoon](#2096342420543660277)
 - [Playable 3D Ensemble with Audio-Synchronized Animation](#2096354461652488562)
@@ -95,20 +95,20 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [GTA-inspired cartoon car chase workflow](#2098049032195293190)
 - [City Pulse](#2098063352832610473)
 - [Floating magical academy animation](#2098071577309122854)
+- [White-model shuttle flight through a city canyon](#2098079379297608050)
+- [Swordsman gate-destruction fantasy animation](#2098094339759149067)
+- [Interactive 3D robotic hand piano demonstration](#2098109252720078891)
 - [Sol Horizon starter civilian courier ship](#2098225609558335846)
+- [Automated Hair and Face Texture Generation and UV Transfer for Character Models](#2098367087475577273)
 - [Temple Miniature Diorama Scene](#2098403061463224543)
 - [Girl Playing with a Robot Figurine](#2098406473273663992)
+- [Zen Realm · Ancient Temple 3D Build Demo Video](#2098697876155076820)
+- [Skybound browser flight game](#2098739181510164652)
+- [Modular 3D-Printed Picture Frame with Connectors](#2098774359926297011)
+- [3D reconstruction of the 1893 Chicago World's Fair](#2098795017955418202)
 - [Kaiju city battle](#2096251574918013135)
 - [Switchable character expressions in Blender](#2096525100518453342)
-- [Orbital rendezvous simulator](#2096225621303042258)
-- [Scroll-driven 3D studio website](#2096245759121277132)
-- [Komorebi river kayaking](#2096244208533455049)
-- [Refractive bottle product story](#2096243989439713677)
-- [Interactive Hyperloop demo](#2096250748099068377)
-- [Procedural Napoleon bust](#2096234355395903672)
-- [Railway station concourse](#2096226711222546461)
 - [Browser racing physics in C# and WASM](#2096258619574513880)
-- [Memory capsule machine](#2096241295949975602)
 - [Warcraft-inspired character scene in Unity](#2096308567863079420)
 - [Rotatable 3D shogi board](#2096579856133947507)
 - [Exploded desktop-computer atlas](#2096578761877860502)
@@ -180,6 +180,53 @@ Deliver one self-contained HTML file that works offline, plus portable source co
 
 ---
 
+<a id="2098105648106078541"></a>
+
+### Interactive 3D atlas of the human head and brain
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098105648106078541"><img src="assets/previews/1251cdb60d51985d09d2870c9866d104d26bf152875bc50a1c46eb047a11be63.jpg" width="840" loading="lazy" alt="Interactive 3D atlas of the human head and brain"></a>
+
+A reusable recreation prompt recommended by the author for building an interactive anatomical head-and-brain atlas. It requests licensed anatomical meshes, layered exploration, inspection tools, clipping planes, exploded views, and an offline standalone HTML application.
+
+**Prompt**
+
+```text
+Build a complete interactive 3D atlas of the human head and brain. Deliver a working application, not a mockup. Make reasonable decisions independently, implement it, test it, and visually verify the result.
+
+Use Three.js and real, appropriately licensed Z-Anatomy / BodyParts3D meshes. Include the skull, teeth, facial muscles, brain, eyes, cranial nerves, arteries, veins, and available supporting membranes. Preserve their original anatomical relationships. Aim for hundreds of individually selectable structures, report the actual imported count, and retain source attribution.
+
+Create a clean, light interface with a pale grey background, white rounded panels, restrained blue-grey accents, and readable typography. Keep the model large, with a structure panel on the left, camera tools on the right, search at the top, and an explosion slider below. Use English throughout.
+
+Make the anatomy progressively explorable:
+Head → system → region → individual named structures.
+For example: Brain → Cerebrum → Left hemisphere → Frontal lobe → individual structures.
+
+Animate assembly and disassembly. Preserve source positions when assembled; arrange exploded groups in clearly separated layouts with readable labels. Indicate normalized scale and paginate large collections.
+
+Include:
+- Free rotation, wheel/pinch zoom, and camera presets.
+- Disassembly slider and Shift + wheel control.
+- Independent visibility switches for groups and individual parts.
+- Group opacity, undo, restore all, and reset.
+- Anatomical search, click-to-inspect, focus, isolation, and parent navigation.
+- Anatomical colours, porcelain, wireframe, and transparent modes.
+- Adjustable sagittal, axial, and coronal clipping planes with reverse direction.
+- Labels, automatic exploration, fullscreen, and PNG export.
+- A guided journey from the complete head into the brain and its networks.
+
+Keep hidden structures hidden across layout and material changes. Explain that clipping planes produce open display cuts, not medical scans. Do not invent anatomy or claim clinical validation.
+
+Deliver a standalone HTML containing the application and processed geometry, working offline without a server. Also provide clean source files, pinned dependencies, a lockfile, portable build scripts, an English README, and required licences and attribution. Exclude credentials, local machine paths, dependencies, and unrelated files.
+
+Test geometry integrity, hierarchy membership, visibility, undo, and layout spacing. Inspect the running application in a browser, exercise the controls, check for console errors, and fix visual overlaps before delivering.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098105648106078541) · [Original post](https://x.com/k1rallik/status/2098105648106078541) · [Source code](https://github.com/bubblik525/head) · [Back to examples](#all-prompts)
+
+---
+
 <a id="mosswing-mobile-3d-tap-to-flap-game"></a>
 
 ### Mosswing: Mobile 3D Tap-to-Flap Game
@@ -233,108 +280,6 @@ Create an interactive voxel world of Piața Unirii in Cluj-Napoca. Adapt the squ
 ```
 
 [View detail ↗](https://www.tripo3d.ai/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681) · [Original post](https://x.com/danmana/status/2096262733259837681) · [Source code](https://github.com/danmana/piata-unirii) · [Live demo](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [Back to examples](#all-prompts)
-
----
-
-<a id="2096236137266512181"></a>
-
-### Browser Flight Simulator with a Complete Flight Loop
-
-[aditya](https://x.com/adxtyahq) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096236137266512181"><img src="assets/previews/bbb03f5650350e6b4a323f0dd76f98d1abb0cbe94896f2dbe24d68c4bfbf8ce8.jpg" width="840" loading="lazy" alt="Browser Flight Simulator with a Complete Flight Loop"></a>
-
-Build a controllable 3D passenger aircraft, airport, flight instruments and a full takeoff-to-landing game loop, using the complete author-shared prompt.
-
-**Prompt**
-
-```text
-Build a polished, playable browser-based 3D flight simulator game from scratch.
-
-The goal is to create a small but genuinely playable flight-sim experience, not a static 3D scene.
-
-GAMEPLAY
-- Create an airport with a detailed runway, taxiway, terminal/buildings, grass/terrain, runway markings/lights, sky and clouds.
-- Place a recognizable passenger airplane at the airport.
-- The player must be able to control the aircraft with the keyboard.
-- Implement throttle, pitch, roll, yaw and braking.
-- The aircraft must have basic believable flight physics, momentum and acceleration.
-- The player should be able to accelerate down the runway, take off, fly around the airport, approach the runway and land.
-- Add a simple objective: take off, complete a short flight around the airport and land safely.
-- Include crash/failure detection and a restart option.
-
-CONTROLS
-Display controls clearly:
-- W/S: Pitch
-- A/D: Roll
-- Q/E: Yaw
-- Shift/Ctrl: Throttle
-- Space: Brake
-
-CAMERA
-- Use a smooth third-person chase camera behind the aircraft.
-- Keep the aircraft clearly visible during flight.
-- Camera should smoothly follow movement and respond subtly to acceleration.
-
-HUD
-Create a polished aviation-style HUD showing:
-- Airspeed
-- Altitude
-- Heading
-- Throttle
-- Vertical speed
-- Flight status
-- Current objective
-
-Include a compact controls/help panel that can be hidden.
-
-START + RESULTS
-Create a start screen with:
-"FLIGHT SIMULATOR"
-and a prominent "START FLIGHT" button.
-
-After a successful landing, show:
-- Flight completed
-- Landing quality
-- Flight time
-- Final score
-- Play Again
-
-VISUAL QUALITY
-Make it feel like a real game:
-- Cohesive stylized 3D visuals
-- Detailed aircraft
-- Attractive airport environment
-- Good lighting, shadows and materials
-- Clouds/atmosphere
-- Airport buildings, vehicles, signs, trees and other environmental details where appropriate
-- Avoid an empty or obviously unfinished scene
-
-FEEDBACK
-Add useful feedback for:
-- Throttle/engine state
-- Takeoff
-- Landing
-- Speed warnings
-- Altitude
-- Crashes
-- Successful landing
-
-TECHNICAL
-- Build the complete working game in the browser.
-- Do not leave placeholder buttons or fake interactions.
-- Prioritize responsive controls and smooth performance.
-- Use whatever appropriate web/3D technologies are available.
-
-IMPORTANT:
-Do not spend the entire task making a beautiful static scene. The aircraft MUST actually be controllable and the complete loop must work:
-
-START → ACCELERATE → TAKE OFF → FLY → APPROACH → LAND → SCORE → PLAY AGAIN
-
-Before finishing, run the game in the browser and test the entire gameplay loop yourself. Fix broken controls, physics, visual bugs and interaction issues you find.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096236137266512181) · [Original post](https://x.com/adxtyahq/status/2096236137266512181) · [Back to examples](#all-prompts)
 
 ---
 
@@ -2175,6 +2120,80 @@ Deliver the white-model MP4, the PixVerse AI-rendered MP4, and the editable Blen
 
 ---
 
+<a id="2098079379297608050"></a>
+
+### White-model shuttle flight through a city canyon
+
+[PixVerseCreators](https://x.com/PixVerseCreator) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098079379297608050"><img src="assets/previews/cd71fb962eb01f16094187f0998f65959e3a74f648b0c98dfd8aab0c9253ddb4.jpg" width="840" loading="lazy" alt="White-model shuttle flight through a city canyon"></a>
+
+A 10-second single-take Blender animation of an original shuttle flying at extreme speed through a dense city canyon, rendered with PixVerse from Blender references.
+
+**Prompt**
+
+```text
+Create a 10-second, single-take white-model shuttle flight in Blender. Build an original shuttle and a dense city canyon stretching several kilometers. Animate extremely fast forward flight along an extended route, covering over two kilometers without slowing down. Weave through narrow gaps and under bridges, change altitude, and perform two smooth barrel rolls in opposite directions. Make the speed unmistakable: nearby buildings streak backward, bridges whip overhead, and foreground structures rapidly sweep past the frame edges. Use strong directional motion blur on the environment while keeping the shuttle readable. Dense obstacles, close passes, and strong foreground-to-background parallax should convey sustained, full-throttle flight. Use a smooth wide-angle chase camera close behind and slightly above the shuttle, racing forward at matching speed. Keep the nose pointing into the city and the engines facing the camera. No cuts, camera shake, camera barrel rolls, slow motion, or deceleration at the ending. Test clearance, motion continuity, and the sense of speed at normal playback. Use PixVerse to render the final white-model animation from Blender references, preserving the extreme speed, flight path, and camera movement. Deliver the final MP4, editable Blender project, and brief notes on limitations.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098079379297608050) · [Original post](https://x.com/PixVerseCreator/status/2098079379297608050) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2098094339759149067"></a>
+
+### Swordsman gate-destruction fantasy animation
+
+[PixVerse](https://x.com/PixVerse) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098094339759149067"><img src="assets/previews/ca8a46498d2bcd9c4215ea347c01a1b03d81d9b98d7c5a53514c4d118628bc29.jpg" width="840" loading="lazy" alt="Swordsman gate-destruction fantasy animation"></a>
+
+Creates a 12-second Blender white-model action animation of a swordsman destroying a monumental gate, then transforms it into a painterly fantasy-film sequence with a mountain fortress, collapsing structures, aerial camera reveal, music, and synchronized sound.
+
+**Prompt**
+
+```text
+Create a 12-second white-model action animation in Blender, then use @PixVerse to transform the exported animation into a spectacular mature animated fantasy film sequence.
+
+In Blender, build a simple articulated swordsman, a sword and scabbard, a vast elevated stone platform, and one enormous gate with surrounding pillars. Use clean white or light-gray geometry and basic lighting. Prioritize readable action, convincing proportions, and a strong contrast between the small character and monumental architecture. Represent the sword-energy wave with a simple animated curved shape, and divide the gate into pieces that can visibly separate and fall.
+
+Start the camera close to the swordsman as he draws his weapon and briefly gathers force. Around the second second, animate one extremely fast, decisive slash driven by the feet, hips, torso, and arms. Release a visible crescent-shaped sword-energy wave that travels across the space and strikes the gate. Let the upper gate section slide along the cut, lose support, and collapse with clear acceleration and ground contact. After the strike, have the swordsman recover naturally, sheath the sword, straighten up, and relax his arms.
+
+As the attack unfolds, pull the camera backward and upward in a continuous, smooth movement. Keep ascending dramatically until the ending becomes an extremely high, nearly vertical aerial view of the entire platform and surrounding terrain. The character may become too small to distinguish. Maintain fast action and a powerful sense of expanding scale rather than lingering on the attack pose. Check body motion, weapon continuity, the energy wave’s travel, gate collapse, and camera movement at normal playback.
+
+Export the clean 12-second white-model MP4. Then use @PixVerse to generate a 12-second AI-rendered video, using the Blender animation as a loose reference for composition, action progression, and the rising camera. Preserve the essential sequence of preparation, slash, traveling energy wave, gate destruction, sheathing, and extreme aerial reveal, while allowing substantial cinematic expansion.
+
+Create a mature painterly animated-film aesthetic, combining expressive shapes, hand-painted surfaces, convincing three-dimensional volume, and soft cinematic lighting. Give the adult swordsman a distinctive silhouette, a wine-red coat, restrained armor, and composed determination. Expand the setting into an immense mountain fortress with layered walls, towers, bridges, deep ravines, and a sprawling city beyond.
+
+Make the crescent-shaped sword-energy wave a major visual event. It should cut through the gate and continue into distant fortifications, producing a readable chain of collapsing structures, sweeping dust, sparks, fire, and pressure waves. As the camera reaches extreme altitude, reveal the full path of the attack across the battlefield, with the swordsman standing quietly at its origin. Use cool atmospheric shadows contrasted with warm amber energy and scattered firelight. Include original cinematic music and synchronized sword, impact, collapse, wind, and distant city sounds.
+
+Deliver the white-model MP4, the PixVerse AI-rendered MP4, and the editable Blender project.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098094339759149067) · [Original post](https://x.com/PixVerse/status/2098094339759149067) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2098109252720078891"></a>
+
+### Interactive 3D robotic hand piano demonstration
+
+[MSB](https://x.com/KeWai386772) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098109252720078891"><img src="assets/previews/0da92a87e2cfefd4088b226ccf8d5e8dbd5b9938d4a76f0104f7fbdffd12c3fa.jpg" width="840" loading="lazy" alt="Interactive 3D robotic hand piano demonstration"></a>
+
+A browser-based interactive 3D demonstration of a five-finger robotic hand playing a 25-key miniature piano, with causally connected finger contact, key movement, MIDI-driven planning, audio, camera views, and performance diagnostics.
+
+**Prompt**
+
+```text
+Build a complete browser-based demonstration of a detailed five-finger robotic hand playing a miniature piano. The visible finger motion, physical key travel, generated notes, and musical timing must be causally connected. Deliver a visually polished, interactive application within the evaluator's time budget.  1. EXPERIENCE: Use a full-screen 3D scene with a precisely modeled robotic hand, articulated fingers, visible wrist mechanisms, and a 25-key keyboard spanning MIDI notes 60 through 84. Show realistic black-key and white-key geometry, independent key movement, fingertip pads, and refined materials. Include overhead, performer-side, and fingertip close-up cameras. Provide synchronized audio after the user activates playback.  2. COMMON MUSICAL INPUT: Use MIDI note numbers as the source of truth. At 96 BPM, play these events, expressed as (start beat, note, duration in beats): (0,60,0.4), (0.5,64,0.4), (1,67,0.4), (1.5,64,0.4), (2,62,0.4), (2.5,65,0.4), (3,69,0.4), (3.5,65,0.4), (4,60,0.4), (4.5,60,0.4), (5,60,1), (5,64,1), (5,67,1). The last three events form a simultaneous chord. Also support standard MIDI file import using an established parser.  3. HAND CONTROL: Model independently articulated fingers and a movable wrist. Plan reachable finger assignments, approach motions, presses, holds, releases, repeated-note articulation, and chord execution. Fingers must contact the correct keys without intersecting neighboring keys or making implausible jumps. Use inverse kinematics and joint limits. Display planned finger assignments and allow manual inspection of individual motions.  4. SOUND CAUSALITY: Generate note-on events only when the corresponding visible key crosses a documented depression threshold because of finger contact. Generate note-off on release, with hysteresis to prevent chatter. MIDI events are planning targets, not an independent audio playback track. A geometric contact-driven key mechanism is acceptable if explicitly identified; full contact dynamics may be used instead. Keys must not move merely because a MIDI event is scheduled.  5. TIMING: Use a consistent musical clock and timestamp actual key-trigger events against target events. Account for audio scheduling and render timing. Expose tempo, transpose, play, pause, restart, loop, and slow-motion inspection. Pausing or restarting must release active notes appropriately. Slowing playback must preserve synchronization between fingers, keys, and audio.  6. DIAGNOSTICS: Display target notes, planned fingers, actual triggered notes, and onset timing errors on an aligned timeline. Report missed notes, extra notes, wrong pitches, repeated-note failures, and stuck notes. Provide a contact inspection overlay showing which fingertip is depressing each key. Record the evidence needed to distinguish successful planning from approximate hand animation.  7. VERIFICATION: Evaluate melody, repeated notes, and the final chord separately. Aim for no wrong or missing notes, a 95th-percentile onset error below 50 ms, and final-chord onset spread below 50 ms. Report actual measurements even when targets are missed. Provide a test that disables finger actuation: the score may continue advancing, but unpressed keys must not generate notes.  8. DELIVERY: Use Three.js, TypeScript, appropriate audio APIs, and established parsing or numerical libraries. Deliver the running application, source code, reproducible musical fixture, assets or generation scripts, and startup instructions. Verify browser audio, controls, camera views, desktop and mobile layout, and repeated playback. All displayed performance claims must come from measured behavior.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098109252720078891) · [Original post](https://x.com/KeWai386772/status/2098109252720078891) · [Back to examples](#all-prompts)
+
+---
+
 <a id="2098225609558335846"></a>
 
 ### Sol Horizon starter civilian courier ship
@@ -2194,6 +2213,28 @@ In Blender, create Sol Horizon’s starter civilian courier ship. It should look
 ```
 
 [View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098225609558335846) · [Original post](https://x.com/jonathanplumb/status/2098225609558335846) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2098367087475577273"></a>
+
+### Automated Hair and Face Texture Generation and UV Transfer for Character Models
+
+[さ🥺](https://x.com/_sagyoai) · 2026-09-11
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098367087475577273"><img src="assets/previews/796d0921534d254e6ae0af1573edeef0691da20f53a1c97baaf2dfa29777cbf5.jpg" width="840" loading="lazy" alt="Automated Hair and Face Texture Generation and UV Transfer for Character Models"></a>
+
+A prompt for Blender MCP to generate a texture image using a front-facing render of the face without hair as a reference, then transfer it to the output UVs using parallel projection.
+
+**Prompt**
+
+```text
+Please use image generation to create the best possible texture
+Render the front-facing, hairless face with flat shading and no shadows, use it as a reference to generate a textured image, then map it with parallel projection and transfer it to the output UV
+Or use a better method if astra can think of one.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098367087475577273) · [Original post](https://x.com/_sagyoai/status/2098367087475577273) · [Back to examples](#all-prompts)
 
 ---
 
@@ -2237,6 +2278,108 @@ A fully assembled figurine of a little girl playing with a robot, wearing a smal
 
 ---
 
+<a id="2098697876155076820"></a>
+
+### Zen Realm · Ancient Temple 3D Build Demo Video
+
+[火山哥🕊️](https://x.com/huoshan007) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098697876155076820"><img src="assets/previews/6800bfab42550a339838b03a419c1ce1ce728d074046f73022acbc754d4e37f4.jpg" width="840" loading="lazy" alt="Zen Realm · Ancient Temple 3D Build Demo Video"></a>
+
+This post shares a prompt for creating a video of the 3D construction process for the “Zen Realm · Ancient Temple” scene; the poster says the prompt came from a website.
+
+**Prompt**
+
+```text
+Create a complete 3D demonstration video showing the entire process of building “Zen Realm · Ancient Temple,” from design to finished scene, and deliver the final MP4.
+
+Visual requirements:
+1080×1080 square format, a 45° top-down orthographic view, a miniature 2.5D cartoon-style 3D model, perfectly centered. Use a raised light-colored stone base, a solid teal-green background, soft refined textures, PBR materials, and gentle realistic lighting.
+
+The scene includes:
+a Chinese temple with double-eaved roofs, upturned glazed-tile eaves, teal-green roofs, golden ridgelines, vermilion columns, lattice doors and windows, a temple gate, a bell pavilion, an incense burner, stone lanterns, a stone-paved courtyard, pine trees, pink flowering trees, and a lotus pond.
+
+The title “禅境·古寺” appears at the top in bold, bright warm-white Chinese lettering.
+
+Video timeline, 64 seconds total:
+0–8 seconds: Draw the floor plan stroke by stroke.
+8–15 seconds: Raise the base and the buildings’ primary blockout forms.
+15–24 seconds: Generate details such as columns, walls, doors, and windows.
+24–32 seconds: Build the double-eaved roofs, tiles, and upturned corners.
+32–41 seconds: Add the temple gate, courtyard, trees, and environmental details.
+41–49 seconds: Gradually apply colors and PBR materials to the gray blockout.
+49–54 seconds: Adjust the lighting, reflections, and soft shadows.
+54–64 seconds: Slowly orbit around the finished scene, with subtle falling petals, incense smoke, and water ripples.
+
+Use real 3D geometry and show the construction process continuously in the same shot. Display only brief stage labels; do not use PowerPoint-style explanation slides or add narration.
+
+Use Three.js to generate the scene and animation, render frame by frame, then export a 30fps H.264 MP4 with FFmpeg. Check full playback, stage order, model integrity, and black frames.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098697876155076820) · [Original post](https://x.com/huoshan007/status/2098697876155076820) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2098739181510164652"></a>
+
+### Skybound browser flight game
+
+[Aakash Kanojiya](https://x.com/Kanojiyaaakash1) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098739181510164652"><img src="assets/previews/cc41c83e2ecb4d3e77d02476e259243389db470101509b700c06dd3af39dd4cb.jpg" width="840" loading="lazy" alt="Skybound browser flight game"></a>
+
+A playable browser-based 3D flight game in which the player pilots a dragon through floating islands and collects rings for score. The prompt requests Hyper3D Rodin MCP to generate the dragon model.
+
+**Prompt**
+
+```text
+Build a browser flight game called Skybound using Three.js. The player pilots a dragon through a field of floating islands, collecting rings for score. You'll need a 3D dragon model - use the Hyper3D Rodin MCP to generate it.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098739181510164652) · [Original post](https://x.com/Kanojiyaaakash1/status/2098739181510164652) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2098774359926297011"></a>
+
+### Modular 3D-Printed Picture Frame with Connectors
+
+[wada](https://x.com/wada) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098774359926297011"><img src="assets/previews/92b9675f7ef605c4f91460c0788dd84f57cd23d0f75c4482937da6c2c76f34f9.png" width="840" loading="lazy" alt="Modular 3D-Printed Picture Frame with Connectors"></a>
+
+Create a picture frame assembled by connecting multiple parts with joints so it can be printed on a small 3D printer. The post states that ID-labeled STL files for the joint sections were generated to compensate for printer and filament tolerances.
+
+**Prompt**
+
+```text
+I want to print a picture frame on a 3D printer, but the printer is too small, so I’d like one that can be completed by joining separate parts. That sounds a bit boring, so use connectors to make it more interesting.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098774359926297011) · [Original post](https://x.com/wada/status/2098774359926297011) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2098795017955418202"></a>
+
+### 3D reconstruction of the 1893 Chicago World's Fair
+
+[Dan Elton](https://x.com/moreisdifferent) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098795017955418202"><img src="assets/previews/81cc4ab0f0941aecdb4845f4372e0b7375ca0dcef194e05b92384115d8bcb45b.jpg" width="840" loading="lazy" alt="3D reconstruction of the 1893 Chicago World's Fair"></a>
+
+A 3D Blender reconstruction of the World's Columbian Exposition of 1893, using historical photographs and reference information about the fair.
+
+**Prompt**
+
+```text
+download 2,000 historical photographs and reference information around the fair and use all the information obtained to create a 3D reconstruction in Blender.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098795017955418202) · [Original post](https://x.com/moreisdifferent/status/2098795017955418202) · [Back to examples](#all-prompts)
+
+---
+
 <a id="2096251574918013135"></a>
 
 ### Kaiju city battle
@@ -2273,132 +2416,6 @@ Set up expression variants of a Tripo character in Blender before rigging. Align
 
 ---
 
-<a id="2096225621303042258"></a>
-
-### Orbital rendezvous simulator
-
-[Alican Kiraz](https://x.com/AlicanKiraz0) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/3d-prompts/orbital-rendezvous-simulator-2096225621303042258"><img src="assets/previews/42e7d7821256b5c0e0d6ef4267f582a3a9406817642abaecae99cc2e479b733f.webp" width="840" loading="lazy" alt="Orbital rendezvous simulator"></a>
-
-**Prompt**
-
-```text
-Build a real-time orbital rendezvous simulation using two-body ECI propagation and HCW guidance. Include six-degree-of-freedom orientation, fuel use, force limits and a docking objective.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/orbital-rendezvous-simulator-2096225621303042258) · [Original post](https://x.com/AlicanKiraz0/status/2096225621303042258) · [Back to examples](#all-prompts)
-
----
-
-<a id="2096245759121277132"></a>
-
-### Scroll-driven 3D studio website
-
-[ui.debbie](https://x.com/mx_debbiee) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132"><img src="assets/previews/a315174ac48f5392bb9a0a9ecb0f7948a9a2d1bf33f9f32f4cdfdb6c553a89ff.webp" width="840" loading="lazy" alt="Scroll-driven 3D studio website"></a>
-
-**Prompt**
-
-```text
-Turn the supplied reference image into a Three.js scene within a smooth scroll-driven studio website. Coordinate camera motion, typography and section transitions.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [Original post](https://x.com/mx_debbiee/status/2096245759121277132) · [Back to examples](#all-prompts)
-
----
-
-<a id="2096244208533455049"></a>
-
-### Komorebi river kayaking
-
-[AJ](https://x.com/ItsmeAjayKV) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/3d-prompts/komorebi-river-kayaking-2096244208533455049"><img src="assets/previews/177462bb87e3089acbf23e2e6f58e75e4fa5cb7291601fdce6da2a3fb5f2b6af.webp" width="840" loading="lazy" alt="Komorebi river kayaking"></a>
-
-**Prompt**
-
-```text
-Build a 3D river kayaking game with anime-inspired aesthetics. Let the player paddle left and right to avoid obstacles, with flowing water, scenery, music and sound effects generated in code.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [Original post](https://x.com/ItsmeAjayKV/status/2096244208533455049) · [Back to examples](#all-prompts)
-
----
-
-<a id="2096243989439713677"></a>
-
-### Refractive bottle product story
-
-[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/3d-prompts/refractive-bottle-product-story-2096243989439713677"><img src="assets/previews/0752e3417e975ec333d58ef948643def758c883afb543c38e664b40f45d11b43.webp" width="840" loading="lazy" alt="Refractive bottle product story"></a>
-
-**Prompt**
-
-```text
-Build an interactive product website around a photorealistic WebGL glass bottle. Use refractive liquid, scroll-driven rotation and bold typography while maintaining browser performance.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [Original post](https://x.com/himanshubuildss/status/2096243989439713677) · [Back to examples](#all-prompts)
-
----
-
-<a id="2096250748099068377"></a>
-
-### Interactive Hyperloop demo
-
-[Amir](https://x.com/hbanay98) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/3d-prompts/interactive-hyperloop-demo-2096250748099068377"><img src="assets/previews/6fe7e10c4907c28861e51727de19f2b115f6c9d7ffab6b0288b6cb0fc8f250e2.webp" width="840" loading="lazy" alt="Interactive Hyperloop demo"></a>
-
-**Prompt**
-
-```text
-Build an interactive Three.js Hyperloop demonstration showing a transport pod, tube infrastructure and motion through the system.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [Original post](https://x.com/hbanay98/status/2096250748099068377) · [Back to examples](#all-prompts)
-
----
-
-<a id="2096234355395903672"></a>
-
-### Procedural Napoleon bust
-
-[Le PLOUTOS](https://x.com/leploutos) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/3d-prompts/procedural-napoleon-bust-2096234355395903672"><img src="assets/previews/fda483263b1b7468f091f1798d7841bcfb9b983bc7659ca2ef491c23f3bbc948.webp" width="840" loading="lazy" alt="Procedural Napoleon bust"></a>
-
-**Prompt**
-
-```text
-Code a 3D bust of Napoleon in Three.js. Build it in stages, inspect it from different angles and refine facial proportions and clothing details.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [Original post](https://x.com/leploutos/status/2096234355395903672) · [Back to examples](#all-prompts)
-
----
-
-<a id="2096226711222546461"></a>
-
-### Railway station concourse
-
-[Wormhole404](https://x.com/0xWormhole404) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/3d-prompts/railway-station-concourse-2096226711222546461"><img src="assets/previews/ec572c18e5e02ac65512d6d72ffe09c5afb807b131336ac8b75d13aefb86899c.webp" width="840" loading="lazy" alt="Railway station concourse"></a>
-
-**Prompt**
-
-```text
-Create a railway concourse with a strong architectural rhythm, believable scale and convincing materials. Produce an inspectable 3D scene with carefully framed station views.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/railway-station-concourse-2096226711222546461) · [Original post](https://x.com/0xWormhole404/status/2096226711222546461) · [Back to examples](#all-prompts)
-
----
-
 <a id="2096258619574513880"></a>
 
 ### Browser racing physics in C# and WASM
@@ -2414,24 +2431,6 @@ Recreate a Trackmania-style racing physics system in C#, run it through WASM and
 ```
 
 [View detail ↗](https://www.tripo3d.ai/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Original post](https://x.com/achepta_tm/status/2096258619574513880) · [Back to examples](#all-prompts)
-
----
-
-<a id="2096241295949975602"></a>
-
-### Memory capsule machine
-
-[Gloria Zhang](https://x.com/gloria_zwq) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/3d-prompts/memory-capsule-machine-2096241295949975602"><img src="assets/previews/2623ee6ae5ad1e80ed6af68f48f0ef33bb34a6fc638f5fd6d55f8ab0de7b3625.webp" width="840" loading="lazy" alt="Memory capsule machine"></a>
-
-**Prompt**
-
-```text
-Build a 3D memory capsule machine. Turn a knob to release a memory, model the mechanism in Blender and give the falling capsules believable motion and sound.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/memory-capsule-machine-2096241295949975602) · [Original post](https://x.com/gloria_zwq/status/2096241295949975602) · [Back to examples](#all-prompts)
 
 ---
 
@@ -3086,7 +3085,7 @@ Build a deep-sea landing page with Three.js water effects, a dark glass-like int
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 205 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 214 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>

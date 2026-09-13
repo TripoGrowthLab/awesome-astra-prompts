@@ -26,7 +26,7 @@
 **Un point de départ pour votre prochain jeu, scène ou monde interactif.**
 
 
-**205 · Derniers prompts Astra**
+**214 · Derniers prompts Astra**
 
 ## Projets à découvrir
 
@@ -45,10 +45,10 @@
 <summary>Parcourir les exemples</summary>
 
 - [Collisionneur de particules 3D interactif](#2097781208596029936) · GitHub
+- [Atlas 3D interactif de la tête et du cerveau humains](#2098105648106078541) · GitHub
 - [Mosswing : jeu mobile 3D où il faut tapoter pour battre des ailes](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
 - [Noyau d’énergie interactif à deux anneaux](#2096551010089263181) · GitHub
 - [La place de l’Union de Cluj-Napoca en voxels](#2096262733259837681) · GitHub
-- [Simulateur de vol dans le navigateur avec une boucle de vol complète](#2096236137266512181)
 - [Reconstruction photoréaliste et éditable d’un dragon dans Blender](#2096335588727349434)
 - [Du concept de personnage au modèle 3D riggé et au dessin animé](#2096342420543660277)
 - [Ensemble 3D jouable avec animation synchronisée sur l’audio](#2096354461652488562)
@@ -94,20 +94,20 @@
 - [Workflow de course-poursuite automobile cartoon inspirée de GTA](#2098049032195293190)
 - [Pouls urbain](#2098063352832610473)
 - [Animation d’une académie magique flottante](#2098071577309122854)
+- [Vol d’une navette blanche dans un canyon urbain](#2098079379297608050)
+- [Animation fantasy : un épéiste détruit une porte fortifiée](#2098094339759149067)
+- [Démonstration interactive en 3D d’une main robotique jouant du piano](#2098109252720078891)
 - [Vaisseau-courrier civil de départ de Sol Horizon](#2098225609558335846)
+- [Génération automatique des textures des cheveux et du visage d’un personnage, avec transfert UV](#2098367087475577273)
 - [Scène miniature en volume représentant un temple](#2098403061463224543)
 - [Figurine d’une petite fille jouant avec un robot](#2098406473273663992)
+- [Vidéo de démonstration de construction 3D — Temple ancien zen](#2098697876155076820)
+- [Jeu de vol Skybound sur navigateur](#2098739181510164652)
+- [Cadre imprimé en 3D, à assembler par connecteurs](#2098774359926297011)
+- [Reconstitution 3D de l’Exposition universelle de Chicago de 1893](#2098795017955418202)
 - [Une bataille de kaijus en ville](#2096251574918013135)
 - [Expressions de personnage interchangeables dans Blender](#2096525100518453342)
-- [Un simulateur de rendez-vous orbital](#2096225621303042258)
-- [Un site de studio 3D animé par le défilement](#2096245759121277132)
-- [Komorebi : du kayak en rivière](#2096244208533455049)
-- [Une bouteille réfractive au cœur d'un récit produit](#2096243989439713677)
-- [Une démo Hyperloop interactive](#2096250748099068377)
-- [Un buste procédural de Napoléon](#2096234355395903672)
-- [Un hall de gare](#2096226711222546461)
 - [Une physique de course pour navigateur en C# et WASM](#2096258619574513880)
-- [Une machine à capsules de souvenirs](#2096241295949975602)
 - [Scène de personnage inspirée de Warcraft dans Unity](#2096308567863079420)
 - [Plateau de shogi 3D pivotant](#2096579856133947507)
 - [Atlas éclaté d’un ordinateur de bureau](#2096578761877860502)
@@ -179,6 +179,53 @@ Livrez un fichier HTML autonome fonctionnant hors ligne, ainsi que le code sourc
 
 ---
 
+<a id="2098105648106078541"></a>
+
+### Atlas 3D interactif de la tête et du cerveau humains
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098105648106078541"><img src="../assets/previews/1251cdb60d51985d09d2870c9866d104d26bf152875bc50a1c46eb047a11be63.jpg" width="840" loading="lazy" alt="Atlas 3D interactif de la tête et du cerveau humains"></a>
+
+Prompt de recréation réutilisable recommandé par l’auteur pour créer un atlas anatomique interactif de la tête et du cerveau. Il demande des maillages anatomiques sous licence, une exploration par couches, des outils d’inspection, des plans de découpe, des vues éclatées et une application HTML autonome fonctionnant hors ligne.
+
+**Prompt**
+
+```text
+Créez un atlas 3D interactif complet de la tête et du cerveau humains. Livrez une application fonctionnelle, pas une maquette. Prenez de manière autonome des décisions raisonnables, implémentez-les, testez-les et vérifiez visuellement le résultat.
+
+Utilisez Three.js ainsi que de vrais maillages Z-Anatomy / BodyParts3D correctement sous licence. Incluez le crâne, les dents, les muscles faciaux, le cerveau, les yeux, les nerfs crâniens, les artères, les veines et les membranes complémentaires disponibles. Préservez leurs relations anatomiques d’origine. Visez plusieurs centaines de structures sélectionnables individuellement, indiquez le nombre réel d’éléments importés et conservez l’attribution des sources.
+
+Créez une interface claire et lumineuse avec un arrière-plan gris pâle, des panneaux blancs aux angles arrondis, des accents bleu-gris discrets et une typographie lisible. Gardez le modèle de grande taille, avec un panneau des structures à gauche, les outils de caméra à droite, la recherche en haut et un curseur d’explosion en dessous. Utilisez l’anglais partout.
+
+Rendez l’anatomie progressivement explorable :
+Tête → système → région → structures individuelles nommées.
+Par exemple : Cerveau → Cérébrum → Hémisphère gauche → Lobe frontal → structures individuelles.
+
+Animez l’assemblage et le désassemblage. Préservez les positions d’origine lors de l’assemblage ; disposez les groupes éclatés selon des agencements clairement séparés et munis de libellés lisibles. Indiquez l’échelle normalisée et répartissez les grandes collections sur plusieurs pages.
+
+Incluez :
+- Rotation libre, zoom à la molette ou par pincement et préréglages de caméra.
+- Curseur de désassemblage et contrôle Maj + molette.
+- Commutateurs de visibilité indépendants pour les groupes et les éléments individuels.
+- Opacité des groupes, annulation, restauration de l’ensemble et réinitialisation.
+- Recherche anatomique, inspection au clic, centrage, isolation et navigation vers le parent.
+- Couleurs anatomiques, porcelaine, mode filaire et mode transparent.
+- Plans de découpe sagittal, axial et coronal réglables, avec inversion du sens.
+- Libellés, exploration automatique, mode plein écran et export PNG.
+- Parcours guidé de la tête complète jusqu’au cerveau et à ses réseaux.
+
+Conservez les structures masquées lors des changements de disposition et de matériau. Expliquez que les plans de découpe produisent des coupes d’affichage ouvertes et non des scanners médicaux. N’inventez pas d’éléments anatomiques et ne revendiquez aucune validation clinique.
+
+Livrez un fichier HTML autonome contenant l’application et la géométrie traitée, fonctionnant hors ligne sans serveur. Fournissez également les fichiers source propres, les dépendances verrouillées sur des versions précises, un fichier lock, des scripts de build portables, un README en anglais ainsi que les licences et attributions requises. Excluez les identifiants, les chemins locaux, les dépendances et les fichiers sans rapport.
+
+Testez l’intégrité de la géométrie, l’appartenance à la hiérarchie, la visibilité, l’annulation et l’espacement des agencements. Inspectez l’application en cours d’exécution dans un navigateur, utilisez les contrôles, vérifiez l’absence d’erreurs dans la console et corrigez les chevauchements visuels avant la livraison.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098105648106078541) · [Publication originale](https://x.com/k1rallik/status/2098105648106078541) · [Code source](https://github.com/bubblik525/head) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="mosswing-mobile-3d-tap-to-flap-game"></a>
 
 ### Mosswing : jeu mobile 3D où il faut tapoter pour battre des ailes
@@ -232,108 +279,6 @@ Crée un monde interactif en voxels de la Piața Unirii à Cluj-Napoca. Adapte l
 ```
 
 [Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681) · [Publication originale](https://x.com/danmana/status/2096262733259837681) · [Code source](https://github.com/danmana/piata-unirii) · [Démo](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2096236137266512181"></a>
-
-### Simulateur de vol dans le navigateur avec une boucle de vol complète
-
-[aditya](https://x.com/adxtyahq) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2096236137266512181"><img src="../assets/previews/bbb03f5650350e6b4a323f0dd76f98d1abb0cbe94896f2dbe24d68c4bfbf8ce8.jpg" width="840" loading="lazy" alt="Simulateur de vol dans le navigateur avec une boucle de vol complète"></a>
-
-Créez un avion de ligne 3D contrôlable, un aéroport, des instruments de vol et une boucle de jeu complète, du décollage à l’atterrissage, à l’aide du prompt complet fourni par l’auteur.
-
-**Prompt**
-
-```text
-Créez de zéro un simulateur de vol 3D jouable et soigné dans le navigateur.
-
-L’objectif est de créer une expérience de simulation de vol modeste, mais réellement jouable, et non une simple scène 3D statique.
-
-GAMEPLAY
-- Créez un aéroport avec une piste détaillée, une voie de circulation, un terminal et des bâtiments, de l’herbe et du relief, ainsi que des marquages et des balises lumineuses de piste, un ciel et des nuages.
-- Placez un avion de ligne reconnaissable dans l’aéroport.
-- Le joueur doit pouvoir piloter l’avion au clavier.
-- Implémentez la poussée, le tangage, le roulis, le lacet et le freinage.
-- L’avion doit avoir une physique de vol de base crédible, avec de l’inertie et de l’accélération.
-- Le joueur doit pouvoir accélérer sur la piste, décoller, voler autour de l’aéroport, se présenter en approche et atterrir.
-- Ajoutez un objectif simple : décoller, effectuer un court vol autour de l’aéroport et atterrir en toute sécurité.
-- Intégrez la détection des crashs et des échecs, ainsi qu’une option pour recommencer.
-
-CONTROLS
-Affichez clairement les commandes :
-- W/S : tangage
-- A/D : roulis
-- Q/E : lacet
-- Maj/Ctrl : poussée
-- Espace : frein
-
-CAMERA
-- Utilisez une caméra fluide en vue à la troisième personne, placée derrière l’avion et le suivant.
-- Gardez l’avion clairement visible pendant le vol.
-- La caméra doit suivre les mouvements avec fluidité et réagir subtilement à l’accélération.
-
-HUD
-Créez un HUD soigné, au style aéronautique, affichant :
-- Vitesse indiquée
-- Altitude
-- Cap
-- Poussée
-- Vitesse verticale
-- État du vol
-- Objectif actuel
-
-Ajoutez un panneau compact d’aide et de commandes pouvant être masqué.
-
-DÉMARRAGE + RÉSULTATS
-Créez un écran de démarrage avec :
-« SIMULATEUR DE VOL »
-et un bouton bien visible « COMMENCER LE VOL ».
-
-Après un atterrissage réussi, affichez :
-- Vol terminé
-- Qualité de l’atterrissage
-- Durée du vol
-- Score final
-- Rejouer
-
-QUALITÉ VISUELLE
-Donnez-lui l’apparence d’un vrai jeu :
-- Des visuels 3D stylisés et cohérents
-- Un avion détaillé
-- Un environnement aéroportuaire attrayant
-- Un éclairage, des ombres et des matériaux soignés
-- Des nuages et une atmosphère
-- Des bâtiments aéroportuaires, des véhicules, des panneaux, des arbres et d’autres détails environnementaux, lorsque cela est pertinent
-- Évitez une scène vide ou manifestement inachevée
-
-FEEDBACK
-Ajoutez des retours utiles concernant :
-- L’état de la poussée et du moteur
-- Le décollage
-- L’atterrissage
-- Les alertes de vitesse
-- L’altitude
-- Les crashs
-- La réussite de l’atterrissage
-
-TECHNICAL
-- Créez le jeu complet et fonctionnel dans le navigateur.
-- Ne laissez aucun bouton factice ni interaction simulée.
-- Donnez la priorité à des commandes réactives et à des performances fluides.
-- Utilisez les technologies web et 3D pertinentes disponibles.
-
-IMPORTANT :
-Ne consacrez pas toute la tâche à créer une belle scène statique. L’avion DOIT réellement être contrôlable et la boucle complète doit fonctionner :
-
-DÉMARRER → ACCÉLÉRER → DÉCOLLER → VOLER → SUIVRE L’APPROCHE → ATTERRIR → OBTENIR LE SCORE → REJOUER
-
-Avant de terminer, exécutez le jeu dans le navigateur et testez vous-même l’intégralité de la boucle de jeu. Corrigez les commandes, la physique, les problèmes visuels et les interactions défectueuses que vous trouverez.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2096236137266512181) · [Publication originale](https://x.com/adxtyahq/status/2096236137266512181) · [Retour aux exemples](#all-prompts)
 
 ---
 
@@ -2174,6 +2119,80 @@ Fournissez le MP4 en modèle blanc, le MP4 rendu par IA avec PixVerse et le proj
 
 ---
 
+<a id="2098079379297608050"></a>
+
+### Vol d’une navette blanche dans un canyon urbain
+
+[PixVerseCreators](https://x.com/PixVerseCreator) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098079379297608050"><img src="../assets/previews/cd71fb962eb01f16094187f0998f65959e3a74f648b0c98dfd8aab0c9253ddb4.jpg" width="840" loading="lazy" alt="Vol d’une navette blanche dans un canyon urbain"></a>
+
+Animation Blender de 10 secondes en plan-séquence, montrant une navette originale traversant à une vitesse extrême un canyon urbain dense, rendue avec PixVerse à partir de références Blender.
+
+**Prompt**
+
+```text
+Créez dans Blender le vol en plan-séquence de 10 secondes d’une navette blanche. Concevez une navette originale et un canyon urbain dense s’étendant sur plusieurs kilomètres. Animez un vol en ligne droite à vitesse extrêmement élevée sur un parcours étendu, en couvrant plus de deux kilomètres sans ralentir. Faufiler la navette dans des passages étroits et sous des ponts, faire varier son altitude et exécuter deux tonneaux fluides dans des directions opposées. Rendez la vitesse incontestable : les bâtiments proches filent vers l’arrière, les ponts défilent au-dessus de la navette et les structures au premier plan balaient rapidement les bords du cadre. Appliquez un flou de mouvement directionnel marqué à l’environnement tout en gardant la navette lisible. La densité des obstacles, les passages à très faible distance et un fort effet de parallaxe entre le premier plan et l’arrière-plan doivent traduire un vol soutenu à pleine puissance. Utilisez une caméra de poursuite fluide et grand-angle, placée près derrière et légèrement au-dessus de la navette, avançant à la même vitesse. Gardez le nez orienté vers la ville et les moteurs face à la caméra. Aucun raccord, tremblement de caméra, tonneau de la caméra, ralenti ni décélération à la fin. Vérifiez les marges de sécurité, la continuité du mouvement et la sensation de vitesse en lecture normale. Utilisez PixVerse pour rendre l’animation finale en modèle blanc à partir de références Blender, en conservant la vitesse extrême, la trajectoire de vol et les mouvements de caméra. Fournissez le MP4 final, le projet Blender modifiable et de brèves notes sur les limites.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098079379297608050) · [Publication originale](https://x.com/PixVerseCreator/status/2098079379297608050) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2098094339759149067"></a>
+
+### Animation fantasy : un épéiste détruit une porte fortifiée
+
+[PixVerse](https://x.com/PixVerse) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098094339759149067"><img src="../assets/previews/ca8a46498d2bcd9c4215ea347c01a1b03d81d9b98d7c5a53514c4d118628bc29.jpg" width="840" loading="lazy" alt="Animation fantasy : un épéiste détruit une porte fortifiée"></a>
+
+Crée une animation d’action de 12 secondes dans Blender, en modèle blanc, où un épéiste détruit une porte monumentale, puis transforme-la en une séquence de film fantasy animée au style pictural, avec une forteresse montagneuse, des structures qui s’effondrent, une révélation aérienne par la caméra, de la musique et des effets sonores synchronisés.
+
+**Prompt**
+
+```text
+Crée dans Blender une animation d’action de 12 secondes en modèle blanc, puis utilise @PixVerse pour transformer l’animation exportée en une spectaculaire séquence de film fantasy animé pour public adulte.
+
+Dans Blender, construis un épéiste articulé simple, une épée et son fourreau, une vaste plateforme de pierre surélevée et une immense porte entourée de piliers. Utilise une géométrie blanche ou gris clair, avec un éclairage basique. Privilégie une action lisible, des proportions convaincantes et un contraste marqué entre le petit personnage et une architecture monumentale. Représente la vague d’énergie de l’épée par une forme courbe animée simple, et divise la porte en morceaux capables de se séparer et de tomber de façon visible.
+
+Commence avec la caméra proche de l’épéiste tandis qu’il dégaine son arme et rassemble brièvement ses forces. Vers la deuxième seconde, anime un unique coup de taille extrêmement rapide et décisif, impulsé par les pieds, les hanches, le torse et les bras. Libère une vague d’énergie en forme de croissant, bien visible, qui traverse l’espace et frappe la porte. Fais glisser la partie supérieure de la porte le long de la coupe, perdre ses appuis, puis s’effondrer avec une accélération et un contact au sol clairement perceptibles. Après l’impact, fais récupérer naturellement l’épéiste, rengainer son épée, se redresser et relâcher les bras.
+
+À mesure que l’attaque se déroule, éloigne et élève la caméra dans un mouvement continu et fluide. Continue à monter de façon spectaculaire jusqu’à ce que le plan final devienne une vue aérienne extrêmement haute, presque verticale, de toute la plateforme et du terrain alentour. Le personnage peut devenir trop petit pour être identifiable. Conserve un rythme d’action rapide et une forte sensation d’échelle qui s’élargit, plutôt que de t’attarder sur la pose d’attaque. Vérifie les mouvements du corps, la continuité de l’arme, la trajectoire de la vague d’énergie, l’effondrement de la porte et le déplacement de la caméra en lecture à vitesse normale.
+
+Exporte le MP4 propre de 12 secondes en modèle blanc. Utilise ensuite @PixVerse pour générer une vidéo de 12 secondes rendue par IA, en utilisant l’animation Blender comme référence souple pour la composition, la progression de l’action et l’élévation de la caméra. Préserve la séquence essentielle — préparation, coup de taille, vague d’énergie en mouvement, destruction de la porte, rengainage et révélation aérienne extrême — tout en permettant une expansion cinématographique importante.
+
+Crée une esthétique de film d’animation picturale pour public adulte, qui associe des formes expressives, des surfaces peintes à la main, un volume tridimensionnel convaincant et une lumière cinématographique douce. Donne à l’épéiste adulte une silhouette distinctive, un manteau rouge lie-de-vin, une armure sobre et une détermination maîtrisée. Développe le décor en une immense forteresse montagneuse composée de remparts superposés, de tours, de ponts, de ravins profonds et d’une vaste cité au-delà.
+
+Fais de la vague d’énergie en forme de croissant de l’épée un événement visuel majeur. Elle doit trancher la porte et poursuivre sa course jusqu’aux fortifications lointaines, en produisant une chaîne lisible de structures qui s’effondrent, de nuages de poussière, d’étincelles, de flammes et d’ondes de pression. Lorsque la caméra atteint une altitude extrême, révèle toute la trajectoire de l’attaque à travers le champ de bataille, avec l’épéiste immobile à son point d’origine. Utilise des ombres atmosphériques froides, contrastées par une énergie ambrée chaleureuse et des lueurs de feu dispersées. Ajoute une musique cinématographique originale ainsi que des sons synchronisés d’épée, d’impact, d’effondrement, de vent et de la ville au loin.
+
+Fournis le MP4 en modèle blanc, le MP4 rendu par IA dans PixVerse et le projet Blender modifiable.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098094339759149067) · [Publication originale](https://x.com/PixVerse/status/2098094339759149067) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2098109252720078891"></a>
+
+### Démonstration interactive en 3D d’une main robotique jouant du piano
+
+[MSB](https://x.com/KeWai386772) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098109252720078891"><img src="../assets/previews/0da92a87e2cfefd4088b226ccf8d5e8dbd5b9938d4a76f0104f7fbdffd12c3fa.jpg" width="840" loading="lazy" alt="Démonstration interactive en 3D d’une main robotique jouant du piano"></a>
+
+Démonstration interactive en 3D, dans un navigateur, d’une main robotique à cinq doigts jouant sur un piano miniature de 25 touches, avec contact causal des doigts, mouvement des touches, planification pilotée par MIDI, audio, vues caméra et diagnostics de performance.
+
+**Prompt**
+
+```text
+Créez une démonstration complète dans un navigateur, mettant en scène une main robotique détaillée à cinq doigts jouant sur un piano miniature. Le mouvement visible des doigts, la course physique des touches, les notes générées et le rythme musical doivent être reliés par une chaîne causale. Livrez une application interactive soignée sur le plan visuel, dans le temps imparti par l’évaluation.  1. EXPÉRIENCE : utilisez une scène 3D plein écran avec une main robotique modélisée avec précision, des doigts articulés, des mécanismes de poignet visibles et un clavier de 25 touches couvrant les notes MIDI 60 à 84. Représentez une géométrie réaliste pour les touches blanches et noires, un mouvement indépendant de chaque touche, des coussinets au bout des doigts et des matériaux soignés. Incluez des caméras en plongée, côté interprète et en gros plan sur les doigts. Fournissez un audio synchronisé après activation de la lecture par l’utilisateur.  2. ENTRÉE MUSICALE COMMUNE : utilisez les numéros de notes MIDI comme source de vérité. À 96 BPM, jouez les événements suivants, exprimés sous la forme (temps de début en temps, note, durée en temps) : (0,60,0.4), (0.5,64,0.4), (1,67,0.4), (1.5,64,0.4), (2,62,0.4), (2.5,65,0.4), (3,69,0.4), (3.5,65,0.4), (4,60,0.4), (4.5,60,0.4), (5,60,1), (5,64,1), (5,67,1). Les trois derniers événements forment un accord simultané. Prenez également en charge l’importation de fichiers MIDI standard à l’aide d’un parseur reconnu.  3. CONTRÔLE DE LA MAIN : modélisez des doigts articulés indépendamment et un poignet mobile. Planifiez l’affectation des doigts accessibles, les mouvements d’approche, les pressions, les maintiens, les relâchements, l’articulation des notes répétées et l’exécution des accords. Les doigts doivent entrer en contact avec les bonnes touches sans intersecter les touches voisines ni effectuer de sauts invraisemblables. Utilisez la cinématique inverse et des limites articulaires. Affichez les affectations de doigts planifiées et permettez l’inspection manuelle de chaque mouvement.  4. CAUSALITÉ DU SON : générez les événements note-on uniquement lorsque la touche visible correspondante franchit un seuil d’enfoncement documenté sous l’effet du contact avec un doigt. Générez un note-off au relâchement, avec hystérésis pour éviter les parasites. Les événements MIDI sont des cibles de planification, et non une piste audio indépendante. Un mécanisme de touches piloté par le contact géométrique est acceptable s’il est clairement identifié ; une simulation complète de la dynamique des contacts peut aussi être utilisée. Les touches ne doivent pas bouger simplement parce qu’un événement MIDI est planifié.  5. SYNCHRONISATION : utilisez une horloge musicale cohérente et horodate les déclenchements réels des touches par rapport aux événements cibles. Tenez compte de la programmation audio et du timing du rendu. Exposez le tempo, la transposition, la lecture, la pause, le redémarrage, la boucle et l’inspection au ralenti. La mise en pause ou le redémarrage doit libérer correctement les notes actives. Le ralentissement de la lecture doit préserver la synchronisation entre les doigts, les touches et l’audio.  6. DIAGNOSTICS : affichez les notes cibles, les doigts planifiés, les notes effectivement déclenchées et les erreurs de synchronisation au déclenchement sur une timeline alignée. Signalez les notes manquées, les notes supplémentaires, les mauvaises hauteurs, les échecs de notes répétées et les notes bloquées. Fournissez une surimpression d’inspection des contacts indiquant quel bout de doigt enfonce chaque touche. Enregistrez les éléments permettant de distinguer une planification réussie d’une animation approximative de la main.  7. VÉRIFICATION : évaluez séparément la mélodie, les notes répétées et l’accord final. Visez l’absence de notes incorrectes ou manquantes, une erreur de déclenchement au 95e percentile inférieure à 50 ms et un écart de déclenchement inférieur à 50 ms pour l’accord final. Présentez les mesures réelles même lorsque les objectifs ne sont pas atteints. Fournissez un test qui désactive l’actionnement des doigts : le score peut continuer à avancer, mais les touches non enfoncées ne doivent pas générer de notes.  8. LIVRAISON : utilisez Three.js, TypeScript, des API audio adaptées et des bibliothèques reconnues de parsing ou de calcul numérique. Livrez l’application exécutable, le code source, un scénario musical reproductible, les ressources ou scripts de génération et les instructions de démarrage. Vérifiez l’audio dans le navigateur, les commandes, les vues caméra, la mise en page sur ordinateur et mobile, ainsi que les lectures répétées. Toutes les affirmations de performance affichées doivent provenir de comportements mesurés.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098109252720078891) · [Publication originale](https://x.com/KeWai386772/status/2098109252720078891) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="2098225609558335846"></a>
 
 ### Vaisseau-courrier civil de départ de Sol Horizon
@@ -2193,6 +2212,28 @@ Dans Blender, créez le vaisseau-courrier civil de départ de Sol Horizon. Il do
 ```
 
 [Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098225609558335846) · [Publication originale](https://x.com/jonathanplumb/status/2098225609558335846) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2098367087475577273"></a>
+
+### Génération automatique des textures des cheveux et du visage d’un personnage, avec transfert UV
+
+[さ🥺](https://x.com/_sagyoai) · 2026-09-11
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098367087475577273"><img src="../assets/previews/796d0921534d254e6ae0af1573edeef0691da20f53a1c97baaf2dfa29777cbf5.jpg" width="840" loading="lazy" alt="Génération automatique des textures des cheveux et du visage d’un personnage, avec transfert UV"></a>
+
+Prompt pour Blender MCP demandant de générer une image de texture à partir d’un rendu frontal du visage sans cheveux, puis de la transférer sur les UV de sortie par projection parallèle.
+
+**Prompt**
+
+```text
+Utilise la génération d’images pour obtenir le meilleur texturing possible
+Rends le visage de face, sans cheveux, en flat shading et sans ombres, puis génère une image texturée à partir de ce rendu comme référence et applique-la par projection parallèle avant de la transférer sur les UV de sortie
+ou utilise une meilleure méthode si astra en trouve une
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098367087475577273) · [Publication originale](https://x.com/_sagyoai/status/2098367087475577273) · [Retour aux exemples](#all-prompts)
 
 ---
 
@@ -2236,6 +2277,108 @@ Figurine entièrement assemblée d’une petite fille jouant avec un robot, port
 
 ---
 
+<a id="2098697876155076820"></a>
+
+### Vidéo de démonstration de construction 3D — Temple ancien zen
+
+[火山哥🕊️](https://x.com/huoshan007) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098697876155076820"><img src="../assets/previews/6800bfab42550a339838b03a419c1ce1ce728d074046f73022acbc754d4e37f4.jpg" width="840" loading="lazy" alt="Vidéo de démonstration de construction 3D — Temple ancien zen"></a>
+
+Cette publication partage un prompt destiné à créer une vidéo montrant la construction d’une scène 3D de temple ancien zen ; son auteur affirme que ce prompt provient d’un site web.
+
+**Prompt**
+
+```text
+Créez directement une vidéo de démonstration 3D complète montrant toutes les étapes, de la conception au résultat final, pour un « temple ancien zen », puis livrez le fichier MP4 final.
+
+Exigences visuelles :
+format carré 1080 × 1080, vue orthographique en plongée à 45°, modèle miniature 2.5D en volume, style cartoon, parfaitement centré. Utilisez un socle surélevé en pierre claire, un arrière-plan vert turquoise uni, des textures douces et soignées, des matériaux PBR et un éclairage réaliste et subtil.
+
+La scène comprend :
+un temple chinois à double toiture débordante, des tuiles vernissées aux angles relevés, une toiture vert turquoise, des faîtages dorés, des piliers rouge cinabre, des portes et fenêtres à treillis, une porte monumentale, un pavillon de cloche, un brûle-parfum, des lanternes en pierre, une cour dallée, des pins, des arbres aux fleurs roses et un bassin de lotus.
+
+Le titre en haut de l’image est « 禅境·古寺 », composé dans une police chinoise blanc cassé chaud, en gras et légèrement lumineuse.
+
+Déroulement de la vidéo, durée totale : 64 secondes :
+0–8 s : le plan d’implantation est tracé progressivement, trait après trait.
+8–15 s : le socle et les volumes de base des bâtiments s’élèvent.
+15–24 s : les piliers, les murs, les portes, les fenêtres et autres détails sont générés.
+24–32 s : les doubles toitures débordantes, les tuiles et les angles relevés sont modélisés.
+32–41 s : ajout de la porte monumentale, de la cour, des arbres et des éléments de décor.
+41–49 s : le modèle gris reçoit progressivement ses couleurs et ses matériaux PBR.
+49–54 s : réglage de l’éclairage, des réflexions et des ombres douces.
+54–64 s : le modèle final complet effectue lentement une rotation orbitale, accompagné d’une légère chute de pétales, de volutes d’encens et d’ondulations à la surface de l’eau.
+
+Utilisez une géométrie 3D réelle et montrez en continu le processus de construction dans un même plan. Affichez uniquement de courts noms d’étapes, sans écrans explicatifs de type présentation PowerPoint ni voix off.
+
+Générez la scène et l’animation avec Three.js, effectuez un rendu image par image, puis exportez un fichier MP4 H.264 à 30 i/s avec FFmpeg. Vérifiez la lecture complète, l’ordre des étapes, l’intégrité du modèle et l’absence d’images noires.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098697876155076820) · [Publication originale](https://x.com/huoshan007/status/2098697876155076820) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2098739181510164652"></a>
+
+### Jeu de vol Skybound sur navigateur
+
+[Aakash Kanojiya](https://x.com/Kanojiyaaakash1) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098739181510164652"><img src="../assets/previews/cc41c83e2ecb4d3e77d02476e259243389db470101509b700c06dd3af39dd4cb.jpg" width="840" loading="lazy" alt="Jeu de vol Skybound sur navigateur"></a>
+
+Un jeu de vol en 3D jouable dans le navigateur, où le joueur pilote un dragon à travers des îles flottantes et collecte des anneaux pour marquer des points. Le prompt demande à Hyper3D Rodin MCP de générer le modèle du dragon.
+
+**Prompt**
+
+```text
+Créez un jeu de vol sur navigateur appelé Skybound avec Three.js. Le joueur pilote un dragon à travers un ensemble d’îles flottantes et collecte des anneaux pour marquer des points. Vous aurez besoin d’un modèle 3D de dragon : utilisez Hyper3D Rodin MCP pour le générer.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098739181510164652) · [Publication originale](https://x.com/Kanojiyaaakash1/status/2098739181510164652) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2098774359926297011"></a>
+
+### Cadre imprimé en 3D, à assembler par connecteurs
+
+[wada](https://x.com/wada) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098774359926297011"><img src="../assets/previews/92b9675f7ef605c4f91460c0788dd84f57cd23d0f75c4482937da6c2c76f34f9.png" width="840" loading="lazy" alt="Cadre imprimé en 3D, à assembler par connecteurs"></a>
+
+Concevoir un cadre dont les pièces s’assemblent à l’aide de connecteurs pour pouvoir l’imprimer avec une petite imprimante 3D. La publication indique que des fichiers STL des connecteurs, avec identifiants pour ajuster les tolérances de l’imprimante et du filament, ont été générés.
+
+**Prompt**
+
+```text
+Je veux imprimer un cadre avec une imprimante 3D, mais elle est trop petite. Je voudrais donc un modèle à assembler en reliant plusieurs pièces ; pour éviter quelque chose de banal, utilisez des connecteurs.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098774359926297011) · [Publication originale](https://x.com/wada/status/2098774359926297011) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2098795017955418202"></a>
+
+### Reconstitution 3D de l’Exposition universelle de Chicago de 1893
+
+[Dan Elton](https://x.com/moreisdifferent) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098795017955418202"><img src="../assets/previews/81cc4ab0f0941aecdb4845f4372e0b7375ca0dcef194e05b92384115d8bcb45b.jpg" width="840" loading="lazy" alt="Reconstitution 3D de l’Exposition universelle de Chicago de 1893"></a>
+
+Reconstitution 3D dans Blender de l’Exposition colombienne de 1893 à Chicago, à partir de photographies historiques et de documents de référence sur l’Exposition.
+
+**Prompt**
+
+```text
+Téléchargez 2 000 photographies historiques et des documents de référence sur l’Exposition, puis utilisez toutes les informations recueillies pour créer une reconstitution 3D dans Blender.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098795017955418202) · [Publication originale](https://x.com/moreisdifferent/status/2098795017955418202) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="2096251574918013135"></a>
 
 ### Une bataille de kaijus en ville
@@ -2272,132 +2415,6 @@ Prépare des variantes d’expression d’un personnage Tripo dans Blender avant
 
 ---
 
-<a id="2096225621303042258"></a>
-
-### Un simulateur de rendez-vous orbital
-
-[Alican Kiraz](https://x.com/AlicanKiraz0) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/orbital-rendezvous-simulator-2096225621303042258"><img src="../assets/previews/42e7d7821256b5c0e0d6ef4267f582a3a9406817642abaecae99cc2e479b733f.webp" width="840" loading="lazy" alt="Un simulateur de rendez-vous orbital"></a>
-
-**Prompt**
-
-```text
-Construis une simulation de rendez-vous orbital temps réel avec propagation à deux corps dans le repère ECI et guidage HCW. Inclus l'orientation à six degrés de liberté, la consommation de carburant, les limites de force et un objectif d'amarrage.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/orbital-rendezvous-simulator-2096225621303042258) · [Publication originale](https://x.com/AlicanKiraz0/status/2096225621303042258) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2096245759121277132"></a>
-
-### Un site de studio 3D animé par le défilement
-
-[ui.debbie](https://x.com/mx_debbiee) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132"><img src="../assets/previews/a315174ac48f5392bb9a0a9ecb0f7948a9a2d1bf33f9f32f4cdfdb6c553a89ff.webp" width="840" loading="lazy" alt="Un site de studio 3D animé par le défilement"></a>
-
-**Prompt**
-
-```text
-Transforme l'image de référence fournie en scène Three.js au sein d'un site de studio au défilement fluide. Coordonne les mouvements de caméra, la typographie et les transitions entre sections.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [Publication originale](https://x.com/mx_debbiee/status/2096245759121277132) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2096244208533455049"></a>
-
-### Komorebi : du kayak en rivière
-
-[AJ](https://x.com/ItsmeAjayKV) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/komorebi-river-kayaking-2096244208533455049"><img src="../assets/previews/177462bb87e3089acbf23e2e6f58e75e4fa5cb7291601fdce6da2a3fb5f2b6af.webp" width="840" loading="lazy" alt="Komorebi : du kayak en rivière"></a>
-
-**Prompt**
-
-```text
-Construis un jeu de kayak 3D en rivière à l'esthétique inspirée de l'anime. Permets au joueur de pagayer à gauche et à droite pour éviter les obstacles, avec eau courante, paysages, musique et effets sonores générés par le code.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [Publication originale](https://x.com/ItsmeAjayKV/status/2096244208533455049) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2096243989439713677"></a>
-
-### Une bouteille réfractive au cœur d'un récit produit
-
-[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/refractive-bottle-product-story-2096243989439713677"><img src="../assets/previews/0752e3417e975ec333d58ef948643def758c883afb543c38e664b40f45d11b43.webp" width="840" loading="lazy" alt="Une bouteille réfractive au cœur d'un récit produit"></a>
-
-**Prompt**
-
-```text
-Construis un site produit interactif autour d'une bouteille en verre WebGL photoréaliste. Utilise un liquide réfractif, une rotation pilotée par le défilement et une typographie affirmée tout en préservant les performances du navigateur.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [Publication originale](https://x.com/himanshubuildss/status/2096243989439713677) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2096250748099068377"></a>
-
-### Une démo Hyperloop interactive
-
-[Amir](https://x.com/hbanay98) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/interactive-hyperloop-demo-2096250748099068377"><img src="../assets/previews/6fe7e10c4907c28861e51727de19f2b115f6c9d7ffab6b0288b6cb0fc8f250e2.webp" width="840" loading="lazy" alt="Une démo Hyperloop interactive"></a>
-
-**Prompt**
-
-```text
-Construis une démonstration Three.js interactive d'Hyperloop montrant une capsule de transport, les tubes de l'infrastructure et les déplacements dans le système.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [Publication originale](https://x.com/hbanay98/status/2096250748099068377) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2096234355395903672"></a>
-
-### Un buste procédural de Napoléon
-
-[Le PLOUTOS](https://x.com/leploutos) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/procedural-napoleon-bust-2096234355395903672"><img src="../assets/previews/fda483263b1b7468f091f1798d7841bcfb9b983bc7659ca2ef491c23f3bbc948.webp" width="840" loading="lazy" alt="Un buste procédural de Napoléon"></a>
-
-**Prompt**
-
-```text
-Code un buste 3D de Napoléon dans Three.js. Construis-le par étapes, inspecte-le sous différents angles et affine les proportions du visage et les détails des vêtements.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [Publication originale](https://x.com/leploutos/status/2096234355395903672) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2096226711222546461"></a>
-
-### Un hall de gare
-
-[Wormhole404](https://x.com/0xWormhole404) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/railway-station-concourse-2096226711222546461"><img src="../assets/previews/ec572c18e5e02ac65512d6d72ffe09c5afb807b131336ac8b75d13aefb86899c.webp" width="840" loading="lazy" alt="Un hall de gare"></a>
-
-**Prompt**
-
-```text
-Crée un hall de gare avec un rythme architectural marqué, une échelle crédible et des matériaux convaincants. Produis une scène 3D inspectable avec des vues de la gare soigneusement cadrées.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/railway-station-concourse-2096226711222546461) · [Publication originale](https://x.com/0xWormhole404/status/2096226711222546461) · [Retour aux exemples](#all-prompts)
-
----
-
 <a id="2096258619574513880"></a>
 
 ### Une physique de course pour navigateur en C# et WASM
@@ -2413,24 +2430,6 @@ Recrée un système de physique de course façon Trackmania en C#, exécute-le v
 ```
 
 [Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Publication originale](https://x.com/achepta_tm/status/2096258619574513880) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2096241295949975602"></a>
-
-### Une machine à capsules de souvenirs
-
-[Gloria Zhang](https://x.com/gloria_zwq) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/memory-capsule-machine-2096241295949975602"><img src="../assets/previews/2623ee6ae5ad1e80ed6af68f48f0ef33bb34a6fc638f5fd6d55f8ab0de7b3625.webp" width="840" loading="lazy" alt="Une machine à capsules de souvenirs"></a>
-
-**Prompt**
-
-```text
-Construis une machine 3D à capsules de souvenirs. Tourne une molette pour libérer un souvenir, modélise le mécanisme dans Blender et donne aux capsules qui tombent des mouvements et des sons crédibles.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/memory-capsule-machine-2096241295949975602) · [Publication originale](https://x.com/gloria_zwq/status/2096241295949975602) · [Retour aux exemples](#all-prompts)
 
 ---
 
@@ -3085,7 +3084,7 @@ Crée une landing page des grands fonds avec des effets d’eau Three.js, une in
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 205 exemples sur le site officiel →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 214 exemples sur le site officiel →</a></strong></p>
 <p><sub>Pour préserver la fluidité du rendu du README sur GitHub, seuls les 100 exemples les plus récents sont affichés ici.</sub></p>
 <br>
 </td></tr>

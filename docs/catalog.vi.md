@@ -26,7 +26,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**205 · Prompt Astra mới nhất**
+**214 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -45,10 +45,10 @@
 <summary>Khám phá ví dụ</summary>
 
 - [Máy gia tốc hạt 3D tương tác](#2097781208596029936) · GitHub
+- [Atlas 3D tương tác về đầu và não người](#2098105648106078541) · GitHub
 - [Mosswing: Game 3D mobile chạm để vỗ cánh](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
 - [Lõi năng lượng hai vòng tương tác](#2096551010089263181) · GitHub
 - [Quảng trường Thống Nhất ở Cluj-Napoca bằng voxel](#2096262733259837681) · GitHub
-- [Trình mô phỏng bay trên trình duyệt với vòng lặp bay hoàn chỉnh](#2096236137266512181)
 - [Dựng lại rồng chân thực có thể chỉnh sửa trong Blender](#2096335588727349434)
 - [Từ ý tưởng nhân vật đến mô hình 3D đã rig và phim hoạt hình](#2096342420543660277)
 - [Nhóm nhạc 3D có thể tương tác với hoạt ảnh đồng bộ âm thanh](#2096354461652488562)
@@ -94,20 +94,20 @@
 - [Quy trình dựng cảnh rượt đuổi ô tô hoạt hình lấy cảm hứng từ GTA](#2098049032195293190)
 - [Nhịp đập thành phố](#2098063352832610473)
 - [Hoạt ảnh học viện phép thuật bay lơ lửng](#2098071577309122854)
+- [Tàu con thoi mô hình trắng bay qua hẻm núi đô thị](#2098079379297608050)
+- [Hoạt hình giả tưởng kiếm sĩ phá hủy cổng thành](#2098094339759149067)
+- [Trình diễn piano tương tác với bàn tay robot 3D](#2098109252720078891)
 - [Tàu vận chuyển dân dụng cơ bản Sol Horizon](#2098225609558335846)
+- [Tự động tạo và chuyển texture tóc, khuôn mặt cho model nhân vật](#2098367087475577273)
 - [Cảnh mô hình thu nhỏ 3D dạng lập thể của ngôi đền](#2098403061463224543)
 - [Mô hình bé gái chơi robot](#2098406473273663992)
+- [Video trình diễn dựng 3D “Thiền cảnh · Cổ tự”](#2098697876155076820)
+- [Trò chơi bay Skybound trên trình duyệt](#2098739181510164652)
+- [Khung ảnh in 3D dạng lắp ghép có khớp nối](#2098774359926297011)
+- [Tái dựng 3D Hội chợ Thế giới Chicago năm 1893](#2098795017955418202)
 - [Kaiju giao chiến trong thành phố](#2096251574918013135)
 - [Chuyển đổi biểu cảm nhân vật trong Blender](#2096525100518453342)
-- [Mô phỏng hội ngộ quỹ đạo](#2096225621303042258)
-- [Website studio 3D theo cuộn trang](#2096245759121277132)
-- [Komorebi: chèo kayak trên sông](#2096244208533455049)
-- [Câu chuyện sản phẩm với chai khúc xạ](#2096243989439713677)
-- [Demo Hyperloop tương tác](#2096250748099068377)
-- [Tượng bán thân Napoleon thủ tục](#2096234355395903672)
-- [Sảnh ga đường sắt](#2096226711222546461)
 - [Vật lý đua xe trình duyệt bằng C# và WASM](#2096258619574513880)
-- [Máy viên nang ký ức](#2096241295949975602)
 - [Cảnh nhân vật lấy cảm hứng từ Warcraft trong Unity](#2096308567863079420)
 - [Bàn cờ shogi 3D có thể xoay](#2096579856133947507)
 - [Bản đồ tháo rời linh kiện máy tính để bàn](#2096578761877860502)
@@ -179,6 +179,53 @@ Bàn giao một tệp HTML độc lập duy nhất có thể chạy ngoại tuy�
 
 ---
 
+<a id="2098105648106078541"></a>
+
+### Atlas 3D tương tác về đầu và não người
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098105648106078541"><img src="../assets/previews/1251cdb60d51985d09d2870c9866d104d26bf152875bc50a1c46eb047a11be63.jpg" width="840" loading="lazy" alt="Atlas 3D tương tác về đầu và não người"></a>
+
+Prompt tái tạo có thể dùng lại, do tác giả đề xuất để xây dựng atlas giải phẫu tương tác về đầu và não. Prompt yêu cầu các mô hình giải phẫu có giấy phép phù hợp, khả năng khám phá theo lớp, công cụ kiểm tra, mặt phẳng cắt, chế độ tách lớp và một ứng dụng HTML độc lập chạy ngoại tuyến.
+
+**Prompt**
+
+```text
+Xây dựng một atlas 3D tương tác hoàn chỉnh về đầu và não người. Bàn giao một ứng dụng hoạt động được, không phải bản mô phỏng. Tự đưa ra các quyết định hợp lý, triển khai, kiểm thử và kiểm tra trực quan kết quả.
+
+Sử dụng Three.js cùng các mô hình lưới Z-Anatomy / BodyParts3D thực tế, có giấy phép phù hợp. Bao gồm hộp sọ, răng, cơ mặt, não, mắt, dây thần kinh sọ, động mạch, tĩnh mạch và các màng hỗ trợ hiện có. Giữ nguyên mối quan hệ giải phẫu ban đầu giữa chúng. Hướng đến hàng trăm cấu trúc có thể chọn riêng lẻ, báo cáo số lượng thực tế đã nhập và giữ thông tin ghi công nguồn.
+
+Tạo giao diện sáng, gọn với nền xám nhạt, các bảng màu trắng bo góc, điểm nhấn xanh xám tiết chế và kiểu chữ dễ đọc. Giữ mô hình ở kích thước lớn, đặt bảng cấu trúc bên trái, công cụ camera bên phải, ô tìm kiếm ở phía trên và thanh trượt tách lớp bên dưới. Sử dụng tiếng Anh xuyên suốt.
+
+Cho phép khám phá giải phẫu theo từng cấp độ:
+Đầu → hệ cơ quan → vùng → cấu trúc riêng lẻ có tên.
+Ví dụ: Brain → Cerebrum → Left hemisphere → Frontal lobe → các cấu trúc riêng lẻ.
+
+Tạo hiệu ứng chuyển động khi lắp ráp và tháo rời. Giữ nguyên vị trí nguồn khi lắp ráp; sắp xếp các nhóm đã tách thành bố cục cách biệt rõ ràng, kèm nhãn dễ đọc. Hiển thị tỷ lệ chuẩn hóa và phân trang các bộ sưu tập lớn.
+
+Bao gồm:
+- Xoay tự do, thu phóng bằng con lăn/chụm hai ngón và các thiết lập camera có sẵn.
+- Thanh trượt tháo rời và điều khiển Shift + con lăn.
+- Công tắc hiển thị độc lập cho từng nhóm và từng bộ phận.
+- Độ mờ theo nhóm, hoàn tác, khôi phục tất cả và đặt lại.
+- Tìm kiếm giải phẫu, nhấp để kiểm tra, lấy nét, cô lập và điều hướng về cấp cha.
+- Chế độ màu giải phẫu, sứ, khung dây và trong suốt.
+- Mặt phẳng cắt đứng dọc, ngang và trán có thể điều chỉnh, kèm đảo chiều.
+- Nhãn, khám phá tự động, toàn màn hình và xuất PNG.
+- Hành trình có hướng dẫn từ toàn bộ phần đầu đến não và các mạng lưới của não.
+
+Giữ các cấu trúc đang ẩn ở trạng thái ẩn khi thay đổi bố cục và vật liệu. Giải thích rằng mặt phẳng cắt tạo ra các mặt cắt hiển thị mở, không phải ảnh quét y khoa. Không tự tạo thêm chi tiết giải phẫu hoặc tuyên bố ứng dụng đã được kiểm định lâm sàng.
+
+Bàn giao một tệp HTML độc lập chứa ứng dụng và hình học đã xử lý, có thể hoạt động ngoại tuyến mà không cần máy chủ. Đồng thời cung cấp các tệp nguồn gọn sạch, các dependency được ghim phiên bản, lockfile, script build di động, README bằng tiếng Anh cùng các giấy phép và thông tin ghi công bắt buộc. Loại trừ thông tin xác thực, đường dẫn máy cục bộ, dependency và các tệp không liên quan.
+
+Kiểm thử tính toàn vẹn của hình học, quan hệ thành viên trong hệ phân cấp, trạng thái hiển thị, thao tác hoàn tác và khoảng cách bố cục. Mở ứng dụng đang chạy trong trình duyệt, sử dụng thử các điều khiển, kiểm tra lỗi trong console và khắc phục các thành phần bị chồng lấn trước khi bàn giao.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098105648106078541) · [Bài đăng gốc](https://x.com/k1rallik/status/2098105648106078541) · [Mã nguồn](https://github.com/bubblik525/head) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="mosswing-mobile-3d-tap-to-flap-game"></a>
 
 ### Mosswing: Game 3D mobile chạm để vỗ cánh
@@ -232,108 +279,6 @@ Tạo thế giới voxel tương tác tái hiện Piața Unirii ở Cluj-Napoca.
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681) · [Bài đăng gốc](https://x.com/danmana/status/2096262733259837681) · [Mã nguồn](https://github.com/danmana/piata-unirii) · [Bản demo](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096236137266512181"></a>
-
-### Trình mô phỏng bay trên trình duyệt với vòng lặp bay hoàn chỉnh
-
-[aditya](https://x.com/adxtyahq) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096236137266512181"><img src="../assets/previews/bbb03f5650350e6b4a323f0dd76f98d1abb0cbe94896f2dbe24d68c4bfbf8ce8.jpg" width="840" loading="lazy" alt="Trình mô phỏng bay trên trình duyệt với vòng lặp bay hoàn chỉnh"></a>
-
-Xây dựng máy bay chở khách 3D có thể điều khiển, sân bay, thiết bị bay và vòng lặp trò chơi hoàn chỉnh từ cất cánh đến hạ cánh, bằng toàn bộ prompt do tác giả chia sẻ.
-
-**Prompt**
-
-```text
-Xây dựng từ đầu một game mô phỏng bay 3D trên trình duyệt được hoàn thiện chỉn chu và có thể chơi được.
-
-Mục tiêu là tạo ra một trải nghiệm mô phỏng bay quy mô nhỏ nhưng thực sự có thể chơi, không phải một cảnh 3D tĩnh.
-
-GAMEPLAY
-- Tạo một sân bay với đường băng, đường lăn, nhà ga/các tòa nhà, cỏ/địa hình, vạch sơn và đèn đường băng, bầu trời cùng mây được thể hiện chi tiết.
-- Đặt một máy bay chở khách dễ nhận biết tại sân bay.
-- Người chơi phải có thể điều khiển máy bay bằng bàn phím.
-- Triển khai điều khiển ga, góc ngẩng, lăn, hướng và phanh.
-- Máy bay phải có vật lý bay cơ bản hợp lý, quán tính và khả năng tăng tốc.
-- Người chơi phải có thể tăng tốc trên đường băng, cất cánh, bay quanh sân bay, tiếp cận đường băng và hạ cánh.
-- Thêm một mục tiêu đơn giản: cất cánh, hoàn thành một chuyến bay ngắn quanh sân bay và hạ cánh an toàn.
-- Bao gồm phát hiện va chạm/thất bại và tùy chọn chơi lại.
-
-CONTROLS
-Hiển thị rõ các phím điều khiển:
-- W/S: Góc ngẩng
-- A/D: Lăn
-- Q/E: Hướng
-- Shift/Ctrl: Ga
-- Space: Phanh
-
-CAMERA
-- Sử dụng camera bám đuổi mượt ở góc nhìn người thứ ba, phía sau máy bay.
-- Giữ cho máy bay luôn dễ quan sát trong suốt chuyến bay.
-- Camera phải bám theo chuyển động mượt mà và phản hồi nhẹ theo gia tốc.
-
-HUD
-Tạo HUD phong cách hàng không được hoàn thiện chỉn chu, hiển thị:
-- Tốc độ bay
-- Độ cao
-- Hướng bay
-- Ga
-- Tốc độ lên/xuống
-- Trạng thái chuyến bay
-- Mục tiêu hiện tại
-
-Bao gồm một bảng điều khiển/trợ giúp nhỏ gọn, có thể ẩn đi.
-
-BẮT ĐẦU + KẾT QUẢ
-Tạo màn hình bắt đầu với:
-"MÔ PHỎNG BAY"
-và một nút "BẮT ĐẦU CHUYẾN BAY" nổi bật.
-
-Sau khi hạ cánh thành công, hiển thị:
-- Hoàn thành chuyến bay
-- Chất lượng hạ cánh
-- Thời gian bay
-- Điểm tổng kết
-- Chơi lại
-
-CHẤT LƯỢNG HÌNH ẢNH
-Tạo cảm giác như một game thực thụ:
-- Hình ảnh 3D cách điệu nhất quán
-- Máy bay được thể hiện chi tiết
-- Môi trường sân bay bắt mắt
-- Ánh sáng, bóng đổ và vật liệu chất lượng
-- Mây/khí quyển
-- Tòa nhà sân bay, phương tiện, biển báo, cây cối và các chi tiết môi trường khác khi phù hợp
-- Tránh tạo ra một cảnh trống trải hoặc rõ ràng còn dang dở
-
-FEEDBACK
-Thêm phản hồi hữu ích cho:
-- Trạng thái ga/động cơ
-- Cất cánh
-- Hạ cánh
-- Cảnh báo tốc độ
-- Độ cao
-- Va chạm
-- Hạ cánh thành công
-
-TECHNICAL
-- Xây dựng toàn bộ game có thể hoạt động trong trình duyệt.
-- Không để lại các nút giữ chỗ hoặc tương tác giả.
-- Ưu tiên khả năng điều khiển phản hồi nhanh và hiệu năng mượt mà.
-- Sử dụng các công nghệ web/3D phù hợp hiện có.
-
-QUAN TRỌNG:
-Không dành toàn bộ thời gian để tạo một cảnh tĩnh đẹp mắt. Máy bay PHẢI thực sự điều khiển được và vòng lặp hoàn chỉnh phải hoạt động:
-
-BẮT ĐẦU → TĂNG TỐC → CẤT CÁNH → BAY → TIẾP CẬN → HẠ CÁNH → TÍNH ĐIỂM → CHƠI LẠI
-
-Trước khi hoàn tất, hãy chạy game trên trình duyệt và tự kiểm thử toàn bộ vòng lặp gameplay. Khắc phục các lỗi về điều khiển, vật lý, hình ảnh và tương tác mà bạn phát hiện.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096236137266512181) · [Bài đăng gốc](https://x.com/adxtyahq/status/2096236137266512181) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -2174,6 +2119,96 @@ Bàn giao video MP4 mô hình trắng, video MP4 do PixVerse kết xuất bằng
 
 ---
 
+<a id="2098079379297608050"></a>
+
+### Tàu con thoi mô hình trắng bay qua hẻm núi đô thị
+
+[PixVerseCreators](https://x.com/PixVerseCreator) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098079379297608050"><img src="../assets/previews/cd71fb962eb01f16094187f0998f65959e3a74f648b0c98dfd8aab0c9253ddb4.jpg" width="840" loading="lazy" alt="Tàu con thoi mô hình trắng bay qua hẻm núi đô thị"></a>
+
+Hoạt ảnh Blender dài 10 giây, quay một mạch, về một tàu con thoi nguyên bản bay với tốc độ cực cao qua hẻm núi đô thị dày đặc, được kết xuất bằng PixVerse từ các tham chiếu Blender.
+
+**Prompt**
+
+```text
+Tạo một cảnh tàu con thoi mô hình trắng bay trong 10 giây, quay một mạch, bằng Blender. Dựng một tàu con thoi nguyên bản và một hẻm núi đô thị dày đặc kéo dài vài kilômét. Hoạt ảnh hóa chuyến bay thẳng về phía trước với tốc độ cực cao dọc theo một lộ trình dài, vượt qua hơn hai kilômét mà không giảm tốc. Luồn qua các khoảng hẹp và bay dưới cầu, thay đổi độ cao, đồng thời thực hiện hai vòng lộn ngang mượt theo hai hướng ngược nhau. Làm cho tốc độ trở nên không thể nhầm lẫn: các tòa nhà gần đó kéo vệt ra phía sau, cầu vụt qua phía trên và các công trình tiền cảnh nhanh chóng quét khỏi mép khung hình. Sử dụng nhòe chuyển động định hướng mạnh cho môi trường nhưng vẫn giữ tàu con thoi rõ nét. Chướng ngại vật dày đặc, các pha lướt sát và hiệu ứng thị sai mạnh từ tiền cảnh đến hậu cảnh phải truyền tải cảm giác bay hết tốc lực liên tục. Dùng camera bám đuổi góc rộng, chuyển động mượt, đặt gần phía sau và hơi cao hơn tàu con thoi, lao về phía trước với tốc độ tương đương. Giữ mũi tàu hướng vào thành phố và động cơ hướng về phía camera. Không cắt cảnh, không rung camera, không lộn ngang bằng camera, không quay chậm và không giảm tốc ở đoạn kết. Kiểm tra khoảng hở, tính liên tục của chuyển động và cảm giác tốc độ ở tốc độ phát bình thường. Dùng PixVerse để kết xuất hoạt ảnh mô hình trắng cuối cùng từ các tham chiếu Blender, giữ nguyên tốc độ cực cao, đường bay và chuyển động camera. Bàn giao tệp MP4 cuối cùng, dự án Blender có thể chỉnh sửa và ghi chú ngắn về các hạn chế.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098079379297608050) · [Bài đăng gốc](https://x.com/PixVerseCreator/status/2098079379297608050) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2098094339759149067"></a>
+
+### Hoạt hình giả tưởng kiếm sĩ phá hủy cổng thành
+
+[PixVerse](https://x.com/PixVerse) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098094339759149067"><img src="../assets/previews/ca8a46498d2bcd9c4215ea347c01a1b03d81d9b98d7c5a53514c4d118628bc29.jpg" width="840" loading="lazy" alt="Hoạt hình giả tưởng kiếm sĩ phá hủy cổng thành"></a>
+
+Tạo một hoạt hình hành động mô hình trắng dài 12 giây trong Blender, mô tả một kiếm sĩ phá hủy cổng thành khổng lồ, sau đó chuyển thành một phân cảnh phim giả tưởng hoạt họa giàu chất hội họa với pháo đài trên núi, các công trình sụp đổ, cú máy từ trên không, âm nhạc và hiệu ứng âm thanh đồng bộ.
+
+**Prompt**
+
+```text
+Tạo một hoạt hình hành động mô hình trắng dài 12 giây trong Blender, sau đó dùng @PixVerse để chuyển hoạt hình đã xuất thành một phân cảnh phim hoạt hình giả tưởng hoành tráng, mang sắc thái trưởng thành.
+
+Trong Blender, dựng một kiếm sĩ có khớp chuyển động đơn giản, một thanh kiếm và bao kiếm, một nền đá rộng nằm trên cao, cùng một cổng thành khổng lồ với các trụ bao quanh. Sử dụng hình học màu trắng hoặc xám nhạt, kết hợp với ánh sáng cơ bản. Ưu tiên chuyển động dễ đọc, tỷ lệ thuyết phục và sự tương phản mạnh giữa nhân vật nhỏ bé với kiến trúc đồ sộ. Thể hiện sóng năng lượng từ kiếm bằng một hình cong được hoạt ảnh đơn giản, đồng thời chia cổng thành nhiều mảnh để chúng có thể tách rời và rơi xuống rõ ràng.
+
+Bắt đầu với máy quay ở gần kiếm sĩ khi anh ta rút vũ khí và nhanh chóng dồn lực. Khoảng giây thứ hai, tạo một nhát chém cực nhanh và dứt khoát, với lực phát động từ bàn chân, hông, thân mình và cánh tay. Phóng ra một sóng năng lượng hình lưỡi liềm dễ thấy, di chuyển xuyên không gian và đánh trúng cổng thành. Để phần cổng phía trên trượt theo đường chém, mất điểm tựa rồi sụp đổ với gia tốc và khoảnh khắc chạm đất rõ ràng. Sau đòn đánh, cho kiếm sĩ hồi thế tự nhiên, tra kiếm, đứng thẳng và thả lỏng hai tay.
+
+Khi đòn tấn công diễn ra, kéo máy quay lùi ra sau và nâng dần lên trong một chuyển động liên tục, mượt mà. Tiếp tục nâng cao đầy ấn tượng cho đến khi khung hình kết thúc bằng góc nhìn từ trên không cực cao, gần như thẳng đứng, bao quát toàn bộ nền đá và địa hình xung quanh. Nhân vật có thể trở nên quá nhỏ để phân biệt. Duy trì nhịp hành động nhanh và cảm giác quy mô mở rộng mạnh mẽ, thay vì dừng lâu ở tư thế ra đòn. Kiểm tra chuyển động cơ thể, tính liên tục của vũ khí, đường di chuyển của sóng năng lượng, sự sụp đổ của cổng và chuyển động máy quay ở tốc độ phát bình thường.
+
+Xuất video MP4 mô hình trắng sạch, dài 12 giây. Sau đó dùng @PixVerse để tạo video AI dài 12 giây, sử dụng hoạt hình Blender làm tham chiếu tương đối cho bố cục, diễn tiến hành động và chuyển động máy quay đi lên. Giữ nguyên trình tự cốt lõi gồm chuẩn bị, chém, sóng năng lượng di chuyển, phá hủy cổng, tra kiếm và cú lộ cảnh từ trên không cực cao, đồng thời cho phép mở rộng đáng kể về mặt điện ảnh.
+
+Tạo thẩm mỹ phim hoạt hình giả tưởng giàu chất hội họa, kết hợp hình khối biểu cảm, bề mặt vẽ tay, thể tích ba chiều thuyết phục và ánh sáng điện ảnh dịu. Tạo cho kiếm sĩ trưởng thành một dáng hình đặc trưng, áo khoác đỏ rượu vang, giáp tiết chế và vẻ quyết tâm điềm tĩnh. Mở rộng bối cảnh thành một pháo đài núi rộng lớn với tường thành nhiều lớp, tháp, cầu, khe vực sâu và một thành phố trải dài ở phía xa.
+
+Biến sóng năng lượng hình lưỡi liềm từ kiếm thành một sự kiện thị giác chủ đạo. Sóng năng lượng phải chém xuyên qua cổng rồi tiếp tục lao vào các công sự ở xa, tạo ra một chuỗi công trình sụp đổ dễ theo dõi, bụi cuộn mạnh, tia lửa, lửa và sóng xung kích. Khi máy quay đạt độ cao cực lớn, hé lộ toàn bộ đường đi của đòn đánh trên chiến trường, với kiếm sĩ lặng lẽ đứng tại điểm khởi phát. Sử dụng bóng khí quyển lạnh tương phản với năng lượng hổ phách ấm và ánh lửa rải rác. Thêm nhạc điện ảnh nguyên bản cùng âm thanh đồng bộ của kiếm, va chạm, sụp đổ, gió và thành phố vọng từ xa.
+
+Bàn giao video MP4 mô hình trắng, video MP4 do PixVerse kết xuất bằng AI và dự án Blender có thể chỉnh sửa.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098094339759149067) · [Bài đăng gốc](https://x.com/PixVerse/status/2098094339759149067) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2098109252720078891"></a>
+
+### Trình diễn piano tương tác với bàn tay robot 3D
+
+[MSB](https://x.com/KeWai386772) · 2026-09-10
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098109252720078891"><img src="../assets/previews/0da92a87e2cfefd4088b226ccf8d5e8dbd5b9938d4a76f0104f7fbdffd12c3fa.jpg" width="840" loading="lazy" alt="Trình diễn piano tương tác với bàn tay robot 3D"></a>
+
+Trình diễn 3D tương tác trên trình duyệt, trong đó bàn tay robot năm ngón chơi một cây piano thu nhỏ 25 phím, với sự liên kết nhân quả giữa tiếp xúc của ngón tay, chuyển động phím, lập kế hoạch dựa trên MIDI, âm thanh, các góc nhìn camera và chẩn đoán hiệu suất.
+
+**Prompt**
+
+```text
+Xây dựng một bản trình diễn hoàn chỉnh trên trình duyệt, trong đó bàn tay robot năm ngón được mô hình hóa chi tiết chơi một cây piano thu nhỏ. Chuyển động ngón tay hiển thị, hành trình phím, nốt được tạo và nhịp điệu phải được liên kết với nhau theo quan hệ nhân quả. Tạo một ứng dụng tương tác được trau chuốt về mặt hình ảnh trong thời gian đánh giá cho phép.
+
+1. TRẢI NGHIỆM: Sử dụng cảnh 3D toàn màn hình với bàn tay robot được mô hình hóa chính xác, các ngón tay có khớp nối, cơ cấu cổ tay hiển thị rõ và bàn phím 25 phím bao phủ các nốt MIDI từ 60 đến 84. Thể hiện hình học chân thực của phím đen và phím trắng, chuyển động độc lập của từng phím, đệm đầu ngón tay và vật liệu được hoàn thiện kỹ lưỡng. Bao gồm camera từ trên cao, phía người chơi và cận cảnh đầu ngón tay. Cung cấp âm thanh đồng bộ sau khi người dùng kích hoạt phát lại.
+
+2. ĐẦU VÀO ÂM NHẠC CHUNG: Sử dụng số nốt MIDI làm nguồn dữ liệu chuẩn duy nhất. Ở 96 BPM, phát các sự kiện sau, biểu diễn dưới dạng (nhịp bắt đầu, nốt, thời lượng tính bằng nhịp): (0,60,0.4), (0.5,64,0.4), (1,67,0.4), (1.5,64,0.4), (2,62,0.4), (2.5,65,0.4), (3,69,0.4), (3.5,65,0.4), (4,60,0.4), (4.5,60,0.4), (5,60,1), (5,64,1), (5,67,1). Ba sự kiện cuối tạo thành một hợp âm đồng thời. Đồng thời hỗ trợ nhập tệp MIDI tiêu chuẩn bằng một trình phân tích cú pháp đã được sử dụng rộng rãi.
+
+3. ĐIỀU KHIỂN BÀN TAY: Mô hình hóa các ngón tay có khớp nối độc lập và cổ tay có thể chuyển động. Lập kế hoạch phân công ngón tay có thể với tới, chuyển động tiếp cận, thao tác nhấn, giữ, nhả, diễn đạt nốt lặp và thực hiện hợp âm. Ngón tay phải tiếp xúc đúng phím mà không giao cắt với các phím lân cận hoặc tạo ra những cú nhảy thiếu thực tế. Sử dụng động học ngược và giới hạn khớp. Hiển thị phân công ngón tay đã lập kế hoạch và cho phép kiểm tra thủ công từng chuyển động.
+
+4. QUAN HỆ NHÂN QUẢ CỦA ÂM THANH: Chỉ tạo sự kiện note-on khi phím tương ứng đang hiển thị vượt qua ngưỡng nhấn đã được ghi rõ do tiếp xúc với ngón tay. Tạo note-off khi nhả phím, kèm độ trễ hysteresis để ngăn hiện tượng rung chuyển trạng thái. Sự kiện MIDI là mục tiêu lập kế hoạch, không phải một luồng phát âm thanh độc lập. Có thể sử dụng cơ chế phím dựa trên tiếp xúc hình học nếu cơ chế này được nêu rõ; cũng có thể sử dụng đầy đủ động lực học tiếp xúc. Phím không được di chuyển chỉ vì một sự kiện MIDI đã được lên lịch.
+
+5. NHỊP ĐIỆU: Sử dụng một đồng hồ âm nhạc nhất quán và gắn dấu thời gian cho các sự kiện kích hoạt phím thực tế để đối chiếu với sự kiện mục tiêu. Tính đến việc lập lịch âm thanh và thời điểm kết xuất. Cho phép điều chỉnh tempo, chuyển giọng, phát, tạm dừng, khởi động lại, lặp và kiểm tra chuyển động chậm. Khi tạm dừng hoặc khởi động lại, phải nhả các nốt đang hoạt động đúng cách. Khi làm chậm phát lại, phải duy trì đồng bộ giữa ngón tay, phím và âm thanh.
+
+6. CHẨN ĐOÁN: Hiển thị các nốt mục tiêu, ngón tay đã lập kế hoạch, nốt thực tế được kích hoạt và sai số thời điểm bắt đầu trên một dòng thời gian thẳng hàng. Báo cáo nốt bị bỏ sót, nốt thừa, cao độ sai, lỗi khi diễn đạt nốt lặp và nốt bị kẹt. Cung cấp lớp phủ kiểm tra tiếp xúc, cho biết đầu ngón tay nào đang nhấn từng phím. Ghi lại các bằng chứng cần thiết để phân biệt kế hoạch thành công với hoạt ảnh bàn tay mang tính ước lệ.
+
+7. XÁC MINH: Đánh giá riêng giai điệu, các nốt lặp và hợp âm cuối. Mục tiêu là không có nốt sai hoặc bị thiếu, sai số thời điểm bắt đầu ở phân vị 95 dưới 50 ms và độ phân tán thời điểm bắt đầu của hợp âm cuối dưới 50 ms. Báo cáo số đo thực tế ngay cả khi không đạt mục tiêu. Cung cấp một bài kiểm tra vô hiệu hóa việc tác động bằng ngón tay: điểm số có thể tiếp tục tăng, nhưng các phím không được nhấn không được tạo ra nốt.
+
+8. BÀN GIAO: Sử dụng Three.js, TypeScript, các API âm thanh phù hợp và những thư viện phân tích cú pháp hoặc tính toán số đã được sử dụng rộng rãi. Bàn giao ứng dụng đang chạy, mã nguồn, bộ dữ liệu âm nhạc có thể tái lập, tài sản hoặc tập lệnh tạo tài sản và hướng dẫn khởi động. Xác minh âm thanh trên trình duyệt, các điều khiển, góc nhìn camera, bố cục trên máy tính và thiết bị di động cũng như khả năng phát lại nhiều lần. Mọi tuyên bố về hiệu suất được hiển thị phải bắt nguồn từ hành vi đã đo lường.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098109252720078891) · [Bài đăng gốc](https://x.com/KeWai386772/status/2098109252720078891) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="2098225609558335846"></a>
 
 ### Tàu vận chuyển dân dụng cơ bản Sol Horizon
@@ -2193,6 +2228,28 @@ Trong Blender, hãy tạo tàu vận chuyển dân dụng cơ bản của Sol Ho
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098225609558335846) · [Bài đăng gốc](https://x.com/jonathanplumb/status/2098225609558335846) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2098367087475577273"></a>
+
+### Tự động tạo và chuyển texture tóc, khuôn mặt cho model nhân vật
+
+[さ🥺](https://x.com/_sagyoai) · 2026-09-11
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098367087475577273"><img src="../assets/previews/796d0921534d254e6ae0af1573edeef0691da20f53a1c97baaf2dfa29777cbf5.jpg" width="840" loading="lazy" alt="Tự động tạo và chuyển texture tóc, khuôn mặt cho model nhân vật"></a>
+
+Prompt yêu cầu Blender MCP dùng ảnh render chính diện khuôn mặt không tóc làm tham chiếu để tạo ảnh texture, sau đó chuyển texture sang UV đầu ra bằng phép chiếu song song.
+
+**Prompt**
+
+```text
+Hãy sử dụng tính năng tạo ảnh để texture chất lượng cao nhất
+Render chính diện khuôn mặt không tóc với flat shading, không có bóng, rồi dùng ảnh đó làm tham chiếu để tạo ảnh đã texture và ánh xạ bằng phép chiếu song song, sau đó chuyển sang UV đầu ra
+Nếu astra nghĩ ra cách nào tốt hơn thì hãy dùng cách đó
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098367087475577273) · [Bài đăng gốc](https://x.com/_sagyoai/status/2098367087475577273) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -2236,6 +2293,108 @@ Mô hình bé gái chơi robot được lắp ráp hoàn chỉnh, đội mũ cô
 
 ---
 
+<a id="2098697876155076820"></a>
+
+### Video trình diễn dựng 3D “Thiền cảnh · Cổ tự”
+
+[火山哥🕊️](https://x.com/huoshan007) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098697876155076820"><img src="../assets/previews/6800bfab42550a339838b03a419c1ce1ce728d074046f73022acbc754d4e37f4.jpg" width="840" loading="lazy" alt="Video trình diễn dựng 3D “Thiền cảnh · Cổ tự”"></a>
+
+Bài đăng chia sẻ một prompt dùng để tạo video quá trình dựng cảnh 3D “Thiền cảnh · Cổ tự”; người đăng cho biết prompt này đến từ một trang web.
+
+**Prompt**
+
+```text
+Hãy trực tiếp tạo một video trình diễn 3D hoàn chỉnh về toàn bộ quá trình xây dựng “Thiền cảnh · Cổ tự”, từ thiết kế đến thành phẩm, và xuất dưới dạng MP4 hoàn chỉnh.
+
+Yêu cầu hình ảnh:
+khung hình vuông 1080×1080, góc nhìn chính diện trực giao từ trên cao 45°, mô hình hoạt hình 2.5D thu nhỏ dạng立体, đặt chính giữa hoàn hảo. Sử dụng đế đá sáng màu nhô cao, nền xanh ngọc đồng nhất, kết cấu bề mặt mềm mại và tinh tế, vật liệu PBR cùng ánh sáng chân thực, dịu nhẹ.
+
+Cảnh bao gồm:
+ngôi chùa Trung Hoa mái hiên kép, mái ngói lưu ly cong vút ở góc, mái xanh ngọc, nóc mái màu vàng, cột son đỏ, cửa sổ và cửa ra vào dạng song, cổng tam quan, lầu chuông, lư hương, đèn đá, sân lát đá, cây thông, cây hoa màu hồng và hồ sen.
+
+Tiêu đề “Thiền cảnh · Cổ tự” ở phía trên, sử dụng phông chữ tiếng Trung màu trắng ngà ấm, in đậm và tăng độ sáng.
+
+Quy trình video, tổng thời lượng 64 giây:
+0–8 giây: vẽ từng nét bố cục mặt bằng.
+8–15 giây: đế và các khối cơ bản của công trình dựng lên.
+15–24 giây: tạo các chi tiết như cột, tường, cửa ra vào và cửa sổ.
+24–32 giây: dựng mái hiên kép, ngói và các góc mái cong vút.
+32–41 giây: thêm cổng tam quan, sân, cây cối và các chi tiết cảnh quan.
+41–49 giây: lần lượt áp màu và vật liệu PBR cho mô hình trắng.
+49–54 giây: điều chỉnh ánh sáng, phản chiếu và bóng đổ mềm.
+54–64 giây: thành phẩm hoàn chỉnh xoay quanh chậm rãi, kèm cánh hoa rơi nhẹ, khói hương và gợn nước.
+
+Sử dụng hình học 3D chân thực, liên tục trình bày quá trình dựng trong cùng một khung hình. Chỉ hiển thị tên giai đoạn ngắn gọn, không tạo các trang thuyết minh kiểu PowerPoint và không thêm lời dẫn.
+
+Hãy dùng Three.js để tạo cảnh và hoạt ảnh, kết xuất từng khung hình rồi dùng FFmpeg xuất MP4 H.264 ở 30fps; đồng thời kiểm tra khả năng phát đầy đủ, thứ tự các giai đoạn, độ hoàn chỉnh của mô hình và hiện tượng khung hình đen.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098697876155076820) · [Bài đăng gốc](https://x.com/huoshan007/status/2098697876155076820) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2098739181510164652"></a>
+
+### Trò chơi bay Skybound trên trình duyệt
+
+[Aakash Kanojiya](https://x.com/Kanojiyaaakash1) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098739181510164652"><img src="../assets/previews/cc41c83e2ecb4d3e77d02476e259243389db470101509b700c06dd3af39dd4cb.jpg" width="840" loading="lazy" alt="Trò chơi bay Skybound trên trình duyệt"></a>
+
+Một trò chơi bay 3D có thể chơi ngay trên trình duyệt, trong đó người chơi điều khiển một con rồng bay qua các hòn đảo lơ lửng và thu thập vòng để ghi điểm. Prompt yêu cầu Hyper3D Rodin MCP tạo mô hình rồng.
+
+**Prompt**
+
+```text
+Xây dựng một trò chơi bay trên trình duyệt có tên Skybound bằng Three.js. Người chơi điều khiển một con rồng bay qua một khu vực đầy các hòn đảo lơ lửng và thu thập vòng để ghi điểm. Bạn sẽ cần một mô hình rồng 3D — sử dụng Hyper3D Rodin MCP để tạo mô hình này.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098739181510164652) · [Bài đăng gốc](https://x.com/Kanojiyaaakash1/status/2098739181510164652) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2098774359926297011"></a>
+
+### Khung ảnh in 3D dạng lắp ghép có khớp nối
+
+[wada](https://x.com/wada) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098774359926297011"><img src="../assets/previews/92b9675f7ef605c4f91460c0788dd84f57cd23d0f75c4482937da6c2c76f34f9.png" width="840" loading="lazy" alt="Khung ảnh in 3D dạng lắp ghép có khớp nối"></a>
+
+Thiết kế một khung ảnh có các bộ phận được nối bằng khớp, để có thể in và lắp ráp bằng máy in 3D cỡ nhỏ. Bài đăng cho biết đã xuất STL các phần khớp nối có mã ID để hiệu chỉnh sai số của máy in và vật liệu in.
+
+**Prompt**
+
+```text
+Tôi muốn in khung ảnh bằng máy in 3D, nhưng máy in khá nhỏ nên cần thiết kế dạng nhiều bộ phận nối lại để hoàn thiện. Nối trực tiếp thì hơi nhàm, hãy dùng khớp nối thú vị hơn.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098774359926297011) · [Bài đăng gốc](https://x.com/wada/status/2098774359926297011) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2098795017955418202"></a>
+
+### Tái dựng 3D Hội chợ Thế giới Chicago năm 1893
+
+[Dan Elton](https://x.com/moreisdifferent) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098795017955418202"><img src="../assets/previews/81cc4ab0f0941aecdb4845f4372e0b7375ca0dcef194e05b92384115d8bcb45b.jpg" width="840" loading="lazy" alt="Tái dựng 3D Hội chợ Thế giới Chicago năm 1893"></a>
+
+Tái dựng 3D Triển lãm Thế giới Columbian năm 1893 bằng Blender, dựa trên các bức ảnh lịch sử và tư liệu tham khảo về hội chợ.
+
+**Prompt**
+
+```text
+Tải xuống 2.000 bức ảnh lịch sử và tư liệu tham khảo về hội chợ, rồi sử dụng toàn bộ thông tin thu thập được để tạo bản tái dựng 3D trong Blender.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098795017955418202) · [Bài đăng gốc](https://x.com/moreisdifferent/status/2098795017955418202) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="2096251574918013135"></a>
 
 ### Kaiju giao chiến trong thành phố
@@ -2272,132 +2431,6 @@ Chuẩn bị các phiên bản biểu cảm của nhân vật Tripo trong Blende
 
 ---
 
-<a id="2096225621303042258"></a>
-
-### Mô phỏng hội ngộ quỹ đạo
-
-[Alican Kiraz](https://x.com/AlicanKiraz0) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/orbital-rendezvous-simulator-2096225621303042258"><img src="../assets/previews/42e7d7821256b5c0e0d6ef4267f582a3a9406817642abaecae99cc2e479b733f.webp" width="840" loading="lazy" alt="Mô phỏng hội ngộ quỹ đạo"></a>
-
-**Prompt**
-
-```text
-Dựng mô phỏng hội ngộ quỹ đạo thời gian thực bằng lan truyền hai vật thể ECI và dẫn đường HCW. Có định hướng sáu bậc tự do, tiêu hao nhiên liệu, giới hạn lực và mục tiêu ghép nối.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/orbital-rendezvous-simulator-2096225621303042258) · [Bài đăng gốc](https://x.com/AlicanKiraz0/status/2096225621303042258) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096245759121277132"></a>
-
-### Website studio 3D theo cuộn trang
-
-[ui.debbie](https://x.com/mx_debbiee) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132"><img src="../assets/previews/a315174ac48f5392bb9a0a9ecb0f7948a9a2d1bf33f9f32f4cdfdb6c553a89ff.webp" width="840" loading="lazy" alt="Website studio 3D theo cuộn trang"></a>
-
-**Prompt**
-
-```text
-Biến ảnh tham chiếu thành cảnh Three.js trong website studio điều khiển bằng cuộn mượt. Đồng bộ chuyển động camera, chữ và chuyển giữa các phần.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [Bài đăng gốc](https://x.com/mx_debbiee/status/2096245759121277132) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096244208533455049"></a>
-
-### Komorebi: chèo kayak trên sông
-
-[AJ](https://x.com/ItsmeAjayKV) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/komorebi-river-kayaking-2096244208533455049"><img src="../assets/previews/177462bb87e3089acbf23e2e6f58e75e4fa5cb7291601fdce6da2a3fb5f2b6af.webp" width="840" loading="lazy" alt="Komorebi: chèo kayak trên sông"></a>
-
-**Prompt**
-
-```text
-Dựng game chèo kayak 3D mang thẩm mỹ anime. Cho người chơi chèo trái phải để tránh vật cản, với nước chảy, phong cảnh, nhạc và hiệu ứng âm thanh đều tạo bằng mã.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [Bài đăng gốc](https://x.com/ItsmeAjayKV/status/2096244208533455049) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096243989439713677"></a>
-
-### Câu chuyện sản phẩm với chai khúc xạ
-
-[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/refractive-bottle-product-story-2096243989439713677"><img src="../assets/previews/0752e3417e975ec333d58ef948643def758c883afb543c38e664b40f45d11b43.webp" width="840" loading="lazy" alt="Câu chuyện sản phẩm với chai khúc xạ"></a>
-
-**Prompt**
-
-```text
-Dựng website sản phẩm tương tác quanh chai thủy tinh WebGL chân thực. Dùng chất lỏng khúc xạ, xoay theo cuộn và chữ mạnh, đồng thời giữ hiệu năng trình duyệt.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [Bài đăng gốc](https://x.com/himanshubuildss/status/2096243989439713677) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096250748099068377"></a>
-
-### Demo Hyperloop tương tác
-
-[Amir](https://x.com/hbanay98) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-hyperloop-demo-2096250748099068377"><img src="../assets/previews/6fe7e10c4907c28861e51727de19f2b115f6c9d7ffab6b0288b6cb0fc8f250e2.webp" width="840" loading="lazy" alt="Demo Hyperloop tương tác"></a>
-
-**Prompt**
-
-```text
-Dựng demo Hyperloop tương tác bằng Three.js, thể hiện khoang vận chuyển, hạ tầng ống và chuyển động qua hệ thống.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [Bài đăng gốc](https://x.com/hbanay98/status/2096250748099068377) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096234355395903672"></a>
-
-### Tượng bán thân Napoleon thủ tục
-
-[Le PLOUTOS](https://x.com/leploutos) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/procedural-napoleon-bust-2096234355395903672"><img src="../assets/previews/fda483263b1b7468f091f1798d7841bcfb9b983bc7659ca2ef491c23f3bbc948.webp" width="840" loading="lazy" alt="Tượng bán thân Napoleon thủ tục"></a>
-
-**Prompt**
-
-```text
-Viết mã tạo tượng bán thân Napoleon 3D trong Three.js. Dựng theo giai đoạn, xem từ nhiều góc rồi tinh chỉnh tỷ lệ mặt và chi tiết trang phục.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [Bài đăng gốc](https://x.com/leploutos/status/2096234355395903672) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096226711222546461"></a>
-
-### Sảnh ga đường sắt
-
-[Wormhole404](https://x.com/0xWormhole404) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/railway-station-concourse-2096226711222546461"><img src="../assets/previews/ec572c18e5e02ac65512d6d72ffe09c5afb807b131336ac8b75d13aefb86899c.webp" width="840" loading="lazy" alt="Sảnh ga đường sắt"></a>
-
-**Prompt**
-
-```text
-Tạo sảnh ga có nhịp kiến trúc mạnh, tỷ lệ hợp lý và vật liệu thuyết phục. Tạo cảnh 3D quan sát được với khung hình ga được dàn dựng cẩn thận.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/railway-station-concourse-2096226711222546461) · [Bài đăng gốc](https://x.com/0xWormhole404/status/2096226711222546461) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="2096258619574513880"></a>
 
 ### Vật lý đua xe trình duyệt bằng C# và WASM
@@ -2413,24 +2446,6 @@ Tái tạo hệ vật lý đua xe kiểu Trackmania bằng C#, chạy qua WASM v
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Bài đăng gốc](https://x.com/achepta_tm/status/2096258619574513880) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096241295949975602"></a>
-
-### Máy viên nang ký ức
-
-[Gloria Zhang](https://x.com/gloria_zwq) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/memory-capsule-machine-2096241295949975602"><img src="../assets/previews/2623ee6ae5ad1e80ed6af68f48f0ef33bb34a6fc638f5fd6d55f8ab0de7b3625.webp" width="840" loading="lazy" alt="Máy viên nang ký ức"></a>
-
-**Prompt**
-
-```text
-Dựng máy viên nang ký ức 3D. Xoay núm để thả một ký ức, mô hình hóa cơ cấu trong Blender và cho viên nang rơi với chuyển động, âm thanh hợp lý.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/memory-capsule-machine-2096241295949975602) · [Bài đăng gốc](https://x.com/gloria_zwq/status/2096241295949975602) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3085,7 +3100,7 @@ Xây dựng trang đích biển sâu với hiệu ứng nước Three.js, giao d
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 205 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 214 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>
