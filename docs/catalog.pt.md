@@ -26,7 +26,7 @@
 **Um ponto de partida para seu próximo jogo, cena ou mundo interativo.**
 
 
-**216 · Prompts mais recentes do Astra**
+**222 · Prompts mais recentes do Astra**
 
 ## Projetos em destaque
 
@@ -45,10 +45,9 @@
 
 - [Colisor de partículas 3D interativo](#2097781208596029936) · GitHub
 - [Atlas 3D interativo da cabeça e do cérebro humano](#2098105648106078541) · GitHub
+- [Atlas de Chernobyl](#2098841316591346006) · GitHub
 - [Mosswing: jogo 3D mobile de toque para bater asas](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
 - [Núcleo de energia interativo com dois anéis](#2096551010089263181) · GitHub
-- [Praça da União de Cluj-Napoca em voxels](#2096262733259837681) · GitHub
-- [Reconstrução de dragão fotorrealista e editável no Blender](#2096335588727349434)
 - [Do conceito de personagem ao modelo 3D com rig e ao desenho animado](#2096342420543660277)
 - [Conjunto 3D interativo com animação sincronizada ao áudio](#2096354461652488562)
 - [Crie e renderize um buraco negro no Blender](#2096391653669953761)
@@ -101,13 +100,17 @@
 - [Cena de maquete 3D em miniatura de um templo](#2098403061463224543)
 - [Miniatura de menina brincando com robô](#2098406473273663992)
 - [Lago de carpas koi 3D interativo](#2098492771170722032)
+- [Modele a Ponte do Brooklyn e teste tanques atravessando nos dois sentidos](#2098650336521064759)
 - [Vídeo demonstrativo da construção 3D de “禅境·古寺”](#2098697876155076820)
+- [DEVICE: jogo de quebra-cabeça 3D fotorrealista que usa o próprio smartphone](#2098715488369152087)
 - [Jogo de voo Skybound para navegador](#2098739181510164652)
+- [Crie um jogo de corrida 3D](#2098749876620415165)
 - [Moldura para impressão 3D em partes com encaixes](#2098774359926297011)
 - [Reconstrução 3D da Feira Mundial de Chicago de 1893](#2098795017955418202)
+- [Simulação de mesa de areia cinética](#2098831830002851846)
+- [Animação 3D de origami que se dobra sozinha](#2098909584996057283)
 - [Desdobramento UV e rebake em 4K para modelo de roupas sem cabeça](#2098980384260456813)
 - [Expressões de personagem alternáveis no Blender](#2096525100518453342)
-- [Cena de personagem inspirada em Warcraft no Unity](#2096308567863079420)
 - [Tabuleiro de shogi 3D giratório](#2096579856133947507)
 - [Atlas de um computador de mesa em vista explodida](#2096578761877860502)
 - [Planejador de quarto infantil e espaço de trabalho](#2096578684010508736)
@@ -116,9 +119,7 @@
 - [Wright Flyer sobre uma floresta japonesa](#2096467585785286808)
 - [Uma casa modelada do zero no Blender](#2096576154337734865)
 - [Da planta do último andar à prévia no Blender](#2096501340889374883)
-- [Terreiro do Paço de Lisboa no Blender](#2096298425914450021)
 - [Aventura de exploração The Quiet Crossing](#2096574297703637111)
-- [Floresta procedural densa em Three.js](#2096263046918197609)
 - [Locomotiva a vapor pelo campo](#2096577430274429157)
 - [Cena de toca-discos sobre uma mesa](#2096561346766877106)
 - [Ciclo de jogo de batalhas com cartas colecionáveis](#2096555856204644550)
@@ -142,7 +143,6 @@
 - [De um logotipo 2D a um personagem animado](#2096559197999501724)
 - [Jogo de caranguejo com mecânicas baseadas em ações](#2096337879173591171)
 - [Montagem e animação de assets 3D gerados](#2096481425050743048)
-- [Landing page abissal bioluminescente](#2096269057544831175)
 
 </details>
 
@@ -225,6 +225,37 @@ Teste a integridade da geometria, o pertencimento à hierarquia, a visibilidade,
 
 ---
 
+<a id="2098841316591346006"></a>
+
+### Atlas de Chernobyl
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098841316591346006"><img src="../assets/previews/c49b94fb45b6666b2db84239b17eb2d670e898d5b89d788b050e021bf38c6316.jpg" width="840" loading="lazy" alt="Atlas de Chernobyl"></a>
+
+Uma sugestão reutilizável do autor da publicação para criar uma exposição interativa em Three.js sobre o bloco de potência de Chernobyl e o reator RBMK. A proposta inclui um modelo 3D desmontável do bloco de potência, uma visualização animada do circuito de vapor e um corte em 3D do reator com controles de movimento e inspeção. O autor apresenta isso como um prompt para criar algo semelhante, não como o prompt original confirmado da exposição vinculada.
+
+**Prompt**
+
+```text
+Crie o “Atlas de Chernobyl”, uma exposição interativa 3D premium usando Three.js.
+
+Pesquise a usina de Chernobyl e o reator RBMK intactos usando referências públicas. Modele os edifícios, a chaminé treliçada, a casa de turbinas, o empilhamento de grafite, os canais de combustível, a blindagem, os tambores separadores, as bombas e as tubulações.
+
+Crie três abas:
+— Bloco de potência: um modelo detalhado que se desmonta camada por camada usando a rolagem e um controle deslizante.
+— Circuito de vapor: um diagrama animado conectando o reator, a turbina, o condensador e as bombas.
+— Reator em movimento: um corte em 3D com água e vapor em movimento, maquinário giratório e controles de reprodução.
+
+Adicione controles independentes de visibilidade dos sistemas, espaçamento ajustável entre as peças, modo de wireframe, transparência, cortes de seção e rótulos curtos. Mantenha cada camada fácil de inspecionar e a câmera livre para girar, mesmo com a desmontagem completa.
+
+Entregue o código-fonte e um arquivo HTML independente. Teste todos os controles. Apresente o resultado como uma interpretação educacional, não como uma réplica exata de engenharia.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098841316591346006) · [Publicação original](https://x.com/k1rallik/status/2098841316591346006) · [Código-fonte](https://github.com/bubblik525/Chernobyl_Atlas) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="mosswing-mobile-3d-tap-to-flap-game"></a>
 
 ### Mosswing: jogo 3D mobile de toque para bater asas
@@ -260,243 +291,6 @@ Modele um núcleo de energia, dois anéis e uma base metálica no Blender. Expor
 ```
 
 [Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [Publicação original](https://x.com/oneruofeng/status/2096551010089263181) · [Código-fonte](https://github.com/wangruofeng/orbital-core-showcase) · [Demonstração](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2096262733259837681"></a>
-
-### Praça da União de Cluj-Napoca em voxels
-
-[Dan Manastireanu](https://x.com/danmana) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681"><img src="../assets/previews/6fbb5254f46d92a8688194420483c835fad03380a827128eb4d94e627d32f961.webp" width="840" loading="lazy" alt="Praça da União de Cluj-Napoca em voxels"></a>
-
-**Prompt**
-
-```text
-Crie um mundo interativo de voxels da Piața Unirii em Cluj-Napoca. Adapte a disposição e os pontos de referência reconhecíveis da praça para uma miniatura explorável.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681) · [Publicação original](https://x.com/danmana/status/2096262733259837681) · [Código-fonte](https://github.com/danmana/piata-unirii) · [Demonstração](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2096335588727349434"></a>
-
-### Reconstrução de dragão fotorrealista e editável no Blender
-
-[Sarang Borude](https://x.com/doomdave) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2096335588727349434"><img src="../assets/previews/756d0d4859c6a3bec065b9594d7fed7544101b6f6b6fb1e331bbfee059e84738.jpg" width="840" loading="lazy" alt="Reconstrução de dragão fotorrealista e editável no Blender"></a>
-
-Prompt literal para o Blender reconstruir, a partir de uma prancha de referências fornecida, um dragão 3D fotorrealista e totalmente editável, incluindo anatomia modelada, materiais, iluminação cinematográfica, renders de validação e um sobrevoo de câmera de 10 segundos.
-
-**Prompt**
-
-```text
-Crie, dentro do Blender, uma reconstrução 3D fotorrealista e totalmente editável do dragão mostrado na prancha de referências anexada.
-
-Use todas as vistas fornecidas — incluindo as vistas lateral, frontal, superior e traseira, os ângulos da cabeça, o close da cabeça, o close do olho, os detalhes das escamas e das asas — para reconstruir um único dragão coerente e anatomicamente crível.
-
-Reproduza a referência com a maior fidelidade possível, especialmente:
-
-- Proporções gerais do corpo e silhueta
-- Pescoço longo e musculoso e cauda afilada
-- Quatro patas e duas grandes asas semelhantes às de um morcego
-- Formato da cabeça e da mandíbula
-- Número, formato e posicionamento dos chifres
-- Espinhos dorsais ao longo do pescoço, das costas e da cauda
-- Padrões de escamas em carvão escuro e marrom terroso
-- Escamas em camadas semelhantes a uma armadura
-- Olhos âmbar-dourados com pupilas verticais
-- Garras, dentes e membranas das asas
-- Aparência ancestral, realista e ameaçadora
-
-Os painéis de referência podem conter pequenas inconsistências. Harmonize-os em uma criatura-base fisicamente coerente e simétrica, preservando a identidade visual do dragão. Use a vista lateral para as proporções gerais, a frontal para a largura e a postura, as vistas superior e traseira para as asas e a cauda, e os closes para a cabeça, os olhos, as escamas e os materiais das asas.
-
-Modele o dragão do zero como geometria real e editável do Blender. Não baixe nem importe um modelo de dragão existente. Não use billboards, projeções 2D, ilusões com mapas de profundidade nem vídeo gerado no lugar da geometria.
-
-Use scripts modulares em Python para o Blender (`bpy`) e o executável do Blender no modo em segundo plano/headless como método principal de construção. Mantenha os scripts reproduzíveis e preserve versões bem-sucedidas do arquivo `.blend`. Use o controle do computador para abrir e inspecionar a cena do Blender sempre que a inspeção visual for útil. Não instale nem dependa de um servidor MCP do Blender.
-
-ABORDAGEM DE MODELAGEM
-
-Comece com um blockout anatômico antes de adicionar detalhes. Estabeleça:
-
-- Crânio, mandíbula e órbitas oculares
-- Pescoço, peito, caixa torácica e pelve
-- Quatro patas anatomicamente convincentes
-- Dedos separados e garras curvas
-- Ombros das asas integrados ao torso
-- Braços articulados das asas e ossos dos dedos
-- Membranas das asas devidamente conectadas
-- Cauda longa continuando naturalmente a partir da pelve
-- Chifres primários e espinhos dorsais
-
-Evite membros extras, chifres duplicados, membranas desconectadas, articulações quebradas, escamas flutuantes, interseções, formas finas como papel, assimetria acidental e proporções semelhantes às de um brinquedo.
-
-Depois de validar o blockout, adicione detalhes secundários e terciários:
-
-- Placas em camadas no peito e no pescoço
-- Escamas direcionais que acompanhem a anatomia
-- Sobrancelhas ósseas e pálpebras
-- Aberturas reais das narinas
-- Interior da boca, gengivas e dentes individuais
-- Sulcos, lascas e pontas desgastadas nos chifres
-- Armadura das patas e placas das articulações dos dedos
-- Tendões, dobras, veias e cicatrizes discretas nas asas
-- Espinhos dorsais continuando pela cauda
-- Assimetria natural sutil
-
-Use geometria para tudo que afeta a silhueta, incluindo chifres, garras, dentes, escamas principais, espinhos dorsais, dedos das asas e dobras importantes das membranas. Use mapas normais, bump ou displacement moderado apenas nos microdetalhes.
-
-MATERIAIS
-
-Crie materiais fotorrealistas com base física.
-
-As escamas devem ser predominantemente pretas como carvão, com variações sutis de grafite e marrom terroso. Adicione variações moderadas de cor, roughness e microdetalhes de normais. Escamas elevadas, pele rebaixada e placas de armadura devem refletir a luz de maneiras diferentes. Evite brilho plástico uniforme e ruído procedural aplicado indiscriminadamente.
-
-As membranas das asas devem parecer couro reptiliano desgastado. Elas devem ser mais finas entre os ossos de sustentação e mais espessas perto das articulações e dos bordos de ataque. Inclua veias, dobras, tensão, cicatrizes, translucidez e variação de cor sutis, sem fazê-las parecer tecido, borracha ou papel.
-
-Crie chifres e garras semelhantes à queratina, com bases escuras, pontas desgastadas mais claras, sulcos longitudinais e danos sutis.
-
-Os olhos devem ter:
-
-- Íris âmbar-douradas
-- Pupilas verticais pretas
-- Estruturas detalhadas na íris
-- Regiões limbares escuras
-- Globos oculares tridimensionais reais
-- Pálpebras realistas
-- Reflexos úmidos na córnea
-- Umidade sutil nas bordas das pálpebras
-
-Não faça os olhos emitirem luz nem brilharem artificialmente.
-
-ILUMINAÇÃO E AMBIENTE
-
-Crie um ambiente cinematográfico discreto, semelhante ao da referência:
-
-- Pedestal rochoso escuro ou formação montanhosa
-- Montanhas atmosféricas ao longe
-- Céu dramaticamente nublado
-- Iluminação ambiente fria
-- Luz direcional um pouco mais quente, revelando o rosto e as escamas
-- Névoa atmosférica leve
-- Nenhuma estrutura ou criatura adicional que distraia
-
-Coloque o dragão em uma postura estável e imponente:
-
-- Cabeça erguida e alerta
-- Pescoço levemente curvado
-- Asas totalmente ou quase totalmente abertas
-- Peso distribuído de forma crível entre as quatro patas
-- Cauda apoiada ou curvada naturalmente atrás dele
-- Boca fechada ou ligeiramente entreaberta
-- Olhos direcionados para a câmera ou ligeiramente além dela
-
-VERIFICAÇÃO VISUAL
-
-Crie câmeras de validação correspondentes para:
-
-- Vista lateral
-- Vista frontal
-- Vista superior
-- Vista traseira
-- Perfis esquerdo e direito da cabeça
-- Vista principal em três quartos
-- Close da cabeça
-- Close do olho
-- Close das escamas
-- Close da asa
-
-Execute pelo menos três ciclos de crítica e correção.
-
-Durante cada ciclo:
-
-1. Renderize todas as câmeras de validação.
-2. Compare cada render com o painel de referência correspondente.
-3. Avalie silhueta, anatomia, proporções, identidade da cabeça, chifres, asas, patas, pés, cauda, fluxo das escamas, materiais, simetria, interseções, shading e normais.
-4. Produza uma lista priorizada das discrepâncias.
-5. Corrija os problemas visualmente mais importantes.
-6. Renderize novamente com as mesmas câmeras.
-7. Preserve comparações de antes e depois.
-
-Não declare a conclusão apenas porque os objetos foram criados. A conclusão exige inspecionar os renders reais e corrigir os problemas visíveis.
-
-SOBREVOO DE CÂMERA DE 10 SEGUNDOS
-
-Crie um sobrevoo cinematográfico de câmera ao redor do dragão concluído com os seguintes requisitos:
-
-- Exatamente 10 segundos
-- Resolução de 1920 × 1080
-- 30 quadros por segundo
-- Exatamente 300 quadros
-- Movimento de câmera contínuo e suave
-- Sem cortes
-- Aproximadamente uma órbita completa de 360 graus
-- Início em uma composição frontal forte em três quartos
-- Trajeto pela lateral, traseira e lateral oposta
-- Final em uma composição que se conecte suavemente ao quadro inicial
-- Adicione uma mudança moderada de elevação para revelar a construção das costas e das asas
-- Mantenha o dragão inteiro dentro do quadro
-- Mantenha a cabeça e o torso como foco visual principal
-- Use interpolação Bézier suave
-- Evite aceleração repentina e roll da câmera
-- Evite atravessar as asas, a cauda, o terreno ou o corpo com a câmera
-- Use uma lente de perspectiva natural, sem distorção forte de grande angular
-- Mantenha a profundidade de campo sutil o suficiente para que o dragão continue legível
-- Use motion blur moderado
-
-Antes do render final, gere uma prévia rápida em 1080p e baixa amostragem da animação inteira. Inspecione a prévia completa e corrija enquadramento inadequado, colisões da câmera, silhuetas estranhas, vistas obstruídas, movimentos abruptos, defeitos de shading e interseções visíveis de geometria.
-
-RENDER FINAL
-
-Depois de concluir os ciclos de crítica e aprovar a prévia da animação:
-
-- Renderize a animação final em 1920 × 1080.
-- Use o Cycles com aceleração por GPU quando disponível.
-- Renderize a 30 fps por exatamente 300 quadros.
-- Use amostragem adaptativa e denoising.
-- Renderize primeiro quadros de imagem individuais, para que um render interrompido possa ser retomado.
-- Use PNG de 16 bits ou OpenEXR para os quadros principais.
-- Monte os quadros renderizados em um MP4 H.264 de alta qualidade.
-- Não use interpolação de quadros por IA.
-- Mantenha os quadros individuais depois de montar o vídeo.
-
-ENTREGÁVEIS
-
-Forneça:
-
-1. Arquivo `.blend` final e editável
-2. Todos os scripts `bpy` reproduzíveis
-3. README com instruções para reconstrução e renderização
-4. Relatório de análise da referência e das premissas adotadas
-5. Comparações de referência com vistas correspondentes
-6. Comparações de antes e depois dos ciclos de crítica
-7. Renders estáticos de alta qualidade do dragão completo e dos detalhes importantes
-8. Sequência completa de 300 quadros de imagem
-9. Vídeo H.264 final de 10 segundos em 1080p
-10. Relatório de validação da geometria e dos materiais
-11. Manifesto identificando quaisquer recursos externos permitidos do ambiente e suas licenças
-
-CRITÉRIOS DE SUCESSO
-
-Sucesso significa que:
-
-- O resultado é reconhecivelmente o mesmo dragão da referência.
-- A anatomia permanece coerente de todos os ângulos.
-- A cabeça, os chifres, os olhos âmbar, as asas, os espinhos dorsais e as escamas escuras em camadas correspondem de perto à referência.
-- O dragão é totalmente tridimensional e editável.
-- Os detalhes principais e médios são modelados, não simulados.
-- Os materiais respondem naturalmente conforme a câmera se move.
-- Não há interseções óbvias, escamas flutuantes, anatomia duplicada nem normais quebradas.
-- Ele se parece com uma criatura física fotografada, e não com um brinquedo, uma escultura, um modelo procedural genérico ou um asset comum de jogo.
-- O movimento da câmera é suave, cinematográfico e dura exatamente 10 segundos.
-
-Trabalhe de forma autônoma ao longo destas etapas. Comece pela análise da referência e pelo blockout anatômico. Se encontrar uma ambiguidade importante que não possa ser resolvida com base na referência, faça a escolha mais anatomicamente plausível, documente a premissa e continue.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2096335588727349434) · [Publicação original](https://x.com/doomdave/status/2096335588727349434) · [Voltar aos exemplos](#all-prompts)
 
 ---
 
@@ -2310,6 +2104,26 @@ Entregue um site completo e funcional, com visuais refinados e interações oper
 
 ---
 
+<a id="2098650336521064759"></a>
+
+### Modele a Ponte do Brooklyn e teste tanques atravessando nos dois sentidos
+
+[Sahil Verma](https://x.com/sahilvermaai) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098650336521064759"><img src="../assets/previews/93cbaf0c49da1dba0e914e583c1232163708ba8def2558de4037076085fb9995.jpg" width="840" loading="lazy" alt="Modele a Ponte do Brooklyn e teste tanques atravessando nos dois sentidos"></a>
+
+Solicitação de CAD e análise de cargas estruturais reproduzida integralmente da publicação vinculada de higgsfield\_ai. Ela pede ao GPT-6 Astra que recrie a Ponte do Brooklyn no AutoCAD e avalie um cenário com tanques atravessando nos dois sentidos.
+
+**Prompt**
+
+```text
+Modele a Ponte do Brooklyn e teste tanques atravessando nos dois sentidos.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098650336521064759) · [Publicação original](https://x.com/sahilvermaai/status/2098650336521064759) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="2098697876155076820"></a>
 
 ### Vídeo demonstrativo da construção 3D de “禅境·古寺”
@@ -2352,6 +2166,810 @@ Use Three.js para gerar a cena e a animação, renderize quadro a quadro e expor
 
 ---
 
+<a id="2098715488369152087"></a>
+
+### DEVICE: jogo de quebra-cabeça 3D fotorrealista que usa o próprio smartphone
+
+[ひまねこ](https://x.com/00Nekonet) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098715488369152087"><img src="../assets/previews/2300a6320af3fc2a12e4d96b98007446f779ddb64f891a54e2118c9b86ab9f81.jpg" width="840" loading="lazy" alt="DEVICE: jogo de quebra-cabeça 3D fotorrealista que usa o próprio smartphone"></a>
+
+Instruções abrangentes para criar no Unity uma aventura de quebra-cabeça 3D fotorrealista para Android, em modo retrato, na qual o jogador investiga o dispositivo cúbico preto “DEVICE”. Além dos controles por toque, integrar a inclinação e a rotação do aparelho, colocá-lo com a tela para baixo, a aceleração, a câmera, o microfone, a vibração, o alto-falante, o brilho, a bússola e o estado de carregamento como entradas de quebra-cabeças do mesmo mundo de jogo. O artigo no link publica o texto completo dessas instruções inserido no ChatGPT Work e também apresenta a versão de teste de “DEVICE”, com 25 fases, além do APK para Android.
+
+**Prompt**
+
+```text
+Atue simultaneamente como diretor de jogo, game designer, engenheiro de Unity, artista 3D, designer de UI/UX, artista técnico, designer de som e responsável por QA deste projeto.
+
+ Com base nas especificações a seguir, crie não apenas um conceito, mas um jogo de quebra-cabeça 3D para smartphone, completo, jogável e de alta qualidade.
+
+ Não encerre o trabalho apresentando apenas ideias.
+ Não encerre o trabalho criando apenas um documento de especificações.
+ Na medida do possível, crie o projeto real, o código, as cenas, a interface, os materiais, a lógica de jogo, o controle de áudio, o processamento dos sensores, o sistema de salvamento e os testes.
+
+ Quando houver pontos indefinidos, não faça perguntas salvo em caso de contradições graves; tome por conta própria as decisões que tornem o jogo mais interessante e de maior qualidade e prossiga diretamente com a produção.
+
+Visão geral do projeto
+
+Título provisório:
+
+DEVICE
+
+Gênero:
+
+Aventura de quebra-cabeça 3D fotorrealista e imersiva para smartphone
+
+Plataforma:
+
+Prioridade máxima para Android.
+ Estruture o projeto para permitir compatibilidade com iOS na medida do possível.
+
+Tela:
+
+Modo retrato, 9:16
+
+Controles:
+
+O jogo deve ser controlável com uma mão na maior parte do tempo.
+ No entanto, alguns quebra-cabeças devem usar ações físicas com o próprio smartphone: levantá-lo, incliná-lo, girá-lo, colocá-lo com a tela para baixo, sacudi-lo e mantê-lo imóvel.
+
+Principal característica do jogo
+
+Este não é um “jogo para jogar no smartphone”.
+
+Crie um jogo que use o próprio smartphone como dispositivo de quebra-cabeça.
+
+Não deve ser possível concluir o jogo apenas tocando na tela.
+
+Use os sensores, a câmera, o microfone, a vibração, o alto-falante, a orientação do aparelho e o estado de carregamento do smartphone como leis físicas do mundo do jogo.
+
+ Porém, não transforme o jogo em uma simples coleção de demonstrações de sensores.
+
+ Projete tudo para que cada recurso se conecte naturalmente ao mesmo universo e ao mesmo sistema de jogo.
+
+Universo
+
+O jogador encontra o misterioso dispositivo cúbico preto “DEVICE” em uma instalação de pesquisa desconhecida.
+
+O cubo se conecta ao smartphone e detecta o estado do aparelho no mundo real.
+
+Quando o jogador inclina o smartphone, a gravidade dentro do DEVICE muda.
+
+Quando gira o aparelho, o próprio espaço gira.
+
+Luz, cor, som, direção e movimento do mundo real fluem para dentro do DEVICE.
+
+No início, ele parece apenas um dispositivo experimental, mas, conforme o jogo avança, o próprio DEVICE começa a reconhecer a presença do jogador.
+
+Na parte final, inclua metacabeças que explorem a própria relação
+
+“o jogador está controlando o smartphone”
+
+.
+
+Não transforme a obra em terror.
+ Pode haver estranheza, tecnologia desconhecida e mistério, mas o foco deve ser a curiosidade intelectual e o prazer da descoberta.
+
+Qualidade visual
+
+Este é o aspecto mais importante.
+
+ Obtenha visuais 3D tão fotorrealistas quanto possível em um smartphone.
+
+ É proibido usar CG com aparência barata de jogo mobile.
+
+ É proibido usar estilo cartunesco.
+
+ É proibida a aparência low poly.
+
+ Fora da interface, deixe o mínimo possível de recursos provisórios planos.
+
+ Se usar Unity, adote como base o URP, considerando o desempenho mobile,
+
+• materiais PBR
+ • expressão Metallic/Roughness
+ • Normal Map
+ • Ambient Occlusion
+ • Reflection Probe
+ • Light Probe
+ • sombras de alta qualidade
+ • sombras suaves
+ • Bloom
+ • Color Grading
+ • efeitos em Screen Space
+ • iluminação com aspecto volumétrico
+ • Depth of Field apenas onde necessário
+ • vidro fisicamente baseado
+ • metal
+ • pisos molhados
+ • arranhões
+ • impressões digitais
+ • poeira
+ • microirregularidades de superfície
+ • materiais emissivos
+ • reflexos
+ • som ambiente
+
+ e outros recursos combinados.
+
+ O cenário é uma instalação de pesquisa futurista, escura e sofisticada.
+
+ Priorize metal preto, vidro, concreto, linhas luminosas brancas, máquinas de precisão e componentes hidráulicos.
+
+ Não deixe tudo completamente escuro; os objetos importantes devem ser reconhecíveis com iluminação natural.
+
+ Como símbolo do jogo, o DEVICE deve ser produzido com qualidade excepcional.
+
+Corpo do DEVICE:
+
+ Um cubo de aproximadamente 20 a 30 cm, composto de metal preto e vidro.
+
+ Cada face deve ter uma estrutura mecânica diferente.
+
+ As junções devem ser extremamente precisas.
+
+ Uma luz branca ou branco-azulada deve escapar discretamente de dentro dele.
+
+ A estrutura interna deve se deformar, girar e se abrir fisicamente em resposta às ações do jogador.
+
+ Inclua animações mecânicas com sensação tátil de clique.
+
+Tela principal do jogo
+
+ O DEVICE fica no centro da tela em modo retrato.
+
+ O jogador arrasta o DEVICE para girá-lo e examina cada face.
+
+ Ao redor, há uma instalação de pesquisa.
+
+ A câmera deve ser cinematográfica sem prejudicar a jogabilidade.
+
+ Mantenha a interface básica no mínimo.
+
+ Não exiba muitos botões o tempo todo.
+
+ Priorize a sensação de tocar e operar o próprio DEVICE.
+
+Sistemas centrais
+
+ Integre os elementos a seguir como sistemas de entrada do mesmo mundo de jogo, em vez de transformá-los em minijogos independentes.
+
+1. Toque
+
+ Permita toque
+ toque duplo
+ pressionar e segurar
+ arrastar
+ deslizar
+ pinçar
+ dois dedos
+ três dedos
+ e pressionar vários pontos simultaneamente
+
+.
+
+ O jogador deve operar diretamente botões, alavancas, anéis giratórios, mostradores e outros elementos do DEVICE.
+
+2. Giroscópio
+
+ Vincule a inclinação do smartphone à gravidade dentro do DEVICE.
+
+Exemplos:
+
+ conduzir uma esfera metálica até o objetivo apenas inclinando o aparelho;
+
+ inclinar um líquido para que ele entre em contato com eletrodos;
+
+ ajustar o ângulo de um feixe de luz.
+
+3. Acelerômetro
+
+ Detectar quando o aparelho é sacudido,
+
+ parado bruscamente
+
+ ou movimentado como se recebesse uma leve batida.
+
+ No entanto, não exija que o aparelho seja sacudido com força excessiva.
+
+ Considere a segurança.
+
+4. Orientação do aparelho
+
+ Retrato
+ Paisagem
+ Face Up
+ Face Down
+
+ e outros estados devem ser refletidos no jogo.
+
+ Crie eventos que só ocorram quando o jogador colocar o smartphone com a tela para baixo sobre uma mesa.
+
+5. Câmera
+
+ Incorpore as cores do mundo real ao jogo.
+
+ Quando o jogador apontar a câmera para objetos vermelhos, azuis, verdes e outras cores, analise a cor predominante na região central da imagem e envie-a ao DEVICE como energia.
+
+ Não envie a imagem em si para um servidor.
+
+ Faça o processamento no próprio aparelho sempre que possível.
+
+ Disponibilize também um controle alternativo para quando a câmera não puder ser usada.
+
+6. Microfone
+
+ Use volume,
+ duração
+ e características simples de frequência
+
+, entre outros dados.
+
+Exemplos:
+
+ soprar;
+ falar;
+ bater palmas;
+ ficar em silêncio por determinado tempo
+
+ e outras ações.
+
+ O reconhecimento de voz não deve ser obrigatório.
+
+ Não salve dados de gravação.
+
+7. Háptica/vibração
+
+ Este é um recurso muito importante.
+
+ Crie fases que transmitam apenas por vibração informações que não aparecem na tela.
+
+Exemplos:
+
+ quanto mais perto do alvo, menor o intervalo entre as vibrações;
+
+ padrões diferentes para a esquerda e a direita;
+
+ códigos usando vibrações curtas e longas.
+
+ Disponibilize uma indicação alternativa para aparelhos com a vibração desativada.
+
+8. Alto-falante
+
+ Use a percepção espacial da direção do som.
+
+ Não torne fones de ouvido obrigatórios.
+
+ Use altura, periodicidade e posicionamento estéreo como informações dos quebra-cabeças.
+
+9. Brilho
+
+ Use o sensor de luz ambiente quando possível.
+
+ Em aparelhos incompatíveis, considere alternativas como o brilho captado pela câmera.
+
+ Crie mecanismos que apareçam quando o aparelho estiver em um local escuro.
+
+ Crie mecanismos que carreguem quando o aparelho estiver em um local claro.
+
+10. Bússola
+
+ Nos aparelhos compatíveis, obtenha a direção.
+
+ Crie quebra-cabeças que exijam apontar o smartphone para o norte, o sul ou uma direção específica.
+
+ Na ausência do sensor, alterne para um desafio alternativo.
+
+11. Estado de carregamento
+
+ Se for possível detectar o início do carregamento do aparelho,
+
+ inclua uma cena em que conectar fisicamente o cabo de carregamento fornece energia ao DEVICE.
+
+ No entanto, sempre ofereça uma forma alternativa de concluir a fase para usuários que não possam realizar essa ação.
+
+12. Bateria
+
+ Se for possível obter o nível da bateria, use-o em eventos especiais.
+
+ É proibido criar um design que impeça a conclusão com base no nível da bateria.
+
+13. Horário
+
+ O horário atual pode ser usado em quebra-cabeças ou efeitos especiais.
+
+ É proibido criar fases que só possam ser concluídas em um horário específico.
+
+ Não force o jogador a esperar.
+
+Design dos quebra-cabeças
+
+ Em vez de produzir desde o início 100 desafios superficiais,
+
+ crie primeiro cerca de 20 a 30 fases extremamente bem-acabadas.
+
+ Cada uma deve oferecer uma descoberta diferente.
+
+ É proibido repetir a mesma ação mudando apenas os números.
+
+Capítulo 1: TOUCH
+
+ Ensine as regras do jogo com foco nos controles por toque.
+
+ Tocar no DEVICE.
+ Girar.
+ Pressionar.
+ Puxar.
+ Abrir.
+
+Capítulo 2: GRAVITY
+
+ Introduza o giroscópio e a aceleração.
+
+ O mundo físico dentro do DEVICE sincroniza-se com a orientação do smartphone no mundo real.
+
+Capítulo 3: SENSE
+
+ Introduza câmera,
+ microfone,
+ luz,
+ som
+ e vibração.
+
+
+Capítulo 4: OUTSIDE
+
+ Crie desafios que direcionem a atenção do jogador para fora da tela.
+
+ Virar o smartphone com a tela para baixo.
+ Mantê-lo imóvel.
+ Alinhá-lo com uma direção.
+ Capturar as cores ao redor.
+
+Capítulo 5: DEVICE
+
+ Combine as regras aprendidas até então.
+
+ As instruções exibidas na tela deixam de ser necessariamente corretas.
+
+Exemplo:
+
+ A tela exibe
+
+SHAKE
+
+.
+
+ Porém, sacudir o aparelho causa uma falha.
+
+ A solução correta é mantê-lo completamente imóvel.
+
+ Em outro desafio,
+
+ aparece “MORE LIGHT”
+
+ na tela.
+
+ Aumentar o brilho da tela não produz reação.
+
+ A fase é concluída ao levar luz do mundo real para a câmera.
+
+ Na fase final,
+
+ combine vários elementos, como toque,
+ orientação do aparelho,
+ giroscópio,
+ vibração,
+ som
+ e entradas do mundo real,
+
+ em um grande quebra-cabeça.
+
+Fases representativas obrigatórias
+
+“Labirinto no escuro”
+
+ A tela fica quase completamente escura.
+
+ O jogador não consegue ver sua posição.
+
+ Inclina o smartphone para mover uma esfera invisível.
+
+ Quanto mais perto da saída, mais forte e mais rápida fica a vibração.
+
+ No fim, o jogador alcança o objetivo apenas pela sensação da vibração.
+
+ Nas configurações de acessibilidade, também deve ser possível ativar assistência sonora.
+
+“DON'T LOOK”
+
+ O DEVICE exibe na tela
+
+ “DON'T LOOK”
+
+.
+
+ O jogador vira o smartphone com a tela para baixo.
+
+ Quando Face Down é detectado, sons mecânicos vêm de dentro do DEVICE enquanto a tela permanece invisível.
+
+ Ao virá-lo novamente após alguns segundos, o DEVICE está transformado.
+
+“STEAL COLOR”
+
+ Há um núcleo de energia sem cor dentro do DEVICE.
+
+ O jogador usa a câmera para ler vermelho, azul, verde e outras cores do mundo real.
+
+ A cor capturada flui em tempo real para dentro do DEVICE como energia líquida.
+
+“STAY STILL”
+
+ O DEVICE está vibrando intensamente.
+
+ A primeira reação do jogador é querer sacudir o smartphone.
+
+ Porém, a solução correta é manter o aparelho completamente imóvel.
+
+ Quando a aceleração fica abaixo do limite por determinado tempo, o dispositivo se estabiliza e se abre.
+
+“POWER”
+
+ O DEVICE para completamente.
+
+ Nos aparelhos compatíveis, iniciar o carregamento do smartphone faz a eletricidade fluir para o DEVICE.
+
+ Os fios metálicos se acendem em sequência e o mecanismo interno é reiniciado.
+
+ Disponibilize também uma ação alternativa.
+
+Física dentro do DEVICE
+
+ Use a simulação física de forma ativa.
+
+ Inclua esferas metálicas,
+ líquidos,
+ gravidade,
+ ímãs,
+ engrenagens,
+ trilhos,
+ refletores,
+ lasers,
+ anéis giratórios,
+ cilindros,
+ pistões,
+ mecanismos de trava,
+ vidro,
+ eletrodos,
+ cabos
+
+ e outros elementos.
+
+ No entanto, não deixe o resultado “instável por depender da simulação física”.
+
+ Nos quebra-cabeças importantes, use física controlada e garanta resultados reproduzíveis.
+
+Efeitos
+
+ Ao resolver um quebra-cabeça, não mostre apenas a palavra “CLEAR”.
+
+ O próprio DEVICE deve se transformar para responder à solução.
+
+ Combine desbloqueio de travas,
+ rotação de engrenagens,
+ iluminação interna,
+ separação de painéis metálicos,
+ movimento de líquido dentro do vidro
+ e abertura de braços mecânicos,
+
+ entre outros efeitos.
+
+ No instante da solução,
+
+ crie uma cena que transmita a satisfação de “ter colocado em funcionamento um enorme mecanismo de precisão”
+
+.
+
+Som
+
+ O som é muito importante.
+
+ Não se limite a manter uma trilha sonora tocando.
+
+ Sobreponha o som do ar-condicionado da instalação,
+ máquinas distantes,
+ servos dentro do DEVICE,
+ cliques metálicos,
+ vidro,
+ eletricidade,
+ magnetismo,
+ baixas frequências
+ e vibrações,
+
+ entre outros elementos.
+
+ O som deve mudar conforme o local do DEVICE que o jogador toca.
+
+ Ao usar fones de ouvido, intensifique a percepção de posicionamento.
+
+Interface
+
+ Integre-a ao mundo do jogo tanto quanto possível.
+
+ Não enfileire botões com aparência de jogo mobile barato.
+
+Menu:
+
+CONTINUE
+CHAPTERS
+SETTINGS
+ACCESSIBILITY
+CREDITS
+
+ no mínimo.
+
+ Durante os quebra-cabeças, represente as dicas nos dispositivos de exibição internos do DEVICE ou como texto projetado.
+
+Sistema de dicas
+
+ Mesmo quando o jogador estiver travado, não mostre imediatamente a resposta.
+
+Dica 1:
+ onde prestar atenção.
+
+Dica 2:
+ qual função do smartphone usar.
+
+Dica 3:
+ quase a solução.
+
+ Organize-as nesses três níveis.
+
+Acessibilidade
+
+ Como o jogo usa muitos sensores, esse aspecto é especialmente importante.
+
+ Implemente o seguinte:
+
+ possibilidade de converter vibração em som ou exibição na tela;
+
+ assistência visual para quebra-cabeças sonoros;
+
+ assistência para percepção de cores em quebra-cabeças de cor;
+
+ não exigir movimentos fortes do aparelho;
+
+ eliminar a necessidade de sacudir o smartphone com força;
+
+ quebra-cabeças alternativos quando câmera, microfone ou bússola não estiverem disponíveis;
+
+ e garantir que a recusa de acesso a um sensor não impeça o progresso.
+
+Privacidade
+
+ Não envie imagens da câmera, áudio do microfone, informações de localização ou outros dados para servidores externos.
+
+ O GPS não deve ser obrigatório para avançar no jogo.
+
+ Explique o motivo e solicite cada permissão imediatamente antes de usá-la.
+
+ Não solicite permissões desnecessárias.
+
+Estrutura técnica
+
+ Se possível, use Unity 6 ou superior e C#.
+
+ Use URP para mobile.
+
+ Modularize o projeto.
+
+ Ele deve ter, no mínimo, a seguinte estrutura:
+
+ SensorManager
+ PuzzleManager
+ GameStateManager
+ AudioManager
+ HapticsManager
+ PermissionManager
+ SaveManager
+ AccessibilityManager
+ DeviceCapabilityManager
+
+ Não chame diretamente cada recurso do smartphone repetidas vezes a partir do código dos quebra-cabeças.
+
+ Abstraia-os por meio de sistemas como o SensorManager
+
+ e permita alternar entre sensores reais do aparelho,
+ entradas simuladas para o editor
+ e fallback para aparelhos incompatíveis.
+
+
+Depuração dos sensores
+
+ Implemente um
+
+Developer Sensor Panel
+
+ para permitir o desenvolvimento também no Unity Editor.
+
+ Por meio de controles deslizantes e botões,
+
+ permita simular inclinação do aparelho,
+ aceleração,
+ Face Up/Face Down,
+ volume do microfone,
+ luz ambiente,
+ bússola,
+ carregamento ligado/desligado,
+ bateria,
+ eventos de vibração
+ e cor predominante da câmera,
+
+ entre outras entradas.
+
+ Os principais quebra-cabeças devem ser testáveis sem conectar um aparelho real.
+
+Salvamento
+
+ Salve o progresso dos capítulos,
+ as fases concluídas,
+ o uso de dicas,
+ as configurações,
+ a acessibilidade
+ e os itens colecionáveis.
+
+
+ Permita interromper o jogo com segurança mesmo no meio de uma fase.
+
+Desempenho
+
+ Não sacrifique a jogabilidade em nome do fotorrealismo.
+
+ Tenha como meta uma configuração que rode em aparelhos Android intermediários representativos.
+
+LOD
+ Use Occlusion Culling,
+ GPU Instancing,
+ compressão de texturas,
+ bake de luz,
+ Reflection Probe,
+ iluminação em tempo real apenas onde necessário,
+ pool de objetos
+ e redução de Draw Calls,
+
+ entre outras técnicas.
+
+ Divida as configurações de qualidade em
+
+LOW
+MEDIUM
+HIGH
+ULTRA
+
+.
+
+ Em aparelhos de alto desempenho, a apresentação deve alcançar qualidade bastante elevada.
+
+Critérios de conclusão
+
+ Não crie apenas um protótipo.
+
+ O objetivo é oferecer uma experiência completa de jogo, com tela de título,
+ introdução,
+ tutorial,
+ vários capítulos,
+ várias fases,
+ entradas de sensores,
+ efeitos 3D,
+ som,
+ configurações,
+ acessibilidade,
+ salvamento,
+ seleção de fases
+ e encerramento.
+
+
+ Se possível, gere uma build real para Android.
+
+ Mesmo que as restrições do ambiente de build impeçam a geração de um APK/AAB,
+
+ deixe o projeto completo, pronto para ser aberto no Unity e compilado imediatamente.
+
+Diretrizes de decisão durante a produção
+
+ Não mude para 2D ou uma interface simplificada apenas porque seria mais fácil.
+
+ Não remova os sistemas centrais do jogo para “economizar tempo”.
+
+ Quando não houver recursos externos disponíveis, crie-os manualmente ou por geração procedural, na medida do possível.
+
+ Mesmo que sejam necessários placeholders, não deixe o jogo inteiro cheio deles.
+
+ Em especial,
+
+DEVICE
+ a instalação de pesquisa,
+ os principais dispositivos dos quebra-cabeças,
+ a iluminação,
+ os materiais
+ e os efeitos de solução
+
+ devem ser finalizados com alta qualidade.
+
+Fluxo de trabalho
+
+ Primeiro, defina toda a estrutura do projeto em pouco tempo.
+
+ Depois, pare de apenas explicar e passe à produção.
+
+1. Criar o projeto
+ 2. Criar a cena 3D básica
+ 3. Criar o DEVICE
+ 4. Implementar os controles básicos
+ 5. Abstrair os sensores
+ 6. Criar o framework de quebra-cabeças
+ 7. Implementar os quebra-cabeças representativos
+ 8. Construir os capítulos
+ 9. Criar a interface
+ 10. Implementar o som
+ 11. Criar os efeitos
+ 12. Implementar o salvamento
+ 13. Implementar a acessibilidade
+ 14. Otimizar
+ 15. Testar
+ 16. Corrigir
+ 17. Gerar a build
+
+, nessa ordem.
+
+ Mesmo que uma parte falhe, não interrompa todo o trabalho; use alternativas para maximizar a qualidade final.
+
+Entregáveis finais
+
+ Ao final, deixe os seguintes itens:
+
+ • projeto completo do jogo
+ • principais códigos-fonte
+ • cenas do jogo
+ • modelos 3D e materiais
+ • interface
+ • configurações de áudio
+ • sistema de sensores
+ • sistema de quebra-cabeças
+ • sistema de salvamento
+ • configurações de build
+ • README
+ • instruções para testes em um aparelho Android real
+ • lista dos recursos do smartphone utilizados
+ • especificação dos fallbacks para aparelhos incompatíveis
+ • lista de problemas conhecidos
+
+ É proibido encerrar apenas com explicações sem criar os entregáveis.
+
+A ordem de prioridade máxima é:
+
+1. Ser divertido
+ 2. Ser algo próprio de um smartphone
+ 3. Ter realismo no mundo 3D
+ 4. Transmitir a sensação de tocar no DEVICE
+ 5. Fazer sentido como quebra-cabeça
+ 6. Funcionar de verdade
+
+.
+
+ Não crie “um jogo mobile existente com recursos de sensor adicionados”.
+
+ Finalize uma obra que faça parecer que o hardware chamado smartphone existe para este jogo.
+
+ A partir daqui, não pare na explicação do conceito: comece a produção de verdade.
+
+ Além disso, incorpore cuidadosamente quaisquer melhorias ou elementos mais interessantes que possam aprimorar o conteúdo acima e produza o 3D com realismo.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098715488369152087) · [Publicação original](https://x.com/00Nekonet/status/2098715488369152087) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="2098739181510164652"></a>
 
 ### Jogo de voo Skybound para navegador
@@ -2369,6 +2987,26 @@ Crie um jogo de voo para navegador chamado Skybound usando Three.js. O jogador p
 ```
 
 [Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098739181510164652) · [Publicação original](https://x.com/Kanojiyaaakash1/status/2098739181510164652) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2098749876620415165"></a>
+
+### Crie um jogo de corrida 3D
+
+[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098749876620415165"><img src="../assets/previews/3f69cf45c6957d71b74c7a2423d21a5d09b5aa2fc3aedfebbaa52cbbaf2b1981.jpg" width="840" loading="lazy" alt="Crie um jogo de corrida 3D"></a>
+
+Um prompt reproduzido literalmente do primeiro teste descrito pelo autor original, solicitando um jogo de corrida 3D modelado, integrado e jogável, com visuais gerados.
+
+**Prompt**
+
+```text
+Crie um jogo de corrida 3D. Modele-o. Gere os visuais. Integre tudo.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098749876620415165) · [Publicação original](https://x.com/JulianGoldieSEO/status/2098749876620415165) · [Voltar aos exemplos](#all-prompts)
 
 ---
 
@@ -2409,6 +3047,54 @@ Baixe 2.000 fotografias históricas e informações de referência sobre a feira
 ```
 
 [Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098795017955418202) · [Publicação original](https://x.com/moreisdifferent/status/2098795017955418202) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2098831830002851846"></a>
+
+### Simulação de mesa de areia cinética
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098831830002851846"><img src="../assets/previews/e178ff73b0358cd937e45c3130f36c81129c54273c173166e3358c8d9c829b01.jpg" width="840" loading="lazy" alt="Simulação de mesa de areia cinética"></a>
+
+Prompt reutilizável fornecido pelo autor da publicação como o prompt aberto exato recebido pelo GPT-6 Astra e pelo Fable 5.1. Ele solicita uma simulação autônoma de mesa de areia cinética em um único arquivo HTML: uma esfera desenha padrões geométricos que não se repetem na areia e, em seguida, nivela a superfície antes de começar outro padrão.
+
+**Prompt**
+
+```text
+Crie uma simulação de mesa de areia cinética. Uma esfera deve se mover por uma camada de areia, deixando um rastro visível, desenhando padrões geométricos completos e, em seguida, nivelando a areia e iniciando automaticamente um padrão novo e diferente. Ela deve alternar entre muitos padrões diferentes sem repeti-los. Todas as escolhas visuais e dos padrões ficam a seu critério.
+
+Todas as decisões de design ficam a seu critério: estilo, cores, clima, ambiente, câmera, nível de detalhe e quaisquer outros toques adicionais. Não me faça perguntas; tome todas as decisões por conta própria e crie a versão mais impressionante possível em uma única tentativa.
+
+Requisitos técnicos: um único arquivo HTML autocontido, sem modelos, imagens, sons ou URLs de recursos externos de qualquer tipo (uma biblioteca JavaScript via CDN é permitida). A simulação deve começar a executar sozinha assim que for carregada, sem exigir cliques, e funcionar de maneira fluida, sem erros no console.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098831830002851846) · [Publicação original](https://x.com/free_ai_guides/status/2098831830002851846) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2098909584996057283"></a>
+
+### Animação 3D de origami que se dobra sozinha
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098909584996057283"><img src="../assets/previews/0cc6124463ff4763f52e30ffedab873b5e44d45017274f8f06188f3a7d110712.jpg" width="840" loading="lazy" alt="Animação 3D de origami que se dobra sozinha"></a>
+
+O autor afirma que este prompt aberto exato foi enviado ao GPT-6 Astra e ao Fable 5.1. Ele solicita uma animação 3D de origami autônoma, na qual uma folha quadrada cria vincos visíveis e gira durante uma sequência de dobras reconhecível, se desdobra e repete o processo.
+
+**Prompt**
+
+```text
+Crie uma animação 3D de origami. Uma folha quadrada plana deve se dobrar sozinha, passo a passo, até formar uma figura de origami reconhecível, com cada dobra mostrada como um vinco real e uma rotação do papel; depois, ela deve se desdobrar até ficar plana e repetir o processo. Você decide qual será a figura e como tudo será apresentado.
+
+Tudo no design fica a seu critério: estilo, cores, clima, ambiente, câmera, nível de detalhes e quaisquer toques extras. Não faça perguntas; tome todas as decisões por conta própria e crie a versão mais impressionante possível em uma única tentativa.
+
+Requisitos técnicos: um único arquivo HTML autocontido, sem modelos, imagens, sons ou URLs de assets externos de qualquer tipo (uma biblioteca JavaScript via CDN é permitida). Ele deve começar a ser executado automaticamente assim que carregar, sem precisar de cliques, funcionar com fluidez e não apresentar erros no console.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098909584996057283) · [Publicação original](https://x.com/free_ai_guides/status/2098909584996057283) · [Voltar aos exemplos](#all-prompts)
 
 ---
 
@@ -2484,24 +3170,6 @@ Prepare variantes de expressão de um personagem do Tripo no Blender antes de cr
 ```
 
 [Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [Publicação original](https://x.com/Dstudio_ai/status/2096525100518453342) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2096308567863079420"></a>
-
-### Cena de personagem inspirada em Warcraft no Unity
-
-[Lucca Cerf ➔ Pluma Finance](https://x.com/luccacerf) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420"><img src="../assets/previews/b6aa0b916788e64af33eff01ad8591efe62843e7ad986e9657eb5b31ce48b855.webp" width="840" loading="lazy" alt="Cena de personagem inspirada em Warcraft no Unity"></a>
-
-**Prompt**
-
-```text
-Crie uma cena de personagem inspirada em Warcraft com Astra, Tripo P2, Blender e Unity. Gere o personagem, prepare-o no Blender e monte uma cena jogável no Unity.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420) · [Publicação original](https://x.com/luccacerf/status/2096308567863079420) · [Voltar aos exemplos](#all-prompts)
 
 ---
 
@@ -2649,24 +3317,6 @@ Use a planta do último andar de uma casa para construir uma cena no Blender e r
 
 ---
 
-<a id="2096298425914450021"></a>
-
-### Terreiro do Paço de Lisboa no Blender
-
-[Gonçalo Canhoto 🇵🇹](https://x.com/goncalo_canhoto) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021"><img src="../assets/previews/1a02f9822127ff717210634691346b1137e87f5e721498e19a61a744e480a3be.webp" width="840" loading="lazy" alt="Terreiro do Paço de Lisboa no Blender"></a>
-
-**Prompt**
-
-```text
-Recrie o Terreiro do Paço de Lisboa como uma cena editável no Blender. Pesquise referências para orientar a arquitetura, os materiais e a iluminação da praça.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021) · [Publicação original](https://x.com/goncalo_canhoto/status/2096298425914450021) · [Voltar aos exemplos](#all-prompts)
-
----
-
 <a id="2096574297703637111"></a>
 
 ### Aventura de exploração The Quiet Crossing
@@ -2682,24 +3332,6 @@ Crie um jogo de exploração na neve em Three.js com um personagem do Blender, p
 ```
 
 [Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111) · [Publicação original](https://x.com/Motion_Viz/status/2096574297703637111) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2096263046918197609"></a>
-
-### Floresta procedural densa em Three.js
-
-[Leon Lin](https://x.com/LexnLin) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609"><img src="../assets/previews/f2a686fc1b131953cac41cec39c2492f871a7987eae5f2606755fddb83401adb.webp" width="840" loading="lazy" alt="Floresta procedural densa em Three.js"></a>
-
-**Prompt**
-
-```text
-Crie uma floresta detalhada em Three.js com milhares de árvores, grama densa e samambaias. Use shaders próprios e repetição eficiente de geometria para preservar os detalhes em toda a cena.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609) · [Publicação original](https://x.com/LexnLin/status/2096263046918197609) · [Voltar aos exemplos](#all-prompts)
 
 ---
 
@@ -3117,28 +3749,10 @@ Gere assets 3D otimizados com Tripo P2, monte-os no Blender e crie o rig e a ani
 
 ---
 
-<a id="2096269057544831175"></a>
-
-### Landing page abissal bioluminescente
-
-[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175"><img src="../assets/previews/15b86aef756eda74957965d57ff6104a61d7fcc04cad37581a49726ef5f363aa.webp" width="840" loading="lazy" alt="Landing page abissal bioluminescente"></a>
-
-**Prompt**
-
-```text
-Crie uma landing page de águas profundas com efeitos de água em Three.js, interface escura com aparência de vidro e movimentos vinculados à rolagem. Combine a atmosfera 3D com interações de site claras e responsivas.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175) · [Publicação original](https://x.com/himanshubuildss/status/2096269057544831175) · [Voltar aos exemplos](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 216 exemplos no site oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 222 exemplos no site oficial →</a></strong></p>
 <p><sub>Para manter a renderização do README do GitHub fluida, mostramos aqui apenas os 100 exemplos mais recentes.</sub></p>
 <br>
 </td></tr>

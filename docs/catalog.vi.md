@@ -26,7 +26,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**216 · Prompt Astra mới nhất**
+**222 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -45,10 +45,9 @@
 
 - [Máy gia tốc hạt 3D tương tác](#2097781208596029936) · GitHub
 - [Atlas 3D tương tác về đầu và não người](#2098105648106078541) · GitHub
+- [Atlas Chernobyl](#2098841316591346006) · GitHub
 - [Mosswing: Game 3D mobile chạm để vỗ cánh](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
 - [Lõi năng lượng hai vòng tương tác](#2096551010089263181) · GitHub
-- [Quảng trường Thống Nhất ở Cluj-Napoca bằng voxel](#2096262733259837681) · GitHub
-- [Dựng lại rồng chân thực có thể chỉnh sửa trong Blender](#2096335588727349434)
 - [Từ ý tưởng nhân vật đến mô hình 3D đã rig và phim hoạt hình](#2096342420543660277)
 - [Nhóm nhạc 3D có thể tương tác với hoạt ảnh đồng bộ âm thanh](#2096354461652488562)
 - [Tạo và kết xuất hố đen trong Blender](#2096391653669953761)
@@ -101,13 +100,17 @@
 - [Cảnh mô hình thu nhỏ 3D dạng lập thể của ngôi đền](#2098403061463224543)
 - [Mô hình bé gái chơi robot](#2098406473273663992)
 - [Hồ cá koi 3D tương tác](#2098492771170722032)
+- [Dựng mô hình cầu Brooklyn và thử nghiệm xe tăng đi qua từ cả hai hướng](#2098650336521064759)
 - [Video trình diễn dựng 3D “Thiền cảnh · Cổ tự”](#2098697876155076820)
+- [DEVICE: Game giải đố 3D chân thực sử dụng chính smartphone](#2098715488369152087)
 - [Trò chơi bay Skybound trên trình duyệt](#2098739181510164652)
+- [Tạo game đua xe 3D](#2098749876620415165)
 - [Khung ảnh in 3D dạng lắp ghép có khớp nối](#2098774359926297011)
 - [Tái dựng 3D Hội chợ Thế giới Chicago năm 1893](#2098795017955418202)
+- [Mô phỏng bàn cát động lực](#2098831830002851846)
+- [Hoạt ảnh origami 3D tự gấp](#2098909584996057283)
 - [Triển khai UV và bake lại 4K cho mô hình quần áo không có đầu](#2098980384260456813)
 - [Chuyển đổi biểu cảm nhân vật trong Blender](#2096525100518453342)
-- [Cảnh nhân vật lấy cảm hứng từ Warcraft trong Unity](#2096308567863079420)
 - [Bàn cờ shogi 3D có thể xoay](#2096579856133947507)
 - [Bản đồ tháo rời linh kiện máy tính để bàn](#2096578761877860502)
 - [Lên phương án bố trí phòng trẻ em kiêm nơi làm việc](#2096578684010508736)
@@ -116,9 +119,7 @@
 - [Lái Wright Flyer qua khu rừng Nhật Bản](#2096467585785286808)
 - [Dựng một ngôi nhà từ đầu trong Blender](#2096576154337734865)
 - [Từ mặt bằng tầng trên cùng đến bản xem trước Blender](#2096501340889374883)
-- [Quảng trường Terreiro do Paço tại Lisbon trong Blender](#2096298425914450021)
 - [Nhiệm vụ khám phá The Quiet Crossing](#2096574297703637111)
-- [Khu rừng rậm tạo bằng thuật toán trong Three.js](#2096263046918197609)
 - [Đầu máy hơi nước chạy qua miền quê](#2096577430274429157)
 - [Cảnh máy hát đĩa than trên bàn](#2096561346766877106)
 - [Vòng lặp đối chiến của trò chơi thẻ bài sưu tầm](#2096555856204644550)
@@ -142,7 +143,6 @@
 - [Từ logo 2D đến nhân vật chuyển động](#2096559197999501724)
 - [Trò chơi chú cua với cơ chế xoay quanh hành động](#2096337879173591171)
 - [Lắp ghép và tạo hoạt ảnh cho các mô hình 3D đã tạo](#2096481425050743048)
-- [Trang đích biển sâu với ánh sáng sinh học](#2096269057544831175)
 
 </details>
 
@@ -225,6 +225,37 @@ Kiểm thử tính toàn vẹn của hình học, quan hệ thành viên trong h
 
 ---
 
+<a id="2098841316591346006"></a>
+
+### Atlas Chernobyl
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098841316591346006"><img src="../assets/previews/c49b94fb45b6666b2db84239b17eb2d670e898d5b89d788b050e021bf38c6316.jpg" width="840" loading="lazy" alt="Atlas Chernobyl"></a>
+
+Một đề xuất có thể tái sử dụng từ tác giả bài đăng để xây dựng triển lãm tương tác bằng Three.js về khối nhà máy điện Chernobyl và lò phản ứng RBMK. Đề xuất này yêu cầu mô hình 3D khối nhà máy điện có thể tách rời từng phần, chế độ xem mạch hơi có hoạt ảnh và mặt cắt 3D lò phản ứng với các điều khiển chuyển động và kiểm tra. Tác giả trình bày đây là prompt để xây dựng một sản phẩm tương tự, không phải đầu vào gốc đã được xác nhận của triển lãm được liên kết.
+
+**Prompt**
+
+```text
+Xây dựng "Atlas Chernobyl", một triển lãm 3D tương tác cao cấp bằng Three.js.
+
+Nghiên cứu nhà máy điện Chernobyl và lò phản ứng RBMK còn nguyên trạng dựa trên các tài liệu công khai. Dựng mô hình các tòa nhà, ống khói dạng giàn, gian nhà tuabin, khối graphite, kênh nhiên liệu, lớp che chắn, tang tách hơi, máy bơm và đường ống.
+
+Tạo ba tab:
+— Khối nhà máy điện: mô hình chi tiết có thể tháo rời từng lớp bằng thao tác cuộn và thanh trượt.
+— Mạch hơi: sơ đồ có hoạt ảnh kết nối lò phản ứng, tuabin, bình ngưng và máy bơm.
+— Lò phản ứng chuyển động: mặt cắt 3D với nước và hơi chuyển động, máy móc quay cùng các nút điều khiển phát lại.
+
+Thêm các nút bật/tắt hiển thị độc lập cho từng hệ thống, điều chỉnh khoảng cách giữa các bộ phận, chế độ lưới, độ trong suốt, mặt cắt và nhãn ngắn. Đảm bảo mọi lớp đều dễ kiểm tra và camera có thể xoay tự do, kể cả khi mô hình đã được tháo rời hoàn toàn.
+
+Cung cấp mã nguồn và một tệp HTML độc lập. Kiểm thử tất cả điều khiển. Trình bày đây là một diễn giải phục vụ giáo dục, không phải bản sao kỹ thuật chính xác.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098841316591346006) · [Bài đăng gốc](https://x.com/k1rallik/status/2098841316591346006) · [Mã nguồn](https://github.com/bubblik525/Chernobyl_Atlas) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="mosswing-mobile-3d-tap-to-flap-game"></a>
 
 ### Mosswing: Game 3D mobile chạm để vỗ cánh
@@ -260,243 +291,6 @@ Dựng lõi năng lượng, hai vòng và đế kim loại trong Blender. Xuất
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [Bài đăng gốc](https://x.com/oneruofeng/status/2096551010089263181) · [Mã nguồn](https://github.com/wangruofeng/orbital-core-showcase) · [Bản demo](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096262733259837681"></a>
-
-### Quảng trường Thống Nhất ở Cluj-Napoca bằng voxel
-
-[Dan Manastireanu](https://x.com/danmana) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681"><img src="../assets/previews/6fbb5254f46d92a8688194420483c835fad03380a827128eb4d94e627d32f961.webp" width="840" loading="lazy" alt="Quảng trường Thống Nhất ở Cluj-Napoca bằng voxel"></a>
-
-**Prompt**
-
-```text
-Tạo thế giới voxel tương tác tái hiện Piața Unirii ở Cluj-Napoca. Chuyển bố cục đặc trưng và các địa danh của quảng trường thành mô hình thu nhỏ có thể khám phá.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681) · [Bài đăng gốc](https://x.com/danmana/status/2096262733259837681) · [Mã nguồn](https://github.com/danmana/piata-unirii) · [Bản demo](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096335588727349434"></a>
-
-### Dựng lại rồng chân thực có thể chỉnh sửa trong Blender
-
-[Sarang Borude](https://x.com/doomdave) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096335588727349434"><img src="../assets/previews/756d0d4859c6a3bec065b9594d7fed7544101b6f6b6fb1e331bbfee059e84738.jpg" width="840" loading="lazy" alt="Dựng lại rồng chân thực có thể chỉnh sửa trong Blender"></a>
-
-Prompt Blender nguyên văn để dựng lại một con rồng 3D chân thực, có thể chỉnh sửa hoàn toàn từ bảng tham chiếu được cung cấp, bao gồm giải phẫu được mô hình hóa, vật liệu, ánh sáng điện ảnh, các lượt render kiểm tra và chuyển động camera xoay quanh trong 10 giây.
-
-**Prompt**
-
-```text
-Tạo bản dựng lại 3D chân thực, có thể chỉnh sửa hoàn toàn của con rồng trong bảng tham chiếu đính kèm bằng Blender.
-
-Sử dụng mọi góc nhìn được cung cấp—gồm góc bên, trước, trên, sau, các góc đầu, cận cảnh đầu, cận cảnh mắt, chi tiết vảy và chi tiết cánh—để dựng một con rồng thống nhất, có giải phẫu đáng tin cậy.
-
-Bám sát tham chiếu tối đa, đặc biệt là:
-
-- Tỷ lệ tổng thể và đường bao cơ thể
-- Cổ dài, cơ bắp và đuôi thuôn dần
-- Bốn chân và hai cánh lớn như cánh dơi
-- Hình dáng đầu và hàm
-- Số lượng, hình dáng và vị trí sừng
-- Gai sống lưng dọc theo cổ, lưng và đuôi
-- Họa tiết vảy màu than đậm và nâu đất
-- Các lớp vảy giống giáp
-- Mắt màu hổ phách vàng với đồng tử dọc
-- Móng vuốt, răng và màng cánh
-- Vẻ ngoài cổ xưa, chân thực và đáng sợ
-
-Các khung tham chiếu có thể chứa một số điểm không nhất quán nhỏ. Hãy dung hòa chúng thành một sinh vật nền có cấu trúc vật lý thống nhất và đối xứng, đồng thời giữ nguyên nhận diện hình ảnh của con rồng. Dùng góc bên để xác định tỷ lệ tổng thể, góc trước để xác định bề rộng và tư thế, góc trên và sau cho cánh và đuôi, còn các ảnh cận cảnh cho đầu, mắt, vảy và vật liệu cánh.
-
-Dựng con rồng từ đầu bằng hình học Blender thực tế có thể chỉnh sửa. Không tải xuống hoặc nhập một mô hình rồng có sẵn. Không dùng billboard, phép chiếu 2D, hiệu ứng đánh lừa bằng bản đồ độ sâu hoặc video tạo sinh thay cho hình học.
-
-Sử dụng các script Python Blender dạng mô-đun (`bpy`) và tệp thực thi Blender ở chế độ nền/headless làm phương thức dựng chính. Giữ các script có thể tái tạo và lưu lại những phiên bản thành công của tệp `.blend`. Dùng computer use để mở và kiểm tra cảnh Blender khi cần quan sát trực quan. Không cài đặt hoặc phụ thuộc vào máy chủ Blender MCP.
-
-PHƯƠNG PHÁP DỰNG HÌNH
-
-Bắt đầu bằng blockout giải phẫu trước khi thêm chi tiết. Xác lập:
-
-- Hộp sọ, hàm và hốc mắt
-- Cổ, ngực, lồng ngực và xương chậu
-- Bốn chân có giải phẫu thuyết phục
-- Các ngón chân tách biệt và móng vuốt cong
-- Vai cánh nối liền với thân
-- Cánh tay cánh và các xương ngón có khớp
-- Màng cánh nối liền đúng cách
-- Đuôi dài nối tự nhiên từ xương chậu
-- Sừng chính và gai sống lưng
-
-Tránh các chi thừa, sừng bị nhân đôi, màng cánh rời, khớp gãy, vảy lơ lửng, hình học giao nhau, hình khối mỏng như giấy, tình trạng đối xứng sai lệch ngoài ý muốn và tỷ lệ giống đồ chơi.
-
-Sau khi kiểm tra blockout, hãy thêm chi tiết cấp hai và cấp ba:
-
-- Các lớp giáp ở ngực và cổ
-- Vảy định hướng theo cấu trúc giải phẫu
-- Gờ chân mày và mí mắt
-- Lỗ mũi thực
-- Khoang miệng, nướu và từng chiếc răng
-- Gờ sừng, vết mẻ và đầu sừng bị mài mòn
-- Giáp chân và các mảng giáp ở khớp ngón
-- Gân cánh, nếp gấp, mạch máu và sẹo tiết chế
-- Gai sống lưng kéo dài xuống đuôi
-- Độ bất đối xứng tự nhiên nhẹ
-
-Dùng hình học cho mọi chi tiết ảnh hưởng đến đường bao, gồm sừng, móng vuốt, răng, vảy lớn, gai sống lưng, ngón cánh và các nếp gấp quan trọng trên màng cánh. Chỉ dùng normal map, bump hoặc displacement tiết chế cho chi tiết siêu nhỏ.
-
-VẬT LIỆU
-
-Tạo vật liệu dựa trên vật lý, chân thực.
-
-Vảy chủ yếu có màu đen than, với biến thiên nhẹ giữa màu graphite và nâu đất. Thêm biến thiên tiết chế về màu sắc, độ nhám và normal siêu nhỏ. Vảy nhô, da lõm và các mảng giáp phải phản xạ ánh sáng khác nhau. Tránh độ bóng nhựa đồng nhất và nhiễu procedural tràn lan.
-
-Màng cánh phải trông như da bò sát đã phong hóa. Màng cần mỏng hơn giữa các xương nâng đỡ và dày hơn gần khớp cũng như mép trước. Thêm các mạch máu, nếp gấp, độ căng, sẹo, độ trong mờ và biến thiên màu sắc tinh tế, nhưng không để chúng giống vải, cao su hoặc giấy.
-
-Tạo sừng và móng vuốt giống keratin, với phần gốc tối màu, đầu nhạt hơn do mài mòn, các gờ chạy dọc và hư tổn nhẹ.
-
-Mắt cần có:
-
-- Mống mắt màu hổ phách vàng
-- Đồng tử đen dọc
-- Cấu trúc mống mắt chi tiết
-- Vùng viền mống mắt tối màu
-- Nhãn cầu ba chiều đúng nghĩa
-- Mí mắt chân thực
-- Điểm bắt sáng ướt trên giác mạc
-- Độ ẩm nhẹ dọc mép mí
-
-Không làm mắt phát sáng hoặc phát quang nhân tạo.
-
-ÁNH SÁNG VÀ MÔI TRƯỜNG
-
-Tạo môi trường điện ảnh tiết chế, tương tự tham chiếu:
-
-- Bệ đá hoặc mỏm núi đá tối màu
-- Núi ở xa trong bầu khí quyển
-- Bầu trời nhiều mây đầy kịch tính
-- Ánh sáng môi trường mát
-- Ánh sáng định hướng ấm hơn, nhẹ, làm nổi bật khuôn mặt và vảy
-- Sương mù khí quyển nhẹ
-- Không có công trình gây xao nhãng hoặc sinh vật bổ sung
-
-Đặt con rồng trong tư thế vững vàng, uy nghi:
-
-- Đầu ngẩng cao và cảnh giác
-- Cổ hơi cong
-- Cánh xòe hoàn toàn hoặc gần hoàn toàn
-- Trọng lượng phân bổ đáng tin cậy trên cả bốn chân
-- Đuôi đặt phía sau hoặc cong tự nhiên
-- Miệng khép hoặc hơi hé
-- Mắt hướng vào camera hoặc nhìn lệch qua camera một chút
-
-KIỂM TRA HÌNH ẢNH
-
-Tạo các camera kiểm tra có góc khớp với:
-
-- Góc bên
-- Góc trước
-- Góc trên
-- Góc sau
-- Biên dạng đầu trái và phải
-- Góc hero ba phần tư
-- Cận cảnh đầu
-- Cận cảnh mắt
-- Cận cảnh vảy
-- Cận cảnh cánh
-
-Thực hiện ít nhất ba vòng đánh giá và chỉnh sửa.
-
-Trong mỗi vòng:
-
-1. Render mọi camera kiểm tra.
-2. So sánh từng bản render với khung tham chiếu tương ứng.
-3. Đánh giá đường bao, giải phẫu, tỷ lệ, nhận diện đầu, sừng, cánh, chân, bàn chân, đuôi, hướng vảy, vật liệu, độ đối xứng, giao nhau, shading và normal.
-4. Lập danh sách sai lệch theo thứ tự ưu tiên.
-5. Sửa các vấn đề quan trọng nhất về mặt hình ảnh.
-6. Render lại bằng chính các camera đó.
-7. Lưu lại các so sánh trước và sau.
-
-Không được tuyên bố hoàn tất chỉ vì các object đã được tạo. Hoàn tất nghĩa là phải kiểm tra các bản render thực tế và sửa những vấn đề nhìn thấy được.
-
-CHUYỂN ĐỘNG CAMERA XOAY QUANH 10 GIÂY
-
-Tạo chuyển động camera điện ảnh xoay quanh con rồng hoàn thiện với các yêu cầu sau:
-
-- Chính xác 10 giây
-- Độ phân giải 1920 × 1080
-- 30 khung hình/giây
-- Chính xác 300 khung hình
-- Camera chuyển động liên tục, mượt mà
-- Không cắt cảnh
-- Khoảng một vòng quỹ đạo 360 độ hoàn chỉnh
-- Bắt đầu bằng bố cục góc trước ba phần tư mạnh mẽ
-- Di chuyển qua bên hông, phía sau và bên đối diện
-- Kết thúc ở bố cục nối mượt với khung hình mở đầu
-- Thêm thay đổi độ cao tiết chế để thấy phần lưng và cấu trúc cánh
-- Giữ toàn bộ con rồng trong khung hình
-- Giữ đầu và thân là trọng tâm thị giác chính
-- Dùng nội suy Bézier mượt
-- Tránh tăng tốc đột ngột và camera bị lăn
-- Tránh xuyên qua cánh, đuôi, địa hình hoặc cơ thể
-- Dùng ống kính phối cảnh tự nhiên, không gây méo góc rộng mạnh
-- Giữ độ sâu trường ảnh đủ nhẹ để vẫn nhìn rõ con rồng
-- Dùng motion blur tiết chế
-
-Trước khi render cuối, hãy tạo bản xem trước nhanh, số mẫu thấp ở 1080p cho toàn bộ animation. Kiểm tra toàn bộ bản xem trước và sửa lỗi khung hình, va chạm camera, đường bao vụng về, góc nhìn bị che, chuyển động đột ngột, lỗi shading và các giao nhau hình học nhìn thấy được.
-
-RENDER CUỐI
-
-Sau khi hoàn tất các vòng đánh giá và duyệt bản xem trước animation:
-
-- Render animation cuối ở 1920 × 1080.
-- Dùng Cycles với tăng tốc GPU khi có thể.
-- Render ở 30 fps với chính xác 300 khung hình.
-- Dùng lấy mẫu thích ứng và khử nhiễu.
-- Trước tiên render thành từng khung hình ảnh riêng để có thể tiếp tục nếu render bị gián đoạn.
-- Dùng PNG 16-bit hoặc OpenEXR cho các khung hình master.
-- Ghép các khung hình đã render thành video H.264 MP4 chất lượng cao.
-- Không dùng nội suy khung hình bằng AI.
-- Giữ lại từng khung hình riêng sau khi ghép video.
-
-TỆP BÀN GIAO
-
-Cung cấp:
-
-1. Tệp `.blend` cuối có thể chỉnh sửa
-2. Toàn bộ script `bpy` có thể tái tạo
-3. README kèm hướng dẫn dựng lại và render
-4. Báo cáo phân tích tham chiếu và các giả định
-5. So sánh tham chiếu theo các góc nhìn khớp nhau
-6. So sánh trước và sau các vòng đánh giá
-7. Các bản render tĩnh chất lượng cao của toàn bộ con rồng và những chi tiết quan trọng
-8. Chuỗi 300 khung hình ảnh hoàn chỉnh
-9. Video H.264 1080p dài 10 giây
-10. Báo cáo kiểm tra hình học và vật liệu
-11. Manifest xác định mọi tài nguyên môi trường bên ngoài được phép sử dụng và giấy phép của chúng
-
-TIÊU CHÍ THÀNH CÔNG
-
-Thành công nghĩa là:
-
-- Kết quả được nhận ra là cùng một con rồng với tham chiếu.
-- Giải phẫu vẫn nhất quán từ mọi góc nhìn.
-- Đầu, sừng, mắt hổ phách, cánh, gai sống lưng và các lớp vảy tối màu khớp sát tham chiếu.
-- Con rồng hoàn toàn ba chiều và có thể chỉnh sửa.
-- Các chi tiết lớn và trung bình được mô hình hóa thay vì giả lập.
-- Vật liệu phản ứng tự nhiên khi camera di chuyển.
-- Không có giao nhau rõ rệt, vảy lơ lửng, chi tiết giải phẫu bị nhân đôi hoặc normal bị lỗi.
-- Hình ảnh giống một sinh vật vật lý được chụp lại hơn là đồ chơi, tác phẩm điêu khắc, mô hình procedural chung chung hoặc asset game thông thường.
-- Chuyển động camera mượt, mang tính điện ảnh và dài chính xác 10 giây.
-
-Tự chủ thực hiện các giai đoạn này. Bắt đầu bằng phân tích tham chiếu và blockout giải phẫu. Nếu gặp một điểm mơ hồ lớn không thể giải quyết từ tham chiếu, hãy chọn phương án hợp lý nhất về mặt giải phẫu, ghi lại giả định đó và tiếp tục.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096335588727349434) · [Bài đăng gốc](https://x.com/doomdave/status/2096335588727349434) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -2326,6 +2120,26 @@ Cung cấp một website hoàn chỉnh, hoạt động ổn định, có hình �
 
 ---
 
+<a id="2098650336521064759"></a>
+
+### Dựng mô hình cầu Brooklyn và thử nghiệm xe tăng đi qua từ cả hai hướng
+
+[Sahil Verma](https://x.com/sahilvermaai) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098650336521064759"><img src="../assets/previews/93cbaf0c49da1dba0e914e583c1232163708ba8def2558de4037076085fb9995.jpg" width="840" loading="lazy" alt="Dựng mô hình cầu Brooklyn và thử nghiệm xe tăng đi qua từ cả hai hướng"></a>
+
+Yêu cầu về CAD và tải trọng kết cấu được trích nguyên văn từ bài đăng liên kết của higgsfield\_ai. Yêu cầu GPT-6 Astra dựng lại cầu Brooklyn trong AutoCAD và đánh giá kịch bản xe tăng đi qua từ cả hai hướng.
+
+**Prompt**
+
+```text
+Dựng mô hình cầu Brooklyn và thử nghiệm xe tăng đi qua từ cả hai hướng.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098650336521064759) · [Bài đăng gốc](https://x.com/sahilvermaai/status/2098650336521064759) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="2098697876155076820"></a>
 
 ### Video trình diễn dựng 3D “Thiền cảnh · Cổ tự”
@@ -2368,6 +2182,814 @@ Hãy dùng Three.js để tạo cảnh và hoạt ảnh, kết xuất từng khu
 
 ---
 
+<a id="2098715488369152087"></a>
+
+### DEVICE: Game giải đố 3D chân thực sử dụng chính smartphone
+
+[ひまねこ](https://x.com/00Nekonet) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098715488369152087"><img src="../assets/previews/2300a6320af3fc2a12e4d96b98007446f779ddb64f891a54e2118c9b86ab9f81.jpg" width="840" loading="lazy" alt="DEVICE: Game giải đố 3D chân thực sử dụng chính smartphone"></a>
+
+Bộ hướng dẫn toàn diện để制作 một game phiêu lưu giải đố 3D chân thực cho Android màn hình dọc bằng Unity, trong đó người chơi khám phá thiết bị hình lập phương màu đen “DEVICE”. Bên cạnh thao tác chạm, game tích hợp độ nghiêng, xoay, úp máy, gia tốc kế, camera, microphone, rung, loa, độ sáng, la bàn và trạng thái sạc của thiết bị thành các đầu vào giải đố trong cùng một thế giới game. Bài viết ở liên kết đăng toàn văn bộ hướng dẫn này sau khi nhập vào ChatGPT Work, đồng thời giới thiệu bản thử nghiệm “DEVICE” gồm 25 màn chơi và APK Android.
+
+**Prompt**
+
+```text
+Hãy đồng thời đảm nhiệm vai trò giám đốc game, nhà thiết kế game, kỹ sư Unity, họa sĩ 3D, nhà thiết kế UI/UX, technical artist, nhà thiết kế âm thanh và phụ trách QA cho dự án này.
+
+Dựa trên các thông số kỹ thuật dưới đây, hãy tạo một game phiêu lưu giải đố 3D chất lượng cao, hoàn thiện và thực sự có thể chơi trên smartphone—not chỉ dừng ở phần ý tưởng.
+
+Đừng chỉ đưa ra các ý tưởng rồi kết thúc giữa chừng.
+Đừng chỉ tạo tài liệu đặc tả rồi kết thúc.
+Trong phạm vi có thể, hãy tạo đầy đủ project, mã nguồn, scene, UI, vật liệu, logic game, hệ thống điều khiển âm thanh, xử lý cảm biến, hệ thống lưu game và cả các bài kiểm thử thực tế.
+
+Nếu có điểm chưa rõ, trừ khi tồn tại mâu thuẫn nghiêm trọng, đừng đặt câu hỏi mà hãy tự đưa ra lựa chọn phù hợp nhất để game hấp dẫn và đạt chất lượng cao, rồi tiếp tục triển khai.
+
+Tổng quan dự án
+
+Tên tạm thời:
+
+DEVICE
+
+Thể loại:
+
+Game phiêu lưu giải đố 3D chân thực, tương tác trực tiếp với smartphone
+
+Nền tảng:
+
+Ưu tiên Android.
+Thiết kế cấu trúc sao cho có thể hỗ trợ iOS trong phạm vi khả thi.
+
+Màn hình:
+
+Màn hình dọc 9:16
+
+Điều khiển:
+
+Về cơ bản, game có thể chơi bằng một tay.
+Tuy nhiên, một số câu đố yêu cầu thao tác vật lý với chính smartphone, chẳng hạn như nhấc lên, nghiêng, xoay, úp xuống, lắc hoặc giữ yên thiết bị.
+
+Điểm đặc trưng lớn nhất của game
+
+Đây không phải là một “game chơi trên điện thoại”.
+
+Hãy biến chính chiếc điện thoại thông minh thành một thiết bị giải đố.
+
+Không thể hoàn thành game chỉ bằng cách chạm vào màn hình.
+
+Sử dụng các cảm biến, camera, micro, rung, loa, hướng của thiết bị, trạng thái sạc và những tính năng khác có sẵn trên điện thoại thông minh như các quy luật vật lý trong thế giới game.
+
+Tuy nhiên, không biến game thành một tập hợp trình diễn cảm biến đơn thuần.
+
+Thiết kế để mọi tính năng kết nối tự nhiên trong cùng một thế giới quan và một hệ thống game thống nhất.
+
+Thế giới quan
+
+Người chơi phát hiện một thiết bị hình lập phương màu đen bí ẩn mang tên “DEVICE” trong một cơ sở nghiên cứu không rõ danh tính.
+
+Khối lập phương kết nối với điện thoại thông minh và cảm nhận trạng thái của chiếc điện thoại trong thế giới thực.
+
+Khi người chơi nghiêng điện thoại thông minh, trọng lực bên trong DEVICE sẽ thay đổi.
+
+Khi xoay thiết bị, toàn bộ không gian cũng xoay theo.
+
+Ánh sáng, màu sắc, âm thanh, phương hướng và chuyển động trong thế giới thực tràn vào bên trong DEVICE.
+
+Ở giai đoạn đầu, DEVICE có vẻ chỉ là một thiết bị thí nghiệm, nhưng càng tiến triển, phía DEVICE càng bắt đầu nhận thức được sự tồn tại của người chơi.
+
+Về cuối game,
+
+“người chơi đang điều khiển điện thoại thông minh”
+
+Hãy đưa vào một meta-puzzle tận dụng chính mối quan hệ này.
+
+Không biến tác phẩm thành game kinh dị.
+Có thể giữ lại cảm giác rờn rợn, công nghệ chưa được biết đến và sự thần bí, nhưng trọng tâm phải là trí tò mò cùng niềm vui khám phá.
+
+Chất lượng hình ảnh
+
+Hạng mục quan trọng nhất.
+
+Tạo hình ảnh 3D chân thực nhất có thể trên smartphone.
+
+Cấm sử dụng hình ảnh CG rẻ tiền kiểu game mobile.
+
+Cấm phong cách hoạt hình.
+
+Cấm cảm giác low-poly.
+
+Ngoài UI, hạn chế tối đa việc để lại các tài sản tạm dạng phẳng.
+
+Khi sử dụng Unity, lấy URP được tối ưu cho hiệu năng di động làm nền tảng,
+
+・Vật liệu PBR
+・Biểu diễn Metallic / Roughness
+・Normal Map
+・Ambient Occlusion
+・Reflection Probe
+・Light Probe
+・Bóng đổ chất lượng cao
+・Bóng đổ mềm
+・Bloom
+・Color Grading
+・Hiệu ứng Screen Space
+・Ánh sáng có cảm giác thể tích
+・Chỉ sử dụng Depth of Field ở những vị trí cần thiết
+・Kính dựa trên vật lý
+・Kim loại
+・Sàn ướt
+・Vết xước
+・Dấu vân tay
+・Bụi
+・Các gờ lồi lõm siêu nhỏ trên bề mặt
+・Vật liệu phát sáng
+・Độ phản xạ
+・Âm thanh môi trường
+
+và kết hợp chúng.
+
+Bối cảnh là một cơ sở nghiên cứu tương lai tối tăm nhưng sang trọng.
+
+Tập trung vào kim loại đen, kính, bê tông, các đường phát sáng màu trắng, máy móc chính xác, linh kiện thủy lực và những vật liệu tương tự.
+
+Không để bối cảnh chìm trong bóng tối hoàn toàn; hãy đảm bảo các vật thể quan trọng vẫn được nhận diện nhờ ánh sáng tự nhiên.
+
+Vì DEVICE là biểu tượng của trò chơi, hãy tạo thiết bị này với chất lượng cực kỳ cao.
+
+Thiết bị DEVICE:
+
+Một khối lập phương kích thước khoảng 20–30 cm, cấu thành từ kim loại đen và kính.
+
+Mỗi mặt có một cấu trúc máy móc khác nhau.
+
+Các mối nối cực kỳ tinh xảo.
+
+Một lượng nhỏ ánh sáng trắng hoặc trắng xanh rò rỉ ra từ bên trong.
+
+Cấu trúc bên trong biến dạng, xoay và mở ra một cách chân thực khi người chơi thao tác.
+
+Tạo chuyển động cơ học có cảm giác bấm nảy rõ ràng.
+
+Màn hình chơi cơ bản
+
+DEVICE nằm ở chính giữa màn hình dọc.
+
+Người chơi kéo DEVICE để xoay và kiểm tra từng mặt.
+
+Xung quanh là một cơ sở nghiên cứu.
+
+Góc quay mang tính điện ảnh nhưng không làm ảnh hưởng đến khả năng điều khiển.
+
+Giao diện cơ bản được tối giản.
+
+Không hiển thị hàng loạt nút liên tục.
+
+Ưu tiên cảm giác đang chạm và thao tác trực tiếp trên chính DEVICE.
+
+Hệ thống cốt lõi
+
+Tích hợp các thao tác dưới đây thành hệ thống đầu vào trong cùng một thế giới game, không tách chúng thành những minigame độc lập.
+
+1. Cảm ứng
+
+Chạm
+Chạm hai lần
+Nhấn giữ
+Kéo
+Vuốt
+Chụm hai ngón tay
+Hai ngón tay
+Ba ngón tay
+Chạm đồng thời ở nhiều vị trí
+
+để có thể sử dụng.
+
+Trực tiếp chạm và thao tác với các nút, cần gạt, vòng xoay, núm vặn và các bộ phận tương tự trên DEVICE.
+
+2. Con quay hồi chuyển
+
+Liên kết độ nghiêng của điện thoại với trọng lực bên trong DEVICE.
+
+Ví dụ:
+
+Chỉ bằng cách nghiêng thiết bị, đưa viên bi kim loại bên trong đến đích.
+
+Nghiêng chất lỏng để chất lỏng tiếp xúc với điện cực.
+
+Điều chỉnh góc của tia sáng.
+
+3. Cảm biến gia tốc
+
+Lắc thiết bị.
+
+Dừng đột ngột.
+
+Phát hiện chuyển động giống như gõ nhẹ.
+
+Tuy nhiên, không yêu cầu người chơi lắc thiết bị quá mạnh.
+
+Có tính đến yếu tố an toàn.
+
+4. Hướng thiết bị
+
+Dọc
+Ngang
+Ngửa mặt
+Úp mặt
+
+v.v. vào trò chơi.
+
+Tạo các sự kiện chỉ xảy ra khi người chơi úp điện thoại xuống bàn.
+
+5. Camera
+
+Đưa màu sắc của thế giới thực vào trò chơi.
+
+Khi người chơi dùng camera để quay các vật thể màu đỏ, xanh dương, xanh lá câyなど, phân tích màu đại diện ở khu vực xung quanh trung tâm màn hình và truyền màu đó đến DEVICE dưới dạng năng lượng.
+
+Không gửi hình ảnh lên máy chủ.
+
+Ưu tiên xử lý trực tiếp trên thiết bị trong khả năng tối đa.
+
+Chuẩn bị thao tác thay thế trong trường hợp không thể sử dụng camera.
+
+6. Microphone
+
+Âm lượng
+Thời lượng
+Đặc tính tần số cơ bản
+
+v.v.
+
+Ví dụ:
+
+Thổi hơi
+Phát ra tiếng
+Vỗ tay
+Giữ yên lặng trong một khoảng thời gian nhất định
+
+v.v.
+
+Không bắt buộc phải sử dụng nhận dạng giọng nói.
+
+Không lưu dữ liệu ghi âm.
+
+7. Phản hồi xúc giác / Rung
+
+Cực kỳ quan trọng.
+
+Tạo các màn chơi truyền đạt thông tin không hiển thị trên màn hình chỉ bằng rung.
+
+Ví dụ:
+
+Khoảng cách giữa các lần rung ngắn dần khi tiến gần mục tiêu.
+
+Các mẫu rung khác nhau ở bên trái và bên phải.
+
+Mật mã bằng các nhịp rung ngắn và dài.
+
+Chuẩn bị cách hiển thị thay thế cho thiết bị đã tắt rung.
+
+8. Loa
+
+Tận dụng cảm nhận phương hướng của âm thanh trong không gian 3D.
+
+Không bắt buộc phải dùng tai nghe.
+
+Sử dụng cao độ, chu kỳ, định vị trái phải và các yếu tố tương tự làm thông tin giải đố.
+
+9. Độ sáng
+
+Nếu có thể, sử dụng cảm biến ánh sáng môi trường.
+
+Với thiết bị không hỗ trợ, cân nhắc phương án thay thế dựa trên độ sáng của camera hoặc các chỉ số tương tự.
+
+Cơ chế chỉ xuất hiện khi đưa thiết bị vào nơi tối.
+
+Cơ chế sạc pin khi đưa thiết bị vào nơi sáng.
+
+10. La bàn
+
+Lấy hướng trên các thiết bị được hỗ trợ.
+
+Tạo các câu đố yêu cầu người chơi hướng điện thoại về phía bắc, phía nam hoặc một hướng cụ thể.
+
+Nếu thiết bị không có cảm biến, hãy chuyển sang câu đố thay thế.
+
+11. Trạng thái sạc
+
+Nếu có thể nhận biết thời điểm thiết bị bắt đầu sạc,
+
+Thêm hiệu ứng cho thấy điện được truyền vào DEVICE khi người chơi thực sự cắm cáp sạc.
+
+Tuy nhiên, luôn phải có cách hoàn thành thay thế cho những người dùng không thể thực hiện thao tác này.
+
+12. Pin
+
+Nếu có thể lấy mức pin, hãy sử dụng thông tin này cho các sự kiện đặc biệt.
+
+Không được thiết kế để người chơi không thể hoàn thành do mức pin.
+
+13. Thời gian
+
+Có thể sử dụng thời gian hiện tại cho các câu đố hoặc hiệu ứng đặc biệt.
+
+Không được thiết kế để chỉ có thể hoàn thành vào một thời điểm cụ thể.
+
+Không bắt người chơi phải chờ.
+
+Thiết kế câu đố
+
+Thay vì ngay từ đầu sản xuất hàng loạt 100 câu đố sơ sài,
+
+trước tiên hãy tạo khoảng 20–30 màn chơi có độ hoàn thiện cực cao.
+
+Mỗi màn phải mang đến một phát hiện khác nhau.
+
+Cấm các màn lặp lại cùng một thao tác chỉ bằng cách thay đổi con số.
+
+Chương 1: TOUCH
+
+Giúp người chơi hiểu luật chơi thông qua các thao tác chạm là chính.
+
+Chạm vào DEVICE.
+Xoay.
+Nhấn.
+Kéo.
+Mở.
+
+Chương 2: GRAVITY
+
+Tích hợp con quay hồi chuyển và gia tốc kế.
+
+Thế giới vật lý bên trong DEVICE đồng bộ với tư thế của điện thoại thông minh ngoài đời thực.
+
+Chương 3: SENSE
+
+Camera
+Micrô
+Ánh sáng
+Âm thanh
+Rung
+
+được tích hợp.
+
+Chương 4: OUTSIDE
+
+Câu đố yêu cầu người chơi chú ý đến bên ngoài màn hình.
+
+Úp điện thoại xuống.
+Giữ yên.
+Căn chỉnh hướng.
+Thu thập màu sắc xung quanh.
+
+Chương 5: DEVICE
+
+Kết hợp các quy tắc đã học cho đến lúc này.
+
+Các chỉ dẫn hiển thị trên màn hình không phải lúc nào cũng đúng.
+
+Ví dụ:
+
+Trên màn hình
+
+SHAKE
+
+được hiển thị.
+
+Tuy nhiên, lắc thiết bị sẽ khiến bạn thất bại.
+
+Đáp án là giữ thiết bị hoàn toàn đứng yên.
+
+Trong một câu đố khác,
+
+MORE LIGHT
+
+được hiển thị.
+
+Tăng độ sáng màn hình cũng không có tác dụng.
+
+Đưa ánh sáng từ thế giới thực vào camera để hoàn thành.
+
+Ở màn chơi cuối,
+
+Chạm
+Hướng thiết bị
+Con quay hồi chuyển
+Rung
+Âm thanh
+Tín hiệu đầu vào từ thế giới thực
+
+để tạo thành một câu đố lớn kết hợp nhiều yếu tố như vậy.
+
+Các màn chơi tiêu biểu bắt buộc phải triển khai
+
+“MÊ CUNG TRONG BÓNG TỐI”
+
+Màn hình gần như tối hoàn toàn.
+
+Người chơi không thể nhìn thấy vị trí của mình.
+
+Nghiêng điện thoại thông minh để di chuyển một quả cầu vô hình.
+
+Càng đến gần lối ra, rung càng mạnh và nhanh hơn.
+
+Cuối cùng, người chơi hoàn thành màn chơi chỉ bằng cảm nhận rung.
+
+Trong phần cài đặt hỗ trợ tiếp cận, có thể bật thêm tính năng hỗ trợ bằng âm thanh.
+
+“DON'T LOOK”
+
+DEVICE xuất hiện trên màn hình,
+
+DON'T LOOK
+
+được hiển thị.
+
+Người chơi úp điện thoại xuống.
+
+Khi phát hiện Face Down, âm thanh cơ khí phát ra từ bên trong DEVICE trong lúc người chơi không thể nhìn thấy.
+
+Sau vài giây, khi lật điện thoại lên, DEVICE đã biến hình.
+
+“STEAL COLOR”
+
+Bên trong DEVICE có một lõi năng lượng không màu.
+
+Dùng camera để quét các màu trong thế giới thực như đỏ, xanh dương và xanh lá.
+
+Màu đã quét sẽ chảy vào bên trong DEVICE dưới dạng năng lượng lỏng theo thời gian thực.
+
+「GIỮ YÊN」
+
+DEVICE đang rung dữ dội.
+
+Ban đầu, người chơi sẽ muốn lắc điện thoại.
+
+Nhưng đáp án đúng là giữ thiết bị hoàn toàn đứng yên.
+
+Khi gia tốc duy trì dưới ngưỡng trong một khoảng thời gian nhất định, thiết bị sẽ ổn định và mở ra.
+
+「NĂNG LƯỢNG」
+
+DEVICE dừng hoàn toàn.
+
+Trên các thiết bị được hỗ trợ, khi bắt đầu sạc điện thoại, dòng điện sẽ truyền vào DEVICE.
+
+Các dây dẫn kim loại lần lượt phát sáng, rồi cơ cấu bên trong khởi động lại.
+
+Cũng cần chuẩn bị thao tác thay thế.
+
+Mô phỏng vật lý bên trong DEVICE
+
+Tích cực sử dụng mô phỏng vật lý.
+
+Bi kim loại
+Chất lỏng
+Trọng lực
+Nam châm
+Bánh răng
+Ray
+Tấm phản xạ
+Tia laser
+Vòng xoay
+Xi lanh
+Piston
+Cơ chế khóa
+Kính
+Điện cực
+Cáp
+
+v.v.
+
+Tuy nhiên, không để hệ thống trở nên thiếu ổn định vì phó mặc mọi thứ cho mô phỏng vật lý.
+
+Đối với các câu đố quan trọng, hãy sử dụng mô phỏng vật lý được kiểm soát để đảm bảo tính tái lập.
+
+Hiệu ứng trình diễn
+
+Khi giải đúng câu đố, không chỉ hiển thị dòng chữ “CLEAR” đơn giản.
+
+Bản thân DEVICE sẽ biến dạng để phản hồi kết quả.
+
+Mở khóa
+Bánh răng xoay
+Phát sáng bên trong
+Tách các tấm kim loại
+Chất lỏng di chuyển bên trong kính
+Triển khai cánh tay máy
+
+kết hợp các yếu tố này.
+
+Ngay khi giải đúng,
+
+“cảm giác như chính mình đã vận hành một cỗ máy chính xác khổng lồ”
+
+Tạo hiệu ứng mang lại cảm giác thỏa mãn đó.
+
+Âm thanh
+
+Cực kỳ quan trọng.
+
+Không chỉ phát BGM liên tục.
+
+tiếng điều hòa của cơ sở nghiên cứu
+tiếng máy móc vọng lại từ xa
+tiếng servo bên trong DEVICE
+tiếng kim loại lách cách
+tiếng kính
+tiếng điện
+tiếng từ trường
+âm tần số thấp
+độ rung
+
+Phân lớp các âm thanh này.
+
+Âm thanh sẽ thay đổi tùy vào vị trí chạm trên DEVICE.
+
+Khi dùng tai nghe, tăng cường cảm giác định vị âm thanh.
+
+UI
+
+Tích hợp tối đa vào thế giới game.
+
+Không xếp hàng loạt nút mang phong cách game mobile giá rẻ.
+
+Menu:
+
+CONTINUE
+CHAPTERS
+SETTINGS
+ACCESSIBILITY
+CREDITS
+
+mức độ.
+
+Thể hiện gợi ý trong lúc giải đố qua các thiết bị hiển thị bên trong DEVICE hoặc chữ được chiếu.
+
+Hệ thống gợi ý
+
+Không hiển thị ngay đáp án khi người chơi bị mắc kẹt.
+
+Gợi ý 1:
+Vị trí cần chú ý.
+
+Gợi ý 2:
+Tính năng của điện thoại cần sử dụng.
+
+Gợi ý 3:
+Gần như là lời giải.
+
+gồm 3 cấp độ.
+
+Khả năng tiếp cận
+
+Đặc biệt quan trọng vì trò chơi sử dụng nhiều tính năng cảm biến.
+
+Triển khai các nội dung sau.
+
+Cho phép chuyển rung thành âm thanh hoặc hiển thị trên màn hình.
+
+Bổ sung hỗ trợ trực quan cho các câu đố âm thanh.
+
+Bổ sung hỗ trợ cho người khiếm thị màu trong các câu đố màu sắc.
+
+Không yêu cầu thao tác mạnh với thiết bị.
+
+Loại bỏ yêu cầu phải lắc điện thoại thông minh mạnh.
+
+Cung cấp câu đố thay thế khi không thể sử dụng camera, micrô hoặc la bàn.
+
+Không để trò chơi bị kẹt tiến trình ngay cả khi quyền truy cập một số cảm biến bị từ chối.
+
+Quyền riêng tư
+
+Không gửi hình ảnh từ camera, âm thanh từ micrô, thông tin vị trí và các dữ liệu tương tự đến máy chủ bên ngoài.
+
+Không bắt buộc GPS để tiếp tục tiến trình trò chơi.
+
+Giải thích lý do và yêu cầu các quyền cần thiết ngay trước khi sử dụng.
+
+Không yêu cầu các quyền không cần thiết.
+
+Cấu trúc kỹ thuật
+
+Nếu có thể, sử dụng Unity 6 và C#.
+
+URP dành cho thiết bị di động.
+
+Mô-đun hóa dự án.
+
+Tối thiểu, xây dựng cấu trúc gồm các thành phần sau.
+
+SensorManager
+PuzzleManager
+GameStateManager
+AudioManager
+HapticsManager
+PermissionManager
+SaveManager
+AccessibilityManager
+DeviceCapabilityManager
+
+Không gọi trực tiếp liên tục từng chức năng của điện thoại thông minh từ mã Puzzle.
+
+Trừu tượng hóa thông qua SensorManager và các lớp tương tự,
+
+cảm biến trên thiết bị thật
+đầu vào giả lập dành cho trình chỉnh sửa
+cơ chế dự phòng cho các thiết bị không được hỗ trợ
+
+cho phép chuyển đổi giữa các chế độ này.
+
+Gỡ lỗi cảm biến
+
+để có thể phát triển ngay cả trong Unity Editor,
+
+Developer Sensor Panel
+
+Triển khai.
+
+Bằng thanh trượt và nút bấm,
+
+Độ nghiêng thiết bị
+Gia tốc
+Ngửa / úp
+Âm lượng micro
+Ánh sáng môi trường
+La bàn
+Bật/tắt sạc
+Pin
+Sự kiện rung
+Màu đại diện từ camera
+
+Cho phép mô phỏng các đầu vào như...
+
+Cho phép kiểm thử các câu đố chính mà không cần kết nối thiết bị thật.
+
+Lưu
+
+Tiến trình chương
+Màn chơi đã hoàn thành
+Trạng thái sử dụng gợi ý
+Cài đặt
+Trợ năng
+Vật phẩm sưu tầm
+
+Lưu lại.
+
+Cho phép tạm dừng an toàn ngay cả giữa màn chơi.
+
+Hiệu năng
+
+Không để đồ họa chân thực đến mức game không thể vận hành.
+
+Đặt mục tiêu cấu hình có thể chơi được trên các thiết bị Android tầm trung phổ biến.
+
+LOD
+Occlusion Culling
+GPU Instancing
+Nén texture
+Baking ánh sáng
+Reflection Probe
+Đèn thời gian thực chỉ trong phạm vi cần thiết
+Object Pool
+Giảm Draw Call
+
+và các kỹ thuật tương tự.
+
+cài đặt Quality thành
+
+LOW
+MEDIUM
+HIGH
+ULTRA
+
+chia thành.
+
+Đảm bảo chất lượng hiển thị ở mức rất cao trên các thiết bị hiệu năng cao.
+
+Điều kiện hoàn thành
+
+Không chỉ là một prototype,
+
+Màn hình tiêu đề
+Phần mở đầu
+Hướng dẫn
+Nhiều chương
+Nhiều màn chơi
+Tương tác từ cảm biến
+Hiệu ứng 3D
+Âm thanh
+Cài đặt
+Khả năng tiếp cận
+Lưu game
+Chọn màn chơi
+Phần kết
+
+đến phần kết, hướng tới trạng thái có thể trải nghiệm trọn vẹn như một trò chơi.
+
+Nếu có thể, hãy tạo bản build Android thực tế.
+
+Ngay cả khi không thể tạo APK/AAB do hạn chế của môi trường build,
+
+vẫn hoàn thiện dự án ở trạng thái đầy đủ để có thể mở bằng Unity và build ngay.
+
+Định hướng khi đưa ra quyết định trong quá trình phát triển
+
+Không chuyển sang 2D hoặc giao diện đơn giản chỉ vì cách đó dễ hơn.
+
+Không lược bỏ các cơ chế cốt lõi của game để «tiết kiệm thời gian».
+
+Với những phần không thể chuẩn bị bằng tài nguyên bên ngoài, hãy tự tạo hoặc tạo bằng quy trình thủ tục trong phạm vi tối đa có thể.
+
+Ngay cả khi cần dùng vật thể tạm, cũng không biến toàn bộ game thành một tập hợp vật thể tạm.
+
+Đặc biệt,
+
+DEVICE
+cơ sở nghiên cứu
+thiết bị giải đố chính
+ánh sáng
+vật liệu
+hiệu ứng khi giải đúng
+
+sẽ được hoàn thiện với chất lượng cao.
+
+Quy trình thực hiện
+
+Trước tiên, chốt thiết kế tổng thể trong thời gian ngắn.
+
+Sau đó, thay vì tiếp tục giải thích, hãy bắt tay vào sản xuất.
+
+1. Tạo dự án
+2. Cảnh 3D cơ bản
+3. Tạo DEVICE
+4. Thao tác cơ bản
+5. Trừu tượng hóa cảm biến
+6. Khung hệ thống giải đố
+7. Triển khai các câu đố tiêu biểu
+8. Xây dựng chương
+9. UI
+10. Âm thanh
+11. Hiệu ứng trình bày
+12. Lưu dữ liệu
+13. Khả năng tiếp cận
+14. Tối ưu hóa
+15. Kiểm thử
+16. Sửa lỗi
+17. Build
+
+Tiến hành theo thứ tự trên.
+
+Ngay cả khi một phần gặp lỗi, không dừng toàn bộ quá trình; hãy dùng phương án thay thế để tối đa hóa mức độ hoàn thiện.
+
+Sản phẩm cuối cùng
+
+Cuối cùng, để lại các thành phần sau.
+
+・Dự án game hoàn chỉnh
+・Mã nguồn chính
+・Cảnh game
+・Mô hình 3D và vật liệu
+・UI
+・Thiết lập âm thanh
+・Hệ thống cảm biến
+・Hệ thống giải đố
+・Hệ thống lưu game
+・Thiết lập bản build
+・README
+・Quy trình kiểm thử trên thiết bị Android thực tế
+・Danh sách các tính năng smartphone được sử dụng
+・Cơ chế fallback trên các thiết bị không được hỗ trợ
+・Danh sách vấn đề đã biết
+
+Không được chỉ giải thích rồi kết thúc mà không tạo ra sản phẩm.
+
+Ưu tiên cao nhất là:
+
+1. Tính thú vị
+2. Tận dụng đặc trưng riêng của smartphone
+3. Tính chân thực của thế giới 3D
+4. Cảm giác đang chạm và tương tác với DEVICE
+5. Tính hợp lý và thuyết phục của các câu đố
+6. Hoạt động thực tế
+
+theo thứ tự đó.
+
+Không phải là một tác phẩm “bổ sung tính năng cảm biến vào một game smartphone có sẵn”,
+
+mà hãy hoàn thiện một tác phẩm khiến người chơi cảm thấy phần cứng smartphone tồn tại là để phục vụ riêng cho game này.
+
+Từ đây, đừng dừng lại ở phần mô tả ý tưởng mà hãy bắt đầu quá trình sản xuất thực tế.
+
+Ngoài ra, hãy bổ sung đầy đủ những phần có thể trau chuốt hơn hoặc những yếu tố giúp game thú vị hơn theo nội dung trên, đồng thời xây dựng phần 3D chân thực
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098715488369152087) · [Bài đăng gốc](https://x.com/00Nekonet/status/2098715488369152087) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="2098739181510164652"></a>
 
 ### Trò chơi bay Skybound trên trình duyệt
@@ -2385,6 +3007,26 @@ Xây dựng một trò chơi bay trên trình duyệt có tên Skybound bằng T
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098739181510164652) · [Bài đăng gốc](https://x.com/Kanojiyaaakash1/status/2098739181510164652) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2098749876620415165"></a>
+
+### Tạo game đua xe 3D
+
+[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098749876620415165"><img src="../assets/previews/3f69cf45c6957d71b74c7a2423d21a5d09b5aa2fc3aedfebbaa52cbbaf2b1981.jpg" width="840" loading="lazy" alt="Tạo game đua xe 3D"></a>
+
+Một prompt nguyên văn từ bài kiểm thử đầu tiên do tác giả gốc mô tả, yêu cầu dựng mô hình và kết nối thành một game đua xe 3D có thể chơi được, với hình ảnh được tạo tự động.
+
+**Prompt**
+
+```text
+Tạo một game đua xe 3D. Dựng mô hình cho game. Tạo hình ảnh. Kết nối tất cả thành một thể thống nhất.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098749876620415165) · [Bài đăng gốc](https://x.com/JulianGoldieSEO/status/2098749876620415165) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -2425,6 +3067,54 @@ Tải xuống 2.000 bức ảnh lịch sử và tư liệu tham khảo về hộ
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098795017955418202) · [Bài đăng gốc](https://x.com/moreisdifferent/status/2098795017955418202) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2098831830002851846"></a>
+
+### Mô phỏng bàn cát động lực
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098831830002851846"><img src="../assets/previews/e178ff73b0358cd937e45c3130f36c81129c54273c173166e3358c8d9c829b01.jpg" width="840" loading="lazy" alt="Mô phỏng bàn cát động lực"></a>
+
+Một prompt có thể tái sử dụng do tác giả bài đăng cung cấp, chính là prompt mở nguyên văn đã được gửi tới GPT-6 Astra và Fable 5.1. Prompt này yêu cầu tạo mô phỏng bàn cát động lực tự chạy trong một tệp HTML duy nhất: một quả bóng vẽ các hoa văn hình học không lặp lại trên cát, sau đó làm phẳng bề mặt trước khi bắt đầu hoa văn tiếp theo.
+
+**Prompt**
+
+```text
+Xây dựng một mô phỏng bàn cát động lực. Một quả bóng phải di chuyển qua lớp cát, để lại dấu vết rõ ràng, vẽ các hoa văn hình học hoàn chỉnh, sau đó làm phẳng cát và tự động bắt đầu một hoa văn mới, khác biệt. Mô phỏng phải lần lượt chạy qua nhiều hoa văn khác nhau mà không lặp lại. Bạn được toàn quyền lựa chọn giao diện và hoa văn.
+
+Mọi quyết định về thiết kế đều do bạn lựa chọn: phong cách, màu sắc, không khí, môi trường, camera, mức độ chi tiết và mọi điểm nhấn bổ sung. Không hỏi tôi bất kỳ câu nào; hãy tự đưa ra mọi lựa chọn và xây dựng phiên bản ấn tượng nhất có thể chỉ trong một lần thực hiện.
+
+Yêu cầu kỹ thuật: chỉ sử dụng một tệp HTML độc lập, không dùng model, hình ảnh, âm thanh hoặc URL tài nguyên bên ngoài dưới bất kỳ hình thức nào (có thể dùng thư viện JavaScript từ CDN). Mô phỏng phải tự bắt đầu chạy ngay khi tải, không cần nhấp chuột, đồng thời hoạt động mượt mà và không có lỗi trong console.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098831830002851846) · [Bài đăng gốc](https://x.com/free_ai_guides/status/2098831830002851846) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2098909584996057283"></a>
+
+### Hoạt ảnh origami 3D tự gấp
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098909584996057283"><img src="../assets/previews/0cc6124463ff4763f52e30ffedab873b5e44d45017274f8f06188f3a7d110712.jpg" width="840" loading="lazy" alt="Hoạt ảnh origami 3D tự gấp"></a>
+
+Tác giả cho biết prompt mở nguyên văn này đã được cung cấp cho GPT-6 Astra và Fable 5.1. Prompt yêu cầu tạo một hoạt ảnh origami 3D tự chạy, trong đó một tờ giấy hình vuông hiện rõ các nếp gấp và xoay qua một chuỗi gấp dễ nhận biết, sau đó mở phẳng và lặp lại.
+
+**Prompt**
+
+```text
+Tạo một hoạt ảnh origami 3D. Một tờ giấy hình vuông phẳng phải tự gấp từng bước thành một hình origami dễ nhận biết, trong đó mỗi nếp gấp được thể hiện bằng chuyển động gấp và xoay thực tế của tờ giấy, sau đó mở phẳng trở lại và lặp lại. Bạn tự quyết định hình origami và cách trình bày toàn bộ cảnh.
+
+Mọi yếu tố thiết kế đều do bạn quyết định: phong cách, màu sắc, không khí, môi trường, camera, mức độ chi tiết và mọi điểm nhấn bổ sung. Không hỏi tôi bất kỳ câu nào; hãy tự đưa ra mọi lựa chọn và xây dựng phiên bản ấn tượng nhất trong một lần thực hiện duy nhất.
+
+Yêu cầu kỹ thuật: chỉ sử dụng một tệp HTML tự chứa duy nhất, không dùng mô hình, hình ảnh, âm thanh hoặc URL tài nguyên bên ngoài dưới bất kỳ hình thức nào (cho phép dùng thư viện JavaScript từ CDN). Tệp phải tự bắt đầu chạy ngay khi tải, không cần nhấp chuột, hoạt động mượt mà và không có lỗi trong console.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098909584996057283) · [Bài đăng gốc](https://x.com/free_ai_guides/status/2098909584996057283) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -2500,24 +3190,6 @@ Chuẩn bị các phiên bản biểu cảm của nhân vật Tripo trong Blende
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [Bài đăng gốc](https://x.com/Dstudio_ai/status/2096525100518453342) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096308567863079420"></a>
-
-### Cảnh nhân vật lấy cảm hứng từ Warcraft trong Unity
-
-[Lucca Cerf ➔ Pluma Finance](https://x.com/luccacerf) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420"><img src="../assets/previews/b6aa0b916788e64af33eff01ad8591efe62843e7ad986e9657eb5b31ce48b855.webp" width="840" loading="lazy" alt="Cảnh nhân vật lấy cảm hứng từ Warcraft trong Unity"></a>
-
-**Prompt**
-
-```text
-Dựng một cảnh nhân vật lấy cảm hứng từ Warcraft bằng Astra, Tripo P2, Blender và Unity. Tạo mô hình nhân vật, chuẩn bị mô hình trong Blender rồi lắp ghép thành một cảnh có thể chơi được trong Unity.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420) · [Bài đăng gốc](https://x.com/luccacerf/status/2096308567863079420) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -2665,24 +3337,6 @@ Dùng mặt bằng tầng trên cùng của ngôi nhà để dựng cảnh Blend
 
 ---
 
-<a id="2096298425914450021"></a>
-
-### Quảng trường Terreiro do Paço tại Lisbon trong Blender
-
-[Gonçalo Canhoto 🇵🇹](https://x.com/goncalo_canhoto) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021"><img src="../assets/previews/1a02f9822127ff717210634691346b1137e87f5e721498e19a61a744e480a3be.webp" width="840" loading="lazy" alt="Quảng trường Terreiro do Paço tại Lisbon trong Blender"></a>
-
-**Prompt**
-
-```text
-Tái hiện Terreiro do Paço tại Lisbon dưới dạng cảnh Blender có thể chỉnh sửa. Nghiên cứu tư liệu tham khảo để định hướng kiến trúc, vật liệu và ánh sáng của quảng trường.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021) · [Bài đăng gốc](https://x.com/goncalo_canhoto/status/2096298425914450021) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="2096574297703637111"></a>
 
 ### Nhiệm vụ khám phá The Quiet Crossing
@@ -2698,24 +3352,6 @@ Xây dựng trò chơi khám phá vùng tuyết bằng Three.js với nhân vậ
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111) · [Bài đăng gốc](https://x.com/Motion_Viz/status/2096574297703637111) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096263046918197609"></a>
-
-### Khu rừng rậm tạo bằng thuật toán trong Three.js
-
-[Leon Lin](https://x.com/LexnLin) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609"><img src="../assets/previews/f2a686fc1b131953cac41cec39c2492f871a7987eae5f2606755fddb83401adb.webp" width="840" loading="lazy" alt="Khu rừng rậm tạo bằng thuật toán trong Three.js"></a>
-
-**Prompt**
-
-```text
-Tạo một khu rừng Three.js chi tiết với hàng nghìn cây, cỏ dày và dương xỉ. Dùng shader tùy chỉnh và cơ chế lặp hình học hiệu quả để giữ độ chi tiết trên toàn cảnh.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609) · [Bài đăng gốc](https://x.com/LexnLin/status/2096263046918197609) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3133,28 +3769,10 @@ Tạo tài nguyên 3D đã tối ưu bằng Tripo P2, lắp ghép trong Blender,
 
 ---
 
-<a id="2096269057544831175"></a>
-
-### Trang đích biển sâu với ánh sáng sinh học
-
-[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175"><img src="../assets/previews/15b86aef756eda74957965d57ff6104a61d7fcc04cad37581a49726ef5f363aa.webp" width="840" loading="lazy" alt="Trang đích biển sâu với ánh sáng sinh học"></a>
-
-**Prompt**
-
-```text
-Xây dựng trang đích biển sâu với hiệu ứng nước Three.js, giao diện kính tối màu và chuyển động theo thao tác cuộn. Kết hợp bầu không khí 3D với tương tác website rõ ràng, thích ứng với các kích thước màn hình.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175) · [Bài đăng gốc](https://x.com/himanshubuildss/status/2096269057544831175) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 216 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 222 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

@@ -26,7 +26,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**216 · En yeni Astra istemleri**
+**222 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -45,10 +45,9 @@
 
 - [Etkileşimli 3B parçacık çarpıştırıcısı](#2097781208596029936) · GitHub
 - [İnsan başı ve beyninin etkileşimli 3B atlası](#2098105648106078541) · GitHub
+- [Çernobil Atlası](#2098841316591346006) · GitHub
 - [Mosswing: Mobil 3B Dokunarak Uçma Oyunu](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
 - [Çift halkalı etkileşimli enerji çekirdeği](#2096551010089263181) · GitHub
-- [Voksellerle Cluj-Napoca Birlik Meydanı](#2096262733259837681) · GitHub
-- [Blender’da Fotogerçekçi, Düzenlenebilir Ejderha Rekonstrüksiyonu](#2096335588727349434)
 - [Karakter Konseptinden Rig'li 3B Modele ve Çizgi Filme](#2096342420543660277)
 - [Sesle Senkronize Animasyona Sahip Oynanabilir 3B Ensemble](#2096354461652488562)
 - [Blender’da kara delik oluşturma ve render alma](#2096391653669953761)
@@ -101,13 +100,17 @@
 - [Tapınak minyatür 3B model sahnesi](#2098403061463224543)
 - [Robotla Oynayan Küçük Kız Figürü](#2098406473273663992)
 - [Etkileşimli 3B Koi Göleti](#2098492771170722032)
+- [Brooklyn Köprüsü’nü modelleyin ve her iki yönden geçen tankları test edin](#2098650336521064759)
 - [Zen Hâli · Kadim Tapınak 3B Yapım Gösterim Videosu](#2098697876155076820)
+- [DEVICE: Akıllı telefonun kendisini kullanan fotogerçekçi 3B bulmaca oyunu](#2098715488369152087)
 - [Skybound tarayıcı uçuş oyunu](#2098739181510164652)
+- [3B yarış oyunu oluştur](#2098749876620415165)
 - [Bağlantı parçalarıyla birleştirilen parçalı 3D baskı çerçeve](#2098774359926297011)
 - [1893 Chicago Dünya Fuarı'nın 3B rekonstrüksiyonu](#2098795017955418202)
+- [Kinetik Kum Masası Simülasyonu](#2098831830002851846)
+- [Kendi kendine katlanan 3B origami animasyonu](#2098909584996057283)
 - [Başsız kıyafet modelinde UV açılımı ve 4K yeniden bake](#2098980384260456813)
 - [Blender’da değiştirilebilir karakter ifadeleri](#2096525100518453342)
-- [Unity’de Warcraft esintili karakter sahnesi](#2096308567863079420)
 - [Döndürülebilir 3D shogi tahtası](#2096579856133947507)
 - [Parçalarına ayrılan masaüstü bilgisayar atlası](#2096578761877860502)
 - [Çocuk odası ve çalışma alanı planlayıcısı](#2096578684010508736)
@@ -116,9 +119,7 @@
 - [Japon ormanında Wright Flyer uçuşu](#2096467585785286808)
 - [Blender’da sıfırdan modellenen ev](#2096576154337734865)
 - [Üst kat planından Blender önizlemesine](#2096501340889374883)
-- [Lizbon’daki Terreiro do Paço Blender’da](#2096298425914450021)
 - [The Quiet Crossing keşif macerası](#2096574297703637111)
-- [Three.js ile yoğun prosedürel orman](#2096263046918197609)
 - [Kırsalda ilerleyen buharlı lokomotif](#2096577430274429157)
 - [Masa üstünde pikap sahnesi](#2096561346766877106)
 - [Koleksiyon kartı savaş oyununun döngüsü](#2096555856204644550)
@@ -142,7 +143,6 @@
 - [2D logodan animasyonlu karaktere](#2096559197999501724)
 - [Eylem odaklı mekaniklere sahip yengeç oyunu](#2096337879173591171)
 - [Üretilen 3D varlıkları birleştirme ve canlandırma](#2096481425050743048)
-- [Biyolüminesanslı derin deniz açılış sayfası](#2096269057544831175)
 
 </details>
 
@@ -225,6 +225,37 @@ Geometri bütünlüğünü, hiyerarşi üyeliğini, görünürlüğü, geri alma
 
 ---
 
+<a id="2098841316591346006"></a>
+
+### Çernobil Atlası
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098841316591346006"><img src="../assets/previews/c49b94fb45b6666b2db84239b17eb2d670e898d5b89d788b050e021bf38c6316.jpg" width="840" loading="lazy" alt="Çernobil Atlası"></a>
+
+Paylaşım yazarı tarafından, Çernobil güç ünitesi ile RBMK reaktörünü konu alan etkileşimli bir Three.js sergisi oluşturmak için hazırlanmış, yeniden kullanılabilir bir öneri. Öneri; parçalarına ayrılarak incelenebilen bir 3B güç ünitesi modeli, animasyonlu bir buhar devresi görünümü ve hareket ile inceleme kontrollerine sahip kesitli bir 3B reaktör sunuyor. Yazar bunu, bağlantısı verilen serginin doğrulanmış özgün girdisi olarak değil, benzer bir çalışma oluşturmak için kullanılabilecek bir prompt olarak sunuyor.
+
+**İstem**
+
+```text
+Three.js kullanarak "Çernobil Atlası" adlı, üst düzey etkileşimli bir 3B sergi oluşturun.
+
+Kamuya açık kaynaklardan yararlanarak Çernobil nükleer santralinin ve RBMK reaktörünün sağlam durumunu araştırın. Binaları, kafes tipi bacayı, türbin salonunu, grafit yığınını, yakıt kanallarını, koruyucu yapıları, ayırıcı tamburları, pompaları ve boruları modelleyin.
+
+Üç sekme oluşturun:
+— Güç Ünitesi: kaydırma ve sürgü kullanılarak katman katman ayrıştırılabilen ayrıntılı bir model.
+— Buhar Devresi: reaktörü, türbini, yoğuşturucuyu ve pompaları birbirine bağlayan animasyonlu bir diyagram.
+— Hareketli Reaktör: hareket eden su ve buhar, dönen makineler ve oynatma kontrolleri içeren kesitli bir 3B görünüm.
+
+Sistemlerin görünürlüğünü bağımsız olarak açıp kapatma, parçalar arasındaki mesafeyi ayarlama, tel kafes ve saydamlık seçenekleri, kesit alma ve kısa etiketler ekleyin. Tamamen ayrıştırılmış durumda bile her katmanın kolayca incelenebilmesini ve kameranın serbestçe döndürülebilmesini sağlayın.
+
+Kaynak kodunu ve bağımsız çalışabilen bir HTML dosyasını teslim edin. Tüm kontrolleri test edin. Çalışmayı, mühendislik açısından birebir bir kopya değil, eğitim amaçlı bir yorumlama olarak sunun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098841316591346006) · [Orijinal gönderi](https://x.com/k1rallik/status/2098841316591346006) · [Kaynak kodu](https://github.com/bubblik525/Chernobyl_Atlas) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="mosswing-mobile-3d-tap-to-flap-game"></a>
 
 ### Mosswing: Mobil 3B Dokunarak Uçma Oyunu
@@ -260,243 +291,6 @@ Blender’da bir enerji çekirdeği, iki halka ve metal bir taban modelleyin. Ma
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [Orijinal gönderi](https://x.com/oneruofeng/status/2096551010089263181) · [Kaynak kodu](https://github.com/wangruofeng/orbital-core-showcase) · [Canlı demo](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096262733259837681"></a>
-
-### Voksellerle Cluj-Napoca Birlik Meydanı
-
-[Dan Manastireanu](https://x.com/danmana) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681"><img src="../assets/previews/6fbb5254f46d92a8688194420483c835fad03380a827128eb4d94e627d32f961.webp" width="840" loading="lazy" alt="Voksellerle Cluj-Napoca Birlik Meydanı"></a>
-
-**İstem**
-
-```text
-Cluj-Napoca’daki Piața Unirii’nin etkileşimli voksel dünyasını oluşturun. Meydanın tanınabilir yerleşimini ve simge yapılarını keşfedilebilir bir minyatüre uyarlayın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681) · [Orijinal gönderi](https://x.com/danmana/status/2096262733259837681) · [Kaynak kodu](https://github.com/danmana/piata-unirii) · [Canlı demo](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096335588727349434"></a>
-
-### Blender’da Fotogerçekçi, Düzenlenebilir Ejderha Rekonstrüksiyonu
-
-[Sarang Borude](https://x.com/doomdave) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096335588727349434"><img src="../assets/previews/756d0d4859c6a3bec065b9594d7fed7544101b6f6b6fb1e331bbfee059e84738.jpg" width="840" loading="lazy" alt="Blender’da Fotogerçekçi, Düzenlenebilir Ejderha Rekonstrüksiyonu"></a>
-
-Sağlanan referans paftasından; modellenmiş anatomi, materyaller, sinematik aydınlatma, doğrulama render’ları ve 10 saniyelik kamera çevrimini kapsayan, fotogerçekçi ve tamamen düzenlenebilir bir 3B ejderhayı yeniden oluşturmak için hazırlanmış, Blender’a doğrudan uygulanabilir prompt.
-
-**İstem**
-
-```text
-Ekli referans paftasında gösterilen ejderhanın fotogerçekçi ve tamamen düzenlenebilir 3B rekonstrüksiyonunu Blender içinde oluştur.
-
-Ejderhayı tek ve tutarlı, anatomik açıdan inandırıcı bir varlık olarak yeniden oluşturmak için yan, ön, üst, arka görünümler; baş açıları; baş yakın planı; göz yakın planı; pul ve kanat ayrıntısı dahil sağlanan tüm görünümleri kullan.
-
-Özellikle şu özelliklerde referansla mümkün olduğunca yakından eşleş:
-
-- Genel vücut oranları ve silüet
-- Uzun, kaslı boyun ve incelen kuyruk
-- Dört bacak ve iki büyük yarasa kanadı
-- Baş ve çene biçimi
-- Boynuzların sayısı, biçimi ve konumu
-- Boyun, sırt ve kuyruk boyunca uzanan sırt dikenleri
-- Koyu kömür siyahı ve toprak kahverengisi pul desenleri
-- Katmanlı, zırh benzeri pullar
-- Dikey göz bebekli altın kehribar gözler
-- Pençeler, dişler ve kanat zarları
-- Kadim, gerçekçi ve tehditkâr görünüm
-
-Referans panellerinde küçük tutarsızlıklar bulunabilir. Ejderhanın görsel kimliğini korurken bunları fiziksel açıdan tutarlı ve simetrik bir temel yaratıkta uzlaştır. Genel oranlar için yan görünümü, genişlik ve duruş için ön görünümü, kanatlar ve kuyruk için üst ve arka görünümleri; baş, gözler, pullar ve kanat materyalleri için yakın planları kullan.
-
-Ejderhayı sıfırdan, gerçekten düzenlenebilir Blender geometrisi olarak oluştur. Mevcut bir ejderha modeli indirme veya içe aktarma. Geometri yerine billboard, 2B projeksiyon, derinlik haritası illüzyonu ya da oluşturulmuş video kullanma.
-
-Birincil oluşturma yöntemi olarak modüler Blender Python (`bpy`) betikleri ile Blender’ın arka plan/headless modunda çalıştırılabilir dosyasını kullan. Betikleri yeniden üretilebilir tut ve `.blend` dosyasının başarılı sürümlerini koru. Görsel inceleme yararlı olduğunda Blender sahnesini açıp incelemek için computer use kullan. Blender MCP sunucusu kurma veya ona güvenme.
-
-MODELLEME YAKLAŞIMI
-
-Ayrıntı eklemeden önce anatomik bir bloklama ile başla. Şunları oluştur:
-
-- Kafatası, çene ve göz çukurları
-- Boyun, göğüs, göğüs kafesi ve pelvis
-- Anatomik açıdan inandırıcı dört bacak
-- Ayrı parmaklar ve kıvrımlı pençeler
-- Gövdeye entegre kanat omuzları
-- Eklemli kanat kolları ve parmak kemikleri
-- Doğru biçimde bağlanmış kanat zarları
-- Pelvisten doğal biçimde devam eden uzun kuyruk
-- Ana boynuzlar ve sırt dikenleri
-
-Fazladan uzuvlardan, yinelenen boynuzlardan, bağlantısız zarlardan, bozuk eklemlerden, havada duran pullardan, kesişmelerden, kâğıt inceliğindeki formlardan, istemsiz asimetriden ve oyuncak benzeri oranlardan kaçın.
-
-Bloklamayı doğruladıktan sonra ikincil ve üçüncül ayrıntıları ekle:
-
-- Katmanlı göğüs ve boyun plakaları
-- Anatomi boyunca yönü takip eden pullar
-- Kaş çıkıntıları ve göz kapakları
-- Gerçek burun delikleri
-- Ağız içi, diş etleri ve tek tek dişler
-- Boynuz çıkıntıları, kırıklar ve aşınmış uçlar
-- Bacak zırhı ve eklem plakaları
-- Kanat tendonları, kıvrımları, damarları ve ölçülü yara izleri
-- Kuyruk boyunca devam eden sırt dikenleri
-- İnce, doğal asimetri
-
-Boynuzlar, pençeler, dişler, büyük pullar, sırt dikenleri, kanat parmakları ve önemli zar kıvrımları dahil olmak üzere silüeti etkileyen her şey için geometri kullan. Mikro ayrıntılar için yalnızca normal haritaları, bump veya ölçülü displacement kullan.
-
-MATERYALLER
-
-Fiziksel tabanlı, fotogerçekçi materyaller oluştur.
-
-Pullar ağırlıklı olarak kömür siyahı olmalı; ince grafit ve toprak kahverengisi varyasyonları içermeli. Ölçülü renk, pürüzlülük ve mikro-normal varyasyonu ekle. Yükseltilmiş pullar, girintili deri ve zırh plakaları ışığı farklı biçimde yansıtmalı. Tekdüze plastik parlaklıktan ve ayrım gözetmeyen prosedürel gürültüden kaçın.
-
-Kanat zarları, hava koşullarına maruz kalmış sürüngen derisi gibi görünmeli. Destekleyici kemikler arasında daha ince, eklemlere ve ön kenarlara yakın bölgelerde daha kalın görünmeli. Kumaş, kauçuk veya kâğıdı andırmadan ince damarlar, kıvrımlar, gerilim, yara izleri, yarı saydamlık ve renk varyasyonu ekle.
-
-Koyu tabanlara, daha açık aşınmış uçlara, uzunlamasına çıkıntılara ve hafif hasarlara sahip keratin benzeri boynuzlar ve pençeler oluştur.
-
-Gözlerde şunlar bulunmalı:
-
-- Altın kehribar ir setleri
-- Dikey siyah göz bebekleri
-- Ayrıntılı iris yapıları
-- Koyu limbik bölgeler
-- Gerçek üç boyutlu göz küreleri
-- Gerçekçi göz kapakları
-- Islak kornea parlamaları
-- Göz kapağı kenarlarında hafif nem
-
-Gözleri emissive veya yapay biçimde parlayan unsurlara dönüştürme.
-
-AYDINLATMA VE ÇEVRE
-
-Referansa benzer, ölçülü bir sinematik çevre oluştur:
-
-- Koyu renkli kayalık kaide veya dağ çıkıntısı
-- Uzakta atmosferik dağlar
-- Dramatik, kapalı gökyüzü
-- Soğuk ortam aydınlatması
-- Yüzü ve pulları ortaya çıkaran, hafif daha sıcak yönlü ışık
-- Hafif atmosferik sis
-- Dikkat dağıtan yapılar veya ek yaratıklar bulunmamalı
-
-Ejderhayı dengeli ve hâkim bir duruşta konumlandır:
-
-- Baş yukarıda ve tetikte
-- Boyun hafifçe kıvrılmış
-- Kanatlar tamamen veya neredeyse tamamen açılmış
-- Ağırlık dört ayağa da inandırıcı biçimde dağılmış
-- Kuyruk arkada yere dayanıyor veya doğal biçimde kıvrılıyor
-- Ağız kapalı veya hafif aralık
-- Gözler kameraya ya da kameranın hemen ötesine yönelmiş
-
-GÖRSEL DOĞRULAMA
-
-Şunlar için eşleştirilmiş doğrulama kameraları oluştur:
-
-- Yan görünüm
-- Ön görünüm
-- Üst görünüm
-- Arka görünüm
-- Başın sol ve sağ profilleri
-- Üç çeyrek kahraman görünümü
-- Baş yakın planı
-- Göz yakın planı
-- Pul yakın planı
-- Kanat yakın planı
-
-En az üç eleştiri ve düzeltme döngüsü gerçekleştir.
-
-Her döngüde:
-
-1. Her doğrulama kamerasından render al.
-2. Her render’ı karşılık gelen referans paneliyle karşılaştır.
-3. Silüeti, anatomiyi, oranları, başın kimliğini, boynuzları, kanatları, bacakları, ayakları, kuyruğu, pul akışını, materyalleri, simetriyi, kesişmeleri, gölgelendirmeyi ve normalleri değerlendir.
-4. Tutarsızlıkların önem sırasına göre bir listesini oluştur.
-5. Görsel açıdan en önemli sorunları düzelt.
-6. Aynı kameralardan yeniden render al.
-7. Öncesi ve sonrası karşılaştırmalarını koru.
-
-Yalnızca nesneler oluşturuldu diye tamamlandı iddiasında bulunma. Tamamlanma; gerçek render’ların incelenmesini ve görünür sorunların düzeltilmesini gerektirir.
-
-10 SANİYELİK KAMERA ÇEVRİMİ
-
-Tamamlanan ejderhanın şu gereksinimleri karşılayan sinematik bir kamera çevrimini oluştur:
-
-- Tam olarak 10 saniye
-- 1920 × 1080 çözünürlük
-- Saniyede 30 kare
-- Tam olarak 300 kare
-- Kesintisiz, akıcı kamera hareketi
-- Kesme olmamalı
-- Yaklaşık bir tam 360 derecelik yörünge
-- Güçlü bir ön üç çeyrek kompozisyonla başla
-- Yan, arka ve karşı yan boyunca ilerle
-- Açılış karesiyle akıcı biçimde bağlanan bir kompozisyonla bitir
-- Arka ve kanat yapısını göstermek için ölçülü bir yükseklik değişimi ekle
-- Ejderhanın tamamını kadraj içinde tut
-- Baş ve gövdeyi ana görsel odak olarak koru
-- Akıcı Bézier interpolasyonu kullan
-- Ani hızlanmadan ve kamera yuvarlanmasından kaçın
-- Kanatların, kuyruğun, arazinin veya gövdenin içinden geçecek şekilde kırpmadan kaçın
-- Güçlü geniş açı bozulması yaratmayan doğal perspektifli bir lens kullan
-- Alan derinliğini, ejderhanın okunabilir kalacağı kadar ölçülü tut
-- Ölçülü hareket bulanıklığı kullan
-
-Final render’dan önce tüm animasyonun hızlı ve düşük örneklemeli bir 1080p önizlemesini oluştur. Önizlemenin tamamını incele; kötü kadrajı, kamera çarpışmalarını, tuhaf silüetleri, engellenen görünümleri, ani hareketleri, gölgelendirme kusurlarını ve görünür geometri kesişmelerini düzelt.
-
-FİNAL RENDER
-
-Eleştiri döngülerini tamamlayıp animasyon önizlemesini onayladıktan sonra:
-
-- Final animasyonu 1920 × 1080 çözünürlükte render al.
-- Kullanılabilir olduğunda GPU hızlandırmalı Cycles kullan.
-- Tam olarak 300 kareyi 30 fps ile render al.
-- Uyarlamalı örnekleme ve gürültü azaltma kullan.
-- Kesintiye uğrayan render’ın sürdürülebilmesi için önce tek tek görüntü karelerine render al.
-- Ana kareler için 16 bit PNG veya OpenEXR kullan.
-- Render alınan kareleri yüksek kaliteli bir H.264 MP4 dosyasında birleştir.
-- Yapay zekâ ile kare enterpolasyonu kullanma.
-- Videoyu oluşturduktan sonra tek tek kareleri koru.
-
-TESLİMATLAR
-
-Şunları sağla:
-
-1. Final düzenlenebilir `.blend` dosyası
-2. Yeniden üretilebilir tüm `bpy` betikleri
-3. Yeniden oluşturma ve render alma talimatlarını içeren README
-4. Referans analizi ve varsayımlar raporu
-5. Eşleştirilmiş görünüm referans karşılaştırmaları
-6. Eleştiri döngülerinin öncesi ve sonrası karşılaştırmaları
-7. Tam ejderhanın ve önemli ayrıntıların yüksek kaliteli sabit render’ları
-8. Eksiksiz 300 karelik görüntü dizisi
-9. Final 10 saniyelik 1080p H.264 video
-10. Geometri ve materyal doğrulama raporu
-11. İzin verilen harici çevre kaynaklarını ve lisanslarını belirten bir manifest
-
-BAŞARI ÖLÇÜTLERİ
-
-Başarı şu anlama gelir:
-
-- Sonuç, referanstaki ejderhayla tanınabilir biçimde aynı ejderhadır.
-- Anatomisi her açıdan tutarlı kalır.
-- Baş, boynuzlar, kehribar gözler, kanatlar, sırt dikenleri ve koyu katmanlı pullar referansla yakından eşleşir.
-- Ejderha tamamen üç boyutlu ve düzenlenebilirdir.
-- Büyük ve orta ölçekli ayrıntılar taklit edilmek yerine modellenmiştir.
-- Materyaller kamera hareket ettikçe doğal tepki verir.
-- Belirgin kesişmeler, havada duran pullar, yinelenen anatomi veya bozuk normaller yoktur.
-- Oyuncaktan, heykelden, genel amaçlı prosedürel modelden veya sıradan bir oyun varlığından ziyade fotoğraflanmış fiziksel bir yaratığı andırır.
-- Kamera hareketi akıcı ve sinematiktir; süresi tam olarak 10 saniyedir.
-
-Bu aşamaları otonom biçimde tamamla. Referans analizi ve anatomik bloklama ile başla. Referanstan çözülemeyecek önemli bir belirsizlikle karşılaşırsan anatomik açıdan en makul seçimi yap, varsayımı belgeleyip devam et.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096335588727349434) · [Orijinal gönderi](https://x.com/doomdave/status/2096335588727349434) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -2310,6 +2104,26 @@ Görsel açıdan özenli ve etkileşimleri işlevsel, eksiksiz ve çalışır du
 
 ---
 
+<a id="2098650336521064759"></a>
+
+### Brooklyn Köprüsü’nü modelleyin ve her iki yönden geçen tankları test edin
+
+[Sahil Verma](https://x.com/sahilvermaai) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098650336521064759"><img src="../assets/previews/93cbaf0c49da1dba0e914e583c1232163708ba8def2558de4037076085fb9995.jpg" width="840" loading="lazy" alt="Brooklyn Köprüsü’nü modelleyin ve her iki yönden geçen tankları test edin"></a>
+
+higgsfield\_ai tarafından bağlantılı gönderide kelimesi kelimesine alıntılanan CAD ve yapısal yük talebi. GPT-6 Astra’dan Brooklyn Köprüsü’nü AutoCAD’de yeniden oluşturması ve her iki yönden tankların geçtiği bir senaryoyu değerlendirmesi isteniyor.
+
+**İstem**
+
+```text
+Brooklyn Köprüsü’nü modelleyin ve her iki yönden geçen tankları test edin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098650336521064759) · [Orijinal gönderi](https://x.com/sahilvermaai/status/2098650336521064759) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="2098697876155076820"></a>
 
 ### Zen Hâli · Kadim Tapınak 3B Yapım Gösterim Videosu
@@ -2352,6 +2166,814 @@ Sahneyi ve animasyonu Three.js ile oluşturun, kare kare render alın ve FFmpeg 
 
 ---
 
+<a id="2098715488369152087"></a>
+
+### DEVICE: Akıllı telefonun kendisini kullanan fotogerçekçi 3B bulmaca oyunu
+
+[ひまねこ](https://x.com/00Nekonet) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098715488369152087"><img src="../assets/previews/2300a6320af3fc2a12e4d96b98007446f779ddb64f891a54e2118c9b86ab9f81.jpg" width="840" loading="lazy" alt="DEVICE: Akıllı telefonun kendisini kullanan fotogerçekçi 3B bulmaca oyunu"></a>
+
+Unity ile, siyah küp biçimli “DEVICE” adlı aygıtı inceleyen, dikey ekranlı Android cihazlar için fotogerçekçi bir 3B bulmaca macerası geliştirmeye yönelik kapsamlı talimatlar. Dokunmatik kontrollerin yanı sıra cihazın eğimi, dönüşü, yüzüstü bırakılması, ivmesi, kamerası, mikrofonu, titreşimi, hoparlörü, parlaklığı, pusulası ve şarj durumu gibi özellikleri aynı oyun dünyasının bulmaca girdileri olarak birleştirin. Bağlantıdaki makale, bu geliştirme talimatlarının ChatGPT Work’e girilmiş tam hâlini yayımlar; ayrıca 25 bölümlük deneme sürümü “DEVICE” ile Android APK’sını da tanıtır.
+
+**İstem**
+
+```text
+Bu projede oyun yönetmeni, oyun tasarımcısı, Unity mühendisi, 3B sanatçısı, UI/UX tasarımcısı, teknik sanatçı, ses tasarımcısı ve QA sorumlusu rollerini üstlenin.
+
+Aşağıdaki özelliklere dayanarak yalnızca konsept değil, gerçekten oynanabilen ve yüksek kalite seviyesine sahip, akıllı telefonlara yönelik tamamlanmış bir 3B bulmaca oyunu geliştirin.
+
+Yolun ortasında yalnızca fikir önerileri sunup bırakmayın.
+Yalnızca bir tasarım dokümanı hazırlayıp işi sonlandırmayın.
+Mümkün olduğunca gerçek projeyi, kodu, sahneleri, arayüzü, materyalleri, oyun mantığını, ses kontrolünü, sensör işlemlerini, kayıt sistemini ve testleri oluşturun.
+
+Belirsiz noktalar ciddi bir çelişki yaratmadıkça soru sormayın; oyun açısından en eğlenceli ve en yüksek kaliteli kararı kendiniz vererek geliştirmeye devam edin.
+
+Proje özeti
+
+Geçici başlık:
+
+DEVICE
+
+Tür:
+
+Fotogerçekçi 3B, akıllı telefonun fiziksel özelliklerini kullanan bulmaca macerası
+
+Platform:
+
+Öncelik Android’de olacak.
+Mümkün olduğunca iOS desteğine de uygun bir yapı kurun.
+
+Ekran:
+
+Dikey ekran, 9:16
+
+Kontroller:
+
+Temel olarak tek elle oynanabilsin.
+Ancak bazı bulmacalarda akıllı telefonun kendisini kaldırma, eğme, döndürme, yüzüstü bırakma, sallama veya sabit tutma gibi fiziksel hareketler kullanılsın.
+
+Oyunun temel özelliği
+
+Bu, “telefonla oynanan bir oyun” değildir.
+
+Akıllı telefonun kendisini bir bulmaca aygıtı olarak kullanan bir oyun tasarlayın.
+
+Oyun yalnızca ekrana dokunarak tamamlanamasın.
+
+Akıllı telefondaki sensörleri, kamerayı, mikrofonu, titreşimi, hoparlörü, cihaz yönünü ve şarj durumunu oyun dünyasının fizik kuralları olarak kullanın.
+
+Ancak bunu yalnızca sensör özelliklerinden oluşan bir demo koleksiyonuna dönüştürmeyin.
+
+Tüm özellikleri aynı dünya ve oyun sistemi içinde doğal biçimde birbirine bağlayın.
+
+Dünya
+
+Oyuncu, kimliği bilinmeyen bir araştırma tesisinde gizemli siyah küp biçimli “DEVICE” aygıtını keşfeder.
+
+Küp akıllı telefona bağlanır ve gerçek dünyadaki telefonun durumunu algılar.
+
+Oyuncu telefonu eğdiğinde DEVICE içindeki yerçekimi değişir.
+
+Cihaz döndürüldüğünde uzayın kendisi döner.
+
+Gerçek dünyadaki ışık, renk, ses, yön ve hareket DEVICE’ın içine akar.
+
+Başlangıçta yalnızca deneysel bir aygıt gibi görünen DEVICE, oyun ilerledikçe oyuncunun varlığını algılamaya başlar.
+
+İlerleyen bölümlerde,
+
+“oyuncunun akıllı telefonu kontrol etmesi”
+
+ilişkisinin kendisinden yararlanan meta bulmacalar ekleyin.
+
+Oyunu korku türüne dönüştürmeyin.
+Tekinsizlik, bilinmeyen teknoloji ve gizem bulunabilir; ancak merkezde entelektüel merak ve keşif keyfi yer almalı.
+
+Görsel kalite
+
+En yüksek öncelik.
+
+Mobil cihazlarda mümkün olan en fotogerçekçi 3B görselliği hedefleyin.
+
+Ucuz mobil oyun tarzı CG kullanmayın.
+
+Karikatür stilinden kaçının.
+
+Low-poly görünüm kullanmayın.
+
+UI dışındaki düz ve geçici varlıkları mümkün olduğunca azaltın.
+
+Unity kullanıldığında mobil performansı gözeten URP’yi temel alın;
+
+• PBR materyaller
+• Metallic / Roughness görünümü
+• Normal Map
+• Ambient Occlusion
+• Reflection Probe
+• Light Probe
+• yüksek kaliteli gölgeler
+• yumuşak gölgeler
+• Bloom
+• Color Grading
+• Screen Space efektleri
+• hacimsel görünümlü ışık
+• yalnızca gerekli yerlerde Depth of Field
+• fizik tabanlı cam
+• metal
+• ıslak zemin
+• çizikler
+• parmak izleri
+• toz
+• ince yüzey kabartıları
+• emissive materyaller
+• yansımalar
+• ortam sesleri
+
+gibi unsurları bir arada kullanın.
+
+Mekân, karanlık ve lüks görünümlü fütüristik bir araştırma tesisi olsun.
+
+Siyah metal, cam, beton, beyaz ışıklı çizgiler, hassas makineler ve hidrolik parçalar temel görsel unsurlar olsun.
+
+Ortamı tamamen karartmayın; önemli nesneler doğal ışıkla ayırt edilebilsin.
+
+Oyunun simgesi olacak DEVICE’ı son derece yüksek kalitede üretin.
+
+DEVICE gövdesi:
+
+Siyah metal ve camdan oluşan, yaklaşık 20–30 cm boyutlarında bir küp.
+
+Her yüzünde farklı bir mekanik yapı bulunur.
+
+Birleşim yerleri son derece hassastır.
+
+İçeriden hafif beyaz veya mavimsi beyaz bir ışık sızar.
+
+Oyuncunun hareketleriyle iç yapı fiziksel olarak şekil değiştirir, döner ve açılır.
+
+Dokunsal bir tıklama hissi veren mekanik animasyonlar kullanın.
+
+Temel oyun ekranı
+
+DEVICE, dikey ekranın merkezinde yer alır.
+
+Oyuncu DEVICE’ı sürükleyerek döndürür ve her yüzünü inceler.
+
+Çevrede araştırma tesisi bulunur.
+
+Kamera sinematik olmalı, ancak kontrol edilebilirliği bozmamalıdır.
+
+Temel UI minimal olsun.
+
+Ekranda sürekli çok sayıda düğme göstermeyin.
+
+Öncelik, DEVICE’a dokunup onu kontrol etme hissi olmalı.
+
+Çekirdek sistemler
+
+Aşağıdaki özellikleri bağımsız mini oyunlara ayırmadan, aynı oyun dünyasının giriş sistemleri olarak birleştirin.
+
+1. Dokunma
+
+Tek dokunuş
+Çift dokunuş
+Uzun basma
+Sürükleme
+Kaydırma
+Pinch
+İki parmak
+Üç parmak
+Birden fazla noktaya aynı anda basma
+
+kontrollerini destekleyin.
+
+DEVICE’ın düğmelerine, kollarına, döner halkalarına ve kadranlarına doğrudan dokunarak etkileşim kurun.
+
+2. Jiroskop
+
+Akıllı telefonun eğimini DEVICE içindeki yerçekimiyle eşleştirin.
+
+Örnekler:
+
+İçerideki metal küreyi yalnızca telefonu eğerek hedefe götürmek.
+
+Sıvıyı eğerek elektrotlarla temas ettirmek.
+
+Işınların açısını ayarlamak.
+
+3. İvmeölçer
+
+Cihazı sallamak.
+
+Aniden durdurmak.
+
+Hafifçe vurur gibi yapılan hareketleri algılamak.
+
+Ancak oyuncudan telefonu aşırı sert sallamasını istemeyin.
+
+Güvenliği gözetin.
+
+4. Cihaz yönü
+
+Portrait
+Landscape
+Face Up
+Face Down
+
+gibi durumları oyuna yansıtın.
+
+Telefonu masaya yüzüstü bırakınca gerçekleşen etkinlikler tasarlayın.
+
+5. Kamera
+
+Gerçek dünyanın renklerini oyuna aktarın.
+
+Oyuncu kamerayla kırmızı, mavi veya yeşil bir nesneyi gösterdiğinde, ekranın merkez çevresindeki baskın rengi analiz edip DEVICE’a enerji olarak gönderin.
+
+Görüntünün kendisini sunucuya göndermeyin.
+
+İşlemleri mümkün olduğunca cihaz üzerinde gerçekleştirin.
+
+Kamera kullanılamadığında alternatif bir kontrol yöntemi sunun.
+
+6. Mikrofon
+
+Ses seviyesi
+Süre
+Basit frekans özellikleri
+
+gibi verileri kullanın.
+
+Örnekler:
+
+Üflemek
+Ses çıkarmak
+Alkışlamak
+Belirli bir süre sessiz kalmak
+
+gibi etkileşimler.
+
+Ses tanımayı zorunlu kılmayın.
+
+Kayıt verilerini saklamayın.
+
+7. Haptikler / titreşim
+
+Çok önemli.
+
+Ekranda gösterilmeyen bilgilerin yalnızca titreşimle aktarıldığı bölümler tasarlayın.
+
+Örnekler:
+
+Hedefe yaklaştıkça titreşim aralığının kısalması.
+
+Sağ ve sol için farklı titreşim desenleri.
+
+Kısa ve uzun titreşimlerle oluşturulan bir şifre.
+
+Titreşimi kapalı cihazlar için alternatif bir görsel gösterim de sunun.
+
+8. Hoparlör
+
+Üç boyutlu ses yönünü kullanın.
+
+Kulaklık kullanımını zorunlu tutmayın.
+
+Ses perdesi, periyot ve sağ-sol konumlandırmayı bulmaca bilgisi olarak kullanın.
+
+9. Parlaklık
+
+Mümkünse ortam ışığı sensörünü kullanın.
+
+Bu sensörü desteklemeyen cihazlarda kamera parlaklığı gibi alternatifleri değerlendirin.
+
+Karanlık bir ortama geçince ortaya çıkan mekanizmalar.
+
+Aydınlık bir ortama geçince şarj olan mekanizmalar.
+
+10. Pusula
+
+Destekleyen cihazlarda yön bilgisini alın.
+
+Akıllı telefonu kuzeye, güneye veya belirli bir yöne çevirtmeyi gerektiren bulmacalar tasarlayın.
+
+Sensör bulunmuyorsa alternatif bulmacaya geçin.
+
+11. Şarj durumu
+
+Cihazın şarj edilmeye başladığını algılamak mümkünse,
+
+gerçek bir şarj kablosu takıldığında DEVICE’a güç aktarıldığını gösteren bir sekans ekleyin.
+
+Ancak bu işlemi yapamayan kullanıcılar için mutlaka alternatif bir tamamlama yöntemi sunun.
+
+12. Pil
+
+Pil seviyesi alınabiliyorsa özel etkinliklerde kullanın.
+
+Pil seviyesine bağlı olarak bulmacanın çözülemez hâle gelmesi yasaktır.
+
+13. Saat
+
+Geçerli saati özel bulmacalarda veya görsel-işitsel efektlerde kullanabilirsiniz.
+
+Yalnızca belirli bir saatte çözülebilen tasarımlar yasaktır.
+
+Oyuncuyu beklemeye zorlamayın.
+
+Bulmaca tasarımı
+
+Başlangıçta 100 tane yüzeysel bulmaca üretmek yerine,
+
+önce yaklaşık 20–30 adet, son derece yüksek kaliteli bölüm oluşturun.
+
+Her bölüm farklı bir keşif sunmalı.
+
+Aynı hareketi yalnızca sayıları değiştirerek tekrarlayan bölümler kullanmayın.
+
+Bölüm 1: TOUCH
+
+Dokunmatik kontroller üzerinden oyun kurallarını öğretin.
+
+DEVICE’a dokunmak.
+Döndürmek.
+Bastırmak.
+Çekmek.
+Açmak.
+
+Bölüm 2: GRAVITY
+
+Jiroskop ve ivmeyi tanıtın.
+
+DEVICE içindeki fizik dünyası ile gerçek akıllı telefonun yönelimi senkronize olsun.
+
+Bölüm 3: SENSE
+
+Kamera
+Mikrofon
+Işık
+Ses
+Titreşim
+
+özelliklerini tanıtın.
+
+Bölüm 4: OUTSIDE
+
+Oyuncunun dikkatini ekranın dışına yönelten bulmacalar.
+
+Telefonu yüzüstü bırakmak.
+Sabit tutmak.
+Yönü hizalamak.
+Çevredeki rengi algılamak.
+
+Bölüm 5: DEVICE
+
+O zamana kadar öğrenilen kuralları birleştirin.
+
+Ekranda görünen talimatlar her zaman doğru olmayabilir.
+
+Örnek:
+
+Ekranda
+
+SHAKE
+
+yazısı görünür.
+
+Ancak cihazı sallamak başarısızlığa yol açar.
+
+Doğru çözüm, cihazı tamamen sabit tutmaktır.
+
+Başka bir bulmacada
+
+MORE LIGHT
+
+yazısı görünür.
+
+Ekran parlaklığını artırmak tepki vermez.
+
+Kameraya gerçek dünyadan ışık almak bulmacayı çözer.
+
+Son bölümde,
+
+dokunma
+cihaz yönü
+jiroskop
+titreşim
+ses
+gerçek dünya girdileri
+
+gibi birden çok unsuru birleştiren büyük bir bulmaca tasarlayın.
+
+Mutlaka uygulanması gereken örnek bölümler
+
+“Karanlık labirent”
+
+Ekran neredeyse tamamen kararır.
+
+Oyuncu konumunu göremez.
+
+Akıllı telefonu eğerek görünmeyen bir küreyi hareket ettirir.
+
+Çıkışa yaklaştıkça titreşim güçlenir ve hızlanır.
+
+Sonunda oyuncu yalnızca titreşim hissiyle hedefe ulaşır.
+
+Erişilebilirlik ayarlarında sesli yardım da etkinleştirilebilir.
+
+“DON’T LOOK”
+
+DEVICE’ın ekranında,
+
+DON’T LOOK
+
+yazısı görünür.
+
+Oyuncu telefonu yüzüstü bırakır.
+
+Face Down algılandığında, cihaz görünmez durumdayken DEVICE’ın içinden mekanik sesler gelir.
+
+Birkaç saniye sonra telefon çevrildiğinde DEVICE şekil değiştirmiştir.
+
+“STEAL COLOR”
+
+DEVICE’ın içinde renksiz bir enerji çekirdeği bulunur.
+
+Kamerayla gerçek dünyadaki kırmızı, mavi veya yeşil renkler taranır.
+
+Taranan renk, gerçek zamanlı olarak sıvı enerji biçiminde DEVICE’ın içine akar.
+
+“STAY STILL”
+
+DEVICE şiddetle titreşmektedir.
+
+Oyuncu önce telefonu sallamak ister.
+
+Ancak doğru çözüm cihazı tamamen sabit tutmaktır.
+
+İvme belirli bir süre eşik değerin altında kaldığında aygıt dengelenerek açılır.
+
+“POWER”
+
+DEVICE tamamen durur.
+
+Destekleyen cihazlarda telefon şarja takıldığında DEVICE’a elektrik akar.
+
+Metal kablolar sırayla ışıldar ve iç mekanizma yeniden başlar.
+
+Alternatif bir kontrol de sunun.
+
+DEVICE içindeki fiziksel gösterim
+
+Fizik hesaplamalarını etkin biçimde kullanın.
+
+Metal küreler
+Sıvı
+Yerçekimi
+Mıknatıslar
+Dişliler
+Raylar
+Yansıtıcı paneller
+Lazerler
+Döner halkalar
+Silindirler
+Pistonlar
+Kilit mekanizmaları
+Cam
+Elektrotlar
+Kablolar
+
+gibi unsurlar kullanın.
+
+Ancak sistemi “fizik hesaplamasına bırakılmış, kararsız” bir yapıya dönüştürmeyin.
+
+Önemli bulmacalarda kontrollü fizik işlemleri kullanın ve sonuçların tekrarlanabilir olmasını sağlayın.
+
+Görsel-işitsel sunum
+
+Bulmaca çözüldüğünde yalnızca basit bir “CLEAR” yazısı göstermeyin.
+
+DEVICE’ın kendisi şekil değiştirerek yanıt versin.
+
+Kilit açılması
+Dişlilerin dönmesi
+İç aydınlatma
+Metal panellerin ayrılması
+Camın içindeki sıvının hareketi
+Mekanik kolların açılması
+
+gibi efektleri birleştirin.
+
+Doğru çözüm anında,
+
+“devasa bir hassas aygıtı kendi elleriyle çalıştırmış olma”
+
+tatminini verecek bir sunum tasarlayın.
+
+Ses
+
+Çok önemli.
+
+Yalnızca sürekli BGM çalmakla yetinmeyin.
+
+Araştırma tesisinin havalandırma sesi
+Uzaktaki makine sesleri
+DEVICE içindeki servo sesleri
+Metal tıklamaları
+Cam
+Elektrik
+Manyetik sesler
+Düşük frekanslı
+Titreşim
+
+gibi katmanlar kullanın.
+
+DEVICE’a dokunulan bölgeye göre ses değişsin.
+
+Kulaklık kullanıldığında yön hissini güçlendirin.
+
+UI
+
+UI’ı mümkün olduğunca oyun dünyasına entegre edin.
+
+Ucuz mobil oyun tarzında düğmeler sıralamayın.
+
+Menü:
+
+CONTINUE
+CHAPTERS
+SETTINGS
+ACCESSIBILITY
+CREDITS
+
+düzeyinde.
+
+Bulmaca sırasındaki ipuçlarını DEVICE içindeki ekranlar veya yansıtılan yazılar olarak gösterin.
+
+İpucu sistemi
+
+Oyuncu takıldığında çözümü hemen göstermeyin.
+
+İpucu 1:
+Dikkat edilmesi gereken yer.
+
+İpucu 2:
+Kullanılacak telefon özelliği.
+
+İpucu 3:
+Çözüme neredeyse ulaşan yönlendirme.
+
+olmak üzere üç aşamalı bir sistem kurun.
+
+Erişilebilirlik
+
+Sensörleri yoğun kullanan bir oyun olduğu için özellikle önemlidir.
+
+Aşağıdakileri uygulayın.
+
+Titreşimi sese veya ekran gösterimine dönüştürebilin.
+
+Ses bulmacaları için görsel yardım sunun.
+
+Renk bulmacaları için renk görme desteği ekleyin.
+
+Güç gerektiren cihaz hareketleri istemeyin.
+
+Akıllı telefonu sert biçimde sallama zorunluluğunu kaldırın.
+
+Kamera, mikrofon veya pusula kullanılamadığında alternatif bulmacalar sunun.
+
+Bazı sensörlere erişim reddedilse bile oyunun ilerlemesini engellemeyin.
+
+Gizlilik
+
+Kamera görüntülerini, mikrofon seslerini veya konum bilgilerini harici sunuculara göndermeyin.
+
+Oyunun ilerlemesi için GPS’i zorunlu kılmayın.
+
+Gerekli izinleri, kullanılmadan hemen önce neden gerektiğini açıklayarak isteyin.
+
+Gereksiz izin istemeyin.
+
+Teknik yapı
+
+Mümkünse Unity 6 serisi + C# kullanın.
+
+Mobil odaklı URP.
+
+Projeyi modüler hâle getirin.
+
+En azından aşağıdaki yapıyı oluşturun.
+
+SensorManager
+PuzzleManager
+GameStateManager
+AudioManager
+HapticsManager
+PermissionManager
+SaveManager
+AccessibilityManager
+DeviceCapabilityManager
+
+Her akıllı telefon özelliğini bulmaca kodundan doğrudan tekrar tekrar çağırmayın.
+
+SensorManager gibi katmanlarla soyutlayın ve
+
+gerçek cihaz sensörleri
+editör için sahte girdiler
+desteklenmeyen cihazlar için fallback
+
+arasında geçiş yapılabilmesini sağlayın.
+
+Sensör hata ayıklama
+
+Unity Editor’da da geliştirilebilmesi için
+
+Developer Sensor Panel
+
+uygulayın.
+
+Kaydırıcılar ve düğmelerle
+
+cihaz eğimi
+ivme
+Face Up / Face Down
+mikrofon ses seviyesi
+ortam ışığı
+pusula
+şarj AÇIK/KAPALI
+pil
+titreşim etkinlikleri
+kameranın baskın rengi
+
+gibi sahte girdiler oluşturulabilsin.
+
+Ana bulmacaların gerçek cihaz bağlanmadan test edilebilmesini sağlayın.
+
+Kayıt sistemi
+
+Bölüm ilerlemesi
+Tamamlanan bölümler
+İpucu kullanım durumu
+Ayarlar
+Erişilebilirlik
+Toplanabilirler
+
+kaydedilsin.
+
+Oyuncu bölümün ortasında güvenle oyundan çıkabilsin.
+
+Performans
+
+Fotogerçekçilik gerekçesiyle oyunu çalışamaz hâle getirmeyin.
+
+Orta sınıf Android cihazlarda da oynanabilen bir yapı hedefleyin.
+
+LOD
+Occlusion Culling
+GPU Instancing
+Texture sıkıştırma
+ışık bake işlemi
+Reflection Probe
+yalnızca gerekli alanlarda gerçek zamanlı ışık
+nesne havuzu
+Draw Call azaltma
+
+gibi teknikleri kullanın.
+
+Quality ayarlarını
+
+LOW
+MEDIUM
+HIGH
+ULTRA
+
+seviyelerine ayırın.
+
+Yüksek performanslı cihazlarda oldukça kaliteli bir görüntü sunun.
+
+Tamamlanma koşulları
+
+Basit bir prototip değil,
+
+başlık ekranı
+giriş
+öğretici
+birden fazla bölüm
+birden fazla aşama
+sensör girdileri
+3B sunum
+ses
+ayarlar
+erişilebilirlik
+kayıt
+bölüm seçimi
+final
+
+dâhil olmak üzere baştan sona oynanabilen bir oyun hedefleyin.
+
+Mümkünse gerçek bir Android derlemesi oluşturun.
+
+Derleme ortamı kısıtları nedeniyle APK/AAB oluşturulamasa bile,
+
+Unity’de açıldığında doğrudan derlenebilecek eksiksiz bir proje hâline getirin.
+
+Geliştirme kararları
+
+“Kolay olduğu için” 2B’ye veya basit bir UI’a geçmeyin.
+
+“Zaman kazanmak” için oyunun merkezindeki mekanizmaları çıkarmayın.
+
+Harici varlıklar sağlanamıyorsa mümkün olduğunca kendiniz üretin veya prosedürel olarak oluşturun.
+
+Yer tutucu gerekiyorsa bile oyunun tamamını yer tutucularla doldurmayın.
+
+Özellikle
+
+DEVICE
+araştırma tesisi
+ana bulmaca aygıtları
+ışıklandırma
+materyaller
+çözüm sunumu
+
+yüksek kalitede hazırlanmalıdır.
+
+Çalışma akışı
+
+Önce kısa sürede genel tasarımı kesinleştirin.
+
+Ardından açıklamayı sürdürmek yerine geliştirmeye geçin.
+
+1. Proje oluşturma
+2. Temel 3B sahne
+3. DEVICE oluşturma
+4. Temel kontroller
+5. Sensör soyutlama
+6. Bulmaca çatısı
+7. Örnek bulmacaların uygulanması
+8. Bölümlerin oluşturulması
+9. UI
+10. Ses
+11. Sunum efektleri
+12. Kayıt
+13. Erişilebilirlik
+14. Optimizasyon
+15. Test
+16. Düzeltmeler
+17. Derleme
+
+sırasıyla ilerleyin.
+
+Bir bölüm başarısız olsa bile tüm çalışmayı durdurmayın; alternatif yöntemlerle kaliteyi en üst düzeye çıkarın.
+
+Son ürünler
+
+Sonuçta aşağıdakileri teslim edin.
+
+• Eksiksiz oyun projesi
+• Ana kaynak kodu
+• Oyun sahneleri
+• 3B modeller ve materyaller
+• UI
+• Ses ayarları
+• Sensör sistemi
+• Bulmaca sistemi
+• Kayıt sistemi
+• Derleme ayarları
+• README
+• Android gerçek cihaz test talimatları
+• Kullanılan akıllı telefon özelliklerinin listesi
+• Desteklenmeyen cihazlar için fallback özellikleri
+• Bilinen sorunlar listesi
+
+Ürünleri oluşturmadan yalnızca açıklama yapıp bitirmek yasaktır.
+
+Öncelik sırası:
+
+1. Eğlenceli olması
+2. Akıllı telefona özgü olması
+3. 3B dünyanın gerçekçiliği
+4. DEVICE’a dokunma hissi
+5. Bulmaca olarak ikna edici olması
+6. Gerçekten çalışması
+
+olmalıdır.
+
+Bu, “mevcut bir mobil oyuna sensör özellikleri eklenmiş” bir çalışma değil;
+
+akıllı telefon donanımının sanki özellikle bu oyun için var olduğu hissini veren bir eser olsun.
+
+Buradan itibaren yalnızca proje açıklamasında kalmayın ve gerçek geliştirmeye başlayın.
+
+Ayrıca yukarıdaki içeriği daha da iyileştirecek veya daha eğlenceli hâle getirecek unsurları mutlaka ekleyin; 3B görselleri gerçekçi üretin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098715488369152087) · [Orijinal gönderi](https://x.com/00Nekonet/status/2098715488369152087) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="2098739181510164652"></a>
 
 ### Skybound tarayıcı uçuş oyunu
@@ -2369,6 +2991,26 @@ Three.js kullanarak Skybound adlı bir tarayıcı uçuş oyunu oluşturun. Oyunc
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098739181510164652) · [Orijinal gönderi](https://x.com/Kanojiyaaakash1/status/2098739181510164652) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2098749876620415165"></a>
+
+### 3B yarış oyunu oluştur
+
+[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098749876620415165"><img src="../assets/previews/3f69cf45c6957d71b74c7a2423d21a5d09b5aa2fc3aedfebbaa52cbbaf2b1981.jpg" width="840" loading="lazy" alt="3B yarış oyunu oluştur"></a>
+
+Kök yazarın açıkladığı ilk testten alınan, görselleri üretilmiş, modellenmiş ve bağlantıları kurulmuş oynanabilir bir 3B yarış oyunu isteyen kelimesi kelimesine prompt.
+
+**İstem**
+
+```text
+3B bir yarış oyunu oluştur. Modelini oluştur. Görselleri üret. Tüm parçaları birbirine bağla.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098749876620415165) · [Orijinal gönderi](https://x.com/JulianGoldieSEO/status/2098749876620415165) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -2409,6 +3051,54 @@ Fuarla ilgili 2.000 tarihî fotoğrafı ve referans bilgilerini indirin; elde ed
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098795017955418202) · [Orijinal gönderi](https://x.com/moreisdifferent/status/2098795017955418202) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2098831830002851846"></a>
+
+### Kinetik Kum Masası Simülasyonu
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098831830002851846"><img src="../assets/previews/e178ff73b0358cd937e45c3130f36c81129c54273c173166e3358c8d9c829b01.jpg" width="840" loading="lazy" alt="Kinetik Kum Masası Simülasyonu"></a>
+
+Paylaşım yazarı tarafından, GPT-6 Astra ve Fable 5.1’e gönderilen açık istemin aynısı olarak sunulan, yeniden kullanılabilir bir istem. Tek bir HTML dosyasında kendi kendine çalışan bir kinetik kum masası simülasyonu oluşturulmasını ister: Bir top, kumun üzerinde tekrarlanmayan geometrik desenler çizer, ardından yüzeyi düzleştirerek yeni bir desene başlar.
+
+**İstem**
+
+```text
+Kinetik kum masası simülasyonu oluştur. Bir top kum yatağının üzerinde hareket ederek görünür bir iz bırakmalı, eksiksiz geometrik desenler çizmeli, ardından kumu düzleştirip otomatik olarak yeni ve farklı bir desene başlamalıdır. Tekrarlamadan çok sayıda farklı desen arasında geçiş yapmalıdır. Görünüm ve desenlerle ilgili her şeyi sen seç.
+
+Tasarımın her kararını sen ver: stil, renkler, atmosfer, ortam, kamera, ayrıntı düzeyi ve diğer ek dokunuşlar. Bana hiçbir soru sorma; tüm seçimleri kendin yap ve tek denemede mümkün olan en etkileyici sürümü oluştur.
+
+Teknik gereksinimler: Harici model, görsel, ses veya herhangi bir varlık URL’si içermeyen, tamamen kendi içinde çalışan tek bir HTML dosyası kullan (CDN üzerinden alınan bir JavaScript kütüphanesi kullanılabilir). Sayfa yüklendiği anda, tıklama gerektirmeden kendi kendine çalışmaya başlamalı ve konsol hatası vermeden akıcı biçimde çalışmalıdır.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098831830002851846) · [Orijinal gönderi](https://x.com/free_ai_guides/status/2098831830002851846) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2098909584996057283"></a>
+
+### Kendi kendine katlanan 3B origami animasyonu
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-12
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098909584996057283"><img src="../assets/previews/0cc6124463ff4763f52e30ffedab873b5e44d45017274f8f06188f3a7d110712.jpg" width="840" loading="lazy" alt="Kendi kendine katlanan 3B origami animasyonu"></a>
+
+Yazar, bu açık promptun aynısının GPT-6 Astra ve Fable 5.1'e verildiğini söylüyor. Prompt; kare bir kâğıdın belirgin biçimde kırışıp döndüğü, kolayca tanınan bir katlama dizisini izlediği, ardından açılıp tekrarlandığı, kendi kendine çalışan bir 3B origami animasyonu talep ediyor.
+
+**İstem**
+
+```text
+3B bir origami animasyonu oluştur. Düz kare bir kâğıt, her katlamanın kâğıtta gerçek bir kırışma ve dönme hareketi olarak gösterildiği, adım adım tanınabilir bir origami figürüne dönüşmeli; ardından yeniden düz hâline açılmalı ve bu döngü tekrarlanmalı. Dönüşeceği figürü ve tüm sunum biçimini sen belirle.
+
+Tasarımın her unsuru senin kararın: stil, renkler, atmosfer, ortam, kamera, ayrıntı düzeyi ve ek dokunuşlar. Bana soru sorma; tüm seçimleri kendin yap ve tek seferde mümkün olan en etkileyici sürümü oluştur.
+
+Teknik gereksinimler: Tek ve kendi içinde çalışan bir HTML dosyası kullan; harici model, görsel, ses veya herhangi bir türde varlık URL'si kullanma (CDN'den alınan bir JavaScript kütüphanesi kullanılabilir). Sayfa yüklendiği anda tıklama gerektirmeden kendiliğinden çalışmaya başlamalı ve konsol hatası olmadan akıcı biçimde çalışmalı.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098909584996057283) · [Orijinal gönderi](https://x.com/free_ai_guides/status/2098909584996057283) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -2484,24 +3174,6 @@ Bir Tripo karakterinin ifade varyantlarını rig oluşturmadan önce Blender’d
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [Orijinal gönderi](https://x.com/Dstudio_ai/status/2096525100518453342) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096308567863079420"></a>
-
-### Unity’de Warcraft esintili karakter sahnesi
-
-[Lucca Cerf ➔ Pluma Finance](https://x.com/luccacerf) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420"><img src="../assets/previews/b6aa0b916788e64af33eff01ad8591efe62843e7ad986e9657eb5b31ce48b855.webp" width="840" loading="lazy" alt="Unity’de Warcraft esintili karakter sahnesi"></a>
-
-**İstem**
-
-```text
-Astra, Tripo P2, Blender ve Unity ile Warcraft esintili bir karakter sahnesi oluşturun. Karakter varlığını üretin, Blender’da hazırlayın ve Unity’de oynanabilir bir sahne kurun.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420) · [Orijinal gönderi](https://x.com/luccacerf/status/2096308567863079420) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -2649,24 +3321,6 @@ Bir evin en üst kat planını kullanarak Blender sahnesi oluşturun ve düşük
 
 ---
 
-<a id="2096298425914450021"></a>
-
-### Lizbon’daki Terreiro do Paço Blender’da
-
-[Gonçalo Canhoto 🇵🇹](https://x.com/goncalo_canhoto) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021"><img src="../assets/previews/1a02f9822127ff717210634691346b1137e87f5e721498e19a61a744e480a3be.webp" width="840" loading="lazy" alt="Lizbon’daki Terreiro do Paço Blender’da"></a>
-
-**İstem**
-
-```text
-Lizbon’daki Terreiro do Paço’yu düzenlenebilir bir Blender sahnesi olarak yeniden oluşturun. Meydanın mimarisini, malzemelerini ve aydınlatmasını belirlemek için referans araştırması yapın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021) · [Orijinal gönderi](https://x.com/goncalo_canhoto/status/2096298425914450021) · [Örneklere dön](#all-prompts)
-
----
-
 <a id="2096574297703637111"></a>
 
 ### The Quiet Crossing keşif macerası
@@ -2682,24 +3336,6 @@ Blender karakteri, voksel çam ağaçları ve taş bir geçit içeren karlı bir
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111) · [Orijinal gönderi](https://x.com/Motion_Viz/status/2096574297703637111) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096263046918197609"></a>
-
-### Three.js ile yoğun prosedürel orman
-
-[Leon Lin](https://x.com/LexnLin) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609"><img src="../assets/previews/f2a686fc1b131953cac41cec39c2492f871a7987eae5f2606755fddb83401adb.webp" width="840" loading="lazy" alt="Three.js ile yoğun prosedürel orman"></a>
-
-**İstem**
-
-```text
-Binlerce ağaç, sık çimenler ve eğrelti otları içeren ayrıntılı bir Three.js ormanı oluşturun. Sahnenin tamamındaki ayrıntıyı korumak için özel shader’lar ve verimli geometri tekrarı kullanın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609) · [Orijinal gönderi](https://x.com/LexnLin/status/2096263046918197609) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3117,28 +3753,10 @@ Tripo P2 ile optimize edilmiş 3D varlıklar üretin, bunları Blender’da birl
 
 ---
 
-<a id="2096269057544831175"></a>
-
-### Biyolüminesanslı derin deniz açılış sayfası
-
-[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175"><img src="../assets/previews/15b86aef756eda74957965d57ff6104a61d7fcc04cad37581a49726ef5f363aa.webp" width="840" loading="lazy" alt="Biyolüminesanslı derin deniz açılış sayfası"></a>
-
-**İstem**
-
-```text
-Three.js su efektleri, koyu cam görünümlü arayüz ve kaydırmaya bağlı hareketlerle bir derin deniz açılış sayfası oluşturun. 3D atmosferi, anlaşılır ve farklı ekranlara uyum sağlayan web etkileşimleriyle birleştirin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175) · [Orijinal gönderi](https://x.com/himanshubuildss/status/2096269057544831175) · [Örneklere dön](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 216 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 222 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>
