@@ -26,13 +26,12 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**214 · Prompt Astra mới nhất**
+**216 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/featured/2096251574918013135.webp" width="420" loading="lazy" alt="Kaiju giao chiến trong thành phố"></a><br><strong><a href="#2096251574918013135">Kaiju giao chiến trong thành phố</a></strong><br><sub><a href="https://x.com/majidmanzarpour/status/2096251574918013135">Majid Manzarpour</a></sub><br><a href="#2096251574918013135">Prompt →</a></td>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/featured/2096525100518453342.webp" width="420" loading="lazy" alt="Chuyển đổi biểu cảm nhân vật trong Blender"></a><br><strong><a href="#2096525100518453342">Chuyển đổi biểu cảm nhân vật trong Blender</a></strong><br><sub><a href="https://x.com/Dstudio_ai/status/2096525100518453342">Nano(ナノ)</a></sub><br><a href="#2096525100518453342">Prompt →</a></td>
 </tr>
 </table>
@@ -101,13 +100,13 @@
 - [Tự động tạo và chuyển texture tóc, khuôn mặt cho model nhân vật](#2098367087475577273)
 - [Cảnh mô hình thu nhỏ 3D dạng lập thể của ngôi đền](#2098403061463224543)
 - [Mô hình bé gái chơi robot](#2098406473273663992)
+- [Hồ cá koi 3D tương tác](#2098492771170722032)
 - [Video trình diễn dựng 3D “Thiền cảnh · Cổ tự”](#2098697876155076820)
 - [Trò chơi bay Skybound trên trình duyệt](#2098739181510164652)
 - [Khung ảnh in 3D dạng lắp ghép có khớp nối](#2098774359926297011)
 - [Tái dựng 3D Hội chợ Thế giới Chicago năm 1893](#2098795017955418202)
-- [Kaiju giao chiến trong thành phố](#2096251574918013135)
+- [Triển khai UV và bake lại 4K cho mô hình quần áo không có đầu](#2098980384260456813)
 - [Chuyển đổi biểu cảm nhân vật trong Blender](#2096525100518453342)
-- [Vật lý đua xe trình duyệt bằng C# và WASM](#2096258619574513880)
 - [Cảnh nhân vật lấy cảm hứng từ Warcraft trong Unity](#2096308567863079420)
 - [Bàn cờ shogi 3D có thể xoay](#2096579856133947507)
 - [Bản đồ tháo rời linh kiện máy tính để bàn](#2096578761877860502)
@@ -2293,6 +2292,40 @@ Mô hình bé gái chơi robot được lắp ráp hoàn chỉnh, đội mũ cô
 
 ---
 
+<a id="2098492771170722032"></a>
+
+### Hồ cá koi 3D tương tác
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-11
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098492771170722032"><img src="../assets/previews/19d5a2e2e5f9d34380e74a89c0dd5e13503b6da32d02c813e31e7f8c453d9220.jpg" width="840" loading="lazy" alt="Hồ cá koi 3D tương tác"></a>
+
+Tạo một hồ cá koi tương tác toàn màn hình bằng Three.js và WebGL, với thao tác kéo thả để thả cá, gợn sóng, mưa, xoáy nước ảnh hưởng đến cá, bộ điều khiển thích ứng và hiệu ứng âm thanh nước bằng Web Audio.
+
+**Prompt**
+
+```text
+Xây dựng một hồ cá koi 3D tương tác, đẹp mắt và hiển thị toàn màn hình bằng Three.js + WebGL. Sử dụng góc nhìn từ trên xuống, mặt nước xanh ngọc trong, ánh nắng, hiệu ứng caustics động trên đáy hồ và cảm giác chiều sâu chân thực.
+
+Đặt một bảng chọn trong suốt, tinh tế ở phía dưới với bốn giống cá koi: Kohaku, Showa, Golden Ogon và Platinum. Nhấp vào thẻ để thả cá đó vào hồ. Kéo cá từ thẻ cho phép người dùng chọn chính xác vị trí thả cá.
+
+Tạo cảm giác thỏa mãn cho mỗi lần cá chạm mặt nước: nước bắn tung tóe kèm giọt nước, mặt nước lõm xuống trong chốc lát rồi các vòng gợn lan rộng. Sau đó, cá phải lặn xuống dưới mặt nước. Sử dụng khúc xạ và các dấu hiệu chiều sâu để cá koi trông rõ ràng như đang ở dưới nước.
+
+Tạo cá koi 3D chi tiết với mắt, vảy, vây và đuôi mềm mại. Hoạt ảnh của thân, đuôi và vây phải phối hợp nhịp nhàng. Mỗi con cá tự thay đổi hướng và tốc độ, chuyển hướng mượt mà khi đến gần ranh giới, đồng thời tránh các cá khác.
+
+Cho phép người dùng chạm và kéo trên mặt nước để tạo gợn sóng. Thêm mưa và một xoáy nước có thể di chuyển, với dòng chảy ảnh hưởng đến cá. Bao gồm các tùy chọn Calm, Clear pond và một nút điều khiển để ẩn giao diện khi quay màn hình.
+
+Sử dụng Web Audio để tạo âm thanh nước bắn khi cá chạm hồ, những giọt âm thanh du dương nhẹ, tiếng nước êm dịu khi cá bơi, tiếng mưa và âm thanh xoáy nước. Bật âm thanh bằng nút Sound, giảm âm lượng mượt mà khi tắt tiếng và tạm dừng âm thanh khi tab trình duyệt bị ẩn.
+
+Giữ tất cả nhãn và nút bằng tiếng Anh. Thiết kế bố cục thích ứng cho thiết bị di động. Tối ưu quá trình kết xuất và hoạt ảnh để hoạt động mượt mà với vài chục con cá.
+
+Cung cấp một website hoàn chỉnh, hoạt động ổn định, có hình ảnh trau chuốt và các tương tác đầy đủ chức năng.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098492771170722032) · [Bài đăng gốc](https://x.com/vib3coded/status/2098492771170722032) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="2098697876155076820"></a>
 
 ### Video trình diễn dựng 3D “Thiền cảnh · Cổ tự”
@@ -2395,21 +2428,60 @@ Tải xuống 2.000 bức ảnh lịch sử và tư liệu tham khảo về hộ
 
 ---
 
-<a id="2096251574918013135"></a>
+<a id="2098980384260456813"></a>
 
-### Kaiju giao chiến trong thành phố
+### Triển khai UV và bake lại 4K cho mô hình quần áo không có đầu
 
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05
+[さ🥺](https://x.com/_sagyoai) · 2026-09-13
 
-<a href="https://www.tripo3d.ai/vi/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/previews/8f55d646820e4f1f0b98d00cdc85125c79f19093abe73bc0cecdfbf2e2365e50.webp" width="840" loading="lazy" alt="Kaiju giao chiến trong thành phố"></a>
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098980384260456813"><img src="../assets/previews/fef1ae0d7a4818588b5aa244450941a5fc54a6e3707a2985c78021a3b6c8b7c7.jpg" width="840" loading="lazy" alt="Triển khai UV và bake lại 4K cho mô hình quần áo không có đầu"></a>
+
+Prompt này dùng cho mô hình 3D không có đầu, bao gồm quần áo và tay chân đang được chọn: triển khai lại UV theo cách dễ đọc cấu trúc và dễ chỉnh sửa, sau đó bake lại kết cấu hiện có ở độ phân giải 4K. Quy trình bảo toàn dữ liệu cũ, đồng thời thực hiện thiết kế seam, kiểm tra biến dạng, đóng gói và đối chiếu kết quả.
 
 **Prompt**
 
 ```text
-Dựng game Three.js lấy cảm hứng kaiju bằng mô hình sinh vật và hiệu ứng âm thanh đã tạo. Làm chiến đấu quy mô khổng lồ dễ hiểu và môi trường thể hiện rõ kích thước quái vật.
+Trong Blender MCP, hãy thực hiện triển khai UV cho “mô hình không có đầu, bao gồm quần áo và tay chân” đang được chọn, đồng thời bake lại kết cấu hiện có ở độ phân giải 4K.
+
+Mục tiêu là giữ nguyên diện mạo ban đầu và tạo UV có cấu trúc dễ đọc như rập may của quần áo, đồng thời thuận tiện cho việc vẽ lại về sau. Hãy thực hiện theo trình tự như một nghệ sĩ con người: quan sát → thiết kế seam → triển khai theo từng bộ phận → chỉnh biến dạng → sắp xếp → bake.
+
+1. Bảo toàn dữ liệu gốc
+Trước khi bắt đầu, hãy lưu thành tệp mới, giữ lại UV, hình ảnh và vật liệu cũ, đồng thời tạo UV mới có tên “UV\_Final”.
+Không được thay đổi hình dạng, topology, thứ tự đỉnh, weight, shape key hoặc rig.
+
+2. Quan sát mô hình và thiết kế seam
+Kiểm tra mọi hướng bằng chế độ hiển thị kết cấu gốc và wireframe để nắm được cấu trúc các bộ phận quần áo cũng như đường may thực tế.
+Với quần áo, hãy mở seam theo cấu trúc rập may của thân áo, tay áo, cổ áo và các bộ phận tương tự, tận dụng đường sườn hoặc mặt trong tay áo. Với da và tay chân, đặt seam ở những vị trí ít замет thấy như mặt trong hoặc mặt bên, đồng thời mở phần giữa các ngón tay một cách tự nhiên, không gây biến dạng.
+Không nhầm nếp nhăn hoặc hình in với đường may, và không tạo các island nhỏ bị chia vụn không cần thiết.
+
+3. Triển khai theo từng bộ phận và chỉnh biến dạng
+Không xử lý toàn bộ mô hình cùng lúc; hãy Unwrap theo từng bộ phận.
+Dùng checker có chữ tham chiếu đến UV\_Final cùng chế độ hiển thị Stretch để kiểm tra độ kéo giãn, co nén, xoắn, lật và chồng lấp.
+Tùy theo nguyên nhân, hãy thêm hoặc gỡ seam, điều chỉnh bằng Pin, Relax và các công cụ tương tự, rồi kiểm tra lại. Không chỉ lặp lại cùng một thao tác triển khai tự động; hãy giữ nguyên các bộ phận đã được cải thiện.
+Không dùng Smart UV Project để tự động chia nhỏ toàn bộ mô hình rồi coi đó là sản phẩm hoàn thiện.
+
+4. Căn chỉnh hướng sợi vải, mật độ và bố cục
+Đối với quần áo, hãy căn hướng dọc cơ bản theo hướng sợi vải của từng bộ phận vào hướng V của UV. Không cố ép những phần rập có đường cong thành hình chữ nhật.
+Đồng nhất mật độ texel theo kích thước thực, đồng thời sắp xếp hướng sao cho dễ nhận biết các phần đối xứng trái và phải.
+Sau đó, đóng gói vào vùng 0–1 trong khi giữ nguyên hướng và tỷ lệ tương đối. Không được tự ý xoay hoặc chồng UV đối xứng trái phải lên nhau.
+Làm mốc ban đầu cho ảnh 4K: lề bake 16px, khoảng cách giữa các island từ 32px trở lên và khoảng cách từ island đến mép ảnh từ 16px trở lên.
+
+5. Bake 4K từ UV cũ sang UV mới
+Cố định rõ nguồn tham chiếu của kết cấu gốc vào UV cũ, dùng UV\_Final làm UV đích và chuyển dữ liệu sang ảnh mới kích thước 4096×4096.
+Trong từng vật liệu, hãy kích hoạt node ảnh đích để bake, thực hiện bake thử trước rồi mới bake chính thức.
+Với base color, chỉ sử dụng Color của Diffuse hoặc Emit; không bake thêm ánh sáng, bóng hoặc AO mới. Giữ nguyên phần đổ bóng đã được vẽ trong ảnh gốc.
+Nếu cần, hãy chuyển cả các map hiện có như alpha; với normal map tangent, hãy bake lại theo UV mới thay vì chỉ chuyển màu đơn thuần.
+
+6. Đối chiếu cũ và mới để xác nhận hoàn thiện
+Áp dụng UV mới và ảnh đã bake, sau đó so sánh toàn thân cùng các chi tiết ở cùng điều kiện hiển thị như bản gốc.
+Kiểm tra vị trí họa tiết, màu sắc, độ trong suốt và tính liên tục của seam; sửa các lỗi UV bị ép, chồng lấp hoặc chưa được triển khai, cũng như các điểm đen, vùng mất dữ liệu và hiện tượng lem do bake.
+Đánh giá mức độ hoàn thiện dựa trên kết quả kiểm tra, không dựa vào “đã triển khai bao nhiêu lần”.
+
+Hãy lưu tệp hoàn thiện.blend, ảnh 4K, bố cục UV và các ảnh kiểm tra seam, checker cùng diện mạo hoàn thiện; sau đó báo cáo ngắn gọn những nội dung đã chỉnh sửa chính.
+Không dừng lại ở việc giải thích kế hoạch; hãy vừa kiểm tra hình ảnh thực tế vừa hoàn tất công việc.
 ```
 
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/kaiju-city-battle-2096251574918013135) · [Bài đăng gốc](https://x.com/majidmanzarpour/status/2096251574918013135) · [Bản demo](https://stormcolossus.netlify.app/) · [Về danh sách ví dụ](#all-prompts)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098980384260456813) · [Bài đăng gốc](https://x.com/_sagyoai/status/2098980384260456813) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -2428,24 +2500,6 @@ Chuẩn bị các phiên bản biểu cảm của nhân vật Tripo trong Blende
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [Bài đăng gốc](https://x.com/Dstudio_ai/status/2096525100518453342) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096258619574513880"></a>
-
-### Vật lý đua xe trình duyệt bằng C# và WASM
-
-[achepta](https://x.com/achepta_tm) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880"><img src="../assets/previews/da595232495fdcdcd646614361e119ff7b780672c6c697364c0197cc19302fd1.webp" width="840" loading="lazy" alt="Vật lý đua xe trình duyệt bằng C# và WASM"></a>
-
-**Prompt**
-
-```text
-Tái tạo hệ vật lý đua xe kiểu Trackmania bằng C#, chạy qua WASM và render đường đua trong Three.js. Dùng mesh đường đua có va chạm và kiểm tra cảm giác lái.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Bài đăng gốc](https://x.com/achepta_tm/status/2096258619574513880) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3100,7 +3154,7 @@ Xây dựng trang đích biển sâu với hiệu ứng nước Three.js, giao d
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 214 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 216 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

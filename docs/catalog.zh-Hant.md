@@ -26,13 +26,12 @@
 **為你的下一個遊戲、場景或互動世界尋找靈感。**
 
 
-**214 · 最新 Astra 提示詞**
+**216 · 最新 Astra 提示詞**
 
 ## 精選作品
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/featured/2096251574918013135.webp" width="420" loading="lazy" alt="怪獸城市戰鬥"></a><br><strong><a href="#2096251574918013135">怪獸城市戰鬥</a></strong><br><sub><a href="https://x.com/majidmanzarpour/status/2096251574918013135">Majid Manzarpour</a></sub><br><a href="#2096251574918013135">提示詞 →</a></td>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/featured/2096525100518453342.webp" width="420" loading="lazy" alt="在 Blender 中切換角色表情"></a><br><strong><a href="#2096525100518453342">在 Blender 中切換角色表情</a></strong><br><sub><a href="https://x.com/Dstudio_ai/status/2096525100518453342">Nano(ナノ)</a></sub><br><a href="#2096525100518453342">提示詞 →</a></td>
 </tr>
 </table>
@@ -101,13 +100,13 @@
 - [角色模型頭髮與臉部貼圖自動生成及 UV 轉寫](#2098367087475577273)
 - [寺廟微縮立體模型場景](#2098403061463224543)
 - [玩機器人的小女孩公仔](#2098406473273663992)
+- [互動式 3D 錦鯉池](#2098492771170722032)
 - [禪境・古寺 3D 建造示範影片](#2098697876155076820)
 - [Skybound 瀏覽器飛行遊戲](#2098739181510164652)
 - [含接頭的分件 3D 列印相框](#2098774359926297011)
 - [1893 年芝加哥世界博覽會 3D 重建](#2098795017955418202)
-- [怪獸城市戰鬥](#2096251574918013135)
+- [無頭服裝模型的 UV 展開與 4K 重新烘焙](#2098980384260456813)
 - [在 Blender 中切換角色表情](#2096525100518453342)
-- [C# 與 WASM 瀏覽器賽車物理](#2096258619574513880)
 - [以《魔獸爭霸》為靈感的 Unity 角色場景](#2096308567863079420)
 - [可旋轉的 3D 將棋棋盤](#2096579856133947507)
 - [桌上型電腦的互動拆解圖鑑](#2096578761877860502)
@@ -2277,6 +2276,40 @@ Blender 中的 12 秒森林小徑
 
 ---
 
+<a id="2098492771170722032"></a>
+
+### 互動式 3D 錦鯉池
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-11
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098492771170722032"><img src="../assets/previews/19d5a2e2e5f9d34380e74a89c0dd5e13503b6da32d02c813e31e7f8c453d9220.jpg" width="840" loading="lazy" alt="互動式 3D 錦鯉池"></a>
+
+建立一個全螢幕互動式 Three.js 與 WebGL 錦鯉池，支援拖曳放入錦鯉、漣漪、下雨、會影響魚群的渦流、響應式控制項，以及 Web Audio 水聲效果。
+
+**提示詞**
+
+```text
+使用 Three.js + WebGL 建立一個精美的全螢幕互動式錦鯉池。採用俯視視角，呈現清澈的青綠色水面、陽光、在池底流動的動態焦散，以及令人信服的景深感。
+
+在底部放置一個優雅的半透明選擇面板，提供四種錦鯉品種：紅白（Kohaku）、昭和（Showa）、黃金（Golden Ogon）與白金（Platinum）。點擊卡片即可將該錦鯉放入池中。從卡片拖曳錦鯉時，讓使用者能精確選擇放置位置。
+
+讓每次入水都帶來令人滿意的回饋：水花與飛濺水滴、水面短暫下陷，以及向外擴散的漣漪。接著讓錦鯉潛入水面下。運用折射與景深線索，清楚呈現錦鯉已經潛入水中的效果。
+
+建立具有眼睛、鱗片、魚鰭與飄逸尾巴的細緻 3D 錦鯉。讓魚身、尾巴與魚鰭協同動畫。每條魚都應獨立改變方向與速度，在接近邊界時平順轉向，並避開其他魚。
+
+讓使用者在水面上觸控並拖曳，以製造漣漪。加入下雨效果與可移動的渦流，其水流會影響魚群。加入 Calm、Clear pond，以及可隱藏介面以便錄製螢幕的控制項。
+
+使用 Web Audio 製作入水水花、柔和的音樂水滴聲、輕柔的游水聲、雨聲與渦流聲。透過 Sound 按鈕啟用音訊，靜音時平順淡出，並在瀏覽器分頁隱藏時暫停播放。
+
+所有標籤與按鈕均維持英文。讓版面配置適用於行動裝置。針對數十條魚的流暢效能，最佳化算繪與動畫。
+
+交付一個完整可運作、視覺效果精緻且互動功能完善的網站。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098492771170722032) · [查看原文](https://x.com/vib3coded/status/2098492771170722032) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="2098697876155076820"></a>
 
 ### 禪境・古寺 3D 建造示範影片
@@ -2379,21 +2412,60 @@ Blender 中的 12 秒森林小徑
 
 ---
 
-<a id="2096251574918013135"></a>
+<a id="2098980384260456813"></a>
 
-### 怪獸城市戰鬥
+### 無頭服裝模型的 UV 展開與 4K 重新烘焙
 
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05
+[さ🥺](https://x.com/_sagyoai) · 2026-09-13
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/previews/8f55d646820e4f1f0b98d00cdc85125c79f19093abe73bc0cecdfbf2e2365e50.webp" width="840" loading="lazy" alt="怪獸城市戰鬥"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098980384260456813"><img src="../assets/previews/fef1ae0d7a4818588b5aa244450941a5fc54a6e3707a2985c78021a3b6c8b7c7.jpg" width="840" loading="lazy" alt="無頭服裝模型的 UV 展開與 4K 重新烘焙"></a>
+
+這是一段針對包含所選衣物與四肢的無頭 3D 模型，重新展開出結構易讀、方便後續重繪的 UV，並以 4K 重新烘焙現有貼圖的提示詞。作業會在保留舊資料的同時，完成接縫設計、變形檢查、打包與前後比較確認。
 
 **提示詞**
 
 ```text
-使用生成的生物模型與音效製作怪獸風格 Three.js 遊戲，建置清晰的巨型戰鬥和體現生物尺度的環境。
+請使用 Blender MCP，為目前選取的「包含衣物與四肢的無頭模型」執行 UV 展開，並將現有貼圖以 4K 重新烘焙。
+
+目標是在保留原有外觀的前提下，製作出如同服裝紙樣般易於辨識結構、方便日後重繪的 UV。請比照人類藝術家的工作流程，依序進行觀察 → 接縫設計 → 按部位展開 → 修正變形 → 排列 → 烘焙。
+
+1．保留原始資料
+開始作業前請另存新檔，保留舊 UV、圖片與材質，並建立新的 UV「UV\_Final」。
+請勿修改形狀、拓撲、頂點順序、權重、形狀鍵或骨架。
+
+2．觀察模型並設計接縫
+請透過原始貼圖顯示與線框顯示，確認模型各個方向，掌握服裝的零件組成與實際縫線。
+服裝請依照衣身、袖子、領口等紙樣結構，利用側縫線或袖子內側等位置剪開。皮膚與四肢請將接縫放在內側、側面等不顯眼的位置，並採用能自然展開至指縫的結構。
+請勿將皺褶或印花誤認為縫線，也不要建立不必要的零碎小島。
+
+3．按部位展開並修正變形
+請勿一次處理整個模型，而要按部位分別執行 Unwrap。
+請使用參照 UV\_Final 的文字棋盤格與 Stretch 顯示，檢查拉伸、壓縮、扭曲、翻面與重疊。
+請依問題成因新增或解除接縫，並使用 Pin、Relax 等功能調整後重新檢查。不要只是重複執行相同的自動展開；已改善的部位請予以保留。
+請勿將 Smart UV Project 的全模型自動細分結果直接視為完成品。
+
+4．調整布紋方向、密度與排列
+服裝請以各零件的布紋方向為基準，將基本的垂直方向對齊 UV 的 V 方向。請勿強行將帶有曲線的紙樣變形成矩形。
+請統一相對於實際尺寸的像素密度，並調整方向，使左右對應關係清楚易辨。
+之後請在維持方向與相對比例的前提下，將 UV 打包至 0～1 區域。禁止左右重疊或任意旋轉。
+4K 烘焙請以烘焙邊距 16px、島嶼間距至少 32px、距離圖片外框至少 16px 作為初始基準。
+
+5．從舊 UV 將貼圖以 4K 烘焙至新 UV
+請明確將原始貼圖的參照固定至舊 UV，並以 UV\_Final 作為烘焙目標，轉寫至新的 4096×4096 圖片。
+請在各個材質中啟用烘焙目標圖片節點，先進行測試烘焙，再執行正式烘焙。
+基礎色只使用 Diffuse 的 Color，或使用 Emit；請勿烘入新的光照、陰影或 AO。請保留原始圖片中繪製的明暗。
+必要時也請轉寫透明度等現有貼圖；切線法線請依據新 UV 重新烘焙，不要只進行單純的色彩轉寫。
+
+6．透過新舊比較確認完成度
+套用新的 UV 與烘焙圖片，在與原始資料相同的顯示條件下，比較整體與細節。
+請確認圖案位置、色彩、透明度與接縫連續性，並修正 UV 壓扁、重疊、展開遺漏，以及烘焙造成的黑點、缺失與暈染。
+請以檢查結果，而不是「展開了幾次」作為完成判定標準。
+
+請儲存完成.blend、4K 圖片、UV 版面配置，以及接縫、棋盤格與完成外觀的確認圖片，並簡潔報告主要修正內容。
+不要只停留在說明計畫；請一邊確認實際圖片，一邊完成整個作業。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/kaiju-city-battle-2096251574918013135) · [查看原文](https://x.com/majidmanzarpour/status/2096251574918013135) · [線上展示](https://stormcolossus.netlify.app/) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098980384260456813) · [查看原文](https://x.com/_sagyoai/status/2098980384260456813) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2412,24 +2484,6 @@ Blender 中的 12 秒森林小徑
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [查看原文](https://x.com/Dstudio_ai/status/2096525100518453342) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2096258619574513880"></a>
-
-### C# 與 WASM 瀏覽器賽車物理
-
-[achepta](https://x.com/achepta_tm) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880"><img src="../assets/previews/da595232495fdcdcd646614361e119ff7b780672c6c697364c0197cc19302fd1.webp" width="840" loading="lazy" alt="C# 與 WASM 瀏覽器賽車物理"></a>
-
-**提示詞**
-
-```text
-用 C# 重建賽道狂飆風格賽車物理，透過 WASM 執行並用 Three.js 渲染，使用可碰撞賽道網格並測試操控。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [查看原文](https://x.com/achepta_tm/status/2096258619574513880) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -3084,7 +3138,7 @@ Blender 中的 12 秒森林小徑
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 214 個案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 216 個案例 →</a></strong></p>
 <p><sub>為保持 GitHub README 渲染流暢，這裡僅展示最新 100 個案例。</sub></p>
 <br>
 </td></tr>

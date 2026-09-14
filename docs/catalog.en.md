@@ -27,13 +27,12 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**214 examples · 14 languages · 9 examples with source code**
+**216 examples · 14 languages · 9 examples with source code**
 
 ## Featured projects
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/featured/2096251574918013135.webp" width="420" loading="lazy" alt="Kaiju city battle"></a><br><strong><a href="#2096251574918013135">Kaiju city battle</a></strong><br><sub><a href="https://x.com/majidmanzarpour/status/2096251574918013135">Majid Manzarpour</a></sub><br><a href="#2096251574918013135">Prompt →</a></td>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/featured/2096525100518453342.webp" width="420" loading="lazy" alt="Switchable character expressions in Blender"></a><br><strong><a href="#2096525100518453342">Switchable character expressions in Blender</a></strong><br><sub><a href="https://x.com/Dstudio_ai/status/2096525100518453342">Nano(ナノ)</a></sub><br><a href="#2096525100518453342">Prompt →</a></td>
 </tr>
 </table>
@@ -102,13 +101,13 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Automated Hair and Face Texture Generation and UV Transfer for Character Models](#2098367087475577273)
 - [Temple Miniature Diorama Scene](#2098403061463224543)
 - [Girl Playing with a Robot Figurine](#2098406473273663992)
+- [Interactive 3D Koi Pond](#2098492771170722032)
 - [Zen Realm · Ancient Temple 3D Build Demo Video](#2098697876155076820)
 - [Skybound browser flight game](#2098739181510164652)
 - [Modular 3D-Printed Picture Frame with Connectors](#2098774359926297011)
 - [3D reconstruction of the 1893 Chicago World's Fair](#2098795017955418202)
-- [Kaiju city battle](#2096251574918013135)
+- [UV Unwrapping and 4K Rebaking for a Headless Clothing Model](#2098980384260456813)
 - [Switchable character expressions in Blender](#2096525100518453342)
-- [Browser racing physics in C# and WASM](#2096258619574513880)
 - [Warcraft-inspired character scene in Unity](#2096308567863079420)
 - [Rotatable 3D shogi board](#2096579856133947507)
 - [Exploded desktop-computer atlas](#2096578761877860502)
@@ -2278,6 +2277,40 @@ A fully assembled figurine of a little girl playing with a robot, wearing a smal
 
 ---
 
+<a id="2098492771170722032"></a>
+
+### Interactive 3D Koi Pond
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-11
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098492771170722032"><img src="../assets/previews/19d5a2e2e5f9d34380e74a89c0dd5e13503b6da32d02c813e31e7f8c453d9220.jpg" width="840" loading="lazy" alt="Interactive 3D Koi Pond"></a>
+
+Create a full-screen interactive Three.js and WebGL koi pond with draggable fish releases, ripples, rain, a fish-affecting whirlpool, responsive controls, and Web Audio water effects.
+
+**Prompt**
+
+```text
+Build a beautiful, full-screen interactive koi pond using Three.js + WebGL. Use a top-down view with clear turquoise water, sunlight, animated caustics on the pond floor, and a convincing sense of depth.
+
+Place an elegant translucent selection panel at the bottom with four koi varieties: Kohaku, Showa, Golden Ogon, and Platinum. Clicking a card releases that fish into the pond. Dragging a fish from its card lets the user choose exactly where to drop it.
+
+Make each landing feel satisfying: a splash with droplets, a brief depression in the water surface, and expanding ripples. The fish should then dive beneath the surface. Use refraction and depth cues so the koi clearly look submerged.
+
+Create detailed 3D koi with eyes, scales, fins, and flowing tails. Animate their bodies, tails, and fins together. Each fish should independently change direction and speed, turn smoothly near boundaries, and avoid other fish.
+
+Let users touch and drag across the water to create ripples. Add rain and a movable whirlpool whose current affects the fish. Include Calm, Clear pond, and a control to hide the interface for screen recording.
+
+Use Web Audio to create landing splashes, soft musical droplets, gentle swimming water sounds, rain, and a whirlpool sound. Enable audio through a Sound button, fade it smoothly when muted, and pause it when the browser tab is hidden.
+
+Keep all labels and buttons in English. Make the layout responsive for mobile. Optimize rendering and animation for smooth performance with several dozen fish.
+
+Deliver a complete, working website with polished visuals and functional interactions.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098492771170722032) · [Original post](https://x.com/vib3coded/status/2098492771170722032) · [Back to examples](#all-prompts)
+
+---
+
 <a id="2098697876155076820"></a>
 
 ### Zen Realm · Ancient Temple 3D Build Demo Video
@@ -2380,21 +2413,60 @@ download 2,000 historical photographs and reference information around the fair 
 
 ---
 
-<a id="2096251574918013135"></a>
+<a id="2098980384260456813"></a>
 
-### Kaiju city battle
+### UV Unwrapping and 4K Rebaking for a Headless Clothing Model
 
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05
+[さ🥺](https://x.com/_sagyoai) · 2026-09-13
 
-<a href="https://www.tripo3d.ai/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/previews/8f55d646820e4f1f0b98d00cdc85125c79f19093abe73bc0cecdfbf2e2365e50.webp" width="840" loading="lazy" alt="Kaiju city battle"></a>
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098980384260456813"><img src="../assets/previews/fef1ae0d7a4818588b5aa244450941a5fc54a6e3707a2985c78021a3b6c8b7c7.jpg" width="840" loading="lazy" alt="UV Unwrapping and 4K Rebaking for a Headless Clothing Model"></a>
+
+A prompt for re-unwrapping a selected headless 3D model containing clothing, hands, and feet into UVs that are easy to read and repaint, then rebaking the existing textures at 4K. It preserves the original data while covering seam design, distortion checks, packing, and side-by-side verification.
 
 **Prompt**
 
 ```text
-Build a kaiju-inspired Three.js game using generated creature models and sound effects. Create readable giant-scale combat and an environment that communicates the size of the creatures.
+Using Blender MCP, unwrap the selected “headless model containing clothing, hands, and feet” and rebake its existing textures at 4K.
+
+The goal is to preserve the original appearance and create UVs whose structure is easy to read and repaint later, like clothing patterns. Work like a human artist, following this order: observe → design seams → unwrap by region → correct distortion → arrange → bake.
+
+1. Preserve the original data
+Save a copy under a new name before starting. Keep the old UVs, images, and materials, and create a new UV map named “UV\_Final.”
+Do not change the shape, topology, vertex order, weights, shape keys, or rig.
+
+2. Inspect the model and design seams
+Inspect the model from every direction with the original texture displayed and the wireframe visible. Identify the clothing parts and the actual seam locations.
+For clothing, follow the pattern structure of the bodice, sleeves, collar, and other parts, opening the mesh along areas such as side seams and the inside of sleeves. Place seams on the skin, hands, and feet in less noticeable areas such as the inner or side surfaces, and arrange them so the spaces between the fingers can be opened without undue strain.
+Do not mistake wrinkles or printed designs for seams, and do not create unnecessary fragmented islands.
+
+3. Unwrap by region and correct distortion
+Unwrap each region separately instead of processing the entire model as one piece.
+Using a checker texture with text that references UV\_Final and the Stretch display, check for stretching, compression, twisting, flipping, and overlaps.
+Add or clear seams according to the cause of each problem, adjust with tools such as Pin and Relax, and check again. Do not simply repeat the same automatic unwrap; preserve regions that have already been improved.
+Do not treat a full-model automatic subdivision with Smart UV Project as the finished result.
+
+4. Align grain, texel density, and placement
+For clothing, use the fabric grain of each piece as a guide and align its primary vertical direction with the V direction of the UVs. Do not forcibly reshape curved patterns into rectangles.
+Match the texel density relative to real-world size, and orient the pieces so corresponding left and right sides are easy to identify.
+Then pack them into the 0–1 space while maintaining their orientation and relative scale. Do not overlap left and right pieces or rotate them arbitrarily.
+For 4K, use an initial margin of 16 px around the bake, at least 32 px between islands, and at least 16 px from the image borders.
+
+5. Bake from the old UVs to the new UVs at 4K
+Explicitly set the original texture references to use the old UVs, set UV\_Final as the bake target, and transfer them to a new 4096×4096 image.
+Activate the bake-target image node in each material, perform a test bake, and then run the final bake.
+For the base color, use only Diffuse Color or Emit. Do not bake in new lighting, shadows, or AO. Preserve the shading drawn in the original images.
+Transfer existing maps such as alpha as needed. Rebake tangent-space normals based on the new UVs rather than treating them as simple color transfers.
+
+6. Verify the result by comparing old and new versions
+Apply the new UVs and baked images, then compare the full model and details under the same display conditions as the original.
+Check the placement, color, transparency, and seam continuity of patterns. Correct collapsed or overlapping UVs, missing unwraps, and bake artifacts such as black spots, gaps, and bleeding.
+Judge completion by the inspection results, not by how many times the model was unwrapped.
+
+Save completed.blend, the 4K images, the UV layout, and reference images showing the seams, checker texture, and final appearance. Briefly report the main corrections made.
+Do not stop at explaining the plan; complete the work while inspecting the actual images.
 ```
 
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/kaiju-city-battle-2096251574918013135) · [Original post](https://x.com/majidmanzarpour/status/2096251574918013135) · [Live demo](https://stormcolossus.netlify.app/) · [Back to examples](#all-prompts)
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098980384260456813) · [Original post](https://x.com/_sagyoai/status/2098980384260456813) · [Back to examples](#all-prompts)
 
 ---
 
@@ -2413,24 +2485,6 @@ Set up expression variants of a Tripo character in Blender before rigging. Align
 ```
 
 [View detail ↗](https://www.tripo3d.ai/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [Original post](https://x.com/Dstudio_ai/status/2096525100518453342) · [Back to examples](#all-prompts)
-
----
-
-<a id="2096258619574513880"></a>
-
-### Browser racing physics in C# and WASM
-
-[achepta](https://x.com/achepta_tm) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880"><img src="../assets/previews/da595232495fdcdcd646614361e119ff7b780672c6c697364c0197cc19302fd1.webp" width="840" loading="lazy" alt="Browser racing physics in C# and WASM"></a>
-
-**Prompt**
-
-```text
-Recreate a Trackmania-style racing physics system in C#, run it through WASM and render the course in Three.js. Use collidable track meshes and test vehicle handling.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Original post](https://x.com/achepta_tm/status/2096258619574513880) · [Back to examples](#all-prompts)
 
 ---
 
@@ -3085,7 +3139,7 @@ Build a deep-sea landing page with Three.js water effects, a dark glass-like int
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 214 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 216 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>

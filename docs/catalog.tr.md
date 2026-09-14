@@ -26,13 +26,12 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**214 · En yeni Astra istemleri**
+**216 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/tr/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/featured/2096251574918013135.webp" width="420" loading="lazy" alt="Şehirde kaiju savaşı"></a><br><strong><a href="#2096251574918013135">Şehirde kaiju savaşı</a></strong><br><sub><a href="https://x.com/majidmanzarpour/status/2096251574918013135">Majid Manzarpour</a></sub><br><a href="#2096251574918013135">İstem →</a></td>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/tr/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/featured/2096525100518453342.webp" width="420" loading="lazy" alt="Blender’da değiştirilebilir karakter ifadeleri"></a><br><strong><a href="#2096525100518453342">Blender’da değiştirilebilir karakter ifadeleri</a></strong><br><sub><a href="https://x.com/Dstudio_ai/status/2096525100518453342">Nano(ナノ)</a></sub><br><a href="#2096525100518453342">İstem →</a></td>
 </tr>
 </table>
@@ -101,13 +100,13 @@
 - [Karakter modelinde saç ve yüz dokusunu otomatik oluşturma ve UV aktarımı](#2098367087475577273)
 - [Tapınak minyatür 3B model sahnesi](#2098403061463224543)
 - [Robotla Oynayan Küçük Kız Figürü](#2098406473273663992)
+- [Etkileşimli 3B Koi Göleti](#2098492771170722032)
 - [Zen Hâli · Kadim Tapınak 3B Yapım Gösterim Videosu](#2098697876155076820)
 - [Skybound tarayıcı uçuş oyunu](#2098739181510164652)
 - [Bağlantı parçalarıyla birleştirilen parçalı 3D baskı çerçeve](#2098774359926297011)
 - [1893 Chicago Dünya Fuarı'nın 3B rekonstrüksiyonu](#2098795017955418202)
-- [Şehirde kaiju savaşı](#2096251574918013135)
+- [Başsız kıyafet modelinde UV açılımı ve 4K yeniden bake](#2098980384260456813)
 - [Blender’da değiştirilebilir karakter ifadeleri](#2096525100518453342)
-- [C# ve WASM ile tarayıcı yarış fiziği](#2096258619574513880)
 - [Unity’de Warcraft esintili karakter sahnesi](#2096308567863079420)
 - [Döndürülebilir 3D shogi tahtası](#2096579856133947507)
 - [Parçalarına ayrılan masaüstü bilgisayar atlası](#2096578761877860502)
@@ -2277,6 +2276,40 @@ Tüm parçaları eksiksiz şekilde birleştirilmiş, robotla oynayan küçük k�
 
 ---
 
+<a id="2098492771170722032"></a>
+
+### Etkileşimli 3B Koi Göleti
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-11
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098492771170722032"><img src="../assets/previews/19d5a2e2e5f9d34380e74a89c0dd5e13503b6da32d02c813e31e7f8c453d9220.jpg" width="840" loading="lazy" alt="Etkileşimli 3B Koi Göleti"></a>
+
+Sürüklenerek bırakılabilen balıklar, su halkaları, yağmur, balıkları etkileyen bir girdap, duyarlı kontroller ve Web Audio su efektleri içeren tam ekran, etkileşimli bir Three.js ve WebGL koi göleti oluşturun.
+
+**İstem**
+
+```text
+Three.js + WebGL kullanarak güzel, tam ekran ve etkileşimli bir koi göleti oluşturun. Yukarıdan görünüm kullanın; berrak turkuaz su, güneş ışığı, gölet tabanında hareketli ışık kırınımları ve inandırıcı bir derinlik hissi sağlayın.
+
+Alta, dört koi çeşidinin yer aldığı zarif ve yarı saydam bir seçim paneli yerleştirin: Kohaku, Showa, Golden Ogon ve Platinum. Bir karta tıklamak, ilgili balığı gölete bırakır. Kullanıcı, balığı kartından sürükleyerek tam olarak nereye bırakacağını seçebilsin.
+
+Her iniş tatmin edici hissettirsin: su sıçraması ve damlacıklar, su yüzeyinde kısa süreli bir çökme ve dışa doğru yayılan su halkaları oluşturun. Balık daha sonra su yüzeyinin altına dalsın. Koi balıklarının gerçekten suya batmış görünmesi için kırılma efektleri ve derinlik ipuçları kullanın.
+
+Gözleri, pulları, yüzgeçleri ve akışkan kuyrukları olan ayrıntılı 3B koi balıkları oluşturun. Gövdelerini, kuyruklarını ve yüzgeçlerini birlikte canlandırın. Her balık yönünü ve hızını bağımsız olarak değiştirsin, sınırlara yaklaştığında yumuşakça dönsün ve diğer balıklardan kaçınsın.
+
+Kullanıcıların su üzerinde dokunup sürükleyerek su halkaları oluşturmasını sağlayın. Yağmur ve hareket ettirilebilen, akıntısı balıkları etkileyen bir girdap ekleyin. Calm, Clear pond seçeneklerini ve ekran kaydı için arayüzü gizleyen bir kontrolü ekleyin.
+
+İniş sırasındaki su sıçramalarını, yumuşak melodik damlacık seslerini, hafif yüzme suyu seslerini, yağmuru ve girdap sesini oluşturmak için Web Audio kullanın. Sound düğmesiyle sesi etkinleştirin, sessize alındığında sesi yumuşakça kısın ve tarayıcı sekmesi gizlendiğinde sesi duraklatın.
+
+Tüm etiket ve düğmeleri İngilizce tutun. Yerleşimi mobil cihazlara uyumlu hâle getirin. Birkaç düzine balıkla bile akıcı performans sağlamak için oluşturma ve animasyonu optimize edin.
+
+Görsel açıdan özenli ve etkileşimleri işlevsel, eksiksiz ve çalışır durumda bir web sitesi teslim edin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098492771170722032) · [Orijinal gönderi](https://x.com/vib3coded/status/2098492771170722032) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="2098697876155076820"></a>
 
 ### Zen Hâli · Kadim Tapınak 3B Yapım Gösterim Videosu
@@ -2379,21 +2412,60 @@ Fuarla ilgili 2.000 tarihî fotoğrafı ve referans bilgilerini indirin; elde ed
 
 ---
 
-<a id="2096251574918013135"></a>
+<a id="2098980384260456813"></a>
 
-### Şehirde kaiju savaşı
+### Başsız kıyafet modelinde UV açılımı ve 4K yeniden bake
 
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05
+[さ🥺](https://x.com/_sagyoai) · 2026-09-13
 
-<a href="https://www.tripo3d.ai/tr/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/previews/8f55d646820e4f1f0b98d00cdc85125c79f19093abe73bc0cecdfbf2e2365e50.webp" width="840" loading="lazy" alt="Şehirde kaiju savaşı"></a>
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098980384260456813"><img src="../assets/previews/fef1ae0d7a4818588b5aa244450941a5fc54a6e3707a2985c78021a3b6c8b7c7.jpg" width="840" loading="lazy" alt="Başsız kıyafet modelinde UV açılımı ve 4K yeniden bake"></a>
+
+Seçili kıyafet ve el-ayakları içeren başsız 3B model için, yapısı kolay okunup yeniden çizilebilen bir UV düzeni oluşturur ve mevcut dokuları 4K çözünürlükte yeniden bake eder. Eski verileri korurken dikiş tasarımı, bozulma kontrolü, yerleşim ve karşılaştırmalı doğrulama adımlarını da gerçekleştirir.
 
 **İstem**
 
 ```text
-Üretilmiş yaratık modelleri ve ses efektleriyle kaiju esintili Three.js oyunu oluştur. Dev ölçekli çatışma anlaşılır, ortam yaratıkların büyüklüğünü hissettirir olsun.
+Blender MCP ile seçili “kıyafet ve el-ayakları içeren başsız modelin” UV açılımını ve mevcut dokuların 4K yeniden bake işlemini gerçekleştirin.
+
+Amaç, modelin özgün görünümünü koruyarak kıyafet kalıbı gibi yapısı kolayca anlaşılabilen ve sonradan yeniden çizilebilen bir UV düzeni oluşturmaktır. İnsan bir sanatçı gibi gözlem → dikiş tasarımı → parça bazında açılım → bozulma düzeltme → yerleşim → bake sırasını izleyin.
+
+1. Özgün verileri koruyun
+Çalışmaya başlamadan önce dosyayı farklı bir adla kaydedin, eski UV’leri, görselleri ve materyalleri koruyun ve yeni bir UV seti olan “UV\_Final” oluşturun.
+Geometriyi, topolojiyi, vertex sırasını, ağırlıkları, shape key’leri ve rig’i değiştirmeyin.
+
+2. Modeli inceleyip dikişleri tasarlayın
+Kıyafetin parça yapısını ve gerçek dikişlerini anlamak için her yönden özgün doku görünümünü ve tel kafes görünümünü kontrol edin.
+Kıyafeti gövde, kol, yaka gibi kalıp parçalarının yapısını izleyerek açın; yan dikişler ve kolların iç kısımları gibi bölgelerden yararlanın. Ciltte ve el-ayaklarda dikişleri iç taraf veya yan yüzey gibi daha az görünür yerlere yerleştirin ve parmak aralarına kadar doğal biçimde açılabilecek bir yapı oluşturun.
+Kırışıklıkları veya baskıları dikişlerle karıştırmayın ve gereksiz, küçük parçalara bölünmüş adacıklar oluşturmayın.
+
+3. Parçaları ayrı ayrı açın ve bozulmaları düzeltin
+Tüm modeli tek seferde işlemek yerine parçaları ayrı ayrı Unwrap edin.
+UV\_Final’i referans alan yazılı bir checker dokusu ve Stretch görünümüyle esneme, sıkışma, burulma, ters dönme ve üst üste binme durumlarını kontrol edin.
+Sorunun nedenine göre dikiş ekleyin veya kaldırın; ardından Pin, Relax gibi araçlarla düzenleyip yeniden kontrol edin. Aynı otomatik açılımı tekrar tekrar uygulamakla yetinmeyin; iyileştirilmiş parçaları koruyun.
+Smart UV Project ile tüm modeli otomatik olarak parçalara ayırmayı nihai sonuç olarak kullanmayın.
+
+4. Kumaş yönünü, texel yoğunluğunu ve yerleşimi düzenleyin
+Kıyafette her parçanın kumaş yönünü temel alarak ana dikey yönü UV’nin V yönüyle hizalayın. Eğri kalıp parçalarını zorla dikdörtgene dönüştürmeyin.
+Gerçek ölçülere göre texel yoğunluğunu eşitleyin ve sağ-sol eşleşmesinin anlaşılabileceği bir yönde düzenleyin.
+Ardından yönü ve göreli ölçeği koruyarak 0–1 alanına yerleştirin. Sağ ve sol parçaları üst üste bindirmeyin veya keyfi şekilde döndürmeyin.
+4K bake için başlangıç ölçütü olarak 16 px bake payı, adacıklar arasında en az 32 px ve görüntünün dış kenarlarından en az 16 px boşluk kullanın.
+
+5. Eski UV’den yeni UV’ye 4K bake yapın
+Özgün doku referansını eski UV’ye açıkça sabitleyin; hedef UV olarak UV\_Final’i kullanıp dokuyu 4096×4096 boyutunda yeni bir görsele aktarın.
+Her materyalde bake hedefi görsel düğümünü etkinleştirin; deneme bake’inden sonra asıl bake işlemini gerçekleştirin.
+Base Color için yalnızca Diffuse’un Color kanalını veya Emit’i kullanın; yeni ışık, gölge ya da AO bake etmeyin. Özgün görselde çizilmiş gölgelendirmeyi koruyun.
+Saydamlık gibi mevcut haritaları da gerektiğinde aktarın; tangent normal haritasını yalnızca renk aktarımı olarak değil, yeni UV düzenini temel alarak yeniden bake edin.
+
+6. Yeni ve eski sonuçları karşılaştırarak tamamlanmayı doğrulayın
+Yeni UV’yi ve bake edilmiş görselleri uygulayın; tüm modeli ve ayrıntıları, özgünle aynı görüntüleme koşullarında karşılaştırın.
+Desenlerin konumunu, rengini, saydamlığını ve dikişlerin sürekliliğini kontrol edin; UV’deki ezilmeleri, üst üste binmeleri ve açılmamış bölgeleri, ayrıca bake işlemindeki siyah noktaları, boşlukları ve bulanık taşmaları düzeltin.
+Tamamlanma kararını “kaç kez açılım yapıldığına” göre değil, kontrol sonuçlarına göre verin.
+
+Tamamlanmış .blend dosyasını, 4K görseli, UV yerleşimini ve dikiş, checker ile nihai görünüm kontrol görsellerini kaydedin; başlıca düzeltmeleri kısaca raporlayın.
+Yalnızca planı açıklamakla yetinmeyin; görselleri gerçekten kontrol ederek çalışmayı tamamlayın.
 ```
 
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/kaiju-city-battle-2096251574918013135) · [Orijinal gönderi](https://x.com/majidmanzarpour/status/2096251574918013135) · [Canlı demo](https://stormcolossus.netlify.app/) · [Örneklere dön](#all-prompts)
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098980384260456813) · [Orijinal gönderi](https://x.com/_sagyoai/status/2098980384260456813) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -2412,24 +2484,6 @@ Bir Tripo karakterinin ifade varyantlarını rig oluşturmadan önce Blender’d
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [Orijinal gönderi](https://x.com/Dstudio_ai/status/2096525100518453342) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096258619574513880"></a>
-
-### C# ve WASM ile tarayıcı yarış fiziği
-
-[achepta](https://x.com/achepta_tm) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880"><img src="../assets/previews/da595232495fdcdcd646614361e119ff7b780672c6c697364c0197cc19302fd1.webp" width="840" loading="lazy" alt="C# ve WASM ile tarayıcı yarış fiziği"></a>
-
-**İstem**
-
-```text
-Trackmania tarzı yarış fizik sistemini C# ile yeniden oluştur, WASM üzerinden çalıştır ve parkuru Three.js'de render et. Çarpışma destekli pist ağları kullan, araç kontrolünü test et.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Orijinal gönderi](https://x.com/achepta_tm/status/2096258619574513880) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3084,7 +3138,7 @@ Three.js su efektleri, koyu cam görünümlü arayüz ve kaydırmaya bağlı har
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 214 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 216 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

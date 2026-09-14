@@ -27,13 +27,12 @@
 
 探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。
 
-**214 条案例 · 14 种语言 · 9 条附项目源码**
+**216 条案例 · 14 种语言 · 9 条附项目源码**
 
 ## 精选作品
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/zh/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="assets/featured/2096251574918013135.webp" width="420" loading="lazy" alt="怪兽城市战斗"></a><br><strong><a href="#2096251574918013135">怪兽城市战斗</a></strong><br><sub><a href="https://x.com/majidmanzarpour/status/2096251574918013135">Majid Manzarpour</a></sub><br><a href="#2096251574918013135">提示词 →</a></td>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/zh/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="assets/featured/2096525100518453342.webp" width="420" loading="lazy" alt="Blender 角色表情切换"></a><br><strong><a href="#2096525100518453342">Blender 角色表情切换</a></strong><br><sub><a href="https://x.com/Dstudio_ai/status/2096525100518453342">Nano(ナノ)</a></sub><br><a href="#2096525100518453342">提示词 →</a></td>
 </tr>
 </table>
@@ -102,13 +101,13 @@
 - [角色模型头发与面部纹理自动生成及 UV 转移](#2098367087475577273)
 - [寺庙微缩立体模型场景](#2098403061463224543)
 - [玩机器人的小女孩手办](#2098406473273663992)
+- [互动 3D 锦鲤池](#2098492771170722032)
 - [禅境·古寺3D建造演示视频](#2098697876155076820)
 - [Skybound：浏览器飞行游戏](#2098739181510164652)
 - [带接头的分体式3D打印相框](#2098774359926297011)
 - [1893年芝加哥世界博览会三维重建](#2098795017955418202)
-- [怪兽城市战斗](#2096251574918013135)
+- [无头服装模型的 UV 展开与 4K 重新烘焙](#2098980384260456813)
 - [Blender 角色表情切换](#2096525100518453342)
-- [C# 与 WASM 浏览器赛车物理](#2096258619574513880)
 - [Unity 魔兽风格角色场景](#2096308567863079420)
 - [可旋转的 3D 将棋棋盘](#2096579856133947507)
 - [台式电脑交互拆解图谱](#2096578761877860502)
@@ -2191,6 +2190,40 @@ Blender 中的 12 秒森林小路
 
 ---
 
+<a id="2098492771170722032"></a>
+
+### 互动 3D 锦鲤池
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-11
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098492771170722032"><img src="assets/previews/19d5a2e2e5f9d34380e74a89c0dd5e13503b6da32d02c813e31e7f8c453d9220.jpg" width="840" loading="lazy" alt="互动 3D 锦鲤池"></a>
+
+创建一个全屏互动的 Three.js 和 WebGL 锦鲤池，支持拖放投放锦鲤、水波纹、降雨、会影响鱼群的漩涡、响应式控制，以及 Web Audio 水声效果。
+
+**提示词**
+
+```text
+使用 Three.js + WebGL 构建一个精美的全屏互动锦鲤池。采用俯视视角，呈现清澈的青绿色水面、阳光、池底动态焦散，并营造真实可信的景深感。
+
+在底部放置一个优雅的半透明选择面板，提供四种锦鲤：红白（Kohaku）、昭和（Showa）、黄金（Golden Ogon）和白金（Platinum）。点击卡片即可将对应的锦鲤投放到池中。从卡片上拖动锦鲤时，用户可以准确选择投放位置。
+
+让每次落水都具有令人愉悦的反馈：水花和飞溅的水滴、短暂下陷的水面，以及向外扩散的水波纹。随后锦鲤应潜入水下。使用折射效果和景深线索，清晰表现锦鲤处于水下。
+
+创建带有眼睛、鳞片、鱼鳍和飘逸鱼尾的精细 3D 锦鲤。让鱼身、鱼尾和鱼鳍协同动画。每条鱼都应独立改变方向和速度，在接近边界时平滑转向，并避开其他鱼。
+
+允许用户在水面上触摸并拖动以制造水波纹。加入降雨和可移动的漩涡，其水流会影响鱼群。加入 Calm、Clear pond，以及一个可隐藏界面、便于录制屏幕的控件。
+
+使用 Web Audio 制作落水水花、轻柔的音乐水滴声、柔和的游水声、雨声和漩涡声。通过 Sound 按钮启用音频，静音时平滑淡出，并在浏览器标签页隐藏时暂停。
+
+所有标签和按钮均使用英文。让布局适配移动设备。优化渲染和动画，确保同时显示几十条鱼时仍能流畅运行。
+
+交付一个完整、可运行、视觉精致且交互功能完善的网站。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098492771170722032) · [查看原帖](https://x.com/vib3coded/status/2098492771170722032) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="2098697876155076820"></a>
 
 ### 禅境·古寺3D建造演示视频
@@ -2293,21 +2326,60 @@ Blender 中的 12 秒森林小路
 
 ---
 
-<a id="2096251574918013135"></a>
+<a id="2098980384260456813"></a>
 
-### 怪兽城市战斗
+### 无头服装模型的 UV 展开与 4K 重新烘焙
 
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05
+[さ🥺](https://x.com/_sagyoai) · 2026-09-13
 
-<a href="https://www.tripo3d.ai/zh/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="assets/previews/8f55d646820e4f1f0b98d00cdc85125c79f19093abe73bc0cecdfbf2e2365e50.webp" width="840" loading="lazy" alt="怪兽城市战斗"></a>
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098980384260456813"><img src="assets/previews/fef1ae0d7a4818588b5aa244450941a5fc54a6e3707a2985c78021a3b6c8b7c7.jpg" width="840" loading="lazy" alt="无头服装模型的 UV 展开与 4K 重新烘焙"></a>
+
+针对包含所选服装和四肢的无头 3D 模型，重新展开 UV，使结构更易读、便于后续绘制，并将现有纹理以 4K 分辨率重新烘焙。在保留旧数据的同时，完成接缝设计、拉伸检查、排布和前后对比确认。
 
 **提示词**
 
 ```text
-使用生成的生物模型与音效制作怪兽风格 Three.js 游戏，构建清晰的巨型战斗和体现生物尺度的环境。
+请使用 Blender MCP，对当前选中的“包含服装和四肢的无头模型”执行 UV 展开，并将现有纹理以 4K 重新烘焙。
+
+目标是在保留原有外观的基础上，创建类似服装纸样、结构清晰且便于后续重新绘制的 UV。请像人类艺术家一样，按照观察→接缝设计→按部位展开→修正拉伸→排布→烘焙的顺序进行。
+
+1．保留原始数据
+开始前请另存文件，保留旧 UV、图像和材质，并创建新的 UV 集“UV\_Final”。
+不要修改形状、拓扑、顶点顺序、权重、形态键或骨骼绑定。
+
+2．观察模型并设计接缝
+结合原始纹理显示和线框显示，从各个方向检查模型，了解服装的部件构成和实际缝线位置。
+服装应按照衣身、袖子、领口等纸样结构展开，利用侧缝、袖子内侧等位置切开。皮肤和四肢的接缝应放在内侧、侧面等不显眼的位置，并确保可以自然地展开到指缝。
+不要将褶皱或印花误认为缝线，也不要创建不必要的碎片化小岛。
+
+3．按部位展开并修正拉伸
+不要一次性处理整个模型，请按部位分别执行 Unwrap。
+使用引用UV\_Final的带文字棋盘格纹理和 Stretch 显示，检查拉伸、压缩、扭曲、翻转和重叠。
+根据问题原因添加或取消接缝，并使用 Pin、Relax 等工具进行调整后重新检查。不要只是反复执行相同的自动展开，应保留已经改进的部位。
+不要将 Smart UV Project 的全模型自动切分结果直接作为成品。
+
+4．调整布纹方向、密度和排布
+服装应以各部件的布纹方向为基准，将基本的纵向对齐到 UV 的 V 方向。对于带曲线的纸样，不要强行变形成矩形。
+统一相对于实际尺寸的纹素密度，并调整为便于识别左右对应关系的朝向。
+然后在保持朝向和相对比例的前提下，将其排布到 0～1 区域内。禁止左右重叠或随意旋转。
+4K 烘焙的初始基准为：边缘留白 16px、UV 岛之间至少间隔 32px、距离图像外边缘至少 16px。
+
+5．从旧 UV 向新 UV 进行 4K 烘焙
+明确将原始纹理引用固定到旧 UV，并以 UV\_Final 作为烘焙目标，将内容转移到新建的 4096×4096 图像中。
+在每个材质中激活烘焙目标图像节点，先进行测试烘焙，再执行正式烘焙。
+基础色仅使用 Diffuse 的 Color，或使用 Emit；不要烘入新的光照、阴影或 AO。保留原图中绘制的明暗。
+根据需要转移透明度等现有贴图；切线空间法线贴图不能仅进行颜色转移，而应以新 UV 为基准重新烘焙。
+
+6．通过新旧对比确认完成度
+应用新 UV 和烘焙图像，在与原始数据相同的显示条件下，对比检查整体和细节。
+检查图案位置、颜色、透明度和接缝连续性，并修正 UV 压扁、重叠、展开遗漏，以及烘焙中的黑点、缺失和溢色。
+不要以“展开了多少次”为标准，而应根据检查结果判断是否完成。
+
+请保存完成.blend、4K 图像、UV 布局，以及接缝、棋盘格检查和最终外观的确认图像，并简要报告主要修改内容。
+不要只停留在说明计划；请在实际检查图像的同时完成整个工作。
 ```
 
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/kaiju-city-battle-2096251574918013135) · [查看原帖](https://x.com/majidmanzarpour/status/2096251574918013135) · [在线演示](https://stormcolossus.netlify.app/) · [返回案例导航](#all-prompts)
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098980384260456813) · [查看原帖](https://x.com/_sagyoai/status/2098980384260456813) · [返回案例导航](#all-prompts)
 
 ---
 
@@ -2326,24 +2398,6 @@ Blender 中的 12 秒森林小路
 ```
 
 [查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [查看原帖](https://x.com/Dstudio_ai/status/2096525100518453342) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2096258619574513880"></a>
-
-### C# 与 WASM 浏览器赛车物理
-
-[achepta](https://x.com/achepta_tm) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880"><img src="assets/previews/da595232495fdcdcd646614361e119ff7b780672c6c697364c0197cc19302fd1.webp" width="840" loading="lazy" alt="C# 与 WASM 浏览器赛车物理"></a>
-
-**提示词**
-
-```text
-用 C# 重建赛道狂飙风格赛车物理，通过 WASM 运行并用 Three.js 渲染，使用可碰撞赛道网格并测试操控。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [查看原帖](https://x.com/achepta_tm/status/2096258619574513880) · [返回案例导航](#all-prompts)
 
 ---
 
@@ -2998,7 +3052,7 @@ Blender 中的 12 秒森林小路
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 214 条案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 216 条案例 →</a></strong></p>
 <p><sub>为保持 GitHub README 渲染流畅，这里仅展示最新 100 条案例。</sub></p>
 <br>
 </td></tr>

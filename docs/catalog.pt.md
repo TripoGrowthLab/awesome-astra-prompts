@@ -26,13 +26,12 @@
 **Um ponto de partida para seu próximo jogo, cena ou mundo interativo.**
 
 
-**214 · Prompts mais recentes do Astra**
+**216 · Prompts mais recentes do Astra**
 
 ## Projetos em destaque
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/pt/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/featured/2096251574918013135.webp" width="420" loading="lazy" alt="Uma batalha de kaijus na cidade"></a><br><strong><a href="#2096251574918013135">Uma batalha de kaijus na cidade</a></strong><br><sub><a href="https://x.com/majidmanzarpour/status/2096251574918013135">Majid Manzarpour</a></sub><br><a href="#2096251574918013135">Prompt →</a></td>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/pt/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/featured/2096525100518453342.webp" width="420" loading="lazy" alt="Expressões de personagem alternáveis no Blender"></a><br><strong><a href="#2096525100518453342">Expressões de personagem alternáveis no Blender</a></strong><br><sub><a href="https://x.com/Dstudio_ai/status/2096525100518453342">Nano(ナノ)</a></sub><br><a href="#2096525100518453342">Prompt →</a></td>
 </tr>
 </table>
@@ -101,13 +100,13 @@
 - [Geração automática de texturas de cabelo e rosto para modelos de personagens e transferência para UV](#2098367087475577273)
 - [Cena de maquete 3D em miniatura de um templo](#2098403061463224543)
 - [Miniatura de menina brincando com robô](#2098406473273663992)
+- [Lago de carpas koi 3D interativo](#2098492771170722032)
 - [Vídeo demonstrativo da construção 3D de “禅境·古寺”](#2098697876155076820)
 - [Jogo de voo Skybound para navegador](#2098739181510164652)
 - [Moldura para impressão 3D em partes com encaixes](#2098774359926297011)
 - [Reconstrução 3D da Feira Mundial de Chicago de 1893](#2098795017955418202)
-- [Uma batalha de kaijus na cidade](#2096251574918013135)
+- [Desdobramento UV e rebake em 4K para modelo de roupas sem cabeça](#2098980384260456813)
 - [Expressões de personagem alternáveis no Blender](#2096525100518453342)
-- [Físicas de corrida no navegador com C# e WASM](#2096258619574513880)
 - [Cena de personagem inspirada em Warcraft no Unity](#2096308567863079420)
 - [Tabuleiro de shogi 3D giratório](#2096579856133947507)
 - [Atlas de um computador de mesa em vista explodida](#2096578761877860502)
@@ -2277,6 +2276,40 @@ Uma miniatura totalmente montada de uma menina brincando com um robô, usando um
 
 ---
 
+<a id="2098492771170722032"></a>
+
+### Lago de carpas koi 3D interativo
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-11
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098492771170722032"><img src="../assets/previews/19d5a2e2e5f9d34380e74a89c0dd5e13503b6da32d02c813e31e7f8c453d9220.jpg" width="840" loading="lazy" alt="Lago de carpas koi 3D interativo"></a>
+
+Crie um lago de carpas koi interativo em tela cheia com Three.js e WebGL, incluindo soltura de peixes por arrastar, ondulações, chuva, um redemoinho que afeta os peixes, controles responsivos e efeitos de água com Web Audio.
+
+**Prompt**
+
+```text
+Crie um belo lago de carpas koi interativo em tela cheia usando Three.js + WebGL. Use uma visão de cima, com água turquesa cristalina, luz do sol, cáusticas animadas no fundo do lago e uma sensação convincente de profundidade.
+
+Na parte inferior, coloque um elegante painel de seleção translúcido com quatro variedades de carpas koi: Kohaku, Showa, Golden Ogon e Platinum. Clicar em um cartão deve soltar o peixe no lago. Arrastar um peixe a partir do cartão deve permitir que o usuário escolha exatamente onde soltá-lo.
+
+Faça com que cada pouso seja satisfatório: um respingo com gotas, uma breve depressão na superfície da água e ondulações que se expandem. Em seguida, o peixe deve mergulhar abaixo da superfície. Use refração e indicações de profundidade para que as carpas koi pareçam claramente submersas.
+
+Crie carpas koi 3D detalhadas, com olhos, escamas, nadadeiras e caudas fluidas. Anime o corpo, a cauda e as nadadeiras em conjunto. Cada peixe deve mudar de direção e velocidade de forma independente, fazer curvas suaves perto dos limites e evitar os outros peixes.
+
+Permita que os usuários toquem e arrastem sobre a água para criar ondulações. Adicione chuva e um redemoinho móvel cuja corrente afete os peixes. Inclua Calm, Clear pond e um controle para ocultar a interface durante a gravação da tela.
+
+Use Web Audio para criar respingos de pouso, gotas musicais suaves, sons delicados de água durante o nado, chuva e um som de redemoinho. Ative o áudio por meio de um botão Sound, faça o volume diminuir suavemente ao silenciar e pause o áudio quando a aba do navegador estiver oculta.
+
+Mantenha todos os rótulos e botões em inglês. Torne o layout responsivo para dispositivos móveis. Otimize a renderização e a animação para um desempenho fluido com várias dezenas de peixes.
+
+Entregue um site completo e funcional, com visuais refinados e interações operacionais.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098492771170722032) · [Publicação original](https://x.com/vib3coded/status/2098492771170722032) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="2098697876155076820"></a>
 
 ### Vídeo demonstrativo da construção 3D de “禅境·古寺”
@@ -2379,21 +2412,60 @@ Baixe 2.000 fotografias históricas e informações de referência sobre a feira
 
 ---
 
-<a id="2096251574918013135"></a>
+<a id="2098980384260456813"></a>
 
-### Uma batalha de kaijus na cidade
+### Desdobramento UV e rebake em 4K para modelo de roupas sem cabeça
 
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05
+[さ🥺](https://x.com/_sagyoai) · 2026-09-13
 
-<a href="https://www.tripo3d.ai/pt/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/previews/8f55d646820e4f1f0b98d00cdc85125c79f19093abe73bc0cecdfbf2e2365e50.webp" width="840" loading="lazy" alt="Uma batalha de kaijus na cidade"></a>
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098980384260456813"><img src="../assets/previews/fef1ae0d7a4818588b5aa244450941a5fc54a6e3707a2985c78021a3b6c8b7c7.jpg" width="840" loading="lazy" alt="Desdobramento UV e rebake em 4K para modelo de roupas sem cabeça"></a>
+
+Este prompt refaz o desdobramento UV de um modelo 3D sem cabeça, com as roupas e os membros selecionados, criando uma UV fácil de interpretar e redesenhar, e faz o rebake das texturas existentes em 4K. Preserva os dados antigos e inclui o planejamento de seams, a verificação de distorções, o empacotamento e a comparação final.
 
 **Prompt**
 
 ```text
-Construa um jogo inspirado em kaijus no Three.js usando modelos de criaturas e efeitos sonoros gerados. Crie combates em escala gigante fáceis de acompanhar e um ambiente que transmita o tamanho das criaturas.
+No Blender MCP, execute o desdobramento UV do “modelo sem cabeça com roupas e membros” selecionado e faça o rebake em 4K das texturas existentes.
+
+O objetivo é preservar a aparência original e criar uma UV cuja estrutura seja fácil de interpretar, como o molde de uma roupa, e de redesenhar posteriormente. Avance como um artista humano: observação → planejamento de seams → desdobramento por partes → correção de distorções → organização → bake.
+
+1. Preservar os dados originais
+Antes de começar, salve uma cópia com outro nome, mantenha as UVs, imagens e materiais antigos e crie uma nova UV chamada “UV\_Final”.
+Não altere a forma, a topologia, a ordem dos vértices, os pesos, as shape keys nem o rig.
+
+2. Observar o modelo e planejar os seams
+Verifique todas as direções usando a visualização da textura original e a visualização em wireframe, identificando a composição das peças da roupa e as costuras reais.
+Nas roupas, abra os seams seguindo a estrutura dos moldes, como corpo, mangas e gola, aproveitando linhas laterais e a parte interna das mangas. Na pele e nos membros, coloque os seams em posições pouco visíveis, como a parte interna e as laterais, criando uma configuração que permita abrir naturalmente até os espaços entre os dedos.
+Não confunda rugas ou estampas com costuras e não crie ilhas pequenas e fragmentadas sem necessidade.
+
+3. Desdobrar por partes e corrigir as distorções
+Faça o Unwrap por partes, sem processar tudo de uma só vez.
+Usando um checker com texto que faça referência à UV\_Final e a visualização Stretch, verifique estiramento, compressão, torção, inversão e sobreposição.
+Adicione ou remova seams conforme a causa do problema e ajuste com Pin, Relax ou ferramentas semelhantes antes de verificar novamente. Não se limite a repetir o mesmo desdobramento automático; preserve as partes que já foram aprimoradas.
+Não trate a subdivisão automática completa feita com Smart UV Project como o resultado final.
+
+4. Ajustar o sentido do tecido, a densidade e a organização
+Nas roupas, alinhe o sentido vertical principal do tecido ao eixo V da UV, tomando como referência o sentido do tecido de cada peça. Não force moldes curvos a assumirem um formato retangular.
+Uniformize a densidade de texels em relação às dimensões reais e organize as peças de modo que a correspondência entre esquerda e direita seja fácil de entender.
+Depois, faça o packing na região de 0 a 1, mantendo a orientação e a escala relativa. Não sobreponha os lados esquerdo e direito nem faça rotações arbitrárias.
+Para o bake em 4K, use inicialmente como referência uma margem de 16 px, pelo menos 32 px entre as ilhas e pelo menos 16 px da borda externa da imagem.
+
+5. Fazer o bake em 4K da UV antiga para a nova
+Fixe explicitamente a referência das texturas originais na UV antiga e transfira os dados para uma nova imagem de 4096 × 4096, usando a UV\_Final como destino do bake.
+Em cada material, ative o nó da imagem de destino do bake e faça primeiro um bake de teste antes do bake final.
+Para a cor-base, use somente a cor de Diffuse ou Emit. Não incorpore iluminação, sombras ou AO novos. Preserve o sombreamento desenhado na imagem original.
+Transfira também os mapas existentes, como o de transparência, quando necessário. Para normais em espaço tangente, faça um novo bake com base na nova UV, em vez de apenas transferir a cor.
+
+6. Confirmar a conclusão comparando o antigo e o novo
+Aplique a nova UV e as imagens resultantes do bake e compare o corpo inteiro e os detalhes com o original, usando as mesmas condições de visualização.
+Verifique a posição dos padrões, as cores, a transparência e a continuidade dos seams. Corrija UVs achatadas, sobreposições, partes não desdobradas e problemas no bake, como pontos pretos, falhas e borrões.
+Determine a conclusão com base nos resultados da inspeção, não no número de vezes que o desdobramento foi executado.
+
+Salve o arquivo concluído.blend, a imagem em 4K, o layout UV e imagens de verificação dos seams, do checker e da aparência final. Relate brevemente as principais correções realizadas.
+Não termine apenas explicando o plano: conclua o trabalho verificando as imagens enquanto executa cada etapa.
 ```
 
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/kaiju-city-battle-2096251574918013135) · [Publicação original](https://x.com/majidmanzarpour/status/2096251574918013135) · [Demonstração](https://stormcolossus.netlify.app/) · [Voltar aos exemplos](#all-prompts)
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098980384260456813) · [Publicação original](https://x.com/_sagyoai/status/2098980384260456813) · [Voltar aos exemplos](#all-prompts)
 
 ---
 
@@ -2412,24 +2484,6 @@ Prepare variantes de expressão de um personagem do Tripo no Blender antes de cr
 ```
 
 [Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [Publicação original](https://x.com/Dstudio_ai/status/2096525100518453342) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2096258619574513880"></a>
-
-### Físicas de corrida no navegador com C# e WASM
-
-[achepta](https://x.com/achepta_tm) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880"><img src="../assets/previews/da595232495fdcdcd646614361e119ff7b780672c6c697364c0197cc19302fd1.webp" width="840" loading="lazy" alt="Físicas de corrida no navegador com C# e WASM"></a>
-
-**Prompt**
-
-```text
-Recrie um sistema de físicas de corrida no estilo Trackmania em C#, execute-o por WASM e renderize o percurso no Three.js. Use malhas de pista com colisão e teste a dirigibilidade do veículo.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Publicação original](https://x.com/achepta_tm/status/2096258619574513880) · [Voltar aos exemplos](#all-prompts)
 
 ---
 
@@ -3084,7 +3138,7 @@ Crie uma landing page de águas profundas com efeitos de água em Three.js, inte
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 214 exemplos no site oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 216 exemplos no site oficial →</a></strong></p>
 <p><sub>Para manter a renderização do README do GitHub fluida, mostramos aqui apenas os 100 exemplos mais recentes.</sub></p>
 <br>
 </td></tr>
