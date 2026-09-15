@@ -103,7 +103,6 @@
 - [Zen Hâli · Kadim Tapınak 3B Yapım Gösterim Videosu](#2098697876155076820)
 - [DEVICE: Akıllı telefonun kendisini kullanan fotogerçekçi 3B bulmaca oyunu](#2098715488369152087)
 - [Skybound tarayıcı uçuş oyunu](#2098739181510164652)
-- [3B yarış oyunu oluştur](#2098749876620415165)
 - [Bağlantı parçalarıyla birleştirilen parçalı 3D baskı çerçeve](#2098774359926297011)
 - [1893 Chicago Dünya Fuarı'nın 3B rekonstrüksiyonu](#2098795017955418202)
 - [Kinetik Kum Masası Simülasyonu](#2098831830002851846)
@@ -114,6 +113,7 @@
 - [Tepegöz Adası izometrik 3B tarayıcı oyunu](#2099414001851449430)
 - [Oynanabilir 3B Engel Parkuru](#2099419671481249851)
 - [Etkileşimli 3B Samuray Ormanı Sahnesi](#2099450933067612421)
+- [200 poligonun altında kozalaklı ağaç modeli](#2099472264270102705)
 - [Blender’da değiştirilebilir karakter ifadeleri](#2096525100518453342)
 - [Döndürülebilir 3D shogi tahtası](#2096579856133947507)
 - [Parçalarına ayrılan masaüstü bilgisayar atlası](#2096578761877860502)
@@ -2076,7 +2076,7 @@ Görsel açıdan özenli ve etkileşimleri işlevsel, eksiksiz ve çalışır du
 
 ### Brooklyn Köprüsü’nü modelleyin ve her iki yönden geçen tankları test edin
 
-[Sahil Verma](https://x.com/sahilvermaai) · 2026-09-12
+[Higgsfield](https://x.com/higgsfield_ai) · 2026-09-12
 
 <a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098650336521064759"><img src="../assets/previews/93cbaf0c49da1dba0e914e583c1232163708ba8def2558de4037076085fb9995.jpg" width="840" loading="lazy" alt="Brooklyn Köprüsü’nü modelleyin ve her iki yönden geçen tankları test edin"></a>
 
@@ -2088,7 +2088,7 @@ higgsfield\_ai tarafından bağlantılı gönderide kelimesi kelimesine alıntı
 Brooklyn Köprüsü’nü modelleyin ve her iki yönden geçen tankları test edin.
 ```
 
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098650336521064759) · [Orijinal gönderi](https://x.com/sahilvermaai/status/2098650336521064759) · [Örneklere dön](#all-prompts)
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098650336521064759) · [Orijinal gönderi](https://x.com/higgsfield_ai/status/2098244976027312474) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -2962,26 +2962,6 @@ Three.js kullanarak Skybound adlı bir tarayıcı uçuş oyunu oluşturun. Oyunc
 
 ---
 
-<a id="2098749876620415165"></a>
-
-### 3B yarış oyunu oluştur
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098749876620415165"><img src="../assets/previews/3f69cf45c6957d71b74c7a2423d21a5d09b5aa2fc3aedfebbaa52cbbaf2b1981.jpg" width="840" loading="lazy" alt="3B yarış oyunu oluştur"></a>
-
-Kök yazarın açıkladığı ilk testten alınan, görselleri üretilmiş, modellenmiş ve bağlantıları kurulmuş oynanabilir bir 3B yarış oyunu isteyen kelimesi kelimesine prompt.
-
-**İstem**
-
-```text
-3B bir yarış oyunu oluştur. Modelini oluştur. Görselleri üret. Tüm parçaları birbirine bağla.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098749876620415165) · [Orijinal gönderi](https://x.com/JulianGoldieSEO/status/2098749876620415165) · [Örneklere dön](#all-prompts)
-
----
-
 <a id="2098774359926297011"></a>
 
 ### Bağlantı parçalarıyla birleştirilen parçalı 3D baskı çerçeve
@@ -3265,6 +3245,26 @@ Kamera kontrolleri, sinematik aydınlatma ve çevresel ayrıntılar içeren, orm
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099450933067612421) · [Orijinal gönderi](https://x.com/JaynitMakwana/status/2099450933067612421) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2099472264270102705"></a>
+
+### 200 poligonun altında kozalaklı ağaç modeli
+
+[わたもす / ゲーム制作](https://x.com/Watamos827) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099472264270102705"><img src="../assets/previews/d81bde68ca027585c7577adaf607e29290f8f1b47af00bebbc03056842b0c904.jpg" width="840" loading="lazy" alt="200 poligonun altında kozalaklı ağaç modeli"></a>
+
+Astra’dan 200 poligondan az sayıda poligon içeren bir kozalaklı ağaç oluşturmasını isteyen bir prompt. İçeriği paylaşan kişi, oluşturulan modelin &quot;kaka gibi görünmesi&quot; sorunuyla mücadele ettiğini belirtiyor.
+
+**İstem**
+
+```text
+200 poligondan az sayıda poligon kullanarak bir kozalaklı ağaç oluşturabilir misin?
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099472264270102705) · [Orijinal gönderi](https://x.com/Watamos827/status/2099472264270102705) · [Örneklere dön](#all-prompts)
 
 ---
 

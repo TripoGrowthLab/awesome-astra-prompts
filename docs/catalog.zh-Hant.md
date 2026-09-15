@@ -103,7 +103,6 @@
 - [禪境・古寺 3D 建造示範影片](#2098697876155076820)
 - [DEVICE：運用智慧型手機本體的寫實 3D 解謎遊戲](#2098715488369152087)
 - [Skybound 瀏覽器飛行遊戲](#2098739181510164652)
-- [打造 3D 賽車遊戲](#2098749876620415165)
 - [含接頭的分件 3D 列印相框](#2098774359926297011)
 - [1893 年芝加哥世界博覽會 3D 重建](#2098795017955418202)
 - [動態沙桌模擬](#2098831830002851846)
@@ -114,6 +113,7 @@
 - [獨眼巨人島：等距 3D 瀏覽器遊戲](#2099414001851449430)
 - [可遊玩的 3D 障礙賽道](#2099419671481249851)
 - [互動式 3D 武士森林場景](#2099450933067612421)
+- [200 個多邊形以下的針葉樹模型](#2099472264270102705)
 - [在 Blender 中切換角色表情](#2096525100518453342)
 - [可旋轉的 3D 將棋棋盤](#2096579856133947507)
 - [桌上型電腦的互動拆解圖鑑](#2096578761877860502)
@@ -2076,7 +2076,7 @@ Blender 中的 12 秒森林小徑
 
 ### 建立布魯克林大橋模型，測試坦克從雙向通行
 
-[Sahil Verma](https://x.com/sahilvermaai) · 2026-09-12
+[Higgsfield](https://x.com/higgsfield_ai) · 2026-09-12
 
 <a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098650336521064759"><img src="../assets/previews/93cbaf0c49da1dba0e914e583c1232163708ba8def2558de4037076085fb9995.jpg" width="840" loading="lazy" alt="建立布魯克林大橋模型，測試坦克從雙向通行"></a>
 
@@ -2088,7 +2088,7 @@ Blender 中的 12 秒森林小徑
 建立布魯克林大橋模型，測試坦克從雙向通行。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098650336521064759) · [查看原文](https://x.com/sahilvermaai/status/2098650336521064759) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098650336521064759) · [查看原文](https://x.com/higgsfield_ai/status/2098244976027312474) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2962,26 +2962,6 @@ DEVICE
 
 ---
 
-<a id="2098749876620415165"></a>
-
-### 打造 3D 賽車遊戲
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098749876620415165"><img src="../assets/previews/3f69cf45c6957d71b74c7a2423d21a5d09b5aa2fc3aedfebbaa52cbbaf2b1981.jpg" width="840" loading="lazy" alt="打造 3D 賽車遊戲"></a>
-
-根作者所描述的首次測試中，這是一段要求製作模型、完成串接並加入生成視覺素材的可遊玩 3D 賽車遊戲提示詞原文。
-
-**提示詞**
-
-```text
-打造 3D 賽車遊戲。建立模型。生成視覺素材。將所有元件串接整合。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098749876620415165) · [查看原文](https://x.com/JulianGoldieSEO/status/2098749876620415165) · [返回案例導覽](#all-prompts)
-
----
-
 <a id="2098774359926297011"></a>
 
 ### 含接頭的分件 3D 列印相框
@@ -3265,6 +3245,26 @@ Jaynit Makwana 表示，他在 Codex 中將這個想法交給 GPT-6 Astra。目�
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2099450933067612421) · [查看原文](https://x.com/JaynitMakwana/status/2099450933067612421) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2099472264270102705"></a>
+
+### 200 個多邊形以下的針葉樹模型
+
+[わたもす / ゲーム制作](https://x.com/Watamos827) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2099472264270102705"><img src="../assets/previews/d81bde68ca027585c7577adaf607e29290f8f1b47af00bebbc03056842b0c904.jpg" width="840" loading="lazy" alt="200 個多邊形以下的針葉樹模型"></a>
+
+這是一段要求 Astra 製作 200 個多邊形以下針葉樹的提示詞。投稿者表示，他一直在努力解決生成結果看起來像「大便」的問題。
+
+**提示詞**
+
+```text
+可以試著製作一棵面數不超過 200 個多邊形的針葉樹嗎？
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2099472264270102705) · [查看原文](https://x.com/Watamos827/status/2099472264270102705) · [返回案例導覽](#all-prompts)
 
 ---
 

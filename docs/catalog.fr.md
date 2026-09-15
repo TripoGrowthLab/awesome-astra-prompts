@@ -103,7 +103,6 @@
 - [Vidéo de démonstration de construction 3D — Temple ancien zen](#2098697876155076820)
 - [DEVICE : le jeu de réflexion 3D photoréaliste qui utilise le smartphone lui-même](#2098715488369152087)
 - [Jeu de vol Skybound sur navigateur](#2098739181510164652)
-- [Créer un jeu de course en 3D](#2098749876620415165)
 - [Cadre imprimé en 3D, à assembler par connecteurs](#2098774359926297011)
 - [Reconstitution 3D de l’Exposition universelle de Chicago de 1893](#2098795017955418202)
 - [Simulation de table de sable cinétique](#2098831830002851846)
@@ -114,6 +113,7 @@
 - [Le jeu vidéo 3D isométrique sur navigateur de l’île du Cyclope](#2099414001851449430)
 - [Parcours d’obstacles 3D jouable](#2099419671481249851)
 - [Scène de forêt 3D interactive avec un samouraï](#2099450933067612421)
+- [Modèle de conifère de 200 polygones maximum](#2099472264270102705)
 - [Expressions de personnage interchangeables dans Blender](#2096525100518453342)
 - [Plateau de shogi 3D pivotant](#2096579856133947507)
 - [Atlas éclaté d’un ordinateur de bureau](#2096578761877860502)
@@ -2076,7 +2076,7 @@ Livrez un site web complet et fonctionnel, avec des visuels soignés et des inte
 
 ### Modéliser le pont de Brooklyn et tester le passage de chars dans les deux sens
 
-[Sahil Verma](https://x.com/sahilvermaai) · 2026-09-12
+[Higgsfield](https://x.com/higgsfield_ai) · 2026-09-12
 
 <a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098650336521064759"><img src="../assets/previews/93cbaf0c49da1dba0e914e583c1232163708ba8def2558de4037076085fb9995.jpg" width="840" loading="lazy" alt="Modéliser le pont de Brooklyn et tester le passage de chars dans les deux sens"></a>
 
@@ -2088,7 +2088,7 @@ Demande de conception CAO et de calcul de charges structurelles, citée textuell
 Modéliser le pont de Brooklyn et tester le passage de chars dans les deux sens.
 ```
 
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098650336521064759) · [Publication originale](https://x.com/sahilvermaai/status/2098650336521064759) · [Retour aux exemples](#all-prompts)
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098650336521064759) · [Publication originale](https://x.com/higgsfield_ai/status/2098244976027312474) · [Retour aux exemples](#all-prompts)
 
 ---
 
@@ -2962,26 +2962,6 @@ Créez un jeu de vol sur navigateur appelé Skybound avec Three.js. Le joueur pi
 
 ---
 
-<a id="2098749876620415165"></a>
-
-### Créer un jeu de course en 3D
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098749876620415165"><img src="../assets/previews/3f69cf45c6957d71b74c7a2423d21a5d09b5aa2fc3aedfebbaa52cbbaf2b1981.jpg" width="840" loading="lazy" alt="Créer un jeu de course en 3D"></a>
-
-Prompt fourni mot pour mot par l’auteur principal pour son premier test décrit : il demande de modéliser et de relier les éléments d’un jeu de course en 3D jouable, avec des visuels générés.
-
-**Prompt**
-
-```text
-Crée un jeu de course en 3D. Modélise-le. Génère les visuels. Relie tous les éléments.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098749876620415165) · [Publication originale](https://x.com/JulianGoldieSEO/status/2098749876620415165) · [Retour aux exemples](#all-prompts)
-
----
-
 <a id="2098774359926297011"></a>
 
 ### Cadre imprimé en 3D, à assembler par connecteurs
@@ -3265,6 +3245,26 @@ Créez une scène 3D interactive mettant en scène un samouraï dans une forêt,
 ```
 
 [Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2099450933067612421) · [Publication originale](https://x.com/JaynitMakwana/status/2099450933067612421) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2099472264270102705"></a>
+
+### Modèle de conifère de 200 polygones maximum
+
+[わたもす / ゲーム制作](https://x.com/Watamos827) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2099472264270102705"><img src="../assets/previews/d81bde68ca027585c7577adaf607e29290f8f1b47af00bebbc03056842b0c904.jpg" width="840" loading="lazy" alt="Modèle de conifère de 200 polygones maximum"></a>
+
+Ce prompt demande à Astra de créer un conifère de 200 polygones maximum. Son auteur explique qu’il a du mal à éviter que le résultat généré ait « l’air d’une crotte ».
+
+**Prompt**
+
+```text
+Peux-tu créer un conifère de 200 polygones maximum ?
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2099472264270102705) · [Publication originale](https://x.com/Watamos827/status/2099472264270102705) · [Retour aux exemples](#all-prompts)
 
 ---
 

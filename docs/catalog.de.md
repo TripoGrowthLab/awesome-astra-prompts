@@ -103,7 +103,6 @@
 - [Zenwelt · Alter Tempel – 3D-Bauprozess als Demo-Video](#2098697876155076820)
 - [DEVICE: Fotorealistisches 3D-Puzzlespiel mit dem Smartphone selbst](#2098715488369152087)
 - [Skybound-Browserspiel](#2098739181510164652)
-- [Erstelle ein 3D-Rennspiel](#2098749876620415165)
 - [3D-druckbarer Bilderrahmen aus Teilen mit Steckverbindungen](#2098774359926297011)
 - [3D-Rekonstruktion der Weltausstellung von 1893 in Chicago](#2098795017955418202)
 - [Kinetischer Sandtisch-Simulator](#2098831830002851846)
@@ -114,6 +113,7 @@
 - [Die Insel des Kyklopen – isometrisches 3D-Browserspiel](#2099414001851449430)
 - [Spielbarer 3D-Hindernisparcours](#2099419671481249851)
 - [Interaktive 3D-Samurai-Waldszene](#2099450933067612421)
+- [Nadelbaum-Modell mit höchstens 200 Polygonen](#2099472264270102705)
 - [Umschaltbare Gesichtsausdrücke in Blender](#2096525100518453342)
 - [Drehbares 3D-Shogi-Brett](#2096579856133947507)
 - [Interaktiver Desktop-PC in Explosionsansicht](#2096578761877860502)
@@ -2076,7 +2076,7 @@ Liefere eine vollständige, funktionsfähige Website mit ausgefeilter visueller 
 
 ### Die Brooklyn Bridge modellieren und Panzerüberquerungen aus beiden Richtungen testen
 
-[Sahil Verma](https://x.com/sahilvermaai) · 2026-09-12
+[Higgsfield](https://x.com/higgsfield_ai) · 2026-09-12
 
 <a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098650336521064759"><img src="../assets/previews/93cbaf0c49da1dba0e914e583c1232163708ba8def2558de4037076085fb9995.jpg" width="840" loading="lazy" alt="Die Brooklyn Bridge modellieren und Panzerüberquerungen aus beiden Richtungen testen"></a>
 
@@ -2088,7 +2088,7 @@ Eine im verlinkten Beitrag von higgsfield\_ai wörtlich zitierte CAD- und Tragla
 Modelliere die Brooklyn Bridge und teste Panzerüberquerungen aus beiden Richtungen.
 ```
 
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098650336521064759) · [Originalbeitrag](https://x.com/sahilvermaai/status/2098650336521064759) · [Zurück zu den Beispielen](#all-prompts)
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098650336521064759) · [Originalbeitrag](https://x.com/higgsfield_ai/status/2098244976027312474) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 
@@ -2962,26 +2962,6 @@ Erstelle mit Three.js ein Browserspiel namens Skybound, in dem man fliegt. Der S
 
 ---
 
-<a id="2098749876620415165"></a>
-
-### Erstelle ein 3D-Rennspiel
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098749876620415165"><img src="../assets/previews/3f69cf45c6957d71b74c7a2423d21a5d09b5aa2fc3aedfebbaa52cbbaf2b1981.jpg" width="840" loading="lazy" alt="Erstelle ein 3D-Rennspiel"></a>
-
-Ein wörtlich übernommener Prompt aus dem vom Hauptautor beschriebenen ersten Test. Darin wird ein modelliertes, verdrahtetes und spielbares 3D-Rennspiel mit generierten visuellen Elementen angefordert.
-
-**Prompt**
-
-```text
-Erstelle ein 3D-Rennspiel. Modelliere es. Generiere die visuellen Elemente. Verbinde alles miteinander.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098749876620415165) · [Originalbeitrag](https://x.com/JulianGoldieSEO/status/2098749876620415165) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
 <a id="2098774359926297011"></a>
 
 ### 3D-druckbarer Bilderrahmen aus Teilen mit Steckverbindungen
@@ -3265,6 +3245,26 @@ Erstelle eine interaktive 3D-Szene mit einem Samurai in einem Wald, Kamerasteuer
 ```
 
 [Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2099450933067612421) · [Originalbeitrag](https://x.com/JaynitMakwana/status/2099450933067612421) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2099472264270102705"></a>
+
+### Nadelbaum-Modell mit höchstens 200 Polygonen
+
+[わたもす / ゲーム制作](https://x.com/Watamos827) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2099472264270102705"><img src="../assets/previews/d81bde68ca027585c7577adaf607e29290f8f1b47af00bebbc03056842b0c904.jpg" width="840" loading="lazy" alt="Nadelbaum-Modell mit höchstens 200 Polygonen"></a>
+
+Ein Prompt, mit dem Astra aufgefordert wird, einen Nadelbaum mit höchstens 200 Polygonen zu erstellen. Der Beitragende berichtet, dass er mit dem Problem kämpft, dass die Ergebnisse wie „Kothaufen“ aussehen.
+
+**Prompt**
+
+```text
+Kannst du bitte einen Nadelbaum mit höchstens 200 Polygonen erstellen?
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2099472264270102705) · [Originalbeitrag](https://x.com/Watamos827/status/2099472264270102705) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 

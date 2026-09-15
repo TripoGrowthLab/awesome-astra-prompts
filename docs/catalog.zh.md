@@ -104,7 +104,6 @@
 - [禅境·古寺3D建造演示视频](#2098697876155076820)
 - [DEVICE：利用手机本体的写实 3D 解谜游戏](#2098715488369152087)
 - [Skybound：浏览器飞行游戏](#2098739181510164652)
-- [制作一款 3D 赛车游戏](#2098749876620415165)
 - [带接头的分体式3D打印相框](#2098774359926297011)
 - [1893年芝加哥世界博览会三维重建](#2098795017955418202)
 - [动力沙桌模拟](#2098831830002851846)
@@ -115,6 +114,7 @@
 - [独眼巨人岛：等距视角 3D 浏览器游戏](#2099414001851449430)
 - [可玩 3D 障碍赛道](#2099419671481249851)
 - [可交互的 3D 武士森林场景](#2099450933067612421)
+- [200 个面以内的针叶树模型](#2099472264270102705)
 - [Blender 角色表情切换](#2096525100518453342)
 - [可旋转的 3D 将棋棋盘](#2096579856133947507)
 - [台式电脑交互拆解图谱](#2096578761877860502)
@@ -1990,7 +1990,7 @@ Blender 中的 12 秒森林小路
 
 ### 建模布鲁克林大桥，测试双向坦克通行
 
-[Sahil Verma](https://x.com/sahilvermaai) · 2026-09-12
+[Higgsfield](https://x.com/higgsfield_ai) · 2026-09-12
 
 <a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098650336521064759"><img src="../assets/previews/93cbaf0c49da1dba0e914e583c1232163708ba8def2558de4037076085fb9995.jpg" width="840" loading="lazy" alt="建模布鲁克林大桥，测试双向坦克通行"></a>
 
@@ -2002,7 +2002,7 @@ higgsfield\_ai 链接帖子中逐字引用的一则 CAD 与结构荷载请求。
 建模布鲁克林大桥，测试双向坦克通行。
 ```
 
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098650336521064759) · [查看原帖](https://x.com/sahilvermaai/status/2098650336521064759) · [返回案例导航](#all-prompts)
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098650336521064759) · [查看原帖](https://x.com/higgsfield_ai/status/2098244976027312474) · [返回案例导航](#all-prompts)
 
 ---
 
@@ -2875,26 +2875,6 @@ DEVICE
 
 ---
 
-<a id="2098749876620415165"></a>
-
-### 制作一款 3D 赛车游戏
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098749876620415165"><img src="../assets/previews/3f69cf45c6957d71b74c7a2423d21a5d09b5aa2fc3aedfebbaa52cbbaf2b1981.jpg" width="840" loading="lazy" alt="制作一款 3D 赛车游戏"></a>
-
-这是原作者所描述的首次测试中使用的逐字提示词，要求完成建模、系统连接和视觉效果生成，制作一款可玩的 3D 赛车游戏。
-
-**提示词**
-
-```text
-制作一款 3D 赛车游戏。完成建模。生成视觉效果。将各部分连接起来。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098749876620415165) · [查看原帖](https://x.com/JulianGoldieSEO/status/2098749876620415165) · [返回案例导航](#all-prompts)
-
----
-
 <a id="2098774359926297011"></a>
 
 ### 带接头的分体式3D打印相框
@@ -3178,6 +3158,26 @@ Jaynit Makwana 表示，他们在 Codex 中将这个创意交给了 GPT-6 Astra�
 ```
 
 [查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099450933067612421) · [查看原帖](https://x.com/JaynitMakwana/status/2099450933067612421) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2099472264270102705"></a>
+
+### 200 个面以内的针叶树模型
+
+[わたもす / ゲーム制作](https://x.com/Watamos827) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099472264270102705"><img src="../assets/previews/d81bde68ca027585c7577adaf607e29290f8f1b47af00bebbc03056842b0c904.jpg" width="840" loading="lazy" alt="200 个面以内的针叶树模型"></a>
+
+这是一个要求 Astra 创建 200 个面以内针叶树的提示词。投稿者表示，他们一直在努力解决生成结果看起来像“便便”的问题。
+
+**提示词**
+
+```text
+可以尝试制作一个 200 个面以内的针叶树吗？
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099472264270102705) · [查看原帖](https://x.com/Watamos827/status/2099472264270102705) · [返回案例导航](#all-prompts)
 
 ---
 

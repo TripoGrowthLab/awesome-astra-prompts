@@ -103,7 +103,6 @@
 - [Video trình diễn dựng 3D “Thiền cảnh · Cổ tự”](#2098697876155076820)
 - [DEVICE: Game giải đố 3D chân thực sử dụng chính smartphone](#2098715488369152087)
 - [Trò chơi bay Skybound trên trình duyệt](#2098739181510164652)
-- [Tạo game đua xe 3D](#2098749876620415165)
 - [Khung ảnh in 3D dạng lắp ghép có khớp nối](#2098774359926297011)
 - [Tái dựng 3D Hội chợ Thế giới Chicago năm 1893](#2098795017955418202)
 - [Mô phỏng bàn cát động lực](#2098831830002851846)
@@ -114,6 +113,7 @@
 - [Trò chơi 3D trên trình duyệt với góc nhìn đẳng phối cảnh: Đảo Cyclops](#2099414001851449430)
 - [Màn vượt chướng ngại vật 3D có thể chơi](#2099419671481249851)
 - [Cảnh rừng Samurai 3D tương tác](#2099450933067612421)
+- [Mô hình cây lá kim dưới 200 polygon](#2099472264270102705)
 - [Chuyển đổi biểu cảm nhân vật trong Blender](#2096525100518453342)
 - [Bàn cờ shogi 3D có thể xoay](#2096579856133947507)
 - [Bản đồ tháo rời linh kiện máy tính để bàn](#2096578761877860502)
@@ -2092,7 +2092,7 @@ Cung cấp một website hoàn chỉnh, hoạt động ổn định, có hình �
 
 ### Dựng mô hình cầu Brooklyn và thử nghiệm xe tăng đi qua từ cả hai hướng
 
-[Sahil Verma](https://x.com/sahilvermaai) · 2026-09-12
+[Higgsfield](https://x.com/higgsfield_ai) · 2026-09-12
 
 <a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098650336521064759"><img src="../assets/previews/93cbaf0c49da1dba0e914e583c1232163708ba8def2558de4037076085fb9995.jpg" width="840" loading="lazy" alt="Dựng mô hình cầu Brooklyn và thử nghiệm xe tăng đi qua từ cả hai hướng"></a>
 
@@ -2104,7 +2104,7 @@ Yêu cầu về CAD và tải trọng kết cấu được trích nguyên văn t
 Dựng mô hình cầu Brooklyn và thử nghiệm xe tăng đi qua từ cả hai hướng.
 ```
 
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098650336521064759) · [Bài đăng gốc](https://x.com/sahilvermaai/status/2098650336521064759) · [Về danh sách ví dụ](#all-prompts)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098650336521064759) · [Bài đăng gốc](https://x.com/higgsfield_ai/status/2098244976027312474) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -2978,26 +2978,6 @@ Xây dựng một trò chơi bay trên trình duyệt có tên Skybound bằng T
 
 ---
 
-<a id="2098749876620415165"></a>
-
-### Tạo game đua xe 3D
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098749876620415165"><img src="../assets/previews/3f69cf45c6957d71b74c7a2423d21a5d09b5aa2fc3aedfebbaa52cbbaf2b1981.jpg" width="840" loading="lazy" alt="Tạo game đua xe 3D"></a>
-
-Một prompt nguyên văn từ bài kiểm thử đầu tiên do tác giả gốc mô tả, yêu cầu dựng mô hình và kết nối thành một game đua xe 3D có thể chơi được, với hình ảnh được tạo tự động.
-
-**Prompt**
-
-```text
-Tạo một game đua xe 3D. Dựng mô hình cho game. Tạo hình ảnh. Kết nối tất cả thành một thể thống nhất.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098749876620415165) · [Bài đăng gốc](https://x.com/JulianGoldieSEO/status/2098749876620415165) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="2098774359926297011"></a>
 
 ### Khung ảnh in 3D dạng lắp ghép có khớp nối
@@ -3281,6 +3261,26 @@ Xây dựng một cảnh 3D tương tác với samurai trong rừng, có điều
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099450933067612421) · [Bài đăng gốc](https://x.com/JaynitMakwana/status/2099450933067612421) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2099472264270102705"></a>
+
+### Mô hình cây lá kim dưới 200 polygon
+
+[わたもす / ゲーム制作](https://x.com/Watamos827) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099472264270102705"><img src="../assets/previews/d81bde68ca027585c7577adaf607e29290f8f1b47af00bebbc03056842b0c904.jpg" width="840" loading="lazy" alt="Mô hình cây lá kim dưới 200 polygon"></a>
+
+Đây là prompt yêu cầu Astra tạo một cây lá kim có không quá 200 polygon. Người đăng cho biết họ đang chật vật khắc phục vấn đề kết quả tạo ra trông giống như “phân”.
+
+**Prompt**
+
+```text
+Bạn có thể thử tạo một cây lá kim với không quá 200 polygon không?
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099472264270102705) · [Bài đăng gốc](https://x.com/Watamos827/status/2099472264270102705) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

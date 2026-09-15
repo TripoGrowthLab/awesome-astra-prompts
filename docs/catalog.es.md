@@ -103,7 +103,6 @@
 - [Vídeo demostrativo de construcción 3D de un templo antiguo zen](#2098697876155076820)
 - [DEVICE: juego de puzles 3D fotorrealista que utiliza el propio smartphone](#2098715488369152087)
 - [Juego de vuelo Skybound para navegador](#2098739181510164652)
-- [Crea un juego de carreras en 3D](#2098749876620415165)
 - [Marco modular impreso en 3D con uniones](#2098774359926297011)
 - [Reconstrucción 3D de la Exposición Universal de Chicago de 1893](#2098795017955418202)
 - [Simulación de mesa de arena cinética](#2098831830002851846)
@@ -114,6 +113,7 @@
 - [El juego de navegador isométrico en 3D de la isla del cíclope](#2099414001851449430)
 - [Circuito de obstáculos 3D jugable](#2099419671481249851)
 - [Escena 3D interactiva de un samurái en el bosque](#2099450933067612421)
+- [Modelo de conífera de menos de 200 polígonos](#2099472264270102705)
 - [Expresiones de personaje intercambiables en Blender](#2096525100518453342)
 - [Tablero de shogi 3D giratorio](#2096579856133947507)
 - [Atlas interactivo de un ordenador de sobremesa por piezas](#2096578761877860502)
@@ -2092,7 +2092,7 @@ Entrega un sitio web completo y funcional, con un acabado visual cuidado e inter
 
 ### Modela el puente de Brooklyn y prueba el cruce de tanques desde ambas direcciones
 
-[Sahil Verma](https://x.com/sahilvermaai) · 2026-09-12
+[Higgsfield](https://x.com/higgsfield_ai) · 2026-09-12
 
 <a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098650336521064759"><img src="../assets/previews/93cbaf0c49da1dba0e914e583c1232163708ba8def2558de4037076085fb9995.jpg" width="840" loading="lazy" alt="Modela el puente de Brooklyn y prueba el cruce de tanques desde ambas direcciones"></a>
 
@@ -2104,7 +2104,7 @@ Una solicitud de CAD y cargas estructurales, citada textualmente en la publicaci
 Modela el puente de Brooklyn y prueba el cruce de tanques desde ambas direcciones.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098650336521064759) · [Publicación original](https://x.com/sahilvermaai/status/2098650336521064759) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098650336521064759) · [Publicación original](https://x.com/higgsfield_ai/status/2098244976027312474) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2975,26 +2975,6 @@ Crea un juego de vuelo para navegador llamado Skybound con Three.js. El jugador 
 
 ---
 
-<a id="2098749876620415165"></a>
-
-### Crea un juego de carreras en 3D
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098749876620415165"><img src="../assets/previews/3f69cf45c6957d71b74c7a2423d21a5d09b5aa2fc3aedfebbaa52cbbaf2b1981.jpg" width="840" loading="lazy" alt="Crea un juego de carreras en 3D"></a>
-
-Una instrucción textual del autor original que describe su primera prueba: crear un juego de carreras en 3D jugable, con modelado, sistemas conectados y elementos visuales generados.
-
-**Prompt**
-
-```text
-Crea un juego de carreras en 3D. Modélalo. Genera los elementos visuales. Conecta todos sus componentes.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098749876620415165) · [Publicación original](https://x.com/JulianGoldieSEO/status/2098749876620415165) · [Volver a los ejemplos](#all-prompts)
-
----
-
 <a id="2098774359926297011"></a>
 
 ### Marco modular impreso en 3D con uniones
@@ -3278,6 +3258,26 @@ Crea una escena 3D interactiva con un samurái en un bosque, controles de cámar
 ```
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099450933067612421) · [Publicación original](https://x.com/JaynitMakwana/status/2099450933067612421) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2099472264270102705"></a>
+
+### Modelo de conífera de menos de 200 polígonos
+
+[わたもす / ゲーム制作](https://x.com/Watamos827) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099472264270102705"><img src="../assets/previews/d81bde68ca027585c7577adaf607e29290f8f1b47af00bebbc03056842b0c904.jpg" width="840" loading="lazy" alt="Modelo de conífera de menos de 200 polígonos"></a>
+
+Un prompt para pedirle a Astra que cree una conífera de menos de 200 polígonos. La persona que lo publicó comenta que está lidiando con el problema de que el resultado generado acaba teniendo un aspecto «como de caca».
+
+**Prompt**
+
+```text
+¿Puedes intentar crear una conífera con menos de 200 polígonos?
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099472264270102705) · [Publicación original](https://x.com/Watamos827/status/2099472264270102705) · [Volver a los ejemplos](#all-prompts)
 
 ---
 

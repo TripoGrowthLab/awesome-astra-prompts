@@ -104,7 +104,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Zen Realm · Ancient Temple 3D Build Demo Video](#2098697876155076820)
 - [DEVICE: A Photorealistic 3D Puzzle Game That Uses the Smartphone Itself](#2098715488369152087)
 - [Skybound browser flight game](#2098739181510164652)
-- [Build a 3D racer](#2098749876620415165)
 - [Modular 3D-Printed Picture Frame with Connectors](#2098774359926297011)
 - [3D reconstruction of the 1893 Chicago World's Fair](#2098795017955418202)
 - [Kinetic Sand Table Simulation](#2098831830002851846)
@@ -115,6 +114,7 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [The Cyclops’ Island isometric 3D browser game](#2099414001851449430)
 - [Playable 3D Obstacle Course](#2099419671481249851)
 - [Interactive 3D Samurai Forest Scene](#2099450933067612421)
+- [Conifer Model Under 200 Polygons](#2099472264270102705)
 - [Switchable character expressions in Blender](#2096525100518453342)
 - [Rotatable 3D shogi board](#2096579856133947507)
 - [Exploded desktop-computer atlas](#2096578761877860502)
@@ -2077,7 +2077,7 @@ Deliver a complete, working website with polished visuals and functional interac
 
 ### Model the Brooklyn Bridge and test tanks crossing from both directions
 
-[Sahil Verma](https://x.com/sahilvermaai) · 2026-09-12
+[Higgsfield](https://x.com/higgsfield_ai) · 2026-09-12
 
 <a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098650336521064759"><img src="../assets/previews/93cbaf0c49da1dba0e914e583c1232163708ba8def2558de4037076085fb9995.jpg" width="840" loading="lazy" alt="Model the Brooklyn Bridge and test tanks crossing from both directions"></a>
 
@@ -2089,7 +2089,7 @@ A CAD and structural-load request quoted verbatim in the linked post by higgsfie
 Model the Brooklyn Bridge and test tanks crossing from both directions.
 ```
 
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098650336521064759) · [Original post](https://x.com/sahilvermaai/status/2098650336521064759) · [Back to examples](#all-prompts)
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098650336521064759) · [Original post](https://x.com/higgsfield_ai/status/2098244976027312474) · [Back to examples](#all-prompts)
 
 ---
 
@@ -2963,26 +2963,6 @@ Build a browser flight game called Skybound using Three.js. The player pilots a 
 
 ---
 
-<a id="2098749876620415165"></a>
-
-### Build a 3D racer
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098749876620415165"><img src="../assets/previews/3f69cf45c6957d71b74c7a2423d21a5d09b5aa2fc3aedfebbaa52cbbaf2b1981.jpg" width="840" loading="lazy" alt="Build a 3D racer"></a>
-
-A verbatim prompt from the root author’s described first test, requesting a modeled and wired playable 3D racing game with generated visuals.
-
-**Prompt**
-
-```text
-Build a 3D racer. Model it. Generate the visuals. Wire it together.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098749876620415165) · [Original post](https://x.com/JulianGoldieSEO/status/2098749876620415165) · [Back to examples](#all-prompts)
-
----
-
 <a id="2098774359926297011"></a>
 
 ### Modular 3D-Printed Picture Frame with Connectors
@@ -3266,6 +3246,26 @@ Build an interactive 3D scene featuring a samurai in a forest, with camera contr
 ```
 
 [View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2099450933067612421) · [Original post](https://x.com/JaynitMakwana/status/2099450933067612421) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2099472264270102705"></a>
+
+### Conifer Model Under 200 Polygons
+
+[わたもす / ゲーム制作](https://x.com/Watamos827) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2099472264270102705"><img src="../assets/previews/d81bde68ca027585c7577adaf607e29290f8f1b47af00bebbc03056842b0c904.jpg" width="840" loading="lazy" alt="Conifer Model Under 200 Polygons"></a>
+
+A prompt asking Astra to create a conifer with 200 polygons or fewer. The creator says they are struggling with the generated result ending up looking like poop.
+
+**Prompt**
+
+```text
+Could you create a conifer with 200 polygons or fewer?
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2099472264270102705) · [Original post](https://x.com/Watamos827/status/2099472264270102705) · [Back to examples](#all-prompts)
 
 ---
 
