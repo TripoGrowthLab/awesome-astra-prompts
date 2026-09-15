@@ -26,7 +26,7 @@
 **Un punto di partenza per il tuo prossimo gioco, scena o mondo interattivo.**
 
 
-**222 · Prompt Astra più recenti**
+**228 · Prompt Astra più recenti**
 
 ## Progetti in evidenza
 
@@ -46,10 +46,9 @@
 - [Collisore di particelle 3D interattivo](#2097781208596029936) · GitHub
 - [Atlante 3D interattivo della testa e del cervello umano](#2098105648106078541) · GitHub
 - [Atlante di Chernobyl](#2098841316591346006) · GitHub
+- [Esploratore interattivo dell’anatomia in 3D](#2099206962344800541) · GitHub
 - [Mosswing: gioco 3D mobile tap-to-flap](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
 - [Nucleo energetico interattivo a due anelli](#2096551010089263181) · GitHub
-- [Dal concept del personaggio al modello 3D riggato e al cartoon](#2096342420543660277)
-- [Ensemble 3D giocabile con animazione sincronizzata all’audio](#2096354461652488562)
 - [Crea e renderizza un buco nero in Blender](#2096391653669953761)
 - [Ricostruzione di Lego 1999 Racers](#2096438110095585753)
 - [La visione del tempio di Ezechiele in 3D](#2096547658164834788)
@@ -110,6 +109,11 @@
 - [Simulazione di un tavolo di sabbia cinetica](#2098831830002851846)
 - [Animazione 3D di origami che si piega da solo](#2098909584996057283)
 - [Unwrap UV e rebake in 4K di un modello di abiti senza testa](#2098980384260456813)
+- [Demo 3D giocabile nel browser: quartiere sul mare](#2099172061092381027)
+- [Ferrovia in miniatura autonoma con prevenzione delle collisioni](#2099362575339372780)
+- [Il gioco per browser 3D isometrico dell'isola del Ciclope](#2099414001851449430)
+- [Percorso a ostacoli 3D giocabile](#2099419671481249851)
+- [Scena 3D interattiva nella foresta con un samurai](#2099450933067612421)
 - [Espressioni del personaggio intercambiabili in Blender](#2096525100518453342)
 - [Scacchiera shogi 3D ruotabile](#2096579856133947507)
 - [Atlante esploso di un computer desktop](#2096578761877860502)
@@ -123,7 +127,6 @@
 - [Locomotiva a vapore attraverso la campagna](#2096577430274429157)
 - [Scena di un giradischi su un tavolo](#2096561346766877106)
 - [Ciclo di gioco di battaglie con carte collezionabili](#2096555856204644550)
-- [Gioco di simulazione di una rete ferroviaria](#2096362653480562751)
 - [Villaggio low poly di Gwacheon da esplorare a piedi](#2096490395614019793)
 - [Livello completo di rompicapo in Three.js](#2096505740643246231)
 - [Caccia al tesoro su una spiaggia low poly](#2096570815714414844)
@@ -135,13 +138,10 @@
 - [Acqua in loop con Geometry Nodes](#2096521798150242631)
 - [Mondo di navigazione ispirato a One Piece](#2096518775042707700)
 - [Attrattore di Lorenz interattivo](#2096572156453028193)
-- [Taverna con personale e ospiti attivi](#2096358854275543457)
 - [Una stanza personale come portfolio interattivo](#2096506357868642342)
 - [Barca YF-24 su un mare 3D tranquillo](#2096503275910832461)
 - [Appartamento giocabile ispirato a D4](#2096413869841473930)
-- [Esploratore orbitale del sistema solare](#2096339041679442428)
 - [Un logo 2D diventa un personaggio animato](#2096559197999501724)
-- [Gioco di un granchio con meccaniche basate sulle azioni](#2096337879173591171)
 - [Assemblaggio e animazione di asset 3D generati](#2096481425050743048)
 
 </details>
@@ -256,6 +256,32 @@ Fornisci il codice sorgente e un file HTML autonomo. Verifica tutti i controlli.
 
 ---
 
+<a id="2099206962344800541"></a>
+
+### Esploratore interattivo dell’anatomia in 3D
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-13
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099206962344800541"><img src="../assets/previews/71786191f6fb99e7d8e2b1cc4679b12bb2aaf5dd1c19ae8433692e1dc0e74a92.jpg" width="840" loading="lazy" alt="Esploratore interattivo dell’anatomia in 3D"></a>
+
+L’autore lo ha condiviso come prompt di partenza consigliato per creare una versione simile al suo sito interattivo Brain Cat. Il prompt richiede un esploratore anatomico 3D responsivo con visualizzazione trasparente progressiva, rotazione, separazione delle strutture, regioni con etichette, controlli dei livelli, segnali didattici animati e attribuzione delle fonti scientifiche.
+
+**Prompt**
+
+```text
+Crea un bellissimo esploratore interattivo dell’anatomia in 3D usando dataset scientifici disponibili pubblicamente. Inizia da una vista esterna che diventa gradualmente trasparente mentre eseguo lo zoom, rivelando l’anatomia sottostante.
+
+Permettimi di ruotare il modello, separare le strutture, selezionare le regioni con etichette e attivare o disattivare i livelli da un pannello laterale. Aggiungi schede separate per anatomia, connessioni e singole cellule, con segnali animati e controlli regolabili.
+
+Usa un’interfaccia moderna e minimalista, con illuminazione morbida, transizioni fluide, colori discreti e pochissimo testo. Includi frecce e un breve tutorial visivo. Deve funzionare su desktop e dispositivi mobili.
+
+Usa geometrie anatomiche reali quando disponibili, cita le fonti e distingui chiaramente i dati scientifici dalle animazioni illustrative. Crea un sito web funzionante.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099206962344800541) · [Post originale](https://x.com/k1rallik/status/2099206962344800541) · [Codice sorgente](https://github.com/bubblik525/cat_brain_anatomy) · [Torna agli esempi](#all-prompts)
+
+---
+
 <a id="mosswing-mobile-3d-tap-to-flap-game"></a>
 
 ### Mosswing: gioco 3D mobile tap-to-flap
@@ -291,64 +317,6 @@ Modella un nucleo energetico, due anelli e una base metallica in Blender. Esport
 ```
 
 [Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [Post originale](https://x.com/oneruofeng/status/2096551010089263181) · [Codice sorgente](https://github.com/wangruofeng/orbital-core-showcase) · [Demo](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="2096342420543660277"></a>
-
-### Dal concept del personaggio al modello 3D riggato e al cartoon
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2096342420543660277"><img src="../assets/previews/1712c53120622f0ba430f5985562bd6eb307621c1a4466ef9d2cf26c99b81716.jpg" width="840" loading="lazy" alt="Dal concept del personaggio al modello 3D riggato e al cartoon"></a>
-
-Un prompt per la produzione di un personaggio che include concept design, modellazione 3D texturizzata, retopologia, mappatura UV, rigging e un cartoon animato.
-
-**Prompt**
-
-```text
-Prendi il controllo del mio computer usando GPT-6 Astra e procedi come segue:
-
-1. crea un concept del personaggio con Higgsfield Soul 2.0,
-
-2. realizza un modello 3D texturizzato del personaggio,
-
-3. importalo in Blender,
-
-4. esegui la retopologia della mesh,
-
-5. crea una mappa UV,
-
-6. crea un rig per il personaggio,
-
-7. valuta quanto il modello sia pronto per la produzione,
-
-8. ripeti i passaggi precedenti se non sei soddisfatto dei risultati,
-
-9. quindi trasformalo in un cartoon usando Seedance 2.5 su Higgsfield
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2096342420543660277) · [Post originale](https://x.com/higgsfield_ai/status/2096342420543660277) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="2096354461652488562"></a>
-
-### Ensemble 3D giocabile con animazione sincronizzata all’audio
-
-[Generator](https://x.com/groovestreetgen) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2096354461652488562"><img src="../assets/previews/72b971d6246be2161f38fbee61113a317d4da0ae9c42e3fbe6f431adf9337003.jpg" width="840" loading="lazy" alt="Ensemble 3D giocabile con animazione sincronizzata all’audio"></a>
-
-Astra ha ricevuto l’incarico di creare un breve brano originale e un ensemble 3D giocabile con animazione guidata dall’audio, ricerca temporale, slow motion, controlli della telecamera, MIDI e codice sorgente.
-
-**Prompt**
-
-```text
-Componi un breve brano originale e realizza un ensemble 3D giocabile. Fai dipendere l’animazione dal tempo dell’audio. Includi ricerca temporale, slow motion, controlli della telecamera, MIDI e codice sorgente.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2096354461652488562) · [Post originale](https://x.com/groovestreetgen/status/2096354461652488562) · [Torna agli esempi](#all-prompts)
 
 ---
 
@@ -3159,6 +3127,147 @@ Non limitarti a descrivere il piano: completa il lavoro verificando effettivamen
 
 ---
 
+<a id="2099172061092381027"></a>
+
+### Demo 3D giocabile nel browser: quartiere sul mare
+
+[Lummox](https://x.com/Lummox_eth) · 2026-09-13
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099172061092381027"><img src="../assets/previews/f7beaa2f75393d632176cc10919ee4221cbba7b354677e202925812162b1e0e2.jpg" width="840" loading="lazy" alt="Demo 3D giocabile nel browser: quartiere sul mare"></a>
+
+Sequenza di sei prompt pubblicata da Lummox per una demo 3D giocabile nel browser. Definisce uno stack con Vite, TypeScript vanilla, Three.js, cannon-es e Web Audio; crea un quartiere sul mare al tramonto; mette in scena tre persone che salgono in auto; e specifica il ritmo delle clip e l'audio.
+
+**Prompt**
+
+```text
+> blocca la specifica (TZ-gta-slice.md)
+
+prompt: "Crea una demo 3D giocabile nel browser. Non modificare questa specifica dopo averla bloccata. Prima il quartiere e la clip. I controlli dopo."
+
+> lo stack (Vite, TypeScript vanilla, Three.js, cannon-es, Web Audio)
+
+prompt: "Lo stack è fisso. Vite. TypeScript vanilla. Three.js. cannon-es. Web Audio. Un solo URL del browser."
+
+> l'inquadratura (tramonto sull'acqua, asfalto bagnato, palme)
+
+prompt: "Un solo quartiere sul mare. Tramonto sull'acqua. Asfalto bagnato. Palme. Punta su luce e camera, non sul numero di poligoni. Niente luce grigia predefinita. Niente cubi nudi."
+
+> i tre (una scena, un'auto, circa 20 secondi)
+
+prompt: "Tieni i tre personaggi nella stessa scena. Parlano. Poi salgono tutti su un'auto. Circa 20 secondi. Qualità prima di interruttori aggiuntivi."
+
+> il montaggio (da 15 a 20 secondi, fluido)
+
+prompt: "Se rallenta, riduci la clip a 15-20 secondi. Mantienila fluida. Se il frame rate cala, elimina i pedoni, non la luce."
+
+> l'audio (voci umane, pad sotto le battute, rombo dell'auto)
+
+prompt: "Le voci devono sembrare umane, non robotiche. Un pad discreto sotto le battute, mai sopra. Quando salgono in auto, un rombo grave del motore, non un suono da sega. Niente fruscio radio."
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099172061092381027) · [Post originale](https://x.com/Lummox_eth/status/2099172061092381027) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="2099362575339372780"></a>
+
+### Ferrovia in miniatura autonoma con prevenzione delle collisioni
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099362575339372780"><img src="../assets/previews/71207bef30c1d03e3a6d1b9901b86283ff784be11dbe153eb9d9243cd1b2a1bc.jpg" width="840" loading="lazy" alt="Ferrovia in miniatura autonoma con prevenzione delle collisioni"></a>
+
+Una simulazione di ferrovia in miniatura a funzionamento autonomo, con almeno tre treni su binari condivisi. I treni gestiscono autonomamente scambi e segnali per evitare collisioni, lasciando al modello tutte le decisioni relative al design visivo. L’autore dichiara di aver fornito questo identico prompt sia a Fable 5.1 sia a GPT-6 Astra.
+
+**Prompt**
+
+```text
+Crea una ferrovia in miniatura con almeno tre treni in movimento contemporaneamente su un tracciato condiviso che includa scambi e segnali. I treni devono cambiare binario e fermarsi ai segnali autonomamente, in modo da non entrare mai in collisione e senza alcun input da parte dell’utente. La configurazione del tracciato, l’ambientazione e l’aspetto di ogni elemento sono lasciati a te. Ogni scelta di design spetta a te: stile, colori, atmosfera, ambiente, inquadratura, livello di dettaglio ed eventuali elementi aggiuntivi. Non farmi domande: prendi tu ogni decisione e realizza la versione più spettacolare possibile in un unico tentativo. Requisiti tecnici: un unico file HTML autonomo e completo, senza modelli 3D, immagini, suoni o URL di risorse esterne di alcun tipo (è consentita una libreria JavaScript caricata da una CDN). Deve avviarsi automaticamente nel momento in cui viene caricato, senza bisogno di clic, e funzionare fluidamente senza errori nella console.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099362575339372780) · [Post originale](https://x.com/free_ai_guides/status/2099362575339372780) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="2099414001851449430"></a>
+
+### Il gioco per browser 3D isometrico dell'isola del Ciclope
+
+[Jason Chew](https://x.com/jasoncjs_) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099414001851449430"><img src="../assets/previews/09544f1dda48f4288384850cffc3a8d4127273075bba899a6d5691ac2c90d730.jpg" width="840" loading="lazy" alt="Il gioco per browser 3D isometrico dell'isola del Ciclope"></a>
+
+Un prompt riutilizzabile per GPT-6 Astra, pubblicato da Jason Chew, per un gioco completo e interattivo per browser ambientato sull'isola del Ciclope dell'Odissea di Omero. Richiede un diorama 3D isometrico in pixel art di un'isola greca, con Ulisse, il suo equipaggio, il Ciclope, una nave al largo, movimento del giocatore, collisioni, comandi della telecamera, animazioni e un'interfaccia con obiettivo letterario.
+
+**Prompt**
+
+```text
+Crea un'esperienza interattiva per browser basata sull'Odissea di Omero - L'isola del Ciclope.
+
+Crea un diorama 3D isometrico in pixel art, curato nei dettagli, raffigurante una piccola isola greca circondata da un oceano animato. Includi una spiaggia sabbiosa, una fitta foresta, scogliere rocciose, una grande grotta, Ulisse e il suo equipaggio, il Ciclope e la loro nave al largo.
+
+Fai in modo che sembri un piccolo gioco giocabile:
+
+Controlla Ulisse con i tasti WASD o le frecce direzionali
+Fai clic sul terreno per camminare
+Trascina per spostare la telecamera
+Scorri per applicare lo zoom
+Aggiungi animazioni discrete per acqua, alberi, personaggi e ambiente
+Aggiungi comandi per ruotare la telecamera, applicare lo zoom, ripristinare la visuale e mettere in pausa
+Usa le collisioni per impedire al giocatore di attraversare rocce, alberi o acqua
+
+Aggiungi un pannello scuro dell'interfaccia, in basso a sinistra:
+
+“Guida Ulisse lungo il sentiero sabbioso fino alla grotta.”
+Mostra sotto il pannello il personaggio attuale e lo stato del movimento.
+Direzione artistica: pixel art isometrica dettagliata, nello stile dei giochi strategici e RPG degli anni '90, con colori mediterranei tenui, terreno materico, tipografia color pergamena, grana discreta e un'interfaccia di gioco di livello premium. Deve sembrare una vecchia mappa illustrata riportata in vita.
+Fai in modo che l'intera esperienza riempia la finestra del browser e funzioni immediatamente. Non creare un mockup. Realizza l'esperienza interattiva completa.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099414001851449430) · [Post originale](https://x.com/jasoncjs_/status/2099414001851449430) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="2099419671481249851"></a>
+
+### Percorso a ostacoli 3D giocabile
+
+[Dhaval Makwana](https://x.com/heyDhavall) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099419671481249851"><img src="../assets/previews/87bdfaa39a38fdfb7b63bde1e513fb3958b3e57885066c2c715852966b94ff03.jpg" width="840" loading="lazy" alt="Percorso a ostacoli 3D giocabile"></a>
+
+L’autore afferma di aver fornito a GPT-6 Astra questa idea in Codex. La richiesta è un piccolo percorso a ostacoli 3D giocabile con un personaggio, barriere mobili, oggetti da raccogliere e un’area obiettivo.
+
+**Prompt**
+
+```text
+Un piccolo percorso a ostacoli 3D con un personaggio, barriere mobili, oggetti da raccogliere e una semplice area obiettivo.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099419671481249851) · [Post originale](https://x.com/heyDhavall/status/2099419671481249851) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="2099450933067612421"></a>
+
+### Scena 3D interattiva nella foresta con un samurai
+
+[Jaynit Makwana](https://x.com/JaynitMakwana) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099450933067612421"><img src="../assets/previews/b4ad88ddc0ce72ee20be4fe702ab51b4e2c36fbe5adab92de05b1a8ab2b5f5d4.jpg" width="840" loading="lazy" alt="Scena 3D interattiva nella foresta con un samurai"></a>
+
+Jaynit Makwana racconta di aver fornito questa idea a GPT-6 Astra in Codex. Il risultato richiesto è una scena 3D interattiva nella foresta, con un samurai, controlli della camera, illuminazione cinematografica, dettagli ambientali e una presentazione essenziale. L’autore afferma che Hyper3D Rodin MCP ha generato il modello del samurai per l’esperienza risultante.
+
+**Prompt**
+
+```text
+Crea una scena 3D interattiva con un samurai nella foresta, includendo controlli della camera, illuminazione cinematografica, dettagli ambientali e una presentazione essenziale.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099450933067612421) · [Post originale](https://x.com/JaynitMakwana/status/2099450933067612421) · [Torna agli esempi](#all-prompts)
+
+---
+
 <a id="2096525100518453342"></a>
 
 ### Espressioni del personaggio intercambiabili in Blender
@@ -3393,24 +3502,6 @@ Crea un prototipo di carte collezionabili in Three.js: acquistare mazzi e buste,
 
 ---
 
-<a id="2096362653480562751"></a>
-
-### Gioco di simulazione di una rete ferroviaria
-
-[Tom Krcha](https://x.com/tomkrcha) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/railway-network-simulation-game-2096362653480562751"><img src="../assets/previews/66b6fe9a782625a1d13bf79872857593fecf604421e40eb8cfd67c212ad0b695.webp" width="840" loading="lazy" alt="Gioco di simulazione di una rete ferroviaria"></a>
-
-**Prompt**
-
-```text
-Espandi un modello di treno Three.js in una simulazione ferroviaria con città, snodi, fiumi e ponti. Aggiungi camere di inseguimento del treno, 3D libera e isometrica, oltre a effetti di fumo.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/railway-network-simulation-game-2096362653480562751) · [Post originale](https://x.com/tomkrcha/status/2096362653480562751) · [Torna agli esempi](#all-prompts)
-
----
-
 <a id="2096490395614019793"></a>
 
 ### Villaggio low poly di Gwacheon da esplorare a piedi
@@ -3609,24 +3700,6 @@ Visualizza due traiettorie del sistema di Lorenz con una differenza minima nella
 
 ---
 
-<a id="2096358854275543457"></a>
-
-### Taverna con personale e ospiti attivi
-
-[Rogue](https://x.com/Rogue0114) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457"><img src="../assets/previews/51cf1822b9fe467de3b29ffd21021bd2f05a0a1aadf86773596869583512f603.webp" width="840" loading="lazy" alt="Taverna con personale e ospiti attivi"></a>
-
-**Prompt**
-
-```text
-Ricrea una taverna da un’immagine di riferimento e popolala di ospiti e lavoratori. Fai ordinare cibo e bevande agli ospiti e preparare gli ordini al personale, con gestione delle collisioni e ricerca dei percorsi.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457) · [Post originale](https://x.com/Rogue0114/status/2096358854275543457) · [Torna agli esempi](#all-prompts)
-
----
-
 <a id="2096506357868642342"></a>
 
 ### Una stanza personale come portfolio interattivo
@@ -3681,24 +3754,6 @@ Studia l’appartamento del protagonista di D4 e ricrealo come prototipo 3D gioc
 
 ---
 
-<a id="2096339041679442428"></a>
-
-### Esploratore orbitale del sistema solare
-
-[Andromedus](https://x.com/dzhohola) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/orbital-solar-system-explorer-2096339041679442428"><img src="../assets/previews/3b8d0fa55368b35e4f43bb0769b66adc3283691f2ddc0fcc9deaed3e05447fe0.webp" width="840" loading="lazy" alt="Esploratore orbitale del sistema solare"></a>
-
-**Prompt**
-
-```text
-Crea un esploratore del sistema solare nel browser con Three.js, otto pianeti e venti lune. Consenti di muovere la camera e pianificare voli spaziali in modo semplificato.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/orbital-solar-system-explorer-2096339041679442428) · [Post originale](https://x.com/dzhohola/status/2096339041679442428) · [Torna agli esempi](#all-prompts)
-
----
-
 <a id="2096559197999501724"></a>
 
 ### Un logo 2D diventa un personaggio animato
@@ -3714,24 +3769,6 @@ Trasforma il logo 2D del personaggio fornito in una versione 3D animata. Conserv
 ```
 
 [Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724) · [Post originale](https://x.com/anthonyriera/status/2096559197999501724) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="2096337879173591171"></a>
-
-### Gioco di un granchio con meccaniche basate sulle azioni
-
-[ZEUS⚡️](https://x.com/zeuuss_01) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171"><img src="../assets/previews/b357895cffa990ebc6d5404e59b1f2371a45536a5cabca80b976c590192d8338.webp" width="840" loading="lazy" alt="Gioco di un granchio con meccaniche basate sulle azioni"></a>
-
-**Prompt**
-
-```text
-Crea un gioco di un granchio in Three.js da un brief strutturato che copra aspetto, personaggio, mondo, azioni, obiettivi, interfaccia e camera. Fai sollevare le monete e volare verso il granchio al suo passaggio; segnala i requisiti contraddittori.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171) · [Post originale](https://x.com/zeuuss_01/status/2096337879173591171) · [Demo](https://beach-crab-game.netlify.app/) · [Torna agli esempi](#all-prompts)
 
 ---
 
@@ -3756,7 +3793,7 @@ Genera asset 3D ottimizzati con Tripo P2, assemblali in Blender ed esegui riggin
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 222 esempi sul sito ufficiale →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 228 esempi sul sito ufficiale →</a></strong></p>
 <p><sub>Per mantenere fluido il rendering del README su GitHub, qui mostriamo solo i 100 esempi più recenti.</sub></p>
 <br>
 </td></tr>

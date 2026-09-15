@@ -27,7 +27,7 @@
 
 探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。
 
-**222 条案例 · 14 种语言 · 10 条附项目源码**
+**228 条案例 · 14 种语言 · 11 条附项目源码**
 
 ## 精选作品
 
@@ -47,10 +47,9 @@
 - [交互式 3D 粒子对撞机](#2097781208596029936) · GitHub
 - [人类头部与大脑交互式 3D 图谱](#2098105648106078541) · GitHub
 - [切尔诺贝利图谱](#2098841316591346006) · GitHub
+- [交互式 3D 解剖探索器](#2099206962344800541) · GitHub
 - [Mosswing：移动端 3D 点击振翅游戏](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
 - [双环能量核心交互展示](#2096551010089263181) · GitHub
-- [从角色概念到 3D 建模、绑定与动画](#2096342420543660277)
-- [可玩的3D乐团与音频同步动画](#2096354461652488562)
 - [在 Blender 中创建并渲染黑洞](#2096391653669953761)
 - [重制 Lego 1999 Racers](#2096438110095585753)
 - [以西结的圣殿异象：3D 场景](#2096547658164834788)
@@ -111,6 +110,11 @@
 - [动力沙桌模拟](#2098831830002851846)
 - [自折叠 3D 折纸动画](#2098909584996057283)
 - [无头服装模型的 UV 展开与 4K 重新烘焙](#2098980384260456813)
+- [可玩的 3D 浏览器海岸城区片段](#2099172061092381027)
+- [具备防碰撞功能的自动运行模型铁路](#2099362575339372780)
+- [独眼巨人岛：等距视角 3D 浏览器游戏](#2099414001851449430)
+- [可玩 3D 障碍赛道](#2099419671481249851)
+- [可交互的 3D 武士森林场景](#2099450933067612421)
 - [Blender 角色表情切换](#2096525100518453342)
 - [可旋转的 3D 将棋棋盘](#2096579856133947507)
 - [台式电脑交互拆解图谱](#2096578761877860502)
@@ -124,7 +128,6 @@
 - [穿越田园的蒸汽机车](#2096577430274429157)
 - [黑胶唱机桌面场景](#2096561346766877106)
 - [集换式卡牌战斗循环](#2096555856204644550)
-- [铁路网络模拟游戏](#2096362653480562751)
 - [可漫游的低多边形果川村落](#2096490395614019793)
 - [完整的 Three.js 解谜关卡](#2096505740643246231)
 - [低多边形海滩寻宝](#2096570815714414844)
@@ -136,13 +139,10 @@
 - [几何节点循环水面](#2096521798150242631)
 - [海贼王风格航海世界](#2096518775042707700)
 - [交互式洛伦兹吸引子](#2096572156453028193)
-- [有员工与顾客互动的酒馆](#2096358854275543457)
 - [用自己的房间做交互式作品集](#2096506357868642342)
 - [YF-24 船只与轻浪 3D 海面](#2096503275910832461)
 - [可游玩的 D4 风格公寓](#2096413869841473930)
-- [Orbital 太阳系探索](#2096339041679442428)
 - [二维标志变成动画角色](#2096559197999501724)
-- [以动作效果定义机制的螃蟹游戏](#2096337879173591171)
 - [组装并动画化生成的 3D 资产](#2096481425050743048)
 
 </details>
@@ -257,6 +257,32 @@
 
 ---
 
+<a id="2099206962344800541"></a>
+
+### 交互式 3D 解剖探索器
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-13
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099206962344800541"><img src="../assets/previews/71786191f6fb99e7d8e2b1cc4679b12bb2aaf5dd1c19ae8433692e1dc0e74a92.jpg" width="840" loading="lazy" alt="交互式 3D 解剖探索器"></a>
+
+作者将此内容分享为一个推荐起始提示词，用于构建类似其 Interactive Brain Cat 网站的版本。它要求创建一个响应式 3D 解剖探索器，支持透明显示、旋转、结构分离、区域标注、图层控制、教育信号动画，以及科学来源引用。
+
+**提示词**
+
+```text
+使用公开可用的科学数据集，构建一个精美的交互式 3D 解剖探索器。从外部视图开始，随着我放大，模型逐渐变为透明，显示下方的解剖结构。
+
+支持旋转模型、分离结构、选择带标签的区域，并通过侧边面板切换图层。为解剖结构、连接和单个细胞分别设置选项卡，并加入信号动画和可调节控件。
+
+采用现代、简洁的界面，配合柔和光照、平滑过渡、低饱和色彩和极少的文字。加入箭头和简短的可视化教程。确保在桌面端和移动端都能运行。
+
+尽可能使用真实的解剖几何数据，注明数据来源，并清晰区分科学数据与示意动画。构建一个可正常运行的网站。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099206962344800541) · [查看原帖](https://x.com/k1rallik/status/2099206962344800541) · [项目源码](https://github.com/bubblik525/cat_brain_anatomy) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="mosswing-mobile-3d-tap-to-flap-game"></a>
 
 ### Mosswing：移动端 3D 点击振翅游戏
@@ -292,64 +318,6 @@
 ```
 
 [查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [查看原帖](https://x.com/oneruofeng/status/2096551010089263181) · [项目源码](https://github.com/wangruofeng/orbital-core-showcase) · [在线演示](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2096342420543660277"></a>
-
-### 从角色概念到 3D 建模、绑定与动画
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096342420543660277"><img src="../assets/previews/1712c53120622f0ba430f5985562bd6eb307621c1a4466ef9d2cf26c99b81716.jpg" width="840" loading="lazy" alt="从角色概念到 3D 建模、绑定与动画"></a>
-
-涵盖概念设计、带纹理的3D建模、重拓扑、UV映射、骨骼绑定和卡通动画制作的角色制作提示词。
-
-**提示词**
-
-```text
-使用 GPT-6 Astra 接管我的电脑，并完成以下操作：
-
-1. 使用 Higgsfield Soul 2.0 设计角色概念，
-
-2. 制作带纹理的角色3D模型，
-
-3. 将其导入 Blender，
-
-4. 对网格进行重拓扑，
-
-5. 创建 UV 映射，
-
-6. 创建角色骨骼绑定，
-
-7. 评估模型是否达到制作就绪状态，
-
-8. 如果对结果不满意，重新执行之前的步骤，
-
-9. 然后使用 Higgsfield 上的 Seedance 2.5 将其制作成卡通动画
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096342420543660277) · [查看原帖](https://x.com/higgsfield_ai/status/2096342420543660277) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2096354461652488562"></a>
-
-### 可玩的3D乐团与音频同步动画
-
-[Generator](https://x.com/groovestreetgen) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096354461652488562"><img src="../assets/previews/72b971d6246be2161f38fbee61113a317d4da0ae9c42e3fbe6f431adf9337003.jpg" width="840" loading="lazy" alt="可玩的3D乐团与音频同步动画"></a>
-
-Astra受邀创作一段原创短篇作品，并打造一个支持音频驱动动画、时间轴定位、慢动作、摄像机控制、MIDI和源文件的可玩3D乐团。
-
-**提示词**
-
-```text
-创作一段原创短篇作品，并打造一个可玩的3D乐团。根据音频时间驱动动画。加入时间轴定位、慢动作、摄像机控制、MIDI和源文件。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096354461652488562) · [查看原帖](https://x.com/groovestreetgen/status/2096354461652488562) · [返回案例导航](#all-prompts)
 
 ---
 
@@ -3072,6 +3040,147 @@ DEVICE
 
 ---
 
+<a id="2099172061092381027"></a>
+
+### 可玩的 3D 浏览器海岸城区片段
+
+[Lummox](https://x.com/Lummox_eth) · 2026-09-13
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099172061092381027"><img src="../assets/previews/f7beaa2f75393d632176cc10919ee4221cbba7b354677e202925812162b1e0e2.jpg" width="840" loading="lazy" alt="可玩的 3D 浏览器海岸城区片段"></a>
+
+Lummox 发布的六步提示词序列，用于制作一个可玩的 3D 浏览器片段。技术栈固定为 Vite、原生 TypeScript、Three.js、cannon-es 和 Web Audio；场景设定为日落时分的海岸城区，安排三个人上车，并明确片段节奏与音频设计。
+
+**提示词**
+
+```text
+> 锁定规格（TZ-gta-slice.md）
+
+prompt: "制作一个可玩的 3D 浏览器片段。规格锁定后不得更改。先做城区和片段，再处理控制。"
+
+> 技术栈（Vite、原生 TypeScript、Three.js、cannon-es、Web Audio）
+
+prompt: "技术栈固定：Vite、原生 TypeScript、Three.js、cannon-es、Web Audio。使用一个浏览器 URL。"
+
+> 画面（日落映照水面、湿润沥青路面、棕榈树）
+
+prompt: "只做一个海岸城区。水面上方是日落。路面湿润。加入棕榈树。重点呈现光照和镜头，而不是多边形数量。不要使用默认的灰色光照。不要放光秃秃的方块。"
+
+> 三个人（一个场景、一辆车、约 20 秒）
+
+prompt: "让三个人处于同一个场景中。他们先交谈，然后一起坐进一辆车。时长约 20 秒。优先保证质量，不要增加多余的切换。"
+
+> 剪辑（15 到 20 秒，保持流畅）
+
+prompt: "如果出现卡顿，就将片段剪到 15 到 20 秒。保持流畅。如果帧率下降，删减行人，不要削弱光照。"
+
+> 声音（人声、台词下方的铺底音、汽车低沉轰鸣）
+
+prompt: "人声必须听起来像真人，不能像机器人。台词下方使用安静的铺底音，绝不能盖过台词。他们坐下后加入低沉的汽车轰鸣，不要做成电锯声。不要有收音机嘶嘶声。"
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099172061092381027) · [查看原帖](https://x.com/Lummox_eth/status/2099172061092381027) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2099362575339372780"></a>
+
+### 具备防碰撞功能的自动运行模型铁路
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099362575339372780"><img src="../assets/previews/71207bef30c1d03e3a6d1b9901b86283ff784be11dbe153eb9d9243cd1b2a1bc.jpg" width="840" loading="lazy" alt="具备防碰撞功能的自动运行模型铁路"></a>
+
+一个自动运行的模型铁路模拟，至少包含三列在共用轨道上运行的火车。火车会自主控制道岔和信号，避免发生碰撞，所有视觉设计决策均交由模型自行决定。作者表示，Fable 5.1 和 GPT-6 Astra 都使用了这条完全相同的提示词。
+
+**提示词**
+
+```text
+构建一个模型铁路，至少包含三列同时在共用轨道布局上运行的火车，轨道布局中应包括道岔和信号。火车必须能够自主切换轨道，并在信号处自动停车，确保永远不会发生碰撞，且整个过程无需用户输入。轨道布局、场景设定以及所有元素的视觉效果都由你决定。设计中的一切都由你做主：风格、色彩、氛围、环境、摄像机、细节程度，以及任何额外的润色元素。不要向我提问，自行做出所有选择，并在一次生成中尽可能打造最出色的版本。技术要求：使用一个单独的自包含 HTML 文件，不得使用任何外部模型、图片、声音或资源 URL（通过 CDN 加载 JavaScript 库可以接受）。页面加载后必须立即自动开始运行，无需点击，并且运行流畅、控制台不能出现错误。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099362575339372780) · [查看原帖](https://x.com/free_ai_guides/status/2099362575339372780) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2099414001851449430"></a>
+
+### 独眼巨人岛：等距视角 3D 浏览器游戏
+
+[Jason Chew](https://x.com/jasoncjs_) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099414001851449430"><img src="../assets/previews/09544f1dda48f4288384850cffc3a8d4127273075bba899a6d5691ac2c90d730.jpg" width="840" loading="lazy" alt="独眼巨人岛：等距视角 3D 浏览器游戏"></a>
+
+Jason Chew 发布的一条可复用 GPT-6 Astra 提示词，用于制作一款以《奥德赛》中的独眼巨人岛为背景的完整互动浏览器游戏。提示词要求打造一座等距视角像素风 3D 希腊岛屿立体场景，其中包含奥德修斯、他的船员、独眼巨人、近海船只、玩家移动、碰撞检测、镜头控制、动画，以及文学风格的目标界面。
+
+**提示词**
+
+```text
+制作一款基于荷马史诗《奥德赛》之“独眼巨人岛”的互动浏览器体验。
+
+创建一座精致的等距视角像素风 3D 立体场景：一座被动态海洋环绕的小型希腊岛屿。加入沙滩、茂密森林、嶙峋悬崖、巨型洞穴、奥德修斯及其船员、独眼巨人，以及停泊在近海的船只。
+
+让它具有一款小型可玩游戏的体验：
+
+使用 WASD 或方向键控制奥德修斯
+点击地面移动
+拖动平移镜头
+滚动缩放
+加入细微的水面、树木、角色和环境动画
+加入镜头旋转、缩放、重置视角和暂停控制
+加入碰撞检测，避免玩家穿过岩石、树木或水面
+
+在左下角加入深色文学风格的 UI 面板：
+
+“带领奥德修斯沿沙路前往洞穴。”
+在面板下方显示当前角色和移动状态。
+美术方向：采用细节丰富的 1990 年代等距视角策略/RPG 像素艺术风格，使用低饱和的地中海色彩、带纹理的地形、温暖的羊皮纸风格字体、细微颗粒感和高级游戏 UI。整体应像一幅被赋予生命的古老插画地图。
+让整个体验铺满浏览器窗口，并确保打开后即可运行。不要制作演示模型，直接构建完整的互动体验。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099414001851449430) · [查看原帖](https://x.com/jasoncjs_/status/2099414001851449430) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2099419671481249851"></a>
+
+### 可玩 3D 障碍赛道
+
+[Dhaval Makwana](https://x.com/heyDhavall) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099419671481249851"><img src="../assets/previews/87bdfaa39a38fdfb7b63bde1e513fb3958b3e57885066c2c715852966b94ff03.jpg" width="840" loading="lazy" alt="可玩 3D 障碍赛道"></a>
+
+作者称，他们已在 Codex 中将这一想法交给 GPT-6 Astra。该想法要求制作一个小型可玩 3D 障碍赛道，其中包含角色、移动障碍物、可收集物品和目标区域。
+
+**提示词**
+
+```text
+一个包含角色、移动障碍物、可收集物品和简单目标区域的小型 3D 障碍赛道。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099419671481249851) · [查看原帖](https://x.com/heyDhavall/status/2099419671481249851) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2099450933067612421"></a>
+
+### 可交互的 3D 武士森林场景
+
+[Jaynit Makwana](https://x.com/JaynitMakwana) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099450933067612421"><img src="../assets/previews/b4ad88ddc0ce72ee20be4fe702ab51b4e2c36fbe5adab92de05b1a8ab2b5f5d4.jpg" width="840" loading="lazy" alt="可交互的 3D 武士森林场景"></a>
+
+Jaynit Makwana 表示，他们在 Codex 中将这个创意交给了 GPT-6 Astra。预期成果是一个包含武士、镜头控制、电影感灯光和丰富环境细节，并采用简洁呈现方式的可交互 3D 森林场景。作者称，最终体验中的武士模型由 Hyper3D Rodin MCP 生成。
+
+**提示词**
+
+```text
+构建一个以森林中的武士为主题的可交互 3D 场景，加入镜头控制、电影感灯光和环境细节，并采用简洁的呈现方式。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099450933067612421) · [查看原帖](https://x.com/JaynitMakwana/status/2099450933067612421) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="2096525100518453342"></a>
 
 ### Blender 角色表情切换
@@ -3306,24 +3415,6 @@ DEVICE
 
 ---
 
-<a id="2096362653480562751"></a>
-
-### 铁路网络模拟游戏
-
-[Tom Krcha](https://x.com/tomkrcha) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/railway-network-simulation-game-2096362653480562751"><img src="../assets/previews/66b6fe9a782625a1d13bf79872857593fecf604421e40eb8cfd67c212ad0b695.webp" width="840" loading="lazy" alt="铁路网络模拟游戏"></a>
-
-**提示词**
-
-```text
-将 Three.js 列车模型扩展为包含城市、道岔、河流和桥梁的铁路模拟游戏，加入列车跟随、自由 3D 与等距视角，以及烟雾效果。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/railway-network-simulation-game-2096362653480562751) · [查看原帖](https://x.com/tomkrcha/status/2096362653480562751) · [返回案例导航](#all-prompts)
-
----
-
 <a id="2096490395614019793"></a>
 
 ### 可漫游的低多边形果川村落
@@ -3522,24 +3613,6 @@ DEVICE
 
 ---
 
-<a id="2096358854275543457"></a>
-
-### 有员工与顾客互动的酒馆
-
-[Rogue](https://x.com/Rogue0114) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457"><img src="../assets/previews/51cf1822b9fe467de3b29ffd21021bd2f05a0a1aadf86773596869583512f603.webp" width="840" loading="lazy" alt="有员工与顾客互动的酒馆"></a>
-
-**提示词**
-
-```text
-根据参考图重建酒馆，加入顾客与员工。让顾客点餐点酒、员工准备食物和饮品，并实现碰撞处理与寻路。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457) · [查看原帖](https://x.com/Rogue0114/status/2096358854275543457) · [返回案例导航](#all-prompts)
-
----
-
 <a id="2096506357868642342"></a>
 
 ### 用自己的房间做交互式作品集
@@ -3594,24 +3667,6 @@ DEVICE
 
 ---
 
-<a id="2096339041679442428"></a>
-
-### Orbital 太阳系探索
-
-[Andromedus](https://x.com/dzhohola) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/orbital-solar-system-explorer-2096339041679442428"><img src="../assets/previews/3b8d0fa55368b35e4f43bb0769b66adc3283691f2ddc0fcc9deaed3e05447fe0.webp" width="840" loading="lazy" alt="Orbital 太阳系探索"></a>
-
-**提示词**
-
-```text
-在 Three.js 中制作浏览器太阳系探索器，包含八颗行星和二十颗卫星，支持移动镜头和简化的航天路线规划。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/orbital-solar-system-explorer-2096339041679442428) · [查看原帖](https://x.com/dzhohola/status/2096339041679442428) · [返回案例导航](#all-prompts)
-
----
-
 <a id="2096559197999501724"></a>
 
 ### 二维标志变成动画角色
@@ -3627,24 +3682,6 @@ DEVICE
 ```
 
 [查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724) · [查看原帖](https://x.com/anthonyriera/status/2096559197999501724) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2096337879173591171"></a>
-
-### 以动作效果定义机制的螃蟹游戏
-
-[ZEUS⚡️](https://x.com/zeuuss_01) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171"><img src="../assets/previews/b357895cffa990ebc6d5404e59b1f2371a45536a5cabca80b976c590192d8338.webp" width="840" loading="lazy" alt="以动作效果定义机制的螃蟹游戏"></a>
-
-**提示词**
-
-```text
-根据涵盖外观、角色、世界、动作、目标、界面和镜头的结构化说明，制作 Three.js 螃蟹游戏。让金币在螃蟹经过时升起并飞向它，并指出需求中的矛盾。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171) · [查看原帖](https://x.com/zeuuss_01/status/2096337879173591171) · [在线演示](https://beach-crab-game.netlify.app/) · [返回案例导航](#all-prompts)
 
 ---
 
@@ -3669,7 +3706,7 @@ DEVICE
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 222 条案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 228 条案例 →</a></strong></p>
 <p><sub>为保持 GitHub README 渲染流畅，这里仅展示最新 100 条案例。</sub></p>
 <br>
 </td></tr>

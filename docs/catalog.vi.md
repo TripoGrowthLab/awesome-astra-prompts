@@ -26,7 +26,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**222 · Prompt Astra mới nhất**
+**228 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -46,10 +46,9 @@
 - [Máy gia tốc hạt 3D tương tác](#2097781208596029936) · GitHub
 - [Atlas 3D tương tác về đầu và não người](#2098105648106078541) · GitHub
 - [Atlas Chernobyl](#2098841316591346006) · GitHub
+- [Trình khám phá giải phẫu 3D tương tác](#2099206962344800541) · GitHub
 - [Mosswing: Game 3D mobile chạm để vỗ cánh](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
 - [Lõi năng lượng hai vòng tương tác](#2096551010089263181) · GitHub
-- [Từ ý tưởng nhân vật đến mô hình 3D đã rig và phim hoạt hình](#2096342420543660277)
-- [Nhóm nhạc 3D có thể tương tác với hoạt ảnh đồng bộ âm thanh](#2096354461652488562)
 - [Tạo và kết xuất hố đen trong Blender](#2096391653669953761)
 - [Tái tạo Lego 1999 Racers](#2096438110095585753)
 - [Khải tượng đền thờ của Ê-xê-chi-ên trong không gian 3D](#2096547658164834788)
@@ -110,6 +109,11 @@
 - [Mô phỏng bàn cát động lực](#2098831830002851846)
 - [Hoạt ảnh origami 3D tự gấp](#2098909584996057283)
 - [Triển khai UV và bake lại 4K cho mô hình quần áo không có đầu](#2098980384260456813)
+- [Phân cảnh 3D khu ven biển có thể chơi trên trình duyệt](#2099172061092381027)
+- [Đường sắt mô hình tự động tránh va chạm](#2099362575339372780)
+- [Trò chơi 3D trên trình duyệt với góc nhìn đẳng phối cảnh: Đảo Cyclops](#2099414001851449430)
+- [Màn vượt chướng ngại vật 3D có thể chơi](#2099419671481249851)
+- [Cảnh rừng Samurai 3D tương tác](#2099450933067612421)
 - [Chuyển đổi biểu cảm nhân vật trong Blender](#2096525100518453342)
 - [Bàn cờ shogi 3D có thể xoay](#2096579856133947507)
 - [Bản đồ tháo rời linh kiện máy tính để bàn](#2096578761877860502)
@@ -123,7 +127,6 @@
 - [Đầu máy hơi nước chạy qua miền quê](#2096577430274429157)
 - [Cảnh máy hát đĩa than trên bàn](#2096561346766877106)
 - [Vòng lặp đối chiến của trò chơi thẻ bài sưu tầm](#2096555856204644550)
-- [Trò chơi mô phỏng mạng lưới đường sắt](#2096362653480562751)
 - [Dạo bước trong ngôi làng low-poly lấy cảm hứng từ Gwacheon](#2096490395614019793)
 - [Màn chơi giải đố Three.js hoàn chỉnh](#2096505740643246231)
 - [Săn kho báu trên bãi biển low-poly](#2096570815714414844)
@@ -135,13 +138,10 @@
 - [Mặt nước lặp tuần hoàn bằng Geometry Nodes](#2096521798150242631)
 - [Thế giới hàng hải lấy cảm hứng từ One Piece](#2096518775042707700)
 - [Tập hút Lorenz tương tác](#2096572156453028193)
-- [Quán rượu với nhân viên và khách hoạt động](#2096358854275543457)
 - [Biến căn phòng riêng thành hồ sơ năng lực tương tác](#2096506357868642342)
 - [Thuyền YF-24 trên mặt biển 3D êm dịu](#2096503275910832461)
 - [Căn hộ lấy cảm hứng từ D4 có thể khám phá trong game](#2096413869841473930)
-- [Khám phá quỹ đạo trong Hệ Mặt Trời](#2096339041679442428)
 - [Từ logo 2D đến nhân vật chuyển động](#2096559197999501724)
-- [Trò chơi chú cua với cơ chế xoay quanh hành động](#2096337879173591171)
 - [Lắp ghép và tạo hoạt ảnh cho các mô hình 3D đã tạo](#2096481425050743048)
 
 </details>
@@ -256,6 +256,32 @@ Cung cấp mã nguồn và một tệp HTML độc lập. Kiểm thử tất c�
 
 ---
 
+<a id="2099206962344800541"></a>
+
+### Trình khám phá giải phẫu 3D tương tác
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-13
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099206962344800541"><img src="../assets/previews/71786191f6fb99e7d8e2b1cc4679b12bb2aaf5dd1c19ae8433692e1dc0e74a92.jpg" width="840" loading="lazy" alt="Trình khám phá giải phẫu 3D tương tác"></a>
+
+Tác giả chia sẻ đây là prompt khởi đầu được đề xuất để xây dựng một phiên bản tương tự website Brain Cat tương tác của họ. Prompt yêu cầu một trình khám phá giải phẫu 3D thích ứng, có hiệu ứng làm trong suốt để hiển thị phần bên trong, khả năng xoay và tách riêng các cấu trúc, các vùng được gắn nhãn, điều khiển lớp, tín hiệu giáo dục dạng hoạt ảnh và trích dẫn nguồn khoa học.
+
+**Prompt**
+
+```text
+Xây dựng một trình khám phá giải phẫu 3D tương tác, đẹp mắt, sử dụng các bộ dữ liệu khoa học công khai. Bắt đầu với góc nhìn bên ngoài, sau đó dần trở nên trong suốt khi tôi phóng to để hiển thị phần giải phẫu bên dưới.
+
+Cho phép tôi xoay mô hình, tách riêng các cấu trúc, chọn các vùng được gắn nhãn và bật/tắt các lớp từ bảng điều khiển bên. Thêm các tab riêng cho giải phẫu, kết nối và từng tế bào, kèm tín hiệu động cùng các tùy chỉnh có thể điều chỉnh.
+
+Sử dụng giao diện hiện đại, tối giản với ánh sáng dịu, màu sắc tinh tế, chuyển cảnh mượt mà và rất ít chữ. Thêm mũi tên cùng một hướng dẫn trực quan ngắn. Đảm bảo hoạt động tốt trên máy tính và thiết bị di động.
+
+Sử dụng hình học giải phẫu thực tế khi có thể, trích dẫn các nguồn và phân biệt rõ dữ liệu khoa học với hoạt ảnh minh họa. Xây dựng một website hoạt động hoàn chỉnh.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099206962344800541) · [Bài đăng gốc](https://x.com/k1rallik/status/2099206962344800541) · [Mã nguồn](https://github.com/bubblik525/cat_brain_anatomy) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="mosswing-mobile-3d-tap-to-flap-game"></a>
 
 ### Mosswing: Game 3D mobile chạm để vỗ cánh
@@ -291,64 +317,6 @@ Dựng lõi năng lượng, hai vòng và đế kim loại trong Blender. Xuất
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [Bài đăng gốc](https://x.com/oneruofeng/status/2096551010089263181) · [Mã nguồn](https://github.com/wangruofeng/orbital-core-showcase) · [Bản demo](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096342420543660277"></a>
-
-### Từ ý tưởng nhân vật đến mô hình 3D đã rig và phim hoạt hình
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096342420543660277"><img src="../assets/previews/1712c53120622f0ba430f5985562bd6eb307621c1a4466ef9d2cf26c99b81716.jpg" width="840" loading="lazy" alt="Từ ý tưởng nhân vật đến mô hình 3D đã rig và phim hoạt hình"></a>
-
-Prompt sản xuất nhân vật bao quát thiết kế ý tưởng, dựng mô hình 3D có kết cấu bề mặt, retopology, tạo UV, rigging và phim hoạt hình.
-
-**Prompt**
-
-```text
-Hãy điều khiển máy tính của tôi bằng GPT-6 Astra và thực hiện các bước sau:
-
-1. thiết kế ý tưởng nhân vật bằng Higgsfield Soul 2.0,
-
-2. dựng mô hình 3D có kết cấu bề mặt từ ý tưởng đó,
-
-3. nhập mô hình vào Blender,
-
-4. thực hiện retopology cho lưới,
-
-5. tạo UV map,
-
-6. xây dựng rig cho nhân vật,
-
-7. đánh giá mức độ sẵn sàng đưa mô hình vào sản xuất,
-
-8. thực hiện lại các bước trước nếu bạn không hài lòng với kết quả,
-
-9. sau đó chuyển mô hình thành phim hoạt hình bằng Seedance 2.5 trên Higgsfield
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096342420543660277) · [Bài đăng gốc](https://x.com/higgsfield_ai/status/2096342420543660277) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096354461652488562"></a>
-
-### Nhóm nhạc 3D có thể tương tác với hoạt ảnh đồng bộ âm thanh
-
-[Generator](https://x.com/groovestreetgen) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096354461652488562"><img src="../assets/previews/72b971d6246be2161f38fbee61113a317d4da0ae9c42e3fbe6f431adf9337003.jpg" width="840" loading="lazy" alt="Nhóm nhạc 3D có thể tương tác với hoạt ảnh đồng bộ âm thanh"></a>
-
-Astra được yêu cầu tạo một tác phẩm ngắn nguyên bản và một nhóm nhạc 3D có thể tương tác, với hoạt ảnh điều khiển bằng âm thanh, tua đến thời điểm bất kỳ, chuyển động chậm, điều khiển camera, MIDI và mã nguồn.
-
-**Prompt**
-
-```text
-Sáng tác một tác phẩm ngắn nguyên bản và xây dựng một nhóm nhạc 3D có thể tương tác. Điều khiển hoạt ảnh theo thời gian của âm thanh. Bao gồm tính năng tua đến thời điểm bất kỳ, chuyển động chậm, điều khiển camera, MIDI và mã nguồn.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096354461652488562) · [Bài đăng gốc](https://x.com/groovestreetgen/status/2096354461652488562) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3175,6 +3143,147 @@ Không dừng lại ở việc giải thích kế hoạch; hãy vừa kiểm tra
 
 ---
 
+<a id="2099172061092381027"></a>
+
+### Phân cảnh 3D khu ven biển có thể chơi trên trình duyệt
+
+[Lummox](https://x.com/Lummox_eth) · 2026-09-13
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099172061092381027"><img src="../assets/previews/f7beaa2f75393d632176cc10919ee4221cbba7b354677e202925812162b1e0e2.jpg" width="840" loading="lazy" alt="Phân cảnh 3D khu ven biển có thể chơi trên trình duyệt"></a>
+
+Chuỗi sáu prompt do Lummox đăng, dùng để tạo một phân cảnh 3D có thể chơi trên trình duyệt. Chuỗi này cố định stack Vite, TypeScript thuần, Three.js, cannon-es và Web Audio; dựng một khu ven biển lúc hoàng hôn; dàn dựng cảnh ba người bước vào ô tô; đồng thời quy định nhịp độ và âm thanh của đoạn cảnh.
+
+**Prompt**
+
+```text
+> khóa đặc tả (TZ-gta-slice.md)
+
+prompt: "Xây dựng một phân cảnh 3D có thể chơi trên trình duyệt. Không thay đổi đặc tả này sau khi đã khóa. Ưu tiên khu vực và đoạn cảnh trước. Bổ sung điều khiển sau."
+
+> stack (Vite, TypeScript thuần, Three.js, cannon-es, Web Audio)
+
+prompt: "Stack đã được cố định. Vite. TypeScript thuần. Three.js. cannon-es. Web Audio. Một URL trên trình duyệt."
+
+> khung hình (hoàng hôn trên mặt nước, mặt đường nhựa ướt, hàng cọ)
+
+prompt: "Một khu ven biển. Hoàng hôn trên mặt nước. Mặt đường nhựa ướt. Hàng cọ. Tập trung khung hình vào ánh sáng và camera, không phải số lượng polygon. Không dùng ánh sáng xám mặc định. Không để các khối hộp trơ trọi."
+
+> ba người (một cảnh, một ô tô, khoảng 20 giây)
+
+prompt: "Giữ cả ba người trong cùng một cảnh. Họ trò chuyện. Sau đó họ ngồi vào cùng một chiếc ô tô. Khoảng 20 giây. Ưu tiên chất lượng thay vì thêm công tắc."
+
+> cắt cảnh (15 đến 20 giây, giữ chuyển động mượt mà)
+
+prompt: "Nếu bị giật, rút ngắn đoạn cảnh xuống còn 15 đến 20 giây. Giữ chuyển động mượt mà. Nếu tụt khung hình, cắt bớt người đi bộ, không cắt ánh sáng."
+
+> âm thanh (giọng người, pad nền dưới lời thoại, tiếng động cơ ô tô)
+
+prompt: "Giọng nói phải giống người thật, không phải robot. Đặt pad âm thanh nhẹ dưới lời thoại, tuyệt đối không lấn át lời thoại. Khi họ ngồi vào xe, thêm tiếng động cơ ô tô trầm, không dùng âm thanh chói như tiếng cưa. Không có tiếng xì radio."
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099172061092381027) · [Bài đăng gốc](https://x.com/Lummox_eth/status/2099172061092381027) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2099362575339372780"></a>
+
+### Đường sắt mô hình tự động tránh va chạm
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099362575339372780"><img src="../assets/previews/71207bef30c1d03e3a6d1b9901b86283ff784be11dbe153eb9d9243cd1b2a1bc.jpg" width="840" loading="lazy" alt="Đường sắt mô hình tự động tránh va chạm"></a>
+
+Mô phỏng đường sắt mô hình tự vận hành với ít nhất ba đoàn tàu chạy trên các tuyến ray dùng chung. Các đoàn tàu tự điều khiển ghi đường và tín hiệu để tránh va chạm, còn mọi quyết định về thiết kế hình ảnh đều do mô hình tự lựa chọn. Tác giả cho biết chính xác prompt này đã được gửi cho cả Fable 5.1 và GPT-6 Astra.
+
+**Prompt**
+
+```text
+Xây dựng một hệ thống đường sắt mô hình với ít nhất ba đoàn tàu chạy đồng thời trên một bố cục đường ray dùng chung, có các nút giao và tín hiệu. Các đoàn tàu phải tự chuyển tuyến và dừng trước tín hiệu để không bao giờ va chạm, không cần bất kỳ thao tác nào từ người dùng. Bạn tự quyết định bố cục, bối cảnh và diện mạo của mọi thứ. Mọi yếu tố thiết kế đều do bạn lựa chọn: phong cách, màu sắc, không khí, môi trường, camera, mức độ chi tiết và mọi điểm nhấn bổ sung. Không đặt câu hỏi cho tôi; hãy tự đưa ra mọi quyết định và xây dựng phiên bản ấn tượng nhất có thể chỉ trong một lần thử. Yêu cầu kỹ thuật: chỉ sử dụng một tệp HTML độc lập duy nhất, không dùng mô hình, hình ảnh, âm thanh hoặc URL tài nguyên bên ngoài dưới bất kỳ hình thức nào (cho phép dùng thư viện JavaScript từ CDN). Tệp phải tự chạy ngay khi tải, không cần nhấp chuột, hoạt động mượt mà và không có lỗi trong console.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099362575339372780) · [Bài đăng gốc](https://x.com/free_ai_guides/status/2099362575339372780) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2099414001851449430"></a>
+
+### Trò chơi 3D trên trình duyệt với góc nhìn đẳng phối cảnh: Đảo Cyclops
+
+[Jason Chew](https://x.com/jasoncjs_) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099414001851449430"><img src="../assets/previews/09544f1dda48f4288384850cffc3a8d4127273075bba899a6d5691ac2c90d730.jpg" width="840" loading="lazy" alt="Trò chơi 3D trên trình duyệt với góc nhìn đẳng phối cảnh: Đảo Cyclops"></a>
+
+Prompt GPT-6 Astra có thể tái sử dụng do Jason Chew đăng, dùng để tạo một trò chơi trình duyệt tương tác hoàn chỉnh lấy bối cảnh Đảo Cyclops trong sử thi Odyssey của Homer. Prompt yêu cầu một mô hình thu nhỏ 3D nghệ thuật pixel với góc nhìn đẳng phối cảnh, tái hiện hòn đảo Hy Lạp cùng Odysseus, thủy thủ đoàn, Cyclops, con tàu ngoài khơi, cơ chế di chuyển của người chơi, va chạm, điều khiển camera, hoạt ảnh và giao diện mục tiêu mang tính văn học.
+
+**Prompt**
+
+```text
+Xây dựng trải nghiệm tương tác trên trình duyệt dựa trên sử thi Odyssey của Homer – Đảo Cyclops.
+
+Tạo một mô hình thu nhỏ 3D nghệ thuật pixel với góc nhìn đẳng phối cảnh, được trau chuốt, mô phỏng một hòn đảo Hy Lạp nhỏ bao quanh bởi đại dương có hoạt ảnh. Bao gồm bờ cát, rừng rậm, vách đá, một hang động lớn, Odysseus và thủy thủ đoàn, Cyclops cùng con tàu ngoài khơi.
+
+Khiến trải nghiệm có cảm giác như một trò chơi nhỏ có thể chơi được:
+
+Điều khiển Odysseus bằng phím WASD hoặc các phím mũi tên
+Nhấp vào mặt đất để di chuyển
+Kéo để lia camera
+Cuộn để thu phóng
+Thêm hoạt ảnh tinh tế cho mặt nước, cây cối, nhân vật và môi trường
+Thêm các nút xoay camera, thu phóng, đặt lại góc nhìn và tạm dừng
+Dùng cơ chế va chạm để người chơi không thể đi xuyên qua đá, cây cối hoặc mặt nước
+
+Thêm một bảng giao diện tối màu mang phong cách văn học ở góc dưới bên trái:
+
+“Dẫn Odysseus theo con đường cát đến hang động.”
+Hiển thị nhân vật hiện tại và trạng thái di chuyển bên dưới bảng.
+Định hướng nghệ thuật: nghệ thuật pixel phong cách game chiến thuật/RPG đẳng phối cảnh chi tiết của thập niên 1990, bảng màu Địa Trung Hải trầm, địa hình có kết cấu, kiểu chữ màu giấy da ấm áp, hạt nhiễu tinh tế và giao diện game cao cấp. Tổng thể nên giống một tấm bản đồ minh họa cổ được thổi hồn sống động.
+Khiến toàn bộ trải nghiệm lấp đầy cửa sổ trình duyệt và hoạt động ngay lập tức. Không tạo bản mô phỏng. Hãy xây dựng trải nghiệm tương tác hoàn chỉnh.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099414001851449430) · [Bài đăng gốc](https://x.com/jasoncjs_/status/2099414001851449430) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2099419671481249851"></a>
+
+### Màn vượt chướng ngại vật 3D có thể chơi
+
+[Dhaval Makwana](https://x.com/heyDhavall) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099419671481249851"><img src="../assets/previews/87bdfaa39a38fdfb7b63bde1e513fb3958b3e57885066c2c715852966b94ff03.jpg" width="840" loading="lazy" alt="Màn vượt chướng ngại vật 3D có thể chơi"></a>
+
+Tác giả cho biết họ đã đưa ý tưởng này cho GPT-6 Astra trong Codex. Ý tưởng yêu cầu một màn vượt chướng ngại vật 3D nhỏ, có thể chơi được, với một nhân vật, các chướng ngại vật di động, vật phẩm thu thập và một khu vực đích.
+
+**Prompt**
+
+```text
+Một màn vượt chướng ngại vật 3D nhỏ với một nhân vật, các chướng ngại vật di động, vật phẩm thu thập và một khu vực đích đơn giản.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099419671481249851) · [Bài đăng gốc](https://x.com/heyDhavall/status/2099419671481249851) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2099450933067612421"></a>
+
+### Cảnh rừng Samurai 3D tương tác
+
+[Jaynit Makwana](https://x.com/JaynitMakwana) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099450933067612421"><img src="../assets/previews/b4ad88ddc0ce72ee20be4fe702ab51b4e2c36fbe5adab92de05b1a8ab2b5f5d4.jpg" width="840" loading="lazy" alt="Cảnh rừng Samurai 3D tương tác"></a>
+
+Jaynit Makwana cho biết họ đã đưa ý tưởng này vào GPT-6 Astra trong Codex. Kết quả mong muốn là một cảnh rừng 3D tương tác có samurai, điều khiển camera, ánh sáng điện ảnh, các chi tiết môi trường và cách trình bày gọn gàng. Tác giả cho biết Hyper3D Rodin MCP đã tạo mô hình samurai cho trải nghiệm này.
+
+**Prompt**
+
+```text
+Xây dựng một cảnh 3D tương tác với samurai trong rừng, có điều khiển camera, ánh sáng điện ảnh, các chi tiết môi trường và cách trình bày gọn gàng.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099450933067612421) · [Bài đăng gốc](https://x.com/JaynitMakwana/status/2099450933067612421) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="2096525100518453342"></a>
 
 ### Chuyển đổi biểu cảm nhân vật trong Blender
@@ -3409,24 +3518,6 @@ Xây dựng bản mẫu trò chơi thẻ bài sưu tầm bằng Three.js: mua b�
 
 ---
 
-<a id="2096362653480562751"></a>
-
-### Trò chơi mô phỏng mạng lưới đường sắt
-
-[Tom Krcha](https://x.com/tomkrcha) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/railway-network-simulation-game-2096362653480562751"><img src="../assets/previews/66b6fe9a782625a1d13bf79872857593fecf604421e40eb8cfd67c212ad0b695.webp" width="840" loading="lazy" alt="Trò chơi mô phỏng mạng lưới đường sắt"></a>
-
-**Prompt**
-
-```text
-Mở rộng mô hình tàu Three.js thành mô phỏng đường sắt với thành phố, đường nhánh, sông và cầu. Thêm camera bám theo tàu, camera 3D tự do, góc nhìn đẳng cự và hiệu ứng khói.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/railway-network-simulation-game-2096362653480562751) · [Bài đăng gốc](https://x.com/tomkrcha/status/2096362653480562751) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="2096490395614019793"></a>
 
 ### Dạo bước trong ngôi làng low-poly lấy cảm hứng từ Gwacheon
@@ -3625,24 +3716,6 @@ Trực quan hóa hai quỹ đạo của hệ Lorenz có vị trí ban đầu ch�
 
 ---
 
-<a id="2096358854275543457"></a>
-
-### Quán rượu với nhân viên và khách hoạt động
-
-[Rogue](https://x.com/Rogue0114) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457"><img src="../assets/previews/51cf1822b9fe467de3b29ffd21021bd2f05a0a1aadf86773596869583512f603.webp" width="840" loading="lazy" alt="Quán rượu với nhân viên và khách hoạt động"></a>
-
-**Prompt**
-
-```text
-Tái dựng quán rượu từ ảnh tham khảo rồi thêm khách và nhân viên. Cho khách gọi đồ ăn, thức uống và nhân viên chuẩn bị các món đó, có xử lý va chạm và tìm đường.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457) · [Bài đăng gốc](https://x.com/Rogue0114/status/2096358854275543457) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="2096506357868642342"></a>
 
 ### Biến căn phòng riêng thành hồ sơ năng lực tương tác
@@ -3697,24 +3770,6 @@ Nghiên cứu căn hộ của nhân vật chính trong D4 và tái dựng thành
 
 ---
 
-<a id="2096339041679442428"></a>
-
-### Khám phá quỹ đạo trong Hệ Mặt Trời
-
-[Andromedus](https://x.com/dzhohola) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/orbital-solar-system-explorer-2096339041679442428"><img src="../assets/previews/3b8d0fa55368b35e4f43bb0769b66adc3283691f2ddc0fcc9deaed3e05447fe0.webp" width="840" loading="lazy" alt="Khám phá quỹ đạo trong Hệ Mặt Trời"></a>
-
-**Prompt**
-
-```text
-Tạo công cụ khám phá Hệ Mặt Trời trong trình duyệt bằng Three.js với tám hành tinh và hai mươi vệ tinh. Cho phép di chuyển camera và lập kế hoạch bay không gian ở mức đơn giản.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/orbital-solar-system-explorer-2096339041679442428) · [Bài đăng gốc](https://x.com/dzhohola/status/2096339041679442428) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="2096559197999501724"></a>
 
 ### Từ logo 2D đến nhân vật chuyển động
@@ -3730,24 +3785,6 @@ Chuyển logo nhân vật 2D được cung cấp thành phiên bản 3D có ho�
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724) · [Bài đăng gốc](https://x.com/anthonyriera/status/2096559197999501724) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096337879173591171"></a>
-
-### Trò chơi chú cua với cơ chế xoay quanh hành động
-
-[ZEUS⚡️](https://x.com/zeuuss_01) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171"><img src="../assets/previews/b357895cffa990ebc6d5404e59b1f2371a45536a5cabca80b976c590192d8338.webp" width="840" loading="lazy" alt="Trò chơi chú cua với cơ chế xoay quanh hành động"></a>
-
-**Prompt**
-
-```text
-Xây dựng trò chơi chú cua bằng Three.js từ bản yêu cầu có cấu trúc, bao gồm diện mạo, nhân vật, thế giới, hành động, mục tiêu, giao diện và camera. Làm cho đồng xu nổi lên rồi bay về phía cua khi cua đi ngang; chỉ rõ các yêu cầu mâu thuẫn nhau.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171) · [Bài đăng gốc](https://x.com/zeuuss_01/status/2096337879173591171) · [Bản demo](https://beach-crab-game.netlify.app/) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3772,7 +3809,7 @@ Tạo tài nguyên 3D đã tối ưu bằng Tripo P2, lắp ghép trong Blender,
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 222 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 228 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

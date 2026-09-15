@@ -18,6 +18,10 @@ Explore the linked projects and check their own licenses before reuse.
 
 - [Chernobyl Atlas](catalog.en.md#2098841316591346006) · [BuBBliK](https://x.com/k1rallik/status/2098841316591346006)
 
+## [bubblik525/cat\_brain\_anatomy](https://github.com/bubblik525/cat_brain_anatomy)
+
+- [Interactive 3D Anatomy Explorer](catalog.en.md#2099206962344800541) · [BuBBliK](https://x.com/k1rallik/status/2099206962344800541)
+
 ## [Ayi1337/gpt6-astra-one-shot-games](https://github.com/Ayi1337/gpt6-astra-one-shot-games)
 
 - [Mosswing: Mobile 3D Tap-to-Flap Game](catalog.en.md#mosswing-mobile-3d-tap-to-flap-game) · [Ayi1337](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing)

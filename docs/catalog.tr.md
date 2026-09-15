@@ -26,7 +26,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**222 · En yeni Astra istemleri**
+**228 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -46,10 +46,9 @@
 - [Etkileşimli 3B parçacık çarpıştırıcısı](#2097781208596029936) · GitHub
 - [İnsan başı ve beyninin etkileşimli 3B atlası](#2098105648106078541) · GitHub
 - [Çernobil Atlası](#2098841316591346006) · GitHub
+- [Etkileşimli 3B Anatomi Gezgini](#2099206962344800541) · GitHub
 - [Mosswing: Mobil 3B Dokunarak Uçma Oyunu](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
 - [Çift halkalı etkileşimli enerji çekirdeği](#2096551010089263181) · GitHub
-- [Karakter Konseptinden Rig'li 3B Modele ve Çizgi Filme](#2096342420543660277)
-- [Sesle Senkronize Animasyona Sahip Oynanabilir 3B Ensemble](#2096354461652488562)
 - [Blender’da kara delik oluşturma ve render alma](#2096391653669953761)
 - [Lego 1999 Racers'ı yeniden oluşturma](#2096438110095585753)
 - [Hezekiel’in Tapınak Vizyonu: 3B](#2096547658164834788)
@@ -110,6 +109,11 @@
 - [Kinetik Kum Masası Simülasyonu](#2098831830002851846)
 - [Kendi kendine katlanan 3B origami animasyonu](#2098909584996057283)
 - [Başsız kıyafet modelinde UV açılımı ve 4K yeniden bake](#2098980384260456813)
+- [Tarayıcıda oynanabilir 3B kıyı bölümü](#2099172061092381027)
+- [Çarpışma Önlemeli Otonom Model Demiryolu](#2099362575339372780)
+- [Tepegöz Adası izometrik 3B tarayıcı oyunu](#2099414001851449430)
+- [Oynanabilir 3B Engel Parkuru](#2099419671481249851)
+- [Etkileşimli 3B Samuray Ormanı Sahnesi](#2099450933067612421)
 - [Blender’da değiştirilebilir karakter ifadeleri](#2096525100518453342)
 - [Döndürülebilir 3D shogi tahtası](#2096579856133947507)
 - [Parçalarına ayrılan masaüstü bilgisayar atlası](#2096578761877860502)
@@ -123,7 +127,6 @@
 - [Kırsalda ilerleyen buharlı lokomotif](#2096577430274429157)
 - [Masa üstünde pikap sahnesi](#2096561346766877106)
 - [Koleksiyon kartı savaş oyununun döngüsü](#2096555856204644550)
-- [Demiryolu ağı simülasyon oyunu](#2096362653480562751)
 - [Yürüyerek keşfedilen düşük poligonlu Gwacheon köyü](#2096490395614019793)
 - [Three.js ile tamamlanmış bulmaca bölümü](#2096505740643246231)
 - [Düşük poligonlu sahilde hazine avı](#2096570815714414844)
@@ -135,13 +138,10 @@
 - [Geometry Nodes ile döngüsel su yüzeyi](#2096521798150242631)
 - [One Piece esintili denizcilik dünyası](#2096518775042707700)
 - [Etkileşimli Lorenz çekicisi](#2096572156453028193)
-- [Çalışanları ve müşterileriyle işleyen taverna](#2096358854275543457)
 - [Kişisel odadan etkileşimli portfolyoya](#2096506357868642342)
 - [Sakin bir 3D denizde YF-24 teknesi](#2096503275910832461)
 - [D4 esintili oynanabilir daire](#2096413869841473930)
-- [Yörüngeleriyle Güneş Sistemi gezgini](#2096339041679442428)
 - [2D logodan animasyonlu karaktere](#2096559197999501724)
-- [Eylem odaklı mekaniklere sahip yengeç oyunu](#2096337879173591171)
 - [Üretilen 3D varlıkları birleştirme ve canlandırma](#2096481425050743048)
 
 </details>
@@ -256,6 +256,32 @@ Kaynak kodunu ve bağımsız çalışabilen bir HTML dosyasını teslim edin. T�
 
 ---
 
+<a id="2099206962344800541"></a>
+
+### Etkileşimli 3B Anatomi Gezgini
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-13
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099206962344800541"><img src="../assets/previews/71786191f6fb99e7d8e2b1cc4679b12bb2aaf5dd1c19ae8433692e1dc0e74a92.jpg" width="840" loading="lazy" alt="Etkileşimli 3B Anatomi Gezgini"></a>
+
+Yazar bunu, etkileşimli Brain Cat web sitesine benzer bir sürüm oluşturmak için önerilen başlangıç istemi olarak paylaştı. İstem; şeffaf görünümle iç yapıları ortaya çıkaran, döndürülebilen ve yapıları ayrıştırılabilen duyarlı bir 3B anatomi gezgini, etiketli bölgeler, katman kontrolleri, animasyonlu eğitsel sinyaller ve bilimsel kaynak atıfları talep ediyor.
+
+**İstem**
+
+```text
+Herkese açık bilimsel veri kümelerini kullanarak etkileyici ve etkileşimli bir 3B anatomi gezgini oluştur. Dış görünümle başla; ben yakınlaştırdıkça bu görünüm kademeli olarak şeffaflaşsın ve alttaki anatomiyi ortaya çıkarsın.
+
+Modeli döndürmeme, yapıları ayırmama, etiketli bölgeleri seçmeme ve bir yan panelden katmanları açıp kapatmama izin ver. Anatomi, bağlantılar ve tek tek hücreler için ayrı sekmeler ekle; animasyonlu sinyaller ve ayarlanabilir kontroller sun.
+
+Yumuşak aydınlatma, akıcı geçişler, sade renkler ve çok az metin kullanan modern, minimalist bir arayüz tasarla. Oklar ve kısa bir görsel eğitim ekle. Masaüstü ve mobil cihazlarda çalışmasını sağla.
+
+Mümkün olan yerlerde gerçek anatomik geometri kullan, kaynaklara atıfta bulun ve bilimsel verilerle açıklama amaçlı animasyonları açıkça birbirinden ayır. Çalışan bir web sitesi oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099206962344800541) · [Orijinal gönderi](https://x.com/k1rallik/status/2099206962344800541) · [Kaynak kodu](https://github.com/bubblik525/cat_brain_anatomy) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="mosswing-mobile-3d-tap-to-flap-game"></a>
 
 ### Mosswing: Mobil 3B Dokunarak Uçma Oyunu
@@ -291,64 +317,6 @@ Blender’da bir enerji çekirdeği, iki halka ve metal bir taban modelleyin. Ma
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [Orijinal gönderi](https://x.com/oneruofeng/status/2096551010089263181) · [Kaynak kodu](https://github.com/wangruofeng/orbital-core-showcase) · [Canlı demo](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096342420543660277"></a>
-
-### Karakter Konseptinden Rig'li 3B Modele ve Çizgi Filme
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096342420543660277"><img src="../assets/previews/1712c53120622f0ba430f5985562bd6eb307621c1a4466ef9d2cf26c99b81716.jpg" width="840" loading="lazy" alt="Karakter Konseptinden Rig'li 3B Modele ve Çizgi Filme"></a>
-
-Konsept tasarımı, dokulu 3B modelleme, retopoloji, UV haritalama, rigging ve animasyonlu çizgi film üretimini kapsayan bir karakter oluşturma promptu.
-
-**İstem**
-
-```text
-GPT-6 Astra'yı kullanarak bilgisayarımın kontrolünü ele al ve şunları yap:
-
-1. Higgsfield Soul 2.0 ile bir karakter konsepti tasarla,
-
-2. bunun dokulu bir 3B modelini oluştur,
-
-3. modeli Blender'a aktar,
-
-4. ağ yapısında retopoloji yap,
-
-5. bir UV haritası oluştur,
-
-6. bir karakter rig'i oluştur,
-
-7. modelin üretime ne kadar hazır olduğunu değerlendir,
-
-8. sonuçlardan memnun değilsen önceki adımları tekrarla,
-
-9. ardından Higgsfield'da Seedance 2.5 kullanarak modeli çizgi filme dönüştür
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096342420543660277) · [Orijinal gönderi](https://x.com/higgsfield_ai/status/2096342420543660277) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096354461652488562"></a>
-
-### Sesle Senkronize Animasyona Sahip Oynanabilir 3B Ensemble
-
-[Generator](https://x.com/groovestreetgen) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096354461652488562"><img src="../assets/previews/72b971d6246be2161f38fbee61113a317d4da0ae9c42e3fbe6f431adf9337003.jpg" width="840" loading="lazy" alt="Sesle Senkronize Animasyona Sahip Oynanabilir 3B Ensemble"></a>
-
-Astra'dan özgün bir kısa eser ve sesle yönlendirilen animasyona, zaman içinde gezinmeye, ağır çekime, kamera kontrollerine, MIDI'ye ve kaynak dosyalarına sahip oynanabilir bir 3B ensemble oluşturması istendi.
-
-**İstem**
-
-```text
-Özgün bir kısa eser bestele ve oynanabilir bir 3B ensemble oluştur. Animasyonu ses zamanına göre yönlendir. Zaman içinde gezinme, ağır çekim, kamera kontrolleri, MIDI ve kaynak dosyalarını dahil et.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096354461652488562) · [Orijinal gönderi](https://x.com/groovestreetgen/status/2096354461652488562) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3159,6 +3127,147 @@ Yalnızca planı açıklamakla yetinmeyin; görselleri gerçekten kontrol ederek
 
 ---
 
+<a id="2099172061092381027"></a>
+
+### Tarayıcıda oynanabilir 3B kıyı bölümü
+
+[Lummox](https://x.com/Lummox_eth) · 2026-09-13
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099172061092381027"><img src="../assets/previews/f7beaa2f75393d632176cc10919ee4221cbba7b354677e202925812162b1e0e2.jpg" width="840" loading="lazy" alt="Tarayıcıda oynanabilir 3B kıyı bölümü"></a>
+
+Lummox tarafından, tarayıcıda oynanabilir bir 3B bölüm için yayımlanan altı adımlı prompt dizisi. Vite, vanilla TypeScript, Three.js, cannon-es ve Web Audio teknolojilerinden oluşan sabit bir yığın kullanır; gün batımında bir kıyı bölgesi oluşturur, üç kişinin bir araca binmesini sahneler ve klip temposuyla ses tasarımını belirtir.
+
+**İstem**
+
+```text
+> spesifikasyonu kilitle (TZ-gta-slice.md)
+
+prompt: "Oynanabilir bir 3B tarayıcı bölümü oluştur. Bu spesifikasyonu kilitledikten sonra değiştirme. Önce bölge ve klip. Kontroller daha sonra."
+
+> teknoloji yığını (Vite, vanilla TypeScript, Three.js, cannon-es, Web Audio)
+
+prompt: "Teknoloji yığını sabit. Vite. vanilla TypeScript. Three.js. cannon-es. Web Audio. Tek bir tarayıcı URL'si."
+
+> kadraj (su üzerinde gün batımı, ıslak asfalt, palmiyeler)
+
+prompt: "Tek bir kıyı bölgesi. Su üzerinde gün batımı. Islak asfalt. Palmiyeler. Kadrajı poligon sayısına değil, ışığa ve kameraya göre oluştur. Varsayılan gri ışık kullanma. Çıplak küpler kullanma."
+
+> üçlü (tek sahne, tek araç, yaklaşık 20 saniye)
+
+prompt: "Üç kişiyi tek bir sahnede tut. Konuşsunlar. Ardından tek bir araca binsinler. Yaklaşık 20 saniye. Ekstra seçenekler yerine kaliteye öncelik ver."
+
+> kesme (15–20 saniye, akıcılığı koru)
+
+prompt: "Gecikme olursa klibi 15–20 saniyeye kısalt. Akıcılığı koru. Kare hızı düşerse ışığı değil, yayaları azalt."
+
+> ses (insan sesleri, repliklerin altında pad, araç uğultusu)
+
+prompt: "Sesler robot gibi değil, insan gibi duyulmalı. Repliklerin altında alçak seviyeli bir pad olsun; repliklerin üzerine çıkmasın. Oturduklarında testere sesi değil, düşük frekanslı bir araç uğultusu duyulsun. Radyo paraziti olmasın."
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099172061092381027) · [Orijinal gönderi](https://x.com/Lummox_eth/status/2099172061092381027) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2099362575339372780"></a>
+
+### Çarpışma Önlemeli Otonom Model Demiryolu
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099362575339372780"><img src="../assets/previews/71207bef30c1d03e3a6d1b9901b86283ff784be11dbe153eb9d9243cd1b2a1bc.jpg" width="840" loading="lazy" alt="Çarpışma Önlemeli Otonom Model Demiryolu"></a>
+
+En az üç trenin ortak hatlarda çalıştığı, kendi kendine işleyen bir model demiryolu simülasyonu. Trenler, çarpışmaları önlemek için makasları ve sinyalleri otonom olarak yönetiyor; tüm görsel tasarım kararlarını model veriyor. Yazar, bu istemin aynısının hem Fable 5.1 hem de GPT-6 Astra’ya verildiğini belirtiyor.
+
+**İstem**
+
+```text
+Ortak bir hat düzeninde aynı anda çalışan en az üç tren içeren bir model demiryolu oluştur. Hat düzeninde makaslar ve sinyaller bulunsun. Trenler, hiç çarpışmamaları için kullanıcıdan herhangi bir girdi almadan kendi kendilerine hat değiştirmeli ve sinyallerde durmalı. Hat düzeni, ortam ve her şeyin görünümü sana kalmış. Tasarımla ilgili tüm kararları sen ver: stil, renkler, atmosfer, çevre, kamera, ayrıntı düzeyi ve tüm ek dokunuşlar. Bana hiçbir soru sorma; tüm seçimleri kendin yap ve tek seferde mümkün olan en etkileyici sürümü oluştur. Teknik gereksinimler: Tek bir bağımsız HTML dosyası kullan; harici model, görsel, ses veya herhangi bir türde varlık URL’si kullanma (CDN’den yüklenen bir JavaScript kütüphanesi kullanılabilir). Sayfa yüklendiği anda, tıklama gerektirmeden kendiliğinden çalışmaya başlamalı ve konsol hatası olmadan akıcı biçimde çalışmalıdır.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099362575339372780) · [Orijinal gönderi](https://x.com/free_ai_guides/status/2099362575339372780) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2099414001851449430"></a>
+
+### Tepegöz Adası izometrik 3B tarayıcı oyunu
+
+[Jason Chew](https://x.com/jasoncjs_) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099414001851449430"><img src="../assets/previews/09544f1dda48f4288384850cffc3a8d4127273075bba899a6d5691ac2c90d730.jpg" width="840" loading="lazy" alt="Tepegöz Adası izometrik 3B tarayıcı oyunu"></a>
+
+Jason Chew tarafından paylaşılan, Homeros’un Odysseia’sındaki Tepegöz Adası’nda geçen eksiksiz ve etkileşimli bir tarayıcı oyunu için yeniden kullanılabilir GPT-6 Astra promptu. Prompt; Odysseus, mürettebatı, Tepegöz, açık denizdeki gemi, oyuncu hareketi, çarpışmalar, kamera kontrolleri, animasyon ve edebî hedef arayüzü içeren izometrik piksel sanatlı 3B Yunan adası dioraması ister.
+
+**İstem**
+
+```text
+Homeros’un Odysseia’sındaki Tepegöz Adası’nı temel alan etkileşimli bir tarayıcı deneyimi oluşturun.
+
+Animasyonlu bir okyanusla çevrili küçük bir Yunan adasının özenli, izometrik piksel sanatlı 3B dioramasını oluşturun. Kumlu bir kıyı, sık orman, kayalık uçurumlar, büyük bir mağara, Odysseus ve mürettebatı, Tepegöz ve açık denizde gemileri bulunsun.
+
+Küçük, oynanabilir bir oyun hissi verin:
+
+Odysseus’u WASD veya ok tuşlarıyla kontrol edin
+Yürümek için zemine tıklayın
+Kamerayı yatay kaydırmak için sürükleyin
+Yakınlaştırmak ve uzaklaştırmak için kaydırın
+Suya, ağaçlara, karakterlere ve çevreye hafif animasyonlar ekleyin
+Kamerayı döndürme, yakınlaştırma/uzaklaştırma, görünümü sıfırlama ve duraklatma kontrolleri ekleyin
+Oyuncunun kayaların, ağaçların veya suyun içinden geçememesi için çarpışma sistemi kullanın
+
+Sol alt köşeye koyu renkli, edebî bir arayüz paneli ekleyin:
+
+“Odysseus’u kumlu patika boyunca mağaraya götürün.”
+Altında mevcut karakteri ve hareket durumunu gösterin.
+Sanat yönetimi: ayrıntılı 1990’lar izometrik strateji/RPG piksel sanatı, solgun Akdeniz renkleri, dokulu arazi, sıcak parşömen tipografisi, hafif gren ve kaliteli bir oyun arayüzü kullanın. Eski, resimli bir haritanın canlanmış gibi görünmesini sağlayın.
+Deneyimin tamamı tarayıcı penceresini doldursun ve hemen çalışsın. Maket oluşturmayın. Eksiksiz, etkileşimli deneyimi geliştirin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099414001851449430) · [Orijinal gönderi](https://x.com/jasoncjs_/status/2099414001851449430) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2099419671481249851"></a>
+
+### Oynanabilir 3B Engel Parkuru
+
+[Dhaval Makwana](https://x.com/heyDhavall) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099419671481249851"><img src="../assets/previews/87bdfaa39a38fdfb7b63bde1e513fb3958b3e57885066c2c715852966b94ff03.jpg" width="840" loading="lazy" alt="Oynanabilir 3B Engel Parkuru"></a>
+
+Yazar, bu fikri Codex'te GPT-6 Astra'ya verdiğini söylüyor. İstekte bir karakter, hareketli engeller, toplanabilir nesneler ve hedef alanı içeren küçük, oynanabilir bir 3B engel parkuru oluşturulması isteniyor.
+
+**İstem**
+
+```text
+Karakter, hareketli engeller, toplanabilir nesneler ve basit bir hedef alanı içeren küçük bir 3B engel parkuru.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099419671481249851) · [Orijinal gönderi](https://x.com/heyDhavall/status/2099419671481249851) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2099450933067612421"></a>
+
+### Etkileşimli 3B Samuray Ormanı Sahnesi
+
+[Jaynit Makwana](https://x.com/JaynitMakwana) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099450933067612421"><img src="../assets/previews/b4ad88ddc0ce72ee20be4fe702ab51b4e2c36fbe5adab92de05b1a8ab2b5f5d4.jpg" width="840" loading="lazy" alt="Etkileşimli 3B Samuray Ormanı Sahnesi"></a>
+
+Jaynit Makwana, bu fikri Codex içinde GPT-6 Astra’ya verdiklerini söylüyor. İstenen sonuç; samuray, kamera kontrolleri, sinematik aydınlatma, çevresel ayrıntılar ve sade bir sunuma sahip etkileşimli bir 3B orman sahnesi. Yazar, ortaya çıkan deneyim için samuray modelinin Hyper3D Rodin MCP tarafından oluşturulduğunu belirtiyor.
+
+**İstem**
+
+```text
+Kamera kontrolleri, sinematik aydınlatma ve çevresel ayrıntılar içeren, ormanda bir samurayın yer aldığı etkileşimli bir 3B sahne oluşturun. Sunum sade ve temiz olsun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099450933067612421) · [Orijinal gönderi](https://x.com/JaynitMakwana/status/2099450933067612421) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="2096525100518453342"></a>
 
 ### Blender’da değiştirilebilir karakter ifadeleri
@@ -3393,24 +3502,6 @@ Three.js ile bir koleksiyon kartı prototipi oluşturun: deste ve kart paketleri
 
 ---
 
-<a id="2096362653480562751"></a>
-
-### Demiryolu ağı simülasyon oyunu
-
-[Tom Krcha](https://x.com/tomkrcha) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/railway-network-simulation-game-2096362653480562751"><img src="../assets/previews/66b6fe9a782625a1d13bf79872857593fecf604421e40eb8cfd67c212ad0b695.webp" width="840" loading="lazy" alt="Demiryolu ağı simülasyon oyunu"></a>
-
-**İstem**
-
-```text
-Bir Three.js tren modelini şehirler, kavşaklar, nehirler ve köprüler içeren bir demiryolu simülasyonuna dönüştürün. Tren takip, serbest 3D ve izometrik kameralar ile duman efektleri ekleyin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/railway-network-simulation-game-2096362653480562751) · [Orijinal gönderi](https://x.com/tomkrcha/status/2096362653480562751) · [Örneklere dön](#all-prompts)
-
----
-
 <a id="2096490395614019793"></a>
 
 ### Yürüyerek keşfedilen düşük poligonlu Gwacheon köyü
@@ -3609,24 +3700,6 @@ Başlangıç konumları arasında çok küçük fark bulunan iki Lorenz sistemi 
 
 ---
 
-<a id="2096358854275543457"></a>
-
-### Çalışanları ve müşterileriyle işleyen taverna
-
-[Rogue](https://x.com/Rogue0114) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457"><img src="../assets/previews/51cf1822b9fe467de3b29ffd21021bd2f05a0a1aadf86773596869583512f603.webp" width="840" loading="lazy" alt="Çalışanları ve müşterileriyle işleyen taverna"></a>
-
-**İstem**
-
-```text
-Bir referans görselinden tavernayı yeniden oluşturup müşteriler ve çalışanlarla doldurun. Müşteriler yiyecek ve içecek siparişi versin, çalışanlar bunları hazırlasın; çarpışma yönetimi ve yol bulma ekleyin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457) · [Orijinal gönderi](https://x.com/Rogue0114/status/2096358854275543457) · [Örneklere dön](#all-prompts)
-
----
-
 <a id="2096506357868642342"></a>
 
 ### Kişisel odadan etkileşimli portfolyoya
@@ -3681,24 +3754,6 @@ D4’ün başkarakterinin dairesini araştırıp oynanabilir bir 3D prototip ola
 
 ---
 
-<a id="2096339041679442428"></a>
-
-### Yörüngeleriyle Güneş Sistemi gezgini
-
-[Andromedus](https://x.com/dzhohola) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/orbital-solar-system-explorer-2096339041679442428"><img src="../assets/previews/3b8d0fa55368b35e4f43bb0769b66adc3283691f2ddc0fcc9deaed3e05447fe0.webp" width="840" loading="lazy" alt="Yörüngeleriyle Güneş Sistemi gezgini"></a>
-
-**İstem**
-
-```text
-Three.js ile tarayıcıda çalışan, sekiz gezegen ve yirmi uydu içeren bir Güneş Sistemi gezgini oluşturun. Kamera hareketine ve basitleştirilmiş uzay uçuşu planlamasına olanak tanıyın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/orbital-solar-system-explorer-2096339041679442428) · [Orijinal gönderi](https://x.com/dzhohola/status/2096339041679442428) · [Örneklere dön](#all-prompts)
-
----
-
 <a id="2096559197999501724"></a>
 
 ### 2D logodan animasyonlu karaktere
@@ -3714,24 +3769,6 @@ Sağlanan 2D karakter logosunu animasyonlu bir 3D sürüme dönüştürün. Kara
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724) · [Orijinal gönderi](https://x.com/anthonyriera/status/2096559197999501724) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096337879173591171"></a>
-
-### Eylem odaklı mekaniklere sahip yengeç oyunu
-
-[ZEUS⚡️](https://x.com/zeuuss_01) · 2026-09-05
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171"><img src="../assets/previews/b357895cffa990ebc6d5404e59b1f2371a45536a5cabca80b976c590192d8338.webp" width="840" loading="lazy" alt="Eylem odaklı mekaniklere sahip yengeç oyunu"></a>
-
-**İstem**
-
-```text
-Görünüm, karakter, dünya, eylemler, hedefler, arayüz ve kamerayı kapsayan yapılandırılmış bir brief’ten Three.js yengeç oyunu oluşturun. Geçen yengece doğru paraların yükselip uçmasını sağlayın; çelişkili gereksinimleri belirtin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171) · [Orijinal gönderi](https://x.com/zeuuss_01/status/2096337879173591171) · [Canlı demo](https://beach-crab-game.netlify.app/) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3756,7 +3793,7 @@ Tripo P2 ile optimize edilmiş 3D varlıklar üretin, bunları Blender’da birl
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 222 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 228 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>
