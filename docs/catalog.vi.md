@@ -26,7 +26,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**228 · Prompt Astra mới nhất**
+**235 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -49,8 +49,6 @@
 - [Trình khám phá giải phẫu 3D tương tác](#2099206962344800541) · GitHub
 - [Mosswing: Game 3D mobile chạm để vỗ cánh](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
 - [Lõi năng lượng hai vòng tương tác](#2096551010089263181) · GitHub
-- [Tạo và kết xuất hố đen trong Blender](#2096391653669953761)
-- [Tái tạo Lego 1999 Racers](#2096438110095585753)
 - [Khải tượng đền thờ của Ê-xê-chi-ên trong không gian 3D](#2096547658164834788)
 - [Mô phỏng vụ nổ hạt nhân trong thành phố 3D](#2096562462674079868)
 - [Totality Engine: Thánh đường Nhật thực Điện ảnh](#2096593372311941143)
@@ -109,25 +107,29 @@
 - [Hoạt ảnh origami 3D tự gấp](#2098909584996057283)
 - [Triển khai UV và bake lại 4K cho mô hình quần áo không có đầu](#2098980384260456813)
 - [Phân cảnh 3D khu ven biển có thể chơi trên trình duyệt](#2099172061092381027)
+- [Tái hiện Lâu đài Peach trong 3D](#2099359786865402019)
 - [Đường sắt mô hình tự động tránh va chạm](#2099362575339372780)
 - [Trò chơi 3D trên trình duyệt với góc nhìn đẳng phối cảnh: Đảo Cyclops](#2099414001851449430)
 - [Màn vượt chướng ngại vật 3D có thể chơi](#2099419671481249851)
 - [Cảnh rừng Samurai 3D tương tác](#2099450933067612421)
 - [Mô hình cây lá kim dưới 200 polygon](#2099472264270102705)
+- [Thế giới 3D với những tòa nhà chọc trời cao vút](#2099487024256589970)
+- [Chiến binh trèo lên người khổng lồ và giáng búa vào hàm](#2099519801139908951)
+- [Đảo núi lửa tương tác với những chiếc thuyền tháo chạy](#2099643231659012553)
+- [Bảng điều khiển hệ thần kinh tương tác của sinh vật 3D](#2099719427990134984)
+- [Trái tim và emoji mặt cười phong cách Apple 3D](#2099750376530657300)
+- [Tạo không gian 3D có thể điều khiển và nhân vật game từ ảnh tham khảo](#2099850719839109597)
 - [Chuyển đổi biểu cảm nhân vật trong Blender](#2096525100518453342)
 - [Bàn cờ shogi 3D có thể xoay](#2096579856133947507)
 - [Bản đồ tháo rời linh kiện máy tính để bàn](#2096578761877860502)
 - [Lên phương án bố trí phòng trẻ em kiêm nơi làm việc](#2096578684010508736)
 - [Mô hình Seoul thu nhỏ có thể khám phá](#2096557555086725159)
-- [Côn trùng tạo bằng thuật toán bò trên nhiều bề mặt](#2096460081982304546)
-- [Lái Wright Flyer qua khu rừng Nhật Bản](#2096467585785286808)
 - [Dựng một ngôi nhà từ đầu trong Blender](#2096576154337734865)
 - [Từ mặt bằng tầng trên cùng đến bản xem trước Blender](#2096501340889374883)
 - [Nhiệm vụ khám phá The Quiet Crossing](#2096574297703637111)
 - [Đầu máy hơi nước chạy qua miền quê](#2096577430274429157)
 - [Cảnh máy hát đĩa than trên bàn](#2096561346766877106)
 - [Vòng lặp đối chiến của trò chơi thẻ bài sưu tầm](#2096555856204644550)
-- [Dạo bước trong ngôi làng low-poly lấy cảm hứng từ Gwacheon](#2096490395614019793)
 - [Màn chơi giải đố Three.js hoàn chỉnh](#2096505740643246231)
 - [Săn kho báu trên bãi biển low-poly](#2096570815714414844)
 - [Mô hình Blender kết hợp hiệu ứng Unity VFX](#2096560142871658589)
@@ -140,9 +142,7 @@
 - [Tập hút Lorenz tương tác](#2096572156453028193)
 - [Biến căn phòng riêng thành hồ sơ năng lực tương tác](#2096506357868642342)
 - [Thuyền YF-24 trên mặt biển 3D êm dịu](#2096503275910832461)
-- [Căn hộ lấy cảm hứng từ D4 có thể khám phá trong game](#2096413869841473930)
 - [Từ logo 2D đến nhân vật chuyển động](#2096559197999501724)
-- [Lắp ghép và tạo hoạt ảnh cho các mô hình 3D đã tạo](#2096481425050743048)
 
 </details>
 
@@ -317,46 +317,6 @@ Dựng lõi năng lượng, hai vòng và đế kim loại trong Blender. Xuất
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [Bài đăng gốc](https://x.com/oneruofeng/status/2096551010089263181) · [Mã nguồn](https://github.com/wangruofeng/orbital-core-showcase) · [Bản demo](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096391653669953761"></a>
-
-### Tạo và kết xuất hố đen trong Blender
-
-[John Kler](https://x.com/JohnKlerAI) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096391653669953761"><img src="../assets/previews/0203a375c4a0f77f1fae00d9c8c9173739b940debd87bf4144d4f375ccc8c12e.jpg" width="840" loading="lazy" alt="Tạo và kết xuất hố đen trong Blender"></a>
-
-Tác giả cho biết họ đã dùng cùng một prompt cho GPT Astra và Fable 5.1 để tạo và kết xuất một hố đen lấy cảm hứng từ Interstellar trong Blender.
-
-**Prompt**
-
-```text
-Tạo và kết xuất một hố đen tuyệt đẹp trong Blender, giống hố đen trong Interstellar.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096391653669953761) · [Bài đăng gốc](https://x.com/JohnKlerAI/status/2096391653669953761) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096438110095585753"></a>
-
-### Tái tạo Lego 1999 Racers
-
-[Mo Elgaraihy](https://x.com/EngMoElgaraihy) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096438110095585753"><img src="../assets/previews/e14b00869191181ad52fe51c4e0a57d3ad72c405802c16cb36147a9b5d613143.jpg" width="840" loading="lazy" alt="Tái tạo Lego 1999 Racers"></a>
-
-Yêu cầu tái tạo toàn bộ trò chơi đua xe Lego 1999 Racers bằng GPT-6 Astra.
-
-**Prompt**
-
-```text
-Tái tạo toàn bộ trò chơi đua xe nổi tiếng Lego 1999 Racers.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096438110095585753) · [Bài đăng gốc](https://x.com/EngMoElgaraihy/status/2096438110095585753) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3165,6 +3125,26 @@ prompt: "Giọng nói phải giống người thật, không phải robot. Đặ
 
 ---
 
+<a id="2099359786865402019"></a>
+
+### Tái hiện Lâu đài Peach trong 3D
+
+[Romain Huet](https://x.com/romainhuet) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099359786865402019"><img src="../assets/previews/e7a5ad638345dd08d471122be938b5ac89535f8153244ee59aea77fd486c67ff.jpg" width="840" loading="lazy" alt="Tái hiện Lâu đài Peach trong 3D"></a>
+
+Tác giả cho biết họ đã yêu cầu Astra trong Codex tái hiện Lâu đài Peach trong 3D và tạo video bay qua. Trong một bình luận tiếp theo, tác giả cho biết sản phẩm bao gồm mô hình Blender, góc quay orbit được kiểm tra vào ban ngày và lúc chạng vạng, 88 ô kính được dựng hình trong cửa sổ của Peach, cùng không gian nội thất tầng trệt.
+
+**Prompt**
+
+```text
+tái hiện Lâu đài Peach trong 3D và tạo video bay qua.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099359786865402019) · [Bài đăng gốc](https://x.com/romainhuet/status/2099359786865402019) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="2099362575339372780"></a>
 
 ### Đường sắt mô hình tự động tránh va chạm
@@ -3284,6 +3264,239 @@ Bạn có thể thử tạo một cây lá kim với không quá 200 polygon kh�
 
 ---
 
+<a id="2099487024256589970"></a>
+
+### Thế giới 3D với những tòa nhà chọc trời cao vút
+
+[Bilal Arshad](https://x.com/MohdBilalArshad) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099487024256589970"><img src="../assets/previews/6b76cf5a4a0feefa91cafe184567430f78b75607a7a2347c64807100431ebcac.jpg" width="840" loading="lazy" alt="Thế giới 3D với những tòa nhà chọc trời cao vút"></a>
+
+Bilal Arshad cho biết anh đã yêu cầu Astra xây dựng một thế giới 3D với những tòa nhà chọc trời cao vút và chia sẻ kết quả.
+
+**Prompt**
+
+```text
+xây dựng một thế giới 3D với những tòa nhà chọc trời cao vút
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099487024256589970) · [Bài đăng gốc](https://x.com/MohdBilalArshad/status/2099487024256589970) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2099519801139908951"></a>
+
+### Chiến binh trèo lên người khổng lồ và giáng búa vào hàm
+
+[MadMax](https://x.com/MadMax_Series) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099519801139908951"><img src="../assets/previews/9dcdc5e9bfa0c7eb9a0d4ea88363fd3fa5843e9d2ac1c418cd66c109727b0ab5.jpg" width="840" loading="lazy" alt="Chiến binh trèo lên người khổng lồ và giáng búa vào hàm"></a>
+
+Một phân cảnh hành động điện ảnh 3D dài 20 giây: một chiến binh miền núi mặc giáp lao qua chiến trường cao nguyên giữa cơn bão, nhảy lên bàn tay của một người khổng lồ hữu cơ, trèo lên vai hắn, giáng búa chiến vào hàm, ngã xuống rồi hồi phục để đối đầu lần cuối. Tác giả gốc gắn nhãn đây là prompt chuyển văn bản thành video và nêu GPT-6 Astra + Seedance 2.5 cùng Higgsfield.
+
+**Prompt**
+
+```text
+DANH MỤC NHÂN VẬT:
+Chính xác một chiến binh miền núi nam trưởng thành.
+Anh có thân hình chắc gọn, vai rộng và cực kỳ mạnh mẽ. Anh mặc một bộ giáp tấm fantasy trung cổ màu kim loại súng tối nguyên bản: mũ trùm kín có chóp nhọn, giáp vai nhiều lớp, giáp tay khớp nối, găng tay giáp nặng, giáp ngực gia cố, các mảng thắt lưng bằng da, quần tối màu, ủng giáp thép và bốt giáp nặng. Bộ giáp bị phong hóa, trầy xước và ướt sũng vì bão.
+Anh mang chính xác một chiếc búa chiến khổng lồ dùng bằng hai tay. Búa có một cán kim loại tối màu dài được gia cố và một đầu búa hình chữ nhật nặng, đối xứng. Vũ khí giữ nguyên chiều dài, hình dạng và trọng lượng trong suốt cảnh. Anh điều khiển búa bằng cả hai tay khi nhảy, trèo và tấn công.
+Chính xác một người khổng lồ hình người hữu cơ khổng lồ, cao hơn chiến binh trên ba mươi lần. Hắn có đôi vai cơ bắp đồ sộ, hai cánh tay cực dài, đôi bàn tay khổng lồ giống tay người, làn da xám than thô ráp với lỗ chân lông và sẹo rõ ràng, trán nặng, mũi rộng, quai hàm mạnh mẽ và mái tóc đen dài rối tung. Đây là một titan hữu cơ còn sống—không phải tượng, robot, máy móc hay golem đá.
+Không có chiến binh, người khổng lồ hoặc đội quân nào khác ở hậu cảnh.
+MÔI TRƯỜNG:
+Một chiến trường cao nguyên lộng gió dưới cơn giông xanh xám dữ dội. Mặt đất gồ ghề phủ đầy đất tối ẩm, cỏ bị giẫm rạp và hàng nghìn bông hoa nhỏ màu nhạt. Gió mạnh uốn cong cỏ và hoa thành những làn sóng không đều.
+Một pháo đài trung cổ đổ nát nằm trên ngọn đồi xa ở phía trái khung hình. Những tòa tháp vỡ vẫn hiện rõ qua lớp sương mù trôi thấp. Chớp thỉnh thoảng soi sáng pháo đài và các đám mây bão.
+Người khổng lồ chiếm phía phải khung hình của chiến trường. Chiến binh bắt đầu ở trung tâm tiền cảnh, chạy về phía người khổng lồ. Giữ nguyên vị trí địa lý và hướng màn hình này trong mọi lần cắt cảnh.
+DIỄN BIẾN HÀNH ĐỘNG VÀ MÁY QUAY THEO TRÌNH TỰ THỜI GIAN:
+0.00–3.30 — LAO VỀ PHÍA NGƯỜI KHỔNG LỒ
+Mở cảnh ngay bằng một cú máy bám đuôi thấp, áp sát phía sau chiến binh mặc giáp khi anh mạnh mẽ chạy qua cánh đồng ướt về phía người khổng lồ khổng lồ.
+Anh cầm búa chiến nằm ngang trước người bằng cả hai tay. Đầu búa nặng luôn hướng về phía phải khung hình, trong khi phần cán dưới kéo dài về phía trái. Bốt của anh nén mặt đất ướt sau mỗi bước, chỉ hất đất, hoa bị nghiền nát và giọt nước ra phía sau sau khi có tiếp xúc vật lý.
+Chân và bàn tay phải khổng lồ của người khổng lồ tiến vào từ phía trên bên phải khung hình. Người khổng lồ cúi xuống và đưa bàn tay mở về phía chiến binh đang lao tới, định hốt anh khỏi mặt đất.
+Các ngón tay chuyển động độc lập với khớp nối và trọng lượng hợp lý. Người khổng lồ không lập tức chộp lấy hoặc dịch chuyển tức thời chiến binh.
+Chuyển động máy quay vẫn thấp, nhanh và mượt, nhấn mạnh chênh lệch kích thước cực lớn. Pháo đài đổ nát vẫn hiện rõ trên đường chân trời xa ở phía trái khung hình.
+3.30–5.80 — NHẢY LÊN BÀN TAY NGƯỜI KHỔNG LỒ
+Khi bàn tay mở của người khổng lồ quét thấp ngang đường chạy, chiến binh đạp mạnh bốt phải xuống đất. Đầu gối khuỵu xuống, hông hạ thấp và chân sau đẩy người bật lên.
+Anh thực hiện một cú nhảy mạnh về phía trước.
+Dùng chuyển động chậm điện ảnh có kiểm soát khi anh bay lên phía trước những ngón tay tách rời của người khổng lồ. Hai chân hơi co bên dưới, trong khi cả hai tay nâng cùng chiếc búa chiến lên trên vai để giữ thăng bằng.
+Chiến binh tiếp đất bằng cả hai bốt trên mặt sau của ngón giữa và ngón áp út của người khổng lồ. Thể hiện rõ tiếp xúc vật lý: bốt chạm da, đầu gối hấp thụ lực, thịt của người khổng lồ hơi lõm xuống và bộ giáp của chiến binh phản ứng với cú đáp.
+Người khổng lồ bắt đầu nâng bàn tay về phía mặt. Chiến binh không lơ lửng hay treo giữa không trung.
+Dùng một cú cẩu máy quay góc thấp đầy kịch tính, di chuyển lên phía dưới chiến binh, với bàn tay khổng lồ lấp đầy hậu cảnh.
+5.80–9.00 — CHẠY LÊN CÁNH TAY
+Trở lại nhịp hành động tự nhiên, nhanh.
+Khi người khổng lồ nâng cánh tay, chiến binh chạy từ các ngón tay băng qua mu bàn tay rồi lên cổ tay. Bước chân luân phiên chính xác và nhìn thấy rõ, bám vào bề mặt chuyển động gồ ghề.
+Người khổng lồ xoay cổ tay, cố hất anh ra. Chiến binh hạ thấp trọng tâm, dang rộng thế đứng và giữ búa sát thân cho đến khi cánh tay ổn định.
+Sau đó anh tăng tốc dọc theo cẳng tay người khổng lồ về phía khuỷu. Mỗi bước bám theo góc thay đổi của cánh tay; bốt không trượt xuyên qua da.
+Máy quay bám theo bên cạnh và hơi thấp hơn anh, nâng dần theo chiều dài cánh tay người khổng lồ. Những phần cánh tay ở gần lướt nhanh qua tiền cảnh, trong khi đầu người khổng lồ và pháo đài xa chuyển động chậm hơn, tạo hiệu ứng thị sai và cảm giác về quy mô mạnh mẽ.
+9.00–12.00 — TRÈO LÊN VAI
+Chiến binh tới phần bắp tay khi cánh tay vươn dốc lên vai người khổng lồ.
+Anh móc một cẳng tay và cán búa chiến vào một gờ cơ tự nhiên để lấy đòn bẩy, đặt bốt phải xuống, dồn lực qua chân rồi tự kéo người lên vai trong một động tác trèo liền mạch.
+Người khổng lồ quay đầu về phía anh. Mắt hắn dõi theo chiến binh, lông mày siết lại và hàm há ra trong một tiếng gầm sâu không lời. Tóc và da chuyển động theo vòng xoay của đầu.
+Chiến binh vẫn bám trên vai nhờ tiếp xúc thật giữa tay và bốt. Anh trèo chéo qua phần vai trên về phía gốc cổ người khổng lồ.
+Dùng một cú máy bám ngang cận cảnh, giữ trọn chiến binh, búa chiến và góc nghiêng khuôn mặt người khổng lồ dễ nhận diện trong cùng một khung hình.
+12.00–15.00 — GIÁNG BÚA TOÀN LỰC VÀO HÀM
+Chiến binh tới một vị trí vững trên bờ vai dốc của người khổng lồ, gần cổ.
+Anh đặt bốt trái về phía trước và chống bốt phải phía sau. Cả hai bàn chân nhìn rõ đang ép vào da người khổng lồ. Anh xoay hông ra xa mục tiêu và kéo búa chiến về sau bằng cả hai tay.
+Thể hiện đầy đủ quá trình chuẩn bị trước va chạm:
+đặt chân → đầu gối khuỵu → dồn lực vào hông → xoay thân → vai kéo búa về sau → cánh tay đưa đầu búa nặng vào vị trí bắt đầu.
+Ở giây 13.00, chiến binh tung một cú vung ngang hoàn chỉnh bằng hai tay về phía hàm người khổng lồ.
+Lực truyền liên tục từ chân qua hông, thân, vai rồi cánh tay. Đầu búa đi theo một cung vung rõ ràng, không gián đoạn. Nó không nhảy vị trí hoặc chạm vào mặt trước khi cú vung hoàn tất.
+Ở giây 14.00, chuyển sang chuyển động siêu chậm rõ rệt cho khoảnh khắc va chạm quyết định.
+Mặt đánh rộng của đầu búa hình chữ nhật giáng vào bên hàm dưới của người khổng lồ—không phải cán hay tay cầm. Thể hiện da và mô má bị ép quanh điểm va chạm, hàm người khổng lồ lệch sang bên, tóc rời tung ra ngoài và một luồng tỏa tròn gồm mưa, bụi cùng mảnh da bắn ra.
+Cánh tay chiến binh chống lại lực giảm tốc đột ngột. Vai anh giật lùi trong khi cơ thể tiếp tục theo đà kết thúc cú vung có kiểm soát.
+Không có máu, mô lộ ra, cảnh bạo lực đẫm máu hoặc chặt lìa cơ thể.
+15.00–17.30 — NGƯỜI KHỔNG LỒ LẢO ĐẢO VÀ CHIẾN BINH NGÃ
+Lập tức trở về tốc độ tự nhiên.
+Đầu người khổng lồ giật sang một bên do va chạm. Thân trên hắn giật lùi và vai bị đánh rơi mạnh xuống. Chuyển động đột ngột này làm chiến binh mất điểm tựa và hất anh văng khỏi người khổng lồ.
+Chiến binh ngã về phía chiến trường nhưng vẫn giữ nguyên chiếc búa chiến bằng cả hai tay. Anh không lơ lửng hoặc thực hiện thêm một cú nhảy.
+Cắt sang góc nhìn ngang ở tầm mặt đất. Bốt chạm đất trước, đầu gối khuỵu xuống theo quán tính và anh lăn một vòng qua một bên vai. Đầu búa đập xuống đất bên cạnh rồi cày thành một rãnh nông, hất đất ướt và hoa nhạt ra ngoài.
+Khuôn mặt khổng lồ của người khổng lồ hạ xuống phần trên bên phải khung hình khi hắn cố lấy lại thăng bằng. Hắn không nghiền nát hoặc giao cắt với chiến binh.
+17.30–20.00 — HỒI PHỤC VÀ ĐỐI ĐẦU LẦN CUỐI
+Chiến binh dừng cú lăn ở tư thế quỳ thấp.
+Anh cắm đầu búa vào đất, nắm cán bằng cả hai tay và dùng nó làm điểm tựa để từ từ đứng lên một gối. Sau đó anh rút búa ra và đưa cán nằm ngang qua vai trong tư thế phòng thủ sẵn sàng.
+Người khổng lồ hạ cái đầu khổng lồ về phía anh, hàm hiện rõ vết bầm do cú đánh nhưng vẫn tỉnh táo và đầy đe dọa. Hơi thở của hắn làm cỏ, hoa, sương mù và các mảng da lỏng trên giáp chiến binh lay động.
+Chiến binh chỉ đứng yên trong một nhịp quyết tâm ngắn ngủi, trong khi hơi thở và bộ giáp vẫn giữ chuyển động tự nhiên tinh tế.
+Một tia sét soi sáng pháo đài đổ nát ở phía trái khung hình, viền sáng cả hai nhân vật và khẳng định chênh lệch kích thước khổng lồ giữa họ.
+Kết thúc chính xác ở giây 20.00 bằng bố cục rộng góc thấp: chiến binh quỳ trong tiền cảnh phủ đầy hoa, sẵn sàng với búa chiến; khuôn mặt người khổng lồ lơ lửng phía trên anh và pháo đài xa hiện ra qua cơn bão.
+Không chuyển dần sang màn hình đen. Không khung hình đóng băng, tiêu đề hoặc thẻ kết thúc.
+KHÓA VẬT LÝ HÀNH ĐỘNG:
+Mọi hành động phải tuân theo quan hệ nhân quả vật lý có thể quan sát rõ:
+Chạy: bàn chân chạm đất → chuyển trọng lượng → chân sau đẩy → bước tiếp theo.
+Nhảy: chân trụ → đầu gối nén xuống → duỗi chân → quỹ đạo trên không → tiếp xúc khi tiếp đất → đầu gối hấp thụ lực.
+Trèo: tay hoặc vũ khí làm điểm tựa → bốt trụ → chuyển trọng lượng cơ thể → kéo người lên.
+Đánh búa: chân vững → dồn lực vào hông → xoay thân → đẩy bằng vai → đường đi liên tục của búa → mặt búa rộng tiếp xúc → chống lực → kết thúc cú vung.
+Ngã: mất điểm tựa do người khổng lồ giật lùi → hạ xuống do trọng lực → bốt chạm đất → đầu gối khuỵu → lăn qua vai → hồi phục.
+Chiến binh không bao giờ dịch chuyển tức thời giữa mặt đất, bàn tay, cánh tay hoặc vai. Người khổng lồ không bao giờ di chuyển chiến binh nếu không có tiếp xúc vật lý trực tiếp hoặc lực tác động nhìn thấy rõ.
+QUY TẮC TỐC ĐỘ CHUYỂN ĐỘNG:
+0.00–3.30: tốc độ chạy nhanh tự nhiên.
+3.30–5.80: chuyển động chậm điện ảnh có kiểm soát cho cú nhảy và tiếp đất.
+5.80–13.90: hành động nhanh tự nhiên.
+13.90–15.00: chỉ dùng chuyển động siêu chậm rõ rệt cho pha tiếp cận cuối, va chạm và biến dạng tức thời của búa.
+15.00–20.00: trở lại rõ ràng với tốc độ tự nhiên.
+Không áp dụng chuyển động chậm cho toàn cảnh. Không để nhân vật chuyển động chậm lơ lửng.
+ÁNH SÁNG VÀ MÀU SẮC:
+Duy trì tông bão xanh thép lạnh, xám than và bạc khử bão hòa. Chớp tạo ánh sáng định hướng trắng lạnh trong thời gian ngắn. Giáp ướt nhận các điểm sáng bạc hẹp, trong khi làn da tối của người khổng lồ vẫn có chi tiết và dễ đọc.
+Những bông hoa nhạt tạo độ tương phản ngà ấm vừa phải mà không khiến cảnh trở nên sặc sỡ. Giữ lớp sương mù khí quyển dày quanh pháo đài xa. Thay đổi phơi sáng do chớp phải ngắn và không được xóa cấu trúc cơ thể nhân vật hoặc che giấu hành động bị thiếu.
+ÂM THANH:
+Chỉ sử dụng hiệu ứng âm thanh môi trường và hành động đồng bộ, có nguồn phát trong cảnh. Tuyệt đối không có nhạc nền hoặc nhạc phim.
+Bao gồm tiếng gió bão, sấm ở xa, chuyển động của giáp, tiếng bước chân nặng, đất bị xới, cỏ lay, tiếng thở và tiếng gầm không lời của người khổng lồ, tiếng bàn tay quét trong không khí, cú nhảy của chiến binh, bốt chạm da, tiếng va chạm khi trèo, chuyển động của búa chiến, một tiếng va chạm kim loại trầm của búa, cú giật lùi của người khổng lồ, tiếng không khí khi rơi, giáp đập xuống đất, đầu búa chạm mặt đất và tiếng sét nổ gần ở cuối cảnh.
+Không có hội thoại, lời thuyết minh, lời nói, tiếng tụng, ca từ hoặc ngôn ngữ có thể hiểu được.
+TÍNH LIÊN TỤC VÀ NGĂN LỖI:
+Chính xác một chiến binh, một người khổng lồ và một búa chiến trong suốt cảnh.
+Chiến binh chỉ trèo lên người khổng lồ một lần và thực hiện chính xác một cú giáng búa quyết định.
+Búa chiến không bao giờ nhân bản, thay đổi kích thước, lơ lửng, cong, xuyên qua cơ thể nào hoặc đổi tay mà không có chuyển động nhìn thấy rõ.
+Người khổng lồ vẫn là cùng một sinh vật hình người hữu cơ trong mọi cảnh quay. Không có đặc điểm robot, biến đổi thành đá, bàn tay nhân đôi, ngón tay thừa hoặc khuôn mặt thay đổi.
+Giữ nguyên bộ giáp, mũ, tỷ lệ cơ thể và hư hại của chiến binh trong suốt cảnh.
+Giữ nguyên tuyến đường từ bàn tay phải đến cánh tay phải rồi vai phải của người khổng lồ để địa lý trèo vẫn khả thi về mặt vật lý.
+Không có bàn tay dính liền, chi thừa, khớp đảo ngược, bốt trượt, cơ thể giao cắt, dịch chuyển tức thời hoặc lơ lửng không có điểm tựa.
+Đầu búa rộng—không phải cán—phải nhìn thấy rõ đang chạm vào hàm người khổng lồ sau khi cú vung hoàn tất.
+Không có máu, cảnh bạo lực đẫm máu, mô lộ ra, cơ thể người bị nghiền nát hoặc chặt lìa.
+Không có vẻ ngoài live-action, nhân vật nhượng quyền dễ nhận diện, phụ đề, chú thích, logo, giao diện người dùng, lớp phủ phát video, dải đen cố định hoặc watermark.
+Mọi nhạc nền hoặc nhạc phim đều khiến lần tạo bị xem là thất bại.
+music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099519801139908951) · [Bài đăng gốc](https://x.com/MadMax_Series/status/2099519801139908951) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2099643231659012553"></a>
+
+### Đảo núi lửa tương tác với những chiếc thuyền tháo chạy
+
+[Wësche](https://x.com/WescheNex1q) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099643231659012553"><img src="../assets/previews/9a1b9694885d457f5a963b113de92ef80461d9c977d88ed6544e091eabf13eea.jpg" width="840" loading="lazy" alt="Đảo núi lửa tương tác với những chiếc thuyền tháo chạy"></a>
+
+Yêu cầu có thể tái sử dụng để tạo một hòn đảo núi lửa 3D tương tác, với dòng dung nham chảy và những chiếc thuyền tháo chạy khi núi lửa phun trào. Tác giả gốc cho biết họ đã gửi yêu cầu này đến một số mô hình, trong đó có Astra-6, để so sánh.
+
+**Prompt**
+
+```text
+xây dựng một hòn đảo núi lửa tương tác với dòng dung nham chảy và những chiếc thuyền tháo chạy.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099643231659012553) · [Bài đăng gốc](https://x.com/WescheNex1q/status/2099643231659012553) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2099719427990134984"></a>
+
+### Bảng điều khiển hệ thần kinh tương tác của sinh vật 3D
+
+[AiMind](https://x.com/AIMind_Ai) · 2026-09-15
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099719427990134984"><img src="../assets/previews/12a118ec5a6078181cd7528a0f114e8c5c8c1c3bb45f309cf4c3162886d0b347.jpg" width="840" loading="lazy" alt="Bảng điều khiển hệ thần kinh tương tác của sinh vật 3D"></a>
+
+AiMind chia sẻ đây là gợi ý “Lấy prompt” cho một bảng điều khiển tương tác, có các vùng của hệ thần kinh có thể nhấp và một sinh vật 3D được rigging procedural. Bài đăng giới thiệu phần minh họa bằng một con ruồi, nhưng prompt được trích dẫn dùng placeholder \[organism\] và không khẳng định rõ đó là đầu vào chính xác đã dùng cho đoạn clip.
+
+**Prompt**
+
+```text
+Bảng điều khiển tương tác. Bên trái: sơ đồ hệ thần kinh của [organism], gồm các vùng có thể nhấp. Bên phải: sinh vật 3D [organism] được rigging procedural. Nhấp vào một vùng sẽ kích hoạt phản ứng vận động kéo dài 2,5 giây. Giao diện tối, hiển thị dữ liệu telemetry về tốc độ và hướng di chuyển.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099719427990134984) · [Bài đăng gốc](https://x.com/AIMind_Ai/status/2099719427990134984) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2099750376530657300"></a>
+
+### Trái tim và emoji mặt cười phong cách Apple 3D
+
+[Sharon Riley](https://x.com/Just_sharon7) · 2026-09-15
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099750376530657300"><img src="../assets/previews/28a462ad372dbb45b012ec3ff118fd94ca6ea7ae6ea0a26320ab4bee839dfd63.jpg" width="840" loading="lazy" alt="Trái tim và emoji mặt cười phong cách Apple 3D"></a>
+
+Tác giả cho biết đã nhập prompt chỉ gồm văn bản này để tạo hình ảnh, sau đó tạo mô hình 3D .glb có thể xoay. Không sử dụng hình ảnh tham chiếu.
+
+**Prompt**
+
+```text
+Emoji trái tim và emoji mặt cười phong cách Apple 3D
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099750376530657300) · [Bài đăng gốc](https://x.com/Just_sharon7/status/2099751278234767673) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2099850719839109597"></a>
+
+### Tạo không gian 3D có thể điều khiển và nhân vật game từ ảnh tham khảo
+
+[妖精アーヤ](https://x.com/aiehon_aya) · 2026-09-15
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099850719839109597"><img src="../assets/previews/21904f58bcbe320a86b7881bbcbba52e5e94243b88f3860ec995769456b5f505.jpg" width="840" loading="lazy" alt="Tạo không gian 3D có thể điều khiển và nhân vật game từ ảnh tham khảo"></a>
+
+Đây là prompt hướng dẫn từng bước để dùng ảnh tham khảo về thế giới trong phần ghi chú của tác giả và ảnh chuẩn của nhân vật làm đầu vào, kiểm tra rồi dựng 3D ngôi nhà và nhân vật, sau đó tinh chỉnh trong Blender để thêm rig tự động và chuyển động. Prompt không chỉ định mục tiêu hay luật chơi; sản phẩm chính là một không gian 3D có nhân vật có thể điều khiển.
+
+**Prompt**
+
+```text
+【Chuẩn bị trước】
+・Ảnh tham khảo về thế giới bạn muốn tạo (ngoại thất, phòng ốc, v.v.)
+・Ảnh chuẩn của nhân vật (chẳng hạn như bản vẽ ba góc)
+　※Không có ảnh thì không thể tái hiện. Hãy đính kèm ảnh nhé
+
+【Prompt】
+Dựa trên các ảnh đã đính kèm, hãy thiết kế thế giới của tôi và nhân vật game thành một không gian 3D có thể điều khiển, với chất lượng chuyên nghiệp.
+
+① Xem các ảnh đính kèm để kiểm tra hình dạng, màu sắc và họa tiết của ngôi nhà và nhân vật
+　↓
+② Dùng Tripo để tạo mô hình 3D từ ảnh (ba ảnh toàn thân gồm mặt trước, mặt sau và mặt bên, với cùng một tỷ lệ khung hình)
+　↓
+③ Nhập vào Blender, điều chỉnh vị trí và kích thước các bộ phận
+　↓
+④ Thiết lập rig tự động, rồi thêm các chuyển động phù hợp với cá tính của nhân vật như đi bộ, đung đưa, v.v.
+　↓
+⑤ Nếu có điểm cần quyết định (chẳng hạn như sử dụng asset trả phí), hãy hỏi ý kiến tôi trước khi tiếp tục
+　↓
+⑥ Ghi chép nội dung công việc, các điểm bị vướng và vị trí tài nguyên ở mức chi tiết để một AI khác cũng có thể đọc và tái hiện quy trình
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099850719839109597) · [Bài đăng gốc](https://x.com/aiehon_aya/status/2099850721646784894) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="2096525100518453342"></a>
 
 ### Chuyển đổi biểu cảm nhân vật trong Blender
@@ -3371,42 +3584,6 @@ Dựng mô hình Seoul thu nhỏ bằng Three.js từ dữ liệu bản đồ m�
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-miniature-of-seoul-2096557555086725159) · [Bài đăng gốc](https://x.com/synabreu/status/2096557555086725159) · [Bản demo](https://seoul-3d-atlas.synabreu.chatgpt.site/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096460081982304546"></a>
-
-### Côn trùng tạo bằng thuật toán bò trên nhiều bề mặt
-
-[XiaoLei Liu](https://x.com/leo_xiaolei) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/surface-climbing-procedural-insect-2096460081982304546"><img src="../assets/previews/fb132b9e6a026ce7de5d7b1710f5a7e78653b07c96cb7d17edaf1062021c7fd5.webp" width="840" loading="lazy" alt="Côn trùng tạo bằng thuật toán bò trên nhiều bề mặt"></a>
-
-**Prompt**
-
-```text
-Tạo một côn trùng 3D nhiều chân có thể bám và đi trên các bề mặt khác nhau. Phối hợp chuyển động của chân và thân khi vượt qua những chỗ chênh lệch độ cao.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/surface-climbing-procedural-insect-2096460081982304546) · [Bài đăng gốc](https://x.com/leo_xiaolei/status/2096460081982304546) · [Bản demo](https://threerocks.github.io/web-3d-pages/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096467585785286808"></a>
-
-### Lái Wright Flyer qua khu rừng Nhật Bản
-
-[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="../assets/previews/67349df6f55e75c5acee30371c715c3ec04b9ae5c26c628e71d3afb3aae6c9e0.webp" width="840" loading="lazy" alt="Lái Wright Flyer qua khu rừng Nhật Bản"></a>
-
-**Prompt**
-
-```text
-Xây dựng trò chơi bay bằng Three.js với chiếc Wright Flyer năm 1903 trong một khu rừng Nhật Bản. Nghiên cứu chiếc máy bay rồi dùng thuật toán tạo máy bay, cây, cổng torii, nhà và núi mà không dùng tài nguyên bên ngoài.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808) · [Bài đăng gốc](https://x.com/thebuggeddev/status/2096467585785286808) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3515,24 +3692,6 @@ Xây dựng bản mẫu trò chơi thẻ bài sưu tầm bằng Three.js: mua b�
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [Bài đăng gốc](https://x.com/FaryaBlender3D/status/2096555856204644550) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096490395614019793"></a>
-
-### Dạo bước trong ngôi làng low-poly lấy cảm hứng từ Gwacheon
-
-[Manas Joshi](https://x.com/ManasJoshi76254) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793"><img src="../assets/previews/8421a65dcff65f18140db9a668855715aeef10b3e8cf18b4c5a3f56553b583cc.webp" width="840" loading="lazy" alt="Dạo bước trong ngôi làng low-poly lấy cảm hứng từ Gwacheon"></a>
-
-**Prompt**
-
-```text
-Tạo một ngôi làng low-poly ấm cúng, có thể khám phá, lấy cảm hứng từ Gwacheon trong một tệp HTML duy nhất. Kết hợp cảnh quan 3D tạo bằng thuật toán, bầu không khí, giao diện và tương tác.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793) · [Bài đăng gốc](https://x.com/ManasJoshi76254/status/2096490395614019793) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3752,24 +3911,6 @@ Dựng thuyền YF-24 trong Blender và tạo hoạt cảnh thuyền di chuyển
 
 ---
 
-<a id="2096413869841473930"></a>
-
-### Căn hộ lấy cảm hứng từ D4 có thể khám phá trong game
-
-[Hidetaka SWERY SueHERO](https://x.com/Swery65) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/playable-d4-inspired-apartment-2096413869841473930"><img src="../assets/previews/1f412131b9d66511d6a2496509cd7e477be4768a1542c19780e6eb4148068f89.webp" width="840" loading="lazy" alt="Căn hộ lấy cảm hứng từ D4 có thể khám phá trong game"></a>
-
-**Prompt**
-
-```text
-Nghiên cứu căn hộ của nhân vật chính trong D4 và tái dựng thành bản mẫu 3D có thể chơi được. Đối chiếu bố cục và tương tác với tư liệu tham khảo thay vì mặc định rằng đã tái hiện chính xác.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/playable-d4-inspired-apartment-2096413869841473930) · [Bài đăng gốc](https://x.com/Swery65/status/2096413869841473930) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="2096559197999501724"></a>
 
 ### Từ logo 2D đến nhân vật chuyển động
@@ -3788,28 +3929,10 @@ Chuyển logo nhân vật 2D được cung cấp thành phiên bản 3D có ho�
 
 ---
 
-<a id="2096481425050743048"></a>
-
-### Lắp ghép và tạo hoạt ảnh cho các mô hình 3D đã tạo
-
-[Stefan 3D AI](https://x.com/Stefan_3D_AI) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048"><img src="../assets/previews/3388e9e5e8f519fb22f67c35c98f5038335da857c0a1b8883c406c6e14c36c4a.webp" width="840" loading="lazy" alt="Lắp ghép và tạo hoạt ảnh cho các mô hình 3D đã tạo"></a>
-
-**Prompt**
-
-```text
-Tạo tài nguyên 3D đã tối ưu bằng Tripo P2, lắp ghép trong Blender, rồi gắn xương và tạo hoạt ảnh cho nhân vật. Kiểm tra sự phù hợp về không gian giữa nhân vật và cảnh.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048) · [Bài đăng gốc](https://x.com/Stefan_3D_AI/status/2096481425050743048) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 228 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 235 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

@@ -26,7 +26,7 @@
 **Un punto de partida para tu próximo juego, escena o mundo interactivo.**
 
 
-**228 · Últimos prompts de Astra**
+**235 · Últimos prompts de Astra**
 
 ## Proyectos destacados
 
@@ -49,8 +49,6 @@
 - [Explorador interactivo de anatomía en 3D](#2099206962344800541) · GitHub
 - [Mosswing: juego móvil 3D de tocar para aletear](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
 - [Núcleo de energía interactivo con dos anillos](#2096551010089263181) · GitHub
-- [Crea y renderiza un agujero negro en Blender](#2096391653669953761)
-- [Reconstrucción de Lego 1999 Racers](#2096438110095585753)
 - [La visión del templo de Ezequiel en 3D](#2096547658164834788)
 - [Simulación 3D de una explosión nuclear en una ciudad](#2096562462674079868)
 - [Motor de la Totalidad: Catedral cinematográfica del eclipse](#2096593372311941143)
@@ -109,25 +107,29 @@
 - [Animación 3D de origami que se pliega sola](#2098909584996057283)
 - [Despliegue UV y rebakeo en 4K de un modelo de ropa sin cabeza](#2098980384260456813)
 - [Escena costera 3D jugable para navegador](#2099172061092381027)
+- [Reimagina el castillo de Peach en 3D](#2099359786865402019)
 - [Ferrocarril en miniatura autónomo con prevención de colisiones](#2099362575339372780)
 - [El juego de navegador isométrico en 3D de la isla del cíclope](#2099414001851449430)
 - [Circuito de obstáculos 3D jugable](#2099419671481249851)
 - [Escena 3D interactiva de un samurái en el bosque](#2099450933067612421)
 - [Modelo de conífera de menos de 200 polígonos](#2099472264270102705)
+- [Mundo 3D lleno de rascacielos muy altos](#2099487024256589970)
+- [El guerrero trepa a un gigante y le golpea la mandíbula](#2099519801139908951)
+- [Isla volcánica interactiva con barcos que huyen](#2099643231659012553)
+- [Panel interactivo del sistema nervioso de un organismo en 3D](#2099719427990134984)
+- [Corazón y emoji sonriente en 3D con estilo Apple](#2099750376530657300)
+- [Crea un espacio 3D y un personaje de videojuego articulados a partir de imágenes de referencia](#2099850719839109597)
 - [Expresiones de personaje intercambiables en Blender](#2096525100518453342)
 - [Tablero de shogi 3D giratorio](#2096579856133947507)
 - [Atlas interactivo de un ordenador de sobremesa por piezas](#2096578761877860502)
 - [Planificador de habitación infantil y zona de trabajo](#2096578684010508736)
 - [Miniatura interactiva de Seúl](#2096557555086725159)
-- [Insecto procedural que trepa por superficies](#2096460081982304546)
-- [El Wright Flyer sobre un bosque japonés](#2096467585785286808)
 - [Una casa modelada desde cero en Blender](#2096576154337734865)
 - [Del plano de la última planta a una vista previa en Blender](#2096501340889374883)
 - [Aventura de exploración The Quiet Crossing](#2096574297703637111)
 - [Locomotora de vapor por el campo](#2096577430274429157)
 - [Escena de un tocadiscos sobre una mesa](#2096561346766877106)
 - [Ciclo de juego de batallas con cartas coleccionables](#2096555856204644550)
-- [Pueblo low poly de Gwacheon para recorrer a pie](#2096490395614019793)
 - [Nivel completo de puzles en Three.js](#2096505740643246231)
 - [Búsqueda del tesoro en una playa low poly](#2096570815714414844)
 - [Modelos de Blender con efectos visuales en Unity](#2096560142871658589)
@@ -140,9 +142,7 @@
 - [Atractor de Lorenz interactivo](#2096572156453028193)
 - [Una habitación personal como portfolio interactivo](#2096506357868642342)
 - [Barco YF-24 en un mar 3D tranquilo](#2096503275910832461)
-- [Apartamento jugable inspirado en D4](#2096413869841473930)
 - [De un logotipo 2D a un personaje animado](#2096559197999501724)
-- [Montaje y animación de recursos 3D generados](#2096481425050743048)
 
 </details>
 
@@ -317,46 +317,6 @@ Modela un núcleo de energía, dos anillos y una base metálica en Blender. Expo
 ```
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [Publicación original](https://x.com/oneruofeng/status/2096551010089263181) · [Código fuente](https://github.com/wangruofeng/orbital-core-showcase) · [Demo en línea](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2096391653669953761"></a>
-
-### Crea y renderiza un agujero negro en Blender
-
-[John Kler](https://x.com/JohnKlerAI) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096391653669953761"><img src="../assets/previews/0203a375c4a0f77f1fae00d9c8c9173739b940debd87bf4144d4f375ccc8c12e.jpg" width="840" loading="lazy" alt="Crea y renderiza un agujero negro en Blender"></a>
-
-El autor afirma que dio el mismo prompt a GPT Astra y Fable 5.1 para crear y renderizar en Blender un agujero negro inspirado en Interstellar.
-
-**Prompt**
-
-```text
-Crea y renderiza en Blender un hermoso agujero negro, como el de Interstellar.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096391653669953761) · [Publicación original](https://x.com/JohnKlerAI/status/2096391653669953761) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2096438110095585753"></a>
-
-### Reconstrucción de Lego 1999 Racers
-
-[Mo Elgaraihy](https://x.com/EngMoElgaraihy) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096438110095585753"><img src="../assets/previews/e14b00869191181ad52fe51c4e0a57d3ad72c405802c16cb36147a9b5d613143.jpg" width="840" loading="lazy" alt="Reconstrucción de Lego 1999 Racers"></a>
-
-Solicitud para reconstruir por completo el juego de carreras Lego 1999 Racers con GPT-6 Astra.
-
-**Prompt**
-
-```text
-Reconstruye por completo el popular juego de carreras Lego 1999 Racers.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096438110095585753) · [Publicación original](https://x.com/EngMoElgaraihy/status/2096438110095585753) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -3162,6 +3122,26 @@ prompt: "Las voces deben sonar humanas, no robóticas. Un colchón sonoro sutil 
 
 ---
 
+<a id="2099359786865402019"></a>
+
+### Reimagina el castillo de Peach en 3D
+
+[Romain Huet](https://x.com/romainhuet) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099359786865402019"><img src="../assets/previews/e7a5ad638345dd08d471122be938b5ac89535f8153244ee59aea77fd486c67ff.jpg" width="840" loading="lazy" alt="Reimagina el castillo de Peach en 3D"></a>
+
+El autor cuenta que pidió a Astra, en Codex, que reinventara el castillo de Peach en 3D y creara un vídeo de sobrevuelo. En un comentario posterior, explica que el trabajo incluía un modelo en Blender, una órbita comprobada con luz diurna y al anochecer, 88 cristales modelados en la ventana de Peach y un interior de la planta baja.
+
+**Prompt**
+
+```text
+Reinventa el castillo de Peach en 3D y crea un vídeo de sobrevuelo.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099359786865402019) · [Publicación original](https://x.com/romainhuet/status/2099359786865402019) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="2099362575339372780"></a>
 
 ### Ferrocarril en miniatura autónomo con prevención de colisiones
@@ -3281,6 +3261,239 @@ Un prompt para pedirle a Astra que cree una conífera de menos de 200 polígonos
 
 ---
 
+<a id="2099487024256589970"></a>
+
+### Mundo 3D lleno de rascacielos muy altos
+
+[Bilal Arshad](https://x.com/MohdBilalArshad) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099487024256589970"><img src="../assets/previews/6b76cf5a4a0feefa91cafe184567430f78b75607a7a2347c64807100431ebcac.jpg" width="840" loading="lazy" alt="Mundo 3D lleno de rascacielos muy altos"></a>
+
+Bilal Arshad cuenta que le pidió a Astra que construyera un mundo 3D lleno de rascacielos muy altos y compartió el resultado.
+
+**Prompt**
+
+```text
+construye un mundo 3D lleno de rascacielos muy altos
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099487024256589970) · [Publicación original](https://x.com/MohdBilalArshad/status/2099487024256589970) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2099519801139908951"></a>
+
+### El guerrero trepa a un gigante y le golpea la mandíbula
+
+[MadMax](https://x.com/MadMax_Series) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099519801139908951"><img src="../assets/previews/9dcdc5e9bfa0c7eb9a0d4ea88363fd3fa5843e9d2ac1c418cd66c109727b0ab5.jpg" width="840" loading="lazy" alt="El guerrero trepa a un gigante y le golpea la mandíbula"></a>
+
+Una secuencia cinematográfica de acción en 3D de 20 segundos: un guerrero montañés con armadura carga por un campo de batalla de las tierras altas bajo una tormenta, salta sobre la mano de un gigante orgánico, trepa hasta su hombro, le golpea la mandíbula con un martillo de guerra, cae y se recupera para un enfrentamiento final. El autor original lo etiqueta como un prompt de texto a vídeo e indica GPT-6 Astra + Seedance 2.5 y Higgsfield.
+
+**Prompt**
+
+```text
+REGISTRO DE PERSONAJES:
+Exactamente un guerrero montañés adulto de sexo masculino.
+Tiene una complexión compacta, ancha y extremadamente poderosa. Lleva un diseño original de armadura medieval fantástica de placas, en metal oscuro color gunmetal: casco puntiagudo cerrado, placas de hombros superpuestas, protección articulada para los brazos, guanteletes pesados, peto reforzado, paneles de cuero en la cintura, pantalones oscuros, grebas de acero y botas blindadas pesadas. La armadura está desgastada, arañada y mojada por la tormenta.
+Lleva exactamente un enorme martillo de guerra para dos manos. Tiene un único mango largo reforzado de metal oscuro y una cabeza de martillo rectangular, pesada y simétrica. El arma mantiene la misma longitud, forma y peso durante toda la secuencia. La controla con ambas manos durante los saltos, la escalada y el golpe.
+Exactamente un gigante humanoide orgánico colosal, de más de treinta veces la altura del guerrero. Tiene hombros musculosos inmensos, brazos extremadamente largos, manos enormes de aspecto humano, piel gris carbón áspera, poros y cicatrices visibles, cejas prominentes, nariz ancha, mandíbula poderosa y cabello negro largo y enmarañado. Es un titán orgánico vivo, no una estatua, un robot, una máquina ni un gólem de piedra.
+No debe haber guerreros, gigantes ni ejércitos de fondo adicionales.
+ENTORNO:
+Un campo de batalla de las tierras altas, azotado por el viento, bajo una violenta tormenta azul grisácea. El terreno irregular está cubierto de tierra oscura y mojada, hierba aplastada y miles de pequeñas flores pálidas. El viento fuerte dobla la hierba y las flores en oleadas irregulares.
+Una fortaleza medieval en ruinas se alza sobre una colina distante, a la izquierda de la pantalla. Sus torres derruidas siguen visibles a través de la niebla baja y errante. Los relámpagos iluminan intermitentemente la fortaleza y las nubes de tormenta.
+El gigante ocupa el lado derecho de la pantalla del campo de batalla. El guerrero comienza en el centro del primer plano y corre hacia el gigante. Conserva esta geografía y dirección en pantalla durante todos los cortes.
+ACCIÓN CRONOLÓGICA Y CÁMARA:
+0.00–3.30 — CARGA HACIA EL GIGANTE
+Comienza de inmediato con un plano de seguimiento trasero y bajo, muy cerca del guerrero con armadura mientras corre con fuerza por el campo mojado hacia el gigante colosal.
+Lleva el martillo de guerra horizontalmente frente al cuerpo con ambas manos. La cabeza pesada del martillo permanece hacia la derecha de la pantalla, mientras que el extremo inferior del mango se extiende hacia la izquierda. Las botas comprimen el suelo mojado con cada paso y solo después del contacto físico lanzan hacia atrás tierra, flores aplastadas y gotas.
+Las piernas y la enorme mano derecha del gigante entran por la zona superior derecha del encuadre. El gigante se agacha y extiende la mano abierta hacia el guerrero que carga, con la intención de recogerlo del suelo.
+Los dedos se mueven de forma independiente, con articulaciones y peso creíbles. El gigante no agarra al guerrero de inmediato ni lo teletransporta.
+El movimiento de cámara se mantiene bajo, rápido y fluido, enfatizando la enorme diferencia de escala. La fortaleza en ruinas sigue visible en el horizonte distante de la izquierda de la pantalla.
+3.30–5.80 — SALTO A LA MANO DEL GIGANTE
+Cuando la mano abierta del gigante pasa a ras del suelo por la trayectoria del guerrero, este apoya firmemente la bota derecha en el suelo. Flexiona la rodilla, baja las caderas y propulsa hacia arriba la pierna trasera.
+Realiza un único salto potente hacia delante.
+Usa una cámara lenta cinematográfica controlada mientras asciende frente a los dedos separados del gigante. Recoge ligeramente las piernas bajo el cuerpo y eleva con ambas manos el mismo martillo de guerra por encima de los hombros para mantener el equilibrio.
+Aterriza con ambas botas sobre la parte posterior de los dedos medio y anular del gigante. Muestra un contacto físico claro: las botas tocan la piel, las rodillas absorben el impacto, la carne del gigante se comprime ligeramente y la armadura del guerrero reacciona al aterrizaje.
+El gigante comienza a levantar la mano hacia el rostro. El guerrero no flota ni queda suspendido en el aire.
+Usa un travelling de grúa dramático en contrapicado que ascienda por debajo del guerrero, con la enorme mano llenando el fondo.
+5.80–9.00 — CORRER POR EL BRAZO
+Vuelve a una acción rápida y natural.
+Mientras el gigante levanta el brazo, el guerrero corre desde los dedos por el dorso de la mano hasta la muñeca. Sus pisadas se alternan correctamente y se aferran de forma visible a la superficie irregular y en movimiento.
+El gigante gira la muñeca e intenta sacudírselo de encima. El guerrero baja el centro de gravedad, amplía la base de apoyo y mantiene el martillo cerca del torso hasta que el brazo se estabiliza.
+Después acelera por el antebrazo del gigante hacia el codo. Cada paso sigue el ángulo cambiante del brazo; las botas no se deslizan a través de la piel.
+La cámara lo sigue de lado y ligeramente desde abajo, elevándose a lo largo del brazo del gigante. Las partes cercanas del brazo atraviesan rápidamente el primer plano, mientras que la cabeza del gigante y la fortaleza distante se desplazan más despacio, creando un potente paralaje y una sensación de escala.
+9.00–12.00 — TREPAR HASTA EL HOMBRO
+El guerrero alcanza la parte superior del brazo, que asciende en una pendiente pronunciada hacia el hombro del gigante.
+Engancha un antebrazo y el mango del martillo de guerra contra una cresta muscular natural para hacer palanca, apoya la bota derecha, empuja con la pierna y se incorpora al hombro en una única acción de escalada conectada.
+El gigante gira la cabeza hacia él. Su ojo sigue al guerrero, frunce el ceño y abre la mandíbula en un rugido profundo y no verbal. El cabello y la piel se mueven con la rotación de la cabeza.
+El guerrero permanece sujeto al hombro mediante un contacto real de manos y botas. Trepa en diagonal por la parte superior del hombro hacia la base del cuello del gigante.
+Usa un plano de seguimiento lateral cercano que mantenga visibles y legibles en el mismo encuadre al guerrero completo, el martillo de guerra y el perfil facial del gigante.
+12.00–15.00 — GOLPE COMPLETO DEL MARTILLO EN LA MANDÍBULA
+El guerrero alcanza una posición estable sobre el hombro inclinado del gigante, cerca del cuello.
+Adelanta la bota izquierda y apoya la derecha detrás. Ambos pies presionan visiblemente contra la piel del gigante. Gira las caderas en dirección opuesta al objetivo y lleva el martillo de guerra hacia atrás con ambas manos.
+Muestra toda la preparación antes del impacto:
+los pies se apoyan → las rodillas se flexionan → las caderas cargan la fuerza → el torso gira → los hombros llevan el martillo hacia atrás → los brazos guían la pesada cabeza del martillo hasta su posición inicial.
+En el segundo 13.00, el guerrero ejecuta un único golpe horizontal completo con ambas manos hacia la mandíbula del gigante.
+La fuerza se transmite de forma continua desde las piernas, pasando por las caderas, el torso, los hombros y los brazos. La cabeza del martillo sigue un único arco claro e ininterrumpido. No salta de posición ni toca el rostro antes de completar el golpe.
+En el segundo 14.00, entra en cámara ultralenta explícita para el contacto decisivo.
+La cabeza rectangular del martillo golpea el lateral de la mandíbula inferior del gigante con su amplia cara de impacto, no con el mango ni el asta. Muestra cómo la piel y el tejido de la mejilla se comprimen alrededor del impacto, cómo la mandíbula del gigante se desplaza lateralmente, cómo el cabello suelto sale despedido y cómo se produce una ráfaga radial de lluvia, polvo y residuos de piel.
+Los brazos del guerrero resisten la desaceleración repentina. Sus hombros retroceden mientras el cuerpo continúa en un seguimiento controlado del movimiento.
+No debe haber sangre, tejido expuesto, gore ni desmembramiento.
+15.00–17.30 — RETROCESO DEL GIGANTE Y CAÍDA DEL GUERRERO
+Vuelve de inmediato a la velocidad natural.
+La cabeza del gigante se sacude hacia un lado por el impacto. La parte superior de su cuerpo retrocede y el hombro golpeado desciende bruscamente. Este movimiento repentino hacia abajo hace que el guerrero pierda el apoyo y salga despedido en dirección contraria al gigante.
+El guerrero cae hacia el campo de batalla mientras conserva el mismo martillo de guerra con ambas manos. No flota ni realiza un salto adicional.
+Corta a una vista lateral a nivel del suelo. Sus botas aterrizan primero, las rodillas ceden por el impulso y rueda una vez sobre un hombro. La cabeza del martillo golpea la tierra a su lado y abre un surco poco profundo, lanzando hacia fuera tierra mojada y flores pálidas.
+El enorme rostro del gigante desciende por la zona superior derecha del encuadre mientras intenta recuperar el equilibrio. No aplasta ni atraviesa al guerrero.
+17.30–20.00 — RECUPERACIÓN Y ENFRENTAMIENTO FINAL
+El guerrero detiene la voltereta en una posición baja de rodillas.
+Clava la cabeza del martillo de guerra en la tierra, sujeta el mango con ambas manos y lo usa como apoyo para incorporarse de forma constante hasta quedar sobre una rodilla. Después extrae el martillo y coloca el mango horizontalmente sobre los hombros, en una postura defensiva preparada.
+El gigante baja su enorme cabeza hacia él; la mandíbula, visiblemente amoratada por el golpe, sigue consciente y amenazante. Su aliento agita la hierba, las flores, la niebla y los paneles de cuero sueltos de la armadura del guerrero.
+El guerrero permanece inmóvil solo durante un breve instante de determinación, mientras su respiración y su armadura conservan un movimiento natural sutil.
+Un relámpago ilumina la fortaleza en ruinas a la izquierda de la pantalla, recortando ambas figuras y confirmando su inmensa diferencia de escala.
+Termina exactamente en el segundo 20.00 con una composición amplia y baja: el guerrero arrodillado en el primer plano cubierto de flores, con el martillo de guerra preparado; el rostro del gigante se cierne sobre él y la fortaleza distante es visible a través de la tormenta.
+No fundir a negro. No incluir fotograma congelado, título ni tarjeta final.
+BLOQUEO DE FÍSICA DE LA ACCIÓN:
+Toda acción debe seguir una causalidad física clara y legible:
+Carrera: contacto del pie → transferencia del peso → empuje de la pierna trasera → siguiente paso.
+Salto: pie apoyado → compresión de la rodilla → extensión de la pierna → trayectoria aérea → contacto del aterrizaje → absorción con la rodilla.
+Escalada: apoyo de la mano o del arma → bota apoyada → transferencia del peso corporal → tracción ascendente.
+Golpe de martillo: pies estables → carga de las caderas → rotación del torso → impulso del hombro → trayectoria continua del martillo → contacto con la cara ancha del martillo → resistencia → continuación del movimiento.
+Caída: pérdida del apoyo causada por el retroceso del gigante → descenso impulsado por la gravedad → contacto de las botas → flexión de las rodillas → giro sobre el hombro → recuperación.
+El guerrero nunca se teletransporta entre el suelo, la mano, el brazo o el hombro. El gigante nunca mueve al guerrero sin contacto físico directo o una fuerza visible.
+REGLAS DE VELOCIDAD DEL MOVIMIENTO:
+0.00–3.30: velocidad de carrera rápida y natural.
+3.30–5.80: cámara lenta cinematográfica controlada para el salto y el aterrizaje.
+5.80–13.90: acción rápida y natural.
+13.90–15.00: cámara ultralenta explícita solo para la aproximación final del martillo, el contacto y la deformación inmediata.
+15.00–20.00: regreso claro a la velocidad natural.
+No aplicar cámara lenta global. No permitir que los personajes en cámara lenta floten.
+ILUMINACIÓN Y COLOR:
+Mantén una gradación de tormenta fría en azul acero, gris carbón y plata desaturada. Los relámpagos proporcionan una iluminación direccional blanca y fría durante breves instantes. La armadura mojada recibe reflejos plateados estrechos, mientras que la piel oscura del gigante sigue detallada y legible.
+Las flores pálidas aportan un contraste marfil cálido y contenido sin volver colorida la escena. Conserva la niebla atmosférica densa alrededor de la fortaleza distante. Los cambios de exposición de los relámpagos deben ser breves y no deben borrar la anatomía de los personajes ni ocultar acciones faltantes.
+AUDIO:
+Solo efectos de sonido ambientales y de acción diegéticos y sincronizados. No debe haber música de fondo ni banda sonora en absoluto.
+Incluye el viento de la tormenta, truenos lejanos, movimiento de la armadura, pisadas pesadas al correr, tierra removida, hierba doblándose, la respiración y el rugido no verbal del gigante, el desplazamiento de su mano, el salto del guerrero, las botas al entrar en contacto con la piel, impactos de la escalada, movimiento del martillo de guerra, un único impacto metálico profundo del martillo, el retroceso del gigante, el aire durante la caída, la armadura al golpear la tierra, la cabeza del martillo al golpear el suelo y un último chasquido de relámpago cercano.
+No debe haber diálogos, narración, palabras habladas, cánticos, letras ni lenguaje inteligible.
+CONTINUIDAD Y PREVENCIÓN DE FALLOS:
+Exactamente un guerrero, un gigante y un martillo de guerra durante toda la secuencia.
+El guerrero trepa al gigante una sola vez y ejecuta exactamente un golpe decisivo con el martillo.
+El martillo de guerra nunca se duplica, cambia de tamaño, flota, se dobla, atraviesa ninguno de los dos cuerpos ni cambia de mano sin un movimiento visible.
+El gigante sigue siendo la misma criatura humanoide orgánica en todos los planos. No incluir rasgos robóticos, transformación en piedra, manos duplicadas, dedos adicionales ni cambios en el rostro.
+Conserva la armadura, el casco, las proporciones y los daños del guerrero durante toda la secuencia.
+Conserva la ruta de la mano derecha al brazo derecho y al hombro del gigante para que la geografía de la escalada siga siendo físicamente posible.
+No incluir manos fusionadas, extremidades adicionales, articulaciones invertidas, botas deslizándose, cuerpos que se intersecan, teletransportación ni suspensión sin apoyo.
+La cabeza ancha del martillo, no el mango, debe entrar visiblemente en contacto con la mandíbula del gigante después de completar el golpe.
+No debe haber sangre, gore, tejido expuesto, cuerpos humanos aplastados ni desmembramiento.
+No incluir apariencia de acción real, personajes de franquicias reconocibles, subtítulos, textos superpuestos, logotipos, interfaz de usuario, controles de reproducción, barras negras permanentes ni marcas de agua.
+Cualquier música de fondo o banda sonora musical implica una generación fallida.
+music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099519801139908951) · [Publicación original](https://x.com/MadMax_Series/status/2099519801139908951) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2099643231659012553"></a>
+
+### Isla volcánica interactiva con barcos que huyen
+
+[Wësche](https://x.com/WescheNex1q) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099643231659012553"><img src="../assets/previews/9a1b9694885d457f5a963b113de92ef80461d9c977d88ed6544e091eabf13eea.jpg" width="840" loading="lazy" alt="Isla volcánica interactiva con barcos que huyen"></a>
+
+Una solicitud reutilizable para crear una isla volcánica 3D interactiva, con lava fluyendo y barcos que huyen durante la erupción. El autor principal indica que envió esta solicitud a varios modelos, incluido Astra-6, como parte de una comparación.
+
+**Prompt**
+
+```text
+crea una isla volcánica interactiva con lava fluyendo y barcos que huyen.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099643231659012553) · [Publicación original](https://x.com/WescheNex1q/status/2099643231659012553) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2099719427990134984"></a>
+
+### Panel interactivo del sistema nervioso de un organismo en 3D
+
+[AiMind](https://x.com/AIMind_Ai) · 2026-09-15
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099719427990134984"><img src="../assets/previews/12a118ec5a6078181cd7528a0f114e8c5c8c1c3bb45f309cf4c3162886d0b347.jpg" width="840" loading="lazy" alt="Panel interactivo del sistema nervioso de un organismo en 3D"></a>
+
+AiMind lo comparte como recomendación de «Roba el prompt» para crear un panel interactivo con regiones del sistema nervioso en las que se puede hacer clic y un organismo 3D con rigging procedural. La publicación muestra una demostración con una mosca, pero el prompt citado usa el marcador \[organism\] y no se establece explícitamente que sea la entrada exacta utilizada para ese clip.
+
+**Prompt**
+
+```text
+Panel interactivo. A la izquierda: sistema nervioso esquemático de [organism], con regiones en las que se puede hacer clic. A la derecha: [organism] 3D con rigging procedural. Al hacer clic en una región, se activa una respuesta motora de 2,5 segundos. Interfaz oscura, con telemetría de velocidad y rumbo.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099719427990134984) · [Publicación original](https://x.com/AIMind_Ai/status/2099719427990134984) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2099750376530657300"></a>
+
+### Corazón y emoji sonriente en 3D con estilo Apple
+
+[Sharon Riley](https://x.com/Just_sharon7) · 2026-09-15
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099750376530657300"><img src="../assets/previews/28a462ad372dbb45b012ec3ff118fd94ca6ea7ae6ea0a26320ab4bee839dfd63.jpg" width="840" loading="lazy" alt="Corazón y emoji sonriente en 3D con estilo Apple"></a>
+
+El autor indica que escribió este prompt de texto para generar una imagen y, después, un modelo 3D .glb que se puede girar. No se utilizó ninguna imagen de referencia.
+
+**Prompt**
+
+```text
+Emoji de corazón y emoji sonriente en 3D con estilo Apple
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099750376530657300) · [Publicación original](https://x.com/Just_sharon7/status/2099751278234767673) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2099850719839109597"></a>
+
+### Crea un espacio 3D y un personaje de videojuego articulados a partir de imágenes de referencia
+
+[妖精アーヤ](https://x.com/aiehon_aya) · 2026-09-15
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099850719839109597"><img src="../assets/previews/21904f58bcbe320a86b7881bbcbba52e5e94243b88f3860ec995769456b5f505.jpg" width="840" loading="lazy" alt="Crea un espacio 3D y un personaje de videojuego articulados a partir de imágenes de referencia"></a>
+
+Un prompt guiado paso a paso para introducir las imágenes de referencia del mundo y las imágenes canónicas del personaje incluidas en el comentario del autor, comprobar y convertir la casa y el personaje en modelos 3D, ajustarlos en Blender y añadirles un rig automático y movimiento. No se especifican objetivos ni reglas de juego; el resultado principal es un espacio 3D que incluye un personaje articulado.
+
+**Prompt**
+
+```text
+【Qué preparar antes】
+・Imágenes de referencia del mundo que quieres crear (exteriores, habitaciones, etc.)
+・Imágenes canónicas del personaje (como una vista de tres ángulos)
+　※Sin imágenes no se puede reproducir el resultado. ¡No olvides adjuntarlas!
+
+【Prompt】
+Diseñaré con calidad profesional un espacio 3D realmente interactivo y un personaje de videojuego basados en las imágenes adjuntas, respetando tu mundo y tu personaje.
+
+① Revisar las imágenes adjuntas para comprobar la forma, los colores y los detalles de diseño de la casa y el personaje
+　↓
+② Generar modelos 3D a partir de las imágenes con Tripo (tres imágenes del personaje de cuerpo entero: frontal, posterior y lateral, todas con la misma relación de aspecto)
+　↓
+③ Importarlos en Blender y ajustar la disposición y el tamaño de las piezas
+　↓
+④ Configurar un rig automático y añadir movimientos acordes con la personalidad del personaje, como caminar o balancearse
+　↓
+⑤ Si surge una decisión ambigua, como utilizar un recurso de pago, consultarme antes de continuar
+　↓
+⑥ Dejar un registro del trabajo realizado, los problemas encontrados y la ubicación de los recursos con el nivel de detalle necesario para que otra IA pueda leerlo y reproducir el proceso
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099850719839109597) · [Publicación original](https://x.com/aiehon_aya/status/2099850721646784894) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="2096525100518453342"></a>
 
 ### Expresiones de personaje intercambiables en Blender
@@ -3368,42 +3581,6 @@ Crea una miniatura de Seúl en Three.js con datos cartográficos abiertos. Añad
 ```
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-miniature-of-seoul-2096557555086725159) · [Publicación original](https://x.com/synabreu/status/2096557555086725159) · [Demo en línea](https://seoul-3d-atlas.synabreu.chatgpt.site/) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2096460081982304546"></a>
-
-### Insecto procedural que trepa por superficies
-
-[XiaoLei Liu](https://x.com/leo_xiaolei) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/surface-climbing-procedural-insect-2096460081982304546"><img src="../assets/previews/fb132b9e6a026ce7de5d7b1710f5a7e78653b07c96cb7d17edaf1062021c7fd5.webp" width="840" loading="lazy" alt="Insecto procedural que trepa por superficies"></a>
-
-**Prompt**
-
-```text
-Crea un insecto 3D de varias patas que camine adherido a distintas superficies. Coordina las patas y el cuerpo al superar cambios de altura.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/surface-climbing-procedural-insect-2096460081982304546) · [Publicación original](https://x.com/leo_xiaolei/status/2096460081982304546) · [Demo en línea](https://threerocks.github.io/web-3d-pages/) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2096467585785286808"></a>
-
-### El Wright Flyer sobre un bosque japonés
-
-[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="../assets/previews/67349df6f55e75c5acee30371c715c3ec04b9ae5c26c628e71d3afb3aae6c9e0.webp" width="840" loading="lazy" alt="El Wright Flyer sobre un bosque japonés"></a>
-
-**Prompt**
-
-```text
-Crea un juego de vuelo en Three.js con el Wright Flyer de 1903 en un bosque japonés. Investiga el avión y genera de forma procedural el aparato, los árboles, los torii, las casas y las montañas, sin recursos externos.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808) · [Publicación original](https://x.com/thebuggeddev/status/2096467585785286808) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -3512,24 +3689,6 @@ Crea un prototipo de cartas coleccionables en Three.js: comprar mazos y sobres, 
 ```
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [Publicación original](https://x.com/FaryaBlender3D/status/2096555856204644550) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2096490395614019793"></a>
-
-### Pueblo low poly de Gwacheon para recorrer a pie
-
-[Manas Joshi](https://x.com/ManasJoshi76254) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793"><img src="../assets/previews/8421a65dcff65f18140db9a668855715aeef10b3e8cf18b4c5a3f56553b583cc.webp" width="840" loading="lazy" alt="Pueblo low poly de Gwacheon para recorrer a pie"></a>
-
-**Prompt**
-
-```text
-Crea en un único archivo HTML un pueblo low poly acogedor y explorable inspirado en Gwacheon. Combina escenario 3D procedural, ambientación, interfaz e interacciones.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793) · [Publicación original](https://x.com/ManasJoshi76254/status/2096490395614019793) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -3749,24 +3908,6 @@ Modela un barco YF-24 en Blender y anímalo navegando por un mar tridimensional 
 
 ---
 
-<a id="2096413869841473930"></a>
-
-### Apartamento jugable inspirado en D4
-
-[Hidetaka SWERY SueHERO](https://x.com/Swery65) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/playable-d4-inspired-apartment-2096413869841473930"><img src="../assets/previews/1f412131b9d66511d6a2496509cd7e477be4768a1542c19780e6eb4148068f89.webp" width="840" loading="lazy" alt="Apartamento jugable inspirado en D4"></a>
-
-**Prompt**
-
-```text
-Investiga el apartamento del protagonista de D4 y recréalo como un prototipo 3D jugable. Contrasta la distribución y las interacciones con las referencias, sin dar por hecho que la recreación sea exacta.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/playable-d4-inspired-apartment-2096413869841473930) · [Publicación original](https://x.com/Swery65/status/2096413869841473930) · [Volver a los ejemplos](#all-prompts)
-
----
-
 <a id="2096559197999501724"></a>
 
 ### De un logotipo 2D a un personaje animado
@@ -3785,28 +3926,10 @@ Convierte el logotipo 2D de un personaje proporcionado en una versión 3D animad
 
 ---
 
-<a id="2096481425050743048"></a>
-
-### Montaje y animación de recursos 3D generados
-
-[Stefan 3D AI](https://x.com/Stefan_3D_AI) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048"><img src="../assets/previews/3388e9e5e8f519fb22f67c35c98f5038335da857c0a1b8883c406c6e14c36c4a.webp" width="840" loading="lazy" alt="Montaje y animación de recursos 3D generados"></a>
-
-**Prompt**
-
-```text
-Genera recursos 3D optimizados con Tripo P2, móntalos en Blender y crea el rig y la animación de los personajes. Revisa cómo encajan espacialmente los personajes y la escena.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048) · [Publicación original](https://x.com/Stefan_3D_AI/status/2096481425050743048) · [Volver a los ejemplos](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 228 ejemplos en el sitio oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 235 ejemplos en el sitio oficial →</a></strong></p>
 <p><sub>Para que el README de GitHub se renderice con fluidez, aquí solo se muestran los 100 ejemplos más recientes.</sub></p>
 <br>
 </td></tr>

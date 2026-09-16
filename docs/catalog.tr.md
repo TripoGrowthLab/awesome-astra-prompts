@@ -26,7 +26,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**228 · En yeni Astra istemleri**
+**235 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -49,8 +49,6 @@
 - [Etkileşimli 3B Anatomi Gezgini](#2099206962344800541) · GitHub
 - [Mosswing: Mobil 3B Dokunarak Uçma Oyunu](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
 - [Çift halkalı etkileşimli enerji çekirdeği](#2096551010089263181) · GitHub
-- [Blender’da kara delik oluşturma ve render alma](#2096391653669953761)
-- [Lego 1999 Racers'ı yeniden oluşturma](#2096438110095585753)
 - [Hezekiel’in Tapınak Vizyonu: 3B](#2096547658164834788)
 - [3B Şehirde Nükleer Patlama Simülasyonu](#2096562462674079868)
 - [Totality Engine: Sinematik Tutulma Katedrali](#2096593372311941143)
@@ -109,25 +107,29 @@
 - [Kendi kendine katlanan 3B origami animasyonu](#2098909584996057283)
 - [Başsız kıyafet modelinde UV açılımı ve 4K yeniden bake](#2098980384260456813)
 - [Tarayıcıda oynanabilir 3B kıyı bölümü](#2099172061092381027)
+- [Peach’s Castle’ı 3B olarak yeniden tasarla](#2099359786865402019)
 - [Çarpışma Önlemeli Otonom Model Demiryolu](#2099362575339372780)
 - [Tepegöz Adası izometrik 3B tarayıcı oyunu](#2099414001851449430)
 - [Oynanabilir 3B Engel Parkuru](#2099419671481249851)
 - [Etkileşimli 3B Samuray Ormanı Sahnesi](#2099450933067612421)
 - [200 poligonun altında kozalaklı ağaç modeli](#2099472264270102705)
+- [Çok yüksek gökdelenlerle dolu 3B dünya](#2099487024256589970)
+- [Savaşçı Devin Üzerine Tırmanıp Çenesine Vuruyor](#2099519801139908951)
+- [Kaçan teknelerin bulunduğu etkileşimli volkanik ada](#2099643231659012553)
+- [Etkileşimli 3B organizma sinir sistemi paneli](#2099719427990134984)
+- [Apple tarzı 3B kalp ve gülümseyen emoji](#2099750376530657300)
+- [Referans görsellerden hareketli 3B ortam ve oyun karakteri oluşturma](#2099850719839109597)
 - [Blender’da değiştirilebilir karakter ifadeleri](#2096525100518453342)
 - [Döndürülebilir 3D shogi tahtası](#2096579856133947507)
 - [Parçalarına ayrılan masaüstü bilgisayar atlası](#2096578761877860502)
 - [Çocuk odası ve çalışma alanı planlayıcısı](#2096578684010508736)
 - [Seul’ün etkileşimli minyatürü](#2096557555086725159)
-- [Yüzeylere tırmanan prosedürel böcek](#2096460081982304546)
-- [Japon ormanında Wright Flyer uçuşu](#2096467585785286808)
 - [Blender’da sıfırdan modellenen ev](#2096576154337734865)
 - [Üst kat planından Blender önizlemesine](#2096501340889374883)
 - [The Quiet Crossing keşif macerası](#2096574297703637111)
 - [Kırsalda ilerleyen buharlı lokomotif](#2096577430274429157)
 - [Masa üstünde pikap sahnesi](#2096561346766877106)
 - [Koleksiyon kartı savaş oyununun döngüsü](#2096555856204644550)
-- [Yürüyerek keşfedilen düşük poligonlu Gwacheon köyü](#2096490395614019793)
 - [Three.js ile tamamlanmış bulmaca bölümü](#2096505740643246231)
 - [Düşük poligonlu sahilde hazine avı](#2096570815714414844)
 - [Unity VFX ile Blender modelleri](#2096560142871658589)
@@ -140,9 +142,7 @@
 - [Etkileşimli Lorenz çekicisi](#2096572156453028193)
 - [Kişisel odadan etkileşimli portfolyoya](#2096506357868642342)
 - [Sakin bir 3D denizde YF-24 teknesi](#2096503275910832461)
-- [D4 esintili oynanabilir daire](#2096413869841473930)
 - [2D logodan animasyonlu karaktere](#2096559197999501724)
-- [Üretilen 3D varlıkları birleştirme ve canlandırma](#2096481425050743048)
 
 </details>
 
@@ -317,46 +317,6 @@ Blender’da bir enerji çekirdeği, iki halka ve metal bir taban modelleyin. Ma
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [Orijinal gönderi](https://x.com/oneruofeng/status/2096551010089263181) · [Kaynak kodu](https://github.com/wangruofeng/orbital-core-showcase) · [Canlı demo](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096391653669953761"></a>
-
-### Blender’da kara delik oluşturma ve render alma
-
-[John Kler](https://x.com/JohnKlerAI) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096391653669953761"><img src="../assets/previews/0203a375c4a0f77f1fae00d9c8c9173739b940debd87bf4144d4f375ccc8c12e.jpg" width="840" loading="lazy" alt="Blender’da kara delik oluşturma ve render alma"></a>
-
-Yazar, Blender’da Interstellar’dan ilham alan bir kara delik oluşturup render almak için GPT Astra ve Fable 5.1’e aynı istemi verdiğini söylüyor.
-
-**İstem**
-
-```text
-Blender’da Interstellar’daki gibi etkileyici bir kara delik oluşturup render alın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096391653669953761) · [Orijinal gönderi](https://x.com/JohnKlerAI/status/2096391653669953761) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096438110095585753"></a>
-
-### Lego 1999 Racers'ı yeniden oluşturma
-
-[Mo Elgaraihy](https://x.com/EngMoElgaraihy) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096438110095585753"><img src="../assets/previews/e14b00869191181ad52fe51c4e0a57d3ad72c405802c16cb36147a9b5d613143.jpg" width="840" loading="lazy" alt="Lego 1999 Racers'ı yeniden oluşturma"></a>
-
-GPT-6 Astra kullanarak Lego 1999 Racers araba oyununu tamamen yeniden oluşturma talebi.
-
-**İstem**
-
-```text
-Ünlü Lego 1999 Racers araba oyununu tamamen yeniden oluştur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096438110095585753) · [Orijinal gönderi](https://x.com/EngMoElgaraihy/status/2096438110095585753) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3149,6 +3109,26 @@ prompt: "Sesler robot gibi değil, insan gibi duyulmalı. Repliklerin altında a
 
 ---
 
+<a id="2099359786865402019"></a>
+
+### Peach’s Castle’ı 3B olarak yeniden tasarla
+
+[Romain Huet](https://x.com/romainhuet) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099359786865402019"><img src="../assets/previews/e7a5ad638345dd08d471122be938b5ac89535f8153244ee59aea77fd486c67ff.jpg" width="840" loading="lazy" alt="Peach’s Castle’ı 3B olarak yeniden tasarla"></a>
+
+Yazar, Astra’dan Codex’te Peach’s Castle’ı 3B olarak yeniden tasarlamasını ve havadan geçiş videosu oluşturmasını istediklerini söylüyor. Yazar, devam yorumunda çalışmada bir Blender modeli, gün ışığında ve alacakaranlıkta kontrol edilen bir kamera yörüngesi, Peach’in penceresinde modellenmiş 88 cam bölme ve zemin kat iç mekânının yer aldığını belirtiyor.
+
+**İstem**
+
+```text
+Peach’s Castle’ı 3B olarak yeniden tasarla ve havadan geçiş videosu oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099359786865402019) · [Orijinal gönderi](https://x.com/romainhuet/status/2099359786865402019) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="2099362575339372780"></a>
 
 ### Çarpışma Önlemeli Otonom Model Demiryolu
@@ -3268,6 +3248,239 @@ Astra’dan 200 poligondan az sayıda poligon içeren bir kozalaklı ağaç olu�
 
 ---
 
+<a id="2099487024256589970"></a>
+
+### Çok yüksek gökdelenlerle dolu 3B dünya
+
+[Bilal Arshad](https://x.com/MohdBilalArshad) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099487024256589970"><img src="../assets/previews/6b76cf5a4a0feefa91cafe184567430f78b75607a7a2347c64807100431ebcac.jpg" width="840" loading="lazy" alt="Çok yüksek gökdelenlerle dolu 3B dünya"></a>
+
+Bilal Arshad, Astra’dan çok yüksek gökdelenlerle dolu bir 3B dünya oluşturmasını istediğini ve ortaya çıkan sonucu paylaştığını söylüyor.
+
+**İstem**
+
+```text
+Çok yüksek gökdelenlerle dolu bir 3B dünya oluştur
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099487024256589970) · [Orijinal gönderi](https://x.com/MohdBilalArshad/status/2099487024256589970) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2099519801139908951"></a>
+
+### Savaşçı Devin Üzerine Tırmanıp Çenesine Vuruyor
+
+[MadMax](https://x.com/MadMax_Series) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099519801139908951"><img src="../assets/previews/9dcdc5e9bfa0c7eb9a0d4ea88363fd3fa5843e9d2ac1c418cd66c109727b0ab5.jpg" width="840" loading="lazy" alt="Savaşçı Devin Üzerine Tırmanıp Çenesine Vuruyor"></a>
+
+20 saniyelik sinematik bir 3B aksiyon sekansı: zırhlı bir dağ savaşçısı, fırtınalı bir yüksek plato savaş alanında hücum eder, organik bir devin eline atlar, omzuna tırmanır, savaş çekiciyle çenesine vurur, düşer ve son bir karşılaşma için toparlanır. Kök yazar bunu metinden videoya prompt olarak etiketliyor ve GPT-6 Astra + Seedance 2.5 ile Higgsfield belirtiyor.
+
+**İstem**
+
+```text
+KARAKTER KAYDI:
+Yalnızca bir yetişkin erkek dağ savaşçısı.
+Kompakt, geniş yapılı ve son derece güçlü bir fiziğe sahip. Orta Çağ fantezi tarzında, özgün koyu silah metali renginde plaka zırh giyiyor: tamamen kapalı sivri miğfer, katmanlı omuz plakaları, eklemli kol korumaları, ağır eldivenler, takviyeli göğüs zırhı, deri bel panelleri, koyu renk pantolon, çelik baldır zırhları ve ağır zırhlı botlar. Zırhı fırtınadan dolayı yıpranmış, çizilmiş ve ıslak.
+Tam olarak bir adet devasa, iki elle kullanılan savaş çekici taşıyor. Çekicin uzun, takviyeli koyu metal bir sapı ve ağır, simetrik, dikdörtgen bir başı var. Silahın uzunluğu, şekli ve ağırlığı boyunca değişmiyor. Savaşçı atlayış, tırmanış ve vuruş sırasında çekici iki eliyle kontrol ediyor.
+Savaşçının boyunun otuz katından daha uzun, tam olarak bir adet devasa organik insansı dev. Muazzam kaslı omuzları, son derece uzun kolları, insanı andıran dev elleri, kaba kömür grisi derisi, görünür gözenekleri ve yara izleri, çıkık kaşları, geniş burnu, güçlü çenesi ve uzun, dolaşık siyah saçları var. Organik ve canlı bir titan; heykel, robot, makine veya taştan golem değil.
+Başka savaşçı, dev veya arka plan ordusu olmasın.
+ÇEVRE:
+Şiddetli mavi-gri gök gürültülü fırtınanın altındaki, rüzgâra açık bir yüksek plato savaş alanı. Engebeli zemin koyu ıslak toprak, ezilmiş çimen ve binlerce küçük soluk çiçekle kaplı. Güçlü rüzgâr çimenleri ve çiçekleri düzensiz dalgalar hâlinde eğer.
+Uzakta, ekranın solundaki bir tepede yıkık bir Orta Çağ kalesi duruyor. Kırık kuleler, alçaktan süzülen sisin arasından hâlâ görünür. Şimşek, kaleyi ve fırtına bulutlarını aralıklı olarak aydınlatır.
+Dev, savaş alanının ekranın sağ tarafındaki bölümünü kaplıyor. Savaşçı ön planda, merkezde başlar ve deve doğru koşar. Her kesitte bu coğrafyayı ve ekran yönünü koru.
+KRONOLOJİK AKIŞ VE KAMERA:
+0.00–3.30 — DEVE DOĞRU HÜCUM
+Zırhlı savaşçının hemen arkasından, ona yakın, alçak bir takip çekimiyle başla; savaşçı ıslak arazide devasa deve doğru güçlü biçimde koşsun.
+Savaş çekicini iki eliyle vücudunun önünde yatay olarak taşıyor. Ağır çekiç başı ekranın sağında kalırken sapın alt kısmı ekranın soluna uzanıyor. Botları her adımda ıslak zemini bastırıyor; toprak, ezilmiş çiçekler ve damlacıklar yalnızca fiziksel temasın ardından geriye savruluyor.
+Devin bacakları ve devasa sağ eli kadrajın sağ üst tarafından giriyor. Dev eğilip açık elini hücum eden savaşçıya doğru uzatıyor; amacı onu yerden kepçeler gibi almak.
+Parmaklar inandırıcı eklemler ve ağırlıkla bağımsız hareket ediyor. Dev, savaşçıyı anında yakalamıyor veya ışınlamıyor.
+Kamera hareketi alçak, hızlı ve akıcı kalmalı; ölçek farkının aşırılığını vurgulamalı. Yıkık kale uzaktaki ekranın sol ufkunda görünür kalmalı.
+3.30–5.80 — DEVİN ELİNE SIÇRAMA
+Devin açık eli savaşçının yolunu alçaktan süpürerek geçerken savaşçı sağ botunu sağlam biçimde yere basar. Dizi bükülür, kalçaları alçalır ve arka bacağı yukarı doğru itiş sağlar.
+Tek ve güçlü bir ileri sıçrayış yapar.
+Devden ayrılmış parmakların önünde yükselirken kontrollü sinematik ağır çekim kullan. Bacakları hafifçe altına çekilir; denge için iki eliyle aynı savaş çekicini omuzlarının üzerinde kaldırır.
+Savaşçı iki botuyla devin orta ve yüzük parmaklarının sırtına iner. Net fiziksel temas göster: botlar deriye dokunur, dizler darbeyi emer, devin eti hafifçe sıkışır ve savaşçının zırhı inişe tepki verir.
+Dev elini yüzüne doğru kaldırmaya başlar. Savaşçı boşlukta süzülmez veya asılı kalmaz.
+Savaşçının altından yukarı doğru ilerleyen, devasa elin arka planı doldurduğu dramatik bir alçak açı vinç çekimi kullan.
+5.80–9.00 — KOL BOYUNCA KOŞU
+Hızlı, doğal aksiyona dön.
+Dev kolunu kaldırırken savaşçı parmaklardan elin sırtına, oradan da bileğe koşar. Adımları doğru sırayla değişir ve hareket eden engebeli yüzeyi görünür biçimde kavrar.
+Dev bileğini döndürerek onu sarsıp düşürmeye çalışır. Savaşçı ağırlık merkezini alçaltır, duruşunu genişletir ve kol sabitlenene kadar çekici gövdesine yakın tutar.
+Ardından devin ön kolu boyunca dirseğe doğru hızlanır. Her adım kolun değişen açısını izler; botları derinin üzerinde kaymaz.
+Kamera onun yanında ve biraz altında ilerleyerek devin kolunun uzunluğu boyunca yükselir. Kolun yakın bölümleri ön plandan hızla geçerken devin başı ve uzaktaki kale daha yavaş hareket eder; böylece güçlü bir paralaks ve ölçek hissi oluşur.
+9.00–12.00 — OMUZA TIRMANIŞ
+Savaşçı, dik bir açıyla devin omzuna yükselen üst kola ulaşır.
+Bir ön kolunu ve savaş çekicinin sapını kaldıraç için doğal bir kas çıkıntısına takar, sağ botunu basar, bacağından güç alarak iter ve tek bağlantılı bir tırmanma hareketiyle omzun üzerine çıkar.
+Dev başını ona doğru çevirir. Gözü savaşçıyı takip eder, kaşları gerilir ve çenesi derin, sözsüz bir kükremeyle açılır. Başının dönüşüyle saçları ve derisi hareket eder.
+Savaşçı gerçek el ve bot temasıyla omza bağlı kalır. Devin boynunun tabanına doğru üst omuz boyunca çapraz tırmanır.
+Savaşçının tamamını, savaş çekicini ve devin yüz profilini aynı kadrajda okunabilir tutan yakın, yandan takip çekimi kullan.
+12.00–15.00 — ÇENEYE TAM GÜÇLÜ ÇEKİÇ DARBESİ
+Savaşçı, boynunun yakınındaki eğimli omuzda dengeli bir konuma ulaşır.
+Sol botunu öne basar, sağ botunu arkasında destek olarak konumlandırır. İki ayağı da devin derisine görünür biçimde basar. Kalçalarını hedeften uzağa döndürür ve savaş çekicini iki eliyle geriye çeker.
+Darbe öncesindeki hazırlığın tamamını göster:
+ayaklar basar → dizler bükülür → kalçalar yüklenir → gövde döner → omuzlar çekici geriye alır → kollar ağır çekiç başını başlangıç konumuna yönlendirir.
+13.00 saniyede savaşçı, devin çenesine doğru tek ve eksiksiz bir yatay iki elli savuruş yapar.
+Güç, bacaklarından kalçalarına, gövdesine, omuzlarına ve kollarına kesintisiz biçimde aktarılır. Çekiç başı tek ve kesintisiz, net bir yay izler. Savuruş tamamlanmadan konum atlamaz veya yüze dokunmaz.
+14.00 saniyede belirleyici temas için açıkça ultra ağır çekime geç.
+Dikdörtgen çekiç başı, sap veya tutacakla değil, geniş darbe yüzüyle devin alt çenesinin yanına vurur. Derinin ve yanak dokusunun darbe çevresinde sıkışmasını, devin çenesinin yana kaymasını, gevşek saçların dışa savrulmasını ve yağmur, toz ile deri parçacıklarının radyal biçimde patlamasını göster.
+Savaşçının kolları ani yavaşlamaya karşı koyar. Omuzları geri savrulurken bedeni kontrollü bir devam hareketini sürdürür.
+Kan, açıkta kalan doku, vahşet veya parçalanma olmasın.
+15.00–17.30 — DEVİN GERİ TEPMESİ VE SAVAŞÇININ DÜŞÜŞÜ
+Hemen doğal hıza dön.
+Devin başı darbenin etkisiyle yana doğru savrulur. Üst gövdesi geri teper ve darbe alan omzu keskin biçimde aşağı iner. Bu ani aşağı hareket savaşçının ayağının altındaki desteği kaldırır ve onu devden uzağa fırlatır.
+Savaşçı aynı savaş çekicini iki eliyle tutmaya devam ederek savaş alanına doğru düşer. Havada süzülmez veya ek bir sıçrayış yapmaz.
+Zemin seviyesinde yandan bir görünüme kes. Önce botları temas eder, dizleri momentumun etkisiyle çöker ve bir omzunun üzerinden bir kez yuvarlanır. Çekiç başı yanında toprağa çarparak sığ bir hendek açar; ıslak toprak ve soluk çiçekleri dışa savurur.
+Devin kocaman yüzü, dengesini yeniden kazanmaya çalışırken kadrajın sağ üst bölümüne iner. Savaşçıyı ezmez veya onunla kesişmez.
+17.30–20.00 — TOPARLANMA VE SON KARŞILAŞMA
+Savaşçı yuvarlanmasını alçak diz çökme pozisyonunda durdurur.
+Savaş çekicinin başını toprağa saplar, sapı iki eliyle kavrar ve destek olarak kullanıp istikrarlı biçimde tek dizinin üzerine doğrulur. Ardından çekici yerden çıkarır ve sapı hazırlanmış savunma duruşunda omuzlarının önünde yatay biçimde tutar.
+Dev, darbeden dolayı çenesi gözle görülür biçimde morarmış ama hâlâ bilinçli ve tehditkâr hâlde, devasa başını ona doğru indirir. Nefesi çimleri, çiçekleri, sisi ve savaşçının zırhındaki gevşek deri panellerini hareket ettirir.
+Savaşçı kısa ve kararlı bir an boyunca hareketsiz kalır; nefesi ve zırhı ince, doğal hareketini sürdürür.
+Bir yıldırım ekranın solundaki yıkık kaleyi aydınlatır, iki figürün siluetini belirginleştirir ve aralarındaki muazzam ölçek farkını doğrular.
+Tam olarak 20.00 saniyede alçak ve geniş bir kompozisyonda bitir: çiçeklerle kaplı ön planda savaşçı diz çökmüş, savaş çekici hazır; devin yüzü onun üzerinde yükseliyor ve uzaktaki kale fırtınanın içinden görünüyor.
+Karartmayla bitirme. Donmuş kare, başlık veya bitiş kartı olmasın.
+AKSİYON-FİZİK KİLİDİ:
+Her aksiyon okunabilir fiziksel nedenselliğe uymalı:
+Koşu: ayak teması → ağırlık aktarımı → arka bacak itişi → sonraki adım.
+Sıçrama: basan ayak → dizlerin bükülmesi → bacakların açılması → havadaki yörünge → iniş teması → dizlerin darbeyi emmesi.
+Tırmanış: el veya silah desteği → basan bot → vücut ağırlığı aktarımı → yukarı çekiş.
+Çekiç darbesi: dengeli ayaklar → kalçaların yüklenmesi → gövde dönüşü → omuz itişi → kesintisiz çekiç yolu → çekiç yüzünün geniş darbe teması → direnç → devam hareketi.
+Düşüş: devin geri tepmesinin neden olduğu denge kaybı → yerçekimiyle aşağı iniş → bot teması → dizlerin çökmesi → omuz üzerinden yuvarlanma → toparlanma.
+Savaşçı zemin, el, kol veya omuz arasında asla ışınlanmaz. Dev, doğrudan fiziksel temas veya görünür bir kuvvet olmadan savaşçıyı asla hareket ettirmez.
+HAREKET HIZI KURALLARI:
+0.00–3.30: hızlı, doğal koşu hızı.
+3.30–5.80: sıçrama ve iniş için kontrollü sinematik ağır çekim.
+5.80–13.90: doğal ve hızlı aksiyon.
+13.90–15.00: yalnızca çekicin son yaklaşması, teması ve hemen gerçekleşen deformasyonu için açıkça ultra ağır çekim.
+15.00–20.00: doğal hıza net biçimde dön.
+Genel ağır çekim uygulama. Ağır çekimdeki karakterlerin havada süzülmesine izin verme.
+IŞIKLANDIRMA VE RENK:
+Soğuk çelik mavisi, kömür grisi ve desatüre gümüş tonlarında fırtına renk düzenini koru. Yıldırım kısa süreli, soğuk beyaz yönlü aydınlatma sağlar. Islak zırhta dar gümüş yansımalar oluşurken devin koyu derisi ayrıntılı ve okunabilir kalır.
+Soluk çiçekler, sahneyi renkli hâle getirmeden ölçülü bir sıcak fildişi kontrastı sağlar. Uzak kalenin çevresindeki yoğun atmosferik sisi koru. Yıldırım pozlamasındaki değişimler kısa olmalı; karakter anatomisini silmemeli veya eksik aksiyonları gizlememeli.
+SES:
+Yalnızca senkronize diegetik çevre ve aksiyon ses efektleri kullan. Arka plan müziği veya müzik kesinlikle olmasın.
+Fırtına rüzgârı, uzaktan gök gürültüsü, zırh hareketleri, ağır koşu ayak sesleri, yerinden oynayan toprak, eğilen çimenler, devin sözsüz nefesi ve kükremesi, elinin yarattığı hava akımı, savaşçının sıçrayışı, botların deriye teması, tırmanış darbeleri, savaş çekicinin hareketi, tek ve derin metalik çekiç darbesi, devin geri tepmesi, düşüşteki hava sesi, zırhın toprağa çarpması, çekiç başının yere vurması ve yakındaki son yıldırım çatlamasını ekle.
+Diyalog, anlatım, konuşulan sözcükler, ilahiler, şarkı sözleri veya anlaşılır herhangi bir dil olmasın.
+SÜREKLİLİK VE HATA ÖNLEME:
+Baştan sona tam olarak bir savaşçı, bir dev ve bir savaş çekici olsun.
+Savaşçı deve bir kez tırmansın ve tam olarak bir belirleyici çekiç darbesi gerçekleştirsin.
+Savaş çekici asla çoğalmaz, boyut değiştirmez, havada süzülmez, bedenlerden birinin içinden geçmez veya görünür bir hareket olmadan el değiştirmez.
+Dev her çekimde aynı organik insansı yaratık olarak kalır. Robotik özellikler, taşa dönüşüm, çoğaltılmış eller, fazladan parmaklar veya değişen yüz olmasın.
+Savaşçının zırhını, miğferini, oranlarını ve hasarını baştan sona koru.
+Tırmanış coğrafyasının fiziksel olarak mümkün kalması için devin sağ elinden sağ koluna ve omzuna uzanan rotayı koru.
+Birleşmiş eller, fazladan uzuvlar, ters eklemler, kayan botlar, kesişen bedenler, ışınlanma veya desteksiz havada süzülme olmasın.
+Tam savuruşun ardından devin çenesine görünür biçimde temas etmesi gereken parça, sap değil, çekicin geniş başıdır.
+Kan, vahşet, açıkta kalan doku, ezilmiş insan bedeni veya parçalanma olmasın.
+Canlı çekim görünümü, tanınabilir seri karakterleri, altyazılar, açıklama yazıları, logolar, kullanıcı arayüzü, oynatma katmanları, kalıcı siyah bantlar veya filigranlar olmasın.
+Herhangi bir arka plan müziği veya müzik, başarısız üretim sayılır.
+music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099519801139908951) · [Orijinal gönderi](https://x.com/MadMax_Series/status/2099519801139908951) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2099643231659012553"></a>
+
+### Kaçan teknelerin bulunduğu etkileşimli volkanik ada
+
+[Wësche](https://x.com/WescheNex1q) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099643231659012553"><img src="../assets/previews/9a1b9694885d457f5a963b113de92ef80461d9c977d88ed6544e091eabf13eea.jpg" width="840" loading="lazy" alt="Kaçan teknelerin bulunduğu etkileşimli volkanik ada"></a>
+
+Akışkan lavlar ve patlama sırasında kaçan tekneler içeren etkileşimli bir 3B volkanik ada için yeniden kullanılabilir bir istek. İsteğin asıl yazarı, karşılaştırmanın bir parçası olarak bu isteği Astra-6 da dahil olmak üzere çeşitli modellere gönderdiğini belirtiyor.
+
+**İstem**
+
+```text
+Akışkan lavlar ve kaçan tekneler içeren etkileşimli bir volkanik ada oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099643231659012553) · [Orijinal gönderi](https://x.com/WescheNex1q/status/2099643231659012553) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2099719427990134984"></a>
+
+### Etkileşimli 3B organizma sinir sistemi paneli
+
+[AiMind](https://x.com/AIMind_Ai) · 2026-09-15
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099719427990134984"><img src="../assets/previews/12a118ec5a6078181cd7528a0f114e8c5c8c1c3bb45f309cf4c3162886d0b347.jpg" width="840" loading="lazy" alt="Etkileşimli 3B organizma sinir sistemi paneli"></a>
+
+AiMind bunu, tıklanabilir sinir sistemi bölgelerine ve prosedürel rigging uygulanmış 3B bir organizmaya sahip etkileşimli bir panel için “Promptu kap” önerisi olarak paylaşıyor. Gönderide bir sinek gösterimi sunuluyor; ancak alıntılanan promptta \[organism\] yer tutucusu kullanılıyor ve bu promptun söz konusu klipte kullanılan girdinin aynısı olduğu açıkça belirtilmiyor.
+
+**İstem**
+
+```text
+Etkileşimli panel. Sol: [organism] için şematik sinir sistemi ve tıklanabilir bölgeler. Sağ: prosedürel rigging uygulanmış 3B [organism]. Bir bölgeye tıklamak, 2,5 saniyelik bir motor tepkisini tetikler. Koyu arayüz; hız ve yön için telemetri.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099719427990134984) · [Orijinal gönderi](https://x.com/AIMind_Ai/status/2099719427990134984) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2099750376530657300"></a>
+
+### Apple tarzı 3B kalp ve gülümseyen emoji
+
+[Sharon Riley](https://x.com/Just_sharon7) · 2026-09-15
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099750376530657300"><img src="../assets/previews/28a462ad372dbb45b012ec3ff118fd94ca6ea7ae6ea0a26320ab4bee839dfd63.jpg" width="840" loading="lazy" alt="Apple tarzı 3B kalp ve gülümseyen emoji"></a>
+
+Yazar, bu yalnızca metin içeren istemi yazarak önce bir görsel, ardından döndürülebilen bir 3B .glb modeli oluşturduğunu belirtiyor. Referans görsel kullanılmadı.
+
+**İstem**
+
+```text
+Apple tarzı 3B kalp emojisi ve gülümseyen emoji
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099750376530657300) · [Orijinal gönderi](https://x.com/Just_sharon7/status/2099751278234767673) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2099850719839109597"></a>
+
+### Referans görsellerden hareketli 3B ortam ve oyun karakteri oluşturma
+
+[妖精アーヤ](https://x.com/aiehon_aya) · 2026-09-15
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099850719839109597"><img src="../assets/previews/21904f58bcbe320a86b7881bbcbba52e5e94243b88f3860ec995769456b5f505.jpg" width="840" loading="lazy" alt="Referans görsellerden hareketli 3B ortam ve oyun karakteri oluşturma"></a>
+
+Gönderi sahibinin açıklamasındaki dünya tasarımına ait referans görselleri ve karakterin kanonik görsellerini girdi olarak kullanarak ev ile karakteri inceleyip 3B modele dönüştürmek, ardından Blender'da düzenleyerek otomatik rig ve hareket eklemek için adım adım hazırlanmış bir prompt. Oynanış hedefleri veya kuralları belirtilmemiştir; temel çıktı, hareketli bir karakter içeren 3B ortamdır.
+
+**İstem**
+
+```text
+【Önceden hazırlamanız gerekenler】
+・Oluşturmak istediğiniz dünya tasarımına ait referans görseller (dış görünüm, odalar vb.)
+・Karakterin kanonik görselleri (üç görünüş çizimi vb.)
+　※Görseller olmadan yeniden oluşturulamaz. Lütfen ekleyin
+
+【Prompt】
+Eklediğiniz görsellere dayanarak dünya tasarımınızı ve karakterinizi, gerçekten hareket ettirilebilen bir 3B ortam ve oyun karakteri olarak profesyonel kalitede tasarlayacağım.
+
+① Ekli görselleri inceleyerek evin ve karakterin şekillerini, renklerini ve tasarım ayrıntılarını kontrol edin
+　↓
+② Görsellerden Tripo ile 3B model oluşturun (aynı en-boy oranına sahip ön, arka ve yan tam boy olmak üzere üç görsel kullanın)
+　↓
+③ Blender'a aktararak parçaların yerleşimini ve boyutunu ayarlayın
+　↓
+④ Otomatik rig kurun; karakterin kişiliğine uygun yürüme, sallanma ve benzeri hareketler ekleyin
+　↓
+⑤ Ücretli varlık kullanımı gibi karar vermekte zorlanılan bir durum varsa ilerlemeden önce bana danışın
+　↓
+⑥ Yapılan işleri, karşılaşılan sorunları ve varlıkların konumunu, başka bir yapay zekâ tarafından okunduğunda da yeniden uygulanabilecek ayrıntı düzeyinde kayda geçirin
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099850719839109597) · [Orijinal gönderi](https://x.com/aiehon_aya/status/2099850721646784894) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="2096525100518453342"></a>
 
 ### Blender’da değiştirilebilir karakter ifadeleri
@@ -3355,42 +3568,6 @@ Açık harita verileriyle Three.js içinde Seul’ün bir minyatürünü oluştu
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-miniature-of-seoul-2096557555086725159) · [Orijinal gönderi](https://x.com/synabreu/status/2096557555086725159) · [Canlı demo](https://seoul-3d-atlas.synabreu.chatgpt.site/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096460081982304546"></a>
-
-### Yüzeylere tırmanan prosedürel böcek
-
-[XiaoLei Liu](https://x.com/leo_xiaolei) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/surface-climbing-procedural-insect-2096460081982304546"><img src="../assets/previews/fb132b9e6a026ce7de5d7b1710f5a7e78653b07c96cb7d17edaf1062021c7fd5.webp" width="840" loading="lazy" alt="Yüzeylere tırmanan prosedürel böcek"></a>
-
-**İstem**
-
-```text
-Farklı yüzeylere tutunarak yürüyen çok bacaklı bir 3D böcek oluşturun. Yükseklik değişimlerini aşarken bacakları ile gövdesini koordineli hareket ettirin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/surface-climbing-procedural-insect-2096460081982304546) · [Orijinal gönderi](https://x.com/leo_xiaolei/status/2096460081982304546) · [Canlı demo](https://threerocks.github.io/web-3d-pages/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096467585785286808"></a>
-
-### Japon ormanında Wright Flyer uçuşu
-
-[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="../assets/previews/67349df6f55e75c5acee30371c715c3ec04b9ae5c26c628e71d3afb3aae6c9e0.webp" width="840" loading="lazy" alt="Japon ormanında Wright Flyer uçuşu"></a>
-
-**İstem**
-
-```text
-1903 Wright Flyer uçağını Japon ormanında uçurabileceğiniz bir Three.js oyunu oluşturun. Uçağı araştırın; uçağı, ağaçları, torii kapılarını, evleri ve dağları dış varlık kullanmadan prosedürel olarak üretin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808) · [Orijinal gönderi](https://x.com/thebuggeddev/status/2096467585785286808) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3499,24 +3676,6 @@ Three.js ile bir koleksiyon kartı prototipi oluşturun: deste ve kart paketleri
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [Orijinal gönderi](https://x.com/FaryaBlender3D/status/2096555856204644550) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096490395614019793"></a>
-
-### Yürüyerek keşfedilen düşük poligonlu Gwacheon köyü
-
-[Manas Joshi](https://x.com/ManasJoshi76254) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793"><img src="../assets/previews/8421a65dcff65f18140db9a668855715aeef10b3e8cf18b4c5a3f56553b583cc.webp" width="840" loading="lazy" alt="Yürüyerek keşfedilen düşük poligonlu Gwacheon köyü"></a>
-
-**İstem**
-
-```text
-Tek bir HTML dosyasında Gwacheon’dan esinlenen, sıcak atmosferli ve keşfedilebilir düşük poligonlu bir köy oluşturun. Prosedürel 3D çevreyi, atmosferi, arayüzü ve etkileşimleri birleştirin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793) · [Orijinal gönderi](https://x.com/ManasJoshi76254/status/2096490395614019793) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3736,24 +3895,6 @@ Blender’da bir YF-24 teknesi modelleyin ve Beaufort ölçeğinde kuvvet 2 koş
 
 ---
 
-<a id="2096413869841473930"></a>
-
-### D4 esintili oynanabilir daire
-
-[Hidetaka SWERY SueHERO](https://x.com/Swery65) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/playable-d4-inspired-apartment-2096413869841473930"><img src="../assets/previews/1f412131b9d66511d6a2496509cd7e477be4768a1542c19780e6eb4148068f89.webp" width="840" loading="lazy" alt="D4 esintili oynanabilir daire"></a>
-
-**İstem**
-
-```text
-D4’ün başkarakterinin dairesini araştırıp oynanabilir bir 3D prototip olarak yeniden oluşturun. Birebir kopya olduğunu varsaymak yerine yerleşimi ve etkileşimleri referanslarla karşılaştırın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/playable-d4-inspired-apartment-2096413869841473930) · [Orijinal gönderi](https://x.com/Swery65/status/2096413869841473930) · [Örneklere dön](#all-prompts)
-
----
-
 <a id="2096559197999501724"></a>
 
 ### 2D logodan animasyonlu karaktere
@@ -3772,28 +3913,10 @@ Sağlanan 2D karakter logosunu animasyonlu bir 3D sürüme dönüştürün. Kara
 
 ---
 
-<a id="2096481425050743048"></a>
-
-### Üretilen 3D varlıkları birleştirme ve canlandırma
-
-[Stefan 3D AI](https://x.com/Stefan_3D_AI) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048"><img src="../assets/previews/3388e9e5e8f519fb22f67c35c98f5038335da857c0a1b8883c406c6e14c36c4a.webp" width="840" loading="lazy" alt="Üretilen 3D varlıkları birleştirme ve canlandırma"></a>
-
-**İstem**
-
-```text
-Tripo P2 ile optimize edilmiş 3D varlıklar üretin, bunları Blender’da birleştirin ve karakterlere rig ile animasyon ekleyin. Karakterlerle sahnenin mekânsal olarak nasıl bir araya geldiğini inceleyin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048) · [Orijinal gönderi](https://x.com/Stefan_3D_AI/status/2096481425050743048) · [Örneklere dön](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 228 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 235 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

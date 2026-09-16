@@ -26,7 +26,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**228 · Neueste Astra-Prompts**
+**235 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -49,8 +49,6 @@
 - [Interaktiver 3D-Anatomie-Explorer](#2099206962344800541) · GitHub
 - [Mosswing: Mobiles 3D-Tap-to-Flap-Spiel](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
 - [Interaktiver Energiekern mit zwei Ringen](#2096551010089263181) · GitHub
-- [Ein Schwarzes Loch in Blender erstellen und rendern](#2096391653669953761)
-- [Lego 1999 Racers neu entwickeln](#2096438110095585753)
 - [Ezechiels Tempelvision in 3D](#2096547658164834788)
 - [Simulation einer nuklearen Explosion in einer 3D-Stadt](#2096562462674079868)
 - [Totality Engine: Filmische Eclipse-Kathedrale](#2096593372311941143)
@@ -109,25 +107,29 @@
 - [Selbstfaltende 3D-Origami-Animation](#2098909584996057283)
 - [UV-Entwicklung und 4K-Neubaking eines kopflosen Kleidungsmodells](#2098980384260456813)
 - [Spielbarer 3D-Browser-Spielabschnitt im Küstenviertel](#2099172061092381027)
+- [Peachs Schloss in 3D neu interpretieren](#2099359786865402019)
 - [Autonome Modelleisenbahn mit Kollisionsvermeidung](#2099362575339372780)
 - [Die Insel des Kyklopen – isometrisches 3D-Browserspiel](#2099414001851449430)
 - [Spielbarer 3D-Hindernisparcours](#2099419671481249851)
 - [Interaktive 3D-Samurai-Waldszene](#2099450933067612421)
 - [Nadelbaum-Modell mit höchstens 200 Polygonen](#2099472264270102705)
+- [3D-Welt voller Wolkenkratzer](#2099487024256589970)
+- [Krieger erklimmt einen Riesen und schlägt ihm gegen den Kiefer](#2099519801139908951)
+- [Interaktive Vulkaninsel mit fliehenden Booten](#2099643231659012553)
+- [Interaktives 3D-Panel für das Nervensystem eines Organismus](#2099719427990134984)
+- [3D-Herz und Lächel-Emoji im Apple-Stil](#2099750376530657300)
+- [Bewegliche 3D-Räume und Game-Charaktere aus Referenzbildern erstellen](#2099850719839109597)
 - [Umschaltbare Gesichtsausdrücke in Blender](#2096525100518453342)
 - [Drehbares 3D-Shogi-Brett](#2096579856133947507)
 - [Interaktiver Desktop-PC in Explosionsansicht](#2096578761877860502)
 - [Planung für Kinderzimmer und Arbeitsplatz](#2096578684010508736)
 - [Interaktives Seoul im Miniaturformat](#2096557555086725159)
-- [Prozedurales Insekt, das an Oberflächen klettert](#2096460081982304546)
-- [Wright Flyer über einem japanischen Wald](#2096467585785286808)
 - [Ein Haus von Grund auf in Blender modellieren](#2096576154337734865)
 - [Vom Grundriss des obersten Stockwerks zur Blender-Vorschau](#2096501340889374883)
 - [Erkundungsabenteuer The Quiet Crossing](#2096574297703637111)
 - [Dampflokomotive auf dem Weg durchs Land](#2096577430274429157)
 - [Plattenspieler auf einem Tisch](#2096561346766877106)
 - [Spielablauf für Sammelkartenkämpfe](#2096555856204644550)
-- [Begehbares Low-Poly-Dorf nach dem Vorbild Gwacheons](#2096490395614019793)
 - [Vollständiger Rätselspiel-Level in Three.js](#2096505740643246231)
 - [Schatzsuche an einem Low-Poly-Strand](#2096570815714414844)
 - [Blender-Modelle mit Unity-VFX](#2096560142871658589)
@@ -140,9 +142,7 @@
 - [Interaktiver Lorenz-Attraktor](#2096572156453028193)
 - [Das eigene Zimmer als interaktives Portfolio](#2096506357868642342)
 - [YF-24-Boot auf einer ruhigen 3D-See](#2096503275910832461)
-- [Spielbare Wohnung nach dem Vorbild von D4](#2096413869841473930)
 - [Ein 2D-Logo wird zur animierten Figur](#2096559197999501724)
-- [Generierte 3D-Assets zusammensetzen und animieren](#2096481425050743048)
 
 </details>
 
@@ -317,46 +317,6 @@ Modelliere einen Energiekern, zwei Ringe und einen Metallsockel in Blender. Expo
 ```
 
 [Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [Originalbeitrag](https://x.com/oneruofeng/status/2096551010089263181) · [Quellcode](https://github.com/wangruofeng/orbital-core-showcase) · [Live-Demo](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2096391653669953761"></a>
-
-### Ein Schwarzes Loch in Blender erstellen und rendern
-
-[John Kler](https://x.com/JohnKlerAI) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096391653669953761"><img src="../assets/previews/0203a375c4a0f77f1fae00d9c8c9173739b940debd87bf4144d4f375ccc8c12e.jpg" width="840" loading="lazy" alt="Ein Schwarzes Loch in Blender erstellen und rendern"></a>
-
-Der Autor sagt, dass er GPT Astra und Fable 5.1 denselben Prompt gegeben hat, um in Blender ein von Interstellar inspiriertes Schwarzes Loch zu erstellen und zu rendern.
-
-**Prompt**
-
-```text
-Erstelle und rendere in Blender ein beeindruckendes Schwarzes Loch, ähnlich dem aus Interstellar.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096391653669953761) · [Originalbeitrag](https://x.com/JohnKlerAI/status/2096391653669953761) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2096438110095585753"></a>
-
-### Lego 1999 Racers neu entwickeln
-
-[Mo Elgaraihy](https://x.com/EngMoElgaraihy) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096438110095585753"><img src="../assets/previews/e14b00869191181ad52fe51c4e0a57d3ad72c405802c16cb36147a9b5d613143.jpg" width="840" loading="lazy" alt="Lego 1999 Racers neu entwickeln"></a>
-
-Anfrage zur vollständigen Rekonstruktion des Rennspiels Lego 1999 Racers mit GPT-6 Astra.
-
-**Prompt**
-
-```text
-Das bekannte Rennspiel Lego 1999 Racers vollständig neu entwickeln.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096438110095585753) · [Originalbeitrag](https://x.com/EngMoElgaraihy/status/2096438110095585753) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 
@@ -3149,6 +3109,26 @@ prompt: "Die Stimmen müssen menschlich klingen, nicht wie Roboterstimmen. Ein d
 
 ---
 
+<a id="2099359786865402019"></a>
+
+### Peachs Schloss in 3D neu interpretieren
+
+[Romain Huet](https://x.com/romainhuet) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2099359786865402019"><img src="../assets/previews/e7a5ad638345dd08d471122be938b5ac89535f8153244ee59aea77fd486c67ff.jpg" width="840" loading="lazy" alt="Peachs Schloss in 3D neu interpretieren"></a>
+
+Der Autor berichtet, Astra in Codex gebeten zu haben, Peachs Schloss in 3D neu zu interpretieren und ein Kameraflug-Video zu erstellen. In einem Folgekommentar erklärt der Autor, dass die Arbeit ein Blender-Modell, eine bei Tageslicht und in der Dämmerung geprüfte Umrundung, 88 modellierte Glasscheiben in Peachs Fenster sowie einen Innenraum im Erdgeschoss umfasste.
+
+**Prompt**
+
+```text
+Peachs Schloss in 3D neu interpretieren und ein Kameraflug-Video erstellen.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2099359786865402019) · [Originalbeitrag](https://x.com/romainhuet/status/2099359786865402019) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="2099362575339372780"></a>
 
 ### Autonome Modelleisenbahn mit Kollisionsvermeidung
@@ -3268,6 +3248,239 @@ Kannst du bitte einen Nadelbaum mit höchstens 200 Polygonen erstellen?
 
 ---
 
+<a id="2099487024256589970"></a>
+
+### 3D-Welt voller Wolkenkratzer
+
+[Bilal Arshad](https://x.com/MohdBilalArshad) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2099487024256589970"><img src="../assets/previews/6b76cf5a4a0feefa91cafe184567430f78b75607a7a2347c64807100431ebcac.jpg" width="840" loading="lazy" alt="3D-Welt voller Wolkenkratzer"></a>
+
+Bilal Arshad sagt, er habe Astra gebeten, eine 3D-Welt voller Wolkenkratzer zu erstellen, und das Ergebnis geteilt.
+
+**Prompt**
+
+```text
+Erstelle eine 3D-Welt voller Wolkenkratzer
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2099487024256589970) · [Originalbeitrag](https://x.com/MohdBilalArshad/status/2099487024256589970) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2099519801139908951"></a>
+
+### Krieger erklimmt einen Riesen und schlägt ihm gegen den Kiefer
+
+[MadMax](https://x.com/MadMax_Series) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2099519801139908951"><img src="../assets/previews/9dcdc5e9bfa0c7eb9a0d4ea88363fd3fa5843e9d2ac1c418cd66c109727b0ab5.jpg" width="840" loading="lazy" alt="Krieger erklimmt einen Riesen und schlägt ihm gegen den Kiefer"></a>
+
+Eine 20-sekündige filmische 3D-Actionsequenz: Ein gepanzerter Bergkrieger stürmt über ein stürmisches Hochland-Schlachtfeld, springt auf die Hand eines organischen Riesen, erklimmt dessen Schulter, schlägt ihm mit einem Kriegshammer gegen den Kiefer, stürzt und kommt zu einer abschließenden Konfrontation wieder auf die Beine. Der ursprüngliche Autor kennzeichnet dies als Text-zu-Video-Prompt und nennt GPT-6 Astra + Seedance 2.5 und Higgsfield.
+
+**Prompt**
+
+```text
+CHARAKTERVERZEICHNIS:
+Genau ein erwachsener männlicher Bergkrieger.
+Er hat einen kompakten, breiten und extrem kräftigen Körperbau. Er trägt ein originales dunkel-gunmetallfarbenes Plattenrüstungsset im mittelalterlichen Fantasy-Stil: einen geschlossenen, spitz zulaufenden Helm, geschichtete Schulterplatten, bewegliche Armschützer, schwere Panzerhandschuhe, einen verstärkten Brustpanzer, lederne Hüftbahnen, dunkle Hosen, Stahlbeinschienen und schwere gepanzerte Stiefel. Seine Rüstung ist vom Sturm verwittert, zerkratzt und nass.
+Er trägt genau einen gewaltigen zweihändigen Kriegshammer. Er besteht aus einem langen, verstärkten Schaft aus dunklem Metall und einem schweren, symmetrischen, rechteckigen Hammerkopf. Die Waffe behält während der gesamten Sequenz dieselbe Länge, Form und dasselbe Gewicht. Bei Sprüngen, beim Klettern und beim Zuschlagen führt er sie mit beiden Händen.
+Genau ein kolossaler organischer humanoider Riese, mehr als dreißigmal so groß wie der Krieger. Er hat gewaltige muskulöse Schultern, extrem lange Arme, riesige menschenähnliche Hände, grobe kohlegraue Haut, sichtbare Poren und Narben, einen kräftigen Brauenwulst, eine breite Nase, einen markanten Kiefer und langes, verfilztes schwarzes Haar. Er ist ein organischer, lebender Titan – keine Statue, kein Roboter, keine Maschine und kein Steingolem.
+Keine weiteren Krieger, Riesen oder Hintergrundarmeen.
+UMGEBUNG:
+Ein windgepeitschtes Hochland-Schlachtfeld unter einem heftigen blaugrauen Gewitter. Der unebene Boden ist mit dunkler, nasser Erde, niedergetrampeltem Gras und Tausenden kleiner, blasser Blumen bedeckt. Starker Wind biegt Gras und Blumen in unregelmäßigen Wellen.
+Auf einem entfernten Hügel links im Bild steht eine zerstörte mittelalterliche Festung. Zerbrochene Türme sind durch tief ziehenden Nebel hindurch sichtbar. Blitze erhellen die Festung und die Gewitterwolken in unregelmäßigen Abständen.
+Der Riese befindet sich auf der rechten Seite des Schlachtfelds im Bild. Der Krieger beginnt im Vordergrundzentrum und rennt auf den Riesen zu. Diese räumliche Anordnung und Blickrichtung müssen in jedem Schnitt erhalten bleiben.
+CHRONOLOGISCHER ABLAUF UND KAMERA:
+0,00–3,30 – AUF DEN RIESEN ZUSTÜRMEN
+Beginne sofort mit einer niedrigen Rückwärtsfahrt der Kamera, dicht hinter dem gepanzerten Krieger, während er kraftvoll durch das nasse Feld auf den kolossalen Riesen zurennt.
+Er trägt den Kriegshammer mit beiden Händen waagerecht vor dem Körper. Der schwere Hammerkopf bleibt rechts im Bild, während sich der untere Teil des Schafts nach links erstreckt. Seine Stiefel verdichten bei jedem Schritt den nassen Boden und schleudern Erde, zerdrückte Blumen und Tropfen erst nach dem tatsächlichen Kontakt nach hinten.
+Die Beine und die gewaltige rechte Hand des Riesen kommen von oben rechts ins Bild. Der Riese beugt sich hinunter und streckt seine geöffnete Hand dem heranstürmenden Krieger entgegen, um ihn vom Boden aufzuschöpfen.
+Die Finger bewegen sich unabhängig voneinander mit glaubwürdigen Gelenken und realistischem Gewicht. Der Riese packt den Krieger nicht sofort und lässt ihn nicht teleportieren.
+Die Kamerabewegung bleibt niedrig, schnell und flüssig und betont den extremen Größenunterschied. Die zerstörte Festung bleibt am entfernten Horizont links im Bild sichtbar.
+3,30–5,80 – AUF DIE HAND DES RIESEN SPRINGEN
+Als die geöffnete Hand des Riesen tief über den Weg des Kriegers streicht, setzt der Krieger seinen rechten Stiefel fest auf den Boden. Sein Knie federt ein, die Hüfte sinkt ab und das hintere Bein treibt ihn nach oben.
+Er macht genau einen kraftvollen Sprung nach vorn.
+Verwende kontrollierte filmische Zeitlupe, während er vor den gespreizten Fingern des Riesen aufsteigt. Seine Beine werden leicht unter den Körper gezogen, während er den gleichen Kriegshammer mit beiden Händen über die Schultern hebt, um das Gleichgewicht zu halten.
+Der Krieger landet mit beiden Stiefeln auf dem Rücken des Mittel- und Ringfingers des Riesen. Zeige den eindeutigen physischen Kontakt: Die Stiefel berühren die Haut, die Knie fangen den Aufprall ab, das Fleisch des Riesen wird leicht eingedrückt und die Rüstung des Kriegers reagiert auf die Landung.
+Der Riese beginnt, seine Hand zu seinem Gesicht zu heben. Der Krieger schwebt nicht und hängt nicht in der Luft.
+Verwende einen dramatischen Kran-Schwenk aus der Untersicht, der unter dem Krieger nach oben fährt, während die gewaltige Hand den Hintergrund ausfüllt.
+5,80–9,00 – DEN ARM HINAUFLAUFEN
+Kehre zu schneller, natürlicher Action zurück.
+Während der Riese seinen Arm hebt, läuft der Krieger von den Fingern über den Handrücken zum Handgelenk. Seine Schritte wechseln korrekt und greifen sichtbar in die unebene, sich bewegende Oberfläche.
+Der Riese dreht sein Handgelenk und versucht, ihn abzuschütteln. Der Krieger senkt seinen Körperschwerpunkt, verbreitert seinen Stand und hält den Hammer dicht am Oberkörper, bis der Arm sich stabilisiert.
+Dann beschleunigt er entlang des Unterarms des Riesen in Richtung Ellbogen. Jeder Schritt folgt dem sich verändernden Winkel des Arms; seine Stiefel rutschen nicht durch die Haut.
+Die Kamera verfolgt ihn seitlich und leicht unterhalb und fährt entlang der Länge des Riesenarms nach oben. Nahe Teile des Arms ziehen schnell durch den Vordergrund, während sich der Kopf des Riesen und die entfernte Festung langsamer bewegen. So entsteht eine starke Parallaxe und der Größenunterschied wird betont.
+9,00–12,00 – AUF DIE SCHULTER KLETTERN
+Der Krieger erreicht den Oberarm, der steil zur Schulter des Riesen ansteigt.
+Er hakt einen Unterarm und den Schaft des Kriegshammers an einer natürlichen Muskelkante ein, um Hebelwirkung zu erzeugen, setzt seinen rechten Stiefel auf, stößt sich mit dem Bein ab und zieht sich in einer zusammenhängenden Kletterbewegung auf die Schulter.
+Der Riese dreht den Kopf zu ihm. Sein Auge verfolgt den Krieger, seine Braue zieht sich zusammen und sein Kiefer öffnet sich zu einem tiefen, nonverbalen Brüllen. Haar und Haut bewegen sich durch die Drehung des Kopfes.
+Der Krieger bleibt durch echten Hand- und Stiefelkontakt an der Schulter haften. Er klettert diagonal über die obere Schulter zum Ansatz des Halses des Riesen.
+Verwende eine nahe seitliche Tracking-Aufnahme, in der der vollständige Krieger, der Kriegshammer und das Gesichtsprofil des Riesen im selben Bild klar erkennbar bleiben.
+12,00–15,00 – VOLLSTÄNDIGER HAMMERSCHLAG GEGEN DEN KIEFER
+Der Krieger erreicht eine stabile Position auf der geneigten Schulter des Riesen nahe dessen Hals.
+Er setzt den linken Stiefel nach vorn und stemmt den rechten dahinter ab. Beide Füße drücken sichtbar gegen die Haut des Riesen. Er dreht die Hüfte vom Ziel weg und zieht den Kriegshammer mit beiden Händen nach hinten.
+Zeige die vollständige Vorbereitung vor dem Aufprall:
+Füße setzen auf → Knie federn ein → Hüfte lädt Kraft → Oberkörper dreht sich → Schultern ziehen den Hammer nach hinten → Arme führen den schweren Hammerkopf in seine Ausgangsposition.
+Bei 13,00 Sekunden führt der Krieger genau einen vollständigen horizontalen zweihändigen Schwung in Richtung des Kiefers des Riesen aus.
+Die Kraft läuft kontinuierlich von seinen Beinen über Hüften, Oberkörper, Schultern und Arme. Der Hammerkopf folgt einer klaren, ununterbrochenen Bahn. Er springt nicht an eine andere Position und berührt das Gesicht nicht, bevor der Schwung abgeschlossen ist.
+Bei 14,00 Sekunden beginnt für den entscheidenden Kontakt eine ausdrücklich gekennzeichnete extreme Zeitlupe.
+Der rechteckige Hammerkopf trifft mit seiner breiten Schlagfläche die Seite des unteren Kiefers des Riesen – nicht der Schaft und nicht der Griff. Zeige, wie sich Haut und Wangengewebe um den Aufprall herum verformen, wie sich der Kiefer des Riesen seitlich verschiebt, loses Haar nach außen peitscht und ein radialer Ausbruch aus Regen, Staub und Hautpartikeln entsteht.
+Die Arme des Kriegers widerstehen der plötzlichen Verzögerung. Seine Schultern werden zurückgerissen, während sein Körper eine kontrollierte Nachbewegung fortsetzt.
+Kein Blut, kein freiliegendes Gewebe, kein Gore und keine Verstümmelung.
+15,00–17,30 – RÜCKSTOSS DES RIESEN UND STURZ DES KRIEGERS
+Kehre sofort zur natürlichen Geschwindigkeit zurück.
+Der Kopf des Riesen schnellt durch den Aufprall zur Seite. Sein Oberkörper weicht zurück und die getroffene Schulter sinkt abrupt ab. Diese plötzliche Abwärtsbewegung nimmt dem Krieger den Halt und schleudert ihn vom Riesen weg.
+Der Krieger stürzt auf das Schlachtfeld zu und hält dabei denselben Kriegshammer mit beiden Händen fest. Er schwebt nicht und führt keinen zusätzlichen Sprung aus.
+Schnitt zu einer seitlichen Ansicht auf Bodenhöhe. Seine Stiefel berühren zuerst den Boden, seine Knie geben unter der Bewegungsenergie nach und er rollt einmal über eine Schulter. Der Hammerkopf schlägt neben ihm in die Erde und zieht eine flache Furche, wobei nasse Erde und blasse Blumen nach außen geschleudert werden.
+Das gewaltige Gesicht des Riesen senkt sich in den oberen rechten Bildbereich, während er versucht, das Gleichgewicht wiederzuerlangen. Es zerquetscht den Krieger nicht und schneidet sich nicht mit ihm.
+17,30–20,00 – AUFRICHTEN UND ABSCHLIESSENDE KONFRONTATION
+Der Krieger beendet seine Rolle in einer tiefen knienden Position.
+Er rammt den Hammerkopf in die Erde, umfasst den Schaft mit beiden Händen und nutzt ihn als Stütze, um sich kontrolliert auf ein Knie aufzurichten. Dann zieht er den Hammer heraus und legt den Schaft waagerecht über die Schultern in eine vorbereitete defensive Haltung.
+Der Riese senkt seinen gewaltigen Kopf zu ihm, der Kiefer vom Schlag sichtbar geprellt, aber weiterhin bei Bewusstsein und bedrohlich. Sein Atem bewegt Gras, Blumen, Nebel und lose Lederbahnen an der Rüstung des Kriegers.
+Der Krieger bleibt nur für einen kurzen, entschlossenen Moment regungslos, während Atmung und Rüstung subtile natürliche Bewegungen beibehalten.
+Ein Blitz erhellt die zerstörte Festung links im Bild, zeichnet beide Figuren nach und bestätigt ihren enormen Größenunterschied.
+Ende exakt bei 20,00 Sekunden in einer niedrigen Weitwinkelkomposition: Der Krieger kniet im blumenbedeckten Vordergrund und hält den Kriegshammer bereit, das Gesicht des Riesen ragt über ihm auf und die entfernte Festung ist durch den Sturm hindurch sichtbar.
+Nicht zu Schwarzblende abblenden. Kein Standbild, kein Titel und keine Endkarte.
+SPERRE FÜR AKTIONS- UND PHYSIK:
+Jede Handlung muss einer klar erkennbaren physikalischen Ursache-Wirkungs-Kette folgen:
+Laufen: Fußkontakt → Gewichtsverlagerung → Abstoß mit dem hinteren Bein → nächster Schritt.
+Sprung: aufgesetzter Fuß → Kniekompression → Beinstreckung → Flugbahn → Landekontakt → Abfangen mit den Knien.
+Klettern: Hand- oder Waffenstütze → aufgesetzter Stiefel → Übertragung des Körpergewichts → Hochziehen.
+Hammerschlag: stabile Füße → Hüfte lädt Kraft → Oberkörperdrehung → Schultereinsatz → kontinuierliche Hammerbahn → Kontakt mit der breiten Hammerfläche → Widerstand → Nachbewegung.
+Sturz: durch den Rückstoß des Riesen verlorener Halt → schwerkraftbedingter Abstieg → Stiefelkontakt → Einknicken der Knie → Schulterrolle → Aufrichten.
+Der Krieger teleportiert niemals zwischen Boden, Hand, Arm und Schulter. Der Riese bewegt den Krieger niemals ohne direkten physischen Kontakt oder eine sichtbare Kraftwirkung.
+REGELN FÜR DIE BEWEGUNGSGESCHWINDIGKEIT:
+0,00–3,30: schnelles, natürliches Lauftempo.
+3,30–5,80: kontrollierte filmische Zeitlupe für Sprung und Landung.
+5,80–13,90: natürliche schnelle Action.
+13,90–15,00: ausdrücklich extreme Zeitlupe nur für die letzte Annäherung des Hammers, den Kontakt und die unmittelbare Verformung.
+15,00–20,00: klare Rückkehr zur natürlichen Geschwindigkeit.
+Keine globale Zeitlupe verwenden. Figuren in Zeitlupe dürfen nicht schweben.
+LICHT UND FARBE:
+Behalte eine kalte, stahlblaue, kohlegraue und entsättigte silberne Sturm-Farbgestaltung bei. Blitze sorgen für kurze, kaltweiße gerichtete Beleuchtung. Die nasse Rüstung erhält schmale silberne Glanzlichter, während die dunkle Haut des Riesen detailliert und gut erkennbar bleibt.
+Die blassen Blumen sorgen für einen zurückhaltenden warmen elfenbeinfarbenen Kontrast, ohne die Szene farbenfroh wirken zu lassen. Bewahre den dichten atmosphärischen Nebel um die entfernte Festung. Änderungen der Blitzbelichtung müssen kurz sein und dürfen die Anatomie der Figuren nicht auslöschen oder fehlende Handlungen verbergen.
+AUDIO:
+Ausschließlich synchronisierte diegetische Umgebungs- und Action-Soundeffekte. Absolut keine Hintergrundmusik und keine Filmmusik.
+Füge Sturmwind, entfernten Donner, Rüstungsbewegungen, schwere Laufschritte, aufgewühlte Erde, sich biegendes Gras, das nonverbale Atmen und Brüllen des Riesen, das Rauschen seiner Hand, den Sprung des Kriegers, Stiefelkontakt mit Haut, Kletteraufpralle, die Bewegung des Kriegshammers, einen tiefen metallischen Hammerschlag, den Rückstoß des Riesen, fallende Luft, auf die Erde treffende Rüstung, den auf den Boden schlagenden Hammerkopf und einen abschließenden nahen Blitzknall ein.
+Kein Dialog, keine Erzählstimme, keine gesprochenen Worte, keine Gesänge, keine Liedtexte und keine verständliche Sprache.
+KONTINUITÄT UND FEHLERVERMEIDUNG:
+Durchgehend genau ein Krieger, ein Riese und ein Kriegshammer.
+Der Krieger erklimmt den Riesen genau einmal und führt genau einen entscheidenden Hammerschlag aus.
+Der Kriegshammer darf sich niemals vervielfachen, seine Größe ändern, schweben, verbiegen, durch einen der beiden Körper hindurchgehen oder ohne sichtbare Bewegung die Hand wechseln.
+Der Riese bleibt in jeder Aufnahme dasselbe organische humanoide Wesen. Keine robotischen Merkmale, keine Verwandlung in Stein, keine doppelten Hände, keine zusätzlichen Finger und kein sich veränderndes Gesicht.
+Bewahre Rüstung, Helm, Proportionen und Beschädigungen des Kriegers durchgehend.
+Bewahre die Route von der rechten Hand über den rechten Arm bis zur rechten Schulter des Riesen, damit die Kletterbewegung physisch möglich bleibt.
+Keine verschmolzenen Hände, zusätzlichen Gliedmaßen, umgekehrten Gelenke, rutschenden Stiefel, ineinanderschneidenden Körper, Teleportation oder unbegründetes Schweben.
+Der breite Hammerkopf – nicht der Schaft – muss nach dem vollständigen Schwung sichtbar den Kiefer des Riesen berühren.
+Kein Blut, kein Gore, kein freiliegendes Gewebe, kein zerquetschter menschlicher Körper und keine Verstümmelung.
+Keine Live-Action-Optik, keine erkennbaren Franchise-Figuren, keine Untertitel, keine Bildunterschriften, keine Logos, keine Benutzeroberfläche, keine Wiedergabe-Overlays, keine dauerhaften schwarzen Balken und keine Wasserzeichen.
+Jegliche Hintergrundmusik oder Filmmusik gilt als fehlgeschlagene Generierung.
+music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2099519801139908951) · [Originalbeitrag](https://x.com/MadMax_Series/status/2099519801139908951) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2099643231659012553"></a>
+
+### Interaktive Vulkaninsel mit fliehenden Booten
+
+[Wësche](https://x.com/WescheNex1q) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2099643231659012553"><img src="../assets/previews/9a1b9694885d457f5a963b113de92ef80461d9c977d88ed6544e091eabf13eea.jpg" width="840" loading="lazy" alt="Interaktive Vulkaninsel mit fliehenden Booten"></a>
+
+Eine wiederverwendbare Anfrage für eine interaktive 3D-Vulkaninsel mit fließender Lava und Booten, die während des Ausbruchs fliehen. Der ursprüngliche Autor gibt an, diese Anfrage im Rahmen eines Vergleichs an mehrere Modelle, darunter Astra-6, gesendet zu haben.
+
+**Prompt**
+
+```text
+Erstelle eine interaktive Vulkaninsel mit fließender Lava und Booten, die fliehen.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2099643231659012553) · [Originalbeitrag](https://x.com/WescheNex1q/status/2099643231659012553) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2099719427990134984"></a>
+
+### Interaktives 3D-Panel für das Nervensystem eines Organismus
+
+[AiMind](https://x.com/AIMind_Ai) · 2026-09-15
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2099719427990134984"><img src="../assets/previews/12a118ec5a6078181cd7528a0f114e8c5c8c1c3bb45f309cf4c3162886d0b347.jpg" width="840" loading="lazy" alt="Interaktives 3D-Panel für das Nervensystem eines Organismus"></a>
+
+AiMind teilt dies als Empfehlung unter „Prompt klauen“ für ein interaktives Panel mit anklickbaren Bereichen des Nervensystems und einem prozedural geriggten 3D-Organismus. Der Beitrag zeigt eine Fliege, aber der zitierte Prompt verwendet den Platzhalter \[organism\] und wird nicht ausdrücklich als die exakte Eingabe für diesen Clip ausgewiesen.
+
+**Prompt**
+
+```text
+Interaktives Panel. Links: schematische Darstellung des Nervensystems von [organism] mit anklickbaren Bereichen. Rechts: prozedural geriggter 3D-[organism]. Das Anklicken eines Bereichs löst eine 2,5 Sekunden dauernde motorische Reaktion aus. Dunkle Benutzeroberfläche mit Telemetriedaten zu Geschwindigkeit und Kurs.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2099719427990134984) · [Originalbeitrag](https://x.com/AIMind_Ai/status/2099719427990134984) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2099750376530657300"></a>
+
+### 3D-Herz und Lächel-Emoji im Apple-Stil
+
+[Sharon Riley](https://x.com/Just_sharon7) · 2026-09-15
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2099750376530657300"><img src="../assets/previews/28a462ad372dbb45b012ec3ff118fd94ca6ea7ae6ea0a26320ab4bee839dfd63.jpg" width="840" loading="lazy" alt="3D-Herz und Lächel-Emoji im Apple-Stil"></a>
+
+Der Autor gibt an, diesen reinen Text-Prompt eingegeben zu haben, um zunächst ein Bild und anschließend ein drehbares 3D-GLB-Modell zu generieren. Es wurde kein Referenzbild verwendet.
+
+**Prompt**
+
+```text
+3D-Herz-Emoji im Apple-Stil und Lächel-Emoji
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2099750376530657300) · [Originalbeitrag](https://x.com/Just_sharon7/status/2099751278234767673) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2099850719839109597"></a>
+
+### Bewegliche 3D-Räume und Game-Charaktere aus Referenzbildern erstellen
+
+[妖精アーヤ](https://x.com/aiehon_aya) · 2026-09-15
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2099850719839109597"><img src="../assets/previews/21904f58bcbe320a86b7881bbcbba52e5e94243b88f3860ec995769456b5f505.jpg" width="840" loading="lazy" alt="Bewegliche 3D-Räume und Game-Charaktere aus Referenzbildern erstellen"></a>
+
+Dieser Schritt-für-Schritt-Prompt nutzt die im Autorenkommentar des Beitrags genannten Referenzbilder für das Setting und kanonische Charakterbilder als Vorlage, um Haus und Charakter zu prüfen und als 3D-Modelle umzusetzen, sie in Blender anzupassen und mit automatischem Rigging und Bewegungen zu versehen. Es werden weder Gameplay-Ziele noch Spielregeln festgelegt. Das Hauptergebnis ist ein 3D-Raum mit einem animierbaren Charakter.
+
+**Prompt**
+
+```text
+【Vorab bereithalten】
+・Referenzbilder für das gewünschte Setting (z. B. Außenansichten und Räume)
+・Kanonische Charakterbilder (z. B. eine Dreiseitenansicht)
+　※Ohne Bilder ist keine originalgetreue Umsetzung möglich. Bitte anhängen.
+
+【Prompt】
+Auf Grundlage der angehängten Bilder erstelle ich mein Setting und meinen Charakter als tatsächlich beweglichen 3D-Raum und Game-Charakter in professioneller Qualität.
+
+① Die angehängten Bilder ansehen und Form, Farbe und Design von Haus und Charakter prüfen
+　↓
+② Mit Tripo aus den Bildern 3D-Modelle erstellen (drei Ganzkörperansichten – Vorderseite, Rückseite und Seite – im gleichen Seitenverhältnis)
+　↓
+③ In Blender importieren und Anordnung sowie Größe der Teile anpassen
+　↓
+④ Automatisches Rigging einrichten und charaktertypische Bewegungen wie Gehen oder Schwingen hinzufügen
+　↓
+⑤ Wenn eine Entscheidung ansteht, etwa die Verwendung kostenpflichtiger Assets, vor dem Fortfahren meine Zustimmung einholen
+　↓
+⑥ Arbeitsinhalte, Probleme und Speicherorte der Assets so dokumentieren, dass auch eine andere KI die Arbeit nachvollziehen und reproduzieren kann
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2099850719839109597) · [Originalbeitrag](https://x.com/aiehon_aya/status/2099850721646784894) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="2096525100518453342"></a>
 
 ### Umschaltbare Gesichtsausdrücke in Blender
@@ -3355,42 +3568,6 @@ Erstelle mit offenen Kartendaten eine Miniatur von Seoul in Three.js. Ergänze e
 ```
 
 [Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/interactive-miniature-of-seoul-2096557555086725159) · [Originalbeitrag](https://x.com/synabreu/status/2096557555086725159) · [Live-Demo](https://seoul-3d-atlas.synabreu.chatgpt.site/) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2096460081982304546"></a>
-
-### Prozedurales Insekt, das an Oberflächen klettert
-
-[XiaoLei Liu](https://x.com/leo_xiaolei) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/surface-climbing-procedural-insect-2096460081982304546"><img src="../assets/previews/fb132b9e6a026ce7de5d7b1710f5a7e78653b07c96cb7d17edaf1062021c7fd5.webp" width="840" loading="lazy" alt="Prozedurales Insekt, das an Oberflächen klettert"></a>
-
-**Prompt**
-
-```text
-Erstelle ein mehrbeiniges 3D-Insekt, das beim Laufen an verschiedenen Oberflächen haftet. Koordiniere Beine und Körper beim Überqueren von Höhenunterschieden.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/surface-climbing-procedural-insect-2096460081982304546) · [Originalbeitrag](https://x.com/leo_xiaolei/status/2096460081982304546) · [Live-Demo](https://threerocks.github.io/web-3d-pages/) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2096467585785286808"></a>
-
-### Wright Flyer über einem japanischen Wald
-
-[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="../assets/previews/67349df6f55e75c5acee30371c715c3ec04b9ae5c26c628e71d3afb3aae6c9e0.webp" width="840" loading="lazy" alt="Wright Flyer über einem japanischen Wald"></a>
-
-**Prompt**
-
-```text
-Erstelle ein Three.js-Flugspiel mit dem Wright Flyer von 1903 in einem japanischen Wald. Recherchiere das Flugzeug und erzeuge Flugzeug, Bäume, Torii-Tore, Häuser und Berge prozedural, ohne externe Assets.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808) · [Originalbeitrag](https://x.com/thebuggeddev/status/2096467585785286808) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 
@@ -3499,24 +3676,6 @@ Erstelle einen Sammelkarten-Prototyp in Three.js: Decks und Booster kaufen, ein 
 ```
 
 [Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [Originalbeitrag](https://x.com/FaryaBlender3D/status/2096555856204644550) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2096490395614019793"></a>
-
-### Begehbares Low-Poly-Dorf nach dem Vorbild Gwacheons
-
-[Manas Joshi](https://x.com/ManasJoshi76254) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793"><img src="../assets/previews/8421a65dcff65f18140db9a668855715aeef10b3e8cf18b4c5a3f56553b583cc.webp" width="840" loading="lazy" alt="Begehbares Low-Poly-Dorf nach dem Vorbild Gwacheons"></a>
-
-**Prompt**
-
-```text
-Erstelle in einer einzigen HTML-Datei ein gemütliches, erkundbares Low-Poly-Dorf, das von Gwacheon inspiriert ist. Verbinde prozedurale 3D-Landschaft, Atmosphäre, Oberfläche und Interaktionen.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793) · [Originalbeitrag](https://x.com/ManasJoshi76254/status/2096490395614019793) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 
@@ -3736,24 +3895,6 @@ Modelliere ein YF-24-Boot in Blender und animiere seine Fahrt über eine dreidim
 
 ---
 
-<a id="2096413869841473930"></a>
-
-### Spielbare Wohnung nach dem Vorbild von D4
-
-[Hidetaka SWERY SueHERO](https://x.com/Swery65) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/playable-d4-inspired-apartment-2096413869841473930"><img src="../assets/previews/1f412131b9d66511d6a2496509cd7e477be4768a1542c19780e6eb4148068f89.webp" width="840" loading="lazy" alt="Spielbare Wohnung nach dem Vorbild von D4"></a>
-
-**Prompt**
-
-```text
-Recherchiere die Wohnung des Protagonisten aus D4 und baue sie als spielbaren 3D-Prototyp nach. Prüfe Raumaufteilung und Interaktionen anhand der Referenzen, statt eine exakte Nachbildung vorauszusetzen.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/playable-d4-inspired-apartment-2096413869841473930) · [Originalbeitrag](https://x.com/Swery65/status/2096413869841473930) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
 <a id="2096559197999501724"></a>
 
 ### Ein 2D-Logo wird zur animierten Figur
@@ -3772,28 +3913,10 @@ Verwandle das bereitgestellte 2D-Figurenlogo in eine animierte 3D-Version. Bewah
 
 ---
 
-<a id="2096481425050743048"></a>
-
-### Generierte 3D-Assets zusammensetzen und animieren
-
-[Stefan 3D AI](https://x.com/Stefan_3D_AI) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048"><img src="../assets/previews/3388e9e5e8f519fb22f67c35c98f5038335da857c0a1b8883c406c6e14c36c4a.webp" width="840" loading="lazy" alt="Generierte 3D-Assets zusammensetzen und animieren"></a>
-
-**Prompt**
-
-```text
-Generiere optimierte 3D-Assets mit Tripo P2, setze sie in Blender zusammen und rigge und animiere die Figuren. Prüfe, wie Figuren und Szene räumlich zusammenpassen.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048) · [Originalbeitrag](https://x.com/Stefan_3D_AI/status/2096481425050743048) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 228 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 235 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>
