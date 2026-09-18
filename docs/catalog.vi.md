@@ -26,7 +26,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**248 · Prompt Astra mới nhất**
+**250 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -132,6 +132,8 @@
 - [Tạo game đua xe 3D](#2100526922770026874)
 - [Game 3D trên trình duyệt: Thoát khỏi cơ sở nghiên cứu bị phong tỏa](#2100595652703199281)
 - [Tự thiết kế một cơ thể bằng CAD](#2100614534423540102)
+- [Monster Block — 45 giây phá tan thành phố](#2100636075039629796)
+- [ODD ARMS — Game sinh tồn với vũ khí kỳ quặc](#odd-arms)
 - [AKARI: Tiếp lửa trên những sân thượng Nagoya](#akari-nagoya-rooftop-flame-relay)
 - [Hòn đảo của Cyclops](#cyclops-island-threejs-game)
 - [Bàn cờ shogi 3D có thể xoay](#2096579856133947507)
@@ -142,12 +144,10 @@
 - [Đầu máy hơi nước chạy qua miền quê](#2096577430274429157)
 - [Cảnh máy hát đĩa than trên bàn](#2096561346766877106)
 - [Săn kho báu trên bãi biển low-poly](#2096570815714414844)
-- [Mô hình Blender kết hợp hiệu ứng Unity VFX](#2096560142871658589)
 - [Cây xoài Ấn Độ trong SpeedTree](#2096572429066006845)
 - [Áp dụng texture và gắn xương cho nhân vật Tripo](#2096566598689783878)
 - [Từ phác thảo căn hộ đến ảnh nội thất kết xuất](#2096566686266597754)
 - [Tập hút Lorenz tương tác](#2096572156453028193)
-- [Từ logo 2D đến nhân vật chuyển động](#2096559197999501724)
 
 </details>
 
@@ -291,7 +291,7 @@ Sử dụng hình học giải phẫu thực tế khi có thể, trích dẫn c�
 
 ### Demo đồ họa fantasy isometric
 
-[github.com](https://github.com/) · 2026-09-16
+[Anshu Chimala](https://x.com/anshuc) · 2026-09-16
 
 <a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100271998618177864"><img src="../assets/previews/851c2340f464e95b33eb0dd10894129a620b694b37838698fe011988fadf0d3e.jpg" width="840" loading="lazy" alt="Demo đồ họa fantasy isometric"></a>
 
@@ -3657,6 +3657,197 @@ Tôi đã bảo Astra tự thiết kế một cơ thể bằng CAD.
 
 ---
 
+<a id="2100636075039629796"></a>
+
+### Monster Block — 45 giây phá tan thành phố
+
+[Tony](https://x.com/abc30037274) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/monster-block"><img src="../assets/previews/cf99748892e20dab0f4b75e589ab2736b3ff213c336367312e89b45c6d8b2c2e.png" width="840" loading="lazy" alt="Monster Block — 45 giây phá tan thành phố"></a>
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/monster-block"><img src="../assets/previews/ae9bdb662df6fe31c53b0f7387ee374bfd839d3f923863eed3dd4cf5d3c508ef.png" width="840" loading="lazy" alt="Monster Block — 45 giây phá tan thành phố"></a>
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/monster-block"><img src="../assets/previews/45348d508ea595bf8fc58d93e46dd978759af15a75eff0c2b2177355e96dd180.png" width="840" loading="lazy" alt="Monster Block — 45 giây phá tan thành phố"></a>
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/monster-block"><img src="../assets/previews/a2b60fa4a189833c1c0949ebb00a76b5545a66b52b4bb0e945b7d55c272dbe25.png" width="840" loading="lazy" alt="Monster Block — 45 giây phá tan thành phố"></a>
+
+Chọn Munch, kaiju nhỏ con, Bongo, khỉ đột, hoặc Bolt, robot. Đập phá các tòa nhà, ném ô tô và nối combo trong màn cuồng phá thành phố 3D kéo dài 45 giây. Cả ba nhân vật hoạt ảnh đều được tạo bằng Tripo.
+
+**Prompt**
+
+```text
+# Monster Block — đặc tả xây dựng lại
+
+## 1. Mục tiêu dự án
+
+Xây dựng một game trình duyệt có thể chơi được mang tên Monster Block. Cho phép người chơi chọn một quái vật đồ chơi, bước vào thành phố thu nhỏ và phá hủy càng nhiều tòa nhà càng tốt trong 45 giây. Việc di chuyển, cào phá tòa nhà, ném ô tô và liên tiếp phá hủy phải tạo phản hồi tức thì. Kết thúc lượt chơi bằng điểm số, danh hiệu, nút chơi lại và liên kết thử thách để bạn bè có thể chơi cùng một khu phố. Cung cấp giao diện tiếng Anh và tiếng Trung giản thể, cùng điều khiển bằng bàn phím và cảm ứng.
+
+## 2. Phong cách hình ảnh
+
+Tạo một mô hình sa bàn ấm áp trên bục vuông dày, đặt trước nền màu kem. Sử dụng các tòa nhà màu pastel ít chi tiết, cửa sổ nhỏ màu xanh teal đậm, viền mái nhạt, đường phố rộng màu xanh xám trầm, vạch qua đường, cây tròn, ô tô nhỏ và bóng mềm ấm. Bảng màu tòa nhà gồm màu đất nung, vàng mù tạt, teal bụi, hồng rose, xanh xám, kem và xanh sage. Vật liệu nên trông như đồ chơi được sơn mờ thay vì kim loại bóng.
+
+Sử dụng camera phối cảnh cao góc ba phần tư, không dùng camera nhìn từ trên xuống phẳng. Camera tham chiếu bắt đầu tại (35, 37, 41), hướng về (0, 0.4, 0), với trường nhìn 38 độ trên màn hình rộng, 44 độ trên màn hình trung bình và 51 độ trên màn hình hẹp. Khi chơi, camera bám theo quái vật một cách mượt mà đồng thời vẫn giữ các mục tiêu lân cận trong tầm nhìn. Chiếu sáng cảnh bằng đèn bán cầu ấm, đèn định hướng mềm có đổ bóng và đèn bổ trợ mát.
+
+Sử dụng kiểu chữ hiển thị đậm, cô đọng cho các tiêu đề tiếng Anh lớn và sans-serif dễ đọc cho phần hướng dẫn. Kết hợp chữ xanh lá đậm, bề mặt màu kem, thao tác chơi màu cam và thao tác tạo bằng Tripo màu vàng. Trên trang chủ, làm cho Play và Create with Tripo nổi bật ngang nhau. Trong hộp thoại tạm dừng, đặt thẻ Tripo màu xanh lá đậm với ba ảnh thu nhỏ nhân vật và nút tạo màu vàng phía trên nút Resume dạng viền. Đảm bảo phần trợ giúp đủ dễ đọc trên điện thoại.
+
+Sử dụng các hiệu ứng ngắn, kích hoạt theo thao tác: vệt cào, tòa nhà giật lùi trong chốc lát, hiệu ứng va chạm và phá hủy riêng biệt, vòng chấn động mở rộng, mảnh vỡ nhỏ, điểm số bật lên, thay đổi combo và rung camera có hướng ở mức vừa phải. Nâng ô tô đã bắt vào tay trong khoảng 220 ms. Tôn trọng tùy chọn giảm chuyển động bằng cách tắt rung, các đợt mảnh vỡ và hiệu ứng phóng to giao diện, nhưng vẫn giữ điểm số, dấu hiệu mục tiêu và kết quả phá hủy.
+
+## 3. Thế giới và cảnh
+
+Đặt 16 tòa nhà có thể phá hủy trong lưới 4-by-4. Sử dụng khoảng cách giữa các khu phố là 10.4, tâm các khu phố lần lượt ở -1.5, -0.5, 0.5 và 1.5 lần khoảng cách đó, cùng năm đại lộ theo mỗi trục. Bục rộng 52.6 đơn vị. Tòa nhà có từ hai đến năm tầng, mặt bằng đa dạng, chi tiết mái, một số mái hiên và các biển HOTEL hoặc NOODS nhỏ. Tạo bố cục một cách xác định từ seed.
+
+Đặt 12 ô tô dọc các tuyến đường và đảm bảo có một ô tô màu vàng có thể ném được gần vị trí chơi ban đầu. Bố trí cây quanh các khu đất xây dựng và mép bục, bốn đèn ở góc, vạch làn đường và một lối qua đường ở trung tâm. Bắt đầu quái vật trên một đại lộ thông thoáng tại (0, 0.2, 10.4); dùng vị trí đứng chờ tiền cảnh ở z=20.8 cho trang chủ.
+
+Cùng một tham số khu phố phải tái tạo đúng cùng bố cục tòa nhà. Khi không có tham số, lấy seed khu phố từ ngày UTC. Tham số beat cung cấp điểm mục tiêu của bạn bè. Giữ nguyên khu phố đã chọn khi chơi lại. Mảnh vỡ ngẫu nhiên không cần có tính xác định.
+
+## 4. Danh mục tài sản
+
+Duy trì ID tài sản ổn định và tách mô hình hiển thị khỏi proxy va chạm của gameplay.
+
+- munch: Munch / 阿猛, khủng long xanh mặc định. Giữ nguyên mõm tròn, bụng và sừng màu kem, gai lưng màu cam, tay ngắn, bàn chân lớn và đuôi dài ban đầu. Tải /assets/monster-animated.glb và chuẩn hóa chiều cao thành 5.6 đơn vị. Giữ /assets/monster.glb làm phương án dự phòng tĩnh.
+- bongo: Bongo / 橘拳, khỉ đột đồ chơi màu cam với nắm đấm quá khổ và thân hình rộng. Tải /assets/bongo-animated.glb và chuẩn hóa chiều cao thành 4.5 đơn vị.
+- bolt: Bolt / 蓝电, robot đồ chơi màu xanh với tay chân chắc nịch và dáng vẻ thân thiện. Tải /assets/bolt-animated.glb và chuẩn hóa chiều cao thành 4.9 đơn vị.
+- Mỗi nhân vật có PNG xem trước tương ứng và các clip idle, run, slash. Giữ đúng ba nhân vật có thể chọn; khi chuyển nhân vật, phải cập nhật cả ảnh xem trước lẫn mô hình được sử dụng ở lượt chơi tiếp theo.
+- city_building: các nhóm tòa nhà procedural có thể tái sử dụng, với máu, giới hạn collider, độ giật khi trúng đòn và trạng thái phá hủy được theo dõi riêng. Viền mái, phần đế và mái hiên thuộc vùng bao va chạm.
+- city_car: các ô tô procedural có thể tái sử dụng và ném được. Tách riêng trạng thái đang cầm, đang bay và đã bị phá hủy. Ba ô tô mang thương hiệu Tripo màu vàng.
+- city_decor: cây, đèn, vỉa hè, biển báo và sơn đường procedural. Giữ phần này nhẹ và tái sử dụng hình học cùng vật liệu.
+- tripo_scenery: một mô hình logo trên mái, hai biển hiệu trên mái, một mặt tiền xưởng và ba ô tô gắn thương hiệu. Dựng chúng từ logo Tripo được cung cấp và các mesh procedural. Đây là vật trang trí cảnh, không phải mô hình được tạo thêm qua API hay vật phẩm tăng sức mạnh trong gameplay.
+
+Ba mô hình nhân vật là các tài sản Tripo ưu tiên. Tái sử dụng các GLB đã tạo và rig được cung cấp khi có thể. Với nhân vật mới, hãy tạo một mô hình phong cách đồ chơi phù hợp, kiểm tra độ tương thích của rig, bind rig, tạo animation idle/run/slash và xác thực tỷ lệ trước khi thêm vào danh sách nhân vật. Không gọi API tạo nội dung khi người chơi bắt đầu một lượt. Tải nhân vật lên và tự động nhập sản phẩm do người chơi tạo nằm ngoài phiên bản này.
+
+## 5. Gameplay và phản hồi
+
+Hỗ trợ WASD hoặc phím mũi tên để di chuyển, giữ Space để liên tục tấn công bằng vuốt, nhấn E để nhặt ô tô gần đó và nhấn E lần nữa để ném, nhấn R để dậm và Escape để tạm dừng. Cung cấp cần điều khiển ảo cùng các nút riêng cho tấn công, nhặt/ném và dậm trên màn hình cảm ứng. Xóa các thao tác đang được giữ khi tạm dừng hoặc mất tiêu điểm.
+
+Áp dụng các quy tắc sau:
+
+- Một lượt chơi kéo dài 45 giây. Máu của tòa nhà bằng số tầng cộng một, tương đương 3–6 máu.
+- Một đòn vuốt gây 1 sát thương, với khoảng thời gian giữa các đòn là 0.42 giây.
+- Một cú dậm gây 3 sát thương lên mỗi tòa nhà trong phạm vi và có thời gian hồi 7 giây.
+- Ô tô bị ném gây 4 sát thương lên các tòa nhà trong vùng va chạm và cộng 75 điểm cơ bản cho cú va chạm do ném.
+- Đánh trúng tòa nhà được cộng 20 lần hệ số hiện tại. Phá hủy tòa nhà cộng round(180 + chiều cao tòa nhà × 50) lần hệ số sau khi tăng combo phá hủy.
+- Phá hủy tiếp trong vòng 3.5 giây sẽ duy trì combo. Các đòn đánh thông thường không kéo dài khoảng thời gian này. Hệ số là min(5, 1 + floor(combo / 2)).
+- Phá hủy đủ cả 16 tòa nhà sẽ kết thúc lượt chơi và cộng ceil(số giây còn lại) × 100. Nếu không, kết thúc khi thời gian về 0 và không cho cộng thêm điểm.
+
+Không có kẻ địch, trận đấu trùm, máu người chơi hay hình phạt tử trận. Thử thách nằm ở việc chọn tuyến đường, sử dụng ô tô và cú dậm hiệu quả, đồng thời duy trì combo phá hủy. Hiển thị thời gian còn lại, điểm số, số tòa nhà đã phá hủy, hệ số và thời gian hồi cú dậm. Giải thích rõ các thao tác chưa khả dụng mà không chặn việc di chuyển. Phân biệt cú vung hụt với đòn đánh trúng bằng phản hồi âm thanh và hình ảnh.
+
+Xử lý việc di chuyển và xoay dựa trên vùng chiếm chỗ animation đã lấy mẫu của từng nhân vật, bao gồm cả tay và đuôi. Kiểm tra với toàn bộ giới hạn tòa nhà và chừa một khoảng hở nhỏ. Quái vật phải có thể tấn công từ một vị trí đứng hợp lệ. Cho phép di chuyển qua khu đất sau khi tòa nhà bị phá hủy. Tránh khiến người chơi mắc kẹt ở góc hoặc để đuôi quét xuyên qua tòa nhà còn nguyên khi xoay.
+
+Tạm dừng bộ đếm thời gian và thao tác khi nhấn Escape, nút tạm dừng, cửa sổ mất tiêu điểm hoặc tab bị ẩn. Cung cấp các luồng Resume, Retry và Home. Kết thúc bằng điểm số, số lần phá hủy, combo tốt nhất, một danh hiệu vui nhộn và liên kết thử thách cùng bản đồ. Cung cấp bảng điểm tải xuống kích thước 1080-by-1350 và, khi MediaRecorder được hỗ trợ, bản ghi lượt chơi ở định dạng MP4 hoặc WebM được hỗ trợ. Dùng tính năng chia sẻ gốc khi có thể và dùng clipboard làm phương án dự phòng cho liên kết thử thách. Không bao giờ trình bày điểm số do trình duyệt tính là bảng xếp hạng cạnh tranh đáng tin cậy.
+
+## 6. Triển khai kỹ thuật
+
+Sử dụng Three.js, TypeScript và Vite với bản build dist tĩnh. Tách việc tạo thế giới, luật chơi, va chạm, nhân vật, kết xuất, âm thanh, ghi hình, phân tích và UI thành các module riêng. Đóng gói font và các tài sản decoder cần thiết cục bộ. Dùng instancing cho các cửa sổ và vạch đường lặp lại, đồng thời tái sử dụng vật liệu và hình học. Giới hạn pixel ratio kết xuất ở mức 1.65. Giới hạn các hiệu ứng tạm thời và giải phóng tài nguyên khi hoàn tất hoặc reset.
+
+Sử dụng GLTFLoader, skeletal animation mixer và các clip GLB được cung cấp. Chuẩn hóa mỗi mô hình quanh pivot mặt đất ở chính giữa. Bản xuất tham chiếu hướng mặt về +X; xoay pivot hiển thị -90 độ quanh trục Y để căn theo hướng tiến +Z của game. Đánh giá animation idle trước khi hiển thị mô hình đã tải và giữ chân đang animation gần mặt đất. Nếu tải thất bại, sử dụng phương án procedural dự phòng có thể nhìn thấy và thông báo trung thực về lỗi. Kiểm soát việc chọn nhân vật bất đồng bộ để lần tải cũ không thể thay thế lựa chọn mới nhất.
+
+Giữ dữ liệu va chạm của nhân vật độc lập với mesh kết xuất và tạo lại các vùng chiếm chỗ đã lấy mẫu khi đổi nhân vật hoặc animation. Kiểm tra cả di chuyển lẫn xoay gần tường. Duy trì thao tác bàn phím/cảm ứng ổn định, hộp thoại phản hồi nhanh, nội dung đã bản địa hóa, hành vi focus, điều khiển âm thanh tắt tiếng, chế độ giảm chuyển động và khả năng khôi phục WebGL.
+
+Liên kết các thao tác tạo bằng Tripo với https://www.tripo3d.ai/ với utm_source=monster_block, utm_medium=referral, utm_campaign=monster_block_game và utm_content theo vị trí: header_logo, hero_create, pause_create, result_create hoặc footer_logo. Mở các thao tác này trong tab riêng và tạm dừng lượt chơi đang hoạt động trước. Giải thích rằng Tripo tạo tài sản 3D; không hứa hẹn tự động nhập vào game này.
+
+Giữ nguyên tích hợp sự kiện Pageview và PostHog khi chính sách lưu trữ cho phép. Chỉ sử dụng cấu hình tiếp nhận dữ liệu công khai trên trình duyệt trong bản build tĩnh. Giữ thông tin xác thực cho việc tạo nội dung, CMS, triển khai và phân tích cá nhân bên ngoài mã nguồn và các tài sản build. Ghi nhận lượt vào trang, chọn nhân vật, bắt đầu chơi, các thao tác đầu tiên, kết quả lượt chơi, chơi lại, chia sẻ/xuất và lượt nhấp ra ngoài đến Tripo, nhưng không xem lượt nhấp là lượt đăng ký hay thanh toán đã được xác minh.
+
+## 7. Tiêu chí hoàn tất
+
+Bàn giao mã nguồn có thể chạy, tài sản cục bộ, bản build tĩnh production và hướng dẫn cài đặt/khởi chạy/build rõ ràng. Xác minh cả ba lựa chọn nhân vật, một lượt chơi đủ thời gian, phá hủy tòa nhà, nhặt và ném, thời gian hồi cú dậm, hết hạn combo, tạm dừng/tiếp tục, chơi lại và tính điểm cuối lượt. Xác minh khủng long ban đầu vẫn có thể chọn, đồng thời cả ba nhân vật đều có thể di chuyển và xoay gần các tòa nhà mà không xuyên mesh rõ rệt hay bị mắc kẹt.
+
+Kiểm tra bố cục tiếng Anh và tiếng Trung trên màn hình desktop và thiết bị di động hẹp, bao gồm nội dung trợ giúp dễ đọc, điều khiển cảm ứng, thao tác tạm dừng và chia sẻ kết quả. Xác minh đích CTA của Tripo cùng các giá trị UTM theo vị trí, tính năng xuất bảng điểm và hành vi dự phòng khi ghi hình. Kiểm tra trang đã triển khai và môi trường iframe CMS thực tế về việc tải mô hình, thao tác, liên kết bên ngoài và tải xuống. Báo cáo các giới hạn của trình duyệt hoặc thiết bị thay vì khẳng định hỗ trợ mọi trường hợp hoặc tốc độ khung hình ổn định đã đo được khi chưa có bằng chứng.
+
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/monster-block) · [Bài đăng gốc](https://x.com/abc30037274/status/2100636075039629796) · [Bản demo](https://monster-block.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="odd-arms"></a>
+
+### ODD ARMS — Game sinh tồn với vũ khí kỳ quặc
+
+[Deniffer](https://x.com/lumina__team) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/odd-arms"><img src="../assets/previews/504c296e723fc1d371ab475b1849a547d862e14632b5962ee62c0edc16783749.jpg" width="840" loading="lazy" alt="ODD ARMS — Game sinh tồn với vũ khí kỳ quặc"></a>
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/odd-arms"><img src="../assets/previews/c091163cb03e4b2e888533cdae55a69d2a2adb5b8d7d511d5dbe9f42b48e477c.jpg" width="840" loading="lazy" alt="ODD ARMS — Game sinh tồn với vũ khí kỳ quặc"></a>
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/odd-arms"><img src="../assets/previews/8704479f463f4966b9d420060a8fe4ebb55f0f195750cab2cfad225dcb31e52f.jpg" width="840" loading="lazy" alt="ODD ARMS — Game sinh tồn với vũ khí kỳ quặc"></a>
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/odd-arms"><img src="../assets/previews/846d08bd92f3243dce5a7a5313cd4978c94613e86cabcd0ef2c99c434954f93b.jpg" width="840" loading="lazy" alt="ODD ARMS — Game sinh tồn với vũ khí kỳ quặc"></a>
+
+Xây dựng một game sinh tồn Three.js kéo dài ba phút, trong đó một anh hùng đồ chơi với lưỡi dao chuối, máy nướng bánh mì và pít-tông chiến đấu với những quái vật lên dây cót trên bàn làm việc. Người chơi có thể tạo anh hùng hoặc vũ khí riêng trong Tripo Studio, rồi nhập GLB vào game để chơi.
+
+**Prompt**
+
+```text
+# ODD ARMS — Ý tưởng của bạn. Anh hùng của bạn.
+
+## 1. Mục tiêu
+Giữ toàn bộ giao diện game bằng tiếng Anh (thêm tiếng Nhật dưới dạng tùy chọn chuyển ngôn ngữ).
+Xây dựng một game sinh tồn trên trình duyệt hoàn chỉnh, kéo dài ba phút, thuộc thể loại "bầy đàn tự động tấn công": người chơi chọn một anh hùng cỡ đồ chơi và hai vũ khí cực kỳ kỳ quặc, sau đó sống sót 180 giây giữa những bầy quái vật trên bàn làm việc của thợ thủ công. Vũ khí tự động tấn công; người chơi chỉ cần di chuyển, lướt, thu thập tinh thể, chọn nâng cấp và tung một đợt nova tích năng lượng. Điểm hấp dẫn nằm ở tính cá nhân hóa: người chơi có thể tạo anh hùng hoặc vũ khí riêng trong Tripo, tải xuống GLB rồi đưa vào game. Sử dụng https://odd-arms.tripo.page/ và các tài liệu tham khảo được cung cấp cho thành phẩm. Ghi công Deniffer tại https://x.com/lumina__team.
+
+## 2. Định hướng hình ảnh
+Định hình game như một mô hình đồ chơi thu nhỏ, nhìn từ camera cố định chếch từ trên xuống và bám theo anh hùng. Khu vực chơi là một tấm thảm cắt màu xanh navy đậm, có lưới mờ và các dấu góc in chữ "ODD ARMS", đặt trên bàn gỗ màu ấm. Viền bàn chất đầy đạo cụ thủ công cỡ lớn (cuộn chỉ, hộp hoa thị bằng đồng trang trí, túi đựng dụng cụ bằng da, đèn bàn bằng đồng, tàu hỏa đồ chơi, các bộ phận đồ chơi), để đấu trường trông như một mặt bàn thật. Dùng ánh sáng chính ấm từ phía đèn, ánh sáng môi trường dịu, bóng tiếp xúc và hiệu ứng bloom nhẹ; nhân vật có bề mặt bóng, hình khối mập mạp theo phong cách tượng sưu tầm, màu sắc bão hòa.
+
+UI: thẻ bo tròn màu trắng kem với chữ navy và điểm nhấn cam san hô, dùng phông hiển thị đậm, cô đọng cho tiêu đề ("LET'S MAKE SOME TROUBLE.") và sans cô đọng rõ ràng cho nội dung. Trong trận đấu: thẻ máu ở góc trên trái, bộ đếm chuỗi hạ gục bên dưới, bộ đếm ngược "SURVIVE THE WEIRD" ở chính giữa phía trên, nhãn đợt quái + âm thanh + cài đặt + Pause ở góc trên phải, số quái đã hạ ở bên phải, thẻ cấp độ/XP ở chính giữa phía dưới, ba chip vũ khí (xoay quanh / quay về / bắn, kèm cấp độ) ở góc dưới trái, điều khiển + thời gian hồi lướt ở góc dưới phải, thẻ "Q NOVA READY!" phía trên. Tăng cảm giác khi chơi: số sát thương, đòn chí mạng, kẻ địch co giãn squash-and-stretch, hất văng, hạt bật nổ, rung camera nhẹ (tắt rung khi prefers-reduced-motion được thiết lập).
+
+## 3. Thế giới
+Một đấu trường hình vuông; giới hạn anh hùng trong khoảng ±23 đơn vị trên cả hai trục. Tấm thảm cắt phủ kín khu vực chơi; bàn và đạo cụ nằm ngoài giới hạn, chỉ làm cảnh nền (không va chạm). Đấu trường bắt đầu trống rồi được lấp đầy từ các cạnh: kẻ địch xuất hiện trên một vòng tròn cách anh hùng 12–16 đơn vị (8–11 trong giây đầu tiên) và đi thẳng về phía anh hùng. Cứ mỗi 22 giây, một đợt tràn xuất hiện, tạo thành một vòng tròn đầy kẻ địch ở bán kính 13. Các vòng cảnh báo màu đỏ xuất hiện dưới vị trí hiện tại của anh hùng (lần đầu ở 28 giây, sau đó mỗi max(4.4, 9 − t/50) giây) và phát nổ sau 2 giây.
+
+## 4. Danh mục tài sản
+Chuẩn bị các khe mô hình ổn định; mỗi khe phải tải một GLB duy nhất, căn giữa, tự động scale theo chiều cao mục tiêu và chuyển sang placeholder đơn giản nếu tải thất bại.
+
+Anh hùng (10, `hero:<id>`), mỗi anh hùng là một nhân vật đồ chơi hình khối rõ dáng:
+- `cat` Astro Cat — mèo mướp cam mặc bộ đồ phi hành gia màu trắng và đội mũ kính. HP 100, tốc độ 6.8, nam châm ×1.35, thời gian hồi lướt 2.4 s.
+- `frog` Frog Fighter — ếch xanh đeo găng đấm bốc đỏ. HP 130, tốc độ 6.8, sát thương lướt 135.
+- `shroom` Mushroom Hero — nấm mũ đỏ với một chiếc áo choàng nhỏ. HP 90, tốc độ 7.6, lướt 1.8 s.
+- `capybara` Chill Capybara — chuột lang nước thư thái trong suối nước nóng. HP 160, tốc độ 5.8, nam châm ×1.15, lướt 3 s, sát thương lướt 110.
+- `ramen` Ramen Ronin — samurai mang một bát ramen nghi ngút khói. HP 105, tốc độ 7.2, lướt 2.2 s, sát thương lướt 120.
+- `penguin` Office Penguin — chim cánh cụt mặc sơ mi và cà vạt. HP 80, tốc độ 7.1, lướt 1.5 s, sát thương lướt 75.
+- `axolotl` Axolotl — axolotl hồng thám hiểm. HP 85, tốc độ 7.3, nam châm ×1.6, sát thương lướt 75.
+- `avocado` Avo Boxer — võ sĩ quyền anh quả bơ với lõi hạt. HP 120, tốc độ 6.4, lướt 2.1 s, sát thương lướt 130.
+- `robot` Clockwork Bot — robot thiếc lên dây cót với chiếc chìa khóa. HP 115, tốc độ 6.2, lướt 2.8 s, sát thương lướt 165.
+- `snail` Snail Knight — hiệp sĩ ốc sên mang chiếc vỏ to như ngôi nhà. HP 190, tốc độ 5.2, nam châm ×1.2, lướt 3.2 s, sát thương lướt 120.
+Sát thương lướt mặc định là 90 nếu không được nêu.
+
+Vũ khí (12, `weapon:<id>`), được nhóm theo ô tấn công:
+- Xoay quanh: `sardine` Sardine Chainsaw (3 con cá, bán kính 2.9, sát thương 1, tốc độ 1.2); `cactus` Cactus Club (2 gậy, bán kính 3.3, sát thương 1.65, tốc độ 0.78, bán kính đánh trúng 1.25, hất văng 1.5); `plunger` Plunger Patrol (4 pít-tông, bán kính 2.25, sát thương 0.85, tốc độ 1.5).
+- Quay về: `banana` Banana Blades (2 lưỡi, sát thương 1, tốc độ 1.25); `pizza` Pizza Cutter (1 đĩa lớn, sát thương 1.5, tốc độ 0.82, bán kính đánh trúng 1.65); `croissant` Croissant Blades (3 lưỡi, sát thương 0.75, tốc độ 1.45); `boomerang` Boomerang (1, sát thương 1.15, tốc độ 1.6); `donut-disc` Donut Disc (1, sát thương 1.5, tốc độ 0.9, bán kính đánh trúng 1.3).
+- Bắn: `duck` Duck Rocket (tự tìm mục tiêu, lan 2, khoảng cách 0.42 s); `toaster` Angry Toaster (chùm 3 phát xuyên mục tiêu, sát thương 0.7); `teapot` Raging Teapot (2 phát chậm, lan 2.8, khoảng cách 0.8 s); `bubble-gun` Bubble Gun (2 bong bóng xuyên mục tiêu, sát thương 0.45, khoảng cách 0.3 s).
+Trang bị mặc định: Astro Cat, Banana Blades, Angry Toaster; vũ khí xoay quanh được mở khóa ở lần nâng cấp đầu tiên.
+
+Kẻ địch (3, `enemy:<id>`), là những quái vật đồ chơi lên dây cót: `red-chomper` (đồ chơi tròn màu đỏ biết cắn, cơ bản, 30 HP cơ sở, tốc độ 2.35), `spring-rabbit` (thỏ chân lò xo màu vàng, nhanh, 23 HP cơ sở, tốc độ 3.5), `crown-bear` (gấu chắp vá lớn đội vương miện, xe tăng, 130 HP cơ sở, tốc độ 1.7, xuất hiện sau 60 s với tỷ lệ 17%, rơi 3 XP).
+
+Đạo cụ cảnh (`prop:<id>`): bàn làm việc, khung và miếng góc của tấm thảm cắt, đèn bàn, tàu hỏa đồ chơi, cuộn chỉ, hộp hoa thị trang trí, túi đựng dụng cụ, khay linh kiện đồ chơi. Giữ tấm thảm, lưới, tinh thể, đạn, vòng cảnh báo, hạt, đèn và UI ở dạng tạo bằng procedural.
+
+## 5. Gameplay và phản hồi
+Luồng: Nhân vật → Trang bị (một vũ khí quay về + một vũ khí bắn) → Sẵn sàng (bản xem trước 3D dạng bàn xoay của anh hùng với các vũ khí đã chọn, kéo để xoay) → "Let's play". Mỗi bước làm quen chỉ hiển thị danh mục tương ứng cùng mô tả, phong cách chơi và điểm yếu. Ghi nhớ trang bị gần nhất.
+
+Điều khiển: WASD/phím mũi tên để di chuyển; Space lướt theo hướng đang đi (tốc độ ×3.7, bất tử trong thời gian ngắn, gây sát thương một lần mỗi lượt lướt lên kẻ địch trong phạm vi 2 đơn vị); Q tung nova khi năng lượng đạt 100 (bán kính 11, sát thương 200, hất văng mạnh, hút tinh thể); 1/2/3 hoặc nhấp chuột để chọn nâng cấp; Esc để tạm dừng; tự động tạm dừng khi cửa sổ mất tiêu điểm. Di động: cần analog ảo bên trái, các nút Dash và Nova bên phải với vòng hồi chiêu/tích năng lượng, hỗ trợ đa chạm để cần analog và các nút hoạt động cùng lúc; nâng cấp nằm phía trên cần analog khi cầm dọc và giữa hai ngón cái khi cầm ngang.
+
+Luật: HP kẻ địch = base × (1 + t/260) × 1.3. Khoảng thời gian xuất hiện max(0.18, 0.52 − 0.0016·t) s, tối đa 180 kẻ địch. Sát thương va chạm 9 (18 đối với gấu), bất tử 0.85 s sau khi trúng đòn. Mỗi lần hạ gục cộng 2 năng lượng và rơi một tinh thể; mỗi đòn đánh trúng thứ 9 của mỗi vũ khí gây chí mạng ×1.7. Chuỗi 25 lần hạ gục kích hoạt cuồng nộ trong 5 s (tốc độ tấn công ×1.65, hồi chiêu 13 s); nhận sát thương sẽ đặt lại chuỗi. XP để lên cấp: 20, sau đó round(need × 1.4 + 10). Lên cấp không bao giờ tạm dừng game: các lựa chọn được xếp hàng dưới dạng thẻ không chặn luồng chơi. Nâng cấp đầu tiên đưa ra ba vũ khí xoay quanh; sau đó đưa ra ba trong số các lựa chọn: Orbit overload (+1 vật thể xoay quanh, tối đa 7, +22% sát thương), Another round (bắn nhanh hơn, quay về lâu hơn và mạnh hơn), Full blast (bắn nhanh hơn, +20% sát thương, nhiều đạn hơn), Live a little (+10% tốc độ, +30 HP). Mỗi lựa chọn hồi 8 HP.
+
+Kết thúc: sống sót 180 s → "Beautifully weird. You made it."; HP 0 → "That was a glorious mess." Cả hai đều hiển thị số kẻ địch đã hạ, chuỗi tốt nhất và thời gian sống sót, cùng các tùy chọn tạo lại lượt chơi / thay đổi trang bị và lời nhắc tự tạo.
+
+Tạo dấu ấn riêng: từ màn hình trang bị, tạm dừng và kết quả, "Create my hero / weapon in Tripo" mở https://studio.tripo3d.ai/ trong tab mới; "Import GLB" tải một tệp .glb cục bộ (≤15 MB, chỉ dùng kết cấu nhúng, phân tích ngay trong trình duyệt, không bao giờ tải lên), căn giữa và scale tệp, rồi chỉ thay đổi diện mạo của anh hùng hoặc vũ khí được chọn trong khi giữ nguyên chỉ số. Hiển thị lỗi rõ ràng với tệp không hợp lệ và giữ lại mô hình gốc.
+
+So sánh mô hình: một nút chuyển ở phần đầu trang, "Tripo3D ⇄ Simple3D (Blender)", thay thế mọi anh hùng, vũ khí, kẻ địch và đạo cụ bằng bộ hình nguyên thủy đơn giản tương ứng mà không đặt lại lượt chơi. Tải toàn bộ bộ thay thế trước khi chuyển; nếu có bất kỳ tệp nào lỗi, giữ nguyên bộ hiện tại.
+
+## 6. Triển khai kỹ thuật
+Vite + JavaScript thuần + Three.js với GLTFLoader, ánh sáng RoomEnvironment và ánh xạ tông màu ACES. Giữ phần mô phỏng trong một mô-đun timestep cố định, thuần, có nguồn ngẫu nhiên có thể tiêm vào để chạy toàn bộ lượt chơi trong các bài kiểm thử; renderer chỉ đọc state. Cache mỗi GLB một lần và clone cho các instance; dùng instancing hoặc LOD cho các vật trang trí lặp lại. Giới hạn tỷ lệ pixel (1.5 trên di động, giảm xuống 1 trong các đợt dày), làm mới bóng tối đa 30 lần mỗi giây và chỉ cập nhật văn bản HUD khi giá trị thay đổi. Tách va chạm (các hình tròn đơn giản) khỏi mesh hiển thị. Đóng gói phông chữ, mô hình và kết cấu cùng origin để bản build là một thư mục tĩnh. Nhắm đến trình duyệt máy tính và điện thoại, từ bề rộng 320 px trở lên, bao gồm điện thoại xoay ngang và vùng an toàn. Độ phức tạp mô hình nên theo kích thước hiển thị trên màn hình; không đặt giới hạn đa giác cứng.
+
+## 7. Hoàn tất khi
+- Toàn bộ luồng hoạt động: làm quen, chiến đấu đến khi thắng hoặc thua, tạm dừng/tiếp tục, khởi động lại với cùng trang bị, thay đổi trang bị.
+- Cả 10 anh hùng và 12 vũ khí đều tải và hoạt động đúng theo các chỉ số trên; một lượt chơi 180 s với bất kỳ trang bị nào cũng kết thúc mà không có lỗi.
+- Điều khiển bằng bàn phím và cảm ứng đều hoạt động, bao gồm cần analog và Dash cùng lúc.
+- Nhập GLB thay thế diện mạo của anh hùng hoặc vũ khí được chọn và xử lý từ chối tệp lỗi một cách phù hợp.
+- Nút chuyển Tripo3D / Simple3D thay thế toàn bộ mô hình ngay giữa lượt chơi.
+- Màn hình mở đầu, giữa trận và kết quả khớp với tài liệu tham khảo; cung cấp mã nguồn có thể chạy, lệnh khởi động và bản build tĩnh dành cho production.
+
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/odd-arms) · [Bài đăng gốc](https://odd-arms.tripo.page/) · [Bản demo](https://odd-arms.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="akari-nagoya-rooftop-flame-relay"></a>
 
 ### AKARI: Tiếp lửa trên những sân thượng Nagoya
@@ -3916,24 +4107,6 @@ Xây dựng trò chơi săn kho báu 3D có thể chơi được trên bãi bi�
 
 ---
 
-<a id="2096560142871658589"></a>
-
-### Mô hình Blender kết hợp hiệu ứng Unity VFX
-
-[ねぎぽよし](https://x.com/CST_negi) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/blender-models-with-unity-vfx-2096560142871658589"><img src="../assets/previews/d13ca069743cb65e0501484737d96a1fbde81927026e9b8837b149ece9b0693d.webp" width="840" loading="lazy" alt="Mô hình Blender kết hợp hiệu ứng Unity VFX"></a>
-
-**Prompt**
-
-```text
-Tạo các mô hình cho cảnh trong Blender rồi nhập vào Unity. Thêm hiệu ứng bằng VFX Graph và bố trí ánh sáng để mô hình cùng hiệu ứng đều thể hiện rõ khi xuất hiện chung.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/blender-models-with-unity-vfx-2096560142871658589) · [Bài đăng gốc](https://x.com/CST_negi/status/2096560142871658589) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="2096572429066006845"></a>
 
 ### Cây xoài Ấn Độ trong SpeedTree
@@ -4006,28 +4179,10 @@ Trực quan hóa hai quỹ đạo của hệ Lorenz có vị trí ban đầu ch�
 
 ---
 
-<a id="2096559197999501724"></a>
-
-### Từ logo 2D đến nhân vật chuyển động
-
-[Anthony Riera](https://x.com/anthonyriera) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724"><img src="../assets/previews/8dcd8f7d1406525c0a56e16bf3bc2591fb0191c1e4226f74cc364b4daa841efd.webp" width="840" loading="lazy" alt="Từ logo 2D đến nhân vật chuyển động"></a>
-
-**Prompt**
-
-```text
-Chuyển logo nhân vật 2D được cung cấp thành phiên bản 3D có hoạt ảnh. Giữ các đặc điểm nhận diện của nhân vật khi bổ sung hình khối và chuyển động.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724) · [Bài đăng gốc](https://x.com/anthonyriera/status/2096559197999501724) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 248 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 250 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

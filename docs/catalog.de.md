@@ -26,7 +26,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**248 · Neueste Astra-Prompts**
+**250 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -132,6 +132,8 @@
 - [3D-Rennspiel erstellen](#2100526922770026874)
 - [3D-Browser-Escape-Game: Flucht aus einer stillgelegten Forschungseinrichtung](#2100595652703199281)
 - [CAD entwirft sich selbst einen Körper](#2100614534423540102)
+- [Monster Block — 45 Sekunden, um die Stadt zu verwüsten](#2100636075039629796)
+- [ODD ARMS — Survival-Game mit verrückten Waffen](#odd-arms)
 - [AKARI: Flammenstaffel auf den Dächern von Nagoya](#akari-nagoya-rooftop-flame-relay)
 - [Die Insel des Zyklopen](#cyclops-island-threejs-game)
 - [Drehbares 3D-Shogi-Brett](#2096579856133947507)
@@ -142,12 +144,10 @@
 - [Dampflokomotive auf dem Weg durchs Land](#2096577430274429157)
 - [Plattenspieler auf einem Tisch](#2096561346766877106)
 - [Schatzsuche an einem Low-Poly-Strand](#2096570815714414844)
-- [Blender-Modelle mit Unity-VFX](#2096560142871658589)
 - [Indischer Mangobaum in SpeedTree](#2096572429066006845)
 - [Eine Tripo-Figur texturieren und riggen](#2096566598689783878)
 - [Von der Wohnungsskizze zu gerenderten Innenräumen](#2096566686266597754)
 - [Interaktiver Lorenz-Attraktor](#2096572156453028193)
-- [Ein 2D-Logo wird zur animierten Figur](#2096559197999501724)
 
 </details>
 
@@ -291,7 +291,7 @@ Verwende, sofern verfügbar, echte anatomische Geometrie, gib die Quellen an und
 
 ### Demo für isometrische Fantasy-Grafik
 
-[github.com](https://github.com/) · 2026-09-16
+[Anshu Chimala](https://x.com/anshuc) · 2026-09-16
 
 <a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2100271998618177864"><img src="../assets/previews/851c2340f464e95b33eb0dd10894129a620b694b37838698fe011988fadf0d3e.jpg" width="840" loading="lazy" alt="Demo für isometrische Fantasy-Grafik"></a>
 
@@ -3623,6 +3623,197 @@ Ich habe Astra gesagt, es solle sich selbst einen Körper per CAD konstruieren.
 
 ---
 
+<a id="2100636075039629796"></a>
+
+### Monster Block — 45 Sekunden, um die Stadt zu verwüsten
+
+[Tony](https://x.com/abc30037274) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/monster-block"><img src="../assets/previews/cf99748892e20dab0f4b75e589ab2736b3ff213c336367312e89b45c6d8b2c2e.png" width="840" loading="lazy" alt="Monster Block — 45 Sekunden, um die Stadt zu verwüsten"></a>
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/monster-block"><img src="../assets/previews/ae9bdb662df6fe31c53b0f7387ee374bfd839d3f923863eed3dd4cf5d3c508ef.png" width="840" loading="lazy" alt="Monster Block — 45 Sekunden, um die Stadt zu verwüsten"></a>
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/monster-block"><img src="../assets/previews/45348d508ea595bf8fc58d93e46dd978759af15a75eff0c2b2177355e96dd180.png" width="840" loading="lazy" alt="Monster Block — 45 Sekunden, um die Stadt zu verwüsten"></a>
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/monster-block"><img src="../assets/previews/a2b60fa4a189833c1c0949ebb00a76b5545a66b52b4bb0e945b7d55c272dbe25.png" width="840" loading="lazy" alt="Monster Block — 45 Sekunden, um die Stadt zu verwüsten"></a>
+
+Wähle Munch, den kleinen Kaiju, Bongo, den Gorilla, oder Bolt, den Roboter. Zertrümmere Gebäude, wirf Autos und lande Kombos in einer 45-sekündigen 3D-Stadtverwüstung. Alle drei animierten Charaktere wurden mit Tripo erstellt.
+
+**Prompt**
+
+```text
+# Monster Block — Spezifikation zum Neuaufbau
+
+## 1. Projektziel
+
+Erstelle ein spielbares Browserspiel namens Monster Block. Lass die Spielenden ein Spielzeugmonster auswählen, eine Miniaturstadt betreten und in 45 Sekunden so viele Gebäude wie möglich zerstören. Bewegung, Krallenangriffe, das Werfen von Autos und Zerstörungskombos müssen sofortiges Feedback auslösen. Beende die Runde mit einem Score, einem Titel, einer erneuten Spielaktion und einem Challenge-Link, über den eine befreundete Person denselben Block spielen kann. Stelle Benutzeroberflächen auf Englisch und vereinfachtem Chinesisch sowie Tastatur- und Touch-Steuerung bereit.
+
+## 2. Visueller Stil
+
+Erstelle ein warmes Tischdiorama auf einer dicken quadratischen Plattform vor einem cremefarbenen Hintergrund. Verwende Gebäude mit wenigen Details in Pastelltönen, kleine dunkelblaugrüne Fenster, helle Dachkanten, breite Straßen in gedämpftem Grün-Grau, Zebrastreifen, runde Bäume, winzige Autos und warme, weiche Schatten. Die Gebäudepalette umfasst Terrakotta, Senfgelb, staubiges Blaugrün, Rosé, Blaugrau, Creme und Salbeigrün. Die Materialien sollen wie matt lackierte Spielzeuge wirken, nicht wie glänzendes Metall.
+
+Verwende eine hohe Dreiviertelperspektive, keine flache Draufsicht. Die Referenzkamera startet bei (35, 37, 41), blickt in Richtung (0, 0.4, 0) und nutzt auf breiten Bildschirmen ein Sichtfeld von 38 Grad, auf mittleren Bildschirmen 44 Grad und auf schmalen Bildschirmen 51 Grad. Folge dem Monster während des Spiels weich und halte Ziele in der Nähe sichtbar. Beleuchte die Szene mit einem warmen Hemisphere-Licht, einem weichen, Schatten werfenden Richtungslicht und einem kühlen Aufhelllicht.
+
+Verwende für große englische Überschriften eine fette, schmal laufende Display-Schrift und für Anweisungen eine gut lesbare serifenlose Schrift. Kombiniere dunkelgrünen Text, cremefarbene Flächen, orangefarbene Spielaktionen und gelbe Tripo-Erstellungsaktionen. Auf der Startseite sollen „Spielen“ und „Mit Tripo erstellen“ gleich prominent sein. Platziere im Pausendialog eine dunkelgrüne Tripo-Karte mit drei Charaktervorschaubildern und einer gelben Erstellen-Schaltfläche über der umrandeten Fortsetzen-Schaltfläche. Halte Hilfetexte auf Smartphones angenehm lesbar.
+
+Verwende kurze, durch Eingaben ausgelöste Effekte: Krallenhiebe, kurzes Zurückfedern von Gebäuden, klar unterscheidbare Treffer- und Zerstörungseffekte, größer werdende Aufstampfringe, kleine Trümmerausbrüche, Score-Popups, Kombowechsel und ein zurückhaltendes gerichtetes Kameraruckeln. Hebe ein gegriffenes Auto innerhalb von etwa 220 ms in die Hand. Berücksichtige Einstellungen für reduzierte Bewegung, indem du Ruckeln, Trümmerausbrüche und UI-Skalierung entfernst, Scores, Zielhinweise und Zerstörungsergebnisse jedoch beibehältst.
+
+## 3. Welt und Szene
+
+Platziere 16 zerstörbare Gebäude in einem 4×4-Raster. Verwende einen Blockabstand von 10.4, Blockzentren bei -1.5, -0.5, 0.5 und 1.5 mal diesem Abstand sowie fünf Alleen entlang jeder Achse. Die Plattform ist 52.6 Einheiten breit. Gebäude haben zwei bis fünf Stockwerke, unterschiedliche Grundrisse, Dachdetails, gelegentliche Markisen und kleine Schilder mit HOTEL oder NOODS. Erzeuge das Layout deterministisch aus einem Seed.
+
+Platziere 12 Autos entlang der Straßen und ein garantiert werfbares gelbes Auto nahe der anfänglichen Spielposition. Füge Bäume rund um die Bauflächen und an den Plattformrändern, vier Ecklaternen, Fahrbahnmarkierungen und einen zentralen Übergang hinzu. Starte das Monster auf einer freien Allee bei (0, 0.2, 10.4); verwende für die Startseite eine ruhende Vordergrundposition bei z=20.8.
+
+Derselbe Blockparameter muss dasselbe Gebäudelayout reproduzieren. Wenn er fehlt, leite den Block-Seed aus dem UTC-Datum ab. Ein Beat-Parameter liefert den Zielscore einer befreundeten Person. Behalte den ausgewählten Block bei einem Neustart bei. Zufällige Trümmer müssen nicht deterministisch sein.
+
+## 4. Asset-Inventar
+
+Behalte stabile Asset-IDs bei und trenne visuelle Modelle von Gameplay-Kollisions-Proxys.
+
+- munch: Munch / 阿猛, der standardmäßig ausgewählte grüne Dinosaurier. Bewahre die ursprüngliche runde Schnauze, den cremefarbenen Bauch und die Hörner, die orangefarbenen Rückendornen, die kurzen Arme, die großen Füße und den langen Schwanz. Lade /assets/monster-animated.glb und normiere seine Höhe auf 5.6 Einheiten. Behalte /assets/monster.glb als statischen Fallback bei.
+- bongo: Bongo / 橘拳, ein oranges Spielzeuggorilla mit übergroßen Fäusten und breitem Körper. Lade /assets/bongo-animated.glb und normiere seine Höhe auf 4.5 Einheiten.
+- bolt: Bolt / 蓝电, ein blaues Spielzeugrobotermodell mit kräftigen Gliedmaßen und freundlicher Silhouette. Lade /assets/bolt-animated.glb und normiere seine Höhe auf 4.9 Einheiten.
+- Jeder Charakter besitzt eine passende PNG-Vorschau sowie Idle-, Lauf- und Schlagclips. Bewahre die tatsächlich drei auswählbaren Charaktere bei; beim Wechsel müssen sowohl die Vorschau als auch das im nächsten Durchlauf verwendete Modell aktualisiert werden.
+- city_building: prozedural wiederverwendbare Gebäudegruppen mit separat erfasstem Lebenspunktewert, Collider-Grenzen, Trefferreaktion und Zerstörungsstatus. Dachkanten, Sockel und Markisen gehören zum Kollisionsvolumen.
+- city_car: prozedural wiederverwendbare, werfbare Autos. Halte die Zustände „gehalten“, „in der Luft“ und „zerstört“ getrennt. Drei Autos tragen gelbes Tripo-Branding.
+- city_decor: prozedurale Bäume, Laternen, Gehwege, Schilder und Straßenmarkierungen. Halte dies leichtgewichtig und verwende Geometrien und Materialien wieder.
+- tripo_scenery: eine Dachlogo-Skulptur, zwei Dachschilder, ein Werkstatt-Schaufenster und drei gebrandete Autos. Konstruiere diese aus dem bereitgestellten Tripo-Logo und prozeduralen Meshes. Dies sind Szenendekorationen, keine zusätzlich per API generierten Modelle und keine Gameplay-Power-ups.
+
+Die drei Charaktermodelle haben bei den Tripo-Assets Priorität. Verwende die bereitgestellten generierten und geriggten GLBs wieder, sofern verfügbar. Für einen neuen Charakter generiere ein passendes Modell im Spielzeugstil, prüfe seine Rig-Tauglichkeit, binde es, erstelle Idle-, Lauf- und Schlaganimationen und validiere seine Proportionen, bevor du ihn zum Kader hinzufügst. Rufe keine Generierungs-APIs auf, wenn eine spielende Person eine Runde startet. Das Hochladen von Charakteren und der automatische Import eigener Kreationen sind in dieser Version nicht enthalten.
+
+## 5. Gameplay und Feedback
+
+Unterstütze WASD oder die Pfeiltasten zur Bewegung, die gehaltene Leertaste für wiederholte Krallenangriffe, E zum Greifen eines nahegelegenen Autos und ein weiteres E zum Werfen, R zum Aufstampfen und Escape zum Pausieren. Stelle auf Touchscreens einen virtuellen Joystick sowie separate Schaltflächen für Angriff, Greifen/Werfen und Aufstampfen bereit. Lösche gehaltene Eingaben beim Pausieren oder wenn der Fokus verloren geht.
+
+Verwende diese Regeln:
+
+- Eine Runde dauert 45 Sekunden. Gebäude haben ihre Stockwerkszahl plus einen Lebenspunkt und damit 3–6 Lebenspunkte.
+- Ein Krallentreffer verursacht 1 Schaden bei einem Angriffsintervall von 0.42 Sekunden.
+- Ein Aufstampfen verursacht jedem Gebäude in Reichweite 3 Schaden und hat eine Abklingzeit von 7 Sekunden.
+- Ein geworfenes Auto verursacht Gebäuden in seinem Einschlagsbereich 4 Schaden und gewährt für den Wurfeinschlag 75 Basispunkte.
+- Ein Gebäudetreffer gewährt das 20-Fache des aktuellen Multiplikators. Eine Zerstörung fügt nach Erhöhung der Zerstörungskombo round(180 + Gebäudehöhe × 50) mal den Multiplikator hinzu.
+- Wird innerhalb von 3.5 Sekunden erneut zerstört, wird die Kombo fortgesetzt. Normale Treffer verlängern dieses Zeitfenster nicht. Der Multiplikator ist min(5, 1 + floor(combo / 2)).
+- Werden alle 16 Gebäude geräumt, endet die Runde und gewährt ceil(verbleibende Sekunden) × 100. Andernfalls endet sie bei Ablauf der Zeit; danach dürfen keine weiteren Punkte erzielt werden.
+
+Es gibt keine Gegner, Bosskämpfe, Lebenspunkte für die Spielenden oder Todesstrafen. Die Herausforderung besteht darin, Routen zu wählen, Autos und Aufstampfer effizient einzusetzen und eine Zerstörungskombo aufrechtzuerhalten. Zeige die verbleibende Zeit, den Score, die zerstörten Gebäude, den Multiplikator und die Abklingzeit des Aufstampfers an. Mache nicht verfügbare Aktionen verständlich, ohne die Bewegung zu blockieren. Unterscheide einen Leerschlag durch Sound und visuelles Feedback von einem erfolgreichen Treffer.
+
+Löse Bewegung und Drehung anhand des abgetasteten animierten Footprints jedes Charakters auf, einschließlich Armen und Schwanz. Prüfe gegen die vollständigen Gebäudegrenzen mit einem kleinen Sicherheitsabstand. Das Monster muss aus einer zulässigen Standposition angreifen können. Erlaube die Bewegung durch eine Baufläche, nachdem ihr Gebäude zerstört wurde. Vermeide es, die spielende Person an Ecken einzusperren oder den Schwanz bei einer Drehung durch ein intaktes Gebäude schwenken zu lassen.
+
+Pausiere Timer und Eingaben bei Escape, über die Pausenschaltfläche, bei Fensterfokusverlust und bei ausgeblendeten Tabs. Stelle Abläufe für Fortsetzen, Neustart und Startseite bereit. Beende die Runde mit Score, Zerstörungsanzahl, bester Kombo, einem spielerischen Titel und einem Challenge-Link für dieselbe Karte. Stelle eine herunterladbare Scorecard im Format 1080×1350 bereit und – sofern MediaRecorder unterstützt wird – eine Aufzeichnung der Runde in einem unterstützten MP4- oder WebM-Format. Verwende, sofern verfügbar, natives Teilen und für Challenge-Links einen Fallback über die Zwischenablage. Stelle einen vom Browser berechneten Score niemals als sichere Rangliste für den Wettbewerb dar.
+
+## 6. Technische Umsetzung
+
+Verwende Three.js, TypeScript und Vite mit einem statischen dist-Build. Halte Weltgenerierung, Regeln, Kollision, Charaktere, Rendering, Audio, Aufzeichnung, Analytics und UI in separaten Modulen. Bette Schriftarten und benötigte Decoder-Assets lokal ein. Verwende Instancing für wiederholte Fenster und Straßenmarkierungen und nutze Materialien und Geometrien wieder. Begrenze die Render-Pixelratio auf 1.65. Begrenze temporäre Effekte und gib ihre Ressourcen nach Abschluss oder Zurücksetzen frei.
+
+Verwende GLTFLoader, Skeletal-Animation-Mixer und die bereitgestellten GLB-Clips. Normiere jedes Modell um einen zentrierten Boden-Pivot. Die Referenz-Exporte zeigen in Richtung +X; drehe den visuellen Pivot um -90 Grad um Y, um ihn an die Vorwärtsrichtung +Z des Spiels anzupassen. Werte die Idle-Animation aus, bevor du das geladene Modell anzeigst, und halte die animierten Füße nahe am Boden. Verwende bei einem Ladefehler einen sichtbaren prozeduralen Fallback und kommuniziere den Fehler ehrlich. Sichere die asynchrone Charakterauswahl ab, damit ein älterer Ladevorgang nicht die aktuellste Auswahl ersetzt.
+
+Halte die Kollisionsdaten der Charaktere unabhängig von den Render-Meshes und berechne abgetastete Footprints beim Wechsel des Charakters oder der Animationen neu. Teste sowohl Translation als auch Rotation in Wandnähe. Bewahre stabile Tastatur-/Touch-Eingaben, responsive Dialoge, lokalisierte Texte, Fokusverhalten, stummgeschaltete Audiosteuerung, reduzierte Bewegung und WebGL-Wiederherstellung bei.
+
+Verknüpfe Tripo-Erstellungsaktionen mit https://www.tripo3d.ai/ mit utm_source=monster_block, utm_medium=referral, utm_campaign=monster_block_game und einem platzierungsspezifischen utm_content: header_logo, hero_create, pause_create, result_create oder footer_logo. Öffne diese Aktionen in einem separaten Tab und pausiere das aktive Spiel zuvor. Erkläre, dass Tripo 3D-Assets erstellt; verspreche keinen automatischen Import in dieses Spiel.
+
+Behalte die bestehende Pageview- und PostHog-Event-Integration bei, sofern sie mit den Hosting-Richtlinien vereinbar ist. Verwende im statischen Build ausschließlich öffentliche Browser-Ingestion-Konfiguration. Halte Zugangsdaten für Generierung, CMS, Deployment und persönliche Analytics außerhalb von Quellcode und Build-Artefakten. Erfasse Seitenaufruf, Charakterauswahl, Spielstart, erste Aktionen, Rundenergebnisse, Neustart, Teilen/Export und ausgehende Tripo-Klicks, ohne Klicks als bestätigte Registrierungen oder Zahlungen zu behandeln.
+
+## 7. Abnahmekriterien
+
+Liefere ausführbaren Quellcode, lokale Assets, einen statischen Produktions-Build sowie klare Anweisungen zum Installieren, Starten und Bauen. Verifiziere alle drei Charakterauswahlen, eine vollständige zeitbegrenzte Runde, Gebäudezerstörung, Greifen und Werfen, die Aufstampfer-Abklingzeit, das Ende von Kombos, Pausieren/Fortsetzen, Neustart und die Punktevergabe am Rundenende. Verifiziere, dass der ursprüngliche Dinosaurier auswählbar bleibt und alle drei Charaktere sich in Gebäudenähe bewegen und drehen können, ohne sichtbar einzudringen oder stecken zu bleiben.
+
+Prüfe englische und chinesische Layouts auf Desktop- und schmalen mobilen Bildschirmbreiten, einschließlich gut lesbarer Hilfetexte, Touch-Steuerung, Pausenaktionen und Teilen der Ergebnisse. Verifiziere Tripo-CTA-Ziele und UTM-Platzierungswerte, den Scorecard-Export sowie das Fallback-Verhalten bei der Aufzeichnung. Teste die bereitgestellte Seite und ihre tatsächliche CMS-iFrame-Umgebung auf das Laden von Modellen, Eingaben, externe Links und Downloads. Weise auf Browser- oder Gerätebeschränkungen hin, statt universelle Unterstützung oder eine gemessene stabile Bildrate ohne Belege zu behaupten.
+
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/monster-block) · [Originalbeitrag](https://x.com/abc30037274/status/2100636075039629796) · [Live-Demo](https://monster-block.tripo.page/) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="odd-arms"></a>
+
+### ODD ARMS — Survival-Game mit verrückten Waffen
+
+[Deniffer](https://x.com/lumina__team) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/odd-arms"><img src="../assets/previews/504c296e723fc1d371ab475b1849a547d862e14632b5962ee62c0edc16783749.jpg" width="840" loading="lazy" alt="ODD ARMS — Survival-Game mit verrückten Waffen"></a>
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/odd-arms"><img src="../assets/previews/c091163cb03e4b2e888533cdae55a69d2a2adb5b8d7d511d5dbe9f42b48e477c.jpg" width="840" loading="lazy" alt="ODD ARMS — Survival-Game mit verrückten Waffen"></a>
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/odd-arms"><img src="../assets/previews/8704479f463f4966b9d420060a8fe4ebb55f0f195750cab2cfad225dcb31e52f.jpg" width="840" loading="lazy" alt="ODD ARMS — Survival-Game mit verrückten Waffen"></a>
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/odd-arms"><img src="../assets/previews/846d08bd92f3243dce5a7a5313cd4978c94613e86cabcd0ef2c99c434954f93b.jpg" width="840" loading="lazy" alt="ODD ARMS — Survival-Game mit verrückten Waffen"></a>
+
+Entwickle ein dreiminütiges Three.js-Survival-Game, in dem ein Spielzeugheld mit Bananenklingen, Toastern und Saugglocken auf einer Werkbank gegen Aufziehmonster kämpft. Spieler können in Tripo Studio ihren eigenen Helden oder ihre eigene Waffe erstellen, die GLB-Datei importieren und direkt losspielen.
+
+**Prompt**
+
+```text
+# ODD ARMS — Deine Idee. Dein Held.
+
+## 1. Ziel
+Die gesamte Spieloberfläche bleibt auf Englisch (Japanisch kann optional über einen Sprachumschalter hinzugefügt werden).
+Entwickle ein vollständiges dreiminütiges Browser-Survival-Game im Genre „Auto-Attack-Horde“: Der Spieler wählt einen Held im Spielzeugformat und zwei wunderbar verrückte Waffen und überlebt 180 Sekunden lang Monsterschwärme auf der Werkbank eines Bastlers. Die Waffen greifen automatisch an; der Spieler bewegt sich nur, führt Dashes aus, sammelt Kristalle, wählt Upgrades und feuert eine aufgeladene Nova. Der persönliche Clou: Spieler können in Tripo ihren eigenen Helden oder ihre eigene Waffe erstellen, die GLB-Datei herunterladen und ins Spiel einfügen. Verwende https://odd-arms.tripo.page/ und die bereitgestellten Referenzen für das fertige Ergebnis. Nenne Deniffer unter https://x.com/lumina__team.
+
+## 2. Visuelle Ausrichtung
+Inszeniere das Spiel als Miniatur-Spielzeugdiorama aus einer festen schrägen Top-down-Kamera, die dem Helden folgt. Das Spielfeld ist eine dunkelmarineblaue Schneidematte mit dezentem Raster und aufgedruckten „ODD ARMS“-Markierungen in den Ecken, die auf einem warmen Holztisch liegt. Der Tischrand ist mit übergroßen Bastelutensilien vollgestellt (Garnrollen, verzierte Schachteln mit Messingrosetten, eine Werkzeugrolle aus Leder, eine Messing-Schreibtischlampe, eine hölzerne Spielzeugeisenbahn und Spielzeugteile), damit die Arena wie eine echte Tischplatte wirkt. Verwende warmes Hauptlicht von der Seite der Lampe, weiches Umgebungslicht, Kontaktschatten und ein dezentes Bloom. Die Figuren sind glänzend, klobig und im Stil von Sammelfiguren gehalten, mit gesättigten Farben.
+
+UI: cremeweiße Karten mit abgerundeten Ecken, marineblauer Schrift und korallorangefarbenem Akzent; eine fette, schmale Display-Schrift für Überschriften („LET'S MAKE SOME TROUBLE.“) und eine klare schmale Sans-Serif-Schrift für Fließtext. Im Kampf: Lebenspunktekarte oben links, darunter der Streak-Zähler, „SURVIVE THE WEIRD“ als Countdown oben in der Mitte, Wellenbezeichnung sowie Sound, Einstellungen und Pause oben rechts, die Zahl besiegter Gegner rechts, Level-/XP-Pill unten in der Mitte, drei Waffen-Chips (Orbit / Returning / Shooter mit Leveln) unten links, Steuerung und Dash-Abklingzeit unten rechts sowie die „Q NOVA READY!“-Pill darüber. Feedback: Schadenszahlen, kritische Treffer, Squash-and-Stretch bei Gegnern, Rückstoß, Partikel-Pop-Effekte und ein leichtes Kamerawackeln (Wackeln deaktivieren, wenn prefers-reduced-motion gesetzt ist).
+
+## 3. Welt
+Eine quadratische Arena; der Held wird auf beiden Achsen auf ±23 Einheiten begrenzt. Die Schneidematte füllt das Spielfeld, während Tisch und Requisiten außerhalb der Begrenzung nur als Kulisse dienen (keine Kollision). Die Arena startet leer und füllt sich von den Rändern: Gegner erscheinen auf einem Ring in 12–16 Einheiten Entfernung zum Helden (im ersten Sekunden 8–11) und laufen direkt auf ihn zu. Alle 22 Sekunden erzeugt eine Welle einen vollständigen Kreis aus Gegnern im Radius 13. Rote Warnkreise erscheinen unter der aktuellen Position des Helden (der erste nach 28 s, danach alle max(4.4, 9 − t/50) s) und explodieren nach 2 s.
+
+## 4. Asset-Inventar
+Bereite stabile Modell-Slots vor. Jeder Slot muss eine einzelne GLB-Datei laden, zentriert werden, automatisch auf eine Zielhöhe skaliert werden und bei einem Ladefehler auf einen einfachen Platzhalter zurückfallen.
+
+Helden (10, `hero:<id>`), jeweils als klobige Spielfigur mit unverwechselbarer Silhouette:
+- `cat` Astro Cat — orangefarbener Tabby im weißen Raumanzug mit Glashelm. HP 100, Geschwindigkeit 6.8, Magnet ×1.35, Dash-Abklingzeit 2.4 s.
+- `frog` Frog Fighter — grüner Frosch mit roten Boxhandschuhen. HP 130, Geschwindigkeit 6.8, Dash-Schaden 135.
+- `shroom` Mushroom Hero — Pilz mit rotem Hut und kleinem Umhang. HP 90, Geschwindigkeit 7.6, Dash 1.8 s.
+- `capybara` Chill Capybara — entspanntes Capybara aus einer heißen Quelle. HP 160, Geschwindigkeit 5.8, Magnet ×1.15, Dash 3 s, Dash-Schaden 110.
+- `ramen` Ramen Ronin — Samurai mit einer dampfenden Ramen-Schüssel. HP 105, Geschwindigkeit 7.2, Dash 2.2 s, Dash-Schaden 120.
+- `penguin` Office Penguin — Pinguin mit Hemd und Krawatte. HP 80, Geschwindigkeit 7.1, Dash 1.5 s, Dash-Schaden 75.
+- `axolotl` Axolotl — rosa Axolotl auf Entdeckungstour. HP 85, Geschwindigkeit 7.3, Magnet ×1.6, Dash-Schaden 75.
+- `avocado` Avo Boxer — Avocado-Boxer mit einem Kern als Körpermitte. HP 120, Geschwindigkeit 6.4, Dash 2.1 s, Dash-Schaden 130.
+- `robot` Clockwork Bot — Aufziehroboter aus Blech mit Schlüssel. HP 115, Geschwindigkeit 6.2, Dash 2.8 s, Dash-Schaden 165.
+- `snail` Snail Knight — ritterliche Schnecke mit einem hausgroßen Schneckenhaus. HP 190, Geschwindigkeit 5.2, Magnet ×1.2, Dash 3.2 s, Dash-Schaden 120.
+Der Standardschaden des Dashes beträgt 90, sofern kein anderer Wert angegeben ist.
+
+Waffen (12, `weapon:<id>`), nach Angriffsslot gruppiert:
+- Orbit: `sardine` Sardine Chainsaw (3 Fische, Radius 2.9, Schaden 1, Geschwindigkeit 1.2); `cactus` Cactus Club (2 Keulen, Radius 3.3, Schaden 1.65, Geschwindigkeit 0.78, Trefferradius 1.25, Rückstoß 1.5); `plunger` Plunger Patrol (4 Saugglocken, Radius 2.25, Schaden 0.85, Geschwindigkeit 1.5).
+- Returning: `banana` Banana Blades (2, Schaden 1, Geschwindigkeit 1.25); `pizza` Pizza Cutter (1 große Scheibe, Schaden 1.5, Geschwindigkeit 0.82, Trefferradius 1.65); `croissant` Croissant Blades (3, Schaden 0.75, Geschwindigkeit 1.45); `boomerang` Boomerang (1, Schaden 1.15, Geschwindigkeit 1.6); `donut-disc` Donut Disc (1, Schaden 1.5, Geschwindigkeit 0.9, Trefferradius 1.3).
+- Shooter: `duck` Duck Rocket (zielsuchend, Flächenschaden 2, Intervall 0.42 s); `toaster` Angry Toaster (durchdringender Fächer aus 3 Schüssen, Schaden 0.7); `teapot` Raging Teapot (2 langsame Schüsse, Flächenschaden 2.8, Intervall 0.8 s); `bubble-gun` Bubble Gun (2 durchdringende Blasen, Schaden 0.45, Intervall 0.3 s).
+Standardausrüstung: Astro Cat, Banana Blades, Angry Toaster; die Orbit-Waffe wird beim ersten Upgrade freigeschaltet.
+
+Gegner (3, `enemy:<id>`), Aufziehspielzeug-Monster: `red-chomper` (rotes, rundes Beißspielzeug, Standard, 30 HP Basiswert, Geschwindigkeit 2.35), `spring-rabbit` (gelbes Kaninchen mit Sprungbeinen, schnell, 23 HP Basiswert, Geschwindigkeit 3.5), `crown-bear` (großer Flickenteppich-Bär mit Krone, Tank, 130 HP Basiswert, Geschwindigkeit 1.7, erscheint nach 60 s mit 17 %, lässt 3 XP fallen).
+
+Szenenrequisiten (`prop:<id>`): Werkbank, Rahmen und Eckplatten der Schneidematte, Schreibtischlampe, Spielzeugeisenbahn, Garnrollen, verzierte Rosettenschachteln, Werkzeugrolle, Schale mit Spielzeugteilen. Matte, Raster, Kristalle, Projektile, Warnkreise, Partikel, Lichter und UI bleiben prozedural.
+
+## 5. Gameplay und Feedback
+Ablauf: Charakter → Ausrüstung (eine Returning- plus eine Shooter-Waffe) → Bereit (3D-Drehteller-Vorschau des Helden mit den gewählten Waffen, per Drag drehen) → „Let's play“. Jeder Onboarding-Schritt zeigt nur die jeweilige Kategorie sowie Beschreibung, Spielstil und Schwächen. Die letzte Ausrüstung wird gespeichert.
+
+Steuerung: WASD/Pfeiltasten zum Bewegen; mit der Leertaste wird in Bewegungsrichtung gedasht (Geschwindigkeit ×3.7, kurzzeitige Unverwundbarkeit, fügt Gegnern innerhalb von 2 Einheiten einmal pro Dash Schaden zu); Q feuert eine Nova, sobald die Energie 100 erreicht (Radius 11, 200 Schaden, starker Rückstoß, zieht Kristalle an); mit 1/2/3 oder per Klick Upgrades auswählen; Esc pausiert; bei Verlust des Fensterfokus automatisch pausieren. Mobil: linker virtueller Analog-Stick, rechts Dash- und Nova-Schaltflächen mit Ringen für Abklingzeit bzw. Aufladung, Multitouch für die gleichzeitige Nutzung von Stick und Schaltflächen; Upgrades befinden sich im Hochformat über dem Stick und im Querformat zwischen den Daumen.
+
+Regeln: Gegner-HP = Basiswert × (1 + t/260) × 1.3. Spawn-Intervall max(0.18, 0.52 − 0.0016·t) s, maximal 180 Gegner. Kontakt-Schaden 9 (18 beim Bären), nach einem Treffer 0.85 s Unverwundbarkeit. Jeder Kill gibt 2 Energie und lässt einen Kristall fallen; jeder neunte Treffer pro Waffe ist ein kritischer Treffer mit ×1.7. Eine 25-Kill-Serie löst 5 s Raserei aus (Angriffsgeschwindigkeit ×1.65, 13 s Abklingzeit); erlittenen Schaden setzt die Serie zurück. XP bis zum nächsten Level: 20, danach round(need × 1.4 + 10). Levelaufstiege pausieren das Spiel nie, sondern werden als nicht blockierende Auswahlkarten in eine Warteschlange gestellt. Das erste Upgrade bietet die drei Orbit-Waffen; danach werden drei dieser Optionen angeboten: Orbit overload (+1 Orbiter bis maximal 7, +22 % Schaden), Another round (schnellere, längere und stärkere Rückkehr), Full blast (schnelleres Feuern, +20 % Schaden, mehr Projektile), Live a little (+10 % Geschwindigkeit, +30 HP). Jede Auswahl heilt 8 HP.
+
+Ende: 180 s überleben → „Beautifully weird. You made it.“; HP 0 → „That was a glorious mess.“ Beide Ergebnisse zeigen die Zahl besiegter Gegner, die beste Kill-Serie und die Überlebenszeit sowie „Run it back“ / „Change loadout“ und den Prompt zum Erstellen eigener Inhalte.
+
+Mach es zu deinem Spiel: Über die Ausrüstungs-, Pausen- und Ergebnisbildschirme öffnet „Create my hero / weapon in Tripo“ https://studio.tripo3d.ai/ in einem neuen Tab; „Import GLB“ lädt eine lokale .glb-Datei (≤15 MB, nur eingebettete Texturen, Parsing im Browser, niemals Upload), zentriert und skaliert sie und ersetzt nur das Aussehen des ausgewählten Helden oder der ausgewählten Waffe, während die Werte erhalten bleiben. Zeige klare Fehlermeldungen für ungültige Dateien und behalte das Originalmodell bei.
+
+Modelle vergleichen: Ein Header-Umschalter „Tripo3D ⇄ Simple3D (Blender)“ ersetzt jeden Helden, jede Waffe, jeden Gegner und jedes Requisit durch ein passendes Set einfacher Grundformen, ohne den Lauf zurückzusetzen. Lade das gesamte alternative Set vor dem Wechsel; schlägt eine Datei fehl, bleibt das aktuelle Set erhalten.
+
+## 6. Technische Umsetzung
+Vite + Vanilla-JavaScript + Three.js mit GLTFLoader, RoomEnvironment-Beleuchtung und ACES-Tonemapping. Halte die Simulation in einem reinen Modul mit fester Zeitschrittweite und injizierbarer Zufallsquelle, damit vollständige Läufe in Tests simuliert werden können; der Renderer liest ausschließlich den Zustand. Jede GLB-Datei einmal cachen und für Instanzen klonen; für wiederholte Ornamente Instancing oder LODs verwenden. Pixelverhältnis begrenzen (1.5 auf Mobilgeräten, bei dichten Wellen auf 1 reduzieren), Schatten höchstens 30-mal pro Sekunde aktualisieren und HUD-Text nur bei Wertänderungen aktualisieren. Kollisionen (einfache Kreise) von visuellen Meshes trennen. Schriften, Modelle und Texturen same-origin bündeln, damit der Build ein statischer Ordner ist. Desktop- und Smartphone-Browser ab 320 px Breite unterstützen, einschließlich Smartphones im Querformat und Safe Areas. Die Modellkomplexität soll der Darstellung auf dem Bildschirm folgen; kein festes Polygonlimit.
+
+## 7. Fertig, wenn
+- Der vollständige Ablauf funktioniert: Onboarding, Kampf bis zum Sieg und bis zur Niederlage, Pausieren/Fortsetzen, Neustart mit derselben Ausrüstung und Ausrüstung wechseln.
+- Alle 10 Helden und 12 Waffen werden geladen und verhalten sich gemäß den oben genannten Werten; ein 180-s-Lauf mit jeder Ausrüstung endet ohne Fehler.
+- Tastatur- und Touch-Steuerung funktionieren, einschließlich der gleichzeitigen Nutzung von Analog-Stick und Dash.
+- Der GLB-Import ersetzt das Aussehen des ausgewählten Helden oder der ausgewählten Waffe und weist fehlerhafte Dateien ordnungsgemäß zurück.
+- Der Tripo3D-/Simple3D-Umschalter ersetzt während des Laufs alle Modelle.
+- Start-, Kampf- und Ergebnisbildschirme entsprechen den Referenzen; liefere den ausführbaren Quellcode, den Startbefehl und einen statischen Production-Build.
+
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/odd-arms) · [Originalbeitrag](https://odd-arms.tripo.page/) · [Live-Demo](https://odd-arms.tripo.page/) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="akari-nagoya-rooftop-flame-relay"></a>
 
 ### AKARI: Flammenstaffel auf den Dächern von Nagoya
@@ -3882,24 +4073,6 @@ Erstelle eine spielbare 3D-Schatzsuche an einem Strand in Unity. Modelliere Low-
 
 ---
 
-<a id="2096560142871658589"></a>
-
-### Blender-Modelle mit Unity-VFX
-
-[ねぎぽよし](https://x.com/CST_negi) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/blender-models-with-unity-vfx-2096560142871658589"><img src="../assets/previews/d13ca069743cb65e0501484737d96a1fbde81927026e9b8837b149ece9b0693d.webp" width="840" loading="lazy" alt="Blender-Modelle mit Unity-VFX"></a>
-
-**Prompt**
-
-```text
-Erstelle die Szenenmodelle in Blender und importiere sie in Unity. Ergänze Effekte mit VFX Graph und beleuchte die Szene so, dass Modelle und Effekte zusammen klar erkennbar bleiben.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/blender-models-with-unity-vfx-2096560142871658589) · [Originalbeitrag](https://x.com/CST_negi/status/2096560142871658589) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
 <a id="2096572429066006845"></a>
 
 ### Indischer Mangobaum in SpeedTree
@@ -3972,28 +4145,10 @@ Visualisiere zwei Bahnen des Lorenz-Systems mit einem winzigen Unterschied in de
 
 ---
 
-<a id="2096559197999501724"></a>
-
-### Ein 2D-Logo wird zur animierten Figur
-
-[Anthony Riera](https://x.com/anthonyriera) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724"><img src="../assets/previews/8dcd8f7d1406525c0a56e16bf3bc2591fb0191c1e4226f74cc364b4daa841efd.webp" width="840" loading="lazy" alt="Ein 2D-Logo wird zur animierten Figur"></a>
-
-**Prompt**
-
-```text
-Verwandle das bereitgestellte 2D-Figurenlogo in eine animierte 3D-Version. Bewahre seine wiedererkennbare Identität, während die Figur Volumen und Bewegung erhält.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724) · [Originalbeitrag](https://x.com/anthonyriera/status/2096559197999501724) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 248 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 250 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>

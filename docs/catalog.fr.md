@@ -26,7 +26,7 @@
 **Un point de départ pour votre prochain jeu, scène ou monde interactif.**
 
 
-**248 · Derniers prompts Astra**
+**250 · Derniers prompts Astra**
 
 ## Projets à découvrir
 
@@ -132,6 +132,8 @@
 - [Créer un jeu de course en 3D](#2100526922770026874)
 - [Jeu 3D d’évasion dans un navigateur : fuyez un centre de recherche fermé](#2100595652703199281)
 - [Concevoir elle-même un corps en CAO](#2100614534423540102)
+- [Monster Block — 45 secondes pour ravager la ville](#2100636075039629796)
+- [ODD ARMS — Jeu de survie aux armes improbables](#odd-arms)
 - [AKARI : Relais de la flamme sur les toits de Nagoya](#akari-nagoya-rooftop-flame-relay)
 - [L’île du Cyclope](#cyclops-island-threejs-game)
 - [Plateau de shogi 3D pivotant](#2096579856133947507)
@@ -142,12 +144,10 @@
 - [Locomotive à vapeur à travers la campagne](#2096577430274429157)
 - [Platine vinyle sur une table](#2096561346766877106)
 - [Chasse au trésor sur une plage low poly](#2096570815714414844)
-- [Modèles Blender et effets visuels Unity](#2096560142871658589)
 - [Manguier indien dans SpeedTree](#2096572429066006845)
 - [Texturer et rigger un personnage Tripo](#2096566598689783878)
 - [Du croquis d’un appartement aux rendus intérieurs](#2096566686266597754)
 - [Attracteur de Lorenz interactif](#2096572156453028193)
-- [Un logo 2D devient un personnage animé](#2096559197999501724)
 
 </details>
 
@@ -291,7 +291,7 @@ Utilisez une géométrie anatomique réelle lorsque celle-ci est disponible, cit
 
 ### Démo de graphismes fantasy en vue isométrique
 
-[github.com](https://github.com/) · 2026-09-16
+[Anshu Chimala](https://x.com/anshuc) · 2026-09-16
 
 <a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2100271998618177864"><img src="../assets/previews/851c2340f464e95b33eb0dd10894129a620b694b37838698fe011988fadf0d3e.jpg" width="840" loading="lazy" alt="Démo de graphismes fantasy en vue isométrique"></a>
 
@@ -3623,6 +3623,197 @@ J’ai demandé à Astra de concevoir elle-même un corps en CAO.
 
 ---
 
+<a id="2100636075039629796"></a>
+
+### Monster Block — 45 secondes pour ravager la ville
+
+[Tony](https://x.com/abc30037274) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/monster-block"><img src="../assets/previews/cf99748892e20dab0f4b75e589ab2736b3ff213c336367312e89b45c6d8b2c2e.png" width="840" loading="lazy" alt="Monster Block — 45 secondes pour ravager la ville"></a>
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/monster-block"><img src="../assets/previews/ae9bdb662df6fe31c53b0f7387ee374bfd839d3f923863eed3dd4cf5d3c508ef.png" width="840" loading="lazy" alt="Monster Block — 45 secondes pour ravager la ville"></a>
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/monster-block"><img src="../assets/previews/45348d508ea595bf8fc58d93e46dd978759af15a75eff0c2b2177355e96dd180.png" width="840" loading="lazy" alt="Monster Block — 45 secondes pour ravager la ville"></a>
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/monster-block"><img src="../assets/previews/a2b60fa4a189833c1c0949ebb00a76b5545a66b52b4bb0e945b7d55c272dbe25.png" width="840" loading="lazy" alt="Monster Block — 45 secondes pour ravager la ville"></a>
+
+Choisissez Munch, le petit kaiju, Bongo, le gorille, ou Bolt, le robot. Détruisez des bâtiments, lancez des voitures et enchaînez les combos dans une ville 3D à ravager en 45 secondes. Les trois personnages animés ont été créés avec Tripo.
+
+**Prompt**
+
+```text
+# Monster Block — spécification de reconstruction
+
+## 1. Objectif du projet
+
+Créer un jeu de navigateur jouable intitulé Monster Block. Permettre au joueur de choisir un monstre-jouet, d'entrer dans une ville miniature et de détruire autant de bâtiments que possible en 45 secondes. Les déplacements, les coups de griffe contre les bâtiments, les lancers de voitures et les démolitions en chaîne doivent produire un retour immédiat. Terminer avec un score, un titre, une action permettant de rejouer et un lien de défi permettant à un ami de jouer sur le même bloc. Proposer des interfaces en anglais et en chinois simplifié, ainsi que des commandes au clavier et tactiles.
+
+## 2. Style visuel
+
+Créer un diorama chaleureux posé sur une table, sur une plateforme carrée épaisse, devant un arrière-plan crème. Utiliser des bâtiments pastel peu détaillés, de petites fenêtres bleu sarcelle foncé, des rebords de toit clairs, de larges routes vert-gris désaturé, des passages piétons, des arbres arrondis, de petites voitures et des ombres douces et chaudes. La palette des bâtiments comprend terre cuite, moutarde, bleu sarcelle poussiéreux, rose, bleu-gris, crème et vert sauge. Les matériaux doivent évoquer des jouets peints mats plutôt que du métal brillant.
+
+Utiliser une caméra en perspective plongeante à trois quarts, et non une caméra en vue zénithale plate. La caméra de référence commence en (35, 37, 41), regarde vers (0, 0.4, 0) et utilise un champ de vision de 38 degrés sur les écrans larges, 44 degrés sur les écrans intermédiaires et 51 degrés sur les écrans étroits. Pendant la partie, suivre le monstre de manière fluide tout en gardant les cibles proches visibles. Éclairer la scène avec une lumière hémisphérique chaude, une lumière directionnelle douce projetant des ombres et une lumière de remplissage froide.
+
+Utiliser une typographie d'affichage condensée et grasse pour les grands titres en anglais, ainsi qu'une police sans empattement lisible pour les instructions. Associer un texte vert foncé, des surfaces crème, des actions de jeu orange et des actions de création Tripo jaunes. Sur la page d'accueil, donner la même importance à Jouer et à Créer avec Tripo. Dans la boîte de dialogue de pause, placer une carte Tripo vert foncé avec trois vignettes de personnages et un bouton de création jaune au-dessus du bouton Reprendre, doté d'un contour. Veiller à ce que le texte d'aide reste confortablement lisible sur les téléphones.
+
+Utiliser des effets courts déclenchés par les entrées : coups de griffe, bref recul des bâtiments, impacts distincts pour les coups et les démolitions, anneaux de piétinement qui s'élargissent, petits nuages de débris, pop-ups de score, changements de combo et léger mouvement directionnel de la caméra. Soulever une voiture saisie jusqu'à la main en environ 220 ms. Respecter les préférences de réduction des animations en supprimant les secousses, les nuages de débris et la mise à l'échelle de l'interface, tout en conservant les scores, les indications de cible et les résultats de destruction.
+
+## 3. Monde et scène
+
+Placer 16 bâtiments destructibles dans une grille de 4 × 4. Utiliser un espacement de blocs de 10.4, avec des centres de blocs situés à -1.5, -0.5, 0.5 et 1.5 fois cet espacement, et cinq avenues sur chaque axe. La plateforme mesure 52.6 unités de large. Les bâtiments comportent de deux à cinq étages, des emprises variées, des détails de toiture, des auvents occasionnels et de petites enseignes HOTEL ou NOODS. Générer la disposition de manière déterministe à partir d'une seed.
+
+Placer 12 voitures le long des routes et garantir la présence d'une voiture jaune lançable près de la position de départ. Ajouter des arbres autour des parcelles bâties et des bords de la plateforme, quatre lampadaires dans les angles, des marquages au sol et un passage central. Faire commencer le monstre dans une avenue dégagée en (0, 0.2, 10.4) ; utiliser une position d'attente au premier plan à z=20.8 pour la page d'accueil.
+
+Le même paramètre de bloc doit reproduire la même disposition de bâtiments. Lorsqu'il est absent, dériver la seed du bloc à partir de la date UTC. Un paramètre beat fournit le score cible d'un ami. Conserver le bloc sélectionné en cas de nouvelle tentative. Les débris aléatoires n'ont pas besoin d'être déterministes.
+
+## 4. Inventaire des assets
+
+Conserver des identifiants d'assets stables et séparer les modèles visuels des proxies de collision du gameplay.
+
+- munch : Munch / 阿猛, le dinosaure vert par défaut. Conserver son museau arrondi d'origine, son ventre crème et ses cornes, ses épines dorsales orange, ses bras courts, ses grands pieds et sa longue queue. Charger /assets/monster-animated.glb et normaliser sa hauteur à 5.6 unités. Conserver /assets/monster.glb comme solution de secours statique.
+- bongo : Bongo / 橘拳, un gorille-jouet orange aux poings surdimensionnés et au corps large. Charger /assets/bongo-animated.glb et normaliser sa hauteur à 4.5 unités.
+- bolt : Bolt / 蓝电, un robot-jouet bleu aux membres massifs et à la silhouette sympathique. Charger /assets/bolt-animated.glb et normaliser sa hauteur à 4.9 unités.
+- Chaque personnage possède un PNG d'aperçu correspondant ainsi que des clips d'animation d'attente, de course et de coup de griffe. Conserver les trois personnages réellement sélectionnables ; le changement doit mettre à jour à la fois l'aperçu et le modèle utilisé lors de la manche suivante.
+- city_building : groupes de bâtiments procéduraux réutilisables, avec santé, limites du collider, recul lors des impacts et état de démolition suivis séparément. Les rebords de toit, les bases et les auvents font partie du volume de collision.
+- city_car : voitures lançables procédurales réutilisables. Séparer les états tenu, en vol et détruit. Trois voitures portent la marque Tripo jaune.
+- city_decor : arbres, lampadaires, trottoirs, enseignes et marquages routiers procéduraux. Garder cet ensemble léger et réutiliser la géométrie et les matériaux.
+- tripo_scenery : une sculpture de logo sur un toit, deux enseignes sur les toits, une devanture d'atelier et trois voitures marquées. Construire ces éléments à partir du logo Tripo fourni et de maillages procéduraux. Il s'agit de décorations de scène, pas de modèles supplémentaires générés par API ni de bonus de gameplay.
+
+Les trois modèles de personnages sont les assets Tripo prioritaires. Réutiliser les GLB générés et riggés fournis lorsqu'ils sont disponibles. Pour un nouveau personnage, générer un modèle de style jouet assorti, vérifier qu'il convient au rigging, le binder, créer les animations d'attente, de course et de coup de griffe, puis valider ses proportions avant de l'ajouter à la sélection. Ne pas appeler les API de génération lorsqu'un joueur commence une manche. L'import de personnages et l'import automatique des créations personnelles d'un joueur ne font pas partie de cette version.
+
+## 5. Gameplay et feedback
+
+Prendre en charge les touches WASD ou les flèches pour les déplacements, la barre Espace maintenue pour les attaques de griffe répétées, E pour saisir une voiture proche puis E à nouveau pour la lancer, R pour piétiner et Échap pour mettre en pause. Fournir un joystick virtuel et des boutons distincts pour l'attaque, la saisie/le lancer et le piétinement sur les écrans tactiles. Effacer les entrées maintenues lors de la mise en pause ou de la perte de focus.
+
+Appliquer les règles suivantes :
+
+- Une manche dure 45 secondes. Les bâtiments ont un nombre de niveaux plus un point de santé, soit 3 à 6 points de santé.
+- Un coup de griffe inflige 1 point de dégâts, avec un intervalle d'attaque de 0.42 seconde.
+- Un piétinement inflige 3 points de dégâts à chaque bâtiment à portée et possède un temps de recharge de 7 secondes.
+- Une voiture lancée inflige 4 points de dégâts aux bâtiments dans sa zone d'impact et rapporte 75 points de base pour l'impact du lancer.
+- Un impact sur un bâtiment rapporte 20 fois le multiplicateur actuel. Une démolition ajoute round(180 + hauteur du bâtiment × 50) fois le multiplicateur après l'incrémentation du combo de démolition.
+- Une nouvelle démolition dans les 3.5 secondes poursuit le combo. Les coups ordinaires ne prolongent pas cette fenêtre. Le multiplicateur vaut min(5, 1 + floor(combo / 2)).
+- La destruction des 16 bâtiments met fin à la manche et rapporte ceil(secondes restantes) × 100. Sinon, la manche se termine lorsque le temps atteint zéro et tout score supplémentaire est empêché.
+
+Il n'y a ni ennemis, ni combats de boss, ni santé du joueur, ni pénalité de mort. Le défi consiste à choisir ses itinéraires, à utiliser efficacement les voitures et les piétinements et à maintenir un combo de démolition. Afficher le temps restant, le score, le nombre de bâtiments détruits, le multiplicateur et le temps de recharge du piétinement. Rendre les actions indisponibles compréhensibles sans bloquer les déplacements. Distinguer un coup dans le vide d'un impact réussi grâce aux retours sonores et visuels.
+
+Résoudre les déplacements et la rotation en fonction de l'empreinte animée échantillonnée de chaque personnage, bras et queue compris. Effectuer les vérifications par rapport aux limites complètes des bâtiments, avec une petite marge de sécurité. Le monstre doit pouvoir attaquer depuis une position debout autorisée. Autoriser le déplacement sur une parcelle après la démolition de son bâtiment. Éviter de coincer le joueur dans les angles et empêcher la rotation de la queue de traverser un bâtiment intact.
+
+Mettre en pause le chronomètre et les entrées avec Échap, le bouton de pause, la perte de focus de la fenêtre et les onglets masqués. Proposer les parcours Reprendre, Réessayer et Accueil. Terminer avec le score, le nombre de démolitions, le meilleur combo, un titre amusant et un lien de défi sur la même carte. Fournir une carte de score téléchargeable de 1080 × 1350 et, lorsque MediaRecorder est pris en charge, un enregistrement de la manche au format MP4 ou WebM pris en charge. Utiliser le partage natif lorsqu'il est disponible et un fallback vers le presse-papiers pour les liens de défi. Ne jamais présenter un score calculé par le navigateur comme un classement compétitif sécurisé.
+
+## 6. Implémentation technique
+
+Utiliser Three.js, TypeScript et Vite avec un build statique dist. Séparer la génération du monde, les règles, les collisions, les personnages, le rendu, l'audio, l'enregistrement, l'analytique et l'interface dans des modules distincts. Fournir localement les polices et les assets de décodeurs requis. Utiliser l'instanciation pour les fenêtres et marquages routiers répétés, et réutiliser les matériaux et la géométrie. Limiter le ratio de pixels de rendu à 1.65. Borner les effets temporaires et libérer leurs ressources à la fin ou lors de la réinitialisation.
+
+Utiliser GLTFLoader, des mixers d'animation squelettique et les clips GLB fournis. Normaliser chaque modèle autour d'un pivot au sol centré. Les exports de référence sont orientés vers +X ; faire pivoter le pivot visuel de -90 degrés autour de Y pour l'aligner sur la direction avant +Z du jeu. Évaluer l'animation d'attente avant d'afficher le modèle chargé et maintenir les pieds animés près du sol. Afficher un fallback procédural visible en cas d'échec du chargement ; signaler honnêtement cet échec. Sécuriser la sélection asynchrone des personnages afin qu'un ancien chargement ne puisse pas remplacer la sélection la plus récente.
+
+Conserver les données de collision des personnages indépendantes des maillages de rendu et recalculer les empreintes échantillonnées lors du changement de personnage ou d'animation. Tester les translations et les rotations près des murs. Préserver la stabilité des entrées clavier/tactiles, des boîtes de dialogue réactives, des textes localisés, du comportement du focus, des commandes audio muet, de la réduction des animations et de la récupération WebGL.
+
+Relier les actions de création Tripo à https://www.tripo3d.ai/ avec utm_source=monster_block, utm_medium=referral, utm_campaign=monster_block_game et un utm_content propre à l'emplacement : header_logo, hero_create, pause_create, result_create ou footer_logo. Ouvrir ces actions dans un onglet séparé et mettre d'abord la partie active en pause. Expliquer que Tripo crée des assets 3D ; ne pas promettre leur import automatique dans ce jeu.
+
+Conserver l'intégration existante de Pageview et PostHog lorsqu'elle est autorisée par la politique d'hébergement. Utiliser uniquement une configuration d'ingestion publique côté navigateur dans le build statique. Garder les identifiants d'accès à la génération, au CMS, au déploiement et aux données analytiques personnelles en dehors du code source et des artefacts de build. Enregistrer l'arrivée sur la page, la sélection du personnage, le lancement d'une partie, les premières actions, les résultats de la manche, les nouvelles tentatives, le partage/l'export et les clics sortants vers Tripo, sans considérer les clics comme des inscriptions ou des paiements vérifiés.
+
+## 7. Critères de validation
+
+Livrer le code source exécutable, les assets locaux, un build statique de production et des instructions claires d'installation, de démarrage et de build. Vérifier les trois sélections de personnages, une manche chronométrée complète, la destruction des bâtiments, la saisie et le lancer de voitures, le temps de recharge du piétinement, l'expiration des combos, la pause/reprise, la nouvelle tentative et le calcul du score de fin de manche. Vérifier que le dinosaure d'origine reste sélectionnable et que les trois personnages peuvent se déplacer et tourner près des bâtiments sans pénétration visible ni blocage.
+
+Vérifier les mises en page anglaise et chinoise sur ordinateur et sur des écrans mobiles étroits, notamment la lisibilité du texte d'aide, les commandes tactiles, les actions de pause et le partage des résultats. Vérifier les destinations des CTA Tripo et les valeurs de placement UTM, l'export de la carte de score et le comportement du fallback d'enregistrement. Tester la page déployée et son environnement réel d'iframe CMS pour le chargement des modèles, les entrées, les liens externes et les téléchargements. Signaler les limites liées aux navigateurs ou aux appareils au lieu de revendiquer une prise en charge universelle ou une fréquence d'images stable mesurée sans preuve.
+
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/monster-block) · [Publication originale](https://x.com/abc30037274/status/2100636075039629796) · [Démo](https://monster-block.tripo.page/) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="odd-arms"></a>
+
+### ODD ARMS — Jeu de survie aux armes improbables
+
+[Deniffer](https://x.com/lumina__team) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/odd-arms"><img src="../assets/previews/504c296e723fc1d371ab475b1849a547d862e14632b5962ee62c0edc16783749.jpg" width="840" loading="lazy" alt="ODD ARMS — Jeu de survie aux armes improbables"></a>
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/odd-arms"><img src="../assets/previews/c091163cb03e4b2e888533cdae55a69d2a2adb5b8d7d511d5dbe9f42b48e477c.jpg" width="840" loading="lazy" alt="ODD ARMS — Jeu de survie aux armes improbables"></a>
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/odd-arms"><img src="../assets/previews/8704479f463f4966b9d420060a8fe4ebb55f0f195750cab2cfad225dcb31e52f.jpg" width="840" loading="lazy" alt="ODD ARMS — Jeu de survie aux armes improbables"></a>
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/odd-arms"><img src="../assets/previews/846d08bd92f3243dce5a7a5313cd4978c94613e86cabcd0ef2c99c434954f93b.jpg" width="840" loading="lazy" alt="ODD ARMS — Jeu de survie aux armes improbables"></a>
+
+Créez un jeu de survie Three.js de trois minutes dans lequel un héros-jouet armé de lames-banane, de grille-pains et de ventouses affronte des monstres à remontoir sur un établi. Les joueurs peuvent créer leur propre héros ou arme dans Tripo Studio, puis importer le GLB pour jouer.
+
+**Prompt**
+
+```text
+# ODD ARMS — Votre idée. Votre héros.
+
+## 1. Objectif
+Conservez toute l’interface du jeu en anglais (ajoutez le japonais comme langue facultative).
+Créez un jeu de survie complet sur navigateur, d’une durée de trois minutes, dans le genre des jeux de hordes à attaques automatiques : le joueur choisit un héros-jouet et deux armes délicieusement improbables, puis survit pendant 180 secondes aux vagues de monstres sur l’établi d’un artisan. Les armes attaquent automatiquement ; le joueur se contente de se déplacer, d’effectuer des dashs, de ramasser des cristaux, de choisir des améliorations et de déclencher une nova chargée. La personnalisation est au cœur de l’expérience : les joueurs peuvent créer leur propre héros ou arme dans Tripo, télécharger le GLB et l’intégrer au jeu. Utilisez https://odd-arms.tripo.page/ et les références fournies pour obtenir le résultat final. Créditez Deniffer à l’adresse https://x.com/lumina__team.
+
+## 2. Direction artistique
+Présentez le jeu comme un diorama miniature vu depuis une caméra fixe en plongée trois quarts, qui suit le héros. La zone de jeu est un tapis de découpe bleu marine profond, avec une grille discrète et les repères « ODD ARMS » imprimés dans les coins, posé sur un bureau en bois chaleureux. Le bord du bureau est encombré d’accessoires de bricolage surdimensionnés (bobines de fil, boîtes ornées de rosaces en laiton, étui à outils en cuir, lampe de bureau en laiton, train-jouet en bois, pièces de jouets), afin que l’arène ressemble à une véritable table de travail. Utilisez une lumière principale chaude venant du côté de la lampe, une lumière ambiante douce, des ombres de contact et un léger bloom ; les personnages doivent avoir un aspect brillant, trapu et digne de figurines de collection, avec des couleurs saturées.
+
+Interface : cartes blanc crème aux coins arrondis, texte bleu marine et accent orange corail ; une police d’affichage condensée et épaisse pour les titres (« LET'S MAKE SOME TROUBLE. »), et une police sans empattement condensée et lisible pour le corps du texte. En combat : carte de santé en haut à gauche, compteur de série dessous, compte à rebours « SURVIVE THE WEIRD » en haut au centre, libellé de vague + son + paramètres + Pause en haut à droite, nombre d’ennemis vaincus à droite, pastille niveau/XP en bas au centre, trois pastilles d’armes (orbitale / retour / tir, avec leurs niveaux) en bas à gauche, commandes + délai de récupération du dash en bas à droite, pastille « Q NOVA READY! » au-dessus. Effets dynamiques : nombres de dégâts, coups critiques, ennemis qui s’écrasent et s’étirent, recul, particules éclatantes, léger tremblement de caméra (désactivez-le lorsque prefers-reduced-motion est activé).
+
+## 3. Monde
+Une arène carrée unique ; limitez le héros à ±23 unités sur les deux axes. Le tapis de découpe remplit la zone de jeu ; le bureau et les accessoires restent à l’extérieur de cette limite et servent uniquement de décor (aucune collision). L’arène commence vide puis se remplit depuis les bords : les ennemis apparaissent sur un anneau situé à 12–16 unités du héros (8–11 pendant la première seconde) et avancent en ligne droite vers lui. Toutes les 22 secondes, une vague fait apparaître un cercle complet d’ennemis à un rayon de 13. Des cercles d’avertissement rouges apparaissent sous la position actuelle du héros (le premier à 28 s, puis toutes les max(4.4, 9 − t/50) s) et explosent après 2 s.
+
+## 4. Inventaire des assets
+Préparez des emplacements de modèles stables ; chaque emplacement doit charger un seul GLB, le centrer, l’ajuster automatiquement à une hauteur cible et utiliser un simple modèle de remplacement en cas d’échec du chargement.
+
+Héros (10, `hero:<id>`), chacun sous la forme d’une figurine-jouet trapue à silhouette distincte :
+- `cat` Astro Cat — chat tigré orange en combinaison spatiale blanche et casque en verre. PV 100, vitesse 6.8, aimant ×1.35, délai de récupération du dash 2.4 s.
+- `frog` Frog Fighter — grenouille verte avec des gants de boxe rouges. PV 130, vitesse 6.8, dégâts du dash 135.
+- `shroom` Mushroom Hero — champignon à chapeau rouge avec une petite cape. PV 90, vitesse 7.6, dash 1.8 s.
+- `capybara` Chill Capybara — capybara décontracté dans une source thermale. PV 160, vitesse 5.8, aimant ×1.15, dash 3 s, dégâts du dash 110.
+- `ramen` Ramen Ronin — samouraï portant un bol de ramen fumant. PV 105, vitesse 7.2, dash 2.2 s, dégâts du dash 120.
+- `penguin` Office Penguin — pingouin en chemise et cravate. PV 80, vitesse 7.1, dash 1.5 s, dégâts du dash 75.
+- `axolotl` Axolotl — axolotl rose explorateur. PV 85, vitesse 7.3, aimant ×1.6, dégâts du dash 75.
+- `avocado` Avo Boxer — boxeur avocat avec un noyau en forme de graine. PV 120, vitesse 6.4, dash 2.1 s, dégâts du dash 130.
+- `robot` Clockwork Bot — robot en fer-blanc à remontoir, avec une clé. PV 115, vitesse 6.2, dash 2.8 s, dégâts du dash 165.
+- `snail` Snail Knight — escargot chevalier portant une coquille grande comme une maison. PV 190, vitesse 5.2, aimant ×1.2, dash 3.2 s, dégâts du dash 120.
+Les dégâts par défaut du dash sont de 90 lorsqu’ils ne sont pas indiqués.
+
+Armes (12, `weapon:<id>`), regroupées par emplacement d’attaque :
+- Orbitale : `sardine` Sardine Chainsaw (3 poissons, rayon 2.9, dégâts 1, vitesse 1.2) ; `cactus` Cactus Club (2 massues, rayon 3.3, dégâts 1.65, vitesse 0.78, rayon d’impact 1.25, recul 1.5) ; `plunger` Plunger Patrol (4 ventouses, rayon 2.25, dégâts 0.85, vitesse 1.5).
+- Retour : `banana` Banana Blades (2, dégâts 1, vitesse 1.25) ; `pizza` Pizza Cutter (1 grand disque, dégâts 1.5, vitesse 0.82, rayon d’impact 1.65) ; `croissant` Croissant Blades (3, dégâts 0.75, vitesse 1.45) ; `boomerang` Boomerang (1, dégâts 1.15, vitesse 1.6) ; `donut-disc` Donut Disc (1, dégâts 1.5, vitesse 0.9, rayon d’impact 1.3).
+- Tir : `duck` Duck Rocket (à tête chercheuse, zone d’effet 2, intervalle 0.42 s) ; `toaster` Angry Toaster (éventail perforant de 3 tirs, dégâts 0.7) ; `teapot` Raging Teapot (2 tirs lents, zone d’effet 2.8, intervalle 0.8 s) ; `bubble-gun` Bubble Gun (2 bulles perforantes, dégâts 0.45, intervalle 0.3 s).
+Équipement par défaut : Astro Cat, Banana Blades, Angry Toaster ; l’arme orbitale est débloquée lors de la première amélioration.
+
+Ennemis (3, `enemy:<id>`), des monstres-jouets à remontoir : `red-chomper` (jouet rond rouge qui mord, basique, 30 PV de base, vitesse 2.35), `spring-rabbit` (lapin jaune à pattes-ressorts, rapide, 23 PV de base, vitesse 3.5), `crown-bear` (grand ours en pièces rapiécées avec une couronne, tank, 130 PV de base, vitesse 1.7, apparaît après 60 s à 17 %, rapporte 3 XP).
+
+Accessoires de scène (`prop:<id>`) : établi, cadre et plaques d’angle du tapis de découpe, lampe de bureau, train-jouet, bobines de fil, boîtes ornées de rosaces, étui à outils, bac de pièces de jouets. Gardez le tapis, la grille, les cristaux, les projectiles, les cercles d’avertissement, les particules, les lumières et l’interface procéduraux.
+
+## 5. Gameplay et feedback
+Déroulement : Personnage → Équipement (un élément de retour + un élément de tir) → Prêt (aperçu 3D du héros avec les armes choisies sur un plateau tournant, rotation par glisser-déposer) → « Let's play ». Chaque étape d’intégration n’affiche que la catégorie concernée, avec une description, un style de jeu et un texte sur les points faibles. Mémorisez le dernier équipement.
+
+Commandes : WASD/flèches pour se déplacer ; Espace effectue un dash dans la direction du déplacement (vitesse ×3.7, brève invulnérabilité, inflige une fois par dash des dégâts aux ennemis dans un rayon de 2 unités) ; Q déclenche une nova lorsque l’énergie atteint 100 (rayon 11, 200 dégâts, fort recul, attire les cristaux) ; 1/2/3 ou clic pour choisir les améliorations ; Échap pour mettre en pause ; pause automatique lorsque la fenêtre perd le focus. Mobile : joystick virtuel analogique à gauche, boutons Dash et Nova à droite avec anneaux de récupération/charge, prise en charge du multitouch pour utiliser simultanément le joystick et les boutons ; en orientation portrait, les améliorations se placent au-dessus du joystick, et entre les pouces en orientation paysage.
+
+Règles : PV des ennemis = base × (1 + t/260) × 1.3. Intervalle d’apparition max(0.18, 0.52 − 0.0016·t) s, avec un maximum de 180 ennemis. Dégâts de contact 9 (18 pour l’ours), avec 0.85 s d’invulnérabilité après un coup. Chaque élimination ajoute 2 points d’énergie et fait tomber un cristal ; un coup sur neuf par arme est critique et inflige ×1.7 dégâts. Une série de 25 éliminations déclenche une frénésie de 5 s (vitesse d’attaque ×1.65, délai de récupération 13 s) ; subir des dégâts réinitialise la série. XP nécessaire pour passer au niveau supérieur : 20, puis round(need × 1.4 + 10). Les montées de niveau ne mettent jamais le jeu en pause : elles sont ajoutées à une file de cartes de choix non bloquantes. La première amélioration propose les trois armes orbitales ; ensuite, proposez trois options parmi : Orbit overload (+1 élément orbital jusqu’à 7, +22 % de dégâts), Another round (retours plus rapides, plus longs et plus puissants), Full blast (tir plus rapide, +20 % de dégâts, davantage de projectiles), Live a little (+10 % de vitesse, +30 PV). Chaque choix soigne 8 PV.
+
+Fin : survivre 180 s → « Beautifully weird. You made it. » ; PV à 0 → « That was a glorious mess. » Dans les deux cas, affichez le nombre d’ennemis vaincus, la meilleure série et le temps de survie, avec les options Run it back / Change loadout et l’invite de création personnalisée.
+
+Personnalisez-le : depuis les écrans d’équipement, de pause et de résultats, « Create my hero / weapon in Tripo » ouvre https://studio.tripo3d.ai/ dans un nouvel onglet ; « Import GLB » charge un fichier .glb local (≤15 MB, textures intégrées uniquement, analysé dans le navigateur, jamais téléversé), le centre et l’adapte à l’échelle, puis remplace uniquement l’apparence du héros ou de l’arme sélectionné, en conservant ses statistiques. Affichez des erreurs explicites pour les fichiers non valides et conservez le modèle d’origine.
+
+Comparez les modèles : un interrupteur d’en-tête « Tripo3D ⇄ Simple3D (Blender) » remplace chaque héros, arme, ennemi et accessoire par un ensemble correspondant de primitives simples, sans réinitialiser la partie. Chargez l’ensemble alternatif complet avant de procéder au remplacement ; si un fichier échoue, conservez l’ensemble actuel.
+
+## 6. Implémentation technique
+Vite + JavaScript vanilla + Three.js avec GLTFLoader, éclairage RoomEnvironment et mappage des tons ACES. Gardez la simulation dans un module pur à pas de temps fixe, avec une source aléatoire injectable afin de pouvoir simuler des parties complètes dans les tests ; le moteur de rendu ne fait que lire l’état. Mettez chaque GLB en cache une seule fois et clonez-le pour les instances ; utilisez l’instanciation ou des LOD pour les ornements répétés. Limitez le ratio de pixels (1.5 sur mobile, puis 1 pendant les vagues denses), actualisez les ombres au maximum 30 fois par seconde et ne mettez à jour le texte du HUD que lorsque les valeurs changent. Séparez les collisions (cercles simples) des maillages visuels. Regroupez les polices, les modèles et les textures sur la même origine afin que la build soit un dossier statique. Visez les navigateurs desktop et mobiles, à partir de 320 px de largeur, y compris les téléphones en mode paysage et les zones de sécurité. La complexité des modèles doit suivre leur taille à l’écran ; aucune limite stricte de polygones.
+
+## 7. Conditions de validation
+- Le parcours complet fonctionne : intégration, combat jusqu’à la victoire ou la défaite, pause/reprise, redémarrage avec le même équipement, changement d’équipement.
+- Les 10 héros et les 12 armes se chargent et se comportent conformément aux valeurs ci-dessus ; une partie de 180 s avec n’importe quel équipement se termine sans erreur.
+- Les commandes au clavier et tactiles fonctionnent, y compris l’utilisation simultanée du joystick et du Dash.
+- L’importation d’un GLB remplace l’apparence du héros ou de l’arme choisi et rejette les fichiers incorrects avec élégance.
+- Le bouton Tripo3D / Simple3D remplace tous les modèles en cours de partie.
+- Les écrans d’accueil, de mi-combat et de résultats correspondent aux références ; fournissez le code source exécutable, la commande de démarrage et une build de production statique.
+
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/odd-arms) · [Publication originale](https://odd-arms.tripo.page/) · [Démo](https://odd-arms.tripo.page/) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="akari-nagoya-rooftop-flame-relay"></a>
 
 ### AKARI : Relais de la flamme sur les toits de Nagoya
@@ -3882,24 +4073,6 @@ Crée dans Unity une chasse au trésor 3D jouable sur une plage. Modélise des p
 
 ---
 
-<a id="2096560142871658589"></a>
-
-### Modèles Blender et effets visuels Unity
-
-[ねぎぽよし](https://x.com/CST_negi) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/blender-models-with-unity-vfx-2096560142871658589"><img src="../assets/previews/d13ca069743cb65e0501484737d96a1fbde81927026e9b8837b149ece9b0693d.webp" width="840" loading="lazy" alt="Modèles Blender et effets visuels Unity"></a>
-
-**Prompt**
-
-```text
-Crée les modèles de la scène dans Blender et importe-les dans Unity. Ajoute des effets avec VFX Graph et éclaire la scène pour que modèles et effets restent bien lisibles ensemble.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/blender-models-with-unity-vfx-2096560142871658589) · [Publication originale](https://x.com/CST_negi/status/2096560142871658589) · [Retour aux exemples](#all-prompts)
-
----
-
 <a id="2096572429066006845"></a>
 
 ### Manguier indien dans SpeedTree
@@ -3972,28 +4145,10 @@ Visualise deux trajectoires du système de Lorenz présentant un écart infime d
 
 ---
 
-<a id="2096559197999501724"></a>
-
-### Un logo 2D devient un personnage animé
-
-[Anthony Riera](https://x.com/anthonyriera) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724"><img src="../assets/previews/8dcd8f7d1406525c0a56e16bf3bc2591fb0191c1e4226f74cc364b4daa841efd.webp" width="840" loading="lazy" alt="Un logo 2D devient un personnage animé"></a>
-
-**Prompt**
-
-```text
-Transforme le logo de personnage 2D fourni en version 3D animée. Préserve son identité reconnaissable à mesure que le personnage prend du volume et s’anime.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724) · [Publication originale](https://x.com/anthonyriera/status/2096559197999501724) · [Retour aux exemples](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 248 exemples sur le site officiel →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 250 exemples sur le site officiel →</a></strong></p>
 <p><sub>Pour préserver la fluidité du rendu du README sur GitHub, seuls les 100 exemples les plus récents sont affichés ici.</sub></p>
 <br>
 </td></tr>

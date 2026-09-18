@@ -24,7 +24,7 @@ Explore the linked projects and check their own licenses before reuse.
 
 ## [achimala/dream-loop](https://github.com/achimala/dream-loop)
 
-- [Isometric fantasy graphics demo](catalog.en.md#2100271998618177864) · [github.com](https://github.com/)
+- [Isometric fantasy graphics demo](catalog.en.md#2100271998618177864) · [Anshu Chimala](https://x.com/anshuc)
 
 ## [Ayi1337/gpt6-astra-one-shot-games](https://github.com/Ayi1337/gpt6-astra-one-shot-games)
 

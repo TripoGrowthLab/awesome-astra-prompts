@@ -26,7 +26,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**248 · En yeni Astra istemleri**
+**250 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -132,6 +132,8 @@
 - [3B Yarış Oyunu Oluştur](#2100526922770026874)
 - [Kapatılmış Araştırma Tesisinden Kaçış: Tarayıcıda 3B Oyun](#2100595652703199281)
 - [CAD ile kendi gövdesi](#2100614534423540102)
+- [Monster Block — Şehri 45 Saniyede Yerle Bir Et](#2100636075039629796)
+- [ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu](#odd-arms)
 - [AKARI: Nagoya Çatı Alevi Bayrak Yarışı](#akari-nagoya-rooftop-flame-relay)
 - [Kiklop’un Adası](#cyclops-island-threejs-game)
 - [Döndürülebilir 3D shogi tahtası](#2096579856133947507)
@@ -142,12 +144,10 @@
 - [Kırsalda ilerleyen buharlı lokomotif](#2096577430274429157)
 - [Masa üstünde pikap sahnesi](#2096561346766877106)
 - [Düşük poligonlu sahilde hazine avı](#2096570815714414844)
-- [Unity VFX ile Blender modelleri](#2096560142871658589)
 - [SpeedTree’de Hint mango ağacı](#2096572429066006845)
 - [Tripo karakterine doku ve rig hazırlama](#2096566598689783878)
 - [Daire eskizinden iç mekân render’larına](#2096566686266597754)
 - [Etkileşimli Lorenz çekicisi](#2096572156453028193)
-- [2D logodan animasyonlu karaktere](#2096559197999501724)
 
 </details>
 
@@ -291,7 +291,7 @@ Mümkün olan yerlerde gerçek anatomik geometri kullan, kaynaklara atıfta bulu
 
 ### İzometrik fantezi grafik demosu
 
-[github.com](https://github.com/) · 2026-09-16
+[Anshu Chimala](https://x.com/anshuc) · 2026-09-16
 
 <a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100271998618177864"><img src="../assets/previews/851c2340f464e95b33eb0dd10894129a620b694b37838698fe011988fadf0d3e.jpg" width="840" loading="lazy" alt="İzometrik fantezi grafik demosu"></a>
 
@@ -3623,6 +3623,197 @@ Astra'ya kendi gövdesini CAD ile tasarlamasını söyledim.
 
 ---
 
+<a id="2100636075039629796"></a>
+
+### Monster Block — Şehri 45 Saniyede Yerle Bir Et
+
+[Tony](https://x.com/abc30037274) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/monster-block"><img src="../assets/previews/cf99748892e20dab0f4b75e589ab2736b3ff213c336367312e89b45c6d8b2c2e.png" width="840" loading="lazy" alt="Monster Block — Şehri 45 Saniyede Yerle Bir Et"></a>
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/monster-block"><img src="../assets/previews/ae9bdb662df6fe31c53b0f7387ee374bfd839d3f923863eed3dd4cf5d3c508ef.png" width="840" loading="lazy" alt="Monster Block — Şehri 45 Saniyede Yerle Bir Et"></a>
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/monster-block"><img src="../assets/previews/45348d508ea595bf8fc58d93e46dd978759af15a75eff0c2b2177355e96dd180.png" width="840" loading="lazy" alt="Monster Block — Şehri 45 Saniyede Yerle Bir Et"></a>
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/monster-block"><img src="../assets/previews/a2b60fa4a189833c1c0949ebb00a76b5545a66b52b4bb0e945b7d55c272dbe25.png" width="840" loading="lazy" alt="Monster Block — Şehri 45 Saniyede Yerle Bir Et"></a>
+
+Munch adlı küçük kaiju'yu, goril Bongo'yu veya robot Bolt'u seç. 45 saniyelik 3B şehir saldırısında binaları parçala, arabaları fırlat ve kombolar zincirle. Animasyonlu üç karakterin tamamı Tripo ile oluşturuldu.
+
+**İstem**
+
+```text
+# Monster Block — yeniden oluşturma spesifikasyonu
+
+## 1. Proje hedefi
+
+Monster Block adlı, tarayıcıda oynanabilen bir oyun oluştur. Oyuncunun oyuncak bir canavar seçmesine, minyatür bir şehre girmesine ve 45 saniye içinde mümkün olduğunca çok binayı yok etmesine olanak tanı. Hareket etmek, binalara pençeyle saldırmak, arabaları fırlatmak ve yıkımları zincirlemek anında geri bildirim üretmeli. Oyunu skor, bir unvan, yeniden deneme eylemi ve bir arkadaşın aynı blokta oynayabilmesini sağlayan bir meydan okuma bağlantısıyla bitir. İngilizce ve Basitleştirilmiş Çince arayüzlerin yanı sıra klavye ve dokunmatik ekran kontrolleri sun.
+
+## 2. Görsel stil
+
+Krem rengi bir arka planın önünde, kalın kare bir platform üzerinde sıcak bir masaüstü dioraması oluştur. Az detaylı pastel binalar, küçük koyu teal pencereler, açık renkli çatı kenarları, geniş ve mat yeşil-gri yollar, yaya geçitleri, yuvarlak ağaçlar, küçük arabalar ve sıcak yumuşak gölgeler kullan. Bina paletinde kiremit, hardal, tozlu teal, gül kurusu, mavi-gri, krem ve adaçayı tonları yer alsın. Malzemeler parlak metalden çok mat boyanmış oyuncaklar gibi görünmeli.
+
+Düz üstten bakan bir kamera yerine, yüksek üç çeyrek perspektifli bir kamera kullan. Referans kamera (35, 37, 41) konumundan başlar, (0, 0.4, 0) noktasına bakar ve geniş ekranlarda 38 derece, orta genişlikteki ekranlarda 44 derece, dar ekranlarda 51 derece görüş alanı kullanır. Oyun sırasında canavarı yumuşak biçimde takip ederken yakındaki hedefleri görünür tut. Sahneyi sıcak bir yarımküre ışığı, yumuşak gölgeler oluşturan yönlü bir ışık ve soğuk bir dolgu ışığıyla aydınlat.
+
+Büyük İngilizce başlıklar için yoğun ve kalın bir display yazı tipi, talimatlar içinse okunaklı bir sans-serif kullan. Koyu yeşil metni, krem yüzeyleri, turuncu oyun eylemlerini ve sarı Tripo oluşturma eylemlerini bir araya getir. Ana sayfada Play ile Create with Tripo eylemlerini eşit derecede öne çıkar. Duraklatma iletişim kutusunda, çerçeveli Resume düğmesinin üstüne üç karakter küçük resmi ve sarı bir oluşturma düğmesi içeren koyu yeşil bir Tripo kartı yerleştir. Yardım metnini telefonlarda rahatça okunabilecek boyutta tut.
+
+Kısa ve girdilerle tetiklenen efektler kullan: pençe savurmaları, binaların kısa süreli geri tepmesi, belirgin vuruş ve yıkım darbeleri, genişleyen ezme halkaları, küçük moloz patlamaları, skor bildirimleri, combo değişimleri ve ölçülü, yönlü kamera sarsıntısı. Tutulan bir arabayı yaklaşık 220 ms içinde elin içine kaldır. Azaltılmış hareket tercihine uyarak sarsıntıyı, moloz patlamalarını ve arayüz ölçeklendirmesini kaldır; skorları, hedef göstergelerini ve yıkım sonuçlarını koru.
+
+## 3. Dünya ve sahne
+
+4'e 4'lük bir ızgaraya 16 yıkılabilir bina yerleştir. Blok aralığı olarak 10.4 kullan; blok merkezleri bu aralığın -1.5, -0.5, 0.5 ve 1.5 katlarında olsun ve her eksen boyunca beş cadde bulunsun. Platformun genişliği 52.6 birimdir. Binalar iki ila beş katlı olsun; farklı taban şekilleri, çatı detayları, ara sıra tenteler ve küçük HOTEL veya NOODS tabelaları kullan. Yerleşimi bir seed'den deterministik olarak oluştur.
+
+Yollar boyunca 12 araba ve başlangıç oyun konumunun yakınına kesinlikle fırlatılabilir bir sarı araba yerleştir. Bina parsellerinin ve platform kenarlarının çevresine ağaçlar, dört köşe lambası, şerit işaretleri ve merkezi bir yaya geçidi ekle. Canavarı (0, 0.2, 10.4) konumunda açık bir caddede başlat; ana sayfa için z=20.8 konumunda ön planda bir bekleme konumu kullan.
+
+Aynı blok parametresi, aynı bina yerleşimini yeniden üretmeli. Parametre yoksa blok seed'ini UTC tarihinden türet. Bir beat parametresi arkadaşın hedef skorunu sağlar. Yeniden denerken seçili bloğu koru. Rastgele molozların deterministik olması gerekmez.
+
+## 4. Varlık envanteri
+
+Kararlı varlık kimliklerini koru ve görsel modelleri oyun içi çarpışma proxy'lerinden ayrı tut.
+
+- munch: Munch / 阿猛, varsayılan yeşil dinozor. Özgün yuvarlak burun yapısını, krem rengi karnını ve boynuzlarını, turuncu sırt dikenlerini, kısa kollarını, büyük ayaklarını ve uzun kuyruğunu koru. /assets/monster-animated.glb dosyasını yükle ve yüksekliğini 5.6 birime normalize et. /assets/monster.glb dosyasını statik yedek olarak koru.
+- bongo: Bongo / 橘拳, aşırı büyük yumruklara ve geniş bir gövdeye sahip turuncu oyuncak goril. /assets/bongo-animated.glb dosyasını yükle ve yüksekliğini 4.5 birime normalize et.
+- bolt: Bolt / 蓝电, kalın uzuvlara ve sevimli bir silüete sahip mavi oyuncak robot. /assets/bolt-animated.glb dosyasını yükle ve yüksekliğini 4.9 birime normalize et.
+- Her karakterin eşleşen bir önizleme PNG'si ile bekleme, koşma ve savurma klipleri vardır. Seçilebilir üç gerçek karakteri koru; karakter değiştirildiğinde hem önizleme hem de sonraki turda kullanılacak model güncellenmeli.
+- city_building: Sağlık, collider sınırları, vuruş geri tepmesi ve yıkım durumu ayrı ayrı izlenen, prosedürel ve yeniden kullanılabilir bina grupları. Çatı kenarları, tabanlar ve tenteler çarpışma hacmine dahildir.
+- city_car: Prosedürel olarak oluşturulan, yeniden kullanılabilir ve fırlatılabilir arabalar. Elde tutulan, havadaki ve yok edilmiş durumları ayrı tut. Üç arabada sarı Tripo markası bulunur.
+- city_decor: Prosedürel ağaçlar, lambalar, kaldırımlar, tabelalar ve yol boyaları. Bu varlıkları hafif tut, geometriyi ve malzemeleri yeniden kullan.
+- tripo_scenery: Bir çatı logo heykeli, iki çatı tabelası, bir atölye dükkân cephesi ve markalı üç araba. Bunları sağlanan Tripo logosundan ve prosedürel mesh'lerden oluştur. Bunlar ek API ile oluşturulmuş modeller veya oynanış güçlendirmeleri değil, sahne dekorasyonlarıdır.
+
+Üç karakter modeli öncelikli Tripo varlıklarıdır. Sağlandığında oluşturulmuş ve rig'lenmiş GLB'leri yeniden kullan. Yeni bir karakter için eşleşen oyuncak tarzı bir model oluştur, rig uygunluğunu kontrol et, rig'le, bekleme/koşma/savurma animasyonlarını oluştur ve kadroya eklemeden önce oranlarını doğrula. Oyuncu bir tura başladığında oluşturma API'lerini çağırma. Karakter yüklemeleri ve oyuncunun kendi oluşturduğu varlıkların otomatik içe aktarılması bu sürümün kapsamı dışındadır.
+
+## 5. Oynanış ve geri bildirim
+
+Hareket için WASD veya ok tuşlarını, tekrarlanan pençe saldırıları için basılı tutulan Space tuşunu, yakındaki bir arabayı tutup fırlatmak için E ve ardından tekrar E tuşunu, ezme saldırısı için R ve duraklatmak için Escape tuşunu destekle. Dokunmatik ekranlarda sanal joystick ile ayrı saldırı, tut/fırlat ve ezme düğmeleri sun. Duraklatıldığında veya odak kaybedildiğinde basılı girdileri temizle.
+
+Şu kuralları kullan:
+
+- Bir tur 45 saniye sürer. Binaların canı kat sayısı artı birdir; bu da 3–6 can verir.
+- Pençe vuruşu 1 hasar verir ve saldırı aralığı 0.42 saniyedir.
+- Ezme saldırısı menzil içindeki her binaya 3 hasar verir ve bekleme süresi 7 saniyedir.
+- Fırlatılan araba çarpma alanındaki binalara 4 hasar verir ve çarpma için 75 temel puan kazandırır.
+- Binaya isabet ettirmek, mevcut çarpanla çarpılmış 20 puan kazandırır. Bir yıkım, yıkım kombosu artırıldıktan sonra, çarpanla çarpılmış round(180 + bina yüksekliği × 50) puan ekler.
+- 3.5 saniye içinde yeniden yıkım yapmak komboyu sürdürür. Sıradan vuruşlar bu süreyi uzatmaz. Çarpan min(5, 1 + floor(combo / 2)) değeridir.
+- 16 binanın tamamını temizlemek turu bitirir ve ceil(kalan saniye) × 100 puan kazandırır. Aksi durumda süre sıfıra ulaştığında turu bitir ve daha fazla skor kazanılmasını engelle.
+
+Düşman, boss savaşı, oyuncu canı veya ölüm cezası yoktur. Meydan okuma; rota seçmek, arabaları ve ezme saldırılarını verimli kullanmak ve yıkım kombosunu sürdürmektir. Kalan süreyi, skoru, yok edilen bina sayısını, çarpanı ve ezme saldırısının bekleme süresini göster. Kullanılamayan eylemleri hareketi engellemeden anlaşılır kıl. Boşa savrulan bir pençeyi başarılı bir vuruştan ses ve görsel geri bildirimle ayırt et.
+
+Hareket ve dönüşleri, kollar ve kuyruk da dahil olmak üzere her karakterin örneklenmiş animasyon ayak iziyle çakışmaya göre çöz. Tam bina sınırlarını küçük bir açıklık payıyla kontrol et. Canavar, geçerli bir duruş konumundan saldırabilmeli. Binası yıkıldıktan sonra oyuncunun bir parselin içinden geçmesine izin ver. Oyuncuyu köşelerde sıkıştırmaktan veya dönüş sırasında kuyruğun sağlam bir binanın içinden geçmesinden kaçın.
+
+Escape tuşuna, duraklatma düğmesine, pencere odağının kaybolmasına ve gizli sekmelere geçişe tepki olarak zamanlayıcıyı ve girdileri duraklat. Resume, Retry ve Home akışlarını sun. Oyunu skor, yıkım sayısı, en iyi combo, eğlenceli bir unvan ve aynı haritada bir meydan okuma bağlantısıyla bitir. İndirilebilir 1080'e 1350 boyutunda bir skor kartı sun; MediaRecorder desteklendiğinde tur kaydını desteklenen MP4 veya WebM formatında oluştur. Kullanılabildiğinde yerel paylaşımı, meydan okuma bağlantıları içinse pano yedeğini kullan. Tarayıcı tarafından hesaplanan bir skoru hiçbir zaman güvenli bir rekabetçi liderlik tablosu gibi sunma.
+
+## 6. Teknik uygulama
+
+Statik dist build içeren Three.js, TypeScript ve Vite kullan. Dünya oluşturma, kurallar, çarpışma, karakterler, render, ses, kayıt, analitik ve arayüzü ayrı modüllerde tut. Fontları ve gerekli decoder varlıklarını yerel olarak paketle. Tekrarlanan pencereler ve yol işaretleri için instancing kullan; malzemeleri ve geometriyi yeniden kullan. Render piksel oranını 1.65 ile sınırla. Geçici efektleri sınırlandır ve tamamlandıklarında veya sıfırlandıklarında kaynaklarını serbest bırak.
+
+GLTFLoader, skeletal animation mixer'lar ve sağlanan GLB kliplerini kullan. Her modeli merkezlenmiş bir zemin pivotu etrafında normalize et. Referans dışa aktarımı +X yönüne bakar; görsel pivotu Y ekseni etrafında -90 derece döndürerek oyunun +Z ileri yönüyle hizala. Yüklenen modeli göstermeden önce bekleme animasyonunu değerlendir ve animasyonlu ayakları zemine yakın tut. Yükleme başarısız olursa görünür bir prosedürel yedek sun; hatayı dürüstçe belirt. Daha eski bir yüklemenin en son seçimin yerini almasını önlemek için asenkron karakter seçimini güvenli hâle getir.
+
+Karakter çarpışma verilerini render mesh'lerinden bağımsız tut ve karakter veya animasyon değiştirildiğinde örneklenmiş ayak izlerini yeniden oluştur. Duvarların yakınında hem öteleme hem de dönüşü test et. Kararlı klavye/dokunmatik girişini, duyarlı iletişim kutularını, yerelleştirilmiş metinleri, odak davranışını, sessiz ses kontrollerini, azaltılmış hareketi ve WebGL kurtarma davranışını koru.
+
+Tripo oluşturma eylemlerini https://www.tripo3d.ai/ adresine bağla; utm_source=monster_block, utm_medium=referral, utm_campaign=monster_block_game ve yerleşime özel bir utm_content kullan: header_logo, hero_create, pause_create, result_create veya footer_logo. Bu eylemleri ayrı bir sekmede aç ve önce etkin oyunu duraklat. Tripo'nun 3B varlıklar oluşturduğunu açıkla; bu oyuna otomatik içe aktarma sözü verme.
+
+Hosting politikasının izin verdiği durumlarda mevcut Pageview ve PostHog etkinlik entegrasyonunu koru. Statik build'de yalnızca herkese açık tarayıcı veri alım yapılandırmasını kullan. Oluşturma, CMS, dağıtım ve kişisel analitik kimlik bilgilerini kaynak kodunun ve build çıktılarının dışında tut. Sayfaya giriş, karakter seçimi, oyun, ilk eylemler, tur sonuçları, yeniden deneme, paylaşım/dışa aktarma ve Tripo dış bağlantı tıklamalarını kaydet; tıklamaları doğrulanmış kayıtlara veya ödemelere eşdeğer sayma.
+
+## 7. Tamamlanma ölçütleri
+
+Çalıştırılabilir kaynak kodu, yerel varlıkları, üretime hazır statik build'i ve açık kurulum/başlatma/build talimatlarını teslim et. Üç karakterin tüm seçimlerini, süreli bir turun tamamını, bina yıkımını, tutup fırlatmayı, ezme bekleme süresini, combo'nun sona ermesini, duraklatma/devam etme, yeniden deneme ve tur sonu skorlamasını doğrula. Özgün dinozorun seçilebilir kalmasını ve üç karakterin de binaların yakınında görünür biçimde iç içe geçmeden veya takılmadan hareket edip dönebilmesini doğrula.
+
+Okunabilir yardım metinleri, dokunmatik kontroller, duraklatma eylemleri ve sonuç paylaşımı dahil olmak üzere masaüstü ve dar mobil genişliklerde İngilizce ve Çince yerleşimleri kontrol et. Tripo CTA hedeflerini ve UTM yerleşim değerlerini, skor kartı dışa aktarımını ve kayıt yedeği davranışını doğrula. Dağıtılmış sayfayı ve gerçek CMS iframe ortamını model yükleme, giriş, harici bağlantılar ve indirmeler açısından test et. Evrensel destek iddiasında bulunmak veya kanıt olmadan ölçülmüş sabit kare hızını garanti etmek yerine tarayıcı ya da cihaz sınırlamalarını bildir.
+
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/monster-block) · [Orijinal gönderi](https://x.com/abc30037274/status/2100636075039629796) · [Canlı demo](https://monster-block.tripo.page/) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="odd-arms"></a>
+
+### ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu
+
+[Deniffer](https://x.com/lumina__team) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/odd-arms"><img src="../assets/previews/504c296e723fc1d371ab475b1849a547d862e14632b5962ee62c0edc16783749.jpg" width="840" loading="lazy" alt="ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu"></a>
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/odd-arms"><img src="../assets/previews/c091163cb03e4b2e888533cdae55a69d2a2adb5b8d7d511d5dbe9f42b48e477c.jpg" width="840" loading="lazy" alt="ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu"></a>
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/odd-arms"><img src="../assets/previews/8704479f463f4966b9d420060a8fe4ebb55f0f195750cab2cfad225dcb31e52f.jpg" width="840" loading="lazy" alt="ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu"></a>
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/odd-arms"><img src="../assets/previews/846d08bd92f3243dce5a7a5313cd4978c94613e86cabcd0ef2c99c434954f93b.jpg" width="840" loading="lazy" alt="ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu"></a>
+
+Oyuncak bir kahramanın çalışma tezgâhında kurmalı canavarlarla savaştığı, Three.js ile oluşturulmuş üç dakikalık bir hayatta kalma oyunu geliştirin. Oyuncular Tripo Studio'da kendi kahramanlarını veya silahlarını oluşturup GLB dosyasını içe aktararak oynayabilir.
+
+**İstem**
+
+```text
+# ODD ARMS — Fikrin. Kahramanın.
+
+## 1. Amaç
+Tüm oyun arayüzünü İngilizce tutun (isteğe bağlı dil seçeneği olarak Japonca ekleyin).
+"Otomatik saldırılı sürü" türünde, tarayıcıda çalışan eksiksiz ve üç dakikalık bir hayatta kalma oyunu oluşturun: Oyuncu, oyuncak boyutunda bir kahraman ile iki son derece tuhaf silah seçer ve bir zanaatkârın çalışma tezgâhında 180 saniye boyunca canavar sürülerine karşı hayatta kalır. Silahlar otomatik saldırır; oyuncu yalnızca hareket eder, atılır, kristalleri toplar, geliştirmeler seçer ve şarjlı bir nova ateşler. Oyunun kişisel yönü şudur: Oyuncular Tripo'da kendi kahramanlarını veya silahlarını oluşturabilir, GLB dosyasını indirip oyuna aktarabilir. Nihai sonuç için https://odd-arms.tripo.page/ ve sağlanan referansları kullanın. Deniffer'a şu adresten kredi verin: https://x.com/lumina__team.
+
+## 2. Görsel yön
+Oyunu, kahramanı takip eden sabit, dörtte üç açıdan yukarıdan görünümlü bir kamerayla gösterilen minyatür bir oyuncak diorama olarak tasarlayın. Oyun alanı, üzerinde silik bir ızgara ve basılı "ODD ARMS" köşe işaretleri bulunan lacivert bir kesim matıdır; bu mat sıcak tonlu ahşap bir çalışma masasının üzerindedir. Masa kenarları, arenanın gerçek bir masaüstü gibi görünmesi için büyük boyutlu el işi aksesuarlarıyla (iplik makaraları, süslü pirinç rozetli kutular, deri alet çantası, pirinç masa lambası, ahşap oyuncak tren, oyuncak parçaları) doldurulmalıdır. Lambanın bulunduğu taraftan sıcak bir ana ışık, yumuşak ortam dolgu ışığı, temas gölgeleri ve hafif bloom kullanın; karakterler parlak, iri hatlı ve doygun renkli koleksiyon figürleri tarzında olsun.
+
+Arayüz: lacivert metinli, krem-beyaz yuvarlatılmış kartlar ve mercan-turuncu vurgu rengi kullanın. Başlıklarda ağır, daraltılmış bir ekran yazı tipi ("LET'S MAKE SOME TROUBLE."), gövde metninde ise temiz ve daraltılmış bir sans yazı tipi kullanın. Savaş sırasında: sol üstte can kartı, altında seri sayacı, üst merkezde "SURVIVE THE WEIRD" geri sayımı, sağ üstte dalga etiketi + ses + ayarlar + Duraklat, sağda yenilen düşman sayısı, alt merkezde seviye/XP rozeti, sol altta üç silah etiketi (yörüngeli / geri dönen / atıcı ve seviyeleri), sağ altta kontroller + atılma bekleme süresi ve bunların üstünde "Q NOVA READY!" rozeti yer alsın. Oyunsallık hissi için: hasar sayıları, kritik vuruşlar, squash-and-stretch efektli düşmanlar, geri savurma, parçacık patlamaları ve hafif kamera sarsıntısı kullanın (prefers-reduced-motion ayarlıysa sarsıntıyı devre dışı bırakın).
+
+## 3. Dünya
+Kare biçimli tek bir arena oluşturun; kahramanı her iki eksende de ±23 birim içinde tutun. Kesim matı oyun alanını doldursun; masa ve aksesuarlar yalnızca dekor olarak, bu sınırın dışında yer alsın (çarpışma olmasın). Arena başlangıçta boştur ve kenarlardan dolmaya başlar: Düşmanlar kahramandan 12–16 birim uzaklıktaki bir çember üzerinde (ilk saniyede 8–11 birim uzaklıkta) doğar ve doğruca kahramana yürür. Her 22 saniyede bir, 13 yarıçapında tam bir düşman çemberi oluşturan bir saldırı dalgası başlar. Kahramanın o anki konumunun altında kırmızı uyarı çemberleri belirir (ilki 28. saniyede, ardından her max(4.4, 9 − t/50) saniyede bir) ve 2 saniye sonra patlar.
+
+## 4. Varlık envanteri
+Kararlı model yuvaları hazırlayın; her yuva tek bir GLB yüklemeli, model ortalanmalı, hedef yüksekliğe otomatik ölçeklenmeli ve yükleme başarısız olursa basit bir yer tutucuya dönmelidir.
+
+Kahramanlar (10 adet, `hero:<id>`), her biri kendine özgü silüete sahip iri hatlı oyuncak figürler:
+- `cat` Astro Cat — beyaz uzay giysisi ve cam kask giymiş turuncu tekir kedi. HP 100, hız 6.8, mıknatıs ×1.35, atılma bekleme süresi 2.4 s.
+- `frog` Frog Fighter — kırmızı boks eldivenli yeşil kurbağa. HP 130, hız 6.8, atılma hasarı 135.
+- `shroom` Mushroom Hero — küçük pelerinli, kırmızı şapkalı mantar. HP 90, hız 7.6, atılma süresi 1.8 s.
+- `capybara` Chill Capybara — kaplıcada dinlenen kapibara. HP 160, hız 5.8, mıknatıs ×1.15, atılma süresi 3 s, atılma hasarı 110.
+- `ramen` Ramen Ronin — buharı tüten ramen kâsesini taşıyan samuray. HP 105, hız 7.2, atılma süresi 2.2 s, atılma hasarı 120.
+- `penguin` Office Penguin — gömlek ve kravat giymiş penguen. HP 80, hız 7.1, atılma süresi 1.5 s, atılma hasarı 75.
+- `axolotl` Axolotl — pembe aksolotl kâşif. HP 85, hız 7.3, mıknatıs ×1.6, atılma hasarı 75.
+- `avocado` Avo Boxer — çekirdek gövdeli avokado boksör. HP 120, hız 6.4, atılma süresi 2.1 s, atılma hasarı 130.
+- `robot` Clockwork Bot — anahtarlı, kurmalı teneke robot. HP 115, hız 6.2, atılma süresi 2.8 s, atılma hasarı 165.
+- `snail` Snail Knight — ev büyüklüğündeki kabuğunu taşıyan şövalye salyangoz. HP 190, hız 5.2, mıknatıs ×1.2, atılma süresi 3.2 s, atılma hasarı 120.
+Listelenmediği durumlarda varsayılan atılma hasarı 90'dır.
+
+Saldırı yuvalarına göre gruplandırılmış silahlar (12 adet, `weapon:<id>`):
+- Yörüngeli: `sardine` Sardine Chainsaw (3 balık, yarıçap 2.9, hasar 1, hız 1.2); `cactus` Cactus Club (2 sopa, yarıçap 3.3, hasar 1.65, hız 0.78, vuruş yarıçapı 1.25, geri savurma 1.5); `plunger` Plunger Patrol (4 lavabo pompası, yarıçap 2.25, hasar 0.85, hız 1.5).
+- Geri dönen: `banana` Banana Blades (2 adet, hasar 1, hız 1.25); `pizza` Pizza Cutter (1 büyük disk, hasar 1.5, hız 0.82, vuruş yarıçapı 1.65); `croissant` Croissant Blades (3 adet, hasar 0.75, hız 1.45); `boomerang` Boomerang (1 adet, hasar 1.15, hız 1.6); `donut-disc` Donut Disc (1 adet, hasar 1.5, hız 0.9, vuruş yarıçapı 1.3).
+- Atıcı: `duck` Duck Rocket (hedef takipli, alan etkisi 2, aralık 0.42 s); `toaster` Angry Toaster (3 atışlı delici yelpaze, hasar 0.7); `teapot` Raging Teapot (2 yavaş atış, alan etkisi 2.8, aralık 0.8 s); `bubble-gun` Bubble Gun (2 delici baloncuk, hasar 0.45, aralık 0.3 s).
+Varsayılan ekipman: Astro Cat, Banana Blades, Angry Toaster; yörüngeli silah ilk geliştirmede açılır.
+
+Düşmanlar (3 adet, `enemy:<id>`), kurmalı oyuncak canavarlar: `red-chomper` (kırmızı, yuvarlak ve ısıran oyuncak; temel tür, temel 30 HP, hız 2.35), `spring-rabbit` (sarı, yay bacaklı tavşan; hızlı, temel 23 HP, hız 3.5), `crown-bear` (taç takan büyük yamalı ayı; tank, temel 130 HP, hız 1.7, 60. saniyeden sonra %17 olasılıkla görünür, 3 XP bırakır).
+
+Sahne aksesuarları (`prop:<id>`): çalışma masası, kesim matı çerçevesi ve köşe plakaları, masa lambası, oyuncak tren, iplik makaraları, süslü rozetli kutular, alet çantası, oyuncak parça tepsisi. Matı, ızgarayı, kristalleri, mermileri, uyarı çemberlerini, parçacıkları, ışıkları ve arayüzü prosedürel olarak oluşturun.
+
+## 5. Oynanış ve geri bildirim
+Akış: Karakter → Ekipman (bir geri dönen + bir atıcı) → Hazır (seçilen silahlarla kahramanın 3B döner tabla önizlemesi; döndürmek için sürükleyin) → "Let's play". Her tanıtım adımında yalnızca ilgili kategori; açıklama, oyun tarzı ve zayıflık metni gösterilir. Son ekipman seçimini hatırlayın.
+
+Kontroller: Hareket etmek için WASD/ok tuşları; Space, hareket yönünde atılmayı sağlar (hız ×3.7, kısa süreli dokunulmazlık, her atılmada 2 birim içindeki düşmanlara bir kez hasar); enerji 100 olduğunda nova ateşlemek için Q (yarıçap 11, 200 hasar, güçlü geri savurma, kristalleri kendine çeker); geliştirmeleri seçmek için 1/2/3 veya tıklama; duraklatmak için Esc; pencere odağı kaybolduğunda otomatik duraklatma. Mobil: solda analog sanal joystick, sağda bekleme/şarj halkalarına sahip Atılma ve Nova düğmeleri, joystick ile düğmelerin birlikte çalışmasını sağlayan çoklu dokunma; geliştirmeler dikey ekranda joystick'in üstünde, yatay ekranda iki başparmağın arasında yer alır.
+
+Kurallar: düşman HP'si = base × (1 + t/260) × 1.3. Doğma aralığı max(0.18, 0.52 − 0.0016·t) s, sınır 180 düşman. Temas hasarı 9'dur (ayıdan 18); isabetten sonra 0.85 s dokunulmazlık verilir. Her öldürme 2 enerji ekler ve bir kristal düşürür; her silahın 9. vuruşu ×1.7 kritik hasar verir. 25 öldürmelik seri, 5 s süren bir çılgınlık başlatır (saldırı hızı ×1.65, bekleme süresi 13 s); hasar almak seriyi sıfırlar. Seviye atlamak için XP: 20, ardından round(need × 1.4 + 10). Seviye atlamalar oyunu asla duraklatmaz: engelleyici olmayan seçim kartları olarak kuyruğa alınır. İlk geliştirme üç yörüngeli silahı sunar; sonrasında şu seçeneklerden üçünü sunun: Orbit overload (+1 yörünge silahı, en fazla 7, +%22 hasar), Another round (daha hızlı, daha uzun ve daha güçlü geri dönüşler), Full blast (daha hızlı ateş, +%20 hasar, daha fazla mermi), Live a little (+%10 hız, +30 HP). Her seçim 8 HP iyileştirir.
+
+Bitiş: 180 s hayatta kalın → "Beautifully weird. You made it."; HP 0 → "That was a glorious mess." Her iki sonuç ekranında da yenilen düşman sayısı, en iyi seri ve hayatta kalınan süre ile Run it back / Change loadout seçenekleri ve kendi kahramanını oluşturma istemi gösterilir.
+
+Kendin oluştur: Ekipman, duraklatma ve sonuç ekranlarında bulunan "Create my hero / weapon in Tripo" seçeneği, yeni bir sekmede https://studio.tripo3d.ai/ açar; "Import GLB" yerel bir .glb dosyası yükler (≤15 MB, yalnızca gömülü dokular, tarayıcıda ayrıştırılır, hiçbir zaman yüklenmez), dosyayı ortalar ve ölçeklendirir, ardından seçilen kahraman veya silahın yalnızca görünümünü değiştirirken istatistiklerini korur. Geçersiz dosyalar için anlaşılır hata mesajları gösterin ve özgün modeli koruyun.
+
+Modelleri karşılaştırın: üst bilgideki "Tripo3D ⇄ Simple3D (Blender)" anahtarı, her kahramanı, silahı, düşmanı ve aksesuarı eşleşen basit ilkel şekillerden oluşan setle değiştirir; oyun devam ederken ilerleme sıfırlanmaz. Değiştirmeden önce alternatif setin tamamını yükleyin; herhangi bir dosya yüklenemezse mevcut seti koruyun.
+
+## 6. Teknik uygulama
+GLTFLoader, RoomEnvironment aydınlatması ve ACES ton eşleme kullanan Vite + vanilla JavaScript + Three.js kullanın. Simülasyonu, testlerde tüm oyunların simüle edilebilmesi için dışarıdan rastgelelik kaynağı alabilen, saf ve sabit zaman adımlı bir modülde tutun; renderer yalnızca durumu okusun. Her GLB'yi bir kez önbelleğe alın ve örnekler için klonlayın; tekrarlanan süslemelerde instancing veya LOD kullanın. Piksel oranını sınırlayın (mobilde 1.5, yoğun dalgalarda 1'e düşürün), gölgeleri saniyede en fazla 30 kez yenileyin ve HUD metnini yalnızca değerler değiştiğinde güncelleyin. Çarpışmayı (basit çemberler) görsel mesh'lerden ayırın. Yazı tiplerini, modelleri ve dokuları derlemede statik bir klasör kullanılabilmesi için aynı origin üzerinden paketleyin. Masaüstü ve telefon tarayıcılarını, yatay telefonlar ve güvenli alanlar dâhil olmak üzere 320 px ve üzeri genişliklerde hedefleyin. Model karmaşıklığı ekrandaki boyuta göre belirlenmelidir; sabit bir poligon sınırı koymayın.
+
+## 7. Tamamlanma ölçütleri
+- Eksiksiz akış çalışır: tanıtım, kazanma ve kaybetmeyle sonuçlanan savaş, duraklatma/devam ettirme, aynı ekipmanla yeniden başlatma ve ekipman değiştirme.
+- 10 kahramanın ve 12 silahın tamamı yüklenir ve yukarıdaki değerlere göre davranır; herhangi bir ekipmanla 180 s'lik oyun hatasız tamamlanır.
+- Joystick ile Atılma'nın aynı anda kullanılması da dâhil olmak üzere klavye ve dokunmatik kontrollerin ikisi de çalışır.
+- GLB içe aktarma seçilen kahramanın veya silahın görünümünü değiştirir ve hatalı dosyaları sorunsuz biçimde reddeder.
+- Tripo3D / Simple3D anahtarı, oyun sırasında tüm modelleri değiştirir.
+- Açılış, savaş ortası ve sonuç ekranları referanslarla eşleşir; çalıştırılabilir kaynak kodu, başlatma komutunu ve statik production build'i sağlayın.
+
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/odd-arms) · [Orijinal gönderi](https://odd-arms.tripo.page/) · [Canlı demo](https://odd-arms.tripo.page/) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="akari-nagoya-rooftop-flame-relay"></a>
 
 ### AKARI: Nagoya Çatı Alevi Bayrak Yarışı
@@ -3882,24 +4073,6 @@ Unity’de sahilde geçen oynanabilir bir 3D hazine avı oluşturun. Düşük po
 
 ---
 
-<a id="2096560142871658589"></a>
-
-### Unity VFX ile Blender modelleri
-
-[ねぎぽよし](https://x.com/CST_negi) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/blender-models-with-unity-vfx-2096560142871658589"><img src="../assets/previews/d13ca069743cb65e0501484737d96a1fbde81927026e9b8837b149ece9b0693d.webp" width="840" loading="lazy" alt="Unity VFX ile Blender modelleri"></a>
-
-**İstem**
-
-```text
-Sahne modellerini Blender’da oluşturup Unity’ye aktarın. VFX Graph ile efektler ekleyin ve modeller ile efektlerin birlikte açıkça seçilebildiği bir aydınlatma kurun.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/blender-models-with-unity-vfx-2096560142871658589) · [Orijinal gönderi](https://x.com/CST_negi/status/2096560142871658589) · [Örneklere dön](#all-prompts)
-
----
-
 <a id="2096572429066006845"></a>
 
 ### SpeedTree’de Hint mango ağacı
@@ -3972,28 +4145,10 @@ Başlangıç konumları arasında çok küçük fark bulunan iki Lorenz sistemi 
 
 ---
 
-<a id="2096559197999501724"></a>
-
-### 2D logodan animasyonlu karaktere
-
-[Anthony Riera](https://x.com/anthonyriera) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724"><img src="../assets/previews/8dcd8f7d1406525c0a56e16bf3bc2591fb0191c1e4226f74cc364b4daa841efd.webp" width="840" loading="lazy" alt="2D logodan animasyonlu karaktere"></a>
-
-**İstem**
-
-```text
-Sağlanan 2D karakter logosunu animasyonlu bir 3D sürüme dönüştürün. Karakter hacim ve hareket kazanırken tanınabilir kimliğini koruyun.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724) · [Orijinal gönderi](https://x.com/anthonyriera/status/2096559197999501724) · [Örneklere dön](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 248 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 250 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>
