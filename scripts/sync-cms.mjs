@@ -5,7 +5,7 @@ import { createCMS, fetchCollection, promptQuery, revision } from './lib/cms.mjs
 import { hash, json, prepareMedia, readManifest } from './lib/media.mjs'
 import { renderAll } from './lib/render.mjs'
 import { locales } from './lib/locales.mjs'
-import { CATALOG_LIMIT, selectCatalog } from './lib/catalog.mjs'
+import { CATALOG_LIMIT, selectCatalog, selectFeatured, selectMediaPrompts } from './lib/catalog.mjs'
 import { validateOutputs } from './validate.mjs'
 
 async function main() {
@@ -14,13 +14,15 @@ async function main() {
   console.log(`Verified ${allPrompts.length} published Astra prompts × ${locales.length} complete languages`)
   if (process.argv.includes('--verify-only')) return
   const prompts = selectCatalog(allPrompts)
-  const output = await prepareMedia(prompts, cms, await readManifest())
+  const featured = selectFeatured(allPrompts)
+  const mediaPrompts = selectMediaPrompts(allPrompts)
+  const output = await prepareMedia(mediaPrompts, cms, await readManifest())
   for (const [path, contents] of renderAll(allPrompts)) output.set(path, contents)
   // Avoid a mixed snapshot if editors publish/unpublish or edit a prompt while syncing.
   const latest = await cms.all('prompts', { ...promptQuery(modelId), depth: '0', 'select[id]': 'true', 'select[updatedAt]': 'true' })
   assert.equal(revision(latest), initialRevision, 'CMS changed during sync; no files were published. Rerun sync.')
   const files = [...output].filter(([path]) => path.endsWith('.md') || path.endsWith('manifest.json')).map(([path, content]) => ({ path, sha256: hash(content), bytes: Buffer.byteLength(content) })).sort((a, b) => a.path.localeCompare(b.path, 'en'))
-  output.set('docs/sync-manifest.json', json({ schemaVersion: 1, model: 'gpt-6-astra', count: prompts.length, totalCount: allPrompts.length, sourceCodeCount: allPrompts.filter(p => p.repository).length, limit: CATALOG_LIMIT, locales: locales.map(l => l.code), promptIds: prompts.map(p => p.id), imagePromptIds: prompts.filter(p => p.images.length).map(p => p.id), files }))
+  output.set('docs/sync-manifest.json', json({ schemaVersion: 1, model: 'gpt-6-astra', count: prompts.length, totalCount: allPrompts.length, sourceCodeCount: allPrompts.filter(p => p.repository).length, limit: CATALOG_LIMIT, locales: locales.map(l => l.code), promptIds: prompts.map(p => p.id), featuredPromptIds: featured.map(p => p.id), imagePromptIds: mediaPrompts.filter(p => p.images.length).map(p => p.id), files }))
   await mkdir('.cache', { recursive: true })
   const staging = await mkdtemp('.cache/sync-')
   try {
@@ -60,7 +62,7 @@ async function main() {
       }
       throw error
     }
-    console.log(`Synced latest ${prompts.length} of ${allPrompts.length} prompts into 14 catalogs, 2 READMEs and the source-code index`)
+    console.log(`Synced latest ${prompts.length} of ${allPrompts.length} prompts and ${featured.length} editorial picks into 14 catalogs, 2 READMEs and the source-code index`)
   } finally { await rm(staging, { recursive: true, force: true }) }
 }
 main().catch(error => { console.error(error.message); process.exitCode = 1 })

@@ -2,6 +2,7 @@ import assert from 'node:assert/strict'
 import { createHash } from 'node:crypto'
 import { readFile } from 'node:fs/promises'
 import sharp from 'sharp'
+import { selectFeatured } from './catalog.mjs'
 
 export const hash = bytes => createHash('sha256').update(bytes).digest('hex')
 export const json = value => JSON.stringify(value, null, 2) + '\n'
@@ -58,7 +59,7 @@ export async function prepareMedia(prompts, cms, previous = { files: [] }) {
     })
   }
   const files = [...records.values()].sort((a, b) => a.path.localeCompare(b.path, 'en') || a.fingerprint.localeCompare(b.fingerprint, 'en'))
-  const picks = prompts.filter(p => p.featured && p.images.length).sort((a, b) => a.order - b.order || a.id.localeCompare(b.id, 'en')).slice(0, 4)
+  const picks = selectFeatured(prompts).filter(p => p.images.length)
   for (const prompt of picks) {
     const source = output.get(prompt.images[0])
     const fingerprint = hash(`sharp-contain-840x525-webp88-v1:${hash(source)}`)
@@ -66,7 +67,7 @@ export async function prepareMedia(prompts, cms, previous = { files: [] }) {
     const bytes = await cached(prior) || await sharp(source).rotate().resize(840, 525, { fit: 'contain', background: '#10150f' }).webp({ quality: 88 }).toBuffer()
     prompt.featuredImage = `assets/featured/${prompt.id}.webp`
     output.set(prompt.featuredImage, bytes)
-    files.push({ path: prompt.featuredImage, fingerprint, sha256: hash(bytes), bytes: bytes.length, sourceUrl: prompt.source, promptIds: [prompt.id], width: 840, height: 525 })
+    files.push({ path: prompt.featuredImage, fingerprint, sha256: hash(bytes), bytes: bytes.length, sourceUrl: prompt.media[0].source, promptIds: [prompt.id], width: 840, height: 525 })
   }
   output.set('assets/manifest.json', json({ schemaVersion: 2, note: 'Generated images from CMS. Source attribution remains in the catalogs. Featured previews preserve the complete frame.', files }))
   return output

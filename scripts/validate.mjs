@@ -4,7 +4,7 @@ import { dirname, join, resolve, relative } from 'node:path'
 import { pathToFileURL } from 'node:url'
 import { createHash } from 'node:crypto'
 import { locales } from './lib/locales.mjs'
-import { CATALOG_LIMIT, galleryNotice } from './lib/catalog.mjs'
+import { CATALOG_LIMIT, FEATURED_LIMIT, galleryNotice } from './lib/catalog.mjs'
 
 const hash = bytes => createHash('sha256').update(bytes).digest('hex')
 const withoutFences = content => {
@@ -43,9 +43,13 @@ export async function validateOutputs(staging = '.') {
     assert.equal(bytes.length, file.bytes, `Generated file size mismatch: ${file.path}`)
   }
   const imagePromptIds = manifest.imagePromptIds ?? manifest.promptIds
+  const featuredPromptIds = manifest.featuredPromptIds ?? []
+  assert(featuredPromptIds.length <= FEATURED_LIMIT && new Set(featuredPromptIds).size === featuredPromptIds.length, 'Invalid featured selection')
+  const mediaPromptIds = new Set([...manifest.promptIds, ...featuredPromptIds])
   assert.equal(new Set(imagePromptIds).size, imagePromptIds.length, 'Duplicate image prompt IDs')
-  assert(imagePromptIds.every(id => manifest.promptIds.includes(id)), 'Unknown image prompt ID')
+  assert(imagePromptIds.every(id => mediaPromptIds.has(id)), 'Unknown image prompt ID')
   assert.deepEqual([...new Set(media.files.filter(f => f.path.startsWith('assets/previews/')).flatMap(f => f.promptIds))].sort(), [...imagePromptIds].sort())
+  if (manifest.featuredPromptIds) assert.deepEqual(media.files.filter(f => f.path.startsWith('assets/featured/')).flatMap(f => f.promptIds).sort(), featuredPromptIds.filter(id => imagePromptIds.includes(id)).sort(), 'Missing featured images')
   let linkCount = 0
   for (const path of expected.filter(p => p.endsWith('.md'))) {
     const content = (await read(path)).toString()
@@ -54,6 +58,7 @@ export async function validateOutputs(staging = '.') {
     const prose = withoutFences(content)
     assert(!/source-derived|hidden prompt|来源整理稿|Get the JSON|Try an idea, then make it yours|What “prompt” means here/i.test(prose), `Removed copy returned in ${path}`)
     if (path !== 'docs/with-code.md') {
+      if (manifest.featuredPromptIds) assert.equal([...prose.matchAll(/<td width="50%" valign="top">/g)].length, featuredPromptIds.length, `Missing featured cards: ${path}`)
       const locale = locales.find(l => path === `docs/catalog.${l.code}.md` || path === (l.code === 'en' ? 'README.md' : l.code === 'zh' ? 'README.zh-CN.md' : ''))
       const detailPrefix = `[${locale.detail} ↗](https://www.tripo3d.ai${locale.code === 'en' ? '' : `/${locale.code}`}/3d-prompts/`
       assert.equal(content.split(detailPrefix).length - 1, manifest.count, `Every example must have one localized detail link: ${path}`)

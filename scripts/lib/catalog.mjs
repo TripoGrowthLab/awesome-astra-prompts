@@ -1,14 +1,23 @@
 import { modelSlug } from './locales.mjs'
 
 export const CATALOG_LIMIT = 100
+export const FEATURED_LIMIT = 4
 
 // Choose the newest source publications, then preserve CMS presentation order.
-// The same selection feeds media, every language, featured cards and the code index.
+// Editorial picks are independent of this rolling latest-publications window.
 export function selectCatalog(prompts) {
   const ids = new Set([...prompts].sort((a, b) =>
     (b.publishedAt || b.date).localeCompare(a.publishedAt || a.date) || b.id.localeCompare(a.id, 'en', { numeric: true })
   ).slice(0, CATALOG_LIMIT).map(p => p.id))
   return prompts.filter(p => ids.has(p.id))
+}
+
+export function selectFeatured(prompts) {
+  return prompts.filter(p => p.featured).sort((a, b) => a.order - b.order || a.id.localeCompare(b.id, 'en')).slice(0, FEATURED_LIMIT)
+}
+
+export function selectMediaPrompts(prompts) {
+  return [...new Map([...selectCatalog(prompts), ...selectFeatured(prompts)].map(p => [p.id, p])).values()]
 }
 
 const copy = {

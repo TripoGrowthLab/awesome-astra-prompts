@@ -138,3 +138,56 @@ test('uses the slug when a source identifier is not a safe Markdown anchor', () 
   assert.equal(prompt.id, value.slug)
   assert.equal(prompt.date, '2026-09-08')
 })
+
+test('original internal projects retain author credit without inventing a source post', async () => {
+  const value = doc()
+  value.source = { platform: 'internal' }
+  value.publishedAt = '2026-09-08T00:00:00Z'
+  value.editorial.featured = true
+  value.media = []
+  const [prompt] = projectPrompts([value], 1, origin)
+  assert.equal(prompt.source, null)
+  assert.equal(prompt.id, value.slug)
+  assert.equal(prompt.author.url, value.author.url)
+  prompt.images = []
+  for (const [path, content] of renderAll([prompt])) {
+    if (path === 'docs/with-code.md') continue
+    assert(content.includes('Creator'))
+    assert(content.includes('https://example.com/creator'))
+    assert(!content.includes('(null)') && !content.includes('href="null"') && !content.includes('undefined'))
+    assert.equal([...content.matchAll(/<td width="50%" valign="top">/g)].length, 1)
+  }
+  value.author.url = null
+  const [unlinked] = projectPrompts([value], 1, origin)
+  unlinked.images = []
+  assert(renderAll([unlinked]).get('README.md').includes('Creator · 2026-09-08'))
+  value.source.platform = 'x'
+  assert.throws(() => projectPrompts([value], 1, origin), /Missing source attribution/)
+  value.source.platform = 'internal'
+  value.author.name = ''
+  assert.throws(() => projectPrompts([value], 1, origin), /Missing source attribution/)
+})
+
+test('video cover supplies a preview for video-only projects without exporting the video', () => {
+  const value = doc()
+  const cover = value.media[0]
+  value.media = []
+  value.video = { url: 'https://media.tripogrowth.space/media/movie.mp4', cover }
+  const [prompt] = projectPrompts([value], 1, origin)
+  assert.equal(prompt.media.length, 1)
+  assert.equal(prompt.media[0].url, cover.url)
+  assert(!JSON.stringify(prompt).includes('movie.mp4'))
+  value.video.cover = { ...cover, url: 'https://untrusted.example/cover.webp' }
+  assert.throws(() => projectPrompts([value], 1, origin), /another origin/)
+})
+
+test('featured author links use the credited author rather than an inspiration post', () => {
+  const value = doc()
+  value.editorial.featured = true
+  const [prompt] = projectPrompts([value], 1, origin)
+  prompt.images = ['assets/previews/example.webp']
+  prompt.featuredImage = 'assets/featured/example.webp'
+  const content = renderAll([prompt]).get('README.md')
+  assert(content.includes('<sub><a href="https://example.com/creator">Creator</a></sub>'))
+  assert(content.includes('(https://example.com/post)'))
+})

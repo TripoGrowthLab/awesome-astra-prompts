@@ -111,19 +111,24 @@ export function projectPrompts(docs, modelId, cmsOrigin) {
       return [locale.code, entry]
     }))
     const source = publicURL(doc.source?.url, cmsOrigin)
-    assert(source && doc.author?.name?.trim(), `Missing source attribution for ${id}`)
+    // Original CMS projects have an author but need not have an external post.
+    // Imported work still requires its original source; never fabricate one.
+    assert((source || doc.source?.platform === 'internal') && doc.author?.name?.trim(), `Missing source attribution for ${id}`)
+    const authorURL = publicURL(doc.author.url, cmsOrigin) || source
+    const attributionURL = source || authorURL || `https://www.tripo3d.ai/3d-prompts/${doc.slug}`
     const date = doc.source?.publishedAt || doc.publishedAt
     assert(date && !Number.isNaN(Date.parse(date)), `Missing source date for ${id}`)
     // Images are optional in CMS: video-only and text prompts are publishable.
     assert(Array.isArray(doc.media), `Invalid image list for ${id}`)
-    const media = doc.media.map(m => {
+    const images = doc.media.length ? doc.media : doc.video?.cover ? [doc.video.cover] : []
+    const media = images.map(m => {
       assert(m && typeof m === 'object' && /^image\/(webp|png|jpeg|gif)$/.test(m.mimeType), `Invalid preview image for ${id}`)
       assert(Number.isInteger(m.filesize) && m.filesize > 0 && m.filesize <= 25 * 1024 * 1024, `Invalid preview size for ${id}`)
       const { url } = mediaURL(m.url, cmsOrigin)
-      return { url: url.href, mimeType: m.mimeType, filesize: m.filesize, updatedAt: m.updatedAt, source: publicURL(m.sourceURL, cmsOrigin) || source }
+      return { url: url.href, mimeType: m.mimeType, filesize: m.filesize, updatedAt: m.updatedAt, source: publicURL(m.sourceURL, cmsOrigin) || attributionURL }
     })
     return {
-      id, slug: doc.slug, translations, author: { name: doc.author.name, url: publicURL(doc.author.url, cmsOrigin) || source },
+      id, slug: doc.slug, translations, author: { name: doc.author.name, url: authorURL },
       source, date: date.slice(0, 10), publishedAt: new Date(date).toISOString(), repository: publicURL(doc.links?.repository, cmsOrigin), demo: publicURL(doc.links?.liveDemo, cmsOrigin),
       media, featured: Boolean(doc.editorial?.featured), order: Number.isFinite(doc.editorial?.order) ? doc.editorial.order : 0,
     }
@@ -135,7 +140,7 @@ export async function fetchCollection(cms) {
   assert.equal(models.length, 1, 'Expected exactly one Astra model')
   assert(models[0].active, 'Astra model is inactive')
   const modelId = models[0].id
-  const selection = Object.fromEntries(['id', 'title', 'slug', 'status', 'model', 'description', 'prompt', 'source', 'author', 'media', 'links', 'editorial', 'publishedAt', 'updatedAt'].map(field => [`select[${field}]`, 'true']))
-  const docs = await cms.all('prompts', { ...promptQuery(modelId), ...selection })
+  const selection = Object.fromEntries(['id', 'title', 'slug', 'status', 'model', 'description', 'prompt', 'source', 'author', 'media', 'video', 'links', 'editorial', 'publishedAt', 'updatedAt'].map(field => [`select[${field}]`, 'true']))
+  const docs = await cms.all('prompts', { ...promptQuery(modelId), ...selection, depth: '2' })
   return { prompts: projectPrompts(docs, modelId, cms.origin), revision: revision(docs), modelId }
 }

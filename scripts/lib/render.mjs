@@ -1,10 +1,11 @@
 import { locales, repository } from './locales.mjs'
-import { selectCatalog, catalogTitle, galleryNotice } from './catalog.mjs'
+import { selectCatalog, selectFeatured, catalogTitle, galleryNotice } from './catalog.mjs'
 
 export const html = value => String(value).replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;').replaceAll('"', '&quot;')
 const md = value => html(value).replace(/[\\\[\]|*_`]/g, char => `\\${char}`).replace(/\r?\n/g, ' ')
 const linkURL = url => url.replaceAll('(', '%28').replaceAll(')', '%29')
 const link = (label, url) => `[${md(label)}](${linkURL(url)})`
+const authorLink = prompt => prompt.author.url ? link(prompt.author.name, prompt.author.url) : md(prompt.author.name)
 const root = `https://github.com/${repository}`
 const generated = '<!-- Generated from Growth CMS. Update content in CMS; run npm run sync. -->'
 const publicPage = (prompt, locale) => `https://www.tripo3d.ai${locale.code === 'en' ? '' : `/${locale.code}`}/3d-prompts/${prompt.slug}`
@@ -26,7 +27,7 @@ function badges(prompts, locale, prefix) {
 const preview = (prompt, entry, locale, path, width = 840) => `<a href="${html(publicPage(prompt, locale))}"><img src="${path}" width="${width}" loading="lazy" alt="${html(entry.title)}"></a>`
 const links = (prompt, locale) => [
   link(`${locale.detail} ↗`, publicPage(prompt, locale)),
-  link(locale.source, prompt.source),
+  ...(prompt.source ? [link(locale.source, prompt.source)] : []),
   ...(prompt.repository ? [link(locale.repository, prompt.repository)] : []),
   ...(prompt.demo ? [link(locale.demo, prompt.demo)] : []),
   link(locale.back, '#all-prompts'),
@@ -40,9 +41,10 @@ function fenced(value) {
 export function renderCatalog(prompts, locale, prefix = '') {
   const total = prompts.length
   const sourceCodeCount = prompts.filter(p => p.repository).length
+  const picks = selectFeatured(prompts)
   prompts = selectCatalog(prompts)
+  const catalogIds = new Set(prompts.map(p => p.id))
   const zh = locale.code === 'zh', en = locale.code === 'en'
-  const picks = prompts.filter(p => p.featured && p.images.length).sort((a, b) => a.order - b.order || a.id.localeCompare(b.id, 'en')).slice(0, 4)
   const lines = [generated, '', '# Awesome Astra Prompts', '', badges(prompts, locale, prefix), '',
     `<a href="https://www.tripo3d.ai${en ? '' : `/${locale.code}`}/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=readme_hero"><img src="${prefix}assets/hero.webp" width="100%" alt="Awesome Astra Prompts"></a>`, '',
     `**${locale.intro}**`, '',
@@ -55,7 +57,10 @@ export function renderCatalog(prompts, locale, prefix = '') {
       lines.push('<tr>')
       for (const prompt of picks.slice(i, i + 2)) {
         const entry = prompt.translations[locale.code]
-        lines.push(`<td width="50%" valign="top">${preview(prompt, entry, locale, prefix + prompt.featuredImage, 420)}<br><strong><a href="#${prompt.id}">${html(entry.title)}</a></strong><br><sub><a href="${html(prompt.source)}">${html(prompt.author.name)}</a></sub><br><a href="#${prompt.id}">${html(locale.prompt)} →</a>${prompt.repository ? ` · <a href="${html(prompt.repository)}">GitHub ↗</a>` : ''}</td>`)
+        const target = catalogIds.has(prompt.id) ? `#${prompt.id}` : publicPage(prompt, locale)
+        const image = prompt.featuredImage ? `${preview(prompt, entry, locale, prefix + prompt.featuredImage, 420)}<br>` : ''
+        const author = prompt.author.url ? `<a href="${html(prompt.author.url)}">${html(prompt.author.name)}</a>` : html(prompt.author.name)
+        lines.push(`<td width="50%" valign="top">${image}<strong><a href="${html(target)}">${html(entry.title)}</a></strong><br><sub>${author}</sub><br><a href="${html(target)}">${html(locale.prompt)} →</a>${prompt.repository ? ` · <a href="${html(prompt.repository)}">GitHub ↗</a>` : ''}</td>`)
       }
       lines.push('</tr>')
     }
@@ -72,7 +77,7 @@ export function renderCatalog(prompts, locale, prefix = '') {
   }
   for (const prompt of prompts) {
     const entry = prompt.translations[locale.code]
-    lines.push(`<a id="${prompt.id}"></a>`, '', `### ${md(entry.title)}`, '', `${link(prompt.author.name, prompt.author.url)} · ${prompt.date}`, '')
+    lines.push(`<a id="${prompt.id}"></a>`, '', `### ${md(entry.title)}`, '', `${authorLink(prompt)} · ${prompt.date}`, '')
     for (const image of prompt.images) lines.push(preview(prompt, entry, locale, prefix + image), '')
     if (entry.description && entry.description.trim() !== entry.prompt.trim() && descriptionCounts.get(entry.description) === 1) lines.push(md(entry.description), '')
     lines.push(`**${locale.prompt}**`, '', fenced(entry.prompt), '', links(prompt, locale), '', '---', '')
@@ -98,7 +103,7 @@ export function renderAll(prompts) {
   const repos = [...new Set(prompts.map(p => p.repository).filter(Boolean))]
   for (const repo of repos) {
     lines.push(`## ${link(repo.replace('https://github.com/', ''), repo)}`, '')
-    for (const p of prompts.filter(p => p.repository === repo)) lines.push(`- ${link(p.translations.en.title, `catalog.en.md#${p.id}`)} · ${link(p.author.name, p.source)}`)
+    for (const p of prompts.filter(p => p.repository === repo)) lines.push(`- ${link(p.translations.en.title, `catalog.en.md#${p.id}`)} · ${authorLink(p)}`)
     lines.push('')
   }
   output.set('docs/with-code.md', lines.join('\n'))
