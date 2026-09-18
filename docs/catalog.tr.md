@@ -26,13 +26,18 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**235 · En yeni Astra istemleri**
+**248 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/tr/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/featured/2096525100518453342.webp" width="420" loading="lazy" alt="Blender’da değiştirilebilir karakter ifadeleri"></a><br><strong><a href="#2096525100518453342">Blender’da değiştirilebilir karakter ifadeleri</a></strong><br><sub><a href="https://x.com/Dstudio_ai/status/2096525100518453342">Nano(ナノ)</a></sub><br><a href="#2096525100518453342">İstem →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/tr/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="../assets/featured/2096467585785286808.webp" width="420" loading="lazy" alt="Japon Ormanında Wright Flyer"></a><br><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808">Japon Ormanında Wright Flyer</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="https://www.tripo3d.ai/tr/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808">İstem →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/tr/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188"><img src="../assets/featured/2081024333120733188.webp" width="420" loading="lazy" alt="Jöle Ormanı: 3B Platform Oyunu"></a><br><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188">Jöle Ormanı: 3B Platform Oyunu</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="https://www.tripo3d.ai/tr/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188">İstem →</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/tr/3d-prompts/akari-nagoya-rooftop-flame-relay"><img src="../assets/featured/akari-nagoya-rooftop-flame-relay.webp" width="420" loading="lazy" alt="AKARI: Nagoya Çatı Alevi Bayrak Yarışı"></a><br><strong><a href="#akari-nagoya-rooftop-flame-relay">AKARI: Nagoya Çatı Alevi Bayrak Yarışı</a></strong><br><sub><a href="https://growthengineer.space/">Jared</a></sub><br><a href="#akari-nagoya-rooftop-flame-relay">İstem →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/tr/3d-prompts/cyclops-island-threejs-game"><img src="../assets/featured/cyclops-island-threejs-game.webp" width="420" loading="lazy" alt="Kiklop’un Adası"></a><br><strong><a href="#cyclops-island-threejs-game">Kiklop’un Adası</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="#cyclops-island-threejs-game">İstem →</a></td>
 </tr>
 </table>
 
@@ -47,9 +52,8 @@
 - [İnsan başı ve beyninin etkileşimli 3B atlası](#2098105648106078541) · GitHub
 - [Çernobil Atlası](#2098841316591346006) · GitHub
 - [Etkileşimli 3B Anatomi Gezgini](#2099206962344800541) · GitHub
+- [İzometrik fantezi grafik demosu](#2100271998618177864) · GitHub
 - [Mosswing: Mobil 3B Dokunarak Uçma Oyunu](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Çift halkalı etkileşimli enerji çekirdeği](#2096551010089263181) · GitHub
-- [Hezekiel’in Tapınak Vizyonu: 3B](#2096547658164834788)
 - [3B Şehirde Nükleer Patlama Simülasyonu](#2096562462674079868)
 - [Totality Engine: Sinematik Tutulma Katedrali](#2096593372311941143)
 - [Three.js ile CS2 oluştur](#2096596888799895855)
@@ -109,39 +113,40 @@
 - [Tarayıcıda oynanabilir 3B kıyı bölümü](#2099172061092381027)
 - [Peach’s Castle’ı 3B olarak yeniden tasarla](#2099359786865402019)
 - [Çarpışma Önlemeli Otonom Model Demiryolu](#2099362575339372780)
-- [Tepegöz Adası izometrik 3B tarayıcı oyunu](#2099414001851449430)
 - [Oynanabilir 3B Engel Parkuru](#2099419671481249851)
 - [Etkileşimli 3B Samuray Ormanı Sahnesi](#2099450933067612421)
 - [200 poligonun altında kozalaklı ağaç modeli](#2099472264270102705)
 - [Çok yüksek gökdelenlerle dolu 3B dünya](#2099487024256589970)
 - [Savaşçı Devin Üzerine Tırmanıp Çenesine Vuruyor](#2099519801139908951)
+- [Bir otel koridoru sahnesi oluştur](#2099588840419651890)
 - [Kaçan teknelerin bulunduğu etkileşimli volkanik ada](#2099643231659012553)
 - [Etkileşimli 3B organizma sinir sistemi paneli](#2099719427990134984)
 - [Apple tarzı 3B kalp ve gülümseyen emoji](#2099750376530657300)
+- [Erişilebilir prosedürel uzay keşif oyunu](#2099785223827259515)
 - [Referans görsellerden hareketli 3B ortam ve oyun karakteri oluşturma](#2099850719839109597)
-- [Blender’da değiştirilebilir karakter ifadeleri](#2096525100518453342)
+- [Hareketli mobilyalara sahip etkileşimli 3B oda sahnesi](#2100139076816916977)
+- [PC için Splatoon geliştirme ve grafiklerin yeniden oluşturulması](#2100193512373592313)
+- [Fayans seçenekleriyle interaktif daire turu](#2100222426705453318)
+- [Yeraltı İstasyonunda AAA CGI Doğaüstü Dövüş Kısa Filmi](#2100233407108137349)
+- [Korkuluğa bakım zinciri ekle](#2100519026720231698)
+- [3B Yarış Oyunu Oluştur](#2100526922770026874)
+- [Kapatılmış Araştırma Tesisinden Kaçış: Tarayıcıda 3B Oyun](#2100595652703199281)
+- [CAD ile kendi gövdesi](#2100614534423540102)
+- [AKARI: Nagoya Çatı Alevi Bayrak Yarışı](#akari-nagoya-rooftop-flame-relay)
+- [Kiklop’un Adası](#cyclops-island-threejs-game)
 - [Döndürülebilir 3D shogi tahtası](#2096579856133947507)
 - [Parçalarına ayrılan masaüstü bilgisayar atlası](#2096578761877860502)
 - [Çocuk odası ve çalışma alanı planlayıcısı](#2096578684010508736)
-- [Seul’ün etkileşimli minyatürü](#2096557555086725159)
 - [Blender’da sıfırdan modellenen ev](#2096576154337734865)
-- [Üst kat planından Blender önizlemesine](#2096501340889374883)
 - [The Quiet Crossing keşif macerası](#2096574297703637111)
 - [Kırsalda ilerleyen buharlı lokomotif](#2096577430274429157)
 - [Masa üstünde pikap sahnesi](#2096561346766877106)
-- [Koleksiyon kartı savaş oyununun döngüsü](#2096555856204644550)
-- [Three.js ile tamamlanmış bulmaca bölümü](#2096505740643246231)
 - [Düşük poligonlu sahilde hazine avı](#2096570815714414844)
 - [Unity VFX ile Blender modelleri](#2096560142871658589)
-- [Telefonda oynanabilen Unity ralli oyunu](#2096556692842348826)
 - [SpeedTree’de Hint mango ağacı](#2096572429066006845)
 - [Tripo karakterine doku ve rig hazırlama](#2096566598689783878)
 - [Daire eskizinden iç mekân render’larına](#2096566686266597754)
-- [Geometry Nodes ile döngüsel su yüzeyi](#2096521798150242631)
-- [One Piece esintili denizcilik dünyası](#2096518775042707700)
 - [Etkileşimli Lorenz çekicisi](#2096572156453028193)
-- [Kişisel odadan etkileşimli portfolyoya](#2096506357868642342)
-- [Sakin bir 3D denizde YF-24 teknesi](#2096503275910832461)
 - [2D logodan animasyonlu karaktere](#2096559197999501724)
 
 </details>
@@ -282,6 +287,26 @@ Mümkün olan yerlerde gerçek anatomik geometri kullan, kaynaklara atıfta bulu
 
 ---
 
+<a id="2100271998618177864"></a>
+
+### İzometrik fantezi grafik demosu
+
+[github.com](https://github.com/) · 2026-09-16
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100271998618177864"><img src="../assets/previews/851c2340f464e95b33eb0dd10894129a620b694b37838698fe011988fadf0d3e.jpg" width="840" loading="lazy" alt="İzometrik fantezi grafik demosu"></a>
+
+İzometrik kameralı, voxel esintili sanat yönetimine, ıslak ve yansıtıcı zeminlere ve hareket ettirilebilen bir karaktere sahip, tarayıcı tabanlı etkileşimli bir fantezi 3B sahnesi. Bağlantısı verilen Dream Loop deposu bunu örnek istemi olarak sunuyor ve GPT-6 Astra ile Codex'te test edildiğini belirtiyor. İstemde oynanış döngüsü istenmiyor.
+
+**İstem**
+
+```text
+Bana bir grafik demosu oluştur: izometrik kamera, gerçekçi gölgelendirmeye ve yansıtıcı ıslak zeminlere sahip voxel esintili sanat tarzı ve ilgi çekici bir sahnede bir karakter. Fantezi ortamı (Elden Ring veya Diablo'yu düşün). Tarayıcıda Three.js kullan, 60 FPS'nin üzerinde çalışsın. Varlıkları indirme. Süre sınırı 1 saat. Kontroller: Karakteri hareket ettirmek için tıkla; kamera karakteri yumuşak bir şekilde takip etsin. Kamerayı döndürmek için sürükle; yakınlaştırmak ve uzaklaştırmak için kaydır. Şimdilik oynanış olmasın. Dünya canlı hissettirmeli: hareketler, animasyonlar ve çevrenin ince tepkileri olsun. Oyuncunun çevresindeki alan geniş görünmeli, ancak hareket yalnızca sınırlı bir bölgede mümkün olmalı. Sanatı benimle teyit etmene veya soru sormana gerek yok, hemen başla!
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100271998618177864) · [Orijinal gönderi](https://github.com/achimala/dream-loop) · [Kaynak kodu](https://github.com/achimala/dream-loop) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="mosswing-mobile-3d-tap-to-flap-game"></a>
 
 ### Mosswing: Mobil 3B Dokunarak Uçma Oyunu
@@ -299,44 +324,6 @@ Klasik "dokunarak uçma" oyununu — küçük bir yaratığı havada tutmak içi
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Orijinal gönderi](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Kaynak kodu](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Canlı demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096551010089263181"></a>
-
-### Çift halkalı etkileşimli enerji çekirdeği
-
-[ruofeng](https://x.com/oneruofeng) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181"><img src="../assets/previews/6e5f5eddec63a18ae0d3ecf97b602134366d92611a36c4729098b5c8bb9c4275.webp" width="840" loading="lazy" alt="Çift halkalı etkileşimli enerji çekirdeği"></a>
-
-**İstem**
-
-```text
-Blender’da bir enerji çekirdeği, iki halka ve metal bir taban modelleyin. Malzemeleri döndürme, yakınlaştırma, otomatik yörünge ve nabız efekti kontrolleri sunan bir Three.js görüntüleyicisine aktarın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [Orijinal gönderi](https://x.com/oneruofeng/status/2096551010089263181) · [Kaynak kodu](https://github.com/wangruofeng/orbital-core-showcase) · [Canlı demo](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096547658164834788"></a>
-
-### Hezekiel’in Tapınak Vizyonu: 3B
-
-[KrixAi](https://x.com/KrixOnok) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096547658164834788"><img src="../assets/previews/eadc8f8cca00ee66056e71bf05b1b36329d411767d2d0f7e3d110e8889cdc48e.jpg" width="840" loading="lazy" alt="Hezekiel’in Tapınak Vizyonu: 3B"></a>
-
-Hezekiel’in tapınak vizyonunu ve avlularla yaşam veren bir nehri de içeren çevre manzarasını 3B sahne olarak yeniden oluşturmak için bir prompt.
-
-**İstem**
-
-```text
-Hezekiel’in tapınak vizyonu 3B olarak nasıl görünürdü?
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096547658164834788) · [Orijinal gönderi](https://x.com/KrixOnok/status/2096547658164834788) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -367,8 +354,6 @@ Bir şehir, nükleer flaş, genişleyen şok dalgası, ateş topu, duman ve patl
 [Chris W](https://x.com/Chris_Wozniczek) · 2026-09-06
 
 <a href="https://www.tripo3d.ai/tr/3d-prompts/totality-engine-cinematic-eclipse-cathedral-2096593372311941143"><img src="../assets/previews/52de12ef7c4dd44ec548962b86297e175683992ebdfdd2665699a18fe86bb9ca.jpg" width="840" loading="lazy" alt="Totality Engine: Sinematik Tutulma Katedrali"></a>
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/totality-engine-cinematic-eclipse-cathedral-2096593372311941143"><img src="../assets/previews/9e97a6d41453e28ab9686e13dcab0dcef1a92a9a19b5c06469dd6d763559548d.jpg" width="840" loading="lazy" alt="Totality Engine: Sinematik Tutulma Katedrali"></a>
 
 Anıtsal bir astronomik saat, yönetilmiş kamera geçişleri, prosedürel su, cam gezegenler ve tutulma aydınlatmasıyla su basmış gotik bir katedralin içinde geçen 32 saniyelik döngülü bir film için eksiksiz Three.js/WebGL istemi. Chris W, bir Astra çalışması ve diğer modellerle karşılaştırmasını yayımladı.
 
@@ -469,8 +454,6 @@ Hey GPT-6 Astra, Three.js ile bana CS2 yap; hiç hata yapma.
 ### Kesim Şablonundan Katlanır Kutu Animasyonu
 
 [Salma](https://x.com/Salmaaboukarr) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096612394281603144"><img src="../assets/previews/aed224d4a25ce9c0d436ebd4d2bfb7fadb211bdf624364e3f7905a0dbec1546f.jpg" width="840" loading="lazy" alt="Kesim Şablonundan Katlanır Kutu Animasyonu"></a>
 
 <a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096612394281603144"><img src="../assets/previews/8c6f1b8b77c2fbe4db5935da41922377548fb196ff642bf47e5acafa079b526a.png" width="840" loading="lazy" alt="Kesim Şablonundan Katlanır Kutu Animasyonu"></a>
 
@@ -1283,8 +1266,6 @@ Tamamen render’lanmış bir animasyon ve düzenlenebilir bir Blender 3B proje 
 ### Oluşturulmuş Referanstan Skyrim Esintili Köy Arazisi
 
 [Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo) · 2026-09-08
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097167383576383502"><img src="../assets/previews/9c9cbd259a893444392ed43dcb391e62636358a5f2f570cf4232cc13a2128a63.jpg" width="840" loading="lazy" alt="Oluşturulmuş Referanstan Skyrim Esintili Köy Arazisi"></a>
 
 <a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097167383576383502"><img src="../assets/previews/b2cb6b850ef77b3e545565d93a49f22ce192293b50f8ef2ad74f242cfe387ddf.jpg" width="840" loading="lazy" alt="Oluşturulmuş Referanstan Skyrim Esintili Köy Arazisi"></a>
 
@@ -3149,45 +3130,6 @@ Ortak bir hat düzeninde aynı anda çalışan en az üç tren içeren bir model
 
 ---
 
-<a id="2099414001851449430"></a>
-
-### Tepegöz Adası izometrik 3B tarayıcı oyunu
-
-[Jason Chew](https://x.com/jasoncjs_) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099414001851449430"><img src="../assets/previews/09544f1dda48f4288384850cffc3a8d4127273075bba899a6d5691ac2c90d730.jpg" width="840" loading="lazy" alt="Tepegöz Adası izometrik 3B tarayıcı oyunu"></a>
-
-Jason Chew tarafından paylaşılan, Homeros’un Odysseia’sındaki Tepegöz Adası’nda geçen eksiksiz ve etkileşimli bir tarayıcı oyunu için yeniden kullanılabilir GPT-6 Astra promptu. Prompt; Odysseus, mürettebatı, Tepegöz, açık denizdeki gemi, oyuncu hareketi, çarpışmalar, kamera kontrolleri, animasyon ve edebî hedef arayüzü içeren izometrik piksel sanatlı 3B Yunan adası dioraması ister.
-
-**İstem**
-
-```text
-Homeros’un Odysseia’sındaki Tepegöz Adası’nı temel alan etkileşimli bir tarayıcı deneyimi oluşturun.
-
-Animasyonlu bir okyanusla çevrili küçük bir Yunan adasının özenli, izometrik piksel sanatlı 3B dioramasını oluşturun. Kumlu bir kıyı, sık orman, kayalık uçurumlar, büyük bir mağara, Odysseus ve mürettebatı, Tepegöz ve açık denizde gemileri bulunsun.
-
-Küçük, oynanabilir bir oyun hissi verin:
-
-Odysseus’u WASD veya ok tuşlarıyla kontrol edin
-Yürümek için zemine tıklayın
-Kamerayı yatay kaydırmak için sürükleyin
-Yakınlaştırmak ve uzaklaştırmak için kaydırın
-Suya, ağaçlara, karakterlere ve çevreye hafif animasyonlar ekleyin
-Kamerayı döndürme, yakınlaştırma/uzaklaştırma, görünümü sıfırlama ve duraklatma kontrolleri ekleyin
-Oyuncunun kayaların, ağaçların veya suyun içinden geçememesi için çarpışma sistemi kullanın
-
-Sol alt köşeye koyu renkli, edebî bir arayüz paneli ekleyin:
-
-“Odysseus’u kumlu patika boyunca mağaraya götürün.”
-Altında mevcut karakteri ve hareket durumunu gösterin.
-Sanat yönetimi: ayrıntılı 1990’lar izometrik strateji/RPG piksel sanatı, solgun Akdeniz renkleri, dokulu arazi, sıcak parşömen tipografisi, hafif gren ve kaliteli bir oyun arayüzü kullanın. Eski, resimli bir haritanın canlanmış gibi görünmesini sağlayın.
-Deneyimin tamamı tarayıcı penceresini doldursun ve hemen çalışsın. Maket oluşturmayın. Eksiksiz, etkileşimli deneyimi geliştirin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099414001851449430) · [Orijinal gönderi](https://x.com/jasoncjs_/status/2099414001851449430) · [Örneklere dön](#all-prompts)
-
----
-
 <a id="2099419671481249851"></a>
 
 ### Oynanabilir 3B Engel Parkuru
@@ -3383,6 +3325,26 @@ music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
 
 ---
 
+<a id="2099588840419651890"></a>
+
+### Bir otel koridoru sahnesi oluştur
+
+[West Lord](https://x.com/MyWestLord) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099588840419651890"><img src="../assets/previews/9325046470adcbc69de0911728ede1548949019160e7a05cf16cc39155276e27.jpg" width="840" loading="lazy" alt="Bir otel koridoru sahnesi oluştur"></a>
+
+Gönderi yazarı tarafından, MCP aracılığıyla Blender'da düzenlenebilir bir otel koridoru sahnesi oluşturmak için GPT-6 Astra'ya atfedilen bir istem.
+
+**İstem**
+
+```text
+otel koridoru sahnesi oluştur
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099588840419651890) · [Orijinal gönderi](https://x.com/MyWestLord/status/2099588840419651890) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="2099643231659012553"></a>
 
 ### Kaçan teknelerin bulunduğu etkileşimli volkanik ada
@@ -3443,6 +3405,26 @@ Apple tarzı 3B kalp emojisi ve gülümseyen emoji
 
 ---
 
+<a id="2099785223827259515"></a>
+
+### Erişilebilir prosedürel uzay keşif oyunu
+
+[developers.openai.com](https://developers.openai.com/) · 2026-09-15
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099785223827259515"><img src="../assets/previews/4009749d3c10e1e7ab1c4246f910864404e0f5622f7580ebd3d9141386697db5.jpg" width="840" loading="lazy" alt="Erişilebilir prosedürel uzay keşif oyunu"></a>
+
+OpenAI geliştiricisinin Void Explorer için hazırladığı ilk brief. Tarayıcı tabanlı bu 3B uzay keşif oyunu; uzaydan bir gezegenin atmosferine, oradan da yüzeye kesintisiz bir yolculuk sunmayı amaçlıyor. Gerçek ölçekli mesafeler, Dünya büyüklüğünde gezegenler, prosedürel arazi ve parça tabanlı render sistemi talep ediliyor.
+
+**İstem**
+
+```text
+Görebildiğim her yere ulaşılabilmeli. Mesafeleri gerçek ölçeklerinde koru; seyahati ise ölçek ve hız sayesinde uygulanabilir hâle getir. Uzaydan bir gezegenin atmosferine girip yüzeye kadar uçabilmek istiyorum. Gezegenler Dünya kadar büyük olabilir; bu nedenle prosedürel araziye ve parça tabanlı bir render sistemine ihtiyacımız olacak.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099785223827259515) · [Orijinal gönderi](https://developers.openai.com/blog/how-to-build-games-with-astra) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="2099850719839109597"></a>
 
 ### Referans görsellerden hareketli 3B ortam ve oyun karakteri oluşturma
@@ -3481,21 +3463,278 @@ Eklediğiniz görsellere dayanarak dünya tasarımınızı ve karakterinizi, ger
 
 ---
 
-<a id="2096525100518453342"></a>
+<a id="2100139076816916977"></a>
 
-### Blender’da değiştirilebilir karakter ifadeleri
+### Hareketli mobilyalara sahip etkileşimli 3B oda sahnesi
 
-[Nano(ナノ)](https://x.com/Dstudio_ai) · 2026-09-06
+[Wentao Zhu](https://x.com/walterzhu8) · 2026-09-16
 
-<a href="https://www.tripo3d.ai/tr/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/previews/e172122424c525a2dfb3968370d9707b0f7f661172fde0f5cf326ba550884780.webp" width="840" loading="lazy" alt="Blender’da değiştirilebilir karakter ifadeleri"></a>
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100139076816916977"><img src="../assets/previews/591aedead77f86efdc2a1a79394718b6c85cb2db7d3d1470dc474aaceb7afc6c.jpg" width="840" loading="lazy" alt="Hareketli mobilyalara sahip etkileşimli 3B oda sahnesi"></a>
+
+Wentao Zhu tarafından öğrenci Minchao Jiang'a atfedilen bir GPT-6 Astra testi. İstem, sağlanan oda fotoğrafını temel alan etkileşimli bir 3B sahne; ayrıca menteşeler, kapılar ve çekmeceler için hareketli parçalar ve demo videosu için kamera hareketleri talep ediyor.
 
 **İstem**
 
 ```text
-Bir Tripo karakterinin ifade varyantlarını rig oluşturmadan önce Blender’da hazırlayın. Mesh’leri hizalayın ve aralarında yumuşak geçiş yapmadan değiştirin; etkin olmayan varyantları küçülterek başın içine alın. Bu yöntemin ifadeleri yumuşak biçimde harmanladığını veya VRM uyumlu olduğunu ima etmeyin.
+Sağladığım oda fotoğrafını temel alarak Blender MCP ile etkileşimli bir 3B sahne oluşturun ve bunu demo videosu olarak işleyin. Hareketli nesneleri (menteşeler, kapılar ve çekmeceler) dahil edin ve bu efektleri göstermek için amaca uygun kamera hareketleri kullanın.
 ```
 
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [Orijinal gönderi](https://x.com/Dstudio_ai/status/2096525100518453342) · [Örneklere dön](#all-prompts)
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100139076816916977) · [Orijinal gönderi](https://x.com/walterzhu8/status/2100139076816916977) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2100193512373592313"></a>
+
+### PC için Splatoon geliştirme ve grafiklerin yeniden oluşturulması
+
+[basio](https://x.com/basio39) · 2026-09-16
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100193512373592313"><img src="../assets/previews/cdd39cb88311df2f7d3d8c5fef6f09b5928eb79e22080c2cae0f51698f5bc0c9.jpg" width="840" loading="lazy" alt="PC için Splatoon geliştirme ve grafiklerin yeniden oluşturulması"></a>
+
+PC için Splatoon geliştirilmesini ve grafiklerin birebir yeniden oluşturulmasını isteyen bir prompt. Paylaşımı yapan kişi, Ultra’da yalnızca bu promptu çalıştırdığını belirtiyor.
+
+**İstem**
+
+```text
+/goal PC için Splatoon geliştirin. Grafikleri birebir yeniden oluşturun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100193512373592313) · [Orijinal gönderi](https://x.com/basio39/status/2100194321987461503) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2100222426705453318"></a>
+
+### Fayans seçenekleriyle interaktif daire turu
+
+[Shimecki](https://x.com/scheemunai) · 2026-09-16
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100222426705453318"><img src="../assets/previews/0653f3d309b3aa21c54ae9b90fb1def11f410764b84d7c3bf0493febf985d364.jpg" width="840" loading="lazy" alt="Fayans seçenekleriyle interaktif daire turu"></a>
+
+Gerçekçi, yüksek çözünürlüklü bir Blender daire modeli ve dairede dolaşarak fayans seçeneklerini belirlemeyi sağlayan interaktif bir web deneyimi için kök yazar promptu.
+
+**İstem**
+
+```text
+Blender’da tamamen gerçekçi, yüksek çözünürlüklü bir 3B render modeli oluşturmanı, ardından daire içinde dolaşabilmem ve fayans seçeneklerini belirleyebilmem için interaktif bir web deneyimi geliştirmeni istiyorum.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100222426705453318) · [Orijinal gönderi](https://x.com/scheemunai/status/2100222426705453318) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2100233407108137349"></a>
+
+### Yeraltı İstasyonunda AAA CGI Doğaüstü Dövüş Kısa Filmi
+
+[MadMax](https://x.com/MadMax_Series) · 2026-09-16
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100233407108137349"><img src="../assets/previews/5b1433bd865c6ec1ec3d43fd2606e377b00ccf62ea86dd52f18143cd56b9eee4.jpg" width="840" loading="lazy" alt="Yeraltı İstasyonunda AAA CGI Doğaüstü Dövüş Kısa Filmi"></a>
+
+Yazar, ek dosya kullanmadan hazırladığı Çince metin promptuyla GPT-6 Astra ve Seedance 2.5 üzerinden 30 saniyelik, AAA fantastik oyun CG tarzında bir video oluşturduğunu belirtiyor. Prompt; modern bir metro istasyonunda gözlük takan bir savaşçı ile pullu sırtlı bir canavarın kesintisiz yakın dövüşünü göstermeyi, karakter tutarlılığını, kamera kullanımını, hareket fiziğini, çevre hasarını ve yalnızca diegetik sesleri kesin biçimde tanımlıyor.
+
+**İstem**
+
+```text
+Tüm karakterler, arka plandaki kalabalık ve istasyon ortamı, dijital olarak belirgin biçimde yontulmuş üst düzey AAA fantastik oyun CG görünümünde olmalı. Karakter yakın planlarında, yüksek kaliteli oyun karakteri yüzü, net örgü saç tutamları ve stilize gerçekçi cilt korunmalı; görüntü gerçek oyunculara, cosplay'e, sıradan gameplay'e, 2D animasyona veya cel shading'e dönüşmemeli. Modern yeraltı istasyonundaki doğaüstü dövüş korunmalı; ortam ortaçağ kalesine, karlı dağlara veya boks ringine dönüşmemeli. Renk paleti düşük doygunluklu soğuk camgöbeği-gri, koyu kömür siyahı, camgöbeği-gri pullu deri ve soğuk beyaz ışık şeritlerinden oluşmalı. Sarı korkuluklar, kırmızı sinyal lambaları, bronz gözlük çerçevesi, bakır oksidi yeşili omuz zırhı ve koyu kızıl kuşak, sınırlı vurgu renkleri oluşturmalı. Gözlerin bal rengi altın parıltısı ve sütuna vurulduğu andaki kısa mor ışık yalnızca ilgili anlarda görünmeli; tüm görüntü mor renge boyanmamalı. Ortam: geniş ve loş bir yeraltı metro istasyonu; merkezde aşağıda kalan ray bölgesi, raylar ve çakıl taşları, iki yanda raylardan yüksekte platformlar. Platform kenarlarında cam-metal güvenlik bariyerleri ve sarı dikey çerçeveler bulunmalı. Zeminde sarı güvenlik şeritleri, gri karo yüzeyler ve drenaj ızgaraları olmalı. Kalın beyaz yuvarlak sütunlar alçak tavanı desteklemeli; üstte kesintisiz soğuk beyaz uzun ışık şeritleri ve yuvarlak lambalar, uzakta ise derinliğe uzanan küçük kırmızı sinyal lambaları bulunmalı. Platformlarda sıradan, farklı tonlarda montlar giyen onlarca yetişkin yolcu, sütunların yanında veya bariyerlerin arkasında dağınık halde durmalı. Dövüşten ürktüklerinde geriye çekilmeli, büzülmeli ve kollarını koruyucu biçimde kaldırmalılar; her zaman arka plan kalabalığı olarak kalmalı, dövüşe katılmamalı, başrole dönüşmemeli ve aynı yüzleri tekrarlamamalılar. Tren gelmemeli; tabelalarda yalnızca bulanık geometrik renk blokları bulunmalı, okunabilir yazı olmamalı. İki ana dövüşçü sabit kalmalı: A, gözlük takan savaşçı, A'dan daha uzun ve geniş, kaslı yapılı, iki ayak üzerinde yürüyen insansı bir canavar olan B ile dövüşen; uzun, ince ve atletik yapılı yetişkin bir erkek olmalı. A'nın sıcak koyu kahverengi teni, belirgin elmacık kemikleri ve çene hattı bulunmalı; siyah, başa yapışık kısa örgü saçları ensede kısa bir örgü düğümü halinde toplanmalı. Alnına sabitlenmiş dar bronz çerçeveli, duman grisi açılır-kapanır bir gözlük siperliği bulunmalı; normalde gözleri kapatmalı, burun köprüsünün altı ve ağız bölgesi görünür kalmalı. Gri-mavi, kolsuz ve üst üste binen yakalı bir dövüş üstü, koyu kahverengi kuşak, kömür siyahı bol pantolon ve koyu kahverengi bilekli botlar giymeli. İki ön kolu gri kumaş şeritlerle sarılı olmalı; parmakları açıkta kalmalı ve elleri her zaman boş olmalı. Pelerin, elde silah veya okunabilir amblem bulunmamalı. İfadesi sakin, hareketleri çevik ve kararlı olmalı. Yalnızca belirtilen planda sağ eliyle kısa süreliğine gözlük siperliğinin kenarını kaldırarak parlak bal rengi altın bir gözü göstermeli; ardından siperlik gözlerini yeniden kapatacak konuma indirilmeli. Bu, alına sabitlenmiş aynı fiziksel gözlük ekipmanı olmalı; kumaş şeritlere dönüşmemeli ve kaybolmamalı. B, A'dan daha uzun ve geniş, kaslı yapılı iki ayaklı insansı bir canavar olmalı. Kalın koyu camgöbeği-gri pullar geniş göğsünü, sırtını ve uzuvlarını kaplamalı; karın bölgesinde daha ince ve sık gri-camgöbeği pullar bulunmalı. Geniş ve yassı kertenkele başı, kısa küt bir burnu, güçlü çeneleri, iki koyu kehribar rengi gözü ve kısa kalın dişleri olmalı. Başında insan saçı, maske veya dal benzeri çıkıntılar bulunmamalı. B'nin kendi sol omzundan sol ön koluna kadar kalın bakır oksidi yeşili doğal zırh plakaları gelişmiş olmalı; sol omzun üst kenarında kısa ve küt kemik yüzgeçlerinden oluşan bir sıra sabit durmalı. Sağ kolunda daha açık gri-camgöbeği tonunda kalın pullar bulunmalı; sol ve sağ taraf kesinlikle yer değiştirmemeli. Kemik yüzgeçleri ve zırh plakaları vücudun parçası olmalı; omzunda çiçek bulunmamalı. Koyu kahverengi bol kesim geniş paçalı dövüş pantolonu, koyu kızıl kumaş kuşak ve aşağı sarkan iki dar kuşak ucu giymeli. Ayak bilekleri koyu kahverengi kumaşla sarılı olmalı; ayakları geniş ve pullu olmalı, duvara dayanmayı açıkça gösterecek belirgin tabanlara sahip olmalı. Kuyruk, kanat, fazladan kol, uzun boynuz, kılıç, mızrak, kalkan veya elde tutulan herhangi bir aksesuar bulunmamalı. B, normal bir istasyona girebilecek boyutta kalmalı; A ve yolcularla oranı sabit olmalı, gökdelen büyüklüğünde bir deve dönüşmemeli. 0.00–3.70 saniye: İlk karede dövüş başlamış olmalı. Raylara yakın alçak açıdaki kısa planda B'nin hızla adımlayarak yaklaştığı görülür; hemen ardından A'nın arkasından orta plana kesilir. B önden hücum eder, bacağını kaldırıp kalçasını döndürerek baş hizasında yatay bir dönerek tekme savurur. A dizlerini kırıp başını alçaltır ve gövdesini yana yatırır; tekme siyah kısa örgülerinin üzerinden geçer. B ayağını yere basıp geri döner, A da hemen doğrulur. Belirgin Dutch angle kullanılan ray hizasındaki alçak konumlu geniş ikili plana kesilir. A dizini kaldırıp yüksek bir yatay tekme savurur; B başını ve omuzlarını alçaltarak kaçar, A bacağını geri çekip destek ayağının üzerine iner. Kamera A'nın omuz arkasına dönerek yakın takip planına geçer. B art arda savurduğu yumruklarla saldırır; A kısa mesafeli baş kaçırmalar, omuz düşürmeler ve dönüşlerle yumrukların yüzünün yanından sıyrılmasını sağlar. A, rakibinin saldırmasını beklerken aynı yerde tekrarlanan yumruk savurmamalı. Tavan ışık şeritleri kamera hareketiyle savrulup yönlü hareket izleri oluşturmalı; bedenlerin uzamsal ilişkisi net kalmalı. 3.70–6.40 saniye: B'nin açık gri-camgöbeği sağ yumruğu yeniden A'nın önüne uzanır. A avucunu açarak el bileğini ve ön kolunu yakalar; temas noktası görünür olmalı. Kamera A'nın sakin yan yüzüne yaklaşır, ardından A ayaklarını çevirip kalçasını ve omzunu döndürürken hızla alçak açıdan tam vücut görünümüne dolanır. A aynı sağ kolu tutmaya devam eder; B'yi destek noktasından kaldırıp vücudunun yan üst tarafı boyunca savurur. B'nin iki ayağı da yerden kesilir; koyu kızıl kuşağı ve geniş pantolonu atalet nedeniyle geriden gelir. Savruluşun en yüksek noktasında yalnızca çok kısa bir ultra slow motion kullanılır, ardından hız normale döner. A dönüşünü tamamlayıp elini bırakır; B aynı yay boyunca başı aşağıda, ayakları yukarıda takla atarak düşer. Omuzları ve sırtı ray zeminiyle temas ettiğinde çakıl taşları ve toz temas noktasından dışarı saçılır. Alçak kamera düşüşü takip edip kısa süreli sarsılır. B yuvarlanarak üst gövdesini destekler ve dört uzvu da eksiksiz kalır; kol kopması, temassız telekinetik fırlatma veya havadan yeniden ayağa kalkma olmamalı. 6.40–9.20 saniye: B alçak konumda toparlanırken A çoktan zemini itip sıçrayarak yaklaşmış olmalı. Kamera B'nin arkasından yukarı bakar; A havada kalçasını döndürüp bacaklarını açar. Sıçrayışın en yüksek noktası kısa süreliğine yavaşlar, ardından A alçalırken yatay uçan tekmeyle B'nin baş ve omuzlarına bastırır. B iki kolunu kaldırıp karşılar ve darbenin etkisiyle yana savrulur. A yere basar basmaz saldırıyı sürdürür; yere indikten sonra durup beklememeli. Kamera A'nın alçalışını ve yandan dolanmasını izleyerek hızla yaklaşır; hafif eğimli omuz üstü ve yüz yakın planları dönüşümlü oluşur. A, B'nin geri savurduğu kolundan sıyrılır, gövdeye kısa bir yumruk atar, ardından açık avucuyla yüzünün yanına temas edip B'nin başını yana iter. Temastan sonra baş ve boyun ancak hareket yönünde dönmeli. Avuç, yüz ve ön kol birbirine birleşmemeli. B'nin sol omuz kemik yüzgeçleri, aynı taraftaki omuz zırhı ve gövdeyle birlikte dönmeli. 9.20–11.20 saniye: A, yüzün yanına uyguladığı itişin ardından dönerek bacağını toplar ve hemen ileri doğru güçlü bir yan tekme savurur. Ayakkabı tabanı B'nin karnından alt göğsüne kadar olan bölgeye temas eder. B'nin gövdesi önce katlanır, ardından iki ayağı yerden kesilir ve platforma doğru yan üst yönde uçar. Kamera onu platform kenarının üzerinden geçerken takip eder. B'nin üst sırtı ve omzu beyaz yuvarlak sütuna çarpar; sütun yüzeyi temas noktasından dışa doğru çatlar, açık renk parçalar ve toz dökülür. B sütun boyunca platform zeminine geri iner. A bacağını topladıktan sonra ray bölgesinden aynı platforma sıçrayarak yaklaşır. Kesmeden sonra aynı sütunun yanında devam eden konumda görünür; başka bir istasyona ışınlanmamalı. Yolcular iki yana kaçar. Sütun hasar görür ancak bütünüyle devrilmez. 11.20–12.80 saniye: B'nin çarpma sonrası yüz yakın planına kesilir. B başını kaldırıp A'yı bulmak için yüzünü çevirir; sol omuzundaki bakır oksidi yeşili zırh plakaları ve kısa kemik yüzgeçleri hâlâ yerinde olmalı. Hızla aynı sütunun iki yanını gösteren yakın plana geçilir: B sağ ön planda, A sütunun yanında sol arka plandadır. A hafifçe sırıtır ancak konuşmaz. Sağ eliyle bronz çerçeveli gözlük siperliğinin kenarını kaldırır ve parlak bal rengi altın bir gözü B'ye doğrudan gösterir; bu çok kısa sürer. Sağ eliyle siperliği indirip gözlerini yeniden kapatır, aynı anda kaçınmaya hazırlanır. Önceki diyaloğa ait uzun bir duraksama veya konuşma ağız hareketi olmamalı. 12.80–13.80 saniye: B omzunu çevirip açık gri-camgöbeği sağ yumruğuyla A'nın bulunduğu yere saldırır. A, yumruk ulaşmadan önce hızla yana kayıp sütunun arkasından çıkar. Yumruk sağlam beyaz sütuna çarptığı anda yoğun, sıkı bir mor enerji parlaması patlar; çatlaklar uzar, parçacıklar aşağı dökülür ve kısa mor ışık hemen söner. Yakın planda önce yumruğun sütun yüzeyine bastırdığı görülür, ardından hızla geniş plana geçilir: B ıskalamış, A ise çoktan yana dolanmıştır. Sütun, daha önce hasar gören aynı sütun olarak kalmalı. A mor dumanına dönüşmemeli ve yumruk vücudun içinden geçmemeli. 13.80–16.00 saniye: Alçak konumlu, eğimli geniş planda A sütunun ön yanında bedenini alçaltır ve kısa bir çağırma el hareketi yapar. B dönüp saldırarak yaklaşır. A yerden iterek havalanır ve kesintisiz tek bir geriye takla tamamlar: önce geriye doğru yatar, iki ayağını başının üzerinden yukarı geçirir, ardından karnını toplayıp ters dönük aşamadan geçer ve B'nin yatay savurduğu kolundan kaçar. Kamera vücutla birlikte yukarı doğru eğilir; ters dönük aşamada kısa süreli yavaşlama kullanılır, arka plandaki ışık şeritleri eğik biçimde akıp geçer. A aynı dönüşü sürdürür, iki ayağı vücudunun altına geri gelir ve B'nin yan arkasındaki platform boşluğuna iner. Dizlerini bükerek iniş kuvvetini emer; giysi uçları ve ense örgüsü ataletle aşağı salınır. Arka plandaki yolcular korkuyla kaçışır ancak ek saldırganlara dönüşmez. A savrulmaz ve havada süreyi uzatmak için art arda takla atmaz. 16.00–18.50 saniye: A daha yeni doğrulmuşken B dönüp yetişir ve A'nın başının yanına geniş bir savurma yumruğu gönderir. A önce geriye yatar, sonra alçalır; B'nin açık gri-camgöbeği sağ kolu başının üzerinden geçer. A iki eliyle aynı ön kolu kontrol eder, rakibin vücudunun ön tarafına adım atar ve sırtını dönerek ağırlık merkezini alçaltır. A, B'nin kolunu kendi omzunun üzerinden geçirir ve B'nin hâlâ ileri doğru taşıdığı momentumu kullanarak tek bir omuz üstü atış gerçekleştirir. B'nin kalçası dayanak noktasının üzerinden döner, iki ayağı yerden kesilir ve sırt tarafı platform karolarına düşer; kırık karolar ve toz zemin boyunca yayılır. Kamera omuz hizasındaki yakın plandan alçak orta-geniş plana geri çekilerek dönüşü ve düşüşü eksiksiz gösterir. A ayakta kalır ve B'nin düşmesine izin vererek elini bırakır. B hemen dönüp destek alır ve bacaklarını bükerek ayağa kalkar. A ona dönüp baskıyı sürdürür; ayağa kalkma hareketi yaklaşıp saldırıyla kesintisiz birleşmeli, ayakta diyalog söylenen uzun bir duraksama olmamalı. 18.50–20.65 saniye: B yakın dövüş mesafesine geri hücum eder. A önce davranıp yüzün yanına kısa bir düz yumruk atar, geri çektiği eliyle göğsünü korur, ardından bedenini alçaltıp karın ve kaburgalara saldırır. B darbelerden birini kolunu kaldırarak karşılar ve ağır koluyla yatay bir karşı saldırı savurur. A göğüs ve omuzlarının iç tarafına sokulup başını alçaltarak kaçar, geri çekilen yumruğu ön koluyla savuşturur, ardından çene ve üst göğse kısa, sıkı yumruklarla temas eder. Kamera iki dövüşçünün omuzları çevresinde hızlı ve küçük hareketlerle dolanır. Baş ve gövde yalnızca gerçek temasın ardından geri sekmeli. Bu bölüm art arda saldırı, savuşturma ve karşı saldırı olarak gösterilmeli; tarafların boşluğa sırayla yumruk savurduğu, birbirine tepki vermediği veya iki yumruğun sürekli birbirine yapıştığı bir dövüş olmamalı. 20.65–21.85 saniye: Doğrudan üstten kuş bakışı plana geçilir. İkilinin aynı küçük karo bölgesinin çevresinde döndüğü net biçimde görülür. A'nın siyah kısa örgüsü ve bronz gözlük çerçevesi ile B'nin sol omzundaki bakır oksidi yeşili zırh plakaları ve koyu kızıl kuşağı sabit ayırt edici özellikler olmalı. B'nin geniş savrulan kolu A'nın yanından geçer; A omuzlarını küçültüp kolun iç tarafına girer, sağ ve sol ayaklarını sırayla değiştirir, bir eliyle rakibin ön kolunu iter, diğer yumruğunu göğüs ve karın bölgesine geçirir, ardından B'nin dönüşüne uyum sağlamak için elini geri çeker. Zemindeki düşmüş karolar ve drenaj ızgarası yerinde kalmalı. Üstten plan yakın dövüş rotasını göstermeli; yedek bir dövüşçü veya üçüncü bir dövüşçü eklenmemeli. 21.85–24.00 saniye: B'nin omzunun üzerinden çekilen sıkı yakın plana dönülür. A, kısa ve keskin üst-alt seviye dönüşümlü yumruk serisini sürdürürken B'nin yukarıdan dolaşan kolundan başını kaçırır. Kumaşla sarılı ön kollar ile gri-camgöbeği kalın pullu yumruk kolu kesişir ancak sınırları net kalır. Kamera A'nın yumruğunu hızla itişini takip eder; iki güçlü temas noktasına yalnızca birkaç karelik siyah-beyaz yüksek kontrastlı pozlama parlaması ve hacimsel darbe silueti eklenir, ardından görüntü hemen önceki soğuk camgöbeği-gri AAA CGI görünümüne döner. Çizgi romana, yazıya veya 2D illüstrasyona kesilmemeli. Son düz yumruk B'nin karnına açıkça bastırır; karın içeri doğru sıkışır, üst gövde öne katlanır ve B'nin yukarıdan savurduğu kolu gövdenin ilerleme yönünü kaybeder. A'nın ayak tabanları sağlam kalır; güç bacaklardan, kalçadan ve omuzdan yumruğa aktarılır. Yumruk vücudu delip geçmemeli. 24.00–28.00 saniye: Aynı karın darbesinin sonucu kesintisiz sürer. B'nin iki ayağı yerden kesilip geriye doğru savrulur. Kamera platform kenarına alçak ve yakın konumda, istasyonun uzun ekseni boyunca yüksek hızla takip eder; beyaz sütunların, sarı çerçevelerin, cam bariyer panellerinin ve şaşkın kalabalığın yanından art arda geçer. Hız nedeniyle arka plan çizgileri uzar; B'nin camgöbeği-gri pullu gövdesi, koyu kahverengi pantolonu, koyu kızıl kuşağı ve sol omuzundaki bakır oksidi yeşili zırh plakaları her zaman ayırt edilebilir kalmalı. Uzun eksenli geniş plan, sütunların ön planda hızla geçmesiyle yapılan kesmeler ve aşağıdan yukarı bakan yakın planlarla B'nin atalet içinde döndüğü, dengesini toparlamak için kollarını uzattığı gösterilir; savrulan parçalar aynı uçuş yönünde rayların üzerinden geçer. B daha sonra platform kenarındaki cam-metal güvenlik bariyerinin bir bölümünü kırarak aşar. Cam vücuduyla temas ettikten sonra parçalanır, metal çerçeve bükülür ve B açıklıktan ray bölgesine doğru ilerlemeyi sürdürür. Kamera ray tarafındaki duvar yönünü gösteren geniş plana kesilir. Bu, önceki karın darbesinin neden olduğu kesintisiz uçuş olmalı; ekran dışından ek tekme, ikinci bir fırlatma veya yolcuların savrulması eklenmemeli. A her sütunun arkasında kopyalanmamalı. 28.00–30.00 saniye: Sabit yandan orta-geniş plan. Koyu gri dikey ray duvarı görüntünün solunda, karşı platform ve bariyerlerin arkasındaki yolcular sağ arka planda, uzun ışık şeritleri istasyonun derinliğini göstermeli. B havada dönerek duvara ayakları önde yaklaşır. İki ayağının tabanları dikey duvara açıkça temas eder; dizlerini büküp karnını çekerek kompakt bir kıvrılma oluşturur. Ayaklarının altında az miktarda duvar tozu sıyrılır. Ardından ultra slow motion içinde dizlerini yavaşça açar, gövdesini dışa doğru çevirir ve bedeni giderek yataya yaklaşır. Ayak tabanları duvara basmaya devam etmeli; koyu kızıl kuşak, geniş pantolon ve küçük parçacıklar hareketini sürdürerek temas, sıkışma ve güç biriktirmenin kesintisiz sürecini göstermeli. Bu hareket sırta duvara çarpma, havada donma veya yatay duran bir zeminde ayakta durma gibi görünmemeli. 30.00 saniyede video, B'nin iki ayağı duvara basılı ve gövdesi dışa doğru açılmış halde hâlâ hareket ettiği bir karede sona ermeli. Tam bir duvardan iterek karşı saldırı, yere iniş, ölüm veya kazanan-kaybeden sonucu eklenmemeli; siyaha kesme, kararma veya kapanış kartı olmamalı. Ritim ve süreklilik: Hızlı takip, yakın mesafe kaçışları, fırlatma ve atışlar, taklalar, uçan tekmeler, sütuna çarpma, üstten çekilen kısa yumruklaşma ve platformlar arası yer değiştirme sırası korunmalı; gözlem süreleri ve önceki diyalog duraksamaları kısaltılmalı. Yalnızca savruluşun en yüksek noktası, havadaki kaçış ve son duvara basma aşaması kısmi ağır çekimde gösterilmeli; son aşamada açıkça ultra slow motion kullanılmalı. Normal saldırı ve savunma yüksek hızda akıcı olmalı; tüm video ağır çekime alınmamalı ve süreyi doldurmak için dondurulmuş kare kullanılmamalı. A'nın siyah kısa örgüsü, koyu kahverengi teni, bronz çerçeveli gözlük siperliği, gri-mavi kolsuz üstü ve kumaşla sarılı ön kolları korunmalı; gözü gösteren hareketten önce ve sonra siperliğin durumu net olmalı. B'nin sol tarafındaki bakır oksidi yeşili zırh plakaları ve kısa kemik yüzgeçleri, sağ taraftaki gri-camgöbeği kalın pullu kolu, geniş kertenkele başı, koyu kahverengi pantolonu ve koyu kızıl kuşağı korunmalı. Kemik yüzgeçleri düşmemeli, taraf değiştirmemeli veya silaha dönüşmemeli. Yere düşen kişi önce zeminle temas etmeli, sonra kendini destekleyerek toparlanmalı. Aktif sıçramalarda önce yerden itme görülmeli; darbeyle uçuşlarda önce temas gerçekleşmeli; duvarda frenlemede önce ayak tabanları temas etmeli, ardından dizler bükülmeli. Tüm hareketler ağırlığı, ataleti ve yönü korumalı. Arka plan kalabalığı doğal kaçınma hareketlerini sürdürmeli ve ana dövüşçülerle net bir mekânsal ayrım korumalı; birbirlerine birleşmemeli veya aniden yumruk ve tekme yollarına girmemeliler. Hasarlı sütun yüzeyi, yere düşen karolar ve kırılmış bariyer panelleri sonraki planlarda hasarlı durumlarını korumalı. Ek silah, çoklu uzuv, kan püskürmesi veya parçalanma olmamalı. Arka plan müziği kesinlikle yasaktır: videonun hiçbir anında arka plan müziği, film müziği, müzik kanalı, melodi, ritmik perküsyon, koro, şarkı, müzikal sürekli ses veya tonal atmosfer tabanı oluşturulamaz. Yalnızca görüntüyle senkronize ve fiziksel olarak sahneye ait diegetik seslere izin verilir: yeraltı istasyonundaki havalandırma ve mekân yankısı, ayak sesleri ve zeminde sürtünme, kumaş ile koyu kızıl kuşağın savrulma sesleri, yumruk ve tekmelerin hava yarma sesi, gerçek temasların tok darbeleri, sözsüz nefesler ve kısa acı inlemeleri, çakıl taşlarının yuvarlanması, betonun çatlaması, camın kırılması, metal bariyer çerçevesinin bükülmesi, yolcuların geri çekilen ayak sesleri, kısa mor ışık temasının melodik olmayan elektrik çatırdaması ve son olarak ayak tabanlarının duvara sürtünmesi ile duvar tozunun dökülmesi. Diyalog, anlatıcı sesi, anlaşılır bağırış sözcükleri, şarkı veya altyazı olmamalı. Müzik olmayan boşlukları nabız sesleri, orkestra vuruşları, melodik ses tasarımı veya ritmik ses efektleriyle doldurmayın; art arda yumrukları, ayak seslerini veya kırılan cam seslerini davul ritmine dönüştürmeyin, havalandırma sesini müzikal bir sürekli sese uzatmayın. Herhangi bir arka plan müziği veya film müziği oluşması başarısızlık olarak değerlendirilir. music=0; no_music=1; strict_no_music=1; audio=diegetic_only; başlık, okunabilir istasyon adı, logo, interface, oynatıcı kontrolleri veya watermark bulunmamalı.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100233407108137349) · [Orijinal gönderi](https://x.com/MadMax_Series/status/2100233407108137349) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2100519026720231698"></a>
+
+### Korkuluğa bakım zinciri ekle
+
+[きのした](https://x.com/ujiden_type0) · 2026-09-17
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100519026720231698"><img src="../assets/previews/000aacea97c0955d46b761f1a1e1e46f9d755a6347c0b4214dfb9ea67515b9f9.jpg" width="840" loading="lazy" alt="Korkuluğa bakım zinciri ekle"></a>
+
+Korkuluğa bakım zinciri eklemeye yönelik CAD modeli düzenleme talimatı.
+
+**İstem**
+
+```text
+Korkuluğa bakım zinciri ekle!
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100519026720231698) · [Orijinal gönderi](https://x.com/ujiden_type0/status/2100519026720231698) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2100526922770026874"></a>
+
+### 3B Yarış Oyunu Oluştur
+
+[たい焼き｜Claude Codeの人](https://x.com/taiyaki_ai3) · 2026-09-17
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100526922770026874"><img src="../assets/previews/291f4f1d8508153f9f0473b53e7a16dd4405894ddf89a942955e4bbecc0c95d4.jpg" width="840" loading="lazy" alt="3B Yarış Oyunu Oluştur"></a>
+
+Paylaşım sahibi, GPT-6 Astra'ya tek cümleyle girerek gerçekten kontrol edilip sürülebilen bir 3B yarış oyunu oluşturma talebinde bulunduğunu açıklıyor. Paylaşımda bu özellik, Blender veya kod kullanmadan oynanabilir oyunlar oluşturma amacıyla tanıtılıyor.
+
+**İstem**
+
+```text
+Bir yarış oyunu oluştur
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100526922770026874) · [Orijinal gönderi](https://x.com/taiyaki_ai3/status/2100526934082105683) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2100595652703199281"></a>
+
+### Kapatılmış Araştırma Tesisinden Kaçış: Tarayıcıda 3B Oyun
+
+[forest.watch.impress.co.jp](https://forest.watch.impress.co.jp/) · 2026-09-17
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100595652703199281"><img src="../assets/previews/70f25d79c1b29caca651c53634c0f7632ee038c2a69ee4826e7f6a11e4d4f1a9.jpg" width="840" loading="lazy" alt="Kapatılmış Araştırma Tesisinden Kaçış: Tarayıcıda 3B Oyun"></a>
+
+Bağlantılı makalenin yazarı Tomonobu Yanagidani'nin GPT-6 Astra'ya hazırlattığı belirtilen, kapatılmış bir araştırma tesisinde geçen tarayıcı tabanlı 3B kaçış oyunu oluşturma prompt'u. 5–10 dakikada oynanabilen bir içerik, anahtar ve düğme gibi mekanizmalar, anlaşılır oynanış, baştan sona tamamlanabilirlik ve tek bir HTML dosyası olarak dağıtım şartlarını belirtir.
+
+**İstem**
+
+```text
+Tarayıcıda oynanabilen bir 3B kaçış oyunu oluşturun. Konusu, kapatılmış bir araştırma tesisinden kaçış olsun ve yaklaşık 5–10 dakikada oynanabilsin. Anahtarlar ve düğmeler gibi mekanizmalar ekleyin; oynanışın kolay anlaşılmasını ve oyunun sonuna kadar tamamlanabilmesini sağlayın. Her şeyi tek bir HTML dosyasında toplayın; oyun, dosya tarayıcıda açıldığında doğrudan oynanabilsin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100595652703199281) · [Orijinal gönderi](https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2141084.html) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2100614534423540102"></a>
+
+### CAD ile kendi gövdesi
+
+[vitalduval](https://x.com/vitalduval) · 2026-09-17
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100614534423540102"><img src="../assets/previews/0648785872e0e8f57ee31197f913e72bd72dad694354eb842c3bd65d309a4683.jpg" width="840" loading="lazy" alt="CAD ile kendi gövdesi"></a>
+
+vitalduval tarafından paylaşılan bağlantılı tweette, Astra'dan CAD ile tasarlanmış bir gövde oluşturması isteniyor. AI Highlight, ortaya çıkan sunumu yeniden paylaşarak GPT-6 Astra'ya atfediyor.
+
+**İstem**
+
+```text
+Astra'ya kendi gövdesini CAD ile tasarlamasını söyledim.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100614534423540102) · [Orijinal gönderi](https://x.com/vitalduval/status/2100343136077877251) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="akari-nagoya-rooftop-flame-relay"></a>
+
+### AKARI: Nagoya Çatı Alevi Bayrak Yarışı
+
+[Jared](https://growthengineer.space/) · 2026-09-16
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/akari-nagoya-rooftop-flame-relay"><img src="../assets/previews/a4e87498dd6f6dfa75a47afbbb84b6496477ef4145097ceb6735f644d82b52ca.webp" width="840" loading="lazy" alt="AKARI: Nagoya Çatı Alevi Bayrak Yarışı"></a>
+
+Eksiksiz, Japonca öncelikli bir Three.js oyunu oluşturun: çatılar arasında atlayın, Nagoya’yı aydınlatın ve bir festival afişi kaydedin. Prosedürel varlıklarla başlayın, ardından Tripo Studio üzerinden API anahtarı olmadan geliştirin.
+
+**İstem**
+
+```text
+# AKARI — Nagoya Işık Atlası
+
+## 1. Amaç
+Aichi–Nagoya Asya Oyunları öncesinde, 19 Eylül–4 Ekim 2026 tarihleri arasında, soyut bir alevin zamanlamalı yedi sıçrayış yaparak minyatür Nagoya’yı aydınlattığı, Japonca odaklı eksiksiz bir tarayıcı oyunu oluşturun. https://akari-nagoya-rooftop-relay.tripo.page/ adresindeki mevcut iki haritalı açılış sürümünü ve sağlanan görsel referansları eşleştirin. Önceki genel çatı sahnesi hedef değildir.
+
+## 2. Görsel yön
+Yükseltilmiş, dörtte üç atlas görünümü; gece yarısı laciverti arka plan; sıcak fildişi Japonca serif başlıklar; ince altın çizgiler ve ölçülü gren kullanın. Masaüstünde sol üçte birlik alanı açılış davetine ayırın ve sağda yükseltilmiş iki harita döşemesini çerçeveleyin; telefonlarda haritayı kontrollerin üzerine yeniden yerleştirin. Sönük, desatüre binalar ve teal su yollarıyla başlayın. Başarı; yeşilleri, turkuaz bakır çatıları, sıcak pencereleri ve altın rota ışıklarını geri getirir. Alevi ve bir sonraki hedefi kolayca okunur tutun. Yumuşak gölgeler, atmosferik derinlik ve kontrollü bloom kullanın; beyaz parlamadan kaçının. Referansta görünen Japonca açılış başlığını, önemli yapı etiketlerini ve ince editoryal üstbilgi/altbilgiyi eşleştirin.
+
+## 3. Dünya
+Daha büyük kuzeybatı döşemesi Meijo Parkı, Nagoya Kalesi, Aichi International Arena, Hisaya-odori Parkı, MIRAI TOWER ve Oasis 21’i kapsar. Güneydoğu döşemesi Şehir Müzesi’ni, Mizuho-dori’yi, Mizuho Parkı’nı ve atletizm stadyumunu kapsar; Yamazaki Nehri stadyumun doğusundadır. Alçak modern mahalleler, park ağaçları, yol işaretleri, nehir kıyıları ve sıcak ışık armatürleri ekleyin; kale mimarisini yalnızca kaleye ayırın.
+
+Bölüm 1: Meijo Parkı → Sotobori/Hisaya-odori → Hisaya-odori Parkı → Oasis 21, üç sıçrayış. Şehir Müzesi’ne geçişi açıkça işaretlenmiş ve oynanamaz bir bölüm geçişi olarak tasarlayın. Bölüm 2: Şehir Müzesi → Mizuho-dori → Mizuho Undojo Nishi → Mizuho Parkı yönü → Güney Meydanı, dört sıçrayış. Geçişi hiçbir zaman kesintisiz bir cadde olarak çizmeyin veya sıçrayış sayısına dahil etmeyin. İlerlemeyi ikinci bölümde kaydedin. Haritalar farklı ölçekler kullanır; oynanış için mesafeler sıkıştırılmıştır. Bunu, 22 Ağustos ve 16 Eylül 2026 tarihli tarihsel meşale rölesi tarihleriyle birlikte About bölümünde kısaca açıklayın; bunlar yaklaşan etkinlik davetleri değildir. https://www.aichi-nagoya2026.org/ja/torch-relay/ ve https://www.nagoyajo.city.nagoya.jp/guide/kinshachi/. kaynaklarını belirtin. Resmî maskot veya amblem yerine özgün süslemeler ve soyut bir alev kullanın.
+
+## 4. Varlık envanteri
+Bu sabit yedek varlık yuvalarını öncelik sırasıyla kullanın; her iki görsel modda da aynı yerleşimi ve çarpışma proxy’lerini koruyun:
+- `shachi`: kaplan başını andıran başı, kıvrımlı pullu sazan gövdesi ve yukarı doğru kıvrılan kuyruğu olan, antika görünümlü cilalı altın çatı süslemesi; kalede tekrarlayın.
+- `castle`: fildişi renkli, Nagoya’dan esinlenen kale yapısı; koyu ahşap, kademeli turkuaz kırma ve beşik çatılar, taş temel.
+- `mizuho`: geniş oval atletizm stadyumu; açık renkli, merkezi boş çatısı ve ritmik taşıyıcıları olsun; koşu pistini ve yeşil sahayı merkezden görünür tutun.
+- `arena`: park ekseninin kuzeyinde, geniş çatılı ve sıcak dikey cephe kanatçıklı alçak çağdaş arena.
+- `tower`: kutu biçimli seyir platformu ve anteni olan, ince gümüş kafesli gözlem kulesi.
+- `oasis`: ince, açık renkli taşıyıcılar üzerinde uzanan oval turkuaz cam/su kanopisi.
+- `midrise`: ölçülü, modern bir Japon mahallesi binası; basit müze kütlesi de dahil olmak üzere farklı yükseklik ve yönelimlerde yeniden kullanın.
+- `tree`: kahverengi gövdeli ve katmanlı yeşil taçlı, kompakt olgun park ağacı; her iki döşemede de örnekleyerek kullanın.
+Araziyi, yolları, suyu, pist işaretlerini, sıçrayış işaretlerini, soyut alevi, ışık izlerini, havai fişekleri ve kullanıcı arayüzünü prosedürel üretin. Her model eksiksiz ve yalıtılmış bir nesne olmalı; açık geçişleri ve stadyumun merkezini koruyun. Tekrarlanan arka plan varlıkları da dahil olmak üzere listelenen her yuvayı takip edin.
+
+## 5. Oynanış ve ödül
+Şarj etmek için işaretçiyi/dokunmayı veya Space tuşunu basılı tutun; bir sonraki işarete doğru otomatik sıçramak için bırakın. Deterministik delta-time fiziği kullanın: mesafe = 1.8 + 7 × charge, charge 0 ile 1 arasında gidip gelir ve yay, enterpolasyonlu yüksekliğe 4 × t × (1 − t) × 3.6 ekler. Şarj döngüsünün her yöndeki süresini yaklaşık 1.42 saniyeden 0.92 saniyeye hızlandırın. Yörüngeyi, yeşil güvenli bölgeyi ve altın kusursuz bölgeyi aynı hesaplamadan türetin: hata ≤0.36 ise kusursuz; ≤1.15 ise güvenli kabul edilir ve ilk iki sıçrayış için 0.28 ek tolerans tanınır.
+
+Güvenli iniş 100 puan verir; kusursuz iniş, arka arkaya gelen çarpanla 200 × puan verir ve çarpan ×4 ile sınırlıdır. 2.35 saniye içinde yapılan hızlı takip 50 puan ekler; güvenli inişten, bölüm geçişinden veya 3.4 saniye beklemeden sonra komboyu sıfırlayın. Her başarı, bölge boyunca bir ışık dalgası gönderir, pencereleri aydınlatır ve fenerler ekler. Yedi adımlık ilerlemeyi, puanı, komboyu ve rekoru gösterin. Iskalamalar hızlıca yeniden başlatılır; geçişten sonra bölüm kontrol noktasını geri yükleyin. Duraklatma, yeniden başlatma, gizli sekmeden kurtarma ve etkileşim sonrasında isteğe bağlı ses sağlayın.
+
+Son sıçrayıştan sonra, 4.6 saniyelik geri çekilme animasyonuyla iki aydınlatılmış haritayı da gösterin ve havai fişekleri sınırlı tutun. Yedi kusursuz iniş için S, dört veya daha fazlası için A, diğer durumlarda B derecesini gösterin. Yeniden oynatma, aynı kamerayla önce/sonra şehir görünümleri ve başlık, tarihler, puan ve bağımsız proje kredisini içeren gerçek 1800×1200 PNG poster ekleyin.
+
+## 6. Uygulama
+Vite, TypeScript ve Three.js kullanın; coğrafyayı, saf fizik/puanlamayı, sahneyi, efektleri, model kayıt sistemini, Japonca/İngilizce yerelleştirmeyi ve kullanıcı arayüzünü birbirinden ayırın. Prompt dili ne olursa olsun Japonca varsayılan dil olarak kalmalı; dil değişikliğini kalıcı hâle getirin. Yazı tiplerini ve varlıkları yerel olarak paketleyin. GLTFLoader ve yuva başına normalleştirme kullanın; geçersiz bir içe aktarma sonrasında çalışan son modeli koruyun. Basit ve içe aktarılan görselleri karşılaştırırken puanı, kontrol noktasını, kamerayı ve aydınlatmayı koruyun. Ağaçları/binaları örnekleyin, uyumlu statik geometrileri birleştirin, DPR’yi sınırlayın ve parçacık sayısını kontrol altında tutun. Bir modeli yalnızca üçgen hedefini aştığı için reddetmek yerine gerçek kare süresini ve model karmaşıklığını değerlendirin. Blender’ı yalnızca dönen bir varlıkta mesh temizliği, pivot onarımı veya stadyum merkezinin açılması gerektiğinde kullanın; özgün dosyasını koruyun.
+
+## 7. Kabul kriterleri
+Çalıştırılabilir kaynak kodu, lockfile, geliştirme/derleme komutlarını ve statik derlemeyi teslim edin. Her iki bölümdeki yedi sıçrayışı, geçiş/kontrol noktası kurtarmayı, ıskalama/yeniden denemeyi, puanlamayı, dokunmatik girdiyi, duraklatmayı, Japonca/İngilizce dil tercihi kalıcılığını, tüm yuva yedeklerini ve gerçek poster dışa aktarmayı doğrulayın. Sabitlenmiş açılış ve final ekran görüntülerini mevcut iki haritalı referansla karşılaştırın. Ölçülen performansı ve gerçekten gerçekleştirilen testleri raporlayın. Aşağıdaki ortak iş akışı, model üretimini ve teslimini yönetir.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/akari-nagoya-rooftop-flame-relay) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="cyclops-island-threejs-game"></a>
+
+### Kiklop’un Adası
+
+[Jared](https://x.com/jaredliu_bravo) · 2026-09-16
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/cyclops-island-threejs-game"><img src="../assets/previews/2a209be513b7970f566af81131521dc31c84ef7d86eb8868facd389d23b3624d.png" width="840" loading="lazy" alt="Kiklop’un Adası"></a>
+
+Önce basit animasyonlu modellerle eksiksiz bir Three.js ada kaçış oyunu oluşturun. Ardından kahramanı, Tepegöz’ü, gemiyi, ağaçları ve mağarayı Tripo Studio üzerinden ana ajan tarafından sağlanan referans görselleri veya metin istemleriyle tek tek geliştirin. Tripo API erişimi gerekmez.
+
+**İstem**
+
+```text
+# ODYSSEY — Kiklop’un Adası
+
+## 1. Amaç
+Odyssey’nin IX. kitabından ilham alan, baştan sona oynanabilir izometrik bir kaçış oyunu oluşturun. Odysseus olarak üç mürettebat üyesine mağara erzaklarını çalmaları, peşinize düşüp size saldıran Polyphemus’tan sağ kurtulmaları ve bir Yunan gemisine binerek kaçmaları için liderlik edin. Tüm oyun arayüzü İngilizce olmalı. https://cyclops-island.tripo.page/ ve sağlanan referansları kullanın; Jared’ın katkı bilgisini ve Jason Chew’in Odyssey adası konseptinden alınan ilhamı koruyun.
+
+## 2. Görsel yön
+Derin teal renkli Ege Denizi’nde, yaklaşık 25 dünya birimi genişliğinde, zengin dokulu bir Akdeniz masaüstü adası kompoze edin. (19,31,34) civarında ortografik, üç çeyrek açıya sahip bir kamera kullanın. Sıcak kireç taşı, adaçayı yeşili zeytin ağaçları, terakota kumaş, bronz zırh ve krem rengi parşömen kullanın. ACES ton eşleme, sıcak yönlü gölgeler, atmosferik derinlik, ölçülü bloom, vignette ve gren uygulayın. Tehlike işaretleri efektlerin altında da okunaklı kalmalı.
+
+Yerel Cormorant Garamond tarzı serif başlıklar ve DM Sans tarzı arayüz kullanın. Sol üstte bir Ω mührü, ODYSSEY / AN INTERACTIVE MYTH, BOOK IX ve The Cyclops’ Island metinleri yer alsın. Sağ üstte belirgin bir krem rengi karşılaştırma kartında “One island. Two worlds.” yazısı ile Tripo World ve Original kontrolleri bulunsun. Sol altta görev aşamasını, üç kalbi, dayanıklılığı ve mürettebat sayısını gösterin. Üstte boss durumunu, altında küçük bir pusula/minimap’i, görünür kamera kontrollerini ve kısa giriş ipuçlarını gösterin. Telefonlarda dekoratif metinleri kompakt tutun; görev, boss, karşılaştırma ve Dodge kontrollerini ayrı sunun.
+
+## 3. Dünya
+Dolambaçlı, açık kum renkli bir yol güneydeki iniş plajından kuzeye doğru ilerleyerek zeytinliklerin arasından bir kireç taşı mağarasına ulaşır. Dev, mağaranın yakınında uyur; Odysseus ve mürettebat güney yolunda başlar. İskele yakınında, güneybatıya kırmızı yelkenli ahşap bir gemi yerleştirin. Kıyıyı düzensiz kayalar, çimenler, servi ağaçları ve turkuaz sığlıklarla çevreleyin. Deniz dalgalanmalarını, kıyı köpüklerini, ağaçları, ateş ışığını, kuşları ve geminin sallanmasını canlandırın. Kamera döndürüldüğünde okyanus hareketi doğru kalmalı.
+
+## 4. Varlık envanteri
+Değiştirme yuvalarını şu sırayla hazırlayın:
+- `odysseus`: sakallı Yunan maceracı; kızıl sorguçlu bronz Korint miğferi, yıpranmış göğüs zırhı, fildişi tunik, terakota pelerin, sandaletler, küçük kalkan ve kınına sokulmuş kılıç. Üç mürettebat üyesi için bağımsız iskeletler ve animasyon aşamalarıyla yeniden kullanın.
+- `polyphemus`: tam olarak tek bir merkezi gözü olan güçlü dev; bronzlaşmış zeytin teni, kıvırcık koyu saç ve sakal, kürk/deri peştamal, kalın çıplak ayaklar ve tahta sopa; nötr, rigging’e uygun pozda tam vücut.
+- `ship`: dar, koyu ceviz gövdeli; yükseltilmiş pruva, bronz koçbaşı, direk, terakota kırmızısı yelken, halat donanımı ve yan kürekler. Su veya sergileme kaidesi olmasın.
+- `olive`: budaklı gri-kahverengi gövde, yayılan kökler ve düzensiz adaçayı yeşili taç; yaklaşık 25 kez yeniden kullanın.
+- `cave`: gerçekten açık bir geçidi olan, geniş ve bağımsız duran, yıpranmış kireç taşından kemer; iri kayalar ve seyrek yosunlar. Karanlık iç kısmı ayrı oluşturun.
+- `cypress`: yoğun koyu yeşil yapraklı, ince ve konik Akdeniz ağacı.
+- `boulder`: düzensiz, sıcak kireç taşından kıyı kayası; farklı ölçek ve dönüşlerle yeniden kullanın.
+Araziyi, yolu, suyu, çimleri, erzak işaretlerini, çatışma telegraph’larını, parçacıkları ve arayüzü prosedürel tutun. Görünümünü değiştirirken her yuvayı takip edin ve oynanış haritasını koruyun.
+
+## 5. Kaçış karşılaşması
+Kameraya göre WASD/ok tuşlarını ve tıklayarak/dokunarak hareket etmeyi, yarıçapı dikkate alan A* navigasyonuyla kullanın. Mürettebat gevşek bir formasyonda takip etsin; oyuncu ve dev, farklı boyutlarına uygun şekilde araziye, sınırlara ve engellere uysun. Shift sprint yapar, Space veya büyük dokunmatik düğme Dodge gerçekleştirir, E yakındaki erzakları alır, P oyunu duraklatır, Q/R kamerayı döndürür ve F kahramanı takip eder. Sürükleme/pan, sağ tuşla sürükleme/döndürme, kaydırma/zoom ve dokunmatik kıstırma hareketlerini destekleyin. Takip sırasında tıklayarak hareket ettirme, dayanıklılık elverdiği sürece sprint yapar.
+
+Aşama 1: mağaraya yaklaşın; yakınlık ve gürültülü sprint şüpheyi artırır ve devi uyandırabilir. Aşama 2: erzakları yalnızca yakından ve her zaman devi uyandıracak şekilde toplayın. Aşama 3: mürettebat gemiye binerken, yaklaşık 2,7 birimlik işaretli iskele yarıçapının içinde, (-0.8,8.7) yakınında toplam 11 saniye hayatta kalın; bölgeden çıkmak ilerlemeyi duraklatır.
+
+Üç can ve 100 dayanıklılık verin. Başlangıç hızları: yürüme 2.35, sprint 4.15 ve dev koşusu saniyede 3.4 birim. Dev saldırmadan önce 3.6 birimlik menzile kadar kovalamalıdır. Uyuma, uyanma, kovalama, saldırı hazırlığı, darbe, toparlanma ve terminal durumlarını kullanın. Ground Breaker, 1.12 saniyelik saldırı hazırlığının başlangıcında oyuncunun konumunu sabitler, yarıçapı 2.45 olan bir daire gösterir ve bir kez vurur; hedef oyuncuyu takip etmemelidir. Her üçüncü yere vuruşta, açıkça işaretlenmiş, genişleyen ve güçlendirilmiş bir şok dalgası yayılsın; hasar hareket eden halkanın kenarına göre uygulansın.
+
+Dodge yaklaşık 0.34 saniye sürer, 24 dayanıklılığa mal olur ve 1.25 saniyelik bekleme süresine sahiptir; kısa süreli hasar bağışıklığı ve geçerli zemine sabitleme içermelidir. Sprint dayanıklılığı tüketir; dinlenmek dayanıklılığı yeniler. Darbeler geri savrulmaya, hasar geri bildirimine ve geçici bağışıklığa neden olur. Yenilgi, tüm aktörleri, zamanlayıcıları, efektleri ve görev durumunu sıfırlar. Kaçış, hasarı durdurur ve yeniden oynatma özetini açar. Duraklatma; simülasyonu, animasyonu ve efektleri dondurur. Gemiye binmeyi, güçlendirilmiş bir saldırı da dahil olmak üzere, birkaç Dodge gerektirecek şekilde ayarlayın.
+
+## 6. Uygulama ve animasyon
+Dünya, navigasyon, karşılaşma, aktörler, efektler, ses ve arayüz için Vite, Three.js ve JavaScript ES modüllerini kullanın. Tüm çalışma zamanı varlıklarını statik derlemede yerel olarak paketleyin. Başlangıçtaki eklemli modeller yürümeli/koşmalı, uyumalı/uyanmalı, Dodge yapmalı ve saldırıya hazırlanıp vurduğunu görünür biçimde göstermelidir. Skin’li değiştirmelerde AnimationMixer, gerçek klip adları, kısa crossfade’ler ve ayrı mürettebat iskeletleri için SkeletonUtils.clone kullanın. Kök hareketinin iki kez uygulanmasını ve ayak kaymasını önleyin. Devin aşağı yönlü saldırısını oynanıştaki darbeyle senkronize edin; statik import’lar animasyonlu olarak raporlanmamalıdır. Gerektiğinde çalışan bir eklemli fallback bulundurun. Blender’ı yalnızca gerekli rig, pivot, klip veya mesh onarımları için kullanın.
+
+Turuncu/altın telegraph’ları, darbe flaşını, zemin çatlaklarını, tozu, kıvılcımları, düşen kaya parçalarını, genişleyen halkaları, kısa süreli ışığı ve kamera sarsıntısını senkronize edin. Dodge izleri ve isteğe bağlı, hareketle etkinleştirilen sentezlenmiş ses ekleyin. Efektleri havuzlayın, çevre öğelerini instance olarak oluşturun ve kare süresini ölçün. Import’ları ayakları/kökleri zemine oturtulmuş ve çarpışma proxy’leri değiştirilmemiş şekilde normalize edin. Compare; konumları, görevi, canı, dayanıklılığı, kamerayı ve animasyon durumunu korur; başarısız import’lar çalışan modelleri korur. Göze batmayan bir Change hero kontrolü ve yuva başına durum gösteren yerel model import’u ekleyin.
+
+## 7. Kabul kriterleri
+Kaynak kodu, lockfile’ı, npm geliştirme/derleme komutlarını ve statik çıktıyı teslim edin. Engel navigasyonunu, erken uyanmayı, yakından toplamayı, saldırıdan önce kovalamayı, kilitli hedefleri, zamanlamalı saldırıları, Dodge bağışıklığını, şok dalgası kenarı hasarını, yenilgi/sıfırlamayı ve başarılı bir kaçışı doğrulayın. Mürettebat animasyonlarının bağımsızlığını, tüm yuva fallback’lerini, durum koruyan karşılaştırmayı, masaüstü/mobil yerleşimini ve yükleme hatalarını kontrol edin. Sabitlenmiş ekran görüntülerini referansla karşılaştırın ve gerçek performansı raporlayın. Model oluşturma için aşağıdaki ortak iş akışını kullanın ve döndürün.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/cyclops-island-threejs-game) · [Orijinal gönderi](https://x.com/jaredliu_bravo) · [Canlı demo](https://cyclops-island.tripo.page/) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3553,24 +3792,6 @@ Aynı zamanda çalışma alanı olarak kullanılan bir çocuk odasını, dört k
 
 ---
 
-<a id="2096557555086725159"></a>
-
-### Seul’ün etkileşimli minyatürü
-
-[synabreu](https://x.com/synabreu) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-miniature-of-seoul-2096557555086725159"><img src="../assets/previews/495c8dd1868b4e0c9fbeef9d970d26b2f334db89db4edcd802e510cc0f8cb85a.webp" width="840" loading="lazy" alt="Seul’ün etkileşimli minyatürü"></a>
-
-**İstem**
-
-```text
-Açık harita verileriyle Three.js içinde Seul’ün bir minyatürünü oluşturun. Bölgelere göre gezinme, simge yapılar arasında kamera uçuşları, gündüz ve gece modları ile dokunmatik kontroller ekleyin. Basitleştirilen binaları, tahmini yükseklikleri ve veri lisanslarını belirtin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-miniature-of-seoul-2096557555086725159) · [Orijinal gönderi](https://x.com/synabreu/status/2096557555086725159) · [Canlı demo](https://seoul-3d-atlas.synabreu.chatgpt.site/) · [Örneklere dön](#all-prompts)
-
----
-
 <a id="2096576154337734865"></a>
 
 ### Blender’da sıfırdan modellenen ev
@@ -3586,24 +3807,6 @@ Blender’da sıfırdan bir ev modelleyin. Binanın sonraki yinelemelerde incele
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865) · [Orijinal gönderi](https://x.com/mizkun/status/2096576154337734865) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096501340889374883"></a>
-
-### Üst kat planından Blender önizlemesine
-
-[indigo](https://x.com/indigox) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883"><img src="../assets/previews/43b5fb834bebe6a4e4348b43a9b12c363d09ce37ce76f35026436aab1c2260cb.webp" width="840" loading="lazy" alt="Üst kat planından Blender önizlemesine"></a>
-
-**İstem**
-
-```text
-Bir evin en üst kat planını kullanarak Blender sahnesi oluşturun ve düşük örnek sayısıyla 10 saniyelik önizleme render’ı alın. Malzemeleri iyileştirmeden önce mekânsal düzenin anlaşılır olmasına öncelik verin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883) · [Orijinal gönderi](https://x.com/indigox/status/2096501340889374883) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3661,42 +3864,6 @@ Three.js ile masa üstünde bir pikap sahnesi oluşturun. Lambaların yandığı
 
 ---
 
-<a id="2096555856204644550"></a>
-
-### Koleksiyon kartı savaş oyununun döngüsü
-
-[FaryaBlender3D](https://x.com/FaryaBlender3D) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/trading-card-battle-game-loop-2096555856204644550"><img src="../assets/previews/9467608cd8acae08c8272517d7c6605284f8073c38eefd78221597d07dfe93db.webp" width="840" loading="lazy" alt="Koleksiyon kartı savaş oyununun döngüsü"></a>
-
-**İstem**
-
-```text
-Three.js ile bir koleksiyon kartı prototipi oluşturun: deste ve kart paketleri satın alma, deste hazırlama, savaş arenasına girme ve ödül kazanma. Geçici mesh’lerin bitmiş varlıklarla değiştirilebilmesini sağlayın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [Orijinal gönderi](https://x.com/FaryaBlender3D/status/2096555856204644550) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096505740643246231"></a>
-
-### Three.js ile tamamlanmış bulmaca bölümü
-
-[Steve的花园儿](https://x.com/TvWoo) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/complete-three-js-puzzle-level-2096505740643246231"><img src="../assets/previews/b00b0f3011c9f77412b6212bff0efb0fc453cefca3af7186267fabb90c0536f0.webp" width="840" loading="lazy" alt="Three.js ile tamamlanmış bulmaca bölümü"></a>
-
-**İstem**
-
-```text
-Three.js ile oynanabilir mekanikleri de içeren eksiksiz bir 3D bulmaca oyunu bölümü oluşturun. Bölüm ve etkileşimler çalıştıktan sonra sağlanan sesleri entegre edin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/complete-three-js-puzzle-level-2096505740643246231) · [Orijinal gönderi](https://x.com/TvWoo/status/2096505740643246231) · [Örneklere dön](#all-prompts)
-
----
-
 <a id="2096570815714414844"></a>
 
 ### Düşük poligonlu sahilde hazine avı
@@ -3730,24 +3897,6 @@ Sahne modellerini Blender’da oluşturup Unity’ye aktarın. VFX Graph ile efe
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/blender-models-with-unity-vfx-2096560142871658589) · [Orijinal gönderi](https://x.com/CST_negi/status/2096560142871658589) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096556692842348826"></a>
-
-### Telefonda oynanabilen Unity ralli oyunu
-
-[Kevin Kern](https://x.com/kevinkern) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826"><img src="../assets/previews/eceebf1bdd5561e25fada5daec055473bd5506cf272760a5a08a8b4ad111988c.webp" width="840" loading="lazy" alt="Telefonda oynanabilen Unity ralli oyunu"></a>
-
-**İstem**
-
-```text
-Codex, Blender ve Unity ile bir ralli sürüş prototipi oluşturun. 3D varlıklarını ve kontrollerini telefonda oyun testine uygun hâle getirin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826) · [Orijinal gönderi](https://x.com/kevinkern/status/2096556692842348826) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3805,42 +3954,6 @@ Bir dairenin referans görsellerini basit bir kat planı eskiziyle birleştirere
 
 ---
 
-<a id="2096521798150242631"></a>
-
-### Geometry Nodes ile döngüsel su yüzeyi
-
-[黒曜陣](https://x.com/uB95A7tobA17057) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631"><img src="../assets/previews/c1f28f7d54e74bcfdc5a9af0c8802782ae717109591d19c56aff83e056a3d5ff.webp" width="840" loading="lazy" alt="Geometry Nodes ile döngüsel su yüzeyi"></a>
-
-**İstem**
-
-```text
-Blender Geometry Nodes ile bake işlemi gerektirmeyen periyodik bir su yüzeyi efekti oluşturun. Düğüm düzenini düzenlenebilir tutun ve bunu tam bir akışkan simülasyonu değil, yüzey modeli olarak açıklayın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631) · [Orijinal gönderi](https://x.com/uB95A7tobA17057/status/2096521798150242631) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096518775042707700"></a>
-
-### One Piece esintili denizcilik dünyası
-
-[Yash](https://x.com/yash_yk45) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700"><img src="../assets/previews/43d06f647b736fefd9e35f14f5a547a9e58943fefc224182925a32bdc0c814ae.webp" width="840" loading="lazy" alt="One Piece esintili denizcilik dünyası"></a>
-
-**İstem**
-
-```text
-Blender gemisi ve Three.js okyanusuyla oynanabilir bir denizcilik dünyası oluşturun. Değişen hava koşulları, su altı keşfi, gemi izi, köpük, su sıçramaları ve hareketli yelkenler ekleyin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700) · [Orijinal gönderi](https://x.com/yash_yk45/status/2096518775042707700) · [Canlı demo](https://one-piece-sea-world.vercel.app/) · [Örneklere dön](#all-prompts)
-
----
-
 <a id="2096572156453028193"></a>
 
 ### Etkileşimli Lorenz çekicisi
@@ -3856,42 +3969,6 @@ Başlangıç konumları arasında çok küçük fark bulunan iki Lorenz sistemi 
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-lorenz-attractor-2096572156453028193) · [Orijinal gönderi](https://x.com/juyeam/status/2096572156453028193) · [Canlı demo](https://tiny-worlds-juyeam.juyeam.chatgpt.site/chaos) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096506357868642342"></a>
-
-### Kişisel odadan etkileşimli portfolyoya
-
-[Kalan ◂Ⓘ▸](https://x.com/kalanyei) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342"><img src="../assets/previews/866c74c1a0c5aa28562647e34518578bfa25e58a2afed0279ba6142eb9d64f44.webp" width="840" loading="lazy" alt="Kişisel odadan etkileşimli portfolyoya"></a>
-
-**İstem**
-
-```text
-Kişisel bir odayı etkileşimli bir tanıtım sitesine dönüştürün. Sahneyi Blender’da oluşturup bake işlemini yapın; ardından kahve buharı, Matrix tarzı animasyon ve hafif shader efektleri ekleyin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342) · [Orijinal gönderi](https://x.com/kalanyei/status/2096506357868642342) · [Canlı demo](https://room.kalan.dev/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096503275910832461"></a>
-
-### Sakin bir 3D denizde YF-24 teknesi
-
-[Yohei Matsumoto](https://x.com/yhmtmt1) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"><img src="../assets/previews/8369341108c9ee030167ffe4e426974a0417136cb0c8a95b91084dcbccc26480.webp" width="840" loading="lazy" alt="Sakin bir 3D denizde YF-24 teknesi"></a>
-
-**İstem**
-
-```text
-Blender’da bir YF-24 teknesi modelleyin ve Beaufort ölçeğinde kuvvet 2 koşullarındaki üç boyutlu denizde ilerleyişini canlandırın. Biçimini iyileştirmek için tekne referanslarından yararlanın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461) · [Orijinal gönderi](https://x.com/yhmtmt1/status/2096503275910832461) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3916,7 +3993,7 @@ Sağlanan 2D karakter logosunu animasyonlu bir 3D sürüme dönüştürün. Kara
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 235 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 248 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

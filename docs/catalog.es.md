@@ -26,13 +26,18 @@
 **Un punto de partida para tu próximo juego, escena o mundo interactivo.**
 
 
-**235 · Últimos prompts de Astra**
+**248 · Últimos prompts de Astra**
 
 ## Proyectos destacados
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/es/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/featured/2096525100518453342.webp" width="420" loading="lazy" alt="Expresiones de personaje intercambiables en Blender"></a><br><strong><a href="#2096525100518453342">Expresiones de personaje intercambiables en Blender</a></strong><br><sub><a href="https://x.com/Dstudio_ai/status/2096525100518453342">Nano(ナノ)</a></sub><br><a href="#2096525100518453342">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/es/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="../assets/featured/2096467585785286808.webp" width="420" loading="lazy" alt="El Wright Flyer atraviesa un bosque japonés"></a><br><strong><a href="https://www.tripo3d.ai/es/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808">El Wright Flyer atraviesa un bosque japonés</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="https://www.tripo3d.ai/es/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/es/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188"><img src="../assets/featured/2081024333120733188.webp" width="420" loading="lazy" alt="Jungla de Gelatina: juego de plataformas 3D"></a><br><strong><a href="https://www.tripo3d.ai/es/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188">Jungla de Gelatina: juego de plataformas 3D</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="https://www.tripo3d.ai/es/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188">Prompt →</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/es/3d-prompts/akari-nagoya-rooftop-flame-relay"><img src="../assets/featured/akari-nagoya-rooftop-flame-relay.webp" width="420" loading="lazy" alt="AKARI: Relevo de la llama en las azoteas de Nagoya"></a><br><strong><a href="#akari-nagoya-rooftop-flame-relay">AKARI: Relevo de la llama en las azoteas de Nagoya</a></strong><br><sub><a href="https://growthengineer.space/">Jared</a></sub><br><a href="#akari-nagoya-rooftop-flame-relay">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/es/3d-prompts/cyclops-island-threejs-game"><img src="../assets/featured/cyclops-island-threejs-game.webp" width="420" loading="lazy" alt="La isla del cíclope"></a><br><strong><a href="#cyclops-island-threejs-game">La isla del cíclope</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="#cyclops-island-threejs-game">Prompt →</a></td>
 </tr>
 </table>
 
@@ -47,9 +52,8 @@
 - [Atlas 3D interactivo de la cabeza y el cerebro humanos](#2098105648106078541) · GitHub
 - [Atlas de Chernóbil](#2098841316591346006) · GitHub
 - [Explorador interactivo de anatomía en 3D](#2099206962344800541) · GitHub
+- [Demo de gráficos de fantasía isométrica](#2100271998618177864) · GitHub
 - [Mosswing: juego móvil 3D de tocar para aletear](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Núcleo de energía interactivo con dos anillos](#2096551010089263181) · GitHub
-- [La visión del templo de Ezequiel en 3D](#2096547658164834788)
 - [Simulación 3D de una explosión nuclear en una ciudad](#2096562462674079868)
 - [Motor de la Totalidad: Catedral cinematográfica del eclipse](#2096593372311941143)
 - [Crea CS2 con Three.js](#2096596888799895855)
@@ -109,39 +113,40 @@
 - [Escena costera 3D jugable para navegador](#2099172061092381027)
 - [Reimagina el castillo de Peach en 3D](#2099359786865402019)
 - [Ferrocarril en miniatura autónomo con prevención de colisiones](#2099362575339372780)
-- [El juego de navegador isométrico en 3D de la isla del cíclope](#2099414001851449430)
 - [Circuito de obstáculos 3D jugable](#2099419671481249851)
 - [Escena 3D interactiva de un samurái en el bosque](#2099450933067612421)
 - [Modelo de conífera de menos de 200 polígonos](#2099472264270102705)
 - [Mundo 3D lleno de rascacielos muy altos](#2099487024256589970)
 - [El guerrero trepa a un gigante y le golpea la mandíbula](#2099519801139908951)
+- [Crea una escena de pasillo de hotel](#2099588840419651890)
 - [Isla volcánica interactiva con barcos que huyen](#2099643231659012553)
 - [Panel interactivo del sistema nervioso de un organismo en 3D](#2099719427990134984)
 - [Corazón y emoji sonriente en 3D con estilo Apple](#2099750376530657300)
+- [Juego de exploración espacial procedural totalmente explorable](#2099785223827259515)
 - [Crea un espacio 3D y un personaje de videojuego articulados a partir de imágenes de referencia](#2099850719839109597)
-- [Expresiones de personaje intercambiables en Blender](#2096525100518453342)
+- [Escena de habitación 3D interactiva con muebles articulados](#2100139076816916977)
+- [Desarrollo de una versión para PC de Splatoon y recreación de sus gráficos](#2100193512373592313)
+- [Recorrido interactivo por un apartamento con opciones de azulejos](#2100222426705453318)
+- [Cortometraje de lucha sobrenatural CGI AAA en una estación de metro](#2100233407108137349)
+- [Añadir una cadena de mantenimiento a la barandilla](#2100519026720231698)
+- [Crear un juego de carreras en 3D](#2100526922770026874)
+- [Juego 3D de escape de un centro de investigación cerrado](#2100595652703199281)
+- [Diseñar un cuerpo propio en CAD](#2100614534423540102)
+- [AKARI: Relevo de la llama en las azoteas de Nagoya](#akari-nagoya-rooftop-flame-relay)
+- [La isla del cíclope](#cyclops-island-threejs-game)
 - [Tablero de shogi 3D giratorio](#2096579856133947507)
 - [Atlas interactivo de un ordenador de sobremesa por piezas](#2096578761877860502)
 - [Planificador de habitación infantil y zona de trabajo](#2096578684010508736)
-- [Miniatura interactiva de Seúl](#2096557555086725159)
 - [Una casa modelada desde cero en Blender](#2096576154337734865)
-- [Del plano de la última planta a una vista previa en Blender](#2096501340889374883)
 - [Aventura de exploración The Quiet Crossing](#2096574297703637111)
 - [Locomotora de vapor por el campo](#2096577430274429157)
 - [Escena de un tocadiscos sobre una mesa](#2096561346766877106)
-- [Ciclo de juego de batallas con cartas coleccionables](#2096555856204644550)
-- [Nivel completo de puzles en Three.js](#2096505740643246231)
 - [Búsqueda del tesoro en una playa low poly](#2096570815714414844)
 - [Modelos de Blender con efectos visuales en Unity](#2096560142871658589)
-- [Juego de rally en Unity para móviles](#2096556692842348826)
 - [Mango de la India en SpeedTree](#2096572429066006845)
 - [Texturas y rig de un personaje de Tripo](#2096566598689783878)
 - [Del boceto de un apartamento a interiores renderizados](#2096566686266597754)
-- [Agua en bucle con Geometry Nodes](#2096521798150242631)
-- [Mundo de navegación inspirado en One Piece](#2096518775042707700)
 - [Atractor de Lorenz interactivo](#2096572156453028193)
-- [Una habitación personal como portfolio interactivo](#2096506357868642342)
-- [Barco YF-24 en un mar 3D tranquilo](#2096503275910832461)
 - [De un logotipo 2D a un personaje animado](#2096559197999501724)
 
 </details>
@@ -282,6 +287,26 @@ Utiliza geometría anatómica real cuando esté disponible, cita las fuentes y d
 
 ---
 
+<a id="2100271998618177864"></a>
+
+### Demo de gráficos de fantasía isométrica
+
+[github.com](https://github.com/) · 2026-09-16
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100271998618177864"><img src="../assets/previews/851c2340f464e95b33eb0dd10894129a620b694b37838698fe011988fadf0d3e.jpg" width="840" loading="lazy" alt="Demo de gráficos de fantasía isométrica"></a>
+
+Una escena 3D de fantasía interactiva en el navegador, con cámara isométrica, dirección artística inspirada en los vóxeles, suelos mojados reflectantes y un personaje controlable. El repositorio de Dream Loop enlazado la presenta como su prompt de ejemplo y afirma que se probó con GPT-6 Astra en Codex. No solicita un bucle de juego.
+
+**Prompt**
+
+```text
+Crea una demo gráfica: cámara isométrica, estilo artístico tipo vóxel con sombreado realista y suelos mojados reflectantes, además de un personaje en una escena interesante. Ambientación de fantasía (piensa en Elden Ring y Diablo). Usa Three.js en el navegador, a más de 60 FPS. No descargues recursos. Límite de tiempo: 1 hora. Controles: haz clic para mover al personaje; la cámara lo seguirá suavemente. Arrastra para girar la cámara y usa la rueda del ratón para acercar o alejar el zoom. Por ahora, no incluyas jugabilidad. El mundo debe parecer vivo: incorpora movimiento, animaciones y comportamientos ambientales sutiles. La zona alrededor del jugador debe parecer amplia, pero limita el movimiento a un espacio reducido. No hace falta que confirmes conmigo el estilo artístico ni que hagas preguntas: ponte manos a la obra.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100271998618177864) · [Publicación original](https://github.com/achimala/dream-loop) · [Código fuente](https://github.com/achimala/dream-loop) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="mosswing-mobile-3d-tap-to-flap-game"></a>
 
 ### Mosswing: juego móvil 3D de tocar para aletear
@@ -299,44 +324,6 @@ Remasteriza el clásico juego de «tocar para aletear» —ese en el que tocas p
 ```
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Publicación original](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Código fuente](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Demo en línea](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2096551010089263181"></a>
-
-### Núcleo de energía interactivo con dos anillos
-
-[ruofeng](https://x.com/oneruofeng) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181"><img src="../assets/previews/6e5f5eddec63a18ae0d3ecf97b602134366d92611a36c4729098b5c8bb9c4275.webp" width="840" loading="lazy" alt="Núcleo de energía interactivo con dos anillos"></a>
-
-**Prompt**
-
-```text
-Modela un núcleo de energía, dos anillos y una base metálica en Blender. Exporta los materiales a un visor de Three.js con controles de rotación, zoom, órbita automática y pulsación.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [Publicación original](https://x.com/oneruofeng/status/2096551010089263181) · [Código fuente](https://github.com/wangruofeng/orbital-core-showcase) · [Demo en línea](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2096547658164834788"></a>
-
-### La visión del templo de Ezequiel en 3D
-
-[KrixAi](https://x.com/KrixOnok) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096547658164834788"><img src="../assets/previews/eadc8f8cca00ee66056e71bf05b1b36329d411767d2d0f7e3d110e8889cdc48e.jpg" width="840" loading="lazy" alt="La visión del templo de Ezequiel en 3D"></a>
-
-Un prompt para recrear en 3D la visión del templo de Ezequiel y el paisaje que lo rodea, incluidos los patios y un río que da vida.
-
-**Prompt**
-
-```text
-¿Cómo se vería en 3D la visión del templo de Ezequiel?
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096547658164834788) · [Publicación original](https://x.com/KrixOnok/status/2096547658164834788) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -367,8 +354,6 @@ Crea una demostración de una explosión nuclear con una ciudad en 3D, un destel
 [Chris W](https://x.com/Chris_Wozniczek) · 2026-09-06
 
 <a href="https://www.tripo3d.ai/es/3d-prompts/totality-engine-cinematic-eclipse-cathedral-2096593372311941143"><img src="../assets/previews/52de12ef7c4dd44ec548962b86297e175683992ebdfdd2665699a18fe86bb9ca.jpg" width="840" loading="lazy" alt="Motor de la Totalidad: Catedral cinematográfica del eclipse"></a>
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/totality-engine-cinematic-eclipse-cathedral-2096593372311941143"><img src="../assets/previews/9e97a6d41453e28ab9686e13dcab0dcef1a92a9a19b5c06469dd6d763559548d.jpg" width="840" loading="lazy" alt="Motor de la Totalidad: Catedral cinematográfica del eclipse"></a>
 
 Un prompt completo para Three.js/WebGL que crea un cortometraje cinematográfico en bucle de 32 segundos dentro de una catedral gótica inundada, con un reloj astronómico monumental, movimientos de cámara dirigidos, agua procedural, planetas de cristal e iluminación de eclipse. Chris W publicó una ejecución en Astra y una comparación con otros modelos.
 
@@ -469,8 +454,6 @@ hey GPT-6 Astra, créame CS2 con Three.js, sin cometer errores.
 ### Animación de una caja plegable a partir de un troquel
 
 [Salma](https://x.com/Salmaaboukarr) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096612394281603144"><img src="../assets/previews/aed224d4a25ce9c0d436ebd4d2bfb7fadb211bdf624364e3f7905a0dbec1546f.jpg" width="840" loading="lazy" alt="Animación de una caja plegable a partir de un troquel"></a>
 
 <a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096612394281603144"><img src="../assets/previews/8c6f1b8b77c2fbe4db5935da41922377548fb196ff642bf47e5acafa079b526a.png" width="840" loading="lazy" alt="Animación de una caja plegable a partir de un troquel"></a>
 
@@ -1283,8 +1266,6 @@ Una animación completamente renderizada y un archivo de proyecto 3D de Blender 
 ### Terreno de aldea inspirado en Skyrim a partir de una referencia generada
 
 [Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo) · 2026-09-08
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2097167383576383502"><img src="../assets/previews/9c9cbd259a893444392ed43dcb391e62636358a5f2f570cf4232cc13a2128a63.jpg" width="840" loading="lazy" alt="Terreno de aldea inspirado en Skyrim a partir de una referencia generada"></a>
 
 <a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2097167383576383502"><img src="../assets/previews/b2cb6b850ef77b3e545565d93a49f22ce192293b50f8ef2ad74f242cfe387ddf.jpg" width="840" loading="lazy" alt="Terreno de aldea inspirado en Skyrim a partir de una referencia generada"></a>
 
@@ -3162,45 +3143,6 @@ Crea un ferrocarril en miniatura con al menos tres trenes circulando al mismo ti
 
 ---
 
-<a id="2099414001851449430"></a>
-
-### El juego de navegador isométrico en 3D de la isla del cíclope
-
-[Jason Chew](https://x.com/jasoncjs_) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099414001851449430"><img src="../assets/previews/09544f1dda48f4288384850cffc3a8d4127273075bba899a6d5691ac2c90d730.jpg" width="840" loading="lazy" alt="El juego de navegador isométrico en 3D de la isla del cíclope"></a>
-
-Un prompt reutilizable para GPT-6 Astra, publicado por Jason Chew, para crear un juego de navegador interactivo completo ambientado en la isla del cíclope de la Odisea de Homero. Solicita un diorama 3D isométrico de una isla griega con pixel art, con Odiseo, su tripulación, el cíclope, un barco frente a la costa, movimiento del jugador, colisiones, controles de cámara, animaciones y una interfaz de objetivos literarios.
-
-**Prompt**
-
-```text
-Crea una experiencia de navegador interactiva basada en la Odisea de Homero: la isla del cíclope.
-
-Crea un diorama 3D isométrico pulido, con pixel art, de una pequeña isla griega rodeada por un océano animado. Incluye una costa arenosa, un bosque frondoso, acantilados rocosos, una gran cueva, a Odiseo y su tripulación, al cíclope y su barco frente a la costa.
-
-Haz que parezca un pequeño juego jugable:
-
-Controla a Odiseo con WASD o las teclas de dirección
-Haz clic en el suelo para caminar
-Arrastra para desplazar la cámara
-Desplázate para hacer zoom
-Añade animaciones sutiles para el agua, los árboles, los personajes y el entorno
-Añade controles para rotar la cámara, hacer zoom, restablecer la vista y pausar
-Usa colisiones para impedir que el jugador atraviese rocas, árboles o agua
-
-Añade un panel de interfaz oscuro y literario en la esquina inferior izquierda:
-
-«Guía a Odiseo por el sendero arenoso hasta la cueva.»
-Muestra debajo el personaje actual y su estado de movimiento.
-Dirección artística: pixel art isométrico detallado de estrategia/RPG de los años noventa, colores mediterráneos apagados, terreno texturizado, tipografía cálida con aspecto de pergamino, grano sutil y una interfaz de juego prémium. Debe parecer un antiguo mapa ilustrado que ha cobrado vida.
-Haz que toda la experiencia ocupe la ventana del navegador y funcione de inmediato. No hagas una maqueta. Crea la experiencia interactiva completa.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099414001851449430) · [Publicación original](https://x.com/jasoncjs_/status/2099414001851449430) · [Volver a los ejemplos](#all-prompts)
-
----
-
 <a id="2099419671481249851"></a>
 
 ### Circuito de obstáculos 3D jugable
@@ -3396,6 +3338,26 @@ music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
 
 ---
 
+<a id="2099588840419651890"></a>
+
+### Crea una escena de pasillo de hotel
+
+[West Lord](https://x.com/MyWestLord) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099588840419651890"><img src="../assets/previews/9325046470adcbc69de0911728ede1548949019160e7a05cf16cc39155276e27.jpg" width="840" loading="lazy" alt="Crea una escena de pasillo de hotel"></a>
+
+Un prompt que el autor de la publicación atribuye a GPT-6 Astra para crear una escena editable de pasillo de hotel en Blender mediante MCP.
+
+**Prompt**
+
+```text
+crea una escena de pasillo de hotel
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099588840419651890) · [Publicación original](https://x.com/MyWestLord/status/2099588840419651890) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="2099643231659012553"></a>
 
 ### Isla volcánica interactiva con barcos que huyen
@@ -3456,6 +3418,26 @@ Emoji de corazón y emoji sonriente en 3D con estilo Apple
 
 ---
 
+<a id="2099785223827259515"></a>
+
+### Juego de exploración espacial procedural totalmente explorable
+
+[developers.openai.com](https://developers.openai.com/) · 2026-09-15
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099785223827259515"><img src="../assets/previews/4009749d3c10e1e7ab1c4246f910864404e0f5622f7580ebd3d9141386697db5.jpg" width="840" loading="lazy" alt="Juego de exploración espacial procedural totalmente explorable"></a>
+
+Brief inicial de un desarrollador de OpenAI para Void Explorer, un juego de exploración espacial en 3D basado en navegador. Solicita un viaje continuo desde el espacio, atravesando la atmósfera de un planeta hasta llegar al suelo, con distancias a escala real, planetas del tamaño de la Tierra, terreno procedural y renderizado por chunks.
+
+**Prompt**
+
+```text
+Todo lo que pueda ver debe ser alcanzable. Mantén las distancias a escala real y haz que viajar resulte viable mediante la escala y la velocidad. Quiero volar desde el espacio, atravesar la atmósfera de un planeta y descender hasta el suelo. Los planetas pueden tener el tamaño de la Tierra, así que necesitaremos terreno procedural y un renderizador por chunks.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099785223827259515) · [Publicación original](https://developers.openai.com/blog/how-to-build-games-with-astra) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="2099850719839109597"></a>
 
 ### Crea un espacio 3D y un personaje de videojuego articulados a partir de imágenes de referencia
@@ -3494,21 +3476,276 @@ Diseñaré con calidad profesional un espacio 3D realmente interactivo y un pers
 
 ---
 
-<a id="2096525100518453342"></a>
+<a id="2100139076816916977"></a>
 
-### Expresiones de personaje intercambiables en Blender
+### Escena de habitación 3D interactiva con muebles articulados
 
-[Nano(ナノ)](https://x.com/Dstudio_ai) · 2026-09-06
+[Wentao Zhu](https://x.com/walterzhu8) · 2026-09-16
 
-<a href="https://www.tripo3d.ai/es/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/previews/e172122424c525a2dfb3968370d9707b0f7f661172fde0f5cf326ba550884780.webp" width="840" loading="lazy" alt="Expresiones de personaje intercambiables en Blender"></a>
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100139076816916977"><img src="../assets/previews/591aedead77f86efdc2a1a79394718b6c85cb2db7d3d1470dc474aaceb7afc6c.jpg" width="840" loading="lazy" alt="Escena de habitación 3D interactiva con muebles articulados"></a>
+
+Una prueba de GPT-6 Astra acreditada por Wentao Zhu al estudiante Minchao Jiang. El prompt solicita una escena 3D interactiva basada en una foto de habitación proporcionada, con bisagras, puertas y cajones articulados, además de movimientos de cámara para un vídeo de demostración.
 
 **Prompt**
 
 ```text
-Prepara variantes de expresión de un personaje de Tripo en Blender antes de crear el esqueleto. Alinea las mallas y alterna entre ellas sin interpolación, reduciendo las variantes inactivas dentro de la cabeza. No presentes el resultado como una mezcla suave de expresiones ni como compatible con VRM.
+Dada la foto de la habitación que proporcioné, usa Blender MCP para crear una escena 3D interactiva y renderizarla como vídeo de demostración. Incluye movimiento articulado de los objetos (bisagras, puertas y cajones) y utiliza movimientos de cámara adecuados para mostrar estos efectos.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [Publicación original](https://x.com/Dstudio_ai/status/2096525100518453342) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100139076816916977) · [Publicación original](https://x.com/walterzhu8/status/2100139076816916977) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2100193512373592313"></a>
+
+### Desarrollo de una versión para PC de Splatoon y recreación de sus gráficos
+
+[basio](https://x.com/basio39) · 2026-09-16
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100193512373592313"><img src="../assets/previews/cdd39cb88311df2f7d3d8c5fef6f09b5928eb79e22080c2cae0f51698f5bc0c9.jpg" width="840" loading="lazy" alt="Desarrollo de una versión para PC de Splatoon y recreación de sus gráficos"></a>
+
+Prompt para desarrollar una versión para PC de «Splatoon» y recrear sus gráficos por completo. El autor explica que ejecutó únicamente este prompt con Ultra.
+
+**Prompt**
+
+```text
+/goal Desarrolla una versión para PC de Splatoon. Recrea sus gráficos por completo.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100193512373592313) · [Publicación original](https://x.com/basio39/status/2100194321987461503) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2100222426705453318"></a>
+
+### Recorrido interactivo por un apartamento con opciones de azulejos
+
+[Shimecki](https://x.com/scheemunai) · 2026-09-16
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100222426705453318"><img src="../assets/previews/0653f3d309b3aa21c54ae9b90fb1def11f410764b84d7c3bf0493febf985d364.jpg" width="840" loading="lazy" alt="Recorrido interactivo por un apartamento con opciones de azulejos"></a>
+
+Un prompt del autor principal para crear en Blender un modelo de apartamento realista en HD y una experiencia web interactiva que permita recorrerlo y elegir opciones de azulejos.
+
+**Prompt**
+
+```text
+Quiero que construyas en Blender un modelo 3D de renderizado en HD completamente realista y, después, una experiencia web interactiva para poder recorrer el apartamento y elegir opciones de azulejos.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100222426705453318) · [Publicación original](https://x.com/scheemunai/status/2100222426705453318) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2100233407108137349"></a>
+
+### Cortometraje de lucha sobrenatural CGI AAA en una estación de metro
+
+[MadMax](https://x.com/MadMax_Series) · 2026-09-16
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100233407108137349"><img src="../assets/previews/5b1433bd865c6ec1ec3d43fd2606e377b00ccf62ea86dd52f18143cd56b9eee4.jpg" width="840" loading="lazy" alt="Cortometraje de lucha sobrenatural CGI AAA en una estación de metro"></a>
+
+**Prompt**
+
+```text
+Todos los personajes, figurantes del fondo y elementos de la estación deben compartir un aspecto de CGI de videojuego de fantasía AAA, claramente esculpido en digital. Los primeros planos de los personajes deben conservar rostros de personajes de videojuego meticulosamente refinados, mechones de trenzas bien definidos y piel realista estilizada; no deben convertirse en actores reales, cosplay, gameplay corriente, animación 2D ni cel shading. Mantén la escena de lucha sobrenatural en una estación de metro moderna; no la transformes en un castillo medieval, una montaña nevada ni un ring de boxeo. La paleta debe ser de cian grisáceo frío y poco saturado, negro carbón profundo, escamas cian grisáceas y tiras de luz blanca fría, con pequeños acentos de color formados por barandillas amarillas, luces de señalización rojas, monturas de gafas de bronce, hombreras verde cardenillo y cinturón rojo ocre. El brillo dorado miel de los ojos y el breve destello violeta al golpear la columna solo deben aparecer en esos instantes concretos; no tiñas toda la película de violeta. Entorno: una estación ferroviaria subterránea amplia y oscura, con una zona de vías hundida en el centro, raíles y grava, y andenes elevados a ambos lados. Los bordes de los andenes tienen barreras de protección de vidrio y metal con marcos verticales amarillos; el suelo presenta franjas de seguridad amarillas, baldosas grises y rejillas de drenaje. Grandes columnas cilíndricas blancas sostienen el techo bajo. En la parte superior se extienden hileras continuas de luces alargadas blancas frías y luces circulares, junto con pequeñas luces de señalización rojas que se pierden en la distancia. En el andén hay varias decenas de pasajeros adultos con abrigos corrientes de tonos claros y oscuros, dispersos junto a las columnas o detrás de las barreras. Al verse sorprendidos por la pelea, retroceden, se encogen y levantan los brazos para protegerse, pero siguen siendo figurantes del fondo: no participan en la lucha, no se convierten en protagonistas y no repiten los mismos rostros. No entra ningún tren. Los carteles deben conservar únicamente bloques geométricos borrosos, sin texto legible. Los dos combatientes principales son fijos: A, el guerrero de las gafas, es un hombre adulto alto, delgado y atlético, de piel morena oscura y cálida, con pómulos y mandíbula bien definidos. Lleva el pelo negro en trenzas cortas pegadas a la cabeza, recogidas en un pequeño nudo de trenzas en la nuca. En la frente lleva fijada una estrecha pantalla de gafas abatible, con montura de bronce y visor gris humo; normalmente cubre ambos ojos, mientras que quedan visibles la nariz por debajo del puente y la boca. Viste una camiseta de combate sin mangas, gris azulada y de cuello cruzado, un fajín marrón oscuro, pantalones largos de pernera ancha negro carbón y botas bajas marrón oscuro. Ambos antebrazos están envueltos en vendas de tela gris; los dedos quedan al descubierto y sus manos están siempre vacías. No lleva capa, armas en las manos ni emblemas legibles. Su expresión es serena y sus movimientos, ágiles y decididos. Solo en el plano indicado, levanta brevemente con la mano derecha el borde de la pantalla para dejar ver un ojo de color dorado miel brillante; después vuelve a bajar la pantalla para cubrirle los ojos. Es la misma pieza física de protección fijada a la frente: no se convierte en una tira de tela ni desaparece. B, la bestia de cresta escamada, es una criatura humanoide bípeda y musculosa, más alta y corpulenta que A. Unas escamas gruesas de color cian grisáceo oscuro cubren su amplio pecho, espalda y extremidades; el abdomen tiene escamas gris azuladas más pequeñas y densas. Tiene una cabeza ancha y achatada de lagarto, hocico corto y romo, mandíbula robusta, dos ojos de color ámbar oscuro y dientes cortos y gruesos. La cabeza no tiene pelo humano, máscara ni protuberancias con forma de ramas. Desde el hombro izquierdo hasta el antebrazo izquierdo le crece una armadura natural gruesa de color verde cardenillo; en el borde superior del hombro hay fijada una hilera de aletas óseas cortas y romas. El brazo derecho conserva escamas gruesas de color gris azulado más claro. Los lados nunca deben intercambiarse: las aletas óseas y las placas de armadura forman parte del cuerpo, y no hay flores en el hombro. Viste pantalones de combate holgados de pernera muy ancha, de color marrón oscuro, un cinturón textil rojo ocre y dos tiras estrechas colgantes a modo de faldón. Lleva los tobillos envueltos en tela marrón oscura; las plantas de los pies son anchas y escamosas, y deben conservar una superficie plantar claramente visible para apoyarse contra una pared. No tiene cola, alas, brazos adicionales, cuernos largos, espada, lanza, escudo ni objetos en las manos. B es una criatura alta capaz de entrar en una estación normal; conserva una proporción estable respecto a A y a los pasajeros y no se hincha hasta convertirse en un gigante del tamaño de un edificio. 0.00–3.70 s: el enfrentamiento comienza desde el primer fotograma. Un breve plano bajo, cerca de las vías, muestra a B acercándose rápidamente con pasos decididos. Corte inmediato a un plano medio desde detrás de A: B carga desde delante, levanta la pierna y gira la cadera para lanzar una patada circular a la altura de la cabeza. A flexiona las rodillas, agacha la cabeza e inclina el torso hacia un lado; la pierna pasa rozando por encima de sus trenzas negras cortas. B apoya el pie y gira para recuperar la posición, mientras A se incorpora enseguida. Corte a un plano general bajo de ambos junto a las vías, con un Dutch angle claramente marcado: A levanta la rodilla y enlaza una patada circular alta; B baja la cabeza y los hombros para esquivarla, y A recoge la pierna y vuelve a apoyar el pie. La cámara regresa a un seguimiento cercano por encima del hombro de A. B lo persigue con una serie continua de golpes amplios; A deja que los puños pasen rozándole el rostro mediante breves movimientos de cabeza, hundiendo el hombro y girando el cuerpo. No debe quedarse quieto repitiendo puñetazos mientras espera el ataque. Las tiras de luz del techo generan estelas direccionales al desplazarse la cámara, y la relación espacial entre los cuerpos debe mantenerse clara. 3.70–6.40 s: el puño derecho gris azulado claro de B vuelve a extenderse frente a A. A lo intercepta con la mano abierta y agarra su muñeca y antebrazo; el punto de contacto debe ser visible. La cámara se acerca al perfil sereno de A y, mientras él gira el pie, rota la cadera y el hombro, lo sigue rápidamente hasta una vista de cuerpo entero en contrapicado. A mantiene agarrado el mismo brazo derecho, levanta a B separándolo de su apoyo y lo hace girar por encima del lateral de su cuerpo. Los dos pies de B quedan en el aire; su cinturón rojo ocre y sus pantalones anchos se retrasan por la inercia. En el punto más alto del lanzamiento solo hay un instante muy breve de ultra slow motion, tras el cual se recupera la velocidad normal. A completa el giro y suelta; B cae dando una voltereta siguiendo el arco original, con la cabeza hacia abajo y los pies arriba. Su hombro y espalda golpean el suelo de la zona de vías, y la grava y el polvo saltan desde el punto de contacto. La cámara baja sigue la caída y tiembla brevemente. B rueda con el impulso, se apoya y levanta el torso, conservando las cuatro extremidades intactas. No hay brazos rotos, lanzamiento telequinético sin contacto ni una recuperación que aparezca de la nada. 6.40–9.20 s: B aún se recupera a ras de suelo cuando A ya ha tomado impulso y salta hacia él. Desde detrás de B, la cámara contrapica a A girando la cadera y extendiendo la pierna en el aire. El punto más alto del salto se ralentiza brevemente; durante el descenso, A presiona la cabeza y los hombros de B con una patada voladora lateral. B levanta ambos brazos para bloquearla y queda desviado por la fuerza. A apoya los pies y continúa de inmediato; no aterriza para quedarse esperando. La cámara sigue el descenso de A y se aproxima rápidamente rodeándolo de lado, alternando primeros planos ligeramente inclinados por encima del hombro y del rostro. A esquiva el brazo que B barre de vuelta, golpea el torso con un puñetazo corto y después empuja el lateral del rostro de B con la palma abierta. Solo después del contacto la cabeza y el cuello de B giran en la dirección del empuje. La palma, el rostro y el antebrazo no deben fusionarse. Las aletas óseas del hombro izquierdo de B giran junto con la hombrera del mismo lado y el torso. 9.20–11.20 s: A aprovecha el espacio creado al empujar el rostro, gira para recoger la pierna y lanza de inmediato una potente patada lateral hacia delante. La suela golpea el abdomen y la parte baja del pecho de B. Primero el torso de B se dobla y después ambos pies se separan del suelo; sale volando por encima del lateral hacia el andén. La cámara lo sigue al pasar sobre el borde del andén. La parte alta de su espalda y el hombro chocan contra una columna blanca, que se agrieta hacia fuera desde el punto de contacto; caen fragmentos claros y polvo, y B resbala por la columna hasta el suelo del andén. Tras recoger la pierna, A salta desde la zona de vías al mismo andén para acercarse. Después del corte aparece junto a esa misma columna, en continuidad; no se teletransporta a otra estación. Los pasajeros se apartan hacia ambos lados. La columna queda dañada, pero no se derrumba por completo. 11.20–12.80 s: corte a un primer plano del rostro de B tras el impacto. Levanta la cabeza y gira el rostro para buscar a A; la armadura verde cardenillo y las aletas óseas cortas del hombro izquierdo siguen presentes. La imagen pasa rápidamente a una composición cercana a ambos lados de la misma columna: B ocupa el primer plano derecho y A queda al fondo izquierdo, junto a la columna. A esboza una ligera sonrisa fría, pero no habla. Levanta con la mano derecha el borde de la pantalla de gafas con montura de bronce y deja ver un ojo dorado miel brillante, mirando directamente a B durante un instante muy breve. Después baja la pantalla con la mano derecha para volver a cubrirse los ojos, mientras prepara el cuerpo para esquivar. No dejes una pausa prolongada de diálogo ni una articulación de habla. 12.80–13.80 s: B gira el hombro y lanza su puño derecho gris azulado claro hacia la posición de A. Antes de que el puño llegue, A se desplaza rápidamente de lado y rodea la columna para salir por detrás. El puño golpea la columna blanca sólida; en el instante del contacto estalla un destello compacto de energía violeta, las grietas se extienden y caen fragmentos, mientras el breve destello violeta se disipa de inmediato. El primer plano muestra cómo el puño presiona la superficie de la columna y después se abre rápidamente para revelar que B ha fallado y A ya ha rodeado la columna hasta el lateral. Sigue siendo la misma columna dañada de antes. A no se convierte en humo violeta y el puño no atraviesa el cuerpo. 13.80–16.00 s: plano general bajo e inclinado. A baja el cuerpo delante y a un lado de la columna y hace un breve gesto de provocación con la mano. B se gira y se abalanza. A se impulsa y ejecuta una sola voltereta hacia atrás continua: primero arquea el cuerpo, eleva ambos pies por encima de la cabeza y después recoge el abdomen para atravesar la fase invertida, esquivando el brazo con el que B barre el espacio. La cámara se inclina hacia arriba siguiendo el cuerpo; durante la fase invertida, el movimiento se ralentiza brevemente y las tiras de luz cruzan el fondo en diagonal. A continúa la misma voltereta, devuelve los pies debajo del cuerpo y aterriza en el espacio libre del andén, detrás y al lado de B. Flexiona las rodillas para absorber el impacto, mientras los bordes de la ropa y las trenzas cortas de la nuca vuelven a caer por la inercia. Los pasajeros del fondo se apartan asustados; no deben tratarse como atacantes adicionales. A no sale despedido ni repite volteretas en el aire para alargar la duración. 16.00–18.50 s: A acaba de ponerse en pie cuando B se gira y lo alcanza con un golpe amplio hacia el lateral de la cabeza. A primero se inclina hacia atrás y después se agacha, dejando que el brazo derecho gris azulado claro de B pase horizontalmente por encima de su cabeza. Con ambas manos controla ese antebrazo, entra por delante del cuerpo de B y gira de espaldas mientras baja el centro de gravedad. A conduce el brazo de B por encima de su propio hombro y utiliza el impulso hacia delante de B para ejecutar una proyección por encima del hombro. La cadera de B pasa por encima del punto de apoyo, ambos pies se separan del suelo y cae de espalda sobre las baldosas del andén; los fragmentos de baldosa y el polvo se dispersan por el suelo. La cámara retrocede desde un primer plano pegado al hombro hasta un plano medio amplio y bajo, mostrando claramente el giro y el aterrizaje. A permanece de pie y suelta a B para que caiga. B se da la vuelta de inmediato, se apoya, flexiona las piernas y se levanta. A se gira hacia él y continúa presionando, enlazando la recuperación con el acercamiento; no hay una pausa larga de pie para pronunciar diálogos. 18.50–20.65 s: B vuelve a entrar a distancia corta. A se adelanta con un puñetazo recto corto hacia el lateral del rostro, retira la mano para proteger el pecho y después baja el cuerpo para golpear el abdomen y las costillas. B levanta el brazo para bloquear uno de los golpes y contraataca con un amplio barrido de su brazo pesado. A se mantiene cerca de la parte interna del pecho y hombro de B, agacha la cabeza para esquivarlo, desvía con el antebrazo el puño que regresa y conecta con golpes cortos y compactos en la mandíbula y la parte superior del pecho. La cámara se mueve rápidamente en pequeños desplazamientos alrededor de los hombros de ambos. La cabeza y el cuerpo solo deben rebotar después del contacto real. Resuelve este tramo con una secuencia continua de ataques, bloqueos, desvíos y contraataques; no lo conviertas en una alternancia de golpes al aire, sin reacción mutua, ni mantengas ambos puños pegados continuamente. 20.65–21.85 s: corte directo a una vista cenital. Debe verse con claridad cómo ambos giran alrededor de la misma pequeña zona de baldosas. Las trenzas negras cortas y la montura de bronce de A, junto con la armadura verde cardenillo del hombro izquierdo y el cinturón rojo ocre de B, son puntos de identificación constantes. El brazo de B barre ampliamente junto al costado de A. A encoge el hombro y se mete por la parte interior del brazo, cambia de posición apoyando primero un pie y luego el otro, desvía con una mano el antebrazo de B, hunde el otro puño en el pecho y abdomen y retira la mano mientras ajusta su posición al giro de B. Las baldosas caídas y la rejilla de drenaje permanecen en su lugar. La vista cenital muestra la trayectoria del combate cuerpo a cuerpo; no añadas un doble ni un tercer luchador. 21.85–24.00 s: corte de vuelta a un primer plano muy cercano por encima del hombro de B. A continúa con una serie de golpes cortos alternando ataques altos y bajos, mientras ladea la cabeza para esquivar el brazo de B que llega desde arriba. Los antebrazos vendados y el brazo escamoso gris azulado de B se entrecruzan, pero sus límites deben permanecer claros. La cámara sigue el rápido avance de los puños de A. En dos puntos de contacto fuerte, añade solo durante unos fotogramas un destello de exposición de alto contraste en blanco y negro con un contorno de impacto tridimensional; vuelve inmediatamente al CGI AAA cian grisáceo frío original. No cortes a cómic, texto ni ilustración 2D. El último puñetazo recto debe impactar claramente en el abdomen de B: el abdomen se comprime hacia dentro, la parte superior del cuerpo se dobla y el brazo que B levanta desde arriba pierde su dirección de avance al seguir el movimiento del torso. A mantiene firmes las plantas de los pies; la fuerza se transmite desde las piernas, la cadera y el hombro hasta el puño, que no atraviesa el cuerpo. 24.00–28.00 s: enlaza directamente con las consecuencias del mismo golpe fuerte al abdomen. Los dos pies de B se separan del suelo y sale despedido hacia atrás. La cámara, baja y pegada al borde del andén, lo sigue a gran velocidad a lo largo del eje principal de la estación, pasando sucesivamente junto a columnas blancas, marcos amarillos, paneles de vidrio y metal y la multitud horrorizada. Las líneas del fondo se alargan por la velocidad, pero el cuerpo escamoso cian grisáceo de B, los pantalones marrón oscuro, el cinturón rojo ocre y la armadura verde cardenillo del hombro izquierdo siguen siendo reconocibles. Mediante un plano general longitudinal, cortes rápidos con columnas rozando el primer plano y primeros planos en contrapicado desde abajo, muestra cómo B gira en el aire por la inercia y extiende los brazos para intentar recuperar el equilibrio. Los fragmentos que levanta se desplazan por las vías en la misma dirección del vuelo. Después B atraviesa una sección de la barrera de protección de vidrio y metal del borde del andén. El vidrio se rompe tras el contacto con el cuerpo y el marco metálico se dobla. B continúa atravesando la abertura hacia la zona de vías; corta a un plano general desde el lateral de las vías. Sigue siendo un único vuelo continuo causado por el golpe al abdomen. No añadas una patada fuera de plano, un segundo lanzamiento ni pasajeros que salgan despedidos. A no se duplica detrás de cada columna. 28.00–30.00 s: plano medio amplio lateral fijo. La pared vertical de las vías, de color gris oscuro, ocupa el lado izquierdo del encuadre; el andén opuesto y los pasajeros detrás de la barrera quedan al fondo a la derecha. Las tiras de luz apuntan hacia el fondo de la estación. B gira en el aire hasta quedar con los pies orientados hacia la pared. Las plantas de ambos pies deben entrar claramente en contacto con la pared vertical. Flexiona las rodillas y recoge el abdomen formando una posición compacta; bajo los pies salta una pequeña cantidad de polvo de la pared. Después, en ultra slow motion, extiende lentamente las rodillas y gira el torso hacia fuera, acercando gradualmente el cuerpo a la horizontal. Las plantas siguen apoyadas contra la pared; el cinturón rojo ocre, los pantalones anchos y los pequeños fragmentos continúan moviéndose para mostrar de forma continua el contacto, la compresión y la acumulación de fuerza. No es un golpe de espalda contra la pared, una suspensión congelada en el aire ni una postura sobre el suelo volcado. El vídeo termina en el segundo 30.00 con B todavía apoyado en la pared con ambos pies y el cuerpo desplegándose hacia fuera. No añadas una contraofensiva completa impulsándose contra la pared, aterrizaje, muerte ni desenlace de victoria o derrota. No hay pantalla negra, fundido a negro ni tarjeta final. Ritmo y continuidad: conserva el orden de las acciones de persecución rápida, esquivas a corta distancia, proyecciones, voltereta aérea, patada voladora, golpe contra la columna, golpes breves en vista cenital y desplazamiento entre andenes. Acorta la observación y las pausas del diálogo original. Usa cámara lenta solo de forma localizada en el punto más alto del lanzamiento, la esquiva en el aire y la fase final contra la pared; en esta última indica claramente ultra slow motion. El combate normal debe ser rápido y fluido: no uses cámara lenta global ni fotogramas congelados para completar la duración. Conserva las trenzas negras cortas, la piel morena oscura, la pantalla con montura de bronce, la camiseta sin mangas gris azulada y los antebrazos vendados de A. El estado de la pantalla antes y después de mostrar el ojo debe ser inequívoco. Conserva la armadura verde cardenillo y las aletas óseas cortas del lado izquierdo de B, el brazo derecho con escamas gruesas gris azuladas, la cabeza ancha de lagarto, los pantalones marrón oscuro y el cinturón rojo ocre. Las aletas óseas no se caen, no cambian de lado ni se convierten en armas. Cuando un personaje es derribado, primero entra en contacto con el suelo y después recupera el apoyo. Todo salto activo comienza con un impulso desde el suelo; todo vuelo causado por un golpe comienza con un contacto; el frenado contra la pared comienza con el contacto de las plantas y después la flexión de las rodillas. Todos los movimientos deben conservar el peso, la inercia y la dirección. Los figurantes del fondo realizan continuamente acciones naturales y variadas para apartarse, manteniendo una separación espacial clara respecto a los combatientes principales. No se fusionan con ellos ni aparecen de repente en la trayectoria de puños o patadas. La columna dañada, las baldosas caídas y la barrera rota deben conservar su estado de destrucción en los planos posteriores. Sin armas adicionales, extremidades extra, sangre ni desmembramientos. PROHIBIDO ESTRICTAMENTE EL USO DE MÚSICA DE FONDO: no debe generarse música de fondo, banda sonora cinematográfica, pista musical, melodía, percusión rítmica, coros, canciones, sonidos sostenidos de carácter musical ni ambientación tonal musical en ningún momento de la película. Solo se permite audio diegético sincronizado con la imagen y físicamente perteneciente a la escena: ventilación y reverberación espacial de la estación subterránea, pisadas y roces de las suelas, movimiento de la ropa y del cinturón rojo ocre, silbidos de puños y patadas, impactos sordos de contactos reales, respiración no verbal y breves gemidos de dolor, grava rodando, hormigón agrietándose, vidrio rompiéndose, marcos metálicos doblándose, pasos de pasajeros que retroceden, un breve chasquido eléctrico no melódico del contacto de la luz violeta y, al final, el roce de las plantas contra la pared y la caída del polvo. Sin diálogos, narración, gritos comprensibles, canciones ni subtítulos. No uses sonidos pulsantes, golpes orquestales, diseño sonoro melodizado ni efectos rítmicos para rellenar la ausencia de música. No conviertas los golpes encadenados, las pisadas ni el vidrio roto en un ritmo de batería, ni prolongues el sonido de la ventilación hasta convertirlo en una textura musical sostenida. La aparición de cualquier música de fondo o banda sonora implica que el resultado no es válido. music=0; no_music=1; strict_no_music=1; audio=diegetic_only; sin título, nombre de estación legible, logo, interfaz, controles del reproductor ni watermark.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100233407108137349) · [Publicación original](https://x.com/MadMax_Series/status/2100233407108137349) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2100519026720231698"></a>
+
+### Añadir una cadena de mantenimiento a la barandilla
+
+[きのした](https://x.com/ujiden_type0) · 2026-09-17
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100519026720231698"><img src="../assets/previews/000aacea97c0955d46b761f1a1e1e46f9d755a6347c0b4214dfb9ea67515b9f9.jpg" width="840" loading="lazy" alt="Añadir una cadena de mantenimiento a la barandilla"></a>
+
+Instrucciones para editar un modelo CAD y añadir una cadena de mantenimiento a la barandilla.
+
+**Prompt**
+
+```text
+¡Añade una cadena de mantenimiento a la barandilla!
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100519026720231698) · [Publicación original](https://x.com/ujiden_type0/status/2100519026720231698) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2100526922770026874"></a>
+
+### Crear un juego de carreras en 3D
+
+[たい焼き｜Claude Codeの人](https://x.com/taiyaki_ai3) · 2026-09-17
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100526922770026874"><img src="../assets/previews/291f4f1d8508153f9f0473b53e7a16dd4405894ddf89a942955e4bbecc0c95d4.jpg" width="840" loading="lazy" alt="Crear un juego de carreras en 3D"></a>
+
+Solicitud para crear un juego de carreras en 3D que se pueda controlar y jugar, según explica el autor de la publicación, quien la introdujo en una sola frase en GPT-6 Astra. La publicación lo presenta como una forma de generar un juego jugable sin usar Blender ni código.
+
+**Prompt**
+
+```text
+Crea un juego de carreras
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100526922770026874) · [Publicación original](https://x.com/taiyaki_ai3/status/2100526934082105683) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2100595652703199281"></a>
+
+### Juego 3D de escape de un centro de investigación cerrado
+
+[forest.watch.impress.co.jp](https://forest.watch.impress.co.jp/) · 2026-09-17
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100595652703199281"><img src="../assets/previews/70f25d79c1b29caca651c53634c0f7632ee038c2a69ee4826e7f6a11e4d4f1a9.jpg" width="840" loading="lazy" alt="Juego 3D de escape de un centro de investigación cerrado"></a>
+
+Prompt para crear un juego 3D de escape para navegador ambientado en un centro de investigación cerrado, que indica que el autor del artículo enlazado, Tomonobu Yanagiya, se lo encargó a GPT-6 Astra. Especifica una experiencia de 5 a 10 minutos, con mecanismos como llaves e interruptores, instrucciones claras, un estado que permita completar el juego hasta el final y distribución en un único archivo HTML.
+
+**Prompt**
+
+```text
+Crea un juego 3D de escape que se pueda jugar en el navegador. El objetivo debe ser escapar de un centro de investigación cerrado y la experiencia debe durar aproximadamente entre 5 y 10 minutos. Incluye mecanismos como llaves e interruptores, asegúrate de que las instrucciones sean claras y de que el juego se pueda completar hasta el final. Reúne todo en un único archivo HTML para que se pueda jugar simplemente abriéndolo en el navegador.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100595652703199281) · [Publicación original](https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2141084.html) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2100614534423540102"></a>
+
+### Diseñar un cuerpo propio en CAD
+
+[vitalduval](https://x.com/vitalduval) · 2026-09-17
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100614534423540102"><img src="../assets/previews/0648785872e0e8f57ee31197f913e72bd72dad694354eb842c3bd65d309a4683.jpg" width="840" loading="lazy" alt="Diseñar un cuerpo propio en CAD"></a>
+
+Un tuit enlazado de vitalduval recoge esta petición a Astra para diseñar un cuerpo en CAD. AI Highlight vuelve a publicar la demostración resultante y se la atribuye a GPT-6 Astra.
+
+**Prompt**
+
+```text
+Le pedí a Astra que se diseñara un cuerpo en CAD.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100614534423540102) · [Publicación original](https://x.com/vitalduval/status/2100343136077877251) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="akari-nagoya-rooftop-flame-relay"></a>
+
+### AKARI: Relevo de la llama en las azoteas de Nagoya
+
+[Jared](https://growthengineer.space/) · 2026-09-16
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/akari-nagoya-rooftop-flame-relay"><img src="../assets/previews/a4e87498dd6f6dfa75a47afbbb84b6496477ef4145097ceb6735f644d82b52ca.webp" width="840" loading="lazy" alt="AKARI: Relevo de la llama en las azoteas de Nagoya"></a>
+
+Crea un juego completo de Three.js, pensado primero para japonés: salta entre azoteas, ilumina Nagoya y guarda un póster festivo. Empieza con recursos procedurales y mejóralos después con Tripo Studio sin una clave de API.
+
+**Prompt**
+
+```text
+# AKARI — Atlas de luces de Nagoya
+
+## 1. Objetivo
+Crear un juego de navegador japonés desde el inicio y completo, en el que una llama abstracta realice siete saltos cronometrados e ilumine una Nagoya en miniatura antes de los Juegos Asiáticos Aichi-Nagoya, del 19 de septiembre al 4 de octubre de 2026. Reproduce la edición inicial actual de dos mapas en https://akari-nagoya-rooftop-relay.tripo.page/ y las referencias visuales proporcionadas. La escena genérica de azoteas anterior no es el objetivo.
+
+## 2. Dirección visual
+Usa una vista elevada de atlas en tres cuartos, un fondo azul marino de medianoche, titulares en serif japonesa color marfil cálido, líneas doradas finas y grano sutil. En escritorio, reserva el tercio izquierdo para la invitación inicial y coloca dos teselas de mapa elevadas a la derecha; en teléfonos, reencuadra el mapa por encima de los controles. Empieza con edificios apagados y desaturados, y vías de agua en tonos teal. Al completar cada zona, recupera los verdes, los tejados de cobre turquesa, las ventanas cálidas y las luces doradas de las rutas. Mantén la llama y el siguiente objetivo legibles. Usa sombras suaves, profundidad atmosférica y bloom controlado; evita los brillos blancos. Reproduce el titular japonés inicial, las etiquetas de los lugares emblemáticos y el encabezado/pie editorial estrecho visibles en la referencia.
+
+## 3. Mundo
+La tesela noroeste, de mayor tamaño, cubre el parque Meijo, el castillo de Nagoya, el Aichi International Arena, el parque Hisaya-odori, MIRAI TOWER y Oasis 21. La tesela sureste cubre el Museo de la Ciudad, Mizuho-dori, el parque Mizuho y su estadio deportivo, con el río Yamazaki al este del estadio. Añade barrios modernos de poca altura, árboles de parque, marcas viales, riberas y luminarias cálidas; reserva la arquitectura de castillo para el castillo.
+
+Capítulo 1: parque Meijo → Sotobori/Hisaya-odori → parque Hisaya-odori → Oasis 21, tres saltos. Crea una transición de capítulo claramente señalizada y no jugable hacia el Museo de la Ciudad. Capítulo 2: Museo de la Ciudad → Mizuho-dori → Mizuho Undojo Nishi → hacia el parque Mizuho → plaza sur, cuatro saltos. No representes nunca la transición como una calle continua ni la cuentes como un salto. Guarda el progreso al llegar al segundo capítulo. Los mapas usan escalas distintas, con las distancias comprimidas para facilitar el juego. Explícalo brevemente en «About», junto con las fechas históricas del relevo, el 22 de agosto y el 16 de septiembre de 2026; no son invitaciones a eventos próximos. Cita https://www.aichi-nagoya2026.org/ja/torch-relay/ y https://www.nagoyajo.city.nagoya.jp/guide/kinshachi/. Usa adornos originales y una llama abstracta en lugar de una mascota o emblema oficiales.
+
+## 4. Inventario de recursos
+Usa estas ranuras de reemplazo estables en orden de prioridad; conserva la misma composición y los mismos proxies de colisión en ambos modos visuales:
+- `shachi`: adorno de tejado de oro pulido y aspecto antiguo, con cabeza similar a la de un tigre, cuerpo de carpa escamado y curvado, y cola enroscada hacia arriba; repítelo en el castillo.
+- `castle`: torre marfil inspirada en Nagoya, con estructura de madera oscura, tejados escalonados turquesa a cuatro aguas y a dos aguas, y cimentación de piedra.
+- `mizuho`: estadio deportivo ovalado y ancho, con cubierta clara abierta en el centro y soportes rítmicos; mantén visibles la pista de atletismo y el campo verde a través del centro.
+- `arena`: arena contemporánea de poca altura, con cubierta ancha y aletas verticales cálidas en la fachada, al norte del eje del parque.
+- `tower`: torre de observación esbelta, de celosía plateada, con plataforma de aspecto cúbico y antena.
+- `oasis`: cubierta alargada, ovalada, de vidrio o agua turquesa, sobre soportes delgados y claros.
+- `midrise`: edificio de barrio japonés moderno y sobrio; reutilízalo con distintas alturas y orientaciones, incluida una volumetría sencilla de museo.
+- `tree`: árbol compacto y maduro de parque, con tronco marrón y copa verde estratificada; instáncialo por ambas teselas.
+Mantén procedurales el terreno, las carreteras, el agua, las marcas de la pista, los marcadores de salto, la llama abstracta, las estelas de luz, los fuegos artificiales y la interfaz. Cada modelo debe ser un objeto completo y aislado; conserva los pasajes abiertos y el centro del estadio. Registra todas las ranuras enumeradas, incluidos los recursos de fondo repetidos.
+
+## 5. Jugabilidad y recompensas
+Mantén pulsado el puntero, el contacto táctil o la tecla Space para cargar; suelta para saltar automáticamente hacia el siguiente marcador. Usa física determinista basada en delta-time: distancia = 1.8 + 7 × carga, la carga oscila entre 0 y 1, y el arco añade 4 × t × (1 − t) × 3.6 a la altura interpolada. El ciclo de carga se acelera de aproximadamente 1.42 a 0.92 segundos por dirección. Deriva la trayectoria, la zona segura verde y la zona perfecta dorada del mismo cálculo: un error ≤0.36 es perfecto; ≤1.15 es seguro, con 0.28 de tolerancia adicional para los dos primeros saltos.
+
+Un aterrizaje seguro otorga 100 puntos; uno perfecto otorga 200 × multiplicador consecutivo, con un máximo de ×4. Un seguimiento rápido dentro de 2.35 segundos añade 50 puntos; reinicia el combo tras un aterrizaje seguro, una transición de capítulo o 3.4 segundos de espera. Cada éxito envía una onda de luz por el distrito, ilumina las ventanas y añade faroles. Muestra el progreso de siete pasos, la puntuación, el combo y el récord. Los fallos deben reiniciar rápidamente; después de la transición, recupera el punto de control del capítulo. Incluye pausa, reinicio, recuperación tras ocultar la pestaña y sonido opcional después de la interacción.
+
+Después del salto final, revela ambos mapas iluminados mediante un retroceso de cámara de 4.6 segundos y fuegos artificiales acotados. Muestra el rango S tras siete aterrizajes perfectos, A tras cuatro o más y B en cualquier otro caso. Incluye repetición, vistas de la ciudad antes y después desde la misma cámara, y un póster PNG real de 1800×1200 con título, fechas, puntuación y crédito del proyecto independiente.
+
+## 6. Implementación
+Usa Vite, TypeScript y Three.js; separa la geografía, la física y la puntuación puras, la escena, los efectos, el registro de modelos, la localización en japonés/inglés y la interfaz. El japonés debe seguir siendo el idioma predeterminado, independientemente del idioma del prompt; guarda la preferencia del cambio de idioma. Incluye las fuentes y los recursos localmente. Usa GLTFLoader y normalización por ranura; conserva el último modelo funcional tras una importación no válida. Conserva la puntuación, el punto de control, la cámara y la iluminación al comparar los modos visuales simple e importado. Instancia árboles y edificios, combina la geometría estática compatible, limita el DPR y acota las partículas. Evalúa el tiempo real de fotograma y la complejidad del modelo en lugar de rechazarlo solo por superar un objetivo de triángulos. Usa Blender únicamente si un recurso devuelto necesita limpieza de malla, reparación del pivote o apertura del centro del estadio; conserva su archivo original.
+
+## 7. Criterios de aceptación
+Entrega el código fuente ejecutable, el archivo de bloqueo, los comandos de desarrollo/compilación y una compilación estática. Verifica los siete saltos de ambos capítulos, la recuperación de la transición y del punto de control, los fallos y reintentos, la puntuación, la entrada táctil, la pausa, la persistencia del japonés/inglés, todas las alternativas de las ranuras y la exportación real del póster. Compara capturas de pantalla asentadas de la apertura y el final con la referencia actual de dos mapas. Informa del rendimiento medido y de las pruebas realizadas. El siguiente flujo de trabajo compartido rige la generación y la devolución de modelos.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/akari-nagoya-rooftop-flame-relay) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="cyclops-island-threejs-game"></a>
+
+### La isla del cíclope
+
+[Jared](https://x.com/jaredliu_bravo) · 2026-09-16
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/cyclops-island-threejs-game"><img src="../assets/previews/2a209be513b7970f566af81131521dc31c84ef7d86eb8868facd389d23b3624d.png" width="840" loading="lazy" alt="La isla del cíclope"></a>
+
+Crea primero un juego completo de escape en una isla con Three.js y modelos animados sencillos. Después, mejora el héroe, el cíclope, el barco, los árboles y la cueva, uno por uno, desde Tripo Studio mediante imágenes de referencia o prompts de texto del agente anfitrión. No necesitas acceso a la API de Tripo.
+
+**Prompt**
+
+```text
+# ODISEA — La isla de los cíclopes
+
+## 1. Objetivo
+Crea un juego de escape isométrico completo inspirado en el Libro IX de la Odisea. Como Odiseo, guía a tres tripulantes para robar provisiones de la cueva, sobrevivir a la persecución y los ataques de Polifemo, y escapar a bordo de un barco griego. Toda la interfaz del juego debe estar en inglés. Usa https://cyclops-island.tripo.page/ y las referencias proporcionadas; conserva la atribución a Jared y la inspiración del concepto de la isla de la Odisea de Jason Chew.
+
+## 2. Dirección visual
+Compón una isla mediterránea de estilo maqueta de mesa, con texturas ricas, de unos 25 unidades de mundo de ancho, sobre un mar Egeo de color turquesa oscuro. Usa una cámara ortográfica en vista de tres cuartos cerca de (19,31,34), piedra caliza cálida, olivos verde salvia, telas de terracota, armaduras de bronce y pergamino crema. Aplica mapeado de tonos ACES, sombras direccionales cálidas, profundidad atmosférica, bloom sutil, viñeta y grano. Mantén los marcadores de peligro legibles bajo estos efectos.
+
+Usa títulos serif locales de estilo Cormorant Garamond y una interfaz de estilo DM Sans. Arriba a la izquierda: un sello Ω, ODYSSEY / AN INTERACTIVE MYTH, BOOK IX y The Cyclops’ Island. Una tarjeta de comparación crema destacada en la parte superior derecha muestra “One island. Two worlds.” con controles Tripo World y Original. Abajo a la izquierda: fase de la misión, tres corazones, resistencia y cantidad de tripulantes. Muestra el estado del jefe arriba, una brújula/minimapa pequeño debajo, controles de cámara visibles e indicaciones de entrada concisas. En teléfonos, usa textos decorativos compactos y controles independientes para la misión, el jefe, la comparación y Dodge.
+
+## 3. Mundo
+Un sendero sinuoso de arena pálida parte de una playa de desembarco al sur y avanza hacia el norte entre olivares hasta una cueva de piedra caliza. El gigante duerme cerca de la cueva; Odiseo y la tripulación comienzan en el sendero meridional. Coloca un barco de madera con velas rojas al suroeste, junto al embarcadero. Rodea la costa con rocas irregulares, hierba, cipreses y aguas someras de color turquesa. Anima las ondulaciones del mar, la espuma de la orilla, los árboles, la luz del fuego, los pájaros y el balanceo del barco. El movimiento del océano debe seguir siendo correcto cuando la cámara gire.
+
+## 4. Inventario de recursos
+Prepara ranuras de reemplazo en este orden:
+- `odysseus`: aventurero griego barbudo, casco corintio de bronce con penacho carmesí, armadura de torso desgastada, túnica de marfil, capa de terracota, sandalias, escudo pequeño y espada envainada. Reutilízalo para los tres tripulantes, con esqueletos y fases de animación independientes.
+- `polyphemus`: gigante corpulento con exactamente un ojo central, piel aceitunada bronceada, cabello y barba oscuros y rizados, taparrabos de piel o cuero, pies grandes descalzos y un garrote de madera; cuerpo completo en una pose neutra apta para rigging.
+- `ship`: casco estrecho de madera de nogal oscuro, proa elevada, espolón de bronce, mástil, vela de color rojo terracota, jarcia de cuerda y remos laterales; sin agua ni base de exhibición.
+- `olive`: tronco nudoso gris parduzco, raíces extendidas y copa irregular verde salvia; reutilízalo unas 25 veces.
+- `cave`: arco ancho y exento de piedra caliza desgastada, con un pasadizo realmente abierto, rocas voluminosas y musgo escaso; construye el interior oscuro por separado.
+- `cypress`: árbol mediterráneo esbelto y cónico, con follaje denso de color verde oscuro.
+- `boulder`: roca costera irregular de piedra caliza cálida; reutilízala con variaciones de escala y rotación.
+Mantén el terreno, el sendero, el agua, la hierba, los marcadores de provisiones, los indicadores de combate, las partículas y la interfaz de forma procedural. Registra cada ranura y conserva el mapa de juego mientras reemplazas su apariencia.
+
+## 5. Encuentro de escape
+Usa WASD/flechas relativas a la cámara y movimiento mediante clic o toque, con navegación A* que tenga en cuenta el radio. La tripulación debe seguirte de forma flexible; el jugador y el gigante deben respetar el terreno, los límites y los obstáculos según sus distintos tamaños. Shift activa el sprint, Space o el botón táctil grande ejecuta una esquiva, E recoge las provisiones cercanas, P pausa, Q/R rota la cámara y F sigue al héroe. Admite arrastrar/desplazar, arrastrar con el botón derecho/rotar, desplazamiento/zoom y pellizco táctil. Durante la persecución, el movimiento mediante clic activa el sprint mientras haya resistencia disponible.
+
+Fase 1: acércate a la cueva; la proximidad y correr haciendo ruido aumentan la sospecha y pueden despertar al gigante. Fase 2: recoge las provisiones solo a corta distancia; esto siempre lo despertará. Fase 3: sobrevive dentro del radio marcado del embarcadero, de unos 2,7 unidades, cerca de (-0.8,8.7), durante 11 segundos acumulados mientras la tripulación embarca; salir pausa el progreso.
+
+Concede tres puntos de salud y 100 de resistencia. Velocidades iniciales: caminar a 2.35, correr a 4.15 y correr el gigante a 3.4 unidades por segundo. El gigante debe perseguir al jugador hasta situarse a 3.6 unidades antes de atacar. Usa estados de dormir, despertar, perseguir, preparación, impacto, recuperación y terminales. Ground Breaker bloquea la posición del jugador al inicio de una preparación de 1.12 segundos, muestra un círculo de radio 2.45 y golpea una vez; el objetivo no debe seguir al jugador. Cada tercer golpe libera una onda expansiva cargada y claramente marcada; el daño se aplica siguiendo el borde móvil del anillo.
+
+La esquiva dura unos 0.34 segundos, cuesta 24 de resistencia y tiene un tiempo de reutilización de 1.25 segundos, invulnerabilidad breve y ajuste a terreno válido. El sprint agota la resistencia; descansar la recupera. Los golpes causan retroceso, respuesta visual de daño e inmunidad temporal. Derrotar al gigante reinicia todos los actores, temporizadores, efectos y el estado de la misión. Escapar detiene el daño y abre un resumen de repetición. Pausar congela la simulación, la animación y los efectos. Ajusta el embarque para que requiera varias esquivas, incluido un ataque cargado.
+
+## 6. Implementación y animación
+Usa Vite, Three.js y módulos JavaScript ES para el mundo, la navegación, el encuentro, los actores, los efectos, el audio y la interfaz. Incluye todos los recursos de ejecución localmente en una compilación estática. Los modelos articulados iniciales deben caminar/correr, dormir/despertar, esquivar y mostrar claramente la preparación y el golpe. Para los reemplazos con skin, usa AnimationMixer, los nombres reales de los clips, transiciones cruzadas breves y SkeletonUtils.clone para crear esqueletos independientes de la tripulación. Evita el movimiento raíz duplicado y el deslizamiento de los pies. Sincroniza el golpe descendente del gigante con el impacto del juego; las importaciones estáticas no deben notificarse como animadas. Mantén un recurso articulado alternativo funcional cuando sea necesario. Usa Blender únicamente para las reparaciones necesarias de rig, pivote, clip o malla.
+
+Sincroniza los indicadores visuales naranjas y dorados, el destello del impacto, las grietas del suelo, el polvo, las chispas, los fragmentos de roca que caen, los anillos expansivos, la luz breve y el movimiento de cámara. Añade estelas de esquiva y audio sintetizado opcional activado mediante gestos. Reutiliza los efectos mediante pools, crea instancias del decorado y mide el tiempo de fotograma. Normaliza las importaciones con pies/raíces apoyados y proxies de colisión sin modificar. La comparación debe conservar las posiciones, la misión, la salud, la resistencia, la cámara y el estado de animación; las importaciones fallidas deben conservar los modelos funcionales. Incluye un control discreto Change hero y la importación local de modelos con el estado de cada ranura.
+
+## 7. Criterios de aceptación
+Entrega el código fuente, el archivo de bloqueo, los comandos npm de desarrollo/compilación y la salida estática. Verifica la navegación entre obstáculos, el despertar prematuro, la recogida a corta distancia, la persecución antes del ataque, los objetivos bloqueados, los golpes temporizados, la inmunidad durante la esquiva, el daño del borde de la onda expansiva, la derrota/reinicio y un escape satisfactorio. Comprueba la animación independiente de la tripulación, todos los recursos alternativos de las ranuras, la comparación con conservación del estado, la distribución para escritorio/móvil y los errores de carga. Compara las capturas de pantalla estabilizadas con la referencia e informa del rendimiento real. Usa el flujo de trabajo compartido a continuación para generar modelos y devuelve.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/cyclops-island-threejs-game) · [Publicación original](https://x.com/jaredliu_bravo) · [Demo en línea](https://cyclops-island.tripo.page/) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -3566,24 +3803,6 @@ Reconstruye una habitación infantil que también sirva como zona de trabajo a p
 
 ---
 
-<a id="2096557555086725159"></a>
-
-### Miniatura interactiva de Seúl
-
-[synabreu](https://x.com/synabreu) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/interactive-miniature-of-seoul-2096557555086725159"><img src="../assets/previews/495c8dd1868b4e0c9fbeef9d970d26b2f334db89db4edcd802e510cc0f8cb85a.webp" width="840" loading="lazy" alt="Miniatura interactiva de Seúl"></a>
-
-**Prompt**
-
-```text
-Crea una miniatura de Seúl en Three.js con datos cartográficos abiertos. Añade navegación por distritos, vuelos entre lugares emblemáticos, modos diurno y nocturno y controles táctiles. Indica qué edificios se han simplificado, qué alturas se han estimado y las licencias de los datos.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-miniature-of-seoul-2096557555086725159) · [Publicación original](https://x.com/synabreu/status/2096557555086725159) · [Demo en línea](https://seoul-3d-atlas.synabreu.chatgpt.site/) · [Volver a los ejemplos](#all-prompts)
-
----
-
 <a id="2096576154337734865"></a>
 
 ### Una casa modelada desde cero en Blender
@@ -3599,24 +3818,6 @@ Modela una casa desde cero en Blender. Mantén la escena editable para poder ins
 ```
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865) · [Publicación original](https://x.com/mizkun/status/2096576154337734865) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2096501340889374883"></a>
-
-### Del plano de la última planta a una vista previa en Blender
-
-[indigo](https://x.com/indigox) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883"><img src="../assets/previews/43b5fb834bebe6a4e4348b43a9b12c363d09ce37ce76f35026436aab1c2260cb.webp" width="840" loading="lazy" alt="Del plano de la última planta a una vista previa en Blender"></a>
-
-**Prompt**
-
-```text
-Usa el plano de la última planta de una vivienda para crear una escena en Blender y renderiza una vista previa de 10 segundos con pocas muestras. Prioriza una distribución espacial clara antes de perfeccionar los materiales.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883) · [Publicación original](https://x.com/indigox/status/2096501340889374883) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -3674,42 +3875,6 @@ Crea una escena en Three.js con un tocadiscos sobre una mesa. Prepara una presen
 
 ---
 
-<a id="2096555856204644550"></a>
-
-### Ciclo de juego de batallas con cartas coleccionables
-
-[FaryaBlender3D](https://x.com/FaryaBlender3D) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/trading-card-battle-game-loop-2096555856204644550"><img src="../assets/previews/9467608cd8acae08c8272517d7c6605284f8073c38eefd78221597d07dfe93db.webp" width="840" loading="lazy" alt="Ciclo de juego de batallas con cartas coleccionables"></a>
-
-**Prompt**
-
-```text
-Crea un prototipo de cartas coleccionables en Three.js: comprar mazos y sobres, construir un mazo, entrar en una arena de combate y conseguir recompensas. Deja las mallas provisionales listas para sustituirlas por recursos terminados.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [Publicación original](https://x.com/FaryaBlender3D/status/2096555856204644550) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2096505740643246231"></a>
-
-### Nivel completo de puzles en Three.js
-
-[Steve的花园儿](https://x.com/TvWoo) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/complete-three-js-puzzle-level-2096505740643246231"><img src="../assets/previews/b00b0f3011c9f77412b6212bff0efb0fc453cefca3af7186267fabb90c0536f0.webp" width="840" loading="lazy" alt="Nivel completo de puzles en Three.js"></a>
-
-**Prompt**
-
-```text
-Crea un nivel completo de un juego de puzles 3D en Three.js, incluidas sus mecánicas jugables. Integra el audio proporcionado cuando el nivel y las interacciones ya funcionen.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/complete-three-js-puzzle-level-2096505740643246231) · [Publicación original](https://x.com/TvWoo/status/2096505740643246231) · [Volver a los ejemplos](#all-prompts)
-
----
-
 <a id="2096570815714414844"></a>
 
 ### Búsqueda del tesoro en una playa low poly
@@ -3743,24 +3908,6 @@ Crea los modelos de la escena en Blender e impórtalos en Unity. Añade efectos 
 ```
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/blender-models-with-unity-vfx-2096560142871658589) · [Publicación original](https://x.com/CST_negi/status/2096560142871658589) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2096556692842348826"></a>
-
-### Juego de rally en Unity para móviles
-
-[Kevin Kern](https://x.com/kevinkern) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826"><img src="../assets/previews/eceebf1bdd5561e25fada5daec055473bd5506cf272760a5a08a8b4ad111988c.webp" width="840" loading="lazy" alt="Juego de rally en Unity para móviles"></a>
-
-**Prompt**
-
-```text
-Crea un prototipo de conducción de rally con Codex, Blender y Unity. Prepara sus recursos 3D y sus controles para probarlo en un teléfono.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826) · [Publicación original](https://x.com/kevinkern/status/2096556692842348826) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -3818,42 +3965,6 @@ Combina imágenes de referencia de un apartamento con un plano sencillo dibujado
 
 ---
 
-<a id="2096521798150242631"></a>
-
-### Agua en bucle con Geometry Nodes
-
-[黒曜陣](https://x.com/uB95A7tobA17057) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631"><img src="../assets/previews/c1f28f7d54e74bcfdc5a9af0c8802782ae717109591d19c56aff83e056a3d5ff.webp" width="840" loading="lazy" alt="Agua en bucle con Geometry Nodes"></a>
-
-**Prompt**
-
-```text
-Crea un efecto periódico de superficie de agua con Geometry Nodes de Blender, sin horneado. Mantén editable la configuración de nodos y descríbela como un modelo de superficie, no como una simulación completa de fluidos.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631) · [Publicación original](https://x.com/uB95A7tobA17057/status/2096521798150242631) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2096518775042707700"></a>
-
-### Mundo de navegación inspirado en One Piece
-
-[Yash](https://x.com/yash_yk45) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700"><img src="../assets/previews/43d06f647b736fefd9e35f14f5a547a9e58943fefc224182925a32bdc0c814ae.webp" width="840" loading="lazy" alt="Mundo de navegación inspirado en One Piece"></a>
-
-**Prompt**
-
-```text
-Crea un mundo de navegación jugable con un barco de Blender y un océano de Three.js. Añade tiempo cambiante, exploración submarina, estela, espuma, salpicaduras y velas en movimiento.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700) · [Publicación original](https://x.com/yash_yk45/status/2096518775042707700) · [Demo en línea](https://one-piece-sea-world.vercel.app/) · [Volver a los ejemplos](#all-prompts)
-
----
-
 <a id="2096572156453028193"></a>
 
 ### Atractor de Lorenz interactivo
@@ -3869,42 +3980,6 @@ Visualiza dos trayectorias del sistema de Lorenz con una diferencia mínima en l
 ```
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-lorenz-attractor-2096572156453028193) · [Publicación original](https://x.com/juyeam/status/2096572156453028193) · [Demo en línea](https://tiny-worlds-juyeam.juyeam.chatgpt.site/chaos) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2096506357868642342"></a>
-
-### Una habitación personal como portfolio interactivo
-
-[Kalan ◂Ⓘ▸](https://x.com/kalanyei) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342"><img src="../assets/previews/866c74c1a0c5aa28562647e34518578bfa25e58a2afed0279ba6142eb9d64f44.webp" width="840" loading="lazy" alt="Una habitación personal como portfolio interactivo"></a>
-
-**Prompt**
-
-```text
-Convierte una habitación personal en una web interactiva de presentación. Construye y hornea la escena en Blender; después añade vapor de café, animación al estilo de Matrix y efectos sutiles de shaders.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342) · [Publicación original](https://x.com/kalanyei/status/2096506357868642342) · [Demo en línea](https://room.kalan.dev/) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2096503275910832461"></a>
-
-### Barco YF-24 en un mar 3D tranquilo
-
-[Yohei Matsumoto](https://x.com/yhmtmt1) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"><img src="../assets/previews/8369341108c9ee030167ffe4e426974a0417136cb0c8a95b91084dcbccc26480.webp" width="840" loading="lazy" alt="Barco YF-24 en un mar 3D tranquilo"></a>
-
-**Prompt**
-
-```text
-Modela un barco YF-24 en Blender y anímalo navegando por un mar tridimensional con fuerza 2 en la escala de Beaufort. Usa referencias del barco para mejorar su forma.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461) · [Publicación original](https://x.com/yhmtmt1/status/2096503275910832461) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -3929,7 +4004,7 @@ Convierte el logotipo 2D de un personaje proporcionado en una versión 3D animad
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 235 ejemplos en el sitio oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 248 ejemplos en el sitio oficial →</a></strong></p>
 <p><sub>Para que el README de GitHub se renderice con fluidez, aquí solo se muestran los 100 ejemplos más recientes.</sub></p>
 <br>
 </td></tr>

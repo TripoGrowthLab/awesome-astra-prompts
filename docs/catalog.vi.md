@@ -26,13 +26,18 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**235 · Prompt Astra mới nhất**
+**248 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/featured/2096525100518453342.webp" width="420" loading="lazy" alt="Chuyển đổi biểu cảm nhân vật trong Blender"></a><br><strong><a href="#2096525100518453342">Chuyển đổi biểu cảm nhân vật trong Blender</a></strong><br><sub><a href="https://x.com/Dstudio_ai/status/2096525100518453342">Nano(ナノ)</a></sub><br><a href="#2096525100518453342">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="../assets/featured/2096467585785286808.webp" width="420" loading="lazy" alt="Wright Flyer Xuyên Qua Rừng Nhật Bản"></a><br><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808">Wright Flyer Xuyên Qua Rừng Nhật Bản</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="https://www.tripo3d.ai/vi/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188"><img src="../assets/featured/2081024333120733188.webp" width="420" loading="lazy" alt="Rừng Kẹo Dẻo: Game đi cảnh 3D"></a><br><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188">Rừng Kẹo Dẻo: Game đi cảnh 3D</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="https://www.tripo3d.ai/vi/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188">Prompt →</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/akari-nagoya-rooftop-flame-relay"><img src="../assets/featured/akari-nagoya-rooftop-flame-relay.webp" width="420" loading="lazy" alt="AKARI: Tiếp lửa trên những sân thượng Nagoya"></a><br><strong><a href="#akari-nagoya-rooftop-flame-relay">AKARI: Tiếp lửa trên những sân thượng Nagoya</a></strong><br><sub><a href="https://growthengineer.space/">Jared</a></sub><br><a href="#akari-nagoya-rooftop-flame-relay">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/cyclops-island-threejs-game"><img src="../assets/featured/cyclops-island-threejs-game.webp" width="420" loading="lazy" alt="Hòn đảo của Cyclops"></a><br><strong><a href="#cyclops-island-threejs-game">Hòn đảo của Cyclops</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="#cyclops-island-threejs-game">Prompt →</a></td>
 </tr>
 </table>
 
@@ -47,9 +52,8 @@
 - [Atlas 3D tương tác về đầu và não người](#2098105648106078541) · GitHub
 - [Atlas Chernobyl](#2098841316591346006) · GitHub
 - [Trình khám phá giải phẫu 3D tương tác](#2099206962344800541) · GitHub
+- [Demo đồ họa fantasy isometric](#2100271998618177864) · GitHub
 - [Mosswing: Game 3D mobile chạm để vỗ cánh](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Lõi năng lượng hai vòng tương tác](#2096551010089263181) · GitHub
-- [Khải tượng đền thờ của Ê-xê-chi-ên trong không gian 3D](#2096547658164834788)
 - [Mô phỏng vụ nổ hạt nhân trong thành phố 3D](#2096562462674079868)
 - [Totality Engine: Thánh đường Nhật thực Điện ảnh](#2096593372311941143)
 - [Tạo CS2 bằng Three.js](#2096596888799895855)
@@ -109,39 +113,40 @@
 - [Phân cảnh 3D khu ven biển có thể chơi trên trình duyệt](#2099172061092381027)
 - [Tái hiện Lâu đài Peach trong 3D](#2099359786865402019)
 - [Đường sắt mô hình tự động tránh va chạm](#2099362575339372780)
-- [Trò chơi 3D trên trình duyệt với góc nhìn đẳng phối cảnh: Đảo Cyclops](#2099414001851449430)
 - [Màn vượt chướng ngại vật 3D có thể chơi](#2099419671481249851)
 - [Cảnh rừng Samurai 3D tương tác](#2099450933067612421)
 - [Mô hình cây lá kim dưới 200 polygon](#2099472264270102705)
 - [Thế giới 3D với những tòa nhà chọc trời cao vút](#2099487024256589970)
 - [Chiến binh trèo lên người khổng lồ và giáng búa vào hàm](#2099519801139908951)
+- [Tạo cảnh hành lang khách sạn](#2099588840419651890)
 - [Đảo núi lửa tương tác với những chiếc thuyền tháo chạy](#2099643231659012553)
 - [Bảng điều khiển hệ thần kinh tương tác của sinh vật 3D](#2099719427990134984)
 - [Trái tim và emoji mặt cười phong cách Apple 3D](#2099750376530657300)
+- [Game khám phá không gian tạo sinh với mọi điểm đến đều có thể tiếp cận](#2099785223827259515)
 - [Tạo không gian 3D có thể điều khiển và nhân vật game từ ảnh tham khảo](#2099850719839109597)
-- [Chuyển đổi biểu cảm nhân vật trong Blender](#2096525100518453342)
+- [Cảnh phòng 3D tương tác với nội thất có cơ cấu chuyển động](#2100139076816916977)
+- [Phát triển Splatoon bản PC và tái hiện đồ họa](#2100193512373592313)
+- [Tham quan căn hộ tương tác với các tùy chọn gạch lát](#2100222426705453318)
+- [Phim ngắn CGI AAA: Đấu võ siêu nhiên trong ga tàu điện ngầm](#2100233407108137349)
+- [Thêm xích bảo trì vào lan can](#2100519026720231698)
+- [Tạo game đua xe 3D](#2100526922770026874)
+- [Game 3D trên trình duyệt: Thoát khỏi cơ sở nghiên cứu bị phong tỏa](#2100595652703199281)
+- [Tự thiết kế một cơ thể bằng CAD](#2100614534423540102)
+- [AKARI: Tiếp lửa trên những sân thượng Nagoya](#akari-nagoya-rooftop-flame-relay)
+- [Hòn đảo của Cyclops](#cyclops-island-threejs-game)
 - [Bàn cờ shogi 3D có thể xoay](#2096579856133947507)
 - [Bản đồ tháo rời linh kiện máy tính để bàn](#2096578761877860502)
 - [Lên phương án bố trí phòng trẻ em kiêm nơi làm việc](#2096578684010508736)
-- [Mô hình Seoul thu nhỏ có thể khám phá](#2096557555086725159)
 - [Dựng một ngôi nhà từ đầu trong Blender](#2096576154337734865)
-- [Từ mặt bằng tầng trên cùng đến bản xem trước Blender](#2096501340889374883)
 - [Nhiệm vụ khám phá The Quiet Crossing](#2096574297703637111)
 - [Đầu máy hơi nước chạy qua miền quê](#2096577430274429157)
 - [Cảnh máy hát đĩa than trên bàn](#2096561346766877106)
-- [Vòng lặp đối chiến của trò chơi thẻ bài sưu tầm](#2096555856204644550)
-- [Màn chơi giải đố Three.js hoàn chỉnh](#2096505740643246231)
 - [Săn kho báu trên bãi biển low-poly](#2096570815714414844)
 - [Mô hình Blender kết hợp hiệu ứng Unity VFX](#2096560142871658589)
-- [Trò chơi đua rally Unity chơi được trên điện thoại](#2096556692842348826)
 - [Cây xoài Ấn Độ trong SpeedTree](#2096572429066006845)
 - [Áp dụng texture và gắn xương cho nhân vật Tripo](#2096566598689783878)
 - [Từ phác thảo căn hộ đến ảnh nội thất kết xuất](#2096566686266597754)
-- [Mặt nước lặp tuần hoàn bằng Geometry Nodes](#2096521798150242631)
-- [Thế giới hàng hải lấy cảm hứng từ One Piece](#2096518775042707700)
 - [Tập hút Lorenz tương tác](#2096572156453028193)
-- [Biến căn phòng riêng thành hồ sơ năng lực tương tác](#2096506357868642342)
-- [Thuyền YF-24 trên mặt biển 3D êm dịu](#2096503275910832461)
 - [Từ logo 2D đến nhân vật chuyển động](#2096559197999501724)
 
 </details>
@@ -282,6 +287,26 @@ Sử dụng hình học giải phẫu thực tế khi có thể, trích dẫn c�
 
 ---
 
+<a id="2100271998618177864"></a>
+
+### Demo đồ họa fantasy isometric
+
+[github.com](https://github.com/) · 2026-09-16
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100271998618177864"><img src="../assets/previews/851c2340f464e95b33eb0dd10894129a620b694b37838698fe011988fadf0d3e.jpg" width="840" loading="lazy" alt="Demo đồ họa fantasy isometric"></a>
+
+Một cảnh 3D fantasy tương tác chạy trên trình duyệt, sử dụng camera isometric, định hướng nghệ thuật lấy cảm hứng từ voxel, sàn ướt phản chiếu và một nhân vật có thể di chuyển. Kho lưu trữ Dream Loop được liên kết giới thiệu đây là prompt mẫu và cho biết đã được thử nghiệm với GPT-6 Astra trong Codex. Prompt không yêu cầu vòng lặp gameplay.
+
+**Prompt**
+
+```text
+Hãy tạo một demo đồ họa: camera isometric, phong cách nghệ thuật kiểu voxel với đổ bóng chân thực và sàn ướt phản chiếu, cùng một nhân vật trong một khung cảnh thú vị. Bối cảnh fantasy (hãy hình dung Elden Ring, Diablo). Sử dụng Three.js trong trình duyệt, đạt >60fps. Không tải asset xuống. Giới hạn thời gian 1 giờ. Điều khiển: nhấp để di chuyển nhân vật, camera tự động bám theo với độ trễ; kéo để xoay camera; cuộn để phóng to/thu nhỏ. Hiện chưa cần gameplay. Thế giới cần có cảm giác sống động: chuyển động, hoạt ảnh và các hành vi môi trường tinh tế. Khu vực xung quanh người chơi nên trông rộng lớn, nhưng chỉ cho phép di chuyển trong một không gian giới hạn. Không cần xác nhận phần mỹ thuật với tôi hay đặt câu hỏi, cứ bắt tay thực hiện!
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100271998618177864) · [Bài đăng gốc](https://github.com/achimala/dream-loop) · [Mã nguồn](https://github.com/achimala/dream-loop) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="mosswing-mobile-3d-tap-to-flap-game"></a>
 
 ### Mosswing: Game 3D mobile chạm để vỗ cánh
@@ -299,44 +324,6 @@ Làm mới game kinh điển “chạm để vỗ cánh” — game mà bạn ch
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Bài đăng gốc](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Mã nguồn](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Bản demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096551010089263181"></a>
-
-### Lõi năng lượng hai vòng tương tác
-
-[ruofeng](https://x.com/oneruofeng) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181"><img src="../assets/previews/6e5f5eddec63a18ae0d3ecf97b602134366d92611a36c4729098b5c8bb9c4275.webp" width="840" loading="lazy" alt="Lõi năng lượng hai vòng tương tác"></a>
-
-**Prompt**
-
-```text
-Dựng lõi năng lượng, hai vòng và đế kim loại trong Blender. Xuất mô hình kèm vật liệu sang trình xem Three.js có chức năng xoay, thu phóng, tự động bay quanh và điều chỉnh hiệu ứng nhịp xung.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [Bài đăng gốc](https://x.com/oneruofeng/status/2096551010089263181) · [Mã nguồn](https://github.com/wangruofeng/orbital-core-showcase) · [Bản demo](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096547658164834788"></a>
-
-### Khải tượng đền thờ của Ê-xê-chi-ên trong không gian 3D
-
-[KrixAi](https://x.com/KrixOnok) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096547658164834788"><img src="../assets/previews/eadc8f8cca00ee66056e71bf05b1b36329d411767d2d0f7e3d110e8889cdc48e.jpg" width="840" loading="lazy" alt="Khải tượng đền thờ của Ê-xê-chi-ên trong không gian 3D"></a>
-
-Prompt tái tạo khải tượng đền thờ của Ê-xê-chi-ên cùng cảnh quan xung quanh thành một cảnh 3D, bao gồm các sân và dòng sông ban sự sống.
-
-**Prompt**
-
-```text
-Khải tượng đền thờ của Ê-xê-chi-ên sẽ trông như thế nào trong không gian 3D?
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096547658164834788) · [Bài đăng gốc](https://x.com/KrixOnok/status/2096547658164834788) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -367,8 +354,6 @@ Tạo bản demo vụ nổ hạt nhân với thành phố 3D, chớp sáng hạt
 [Chris W](https://x.com/Chris_Wozniczek) · 2026-09-06
 
 <a href="https://www.tripo3d.ai/vi/3d-prompts/totality-engine-cinematic-eclipse-cathedral-2096593372311941143"><img src="../assets/previews/52de12ef7c4dd44ec548962b86297e175683992ebdfdd2665699a18fe86bb9ca.jpg" width="840" loading="lazy" alt="Totality Engine: Thánh đường Nhật thực Điện ảnh"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/totality-engine-cinematic-eclipse-cathedral-2096593372311941143"><img src="../assets/previews/9e97a6d41453e28ab9686e13dcab0dcef1a92a9a19b5c06469dd6d763559548d.jpg" width="840" loading="lazy" alt="Totality Engine: Thánh đường Nhật thực Điện ảnh"></a>
 
 Prompt Three.js/WebGL hoàn chỉnh cho một phim ngắn lặp 32 giây bên trong thánh đường Gothic ngập nước, với đồng hồ thiên văn đồ sộ, các nhịp máy quay được dàn dựng, nước tạo thủ tục, các hành tinh bằng kính và ánh sáng nhật thực. Chris W đã công bố một lượt chạy Astra cùng phần so sánh với các mô hình khác.
 
@@ -469,8 +454,6 @@ Này GPT-6 Astra, hãy tạo cho tôi CS2 bằng Three.js, đừng mắc lỗi n
 ### Hoạt ảnh gấp hộp giấy từ bản vẽ khuôn bế
 
 [Salma](https://x.com/Salmaaboukarr) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096612394281603144"><img src="../assets/previews/aed224d4a25ce9c0d436ebd4d2bfb7fadb211bdf624364e3f7905a0dbec1546f.jpg" width="840" loading="lazy" alt="Hoạt ảnh gấp hộp giấy từ bản vẽ khuôn bế"></a>
 
 <a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096612394281603144"><img src="../assets/previews/8c6f1b8b77c2fbe4db5935da41922377548fb196ff642bf47e5acafa079b526a.png" width="840" loading="lazy" alt="Hoạt ảnh gấp hộp giấy từ bản vẽ khuôn bế"></a>
 
@@ -1283,8 +1266,6 @@ Một hoạt ảnh được kết xuất hoàn chỉnh và một tệp dự án 
 ### Địa hình làng quê lấy cảm hứng từ Skyrim từ ảnh tham chiếu được tạo bằng AI
 
 [Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo) · 2026-09-08
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097167383576383502"><img src="../assets/previews/9c9cbd259a893444392ed43dcb391e62636358a5f2f570cf4232cc13a2128a63.jpg" width="840" loading="lazy" alt="Địa hình làng quê lấy cảm hứng từ Skyrim từ ảnh tham chiếu được tạo bằng AI"></a>
 
 <a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097167383576383502"><img src="../assets/previews/b2cb6b850ef77b3e545565d93a49f22ce192293b50f8ef2ad74f242cfe387ddf.jpg" width="840" loading="lazy" alt="Địa hình làng quê lấy cảm hứng từ Skyrim từ ảnh tham chiếu được tạo bằng AI"></a>
 
@@ -3165,45 +3146,6 @@ Xây dựng một hệ thống đường sắt mô hình với ít nhất ba đo
 
 ---
 
-<a id="2099414001851449430"></a>
-
-### Trò chơi 3D trên trình duyệt với góc nhìn đẳng phối cảnh: Đảo Cyclops
-
-[Jason Chew](https://x.com/jasoncjs_) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099414001851449430"><img src="../assets/previews/09544f1dda48f4288384850cffc3a8d4127273075bba899a6d5691ac2c90d730.jpg" width="840" loading="lazy" alt="Trò chơi 3D trên trình duyệt với góc nhìn đẳng phối cảnh: Đảo Cyclops"></a>
-
-Prompt GPT-6 Astra có thể tái sử dụng do Jason Chew đăng, dùng để tạo một trò chơi trình duyệt tương tác hoàn chỉnh lấy bối cảnh Đảo Cyclops trong sử thi Odyssey của Homer. Prompt yêu cầu một mô hình thu nhỏ 3D nghệ thuật pixel với góc nhìn đẳng phối cảnh, tái hiện hòn đảo Hy Lạp cùng Odysseus, thủy thủ đoàn, Cyclops, con tàu ngoài khơi, cơ chế di chuyển của người chơi, va chạm, điều khiển camera, hoạt ảnh và giao diện mục tiêu mang tính văn học.
-
-**Prompt**
-
-```text
-Xây dựng trải nghiệm tương tác trên trình duyệt dựa trên sử thi Odyssey của Homer – Đảo Cyclops.
-
-Tạo một mô hình thu nhỏ 3D nghệ thuật pixel với góc nhìn đẳng phối cảnh, được trau chuốt, mô phỏng một hòn đảo Hy Lạp nhỏ bao quanh bởi đại dương có hoạt ảnh. Bao gồm bờ cát, rừng rậm, vách đá, một hang động lớn, Odysseus và thủy thủ đoàn, Cyclops cùng con tàu ngoài khơi.
-
-Khiến trải nghiệm có cảm giác như một trò chơi nhỏ có thể chơi được:
-
-Điều khiển Odysseus bằng phím WASD hoặc các phím mũi tên
-Nhấp vào mặt đất để di chuyển
-Kéo để lia camera
-Cuộn để thu phóng
-Thêm hoạt ảnh tinh tế cho mặt nước, cây cối, nhân vật và môi trường
-Thêm các nút xoay camera, thu phóng, đặt lại góc nhìn và tạm dừng
-Dùng cơ chế va chạm để người chơi không thể đi xuyên qua đá, cây cối hoặc mặt nước
-
-Thêm một bảng giao diện tối màu mang phong cách văn học ở góc dưới bên trái:
-
-“Dẫn Odysseus theo con đường cát đến hang động.”
-Hiển thị nhân vật hiện tại và trạng thái di chuyển bên dưới bảng.
-Định hướng nghệ thuật: nghệ thuật pixel phong cách game chiến thuật/RPG đẳng phối cảnh chi tiết của thập niên 1990, bảng màu Địa Trung Hải trầm, địa hình có kết cấu, kiểu chữ màu giấy da ấm áp, hạt nhiễu tinh tế và giao diện game cao cấp. Tổng thể nên giống một tấm bản đồ minh họa cổ được thổi hồn sống động.
-Khiến toàn bộ trải nghiệm lấp đầy cửa sổ trình duyệt và hoạt động ngay lập tức. Không tạo bản mô phỏng. Hãy xây dựng trải nghiệm tương tác hoàn chỉnh.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099414001851449430) · [Bài đăng gốc](https://x.com/jasoncjs_/status/2099414001851449430) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="2099419671481249851"></a>
 
 ### Màn vượt chướng ngại vật 3D có thể chơi
@@ -3399,6 +3341,26 @@ music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
 
 ---
 
+<a id="2099588840419651890"></a>
+
+### Tạo cảnh hành lang khách sạn
+
+[West Lord](https://x.com/MyWestLord) · 2026-09-14
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099588840419651890"><img src="../assets/previews/9325046470adcbc69de0911728ede1548949019160e7a05cf16cc39155276e27.jpg" width="840" loading="lazy" alt="Tạo cảnh hành lang khách sạn"></a>
+
+Prompt được tác giả bài đăng cho là của GPT-6 Astra, dùng để tạo cảnh hành lang khách sạn có thể chỉnh sửa trong Blender thông qua MCP.
+
+**Prompt**
+
+```text
+tạo cảnh hành lang khách sạn
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099588840419651890) · [Bài đăng gốc](https://x.com/MyWestLord/status/2099588840419651890) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="2099643231659012553"></a>
 
 ### Đảo núi lửa tương tác với những chiếc thuyền tháo chạy
@@ -3459,6 +3421,26 @@ Emoji trái tim và emoji mặt cười phong cách Apple 3D
 
 ---
 
+<a id="2099785223827259515"></a>
+
+### Game khám phá không gian tạo sinh với mọi điểm đến đều có thể tiếp cận
+
+[developers.openai.com](https://developers.openai.com/) · 2026-09-15
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099785223827259515"><img src="../assets/previews/4009749d3c10e1e7ab1c4246f910864404e0f5622f7580ebd3d9141386697db5.jpg" width="840" loading="lazy" alt="Game khám phá không gian tạo sinh với mọi điểm đến đều có thể tiếp cận"></a>
+
+Bản yêu cầu ban đầu của một nhà phát triển OpenAI dành cho Void Explorer, game khám phá không gian 3D trên trình duyệt. Nội dung yêu cầu một hành trình liền mạch từ ngoài không gian, xuyên qua khí quyển của một hành tinh, xuống đến mặt đất; sử dụng khoảng cách theo quy mô thực, các hành tinh có kích thước tương đương Trái Đất, địa hình tạo sinh và trình kết xuất theo chunk.
+
+**Prompt**
+
+```text
+Mọi thứ tôi nhìn thấy đều phải có thể đi tới. Hãy giữ khoảng cách theo quy mô thực, sau đó khiến việc di chuyển trở nên khả thi nhờ quy mô và tốc độ. Tôi muốn bay từ ngoài không gian, xuyên vào khí quyển của một hành tinh rồi xuống mặt đất. Các hành tinh có thể lớn ngang Trái Đất, vì vậy chúng ta sẽ cần địa hình tạo sinh và trình kết xuất theo chunk.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099785223827259515) · [Bài đăng gốc](https://developers.openai.com/blog/how-to-build-games-with-astra) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="2099850719839109597"></a>
 
 ### Tạo không gian 3D có thể điều khiển và nhân vật game từ ảnh tham khảo
@@ -3497,21 +3479,296 @@ Dựa trên các ảnh đã đính kèm, hãy thiết kế thế giới của t�
 
 ---
 
-<a id="2096525100518453342"></a>
+<a id="2100139076816916977"></a>
 
-### Chuyển đổi biểu cảm nhân vật trong Blender
+### Cảnh phòng 3D tương tác với nội thất có cơ cấu chuyển động
 
-[Nano(ナノ)](https://x.com/Dstudio_ai) · 2026-09-06
+[Wentao Zhu](https://x.com/walterzhu8) · 2026-09-16
 
-<a href="https://www.tripo3d.ai/vi/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/previews/e172122424c525a2dfb3968370d9707b0f7f661172fde0f5cf326ba550884780.webp" width="840" loading="lazy" alt="Chuyển đổi biểu cảm nhân vật trong Blender"></a>
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100139076816916977"><img src="../assets/previews/591aedead77f86efdc2a1a79394718b6c85cb2db7d3d1470dc474aaceb7afc6c.jpg" width="840" loading="lazy" alt="Cảnh phòng 3D tương tác với nội thất có cơ cấu chuyển động"></a>
+
+Bài kiểm thử GPT-6 Astra do Wentao Zhu ghi công cho sinh viên Minchao Jiang. Prompt yêu cầu tạo một cảnh 3D tương tác dựa trên ảnh phòng được cung cấp, với bản lề, cửa và ngăn kéo có thể chuyển động, cùng các chuyển động camera cho video demo.
 
 **Prompt**
 
 ```text
-Chuẩn bị các phiên bản biểu cảm của nhân vật Tripo trong Blender trước khi gắn xương. Căn chỉnh các lưới rồi chuyển đổi từng phiên bản, thu nhỏ những phiên bản không dùng vào bên trong đầu. Không mô tả cách này là nội suy biểu cảm mượt mà hay tương thích với VRM.
+Dựa trên ảnh phòng tôi đã cung cấp, hãy sử dụng Blender MCP để dựng một cảnh 3D tương tác và kết xuất thành video demo. Bao gồm chuyển động của các bộ phận có khớp (bản lề, cửa, ngăn kéo) và sử dụng các chuyển động camera hợp lý để thể hiện rõ những hiệu ứng này.
 ```
 
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [Bài đăng gốc](https://x.com/Dstudio_ai/status/2096525100518453342) · [Về danh sách ví dụ](#all-prompts)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100139076816916977) · [Bài đăng gốc](https://x.com/walterzhu8/status/2100139076816916977) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2100193512373592313"></a>
+
+### Phát triển Splatoon bản PC và tái hiện đồ họa
+
+[basio](https://x.com/basio39) · 2026-09-16
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100193512373592313"><img src="../assets/previews/cdd39cb88311df2f7d3d8c5fef6f09b5928eb79e22080c2cae0f51698f5bc0c9.jpg" width="840" loading="lazy" alt="Phát triển Splatoon bản PC và tái hiện đồ họa"></a>
+
+Prompt yêu cầu phát triển Splatoon bản PC và tái hiện đầy đủ đồ họa của trò chơi. Người đăng cho biết đã chạy riêng prompt này ở chế độ Ultra.
+
+**Prompt**
+
+```text
+/goal Hãy phát triển Splatoon bản PC. Hãy tái hiện đồ họa một cách hoàn chỉnh.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100193512373592313) · [Bài đăng gốc](https://x.com/basio39/status/2100194321987461503) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2100222426705453318"></a>
+
+### Tham quan căn hộ tương tác với các tùy chọn gạch lát
+
+[Shimecki](https://x.com/scheemunai) · 2026-09-16
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100222426705453318"><img src="../assets/previews/0653f3d309b3aa21c54ae9b90fb1def11f410764b84d7c3bf0493febf985d364.jpg" width="840" loading="lazy" alt="Tham quan căn hộ tương tác với các tùy chọn gạch lát"></a>
+
+Prompt gốc để tạo mô hình căn hộ Blender HD chân thực và trải nghiệm web tương tác, cho phép tham quan căn hộ và lựa chọn các tùy chọn gạch lát.
+
+**Prompt**
+
+```text
+Tôi muốn bạn dựng một mô hình render 3D HD cực kỳ chân thực của căn hộ bằng Blender, sau đó xây dựng một trải nghiệm web tương tác để tôi có thể đi lại trong căn hộ và chọn các tùy chọn gạch lát.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100222426705453318) · [Bài đăng gốc](https://x.com/scheemunai/status/2100222426705453318) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2100233407108137349"></a>
+
+### Phim ngắn CGI AAA: Đấu võ siêu nhiên trong ga tàu điện ngầm
+
+[MadMax](https://x.com/MadMax_Series) · 2026-09-16
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100233407108137349"><img src="../assets/previews/5b1433bd865c6ec1ec3d43fd2606e377b00ccf62ea86dd52f18143cd56b9eee4.jpg" width="840" loading="lazy" alt="Phim ngắn CGI AAA: Đấu võ siêu nhiên trong ga tàu điện ngầm"></a>
+
+Tác giả cho biết đã dùng lời nhắc văn bản tiếng Trung không kèm tệp đính kèm, kết hợp GPT-6 Astra và Seedance 2.5 để tạo một video dài 30 giây theo phong cách CG của game fantasy AAA. Lời nhắc yêu cầu thể hiện chuỗi cận chiến liên tục giữa một chiến binh đeo kính bảo hộ và một quái thú có sống lưng phủ vảy trong ga tàu điện ngầm hiện đại, đồng thời quy định chặt chẽ về tính nhất quán nhân vật, máy quay, vật lý chuyển động, phá hủy môi trường và chỉ sử dụng âm thanh diegetic trong khung hình.
+
+**Prompt**
+
+```text
+Tất cả nhân vật, đám đông phía sau và môi trường nhà ga đều phải có diện mạo CG game fantasy AAA cao cấp, rõ nét như được điêu khắc kỹ thuật số. Cận cảnh nhân vật phải giữ khuôn mặt nhân vật game được trau chuốt, các lọn tóc tết rõ ràng và làn da hiện thực cách điệu; không biến thành diễn viên người thật, cosplay, gameplay thông thường, hoạt hình 2D hay cel-shading. Giữ bối cảnh cận chiến siêu nhiên trong ga tàu điện ngầm hiện đại, không chuyển thành lâu đài thời Trung cổ, núi tuyết hay sàn đấu quyền anh. Bảng màu gồm xanh xám lạnh ít bão hòa, đen than, da vảy xanh xám và dải đèn trắng lạnh; một lượng nhỏ lan can vàng, đèn tín hiệu đỏ, gọng kính bảo hộ đồng bronze, giáp vai xanh đồng và đai màu đỏ đất tạo điểm nhấn cục bộ. Ánh vàng mật ong trong mắt và tia sáng tím ngắn khi va vào cột chỉ xuất hiện đúng khoảnh khắc tương ứng, không phủ tím toàn bộ phim.
+Môi trường: ga tàu điện ngầm rộng nhưng tối, khu đường ray hạ thấp ở trung tâm với ray thép và đá dăm, hai sân ga cao hơn ở hai bên; mép sân ga có hàng rào chắn bằng kính và kim loại với khung dọc màu vàng, sàn có dải an toàn màu vàng, gạch xám và song thoát nước; các cột tròn lớn màu trắng đỡ trần thấp, bên trên là những dải đèn dài trắng lạnh nối tiếp cùng đèn tròn, các đèn tín hiệu đỏ nhỏ ở xa kéo dài vào chiều sâu. Trên sân ga có vài chục hành khách trưởng thành mặc áo khoác sáng tối thông thường, đứng rải rác cạnh cột hoặc sau hàng rào. Khi bị trận chiến làm giật mình, họ lùi lại, co người và giơ tay che chắn, nhưng luôn chỉ là đám đông nền: không tham gia giao chiến, không biến thành nhân vật chính và không lặp lại cùng một khuôn mặt. Không có tàu chạy vào. Biển báo chỉ giữ các mảng hình học mờ, không có chữ đọc được.
+Hai đấu thủ chính được cố định như sau: A, chiến binh đeo kính bảo hộ, là nam trưởng thành cao, người gọn và săn chắc, da nâu sẫm ấm, gò má và đường hàm rõ. Tóc tết ngắn màu đen ôm sát đầu, buộc thành một nút tóc ngắn phía sau. Trên trán cố định một kính bảo hộ lật lên được, gọng đồng bronze hẹp, màu xám khói; bình thường kính che mắt, chỉ để lộ phần dưới sống mũi và miệng. Mặc áo chiến đấu không tay màu xám xanh với cổ đan chéo, đai nâu sẫm, quần dài đen than và bốt cổ thấp nâu sẫm; hai cẳng tay quấn băng vải xám, các ngón tay lộ ra. Luôn tay không, không áo choàng, vũ khí cầm tay hay huy hiệu đọc được. Biểu cảm điềm tĩnh, chuyển động nhanh và dứt khoát. Chỉ trong cảnh được chỉ định, A dùng tay phải nâng nhanh mép kính bảo hộ, để lộ một mắt vàng mật ong sáng rực, rồi hạ kính về vị trí che mắt; đây là cùng một món trang bị kính bảo hộ vật lý cố định trên trán, không biến thành dải vải và không biến mất.
+B, quái thú đấu sĩ có sống lưng phủ vảy, là sinh vật hình người đi bằng hai chân, cao hơn và to khỏe hơn A. Các lớp vảy thô màu xanh xám đậm phủ ngực, lưng rộng và tứ chi; bụng có vảy xanh xám mịn hơn. Đầu bè rộng như thằn lằn, mõm ngắn tù, hàm dày, hai mắt hổ phách sẫm và răng ngắn chắc; đầu không có tóc người, mặt nạ hay phần nhô ra như cành cây. Từ vai trái đến cẳng tay trái của B mọc các mảng giáp tự nhiên dày màu xanh đồng; mép trên vai trái cố định một hàng vây xương ngắn và tù. Cánh tay phải vẫn phủ vảy thô xanh xám nhạt hơn; tuyệt đối không đảo trái phải. Vây xương và mảng giáp là một phần cơ thể, trên vai không có hoa. Mặc quần chiến đấu ống rộng màu nâu sẫm, đai vải đỏ đất với hai dải đuôi hẹp buông xuống; mắt cá chân quấn vải nâu sẫm, bàn chân rộng phủ vảy, giữ rõ lòng bàn chân để có thể chống vào tường. Không có đuôi, cánh, tay phụ, sừng dài, kiếm, súng, khiên hay đạo cụ cầm tay. B là quái thú cao lớn nhưng vẫn có thể xuất hiện trong một nhà ga bình thường, giữ tỷ lệ ổn định với A và hành khách, không phình to thành người khổng lồ cao như tòa nhà.
+0,00–3,70 giây: Khung hình đầu tiên đã bước vào giao chiến. Một góc máy thấp ngắn sát đường ray cho thấy B nhanh chóng bước tới áp sát, rồi cắt sang trung cảnh sau lưng A khi B lao tới từ phía trước, nâng chân xoay hông tung cú đá vòng ngang ở độ cao đầu. A khuỵu gối, cúi đầu và nghiêng thân sang bên, để chân đá sượt qua phía trên nút tóc đen ngắn; B đặt chân xuống rồi xoay trở lại, A lập tức đứng lên. Cắt sang toàn cảnh đôi ở góc thấp trên đường ray với Dutch angle rõ rệt. A nâng gối tung một cú đá ngang cao, B hạ đầu và vai tránh qua, A thu chân rồi đặt lại chân trụ. Máy quay trở về cận cảnh bám theo từ sau vai A. B đuổi kịp bằng một chuỗi đấm vung liên tiếp; A dùng những cú né đầu cự ly ngắn, hạ vai và xoay người để nắm đấm sượt qua mặt, không đứng yên lặp lại động tác vung tay chờ đối thủ ra đòn. Dải đèn trần tạo vệt nhòe định hướng khi máy quay quét theo, đồng thời vẫn giữ rõ quan hệ vị trí giữa hai cơ thể.
+3,70–6,40 giây: Nắm đấm phải xanh xám nhạt của B lại vươn tới trước mặt A. A xòe bàn tay chặn cổ tay và cẳng tay của B, phải nhìn rõ điểm tiếp xúc. Máy quay áp sát khuôn mặt điềm tĩnh của A, rồi theo chuyển động bước chân, xoay hông và xoay vai của anh nhanh chóng vòng xuống góc nhìn toàn thân thấp. A vẫn nắm cùng cánh tay phải đó, kéo B mất điểm trụ rồi hất lên dọc phía trên bên hông cơ thể; cả hai chân B rời mặt đất, đai đỏ đất và quần rộng trễ theo quán tính. Chỉ ở điểm cao nhất của cú hất mới dùng ultra slow motion trong thời gian cực ngắn, sau đó lập tức trở lại tốc độ cao. A hoàn tất vòng xoay rồi buông tay. B lộn rơi theo đúng cung ban đầu, đầu hướng xuống chân hướng lên, vai và lưng chạm mặt đường ray, đá dăm và bụi bắn ra từ điểm tiếp xúc. Máy quay góc thấp bám theo cú rơi và rung ngắn; B lăn theo đà, chống thân ngồi dậy, giữ nguyên tứ chi. Không có cảnh gãy tay, ném bằng telekinesis không tiếp xúc hay tự nhiên đứng dậy từ hư không.
+6,40–9,20 giây: B vẫn đang hồi phục ở vị trí thấp thì A đã đạp đất lao tới. Máy quay từ sau lưng B ngước lên, thấy A xoay hông duỗi chân giữa không trung; tại điểm nhảy cao nhất, chuyển động chậm lại trong chốc lát, rồi khi hạ xuống A dùng cú đá bay ngang ép vào đầu và vai B. B giơ cả hai tay đỡ đòn và bị ép lệch người. A vừa tiếp đất đã lập tức áp sát, không đứng chờ. Máy quay theo đà hạ xuống của A rồi nhanh chóng vòng sang bên, tạo chuỗi cận cảnh hơi nghiêng ở góc qua vai và trên mặt. A né cánh tay quét ngược của B, tung một cú đấm ngắn vào thân, rồi dùng bàn tay mở chạm vào bên mặt đẩy lệch đầu B; chỉ sau khi tiếp xúc, đầu và cổ B mới xoay theo hướng bị đẩy. Bàn tay, khuôn mặt và cẳng tay không được hòa lẫn. Vây xương trên vai trái B phải chuyển động cùng mảng giáp vai và thân người cùng bên.
+9,20–11,20 giây: Tận dụng khoảng trống sau cú đẩy bên mặt, A xoay người thu chân rồi lập tức tung một cú đá ngang mạnh về phía trước. Đế giày chạm vào bụng đến phần ngực dưới của B. Thân B gập lại trước, hai chân sau đó mới rời mặt đất, bay chếch lên phía sân ga. Máy quay bám theo B lướt qua mép sân ga. Lưng trên và vai B đập vào cột trắng, bề mặt cột nứt tỏa ra từ điểm tiếp xúc, mảnh vụn nhạt màu và bụi rơi xuống. B trượt dọc cột rồi rơi xuống sàn sân ga. A thu chân, nhảy từ khu đường ray lên đúng sân ga đó để đuổi theo. Sau khi cắt cảnh, A xuất hiện cạnh đúng chiếc cột ấy ở vị trí liên tục, không dịch chuyển tức thời sang một nhà ga khác. Hành khách né sang hai bên. Cột bị hư hại nhưng không đổ sập toàn bộ.
+11,20–12,80 giây: Cắt sang cận cảnh khuôn mặt B sau cú va chạm. B ngẩng đầu, xoay mặt tìm A; mảng giáp xanh đồng và vây xương ngắn trên vai trái vẫn còn nguyên. Nhanh chóng chuyển sang bố cục cận cảnh hai bên cùng một cột: B ở tiền cảnh bên phải, A ở hậu cảnh bên trái cạnh cột, hơi mỉm cười lạnh nhưng không nói. A dùng tay phải nâng mép kính bảo hộ gọng đồng, để lộ một mắt vàng mật ong sáng rực nhìn thẳng vào B trong thời gian rất ngắn. Anh dùng tay phải hạ kính xuống che lại cả hai mắt, đồng thời chuẩn bị né tránh; không để lại khoảng dừng như chờ lời thoại hay khẩu hình nói.
+12,80–13,80 giây: B xoay vai vung nắm đấm phải xanh xám nhạt về vị trí của A. Trước khi nắm đấm chạm tới, A nhanh chóng dịch sang bên và vòng ra sau cột. Nắm đấm đập vào cột trắng rắn; đúng khoảnh khắc tiếp xúc, một tia chớp năng lượng màu tím gọn bùng lên, vết nứt lan rộng, mảnh vụn rơi xuống, tia tím ngắn lập tức tan biến. Cận cảnh đầu tiên cho thấy nắm đấm ép vào bề mặt cột, sau đó nhanh chóng kéo rộng để lộ B đánh hụt và A đã vòng sang bên. Cột vẫn là chiếc cột bị hư hại từ trước. Không biến A thành khói tím và không để nắm đấm xuyên qua cơ thể.
+13,80–16,00 giây: Toàn cảnh thấp hơi nghiêng. A hạ thấp người ở phía trước bên cạnh cột, giơ tay làm một động tác ngoắc gọi ngắn. B xoay người lao tới. A đạp đất bật lên thực hiện một cú lộn ngược liên tục: ngửa người trước, hai chân vút qua đầu, rồi co bụng xoay qua giai đoạn đảo ngược để né cánh tay quét ngang của B. Máy quay nghiêng lên theo cơ thể; chuyển động chậm lại trong chốc lát ở giai đoạn đảo ngược, các dải đèn lướt xiên qua nền. A tiếp tục cùng một vòng lộn, đưa hai chân trở lại phía dưới cơ thể và đáp xuống khoảng trống trên sân ga phía sau B, khuỵu gối hấp thụ lực. Vạt áo và nút tóc ngắn phía sau đầu rơi xuống theo quán tính. Hành khách phía sau hoảng sợ né tránh, không bị biến thành kẻ tấn công bổ sung. A không bị đánh bay và không lộn nhiều vòng trên không để kéo dài thời lượng.
+16,00–18,50 giây: Ngay khi A vừa đứng lên, B đã xoay người đuổi tới, tung một cú vung tay rộng vào bên đầu A. A ngửa người trước rồi hạ thấp xuống, để cánh tay phải xanh xám nhạt của B quét ngang qua đầu. Hai tay A thuận đà khống chế cẳng tay đó, bước vào phía trước thân B rồi xoay lưng và hạ trọng tâm. A kéo cánh tay B qua vai mình, tận dụng quán tính đang lao tới của B để hoàn thành một cú quật qua vai. Hông B lộn qua điểm tựa, hai chân rời đất, mặt lưng rơi xuống nền gạch sân ga, gạch vỡ và bụi tản dọc mặt sàn. Máy quay lùi từ cận cảnh sát vai ra trung toàn cảnh thấp, thể hiện trọn vẹn chuyển động lộn và cú rơi. A vẫn đứng, buông tay để B rơi xuống. B lập tức lăn người chống dậy rồi co chân đứng lên. A xoay về phía B và tiếp tục gây áp lực, nối liền động tác đứng dậy với pha áp sát, không giữ khoảng dừng dài để đứng nói lời thoại.
+18,50–20,65 giây: B lao trở lại cự ly cận chiến. A ra đòn trước bằng một cú đấm thẳng ngắn vào bên mặt, tay rút về che trước ngực, sau đó hạ thấp người đánh vào bụng và sườn. B giơ tay chặn một đòn rồi phản công bằng cánh tay nặng quét ngang. A áp sát phía trong ngực và vai B, cúi đầu né qua, dùng cẳng tay gạt nắm đấm đang thu về, rồi tung các cú đấm ngắn gọn chạm vào cằm và ngực trên. Máy quay di chuyển nhanh với biên độ nhỏ quanh vai hai người. Đầu và thân chỉ bật ngược sau khi thực sự tiếp xúc. Hoàn thành đoạn này bằng một chuỗi tấn công, đỡ gạt và phản đòn liên tục; không quay thành cảnh hai bên lần lượt vung nắm đấm hụt, không phản ứng với nhau hoặc giữ hai nắm đấm dính vào nhau.
+20,65–21,85 giây: Cắt thẳng sang góc nhìn từ trên xuống. Phải thấy rõ hai người xoay quanh cùng một mảng gạch sàn nhỏ. Nút tóc đen và gọng kính đồng của A, mảng giáp xanh đồng trên vai trái và đai đỏ đất của B là các điểm nhận diện cố định. Cánh tay vung rộng của B quét qua bên người A. A co vai luồn vào phía trong cánh tay, lần lượt đổi chân trái phải, một tay gạt cẳng tay đối phương, tay kia đấm vào ngực bụng rồi thu về, điều chỉnh vị trí theo vòng xoay của B. Gạch vỡ rơi và song thoát nước trên sàn giữ nguyên vị trí. Góc quay từ trên xuống thể hiện đường đi của pha công thủ cự ly gần, không thêm thế thân hay đấu thủ thứ ba.
+21,85–24,00 giây: Cắt về cận cảnh sát qua vai B. A tiếp tục chuỗi đấm ngắn luân phiên vào phần trên và phần dưới, đồng thời nghiêng đầu né cánh tay B vòng xuống từ phía trên. Cẳng tay quấn băng và cánh tay phủ vảy thô xanh xám đan chéo nhau nhưng ranh giới phải rõ. Máy quay bám theo nắm đấm của A đẩy nhanh về phía trước. Tại hai điểm va chạm mạnh, thêm hiệu ứng lóe phơi sáng tương phản đen trắng và đường nét xung kích lập thể chỉ trong vài khung hình, rồi lập tức trở về hình ảnh CG AAA xanh xám lạnh ban đầu; không chuyển thành truyện tranh, chữ hay minh họa 2D. Cú đấm thẳng cuối cùng phải đập rõ vào bụng B, bụng lõm vào, thân trên gập xuống và cánh tay đang vung từ phía trên mất hướng tiến theo thân người. Bàn chân A trụ vững, lực truyền từ chân, hông và vai đến mặt nắm đấm; nắm đấm không xuyên qua cơ thể.
+24,00–28,00 giây: Nối ngay hậu quả của cú đánh mạnh vào bụng. Hai chân B rời mặt đất và bay ngược. Máy quay thấp sát mép sân ga, truy đuổi tốc độ cao dọc trục dài của nhà ga, liên tục lướt qua các cột trắng, khung vàng, vách kính và đám đông kinh ngạc. Các đường nét nền kéo dài vì tốc độ, trong khi cơ thể phủ vảy xanh xám, quần nâu sẫm, đai đỏ đất và mảng giáp xanh đồng trên vai trái của B luôn nhận diện được. Dùng toàn cảnh theo trục dài, các cú cắt nhanh khi cột lướt qua tiền cảnh và cận cảnh ngước từ bên dưới để thể hiện B lộn giữa quán tính, vươn tay cố lấy lại thăng bằng; mảnh vụn bị cuốn theo cùng hướng bay qua đường ray. Sau đó B đâm vỡ một đoạn hàng rào chắn kính-kim loại ở mép sân ga. Kính vỡ sau khi cơ thể tiếp xúc, khung kim loại cong lại, B tiếp tục bay qua khoảng vỡ vào khu đường ray. Cắt sang toàn cảnh theo hướng vách đường ray. Đây vẫn là quãng bay liên tục do cú đánh bụng trước đó gây ra; không thêm cú đá ngoài khung hình, lần phóng thứ hai hay việc hất văng hành khách. A không nhân bản phía sau từng chiếc cột.
+28,00–30,00 giây: Toàn cảnh trung cố định từ bên hông. Bức tường đường ray thẳng đứng màu xám đậm nằm bên trái khung hình; sân ga đối diện và hành khách phía sau hàng rào ở hậu cảnh bên phải; dải đèn dài hướng vào chiều sâu nhà ga. B xoay trên không để hai chân hướng về tường. Lòng cả hai bàn chân phải tiếp xúc rõ với mặt tường thẳng đứng. B khuỵu gối, co bụng tạo thành tư thế cuộn gọn; dưới chân có một ít bụi tường bị cọ ra. Sau đó trong ultra slow motion, B từ từ duỗi gối và xoay thân ra ngoài, cơ thể dần tiến gần tư thế nằm ngang. Lòng bàn chân vẫn chống trên tường; đai đỏ đất, quần rộng và các mảnh vụn nhỏ tiếp tục chuyển động, thể hiện liên tục quá trình tiếp xúc, nén lực và tích lực. Không phải lưng đập vào tường, treo lơ lửng bất động hay đứng trên mặt đất bị đổ ngang. Video kết thúc ở giây 30, khi B vẫn chống cả hai chân lên tường và cơ thể đang mở ra trong một khung hình sống động. Không thêm pha bật tường phản công hoàn chỉnh, tiếp đất, tử vong hay kết quả thắng thua; không màn hình đen, không fade-out và không thẻ kết phim.
+Nhịp độ và tính liên tục: Giữ đúng thứ tự truy đuổi nhanh, né tránh cự ly gần, quật ngã, lộn trên không, đá bay, đập vào cột, đòn ngắn từ góc nhìn trên xuống và di chuyển băng qua sân ga; rút ngắn thời gian quan sát và khoảng dừng của lời thoại gốc. Chỉ dùng slow motion cục bộ ở điểm cao nhất của cú hất, pha né trên không và giai đoạn cuối chống tường; giai đoạn cuối phải ghi rõ ultra slow motion. Các pha công thủ thông thường phải nhanh và mượt, không slow motion toàn phim, không dùng khung hình đóng băng để kéo đủ thời lượng. Giữ nguyên nút tóc đen, da nâu sẫm, kính bảo hộ gọng đồng, áo không tay xám xanh và cẳng tay quấn băng của A; trạng thái kính trước và sau động tác lộ mắt phải rõ ràng. Giữ nguyên mảng giáp xanh đồng và vây xương ngắn bên trái, cánh tay phải phủ vảy xanh xám, đầu rộng như thằn lằn, quần nâu sẫm và đai đỏ đất của B; vây xương không rơi, không đổi bên và không biến thành vũ khí. Nhân vật bị đánh ngã phải tiếp xúc mặt đất trước khi lấy lại điểm trụ; nhân vật chủ động nhảy phải đạp đất trước; quãng bay do bị đánh phải có tiếp xúc trước; phanh trên tường phải bắt đầu bằng lòng bàn chân tiếp xúc rồi mới khuỵu gối. Mọi chuyển động phải giữ trọng lượng, quán tính và hướng. Đám đông phía sau liên tục thực hiện các động tác né tránh tự nhiên khác nhau và giữ khoảng cách rõ với hai đấu thủ; không hòa lẫn hoặc đột ngột bước vào đường đi của đòn đánh. Bề mặt cột bị hư hại, gạch rơi và hàng rào vỡ phải tiếp tục giữ trạng thái phá hủy trong các cảnh sau. Không thêm vũ khí, chi thừa, máu phun hay phân thân.
+Nghiêm cấm nhạc nền: ở mọi thời điểm trong video không được tạo nhạc nền, nhạc phim, track nhạc, giai điệu, bộ gõ có nhịp, hợp xướng, bài hát, âm thanh kéo dài mang tính âm nhạc hay lớp âm thanh nền có cao độ. Chỉ cho phép âm thanh diegetic đồng bộ với hình ảnh và thuộc về vật lý của bối cảnh: tiếng thông gió và tiếng vọng không gian trong ga, tiếng đế giày bước và ma sát trên sàn, tiếng vải và đai đỏ đất vung theo chuyển động, tiếng nắm đấm và cú đá xé gió, tiếng va đập trầm do tiếp xúc thực tế, hơi thở phi ngôn ngữ và tiếng rên đau ngắn, đá dăm lăn, bê tông nứt, kính vỡ, khung hàng rào kim loại cong, bước chân hành khách lùi lại, tiếng điện nứt không giai điệu khi tia tím tiếp xúc trong thời gian ngắn, cùng tiếng lòng bàn chân ma sát với tường và bụi tường rơi ở cảnh cuối. Không lời thoại, không thuyết minh, không tiếng hét có từ ngữ hiểu được, không bài hát, không phụ đề. Không dùng tiếng xung, tiếng nhạc giao hưởng nhấn mạnh, thiết kế âm thanh có giai điệu hay hiệu ứng âm thanh theo nhịp để lấp khoảng trống không có nhạc; không sắp tiếng liên hoàn, bước chân hay kính vỡ thành nhịp trống và không kéo dài tiếng thông gió thành lớp âm thanh mang tính âm nhạc. Chỉ cần xuất hiện bất kỳ nhạc nền hay nhạc phim nào là không đạt. music=0; no_music=1; strict_no_music=1; audio=diegetic_only; không tiêu đề, tên ga đọc được, logo, interface, điều khiển trình phát hay watermark.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100233407108137349) · [Bài đăng gốc](https://x.com/MadMax_Series/status/2100233407108137349) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2100519026720231698"></a>
+
+### Thêm xích bảo trì vào lan can
+
+[きのした](https://x.com/ujiden_type0) · 2026-09-17
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100519026720231698"><img src="../assets/previews/000aacea97c0955d46b761f1a1e1e46f9d755a6347c0b4214dfb9ea67515b9f9.jpg" width="840" loading="lazy" alt="Thêm xích bảo trì vào lan can"></a>
+
+Hướng dẫn chỉnh sửa mô hình CAD để thêm xích bảo trì vào lan can.
+
+**Prompt**
+
+```text
+Thêm xích bảo trì vào lan can nhé!
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100519026720231698) · [Bài đăng gốc](https://x.com/ujiden_type0/status/2100519026720231698) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2100526922770026874"></a>
+
+### Tạo game đua xe 3D
+
+[たい焼き｜Claude Codeの人](https://x.com/taiyaki_ai3) · 2026-09-17
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100526922770026874"><img src="../assets/previews/291f4f1d8508153f9f0473b53e7a16dd4405894ddf89a942955e4bbecc0c95d4.jpg" width="840" loading="lazy" alt="Tạo game đua xe 3D"></a>
+
+Yêu cầu tạo một game đua xe 3D có thể điều khiển và lái thực sự, được người đăng cho biết là đã nhập vào GPT-6 Astra chỉ bằng một câu. Bài đăng giới thiệu đây là cách tạo game có thể chơi mà không cần dùng Blender hay viết mã.
+
+**Prompt**
+
+```text
+Tạo một game đua xe
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100526922770026874) · [Bài đăng gốc](https://x.com/taiyaki_ai3/status/2100526934082105683) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2100595652703199281"></a>
+
+### Game 3D trên trình duyệt: Thoát khỏi cơ sở nghiên cứu bị phong tỏa
+
+[forest.watch.impress.co.jp](https://forest.watch.impress.co.jp/) · 2026-09-17
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100595652703199281"><img src="../assets/previews/70f25d79c1b29caca651c53634c0f7632ee038c2a69ee4826e7f6a11e4d4f1a9.jpg" width="840" loading="lazy" alt="Game 3D trên trình duyệt: Thoát khỏi cơ sở nghiên cứu bị phong tỏa"></a>
+
+Prompt tạo game 3D giải đố thoát hiểm trên trình duyệt, lấy bối cảnh một cơ sở nghiên cứu bị phong tỏa; bài viết cho biết tác giả 柳谷智宣 đã yêu cầu GPT-6 Astra thực hiện. Prompt yêu cầu thời lượng chơi khoảng 5–10 phút, có các cơ chế như chìa khóa và công tắc, hướng dẫn dễ hiểu, có thể hoàn thành đến cuối và được phân phối dưới dạng một tệp HTML duy nhất.
+
+**Prompt**
+
+```text
+Hãy tạo một game 3D giải đố thoát hiểm có thể chơi trên trình duyệt. Nội dung xoay quanh việc trốn thoát khỏi một cơ sở nghiên cứu bị phong tỏa và thời lượng chơi khoảng 5–10 phút. Hãy thêm các cơ chế như chìa khóa và công tắc, giúp người chơi dễ hiểu cách chơi và bảo đảm có thể hoàn thành game đến cuối. Gói mọi thứ vào một tệp HTML duy nhất để người chơi chỉ cần mở tệp bằng trình duyệt là có thể chơi.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100595652703199281) · [Bài đăng gốc](https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2141084.html) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2100614534423540102"></a>
+
+### Tự thiết kế một cơ thể bằng CAD
+
+[vitalduval](https://x.com/vitalduval) · 2026-09-17
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100614534423540102"><img src="../assets/previews/0648785872e0e8f57ee31197f913e72bd72dad694354eb842c3bd65d309a4683.jpg" width="840" loading="lazy" alt="Tự thiết kế một cơ thể bằng CAD"></a>
+
+Một tweet được liên kết của vitalduval nêu yêu cầu gửi tới Astra về việc thiết kế một cơ thể bằng CAD. AI Highlight đăng lại màn trình diễn kết quả và ghi công cho GPT-6 Astra.
+
+**Prompt**
+
+```text
+Tôi đã bảo Astra tự thiết kế một cơ thể bằng CAD.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100614534423540102) · [Bài đăng gốc](https://x.com/vitalduval/status/2100343136077877251) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="akari-nagoya-rooftop-flame-relay"></a>
+
+### AKARI: Tiếp lửa trên những sân thượng Nagoya
+
+[Jared](https://growthengineer.space/) · 2026-09-16
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/akari-nagoya-rooftop-flame-relay"><img src="../assets/previews/a4e87498dd6f6dfa75a47afbbb84b6496477ef4145097ceb6735f644d82b52ca.webp" width="840" loading="lazy" alt="AKARI: Tiếp lửa trên những sân thượng Nagoya"></a>
+
+Tạo một game Three.js hoàn chỉnh, ưu tiên tiếng Nhật: nhảy qua các sân thượng, thắp sáng Nagoya và xuất poster lễ hội. Bắt đầu với tài sản tạo bằng quy trình, sau đó nâng cấp qua Tripo Studio mà không cần API key.
+
+**Prompt**
+
+```text
+# AKARI — Bản đồ ánh sáng Nagoya
+
+## 1. Mục tiêu
+Xây dựng một game trình duyệt hoàn chỉnh, ưu tiên tiếng Nhật, trong đó một ngọn lửa trừu tượng thực hiện bảy cú nhảy theo thời gian, thắp sáng Nagoya thu nhỏ trước Đại hội Thể thao châu Á Aichi–Nagoya, diễn ra từ ngày 19 tháng 9 đến ngày 4 tháng 10 năm 2026. Bám sát phiên bản mở đầu hiện tại gồm hai bản đồ tại https://akari-nagoya-rooftop-relay.tripo.page/ và các hình ảnh tham chiếu được cung cấp. Cảnh sân thượng chung chung trước đây không phải mục tiêu.
+
+## 2. Định hướng hình ảnh
+Sử dụng góc nhìn bản đồ ba phần tư từ trên cao, nền xanh navy nửa đêm, tiêu đề serif tiếng Nhật màu trắng ngà ấm, đường nét vàng mảnh và hiệu ứng nhiễu tiết chế. Trên máy tính, dành một phần ba bên trái cho lời mời mở đầu và đặt hai ô bản đồ nâng cao ở bên phải; trên điện thoại, bố cục lại để bản đồ nằm phía trên các nút điều khiển. Bắt đầu với các tòa nhà tối, giảm bão hòa và những tuyến đường thủy màu xanh teal. Khi hoàn thành, khôi phục màu xanh lá, mái đồng xanh ngọc lam, ô cửa sổ ấm và đèn chỉ đường màu vàng. Giữ ngọn lửa và mục tiêu tiếp theo luôn dễ nhìn. Dùng bóng mềm, chiều sâu khí quyển và bloom có kiểm soát; tránh vùng lóe trắng. Bám sát tiêu đề mở đầu tiếng Nhật, nhãn địa danh và phần đầu/cuối trang biên tập mảnh xuất hiện trong hình tham chiếu.
+
+## 3. Thế giới
+Ô bản đồ lớn hơn ở phía tây bắc bao phủ Công viên Meijo, Lâu đài Nagoya, Nhà thi đấu Quốc tế Aichi, Công viên Hisaya-odori, MIRAI TOWER và Oasis 21. Ô phía đông nam bao phủ Bảo tàng Thành phố, Mizuho-dori, Công viên Mizuho và sân vận động của công viên, với sông Yamazaki ở phía đông sân vận động. Thêm các khu dân cư hiện đại thấp tầng, cây trong công viên, vạch đường, bờ sông và đèn chiếu sáng ấm; chỉ dùng kiến trúc lâu đài cho khu vực lâu đài.
+
+Chương 1: Công viên Meijo → Sotobori/Hisaya-odori → Công viên Hisaya-odori → Oasis 21, gồm ba cú nhảy. Tạo điểm chuyển chương có biển chỉ dẫn rõ ràng, không thể chơi, đến Bảo tàng Thành phố. Chương 2: Bảo tàng Thành phố → Mizuho-dori → Mizuho Undojo Nishi → hướng về Công viên Mizuho → Quảng trường phía Nam, gồm bốn cú nhảy. Không bao giờ thể hiện điểm chuyển như một con phố liền mạch hoặc tính nó là một cú nhảy. Lưu tiến trình tại chương thứ hai. Hai bản đồ dùng tỉ lệ khác nhau, với khoảng cách được nén để phù hợp với lối chơi. Giải thích ngắn gọn điều này trong phần Giới thiệu, cùng với các ngày diễn ra rước đuốc lịch sử là 22 tháng 8 và 16 tháng 9 năm 2026; đây không phải lời mời tham dự sự kiện sắp tới. Trích dẫn https://www.aichi-nagoya2026.org/ja/torch-relay/ và https://www.nagoyajo.city.nagoya.jp/guide/kinshachi/. Sử dụng họa tiết nguyên bản và ngọn lửa trừu tượng thay cho linh vật hoặc biểu tượng chính thức.
+
+## 4. Danh mục tài sản
+Sử dụng các ô thay thế ổn định sau theo thứ tự ưu tiên; giữ nguyên bố cục và proxy va chạm ở cả hai chế độ hình ảnh:
+- `shachi`: vật trang trí mái bằng vàng đánh bóng cổ điển, có đầu giống hổ, thân cá chép phủ vảy uốn cong và đuôi cuộn hướng lên; lặp lại trên lâu đài.
+- `castle`: tòa tháp kiểu Nagoya màu trắng ngà, khung gỗ tối, mái hông và mái đầu hồi xếp tầng màu xanh ngọc lam, nền đá.
+- `mizuho`: sân vận động thể thao hình bầu dục rộng, mái nhạt màu với phần trung tâm mở và các trụ đỡ nhịp nhàng; giữ đường chạy và sân cỏ nhìn thấy qua phần trung tâm.
+- `arena`: nhà thi đấu đương đại thấp tầng, mái rộng và các vây mặt đứng dọc màu ấm, nằm phía bắc trục công viên.
+- `tower`: tháp quan sát dạng lưới bạc mảnh, có sàn hình hộp và ăng-ten.
+- `oasis`: mái che bằng kính/nước màu xanh ngọc lam, hình bầu dục kéo dài, đặt trên các trụ mảnh màu nhạt.
+- `midrise`: tòa nhà khu dân cư Nhật Bản hiện đại, tiết chế; tái sử dụng với chiều cao và hướng khác nhau, bao gồm cả khối tích bảo tàng đơn giản.
+- `tree`: cây trưởng thành nhỏ gọn trong công viên, thân nâu và tán xanh nhiều lớp; bố trí lặp lại trên cả hai ô bản đồ.
+Giữ địa hình, đường sá, mặt nước, vạch sân, điểm đánh dấu cú nhảy, ngọn lửa trừu tượng, vệt sáng, pháo hoa và UI ở dạng procedural. Mỗi mô hình phải là một đối tượng hoàn chỉnh, tách biệt; giữ các lối đi thông thoáng và phần trung tâm sân vận động. Theo dõi mọi ô đã liệt kê, kể cả các tài sản nền được lặp lại.
+
+## 5. Lối chơi và phần thưởng
+Giữ con trỏ/chạm hoặc phím Space để nạp lực; thả ra để tự động nhảy về phía điểm đánh dấu tiếp theo. Sử dụng vật lý delta-time xác định: khoảng cách = 1.8 + 7 × charge, charge phản xạ trong khoảng từ 0 đến 1, còn độ vồng cộng thêm 4 × t × (1 − t) × 3.6 vào độ cao nội suy. Chu kỳ nạp lực tăng tốc từ khoảng 1.42 xuống 0.92 giây cho mỗi chiều. Tính quỹ đạo, vùng an toàn màu xanh lá và vùng hoàn hảo màu vàng từ cùng một phép tính: sai số ≤0.36 là hoàn hảo; ≤1.15 là an toàn, với mức dung sai thêm 0.28 cho hai cú nhảy đầu tiên.
+
+Tiếp đất an toàn được 100 điểm; tiếp đất hoàn hảo được 200 × hệ số liên tiếp, tối đa ×4. Thao tác nối tiếp đúng lúc trong vòng 2.35 giây cộng thêm 50 điểm; đặt lại combo sau một lần tiếp đất an toàn, khi chuyển chương hoặc sau 3.4 giây chờ. Mỗi lần thành công sẽ truyền một làn sóng ánh sáng qua khu vực, thắp sáng các ô cửa sổ và thêm đèn lồng. Hiển thị tiến trình bảy bước, điểm số, combo và thành tích cao nhất. Khi trượt, khởi động lại nhanh; sau khi chuyển chương, khôi phục checkpoint của chương. Cung cấp các chức năng tạm dừng, chơi lại, khôi phục khi chuyển sang tab ẩn và âm thanh tùy chọn sau khi có tương tác.
+
+Sau cú nhảy cuối, hiển thị cả hai bản đồ đã được thắp sáng bằng hiệu ứng lùi camera trong 4.6 giây và pháo hoa trong giới hạn. Hiển thị hạng S khi có bảy lần tiếp đất hoàn hảo, hạng A khi có từ bốn lần trở lên, nếu không thì hạng B. Bao gồm chơi lại, góc camera giống nhau để so sánh thành phố trước/sau và poster PNG thực 1800×1200 với tiêu đề, ngày tháng, điểm số và ghi công dự án độc lập.
+
+## 6. Triển khai
+Sử dụng Vite, TypeScript và Three.js; tách riêng dữ liệu địa lý, vật lý/tính điểm thuần, scene, hiệu ứng, registry mô hình, bản địa hóa tiếng Nhật/tiếng Anh và UI. Tiếng Nhật luôn là ngôn ngữ mặc định bất kể ngôn ngữ của prompt; lưu lại lựa chọn chuyển ngôn ngữ. Đóng gói font và tài sản cục bộ. Sử dụng GLTFLoader và chuẩn hóa theo từng ô; giữ lại mô hình hoạt động cuối cùng nếu lần import không hợp lệ. Giữ nguyên điểm số, checkpoint, camera và ánh sáng khi so sánh hình ảnh đơn giản với hình ảnh import. Instance hóa cây/tòa nhà, gộp hình học tĩnh tương thích, giới hạn DPR và số lượng particle. Đánh giá thời gian render thực tế và độ phức tạp của mô hình thay vì từ chối mô hình chỉ vì vượt mục tiêu số tam giác. Chỉ dùng Blender nếu tài sản trả về cần dọn lưới, sửa pivot hoặc mở phần trung tâm sân vận động; giữ nguyên tệp gốc.
+
+## 7. Tiêu chí nghiệm thu
+Bàn giao mã nguồn có thể chạy, lockfile, các lệnh phát triển/build và bản build tĩnh. Xác minh bảy cú nhảy qua cả hai chương, chuyển chương/khôi phục checkpoint, trượt/thử lại, tính điểm, thao tác chạm, tạm dừng, lưu lựa chọn tiếng Nhật/tiếng Anh, toàn bộ phương án dự phòng của các ô và việc xuất poster thực tế. So sánh ảnh chụp màn hình mở đầu và kết thúc sau khi ổn định với bản tham chiếu hai bản đồ hiện tại. Báo cáo hiệu năng đo được và các bài kiểm thử đã thực sự thực hiện. Quy trình làm việc dùng chung sau đây chi phối việc tạo và trả về mô hình.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/akari-nagoya-rooftop-flame-relay) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="cyclops-island-threejs-game"></a>
+
+### Hòn đảo của Cyclops
+
+[Jared](https://x.com/jaredliu_bravo) · 2026-09-16
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/cyclops-island-threejs-game"><img src="../assets/previews/2a209be513b7970f566af81131521dc31c84ef7d86eb8868facd389d23b3624d.png" width="840" loading="lazy" alt="Hòn đảo của Cyclops"></a>
+
+Trước tiên, hãy tạo một game thoát khỏi hòn đảo hoàn chỉnh bằng Three.js với các mô hình chuyển động đơn giản. Sau đó, lần lượt nâng cấp nhân vật chính, Cyclops, con tàu, cây cối và hang động trong Tripo Studio bằng hình ảnh tham chiếu hoặc prompt văn bản từ host-agent. Không cần truy cập Tripo API.
+
+**Prompt**
+
+```text
+# ODYSSEY — Hòn đảo Cyclops
+
+## 1. Mục tiêu
+Xây dựng một game phiêu lưu trốn thoát isometric hoàn chỉnh, lấy cảm hứng từ Quyển IX của Odyssey. Trong vai Odysseus, dẫn ba thành viên thủy thủ đoàn lấy trộm vật tư trong hang, sống sót trước sự truy đuổi và tấn công của Polyphemus, rồi trốn thoát trên một con tàu Hy Lạp. Toàn bộ UI trong game dùng tiếng Anh. Sử dụng https://cyclops-island.tripo.page/ và các tài liệu tham khảo được cung cấp; giữ nguyên phần ghi công Jared và nguồn cảm hứng từ ý tưởng hòn đảo Odyssey của Jason Chew.
+
+## 2. Định hướng hình ảnh
+Dựng một hòn đảo Địa Trung Hải dạng mô hình bàn với nhiều chi tiết kết cấu bề mặt, rộng khoảng 25 đơn vị thế giới, nằm giữa vùng biển Aegean xanh teal đậm. Sử dụng camera orthographic góc ba phần tư, đặt gần tọa độ (19,31,34), cùng đá vôi ấm màu, cây ô liu xanh xô thơm, vải màu đất nung, giáp đồng và giấy da màu kem. Áp dụng tone mapping ACES, bóng đổ định hướng ấm, chiều sâu khí quyển, bloom tiết chế, vignette và grain. Đảm bảo các dấu hiệu nguy hiểm vẫn dễ đọc bên dưới hiệu ứng.
+
+Dùng tiêu đề serif phong cách Cormorant Garamond và UI phong cách DM Sans theo ngôn ngữ địa phương. Góc trên bên trái: một huy hiệu Ω, ODYSSEY / AN INTERACTIVE MYTH, BOOK IX và The Cyclops’ Island. Một thẻ so sánh màu kem nổi bật ở góc trên bên phải hiển thị “Một hòn đảo. Hai thế giới.” cùng các điều khiển Tripo World và Original. Góc dưới bên trái: giai đoạn nhiệm vụ, ba tim, thể lực và số thành viên thủy thủ đoàn. Hiển thị trạng thái boss ở phía trên, một la bàn/minimap nhỏ bên dưới, các điều khiển camera rõ ràng và gợi ý phím ngắn gọn. Trên điện thoại, dùng nội dung trang trí ngắn gọn cùng các điều khiển riêng cho nhiệm vụ, boss, so sánh và Né.
+
+## 3. Thế giới
+Một con đường cát nhạt uốn lượn dẫn về phía bắc từ bãi biển cập bờ ở phía nam, xuyên qua các lùm ô liu đến một hang đá vôi. Người khổng lồ ngủ gần hang; Odysseus và thủy thủ đoàn bắt đầu trên con đường phía nam. Đặt một con tàu gỗ buồm đỏ ở phía tây nam, cạnh cầu tàu. Bao quanh bờ biển bằng các tảng đá cuội bất quy tắc, cỏ, cây bách và vùng nước nông màu ngọc lam. Tạo chuyển động cho gợn sóng, bọt ven bờ, cây cối, ánh lửa, chim và con tàu nhấp nhô. Chuyển động đại dương phải luôn chính xác khi camera xoay.
+
+## 4. Danh mục tài sản
+Chuẩn bị các vị trí thay thế theo thứ tự sau:
+- `odysseus`: nhà thám hiểm Hy Lạp có râu, đội mũ giáp Corinth bằng đồng với chùm lông đỏ thẫm, giáp ngực sờn cũ, áo dài màu ngà, áo choàng đất nung, dép, khiên nhỏ và kiếm tra vỏ. Dùng lại cho ba thành viên thủy thủ đoàn với skeleton và các pha animation độc lập.
+- `polyphemus`: người khổng lồ lực lưỡng với chính xác một con mắt ở chính giữa, da ô liu rám nắng, tóc và râu xoăn sẫm màu, khố lông/da, bàn chân trần lớn và một cây chùy gỗ; toàn thân ở tư thế trung tính, phù hợp để rig.
+- `ship`: thân tàu gỗ óc chó sẫm màu, hẹp, mũi tàu nâng cao, ram đồng, cột buồm, buồm đỏ đất nung, dây rigging và mái chèo hai bên; không có nước hoặc đế trưng bày.
+- `olive`: thân cây nâu xám sần sùi, rễ lan rộng và tán cây xanh xô thơm bất quy tắc; dùng lại khoảng 25 lần.
+- `cave`: vòm đá vôi phong hóa màu ấm, độc lập và rộng, với lối đi thực sự thông suốt, đá tảng lớn và rêu thưa; dựng phần nội thất tối riêng biệt.
+- `cypress`: cây Địa Trung Hải thân mảnh, thuôn dần, tán lá xanh đậm dày.
+- `boulder`: đá ven biển bằng đá vôi màu ấm, hình dạng bất quy tắc; dùng lại với nhiều tỷ lệ và góc xoay khác nhau.
+Giữ địa hình, đường đi, nước, cỏ, dấu hiệu vật tư, telegraph chiến đấu, hạt hiệu ứng và UI ở dạng procedural. Theo dõi từng vị trí và giữ nguyên bản đồ gameplay trong khi thay đổi diện mạo.
+
+## 5. Chạm trán trốn thoát
+Sử dụng WASD/phím mũi tên theo hướng camera và cơ chế nhấp/chạm để di chuyển với điều hướng A* có xét bán kính. Thủy thủ đoàn bám theo tương đối lỏng; người chơi và người khổng lồ phải tôn trọng địa hình, ranh giới và chướng ngại vật theo kích thước riêng. Shift để chạy nước rút, Space hoặc nút cảm ứng lớn để né, E để nhặt vật tư gần đó, P để tạm dừng, Q/R để xoay và F để bám theo nhân vật chính. Hỗ trợ kéo/pan, kéo chuột phải/xoay, cuộn/thu phóng và chụm hai ngón tay. Trong lúc bị truy đuổi, nhấp để di chuyển sẽ chạy nước rút khi còn đủ thể lực.
+
+Giai đoạn 1: tiến đến hang; khoảng cách gần và việc chạy nước rút gây tiếng động sẽ làm tăng cảnh giác, đồng thời có thể đánh thức người khổng lồ. Giai đoạn 2: chỉ thu thập vật tư ở cự ly gần và thao tác này luôn đánh thức hắn. Giai đoạn 3: sống sót trong bán kính cầu tàu được đánh dấu, khoảng 2.7 đơn vị, gần (-0.8,8.7) trong tổng cộng 11 giây, trong khi thủy thủ đoàn lên tàu; rời khỏi vùng này sẽ tạm dừng tiến độ.
+
+Cấp ba điểm sinh lực và 100 thể lực. Tốc độ ban đầu: đi bộ 2.35, chạy nước rút 4.15 và người khổng lồ chạy 3.4 đơn vị/giây. Người khổng lồ phải truy đuổi đến phạm vi 3.6 đơn vị trước khi tấn công. Sử dụng các trạng thái ngủ, thức dậy, truy đuổi, lấy đà, va chạm, hồi phục và kết thúc. Ground Breaker khóa vị trí người chơi khi bắt đầu pha lấy đà kéo dài 1.12 giây, hiển thị vòng tròn bán kính 2.45 và đánh một lần; mục tiêu không được bám theo người chơi. Mỗi cú nện thứ ba phát ra một shockwave tích điện đang mở rộng, được đánh dấu rõ ràng; sát thương áp dụng theo mép vòng đang di chuyển.
+
+Động tác né kéo dài khoảng 0.34 giây, tốn 24 thể lực, có thời gian hồi 1.25 giây, thời gian miễn nhiễm ngắn và giới hạn trong vùng mặt đất hợp lệ. Chạy nước rút làm tiêu hao thể lực; nghỉ ngơi sẽ hồi thể lực. Đòn đánh gây hất lùi, phản hồi trúng đòn và miễn nhiễm tạm thời. Khi bị đánh bại, đặt lại tất cả actor, bộ đếm thời gian, hiệu ứng và trạng thái nhiệm vụ. Trốn thoát sẽ ngăn sát thương và mở phần tóm tắt chơi lại. Tạm dừng sẽ đóng băng mô phỏng, animation và hiệu ứng. Điều chỉnh việc lên tàu để yêu cầu nhiều lần né, bao gồm cả một đòn tấn công tích điện.
+
+## 6. Triển khai và animation
+Sử dụng Vite, Three.js và các ES module JavaScript cho thế giới, điều hướng, chạm trán, actor, hiệu ứng, âm thanh và UI. Đóng gói toàn bộ tài sản runtime cục bộ trong bản build tĩnh. Các model có khớp nối ban đầu phải có thể đi/chạy, ngủ/thức dậy, né và thể hiện rõ động tác lấy đà/đánh. Với các model skinned thay thế, sử dụng AnimationMixer, tên clip thực tế, crossfade ngắn và SkeletonUtils.clone cho skeleton riêng của từng thành viên thủy thủ đoàn. Ngăn chuyển động gốc bị nhân đôi và hiện tượng trượt chân. Đồng bộ đòn đánh hướng xuống của người khổng lồ với thời điểm va chạm gameplay; không báo các static import là animation. Duy trì fallback có khớp nối hoạt động được khi cần. Chỉ dùng Blender cho các sửa chữa rig, pivot, clip hoặc mesh bắt buộc.
+
+Đồng bộ telegraph màu cam/vàng, flash va chạm, vết nứt mặt đất, bụi, tia lửa, mảnh đá rơi, vòng tròn mở rộng, ánh sáng chớp ngắn và rung camera. Thêm vệt khi né và âm thanh tổng hợp tùy chọn được kích hoạt bằng cử chỉ. Pool các hiệu ứng, instance hóa cảnh vật và đo thời gian mỗi frame. Chuẩn hóa model import với chân/gốc đặt đúng mặt đất và các proxy va chạm không thay đổi. Tính năng so sánh phải giữ nguyên vị trí, nhiệm vụ, sinh lực, thể lực, camera và trạng thái animation; import lỗi phải giữ lại model đang hoạt động. Thêm điều khiển Change hero kín đáo và tính năng import model cục bộ kèm trạng thái theo từng vị trí.
+
+## 7. Tiêu chí nghiệm thu
+Bàn giao mã nguồn, lockfile, lệnh npm phát triển/build và đầu ra tĩnh. Kiểm tra điều hướng qua chướng ngại vật, đánh thức sớm, thu thập ở cự ly gần, truy đuổi trước khi tấn công, khóa mục tiêu, đòn đánh theo thời gian, miễn nhiễm khi né, sát thương theo mép shockwave, đánh bại/đặt lại và trốn thoát thành công. Kiểm tra animation độc lập của thủy thủ đoàn, fallback của mọi vị trí, tính năng so sánh giữ nguyên trạng thái, bố cục desktop/mobile và lỗi tải. So sánh các ảnh chụp màn hình sau khi ổn định với tài liệu tham khảo và báo cáo hiệu năng thực tế. Sử dụng quy trình dùng chung bên dưới để tạo model và trả về.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/cyclops-island-threejs-game) · [Bài đăng gốc](https://x.com/jaredliu_bravo) · [Bản demo](https://cyclops-island.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3569,24 +3826,6 @@ Tái dựng phòng trẻ em kiêm nơi làm việc từ bốn ảnh chụp ở c
 
 ---
 
-<a id="2096557555086725159"></a>
-
-### Mô hình Seoul thu nhỏ có thể khám phá
-
-[synabreu](https://x.com/synabreu) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-miniature-of-seoul-2096557555086725159"><img src="../assets/previews/495c8dd1868b4e0c9fbeef9d970d26b2f334db89db4edcd802e510cc0f8cb85a.webp" width="840" loading="lazy" alt="Mô hình Seoul thu nhỏ có thể khám phá"></a>
-
-**Prompt**
-
-```text
-Dựng mô hình Seoul thu nhỏ bằng Three.js từ dữ liệu bản đồ mở. Thêm điều hướng theo quận, cảnh bay qua các địa danh, chế độ ngày và đêm cùng điều khiển cảm ứng. Nêu rõ những tòa nhà đã được đơn giản hóa, chiều cao ước tính và giấy phép dữ liệu.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-miniature-of-seoul-2096557555086725159) · [Bài đăng gốc](https://x.com/synabreu/status/2096557555086725159) · [Bản demo](https://seoul-3d-atlas.synabreu.chatgpt.site/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="2096576154337734865"></a>
 
 ### Dựng một ngôi nhà từ đầu trong Blender
@@ -3602,24 +3841,6 @@ Dựng mô hình một ngôi nhà từ đầu trong Blender. Giữ cảnh ở d�
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865) · [Bài đăng gốc](https://x.com/mizkun/status/2096576154337734865) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096501340889374883"></a>
-
-### Từ mặt bằng tầng trên cùng đến bản xem trước Blender
-
-[indigo](https://x.com/indigox) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883"><img src="../assets/previews/43b5fb834bebe6a4e4348b43a9b12c363d09ce37ce76f35026436aab1c2260cb.webp" width="840" loading="lazy" alt="Từ mặt bằng tầng trên cùng đến bản xem trước Blender"></a>
-
-**Prompt**
-
-```text
-Dùng mặt bằng tầng trên cùng của ngôi nhà để dựng cảnh Blender và kết xuất bản xem trước 10 giây với số mẫu thấp. Ưu tiên bố cục không gian rõ ràng trước khi hoàn thiện vật liệu.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883) · [Bài đăng gốc](https://x.com/indigox/status/2096501340889374883) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3677,42 +3898,6 @@ Dựng cảnh máy hát đĩa than đặt trên bàn bằng Three.js. Dàn dựn
 
 ---
 
-<a id="2096555856204644550"></a>
-
-### Vòng lặp đối chiến của trò chơi thẻ bài sưu tầm
-
-[FaryaBlender3D](https://x.com/FaryaBlender3D) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/trading-card-battle-game-loop-2096555856204644550"><img src="../assets/previews/9467608cd8acae08c8272517d7c6605284f8073c38eefd78221597d07dfe93db.webp" width="840" loading="lazy" alt="Vòng lặp đối chiến của trò chơi thẻ bài sưu tầm"></a>
-
-**Prompt**
-
-```text
-Xây dựng bản mẫu trò chơi thẻ bài sưu tầm bằng Three.js: mua bộ bài và gói thẻ bổ sung, xây dựng bộ bài, bước vào đấu trường và nhận phần thưởng. Thiết kế để có thể thay lưới tạm bằng tài nguyên hoàn chỉnh.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [Bài đăng gốc](https://x.com/FaryaBlender3D/status/2096555856204644550) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096505740643246231"></a>
-
-### Màn chơi giải đố Three.js hoàn chỉnh
-
-[Steve的花园儿](https://x.com/TvWoo) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/complete-three-js-puzzle-level-2096505740643246231"><img src="../assets/previews/b00b0f3011c9f77412b6212bff0efb0fc453cefca3af7186267fabb90c0536f0.webp" width="840" loading="lazy" alt="Màn chơi giải đố Three.js hoàn chỉnh"></a>
-
-**Prompt**
-
-```text
-Xây dựng một màn chơi giải đố 3D hoàn chỉnh bằng Three.js, bao gồm các cơ chế thực sự chơi được. Khi màn chơi và các tương tác đã hoạt động, hãy tích hợp âm thanh được cung cấp.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/complete-three-js-puzzle-level-2096505740643246231) · [Bài đăng gốc](https://x.com/TvWoo/status/2096505740643246231) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="2096570815714414844"></a>
 
 ### Săn kho báu trên bãi biển low-poly
@@ -3746,24 +3931,6 @@ Tạo các mô hình cho cảnh trong Blender rồi nhập vào Unity. Thêm hi�
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/blender-models-with-unity-vfx-2096560142871658589) · [Bài đăng gốc](https://x.com/CST_negi/status/2096560142871658589) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096556692842348826"></a>
-
-### Trò chơi đua rally Unity chơi được trên điện thoại
-
-[Kevin Kern](https://x.com/kevinkern) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826"><img src="../assets/previews/eceebf1bdd5561e25fada5daec055473bd5506cf272760a5a08a8b4ad111988c.webp" width="840" loading="lazy" alt="Trò chơi đua rally Unity chơi được trên điện thoại"></a>
-
-**Prompt**
-
-```text
-Xây dựng bản mẫu lái xe rally bằng Codex, Blender và Unity. Chuẩn bị tài nguyên 3D và cách điều khiển để thử chơi trên điện thoại.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826) · [Bài đăng gốc](https://x.com/kevinkern/status/2096556692842348826) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3821,42 +3988,6 @@ Kết hợp ảnh tham khảo căn hộ với bản phác mặt bằng đơn gi�
 
 ---
 
-<a id="2096521798150242631"></a>
-
-### Mặt nước lặp tuần hoàn bằng Geometry Nodes
-
-[黒曜陣](https://x.com/uB95A7tobA17057) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631"><img src="../assets/previews/c1f28f7d54e74bcfdc5a9af0c8802782ae717109591d19c56aff83e056a3d5ff.webp" width="840" loading="lazy" alt="Mặt nước lặp tuần hoàn bằng Geometry Nodes"></a>
-
-**Prompt**
-
-```text
-Tạo hiệu ứng mặt nước tuần hoàn bằng Blender Geometry Nodes mà không bake. Giữ hệ thống nút ở dạng có thể chỉnh sửa và mô tả đây là mô hình bề mặt, không phải mô phỏng chất lỏng đầy đủ.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631) · [Bài đăng gốc](https://x.com/uB95A7tobA17057/status/2096521798150242631) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096518775042707700"></a>
-
-### Thế giới hàng hải lấy cảm hứng từ One Piece
-
-[Yash](https://x.com/yash_yk45) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700"><img src="../assets/previews/43d06f647b736fefd9e35f14f5a547a9e58943fefc224182925a32bdc0c814ae.webp" width="840" loading="lazy" alt="Thế giới hàng hải lấy cảm hứng từ One Piece"></a>
-
-**Prompt**
-
-```text
-Xây dựng một thế giới hàng hải có thể chơi được với tàu dựng trong Blender và đại dương Three.js. Thêm thời tiết thay đổi, khám phá dưới nước, vệt sóng sau tàu, bọt, nước bắn và cánh buồm chuyển động.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700) · [Bài đăng gốc](https://x.com/yash_yk45/status/2096518775042707700) · [Bản demo](https://one-piece-sea-world.vercel.app/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="2096572156453028193"></a>
 
 ### Tập hút Lorenz tương tác
@@ -3872,42 +4003,6 @@ Trực quan hóa hai quỹ đạo của hệ Lorenz có vị trí ban đầu ch�
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-lorenz-attractor-2096572156453028193) · [Bài đăng gốc](https://x.com/juyeam/status/2096572156453028193) · [Bản demo](https://tiny-worlds-juyeam.juyeam.chatgpt.site/chaos) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096506357868642342"></a>
-
-### Biến căn phòng riêng thành hồ sơ năng lực tương tác
-
-[Kalan ◂Ⓘ▸](https://x.com/kalanyei) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342"><img src="../assets/previews/866c74c1a0c5aa28562647e34518578bfa25e58a2afed0279ba6142eb9d64f44.webp" width="840" loading="lazy" alt="Biến căn phòng riêng thành hồ sơ năng lực tương tác"></a>
-
-**Prompt**
-
-```text
-Biến căn phòng riêng thành website tự giới thiệu có tính tương tác. Dựng và bake cảnh trong Blender, sau đó thêm hơi cà phê, hoạt ảnh kiểu Matrix và hiệu ứng shader nhẹ nhàng.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342) · [Bài đăng gốc](https://x.com/kalanyei/status/2096506357868642342) · [Bản demo](https://room.kalan.dev/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096503275910832461"></a>
-
-### Thuyền YF-24 trên mặt biển 3D êm dịu
-
-[Yohei Matsumoto](https://x.com/yhmtmt1) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"><img src="../assets/previews/8369341108c9ee030167ffe4e426974a0417136cb0c8a95b91084dcbccc26480.webp" width="840" loading="lazy" alt="Thuyền YF-24 trên mặt biển 3D êm dịu"></a>
-
-**Prompt**
-
-```text
-Dựng thuyền YF-24 trong Blender và tạo hoạt cảnh thuyền di chuyển trên biển ba chiều với gió cấp 2 theo thang Beaufort. Dùng tư liệu tham khảo về thuyền để cải thiện hình dáng.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461) · [Bài đăng gốc](https://x.com/yhmtmt1/status/2096503275910832461) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3932,7 +4027,7 @@ Chuyển logo nhân vật 2D được cung cấp thành phiên bản 3D có ho�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 235 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 248 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>
