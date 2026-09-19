@@ -26,7 +26,7 @@
 **Un punto de partida para tu próximo juego, escena o mundo interactivo.**
 
 
-**250 · Últimos prompts de Astra**
+**254 · Últimos prompts de Astra**
 
 ## Proyectos destacados
 
@@ -54,7 +54,6 @@
 - [Explorador interactivo de anatomía en 3D](#2099206962344800541) · GitHub
 - [Demo de gráficos de fantasía isométrica](#2100271998618177864) · GitHub
 - [Mosswing: juego móvil 3D de tocar para aletear](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Simulación 3D de una explosión nuclear en una ciudad](#2096562462674079868)
 - [Motor de la Totalidad: Catedral cinematográfica del eclipse](#2096593372311941143)
 - [Crea CS2 con Three.js](#2096596888799895855)
 - [Animación de una caja plegable a partir de un troquel](#2096612394281603144)
@@ -128,11 +127,15 @@
 - [Desarrollo de una versión para PC de Splatoon y recreación de sus gráficos](#2100193512373592313)
 - [Recorrido interactivo por un apartamento con opciones de azulejos](#2100222426705453318)
 - [Cortometraje de lucha sobrenatural CGI AAA en una estación de metro](#2100233407108137349)
+- [Escena interactiva de una hoguera con un caballero voxel](#2100350159540596760)
 - [Añadir una cadena de mantenimiento a la barandilla](#2100519026720231698)
 - [Crear un juego de carreras en 3D](#2100526922770026874)
 - [Juego 3D de escape de un centro de investigación cerrado](#2100595652703199281)
 - [Diseñar un cuerpo propio en CAD](#2100614534423540102)
 - [Monster Block — 45 segundos para destrozar la ciudad](#2100636075039629796)
+- [Juego de tranvía aéreo en 3D entre islas flotantes](#2100838090210431302)
+- [Crea un mundo 3D fotorrealista](#2100844566718926949)
+- [Modelo interactivo de reloj IWC Schaffhausen](#2100956517633761447)
 - [ODD ARMS — Juego de supervivencia con armas extrañas](#odd-arms)
 - [AKARI: Relevo de la llama en las azoteas de Nagoya](#akari-nagoya-rooftop-flame-relay)
 - [La isla del cíclope](#cyclops-island-threejs-game)
@@ -142,11 +145,8 @@
 - [Una casa modelada desde cero en Blender](#2096576154337734865)
 - [Aventura de exploración The Quiet Crossing](#2096574297703637111)
 - [Locomotora de vapor por el campo](#2096577430274429157)
-- [Escena de un tocadiscos sobre una mesa](#2096561346766877106)
 - [Búsqueda del tesoro en una playa low poly](#2096570815714414844)
 - [Mango de la India en SpeedTree](#2096572429066006845)
-- [Texturas y rig de un personaje de Tripo](#2096566598689783878)
-- [Del boceto de un apartamento a interiores renderizados](#2096566686266597754)
 - [Atractor de Lorenz interactivo](#2096572156453028193)
 
 </details>
@@ -324,26 +324,6 @@ Remasteriza el clásico juego de «tocar para aletear» —ese en el que tocas p
 ```
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Publicación original](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Código fuente](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Demo en línea](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2096562462674079868"></a>
-
-### Simulación 3D de una explosión nuclear en una ciudad
-
-[Ashish Thakur](https://x.com/ashishthakur___) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096562462674079868"><img src="../assets/previews/e7222558f53aaf22484aa3c0cf3b3732d4481a0552afa4401ecb26fa0f7ef2af.jpg" width="840" loading="lazy" alt="Simulación 3D de una explosión nuclear en una ciudad"></a>
-
-Demostración 3D de una explosión nuclear en una ciudad, con destello nuclear, onda expansiva, bola de fuego, humo y edificios que se fracturan y colapsan a medida que los alcanza la explosión.
-
-**Prompt**
-
-```text
-Crea una demostración de una explosión nuclear con una ciudad en 3D, un destello nuclear, una onda expansiva creciente, una bola de fuego, humo y edificios que se fracturen y colapsen progresivamente cuando la explosión los alcance.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096562462674079868) · [Publicación original](https://x.com/ashishthakur___/status/2096562462674079868) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -3554,6 +3534,90 @@ Todos los personajes, figurantes del fondo y elementos de la estación deben com
 
 ---
 
+<a id="2100350159540596760"></a>
+
+### Escena interactiva de una hoguera con un caballero voxel
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-16
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100350159540596760"><img src="../assets/previews/c86d545b161a6223e73f07626532a18421dad108dd5d879ee1e9d26e60cb1329.jpg" width="840" loading="lazy" alt="Escena interactiva de una hoguera con un caballero voxel"></a>
+
+Escena interactiva de un campamento nocturno en un bosque de estilo voxel creada con Three.js, con un caballero construido de forma procedural, una hoguera, acciones seleccionables del caballero, cámaras predefinidas, HUD retro y audio ambiental sintetizado. El autor de la publicación afirma que proporcionó este prompt y una imagen a GPT-6 Astra.
+
+**Prompt**
+
+```text
+Eres un desarrollador sénior de WebGL y Three.js especializado en experiencias web creativas. Tu tarea es crear una escena 3D interactiva completa y lista para producción, contenida íntegramente en un único archivo HTML independiente (index.html), usando Three.js + webgl
+
+### 1. Tema visual y dirección artística
+
+- Atmósfera: Bosque profundo en plena noche, una acogedora hoguera resplandeciente y un caballero solitario y agotado descansando en el campamento (estética de la hoguera de Dark Souls / RPG retro clásico).
+- Estética: Arte de píxeles 3D / voxel / low-poly.
+- Sombreado y posprocesado: Integra el posprocesado de Three.js (RenderPixelatedPass o un efecto equivalente de pixelado y tramado a baja resolución) para lograr un aspecto retro auténtico de 16/32 bits.
+
+### 2. Geometría y recursos de la escena (100 % procedural; sin archivos .gltf/.obj externos)
+
+Todos los recursos deben construirse de forma procedural usando primitivas geométricas de Three.js (BoxGeometry, CylinderGeometry, etc.) y materiales básicos, para que el archivo se ejecute localmente sin problemas de CORS.
+
+1. Entorno del bosque:
+
+   - Terreno: Terreno oscuro estilizado con piedras voxel, setas y vegetación low-poly generadas proceduralmente.
+   - Árboles: Pinos/abetos procedurales o árboles de copas cúbicas alrededor del claro para crear profundidad y aislamiento.
+   - Cielo e iluminación: Cielo de medianoche profundo, con estrellas voxel parpadeantes y una DirectionalLight de luz lunar fría que proyecte sombras suaves.
+   - Profundidad: THREE.FogExp2 con un color atmosférico oscuro para integrar el horizonte.
+
+2. Hoguera:
+
+   - Círculo de piedras alrededor de troncos humeantes y brasas generadas proceduralmente.
+   - Sistema de fuego: Partículas pixeladas animadas (Points o mallas voxel pulsantes) que asciendan.
+   - Iluminación dinámica: PointLight naranja rojiza y cálida con una lógica de parpadeo continua y natural (mediante Math.sin, ruido o variaciones pseudoaleatorias).
+
+3. El caballero:
+
+   - Grafo de escena jerárquico (grupos para la cabeza, el torso, la parte superior e inferior de los brazos, las piernas, la capa y la espada) construido con primitivas voxelizadas.
+   - Detalles visuales: Casco con visera ranurada, armadura pectoral, hombreras, guanteletes y vaina/espada.
+   - Los puntos de pivote deben estar correctamente alineados en las articulaciones (hombros, codos, caderas y rodillas) para lograr animaciones de rotación procedurales limpias.
+
+### 3. Máquina de estados interactiva del caballero
+
+Implementa animaciones procedurales fluidas mediante interpolación lineal (lerp) o curvas trigonométricas dentro del bucle de renderizado para los siguientes estados seleccionables:
+
+- Sentarse junto al fuego (reposo predeterminado): Se sienta con las piernas cruzadas o en cuclillas, realiza sutiles ciclos de respiración y se calienta las manos cerca de las llamas.
+- Añadir leña: El caballero se levanta, recoge un tronco y lo lanza al fuego. La hoguera se aviva visiblemente, aumenta temporalmente el radio de su luz y emite una ráfaga de chispas.
+- Practicar con la espada: Se pone de pie, desenvaina la espada, ejecuta una rutina limpia de ataque/parada en 3 partes y vuelve a una guardia de combate.
+- Mirar a lo lejos: Camina hasta el borde del claro, clava la espada en el suelo y contempla la oscuridad mientras la capa ondea.
+- Dormir: Se tumba en un saco de dormir junto al fuego; partículas pixeladas animadas con forma de "Z z z" ascienden desde el casco.
+- Asar carne: Sostiene un palo con comida sobre las llamas y emite sutiles partículas procedurales de humo/vapor.
+
+### 4. Sistema de cámaras
+
+Incluye cambios entre cámaras predefinidas con una transición suave mediante interpolación (lerp) de la posición y el objetivo:
+
+- Primer plano acogedor: Plano medio centrado en el caballero y la luz de la hoguera.
+- RPG isométrico: Vista táctica clásica del claro desde arriba, con un ángulo elevado de 45 grados.
+- Plano cinematográfico a ras de suelo: Toma dramática desde un ángulo bajo, mirando hacia el caballero contra el cielo estrellado y las copas de los pinos.
+- Órbita libre: Cambio fluido a OrbitControls estándar para inspeccionar la escena de forma interactiva.
+
+### 5. Interfaz y audio
+
+- Estilo de la interfaz: HUD retro de RPG de 8/16 bits, con paneles oscuros semitransparentes, bordes pixelados y una fuente de Google integrada (por ejemplo, 'Press Start 2P').
+- Panel inferior: Botones de acción interactivos que activan cada estado del caballero.
+- Panel superior derecho: Botones para cambiar el ángulo de la cámara.
+- Contador de leña: Registra los troncos añadidos y la intensidad actual del fuego.
+- Sonido (Web Audio API): Crepitar del fuego y brisa nocturna/sonidos de grillos ambientales sintetizados proceduralmente, con un botón para silenciar/activar el sonido.
+
+### 6. Especificaciones técnicas
+
+- Un único archivo index.html independiente y autocontenido.
+- Usa módulos ES cargados mediante CDN (https://t.co/W8o3SZwkCj o unpkg).
+- Estructura de código modular y bien comentada (initScene, buildEnvironment, buildKnight, buildCampfire, setupUI, setupAudio, animate).
+- Control totalmente adaptable del cambio de tamaño de la ventana, actualizando la relación de aspecto de la cámara y la resolución del efecto de pixelado.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100350159540596760) · [Publicación original](https://x.com/vib3coded/status/2100350602316558428) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="2100519026720231698"></a>
 
 ### Añadir una cadena de mantenimiento a la barandilla
@@ -3733,6 +3797,67 @@ Comprueba las interfaces en inglés y chino en anchos de escritorio y de móvil 
 ```
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/monster-block) · [Publicación original](https://x.com/abc30037274/status/2100636075039629796) · [Demo en línea](https://monster-block.tripo.page/) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2100838090210431302"></a>
+
+### Juego de tranvía aéreo en 3D entre islas flotantes
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100838090210431302"><img src="../assets/previews/beed044dc7075346b2830bb1c618e8b8f142481efb63cc04db1116a2955d521a.jpg" width="840" loading="lazy" alt="Juego de tranvía aéreo en 3D entre islas flotantes"></a>
+
+Un comentario del autor verificado comparte el prompt completo que, según la publicación original, se ejecutó con GPT-6 y Gemini 4. Solicita un juego de tranvía jugable en el navegador, desarrollado con Three.js, ambientado en islas flotantes de estilo mediterráneo, con controles de conducción, puntuación basada en la comodidad de los pasajeros, estaciones, mejoras y compatibilidad con móviles.
+
+**Prompt**
+
+```text
+Crea un juego 3D en HTML/JS de un solo archivo (Three.js) que se pueda jugar directamente en el navegador, con un estilo de juego indie cálido, low-poly y cuidado, que evoque la atmósfera de un pueblo costero de Ghibli combinada con la fluidez de las vías de vagoneta de mina de Zelda.
+【Jugabilidad principal】  El jugador conduce un tranvía aéreo retro que viaja entre islas flotantes sobre un mar de nubes y la superficie del océano.  - La vía es una línea ferroviaria 3D continua con tramos rectos, pendientes ascendentes y descendentes, curvas elevadas y largos puentes sobre el mar  - Controles: W para acelerar (Potencia), S para frenar (Freno), izquierda y derecha para ajustar la conducción o cambiar la vista  - Información en tiempo real: velocidad en km/h, número de pasajeros a bordo (por ejemplo, 12/16 a bordo), condiciones de la vía (Estable / Viento cruzado)  - Sistema de comodidad de los pasajeros: las aceleraciones repentinas, los frenazos bruscos, tomar las curvas demasiado rápido y los vientos cruzados reducen la «comodidad de las piernas»; llegar al destino con suavidad otorga puntos de bonificación (por ejemplo, +75 al llegar)  - Racha: conducir de forma demasiado brusca activa el mensaje «Se acabó la racha. Encuentra el equilibrio para volver a acumular propinas».  - Llega a la estación y abre las puertas para que los pasajeros suban y bajen. En el andén, habrá habitantes haciendo cola, con subtítulos como «Puertas abriéndose - Mango Tide» y «Espera, por favor…»     [Mundo y estaciones]  Incluye al menos dos rutas o dos islas:  1. Terminal Saltlight  2. Mango Tide  La isla es rocosa y flota sobre las nubes, con pequeñas casas de estilo mediterráneo o del sur de Europa, tejados de tejas rojas, un faro, un muelle, árboles verdes, farolas y ventanas de luz cálida durante la noche. A lo lejos se ven más islas flotantes y órbitas circulares. El cielo presenta un degradado azul violáceo, del atardecer a la noche, con estrellas y nubes densas; debajo se extiende un mar de aguas azul celeste.     [Exterior del tranvía]  Tranvía retro: carrocería verde oscuro, chasis de color madera, ventanas de cristal curvadas, equipaje en el techo, adornos de toldo o enredaderas verdes y varios pasajeros sentados en el interior. Mientras avanza, debe balancearse ligeramente y transmitir la sensación del traqueteo de las vías, mediante efectos de sonido sencillos o señales visuales.     [Escena 2: Modificación en el taller]  Cambia a la vista isométrica cenital del taller «Cloudworks / Oliver Cloudworks / isla natal de Oliver».  Los jugadores pueden cambiar piezas del tranvía mediante una interfaz similar a una ventana emergente de mejoras:  - Hojas del hogar — Retirando la pieza antigua  - Pequeño compañero — Preparando el tranvía  Barra de progreso + «Relájate y observa el taller».  Tras la modificación, cambia el aspecto del tranvía (por ejemplo, techo verde, portaequipajes añadido, faroles y enredaderas); después, sale del taller con los subtítulos «Todos a bordo» y «Próxima parada: la línea costera».     [Interfaz]  Interfaz limpia y moderna, propia de un juego casual: destino y moneda o racha en la esquina superior izquierda; barra de velocidad y botones de Potencia/Freno en la parte inferior; barra de progreso de comodidad que conecta los nombres de las dos estaciones. Sin elementos innecesarios; no lo conviertas en un juego de terror ni cyberpunk.     [Requisitos técnicos]  - Un solo archivo o el mínimo número de archivos posible, con Three.js  - Usa curvas para la vía (CatmullRom, etc.) para que el tranvía siga los raíles; la cámara debe seguirlo con una ligera sensación de ir sobre raíles  - Sensación de física sencilla: inercia al acelerar, desaceleración al frenar y balanceo de la carrocería al tomar curvas  - En móviles, intenta admitir también toques para acelerar o frenar  - Código legible, con comentarios, y jugable en cuanto se abra.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100838090210431302) · [Publicación original](https://x.com/YouWareAI/status/2100838828433179037) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2100844566718926949"></a>
+
+### Crea un mundo 3D fotorrealista
+
+[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100844566718926949"><img src="../assets/previews/f8596f35d968eda4e24acabd4e2405d42aae7745029b8cf3426d550a2bd2cd52.jpg" width="840" loading="lazy" alt="Crea un mundo 3D fotorrealista"></a>
+
+Una solicitud sugerida de un solo prompt en la publicación principal para crear un mundo 3D fotorrealista y explorable. La publicación lo presenta como parte de un flujo de trabajo con Blender MCP; no establece que este prompt exacto se haya utilizado como entrada para la demostración adjunta.
+
+**Prompt**
+
+```text
+Crea un mundo 3D fotorrealista. Sorpréndeme.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100844566718926949) · [Publicación original](https://x.com/JulianGoldieSEO/status/2100844566718926949) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2100956517633761447"></a>
+
+### Modelo interactivo de reloj IWC Schaffhausen
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100956517633761447"><img src="../assets/previews/d7437e20a189ef08ef24c9272fa803e0f9e8d7da7da70314a92980db6a752bdc.jpg" width="840" loading="lazy" alt="Modelo interactivo de reloj IWC Schaffhausen"></a>
+
+Un comentario de autor verificado incluye un prompt para un modelo 3D interactivo de un reloj IWC Schaffhausen en Three.js, con un nivel de detalle muy alto. Especifica componentes mecánicos distinguibles individualmente, cristal de zafiro realista, movimiento de las agujas en tiempo real y una interacción de desmontaje y montaje mediante vista explosionada. La publicación principal lo presenta como el prompt compartido en una comparación en la que participan GPT-6 Astra y otros modelos.
+
+**Prompt**
+
+```text
+Usa Three.js para desarrollar un modelo 3D interactivo y altamente fiel de un reloj IWC Schaffhausen. Requisitos: 1) La estructura de la esfera debe ser extremadamente precisa, con cada componente mecánico representado de forma individual y claramente distinguible; 2) La esfera del reloj debe utilizar un material de cristal de zafiro con efectos realistas de transparencia, refracción y reflexión; 3) Las agujas de los minutos y los segundos deben indicar correctamente la hora según la lógica de un reloj en tiempo real, con una animación automática y continua del movimiento de las agujas; 4) El reloj debe admitir su desmontaje y montaje, de modo que cada pieza pueda separarse y visualizarse individualmente; 5) El nivel de detalle general debe ser extremadamente alto y aproximarse a la estructura y las proporciones de un reloj real, con texturas de materiales realistas para los tornillos, las piezas metálicas y otros componentes, además de un acabado artesanal minucioso. Asegúrate de que el modelo funcione con fluidez en el navegador y ofrezca una interacción natural.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100956517633761447) · [Publicación original](https://x.com/YouWareAI/status/2100958838350643553) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -4048,24 +4173,6 @@ Modela una locomotora de vapor en Three.js y anímala recorriendo una escena rur
 
 ---
 
-<a id="2096561346766877106"></a>
-
-### Escena de un tocadiscos sobre una mesa
-
-[Nitesh Seram](https://x.com/niteshseram) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106"><img src="../assets/previews/51118e05b31dbe92e3cca2db56ddfa5ea034e0fdd2eaa943af8aad73515392d8.webp" width="840" loading="lazy" alt="Escena de un tocadiscos sobre una mesa"></a>
-
-**Prompt**
-
-```text
-Crea una escena en Three.js con un tocadiscos sobre una mesa. Prepara una presentación de producto en la que se enciendan las lámparas y la cámara muestre el tocadiscos y los muebles cercanos.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106) · [Publicación original](https://x.com/niteshseram/status/2096561346766877106) · [Volver a los ejemplos](#all-prompts)
-
----
-
 <a id="2096570815714414844"></a>
 
 ### Búsqueda del tesoro en una playa low poly
@@ -4102,42 +4209,6 @@ Crea un mango de la India en SpeedTree para una escena de Unreal con un objetivo
 
 ---
 
-<a id="2096566598689783878"></a>
-
-### Texturas y rig de un personaje de Tripo
-
-[たけうちさんは縮退しました🌀](https://x.com/chimerast) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878"><img src="../assets/previews/409939b647056905bc163425f4e5f1b7447f4a4f807b3e112ef99e2e09e34691.webp" width="840" loading="lazy" alt="Texturas y rig de un personaje de Tripo"></a>
-
-**Prompt**
-
-```text
-Lleva un personaje de Tripo Smart Mesh a Blender. Aplica sus texturas y crea un rig corporal utilizable antes de pasar a las expresiones faciales.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878) · [Publicación original](https://x.com/chimerast/status/2096566598689783878) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2096566686266597754"></a>
-
-### Del boceto de un apartamento a interiores renderizados
-
-[Everett World](https://x.com/WorldEverett) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754"><img src="../assets/previews/76eeeaa8710b4767fb99c09689e3a0b87ba770495f026e34ea34cb2b5f1f76fc.webp" width="840" loading="lazy" alt="Del boceto de un apartamento a interiores renderizados"></a>
-
-**Prompt**
-
-```text
-Combina imágenes de referencia de un apartamento con un plano sencillo dibujado a mano para reconstruir el interior en Blender. Entrega una escena editable, renders de las habitaciones y un breve recorrido de vídeo editado.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754) · [Publicación original](https://x.com/WorldEverett/status/2096566686266597754) · [Volver a los ejemplos](#all-prompts)
-
----
-
 <a id="2096572156453028193"></a>
 
 ### Atractor de Lorenz interactivo
@@ -4159,7 +4230,7 @@ Visualiza dos trayectorias del sistema de Lorenz con una diferencia mínima en l
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 250 ejemplos en el sitio oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 254 ejemplos en el sitio oficial →</a></strong></p>
 <p><sub>Para que el README de GitHub se renderice con fluidez, aquí solo se muestran los 100 ejemplos más recientes.</sub></p>
 <br>
 </td></tr>

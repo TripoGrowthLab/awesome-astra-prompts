@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "model": "gpt-6-astra",
   "count": 100,
-  "totalCount": 250,
+  "totalCount": 254,
   "sourceCodeCount": 12,
   "limit": 100,
   "locales": [
@@ -28,7 +28,6 @@
     "2099206962344800541",
     "2100271998618177864",
     "mosswing-mobile-3d-tap-to-flap-game",
-    "2096562462674079868",
     "2096593372311941143",
     "2096596888799895855",
     "2096612394281603144",
@@ -102,11 +101,15 @@
     "2100193512373592313",
     "2100222426705453318",
     "2100233407108137349",
+    "2100350159540596760",
     "2100519026720231698",
     "2100526922770026874",
     "2100595652703199281",
     "2100614534423540102",
     "2100636075039629796",
+    "2100838090210431302",
+    "2100844566718926949",
+    "2100956517633761447",
     "odd-arms",
     "akari-nagoya-rooftop-flame-relay",
     "cyclops-island-threejs-game",
@@ -116,11 +119,8 @@
     "2096576154337734865",
     "2096574297703637111",
     "2096577430274429157",
-    "2096561346766877106",
     "2096570815714414844",
     "2096572429066006845",
-    "2096566598689783878",
-    "2096566686266597754",
     "2096572156453028193"
   ],
   "featuredPromptIds": [
@@ -136,7 +136,6 @@
     "2099206962344800541",
     "2100271998618177864",
     "mosswing-mobile-3d-tap-to-flap-game",
-    "2096562462674079868",
     "2096593372311941143",
     "2096596888799895855",
     "2096612394281603144",
@@ -210,11 +209,15 @@
     "2100193512373592313",
     "2100222426705453318",
     "2100233407108137349",
+    "2100350159540596760",
     "2100519026720231698",
     "2100526922770026874",
     "2100595652703199281",
     "2100614534423540102",
     "2100636075039629796",
+    "2100838090210431302",
+    "2100844566718926949",
+    "2100956517633761447",
     "odd-arms",
     "akari-nagoya-rooftop-flame-relay",
     "cyclops-island-threejs-game",
@@ -224,11 +227,8 @@
     "2096576154337734865",
     "2096574297703637111",
     "2096577430274429157",
-    "2096561346766877106",
     "2096570815714414844",
     "2096572429066006845",
-    "2096566598689783878",
-    "2096566686266597754",
     "2096572156453028193",
     "2096467585785286808",
     "2081024333120733188"
@@ -236,78 +236,78 @@
   "files": [
     {
       "path": "assets/manifest.json",
-      "sha256": "be4606d66b176e25808ab7928ff00b9475974acb2ea5ffb6929a17e66068b201",
-      "bytes": 55745
+      "sha256": "5e049e6cc125c710e70f697c8ba371c8439712d08d663aec8927490fcf127cc9",
+      "bytes": 55698
     },
     {
       "path": "docs/catalog.de.md",
-      "sha256": "e4e9c157157f193bf880766d0317f0c86cbd56a25296ade87d77e7ee4a88ce9f",
-      "bytes": 315611
+      "sha256": "c41882e5ad3b96bc142c1ecc887e7a664453e042ae16a9f1be2316862e927f2a",
+      "bytes": 326262
     },
     {
       "path": "docs/catalog.en.md",
-      "sha256": "d69fafef54920d74fe809d967db1c91e0688b01aeb97eb84cadc0576acaa0f5a",
-      "bytes": 271310
+      "sha256": "a303602fdf871fb266b04713b8e593cd8dcbfa011ea88a25fef6589f3222216c",
+      "bytes": 280231
     },
     {
       "path": "docs/catalog.es.md",
-      "sha256": "1a76d84be7bf41826564b4117fc17faffa6f852f5efc1e0a3f7baab36f63d127",
-      "bytes": 317526
+      "sha256": "6d0e687151e0c5adc25a3cdb99ea58c455526573bee09e96f9e34cd93c18519a",
+      "bytes": 328392
     },
     {
       "path": "docs/catalog.fr.md",
-      "sha256": "59627946889742ac3c30dbcd66e755fdcfc90f6dd77c01150e22fbf648f3c7ca",
-      "bytes": 330727
+      "sha256": "0f32a5489a215a2f67265571f47e0ef32a8b1dc2899264e42012dc8da5297f6f",
+      "bytes": 342059
     },
     {
       "path": "docs/catalog.it.md",
-      "sha256": "e4c033325b9b4be4a67e3551d4af65692873df0bc13bf0a523a54c1daf04340b",
-      "bytes": 310851
+      "sha256": "7eb8fb9070eaea836c91c07960177ffb3084c406d150b28e1c5113240f84804c",
+      "bytes": 321285
     },
     {
       "path": "docs/catalog.ja.md",
-      "sha256": "1248d3fe1affdb4137ad1c82627e1c5d00da61f9a6f54b815cd6b7666794726a",
-      "bytes": 340876
+      "sha256": "026c8e83be18d331f4a4277c1049cdb50db864fa72f651f901b9ea50688d9357",
+      "bytes": 353054
     },
     {
       "path": "docs/catalog.ko.md",
-      "sha256": "f2412ff86df546f8b2ffbc47345b2b6fccce16fa7b3f2fc9a6ccce686cd202fa",
-      "bytes": 325594
+      "sha256": "be342c7274504dc26fbcd4d74351de33243d1335a49a0bd3f69f2d59371a66c0",
+      "bytes": 336677
     },
     {
       "path": "docs/catalog.pt.md",
-      "sha256": "ca1ab0f43cba2dab5468c4f049974fa065c8106fb9c13d00103d472aa2516524",
-      "bytes": 307853
+      "sha256": "0975977e6e1efe38773e738c4beac580801a6dec2b6785ac8be664ec41ea4f95",
+      "bytes": 318399
     },
     {
       "path": "docs/catalog.ru.md",
-      "sha256": "e1cdac49ad06782c7431be6856b191f9146104fd35b2cf0ce502ded2b81c9f4e",
-      "bytes": 471189
+      "sha256": "5b6ca33e2fb2ac0b1d76b86c6d488708f1577b7c50a1d56441e1fb55d53d5107",
+      "bytes": 488808
     },
     {
       "path": "docs/catalog.tr.md",
-      "sha256": "0975a5265722d7cd9cc08f9d8c49f0374445fa10db1b59595c737ff0a28a7cf3",
-      "bytes": 310957
+      "sha256": "90c8cabdb4eefc8f9950dfbb203a24695f4598a8802ebf13df7f3ebcc95ed55e",
+      "bytes": 321659
     },
     {
       "path": "docs/catalog.uk.md",
-      "sha256": "9e5d35cbdc3b31d9644b37d1e6d0b526fe2cc89a427ebcdef3ed05dc3703183a",
-      "bytes": 472534
+      "sha256": "e78a13064efa84f6d68a9ded3ef6080d8970d037966380df824e9a32dbcf783e",
+      "bytes": 489964
     },
     {
       "path": "docs/catalog.vi.md",
-      "sha256": "ff10b7b782802a7f542503876b9c3c170f549a6241676527c056ee50cec69447",
-      "bytes": 347322
+      "sha256": "4efdc40ba5a85297f0efb6e13ed3d7fee1cab1977a09b7a9b6d6b43a7a3b2233",
+      "bytes": 359198
     },
     {
       "path": "docs/catalog.zh-Hant.md",
-      "sha256": "2490fb23847196f416f44fd6aadb8ef1f6d6c7dbedb077aa14eb76db99ad76ff",
-      "bytes": 258883
+      "sha256": "1f43dae3802aa3f39489c88ea3a94241deb9e5a4f70750d57f44c2dfa1b052de",
+      "bytes": 267416
     },
     {
       "path": "docs/catalog.zh.md",
-      "sha256": "65389be0543fe238128f78473d19664813053abf2a50a3e4a80f54db58d532bb",
-      "bytes": 256009
+      "sha256": "92e9da8786c2b88f4e53249d9cecf65c2031c429a79423a9d779431bf1841417",
+      "bytes": 264700
     },
     {
       "path": "docs/with-code.md",
@@ -316,13 +316,13 @@
     },
     {
       "path": "README.md",
-      "sha256": "228aaef0350086ba70865b9229b32c6ec7d5ef21ec34a5f6a43d288c273dae9e",
-      "bytes": 270896
+      "sha256": "926a027fd0e53faf381360bb4043ec6e587cc1e7eb89482a2284bcfd22e656cd",
+      "bytes": 279817
     },
     {
       "path": "README.zh-CN.md",
-      "sha256": "8bce7c12b4293d79914eb4d5af0d5dd4760d99c5bb6c576841f64a62db458395",
-      "bytes": 255595
+      "sha256": "c0b29bbbdd2bcfdad487351a5155cff3966404f3507a3b6162adce063eedf7eb",
+      "bytes": 264286
     }
   ]
 }

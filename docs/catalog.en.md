@@ -27,7 +27,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**250 examples · 14 languages · 12 examples with source code**
+**254 examples · 14 languages · 12 examples with source code**
 
 ## Featured projects
 
@@ -55,7 +55,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Interactive 3D Anatomy Explorer](#2099206962344800541) · GitHub
 - [Isometric fantasy graphics demo](#2100271998618177864) · GitHub
 - [Mosswing: Mobile 3D Tap-to-Flap Game](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Nuclear Explosion 3D City Simulation](#2096562462674079868)
 - [Totality Engine: Cinematic Eclipse Cathedral](#2096593372311941143)
 - [Create CS2 in Three.js](#2096596888799895855)
 - [Folding Carton Animation from a Dieline](#2096612394281603144)
@@ -129,11 +128,15 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [PC Splatoon Development and Graphics Recreation](#2100193512373592313)
 - [Interactive apartment walkthrough with tile options](#2100222426705453318)
 - [AAA CGI Supernatural Fight Short Set in an Underground Station](#2100233407108137349)
+- [Interactive voxel knight campfire scene](#2100350159540596760)
 - [Add a Maintenance Chain to a Handrail](#2100519026720231698)
 - [Create a 3D Racing Game](#2100526922770026874)
 - [Browser 3D Escape Game: Escape from a Sealed Research Facility](#2100595652703199281)
 - [CAD itself a body](#2100614534423540102)
 - [Monster Block — 45 Seconds to Wreck the City](#2100636075039629796)
+- [3D aerial tram game between floating islands](#2100838090210431302)
+- [Build a photorealistic 3D world](#2100844566718926949)
+- [Interactive IWC Schaffhausen Watch Model](#2100956517633761447)
 - [ODD ARMS — Weird Weapons Survival Game](#odd-arms)
 - [AKARI: Nagoya Rooftop Flame Relay](#akari-nagoya-rooftop-flame-relay)
 - [The Cyclops' Island](#cyclops-island-threejs-game)
@@ -143,11 +146,8 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [A house modeled from scratch in Blender](#2096576154337734865)
 - [The Quiet Crossing exploration quest](#2096574297703637111)
 - [Steam locomotive across the countryside](#2096577430274429157)
-- [Vinyl-player tabletop scene](#2096561346766877106)
 - [Low-poly beach treasure hunt](#2096570815714414844)
 - [Indian mango tree in SpeedTree](#2096572429066006845)
-- [Texture and rig a Tripo character](#2096566598689783878)
-- [Apartment sketch to rendered interiors](#2096566686266597754)
 - [Interactive Lorenz attractor](#2096572156453028193)
 
 </details>
@@ -325,26 +325,6 @@ Remaster the classic "tap-to-flap" game — the one where you tap to keep a smal
 ```
 
 [View detail ↗](https://www.tripo3d.ai/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Original post](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Source code](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Live demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Back to examples](#all-prompts)
-
----
-
-<a id="2096562462674079868"></a>
-
-### Nuclear Explosion 3D City Simulation
-
-[Ashish Thakur](https://x.com/ashishthakur___) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096562462674079868"><img src="../assets/previews/e7222558f53aaf22484aa3c0cf3b3732d4481a0552afa4401ecb26fa0f7ef2af.jpg" width="840" loading="lazy" alt="Nuclear Explosion 3D City Simulation"></a>
-
-A 3D nuclear explosion demonstration featuring a city, nuclear flash, expanding shockwave, fireball, smoke, and buildings that fracture and collapse as the blast reaches them.
-
-**Prompt**
-
-```text
-Create nuclear explosion demo with a 3D city, nuclear flash, expanding shockwave, fireball, smoke, and buildings that progressively fracture/collapse when the blast reaches them
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096562462674079868) · [Original post](https://x.com/ashishthakur___/status/2096562462674079868) · [Back to examples](#all-prompts)
 
 ---
 
@@ -3584,6 +3564,90 @@ Strictly prohibit background music: at no point may the film generate background
 
 ---
 
+<a id="2100350159540596760"></a>
+
+### Interactive voxel knight campfire scene
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-16
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100350159540596760"><img src="../assets/previews/c86d545b161a6223e73f07626532a18421dad108dd5d879ee1e9d26e60cb1329.jpg" width="840" loading="lazy" alt="Interactive voxel knight campfire scene"></a>
+
+An interactive Three.js voxel-style night-forest camp scene with a procedurally built knight, campfire, selectable knight actions, camera presets, retro HUD, and synthesized ambient audio. The posting author states that they supplied GPT-6 Astra with this prompt and an image.
+
+**Prompt**
+
+```text
+You are a Senior Creative WebGL & Three.js Developer. Your task is to build a complete, production-ready, interactive 3D scene contained entirely within a single standalone HTML file (index.html) using Three.js + webgl
+
+### 1. Visual Theme & Art Direction
+
+- Atmosphere: Deep night forest, cozy glowing campfire, solitary weary knight resting at the campsite (Dark Souls bonfire / classic retro RPG aesthetic).
+- Aesthetic: 3D Pixel Art / Voxel / Low-Poly aesthetic.
+- Shading & Post-Processing: Integrate Three.js post-processing (RenderPixelatedPass or an equivalent low-resolution pixelation/dithering effect) to achieve an authentic 16-bit/32-bit retro look.
+
+### 2. Scene Geometry & Assets (100% Procedural — No External .gltf/.obj Files)
+
+All assets must be constructed procedurally using Three.js geometric primitives (BoxGeometry, CylinderGeometry, etc.) and basic materials so the file runs locally without CORS issues.
+
+1. Forest Environment:
+
+   - Ground: Dark stylized terrain with procedural voxel stones, mushrooms, and low-poly foliage.
+   - Trees: Procedural pine/spruce or blocky canopy trees surrounding the clearing to create depth and seclusion.
+   - Sky & Lighting: Deep midnight sky with flickering voxel stars and a cool moonlight DirectionalLight casting soft shadows.
+   - Depth: THREE.FogExp2 with a dark atmospheric color to blend the horizon.
+
+2. Campfire:
+
+   - Stone circle surrounding smoldering logs and procedural ember embers.
+   - Fire System: Animated pixelated particles (Points or pulsing voxel meshes) rising upward.
+   - Dynamic Lighting: Warm orange-red PointLight with continuous, natural flicker logic (using Math.sin, noise, or pseudo-random variations).
+
+3. The Knight:
+
+   - Hierarchical scene graph (groups for head, torso, upper/lower arms, legs, cape, and sword) built from voxelized primitives.
+   - Visual details: Slotted helmet, chest armor, pauldrons, gauntlets, and a sheath/sword.
+   - Pivot points must be aligned correctly at joints (shoulders, elbows, hips, knees) for clean procedural rotation animations.
+
+### 3. Interactive Knight State Machine
+
+Implement smooth procedural animations using linear interpolation (lerp) or trigonometric curves inside the render loop for the following selectable states:
+
+- Sit by Fire (Default Idle): Sits cross-legged or crouched, subtle breathing cycles, warming hands near the flames.
+- Add Firewood: Knight stands up, retrieves a log, and tosses it onto the fire. The fire visibly flares up, expands its light radius temporarily, and emits a burst of sparks.
+- Sword Practice: Stands up, draws the sword, executes a clean 3-part attack/parry routine, and returns to a combat guard stance.
+- Look into the Distance: Walks to the edge of the clearing, plants the sword into the ground, and stares out into the dark while the cape sways.
+- Sleep: Lies down on a bedroll beside the fire; floating animated pixel "Z z z" particles rise from the helmet.
+- Roast Meat: Holds a stick with food over the flame; emits subtle procedural smoke/steam particles.
+
+### 4. Camera System
+
+Provide preset camera switches with smooth transition interpolation (lerping position and target):
+
+- Cozy Close-up: Medium shot focusing on the knight and the firelight.
+- Isometric RPG: Classic high 45-degree tactical overview of the clearing.
+- Cinematic Ground: Low-angle dramatic shot looking upward at the knight against the starry sky and pine canopies.
+- Free Orbit: Seamless switch to standard OrbitControls for interactive inspection.
+
+### 5. UI & Audio
+
+- UI Style: Retro 8-bit/16-bit RPG HUD layout using semi-transparent dark frames with pixelated borders and an embedded Google Font (e.g., 'Press Start 2P').
+- Bottom Panel: Interactive action buttons triggering each knight state.
+- Top-Right Panel: Camera angle switcher buttons.
+- Firewood Counter: Tracks logs added and current fire intensity.
+- Sound (Web Audio API): Procedurally synthesized fire crackle and ambient night breeze/crickets, with a mute/unmute toggle button.
+
+### 6. Technical Specifications
+
+- Single, self-contained index.html file.
+- Use ES Modules loaded via CDN (https://t.co/W8o3SZwkCj or unpkg).
+- Modular, well-commented code structure (initScene, buildEnvironment, buildKnight, buildCampfire, setupUI, setupAudio, animate).
+- Fully responsive window resize handler updating camera aspect ratio and pixelation pass resolution.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100350159540596760) · [Original post](https://x.com/vib3coded/status/2100350602316558428) · [Back to examples](#all-prompts)
+
+---
+
 <a id="2100519026720231698"></a>
 
 ### Add a Maintenance Chain to a Handrail
@@ -3763,6 +3827,67 @@ Check English and Chinese layouts at desktop and narrow mobile widths, including
 ```
 
 [View detail ↗](https://www.tripo3d.ai/3d-prompts/monster-block) · [Original post](https://x.com/abc30037274/status/2100636075039629796) · [Live demo](https://monster-block.tripo.page/) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2100838090210431302"></a>
+
+### 3D aerial tram game between floating islands
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100838090210431302"><img src="../assets/previews/beed044dc7075346b2830bb1c618e8b8f142481efb63cc04db1116a2955d521a.jpg" width="840" loading="lazy" alt="3D aerial tram game between floating islands"></a>
+
+A verified author comment shares the full prompt that the root post says was run against GPT-6 and Gemini 4. It requests a playable browser-based Three.js tram game set on floating Mediterranean-style islands, with driving controls, passenger-comfort scoring, stations, upgrades, and mobile support.
+
+**Prompt**
+
+```text
+Create a single-file HTML/JS 3D game (Three.js) that can be played directly in the browser, with a warm, low-poly but polished indie game style, evoking the feel of a Ghibli seaside town combined with the smoothness of Zelda's mine cart tracks.
+【Core Gameplay】  The player drives a retro aerial tram, traveling between islands floating above a sea of clouds and the ocean surface.  - The track is a continuous 3D railway, featuring straight sections, uphill slopes, downhill slopes, elevated curves, and long bridges across the sea  - Controls: W to accelerate (Power), S to brake (Brake), left and right for fine-tuning or switching the view  - Real-time display: speed in km/h, number of passengers on board (e.g., 12/16 aboard), road conditions (Steady / Crosswind)  - Passenger comfort system: sudden acceleration, hard braking, taking corners too fast, and crosswinds all reduce "leg comfort"; arriving at the destination smoothly earns bonus points (e.g., +75 at arrival)  - Streak: driving too bumpily will trigger the message "Streak broken. Find your balance to rebuild your tips."  - Arrive at the station, open the doors for passengers to get on and off. On the platform, there are townsfolk queuing up, with subtitles such as "Doors opening - Mango Tide," "Please wait…"     [World and Stations]  At least two routes/two islands:  1. Saltlight Terminus  2. Mango Tide  The island is a rocky island floating above the clouds, with small Mediterranean/Southern European-style houses with red-tiled roofs, a lighthouse, a dock, green trees, streetlights, and warm yellow windows at night. In the distance, there are more floating islands and circling orbits. The sky is a blue-purple gradient from dusk to night, with stars and thick clouds, and below is azure seawater.     [Tram Exterior]  Retro tram: dark green body, wood-colored chassis, curved glass windows, roof luggage, green awning/vine decorations, and various passengers sitting inside. While moving, there is a slight swaying motion and a sense of track sounds (which can be conveyed with simple sound effects or visual cues).     [Scene 2: Workshop Modification]  Switch to the top-down isometric view of the workshop "Cloudworks / Oliver Cloudworks / Oliver's home island."  Players can swap parts for the tram, with an interface like an upgrade pop-up:  - Hearth leaves — Lifting the old part  - Little Companion — Preparing the tram  Progress bar + "Sit back and watch the workshop."  Changes to the tram's appearance after modification (e.g., green roof, added luggage rack, lanterns, vines), then it drives out of the workshop, subtitles "All aboard." / "Next stop: the Coastal Line."     [UI]  Clean modern casual game UI: destination and currency/streak in the top-left, speed bar and Power/Brake buttons at the bottom, comfort progress bar connecting the two station names. No clutter, don't make it horror or cyberpunk.     [Technical Requirements]  - Single file or minimal files, Three.js  - Use curves for the track (CatmullRom, etc.) so the tram follows the rails, camera follows with a slight rail feel  - Simple physics feel: acceleration inertia, braking deceleration, body roll when cornering  - On mobile, try to also support tap to accelerate/brake  - Readable code, with comments, playable as soon as it's opened.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100838090210431302) · [Original post](https://x.com/YouWareAI/status/2100838828433179037) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2100844566718926949"></a>
+
+### Build a photorealistic 3D world
+
+[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100844566718926949"><img src="../assets/previews/f8596f35d968eda4e24acabd4e2405d42aae7745029b8cf3426d550a2bd2cd52.jpg" width="840" loading="lazy" alt="Build a photorealistic 3D world"></a>
+
+A suggested one-prompt request in the root post for a photorealistic, walk-through 3D world. The post presents this as part of a Blender MCP workflow; it does not establish that this exact prompt was the input for the accompanying showcase.
+
+**Prompt**
+
+```text
+Build a photorealistic 3D world. Surprise me.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100844566718926949) · [Original post](https://x.com/JulianGoldieSEO/status/2100844566718926949) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2100956517633761447"></a>
+
+### Interactive IWC Schaffhausen Watch Model
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100956517633761447"><img src="../assets/previews/d7437e20a189ef08ef24c9272fa803e0f9e8d7da7da70314a92980db6a752bdc.jpg" width="840" loading="lazy" alt="Interactive IWC Schaffhausen Watch Model"></a>
+
+A verified author comment supplies a prompt for a highly detailed Three.js interactive 3D IWC Schaffhausen watch. It specifies individually distinguishable mechanical components, realistic sapphire glass, real-time hand movement, and an exploded disassembly/reassembly interaction. The root post presents this as the shared prompt in a comparison involving GPT-6 Astra and other models.
+
+**Prompt**
+
+```text
+Use Three.js to develop a highly faithful 3D interactive watch model of an IWC Schaffhausen timepiece. Requirements: 1) The dial structure must be highly precise, with every mechanical component individually rendered and clearly distinguishable; 2) The watch face must use a sapphire glass material with realistic transparency, refraction, and reflection effects; 3) The minute hand and second hand must be correct hands that follow real timekeeping logic, with automatic continuous hand-sweep animation; 4) Support disassembly and reassembly of the watch, with each part able to be separated and viewed individually; 5) The overall level of detail must be extremely high, closely matching the structure and proportions of a real watch, with realistic material textures for screws, metal parts, and other components, and fine craftsmanship. Please ensure the model runs smoothly in the browser and interacts naturally.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100956517633761447) · [Original post](https://x.com/YouWareAI/status/2100958838350643553) · [Back to examples](#all-prompts)
 
 ---
 
@@ -4078,24 +4203,6 @@ Model a steam locomotive in Three.js and animate it travelling through a country
 
 ---
 
-<a id="2096561346766877106"></a>
-
-### Vinyl-player tabletop scene
-
-[Nitesh Seram](https://x.com/niteshseram) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106"><img src="../assets/previews/51118e05b31dbe92e3cca2db56ddfa5ea034e0fdd2eaa943af8aad73515392d8.webp" width="840" loading="lazy" alt="Vinyl-player tabletop scene"></a>
-
-**Prompt**
-
-```text
-Build a Three.js vinyl-player scene on a table. Stage a product-style demonstration with lamps switching on and a camera that shows the player and surrounding furniture.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106) · [Original post](https://x.com/niteshseram/status/2096561346766877106) · [Back to examples](#all-prompts)
-
----
-
 <a id="2096570815714414844"></a>
 
 ### Low-poly beach treasure hunt
@@ -4132,42 +4239,6 @@ Create an Indian mango tree in SpeedTree for an Unreal scene targeting 60 FPS. G
 
 ---
 
-<a id="2096566598689783878"></a>
-
-### Texture and rig a Tripo character
-
-[たけうちさんは縮退しました🌀](https://x.com/chimerast) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878"><img src="../assets/previews/409939b647056905bc163425f4e5f1b7447f4a4f807b3e112ef99e2e09e34691.webp" width="840" loading="lazy" alt="Texture and rig a Tripo character"></a>
-
-**Prompt**
-
-```text
-Take a Tripo Smart Mesh character into Blender. Apply its textures and build a usable body rig before moving on to facial expressions.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878) · [Original post](https://x.com/chimerast/status/2096566598689783878) · [Back to examples](#all-prompts)
-
----
-
-<a id="2096566686266597754"></a>
-
-### Apartment sketch to rendered interiors
-
-[Everett World](https://x.com/WorldEverett) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754"><img src="../assets/previews/76eeeaa8710b4767fb99c09689e3a0b87ba770495f026e34ea34cb2b5f1f76fc.webp" width="840" loading="lazy" alt="Apartment sketch to rendered interiors"></a>
-
-**Prompt**
-
-```text
-Combine apartment reference images with a simple floor-plan sketch to reconstruct the interior in Blender. Deliver an editable scene, room renders and a short edited walkthrough.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754) · [Original post](https://x.com/WorldEverett/status/2096566686266597754) · [Back to examples](#all-prompts)
-
----
-
 <a id="2096572156453028193"></a>
 
 ### Interactive Lorenz attractor
@@ -4189,7 +4260,7 @@ Visualize two Lorenz-system trajectories with a tiny initial-position difference
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 250 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 254 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>

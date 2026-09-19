@@ -26,7 +26,7 @@
 **為你的下一個遊戲、場景或互動世界尋找靈感。**
 
 
-**250 · 最新 Astra 提示詞**
+**254 · 最新 Astra 提示詞**
 
 ## 精選作品
 
@@ -54,7 +54,6 @@
 - [互動式 3D 解剖探索器](#2099206962344800541) · GitHub
 - [等角視角奇幻 3D 圖形展示](#2100271998618177864) · GitHub
 - [Mosswing：行動版 3D 點按拍翅遊戲](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [核爆炸 3D 城市模擬](#2096562462674079868)
 - [Totality Engine：電影感日蝕大教堂](#2096593372311941143)
 - [使用 Three.js 建立 CS2](#2096596888799895855)
 - [從刀模圖到紙盒摺疊動畫](#2096612394281603144)
@@ -128,11 +127,15 @@
 - [PC 版 Splatoon 開發與畫面重現](#2100193512373592313)
 - [可選擇地磚的互動式公寓導覽](#2100222426705453318)
 - [地下車站中的 AAA CGI 超自然格鬥短片](#2100233407108137349)
+- [互動式體素騎士篝火場景](#2100350159540596760)
 - [為欄杆新增維修用鏈條](#2100519026720231698)
 - [製作 3D 賽車遊戲](#2100526922770026874)
 - [逃離封閉研究設施的瀏覽器 3D 遊戲](#2100595652703199281)
 - [用 CAD 設計身體](#2100614534423540102)
 - [怪獸街區——45 秒摧毀城市](#2100636075039629796)
+- [漂浮群島間的 3D 空中電車遊戲](#2100838090210431302)
+- [打造照片級寫實的 3D 世界](#2100844566718926949)
+- [互動式 IWC Schaffhausen 手錶模型](#2100956517633761447)
 - [ODD ARMS — 怪奇武器生存遊戲](#odd-arms)
 - [AKARI：名古屋屋頂火炬接力](#akari-nagoya-rooftop-flame-relay)
 - [獨眼巨人的島嶼](#cyclops-island-threejs-game)
@@ -142,11 +145,8 @@
 - [在 Blender 中從零建立住宅](#2096576154337734865)
 - [The Quiet Crossing 雪地探索任務](#2096574297703637111)
 - [穿越鄉間的蒸汽火車](#2096577430274429157)
-- [桌上的黑膠唱片機場景](#2096561346766877106)
 - [低多邊形海灘尋寶遊戲](#2096570815714414844)
 - [用 SpeedTree 製作印度芒果樹](#2096572429066006845)
-- [替 Tripo 角色貼圖並綁定骨架](#2096566598689783878)
-- [從公寓草圖到室內算繪](#2096566686266597754)
 - [可互動的勞侖茲吸引子](#2096572156453028193)
 
 </details>
@@ -324,26 +324,6 @@
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [查看原文](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [專案原始碼](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [線上展示](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2096562462674079868"></a>
-
-### 核爆炸 3D 城市模擬
-
-[Ashish Thakur](https://x.com/ashishthakur___) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096562462674079868"><img src="../assets/previews/e7222558f53aaf22484aa3c0cf3b3732d4481a0552afa4401ecb26fa0f7ef2af.jpg" width="840" loading="lazy" alt="核爆炸 3D 城市模擬"></a>
-
-以城市為場景的 3D 核爆炸示範，呈現核閃光、擴散中的衝擊波、火球與煙霧，以及爆炸波及建築物時造成的龜裂與坍塌。
-
-**提示詞**
-
-```text
-建立核爆炸示範：包含 3D 城市、核閃光、擴散中的衝擊波、火球與煙霧，並讓建築物在爆炸波及時逐步龜裂並坍塌
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096562462674079868) · [查看原文](https://x.com/ashishthakur___/status/2096562462674079868) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -3581,6 +3561,90 @@ B 鱗脊鬥獸是比 A 更高、更寬厚的肌肉型雙足人形異獸，深青
 
 ---
 
+<a id="2100350159540596760"></a>
+
+### 互動式體素騎士篝火場景
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-16
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100350159540596760"><img src="../assets/previews/c86d545b161a6223e73f07626532a18421dad108dd5d879ee1e9d26e60cb1329.jpg" width="840" loading="lazy" alt="互動式體素騎士篝火場景"></a>
+
+互動式 Three.js 體素風夜間森林營地場景，包含程序化建立的騎士、篝火、可選擇的騎士行動、預設鏡頭、復古 HUD，以及合成環境音效。發文作者表示，他們將這段提示詞與一張圖片提供給 GPT-6 Astra。
+
+**提示詞**
+
+```text
+你是一名資深創意 WebGL 與 Three.js 開發者。你的任務是使用 Three.js + WebGL，建立一個完整、可用於正式環境的互動式 3D 場景，並將其完全收納在單一獨立 HTML 檔案（index.html）中
+
+### 1. 視覺主題與美術方向
+
+- 氛圍：深沉的夜間森林、溫暖閃耀的營火，以及獨自疲憊地在營地休息的騎士（《Dark Souls》篝火／經典復古 RPG 美學）。
+- 美學：3D 像素藝術／體素／低多邊形美學。
+- 著色與後製：整合 Three.js 後製效果（RenderPixelatedPass 或等效的低解析度像素化／抖動效果），呈現真實的 16 位元／32 位元復古風格。
+
+### 2. 場景幾何與資產（100% 程序化建立——不可使用外部 .gltf/.obj 檔案）
+
+所有資產都必須使用 Three.js 幾何圖元（BoxGeometry、CylinderGeometry 等）與基本材質以程序化方式建立，確保檔案能在本機執行且不會遇到 CORS 問題。
+
+1. 森林環境：
+
+   - 地面：深色風格化地形，搭配程序化生成的體素石頭、蘑菇與低多邊形植被。
+   - 樹木：在空地周圍程序化生成松樹／雲杉或塊狀樹冠的樹木，營造深度與隱密感。
+   - 天空與光照：深邃的午夜天空，搭配閃爍的體素星星，以及投射柔和陰影的冷色月光 DirectionalLight。
+   - 深度：使用帶有深色大氣色彩的 THREE.FogExp2，融合地平線。
+
+2. 營火：
+
+   - 以石頭圍成圓圈，環繞著悶燒的木柴與程序化生成的餘燼。
+   - 火焰系統：向上升起的動畫像素粒子（Points 或脈動的體素網格）。
+   - 動態光照：使用暖橙紅色 PointLight，搭配持續且自然的閃爍邏輯（使用 Math.sin、雜訊或 شبه隨機變化）。
+
+3. 騎士：
+
+   - 使用體素化圖元建立階層式場景圖（包含頭部、軀幹、上臂／前臂、腿部、披風與劍的群組）。
+   - 視覺細節：開槽頭盔、胸甲、肩甲、護手，以及劍鞘／劍。
+   - 樞軸點必須在關節（肩膀、手肘、髖部、膝蓋）處正確對齊，以實現流暢的程序化旋轉動畫。
+
+### 3. 互動式騎士狀態機
+
+在渲染迴圈中使用線性插值（lerp）或三角函數曲線，為以下可選狀態實作平滑的程序化動畫：
+
+- 坐在火旁（預設待機）：盤腿或蹲坐，進行細微的呼吸循環，並在火焰附近暖手。
+- 添柴：騎士起身、取回一根木柴並將其丟進火中。火焰會明顯竄升，光照半徑暫時擴大，並爆發出一陣火花。
+- 練劍：起身、拔劍，完成流暢的三段式攻擊／格擋動作，最後回到戰鬥防禦姿勢。
+- 遙望遠方：走到空地邊緣，將劍插入地面，在披風飄動的同時凝視黑暗深處。
+- 睡覺：躺在火堆旁的睡墊上；帶動畫效果的像素「Z z z」粒子從頭盔上方飄起。
+- 烤肉：拿著串有食物的木棍在火焰上方烘烤，並散發細微的程序化煙霧／蒸氣粒子。
+
+### 4. 攝影機系統
+
+提供預設攝影機切換功能，並以平滑的轉場插值（對位置與目標點進行 lerp）：
+
+- 溫馨特寫：聚焦騎士與火光的中景。
+- 等角 RPG：以經典的高位 45 度戰術視角俯瞰空地。
+- 電影感地面視角：以低角度戲劇性地向上拍攝騎士，背景是繁星天空與松樹樹冠。
+- 自由環繞：無縫切換至標準 OrbitControls，以便互動檢視。
+
+### 5. UI 與音效
+
+- UI 風格：採用復古 8 位元／16 位元 RPG HUD 版面，以半透明深色框架、像素化邊框，以及嵌入的 Google Font（例如 'Press Start 2P'）構成。
+- 底部面板：提供可觸發各個騎士狀態的互動式動作按鈕。
+- 右上方面板：提供切換攝影機角度的按鈕。
+- 木柴計數器：追蹤已添加的木柴數量與目前的火焰強度。
+- 音效（Web Audio API）：程序化合成的火焰劈啪聲與夜間微風／蟲鳴環境音，並提供靜音／取消靜音切換按鈕。
+
+### 6. 技術規格
+
+- 單一、自包含的 index.html 檔案。
+- 使用透過 CDN 載入的 ES Modules（https://t.co/W8o3SZwkCj 或 unpkg）。
+- 模組化且附有完善註解的程式碼結構（initScene、buildEnvironment、buildKnight、buildCampfire、setupUI、setupAudio、animate）。
+- 完整支援響應式視窗大小調整處理常式，更新攝影機長寬比與像素化後製通道的解析度。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100350159540596760) · [查看原文](https://x.com/vib3coded/status/2100350602316558428) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="2100519026720231698"></a>
 
 ### 為欄杆新增維修用鏈條
@@ -3760,6 +3824,67 @@ vitalduval 發布的相關推文描述了向 Astra 提出的請求：使用 CAD 
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/monster-block) · [查看原文](https://x.com/abc30037274/status/2100636075039629796) · [線上展示](https://monster-block.tripo.page/) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2100838090210431302"></a>
+
+### 漂浮群島間的 3D 空中電車遊戲
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100838090210431302"><img src="../assets/previews/beed044dc7075346b2830bb1c618e8b8f142481efb63cc04db1116a2955d521a.jpg" width="840" loading="lazy" alt="漂浮群島間的 3D 空中電車遊戲"></a>
+
+經驗證的作者留言分享了完整提示詞；根貼文表示，這段提示詞曾交由 GPT-6 與 Gemini 4 執行。提示詞要求製作一款可在瀏覽器中遊玩的 Three.js 電車遊戲，場景設於地中海風格的漂浮群島，包含駕駛控制、乘客舒適度評分、車站、升級系統與行動裝置支援。
+
+**提示詞**
+
+```text
+製作一款單一 HTML/JS 檔案的 3D 遊戲（Three.js），可直接在瀏覽器中遊玩；採用溫暖、低多邊形但精緻的獨立遊戲風格，營造出吉卜力海濱小鎮與《薩爾達傳說》礦車軌道般流暢感的結合。
+【核心玩法】玩家駕駛復古空中電車，在漂浮於雲海與海面上方的群島之間行駛。 - 軌道是一條連續的 3D 鐵路，包含直線路段、上坡、下坡、高架彎道，以及橫跨海面的長橋 - 操作：W 加速（動力）、S 煞車（煞車），左右鍵用於微調或切換視角 - 即時顯示：速度（km/h）、車上乘客人數（例如 12/16 人乘車）、路況（穩定／側風） - 乘客舒適度系統：突然加速、急煞、過快過彎與側風都會降低「腿部舒適度」；平穩抵達目的地可獲得額外分數（例如抵達時 +75） - 連勝：行駛過於顛簸時會觸發訊息「連勝中斷。找到平衡，重新累積小費。」 - 抵達車站後開門，讓乘客上下車。月台上有排隊等候的居民，並顯示「車門開啟——芒果潮汐」、「請稍候……」等字幕     【世界與車站】至少包含兩條路線／兩座島嶼：  1. 鹽光終點站  2. 芒果潮汐  島嶼是一座漂浮在雲層上方的岩石島，島上有採地中海／南歐風格的小屋、紅瓦屋頂、燈塔、碼頭、綠樹、街燈，以及夜間散發暖黃色光芒的窗戶。遠處可見更多漂浮島嶼與環繞運行的軌道。天空從黃昏至夜晚呈現藍紫色漸層，有星星與厚重雲層，下方則是蔚藍海水。     【電車外觀】復古電車：深綠色車身、木色底盤、弧形玻璃窗、車頂行李，以及綠色遮棚／藤蔓裝飾；車內坐著各式各樣的乘客。行駛時有輕微搖晃感與軌道行駛聲（可用簡單音效或視覺提示呈現）。     【場景 2：工坊改造】切換至工坊「Cloudworks／Oliver Cloudworks／Oliver 的家鄉島」的俯視等距視角。玩家可以替電車更換零件，介面類似升級彈出視窗： - 爐心葉片——拆卸舊零件 - 小小夥伴——準備電車 進度條＋「坐下來看看工坊的作業吧。」改造後電車外觀有所變化（例如綠色車頂、加裝行李架、燈籠、藤蔓），接著駛出工坊，顯示「各位乘客請上車。」／「下一站：海岸線。」等字幕。     【UI】簡潔現代的休閒遊戲 UI：左上角顯示目的地與貨幣／連勝；底部顯示速度條與動力／煞車按鈕；舒適度進度條連接兩座車站的名稱。畫面不要雜亂，也不要做成恐怖或賽博龐克風格。     【技術需求】 - 單一檔案或最少檔案數，使用 Three.js - 使用曲線（CatmullRom 等）製作軌道，讓電車沿著鐵軌行駛；鏡頭跟隨電車，帶有些微沿軌道移動的感覺 - 簡單的物理感：加速慣性、煞車減速、轉彎時車身側傾 - 在行動裝置上，也請盡量支援點按加速／煞車 - 程式碼易讀並附上註解，開啟後即可遊玩。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100838090210431302) · [查看原文](https://x.com/YouWareAI/status/2100838828433179037) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2100844566718926949"></a>
+
+### 打造照片級寫實的 3D 世界
+
+[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100844566718926949"><img src="../assets/previews/f8596f35d968eda4e24acabd4e2405d42aae7745029b8cf3426d550a2bd2cd52.jpg" width="840" loading="lazy" alt="打造照片級寫實的 3D 世界"></a>
+
+原始貼文中建議的一段單一提示詞，用於建立照片級寫實、可漫遊的 3D 世界。貼文將其呈現為 Blender MCP 工作流程的一部分，但並未證實這段提示詞正是搭配展示內容所使用的輸入。
+
+**提示詞**
+
+```text
+打造照片級寫實的 3D 世界。給我驚喜。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100844566718926949) · [查看原文](https://x.com/JulianGoldieSEO/status/2100844566718926949) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2100956517633761447"></a>
+
+### 互動式 IWC Schaffhausen 手錶模型
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100956517633761447"><img src="../assets/previews/d7437e20a189ef08ef24c9272fa803e0f9e8d7da7da70314a92980db6a752bdc.jpg" width="840" loading="lazy" alt="互動式 IWC Schaffhausen 手錶模型"></a>
+
+經驗證的作者留言提供了一段提示詞，用於製作高度細緻的 Three.js 互動式 IWC Schaffhausen 3D 手錶模型。提示詞要求機械零件皆能個別辨識、採用逼真的藍寶石玻璃、讓指針即時走動，並支援爆炸式拆解與重新組裝互動。原始貼文將此內容作為 GPT-6 Astra 與其他模型比較時共用的提示詞。
+
+**提示詞**
+
+```text
+使用 Three.js 開發高度忠實的 IWC Schaffhausen 腕錶 3D 互動模型。需求如下：1）錶盤結構必須高度精確，每個機械零件都要個別建模，並能清楚辨識；2）錶面必須使用具備逼真透光、折射與反射效果的藍寶石玻璃材質；3）分針與秒針必須依照正確的走時邏輯運作，並自動以連續掃行方式播放指針動畫；4）支援手錶的拆解與重新組裝，且每個零件都能分離並個別檢視；5）整體細節層級必須極高，精確貼近真實手錶的結構與比例，螺絲、金屬零件及其他組件也要具備逼真的材質貼圖與精細工藝。請確保模型能在瀏覽器中順暢運作，互動自然。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100956517633761447) · [查看原文](https://x.com/YouWareAI/status/2100958838350643553) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -4075,24 +4200,6 @@ UI：奶油白圓角卡片搭配海軍藍文字與珊瑚橘點綴；標題使用
 
 ---
 
-<a id="2096561346766877106"></a>
-
-### 桌上的黑膠唱片機場景
-
-[Nitesh Seram](https://x.com/niteshseram) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106"><img src="../assets/previews/51118e05b31dbe92e3cca2db56ddfa5ea034e0fdd2eaa943af8aad73515392d8.webp" width="840" loading="lazy" alt="桌上的黑膠唱片機場景"></a>
-
-**提示詞**
-
-```text
-使用 Three.js 製作桌上黑膠唱片機場景。透過燈具亮起的演出與鏡頭運動，展示唱片機和周圍家具，呈現產品介紹影片的感覺。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106) · [查看原文](https://x.com/niteshseram/status/2096561346766877106) · [返回案例導覽](#all-prompts)
-
----
-
 <a id="2096570815714414844"></a>
 
 ### 低多邊形海灘尋寶遊戲
@@ -4129,42 +4236,6 @@ UI：奶油白圓角卡片搭配海軍藍文字與珊瑚橘點綴；標題使用
 
 ---
 
-<a id="2096566598689783878"></a>
-
-### 替 Tripo 角色貼圖並綁定骨架
-
-[たけうちさんは縮退しました🌀](https://x.com/chimerast) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878"><img src="../assets/previews/409939b647056905bc163425f4e5f1b7447f4a4f807b3e112ef99e2e09e34691.webp" width="840" loading="lazy" alt="替 Tripo 角色貼圖並綁定骨架"></a>
-
-**提示詞**
-
-```text
-將 Tripo Smart Mesh 角色匯入 Blender。先套用貼圖並建立可用的身體骨架，再繼續處理臉部表情。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878) · [查看原文](https://x.com/chimerast/status/2096566598689783878) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2096566686266597754"></a>
-
-### 從公寓草圖到室內算繪
-
-[Everett World](https://x.com/WorldEverett) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754"><img src="../assets/previews/76eeeaa8710b4767fb99c09689e3a0b87ba770495f026e34ea34cb2b5f1f76fc.webp" width="840" loading="lazy" alt="從公寓草圖到室內算繪"></a>
-
-**提示詞**
-
-```text
-結合公寓參考圖片與簡單的平面草圖，在 Blender 中重建室內。交付可編輯場景、各房間的算繪圖，以及剪輯完成的短版漫遊影片。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754) · [查看原文](https://x.com/WorldEverett/status/2096566686266597754) · [返回案例導覽](#all-prompts)
-
----
-
 <a id="2096572156453028193"></a>
 
 ### 可互動的勞侖茲吸引子
@@ -4186,7 +4257,7 @@ UI：奶油白圓角卡片搭配海軍藍文字與珊瑚橘點綴；標題使用
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 250 個案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 254 個案例 →</a></strong></p>
 <p><sub>為保持 GitHub README 渲染流暢，這裡僅展示最新 100 個案例。</sub></p>
 <br>
 </td></tr>

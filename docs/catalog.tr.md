@@ -26,7 +26,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**250 · En yeni Astra istemleri**
+**254 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -54,7 +54,6 @@
 - [Etkileşimli 3B Anatomi Gezgini](#2099206962344800541) · GitHub
 - [İzometrik fantezi grafik demosu](#2100271998618177864) · GitHub
 - [Mosswing: Mobil 3B Dokunarak Uçma Oyunu](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [3B Şehirde Nükleer Patlama Simülasyonu](#2096562462674079868)
 - [Totality Engine: Sinematik Tutulma Katedrali](#2096593372311941143)
 - [Three.js ile CS2 oluştur](#2096596888799895855)
 - [Kesim Şablonundan Katlanır Kutu Animasyonu](#2096612394281603144)
@@ -128,11 +127,15 @@
 - [PC için Splatoon geliştirme ve grafiklerin yeniden oluşturulması](#2100193512373592313)
 - [Fayans seçenekleriyle interaktif daire turu](#2100222426705453318)
 - [Yeraltı İstasyonunda AAA CGI Doğaüstü Dövüş Kısa Filmi](#2100233407108137349)
+- [Etkileşimli voxel şövalyesi ve kamp ateşi sahnesi](#2100350159540596760)
 - [Korkuluğa bakım zinciri ekle](#2100519026720231698)
 - [3B Yarış Oyunu Oluştur](#2100526922770026874)
 - [Kapatılmış Araştırma Tesisinden Kaçış: Tarayıcıda 3B Oyun](#2100595652703199281)
 - [CAD ile kendi gövdesi](#2100614534423540102)
 - [Monster Block — Şehri 45 Saniyede Yerle Bir Et](#2100636075039629796)
+- [Yüzen adalar arasında 3B hava tramvayı oyunu](#2100838090210431302)
+- [Fotogerçekçi bir 3B dünya oluşturun](#2100844566718926949)
+- [Etkileşimli IWC Schaffhausen Saat Modeli](#2100956517633761447)
 - [ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu](#odd-arms)
 - [AKARI: Nagoya Çatı Alevi Bayrak Yarışı](#akari-nagoya-rooftop-flame-relay)
 - [Kiklop’un Adası](#cyclops-island-threejs-game)
@@ -142,11 +145,8 @@
 - [Blender’da sıfırdan modellenen ev](#2096576154337734865)
 - [The Quiet Crossing keşif macerası](#2096574297703637111)
 - [Kırsalda ilerleyen buharlı lokomotif](#2096577430274429157)
-- [Masa üstünde pikap sahnesi](#2096561346766877106)
 - [Düşük poligonlu sahilde hazine avı](#2096570815714414844)
 - [SpeedTree’de Hint mango ağacı](#2096572429066006845)
-- [Tripo karakterine doku ve rig hazırlama](#2096566598689783878)
-- [Daire eskizinden iç mekân render’larına](#2096566686266597754)
 - [Etkileşimli Lorenz çekicisi](#2096572156453028193)
 
 </details>
@@ -324,26 +324,6 @@ Klasik "dokunarak uçma" oyununu — küçük bir yaratığı havada tutmak içi
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Orijinal gönderi](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Kaynak kodu](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Canlı demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096562462674079868"></a>
-
-### 3B Şehirde Nükleer Patlama Simülasyonu
-
-[Ashish Thakur](https://x.com/ashishthakur___) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096562462674079868"><img src="../assets/previews/e7222558f53aaf22484aa3c0cf3b3732d4481a0552afa4401ecb26fa0f7ef2af.jpg" width="840" loading="lazy" alt="3B Şehirde Nükleer Patlama Simülasyonu"></a>
-
-Bir şehir, nükleer flaş, genişleyen şok dalgası, ateş topu, duman ve patlama kendilerine ulaştıkça parçalanıp çöken binalar içeren 3B nükleer patlama gösterimi.
-
-**İstem**
-
-```text
-3B bir şehir, nükleer flaş, genişleyen şok dalgası, ateş topu, duman ve patlama kendilerine ulaştıkça kademeli olarak parçalanıp çöken binalarla bir nükleer patlama demosu oluşturun
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096562462674079868) · [Orijinal gönderi](https://x.com/ashishthakur___/status/2096562462674079868) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3543,6 +3523,90 @@ Tüm karakterler, arka plandaki kalabalık ve istasyon ortamı, dijital olarak b
 
 ---
 
+<a id="2100350159540596760"></a>
+
+### Etkileşimli voxel şövalyesi ve kamp ateşi sahnesi
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-16
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100350159540596760"><img src="../assets/previews/c86d545b161a6223e73f07626532a18421dad108dd5d879ee1e9d26e60cb1329.jpg" width="840" loading="lazy" alt="Etkileşimli voxel şövalyesi ve kamp ateşi sahnesi"></a>
+
+Şövalyenin prosedürel olarak oluşturulduğu, kamp ateşi, seçilebilir şövalye eylemleri, kamera ön ayarları, retro HUD ve sentezlenmiş ambiyans sesleri içeren etkileşimli, Three.js tabanlı voxel tarzı gece ormanı kamp sahnesi. Gönderiyi paylaşan kişi, bu istemi ve bir görseli GPT-6 Astra'ya sağladığını belirtiyor.
+
+**İstem**
+
+```text
+Kıdemli Yaratıcı WebGL ve Three.js Geliştiricisisiniz. Göreviniz, yalnızca Three.js + WebGL kullanarak tamamen tek başına çalışan bir HTML dosyası (index.html) içinde eksiksiz, üretime hazır ve etkileşimli bir 3B sahne oluşturmaktır
+
+### 1. Görsel Tema ve Sanat Yönetimi
+
+- Atmosfer: Derin bir gece ormanı, sıcak ışık saçan rahat bir kamp ateşi ve kamp alanında dinlenen, yorgun ve yalnız bir şövalye (Dark Souls şenlik ateşi / klasik retro RPG estetiği).
+- Estetik: 3B Piksel Sanatı / Voxel / Low-Poly estetiği.
+- Gölgelendirme ve Görüntü Sonrası İşleme: Gerçekçi bir 16 bit/32 bit retro görünüm elde etmek için Three.js görüntü sonrası işleme özelliklerini (RenderPixelatedPass veya eşdeğer düşük çözünürlüklü pikselleştirme/dithering efekti) entegre edin.
+
+### 2. Sahne Geometrisi ve Varlıklar (%100 Prosedürel — Harici .gltf/.obj Dosyası Yok)
+
+Tüm varlıklar, dosyanın CORS sorunları olmadan yerel olarak çalışabilmesi için Three.js geometrik ilkel öğeleri (BoxGeometry, CylinderGeometry vb.) ve temel materyaller kullanılarak prosedürel biçimde oluşturulmalıdır.
+
+1. Orman Ortamı:
+
+   - Zemin: Prosedürel voxel taşları, mantarlar ve low-poly bitki örtüsü içeren, stilize edilmiş karanlık arazi.
+   - Ağaçlar: Açıklığı çevreleyerek derinlik ve kuşatılmışlık hissi oluşturacak prosedürel çam/ladin veya blok görünümlü taçlı ağaçlar.
+   - Gökyüzü ve Işıklandırma: Titreşen voxel yıldızlara sahip, gece yarısı tonlarında koyu bir gökyüzü ve yumuşak gölgeler oluşturan soğuk ay ışığı DirectionalLight.
+   - Derinlik: Ufuk çizgisini atmosferle harmanlamak için koyu atmosferik renge sahip THREE.FogExp2.
+
+2. Kamp Ateşi:
+
+   - Kor halindeki kütükleri ve prosedürel köz parçacıklarını çevreleyen taş çember.
+   - Ateş Sistemi: Yukarı doğru yükselen animasyonlu pikselli parçacıklar (Points veya titreşen voxel ağları).
+   - Dinamik Işıklandırma: Sürekli ve doğal bir titreşim mantığına (Math.sin, noise veya sözde rastgele değişimler kullanarak) sahip, sıcak turuncu-kırmızı bir PointLight.
+
+3. Şövalye:
+
+   - Baş, gövde, üst/alt kollar, bacaklar, pelerin ve kılıç için gruplardan oluşan hiyerarşik sahne grafiği; voxel biçimli ilkel öğeler kullanılarak oluşturulmalıdır.
+   - Görsel ayrıntılar: Yarık açıklıklı miğfer, göğüs zırhı, omuz zırhları, eldiven zırhları ve kın/kılıç.
+   - Temiz prosedürel dönüş animasyonları için pivot noktaları eklemlerde (omuzlar, dirsekler, kalçalar, dizler) doğru hizalanmalıdır.
+
+### 3. Etkileşimli Şövalye Durum Makinesi
+
+Aşağıdaki seçilebilir durumlar için oluşturma döngüsü içinde lineer enterpolasyon (lerp) veya trigonometrik eğriler kullanarak akıcı prosedürel animasyonlar uygulayın:
+
+- Ateşin Yanında Otur (Varsayılan Boşta): Bağdaş kurarak veya çömelerek oturur, hafif nefes alma döngüleri gerçekleştirir ve ellerini alevlerin yanında ısıtır.
+- Odun Ekle: Şövalye ayağa kalkar, bir kütük alır ve ateşin üzerine atar. Ateş görünür biçimde alevlenir, ışık yarıçapını geçici olarak genişletir ve bir kıvılcım patlaması yayar.
+- Kılıç Talimi: Ayağa kalkar, kılıcını çeker, temiz bir 3 parçalı saldırı/savunma rutini gerçekleştirir ve savaş gardına geri döner.
+- Uzağa Bak: Açıklığın kenarına yürür, kılıcını yere saplar ve pelerin sallanırken karanlığa doğru bakar.
+- Uyu: Ateşin yanında bir yatağın üzerine uzanır; miğferinden yüzen, animasyonlu pikselli “Z z z” parçacıkları yükselir.
+- Et Kızart: Yiyecek takılı bir çubuğu alevin üzerinde tutar; hafif prosedürel duman/buhar parçacıkları yayar.
+
+### 4. Kamera Sistemi
+
+Konum ve hedefi yumuşak geçiş enterpolasyonuyla (lerp) değiştiren ön ayarlı kamera geçişleri sunun:
+
+- Sıcak Yakın Plan: Şövalyeye ve ateş ışığına odaklanan orta plan.
+- İzometrik RPG: Açıklığın klasik, yüksekten 45 derecelik taktik görünümü.
+- Sinematik Zemin: Yıldızlı gökyüzü ve çam ağaçlarının taçları önünde şövalyeye aşağıdan yukarı bakan, alçak açılı dramatik çekim.
+- Serbest Yörünge: Etkileşimli inceleme için standart OrbitControls'a kesintisiz geçiş.
+
+### 5. Kullanıcı Arayüzü ve Ses
+
+- Arayüz Stili: Yarı saydam koyu paneller, pikselli kenarlıklar ve gömülü bir Google Font (ör. 'Press Start 2P') kullanan retro 8 bit/16 bit RPG HUD düzeni.
+- Alt Panel: Her şövalye durumunu tetikleyen etkileşimli eylem düğmeleri.
+- Sağ Üst Panel: Kamera açısı değiştirme düğmeleri.
+- Odun Sayacı: Eklenen kütükleri ve mevcut ateş yoğunluğunu takip eder.
+- Ses (Web Audio API): Prosedürel olarak sentezlenmiş ateş çıtırtısı ve gece esintisi/cırcır böceği ambiyansı; sesi açma/kapatma düğmesiyle birlikte.
+
+### 6. Teknik Özellikler
+
+- Tek ve kendi içinde çalışan index.html dosyası.
+- CDN üzerinden yüklenen ES Modules kullanın (https://t.co/W8o3SZwkCj veya unpkg).
+- Modüler, iyi yorumlanmış kod yapısı (initScene, buildEnvironment, buildKnight, buildCampfire, setupUI, setupAudio, animate).
+- Kamera en-boy oranını ve pikselleştirme geçişinin çözünürlüğünü güncelleyen pencere yeniden boyutlandırma işleyicisiyle tamamen duyarlı yapı.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100350159540596760) · [Orijinal gönderi](https://x.com/vib3coded/status/2100350602316558428) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="2100519026720231698"></a>
 
 ### Korkuluğa bakım zinciri ekle
@@ -3722,6 +3786,67 @@ Okunabilir yardım metinleri, dokunmatik kontroller, duraklatma eylemleri ve son
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/monster-block) · [Orijinal gönderi](https://x.com/abc30037274/status/2100636075039629796) · [Canlı demo](https://monster-block.tripo.page/) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2100838090210431302"></a>
+
+### Yüzen adalar arasında 3B hava tramvayı oyunu
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100838090210431302"><img src="../assets/previews/beed044dc7075346b2830bb1c618e8b8f142481efb63cc04db1116a2955d521a.jpg" width="840" loading="lazy" alt="Yüzen adalar arasında 3B hava tramvayı oyunu"></a>
+
+Doğrulanmış bir yazar yorumu, ana gönderide GPT-6 ve Gemini 4 üzerinde çalıştırıldığı belirtilen tam istemi paylaşıyor. İstem; Akdeniz tarzı yüzen adalarda geçen, tarayıcıda oynanabilen bir Three.js tramvay oyunu istiyor. Oyunda sürüş kontrolleri, yolcu konforu puanlaması, istasyonlar, yükseltmeler ve mobil destek bulunuyor.
+
+**İstem**
+
+```text
+Tarayıcıda doğrudan oynanabilen, tek dosyalı bir HTML/JS 3B oyun (Three.js) oluştur. Sıcak, düşük poligonlu ama özenle hazırlanmış bir bağımsız oyun tarzı kullan; Ghibli tarzı bir sahil kasabasının atmosferini, Zelda'nın maden vagonu raylarının akıcılığıyla birleştirsin.
+【Temel Oynanış】  Oyuncu, bulut denizi ile okyanus yüzeyinin üzerinde yüzen adalar arasında ilerleyen retro bir hava tramvayını kullanır.  - Ray, düz bölümler, yokuş yukarı ve aşağı eğimler, yükseltilmiş virajlar ve denizin üzerinden geçen uzun köprüler içeren kesintisiz bir 3B demiryolu olsun  - Kontroller: Hızlanmak (Power) için W, fren yapmak (Brake) için S, hassas ayar yapmak veya görünümü değiştirmek için sol ve sağ yön tuşları  - Gerçek zamanlı gösterim: km/sa cinsinden hız, tramvaydaki yolcu sayısı (ör. 12/16 yolcu), yol koşulları (Sabit / Yan rüzgâr)  - Yolcu konforu sistemi: ani hızlanma, sert frenleme, virajlara fazla hızlı girme ve yan rüzgâr, "bacak konforunu" azaltır; varış noktasına sarsıntısız ulaşmak bonus puan kazandırır (ör. varışta +75)  - Seri: Fazla sarsıntılı sürüş, "Seri bozuldu. Bahşişlerini yeniden kazanmak için dengenizi bulun." mesajını tetikler.  - İstasyona varınca yolcuların binip inebilmesi için kapıları aç. Peronda, "Kapılar açılıyor - Mango Tide", "Lütfen bekleyin…" gibi altyazılar eşliğinde sıraya girmiş kasaba halkı bulunur.     [Dünya ve İstasyonlar]  En az iki rota/iki ada:  1. Saltlight Terminus  2. Mango Tide  Ada, bulutların üzerinde yüzen kayalık bir adadır. Kırmızı kiremit çatılı, küçük Akdeniz/Güney Avrupa tarzı evler; bir deniz feneri, iskele, yeşil ağaçlar, sokak lambaları ve geceleri parlayan sıcak sarı pencereler bulunur. Uzakta daha fazla yüzen ada ve çevresinde dönen yörüngeler görülür. Gökyüzü alacakaranlıktan geceye uzanan mavi-mor bir geçişe sahiptir; yıldızlar ve yoğun bulutlar vardır, aşağıda ise masmavi deniz suyu uzanır.     [Tramvay Dış Görünümü]  Retro tramvay: koyu yeşil gövde, ahşap renkli şasi, kavisli cam pencereler, çatıda bagaj, yeşil tente/sarmaşık süslemeleri ve içeride oturan çeşitli yolcular. Hareket ederken hafifçe sallansın ve ray sesleri hissi versin (basit ses efektleri veya görsel ipuçlarıyla aktarılabilir).     [Sahne 2: Atölye Modifikasyonu]  Atölye "Cloudworks / Oliver Cloudworks / Oliver's home island" için yukarıdan izometrik görünüme geç.  Oyuncular, yükseltme penceresine benzer bir arayüzle tramvay parçalarını değiştirebilsin:  - Hearth leaves — Eski parça çıkarılıyor  - Little Companion — Tramvay hazırlanıyor  İlerleme çubuğu + "Arkanıza yaslanın ve atölyeyi izleyin."  Modifikasyondan sonra tramvayın görünümünde değişiklikler göster (ör. yeşil çatı, eklenen bagaj rafı, fenerler, sarmaşıklar); ardından tramvay atölyeden çıksın ve "Herkes binsin." / "Sıradaki durak: Coastal Line." altyazıları görünsün.     [Arayüz]  Temiz ve modern, gündelik oyun tarzında bir arayüz kullan: varış noktası ile para/seri göstergesi sol üstte; hız çubuğu ve Power/Brake düğmeleri altta; konfor ilerleme çubuğu iki istasyon adını birbirine bağlasın. Karmaşaya yer verme; korku veya siberpunk tarzına kaçma.     [Teknik Gereksinimler]  - Tek dosya veya minimum sayıda dosya, Three.js  - Raylar için eğriler (CatmullRom vb.) kullan; böylece tramvay rayları takip etsin ve kamera hafif ray hissi verecek şekilde tramvayı izlesin  - Basit bir fizik hissi: hızlanma ataleti, frenleme yavaşlaması, virajlarda gövde yatışı  - Mobilde, hızlanma/frenleme için dokunmayı da desteklemeyi dene  - Okunabilir, yorum satırları içeren kod; dosya açılır açılmaz oynanabilsin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100838090210431302) · [Orijinal gönderi](https://x.com/YouWareAI/status/2100838828433179037) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2100844566718926949"></a>
+
+### Fotogerçekçi bir 3B dünya oluşturun
+
+[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100844566718926949"><img src="../assets/previews/f8596f35d968eda4e24acabd4e2405d42aae7745029b8cf3426d550a2bd2cd52.jpg" width="840" loading="lazy" alt="Fotogerçekçi bir 3B dünya oluşturun"></a>
+
+Fotogerçekçi, içinde dolaşılabilen bir 3B dünya için ana gönderide önerilen tek istemlik talep. Gönderi bunu Blender MCP iş akışının bir parçası olarak sunuyor; ancak bu istemin, eşlik eden vitrindeki çalışmanın girdisi olduğunu belirtmiyor.
+
+**İstem**
+
+```text
+Fotogerçekçi bir 3B dünya oluşturun. Beni şaşırtın.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100844566718926949) · [Orijinal gönderi](https://x.com/JulianGoldieSEO/status/2100844566718926949) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2100956517633761447"></a>
+
+### Etkileşimli IWC Schaffhausen Saat Modeli
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100956517633761447"><img src="../assets/previews/d7437e20a189ef08ef24c9272fa803e0f9e8d7da7da70314a92980db6a752bdc.jpg" width="840" loading="lazy" alt="Etkileşimli IWC Schaffhausen Saat Modeli"></a>
+
+Doğrulanmış bir yazar yorumu, son derece ayrıntılı ve etkileşimli bir Three.js IWC Schaffhausen saat modeli için bir istem sunuyor. İstemde, birbirinden ayırt edilebilen mekanik bileşenler, gerçekçi safir cam, gerçek zamanlı ibre hareketi ve parçaların sökülüp yeniden birleştirilebildiği bir etkileşim tasarımı belirtiliyor. Ana gönderi, bunu GPT-6 Astra ve diğer modellerin karşılaştırıldığı bir değerlendirmede ortak istem olarak sunuyor.
+
+**İstem**
+
+```text
+IWC Schaffhausen saatinin son derece aslına sadık, etkileşimli bir 3B modelini geliştirmek için Three.js kullanın. Gereksinimler: 1) Kadran yapısı son derece hassas olmalı; her mekanik bileşen ayrı ayrı modellenmeli ve net biçimde ayırt edilebilmelidir; 2) Saat kadranında, gerçekçi saydamlık, kırılma ve yansıma efektlerine sahip safir cam malzemesi kullanılmalıdır; 3) Akrep ve saniye ibreleri doğru ibreler olmalı ve gerçek zaman işleyişini takip etmelidir; ibreler otomatik ve kesintisiz biçimde hareket etmelidir; 4) Saatin sökülüp yeniden birleştirilmesi desteklenmeli; her parça ayrılarak tek başına görüntülenebilmelidir; 5) Genel ayrıntı düzeyi son derece yüksek olmalı, gerçek bir saatin yapısı ve oranlarıyla yakından örtüşmeli; vidalar, metal parçalar ve diğer bileşenler için gerçekçi malzeme dokuları ve ince işçilik sunulmalıdır. Modelin tarayıcıda akıcı çalıştığından ve doğal biçimde etkileşim kurulabildiğinden emin olun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100956517633761447) · [Orijinal gönderi](https://x.com/YouWareAI/status/2100958838350643553) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -4037,24 +4162,6 @@ Three.js ile bir buharlı lokomotif modelleyin ve kırsal bir sahnede ilerleyiş
 
 ---
 
-<a id="2096561346766877106"></a>
-
-### Masa üstünde pikap sahnesi
-
-[Nitesh Seram](https://x.com/niteshseram) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106"><img src="../assets/previews/51118e05b31dbe92e3cca2db56ddfa5ea034e0fdd2eaa943af8aad73515392d8.webp" width="840" loading="lazy" alt="Masa üstünde pikap sahnesi"></a>
-
-**İstem**
-
-```text
-Three.js ile masa üstünde bir pikap sahnesi oluşturun. Lambaların yandığı ve kameranın pikabı çevredeki mobilyalarla birlikte gösterdiği bir ürün sunumu hazırlayın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106) · [Orijinal gönderi](https://x.com/niteshseram/status/2096561346766877106) · [Örneklere dön](#all-prompts)
-
----
-
 <a id="2096570815714414844"></a>
 
 ### Düşük poligonlu sahilde hazine avı
@@ -4091,42 +4198,6 @@ Unity’de sahilde geçen oynanabilir bir 3D hazine avı oluşturun. Düşük po
 
 ---
 
-<a id="2096566598689783878"></a>
-
-### Tripo karakterine doku ve rig hazırlama
-
-[たけうちさんは縮退しました🌀](https://x.com/chimerast) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878"><img src="../assets/previews/409939b647056905bc163425f4e5f1b7447f4a4f807b3e112ef99e2e09e34691.webp" width="840" loading="lazy" alt="Tripo karakterine doku ve rig hazırlama"></a>
-
-**İstem**
-
-```text
-Bir Tripo Smart Mesh karakterini Blender’a aktarın. Yüz ifadelerine geçmeden önce dokularını uygulayın ve kullanılabilir bir gövde rig’i oluşturun.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878) · [Orijinal gönderi](https://x.com/chimerast/status/2096566598689783878) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096566686266597754"></a>
-
-### Daire eskizinden iç mekân render’larına
-
-[Everett World](https://x.com/WorldEverett) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754"><img src="../assets/previews/76eeeaa8710b4767fb99c09689e3a0b87ba770495f026e34ea34cb2b5f1f76fc.webp" width="840" loading="lazy" alt="Daire eskizinden iç mekân render’larına"></a>
-
-**İstem**
-
-```text
-Bir dairenin referans görsellerini basit bir kat planı eskiziyle birleştirerek iç mekânı Blender’da yeniden oluşturun. Düzenlenebilir sahne, oda render’ları ve kısa, kurgulanmış bir gezinti videosu teslim edin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754) · [Orijinal gönderi](https://x.com/WorldEverett/status/2096566686266597754) · [Örneklere dön](#all-prompts)
-
----
-
 <a id="2096572156453028193"></a>
 
 ### Etkileşimli Lorenz çekicisi
@@ -4148,7 +4219,7 @@ Başlangıç konumları arasında çok küçük fark bulunan iki Lorenz sistemi 
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 250 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 254 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

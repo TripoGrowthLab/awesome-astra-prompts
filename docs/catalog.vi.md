@@ -26,7 +26,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**250 · Prompt Astra mới nhất**
+**254 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -54,7 +54,6 @@
 - [Trình khám phá giải phẫu 3D tương tác](#2099206962344800541) · GitHub
 - [Demo đồ họa fantasy isometric](#2100271998618177864) · GitHub
 - [Mosswing: Game 3D mobile chạm để vỗ cánh](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Mô phỏng vụ nổ hạt nhân trong thành phố 3D](#2096562462674079868)
 - [Totality Engine: Thánh đường Nhật thực Điện ảnh](#2096593372311941143)
 - [Tạo CS2 bằng Three.js](#2096596888799895855)
 - [Hoạt ảnh gấp hộp giấy từ bản vẽ khuôn bế](#2096612394281603144)
@@ -128,11 +127,15 @@
 - [Phát triển Splatoon bản PC và tái hiện đồ họa](#2100193512373592313)
 - [Tham quan căn hộ tương tác với các tùy chọn gạch lát](#2100222426705453318)
 - [Phim ngắn CGI AAA: Đấu võ siêu nhiên trong ga tàu điện ngầm](#2100233407108137349)
+- [Cảnh lửa trại voxel tương tác với hiệp sĩ](#2100350159540596760)
 - [Thêm xích bảo trì vào lan can](#2100519026720231698)
 - [Tạo game đua xe 3D](#2100526922770026874)
 - [Game 3D trên trình duyệt: Thoát khỏi cơ sở nghiên cứu bị phong tỏa](#2100595652703199281)
 - [Tự thiết kế một cơ thể bằng CAD](#2100614534423540102)
 - [Monster Block — 45 giây phá tan thành phố](#2100636075039629796)
+- [Game xe điện trên không 3D giữa những hòn đảo bay](#2100838090210431302)
+- [Tạo một thế giới 3D chân thực như ảnh](#2100844566718926949)
+- [Mô hình đồng hồ IWC Schaffhausen 3D tương tác](#2100956517633761447)
 - [ODD ARMS — Game sinh tồn với vũ khí kỳ quặc](#odd-arms)
 - [AKARI: Tiếp lửa trên những sân thượng Nagoya](#akari-nagoya-rooftop-flame-relay)
 - [Hòn đảo của Cyclops](#cyclops-island-threejs-game)
@@ -142,11 +145,8 @@
 - [Dựng một ngôi nhà từ đầu trong Blender](#2096576154337734865)
 - [Nhiệm vụ khám phá The Quiet Crossing](#2096574297703637111)
 - [Đầu máy hơi nước chạy qua miền quê](#2096577430274429157)
-- [Cảnh máy hát đĩa than trên bàn](#2096561346766877106)
 - [Săn kho báu trên bãi biển low-poly](#2096570815714414844)
 - [Cây xoài Ấn Độ trong SpeedTree](#2096572429066006845)
-- [Áp dụng texture và gắn xương cho nhân vật Tripo](#2096566598689783878)
-- [Từ phác thảo căn hộ đến ảnh nội thất kết xuất](#2096566686266597754)
 - [Tập hút Lorenz tương tác](#2096572156453028193)
 
 </details>
@@ -324,26 +324,6 @@ Làm mới game kinh điển “chạm để vỗ cánh” — game mà bạn ch
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Bài đăng gốc](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Mã nguồn](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Bản demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096562462674079868"></a>
-
-### Mô phỏng vụ nổ hạt nhân trong thành phố 3D
-
-[Ashish Thakur](https://x.com/ashishthakur___) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096562462674079868"><img src="../assets/previews/e7222558f53aaf22484aa3c0cf3b3732d4481a0552afa4401ecb26fa0f7ef2af.jpg" width="840" loading="lazy" alt="Mô phỏng vụ nổ hạt nhân trong thành phố 3D"></a>
-
-Mô phỏng 3D về một vụ nổ hạt nhân, với thành phố, chớp sáng hạt nhân, sóng xung kích lan rộng, cầu lửa, khói và các tòa nhà nứt vỡ rồi sụp đổ khi vụ nổ lan tới.
-
-**Prompt**
-
-```text
-Tạo bản demo vụ nổ hạt nhân với thành phố 3D, chớp sáng hạt nhân, sóng xung kích lan rộng, cầu lửa, khói và các tòa nhà lần lượt nứt vỡ, sụp đổ khi vụ nổ lan tới.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096562462674079868) · [Bài đăng gốc](https://x.com/ashishthakur___/status/2096562462674079868) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3577,6 +3557,90 @@ Nghiêm cấm nhạc nền: ở mọi thời điểm trong video không được
 
 ---
 
+<a id="2100350159540596760"></a>
+
+### Cảnh lửa trại voxel tương tác với hiệp sĩ
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-16
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100350159540596760"><img src="../assets/previews/c86d545b161a6223e73f07626532a18421dad108dd5d879ee1e9d26e60cb1329.jpg" width="840" loading="lazy" alt="Cảnh lửa trại voxel tương tác với hiệp sĩ"></a>
+
+Cảnh lửa trại tương tác trong khu rừng đêm phong cách voxel, được xây dựng bằng Three.js, với hiệp sĩ tạo thủ tục, lửa trại, các hành động có thể chọn cho hiệp sĩ, các thiết lập camera, HUD phong cách retro và âm thanh môi trường được tổng hợp. Tác giả bài đăng cho biết họ đã cung cấp cho GPT-6 Astra lời nhắc này cùng một hình ảnh.
+
+**Prompt**
+
+```text
+Bạn là Nhà phát triển WebGL & Three.js Sáng tạo Cấp cao. Nhiệm vụ của bạn là xây dựng một cảnh 3D tương tác hoàn chỉnh, sẵn sàng cho môi trường production, nằm hoàn toàn trong một tệp HTML độc lập duy nhất (index.html), sử dụng Three.js + webgl
+
+### 1. Chủ đề hình ảnh & Định hướng nghệ thuật
+
+- Không khí: Khu rừng đêm sâu thẳm, lửa trại ấm áp phát sáng, một hiệp sĩ đơn độc mệt mỏi đang nghỉ bên khu cắm trại (thẩm mỹ lửa trại Dark Souls / RPG retro kinh điển).
+- Thẩm mỹ: Pixel Art 3D / Voxel / Low-Poly.
+- Đổ bóng & Hậu kỳ: Tích hợp tính năng hậu kỳ của Three.js (RenderPixelatedPass hoặc hiệu ứng tạo điểm ảnh/làm nhiễu ở độ phân giải thấp tương đương) để đạt diện mạo retro 16-bit/32-bit chân thực.
+
+### 2. Hình học cảnh & Tài nguyên (100% tạo thủ tục — Không dùng tệp .gltf/.obj bên ngoài)
+
+Tất cả tài nguyên phải được dựng bằng thủ tục, sử dụng các hình học nguyên thủy của Three.js (BoxGeometry, CylinderGeometry, v.v.) và vật liệu cơ bản để tệp có thể chạy cục bộ mà không gặp vấn đề CORS.
+
+1. Môi trường rừng:
+
+   - Mặt đất: Địa hình cách điệu tối màu với đá voxel, nấm và thảm thực vật low-poly được tạo thủ tục.
+   - Cây cối: Các cây thông/vân sam hoặc cây có tán hình khối được tạo thủ tục, bao quanh khoảng trống để tạo chiều sâu và cảm giác biệt lập.
+   - Bầu trời & Ánh sáng: Bầu trời nửa đêm sâu thẳm với các ngôi sao voxel nhấp nháy và DirectionalLight ánh trăng lạnh tạo bóng mềm.
+   - Chiều sâu: THREE.FogExp2 với màu khí quyển tối để hòa trộn đường chân trời.
+
+2. Lửa trại:
+
+   - Vòng đá bao quanh các khúc gỗ đang âm ỉ cháy và các hạt than hồng được tạo thủ tục.
+   - Hệ thống lửa: Các hạt điểm ảnh động (Points hoặc mesh voxel dao động) bay lên trên.
+   - Ánh sáng động: PointLight màu cam-đỏ ấm với logic nhấp nháy liên tục, tự nhiên (sử dụng Math.sin, nhiễu hoặc các biến thể giả ngẫu nhiên).
+
+3. Hiệp sĩ:
+
+   - Cây phân cấp của cảnh (các group cho đầu, thân, cánh tay trên/dưới, chân, áo choàng và kiếm) được dựng từ các hình nguyên thủy voxel hóa.
+   - Chi tiết hình ảnh: Mũ trụ có khe, giáp ngực, giáp vai, bao tay giáp và bao kiếm/kiếm.
+   - Các điểm pivot phải được căn chỉnh chính xác tại các khớp (vai, khuỷu tay, hông, đầu gối) để chuyển động xoay tạo thủ tục mượt mà.
+
+### 3. Máy trạng thái tương tác của hiệp sĩ
+
+Triển khai các animation tạo thủ tục mượt mà bằng phép nội suy tuyến tính (lerp) hoặc các đường cong lượng giác bên trong vòng lặp render cho những trạng thái có thể chọn sau:
+
+- Ngồi bên lửa (Nghỉ mặc định): Ngồi xếp bằng hoặc ngồi xổm, thở nhẹ theo chu kỳ, sưởi tay gần ngọn lửa.
+- Thêm củi: Hiệp sĩ đứng dậy, lấy một khúc gỗ rồi ném vào lửa. Ngọn lửa bùng lên rõ rệt, bán kính chiếu sáng tạm thời mở rộng và phát ra một loạt tia lửa.
+- Luyện kiếm: Đứng dậy, rút kiếm, thực hiện một chuỗi tấn công/đỡ đòn gồm 3 phần gọn gàng rồi trở về tư thế thủ chiến.
+- Nhìn về phía xa: Đi đến rìa khoảng trống, cắm kiếm xuống đất và nhìn chằm chằm vào bóng tối trong khi áo choàng lay động.
+- Ngủ: Nằm xuống tấm đệm ngủ cạnh lửa; các hạt điểm ảnh "Z z z" động bay lên từ mũ trụ.
+- Nướng thịt: Cầm một que xiên thức ăn trên ngọn lửa; phát ra các hạt khói/hơi nước tạo thủ tục nhẹ.
+
+### 4. Hệ thống camera
+
+Cung cấp các chế độ camera thiết lập sẵn với chuyển tiếp nội suy mượt mà (lerp vị trí và điểm đích):
+
+- Cận cảnh ấm cúng: Khung hình trung, tập trung vào hiệp sĩ và ánh lửa.
+- RPG đẳng phối: Góc nhìn chiến thuật cao 45 độ kinh điển bao quát khoảng trống.
+- Điện ảnh mặt đất: Góc máy thấp đầy kịch tính, hướng lên hiệp sĩ giữa bầu trời sao và các tán thông.
+- Xoay tự do: Chuyển liền mạch sang OrbitControls tiêu chuẩn để quan sát tương tác.
+
+### 5. UI & Âm thanh
+
+- Phong cách UI: Bố cục HUD RPG retro 8-bit/16-bit, sử dụng các khung tối bán trong suốt với viền điểm ảnh và Google Font được nhúng (ví dụ: 'Press Start 2P').
+- Bảng điều khiển dưới: Các nút hành động tương tác, kích hoạt từng trạng thái của hiệp sĩ.
+- Bảng phía trên bên phải: Các nút chuyển góc camera.
+- Bộ đếm củi: Theo dõi số khúc gỗ đã thêm và cường độ lửa hiện tại.
+- Âm thanh (Web Audio API): Tiếng lửa tí tách và gió đêm/dế kêu môi trường được tổng hợp bằng thủ tục, kèm một nút bật/tắt tiếng.
+
+### 6. Thông số kỹ thuật
+
+- Một tệp index.html độc lập, tự chứa.
+- Sử dụng ES Modules được tải qua CDN (https://t.co/W8o3SZwkCj hoặc unpkg).
+- Cấu trúc mã dạng module, có chú thích đầy đủ (initScene, buildEnvironment, buildKnight, buildCampfire, setupUI, setupAudio, animate).
+- Hoàn toàn đáp ứng kích thước cửa sổ, với trình xử lý thay đổi kích thước cập nhật tỷ lệ khung hình camera và độ phân giải của lớp tạo điểm ảnh.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100350159540596760) · [Bài đăng gốc](https://x.com/vib3coded/status/2100350602316558428) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="2100519026720231698"></a>
 
 ### Thêm xích bảo trì vào lan can
@@ -3756,6 +3820,67 @@ Kiểm tra bố cục tiếng Anh và tiếng Trung trên màn hình desktop và
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/monster-block) · [Bài đăng gốc](https://x.com/abc30037274/status/2100636075039629796) · [Bản demo](https://monster-block.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2100838090210431302"></a>
+
+### Game xe điện trên không 3D giữa những hòn đảo bay
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100838090210431302"><img src="../assets/previews/beed044dc7075346b2830bb1c618e8b8f142481efb63cc04db1116a2955d521a.jpg" width="840" loading="lazy" alt="Game xe điện trên không 3D giữa những hòn đảo bay"></a>
+
+Một bình luận từ tác giả đã được xác minh chia sẻ toàn bộ prompt mà bài đăng gốc cho biết đã chạy với GPT-6 và Gemini 4. Prompt yêu cầu một game xe điện trên không Three.js chạy được trên trình duyệt, lấy bối cảnh các hòn đảo bay mang phong cách Địa Trung Hải, có điều khiển lái, hệ thống chấm điểm độ thoải mái của hành khách, nhà ga, nâng cấp và hỗ trợ thiết bị di động.
+
+**Prompt**
+
+```text
+Tạo một game 3D HTML/JS một tệp (Three.js) có thể chơi trực tiếp trên trình duyệt, với phong cách game indie low-poly ấm áp nhưng trau chuốt, gợi không khí một thị trấn ven biển kiểu Ghibli kết hợp sự mượt mà của đường ray xe goòng trong Zelda.
+【Lối chơi chính】  Người chơi điều khiển một xe điện trên không phong cách retro, di chuyển giữa những hòn đảo bay phía trên biển mây và mặt biển.  - Đường ray là một tuyến đường sắt 3D liên tục, gồm các đoạn thẳng, dốc lên, dốc xuống, khúc cua trên cao và những cây cầu dài bắc qua biển  - Điều khiển: W để tăng tốc (Power), S để phanh (Brake), phím trái và phải để tinh chỉnh hoặc đổi góc nhìn  - Hiển thị theo thời gian thực: tốc độ tính bằng km/h, số hành khách trên xe (ví dụ: 12/16 người), điều kiện đường ray (Ổn định / Gió ngang)  - Hệ thống độ thoải mái của hành khách: tăng tốc đột ngột, phanh gấp, vào cua quá nhanh và gió ngang đều làm giảm “độ êm chân”; đến ga đích một cách êm ái sẽ nhận điểm thưởng (ví dụ: +75 khi đến nơi)  - Chuỗi điểm: lái quá xóc sẽ hiện thông báo “Đã mất chuỗi điểm. Hãy tìm lại sự cân bằng để tích lũy tiền boa.”  - Đến ga và mở cửa để hành khách lên xuống. Trên sân ga, người dân xếp hàng chờ, kèm phụ đề như “Đang mở cửa - Mango Tide”, “Vui lòng chờ…”     [Thế giới và nhà ga]  Có ít nhất hai tuyến đường/hai hòn đảo:  1. Saltlight Terminus  2. Mango Tide  Hòn đảo là một đảo đá bay phía trên mây, có những ngôi nhà nhỏ theo phong cách Địa Trung Hải/Nam Âu với mái ngói đỏ, một ngọn hải đăng, bến tàu, cây xanh, đèn đường và những ô cửa sổ vàng ấm áp vào ban đêm. Xa xa là thêm nhiều hòn đảo bay và các quỹ đạo xoay vòng. Bầu trời chuyển sắc xanh lam-tím từ chạng vạng đến đêm, có sao và những đám mây dày; phía dưới là mặt biển xanh ngọc.     [Ngoại hình xe điện]  Xe điện retro: thân xanh lá đậm, khung gầm màu gỗ, cửa sổ kính cong, hành lý trên nóc, mái che/trang trí dây leo màu xanh và nhiều hành khách ngồi bên trong. Khi di chuyển, xe hơi lắc nhẹ và tạo cảm giác có âm thanh đường ray (có thể thể hiện bằng hiệu ứng âm thanh đơn giản hoặc tín hiệu hình ảnh).     [Cảnh 2: Xưởng nâng cấp]  Chuyển sang góc nhìn isometric từ trên xuống của xưởng “Cloudworks / Oliver Cloudworks / hòn đảo quê nhà của Oliver”.  Người chơi có thể thay linh kiện cho xe điện, với giao diện dạng cửa sổ nâng cấp:  - Hearth leaves — Đang tháo linh kiện cũ  - Little Companion — Đang chuẩn bị xe điện  Thanh tiến trình + “Hãy ngồi lại và quan sát xưởng.”  Sau khi nâng cấp, ngoại hình xe điện thay đổi (ví dụ: nóc xanh lá, thêm giá hành lý, đèn lồng, dây leo), rồi xe chạy ra khỏi xưởng, với phụ đề “Mời lên xe.” / “Điểm dừng tiếp theo: Tuyến Ven Biển.”     [Giao diện]  Giao diện game casual hiện đại, gọn gàng: điểm đến và tiền tệ/chuỗi điểm ở góc trên bên trái, thanh tốc độ cùng các nút Power/Brake ở phía dưới, thanh tiến trình độ thoải mái nối tên hai nhà ga. Không rườm rà, không biến game thành kinh dị hay cyberpunk.     [Yêu cầu kỹ thuật]  - Một tệp hoặc số tệp tối thiểu, sử dụng Three.js  - Dùng curve cho đường ray (CatmullRom, v.v.) để xe điện bám theo đường ray; camera bám theo với cảm giác chuyển động nhẹ trên ray  - Tạo cảm giác vật lý đơn giản: quán tính khi tăng tốc, giảm tốc khi phanh, thân xe nghiêng khi vào cua  - Trên thiết bị di động, cố gắng hỗ trợ chạm để tăng tốc/phanh  - Mã dễ đọc, có chú thích và chơi được ngay khi mở tệp.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100838090210431302) · [Bài đăng gốc](https://x.com/YouWareAI/status/2100838828433179037) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2100844566718926949"></a>
+
+### Tạo một thế giới 3D chân thực như ảnh
+
+[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100844566718926949"><img src="../assets/previews/f8596f35d968eda4e24acabd4e2405d42aae7745029b8cf3426d550a2bd2cd52.jpg" width="840" loading="lazy" alt="Tạo một thế giới 3D chân thực như ảnh"></a>
+
+Một yêu cầu gợi ý chỉ với một prompt trong bài đăng gốc để tạo thế giới 3D chân thực như ảnh, có thể đi bộ khám phá. Bài đăng giới thiệu yêu cầu này như một phần của quy trình làm việc với Blender MCP; không khẳng định prompt chính xác này là đầu vào cho phần trình diễn đi kèm.
+
+**Prompt**
+
+```text
+Tạo một thế giới 3D chân thực như ảnh. Hãy khiến tôi bất ngờ.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100844566718926949) · [Bài đăng gốc](https://x.com/JulianGoldieSEO/status/2100844566718926949) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2100956517633761447"></a>
+
+### Mô hình đồng hồ IWC Schaffhausen 3D tương tác
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100956517633761447"><img src="../assets/previews/d7437e20a189ef08ef24c9272fa803e0f9e8d7da7da70314a92980db6a752bdc.jpg" width="840" loading="lazy" alt="Mô hình đồng hồ IWC Schaffhausen 3D tương tác"></a>
+
+Một bình luận đã được xác minh của tác giả cung cấp prompt cho mô hình đồng hồ IWC Schaffhausen 3D tương tác bằng Three.js với độ chi tiết cao. Prompt yêu cầu các bộ phận cơ khí có thể nhận diện riêng, kính sapphire chân thực, kim chuyển động theo thời gian thực và tương tác tháo rời/lắp ráp lại theo dạng bung chi tiết. Bài đăng gốc giới thiệu đây là prompt dùng chung trong một phép so sánh có GPT-6 Astra và các mô hình khác.
+
+**Prompt**
+
+```text
+Sử dụng Three.js để phát triển mô hình đồng hồ IWC Schaffhausen 3D tương tác với độ trung thực cao. Yêu cầu: 1) Cấu trúc mặt số phải cực kỳ chính xác, mọi bộ phận cơ khí đều được dựng riêng và dễ dàng phân biệt; 2) Mặt kính đồng hồ phải sử dụng vật liệu kính sapphire với hiệu ứng trong suốt, khúc xạ và phản xạ chân thực; 3) Kim phút và kim giây phải là các kim chính xác, vận hành theo logic đo thời gian thực, với hoạt ảnh quét kim liên tục và tự động; 4) Hỗ trợ tháo rời và lắp ráp lại đồng hồ, cho phép tách và quan sát từng bộ phận riêng lẻ; 5) Mức độ chi tiết tổng thể phải cực kỳ cao, bám sát cấu trúc và tỷ lệ của đồng hồ thật, với kết cấu vật liệu chân thực cho ốc vít, các chi tiết kim loại và những bộ phận khác, thể hiện tay nghề chế tác tinh xảo. Hãy đảm bảo mô hình chạy mượt trên trình duyệt và tương tác tự nhiên.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100956517633761447) · [Bài đăng gốc](https://x.com/YouWareAI/status/2100958838350643553) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -4071,24 +4196,6 @@ Dựng đầu máy hơi nước bằng Three.js và tạo hoạt cảnh chạy q
 
 ---
 
-<a id="2096561346766877106"></a>
-
-### Cảnh máy hát đĩa than trên bàn
-
-[Nitesh Seram](https://x.com/niteshseram) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106"><img src="../assets/previews/51118e05b31dbe92e3cca2db56ddfa5ea034e0fdd2eaa943af8aad73515392d8.webp" width="840" loading="lazy" alt="Cảnh máy hát đĩa than trên bàn"></a>
-
-**Prompt**
-
-```text
-Dựng cảnh máy hát đĩa than đặt trên bàn bằng Three.js. Dàn dựng như một màn giới thiệu sản phẩm, với đèn bật sáng và camera cho thấy máy hát cùng đồ nội thất xung quanh.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106) · [Bài đăng gốc](https://x.com/niteshseram/status/2096561346766877106) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="2096570815714414844"></a>
 
 ### Săn kho báu trên bãi biển low-poly
@@ -4125,42 +4232,6 @@ Tạo cây xoài Ấn Độ trong SpeedTree cho một cảnh Unreal hướng t�
 
 ---
 
-<a id="2096566598689783878"></a>
-
-### Áp dụng texture và gắn xương cho nhân vật Tripo
-
-[たけうちさんは縮退しました🌀](https://x.com/chimerast) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878"><img src="../assets/previews/409939b647056905bc163425f4e5f1b7447f4a4f807b3e112ef99e2e09e34691.webp" width="840" loading="lazy" alt="Áp dụng texture và gắn xương cho nhân vật Tripo"></a>
-
-**Prompt**
-
-```text
-Đưa nhân vật Tripo Smart Mesh vào Blender. Áp dụng bộ texture của nhân vật và xây dựng bộ xương cơ thể có thể sử dụng được trước khi chuyển sang biểu cảm khuôn mặt.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878) · [Bài đăng gốc](https://x.com/chimerast/status/2096566598689783878) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096566686266597754"></a>
-
-### Từ phác thảo căn hộ đến ảnh nội thất kết xuất
-
-[Everett World](https://x.com/WorldEverett) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754"><img src="../assets/previews/76eeeaa8710b4767fb99c09689e3a0b87ba770495f026e34ea34cb2b5f1f76fc.webp" width="840" loading="lazy" alt="Từ phác thảo căn hộ đến ảnh nội thất kết xuất"></a>
-
-**Prompt**
-
-```text
-Kết hợp ảnh tham khảo căn hộ với bản phác mặt bằng đơn giản để tái dựng nội thất trong Blender. Bàn giao cảnh có thể chỉnh sửa, ảnh kết xuất từng phòng và video tham quan ngắn đã biên tập.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754) · [Bài đăng gốc](https://x.com/WorldEverett/status/2096566686266597754) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="2096572156453028193"></a>
 
 ### Tập hút Lorenz tương tác
@@ -4182,7 +4253,7 @@ Trực quan hóa hai quỹ đạo của hệ Lorenz có vị trí ban đầu ch�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 250 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 254 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>
