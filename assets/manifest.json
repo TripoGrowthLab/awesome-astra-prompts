@@ -544,6 +544,16 @@
       ]
     },
     {
+      "path": "assets/previews/804ff98b5bbd18f23ba66fe1a98ef14b46381b11adb913f606281899db4ecbc0.jpg",
+      "fingerprint": "a581b4d9ea8b3722d9dcddd00b950a5d86424ce2674c8bd948bd1e42616d0b80",
+      "sha256": "804ff98b5bbd18f23ba66fe1a98ef14b46381b11adb913f606281899db4ecbc0",
+      "bytes": 1461476,
+      "sourceUrl": "https://x.com/jaredliu_bravo",
+      "promptIds": [
+        "titanic-the-last-light"
+      ]
+    },
+    {
       "path": "assets/previews/815f26c4feffea428b39e1c5d57de7f183ffc87c517bedb34755eec115e32d6e.png",
       "fingerprint": "00ceceb5743d5a6baed829e98d03c0a4d863226712d7c0139f065551878d1e36",
       "sha256": "815f26c4feffea428b39e1c5d57de7f183ffc87c517bedb34755eec115e32d6e",
@@ -1131,16 +1141,6 @@
       "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2101224468903505920/img/3x46oNqb0mgkwGb7.jpg",
       "promptIds": [
         "2101224659861590399"
-      ]
-    },
-    {
-      "path": "assets/previews/fb7fa5cb69d8bab3b242d25a63a64824b6d86e8f9de46f3329e4ea8de756de07.webp",
-      "fingerprint": "9429b9629ab46ff3f9ede1b75ea91a3aad61828f3fa4b3c956d195214d50d0bb",
-      "sha256": "fb7fa5cb69d8bab3b242d25a63a64824b6d86e8f9de46f3329e4ea8de756de07",
-      "bytes": 172036,
-      "sourceUrl": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096576986462539776-poster-81b14b88727f.webp",
-      "promptIds": [
-        "2096577430274429157"
       ]
     },
     {

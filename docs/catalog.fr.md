@@ -26,7 +26,7 @@
 **Un point de départ pour votre prochain jeu, scène ou monde interactif.**
 
 
-**259 · Derniers prompts Astra**
+**260 · Derniers prompts Astra**
 
 ## Projets à découvrir
 
@@ -142,12 +142,12 @@
 - [Présentation interactive en 3D d’un moteur d’avion](#2101271938706685991)
 - [Workflow d’animation 3D et de génération vidéo d’un chat pratiquant les arts martiaux](#2101310374033428642)
 - [ODD ARMS — Jeu de survie aux armes improbables](#odd-arms)
+- [TITANIC — La dernière lumière](#titanic-the-last-light)
 - [AKARI : Relais de la flamme sur les toits de Nagoya](#akari-nagoya-rooftop-flame-relay)
 - [L’île du Cyclope](#cyclops-island-threejs-game)
 - [Plateau de shogi 3D pivotant](#2096579856133947507)
 - [Atlas éclaté d’un ordinateur de bureau](#2096578761877860502)
 - [Aménagement d’une chambre d’enfant avec espace de travail](#2096578684010508736)
-- [Locomotive à vapeur à travers la campagne](#2096577430274429157)
 
 </details>
 
@@ -4052,6 +4052,64 @@ Vite + JavaScript vanilla + Three.js avec GLTFLoader, éclairage RoomEnvironment
 
 ---
 
+<a id="titanic-the-last-light"></a>
+
+### TITANIC — La dernière lumière
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-20
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/titanic-the-last-light"><img src="../assets/previews/804ff98b5bbd18f23ba66fe1a98ef14b46381b11adb913f606281899db4ecbc0.jpg" width="840" loading="lazy" alt="TITANIC — La dernière lumière"></a>
+
+Une traversée cinématographique de 4:24 à bord du Titanic, sur un Atlantique d’un bleu profond, avec des portraits de personnages, la mise à l’eau suivie des canots et un monde animé à explorer.
+
+**Prompt**
+
+```text
+1. Objectif du projet
+Créer TITANIC — THE LAST LIGHT : un voyage cinématographique interactif de 264 secondes, du dernier coucher de soleil du navire jusqu’à la collision, l’évacuation et le naufrage, puis jusqu’à un mémorial à l’aube. Les visiteurs regardent un film mis en scène, explorent son monde 3D animé, accèdent directement à un chapitre, enregistrent une image fixe ou téléchargent le film complet. Le présenter comme une interprétation artistique, sans revendiquer de précision médico-légale ni d’affiliation officielle.
+
+2. Direction visuelle
+Utiliser une palette cinématographique sobre : les lumières chaudes crème et ambre du navire sur un bleu Atlantique profond, puis une nuit sombre étoilée et une aube aux tons froids. Rendre une scène en perspective avec une composition cinéma au format 2,39:1, un bloom doux, un grain subtil et un vignettage. Utiliser la profondeur de champ pour les portraits de personnages et l’aube, tout en gardant nets les fragments des fusées de détresse. Donner à l’océan une couleur de base bleu profond, des ondulations dans l’espace monde, des normales de rides plus petites avec mipmapping et des réflexions Fresnel ; les teintes chaudes du coucher de soleil doivent principalement apparaître dans la lumière réfléchie. Utiliser des rubans d’écume attachés à la coque et suivant le même déplacement de l’océan, avec des extrémités douces et une écume discontinue. Répéter horizontalement les textures panoramiques sans discontinuité de type fract afin d’éviter les raccords verticaux dans le ciel et les traînées de reflets. Éviter les ombrages orange des eaux peu profondes, les minuscules rides uniformes et les décalcomanies circulaires d’écume lumineuses. Supprimer les faces supérieures cachées et superposées des toits afin d’éviter le z-fighting ; utiliser un plan de clipping proche adapté à la distance de prise de vue. Pendant le naufrage, réduire progressivement la lumière des fenêtres sans ajouter de scintillement haute fréquence. Utiliser un titre serif discret, des commandes bilingues anglais/chinois et une timeline étroite en bas de l’écran.
+
+3. Monde, géographie et montage caméra
+Utiliser un système de coordonnées continu avec un navire de 269 mètres, la proue orientée vers +X et un iceberg fixe en (275, 0, 57). Le navire avance, entre en contact avec l’iceberg à 96.727 secondes, poursuit sa course jusqu’à l’arrêt, puis sombre par sections avant et arrière. Garder l’iceberg présent jusqu’à la fin et visible dans la composition de l’aube. Conserver six chapitres commençant à 0, 63, 110, 163, 211 et 241 secondes.
+
+Construire 23 plans délibérés. L’étreinte à la proue s’étend de 29 à 61 secondes : une approche d’établissement, un double portrait en gros plan, une vue depuis l’arrière vers la mer et un portrait en trois-quarts. Placer Rose devant et Jack derrière elle à l’extrémité avant, tous deux tournés vers l’extérieur, au-dessus de la proue. Maintenir l’éclairage du coucher de soleil pendant toute la séquence. De 127 à 158 secondes, utiliser trois plans attachés au véritable transform monde d’un canot de sauvetage : départ du pont des embarcations, vue rapprochée des passagers et des câbles de suspension, puis approche de l’eau. Enchaîner avec des plans larges de l’évacuation, de la gîte, de la fracture et du naufrage. À l’aube, montrer les canots survivants avec l’iceberg au loin, puis un titre commémoratif sobre.
+
+4. Inventaire des assets
+- titanic-vessel : construire dans Blender la structure principale de 269 mètres, avec des ponts-garages continus, un gaillard d’avant fermé, des promenades superposées, quatre cheminées évasées creuses de couleur chamois, une partie supérieure de coque noire et une partie inférieure rouge. Utiliser de véritables cerclages circulaires pour les 864 hublots et des cadres pour les 360 fenêtres. Limiter l’émission aux matériaux de vitrage réels. Regrouper les matériaux et effectuer une séparation en x=-32 pour le naufrage. Ajouter les mâts, le gréement, les bossoirs, les garants, les hélices en bronze et le gouvernail. Générer une descente P2 avec portes en teck et détails en laiton, la normaliser et la réutiliser deux fois sur le pont créé. Préserver les transformations des nœuds lors de l’assemblage du GLB.
+- atlantic-iceberg : un iceberg bleu-blanc irrégulier et érodé, avec des couches de givre, une variation de rugosité, une carte de normales discrète et une ligne de flottaison convaincante. Il reste un objet géographique fixe.
+- lifeboat : un canot de sauvetage à rames White Star, avec une coque en bois blanc, un plat-bord sombre, des bancs et des rames, instancié sur seize canots se déplaçant indépendamment.
+- bow-embrace : un asset isolé représentant les deux personnages, inspiré des costumes et de la pose demandés du film de 1997 : Rose aux cheveux auburn, vêtue de bleu marine et d’ivoire avec un châle à motifs, les bras tendus ; Jack immédiatement derrière elle, en manteau sombre et chemise ivoire. Générer une image de référence propre avant la conversion en 3D. Construire la tête en gros plan, le cou entier et le haut du torse comme une seule surface H v3.1 continue par personnage principal, à partir d’une référence propre de la tête, du cou et des épaules. Conserver la pose d’étreinte P2, les mains et les costumes. Utiliser une retopologie en quadrilatères, un nettoyage local de la surface dans Blender et une cuisson des couleurs et des normales en 4K. Ajuster l’interface sous les ouvertures des vêtements au lieu de la joindre directement sous la mâchoire. Préserver le cou continu généré. Ajuster le bas du torse aux contours mesurés du corps sous le vêtement d’origine, restaurer le haut du dos continu de P2 et supprimer les anciens restes de cheveux. Éviter les pans de col flottants et les extrusions du cou aux UV étirées. Examiner les deux vues latérales basses et les vues arrière pour détecter tout jour visible ou bord découpé exposé. Inspecter les paupières, les iris, les lèvres, les mains et les raccords de textures depuis les vues caméra créées. Réduire séparément les reflets aux angles rasants du tissu et l’ombrage de la peau. Utiliser des expressions naturelles de base, avec des mouvements mesurés du corps et des vêtements ; ne pas laisser entendre l’existence d’un rig d’animation faciale s’il n’est pas réellement implémenté.
+- seated-woman et seated-man : modèles distincts de passagers adultes portant des vêtements de 1912 et des gilets de sauvetage en liège clair, assis les genoux pliés et les mains sur les genoux. Partager la géométrie et les matériaux entre les canots ; faire légèrement varier le placement et l’orientation. Utiliser des nombres d’instances réversibles par canot pour l’embarquement.
+
+Utiliser Blender pour le navire principal, Tripo P2.0 pour la descente de pont, l’iceberg, les canots, les costumes et les passagers, et H v3.1 pour les deux portraits principaux continus. Conserver l’océan, le dégradé du ciel, les étoiles, l’éclairage, la fumée, les fusées de détresse, l’écume, les embruns et les débris comme effets de scène. Fournir des variantes web plus légères des modèles, avec des textures compressées, et conserver les assets en pleine résolution pour l’export hors ligne du film.
+
+5. Lecture et retours
+Afficher la progression réelle du chargement des assets essentiels du navire, des canots, du ciel et des normales de la mer. Activer le bouton de lancement dès que la première scène est prête ; différer les autres modèles et la musique. Si un modèle de personnage ou d’iceberg requis prend du retard, attendre à la limite de sa scène et reprendre dès qu’il est prêt, plutôt que de passer son plan sous silence. L’audio commence après l’interaction de l’utilisateur.
+
+La timeline doit permettre la recherche vers l’avant et l’arrière ainsi que les glissements rapides, sans revenir à zéro. Préserver l’état lecture/pause et la coupure du son pendant la recherche ; ne pas laisser l’ancienne horloge audio écraser la position demandée. Servir les plages d’octets pour les fichiers MP3 et MP4. La navigation par chapitres comprend des entrées directes vers l’étreinte à la proue à 29 secondes et la mise à l’eau du canot à 127 secondes ; celles-ci restaurent la caméra du réalisateur tout en préservant l’état de lecture.
+
+L’exploration permet d’orbiter, de faire glisser et de zoomer tandis que le monde, le navire et la bande-son continuent. Suivre la translation du navire sans modifier brusquement la direction du regard. La pause reste indépendante ; le retour au film conserve le temps actuel. La barre d’espace lit/met en pause, les flèches avancent ou reculent de dix secondes, M active ou désactive le son, E active ou désactive l’exploration et F ouvre le plein écran. Prendre en charge l’orbite et le pincement tactiles, ainsi que le toucher de la timeline.
+
+Les canots commencent vides. Les passagers embarquent par groupes décalés après 112 secondes et ont terminé avant la descente de chaque canot. Les cordages relient les bossoirs en mouvement aux véritables points d’attache des canots, puis disparaissent après le largage. Une recherche vers l’arrière restaure l’occupation et l’état antérieurs des cordages. La collision doit synchroniser les vibrations de la coque et de la caméra, les éclats de glace, les embruns de frottement et un transitoire sonore de contact acier/glace. Les fusées de détresse utilisent des étoiles blanches incandescentes, de courtes traînées individuelles, la gravité, la traînée et une fumée qui s’estompe. Les perturbations du naufrage sont des nappes irrégulières qui suivent les vagues et s’atténuent progressivement ; répartir les embruns le long de la véritable ligne de flottaison de la poupe, jamais depuis une fontaine de particules éloignée.
+
+6. Implémentation technique et livrables
+Utiliser Vite, des modules JavaScript et Three.js avec une animation déterministe fondée sur le temps. Séparer la caméra/timeline, les assets du navire, les personnages, l’environnement, les effets et la disponibilité des scènes. Partager le même modèle temporel pour la lecture web, la recherche et la capture hors ligne. Maintenir le rendu web dans un budget explicite de pixels, de réflexions et d’ombres ; réserver l’occlusion ambiante plus coûteuse au profil hors ligne. Compiler et décoder les assets sans long préchauffage bloquant au démarrage. Héberger les scripts, modèles, images, polices et fichiers audio sur la même origine, et ne pas inclure de secrets dans le build statique.
+
+Utiliser une musique originale et des effets Foley payants produits avec ElevenLabs : une prise complète de sifflement naturel de feu d’artifice, découpée à son véritable éclatement aérien en une montée et une détonation nette à traînée crépitante, ainsi que le contact et le frottement acier/glace, les cordages des canots et le contact avec l’eau, la tension et la fracture de la coque, et le déplacement de l’eau à la poupe. Exporter les fichiers WAV sources, conserver les prompts et les identifiants d’historique, puis les monter en repères synchronisés. Synchroniser les lancements à 119, 151 et 183 secondes, avec les éclatements 3,15 secondes plus tard. Conserver l’attaque originale des éclatements et baisser brièvement le niveau de la musique orchestrale. Maintenir sous le mixage une ambiance discrète de mer, de vent et de moteur. La bande-son du film de référence n’est pas incluse sans autorisation, ni sur le site public ni dans le film téléchargeable. Documenter les sources réelles des assets et des sons plutôt que de présenter un recours comme un asset généré par un service.
+
+Fournir un export déterministe de 6 336 images en 3840×2160 à 24 i/s, avec trois échantillons temporels, des titres anglais incrustés et une image au format 2,39:1 avec bandes noires. Encoder un master 4K H.264/AAC et une version web 1080p de moins de 100 Mio, tous deux d’une durée de 264 secondes avec un son stéréo à 48 kHz. Préserver les sous-titres chinois/anglais facultatifs, le master audio et les sources modifiables. Publier le build statique via l’hébergement Web Pages du CMS existant, sans ajouter d’application de plateforme ni de Worker par page.
+
+7. Recette
+Inspecter l’ouverture, les deux portraits de personnages, la collision, les fusées de détresse, les trois plans de descente, la fracture, la disparition de la poupe et l’aube. Vérifier que l’iceberg ne disparaît pas à 244 secondes, que la mer est bien perçue comme bleu profond, que le naufrage ne comporte pas d’anneaux blancs réguliers, que les personnages restent présents dans leurs plans créés et que les cordages et les passagers des canots restent alignés pendant toute la descente. Tester le chargement différé des modèles, la recherche vers l’avant et l’arrière, le scrubbing rapide, la pause et la coupure du son, l’exploration dynamique, les accès directs aux gros plans et l’émulation tactile. Vérifier chaque image exportée, décoder entièrement les deux films, comparer le téléchargement réel du navigateur au fichier livré, et vérifier le build public ainsi que l’association au CMS. Distinguer l’émulation mobile du navigateur d’un test effectué sur un téléphone physique.
+
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/titanic-the-last-light) · [Démo](https://titanic-the-last-light.tripo.page/) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="akari-nagoya-rooftop-flame-relay"></a>
 
 ### AKARI : Relais de la flamme sur les toits de Nagoya
@@ -4221,28 +4279,10 @@ Reconstruis une chambre d’enfant qui sert aussi d’espace de travail à parti
 
 ---
 
-<a id="2096577430274429157"></a>
-
-### Locomotive à vapeur à travers la campagne
-
-[ダンさんブル@d三b](https://x.com/dansanburu) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157"><img src="../assets/previews/fb7fa5cb69d8bab3b242d25a63a64824b6d86e8f9de46f3329e4ea8de756de07.webp" width="840" loading="lazy" alt="Locomotive à vapeur à travers la campagne"></a>
-
-**Prompt**
-
-```text
-Modélise une locomotive à vapeur dans Three.js et anime son trajet dans une scène de campagne. Synchronise la rotation des roues avec le déplacement du train.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157) · [Publication originale](https://x.com/dansanburu/status/2096577430274429157) · [Retour aux exemples](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 259 exemples sur le site officiel →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 260 exemples sur le site officiel →</a></strong></p>
 <p><sub>Pour préserver la fluidité du rendu du README sur GitHub, seuls les 100 exemples les plus récents sont affichés ici.</sub></p>
 <br>
 </td></tr>

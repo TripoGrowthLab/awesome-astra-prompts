@@ -26,7 +26,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**259 · Neueste Astra-Prompts**
+**260 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -142,12 +142,12 @@
 - [Interaktive 3D-Darstellung eines Flugzeugtriebwerks](#2101271938706685991)
 - [3D-Animations- und Video-Workflow für eine Kampfkunstkatze](#2101310374033428642)
 - [ODD ARMS — Survival-Game mit verrückten Waffen](#odd-arms)
+- [TITANIC — Das letzte Licht](#titanic-the-last-light)
 - [AKARI: Flammenstaffel auf den Dächern von Nagoya](#akari-nagoya-rooftop-flame-relay)
 - [Die Insel des Zyklopen](#cyclops-island-threejs-game)
 - [Drehbares 3D-Shogi-Brett](#2096579856133947507)
 - [Interaktiver Desktop-PC in Explosionsansicht](#2096578761877860502)
 - [Planung für Kinderzimmer und Arbeitsplatz](#2096578684010508736)
-- [Dampflokomotive auf dem Weg durchs Land](#2096577430274429157)
 
 </details>
 
@@ -4052,6 +4052,64 @@ Vite + Vanilla-JavaScript + Three.js mit GLTFLoader, RoomEnvironment-Beleuchtung
 
 ---
 
+<a id="titanic-the-last-light"></a>
+
+### TITANIC — Das letzte Licht
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-20
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/titanic-the-last-light"><img src="../assets/previews/804ff98b5bbd18f23ba66fe1a98ef14b46381b11adb913f606281899db4ecbc0.jpg" width="840" loading="lazy" alt="TITANIC — Das letzte Licht"></a>
+
+Eine 4:24-minütige filmische Titanic-Reise über einen tiefblauen Atlantik – mit Charakterporträts, dem detailliert verfolgten Absenken der Rettungsboote und einer bewegten Welt zum Erkunden.
+
+**Prompt**
+
+```text
+1. Projektziel
+Erstelle TITANIC — THE LAST LIGHT: eine interaktive, 264 Sekunden lange filmische Reise vom letzten Sonnenuntergang des Schiffs über Kollision, Evakuierung und Untergang bis zu einem Gedenkmoment im Morgengrauen. Besucher sehen einen inszenierten Film, erkunden die sich bewegende 3D-Welt, springen zu einem Kapitel, speichern ein Standbild oder laden den vollständigen Film herunter. Präsentiere das Werk als künstlerische Interpretation, ohne forensische Genauigkeit oder eine offizielle Verbindung zu behaupten.
+
+2. Visuelle Ausrichtung
+Verwende eine zurückhaltende filmische Farbpalette: warmes Creme und bernsteinfarbene Schiffslichter vor tiefem Atlantikblau, gefolgt von einer dunklen, sternenbeleuchteten Nacht und einem kühlen Morgengrauen. Rendere eine perspektivische Szene in einer 2,39:1-Filmkomposition mit weichem Bloom, feinem Grain und Vignette. Verwende für Charakterporträts und das Morgengrauen eine Tiefenschärfe, während die Partikel der Notsignalraketen scharf bleiben. Gib dem Ozean eine tiefblaue Grundfarbe, Wellen im World Space, kleinere mipmapped Ripple-Normalmaps und Fresnel-Reflexionen; warme Sonnenuntergangsfarben gehören hauptsächlich ins reflektierte Licht. Verwende am Rumpf befestigte Wake-Ribbons, die derselben Ozeanverformung folgen, mit weichen Enden und aufgebrochenem Schaum. Wiederhole Panorama-Texturen horizontal ohne eine fraktale Naht, damit keine vertikalen Himmelstreifen und Reflexionsspuren entstehen. Vermeide orangefarbene Flachwasser-Schattierung, winzige gleichmäßige Wellen und leuchtende kreisförmige Schaum-Decals. Entferne verdeckte, überlappende Dachoberseiten, um Z-Fighting zu verhindern, und verwende eine zur Aufnahmeentfernung passende Kamera-Near-Plane. Dimme während des Untergangs das Fensterlicht monoton, statt hochfrequentes Flackern hinzuzufügen. Verwende einen ruhigen Serifentitel, zweisprachige englische/chinesische Bedienelemente und eine schmale Zeitleiste am unteren Rand.
+
+3. Welt, Geografie und Kamera-Schnitt
+Verwende ein durchgängiges Koordinatensystem mit einem 269 Meter langen Schiff, dessen Bug in Richtung +X zeigt, und einem bei (275, 0, 57) fixierten Eisberg. Das Schiff fährt vor, berührt den Eisberg bei 96.727 Sekunden, kommt zum Stillstand und sinkt anschließend in einem vorderen und einem hinteren Abschnitt. Der Eisberg bleibt bis zum Ende vorhanden und in der Morgengrauen-Komposition sichtbar. Behalte sechs Kapitel bei, die bei 0, 63, 110, 163, 211 und 241 Sekunden beginnen.
+
+Erstelle 23 bewusst geplante Einstellungen. Die Bug-Umarmung erstreckt sich von 29 bis 61 Sekunden: eine etablierende Annäherung, ein enges Doppelporträt, eine Ansicht von hinten in Richtung Meer und ein schräges Porträt. Platziere Rose vorne und Jack direkt hinter ihr an der Bugspitze, beide mit Blick nach außen über den Bug. Behalte während der gesamten Sequenz die Sonnenuntergangsbeleuchtung bei. Verwende von 127 bis 158 Sekunden drei Einstellungen, die an den tatsächlichen World-Transform eines Rettungsboots gebunden sind: das Ablegen vom Bootsdeck, eine nähere Ansicht der Passagiere und Halteseile sowie die Annäherung an das Wasser. Es folgen weite Evakuierungs-, Schlagseiten-, Bruch- und Untergangseinstellungen. Zeige im Morgengrauen die überlebenden Boote mit dem Eisberg in der Ferne und anschließend einen zurückhaltenden Gedenktitel.
+
+4. Asset-Übersicht
+- titanic-vessel: Erstelle die primäre 269-Meter-Struktur in Blender mit durchgängigen Well-Decks, geschlossenem Vorschiff, mehrlagigen Promenadendecks, vier hohlen, nach hinten geneigten hellbraunen Schornsteinen, schwarzem oberen und rotem unteren Rumpf. Verwende echte kreisförmige Einfassungen für 864 Bullaugen sowie Rahmen für 360 Fenster. Beschränke Emission auf tatsächliche Verglasungsmaterialien. Fasse Materialien stapelweise zusammen und trenne sie bei x=-32 für den Untergang. Füge Masten, Rigging, Davits, Taljen, Bronzepropeller und Ruder hinzu. Erzeuge einen P2-Treppenniedergang mit Teakholztüren und Messingdetails, normalisiere ihn und verwende ihn zweimal erneut auf dem erstellten Deck. Bewahre beim Zusammenbau der GLB die Node-Transforms.
+- atlantic-iceberg: ein unregelmäßiger, erodierter blau-weißer Eisberg mit geschichteten Froststrukturen, variierender Rauheit, einer zurückhaltenden Normalmap und einer überzeugenden Wasserlinie. Er bleibt ein festes geografisches Objekt.
+- lifeboat: ein Ruderrettungsboot der White Star Line mit weißer Holzschale, dunkler Dollbordkante, Bänken und Rudern, instanziiert über sechzehn unabhängig bewegte Boote.
+- bow-embrace: ein isoliertes Doppelcharakter-Asset, inspiriert von den Kostümen und der Pose des angeforderten Films von 1997: Rose mit rotbraunem Haar, Kleidung in Marineblau und Elfenbein sowie einem gemusterten Schal, die Arme ausgestreckt; Jack unmittelbar dahinter in einem dunklen Mantel und elfenbeinfarbenem Hemd. Erzeuge vor der Konvertierung in 3D ein sauberes Referenzbild. Erstelle Kopf, vollständigen Hals und oberen Brustbereich der Nahaufnahme als eine durchgängige H-v3.1-Oberfläche pro Hauptfigur, basierend auf einer sauberen Kopf-Hals-Schulter-Referenz. Behalte die P2-Umarmungspose, Hände und Kostüme bei. Verwende Quad-Retopologie, lokale Oberflächenbereinigung in Blender sowie 4K-Farb- und Normal-Baking. Passe die Schnittstelle unterhalb der Kleidungsöffnungen an, statt sie direkt unter dem Kiefer anzusetzen. Bewahre den erzeugten durchgängigen Hals. Passe den unteren Brustbereich unterhalb des ursprünglichen Kleidungsstücks an gemessene Oberkörperkonturen an, stelle den durchgängigen oberen P2-Rücken wieder her und entferne veraltete Haarreste. Vermeide schwebende Kragenflächen und durch gestreckte UVs verursachte Halsauszüge. Prüfe beide seitlichen Untersichten und die Rückansichten auf Lichtspalten oder freiliegende Schnittkanten. Untersuche Augenlider, Iris, Lippen, Hände und Textur-Nähte aus den erstellten Kameraperspektiven. Reduziere Glanzlichter des Stoffes bei streifendem Lichteinfall getrennt von der Hautschattierung. Verwende natürliche Grundausdrücke mit zurückhaltender Bewegung von Körper und Stoff; suggeriere kein Gesichtsanimations-Rig, sofern keines tatsächlich implementiert ist.
+- seated-woman und seated-man: separate erwachsene Passagiermodelle in Kleidung von 1912 und hellen Korkschwimmwesten, sitzend mit angewinkelten Knien und den Händen im Schoß. Teile Geometrie und Materialien über mehrere Boote hinweg; variiere Platzierung und Ausrichtung leicht. Verwende umkehrbare Instanzanzahlen pro Boot für das Einsteigen.
+
+Verwende Blender für das primäre Schiff, Tripo P2.0 für den Deck-Treppenniedergang, den Eisberg, die Boote, Kostüme und Passagiere sowie H v3.1 für die beiden durchgängigen Hauptporträts. Halte Ozean, Himmel-Blend, Sterne, Beleuchtung, Rauch, Notsignalraketen, Schaum, Gischt und Trümmer als Szeneneffekte. Liefere leichtere Web-Modellvarianten mit komprimierten Texturen und behalte Assets in voller Auflösung für den Offline-Filmexport.
+
+5. Wiedergabe und Feedback
+Zeige den tatsächlichen Ladefortschritt für die benötigten Schiffs-, Boots-, Himmel- und Meeres-Normalmap-Assets. Aktiviere den Start-Button, sobald die erste Szene bereit ist; lade die übrigen Modelle und die Musik verzögert. Falls ein benötigtes Charakter- oder Eisbergmodell verspätet eintrifft, halte an der Szenengrenze an und fahre fort, sobald es bereit ist, statt die Einstellung stillschweigend zu überspringen. Der Ton beginnt nach einer Nutzerinteraktion.
+
+Die Zeitleiste muss Vorwärts- und Rückwärtssuchen sowie schnelle Ziehbewegungen unterstützen, ohne auf null zurückzusetzen. Bewahre beim Suchen den Wiedergabe-/Pausen- und Stummschaltungsstatus; verhindere, dass die alte Audio-Uhr die angeforderte Position überschreibt. Liefere Byte-Ranges für MP3 und MP4 aus. Die Kapitel-Navigation enthält direkte Einträge für die Bug-Umarmung bei 29 Sekunden und das Absenken des Rettungsboots bei 127 Sekunden; diese stellen die Kamera des Regisseurs wieder her und bewahren den Wiedergabestatus.
+
+Die Erkundung erlaubt Orbitieren, Ziehen und Zoomen, während Welt, Schiff und Soundtrack weiterlaufen. Folge der Translation des Schiffs, ohne die Blickrichtung einrasten zu lassen. Die Pause bleibt unabhängig; bei der Rückkehr zum Film bleibt die aktuelle Zeit erhalten. Mit der Leertaste wird abgespielt/pausiert, die Pfeiltasten springen zehn Sekunden, M schaltet den Ton um, E aktiviert/deaktiviert die Erkundung und F öffnet den Vollbildmodus. Unterstütze Touch-Orbit und Pinch-Zoom sowie das Tippen auf die Zeitleiste.
+
+Die Boote starten leer. Nach 112 Sekunden steigen Passagiere in gestaffelten Gruppen ein und sind fertig, bevor das jeweilige Boot abgesenkt wird. Seile verlaufen zwischen den bewegten Davits und den tatsächlichen Befestigungspunkten der Boote und verschwinden nach dem Lösen. Rückwärtssuchen stellt frühere Belegungs- und Seilzustände wieder her. Die Kollision muss Rumpf-/Kameravibration, Eissplitter, Schabgischt und ein kurzes Stahl-/Eis-Klangereignis koordinieren. Notsignalraketen verwenden weiß brennende Sterne, kurze individuelle Leuchtspuren, Gravitation, Luftwiderstand und verblassenden Rauch. Die Störungen beim Untergang sind unregelmäßige, den Wellen folgende Flächen, die allmählich abklingen; verteile die Gischt entlang der tatsächlichen Wasserlinie des Hecks, niemals aus einer entfernten Punktfontäne.
+
+6. Technische Umsetzung und Deliverables
+Verwende Vite, JavaScript-Module und Three.js mit deterministischer, zeitbasierter Animation. Trenne Kamera/Timeline, Schiffs-Assets, Charaktere, Umgebung, Effekte und Szenenbereitschaft. Verwende dasselbe Zeitmodell für Web-Wiedergabe, Suchen und Offline-Aufzeichnung. Halte das Web-Rendering innerhalb eines klar definierten Budgets für Pixel, Reflexionen und Schatten; verschiebe aufwendigere Umgebungsverdeckung in das Offline-Profil. Kompiliere und dekodiere Assets ohne ein langes blockierendes Vorwärmen beim Start. Hoste Skripte, Modelle, Bilder, Schriften und Audio auf derselben Origin und halte Geheimnisse aus dem statischen Build heraus.
+
+Verwende eine eigene Filmmusik und kostenpflichtig erzeugte ElevenLabs-Foleyaufnahmen: eine vollständige natürliche Aufnahme eines pfeifenden Feuerwerks, an der tatsächlichen Luftdetonation geteilt in aufsteigenden Flug und einen scharfen Knall mit knisterndem Nachhall, dazu Stahl-/Eiskontakt und Schaben, Rettungsbootseile und Wasserkontakt, Rumpfspannung/-bruch sowie die Wasserverdrängung am Heck. Exportiere die Quell-WAV-Dateien, bewahre Prompts und Verlaufs-IDs auf und schneide sie zu zeitlich passenden Cues. Synchronisiere die Starts bei 119, 151 und 183 Sekunden, die Luftdetonationen jeweils 3,15 Sekunden später. Behalte den ursprünglichen Anschlag der Explosion bei und senke die Orchestermusik kurz ab. Halte leises Meer-, Wind- und Motorambiente unter dem Mix. Der Soundtrack des Referenzfilms ist ohne Genehmigung weder für die öffentliche Website noch für den herunterladbaren Film enthalten. Dokumentiere die tatsächlichen Quellen von Assets und Sounds, statt einen Fallback als servicegeneriertes Asset zu beschreiben.
+
+Liefere einen deterministischen Export von 6.336 Frames mit 3840×2160 bei 24 fps und drei zeitlichen Samples, eingebrannten englischen Titeln und einem Letterbox-Bild im Seitenverhältnis 2,39:1. Kodiere einen 4K-H.264/AAC-Master und eine 1080p-Webfassung unter 100 MiB, beide 264 Sekunden lang und mit 48-kHz-Stereo-Audio. Bewahre optionale chinesische/englische Untertitel, den Audio-Master und editierbare Quelldateien. Veröffentliche den statischen Build über das vorhandene CMS-Web-Pages-Hosting, ohne eine Plattformanwendung oder einen per-Page-Worker hinzuzufügen.
+
+7. Abnahme
+Prüfe den Beginn, beide Charakterporträts, die Kollision, die Notsignalraketen, alle drei Absenk-Einstellungen, den Bruch, das Verschwinden des Hecks und das Morgengrauen. Stelle sicher, dass der Eisberg bei 244 Sekunden nicht verschwindet, das Meer tiefblau wirkt, der Untergang keine regelmäßigen weißen Ringe aufweist, die Charaktere in ihren erstellten Einstellungen vorhanden bleiben und Bootsseile sowie Passagiere während des gesamten Absenkens ausgerichtet bleiben. Teste verzögertes Modell-Laden, Vorwärts-/Rückwärtssuchen, schnelles Scrubbing, Pause/Stummschaltung, dynamische Erkundung, direkte Nahaufnahme-Einträge und Touch-Emulation. Überprüfe jedes exportierte Frame, dekodiere beide Filme vollständig, vergleiche den tatsächlichen Browser-Download mit der gelieferten Datei und überprüfe den öffentlichen Build sowie die CMS-Zuordnung. Unterscheide zwischen mobiler Browser-Emulation und Tests auf einem physischen Smartphone.
+
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/titanic-the-last-light) · [Live-Demo](https://titanic-the-last-light.tripo.page/) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="akari-nagoya-rooftop-flame-relay"></a>
 
 ### AKARI: Flammenstaffel auf den Dächern von Nagoya
@@ -4221,28 +4279,10 @@ Rekonstruiere ein Kinderzimmer, das zugleich als Arbeitsplatz dient, anhand von 
 
 ---
 
-<a id="2096577430274429157"></a>
-
-### Dampflokomotive auf dem Weg durchs Land
-
-[ダンさんブル@d三b](https://x.com/dansanburu) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157"><img src="../assets/previews/fb7fa5cb69d8bab3b242d25a63a64824b6d86e8f9de46f3329e4ea8de756de07.webp" width="840" loading="lazy" alt="Dampflokomotive auf dem Weg durchs Land"></a>
-
-**Prompt**
-
-```text
-Modelliere eine Dampflokomotive in Three.js und animiere ihre Fahrt durch eine ländliche Szene. Synchronisiere die Radbewegung mit der Bewegung des Zuges.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157) · [Originalbeitrag](https://x.com/dansanburu/status/2096577430274429157) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 259 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 260 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>

@@ -26,7 +26,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**259 · Prompt Astra mới nhất**
+**260 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -142,12 +142,12 @@
 - [Mô hình tương tác 3D động cơ máy bay](#2101271938706685991)
 - [Quy trình tạo hoạt ảnh 3D và video mèo võ thuật catfu](#2101310374033428642)
 - [ODD ARMS — Game sinh tồn với vũ khí kỳ quặc](#odd-arms)
+- [TITANIC — Ánh sáng cuối cùng](#titanic-the-last-light)
 - [AKARI: Tiếp lửa trên những sân thượng Nagoya](#akari-nagoya-rooftop-flame-relay)
 - [Hòn đảo của Cyclops](#cyclops-island-threejs-game)
 - [Bàn cờ shogi 3D có thể xoay](#2096579856133947507)
 - [Bản đồ tháo rời linh kiện máy tính để bàn](#2096578761877860502)
 - [Lên phương án bố trí phòng trẻ em kiêm nơi làm việc](#2096578684010508736)
-- [Đầu máy hơi nước chạy qua miền quê](#2096577430274429157)
 
 </details>
 
@@ -4086,6 +4086,64 @@ Vite + JavaScript thuần + Three.js với GLTFLoader, ánh sáng RoomEnvironmen
 
 ---
 
+<a id="titanic-the-last-light"></a>
+
+### TITANIC — Ánh sáng cuối cùng
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-20
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/titanic-the-last-light"><img src="../assets/previews/804ff98b5bbd18f23ba66fe1a98ef14b46381b11adb913f606281899db4ecbc0.jpg" width="840" loading="lazy" alt="TITANIC — Ánh sáng cuối cùng"></a>
+
+Một chuyến du hành điện ảnh dài 4:24 qua Titanic, với Đại Tây Dương xanh thẳm, chân dung nhân vật, cảnh hạ xuồng cứu sinh có chuyển động theo thực tế và một thế giới sống động để khám phá.
+
+**Prompt**
+
+```text
+1. Mục tiêu dự án
+Tạo TITANIC — THE LAST LIGHT: một hành trình điện ảnh tương tác dài 264 giây, từ hoàng hôn cuối cùng của con tàu, qua va chạm, sơ tán và chìm xuống, đến lễ tưởng niệm lúc bình minh. Người xem có thể theo dõi bộ phim được dàn dựng, khám phá thế giới 3D chuyển động, chuyển đến một chương, lưu ảnh tĩnh hoặc tải xuống toàn bộ phim. Trình bày đây là một diễn giải nghệ thuật, không tuyên bố độ chính xác pháp chứng hay mối liên hệ chính thức.
+
+2. Định hướng hình ảnh
+Sử dụng bảng màu điện ảnh tiết chế: ánh đèn tàu màu kem ấm và hổ phách trên nền xanh lam đậm của Đại Tây Dương, sau đó chuyển sang đêm tối đầy sao và bình minh mát lạnh. Dựng cảnh phối cảnh với bố cục phim 2.39:1, bloom mềm, hạt nhiễu tinh tế và vignette. Dùng độ sâu trường ảnh cho các chân dung nhân vật và cảnh bình minh, đồng thời giữ các hạt từ pháo hiệu sắc nét. Tạo màu thân đại dương xanh lam đậm, các gợn sóng trong world space, normal ripple nhỏ hơn có mipmap và phản xạ Fresnel; màu hoàng hôn chủ yếu chỉ xuất hiện trong ánh sáng phản chiếu. Dùng các dải wake gắn với thân tàu, bám theo cùng một biến dạng đại dương, với phần cuối mềm và bọt biển đứt quãng. Lặp texture panorama theo chiều ngang mà không tạo điểm gián đoạn, để tránh đường nối dọc trên bầu trời và các vệt phản chiếu. Tránh tô màu vùng nước nông cam, các gợn sóng nhỏ đồng đều và decal bọt hình tròn phát sáng. Xóa các mặt trên mái nhà bị che khuất và chồng lấn để tránh hiện tượng đấu độ sâu; dùng camera có mặt phẳng cắt gần phù hợp với khoảng cách của cảnh quay. Trong lúc chìm, làm ánh sáng cửa sổ tối dần một cách đơn điệu thay vì thêm hiệu ứng nhấp nháy tần số cao. Dùng tiêu đề serif yên tĩnh, các nút điều khiển song ngữ Anh/Trung và timeline hẹp dọc cạnh dưới.
+
+3. Thế giới, địa lý và dựng camera
+Dùng một hệ tọa độ liên tục với con tàu dài 269 mét, mũi tàu hướng về +X và một tảng băng cố định tại (275, 0, 57). Con tàu tiến lên, chạm tảng băng ở giây 96.727, trôi tiếp đến khi dừng lại, rồi chìm theo phần mũi và phần đuôi. Giữ tảng băng xuất hiện đến hết phim và nhìn thấy trong bố cục bình minh. Giữ sáu chương bắt đầu tại các mốc 0, 63, 110, 163, 211 và 241 giây.
+
+Dựng 23 cảnh quay có chủ đích. Phân đoạn ôm nhau ở mũi tàu kéo dài từ giây 29–61: một cảnh giới thiệu lúc tiến đến, cận cảnh hai nhân vật, góc nhìn từ phía sau hướng ra biển và một chân dung góc xiên. Đặt Rose ở phía trước và Jack ngay sau cô tại đầu mũi tàu, cả hai cùng hướng ra ngoài mũi tàu. Duy trì ánh sáng hoàng hôn xuyên suốt chuỗi cảnh. Từ giây 127–158, dùng ba cảnh quay gắn với transform thế giới thực của một xuồng cứu sinh: rời boong xuồng, cận cảnh hành khách và dây treo, rồi tiến xuống mặt nước. Tiếp theo là các cảnh sơ tán góc rộng, tàu nghiêng, gãy vỡ và chìm xuống. Lúc bình minh, cho thấy những xuồng còn sống sót với tảng băng ở xa, sau đó hiện tiêu đề tưởng niệm tiết chế.
+
+4. Danh mục tài sản
+- titanic-vessel: dựng cấu trúc chính dài 269 mét trong Blender, với các boong hở liên tục, lâu đài mũi kín, các dãy lối dạo nhiều lớp, bốn ống khói nghiêng rỗng màu vàng nhạt, thân tàu phía trên màu đen và thân tàu phía dưới màu đỏ. Dùng vành tròn thật cho 864 ô cửa tròn và khung cho 360 cửa sổ. Chỉ cho phép phát sáng ở các vật liệu kính thực tế. Gộp vật liệu và tách tại x=-32 để phục vụ cảnh chìm. Thêm cột buồm, rigging, davit, dây hạ, chân vịt bằng đồng và bánh lái. Tạo một companionway P2 với cửa gỗ tếch và chi tiết đồng thau, chuẩn hóa nó rồi tái sử dụng hai lần trên boong đã dàn dựng. Giữ nguyên transform của node khi lắp ráp GLB.
+- atlantic-iceberg: một tảng băng xanh-trắng không đều, bị bào mòn, với các lớp sương giá, biến thiên roughness, normal map tiết chế và đường tiếp nước thuyết phục. Đây là một đối tượng địa lý cố định.
+- lifeboat: một xuồng cứu sinh chèo tay của White Star, với vỏ gỗ trắng, thành xuồng tối màu, ghế băng và mái chèo; được tạo instance trên mười sáu xuồng chuyển động độc lập.
+- bow-embrace: một tài sản nhân vật đôi tách biệt, lấy cảm hứng từ trang phục và tư thế trong bộ phim năm 1997 được yêu cầu: Rose với mái tóc nâu đỏ, trang phục xanh navy/ngà và khăn choàng hoa văn, hai tay dang rộng; Jack đứng ngay sau, mặc áo khoác tối màu và áo sơ mi ngà. Tạo ảnh tham chiếu sạch trước khi chuyển sang 3D. Dựng đầu cận cảnh, toàn bộ cổ và phần ngực trên thành một bề mặt H v3.1 liên tục cho mỗi nhân vật chính, dựa trên ảnh tham chiếu sạch phần đầu-cổ-vai. Giữ nguyên tư thế ôm P2, bàn tay và trang phục. Dùng retopology quad, làm sạch bề mặt cục bộ trong Blender và bake màu/normal 4K. Lắp phần giao diện bên dưới các lỗ mở của trang phục thay vì nối trực tiếp bên dưới hàm. Giữ phần cổ liên tục do mô hình tạo ra. Điều chỉnh phần ngực dưới theo đường nét thân đã đo bên dưới trang phục gốc, khôi phục phần lưng trên P2 liên tục và xóa các phần tóc thừa còn sót. Tránh các mảng cổ áo lơ lửng và phần cổ bị kéo giãn do UV. Kiểm tra cả góc nhìn bên thấp lẫn phía sau để phát hiện mọi khe hở lọt sáng hoặc mép cắt lộ ra. Kiểm tra mí mắt, mống mắt, môi, bàn tay và các đường nối texture từ những góc camera đã dàn dựng. Giảm riêng highlight ở góc lướt của vải, không làm ảnh hưởng đến shading da. Dùng biểu cảm nền tự nhiên, chuyển động cơ thể và vải vóc tiết chế; không ám chỉ có rig facial animation nếu thực tế chưa triển khai.
+- seated-woman và seated-man: các mẫu hành khách trưởng thành tách biệt, mặc trang phục năm 1912 và áo phao bằng vải bần màu nhạt, ngồi co gối với hai tay đặt trên đùi. Chia sẻ hình học và vật liệu giữa các xuồng; thay đổi nhẹ vị trí và hướng. Dùng số lượng instance trên từng xuồng có thể đảo ngược để phục vụ việc lên xuồng.
+
+Dùng Blender cho con tàu chính, Tripo P2.0 cho companionway trên boong, tảng băng, xuồng, trang phục và hành khách, còn H v3.1 cho hai chân dung nhân vật chính có phần cổ liên tục. Giữ đại dương, lớp chuyển bầu trời, các vì sao, ánh sáng, khói, pháo hiệu, bọt, bụi nước và mảnh vỡ dưới dạng hiệu ứng cảnh. Cung cấp các biến thể mô hình web nhẹ hơn với texture nén, đồng thời giữ tài sản độ phân giải đầy đủ để xuất phim ngoại tuyến.
+
+5. Phát lại và phản hồi
+Hiển thị tiến trình tải thực cho các tài sản thiết yếu của tàu, xuồng, bầu trời và normal của biển. Kích hoạt nút mở đầu khi cảnh đầu tiên sẵn sàng; trì hoãn các mô hình còn lại và nhạc. Nếu mô hình nhân vật hoặc tảng băng bắt buộc tải chậm, hãy dừng tại ranh giới cảnh và tiếp tục khi mô hình sẵn sàng, thay vì âm thầm bỏ qua cảnh quay. Âm thanh bắt đầu sau khi người dùng tương tác.
+
+Timeline phải hỗ trợ tua tới/tua lui và kéo nhanh mà không đặt lại về 0. Giữ nguyên trạng thái phát/tạm dừng và tắt tiếng khi tua; không để đồng hồ âm thanh cũ ghi đè vị trí được yêu cầu. Phân phối byte range cho MP3 và MP4. Điều hướng chương phải có mục trực tiếp đến cảnh ôm nhau ở mũi tàu tại giây 29 và cảnh hạ xuồng tại giây 127; các mục này khôi phục camera của đạo diễn đồng thời giữ nguyên trạng thái phát.
+
+Chế độ khám phá cho phép xoay quanh, kéo và zoom trong khi thế giới, con tàu và nhạc nền vẫn tiếp tục. Bám theo chuyển động tịnh tiến của tàu mà không làm giật hướng nhìn. Chế độ tạm dừng hoạt động độc lập; khi quay lại phim, giữ nguyên thời gian hiện tại. Phím Space phát/tạm dừng, phím mũi tên nhảy mười giây, M bật/tắt âm thanh, E bật/tắt khám phá và F mở toàn màn hình. Hỗ trợ xoay/chụm trên màn hình cảm ứng và chạm vào timeline.
+
+Các xuồng bắt đầu trống. Hành khách lên xuồng theo từng nhóm lệch thời điểm sau giây 112 và hoàn tất trước khi mỗi xuồng hạ xuống. Dây chạy giữa các davit đang chuyển động và đúng các điểm gắn trên xuồng, sau đó biến mất khi được thả. Tua ngược phải khôi phục số hành khách và trạng thái dây ở các thời điểm trước đó. Va chạm phải đồng bộ rung thân tàu/camera, mảnh băng văng, nước bắn do ma sát và một âm thanh va chạm thép/băng ngắn. Pháo hiệu dùng các ngôi sao cháy màu trắng, vệt riêng ngắn, trọng lực, lực cản và khói tan dần. Các nhiễu động khi chìm là những mảng không đều bám theo sóng và suy giảm từ từ; phân bổ nước bắn dọc theo đường tiếp nước thực của đuôi tàu, tuyệt đối không phát từ một fountain điểm ở xa.
+
+6. Triển khai kỹ thuật và sản phẩm bàn giao
+Dùng Vite, các module JavaScript và Three.js với animation dựa trên thời gian có tính quyết định. Tách camera/timeline, tài sản tàu, nhân vật, môi trường, hiệu ứng và trạng thái sẵn sàng của cảnh. Dùng cùng một mô hình thời gian cho phát lại trên web, tua và ghi hình ngoại tuyến. Giới hạn việc render trên web trong ngân sách pixel, phản xạ và bóng được xác định rõ; dành ambient occlusion nặng hơn cho cấu hình ngoại tuyến. Biên dịch và giải mã tài sản mà không có bước prewarm khởi động dài gây chặn. Lưu trữ script, mô hình, hình ảnh, font và âm thanh trên cùng origin, đồng thời không đưa thông tin bí mật vào bản build tĩnh.
+
+Dùng nhạc nền nguyên bản và Foley trả phí từ ElevenLabs: một bản thu tiếng huýt sáo pháo hoa tự nhiên hoàn chỉnh, được tách tại đúng thời điểm nổ trên không thành đoạn bay lên và tiếng nổ sắc kèm đuôi lách tách, cùng các âm thanh tiếp xúc và cọ xát thép/băng, dây xuồng và tiếp nước, biến dạng/gãy thân tàu, và nước bị đẩy bởi đuôi tàu. Xuất các file WAV nguồn, lưu lại prompt/lịch sử và ID, rồi biên tập thành các cue đúng thời điểm. Căn thời điểm phóng tại các giây 119, 151 và 183, với vụ nổ trên không xảy ra sau đó 3.15 giây. Giữ nguyên phần tấn công của tiếng nổ và tạm thời hạ âm lượng nhạc giao hưởng. Duy trì tiếng biển, gió và động cơ yên ắng bên dưới bản mix. Không đưa nhạc phim tham chiếu vào website công khai hoặc phim tải xuống nếu chưa được cấp phép cho cả hai. Ghi chép đúng nguồn tài sản và âm thanh thực tế thay vì mô tả phương án dự phòng như một tài sản do dịch vụ tạo ra.
+
+Cung cấp bản xuất có tính quyết định gồm 6.336 khung hình ở 3840×2160 và 24 fps, với ba mẫu theo thời gian, tiêu đề tiếng Anh in trực tiếp vào hình và khung hình letterbox 2.39:1. Mã hóa bản master 4K H.264/AAC và bản web 1080p dưới 100 MiB, cả hai dài 264 giây với âm thanh stereo 48 kHz. Giữ phụ đề Trung/Anh tùy chọn, bản master âm thanh và source có thể chỉnh sửa. Xuất bản bản build tĩnh thông qua dịch vụ lưu trữ Web Pages của CMS hiện có, không thêm ứng dụng nền tảng hay Worker cho từng trang.
+
+7. Tiêu chí nghiệm thu
+Kiểm tra cảnh mở đầu, cả hai chân dung nhân vật, va chạm, pháo hiệu, cả ba cảnh hạ xuồng, cảnh gãy vỡ, cảnh đuôi tàu biến mất và cảnh bình minh. Đảm bảo tảng băng không biến mất ở giây 244, biển thể hiện đúng màu xanh lam đậm, cảnh chìm không có các vòng trắng đều đặn, nhân vật vẫn xuất hiện trong những cảnh đã dàn dựng và dây xuồng/hành khách luôn được căn chỉnh trong suốt quá trình hạ xuồng. Kiểm thử việc tải mô hình trễ, tua tới/tua lui, scrub nhanh, tạm dừng/tắt tiếng, khám phá động và các mục trực tiếp đến cận cảnh, cùng mô phỏng thao tác cảm ứng. Xác minh mọi khung hình đã xuất, giải mã hoàn chỉnh cả hai bộ phim, đối chiếu file tải xuống thực tế trên trình duyệt với file được bàn giao, đồng thời xác minh bản build công khai và liên kết với CMS. Phân biệt mô phỏng thiết bị di động trên trình duyệt với việc kiểm thử trên điện thoại thực tế.
+
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/titanic-the-last-light) · [Bản demo](https://titanic-the-last-light.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="akari-nagoya-rooftop-flame-relay"></a>
 
 ### AKARI: Tiếp lửa trên những sân thượng Nagoya
@@ -4255,28 +4313,10 @@ Tái dựng phòng trẻ em kiêm nơi làm việc từ bốn ảnh chụp ở c
 
 ---
 
-<a id="2096577430274429157"></a>
-
-### Đầu máy hơi nước chạy qua miền quê
-
-[ダンさんブル@d三b](https://x.com/dansanburu) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157"><img src="../assets/previews/fb7fa5cb69d8bab3b242d25a63a64824b6d86e8f9de46f3329e4ea8de756de07.webp" width="840" loading="lazy" alt="Đầu máy hơi nước chạy qua miền quê"></a>
-
-**Prompt**
-
-```text
-Dựng đầu máy hơi nước bằng Three.js và tạo hoạt cảnh chạy qua khung cảnh miền quê. Đồng bộ chuyển động bánh xe với chuyển động của đoàn tàu.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157) · [Bài đăng gốc](https://x.com/dansanburu/status/2096577430274429157) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 259 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 260 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

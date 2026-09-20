@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "model": "gpt-6-astra",
   "count": 100,
-  "totalCount": 259,
+  "totalCount": 260,
   "sourceCodeCount": 12,
   "limit": 100,
   "locales": [
@@ -116,12 +116,12 @@
     "2101271938706685991",
     "2101310374033428642",
     "odd-arms",
+    "titanic-the-last-light",
     "akari-nagoya-rooftop-flame-relay",
     "cyclops-island-threejs-game",
     "2096579856133947507",
     "2096578761877860502",
-    "2096578684010508736",
-    "2096577430274429157"
+    "2096578684010508736"
   ],
   "featuredPromptIds": [
     "2096467585785286808",
@@ -224,90 +224,90 @@
     "2101271938706685991",
     "2101310374033428642",
     "odd-arms",
+    "titanic-the-last-light",
     "akari-nagoya-rooftop-flame-relay",
     "cyclops-island-threejs-game",
     "2096579856133947507",
     "2096578761877860502",
     "2096578684010508736",
-    "2096577430274429157",
     "2096467585785286808",
     "2081024333120733188"
   ],
   "files": [
     {
       "path": "assets/manifest.json",
-      "sha256": "547c8a30a0a225aae46d85246649fba78940fc9c8aa44830069bdc0e66bb16bc",
-      "bytes": 55635
+      "sha256": "0e17792745458f71eda65b5b618d054bf3ac6f2290c1a1e34d3f7cead1113024",
+      "bytes": 55565
     },
     {
       "path": "docs/catalog.de.md",
-      "sha256": "1f1cebea2ef163ecfc5e3e93a1e9a0e1b631cb8a0449e8c166a9d3de8aa984c9",
-      "bytes": 334768
+      "sha256": "3805800f035df5e893ede89162d713c7e17db64f31f50e5077a8e4686a59f0a7",
+      "bytes": 347453
     },
     {
       "path": "docs/catalog.en.md",
-      "sha256": "4087bec2227978d6e03b5b20b2556db28ee86ffa41c6183cd635358cae06902f",
-      "bytes": 286836
+      "sha256": "4c13c1d207c65727d2235118f24396b973a53ac596be03c5e6c17e1dca23d6d5",
+      "bytes": 296838
     },
     {
       "path": "docs/catalog.es.md",
-      "sha256": "86817e5f1f87105e702178bef106318cacf0ed110a2b0ce338e4861c24036e95",
-      "bytes": 337075
+      "sha256": "a5d5694beb50e1a78105601738d3e5a6dcb81c5a7be2d9e08f936abe67d37e64",
+      "bytes": 350268
     },
     {
       "path": "docs/catalog.fr.md",
-      "sha256": "5b0b140e7921457b0553f41bee15e7fd3803330ded885d1144e6ce16b89b39f6",
-      "bytes": 351037
+      "sha256": "05a1f16c9b0111709c3f3144b1951bff94023397ee49764ac727900ac53cab9d",
+      "bytes": 364654
     },
     {
       "path": "docs/catalog.it.md",
-      "sha256": "d97a0e7e5510cc560fe52e3a134a8d76b562c5579cf4b2da41830b4121899062",
-      "bytes": 329553
+      "sha256": "726281cd1cb28bd75be81652cc22a703985e63d3a3cf5f1397e6b73d5992fabe",
+      "bytes": 342281
     },
     {
       "path": "docs/catalog.ja.md",
-      "sha256": "90f9e5c361e58d9118dc00d45ceccb3a99f376c5945a0f6669e9ec5faba02e35",
-      "bytes": 361815
+      "sha256": "3ee6bdc1df90de403cdd93e43284db3ae3dd9b09c76ba34d0d5590300f3ff87e",
+      "bytes": 376639
     },
     {
       "path": "docs/catalog.ko.md",
-      "sha256": "70436f7c046d5cffbea245d9a7c76093cc512273f1cb8d46facf2bf165024912",
-      "bytes": 345259
+      "sha256": "6d58b81c9b04dfb1b1ac23a88c3b1c2aa318ffb1bb06ef4ffab2a94bacc7724a",
+      "bytes": 358448
     },
     {
       "path": "docs/catalog.pt.md",
-      "sha256": "7dbf6dfc430805d4327ab86abef07bc0e6b7d425816fb04ce87900623cc42a2b",
-      "bytes": 326648
+      "sha256": "82b69389273c9db9d72b443dbbcb22572de4408e22fc5058b24f7e9fd3314d24",
+      "bytes": 338910
     },
     {
       "path": "docs/catalog.ru.md",
-      "sha256": "d01f4f2d3feb9cd1f3b472fa06ef8819bdf3596684ff1114538322ae8ff7fe48",
-      "bytes": 502662
+      "sha256": "3ebcee3e514f6398d757722c40415de0aab506d0d1fc4c99d6971ea74b3b7748",
+      "bytes": 524724
     },
     {
       "path": "docs/catalog.tr.md",
-      "sha256": "6ebf3902c302ec4f96781c9c600a53029bfafc7e77b60f601c6728ca95a8948f",
-      "bytes": 329739
+      "sha256": "c5a1fe1529fc728bf04b92398f67f85bef80fe615e622ca5ebe521af7c665e39",
+      "bytes": 342465
     },
     {
       "path": "docs/catalog.uk.md",
-      "sha256": "09c1743eb26f089f50855b3f6686a1f106a2e123a8e36f9b80982842b0859842",
-      "bytes": 503866
+      "sha256": "5a71864f0afa4ba6cccb9fe1953510efaebab73ca245518f5e48b38e142ac3bf",
+      "bytes": 525552
     },
     {
       "path": "docs/catalog.vi.md",
-      "sha256": "e99642a433234d6e7e2fb29d4e3bdc5e3ced302a98ba9088335948024d128f71",
-      "bytes": 368729
+      "sha256": "460e060e5c0b611e43bd38c8e28f0ed7a7f1fd7c1b10deae433c010703c15ff2",
+      "bytes": 382785
     },
     {
       "path": "docs/catalog.zh-Hant.md",
-      "sha256": "b257665e97a89bf754509441bdf94d9429bdd2572b04ff26e1f925808de35c18",
-      "bytes": 273687
+      "sha256": "b7db11e840de459f0ed07d2be3bbb8d11e77252217cf2aecf517cc2ec72c703f",
+      "bytes": 283546
     },
     {
       "path": "docs/catalog.zh.md",
-      "sha256": "ce5598f63e9adfe0531349c65313b2b578fe5dac9de53cbcaf6f182a101010af",
-      "bytes": 270906
+      "sha256": "d5a3de8f55d8597e551ddf8df11c939897e451d900923094561505b26339768d",
+      "bytes": 280597
     },
     {
       "path": "docs/with-code.md",
@@ -316,13 +316,13 @@
     },
     {
       "path": "README.md",
-      "sha256": "c6e1ce39c02d426f4d6b5587917a714a660f625a62bb5dfbf0a3756c66dbf15f",
-      "bytes": 286422
+      "sha256": "c96f812759556646bb5679ff8c81c07255389e15b05f95b78cec40b0b64c1182",
+      "bytes": 296424
     },
     {
       "path": "README.zh-CN.md",
-      "sha256": "0bc6c574d4f0f44a4b3ef506c15ac1d153b28fc33ce2677d60e4458b2964e4de",
-      "bytes": 270492
+      "sha256": "81121d0be7b5fa041050dfcb8893c826a1cf28fb1e7a56c9fbbf5125dde6629a",
+      "bytes": 280183
     }
   ]
 }
