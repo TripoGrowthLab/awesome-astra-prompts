@@ -26,7 +26,7 @@
 **Un point de départ pour votre prochain jeu, scène ou monde interactif.**
 
 
-**254 · Derniers prompts Astra**
+**259 · Derniers prompts Astra**
 
 ## Projets à découvrir
 
@@ -133,21 +133,21 @@
 - [Jeu 3D d’évasion dans un navigateur : fuyez un centre de recherche fermé](#2100595652703199281)
 - [Concevoir elle-même un corps en CAO](#2100614534423540102)
 - [Monster Block — 45 secondes pour ravager la ville](#2100636075039629796)
+- [Entraîner une stratégie de rotation de stylo avec la main robotique adroite Sharpa](#2100751369619820923)
 - [Jeu de tramway aérien en 3D entre des îles flottantes](#2100838090210431302)
 - [Créez un monde 3D photoréaliste](#2100844566718926949)
 - [Modèle de montre IWC Schaffhausen 3D interactif](#2100956517633761447)
+- [Galaxie basée sur une physique orbitale réelle](#2101055500599054437)
+- [Environnement 3D complet et photoréaliste](#2101224659861590399)
+- [Présentation interactive en 3D d’un moteur d’avion](#2101271938706685991)
+- [Workflow d’animation 3D et de génération vidéo d’un chat pratiquant les arts martiaux](#2101310374033428642)
 - [ODD ARMS — Jeu de survie aux armes improbables](#odd-arms)
 - [AKARI : Relais de la flamme sur les toits de Nagoya](#akari-nagoya-rooftop-flame-relay)
 - [L’île du Cyclope](#cyclops-island-threejs-game)
 - [Plateau de shogi 3D pivotant](#2096579856133947507)
 - [Atlas éclaté d’un ordinateur de bureau](#2096578761877860502)
 - [Aménagement d’une chambre d’enfant avec espace de travail](#2096578684010508736)
-- [Une maison modélisée de zéro dans Blender](#2096576154337734865)
-- [Quête d’exploration The Quiet Crossing](#2096574297703637111)
 - [Locomotive à vapeur à travers la campagne](#2096577430274429157)
-- [Chasse au trésor sur une plage low poly](#2096570815714414844)
-- [Manguier indien dans SpeedTree](#2096572429066006845)
-- [Attracteur de Lorenz interactif](#2096572156453028193)
 
 </details>
 
@@ -3789,6 +3789,26 @@ Vérifier les mises en page anglaise et chinoise sur ordinateur et sur des écra
 
 ---
 
+<a id="2100751369619820923"></a>
+
+### Entraîner une stratégie de rotation de stylo avec la main robotique adroite Sharpa
+
+[AI Will](https://x.com/FinanceYF5) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2100751369619820923"><img src="../assets/previews/401b07a7533430d141557f6f49add9f4f645a2530b1b34a3e43d865e0bcbda48.jpg" width="840" loading="lazy" alt="Entraîner une stratégie de rotation de stylo avec la main robotique adroite Sharpa"></a>
+
+L’auteur indique que ce prompt en chinois a été fourni à GPT-6 Astra pour entraîner par apprentissage par renforcement la main robotique adroite Sharpa dans Isaac Lab, créer automatiquement le maillage 3D d’un stylo, puis livrer la stratégie entraînée et une vidéo de visualisation.
+
+**Prompt**
+
+```text
+Faites effectuer une rotation de stylo à la main robotique adroite. Utilisez Isaac Lab pour l’apprentissage par renforcement avec la main Sharpa, et créez vous-même le maillage 3D du stylo. Livrez finalement la stratégie entraînée et une vidéo de visualisation. Vous pouvez librement effectuer des recherches en ligne et télécharger les articles ainsi que les ressources nécessaires.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2100751369619820923) · [Publication originale](https://x.com/FinanceYF5/status/2100751369619820923) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="2100838090210431302"></a>
 
 ### Jeu de tramway aérien en 3D entre des îles flottantes
@@ -3847,6 +3867,99 @@ Utilisez Three.js pour développer un modèle 3D interactif très fidèle d’un
 ```
 
 [Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2100956517633761447) · [Publication originale](https://x.com/YouWareAI/status/2100958838350643553) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2101055500599054437"></a>
+
+### Galaxie basée sur une physique orbitale réelle
+
+[Argona](https://x.com/Argona0x) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2101055500599054437"><img src="../assets/previews/1a842b607dcfcccfd8b382dd54f71224f044dcfbb13dad37549ea086cf876511.jpg" width="840" loading="lazy" alt="Galaxie basée sur une physique orbitale réelle"></a>
+
+L’auteur présente ce prompt GPT-6 Astra d’une seule phrase comme entrée pour une simulation déterministe de galaxie et un vol de 30 secondes à travers celle-ci. Il demande une physique orbitale réelle et 320 000 étoiles.
+
+**Prompt**
+
+```text
+une galaxie basée sur une physique orbitale réelle, 320 000 étoiles, un vol à travers celle-ci, 30 secondes
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2101055500599054437) · [Publication originale](https://x.com/Argona0x/status/2101055500599054437) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2101224659861590399"></a>
+
+### Environnement 3D complet et photoréaliste
+
+[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-19
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2101224659861590399"><img src="../assets/previews/f8596f35d968eda4e24acabd4e2405d42aae7745029b8cf3426d550a2bd2cd52.jpg" width="840" loading="lazy" alt="Environnement 3D complet et photoréaliste"></a>
+
+Créez un environnement 3D complet et photoréaliste à partir d’un concept libre.
+
+**Prompt**
+
+```text
+Créez un environnement 3D complet et photoréaliste. Surprenez-moi.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2101224659861590399) · [Publication originale](https://x.com/JulianGoldieSEO/status/2101224659861590399) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2101271938706685991"></a>
+
+### Présentation interactive en 3D d’un moteur d’avion
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-19
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2101271938706685991"><img src="../assets/previews/62e8fc5aabb4c860a141510e4daac1335ad6caedd10812a63fb70f2b04fdc38e.jpg" width="840" loading="lazy" alt="Présentation interactive en 3D d’un moteur d’avion"></a>
+
+Prompt réutilisable publié par YouWare pour créer une présentation web interactive et haute fidélité d’un moteur d’avion en 3D. Il demande un modèle de moteur détaillé avec des interactions de démontage et de vue éclatée, des informations sur les pièces accessibles au clic ou au survol, ainsi que des commandes de caméra fluides. Le post d’origine indique que le même prompt a été exécuté avec GPT-6 Astra et Gemini 4 Pro.
+
+**Prompt**
+
+```text
+Utilisez three.js pour créer sur une page web une présentation interactive en 3D d’un moteur d’avion.
+Veuillez vous inspirer de la philosophie de conception des interactions de Jigspace afin d’obtenir un modèle réaliste, avec une reconstitution quasi 1:1 et très haute fidélité, en préservant intégralement les détails des matériaux et des textures, notamment ceux du métal, des conduites et des pales. Les fonctionnalités interactives doivent inclure : une animation de démontage étape par étape, une vue éclatée des composants, ainsi que des descriptions des pièces et des explications de leur fonctionnement, déclenchées par un clic ou un survol.
+L’ensemble doit offrir des commandes de caméra fluides et une interaction homme-machine intuitive, pour garantir une expérience web agréable qui présente pleinement la structure et le fonctionnement du moteur.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2101271938706685991) · [Publication originale](https://x.com/YouWareAI/status/2101272224435253432) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2101310374033428642"></a>
+
+### Workflow d’animation 3D et de génération vidéo d’un chat pratiquant les arts martiaux
+
+[PixVerse](https://x.com/PixVerse) · 2026-09-19
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2101310374033428642"><img src="../assets/previews/8249faaaa8f71ae6e4f9ede16b0948cd336e92001b288ecec9177aca4eb5f939.jpg" width="840" loading="lazy" alt="Workflow d’animation 3D et de génération vidéo d’un chat pratiquant les arts martiaux"></a>
+
+Le commentaire vérifié de PixVerse présente ce contenu comme un prompt utilisé dans Hermes Agent. La publication d’origine crédite le créateur PixVerse @woleswoosh pour sa démonstration de catfu et indique qu’elle a été réalisée avec GPT-6 Astra et Blender. Le prompt demande à un agent de créer des maillages et une animation Blender légers pour un chat tigré raide et stoïque qui pare des mains arrivant vers lui dans la cour d’un temple japonais, de rendre un MP4 de référence des mouvements de 10 secondes, puis de générer une vidéo photoréaliste en 1080p avec PixVerse CLI et Seedance 2.5.
+
+**Prompt**
+
+```text
+Prise unique cinématographique photoréaliste, 10 secondes, 16:9, 24 i/s, caméra fixe, sans coupe.
+Un chat tigré roux et blanc (museau, poitrail et pattes blancs, rayures de chat tigré orange avec un « M » sur le front) est assis bien droit, exactement au centre, face à l’objectif, dans une posture rigide d’arts martiaux — regard plat, stoïque et imperturbable, yeux mi-clos, bouche fermée, tête parfaitement immobile. Il porte un hachimaki noir noué bas sur le front, avec le nœud à l’arrière, les oreilles dépassant au-dessus du bandeau.
+Décor : cour d’un temple japonais traditionnel — piliers, avant-toits et rambardes en bois chaleureux — fondus dans un bokeh crémeux de golden hour. Objectif 85 mm, f/1.8, profondeur de champ extrêmement réduite, mise au point verrouillée sur les yeux du chat. Étalonnage chaud à 3500 K, lumière principale douce venant de l’avant-droit, ombres légèrement débouchées, grain de pellicule fin.
+ACTION : un bras humain nu surgit depuis le côté gauche du cadre, la paume ouverte fonçant rapidement vers le visage du chat avec un fort flou de mouvement ; le chat lève calmement sa patte avant droite et pare le coup, intercepte la paume et annule l’élan de l’attaque — il bloque, il ne donne pas de gifle. Le bras balaie horizontalement le visage du chat dans un flou, puis une seconde main frappe de haut en bas depuis la droite ; le chat dévie chaque attaque d’un bref blocage minimal de la patte, le corps et la tête totalement immobiles, les yeux ne quittant jamais l’objectif. Les mains sont les agresseuses — le chat se contente de réagir, parfaitement imperturbable. Les mains feintent et surgissent alternativement des deux côtés ; le chat adopte une garde de boxe à deux pattes à hauteur de poitrine, pattes recourbées, coudes rentrés, et la maintient en attendant. Il lance rapidement de brèves contre-attaques à une seule patte, dans un style kung-fu, interceptant les mains adverses en plein vol, la tête toujours verrouillée vers l’avant. Enfin, il projette sa patte droite droit vers l’objectif, coussinet rose face caméra, jusqu’à ce que la patte remplisse le cadre comme une forme douce et floue au premier plan — le visage reste d’une netteté absolue derrière elle, le regard froid intact.
+Mouvement : vitesse naturelle, véritable flou de mouvement sur les mains lancées et les blocages rapides des pattes. Mouvements défensifs, minimaux et économes — le chat bouge à peine, les mains font tout le travail et échouent. Aucun mouvement de caméra, aucun zoom, aucun texte.
+NÉGATIF : membres supplémentaires, pattes fusionnées ou mutées, doigts en trop, visage déformé, bandeau fusionné avec la fourrure, peau plastique, couleurs sursaturées, texte, sous-titres, logo, filigrane, coupes, tremblement de caméra, langage corporel joueur ou triomphant, geste de tape dans la main.
+VERSION COURTE :
+Un chat tigré roux et blanc portant un hachimaki noir est assis dans une cour de temple japonais baignée de soleil, le regard impassible fixé sur la caméra, objectif 85 mm f/1.8, profondeur de champ réduite, golden hour, grain de pellicule. Des mains humaines frappent et foncent rapidement vers son visage depuis les deux côtés, avec un flou de mouvement — le chat pare calmement chaque attaque d’un blocage minimal de la patte, sans jamais bouger la tête. Il adopte une garde de kung-fu à deux pattes, lance de rapides contre-attaques floues, puis projette sa patte vers l’objectif jusqu’à ce que le coussinet remplisse le cadre. Prise unique, caméra fixe, 10 s, 16:9, 24 i/s, photoréaliste, aucun texte.
+Petite note à partir de la séquence : les mains arrivent principalement depuis la gauche (frappe descendante et balayage horizontal), le contact se fait au niveau du poignet ou de la paume — pas patte contre patte. La garde à deux pattes apparaît vers 4,0–5,6 s, les contre-attaques floues entre 5,6 et 8 s, puis la patte arrive vers l’objectif de 8 à 10 s. Votre mission est de créer le maillage et l’animation 3D avec Blender MCP, de produire un résultat de 10 s à 24 i/s et de le rendre en scène extrêmement réaliste avec PixVerse CLI, en utilisant Seedance 2.5 comme modèle de génération vidéo.
+ÉTAPES POUR L’AGENT : vérifier Blender MCP, l’authentification PixVerse CLI, les capacités des modèles et les crédits disponibles. Indiquer les coûts estimés et obtenir l’autorisation de dépenser avant toute génération payante. Transformer le prompt en feuille de route minutée, créer des maillages 3D et une animation légers via le Blender MCP officiel, rendre un MP4 de référence des mouvements, puis contrôler le cadrage, les mouvements, les contacts, la durée et la fréquence d’images. Générer et examiner une image de référence distincte pour l’apparence avant de lancer la vidéo. Utiliser l’image pour guider l’identité, le style et l’éclairage, et la vidéo Blender pour guider les mouvements et le timing. Après la génération, télécharger le résultat, vérifier ses spécifications techniques, examiner les images clés, signaler honnêtement les écarts et calculer la consommation réelle de crédits. Conserver les originaux ; ne jamais changer de modèle ni relancer une génération en silence.
+APPEL PIXVERSE : utiliser pixverse create image avec gpt-image-2.0 pour créer la référence d’apparence au format d’image confirmé, en 1080p et avec un niveau de détail élevé. Utiliser ensuite pixverse create reference avec le modèle vidéo confirmé, en transmettant les deux --images and --videos to afin de combiner l’image de référence d’apparence avec la référence des mouvements issue de Blender. Pour Seedance 2.5, utiliser --model seedance-2.5 --task-type auto, la durée et le format d’image confirmés, ainsi que --quality 1080p --count 1.. Vérifier les capacités actuelles avant l’envoi, utiliser des clés d’idempotence uniques et suivre l’exécution avec pixverse task status / pixverse task wait.
+RÉSULTAT FINAL : fournir la vidéo terminée au format d’image et à la durée confirmés, en visant le 1080p et 24 i/s, ainsi que l’image de référence d’apparence, le projet Blender .blend et le MP4 de référence des mouvements. Fournir des chemins locaux absolus ou des URL de téléchargement. Conserver le format du rapport final : Vidéo, Image de référence, Maillage + animation Blender, Vérification, Apparence et Crédits utilisés. Indiquer la résolution réelle, la fréquence d’images, le nombre d’images, la durée, les écarts visuels, le coût en crédits de l’image et de la vidéo, le total dépensé, le solde restant et si une régénération a eu lieu.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2101310374033428642) · [Publication originale](https://x.com/PixVerse/status/2101310387081908606) · [Retour aux exemples](#all-prompts)
 
 ---
 
@@ -4108,42 +4221,6 @@ Reconstruis une chambre d’enfant qui sert aussi d’espace de travail à parti
 
 ---
 
-<a id="2096576154337734865"></a>
-
-### Une maison modélisée de zéro dans Blender
-
-[みずくん](https://x.com/mizkun) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865"><img src="../assets/previews/3dac0cf4428bc4a32bd1418c62a971bc75be632f3e10e918ba9b45800f364ba2.webp" width="840" loading="lazy" alt="Une maison modélisée de zéro dans Blender"></a>
-
-**Prompt**
-
-```text
-Modélise une maison de zéro dans Blender. Garde la scène modifiable pour pouvoir examiner et affiner le bâtiment lors des itérations suivantes.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865) · [Publication originale](https://x.com/mizkun/status/2096576154337734865) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2096574297703637111"></a>
-
-### Quête d’exploration The Quiet Crossing
-
-[MotionViz](https://x.com/Motion_Viz) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111"><img src="../assets/previews/0ba729978213ae4955dbc48dc1842a22c3ccfe72d686a037cf599fba60a214dd.webp" width="840" loading="lazy" alt="Quête d’exploration The Quiet Crossing"></a>
-
-**Prompt**
-
-```text
-Crée un jeu d’exploration enneigé dans Three.js avec un personnage Blender, des pins en voxels et un portail de pierre. Permets de collecter six fragments lumineux, fais suivre le personnage par la caméra et affiche la distance jusqu’au portail.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111) · [Publication originale](https://x.com/Motion_Viz/status/2096574297703637111) · [Retour aux exemples](#all-prompts)
-
----
-
 <a id="2096577430274429157"></a>
 
 ### Locomotive à vapeur à travers la campagne
@@ -4162,64 +4239,10 @@ Modélise une locomotive à vapeur dans Three.js et anime son trajet dans une sc
 
 ---
 
-<a id="2096570815714414844"></a>
-
-### Chasse au trésor sur une plage low poly
-
-[空野こんこん＠個人ゲーム開発者](https://x.com/sorano_concon_g) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844"><img src="../assets/previews/1fb12fca3f886c06a5f5670a2138319083090972bb6e38e16beebd7e4a8853aa.webp" width="840" loading="lazy" alt="Chasse au trésor sur une plage low poly"></a>
-
-**Prompt**
-
-```text
-Crée dans Unity une chasse au trésor 3D jouable sur une plage. Modélise des palmiers et des plateformes en bois low poly, puis établis la boucle principale d’exploration et de découverte des trésors.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844) · [Publication originale](https://x.com/sorano_concon_g/status/2096570815714414844) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2096572429066006845"></a>
-
-### Manguier indien dans SpeedTree
-
-[Varun Mayya](https://x.com/waitin4agi_) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845"><img src="../assets/previews/c3858642eb37b219de3378529a8d1121913c658e17165e2b368571eb7a597c39.webp" width="840" loading="lazy" alt="Manguier indien dans SpeedTree"></a>
-
-**Prompt**
-
-```text
-Crée un manguier indien dans SpeedTree pour une scène Unreal visant 60 FPS. Génère les matériaux des feuilles et de l’écorce, puis examine leur rendu avant de finaliser l’asset.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845) · [Publication originale](https://x.com/waitin4agi_/status/2096572429066006845) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2096572156453028193"></a>
-
-### Attracteur de Lorenz interactif
-
-[Juy \| AI experiments](https://x.com/juyeam) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/interactive-lorenz-attractor-2096572156453028193"><img src="../assets/previews/8ca9458a9131136447121ad42d7c998aff884f2b37bc8989f3b06d8e905d0e91.webp" width="840" loading="lazy" alt="Attracteur de Lorenz interactif"></a>
-
-**Prompt**
-
-```text
-Visualise deux trajectoires du système de Lorenz présentant un écart infime de position initiale. Permets de modifier cet écart et de parcourir le temps, en distinguant les vérifications numériques des prédictions exactes à long terme.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/interactive-lorenz-attractor-2096572156453028193) · [Publication originale](https://x.com/juyeam/status/2096572156453028193) · [Démo](https://tiny-worlds-juyeam.juyeam.chatgpt.site/chaos) · [Retour aux exemples](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 254 exemples sur le site officiel →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 259 exemples sur le site officiel →</a></strong></p>
 <p><sub>Pour préserver la fluidité du rendu du README sur GitHub, seuls les 100 exemples les plus récents sont affichés ici.</sub></p>
 <br>
 </td></tr>

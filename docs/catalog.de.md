@@ -26,7 +26,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**254 · Neueste Astra-Prompts**
+**259 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -133,21 +133,21 @@
 - [3D-Browser-Escape-Game: Flucht aus einer stillgelegten Forschungseinrichtung](#2100595652703199281)
 - [CAD entwirft sich selbst einen Körper](#2100614534423540102)
 - [Monster Block — 45 Sekunden, um die Stadt zu verwüsten](#2100636075039629796)
+- [Mit der Sharpa-Hand das Stiftedrehen trainieren](#2100751369619820923)
 - [3D-Luftseilbahnspiel zwischen schwebenden Inseln](#2100838090210431302)
 - [Erstelle eine fotorealistische 3D-Welt](#2100844566718926949)
 - [Interaktives Uhrenmodell von IWC Schaffhausen](#2100956517633761447)
+- [Galaxie mit echter Orbitalphysik](#2101055500599054437)
+- [Vollständige fotorealistische 3D-Umgebung](#2101224659861590399)
+- [Interaktive 3D-Darstellung eines Flugzeugtriebwerks](#2101271938706685991)
+- [3D-Animations- und Video-Workflow für eine Kampfkunstkatze](#2101310374033428642)
 - [ODD ARMS — Survival-Game mit verrückten Waffen](#odd-arms)
 - [AKARI: Flammenstaffel auf den Dächern von Nagoya](#akari-nagoya-rooftop-flame-relay)
 - [Die Insel des Zyklopen](#cyclops-island-threejs-game)
 - [Drehbares 3D-Shogi-Brett](#2096579856133947507)
 - [Interaktiver Desktop-PC in Explosionsansicht](#2096578761877860502)
 - [Planung für Kinderzimmer und Arbeitsplatz](#2096578684010508736)
-- [Ein Haus von Grund auf in Blender modellieren](#2096576154337734865)
-- [Erkundungsabenteuer The Quiet Crossing](#2096574297703637111)
 - [Dampflokomotive auf dem Weg durchs Land](#2096577430274429157)
-- [Schatzsuche an einem Low-Poly-Strand](#2096570815714414844)
-- [Indischer Mangobaum in SpeedTree](#2096572429066006845)
-- [Interaktiver Lorenz-Attraktor](#2096572156453028193)
 
 </details>
 
@@ -3789,6 +3789,26 @@ Prüfe englische und chinesische Layouts auf Desktop- und schmalen mobilen Bilds
 
 ---
 
+<a id="2100751369619820923"></a>
+
+### Mit der Sharpa-Hand das Stiftedrehen trainieren
+
+[AI Will](https://x.com/FinanceYF5) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2100751369619820923"><img src="../assets/previews/401b07a7533430d141557f6f49add9f4f645a2530b1b34a3e43d865e0bcbda48.jpg" width="840" loading="lazy" alt="Mit der Sharpa-Hand das Stiftedrehen trainieren"></a>
+
+Der Autor gibt an, diesen chinesischen Prompt GPT-6 Astra bereitzustellen, um die Sharpa-Hand mit Isaac Lab per Reinforcement Learning zu trainieren, eigenständig ein 3D-Mesh für einen Stift zu erstellen und eine trainierte Policy sowie ein Visualisierungsvideo bereitzustellen.
+
+**Prompt**
+
+```text
+Lass die dextrous Hand einen Stift drehen. Verwende Isaac Lab für Reinforcement Learning mit der Sharpa hand und erstelle das 3D-Mesh des Stifts selbst. Liefere abschließend die trainierte Policy und ein Visualisierungsvideo. Du kannst frei im Internet recherchieren sowie Fachartikel und benötigte Materialien herunterladen.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2100751369619820923) · [Originalbeitrag](https://x.com/FinanceYF5/status/2100751369619820923) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="2100838090210431302"></a>
 
 ### 3D-Luftseilbahnspiel zwischen schwebenden Inseln
@@ -3847,6 +3867,99 @@ Verwende Three.js, um ein äußerst originalgetreues interaktives 3D-Uhrenmodell
 ```
 
 [Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2100956517633761447) · [Originalbeitrag](https://x.com/YouWareAI/status/2100958838350643553) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2101055500599054437"></a>
+
+### Galaxie mit echter Orbitalphysik
+
+[Argona](https://x.com/Argona0x) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2101055500599054437"><img src="../assets/previews/1a842b607dcfcccfd8b382dd54f71224f044dcfbb13dad37549ea086cf876511.jpg" width="840" loading="lazy" alt="Galaxie mit echter Orbitalphysik"></a>
+
+Der Autor präsentiert diesen einzeiligen GPT-6-Astra-Prompt als Eingabe für eine deterministische Galaxiensimulation und einen 30-sekündigen Flug durch sie. Gefordert werden echte Orbitalphysik und 320.000 Sterne.
+
+**Prompt**
+
+```text
+eine Galaxie mit echter Orbitalphysik, 320.000 Sterne, ein Flug hindurch, 30 Sekunden
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2101055500599054437) · [Originalbeitrag](https://x.com/Argona0x/status/2101055500599054437) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2101224659861590399"></a>
+
+### Vollständige fotorealistische 3D-Umgebung
+
+[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-19
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2101224659861590399"><img src="../assets/previews/f8596f35d968eda4e24acabd4e2405d42aae7745029b8cf3426d550a2bd2cd52.jpg" width="840" loading="lazy" alt="Vollständige fotorealistische 3D-Umgebung"></a>
+
+Erstelle eine vollständige fotorealistische 3D-Umgebung nach einem offenen Konzept.
+
+**Prompt**
+
+```text
+Erstelle eine vollständige fotorealistische 3D-Umgebung. Überrasche mich.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2101224659861590399) · [Originalbeitrag](https://x.com/JulianGoldieSEO/status/2101224659861590399) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2101271938706685991"></a>
+
+### Interaktive 3D-Darstellung eines Flugzeugtriebwerks
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-19
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2101271938706685991"><img src="../assets/previews/62e8fc5aabb4c860a141510e4daac1335ad6caedd10812a63fb70f2b04fdc38e.jpg" width="840" loading="lazy" alt="Interaktive 3D-Darstellung eines Flugzeugtriebwerks"></a>
+
+Ein wiederverwendbarer Prompt, veröffentlicht von YouWare, für eine interaktive, hochrealistische 3D-Webdarstellung eines Flugzeugtriebwerks. Gefordert werden ein detailliertes Triebwerksmodell mit interaktiver Demontage und Explosionsansicht, per Klick oder Hover abrufbare Informationen zu den einzelnen Bauteilen sowie eine flüssige Kamerasteuerung. Im ursprünglichen Beitrag steht, dass derselbe Prompt mit GPT-6 Astra und Gemini 4 Pro ausgeführt wurde.
+
+**Prompt**
+
+```text
+Verwende three.js, um auf einer Webseite eine interaktive 3D-Darstellung eines Flugzeugtriebwerks zu erstellen.
+Orientiere dich an der Interaktionsdesign-Philosophie von Jigspace, um ein realistisches Modell mit nahezu 1:1 detailgetreuer Rekonstruktion zu erstellen und Material- sowie Texturdetails wie Metall, Leitungen und Schaufeln vollständig zu erhalten. Die interaktiven Funktionen müssen Folgendes umfassen: eine schrittweise Demontageanimation, eine Explosionsansicht der Komponenten sowie per Klick oder Hover eingeblendete Bauteilbeschreibungen und Erklärungen der Funktionsprinzipien.
+Insgesamt muss die Anwendung eine flüssige Kamerasteuerung und eine intuitive Benutzerinteraktion unterstützen, damit sie im Web reibungslos funktioniert und den Aufbau sowie die Funktionsprinzipien des Triebwerks umfassend veranschaulicht.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2101271938706685991) · [Originalbeitrag](https://x.com/YouWareAI/status/2101272224435253432) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2101310374033428642"></a>
+
+### 3D-Animations- und Video-Workflow für eine Kampfkunstkatze
+
+[PixVerse](https://x.com/PixVerse) · 2026-09-19
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2101310374033428642"><img src="../assets/previews/8249faaaa8f71ae6e4f9ede16b0948cd336e92001b288ecec9177aca4eb5f939.jpg" width="840" loading="lazy" alt="3D-Animations- und Video-Workflow für eine Kampfkunstkatze"></a>
+
+Der verifizierte Kommentar von PixVerse präsentiert dies als einen in Hermes Agent verwendeten Prompt. Im ursprünglichen Beitrag wird der PixVerse-Creator @woleswoosh für die Catfu-Demo genannt; außerdem heißt es, sie sei mit GPT-6 Astra + Blender erstellt worden. Der Prompt weist einen Agenten an, leichte Blender-Meshes und Animationen für eine steife, stoische getigerte Katze zu erstellen, die in einem japanischen Tempelhof auf sie zukommende Hände abwehrt, ein 10-sekündiges MP4 als Bewegungsreferenz zu rendern und anschließend mit PixVerse CLI und Seedance 2.5 ein fotorealistisches 1080p-Video zu generieren.
+
+**Prompt**
+
+```text
+Fotorealistischer, filmischer One-Take, 10 Sekunden, 16:9, 24 fps, statische Kamera, keine Schnitte.
+Eine orange-weiße getigerte Katze (weiße Schnauze, weiße Brust und Pfoten, orangefarbene Tabby-Streifen mit einem „M“ auf der Stirn) sitzt aufrecht, genau in der Bildmitte, der Kamera zugewandt, in einer steifen Kampfkunsthaltung – flacher, stoischer, gelangweilter Blick, halb geschlossene Augen, geschlossener Mund, der Kopf bewegt sich nie. Sie trägt ein schwarzes Hachimaki-Stirnband, das tief über der Stirn sitzt und hinten verknotet ist; die Ohren ragen über dem Band aufrecht nach oben.
+Schauplatz: traditioneller japanischer Tempelhof – warme Holzsäulen, Dachvorsprünge und Geländer –, aufgelöst in cremigem Bokeh zur goldenen Stunde. 85-mm-Objektiv, f/1.8, extrem geringe Schärfentiefe, Fokus fest auf den Augen der Katze. Warmer 3500-K-Farblook, weiches Keylight von vorne rechts, sanft aufgehellte Schatten, feines Filmkorn.
+AKTION: Ein nackter menschlicher Arm schießt von links ins Bild, die offene Hand wird mit starker Bewegungsunschärfe schnell auf das Gesicht der Katze zugestoßen. Die Katze hebt ruhig ihre rechte Vorderpfote und pariert, fängt die Handfläche ab und nimmt dem Schlag den Schwung – sie blockt, sie schlägt nicht. Der Arm fegt als unscharfe Bewegung horizontal über das Gesicht der Katze hinweg, dann schlägt eine zweite Hand von rechts nach unten. Die Katze lenkt beide Hände jeweils mit einer kurzen, minimalen Pfotenblockade ab; Körper und Kopf bleiben vollkommen still, der Blick verlässt die Kamera nie. Die Hände greifen an – die Katze reagiert nur und bleibt unbeeindruckt. Die Hände täuschen von beiden Seiten Vorstöße an und ziehen sich wieder zurück; die Katze geht in eine Boxkampfdeckung mit beiden Pfoten auf Brusthöhe, die Pfoten gekrümmt, die Ellbogen eng am Körper, und hält diese Position abwartend. Sie schnellt mit schnellen, einzeln ausgeführten Kontern im Kung-Fu-Stil vor, fängt die heranfliegenden Hände mitten in der Luft ab, während der Kopf weiterhin starr nach vorn gerichtet bleibt. Schließlich stößt sie ihre rechte Pfote gerade in die Linse, die rosafarbene Ballenfläche zur Kamera, bis die Pfote als weiche, unscharfe Form im Vordergrund das Bild füllt – das Gesicht bleibt dahinter gestochen scharf, der kalte Blick unverändert.
+Bewegung: natürliche Geschwindigkeit, echte Bewegungsunschärfe an den fliegenden Händen und den schnellen Pfotenblöcken. Defensive, minimale, ökonomische Katzenbewegungen – sie bewegt sich kaum, die Hände erledigen die ganze Arbeit und scheitern. Keine Kamerabewegung, kein Zoom, kein Text.
+NEGATIV: zusätzliche Gliedmaßen, verschmolzene oder mutierte Pfoten, zusätzliche Finger, verzerrtes Gesicht, mit dem Fell verschmolzenes Stirnband, plastisch wirkende Haut, übersättigte Farben, Text, Untertitel, Logo, Wasserzeichen, Schnitte, verwackelte Kamera, spielerische oder feiernde Körpersprache, High-Five-Geste.
+KURZVERSION:
+Eine orange-weiße getigerte Katze mit schwarzem Hachimaki-Stirnband sitzt in einem sonnenbeschienenen japanischen Tempelhof und starrt ausdruckslos in die Kamera, 85 mm, f/1.8, geringe Schärfentiefe, goldene Stunde, Filmkorn. Menschliche Hände schlagen und stoßen von beiden Seiten mit Bewegungsunschärfe schnell auf ihr Gesicht zu – die Katze pariert jeden Schlag ruhig mit einer minimalen Pfotenblockade, ohne den Kopf zu bewegen. Sie geht in eine Kung-Fu-Deckung mit beiden Pfoten, führt schnelle, unscharfe Konter aus und stößt dann ihre Pfote in die Linse, bis der Ballen das Bild füllt. Statischer One-Take, 10 s, 16:9, 24 fps, fotorealistisch, kein Text.
+Kleine Anmerkung zum Frame: Die Hände kommen überwiegend von links ins Bild (abwärts geführter Schlag + horizontaler Sweep); der Kontakt erfolgt am Handgelenk bzw. an der Handfläche – nicht Pfote gegen Pfote. Die Deckung mit beiden Pfoten ist bei etwa 4,0–5,6 s zu sehen, die unscharfen Konter bei 5,6–8 s, der Abschluss mit der Pfote an der Linse bei 8–10 s. Deine Aufgabe ist es, mit Blender MCP ein 3D-Mashup zu erstellen, eine 10-sekündige Ausgabe mit 24 fps zu rendern und daraus mit PixVerse CLI und Seedance 2.5 als Videomodell eine höchst realistische Szene zu erzeugen
+AGENTENSCHRITTE: Blender MCP, die Authentifizierung der PixVerse CLI, die Modellfunktionen und die verfügbaren Credits prüfen. Die voraussichtlichen Kosten offenlegen und vor einer kostenpflichtigen Generierung eine Ausgabengenehmigung einholen. Den Prompt in ein zeitlich abgestimmtes Beat Sheet umwandeln, über das offizielle Blender MCP leichte 3D-Meshes und Animationen erstellen, ein MP4 als Bewegungsreferenz rendern und Bildausschnitt, Bewegung, Kontakte, Dauer und Bildrate prüfen. Vor dem Absenden des Videos ein separates Referenzbild für das Erscheinungsbild generieren und prüfen. Das Bild zur Steuerung von Identität, Stil und Beleuchtung verwenden, das Blender-Video zur Steuerung von Bewegung und Timing. Nach der Generierung das Ergebnis herunterladen, die technischen Daten verifizieren, wichtige Frames prüfen, Abweichungen ehrlich melden und den tatsächlichen Credit-Verbrauch berechnen. Originale bewahren; Modelle niemals stillschweigend wechseln oder erneut generieren.
+PIXVERSE-AUFRUF: Mit pixverse create image und gpt-image-2.0 ein Referenzbild für das Erscheinungsbild im bestätigten Seitenverhältnis, in 1080p und mit hoher Detailstufe erstellen. Anschließend pixverse create reference mit dem bestätigten Videomodell aufrufen und dabei beide --images and --videos to kombinieren: das Referenzbild für das Erscheinungsbild mit der Bewegungsreferenz aus Blender. Für Seedance 2.5 --model seedance-2.5 --task-type auto, die bestätigte Dauer bzw. das bestätigte Seitenverhältnis sowie --quality 1080p --count 1. verwenden. Vor dem Absenden die aktuellen Funktionen prüfen, eindeutige Idempotenzschlüssel verwenden und den Abschluss über pixverse task status / pixverse task wait verfolgen.
+ENDGÜLTIGE AUSGABE: Das fertige Video im bestätigten Seitenverhältnis und mit der bestätigten Dauer zurückgeben, mit dem Ziel 1080p und 24 fps, außerdem das Referenzbild für das Erscheinungsbild, das Blender-.blend-Projekt und das MP4 als Bewegungsreferenz. Absolute lokale Pfade oder herunterladbare URLs angeben. Das Format des Abschlussberichts beibehalten: Video, Referenzbild, Blender-Mesh + Animation, Prüfung, Look und verbrauchte Credits. Tatsächliche Auflösung, Bildrate, Frame-Anzahl, Dauer, visuelle Abweichungen, Credit-Kosten für Bild und Video, Gesamtausgaben, verbleibendes Guthaben und die Angabe melden, ob eine erneute Generierung erfolgt ist.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2101310374033428642) · [Originalbeitrag](https://x.com/PixVerse/status/2101310387081908606) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 
@@ -4108,42 +4221,6 @@ Rekonstruiere ein Kinderzimmer, das zugleich als Arbeitsplatz dient, anhand von 
 
 ---
 
-<a id="2096576154337734865"></a>
-
-### Ein Haus von Grund auf in Blender modellieren
-
-[みずくん](https://x.com/mizkun) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865"><img src="../assets/previews/3dac0cf4428bc4a32bd1418c62a971bc75be632f3e10e918ba9b45800f364ba2.webp" width="840" loading="lazy" alt="Ein Haus von Grund auf in Blender modellieren"></a>
-
-**Prompt**
-
-```text
-Modelliere ein Haus von Grund auf in Blender. Halte die Szene bearbeitbar, damit sich das Gebäude in späteren Durchläufen prüfen und verfeinern lässt.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865) · [Originalbeitrag](https://x.com/mizkun/status/2096576154337734865) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2096574297703637111"></a>
-
-### Erkundungsabenteuer The Quiet Crossing
-
-[MotionViz](https://x.com/Motion_Viz) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111"><img src="../assets/previews/0ba729978213ae4955dbc48dc1842a22c3ccfe72d686a037cf599fba60a214dd.webp" width="840" loading="lazy" alt="Erkundungsabenteuer The Quiet Crossing"></a>
-
-**Prompt**
-
-```text
-Erstelle ein verschneites Three.js-Erkundungsspiel mit einer Blender-Figur, Voxel-Kiefern und einem Steintor. Lass sechs leuchtende Fragmente sammeln, die Kamera der Figur folgen und die Entfernung zum Tor anzeigen.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111) · [Originalbeitrag](https://x.com/Motion_Viz/status/2096574297703637111) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
 <a id="2096577430274429157"></a>
 
 ### Dampflokomotive auf dem Weg durchs Land
@@ -4162,64 +4239,10 @@ Modelliere eine Dampflokomotive in Three.js und animiere ihre Fahrt durch eine l
 
 ---
 
-<a id="2096570815714414844"></a>
-
-### Schatzsuche an einem Low-Poly-Strand
-
-[空野こんこん＠個人ゲーム開発者](https://x.com/sorano_concon_g) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844"><img src="../assets/previews/1fb12fca3f886c06a5f5670a2138319083090972bb6e38e16beebd7e4a8853aa.webp" width="840" loading="lazy" alt="Schatzsuche an einem Low-Poly-Strand"></a>
-
-**Prompt**
-
-```text
-Erstelle eine spielbare 3D-Schatzsuche an einem Strand in Unity. Modelliere Low-Poly-Palmen und Holzdecks und setze den grundlegenden Ablauf aus Erkunden und Schatzfinden um.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844) · [Originalbeitrag](https://x.com/sorano_concon_g/status/2096570815714414844) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2096572429066006845"></a>
-
-### Indischer Mangobaum in SpeedTree
-
-[Varun Mayya](https://x.com/waitin4agi_) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845"><img src="../assets/previews/c3858642eb37b219de3378529a8d1121913c658e17165e2b368571eb7a597c39.webp" width="840" loading="lazy" alt="Indischer Mangobaum in SpeedTree"></a>
-
-**Prompt**
-
-```text
-Erstelle einen indischen Mangobaum in SpeedTree für eine Unreal-Szene mit dem Ziel von 60 FPS. Generiere Blatt- und Rindenmaterialien und prüfe ihr Aussehen, bevor du das Asset fertigstellst.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845) · [Originalbeitrag](https://x.com/waitin4agi_/status/2096572429066006845) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2096572156453028193"></a>
-
-### Interaktiver Lorenz-Attraktor
-
-[Juy \| AI experiments](https://x.com/juyeam) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/interactive-lorenz-attractor-2096572156453028193"><img src="../assets/previews/8ca9458a9131136447121ad42d7c998aff884f2b37bc8989f3b06d8e905d0e91.webp" width="840" loading="lazy" alt="Interaktiver Lorenz-Attraktor"></a>
-
-**Prompt**
-
-```text
-Visualisiere zwei Bahnen des Lorenz-Systems mit einem winzigen Unterschied in der Anfangsposition. Lass Betrachter den Unterschied verändern und durch die Zeit navigieren. Unterscheide dabei numerische Prüfungen von exakten langfristigen Vorhersagen.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/interactive-lorenz-attractor-2096572156453028193) · [Originalbeitrag](https://x.com/juyeam/status/2096572156453028193) · [Live-Demo](https://tiny-worlds-juyeam.juyeam.chatgpt.site/chaos) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 254 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 259 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>

@@ -26,7 +26,7 @@
 **為你的下一個遊戲、場景或互動世界尋找靈感。**
 
 
-**254 · 最新 Astra 提示詞**
+**259 · 最新 Astra 提示詞**
 
 ## 精選作品
 
@@ -133,21 +133,21 @@
 - [逃離封閉研究設施的瀏覽器 3D 遊戲](#2100595652703199281)
 - [用 CAD 設計身體](#2100614534423540102)
 - [怪獸街區——45 秒摧毀城市](#2100636075039629796)
+- [以 Sharpa 靈巧手訓練轉筆策略](#2100751369619820923)
 - [漂浮群島間的 3D 空中電車遊戲](#2100838090210431302)
 - [打造照片級寫實的 3D 世界](#2100844566718926949)
 - [互動式 IWC Schaffhausen 手錶模型](#2100956517633761447)
+- [以真實軌道物理打造的星系](#2101055500599054437)
+- [完整的照片級寫實 3D 環境](#2101224659861590399)
+- [互動式 3D 航空發動機展示](#2101271938706685991)
+- [功夫貓武術 3D 動畫與影片工作流程](#2101310374033428642)
 - [ODD ARMS — 怪奇武器生存遊戲](#odd-arms)
 - [AKARI：名古屋屋頂火炬接力](#akari-nagoya-rooftop-flame-relay)
 - [獨眼巨人的島嶼](#cyclops-island-threejs-game)
 - [可旋轉的 3D 將棋棋盤](#2096579856133947507)
 - [桌上型電腦的互動拆解圖鑑](#2096578761877860502)
 - [兒童房與工作區配置規劃](#2096578684010508736)
-- [在 Blender 中從零建立住宅](#2096576154337734865)
-- [The Quiet Crossing 雪地探索任務](#2096574297703637111)
 - [穿越鄉間的蒸汽火車](#2096577430274429157)
-- [低多邊形海灘尋寶遊戲](#2096570815714414844)
-- [用 SpeedTree 製作印度芒果樹](#2096572429066006845)
-- [可互動的勞侖茲吸引子](#2096572156453028193)
 
 </details>
 
@@ -3827,6 +3827,26 @@ vitalduval 發布的相關推文描述了向 Astra 提出的請求：使用 CAD 
 
 ---
 
+<a id="2100751369619820923"></a>
+
+### 以 Sharpa 靈巧手訓練轉筆策略
+
+[AI Will](https://x.com/FinanceYF5) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100751369619820923"><img src="../assets/previews/401b07a7533430d141557f6f49add9f4f645a2530b1b34a3e43d865e0bcbda48.jpg" width="840" loading="lazy" alt="以 Sharpa 靈巧手訓練轉筆策略"></a>
+
+作者表示，這段中文提示詞提供給 GPT-6 Astra，使用 Isaac Lab 對 Sharpa 靈巧手進行強化學習，自行建立筆的 3D 網格，並交付訓練完成的策略與視覺化影片。
+
+**提示詞**
+
+```text
+讓靈巧手完成轉筆。使用 Isaac Lab 進行強化學習，採用 Sharpa hand，並自行建立筆的 3D 網格。最終交付訓練完成的策略與視覺化影片。可以自由搜尋網路、下載論文及所需資料。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100751369619820923) · [查看原文](https://x.com/FinanceYF5/status/2100751369619820923) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="2100838090210431302"></a>
 
 ### 漂浮群島間的 3D 空中電車遊戲
@@ -3885,6 +3905,99 @@ vitalduval 發布的相關推文描述了向 Astra 提出的請求：使用 CAD 
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100956517633761447) · [查看原文](https://x.com/YouWareAI/status/2100958838350643553) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2101055500599054437"></a>
+
+### 以真實軌道物理打造的星系
+
+[Argona](https://x.com/Argona0x) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2101055500599054437"><img src="../assets/previews/1a842b607dcfcccfd8b382dd54f71224f044dcfbb13dad37549ea086cf876511.jpg" width="840" loading="lazy" alt="以真實軌道物理打造的星系"></a>
+
+作者將這段單句 GPT-6 Astra 提示詞作為輸入，用於建立確定性的星系模擬，並在其中進行 30 秒的飛行。提示詞要求採用真實軌道物理，並包含 320,000 顆恆星。
+
+**提示詞**
+
+```text
+以真實軌道物理打造的星系、320,000 顆恆星、在其中飛行一次、30 秒
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2101055500599054437) · [查看原文](https://x.com/Argona0x/status/2101055500599054437) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2101224659861590399"></a>
+
+### 完整的照片級寫實 3D 環境
+
+[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-19
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2101224659861590399"><img src="../assets/previews/f8596f35d968eda4e24acabd4e2405d42aae7745029b8cf3426d550a2bd2cd52.jpg" width="840" loading="lazy" alt="完整的照片級寫實 3D 環境"></a>
+
+以開放式概念打造完整的照片級寫實 3D 環境。
+
+**提示詞**
+
+```text
+打造完整的照片級寫實 3D 環境。自由發揮，給我驚喜。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2101224659861590399) · [查看原文](https://x.com/JulianGoldieSEO/status/2101224659861590399) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2101271938706685991"></a>
+
+### 互動式 3D 航空發動機展示
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-19
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2101271938706685991"><img src="../assets/previews/62e8fc5aabb4c860a141510e4daac1335ad6caedd10812a63fb70f2b04fdc38e.jpg" width="840" loading="lazy" alt="互動式 3D 航空發動機展示"></a>
+
+YouWare 發布的可重複使用提示詞，用於製作互動式高擬真 3D 航空發動機網頁展示。提示詞要求建立詳細的發動機模型，支援拆解與爆炸圖互動、點擊或滑入查看零件資訊，以及流暢的鏡頭控制。原始貼文表示，這段提示詞也曾在 GPT-6 Astra 和 Gemini 4 Pro 上執行。
+
+**提示詞**
+
+```text
+使用 three.js 在網頁上建立航空發動機的 3D 互動展示。
+請參考 Jigspace 的互動設計理念，打造接近 1:1 還原度的高擬真模型，完整保留金屬、管線與葉片等材質和貼圖細節。互動功能必須包括：逐步拆解動畫、零件爆炸圖，以及透過點擊或滑入觸發的零件說明與原理解釋。
+整體必須支援流暢的鏡頭控制與友善的人機互動，確保網頁上的操作體驗順暢，並完整呈現發動機的結構與運作原理。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2101271938706685991) · [查看原文](https://x.com/YouWareAI/status/2101272224435253432) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2101310374033428642"></a>
+
+### 功夫貓武術 3D 動畫與影片工作流程
+
+[PixVerse](https://x.com/PixVerse) · 2026-09-19
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2101310374033428642"><img src="../assets/previews/8249faaaa8f71ae6e4f9ede16b0948cd336e92001b288ecec9177aca4eb5f939.jpg" width="840" loading="lazy" alt="功夫貓武術 3D 動畫與影片工作流程"></a>
+
+PixVerse 的驗證留言指出，這是一段用於 Hermes Agent 的提示詞。原始貼文將這支功夫貓展示影片歸功於 PixVerse 創作者 @woleswoosh，並表示作品使用 GPT-6 Astra + Blender 製作。提示詞指示代理程式透過 Blender 建立輕量化網格與動畫，讓一隻僵硬、沉著的虎斑貓在日本寺廟庭院中格擋迎面襲來的雙手；接著算繪 10 秒的動作參考 MP4，最後使用 PixVerse CLI 與 Seedance 2.5 生成寫實風格的 1080p 影片。
+
+**提示詞**
+
+```text
+電影感寫實風格，一鏡到底，10 秒，16:9，24fps，固定鏡頭，不剪接。
+一隻橘白虎斑貓（白色口鼻、胸口與腳掌，橘色虎斑條紋，額頭上有「M」字紋）挺直坐在正中央，面向鏡頭，維持僵硬的武術姿勢——表情冷淡、沉著、毫不在意，雙眼半瞇，嘴巴閉合，頭部始終不動。牠戴著一條黑色鉢巻頭帶，低低繫在眉毛上方，結打在後方，雙耳從頭帶上方豎起。
+場景：傳統日本寺廟庭院——溫暖的木柱、屋簷與欄杆——融入柔和的金色時刻散景中。85mm 鏡頭，f/1.8，極淺景深，焦點鎖定在貓的雙眼。溫暖的 3500K 色調，右前方柔和主光，陰影經過輕微補光，細緻的膠片顆粒。
+動作：一條赤裸的人類手臂從畫面左側快速伸入，張開的手掌帶著強烈動態模糊朝貓的臉 thrust 而來；貓從容抬起右前掌進行格擋，攔截手掌並消除這一擊的動能——牠是在格擋，不是在拍打。手臂帶著模糊效果水平掃過貓的臉，接著第二隻手從右側向下劈來；貓以短促、極小幅度的前掌格擋逐一化解，身體與頭部完全不動，雙眼始終看著鏡頭。雙手才是主動攻擊者——貓純粹被動應對，毫不在意。雙手從左右兩側反覆佯攻、進出畫面；貓滑入胸口高度的雙掌拳擊架勢，前掌彎曲、手肘收 inward，並維持姿勢等待。牠以功夫風格迅速使出帶有模糊效果的單掌反擊，在半空中截住迎面而來的雙手，頭部仍鎖定正前方。最後，牠將右前掌直直推向鏡頭，粉紅色掌墊朝向鏡頭，直到前掌填滿畫面，成為柔和、失焦的前景形狀——後方的臉部保持極度銳利，冰冷的凝視絲毫不變。
+動態：自然速度，飛舞的雙手與快速的前掌格擋要呈現真實動態模糊。防禦性、極簡且節制的貓咪動作——牠幾乎不動，所有動作都由雙手完成，卻全部失敗。鏡頭不移動、不變焦、不加文字。
+負面提示：多餘肢體、融合或變形的前掌、多餘手指、變形的臉部、頭帶與毛髮融合、塑膠質感皮膚、過度飽和的色彩、文字、字幕、標誌、浮水印、剪接、鏡頭晃動、嬉鬧或慶祝式肢體語言、擊掌手勢。
+精簡版：
+一隻戴著黑色鉢巻頭帶的橘白虎斑貓，坐在陽光灑落的日本寺廟庭院中，以面無表情的凝視看向鏡頭；85mm f/1.8 淺景深、黃金時刻、膠片顆粒。人類雙手從左右兩側帶著動態模糊快速劈向、 thrust 向牠的臉——貓從容地以極小幅度的前掌格擋每一擊，頭部始終不動。牠降入雙掌功夫架勢，快速使出帶有模糊效果的反擊，接著將前掌推向鏡頭，直到掌墊填滿畫面。固定鏡頭、一鏡到底、10 秒、16:9、24fps、寫實風格、無文字。
+從畫面整理出的補充資訊：雙手主要從左側進入（向下劈擊＋水平掃擊），接觸點位於手腕／手掌——不是前掌對前掌。雙掌架勢約在 4.0–5.6 秒，5.6–8 秒為模糊反擊，8–10 秒以前掌推向鏡頭收尾。你的工作是使用 Blender MCP 製作 3D 網格與動畫，輸出 10 秒、24fps 的檔案，並使用 Seedance 2.5 作為影片生成模型，透過 PixVerse CLI 將其算繪成超寫實場景
+代理程式步驟：檢查 Blender MCP、PixVerse CLI 驗證狀態、模型能力與可用額度。在付費生成前揭露預估費用，並取得消費核准。將提示詞轉換為帶有時間軸的節拍表，透過官方 Blender MCP 建立輕量化 3D 網格與動畫，算繪動作參考 MP4，並檢查構圖、動態、接觸點、片長與影格率。提交影片前，另外生成並檢查一張外觀參考圖。使用該圖片引導角色身分、風格與光線，並使用 Blender 影片引導動作與時序。生成後下載結果，驗證技術規格、檢查關鍵影格，誠實回報偏差，並計算實際額度用量。保留原始檔案；絕不可靜默切換模型或重新生成。
+PIXVERSE 呼叫：使用 pixverse create image 搭配 gpt-image-2.0，在確認的長寬比下建立 1080p、高細節的外觀參考圖。接著使用確認的影片模型執行 pixverse create reference，並傳入 --images and --videos to，將外觀圖片與 Blender 動作參考結合。對於 Seedance 2.5，使用 --model seedance-2.5 --task-type auto、確認的片長／長寬比，以及 --quality 1080p --count 1.提交前確認目前的模型能力，使用唯一的冪等鍵，並透過 pixverse task status／pixverse task wait 追蹤完成狀態。
+最終輸出：回傳確認長寬比與片長的完成影片，目標規格為 1080p 與 24fps；另外提供外觀參考圖、Blender .blend 專案與動作參考 MP4。提供本機絕對路徑或可下載的 URL。維持最終報告格式：影片、參考圖、Blender 網格＋動畫、檢查、外觀、已使用額度。回報實際解析度、影格率、影格數、片長、視覺偏差、圖片／影片額度成本、總支出、剩餘餘額，以及是否曾重新生成。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2101310374033428642) · [查看原文](https://x.com/PixVerse/status/2101310387081908606) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -4146,42 +4259,6 @@ UI：奶油白圓角卡片搭配海軍藍文字與珊瑚橘點綴；標題使用
 
 ---
 
-<a id="2096576154337734865"></a>
-
-### 在 Blender 中從零建立住宅
-
-[みずくん](https://x.com/mizkun) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865"><img src="../assets/previews/3dac0cf4428bc4a32bd1418c62a971bc75be632f3e10e918ba9b45800f364ba2.webp" width="840" loading="lazy" alt="在 Blender 中從零建立住宅"></a>
-
-**提示詞**
-
-```text
-在 Blender 中從零建立住宅模型。保留可編輯的場景，讓後續迭代能檢視建築並逐步改善。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865) · [查看原文](https://x.com/mizkun/status/2096576154337734865) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2096574297703637111"></a>
-
-### The Quiet Crossing 雪地探索任務
-
-[MotionViz](https://x.com/Motion_Viz) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111"><img src="../assets/previews/0ba729978213ae4955dbc48dc1842a22c3ccfe72d686a037cf599fba60a214dd.webp" width="840" loading="lazy" alt="The Quiet Crossing 雪地探索任務"></a>
-
-**提示詞**
-
-```text
-使用 Three.js 製作雪地探索遊戲，包含 Blender 角色、體素松樹與石造傳送門。設計收集六塊發光碎片的玩法，讓鏡頭跟隨角色，並顯示距離傳送門有多遠。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111) · [查看原文](https://x.com/Motion_Viz/status/2096574297703637111) · [返回案例導覽](#all-prompts)
-
----
-
 <a id="2096577430274429157"></a>
 
 ### 穿越鄉間的蒸汽火車
@@ -4200,64 +4277,10 @@ UI：奶油白圓角卡片搭配海軍藍文字與珊瑚橘點綴；標題使用
 
 ---
 
-<a id="2096570815714414844"></a>
-
-### 低多邊形海灘尋寶遊戲
-
-[空野こんこん＠個人ゲーム開発者](https://x.com/sorano_concon_g) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844"><img src="../assets/previews/1fb12fca3f886c06a5f5670a2138319083090972bb6e38e16beebd7e4a8853aa.webp" width="840" loading="lazy" alt="低多邊形海灘尋寶遊戲"></a>
-
-**提示詞**
-
-```text
-在 Unity 中製作可遊玩的 3D 海灘尋寶遊戲。建立低多邊形棕櫚樹與木棧臺，完成探索和尋找寶藏的核心遊戲循環。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844) · [查看原文](https://x.com/sorano_concon_g/status/2096570815714414844) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2096572429066006845"></a>
-
-### 用 SpeedTree 製作印度芒果樹
-
-[Varun Mayya](https://x.com/waitin4agi_) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845"><img src="../assets/previews/c3858642eb37b219de3378529a8d1121913c658e17165e2b368571eb7a597c39.webp" width="840" loading="lazy" alt="用 SpeedTree 製作印度芒果樹"></a>
-
-**提示詞**
-
-```text
-在 SpeedTree 中製作印度芒果樹，供目標為 60 FPS 的 Unreal 場景使用。生成葉片與樹皮材質，檢視外觀後再完成資產。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845) · [查看原文](https://x.com/waitin4agi_/status/2096572429066006845) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2096572156453028193"></a>
-
-### 可互動的勞侖茲吸引子
-
-[Juy \| AI experiments](https://x.com/juyeam) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-lorenz-attractor-2096572156453028193"><img src="../assets/previews/8ca9458a9131136447121ad42d7c998aff884f2b37bc8989f3b06d8e905d0e91.webp" width="840" loading="lazy" alt="可互動的勞侖茲吸引子"></a>
-
-**提示詞**
-
-```text
-將兩條初始位置僅有微小差異的勞侖茲系統軌跡視覺化。讓使用者調整差異並拖曳時間軸，同時清楚區分數值驗證與精確的長期預測。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-lorenz-attractor-2096572156453028193) · [查看原文](https://x.com/juyeam/status/2096572156453028193) · [線上展示](https://tiny-worlds-juyeam.juyeam.chatgpt.site/chaos) · [返回案例導覽](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 254 個案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 259 個案例 →</a></strong></p>
 <p><sub>為保持 GitHub README 渲染流暢，這裡僅展示最新 100 個案例。</sub></p>
 <br>
 </td></tr>

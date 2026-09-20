@@ -27,7 +27,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**254 examples · 14 languages · 12 examples with source code**
+**259 examples · 14 languages · 12 examples with source code**
 
 ## Featured projects
 
@@ -134,21 +134,21 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Browser 3D Escape Game: Escape from a Sealed Research Facility](#2100595652703199281)
 - [CAD itself a body](#2100614534423540102)
 - [Monster Block — 45 Seconds to Wreck the City](#2100636075039629796)
+- [Train a Pen-Spinning Policy with the Sharpa Dexterous Hand](#2100751369619820923)
 - [3D aerial tram game between floating islands](#2100838090210431302)
 - [Build a photorealistic 3D world](#2100844566718926949)
 - [Interactive IWC Schaffhausen Watch Model](#2100956517633761447)
+- [Galaxy from real orbital physics](#2101055500599054437)
+- [Complete Photorealistic 3D Environment](#2101224659861590399)
+- [Interactive 3D aircraft engine display](#2101271938706685991)
+- [Catfu martial-arts cat 3D animation and video workflow](#2101310374033428642)
 - [ODD ARMS — Weird Weapons Survival Game](#odd-arms)
 - [AKARI: Nagoya Rooftop Flame Relay](#akari-nagoya-rooftop-flame-relay)
 - [The Cyclops' Island](#cyclops-island-threejs-game)
 - [Rotatable 3D shogi board](#2096579856133947507)
 - [Exploded desktop-computer atlas](#2096578761877860502)
 - [Children's room and workspace planner](#2096578684010508736)
-- [A house modeled from scratch in Blender](#2096576154337734865)
-- [The Quiet Crossing exploration quest](#2096574297703637111)
 - [Steam locomotive across the countryside](#2096577430274429157)
-- [Low-poly beach treasure hunt](#2096570815714414844)
-- [Indian mango tree in SpeedTree](#2096572429066006845)
-- [Interactive Lorenz attractor](#2096572156453028193)
 
 </details>
 
@@ -3830,6 +3830,26 @@ Check English and Chinese layouts at desktop and narrow mobile widths, including
 
 ---
 
+<a id="2100751369619820923"></a>
+
+### Train a Pen-Spinning Policy with the Sharpa Dexterous Hand
+
+[AI Will](https://x.com/FinanceYF5) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100751369619820923"><img src="../assets/previews/401b07a7533430d141557f6f49add9f4f645a2530b1b34a3e43d865e0bcbda48.jpg" width="840" loading="lazy" alt="Train a Pen-Spinning Policy with the Sharpa Dexterous Hand"></a>
+
+The author says this Chinese prompt was provided to GPT-6 Astra to use Isaac Lab for reinforcement learning on the Sharpa dexterous hand, create a 3D mesh of the pen from scratch, and deliver the trained policy and a visualization video.
+
+**Prompt**
+
+```text
+Have the dexterous hand perform pen spinning. Use Isaac Lab for reinforcement learning with the Sharpa hand, and create the pen’s 3D mesh from scratch. Deliver the trained policy and a visualization video. You may freely search online and download papers and other required resources.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100751369619820923) · [Original post](https://x.com/FinanceYF5/status/2100751369619820923) · [Back to examples](#all-prompts)
+
+---
+
 <a id="2100838090210431302"></a>
 
 ### 3D aerial tram game between floating islands
@@ -3888,6 +3908,99 @@ Use Three.js to develop a highly faithful 3D interactive watch model of an IWC S
 ```
 
 [View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100956517633761447) · [Original post](https://x.com/YouWareAI/status/2100958838350643553) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2101055500599054437"></a>
+
+### Galaxy from real orbital physics
+
+[Argona](https://x.com/Argona0x) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101055500599054437"><img src="../assets/previews/1a842b607dcfcccfd8b382dd54f71224f044dcfbb13dad37549ea086cf876511.jpg" width="840" loading="lazy" alt="Galaxy from real orbital physics"></a>
+
+The author presents this one-sentence GPT-6 Astra prompt as their input for a deterministic galaxy simulation and a 30-second flight through it. It requests real orbital physics and 320,000 stars.
+
+**Prompt**
+
+```text
+a galaxy from real orbital physics, 320,000 stars, one flight through it, 30 seconds
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101055500599054437) · [Original post](https://x.com/Argona0x/status/2101055500599054437) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2101224659861590399"></a>
+
+### Complete Photorealistic 3D Environment
+
+[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-19
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101224659861590399"><img src="../assets/previews/f8596f35d968eda4e24acabd4e2405d42aae7745029b8cf3426d550a2bd2cd52.jpg" width="840" loading="lazy" alt="Complete Photorealistic 3D Environment"></a>
+
+Create a complete photorealistic 3D environment with an open-ended concept.
+
+**Prompt**
+
+```text
+Build a complete photorealistic 3D environment. Surprise me.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101224659861590399) · [Original post](https://x.com/JulianGoldieSEO/status/2101224659861590399) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2101271938706685991"></a>
+
+### Interactive 3D aircraft engine display
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-19
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101271938706685991"><img src="../assets/previews/62e8fc5aabb4c860a141510e4daac1335ad6caedd10812a63fb70f2b04fdc38e.jpg" width="840" loading="lazy" alt="Interactive 3D aircraft engine display"></a>
+
+A reusable prompt posted by YouWare for an interactive, high-fidelity 3D aircraft-engine web display. It requests a detailed engine model with disassembly and exploded-view interactions, clickable or hoverable part information, and smooth camera controls. The root post says the same prompt was run against GPT-6 Astra and Gemini 4 Pro.
+
+**Prompt**
+
+```text
+Use three.js to build a 3D interactive display of an aircraft engine on a webpage.
+Please refer to Jigspace's interaction design philosophy to achieve a realistic model with near 1:1 high-fidelity restoration, fully preserving material and texture details such as metal, pipelines, and blades. Interactive features must include: step-by-step disassembly animation, exploded view of components, and part descriptions and principle explanations triggered by click or hover.
+Overall, it must support smooth camera control and friendly human-computer interaction, ensuring a smooth experience on the web that fully showcases the engine's structure and working principles.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101271938706685991) · [Original post](https://x.com/YouWareAI/status/2101272224435253432) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2101310374033428642"></a>
+
+### Catfu martial-arts cat 3D animation and video workflow
+
+[PixVerse](https://x.com/PixVerse) · 2026-09-19
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101310374033428642"><img src="../assets/previews/8249faaaa8f71ae6e4f9ede16b0948cd336e92001b288ecec9177aca4eb5f939.jpg" width="840" loading="lazy" alt="Catfu martial-arts cat 3D animation and video workflow"></a>
+
+PixVerse’s verified comment presents this as a prompt used in Hermes Agent. The root post credits PixVerse creator @woleswoosh for the catfu showcase and says it was made with GPT-6 Astra + Blender. The prompt directs an agent to build lightweight Blender meshes and animation for a rigid, stoic tabby cat parrying incoming hands in a Japanese temple courtyard, render a 10-second motion-reference MP4, then generate a photorealistic 1080p video using PixVerse CLI and Seedance 2.5.
+
+**Prompt**
+
+```text
+Photorealistic cinematic single take, 10 seconds, 16:9, 24fps, locked-off camera, no cuts.
+A ginger-and-white tabby cat (white muzzle, chest and paws, orange tabby stripes with an "M" on the forehead) sits upright, dead center, facing the lens in a rigid martial-arts posture — flat, stoic, unimpressed stare, eyes half-lidded, mouth closed, head never moving. It wears a black hachimaki headband tied low across the brow, knot at the back, ears sticking up above the band.
+Setting: traditional Japanese temple courtyard — warm wooden pillars, eaves and railings — melted into creamy golden-hour bokeh. 85mm lens, f/1.8, extremely shallow depth of field, focus locked on the cat's eyes. Warm 3500K grade, soft key light from front-right, gently filled shadows, fine film grain.
+ACTION: a bare human arm drives in from frame left, open palm thrusting fast at the cat's face with strong motion blur; the cat calmly lifts its right front paw and parries, intercepting the palm and killing the strike's momentum — it blocks, it doesn't slap. The arm sweeps horizontally across the cat's face in a blur, then a second hand chops down from the right; the cat deflects each one with a short minimal paw block, body and head completely still, eyes never leaving the lens. The hands are the aggressors — the cat is purely reactive and unbothered. The hands feint in and out from both sides; the cat slides into a two-paw boxing guard at chest height, paws curled, elbows in, and holds it, waiting. It snaps out quick blurred single-paw counters, kung-fu style, catching the incoming hands mid-air, head still locked forward. Finally it drives its right paw straight into the lens, pink pad facing camera, until the paw fills the frame as a soft out-of-focus foreground shape — the face stays razor sharp behind it, cold stare intact.
+Motion: natural speed, real motion blur on the flying hands and the fast paw blocks. Defensive, minimal, economical cat movement — it barely moves, the hands do all the work and fail. No camera movement, no zoom, no text.
+NEGATIVE: extra limbs, fused/mutated paws, extra fingers, distorted face, headband merging into fur, plastic skin, oversaturated color, text, subtitles, logo, watermark, cuts, camera shake, playful/celebratory body language, high-five gesture.
+SHORT VERSION:
+Ginger-and-white tabby cat in a black hachimaki headband sits in a sunlit Japanese temple courtyard, deadpan stare at camera, 85mm f/1.8 shallow DOF, golden hour, film grain. Human hands chop and thrust in fast at its face from both sides in motion blur — the cat calmly parries each strike with a minimal paw block, never moving its head. It drops into a two-paw kung-fu guard, throws fast blurred counters, then drives its paw into the lens until the pad fills the frame. Locked-off single take, 10s, 16:9, 24fps, photorealistic, no text.
+Catatan kecil dari frame: tangannya dominan masuk dari kiri (chop descending + sweep horizontal), kontak terjadi di wrist/palm — bukan paw-to-paw. Guard dua paw ada di ~4.0-5.6s, counter blur di 5.6-8s, finish paw ke lensa 8-10s. your job is to make 3d mashed with blender mcp and make 10s 24fps output amd render it to super realistic scene with pixverse cli using seedance 2.5 as video model generation
+AGENT STEPS: Check Blender MCP, PixVerse CLI authentication, model capabilities, and available credits. Disclose estimated costs and obtain spending approval before paid generation. Turn the prompt into a timed beat sheet, build lightweight 3D meshes and animation through official Blender MCP, render a motion-reference MP4, and inspect framing, motion, contacts, duration, and frame rate. Generate and inspect a separate appearance-reference image before submitting the video. Use the image to guide identity, style, and lighting, and the Blender video to guide movement and timing. After generation, download the result, verify technical specs, inspect key frames, report deviations honestly, and calculate actual credit usage. Preserve originals; never silently switch models or regenerate.
+PIXVERSE CALL: Use pixverse create image with gpt-image-2.0 to create the appearance reference at the confirmed aspect ratio, 1080p, high detail. Then use pixverse create reference with the confirmed video model, passing both --images and --videos to combine the appearance image with the Blender motion reference. For Seedance 2.5, use --model seedance-2.5 --task-type auto, the confirmed duration/aspect ratio, and --quality 1080p --count 1. Verify current capabilities before submission, use unique idempotency keys, and track completion through pixverse task status / pixverse task wait.
+FINAL OUTPUT: Return the completed video at the confirmed aspect ratio and duration, targeting 1080p and 24fps, plus the appearance-reference image, Blender .blend project, and motion-reference MP4. Provide absolute local paths or downloadable URLs. Keep the final report format: Video, Gambar referensi, Blender mesh + animasi, Check, Look, and Kredit terpakai. Report actual resolution, frame rate, frame count, duration, visual deviations, image/video credit costs, total spent, remaining balance, and whether any regeneration occurred.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101310374033428642) · [Original post](https://x.com/PixVerse/status/2101310387081908606) · [Back to examples](#all-prompts)
 
 ---
 
@@ -4149,42 +4262,6 @@ Reconstruct a child's room that doubles as a workspace from four corner photos a
 
 ---
 
-<a id="2096576154337734865"></a>
-
-### A house modeled from scratch in Blender
-
-[みずくん](https://x.com/mizkun) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865"><img src="../assets/previews/3dac0cf4428bc4a32bd1418c62a971bc75be632f3e10e918ba9b45800f364ba2.webp" width="840" loading="lazy" alt="A house modeled from scratch in Blender"></a>
-
-**Prompt**
-
-```text
-Model a house from scratch in Blender. Keep the scene editable so the building can be inspected and refined in subsequent iterations.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865) · [Original post](https://x.com/mizkun/status/2096576154337734865) · [Back to examples](#all-prompts)
-
----
-
-<a id="2096574297703637111"></a>
-
-### The Quiet Crossing exploration quest
-
-[MotionViz](https://x.com/Motion_Viz) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111"><img src="../assets/previews/0ba729978213ae4955dbc48dc1842a22c3ccfe72d686a037cf599fba60a214dd.webp" width="840" loading="lazy" alt="The Quiet Crossing exploration quest"></a>
-
-**Prompt**
-
-```text
-Build a snowy Three.js exploration game with a Blender character, voxel pines and a stone waygate. Collect six glowing fragments, follow the character with the camera and show the gate's distance.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111) · [Original post](https://x.com/Motion_Viz/status/2096574297703637111) · [Back to examples](#all-prompts)
-
----
-
 <a id="2096577430274429157"></a>
 
 ### Steam locomotive across the countryside
@@ -4203,64 +4280,10 @@ Model a steam locomotive in Three.js and animate it travelling through a country
 
 ---
 
-<a id="2096570815714414844"></a>
-
-### Low-poly beach treasure hunt
-
-[空野こんこん＠個人ゲーム開発者](https://x.com/sorano_concon_g) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844"><img src="../assets/previews/1fb12fca3f886c06a5f5670a2138319083090972bb6e38e16beebd7e4a8853aa.webp" width="840" loading="lazy" alt="Low-poly beach treasure hunt"></a>
-
-**Prompt**
-
-```text
-Build a playable 3D treasure hunt on a beach in Unity. Model low-poly palm trees and wooden decks, and establish the core exploration and treasure-finding loop.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844) · [Original post](https://x.com/sorano_concon_g/status/2096570815714414844) · [Back to examples](#all-prompts)
-
----
-
-<a id="2096572429066006845"></a>
-
-### Indian mango tree in SpeedTree
-
-[Varun Mayya](https://x.com/waitin4agi_) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845"><img src="../assets/previews/c3858642eb37b219de3378529a8d1121913c658e17165e2b368571eb7a597c39.webp" width="840" loading="lazy" alt="Indian mango tree in SpeedTree"></a>
-
-**Prompt**
-
-```text
-Create an Indian mango tree in SpeedTree for an Unreal scene targeting 60 FPS. Generate leaf and bark materials and review their appearance before finalizing the asset.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845) · [Original post](https://x.com/waitin4agi_/status/2096572429066006845) · [Back to examples](#all-prompts)
-
----
-
-<a id="2096572156453028193"></a>
-
-### Interactive Lorenz attractor
-
-[Juy \| AI experiments](https://x.com/juyeam) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/3d-prompts/interactive-lorenz-attractor-2096572156453028193"><img src="../assets/previews/8ca9458a9131136447121ad42d7c998aff884f2b37bc8989f3b06d8e905d0e91.webp" width="840" loading="lazy" alt="Interactive Lorenz attractor"></a>
-
-**Prompt**
-
-```text
-Visualize two Lorenz-system trajectories with a tiny initial-position difference. Let viewers change the difference and scrub through time, while distinguishing numerical checks from exact long-term predictions.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/interactive-lorenz-attractor-2096572156453028193) · [Original post](https://x.com/juyeam/status/2096572156453028193) · [Live demo](https://tiny-worlds-juyeam.juyeam.chatgpt.site/chaos) · [Back to examples](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 254 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 259 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>

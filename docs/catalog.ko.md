@@ -26,7 +26,7 @@
 **다음 게임, 장면, 인터랙티브 세계를 위한 아이디어를 찾아보세요.**
 
 
-**254 · 최신 Astra 프롬프트**
+**259 · 최신 Astra 프롬프트**
 
 ## 추천 작품
 
@@ -133,21 +133,21 @@
 - [폐쇄된 연구 시설에서 탈출하는 브라우저 3D 게임](#2100595652703199281)
 - [CAD로 직접 몸체 설계하기](#2100614534423540102)
 - [몬스터 블록 — 45초 동안 도시를 박살 내세요](#2100636075039629796)
+- [Sharpa 다지 손으로 펜 돌리기 전략 학습](#2100751369619820923)
 - [하늘섬 사이를 오가는 3D 공중 트램 게임](#2100838090210431302)
 - [실사풍 3D 월드 만들기](#2100844566718926949)
 - [인터랙티브 IWC Schaffhausen 시계 모델](#2100956517633761447)
+- [실제 궤도 물리학으로 구현한 은하](#2101055500599054437)
+- [사실적인 3D 환경 제작](#2101224659861590399)
+- [인터랙티브 3D 항공기 엔진 디스플레이](#2101271938706685991)
+- [캣푸 무술 고양이 3D 애니메이션 및 영상 제작 워크플로](#2101310374033428642)
 - [ODD ARMS — 기묘한 무기 서바이벌 게임](#odd-arms)
 - [AKARI: 나고야 옥상 성화 봉송](#akari-nagoya-rooftop-flame-relay)
 - [키클롭스의 섬](#cyclops-island-threejs-game)
 - [자유롭게 회전하는 3D 쇼기판](#2096579856133947507)
 - [데스크톱 컴퓨터 분해 도감](#2096578761877860502)
 - [아이 방과 업무 공간 배치 도구](#2096578684010508736)
-- [Blender에서 처음부터 만드는 주택](#2096576154337734865)
-- [The Quiet Crossing 설원 탐험 퀘스트](#2096574297703637111)
 - [전원 풍경을 달리는 증기 기관차](#2096577430274429157)
-- [로우폴리 해변 보물찾기](#2096570815714414844)
-- [SpeedTree로 만드는 인도 망고나무](#2096572429066006845)
-- [직접 조작하는 로렌츠 끌개](#2096572156453028193)
 
 </details>
 
@@ -3789,6 +3789,26 @@ Tripo 제작 액션을 https://www.tripo3d.ai/에 연결하고, utm_source=monst
 
 ---
 
+<a id="2100751369619820923"></a>
+
+### Sharpa 다지 손으로 펜 돌리기 전략 학습
+
+[AI Will](https://x.com/FinanceYF5) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100751369619820923"><img src="../assets/previews/401b07a7533430d141557f6f49add9f4f645a2530b1b34a3e43d865e0bcbda48.jpg" width="840" loading="lazy" alt="Sharpa 다지 손으로 펜 돌리기 전략 학습"></a>
+
+작성자는 이 중국어 프롬프트를 GPT-6 Astra에 제공해 Isaac Lab에서 Sharpa 다지 손의 강화학습을 진행하고, 펜의 3D 메시를 직접 제작한 뒤 학습된 전략과 시각화 영상을 제공한다고 설명합니다.
+
+**프롬프트**
+
+```text
+다지 손으로 펜을 돌리게 하세요. Isaac Lab에서 강화학습을 진행하고 Sharpa hand를 사용하며, 펜의 3D 메시를 직접 제작하세요. 최종 결과물로 학습된 전략과 시각화 영상을 제공하세요. 인터넷에서 자유롭게 검색하고 논문 및 필요한 자료를 다운로드해도 됩니다.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100751369619820923) · [원본 게시물](https://x.com/FinanceYF5/status/2100751369619820923) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="2100838090210431302"></a>
 
 ### 하늘섬 사이를 오가는 3D 공중 트램 게임
@@ -3847,6 +3867,99 @@ Three.js를 사용해 IWC Schaffhausen 시계를 매우 충실하게 재현한 3
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100956517633761447) · [원본 게시물](https://x.com/YouWareAI/status/2100958838350643553) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="2101055500599054437"></a>
+
+### 실제 궤도 물리학으로 구현한 은하
+
+[Argona](https://x.com/Argona0x) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101055500599054437"><img src="../assets/previews/1a842b607dcfcccfd8b382dd54f71224f044dcfbb13dad37549ea086cf876511.jpg" width="840" loading="lazy" alt="실제 궤도 물리학으로 구현한 은하"></a>
+
+작성자는 이 한 문장으로 된 GPT-6 Astra 프롬프트를 결정론적 은하 시뮬레이션과 그 안을 30초 동안 비행하는 장면의 입력값으로 제시합니다. 실제 궤도 물리학과 320,000개의 별을 요청합니다.
+
+**프롬프트**
+
+```text
+실제 궤도 물리학을 기반으로 한 은하, 320,000개의 별, 그 안을 가로지르는 한 차례의 비행, 30초
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101055500599054437) · [원본 게시물](https://x.com/Argona0x/status/2101055500599054437) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="2101224659861590399"></a>
+
+### 사실적인 3D 환경 제작
+
+[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-19
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101224659861590399"><img src="../assets/previews/f8596f35d968eda4e24acabd4e2405d42aae7745029b8cf3426d550a2bd2cd52.jpg" width="840" loading="lazy" alt="사실적인 3D 환경 제작"></a>
+
+자유로운 콘셉트로 완성도 높은 사실적 3D 환경을 제작합니다.
+
+**프롬프트**
+
+```text
+완성도 높은 사실적 3D 환경을 제작해 주세요. 자유롭게 구성해 주세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101224659861590399) · [원본 게시물](https://x.com/JulianGoldieSEO/status/2101224659861590399) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="2101271938706685991"></a>
+
+### 인터랙티브 3D 항공기 엔진 디스플레이
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-19
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101271938706685991"><img src="../assets/previews/62e8fc5aabb4c860a141510e4daac1335ad6caedd10812a63fb70f2b04fdc38e.jpg" width="840" loading="lazy" alt="인터랙티브 3D 항공기 엔진 디스플레이"></a>
+
+YouWare가 게시한 재사용 가능한 프롬프트로, 웹에서 고품질 항공기 엔진 3D 모델을 인터랙티브하게 보여 주는 디스플레이를 제작합니다. 정교한 엔진 모델과 함께 단계별 분해 및 분해도 상호작용, 클릭이나 호버로 확인할 수 있는 부품 정보, 부드러운 카메라 컨트롤을 요청합니다. 원 게시글에 따르면 동일한 프롬프트를 GPT-6 Astra와 Gemini 4 Pro에서 실행했습니다.
+
+**프롬프트**
+
+```text
+three.js를 사용해 웹페이지에서 항공기 엔진을 3D로 인터랙티브하게 보여 주는 디스플레이를 제작하세요.
+Jigspace의 인터랙션 디자인 철학을 참고해 실제와 거의 1:1에 가까운 고품질로 복원한 모델을 구현하고, 금속, 파이프라인, 블레이드 등 재질과 텍스처의 디테일을 온전히 유지하세요. 인터랙티브 기능에는 단계별 분해 애니메이션, 부품 분해도, 클릭이나 호버로 표시되는 부품 설명 및 작동 원리 해설이 반드시 포함되어야 합니다.
+전체적으로 부드러운 카메라 조작과 사용자 친화적인 상호작용을 지원해, 웹에서 매끄러운 사용 경험을 제공하고 엔진의 구조와 작동 원리를 충분히 보여 주세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101271938706685991) · [원본 게시물](https://x.com/YouWareAI/status/2101272224435253432) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="2101310374033428642"></a>
+
+### 캣푸 무술 고양이 3D 애니메이션 및 영상 제작 워크플로
+
+[PixVerse](https://x.com/PixVerse) · 2026-09-19
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101310374033428642"><img src="../assets/previews/8249faaaa8f71ae6e4f9ede16b0948cd336e92001b288ecec9177aca4eb5f939.jpg" width="840" loading="lazy" alt="캣푸 무술 고양이 3D 애니메이션 및 영상 제작 워크플로"></a>
+
+PixVerse의 인증 댓글에 따르면 이 프롬프트는 Hermes Agent에서 사용되었습니다. 원 게시물에서는 PixVerse 크리에이터 @woleswoosh가 캣푸 쇼케이스를 제작했으며, GPT-6 Astra와 Blender를 사용했다고 밝힙니다. 이 프롬프트는 일본 사찰 안뜰에서 꼿꼿하고 무표정한 얼룩무늬 고양이가 날아오는 손을 막아 내는 장면을 위한 가벼운 Blender 메시와 애니메이션을 에이전트가 제작하도록 지시합니다. 그런 다음 10초 길이의 동작 레퍼런스 MP4를 렌더링하고, PixVerse CLI와 Seedance 2.5를 사용해 사실적인 1080p 영상을 생성합니다.
+
+**프롬프트**
+
+```text
+사실적인 시네마틱 원테이크, 10초, 16:9, 24fps, 고정 카메라, 컷 없음.
+주황색과 흰색 털의 얼룩무늬 고양이(흰 주둥이, 가슴과 발, 이마에 "M" 무늬가 있는 주황색 태비 줄무늬)가 화면 정중앙에 꼿꼿한 무술 자세로 앉아 렌즈를 정면으로 바라본다. 굳어 있는 듯한 무표정하고 냉담한 시선, 반쯤 감긴 눈, 다문 입을 유지하며 머리는 절대 움직이지 않는다. 검은 하치마키 머리띠를 눈썹 아래쪽에 맞춰 두르고 뒤에서 매듭을 묶었으며, 귀는 머리띠 위로 솟아 있다.
+배경: 전통적인 일본 사찰 안뜰—따뜻한 색감의 목재 기둥, 처마와 난간—이 크리미한 골든아워 보케 속으로 녹아든다. 85mm 렌즈, f/1.8, 극도로 얕은 피사계 심도, 고양이의 눈에 초점을 고정한다. 따뜻한 3500K 색보정, 오른쪽 전면에서 들어오는 부드러운 키 라이트, 은은하게 채워진 그림자, 미세한 필름 그레인.
+액션: 맨팔이 화면 왼쪽에서 빠르게 뻗어 들어와 강한 모션 블러를 일으키며 펼친 손바닥으로 고양이의 얼굴을 찌른다. 고양이는 침착하게 오른쪽 앞발을 들어 손바닥을 가로막고 공격의 힘을 없앤다—때리는 것이 아니라 막는다. 팔이 고양이의 얼굴 앞을 수평으로 쓸고 지나가며 흐릿하게 보인 뒤, 오른쪽에서 두 번째 손이 아래로 내리친다. 고양이는 몸과 머리를 완전히 고정한 채 짧고 최소한의 앞발 블록으로 각각의 공격을 흘려보내며, 시선은 절대 렌즈에서 벗어나지 않는다. 공격하는 쪽은 손이며, 고양이는 순전히 반응만 하고 전혀 동요하지 않는다. 양쪽에서 손이 페인트 동작처럼 나타났다가 사라진다. 고양이는 가슴 높이에서 양발을 웅크린 복싱 가드 자세로 전환하고 팔꿈치를 안으로 모은 채 기다린다. 이어서 쿵후 스타일의 빠르고 흐릿한 한 발 카운터를 날려 공중에서 날아오는 손을 받아 내며, 머리는 계속 정면을 향한다. 마지막에는 오른쪽 앞발을 렌즈를 향해 곧게 뻗고, 분홍색 발바닥이 카메라를 향하게 하여 화면을 가득 채운다. 앞발은 부드럽게 초점이 나간 전경 형태가 되고, 뒤의 얼굴은 칼날처럼 선명하며 차가운 시선을 유지한다.
+움직임: 자연스러운 속도, 날아오는 손과 빠른 앞발 블록에 실제 모션 블러를 적용한다. 방어적이고 최소한이며 경제적인 고양이의 움직임—고양이는 거의 움직이지 않고, 손이 모든 동작을 수행하지만 번번이 실패한다. 카메라 이동 없음, 줌 없음, 텍스트 없음.
+네거티브: 팔다리 추가, 붙거나 변형된 앞발, 손가락 추가, 일그러진 얼굴, 털과 합쳐진 머리띠, 플라스틱 같은 피부, 과도하게 채도 높은 색상, 텍스트, 자막, 로고, 워터마크, 컷, 카메라 흔들림, 장난스럽거나 축하하는 듯한 몸짓, 하이파이브 동작.
+짧은 버전:
+검은 하치마키 머리띠를 두른 주황색과 흰색 얼룩무늬 고양이가 햇빛이 비치는 일본 사찰 안뜰에 앉아 카메라를 무표정하게 바라본다. 85mm f/1.8, 얕은 피사계 심도, 골든아워, 필름 그레인. 양쪽에서 사람의 손이 모션 블러를 일으키며 얼굴을 향해 빠르게 내려치고 찌르듯 들어온다. 고양이는 머리를 전혀 움직이지 않고 최소한의 앞발 블록으로 각 공격을 침착하게 막아 낸다. 양발 쿵후 가드 자세를 취한 뒤 빠르고 흐릿한 카운터를 날리고, 마지막에는 앞발을 렌즈에 밀어 넣어 발바닥이 화면을 가득 채우게 한다. 고정 카메라 원테이크, 10초, 16:9, 24fps, 사실적인 영상, 텍스트 없음.
+프레임을 바탕으로 한 간단한 메모: 손은 주로 왼쪽에서 들어온다(아래로 내리치는 동작 + 수평 스윕). 접촉 지점은 손목/손바닥이며, 앞발과 앞발이 맞닿는 동작이 아니다. 양발 가드는 약 4.0~5.6초, 흐릿한 카운터는 5.6~8초, 렌즈를 향한 앞발 마무리는 8~10초에 배치한다. Blender MCP로 메시와 애니메이션을 제작해 10초, 24fps 결과물을 렌더링하고, Seedance 2.5를 영상 생성 모델로 사용해 PixVerse CLI에서 초현실적인 장면으로 출력하는 것이 목표다
+에이전트 단계: Blender MCP, PixVerse CLI 인증 상태, 모델 기능, 사용 가능한 크레딧을 확인한다. 예상 비용을 공개하고 유료 생성을 진행하기 전에 지출 승인을 받는다. 프롬프트를 시간대별 비트 시트로 변환하고, 공식 Blender MCP를 통해 가벼운 3D 메시와 애니메이션을 제작한 다음 동작 레퍼런스 MP4를 렌더링한다. 구도, 움직임, 접촉 지점, 재생 시간, 프레임 레이트를 검사한다. 영상을 제출하기 전에 별도의 외형 레퍼런스 이미지를 생성하고 검사한다. 이미지로 캐릭터의 정체성, 스타일, 조명을 안내하고 Blender 영상으로 움직임과 타이밍을 안내한다. 생성 후 결과물을 다운로드하고 기술 사양을 확인하며 주요 프레임을 검사하고, 차이점을 정직하게 보고하고 실제 크레딧 사용량을 계산한다. 원본은 보존하며 모델을 몰래 변경하거나 재생성하지 않는다.
+PIXVERSE 호출: pixverse create image에서 gpt-image-2.0을 사용해 확인된 화면비, 1080p, 높은 디테일의 외형 레퍼런스를 생성한다. 그런 다음 확인된 영상 모델로 pixverse create reference를 호출하고 다음 두 항목을 전달한다 --images and --videos to외형 이미지와 Blender 동작 레퍼런스를 결합한다. Seedance 2.5에는 --model seedance-2.5 --task-type auto확인된 재생 시간과 화면비, 그리고 --quality 1080p --count 1.를 사용한다. 제출 전에 현재 기능을 확인하고, 고유한 멱등성 키를 사용하며, pixverse task status / pixverse task wait를 통해 완료 상태를 추적한다.
+최종 출력: 확인된 화면비와 재생 시간의 완성 영상을 반환하며, 목표 사양은 1080p 및 24fps로 한다. 외형 레퍼런스 이미지, Blender .blend 프로젝트, 동작 레퍼런스 MP4도 함께 제공한다. 절대 로컬 경로 또는 다운로드 가능한 URL을 제시한다. 최종 보고서 형식은 다음을 유지한다: Video, 레퍼런스 이미지, Blender 메시 + 애니메이션, 검사, 룩, 사용 크레딧. 실제 해상도, 프레임 레이트, 프레임 수, 재생 시간, 시각적 차이점, 이미지/영상 크레딧 비용, 총 지출액, 남은 잔액, 재생성 여부를 보고한다.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101310374033428642) · [원본 게시물](https://x.com/PixVerse/status/2101310387081908606) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -4108,42 +4221,6 @@ Vite, TypeScript와 Three.js를 사용하고, 지리 데이터, 순수 물리·�
 
 ---
 
-<a id="2096576154337734865"></a>
-
-### Blender에서 처음부터 만드는 주택
-
-[みずくん](https://x.com/mizkun) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865"><img src="../assets/previews/3dac0cf4428bc4a32bd1418c62a971bc75be632f3e10e918ba9b45800f364ba2.webp" width="840" loading="lazy" alt="Blender에서 처음부터 만드는 주택"></a>
-
-**프롬프트**
-
-```text
-Blender에서 주택을 처음부터 모델링하세요. 이후 반복 작업에서 건물을 살펴보고 개선할 수 있도록 장면을 편집 가능한 상태로 유지하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865) · [원본 게시물](https://x.com/mizkun/status/2096576154337734865) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="2096574297703637111"></a>
-
-### The Quiet Crossing 설원 탐험 퀘스트
-
-[MotionViz](https://x.com/Motion_Viz) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111"><img src="../assets/previews/0ba729978213ae4955dbc48dc1842a22c3ccfe72d686a037cf599fba60a214dd.webp" width="840" loading="lazy" alt="The Quiet Crossing 설원 탐험 퀘스트"></a>
-
-**프롬프트**
-
-```text
-Blender 캐릭터, 복셀 소나무, 돌로 된 이동 관문이 등장하는 Three.js 설원 탐험 게임을 만드세요. 빛나는 조각 6개를 모으게 하고, 카메라가 캐릭터를 따라가며 관문까지의 거리를 표시하도록 하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111) · [원본 게시물](https://x.com/Motion_Viz/status/2096574297703637111) · [사례 목록으로](#all-prompts)
-
----
-
 <a id="2096577430274429157"></a>
 
 ### 전원 풍경을 달리는 증기 기관차
@@ -4162,64 +4239,10 @@ Three.js에서 증기 기관차를 모델링하고 전원 풍경을 달리는 �
 
 ---
 
-<a id="2096570815714414844"></a>
-
-### 로우폴리 해변 보물찾기
-
-[空野こんこん＠個人ゲーム開発者](https://x.com/sorano_concon_g) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844"><img src="../assets/previews/1fb12fca3f886c06a5f5670a2138319083090972bb6e38e16beebd7e4a8853aa.webp" width="840" loading="lazy" alt="로우폴리 해변 보물찾기"></a>
-
-**프롬프트**
-
-```text
-Unity에서 해변을 배경으로 한 플레이 가능한 3D 보물찾기 게임을 만드세요. 로우폴리 야자수와 목재 데크를 모델링하고, 탐험하며 보물을 찾는 핵심 게임 루프를 구성하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844) · [원본 게시물](https://x.com/sorano_concon_g/status/2096570815714414844) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="2096572429066006845"></a>
-
-### SpeedTree로 만드는 인도 망고나무
-
-[Varun Mayya](https://x.com/waitin4agi_) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845"><img src="../assets/previews/c3858642eb37b219de3378529a8d1121913c658e17165e2b368571eb7a597c39.webp" width="840" loading="lazy" alt="SpeedTree로 만드는 인도 망고나무"></a>
-
-**프롬프트**
-
-```text
-60 FPS를 목표로 하는 Unreal 장면용 인도 망고나무를 SpeedTree에서 만드세요. 잎과 나무껍질 재질을 생성하고, 외관을 검토한 뒤 에셋을 완성하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845) · [원본 게시물](https://x.com/waitin4agi_/status/2096572429066006845) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="2096572156453028193"></a>
-
-### 직접 조작하는 로렌츠 끌개
-
-[Juy \| AI experiments](https://x.com/juyeam) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/interactive-lorenz-attractor-2096572156453028193"><img src="../assets/previews/8ca9458a9131136447121ad42d7c998aff884f2b37bc8989f3b06d8e905d0e91.webp" width="840" loading="lazy" alt="직접 조작하는 로렌츠 끌개"></a>
-
-**프롬프트**
-
-```text
-초기 위치에 아주 작은 차이가 있는 두 로렌츠 시스템 궤적을 시각화하세요. 관람자가 그 차이를 조절하고 시간 축을 앞뒤로 탐색할 수 있게 하세요. 수치 검증과 정확한 장기 예측은 구분해 설명하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/interactive-lorenz-attractor-2096572156453028193) · [원본 게시물](https://x.com/juyeam/status/2096572156453028193) · [데모](https://tiny-worlds-juyeam.juyeam.chatgpt.site/chaos) · [사례 목록으로](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 254개 보기 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 259개 보기 →</a></strong></p>
 <p><sub>GitHub README가 원활하게 렌더링되도록 최신 사례 100개만 표시합니다.</sub></p>
 <br>
 </td></tr>

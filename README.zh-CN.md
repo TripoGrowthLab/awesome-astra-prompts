@@ -27,7 +27,7 @@
 
 探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。
 
-**254 条案例 · 14 种语言 · 12 条附项目源码**
+**259 条案例 · 14 种语言 · 12 条附项目源码**
 
 ## 精选作品
 
@@ -134,21 +134,21 @@
 - [逃离封闭研究设施的浏览器 3D 游戏](#2100595652703199281)
 - [用 CAD 设计身体](#2100614534423540102)
 - [怪兽街区——45 秒摧毁城市](#2100636075039629796)
+- [使用 Sharpa 灵巧手训练转笔策略](#2100751369619820923)
 - [漂浮群岛间的 3D 空中电车游戏](#2100838090210431302)
 - [构建照片级真实感的 3D 世界](#2100844566718926949)
 - [IWC 沙夫豪森互动腕表模型](#2100956517633761447)
+- [基于真实轨道物理的星系](#2101055500599054437)
+- [完整的照片级写实 3D 环境](#2101224659861590399)
+- [交互式 3D 航空发动机展示](#2101271938706685991)
+- [功夫猫 3D 动画与视频工作流](#2101310374033428642)
 - [ODD ARMS——奇趣武器生存游戏](#odd-arms)
 - [AKARI：名古屋屋顶火炬接力](#akari-nagoya-rooftop-flame-relay)
 - [独眼巨人之岛](#cyclops-island-threejs-game)
 - [可旋转的 3D 将棋棋盘](#2096579856133947507)
 - [台式电脑交互拆解图谱](#2096578761877860502)
 - [儿童房兼工作区布局规划](#2096578684010508736)
-- [从零搭建 Blender 住宅](#2096576154337734865)
-- [静谧渡口探索任务](#2096574297703637111)
 - [穿越田园的蒸汽机车](#2096577430274429157)
-- [低多边形海滩寻宝](#2096570815714414844)
-- [SpeedTree 印度芒果树](#2096572429066006845)
-- [交互式洛伦兹吸引子](#2096572156453028193)
 
 </details>
 
@@ -3702,6 +3702,26 @@ vitalduval 发布的一条推文提出了让 Astra 设计一个 CAD 身体的请
 
 ---
 
+<a id="2100751369619820923"></a>
+
+### 使用 Sharpa 灵巧手训练转笔策略
+
+[AI Will](https://x.com/FinanceYF5) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2100751369619820923"><img src="assets/previews/401b07a7533430d141557f6f49add9f4f645a2530b1b34a3e43d865e0bcbda48.jpg" width="840" loading="lazy" alt="使用 Sharpa 灵巧手训练转笔策略"></a>
+
+该作者称这段中文提示词被提供给 GPT-6 Astra，用 Isaac Lab 对 Sharpa 灵巧手进行强化学习，自行创建笔的 3D 网格，并交付训练好的策略和可视化视频。
+
+**提示词**
+
+```text
+让灵巧手完成转笔。使用 Isaac Lab 进行强化学习，采用 Sharpa hand，并自行创建笔的 3D 网格。最终交付训练好的策略和可视化视频。可以自由联网搜索、下载论文及所需资料。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2100751369619820923) · [查看原帖](https://x.com/FinanceYF5/status/2100751369619820923) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="2100838090210431302"></a>
 
 ### 漂浮群岛间的 3D 空中电车游戏
@@ -3760,6 +3780,99 @@ vitalduval 发布的一条推文提出了让 Astra 设计一个 CAD 身体的请
 ```
 
 [查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2100956517633761447) · [查看原帖](https://x.com/YouWareAI/status/2100958838350643553) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2101055500599054437"></a>
+
+### 基于真实轨道物理的星系
+
+[Argona](https://x.com/Argona0x) · 2026-09-18
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2101055500599054437"><img src="assets/previews/1a842b607dcfcccfd8b382dd54f71224f044dcfbb13dad37549ea086cf876511.jpg" width="840" loading="lazy" alt="基于真实轨道物理的星系"></a>
+
+作者将这段一句话 GPT-6 Astra 提示词作为确定性星系模拟的输入，并在其中进行 30 秒飞行。提示词要求采用真实轨道物理，模拟 320,000 颗恒星。
+
+**提示词**
+
+```text
+一个基于真实轨道物理的星系，包含 320,000 颗恒星，在其中完成一次飞行，持续 30 秒
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2101055500599054437) · [查看原帖](https://x.com/Argona0x/status/2101055500599054437) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2101224659861590399"></a>
+
+### 完整的照片级写实 3D 环境
+
+[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-19
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2101224659861590399"><img src="assets/previews/f8596f35d968eda4e24acabd4e2405d42aae7745029b8cf3426d550a2bd2cd52.jpg" width="840" loading="lazy" alt="完整的照片级写实 3D 环境"></a>
+
+以开放式概念创作一个完整的照片级写实 3D 环境。
+
+**提示词**
+
+```text
+构建一个完整的照片级写实 3D 环境。自由发挥，给我一个惊喜。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2101224659861590399) · [查看原帖](https://x.com/JulianGoldieSEO/status/2101224659861590399) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2101271938706685991"></a>
+
+### 交互式 3D 航空发动机展示
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-19
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2101271938706685991"><img src="assets/previews/62e8fc5aabb4c860a141510e4daac1335ad6caedd10812a63fb70f2b04fdc38e.jpg" width="840" loading="lazy" alt="交互式 3D 航空发动机展示"></a>
+
+YouWare 发布的可复用提示词，用于创建交互式高保真 3D 航空发动机网页展示。它要求制作详细的发动机模型，支持拆解和爆炸视图交互，并提供可点击或悬停查看的部件信息以及流畅的镜头控制。原帖称，该提示词曾分别在 GPT-6 Astra 和 Gemini 4 Pro 上运行。
+
+**提示词**
+
+```text
+使用 three.js 在网页上构建航空发动机的 3D 交互式展示。
+请参考 Jigspace 的交互设计理念，实现接近 1:1 的高保真模型还原，完整保留金属、管路和叶片等材质与纹理细节。交互功能必须包括：分步骤拆解动画、组件爆炸视图，以及通过点击或悬停触发的部件说明和工作原理讲解。
+整体上必须支持流畅的镜头控制和友好的人机交互，确保网页端体验顺畅，充分展示发动机的结构和工作原理。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2101271938706685991) · [查看原帖](https://x.com/YouWareAI/status/2101272224435253432) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2101310374033428642"></a>
+
+### 功夫猫 3D 动画与视频工作流
+
+[PixVerse](https://x.com/PixVerse) · 2026-09-19
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2101310374033428642"><img src="assets/previews/8249faaaa8f71ae6e4f9ede16b0948cd336e92001b288ecec9177aca4eb5f939.jpg" width="840" loading="lazy" alt="功夫猫 3D 动画与视频工作流"></a>
+
+PixVerse 的认证评论说明，这是一个用于 Hermes Agent 的提示词。原帖注明，猫功夫展示由 PixVerse 创作者 @woleswoosh 发布，使用 GPT-6 Astra + Blender 制作。该提示词指示智能体为一只在日本寺庙庭院中格挡来袭手掌、姿态僵硬冷峻的虎斑猫，通过 Blender 构建轻量级网格和动画，渲染一段 10 秒动作参考 MP4，然后使用 PixVerse CLI 和 Seedance 2.5 生成一段 1080p 照片级真实感视频。
+
+**提示词**
+
+```text
+照片级真实感电影画面，单镜头，10 秒，16:9，24fps，固定机位，无剪辑。
+一只橘白相间的虎斑猫（白色口鼻、胸口和爪子，橘色虎斑纹，额头上有一个“M”字纹）端坐在画面正中央，面朝镜头，保持僵硬的武术姿势——目光平淡、冷峻、毫不在意，双眼半睁，嘴巴闭合，头部始终不动。它戴着一条黑色缠头带，低低系在眉毛上方，结在后脑，耳朵从头带上方竖起。
+场景：传统日本寺庙庭院——温暖的木柱、屋檐和栏杆——融入奶油般柔和的黄金时刻散景中。85mm 镜头，f/1.8，极浅景深，焦点锁定在猫的眼睛上。温暖的 3500K 色调，右前方柔和主光，阴影轻微补光，细腻的胶片颗粒。
+动作：一条裸露的人类手臂从画面左侧快速伸入，张开的手掌带着强烈运动模糊直冲猫的脸；猫从容抬起右前爪格挡，拦住手掌并消解冲击——是挡，不是拍。手臂带着模糊效果水平扫过猫脸，随后第二只手从右侧劈下；猫用短促、极简的爪挡逐一化解，身体和头部完全不动，视线始终不离镜头。主动进攻的是双手——猫始终只是被动应对，毫不在意。双手从左右两侧不断虚晃进出；猫滑入胸口高度的双爪拳击架势，爪子弯曲，手肘内收，并保持姿势等待。它以功夫风格快速打出带模糊效果的单爪反击，在半空截住袭来的双手，头部仍锁定正前方。最后，它将右爪直推向镜头，粉色肉垫朝向镜头，直到爪子充满画面，成为前景中柔和的失焦形状——后方的脸部保持极致清晰，冷峻的目光不变。
+运动：自然速度，飞来的双手和快速爪挡带有真实运动模糊。防御性、极简且经济的猫式动作——猫几乎不动，所有动作都由双手完成，且全部失败。无镜头移动，无变焦，无文字。
+负面提示：多余肢体，融合或变异的爪子，多余手指，脸部变形，头带与毛发融合，塑料质感皮肤，颜色过度饱和，文字，字幕，标志，水印，剪辑，镜头抖动，嬉戏或庆祝式肢体语言，击掌动作。
+简短版本：
+一只戴着黑色缠头带的橘白虎斑猫坐在阳光照耀的日本寺庙庭院中，面无表情地注视镜头，85mm f/1.8 浅景深，黄金时刻，胶片颗粒。人类双手从左右两侧快速劈向并推向它的脸，带有运动模糊——猫从容地用极简爪挡化解每次攻击，头部始终不动。它摆出双爪功夫架势，快速打出带模糊效果的反击，随后将爪子推向镜头，直到肉垫充满画面。固定机位单镜头，10 秒，16:9，24fps，照片级真实感，无文字。
+画面小提示：双手主要从左侧进入（下劈 + 水平横扫），接触点位于手腕/手掌——不是爪对爪。双爪防守架势出现在约 4.0-5.6 秒，5.6-8 秒为模糊反击，8-10 秒以爪子推向镜头收尾。你的任务是使用 Blender MCP 制作 3D 网格和动画，输出 10 秒、24fps 的视频，并使用 PixVerse CLI，以 Seedance 2.5 作为视频生成模型，将其渲染为超高真实感场景
+智能体步骤：检查 Blender MCP、PixVerse CLI 身份验证、模型能力和可用额度。在付费生成前披露预估费用并获得消费批准。将提示词整理为带时间点的节拍表，通过官方 Blender MCP 构建轻量级 3D 网格和动画，渲染动作参考 MP4，并检查构图、运动、接触点、时长和帧率。在提交视频前，单独生成并检查外观参考图。使用该图片引导角色身份、风格和灯光，使用 Blender 视频引导运动和时序。生成后下载结果，核验技术规格，检查关键帧，如实报告偏差，并计算实际额度消耗。保留原始文件；绝不静默切换模型或重新生成。
+PIXVERSE 调用：使用 pixverse create image 和 gpt-image-2.0，在已确认的画幅比例下创建 1080p、高细节外观参考图。然后使用已确认的视频模型调用 pixverse create reference，同时传入 --images and --videos to将外观图片与 Blender 动作参考合并。对于 Seedance 2.5，使用 --model seedance-2.5 --task-type auto、已确认的时长/画幅比例，以及 --quality 1080p --count 1.提交前核验当前能力，使用唯一幂等键，并通过 pixverse task status / pixverse task wait 跟踪完成状态。
+最终输出：返回符合已确认画幅比例和时长的完整视频，目标规格为 1080p、24fps，另外提供外观参考图、Blender .blend 项目和动作参考 MP4。提供本地绝对路径或可下载 URL。最终报告保持以下格式：视频、参考图、Blender 网格 + 动画、检查、外观、已用额度。报告实际分辨率、帧率、帧数、时长、画面偏差、图片/视频额度费用、总支出、剩余额度，以及是否发生过重新生成。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2101310374033428642) · [查看原帖](https://x.com/PixVerse/status/2101310387081908606) · [返回案例导航](#all-prompts)
 
 ---
 
@@ -4021,42 +4134,6 @@ vitalduval 发布的一条推文提出了让 Astra 设计一个 CAD 身体的请
 
 ---
 
-<a id="2096576154337734865"></a>
-
-### 从零搭建 Blender 住宅
-
-[みずくん](https://x.com/mizkun) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865"><img src="assets/previews/3dac0cf4428bc4a32bd1418c62a971bc75be632f3e10e918ba9b45800f364ba2.webp" width="840" loading="lazy" alt="从零搭建 Blender 住宅"></a>
-
-**提示词**
-
-```text
-在 Blender 中从零搭建一栋住宅，保留可编辑场景，以便在后续迭代中检查和完善建筑。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865) · [查看原帖](https://x.com/mizkun/status/2096576154337734865) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2096574297703637111"></a>
-
-### 静谧渡口探索任务
-
-[MotionViz](https://x.com/Motion_Viz) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111"><img src="assets/previews/0ba729978213ae4955dbc48dc1842a22c3ccfe72d686a037cf599fba60a214dd.webp" width="840" loading="lazy" alt="静谧渡口探索任务"></a>
-
-**提示词**
-
-```text
-制作雪地 Three.js 探索游戏，在 Blender 中创建角色、体素松树和石质传送门。让玩家收集六个发光碎片，镜头跟随角色，并显示距传送门的距离。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111) · [查看原帖](https://x.com/Motion_Viz/status/2096574297703637111) · [返回案例导航](#all-prompts)
-
----
-
 <a id="2096577430274429157"></a>
 
 ### 穿越田园的蒸汽机车
@@ -4075,64 +4152,10 @@ vitalduval 发布的一条推文提出了让 Astra 设计一个 CAD 身体的请
 
 ---
 
-<a id="2096570815714414844"></a>
-
-### 低多边形海滩寻宝
-
-[空野こんこん＠個人ゲーム開発者](https://x.com/sorano_concon_g) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844"><img src="assets/previews/1fb12fca3f886c06a5f5670a2138319083090972bb6e38e16beebd7e4a8853aa.webp" width="840" loading="lazy" alt="低多边形海滩寻宝"></a>
-
-**提示词**
-
-```text
-在 Unity 中制作可玩的 3D 海滩寻宝游戏，搭建低多边形棕榈树与木栈台，建立探索和寻找宝藏的核心循环。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844) · [查看原帖](https://x.com/sorano_concon_g/status/2096570815714414844) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2096572429066006845"></a>
-
-### SpeedTree 印度芒果树
-
-[Varun Mayya](https://x.com/waitin4agi_) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845"><img src="assets/previews/c3858642eb37b219de3378529a8d1121913c658e17165e2b368571eb7a597c39.webp" width="840" loading="lazy" alt="SpeedTree 印度芒果树"></a>
-
-**提示词**
-
-```text
-在 SpeedTree 中制作印度芒果树，用于目标为 60 FPS 的 Unreal 场景。生成叶片和树皮材质，在确定资产前检查其视觉效果。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845) · [查看原帖](https://x.com/waitin4agi_/status/2096572429066006845) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2096572156453028193"></a>
-
-### 交互式洛伦兹吸引子
-
-[Juy \| AI experiments](https://x.com/juyeam) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/interactive-lorenz-attractor-2096572156453028193"><img src="assets/previews/8ca9458a9131136447121ad42d7c998aff884f2b37bc8989f3b06d8e905d0e91.webp" width="840" loading="lazy" alt="交互式洛伦兹吸引子"></a>
-
-**提示词**
-
-```text
-将初始位置仅有微小差异的两条洛伦兹系统轨迹可视化，让观众调整差异并拖动时间，同时区分数值检验与精确的长期预测。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/interactive-lorenz-attractor-2096572156453028193) · [查看原帖](https://x.com/juyeam/status/2096572156453028193) · [在线演示](https://tiny-worlds-juyeam.juyeam.chatgpt.site/chaos) · [返回案例导航](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 254 条案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 259 条案例 →</a></strong></p>
 <p><sub>为保持 GitHub README 渲染流畅，这里仅展示最新 100 条案例。</sub></p>
 <br>
 </td></tr>
