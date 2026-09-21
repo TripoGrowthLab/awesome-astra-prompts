@@ -26,7 +26,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**260 · En yeni Astra istemleri**
+**263 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -141,13 +141,13 @@
 - [Eksiksiz Fotogerçekçi 3B Ortam](#2101224659861590399)
 - [Etkileşimli 3B uçak motoru gösterimi](#2101271938706685991)
 - [Catfu dövüş sanatları kedisi için 3B animasyon ve video iş akışı](#2101310374033428642)
+- [Waymo Jaguar I-Pace 3B modeli](#2101325346427842909)
+- [Açık Denizde Yelkenli Tekne](#2101616345720787130)
+- [Three.js'te WALL-E için 3B model oluşturun](#2101687900723106104)
 - [ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu](#odd-arms)
 - [TITANIC — Son Işık](#titanic-the-last-light)
 - [AKARI: Nagoya Çatı Alevi Bayrak Yarışı](#akari-nagoya-rooftop-flame-relay)
 - [Kiklop’un Adası](#cyclops-island-threejs-game)
-- [Döndürülebilir 3D shogi tahtası](#2096579856133947507)
-- [Parçalarına ayrılan masaüstü bilgisayar atlası](#2096578761877860502)
-- [Çocuk odası ve çalışma alanı planlayıcısı](#2096578684010508736)
 
 </details>
 
@@ -3963,6 +3963,85 @@ SON ÇIKTI: Onaylanan en-boy oranı ve sürede, 1080p ve 24 fps hedefiyle tamaml
 
 ---
 
+<a id="2101325346427842909"></a>
+
+### Waymo Jaguar I-Pace 3B modeli
+
+[Harshith](https://x.com/HarshithLucky3) · 2026-09-19
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101325346427842909"><img src="../assets/previews/449ef82d65975e559172227f6d0fc27cdda054f8e215d3356b39b1a45b524772.jpg" width="840" loading="lazy" alt="Waymo Jaguar I-Pace 3B modeli"></a>
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101325346427842909"><img src="../assets/previews/b31d6fef03ae123be2811d7b8b566e76ce04232b1effc8e0858da4f7c20a7520.jpg" width="840" loading="lazy" alt="Waymo Jaguar I-Pace 3B modeli"></a>
+
+Yazar, Three.js ile oluşturulmuş 3B Waymo Jaguar I-Pace modeli için Codex'te GPT-6 Astra Max ile bu istemi kullandığını belirtiyor. Herhangi bir referans kullanılmadığını ve ortaya çıkan aracın gerçek otomobile benzemediğini ifade ediyor.
+
+**İstem**
+
+```text
+Three.js kullanarak Waymo Jaguar I-Pace 3B modeli
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101325346427842909) · [Orijinal gönderi](https://x.com/HarshithLucky3/status/2101325346427842909) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2101616345720787130"></a>
+
+### Açık Denizde Yelkenli Tekne
+
+[www.aicontenders.dev](https://www.aicontenders.dev/) · 2026-09-20
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101616345720787130"><img src="../assets/previews/b9826d35e819a5f5cf763b5a3ec4b43871311350a790ace0106802144975f0ef.jpg" width="840" loading="lazy" alt="Açık Denizde Yelkenli Tekne"></a>
+
+Bağlantısı verilen AIContenders karşılaştırma sayfasında yayımlandı ve diğer modellerle birlikte GPT-6-astra üzerinde çalıştırıldı. Görev; prosedürel olarak animasyonlu suya, iki adaya, dalgalara tepki veren tekne hareketine, karadan kaçınan navigasyona ve yumuşatılmış takip kamerasına sahip, tek dosyalık etkileşimli bir 3B yelkenli tekne sahnesi oluşturmayı istiyor.
+
+**İstem**
+
+```text
+Açık denizde ilerleyen küçük bir yelkenli teknenin gösterildiği 3B sahne için tek bir HTML dosyası oluşturun. Tekne, son model testlerinde görülen karşılaştırma amaçlı "boat game" demolarına benzer şekilde doğal dümen kontrolüne sahip olmalı ve sahnede görünen iki adanın çevresinden geçen bir rota izlemelidir.
+
+İşlevsel gereksinimler:
+
+Düz ve statik bir doku yerine, animasyonlu dalga ağı olarak oluşturulmuş bir su yüzeyi kullanın (prosedürel su shader'ı, hareketli dalgalar, bakış açısına göre değişen ışık yansımaları ve teknenin arkasında iz bırakan köpüklü su).
+Basit şekillerden (gövde, direk, rüzgârla şişen yelken) oluşturulmuş bir yelkenli tekne modeli kullanın. Tekne, altındaki suyun hareketiyle senkronize olacak şekilde dalgaların üzerinde görünür biçimde sallanmalı ve hafifçe yatmalıdır.
+Sahnede farklı noktalara yerleştirilmiş, birbirinden belirgin iki ada bulunmalıdır. Her adada basit arazi şekillendirmesi (yükselti, plaj ve isteğe bağlı bitki örtüsü) ile adanın çevresindeki suya düşen bir gölge bulunmalıdır.
+Tekne, her iki adadan da gerçekten kaçınan bir rota izlemelidir (siluetlerinin içinden geçmemeli veya karayı kesmemelidir). Açıların birdenbire değiştirilmesi yerine yumuşak dönüşler yapmalıdır.
+Kamera, tekneyi hafif bir gecikmeyle takip etmelidir (yumuşatılmış kamera takibi). Böylece tepeden bakan, tekneye sabitlenmiş bir görünüm yerine dinamik bir takip hissi vermelidir.
+Adalardaki gölgelerle yön açısından tutarlı olacak şekilde, gökyüzünde bir renk geçişi (ör. gün batımı veya gündüz mavisi; seçimi modele bırakılmıştır) ve su üzerinde güneş ya da ışık yansıması bulunmalıdır.
+
+Teknik gereksinimler:
+
+Tek bir .html dosyası kullanılmalıdır. cdnjs üzerinden three.js kullanılabilir; başka harici varlık veya doku kullanılamaz. Su ve arazi, kod/shader içinde tamamen prosedürel olarak oluşturulmalıdır.
+Adaların çevresindeki rota önceden planlanmış bir yol (ör. adaların arasından geçen bir Bézier eğrisi) veya konuma tepki veren basit bir dümenleme sistemi olabilir; seçim modele bırakılmıştır, ancak karayla çarpışmaya izin verilmez.
+Animasyon en az 20 saniye boyunca akıcı biçimde çalışmalı; döngüsel veya sürekli olabilir. Tipik bir dizüstü bilgisayarda en az 30 FPS sunmalı, aşırı yüklemeyi önlemek için canvas çözünürlüğü pencere boyutuyla sınırlandırılmalı ve devicePixelRatio 1.5'i aşmamalıdır.
+
+Değerlendirmede öncelikle suyun, animasyonlu UV ofsetine sahip bir doku gibi değil, hareket hâlindeki akışkan bir madde gibi inandırıcı görünmesine; teknenin dalgalara gerçekten tepki vermesine ve adaların çevresindeki rotanın rastgele bir kıl payı geçişi yerine bilinçli bir navigasyon olarak algılanmasına bakılacaktır.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101616345720787130) · [Orijinal gönderi](https://www.aicontenders.dev/c/a_TRQpq3LoNVd-M7Xy2DHg) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2101687900723106104"></a>
+
+### Three.js'te WALL-E için 3B model oluşturun
+
+[Marcel](https://x.com/marcthecreatorr) · 2026-09-20
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101687900723106104"><img src="../assets/previews/3da23ad1ccf5ae36bd70d1beacc24122d0df39a01d7bea2b9b06145fe1e6098c.jpg" width="840" loading="lazy" alt="Three.js'te WALL-E için 3B model oluşturun"></a>
+
+Marcel'in Astra'ya verdiği komutun aynısını paylaşan; Three.js'te oluşturulmuş bir WALL-E 3B modeli isteyen bir prompt.
+
+**İstem**
+
+```text
+Three.js'te WALL-E için 3B model oluşturun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101687900723106104) · [Orijinal gönderi](https://x.com/marcthecreatorr/status/2101687900723106104) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="odd-arms"></a>
 
 ### ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu
@@ -4225,64 +4304,10 @@ Kaynak kodu, lockfile’ı, npm geliştirme/derleme komutlarını ve statik çı
 
 ---
 
-<a id="2096579856133947507"></a>
-
-### Döndürülebilir 3D shogi tahtası
-
-[薄幸柄 / LAB](https://x.com/hatukougara) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/rotatable-3d-shogi-board-2096579856133947507"><img src="../assets/previews/c6c11f611cd50ab65badd0bdeae3b4b91d1fd9e8da7d15c7ac7c5ccbb27b4d03.webp" width="840" loading="lazy" alt="Döndürülebilir 3D shogi tahtası"></a>
-
-**İstem**
-
-```text
-Tahtası serbestçe döndürülebilen, oynanabilir bir 3D shogi uygulaması oluşturun. Tahtayı, taşları ve etkileşimleri art arda değerlendirmelerle iyileştirin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/rotatable-3d-shogi-board-2096579856133947507) · [Orijinal gönderi](https://x.com/hatukougara/status/2096579856133947507) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096578761877860502"></a>
-
-### Parçalarına ayrılan masaüstü bilgisayar atlası
-
-[cooper](https://x.com/icooperhero) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502"><img src="../assets/previews/3e793aa49d00596d7f0fde1ede3a8d6bdfd788e24dcaabfd8a411333c01ad01a.webp" width="840" loading="lazy" alt="Parçalarına ayrılan masaüstü bilgisayar atlası"></a>
-
-**İstem**
-
-```text
-Bir masaüstü bilgisayarı 29 temel bileşenine ayıran etkileşimli bir 3D web sitesi oluşturun. Animasyonlu söküm ve her parça için açıklamalar ekleyin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502) · [Orijinal gönderi](https://x.com/icooperhero/status/2096578761877860502) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096578684010508736"></a>
-
-### Çocuk odası ve çalışma alanı planlayıcısı
-
-[かのこ🌼AI×子育て×探究](https://x.com/dqlh47m) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736"><img src="../assets/previews/1d761ad321c1abd86b860b5666524d43f1c618b478cbea34f5c33f4662723f6e.webp" width="840" loading="lazy" alt="Çocuk odası ve çalışma alanı planlayıcısı"></a>
-
-**İstem**
-
-```text
-Aynı zamanda çalışma alanı olarak kullanılan bir çocuk odasını, dört köşeden çekilmiş fotoğraflar ve oda ölçülerinden yeniden oluşturun. Yetişkin ve çocuk bakış açılarını, genel görünümü ve alternatif mobilya yerleşimlerini gösterin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736) · [Orijinal gönderi](https://x.com/dqlh47m/status/2096578684010508736) · [Örneklere dön](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 260 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 263 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

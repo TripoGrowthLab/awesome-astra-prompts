@@ -26,7 +26,7 @@
 **次のゲーム、シーン、インタラクティブな世界づくりのヒントに。**
 
 
-**260 · 最新の Astra プロンプト**
+**263 · 最新の Astra プロンプト**
 
 ## 注目の作品
 
@@ -141,13 +141,13 @@
 - [フォトリアルな3D環境をまるごと制作](#2101224659861590399)
 - [インタラクティブな3D航空機エンジン展示](#2101271938706685991)
 - [カンフー猫の3Dアニメーションと動画制作ワークフロー](#2101310374033428642)
+- [Waymo Jaguar I-Paceの3Dモデル](#2101325346427842909)
+- [外洋を進む帆船](#2101616345720787130)
+- [Three.jsでWALL-Eの3Dモデルを作成](#2101687900723106104)
 - [ODD ARMS — 奇妙な武器のサバイバルゲーム](#odd-arms)
 - [TITANIC — 最後の光](#titanic-the-last-light)
 - [AKARI：名古屋の屋上をつなぐ炎のリレー](#akari-nagoya-rooftop-flame-relay)
 - [キュクロープスの島](#cyclops-island-threejs-game)
-- [回転して眺められる3D将棋盤](#2096579856133947507)
-- [デスクトップPCの分解図鑑](#2096578761877860502)
-- [子ども部屋と仕事場のレイアウトプランナー](#2096578684010508736)
 
 </details>
 
@@ -3979,6 +3979,85 @@ PIXVERSEの呼び出し：pixverse create image with gpt-image-2.0を使用し�
 
 ---
 
+<a id="2101325346427842909"></a>
+
+### Waymo Jaguar I-Paceの3Dモデル
+
+[Harshith](https://x.com/HarshithLucky3) · 2026-09-19
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2101325346427842909"><img src="../assets/previews/449ef82d65975e559172227f6d0fc27cdda054f8e215d3356b39b1a45b524772.jpg" width="840" loading="lazy" alt="Waymo Jaguar I-Paceの3Dモデル"></a>
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2101325346427842909"><img src="../assets/previews/b31d6fef03ae123be2811d7b8b566e76ce04232b1effc8e0858da4f7c20a7520.jpg" width="840" loading="lazy" alt="Waymo Jaguar I-Paceの3Dモデル"></a>
+
+作者によると、このプロンプトはCodexでGPT-6 Astra Maxを使い、Three.js製のWaymo Jaguar I-Paceの3Dモデルを作成するために使用されました。参照資料は使わなかったため、生成された車両は実車に似ていなかったとのことです。
+
+**プロンプト**
+
+```text
+Three.jsを使ってWaymo Jaguar I-Paceの3Dモデルを作成する
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2101325346427842909) · [元の投稿](https://x.com/HarshithLucky3/status/2101325346427842909) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="2101616345720787130"></a>
+
+### 外洋を進む帆船
+
+[www.aicontenders.dev](https://www.aicontenders.dev/) · 2026-09-20
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2101616345720787130"><img src="../assets/previews/b9826d35e819a5f5cf763b5a3ec4b43871311350a790ace0106802144975f0ef.jpg" width="840" loading="lazy" alt="外洋を進む帆船"></a>
+
+リンク先のAIContenders比較ページに掲載され、他のモデルとともにGPT-6-astraで実行されました。このタスクでは、プロシージャルにアニメーションする水面、2つの島、波に反応するボートの動き、陸地を避ける航路、滑らかな追従カメラを備えた、単一ファイルのインタラクティブな3D帆船シーンが求められます。
+
+**プロンプト**
+
+```text
+外洋を進む小さな帆船を描いた3Dシーンを、単一のHTMLファイルで構築してください。2つの見える島を避けて進むコースと、ネイティブな操船操作を実装し、最近のモデルテストで見られた比較用の「ボートゲーム」デモに近いものにします。
+
+機能要件：
+
+水面は、アニメーションする波メッシュ（プロシージャルな水面シェーダー、動く波、見る角度によって変化する光の反射、ボートの後ろに残る航跡）として描画し、平坦で静的なテクスチャにはしないでください。
+帆船は単純な形状（船体、マスト、風を受けて膨らむ帆）でモデル化し、水面下の動きと同期して、波に合わせて目に見えて上下に揺れ、わずかに傾くようにしてください。
+シーン内の異なる位置に、はっきり区別できる2つの島を配置してください。それぞれに、簡単な地形の起伏（高まり、浜辺、必要に応じて植生）を持たせ、周囲の水面に影が落ちるようにしてください。
+ボートは、2つの島を確実に避ける航路（島の輪郭をかすめたり、陸地を横切ったりしない）を進み、角度を瞬時に切り替えるのではなく、滑らかに旋回する必要があります。
+カメラはわずかな遅延を伴ってボートを追従し（滑らかなカメラ追従）、真上から固定された視点ではなく、動的に追いかけている印象を与えてください。
+空にはグラデーションを付け（夕焼けや昼間の青空など、選択はモデルに任せます）、水面には太陽または光の反射を入れてください。島に落ちる影と光の方向が一致している必要があります。
+
+技術要件：
+
+単一の.htmlファイルとし、cdnjsのthree.jsは使用可能です。その他の外部アセットやテクスチャは使用せず、水面と地形はすべてコードまたはシェーダーでプロシージャルに生成してください。
+島を回り込む航路は、あらかじめ計画したパス（島の間を通るベジェ曲線など）でも、位置に応じて反応する単純な操舵でも構いませんが、陸地との衝突は一切禁止です。
+アニメーションは少なくとも20秒間、ループまたは連続再生で滑らかに動作し、一般的なノートパソコンで最低30fpsを維持してください。キャンバス解像度はウィンドウサイズを上限とし、負荷の高い高DPI画面に過剰な負荷をかけないよう、devicePixelRatioは1.5以下に制限します。
+
+主な評価基準は、水面が動く流体らしく説得力をもって見えるか（アニメーションするUVオフセットを加えたテクスチャに見えないか）、ボートが実際に波に反応しているか、そして島を避ける航路が偶然のニアミスではなく、意図的な航行として伝わるかです。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2101616345720787130) · [元の投稿](https://www.aicontenders.dev/c/a_TRQpq3LoNVd-M7Xy2DHg) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="2101687900723106104"></a>
+
+### Three.jsでWALL-Eの3Dモデルを作成
+
+[Marcel](https://x.com/marcthecreatorr) · 2026-09-20
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2101687900723106104"><img src="../assets/previews/3da23ad1ccf5ae36bd70d1beacc24122d0df39a01d7bea2b9b06145fe1e6098c.jpg" width="840" loading="lazy" alt="Three.jsでWALL-Eの3Dモデルを作成"></a>
+
+MarcelがAstraに送ったものとまったく同じプロンプト。Three.jsで構築するWALL-Eの3Dモデルをリクエストしています。
+
+**プロンプト**
+
+```text
+Three.jsでWALL-Eの3Dモデルを作成してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2101687900723106104) · [元の投稿](https://x.com/marcthecreatorr/status/2101687900723106104) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="odd-arms"></a>
 
 ### ODD ARMS — 奇妙な武器のサバイバルゲーム
@@ -4241,64 +4320,10 @@ Vite、TypeScript、Three.jsを使用し、地理情報、純粋な物理／ス�
 
 ---
 
-<a id="2096579856133947507"></a>
-
-### 回転して眺められる3D将棋盤
-
-[薄幸柄 / LAB](https://x.com/hatukougara) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/rotatable-3d-shogi-board-2096579856133947507"><img src="../assets/previews/c6c11f611cd50ab65badd0bdeae3b4b91d1fd9e8da7d15c7ac7c5ccbb27b4d03.webp" width="840" loading="lazy" alt="回転して眺められる3D将棋盤"></a>
-
-**プロンプト**
-
-```text
-盤面を自由に回転できる、対局可能な3D将棋アプリを制作してください。レビューを重ねながら、盤、駒、操作性を改善してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/rotatable-3d-shogi-board-2096579856133947507) · [元の投稿](https://x.com/hatukougara/status/2096579856133947507) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="2096578761877860502"></a>
-
-### デスクトップPCの分解図鑑
-
-[cooper](https://x.com/icooperhero) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502"><img src="../assets/previews/3e793aa49d00596d7f0fde1ede3a8d6bdfd788e24dcaabfd8a411333c01ad01a.webp" width="840" loading="lazy" alt="デスクトップPCの分解図鑑"></a>
-
-**プロンプト**
-
-```text
-デスクトップPCを29個の主要部品に分解して見られる、インタラクティブな3Dサイトを制作してください。分解アニメーションと各部品の解説を追加してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502) · [元の投稿](https://x.com/icooperhero/status/2096578761877860502) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="2096578684010508736"></a>
-
-### 子ども部屋と仕事場のレイアウトプランナー
-
-[かのこ🌼AI×子育て×探究](https://x.com/dqlh47m) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736"><img src="../assets/previews/1d761ad321c1abd86b860b5666524d43f1c618b478cbea34f5c33f4662723f6e.webp" width="840" loading="lazy" alt="子ども部屋と仕事場のレイアウトプランナー"></a>
-
-**プロンプト**
-
-```text
-部屋の四隅から撮影した写真4枚と寸法を使い、仕事場も兼ねた子ども部屋を再構築してください。大人と子どもの目線、全体を見渡す表示、家具配置の別案を用意してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736) · [元の投稿](https://x.com/dqlh47m/status/2096578684010508736) · [作例一覧に戻る](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 260 件の作例を公式サイトで見る →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 263 件の作例を公式サイトで見る →</a></strong></p>
 <p><sub>GitHub README をスムーズに表示するため、ここでは最新の作例 100 件のみを掲載しています。</sub></p>
 <br>
 </td></tr>

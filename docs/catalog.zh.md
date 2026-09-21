@@ -27,7 +27,7 @@
 
 探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。
 
-**260 条案例 · 14 种语言 · 12 条附项目源码**
+**263 条案例 · 14 种语言 · 12 条附项目源码**
 
 ## 精选作品
 
@@ -142,13 +142,13 @@
 - [完整的照片级写实 3D 环境](#2101224659861590399)
 - [交互式 3D 航空发动机展示](#2101271938706685991)
 - [功夫猫 3D 动画与视频工作流](#2101310374033428642)
+- [Waymo Jaguar I-Pace 3D 模型](#2101325346427842909)
+- [开阔水域上的帆船](#2101616345720787130)
+- [在 Three.js 中创建 WALL-E 3D 模型](#2101687900723106104)
 - [ODD ARMS——奇趣武器生存游戏](#odd-arms)
 - [泰坦尼克号——最后的光芒](#titanic-the-last-light)
 - [AKARI：名古屋屋顶火炬接力](#akari-nagoya-rooftop-flame-relay)
 - [独眼巨人之岛](#cyclops-island-threejs-game)
-- [可旋转的 3D 将棋棋盘](#2096579856133947507)
-- [台式电脑交互拆解图谱](#2096578761877860502)
-- [儿童房兼工作区布局规划](#2096578684010508736)
 
 </details>
 
@@ -3876,6 +3876,85 @@ PIXVERSE 调用：使用 pixverse create image 和 gpt-image-2.0，在已确认�
 
 ---
 
+<a id="2101325346427842909"></a>
+
+### Waymo Jaguar I-Pace 3D 模型
+
+[Harshith](https://x.com/HarshithLucky3) · 2026-09-19
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2101325346427842909"><img src="../assets/previews/449ef82d65975e559172227f6d0fc27cdda054f8e215d3356b39b1a45b524772.jpg" width="840" loading="lazy" alt="Waymo Jaguar I-Pace 3D 模型"></a>
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2101325346427842909"><img src="../assets/previews/b31d6fef03ae123be2811d7b8b566e76ce04232b1effc8e0858da4f7c20a7520.jpg" width="840" loading="lazy" alt="Waymo Jaguar I-Pace 3D 模型"></a>
+
+作者表示，这条提示词由 GPT-6 Astra Max 在 Codex 中用于使用 Three.js 制作 Waymo Jaguar I-Pace 3D 模型。他们称未使用任何参考资料，最终生成的车辆与真实车型并不相似。
+
+**提示词**
+
+```text
+使用 Three.js 制作 Waymo Jaguar I-Pace 的 3D 模型
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2101325346427842909) · [查看原帖](https://x.com/HarshithLucky3/status/2101325346427842909) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2101616345720787130"></a>
+
+### 开阔水域上的帆船
+
+[www.aicontenders.dev](https://www.aicontenders.dev/) · 2026-09-20
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2101616345720787130"><img src="../assets/previews/b9826d35e819a5f5cf763b5a3ec4b43871311350a790ace0106802144975f0ef.jpg" width="840" loading="lazy" alt="开阔水域上的帆船"></a>
+
+发布于链接中的 AIContenders 对比页面，并与其他模型一同使用 GPT-6-astra 进行测试。任务要求制作一个单文件交互式 3D 帆船场景，包含程序化动画水面、两座岛屿、响应波浪的船体运动、避开陆地的导航，以及平滑的跟随镜头。
+
+**提示词**
+
+```text
+创建一个单独的 HTML 文件，制作一个 3D 场景，展示一艘小帆船在开阔水域上航行，支持原生转向控制，并规划一条绕过两座可见岛屿的航线，类似近期模型测试中常见的对比“船只游戏”演示。
+
+功能要求：
+
+水面必须使用动画波浪网格渲染（程序化水体着色器、动态波浪、会随观察角度变化的光线反射，以及船后的尾流），不能是平面静态纹理。
+帆船模型由简单形状构成（船体、桅杆和受风鼓起的帆），船只应在波浪上明显上下起伏并轻微倾斜，与下方水面的运动保持同步。
+场景中应在不同位置放置两座具有明显区别的岛屿，每座岛屿都应进行简单的地形塑造（隆起、沙滩，可选择添加植被），并在周围水面上投下阴影。
+船只应沿一条真正避开两座岛屿的航线行驶（不能穿过岛屿轮廓或陆地），转向要平滑，不能在不同角度之间瞬间跳变。
+镜头应带有轻微延迟地跟随船只（平滑镜头跟随），营造动态追逐感，而不是僵硬绑定的俯视视角。
+天空应使用渐变效果（例如日落或日间蓝天，由模型自行选择），并在水面上呈现太阳光或光线反射，其方向应与岛屿上的阴影保持一致。
+
+技术要求：
+
+使用单个 .html 文件，允许从 cdnjs 加载 three.js；不得使用其他外部资源或纹理，所有水面和地形都必须通过代码或着色器程序化生成。
+绕岛航线可以是预先规划的路径（例如穿行于两座岛屿之间的贝塞尔曲线），也可以是根据位置做出反应的简单转向逻辑，由模型自行选择，但不得与陆地发生碰撞。
+动画必须至少连续流畅运行 20 秒，可循环或持续播放；在普通笔记本电脑上最低达到 30fps，并将画布分辨率限制在窗口大小以内，同时将 devicePixelRatio 限制为不高于 1.5，以避免高 DPI 屏幕负载过高。
+
+评判重点是：水面是否具有令人信服的流体运动效果（不能只是通过动画 UV 偏移实现的纹理），船只是否真正对波浪做出响应，以及绕岛航线是否体现出明确的主动导航意图，而不是随机擦边而过。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2101616345720787130) · [查看原帖](https://www.aicontenders.dev/c/a_TRQpq3LoNVd-M7Xy2DHg) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2101687900723106104"></a>
+
+### 在 Three.js 中创建 WALL-E 3D 模型
+
+[Marcel](https://x.com/marcthecreatorr) · 2026-09-20
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2101687900723106104"><img src="../assets/previews/3da23ad1ccf5ae36bd70d1beacc24122d0df39a01d7bea2b9b06145fe1e6098c.jpg" width="840" loading="lazy" alt="在 Three.js 中创建 WALL-E 3D 模型"></a>
+
+Marcel 分享的提示词，与其提供给 Astra 的内容完全相同，用于请求在 Three.js 中构建 WALL-E 3D 模型。
+
+**提示词**
+
+```text
+在 Three.js 中创建 WALL-E 3D 模型。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2101687900723106104) · [查看原帖](https://x.com/marcthecreatorr/status/2101687900723106104) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="odd-arms"></a>
 
 ### ODD ARMS——奇趣武器生存游戏
@@ -4138,64 +4217,10 @@ PIXVERSE 调用：使用 pixverse create image 和 gpt-image-2.0，在已确认�
 
 ---
 
-<a id="2096579856133947507"></a>
-
-### 可旋转的 3D 将棋棋盘
-
-[薄幸柄 / LAB](https://x.com/hatukougara) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/rotatable-3d-shogi-board-2096579856133947507"><img src="../assets/previews/c6c11f611cd50ab65badd0bdeae3b4b91d1fd9e8da7d15c7ac7c5ccbb27b4d03.webp" width="840" loading="lazy" alt="可旋转的 3D 将棋棋盘"></a>
-
-**提示词**
-
-```text
-制作可玩的 3D 将棋应用，让棋盘能够自由旋转。通过逐轮检查完善棋盘、棋子和交互。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/rotatable-3d-shogi-board-2096579856133947507) · [查看原帖](https://x.com/hatukougara/status/2096579856133947507) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2096578761877860502"></a>
-
-### 台式电脑交互拆解图谱
-
-[cooper](https://x.com/icooperhero) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502"><img src="../assets/previews/3e793aa49d00596d7f0fde1ede3a8d6bdfd788e24dcaabfd8a411333c01ad01a.webp" width="840" loading="lazy" alt="台式电脑交互拆解图谱"></a>
-
-**提示词**
-
-```text
-制作交互式 3D 网站，将台式电脑拆解为 29 个核心部件，为各部件添加拆解动画和说明。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502) · [查看原帖](https://x.com/icooperhero/status/2096578761877860502) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2096578684010508736"></a>
-
-### 儿童房兼工作区布局规划
-
-[かのこ🌼AI×子育て×探究](https://x.com/dqlh47m) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736"><img src="../assets/previews/1d761ad321c1abd86b860b5666524d43f1c618b478cbea34f5c33f4662723f6e.webp" width="840" loading="lazy" alt="儿童房兼工作区布局规划"></a>
-
-**提示词**
-
-```text
-根据房间四角照片与长宽尺寸，重建兼作工作区的儿童房。提供成人视角、儿童视角、全景和不同的家具布置方案。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736) · [查看原帖](https://x.com/dqlh47m/status/2096578684010508736) · [返回案例导航](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 260 条案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 263 条案例 →</a></strong></p>
 <p><sub>为保持 GitHub README 渲染流畅，这里仅展示最新 100 条案例。</sub></p>
 <br>
 </td></tr>

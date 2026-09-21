@@ -26,7 +26,7 @@
 **다음 게임, 장면, 인터랙티브 세계를 위한 아이디어를 찾아보세요.**
 
 
-**260 · 최신 Astra 프롬프트**
+**263 · 최신 Astra 프롬프트**
 
 ## 추천 작품
 
@@ -141,13 +141,13 @@
 - [사실적인 3D 환경 제작](#2101224659861590399)
 - [인터랙티브 3D 항공기 엔진 디스플레이](#2101271938706685991)
 - [캣푸 무술 고양이 3D 애니메이션 및 영상 제작 워크플로](#2101310374033428642)
+- [Waymo Jaguar I-Pace 3D 모델](#2101325346427842909)
+- [탁 트인 바다 위의 돛단배](#2101616345720787130)
+- [Three.js로 WALL-E 3D 모델 만들기](#2101687900723106104)
 - [ODD ARMS — 기묘한 무기 서바이벌 게임](#odd-arms)
 - [타이타닉 — 마지막 빛](#titanic-the-last-light)
 - [AKARI: 나고야 옥상 성화 봉송](#akari-nagoya-rooftop-flame-relay)
 - [키클롭스의 섬](#cyclops-island-threejs-game)
-- [자유롭게 회전하는 3D 쇼기판](#2096579856133947507)
-- [데스크톱 컴퓨터 분해 도감](#2096578761877860502)
-- [아이 방과 업무 공간 배치 도구](#2096578684010508736)
 
 </details>
 
@@ -3963,6 +3963,85 @@ PIXVERSE 호출: pixverse create image에서 gpt-image-2.0을 사용해 확인�
 
 ---
 
+<a id="2101325346427842909"></a>
+
+### Waymo Jaguar I-Pace 3D 모델
+
+[Harshith](https://x.com/HarshithLucky3) · 2026-09-19
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101325346427842909"><img src="../assets/previews/449ef82d65975e559172227f6d0fc27cdda054f8e215d3356b39b1a45b524772.jpg" width="840" loading="lazy" alt="Waymo Jaguar I-Pace 3D 모델"></a>
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101325346427842909"><img src="../assets/previews/b31d6fef03ae123be2811d7b8b566e76ce04232b1effc8e0858da4f7c20a7520.jpg" width="840" loading="lazy" alt="Waymo Jaguar I-Pace 3D 모델"></a>
+
+작성자는 Three.js로 제작한 Waymo Jaguar I-Pace 3D 모델에 Codex의 GPT-6 Astra Max와 이 프롬프트를 사용했다고 밝혔습니다. 참고 자료는 사용하지 않았으며, 완성된 차량은 실제 차량과 닮지 않았다고 설명했습니다.
+
+**프롬프트**
+
+```text
+Three.js를 사용한 Waymo Jaguar I-Pace 3D 모델
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101325346427842909) · [원본 게시물](https://x.com/HarshithLucky3/status/2101325346427842909) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="2101616345720787130"></a>
+
+### 탁 트인 바다 위의 돛단배
+
+[www.aicontenders.dev](https://www.aicontenders.dev/) · 2026-09-20
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101616345720787130"><img src="../assets/previews/b9826d35e819a5f5cf763b5a3ec4b43871311350a790ace0106802144975f0ef.jpg" width="840" loading="lazy" alt="탁 트인 바다 위의 돛단배"></a>
+
+연결된 AIContenders 비교 페이지에 게시되어 다른 모델들과 함께 GPT-6-astra에서 실행됩니다. 이 작업에서는 절차적으로 애니메이션되는 물, 두 개의 섬, 파도에 반응하는 보트 움직임, 육지를 피하는 항법, 부드러운 추적 카메라를 포함한 단일 파일의 인터랙티브 3D 돛단배 장면을 요청합니다.
+
+**프롬프트**
+
+```text
+탁 트인 바다를 가로질러 작은 돛단배가 이동하는 3D 장면을 단일 HTML 파일로 구축하세요. 기본 조작으로 보트를 조종할 수 있어야 하며, 최근 모델 테스트에서 선보인 비교용 "보트 게임" 데모처럼 눈에 보이는 두 섬을 피해 항해하는 경로를 구현하세요.
+
+기능 요구 사항:
+
+수면은 애니메이션 파도 메시로 렌더링해야 합니다(절차적 물 셰이더, 움직이는 파도, 보는 각도에 따라 달라지는 빛 반사, 보트 뒤에 남는 항적). 평평하고 정적인 텍스처를 사용해서는 안 됩니다.
+단순한 형태로 돛단배 모델을 구성하세요(선체, 돛대, 바람을 받아 부풀어 오른 돛). 보트가 아래에서 움직이는 물과 동기화되어 파도에 따라 눈에 띄게 출렁이고 약간 기울어져야 합니다.
+서로 다른 위치에 두 개의 뚜렷한 섬을 배치하세요. 각 섬에는 간단한 지형 형태(융기 지형, 해변, 선택적으로 식생)를 만들고, 주변 수면에 그림자가 드리워지게 하세요.
+보트는 두 섬을 실제로 모두 피해 가는 경로를 따라야 합니다(섬의 실루엣을 뚫고 지나가거나 육지를 가로지르면 안 됩니다). 각도가 갑자기 전환되지 않고 부드럽게 방향을 바꿔야 합니다.
+카메라는 약간의 지연을 두고 보트를 따라가야 합니다(부드러운 카메라 추적). 이렇게 하면 보트에 rigid하게 붙은 탑다운 뷰가 아니라 역동적인 추적 장면처럼 보여야 합니다.
+그라데이션 하늘(예: 노을 하늘 또는 낮의 푸른 하늘, 모델 선택)을 만들고, 섬에 드리워지는 그림자와 방향이 일치하는 태양 또는 수면 반사를 표현하세요.
+
+기술 요구 사항:
+
+단일 .html 파일로 구성하세요. cdnjs의 three.js는 사용할 수 있지만, 다른 외부 에셋이나 텍스처는 사용하지 마세요. 모든 물과 지형은 코드 또는 셰이더로 절차적으로 생성해야 합니다.
+섬 주변 경로는 미리 계획한 경로(예: 두 섬 사이를 통과하는 베지어 곡선)로 만들거나 위치에 반응하는 간단한 조타 방식으로 구현할 수 있습니다(모델 선택). 단, 육지와 충돌해서는 안 됩니다.
+애니메이션은 최소 20초 동안 루프 또는 연속으로 매끄럽게 실행되어야 하며, 일반적인 노트북에서 최소 30fps를 유지해야 합니다. 과도한 고해상도 화면 부하를 피하도록 캔버스 해상도는 창 크기를 넘지 않게 제한하고, devicePixelRatio는 1.5를 초과하지 않게 설정하세요.
+
+주요 평가 기준은 물이 텍스처의 UV 오프셋만 애니메이션한 것이 아니라 실제로 움직이는 유체처럼 설득력 있게 보이는지, 보트가 파도에 실제로 반응하는지, 그리고 섬 주변 경로가 무작위로 스쳐 지나간 것이 아니라 의도적인 항해로 읽히는지입니다.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101616345720787130) · [원본 게시물](https://www.aicontenders.dev/c/a_TRQpq3LoNVd-M7Xy2DHg) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="2101687900723106104"></a>
+
+### Three.js로 WALL-E 3D 모델 만들기
+
+[Marcel](https://x.com/marcthecreatorr) · 2026-09-20
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101687900723106104"><img src="../assets/previews/3da23ad1ccf5ae36bd70d1beacc24122d0df39a01d7bea2b9b06145fe1e6098c.jpg" width="840" loading="lazy" alt="Three.js로 WALL-E 3D 모델 만들기"></a>
+
+Marcel이 Astra에 전달한 것과 완전히 동일한 프롬프트를 공유합니다. Three.js로 제작하는 WALL-E 3D 모델을 요청하는 내용입니다.
+
+**프롬프트**
+
+```text
+Three.js로 WALL-E 3D 모델을 만들어 주세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101687900723106104) · [원본 게시물](https://x.com/marcthecreatorr/status/2101687900723106104) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="odd-arms"></a>
 
 ### ODD ARMS — 기묘한 무기 서바이벌 게임
@@ -4225,64 +4304,10 @@ Vite, TypeScript와 Three.js를 사용하고, 지리 데이터, 순수 물리·�
 
 ---
 
-<a id="2096579856133947507"></a>
-
-### 자유롭게 회전하는 3D 쇼기판
-
-[薄幸柄 / LAB](https://x.com/hatukougara) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/rotatable-3d-shogi-board-2096579856133947507"><img src="../assets/previews/c6c11f611cd50ab65badd0bdeae3b4b91d1fd9e8da7d15c7ac7c5ccbb27b4d03.webp" width="840" loading="lazy" alt="자유롭게 회전하는 3D 쇼기판"></a>
-
-**프롬프트**
-
-```text
-보드를 자유롭게 회전하며 대국할 수 있는 3D 쇼기 앱을 만드세요. 반복 검토를 통해 보드, 말, 조작 방식을 다듬으세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/rotatable-3d-shogi-board-2096579856133947507) · [원본 게시물](https://x.com/hatukougara/status/2096579856133947507) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="2096578761877860502"></a>
-
-### 데스크톱 컴퓨터 분해 도감
-
-[cooper](https://x.com/icooperhero) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502"><img src="../assets/previews/3e793aa49d00596d7f0fde1ede3a8d6bdfd788e24dcaabfd8a411333c01ad01a.webp" width="840" loading="lazy" alt="데스크톱 컴퓨터 분해 도감"></a>
-
-**프롬프트**
-
-```text
-데스크톱 컴퓨터를 29개 핵심 부품으로 나누어 살펴보는 인터랙티브 3D 웹사이트를 만드세요. 분해 애니메이션과 각 부품의 설명을 추가하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502) · [원본 게시물](https://x.com/icooperhero/status/2096578761877860502) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="2096578684010508736"></a>
-
-### 아이 방과 업무 공간 배치 도구
-
-[かのこ🌼AI×子育て×探究](https://x.com/dqlh47m) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736"><img src="../assets/previews/1d761ad321c1abd86b860b5666524d43f1c618b478cbea34f5c33f4662723f6e.webp" width="840" loading="lazy" alt="아이 방과 업무 공간 배치 도구"></a>
-
-**프롬프트**
-
-```text
-방의 네 모서리에서 찍은 사진 4장과 치수를 이용해 업무 공간을 겸하는 아이 방을 재구성하세요. 어른과 아이의 눈높이, 전체 보기, 가구 배치 대안을 제공하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736) · [원본 게시물](https://x.com/dqlh47m/status/2096578684010508736) · [사례 목록으로](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 260개 보기 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 263개 보기 →</a></strong></p>
 <p><sub>GitHub README가 원활하게 렌더링되도록 최신 사례 100개만 표시합니다.</sub></p>
 <br>
 </td></tr>

@@ -26,7 +26,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**260 · Prompt Astra mới nhất**
+**263 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -141,13 +141,13 @@
 - [Môi trường 3D chân thực như ảnh hoàn chỉnh](#2101224659861590399)
 - [Mô hình tương tác 3D động cơ máy bay](#2101271938706685991)
 - [Quy trình tạo hoạt ảnh 3D và video mèo võ thuật catfu](#2101310374033428642)
+- [Mô hình 3D Waymo Jaguar I-Pace](#2101325346427842909)
+- [Thuyền buồm trên vùng nước rộng](#2101616345720787130)
+- [Tạo mô hình 3D WALL-E bằng Three.js](#2101687900723106104)
 - [ODD ARMS — Game sinh tồn với vũ khí kỳ quặc](#odd-arms)
 - [TITANIC — Ánh sáng cuối cùng](#titanic-the-last-light)
 - [AKARI: Tiếp lửa trên những sân thượng Nagoya](#akari-nagoya-rooftop-flame-relay)
 - [Hòn đảo của Cyclops](#cyclops-island-threejs-game)
-- [Bàn cờ shogi 3D có thể xoay](#2096579856133947507)
-- [Bản đồ tháo rời linh kiện máy tính để bàn](#2096578761877860502)
-- [Lên phương án bố trí phòng trẻ em kiêm nơi làm việc](#2096578684010508736)
 
 </details>
 
@@ -3997,6 +3997,85 @@ LỆNH GỌI PIXVERSE: Dùng pixverse create image với gpt-image-2.0 để t�
 
 ---
 
+<a id="2101325346427842909"></a>
+
+### Mô hình 3D Waymo Jaguar I-Pace
+
+[Harshith](https://x.com/HarshithLucky3) · 2026-09-19
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101325346427842909"><img src="../assets/previews/449ef82d65975e559172227f6d0fc27cdda054f8e215d3356b39b1a45b524772.jpg" width="840" loading="lazy" alt="Mô hình 3D Waymo Jaguar I-Pace"></a>
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101325346427842909"><img src="../assets/previews/b31d6fef03ae123be2811d7b8b566e76ce04232b1effc8e0858da4f7c20a7520.jpg" width="840" loading="lazy" alt="Mô hình 3D Waymo Jaguar I-Pace"></a>
+
+Tác giả cho biết đã sử dụng prompt này với GPT-6 Astra Max trong Codex để tạo mô hình 3D Waymo Jaguar I-Pace bằng Three.js. Họ cho biết không dùng hình ảnh tham chiếu và chiếc xe tạo ra không giống xe thực tế.
+
+**Prompt**
+
+```text
+mô hình 3D Waymo Jaguar I-Pace bằng Three.js
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101325346427842909) · [Bài đăng gốc](https://x.com/HarshithLucky3/status/2101325346427842909) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2101616345720787130"></a>
+
+### Thuyền buồm trên vùng nước rộng
+
+[www.aicontenders.dev](https://www.aicontenders.dev/) · 2026-09-20
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101616345720787130"><img src="../assets/previews/b9826d35e819a5f5cf763b5a3ec4b43871311350a790ace0106802144975f0ef.jpg" width="840" loading="lazy" alt="Thuyền buồm trên vùng nước rộng"></a>
+
+Được đăng trên trang so sánh AIContenders được liên kết và chạy thử với GPT-6-astra cùng các mô hình khác. Bài thử yêu cầu một cảnh thuyền buồm 3D tương tác trong một tệp duy nhất, với mặt nước chuyển động tạo theo quy trình, hai hòn đảo, chuyển động của thuyền phản ứng theo sóng, lộ trình tránh đất liền và camera bám đuổi được làm mượt.
+
+**Prompt**
+
+```text
+Tạo một tệp HTML duy nhất với cảnh 3D hiển thị một chiếc thuyền buồm nhỏ di chuyển trên vùng nước rộng, có điều khiển lái trực tiếp và lộ trình đi vòng qua hai hòn đảo dễ nhìn thấy, tương tự các bản demo "trò chơi thuyền" trong những bài kiểm thử mô hình gần đây.
+
+Yêu cầu chức năng:
+
+Bề mặt nước được dựng bằng lưới sóng chuyển động (shader nước tạo theo quy trình, sóng chuyển động, phản xạ ánh sáng thay đổi theo góc nhìn và vệt nước phía sau thuyền), không dùng kết cấu phẳng, tĩnh.
+Mô hình thuyền buồm được dựng từ các hình khối đơn giản (thân thuyền, cột buồm, cánh buồm căng theo chiều gió), có chuyển động nhấp nhô và nghiêng nhẹ trên sóng, đồng bộ với chuyển động của mặt nước bên dưới.
+Hai hòn đảo riêng biệt được đặt ở các vị trí khác nhau trong cảnh; mỗi đảo có địa hình tạo hình đơn giản (đồi cao, bãi biển, có thể thêm thảm thực vật) và đổ bóng lên vùng nước xung quanh.
+Thuyền phải đi theo một tuyến đường thực sự tránh được cả hai hòn đảo (không bao giờ cắt qua đường bao hoặc băng qua phần đất), chuyển hướng mượt mà thay vì nhảy đột ngột giữa các góc.
+Camera bám theo thuyền với độ trễ nhẹ (camera bám đuổi được làm mượt), tạo cảm giác rượt đuổi năng động thay vì góc nhìn từ trên xuống gắn cứng với thuyền.
+Bầu trời chuyển sắc (chẳng hạn hoàng hôn hoặc xanh ban ngày, tùy mô hình lựa chọn) với ánh nắng hoặc phản xạ ánh sáng trên mặt nước, có hướng nhất quán với bóng đổ trên các hòn đảo.
+
+Yêu cầu kỹ thuật:
+
+Một tệp .html duy nhất; được phép dùng three.js từ cdnjs, không dùng tài nguyên hoặc kết cấu bên ngoài khác; toàn bộ mặt nước và địa hình phải được tạo theo quy trình bằng mã hoặc shader.
+Lộ trình vòng qua các hòn đảo có thể là đường đi được lên kế hoạch trước (chẳng hạn đường cong Bezier luồn giữa hai đảo) hoặc cơ chế lái đơn giản phản ứng theo vị trí, tùy mô hình lựa chọn, nhưng không được va chạm với đất liền.
+Hoạt ảnh phải chạy mượt trong ít nhất 20 giây, theo vòng lặp hoặc liên tục, đạt tối thiểu 30fps trên một máy tính xách tay thông thường; độ phân giải canvas bị giới hạn ở kích thước cửa sổ và devicePixelRatio không được cao hơn 1.5 để tránh làm quá tải màn hình hiDPI.
+
+Tiêu chí đánh giá chính là mặt nước có tạo cảm giác thuyết phục như chất lỏng đang chuyển động hay không (không chỉ là kết cấu với offset UV động), thuyền có thực sự phản ứng theo sóng hay không và lộ trình vòng qua các hòn đảo có thể hiện sự định hướng có chủ đích thay vì suýt va vào một cách ngẫu nhiên hay không.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101616345720787130) · [Bài đăng gốc](https://www.aicontenders.dev/c/a_TRQpq3LoNVd-M7Xy2DHg) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2101687900723106104"></a>
+
+### Tạo mô hình 3D WALL-E bằng Three.js
+
+[Marcel](https://x.com/marcthecreatorr) · 2026-09-20
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101687900723106104"><img src="../assets/previews/3da23ad1ccf5ae36bd70d1beacc24122d0df39a01d7bea2b9b06145fe1e6098c.jpg" width="840" loading="lazy" alt="Tạo mô hình 3D WALL-E bằng Three.js"></a>
+
+Prompt được Marcel chia sẻ, chính xác là prompt họ đã cung cấp cho Astra, yêu cầu tạo mô hình 3D WALL-E bằng Three.js.
+
+**Prompt**
+
+```text
+tạo mô hình 3D WALL-E bằng Three.js.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101687900723106104) · [Bài đăng gốc](https://x.com/marcthecreatorr/status/2101687900723106104) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="odd-arms"></a>
 
 ### ODD ARMS — Game sinh tồn với vũ khí kỳ quặc
@@ -4259,64 +4338,10 @@ Bàn giao mã nguồn, lockfile, lệnh npm phát triển/build và đầu ra t�
 
 ---
 
-<a id="2096579856133947507"></a>
-
-### Bàn cờ shogi 3D có thể xoay
-
-[薄幸柄 / LAB](https://x.com/hatukougara) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/rotatable-3d-shogi-board-2096579856133947507"><img src="../assets/previews/c6c11f611cd50ab65badd0bdeae3b4b91d1fd9e8da7d15c7ac7c5ccbb27b4d03.webp" width="840" loading="lazy" alt="Bàn cờ shogi 3D có thể xoay"></a>
-
-**Prompt**
-
-```text
-Xây dựng ứng dụng chơi shogi 3D với bàn cờ có thể xoay tự do. Qua từng lần đánh giá, tiếp tục hoàn thiện bàn cờ, quân cờ và cách tương tác.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/rotatable-3d-shogi-board-2096579856133947507) · [Bài đăng gốc](https://x.com/hatukougara/status/2096579856133947507) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096578761877860502"></a>
-
-### Bản đồ tháo rời linh kiện máy tính để bàn
-
-[cooper](https://x.com/icooperhero) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502"><img src="../assets/previews/3e793aa49d00596d7f0fde1ede3a8d6bdfd788e24dcaabfd8a411333c01ad01a.webp" width="840" loading="lazy" alt="Bản đồ tháo rời linh kiện máy tính để bàn"></a>
-
-**Prompt**
-
-```text
-Tạo một website 3D tương tác cho phép tách máy tính để bàn thành 29 linh kiện chính. Thêm hoạt cảnh tháo rời và phần giải thích cho từng linh kiện.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502) · [Bài đăng gốc](https://x.com/icooperhero/status/2096578761877860502) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096578684010508736"></a>
-
-### Lên phương án bố trí phòng trẻ em kiêm nơi làm việc
-
-[かのこ🌼AI×子育て×探究](https://x.com/dqlh47m) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736"><img src="../assets/previews/1d761ad321c1abd86b860b5666524d43f1c618b478cbea34f5c33f4662723f6e.webp" width="840" loading="lazy" alt="Lên phương án bố trí phòng trẻ em kiêm nơi làm việc"></a>
-
-**Prompt**
-
-```text
-Tái dựng phòng trẻ em kiêm nơi làm việc từ bốn ảnh chụp ở các góc phòng cùng số đo căn phòng. Cung cấp góc nhìn của người lớn và trẻ em, góc nhìn tổng thể và các phương án bố trí nội thất khác nhau.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736) · [Bài đăng gốc](https://x.com/dqlh47m/status/2096578684010508736) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 260 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 263 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

@@ -26,7 +26,7 @@
 **Un punto de partida para tu próximo juego, escena o mundo interactivo.**
 
 
-**260 · Últimos prompts de Astra**
+**263 · Últimos prompts de Astra**
 
 ## Proyectos destacados
 
@@ -141,13 +141,13 @@
 - [Entorno 3D fotorrealista completo](#2101224659861590399)
 - [Visualización interactiva en 3D de un motor de aeronave](#2101271938706685991)
 - [Flujo de trabajo de animación 3D y vídeo de un gato experto en artes marciales](#2101310374033428642)
+- [Modelo 3D de un Jaguar I-Pace de Waymo](#2101325346427842909)
+- [Velero en mar abierto](#2101616345720787130)
+- [Crea un modelo 3D de WALL-E en Three.js](#2101687900723106104)
 - [ODD ARMS — Juego de supervivencia con armas extrañas](#odd-arms)
 - [TITANIC — La última luz](#titanic-the-last-light)
 - [AKARI: Relevo de la llama en las azoteas de Nagoya](#akari-nagoya-rooftop-flame-relay)
 - [La isla del cíclope](#cyclops-island-threejs-game)
-- [Tablero de shogi 3D giratorio](#2096579856133947507)
-- [Atlas interactivo de un ordenador de sobremesa por piezas](#2096578761877860502)
-- [Planificador de habitación infantil y zona de trabajo](#2096578684010508736)
 
 </details>
 
@@ -3974,6 +3974,85 @@ SALIDA FINAL: Devuelve el vídeo terminado con la relación de aspecto y la dura
 
 ---
 
+<a id="2101325346427842909"></a>
+
+### Modelo 3D de un Jaguar I-Pace de Waymo
+
+[Harshith](https://x.com/HarshithLucky3) · 2026-09-19
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2101325346427842909"><img src="../assets/previews/449ef82d65975e559172227f6d0fc27cdda054f8e215d3356b39b1a45b524772.jpg" width="840" loading="lazy" alt="Modelo 3D de un Jaguar I-Pace de Waymo"></a>
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2101325346427842909"><img src="../assets/previews/b31d6fef03ae123be2811d7b8b566e76ce04232b1effc8e0858da4f7c20a7520.jpg" width="840" loading="lazy" alt="Modelo 3D de un Jaguar I-Pace de Waymo"></a>
+
+El autor indica que usó este prompt con GPT-6 Astra Max en Codex para crear con Three.js un modelo 3D de un Jaguar I-Pace de Waymo. Afirma que no utilizó ninguna referencia y que el vehículo resultante no se parecía al automóvil real.
+
+**Prompt**
+
+```text
+modelo 3D de un Jaguar I-Pace de Waymo usando Three.js
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2101325346427842909) · [Publicación original](https://x.com/HarshithLucky3/status/2101325346427842909) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2101616345720787130"></a>
+
+### Velero en mar abierto
+
+[www.aicontenders.dev](https://www.aicontenders.dev/) · 2026-09-20
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2101616345720787130"><img src="../assets/previews/b9826d35e819a5f5cf763b5a3ec4b43871311350a790ace0106802144975f0ef.jpg" width="840" loading="lazy" alt="Velero en mar abierto"></a>
+
+Publicado en la página de comparación de AIContenders enlazada y ejecutado con GPT-6-astra junto con otros modelos. La tarea solicita una escena 3D interactiva de un velero en un único archivo, con agua animada generada mediante procedimientos, dos islas, movimiento de la embarcación sensible a las olas, navegación que evite la tierra y una cámara de seguimiento suavizada.
+
+**Prompt**
+
+```text
+Crea un único archivo HTML con una escena 3D que muestre un velero pequeño avanzando por mar abierto, con control de dirección y una ruta que navegue alrededor de dos islas visibles, similar a las demostraciones de «juegos de barcos» de las pruebas recientes de modelos.
+
+Requisitos funcionales:
+
+Una superficie de agua representada como una malla de olas animada (shader de agua procedural, olas en movimiento, reflejos de luz que cambien según el ángulo de visión y una estela detrás de la embarcación), no una textura plana y estática.
+Un modelo de velero construido con formas simples (casco, mástil y vela hinchada por el viento), con balanceo visible y una ligera inclinación sobre las olas, sincronizados con el movimiento del agua que tiene debajo.
+Dos islas diferenciadas situadas en distintos puntos de la escena, cada una con una forma de terreno sencilla (una elevación, una playa y, opcionalmente, vegetación) y una sombra proyectada sobre el agua circundante.
+La embarcación debe seguir una ruta que evite realmente ambas islas (sin atravesar nunca su silueta ni cruzar el terreno), girando suavemente en lugar de cambiar de ángulo de forma brusca.
+La cámara sigue a la embarcación con un ligero retraso (seguimiento de cámara suavizado), para dar la impresión de una persecución dinámica en lugar de una vista cenital rígidamente vinculada.
+Un cielo degradado (por ejemplo, un atardecer o un cielo azul diurno, a elección del modelo) con un sol o reflejo de luz sobre el agua, coherente en dirección con las sombras de las islas.
+
+Requisitos técnicos:
+
+Un único archivo .html; se permite usar three.js desde cdnjs, pero no otros recursos ni texturas externas. Toda el agua y el terreno deben generarse mediante procedimientos en el código o el shader.
+La ruta alrededor de las islas puede ser un recorrido planificado de antemano (por ejemplo, una curva de Bézier que pase entre las islas) o un sistema de dirección sencillo que reaccione a la posición, a elección del modelo, pero no se permite ninguna colisión con el terreno.
+La animación debe ejecutarse sin problemas durante al menos 20 segundos, en bucle o de forma continua, a un mínimo de 30 fps en un portátil típico. La resolución del lienzo debe estar limitada al tamaño de la ventana y el devicePixelRatio no debe superar 1.5 para evitar sobrecargar las pantallas de alta densidad de píxeles.
+
+La evaluación se centrará principalmente en si el agua parece convincentemente un fluido en movimiento (no una textura con un desplazamiento de UV animado), si la embarcación reacciona realmente a las olas y si la ruta alrededor de las islas se percibe como una navegación intencionada, en lugar de un casi choque aleatorio.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2101616345720787130) · [Publicación original](https://www.aicontenders.dev/c/a_TRQpq3LoNVd-M7Xy2DHg) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2101687900723106104"></a>
+
+### Crea un modelo 3D de WALL-E en Three.js
+
+[Marcel](https://x.com/marcthecreatorr) · 2026-09-20
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2101687900723106104"><img src="../assets/previews/3da23ad1ccf5ae36bd70d1beacc24122d0df39a01d7bea2b9b06145fe1e6098c.jpg" width="840" loading="lazy" alt="Crea un modelo 3D de WALL-E en Three.js"></a>
+
+Un prompt compartido por Marcel, exactamente el mismo que le proporcionó a Astra, para solicitar un modelo 3D de WALL-E creado en Three.js.
+
+**Prompt**
+
+```text
+crea un modelo 3D de WALL-E en Three.js.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2101687900723106104) · [Publicación original](https://x.com/marcthecreatorr/status/2101687900723106104) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="odd-arms"></a>
 
 ### ODD ARMS — Juego de supervivencia con armas extrañas
@@ -4236,64 +4315,10 @@ Entrega el código fuente, el archivo de bloqueo, los comandos npm de desarrollo
 
 ---
 
-<a id="2096579856133947507"></a>
-
-### Tablero de shogi 3D giratorio
-
-[薄幸柄 / LAB](https://x.com/hatukougara) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/rotatable-3d-shogi-board-2096579856133947507"><img src="../assets/previews/c6c11f611cd50ab65badd0bdeae3b4b91d1fd9e8da7d15c7ac7c5ccbb27b4d03.webp" width="840" loading="lazy" alt="Tablero de shogi 3D giratorio"></a>
-
-**Prompt**
-
-```text
-Crea una aplicación de shogi 3D jugable con un tablero que se pueda girar libremente. Mejora el tablero, las piezas y las interacciones mediante revisiones sucesivas.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/rotatable-3d-shogi-board-2096579856133947507) · [Publicación original](https://x.com/hatukougara/status/2096579856133947507) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2096578761877860502"></a>
-
-### Atlas interactivo de un ordenador de sobremesa por piezas
-
-[cooper](https://x.com/icooperhero) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502"><img src="../assets/previews/3e793aa49d00596d7f0fde1ede3a8d6bdfd788e24dcaabfd8a411333c01ad01a.webp" width="840" loading="lazy" alt="Atlas interactivo de un ordenador de sobremesa por piezas"></a>
-
-**Prompt**
-
-```text
-Crea una web 3D interactiva que descomponga un ordenador de sobremesa en 29 componentes principales. Añade una animación de desmontaje y explicaciones de cada pieza.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502) · [Publicación original](https://x.com/icooperhero/status/2096578761877860502) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2096578684010508736"></a>
-
-### Planificador de habitación infantil y zona de trabajo
-
-[かのこ🌼AI×子育て×探究](https://x.com/dqlh47m) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736"><img src="../assets/previews/1d761ad321c1abd86b860b5666524d43f1c618b478cbea34f5c33f4662723f6e.webp" width="840" loading="lazy" alt="Planificador de habitación infantil y zona de trabajo"></a>
-
-**Prompt**
-
-```text
-Reconstruye una habitación infantil que también sirva como zona de trabajo a partir de cuatro fotos tomadas desde las esquinas y las medidas de la estancia. Muestra las perspectivas de un adulto y un niño, una vista general y distintas distribuciones de muebles.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736) · [Publicación original](https://x.com/dqlh47m/status/2096578684010508736) · [Volver a los ejemplos](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 260 ejemplos en el sitio oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 263 ejemplos en el sitio oficial →</a></strong></p>
 <p><sub>Para que el README de GitHub se renderice con fluidez, aquí solo se muestran los 100 ejemplos más recientes.</sub></p>
 <br>
 </td></tr>

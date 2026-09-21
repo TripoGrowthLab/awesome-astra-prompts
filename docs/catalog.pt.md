@@ -26,7 +26,7 @@
 **Um ponto de partida para seu próximo jogo, cena ou mundo interativo.**
 
 
-**260 · Prompts mais recentes do Astra**
+**263 · Prompts mais recentes do Astra**
 
 ## Projetos em destaque
 
@@ -141,13 +141,13 @@
 - [Ambiente 3D fotorrealista completo](#2101224659861590399)
 - [Visualização interativa em 3D de um motor de aeronave](#2101271938706685991)
 - [Fluxo de trabalho para animação e vídeo 3D de um gato especialista em artes marciais](#2101310374033428642)
+- [Modelo 3D de um Waymo Jaguar I-Pace](#2101325346427842909)
+- [Veleiro em mar aberto](#2101616345720787130)
+- [Crie um modelo 3D de WALL-E no Three.js](#2101687900723106104)
 - [ODD ARMS — Jogo de sobrevivência com armas bizarras](#odd-arms)
 - [TITANIC — A Última Luz](#titanic-the-last-light)
 - [AKARI: Revezamento da Chama nos Telhados de Nagoya](#akari-nagoya-rooftop-flame-relay)
 - [A Ilha do Ciclope](#cyclops-island-threejs-game)
-- [Tabuleiro de shogi 3D giratório](#2096579856133947507)
-- [Atlas de um computador de mesa em vista explodida](#2096578761877860502)
-- [Planejador de quarto infantil e espaço de trabalho](#2096578684010508736)
 
 </details>
 
@@ -3959,6 +3959,85 @@ SAÍDA FINAL: retorne o vídeo concluído na proporção e duração confirmadas
 
 ---
 
+<a id="2101325346427842909"></a>
+
+### Modelo 3D de um Waymo Jaguar I-Pace
+
+[Harshith](https://x.com/HarshithLucky3) · 2026-09-19
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2101325346427842909"><img src="../assets/previews/449ef82d65975e559172227f6d0fc27cdda054f8e215d3356b39b1a45b524772.jpg" width="840" loading="lazy" alt="Modelo 3D de um Waymo Jaguar I-Pace"></a>
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2101325346427842909"><img src="../assets/previews/b31d6fef03ae123be2811d7b8b566e76ce04232b1effc8e0858da4f7c20a7520.jpg" width="840" loading="lazy" alt="Modelo 3D de um Waymo Jaguar I-Pace"></a>
+
+O autor relata ter usado este prompt com o GPT-6 Astra Max no Codex para criar, com Three.js, um modelo 3D de um Waymo Jaguar I-Pace. Ele afirma que não usou nenhuma referência e que o veículo resultante não se parecia com o carro real.
+
+**Prompt**
+
+```text
+modelo 3D de um Waymo Jaguar I-Pace usando Three.js
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2101325346427842909) · [Publicação original](https://x.com/HarshithLucky3/status/2101325346427842909) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2101616345720787130"></a>
+
+### Veleiro em mar aberto
+
+[www.aicontenders.dev](https://www.aicontenders.dev/) · 2026-09-20
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2101616345720787130"><img src="../assets/previews/b9826d35e819a5f5cf763b5a3ec4b43871311350a790ace0106802144975f0ef.jpg" width="840" loading="lazy" alt="Veleiro em mar aberto"></a>
+
+Publicado na página de comparação vinculada do AIContenders e executado com o GPT-6-astra junto de outros modelos. A tarefa solicita uma cena 3D interativa de um veleiro em um único arquivo, com água animada proceduralmente, duas ilhas, movimento do barco responsivo às ondas, navegação que evita terra firme e uma câmera de perseguição suavizada.
+
+**Prompt**
+
+```text
+Crie um único arquivo HTML com uma cena 3D que mostre um pequeno veleiro navegando em mar aberto, com controle de direção nativo e uma rota que contorne duas ilhas visíveis, semelhante aos demos de "jogo de barco" usados em testes recentes de modelos.
+
+Requisitos funcionais:
+
+Uma superfície de água renderizada como uma malha de ondas animada (shader de água procedural, ondas em movimento e reflexos de luz que mudam conforme o ângulo de visão, além de um rastro de espuma atrás do barco), e não uma textura plana e estática.
+Um modelo de veleiro construído com formas simples (casco, mastro e vela enfunada pelo vento), com balanço visível e leve inclinação sobre as ondas, sincronizados com o movimento da água abaixo dele.
+Duas ilhas distintas posicionadas em pontos diferentes da cena, cada uma com uma modelagem simples do terreno (uma elevação, uma praia e, opcionalmente, vegetação) e uma sombra projetada sobre a água ao redor.
+O barco deve seguir uma rota que realmente evite as duas ilhas (sem nunca atravessar a silhueta delas ou passar pela terra), fazendo curvas suaves em vez de alternar bruscamente entre ângulos.
+A câmera acompanha o barco com um pequeno atraso (acompanhamento de câmera suavizado), transmitindo a sensação de uma perseguição dinâmica, em vez de uma visão rígida de cima, presa ao barco.
+Um céu em degradê (por exemplo, pôr do sol ou azul diurno, à escolha do modelo), com o sol ou seu reflexo na água em uma direção coerente com as sombras nas ilhas.
+
+Requisitos técnicos:
+
+Um único arquivo .html; é permitido usar three.js via cdnjs. Não use outros recursos ou texturas externas: toda a água e o terreno devem ser gerados proceduralmente no código ou no shader.
+A rota ao redor das ilhas pode ser um caminho planejado previamente (por exemplo, uma curva de Bezier passando entre as ilhas) ou um sistema simples de direção que reaja à posição, à escolha do modelo, mas não pode haver colisão com a terra.
+A animação deve funcionar de forma suave por pelo menos 20 segundos, em loop ou continuamente, com no mínimo 30 fps em um laptop comum. A resolução do canvas deve ser limitada ao tamanho da janela, com um devicePixelRatio máximo de 1,5 para evitar sobrecarga em telas HiDPI.
+
+A avaliação deve se concentrar principalmente em verificar se a água tem aparência convincente de fluido em movimento (e não de uma textura com deslocamento de UV animado), se o barco realmente reage às ondas e se a rota ao redor das ilhas transmite uma navegação intencional, em vez de um quase acidente aleatório.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2101616345720787130) · [Publicação original](https://www.aicontenders.dev/c/a_TRQpq3LoNVd-M7Xy2DHg) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2101687900723106104"></a>
+
+### Crie um modelo 3D de WALL-E no Three.js
+
+[Marcel](https://x.com/marcthecreatorr) · 2026-09-20
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2101687900723106104"><img src="../assets/previews/3da23ad1ccf5ae36bd70d1beacc24122d0df39a01d7bea2b9b06145fe1e6098c.jpg" width="840" loading="lazy" alt="Crie um modelo 3D de WALL-E no Three.js"></a>
+
+Um prompt compartilhado por Marcel, exatamente o mesmo que ele forneceu à Astra, solicitando um modelo 3D de WALL-E criado no Three.js.
+
+**Prompt**
+
+```text
+crie um modelo 3D de WALL-E no Three.js.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2101687900723106104) · [Publicação original](https://x.com/marcthecreatorr/status/2101687900723106104) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="odd-arms"></a>
 
 ### ODD ARMS — Jogo de sobrevivência com armas bizarras
@@ -4221,64 +4300,10 @@ Entregue o código-fonte, o lockfile, os comandos npm de desenvolvimento/build e
 
 ---
 
-<a id="2096579856133947507"></a>
-
-### Tabuleiro de shogi 3D giratório
-
-[薄幸柄 / LAB](https://x.com/hatukougara) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/rotatable-3d-shogi-board-2096579856133947507"><img src="../assets/previews/c6c11f611cd50ab65badd0bdeae3b4b91d1fd9e8da7d15c7ac7c5ccbb27b4d03.webp" width="840" loading="lazy" alt="Tabuleiro de shogi 3D giratório"></a>
-
-**Prompt**
-
-```text
-Crie um aplicativo de shogi 3D jogável com um tabuleiro que possa girar livremente. Aprimore o tabuleiro, as peças e as interações em revisões sucessivas.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/rotatable-3d-shogi-board-2096579856133947507) · [Publicação original](https://x.com/hatukougara/status/2096579856133947507) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2096578761877860502"></a>
-
-### Atlas de um computador de mesa em vista explodida
-
-[cooper](https://x.com/icooperhero) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502"><img src="../assets/previews/3e793aa49d00596d7f0fde1ede3a8d6bdfd788e24dcaabfd8a411333c01ad01a.webp" width="840" loading="lazy" alt="Atlas de um computador de mesa em vista explodida"></a>
-
-**Prompt**
-
-```text
-Crie um site 3D interativo que separe um computador de mesa em 29 componentes principais. Inclua uma animação de desmontagem e explicações sobre cada peça.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502) · [Publicação original](https://x.com/icooperhero/status/2096578761877860502) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2096578684010508736"></a>
-
-### Planejador de quarto infantil e espaço de trabalho
-
-[かのこ🌼AI×子育て×探究](https://x.com/dqlh47m) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736"><img src="../assets/previews/1d761ad321c1abd86b860b5666524d43f1c618b478cbea34f5c33f4662723f6e.webp" width="840" loading="lazy" alt="Planejador de quarto infantil e espaço de trabalho"></a>
-
-**Prompt**
-
-```text
-Reconstrua um quarto infantil que também funcione como espaço de trabalho a partir de quatro fotos dos cantos e das dimensões do cômodo. Mostre os pontos de vista de um adulto e de uma criança, uma visão geral e alternativas de disposição dos móveis.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736) · [Publicação original](https://x.com/dqlh47m/status/2096578684010508736) · [Voltar aos exemplos](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 260 exemplos no site oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 263 exemplos no site oficial →</a></strong></p>
 <p><sub>Para manter a renderização do README do GitHub fluida, mostramos aqui apenas os 100 exemplos mais recentes.</sub></p>
 <br>
 </td></tr>
