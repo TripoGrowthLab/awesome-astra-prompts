@@ -26,7 +26,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**263 · Prompt Astra mới nhất**
+**264 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -54,7 +54,6 @@
 - [Trình khám phá giải phẫu 3D tương tác](#2099206962344800541) · GitHub
 - [Demo đồ họa fantasy isometric](#2100271998618177864) · GitHub
 - [Mosswing: Game 3D mobile chạm để vỗ cánh](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Totality Engine: Thánh đường Nhật thực Điện ảnh](#2096593372311941143)
 - [Tạo CS2 bằng Three.js](#2096596888799895855)
 - [Hoạt ảnh gấp hộp giấy từ bản vẽ khuôn bế](#2096612394281603144)
 - [Game phiêu lưu fantasy ven biển Windhaven](#2096629506047955327)
@@ -144,6 +143,7 @@
 - [Mô hình 3D Waymo Jaguar I-Pace](#2101325346427842909)
 - [Thuyền buồm trên vùng nước rộng](#2101616345720787130)
 - [Tạo mô hình 3D WALL-E bằng Three.js](#2101687900723106104)
+- [Bubble Bay: Đại chiến bóng nước 3D](#bubble-bay)
 - [ODD ARMS — Game sinh tồn với vũ khí kỳ quặc](#odd-arms)
 - [TITANIC — Ánh sáng cuối cùng](#titanic-the-last-light)
 - [AKARI: Tiếp lửa trên những sân thượng Nagoya](#akari-nagoya-rooftop-flame-relay)
@@ -324,88 +324,6 @@ Làm mới game kinh điển “chạm để vỗ cánh” — game mà bạn ch
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Bài đăng gốc](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Mã nguồn](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Bản demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096593372311941143"></a>
-
-### Totality Engine: Thánh đường Nhật thực Điện ảnh
-
-[Chris W](https://x.com/Chris_Wozniczek) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/totality-engine-cinematic-eclipse-cathedral-2096593372311941143"><img src="../assets/previews/52de12ef7c4dd44ec548962b86297e175683992ebdfdd2665699a18fe86bb9ca.jpg" width="840" loading="lazy" alt="Totality Engine: Thánh đường Nhật thực Điện ảnh"></a>
-
-Prompt Three.js/WebGL hoàn chỉnh cho một phim ngắn lặp 32 giây bên trong thánh đường Gothic ngập nước, với đồng hồ thiên văn đồ sộ, các nhịp máy quay được dàn dựng, nước tạo thủ tục, các hành tinh bằng kính và ánh sáng nhật thực. Chris W đã công bố một lượt chạy Astra cùng phần so sánh với các mô hình khác.
-
-**Prompt**
-
-```text
-Tạo một trải nghiệm HTML/WebGL một tệp duy nhất, hoàn chỉnh, được trau chuốt và ấn tượng về mặt hình ảnh, có tên:
-
-totality-engine.html đặt trong documents/llm-benchmarks
-
-Đừng chỉ mô tả ý tưởng. Hãy thực sự tạo toàn bộ tệp HTML có thể chạy được và lưu vào thư mục hiện tại.
-
-Xây dựng một phim ngắn điện ảnh lặp 32 giây, không phải một mô hình trưng bày dạng sandbox. Sản phẩm cốt lõi là phần trình diễn của máy quay. Tương tác chỉ là phần bổ sung sau khi phim phát hết một lần.
-
-Thế giới:
-Một thánh đường Gothic chìm trong nước tại thời điểm toàn phần của nhật thực. Nước đen phủ kín sàn gian giữa. Ở giao điểm trung tâm là một đồng hồ thiên văn bằng đồng thau khổng lồ, Totality Engine: các vòng cơ cấu quỹ đạo lồng nhau, những hành tinh bằng kính, lõi mặt trời đen và một con lắc bằng đá cẩm thạch đen dài 40 mét với các chi tiết mạ vàng. Đá vôi ướt, lớp gỉ đồng xanh, ngọn nến và bụi vàng. Mọi thứ đều được tạo bằng mã thủ tục. Không dùng mô hình, kết cấu bề mặt, hình ảnh, phông chữ dạng tệp hoặc âm thanh bên ngoài.
-
-Phim được dàn dựng (một chiếc đồng hồ, các nhịp có tên, vòng lặp liền mạch):
-
-0.0–4.0s BỤI
-Cận cảnh cực gần. Một hạt bụi xoay trong dải sáng đỏ ánh vàng. Gần như không có bối cảnh. Máy quay từ từ tiến vào.
-
-4.0–10.0s GIAN GIỮA
-Lùi ra và nâng cao. Chúng ta đang đứng trong làn nước đen sâu đến đầu gối, tại giao điểm trung tâm của thánh đường. Các vòm sườn lùi dần vào màn sương. Con lắc đi vào khung hình từ bên trái, nặng nề, chậm rãi và lướt qua đủ gần để cảm nhận được khối lượng của nó. Các vòng gợn nước lan ra từ máy quay.
-
-10.0–18.0s ĐI LÊN
-Bám theo chuyển động vút lên của con lắc. Hé lộ cơ cấu quỹ đạo trong vòm: ít nhất bốn vòng đồng thau lồng nhau ở các góc nghiêng khác nhau, ba hành tinh bằng kính với khí quyển riêng biệt (một có mây, một có vành đai, một có các dải bão) và lõi mặt trời đen. Các cụm nến dọc tầng triforium. Bụi vàng rơi ngược lên, trái với trọng lực.
-
-18.0–24.0s XUYÊN QUA
-Máy quay luồn qua cơ cấu quỹ đạo. Đi xuyên qua lớp kính của hành tinh có vành đai (khúc xạ, không dùng mẹo làm trong suốt), bám theo mặt phẳng vành đai trong một nhịp, rồi thoát ra hướng về mặt trời đen. Chuyển động tiếp theo của con lắc bẻ cong ánh sáng xung quanh nó như một thấu kính hấp dẫn yếu.
-
-24.0–30.0s TOÀN PHẦN
-Vầng nhật hoa bùng nổ thành một vòng lửa trắng ánh vàng, rồi trở thành bánh xe ngoài cùng của cơ cấu quỹ đạo. Một tiếng tích tắc đồng hồ có cảm giác như nghe được: mọi vòng khớp chính xác vào cùng một trục, sau đó vầng nhật hoa giữ nguyên. Không chuyển dần sang trắng. Giữ lại bóng dáng toàn bộ cỗ máy trước vòng lửa.
-
-30.0–32.0s ĐOẠN KẾT
-Chuyển nhẹ vào một đoạn tiếp nối chậm, khớp với khung hình 0 để vòng lặp trở nên vô hình. Không cắt gấp.
-
-Sau lần phát đầy đủ đầu tiên, bật tính năng kéo để xoay quỹ đạo, cuộn con lăn chuột để thu phóng và điều khiển "Phát lại phim". Nút Tạm dừng luôn hoạt động. Tùy chọn: phím 1–5 nhảy đến đầu các nhịp.
-
-Dàn dựng cảnh:
-- Phân lớp tiền cảnh / trung cảnh / hậu cảnh rõ ràng. Con lắc chiếm tiền cảnh trong GIAN GIỮA. Các vòm và màn sương tạo chiều sâu.
-- Có ít nhất hai vật tham chiếu ở tầm vóc con người (một hàng ghế chìm, một chóp nhọn bị đổ, một hàng nến) để làm nổi bật quy mô khổng lồ của cỗ máy.
-- Nước phải là một vật liệu thực sự: phản chiếu cơ cấu quỹ đạo, hiệu ứng Fresnel nhẹ, biến dạng chậm và các vòng gợn do con lắc cùng máy quay tạo ra.
-- Hành tinh bằng kính phải là kính dày, không phải những quả cầu phát sáng. Phải nhìn thấy thánh đường bị biến dạng xuyên qua ít nhất một hành tinh.
-- Đồng thau phải có trọng lượng: tối trong vùng bóng, chỉ có các vành bắt sáng từ vầng nhật hoa.
-- Ngọn nến và bụi vàng phải được tạo bằng InstancedMesh. Bụi chỉ bị kéo lên trong ĐI LÊN và TOÀN PHẦN.
-- Các vòm sườn, bóng dáng các trụ chống bay và một cửa sổ hoa hồng / khẩu độ nhật thực hình tròn khổng lồ trên bức tường xa, thẳng hàng với mặt trời đen.
-- Bảng màu giới hạn, cố định: đá vôi ướt #8a8680, đồng thau #c4a574, gỉ đồng xanh #2f6f66, đỏ thẫm nhật thực #6b1020, vầng nhật hoa #ffe9c2, nước đen #05070c, bụi vàng #e6c27a. Không dùng cyan, magenta, neon, cầu vồng, hoặc "diện mạo AI" tím trên nền đen.
-- Kiểu chữ: một tiêu đề nhỏ "TOTALITY ENGINE" và tên nhịp, mang chất điện ảnh, không phải bảng điều khiển.
-
-Yêu cầu kỹ thuật:
-- Dùng Three.js từ một CDN ổn định. Toàn bộ HTML, CSS và JS nằm trong tệp duy nhất này.
-- Điều khiển mọi hoạt ảnh bằng một đồng hồ thời gian đã trôi duy nhất với các khoảng nhịp có tên. Không dùng các vòng lặp Math.random độc lập, không dùng Date.now trong shader, không dùng nhiễu chưa gieo hạt. Chỉ dùng bộ sinh số ngẫu nhiên có seed, với seed cố định 0xA2E1.
-- Phim máy quay dùng nội suy mượt với ease-in-out cho các chuyển động lớn, easing nặng hơn cho con lắc (vì nó có khối lượng) và một đoạn ổn định kéo dài khi đi vào TOÀN PHẦN. Quỹ đạo tuyến tính làm chuyển động máy quay chính là không đạt.
-- Dùng GLSL tùy chỉnh (ShaderMaterial hoặc một pass toàn màn hình), không giả vờ bằng các vật liệu dựng sẵn:
-1. Nước (phản chiếu + Fresnel + biến dạng chậm)
-2. Vầng nhật hoa của mặt trời đen (lửa / plasma, không phải sprite)
-3. Hiệu ứng thấu kính quanh con lắc (ánh sáng bẻ cong gần quả lắc trong XUYÊN QUA)
-4. Kính dày cho ít nhất một hành tinh
-- Dùng InstancedMesh cho bụi, nến và mọi ô đá/đồng thau lặp lại. Không tạo hàng nghìn đối tượng Mesh rời rạc.
-- Có thể dùng hậu kỳ nhưng không được thay thế ánh sáng. Nếu dùng bloom, chỉ áp dụng nhẹ lên vầng nhật hoa và nến. Dùng UnrealBloom cho toàn bộ cảnh là không đạt.
-- Sương mù, phản chiếu ướt và khẩu độ nhật thực tạo nên bầu không khí. Không dùng các hình nón trong suốt rẻ tiền làm "tia sáng thần thánh", trừ khi chúng thực sự được điều khiển bằng shader.
-- Đáp ứng tốt trên toàn cửa sổ trình duyệt, xử lý việc thay đổi kích thước, hướng đến 60fps trên laptop năm 2023. Nếu buộc phải chọn, hãy giảm số lượng hạt trước khi cắt giảm phần phim máy quay.
-- UI nhỏ, không gây chú ý: tiêu đề, nhịp hiện tại, tạm dừng, phát lại. Không có bộ đếm FPS, dat.gui hay công cụ gỡ lỗi nào còn bật.
-- Không có chú thích TODO, mã giả, phần giữ chỗ, hàm bị thiếu hoặc câu "sẽ tốt hơn nếu có X".
-- Khi tải trang, phim phải tự phát. Một khung hình tĩnh phía sau nút bắt đầu là không đạt.
-
-Tiêu chuẩn chất lượng:
-Cảnh này phải giống một khung hình phim ngắn, không phải ví dụ Three.js. Nếu ảnh chụp màn hình ở giây 26 không gợi rõ "chiếc đồng hồ có kích thước bằng thánh đường tại thời điểm nhật thực", thì vẫn chưa hoàn thành. Hãy tinh chỉnh bố cục, vật liệu và máy quay trước khi thêm đối tượng.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/totality-engine-cinematic-eclipse-cathedral-2096593372311941143) · [Bài đăng gốc](https://x.com/Chris_Wozniczek/status/2096593372311941143) · [Bản demo](https://chris-website-theta.vercel.app/astra-xhigh-totality-engine.html) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -4076,6 +3994,65 @@ tạo mô hình 3D WALL-E bằng Three.js.
 
 ---
 
+<a id="bubble-bay"></a>
+
+### Bubble Bay: Đại chiến bóng nước 3D
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-22
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/bubble-bay"><img src="../assets/previews/5158051d1bd3d80bc65cbfdd00a31c6e9c048c21f0e18ed7b1826972c94b6b5d.webp" width="840" loading="lazy" alt="Bubble Bay: Đại chiến bóng nước 3D"></a>
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/bubble-bay"><img src="../assets/previews/ceda95626d7f2a404ab04a28ea483f2da5eb9cc367184a09da386305cc85539a.png" width="840" loading="lazy" alt="Bubble Bay: Đại chiến bóng nước 3D"></a>
+
+Xây dựng một trận chiến sân trong 3D ngập nắng với bóng nước, những pha nhảy, đối thủ AI và nhân vật hoạt ảnh của riêng bạn. Chuyển đổi giữa các mô hình Tripo và phiên bản hình học Three.js.
+
+**Prompt**
+
+```text
+1. Mục tiêu dự án
+Xây dựng Bubble Bay, một trò chơi đại chiến bóng nước 3D có thể chơi được trong sân thị trấn đồ chơi ngập nắng. Người chơi điều khiển một nhân vật phe xanh đối đầu với hai đối thủ AI phe đỏ. Chạy qua các tuyến đường, phá thùng, thu thập vật phẩm nâng cấp, nhảy lên bục và nhốt đối thủ trong bong bóng. Chiến thắng bằng cách bắt nhân vật phe đối thủ ba lần trong một trận đấu kéo dài ba phút. Bàn giao một trò chơi Three.js hoàn chỉnh, có phần so sánh trực quan giữa các chế độ hiển thị và một xưởng để đưa nhân vật đã rig của người chơi vào trận đấu.
+
+2. Định hướng hình ảnh
+Dùng ảnh chụp sân trong và video ghi lại lối chơi đính kèm làm phiên bản tham chiếu. Tạo camera góc nhìn người thứ ba ở khoảng cách gần, trường nhìn khoảng 51 độ, mượt mà bám theo nhân vật từ phía trên và phía sau. Khu vực chơi phải chiếm phần lớn màn hình. Sử dụng nền lát đá màu kem, thùng gỗ vàng mật ong, bồn hoa gạch đỏ, mái nhà màu xanh và đất nung, cây xanh tán tròn cùng những cụm hoa nhỏ. Ba nhân vật cần có dáng hình dễ nhận biết và bề mặt được phủ kết cấu, đổ bóng mềm. Thêm ánh nắng định hướng ấm áp, bóng tiếp xúc mềm, sương mù nhẹ, hiệu ứng highlight nước tiết chế như bloom và các bong bóng xanh trong suốt. Điểm số, bộ đếm giờ, hướng dẫn điều khiển và đối thủ phải dễ đọc trên nền cảnh chi tiết.
+Màn hình chính hiển thị bộ chọn nhân vật gọn ở bên trái, ba chỉ số thuộc tính, lựa chọn độ khó và nút bắt đầu nổi bật. Đặt các chế độ hiển thị Tripo và Three.js ở vị trí nổi bật phía trên chính giữa; khi chuyển chế độ, nhãn, kiểu hiển thị được chọn và mô hình hiển thị phải thay đổi đồng bộ. Mặc định dùng chế độ Tripo. Khi chơi, rút gọn giao diện còn điểm số hai đội, bộ đếm giờ, dấu hiệu người chơi, các thuộc tính hiện tại và gợi ý điều khiển. Dùng bảng kết quả ở chính giữa với điểm số, thành tích tốt nhất, thao tác chơi lại và thao tác mở xưởng nhân vật.
+
+3. Thế giới và bố cục
+Xây dựng một sân trong hình chữ nhật rộng khoảng 22 × 24 đơn vị thế giới, với các ô cách nhau 2 đơn vị. Giữ một tuyến đường trung tâm rõ ràng theo hướng bắc–nam và một khu vực bắt đầu an toàn gần rìa phía nam. Xen kẽ các bồn hoa kiên cố và thùng có thể phá hủy dọc theo những tuyến đường nối liền nhau. Bố trí các ngôi nhà, cây và hoa quanh chu vi nhưng không che khuất khu vực chơi. Dùng các khối va chạm đơn giản, độc lập với lưới trang trí chi tiết. Bồn hoa có chiều cao đỡ 1.02 đơn vị, còn thùng cao 1.72 đơn vị. Nhân vật phải thực sự đáp xuống trên mặt trên của chúng và rơi xuống khi bước ra ngoài. Thùng biến mất khi bị phá hủy, mở ra các tuyến đường mới. Cho người chơi xuất hiện gần phía nam và hai đối thủ xuất hiện ở nửa phía bắc. Bố trí các vật phẩm nâng cấp ban đầu trong tầm với và thay đổi vị trí thùng giữa các trận đấu.
+
+4. Danh mục tài sản
+Sử dụng các slot GLB độc lập, có thể thay thế, với kích thước giới hạn, hướng và điểm neo mặt đất nhất quán. Ưu tiên nhân vật, sau đó đến các thùng và ngôi nhà lặp lại, rồi đến thảm thực vật.
+- hero: Blue, nhà phiêu lưu hoạt hình mặc định của phe xanh, với đầu tròn và thân hình nhỏ gọn. Một tài sản nhân vật đã rig, mặc định là người chơi phe xanh; hỗ trợ các trạng thái đứng yên, chạy và nhảy.
+- mint: Mint, sinh vật giả tưởng nhỏ màu xanh ngọc với các điểm nhấn hồng trên đầu. Một tài sản nhân vật đã rig, người chơi có thể chọn và đối thủ cũng có thể sử dụng; hỗ trợ trạng thái đứng yên và chạy.
+- mango: Mango, linh vật giống động vật màu cam với khuôn mặt và bụng màu kem. Một tài sản nhân vật đã rig, người chơi có thể chọn và đối thủ cũng có thể sử dụng; hỗ trợ trạng thái đứng yên và chạy.
+- cottage: Ngôi nhà nhỏ tường màu kem với mái dốc lợp ngói dày. Lặp lại quanh ranh giới; tái sử dụng hình học và áp dụng các biến thể mái xanh hoặc đất nung.
+- crate: Thùng gỗ màu vàng mật ong có chi tiết ván và dáng chắc chắn. Lặp lại trên các ô có thể phá hủy; giữ phần bên trong đóng kín, có thể nhìn thấy khi thùng bị phá hoặc quan sát từ các góc khác nhau.
+- tree: Cây cách điệu thấp với thân dày và tán lá tròn xếp lớp. Lặp lại phía sau ranh giới sân trong.
+- bush: Thảm thực vật xanh thấp với những bông hoa nhỏ nhiều màu. Lặp lại bên trong các bồn hoa và quanh nhà.
+Giữ nền lát, phần gạch của bồn hoa, bầu trời, đèn, proxy va chạm, bong bóng, tia nước hình chữ thập, hạt, vật phẩm nhặt được và toàn bộ thành phần giao diện ở dạng procedural. Cung cấp các phiên bản hình học tương ứng của cảnh và nhân vật cho chế độ Three.js. Việc chuyển đổi chế độ hiển thị phải giữ nguyên trạng thái trận đấu, vị trí, bộ đếm giờ và điểm số.
+
+5. Lối chơi và phản hồi
+Dùng chuyển động liên tục với delta time, tốc độ di chuyển chéo được chuẩn hóa, va chạm và camera bám theo mượt mà. Bàn phím: WASD hoặc phím mũi tên để di chuyển; F để đặt bong bóng; Space để nhảy; Q/E để xoay camera; kéo cảnh để điều chỉnh hướng và góc nghiêng camera; Esc để tạm dừng; Shift kích hoạt cú lướt kéo dài 0.3 giây với thời gian hồi 4 giây. Trên màn hình cảm ứng, cung cấp joystick bên trái cùng các nút bong bóng và nhảy riêng ở bên phải, cho phép sử dụng đồng thời.
+Một bong bóng chiếm một ô mặt đất trong 2.5 giây, sau đó phát ra tia nước hình chữ thập theo bốn hướng của lưới. Bồn hoa kiên cố và ranh giới sẽ chặn tia nước. Thùng đầu tiên bị tia nước chạm vào theo mỗi hướng sẽ vỡ và chặn nhánh tia đó. Các bong bóng ở gần sẽ phản ứng dây chuyền. Cho phép chủ nhân rời khỏi bong bóng vừa đặt nhưng không cho đi ngược xuyên qua nó. Tuân thủ giới hạn số bong bóng đang hoạt động và cấm đặt bong bóng khi đang ở trên không.
+Nước sẽ giữ chân nhân vật trong 3.5 giây. Bốn lần nhấn Space riêng biệt sẽ giải thoát nhân vật; X tiêu thụ một kim cứu hộ mỗi trận để thoát ngay lập tức. Nhân vật đối thủ chạm vào nhân vật đang bị giữ chân sẽ bắt nhân vật đó ngay; nếu không, khi hết thời gian mắc bẫy, đội đối thủ được tính một lần bắt và nạn nhân xuất hiện lại. Đồng đội phe đỏ không bắt hoặc gây sát thương cho nhau. Tự mắc bẫy vẫn tính điểm cho đội đối thủ nếu hết thời gian. Những cú nhảy cao và mặt trên của bục có thể tránh các tia nước thấp.
+Chỉ số ban đầu: Blue có 2 bong bóng, tầm ảnh hưởng 2 và tốc độ di chuyển 4.25; Mint có 1 bong bóng, tầm ảnh hưởng 2 và tốc độ 5.15; Mango có 1 bong bóng, tầm ảnh hưởng 3 và tốc độ 4.55. Vật phẩm bong bóng, tầm ảnh hưởng và tốc độ sẽ cải thiện các thuộc tính tương ứng. Hiển thị phản hồi dễ đọc khi nhặt vật phẩm và hiệu ứng nước, di chuyển, nhảy, mắc bẫy và bắt nhân vật phải phản hồi nhanh. Thêm hiệu ứng âm thanh tổng hợp ngắn cùng nút tắt tiếng.
+Đội đầu tiên đạt 3 lần bắt sẽ thắng. Ở giây thứ 180, so sánh điểm số hai đội; nếu bằng điểm thì trận đấu hòa. Bao gồm đối thủ ở mức dễ và bình thường, có thể di chuyển, tránh nguy hiểm, đặt bong bóng và truy đuổi để bắt nhân vật. Tạm dừng sẽ đóng băng mô phỏng; chơi lại sẽ đặt lại trận đấu. Lưu thành tích tốt nhất cục bộ.
+
+6. Triển khai kỹ thuật và xưởng nhân vật
+Sử dụng Three.js 0.180, JavaScript ES modules và Vite. Tách riêng mô phỏng, kết xuất cảnh, tải mô hình, phần nhập liệu/giao diện và bản dịch. Đóng gói các dependency thời gian chạy, GLB, kết cấu và thông báo thành các tệp tĩnh cùng origin; không yêu cầu tài khoản hoặc máy chủ để chơi. Sử dụng GLTFLoader, nhân bản bằng SkeletonUtils và AnimationMixer cho các mô hình đã rig, đồng thời dùng hình học/vật liệu được pool hoặc tái sử dụng cho các tài sản môi trường lặp lại. Dự án bàn giao sử dụng các tài sản nhân vật và môi trường được tạo bằng Tripo P2; giữ nguyên nguồn gốc của chúng và đảm bảo skeleton cùng animation nhúng vẫn hoạt động.
+Cung cấp giao diện tiếng Trung, tiếng Anh và tiếng Hàn. Lựa chọn ngôn ngữ thủ công đã lưu hợp lệ luôn được ưu tiên. Nếu không, sử dụng múi giờ IANA của thiết bị: các múi giờ Trung Quốc đại lục như Asia/Shanghai và Asia/Urumqi chọn tiếng Trung; Asia/Seoul và Asia/Pyongyang chọn tiếng Hàn; Hong Kong, Macao, Đài Loan và mọi múi giờ khác hoặc không khả dụng chọn tiếng Anh. Xử lý nhất quán các bí danh cũ. Không suy đoán Trung Quốc đại lục từ độ lệch UTC hoặc ngôn ngữ trình duyệt. Không lưu lựa chọn tự động thành tùy chọn thủ công.
+Xưởng chấp nhận GLB có kết cấu nhúng tối đa 40 MB và xác thực skinning, skeleton, joint và weight thực tế trước khi thêm nhân vật. Từ chối các mô hình tĩnh chưa rig với lời giải thích rõ ràng. Phân tích mô hình cục bộ ngay trong trình duyệt. Tạo hồ sơ ban đầu ổn định từ hash nội dung tệp, để cùng một tệp luôn nhận được các thuộc tính cân bằng giống nhau. Cung cấp tùy chọn điều chỉnh hướng 90 độ.
+Giải thích rằng rigging và skinning là bắt buộc, nhưng các clip animation riêng là tùy chọn đối với skeleton humanoid tiêu chuẩn được hỗ trợ: ưu tiên các clip đứng yên/chạy/đi bộ/nhảy được nhúng; nếu không có, điều khiển trạng thái đứng yên và đi bộ cơ bản thông qua các bone tay chân dễ nhận biết. Rig không nhận diện được hoặc không phải humanoid phải có clip animation sử dụng được. Không hứa hẹn tự động tạo animation cho skeleton bất kỳ. Giải thích các định dạng GLB nén không được hỗ trợ và cách xuất tệp tiêu chuẩn không nén. Sau khi làm mới, nhân vật đã tải lên cần được chọn lại.
+Cung cấp thao tác tạo nhân vật rõ ràng liên kết tới https://studio.tripo3d.ai/?utm_source=satellite_invite&utm_medium=bubble-bay&utm_campaign=create-character . Giải thích các bước tạo, rig, xuất và quay lại trò chơi. Giữ phần trợ giúp này trong xưởng thay vì chặn trận đấu đầu tiên.
+
+7. Tiêu chí nghiệm thu và bàn giao
+Bàn giao mã nguồn có thể chỉnh sửa, tệp khóa dependency, README, hướng dẫn chạy cục bộ, bản build tĩnh production và URL chơi được có thể truy cập. Xác minh màn hình chính, trận đấu đang diễn ra, trạng thái mắc bẫy, tia nước, đáp xuống bục, kết quả, tạm dừng và chơi lại. Xác nhận sự khác biệt hiển thị rõ ràng giữa Tripo/Three.js mà không đặt lại lối chơi. Kiểm thử thao tác bàn phím thực và mô phỏng cảm ứng, bao gồm di chuyển đồng thời và đặt bong bóng; ghi rõ đây là mô phỏng và không tuyên bố đã kiểm thử trên thiết bị vật lý. Kiểm thử việc nhập nhân vật với trường hợp từ chối nhân vật chưa rig, một rig có animation và một rig được hỗ trợ nhưng không có clip. Kiểm tra múi giờ Trung Quốc đại lục/Hong Kong/Macao/Đài Loan/Hàn Quốc/các khu vực khác và khả năng lưu lựa chọn thủ công. Xác thực trang thực tế được host cùng các tài sản cùng origin, liên kết xưởng và khả năng sử dụng nhúng. Giữ lại video ghi lối chơi thực tế và các ảnh chụp đại diện khớp với phiên bản sân trong đã bàn giao; không thay thế bằng bố cục đảo xa của phiên bản trước. Bảo toàn ghi công tác giả/nguồn và thông báo giấy phép bên thứ ba mà không phân phối lại tài sản của trang tham chiếu.
+
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/bubble-bay) · [Bản demo](https://bubble-bay.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="odd-arms"></a>
 
 ### ODD ARMS — Game sinh tồn với vũ khí kỳ quặc
@@ -4341,7 +4318,7 @@ Bàn giao mã nguồn, lockfile, lệnh npm phát triển/build và đầu ra t�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 263 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 264 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

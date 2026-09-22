@@ -26,7 +26,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**263 · En yeni Astra istemleri**
+**264 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -54,7 +54,6 @@
 - [Etkileşimli 3B Anatomi Gezgini](#2099206962344800541) · GitHub
 - [İzometrik fantezi grafik demosu](#2100271998618177864) · GitHub
 - [Mosswing: Mobil 3B Dokunarak Uçma Oyunu](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Totality Engine: Sinematik Tutulma Katedrali](#2096593372311941143)
 - [Three.js ile CS2 oluştur](#2096596888799895855)
 - [Kesim Şablonundan Katlanır Kutu Animasyonu](#2096612394281603144)
 - [Windhaven Kıyı Fantazisi Macera Oyunu](#2096629506047955327)
@@ -144,6 +143,7 @@
 - [Waymo Jaguar I-Pace 3B modeli](#2101325346427842909)
 - [Açık Denizde Yelkenli Tekne](#2101616345720787130)
 - [Three.js'te WALL-E için 3B model oluşturun](#2101687900723106104)
+- [Bubble Bay: 3B Su Balonu Savaşı](#bubble-bay)
 - [ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu](#odd-arms)
 - [TITANIC — Son Işık](#titanic-the-last-light)
 - [AKARI: Nagoya Çatı Alevi Bayrak Yarışı](#akari-nagoya-rooftop-flame-relay)
@@ -324,88 +324,6 @@ Klasik "dokunarak uçma" oyununu — küçük bir yaratığı havada tutmak içi
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Orijinal gönderi](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Kaynak kodu](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Canlı demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096593372311941143"></a>
-
-### Totality Engine: Sinematik Tutulma Katedrali
-
-[Chris W](https://x.com/Chris_Wozniczek) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/totality-engine-cinematic-eclipse-cathedral-2096593372311941143"><img src="../assets/previews/52de12ef7c4dd44ec548962b86297e175683992ebdfdd2665699a18fe86bb9ca.jpg" width="840" loading="lazy" alt="Totality Engine: Sinematik Tutulma Katedrali"></a>
-
-Anıtsal bir astronomik saat, yönetilmiş kamera geçişleri, prosedürel su, cam gezegenler ve tutulma aydınlatmasıyla su basmış gotik bir katedralin içinde geçen 32 saniyelik döngülü bir film için eksiksiz Three.js/WebGL istemi. Chris W, bir Astra çalışması ve diğer modellerle karşılaştırmasını yayımladı.
-
-**İstem**
-
-```text
-Şu adla cilalı, görsel açıdan etkileyici ve kendi içinde çalışan, tek dosyalık bir HTML/WebGL deneyimi oluşturun:
-
-totality-engine.html bunu documents/llm-benchmarks içine koyun
-
-Fikri yalnızca açıklamayın. Eksiksiz ve çalışan HTML dosyasını gerçekten oluşturup geçerli dizine kaydedin.
-
-Bir sandbox diyoraması değil, 32 saniyelik döngülü sinematik bir kısa film oluşturun. Ürünün kendisi kamera performansıdır. Etkileşim, film bir kez oynatıldıktan sonra sunulan ek bir özelliktir.
-
-Dünya:
-Güneş tutulmasının tamlık evresinde suya gömülmüş gotik bir katedral. Siyah su, nef zeminini kaplar. Transepti dolduran anıtsal pirinç astronomik saat Totality Engine'dir: iç içe orrery halkaları, cam gezegenler, siyah güneş çekirdeği ve altın bağlantı parçalarına sahip, 40 metre uzunluğunda koyu mermer bir sarkaç. Islak kireç taşı, verdigris, mum alevleri ve altın tozu. Her şey prosedürel kodla oluşturulmalıdır. Harici model, doku, görsel, dosya olarak yazı tipi veya ses kullanmayın.
-
-Yönetilmiş film (tek saat, adlandırılmış sekanslar, kesintisiz döngü):
-
-0,0–4,0 sn TOZ
-Aşırı yakın plan. Tek bir toz zerresi kırmızı-altın renkli bir ışık huzmesinde dönüyor. Bağlam neredeyse yok. Yavaş ileri kamera hareketi.
-
-4,0–10,0 sn NEF
-Geri çekilin ve yükselin. Katedralin transeptinde, siyah suyun diz hizasına kadar içindeyiz. Kaburgalı tonozlar sisin içinde geriye doğru uzanıyor. Sarkaç soldan kadraja giriyor; ağır ve yavaş hareket ederek kütlesini hissettirecek kadar yakından geçiyor. Su halkaları kameradan dışarı doğru yayılıyor.
-
-10,0–18,0 sn YÜKSELİŞ
-Sarkacın yukarı yönlü salınımını takip edin. Tonozdaki orreryyi ortaya çıkarın: farklı eğimlerde en az dört iç içe pirinç halka, atmosferleri birbirinden farklı üç cam gezegen (biri bulutlu, biri halkalı, biri fırtına bantlı) ve siyah güneş çekirdeği. Triforyum boyunca mum kümeleri. Altın tozu yerçekimine karşı yukarı doğru düşüyor.
-
-18,0–24,0 sn GEÇİŞ
-Kamera orrerynin içinden geçsin. Halkalı gezegenin camından geçin (şeffaflık hilesi değil, kırılma kullanın), bir an için halka düzlemini takip edin ve siyah güneşe doğru çıkın. Sarkacın bir sonraki salınımı, ışığı çevresinde zayıf bir kütleçekimsel mercek gibi büksün.
-
-24,0–30,0 sn TAMLIK
-Korona, en dıştaki orrery çarkına dönüşen beyaz-altın bir ateş halkası halinde patlasın. İşitiliyormuş hissi veren tek bir saat tıkırtısı: tüm halkalar kusursuz bir hizaya gelecek şekilde bir anda otursun, ardından korona sabit kalsın. Beyaza geçiş yapmayın. Tüm makinenin siluetini ateş halkasının önünde tutun.
-
-30,0–32,0 sn KODA
-Kare 0'la eşleşen yavaş bir devam hareketine yumuşakça geçin; böylece döngü görünmez olsun. Ani kesme kullanmayın.
-
-İlk tam oynatmadan sonra sürükleyerek yörüngede dolaşmayı, fare tekerleğiyle yakınlaşıp uzaklaşmayı ve "Filmi yeniden oynat" kontrolünü etkinleştirin. Duraklat düğmesi her zaman çalışmalıdır. İsteğe bağlı: 1–5 tuşları sekans başlangıçlarına atlasın.
-
-Sahne tasarımı:
-- Belirgin bir ön plan / orta plan / arka plan oluşturun. NEF sekansında sarkaç ön planda yer alsın. Tonozlar ve sis derinliği taşısın.
-- Makinenin devasa ölçekte algılanması için insan ölçeğinde en az iki referans kullanın (suya gömülmüş bir sıra, devrilmiş bir sivri kule veya mum sırası).
-- Su gerçek bir malzeme olsun: orrerrynin yansımaları, hafif bir fresnel etkisi, yavaş yer değiştirme ve sarkaçla kameranın oluşturduğu halkalar.
-- Cam gezegenler parlayan küreler değil, kalın camdan oluşsun. En az birinin içinden bozulmuş bir katedral görünmelidir.
-- Pirinç ağır ve yoğun görünsün: gölgede koyu, yalnızca kenarları korona ışığını yakalasın.
-- Mum alevleri ve altın tozu instancing ile oluşturulsun. Toz yalnızca YÜKSELİŞ ve TAMLIK sırasında yukarı doğru çekilsin.
-- Kaburgalı tonozlar, uçan payanda siluetleri ve uzak duvarda siyah güneşle hizalanmış dev dairesel gül pencere / tutulma açıklığı kullanın.
-- Sınırlı ve sabit palet: ıslak kireç taşı #8a8680, pirinç #c4a574, verdigris #2f6f66, tutulma koyu kırmızısı #6b1020, korona #ffe9c2, siyah su #05070c, altın tozu #e6c27a. Camgöbeği yok, macenta yok, neon yok, gökkuşağı yok, mor-siyah "AI görünümü" yok.
-- Tipografi: küçük bir "TOTALITY ENGINE" başlığı ve sekans adı kullanın; görünüm sinematik olsun, kontrol paneli gibi olmasın.
-
-Teknik gereksinimler:
-- Kararlı bir CDN üzerinden Three.js kullanın. Tüm HTML, CSS ve JS tek dosyada olsun.
-- Tüm animasyonları adlandırılmış sekans aralıklarına sahip tek bir geçen süre saatiyle yönetin. Bağımsız Math.random döngüleri, shader'larda Date.now veya tohumlanmamış gürültü kullanmayın. Yalnızca tohumlanmış RNG kullanın; sabit tohum 0xA2E1.
-- Kamera filmi, büyük hareketlerde ease-in-out kullanan yumuşak enterpolasyonla ilerlesin; sarkaçta daha ağır bir easing kullanın (kütlesi var) ve TAMLIK sekansına uzun kuyruklu bir yerleşmeyle girsin. Ana kamera hareketi olarak doğrusal yörünge kullanmak başarısız sayılır.
-- Rol yapıyormuş gibi görünen hazır malzemeler yerine özel GLSL kullanın (ShaderMaterial veya tam ekran geçişi):
-1. Su (yansıma + fresnel + yavaş yer değiştirme)
-2. Siyah güneş koronası (sprite değil, ateş / plazma)
-3. Sarkaç merceklenmesi (GEÇİŞ sırasında bobun yakınında ışık bükülmesi)
-4. En az bir gezegen için kalın cam
-- Toz, mumlar ve tekrarlanan taş/pirinç hücreleri için InstancedMesh kullanın. Binlerce bağımsız Mesh nesnesi oluşturmayın.
-- Post-processing kullanılabilir ancak aydınlatmanın yerini alamaz. Bloom kullanırsanız yalnızca koronaya ve mumlara hafifçe uygulayın. Tüm sahne üzerinde UnrealBloom kullanmak başarısız sayılır.
-- Atmosferi sis, ıslak yansımalar ve tutulma açıklığı oluştursun. Gerçekten bir shader tarafından yönlendirilmiyorsa ucuz şeffaf konileri "tanrı ışınları" olarak kullanmayın.
-- Duyarlı tasarım kullanın, tarayıcı penceresinin tamamını kaplayın, yeniden boyutlandırmayı yönetin ve 2023 model bir dizüstünde 60 fps hedefleyin. Seçim yapmak zorundaysanız kamera filmini kısmadan önce parçacık sayısını azaltın.
-- Küçük ve göze batmayan bir arayüz kullanın: başlık, geçerli sekans, duraklatma, yeniden oynatma. FPS sayacı, dat.gui veya açık bırakılmış hata ayıklama yardımcıları kullanmayın.
-- TODO yorumları, sözde kod, yer tutucular, eksik işlevler veya "X ile daha iyi olurdu" ifadeleri kullanmayın.
-- Yükleme sırasında film kendiliğinden başlasın. Başlat düğmesinin arkasında sabit bir kare bırakmak başarısız sayılır.
-
-Kalite ölçütü:
-Bu, bir three.js örneği değil, kısa film karesi gibi görünmeli. 26. saniyede alınan bir ekran görüntüsü "tutulma anındaki katedral büyüklüğünde saat" izlenimini vermiyorsa işiniz bitmiş değildir. Daha fazla nesne eklemeden önce kompozisyonu, malzemeleri ve kamerayı iyileştirin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/totality-engine-cinematic-eclipse-cathedral-2096593372311941143) · [Orijinal gönderi](https://x.com/Chris_Wozniczek/status/2096593372311941143) · [Canlı demo](https://chris-website-theta.vercel.app/astra-xhigh-totality-engine.html) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -4042,6 +3960,65 @@ Three.js'te WALL-E için 3B model oluşturun.
 
 ---
 
+<a id="bubble-bay"></a>
+
+### Bubble Bay: 3B Su Balonu Savaşı
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-22
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/bubble-bay"><img src="../assets/previews/5158051d1bd3d80bc65cbfdd00a31c6e9c048c21f0e18ed7b1826972c94b6b5d.webp" width="840" loading="lazy" alt="Bubble Bay: 3B Su Balonu Savaşı"></a>
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/bubble-bay"><img src="../assets/previews/ceda95626d7f2a404ab04a28ea483f2da5eb9cc367184a09da386305cc85539a.png" width="840" loading="lazy" alt="Bubble Bay: 3B Su Balonu Savaşı"></a>
+
+Su balonları, zıplama, yapay zekâ rakipler ve animasyonlu kendi karakterinizle güneşli bir 3B avluda savaş oyunu oluşturun. Tripo modelleri ile geometrik Three.js sürümü arasında geçiş yapın.
+
+**İstem**
+
+```text
+1. Projenin amacı
+Bubble Bay’i, güneşli bir oyuncak kasabası avlusunda oynanabilen bir 3B su balonu savaşı olarak oluşturun. Oyuncu, iki kırmızı takım yapay zekâ rakibine karşı mavi takım karakterini kontrol eder. Koridorlarda koşun, kasaları kırın, güçlendirmeleri toplayın, platformlara zıplayın ve rakipleri baloncuklarla tuzağa düşürün. Üç dakikalık maç içinde rakip takımı üç kez yakalayarak kazanın. Görsel modların karşılaştırmasını görünür biçimde sunan eksiksiz bir Three.js oyunu ve kişisel rig’li bir karakteri maça dahil etmeye yönelik bir atölye teslim edin.
+
+2. Görsel yön
+Ekli avlu ekran görüntülerini ve oynanış kaydını hedef sürüm olarak kullanın. Yaklaşık 51 derecelik görüş alanına sahip, karakteri yukarıdan ve arkadan yumuşak biçimde takip eden yakın üçüncü şahıs kamera oluşturun. Oynanabilir alan ekranı doldursun. Krem renkli taş döşemeler, bal sarısı ahşap kasalar, kırmızı tuğlalı çiçek saksıları, mavi ve pişmiş toprak kiremitli kır evleri, yuvarlak yeşil ağaçlar ve küçük çiçek kümeleri kullanın. Üç karakterin kolayca ayırt edilebilen silüetleri, yumuşak gölgelendirilmiş ve dokulu yüzeyleri olsun. Sıcak yönlü güneş ışığı, yumuşak temas gölgeleri, hafif sis, ölçülü bloom benzeri su yansımaları ve saydam mavi baloncuklar ekleyin. Skorları, zamanlayıcıyı, kontrolleri ve rakipleri ayrıntılı sahne üzerinde okunaklı tutun.
+Ana ekranın sol tarafında kompakt bir karakter seçici, üç özellik göstergesi, zorluk seçenekleri ve belirgin bir başlat düğmesi bulunsun. Tripo ve Three.js görsel modlarını üst orta kısımda öne çıkarın; etiketleri, seçili durum görünümünü ve görünen modelleri birlikte değiştirin. Varsayılan mod Tripo olsun. Oynanış sırasında arayüzü takım skorları, zamanlayıcı, oyuncu işareti, anlık özellikler ve kontrol ipuçlarıyla sınırlayın. Skorları, en iyi sonucu, yeniden oynatma ve karakter atölyesi işlemlerini içeren ortalanmış bir sonuç paneli kullanın.
+
+3. Dünya ve yerleşim
+Yaklaşık 22’ye 24 dünya birimi ölçülerinde, hücreleri 2 birim aralıklı dikdörtgen bir avlu oluşturun. Ortada kuzey-güney yönünde açık bir koridor ve güney kenarına yakın güvenli bir başlangıç alanı bırakın. Birbirine bağlı rotalar boyunca sağlam çiçek saksılarıyla yok edilebilir kasaları dönüşümlü yerleştirin. Oyun alanını kapatmadan çevreye kır evleri, ağaçlar ve çiçekler serpiştirin. Ayrıntılı dekoratif ağlardan bağımsız basit çarpışma hacimleri kullanın. Saksıların destek yüksekliği 1.02 birim, kasalarınki 1.72 birim olsun. Karakter gerçekten üstlerine inebilmeli ve kenarlarından yürüyerek ayrıldığında düşmeli. Kırılan kasalar yok olarak yeni rotalar açmalı. Oyuncuyu güneye, iki rakibi kuzey yarısına yerleştirin. Başlangıçta ulaşılabilir güçlendirmeler sağlayın ve kasaların yerleşimini maçlar arasında değiştirin.
+
+4. Varlık envanteri
+Tutarlı sınır ölçüleri, yönlendirme ve zemin pivotları olan, bağımsız ve değiştirilebilir GLB yuvaları kullanın. Önceliği karakterlere, ardından tekrarlanan kasalara ve kır evlerine, sonra bitki örtüsüne verin.
+- hero: Yuvarlak kafalı ve kompakt gövdeli, varsayılan mavi çizgi film maceracısı Blue. Tek bir rig’li karakter varlığı; varsayılan olarak mavi takım oyuncusu. Boşta durma, koşma ve zıplama animasyonlarını destekleyin.
+- mint: Başında pembe ayrıntılar bulunan, küçük turkuaz renkli fantastik yaratık Mint. Tek bir rig’li karakter varlığı; oyuncu tarafından seçilebilmeli ve rakip olarak kullanılabilmeli. Boşta durma ve koşma animasyonlarını destekleyin.
+- mango: Krem rengi yüzü ve karnı olan, turuncu hayvan görünümlü maskot Mango. Tek bir rig’li karakter varlığı; oyuncu tarafından seçilebilmeli ve rakip olarak kullanılabilmeli. Boşta durma ve koşma animasyonlarını destekleyin.
+- cottage: Kalın kiremitli eğimli çatısı ve küçük, krem duvarlı bir kır evi. Sınır boyunca tekrarlayın; geometrisini yeniden kullanın ve mavi ya da pişmiş toprak çatı varyantları uygulayın.
+- crate: Tahta ayrıntıları ve sağlam bir silüeti olan bal rengi ahşap kasa. Yok edilebilir hücreler boyunca tekrarlayın; kırıldığında veya farklı açılardan görüldüğünde iç kısmı kapalı ve görünür kalsın.
+- tree: Kalın gövdeli, yuvarlak katmanlı yapraklara sahip kısa, stilize ağaç. Avlu sınırının arkasında tekrarlayın.
+- bush: Küçük renkli çiçekleri olan alçak yeşil bitki örtüsü. Saksıların içinde ve evlerin çevresinde tekrarlayın.
+Zemin döşemelerini, saksı tuğlalarını, gökyüzünü, ışıkları, çarpışma temsillerini, baloncukları, haç biçimli su patlamalarını, parçacıkları, toplanabilir nesneleri ve tüm arayüz öğelerini prosedürel oluşturun. Three.js modu için sahnenin ve karakterlerin eşleşen geometrik sürümlerini sağlayın. Görsel modlar arasında geçiş yapmak maç durumunu, konumları, zamanlayıcıyı ve skorları korumalıdır.
+
+5. Oynanış ve geri bildirim
+Delta time kullanan sürekli hareket, normalize edilmiş çapraz hareket hızı, çarpışmalar ve akıcı takip kamerası uygulayın. Klavye: hareket için WASD veya ok tuşları; baloncuk yerleştirmek için F; zıplamak için Space; kamerayı döndürmek için Q/E; sahneyi sürüklemek kamera yönünü ve eğimini ayarlar; Esc oyunu duraklatır; Shift, 4 saniyelik bekleme süresi olan 0,3 saniyelik atılmayı tetikler. Dokunmatik ekranlarda aynı anda çalışabilen sol joystick ile sağ tarafta ayrı baloncuk ve zıplama düğmeleri sağlayın.
+Bir baloncuk, 2,5 saniye boyunca bir zemin hücresini kaplar ve ardından dört ızgara yönünde haç biçimli su patlaması gönderir. Sağlam saksılar ve sınırlar patlamayı durdurur. Her yönde çarpılan ilk kasa kırılır ve patlamanın o kolunu durdurur. Yakındaki baloncuklar zincirleme tepkimeye girer. Baloncuğu yeni yerleştiren oyuncunun ondan uzaklaşmasına izin verin, ancak içinden geri yürümesini engelleyin. Etkin baloncuk kapasitesine uyun ve karakter yerden havadayken baloncuk yerleştirilmesini yasaklayın.
+Su, karakteri 3,5 saniye boyunca tuzağa düşürür. Space tuşuna dört ayrı kez basmak karakteri serbest bırakır; X tuşu maç başına bir kurtarma iğnesi tüketerek anında kaçışı sağlar. Rakip bir karakter tuzağa düşmüş karaktere dokunursa onu hemen yakalar; aksi hâlde tuzağın süresi dolduğunda rakip takıma bir yakalama puanı verilir ve kurban yeniden doğar. Kırmızı takım arkadaşları birbirlerini yakalayamaz veya hasar veremez. Kendi kendini tuzağa düşürme durumunda da süre dolarsa rakip takıma puan verilir. Yüksekten yapılan zıplamalar ve platform üstleri alçak su patlamalarından kaçınabilir.
+Başlangıç profilleri: Blue’da 2 baloncuk, 2 menzil ve 4.25 hareket hızı; Mint’te 1 baloncuk, 2 menzil ve 5.15 hız; Mango’da 1 baloncuk, 3 menzil ve 4.55 hız bulunur. Baloncuk, menzil ve hız güçlendirmeleri ilgili özellikleri geliştirir. Okunaklı güçlendirme geri bildirimi ve duyarlı su, hareket, zıplama, tuzağa düşme ve yakalama efektleri gösterin. Sessize alma kontrolü bulunan kısa sentezlenmiş ses efektleri ekleyin.
+Üç yakalamaya ilk ulaşan takım kazanır. 180. saniyede takım skorlarını karşılaştırın; skorlar eşitse maç berabere biter. Hareket eden, tehlikeden kaçınan, baloncuk yerleştiren ve yakalama peşinde koşan kolay ve normal zorlukta rakipler ekleyin. Duraklatma simülasyonu dondurur; yeniden oynatma maçı sıfırlar. En iyi sonucu yerel olarak kaydedin.
+
+6. Teknik uygulama ve karakter atölyesi
+Three.js 0.180, JavaScript ES modülleri ve Vite kullanın. Simülasyonu, sahne oluşturmayı, model yüklemeyi, giriş/arayüz işlemlerini ve çevirileri birbirinden ayırın. Çalışma zamanı bağımlılıklarını, GLB dosyalarını, dokuları ve bildirimleri aynı kaynaklı statik dosyalar olarak paketleyin; oyun için hesap veya sunucu gerektirmeyin. Rig’li modellerde GLTFLoader, SkeletonUtils klonlama ve AnimationMixer kullanın; tekrarlanan çevre varlıkları için havuzlanmış veya yeniden kullanılan geometri ve materyallerden yararlanın. Teslim edilen projede Tripo P2 tarafından oluşturulmuş karakter ve çevre varlıkları kullanılır; bunların kaynağını koruyun, iskeletlerinin ve gömülü animasyonlarının çalışır durumda kalmasını sağlayın.
+Çince, İngilizce ve Korece arayüzler sağlayın. Geçerli ve kaydedilmiş manuel dil seçimi her zaman önceliklidir. Aksi hâlde cihazın IANA saat dilimini kullanın: Asia/Shanghai ve Asia/Urumqi gibi Çin ana karası saat dilimleri Çinceyi; Asia/Seoul ve Asia/Pyongyang Koreceyi; Hong Kong, Makao, Tayvan ve diğer ya da kullanılamayan tüm saat dilimleri İngilizceyi seçer. Eski takma adları tutarlı biçimde işleyin. Çin ana karasını UTC farkından veya tarayıcı dilinden çıkarsamayın. Otomatik seçimi manuel tercih olarak kaydetmeyin.
+Atölye, gömülü dokular içeren ve boyutu 40 MB’a kadar olan bir GLB kabul etmeli; karakteri eklemeden önce gerçek skinning, iskelet, eklem ve ağırlık verilerini doğrulamalıdır. Rig’lenmemiş statik modelleri açık bir açıklamayla reddedin. Modeli tarayıcıda yerel olarak ayrıştırın. Aynı dosyanın aynı dengeli özellikleri alması için dosya içeriği özetinden kararlı bir başlangıç profili türetin. 90 derecelik yön ayarı sağlayın.
+Rigging ve skinning işlemlerinin gerekli, ancak desteklenen standart humanoid iskeletler için ayrı animasyon kliplerinin isteğe bağlı olduğunu açıklayın: gömülü idle/run/walk/jump kliplerini tercih edin; bunlar yoksa tanınabilir uzuv kemikleri üzerinden temel boşta durma ve yürüme animasyonlarını yönetin. Tanınmayan veya humanoid olmayan rig’lerde kullanılabilir animasyon klipleri bulunmalıdır. Rastgele iskeletler için otomatik animasyon sözü vermeyin. Desteklenmeyen sıkıştırılmış GLB biçimlerini ve standart, sıkıştırılmamış bir dosyanın nasıl dışa aktarılacağını açıklayın. Yüklenen karakterlerin yenilemeden sonra yeniden seçilmesi gerekir.
+Şu öğeye bağlanan belirgin bir karakter oluşturma işlemi sunun: https://studio.tripo3d.ai/?utm_source=satellite_invite&utm_medium=bubble-bay&utm_campaign=create-character . Oluşturma, rigging, dışa aktarma ve oyuna dönme adımlarını açıklayın. İlk maçı engellemek yerine bu yardımı atölyede tutun.
+
+7. Kabul ve teslim
+Düzenlenebilir kaynak kodu, bağımlılık kilit dosyasını, README’yi, yerel çalıştırma talimatlarını, üretime hazır statik derlemeyi ve erişilebilir bir oynanabilir URL’yi teslim edin. Ana ekranı, aktif savaşı, tuzağa düşme durumunu, su patlamasını, platforma inişi, sonucu, duraklatmayı ve yeniden oynatmayı doğrulayın. Oynanışı sıfırlamadan Tripo/Three.js farklarının görünür olduğunu onaylayın. Gerçek klavye girişini ve dokunmatik emülasyonu test edin; eşzamanlı hareket ile baloncuk yerleştirme de dahil olsun. Emülasyonu dürüstçe etiketleyin ve fiziksel cihaz kapsamı iddiasında bulunmayın. Karakter içe aktarmayı rig’lenmemiş bir modelin reddedilmesi, animasyonlu bir rig ve klipsiz desteklenen bir rig ile test edin. Çin ana karası/Hong Kong/Makao/Tayvan/Kore/diğer saat dilimlerini ve manuel seçim kalıcılığını kontrol edin. Gerçek barındırılan sayfayı, aynı kaynaklı varlıkları, atölye bağlantısını ve gömülü kullanımı doğrulayın. Teslim edilen avlu sürümüyle eşleşen gerçek bir oynanış kaydını ve temsili ekran görüntülerini koruyun; önceki uzak ada yerleşimiyle değiştirmeyin. Yazar/kaynak atıflarını ve üçüncü taraf lisans bildirimlerini koruyun; referans sitesinin varlıklarını yeniden dağıtmayın.
+
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/bubble-bay) · [Canlı demo](https://bubble-bay.tripo.page/) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="odd-arms"></a>
 
 ### ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu
@@ -4307,7 +4284,7 @@ Kaynak kodu, lockfile’ı, npm geliştirme/derleme komutlarını ve statik çı
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 263 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 264 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

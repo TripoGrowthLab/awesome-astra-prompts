@@ -27,7 +27,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**263 examples · 14 languages · 12 examples with source code**
+**264 examples · 14 languages · 12 examples with source code**
 
 ## Featured projects
 
@@ -55,7 +55,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Interactive 3D Anatomy Explorer](#2099206962344800541) · GitHub
 - [Isometric fantasy graphics demo](#2100271998618177864) · GitHub
 - [Mosswing: Mobile 3D Tap-to-Flap Game](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Totality Engine: Cinematic Eclipse Cathedral](#2096593372311941143)
 - [Create CS2 in Three.js](#2096596888799895855)
 - [Folding Carton Animation from a Dieline](#2096612394281603144)
 - [Windhaven Coastal Fantasy Adventure Game](#2096629506047955327)
@@ -145,6 +144,7 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [3D model of a Waymo Jaguar I-Pace](#2101325346427842909)
 - [Sailboat on Open Water](#2101616345720787130)
 - [Create a 3D model of WALL-E in Three.js](#2101687900723106104)
+- [Bubble Bay: 3D Water Balloon Battle](#bubble-bay)
 - [ODD ARMS — Weird Weapons Survival Game](#odd-arms)
 - [TITANIC — The Last Light](#titanic-the-last-light)
 - [AKARI: Nagoya Rooftop Flame Relay](#akari-nagoya-rooftop-flame-relay)
@@ -325,88 +325,6 @@ Remaster the classic "tap-to-flap" game — the one where you tap to keep a smal
 ```
 
 [View detail ↗](https://www.tripo3d.ai/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Original post](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Source code](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Live demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Back to examples](#all-prompts)
-
----
-
-<a id="2096593372311941143"></a>
-
-### Totality Engine: Cinematic Eclipse Cathedral
-
-[Chris W](https://x.com/Chris_Wozniczek) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/3d-prompts/totality-engine-cinematic-eclipse-cathedral-2096593372311941143"><img src="../assets/previews/52de12ef7c4dd44ec548962b86297e175683992ebdfdd2665699a18fe86bb9ca.jpg" width="840" loading="lazy" alt="Totality Engine: Cinematic Eclipse Cathedral"></a>
-
-A complete Three.js/WebGL prompt for a 32-second looping film inside a flooded gothic cathedral, with a monumental astronomical clock, directed camera beats, procedural water, glass planets and eclipse lighting. Chris W published an Astra run and a comparison with other models.
-
-**Prompt**
-
-```text
-Create a polished, visually impressive, self-contained single-file HTML/WebGL experience called:
-
-totality-engine.html put it in documents/llm-benchmarks
-
-Do not just describe the idea. Actually generate the complete working HTML file and save it to the current directory.
-
-Build a 32-second looping cinematic short, not a sandbox diorama. The product is the camera performance. Interaction is a bonus after the film has played once.
-
-World:
-A drowned gothic cathedral at solar-eclipse totality. Black water covers the nave floor. Filling the crossing is a monumental brass astronomical clock, the Totality Engine: nested orrery rings, glass planets, a black-sun core, and a 40-meter dark-marble pendulum with gold fittings. Wet limestone, verdigris, candle flames, and gold dust. Everything is procedural code. No external models, textures, images, fonts as files, or audio.
-
-Directed film (one clock, named beats, seamless loop):
-
-0.0–4.0s DUST
-Extreme close-up. One dust mote turns in a shaft of red-gold light. Almost no context. Slow push.
-
-4.0–10.0s NAVE
-Pull back and rise. We are knee-deep in black water in the cathedral crossing. Rib vaults recede into fog. The pendulum enters frame from the left, heavy, slow, and passes close enough to feel its mass. Water rings spread from the camera.
-
-10.0–18.0s ASCENT
-Ride the pendulum's upswing. Reveal the orrery in the vault: at least four nested brass rings at different inclinations, three glass planets with distinct atmospheres (one cloudy, one ringed, one storm-banded), and the black-sun core. Candle clusters along the triforium. Gold dust falls upward against gravity.
-
-18.0–24.0s THREAD
-Camera threads the orrery. Pass through the glass of the ringed planet (refraction, not a transparency hack), ride its ring plane for a beat, exit toward the black sun. The pendulum's next swing warps the light around it like a weak gravitational lens.
-
-24.0–30.0s TOTALITY
-Corona detonates into a ring of white-gold fire that becomes the outermost orrery wheel. One audible-feeling clock tick: every ring snaps into a perfect alignment, then the corona holds. Do not fade to white. Hold the silhouette of the whole machine against the fire-ring.
-
-30.0–32.0s CODA
-Ease into a slow continuation that matches frame 0, so the loop is invisible. No smash cut.
-
-After the first full play, enable drag-to-orbit, scroll-wheel zoom, and a "Replay film" control. A Pause button always works. Optional: keys 1–5 jump to beat starts.
-
-Scene craft:
-- Strong foreground / midground / background. The pendulum occupies foreground in NAVE. Vaults and fog hold the depth.
-- At least two human-scale references (a drowned pew, a fallen spire, a row of candles) so the machine reads as enormous.
-- Water is a real material: reflections of the orrery, a faint fresnel, slow displacement, the rings from the pendulum and the camera.
-- Glass planets are thick glass, not glowing balls. You should see a distorted cathedral through at least one of them.
-- Brass has weight: dark in shadow, only the rims catching corona light.
-- Candle flames and gold dust are instanced. Dust is pulled upward only during ASCENT and TOTALITY.
-- Rib vaults, flying-buttress silhouettes, and a giant circular rose-window / eclipse aperture in the far wall, aligned with the black sun.
-- Limited palette, locked: wet limestone #8a8680, brass #c4a574, verdigris #2f6f66, eclipse crimson #6b1020, corona #ffe9c2, black water #05070c, gold dust #e6c27a. No cyan, no magenta, no neon, no rainbow, no purple-on-black "AI look".
-- Typography: one small title "TOTALITY ENGINE" and beat name, filmic, not a dashboard.
-
-Technical requirements:
-- Three.js from a stable CDN. All HTML, CSS, and JS in this one file.
-- Drive every animation from a single elapsed-time clock with named beat windows. No independent Math.random loops, no Date.now in shaders, no unseeded noise. Seeded RNG only, seed constant 0xA2E1.
-- Camera film uses smooth interpolation with ease-in-out on the big moves, a heavier ease on the pendulum (it has mass), and a long-tail settle into TOTALITY. Linear orbit as the primary camera is a fail.
-- Custom GLSL (ShaderMaterial or full-screen pass), not stock materials pretending:
-1. Water (reflection + fresnel + slow displacement)
-2. Black-sun corona (fire / plasma, not a sprite)
-3. Pendulum lensing (light bends near the bob during THREAD)
-4. Thick glass for at least one planet
-- InstancedMesh for dust, candles, and any repeated stone/brass cells. Do not spawn thousands of free Mesh objects.
-- Post-processing is allowed but cannot replace lighting. If you use bloom, it is a light touch on the corona and candles only. UnrealBloom over the whole scene is a fail.
-- Fog, wet reflections, and the eclipse aperture do the atmosphere. No cheap transparent cones as "god rays" unless they are actually driven by a shader.
-- Responsive, full browser window, handle resize, target 60fps on a 2023 laptop. If you have to choose, cut particle count before cutting the camera film.
-- Small unobtrusive UI: title, current beat, pause, replay. No FPS counter, no dat.gui, no debug helpers left on.
-- No TODO comments, pseudocode, placeholders, missing functions, or "this would be better with X".
-- On load, the film starts itself. A still frame behind a start button is a fail.
-
-Quality bar:
-This should look like a short film still, not a three.js example. If a screenshot at 26 seconds does not read as "cathedral-sized clock at the moment of eclipse," you are not done. Iterate on composition, materials, and camera before adding more objects.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/totality-engine-cinematic-eclipse-cathedral-2096593372311941143) · [Original post](https://x.com/Chris_Wozniczek/status/2096593372311941143) · [Live demo](https://chris-website-theta.vercel.app/astra-xhigh-totality-engine.html) · [Back to examples](#all-prompts)
 
 ---
 
@@ -4083,6 +4001,65 @@ create a 3d model of wall-e in three.js.
 
 ---
 
+<a id="bubble-bay"></a>
+
+### Bubble Bay: 3D Water Balloon Battle
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-22
+
+<a href="https://www.tripo3d.ai/3d-prompts/bubble-bay"><img src="../assets/previews/5158051d1bd3d80bc65cbfdd00a31c6e9c048c21f0e18ed7b1826972c94b6b5d.webp" width="840" loading="lazy" alt="Bubble Bay: 3D Water Balloon Battle"></a>
+
+<a href="https://www.tripo3d.ai/3d-prompts/bubble-bay"><img src="../assets/previews/ceda95626d7f2a404ab04a28ea483f2da5eb9cc367184a09da386305cc85539a.png" width="840" loading="lazy" alt="Bubble Bay: 3D Water Balloon Battle"></a>
+
+Build a sunny 3D courtyard battle with water balloons, jumping, AI opponents and your own animated character. Switch between Tripo models and a geometric Three.js version.
+
+**Prompt**
+
+```text
+1. Project goal
+Build Bubble Bay, a playable 3D water-balloon battle in a sunny toy-town courtyard. The player controls one blue-team character against two red-team AI opponents. Run through lanes, break crates, collect upgrades, jump onto platforms and trap opponents in bubbles. Win by capturing the opposing team three times within a three-minute match. Deliver a complete Three.js game with a visible visual-mode comparison and a workshop for bringing a personal rigged character into the match.
+
+2. Visual direction
+Use the attached courtyard screenshots and gameplay recording as the target version. Create a close third-person perspective camera, approximately 51 degrees field of view, smoothly following the character from above and behind. Make the playable space fill the screen. Use cream stone paving, honey-yellow wooden crates, red-brick flower planters, blue and terracotta cottage roofs, rounded green trees and clusters of small flowers. Give the three characters readable silhouettes and softly shaded, textured surfaces. Add warm directional sunlight, soft contact shadows, gentle fog, restrained bloom-like water highlights and transparent blue bubbles. Keep scores, timer, controls and opponents readable against the detailed scene.
+The home screen overlays a compact left-side character selector, three attribute indicators, difficulty choices and a strong start button. Place Tripo and Three.js visual modes prominently at the top center; switch labels, selected styling and visible models together. Default to Tripo mode. During play, reduce the interface to team scores, timer, player marker, live attributes and control hints. Use a centered result panel with scores, best result, replay and character-workshop actions.
+
+3. World and layout
+Build a rectangular courtyard roughly 22 by 24 world units with cells spaced 2 units apart. Keep a clear central north-south lane and a safe starting area near the southern edge. Alternate solid flower planters and destructible crates around connected routes. Scatter cottages, trees and flowers around the perimeter without obscuring the play area. Use simple collision volumes independent of detailed decorative meshes. Planters have a support height of 1.02 units and crates 1.72 units. The character must actually land on their tops and fall when walking off. Crates disappear when destroyed, opening new routes. Spawn the player near the south and two opponents in the northern half. Provide reachable initial upgrades and vary crate placement between matches.
+
+4. Asset inventory
+Use independent replaceable GLB slots with consistent bounds, orientation and ground pivots. Prioritize characters, then repeated crates and cottages, then vegetation.
+- hero: Blue, the default blue cartoon adventurer with a rounded head and compact body. One rigged character asset, blue-team player by default; support idle, run and jump.
+- mint: Mint, a small turquoise fantasy creature with pink head accents. One rigged character asset, selectable by the player and usable by an opponent; support idle and run.
+- mango: Mango, an orange animal-like mascot with a cream face and belly. One rigged character asset, selectable by the player and usable by an opponent; support idle and run.
+- cottage: A small cream-walled cottage with a chunky tiled pitched roof. Repeat around the boundary; reuse geometry and apply blue or terracotta roof variants.
+- crate: A honey-colored wooden box with plank detail and a sturdy silhouette. Repeat across destructible cells; keep a closed visible interior when broken or seen from different angles.
+- tree: A short stylized tree with a thick trunk and rounded layered foliage. Repeat behind the courtyard boundary.
+- bush: Low green vegetation with small colorful flowers. Repeat inside planters and around houses.
+Keep ground paving, planter brickwork, sky, lights, collision proxies, bubbles, cross-shaped water bursts, particles, pickups and all interface elements procedural. Provide matching geometric versions of the scene and characters for the Three.js mode. Swapping visual modes must preserve match state, positions, timer and scores.
+
+5. Gameplay and feedback
+Use continuous movement with delta time, normalized diagonal speed, collisions and a smooth follow camera. Keyboard: WASD or arrows to move; F places a bubble; Space jumps; Q/E rotates the camera; dragging the scene adjusts camera direction and pitch; Esc pauses; Shift triggers a 0.3-second dash with a 4-second cooldown. On touch screens provide a left joystick plus separate right-side bubble and jump buttons that work simultaneously.
+A bubble occupies a ground cell for 2.5 seconds, then sends a cross-shaped water burst along four grid directions. Solid planters and boundaries stop it. The first crate hit in each direction breaks and stops that arm of the burst. Nearby bubbles chain-react. Allow the owner to leave a newly placed bubble but prevent walking back through it. Respect active-bubble capacity and prohibit placement while above ground.
+Water traps a character for 3.5 seconds. Four separate Space taps release the character; X consumes one rescue needle per match for immediate escape. An opposing character touching a trapped character captures them immediately; otherwise the trap timeout awards the opposing team a capture and respawns the victim. Red teammates do not capture or damage each other. Self-trapping still awards the opposing team if it times out. Elevated jumps and platform tops can avoid low water bursts.
+Initial profiles: Blue has 2 bubbles, range 2 and movement speed 4.25; Mint has 1 bubble, range 2 and speed 5.15; Mango has 1 bubble, range 3 and speed 4.55. Bubble, range and speed pickups improve the corresponding attributes. Show readable pickup feedback and responsive water, movement, jump, trapping and capture effects. Add short synthesized sound effects with a mute control.
+The first team to 3 captures wins. At 180 seconds compare team scores; equal scores produce a draw. Include easy and normal opponents that move, avoid danger, place bubbles and pursue captures. Pause freezes the simulation; replay resets the match. Save the best result locally.
+
+6. Technical implementation and character workshop
+Use Three.js 0.180, JavaScript ES modules and Vite. Separate the simulation, scene rendering, model loading, input/interface and translations. Bundle runtime dependencies, GLBs, textures and notices into same-origin static files; require no account or server for play. Use GLTFLoader, SkeletonUtils cloning and AnimationMixer for rigged models, with pooled or reused geometry/materials for repeated environment assets. The delivered project uses Tripo P2-generated character and environment assets; retain their provenance and keep their skeletons and embedded animations functional.
+Provide Chinese, English and Korean interfaces. A valid saved manual language choice always wins. Otherwise use the device's IANA timezone: mainland China zones such as Asia/Shanghai and Asia/Urumqi select Chinese; Asia/Seoul and Asia/Pyongyang select Korean; Hong Kong, Macao, Taiwan and all other or unavailable timezones select English. Handle legacy aliases consistently. Do not infer mainland China from a UTC offset or browser language. Do not persist an automatic choice as a manual preference.
+The workshop accepts an embedded-texture GLB up to 40 MB and validates actual skinning, skeleton, joints and weights before adding a character. Reject unrigged static models with a clear explanation. Parse the model locally in the browser. Derive a stable starting profile from the file content hash, so the same file receives the same balanced attributes. Provide a 90-degree orientation adjustment.
+Explain that rigging and skinning are required, but separate animation clips are optional for supported standard humanoid skeletons: prefer embedded idle/run/walk/jump clips, otherwise drive basic idle and walking through recognizable limb bones. Unrecognized or non-humanoid rigs must include usable animation clips. Do not promise automatic animation for arbitrary skeletons. Explain unsupported compressed GLB formats and how to export a standard uncompressed file. Uploaded characters need to be selected again after refresh.
+Offer a clear create-character action linking to https://studio.tripo3d.ai/?utm_source=satellite_invite&utm_medium=bubble-bay&utm_campaign=create-character . Explain the creation, rigging, export and return-to-game steps. Keep this help in the workshop instead of blocking the first match.
+
+7. Acceptance and delivery
+Deliver editable source, dependency lockfile, README, local run instructions, a production static build and an accessible playable URL. Verify the home screen, active fight, trapped state, water burst, platform landing, result, pause and replay. Confirm visible Tripo/Three.js differences without resetting gameplay. Exercise real keyboard input and touch emulation, including simultaneous movement and bubble placement; label emulation honestly and do not claim physical-device coverage. Test character import for an unrigged rejection, an animated rig and a supported rig without clips. Check mainland/Hong Kong/Macao/Taiwan/Korean/other timezones and manual-choice persistence. Validate the actual hosted page and same-origin assets, workshop link and embedded use. Keep a real gameplay recording and representative screenshots that match the delivered courtyard version; do not substitute the earlier distant-island layout. Preserve author/source attribution and Third-party license notices without redistributing reference-site assets.
+
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/bubble-bay) · [Live demo](https://bubble-bay.tripo.page/) · [Back to examples](#all-prompts)
+
+---
+
 <a id="odd-arms"></a>
 
 ### ODD ARMS — Weird Weapons Survival Game
@@ -4348,7 +4325,7 @@ Deliver source, lockfile, npm development/build commands and static output. Veri
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 263 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 264 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>

@@ -26,7 +26,7 @@
 **Un punto de partida para tu próximo juego, escena o mundo interactivo.**
 
 
-**263 · Últimos prompts de Astra**
+**264 · Últimos prompts de Astra**
 
 ## Proyectos destacados
 
@@ -54,7 +54,6 @@
 - [Explorador interactivo de anatomía en 3D](#2099206962344800541) · GitHub
 - [Demo de gráficos de fantasía isométrica](#2100271998618177864) · GitHub
 - [Mosswing: juego móvil 3D de tocar para aletear](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Motor de la Totalidad: Catedral cinematográfica del eclipse](#2096593372311941143)
 - [Crea CS2 con Three.js](#2096596888799895855)
 - [Animación de una caja plegable a partir de un troquel](#2096612394281603144)
 - [Videojuego de aventuras de fantasía costera: Windhaven](#2096629506047955327)
@@ -144,6 +143,7 @@
 - [Modelo 3D de un Jaguar I-Pace de Waymo](#2101325346427842909)
 - [Velero en mar abierto](#2101616345720787130)
 - [Crea un modelo 3D de WALL-E en Three.js](#2101687900723106104)
+- [Bubble Bay: Batalla 3D de globos de agua](#bubble-bay)
 - [ODD ARMS — Juego de supervivencia con armas extrañas](#odd-arms)
 - [TITANIC — La última luz](#titanic-the-last-light)
 - [AKARI: Relevo de la llama en las azoteas de Nagoya](#akari-nagoya-rooftop-flame-relay)
@@ -324,88 +324,6 @@ Remasteriza el clásico juego de «tocar para aletear» —ese en el que tocas p
 ```
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Publicación original](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Código fuente](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Demo en línea](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2096593372311941143"></a>
-
-### Motor de la Totalidad: Catedral cinematográfica del eclipse
-
-[Chris W](https://x.com/Chris_Wozniczek) · 2026-09-06
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/totality-engine-cinematic-eclipse-cathedral-2096593372311941143"><img src="../assets/previews/52de12ef7c4dd44ec548962b86297e175683992ebdfdd2665699a18fe86bb9ca.jpg" width="840" loading="lazy" alt="Motor de la Totalidad: Catedral cinematográfica del eclipse"></a>
-
-Un prompt completo para Three.js/WebGL que crea un cortometraje cinematográfico en bucle de 32 segundos dentro de una catedral gótica inundada, con un reloj astronómico monumental, movimientos de cámara dirigidos, agua procedural, planetas de cristal e iluminación de eclipse. Chris W publicó una ejecución en Astra y una comparación con otros modelos.
-
-**Prompt**
-
-```text
-Crea una experiencia pulida y visualmente impactante de HTML/WebGL, autocontenida y en un único archivo, llamada:
-
-totality-engine.html colócala en documents/llm-benchmarks
-
-No te limites a describir la idea. Genera realmente el archivo HTML completo y funcional, y guárdalo en el directorio actual.
-
-Construye un cortometraje cinematográfico en bucle de 32 segundos, no un diorama de pruebas. El producto es la interpretación de la cámara. La interacción es un extra que se activa después de reproducir el filme una vez.
-
-Mundo:
-Una catedral gótica sumergida durante la totalidad de un eclipse solar. El agua negra cubre el suelo de la nave. En el crucero se alza un reloj astronómico monumental de latón, el Motor de la Totalidad: anillos de orrery anidados, planetas de cristal, un núcleo de sol negro y un péndulo de mármol oscuro de 40 metros con herrajes dorados. Caliza mojada, verdín, llamas de velas y polvo de oro. Todo debe generarse mediante código procedural. No uses modelos, texturas, imágenes, fuentes como archivos ni audio externos.
-
-Filme dirigido (un solo reloj, beats con nombre, bucle continuo):
-
-0.0–4.0 s POLVO
-Primerísimo primer plano. Una mota de polvo gira en un haz de luz rojo dorado. Casi no hay contexto. Avance lento de cámara.
-
-4.0–10.0 s NAVE
-Retrocede y asciende. Estamos con el agua negra hasta las rodillas, en el crucero de la catedral. Las bóvedas de crucería se pierden en la niebla. El péndulo entra en cuadro desde la izquierda, pesado y lento, y pasa lo bastante cerca como para sentir su masa. Se forman ondas en el agua desde la cámara.
-
-10.0–18.0 s ASCENSO
-Acompaña el ascenso del péndulo. Revela el orrery en la bóveda: al menos cuatro anillos de latón anidados, con distintas inclinaciones; tres planetas de cristal con atmósferas diferenciadas —uno nuboso, otro con anillos y otro con bandas de tormenta—; y el núcleo de sol negro. Agrupaciones de velas a lo largo del triforio. El polvo de oro asciende contra la gravedad.
-
-18.0–24.0 s HILO
-La cámara se abre paso entre el orrery. Atraviesa el cristal del planeta con anillos —refracción, no un truco de transparencia—, sigue su plano de anillos durante un instante y sale en dirección al sol negro. El siguiente balanceo del péndulo deforma la luz a su alrededor como una lente gravitacional débil.
-
-24.0–30.0 s TOTALIDAD
-La corona estalla en un anillo de fuego blanco dorado que se convierte en la rueda más externa del orrery. Un tic de reloj que se sienta como un sonido: todos los anillos encajan de golpe en una alineación perfecta y, después, la corona permanece. No fundas a blanco. Mantén la silueta de toda la máquina contra el anillo de fuego.
-
-30.0–32.0 s CODA
-Deslízate hacia una continuación lenta que coincida con el fotograma 0, para que el bucle sea invisible. No hagas un corte brusco.
-
-Después de la primera reproducción completa, habilita arrastrar para orbitar, zoom con la rueda del ratón y un control «Reproducir filme». El botón Pausa debe funcionar siempre. Opcional: las teclas 1–5 saltan al inicio de cada beat.
-
-Construcción de la escena:
-- Define un primer plano, un plano medio y un fondo sólidos. El péndulo ocupa el primer plano en NAVE. Las bóvedas y la niebla aportan profundidad.
-- Incluye al menos dos referencias a escala humana —un banco sumergido, una aguja caída o una fila de velas— para que la máquina se perciba enorme.
-- El agua debe ser un material real: reflejos del orrery, un fresnel tenue, desplazamiento lento y las ondas producidas por el péndulo y la cámara.
-- Los planetas deben ser de cristal grueso, no esferas brillantes. A través de al menos uno de ellos debe verse una catedral distorsionada.
-- El latón debe transmitir peso: oscuro en las sombras, con solo los bordes captando la luz de la corona.
-- Las llamas de las velas y el polvo de oro deben usar instanciación. El polvo solo asciende durante ASCENSO y TOTALIDAD.
-- Bóvedas de crucería, siluetas de arbotantes y un enorme rosetón circular o abertura de eclipse en el muro del fondo, alineado con el sol negro.
-- Paleta limitada y fija: caliza mojada #8a8680, latón #c4a574, verdín #2f6f66, carmesí del eclipse #6b1020, corona #ffe9c2, agua negra #05070c, polvo de oro #e6c27a. Nada de cian, magenta, neón, arcoíris ni ese «look de IA» morado sobre negro.
-- Tipografía: un único título pequeño «TOTALITY ENGINE» y el nombre del beat; estética cinematográfica, no de panel de control.
-
-Requisitos técnicos:
-- Usa Three.js desde una CDN estable. Incluye todo el HTML, CSS y JS en este único archivo.
-- Controla toda la animación con un único reloj de tiempo transcurrido y ventanas de beat con nombre. No uses bucles independientes con Math.random, Date.now en los shaders ni ruido sin semilla. Usa únicamente un RNG con semilla; la constante de semilla es 0xA2E1.
-- La película de cámara debe usar interpolación suave con ease-in-out en los grandes movimientos, un easing más pesado para el péndulo —tiene masa— y una estabilización de cola larga al entrar en TOTALIDAD. Una órbita lineal como cámara principal es inaceptable.
-- Usa GLSL personalizado —ShaderMaterial o un pase a pantalla completa—, no materiales estándar que solo lo aparenten:
-1. Agua (reflejo + fresnel + desplazamiento lento)
-2. Corona del sol negro (fuego/plasma, no un sprite)
-3. Lente gravitacional del péndulo (la luz se curva cerca de la pesa durante HILO)
-4. Cristal grueso para al menos un planeta
-- Usa InstancedMesh para el polvo, las velas y cualquier elemento repetido de piedra o latón. No generes miles de objetos Mesh independientes.
-- Se permite el posprocesado, pero no puede sustituir a la iluminación. Si usas bloom, aplícalo con sutileza únicamente a la corona y las velas. Un UnrealBloom aplicado a toda la escena es inaceptable.
-- La niebla, los reflejos húmedos y la abertura del eclipse deben crear la atmósfera. No uses conos transparentes baratos como «rayos divinos» a menos que estén realmente controlados por un shader.
-- La experiencia debe adaptarse a toda la ventana del navegador, gestionar el redimensionado y apuntar a 60 fps en un portátil de 2023. Si tienes que elegir, reduce la cantidad de partículas antes que sacrificar la película de cámara.
-- UI pequeña y discreta: título, beat actual, pausa y repetición. No incluyas contador de FPS, dat.gui ni asistentes de depuración activos.
-- No dejes comentarios TODO, pseudocódigo, marcadores de posición, funciones ausentes ni frases como «esto quedaría mejor con X».
-- Al cargarse, el filme debe comenzar por sí solo. Mostrar un fotograma estático detrás de un botón de inicio es inaceptable.
-
-Nivel de calidad:
-Esto debe parecer un fotograma de un cortometraje, no un ejemplo de Three.js. Si una captura a los 26 segundos no se interpreta como «un reloj del tamaño de una catedral en el momento del eclipse», aún no has terminado. Itera en la composición, los materiales y la cámara antes de añadir más objetos.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/totality-engine-cinematic-eclipse-cathedral-2096593372311941143) · [Publicación original](https://x.com/Chris_Wozniczek/status/2096593372311941143) · [Demo en línea](https://chris-website-theta.vercel.app/astra-xhigh-totality-engine.html) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -4053,6 +3971,65 @@ crea un modelo 3D de WALL-E en Three.js.
 
 ---
 
+<a id="bubble-bay"></a>
+
+### Bubble Bay: Batalla 3D de globos de agua
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-22
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/bubble-bay"><img src="../assets/previews/5158051d1bd3d80bc65cbfdd00a31c6e9c048c21f0e18ed7b1826972c94b6b5d.webp" width="840" loading="lazy" alt="Bubble Bay: Batalla 3D de globos de agua"></a>
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/bubble-bay"><img src="../assets/previews/ceda95626d7f2a404ab04a28ea483f2da5eb9cc367184a09da386305cc85539a.png" width="840" loading="lazy" alt="Bubble Bay: Batalla 3D de globos de agua"></a>
+
+Crea una batalla 3D en un patio soleado con globos de agua, saltos, oponentes con IA y tu propio personaje animado. Alterna entre modelos de Tripo y una versión geométrica de Three.js.
+
+**Prompt**
+
+```text
+1. Objetivo del proyecto
+Crea Bubble Bay, una batalla jugable en 3D con globos de agua en el patio soleado de una ciudad de juguete. El jugador controla a un personaje del equipo azul contra dos oponentes con IA del equipo rojo. Recorre los caminos, rompe cajas, recoge mejoras, salta sobre plataformas y atrapa a los oponentes en burbujas. Gana al capturar al equipo contrario tres veces durante una partida de tres minutos. Entrega un juego completo de Three.js con una comparación visual visible entre modos y un taller para incorporar al combate un personaje personal con rigging.
+
+2. Dirección visual
+Usa las capturas del patio y la grabación de la partida adjuntas como referencia para la versión final. Crea una cámara en tercera persona cercana, con un campo de visión aproximado de 51 grados, que siga suavemente al personaje desde arriba y por detrás. Haz que el espacio jugable ocupe toda la pantalla. Usa pavimento de piedra color crema, cajas de madera amarillo miel, jardineras de ladrillo rojo, tejados de casas de campo azules y terracota, árboles verdes redondeados y grupos de flores pequeñas. Da a los tres personajes siluetas fáciles de distinguir y superficies texturizadas con sombreado suave. Añade luz solar direccional cálida, sombras de contacto suaves, niebla ligera, reflejos de agua discretos con efecto similar al bloom y burbujas azules transparentes. Mantén los marcadores, el temporizador, los controles y los oponentes legibles sobre la escena detallada.
+La pantalla de inicio superpone un selector compacto de personajes en el lado izquierdo, tres indicadores de atributos, opciones de dificultad y un botón de inicio destacado. Coloca los modos visuales de Tripo y Three.js de forma prominente en la parte superior central; cambia a la vez las etiquetas, el estilo del modo seleccionado y los modelos visibles. Usa el modo Tripo de forma predeterminada. Durante la partida, reduce la interfaz a los marcadores de los equipos, el temporizador, el indicador del jugador, los atributos actuales y las sugerencias de controles. Usa un panel de resultados centrado con los marcadores, el mejor resultado y acciones para repetir la partida y abrir el taller de personajes.
+
+3. Mundo y distribución
+Crea un patio rectangular de aproximadamente 22 por 24 unidades del mundo, con celdas separadas por 2 unidades. Mantén un camino central despejado de norte a sur y una zona de inicio segura cerca del borde sur. Alterna jardineras sólidas y cajas destruibles alrededor de rutas conectadas. Distribuye casas de campo, árboles y flores por el perímetro sin ocultar el área de juego. Usa volúmenes de colisión simples e independientes de las mallas decorativas detalladas. Las jardineras tienen una altura de soporte de 1.02 unidades y las cajas, de 1.72 unidades. El personaje debe aterrizar realmente sobre ellas y caer al caminar fuera de sus bordes. Las cajas desaparecen al destruirse y abren nuevas rutas. Coloca al jugador cerca del sur y a los dos oponentes en la mitad norte. Ofrece mejoras iniciales alcanzables y varía la posición de las cajas entre partidas.
+
+4. Inventario de recursos
+Usa ranuras GLB independientes y reemplazables, con límites, orientación y pivotes de suelo coherentes. Da prioridad a los personajes, después a las cajas y casas de campo repetidas, y por último a la vegetación.
+- hero: Blue, el aventurero caricaturesco azul predeterminado, con cabeza redondeada y cuerpo compacto. Un recurso de personaje con rigging, jugador del equipo azul de forma predeterminada; admite las animaciones de reposo, carrera y salto.
+- mint: Mint, una pequeña criatura fantástica turquesa con detalles rosas en la cabeza. Un recurso de personaje con rigging, seleccionable por el jugador y utilizable por un oponente; admite las animaciones de reposo y carrera.
+- mango: Mango, una mascota de aspecto animal y color naranja, con cara y vientre de color crema. Un recurso de personaje con rigging, seleccionable por el jugador y utilizable por un oponente; admite las animaciones de reposo y carrera.
+- cottage: Una pequeña casa de campo con paredes color crema y un tejado inclinado de tejas voluminosas. Repítela por el límite; reutiliza la geometría y aplica variantes de tejado azul o terracota.
+- crate: Una caja de madera color miel, con detalles de tablones y una silueta robusta. Repítela en las celdas destruibles; conserva un interior visible y cerrado cuando se rompa o se vea desde distintos ángulos.
+- tree: Un árbol estilizado y bajo, con tronco grueso y follaje redondeado en capas. Repítelo detrás del límite del patio.
+- bush: Vegetación verde baja con pequeñas flores coloridas. Repítela dentro de las jardineras y alrededor de las casas.
+Mantén el pavimento del suelo, los ladrillos de las jardineras, el cielo, las luces, los proxies de colisión, las burbujas, las ráfagas de agua en forma de cruz, las partículas, los objetos coleccionables y todos los elementos de la interfaz como elementos procedurales. Proporciona versiones geométricas equivalentes de la escena y los personajes para el modo Three.js. Cambiar de modo visual debe conservar el estado de la partida, las posiciones, el temporizador y los marcadores.
+
+5. Jugabilidad y respuesta visual
+Usa movimiento continuo con delta time, velocidad diagonal normalizada, colisiones y una cámara de seguimiento suave. Teclado: WASD o las flechas para moverse; F coloca una burbuja; la barra espaciadora salta; Q/E giran la cámara; arrastrar la escena ajusta la dirección y la inclinación de la cámara; Esc pausa; Mayús activa un dash de 0,3 segundos con un tiempo de reutilización de 4 segundos. En pantallas táctiles, proporciona un joystick izquierdo y botones independientes de burbuja y salto en el lado derecho que funcionen simultáneamente.
+Una burbuja ocupa una celda del suelo durante 2,5 segundos y después envía una ráfaga de agua en forma de cruz en las cuatro direcciones de la cuadrícula. Las jardineras sólidas y los límites la detienen. La primera caja alcanzada en cada dirección se rompe y detiene ese brazo de la ráfaga. Las burbujas cercanas reaccionan en cadena. Permite que el propietario se aleje de una burbuja recién colocada, pero impide que vuelva a atravesarla. Respeta la capacidad de burbujas activas y prohíbe colocarlas mientras se está en el aire.
+El agua atrapa a un personaje durante 3,5 segundos. Cuatro pulsaciones independientes de la barra espaciadora liberan al personaje; X consume una aguja de rescate por partida para escapar de inmediato. Un personaje rival que toque a un personaje atrapado lo captura al instante; de lo contrario, cuando termina el tiempo de la trampa, esta concede una captura al equipo contrario y reaparece la víctima. Los compañeros rojos no se capturan ni se dañan entre sí. Si un personaje se atrapa a sí mismo, el equipo contrario también obtiene una captura cuando se agota el tiempo. Los saltos elevados y las partes superiores de las plataformas pueden evitar las ráfagas de agua bajas.
+Perfiles iniciales: Blue tiene 2 burbujas, alcance 2 y velocidad de movimiento 4,25; Mint tiene 1 burbuja, alcance 2 y velocidad 5,15; Mango tiene 1 burbuja, alcance 3 y velocidad 4,55. Las mejoras de burbuja, alcance y velocidad aumentan los atributos correspondientes. Muestra información legible sobre las mejoras y efectos de agua, movimiento, salto, atrapamiento y captura con una respuesta ágil. Añade efectos de sonido sintéticos breves con un control de silencio.
+El primer equipo que consiga 3 capturas gana. A los 180 segundos, compara los marcadores de los equipos; si están empatados, el resultado es un empate. Incluye oponentes fáciles y normales que se muevan, eviten el peligro, coloquen burbujas y persigan capturas. La pausa congela la simulación; repetir la partida reinicia el combate. Guarda localmente el mejor resultado.
+
+6. Implementación técnica y taller de personajes
+Usa Three.js 0.180, módulos JavaScript ES y Vite. Separa la simulación, el renderizado de la escena, la carga de modelos, la entrada y la interfaz, y las traducciones. Incluye las dependencias de ejecución, los GLB, las texturas y los avisos en archivos estáticos del mismo origen; no requieras cuenta ni servidor para jugar. Usa GLTFLoader, la clonación con SkeletonUtils y AnimationMixer para los modelos con rigging, junto con geometría y materiales agrupados o reutilizados para los recursos repetidos del entorno. El proyecto entregado utiliza recursos de personajes y entorno generados con Tripo P2; conserva su procedencia y mantén funcionales sus esqueletos y animaciones integradas.
+Proporciona interfaces en chino, inglés y coreano. Una elección manual de idioma guardada y válida siempre tiene prioridad. En caso contrario, usa la zona horaria IANA del dispositivo: las zonas de China continental, como Asia/Shanghai y Asia/Urumqi, seleccionan chino; Asia/Seoul y Asia/Pyongyang seleccionan coreano; Hong Kong, Macao, Taiwán y cualquier otra zona horaria, o ninguna disponible, seleccionan inglés. Gestiona los alias antiguos de forma coherente. No deduzcas China continental a partir de un desfase UTC ni del idioma del navegador. No guardes una elección automática como preferencia manual.
+El taller acepta un GLB con texturas integradas de hasta 40 MB y valida el skinning, el esqueleto, las articulaciones y los pesos reales antes de añadir un personaje. Rechaza los modelos estáticos sin rigging con una explicación clara. Analiza el modelo localmente en el navegador. Deriva un perfil inicial estable a partir del hash del contenido del archivo, de modo que el mismo archivo reciba los mismos atributos equilibrados. Proporciona un ajuste de orientación de 90 grados.
+Explica que el rigging y el skinning son obligatorios, pero que los clips de animación independientes son opcionales para esqueletos humanoides estándar compatibles: da prioridad a los clips integrados de reposo, carrera, caminata y salto; si no existen, controla el reposo y la caminata básicos mediante huesos de extremidades reconocibles. Los rigs no reconocidos o no humanoides deben incluir clips de animación utilizables. No prometas animación automática para esqueletos arbitrarios. Explica qué formatos GLB comprimidos no son compatibles y cómo exportar un archivo estándar sin comprimir. Los personajes subidos deben seleccionarse de nuevo después de actualizar la página.
+Ofrece una acción clara para crear un personaje que enlace con https://studio.tripo3d.ai/?utm_source=satellite_invite&utm_medium=bubble-bay&utm_campaign=create-character . Explica los pasos de creación, rigging, exportación y regreso al juego. Mantén esta ayuda dentro del taller en lugar de bloquear la primera partida.
+
+7. Aceptación y entrega
+Entrega el código fuente editable, el archivo de bloqueo de dependencias, el README, las instrucciones para ejecutar en local, una compilación estática de producción y una URL jugable accesible. Verifica la pantalla de inicio, el combate activo, el estado de atrapamiento, la ráfaga de agua, el aterrizaje sobre plataformas, los resultados, la pausa y la repetición de la partida. Confirma las diferencias visibles entre Tripo y Three.js sin reiniciar la jugabilidad. Prueba la entrada de teclado real y la emulación táctil, incluido el movimiento simultáneo y la colocación de burbujas; indica la emulación con honestidad y no afirmes que se ha probado en dispositivos físicos. Prueba la importación de personajes con un rechazo de modelo sin rigging, un rig animado y un rig compatible sin clips. Comprueba las zonas horarias de China continental, Hong Kong, Macao, Taiwán, Corea y otras, así como la persistencia de la elección manual. Valida la página alojada real, los recursos del mismo origen, el enlace del taller y el uso integrado. Conserva una grabación real de la partida y capturas representativas que coincidan con la versión entregada del patio; no sustituyas esta distribución por la versión anterior de la isla distante. Conserva la atribución de autoría y origen, así como los avisos de licencias de terceros, sin redistribuir recursos del sitio de referencia.
+
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/bubble-bay) · [Demo en línea](https://bubble-bay.tripo.page/) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="odd-arms"></a>
 
 ### ODD ARMS — Juego de supervivencia con armas extrañas
@@ -4318,7 +4295,7 @@ Entrega el código fuente, el archivo de bloqueo, los comandos npm de desarrollo
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 263 ejemplos en el sitio oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 264 ejemplos en el sitio oficial →</a></strong></p>
 <p><sub>Para que el README de GitHub se renderice con fluidez, aquí solo se muestran los 100 ejemplos más recientes.</sub></p>
 <br>
 </td></tr>
