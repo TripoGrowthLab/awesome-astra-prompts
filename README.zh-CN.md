@@ -21,6 +21,8 @@
   <a href="docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
+> 也在用 Claude Opus 5.5？前往 [Awesome Opus 5.5 Prompts](https://github.com/TripoGrowthLab/awesome-opus-5-5-prompts)，从有来源的 3D 场景、游戏和模拟案例开始创作。
+
 <a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=readme_hero"><img src="assets/hero.webp" width="100%" alt="Awesome Astra Prompts"></a>
 
 **为你的下一个游戏、场景或交互世界找到灵感。**

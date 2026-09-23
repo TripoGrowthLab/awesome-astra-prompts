@@ -8,6 +8,26 @@ const link = (label, url) => `[${md(label)}](${linkURL(url)})`
 const authorLink = prompt => prompt.author.url ? link(prompt.author.name, prompt.author.url) : md(prompt.author.name)
 const root = `https://github.com/${repository}`
 const generated = '<!-- Generated from Growth CMS. Update content in CMS; run npm run sync. -->'
+const opusPromotion = locale => {
+  const copy = {
+    en: 'Building with Claude Opus 5.5? Explore [Awesome Opus 5.5 Prompts](https://github.com/TripoGrowthLab/awesome-opus-5-5-prompts) for source-linked 3D scenes, games and simulations.',
+    zh: '也在用 Claude Opus 5.5？前往 [Awesome Opus 5.5 Prompts](https://github.com/TripoGrowthLab/awesome-opus-5-5-prompts)，从有来源的 3D 场景、游戏和模拟案例开始创作。',
+    'zh-Hant': '也在用 Claude Opus 5.5？前往 [Awesome Opus 5.5 Prompts](https://github.com/TripoGrowthLab/awesome-opus-5-5-prompts)，從附有來源的 3D 場景、遊戲與模擬案例開始創作。',
+    ja: 'Claude Opus 5.5 を使うなら、[Awesome Opus 5.5 Prompts](https://github.com/TripoGrowthLab/awesome-opus-5-5-prompts) で出典付きの 3D シーン、ゲーム、シミュレーションを探せます。',
+    ko: 'Claude Opus 5.5를 사용하시나요? [Awesome Opus 5.5 Prompts](https://github.com/TripoGrowthLab/awesome-opus-5-5-prompts)에서 출처가 있는 3D 장면, 게임, 시뮬레이션 사례를 살펴보세요.',
+    es: '¿Creas con Claude Opus 5.5? Explora escenas 3D, juegos y simulaciones con fuentes en [Awesome Opus 5.5 Prompts](https://github.com/TripoGrowthLab/awesome-opus-5-5-prompts).',
+    pt: 'Criando com Claude Opus 5.5? Explore cenas 3D, jogos e simulações com fontes em [Awesome Opus 5.5 Prompts](https://github.com/TripoGrowthLab/awesome-opus-5-5-prompts).',
+    de: 'Du nutzt Claude Opus 5.5? Entdecke 3D-Szenen, Spiele und Simulationen mit Quellen in [Awesome Opus 5.5 Prompts](https://github.com/TripoGrowthLab/awesome-opus-5-5-prompts).',
+    fr: 'Vous créez avec Claude Opus 5.5 ? Découvrez des scènes 3D, jeux et simulations avec leurs sources dans [Awesome Opus 5.5 Prompts](https://github.com/TripoGrowthLab/awesome-opus-5-5-prompts).',
+    it: 'Crei con Claude Opus 5.5? Esplora scene 3D, giochi e simulazioni con le fonti in [Awesome Opus 5.5 Prompts](https://github.com/TripoGrowthLab/awesome-opus-5-5-prompts).',
+    ru: 'Создаёте с Claude Opus 5.5? Посмотрите 3D-сцены, игры и симуляции со ссылками на источники в [Awesome Opus 5.5 Prompts](https://github.com/TripoGrowthLab/awesome-opus-5-5-prompts).',
+    tr: 'Claude Opus 5.5 ile mi üretiyorsunuz? Kaynaklarıyla birlikte 3D sahneleri, oyunları ve simülasyonları [Awesome Opus 5.5 Prompts](https://github.com/TripoGrowthLab/awesome-opus-5-5-prompts) içinde keşfedin.',
+    uk: 'Створюєте з Claude Opus 5.5? Перегляньте 3D-сцени, ігри й симуляції з посиланнями на джерела в [Awesome Opus 5.5 Prompts](https://github.com/TripoGrowthLab/awesome-opus-5-5-prompts).',
+    vi: 'Bạn đang sáng tạo với Claude Opus 5.5? Khám phá cảnh 3D, trò chơi và mô phỏng kèm nguồn trong [Awesome Opus 5.5 Prompts](https://github.com/TripoGrowthLab/awesome-opus-5-5-prompts).',
+  }
+  return '> ' + copy[locale.code]
+}
+
 const publicPage = (prompt, locale) => `https://www.tripo3d.ai${locale.code === 'en' ? '' : `/${locale.code}`}/3d-prompts/${prompt.slug}`
 export const languageBadges = (current, prefix) => '<p>\n' + locales.map(locale => {
   const target = locale.code === 'en' ? `${prefix}README.md` : locale.code === 'zh' ? `${prefix}README.zh-CN.md` : `${prefix}docs/catalog.${locale.code}.md`
@@ -45,7 +65,7 @@ export function renderCatalog(prompts, locale, prefix = '') {
   prompts = selectCatalog(prompts)
   const catalogIds = new Set(prompts.map(p => p.id))
   const zh = locale.code === 'zh', en = locale.code === 'en'
-  const lines = [generated, '', '# Awesome Astra Prompts', '', badges(prompts, locale, prefix), '',
+  const lines = [generated, '', '# Awesome Astra Prompts', '', badges(prompts, locale, prefix), '', opusPromotion(locale), '',
     `<a href="https://www.tripo3d.ai${en ? '' : `/${locale.code}`}/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=readme_hero"><img src="${prefix}assets/hero.webp" width="100%" alt="Awesome Astra Prompts"></a>`, '',
     `**${locale.intro}**`, '',
     en ? 'Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.' : zh ? '探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。' : '', '',

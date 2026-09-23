@@ -21,6 +21,8 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
+> Claude Opus 5.5를 사용하시나요? [Awesome Opus 5.5 Prompts](https://github.com/TripoGrowthLab/awesome-opus-5-5-prompts)에서 출처가 있는 3D 장면, 게임, 시뮬레이션 사례를 살펴보세요.
+
 <a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=readme_hero"><img src="../assets/hero.webp" width="100%" alt="Awesome Astra Prompts"></a>
 
 **다음 게임, 장면, 인터랙티브 세계를 위한 아이디어를 찾아보세요.**
