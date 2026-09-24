@@ -28,7 +28,7 @@
 **Um ponto de partida para seu próximo jogo, cena ou mundo interativo.**
 
 
-**276 · Prompts mais recentes do Astra**
+**277 · Prompts mais recentes do Astra**
 
 ## Projetos em destaque
 
@@ -56,7 +56,6 @@
 - [Explorador interativo de anatomia 3D](#2099206962344800541) · GitHub
 - [Demo de gráficos de fantasia isométrica](#2100271998618177864) · GitHub
 - [Mosswing: jogo 3D mobile de toque para bater asas](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Pátio chinês interativo](#2096971051334857181)
 - [Estrada na floresta de 12 segundos no Blender](#2096986557244723371)
 - [Robô de estimação interativo em uma bancada](#2097004192627933279)
 - [Árvore de limões de gelatina interativa](#2097065330728128920)
@@ -146,6 +145,7 @@
 - [Castelo medieval europeu em 3D controlável pelo navegador](#2102780850706567390)
 - [Tabuleiro 3D interativo para estudar gambitos de xadrez](#2102788013902213508)
 - [Battle City 3D: Defesa de Tanques sem Fim](#battle-city-3d)
+- [Crazy Tanks — Artilharia 3D em uma ilha](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Jogo de sobrevivência com armas bizarras](#odd-arms)
 - [TITANIC — A Última Luz](#titanic-the-last-light)
 - [AKARI: Revezamento da Chama nos Telhados de Nagoya](#akari-nagoya-rooftop-flame-relay)
@@ -326,32 +326,6 @@ Remasterize o clássico jogo de “toque para bater asas” — aquele em que vo
 ```
 
 [Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Publicação original](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Código-fonte](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Demonstração](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2096971051334857181"></a>
-
-### Pátio chinês interativo
-
-[Larus Canus](https://x.com/MrLarus) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2096971051334857181"><img src="../assets/previews/e8d834a9a7ddc8627c0556335e17c834a6058acb2351f02dcd1a47beb8631ecf.jpg" width="840" loading="lazy" alt="Pátio chinês interativo"></a>
-
-Um prompt reutilizável para criar um pátio chinês 3D explorável com Blender e Three.js, incluindo elementos arquitetônicos, navegação interativa, efeitos ambientais, animais animados e um projeto pronto para rodar no navegador.
-
-**Prompt**
-
-```text
-Crie um pátio chinês interativo usando Blender e Three.js que eu possa explorar no navegador.
-
-Inclua paredes brancas, telhados de telha escura, um portão em forma de lua, pinheiros, um lago e um jardim de pedras, com sala de estar, sala de chá e quarto. Use Python para executar o Blender em segundo plano, gerar os modelos e exportar arquivos GLB. Use Three.js para iluminação, reflexos, animações e interações.
-
-Ofereça controles orbitais, zoom, navegação com WASD, alternância entre dia e noite e opção de ocultar o telhado. Adicione gradualmente água corrente, carpas koi, sapos pulando, libélulas, um gato no pátio, pardais e vaga-lumes noturnos. Mantenha os movimentos sutis e naturais.
-
-Crie uma interface original que mantenha a cena desobstruída. Desenvolva o projeto em etapas, inspecione os resultados no navegador, corrija os problemas e entregue o projeto executável, os arquivos-fonte e as instruções de configuração.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2096971051334857181) · [Publicação original](https://x.com/MrLarus/status/2096971051334857181) · [Voltar aos exemplos](#all-prompts)
 
 ---
 
@@ -3992,6 +3966,62 @@ Entregar código-fonte editável, procedência dos assets e avisos de licença, 
 
 ---
 
+<a id="crazy-tanks-3d-island-artillery"></a>
+
+### Crazy Tanks — Artilharia 3D em uma ilha
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-24
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/previews/7b026fd7cfcbf1398c6b77062abb333fe61e020e75b514aeab2eff40db94984e.png" width="840" loading="lazy" alt="Crazy Tanks — Artilharia 3D em uma ilha"></a>
+
+Mire, leia o vento e carregue do zero em uma batalha de artilharia totalmente 3D em uma ilha. Escolha entre seis projéteis, abra crateras profundas e sobreviva ao caos crescente.
+
+**Prompt**
+
+```text
+1. Objetivo do projeto
+Criar Crazy Tanks — Wild Tides, um jogo de artilharia jogável, genuinamente tridimensional e baseado em turnos, ambientado em uma ilha tropical. O jogador controla um tanque pequeno, lê o vento, cronometra uma carga que começa do zero e remodela o campo de batalha com projéteis. Oferecer partidas solo contra a IA e partidas locais no modo passe-e-jogue, com um confronto padrão entre três tanques e um duelo opcional entre dois tanques. O último tanque sobrevivente vence. Usar a jogabilidade e as capturas de tela de referência atuais como objetivo visual.
+
+2. Estilo visual
+Usar uma câmera em perspectiva e geometria 3D com órbita livre, sem sprites planos nem visão lateral fixa. Criar um diorama ensolarado em miniatura, com tanques arredondados nas cores jade, laranja-coral e azul-violeta, areia creme, grama verde-clara, água turquesa reflexiva, sombras suaves e uma névoa atmosférica leve ao longe. Preservar as silhuetas distintas dos três tanques e seus canhões correspondentes. Usar um painel circular compacto de creme, com aparência de blindagem, acima do campo de batalha e um painel de controles arredondado em azul-petróleo escuro abaixo dele. O dourado indica a potência de referência e a ação de disparo; o menta indica a carga real e o status de aliado. Manter a chave de aparência Tripo / Three.js em destaque no topo, usando os assets do Tripo por padrão. Trocar a aparência sem alterar o estado da partida nem o estado da física. Usar traços finos em azul-petróleo, uniformemente espaçados no espaço da tela, e um círculo de pouso discreto; não refletir os elementos gráficos de mira na água.
+
+3. Mundo e cena
+Usar uma ilha com height field destrutível de aproximadamente 260 por 184 metros, cercada por oceano em um nível do mar fixo. Posicionar os tanques iniciais bem afastados, em terreno estável; distribuir rochas, palmeiras, cactos e caixas de suprimentos coletáveis. Ilhas decorativas menores devem criar profundidade no fundo e nunca substituir o terreno principal destrutível. As explosões deformam a superfície e podem escavar abaixo do nível do mar. Manter a cor da margem e a espuma em uma única superfície de água para evitar planos sobrepostos e cintilação. Projetar os números dos tanques a partir das posições no mundo a cada frame renderizado. Oferecer visões da trajetória completa, do tanque, em órbita e uma visão tática de cima. A visão da trajetória deve enquadrar o tanque que dispara, o arco e o ponto de pouso estimado no espaço entre a HUD e o painel de controles. Antes de cada disparo, exibir o tanque que atira por cerca de 0,8 segundo, permanecer por um instante no cano e depois acompanhar o projétil. A interação manual com a câmera cancela o acompanhamento cinematográfico.
+
+4. Inventário de assets
+Usar slots de modelos estáveis e manter os modelos de substituição endereçáveis individualmente:
+- jade-body: casco sobre esteiras verde, arredondado e com formato de escudo; o corpo padrão do jogador. jade-cannon: canhão jade correspondente, com alma escura e detalhes dourados, articulado de forma independente.
+- ember-body: casco blindado pontudo em laranja-coral, com perfil mecânico baixo. ember-cannon: seu cano laranja correspondente, mais longo, com boca escura.
+- bolt-body: casco industrial sobre esteiras em azul-violeta, com blindagem angular em placas. bolt-cannon: canhão azul correspondente e espesso.
+- shell: projétil de artilharia de latão, com ponta escura afunilada e detalhe ciano. Reutilizá-lo com matiz e escala específicos para cada arma.
+- crate: caixa de suprimentos blindada amarela, com marcação ciano e cantos reforçados; coletá-la concede 20 de blindagem, até o limite de 100.
+- rock: conjunto arredondado de arenito quente; repetir em escalas variadas e usar um proxy de colisão separado.
+- palm: tronco curvo e folhas verdes em camadas; repetir como vegetação da ilha.
+- cactus: cacto verde compacto com pequenos detalhes floridos; repetir no terreno seco.
+- islet: ilha arredondada de fundo, coberta de grama e com bordas de pedra/areia claras; repetir além da arena.
+Priorizar os três pares correspondentes de corpo e canhão, seguidos pelo projétil/caixa e pelos elementos ambientais. Manter a deformação do terreno, o oceano, a espuma, o fogo, a fumaça, as ondas de choque, os detritos, os elementos gráficos de mira, a iluminação, a interface e os proxies de colisão procedurais. As peças correspondentes de corpo e canhão compartilham uma única referência de design e escala. Posicionar o pivô do canhão na articulação mecânica, alinhar seu eixo dianteiro ao +X e usar a boca visível como ponto físico de lançamento. Os corpos dos tanques acompanham as inclinações usando quatérnios; a mira da torre continua sendo uma direção no espaço do mundo. Preservar as texturas PBR de origem e as costuras UV. Manter os modelos completos para download separados das cópias otimizadas para execução no jogo; as referências e a procedência dos arquivos devem identificar a fonte real de geração.
+
+5. Jogabilidade e feedback
+Cada tanque vivo recebe 18 metros de movimento quando seu turno começa. WASD e o controle direcional de movimento funcionam em relação à tela; as teclas de seta e o controle de mira ajustam o azimute e a elevação. Os sliders oferecem azimute, elevação de 10 a 80 graus e potência de referência de 0 a 100. Selecionar um rival apenas vira o tanque na direção dele; isso não pode calcular o disparo.
+O arco azul-petróleo estima a potência de referência escolhida sem vento. Manter essa referência e seu marcador dourado fixos durante a carga. Manter pressionado Fire, Espaço ou Enter no botão Fire em foco para iniciar a potência real em 0 todas as vezes; aumentá-la em 18 pontos percentuais por segundo, mantê-la em 100 e disparar exatamente uma vez ao soltar, usando a potência real naquele instante. Um toque rápido dispara um tiro fraco. A faixa dourada dentro de 3 pontos percentuais é apenas feedback visual, sem ajuste automático nem correção oculta. Cancelar quando houver cancelamento do ponteiro, perda de foco da janela ou perda de visibilidade. Bloquear alterações de movimento, alvo e mira durante a carga. Os controles de teclado dos inputs do tipo range não podem também girar a torre. Potência zero representa a menor velocidade de lançamento, não um projétil parado.
+A seta e as rajadas de vento visíveis em movimento mostram para onde o vento empurra o projétil. Exibir a intensidade do vento e os metros por segundo; clicar no cartão do vento deve explicar seu funcionamento. Vento soprando para a esquerda significa que o jogador deve mirar um pouco para a direita. Ventos mais fortes e maior tempo de voo causam mais deriva. O vento permanece constante durante um disparo e muda a cada turno. Nunca compensar automaticamente a prévia do jogador. Prever aproximadamente o ponto de pouso no terreno; não prometer colisões com tanques ou rochas, divisão em fragmentos nem ricochetes na prévia.
+Oferecer seis tipos de munição: HE ilimitada; um projétil cluster que se divide em cinco submunições descendentes; Seismic, com uma cratera de até 28 metros de largura e 13 de profundidade; um projétil de ricochete que quica duas vezes; um projétil Cataclysm por tanque, com uma cratera de até 46 metros de largura e 22 de profundidade; e Incendiary, que deixa uma zona de fogo com raio de 12 metros. O fogo causa 8 de dano ao final de cada uma das seis ações; sair da área evita o dano e zonas sobrepostas não acumulam efeitos. A água do mar apaga as chamas. Um tanque inteiro, incluindo o cano elevado, totalmente abaixo da água é eliminado imediatamente. Exibir o dano real, a perda de blindagem, o colapso do terreno, o respingo de água e o resultado da eliminação.
+Usar bolas de fogo em camadas, anéis de choque em expansão, faíscas emissivas, fragmentos balísticos, poeira e fumaça, com tremor de câmera moderado. Usar as músicas e os sons originais fornecidos do ElevenLabs para canhão, impacto, ricochete, explosão pesada, fogo e respingo. Incluir controle de som, pausar/retomar, instruções, replay e retorno ao menu. Durante o voo do projétil ou os turnos da IA, oferecer a opção Voltar ao meu turno: executar rapidamente a mesma simulação com passo fixo e preservar todos os resultados de dano, terreno e perigos. Nunca pular o turno de entrada de um amigo em uma partida local.
+
+6. Implementação técnica
+Usar Three.js com módulos ES e Vite, fontes locais incluídas no pacote, Web Audio para efeitos e um elemento de áudio HTML para a música em loop. Manter os recursos na mesma origem e oferecer suporte a uma build estática. Usar um renderizador em perspectiva com antialiasing, orçamentos adequados para sombras e pós-processamento e descarte correto de geometrias e materiais temporários. Distinguir a decoração dos modelos das colisões de gameplay.
+Manter a física determinística independente da renderização, com unidades em metros/segundo, gravidade de 9,81 m/s² e passo fixo de 1/120 de segundo. Usar colisões contínuas por varredura para projéteis de alta velocidade contra o solo, a água, os tanques e as rochas; aplicar impulsos de explosão e gravidade aos tanques deslocados. Derivar as posições de lançamento a partir do transform real do canhão específico de cada tanque. A reprodução normal e o avanço rápido devem chamar as mesmas atualizações de simulação. O dano e a resposta ao vento são regras estilizadas de jogo, não um simulador de explosões de engenharia.
+Oferecer interface em chinês, inglês, japonês e coreano. Escolher inicialmente com base no idioma do dispositivo; dispositivos de Hong Kong, Macau, Taiwan e com chinês tradicional devem usar inglês por padrão. Memorizar as escolhas explícitas e permitir um seletor de idioma visível. Usar layouts responsivos para desktop, celular na vertical e telas curtas na horizontal, menus roláveis em telas baixas, alvos de toque confortáveis, painéis recolhíveis e nenhum controle sobreposto. Não exigir entrada pelo teclado em dispositivos sensíveis ao toque. Manter fora da produção as mutações de estado e os auxiliares de mira exclusivos do desenvolvimento.
+
+7. Critérios de conclusão
+Entregar um projeto-fonte independente e editável, lockfile, instruções de npm para desenvolvimento/build e uma prévia estática funcional. Reproduzir as capturas de tela e o vídeo de gameplay atuais, incluindo o painel de status creme, o marcador dourado fixo de referência, a carga real iniciada em zero e a apresentação totalmente 3D do tanque e da ilha. Verificar o primeiro lançamento, o carregamento dos modelos, um ciclo completo de turno, o comportamento de cada tipo de munição, pausa, replay e um resultado real de vitória/derrota. Confirmar que a troca de aparência preserva o estado e que o cancelamento pelo teclado/toque não dispara o tiro. Em um disparo de teste claro e sem vento, soltar na potência de referência deve fazer o projétil pousar perto do círculo de referência; ventos laterais opostos devem deslocar visivelmente o projétil real sem alterar esse círculo. Verificar o comportamento em 30/60/144 Hz, colisões em alta velocidade, crateras profundas, expiração do fogo, eliminação por submersão completa e a igualdade dos resultados de turno normal e em avanço rápido. Inspecionar os layouts para desktop e telas estreitas nos quatro idiomas; identificar separadamente a emulação do navegador e os testes em dispositivos físicos. Validar a página hospedada e as mídias vinculadas, não apenas a build local.
+
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/crazy-tanks-3d-island-artillery) · [Demonstração](https://super-tanks-aftershock.tripo.page/) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="odd-arms"></a>
 
 ### ODD ARMS — Jogo de sobrevivência com armas bizarras
@@ -4257,7 +4287,7 @@ Entregue o código-fonte, o lockfile, os comandos npm de desenvolvimento/build e
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 276 exemplos no site oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 277 exemplos no site oficial →</a></strong></p>
 <p><sub>Para manter a renderização do README do GitHub fluida, mostramos aqui apenas os 100 exemplos mais recentes.</sub></p>
 <br>
 </td></tr>

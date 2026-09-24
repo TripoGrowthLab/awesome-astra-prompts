@@ -28,7 +28,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**276 · Neueste Astra-Prompts**
+**277 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -56,7 +56,6 @@
 - [Interaktiver 3D-Anatomie-Explorer](#2099206962344800541) · GitHub
 - [Demo für isometrische Fantasy-Grafik](#2100271998618177864) · GitHub
 - [Mosswing: Mobiles 3D-Tap-to-Flap-Spiel](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Interaktiver chinesischer Innenhof](#2096971051334857181)
 - [12-sekündiger Waldweg in Blender](#2096986557244723371)
 - [Interaktives Roboterhaustier auf einer Werkbank](#2097004192627933279)
 - [Interaktiver Wackelpudding-Zitronenbaum](#2097065330728128920)
@@ -146,6 +145,7 @@
 - [Interaktive mittelalterliche 3D-Burg im Browser](#2102780850706567390)
 - [Interaktives 3D-Schachbrett zum Studieren von Schachgambits](#2102788013902213508)
 - [Battle City 3D: Endlose Panzerverteidigung](#battle-city-3d)
+- [Crazy Tanks — 3D-Inselartillerie](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Survival-Game mit verrückten Waffen](#odd-arms)
 - [TITANIC — Das letzte Licht](#titanic-the-last-light)
 - [AKARI: Flammenstaffel auf den Dächern von Nagoya](#akari-nagoya-rooftop-flame-relay)
@@ -326,32 +326,6 @@ Lege das klassische „Tap-to-Flap“-Spiel neu auf – jenes Spiel, bei dem du 
 ```
 
 [Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Originalbeitrag](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Quellcode](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Live-Demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2096971051334857181"></a>
-
-### Interaktiver chinesischer Innenhof
-
-[Larus Canus](https://x.com/MrLarus) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096971051334857181"><img src="../assets/previews/e8d834a9a7ddc8627c0556335e17c834a6058acb2351f02dcd1a47beb8631ecf.jpg" width="840" loading="lazy" alt="Interaktiver chinesischer Innenhof"></a>
-
-Ein wiederverwendbarer Prompt zur Erstellung eines erkundbaren 3D-chinesischen Innenhofs mit Blender und Three.js – einschließlich architektonischer Elemente, interaktiver Navigation, Umwelteffekten, animierter Tiere und eines im Browser lauffähigen Projekts.
-
-**Prompt**
-
-```text
-Erstelle mit Blender und Three.js einen interaktiven chinesischen Innenhof, den ich im Browser erkunden kann.
-
-Füge weiße Wände, dunkle Ziegeldächer, ein Mondtor, Kiefern, einen Teich und einen Steingarten sowie ein Wohnzimmer, einen Teeraum und ein Schlafzimmer hinzu. Verwende Python, um Blender im Hintergrund auszuführen, die Modelle zu erzeugen und GLB-Dateien zu exportieren. Nutze Three.js für Beleuchtung, Spiegelungen, Animationen und Interaktionen.
-
-Unterstütze Orbit-Steuerung, Zoom, WASD-Navigation, den Wechsel zwischen Tag und Nacht sowie das Ein- und Ausblenden des Dachs. Füge nach und nach fließendes Wasser, Koi, hüpfende Frösche, Libellen, eine Innenhofkatze, Spatzen und nächtliche Glühwürmchen hinzu. Halte die Bewegungen dezent und natürlich.
-
-Erstelle eine originelle Benutzeroberfläche, die die Szene nicht verdeckt. Entwickle das Projekt in mehreren Schritten, prüfe die Ergebnisse im Browser, behebe Probleme und liefere das lauffähige Projekt, die Quelldateien und eine Anleitung zur Einrichtung.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096971051334857181) · [Originalbeitrag](https://x.com/MrLarus/status/2096971051334857181) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 
@@ -3996,6 +3970,62 @@ Liefere editierbaren Quellcode, die Herkunft der Assets und Lizenzhinweise, eine
 
 ---
 
+<a id="crazy-tanks-3d-island-artillery"></a>
+
+### Crazy Tanks — 3D-Inselartillerie
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-24
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/previews/7b026fd7cfcbf1398c6b77062abb333fe61e020e75b514aeab2eff40db94984e.png" width="840" loading="lazy" alt="Crazy Tanks — 3D-Inselartillerie"></a>
+
+Ziele, lies den Wind und lade ausgehend von null in einer vollständig dreidimensionalen Artillerieschlacht auf einer Insel. Wähle sechs Geschosse, sprenge tiefe Krater und überlebe das zunehmende Chaos.
+
+**Prompt**
+
+```text
+1. Projektziel
+Entwickle Crazy Tanks — Wild Tides, ein spielbares, wirklich dreidimensionales, rundenbasiertes Artilleriespiel auf einer tropischen Insel. Der Spieler zielt mit einem kleinen Panzer, liest den Wind, lädt ausgehend von null zeitgenau und formt das Schlachtfeld mit Geschossen um. Unterstütze Einzelspielerpartien gegen die KI und lokales Pass-and-Play mit standardmäßig drei Panzern im freien Gefecht sowie einem optionalen Duell mit zwei Panzern. Der letzte überlebende Panzer gewinnt. Verwende das aktuelle Referenz-Gameplay und die Screenshots als visuelles Ziel.
+
+2. Visueller Stil
+Verwende eine perspektivische Kamera und frei umkreisb ar e 3D-Geometrie, keine flachen Sprites oder feste Seitenansicht. Erzeuge ein sonniges Miniatur-Diorama mit abgerundeten jadegrünen, korallenorangefarbenen und blauvioletten Panzern, cremefarbenem Sand, hellgrünem Gras, türkisfarbenem reflektierendem Wasser, weichen Schatten und leichtem atmosphärischem Dunst in der Ferne. Bewahre die unterschiedlichen Silhouetten der drei Panzer und die jeweils passenden Geschützrohre. Verwende oberhalb des Schlachtfelds ein kompaktes rundes cremefarbenes Status-/Panzerungsfeld und darunter ein abgerundetes dunkel-türkises Bedienfeld. Gold kennzeichnet die Referenzleistung und die Schussaktion; Mint kennzeichnet die tatsächliche Ladeleistung und den Status verbündeter Einheiten. Platziere den prominenten Umschalter für die Darstellung von Tripo / Three.js oben und verwende standardmäßig Tripo-Assets. Beim Wechsel der Darstellung müssen Spielstand und Physikzustand erhalten bleiben. Verwende dünne, gleichmäßig verteilte türkisfarbene Dashes im Bildschirmraum und einen dezenten Landekreis; Aiming-Grafiken dürfen sich nicht im Wasser spiegeln.
+
+3. Welt und Szene
+Verwende eine verformbare Heightfield-Insel von ungefähr 260 × 184 Metern, die von einem Ozean mit festem Meeresspiegel umgeben ist. Platziere die Startpanzer mit großem Abstand auf stabilem Boden und verteile Felsen, Palmen, Kakteen und sammelbare Versorgungskisten. Kleinere dekorative Inseln sorgen für räumliche Tiefe im Hintergrund und ersetzen niemals das verformbare Hauptgelände. Explosionen verformen die Oberfläche und können sie unter den Meeresspiegel absenken. Halte Uferfarbe und Gischt in einer einzigen Wasserfläche, um überlappende Ebenen und Flimmern zu vermeiden. Projiziere die Panzernummern in jedem gerenderten Frame aus den Weltpositionen. Biete Ansichten mit vollständiger Flugbahn, Panzeransicht, Orbitkamera und taktischer Draufsicht. Die Flugbahnansicht muss den schießenden Panzer, den Bogen und die geschätzte Landeposition in den Raum zwischen HUD und Bedienfeld einpassen. Zeige vor jedem Schuss etwa 0,8 Sekunden lang den schießenden Panzer, verweile an der Mündung und folge anschließend dem Geschoss. Eine manuelle Kamerainteraktion beendet das filmische Folgen.
+
+4. Asset-Inventar
+Verwende stabile Modell-Slots und halte Ersatzmodelle einzeln adressierbar:
+- jade-body: abgerundeter, grünlicher, schildähnlicher Kettenrumpf; der Standardrumpf des Spielers. jade-cannon: passendes jadegrünes Geschützrohr mit dunkler Bohrung und goldenen Akzenten, unabhängig animierbar.
+- ember-body: korallenoranger, spitz zulaufender gepanzerter Rumpf mit niedrigem mechanischem Profil. ember-cannon: das längere passende orangefarbene Geschützrohr mit dunkler Mündung.
+- bolt-body: blauvioletter industrieller Kettenrumpf mit kantiger Plattenpanzerung. bolt-cannon: passendes, dickes blaues Geschützrohr.
+- shell: ein Artilleriegeschoss aus Messing mit dunkler, konisch zulaufender Spitze und cyanfarbenem Akzent. Mit waffenspezifischer Tönung und Skalierung wiederverwenden.
+- crate: eine gelbe gepanzerte Versorgungskiste mit cyanfarbener Markierung und verstärkten Ecken; beim Einsammeln gibt sie 20 Panzerung, maximal 100.
+- rock: eine Gruppe warmer, abgerundeter Sandsteinfelsen; mit variierter Skalierung wiederholen und einen separaten Kollisions-Proxy verwenden.
+- palm: gebogener Stamm und geschichtete grüne Wedel; als Inselvegetation wiederholen.
+- cactus: kompakter grüner Kaktus mit kleinen Blütendetails; auf trockenem Gelände wiederholen.
+- islet: abgerundete grasbewachsene Hintergrundinsel mit hellen Fels-/Sandrändern; außerhalb der Arena wiederholen.
+Priorisiere die drei passenden Rumpf-/Geschützrohr-Paare, danach Geschoss/Kiste und Umgebungsobjekte. Halte Geländeverformung, Ozean, Gischt, Feuer, Rauch, Schockwellen, Trümmer, Aiming-Grafiken, Beleuchtung, UI und Kollisions-Proxys prozedural. Zusammengehörige Rumpf- und Geschützrohrteile teilen sich eine Designreferenz und Skalierung. Setze den Pivot des Geschützrohrs an sein mechanisches Gelenk, richte seine Vorwärtsachse auf +X aus und verwende die sichtbare Mündung als physischen Abschusspunkt. Die Panzerkörper passen sich mithilfe von Quaternionen an Hänge an; das Zielen des Turms bleibt eine Richtung im Weltraum. Bewahre originale PBR-Texturen und UV-Nähte. Halte herunterladbare Modelle in voller Auflösung getrennt von optimierten Kopien für die Laufzeit des Spiels; Referenzen und Dateiprovenienz müssen die tatsächliche Generierungsquelle ausweisen.
+
+5. Gameplay und Feedback
+Jeder lebende Panzer erhält zu Beginn seines Zuges 18 Meter Bewegungsreichweite. WASD und das Bewegungsfeld bewegen relativ zum Bildschirm; Pfeiltasten und das Zielfeld passen Richtung und Elevation an. Schieberegler bieten Richtungswinkel, eine Elevation von 10–80 Grad und eine Referenzleistung von 0–100. Die Auswahl eines Gegners richtet den Panzer nur auf ihn aus; der Schuss darf dadurch nicht automatisch berechnet werden.
+Der türkise Bogen schätzt die gewählte Referenzleistung ohne Wind. Halte diese Referenz und ihre goldene Markierung während des Ladens unverändert. Halte Feuer, die Leertaste oder Enter auf der fokussierten Feuertaste gedrückt, um jedes Mal bei 0 mit der tatsächlichen Leistung zu beginnen; erhöhe sie um 18 Prozentpunkte pro Sekunde, halte sie bei 100 und feuere beim Loslassen genau einmal mit der in diesem Moment tatsächlich erreichten Leistung. Ein kurzes Antippen feuert einen schwachen Schuss ab. Das goldene Band innerhalb von drei Prozentpunkten dient ausschließlich als visuelles Feedback, ohne Einrasten oder versteckte Korrektur. Brich bei Pointer-Abbruch, wenn das Fenster den Fokus verliert oder die Sichtbarkeit verloren geht, ab. Sperre während des Ladens Bewegungs-, Ziel- und Richtungsänderungen. Tastatursteuerung für Range-Inputs darf nicht gleichzeitig den Turm drehen. Leistung null entspricht der niedrigsten Abschussgeschwindigkeit, nicht einem stillstehenden Geschoss.
+Der Pfeil und die sichtbaren driftenden Windstreifen zeigen, wohin der Wind das Geschoss drückt. Beschrifte Windstärke und Meter pro Sekunde; ein Klick auf die Windkarte erklärt die Anzeige. Weht der Wind nach links, sollte der Spieler etwas nach rechts zielen. Stärkerer Wind und längere Flugzeit verursachen eine größere Drift. Der Wind bleibt während eines Schusses konstant und ändert sich in jedem Zug. Kompensiere die Spielervorschau niemals automatisch. Schätze die Landung auf dem Gelände ungefähr; versprich in der Vorschau keine Kollisionen mit Panzern oder Felsen, keine Aufteilung von Clustergeschossen und keine Abpraller.
+Biete sechs Ladungen: unbegrenzt HE; ein Clustergeschoss, das sich in fünf absteigende Submunitionen aufteilt; Seismic mit einem Krater von bis zu 28 Metern Durchmesser und 13 Metern Tiefe; ein Ricochet-Geschoss, das zweimal abprallt; eine Cataclysm-Ladung pro Panzer mit einem Krater von bis zu 46 Metern Durchmesser und 22 Metern Tiefe; sowie Incendiary, das eine Feuerzone mit 12 Metern Radius hinterlässt. Feuer verursacht an jedem von sechs Zugenden jeweils 8 Schaden; wer sich aus der Zone herausbewegt, vermeidet Schaden, und überlappende Zonen addieren sich nicht. Meerwasser löscht Flammen. Ein vollständig unter Wasser befindlicher Panzer einschließlich seines aufgerichteten Geschützrohrs wird sofort eliminiert. Zeige den tatsächlichen Schaden, Panzerungsverlust, Geländeeinsturz, Wasserspritzer und das Ergebnis der Eliminierung.
+Verwende geschichtete Feuerbälle, expandierende Schockringe, leuchtende Funken, ballistische Fragmente, Staub und Rauch mit zurückhaltendem Kamerawackeln. Verwende die bereitgestellte originale Musik von ElevenLabs sowie Geräusche für Kanone, Einschlag, Abpraller, schwere Explosion, Feuer und Wasserspritzer. Füge einen Sound-Schalter, Pause/Fortsetzen, Anweisungen, Replay und die Rückkehr zum Menü ein. Biete während des Geschossflugs oder der KI-Züge „Back to my turn“ an: Führe dieselbe Fixed-Step-Simulation schnell aus und bewahre sämtliche Schadens-, Gelände- und Gefahrenfolgen. Überspringe niemals den Eingabezug eines lokalen Mitspielers.
+
+6. Technische Umsetzung
+Verwende Three.js mit ES-Modulen und Vite, lokal gebündelte Schriftarten, Web Audio für Effekte und ein HTML-Audioelement für die Loop-Musik. Halte Ressourcen auf derselben Origin und unterstütze einen statischen Build. Verwende einen perspektivischen Renderer mit Antialiasing, einem angemessenen Budget für Schatten und Postprocessing sowie ordnungsgemäßer Freigabe temporärer Geometrien und Materialien. Unterscheide dekorative Modelle von Gameplay-Kollisionen.
+Halte die deterministische Physik unabhängig vom Rendering, mit Einheiten in Meter/Sekunde, der Gravitation 9,81 m/s² und einem Fixed Step von 1/120 Sekunde. Verwende kontinuierliche Swept-Collision-Erkennung für Hochgeschwindigkeitsgeschosse gegen Boden, Wasser, Panzer und Felsen; wende Explosionsimpulse und Gravitation auf verschobene Panzer an. Leite Abschusspositionen aus der tatsächlichen, panzerspezifischen Geschützrohr-Transformation ab. Normale Wiedergabe und Schnellvorlauf müssen dieselben Simulationsupdates aufrufen. Schaden und Windreaktion sind stilisierte Spielregeln, keine technische Explosionssimulation.
+Unterstütze chinesische, englische, japanische und koreanische UI. Wähle anfänglich die Gerätesprache; Geräte aus Hongkong, Macau, Taiwan und Geräte mit traditionellem Chinesisch verwenden standardmäßig Englisch. Merke dir explizite Auswahlen und biete einen sichtbaren Sprachwähler. Unterstütze responsive Desktop-, Hochformat- und kurze Querformat-Layouts, scrollbare Menüs für kleine Bildschirme, komfortable Touch-Ziele, einklappbare Bereiche und keine überlappenden Bedienelemente. Auf Touchgeräten darf keine Tastatureingabe erforderlich sein. Halte nur für die Entwicklung gedachte Zustandsänderungen und Aiming-Helfer aus der Produktionsversion heraus.
+
+7. Abschlusskriterien
+Liefere ein eigenständig bearbeitbares Quellprojekt, eine Lockdatei, npm-Anweisungen für Entwicklung und Build sowie eine funktionierende statische Vorschau. Gleiche die aktuellen Screenshots und das Gameplay-Video ab, einschließlich des cremefarbenen Statusfelds, der goldenen festen Referenzmarkierung, des Live-Ladens ab null und der vollständig dreidimensionalen Darstellung von Panzern und Insel. Überprüfe den ersten Start, das Laden der Modelle, einen vollständigen Zugzyklus, das Verhalten jeder Ladung, Pause, Replay und ein echtes Sieg-/Niederlagenergebnis. Bestätige, dass der Wechsel der Darstellung den Zustand erhält und dass eine Abbruchaktion über Tastatur oder Touch keinen Schuss auslöst. Bei einem klaren Testschuss ohne Wind sollte das Loslassen bei Referenzleistung nahe am Referenzkreis landen; entgegengesetzte Seitenwinde müssen das tatsächliche Geschoss sichtbar verschieben, während der Kreis unverändert bleibt. Prüfe das Verhalten bei 30/60/144 Hz, Hochgeschwindigkeitskollisionen, tiefen Kratern, dem Erlöschen von Feuer, der Eliminierung bei vollständigem Untertauchen und die Gleichheit der Zugergebnisse bei normaler Wiedergabe und Schnellvorlauf. Untersuche Desktop- und schmale Layouts in allen vier Sprachen; unterscheide Browsersimulationen ausdrücklich von Tests auf physischen Geräten. Validiere die gehostete Seite und verknüpfte Medien, nicht nur den lokalen Build.
+
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/crazy-tanks-3d-island-artillery) · [Live-Demo](https://super-tanks-aftershock.tripo.page/) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="odd-arms"></a>
 
 ### ODD ARMS — Survival-Game mit verrückten Waffen
@@ -4261,7 +4291,7 @@ Liefere Quellcode, Lockfile, npm-Befehle für Entwicklung und Build sowie die st
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 276 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 277 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>

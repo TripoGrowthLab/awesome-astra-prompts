@@ -544,6 +544,16 @@
       ]
     },
     {
+      "path": "assets/previews/7b026fd7cfcbf1398c6b77062abb333fe61e020e75b514aeab2eff40db94984e.png",
+      "fingerprint": "759b3ac1a842f16122aad5188f048bb2c386d522b8bd07c7b21a479ccd62c3b2",
+      "sha256": "7b026fd7cfcbf1398c6b77062abb333fe61e020e75b514aeab2eff40db94984e",
+      "bytes": 735381,
+      "sourceUrl": "https://x.com/jaredliu_bravo",
+      "promptIds": [
+        "crazy-tanks-3d-island-artillery"
+      ]
+    },
+    {
       "path": "assets/previews/7ff7139cf9a4704071346a2f8e48c6da2922a9543faa8bd80454119406b69020.png",
       "fingerprint": "e3c2d9a18a946f8810576f4a99d4877d3fd0b59dc76ffe66b8f9f0499e760ece",
       "sha256": "7ff7139cf9a4704071346a2f8e48c6da2922a9543faa8bd80454119406b69020",
@@ -1051,16 +1061,6 @@
       "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2097899249904349184/img/BhCXYRfn_4dmR8UE.jpg",
       "promptIds": [
         "2097900087901106244"
-      ]
-    },
-    {
-      "path": "assets/previews/e8d834a9a7ddc8627c0556335e17c834a6058acb2351f02dcd1a47beb8631ecf.jpg",
-      "fingerprint": "7e9f78e587c24c9f402057626e8f35cbc83c51e9cb6e5d41e6efa95e02ee1b4b",
-      "sha256": "e8d834a9a7ddc8627c0556335e17c834a6058acb2351f02dcd1a47beb8631ecf",
-      "bytes": 74623,
-      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2096970685797064704/img/dAcdmy3AhVAffWX4.jpg",
-      "promptIds": [
-        "2096971051334857181"
       ]
     },
     {

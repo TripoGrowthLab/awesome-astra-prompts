@@ -28,7 +28,7 @@
 **Un punto di partenza per il tuo prossimo gioco, scena o mondo interattivo.**
 
 
-**276 · Prompt Astra più recenti**
+**277 · Prompt Astra più recenti**
 
 ## Progetti in evidenza
 
@@ -56,7 +56,6 @@
 - [Esploratore interattivo dell’anatomia in 3D](#2099206962344800541) · GitHub
 - [Demo di grafica fantasy isometrica](#2100271998618177864) · GitHub
 - [Mosswing: gioco 3D mobile tap-to-flap](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Cortile cinese interattivo](#2096971051334857181)
 - [Sentiero nella foresta di 12 secondi in Blender](#2096986557244723371)
 - [Animale robot interattivo su un banco da lavoro](#2097004192627933279)
 - [Albero di limoni gelatinosi interattivo](#2097065330728128920)
@@ -146,6 +145,7 @@
 - [Castello medievale europeo in 3D esplorabile dal browser](#2102780850706567390)
 - [Scacchiera 3D interattiva per studiare i gambetti degli scacchi](#2102788013902213508)
 - [Battle City 3D: Difesa infinita con i carri armati](#battle-city-3d)
+- [Crazy Tanks — Artiglieria 3D sulle isole](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Gioco survival con armi stravaganti](#odd-arms)
 - [TITANIC — L’ultima luce](#titanic-the-last-light)
 - [AKARI: Staffetta della fiamma sui tetti di Nagoya](#akari-nagoya-rooftop-flame-relay)
@@ -326,32 +326,6 @@ Rielabora il classico gioco "tap-to-flap" — quello in cui tocchi lo schermo pe
 ```
 
 [Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Post originale](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Codice sorgente](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="2096971051334857181"></a>
-
-### Cortile cinese interattivo
-
-[Larus Canus](https://x.com/MrLarus) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2096971051334857181"><img src="../assets/previews/e8d834a9a7ddc8627c0556335e17c834a6058acb2351f02dcd1a47beb8631ecf.jpg" width="840" loading="lazy" alt="Cortile cinese interattivo"></a>
-
-Un prompt riutilizzabile per creare un cortile cinese 3D esplorabile con Blender e Three.js, completo di elementi architettonici, navigazione interattiva, effetti ambientali, fauna animata e un progetto eseguibile nel browser.
-
-**Prompt**
-
-```text
-Crea un cortile cinese interattivo con Blender e Three.js, esplorabile nel browser.
-
-Includi pareti bianche, tetti con tegole scure, una porta lunare, pini, uno stagno e un giardino roccioso, oltre a un soggiorno, una sala da tè e una camera da letto. Usa Python per eseguire Blender in background, generare i modelli ed esportare file GLB. Usa Three.js per illuminazione, riflessi, animazioni e interazioni.
-
-Supporta i controlli orbitali, lo zoom, la navigazione con WASD, il passaggio giorno/notte e la possibilità di nascondere o mostrare il tetto. Aggiungi gradualmente acqua corrente, carpe koi, rane saltellanti, libellule, un gatto del cortile, passeri e lucciole notturne. Mantieni i movimenti discreti e naturali.
-
-Crea un'interfaccia originale che lasci libera la visuale della scena. Procedi per fasi, controlla i risultati nel browser, risolvi i problemi e consegna il progetto eseguibile, i file sorgente e le istruzioni per la configurazione.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2096971051334857181) · [Post originale](https://x.com/MrLarus/status/2096971051334857181) · [Torna agli esempi](#all-prompts)
 
 ---
 
@@ -4031,6 +4005,62 @@ Consegnare il sorgente modificabile, la provenienza degli asset e gli avvisi di 
 
 ---
 
+<a id="crazy-tanks-3d-island-artillery"></a>
+
+### Crazy Tanks — Artiglieria 3D sulle isole
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-24
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/previews/7b026fd7cfcbf1398c6b77062abb333fe61e020e75b514aeab2eff40db94984e.png" width="840" loading="lazy" alt="Crazy Tanks — Artiglieria 3D sulle isole"></a>
+
+Mira, leggi il vento e carica partendo da zero in una battaglia di artiglieria su un'isola completamente in 3D. Scegli tra sei proiettili, scava crateri profondi e sopravvivi al caos crescente.
+
+**Prompt**
+
+```text
+1. Obiettivo del progetto
+Crea Crazy Tanks — Wild Tides, un gioco di artiglieria a turni giocabile e autenticamente tridimensionale, ambientato su un'isola tropicale. Il giocatore mira con un piccolo carro armato, legge il vento, dosa una carica che parte da zero e rimodella il campo di battaglia con i proiettili. Supporta le partite in solitaria contro l'IA e il passaggio locale tra giocatori, con una modalità predefinita tutti contro tutti con tre carri e un duello opzionale tra due carri. Vince l'ultimo carro sopravvissuto. Usa l'attuale gameplay di riferimento e gli screenshot come obiettivo visivo.
+
+2. Stile visivo
+Usa una telecamera prospettica e geometrie 3D orbitabili liberamente, non sprite piatti o una visuale laterale fissa. Crea un diorama in miniatura soleggiato, con carri dalle forme arrotondate color giada, arancio corallo e blu-viola, sabbia color crema, erba verde chiaro, acqua turchese riflettente, ombre morbide e una leggera foschia atmosferica in lontananza. Mantieni distintive le sagome dei tre carri e abbina i rispettivi cannoni. Usa un compatto pannello circolare color crema, simile a un'armatura, sopra il campo di battaglia e una plancia di controllo arrotondata color verde petrolio scuro sotto di esso. L'oro indica la potenza di riferimento e l'azione di fuoco; il color menta indica la carica effettiva e lo stato degli alleati. Mantieni ben visibile in alto il selettore dell'aspetto Tripo / Three.js, con le risorse Tripo come impostazione predefinita. Il cambio di aspetto deve preservare lo stato della partita e della fisica. Usa trattini sottili color verde petrolio, equidistanti e nello spazio dello schermo, oltre a un cerchio di atterraggio discreto; non riflettere sull'acqua la grafica di mira.
+
+3. Mondo e scena
+Usa un'isola con height field deformabile di circa 260 per 184 metri, circondata dall'oceano a un livello del mare fisso. Posiziona i carri iniziali ben distanti tra loro su terreno stabile; distribuisci rocce, palme, cactus e casse di rifornimenti raccoglibili. Le isole decorative più piccole aggiungono profondità allo sfondo e non devono mai sostituire il terreno principale deformabile. Le esplosioni deformano la superficie e possono scavare sotto il livello del mare. Mantieni il colore della riva e la schiuma su un'unica superficie d'acqua, per evitare piani sovrapposti e sfarfallio. Proietta i numeri dei carri dalle posizioni nel mondo a ogni frame renderizzato. Fornisci visuali dell'intera traiettoria, del carro, orbitabile e tattica dall'alto. La visuale della traiettoria deve contenere il carro che spara, l'arco e il punto di atterraggio stimato nello spazio tra l'HUD e la plancia di controllo. Prima di ogni colpo, mostra il carro che spara per circa 0,8 secondi, soffermati sulla bocca da fuoco e poi segui il proiettile. L'interazione manuale con la telecamera annulla l'inseguimento cinematografico.
+
+4. Inventario delle risorse
+Usa slot stabili per i modelli e mantieni i modelli sostitutivi indirizzabili individualmente:
+- jade-body: scafo cingolato arrotondato a forma di scudo verde; il corpo predefinito del giocatore. jade-cannon: cannone coordinato color giada, con anima scura e dettagli dorati, articolato indipendentemente.
+- ember-body: scafo corazzato appuntito color arancio corallo, dal profilo meccanico ribassato. ember-cannon: il relativo cannone arancione più lungo, con bocca da fuoco scura.
+- bolt-body: scafo cingolato industriale blu-viola, con corazza angolare a piastre. bolt-cannon: cannone blu spesso coordinato.
+- shell: proiettile d'artiglieria in ottone, con punta rastremata scura e dettaglio ciano. Riutilizzalo con tinta e scala specifiche per l'arma.
+- crate: cassa di rifornimenti corazzata gialla, con marchio ciano e angoli rinforzati; raccoglila per ottenere 20 punti corazza, fino a un massimo di 100.
+- rock: gruppo arrotondato di arenaria dai toni caldi; ripetilo a scale variate e usa un proxy di collisione separato.
+- palm: tronco ricurvo e fronde verdi stratificate; ripetilo come vegetazione dell'isola.
+- cactus: cactus verde compatto con piccoli dettagli floreali; ripetilo sul terreno asciutto.
+- islet: isola erbosa arrotondata sullo sfondo, con bordi di roccia e sabbia chiara; ripetila oltre l'arena.
+Dai priorità alle tre coppie coordinate corpo/cannone, seguite da proiettile/cassa e dagli elementi ambientali. Mantieni procedurali la deformazione del terreno, l'oceano, la schiuma, il fuoco, il fumo, le onde d'urto, i detriti, la grafica di mira, l'illuminazione, l'interfaccia e i proxy di collisione. Le parti corpo e cannone coordinate condividono un unico riferimento di design e la stessa scala. Posiziona il pivot del cannone sul suo giunto meccanico, allinea il suo asse anteriore a +X e usa la bocca da fuoco visibile come punto fisico di lancio. I corpi dei carri seguono le pendenze usando quaternioni; la mira della torretta resta una direzione nello spazio del mondo. Conserva le texture PBR originali e le cuciture UV. Mantieni separati i modelli scaricabili a piena risoluzione dalle copie ottimizzate per il runtime di gioco; i riferimenti e la provenienza dei file devono identificare l'effettiva fonte di generazione.
+
+5. Gameplay e feedback
+Ogni carro in vita riceve 18 metri di movimento all'inizio del proprio turno. WASD e il pad di movimento si muovono in relazione allo schermo; i tasti freccia e il pad di mira regolano azimut ed elevazione. Gli slider consentono di impostare azimut, elevazione da 10 a 80 gradi e potenza di riferimento da 0 a 100. Selezionare un avversario serve solo a rivolgersi verso di lui; non deve calcolare il tiro.
+L'arco color verde petrolio stima la potenza di riferimento scelta in assenza di vento. Mantieni fissi tale riferimento e il relativo indicatore dorato durante la carica. Tieni premuto Fuoco, Spazio o Invio sul pulsante Fuoco attivo per avviare ogni volta la potenza effettiva da 0; aumentala di 18 punti percentuali al secondo, mantienila a 100 e spara esattamente una volta al rilascio, usando la potenza effettiva in quell'istante. Un tocco rapido produce un tiro debole. La fascia dorata entro 3 punti percentuali è solo feedback visivo, senza agganci o correzioni nascoste. Annulla in caso di annullamento del puntatore, perdita del focus della finestra o perdita di visibilità. Blocca i cambiamenti di movimento, bersaglio e mira durante la carica. I controlli da tastiera degli input range non devono anche ruotare la torretta. La potenza zero rappresenta la velocità di lancio minima, non un proiettile fermo.
+La freccia e le scie di vento visibili in movimento mostrano la direzione in cui il vento spinge il proiettile. Indica la forza del vento e i metri al secondo; facendo clic sulla scheda del vento se ne spiega il funzionamento. Se il vento soffia verso sinistra, il giocatore deve mirare un po' verso destra. Un vento più forte e un tempo di volo maggiore causano una deriva più ampia. Il vento resta costante durante il tiro e cambia a ogni turno. Non compensare mai automaticamente l'anteprima del giocatore. Prevedi approssimativamente l'atterraggio sul terreno; nell'anteprima non promettere collisioni con carri o rocce, suddivisione dei gruppi o rimbalzi.
+Fornisci sei tipi di munizioni: HE illimitate; un proiettile a grappolo che si divide in cinque submunizioni discendenti; Seismic, con un cratere fino a 28 metri di diametro e 13 di profondità; un proiettile rimbalzante che rimbalza due volte; un proiettile Cataclysm per carro, con un cratere fino a 46 metri di diametro e 22 di profondità; e Incendiary, che lascia una zona di fuoco con raggio di 12 metri. Il fuoco infligge 8 danni al termine di ciascuna delle sei azioni; uscire dalla zona evita i danni e le zone sovrapposte non cumulano gli effetti. L'acqua marina spegne le fiamme. Un carro intero, compreso il cannone sollevato, completamente sotto il livello dell'acqua viene eliminato immediatamente. Mostra i danni reali, la perdita di corazza, il cedimento del terreno, gli schizzi d'acqua e l'esito dell'eliminazione.
+Usa palle di fuoco stratificate, anelli d'urto in espansione, scintille emissive, frammenti balistici, polvere e fumo, con un tremolio della telecamera contenuto. Usa la musica originale e i suoni di cannone, impatto, rimbalzo, esplosione pesante, fuoco e schizzi forniti da ElevenLabs. Includi attivazione/disattivazione dell'audio, pausa/ripresa, istruzioni, rigioca e ritorno al menu. Durante il volo del proiettile o i turni dell'IA, offri Torna al mio turno: esegui rapidamente la stessa simulazione a passi fissi e conserva tutti gli esiti relativi a danni, terreno e pericoli. Non saltare mai il turno di input di un amico in una partita locale.
+
+6. Implementazione tecnica
+Usa Three.js con moduli ES e Vite, font locali inclusi nel pacchetto, Web Audio per gli effetti e un elemento audio HTML per la musica in loop. Mantieni le risorse sulla stessa origine e supporta una build statica. Usa un renderer prospettico con antialiasing, budget adeguati per ombre e post-processing e una corretta eliminazione della geometria e dei materiali temporanei. Distingui la decorazione dei modelli dalle collisioni di gioco.
+Mantieni la fisica deterministica indipendente dal rendering, con unità metro/secondo, gravità pari a 9.81 m/s² e un passo fisso di 1/120 di secondo. Usa collisioni continue con sweep per i proiettili ad alta velocità contro terreno, acqua, carri e rocce; applica impulsi d'esplosione e gravità ai carri spostati. Ricava le posizioni di lancio dal transform effettivo del cannone specifico del carro. La riproduzione normale e l'avanzamento rapido devono chiamare gli stessi aggiornamenti della simulazione. I danni e la risposta al vento sono regole di gioco stilizzate, non un simulatore ingegneristico di esplosioni.
+Supporta interfacce in cinese, inglese, giapponese e coreano. All'avvio scegli la lingua del dispositivo; i dispositivi impostati su Hong Kong, Macao, Taiwan e cinese tradizionale devono usare l'inglese come impostazione predefinita. Ricorda le scelte esplicite e consenti di selezionare la lingua tramite un selettore visibile. Usa layout responsive per desktop, telefoni in verticale e visualizzazioni orizzontali ridotte, menu scorrevoli per gli schermi bassi, target touch comodi, pannelli comprimibili e nessun controllo sovrapposto. Non richiedere input da tastiera sui dispositivi touch. Mantieni fuori dalla produzione la mutazione dello stato e gli helper di mira riservati allo sviluppo.
+
+7. Criteri di completamento
+Fornisci un progetto sorgente autonomo e modificabile, il lockfile, le istruzioni npm per dev/build e un'anteprima statica funzionante. Rispecchia gli screenshot e il video di gameplay attuali, incluso il pannello di stato color crema, l'indicatore dorato di riferimento fisso, la carica effettiva che parte da zero e la presentazione completamente 3D di carri e isola. Verifica il primo avvio, il caricamento dei modelli, un ciclo completo di turno, il comportamento di ogni tipo di munizione, la pausa, il replay e un esito reale di vittoria/sconfitta. Conferma che il cambio di aspetto preservi lo stato e che l'annullamento da tastiera/touch non provochi lo sparo. In un tiro di test chiaro e senza vento, il rilascio alla potenza di riferimento dovrebbe atterrare vicino al cerchio di riferimento; i venti trasversali opposti devono spostare visibilmente il proiettile effettivo lasciando invariato quel cerchio. Controlla il comportamento a 30/60/144 Hz, le collisioni ad alta velocità, i crateri profondi, la scadenza del fuoco, l'eliminazione per immersione completa e l'uguaglianza degli esiti del turno in modalità normale e avanzamento rapido. Esamina i layout desktop e stretti in tutte e quattro le lingue; identifica separatamente l'emulazione del browser dai test su dispositivi fisici. Convalida la pagina pubblicata e i media collegati, non solo la build locale.
+
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/crazy-tanks-3d-island-artillery) · [Demo](https://super-tanks-aftershock.tripo.page/) · [Torna agli esempi](#all-prompts)
+
+---
+
 <a id="odd-arms"></a>
 
 ### ODD ARMS — Gioco survival con armi stravaganti
@@ -4296,7 +4326,7 @@ Consegna il codice sorgente, il lockfile, i comandi npm per sviluppo/build e l�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 276 esempi sul sito ufficiale →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 277 esempi sul sito ufficiale →</a></strong></p>
 <p><sub>Per mantenere fluido il rendering del README su GitHub, qui mostriamo solo i 100 esempi più recenti.</sub></p>
 <br>
 </td></tr>

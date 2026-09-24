@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "model": "gpt-6-astra",
   "count": 100,
-  "totalCount": 276,
+  "totalCount": 277,
   "sourceCodeCount": 12,
   "limit": 100,
   "locales": [
@@ -28,7 +28,6 @@
     "2099206962344800541",
     "2100271998618177864",
     "mosswing-mobile-3d-tap-to-flap-game",
-    "2096971051334857181",
     "2096986557244723371",
     "2097004192627933279",
     "2097065330728128920",
@@ -118,6 +117,7 @@
     "2102780850706567390",
     "2102788013902213508",
     "battle-city-3d",
+    "crazy-tanks-3d-island-artillery",
     "odd-arms",
     "titanic-the-last-light",
     "akari-nagoya-rooftop-flame-relay",
@@ -136,7 +136,6 @@
     "2099206962344800541",
     "2100271998618177864",
     "mosswing-mobile-3d-tap-to-flap-game",
-    "2096971051334857181",
     "2096986557244723371",
     "2097004192627933279",
     "2097065330728128920",
@@ -226,6 +225,7 @@
     "2102780850706567390",
     "2102788013902213508",
     "battle-city-3d",
+    "crazy-tanks-3d-island-artillery",
     "odd-arms",
     "titanic-the-last-light",
     "akari-nagoya-rooftop-flame-relay",
@@ -236,78 +236,78 @@
   "files": [
     {
       "path": "assets/manifest.json",
-      "sha256": "d5e7df1ec3f6b8d7bbbdbc2d77a1d09c59e26196c7b1a0aac8e69455f0d3fce7",
-      "bytes": 55606
+      "sha256": "0aed92bad5fc941d3c8b484421c0fe1b8741731e7b8ada7fe4c333b588726b52",
+      "bytes": 55561
     },
     {
       "path": "docs/catalog.de.md",
-      "sha256": "3d2846742901b3398e008bc80289ad0fb1b0573d1fcad78f420eff88d8f245f5",
-      "bytes": 370319
+      "sha256": "a38d94661f8b308a1135e405f55075c3cc8288960e10a3a7d30b66a0056e1901",
+      "bytes": 381327
     },
     {
       "path": "docs/catalog.en.md",
-      "sha256": "5311cd14d1da9a85e05d56520beec5b80a9cd416fc5bcb25b97b182527e086bf",
-      "bytes": 315113
+      "sha256": "a09e3e37297014c6100f75cb041ca12018d7c9a51a41e1bb8942c22fb63a189a",
+      "bytes": 323680
     },
     {
       "path": "docs/catalog.es.md",
-      "sha256": "0c6a4ab065fbe17f8da52a9b403d3a0e3890adeb5475ccc63d91c2bd74f6d540",
-      "bytes": 373079
+      "sha256": "9942dba64168a471086bcefa1e9f9996f0567cc699a866ae1d07d6320f1e0a2d",
+      "bytes": 384463
     },
     {
       "path": "docs/catalog.fr.md",
-      "sha256": "ead132040522485c256d4a9571e9452cf1adc71b8c6563be7ffcf90933b2aaec",
-      "bytes": 389618
+      "sha256": "ca98832cce99e5583f0258b56928e6bd3885e58221ea7269d046575b0abda0d6",
+      "bytes": 401454
     },
     {
       "path": "docs/catalog.it.md",
-      "sha256": "e0626cdff0eaa0848cfee02fdc7080e830ca71dfdb1818614efea78ddd2eb3ba",
-      "bytes": 365054
+      "sha256": "35ba5f8c5f678e087cd562fbbca67a1e14503ed3660c6b244537c8b3e06da6b1",
+      "bytes": 376016
     },
     {
       "path": "docs/catalog.ja.md",
-      "sha256": "57b9a0d015688526801cc356de639b97e5f686452ba9b8e78506a362fcaf1bd2",
-      "bytes": 399694
+      "sha256": "5c3fe5fd2bbf73d4daaaccf8ab0737b89c653dcab094ba964af0fa724acb5624",
+      "bytes": 411759
     },
     {
       "path": "docs/catalog.ko.md",
-      "sha256": "0e931e8ed631b1df13ff9a1e92951ac741b7b141ab3f724e870ec50e44c19dec",
-      "bytes": 381215
+      "sha256": "d6ec33197fa0f7202e76f9e79e1dd3a5dc44f4a5956f3d45546fa48515e4648c",
+      "bytes": 392533
     },
     {
       "path": "docs/catalog.pt.md",
-      "sha256": "9766e180348907674683adecdebf0298fc55e8dc7232cc4be10fdb88665e55c5",
-      "bytes": 360838
+      "sha256": "db0d0fdf8d1274b8ae7b3e56d44c5534ab9e70bd865aa418e5f1c7bdc161261e",
+      "bytes": 371628
     },
     {
       "path": "docs/catalog.ru.md",
-      "sha256": "13a6ed3dddda6a5dd8a4b2bea99043bfe550edbba981cf42a8e214cfaed6664e",
-      "bytes": 561954
+      "sha256": "d5ad8e98e46a46a4b8176e0b656045aa3ce658d629ef581b7032d2ccb85287ef",
+      "bytes": 580982
     },
     {
       "path": "docs/catalog.tr.md",
-      "sha256": "9abc11cec3f9143ce25542c376b2261152438167b8460151ace331ca64c7e22d",
-      "bytes": 364541
+      "sha256": "66454bbaf14326dff9ab29138c89999308af89838fe54aa5bc6a7461680358ff",
+      "bytes": 375351
     },
     {
       "path": "docs/catalog.uk.md",
-      "sha256": "d43cdf447169ccc841d5283ebfd0d5b95438ba06fca985a62db29d64bdf7a98c",
-      "bytes": 562298
+      "sha256": "f03584b553f4fd2da8c6eb9ad969d23e4396b8775f656df80962ffbba83db231",
+      "bytes": 580708
     },
     {
       "path": "docs/catalog.vi.md",
-      "sha256": "f7c00170952d17b93a56c3fb5c0b84cac2c4694ad5ec2dd9ef39d2a310cd2a17",
-      "bytes": 407697
+      "sha256": "c29666947cf3b1cd5166088e62c2e97b3104b9fa78281e55c4accce593b8bc94",
+      "bytes": 419707
     },
     {
       "path": "docs/catalog.zh-Hant.md",
-      "sha256": "9a517a6fa0d75d6b97ca33791d8d312c515841f4c22ee99a48cdcbf1d60d8a9a",
-      "bytes": 301187
+      "sha256": "6135d8aa20191c14a25a69bfd8dbb731550f91914838435ba3d9770f0522a495",
+      "bytes": 309605
     },
     {
       "path": "docs/catalog.zh.md",
-      "sha256": "13a9c23038638c74e6bdcd1391f45828d4b0bbe2450d6184616ceb969fa96cd4",
-      "bytes": 298586
+      "sha256": "44511aa4f68412cff9629de1eacd1237fe6c7a452d9e86bab907057b65af7684",
+      "bytes": 306839
     },
     {
       "path": "docs/with-code.md",
@@ -316,13 +316,13 @@
     },
     {
       "path": "README.md",
-      "sha256": "72878db873d8c2984e4f2db827a08b326ee166ad852341e44cc4b1f623a6ed31",
-      "bytes": 314699
+      "sha256": "19840b3a37b5d6c0b3f85745a9b68de3f59555d9df3ce1d9cfb3bde5ecc5deb9",
+      "bytes": 323266
     },
     {
       "path": "README.zh-CN.md",
-      "sha256": "99a67b108a60694b8cbc40659afc1378b259393a5b39af033e17a5726f3b7050",
-      "bytes": 298172
+      "sha256": "b9358e996698d81face434369515355499e6a58d65b740382a520878cc9604a4",
+      "bytes": 306425
     }
   ]
 }
