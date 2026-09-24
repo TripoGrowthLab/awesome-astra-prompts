@@ -28,7 +28,7 @@
 **次のゲーム、シーン、インタラクティブな世界づくりのヒントに。**
 
 
-**271 · 最新の Astra プロンプト**
+**276 · 最新の Astra プロンプト**
 
 ## 注目の作品
 
@@ -56,11 +56,6 @@
 - [インタラクティブ3D解剖ビューア](#2099206962344800541) · GitHub
 - [アイソメトリックなファンタジーグラフィックスデモ](#2100271998618177864) · GitHub
 - [Mosswing：モバイル向け3Dタップ飛行ゲーム](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Blender MCPで作るLEGOミニフィグのゲームアセット](#2096766465730847059)
-- [Three.jsとWebGPUで作るインタラクティブなソフトボディ・スライム](#2096793432987464010)
-- [ホグワーツの3Dシーン](#2096907617117540478)
-- [Three.js WebGPUで作る無限ミニチュアストリート](#2096956214680965501)
-- [「重力が壊れた地平線」のVRChat向け景観ワールド](#2096966425017467344)
 - [インタラクティブな中国式中庭](#2096971051334857181)
 - [Blenderで作る12秒の森の道](#2096986557244723371)
 - [作業台の上のインタラクティブなロボットペット](#2097004192627933279)
@@ -145,6 +140,11 @@
 - [東京タワーの昼夜3Dシーンと動画](#2102276620124062065)
 - [バブルベイ：3D水風船バトル](#2102300855387205871)
 - [Sir, We Have Orc Problems風のTDゲーム](#2102411087002112256)
+- [内装付きの郊外の2階建て住宅](#2102473710724919614)
+- [中世の城のブラウザアニメーション](#2102672926285713456)
+- [Orbit Lab：太陽・地球・月の3Dシミュレーション](#2102752217375899659)
+- [ブラウザで操作できる中世ヨーロッパ風3D城](#2102780850706567390)
+- [チェスのガンビットを学ぶインタラクティブ3D盤](#2102788013902213508)
 - [Battle City 3D：エンドレス戦車ディフェンス](#battle-city-3d)
 - [ODD ARMS — 奇妙な武器のサバイバルゲーム](#odd-arms)
 - [TITANIC — 最後の光](#titanic-the-last-light)
@@ -326,278 +326,6 @@ Three.jsを使って、高品質なインタラクティブ3D展示「Chernobyl 
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [元の投稿](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [ソースコード](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [デモ](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="2096766465730847059"></a>
-
-### Blender MCPで作るLEGOミニフィグのゲームアセット
-
-[Simon Smith](https://x.com/_simonsmith) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/astra-3d-2096766465730847059"><img src="../assets/previews/2b65a179759aadacaa8dcf78ecfd45f3e7dcd04b4d1f535bc553c3d9f7505f2d.jpg" width="840" loading="lazy" alt="Blender MCPで作るLEGOミニフィグのゲームアセット"></a>
-
-Blender MCPを使って、ドナルド・トランプをモデルにしたLEGOミニフィグを、高品質なAAAゲーム用アセットとして作成します。
-
-**プロンプト**
-
-```text
-Blender MCPを使って、ゲームアセットとして利用できるドナルド・トランプのLEGOミニフィグを作成してください。AAAゲーム品質の exceptional な仕上がりを目指し、細部まで作り込み、正確で優れたモデルになっているか入念に検証してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/astra-3d-2096766465730847059) · [元の投稿](https://x.com/_simonsmith/status/2096766465730847059) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="2096793432987464010"></a>
-
-### Three.jsとWebGPUで作るインタラクティブなソフトボディ・スライム
-
-[码农暖爸](https://x.com/Delroy715) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096793432987464010"><img src="../assets/previews/080a768b7958082811553a4d1a4c865caeee6e542e68fe0ba9e32ed478233342.jpg" width="840" loading="lazy" alt="Three.jsとWebGPUで作るインタラクティブなソフトボディ・スライム"></a>
-
-作者はSoftieというブラウザ上で動くスライムアプリを紹介し、その制作に使ったプロンプトも後から公開しています。このプロンプトでは、ドラッグや押しつぶしに反応し、各種パラメータを調整できるソフトボディ・スライムの制作を求めています。
-
-**プロンプト**
-
-```text
-新しいディレクトリを作り、ブラウザで遊べる1ページ構成のスライムアプリを作ってください。Three.jsとWebGPUを使い、WebGLで済ませないでください。
-中央に、丸くてふっくらしたスライムを配置します。色はピンクまたは青緑で、半透明にし、内部に気泡がうっすら見えるようにしてください。マウスで押したり、ドラッグして動かしたりできるようにし、離すと揺れながら元の形に戻るようにします。少し重力を持たせ、見えないテーブル面に軽くぶつかるようにしてください。硬いボールではなく、柔らかな肉感のある見た目にします。
-顔にはかわいらしい表情を付けます。黒い豆粒のような目を2つと小さな口を配置し、目と口が本体から分離せず、表面の変形に合わせて一緒に押しつぶされるようにしてください。右側には、色・硬さ・ダンピングを調整できるシンプルなコントロールをいくつか配置します。「つつく」ボタンを押すと、スライムが跳ねるようにしてください。
-ページはすっきりとしたデザインにし、背景は明るいグレー、タイトルは大きな文字にします。60fpsで動作するようにしてください。まず目標となる完成イメージを1枚作成し、そのイメージをもとに構築します。スクリーンショットがイメージに近づいてから、細部を追加してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096793432987464010) · [元の投稿](https://x.com/Delroy715/status/2096793432987464010) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="2096907617117540478"></a>
-
-### ホグワーツの3Dシーン
-
-[Prompt Case](https://x.com/HiltonMisia) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096907617117540478"><img src="../assets/previews/bffeb201cd39ed86178dd22e30bda1ea70e4ff92902307d88ba66700e21dcd32.jpg" width="840" loading="lazy" alt="ホグワーツの3Dシーン"></a>
-
-ホグワーツとその周辺環境、ランドマーク、内部、プロップ、シネマティックな演出、霧、サウンドデザイン、切り替え可能なビジュアル設定を備えた、大規模でリアルかつ探索可能な3Dモデルを作成するための再利用可能なプロンプトです。
-
-**プロンプト**
-
-```text
-ヘッドレスBlenderを使用して、『ハリー・ポッター』に登場するホグワーツ魔法魔術学校の大規模で非常にリアルかつ、細部まで作り込まれた3Dモデルを作成してください。周囲の自然環境、象徴的なランドマーク、忠実に再現した屋内ロケーション、プロップを含めてください。シネマティック品質のマテリアル、ライティング、レンダリング、サウンドデザインを実現し、ミステリアスな雰囲気と、動的に漂う霧を加えてください。ユーザーが環境内を自由に探索できるようにし、ライティングなどのビジュアル設定を切り替えられるようにしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096907617117540478) · [元の投稿](https://x.com/HiltonMisia/status/2096907617117540478) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="2096956214680965501"></a>
-
-### Three.js WebGPUで作る無限ミニチュアストリート
-
-[Dash](https://x.com/creativedash) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096956214680965501"><img src="../assets/previews/c2aa4cd5daf5e1bc8f71051db13c08e7f52359b5a5aaf7b813b72d474117897e.jpg" width="840" loading="lazy" alt="Three.js WebGPUで作る無限ミニチュアストリート"></a>
-
-配達用自転車、ショップ、濡れた路面の表現、散らばる落ち葉、緩やかに湾曲した世界、ピクセルアート調のビジュアル、調整可能なForgeパラメータを備えた、インタラクティブなミニチュアの街並みを作成します。
-
-**プロンプト**
-
-```text
-three.js WebGPUで、無限に続くミニチュアストリートを作ってください。小さなショップが並ぶ通りを配達用自転車が走り、濡れたアスファルトにはタイヤが通ると波紋が広がって水しぶきが上がる水たまりを配置します。タイヤ痕は時間とともに薄れ、落ち葉は風に散り、世界全体は緩やかに湾曲させます。ピクセルアート調に仕上げ、スマートフォンでも滑らかに動作するようにしてください。世界を完全に操作できるForgeパラメータを追加してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096956214680965501) · [元の投稿](https://x.com/creativedash/status/2096956214680965501) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="2096966425017467344"></a>
-
-### 「重力が壊れた地平線」のVRChat向け景観ワールド
-
-[Xenoah](https://x.com/shuminchuuu) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/4249576bc3ef16efff9d41b996da6d554a81ab9b92521403fc31f796bdc219e6.jpg" width="840" loading="lazy" alt="「重力が壊れた地平線」のVRChat向け景観ワールド"></a>
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/51d37ab77febf4110ac195be5af21dd52d50affd6065a08c5e6db483990660b1.jpg" width="840" loading="lazy" alt="「重力が壊れた地平線」のVRChat向け景観ワールド"></a>
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/bbf43abf35435160d5917d94efa7a576610b94ea5786009662d9427c88b5ac97.jpg" width="840" loading="lazy" alt="「重力が壊れた地平線」のVRChat向け景観ワールド"></a>
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/82e3e79bf97929c164258f8ed906c7080b9366386db02792fc854ef6a9b26117.jpg" width="840" loading="lazy" alt="「重力が壊れた地平線」のVRChat向け景観ワールド"></a>
-
-Blenderで、重力が壊れた遠景を持つVRChat向け景観ワールドの3Dモデル一式を作成するプロンプトです。丘、半円形の観測デッキ、観測装置、垂直の海、逆さの山脈、黒い柱、空間断層などを、ローポリ寄りの大きなシルエットとして構成します。
-
-**プロンプト**
-
-```text
-Blenderで、VRChat向け景観ワールドの3Dモデル一式を作ってください。
-
-テーマは、
-
-「重力が壊れた地平線」
-
-です。
-
-プレイヤーが立つ丘の頂上だけは正常で、遠景だけが大きく物理破綻しています。
-
-全体はシンプルな造形にしてください。
-細かい装飾より、
-大きなシルエット
-
-遠景の異常さ
-展望台の形
-空間構成
-を優先してください。
-
-構成
-
-作るものは以下です。
-
-丘の頂上
-
-細い散策路
-浅い切通し
-半円形の観測デッキ
-少数のベンチ
-壊れた案内板
-中央観測装置
-遠景の都市
-垂直に立つ海
-逆さの山脈
-巨大な黒い柱
-空間断層
-静的な雲
-展望台
-
-展望台は半円形。
-
-既存の展望台を真似せず、完全オリジナル形状にしてください。
-
-特徴:
-
-半円形
-
-左右非対称
-一部が空中へ張り出す
-低い縁
-半透明素材を想定した形状
-一部だけ重力異常で変形
-複雑にしすぎず、遠くから見ても形が分かる大きなシルエットにしてください。
-
-中央観測装置
-
-展望台中央に、
-
-半透明球体
-
-不完全なリング
-黒い柱へ向いた照準フレーム
-を組み合わせたシンプルな装置を配置してください。
-
-遠景
-
-遠景は最重要です。
-
-以下を大きな簡略形状で作ってください。
-
-空へ落ちる都市
-
-箱形のビル群を、通常とは違う方向へ伸ばしてください。
-
-垂直の海
-
-巨大な水面プレーンを90度近く立てて配置してください。
-
-逆さの山脈
-
-簡略化した山のシルエットを上下反転してください。
-
-黒い柱
-
-非常に巨大で細長い黒い柱を遠景に配置してください。
-
-建物ではなく、空間の欠損のように見える形にしてください。
-
-空間断層
-
-黒い柱の周囲に、大きく裂けた板状または帯状の形状を配置してください。
-
-発光マテリアルを想定します。
-
-地形
-
-丘はなだらかな草地。
-
-スポーン地点から展望台まで、
-
-細い散策路
-
-浅い切通し
-を作ってください。
-
-切通しを抜けると、遠景が一気に見える構図にしてください。
-
-植生
-
-植物は最小限。
-
-草
-
-少数の低木
-ごく一部だけ異常方向へ傾いた植物
-程度で十分です。
-
-モデリング方針
-
-ローポリ寄りで構いません。
-
-細部を作り込みすぎないでください。
-
-Primitiveを積極的に使い、
-
-Cube
-
-Plane
-Cylinder
-Sphere
-Curve
-を中心に作ってください。
-
-遠景は特に簡略化してください。
-
-重要なのはディテールではなく、
-
-「遠くを見た瞬間に世界がおかしいと分かること」
-
-です。
-
-Blender内の整理
-
-オブジェクトを以下のコレクションに分けてください。
-
-PLAYER_AREA
-
-OBSERVATION_DECK
-OBSERVATION_DEVICE
-VEGETATION
-DISTANT_CITY
-DISTANT_SEA
-DISTANT_MOUNTAINS
-BLACK_PILLAR
-SPACE_FRACTURE
-CLOUDS
-PROPS
-VRChat用にUnityへ持っていきやすい構成にしてください。
-
-最優先は、
-
-「展望台から見た一枚絵としての景観」
-
-です。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096966425017467344) · [元の投稿](https://x.com/shuminchuuu/status/2096966425017467344) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -4100,6 +3828,123 @@ Sir, we have orc problemsみたいなTDゲーム作って
 
 ---
 
+<a id="2102473710724919614"></a>
+
+### 内装付きの郊外の2階建て住宅
+
+[Azer](https://x.com/azer0lxm) · 2026-09-22
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/1f868aa1278025abb5f25b4de2bb5daa62db78697a0f9706334215d617f27218.jpg" width="840" loading="lazy" alt="内装付きの郊外の2階建て住宅"></a>
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/48e89527946c980bd26b406a09f6be616f367109ace52923b217f454df158cab.jpg" width="840" loading="lazy" alt="内装付きの郊外の2階建て住宅"></a>
+
+Azerが提示したプロンプトでは、内装を含む郊外の2階建て住宅のBlender用3Dモデルが求められています。
+
+**プロンプト**
+
+```text
+こんにちは。Blenderを使って、内装などすべてを含む、できるだけ完成度の高い郊外の2階建て住宅の3Dモデルを制作してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102473710724919614) · [元の投稿](https://x.com/azer0lxm/status/2102473781830909995) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="2102672926285713456"></a>
+
+### 中世の城のブラウザアニメーション
+
+[juhapalomaki.fi](https://juhapalomaki.fi/) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102672926285713456"><img src="../assets/previews/b43efddd3611576ef42085cb8dc829a3c4e2476c7392c3ce076fd7b852c3f5c1.jpg" width="840" loading="lazy" alt="中世の城のブラウザアニメーション"></a>
+
+森に覆われた丘の上に建つ中世の城を描いた、ブラウザベースの3Dシーンです。カメラは城の周囲を સતત rotating around the castle, and a tower flag waves in the wind. The linked author post identifies this as the shared one-shot task used for GPT-6 Astra high and other tested models.
+
+**プロンプト**
+
+```text
+ブラウザだけで完全に動作する3Dアニメーションを作成してください。広大な森の中にある丘の頂上に建つ中世の城を登場させます。キーボード操作は追加せず、城をあらゆる方向から見られるように、カメラだけが城の周囲を回転するようにしてください。城の塔の頂上には、風になびく旗を設置してください。
+
+実行すると城を表示し、ループアニメーションを開始するindex.htmlファイルを出力してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102672926285713456) · [元の投稿](https://juhapalomaki.fi/blog/castle-model-comparison/) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="2102752217375899659"></a>
+
+### Orbit Lab：太陽・地球・月の3Dシミュレーション
+
+[technewsradio.tokyo](https://technewsradio.tokyo/) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102752217375899659"><img src="../assets/previews/51e704332827bb37a215b466ac4ce0307552ddeb8c1d40c48ddb1dd48972696c.jpg" width="840" loading="lazy" alt="Orbit Lab：太陽・地球・月の3Dシミュレーション"></a>
+
+リンク先の記事が、GPT-6 Astra・Sol・Lunaを含む4モデルに共通で投入したと明記する比較用の依頼文です。Three.jsで、手続き的に作る太陽・地球・月、軌道と自転、クリック選択、カメラ操作、再生・速度・フォーカスなどを備えた教育用3DシミュレーションWeb作品を実装します。
+
+**プロンプト**
+
+```text
+比較実験です。次の同一仕様のWeb作品を、あなたの作業ディレクトリに実装して完成させてください。名称は「Orbit Lab」。Three.js 0.186.0を使用し、同一バージョンの本体とOrbitControlsを読み込んでください（CDNのimport mapでもnpmでも可）。公開・デプロイは不要です。
+
+要件:
+1. 太陽・地球・月の3Dモデルを手続き的なジオメトリとマテリアルで表現。外部画像・3Dアセットは使わない。太陽を点光源とし、地球と月の明暗がカメラ操作で分かること。
+2. 地球の公転と自転、地軸の傾き、月の公転をdelta timeで動かす。軌道面の傾きを視覚化し、地球と月の軌道線を表示する。スケールと速度は教育用の誇張でよい。
+3. 恒星背景を再現可能な乱数で生成する。OrbitControlsで回転・ズーム。天体をクリックすると選択状態と説明パネルが切り替わる。
+4. 再生/停止、速度スライダー、軌道線表示切替、太陽/地球/月へのカメラフォーカス、初期状態に戻すボタンを備える。キーボードでも再生/停止とリセットができる。
+5. スマホ幅でも操作できる見た目、WebGL非対応時の案内、リサイズ対応、過剰な描画負荷を避けるピクセル比制限を入れる。
+6. READMEに起動手順と操作方法を書く。可能なら実際に起動して動作確認し、できなければ理由を明記する。完了報告には作成ファイル、実装済み項目、確認結果を簡潔に書く。
+
+途中で質問せず、合理的に判断して最後まで実装してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102752217375899659) · [元の投稿](https://technewsradio.tokyo/lab/gpt6-vs-opus55) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="2102780850706567390"></a>
+
+### ブラウザで操作できる中世ヨーロッパ風3D城
+
+[もぎ＠ボードゲーム](https://x.com/luxurytax150) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102780850706567390"><img src="../assets/previews/535ebfb5581dc4dc70a4d8fdeb70422afe55fc09e97bc8db3b49e36bb3bec72f.jpg" width="840" loading="lazy" alt="ブラウザで操作できる中世ヨーロッパ風3D城"></a>
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102780850706567390"><img src="../assets/previews/ea07857b725d97d51c74394cbf842b33b8b7cac3c945f00191f46c2e03d9c4d6.jpg" width="840" loading="lazy" alt="ブラウザで操作できる中世ヨーロッパ風3D城"></a>
+
+ブラウザで操作できる中世ヨーロッパ風の3D城を制作する。水堀、跳ね橋、塔、石壁、旗、森を備え、昼夜を切り替えられるようにする。3Dモデルの見た目と品質を最大限優先する。
+
+**プロンプト**
+
+```text
+ブラウザで操作できる3Dの中世ヨーロッパ風の城を作る。水堀、跳ね橋、塔、石壁、旗、森、昼夜切替を入れる。
+これはベンチマークの一種であるから、どこまで見た目を盛れるか、3Dモデルの品質を最大限優先して。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102780850706567390) · [元の投稿](https://x.com/luxurytax150/status/2102780850706567390) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="2102788013902213508"></a>
+
+### チェスのガンビットを学ぶインタラクティブ3D盤
+
+[Diogo Santos](https://x.com/diogosantosbr) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102788013902213508"><img src="../assets/previews/512159568512c9d326a8bdacae73bb8f2597884676542a73504a253f2313ad7d.jpg" width="840" loading="lazy" alt="チェスのガンビットを学ぶインタラクティブ3D盤"></a>
+
+作者が「まずはじめるためのプロンプト」として共有した、ガンビット学習用のインタラクティブな3D盤を備えたWebアプリ向けプロンプト。作者は3D環境を作成し、動画内でベンコー・ギャンビットを探究する様子を紹介したと説明していますが、表示された結果に実際に使われた正確なプロンプトだとは明言していません。
+
+**プロンプト**
+
+```text
+主要なチェスのガンビットを学べる、インタラクティブな3D盤を備えたWebアプリを作成してください。指し手のアニメーション、手順を進めたり戻したりする操作、変化手順、それぞれのオープニングの背後にある狙いを解説する機能を含めてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102788013902213508) · [元の投稿](https://x.com/diogosantosbr/status/2102788013902213508) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D：エンドレス戦車ディフェンス
@@ -4432,7 +4277,7 @@ Vite、TypeScript、Three.jsを使用し、地理情報、純粋な物理／ス�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 271 件の作例を公式サイトで見る →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 276 件の作例を公式サイトで見る →</a></strong></p>
 <p><sub>GitHub README をスムーズに表示するため、ここでは最新の作例 100 件のみを掲載しています。</sub></p>
 <br>
 </td></tr>

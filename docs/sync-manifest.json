@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "model": "gpt-6-astra",
   "count": 100,
-  "totalCount": 271,
+  "totalCount": 276,
   "sourceCodeCount": 12,
   "limit": 100,
   "locales": [
@@ -28,11 +28,6 @@
     "2099206962344800541",
     "2100271998618177864",
     "mosswing-mobile-3d-tap-to-flap-game",
-    "2096766465730847059",
-    "2096793432987464010",
-    "2096907617117540478",
-    "2096956214680965501",
-    "2096966425017467344",
     "2096971051334857181",
     "2096986557244723371",
     "2097004192627933279",
@@ -117,6 +112,11 @@
     "2102276620124062065",
     "2102300855387205871",
     "2102411087002112256",
+    "2102473710724919614",
+    "2102672926285713456",
+    "2102752217375899659",
+    "2102780850706567390",
+    "2102788013902213508",
     "battle-city-3d",
     "odd-arms",
     "titanic-the-last-light",
@@ -136,11 +136,6 @@
     "2099206962344800541",
     "2100271998618177864",
     "mosswing-mobile-3d-tap-to-flap-game",
-    "2096766465730847059",
-    "2096793432987464010",
-    "2096907617117540478",
-    "2096956214680965501",
-    "2096966425017467344",
     "2096971051334857181",
     "2096986557244723371",
     "2097004192627933279",
@@ -225,6 +220,11 @@
     "2102276620124062065",
     "2102300855387205871",
     "2102411087002112256",
+    "2102473710724919614",
+    "2102672926285713456",
+    "2102752217375899659",
+    "2102780850706567390",
+    "2102788013902213508",
     "battle-city-3d",
     "odd-arms",
     "titanic-the-last-light",
@@ -236,78 +236,78 @@
   "files": [
     {
       "path": "assets/manifest.json",
-      "sha256": "72b0a453df0324f408548f52735ab49339d900b2b60d982961c9e58ff8e1d814",
-      "bytes": 56045
+      "sha256": "d5e7df1ec3f6b8d7bbbdbc2d77a1d09c59e26196c7b1a0aac8e69455f0d3fce7",
+      "bytes": 55606
     },
     {
       "path": "docs/catalog.de.md",
-      "sha256": "d7d351863984a15ed6b8952a5078c9fdb5ff841226ca768654b1fcb9e8555146",
-      "bytes": 372856
+      "sha256": "3d2846742901b3398e008bc80289ad0fb1b0573d1fcad78f420eff88d8f245f5",
+      "bytes": 370319
     },
     {
       "path": "docs/catalog.en.md",
-      "sha256": "01d4a0f399a6e62d6eb7add026fc2d068a86403f68b9dc12453c044147ca6282",
-      "bytes": 317242
+      "sha256": "5311cd14d1da9a85e05d56520beec5b80a9cd416fc5bcb25b97b182527e086bf",
+      "bytes": 315113
     },
     {
       "path": "docs/catalog.es.md",
-      "sha256": "3d0e75bae9eae7c9cff0d74683d896324afdf1dc61952d168f453a85807b9f19",
-      "bytes": 375746
+      "sha256": "0c6a4ab065fbe17f8da52a9b403d3a0e3890adeb5475ccc63d91c2bd74f6d540",
+      "bytes": 373079
     },
     {
       "path": "docs/catalog.fr.md",
-      "sha256": "20840545b859b6013b6e08b4eff88e3e9bed6f122bb701750bd5765f9e346178",
-      "bytes": 392013
+      "sha256": "ead132040522485c256d4a9571e9452cf1adc71b8c6563be7ffcf90933b2aaec",
+      "bytes": 389618
     },
     {
       "path": "docs/catalog.it.md",
-      "sha256": "4d00aafae50b0232f5ba11c4dbcc800bd194ff0f87b0fbe52b10547e79a127b4",
-      "bytes": 367614
+      "sha256": "e0626cdff0eaa0848cfee02fdc7080e830ca71dfdb1818614efea78ddd2eb3ba",
+      "bytes": 365054
     },
     {
       "path": "docs/catalog.ja.md",
-      "sha256": "c7598a8a01d5c8c816944e92deb9c6e20d053116ea06acfd8ed4d5a270a8b3d2",
-      "bytes": 403370
+      "sha256": "57b9a0d015688526801cc356de639b97e5f686452ba9b8e78506a362fcaf1bd2",
+      "bytes": 399694
     },
     {
       "path": "docs/catalog.ko.md",
-      "sha256": "52c29f3af0dcca40086383e88cad1a31976f6ffc10468e8539e8a3dab4394be7",
-      "bytes": 384610
+      "sha256": "0e931e8ed631b1df13ff9a1e92951ac741b7b141ab3f724e870ec50e44c19dec",
+      "bytes": 381215
     },
     {
       "path": "docs/catalog.pt.md",
-      "sha256": "19e82a2fb9fda9038757023da327faf4cac3cac4c2f25dce30509a75081cecae",
-      "bytes": 363378
+      "sha256": "9766e180348907674683adecdebf0298fc55e8dc7232cc4be10fdb88665e55c5",
+      "bytes": 360838
     },
     {
       "path": "docs/catalog.ru.md",
-      "sha256": "07194a49b1a453455769be53cb28765fb1c12530c4098c886fde3e1d432205b1",
-      "bytes": 566752
+      "sha256": "13a6ed3dddda6a5dd8a4b2bea99043bfe550edbba981cf42a8e214cfaed6664e",
+      "bytes": 561954
     },
     {
       "path": "docs/catalog.tr.md",
-      "sha256": "b661227cd49143fc039e7a14480d829ba1d4b78b6610898fd74612223d60b723",
-      "bytes": 366959
+      "sha256": "9abc11cec3f9143ce25542c376b2261152438167b8460151ace331ca64c7e22d",
+      "bytes": 364541
     },
     {
       "path": "docs/catalog.uk.md",
-      "sha256": "539e8b83944d132b9fc03176eac61c51d3727a33cd988eb8ffd8ddf20ab7d3cc",
-      "bytes": 566402
+      "sha256": "d43cdf447169ccc841d5283ebfd0d5b95438ba06fca985a62db29d64bdf7a98c",
+      "bytes": 562298
     },
     {
       "path": "docs/catalog.vi.md",
-      "sha256": "5278631617fd605cd0a6f8bb896d06e09454b7b86f7568bc8429ada5d867ca58",
-      "bytes": 410456
+      "sha256": "f7c00170952d17b93a56c3fb5c0b84cac2c4694ad5ec2dd9ef39d2a310cd2a17",
+      "bytes": 407697
     },
     {
       "path": "docs/catalog.zh-Hant.md",
-      "sha256": "7db1e6d51632be8c9c08e59292344b02ed9636f86c16a0d460f63763d978668c",
-      "bytes": 303161
+      "sha256": "9a517a6fa0d75d6b97ca33791d8d312c515841f4c22ee99a48cdcbf1d60d8a9a",
+      "bytes": 301187
     },
     {
       "path": "docs/catalog.zh.md",
-      "sha256": "b19be53792cec2e06a0af6d142c4a36a93b339bae2bf587c84c4e8f615ef6254",
-      "bytes": 300382
+      "sha256": "13a9c23038638c74e6bdcd1391f45828d4b0bbe2450d6184616ceb969fa96cd4",
+      "bytes": 298586
     },
     {
       "path": "docs/with-code.md",
@@ -316,13 +316,13 @@
     },
     {
       "path": "README.md",
-      "sha256": "2c634bedcaca6c5a47cda578e95003dac2d09c5850f0ee269613afd8ca707444",
-      "bytes": 316825
+      "sha256": "72878db873d8c2984e4f2db827a08b326ee166ad852341e44cc4b1f623a6ed31",
+      "bytes": 314699
     },
     {
       "path": "README.zh-CN.md",
-      "sha256": "8d83a5532ce660e4ea7023d9f920bd7a84532c373a7c87be519bfe87fb2c8fd7",
-      "bytes": 299965
+      "sha256": "99a67b108a60694b8cbc40659afc1378b259393a5b39af033e17a5726f3b7050",
+      "bytes": 298172
     }
   ]
 }

@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**271 · En yeni Astra istemleri**
+**276 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -56,11 +56,6 @@
 - [Etkileşimli 3B Anatomi Gezgini](#2099206962344800541) · GitHub
 - [İzometrik fantezi grafik demosu](#2100271998618177864) · GitHub
 - [Mosswing: Mobil 3B Dokunarak Uçma Oyunu](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Blender MCP ile LEGO minifigür oyun varlığı](#2096766465730847059)
-- [Three.js ve WebGPU ile etkileşimli yumuşak gövdeli slime oluşturma](#2096793432987464010)
-- [Hogwarts 3B sahnesi](#2096907617117540478)
-- [Three.js WebGPU’da Sonsuz Minyatür Sokak](#2096956214680965501)
-- [“Yerçekiminin Bozulduğu Ufuk” VRChat Manzara Dünyası](#2096966425017467344)
 - [Etkileşimli Çin Avlusu](#2096971051334857181)
 - [Blender’da 12 saniyelik bir orman yolu](#2096986557244723371)
 - [Tezgâh Üzerinde Etkileşimli Robot Evcil Hayvan](#2097004192627933279)
@@ -145,6 +140,11 @@
 - [Tokyo Kulesi’nin Gündüz ve Gece 3B Sahnesi ve Videosu](#2102276620124062065)
 - [Bubble Bay: 3B Su Balonu Savaşı](#2102300855387205871)
 - [Sir, We Have Orc Problems tarzında kule savunma oyunu](#2102411087002112256)
+- [İç mekânı dâhil iki katlı banliyö evi](#2102473710724919614)
+- [Orta Çağ kalesi tarayıcı animasyonu](#2102672926285713456)
+- [Orbit Lab: Güneş, Dünya ve Ay'ın 3B simülasyonu](#2102752217375899659)
+- [Tarayıcıda Etkileşimli Ortaçağ Avrupa Tarzı 3B Kale](#2102780850706567390)
+- [Satranç gambitlerini çalışmak için etkileşimli 3B satranç tahtası](#2102788013902213508)
 - [Battle City 3D: Sonsuz Tank Savunması](#battle-city-3d)
 - [ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu](#odd-arms)
 - [TITANIC — Son Işık](#titanic-the-last-light)
@@ -326,278 +326,6 @@ Klasik "dokunarak uçma" oyununu — küçük bir yaratığı havada tutmak içi
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Orijinal gönderi](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Kaynak kodu](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Canlı demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096766465730847059"></a>
-
-### Blender MCP ile LEGO minifigür oyun varlığı
-
-[Simon Smith](https://x.com/_simonsmith) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/astra-3d-2096766465730847059"><img src="../assets/previews/2b65a179759aadacaa8dcf78ecfd45f3e7dcd04b4d1f535bc553c3d9f7505f2d.jpg" width="840" loading="lazy" alt="Blender MCP ile LEGO minifigür oyun varlığı"></a>
-
-Blender MCP kullanarak Donald Trump'ın LEGO minifigürünü yüksek kaliteli, AAA düzeyinde bir oyun varlığı olarak oluşturur.
-
-**İstem**
-
-```text
-Blender MCP'yi kullanarak oyunda varlık olarak kullanabileceğim bir Donald Trump LEGO minifigürü oluştur. Kaliteyi olağanüstü, AAA düzeyinde tut; modelin ayrıntılı, doğru ve kusursuz olduğundan emin olmak için çalışmanı titizlikle test et.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/astra-3d-2096766465730847059) · [Orijinal gönderi](https://x.com/_simonsmith/status/2096766465730847059) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096793432987464010"></a>
-
-### Three.js ve WebGPU ile etkileşimli yumuşak gövdeli slime oluşturma
-
-[码农暖爸](https://x.com/Delroy715) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096793432987464010"><img src="../assets/previews/080a768b7958082811553a4d1a4c865caeee6e542e68fe0ba9e32ed478233342.jpg" width="840" loading="lazy" alt="Three.js ve WebGPU ile etkileşimli yumuşak gövdeli slime oluşturma"></a>
-
-Yazar, Softie adlı tarayıcı tabanlı bir slime uygulamasını tanıtıyor ve devamında uygulamayı oluşturmak için kullanılan promptu açıkça paylaşıyor. Prompt; sürüklenebilen, sıkıştırılabilen ve ayarlanabilir kontrollere sahip yumuşak gövdeli bir slime oluşturulmasını istiyor.
-
-**İstem**
-
-```text
-Yeni bir dizin oluştur ve tarayıcıda oynanabilen tek sayfalık bir slime uygulaması hazırla. Three.js ve WebGPU kullan; WebGL ile idare etme.
-Ortada yuvarlak, tombul bir slime olsun. Pembe veya turkuaz olabilir; yarı saydam görünsün ve içinde belli belirsiz baloncuklar bulunsun. Fareyle üzerine basıp sürükleyebileyim; bıraktığımda sallanarak eski şeklini bulsun. Biraz yerçekimi olsun ve görünmez bir masa yüzeyine hafifçe çarpabilsin. Sert bir küre gibi görünmesin; yumuşak ve esnek bir his versin.
-Yüzünü sevimli yap: iki siyah nokta göz ve küçük bir ağız ekle. Bunlar yüzeyle birlikte sıkışmalı; gözleri gövdeden ayrı nesneler olarak yapma. Sağ tarafa renk, sertlik ve sönümleme için birkaç basit kontrol ekle. “Bir kez dürt” düğmesine basınca slime bir kez zıplasın.
-Sayfa sade olsun; açık gri bir arka plan ve büyük puntolu bir başlık kullan. 60 kare/saniye hızında çalışabilsin. Önce hedef görünümü gösteren bir görsel oluştur, ardından uygulamayı bu görsele göre kur. Ekran görüntüsü görsele yeterince benzediğinde ayrıntıları eklemeye devam et.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096793432987464010) · [Orijinal gönderi](https://x.com/Delroy715/status/2096793432987464010) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096907617117540478"></a>
-
-### Hogwarts 3B sahnesi
-
-[Prompt Case](https://x.com/HiltonMisia) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096907617117540478"><img src="../assets/previews/bffeb201cd39ed86178dd22e30bda1ea70e4ff92902307d88ba66700e21dcd32.jpg" width="840" loading="lazy" alt="Hogwarts 3B sahnesi"></a>
-
-Hogwarts’ın çevresi, önemli yapıları, iç mekânları ve objeleriyle birlikte; sinematik sunum, sis, ses tasarımı ve değiştirilebilir görsel ayarlar içeren, büyük ölçekli, gerçekçi ve keşfedilebilir bir 3B model oluşturmak için yeniden kullanılabilir prompt.
-
-**İstem**
-
-```text
-Harry Potter’daki Hogwarts Cadılık ve Büyücülük Okulu’nun büyük ölçekli, son derece gerçekçi ve tüm ayrıntıları işlenmiş bir 3B modelini oluşturmak için Headless Blender kullanın. Çevredeki doğal ortamı, ikonik yapıları, aslına uygun iç mekânları ve objeleri dâhil edin. Gizemli bir atmosfer ve dinamik, sürüklenen sisle birlikte sinema kalitesinde materyaller, aydınlatma, render ve ses tasarımı sunun. Kullanıcıların ortamı özgürce keşfetmesine olanak tanıyın ve aydınlatma ile diğer görsel seçenekler için değiştirilebilir ayarlar sağlayın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096907617117540478) · [Orijinal gönderi](https://x.com/HiltonMisia/status/2096907617117540478) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096956214680965501"></a>
-
-### Three.js WebGPU’da Sonsuz Minyatür Sokak
-
-[Dash](https://x.com/creativedash) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096956214680965501"><img src="../assets/previews/c2aa4cd5daf5e1bc8f71051db13c08e7f52359b5a5aaf7b813b72d474117897e.jpg" width="840" loading="lazy" alt="Three.js WebGPU’da Sonsuz Minyatür Sokak"></a>
-
-Kurye bisikleti, dükkânlar, ıslak yol efektleri, etrafa saçılmış yapraklar, kavisli bir dünya, piksel sanatı stili ve ayarlanabilir Forge parametreleri içeren etkileşimli bir minyatür sokak sahnesi oluşturun.
-
-**İstem**
-
-```text
-three.js WebGPU ile sonsuz bir minyatür sokak oluştur: Küçük dükkânların sıralandığı bir caddenin önünden geçen kurye bisikleti, lastikler üzerinden geçtiğinde dalgalanıp sıçrayan su birikintilerine sahip ıslak asfalt, giderek silinen lastik izleri, etrafa saçılan yapraklar ve yumuşak biçimde kavislenen bir dünya olsun. Piksel sanatı görünümü kullan; telefonlarda akıcı çalışsın. Dünyayı tümüyle kontrol edebilmek için Forge parametreleri ekle.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096956214680965501) · [Orijinal gönderi](https://x.com/creativedash/status/2096956214680965501) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096966425017467344"></a>
-
-### “Yerçekiminin Bozulduğu Ufuk” VRChat Manzara Dünyası
-
-[Xenoah](https://x.com/shuminchuuu) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/4249576bc3ef16efff9d41b996da6d554a81ab9b92521403fc31f796bdc219e6.jpg" width="840" loading="lazy" alt="“Yerçekiminin Bozulduğu Ufuk” VRChat Manzara Dünyası"></a>
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/51d37ab77febf4110ac195be5af21dd52d50affd6065a08c5e6db483990660b1.jpg" width="840" loading="lazy" alt="“Yerçekiminin Bozulduğu Ufuk” VRChat Manzara Dünyası"></a>
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/bbf43abf35435160d5917d94efa7a576610b94ea5786009662d9427c88b5ac97.jpg" width="840" loading="lazy" alt="“Yerçekiminin Bozulduğu Ufuk” VRChat Manzara Dünyası"></a>
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/82e3e79bf97929c164258f8ed906c7080b9366386db02792fc854ef6a9b26117.jpg" width="840" loading="lazy" alt="“Yerçekiminin Bozulduğu Ufuk” VRChat Manzara Dünyası"></a>
-
-Blender’da, yerçekiminin bozulduğu bir uzak manzaraya sahip VRChat manzara dünyasının tüm 3B model setini oluşturmaya yönelik bir prompt. Tepeler, yarım daire biçimli bir gözlem platformu, gözlem cihazı, dikey deniz, ters dönmüş sıradağlar, siyah sütunlar ve uzay yarıkları gibi unsurlar, low-poly tarzında büyük silüetler olarak kurgulanır.
-
-**İstem**
-
-```text
-Blender’da VRChat için bir manzara dünyasının tüm 3B model setini oluşturun.
-
-Tema,
-
-“Yerçekiminin Bozulduğu Ufuk”
-
- olsun.
-
-Oyuncunun üzerinde durduğu tepenin zirvesi normal kalsın; yalnızca uzak manzara büyük ölçekte fizik kurallarını ihlal etsin.
-
-Genel tasarım sade olsun.
-Küçük ayrıntılardan çok,
-büyük silüetleri
-
-uzak manzaranın anormalliğini
-gözlem platformunun biçimini
-mekânsal kompozisyonu
- önceliklendirin.
-
-Kompozisyon
-
-Şunları oluşturun:
-
-tepe zirvesi
-
-dar bir yürüyüş yolu
-sığ bir yarma
-yarım daire biçimli gözlem platformu
-az sayıda bank
-kırık bir yönlendirme tabelası
-merkezî gözlem cihazı
-uzak şehir
-dikey duran deniz
-ters dönmüş sıradağlar
-dev siyah sütun
-uzay yarıkları
-sabit bulutlar
-gözlem platformu
-
-Gözlem platformu yarım daire biçiminde olsun.
-
-Mevcut gözlem platformlarını taklit etmeyin; tamamen özgün bir biçim oluşturun.
-
-Özellikler:
-
-yarım daire biçimi
-
-asimetrik yapı
-bir bölümünün havaya doğru uzanması
-alçak kenar
-yarı saydam malzeme öngören bir biçim
-yerçekimi anomalisi nedeniyle yalnızca bir bölümünün deforme olması
-Aşırı karmaşıklaştırmadan, uzaktan bakıldığında biçimi kolayca anlaşılabilen büyük bir silüet oluşturun.
-
-Merkezî gözlem cihazı
-
-Gözlem platformunun merkezine,
-
-yarı saydam bir küreyi
-
-eksik bir halkayı
-siyah sütuna yöneltilmiş bir nişan çerçevesini
-birleştiren sade bir cihaz yerleştirin.
-
-Uzak manzara
-
-Uzak manzara en önemli unsurdur.
-
-Aşağıdakileri büyük ve basitleştirilmiş biçimlerle oluşturun:
-
-Gökyüzüne düşen şehir
-
-Kutu biçimli bina gruplarını alışılmışın dışında bir yöne doğru uzatın.
-
-Dikey deniz
-
-Dev bir su yüzeyi düzlemini yaklaşık 90 derece dik konumda yerleştirin.
-
-Ters dönmüş sıradağlar
-
-Basitleştirilmiş dağ silüetini baş aşağı çevirin.
-
-Siyah sütun
-
-Uzak manzaraya son derece büyük ve ince, uzun bir siyah sütun yerleştirin.
-
-Bir bina gibi değil, uzayda oluşmuş bir eksiklik gibi görünmesini sağlayın.
-
-Uzay yarığı
-
-Siyah sütunun çevresine büyük, yırtılmış levha veya şerit biçimli şekiller yerleştirin.
-
-Emissive malzemeler kullanılması öngörülmektedir.
-
-Arazi
-
-Tepe, hafif eğimli bir çayırlık olsun.
-
-Spawn noktasından gözlem platformuna kadar
-
-dar bir yürüyüş yolu
-
-sığ bir yarma
-oluşturun.
-
-Yarmadan çıkıldığında uzak manzaranın bir anda tümüyle görünmesini sağlayan bir kompozisyon oluşturun.
-
-Bitki örtüsü
-
-Bitkiler minimum düzeyde olsun.
-
-çim
-
-az sayıda çalı
-yalnızca birkaç bitkinin anormal bir yöne doğru eğilmesi
-yeterlidir.
-
-Modelleme yaklaşımı
-
-Low-poly ağırlıklı bir yaklaşım uygundur.
-
-Ayrıntıları gereğinden fazla işlemeyin.
-
-Primitive’leri etkin biçimde kullanın; ağırlıklı olarak
-
-Cube
-
-Plane
-Cylinder
-Sphere
-Curve
- kullanarak oluşturun.
-
-Uzak manzarayı özellikle basitleştirin.
-
-Önemli olan ayrıntı değil,
-
-“uzaklara bakar bakmaz dünyada bir tuhaflık olduğunu anlamak”
-
- olsun.
-
-Blender içindeki düzen
-
-Nesneleri aşağıdaki koleksiyonlara ayırın.
-
-PLAYER_AREA
-
-OBSERVATION_DECK
-OBSERVATION_DEVICE
-VEGETATION
-DISTANT_CITY
-DISTANT_SEA
-DISTANT_MOUNTAINS
-BLACK_PILLAR
-SPACE_FRACTURE
-CLOUDS
-PROPS
-VRChat için Unity’ye kolayca aktarılabilecek bir yapı kullanın.
-
-En yüksek öncelik,
-
-“gözlem platformundan görülen tek karelik bir manzara”
-
- olsun.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096966425017467344) · [Orijinal gönderi](https://x.com/shuminchuuu/status/2096966425017467344) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -4084,6 +3812,123 @@ Sir, we have orc problems tarzında bir kule savunma oyunu yap
 
 ---
 
+<a id="2102473710724919614"></a>
+
+### İç mekânı dâhil iki katlı banliyö evi
+
+[Azer](https://x.com/azer0lxm) · 2026-09-22
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/1f868aa1278025abb5f25b4de2bb5daa62db78697a0f9706334215d617f27218.jpg" width="840" loading="lazy" alt="İç mekânı dâhil iki katlı banliyö evi"></a>
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/48e89527946c980bd26b406a09f6be616f367109ace52923b217f454df158cab.jpg" width="840" loading="lazy" alt="İç mekânı dâhil iki katlı banliyö evi"></a>
+
+Azer’in belirttiği istem, iç mekânı da dâhil olmak üzere iki katlı bir banliyö evinin Blender’da 3B modelinin oluşturulmasını istiyor.
+
+**İstem**
+
+```text
+Merhaba. Lütfen Blender kullanarak iç mekânı ve tüm ayrıntıları dâhil, mümkün olan en iyi iki katlı banliyö evi 3B modelini tasarla.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102473710724919614) · [Orijinal gönderi](https://x.com/azer0lxm/status/2102473781830909995) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2102672926285713456"></a>
+
+### Orta Çağ kalesi tarayıcı animasyonu
+
+[juhapalomaki.fi](https://juhapalomaki.fi/) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102672926285713456"><img src="../assets/previews/b43efddd3611576ef42085cb8dc829a3c4e2476c7392c3ce076fd7b852c3f5c1.jpg" width="840" loading="lazy" alt="Orta Çağ kalesi tarayıcı animasyonu"></a>
+
+Ormanlarla kaplı bir tepede yer alan Orta Çağ kalesini gösteren, tarayıcı tabanlı bir 3B sahne. Kamera kalenin çevresinde sürekli dönerken kuledeki bayrak rüzgârda dalgalanır. Bağlantısı verilen yazar gönderisi, bunun GPT-6 Astra high ve test edilen diğer modeller için kullanılan ortak tek seferlik görev olduğunu belirtir.
+
+**İstem**
+
+```text
+Tamamen tarayıcıda çalışan bir 3B animasyon oluşturun. Animasyonda, geniş bir ormanın içindeki bir tepede yer alan Orta Çağ kalesi bulunsun. Klavye kontrolleri eklemeyin; kaleyi her yönden görebilmemiz için kamerayı yalnızca kalenin çevresinde döndürün. Kale kulesinin tepesinde rüzgârda dalgalanan bir bayrak bulunmalı.
+
+Çıktı, çalıştırıldığında kaleyi gösteren ve döngüsel animasyonu başlatan bir index.html dosyası içermelidir.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102672926285713456) · [Orijinal gönderi](https://juhapalomaki.fi/blog/castle-model-comparison/) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2102752217375899659"></a>
+
+### Orbit Lab: Güneş, Dünya ve Ay'ın 3B simülasyonu
+
+[technewsradio.tokyo](https://technewsradio.tokyo/) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102752217375899659"><img src="../assets/previews/51e704332827bb37a215b466ac4ce0307552ddeb8c1d40c48ddb1dd48972696c.jpg" width="840" loading="lazy" alt="Orbit Lab: Güneş, Dünya ve Ay'ın 3B simülasyonu"></a>
+
+Bağlantıda yer alan makalede, GPT-6 Astra, Sol ve Luna dahil olmak üzere 4 modele ortak olarak verilen karşılaştırma amaçlı istemdir. Three.js ile prosedürel olarak oluşturulan Güneş, Dünya ve Ay'ı; yörünge ve dönüş hareketlerini, tıklayarak seçim yapmayı, kamera kontrollerini, oynatma, hız ve odaklama gibi özellikleri içeren eğitsel bir 3B simülasyon web uygulaması geliştirin.
+
+**İstem**
+
+```text
+Bu bir karşılaştırma deneyidir. Aşağıdaki ortak özelliklere sahip web uygulamasını çalışma dizininizde geliştirip tamamlayın. Uygulamanın adı “Orbit Lab” olsun. Three.js 0.186.0 kullanın ve aynı sürümdeki çekirdek kütüphaneyi ve OrbitControls'u yükleyin (CDN import map'i veya npm kullanılabilir). Yayınlama ya da dağıtım yapmanız gerekmez.
+
+Gereksinimler:
+1. Güneş, Dünya ve Ay'ın 3B modellerini prosedürel geometri ve materyallerle oluşturun. Harici görseller veya 3B varlıklar kullanmayın. Güneş'i noktasal ışık kaynağı olarak kullanın; kamera hareket ettirildiğinde Dünya ve Ay üzerindeki aydınlık ve karanlık bölgeler görülebilsin.
+2. Dünya'nın Güneş etrafındaki dolanımını ve kendi ekseni etrafındaki dönüşünü, eksen eğikliğini ve Ay'ın dolanımını delta time kullanarak animasyonlu hâle getirin. Yörünge düzlemlerinin eğimini görselleştirin ve Dünya ile Ay'ın yörünge çizgilerini gösterin. Ölçek ve hız, eğitim amacıyla gerçeğe göre abartılabilir.
+3. Yıldız arka planını tekrarlanabilir bir rastgele sayı üreteciyle oluşturun. Dönüş ve yakınlaştırma için OrbitControls kullanın. Bir gök cismine tıklandığında seçim durumu ve açıklama paneli değişsin.
+4. Oynat/duraklat, hız kaydırıcısı, yörünge çizgilerini gösterme/gizleme seçeneği, Güneş'e/Dünya'ya/Ay'a kamera odağı ve başlangıç durumuna dönme düğmesi ekleyin. Oynatma/duraklatma ve sıfırlama işlemleri klavyeyle de yapılabilsin.
+5. Mobil ekran genişliklerinde de kullanılabilen bir arayüz, WebGL desteklenmediğinde gösterilecek bir bilgilendirme, yeniden boyutlandırma desteği ve aşırı çizim yükünü önlemek için piksel oranı sınırı ekleyin.
+6. README dosyasına başlatma adımlarını ve kullanım bilgilerini yazın. Mümkünse uygulamayı gerçekten başlatıp çalışmasını doğrulayın; bunu yapamıyorsanız nedenini açıkça belirtin. Tamamlanma raporuna oluşturulan dosyaları, uygulanan özellikleri ve doğrulama sonuçlarını kısaca yazın.
+
+Süreç boyunca soru sormayın; makul kararlar vererek uygulamayı baştan sona tamamlayın.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102752217375899659) · [Orijinal gönderi](https://technewsradio.tokyo/lab/gpt6-vs-opus55) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2102780850706567390"></a>
+
+### Tarayıcıda Etkileşimli Ortaçağ Avrupa Tarzı 3B Kale
+
+[もぎ＠ボードゲーム](https://x.com/luxurytax150) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102780850706567390"><img src="../assets/previews/535ebfb5581dc4dc70a4d8fdeb70422afe55fc09e97bc8db3b49e36bb3bec72f.jpg" width="840" loading="lazy" alt="Tarayıcıda Etkileşimli Ortaçağ Avrupa Tarzı 3B Kale"></a>
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102780850706567390"><img src="../assets/previews/ea07857b725d97d51c74394cbf842b33b8b7cac3c945f00191f46c2e03d9c4d6.jpg" width="840" loading="lazy" alt="Tarayıcıda Etkileşimli Ortaçağ Avrupa Tarzı 3B Kale"></a>
+
+Tarayıcıda kontrol edilebilen, Ortaçağ Avrupa tarzında bir 3B kale oluşturun. Kalede su hendeği, açılır köprü, kuleler, taş duvarlar, bayraklar ve orman bulunsun; ayrıca gündüz ve gece arasında geçiş yapılabilsin. 3B modelin görünümüne ve kalitesine en yüksek önceliği verin.
+
+**İstem**
+
+```text
+Tarayıcıda kontrol edilebilen, Ortaçağ Avrupa tarzında bir 3B kale oluştur. Su hendeği, açılır köprü, kuleler, taş duvarlar, bayraklar, orman ve gündüz-gece geçişi ekle.
+Bu bir benchmark türü olduğundan, görsel zenginliği ne ölçüde artırabileceğini görmek için 3B modelin kalitesine en yüksek önceliği ver.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102780850706567390) · [Orijinal gönderi](https://x.com/luxurytax150/status/2102780850706567390) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2102788013902213508"></a>
+
+### Satranç gambitlerini çalışmak için etkileşimli 3B satranç tahtası
+
+[Diogo Santos](https://x.com/diogosantosbr) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102788013902213508"><img src="../assets/previews/512159568512c9d326a8bdacae73bb8f2597884676542a73504a253f2313ad7d.jpg" width="840" loading="lazy" alt="Satranç gambitlerini çalışmak için etkileşimli 3B satranç tahtası"></a>
+
+Yazarın, gambitleri çalışmaya yönelik etkileşimli 3B satranç tahtasına sahip bir web uygulaması için “başlangıç için bir prompt” olarak paylaştığı prompt. Yazar, bir 3B ortam oluşturduğunu ve videoda Benko Gambiti üzerine bir inceleme gösterdiğini belirtiyor; ancak bunun gösterilen sonuçta kullanılan promptun tam olarak kendisi olduğunu açıkça ifade etmiyor.
+
+**İstem**
+
+```text
+Satrançtaki başlıca gambitleri çalışmak için etkileşimli bir 3B satranç tahtasına sahip web uygulaması oluşturun. Hamle animasyonlarını, ileri ve geri gitme kontrollerini, varyantları ve her açılışın ardındaki fikirleri açıklayan bilgileri ekleyin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102788013902213508) · [Orijinal gönderi](https://x.com/diogosantosbr/status/2102788013902213508) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Sonsuz Tank Savunması
@@ -4416,7 +4261,7 @@ Kaynak kodu, lockfile’ı, npm geliştirme/derleme komutlarını ve statik çı
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 271 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 276 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

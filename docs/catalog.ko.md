@@ -28,7 +28,7 @@
 **다음 게임, 장면, 인터랙티브 세계를 위한 아이디어를 찾아보세요.**
 
 
-**271 · 최신 Astra 프롬프트**
+**276 · 최신 Astra 프롬프트**
 
 ## 추천 작품
 
@@ -56,11 +56,6 @@
 - [인터랙티브 3D 해부학 탐색기](#2099206962344800541) · GitHub
 - [아이소메트릭 판타지 그래픽 데모](#2100271998618177864) · GitHub
 - [Mosswing: 모바일 3D 탭 플랩 게임](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Blender MCP로 제작하는 레고 미니피겨 게임 에셋](#2096766465730847059)
-- [Three.js와 WebGPU로 제작하는 인터랙티브 소프트바디 슬라임](#2096793432987464010)
-- [호그와트 3D 장면](#2096907617117540478)
-- [Three.js WebGPU로 만드는 끝없이 이어지는 미니어처 거리](#2096956214680965501)
-- [「중력이 망가진 지평선」 VRChat용 경관 월드](#2096966425017467344)
 - [인터랙티브 중국식 중정](#2096971051334857181)
 - [Blender에서 12초짜리 숲길](#2096986557244723371)
 - [작업대 위의 인터랙티브 로봇 펫](#2097004192627933279)
@@ -145,6 +140,11 @@
 - [도쿄 타워 낮·밤 3D 장면과 영상](#2102276620124062065)
 - [버블 베이: 3D 물풍선 배틀](#2102300855387205871)
 - [Sir, We Have Orc Problems 스타일의 TD 게임](#2102411087002112256)
+- [내부 공간을 포함한 2층 교외 주택](#2102473710724919614)
+- [중세 성 브라우저 애니메이션](#2102672926285713456)
+- [Orbit Lab: 태양·지구·달 3D 시뮬레이션](#2102752217375899659)
+- [브라우저에서 조작할 수 있는 중세 유럽풍 3D 성](#2102780850706567390)
+- [체스 갬빗 학습을 위한 인터랙티브 3D 체스판](#2102788013902213508)
 - [Battle City 3D: 끝없는 탱크 디펜스](#battle-city-3d)
 - [ODD ARMS — 기묘한 무기 서바이벌 게임](#odd-arms)
 - [타이타닉 — 마지막 빛](#titanic-the-last-light)
@@ -326,278 +326,6 @@ Three.js를 사용해 고품질 인터랙티브 3D 전시물 "체르노빌 아�
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [원본 게시물](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [소스 코드](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [데모](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="2096766465730847059"></a>
-
-### Blender MCP로 제작하는 레고 미니피겨 게임 에셋
-
-[Simon Smith](https://x.com/_simonsmith) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/astra-3d-2096766465730847059"><img src="../assets/previews/2b65a179759aadacaa8dcf78ecfd45f3e7dcd04b4d1f535bc553c3d9f7505f2d.jpg" width="840" loading="lazy" alt="Blender MCP로 제작하는 레고 미니피겨 게임 에셋"></a>
-
-Blender MCP를 사용해 도널드 트럼프를 레고 미니피겨 스타일로 구현한 고품질 AAA 게임 에셋을 제작합니다.
-
-**프롬프트**
-
-```text
-Blender MCP를 사용해 게임 에셋으로 활용할 수 있는 도널드 트럼프 레고 미니피겨를 제작해 주세요. AAA급의 뛰어난 품질로 완성하고, 디테일과 정확성, 완성도를 확인할 수 있도록 결과물을 철저히 검증해 주세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/astra-3d-2096766465730847059) · [원본 게시물](https://x.com/_simonsmith/status/2096766465730847059) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="2096793432987464010"></a>
-
-### Three.js와 WebGPU로 제작하는 인터랙티브 소프트바디 슬라임
-
-[码农暖爸](https://x.com/Delroy715) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096793432987464010"><img src="../assets/previews/080a768b7958082811553a4d1a4c865caeee6e542e68fe0ba9e32ed478233342.jpg" width="840" loading="lazy" alt="Three.js와 WebGPU로 제작하는 인터랙티브 소프트바디 슬라임"></a>
-
-작성자는 Softie라는 브라우저용 슬라임 앱을 선보였고, 이후 제작에 사용한 프롬프트도 명확히 공개했습니다. 이 프롬프트는 드래그하고 눌러 변형할 수 있으며, 다양한 설정을 조절할 수 있는 소프트바디 슬라임을 만들도록 요구합니다.
-
-**프롬프트**
-
-```text
-새 디렉터리를 만들고, 브라우저에서 플레이할 수 있는 슬라임 페이지를 제작해 주세요. Three.js와 WebGPU를 사용하고, WebGL로 대체하지 마세요.
- 화면 중앙에는 동글동글한 슬라임을 배치해 주세요. 분홍색이나 청록색 모두 괜찮고, 반투명한 표면 안에 기포가 은은하게 보이도록 해 주세요. 마우스로 눌러 변형하거나 끌고 다닐 수 있어야 하며, 놓으면 흔들리면서 원래 형태로 돌아오게 해 주세요. 약간의 중력을 적용해 보이지 않는 책상 위에 가볍게 튕겨 부딪힐 수 있도록 해 주세요. 단단한 공처럼 보이지 말고, 말랑한 살덩이 같은 느낌을 살려 주세요.
- 얼굴에는 귀여운 포인트를 추가해 주세요. 검은 콩알 같은 눈 두 개와 작은 입을 배치하고, 눈과 입도 몸체 표면과 함께 눌려 변형되도록 해 주세요. 눈과 몸체를 분리된 요소처럼 만들지 마세요. 오른쪽에는 색상, 탄성, 감쇠를 조절하는 간단한 컨트롤을 몇 가지 배치해 주세요. 「콕 찌르기」 버튼을 누르면 슬라임이 한 번 튀어 오르게 해 주세요.
- 페이지는 깔끔하게 구성하고, 배경은 밝은 회색으로 해 주세요. 제목은 큰 글자로 표시해 주세요. 60fps로 실행될 수 있어야 합니다. 먼저 목표 효과 이미지를 만든 다음, 그 이미지를 기준으로 구현해 주세요. 스크린샷이 목표와 비슷해진 뒤에 세부 요소를 추가해 주세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096793432987464010) · [원본 게시물](https://x.com/Delroy715/status/2096793432987464010) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="2096907617117540478"></a>
-
-### 호그와트 3D 장면
-
-[Prompt Case](https://x.com/HiltonMisia) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096907617117540478"><img src="../assets/previews/bffeb201cd39ed86178dd22e30bda1ea70e4ff92902307d88ba66700e21dcd32.jpg" width="840" loading="lazy" alt="호그와트 3D 장면"></a>
-
-호그와트와 주변 환경, 랜드마크, 내부 공간, 소품을 포함한 대규모의 사실적이고 탐험 가능한 3D 모델을 제작하는 재사용 가능한 프롬프트입니다. 시네마틱 연출, 안개, 사운드 디자인과 전환 가능한 시각 설정도 지원합니다.
-
-**프롬프트**
-
-```text
-Headless Blender를 사용해 《해리 포터》에 등장하는 호그와트 마법학교의 대규모·초고해상도·고사양 3D 모델을 제작하세요. 주변 자연환경, 상징적인 랜드마크, 실제 작품을 충실히 재현한 내부 공간과 소품을 포함하세요. 시네마틱 품질의 머티리얼, 조명, 렌더링과 사운드 디자인을 적용하고, 신비로운 분위기와 역동적으로 흐르는 안개를 연출하세요. 사용자가 환경을 자유롭게 탐험할 수 있도록 하며, 조명과 기타 시각 옵션을 전환할 수 있는 설정을 제공하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096907617117540478) · [원본 게시물](https://x.com/HiltonMisia/status/2096907617117540478) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="2096956214680965501"></a>
-
-### Three.js WebGPU로 만드는 끝없이 이어지는 미니어처 거리
-
-[Dash](https://x.com/creativedash) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096956214680965501"><img src="../assets/previews/c2aa4cd5daf5e1bc8f71051db13c08e7f52359b5a5aaf7b813b72d474117897e.jpg" width="840" loading="lazy" alt="Three.js WebGPU로 만드는 끝없이 이어지는 미니어처 거리"></a>
-
-배달 자전거와 상점, 젖은 도로 효과, 흩날리는 낙엽, 곡면형 월드, 픽셀 아트 스타일을 갖춘 인터랙티브 미니어처 거리 장면을 만들고, Forge 파라미터로 세부 설정을 조정해 보세요.
-
-**프롬프트**
-
-```text
-three.js WebGPU로 끝없이 이어지는 미니어처 거리를 만들어 주세요. 작은 상점들이 늘어선 거리를 배달 자전거가 지나가고, 젖은 아스팔트의 물웅덩이는 타이어가 닿을 때 물결치며 튀게 해 주세요. 타이어 자국은 점차 사라지고, 낙엽은 흩날리며, 월드는 부드럽게 휘어진 형태로 구성해 주세요. 픽셀 아트 스타일을 적용하고 모바일에서도 매끄럽게 실행되도록 해 주세요. 월드를 완전히 조작할 수 있도록 Forge 파라미터를 추가해 주세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096956214680965501) · [원본 게시물](https://x.com/creativedash/status/2096956214680965501) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="2096966425017467344"></a>
-
-### 「중력이 망가진 지평선」 VRChat용 경관 월드
-
-[Xenoah](https://x.com/shuminchuuu) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/4249576bc3ef16efff9d41b996da6d554a81ab9b92521403fc31f796bdc219e6.jpg" width="840" loading="lazy" alt="「중력이 망가진 지평선」 VRChat용 경관 월드"></a>
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/51d37ab77febf4110ac195be5af21dd52d50affd6065a08c5e6db483990660b1.jpg" width="840" loading="lazy" alt="「중력이 망가진 지평선」 VRChat용 경관 월드"></a>
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/bbf43abf35435160d5917d94efa7a576610b94ea5786009662d9427c88b5ac97.jpg" width="840" loading="lazy" alt="「중력이 망가진 지평선」 VRChat용 경관 월드"></a>
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/82e3e79bf97929c164258f8ed906c7080b9366386db02792fc854ef6a9b26117.jpg" width="840" loading="lazy" alt="「중력이 망가진 지평선」 VRChat용 경관 월드"></a>
-
-Blender에서 중력이 망가진 원경을 지닌 VRChat용 경관 월드의 3D 모델 세트를 제작하는 프롬프트입니다. 언덕, 반원형 관측 데크, 관측 장치, 수직으로 선 바다, 거꾸로 뒤집힌 산맥, 검은 기둥, 공간 균열 등을 로우폴리에 가까운 커다란 실루엣으로 구성합니다.
-
-**프롬프트**
-
-```text
-Blender에서 VRChat용 경관 월드의 3D 모델 세트를 제작해 주세요.
-
-테마는
-
-「중력이 망가진 지평선」
-
-입니다.
-
-플레이어가 서 있는 언덕 정상만 정상적인 상태로 유지하고, 먼 풍경은 크게 물리 법칙이 붕괴된 모습으로 표현해 주세요.
-
-전체 형태는 단순하게 구성해 주세요.
-세부 장식보다
-큰 실루엣
-
-먼 풍경의 이질감
-전망대의 형태
-공간 구성
-을 우선해 주세요.
-
-구성
-
-제작할 요소는 다음과 같습니다.
-
-언덕 정상
-
-좁은 산책로
-얕은 절개지
-반원형 관측 데크
-소수의 벤치
-망가진 안내판
-중앙 관측 장치
-먼 곳의 도시
-수직으로 서 있는 바다
-거꾸로 된 산맥
-거대한 검은 기둥
-공간의 균열
-정적인 구름
-전망대
-
-전망대는 반원형으로 만들어 주세요.
-
-기존 전망대를 모방하지 말고 완전히 독창적인 형태로 제작해 주세요.
-
-특징:
-
-반원형
-
-좌우 비대칭
-일부가 허공으로 돌출됨
-낮은 난간
-반투명 소재를 가정한 형태
-일부만 중력 이상으로 변형됨
-너무 복잡하게 만들지 말고, 멀리서도 형태를 알아볼 수 있는 큰 실루엣으로 제작해 주세요.
-
-중앙 관측 장치
-
-전망대 중앙에
-
-반투명 구체
-
-불완전한 링
-검은 기둥을 향한 조준 프레임
-을 조합한 단순한 장치를 배치해 주세요.
-
-먼 풍경
-
-먼 풍경이 가장 중요합니다.
-
-다음 요소를 큰 단순 형태로 제작해 주세요.
-
-하늘로 떨어지는 도시
-
-상자형 건물군을 일반적인 방향과 다르게 뻗도록 만들어 주세요.
-
-수직으로 선 바다
-
-거대한 수면 Plane을 거의 90도로 세워 배치해 주세요.
-
-거꾸로 된 산맥
-
-단순화한 산 실루엣을 상하 반전해 주세요.
-
-검은 기둥
-
-매우 거대하고 가느다란 검은 기둥을 먼 풍경에 배치해 주세요.
-
-건물이 아니라 공간이 결손된 것처럼 보이게 만들어 주세요.
-
-공간의 균열
-
-검은 기둥 주변에 크게 찢어진 판 형태 또는 띠 형태의 구조물을 배치해 주세요.
-
-발광 머티리얼을 사용할 것을 전제로 합니다.
-
-지형
-
-언덕은 완만한 초지로 만들어 주세요.
-
-스폰 지점에서 전망대까지
-
-좁은 산책로
-
-얕은 절개지
-를 만들어 주세요.
-
-절개지를 빠져나오면 먼 풍경이 한눈에 펼쳐지는 구도로 구성해 주세요.
-
-식생
-
-식물은 최소한으로 배치해 주세요.
-
-풀
-
-소수의 낮은 관목
-극히 일부만 비정상적인 방향으로 기울어진 식물
-정도면 충분합니다.
-
-모델링 방향
-
-로우폴리 스타일이어도 괜찮습니다.
-
-세부를 지나치게 다듬지 마세요.
-
-Primitive를 적극적으로 사용하고,
-
-Cube
-
-Plane
-
-Sphere
-
-Curve
-
-를 중심으로 제작해 주세요.
-
-먼 풍경은 특히 단순화해 주세요.
-
-중요한 것은 디테일이 아니라
-
-「멀리 바라보는 순간 세계가 이상하다는 것을 알아차리는 것」
-
-입니다.
-
-Blender 내 정리
-
-오브젝트를 다음 컬렉션으로 나누어 주세요.PLAYER_AREA
-
-OBSERVATION_DECK
-OBSERVATION_DEVICE
-VEGETATION
-DISTANT_CITY
-DISTANT_SEA
-DISTANT_MOUNTAINS
-BLACK_PILLAR
-SPACE_FRACTURE
-CLOUDS
-PROPS
-VRChat용으로 Unity에 쉽게 가져갈 수 있는 구조로 구성해 주세요.
-
-최우선 목표는
-
-「전망대에서 바라본 한 장의 이미지 같은 경관」
-
-입니다.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096966425017467344) · [원본 게시물](https://x.com/shuminchuuu/status/2096966425017467344) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -4084,6 +3812,123 @@ Sir, we have orc problems 같은 TD 게임 만들어 줘
 
 ---
 
+<a id="2102473710724919614"></a>
+
+### 내부 공간을 포함한 2층 교외 주택
+
+[Azer](https://x.com/azer0lxm) · 2026-09-22
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/1f868aa1278025abb5f25b4de2bb5daa62db78697a0f9706334215d617f27218.jpg" width="840" loading="lazy" alt="내부 공간을 포함한 2층 교외 주택"></a>
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/48e89527946c980bd26b406a09f6be616f367109ace52923b217f454df158cab.jpg" width="840" loading="lazy" alt="내부 공간을 포함한 2층 교외 주택"></a>
+
+Azer가 작성한 프롬프트는 내부 공간까지 포함한 2층 교외 주택의 Blender 3D 모델 제작을 요청합니다.
+
+**프롬프트**
+
+```text
+안녕하세요. 내부 공간과 모든 요소를 포함한 2층 교외 주택의 3D 모델을 Blender로 최대한 완성도 높게 제작해 주세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102473710724919614) · [원본 게시물](https://x.com/azer0lxm/status/2102473781830909995) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="2102672926285713456"></a>
+
+### 중세 성 브라우저 애니메이션
+
+[juhapalomaki.fi](https://juhapalomaki.fi/) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102672926285713456"><img src="../assets/previews/b43efddd3611576ef42085cb8dc829a3c4e2476c7392c3ce076fd7b852c3f5c1.jpg" width="840" loading="lazy" alt="중세 성 브라우저 애니메이션"></a>
+
+숲으로 뒤덮인 언덕 위 중세 성을 구현한 브라우저 기반 3D 장면입니다. 카메라는 성 주변을 계속 회전하고, 탑의 깃발은 바람에 펄럭입니다. 링크된 작성자 게시물에서는 이 작업을 GPT-6 Astra high 및 기타 테스트 모델에 공통으로 사용한 원샷 작업으로 소개합니다.
+
+**프롬프트**
+
+```text
+브라우저에서 완전히 실행되는 3D 애니메이션을 제작하세요. 넓은 숲에 위치한 언덕 꼭대기에 중세 성이 자리한 장면이어야 합니다. 키보드 조작은 추가하지 말고, 성의 모든 면을 볼 수 있도록 카메라가 성 주변을 회전하게 하세요. 성 탑 꼭대기에는 바람에 펄럭이는 깃발이 있어야 합니다.
+
+실행하면 성이 표시되고 반복 애니메이션이 시작되는 index.html 파일을 출력해야 합니다.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102672926285713456) · [원본 게시물](https://juhapalomaki.fi/blog/castle-model-comparison/) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="2102752217375899659"></a>
+
+### Orbit Lab: 태양·지구·달 3D 시뮬레이션
+
+[technewsradio.tokyo](https://technewsradio.tokyo/) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102752217375899659"><img src="../assets/previews/51e704332827bb37a215b466ac4ce0307552ddeb8c1d40c48ddb1dd48972696c.jpg" width="840" loading="lazy" alt="Orbit Lab: 태양·지구·달 3D 시뮬레이션"></a>
+
+링크된 기사에서 GPT-6 Astra·Sol·Luna를 포함한 4개 모델에 공통으로 입력했다고 명시한 비교용 요청문입니다. Three.js로 절차적으로 생성한 태양·지구·달, 공전과 자전, 클릭 선택, 카메라 조작, 재생·속도·포커스 등의 기능을 갖춘 교육용 3D 시뮬레이션 웹 작품을 구현합니다.
+
+**프롬프트**
+
+```text
+비교 실험입니다. 다음의 동일한 사양으로 웹 작품을 작업 디렉터리에 구현하고 완성해 주세요. 이름은 ‘Orbit Lab’입니다. Three.js 0.186.0을 사용하고, 동일한 버전의 본체와 OrbitControls를 불러와 주세요(CDN import map이나 npm 모두 사용 가능). 공개하거나 배포할 필요는 없습니다.
+
+요구 사항:
+1. 태양·지구·달의 3D 모델을 절차적 지오메트리와 머티리얼로 표현합니다. 외부 이미지나 3D 에셋은 사용하지 않습니다. 태양을 점광원으로 설정하고, 카메라를 조작했을 때 지구와 달의 명암을 확인할 수 있어야 합니다.
+2. delta time을 사용해 지구의 공전과 자전, 지축 기울기, 달의 공전을 움직입니다. 궤도면의 기울기를 시각화하고 지구와 달의 궤도선을 표시합니다. 스케일과 속도는 교육을 위해 과장해도 됩니다.
+3. 재현 가능한 난수로 별이 있는 배경을 생성합니다. OrbitControls로 회전과 줌을 지원합니다. 천체를 클릭하면 선택 상태와 설명 패널이 전환됩니다.
+4. 재생/일시정지, 속도 슬라이더, 궤도선 표시 전환, 태양/지구/달로 카메라 포커스, 초기 상태로 되돌리는 버튼을 제공합니다. 키보드로도 재생/일시정지와 리셋을 조작할 수 있어야 합니다.
+5. 스마트폰 화면 너비에서도 조작할 수 있는 UI, WebGL을 지원하지 않을 때의 안내, 리사이즈 대응, 과도한 렌더링 부하를 피하기 위한 픽셀 비율 제한을 포함합니다.
+6. README에 실행 절차와 조작 방법을 작성합니다. 가능하다면 실제로 실행해 동작을 확인하고, 실행할 수 없다면 그 이유를 명시합니다. 완료 보고에는 생성한 파일, 구현된 항목, 확인 결과를 간결하게 작성합니다.
+
+중간에 질문하지 말고 합리적으로 판단해 끝까지 구현해 주세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102752217375899659) · [원본 게시물](https://technewsradio.tokyo/lab/gpt6-vs-opus55) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="2102780850706567390"></a>
+
+### 브라우저에서 조작할 수 있는 중세 유럽풍 3D 성
+
+[もぎ＠ボードゲーム](https://x.com/luxurytax150) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102780850706567390"><img src="../assets/previews/535ebfb5581dc4dc70a4d8fdeb70422afe55fc09e97bc8db3b49e36bb3bec72f.jpg" width="840" loading="lazy" alt="브라우저에서 조작할 수 있는 중세 유럽풍 3D 성"></a>
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102780850706567390"><img src="../assets/previews/ea07857b725d97d51c74394cbf842b33b8b7cac3c945f00191f46c2e03d9c4d6.jpg" width="840" loading="lazy" alt="브라우저에서 조작할 수 있는 중세 유럽풍 3D 성"></a>
+
+브라우저에서 조작할 수 있는 중세 유럽풍 3D 성을 제작합니다. 해자, 도개교, 탑, 석벽, 깃발, 숲을 갖추고 낮과 밤을 전환할 수 있도록 합니다. 3D 모델의 외관과 품질을 최우선으로 합니다.
+
+**프롬프트**
+
+```text
+브라우저에서 조작할 수 있는 3D 중세 유럽풍 성을 만듭니다. 해자, 도개교, 탑, 석벽, 깃발, 숲과 낮밤 전환을 구현합니다.
+벤치마크의 일종이므로, 외관을 얼마나 풍부하게 구현할 수 있는지에 초점을 맞춰 3D 모델의 품질을 최우선으로 해 주세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102780850706567390) · [원본 게시물](https://x.com/luxurytax150/status/2102780850706567390) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="2102788013902213508"></a>
+
+### 체스 갬빗 학습을 위한 인터랙티브 3D 체스판
+
+[Diogo Santos](https://x.com/diogosantosbr) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102788013902213508"><img src="../assets/previews/512159568512c9d326a8bdacae73bb8f2597884676542a73504a253f2313ad7d.jpg" width="840" loading="lazy" alt="체스 갬빗 학습을 위한 인터랙티브 3D 체스판"></a>
+
+저자가 ‘시작하기 위한 프롬프트’로 공유한, 갬빗 학습용 인터랙티브 3D 체스판 웹 애플리케이션 프롬프트입니다. 저자는 3D 환경을 만들고 영상에서 벤코 갬빗을 살펴보는 모습을 보여줬다고 설명하지만, 이것이 영상에 표시된 결과물을 만드는 데 실제로 사용한 정확한 프롬프트였다고 명시하지는 않습니다.
+
+**프롬프트**
+
+```text
+주요 체스 갬빗을 학습할 수 있는 인터랙티브 3D 체스판 웹 애플리케이션을 만드세요. 수의 애니메이션을 포함하고, 앞뒤로 진행할 수 있는 컨트롤과 변형 수순, 각 오프닝의 핵심 아이디어를 설명하는 기능을 추가하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102788013902213508) · [원본 게시물](https://x.com/diogosantosbr/status/2102788013902213508) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: 끝없는 탱크 디펜스
@@ -4416,7 +4261,7 @@ Vite, TypeScript와 Three.js를 사용하고, 지리 데이터, 순수 물리·�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 271개 보기 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 276개 보기 →</a></strong></p>
 <p><sub>GitHub README가 원활하게 렌더링되도록 최신 사례 100개만 표시합니다.</sub></p>
 <br>
 </td></tr>

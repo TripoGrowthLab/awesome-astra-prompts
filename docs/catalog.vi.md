@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**271 · Prompt Astra mới nhất**
+**276 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -56,11 +56,6 @@
 - [Trình khám phá giải phẫu 3D tương tác](#2099206962344800541) · GitHub
 - [Demo đồ họa fantasy isometric](#2100271998618177864) · GitHub
 - [Mosswing: Game 3D mobile chạm để vỗ cánh](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Mô hình nhân vật LEGO cho game bằng Blender MCP](#2096766465730847059)
-- [Tạo slime mềm tương tác bằng Three.js và WebGPU](#2096793432987464010)
-- [Cảnh 3D Hogwarts](#2096907617117540478)
-- [Đường phố thu nhỏ vô tận với Three.js WebGPU](#2096956214680965501)
-- [Thế giới cảnh quan VRChat “Đường chân trời nơi trọng lực tan vỡ”](#2096966425017467344)
 - [Sân trong Trung Hoa tương tác](#2096971051334857181)
 - [Con đường rừng dài 12 giây trong Blender](#2096986557244723371)
 - [Thú cưng robot tương tác trên bàn làm việc](#2097004192627933279)
@@ -145,6 +140,11 @@
 - [Cảnh 3D và video Tháp Tokyo ngày và đêm](#2102276620124062065)
 - [Bubble Bay: Đại chiến bóng nước 3D](#2102300855387205871)
 - [Game tower defense phong cách Sir, We Have Orc Problems](#2102411087002112256)
+- [Nhà ngoại ô hai tầng có nội thất](#2102473710724919614)
+- [Hoạt ảnh lâu đài thời Trung cổ trên trình duyệt](#2102672926285713456)
+- [Orbit Lab: Mô phỏng 3D Mặt Trời, Trái Đất và Mặt Trăng](#2102752217375899659)
+- [Lâu đài 3D phong cách châu Âu thời Trung cổ có thể tương tác trong trình duyệt](#2102780850706567390)
+- [Bàn cờ 3D tương tác để học các gambit cờ vua](#2102788013902213508)
 - [Battle City 3D: Phòng thủ xe tăng vô tận](#battle-city-3d)
 - [ODD ARMS — Game sinh tồn với vũ khí kỳ quặc](#odd-arms)
 - [TITANIC — Ánh sáng cuối cùng](#titanic-the-last-light)
@@ -326,278 +326,6 @@ Làm mới game kinh điển “chạm để vỗ cánh” — game mà bạn ch
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Bài đăng gốc](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Mã nguồn](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Bản demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096766465730847059"></a>
-
-### Mô hình nhân vật LEGO cho game bằng Blender MCP
-
-[Simon Smith](https://x.com/_simonsmith) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/astra-3d-2096766465730847059"><img src="../assets/previews/2b65a179759aadacaa8dcf78ecfd45f3e7dcd04b4d1f535bc553c3d9f7505f2d.jpg" width="840" loading="lazy" alt="Mô hình nhân vật LEGO cho game bằng Blender MCP"></a>
-
-Tạo phiên bản nhân vật LEGO của Donald Trump dưới dạng tài sản game AAA chất lượng cao bằng Blender MCP.
-
-**Prompt**
-
-```text
-Sử dụng Blender MCP để tạo phiên bản nhân vật LEGO của Donald Trump mà tôi có thể dùng làm tài sản game. Hãy đảm bảo chất lượng vượt trội theo tiêu chuẩn game AAA, đồng thời kiểm tra kỹ sản phẩm để bảo đảm mô hình có độ chi tiết, độ chính xác và chất lượng xuất sắc.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/astra-3d-2096766465730847059) · [Bài đăng gốc](https://x.com/_simonsmith/status/2096766465730847059) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096793432987464010"></a>
-
-### Tạo slime mềm tương tác bằng Three.js và WebGPU
-
-[码农暖爸](https://x.com/Delroy715) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096793432987464010"><img src="../assets/previews/080a768b7958082811553a4d1a4c865caeee6e542e68fe0ba9e32ed478233342.jpg" width="840" loading="lazy" alt="Tạo slime mềm tương tác bằng Three.js và WebGPU"></a>
-
-Tác giả giới thiệu ứng dụng slime trên trình duyệt có tên Softie, sau đó công khai prompt dùng để tạo ra ứng dụng này. Prompt yêu cầu tạo một khối slime mềm có thể kéo, bóp và điều chỉnh bằng các thông số tùy chọn.
-
-**Prompt**
-
-```text
-Tạo một thư mục mới và làm một trang slime có thể chơi ngay trên trình duyệt. Dùng Three.js và WebGPU, không dùng WebGL thay thế.
- Ở giữa là một khối slime tròn, mềm mọng; màu hồng hoặc xanh ngọc đều được, hơi trong suốt và có các bong bóng thấp thoáng bên trong. Có thể dùng chuột nhấn xuống rồi kéo đi; khi thả ra, slime sẽ lắc lư và dần trở lại hình dạng ban đầu. Thêm một chút trọng lực để nó có thể nhẹ nhàng nảy xuống một mặt bàn vô hình. Đừng làm thành quả bóng cứng; cần tạo cảm giác mềm và có độ dẻo như thịt.
- Thêm khuôn mặt đáng yêu: hai mắt đen tròn như hạt đậu và một cái miệng nhỏ. Khuôn mặt phải biến dạng theo bề mặt, không tách mắt khỏi cơ thể. Ở bên phải, tạo vài tùy chỉnh đơn giản: màu sắc, độ mềm và độ giảm chấn. Nút «Chọc một cái» sẽ khiến slime nảy lên.
- Giữ giao diện gọn gàng, nền xám nhạt và tiêu đề chữ lớn. Đảm bảo chạy được ở 60 FPS. Trước tiên tạo một ảnh tham chiếu cho hiệu ứng mục tiêu, sau đó dựng theo ảnh này; chỉ tiếp tục thêm chi tiết khi ảnh chụp màn hình đã trông đúng như mong muốn.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096793432987464010) · [Bài đăng gốc](https://x.com/Delroy715/status/2096793432987464010) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096907617117540478"></a>
-
-### Cảnh 3D Hogwarts
-
-[Prompt Case](https://x.com/HiltonMisia) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096907617117540478"><img src="../assets/previews/bffeb201cd39ed86178dd22e30bda1ea70e4ff92902307d88ba66700e21dcd32.jpg" width="840" loading="lazy" alt="Cảnh 3D Hogwarts"></a>
-
-Prompt có thể tái sử dụng để tạo mô hình 3D Hogwarts quy mô lớn, chân thực và có thể khám phá, bao gồm môi trường xung quanh, các địa danh nổi bật, không gian nội thất, đạo cụ, phần trình bày điện ảnh, sương mù, thiết kế âm thanh và các thiết lập hình ảnh có thể chuyển đổi.
-
-**Prompt**
-
-```text
-Sử dụng Headless Blender để tạo mô hình 3D quy mô lớn, cực kỳ chân thực và đầy đủ chi tiết về Trường Phù thủy và Pháp sư Hogwarts trong Harry Potter. Bao gồm môi trường tự nhiên xung quanh, các địa danh biểu tượng, những không gian nội thất chân thực và các đạo cụ. Tạo vật liệu, ánh sáng, kết xuất và thiết kế âm thanh đạt chất lượng điện ảnh, với bầu không khí huyền bí cùng màn sương mù chuyển động, trôi dạt tự nhiên. Cho phép người dùng tự do khám phá môi trường, đồng thời cung cấp các thiết lập có thể chuyển đổi cho ánh sáng và những tùy chọn hình ảnh khác.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096907617117540478) · [Bài đăng gốc](https://x.com/HiltonMisia/status/2096907617117540478) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096956214680965501"></a>
-
-### Đường phố thu nhỏ vô tận với Three.js WebGPU
-
-[Dash](https://x.com/creativedash) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096956214680965501"><img src="../assets/previews/c2aa4cd5daf5e1bc8f71051db13c08e7f52359b5a5aaf7b813b72d474117897e.jpg" width="840" loading="lazy" alt="Đường phố thu nhỏ vô tận với Three.js WebGPU"></a>
-
-Tạo một cảnh đường phố thu nhỏ tương tác với xe đạp giao hàng, các cửa hàng, hiệu ứng mặt đường ướt, lá rải rác, thế giới uốn cong, phong cách pixel art và các tham số Forge có thể điều chỉnh.
-
-**Prompt**
-
-```text
-Hãy tạo cho tôi một con phố thu nhỏ vô tận bằng three.js WebGPU: một chiếc xe đạp giao hàng chạy ngang qua dãy cửa hàng nhỏ, mặt đường nhựa ướt với các vũng nước gợn sóng và bắn nước khi lốp xe cán qua, vệt lốp dần mờ đi, lá cây bị cuốn tung và một thế giới uốn cong nhẹ. Phong cách pixel art, chạy mượt trên điện thoại. Thêm các tham số Forge để tùy chỉnh toàn bộ thế giới.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096956214680965501) · [Bài đăng gốc](https://x.com/creativedash/status/2096956214680965501) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096966425017467344"></a>
-
-### Thế giới cảnh quan VRChat “Đường chân trời nơi trọng lực tan vỡ”
-
-[Xenoah](https://x.com/shuminchuuu) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/4249576bc3ef16efff9d41b996da6d554a81ab9b92521403fc31f796bdc219e6.jpg" width="840" loading="lazy" alt="Thế giới cảnh quan VRChat “Đường chân trời nơi trọng lực tan vỡ”"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/51d37ab77febf4110ac195be5af21dd52d50affd6065a08c5e6db483990660b1.jpg" width="840" loading="lazy" alt="Thế giới cảnh quan VRChat “Đường chân trời nơi trọng lực tan vỡ”"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/bbf43abf35435160d5917d94efa7a576610b94ea5786009662d9427c88b5ac97.jpg" width="840" loading="lazy" alt="Thế giới cảnh quan VRChat “Đường chân trời nơi trọng lực tan vỡ”"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/82e3e79bf97929c164258f8ed906c7080b9366386db02792fc854ef6a9b26117.jpg" width="840" loading="lazy" alt="Thế giới cảnh quan VRChat “Đường chân trời nơi trọng lực tan vỡ”"></a>
-
-Đây là prompt tạo trọn bộ mô hình 3D cho một thế giới cảnh quan VRChat trong Blender, với đường chân trời xa bị phá vỡ bởi trọng lực. Hãy xây dựng các thành phần như đồi, đài quan sát hình bán nguyệt, thiết bị quan sát, biển dựng đứng, dãy núi lộn ngược, cột đen và các vết nứt không gian dưới dạng những silhouette lớn, thiên về phong cách low-poly.
-
-**Prompt**
-
-```text
-Hãy tạo trọn bộ mô hình 3D cho một thế giới cảnh quan VRChat trong Blender.
-
-Chủ đề là
-
-“Đường chân trời nơi trọng lực tan vỡ”
-
-.
-
-Chỉ đỉnh đồi nơi người chơi đứng là vẫn bình thường; chỉ cảnh quan xa bị phá vỡ vật lý ở quy mô lớn.
-
-Tổng thể cần có hình khối đơn giản.
-Thay vì tập trung vào chi tiết trang trí, hãy ưu tiên
-các silhouette lớn
-
-sự bất thường của cảnh quan xa
-hình dáng đài quan sát
-bố cục không gian
-.
-
-Các hạng mục
-
-cần tạo gồm:
-
-đỉnh đồi
-
-lối đi bộ hẹp
-đoạn đường đào nông
-đài quan sát hình bán nguyệt
-một vài băng ghế
-bảng chỉ dẫn bị hỏng
-thiết bị quan sát trung tâm
-thành phố ở xa
-biển dựng đứng
-dãy núi lộn ngược
-những cột đen khổng lồ
-các vết nứt không gian
-mây tĩnh
-đài quan sát
-
-Đài quan sát có dạng bán nguyệt.
-
-Không sao chép các đài quan sát có sẵn; hãy tạo một hình dáng hoàn toàn nguyên bản.
-
-Đặc điểm:
-
-hình bán nguyệt
-
-bất đối xứng trái phải
-một phần nhô ra giữa không trung
-thành thấp
-hình dáng phù hợp với vật liệu bán trong suốt
-chỉ một phần bị biến dạng do trọng lực bất thường
-Đừng làm hình khối quá phức tạp; hãy tạo silhouette lớn để vẫn nhận ra hình dạng từ xa.
-
-Thiết bị quan sát trung tâm
-
-Ở trung tâm đài quan sát, hãy đặt một thiết bị đơn giản kết hợp
-
-quả cầu bán trong suốt
-
-vòng tròn không hoàn chỉnh
-khung ngắm hướng về các cột đen
-.
-
-Cảnh quan xa
-
-Cảnh quan xa là yếu tố quan trọng nhất.
-
-Hãy tạo các thành phần sau bằng những hình khối lớn, đơn giản hóa.
-
-Thành phố rơi lên bầu trời
-
-Hãy cho các cụm tòa nhà dạng hộp vươn theo những hướng khác thường.
-
-Biển dựng đứng
-
-Hãy dựng một plane mặt nước khổng lồ lên gần 90 độ.
-
-Dãy núi lộn ngược
-
-Hãy lật ngược theo chiều dọc silhouette núi đã được đơn giản hóa.
-
-Cột đen
-
-Hãy đặt những cột đen cực lớn và thon dài ở cảnh quan xa.
-
-Hình dạng này không được trông giống công trình, mà phải giống một phần không gian bị khuyết.
-
-Vết nứt không gian
-
-Xung quanh các cột đen, hãy bố trí những hình dạng dạng tấm hoặc dải bị xé rách trên quy mô lớn.
-
-Hãy giả định sử dụng vật liệu phát sáng.
-
-Địa hình
-
-Đồi là một bãi cỏ thoai thoải.
-
-Từ điểm spawn đến đài quan sát, hãy tạo
-
-một lối đi bộ hẹp
-
-và một đoạn đường đào nông
-.
-
-Hãy bố trí để khi đi qua đoạn đường đào, toàn cảnh xa bất ngờ mở ra trước mắt.
-
-Thảm thực vật
-
-Giảm thực vật đến mức tối thiểu.
-
-Cỏ
-
-một vài bụi cây thấp
-và chỉ một số rất ít cây cối nghiêng theo hướng bất thường
- là đủ.
-
-Định hướng dựng hình
-
-Có thể thiên về low-poly.
-
-Đừng đi quá sâu vào chi tiết.
-
-Hãy tích cực sử dụng các primitive, tập trung vào
-
-Cube
-
-Plane
-Cylinder
-Sphere
-Curve
-.
-
-Đặc biệt hãy đơn giản hóa cảnh quan xa.
-
-Điều quan trọng không phải là chi tiết, mà là
-
-“ngay khi nhìn ra xa, người xem nhận ra thế giới này có gì đó sai lệch”
-
-.
-
-Tổ chức trong Blender
-
-Hãy chia các đối tượng vào những collection sau.
-
-PLAYER_AREA
-
-OBSERVATION_DECK
-OBSERVATION_DEVICE
-VEGETATION
-DISTANT_CITY
-DISTANT_SEA
-DISTANT_MOUNTAINS
-BLACK_PILLAR
-SPACE_FRACTURE
-CLOUDS
-PROPS
-Hãy tổ chức theo cách dễ đưa vào Unity để sử dụng cho VRChat.
-
-Ưu tiên cao nhất là
-
-“cảnh quan như một khung hình duy nhất nhìn từ đài quan sát”
-
-.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096966425017467344) · [Bài đăng gốc](https://x.com/shuminchuuu/status/2096966425017467344) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -4118,6 +3846,123 @@ Hãy tạo một game tower defense giống Sir, We Have Orc Problems.
 
 ---
 
+<a id="2102473710724919614"></a>
+
+### Nhà ngoại ô hai tầng có nội thất
+
+[Azer](https://x.com/azer0lxm) · 2026-09-22
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/1f868aa1278025abb5f25b4de2bb5daa62db78697a0f9706334215d617f27218.jpg" width="840" loading="lazy" alt="Nhà ngoại ô hai tầng có nội thất"></a>
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/48e89527946c980bd26b406a09f6be616f367109ace52923b217f454df158cab.jpg" width="840" loading="lazy" alt="Nhà ngoại ô hai tầng có nội thất"></a>
+
+Prompt do Azer cung cấp yêu cầu tạo mô hình 3D bằng Blender cho một ngôi nhà ngoại ô hai tầng, bao gồm đầy đủ phần nội thất.
+
+**Prompt**
+
+```text
+Xin chào. Hãy thiết kế mô hình 3D tốt nhất có thể bằng Blender về một ngôi nhà ngoại ô hai tầng, bao gồm cả nội thất và mọi chi tiết cần thiết.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102473710724919614) · [Bài đăng gốc](https://x.com/azer0lxm/status/2102473781830909995) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2102672926285713456"></a>
+
+### Hoạt ảnh lâu đài thời Trung cổ trên trình duyệt
+
+[juhapalomaki.fi](https://juhapalomaki.fi/) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102672926285713456"><img src="../assets/previews/b43efddd3611576ef42085cb8dc829a3c4e2476c7392c3ce076fd7b852c3f5c1.jpg" width="840" loading="lazy" alt="Hoạt ảnh lâu đài thời Trung cổ trên trình duyệt"></a>
+
+Cảnh 3D chạy trên trình duyệt, mô tả một lâu đài thời Trung cổ trên ngọn đồi phủ đầy rừng. Máy quay liên tục xoay quanh lâu đài, trong khi lá cờ trên tháp tung bay trong gió. Bài đăng của tác giả được liên kết xác định đây là nhiệm vụ one-shot dùng chung cho GPT-6 Astra high và các mô hình khác đã được thử nghiệm.
+
+**Prompt**
+
+```text
+Tạo một hoạt ảnh 3D chạy hoàn toàn trên trình duyệt. Hoạt ảnh có một lâu đài thời Trung cổ nằm trên đỉnh một ngọn đồi giữa khu rừng rộng lớn. Không thêm điều khiển bằng bàn phím; chỉ cần để máy quay xoay quanh lâu đài để có thể quan sát lâu đài từ mọi phía. Trên đỉnh tháp lâu đài phải có một lá cờ tung bay trong gió.
+
+Đầu ra phải chứa tệp index.html; khi chạy tệp này, lâu đài sẽ hiển thị và hoạt ảnh lặp sẽ bắt đầu.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102672926285713456) · [Bài đăng gốc](https://juhapalomaki.fi/blog/castle-model-comparison/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2102752217375899659"></a>
+
+### Orbit Lab: Mô phỏng 3D Mặt Trời, Trái Đất và Mặt Trăng
+
+[technewsradio.tokyo](https://technewsradio.tokyo/) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102752217375899659"><img src="../assets/previews/51e704332827bb37a215b466ac4ce0307552ddeb8c1d40c48ddb1dd48972696c.jpg" width="840" loading="lazy" alt="Orbit Lab: Mô phỏng 3D Mặt Trời, Trái Đất và Mặt Trăng"></a>
+
+Đây là yêu cầu dùng để so sánh, được bài viết tại liên kết cho biết là đã đưa vào cả 4 mô hình, trong đó có GPT-6 Astra, Sol và Luna. Hãy triển khai một tác phẩm web mô phỏng 3D mang tính giáo dục bằng Three.js, với Mặt Trời, Trái Đất và Mặt Trăng được tạo theo phương pháp thủ tục, chuyển động quỹ đạo và tự quay, chọn bằng cách nhấp, điều khiển camera, phát lại, điều chỉnh tốc độ, lấy nét và các tính năng tương tự.
+
+**Prompt**
+
+```text
+Đây là một thử nghiệm so sánh. Hãy triển khai và hoàn thiện tác phẩm web theo cùng một đặc tả dưới đây trong thư mục làm việc của bạn. Tên sản phẩm là “Orbit Lab”. Sử dụng Three.js 0.186.0 và tải core cùng OrbitControls đúng phiên bản đó (có thể dùng import map từ CDN hoặc npm). Không cần xuất bản hay triển khai.
+
+Yêu cầu:
+1. Biểu diễn mô hình 3D của Mặt Trời, Trái Đất và Mặt Trăng bằng hình học và vật liệu tạo theo phương pháp thủ tục. Không sử dụng hình ảnh hoặc tài sản 3D bên ngoài. Dùng Mặt Trời làm nguồn sáng điểm để người dùng có thể phân biệt vùng sáng tối của Trái Đất và Mặt Trăng khi điều khiển camera.
+2. Dùng delta time để mô phỏng chuyển động quay quanh Mặt Trời và tự quay của Trái Đất, độ nghiêng trục Trái Đất cũng như chuyển động quay quanh Trái Đất của Mặt Trăng. Trực quan hóa độ nghiêng của các mặt phẳng quỹ đạo, đồng thời hiển thị đường quỹ đạo của Trái Đất và Mặt Trăng. Có thể phóng đại quy mô và tốc độ để phục vụ mục đích giáo dục.
+3. Tạo nền sao bằng các số ngẫu nhiên có thể tái lập. Dùng OrbitControls để xoay và thu phóng. Khi nhấp vào một thiên thể, hãy chuyển trạng thái được chọn và bảng thông tin mô tả tương ứng.
+4. Cung cấp các tính năng phát/tạm dừng, thanh trượt tốc độ, bật/tắt hiển thị đường quỹ đạo, lấy nét camera vào Mặt Trời/Trái Đất/Mặt Trăng và nút khôi phục trạng thái ban đầu. Có thể phát/tạm dừng và đặt lại bằng bàn phím.
+5. Giao diện phải có thể thao tác trên màn hình điện thoại, hiển thị hướng dẫn khi không hỗ trợ WebGL, đáp ứng khi thay đổi kích thước và giới hạn pixel ratio để tránh tải kết xuất quá cao.
+6. Viết hướng dẫn khởi chạy và cách thao tác trong README. Nếu có thể, hãy thực sự khởi chạy để kiểm tra hoạt động; nếu không thể, phải nêu rõ lý do. Trong báo cáo hoàn thành, hãy ghi ngắn gọn các tệp đã tạo, các hạng mục đã triển khai và kết quả kiểm tra.
+
+Không đặt câu hỏi giữa chừng; hãy tự đưa ra các phán đoán hợp lý và triển khai đến cùng.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102752217375899659) · [Bài đăng gốc](https://technewsradio.tokyo/lab/gpt6-vs-opus55) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2102780850706567390"></a>
+
+### Lâu đài 3D phong cách châu Âu thời Trung cổ có thể tương tác trong trình duyệt
+
+[もぎ＠ボードゲーム](https://x.com/luxurytax150) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102780850706567390"><img src="../assets/previews/535ebfb5581dc4dc70a4d8fdeb70422afe55fc09e97bc8db3b49e36bb3bec72f.jpg" width="840" loading="lazy" alt="Lâu đài 3D phong cách châu Âu thời Trung cổ có thể tương tác trong trình duyệt"></a>
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102780850706567390"><img src="../assets/previews/ea07857b725d97d51c74394cbf842b33b8b7cac3c945f00191f46c2e03d9c4d6.jpg" width="840" loading="lazy" alt="Lâu đài 3D phong cách châu Âu thời Trung cổ có thể tương tác trong trình duyệt"></a>
+
+Tạo một lâu đài 3D phong cách châu Âu thời Trung cổ có thể tương tác trong trình duyệt, với hào nước, cầu kéo, các tòa tháp, tường đá, cờ và rừng; đồng thời cho phép chuyển đổi giữa ngày và đêm. Ưu tiên tối đa chất lượng và diện mạo của mô hình 3D.
+
+**Prompt**
+
+```text
+Tạo một lâu đài 3D phong cách châu Âu thời Trung cổ có thể tương tác trong trình duyệt, bao gồm hào nước, cầu kéo, các tòa tháp, tường đá, cờ, rừng và tính năng chuyển đổi ngày đêm.
+Vì đây là một dạng benchmark, hãy ưu tiên tối đa chất lượng mô hình 3D và mức độ trau chuốt hình ảnh.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102780850706567390) · [Bài đăng gốc](https://x.com/luxurytax150/status/2102780850706567390) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2102788013902213508"></a>
+
+### Bàn cờ 3D tương tác để học các gambit cờ vua
+
+[Diogo Santos](https://x.com/diogosantosbr) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102788013902213508"><img src="../assets/previews/512159568512c9d326a8bdacae73bb8f2597884676542a73504a253f2313ad7d.jpg" width="840" loading="lazy" alt="Bàn cờ 3D tương tác để học các gambit cờ vua"></a>
+
+Prompt được tác giả chia sẻ như “một prompt để bắt đầu” cho một ứng dụng web có bàn cờ 3D tương tác nhằm học các gambit. Tác giả cho biết đã tạo một môi trường 3D và trình bày trong video phần khám phá Gambit Benko, nhưng không khẳng định rõ đây là prompt chính xác được dùng cho kết quả hiển thị.
+
+**Prompt**
+
+```text
+Tạo một ứng dụng web có bàn cờ 3D tương tác để học các gambit cờ vua phổ biến. Thêm hoạt ảnh cho các nước đi, điều khiển tiến và lùi, các biến và phần giải thích ý tưởng đằng sau từng khai cuộc.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102788013902213508) · [Bài đăng gốc](https://x.com/diogosantosbr/status/2102788013902213508) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Phòng thủ xe tăng vô tận
@@ -4450,7 +4295,7 @@ Bàn giao mã nguồn, lockfile, lệnh npm phát triển/build và đầu ra t�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 271 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 276 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

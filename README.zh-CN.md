@@ -29,7 +29,7 @@
 
 探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。
 
-**271 条案例 · 14 种语言 · 12 条附项目源码**
+**276 条案例 · 14 种语言 · 12 条附项目源码**
 
 ## 精选作品
 
@@ -57,11 +57,6 @@
 - [交互式 3D 解剖探索器](#2099206962344800541) · GitHub
 - [等距视角奇幻图形演示](#2100271998618177864) · GitHub
 - [Mosswing：移动端 3D 点击振翅游戏](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [使用 Blender MCP 制作 LEGO 人仔游戏资产](#2096766465730847059)
-- [使用 Three.js 和 WebGPU 制作可交互的软体史莱姆](#2096793432987464010)
-- [霍格沃茨 3D 场景](#2096907617117540478)
-- [Three.js WebGPU 无尽微缩街景](#2096956214680965501)
-- [《重力失常的地平线》VRChat 景观世界](#2096966425017467344)
 - [可交互的中式庭院](#2096971051334857181)
 - [Blender：12 秒森林小路](#2096986557244723371)
 - [工作台上的机器人宠物](#2097004192627933279)
@@ -146,6 +141,11 @@
 - [东京塔昼夜 3D 场景与视频](#2102276620124062065)
 - [泡泡小镇：3D 水球大战](#2102300855387205871)
 - [类似《Sir, We Have Orc Problems》的塔防游戏](#2102411087002112256)
+- [带室内空间的两层郊区住宅](#2102473710724919614)
+- [中世纪城堡浏览器动画](#2102672926285713456)
+- [Orbit Lab：太阳、地球与月球 3D 模拟](#2102752217375899659)
+- [可在浏览器中操作的中世纪欧洲风格 3D 城堡](#2102780850706567390)
+- [用于学习国际象棋弃兵的互动式 3D 棋盘](#2102788013902213508)
 - [Battle City 3D：无尽坦克防御](#battle-city-3d)
 - [ODD ARMS——奇趣武器生存游戏](#odd-arms)
 - [泰坦尼克号——最后的光芒](#titanic-the-last-light)
@@ -327,278 +327,6 @@
 ```
 
 [查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [查看原帖](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [项目源码](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [在线演示](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2096766465730847059"></a>
-
-### 使用 Blender MCP 制作 LEGO 人仔游戏资产
-
-[Simon Smith](https://x.com/_simonsmith) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/astra-3d-2096766465730847059"><img src="assets/previews/2b65a179759aadacaa8dcf78ecfd45f3e7dcd04b4d1f535bc553c3d9f7505f2d.jpg" width="840" loading="lazy" alt="使用 Blender MCP 制作 LEGO 人仔游戏资产"></a>
-
-使用 Blender MCP，将唐纳德·特朗普制作成高品质 AAA 级游戏资产的 LEGO 人仔版本。
-
-**提示词**
-
-```text
-使用 Blender MCP 制作一个唐纳德·特朗普的 LEGO 人仔版本，供我用作游戏资产。请达到卓越品质和 AAA 级游戏资产标准，并反复检查和验证作品，确保细节丰富、还原准确、整体出色。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/astra-3d-2096766465730847059) · [查看原帖](https://x.com/_simonsmith/status/2096766465730847059) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2096793432987464010"></a>
-
-### 使用 Three.js 和 WebGPU 制作可交互的软体史莱姆
-
-[码农暖爸](https://x.com/Delroy715) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096793432987464010"><img src="assets/previews/080a768b7958082811553a4d1a4c865caeee6e542e68fe0ba9e32ed478233342.jpg" width="840" loading="lazy" alt="使用 Three.js 和 WebGPU 制作可交互的软体史莱姆"></a>
-
-作者展示了一个名为 Softie 的浏览器史莱姆应用，并在后续明确发布了用于制作它的提示词。提示词要求创建可拖拽、可挤压并带有可调控制项的软体史莱姆。
-
-**提示词**
-
-```text
-新建一个目录，做一页能在浏览器里玩的史莱姆。用 Three.js 和 WebGPU，不要用 WebGL 凑合。
-中间一团圆滚滚的史莱姆，粉色或青绿都可以，半透明，里面隐约有气泡。能用鼠标按下去、拖着走，松手会晃着复原，有一点重力，可以轻轻砸在看不见的桌面上。不要做成硬球，要有软肉的感觉。
-可爱点放在脸上：两只黑豆眼和一小张嘴，跟着表面一起挤，不要眼睛和身体分开。右边做几个简单控制：颜色、软硬、阻尼。按钮「戳一下」会让它弹一下。
-页面干净，浅灰底，标题用大字。要能 60 帧。先出一张目标效果图，再按这张图搭，截图像了再往下加细节。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096793432987464010) · [查看原帖](https://x.com/Delroy715/status/2096793432987464010) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2096907617117540478"></a>
-
-### 霍格沃茨 3D 场景
-
-[Prompt Case](https://x.com/HiltonMisia) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096907617117540478"><img src="assets/previews/bffeb201cd39ed86178dd22e30bda1ea70e4ff92902307d88ba66700e21dcd32.jpg" width="840" loading="lazy" alt="霍格沃茨 3D 场景"></a>
-
-用于创建大型、写实且可探索的霍格沃茨 3D 模型的可复用提示词，涵盖周边环境、标志性地标、室内场景、道具、电影级呈现、雾效、声音设计，以及可切换的视觉设置。
-
-**提示词**
-
-```text
-使用无头模式的 Blender，创建《哈利·波特》中的霍格沃茨魔法学校大型、高度写实且细节完整的 3D 模型。加入周边自然环境、标志性地标、还原度高的室内场景和道具。提供电影级材质、灯光、渲染和声音设计，营造神秘氛围，并加入动态飘散的雾效。允许用户自由探索整个环境，并提供可切换的灯光设置及其他视觉选项。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096907617117540478) · [查看原帖](https://x.com/HiltonMisia/status/2096907617117540478) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2096956214680965501"></a>
-
-### Three.js WebGPU 无尽微缩街景
-
-[Dash](https://x.com/creativedash) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096956214680965501"><img src="assets/previews/c2aa4cd5daf5e1bc8f71051db13c08e7f52359b5a5aaf7b813b72d474117897e.jpg" width="840" loading="lazy" alt="Three.js WebGPU 无尽微缩街景"></a>
-
-创建一个可交互的微缩街景：包含配送自行车、沿街店铺、湿滑路面效果、散落的树叶、弯曲世界和像素艺术风格，并支持调节 Forge 参数。
-
-**提示词**
-
-```text
-用 three.js WebGPU 为我构建一条无尽的微缩街道：一辆配送自行车驶过一排小店，湿润的沥青路面上有水坑，轮胎碾过时会产生涟漪和水花；轮胎痕迹会逐渐消退，树叶会四处散落，整个世界呈轻微弯曲。采用像素艺术风格，在手机上也能流畅运行。添加 Forge 参数，以便全面调整这个世界。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096956214680965501) · [查看原帖](https://x.com/creativedash/status/2096956214680965501) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2096966425017467344"></a>
-
-### 《重力失常的地平线》VRChat 景观世界
-
-[Xenoah](https://x.com/shuminchuuu) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096966425017467344"><img src="assets/previews/4249576bc3ef16efff9d41b996da6d554a81ab9b92521403fc31f796bdc219e6.jpg" width="840" loading="lazy" alt="《重力失常的地平线》VRChat 景观世界"></a>
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096966425017467344"><img src="assets/previews/51d37ab77febf4110ac195be5af21dd52d50affd6065a08c5e6db483990660b1.jpg" width="840" loading="lazy" alt="《重力失常的地平线》VRChat 景观世界"></a>
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096966425017467344"><img src="assets/previews/bbf43abf35435160d5917d94efa7a576610b94ea5786009662d9427c88b5ac97.jpg" width="840" loading="lazy" alt="《重力失常的地平线》VRChat 景观世界"></a>
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096966425017467344"><img src="assets/previews/82e3e79bf97929c164258f8ed906c7080b9366386db02792fc854ef6a9b26117.jpg" width="840" loading="lazy" alt="《重力失常的地平线》VRChat 景观世界"></a>
-
-这是一个用于在 Blender 中创建 VRChat 景观世界整套 3D 模型的提示词，主题是重力失常的远景。场景由丘陵、半圆形观景台、观测装置、垂直的海、倒悬山脉、黑色柱体和空间裂隙等元素组成，以偏低多边形风格的大型轮廓为主。
-
-**提示词**
-
-```text
-请在 Blender 中创建一套适用于 VRChat 景观世界的 3D 模型。
-
-主题是
-
-《重力失常的地平线》
-
-。
-
-玩家所在的丘顶保持正常，只有远景出现大规模的物理失常。
-
-整体造型请保持简洁。
-相比细碎装饰，请优先考虑
-大型轮廓
-
-远景的异常感
-观景台的形态
-空间构成
-。
-
-构成
-
-需要制作的内容如下。
-
-丘顶
-
-狭窄的步道
-浅浅的路堑
-半圆形观景台
-少量长椅
-损坏的指示牌
-中央观测装置
-远景城市
-垂直矗立的海
-倒悬山脉
-巨大的黑色柱体
-空间裂隙
-静止的云
-观景台
-
-观景台为半圆形。
-
-不要模仿现有观景台，请设计完全原创的形态。
-
-特征：
-
-半圆形
-
-左右不对称
-局部向空中延伸
-低矮边缘
-适合使用半透明材质的形态
-只有局部因重力异常而变形
-不要做得过于复杂，请塑造从远处也能辨认的清晰大型轮廓。
-
-中央观测装置
-
-请在观景台中央放置一个简洁装置，将
-
-半透明球体
-
-不完整环形结构
-朝向黑色柱体的瞄准框
-组合在一起。
-
-远景
-
-远景是最重要的部分。
-
-请用大型简化形体制作以下内容。
-
-坠向天空的城市
-
-让箱体建筑群朝不同于常规的方向延伸。
-
-垂直的海
-
-将巨大的水面平面旋转至接近 90 度并竖立放置。
-
-倒悬山脉
-
-将简化的山体轮廓上下翻转。
-
-黑色柱体
-
-在远景中放置一根极其巨大且细长的黑色柱体。
-
-它看起来应像空间的缺失，而不是建筑物。
-
-空间裂隙
-
-在黑色柱体周围放置大幅撕裂的板状或带状形体。
-
-这些形体应设想为使用发光材质。
-
-地形
-
-丘陵为平缓的草地。
-
-请从出生点到观景台之间制作
-
-狭窄的步道
-
-浅浅的路堑
-。
-
-穿过路堑后，应形成能够一口气看清远景的构图。
-
-植被
-
-植物数量保持最低限度。
-
-草
-
-少量灌木
-极少数朝异常方向倾斜的植物
-即可。
-
-建模方针
-
-可以采用偏低多边形风格。
-
-不要过度雕琢细节。
-
-请积极使用基础几何体，主要使用
-
-Cube
-
-Plane
-
-Sphere
-
-Curve
-来制作。
-
-尤其要简化远景。
-
-重要的不是细节，而是
-
-“第一眼望向远方，就能意识到这个世界不对劲”
-
-。
-
-Blender 内部整理
-
-请将对象分入以下集合。
-
-PLAYER_AREA
-
-OBSERVATION_DECK
-OBSERVATION_DEVICE
-VEGETATION
-DISTANT_CITY
-DISTANT_SEA
-DISTANT_MOUNTAINS
-BLACK_PILLAR
-SPACE_FRACTURE
-CLOUDS
-PROPS
-请采用便于为 VRChat 导入 Unity 的结构。
-
-最优先考虑的是
-
-“从观景台望出去的一幅完整景观画面”
-。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096966425017467344) · [查看原帖](https://x.com/shuminchuuu/status/2096966425017467344) · [返回案例导航](#all-prompts)
 
 ---
 
@@ -3997,6 +3725,123 @@ AUDIO
 
 ---
 
+<a id="2102473710724919614"></a>
+
+### 带室内空间的两层郊区住宅
+
+[Azer](https://x.com/azer0lxm) · 2026-09-22
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102473710724919614"><img src="assets/previews/1f868aa1278025abb5f25b4de2bb5daa62db78697a0f9706334215d617f27218.jpg" width="840" loading="lazy" alt="带室内空间的两层郊区住宅"></a>
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102473710724919614"><img src="assets/previews/48e89527946c980bd26b406a09f6be616f367109ace52923b217f454df158cab.jpg" width="840" loading="lazy" alt="带室内空间的两层郊区住宅"></a>
+
+Azer 提出的提示词要求使用 Blender 制作一个包含完整室内空间的两层郊区住宅 3D 模型。
+
+**提示词**
+
+```text
+你好。请使用 Blender 设计一个尽可能完善的两层郊区住宅 3D 模型，并包含完整的室内空间。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102473710724919614) · [查看原帖](https://x.com/azer0lxm/status/2102473781830909995) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2102672926285713456"></a>
+
+### 中世纪城堡浏览器动画
+
+[juhapalomaki.fi](https://juhapalomaki.fi/) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102672926285713456"><img src="assets/previews/b43efddd3611576ef42085cb8dc829a3c4e2476c7392c3ce076fd7b852c3f5c1.jpg" width="840" loading="lazy" alt="中世纪城堡浏览器动画"></a>
+
+一个基于浏览器的 3D 场景：森林覆盖的山丘上坐落着一座中世纪城堡。镜头持续环绕城堡旋转，塔楼上的旗帜随风飘动。作者在关联帖子中说明，这是 GPT-6 Astra high 及其他受测模型使用的共享一次完成任务。
+
+**提示词**
+
+```text
+创建一个完全在浏览器中运行的 3D 动画。动画场景为一座中世纪城堡，城堡坐落在一片广袤森林中的山顶上。不要添加任何键盘控制，只需让镜头围绕城堡旋转，使我们能够从各个角度看到城堡。城堡塔楼顶部应有一面随风飘动的旗帜。
+
+输出应包含一个 index.html 文件，执行该文件后显示城堡并开始循环播放动画。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102672926285713456) · [查看原帖](https://juhapalomaki.fi/blog/castle-model-comparison/) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2102752217375899659"></a>
+
+### Orbit Lab：太阳、地球与月球 3D 模拟
+
+[technewsradio.tokyo](https://technewsradio.tokyo/) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102752217375899659"><img src="assets/previews/51e704332827bb37a215b466ac4ce0307552ddeb8c1d40c48ddb1dd48972696c.jpg" width="840" loading="lazy" alt="Orbit Lab：太阳、地球与月球 3D 模拟"></a>
+
+这是用于对比的任务说明，相关文章明确指出，该任务已统一提交给包括 GPT-6 Astra、Sol、Luna 在内的 4 个模型。使用 Three.js 实现一个教育用途的 3D 模拟 Web 应用：以程序化方式生成太阳、地球和月球，并提供轨道与自转、点击选择、镜头操作、播放、速度调节和聚焦等功能。
+
+**提示词**
+
+```text
+这是一次对比实验。请在你的工作目录中实现并完成以下规格完全相同的 Web 应用。名称为“Orbit Lab”。使用 Three.js 0.186.0，并加载相同版本的核心库和 OrbitControls（可以使用 CDN import map，也可以使用 npm）。无需发布或部署。
+
+要求：
+1. 使用程序化几何体和材质表现太阳、地球和月球的 3D 模型。不要使用外部图片或 3D 资源。将太阳设置为点光源，确保通过镜头操作可以看出地球和月球的明暗变化。
+2. 使用 delta time 驱动地球公转与自转、地轴倾斜以及月球公转。将轨道面的倾角可视化，并显示地球和月球的轨道线。比例和速度可以为了教学效果进行夸张处理。
+3. 使用可复现的随机数生成恒星背景。使用 OrbitControls 实现旋转和缩放。点击天体后，切换其选中状态和说明面板。
+4. 提供播放/暂停、速度滑块、轨道线显示切换、聚焦太阳/地球/月球的镜头功能，以及恢复初始状态的按钮。也应支持使用键盘播放/暂停和重置。
+5. 确保在手机屏幕宽度下也能操作，加入 WebGL 不受支持时的提示、窗口大小变化适配，以及限制像素比以避免过高的渲染负载。
+6. 在 README 中写明启动步骤和操作方法。如有可能，请实际启动并确认运行情况；如果无法启动，请明确说明原因。在完成报告中简要列出创建的文件、已实现的功能和确认结果。
+
+无需中途提问，请合理判断并完成全部实现。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102752217375899659) · [查看原帖](https://technewsradio.tokyo/lab/gpt6-vs-opus55) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2102780850706567390"></a>
+
+### 可在浏览器中操作的中世纪欧洲风格 3D 城堡
+
+[もぎ＠ボードゲーム](https://x.com/luxurytax150) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102780850706567390"><img src="assets/previews/535ebfb5581dc4dc70a4d8fdeb70422afe55fc09e97bc8db3b49e36bb3bec72f.jpg" width="840" loading="lazy" alt="可在浏览器中操作的中世纪欧洲风格 3D 城堡"></a>
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102780850706567390"><img src="assets/previews/ea07857b725d97d51c74394cbf842b33b8b7cac3c945f00191f46c2e03d9c4d6.jpg" width="840" loading="lazy" alt="可在浏览器中操作的中世纪欧洲风格 3D 城堡"></a>
+
+制作一座可在浏览器中操作的中世纪欧洲风格 3D 城堡。配备护城河、吊桥、塔楼、石墙、旗帜和森林，并支持昼夜切换。优先确保 3D 模型的视觉效果和品质。
+
+**提示词**
+
+```text
+制作一座可在浏览器中操作的中世纪欧洲风格 3D 城堡。加入护城河、吊桥、塔楼、石墙、旗帜、森林和昼夜切换。
+这是一个基准测试，因此请尽可能丰富视觉效果，最大限度优先保证 3D 模型的品质。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102780850706567390) · [查看原帖](https://x.com/luxurytax150/status/2102780850706567390) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2102788013902213508"></a>
+
+### 用于学习国际象棋弃兵的互动式 3D 棋盘
+
+[Diogo Santos](https://x.com/diogosantosbr) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102788013902213508"><img src="assets/previews/512159568512c9d326a8bdacae73bb8f2597884676542a73504a253f2313ad7d.jpg" width="840" loading="lazy" alt="用于学习国际象棋弃兵的互动式 3D 棋盘"></a>
+
+作者将其分享为适用于互动式 3D 棋盘弃兵学习 Web 应用的“入门提示词”。作者表示自己创建了一个 3D 环境，并在视频中展示了对本科弃兵的探索，但未明确说明这就是生成视频所示结果时使用的确切提示词。
+
+**提示词**
+
+```text
+创建一个带有互动式 3D 棋盘的 Web 应用，用于学习国际象棋中的主要弃兵开局。加入走法动画、前进和后退控制、变化分支，以及对每种开局背后思路的讲解。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102788013902213508) · [查看原帖](https://x.com/diogosantosbr/status/2102788013902213508) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D：无尽坦克防御
@@ -4329,7 +4174,7 @@ AUDIO
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 271 条案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 276 条案例 →</a></strong></p>
 <p><sub>为保持 GitHub README 渲染流畅，这里仅展示最新 100 条案例。</sub></p>
 <br>
 </td></tr>

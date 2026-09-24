@@ -28,7 +28,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**271 · Neueste Astra-Prompts**
+**276 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -56,11 +56,6 @@
 - [Interaktiver 3D-Anatomie-Explorer](#2099206962344800541) · GitHub
 - [Demo für isometrische Fantasy-Grafik](#2100271998618177864) · GitHub
 - [Mosswing: Mobiles 3D-Tap-to-Flap-Spiel](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [LEGO-Minifigur als Game-Asset mit Blender MCP](#2096766465730847059)
-- [Interaktiven Softbody-Slime mit Three.js und WebGPU erstellen](#2096793432987464010)
-- [Hogwarts-3D-Szene](#2096907617117540478)
-- [Endlose Miniaturstraße mit Three.js WebGPU](#2096956214680965501)
-- [Landschaftswelt für VRChat: „Der Horizont mit der gebrochenen Gravitation“](#2096966425017467344)
 - [Interaktiver chinesischer Innenhof](#2096971051334857181)
 - [12-sekündiger Waldweg in Blender](#2096986557244723371)
 - [Interaktives Roboterhaustier auf einer Werkbank](#2097004192627933279)
@@ -145,6 +140,11 @@
 - [3D-Szene und Video des Tokyo Tower bei Tag und Nacht](#2102276620124062065)
 - [Bubble Bay: 3D-Wasserballon-Schlacht](#2102300855387205871)
 - [TD-Spiel im Stil von Sir, We Have Orc Problems](#2102411087002112256)
+- [Zweistöckiges Vorstadthaus mit Innenausstattung](#2102473710724919614)
+- [Animation eines mittelalterlichen Schlosses im Browser](#2102672926285713456)
+- [Orbit Lab: 3D-Simulation von Sonne, Erde und Mond](#2102752217375899659)
+- [Interaktive mittelalterliche 3D-Burg im Browser](#2102780850706567390)
+- [Interaktives 3D-Schachbrett zum Studieren von Schachgambits](#2102788013902213508)
 - [Battle City 3D: Endlose Panzerverteidigung](#battle-city-3d)
 - [ODD ARMS — Survival-Game mit verrückten Waffen](#odd-arms)
 - [TITANIC — Das letzte Licht](#titanic-the-last-light)
@@ -326,278 +326,6 @@ Lege das klassische „Tap-to-Flap“-Spiel neu auf – jenes Spiel, bei dem du 
 ```
 
 [Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Originalbeitrag](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Quellcode](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Live-Demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2096766465730847059"></a>
-
-### LEGO-Minifigur als Game-Asset mit Blender MCP
-
-[Simon Smith](https://x.com/_simonsmith) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/astra-3d-2096766465730847059"><img src="../assets/previews/2b65a179759aadacaa8dcf78ecfd45f3e7dcd04b4d1f535bc553c3d9f7505f2d.jpg" width="840" loading="lazy" alt="LEGO-Minifigur als Game-Asset mit Blender MCP"></a>
-
-Erstellt mit Blender MCP eine LEGO-Minifigur von Donald Trump als hochwertiges AAA-Game-Asset.
-
-**Prompt**
-
-```text
-Verwende Blender MCP, um eine LEGO-Minifigur von Donald Trump zu erstellen, die ich als Game-Asset verwenden kann. Liefere außergewöhnliche Qualität auf AAA-Niveau und unterziehe das Ergebnis einer gründlichen Prüfung, damit es detailliert, präzise und hervorragend umgesetzt ist.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/astra-3d-2096766465730847059) · [Originalbeitrag](https://x.com/_simonsmith/status/2096766465730847059) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2096793432987464010"></a>
-
-### Interaktiven Softbody-Slime mit Three.js und WebGPU erstellen
-
-[码农暖爸](https://x.com/Delroy715) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096793432987464010"><img src="../assets/previews/080a768b7958082811553a4d1a4c865caeee6e542e68fe0ba9e32ed478233342.jpg" width="840" loading="lazy" alt="Interaktiven Softbody-Slime mit Three.js und WebGPU erstellen"></a>
-
-Der Autor zeigt eine browserbasierte Slime-Anwendung namens Softie und veröffentlicht anschließend den Prompt, mit dem sie erstellt wurde. Der Prompt verlangt einen ziehbaren und quetschbaren Softbody-Slime mit anpassbaren Steuerelementen.
-
-**Prompt**
-
-```text
-Lege ein neues Verzeichnis an und erstelle eine browserbasierte Slime-Anwendung zum Spielen. Verwende Three.js und WebGPU, nicht ersatzweise WebGL.
- In der Mitte soll ein rundlicher, kugeliger Slime sitzen. Pink oder Türkisgrün ist beides möglich, halbtransparent und mit angedeuteten Bläschen im Inneren. Man soll ihn mit der Maus anklicken, ziehen und beim Loslassen wackelnd in seine Form zurückschnellen lassen können. Gib ihm etwas Schwerkraft, sodass er leicht auf eine unsichtbare Tischfläche prallen kann. Er soll nicht wie eine harte Kugel wirken, sondern wie weiches, fleischiges Material.
- Setze ein niedliches Gesicht auf die Oberfläche: zwei schwarze Knopfaugen und einen kleinen Mund. Sie sollen sich gemeinsam mit der Oberfläche verformen und nicht vom Körper getrennt sein. Platziere rechts einige einfache Steuerelemente für Farbe, Weichheit und Dämpfung. Der Button „Anstupsen“ soll ihn einmal aufspringen lassen.
- Halte die Seite übersichtlich, mit hellgrauem Hintergrund und einer großen Überschrift. Sie soll mit 60 FPS laufen. Erstelle zuerst ein Referenzbild des gewünschten Ergebnisses und baue die Szene anschließend danach auf. Füge erst weitere Details hinzu, wenn der Screenshot dem Referenzbild entspricht.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096793432987464010) · [Originalbeitrag](https://x.com/Delroy715/status/2096793432987464010) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2096907617117540478"></a>
-
-### Hogwarts-3D-Szene
-
-[Prompt Case](https://x.com/HiltonMisia) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096907617117540478"><img src="../assets/previews/bffeb201cd39ed86178dd22e30bda1ea70e4ff92902307d88ba66700e21dcd32.jpg" width="840" loading="lazy" alt="Hogwarts-3D-Szene"></a>
-
-Ein wiederverwendbarer Prompt zur Erstellung eines groß angelegten, realistischen und frei erkundbaren 3D-Modells von Hogwarts mit Umgebung, Wahrzeichen, Innenräumen, Requisiten, filmischer Inszenierung, Nebel, Sounddesign und umschaltbaren visuellen Einstellungen.
-
-**Prompt**
-
-```text
-Verwende Headless Blender, um ein groß angelegtes, hochrealistisches und vollständig detailliertes 3D-Modell der Hogwarts-Schule für Hexerei und Zauberei aus der Harry-Potter-Reihe zu erstellen. Integriere die umgebende natürliche Landschaft, ikonische Wahrzeichen, authentische Innenräume und Requisiten. Sorge für Materialien, Beleuchtung, Rendering und Sounddesign in Filmqualität sowie für eine geheimnisvolle Atmosphäre mit dynamisch driftendem Nebel. Ermögliche es den Nutzern, die Umgebung frei zu erkunden, und biete umschaltbare Einstellungen für die Beleuchtung und weitere visuelle Optionen.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096907617117540478) · [Originalbeitrag](https://x.com/HiltonMisia/status/2096907617117540478) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2096956214680965501"></a>
-
-### Endlose Miniaturstraße mit Three.js WebGPU
-
-[Dash](https://x.com/creativedash) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096956214680965501"><img src="../assets/previews/c2aa4cd5daf5e1bc8f71051db13c08e7f52359b5a5aaf7b813b72d474117897e.jpg" width="840" loading="lazy" alt="Endlose Miniaturstraße mit Three.js WebGPU"></a>
-
-Erstelle eine interaktive Miniatur-Straßenszene mit einem Lieferfahrrad, kleinen Läden, nassen Straßenflächen, Pfützen, die bei Kontakt mit den Reifen Wellen schlagen und spritzen, verstreuten Blättern, einer sanft gewölbten Welt, Pixel-Art-Optik und anpassbaren Forge-Parametern.
-
-**Prompt**
-
-```text
-Erstelle mir in three.js WebGPU eine endlose Miniaturstraße: Ein Lieferfahrrad fährt an einer Reihe kleiner Läden vorbei. Der nasse Asphalt hat Pfützen, die bei Kontakt mit den Reifen Wellen schlagen und spritzen. Reifenspuren verblassen, Blätter werden verstreut und die Welt ist sanft gewölbt. Pixel-Art-Optik, läuft flüssig auf Smartphones. Füge Forge-Parameter hinzu, mit denen sich die Welt vollständig steuern lässt.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096956214680965501) · [Originalbeitrag](https://x.com/creativedash/status/2096956214680965501) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2096966425017467344"></a>
-
-### Landschaftswelt für VRChat: „Der Horizont mit der gebrochenen Gravitation“
-
-[Xenoah](https://x.com/shuminchuuu) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/4249576bc3ef16efff9d41b996da6d554a81ab9b92521403fc31f796bdc219e6.jpg" width="840" loading="lazy" alt="Landschaftswelt für VRChat: „Der Horizont mit der gebrochenen Gravitation“"></a>
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/51d37ab77febf4110ac195be5af21dd52d50affd6065a08c5e6db483990660b1.jpg" width="840" loading="lazy" alt="Landschaftswelt für VRChat: „Der Horizont mit der gebrochenen Gravitation“"></a>
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/bbf43abf35435160d5917d94efa7a576610b94ea5786009662d9427c88b5ac97.jpg" width="840" loading="lazy" alt="Landschaftswelt für VRChat: „Der Horizont mit der gebrochenen Gravitation“"></a>
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/82e3e79bf97929c164258f8ed906c7080b9366386db02792fc854ef6a9b26117.jpg" width="840" loading="lazy" alt="Landschaftswelt für VRChat: „Der Horizont mit der gebrochenen Gravitation“"></a>
-
-Dieser Prompt erstellt in Blender ein vollständiges 3D-Modell einer Landschaftswelt für VRChat mit einer Fernsicht, in der die Gravitation außer Kraft gesetzt ist. Hügel, eine halbrunde Aussichtsplattform, ein Beobachtungsgerät, ein vertikales Meer, ein umgekehrtes Gebirge, schwarze Säulen und Raumspalten werden als großflächige, eher Low-Poly-Silhouetten angelegt.
-
-**Prompt**
-
-```text
-Erstelle in Blender ein vollständiges 3D-Modell einer Landschaftswelt für VRChat.
-
- Das Thema lautet
-
-„Der Horizont mit der gebrochenen Gravitation“
-
-.
-
- Nur der Hügel, auf dem der Spieler steht, soll normal sein; ausschließlich die Fernsicht weist massive physikalische Brüche auf.
-
- Halte die gesamte Gestaltung schlicht.
- Priorisiere gegenüber kleinen Details
-große Silhouetten
-
-, die Fremdartigkeit der Fernsicht
-, die Form der Aussichtsplattform
- und die räumliche Anordnung
-.
-
-Aufbau
-
-Erstelle die folgenden Elemente:
-
-Hügelkuppe
-
-schmaler Spazierweg
-flacher Geländeeinschnitt
-halbrunde Aussichtsplattform
-wenige Bänke
-zerbrochenes Hinweisschild
-zentrales Beobachtungsgerät
-Stadt in der Ferne
-vertikal stehendes Meer
-umgekehrtes Gebirge
-riesige schwarze Säule
-Raumspalten
-statische Wolken
-Aussichtsplattform
-
-Die Aussichtsplattform ist halbrund.
-
-Verwende keine bestehende Aussichtsplattform als Vorlage, sondern erstelle eine vollständig eigene Form.
-
-Merkmale:
-
-halbrund
-
-asymmetrisch
-teilweise über den Rand hinausragend
-niedrige Begrenzung
-für halbtransparente Materialien ausgelegte Form
-teilweise durch eine Gravitationsanomalie verformt
-Vereinfache die Form und gestalte sie als große Silhouette, die auch aus der Entfernung klar erkennbar ist.
-
-Zentrales Beobachtungsgerät
-
-Platziere in der Mitte der Aussichtsplattform ein schlichtes Gerät aus
-
-halbtransparenter Kugel
-
-unvollständigem Ring
-und einem auf die schwarze Säule ausgerichteten Zielrahmen
-.
-
-Fernsicht
-
-Die Fernsicht hat höchste Priorität.
-
-Erstelle die folgenden Elemente als große, vereinfachte Formen:
-
-In den Himmel stürzende Stadt
-
-Lass die quaderförmigen Gebäudegruppen in einer ungewohnten Richtung wachsen.
-
-Vertikales Meer
-
-Stelle eine riesige Wasseroberflächen-Plane nahezu 90 Grad auf.
-
-Umgekehrtes Gebirge
-
-Drehe die vereinfachte Bergsilhouette auf den Kopf.
-
-Schwarze Säule
-
-Platziere in der Ferne eine sehr große, schlanke schwarze Säule.
-
-Sie soll nicht wie ein Gebäude, sondern wie ein fehlender Teil des Raums wirken.
-
-Raumspalten
-
-Platziere um die schwarze Säule herum große, aufgerissene platten- oder bandartige Formen.
-
-Sie sollen als Emissionsmaterial gedacht sein.
-
-Gelände
-
-Der Hügel ist eine sanft abfallende Grasfläche.
-
-Erstelle vom Spawnpunkt bis zur Aussichtsplattform
-
-einen schmalen Spazierweg
-
-und einen flachen Geländeeinschnitt
-.
-
-Sorge dafür, dass sich beim Verlassen des Einschnitts die gesamte Fernsicht schlagartig öffnet.
-
-Vegetation
-
-Halte die Vegetation auf ein Minimum beschränkt.
-
-Gras
-
-wenige Sträucher
-und nur vereinzelt Pflanzen, die in die anomale Richtung geneigt sind
-, reichen aus.
-
-Modellierungsrichtlinien
-
-Eine eher Low-Poly-Optik ist ausreichend.
-
-Arbeite die Details nicht zu stark aus.
-
-Verwende intensiv Primitive und arbeite hauptsächlich mit
-
-Cube
-
-Plane
-
-Sphere
-
-Curve
-.
-Vereinfache die Fernsicht besonders stark.
-
-Entscheidend sind nicht die Details, sondern
-
-„dass man beim Blick in die Ferne sofort erkennt, dass mit dieser Welt etwas nicht stimmt“
-
-.
-
-Organisation in Blender
-
-Teile die Objekte in die folgenden Collections auf:
-
-PLAYER_AREA
-
-OBSERVATION_DECK
-OBSERVATION_DEVICE
-VEGETATION
-DISTANT_CITY
-DISTANT_SEA
-DISTANT_MOUNTAINS
-BLACK_PILLAR
-SPACE_FRACTURE
-CLOUDS
-PROPS
-Strukturiere die Szene so, dass sie sich für VRChat problemlos nach Unity übertragen lässt.
-
-Oberste Priorität hat
-
-„die Landschaft als Einzelbild von der Aussichtsplattform aus“
-
-.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096966425017467344) · [Originalbeitrag](https://x.com/shuminchuuu/status/2096966425017467344) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 
@@ -4084,6 +3812,123 @@ Erstelle ein TD-Spiel wie Sir, We Have Orc Problems.
 
 ---
 
+<a id="2102473710724919614"></a>
+
+### Zweistöckiges Vorstadthaus mit Innenausstattung
+
+[Azer](https://x.com/azer0lxm) · 2026-09-22
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/1f868aa1278025abb5f25b4de2bb5daa62db78697a0f9706334215d617f27218.jpg" width="840" loading="lazy" alt="Zweistöckiges Vorstadthaus mit Innenausstattung"></a>
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/48e89527946c980bd26b406a09f6be616f367109ace52923b217f454df158cab.jpg" width="840" loading="lazy" alt="Zweistöckiges Vorstadthaus mit Innenausstattung"></a>
+
+Azers Prompt fordert ein Blender-3D-Modell eines zweistöckigen Vorstadthauses inklusive Innenausstattung.
+
+**Prompt**
+
+```text
+Hallo. Bitte erstelle mit Blender das bestmögliche 3D-Modell eines zweistöckigen Vorstadthauses inklusive Innenräumen und kompletter Ausstattung.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102473710724919614) · [Originalbeitrag](https://x.com/azer0lxm/status/2102473781830909995) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2102672926285713456"></a>
+
+### Animation eines mittelalterlichen Schlosses im Browser
+
+[juhapalomaki.fi](https://juhapalomaki.fi/) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102672926285713456"><img src="../assets/previews/b43efddd3611576ef42085cb8dc829a3c4e2476c7392c3ce076fd7b852c3f5c1.jpg" width="840" loading="lazy" alt="Animation eines mittelalterlichen Schlosses im Browser"></a>
+
+Eine browserbasierte 3D-Szene mit einem mittelalterlichen Schloss auf einem bewaldeten Hügel. Die Kamera dreht sich kontinuierlich um das Schloss, während eine Fahne auf einem Turm im Wind weht. Der verlinkte Beitrag des Autors weist darauf hin, dass dies die gemeinsame One-Shot-Aufgabe für GPT-6 Astra high und andere getestete Modelle ist.
+
+**Prompt**
+
+```text
+Erstelle eine 3D-Animation, die vollständig im Browser läuft. Die Animation zeigt ein mittelalterliches Schloss auf einem Hügel inmitten eines großen Waldes. Füge keine Tastatursteuerung hinzu. Lass stattdessen die Kamera um das Schloss kreisen, damit es von allen Seiten zu sehen ist. Auf dem Schlossturm soll eine Fahne im Wind wehen.
+
+Die Ausgabe soll eine index.html-Datei enthalten, die beim Ausführen das Schloss anzeigt und die Animation in einer Schleife startet.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102672926285713456) · [Originalbeitrag](https://juhapalomaki.fi/blog/castle-model-comparison/) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2102752217375899659"></a>
+
+### Orbit Lab: 3D-Simulation von Sonne, Erde und Mond
+
+[technewsradio.tokyo](https://technewsradio.tokyo/) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102752217375899659"><img src="../assets/previews/51e704332827bb37a215b466ac4ce0307552ddeb8c1d40c48ddb1dd48972696c.jpg" width="840" loading="lazy" alt="Orbit Lab: 3D-Simulation von Sonne, Erde und Mond"></a>
+
+Dies ist ein Vergleichs-Prompt. Im verlinkten Artikel wird ausdrücklich angegeben, dass er für vier Modelle verwendet wurde, darunter GPT-6 Astra, Sol und Luna. Implementiere mit Three.js eine pädagogische 3D-Simulations-Webanwendung mit prozedural erzeugter Sonne, Erde und Mond sowie Umlaufbahnen und Eigenrotation, Auswahl per Klick, Kamerasteuerung, Wiedergabe-, Geschwindigkeits- und Fokusfunktionen.
+
+**Prompt**
+
+```text
+Dies ist ein Vergleichsexperiment. Implementiere und vervollständige die folgende Webanwendung mit identischen Spezifikationen in deinem Arbeitsverzeichnis. Der Name lautet „Orbit Lab“. Verwende Three.js 0.186.0 und lade die Bibliothek selbst sowie OrbitControls in derselben Version (entweder über eine Import-Map von einem CDN oder über npm). Eine Veröffentlichung oder Bereitstellung ist nicht erforderlich.
+
+Anforderungen:
+1. Stelle 3D-Modelle von Sonne, Erde und Mond mit prozeduralen Geometrien und Materialien dar. Verwende keine externen Bilder oder 3D-Assets. Die Sonne dient als Punktlichtquelle, und die beleuchteten und unbeleuchteten Seiten von Erde und Mond müssen sich bei der Kamerasteuerung erkennen lassen.
+2. Animieren Sie die Erdumlaufbahn und -eigenrotation, die Neigung der Erdachse sowie die Mondumlaufbahn anhand der Delta-Zeit. Visualisieren Sie die Neigung der Bahnebenen und zeigen Sie die Umlaufbahnen von Erde und Mond an. Maßstab und Geschwindigkeit dürfen für pädagogische Zwecke übertrieben dargestellt werden.
+3. Erzeuge den Sternenhintergrund mit reproduzierbaren Zufallszahlen. Ermögliche mit OrbitControls Rotation und Zoom. Beim Anklicken eines Himmelskörpers müssen sich sein Auswahlstatus und das Beschreibungspanel ändern.
+4. Biete Steuerelemente für Wiedergabe/Pause, einen Geschwindigkeitsschieberegler, das Ein- und Ausblenden der Umlaufbahnen, den Kamerafokus auf Sonne/Erde/Mond sowie eine Schaltfläche zum Zurücksetzen auf den Ausgangszustand. Wiedergabe/Pause und Zurücksetzen müssen auch per Tastatur möglich sein.
+5. Sorge für eine auch auf Smartphone-Bildschirmen bedienbare Darstellung, einen Hinweis bei fehlender WebGL-Unterstützung, korrektes Verhalten bei Größenänderungen sowie eine Begrenzung der Pixeldichte, um eine übermäßige Renderlast zu vermeiden.
+6. Beschreibe in der README die Startschritte und die Bedienung. Starte die Anwendung nach Möglichkeit tatsächlich und prüfe ihre Funktion. Falls dies nicht möglich ist, nenne den Grund ausdrücklich. Fasse im Abschlussbericht die erstellten Dateien, die implementierten Punkte und die Prüfergebnisse kurz zusammen.
+
+Stelle keine Zwischenfragen, sondern entscheide angemessen und implementiere die Anwendung bis zum Abschluss.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102752217375899659) · [Originalbeitrag](https://technewsradio.tokyo/lab/gpt6-vs-opus55) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2102780850706567390"></a>
+
+### Interaktive mittelalterliche 3D-Burg im Browser
+
+[もぎ＠ボードゲーム](https://x.com/luxurytax150) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102780850706567390"><img src="../assets/previews/535ebfb5581dc4dc70a4d8fdeb70422afe55fc09e97bc8db3b49e36bb3bec72f.jpg" width="840" loading="lazy" alt="Interaktive mittelalterliche 3D-Burg im Browser"></a>
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102780850706567390"><img src="../assets/previews/ea07857b725d97d51c74394cbf842b33b8b7cac3c945f00191f46c2e03d9c4d6.jpg" width="840" loading="lazy" alt="Interaktive mittelalterliche 3D-Burg im Browser"></a>
+
+Eine interaktive 3D-Burg im Stil des mittelalterlichen Europas für den Browser erstellen. Sie soll einen Wassergraben, eine Zugbrücke, Türme, Steinmauern, Flaggen und einen Wald enthalten sowie einen Wechsel zwischen Tag und Nacht ermöglichen. Das Erscheinungsbild und die Qualität des 3D-Modells haben höchste Priorität.
+
+**Prompt**
+
+```text
+Eine interaktive 3D-Burg im Stil des mittelalterlichen Europas für den Browser erstellen. Wassergraben, Zugbrücke, Türme, Steinmauern, Flaggen, Wald und einen Tag-Nacht-Wechsel integrieren.
+Da dies eine Art Benchmark ist, soll die visuelle Ausgestaltung so detailreich wie möglich sein; die Qualität des 3D-Modells hat höchste Priorität.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102780850706567390) · [Originalbeitrag](https://x.com/luxurytax150/status/2102780850706567390) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2102788013902213508"></a>
+
+### Interaktives 3D-Schachbrett zum Studieren von Schachgambits
+
+[Diogo Santos](https://x.com/diogosantosbr) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102788013902213508"><img src="../assets/previews/512159568512c9d326a8bdacae73bb8f2597884676542a73504a253f2313ad7d.jpg" width="840" loading="lazy" alt="Interaktives 3D-Schachbrett zum Studieren von Schachgambits"></a>
+
+Vom Autor als „Prompt zum Einstieg“ geteilter Prompt für eine Webanwendung mit interaktivem 3D-Schachbrett zum Studieren wichtiger Schachgambits. Der Autor berichtet, eine 3D-Umgebung erstellt und im Video eine Untersuchung des Benko-Gambits gezeigt zu haben, behauptet jedoch nicht ausdrücklich, dass dies der exakt für das gezeigte Ergebnis verwendete Prompt war.
+
+**Prompt**
+
+```text
+Erstelle eine Webanwendung mit einem interaktiven 3D-Schachbrett zum Studieren der wichtigsten Schachgambits. Füge eine Animation der Züge, Steuerelemente zum Vor- und Zurückspulen, Varianten sowie Erklärungen der Ideen hinter jeder Eröffnung hinzu.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102788013902213508) · [Originalbeitrag](https://x.com/diogosantosbr/status/2102788013902213508) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Endlose Panzerverteidigung
@@ -4416,7 +4261,7 @@ Liefere Quellcode, Lockfile, npm-Befehle für Entwicklung und Build sowie die st
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 271 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 276 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>
