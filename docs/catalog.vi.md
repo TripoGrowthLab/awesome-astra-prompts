@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**277 · Prompt Astra mới nhất**
+**283 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -56,12 +56,6 @@
 - [Trình khám phá giải phẫu 3D tương tác](#2099206962344800541) · GitHub
 - [Demo đồ họa fantasy isometric](#2100271998618177864) · GitHub
 - [Mosswing: Game 3D mobile chạm để vỗ cánh](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Con đường rừng dài 12 giây trong Blender](#2096986557244723371)
-- [Thú cưng robot tương tác trên bàn làm việc](#2097004192627933279)
-- [Cây chanh vàng thạch tương tác](#2097065330728128920)
-- [Rigging và tạo hoạt ảnh cho mech chân digitigrade trong Godot](#2097123382852829230)
-- [Hoạt ảnh tách lớp cửa hàng hoa Nhật Bản](#2097153139795468365)
-- [Địa hình làng quê lấy cảm hứng từ Skyrim từ ảnh tham chiếu được tạo bằng AI](#2097167383576383502)
 - [Cải thiện đường nét khuôn mặt của mô hình 3D trong Blender bằng hình ảnh tham chiếu](#2097313247116341424)
 - [Tái tạo một game 3D mini kiểu Liên Minh Huyền Thoại](#2097320830602809682)
 - [Dự án WebGL TypeScript + Three.js mô phỏng Điện Kỳ Niên ở Thiên Đàn Bắc Kinh](#2097323734504017936)
@@ -140,10 +134,16 @@
 - [Bubble Bay: Đại chiến bóng nước 3D](#2102300855387205871)
 - [Game tower defense phong cách Sir, We Have Orc Problems](#2102411087002112256)
 - [Nhà ngoại ô hai tầng có nội thất](#2102473710724919614)
+- [Game đua xe kart 3D trong một tệp HTML duy nhất](#2102652927177617564)
 - [Hoạt ảnh lâu đài thời Trung cổ trên trình duyệt](#2102672926285713456)
 - [Orbit Lab: Mô phỏng 3D Mặt Trời, Trái Đất và Mặt Trăng](#2102752217375899659)
 - [Lâu đài 3D phong cách châu Âu thời Trung cổ có thể tương tác trong trình duyệt](#2102780850706567390)
 - [Bàn cờ 3D tương tác để học các gambit cờ vua](#2102788013902213508)
+- [Shader thành phố solarpunk vô tận](#2102826333550133520)
+- [Trình mô phỏng làm burger góc nhìn thứ nhất](#2102897258983313712)
+- [Cảnh HTML lửa trại giữa sa mạc về đêm siêu chân thực](#2102915300295369208)
+- [Codex dạng voxel trong Three.js](#2102956340482289944)
+- [Lát cam dẻo 3D tương tác](#2103062348168618280)
 - [Battle City 3D: Phòng thủ xe tăng vô tận](#battle-city-3d)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Game sinh tồn với vũ khí kỳ quặc](#odd-arms)
@@ -326,380 +326,6 @@ Làm mới game kinh điển “chạm để vỗ cánh” — game mà bạn ch
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Bài đăng gốc](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Mã nguồn](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Bản demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2096986557244723371"></a>
-
-### Con đường rừng dài 12 giây trong Blender
-
-[Can Matrix](https://x.com/Jomolos) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096986557244723371"><img src="../assets/previews/3e060bfb3bf3973f0efb048cacbdc625fe879b8bca0cb46c2bb8fd367eb75268.jpg" width="840" loading="lazy" alt="Con đường rừng dài 12 giây trong Blender"></a>
-
-Yêu cầu tạo một cảnh con đường rừng dài 12 giây trong Blender.
-
-**Prompt**
-
-```text
-Con đường rừng dài 12 giây trong Blender
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096986557244723371) · [Bài đăng gốc](https://x.com/Jomolos/status/2096986557244723371) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2097004192627933279"></a>
-
-### Thú cưng robot tương tác trên bàn làm việc
-
-[ZEUS⚡️](https://x.com/zeuuss_01) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097004192627933279"><img src="../assets/previews/9188a5a53301b71d404af1d10d6baf4e44585869cc933918118ae2180cf3c1ab.jpg" width="840" loading="lazy" alt="Thú cưng robot tương tác trên bàn làm việc"></a>
-
-Đặc tả game Three.js chi tiết về một robot bốn chân với chuyển động biểu cảm, các ô pin hiển thị rõ, cơ chế sạc và ba nhiệm vụ dựa trên vật thể.
-
-**Prompt**
-
-```text
-TOÀN BỘ ĐẶC TẢ.
-LƯU NỘI DUNG NÀY THÀNH TỆP TRONG THƯ MỤC DỰ ÁN, KHÔNG PHẢI DƯỚI DẠNG TIN NHẮN CHAT.
-SAU ĐÓ: /goal xây dựng nội dung này bằng three.js, đọc SPEC.md và làm theo
-chính xác, đặc biệt là các mục 9 và 10.
-
-{ BẮT ĐẦU }
-
-1 NỘI DUNG NÀY LÀ GÌ
-
-một chú robot bốn chân nhỏ sống trên bàn làm việc. bạn sạc pin cho nó,
-chơi cùng nó và giao cho nó ba công việc. nó không bao giờ rời khỏi bàn
-và bạn cũng vậy. đó là toàn bộ trò chơi.
-
-bản dựng này chỉ dựa vào hai yếu tố, không có gì khác: diện mạo của robot
-và cách nó chuyển động. người chơi dành toàn bộ thời gian nhìn một vật thể
-từ khoảng cách cố định, nên vật thể đó phải đủ cuốn hút để ngắm nhìn,
-và phải chuyển động như thể nó đang sống.
-
-đây không phải thú cưng biết nói. không giọng nói, không miệng, không khuôn mặt trên màn hình,
-và nó không bao giờ lặp lại lời bạn nói. nó là một cỗ máy chú ý đến bạn,
-và đó là một điều khác biệt, thậm chí tốt hơn.
-
-2 ROBOT
-
-kích thước khoảng bằng một con mèo, có bốn chân.
-
-tỷ lệ, yếu tố tạo nên sự duyên dáng:
-- thân robot là một khối bo tròn, rộng hơn chiều cao, dài khoảng bằng hai lần
-  chiều rộng của đầu. tạo cảm giác nặng nề.
-- đầu lớn so với thân, cao khoảng 40 phần trăm chiều cao thân,
-  và nhô về phía trước trên một chiếc cổ ngắn. tạo cảm giác tò mò.
-  không phải đầu chibi, và mắt không được quá to.
-- chân thanh mảnh khi đặt cạnh thân, khiến một vật thể nặng nề
-  được nâng đỡ bởi những chi nhẹ. sự tương phản này khiến dáng đi
-  trông thanh thoát thay vì vụng về.
-- một chiếc đuôi ngắn thực chất là đối trọng, đung đưa đúng như vậy
-- một ăng-ten ngắn trên đầu, quật theo rồi lắng xuống chậm nửa
-  nhịp sau mỗi chuyển động. gần như không tốn chi phí, nhưng đây là
-  nguồn tạo sức sống lớn nhất cho toàn bộ mô hình.
-
-ba vật liệu, không quá ba:
-1 tấm ốp sơn màu trắng ngà dịu, bề mặt mờ, hơi ấm. phủ trên
-  lưng, phần hông và đỉnh đầu. ít nhất 60 phần trăm
-  bề mặt nhìn thấy, nếu không robot sẽ trông như một đống linh kiện.
-2 kim loại gia công để trần, màu xám trung tính mát, dùng cho chân, khung, khớp và
-  cổ. chỉ vòng khớp mới có màu đồng thau ấm.
-3 cao su tối màu, gần như đen và bề mặt mờ, dùng cho bốn bàn chân, ống bọc
-  cổ và dây cáp.
-
-khuôn mặt: hai thấu kính tròn cùng kích thước, đặt cách xa nhau, lõm vào
-sau một rãnh gia công chạy ngang trán. rãnh này là một
-cạnh gia công, không phải lông mày, và không bao giờ chuyển động. mọi biểu cảm
-đều đến từ góc nghiêng của đầu, ăng-ten và độ sáng của thấu kính.
-
-một khuyết điểm: một tấm ốp vai có sắc độ hơi khác, như thể
-đã từng được thay. không cần làm nổi bật chi tiết này.
-
-kiểm tra hình dáng, đạt hoặc không đạt: render robot màu đen hoàn toàn trên
-nền trắng ở kích thước 64 × 64 pixel, từ góc bên và góc ba phần tư. chiếc đầu
-ngẩng lên, khoảng hở giữa đầu và thân, bốn chân với
-ánh sáng lọt qua giữa chúng và chiếc đuôi đều phải vẫn dễ nhận ra. nếu bất kỳ
-hai khối nào hòa vào nhau, hãy sửa mô hình, không phải bản render.
-
-3 PIN LÀ THANH TIẾN TRÌNH
-
-một dải gồm năm ô pin chạy dọc một bên sườn, phát sáng màu hổ phách. chúng sẽ
-tắt lần lượt khi pin giảm và sáng lần lượt khi đang
-sạc. không hiển thị con số hay thanh trạng thái nào trên màn hình.
-
-5 ô pin  nhanh nhẹn, đầu ngẩng, đuôi đung đưa
-4          bình thường
-3          chậm hơn, đầu hơi cúi
-2          ngồi xuống giữa các hành động thay vì đứng
-1          tự đi đến đế sạc và chờ
-0          gập chân lại và tắt nguồn ngay tại chỗ,
-         thấu kính tối om, chờ được mang đến đế sạc
-
-nó không bao giờ hỏng, không bao giờ chết và không mất gì khi về 0.
-
-4 CÁCH DI CHUYỂN
-
-- bước đi thực sự. các cặp chân chéo nhau, bàn chân đặt trên bàn và
-  giữ nguyên vị trí trong khi thân mình di chuyển qua chúng. bàn chân không
-  trượt.
-- trọng lượng. thân mình hạ xuống ở cặp chân đang chịu tải. khi bắt đầu, nó nghiêng
-  về phía trước trước khi di chuyển. khi dừng lại, nó bước thêm một bước ngắn để
-  giữ thăng bằng.
-- nó quan sát bạn. đầu dõi theo con trỏ mỗi khi con trỏ nằm trên bàn, và cổ dẫn hướng xoay trước thân mình.
-  khi con trỏ nằm trên bàn, cổ dẫn hướng xoay trước thân mình.
-- nó tự lấy lại thăng bằng. chạm nhẹ vào nó, nó loạng choạng, dang rộng một chân để trụ và
-  tự đứng thẳng lại. nó không bao giờ bị ngã.
-- nó ổn định lại. khi đứng yên, nó chuyển trọng lượng sau vài giây, và
-  thấu kính chớp chậm: chúng mờ đi rồi sáng trở lại, chứ
-  không khép lại.
-
-nó tiến bộ qua luyện tập. mỗi lần hoàn thành một công việc, độ lắc lư lại
-giảm đi một chút và chuyển động nhanh hơn một chút, cho đến khi đạt giới hạn.
-không có thông báo nào về điều này. đến công việc thứ hai mươi, nó chuyển động rõ ràng
-như một cỗ máy biết mình đang làm gì, và sự thay đổi đó là
-tiến trình duy nhất trong trò chơi.
-
-5 BÀN THỢ
-
-một chiếc bàn thợ, được nhìn từ khoảng cách cố định. ấm áp, in đậm dấu vết sử dụng.
-
-mặt bàn bằng gỗ sáng màu đã mòn. bức tường phía sau màu xanh xám lạnh, đơn giản.
-robot bằng kim loại trần, các khớp nối bằng đồng thau ấm. thấu kính và các cell pin
-phát sáng màu hổ phách, là màu duy nhất được chiếu sáng. ánh đèn ấm từ một bên,
-đổ bóng dài, mềm. mọi thứ khác đều trầm màu.
-
-trên bàn: một đế sạc với cuộn dây cáp, một lọ đựng
-bu lông, một mảnh vải cuộn, một chiếc thùng nhỏ, một đèn bàn, một quả bóng cao su,
-một bát thiếc. không có gì khác.
-
-chiếc đèn là nguồn sáng duy nhất. khi robot đi ngang
-phía trước đèn, bóng của nó quét ngang mặt bàn.
-
-6 CHỈ THỂ HIỆN QUA CÁCH SỬ DỤNG
-
-- bạn kéo quả bóng ngang mặt bàn, đầu robot dõi theo
-  nó trước khi xoay thân mình để đi theo
-- bạn đặt robot lên đế sạc, một cell pin sáng lên, rồi đến
-  cell tiếp theo, giữa mỗi lần sáng có một khoảng dừng
-- bạn chạm nhẹ vào sườn robot, nó loạng choạng, chống lại bằng một
-  chân dang rộng rồi đứng thẳng lại
-- bạn thả một chiếc bu lông vào bát thiếc, nó đi tới, nhặt bu lông
-  bằng các tấm hàm kẹp ở miệng rồi mang đến chiếc lọ
-- bạn để mặc nó, nó đi đến mép bàn, nhìn
-  xuống dưới rồi lùi lại
-- bạn gãi lên tấm ốp trên lưng, nó hạ thấp thân mình và
-  giữ yên cho đến khi bạn dừng lại
-
-hãy thể hiện tất cả những điều này qua hành động. không bao giờ giải thích bằng chú thích.
-
-7 BA CÔNG VIỆC
-
-mỗi công việc nhằm thể hiện một kiểu chuyển động khác nhau, và người chơi yêu cầu chúng
-bằng cách đặt một vật lên bàn, không bao giờ qua menu.
-
-nhặt  thả một chiếc bu lông ở bất kỳ đâu. nó đi tới, nhặt lên rồi mang
-       đến chiếc lọ. thể hiện bước đi và cú xoay.
-xếp  đặt ba chiếc thùng ra bàn. nó đẩy chúng thành một chồng, từng chiếc
-       một. thể hiện động tác đẩy, chống trụ và nâng.
-đuổi  lăn quả bóng. nó chạy theo, dùng một chân chặn lại rồi
-       mang về. thể hiện chạy, trượt và dừng.
-
-mỗi công việc tiêu tốn một ít điện. công việc thực hiện ở mức 2 cell pin sẽ chậm hơn
-và lắc lư nhiều hơn so với cùng công việc ở mức 5. không hàng đợi, không thứ tự, không
-hẹn giờ, không phần thưởng.
-
-8 GIAO DIỆN
-
-giữa cạnh dưới màn hình: một thẻ nhắc duy nhất xuất hiện khi có vật trong tầm với,
-nêu phím hoặc thao tác kéo cùng hành động tương ứng; thẻ này sẽ biến mất khi
-không còn phù hợp.
-
-không có gì khác trên màn hình. không có thanh pin, chỉ số hạnh phúc, không có
-chỉ số đói, tiền xu, cấp độ, kinh nghiệm, ngôi sao, không có
-bộ đếm giờ, menu, cài đặt, cửa sổ hướng dẫn, nhãn nổi
-bên trên robot.
-
-mọi thông tin người chơi cần biết đều thể hiện trên thân robot.
-
-camera: cố định theo hướng bàn, nhìn chếch ba phần tư từ phía trước và
-hơi từ trên xuống. trường nhìn dọc 40 độ. robot chiếm
-30 đến 45 phần trăm chiều cao khung hình ở giữa bàn.
-mỗi ô pin rộng ít nhất 8 pixel ở độ phân giải 1080p. toàn bộ
-bàn luôn nằm trong khung hình. kéo để xoay khoảng 60
-độ, không hơn. camera không bao giờ rời khỏi bàn và
-không bao giờ cắt cảnh.
-
-9 NHỮNG ĐIỀU BỊ CẤM, LIỆT KÊ CỤ THỂ
-
-thú cưng: không có giọng nói, không nói chuyện, không lặp lại lời bạn nói, không
-micro, không có khuôn mặt trên màn hình, không miệng, không lông mày, không
-mắt hoạt hình có con ngươi, không trái tim, không emoji, không bong bóng thoại,
-không nhập tên, không trang phục, không mũ, không cửa hàng sơn.
-
-mô hình free-to-play: không tiền xu, không đá quý, không bất kỳ loại tiền tệ nào, không
-cửa hàng, quảng cáo, phần thưởng hằng ngày, chuỗi thành tích, thông báo, không
-năng lượng phải mua, bộ đếm thời gian chờ, cấp độ, không
-thanh kinh nghiệm, thành tựu, bảng xếp hạng.
-
-gameplay: không kẻ địch, chiến đấu, máu, sát thương, chết,
-hỏng hóc, mini-game sửa chữa, trạng thái thất bại, điểm số, không
-bộ đếm giờ, dấu nhiệm vụ, đoạn cắt cảnh, hình minh họa màn hình tải.
-
-lặp lại từ các bản dựng trước của tôi: không bãi biển, cây cọ, cua,
-đảo bay, đèn lồng, hoa anh đào, ninja, không
-shuriken, khối voxel, cuốc chim, dung nham, ô tô, thành phố,
-không có cảnh dưới nước, rong biển.
-
-kết xuất: không kết cấu bề mặt chân thực, bóng cứng, lóe sáng ống kính, không
-hạt phim, khung viền điện ảnh, nhòe độ sâu trường ảnh, quang sai màu
-sắc, sương mù xám trên màn hình. chỉ tạo bloom trên thấu kính và
-các ô pin, không thêm bất kỳ chỗ nào khác.
-
-10 NGÂN SÁCH DỰNG
-
-bản dựng này phải hoàn thành trong một buổi làm việc. mọi thứ dưới đây
-đều tuyệt đối không được có trong phiên bản này. không thêm, không dựng stub, không
-để lại TODO cho chúng.
-
-không có phòng thứ hai, không có ngoại cảnh
-không có robot thứ hai
-không lưu hoặc tải; mỗi lần tải lại là một robot mới
-không dùng engine vật lý: tự viết inverse kinematics cho bốn chân
-  trên mặt phẳng, cùng va chạm hộp đơn giản cho các vật thể trên bàn
-không ragdoll
-không âm thanh
-không menu, không cài đặt, không màn hình tạm dừng
-không quá ba công việc
-không có chu kỳ ngày đêm
-
-phải dành thời gian cho các phần sau, theo thứ tự này:
-1 tỷ lệ cơ thể robot và bài kiểm tra silhouette
-2 chu kỳ bước đi và cách đặt chân
-3 khả năng dõi theo bằng đầu, ăng-ten và chuyển động ổn định
-4 các trạng thái pin và đế sạc
-5 ba công việc
-6 trang trí bàn làm việc
-
-nếu hết thời gian, hãy phát hành bản dựng với một chiếc bàn trống và robot đẹp mắt
-có dáng đi tốt. tuyệt đối không làm ngược lại. một chiếc bàn trống với
-robot tốt đã là một game hoàn chỉnh. chiếc bàn được trang trí nhưng robot cứng đờ
-thì chẳng có ý nghĩa gì.
-
-trước khi tuyên bố hoàn tất, hãy chứng minh bốn điều này bằng bản kết xuất, không phải bằng
-lời: bài kiểm tra dáng đen ở 64 px từ hai góc, một chu kỳ bước đi
-ở mức 5 ô pin và cùng chu kỳ bước đi đó ở mức 2 ô pin, phần đầu bám theo
-con trỏ trong toàn bộ cung xoay, và robot ở mức 5 ô pin và ở mức 0
-ô pin cạnh nhau.
-
-hãy dựng nó, rồi cho tôi biết ba điều bạn sẽ sửa đầu tiên.
-
-{ END }
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097004192627933279) · [Bài đăng gốc](https://x.com/zeuuss_01/status/2097004192627933279) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2097065330728128920"></a>
-
-### Cây chanh vàng thạch tương tác
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097065330728128920"><img src="../assets/previews/19fa5b36caaf4663987e99892e3cb3babcc452cbe50e1ef2f6108a859d3eba36.jpg" width="840" loading="lazy" alt="Cây chanh vàng thạch tương tác"></a>
-
-Tạo cây chanh vàng thạch 3D tương tác bằng WebGPU, với các cành cây đung đưa, quả chanh có thể chọn bằng chuột và hiệu ứng vật lý biến dạng rồi nảy.
-
-**Prompt**
-
-```text
-xây dựng cây chanh vàng thạch tương tác bằng WebGPU
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097065330728128920) · [Bài đăng gốc](https://x.com/vib3coded/status/2097065330728128920) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2097123382852829230"></a>
-
-### Rigging và tạo hoạt ảnh cho mech chân digitigrade trong Godot
-
-[Om Patel](https://x.com/om_patel5) · 2026-09-08
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097123382852829230"><img src="../assets/previews/a89f2393a0951b706bb98c904c317b3afb4707e76b5f3f9432a19725616d2f11.jpg" width="840" loading="lazy" alt="Rigging và tạo hoạt ảnh cho mech chân digitigrade trong Godot"></a>
-
-Prompt được trích dẫn yêu cầu Astra rigging một mech GLB có sẵn và tạo hoạt ảnh bước đi cho đôi chân digitigrade trong bản xem trước Godot.
-
-**Prompt**
-
-```text
-Bạn có thể rigging và tạo hoạt ảnh cho GLB này không? Tôi muốn xem đôi chân digitigrade bước đi thật thuyết phục trong bản xem trước Godot.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097123382852829230) · [Bài đăng gốc](https://x.com/om_patel5/status/2097123382852829230) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2097153139795468365"></a>
-
-### Hoạt ảnh tách lớp cửa hàng hoa Nhật Bản
-
-[KANA｜東京AI映像](https://x.com/KanaWorks_AI) · 2026-09-08
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097153139795468365"><img src="../assets/previews/ecac385562a375d47484397c0d45277de44f41c1bd02ab91144a341e05972e95.jpg" width="840" loading="lazy" alt="Hoạt ảnh tách lớp cửa hàng hoa Nhật Bản"></a>
-
-Tạo một cửa hàng hoa cách điệu trong Blender, làm hoạt ảnh để tòa nhà và các đạo cụ đường phố tách thành những lớp rõ ràng, rồi lắp ráp lại toàn bộ cảnh.
-
-**Prompt**
-
-```text
-Dùng Blender MCP để dựng một cảnh cửa hàng hoa Nhật Bản nhỏ, cách điệu. Tập trung tái hiện trung thực các yếu tố hình ảnh chính: mái hiên màu xanh, biển hiệu trên mái có dòng chữ tiếng Nhật “花屋”, các chậu hoa và cây cảnh được sắp trước cửa hàng, máy bán hàng tự động, xe đạp, đèn giao thông, cột điện, cây cối xung quanh và những chi tiết đường phố dễ nhận biết khác. Kết xuất cảnh theo phong cách hoạt hình ấm áp, đáng yêu, với ánh sáng dịu, vật liệu bắt mắt và bầu không khí thân thiện.
-
-Tạo một hoạt ảnh tách lớp có tác động thị giác mạnh và giàu chuyển động cho toàn bộ cảnh cửa hàng hoa. Hiệu ứng tách lớp cần rõ ràng, phóng đại thay vì tinh tế. Tách riêng từng thành phần ra phía ngoài một cách mượt mà, có hệ thống để làm nổi bật cấu trúc và phần bên trong của cửa hàng hoa.
-
-Trong quá trình tách lớp, cho các bức tường bên ngoài, cây cối xung quanh, cột điện, biển hiệu, mái hiên, xe đạp, chậu hoa, cây cảnh, đạo cụ đường phố và các yếu tố môi trường khác bay ra phía ngoài hoặc lùi về phía sau, tạo đủ khoảng trống để người xem nhìn rõ bên trong cửa hàng hoa. Chia tòa nhà thành các lớp kết cấu có ý nghĩa để kiến trúc nội thất, đồ nội thất, vật trang trí, hoa, cây cảnh, kệ và các chi tiết nhỏ hơn hiện rõ.
-
-Máy bán hàng tự động cũng cần tách thành các bộ phận riêng. Các tấm vỏ bên ngoài phải tách ra, còn từng chai và lon nước ngọt bên trong bay ra linh hoạt, giãn thành một đội hình có trật tự để vẫn dễ nhận biết. Các bộ phận và chi tiết nhỏ có thể di chuyển xa hơn nhằm tăng sức hấp dẫn thị giác cho phân đoạn.
-
-Sử dụng thời điểm xuất hiện lệch nhau, tốc độ chuyển động khác nhau, chuyển động xoay, chiều sâu và các quỹ đạo phân lớp để tạo cảm giác năng lượng và lực tác động mạnh, đồng thời giữ mọi thành phần gọn gàng, dễ theo dõi. Tránh để tất cả cùng di chuyển ra ngoài chính xác cùng lúc hoặc cùng tốc độ.
-
-Khi toàn bộ cảnh đã tách hoàn toàn, giữ bố cục trong giây lát để người xem quan sát rõ cấu trúc bên trong và tất cả các thành phần đã tách rời.
-
-Sau đó đảo ngược trình tự: các chai nước ngọt, bộ phận của máy bán hàng tự động, cây cảnh, đạo cụ, đồ vật nội thất, tường, cây cối, cột điện, biển hiệu, xe đạp và mọi thành phần khác bay mượt mà trở về vị trí, lắp ráp lại thành cảnh cửa hàng hoa hoàn chỉnh.
-
-Toàn bộ hoạt ảnh cần có cảm giác giàu năng lượng, điện ảnh, thỏa mãn và tạo ấn tượng thị giác mạnh, với chuyển động rõ ràng và sự chuyển đổi dễ nhận biết giữa cảnh hoàn chỉnh, trạng thái tách lớp hoàn toàn và cảnh được lắp ráp lại ở cuối. Duy trì chuyển động có lớp lang, dễ theo dõi và được dàn dựng cẩn thận trong suốt hoạt ảnh.
-
-Sử dụng nền studio trung tính trong phân đoạn tách lớp để các vật thể đã tách rời và cấu trúc bên trong luôn hiện rõ.
-
-Sản phẩm bàn giao cuối cùng:
-Một hoạt ảnh được kết xuất hoàn chỉnh và một tệp dự án Blender 3D có thể chỉnh sửa. Tất cả vật thể, bộ phận, collection, vật liệu và các thành phần chính của cảnh phải được đặt tên, sắp xếp rõ ràng, nhất quán và chuyên nghiệp.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097153139795468365) · [Bài đăng gốc](https://x.com/KanaWorks_AI/status/2097153139795468365) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2097167383576383502"></a>
-
-### Địa hình làng quê lấy cảm hứng từ Skyrim từ ảnh tham chiếu được tạo bằng AI
-
-[Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo) · 2026-09-08
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097167383576383502"><img src="../assets/previews/b2cb6b850ef77b3e545565d93a49f22ce192293b50f8ef2ad74f242cfe387ddf.jpg" width="840" loading="lazy" alt="Địa hình làng quê lấy cảm hứng từ Skyrim từ ảnh tham chiếu được tạo bằng AI"></a>
-
-Tạo cảnh quan làng quê giả tưởng 3D bằng img2threejs, trước tiên tạo một ảnh tham chiếu để định hướng cho cảnh.
-
-**Prompt**
-
-```text
-Sử dụng img2threejs/img2threejs để tạo địa hình làng quê 3D mang phong cách như trong Skyrim. Tự tạo ảnh tham chiếu.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097167383576383502) · [Bài đăng gốc](https://x.com/TaroKichijo/status/2097167383576383502) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3842,6 +3468,26 @@ Xin chào. Hãy thiết kế mô hình 3D tốt nhất có thể bằng Blender 
 
 ---
 
+<a id="2102652927177617564"></a>
+
+### Game đua xe kart 3D trong một tệp HTML duy nhất
+
+[Anshul](https://x.com/realanshull) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102652927177617564"><img src="../assets/previews/0f568961afe1321356c2f741639b1e8c0fb199da304a749177bfa3210cbd2bbd.jpg" width="840" loading="lazy" alt="Game đua xe kart 3D trong một tệp HTML duy nhất"></a>
+
+Một prompt có thể tái sử dụng, được tác giả cho biết đã cung cấp nguyên văn cho GPT Astra 6 và Claude Opus 5.5 để so sánh cách triển khai game đua xe kart 3D của hai mô hình.
+
+**Prompt**
+
+```text
+Tạo một game đua xe kart 3D trong một tệp HTML duy nhất.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102652927177617564) · [Bài đăng gốc](https://x.com/realanshull/status/2102652927177617564) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="2102672926285713456"></a>
 
 ### Hoạt ảnh lâu đài thời Trung cổ trên trình duyệt
@@ -3934,6 +3580,163 @@ Tạo một ứng dụng web có bàn cờ 3D tương tác để học các gamb
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102788013902213508) · [Bài đăng gốc](https://x.com/diogosantosbr/status/2102788013902213508) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2102826333550133520"></a>
+
+### Shader thành phố solarpunk vô tận
+
+[Jonas Fröller](https://x.com/jonasfroeller) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102826333550133520"><img src="../assets/previews/5e1edba84b202c83598f2f632c371cb143a0023bb7fe03d23a934645231b7f6c.jpg" width="840" loading="lazy" alt="Shader thành phố solarpunk vô tận"></a>
+
+Prompt tạo shader mô tả một thành phố vô tận với những con đường và tòa tháp mang phong cách solarpunk, kèm hiệu ứng gió nhẹ luôn hiển thị, được thiết kế để chạy trên twigl.app.
+
+**Prompt**
+
+```text
+Tạo một shader có hình ảnh thú vị, có thể chạy trên twigl-dot-app, mô phỏng một thành phố vô tận với những con đường và tòa tháp mang phong cách solarpunk, cùng hiệu ứng gió nhẹ hiển thị liên tục.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102826333550133520) · [Bài đăng gốc](https://x.com/jonasfroeller/status/2102826333550133520) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2102897258983313712"></a>
+
+### Trình mô phỏng làm burger góc nhìn thứ nhất
+
+[noclipepe](https://x.com/noclipepe) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102897258983313712"><img src="../assets/previews/7081447827f1c3142a1e647eae36ba49c69fe17b4006156a64e6e5a7d8977779.jpg" width="840" loading="lazy" alt="Trình mô phỏng làm burger góc nhìn thứ nhất"></a>
+
+Prompt mà tác giả bài đăng cho biết họ đã đưa cho ba mô hình, trong đó có GPT-6 Sol và GPT-6 Luna, để tạo một game mô phỏng làm burger góc nhìn thứ nhất.
+
+**Prompt**
+
+```text
+tạo một game mô phỏng làm burger góc nhìn thứ nhất.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102897258983313712) · [Bài đăng gốc](https://x.com/noclipepe/status/2102897258983313712) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2102915300295369208"></a>
+
+### Cảnh HTML lửa trại giữa sa mạc về đêm siêu chân thực
+
+[Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102915300295369208"><img src="../assets/previews/764e2d668b97fd0ae51f70fab3b1b2878a2cb5e18d43651083eb08c41758cf91.jpg" width="840" loading="lazy" alt="Cảnh HTML lửa trại giữa sa mạc về đêm siêu chân thực"></a>
+
+Prompt do tác giả đăng, được sử dụng để so sánh các harness GPT 6 Sol và Opus 5.5. Prompt yêu cầu một cảnh HTML tương tác duy nhất, mô phỏng lửa trại siêu chân thực giữa sa mạc về đêm, với các khúc gỗ làm chỗ ngồi xung quanh, những ngôi sao có thể nhìn thấy, động vật hoang dã thỉnh thoảng xuất hiện và âm thanh chất lượng cao phù hợp với khung cảnh.
+
+**Prompt**
+
+```text
+Không tham chiếu đến bất kỳ tệp nào khác hoặc tác phẩm trước đó. Tác vụ này phải hoàn toàn nguyên bản và không được tạo theo kiểu gian lận dựa trên bất kỳ tác phẩm nào khác ở đây.
+
+Tạo một tệp HTML duy nhất mô phỏng lửa trại đang cháy giữa sa mạc. Bối cảnh là ban đêm và có thể nhìn thấy các vì sao. Xung quanh đống lửa là những gốc cây được bố trí làm chỗ ngồi. Không có người nào trong khung hình. Thỉnh thoảng có thể có các loài động vật hoang dã xuất hiện rồi khuất khỏi tầm nhìn.
+
+Âm thanh cũng phải phù hợp với khung cảnh và có chất lượng cao.
+Làm cho mọi thứ siêu chân thực
+
+đặt tên tệp dựa trên model
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102915300295369208) · [Bài đăng gốc](https://x.com/Nixtrodamis/status/2102915567845794029) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2102956340482289944"></a>
+
+### Codex dạng voxel trong Three.js
+
+[Arsh - 16 y/o builder](https://x.com/be_arsh) · 2026-09-24
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102956340482289944"><img src="../assets/previews/99b2ff17cd26386c8263b76b551d227260be222bfa037b09d6e74de8c6522369.jpg" width="840" loading="lazy" alt="Codex dạng voxel trong Three.js"></a>
+
+Một prompt bình luận tác giả có thể tái sử dụng, yêu cầu tạo Codex trong Three.js dưới dạng voxel, dựng hoàn toàn từ đầu mà không dùng skill.
+
+**Prompt**
+
+```text
+tự tạo Codex trong Three.js bằng voxel, dựng mọi thứ từ đầu, không dùng bất kỳ skill nào
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102956340482289944) · [Bài đăng gốc](https://x.com/be_arsh/status/2102956424120979838) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2103062348168618280"></a>
+
+### Lát cam dẻo 3D tương tác
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-24
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103062348168618280"><img src="../assets/previews/41edd4fdcfd514cd2e4a41c686561adaecd016ec2c1476bcd941a222a86a47ec.jpg" width="840" loading="lazy" alt="Lát cam dẻo 3D tương tác"></a>
+
+Tác giả bài đăng đã chia sẻ prompt này trong một bài so sánh Claude Opus 5.5 và ChatGPT-6 Astra. Prompt yêu cầu một mô phỏng vật thể mềm WebGPU độc lập cho lát cam dẻo có thể biến dạng, hỗ trợ tương tác bằng cảm ứng và chuột, hình học tạo theo quy trình, hiển thị bằng shader và các tùy chọn điều khiển mô phỏng.
+
+**Prompt**
+
+```text
+Tạo một lát cam dẻo 3D đẹp mắt, có thể tương tác bằng WebGPU. Cung cấp toàn bộ trải nghiệm trong một tệp HTML độc lập duy nhất, với JavaScript và shader WGSL được nhúng.
+
+Đây phải là mô phỏng 3D thời gian thực, không phải video, hình ảnh hay hoạt ảnh lặp.
+
+APPEARANCE
+
+Tạo một lát cam dày hình bán nguyệt với phần tép mọng nước bán trong suốt, tám múi riêng biệt, các màng bên trong mảnh, những bong bóng li ti, một lớp cùi trắng nhạt và vỏ cam mềm.
+
+Tạo vẻ ngoài như kẹo dẻo cao cấp: màu sắc bão hòa, điểm sáng bóng, ánh sáng xuyên qua phần tép, khúc xạ thuyết phục và bóng tiếp xúc mềm. Tránh bloom quá mức, màu bị nhợt hoặc vẻ ngoài như nhựa cứng.
+
+Sử dụng phông nền studio sáng, ấm và giao diện biên tập gọn gàng với nhiều khoảng trắng. Thêm tiêu đề serif in nghiêng cỡ lớn “Citrus Jelly.” Giữ các điều khiển nhỏ gọn và để lát cam luôn hiển thị rõ ràng.
+
+VẬT LÝ VẬT THỂ MỀM
+
+Cảm giác như thạch là yếu tố quan trọng nhất.
+
+- Dùng chuột hoặc ngón tay để nắm bất kỳ phần nào của lát cam.
+- Kéo, nhấc, kéo giãn, xoắn rồi thả nó ra.
+- Biến dạng phải mang tính cục bộ: kéo một mép sẽ làm phần tép gần đó giãn ra, trong khi phần còn lại chuyển động theo một cách tự nhiên.
+- Sau khi thả, lát cam phải rung lắc, vượt quá vị trí cân bằng rồi dần trở lại hình dạng ban đầu.
+- Bao gồm trọng lực, quán tính, lực giảm chấn, va chạm với mặt đất và độ nảy mềm.
+- Duy trì thể tích ở mức gần đúng và ngăn lưới bị sụp hoặc lộn mặt vào trong.
+- Làm phần vỏ cứng hơn phần tép một chút.
+- Các múi bên trong, màng và bong bóng phải biến dạng theo mà không trôi ra ngoài thân lát cam.
+
+Sử dụng bộ giải vật thể mềm thể tích ổn định, chẳng hạn lưới tứ diện với các ràng buộc XPBD. Không mô phỏng độ mềm bằng cách chỉ phóng to, thu nhỏ hoặc xoay toàn bộ đối tượng.
+
+CONTROLS
+
+Bao gồm ba thiết lập màu: Cam, Chanh và Ruby.
+
+Thêm:
+- Thanh trượt Độ cứng.
+- Thanh trượt Lực giảm chấn bên trong.
+- Nút “Đẩy nhẹ”.
+- Nút Đặt lại.
+- Ô chọn Tốc độ 1/4.
+- Ô chọn Hiện lưới.
+- Nút Tạm dừng/tiếp tục.
+
+Hiển thị các thông số trực tiếp nhỏ cho khối lượng, phần trăm thể tích ở trạng thái nghỉ và động năng.
+
+YÊU CẦU KỸ THUẬT
+
+Sử dụng kết xuất WebGPU thực sự với shader WGSL. Tạo toàn bộ hình học và chi tiết hình ảnh theo quy trình, không dùng mô hình hoặc tệp hình ảnh nhập vào.
+
+Tách độc lập việc cập nhật mô phỏng khỏi tốc độ khung hình kết xuất. Hỗ trợ thiết bị máy tính và thiết bị cảm ứng. Hiển thị thông báo dự phòng rõ ràng nếu WebGPU không khả dụng.
+
+Kiểm thử thao tác kéo mạnh, thả liên tiếp, toàn bộ điều khiển và màn hình hẹp. Khắc phục vật lý không ổn định, hình học bị lỗi và hiện tượng bất thường trong hình ảnh trước khi bàn giao tệp HTML hoàn chỉnh.
+
+Kết quả phải mang lại cảm giác như một thí nghiệm kẹo nhỏ bé, giàu tính tương tác và thực sự thú vị khi chơi.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103062348168618280) · [Bài đăng gốc](https://x.com/vib3coded/status/2103062415533371646) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -4325,7 +4128,7 @@ Bàn giao mã nguồn, lockfile, lệnh npm phát triển/build và đầu ra t�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 277 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 283 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**277 · En yeni Astra istemleri**
+**283 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -56,12 +56,6 @@
 - [Etkileşimli 3B Anatomi Gezgini](#2099206962344800541) · GitHub
 - [İzometrik fantezi grafik demosu](#2100271998618177864) · GitHub
 - [Mosswing: Mobil 3B Dokunarak Uçma Oyunu](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Blender’da 12 saniyelik bir orman yolu](#2096986557244723371)
-- [Tezgâh Üzerinde Etkileşimli Robot Evcil Hayvan](#2097004192627933279)
-- [Etkileşimli jöle limon ağacı](#2097065330728128920)
-- [Godot'ta digitigrad meche rig kurun ve animasyon verin](#2097123382852829230)
-- [Japon Çiçekçi Dükkânı Patlatılmış Görünüm Animasyonu](#2097153139795468365)
-- [Oluşturulmuş Referanstan Skyrim Esintili Köy Arazisi](#2097167383576383502)
 - [Referans görsel kullanarak Blender’da 3B modelin yüz hatlarını iyileştirme](#2097313247116341424)
 - [League of Legends'in mini 3B oyununu yeniden oluşturma](#2097320830602809682)
 - [Pekin Cennet Tapınağı İyi Hasatlar İçin Dua Salonu TypeScript + Three.js WebGL projesi](#2097323734504017936)
@@ -140,10 +134,16 @@
 - [Bubble Bay: 3B Su Balonu Savaşı](#2102300855387205871)
 - [Sir, We Have Orc Problems tarzında kule savunma oyunu](#2102411087002112256)
 - [İç mekânı dâhil iki katlı banliyö evi](#2102473710724919614)
+- [Tek bir HTML dosyasında 3B kart yarışı](#2102652927177617564)
 - [Orta Çağ kalesi tarayıcı animasyonu](#2102672926285713456)
 - [Orbit Lab: Güneş, Dünya ve Ay'ın 3B simülasyonu](#2102752217375899659)
 - [Tarayıcıda Etkileşimli Ortaçağ Avrupa Tarzı 3B Kale](#2102780850706567390)
 - [Satranç gambitlerini çalışmak için etkileşimli 3B satranç tahtası](#2102788013902213508)
+- [Sonsuz solarpunk şehir shader'ı](#2102826333550133520)
+- [Birinci şahıs burger simülatörü](#2102897258983313712)
+- [Hipergerçekçi canlı çöl kamp ateşi HTML sahnesi](#2102915300295369208)
+- [Three.js'te Voxel Codex](#2102956340482289944)
+- [Etkileşimli 3B jelibon narenciye dilimi](#2103062348168618280)
 - [Battle City 3D: Sonsuz Tank Savunması](#battle-city-3d)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu](#odd-arms)
@@ -326,380 +326,6 @@ Klasik "dokunarak uçma" oyununu — küçük bir yaratığı havada tutmak içi
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Orijinal gönderi](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Kaynak kodu](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Canlı demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2096986557244723371"></a>
-
-### Blender’da 12 saniyelik bir orman yolu
-
-[Can Matrix](https://x.com/Jomolos) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096986557244723371"><img src="../assets/previews/3e060bfb3bf3973f0efb048cacbdc625fe879b8bca0cb46c2bb8fd367eb75268.jpg" width="840" loading="lazy" alt="Blender’da 12 saniyelik bir orman yolu"></a>
-
-Blender’da 12 saniyelik bir orman yolu sahnesi oluşturma isteği.
-
-**İstem**
-
-```text
-Blender’da 12 saniyelik bir orman yolu
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096986557244723371) · [Orijinal gönderi](https://x.com/Jomolos/status/2096986557244723371) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2097004192627933279"></a>
-
-### Tezgâh Üzerinde Etkileşimli Robot Evcil Hayvan
-
-[ZEUS⚡️](https://x.com/zeuuss_01) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097004192627933279"><img src="../assets/previews/9188a5a53301b71d404af1d10d6baf4e44585869cc933918118ae2180cf3c1ab.jpg" width="840" loading="lazy" alt="Tezgâh Üzerinde Etkileşimli Robot Evcil Hayvan"></a>
-
-Duygulu hareketlere, görünür pil hücrelerine, şarj sistemine ve nesnelerle tetiklenen üç göreve sahip dört ayaklı bir robot için ayrıntılı Three.js oyun spesifikasyonu.
-
-**İstem**
-
-```text
-TAM SPESİFİKASYON.
-BUNU SOHBET MESAJI OLARAK DEĞİL, PROJE KLASÖRÜNE DOSYA OLARAK KAYDEDİN.
-ARDINDAN: /goal bunu three.js ile oluşturun, SPEC.md dosyasını okuyup izleyin
-özellikle 9. ve 10. bölümlere harfiyen uyun.
-
-{ BAŞLANGIÇ }
-
-1 BU NEDİR
-
-küçük, dört ayaklı bir robot bir çalışma tezgâhında yaşar. onu şarj eder,
-onunla oynar ve ona üç iş verirsin. tezgahtan hiç ayrılmaz
-sen de ayrılmazsın. bütün oyun bundan ibarettir.
-
-bu yapıyı taşıyan yalnızca iki şey var, başka hiçbir şey değil: robotun
-nasıl göründüğü ve nasıl hareket ettiği. oyuncu tüm oyun boyunca
-sabit bir mesafeden tek bir nesneye bakıyor; bu yüzden o nesne
-bakmaya değer olmalı ve canlıymış gibi hareket etmeli.
-
-bu konuşan bir evcil hayvan değil. sesi yok, ağzı yok, ekranda yüzü yok
-ve söylediklerini asla tekrarlamıyor. sana dikkat eden bir makine;
-bu farklı ve daha iyi bir şey.
-
-2 ROBOT
-
-dört ayaklı ve yaklaşık bir kedi büyüklüğünde.
-
-çekiciliğin kaynağı olan oranlar:
-- gövde, yüksekliğinden geniş, yuvarlatılmış bir blok; uzunluğu yaklaşık iki kafa
-    genişliği kadar. ağır görünüyor.
-- kafa gövdeye göre büyük; gövde yüksekliğinin yaklaşık yüzde 40'ı kadar
-    ve kısa bir boynun üzerinde öne doğru oturuyor. meraklı görünüyor.
-    chibi tarzı bir kafa değil ve gözleri de büyük değil.
-- bacaklar gövdenin yanında ince kalıyor; böylece ağır bir şey
-    hafif uzuvlar üzerinde taşınıyor. yürüyüşün hantal değil de
-    narin görünmesini sağlayan şey bu karşıtlık.
-- aslında bir karşı ağırlık olan ve öylece sallanan kısa bir kuyruk
-- kafada, her hareketin yarım vuruş gerisinden kamçı gibi savrulup
-    sonra duran kısa bir anten. neredeyse hiç maliyeti yok ve modelin
-    tamamındaki en büyük canlılık kaynağı bu.
-
-üç malzeme, en fazla üç:
-1 boyalı panel; yumuşak kemik beyazı, mat ve hafif sıcak tonlu. sırtın,
-    kalçaların ve kafanın üstünde. görünür yüzeyin en az yüzde 60'ı
-    böyle olmalı; yoksa parça yığını gibi görünür.
-2 bacaklarda, iskelette, eklemlerde ve boyunda çıplak işlenmiş metal;
-    soğuk orta gri. yalnızca her eklem halkasında sıcak pirinç.
-3 dört ayağın, boyun kılıfının ve kablonun üzerinde koyu kauçuk;
-    siyaha yakın ve mat.
-
-yüz: eşit büyüklükte, geniş aralıklı iki yuvarlak lens; kaş çizgisi boyunca
-işlenmiş bir oluğun arkasına gömülü. bu oluk bir
-işlenmiş kenar, kaş değil ve asla hareket etmiyor. tüm ifade
-kafa açısı, anten ve lens parlaklığından geliyor.
-
-tek kusur: bir omuz paneli, sanki bir kez değiştirilmiş gibi
-biraz farklı tonda. dikkat çekmiyor.
-
-siluet testi, geçer ya da kalır: robotu yandan ve üç çeyrek açıdan
-64'e 64 piksel boyutunda beyaz üzerine tamamen siyah render alın. kafa
-yukarı kalkık olmalı, kafa ile gövde arasındaki boşluk, aralarında
-gün ışığı görünen dört bacak ve kuyruk hâlâ seçilebilmeli. eğer herhangi
-iki kütle birleşiyorsa renderı değil, modeli değiştirin.
-
-3 BATARYA İLERLEME ÇUBUĞUDUR
-
-bir yan taraf boyunca kehribar renginde yanan beş hücrelik bir şerit uzanır. şarjı
-azaldıkça hücreler birer birer söner, şarj olurken de birer birer yanar.
-ekranda sayı ya da çubuk gösterilmez.
-
-5 hücre  canlı, kafa yukarıda, kuyruk sallanıyor
-4        normal
-3        daha yavaş, kafa biraz daha aşağıda
-2        ayakta durmak yerine eylemler arasında oturur
-1        kendi kendine şarj pedine yürür ve bekler
-0        bacaklarını katlar ve olduğu yerde kapanır,
-         lensleri karanlık, şarj pedine taşınmayı bekler
-
-asla bozulmaz, asla ölmez ve sıfırda hiçbir şey kaybolmaz.
-
-4 NASIL HAREKET EDER
-
-- gerçek bir yürüyüş. çapraz çiftler halinde; ayaklar tezgâha basar ve
-  gövde üzerlerinden geçerken yerlerinde kalır. ayaklar
-  kaymaz.
-- ağırlık. yük taşıyan çiftin üzerinde gövde alçalır. başlarken hareket
-  etmeden önce öne doğru eğilir. dururken kendini dengelemek için kısa bir
-  adım atar.
-- seni izler. imleç tezgâhın üzerindeyken kafa imleci takip eder ve boyun
-  gövde dönmeden önce dönüşü başlatır.
-- toparlanır. onu dürttüğünde sendeleyip bir bacağını yana açarak basar ve
-  dengesini yeniden bulur. asla devrilmez.
-- durulur. hareketsiz dururken birkaç saniyede bir ağırlığını değiştirir
-  ve lensler yavaşça göz kırpar: kararır ve yeniden parlar, ama
-  kapanmaz.
-
-pratik yaptıkça gelişir. tamamlanan her görev yalpalamayı biraz
-azaltır ve hareketi bir sınıra kadar biraz hızlandırır.
-bunu hiçbir şey duyurmaz. yirminci görevde ne yaptığını bilen bir
-makine gibi hareket ettiği açıkça görülür ve bu değişim oyundaki
-tek ilerleme unsurudur.
-
-5 TEZGÂH
-
-tek bir çalışma tezgâhı, sabit bir mesafeden görülür. sıcak, kullanılmış.
-
-tezgâh yüzeyi aşınmış, açık renkli ahşap. arkadaki duvar düz, soğuk gri-yeşil.
-robot çıplak metalden, eklemlerinde sıcak pirinç bulunur. lensler ve hücreler
-kehribar renginde; yanan tek renk budur. lamba ışığı tek yandan sıcak gelir ve
-uzun, yumuşak bir gölge oluşturur. diğer her şey soluk tonlardadır.
-
-tezgâhın üzerinde: kablo bobinli bir şarj pedi, bir kavanoz
-cıvata, rulo hâlinde bir bez, küçük bir sandık, masa lambası, lastik top,
-teneke bir kâse. başka hiçbir şey yok.
-
-tek ışık kaynağı lambadır. robot önünden geçtiğinde
-gölgesi tezgâhın üzerinde süzülür.
-
-6 YALNIZCA KULLANIMLA ANLATILIR
-
-- topu tezgâhın üzerinde sürüklersin ve robotun kafası
-  gövdesi dönüp onu takip etmeden önce topu izler
-- robotu şarj pedine koyarsın ve önce bir hücre, ardından
-  diğeri yanar; her birinin arasında kısa bir bekleme olur
-- onu yandan dürtersin; sendeleyip genişçe açtığı bir
-  bacakla kendini dengeler ve doğrulur
-- teneke kâseye bir cıvata bırakırsın; robot yanına gider, onu
-  ağız plakalarıyla alır ve kavanoza taşır
-- onu kendi hâline bırakırsın; tezgâhın kenarına yürür, aşağıya
-  bakar ve geri çekilir
-- sırtındaki panele dokunursun; robot gövdesini alçaltır ve
-  sen durana kadar kıpırdamadan bekler
-
-tüm bunları gerçekleşirken göster. hiçbirini açıklama yazısıyla anlatma.
-
-7 ÜÇ GÖREV
-
-her biri farklı bir hareket türünü göstermek için vardır ve her biri
-menüden değil, tezgâha bir nesne koyularak başlatılır.
-
-getir  bir cıvatayı herhangi bir yere bırak. yanına yürür, alır ve onu
-       kavanoza götürür. yürüyüşü ve dönüşü gösterir.
-istifle  üç sandık koy. onları teker teker iterek üst üste dizer. itme,
-       dayanma ve kaldırma hareketlerini gösterir.
-kovala  topu yuvarla. peşinden koşar, bir ayağıyla durdurur ve
-       geri getirir. koşuyu, kaymayı ve duruşu gösterir.
-
-her görev biraz şarj harcar. 2 hücrede tamamlanan görev, 5 hücredeki
-aynı göreve göre daha yavaş ve daha dengesiz olur. sıra yok, düzen yok,
-zamanlayıcı yok, ödül yok.
-
-8 ARAYÜZ
-
-alt orta: erişim mesafesinde bir şey olduğunda tek bir komut kartı görünür;
-tuşu veya sürükleme hareketini ve eylemi belirten; bir şey erişim alanından çıktığında
-kaybolur.
-
-ekranda başka hiçbir şey yok. pil göstergesi yok, mutluluk göstergesi yok,
-açlık göstergesi yok, jeton yok, seviye yok, deneyim yok, yıldız yok,
-zamanlayıcı yok, menü yok, ayarlar yok, öğretici açılır pencere yok, robotun üzerinde yüzen etiket
-yok.
-
-oyuncunun bilmesi gereken her şey robotun gövdesinde.
-
-kamera: tezgâha sabitlenmiş, önden üç çeyrek açıyla ve
-hafifçe yukarıdan bakmalı. Dikey görüş alanı 40 derece olmalı. Robot,
-tezgâhın ortasında kare yüksekliğinin yüzde 30 ila 45'ini doldurmalı.
-1080p'de her pil hücresi en az 8 piksel genişliğinde olmalı. Tezgâhın tamamı
-her zaman kadrajda olmalı. Yaklaşık 60 derece boyunca ve daha fazla değil, yörüngede döndürmek için sürükleyin.
-Kamera hiçbir zaman tezgâhtan ayrılmamalı ve
-hiçbir zaman kesme yapmamalı.
-
-9 YASAKLAR, HER BİRİ AÇIKÇA BELİRTİLMİŞ
-
-evcil hayvan: ses yok, konuşma yok, söylediklerinizi tekrarlama yok,
-mikrofon yok, ekranda yüz yok, ağız yok, kaş yok,
-gözbebekli çizgi film gözleri yok, kalp yok, emoji yok, konuşma balonu yok,
-isim girme yok, kostüm yok, şapka yok, boya atölyesi yok.
-
-ücretsiz oynama modeli: jeton yok, mücevher yok, hiçbir türden para birimi yok,
-mağaza yok, reklam yok, günlük ödül yok, seri ödülü yok, bildirim yok,
-satın alınması gereken enerji yok, bekleme zamanlayıcısı yok, seviye yok,
-deneyim çubuğu yok, başarımlar yok, liderlik tablosu yok.
-
-oynanış: düşman yok, çatışma yok, can yok, hasar yok, ölme yok,
-kırılma yok, tamir mini oyunu yok, başarısızlık durumu yok, skor yok,
-zamanlayıcı yok, görev işaretleri yok, ara sahne yok, yükleme ekranı görseli yok.
-
-önceki yapımlarımın tekrarları: plaj yok, palmiye yok, yengeç yok,
-yüzen adalar yok, fener yok, kiraz çiçeği yok, ninja yok,
-shuriken yok, voxel blokları yok, kazma yok, lav yok, araba yok, şehir yok,
-sualtı yok, kelp yok.
-
-render: gerçekçi dokular yok, sert gölgeler yok, lens parlaması yok,
-film greni yok, sinemaskop çerçeve yok, alan derinliği bulanıklığı yok, kromatik
-aberasyon yok, gri ekran sisi yok. Lenslerde ve pil hücrelerinde
-bloom olsun, başka hiçbir yerde olmasın.
-
-10 YAPIM BÜTÇESİ
-
-bu yapım tek bir çalışma oturumunda tamamlanmalı. Aşağıdakilerin tamamı
-bu sürüm için kesinlikle yasak. Eklemeyin, taslak olarak bile bırakmayın ve
-bunun için yapılacaklar listesine bir madde bile eklemeyin.
-
-ikinci oda yok, dış mekân yok
-ikinci robot yok
-kayıt veya yükleme yok; yeniden yükleme yeni bir robot oluşturur
-fizik motoru yok: düz bir düzlemde dört bacak için elle yazılmış ters kinematik
-  ve tezgâhtaki nesneler için basit kutu çarpışması
-ragdoll yok
-ses yok
-menü yok, ayarlar yok, duraklatma ekranı yok
-üçten fazla iş yok
-gündüz-gece döngüsü yok
-
-zaman şu sırayla harcanmalı:
-1 robotun oranları ve siluet testi
-2 yürüme döngüsü ve ayakların yere basması
-3 kafa takibi, anten ve durulma hareketi
-4 pil durumları ve şarj pedi
-5 üç iş
-6 tezgâhın dekorasyonu
-
-zaman yetmezse boş bir tezgâh ve güzel,
-iyi yürüyen bir robotla yayınlayın. Asla tersi olmasın. İyi bir robotun bulunduğu sade bir tezgâh
-tamamlanmış bir oyundur. Sert hareket eden bir robotun bulunduğu süslü bir tezgâh
-hiçbir şey değildir.
-
-tamamlandı demeden önce şu dört şeyi sözle değil, renderlarla kanıtlayın:
-sözlerle değil, iki açıdan 64 pikselde silüet testi, 5 hücrede bir yürüme döngüsü
-ve aynı yürüyüşün 2 hücredeki hâli, başın
-tam yörünge boyunca imleci takip etmesi ve robotun 5 hücrede ve 0
-hücrede yan yana görüntüsü.
-
-bunu inşa et, ardından ilk olarak düzelteceğin üç şeyi söyle.
-
-{ END }
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097004192627933279) · [Orijinal gönderi](https://x.com/zeuuss_01/status/2097004192627933279) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2097065330728128920"></a>
-
-### Etkileşimli jöle limon ağacı
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097065330728128920"><img src="../assets/previews/19fa5b36caaf4663987e99892e3cb3babcc452cbe50e1ef2f6108a859d3eba36.jpg" width="840" loading="lazy" alt="Etkileşimli jöle limon ağacı"></a>
-
-WebGPU ile sallanan dallara, fareyle seçilebilen limonlara ve ezilip zıplama fiziğine sahip etkileşimli bir 3B jöle limon ağacı oluşturur.
-
-**İstem**
-
-```text
-WebGPU kullanarak etkileşimli bir jöle limon ağacı oluşturun
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097065330728128920) · [Orijinal gönderi](https://x.com/vib3coded/status/2097065330728128920) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2097123382852829230"></a>
-
-### Godot'ta digitigrad meche rig kurun ve animasyon verin
-
-[Om Patel](https://x.com/om_patel5) · 2026-09-08
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097123382852829230"><img src="../assets/previews/a89f2393a0951b706bb98c904c317b3afb4707e76b5f3f9432a19725616d2f11.jpg" width="840" loading="lazy" alt="Godot'ta digitigrad meche rig kurun ve animasyon verin"></a>
-
-Alıntılanan istem, Astra'dan mevcut bir GLB meche rig kurmasını ve Godot önizlemesi için digitigrad bacaklarını animasyonlandırmasını istiyor.
-
-**İstem**
-
-```text
-Bu GLB'ye rig kurup animasyon verebilir misin? Digitigrad bacakların Godot önizlemesinde inandırıcı şekilde yürüdüğünü görmek istiyorum, lütfen.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097123382852829230) · [Orijinal gönderi](https://x.com/om_patel5/status/2097123382852829230) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2097153139795468365"></a>
-
-### Japon Çiçekçi Dükkânı Patlatılmış Görünüm Animasyonu
-
-[KANA｜東京AI映像](https://x.com/KanaWorks_AI) · 2026-09-08
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097153139795468365"><img src="../assets/previews/ecac385562a375d47484397c0d45277de44f41c1bd02ab91144a341e05972e95.jpg" width="840" loading="lazy" alt="Japon Çiçekçi Dükkânı Patlatılmış Görünüm Animasyonu"></a>
-
-Blender’da stilize bir çiçekçi dükkânı oluşturun; yapısını ve sokak aksesuarlarını okunaklı katmanlara ayrılacak şekilde canlandırın, ardından sahneyi yeniden birleştirin.
-
-**İstem**
-
-```text
-Küçük ve stilize bir Japon çiçekçi dükkânı sahnesi oluşturmak için Blender MCP’yi kullanın. Temel görsel unsurları aslına sadık biçimde yeniden oluşturmaya odaklanın: yeşil tenteler, üzerinde Japonca “花屋” yazan çatı tabelası, dükkânın önünde düzenlenmiş saksılar ve bitkiler, içecek otomatı, bisikletler, trafik lambası, elektrik direkleri, çevredeki ağaçlar ve diğer tanınabilir sokak ayrıntıları. Sahneyi yumuşak ışıklandırma, çekici malzemeler ve sıcak bir atmosferle sevimli, karikatürize bir üslupla render’layın.
-
-Tüm çiçekçi dükkânı sahnesi için yüksek etkili, dinamik bir patlatılmış görünüm animasyonu oluşturun. Patlama ince değil, cesur ve abartılı olmalıdır. Çiçekçi dükkânının yapısını ve iç mekânını çarpıcı biçimde ortaya çıkarmak için tek tek bileşenleri dışarıya doğru akıcı ve sistematik bir şekilde ayırın.
-
-Patlama sırasında dış duvarlar, çevredeki ağaçlar, elektrik direkleri, tabelalar, tenteler, bisikletler, saksılar, bitkiler, sokak aksesuarları ve diğer çevre unsurları dışarıya veya geriye doğru savrulsun; böylece izleyicinin çiçekçi dükkânının içini net biçimde görebileceği kadar açık alan oluşsun. İç mimari, mobilyalar, dekorasyonlar, çiçekler, bitkiler, raflar ve küçük ayrıntılar net biçimde görünür hâle gelecek şekilde binayı anlamlı yapısal katmanlara ayırın.
-
-İçecek otomatı da tek tek bileşenlerine ayrılarak patlamalı görünüme geçmelidir. Dış panelleri birbirinden ayrılsın; içerideki soda şişeleri ve kutuları da dinamik biçimde dışarıya savrularak okunaklı kalacakları düzenli bir formasyona yayılsın. Diziyi görsel açıdan daha heyecanlı kılmak için küçük bileşenler ve ayrıntılar daha uzağa hareket edebilir.
-
-Patlamaya güçlü bir enerji ve etki hissi kazandırırken tüm bileşenlerin görsel olarak düzenli ve takip edilmesi kolay kalmasını sağlamak için kademeli zamanlama, farklı hareket hızları, dönüşler, derinlik ve katmanlı yörüngeler kullanın. Her şeyin tam olarak aynı anda veya aynı hızla dışarıya hareket etmesinden kaçının.
-
-Tüm sahne tamamen patlatılmış görünüme geçtiğinde, izleyicinin iç yapıyı ve birbirinden ayrılmış tüm bileşenleri net biçimde inceleyebilmesi için kompozisyonu kısa süre sabit tutun.
-
-Ardından diziyi tersine çevirin: soda şişeleri, içecek otomatı parçaları, bitkiler, aksesuarlar, iç mekân nesneleri, duvarlar, ağaçlar, elektrik direkleri, tabelalar, bisikletler ve diğer tüm bileşenler akıcı biçimde yerlerine dönerek eksiksiz çiçekçi dükkânı sahnesini yeniden oluştursun.
-
-Tüm animasyon enerjik, sinematik, tatmin edici ve görsel açıdan etkileyici hissettirmeli; eksiksiz sahne, tamamen patlatılmış durum ve son olarak yeniden birleştirilmiş sahne arasında güçlü hareketler ve net bir dönüşüm sunmalıdır. Hareketi baştan sona katmanlı, okunaklı ve özenle koreografisi yapılmış tutun.
-
-Patlatılmış görünüm sekansı sırasında, ayrılmış nesnelerin ve iç yapıların net biçimde görünür kalması için nötr bir stüdyo arka planı kullanın.
-
-Teslim edilecekler:
-Tamamen render’lanmış bir animasyon ve düzenlenebilir bir Blender 3B proje dosyası. Tüm nesneler, bileşenler, koleksiyonlar, malzemeler ve başlıca sahne öğeleri açık, tutarlı ve profesyonel bir şekilde adlandırılmalı ve düzenlenmelidir.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097153139795468365) · [Orijinal gönderi](https://x.com/KanaWorks_AI/status/2097153139795468365) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2097167383576383502"></a>
-
-### Oluşturulmuş Referanstan Skyrim Esintili Köy Arazisi
-
-[Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo) · 2026-09-08
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097167383576383502"><img src="../assets/previews/b2cb6b850ef77b3e545565d93a49f22ce192293b50f8ef2ad74f242cfe387ddf.jpg" width="840" loading="lazy" alt="Oluşturulmuş Referanstan Skyrim Esintili Köy Arazisi"></a>
-
-Önce sahneye yön verecek bir referans görseli oluşturarak img2threejs ile üç boyutlu bir fantastik köy manzarası oluşturun.
-
-**İstem**
-
-```text
-Skyrim'deki manzaralara benzeyen üç boyutlu köy arazisi oluşturmak için img2threejs/img2threejs kullanın. Referans görselini kendiniz oluşturun.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097167383576383502) · [Orijinal gönderi](https://x.com/TaroKichijo/status/2097167383576383502) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3808,6 +3434,26 @@ Merhaba. Lütfen Blender kullanarak iç mekânı ve tüm ayrıntıları dâhil, 
 
 ---
 
+<a id="2102652927177617564"></a>
+
+### Tek bir HTML dosyasında 3B kart yarışı
+
+[Anshul](https://x.com/realanshull) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102652927177617564"><img src="../assets/previews/0f568961afe1321356c2f741639b1e8c0fb199da304a749177bfa3210cbd2bbd.jpg" width="840" loading="lazy" alt="Tek bir HTML dosyasında 3B kart yarışı"></a>
+
+Yazarın belirttiğine göre, 3B kart yarışı uygulamalarını karşılaştırmak amacıyla GPT Astra 6 ve Claude Opus 5.5’e değiştirilmeden verilen yeniden kullanılabilir bir istem.
+
+**İstem**
+
+```text
+Tek bir HTML dosyasında 3B kart yarışı oyunu oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102652927177617564) · [Orijinal gönderi](https://x.com/realanshull/status/2102652927177617564) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="2102672926285713456"></a>
 
 ### Orta Çağ kalesi tarayıcı animasyonu
@@ -3900,6 +3546,163 @@ Satrançtaki başlıca gambitleri çalışmak için etkileşimli bir 3B satranç
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102788013902213508) · [Orijinal gönderi](https://x.com/diogosantosbr/status/2102788013902213508) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2102826333550133520"></a>
+
+### Sonsuz solarpunk şehir shader'ı
+
+[Jonas Fröller](https://x.com/jonasfroeller) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102826333550133520"><img src="../assets/previews/5e1edba84b202c83598f2f632c371cb143a0023bb7fe03d23a934645231b7f6c.jpg" width="840" loading="lazy" alt="Sonsuz solarpunk şehir shader'ı"></a>
+
+Solarpunk yolları ve kulelerinden oluşan sonsuz bir şehri, sürekli görülebilen bir esinti efektiyle betimleyen ve twigl.app'te çalışacak şekilde tasarlanmış bir shader promptu.
+
+**İstem**
+
+```text
+Görsel açıdan ilgi çekici, twigl-dot-app'te çalışabilecek bir shader oluştur; solarpunk yolları ve kulelerinden oluşan sonsuz bir şehir gibi görünsün ve sürekli hareket eden, görünür bir esinti efekti içersin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102826333550133520) · [Orijinal gönderi](https://x.com/jonasfroeller/status/2102826333550133520) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2102897258983313712"></a>
+
+### Birinci şahıs burger simülatörü
+
+[noclipepe](https://x.com/noclipepe) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102897258983313712"><img src="../assets/previews/7081447827f1c3142a1e647eae36ba49c69fe17b4006156a64e6e5a7d8977779.jpg" width="840" loading="lazy" alt="Birinci şahıs burger simülatörü"></a>
+
+Gönderiyi paylaşan kişinin, birinci şahıs burger simülatörü oyunu için GPT-6 Sol ve GPT-6 Luna da dâhil olmak üzere üç modele verdiğini söylediği bir prompt.
+
+**İstem**
+
+```text
+Birinci şahıs burger simülatörü oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102897258983313712) · [Orijinal gönderi](https://x.com/noclipepe/status/2102897258983313712) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2102915300295369208"></a>
+
+### Hipergerçekçi canlı çöl kamp ateşi HTML sahnesi
+
+[Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102915300295369208"><img src="../assets/previews/764e2d668b97fd0ae51f70fab3b1b2878a2cb5e18d43651083eb08c41758cf91.jpg" width="840" loading="lazy" alt="Hipergerçekçi canlı çöl kamp ateşi HTML sahnesi"></a>
+
+GPT 6 Sol ve Opus 5.5 harness'larının karşılaştırılmasında kullanılan, yazar tarafından paylaşılmış bir istem. İstem; hipergerçekçi, gece vakti çölde geçen, etrafında kütük oturaklar bulunan, yıldızların göründüğü, ara sıra yaban hayatının kadraja girdiği ve sahneyle uyumlu yüksek kaliteli sesler içeren tek bir etkileşimli HTML sahnesi talep ediyor.
+
+**İstem**
+
+```text
+Başka hiçbir dosyaya veya önceki çalışmaya atıfta bulunma. Bu görev tamamen özgün olmalı ve buradaki başka bir çalışmadan kopya çekilerek oluşturulmamalı.
+
+Çölde yanan bir kamp ateşini gösteren tek bir HTML dosyası oluştur. Gece olsun ve yıldızlar görünsün. Ateşin çevresine oturmak için kütük parçaları yerleştirilsin. Kadrajda hiç insan olmasın. Farklı yaban hayvanları zaman zaman görünüp kadrajdan çıkabilsin.
+
+Sesler de sahneyle uyumlu ve yüksek kaliteli olmalı.
+Her şeyi hipergerçekçi yap
+
+Dosyaya (modele göre) ad ver
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102915300295369208) · [Orijinal gönderi](https://x.com/Nixtrodamis/status/2102915567845794029) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2102956340482289944"></a>
+
+### Three.js'te Voxel Codex
+
+[Arsh - 16 y/o builder](https://x.com/be_arsh) · 2026-09-24
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102956340482289944"><img src="../assets/previews/99b2ff17cd26386c8263b76b551d227260be222bfa037b09d6e74de8c6522369.jpg" width="840" loading="lazy" alt="Three.js'te Voxel Codex"></a>
+
+Codex'in, herhangi bir beceri kullanılmadan sıfırdan oluşturulan voxel tabanlı bir Three.js temsilini talep eden, yeniden kullanılabilir bir yorum istemi.
+
+**İstem**
+
+```text
+Kendin oluştur: Three.js kullanarak Codex'i voxel'larla yap; her şeyi sıfırdan oluştur, hiçbir beceri kullanma.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102956340482289944) · [Orijinal gönderi](https://x.com/be_arsh/status/2102956424120979838) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2103062348168618280"></a>
+
+### Etkileşimli 3B jelibon narenciye dilimi
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-24
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103062348168618280"><img src="../assets/previews/41edd4fdcfd514cd2e4a41c686561adaecd016ec2c1476bcd941a222a86a47ec.jpg" width="840" loading="lazy" alt="Etkileşimli 3B jelibon narenciye dilimi"></a>
+
+Gönderi yazarı bu istemi Claude Opus 5.5 ve ChatGPT-6 Astra karşılaştırmasında paylaşmıştır. İstem; dokunma ve fare etkileşimli, deforme olabilen bir jelibon narenciye dilimi için bağımsız bir WebGPU yumuşak cisim simülasyonu, prosedürel geometri, shader tabanlı görselleştirme ve simülasyon kontrolleri talep ediyor.
+
+**İstem**
+
+```text
+WebGPU kullanarak güzel ve etkileşimli bir 3B jelibon narenciye dilimi oluşturun. Gömülü JavaScript ve WGSL shader'ları içeren, tüm deneyimi tek bir bağımsız HTML dosyasında sunun.
+
+Bu, video, görsel veya döngüsel animasyon değil, gerçek zamanlı bir 3B simülasyon olmalıdır.
+
+APPEARANCE
+
+Yarı saydam ve sulu iç dokulu, sekiz belirgin dilimli, narin iç zarları, minik kabarcıkları, açık renkli beyaz dokusu ve yumuşak turuncu kabuğu olan kalın, yarım daire biçimli bir portakal dilimi oluşturun.
+
+Birinci sınıf jelibon şekerleme gibi görünmesini sağlayın: doygun renkler, parlak yansımalar, iç dokudan geçen ışık, inandırıcı kırılma ve yumuşak temas gölgeleri kullanın. Aşırı bloom efektinden, soluk renklerden veya sert plastik görünümünden kaçının.
+
+Sıcak ve açık renkli bir stüdyo arka planı ile bol beyaz alan kullanan sade, editoryal bir arayüz kullanın. Büyük, italik serif başlık olarak “Citrus Jelly” metnini ekleyin. Kontrolleri kompakt tutun ve dilimin net biçimde görünmesini sağlayın.
+
+YUMUŞAK CİSİM FİZİĞİ
+
+Jelibon hissi en önemli unsurdur.
+
+- Dilimin herhangi bir bölümünü fareyle veya parmağınızla tutun.
+- Çekin, kaldırın, esnetin, bükün ve bırakın.
+- Deformasyonu yerel tutun: Bir kenarı çektiğinizde yakındaki iç doku esnerken geri kalan kısım doğal biçimde onu takip etmelidir.
+- Bırakıldıktan sonra dilim sallanmalı, hedef şekli aşmalı ve giderek başlangıçtaki şekline dönmelidir.
+- Yerçekimi, atalet, sönümleme, zemin çarpışmaları ve yumuşak sekme ekleyin.
+- Hacmi yaklaşık olarak koruyun; ağın çökmesini veya ters yüz olmasını önleyin.
+- Kabuğu iç dokudan biraz daha sert yapın.
+- İç dilimler, zarlar ve kabarcıklar deformasyonu takip etmeli, gövdenin dışına taşarak havada kalmamalıdır.
+
+Tetrahedral mesh ve XPBD kısıtları gibi kararlı, hacimsel bir yumuşak cisim çözücüsü kullanın. Tüm nesneyi ölçeklendirerek veya döndürerek yumuşaklık taklidi yapmayın.
+
+CONTROLS
+
+Üç renk ön ayarı ekleyin: Orange, Lemon ve Ruby.
+
+Şunları ekleyin:
+- Sertlik kaydırıcısı.
+- İç sönümleme kaydırıcısı.
+- “Bir dürtme gönder” düğmesi.
+- Sıfırla düğmesi.
+- Çeyrek hız onay kutusu.
+- Ağı göster onay kutusu.
+- Duraklat/devam et düğmesi.
+
+Kütle, başlangıç hacminin yüzde kaçı ve kinetik enerji için küçük, canlı değer göstergeleri görüntüleyin.
+
+TEKNİK GEREKSİNİMLER
+
+WGSL shader'larıyla gerçek WebGPU işleme kullanın. İçe aktarılan model veya görsel dosyaları olmadan tüm geometriyi ve görsel ayrıntıları prosedürel olarak üretin.
+
+Simülasyon güncellemelerini işleme kare hızından bağımsız tutun. Masaüstü ve dokunmatik cihazları destekleyin. WebGPU kullanılamıyorsa anlaşılır bir geri dönüş mesajı gösterin.
+
+Kuvvetli sürüklemeyi, art arda bırakma işlemlerini, tüm kontrolleri ve dar ekranları test edin. Son HTML'yi teslim etmeden önce kararsız fiziği, bozuk geometriyi ve görsel kusurları düzeltin.
+
+Sonuç, oynaması gerçekten tatmin edici, küçük ve dokunsal bir şekerleme deneyi hissi vermelidir.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103062348168618280) · [Orijinal gönderi](https://x.com/vib3coded/status/2103062415533371646) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -4291,7 +4094,7 @@ Kaynak kodu, lockfile’ı, npm geliştirme/derleme komutlarını ve statik çı
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 277 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 283 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

@@ -28,7 +28,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**277 · Neueste Astra-Prompts**
+**283 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -56,12 +56,6 @@
 - [Interaktiver 3D-Anatomie-Explorer](#2099206962344800541) · GitHub
 - [Demo für isometrische Fantasy-Grafik](#2100271998618177864) · GitHub
 - [Mosswing: Mobiles 3D-Tap-to-Flap-Spiel](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [12-sekündiger Waldweg in Blender](#2096986557244723371)
-- [Interaktives Roboterhaustier auf einer Werkbank](#2097004192627933279)
-- [Interaktiver Wackelpudding-Zitronenbaum](#2097065330728128920)
-- [Einen digitigraden Mech in Godot riggen und animieren](#2097123382852829230)
-- [Explosionsansicht-Animation eines japanischen Blumenladens](#2097153139795468365)
-- [Von Skyrim inspirierte Dorflandschaft aus einem generierten Referenzbild](#2097167383576383502)
 - [Gesichtszüge eines 3D-Modells in Blender anhand eines Referenzbilds verbessern](#2097313247116341424)
 - [3D-Minispiel als Nachbildung von League of Legends](#2097320830602809682)
 - [TypeScript- und Three.js-WebGL-Projekt: Halle für gute Ernten im Himmelstempel von Peking](#2097323734504017936)
@@ -140,10 +134,16 @@
 - [Bubble Bay: 3D-Wasserballon-Schlacht](#2102300855387205871)
 - [TD-Spiel im Stil von Sir, We Have Orc Problems](#2102411087002112256)
 - [Zweistöckiges Vorstadthaus mit Innenausstattung](#2102473710724919614)
+- [3D-Kart-Rennspiel in einer einzigen HTML-Datei](#2102652927177617564)
 - [Animation eines mittelalterlichen Schlosses im Browser](#2102672926285713456)
 - [Orbit Lab: 3D-Simulation von Sonne, Erde und Mond](#2102752217375899659)
 - [Interaktive mittelalterliche 3D-Burg im Browser](#2102780850706567390)
 - [Interaktives 3D-Schachbrett zum Studieren von Schachgambits](#2102788013902213508)
+- [Shader für eine unendliche Solarpunk-Stadt](#2102826333550133520)
+- [Burger-Simulator aus der Ego-Perspektive](#2102897258983313712)
+- [Hyperrealistische interaktive HTML-Szene mit Lagerfeuer in der Wüste](#2102915300295369208)
+- [Voxel-Codex in Three.js](#2102956340482289944)
+- [Interaktive 3D-Zitrusgummischeibe](#2103062348168618280)
 - [Battle City 3D: Endlose Panzerverteidigung](#battle-city-3d)
 - [Crazy Tanks — 3D-Inselartillerie](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Survival-Game mit verrückten Waffen](#odd-arms)
@@ -326,380 +326,6 @@ Lege das klassische „Tap-to-Flap“-Spiel neu auf – jenes Spiel, bei dem du 
 ```
 
 [Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Originalbeitrag](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Quellcode](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Live-Demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2096986557244723371"></a>
-
-### 12-sekündiger Waldweg in Blender
-
-[Can Matrix](https://x.com/Jomolos) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096986557244723371"><img src="../assets/previews/3e060bfb3bf3973f0efb048cacbdc625fe879b8bca0cb46c2bb8fd367eb75268.jpg" width="840" loading="lazy" alt="12-sekündiger Waldweg in Blender"></a>
-
-Anfrage zur Erstellung einer 12-sekündigen Waldweg-Szene in Blender.
-
-**Prompt**
-
-```text
-12-sekündiger Waldweg in Blender
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096986557244723371) · [Originalbeitrag](https://x.com/Jomolos/status/2096986557244723371) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2097004192627933279"></a>
-
-### Interaktives Roboterhaustier auf einer Werkbank
-
-[ZEUS⚡️](https://x.com/zeuuss_01) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2097004192627933279"><img src="../assets/previews/9188a5a53301b71d404af1d10d6baf4e44585869cc933918118ae2180cf3c1ab.jpg" width="840" loading="lazy" alt="Interaktives Roboterhaustier auf einer Werkbank"></a>
-
-Detaillierte Three.js-Spielespezifikation für einen vierbeinigen Roboter mit ausdrucksstarken Bewegungen, sichtbaren Batteriezellen, Ladevorgang und drei objektgesteuerten Aufgaben.
-
-**Prompt**
-
-```text
-DIE VOLLSTÄNDIGE SPEZIFIKATION.
-ALS DATEI IM PROJEKTORDNER SPEICHERN, NICHT ALS CHATNACHRICHT.
-DANN: /goal in three.js umsetzen, SPEC.md lesen und genau befolgen
-, insbesondere die Abschnitte 9 und 10.
-
-{ START }
-
-1 WORUM ES GEHT
-
-Ein kleiner vierbeiniger Roboter lebt auf einer Werkbank. Du lädst ihn auf,
-spielst mit ihm und gibst ihm drei Aufgaben. Er verlässt die Werkbank nie
-, und du verlässt sie ebenfalls nicht. Das ist das ganze Spiel.
-
-Zwei Dinge tragen diesen Build, sonst nichts: wie der Roboter
-aussieht und wie er sich bewegt. Das gesamte Spiel verbringt der Spieler damit,
-ein Objekt aus festem Abstand zu betrachten. Dieses Objekt muss
-also sehenswert sein und sich so bewegen, als wäre es lebendig.
-
-Er ist kein sprechendes Haustier. Keine Stimme, kein Mund, kein Gesicht auf einem Bildschirm
-, und er wiederholt nie, was du sagst. Er ist eine Maschine, die
-auf dich achtet – und das ist etwas anderes und Besseres.
-
-2 DER ROBOTER
-
-Etwa so groß wie eine Katze, auf vier Beinen.
-
-Proportionen – daraus entsteht sein Charme:
-- Der Körper ist ein abgerundeter Block, breiter als hoch, etwa zwei Kopflängen
-  lang. Er wirkt schwer.
-- Der Kopf ist im Verhältnis zum Körper groß, ungefähr 40 Prozent der Körperhöhe
-  und sitzt auf einem kurzen Hals weit vorn. Er wirkt neugierig.
-  Kein Chibi-Kopf, und die Augen sind nicht groß.
-- Die Beine sind neben diesem Körper schlank, sodass ein schweres Objekt von leichten
-  Gliedmaßen getragen wird. Dieser Kontrast lässt den Gang
-  zart statt unbeholfen wirken.
-- Ein kurzer Schwanz, der eigentlich als Gegengewicht dient und sich entsprechend bewegt
-- Eine kurze Antenne auf dem Kopf, die bei jeder Bewegung peitscht und sich eine halbe
-  Bewegung später wieder beruhigt. Sie kostet fast nichts und ist die
-  wichtigste Quelle für Lebendigkeit im gesamten Modell.
-
-Drei Materialien, nicht mehr:
-1 Lackiertes Panel, weiches Knochenweiß, matt und leicht warm. Auf Rücken,
-  Hinterhand und Kopfoberseite. Mindestens 60 Prozent der sichtbaren
-  Oberfläche, sonst wirkt der Roboter wie ein Haufen Einzelteile.
-2 Unbeschichtetes, bearbeitetes Metall, kühles Mittelgrau, an Beinen, Rahmen, Gelenken und
-  Hals. Nur die Gelenkringe sind warm messingfarben.
-3 Dunkler Gummi, fast schwarz und matt, an den vier Füßen, der Halsmanschette
-  und dem Kabel.
-
-Das Gesicht: zwei gleich große runde Linsen, weit auseinanderliegend und
-hinter einer bearbeiteten Nut quer über der Stirn zurückgesetzt. Die Nut ist eine
-bearbeitete Kante, keine Augenbraue, und bewegt sich nie. Der gesamte Ausdruck
-entsteht durch den Winkel des Kopfes, die Antenne und die Helligkeit der Linsen.
-
-Ein Makel: Ein Schulterpanel hat einen leicht anderen Farbton, als
-wäre es einmal ersetzt worden. Nichts lenkt die Aufmerksamkeit darauf.
-
-Silhouettentest, bestanden oder nicht: Den Roboter von der Seite und in der Dreiviertelansicht
-als reines Schwarz auf Weiß mit 64 × 64 Pixeln rendern. Der
-angehobene Kopf, der Abstand zwischen Kopf und Körper, vier Beine mit
-sichtbarem Zwischenraum und der Schwanz müssen weiterhin erkennbar sein. Wenn
-zwei Massen miteinander verschmelzen, das Modell ändern, nicht den Render.
-
-3 DIE BATTERIE IST DER FORTSCHRITTSBALKEN
-
-Entlang einer Flanke verläuft ein Streifen aus fünf bernsteinfarben leuchtenden Zellen. Sie
-erlöschen beim Entladen nacheinander und leuchten beim Laden ebenfalls nacheinander auf. Auf dem
-Bildschirm wird weder eine Zahl noch ein Balken angezeigt.
-
-5 Zellen  flott, Kopf erhoben, Schwanz schwingt
-4        normal
-3        langsamer, Kopf leicht gesenkt
-2        setzt sich zwischen den Aktionen hin, statt zu stehen
-1        läuft selbstständig zum Ladepad und wartet
-0        klappt die Beine ein und fährt dort herunter, wo er steht,
-         Linsen dunkel; wartet darauf, zum Ladepad getragen zu werden
-
-Er geht nie kaputt, stirbt nie, und bei null geht nichts verloren.
-
-4 SO BEWEGT ER SICH
-
-- Ein echter Gang. Diagonale Beinpaare, die Füße stehen fest auf der Werkbank
-  und bleiben dort, während der Körper über sie hinwegbewegt wird. Die Füße
-  rutschen nicht.
-- Gewicht. Der Körper senkt sich auf dem belasteten Beinpaar. Beim Anlaufen lehnt er sich
-  nach vorn, bevor er sich bewegt. Beim Anhalten macht er einen kurzen Schritt, um
-  das Gleichgewicht wiederzufinden.
-- Er beobachtet dich. Der Kopf folgt dem Cursor, sobald sich der Cursor über der Werkbank
-  befindet, und der Hals leitet die Drehung vor dem Körper ein.
-- Er fängt sich. Stößt man ihn an, taumelt er, setzt ein Bein weit auf und
-  richtet sich wieder auf. Er fällt nie um.
-- Er kommt zur Ruhe. Im Stand verlagert er alle paar Sekunden sein Gewicht,
-  und die Linsen blinken langsam: Sie werden dunkler und kehren zurück, sie
-  schließen sich nicht.
-
-Mit Übung wird er besser. Jede erledigte Aufgabe macht das Wackeln
-etwas geringer und die Bewegung etwas schneller, bis zu einem Limit.
-Nichts kündigt das an. Bei der zwanzigsten Aufgabe bewegt er sich sichtbar
-wie eine Maschine, die weiß, was sie tut, und diese Veränderung ist
-der einzige Fortschritt im Spiel.
-
-5 DIE WERKBANK
-
-Eine Werkbank, aus festem Abstand gesehen. Warm, benutzt und vertraut.
-
-Abgenutzte, helle Holzplatte. Die Wand dahinter ist schlicht und kühl graugrün.
-Der Roboter besteht aus blankem Metall mit warmem Messing an den Gelenken. Linsen und Zellen
-leuchten bernsteinfarben – die einzige beleuchtete Farbe. Warmes Lampenlicht fällt von einer Seite
-und wirft einen langen, weichen Schatten. Alles andere bleibt gedämpft.
-
-Auf der Werkbank: ein Ladepad mit einem Kabelring, ein Glas mit
-Schrauben, ein zusammengerolltes Tuch, eine kleine Kiste, eine Schreibtischlampe, ein Gummiball
-und eine Blechschale. Sonst nichts.
-
-Die Lampe ist die einzige Lichtquelle. Wenn der Roboter vor ihr vorbeiläuft,
-wandert sein Schatten über die Werkbank.
-
-6 NUR DURCH ANWENDUNGEN BESCHRIEBEN
-
-- Du ziehst den Ball über die Werkbank, und der Kopf des Roboters verfolgt
-  ihn, bevor sich der Körper zum Folgen dreht.
-- Du stellst den Roboter auf das Ladepad. Eine Zelle leuchtet auf, dann
-  die nächste, jeweils mit einer Pause dazwischen.
-- Du stößt ihn von der Seite an. Er taumelt, fängt sich mit einem weit aufgestellten
-  Bein und richtet sich wieder auf.
-- Du lässt eine Schraube in die Blechschale fallen. Er läuft hin, nimmt sie
-  mit seinen Maulplatten auf und trägt sie zum Glas.
-- Du lässt ihn allein. Er läuft zum Rand der Werkbank, schaut hinüber
-  und weicht zurück.
-- Du kratzt über das Panel auf seinem Rücken. Er senkt den Körper und
-  bleibt still, bis du aufhörst.
-
-Zeige all das in Aktion. Erkläre es niemals in einer Bildunterschrift.
-
-7 DIE DREI AUFGABEN
-
-Jede Aufgabe zeigt eine andere Bewegungsart, und jede wird ausgelöst,
-indem ein Objekt auf die Werkbank gelegt wird – niemals über ein Menü.
-
-Apportieren  Eine Schraube irgendwo ablegen. Der Roboter läuft hin, nimmt sie auf und bringt sie
-             zum Glas. Zeigt den Gang und die Drehung.
-Stapeln    Drei Kisten bereitstellen. Er schiebt sie nacheinander zu einem Stapel zusammen.
-             Zeigt das Schieben, Abstützen und Anheben.
-Jagen      Den Ball rollen. Er läuft ihm hinterher, stoppt ihn mit einem Fuß und
-             bringt ihn zurück. Zeigt das Rennen, Rutschen und Anhalten.
-
-Jede Aufgabe verbraucht etwas Ladung. Eine Aufgabe wird bei 2 Zellen langsamer
-und wackeliger ausgeführt als dieselbe Aufgabe bei 5 Zellen. Keine Warteschlange, keine Reihenfolge, kein
-Timer, keine Belohnung.
-
-8 DIE BENUTZEROBERFLÄCHE
-
-Unten in der Mitte erscheint eine einzelne Hinweisbox, sobald etwas in Reichweite ist. Sie
-nennt die Taste oder die Ziehbewegung und die Aktion und verschwindet, sobald
-das Objekt nicht mehr in Reichweite ist.
-
-Sonst nichts auf dem Bildschirm. Kein Batteriebalken, keine Glücksanzeige,
-keine Hungeranzeige, keine Münzen, kein Level, keine Erfahrung, keine Sterne, kein
-Timer, kein Menü, keine Einstellungen, kein Tutorial-Popup, kein schwebendes Label
-über dem Roboter.
-
-Alles, was der Spieler wissen muss, befindet sich am Körper des Roboters.
-
-Kamera: fest auf die Werkbank gerichtet, von vorn in Dreiviertelansicht und
-leicht von oben. Vertikales Sichtfeld von 40 Grad. Der Roboter füllt
-in der Mitte der Werkbank 30 bis 45 Prozent der Bildhöhe aus.
-Jede Batteriezelle ist bei 1080p mindestens 8 Pixel breit. Die gesamte
-Werkbank bleibt jederzeit im Bild. Durch Ziehen lässt sich die Kamera um etwa 60
-Grad und nicht weiter umkreisen. Die Kamera verlässt die Werkbank nie und
-es gibt keine Schnitte.
-
-9 VERBOTEN, JEDES EINZELN BENANNT
-
-Das Haustier: keine Stimme, kein Sprechen, kein Wiederholen deiner Worte, kein
-Mikrofon, kein Gesicht auf einem Bildschirm, kein Mund, keine Augenbrauen, keine
-Cartoon-Augen mit Pupillen, keine Herzen, keine Emojis, keine Sprechblase,
-keine Namenseingabe, kein Kostüm, keine Hüte, keine Lackierwerkstatt.
-
-Free-to-play: keine Münzen, keine Edelsteine, keinerlei Währung, kein
-Shop, keine Werbung, keine tägliche Belohnung, keine Serie, keine Benachrichtigung,
-keine Energie, die gekauft werden muss, kein Warte-Timer, kein Level, kein
-Erfahrungsbalken, keine Erfolge, keine Bestenliste.
-
-Gameplay: keine Gegner, kein Kampf, keine Gesundheit, kein Schaden, kein Sterben,
-kein Kaputtgehen, kein Reparatur-Minispiel, kein Fehlschlag-Zustand, keine Punktzahl, kein
-Timer, keine Questmarker, keine Zwischensequenz, keine Ladebildschirmgrafik.
-
-Wiederholungen früherer Builds: kein Strand, keine Palmen, keine Krabben,
-keine schwebenden Inseln, keine Laternen, keine Kirschblüten, kein Ninja, keine
-Shuriken, keine Voxelblöcke, keine Spitzhacke, keine Lava, kein Auto, keine Stadt,
-keine Unterwasserwelt, kein Seetang.
-
-Rendering: keine realistischen Texturen, keine harten Schatten, kein Lens Flare, kein
-Filmkorn, kein Letterboxing, keine Tiefenschärfe-Unschärfe, keine chromatische
-Aberration, kein grauer Nebel im Bild. Bloom nur auf den Linsen und
-den Batteriezellen, sonst nirgends.
-
-10 DAS BUILD-BUDGET
-
-Dieser Build muss in einer Arbeitssitzung fertig werden. Alles Folgende
-ist für diese Version strikt ausgeschlossen. Nicht hinzufügen, nicht als Stub anlegen und
-kein Todo dafür hinterlassen.
-
-Kein zweiter Raum, kein Außenbereich
-Kein zweiter Roboter
-Kein Speichern oder Laden; ein Neuladen erzeugt einen neuen Roboter
-Keine Physik-Engine: handgeschriebene inverse Kinematik für vier Beine
-  auf einer flachen Ebene sowie einfache Box-Kollisionen für die Objekte auf der Werkbank
-Kein Ragdoll
-Kein Sound
-Keine Menüs, keine Einstellungen, kein Pausenbildschirm
-Nicht mehr als drei Aufgaben
-Kein Tageszyklus
-
-Dafür muss die Zeit in dieser Reihenfolge eingesetzt werden:
-1 die Proportionen des Roboters und der Silhouettentest
-2 der Laufzyklus und das Aufsetzen der Füße
-3 das Kopf-Tracking, die Antenne und das Einpendeln
-4 die Batteriezustände und das Ladepad
-5 die drei Aufgaben
-6 die Gestaltung der Werkbank
-
-Wenn die Zeit knapp wird, mit einer leeren Werkbank und einem schönen Roboter ausliefern,
-der gut läuft. Niemals umgekehrt. Eine leere Werkbank mit einem
-guten Roboter ist ein fertiges Spiel. Eine ausgestattete Werkbank mit einem steifen Roboter
-ist nichts.
-
-Bevor du es als fertig bezeichnest, beweise diese vier Punkte mit Rendern, nicht mit
-Worten: den Silhouettentest bei 64 Pixeln aus zwei Winkeln, einen Laufzyklus
-bei 5 Zellen und denselben Lauf bei 2 Zellen, das Kopf-Tracking des
-Cursors über die gesamte Umlaufbahn sowie den Roboter bei 5 Zellen und bei 0
-Zellen nebeneinander.
-
-Baue ihn und nenne mir anschließend die drei Dinge, die du zuerst verbessern würdest.
-
-{ END }
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2097004192627933279) · [Originalbeitrag](https://x.com/zeuuss_01/status/2097004192627933279) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2097065330728128920"></a>
-
-### Interaktiver Wackelpudding-Zitronenbaum
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2097065330728128920"><img src="../assets/previews/19fa5b36caaf4663987e99892e3cb3babcc452cbe50e1ef2f6108a859d3eba36.jpg" width="840" loading="lazy" alt="Interaktiver Wackelpudding-Zitronenbaum"></a>
-
-Erstellt einen interaktiven 3D-Wackelpudding-Zitronenbaum in WebGPU mit schwankenden Ästen, per Maus auswählbaren Zitronen sowie Physik für Verformung und Rückprall.
-
-**Prompt**
-
-```text
-Erstelle einen interaktiven Wackelpudding-Zitronenbaum mit WebGPU.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2097065330728128920) · [Originalbeitrag](https://x.com/vib3coded/status/2097065330728128920) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2097123382852829230"></a>
-
-### Einen digitigraden Mech in Godot riggen und animieren
-
-[Om Patel](https://x.com/om_patel5) · 2026-09-08
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2097123382852829230"><img src="../assets/previews/a89f2393a0951b706bb98c904c317b3afb4707e76b5f3f9432a19725616d2f11.jpg" width="840" loading="lazy" alt="Einen digitigraden Mech in Godot riggen und animieren"></a>
-
-Der zitierte Prompt fordert Astra auf, einen vorhandenen GLB-Mech zu riggen und seine digitigraden Beine für eine Vorschau in Godot zu animieren.
-
-**Prompt**
-
-```text
-Kannst du diesen GLB riggen und animieren? Ich möchte die digitigraden Beine in einer Godot-Vorschau überzeugend laufen sehen.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2097123382852829230) · [Originalbeitrag](https://x.com/om_patel5/status/2097123382852829230) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2097153139795468365"></a>
-
-### Explosionsansicht-Animation eines japanischen Blumenladens
-
-[KANA｜東京AI映像](https://x.com/KanaWorks_AI) · 2026-09-08
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2097153139795468365"><img src="../assets/previews/ecac385562a375d47484397c0d45277de44f41c1bd02ab91144a341e05972e95.jpg" width="840" loading="lazy" alt="Explosionsansicht-Animation eines japanischen Blumenladens"></a>
-
-Erstelle in Blender einen stilisierten Blumenladen, animiere die Aufteilung des Gebäudes und der Straßenelemente in klar erkennbare Ebenen und setze die Szene anschließend wieder zusammen.
-
-**Prompt**
-
-```text
-Verwende Blender MCP, um eine kleine, stilisierte Szene mit einem japanischen Blumenladen zu erstellen. Konzentriere dich auf die detailgetreue Nachbildung der wichtigsten visuellen Elemente: die grünen Markisen, das Dachzeichen mit dem japanischen Text „花屋“, vor dem Laden angeordnete Blumentöpfe und Pflanzen, den Getränkeautomaten, Fahrräder, eine Ampel, Strommasten, Bäume in der Umgebung sowie weitere erkennbare Straßendetails. Rendere die Szene in einem warmen, charmanten Cartoon-Stil mit weicher Beleuchtung, ansprechenden Materialien und einer behaglichen Atmosphäre.
-
-Erstelle eine dynamische, wirkungsvolle Explosionsansicht-Animation der gesamten Ladenszene. Die Aufteilung soll deutlich und überzeichnet statt subtil sein. Trenne die einzelnen Komponenten gleichmäßig und systematisch nach außen, um den Aufbau und das Innere des Blumenladens eindrucksvoll sichtbar zu machen.
-
-Während der Explosion sollen die Außenwände, die umgebenden Bäume, Strommasten, Schilder, Markisen, Fahrräder, Blumentöpfe, Pflanzen, Straßenelemente und weitere Umgebungselemente nach außen oder hinten wegfliegen. So soll genügend Freiraum entstehen, damit das Innere des Blumenladens klar erkennbar ist. Teile das Gebäude in sinnvolle strukturelle Ebenen auf, sodass die Innenarchitektur, Möbel, Dekorationen, Blumen, Pflanzen, Regale und kleineren Details deutlich sichtbar werden.
-
-Auch der Getränkeautomat soll in seine Einzelkomponenten zerlegt werden. Die Außenverkleidungen sollen sich voneinander lösen, während die einzelnen Getränkeflaschen und Dosen im Inneren dynamisch nach außen fliegen und sich in einer geordneten Formation verteilen, damit sie klar erkennbar bleiben. Kleine Komponenten und Details dürfen sich weiter entfernen, um die Sequenz visuell spannender zu gestalten.
-
-Verwende versetzte Timings, unterschiedliche Bewegungsgeschwindigkeiten, Rotationen, Tiefenstaffelung und geschichtete Flugbahnen, damit die Explosion energiegeladen und wirkungsvoll erscheint und zugleich alle Komponenten übersichtlich und leicht nachvollziehbar bleiben. Vermeide es, alles exakt zur selben Zeit und mit derselben Geschwindigkeit nach außen zu bewegen.
-
-Wenn die gesamte Szene vollständig zerlegt ist, halte die Komposition kurz an, damit die Betrachtenden die innere Struktur und alle getrennten Komponenten genau betrachten können.
-
-Kehre anschließend die Sequenz um: Die Getränkeflaschen, Teile des Getränkeautomaten, Pflanzen, Requisiten, Objekte im Innenraum, Wände, Bäume, Strommasten, Schilder, Fahrräder und alle weiteren Komponenten sollen gleichmäßig an ihren Platz zurückfliegen und sich wieder zur vollständigen Ladenszene zusammensetzen.
-
-Die gesamte Animation soll energiegeladen, kinoreif, befriedigend und visuell eindrucksvoll wirken, mit kraftvoller Bewegung und einer klaren Verwandlung zwischen der vollständigen Szene, dem vollständig zerlegten Zustand und der abschließend wieder zusammengesetzten Szene. Halte die Bewegung durchgehend geschichtet, übersichtlich und sorgfältig choreografiert.
-
-Verwende während der Explosionsansicht-Sequenz einen neutralen Studiohintergrund, damit die getrennten Objekte und inneren Strukturen klar sichtbar bleiben.
-
-Abzuliefernde Dateien:
-Eine vollständig gerenderte Animation und eine editierbare Blender-3D-Projektdatei. Alle Objekte, Komponenten, Kollektionen, Materialien und wichtigen Szenenelemente müssen eindeutig, konsistent und professionell benannt und organisiert sein.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2097153139795468365) · [Originalbeitrag](https://x.com/KanaWorks_AI/status/2097153139795468365) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2097167383576383502"></a>
-
-### Von Skyrim inspirierte Dorflandschaft aus einem generierten Referenzbild
-
-[Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo) · 2026-09-08
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2097167383576383502"><img src="../assets/previews/b2cb6b850ef77b3e545565d93a49f22ce192293b50f8ef2ad74f242cfe387ddf.jpg" width="840" loading="lazy" alt="Von Skyrim inspirierte Dorflandschaft aus einem generierten Referenzbild"></a>
-
-Erstelle mit img2threejs eine dreidimensionale Fantasy-Dorflandschaft. Generiere zunächst ein Referenzbild als Vorlage für die Szene.
-
-**Prompt**
-
-```text
-Verwende img2threejs/img2threejs, um ein dreidimensionales Dorfterrain wie in Skyrim zu erstellen. Generiere das Referenzbild selbst.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2097167383576383502) · [Originalbeitrag](https://x.com/TaroKichijo/status/2097167383576383502) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 
@@ -3808,6 +3434,26 @@ Hallo. Bitte erstelle mit Blender das bestmögliche 3D-Modell eines zweistöckig
 
 ---
 
+<a id="2102652927177617564"></a>
+
+### 3D-Kart-Rennspiel in einer einzigen HTML-Datei
+
+[Anshul](https://x.com/realanshull) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102652927177617564"><img src="../assets/previews/0f568961afe1321356c2f741639b1e8c0fb199da304a749177bfa3210cbd2bbd.jpg" width="840" loading="lazy" alt="3D-Kart-Rennspiel in einer einzigen HTML-Datei"></a>
+
+Ein wiederverwendbarer Prompt, der laut Aussage des Autors unverändert an GPT Astra 6 und Claude Opus 5.5 gegeben wurde, um deren Umsetzungen eines 3D-Kart-Rennspiels zu vergleichen.
+
+**Prompt**
+
+```text
+Erstelle ein 3D-Kart-Rennspiel in einer einzigen HTML-Datei.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102652927177617564) · [Originalbeitrag](https://x.com/realanshull/status/2102652927177617564) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="2102672926285713456"></a>
 
 ### Animation eines mittelalterlichen Schlosses im Browser
@@ -3900,6 +3546,163 @@ Erstelle eine Webanwendung mit einem interaktiven 3D-Schachbrett zum Studieren d
 ```
 
 [Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102788013902213508) · [Originalbeitrag](https://x.com/diogosantosbr/status/2102788013902213508) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2102826333550133520"></a>
+
+### Shader für eine unendliche Solarpunk-Stadt
+
+[Jonas Fröller](https://x.com/jonasfroeller) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102826333550133520"><img src="../assets/previews/5e1edba84b202c83598f2f632c371cb143a0023bb7fe03d23a934645231b7f6c.jpg" width="840" loading="lazy" alt="Shader für eine unendliche Solarpunk-Stadt"></a>
+
+Ein Prompt für einen Shader, der eine unendliche Stadt mit Solarpunk-Straßen und -Türmen darstellt und einen kontinuierlich sichtbaren Briseneffekt erzeugt – für die Ausführung in twigl.app.
+
+**Prompt**
+
+```text
+Erstelle einen visuell interessanten Shader, der in twigl.app ausgeführt werden kann. Stelle eine unendliche Stadt mit Solarpunk-Straßen und -Türmen dar, mit einer kontinuierlich sichtbaren Brise.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102826333550133520) · [Originalbeitrag](https://x.com/jonasfroeller/status/2102826333550133520) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2102897258983313712"></a>
+
+### Burger-Simulator aus der Ego-Perspektive
+
+[noclipepe](https://x.com/noclipepe) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102897258983313712"><img src="../assets/previews/7081447827f1c3142a1e647eae36ba49c69fe17b4006156a64e6e5a7d8977779.jpg" width="840" loading="lazy" alt="Burger-Simulator aus der Ego-Perspektive"></a>
+
+Ein Prompt, den der Verfasser des Beitrags eigenen Angaben zufolge drei Modellen, darunter GPT-6 Sol und GPT-6 Luna, für ein Burger-Simulator-Spiel aus der Ego-Perspektive gegeben hat.
+
+**Prompt**
+
+```text
+Erstelle einen Burger-Simulator aus der Ego-Perspektive.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102897258983313712) · [Originalbeitrag](https://x.com/noclipepe/status/2102897258983313712) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2102915300295369208"></a>
+
+### Hyperrealistische interaktive HTML-Szene mit Lagerfeuer in der Wüste
+
+[Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102915300295369208"><img src="../assets/previews/764e2d668b97fd0ae51f70fab3b1b2878a2cb5e18d43651083eb08c41758cf91.jpg" width="840" loading="lazy" alt="Hyperrealistische interaktive HTML-Szene mit Lagerfeuer in der Wüste"></a>
+
+Von einem Autor verfasster Prompt für einen Vergleich der Testumgebungen von GPT 6 Sol und Opus 5.5. Gefordert ist eine einzelne interaktive HTML-Szene mit einem hyperrealistischen nächtlichen Lagerfeuer in der Wüste, Sitzgelegenheiten aus Baumstümpfen rund um das Feuer, sichtbaren Sternen, gelegentlich auftauchenden Wildtieren und hochwertigem, an die Szene angepasstem Sound.
+
+**Prompt**
+
+```text
+Verweise nicht auf andere Dateien oder frühere Arbeiten. Diese Aufgabe muss vollständig eigenständig sein und darf nicht als Kopie einer anderen hier vorhandenen Arbeit erstellt werden.
+
+Erstelle eine einzelne HTML-Datei mit einem brennenden Lagerfeuer in der Wüste. Es ist Nacht und die Sterne sind sichtbar. Rund um das Feuer stehen Baumstümpfe als Sitzgelegenheiten. Es sind keine Menschen im Bild. Verschiedene Wildtiere können gelegentlich ins Bild kommen und wieder verschwinden.
+
+Auch die Geräusche sollen zur Szene passen und von hoher Qualität sein.
+Gestalte alles hyperrealistisch.
+
+Benenne die Datei (basierend auf dem Modell).
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102915300295369208) · [Originalbeitrag](https://x.com/Nixtrodamis/status/2102915567845794029) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2102956340482289944"></a>
+
+### Voxel-Codex in Three.js
+
+[Arsh - 16 y/o builder](https://x.com/be_arsh) · 2026-09-24
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102956340482289944"><img src="../assets/previews/99b2ff17cd26386c8263b76b551d227260be222bfa037b09d6e74de8c6522369.jpg" width="840" loading="lazy" alt="Voxel-Codex in Three.js"></a>
+
+Ein wiederverwendbarer Prompt in Form eines Autorenkommentars, der eine voxelbasierte Three.js-Darstellung von Codex anfordert – von Grund auf und ohne Skills erstellt.
+
+**Prompt**
+
+```text
+Erstelle Codex in Three.js mit Voxeln. Erstelle alles von Grund auf und verwende keine Skills.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102956340482289944) · [Originalbeitrag](https://x.com/be_arsh/status/2102956424120979838) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2103062348168618280"></a>
+
+### Interaktive 3D-Zitrusgummischeibe
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-24
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2103062348168618280"><img src="../assets/previews/41edd4fdcfd514cd2e4a41c686561adaecd016ec2c1476bcd941a222a86a47ec.jpg" width="840" loading="lazy" alt="Interaktive 3D-Zitrusgummischeibe"></a>
+
+Der Verfasser des Beitrags hat diesen Prompt im Rahmen eines Vergleichs von Claude Opus 5.5 und ChatGPT-6 Astra geteilt. Gefordert ist eine eigenständige WebGPU-Softbody-Simulation einer verformbaren Zitrusgummischeibe mit Touch- und Mausinteraktion, prozedural erzeugter Geometrie, shaderbasiertem Rendering und Simulationssteuerung.
+
+**Prompt**
+
+```text
+Erstelle mit WebGPU eine ansprechende, interaktive 3D-Zitrusgummischeibe. Liefere das vollständige Erlebnis in einer eigenständigen HTML-Datei mit eingebettetem JavaScript und WGSL-Shadern.
+
+Es muss sich um eine echte 3D-Echtzeitsimulation handeln, nicht um ein Video, Bild oder eine sich wiederholende Animation.
+
+APPEARANCE
+
+Erstelle eine dicke, halbkreisförmige Orangenscheibe mit durchscheinendem, saftigem Fruchtfleisch, acht klar erkennbaren Segmenten, feinen inneren Membranen, winzigen Bläschen, einer hellen weißen Schicht und einer weichen Orangenschale.
+
+Sie soll wie hochwertige Gummibonbonware wirken: kräftige Farben, glänzende Highlights, durch das Fruchtfleisch fallendes Licht, überzeugende Brechung und weiche Kontaktschatten. Vermeide übermäßiges Blooming, ausgewaschene Farben und eine harte Kunststoffoptik.
+
+Verwende einen warmen, hellen Studiohintergrund und eine aufgeräumte redaktionelle Oberfläche mit großzügigem Weißraum. Füge den großen kursiven Serifentitel „Citrus Jelly“ hinzu. Halte die Steuerelemente kompakt und die Scheibe gut sichtbar.
+
+PHYSIK DES SOFTBODYS
+
+Das Jelly-Gefühl ist der wichtigste Aspekt.
+
+- Greife mit der Maus oder dem Finger nach einer beliebigen Stelle der Scheibe.
+- Ziehe, hebe, dehne und verdrehe sie und lasse sie wieder los.
+- Die Verformung muss lokal erfolgen: Wenn an einer Kante gezogen wird, soll sich das nahegelegene Fruchtfleisch dehnen, während der Rest auf natürliche Weise folgt.
+- Nach dem Loslassen soll die Scheibe wackeln, überschwingen und allmählich ihre ursprüngliche Form wieder annehmen.
+- Integriere Schwerkraft, Trägheit, Dämpfung, Bodenkollisionen und weiches Abprallen.
+- Erhalte das Volumen näherungsweise und verhindere, dass das Mesh kollabiert oder sich nach innen umstülpt.
+- Die Schale soll etwas fester sein als das Fruchtfleisch.
+- Innere Segmente, Membranen und Bläschen müssen der Verformung folgen, ohne außerhalb des Körpers zu schweben.
+
+Verwende einen stabilen volumetrischen Softbody-Solver, etwa ein Tetraedermesh mit XPBD-Constraints. Imitiere die Weichheit nicht durch Skalieren oder Drehen des gesamten Objekts.
+
+CONTROLS
+
+Füge drei Farbvoreinstellungen hinzu: Orange, Zitrone und Ruby.
+
+Füge Folgendes hinzu:
+- Regler für die Festigkeit.
+- Regler für die innere Dämpfung.
+- Schaltfläche „Einen Schubs geben“.
+- Zurücksetzen-Schaltfläche.
+- Kontrollkästchen für Viertelgeschwindigkeit.
+- Kontrollkästchen „Mesh anzeigen“.
+- Schaltfläche zum Pausieren/Fortsetzen.
+
+Zeige kleine Live-Anzeigen für Masse, prozentuales Ruhevolumen und kinetische Energie an.
+
+TECHNISCHE ANFORDERUNGEN
+
+Verwende echtes WebGPU-Rendering mit WGSL-Shadern. Erzeuge die gesamte Geometrie und alle visuellen Details prozedural, ohne importierte Modelle oder Bilddateien.
+
+Halte die Simulationsaktualisierungen unabhängig von der Bildrate des Renderings. Unterstütze Desktop- und Touchgeräte. Zeige eine klare Fallback-Meldung an, wenn WebGPU nicht verfügbar ist.
+
+Teste kräftiges Ziehen, wiederholtes Loslassen, alle Steuerelemente und schmale Bildschirme. Behebe instabile Physik, fehlerhafte Geometrie und visuelle Artefakte, bevor du die fertige HTML-Datei auslieferst.
+
+Das Ergebnis soll sich wie ein kleines, haptisches Süßigkeiten-Experiment anfühlen, mit dem zu spielen wirklich befriedigt.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2103062348168618280) · [Originalbeitrag](https://x.com/vib3coded/status/2103062415533371646) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 
@@ -4291,7 +4094,7 @@ Liefere Quellcode, Lockfile, npm-Befehle für Entwicklung und Build sowie die st
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 277 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 283 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>

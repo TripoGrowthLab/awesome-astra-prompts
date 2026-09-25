@@ -28,7 +28,7 @@
 **Un point de départ pour votre prochain jeu, scène ou monde interactif.**
 
 
-**277 · Derniers prompts Astra**
+**283 · Derniers prompts Astra**
 
 ## Projets à découvrir
 
@@ -56,12 +56,6 @@
 - [Explorateur anatomique 3D interactif](#2099206962344800541) · GitHub
 - [Démo de graphismes fantasy en vue isométrique](#2100271998618177864) · GitHub
 - [Mosswing : jeu mobile 3D où il faut tapoter pour battre des ailes](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Un chemin forestier de 12 secondes dans Blender](#2096986557244723371)
-- [Animal robot interactif sur un établi](#2097004192627933279)
-- [Citronnier gélatineux interactif](#2097065330728128920)
-- [Rigger et animer un mécha digitigrade dans Godot](#2097123382852829230)
-- [Animation en vue éclatée d’une boutique de fleurs japonaise](#2097153139795468365)
-- [Terrain de village inspiré de Skyrim à partir d’une image de référence générée](#2097167383576383502)
 - [Améliorer les traits du visage d’un modèle 3D dans Blender à l’aide d’une image de référence](#2097313247116341424)
 - [Recréer une mini-version 3D de League of Legends](#2097320830602809682)
 - [Projet WebGL TypeScript + Three.js : la salle des Prières pour de bonnes récoltes du Temple du Ciel à Pékin](#2097323734504017936)
@@ -140,10 +134,16 @@
 - [Bubble Bay : bataille de ballons d’eau en 3D](#2102300855387205871)
 - [Jeu de tower defense dans le style de Sir, We Have Orc Problems](#2102411087002112256)
 - [Maison pavillonnaire à deux étages avec intérieur](#2102473710724919614)
+- [Jeu de course de karts en 3D dans un seul fichier HTML](#2102652927177617564)
 - [Animation médiévale de château dans le navigateur](#2102672926285713456)
 - [Orbit Lab : simulation 3D du Soleil, de la Terre et de la Lune](#2102752217375899659)
 - [Château médiéval européen en 3D contrôlable dans le navigateur](#2102780850706567390)
 - [Échiquier 3D interactif pour étudier les gambits aux échecs](#2102788013902213508)
+- [Shader de ville solarpunk infinie](#2102826333550133520)
+- [Simulateur de burgers à la première personne](#2102897258983313712)
+- [Scène HTML interactive d’un feu de camp hyperréaliste dans le désert](#2102915300295369208)
+- [Codex en voxels avec Three.js](#2102956340482289944)
+- [Tranche d’agrume gélifiée interactive en 3D](#2103062348168618280)
 - [Battle City 3D : Défense de chars sans fin](#battle-city-3d)
 - [Crazy Tanks — Artillerie insulaire en 3D](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Jeu de survie aux armes improbables](#odd-arms)
@@ -326,380 +326,6 @@ Remastérisez le jeu classique « tapoter pour battre des ailes » — celui où
 ```
 
 [Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Publication originale](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Code source](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Démo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2096986557244723371"></a>
-
-### Un chemin forestier de 12 secondes dans Blender
-
-[Can Matrix](https://x.com/Jomolos) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2096986557244723371"><img src="../assets/previews/3e060bfb3bf3973f0efb048cacbdc625fe879b8bca0cb46c2bb8fd367eb75268.jpg" width="840" loading="lazy" alt="Un chemin forestier de 12 secondes dans Blender"></a>
-
-Créer une scène de chemin forestier de 12 secondes dans Blender.
-
-**Prompt**
-
-```text
-Un chemin forestier de 12 secondes dans Blender
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2096986557244723371) · [Publication originale](https://x.com/Jomolos/status/2096986557244723371) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2097004192627933279"></a>
-
-### Animal robot interactif sur un établi
-
-[ZEUS⚡️](https://x.com/zeuuss_01) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2097004192627933279"><img src="../assets/previews/9188a5a53301b71d404af1d10d6baf4e44585869cc933918118ae2180cf3c1ab.jpg" width="840" loading="lazy" alt="Animal robot interactif sur un établi"></a>
-
-Spécification détaillée d’un jeu Three.js mettant en scène un robot quadrupède aux mouvements expressifs, avec cellules de batterie visibles, recharge et trois tâches déclenchées par des objets.
-
-**Prompt**
-
-```text
-LA SPÉCIFICATION COMPLÈTE.
-ENREGISTRE-LA DANS UN FICHIER DU DOSSIER DU PROJET, PAS COMME MESSAGE DE CHAT.
-ENSUITE : /goal construis ceci dans three.js, lis SPEC.md et suis-le
-exactement, en particulier les sections 9 et 10.
-
-{ START }
-
-1 DE QUOI S’AGIT-IL
-
-Un petit robot quadrupède vit sur un établi. Tu le recharges,
-joues avec lui et lui confies trois tâches. Il ne quitte jamais l’établi
-et toi non plus. C’est tout le jeu.
-
-Deux éléments portent ce projet, et rien d’autre : l’apparence du robot
-et ses mouvements. Le joueur passe tout le jeu
-à observer un seul objet depuis une distance fixe. Cet objet doit
-mériter qu’on le regarde et bouger comme s’il était vivant.
-
-Ce n’est pas un animal de compagnie parlant. Pas de voix, pas de bouche, pas de visage à l’écran,
-et il ne répète jamais ce que tu dis. C’est une machine qui prête
-attention à toi, ce qui est différent — et bien mieux.
-
-2 LE ROBOT
-
-À peu près de la taille d’un chat, sur quatre pattes.
-
-Les proportions, qui sont à l’origine de son charme :
-- le corps est un bloc arrondi, plus large que haut, d’environ deux
-  largeurs de tête de long. Il paraît lourd.
-- la tête est grande par rapport au corps, environ 40 % de la hauteur
-  du corps, et placée vers l’avant sur un cou court. Elle paraît curieuse.
-  Ce n’est pas une tête chibi, et les yeux ne sont pas grands.
-- les pattes sont fines à côté de ce corps, de sorte qu’une masse
-  lourde repose sur des membres légers. C’est ce contraste qui donne à la marche
-  un aspect délicat plutôt que maladroit.
-- une petite queue qui sert en réalité de contrepoids et se balance comme telle
-- une courte antenne sur la tête, qui fouette l’air puis se stabilise un demi-
-  temps après chaque mouvement. Elle ne coûte presque rien et constitue
-  de loin la plus grande source de vie de tout le modèle.
-
-Trois matériaux, pas plus :
-1 panneau peint, blanc cassé doux, mat et légèrement chaud, sur le
-  dos, les hanches et le dessus de la tête. Au moins 60 % de la
-  surface visible, sinon le robot ressemble à un tas de pièces.
-2 métal usiné nu, gris moyen froid, sur les pattes, le châssis, les articulations et
-  le cou. Du laiton chaud uniquement sur chaque bague d’articulation.
-3 caoutchouc sombre, presque noir et mat, sur les quatre pieds, la gaine
-  du cou et le câble.
-
-Le visage : deux lentilles rondes de même taille, largement espacées et encastrées
-derrière une rainure usinée qui traverse le front. La rainure est une
-arête usinée, pas un sourcil, et elle ne bouge jamais. Toute l’expression
-vient de l’inclinaison de la tête, de l’antenne et de la luminosité des lentilles.
-
-Un défaut : un panneau d’épaule est d’une teinte légèrement différente, comme
-s’il avait déjà été remplacé. Rien n’attire l’attention dessus.
-
-Test de silhouette, réussite ou échec : rends le robot en noir pur sur
-fond blanc, en 64 × 64 pixels, de profil et en trois quarts. La
-tête relevée, l’espace entre la tête et le corps, les quatre pattes avec
-de la lumière visible entre elles et la queue doivent rester lisibles. Si deux
-masses se confondent, modifie le modèle, pas le rendu.
-
-3 LA BATTERIE EST LA BARRE DE PROGRESSION
-
-Une rangée de cinq cellules longe un flanc, éclairée en ambre. Elles
-s’éteignent une par une à mesure que la batterie se vide et s’allument une par une
-pendant la recharge. Rien à l’écran n’affiche de nombre ni de barre.
-
-5 cellules  vif, tête relevée, queue qui se balance
-4        normal
-3        plus lent, tête légèrement abaissée
-2        il s’assoit entre les actions au lieu de rester debout
-1        il se dirige seul vers le socle de recharge et attend
-0        il replie ses pattes et s’éteint là où il se trouve,
-         lentilles sombres, en attendant qu’on le porte jusqu’au socle
-
-Il ne tombe jamais en panne, ne meurt jamais et rien n’est perdu à zéro.
-
-4 SES MOUVEMENTS
-
-- une vraie marche. Les paires diagonales avancent, les pieds restent posés sur l’établi
-  pendant que le corps passe au-dessus d’eux. Les pieds ne
-  glissent pas.
-- du poids. Le corps s’abaisse du côté de la paire en appui. Au démarrage, il
-  se penche vers l’avant avant d’avancer. À l’arrêt, il fait un petit pas
-  pour se rattraper.
-- il te regarde. La tête suit le curseur dès que celui-ci se trouve au-dessus de l’établi
-  et le cou amorce le virage avant le corps.
-- il se rétablit. Si tu le pousses, il titube, écarte une patte et
-  se redresse. Il ne tombe jamais.
-- il se pose. À l’arrêt, il transfère son poids toutes les quelques secondes,
-  et les lentilles clignent lentement : elles s’assombrissent puis se rallument, elles ne
-  se ferment pas.
-
-Il s’améliore avec la pratique. Chaque tâche accomplie réduit légèrement
-le vacillement et accélère un peu les mouvements, jusqu’à une limite.
-Rien ne l’annonce. À la vingtième tâche, il bouge visiblement
-comme une machine qui sait ce qu’elle fait, et ce changement est
-la seule progression du jeu.
-
-5 L’ÉTABLI
-
-Un seul établi, vu depuis une distance fixe. Chaleureux, marqué par l’usage.
-
-Plateau en bois clair usé. Mur du fond gris-vert froid, uni.
-Robot en métal nu, avec du laiton chaud aux articulations. Les lentilles et les cellules
-sont ambrées, seule couleur lumineuse. Lumière de lampe chaude, venant d’un côté,
-projetant une longue ombre douce. Tout le reste est atténué.
-
-Sur l’établi : un socle de recharge avec une bobine de câble, un pot de
-boulons, un chiffon roulé, une petite caisse, une lampe de bureau, une balle en caoutchouc
-et un bol en métal. Rien d’autre.
-
-La lampe est l’unique source de lumière. Quand le robot passe devant, son ombre
-balaye l’établi.
-
-6 DÉCRIT UNIQUEMENT PAR SES USAGES
-
-- tu fais glisser la balle sur l’établi et la tête du robot la suit
-  du regard avant que son corps ne se tourne pour la suivre
-- tu poses le robot sur le socle de recharge : une cellule s’allume, puis
-  la suivante, avec une pause entre chacune
-- tu le pousses sur le côté : il titube, se rattrape sur une patte largement écartée
-  et se redresse
-- tu laisses tomber un boulon dans le bol et il s’approche, le ramasse
-  avec ses plaques buccales et le transporte jusqu’au pot
-- tu le laisses seul : il marche jusqu’au bord de l’établi, regarde
-  en bas, puis recule
-- tu grattes le panneau de son dos : il abaisse son corps et
-  reste immobile jusqu’à ce que tu t’arrêtes
-
-Montre tout cela à l’écran. Ne l’explique jamais dans une légende.
-
-7 LES TROIS TÂCHES
-
-Chacune sert à montrer un type de mouvement différent et est déclenchée
-en posant un objet sur l’établi, jamais depuis un menu.
-
-rapporter  dépose un boulon n’importe où. Il s’approche, le ramasse et
-             le porte jusqu’au pot. Montre la marche et le virage.
-empiler  dépose trois caisses. Il les pousse pour former une pile, une à
-         une. Montre la poussée, le gainage et le soulèvement.
-poursuivre  fais rouler la balle. Il la rattrape, l’arrête avec une patte et
-           la rapporte. Montre la course, la glissade et l’arrêt.
-
-Chaque tâche consomme un peu de charge. Une tâche effectuée avec 2 cellules est plus lente
-et plus instable que la même tâche avec 5. Pas de file d’attente, pas d’ordre, pas de
-chronomètre, pas de récompense.
-
-8 L’INTERFACE
-
-En bas au centre : une seule carte d’invite lorsqu’un élément est à portée,
-indiquant la touche ou le glisser-déposer et l’action associée, puis disparaissant
-lorsqu’il ne l’est plus.
-
-Rien d’autre à l’écran. Pas de barre de batterie, pas de jauge de bonheur, pas de
-jauge de faim, pas de pièces, pas de niveau, pas d’expérience, pas d’étoiles, pas de
-chronomètre, pas de menu, pas de paramètres, pas de fenêtre tutorielle, pas d’étiquette flottante
-au-dessus du robot.
-
-Tout ce que le joueur doit savoir se trouve sur le corps du robot.
-
-Caméra : fixe sur l’établi, en trois quarts depuis l’avant et légèrement
-au-dessus. Champ de vision vertical de 40 degrés. Au centre de l’établi, le robot
-occupe 30 à 45 % de la hauteur de l’image.
-Chaque cellule de batterie fait au moins 8 pixels de large en 1080p. L’établi
-entier reste toujours dans le cadre. Le glissement permet une rotation d’environ 60
-degrés, pas davantage. La caméra ne quitte jamais l’établi et
-il n’y a jamais de coupe.
-
-9 INTERDICTIONS, TOUTES NOMMÉES
-
-L’animal : pas de voix, pas de dialogue, pas de répétition de ce que tu dis, pas de
-micro, pas de visage à l’écran, pas de bouche, pas de sourcils, pas d’
-yeux de dessin animé avec pupilles, pas de cœurs, pas d’émojis, pas de bulles,
-pas de saisie de nom, pas de costume, pas de chapeau, pas d’atelier de peinture.
-
-Free-to-play : pas de pièces, pas de gemmes, aucune monnaie, pas de
-boutique, pas de publicités, pas de récompense quotidienne, pas de série, pas de notification, pas d’
-énergie à acheter, pas de minuteur d’attente, pas de niveau, pas de
-barre d’expérience, pas de succès, pas de classement.
-
-Gameplay : pas d’ennemis, pas de combat, pas de santé, pas de dégâts, pas de mort,
-pas de casse, pas de mini-jeu de réparation, pas d’état d’échec, pas de score, pas de
-chronomètre, pas de marqueurs de quête, pas de cinématique, pas d’illustration d’écran de chargement.
-
-Reprises de mes projets précédents : pas de plage, pas de palmiers, pas de crabes,
-pas d’îles flottantes, pas de lanternes, pas de cerisiers en fleurs, pas de ninja, pas de
-shuriken, pas de blocs voxel, pas de pioche, pas de lave, pas de voiture, pas de ville,
-pas de décor sous-marin, pas de varech.
-
-Rendu : pas de textures réalistes, pas d’ombres dures, pas de flare, pas de
-grain de film, pas de bandes noires, pas de flou de profondeur de champ, pas d’aberration
-chromatique, pas de brume grise à l’écran. Uniquement du bloom sur les lentilles et les
-cellules de batterie.
-
-10 BUDGET DE PRODUCTION
-
-Ce projet doit être terminé en une seule session de travail. Tout ce qui suit
-est strictement exclu de cette version. Ne l’ajoute pas, ne crée pas de stub, ne
-laisse pas de TODO à ce sujet.
-
-pas de deuxième pièce, pas d’extérieur
-pas de deuxième robot
-pas de sauvegarde ni de chargement : un rechargement crée un nouveau robot
-pas de moteur physique : cinématique inverse écrite à la main pour quatre pattes
-  sur un plan plat, avec une collision simple par boîte pour les éléments de l’établi
-pas de ragdoll
-pas de son
-pas de menus, pas de paramètres, pas d’écran de pause
-pas plus de trois tâches
-pas de cycle jour-nuit
-
-Voici où consacrer le temps, dans cet ordre :
-1 les proportions du robot et le test de silhouette
-2 le cycle de marche et l’ancrage des pieds
-3 le suivi de la tête, l’antenne et la stabilisation
-4 les états de la batterie et le socle de recharge
-5 les trois tâches
-6 la décoration de l’établi
-
-Si le temps manque, livre une scène avec un établi vide et un robot magnifique
-qui marche bien. Jamais l’inverse. Un établi nu avec un
-bon robot est un jeu terminé. Un établi décoré avec un robot raide
-ne vaut rien.
-
-Avant de le déclarer terminé, prouve ces quatre points avec des rendus, pas avec
-des mots : le test de silhouette à 64 px sous deux angles, un cycle de marche
-avec 5 cellules et le même cycle avec 2 cellules, le suivi de la tête du
-curseur sur toute l’orbite, et le robot avec 5 cellules puis 0
-cellule, côte à côte.
-
-Construis-le, puis dis-moi quelles sont les trois premières choses que tu corrigerais.
-
-{ END }
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2097004192627933279) · [Publication originale](https://x.com/zeuuss_01/status/2097004192627933279) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2097065330728128920"></a>
-
-### Citronnier gélatineux interactif
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-07
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2097065330728128920"><img src="../assets/previews/19fa5b36caaf4663987e99892e3cb3babcc452cbe50e1ef2f6108a859d3eba36.jpg" width="840" loading="lazy" alt="Citronnier gélatineux interactif"></a>
-
-Crée un citronnier 3D gélatineux interactif avec WebGPU, dont les branches se balancent, les citrons peuvent être sélectionnés à la souris et réagissent avec une physique d’écrasement et de rebond.
-
-**Prompt**
-
-```text
-créer un citronnier gélatineux interactif avec WebGPU
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2097065330728128920) · [Publication originale](https://x.com/vib3coded/status/2097065330728128920) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2097123382852829230"></a>
-
-### Rigger et animer un mécha digitigrade dans Godot
-
-[Om Patel](https://x.com/om_patel5) · 2026-09-08
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2097123382852829230"><img src="../assets/previews/a89f2393a0951b706bb98c904c317b3afb4707e76b5f3f9432a19725616d2f11.jpg" width="840" loading="lazy" alt="Rigger et animer un mécha digitigrade dans Godot"></a>
-
-Le prompt cité demande à Astra de rigger un mécha GLB existant et d’animer ses pattes digitigrades pour un aperçu dans Godot.
-
-**Prompt**
-
-```text
-Peux-tu rigger et animer ce GLB ? Je veux voir ses pattes digitigrades marcher de façon convaincante dans un aperçu Godot, s’il te plaît.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2097123382852829230) · [Publication originale](https://x.com/om_patel5/status/2097123382852829230) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2097153139795468365"></a>
-
-### Animation en vue éclatée d’une boutique de fleurs japonaise
-
-[KANA｜東京AI映像](https://x.com/KanaWorks_AI) · 2026-09-08
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2097153139795468365"><img src="../assets/previews/ecac385562a375d47484397c0d45277de44f41c1bd02ab91144a341e05972e95.jpg" width="840" loading="lazy" alt="Animation en vue éclatée d’une boutique de fleurs japonaise"></a>
-
-Créez une boutique de fleurs japonaise stylisée dans Blender, animez la séparation de son bâtiment et de ses éléments de rue en couches clairement lisibles, puis réassemblez la scène.
-
-**Prompt**
-
-```text
-Utilisez Blender MCP pour créer une petite scène stylisée représentant une boutique de fleurs japonaise. Reproduisez fidèlement ses éléments visuels essentiels : les auvents verts, l’enseigne sur le toit affichant le texte japonais « 花屋 », les pots de fleurs et les plantes disposés devant la boutique, le distributeur automatique, les vélos, le feu de signalisation, les poteaux électriques, les arbres environnants et les autres détails de rue reconnaissables. Rendez la scène dans un style cartoon chaleureux et plein de charme, avec un éclairage doux, des matériaux soignés et une atmosphère accueillante.
-
-Créez une animation en vue éclatée dynamique et spectaculaire de l’ensemble de la scène de la boutique de fleurs. L’éclatement doit être audacieux et exagéré, plutôt que subtil. Séparez progressivement et méthodiquement les différents composants vers l’extérieur afin de révéler de manière spectaculaire la construction et l’intérieur de la boutique de fleurs.
-
-Pendant l’éclatement, faites partir vers l’extérieur ou vers l’arrière les murs extérieurs, les arbres environnants, les poteaux électriques, les enseignes, les auvents, les vélos, les pots de fleurs, les plantes, les éléments de rue et les autres composants de l’environnement, en créant suffisamment d’espace libre pour que l’intérieur de la boutique soit clairement visible. Décomposez le bâtiment en couches structurelles pertinentes afin que l’architecture intérieure, le mobilier, les décorations, les fleurs, les plantes, les étagères et les petits détails deviennent nettement visibles.
-
-Le distributeur automatique doit lui aussi se décomposer en composants distincts. Ses panneaux extérieurs doivent se séparer, tandis que les bouteilles et les canettes individuelles à l’intérieur doivent jaillir dynamiquement vers l’extérieur et se répartir en une formation organisée pour rester parfaitement lisibles. Les petits composants et les détails peuvent parcourir une plus grande distance afin de rendre la séquence plus spectaculaire.
-
-Utilisez un décalage temporel entre les éléments, différentes vitesses de déplacement, des rotations, de la profondeur et des trajectoires superposées pour donner à l’éclatement une forte sensation d’énergie et d’impact, tout en gardant chaque composant organisé visuellement et facile à suivre. Évitez que tous les éléments se déplacent vers l’extérieur exactement au même moment ou à la même vitesse.
-
-Une fois la scène entièrement éclatée, maintenez brièvement la composition afin que le spectateur puisse observer clairement la structure interne et tous les composants séparés.
-
-Inversez ensuite la séquence : les bouteilles, les pièces du distributeur automatique, les plantes, les éléments de rue, les objets intérieurs, les murs, les arbres, les poteaux électriques, les enseignes, les vélos et tous les autres composants doivent revenir en douceur à leur place et se réassembler pour former la scène complète de la boutique de fleurs.
-
-L’ensemble de l’animation doit être énergique, cinématographique, satisfaisant et visuellement percutant, avec des mouvements affirmés et une transformation clairement lisible entre la scène complète, l’état entièrement éclaté et la scène finale réassemblée. Gardez des mouvements en couches, lisibles et soigneusement chorégraphiés tout au long de la séquence.
-
-Utilisez un arrière-plan de studio neutre pendant la séquence en vue éclatée afin que les objets séparés et les structures internes restent clairement visibles.
-
-Livrables finaux :
-Une animation entièrement rendue et un fichier de projet Blender 3D modifiable. Tous les objets, composants, collections, matériaux et éléments majeurs de la scène doivent être nommés et organisés de manière claire, cohérente et professionnelle.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2097153139795468365) · [Publication originale](https://x.com/KanaWorks_AI/status/2097153139795468365) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2097167383576383502"></a>
-
-### Terrain de village inspiré de Skyrim à partir d’une image de référence générée
-
-[Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo) · 2026-09-08
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2097167383576383502"><img src="../assets/previews/b2cb6b850ef77b3e545565d93a49f22ce192293b50f8ef2ad74f242cfe387ddf.jpg" width="840" loading="lazy" alt="Terrain de village inspiré de Skyrim à partir d’une image de référence générée"></a>
-
-Créez un paysage de village fantastique en trois dimensions avec img2threejs, en générant d’abord une image de référence pour guider la scène.
-
-**Prompt**
-
-```text
-Utilisez img2threejs/img2threejs pour créer un terrain de village en trois dimensions, dans un style inspiré de Skyrim. Générez vous-même l’image de référence.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2097167383576383502) · [Publication originale](https://x.com/TaroKichijo/status/2097167383576383502) · [Retour aux exemples](#all-prompts)
 
 ---
 
@@ -3808,6 +3434,26 @@ Bonjour. Veuillez concevoir avec Blender le meilleur modèle 3D possible d’une
 
 ---
 
+<a id="2102652927177617564"></a>
+
+### Jeu de course de karts en 3D dans un seul fichier HTML
+
+[Anshul](https://x.com/realanshull) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2102652927177617564"><img src="../assets/previews/0f568961afe1321356c2f741639b1e8c0fb199da304a749177bfa3210cbd2bbd.jpg" width="840" loading="lazy" alt="Jeu de course de karts en 3D dans un seul fichier HTML"></a>
+
+Prompt réutilisable que l’auteur affirme avoir transmis à l’identique à GPT Astra 6 et Claude Opus 5.5 afin de comparer leurs implémentations de jeu de course de karts en 3D.
+
+**Prompt**
+
+```text
+créez un jeu de course de karts en 3D dans un seul fichier HTML.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2102652927177617564) · [Publication originale](https://x.com/realanshull/status/2102652927177617564) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="2102672926285713456"></a>
 
 ### Animation médiévale de château dans le navigateur
@@ -3900,6 +3546,163 @@ Créez une application web avec un échiquier 3D interactif pour étudier les pr
 ```
 
 [Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2102788013902213508) · [Publication originale](https://x.com/diogosantosbr/status/2102788013902213508) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2102826333550133520"></a>
+
+### Shader de ville solarpunk infinie
+
+[Jonas Fröller](https://x.com/jonasfroeller) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2102826333550133520"><img src="../assets/previews/5e1edba84b202c83598f2f632c371cb143a0023bb7fe03d23a934645231b7f6c.jpg" width="840" loading="lazy" alt="Shader de ville solarpunk infinie"></a>
+
+Prompt pour un shader représentant une ville infinie composée de routes et de tours solarpunk, avec un effet de brise visible en continu, conçu pour fonctionner dans twigl.app.
+
+**Prompt**
+
+```text
+crée un shader visuellement captivant compatible avec twigl.app, représentant une ville infinie faite de routes et de tours solarpunk, avec une brise visible qui souffle en continu
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2102826333550133520) · [Publication originale](https://x.com/jonasfroeller/status/2102826333550133520) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2102897258983313712"></a>
+
+### Simulateur de burgers à la première personne
+
+[noclipepe](https://x.com/noclipepe) · 2026-09-23
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2102897258983313712"><img src="../assets/previews/7081447827f1c3142a1e647eae36ba49c69fe17b4006156a64e6e5a7d8977779.jpg" width="840" loading="lazy" alt="Simulateur de burgers à la première personne"></a>
+
+Un prompt que l’auteur de la publication affirme avoir fourni à trois modèles, dont GPT-6 Sol et GPT-6 Luna, pour créer un jeu de simulation de burgers à la première personne.
+
+**Prompt**
+
+```text
+crée un simulateur de burgers à la première personne.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2102897258983313712) · [Publication originale](https://x.com/noclipepe/status/2102897258983313712) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2102915300295369208"></a>
+
+### Scène HTML interactive d’un feu de camp hyperréaliste dans le désert
+
+[Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2102915300295369208"><img src="../assets/previews/764e2d668b97fd0ae51f70fab3b1b2878a2cb5e18d43651083eb08c41758cf91.jpg" width="840" loading="lazy" alt="Scène HTML interactive d’un feu de camp hyperréaliste dans le désert"></a>
+
+Prompt publié par son auteur et utilisé pour comparer les environnements de test GPT 6 Sol et Opus 5.5. Il demande une scène HTML interactive unique représentant un feu de camp nocturne hyperréaliste dans le désert, entouré de sièges constitués de souches, avec des étoiles visibles, l’apparition occasionnelle d’animaux sauvages et un son de haute qualité assorti à la scène.
+
+**Prompt**
+
+```text
+Ne faites référence à aucun autre fichier ni à aucun travail antérieur. Cette tâche doit être entièrement originale et ne doit pas être conçue comme une copie d’un autre travail présent ici.
+
+Créez un seul fichier HTML représentant un feu de camp animé dans le désert. La scène se déroule la nuit et les étoiles sont visibles. Des souches sont disposées autour du feu pour servir de sièges. Aucune personne ne doit apparaître à l’image. Différents animaux sauvages peuvent apparaître périodiquement, puis sortir du champ.
+
+Les sons doivent également correspondre à la scène et être de haute qualité.
+Rendez l’ensemble hyperréaliste
+
+Nommez le fichier (en fonction du modèle)
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2102915300295369208) · [Publication originale](https://x.com/Nixtrodamis/status/2102915567845794029) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2102956340482289944"></a>
+
+### Codex en voxels avec Three.js
+
+[Arsh - 16 y/o builder](https://x.com/be_arsh) · 2026-09-24
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2102956340482289944"><img src="../assets/previews/99b2ff17cd26386c8263b76b551d227260be222bfa037b09d6e74de8c6522369.jpg" width="840" loading="lazy" alt="Codex en voxels avec Three.js"></a>
+
+Prompt réutilisable à publier en commentaire, demandant une représentation de Codex en voxels avec Three.js, entièrement réalisée à partir de zéro sans utiliser de skills.
+
+**Prompt**
+
+```text
+Crée Codex dans Three.js à l’aide de voxels, réalise tout à partir de zéro et n’utilise aucune skill.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2102956340482289944) · [Publication originale](https://x.com/be_arsh/status/2102956424120979838) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2103062348168618280"></a>
+
+### Tranche d’agrume gélifiée interactive en 3D
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-24
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2103062348168618280"><img src="../assets/previews/41edd4fdcfd514cd2e4a41c686561adaecd016ec2c1476bcd941a222a86a47ec.jpg" width="840" loading="lazy" alt="Tranche d’agrume gélifiée interactive en 3D"></a>
+
+L’auteur de la publication a partagé ce prompt dans le cadre d’une comparaison entre Claude Opus 5.5 et ChatGPT-6 Astra. Il demande une simulation autonome de corps mou sous WebGPU, représentant une tranche d’agrume gélifiée déformable, avec interaction tactile et à la souris, géométrie procédurale, rendu par shaders et contrôles de simulation.
+
+**Prompt**
+
+```text
+Créez une magnifique tranche d’agrume gélifiée interactive en 3D avec WebGPU. Livrez l’expérience complète dans un seul fichier HTML autonome, avec le JavaScript et les shaders WGSL intégrés.
+
+Il doit s’agir d’une véritable simulation 3D en temps réel, et non d’une vidéo, d’une image ou d’une animation en boucle.
+
+APPEARANCE
+
+Créez une tranche d’orange épaisse et semi-circulaire, avec une pulpe translucide et juteuse, huit segments distincts, de délicates membranes internes, de minuscules bulles, une fine couche d’albédo pâle et une écorce orange souple.
+
+Donnez-lui l’apparence d’un bonbon gélifié haut de gamme : couleur saturée, reflets brillants, lumière traversant la pulpe, réfraction convaincante et ombres de contact douces. Évitez le bloom excessif, les couleurs délavées et l’aspect plastique rigide.
+
+Utilisez un arrière-plan de studio clair et chaleureux, ainsi qu’une interface éditoriale épurée avec beaucoup d’espace blanc. Ajoutez le grand titre en italique avec empattements « Citrus Jelly ». Gardez les contrôles compacts et la tranche bien visible.
+
+PHYSIQUE DES CORPS MOUS
+
+La sensation de gelée est l’élément le plus important.
+
+- Saisissez n’importe quelle partie de la tranche avec la souris ou le doigt.
+- Tirez-la, soulevez-la, étirez-la, tordez-la, puis relâchez-la.
+- Rendez la déformation locale : tirer sur un bord doit étirer la pulpe à proximité, tandis que le reste suit naturellement.
+- Après le relâchement, la tranche doit osciller, dépasser sa position d’équilibre, puis retrouver progressivement sa forme d’origine.
+- Intégrez la gravité, l’inertie, l’amortissement, les collisions avec le sol et des rebonds souples.
+- Préservez approximativement le volume et empêchez le maillage de s’effondrer ou de s’inverser.
+- Rendez l’écorce légèrement plus ferme que la pulpe.
+- Les segments internes, les membranes et les bulles doivent suivre la déformation sans flotter à l’extérieur du corps.
+
+Utilisez un solveur volumique stable pour corps mou, par exemple un maillage tétraédrique avec des contraintes XPBD. Ne simulez pas la souplesse en redimensionnant ou en faisant pivoter l’objet entier.
+
+CONTROLS
+
+Intégrez trois préréglages de couleur : Orange, Citron et Ruby.
+
+Ajoutez :
+- Un curseur de fermeté.
+- Un curseur d’amortissement interne.
+- Un bouton « Donnez-lui une petite impulsion ».
+- Un bouton de réinitialisation.
+- Une case à cocher pour la vitesse au quart.
+- Une case à cocher pour afficher le maillage.
+- Un bouton de mise en pause/reprise.
+
+Affichez de petites valeurs en temps réel pour la masse, le pourcentage du volume au repos et l’énergie cinétique.
+
+EXIGENCES TECHNIQUES
+
+Utilisez un véritable rendu WebGPU avec des shaders WGSL. Générez toute la géométrie et tous les détails visuels de manière procédurale, sans modèles importés ni fichiers image.
+
+Faites en sorte que les mises à jour de la simulation soient indépendantes de la fréquence d’affichage. Prenez en charge les ordinateurs et les appareils tactiles. Affichez un message de remplacement clair si WebGPU n’est pas disponible.
+
+Testez les glissements appuyés, les relâchements répétés, tous les contrôles et les écrans étroits. Corrigez les problèmes d’instabilité de la physique, les défauts de géométrie et les artefacts visuels avant de livrer le fichier HTML final.
+
+Le résultat doit évoquer une petite expérience de confiserie tactile, réellement agréable à manipuler.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2103062348168618280) · [Publication originale](https://x.com/vib3coded/status/2103062415533371646) · [Retour aux exemples](#all-prompts)
 
 ---
 
@@ -4291,7 +4094,7 @@ Livrez le code source, le lockfile, les commandes npm de développement/build et
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 277 exemples sur le site officiel →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 283 exemples sur le site officiel →</a></strong></p>
 <p><sub>Pour préserver la fluidité du rendu du README sur GitHub, seuls les 100 exemples les plus récents sont affichés ici.</sub></p>
 <br>
 </td></tr>
