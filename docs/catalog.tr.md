@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**283 · En yeni Astra istemleri**
+**291 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -56,14 +56,6 @@
 - [Etkileşimli 3B Anatomi Gezgini](#2099206962344800541) · GitHub
 - [İzometrik fantezi grafik demosu](#2100271998618177864) · GitHub
 - [Mosswing: Mobil 3B Dokunarak Uçma Oyunu](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Referans görsel kullanarak Blender’da 3B modelin yüz hatlarını iyileştirme](#2097313247116341424)
-- [League of Legends'in mini 3B oyununu yeniden oluşturma](#2097320830602809682)
-- [Pekin Cennet Tapınağı İyi Hasatlar İçin Dua Salonu TypeScript + Three.js WebGL projesi](#2097323734504017936)
-- [League of Legends tarzında web oyunu oluşturma](#2097336230078013598)
-- [Sıcacık Sulak Alan Göl Dünyası](#2097343467026289039)
-- [Backrooms esintili Blender VHS sahnesi](#2097534290112188602)
-- [Sürükleyici 3B pirinç tarlası web sitesi](#2097602565110419781)
-- [GPT-6 Astra ve Blender ile Kedi Kovalayan Robot Kol Komedisi](#2097675660873605422)
 - [THE LAST GATE'i oluştur: Aritmetik kapıları olan kalabalık koşu oyunu](#2097678911882809407)
 - [Canlı 3B fabrika ve fırlatma rampası simülasyonu](#2097730920224534868)
 - [Çok oyunculu Minecraft klonu](#2097797479488246071)
@@ -144,6 +136,14 @@
 - [Hipergerçekçi canlı çöl kamp ateşi HTML sahnesi](#2102915300295369208)
 - [Three.js'te Voxel Codex](#2102956340482289944)
 - [Etkileşimli 3B jelibon narenciye dilimi](#2103062348168618280)
+- [Northbound: Etkileşimli Viking Uzun Gemisi Yolculuğu](#2103187935759655167)
+- [Keşfedilebilir sisli sonbahar Three.js deneyimi](#2103211135214256350)
+- [STILLWATER — Ay Işığındaki Bataklık Tarayıcı Deneyimi](#2103308083242082314)
+- [Altın saat ışığında Roma savaş alanı sahnesi](#2103351755971207251)
+- [Pitaya Jelly](#2103432732386664591)
+- [VRChat için kıyafet 3B modelleme](#2103456264785424530)
+- [Blender'da kobay oluştur](#2103482826519986544)
+- [Three.js'te voxel tarzı Japon bahçesi](#2103486103831339269)
 - [Battle City 3D: Sonsuz Tank Savunması](#battle-city-3d)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu](#odd-arms)
@@ -326,279 +326,6 @@ Klasik "dokunarak uçma" oyununu — küçük bir yaratığı havada tutmak içi
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Orijinal gönderi](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Kaynak kodu](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Canlı demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2097313247116341424"></a>
-
-### Referans görsel kullanarak Blender’da 3B modelin yüz hatlarını iyileştirme
-
-[Carlos Olivera Terrazas](https://x.com/carlos_olivera) · 2026-09-08
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097313247116341424"><img src="../assets/previews/8528f6aaa8b6070a8c1e3732f0791feac42ed1ba7d0c23cc85c7c9e0212600a1.png" width="840" loading="lazy" alt="Referans görsel kullanarak Blender’da 3B modelin yüz hatlarını iyileştirme"></a>
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097313247116341424"><img src="../assets/previews/815f26c4feffea428b39e1c5d57de7f183ffc87c517bedb34755eec115e32d6e.png" width="840" loading="lazy" alt="Referans görsel kullanarak Blender’da 3B modelin yüz hatlarını iyileştirme"></a>
-
-Yazar, Blender’daki bir 3B modelleme projesinde ikinci görselin yüz hatlarını iyileştirmek için ilk görseli referans olarak kullanma görevini GPT-6 Astra’ya veriyor.
-
-**İstem**
-
-```text
-İlk görseli referans alarak ikinci görseldeki yüz hatlarını iyileştir.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097313247116341424) · [Orijinal gönderi](https://x.com/carlos_olivera/status/2097313247116341424) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2097320830602809682"></a>
-
-### League of Legends'in mini 3B oyununu yeniden oluşturma
-
-[岚叔](https://x.com/LufzzLiz) · 2026-09-08
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097320830602809682"><img src="../assets/previews/36b98467e6157525383fbc35526f9c07f2cadf9f16b1559da917bb3cc5fc4eca.jpg" width="840" loading="lazy" alt="League of Legends'in mini 3B oyununu yeniden oluşturma"></a>
-
-Gönderide, Astra'nın League of Legends tarzında bir mini oyun oluşturması için harita, şampiyonlar, minyonlar, kuleler ve oyunun yerleşik arayüzünü içermesi istenen bir prompt öneriliyor. Bu prompt öneri niteliğindedir; sergilenen çalışmada gerçekten kullanılan girdi olduğu doğrulanamaz.
-
-**İstem**
-
-```text
-Birinci adım: League of Legends'ın birebir aynısı olan bir oyun yap. LOL'de ne varsa oyunda da olsun: aynı harita, eşdeğer görsel kalite, şampiyonlar, minyonlar, kuleler ve daha fazlası. Başlangıç için önce 5 şampiyon seç.
-
-İkinci adım: Astra'ya yüklen (lafı geri çevir): Bu League değil, ucuz bir kopya. Önce bir plan yaz, ardından gerçek ölçülere ve mekaniklere sadık kalarak hassas biçimde uygula; UI, HTML olarak üstüne yapıştırılmış bir katman olmamalı. Yerleşik, şık ve gerçek bir oyun hissi veren bir arayüz kullan.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097320830602809682) · [Orijinal gönderi](https://x.com/LufzzLiz/status/2097320830602809682) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2097323734504017936"></a>
-
-### Pekin Cennet Tapınağı İyi Hasatlar İçin Dua Salonu TypeScript + Three.js WebGL projesi
-
-[govin.eth \| G哥](https://x.com/goan999999) · 2026-09-08
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097323734504017936"><img src="../assets/previews/b96633c15d16a1fad0fe0e700c8bec74e9157a05c86bbf84264cea903f333c4a.jpg" width="840" loading="lazy" alt="Pekin Cennet Tapınağı İyi Hasatlar İçin Dua Salonu TypeScript + Three.js WebGL projesi"></a>
-
-Ana gönderide, GPT-6 Astra ve Three.js kullanılarak oluşturulan Pekin Cennet Tapınağı İyi Hasatlar İçin Dua Salonu 3B modeli ve web deneyimi gösteriliyor; yazar daha sonra bu tür projeler oluşturmak için kullanılan eksiksiz Çince istemi de paylaştı.
-
-**İstem**
-
-```text
-TypeScript + Three.js kullanarak tamamen çalışır bir Pekin Cennet Tapınağı İyi Hasatlar İçin Dua Salonu WebGL projesi oluşturun. Tüm mimari geometriler, dokular ve animasyonlar çalışma zamanında kodla prosedürel olarak üretilmeli; .glb, .gltf, .obj, .fbx gibi harici modellerin yüklenmesi yasaktır.
-
-Mimari görünüm:
-Farklı boyut ve yüksekliklere sahip, üç katmanlı mavi sırlı kiremit kubbeler; yaldızlı tepe süsü, kırmızı sütunlar, dairesel yapı gövdesi, mavi-yeşil-altın renkli bezemeler, dougong taşıyıcıları ve kapı-pencereler.
-Çatı, zarif ve hafifçe yukarı kıvrılan saçakları göstermek için eğrisel profiller, dönel yüzeyler veya özel geometri kullanmalı; basit bir koniyle değiştirilemez.
-Beyaz Han beyaz mermerinden yapılmış, üç katmanlı dairesel kaide; ortada taş merdivenler, korkuluklar ve sütunlar bulunmalı. Genel oranlar dengeli, katmanlar belirgin olmalı.
-Kiremit dokuları ve süslemeleri prosedürel olarak üretin; tekrarlanan bileşenlerde öncelikle InstancedMesh kullanın.
-
-Sahne ve etkileşim:
-Pekin'in mavi gökyüzü, meydan zemini ve az miktarda bitkilendirme kullanın; DirectionalLight ile AmbientLight／HemisphereLight birlikte kullanılmalı, gölgeler ve ortam örtülmesi etkinleştirilmeli, sinematik ton eşleme ise ölçülü uygulanmalı.
-OrbitControls ile döndürme ve yakınlaştırmayı destekleyin; ayrıca açılıp kapatılabilen yavaş otomatik çevre turu gösterimi ekleyin.
-Bir düğmeyle “patlatma／yeniden birleştirme” arasında geçiş yapılabilmeli: çatı, sütunlar, dougong taşıyıcıları, duvarlar, kapı-pencereler, korkuluklar ve kaide katman sırasına göre yumuşak biçimde dağılıp ardından doğru konumlarına geri dönmeli. Animasyon kod tarafından sürülmeli, parçalar kademeli olarak hareket etmeli ve ani sıçramalardan kaçınılmalı.
-
-Eksiksiz projeyi ve çalıştırma talimatlarını doğrudan teslim edin. Sayfa pencere boyutuna duyarlı olmalı; yüksek kaliteli görseller ve akıcı etkileşim sunmalı. Instancing, makul düzeyde geometri ayrıntısı ve işleme optimizasyonlarıyla sıradan masaüstü tarayıcılarında iyi performans göstermeli. Kod modüler ve genişletilebilir olmalı; derlemeyi ve temel işlevleri doğrulayın, doğrulanmamış noktaları açıkça belirtin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097323734504017936) · [Orijinal gönderi](https://x.com/goan999999/status/2097323734504017936) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2097336230078013598"></a>
-
-### League of Legends tarzında web oyunu oluşturma
-
-[李岳](https://x.com/liyue_ai) · 2026-09-08
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097336230078013598"><img src="../assets/previews/36b98467e6157525383fbc35526f9c07f2cadf9f16b1559da917bb3cc5fc4eca.jpg" width="840" loading="lazy" alt="League of Legends tarzında web oyunu oluşturma"></a>
-
-Yazar, League of Legends tarzında bir web oyunu oluşturmak için kullanılan bir promptu aktarıp listeliyor; promptta haritanın, şampiyonların, minyonların ve kulelerin yeniden oluşturulması ve oyunun başında beş şampiyon seçilmesi gibi gereksinimler yer alıyor. Bu prompt, üç boyutlu bir oyun oluşturma hedefini açıklıyor; ancak paylaşımda yazarın bunu gerçekten kendisinin girip girmediği belirtilmiyor.
-
-**İstem**
-
-```text
-League of Legends ile tamamen aynı bir oyun oluştur. League of Legends'ın tüm içeriğine, aynı haritaya ve benzer düzeyde grafik kalitesine sahip olsun; şampiyonlar, minyonlar, kuleler ve diğer unsurlar da dahil olsun. Oyunun başında 5 şampiyon seçilebilsin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097336230078013598) · [Orijinal gönderi](https://x.com/liyue_ai/status/2097336230078013598) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2097343467026289039"></a>
-
-### Sıcacık Sulak Alan Göl Dünyası
-
-[Givros](https://x.com/givros) · 2026-09-08
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097343467026289039"><img src="../assets/previews/23dbba2d83ef0ccef6ab1db4578e1b513eb19d4e0c3571a1509f628963f56423.jpg" width="840" loading="lazy" alt="Sıcacık Sulak Alan Göl Dünyası"></a>
-
-Göl, kulübe, ada, terk edilmiş ev, tekne, patikalar, bitki örtüsü, yaban hayatı ve çevredeki ormanla sıcacık bir 3B sulak alan sahnesi oluşturmak için tekrar kullanılabilir istem.
-
-**İstem**
-
-```text
-Bataklık kıyısında bir balıkçı kulübesi bulunan sıcacık bir göl oluşturun. Suyun ortasına, ağaçların arasında gizlenmiş terk edilmiş bir evin bulunduğu küçük bir ada yerleştirin. Kulübenin yanına bir balıkçı teknesi ekleyin; nilüfer yaprakları, sazlıklar, sudan sıçrayan balıklar, sulak alanlara özgü yaban hayatı, küçük bir plaj, plaja ve kulübeye giden bir patika, ormana doğru devam eden başka bir patika ve tüm sahneyi çevreleyen bir ağaç hattı oluşturun.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097343467026289039) · [Orijinal gönderi](https://x.com/givros/status/2097343467026289039) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2097534290112188602"></a>
-
-### Backrooms esintili Blender VHS sahnesi
-
-[CHRIS FIRST](https://x.com/chrisfirst) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097534290112188602"><img src="../assets/previews/721eed98f68b8ad4264b4fbd922b185c7e6501834c9aa828a0b3b369fba5ff28.jpg" width="840" loading="lazy" alt="Backrooms esintili Blender VHS sahnesi"></a>
-
-Backrooms’ta birinci şahıs bakış açısıyla ilerleyen, elde çekim paniği, labirenti andıran odalar ve koridorlar içeren, 30 saniyelik fotogerçekçi bir Blender sahnesi oluşturur.
-
-**İstem**
-
-```text
-Blender’da, birinin Backrooms’ta yürürken çektiği birinci şahıs VHS kaydı gibi görünen bir sahne oluştur. Görüntü fotogerçekçi, kamera hareketleri ise elde çekilmiş panik hissi vermeli. Kişi etrafına bakınmalı, ardından Backrooms’un labirentinde koşmaya başlamalı. Bazı odalar büyük ve geniş, diğerleri ise sonsuz koridorlar gibi görünmeli. Yoğun bir panik hissi yarat. Süre 30 saniye olmalı.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097534290112188602) · [Orijinal gönderi](https://x.com/chrisfirst/status/2097534290112188602) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2097602565110419781"></a>
-
-### Sürükleyici 3B pirinç tarlası web sitesi
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097602565110419781"><img src="../assets/previews/00a3d885b9462dcaa8cd54c0109462182b6382ea9924e0239258d2b2c51ad744.jpg" width="840" loading="lazy" alt="Sürükleyici 3B pirinç tarlası web sitesi"></a>
-
-Doğal rüzgâr animasyonu, aydınlatma ve kamera modları, duyarlı kontroller, prosedürel bitki örtüsü ve gerçek zamanlı işleme içeren, tarayıcı tabanlı bir Three.js 3B pirinç tarlası manzarası oluşturma istemi.
-
-**İstem**
-
-```text
-Tarayıcıda çalışan, sürükleyici bir 3B pirinç tarlası web sitesi oluşturun. Tema:
-“Yeşil bir deniz / Pirinç tarlalarında rüzgâr.”
-Kodu tamamlayın, gerekli bağımlılıkları yükleyin ve bir önizleme başlatın. Yalnızca öneri veya uygulama planı sunup durmayın.
-
-1. Görsel yön
-
-Genel atmosfer; etkileşimli bir manzara web sitesindeki tutarlı sanat yönetimi hissini verecek şekilde doğal, huzurlu ve rafine olmalıdır.
-
-Sahnede şunlar bulunmalıdır:
-
-Ön plan: net biçimde ayırt edilebilen ince yapraklar, kıvrımlı saplar ve aşağı doğru eğilen birkaç pirinç salkımı.
-
-Orta plan: yeterli yoğunluğa ve aralıklarında doğal farklılıklara sahip, uzaklara doğru uzanan kesintisiz bir pirinç tarlası.
-Arka plan: düzensiz bir ağaç hattı, katmanlı alçak tepeler ve hafif atmosferik perspektif.
-Gökyüzü: yumuşak gri-mavi tonlar, hafif bulut çeşitliliği ve ufukta doğal bir geçiş.
-Varsayılan kamerayı pirinç salkımlarının biraz üzerine yerleştirin ve tarlanın üzerinden uzaktaki tepelere doğru bakmasını sağlayın.
-Gökyüzü kadrajın yaklaşık üçte birini kaplamalı, kompozisyona pirinç tarlası hâkim olmalıdır.
-Bitki renklerinde ağırlıklı olarak koyu yeşil, zeytin yeşili ve sarı-yeşil tonları kullanın. Floresan yeşilden kaçının.
-Pirinç bitkilerinin yüksekliğini, yönünü, kıvrımını ve rengini doğal biçimde çeşitlendirin.
-
-2. Animasyon gereksinimleri
-Rüzgâr, tarlanın üzerinden yanal yönde ilerleyen sürekli dalgalar şeklinde görünmelidir:
-Kökleri büyük ölçüde sabit tutun; yaprak uçlarına ve salkımlara doğru ilerledikçe hareketi kademeli olarak güçlendirin.
-Aynı bölgedeki bitkiler, bireysel farklılıklarını korurken uyumlu biçimde hareket etmelidir.
-
-Yavaş, geniş ölçekli rüzgâr dalgalarını hafif yerel hareketlerle birleştirin.
-
-Tüm bitkilerin kusursuz bir senkronizasyonla sallanmasını önleyin. Bitkilerin tamamını bir bütün olarak ötelemeyin ve yaprakların titreşmesine neden olmayın.
-
-Zaman içinde izlenmesi rahat olan, hafif bir varsayılan esinti kullanın.
-3. Etkileşim gereksinimleri
-Sahneyi gerçekten etkileyen basit kontroller sağlayın:
-Rüzgâr hızı kaydırıcısı: rüzgâr animasyonunun gücünü ve hızını akıcı biçimde ayarlayın.
-Aydınlatma modları: Sabah, Öğleden Sonra ve Altın Saat. Gökyüzü, ışık yönü, renk sıcaklığı ve sis rengindeki değişiklikleri birbiriyle uyumlu hâle getirin.
-
-Görünüm modları: Açık Tarla ve Pirinçlerin Arasında; kamera geçişleri akıcı olmalıdır.
-
-Duraklat/Sürdür: çevresel animasyonu duraklatıp sürdürün.
-
-Fare hareketi kamerada çok hafif bir tepki oluşturabilir, ancak baş dönmesine neden olmamalıdır.
-Varsayılan olarak kamerayı geniş açılar boyunca sürekli döndürmeyin.
-4. Arayüz tasarımı
-Tam ekran bir sahne kullanın ve üzerine bir arayüz yerleştirin:
-Sol üst: küçük bir VERDANT logotipi.
-
-Sol alt: serif yazı tipinde “Yeşil bir deniz.” başlığı.
-Hemen altında daha küçük puntolu “Yapacak bir şey yok. Sadece esintiyi takip et.” alt başlığı.
-Sağ alt: kompakt, yarı saydam koyu yeşil bir kontrol paneli.
-
-Metinler okunaklı olmalı, cömert aralıklar kullanılmalı ve kontroller ana manzaranın önünü kapatmamalıdır.
-
-Kontroller, dar ekranlarda üst üste binmeden kullanılabilir kalmalıdır.
-
-5. Teknoloji ve performans
-Three.js kullanın. Mevcut bir proje varsa derleme ortamını koruyun.
-Büyük miktarda bitki örtüsünü işlemek için instancing ve GPU vertex animasyonu kullanın.
-Her bitki için ayrı bir çizim nesnesi oluşturmaktan veya her karede tüm bitkileri CPU üzerinde güncellemekten kaçının.
-Uzak mesafelerde bitki örtüsü ayrıntısını azaltın ve makul bir piksel oranı sınırı uygulayın.
-Güvenilir varlık yükleme sağlamak için prosedürel geometriyi ve materyalleri tercih edin.
-Sahne gerçek zamanlı olarak işlenmelidir. Ana sahne olarak tam bir manzara görseli veya video kullanmayın.
-Model adları ve karşılaştırma etiketleri post prodüksiyonda eklenecek; bunları sahneye dahil etmeyin.
-6. Tamamlanma ölçütleri
-Uygulama tamamlandıktan sonra, şunları doğrulamak için mevcut tarayıcı araçlarını kullanın:
-Başlangıç görünümü, belirgin konsol hataları olmadan doğru şekilde işleniyor.
-
-Her kontrol sahneyi gerçekten etkiliyor.
-
-Ön plan, orta plan ve arka planın ayırt edilebilir bir derinliği ve katmanlanması var.
-Pirinç bitkileri basit, dik yeşil çizgilerden ibaret değil.
-Rüzgâr hareketi sürekli ve doğal; belirgin biçimde tekdüze bir tekrar yok.
-Kamera geçişleri akıcı ve arayüz dar ekranlarda kullanılabilir durumda.
-Belirli bir kontrolü gerçekleştiremiyorsanız bunu açıkça belirtin.
-Son olarak başlangıç talimatlarını ve gerçekten uygulanan özelliklerin özetini sunun.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097602565110419781) · [Orijinal gönderi](https://x.com/YouWareAI/status/2097602565110419781) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2097675660873605422"></a>
-
-### GPT-6 Astra ve Blender ile Kedi Kovalayan Robot Kol Komedisi
-
-[探路AI](https://x.com/TanLuAI) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097675660873605422"><img src="../assets/previews/b6d2405bd8f8e5cd9543cde67c0c3719a2e7b5ac38c080cca7336d0f7c1ec1d1.jpg" width="840" loading="lazy" alt="GPT-6 Astra ve Blender ile Kedi Kovalayan Robot Kol Komedisi"></a>
-
-Yazar, sahne ve kamera kurulumunu GPT-6 Astra ve Blender kullanarak tamamladığını belirtiyor ve 10 saniyelik bir hayvan komedisi kısa filmi için Çince üretim istemini paylaşıyor. İstem; turuncu-beyaz bir kedi, ev tipi bir robot kol, kedi kuyruğu biçimli bir oyuncak, salon ortamı, kamera ilişkileri ve aksiyonun ters köşesini tanımlıyor.
-
-**İstem**
-
-```text
-10 saniyelik, 16:9 yatay kadrajda, gerçek çekim hissine sahip sinematik bir hayvan komedisi kısa filmi oluşturun
- Ev tipi robot kol turuncu-beyaz kediyi kovalamaya ve yakalamaya çalışır; kedi çevikçe sıyrılıp yaramazca saklama kutusunun arkasına dolanır. Robot pençesi, kutunun arkasından görünen turuncu kuyruğu kavrar. Yukarı kaldırdığında bunun kedi kuyruğu biçimli bir oyuncak olduğu anlaşılır. Gerçek kedi bu sırada robot kolun tabanının yanına dolanmış ve patisiyle tabandaki kırmızı kapatma düğmesine basmıştır. Robot kol durur; kedi mutlu ve memnun görünür.
- Açılışta kovalamaca ve yakalama eylemi doğrudan başlamalıdır. Ortada, engelleme yoluyla merak korunmalı; oyuncağın kaldırılması ters köşeyi oluşturmalı; finalde kedinin robotu kendi isteğiyle kapatması ikinci espriyi tamamlamalıdır. Baştan sona yalnızca ortam sesleri üretin; arka plan müziği, BGM, anlatıcı sesi veya diyalog üretmeyin.
-【Varlık sabitleme ve referans kuralları】
- cat_robot_previs referans videosunu kamera hareketleri, zamanlama, hareket yörüngeleri ve mekânsal ilişkiler için referans alın.
- Referans videodaki turuncu küp gövde, beyaz ayaklar, kulakları ve kuyruğu olan geometrik karakter, Görsel 1'deki gerçek turuncu-beyaz kediye karşılık gelir.
- Krem beyazı bağlantı kolları, turuncu eklemler, üç parmaklı kavrayıcı ve kırmızı düğmeli taban, Görsel 2'deki robot kola karşılık gelir.
- Turuncu dikey kuyruk, gri bağlantı çubuğu ve yeşil tabandan oluşan küçük karakter, Görsel 3'teki kedi kuyruğu biçimli oyuncağa karşılık gelir. Oyuncak ve kedi iki ayrı nesnedir.
- Ortadaki beyaz gövde, gerçek krem beyazı saklama kutusuna karşılık gelir; kutunun konumunu, hacmini ve engelleme işlevini koruyun. İç mekân için Görsel 4'ü referans alın.
- Referans videodaki kurgu zamanlamasına, kamera konumlarına, plan ölçeklerine, kedinin hareket rotasına, robot pençesinin takip yoluna, kutunun arkasındaki engellemeye, oyuncağın kaldırılma rotasına ve kedinin patisiyle düğme arasındaki temas ilişkisine göre üretin.
- Kedinin geometrik ötelemesi yalnızca hareket rotasını belirtmek için kullanılmıştır; bunun yerine doğal yana sıçrama, koşma, yön değiştirme, çömelme, baş çevirme ve pati kaldırma hareketleri üretin. Ana olayları ve mekânsal ilişkileri değiştirmeden, belirtilen konum ve zaman aralıklarında ince yüz ifadeleri ve vücut hareketleri ekleyebilirsiniz. Tüm beyaz modelleri, geometrik yer tutucuları ve yardımcı işaretleri kaldırın.
- Görsel 1image: Kedinin tek ve değişmez görünümü.
- Aynı genç yetişkin, turuncu-beyaz, kısa tüylü kedi: başının üstünde ve sırtında turuncu tekir desenleri; ağız çevresi ve göğsü beyaz; dört patisi beyaz; gözleri kehribar rengi; burnu pembe; kuyruğu turuncu halkalı ve uç kısmı açık renklidir. Gerçekçi vücut oranlarını, tüy rengi dağılımını, yüz özelliklerini ve kuyruk uzunluğunu koruyun. Tüyler ince ve ayrıntılı, bıyıklar doğal olsun; aksesuar veya kıyafet kullanmayın.
- Görsel 2image: Robot kolun tek ve değişmez görünümü.
- Krem beyazı gövde, turuncu eklem kapakları, koyu gri bağlantı parçaları, üç parmaklı yumuşak kavrayıcı ve bilekte kehribar renkli durum ışığı; tümü alçak ve geniş bir tabana monte edilmiştir. Robot kol tabanındaki kırmızı kapatma düğmesi, yerde duran kedinin erişebileceği yükseklikte olmalıdır. Taban sabit kalmalı; robot kol kovalamaca ve yakalama hareketini eklemlerini döndürerek gerçekleştirmelidir.
- Görsel 3image: Kedi kuyruğu biçimli oyuncağın tek ve değişmez görünümü.
- Turuncu halkalı tüylü kuyruk, açık renkli kuyruk ucu, altına bağlı metal yay ve nane yeşili devrilmez tabandan oluşur; tabanda beyaz balık kılçığı deseni bulunur. Robot pençesi tüylü kuyruğu kavradığında yay ve taban, bağlantıları her zaman net biçimde görülecek şekilde tek parça oyuncak olarak birlikte kaldırılmalıdır.
- Görsel 4image: Sahne görünümü.
- Görsel 4'teki sıcak salonu, açık renk ahşap zemini, geniş pencereden gelen gün ışığını, açık renkli kanepeyi, ahşap mobilyaları, yeşil bitkileri ve evcil hayvan yaşamına ait ayrıntıları referans alın. Tüm aksiyon iç mekân zemininde gerçekleşmelidir. Referans görseldeki stüdyo arka planı ve ızgara yerleşimi nihai videoda yer almamalıdır.
-【Görsel stil ve sahne】
- Gerçek bir evcil hayvan kısa filmiyle özenli bir ev robotu reklamının sinematografik görünümü; doğal ışık, gerçekçi malzemeler ve davranış ile ritimden doğan komedi.
- Geniş bir evin salonunda, ince ahşap damarlarına ve yumuşak yansımaya sahip açık meşe zemin bulunur. Sol taraftaki tavandan tabana pencere sıcak gün ışığını içeri alır; tül perdeler zemine yumuşak ışık ve gölge desenleri düşürür. Kedi tüylerinin kenarlarında ve robot kolun gövdesinde doğal bir kontur ışığı oluşur.
- Arka planda açık gri kanepe, minderler, küçük sehpa, halı, sıcak tonlu lambader ve saklama dolabı bulunur; pencerenin yanında yeşil bitkiler, yanda ise kedi yatağı ve tırmalama direği yer alır. Halı uzakta konumlanmalı; ön plandaki hareket alanında kesintisiz ve açık ahşap zemin korunmalıdır.
- Merkezin biraz arkasına, açık turuncu kulplu krem beyazı, yuvarlatılmış köşeli bir saklama kutusu yerleştirin. Kutu çömelmiş kediyi ve oyuncağın tabanını gizleyebilmeli; sağında, solunda ve arkasında bağlantılı hareket yolları bulunmalıdır. Robot kol kutunun sağında yer almalı, kırmızı düğmesi kedinin sonunda ulaşacağı yöne bakmalıdır.
- Kamera yaklaşık kedi göz hizasında olmalı; ana özneler net, arka plan ise ölçülü biçimde flu görünmelidir. Alçak kamera açısı, robot pençesinin aşağıdan yakalamasındaki ani etkiyi, kedinin hafif ve çevik hareketlerini ve kutunun arkasındaki açığa çıkışın katmanlı yapısını vurgulamalıdır. Tüm temaslarda doğal gölgeler ve kuvvet tepkileri bulunmalıdır.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097675660873605422) · [Orijinal gönderi](https://x.com/TanLuAI/status/2097675660873605422) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3706,6 +3433,378 @@ Sonuç, oynaması gerçekten tatmin edici, küçük ve dokunsal bir şekerleme d
 
 ---
 
+<a id="2103187935759655167"></a>
+
+### Northbound: Etkileşimli Viking Uzun Gemisi Yolculuğu
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-24
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103187935759655167"><img src="../assets/previews/d8520ab42c6973da4541907e224aed200b691613a7b7bb3183774bb39e1ffdef.jpg" width="840" loading="lazy" alt="Northbound: Etkileşimli Viking Uzun Gemisi Yolculuğu"></a>
+
+Ayrıntılı bir Viking uzun gemisiyle fiyortta gerçekleştirilen, bağımsız bir Three.js ve WebGL etkileşimli 3B yolculuk için yazar tarafından hazırlanmış bir istem. Sinematik bir Nordik ortamı, fiziksel olarak birbirine bağlı gemi yapısını, animasyonlu kürek çekme ve suya temas efektlerini, dümen ve kamera kontrollerini, mobil desteği, aydınlatma modlarını, ses davranışını ve gömülü teslim varlıklarını tanımlar.
+
+**İstem**
+
+```text
+“Northbound”u, ayrıntılı bir Viking uzun gemisiyle Nordik bir fiyortta gerçekleştirilen güzel ve etkileşimli bir 3B yolculuk olarak oluşturun.
+
+Three.js ve WebGL kullanarak, tek başına çalışabilen bir HTML dosyası olarak teslim edilen gerçek zamanlı bir sahne oluşturun. Bu, önceden oluşturulmuş bir video veya düz bir illüstrasyon değil, tarayıcıda keşfedilebilen bir deneyim olmalıdır.
+
+GÖRSEL YÖNLENDİRME
+
+Gerçekçi malzemelere, doğal oranlara ve ölçülü renklere sahip, özenle hazırlanmış sinematik bir ortam hedefleyin. Karikatür veya düşük poligon görünümünden kaçının.
+
+Ahşap bir uzun gemi; yüksek kayalıkların, sık ormanların, şelalelerin ve küçük Nordik yerleşimlerin arasındaki koyu yeşil-mavi sularda ilerler. Atmosferik perspektif, hafif sis, yumuşak gölgeler ve inandırıcı bir derinlik kullanın. Yolculuk boyunca yalnızca başlangıç kamera konumundan değil, farklı noktalardan da güzel manzaralar oluşturun.
+
+UZUN GEMİ
+
+Üst üste binen ahşap kaplama tahtaları, görünür damarlar, kaburgalar, oturma sıraları ve kesintisiz bir iç bölümü olan ayrıntılı, su geçirmez bir gövde oluşturun.
+Oyma ejderha pruvası, çizgili kumaş yelken, direk, halatlar, kalkanlar, erzaklar ve sıcak ışık veren fenerler ekleyin.
+Katmanlı kıyafetler giyen, inandırıcı oturma pozlarına sahip ve elleri küreklerine yakın konumlandırılmış, orantılı Viking yolcular ve kürekçiler ekleyin.
+Her bileşeni fiziksel olarak birbirine bağlı tutun. Havada duran yolculara, aksesuarların birbirinin içine geçmesine veya gövdenin içinden görünen boşluklara izin vermeyin.
+Hafif yüzme, baş-kıç yalpası ve yana yatma hareketlerini animasyonla verin. Yelken rüzgâra nazikçe tepki vermelidir.
+
+SU VE KÜREK ÇEKME
+
+Suyu görsel açıdan temel bir unsur hâline getirin.
+
+Düzlemsel yansımalar, kırılma, Fresnel parlamaları, derinliğe bağlı soğurma, görünür sığ alanlar ve katmanlı yüzey dalgacıkları içeren özel bir shader kullanın. Yansımalar, hareketli kameraya ve değişen aydınlatmaya doğru şekilde tepki vermelidir.
+
+Geminin arkasında inandırıcı bir iz oluşturun.
+
+Eksiksiz bir kürek çekme döngüsünü animasyonla verin: kürek palaları suya girsin, geriye doğru çekilsin, sudan kaldırılsın ve yüzeyin üzerinden başlangıç konumuna dönsün. Bu hareketi kürekçilerin hareketleriyle eşleştirin.
+
+Palaların suya gerçekten temas ettiği noktalarda dalgacıklar, köpük ve küçük su damlaları oluşturun. İzler dünya uzayında kalmalı ve zamanla yavaşça kaybolmalıdır. Palalar havadayken efektlerin görünmesinden kaçının.
+
+ORTAM VE MALZEMELER
+
+Ayrıntılı arazi, düzensiz kaya oluşumları, doğal ağaç siluetleri, dallanan gövdeler ve tek tek yaprak veya iğne kümeleri kullanın.
+
+Ahşap, taş ve zemin için normal ve pürüzlülük haritalarına sahip PBR malzemeleri kullanın. Uygun lisansa sahip dokuları gömebilirsiniz; gerektiğinde kaynak belirtin.
+
+Su altındaki arazi yüzeyin altında da devam etmelidir. Parlak dikişlere, kıyı boşluklarına, havada duran bitkilere veya seyir rotasını engelleyen ağaçlara izin vermeyin.
+
+CONTROLS
+
+A/D veya ok tuşları: sola ve sağa yön verin.
+W/S: hızı ayarlayın.
+Fareyle sürükleme: etrafa bakın.
+Takip, yörünge ve sinematik kamera modları sunun.
+İsteğe bağlı otomatik yolculuk modu ekleyin.
+Duraklatma, sıfırlama, tam ekran ve arayüzü gizleme kontrolleri ekleyin.
+Mobil cihazlarda dokunmatik yön ve hız kontrollerini destekleyin.
+Geminin karadan ve kayalardan geçmesini önleyin.
+
+ATMOSFER VE ARAYÜZ
+
+Üç aydınlatma ön ayarı sunun: Sabah, Bulutlu ve Ay Işığı. Bu ön ayarlar arasında yumuşak geçişler olmalıdır.
+
+İsteğe bağlı ortam suyu, rüzgâr, kuş ve kürek çekme sesleri ekleyin. Ses yalnızca kullanıcı etkileşiminden sonra başlamalıdır.
+
+Minimal bir editoryal arayüz tasarlayın: zarif serif yazı tipinde “Northbound.”, ince bölüm etiketleri ve kompakt, yarı saydam bir kontrol çubuğu kullanın. Manzaranın önünü kapatmayın.
+
+PERFORMANS VE TESLİM
+
+Instancing, makul geometri bütçeleri, mesafeye bağlı ayrıntı seviyesi ve uygun boyutlu yansıma hedefleri kullanın. Sabit bir kare hızı vaat etmek yerine işleme kalitesini cihaza göre uyarlayın.
+
+Komut dosyaları ve gerekli varlıklar gömülü olan tek bir HTML dosyası teslim edin; dosya modern bir tarayıcıda doğrudan açılabilmelidir.
+
+Yönlendirmeyi, kamera modlarını, aydınlatma geçişlerini ve kürek çekme animasyonunu test edin. Gemiyi farklı açılardan inceleyin ve kıyı hattını alçak bakış noktalarından kontrol edin. Sahneyi tamamlanmış kabul etmeden önce geometri kesişimlerini, yansıma kusurlarını, aşırı parlamayı ve konsol hatalarını düzeltin.
+
+Daha fazla nesne eklemek yerine inandırıcı suya, güzel tasarlanmış bir uzun gemiye ve bütünlüklü bir ortama öncelik verin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103187935759655167) · [Orijinal gönderi](https://x.com/vib3coded/status/2103189762672611675) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2103211135214256350"></a>
+
+### Keşfedilebilir sisli sonbahar Three.js deneyimi
+
+[Simonas](https://x.com/SimonasLTU1) · 2026-09-24
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103211135214256350"><img src="../assets/previews/21d3a73dd776ae76e027f6f8987d49b4326796d6bcecadcd8751ed9247a1c893.jpg" width="840" loading="lazy" alt="Keşfedilebilir sisli sonbahar Three.js deneyimi"></a>
+
+Sisli, yağmurlu, sonbaharı andıran, gizemli ve nostaljik bir atmosfere sahip, tek bir HTML/CSS/JS dosyasında sunulan keşfedilebilir bir Three.js deneyimi oluşturun.
+
+**İstem**
+
+```text
+Tek bir HTML/CSS/JS dosyasında, keşfedilebilir bir Three.js deneyimi içinde sisli, yağmurlu, sonbaharı andıran, gizemli ve nostaljik bir atmosfer oluşturmanızı istiyorum.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103211135214256350) · [Orijinal gönderi](https://x.com/SimonasLTU1/status/2103211135214256350) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2103308083242082314"></a>
+
+### STILLWATER — Ay Işığındaki Bataklık Tarayıcı Deneyimi
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-25
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103308083242082314"><img src="../assets/previews/609344d27303517348f788d499244dbffce89132e635466fa012f1b8d2ee8109.jpg" width="840" loading="lazy" alt="STILLWATER — Ay Işığındaki Bataklık Tarayıcı Deneyimi"></a>
+
+Yayını yapan kişinin yanıtında paylaştığı, etkileşimli bir Three.js bataklık dünyası için hazırlanmış ayrıntılı prompt. Sular altında kalmış servi ağaçlarıyla dolu bir ortamda, kabinli tekneyle yönlendirilmiş bir süzülüş; sinematik yansımalar, atmosferik aydınlatma ve sis, sürükleyerek bakış yönünü değiştirme kamera kontrolleri ve editoryal HUD öğeleri tanımlıyor. İstenen deneyim, çatışmayı ve diğer oynanış sistemlerini özellikle dışarıda bırakıyor.
+
+**İstem**
+
+```text
+Tarayıcıda çalışan, STILLWATER adlı bir Three.js deneyimi oluşturun. Ton: İçinde kaybolacağınız, ay ışığıyla aydınlanan bir bataklık. Düşmanların olduğu bir oyun değil. Fotogerçekçi bir Unreal deneyimi de değil. Su yansımalarının başrolde olduğu, sakin ve pahalı görünümlü bir web dünyası. İnsanlar suya sağlıksız denebilecek kadar uzun süre bakmak istemeli.
+
+MEKÂN
+- Konum başlığı: THE DEEP SWAMP
+- HUD saati: 19:26
+- İlk adlandırılmış yer: Heron bend
+- Yer adının altında slogan: "Vahşi doğa için biraz yer bırak."
+- Vardığınızda gösterilecek keşif bildirimi: "Keşfedildi: Heron bend"
+
+DÜNYA
+Ayın doğuşu / gün batımının sonları sırasında sular altında kalmış bir servi bataklığı.
+- Siyah-yeşil suların içinde yükselen, diz biçimli budakları olan uzun ağaçlar
+- Uzun şeritler hâlinde sarkan İspanyol yosunları
+- Kıyılar boyunca kümelenmiş nilüfer yaprakları
+- Daha geniş bir kıvrıma açılan dar ve dolambaçlı bir kanal
+- Yoğun hacimsel sis, uzakta teal-yeşili tonlar, mor-pembe bulutlu gökyüzü
+- Su üzerinde uzun ve parçalı bir yansıma yolu oluşturan parlak bir ay
+- Gökyüzünü geçen birkaç kuş
+- Karanlığı delen, tekneden yayılan sıcak kabin ışığı
+
+SU (ucuza kaçmayın)
+Başrol bu.
+- Ağaçların, ayın, sisin ve tekne ışıklarının gerçek zamanlı yansımaları
+- Okyanus dalgaları değil, hafif bir kabarma
+- Yüzeyde duran ve sallanan nilüfer yaprakları
+- Köklerin yakınında kıyı köpüğü / koyu tanenli su
+- Ay ışığı yolunun sinematik hissettireceği kadar iyi ekran uzayı veya düzlemsel yansımalar
+- 60 fps'yi koruyun. Ağaçlar için LOD, bitkiler için instancing kullanın.
+
+TEKNE
+Küçük, yıpranmış bir kabinli sandal / iş teknesi.
+- Kıçta 86 gövde numarası
+- Beyaz kabin, koyu mavi gövde, sıcak iç mekân lambaları
+- Kanal boyunca boşta süzülme, isteğe bağlı yavaş yönlendirilmiş tur
+- HUD hız göstergesi yaklaşık 15.9 KNOTS
+- Mod etiketi: GUIDED DRIFT
+Oyuncu çevresine bakabilmeli. Tekne sinematik bir takip kamerasıyla izlenebilmeli veya yandan yörüngesel olarak görüntülenebilmeli.
+
+KAMERA
+- Ağaçların arasında teknenin üç çeyrek açıdan görünümüyle başlayın
+- Ay ışığıyla aydınlanan geçitte kıçın arkasından süzülün
+- Ön plandaki bir gövdenin yanından ara sıra kayarak geçin
+- Bakış yönünü değiştirmek için sürükleyin
+- İsteğe bağlı PHOTO MODE
+Bir FPS değil, doğa belgeseli hissi vermeli.
+
+ARAYÜZ — oyunvari değil, editoryal
+Sol üst: küçük işaret + STILLWATER
+Üst orta: THE DEEP SWAMP / 19:26, pusula yönü (ör. 314°)
+Sağ üst: sade yardımcı araç simgeleri
+Sol alt:
+  EXPLORING STILLWATER
+  Heron bend
+  Vahşi doğa için biraz yer bırak.
+  15.9 KNOTS
+  GUIDED DRIFT
+Sağ alt: PHOTO MODE, fps, Duraklat
+Alt orta: küçük bildirim "Keşfedildi: Heron bend"
+Küçük ipucu satırı: shader'lar / su / bakış için sürükleyin / fotoğraflar / yaban hayatı
+
+Görünüm: koyu, filmik renk düzeni; soluk yeşiller, macenta bulutlar ve tek bir ay parıltısı. Gerçekçilikten çok estetik. Şişkin bir debug arayüzü olmasın.
+
+TEKNİK
+Tarayıcıda Three.js. Prosedürel / instanced doğa. Özel su shader'ı. Sis. Yumuşak gölgeler veya önceden oluşturulmuş hissi veren alacakaranlık aydınlatması. Kendiniz üretebiliyorsanız hazır asset mağazasından alınmış bataklık paketi kullanmayın.
+
+ÇATIŞMA, envanter, ani korkutma efektleri veya hazine avı EKLEMEYİN. İleride suyun altında bir şey gizlenebilir — ama şimdi değil.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103308083242082314) · [Orijinal gönderi](https://x.com/YouWareAI/status/2103310302993621090) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2103351755971207251"></a>
+
+### Altın saat ışığında Roma savaş alanı sahnesi
+
+[tonysuri](https://x.com/tonysurix) · 2026-09-25
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103351755971207251"><img src="../assets/previews/38d510439e2c3695b5acbb44c83317a5c0824a4b8b8305c45187d66ca6ebeccd.jpg" width="840" loading="lazy" alt="Altın saat ışığında Roma savaş alanı sahnesi"></a>
+
+Sağlanan konsept görsel temel alınarak gerçekçi, altın saat ışığındaki bir Roma savaş alanı sahnesi oluşturmayı amaçlayan ayrıntılı bir Blender görevi. Görev; büyük kayalarla çevrili 1'e 1 arena, ayrıntılı ve bump map uygulanmış zemin, mümkün olduğunca prosedürel oluşturulan varlıklar, altın saat gökyüzü için bir skybox, sert gölgeler, yeniden kullanılabilir GLB varlıkları ve .blend dosyasıyla birlikte yapım timelapse videosunun teslimini kapsıyor.
+
+**İstem**
+
+```text
+GÖREV
+Sağlanan konsept görselden yola çıkarak Blender'da altın saat ışığında bir Roma savaş alanı sahnesi oluşturun. Üretim yapılabilir. Ortam ve parçaları için mevcut üretim araçlarıyla (Tripo ile https://t.co/JV0K8OtuWC)) 3B modeller oluşturabilir ve bunları bir araya getirebilirsiniz. Yine de her şey ölçeği eşleşen, malzemeleri tutarlı ve ışıklandırması bütünleşik tek bir uyumlu sahne oluşturmalıdır. Gereksinimler: Zeminde bump map kullanın ve zemini son derece ayrıntılı tutun.
+Zeminde, etrafına büyük kayalar yerleştirerek 1'e 1 arena oluşturacak dairesel boş bir alan yaratın.
+Her şeyi gerçekçi şekilde render edin.
+Mümkün olan yerlerde varlıkları prosedürel olarak oluşturun.
+Altın saat gökyüzü için bir skybox oluşturun.
+Sert gölgeler kullanın.
+Nesneleri (bayraklar, sancaklar, miğferler, kayalar vb.) yeniden kullanın. Her nesne için bir GLB dışa aktarın ve bu varlıkları yeniden kullanın.
+Sağlanan görseli mümkün olduğunca yakından ve doğru şekilde eşleştirin.
+TİMELAPSE GEREKSİNİMİ
+Sahneyi oluştururken her anlamlı eklemeden sonra (sırayla her yeni nesne, modifier geçişi, malzeme adımı ve ışıklandırma adımı) görünüm alanının ekran görüntüsünü numaralandırılmış bir timelapse/ klasörüne kaydedin. Çalışma tamamlandığında bu kareleri 2 fps (kare başına 0,5 sn) hızında bir timelapse videosunda birleştirin; böylece yapım süreci baştan sona izlenebilsin. Timelapse videosunu ana dosyalarla birlikte teslim edin.
+DELIVERABLES
+Kamerası ve görünüm alanı, görüntünün orijinaliyle tam olarak eşleşeceği şekilde ayarlanmış .blend dosyası.
+Yapım timelapse videosu.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103351755971207251) · [Orijinal gönderi](https://x.com/tonysurix/status/2103352274269675532) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2103432732386664591"></a>
+
+### Pitaya Jelly
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-25
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103432732386664591"><img src="../assets/previews/7e480a4fe2b6b8dbe7c3cf58fb1b37907e4c7b12601559eec331eadf7080282a.jpg" width="840" loading="lazy" alt="Pitaya Jelly"></a>
+
+GPT-6 Astra için yazar tarafından paylaşılan bu prompt, tarayıcı tabanlı, etkileşimli bir 3B ejder meyvesi jölesi malzeme deneyi oluşturur. Prosedürel WebGPU geometrisi, yarı saydam jelimsi malzemeler, yumuşak cisim deformasyonu, sürüklenebilir kabuk taç yaprakları, dokunmatik destek, hazır ayarlar, simülasyon verileri ve aydınlık, stüdyo tarzı bir arayüz tanımlar.
+
+**İstem**
+
+```text
+“Pitaya Jelly” adlı etkileşimli bir 3B sahne oluşturun — yumuşak, yarı saydam jöleden yapılmış bir ejder meyvesi yarımı. Projenin tamamını, gerçek WebGPU ile oluşturma ve WGSL shader'ları kullanarak tek bir HTML dosyasında geliştirin. Hazır model veya görsel varlık kullanmayın.
+
+APPEARANCE
+
+Açık renkli bir stüdyo yüzeyinde, kesik tarafı yukarı bakacak şekilde duran büyük bir ejder meyvesi yarımı.
+Yoğun frambuaz pembesi kabuk, ince ve açık renkli bir iç kabuk ile sedefimsi beyaz meyve eti.
+Meyve etine doğal biçimde dağılmış yaklaşık 250 küçük siyah çekirdek.
+Meyvenin çevresinde, pembe tabanlardan yeşil uçlara geçiş yapan 12–14 etli kabuk yaprağı.
+Işığı kıran, içinde küçük kabarcıklar bulunan parlak ve ıslak bir yüzey ile yumuşak bir temas gölgesi.
+Malzeme sert plastik gibi değil, yumuşak jelibon gibi görünmeli. Aşırı patlamış parlak alanlar oluşturmadan doygun renkleri koruyun.
+
+FİZİK VE ETKİLEŞİM
+
+Elastik bağlantılara ve hacmi koruyan kısıtlamalara, örneğin XPBD'ye sahip hacimsel bir mesh kullanarak gerçek yumuşak cisim deformasyonu uygulayın.
+Kullanıcılar meyve etini fare veya parmakla tutup esnetebilmeli ve bırakabilmeli.
+Deformasyon, tüm nesneyi yalnızca ötelemek yerine, tutulan noktanın çevresinde yoğunlaşmalı.
+Bırakıldıktan sonra meyve sallanmalı, titreşmeli ve yavaşça özgün şekline dönmeli.
+Kabuk yapraklarını tek tek sürüklenebilir yapın. Meyve etinden daha yumuşak olmalı, meyveye bağlı kalırken bükülüp eski hâline dönmeliler.
+Çekirdekler, yüzey deforme olurken yüzeyi takip etmeli; havada süzülmemeli veya meyve etinin içine gömülmemeli.
+Güçlü çekişler sırasında zemine temas sağlayarak ve ters dönmüş elemanlara karşı koruma uygulayarak simülasyonu kararlı tutun.
+
+GÖRSEL TASARIM
+
+Editoryal estetiğe sahip, minimal ve açık temalı bir stüdyo arayüzü kullanın: bol beyaz alan, ince kenarlıklar, ölçülü kontroller ve gereksiz süslemeler olmasın.
+
+Sol üst:
+“MALZEME ÇALIŞMALARI / NO. 019”
+İki satırdan oluşan, büyük ve italik serif başlık:
+“Pitaya Jelly.”
+
+Bunun altında:
+“Biraz vahşi.”
+“Biraz tatlı.”
+“Çok yumuşak bir ejderha.”
+Sağa, içinde aşağıdaki öğelerin bulunduğu ve başlığı “NUMUNE” olan yüzen bir panel ekleyin:
+
+Yoğunluk rozeti: ρ 1.04 g/cm³.
+Üç hazır ayar:
+Pearl — beyaz meyve eti ve pembe kabuk.
+Ruby — frambuaz renkli meyve eti ve pembe kabuk.
+Gold — açık renkli meyve eti ve altın rengi kabuk.
+Değerleri görünür olan Sertlik ve İç sönümleme kaydırıcıları.
+“Bir dürtme ver” ve “Sıfırla” düğmeleri.
+
+“¼ hız” ve “Mesh'i göster” onay kutuları.
+
+Bir “Duraklat” düğmesi.
+Ayrıca şunları ekleyin:
+Çıkış seçeneği bulunan bir tam ekran düğmesi.
+Bir “WEBGPU · CANLI” durum göstergesi.
+Kütle, dinlenim hacmi yüzdesi ve kinetik enerji için canlı değer göstergeleri.
+Kısa bir etkileşim ipucu: “Meyve etini çek. Bir yaprağı çekiştir. Bırak.”
+Uygulamanın nasıl çalıştığını doğru biçimde açıklayan, daraltılıp genişletilebilen bir “Deneyin içi” bölümü.
+TEKNİK GEREKSİNİMLER
+pitaya-jelly-webgpu.html adlı, kendi başına çalışabilen tek bir dosya teslim edin.
+
+Canvas 2D taklidi yerine gerçek WebGPU ile oluşturma kullanın.
+
+Tüm geometriyi prosedürel olarak oluşturun.
+Kalınlığı hesaba katan kırılma, Fresnel yansımaları ve yumuşak stüdyo aydınlatması kullanın.
+Tutarlı davranış için sabit bir simülasyon zaman adımı kullanın.
+Duyarlı bir yerleşimle masaüstü ve dokunmatik etkileşimi destekleyin.
+Sürükleme sırasında maliyetli geometri yeniden oluşturma veya shader derlemesinden kaçının.
+
+WebGPU kullanılamadığında net bir geri dönüş mesajı gösterin.
+
+Sürükleme, bırakma, şeklin geri kazanılması, hazır ayarlar, sıfırlama, duraklatma, tam ekran ve mobil yerleşimi doğrulayın.
+Temel öncelikler inandırıcı jöle davranışı, güzel malzemeler ve tatmin edici etkileşimdir. Sonuç, özenle hazırlanmış ve oynanabilir bir malzeme deneyi hissi vermeli.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103432732386664591) · [Orijinal gönderi](https://x.com/vib3coded/status/2103433535604265052) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2103456264785424530"></a>
+
+### VRChat için kıyafet 3B modelleme
+
+[のわ〜る👼🍆🐄](https://x.com/Noir4247) · 2026-09-25
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103456264785424530"><img src="../assets/previews/60090a53a9e0360367a1d5cba9481eec9d8360afd91640dfc431b8094207ae43.jpg" width="840" loading="lazy" alt="VRChat için kıyafet 3B modelleme"></a>
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103456264785424530"><img src="../assets/previews/dc0217bbe2b6526425252bd6e7bb1ba32317d9de5450561768507320ff81f20b.jpg" width="840" loading="lazy" alt="VRChat için kıyafet 3B modelleme"></a>
+
+Paylaşımı yapan kişi, ChatGPT ile oluşturduğu tasarım çizimini temel alarak “VRChat için bir kıyafet oluştur” talimatını verdiğini ve Astra’nın Blender’da kıyafeti modellediğini bildiriyor.
+
+**İstem**
+
+```text
+VRChat için bir kıyafet oluştur
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103456264785424530) · [Orijinal gönderi](https://x.com/Noir4247/status/2103456264785424530) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2103482826519986544"></a>
+
+### Blender'da kobay oluştur
+
+[かよこ](https://x.com/kayokojoe) · 2026-09-25
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103482826519986544"><img src="../assets/previews/34127219152b8602865f0daa82890936efe4c212c105901ec6f6c98503b4e98e.jpg" width="840" loading="lazy" alt="Blender'da kobay oluştur"></a>
+
+Paylaşımı yapan kişinin, fotoğraf göstermeden Codex'ten (GPT-6 Astra High) kobay oluşturmasını istediği prompt.
+
+**İstem**
+
+```text
+Blender'da bir kobay oluştur
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103482826519986544) · [Orijinal gönderi](https://x.com/kayokojoe/status/2103482826519986544) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2103486103831339269"></a>
+
+### Three.js'te voxel tarzı Japon bahçesi
+
+[Marcel](https://x.com/marcthecreatorr) · 2026-09-25
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103486103831339269"><img src="../assets/previews/b81a2575e66269b3d4175d1d6ed6250955d3a1d3c082c0bb5c26ad99afbed1c3.jpg" width="840" loading="lazy" alt="Three.js'te voxel tarzı Japon bahçesi"></a>
+
+Pagoda, minik köylüler ve uçan bir ejderha içeren etkileşimli, voxel tarzı bir Japon bahçesi için prompt. Paylaşımı yapan kişi, bu promptun tek seferlik bir karşılaştırma için Astra ve Space Bunny'ye aynen verildiğini söylüyor.
+
+**İstem**
+
+```text
+Three.js'te pagoda, minik köylüler, uçan bir ejderha ve etkileşimli ayrıntılar içeren, ayrıntılı bir voxel tarzı Japon bahçesi oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103486103831339269) · [Orijinal gönderi](https://x.com/marcthecreatorr/status/2103486103831339269) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Sonsuz Tank Savunması
@@ -4094,7 +4193,7 @@ Kaynak kodu, lockfile’ı, npm geliştirme/derleme komutlarını ve statik çı
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 283 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 291 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

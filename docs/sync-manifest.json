@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "model": "gpt-6-astra",
   "count": 100,
-  "totalCount": 283,
+  "totalCount": 291,
   "sourceCodeCount": 12,
   "limit": 100,
   "locales": [
@@ -28,14 +28,6 @@
     "2099206962344800541",
     "2100271998618177864",
     "mosswing-mobile-3d-tap-to-flap-game",
-    "2097313247116341424",
-    "2097320830602809682",
-    "2097323734504017936",
-    "2097336230078013598",
-    "2097343467026289039",
-    "2097534290112188602",
-    "2097602565110419781",
-    "2097675660873605422",
     "2097678911882809407",
     "2097730920224534868",
     "2097797479488246071",
@@ -116,6 +108,14 @@
     "2102915300295369208",
     "2102956340482289944",
     "2103062348168618280",
+    "2103187935759655167",
+    "2103211135214256350",
+    "2103308083242082314",
+    "2103351755971207251",
+    "2103432732386664591",
+    "2103456264785424530",
+    "2103482826519986544",
+    "2103486103831339269",
     "battle-city-3d",
     "crazy-tanks-3d-island-artillery",
     "odd-arms",
@@ -136,14 +136,6 @@
     "2099206962344800541",
     "2100271998618177864",
     "mosswing-mobile-3d-tap-to-flap-game",
-    "2097313247116341424",
-    "2097320830602809682",
-    "2097323734504017936",
-    "2097336230078013598",
-    "2097343467026289039",
-    "2097534290112188602",
-    "2097602565110419781",
-    "2097675660873605422",
     "2097678911882809407",
     "2097730920224534868",
     "2097797479488246071",
@@ -224,6 +216,14 @@
     "2102915300295369208",
     "2102956340482289944",
     "2103062348168618280",
+    "2103187935759655167",
+    "2103211135214256350",
+    "2103308083242082314",
+    "2103351755971207251",
+    "2103432732386664591",
+    "2103456264785424530",
+    "2103482826519986544",
+    "2103486103831339269",
     "battle-city-3d",
     "crazy-tanks-3d-island-artillery",
     "odd-arms",
@@ -236,78 +236,78 @@
   "files": [
     {
       "path": "assets/manifest.json",
-      "sha256": "07e763ca0964a0616f114c634b1aac632560ce583d806e0b77c673b98d9ed088",
-      "bytes": 55599
+      "sha256": "b1cd41e97ccd19871477e8fcf9caa439fe2ca23f701908bf5ff2162857d05bd4",
+      "bytes": 56045
     },
     {
       "path": "docs/catalog.de.md",
-      "sha256": "bbba3bba787fe050491f810c0cd04814a7177efcb8fe6d56bdb70f98464fc434",
-      "bytes": 370667
+      "sha256": "a62463c8bd9eeb2705b8187a58c2028ad89264629ad941e613709af70398db31",
+      "bytes": 369987
     },
     {
       "path": "docs/catalog.en.md",
-      "sha256": "4814f53ad9aab88a322532672ec9fffc649e9d43029a02bec638fb13b75bd90a",
-      "bytes": 314726
+      "sha256": "061b0750b41ae313c10a7cc70776c5adb3598700ac359be39b7375befa210b6c",
+      "bytes": 313178
     },
     {
       "path": "docs/catalog.es.md",
-      "sha256": "2dc06287ce4d761bc38896d6545c402cbf4714bfd279709f97c777ce203dd01f",
-      "bytes": 374269
+      "sha256": "27812468a7bf7881161ca66104ad51379b451fee03ec9a7b1d32d0e47f6fd60b",
+      "bytes": 373031
     },
     {
       "path": "docs/catalog.fr.md",
-      "sha256": "d053058c16debed810489555c2dbeb722e55f427a3b62db2f583dcf9f59dfb33",
-      "bytes": 390517
+      "sha256": "e4ab26374c3eb8ba06f00706ff626b64bcf1b2f8b6dac45278ad3ad13e8e0500",
+      "bytes": 389851
     },
     {
       "path": "docs/catalog.it.md",
-      "sha256": "c076fb77122a9a7ba17a702a2e5f2b4e9c132bae67cccee221d1be66aa26a17d",
-      "bytes": 365198
+      "sha256": "ea12941f7d8bf4c2f40c6d581eaf5aa35fbbf0e5dd26afe95abc1ee437962a98",
+      "bytes": 363813
     },
     {
       "path": "docs/catalog.ja.md",
-      "sha256": "ede488a7c7dfac4ea94608214498e814bd1b27ce0db2571e90a113f75908ddca",
-      "bytes": 400080
+      "sha256": "4636937076f355df157775d3e8479b6b36fb85bb2f7d78660d34ce660a64c9e1",
+      "bytes": 400821
     },
     {
       "path": "docs/catalog.ko.md",
-      "sha256": "abd861b98bb08453d0cf7c5ef46e562ce2d611c1c3dc2b13d10e23ea118c488b",
-      "bytes": 381257
+      "sha256": "5c42c517bbdb733773de41ae5debc5ae40cfc73f9c8495b9171cad08e2018c10",
+      "bytes": 380846
     },
     {
       "path": "docs/catalog.pt.md",
-      "sha256": "bc1ed11e4210a21d0e5c4137c335736cfd336769b23c5f8fb0f35412b3df2243",
-      "bytes": 361498
+      "sha256": "82bad9bfd6b2667744562165d54c032612c2209a7a0acece31f560359de11f44",
+      "bytes": 360549
     },
     {
       "path": "docs/catalog.ru.md",
-      "sha256": "497718935b68bb059ac465c2a6e4a80a7ebc5c82d34d319b9eff6fbfc8b5f664",
-      "bytes": 563549
+      "sha256": "92db3f0769a5550ba3b16aa7399819db70ebd655deeee49dbc8e5514f602bb43",
+      "bytes": 562562
     },
     {
       "path": "docs/catalog.tr.md",
-      "sha256": "bc5b21549926c2590514eba610f3c116ac6664c23c957903023a018b896bc8d5",
-      "bytes": 364983
+      "sha256": "6ce35ff3614013c7f739466e6c48a1b58b49d1223fc837406b9ac96f4a84fad9",
+      "bytes": 364656
     },
     {
       "path": "docs/catalog.uk.md",
-      "sha256": "f1a3b91e9375d378aefb3ad780e0ac2d9adfc83764e7124b74382faa0eb8d52a",
-      "bytes": 564615
+      "sha256": "d0e9c505cfcb377f9f88eddc1f2ed5015015494f5a6de1265dd77cf8586f165d",
+      "bytes": 563173
     },
     {
       "path": "docs/catalog.vi.md",
-      "sha256": "5c35a58c58d1f1f807fcbe8208c433f691bdc9296f22d09cf9395186856b7fcc",
-      "bytes": 407207
+      "sha256": "b61767d8d8806a9e14fea73bb216ea3f052e96e71dd48179bd84e902d4443070",
+      "bytes": 407707
     },
     {
       "path": "docs/catalog.zh-Hant.md",
-      "sha256": "f669a4c889bdde621302a4615a5155313b05911ff1f1b1fe949093cff8808599",
-      "bytes": 300656
+      "sha256": "08d50acf48d2a3e529e571778f87b598ee58d4713a26b7f33b172755957c011f",
+      "bytes": 301718
     },
     {
       "path": "docs/catalog.zh.md",
-      "sha256": "53f21bd4093ff15228527d0486c3cb8834bc1a1af12a785554895b123c2c46f8",
-      "bytes": 297501
+      "sha256": "3f0bd6d143677fefc9d8d693f9e209f2eb37c64eb1590fbd483d11f62cba3524",
+      "bytes": 299276
     },
     {
       "path": "docs/with-code.md",
@@ -316,13 +316,13 @@
     },
     {
       "path": "README.md",
-      "sha256": "ead63cea4fe1bff2fe99f44649085a72081d847885605c5ab3a28923b2e87a54",
-      "bytes": 314312
+      "sha256": "3aad5cfe1b99ad183f417245e0388504793e42a762425cab92d6253d24e1899a",
+      "bytes": 312764
     },
     {
       "path": "README.zh-CN.md",
-      "sha256": "c26584673c1f410bcf8ac2f12ba99e6fdb58a123ced30cac0ab2aad993504070",
-      "bytes": 297087
+      "sha256": "4562b74524b2da2b30561d385ae8487258b7af9a5c42aca8e1819eb26ea7f3b3",
+      "bytes": 298862
     }
   ]
 }

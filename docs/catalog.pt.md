@@ -28,7 +28,7 @@
 **Um ponto de partida para seu próximo jogo, cena ou mundo interativo.**
 
 
-**283 · Prompts mais recentes do Astra**
+**291 · Prompts mais recentes do Astra**
 
 ## Projetos em destaque
 
@@ -56,14 +56,6 @@
 - [Explorador interativo de anatomia 3D](#2099206962344800541) · GitHub
 - [Demo de gráficos de fantasia isométrica](#2100271998618177864) · GitHub
 - [Mosswing: jogo 3D mobile de toque para bater asas](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Melhorar os traços de um modelo 3D no Blender usando uma imagem de referência](#2097313247116341424)
-- [Recrie uma versão mini 3D de League of Legends](#2097320830602809682)
-- [Projeto WebGL em TypeScript + Three.js do Salão de Oração pelas Boas Colheitas, no Templo do Céu, em Pequim](#2097323734504017936)
-- [Recrie um jogo de League of Legends para navegador](#2097336230078013598)
-- [Mundo aconchegante de lago e área alagada](#2097343467026289039)
-- [Cena VHS dos Backrooms criada no Blender](#2097534290112188602)
-- [Site imersivo de campo de arroz em 3D](#2097602565110419781)
-- [Como GPT-6 Astra e Blender foram usados para criar uma cena cômica de um braço robótico perseguindo um gato](#2097675660873605422)
 - [Construir THE LAST GATE: corrida com multidão e portões matemáticos](#2097678911882809407)
 - [Simulação 3D em tempo real de uma fábrica e suas plataformas de lançamento](#2097730920224534868)
 - [Clone de Minecraft com multijogador](#2097797479488246071)
@@ -144,6 +136,14 @@
 - [Cena HTML hiper-realista de uma fogueira acesa no deserto](#2102915300295369208)
 - [Codex em Three.js](#2102956340482289944)
 - [Fatia cítrica de goma 3D interativa](#2103062348168618280)
+- [Rumo ao Norte: Jornada Interativa em um Navio Viking](#2103187935759655167)
+- [Experiência explorável de outono enevoado em Three.js](#2103211135214256350)
+- [STILLWATER — Experiência de pântano iluminado pela lua no navegador](#2103308083242082314)
+- [Cenário de batalha romana na hora dourada](#2103351755971207251)
+- [Geleia de Pitaya](#2103432732386664591)
+- [Modelagem 3D de roupas para VRChat](#2103456264785424530)
+- [Criar um porquinho-da-índia no Blender](#2103482826519986544)
+- [Jardim japonês em estilo voxel no Three.js](#2103486103831339269)
 - [Battle City 3D: Defesa de Tanques sem Fim](#battle-city-3d)
 - [Crazy Tanks — Artilharia 3D em uma ilha](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Jogo de sobrevivência com armas bizarras](#odd-arms)
@@ -326,279 +326,6 @@ Remasterize o clássico jogo de “toque para bater asas” — aquele em que vo
 ```
 
 [Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Publicação original](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Código-fonte](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Demonstração](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2097313247116341424"></a>
-
-### Melhorar os traços de um modelo 3D no Blender usando uma imagem de referência
-
-[Carlos Olivera Terrazas](https://x.com/carlos_olivera) · 2026-09-08
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097313247116341424"><img src="../assets/previews/8528f6aaa8b6070a8c1e3732f0791feac42ed1ba7d0c23cc85c7c9e0212600a1.png" width="840" loading="lazy" alt="Melhorar os traços de um modelo 3D no Blender usando uma imagem de referência"></a>
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097313247116341424"><img src="../assets/previews/815f26c4feffea428b39e1c5d57de7f183ffc87c517bedb34755eec115e32d6e.png" width="840" loading="lazy" alt="Melhorar os traços de um modelo 3D no Blender usando uma imagem de referência"></a>
-
-O autor propõe um desafio para o GPT-6 Astra: usar a primeira imagem como referência para melhorar os traços da segunda imagem em um projeto de modelagem 3D no Blender.
-
-**Prompt**
-
-```text
-usar a primeira imagem como referência e melhorar os traços da segunda imagem.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097313247116341424) · [Publicação original](https://x.com/carlos_olivera/status/2097313247116341424) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2097320830602809682"></a>
-
-### Recrie uma versão mini 3D de League of Legends
-
-[岚叔](https://x.com/LufzzLiz) · 2026-09-08
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097320830602809682"><img src="../assets/previews/36b98467e6157525383fbc35526f9c07f2cadf9f16b1559da917bb3cc5fc4eca.jpg" width="840" loading="lazy" alt="Recrie uma versão mini 3D de League of Legends"></a>
-
-A publicação recomenda um prompt para fazer a Astra criar um minijogo no estilo de League of Legends, com mapa, campeões, tropas, torres e a interface nativa do jogo. Como se trata de uma recomendação, não é possível confirmar que esse foi o prompt usado na obra apresentada.
-
-**Prompt**
-
-```text
-Etapa 1: faça um jogo exatamente igual a League of Legends. Tudo o que existe em LoL precisa estar presente: o mesmo mapa, qualidade visual equivalente, campeões, tropas, torres e muito mais. Comece escolhendo 5 campeões.
-
-Etapa 2: dê uma bronca na Astra: isso não é League, é uma cópia barata. Primeiro, escreva um plano; depois, implemente tudo com precisão, respeitando as dimensões e as mecânicas reais. Não use HTML sobreposto para a interface: ela precisa ser nativa, bonita e parecer de um jogo de verdade.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097320830602809682) · [Publicação original](https://x.com/LufzzLiz/status/2097320830602809682) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2097323734504017936"></a>
-
-### Projeto WebGL em TypeScript + Three.js do Salão de Oração pelas Boas Colheitas, no Templo do Céu, em Pequim
-
-[govin.eth \| G哥](https://x.com/goan999999) · 2026-09-08
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097323734504017936"><img src="../assets/previews/b96633c15d16a1fad0fe0e700c8bec74e9157a05c86bbf84264cea903f333c4a.jpg" width="840" loading="lazy" alt="Projeto WebGL em TypeScript + Three.js do Salão de Oração pelas Boas Colheitas, no Templo do Céu, em Pequim"></a>
-
-A publicação original apresenta um modelo 3D e uma experiência web do Salão de Oração pelas Boas Colheitas, no Templo do Céu, em Pequim, criados com GPT-6 Astra e Three.js; depois, o autor compartilhou o prompt completo em chinês usado para criar esse tipo de projeto.
-
-**Prompt**
-
-```text
-Use TypeScript + Three.js para criar um projeto WebGL completo e executável do Salão de Oração pelas Boas Colheitas, no Templo do Céu, em Pequim. Toda a geometria arquitetônica, as texturas e as animações devem ser geradas proceduralmente pelo código em tempo de execução; é proibido carregar modelos externos .glb, .gltf, .obj, .fbx etc.
-
-Reconstrução arquitetônica:
-três níveis de cúpulas circulares com telhas azuis esmaltadas, cada uma com tamanho e altura diferentes, um remate dourado, colunas vermelhas, corpo circular do templo, pinturas decorativas azuis, verdes e douradas, conjuntos de suporte dougong, portas e janelas.
-Use perfis curvos, superfícies de revolução ou geometria personalizada no telhado para representar beirais amplos e levemente curvados para cima; não substitua isso por um cone simples.
-Base circular branca de mármore em três níveis, com escadaria central, balaustradas e colunas; mantenha proporções equilibradas e uma hierarquia visual clara.
-Gere proceduralmente as texturas das telhas e os elementos decorativos; para componentes repetidos, priorize o uso de InstancedMesh.
-
-Cena e interação:
-céu azul de Pequim, piso de praça e pouca vegetação; use DirectionalLight combinada com AmbientLight／HemisphereLight, habilite sombras, oclusão ambiental e um tone mapping cinematográfico moderado.
-Implemente OrbitControls para rotação e zoom, além de uma apresentação com rotação automática lenta, que possa ser ativada ou desativada.
-Adicione um botão para alternar entre “explodir／recompor”: telhado, colunas, conjuntos de suporte, paredes, portas e janelas, balaustradas e base devem se separar suavemente por níveis e depois retornar com precisão às posições originais. A animação deve ser controlada pelo código, com ritmo escalonado entre os elementos, sem teletransporte.
-
-Entregue diretamente o projeto completo e as instruções para iniciá-lo. A página deve se adaptar de forma responsiva ao tamanho da janela, oferecer alta qualidade visual e interação fluida, e manter um bom desempenho em navegadores de desktop comuns por meio de instanciação, detalhes geométricos adequados e otimizações de renderização. Organize o código em módulos claros e fáceis de expandir; valide o build e os principais recursos e informe honestamente o que não tiver sido verificado.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097323734504017936) · [Publicação original](https://x.com/goan999999/status/2097323734504017936) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2097336230078013598"></a>
-
-### Recrie um jogo de League of Legends para navegador
-
-[李岳](https://x.com/liyue_ai) · 2026-09-08
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097336230078013598"><img src="../assets/previews/36b98467e6157525383fbc35526f9c07f2cadf9f16b1559da917bb3cc5fc4eca.jpg" width="840" loading="lazy" alt="Recrie um jogo de League of Legends para navegador"></a>
-
-O autor reproduz e lista um prompt para criar um jogo para navegador no estilo de League of Legends, solicitando a recriação do mapa, dos campeões, dos minions, das torres e de uma mecânica de início com cinco campeões. O prompt descreve um objetivo de criação de jogo 3D, mas a publicação não deixa claro se ele foi realmente usado pelo próprio autor.
-
-**Prompt**
-
-```text
-Crie um jogo exatamente igual a League of Legends. Ele precisa incluir todo o conteúdo de League of Legends, com o mesmo mapa e um nível de qualidade gráfica equivalente, incluindo campeões, minions, torres e outros elementos. Comece com 5 campeões selecionados.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097336230078013598) · [Publicação original](https://x.com/liyue_ai/status/2097336230078013598) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2097343467026289039"></a>
-
-### Mundo aconchegante de lago e área alagada
-
-[Givros](https://x.com/givros) · 2026-09-08
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097343467026289039"><img src="../assets/previews/23dbba2d83ef0ccef6ab1db4578e1b513eb19d4e0c3571a1509f628963f56423.jpg" width="840" loading="lazy" alt="Mundo aconchegante de lago e área alagada"></a>
-
-Um prompt reutilizável para criar um cenário 3D aconchegante de área alagada, com lago, cabana, ilha, casa abandonada, barco, trilhas, vegetação, fauna e uma floresta ao redor.
-
-**Prompt**
-
-```text
-Crie um lago aconchegante com uma cabana de pescador na margem pantanosa. Coloque uma pequena ilha no meio da água, com uma casa abandonada escondida entre as árvores. Adicione um barco de pesca ao lado da cabana, folhas de vitória-régia, juncos, peixes saltando, fauna típica de áreas alagadas, uma pequena praia, uma trilha levando à praia e à cabana, outra trilha seguindo de volta para a floresta e uma linha de árvores ao redor de todo o cenário.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097343467026289039) · [Publicação original](https://x.com/givros/status/2097343467026289039) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2097534290112188602"></a>
-
-### Cena VHS dos Backrooms criada no Blender
-
-[CHRIS FIRST](https://x.com/chrisfirst) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097534290112188602"><img src="../assets/previews/721eed98f68b8ad4264b4fbd922b185c7e6501834c9aa828a0b3b369fba5ff28.jpg" width="840" loading="lazy" alt="Cena VHS dos Backrooms criada no Blender"></a>
-
-Cria uma cena fotorrealista no Blender que retrata, em primeira pessoa e no estilo VHS, uma jornada pelos Backrooms, com câmera na mão em pânico, salas e corredores labirínticos e duração de 30 segundos.
-
-**Prompt**
-
-```text
-Renderize no Blender uma cena que pareça uma gravação em fita VHS, em primeira pessoa, de alguém caminhando pelos Backrooms. A cena deve transmitir uma sensação fotorrealista, com movimentos de câmera na mão em pânico. A pessoa deve olhar ao redor e então começar a correr pelo labirinto dos Backrooms. Algumas salas devem ser grandes e abertas, enquanto outras devem ter corredores intermináveis. Pânico absoluto. Duração de 30 segundos.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097534290112188602) · [Publicação original](https://x.com/chrisfirst/status/2097534290112188602) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2097602565110419781"></a>
-
-### Site imersivo de campo de arroz em 3D
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097602565110419781"><img src="../assets/previews/00a3d885b9462dcaa8cd54c0109462182b6382ea9924e0239258d2b2c51ad744.jpg" width="840" loading="lazy" alt="Site imersivo de campo de arroz em 3D"></a>
-
-Prompt para criar, no navegador com Three.js, uma paisagem de campo de arroz em 3D com animação natural de vento, modos de iluminação e câmera, controles responsivos, vegetação procedural e renderização em tempo real.
-
-**Prompt**
-
-```text
-Crie um site imersivo de campo de arroz em 3D que rode no navegador, com o tema:
-“Um mar de verde / O vento entre os campos de arroz.”
-Conclua o código, instale as dependências necessárias e inicie uma prévia. Não pare em uma proposta ou plano de implementação.
-
-1. Direção visual
-
-A atmosfera geral deve transmitir uma sensação natural, tranquila e refinada, como um site de paisagem interativo com uma direção de arte coesa.
-
-A cena deve incluir:
-
-Primeiro plano: folhas finas, caules curvos e algumas panículas de arroz pendentes, claramente distinguíveis.
-
-Plano intermediário: um campo de arroz contínuo que se estende ao longe, com densidade suficiente e variações naturais no espaçamento.
-Fundo: uma linha irregular de árvores, colinas baixas em camadas e perspectiva atmosférica sutil.
-Céu: tons suaves de azul-acinzentado, variação sutil nas nuvens e uma transição natural no horizonte.
-Posicione a câmera padrão ligeiramente acima das panículas de arroz, voltada para o campo e para as colinas distantes.
-O céu deve ocupar aproximadamente um terço do quadro, enquanto o campo de arroz domina a composição.
-Use principalmente vegetação em verde-escuro, verde-oliva e verde-amarelado. Evite verde fluorescente.
-Varie naturalmente a altura, a orientação, a curvatura e a cor das plantas de arroz.
-
-2. Requisitos de animação
-O vento deve aparecer como ondas contínuas que atravessam lateralmente o campo:
-Mantenha as raízes praticamente fixas, com um movimento progressivamente mais intenso em direção às pontas das folhas e às panículas.
-As plantas da mesma área devem se mover de forma coerente, preservando variações individuais.
-
-Combine ondas de vento lentas e amplas com perturbações locais sutis.
-
-Evite fazer todas as plantas balançarem em perfeita sincronia. Não desloque as plantas inteiras nem faça as folhas piscarem.
-
-Use uma brisa padrão suave, confortável de observar por longos períodos.
-3. Requisitos de interação
-Ofereça controles simples que afetem a cena de forma efetiva:
-Slider de velocidade do vento: ajuste suavemente a intensidade e a velocidade da animação do vento.
-Modos de iluminação: Manhã, Tarde e Hora dourada. Coordene as mudanças no céu, na direção da luz, na temperatura de cor e na cor da neblina.
-
-Modos de visualização: Campo aberto e Entre os arrozais, com transições suaves de câmera.
-
-Pausar/Retomar: pause e retome a animação do ambiente.
-
-O movimento do mouse pode produzir uma resposta muito sutil da câmera, mas não deve causar tontura.
-Por padrão, não gire a câmera continuamente em ângulos amplos.
-4. Design da interface
-Use uma cena em tela cheia com uma interface sobreposta:
-Canto superior esquerdo: um pequeno logotipo VERDANT.
-
-Canto inferior esquerdo: o título com serifa “Um mar de verde.”
-Abaixo dele, o subtítulo menor “Nada para fazer. Apenas acompanhe a brisa.”
-Canto inferior direito: um painel de controle compacto, semitransparente e verde-escuro.
-
-Mantenha o texto legível, use espaçamento generoso e evite obstruir a paisagem principal com os controles.
-
-Os controles devem continuar utilizáveis em telas estreitas, sem sobreposição.
-
-5. Tecnologia e desempenho
-Use Three.js. Se já houver um projeto, mantenha o ambiente de build existente.
-Use instancing e animação de vértices na GPU para lidar com grandes quantidades de vegetação.
-Evite criar um objeto de desenho separado para cada planta ou atualizar todas as plantas na CPU a cada quadro.
-Reduza os detalhes da vegetação a distâncias maiores e aplique um limite razoável ao pixel ratio.
-Prefira geometria e materiais procedurais para garantir o carregamento confiável dos recursos.
-A cena deve ser renderizada em tempo real. Não use uma imagem ou um vídeo de paisagem em tela cheia como cena principal.
-Os nomes dos modelos e os rótulos de comparação serão adicionados na pós-produção; não os inclua na cena.
-6. Critérios de conclusão
-Após a implementação, use as ferramentas de navegador disponíveis para verificar se:
-A visualização inicial é renderizada corretamente, sem erros óbvios no console.
-
-Todos os controles afetam a cena de forma efetiva.
-
-O primeiro plano, o plano intermediário e o fundo têm profundidade e camadas distinguíveis.
-As plantas de arroz são mais do que simples linhas verdes verticais.
-O movimento do vento é contínuo e natural, sem repetição uniforme evidente.
-As transições de câmera são suaves, e a interface continua utilizável em telas estreitas.
-Se não puder realizar alguma verificação específica, informe isso claramente.
-Por fim, forneça instruções para iniciar o projeto e um resumo dos recursos realmente implementados.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097602565110419781) · [Publicação original](https://x.com/YouWareAI/status/2097602565110419781) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2097675660873605422"></a>
-
-### Como GPT-6 Astra e Blender foram usados para criar uma cena cômica de um braço robótico perseguindo um gato
-
-[探路AI](https://x.com/TanLuAI) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097675660873605422"><img src="../assets/previews/b6d2405bd8f8e5cd9543cde67c0c3719a2e7b5ac38c080cca7336d0f7c1ec1d1.jpg" width="840" loading="lazy" alt="Como GPT-6 Astra e Blender foram usados para criar uma cena cômica de um braço robótico perseguindo um gato"></a>
-
-O autor afirma ter usado GPT-6 Astra e Blender para criar a cena e planejar os enquadramentos, além de publicar um prompt em chinês para um curta de comédia animal de 10 segundos. O prompt define um gato laranja e branco, um braço robótico doméstico, um brinquedo em forma de cauda de gato, uma sala de estar, as relações entre os enquadramentos e uma reviravolta na ação.
-
-**Prompt**
-
-```text
-Gere um curta de comédia animal de 10 segundos, em formato horizontal 16:9, com aparência cinematográfica de uma filmagem real
-Um braço robótico doméstico persegue e tenta agarrar um gato laranja e branco. O gato se esquiva com agilidade e, travesso, contorna a parte de trás de uma caixa organizadora. A garra mecânica prende a cauda laranja que aparece atrás da caixa e, ao levantá-la, revela que se trata de um brinquedo em forma de cauda de gato. O gato verdadeiro já chegou ao lado da base do braço robótico e estende a pata para pressionar o botão vermelho de desligamento na base. O braço robótico para, e o gato demonstra alegria e satisfação.
-A perseguição começa imediatamente na abertura. No meio, uma obstrução mantém o suspense; ao levantar o brinquedo, acontece a reviravolta; no final, o gato desliga o braço por iniciativa própria, criando uma segunda piada. Gere apenas sons ambientes da cena, sem música de fundo, BGM, narração ou diálogos.
-【Âncoras de assets e regras de referência】
-Use o vídeo de referência cat_robot_previs como referência para os movimentos de câmera, o tempo, as trajetórias de movimento e as relações espaciais.
-No vídeo de referência, o corpo geométrico laranja em forma de bloco, as patas brancas e o corpo geométrico com orelhas e cauda correspondem ao gato laranja e branco real da Imagem 1.
-As hastes de conexão em branco-creme, as articulações laranja, a garra de três dedos e a base com botão vermelho correspondem ao braço robótico da Imagem 2.
-O pequeno objeto formado por uma cauda laranja vertical, uma haste de conexão cinza e uma base verde corresponde ao brinquedo em forma de cauda de gato da Imagem 3. O brinquedo e o gato são dois objetos independentes.
-A caixa branca central corresponde à caixa organizadora real em branco-creme; mantenha sua posição, seu volume e sua função de obstrução. Use a Imagem 4 como referência para o ambiente interno.
-Gere o vídeo seguindo as transições de plano, o posicionamento da câmera, os tipos de enquadramento, a rota do gato, a trajetória de perseguição da garra mecânica, a obstrução atrás da caixa, a trajetória ao levantar o brinquedo e a relação de contato entre a pata do gato e o botão, conforme o vídeo de referência.
-A translação geométrica do gato serve apenas para indicar a rota de movimento. Recrie naturalmente ações de salto lateral, corrida, mudança de direção, agachamento, virar a cabeça e levantar a pata. É permitido acrescentar expressões sutis e movimentos corporais dentro das posições e do intervalo de tempo originais, sem alterar os eventos principais nem as relações espaciais. Remova todos os modelos brancos, formas geométricas de placeholder e marcadores auxiliares.
-Imagem 1image: única aparência do gato.
-O mesmo gato adulto jovem, de pelo curto, laranja e branco, com listras tigradas laranja no topo da cabeça e no dorso, focinho e peito brancos, quatro patas brancas, olhos âmbar, nariz rosa, cauda laranja com anéis e ponta clara. Mantenha as proporções corporais realistas, a distribuição das cores, as características faciais e o comprimento da cauda. Pelo delicado, bigodes naturais, sem roupas ou acessórios.
-Imagem 2image: única aparência do braço robótico.
-Carcaça em branco-creme, capas das articulações laranja, peças de conexão em cinza-escuro, garra macia de três dedos e luz de status âmbar no pulso, instalada sobre uma base baixa e larga. O botão vermelho de desligamento na base do braço robótico deve estar ao alcance do gato em pé no chão. A base é fixa; o braço robótico realiza a perseguição girando as articulações.
-Imagem 3image: única aparência do brinquedo em forma de cauda de gato.
-Cauda felpuda laranja com anéis, ponta clara, mola metálica conectada na parte inferior e base verde-menta com peso, decorada com um padrão branco de espinha de peixe. Depois que a garra mecânica agarrar a cauda felpuda, a mola e a base devem ser levantadas juntas como um único brinquedo, mantendo a conexão sempre clara.
-Imagem 4image: aparência da cena.
-Use como referência a sala de estar aconchegante da Imagem 4, com piso de madeira clara, luz do dia entrando por janelas amplas, sofá claro, móveis de madeira, plantas e detalhes de uma casa com animais de estimação. Toda a ação acontece no chão, em ambiente interno. O fundo de estúdio e a composição em grade da imagem de referência não devem aparecer no vídeo final.
-【Estilo visual e cenário】
-Qualidade fotográfica de um curta realista com animais de estimação e de um anúncio sofisticado de robô doméstico, com luz natural e materiais realistas. A comédia deve vir do comportamento e do ritmo.
-Sala de estar espaçosa, com piso de carvalho claro, veios de madeira delicados e reflexos suaves. À esquerda, uma janela do chão ao teto deixa entrar uma luz quente; cortinas de voil projetam sombras suaves no chão, criando uma contraluz natural nas bordas do pelo do gato e na carcaça do braço robótico.
-Ao fundo, há um sofá cinza-claro, almofadas, uma mesinha de centro, um tapete, uma luminária de chão em tom quente e um armário. Junto à janela, há plantas; na lateral, uma caminha e um arranhador para gatos. O tapete fica ao fundo, enquanto a área de ação em primeiro plano mantém uma faixa contínua e ampla de piso de madeira.
-Coloque mais ao fundo, na região central, uma caixa organizadora arredondada em branco-creme, com alças em laranja-claro. A caixa deve esconder o gato agachado e a base do brinquedo, deixando rotas conectadas pelos lados e por trás. O braço robótico fica à direita da caixa, com o botão vermelho voltado para o ponto onde o gato chegará no final.
-A câmera fica próxima à altura dos olhos do gato, mantendo os elementos principais nítidos e o fundo moderadamente desfocado. O ângulo baixo destaca a surpresa da garra avançando por baixo, a leveza dos movimentos do gato e as camadas da revelação atrás da caixa. Todo contato deve apresentar sombras naturais e reação física compatível com a força aplicada.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097675660873605422) · [Publicação original](https://x.com/TanLuAI/status/2097675660873605422) · [Voltar aos exemplos](#all-prompts)
 
 ---
 
@@ -3702,6 +3429,313 @@ O resultado deve parecer um pequeno experimento de doce tátil, realmente prazer
 
 ---
 
+<a id="2103187935759655167"></a>
+
+### Rumo ao Norte: Jornada Interativa em um Navio Viking
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-24
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2103187935759655167"><img src="../assets/previews/d8520ab42c6973da4541907e224aed200b691613a7b7bb3183774bb39e1ffdef.jpg" width="840" loading="lazy" alt="Rumo ao Norte: Jornada Interativa em um Navio Viking"></a>
+
+Um prompt fornecido pelo autor para uma viagem 3D interativa por um fiorde, criada com Three.js e WebGL, a bordo de um navio viking detalhado. Ele especifica um ambiente nórdico cinematográfico, a construção fisicamente conectada do navio, animações de remada e efeitos de contato com a água, controles de direção e câmera, suporte a dispositivos móveis, modos de iluminação, comportamento do áudio e recursos incorporados para a entrega.
+
+**Prompt**
+
+```text
+Crie “Northbound”, uma bela jornada 3D interativa por um fiorde nórdico, a bordo de um navio viking detalhado.
+
+Crie uma cena genuinamente renderizada em tempo real usando Three.js e WebGL, entregue como um único arquivo HTML independente. A experiência deve ser explorável no navegador, não um vídeo pré-renderizado nem uma ilustração estática.
+
+DIREÇÃO VISUAL
+
+Busque um ambiente refinado e cinematográfico, com materiais realistas, proporções naturais e cores discretas. Evite uma aparência cartunesca ou low poly.
+
+Um navio viking de madeira navega por águas verde-azuladas profundas entre penhascos imponentes, florestas densas, cachoeiras e pequenos povoados nórdicos. Use perspectiva atmosférica, névoa sutil, sombras suaves e profundidade convincente. Crie belas vistas ao longo de toda a jornada, não apenas a partir da posição inicial da câmera.
+
+O NAVIO VIKING
+
+Modele um casco detalhado e estanque, com tábuas de madeira sobrepostas, veios visíveis, costelas, bancos e um interior contínuo.
+Adicione uma proa esculpida em forma de dragão, uma vela de tecido listrado, mastro, cordas, escudos, suprimentos e lanternas quentes.
+Inclua passageiros e remadores vikings com proporções adequadas, roupas em camadas, poses sentadas convincentes e mãos posicionadas próximas aos remos.
+Mantenha todos os componentes fisicamente conectados. Não permita passageiros flutuando, acessórios atravessados ou vãos visíveis no casco.
+Anime uma flutuação, arfagem e rolagem sutis. A vela deve reagir suavemente ao vento.
+
+ÁGUA E REMADA
+
+Faça da água um elemento visual central.
+
+Use um shader personalizado com reflexos planares, refração, realces de Fresnel, absorção dependente da profundidade, áreas rasas visíveis e ondulações de superfície em camadas. Os reflexos devem responder corretamente ao movimento da câmera e às mudanças na iluminação.
+
+Crie uma esteira de navegação convincente atrás do navio.
+
+Anime um ciclo completo de remada: as pás entram na água, puxam para trás, saem da água e retornam acima da superfície. Sincronize esse movimento com os remadores.
+
+Gere ondulações, espuma e pequenas gotas nos pontos reais de contato entre as pás e a água. Os rastros devem permanecer no espaço do mundo e se dissipar gradualmente. Evite que os efeitos apareçam enquanto as pás estiverem no ar.
+
+AMBIENTE E MATERIAIS
+
+Use um terreno detalhado, formações rochosas irregulares, silhuetas naturais de árvores, troncos ramificados e agrupamentos individuais de folhas ou agulhas.
+
+Use materiais PBR com mapas de normais e de rugosidade para madeira, pedra e solo. Você pode incorporar texturas com licenças adequadas; inclua os créditos quando necessário.
+
+Garanta que o terreno subaquático continue abaixo da superfície. Não deixe emendas claras, falhas na margem, vegetação flutuante ou árvores obstruindo a rota navegável.
+
+CONTROLS
+
+A/D ou as teclas de seta: vire para a esquerda e para a direita.
+W/S: ajuste a velocidade.
+Arrastar com o mouse: olhe ao redor.
+Ofereça modos de câmera de acompanhamento, órbita e cinematográfico.
+Inclua um modo opcional de jornada automática.
+Adicione controles para pausar, reiniciar, entrar em tela cheia e ocultar a interface.
+Ofereça controles de direção e velocidade por toque em dispositivos móveis.
+Impeça que o navio atravesse terra firme e rochas.
+
+ATMOSFERA E INTERFACE
+
+Ofereça três predefinições de iluminação com transições suaves: Manhã, Nublado e Luar.
+
+Adicione opcionalmente sons ambientes de água, vento, pássaros e remadas. O áudio só deve começar após uma interação do usuário.
+
+Crie uma interface editorial minimalista: “Northbound.” em uma elegante fonte serifada, rótulos de capítulo sutis e uma barra de controles compacta e translúcida. Não obstrua a paisagem.
+
+DESEMPENHO E ENTREGA
+
+Use instancing, orçamentos de geometria sensatos, nível de detalhe baseado na distância e alvos de reflexão com dimensões adequadas. Adapte a qualidade da renderização ao dispositivo em vez de prometer uma taxa de quadros fixa.
+
+Entregue um único arquivo HTML com os scripts e recursos necessários incorporados, para que ele possa ser aberto diretamente em um navegador moderno.
+
+Teste a direção, os modos de câmera, as transições de iluminação e a remada. Inspecione o navio de vários ângulos e verifique a margem a partir de pontos de vista baixos. Corrija interseções de geometria, artefatos nos reflexos, brilho excessivo e erros no console antes de considerar a cena finalizada.
+
+Priorize uma água convincente, um navio viking belamente construído e um ambiente coeso em vez de adicionar mais objetos.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2103187935759655167) · [Publicação original](https://x.com/vib3coded/status/2103189762672611675) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2103211135214256350"></a>
+
+### Experiência explorável de outono enevoado em Three.js
+
+[Simonas](https://x.com/SimonasLTU1) · 2026-09-24
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2103211135214256350"><img src="../assets/previews/21d3a73dd776ae76e027f6f8987d49b4326796d6bcecadcd8751ed9247a1c893.jpg" width="840" loading="lazy" alt="Experiência explorável de outono enevoado em Three.js"></a>
+
+Crie uma experiência explorável em Three.js com uma atmosfera enevoada, chuvosa, outonal, misteriosa e nostálgica, entregue em um único arquivo HTML/CSS/JS.
+
+**Prompt**
+
+```text
+Quero que você crie uma experiência explorável em Three.js, com uma atmosfera enevoada, chuvosa, outonal, misteriosa e nostálgica, em um único arquivo HTML/CSS/JS.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2103211135214256350) · [Publicação original](https://x.com/SimonasLTU1/status/2103211135214256350) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2103308083242082314"></a>
+
+### STILLWATER — Experiência de pântano iluminado pela lua no navegador
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-25
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2103308083242082314"><img src="../assets/previews/609344d27303517348f788d499244dbffce89132e635466fa012f1b8d2ee8109.jpg" width="840" loading="lazy" alt="STILLWATER — Experiência de pântano iluminado pela lua no navegador"></a>
+
+Um prompt detalhado fornecido pelo autor da publicação em uma resposta, para um mundo interativo de pântano criado com Three.js. Ele especifica um passeio guiado de barco-cabine por um ambiente alagado de ciprestes, água refletiva com visual cinematográfico, iluminação atmosférica e neblina, controles de câmera com arraste para olhar ao redor e elementos editoriais de HUD. O resultado solicitado exclui explicitamente combates e outros sistemas de jogo.
+
+**Prompt**
+
+```text
+Crie no navegador uma experiência em Three.js chamada STILLWATER. Tom: um pântano enluarado onde você se perde. Não é um jogo com inimigos. Não é um cenário fotorrealista de Unreal. É um mundo web silencioso, sofisticado e com aparência cara, em que os reflexos na água são o destaque. As pessoas devem ficar olhando para a água por tempo demais.  CENÁRIO — Título do local: THE DEEP SWAMP — Horário no HUD: 19:26 — Primeiro lugar nomeado: Curva das Garças — Frase sob o nome do lugar: "Deixe um pouco de espaço para o selvagem." — Notificação de descoberta ao chegar: "Descoberto: Curva das Garças"  UM PÂNTANO de ciprestes alagado ao nascer da lua / no fim do crepúsculo. — Árvores altas, de raízes nodosas, em pé na água verde-escura — Musgo espanhol pendendo em longos fios — Vitórias-régias agrupadas às margens — Canal estreito e sinuoso que se abre em uma curva mais larga — Neblina volumétrica densa, distância em tons de verde-azulado e céu nublado em rosa-arroxeado — Lua brilhante com um longo caminho de reflexo interrompido sobre a água — Algumas aves cruzando o céu — Luz quente da cabine do barco atravessando a escuridão  ÁGUA (não economize aqui) Ela é a protagonista. — Reflexos em tempo real das árvores, da lua, da neblina e das luzes do barco — Ondulação suave, nada de ondas oceânicas — Vitórias-régias apoiadas na superfície e balançando — Espuma na margem / água escura, rica em taninos, perto das raízes — Reflexos em espaço de tela ou planares com qualidade suficiente para que o caminho da lua tenha um visual cinematográfico — Mantenha 60 fps. Use LOD nas árvores e folhagem instanciada.  BARCO Uma pequena chalana de trabalho, envelhecida, com cabine. — Número 86 no casco, na popa — Cabine branca, casco azul-escuro e luminárias internas quentes — Deriva ociosa pelo canal, com passeio guiado lento opcional — Velocidade no HUD em torno de 15.9 KNOTS — Rótulo do modo: GUIDED DRIFT O jogador pode olhar ao redor. O barco pode ser acompanhado em uma perseguição cinematográfica / órbita lateral.  CÂMERA — Comece mostrando o barco em três quartos, entre as árvores — Derive atrás da popa pelo caminho iluminado pela lua — Ocasionalmente deslize de lado, passando por um tronco em primeiro plano — Arraste para olhar — PHOTO MODE opcional Faça parecer um documentário de natureza, não um FPS.  UI — editorial, não com cara de jogo Canto superior esquerdo: pequeno símbolo + STILLWATER Centro superior: THE DEEP SWAMP / 19:26, um rumo de bússola (por exemplo, 314°) Canto superior direito: ícones utilitários discretos Canto inferior esquerdo:   EXPLORANDO STILLWATER   Curva das Garças   Deixe um pouco de espaço para o selvagem.   15.9 KNOTS    GUIDED DRIFT Canto inferior direito: PHOTO MODE, fps, Pausar Centro inferior: pequena notificação "Descoberto: Curva das Garças" Linha de dicas discreta: shaders / água / arraste para olhar / fotos / vida selvagem  Visual: gradação fílmica escura, verdes suaves, nuvens magenta, um único realce da lua. Bom gosto acima do realismo. Nada de GUI de depuração exagerada.  TÉCNICA Three.js no navegador. Natureza procedural / instanciada. Shader de água personalizado. Neblina. Sombras suaves ou iluminação de crepúsculo com aparência de iluminação pré-calculada. Evite usar um pacote de pântano de loja de assets se puder criar os elementos.  NÃO adicione combate, inventário, sustos ou caça ao tesouro. Algo pode espreitar debaixo d'água mais tarde — não agora.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2103308083242082314) · [Publicação original](https://x.com/YouWareAI/status/2103310302993621090) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2103351755971207251"></a>
+
+### Cenário de batalha romana na hora dourada
+
+[tonysuri](https://x.com/tonysurix) · 2026-09-25
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2103351755971207251"><img src="../assets/previews/38d510439e2c3695b5acbb44c83317a5c0824a4b8b8305c45187d66ca6ebeccd.jpg" width="840" loading="lazy" alt="Cenário de batalha romana na hora dourada"></a>
+
+Uma tarefa detalhada no Blender para criar uma cena realista de batalha romana na hora dourada, com base em uma imagem de conceito fornecida. A especificação inclui uma arena de 1 contra 1 cercada por grandes rochas, um terreno detalhado com mapas de relevo, assets procedurais sempre que possível, um skybox de céu na hora dourada, sombras duras, assets GLB reutilizáveis e a entrega do arquivo .blend junto com um timelapse da criação.
+
+**Prompt**
+
+```text
+A TAREFA
+Crie no Blender um cenário de batalha romana na hora dourada com base na imagem de conceito fornecida. A geração é permitida. Você pode gerar modelos 3D para o ambiente e suas partes usando as ferramentas de geração disponíveis (Tripo em https://t.co/JV0K8OtuWC)) e montá-los. Tudo ainda deve formar uma cena coerente: escala compatível, materiais consistentes e iluminação unificada. Requisitos: use mapas de relevo no terreno e mantenha-o altamente detalhado.
+Crie uma área circular vazia no terreno, cercada por grandes rochas, para formar uma arena de 1 contra 1.
+Renderize tudo de forma realista.
+Crie assets procedurais sempre que possível.
+Crie um skybox para o céu na hora dourada.
+Use sombras duras.
+Reutilize objetos (bandeiras, estandartes, elmos, rochas etc.). Exporte um GLB para cada objeto e reutilize esses assets.
+Reproduza a imagem fornecida com a maior proximidade e precisão possíveis.
+REQUISITO DO TIMELAPSE
+Enquanto cria a cena, salve uma captura de tela do viewport em uma pasta timelapse/ numerada após cada adição significativa (cada novo objeto, etapa de aplicação de modificador, etapa de criação de material e etapa de iluminação, nessa ordem). Quando o trabalho estiver concluído, monte esses quadros em um vídeo timelapse a 2 fps (0,5 s por quadro), para que todo o processo possa ser acompanhado do início ao fim. Entregue o vídeo timelapse junto com os arquivos principais.
+DELIVERABLES
+O arquivo .blend, com a câmera e o viewport configurados para que a vista corresponda exatamente à imagem original.
+O vídeo timelapse da criação.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2103351755971207251) · [Publicação original](https://x.com/tonysurix/status/2103352274269675532) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2103432732386664591"></a>
+
+### Geleia de Pitaya
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-25
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2103432732386664591"><img src="../assets/previews/7e480a4fe2b6b8dbe7c3cf58fb1b37907e4c7b12601559eec331eadf7080282a.jpg" width="840" loading="lazy" alt="Geleia de Pitaya"></a>
+
+Um prompt compartilhado pelo autor para o GPT-6 Astra criar uma experiência interativa de material 3D de geleia de pitaya no navegador. Ele especifica geometria procedural com WebGPU, materiais translúcidos com aparência de goma, deformação de corpo mole, pétalas da casca arrastáveis, suporte a toque, predefinições, leituras da simulação e uma interface clara em estilo estúdio.
+
+**Prompt**
+
+```text
+Crie uma cena 3D interativa chamada “Pitaya Jelly” — metade de uma pitaya feita de uma gelatina macia e translúcida. Construa todo o projeto em um único arquivo HTML usando renderização WebGPU real e shaders WGSL. Não use modelos prontos nem imagens.
+
+APPEARANCE
+
+Uma metade grande de pitaya repousando com o lado cortado voltado para cima sobre uma superfície de estúdio clara.
+Casca rosa-framboesa intensa, uma fina camada interna clara e polpa branca perolada.
+Aproximadamente 250 pequenas sementes pretas distribuídas naturalmente pela polpa.
+12–14 pétalas carnudas da casca ao redor da fruta, passando de bases rosadas a pontas verdes.
+Superfície brilhante e úmida, com refração da luz, pequenas bolhas internas e uma sombra de contato suave.
+O material deve parecer uma bala de goma macia, não um plástico rígido. Preserve as cores saturadas sem estourar os realces.
+
+FÍSICA E INTERAÇÃO
+
+Implemente uma deformação realista de corpo macio usando uma malha volumétrica com conexões elásticas e restrições que preservem o volume, como XPBD.
+Os usuários podem agarrar a polpa com o mouse ou o dedo, esticá-la e soltá-la.
+A deformação deve se concentrar ao redor do ponto agarrado, em vez de simplesmente transladar o objeto inteiro.
+Após ser solta, a fruta deve oscilar, tremer e recuperar gradualmente sua forma original.
+Permita arrastar individualmente as pétalas da casca. Elas devem ser mais macias que a polpa, dobrando e voltando à posição enquanto permanecem presas à fruta.
+As sementes devem acompanhar a superfície deformada sem flutuar para longe nem afundar na polpa.
+Mantenha a simulação estável durante puxões fortes, com contato com o chão e proteção contra elementos invertidos.
+
+DESIGN VISUAL
+
+Use uma interface de estúdio minimalista e clara, com estética editorial: bastante espaço em branco, bordas finas, controles discretos e nenhuma decoração desnecessária.
+
+No canto superior esquerdo:
+“ESTUDOS DE MATERIAIS / Nº 019”
+Um título grande, em fonte serifada e itálico, distribuído em duas linhas:
+“Pitaya Jelly.”
+
+Abaixo dele:
+“Um pouco selvagem.”
+“Um pouco doce.”
+“Um dragão muito macio.”
+À direita, adicione um painel flutuante intitulado “O ESPÉCIME” contendo:
+
+Indicador de densidade: ρ 1,04 g/cm³.
+Três predefinições:
+Pearl — polpa branca e casca rosa.
+Ruby — polpa cor de framboesa e casca rosa.
+Gold — polpa clara e casca dourada.
+Controles deslizantes de Firmeza e Amortecimento interno, com valores visíveis.
+Botões “Dar um toque” e “Redefinir”.
+
+Caixas de seleção “¼ da velocidade” e “Mostrar malha”.
+
+Um botão “Pausar”.
+Inclua também:
+Um botão de tela cheia com uma opção para sair.
+Um indicador de status “WEBGPU · AO VIVO”.
+Leituras em tempo real da massa, da porcentagem do volume de repouso e da energia cinética.
+Uma dica curta de interação: “Puxe a polpa. Puxe uma pétala. Solte.”
+Uma seção recolhível “Por dentro do experimento”, explicando a implementação com precisão.
+REQUISITOS TÉCNICOS
+Entregue um único arquivo independente chamado pitaya-jelly-webgpu.html.
+
+Use renderização WebGPU real, não uma imitação em Canvas 2D.
+
+Gere toda a geometria proceduralmente.
+Use refração com espessura, reflexos de Fresnel e iluminação suave de estúdio.
+Use um passo de tempo fixo na simulação para garantir um comportamento consistente.
+Ofereça suporte à interação em desktop e por toque, com um layout responsivo.
+Evite reconstruções dispendiosas da geometria ou compilação de shaders durante o arraste.
+
+Exiba uma mensagem clara de fallback quando o WebGPU não estiver disponível.
+
+Verifique o arraste, a soltura, a recuperação da forma, as predefinições, a redefinição, a pausa, a tela cheia e o layout para dispositivos móveis.
+As principais prioridades são um comportamento convincente de gelatina, materiais bonitos e uma interação prazerosa. O resultado deve parecer um experimento de materiais refinado e jogável.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2103432732386664591) · [Publicação original](https://x.com/vib3coded/status/2103433535604265052) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2103456264785424530"></a>
+
+### Modelagem 3D de roupas para VRChat
+
+[のわ〜る👼🍆🐄](https://x.com/Noir4247) · 2026-09-25
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2103456264785424530"><img src="../assets/previews/60090a53a9e0360367a1d5cba9481eec9d8360afd91640dfc431b8094207ae43.jpg" width="840" loading="lazy" alt="Modelagem 3D de roupas para VRChat"></a>
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2103456264785424530"><img src="../assets/previews/dc0217bbe2b6526425252bd6e7bb1ba32317d9de5450561768507320ff81f20b.jpg" width="840" loading="lazy" alt="Modelagem 3D de roupas para VRChat"></a>
+
+O autor relata que criou uma arte conceitual no ChatGPT e instruiu a Astra a modelar a roupa no Blender com base nela.
+
+**Prompt**
+
+```text
+Crie uma roupa para VRChat
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2103456264785424530) · [Publicação original](https://x.com/Noir4247/status/2103456264785424530) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2103482826519986544"></a>
+
+### Criar um porquinho-da-índia no Blender
+
+[かよこ](https://x.com/kayokojoe) · 2026-09-25
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2103482826519986544"><img src="../assets/previews/34127219152b8602865f0daa82890936efe4c212c105901ec6f6c98503b4e98e.jpg" width="840" loading="lazy" alt="Criar um porquinho-da-índia no Blender"></a>
+
+Prompt em que o autor pede ao Codex (GPT-6 Astra High) para criar um porquinho-da-índia sem mostrar uma foto.
+
+**Prompt**
+
+```text
+Crie um porquinho-da-índia no Blender
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2103482826519986544) · [Publicação original](https://x.com/kayokojoe/status/2103482826519986544) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2103486103831339269"></a>
+
+### Jardim japonês em estilo voxel no Three.js
+
+[Marcel](https://x.com/marcthecreatorr) · 2026-09-25
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2103486103831339269"><img src="../assets/previews/b81a2575e66269b3d4175d1d6ed6250955d3a1d3c082c0bb5c26ad99afbed1c3.jpg" width="840" loading="lazy" alt="Jardim japonês em estilo voxel no Three.js"></a>
+
+Um prompt para um jardim japonês interativo em estilo voxel, com um pagode, aldeões minúsculos e um dragão voador. O autor da publicação diz que este mesmo prompt foi fornecido ao Astra e ao Space Bunny para uma comparação em uma única rodada.
+
+**Prompt**
+
+```text
+Crie um jardim japonês detalhado em estilo voxel no Three.js, com um pagode, aldeões minúsculos, um dragão voador e elementos interativos.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2103486103831339269) · [Publicação original](https://x.com/marcthecreatorr/status/2103486103831339269) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Defesa de Tanques sem Fim
@@ -4090,7 +4124,7 @@ Entregue o código-fonte, o lockfile, os comandos npm de desenvolvimento/build e
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 283 exemplos no site oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 291 exemplos no site oficial →</a></strong></p>
 <p><sub>Para manter a renderização do README do GitHub fluida, mostramos aqui apenas os 100 exemplos mais recentes.</sub></p>
 <br>
 </td></tr>
