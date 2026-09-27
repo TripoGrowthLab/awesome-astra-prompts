@@ -28,7 +28,7 @@
 **次のゲーム、シーン、インタラクティブな世界づくりのヒントに。**
 
 
-**291 · 最新の Astra プロンプト**
+**293 · 最新の Astra プロンプト**
 
 ## 注目の作品
 
@@ -56,8 +56,6 @@
 - [インタラクティブ3D解剖ビューア](#2099206962344800541) · GitHub
 - [アイソメトリックなファンタジーグラフィックスデモ](#2100271998618177864) · GitHub
 - [Mosswing：モバイル向け3Dタップ飛行ゲーム](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [THE LAST GATE：算術ゲート搭載の群衆ランゲーム](#2097678911882809407)
-- [リアルタイム3D工場・発射台シミュレーション](#2097730920224534868)
 - [マルチプレイ対応Minecraftクローン](#2097797479488246071)
 - [インタラクティブなファンタジーグラフィックスデモ](#2097821164093480999)
 - [セリフなしの3D猫おやつショート](#2097900087901106244)
@@ -144,6 +142,8 @@
 - [VRChat用衣装の3Dモデリング](#2103456264785424530)
 - [Blenderでモルモットを作成](#2103482826519986544)
 - [Three.jsで作るボクセル風の日本庭園](#2103486103831339269)
+- [ボクセルのボトルシップ WebGLシーン](#2103855977376125161)
+- [森に囲まれた湖畔の村の環境](#2103860776419111285)
 - [Battle City 3D：エンドレス戦車ディフェンス](#battle-city-3d)
 - [Crazy Tanks — 3Dアイランド砲撃戦](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — 奇妙な武器のサバイバルゲーム](#odd-arms)
@@ -326,46 +326,6 @@ Three.jsを使って、高品質なインタラクティブ3D展示「Chernobyl 
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [元の投稿](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [ソースコード](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [デモ](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="2097678911882809407"></a>
-
-### THE LAST GATE：算術ゲート搭載の群衆ランゲーム
-
-[MSB](https://x.com/KeWai386772) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097678911882809407"><img src="../assets/previews/a8bbf8917e9f19971a1ed3976735efde583ae25e4dedf23df3e71f16f775b59a.jpg" width="840" loading="lazy" alt="THE LAST GATE：算術ゲート搭載の群衆ランゲーム"></a>
-
-算術ゲート、実際の人数に応じて変化する隊列、障害物による損失、生存人数で決まるゴールでの遭遇、3つの短いルート、即時リトライ、シード付き入力リプレイを備えた、プレイ可能な縦画面の群衆ランゲームを作成します。
-
-**プロンプト**
-
-```text
-THE LAST GATEを構築 THE LAST GATEを構築：算術ゲートを備えたプレイ可能な縦画面の群衆ランゲーム。画面に表示される隊列の規模は実際の人数と必ず一致させ、障害物による損失が実際の結果につながるようにし、ゴールでの遭遇を人数によって決定します。3つの短いルート、即時リトライ、シード付き入力リプレイを実装し、勝利を捏造してはなりません。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097678911882809407) · [元の投稿](https://x.com/KeWai386772/status/2097678911882809407) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="2097730920224534868"></a>
-
-### リアルタイム3D工場・発射台シミュレーション
-
-[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097730920224534868"><img src="../assets/previews/037678cffe2db79eb31428a1ae5c1c82b08c90735d44f1f31cf452dfae4c6c61.jpg" width="840" loading="lazy" alt="リアルタイム3D工場・発射台シミュレーション"></a>
-
-@AirsupHQのリーン生産に関する書籍を調査し、10基の発射台を備えた工場のコンセプトを立案。資材の搬入、ロケットの発射台への移動、打ち上げまでを再現するリアルタイム3Dシミュレーションを構築する依頼。
-
-**プロンプト**
-
-```text
-@AirsupHQのリーン生産に関する書籍を調査し、10基の発射台を備えた工場のコンセプトを立案して、リアルタイム3Dシミュレーションを構築する。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097730920224534868) · [元の投稿](https://x.com/konstantinsaifo/status/2097730920224534868) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -3821,6 +3781,50 @@ Three.jsで、五重塔、小さな村人、空を飛ぶドラゴン、インタ
 
 ---
 
+<a id="2103855977376125161"></a>
+
+### ボクセルのボトルシップ WebGLシーン
+
+[PEP PEPICH](https://x.com/Artless101) · 2026-09-26
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2103855977376125161"><img src="../assets/previews/d8a74685a75a3f46e3e8ca5a4148d471823b51ea9e7e317e8eb3add7d7d18fa4.jpg" width="840" loading="lazy" alt="ボクセルのボトルシップ WebGLシーン"></a>
+
+波や物理演算、さまざまな小物や風景を取り入れた、帆船と海をボトルの中に閉じ込めた、色鮮やかで精巧なボクセルアートのシーンを作成します。Chromeで単一のHTMLファイルから実行できるWebGLシーンを目指します。
+
+**プロンプト**
+
+```text
+ボトルの中で複雑な帆船が海を航行する、非常にクリエイティブで精巧かつ詳細なボクセルアートのシーンをデザイン・作成してください。波とリアルな物理演算を取り入れ、シーン全体をボトルの中に収めてください。印象的で変化に富んだシーンにするため、カラフルなボクセル、物理演算、小物や風景を組み合わせ、すべてをボトルの中に収めてください。WebGLや必要なライブラリを使って構いませんが、すべてを1つのHTMLファイルに貼り付けて、Chromeで開けるようにしてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2103855977376125161) · [元の投稿](https://x.com/Artless101/status/2103856049925071141) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="2103860776419111285"></a>
+
+### 森に囲まれた湖畔の村の環境
+
+[Givros](https://x.com/givros) · 2026-09-26
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/9be4889a639ad97638c10be775f22e1121913e2d8ac6c3e25fca613c8510a2c1.jpg" width="840" loading="lazy" alt="森に囲まれた湖畔の村の環境"></a>
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/fe415aed9bbd551d9c40c9b8264ce62bd71fd52d91d56f61680659112ae3377c.jpg" width="840" loading="lazy" alt="森に囲まれた湖畔の村の環境"></a>
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/ed31cdb42a8f2eb8c18d93e49bc070cc4ecfc7865c7f5cbb712bc29fa09a3bbb.jpg" width="840" loading="lazy" alt="森に囲まれた湖畔の村の環境"></a>
+
+元の作者がLuna Light、Sol Light、Astra Lightを同じプロンプトで比較するために使用する、3D環境の概要です。中央の湖を取り囲む森、湖の中に建つ廃屋、その周囲に広がる花に彩られたフランスの村、そしてそれらをつなぐ道を指定しています。
+
+**プロンプト**
+
+```text
+中央に湖がある森。湖の中央には廃屋。湖の周囲には花に彩られたフランスの村。重要な場所をつなぐ道。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2103860776419111285) · [元の投稿](https://x.com/givros/status/2103860776419111285) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D：エンドレス戦車ディフェンス
@@ -4209,7 +4213,7 @@ Vite、TypeScript、Three.jsを使用し、地理情報、純粋な物理／ス�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 291 件の作例を公式サイトで見る →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 293 件の作例を公式サイトで見る →</a></strong></p>
 <p><sub>GitHub README をスムーズに表示するため、ここでは最新の作例 100 件のみを掲載しています。</sub></p>
 <br>
 </td></tr>

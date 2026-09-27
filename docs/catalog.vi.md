@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**291 · Prompt Astra mới nhất**
+**293 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -56,8 +56,6 @@
 - [Trình khám phá giải phẫu 3D tương tác](#2099206962344800541) · GitHub
 - [Demo đồ họa fantasy isometric](#2100271998618177864) · GitHub
 - [Mosswing: Game 3D mobile chạm để vỗ cánh](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Xây dựng THE LAST GATE: game chạy vượt chướng ngại vật theo nhóm với các cổng tính toán](#2097678911882809407)
-- [Mô phỏng nhà máy và bệ phóng 3D thời gian thực](#2097730920224534868)
 - [Bản sao Minecraft có chế độ nhiều người chơi](#2097797479488246071)
 - [Bản demo đồ họa fantasy tương tác](#2097821164093480999)
 - [Video ngắn 3D không lời: Mèo và nút thưởng](#2097900087901106244)
@@ -144,6 +142,8 @@
 - [Dựng mô hình 3D trang phục cho VRChat](#2103456264785424530)
 - [Tạo chuột lang trong Blender](#2103482826519986544)
 - [Vườn Nhật phong cách voxel trong Three.js](#2103486103831339269)
+- [Cảnh WebGL voxel tàu trong chai](#2103855977376125161)
+- [Môi trường làng ven hồ giữa rừng](#2103860776419111285)
 - [Battle City 3D: Phòng thủ xe tăng vô tận](#battle-city-3d)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Game sinh tồn với vũ khí kỳ quặc](#odd-arms)
@@ -326,46 +326,6 @@ Làm mới game kinh điển “chạm để vỗ cánh” — game mà bạn ch
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Bài đăng gốc](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Mã nguồn](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Bản demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2097678911882809407"></a>
-
-### Xây dựng THE LAST GATE: game chạy vượt chướng ngại vật theo nhóm với các cổng tính toán
-
-[MSB](https://x.com/KeWai386772) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097678911882809407"><img src="../assets/previews/a8bbf8917e9f19971a1ed3976735efde583ae25e4dedf23df3e71f16f775b59a.jpg" width="840" loading="lazy" alt="Xây dựng THE LAST GATE: game chạy vượt chướng ngại vật theo nhóm với các cổng tính toán"></a>
-
-Tạo một game chạy vượt chướng ngại vật theo nhóm, chơi theo chiều dọc, với các cổng tính toán, số lượng thành viên thay đổi thực tế, tổn thất do chướng ngại vật, màn chạm trán cuối được quyết định bởi số người sống sót, ba tuyến đường ngắn, chơi lại tức thì và replay thao tác có seed.
-
-**Prompt**
-
-```text
-Xây dựng THE LAST GATE: một game chạy vượt chướng ngại vật theo nhóm, chơi theo chiều dọc và có thể chơi được, với các cổng tính toán. Quy mô đội hiển thị phải khớp với số người thực tế; tổn thất do chướng ngại vật phải tạo ra hậu quả thực tế; màn chạm trán cuối phải được quyết định bởi số người còn lại. Cung cấp ba tuyến đường ngắn, chơi lại tức thì và replay thao tác có seed; không được bịa ra chiến thắng.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097678911882809407) · [Bài đăng gốc](https://x.com/KeWai386772/status/2097678911882809407) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2097730920224534868"></a>
-
-### Mô phỏng nhà máy và bệ phóng 3D thời gian thực
-
-[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097730920224534868"><img src="../assets/previews/037678cffe2db79eb31428a1ae5c1c82b08c90735d44f1f31cf452dfae4c6c61.jpg" width="840" loading="lazy" alt="Mô phỏng nhà máy và bệ phóng 3D thời gian thực"></a>
-
-Yêu cầu nghiên cứu các sách về sản xuất tinh gọn của @AirsupHQ, phát triển ý tưởng nhà máy với 10 bệ phóng và xây dựng mô phỏng 3D thời gian thực về vật liệu được đưa đến, tên lửa di chuyển đến bệ phóng rồi cất cánh.
-
-**Prompt**
-
-```text
-Nghiên cứu các sách về sản xuất tinh gọn của @AirsupHQ, phát triển ý tưởng cho một nhà máy với 10 bệ phóng và xây dựng mô phỏng 3D thời gian thực.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097730920224534868) · [Bài đăng gốc](https://x.com/konstantinsaifo/status/2097730920224534868) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3839,6 +3799,50 @@ Xây dựng một khu vườn Nhật phong cách voxel chi tiết trong Three.js
 
 ---
 
+<a id="2103855977376125161"></a>
+
+### Cảnh WebGL voxel tàu trong chai
+
+[PEP PEPICH](https://x.com/Artless101) · 2026-09-26
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103855977376125161"><img src="../assets/previews/d8a74685a75a3f46e3e8ca5a4148d471823b51ea9e7e317e8eb3add7d7d18fa4.jpg" width="840" loading="lazy" alt="Cảnh WebGL voxel tàu trong chai"></a>
+
+Tạo một cảnh nghệ thuật voxel đầy màu sắc và công phu, mô phỏng tàu buồm cùng đại dương bên trong một chiếc chai, với sóng, vật lý được mô phỏng và nhiều đạo cụ hoặc phong cảnh đa dạng. Kết quả cần là một cảnh WebGL có thể chạy từ một tệp HTML duy nhất trong Chrome.
+
+**Prompt**
+
+```text
+Thiết kế và tạo một cảnh nghệ thuật voxel thật sáng tạo, công phu và chi tiết, mô phỏng một con tàu tinh xảo đang vượt đại dương bên trong một chiếc chai. Thêm các con sóng và hệ thống vật lý chân thực, đồng thời bao bọc toàn bộ cảnh trong chai. Hãy tạo một cảnh ấn tượng, đa dạng bằng các voxel nhiều màu, vật lý được mô phỏng cùng những đạo cụ và phong cảnh thú vị, tất cả đều nằm bên trong chai. Sử dụng WebGL và bất kỳ thư viện nào cần thiết, nhưng hãy đảm bảo tôi có thể dán toàn bộ mã vào một tệp HTML duy nhất và mở tệp đó trong Chrome
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103855977376125161) · [Bài đăng gốc](https://x.com/Artless101/status/2103856049925071141) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2103860776419111285"></a>
+
+### Môi trường làng ven hồ giữa rừng
+
+[Givros](https://x.com/givros) · 2026-09-26
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/9be4889a639ad97638c10be775f22e1121913e2d8ac6c3e25fca613c8510a2c1.jpg" width="840" loading="lazy" alt="Môi trường làng ven hồ giữa rừng"></a>
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/fe415aed9bbd551d9c40c9b8264ce62bd71fd52d91d56f61680659112ae3377c.jpg" width="840" loading="lazy" alt="Môi trường làng ven hồ giữa rừng"></a>
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/ed31cdb42a8f2eb8c18d93e49bc070cc4ecfc7865c7f5cbb712bc29fa09a3bbb.jpg" width="840" loading="lazy" alt="Môi trường làng ven hồ giữa rừng"></a>
+
+Bản mô tả môi trường 3D để tác giả gốc so sánh Luna Light, Sol Light và Astra Light với cùng một prompt. Mô tả một khu rừng bao quanh hồ nước ở trung tâm, một ngôi nhà bỏ hoang giữa hồ, một ngôi làng Pháp đầy hoa bên hồ và các lối đi kết nối.
+
+**Prompt**
+
+```text
+Một khu rừng với hồ nước ở trung tâm. Giữa hồ là một ngôi nhà bỏ hoang. Xung quanh hồ là một ngôi làng Pháp ngập tràn hoa. Các lối đi kết nối những địa điểm quan trọng.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103860776419111285) · [Bài đăng gốc](https://x.com/givros/status/2103860776419111285) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Phòng thủ xe tăng vô tận
@@ -4227,7 +4231,7 @@ Bàn giao mã nguồn, lockfile, lệnh npm phát triển/build và đầu ra t�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 291 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 293 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

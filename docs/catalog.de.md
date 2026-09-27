@@ -28,7 +28,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**291 · Neueste Astra-Prompts**
+**293 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -56,8 +56,6 @@
 - [Interaktiver 3D-Anatomie-Explorer](#2099206962344800541) · GitHub
 - [Demo für isometrische Fantasy-Grafik](#2100271998618177864) · GitHub
 - [Mosswing: Mobiles 3D-Tap-to-Flap-Spiel](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [THE LAST GATE: Crowd-Runner mit Rechentoren](#2097678911882809407)
-- [Live-3D-Simulation einer Raketenfabrik](#2097730920224534868)
 - [Minecraft-Klon mit Mehrspieler](#2097797479488246071)
 - [Interaktive Fantasy-Grafikdemo](#2097821164093480999)
 - [Wortloser 3D-Katzen-Short](#2097900087901106244)
@@ -144,6 +142,8 @@
 - [3D-Modellierung von VRChat-Outfits](#2103456264785424530)
 - [Meerschweinchen in Blender erstellen](#2103482826519986544)
 - [Voxel-Garten im japanischen Stil mit Three.js](#2103486103831339269)
+- [Voxel-WebGL-Szene: Schiff in einer Flasche](#2103855977376125161)
+- [Waldsee-Dorfumgebung](#2103860776419111285)
 - [Battle City 3D: Endlose Panzerverteidigung](#battle-city-3d)
 - [Crazy Tanks — 3D-Inselartillerie](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Survival-Game mit verrückten Waffen](#odd-arms)
@@ -326,46 +326,6 @@ Lege das klassische „Tap-to-Flap“-Spiel neu auf – jenes Spiel, bei dem du 
 ```
 
 [Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Originalbeitrag](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Quellcode](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Live-Demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2097678911882809407"></a>
-
-### THE LAST GATE: Crowd-Runner mit Rechentoren
-
-[MSB](https://x.com/KeWai386772) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2097678911882809407"><img src="../assets/previews/a8bbf8917e9f19971a1ed3976735efde583ae25e4dedf23df3e71f16f775b59a.jpg" width="840" loading="lazy" alt="THE LAST GATE: Crowd-Runner mit Rechentoren"></a>
-
-Erstelle ein spielbares Crowd-Runner-Spiel im Hochformat mit Rechentoren, tatsächlich sichtbaren Änderungen der Teamgröße, Verlusten durch Hindernisse, einer von der Zahl der Überlebenden abhängigen Begegnung am Ziel, drei kurzen Routen, sofortigem Neustart und einer seed-basierten Eingabe-Wiedergabe.
-
-**Prompt**
-
-```text
-THE LAST GATE entwickeln. THE LAST GATE entwickeln: einen spielbaren Crowd-Runner im Hochformat mit Rechentoren. Die sichtbare Teamgröße muss jederzeit der tatsächlichen Anzahl entsprechen. Implementiere Verluste durch Hindernisse mit konkreten Konsequenzen und eine Begegnung am Ziel, die von der Zahl der Überlebenden abhängt. Liefere drei kurze Routen, sofortigen Neustart und eine seed-basierte Eingabe-Wiedergabe. Siege dürfen nicht vorgetäuscht werden.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2097678911882809407) · [Originalbeitrag](https://x.com/KeWai386772/status/2097678911882809407) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2097730920224534868"></a>
-
-### Live-3D-Simulation einer Raketenfabrik
-
-[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2097730920224534868"><img src="../assets/previews/037678cffe2db79eb31428a1ae5c1c82b08c90735d44f1f31cf452dfae4c6c61.jpg" width="840" loading="lazy" alt="Live-3D-Simulation einer Raketenfabrik"></a>
-
-Eine Anfrage, die Lean-Production-Bücher von @AirsupHQ zu studieren, ein Fabrikkonzept mit 10 Startrampen zu entwickeln und eine Live-3D-Simulation zu erstellen, in der Materialien eintreffen, Raketen zu den Startrampen fahren und abheben.
-
-**Prompt**
-
-```text
-Studiere die Lean-Production-Bücher von @AirsupHQ, entwickle ein Konzept für eine Fabrik mit 10 Startrampen und erstelle eine Live-3D-Simulation.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2097730920224534868) · [Originalbeitrag](https://x.com/konstantinsaifo/status/2097730920224534868) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 
@@ -3740,6 +3700,50 @@ Erstelle in Three.js einen detaillierten Voxel-Garten im japanischen Stil mit ei
 
 ---
 
+<a id="2103855977376125161"></a>
+
+### Voxel-WebGL-Szene: Schiff in einer Flasche
+
+[PEP PEPICH](https://x.com/Artless101) · 2026-09-26
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2103855977376125161"><img src="../assets/previews/d8a74685a75a3f46e3e8ca5a4148d471823b51ea9e7e317e8eb3add7d7d18fa4.jpg" width="840" loading="lazy" alt="Voxel-WebGL-Szene: Schiff in einer Flasche"></a>
+
+Erstelle eine aufwendige, farbenfrohe Voxel-Art-Szene mit einem Segelschiff und einem Ozean in einer Flasche – inklusive Wellen, simulierter Physik sowie abwechslungsreichen Requisiten und Landschaften. Das Ergebnis soll eine WebGL-Szene sein, die in Chrome aus einer einzigen HTML-Datei ausgeführt werden kann.
+
+**Prompt**
+
+```text
+Entwirf und erstelle eine äußerst kreative, aufwendige und detailreiche Voxel-Art-Szene mit einem kunstvoll gestalteten Schiff, das durch den Ozean in einer Flasche segelt. Füge Wellen und realistische Physik hinzu und kapsle die gesamte Szene in der Flasche ein. Gestalte die Szene beeindruckend und abwechslungsreich mit farbenfrohen Voxeln, simulierter Physik sowie interessanten Requisiten und Landschaften – alles innerhalb der Flasche. Verwende WebGL und beliebige Bibliotheken, die dafür erforderlich sind, aber stelle sicher, dass ich den gesamten Code in eine einzige HTML-Datei einfügen und sie in Chrome öffnen kann.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2103855977376125161) · [Originalbeitrag](https://x.com/Artless101/status/2103856049925071141) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2103860776419111285"></a>
+
+### Waldsee-Dorfumgebung
+
+[Givros](https://x.com/givros) · 2026-09-26
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/9be4889a639ad97638c10be775f22e1121913e2d8ac6c3e25fca613c8510a2c1.jpg" width="840" loading="lazy" alt="Waldsee-Dorfumgebung"></a>
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/fe415aed9bbd551d9c40c9b8264ce62bd71fd52d91d56f61680659112ae3377c.jpg" width="840" loading="lazy" alt="Waldsee-Dorfumgebung"></a>
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/ed31cdb42a8f2eb8c18d93e49bc070cc4ecfc7865c7f5cbb712bc29fa09a3bbb.jpg" width="840" loading="lazy" alt="Waldsee-Dorfumgebung"></a>
+
+Ein 3D-Umgebungsbriefing, das der Hauptautor für einen Vergleich von Luna Light, Sol Light und Astra Light mit demselben Prompt verwendet. Es beschreibt einen Wald rund um einen zentralen See, ein verlassenes Haus im See, ein blumengeschmücktes französisches Dorf am Seeufer und verbindende Wege.
+
+**Prompt**
+
+```text
+Ein Wald mit einem See in der Mitte. Inmitten des Sees steht ein verlassenes Haus. Rund um den See liegt ein blumengeschmücktes französisches Dorf. Wege verbinden die wichtigen Orte miteinander.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2103860776419111285) · [Originalbeitrag](https://x.com/givros/status/2103860776419111285) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Endlose Panzerverteidigung
@@ -4128,7 +4132,7 @@ Liefere Quellcode, Lockfile, npm-Befehle für Entwicklung und Build sowie die st
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 291 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 293 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>

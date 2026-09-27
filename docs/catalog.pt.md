@@ -28,7 +28,7 @@
 **Um ponto de partida para seu próximo jogo, cena ou mundo interativo.**
 
 
-**291 · Prompts mais recentes do Astra**
+**293 · Prompts mais recentes do Astra**
 
 ## Projetos em destaque
 
@@ -56,8 +56,6 @@
 - [Explorador interativo de anatomia 3D](#2099206962344800541) · GitHub
 - [Demo de gráficos de fantasia isométrica](#2100271998618177864) · GitHub
 - [Mosswing: jogo 3D mobile de toque para bater asas](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Construir THE LAST GATE: corrida com multidão e portões matemáticos](#2097678911882809407)
-- [Simulação 3D em tempo real de uma fábrica e suas plataformas de lançamento](#2097730920224534868)
 - [Clone de Minecraft com multijogador](#2097797479488246071)
 - [Demo interativa de gráficos de fantasia](#2097821164093480999)
 - [Curta 3D de gato sem falas](#2097900087901106244)
@@ -144,6 +142,8 @@
 - [Modelagem 3D de roupas para VRChat](#2103456264785424530)
 - [Criar um porquinho-da-índia no Blender](#2103482826519986544)
 - [Jardim japonês em estilo voxel no Three.js](#2103486103831339269)
+- [Cena WebGL de navio em uma garrafa com arte voxel](#2103855977376125161)
+- [Ambiente de vila lacustre na floresta](#2103860776419111285)
 - [Battle City 3D: Defesa de Tanques sem Fim](#battle-city-3d)
 - [Crazy Tanks — Artilharia 3D em uma ilha](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Jogo de sobrevivência com armas bizarras](#odd-arms)
@@ -326,46 +326,6 @@ Remasterize o clássico jogo de “toque para bater asas” — aquele em que vo
 ```
 
 [Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Publicação original](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Código-fonte](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Demonstração](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2097678911882809407"></a>
-
-### Construir THE LAST GATE: corrida com multidão e portões matemáticos
-
-[MSB](https://x.com/KeWai386772) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097678911882809407"><img src="../assets/previews/a8bbf8917e9f19971a1ed3976735efde583ae25e4dedf23df3e71f16f775b59a.jpg" width="840" loading="lazy" alt="Construir THE LAST GATE: corrida com multidão e portões matemáticos"></a>
-
-Crie um jogo de corrida com multidão jogável, em orientação vertical, com portões matemáticos, mudanças reais no tamanho da equipe, perdas causadas por obstáculos, um confronto final determinado pelo número de sobreviventes, três rotas curtas, reinício instantâneo e replay de comandos com seed.
-
-**Prompt**
-
-```text
-Construir THE LAST GATE Construir THE LAST GATE: um jogo de corrida com multidão jogável, em orientação vertical, com portões matemáticos. O tamanho visível da equipe deve corresponder ao número real de personagens. Implemente perdas causadas por obstáculos com consequências reais e um confronto final determinado pelo número de sobreviventes. Entregue três rotas curtas, reinício instantâneo e replay de comandos com seed; não simule uma vitória.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097678911882809407) · [Publicação original](https://x.com/KeWai386772/status/2097678911882809407) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2097730920224534868"></a>
-
-### Simulação 3D em tempo real de uma fábrica e suas plataformas de lançamento
-
-[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097730920224534868"><img src="../assets/previews/037678cffe2db79eb31428a1ae5c1c82b08c90735d44f1f31cf452dfae4c6c61.jpg" width="840" loading="lazy" alt="Simulação 3D em tempo real de uma fábrica e suas plataformas de lançamento"></a>
-
-Uma solicitação para estudar os livros de produção enxuta da @AirsupHQ, desenvolver o conceito de uma fábrica com 10 plataformas de lançamento e criar uma simulação 3D em tempo real da chegada dos materiais, dos foguetes se deslocando até as plataformas e da decolagem.
-
-**Prompt**
-
-```text
-Estude os livros de produção enxuta da @AirsupHQ, desenvolva o conceito de uma fábrica com 10 plataformas de lançamento e crie uma simulação 3D em tempo real.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097730920224534868) · [Publicação original](https://x.com/konstantinsaifo/status/2097730920224534868) · [Voltar aos exemplos](#all-prompts)
 
 ---
 
@@ -3736,6 +3696,50 @@ Crie um jardim japonês detalhado em estilo voxel no Three.js, com um pagode, al
 
 ---
 
+<a id="2103855977376125161"></a>
+
+### Cena WebGL de navio em uma garrafa com arte voxel
+
+[PEP PEPICH](https://x.com/Artless101) · 2026-09-26
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2103855977376125161"><img src="../assets/previews/d8a74685a75a3f46e3e8ca5a4148d471823b51ea9e7e317e8eb3add7d7d18fa4.jpg" width="840" loading="lazy" alt="Cena WebGL de navio em uma garrafa com arte voxel"></a>
+
+Crie uma elaborada cena colorida em arte voxel, com um navio à vela e o oceano dentro de uma garrafa, incluindo ondas, física simulada e diversos objetos ou paisagens. O resultado deve ser uma cena WebGL capaz de rodar a partir de um único arquivo HTML no Chrome.
+
+**Prompt**
+
+```text
+Projete e crie uma cena de arte voxel muito criativa, elaborada e detalhada, com um navio complexo navegando pelo oceano dentro de uma garrafa. Inclua ondas e física realista, mantendo toda a cena encapsulada na garrafa. Torne a cena impressionante e variada, usando voxels coloridos, física simulada e objetos ou paisagens interessantes, todos encapsulados na garrafa. Use WebGL e as bibliotecas necessárias para realizar isso, mas certifique-se de que eu possa colar tudo em um único arquivo HTML e abri-lo no Chrome
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2103855977376125161) · [Publicação original](https://x.com/Artless101/status/2103856049925071141) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2103860776419111285"></a>
+
+### Ambiente de vila lacustre na floresta
+
+[Givros](https://x.com/givros) · 2026-09-26
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/9be4889a639ad97638c10be775f22e1121913e2d8ac6c3e25fca613c8510a2c1.jpg" width="840" loading="lazy" alt="Ambiente de vila lacustre na floresta"></a>
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/fe415aed9bbd551d9c40c9b8264ce62bd71fd52d91d56f61680659112ae3377c.jpg" width="840" loading="lazy" alt="Ambiente de vila lacustre na floresta"></a>
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/ed31cdb42a8f2eb8c18d93e49bc070cc4ecfc7865c7f5cbb712bc29fa09a3bbb.jpg" width="840" loading="lazy" alt="Ambiente de vila lacustre na floresta"></a>
+
+Briefing de ambiente 3D usado pelo autor principal para comparar Luna Light, Sol Light e Astra Light com o mesmo prompt. Ele especifica uma floresta ao redor de um lago central, uma casa abandonada no lago, uma vila francesa repleta de flores ao redor e caminhos conectando os pontos principais.
+
+**Prompt**
+
+```text
+Uma floresta com um lago no centro. No meio do lago, uma casa abandonada. Ao redor do lago, uma vila francesa repleta de flores. Caminhos conectando os pontos principais.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2103860776419111285) · [Publicação original](https://x.com/givros/status/2103860776419111285) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Defesa de Tanques sem Fim
@@ -4124,7 +4128,7 @@ Entregue o código-fonte, o lockfile, os comandos npm de desenvolvimento/build e
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 291 exemplos no site oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 293 exemplos no site oficial →</a></strong></p>
 <p><sub>Para manter a renderização do README do GitHub fluida, mostramos aqui apenas os 100 exemplos mais recentes.</sub></p>
 <br>
 </td></tr>

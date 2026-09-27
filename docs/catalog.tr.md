@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**291 · En yeni Astra istemleri**
+**293 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -56,8 +56,6 @@
 - [Etkileşimli 3B Anatomi Gezgini](#2099206962344800541) · GitHub
 - [İzometrik fantezi grafik demosu](#2100271998618177864) · GitHub
 - [Mosswing: Mobil 3B Dokunarak Uçma Oyunu](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [THE LAST GATE'i oluştur: Aritmetik kapıları olan kalabalık koşu oyunu](#2097678911882809407)
-- [Canlı 3B fabrika ve fırlatma rampası simülasyonu](#2097730920224534868)
 - [Çok oyunculu Minecraft klonu](#2097797479488246071)
 - [Etkileşimli fantastik grafik demosu](#2097821164093480999)
 - [Sözsüz 3B Kedi Ödül Maması Kısa Filmi](#2097900087901106244)
@@ -144,6 +142,8 @@
 - [VRChat için kıyafet 3B modelleme](#2103456264785424530)
 - [Blender'da kobay oluştur](#2103482826519986544)
 - [Three.js'te voxel tarzı Japon bahçesi](#2103486103831339269)
+- [Şişede voksel gemi WebGL sahnesi](#2103855977376125161)
+- [Orman gölü köyü ortamı](#2103860776419111285)
 - [Battle City 3D: Sonsuz Tank Savunması](#battle-city-3d)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu](#odd-arms)
@@ -326,46 +326,6 @@ Klasik "dokunarak uçma" oyununu — küçük bir yaratığı havada tutmak içi
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Orijinal gönderi](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Kaynak kodu](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Canlı demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2097678911882809407"></a>
-
-### THE LAST GATE'i oluştur: Aritmetik kapıları olan kalabalık koşu oyunu
-
-[MSB](https://x.com/KeWai386772) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097678911882809407"><img src="../assets/previews/a8bbf8917e9f19971a1ed3976735efde583ae25e4dedf23df3e71f16f775b59a.jpg" width="840" loading="lazy" alt="THE LAST GATE'i oluştur: Aritmetik kapıları olan kalabalık koşu oyunu"></a>
-
-Aritmetik kapılar, gerçek takım sayısı değişimleri, engellerin neden olduğu kayıplar, hayatta kalan kişi sayısına göre belirlenen final karşılaşmaları, üç kısa rota, anında yeniden deneme ve tohum değerli girdi tekrar oynatma içeren oynanabilir bir dikey kalabalık koşu oyunu oluşturun.
-
-**İstem**
-
-```text
-THE LAST GATE'i oluştur THE LAST GATE'i oluştur: Aritmetik kapıları olan oynanabilir bir dikey kalabalık koşu oyunu. Görünen takım büyüklüğü gerçek kişi sayısıyla her zaman eşleşmeli; gerçek sonuçları olan engel kayıpları uygulanmalı ve final karşılaşması kişi sayısına göre belirlenmelidir. Üç kısa rota, anında yeniden deneme ve tohum değerli girdi tekrar oynatma sunun; zaferi uydurmayın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097678911882809407) · [Orijinal gönderi](https://x.com/KeWai386772/status/2097678911882809407) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2097730920224534868"></a>
-
-### Canlı 3B fabrika ve fırlatma rampası simülasyonu
-
-[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097730920224534868"><img src="../assets/previews/037678cffe2db79eb31428a1ae5c1c82b08c90735d44f1f31cf452dfae4c6c61.jpg" width="840" loading="lazy" alt="Canlı 3B fabrika ve fırlatma rampası simülasyonu"></a>
-
-@AirsupHQ yalın üretim kitaplarını inceleyerek 10 fırlatma rampalı bir fabrika konsepti geliştirme ve malzemelerin tesise gelişi, roketlerin rampalara ilerlemesi ve fırlatılması süreçlerini canlı bir 3B simülasyonda oluşturma talebi.
-
-**İstem**
-
-```text
-@AirsupHQ yalın üretim kitaplarını incele, 10 fırlatma rampalı bir fabrika konsepti geliştir ve canlı bir 3B simülasyon oluştur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097730920224534868) · [Orijinal gönderi](https://x.com/konstantinsaifo/status/2097730920224534868) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3805,6 +3765,50 @@ Three.js'te pagoda, minik köylüler, uçan bir ejderha ve etkileşimli ayrınt�
 
 ---
 
+<a id="2103855977376125161"></a>
+
+### Şişede voksel gemi WebGL sahnesi
+
+[PEP PEPICH](https://x.com/Artless101) · 2026-09-26
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103855977376125161"><img src="../assets/previews/d8a74685a75a3f46e3e8ca5a4148d471823b51ea9e7e317e8eb3add7d7d18fa4.jpg" width="840" loading="lazy" alt="Şişede voksel gemi WebGL sahnesi"></a>
+
+Dalgalar, modellenmiş fizik ve çeşitli objeler ya da manzaralar içeren, bir şişenin içine yerleştirilmiş yelkenli gemi ve okyanustan oluşan ayrıntılı, renkli bir voksel sanat sahnesi oluşturun. İstenen sonuç, Chrome'da çalışabilen ve tek bir HTML dosyasından açılabilen bir WebGL sahnesidir.
+
+**İstem**
+
+```text
+Şişenin içinde okyanusta ilerleyen karmaşık bir gemiyi gösteren, son derece yaratıcı, ayrıntılı ve özenle hazırlanmış bir voksel sanat sahnesi tasarlayıp oluşturun. Dalgalar ve gerçekçi fizik simülasyonu ekleyin; tüm sahne şişenin içinde kapsüllenmiş olsun. Sahneyi etkileyici ve çeşitli hale getirin; renkli vokseller, modellenmiş fizik ve ilgi çekici objeler ya da manzaralar kullanın ve bunların tamamını şişenin içinde tutun. Bunu gerçekleştirmek için WebGL ve gerekli kütüphaneleri kullanabilirsiniz; ancak tüm kodu tek bir HTML dosyasına yapıştırıp Chrome'da açabildiğimden emin olun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103855977376125161) · [Orijinal gönderi](https://x.com/Artless101/status/2103856049925071141) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2103860776419111285"></a>
+
+### Orman gölü köyü ortamı
+
+[Givros](https://x.com/givros) · 2026-09-26
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/9be4889a639ad97638c10be775f22e1121913e2d8ac6c3e25fca613c8510a2c1.jpg" width="840" loading="lazy" alt="Orman gölü köyü ortamı"></a>
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/fe415aed9bbd551d9c40c9b8264ce62bd71fd52d91d56f61680659112ae3377c.jpg" width="840" loading="lazy" alt="Orman gölü köyü ortamı"></a>
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/ed31cdb42a8f2eb8c18d93e49bc070cc4ecfc7865c7f5cbb712bc29fa09a3bbb.jpg" width="840" loading="lazy" alt="Orman gölü köyü ortamı"></a>
+
+Ana yazarın Luna Light, Sol Light ve Astra Light'ı aynı istemle karşılaştırması için kullanılan 3B ortam taslağı. Merkezinde bir göl bulunan ormanı, gölün içindeki terk edilmiş bir evi, gölün çevresindeki çiçeklerle dolu Fransız köyünü ve bu noktaları birbirine bağlayan yolları tanımlar.
+
+**İstem**
+
+```text
+Merkezinde bir göl bulunan orman. Gölün ortasında terk edilmiş bir ev. Gölün çevresinde çiçeklerle dolu bir Fransız köyü. Önemli noktaları birbirine bağlayan yollar.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103860776419111285) · [Orijinal gönderi](https://x.com/givros/status/2103860776419111285) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Sonsuz Tank Savunması
@@ -4193,7 +4197,7 @@ Kaynak kodu, lockfile’ı, npm geliştirme/derleme komutlarını ve statik çı
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 291 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 293 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

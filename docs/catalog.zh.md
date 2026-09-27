@@ -29,7 +29,7 @@
 
 探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。
 
-**291 条案例 · 14 种语言 · 12 条附项目源码**
+**293 条案例 · 14 种语言 · 12 条附项目源码**
 
 ## 精选作品
 
@@ -57,8 +57,6 @@
 - [交互式 3D 解剖探索器](#2099206962344800541) · GitHub
 - [等距视角奇幻图形演示](#2100271998618177864) · GitHub
 - [Mosswing：移动端 3D 点击振翅游戏](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [构建 THE LAST GATE：带算术门的人群跑酷](#2097678911882809407)
-- [实时 3D 工厂发射台模拟](#2097730920224534868)
 - [支持多人游戏的 Minecraft 克隆版](#2097797479488246071)
 - [互动奇幻画面演示](#2097821164093480999)
 - [无对白 3D 猫咪短片](#2097900087901106244)
@@ -145,6 +143,8 @@
 - [VRChat 服装 3D 建模](#2103456264785424530)
 - [在 Blender 中制作豚鼠](#2103482826519986544)
 - [Three.js 体素风日式庭园](#2103486103831339269)
+- [瓶中体素帆船 WebGL 场景](#2103855977376125161)
+- [森林湖畔村庄环境](#2103860776419111285)
 - [Battle City 3D：无尽坦克防御](#battle-city-3d)
 - [疯狂坦克——3D 岛屿炮战](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS——奇趣武器生存游戏](#odd-arms)
@@ -327,46 +327,6 @@
 ```
 
 [查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [查看原帖](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [项目源码](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [在线演示](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2097678911882809407"></a>
-
-### 构建 THE LAST GATE：带算术门的人群跑酷
-
-[MSB](https://x.com/KeWai386772) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097678911882809407"><img src="../assets/previews/a8bbf8917e9f19971a1ed3976735efde583ae25e4dedf23df3e71f16f775b59a.jpg" width="840" loading="lazy" alt="构建 THE LAST GATE：带算术门的人群跑酷"></a>
-
-创建一款可玩的竖屏人群跑酷游戏，包含算术门、真实的队伍人数变化、障碍损失、由幸存人数决定的终点遭遇、三条短路线、即时重试和带种子的输入回放。
-
-**提示词**
-
-```text
-构建 THE LAST GATE 构建 THE LAST GATE：一款带算术门的可玩竖屏人群跑酷。可见队伍规模必须与实际人数一致，实现有实际后果的障碍损失，以及由人数决定的终点遭遇。交付三条短路线、即时重试与带种子的输入回放，不得编造胜利。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097678911882809407) · [查看原帖](https://x.com/KeWai386772/status/2097678911882809407) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2097730920224534868"></a>
-
-### 实时 3D 工厂发射台模拟
-
-[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097730920224534868"><img src="../assets/previews/037678cffe2db79eb31428a1ae5c1c82b08c90735d44f1f31cf452dfae4c6c61.jpg" width="840" loading="lazy" alt="实时 3D 工厂发射台模拟"></a>
-
-研究 @AirsupHQ 的精益生产书籍，设计一座拥有 10 个发射台的工厂方案，并构建一个实时 3D 模拟：展示物料到达、火箭驶向发射台并升空的过程。
-
-**提示词**
-
-```text
-研究 @AirsupHQ 的精益生产书籍，设计一座拥有 10 个发射台的工厂方案，并构建一个实时 3D 模拟。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097730920224534868) · [查看原帖](https://x.com/konstantinsaifo/status/2097730920224534868) · [返回案例导航](#all-prompts)
 
 ---
 
@@ -3756,6 +3716,50 @@ WebGPU 不可用时显示清晰的回退提示。
 
 ---
 
+<a id="2103855977376125161"></a>
+
+### 瓶中体素帆船 WebGL 场景
+
+[PEP PEPICH](https://x.com/Artless101) · 2026-09-26
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103855977376125161"><img src="../assets/previews/d8a74685a75a3f46e3e8ca5a4148d471823b51ea9e7e317e8eb3add7d7d18fa4.jpg" width="840" loading="lazy" alt="瓶中体素帆船 WebGL 场景"></a>
+
+创建一个精致多彩的瓶中体素艺术场景：一艘帆船航行在被封装于瓶中的海洋上，包含波浪、模拟物理效果以及丰富多样的道具或景观。最终结果应为一个可在 Chrome 中运行的 WebGL 场景，并且全部内容可放入单个 HTML 文件。
+
+**提示词**
+
+```text
+设计并创建一个极具创意、精致复杂且细节丰富的体素艺术场景：一艘造型精巧的船只在瓶中的海洋上航行。加入波浪和逼真的物理效果，让整个场景都封装在瓶内。使用色彩丰富的体素、模拟物理效果以及有趣的道具和景观，打造丰富多变、令人印象深刻的场景，并确保它们全部位于瓶中。使用 WebGL 及所需的各种库完成，但必须确保我可以将全部代码粘贴到单个 HTML 文件中，并在 Chrome 中打开运行
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103855977376125161) · [查看原帖](https://x.com/Artless101/status/2103856049925071141) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2103860776419111285"></a>
+
+### 森林湖畔村庄环境
+
+[Givros](https://x.com/givros) · 2026-09-26
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/9be4889a639ad97638c10be775f22e1121913e2d8ac6c3e25fca613c8510a2c1.jpg" width="840" loading="lazy" alt="森林湖畔村庄环境"></a>
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/fe415aed9bbd551d9c40c9b8264ce62bd71fd52d91d56f61680659112ae3377c.jpg" width="840" loading="lazy" alt="森林湖畔村庄环境"></a>
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/ed31cdb42a8f2eb8c18d93e49bc070cc4ecfc7865c7f5cbb712bc29fa09a3bbb.jpg" width="840" loading="lazy" alt="森林湖畔村庄环境"></a>
+
+供根作者用于在相同提示词下对比 Luna Light、Sol Light 和 Astra Light 的 3D 环境简介。场景设定为一片环绕中央湖泊的森林，湖中有一栋废弃房屋，湖畔分布着繁花盛开的法国村庄，并由道路彼此连接。
+
+**提示词**
+
+```text
+一片森林，中间有一座湖。湖的中央有一栋废弃房屋。湖泊四周是一座繁花盛开的法国村庄。用道路连接各个重要地点。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103860776419111285) · [查看原帖](https://x.com/givros/status/2103860776419111285) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D：无尽坦克防御
@@ -4144,7 +4148,7 @@ WebGPU 不可用时显示清晰的回退提示。
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 291 条案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 293 条案例 →</a></strong></p>
 <p><sub>为保持 GitHub README 渲染流畅，这里仅展示最新 100 条案例。</sub></p>
 <br>
 </td></tr>

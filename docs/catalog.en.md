@@ -29,7 +29,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**291 examples · 14 languages · 12 examples with source code**
+**293 examples · 14 languages · 12 examples with source code**
 
 ## Featured projects
 
@@ -57,8 +57,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Interactive 3D Anatomy Explorer](#2099206962344800541) · GitHub
 - [Isometric fantasy graphics demo](#2100271998618177864) · GitHub
 - [Mosswing: Mobile 3D Tap-to-Flap Game](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Build THE LAST GATE: A Crowd Runner with Math Gates](#2097678911882809407)
-- [Live 3D factory launch-pad simulation](#2097730920224534868)
 - [Minecraft clone with multiplayer](#2097797479488246071)
 - [Interactive fantasy graphics demo](#2097821164093480999)
 - [Wordless 3D Cat Treat Short](#2097900087901106244)
@@ -145,6 +143,8 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [3D Modeling for VRChat Outfits](#2103456264785424530)
 - [Create a Guinea Pig in Blender](#2103482826519986544)
 - [Voxel-style Japanese garden in Three.js](#2103486103831339269)
+- [Voxel ship-in-a-bottle WebGL scene](#2103855977376125161)
+- [Forest lake village environment](#2103860776419111285)
 - [Battle City 3D: Endless Tank Defense](#battle-city-3d)
 - [Crazy Tanks — 3D Island Artillery](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Weird Weapons Survival Game](#odd-arms)
@@ -327,46 +327,6 @@ Remaster the classic "tap-to-flap" game — the one where you tap to keep a smal
 ```
 
 [View detail ↗](https://www.tripo3d.ai/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Original post](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Source code](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Live demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Back to examples](#all-prompts)
-
----
-
-<a id="2097678911882809407"></a>
-
-### Build THE LAST GATE: A Crowd Runner with Math Gates
-
-[MSB](https://x.com/KeWai386772) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2097678911882809407"><img src="../assets/previews/a8bbf8917e9f19971a1ed3976735efde583ae25e4dedf23df3e71f16f775b59a.jpg" width="840" loading="lazy" alt="Build THE LAST GATE: A Crowd Runner with Math Gates"></a>
-
-Create a playable portrait crowd runner with math gates, real-time team-size changes, losses from obstacles, an end encounter determined by the number of survivors, three short routes, instant retry, and seeded input replay.
-
-**Prompt**
-
-```text
-Build THE LAST GATE Build THE LAST GATE: a playable portrait crowd runner with math gates. The visible team size must match the actual number of characters, obstacle losses must have real consequences, and the end encounter must be determined by the number of survivors. Deliver three short routes, instant retry, and seeded input replay. Do not fabricate a victory.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2097678911882809407) · [Original post](https://x.com/KeWai386772/status/2097678911882809407) · [Back to examples](#all-prompts)
-
----
-
-<a id="2097730920224534868"></a>
-
-### Live 3D factory launch-pad simulation
-
-[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2097730920224534868"><img src="../assets/previews/037678cffe2db79eb31428a1ae5c1c82b08c90735d44f1f31cf452dfae4c6c61.jpg" width="840" loading="lazy" alt="Live 3D factory launch-pad simulation"></a>
-
-A request to study @AirsupHQ lean-production books, develop a factory concept with 10 launch pads, and build a live 3D simulation of materials arriving, rockets driving to pads, and lifting off.
-
-**Prompt**
-
-```text
-study @AirsupHQ lean production books, and develop a concept for a factory with 10 launch pads, and build a live 3D simulation.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2097730920224534868) · [Original post](https://x.com/konstantinsaifo/status/2097730920224534868) · [Back to examples](#all-prompts)
 
 ---
 
@@ -3781,6 +3741,50 @@ Build a detailed voxel-style Japanese garden in Three.js, with a pagoda, tiny vi
 
 ---
 
+<a id="2103855977376125161"></a>
+
+### Voxel ship-in-a-bottle WebGL scene
+
+[PEP PEPICH](https://x.com/Artless101) · 2026-09-26
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103855977376125161"><img src="../assets/previews/d8a74685a75a3f46e3e8ca5a4148d471823b51ea9e7e317e8eb3add7d7d18fa4.jpg" width="840" loading="lazy" alt="Voxel ship-in-a-bottle WebGL scene"></a>
+
+Create an elaborate colorful voxel-art scene of a sailing ship and ocean enclosed in a bottle, with waves, modeled physics, and varied props or landscapes. The requested result is a WebGL scene that can run from a single HTML file in Chrome.
+
+**Prompt**
+
+```text
+Design and create a very creative, elaborate, and detailed voxel art scene of a intricate ship sailing through the ocean inside of a bottle. Include waves and realistic physics, with the whole scene encapsulated inside of the bottle. Make the scene impressive and varied and use colorful voxels, modeled physics, and interesting props / landscapes all encapsulated inside of the bottle. Use WebGL and whatever libraries to get this done but make sure I can paste it all into a single HTML file and open it in Chrome
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103855977376125161) · [Original post](https://x.com/Artless101/status/2103856049925071141) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2103860776419111285"></a>
+
+### Forest lake village environment
+
+[Givros](https://x.com/givros) · 2026-09-26
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/9be4889a639ad97638c10be775f22e1121913e2d8ac6c3e25fca613c8510a2c1.jpg" width="840" loading="lazy" alt="Forest lake village environment"></a>
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/fe415aed9bbd551d9c40c9b8264ce62bd71fd52d91d56f61680659112ae3377c.jpg" width="840" loading="lazy" alt="Forest lake village environment"></a>
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/ed31cdb42a8f2eb8c18d93e49bc070cc4ecfc7865c7f5cbb712bc29fa09a3bbb.jpg" width="840" loading="lazy" alt="Forest lake village environment"></a>
+
+A 3D environment brief used by the root author for a same-prompt comparison of Luna Light, Sol Light, and Astra Light. It specifies a forest surrounding a central lake, an abandoned house in the lake, a flower-filled French village around it, and connecting paths.
+
+**Prompt**
+
+```text
+A forest with a lake in the center. In the middle of the lake, an abandoned house. Around the lake, a flower-filled French village. Paths connecting the important points.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103860776419111285) · [Original post](https://x.com/givros/status/2103860776419111285) · [Back to examples](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Endless Tank Defense
@@ -4169,7 +4173,7 @@ Deliver source, lockfile, npm development/build commands and static output. Veri
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 291 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 293 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>

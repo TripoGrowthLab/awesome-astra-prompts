@@ -28,7 +28,7 @@
 **다음 게임, 장면, 인터랙티브 세계를 위한 아이디어를 찾아보세요.**
 
 
-**291 · 최신 Astra 프롬프트**
+**293 · 최신 Astra 프롬프트**
 
 ## 추천 작품
 
@@ -56,8 +56,6 @@
 - [인터랙티브 3D 해부학 탐색기](#2099206962344800541) · GitHub
 - [아이소메트릭 판타지 그래픽 데모](#2100271998618177864) · GitHub
 - [Mosswing: 모바일 3D 탭 플랩 게임](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [THE LAST GATE 제작: 산술 게이트가 있는 군중 파쿠르](#2097678911882809407)
-- [실시간 3D 공장 발사대 시뮬레이션](#2097730920224534868)
 - [멀티플레이어를 지원하는 Minecraft 클론](#2097797479488246071)
 - [인터랙티브 판타지 그래픽 데모](#2097821164093480999)
 - [대사 없는 3D 고양이 간식 숏](#2097900087901106244)
@@ -144,6 +142,8 @@
 - [VRChat용 의상 3D 모델링](#2103456264785424530)
 - [Blender에서 기니피그 만들기](#2103482826519986544)
 - [Three.js로 구현한 복셀 스타일 일본식 정원](#2103486103831339269)
+- [복셀 병 속의 배 WebGL 장면](#2103855977376125161)
+- [숲속 호수 마을 환경](#2103860776419111285)
 - [Battle City 3D: 끝없는 탱크 디펜스](#battle-city-3d)
 - [Crazy Tanks — 3D 아일랜드 포병전](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — 기묘한 무기 서바이벌 게임](#odd-arms)
@@ -326,46 +326,6 @@ Three.js를 사용해 고품질 인터랙티브 3D 전시물 "체르노빌 아�
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [원본 게시물](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [소스 코드](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [데모](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="2097678911882809407"></a>
-
-### THE LAST GATE 제작: 산술 게이트가 있는 군중 파쿠르
-
-[MSB](https://x.com/KeWai386772) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097678911882809407"><img src="../assets/previews/a8bbf8917e9f19971a1ed3976735efde583ae25e4dedf23df3e71f16f775b59a.jpg" width="840" loading="lazy" alt="THE LAST GATE 제작: 산술 게이트가 있는 군중 파쿠르"></a>
-
-산술 게이트, 실제 인원수 변화, 장애물로 인한 인원 손실, 생존 인원수에 따라 달라지는 결승 지점의 조우, 세 개의 짧은 경로, 즉시 재시작, 시드 기반 입력 리플레이를 포함한 플레이 가능한 세로형 군중 파쿠르 게임을 제작하세요.
-
-**프롬프트**
-
-```text
-THE LAST GATE 제작 THE LAST GATE 제작: 산술 게이트가 있는 플레이 가능한 세로형 군중 파쿠르 게임입니다. 화면에 보이는队伍 규모는 실제 인원수와 반드시 일치해야 하며, 장애물로 인한 인원 손실이 실제 결과로 이어지도록 구현하고, 생존 인원수에 따라 결승 지점의 조우가 결정되도록 하세요. 세 개의 짧은 경로, 즉시 재시작, 시드 기반 입력 리플레이를 제공하고 승리를 꾸며내지 마세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097678911882809407) · [원본 게시물](https://x.com/KeWai386772/status/2097678911882809407) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="2097730920224534868"></a>
-
-### 실시간 3D 공장 발사대 시뮬레이션
-
-[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097730920224534868"><img src="../assets/previews/037678cffe2db79eb31428a1ae5c1c82b08c90735d44f1f31cf452dfae4c6c61.jpg" width="840" loading="lazy" alt="실시간 3D 공장 발사대 시뮬레이션"></a>
-
-@AirsupHQ의 린 생산 관련 서적을 연구하고, 발사대 10개를 갖춘 공장 콘셉트를 개발한 다음, 자재가 반입되고 로켓이 발사대로 이동해 발사되는 과정을 실시간 3D로 시뮬레이션해 달라는 요청입니다.
-
-**프롬프트**
-
-```text
-@AirsupHQ의 린 생산 관련 서적을 연구하고, 발사대 10개를 갖춘 공장 콘셉트를 개발한 다음, 실시간 3D 시뮬레이션을 구축하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097730920224534868) · [원본 게시물](https://x.com/konstantinsaifo/status/2097730920224534868) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -3806,6 +3766,50 @@ Blender에서 기니피그를 만들어 줘
 
 ---
 
+<a id="2103855977376125161"></a>
+
+### 복셀 병 속의 배 WebGL 장면
+
+[PEP PEPICH](https://x.com/Artless101) · 2026-09-26
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103855977376125161"><img src="../assets/previews/d8a74685a75a3f46e3e8ca5a4148d471823b51ea9e7e317e8eb3add7d7d18fa4.jpg" width="840" loading="lazy" alt="복셀 병 속의 배 WebGL 장면"></a>
+
+파도와 물리 시뮬레이션, 다양한 소품과 풍경을 더해 병 안에 갇힌 범선과 바다를 정교하고 다채로운 복셀 아트로 표현한 장면을 만드세요. 결과물은 Chrome에서 단일 HTML 파일로 실행할 수 있는 WebGL 장면이어야 합니다.
+
+**프롬프트**
+
+```text
+병 안에서 정교한 배가 바다를 항해하는 매우 창의적이고 화려하며 디테일한 복셀 아트 장면을 설계하고 제작하세요. 파도와 사실적인 물리 시뮬레이션을 포함하고, 장면 전체가 병 안에 들어가도록 구성하세요. 다채로운 복셀과 물리 시뮬레이션, 흥미로운 소품과 풍경을 활용해 인상적이고 다채로운 장면을 만드세요. WebGL과 필요한 라이브러리를 사용하되, 모든 코드를 하나의 HTML 파일에 붙여넣은 뒤 Chrome에서 열어 실행할 수 있어야 합니다.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103855977376125161) · [원본 게시물](https://x.com/Artless101/status/2103856049925071141) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="2103860776419111285"></a>
+
+### 숲속 호수 마을 환경
+
+[Givros](https://x.com/givros) · 2026-09-26
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/9be4889a639ad97638c10be775f22e1121913e2d8ac6c3e25fca613c8510a2c1.jpg" width="840" loading="lazy" alt="숲속 호수 마을 환경"></a>
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/fe415aed9bbd551d9c40c9b8264ce62bd71fd52d91d56f61680659112ae3377c.jpg" width="840" loading="lazy" alt="숲속 호수 마을 환경"></a>
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/ed31cdb42a8f2eb8c18d93e49bc070cc4ecfc7865c7f5cbb712bc29fa09a3bbb.jpg" width="840" loading="lazy" alt="숲속 호수 마을 환경"></a>
+
+Luna Light, Sol Light, Astra Light를 동일한 프롬프트로 비교하기 위해 루트 작성자가 사용하는 3D 환경 제작 브리프입니다. 중앙에 호수가 있고 주변을 숲이 둘러싸며, 호수 한가운데에는 버려진 집이 있고 호수 주변에는 꽃이 만발한 프랑스 마을과 주요 지점을 잇는 길이 배치됩니다.
+
+**프롬프트**
+
+```text
+호수가 중앙에 있는 숲. 호수 한가운데에 버려진 집. 호수 주변에 꽃이 만발한 프랑스 마을. 주요 지점을 연결하는 길.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103860776419111285) · [원본 게시물](https://x.com/givros/status/2103860776419111285) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: 끝없는 탱크 디펜스
@@ -4194,7 +4198,7 @@ Vite, TypeScript와 Three.js를 사용하고, 지리 데이터, 순수 물리·�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 291개 보기 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 293개 보기 →</a></strong></p>
 <p><sub>GitHub README가 원활하게 렌더링되도록 최신 사례 100개만 표시합니다.</sub></p>
 <br>
 </td></tr>
