@@ -6,10 +6,6 @@
 
 Explore the linked projects and check their own licenses before reuse.
 
-## [bubblik525/collider](https://github.com/bubblik525/collider)
-
-- [Interactive 3D particle collider](catalog.en.md#2097781208596029936) · [BuBBliK](https://x.com/k1rallik)
-
 ## [bubblik525/head](https://github.com/bubblik525/head)
 
 - [Interactive 3D atlas of the human head and brain](catalog.en.md#2098105648106078541) · [BuBBliK](https://x.com/k1rallik)

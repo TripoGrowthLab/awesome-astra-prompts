@@ -29,7 +29,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**293 examples · 14 languages · 12 examples with source code**
+**295 examples · 14 languages · 12 examples with source code**
 
 ## Featured projects
 
@@ -51,13 +51,11 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 <details>
 <summary>Browse examples</summary>
 
-- [Interactive 3D particle collider](#2097781208596029936) · GitHub
 - [Interactive 3D atlas of the human head and brain](#2098105648106078541) · GitHub
 - [Chernobyl Atlas](#2098841316591346006) · GitHub
 - [Interactive 3D Anatomy Explorer](#2099206962344800541) · GitHub
 - [Isometric fantasy graphics demo](#2100271998618177864) · GitHub
 - [Mosswing: Mobile 3D Tap-to-Flap Game](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Minecraft clone with multiplayer](#2097797479488246071)
 - [Interactive fantasy graphics demo](#2097821164093480999)
 - [Wordless 3D Cat Treat Short](#2097900087901106244)
 - [Make an 18-hole golf course more demanding](#2098038909514944562)
@@ -145,6 +143,8 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Voxel-style Japanese garden in Three.js](#2103486103831339269)
 - [Voxel ship-in-a-bottle WebGL scene](#2103855977376125161)
 - [Forest lake village environment](#2103860776419111285)
+- [Super Heavy booster catch in Blender](#2103966922127630820)
+- [Interactive 3D camera lens light-path demo](#2104077535315144878)
 - [Battle City 3D: Endless Tank Defense](#battle-city-3d)
 - [Crazy Tanks — 3D Island Artillery](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Weird Weapons Survival Game](#odd-arms)
@@ -153,38 +153,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [The Cyclops' Island](#cyclops-island-threejs-game)
 
 </details>
-
-<a id="2097781208596029936"></a>
-
-### Interactive 3D particle collider
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2097781208596029936"><img src="assets/previews/4ed4699aef4eb5b9406b88d4752ffe8edc6769d3f9510d4157e617b201314e1f.jpg" width="840" loading="lazy" alt="Interactive 3D particle collider"></a>
-
-Suggested starting prompt from the author for building an interactive 3D CERN LHC- and ATLAS-inspired particle collider in one self-contained HTML file. It is presented as a prompt to build something similar, not explicitly as the exact input used for the showcased result.
-
-**Prompt**
-
-```text
-Build a detailed, interactive 3D particle collider inspired by CERN’s LHC and the ATLAS detector using Three.js.
-
-Create three views: a detector with thousands of individually animated parts, an accelerator ring with counter-rotating beams, and a synthetic collision display.
-
-Make the detector unfold in six stages - from large end-cap wheels and magnets down to individual sensor modules. Include scroll-controlled disassembly, 30/60/90-second playback, pause, and reverse assembly.
-
-Add per-system visibility switches, component counts, educational descriptions, and a camera flight around the ring.
-
-Use a premium dark interface, metallic materials, subtle gold accents, and cinematic lighting. Keep parts readable and avoid excessive overlap.
-
-Consult official CERN references. Clearly label simplified geometry and synthetic events.
-
-Deliver one self-contained HTML file that works offline, plus portable source code and a README.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2097781208596029936) · [Original post](https://x.com/k1rallik/status/2097781208596029936) · [Source code](https://github.com/bubblik525/collider) · [Back to examples](#all-prompts)
-
----
 
 <a id="2098105648106078541"></a>
 
@@ -327,26 +295,6 @@ Remaster the classic "tap-to-flap" game — the one where you tap to keep a smal
 ```
 
 [View detail ↗](https://www.tripo3d.ai/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Original post](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Source code](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Live demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Back to examples](#all-prompts)
-
----
-
-<a id="2097797479488246071"></a>
-
-### Minecraft clone with multiplayer
-
-[Armaan Jain](https://x.com/Armaan_Jain123) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2097797479488246071"><img src="assets/previews/1169f5f631b3b63a5ce327df6448839084a348584343618ae7dae88f5ac9b4fc.jpg" width="840" loading="lazy" alt="Minecraft clone with multiplayer"></a>
-
-Create a browser-based Minecraft clone with procedurally seeded worlds, Survival mode, biomes, dimensions, mobs, structures, achievements, LAN multiplayer, native game UI, directional audio, accurate block and fluid behavior, and performance optimization.
-
-**Prompt**
-
-```text
-Create a perfect end-to-end Minecraft clone, and let me know if you need anything from me. I’ve attached a deep research document on Minecraft that will be helpful. Make sure you absolutely nail the mechanics, animations, and graphics. Every new world should be procedurally and randomly generated using a seed. Include all the mobs players expect from Minecraft and ensure they appear in the correct biomes. Once the single-player implementation is complete, add the ability for players to open their worlds to LAN and join each other’s servers. The game should use Survival mode by default. Make the textures look exactly like Minecraft, and if you can find the exact textures online, you may use them. When I say I want it to be exactly like Minecraft, I mean it. No one should be able to tell the difference between the website you create and the real Minecraft. This is all for educational purposes, so don’t worry about copyright. Don’t simply use HTML for the game’s UI. Build it natively within the game engine. The character and mob models should be the real ones, and they should look, work, and animate exactly like they do in the real game. Add directional audio and sounds. Go page by page, interaction by interaction, and mechanic by mechanic to make it perfect. Once everything is complete and you have created a perfect Minecraft clone, start optimizing its performance using techniques such as culling, render distance, simulation distance, distance-based LOD, FPS optimization, and more. Make sure the game logic is accurate. For example, if a sand or gravel block underneath other sand or gravel blocks is broken, the blocks above it should fall. If a supporting block is broken, any flowers or grass above it should also break. The inventory UI should look exactly the same, and its interactions should feel identical, including shortcuts, animations, and the hit effects of swords and other weapons and tools. Accurately recreate interactions with water and mobs inside it, auto-jump, and all the other small details. Focus on getting these details right and making everything perfect. The game should not feel glitchy. It should feel smooth and exactly like the real Minecraft. Pay attention to smaller details such as clouds, the day-night cycle, weather, Minecraft background music, and more. Make sure water and lava flow as expected, and ensure their rendering is implemented perfectly. Mobs should not spawn on top of one another, inside trees, or inside blocks. Add Minecraft structures, villagers, loot, and everything related to them. Perfect the mob-spawning logic, ensure that mob animations are smooth, and make the size of every mob and the player character accurate to the real Minecraft. Focus on actions Minecraft players commonly perform, such as jumping while placing blocks to speed bridge or climb higher, using Ctrl + W while jumping, and more. Make items look good when held in the player’s hand, and ensure the hand position exactly matches the real Minecraft. Add hit effects on mobs, and make every item sprite in the inventory look exactly like it does in the real Minecraft.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2097797479488246071) · [Original post](https://x.com/Armaan_Jain123/status/2097797479488246071) · [Back to examples](#all-prompts)
 
 ---
 
@@ -3785,6 +3733,48 @@ A forest with a lake in the center. In the middle of the lake, an abandoned hous
 
 ---
 
+<a id="2103966922127630820"></a>
+
+### Super Heavy booster catch in Blender
+
+[Vortlyn](https://x.com/Vortlyn) · 2026-09-26
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103966922127630820"><img src="assets/previews/bb6b6c09f4ef1f48696a70e00f481b40cbda21d93b13be919c352e1c47cb4fb7.jpg" width="840" loading="lazy" alt="Super Heavy booster catch in Blender"></a>
+
+Create a code-generated Blender model of a Super Heavy booster catch, without downloaded models, textures, or HDRIs.
+
+**Prompt**
+
+```text
+build a Super Heavy booster catch in Blender using only Python. no downloaded models, no textures, no HDRIs, everything generated by code
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103966922127630820) · [Original post](https://x.com/Vortlyn/status/2103966922127630820) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2104077535315144878"></a>
+
+### Interactive 3D camera lens light-path demo
+
+[noah helms](https://x.com/haonv2) · 2026-09-27
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2104077535315144878"><img src="assets/previews/23a0290532ea8418724ffc38cac2eb4c14a3a7043713608bd958d0c1c53d85a6.jpg" width="840" loading="lazy" alt="Interactive 3D camera lens light-path demo"></a>
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2104077535315144878"><img src="assets/previews/b0a7ef6ce5123b523b6a3a17379d8be3262082545b8eefea6b1b403e15161e2d.jpg" width="840" loading="lazy" alt="Interactive 3D camera lens light-path demo"></a>
+
+An interactive 3D render demonstrating how light travels through a camera lens to the sensor, set in a mountain landscape with waterfalls and green grass. The root post presents this as the prompt used for an Astra-6 and Opus 5.5 comparison.
+
+**Prompt**
+
+```text
+i want you to create an interactive 3d render of how light travels through a camera lens and gets to the sensor. make the demo use a beautiful mountain scape with waterfalls and beautiful green grass
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2104077535315144878) · [Original post](https://x.com/haonv2/status/2104077535315144878) · [Back to examples](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Endless Tank Defense
@@ -4173,7 +4163,7 @@ Deliver source, lockfile, npm development/build commands and static output. Veri
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 293 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 295 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>

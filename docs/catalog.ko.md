@@ -28,7 +28,7 @@
 **다음 게임, 장면, 인터랙티브 세계를 위한 아이디어를 찾아보세요.**
 
 
-**293 · 최신 Astra 프롬프트**
+**295 · 최신 Astra 프롬프트**
 
 ## 추천 작품
 
@@ -50,13 +50,11 @@
 <details>
 <summary>사례 둘러보기</summary>
 
-- [인터랙티브 3D 입자 충돌기](#2097781208596029936) · GitHub
 - [인체 머리와 뇌 인터랙티브 3D 아틀라스](#2098105648106078541) · GitHub
 - [체르노빌 아틀라스](#2098841316591346006) · GitHub
 - [인터랙티브 3D 해부학 탐색기](#2099206962344800541) · GitHub
 - [아이소메트릭 판타지 그래픽 데모](#2100271998618177864) · GitHub
 - [Mosswing: 모바일 3D 탭 플랩 게임](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [멀티플레이어를 지원하는 Minecraft 클론](#2097797479488246071)
 - [인터랙티브 판타지 그래픽 데모](#2097821164093480999)
 - [대사 없는 3D 고양이 간식 숏](#2097900087901106244)
 - [18홀 골프 코스를 더 까다롭게 만들기](#2098038909514944562)
@@ -144,6 +142,8 @@
 - [Three.js로 구현한 복셀 스타일 일본식 정원](#2103486103831339269)
 - [복셀 병 속의 배 WebGL 장면](#2103855977376125161)
 - [숲속 호수 마을 환경](#2103860776419111285)
+- [Blender에서 슈퍼 헤비 부스터 캐치 구현하기](#2103966922127630820)
+- [인터랙티브 3D 카메라 렌즈 광선 경로 데모](#2104077535315144878)
 - [Battle City 3D: 끝없는 탱크 디펜스](#battle-city-3d)
 - [Crazy Tanks — 3D 아일랜드 포병전](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — 기묘한 무기 서바이벌 게임](#odd-arms)
@@ -152,38 +152,6 @@
 - [키클롭스의 섬](#cyclops-island-threejs-game)
 
 </details>
-
-<a id="2097781208596029936"></a>
-
-### 인터랙티브 3D 입자 충돌기
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097781208596029936"><img src="../assets/previews/4ed4699aef4eb5b9406b88d4752ffe8edc6769d3f9510d4157e617b201314e1f.jpg" width="840" loading="lazy" alt="인터랙티브 3D 입자 충돌기"></a>
-
-Three.js를 사용해 CERN의 LHC와 ATLAS에서 영감을 받은 인터랙티브 3D 입자 충돌기를 하나의 독립 실행형 HTML 파일로 제작하기 위한 작성자 추천 시작 프롬프트입니다. 공개된 결과물에 사용한 정확한 입력값이라기보다, 유사한 결과물을 제작하기 위한 프롬프트로 제시되었습니다.
-
-**프롬프트**
-
-```text
-Three.js를 사용해 CERN의 LHC와 ATLAS 검출기에서 영감을 받은 정교한 인터랙티브 3D 입자 충돌기를 제작하세요.
-
-세 가지 뷰를 구성하세요. 수천 개의 부품을 각각 애니메이션으로 보여주는 검출기, 서로 반대 방향으로 회전하는 빔이 흐르는 가속기 링, 합성 충돌 디스플레이를 포함하세요.
-
-검출기가 대형 엔드캡 휠과 자석부터 개별 센서 모듈까지 6단계로 펼쳐지도록 구성하세요. 스크롤로 제어하는 분해, 30초/60초/90초 재생, 일시정지, 역방향 조립을 지원하세요.
-
-시스템별 표시 전환, 부품 수, 교육용 설명, 링을 따라 카메라가 이동하는 비행 연출을 추가하세요.
-
-고급스러운 어두운 인터페이스, 금속 재질, 은은한 골드 포인트, 시네마틱 라이팅을 사용하세요. 각 부품이 잘 식별되도록 하고 겹침이 지나치게 많지 않게 구성하세요.
-
-CERN 공식 자료를 참고하세요. 단순화한 지오메트리와 합성 이벤트임을 명확히 표시하세요.
-
-오프라인에서 작동하는 독립 실행형 HTML 파일 하나와 함께, 이식 가능한 소스 코드 및 README를 제공하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097781208596029936) · [원본 게시물](https://x.com/k1rallik/status/2097781208596029936) · [소스 코드](https://github.com/bubblik525/collider) · [사례 목록으로](#all-prompts)
-
----
 
 <a id="2098105648106078541"></a>
 
@@ -326,26 +294,6 @@ Three.js를 사용해 고품질 인터랙티브 3D 전시물 "체르노빌 아�
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [원본 게시물](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [소스 코드](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [데모](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="2097797479488246071"></a>
-
-### 멀티플레이어를 지원하는 Minecraft 클론
-
-[Armaan Jain](https://x.com/Armaan_Jain123) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097797479488246071"><img src="../assets/previews/1169f5f631b3b63a5ce327df6448839084a348584343618ae7dae88f5ac9b4fc.jpg" width="840" loading="lazy" alt="멀티플레이어를 지원하는 Minecraft 클론"></a>
-
-절차적으로 시드가 적용된 월드, 서바이벌 모드, 바이옴, 차원, 몹, 구조물, 도전 과제, LAN 멀티플레이어, 게임 내 네이티브 UI, 방향성 오디오, 정확한 블록 및 유체 동작, 성능 최적화를 갖춘 브라우저 기반 Minecraft 클론을 제작합니다.
-
-**프롬프트**
-
-```text
-완성도 높은 엔드투엔드 Minecraft 클론을 제작하고, 제가 제공해야 할 자료가 있으면 알려 주세요. 참고할 수 있도록 Minecraft에 관한 심층 리서치 문서를 첨부했습니다. 게임플레이 메커니즘, 애니메이션, 그래픽을 최대한 정확하게 구현해 주세요. 새로운 월드를 생성할 때마다 시드를 사용해 절차적이고 무작위로 월드를 생성해야 합니다. 플레이어가 Minecraft에서 기대하는 모든 몹을 포함하고, 각 몹이 올바른 바이옴에 나타나도록 해 주세요. 싱글플레이어 구현이 완료되면 플레이어가 자신의 월드를 LAN에 공개하고 서로의 서버에 참여할 수 있는 기능을 추가해 주세요. 게임은 기본적으로 서바이벌 모드로 시작해야 합니다. 텍스처는 Minecraft와 정확히 동일하게 보이도록 만들고, 온라인에서 동일한 텍스처를 찾을 수 있다면 사용해도 됩니다. Minecraft와 정확히 같게 만들라는 말은 정말로 구분할 수 없을 정도를 의미합니다. 제작한 웹사이트와 실제 Minecraft를 누구도 구별하지 못해야 합니다. 교육 목적이므로 저작권 문제는 걱정하지 않아도 됩니다. 게임 UI를 단순히 HTML로 만들지 말고 게임 엔진 안에서 네이티브 방식으로 구현해 주세요. 캐릭터와 몹 모델은 실제 게임의 모델을 사용하고, 실제 게임과 똑같이 보이고 작동하며 애니메이션되도록 해 주세요. 방향성 오디오와 효과음을 추가해 주세요. 페이지별, 상호작용별, 메커니즘별로 하나씩 점검하며 완성도를 높여 주세요. 모든 기능이 완성되고 완벽한 Minecraft 클론이 만들어지면 컬링, 렌더 거리, 시뮬레이션 거리, 거리 기반 LOD, FPS 최적화 등의 기법을 사용해 성능 최적화를 시작해 주세요. 게임 로직이 정확하게 작동하는지 확인해 주세요. 예를 들어 다른 모래나 자갈 블록 아래에 있는 모래 또는 자갈 블록을 부수면 그 위의 블록이 떨어져야 합니다. 지지 블록을 부수면 그 위에 있는 꽃이나 풀도 함께 부서져야 합니다. 인벤토리 UI는 실제 게임과 완전히 동일하게 보이고, 단축키, 애니메이션, 검과 기타 무기 및 도구의 타격 효과를 포함한 상호작용 감각도 동일해야 합니다. 물과 물속 몹의 상호작용, 자동 점프 및 그 밖의 세부 요소도 정확하게 재현해 주세요. 이런 세부 사항을 정확히 구현해 전체 완성도를 높이는 데 집중해 주세요. 게임이 버그가 많은 것처럼 느껴져서는 안 됩니다. 실제 Minecraft처럼 매끄럽고 자연스럽게 느껴져야 합니다. 구름, 낮과 밤의 주기, 날씨, Minecraft 배경 음악 등 작은 요소에도 주의를 기울여 주세요. 물과 용암이 예상대로 흐르게 하고, 렌더링도 완벽하게 구현해 주세요. 몹이 서로 겹쳐 생성되거나 나무 안이나 블록 내부에 생성되지 않도록 해 주세요. Minecraft의 구조물, 주민, 전리품 및 관련 요소를 모두 추가해 주세요. 몹 생성 로직을 완성도 높게 구현하고, 몹 애니메이션이 매끄럽게 재생되도록 하며, 모든 몹과 플레이어 캐릭터의 크기를 실제 Minecraft에 맞게 정확히 설정해 주세요. 플레이어가 Minecraft에서 자주 수행하는 행동에 집중해 주세요. 예를 들어 블록을 설치하면서 점프해 브리징 속도를 높이거나 더 높은 곳으로 올라가는 행동, 점프하면서 Ctrl + W를 사용하는 행동 등이 있습니다. 플레이어의 손에 들린 아이템이 보기 좋게 보이도록 하고, 손의 위치도 실제 Minecraft와 정확히 일치하게 해 주세요. 몹에 타격 효과를 추가하고, 인벤토리의 모든 아이템 스프라이트가 실제 Minecraft에서 보이는 모습과 정확히 같도록 만들어 주세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097797479488246071) · [원본 게시물](https://x.com/Armaan_Jain123/status/2097797479488246071) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -3810,6 +3758,48 @@ Luna Light, Sol Light, Astra Light를 동일한 프롬프트로 비교하기 위
 
 ---
 
+<a id="2103966922127630820"></a>
+
+### Blender에서 슈퍼 헤비 부스터 캐치 구현하기
+
+[Vortlyn](https://x.com/Vortlyn) · 2026-09-26
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103966922127630820"><img src="../assets/previews/bb6b6c09f4ef1f48696a70e00f481b40cbda21d93b13be919c352e1c47cb4fb7.jpg" width="840" loading="lazy" alt="Blender에서 슈퍼 헤비 부스터 캐치 구현하기"></a>
+
+다운로드한 모델, 텍스처 또는 HDRI 없이 코드로 생성하는 슈퍼 헤비 부스터 캐치 Blender 모델을 만들어 보세요.
+
+**프롬프트**
+
+```text
+Python만 사용해 Blender에서 슈퍼 헤비 부스터 캐치를 제작하세요. 다운로드한 모델과 텍스처, HDRI는 사용하지 말고 모든 요소를 코드로 생성하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103966922127630820) · [원본 게시물](https://x.com/Vortlyn/status/2103966922127630820) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="2104077535315144878"></a>
+
+### 인터랙티브 3D 카메라 렌즈 광선 경로 데모
+
+[noah helms](https://x.com/haonv2) · 2026-09-27
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/23a0290532ea8418724ffc38cac2eb4c14a3a7043713608bd958d0c1c53d85a6.jpg" width="840" loading="lazy" alt="인터랙티브 3D 카메라 렌즈 광선 경로 데모"></a>
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/b0a7ef6ce5123b523b6a3a17379d8be3262082545b8eefea6b1b403e15161e2d.jpg" width="840" loading="lazy" alt="인터랙티브 3D 카메라 렌즈 광선 경로 데모"></a>
+
+빛이 카메라 렌즈를 통과해 센서에 도달하는 과정을 보여 주는 인터랙티브 3D 렌더입니다. 폭포와 푸른 잔디가 있는 산악 풍경을 배경으로 구성했습니다. 원문 게시물에서는 Astra-6와 Opus 5.5를 비교하는 데 사용한 프롬프트로 소개합니다.
+
+**프롬프트**
+
+```text
+빛이 카메라 렌즈를 통과해 센서에 도달하는 과정을 보여 주는 인터랙티브 3D 렌더를 만들어 주세요. 폭포와 아름답고 푸른 잔디가 있는 멋진 산악 풍경을 배경으로 데모를 구성해 주세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2104077535315144878) · [원본 게시물](https://x.com/haonv2/status/2104077535315144878) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: 끝없는 탱크 디펜스
@@ -4198,7 +4188,7 @@ Vite, TypeScript와 Three.js를 사용하고, 지리 데이터, 순수 물리·�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 293개 보기 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 295개 보기 →</a></strong></p>
 <p><sub>GitHub README가 원활하게 렌더링되도록 최신 사례 100개만 표시합니다.</sub></p>
 <br>
 </td></tr>

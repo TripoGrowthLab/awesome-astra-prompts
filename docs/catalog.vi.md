@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**293 · Prompt Astra mới nhất**
+**295 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -50,13 +50,11 @@
 <details>
 <summary>Khám phá ví dụ</summary>
 
-- [Máy gia tốc hạt 3D tương tác](#2097781208596029936) · GitHub
 - [Atlas 3D tương tác về đầu và não người](#2098105648106078541) · GitHub
 - [Atlas Chernobyl](#2098841316591346006) · GitHub
 - [Trình khám phá giải phẫu 3D tương tác](#2099206962344800541) · GitHub
 - [Demo đồ họa fantasy isometric](#2100271998618177864) · GitHub
 - [Mosswing: Game 3D mobile chạm để vỗ cánh](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Bản sao Minecraft có chế độ nhiều người chơi](#2097797479488246071)
 - [Bản demo đồ họa fantasy tương tác](#2097821164093480999)
 - [Video ngắn 3D không lời: Mèo và nút thưởng](#2097900087901106244)
 - [Tăng độ thử thách cho sân golf 18 hố](#2098038909514944562)
@@ -144,6 +142,8 @@
 - [Vườn Nhật phong cách voxel trong Three.js](#2103486103831339269)
 - [Cảnh WebGL voxel tàu trong chai](#2103855977376125161)
 - [Môi trường làng ven hồ giữa rừng](#2103860776419111285)
+- [Mô phỏng bắt tầng đẩy Super Heavy trong Blender](#2103966922127630820)
+- [Demo tương tác 3D về đường đi của ánh sáng qua ống kính máy ảnh](#2104077535315144878)
 - [Battle City 3D: Phòng thủ xe tăng vô tận](#battle-city-3d)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Game sinh tồn với vũ khí kỳ quặc](#odd-arms)
@@ -152,38 +152,6 @@
 - [Hòn đảo của Cyclops](#cyclops-island-threejs-game)
 
 </details>
-
-<a id="2097781208596029936"></a>
-
-### Máy gia tốc hạt 3D tương tác
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097781208596029936"><img src="../assets/previews/4ed4699aef4eb5b9406b88d4752ffe8edc6769d3f9510d4157e617b201314e1f.jpg" width="840" loading="lazy" alt="Máy gia tốc hạt 3D tương tác"></a>
-
-Prompt khởi đầu do tác giả đề xuất để xây dựng một máy gia tốc hạt 3D tương tác lấy cảm hứng từ LHC của CERN và máy dò ATLAS trong một tệp HTML độc lập duy nhất. Đây là prompt dùng để xây dựng một sản phẩm tương tự, không được xác nhận là đầu vào chính xác đã dùng cho kết quả được giới thiệu.
-
-**Prompt**
-
-```text
-Xây dựng một máy gia tốc hạt 3D tương tác, chi tiết, lấy cảm hứng từ LHC của CERN và máy dò ATLAS bằng Three.js.
-
-Tạo ba chế độ xem: máy dò với hàng nghìn bộ phận được hoạt ảnh riêng lẻ, vòng gia tốc với các chùm tia quay ngược chiều nhau và màn hình hiển thị va chạm mô phỏng.
-
-Cho máy dò bung tách qua sáu giai đoạn — từ các bánh xe lớn ở hai đầu và nam châm cho đến từng mô-đun cảm biến. Hỗ trợ tháo rời bằng thao tác cuộn, phát lại trong 30/60/90 giây, tạm dừng và lắp ráp ngược.
-
-Thêm công tắc hiển thị cho từng hệ thống, số lượng bộ phận, mô tả mang tính giáo dục và chuyển động camera bay quanh vòng gia tốc.
-
-Sử dụng giao diện tối cao cấp, vật liệu kim loại, điểm nhấn vàng tinh tế và ánh sáng điện ảnh. Giữ cho các bộ phận dễ quan sát, tránh chồng lấn quá mức.
-
-Tham khảo các tài liệu chính thức của CERN. Gắn nhãn rõ ràng cho hình học đơn giản hóa và các sự kiện mô phỏng.
-
-Bàn giao một tệp HTML độc lập duy nhất có thể chạy ngoại tuyến, kèm mã nguồn dễ di chuyển và README.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097781208596029936) · [Bài đăng gốc](https://x.com/k1rallik/status/2097781208596029936) · [Mã nguồn](https://github.com/bubblik525/collider) · [Về danh sách ví dụ](#all-prompts)
-
----
 
 <a id="2098105648106078541"></a>
 
@@ -326,26 +294,6 @@ Làm mới game kinh điển “chạm để vỗ cánh” — game mà bạn ch
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Bài đăng gốc](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Mã nguồn](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Bản demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2097797479488246071"></a>
-
-### Bản sao Minecraft có chế độ nhiều người chơi
-
-[Armaan Jain](https://x.com/Armaan_Jain123) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097797479488246071"><img src="../assets/previews/1169f5f631b3b63a5ce327df6448839084a348584343618ae7dae88f5ac9b4fc.jpg" width="840" loading="lazy" alt="Bản sao Minecraft có chế độ nhiều người chơi"></a>
-
-Tạo một bản sao Minecraft chạy trên trình duyệt với thế giới được tạo theo seed bằng thuật toán, chế độ Sinh tồn, các quần xã, chiều không gian, mob, công trình, thành tựu, chế độ nhiều người chơi qua mạng LAN, giao diện game tích hợp, âm thanh định hướng, cơ chế hoạt động chính xác của khối và chất lỏng, cùng khả năng tối ưu hiệu suất.
-
-**Prompt**
-
-```text
-Tạo một bản sao Minecraft hoàn chỉnh từ đầu đến cuối và cho tôi biết nếu bạn cần thêm thông tin gì. Tôi đã đính kèm một tài liệu nghiên cứu chuyên sâu về Minecraft có thể hữu ích. Hãy đảm bảo cơ chế, hoạt ảnh và đồ họa được tái hiện thật chính xác. Mỗi thế giới mới phải được tạo ngẫu nhiên bằng thuật toán dựa trên một seed. Bao gồm tất cả mob mà người chơi Minecraft mong đợi và đảm bảo chúng xuất hiện đúng quần xã. Sau khi hoàn tất phiên bản chơi đơn, hãy thêm khả năng mở thế giới qua mạng LAN để người chơi tham gia máy chủ của nhau. Theo mặc định, game phải sử dụng chế độ Sinh tồn. Hãy làm cho kết cấu bề mặt trông giống hệt Minecraft; nếu tìm được đúng các kết cấu trên mạng, bạn có thể sử dụng chúng. Khi tôi nói muốn game giống hệt Minecraft, tôi thực sự muốn như vậy. Không ai được nhận ra sự khác biệt giữa website bạn tạo ra và Minecraft thật. Tất cả chỉ nhằm mục đích giáo dục, nên không cần lo về bản quyền. Đừng chỉ dùng HTML cho giao diện game. Hãy xây dựng giao diện ngay trong game engine bằng các thành phần native. Mô hình nhân vật và mob phải là mô hình thật, đồng thời phải có ngoại hình, cách hoạt động và hoạt ảnh chính xác như trong game thật. Thêm âm thanh định hướng và các hiệu ứng âm thanh. Hãy kiểm tra từng trang, từng tương tác và từng cơ chế để hoàn thiện sản phẩm. Sau khi hoàn tất mọi thứ và tạo ra một bản sao Minecraft hoàn hảo, hãy bắt đầu tối ưu hiệu suất bằng các kỹ thuật như culling, khoảng cách kết xuất, khoảng cách mô phỏng, LOD theo khoảng cách, tối ưu FPS và các kỹ thuật khác. Đảm bảo logic game chính xác. Ví dụ, nếu phá một khối cát hoặc sỏi nằm bên dưới các khối cát hoặc sỏi khác, những khối phía trên phải rơi xuống. Nếu phá một khối đang nâng đỡ, mọi hoa hoặc cỏ bên trên cũng phải bị phá. Giao diện kho đồ phải trông giống hệt, và các tương tác phải cho cảm giác y như vậy, bao gồm phím tắt, hoạt ảnh và hiệu ứng trúng đòn của kiếm, vũ khí cùng các công cụ khác. Hãy tái tạo chính xác tương tác với nước và mob ở trong nước, tính năng tự động nhảy và mọi chi tiết nhỏ khác. Tập trung làm đúng từng chi tiết và hoàn thiện mọi thứ. Game không được có cảm giác lỗi hoặc giật. Trải nghiệm phải mượt mà và giống hệt Minecraft thật. Hãy chú ý đến những chi tiết nhỏ như mây, chu kỳ ngày đêm, thời tiết, nhạc nền Minecraft và nhiều yếu tố khác. Đảm bảo nước và dung nham chảy như mong đợi, đồng thời triển khai phần hiển thị của chúng thật chính xác. Mob không được xuất hiện chồng lên nhau, bên trong cây hoặc bên trong các khối. Thêm các công trình, dân làng, vật phẩm rơi và mọi nội dung liên quan đến Minecraft. Hoàn thiện logic sinh mob, đảm bảo hoạt ảnh của mob mượt mà và kích thước của từng mob cũng như nhân vật người chơi chính xác như trong Minecraft thật. Tập trung vào những hành động người chơi Minecraft thường thực hiện, chẳng hạn như vừa nhảy vừa đặt khối để bắc cầu nhanh hoặc leo cao hơn, vừa nhảy vừa nhấn Ctrl + W và nhiều thao tác khác. Khi cầm vật phẩm trên tay nhân vật, hãy làm cho chúng trông đẹp mắt và đảm bảo vị trí bàn tay khớp chính xác với Minecraft thật. Thêm hiệu ứng trúng đòn cho mob và đảm bảo mọi sprite vật phẩm trong kho đồ trông giống hệt như trong Minecraft thật.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097797479488246071) · [Bài đăng gốc](https://x.com/Armaan_Jain123/status/2097797479488246071) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3843,6 +3791,48 @@ Một khu rừng với hồ nước ở trung tâm. Giữa hồ là một ngôi 
 
 ---
 
+<a id="2103966922127630820"></a>
+
+### Mô phỏng bắt tầng đẩy Super Heavy trong Blender
+
+[Vortlyn](https://x.com/Vortlyn) · 2026-09-26
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103966922127630820"><img src="../assets/previews/bb6b6c09f4ef1f48696a70e00f481b40cbda21d93b13be919c352e1c47cb4fb7.jpg" width="840" loading="lazy" alt="Mô phỏng bắt tầng đẩy Super Heavy trong Blender"></a>
+
+Tạo mô hình Blender bằng mã mô phỏng hệ thống bắt tầng đẩy Super Heavy, không dùng mô hình, kết cấu bề mặt hoặc HDRI tải xuống.
+
+**Prompt**
+
+```text
+dựng hệ thống bắt tầng đẩy Super Heavy trong Blender chỉ bằng Python. không dùng mô hình tải xuống, không dùng kết cấu bề mặt hay HDRI, mọi thứ đều được tạo bằng mã
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103966922127630820) · [Bài đăng gốc](https://x.com/Vortlyn/status/2103966922127630820) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2104077535315144878"></a>
+
+### Demo tương tác 3D về đường đi của ánh sáng qua ống kính máy ảnh
+
+[noah helms](https://x.com/haonv2) · 2026-09-27
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/23a0290532ea8418724ffc38cac2eb4c14a3a7043713608bd958d0c1c53d85a6.jpg" width="840" loading="lazy" alt="Demo tương tác 3D về đường đi của ánh sáng qua ống kính máy ảnh"></a>
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/b0a7ef6ce5123b523b6a3a17379d8be3262082545b8eefea6b1b403e15161e2d.jpg" width="840" loading="lazy" alt="Demo tương tác 3D về đường đi của ánh sáng qua ống kính máy ảnh"></a>
+
+Bản dựng 3D tương tác minh họa cách ánh sáng đi qua ống kính máy ảnh đến cảm biến, trong bối cảnh phong cảnh núi non với thác nước và thảm cỏ xanh. Bài đăng gốc giới thiệu đây là prompt dùng để so sánh Astra-6 và Opus 5.5.
+
+**Prompt**
+
+```text
+Tôi muốn bạn tạo một bản dựng 3D tương tác minh họa cách ánh sáng đi qua ống kính máy ảnh và đến cảm biến. Hãy đặt bản demo trong một phong cảnh núi non tuyệt đẹp, với những thác nước và thảm cỏ xanh tươi.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104077535315144878) · [Bài đăng gốc](https://x.com/haonv2/status/2104077535315144878) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Phòng thủ xe tăng vô tận
@@ -4231,7 +4221,7 @@ Bàn giao mã nguồn, lockfile, lệnh npm phát triển/build và đầu ra t�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 293 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 295 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

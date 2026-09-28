@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**293 · En yeni Astra istemleri**
+**295 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -50,13 +50,11 @@
 <details>
 <summary>Örnekleri keşfet</summary>
 
-- [Etkileşimli 3B parçacık çarpıştırıcısı](#2097781208596029936) · GitHub
 - [İnsan başı ve beyninin etkileşimli 3B atlası](#2098105648106078541) · GitHub
 - [Çernobil Atlası](#2098841316591346006) · GitHub
 - [Etkileşimli 3B Anatomi Gezgini](#2099206962344800541) · GitHub
 - [İzometrik fantezi grafik demosu](#2100271998618177864) · GitHub
 - [Mosswing: Mobil 3B Dokunarak Uçma Oyunu](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Çok oyunculu Minecraft klonu](#2097797479488246071)
 - [Etkileşimli fantastik grafik demosu](#2097821164093480999)
 - [Sözsüz 3B Kedi Ödül Maması Kısa Filmi](#2097900087901106244)
 - [18 delikli golf sahasını daha zorlu hâle getir](#2098038909514944562)
@@ -144,6 +142,8 @@
 - [Three.js'te voxel tarzı Japon bahçesi](#2103486103831339269)
 - [Şişede voksel gemi WebGL sahnesi](#2103855977376125161)
 - [Orman gölü köyü ortamı](#2103860776419111285)
+- [Blender'da Super Heavy güçlendirici yakalama sahnesi](#2103966922127630820)
+- [Etkileşimli 3B kamera lensi ışık yolu demosu](#2104077535315144878)
 - [Battle City 3D: Sonsuz Tank Savunması](#battle-city-3d)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu](#odd-arms)
@@ -152,38 +152,6 @@
 - [Kiklop’un Adası](#cyclops-island-threejs-game)
 
 </details>
-
-<a id="2097781208596029936"></a>
-
-### Etkileşimli 3B parçacık çarpıştırıcısı
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097781208596029936"><img src="../assets/previews/4ed4699aef4eb5b9406b88d4752ffe8edc6769d3f9510d4157e617b201314e1f.jpg" width="840" loading="lazy" alt="Etkileşimli 3B parçacık çarpıştırıcısı"></a>
-
-Tek bir kendi içinde çalışan HTML dosyasında CERN LHC ve ATLAS’tan esinlenen etkileşimli bir 3B parçacık çarpıştırıcısı oluşturmak için yazar tarafından önerilen başlangıç istemi. Burada, sergilenen sonucun tam olarak hangi girdiden üretildiği değil, benzer bir şey oluşturmak için kullanılabilecek bir istem sunulmaktadır.
-
-**İstem**
-
-```text
-Three.js kullanarak CERN’in LHC’sinden ve ATLAS dedektöründen esinlenen, ayrıntılı ve etkileşimli bir 3B parçacık çarpıştırıcısı oluşturun.
-
-Üç görünüm oluşturun: tek tek animasyonlu binlerce parçaya sahip bir dedektör, zıt yönlerde dönen demetlere sahip bir hızlandırıcı halkası ve sentetik bir çarpışma görüntüsü.
-
-Dedektörün büyük uç kapak tekerlekleri ve mıknatıslardan tek tek sensör modüllerine kadar altı aşamada sökülerek açılmasını sağlayın. Kaydırmayla kontrol edilen demontaj, 30/60/90 saniyelik oynatma, duraklatma ve montajı tersine alma özelliklerini ekleyin.
-
-Her sistem için görünürlük anahtarları, bileşen sayıları, eğitici açıklamalar ve halka çevresinde kamera uçuşu ekleyin.
-
-Premium görünümlü koyu bir arayüz, metalik malzemeler, ince altın vurgular ve sinematik aydınlatma kullanın. Parçaların ayırt edilebilir olmasını sağlayın ve aşırı üst üste binmeden kaçının.
-
-Resmî CERN kaynaklarına başvurun. Basitleştirilmiş geometrileri ve sentetik olayları açıkça etiketleyin.
-
-Çevrimdışı çalışan, kendi içinde tamamlanmış tek bir HTML dosyasının yanı sıra taşınabilir kaynak kodu ve bir README teslim edin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097781208596029936) · [Orijinal gönderi](https://x.com/k1rallik/status/2097781208596029936) · [Kaynak kodu](https://github.com/bubblik525/collider) · [Örneklere dön](#all-prompts)
-
----
 
 <a id="2098105648106078541"></a>
 
@@ -326,26 +294,6 @@ Klasik "dokunarak uçma" oyununu — küçük bir yaratığı havada tutmak içi
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Orijinal gönderi](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Kaynak kodu](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Canlı demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2097797479488246071"></a>
-
-### Çok oyunculu Minecraft klonu
-
-[Armaan Jain](https://x.com/Armaan_Jain123) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097797479488246071"><img src="../assets/previews/1169f5f631b3b63a5ce327df6448839084a348584343618ae7dae88f5ac9b4fc.jpg" width="840" loading="lazy" alt="Çok oyunculu Minecraft klonu"></a>
-
-Prosedürel olarak tohumlanan dünyalara, Hayatta Kalma moduna, biyomlara, boyutlara, yaratıklara, yapılara, başarılara, LAN üzerinden çok oyunculu desteğe, oyun motoru içinde oluşturulmuş oyun arayüzüne, yönlü sese, doğru blok ve sıvı davranışlarına ve performans optimizasyonuna sahip, tarayıcı tabanlı bir Minecraft klonu oluşturun.
-
-**İstem**
-
-```text
-Eksiksiz ve uçtan uca kusursuz bir Minecraft klonu oluşturun; benden bir şeye ihtiyacınız olursa bana bildirin. Yardımcı olacak kapsamlı bir Minecraft araştırma belgesi ekledim. Mekanikleri, animasyonları ve grafikleri kusursuz şekilde uyguladığınızdan kesinlikle emin olun. Her yeni dünya, bir tohum kullanılarak prosedürel ve rastgele oluşturulmalı. Oyuncuların Minecraft’tan beklediği tüm yaratıkları ekleyin ve doğru biyomlarda ortaya çıkmalarını sağlayın. Tek oyunculu uygulama tamamlandıktan sonra oyuncuların dünyalarını LAN’a açabilmesini ve birbirlerinin sunucularına katılabilmesini sağlayın. Oyun varsayılan olarak Hayatta Kalma modunu kullanmalı. Dokuların Minecraft’takilerle birebir aynı görünmesini sağlayın; internette gerçek dokuları bulabilirseniz bunları kullanabilirsiniz. Minecraft’a tamamen benzemesini istediğimi söylediğimde bunu gerçekten kelimesi kelimesine kastediyorum. Hiç kimse oluşturduğunuz web sitesiyle gerçek Minecraft arasındaki farkı anlayamamalı. Bu tamamen eğitim amaçlı, dolayısıyla telif hakkı konusunda endişelenmeyin. Oyunun arayüzünü yalnızca HTML kullanarak oluşturmayın. Arayüzü oyun motorunun içinde yerel olarak oluşturun. Karakter ve yaratık modelleri gerçek modeller olmalı; gerçek oyundaki gibi görünmeli, çalışmalı ve animasyonlara sahip olmalı. Yönlü ses ve ses efektleri ekleyin. Kusursuz hale getirmek için sayfa sayfa, etkileşim etkileşim ve mekanik mekanik ilerleyin. Her şey tamamlanıp kusursuz bir Minecraft klonu oluşturulduktan sonra kırpma, görüntüleme mesafesi, simülasyon mesafesi, mesafeye dayalı LOD, FPS optimizasyonu ve benzeri tekniklerle performansı optimize etmeye başlayın. Oyun mantığının doğru olduğundan emin olun. Örneğin, diğer kum veya çakıl bloklarının altında bulunan bir kum ya da çakıl bloğu kırıldığında, üstündeki bloklar düşmeli. Destekleyici bir blok kırıldığında, üstündeki çiçekler veya çimenler de kırılmalı. Envanter arayüzü tamamen aynı görünmeli ve kısayollar, animasyonlar, kılıçların ve diğer silahlarla araçların vuruş efektleri de dahil olmak üzere etkileşimleri birebir aynı hissettirmeli. Su ve içindeki yaratıklarla etkileşimleri, otomatik zıplamayı ve diğer tüm küçük ayrıntıları doğru şekilde yeniden oluşturun. Bu ayrıntıları doğru uygulamaya ve her şeyi kusursuz hale getirmeye odaklanın. Oyun hatalı hissettirmemeli. Akıcı olmalı ve gerçek Minecraft’la tamamen aynı hissettirmeli. Bulutlar, gece-gündüz döngüsü, hava durumu, Minecraft arka plan müziği ve daha fazlası gibi küçük ayrıntılara dikkat edin. Suyun ve lavın beklendiği gibi akmasını ve görselleştirmelerinin kusursuz uygulanmasını sağlayın. Yaratıklar üst üste, ağaçların içinde veya blokların içinde doğmamalı. Minecraft yapılarını, köylüleri, ganimeti ve bunlarla ilgili her şeyi ekleyin. Yaratıkların ortaya çıkma mantığını kusursuzlaştırın, yaratık animasyonlarının akıcı olmasını sağlayın ve her yaratığın ve oyuncu karakterinin boyutunu gerçek Minecraft’takiyle doğru şekilde eşleştirin. Minecraft oyuncularının sık yaptığı eylemlere, örneğin blok yerleştirirken hızla köprü kurmak veya daha yükseğe tırmanmak için zıplamaya, zıplarken Ctrl + W kullanmaya ve benzerlerine odaklanın. Eşyaların oyuncunun elinde iyi görünmesini sağlayın ve el pozisyonunun gerçek Minecraft’takiyle birebir eşleştiğinden emin olun. Yaratıklara vuruş efektleri ekleyin ve envanterdeki her eşya simgesinin gerçek Minecraft’takiyle tamamen aynı görünmesini sağlayın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097797479488246071) · [Orijinal gönderi](https://x.com/Armaan_Jain123/status/2097797479488246071) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3809,6 +3757,48 @@ Merkezinde bir göl bulunan orman. Gölün ortasında terk edilmiş bir ev. Göl
 
 ---
 
+<a id="2103966922127630820"></a>
+
+### Blender'da Super Heavy güçlendirici yakalama sahnesi
+
+[Vortlyn](https://x.com/Vortlyn) · 2026-09-26
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103966922127630820"><img src="../assets/previews/bb6b6c09f4ef1f48696a70e00f481b40cbda21d93b13be919c352e1c47cb4fb7.jpg" width="840" loading="lazy" alt="Blender'da Super Heavy güçlendirici yakalama sahnesi"></a>
+
+İndirilen model, doku veya HDRI kullanmadan, kodla oluşturulmuş bir Super Heavy güçlendirici yakalama sahnesi modeli oluşturun.
+
+**İstem**
+
+```text
+Yalnızca Python kullanarak Blender'da bir Super Heavy güçlendirici yakalama sahnesi oluşturun. İndirilen model, doku veya HDRI kullanmayın; her şeyi kodla oluşturun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103966922127630820) · [Orijinal gönderi](https://x.com/Vortlyn/status/2103966922127630820) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2104077535315144878"></a>
+
+### Etkileşimli 3B kamera lensi ışık yolu demosu
+
+[noah helms](https://x.com/haonv2) · 2026-09-27
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/23a0290532ea8418724ffc38cac2eb4c14a3a7043713608bd958d0c1c53d85a6.jpg" width="840" loading="lazy" alt="Etkileşimli 3B kamera lensi ışık yolu demosu"></a>
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/b0a7ef6ce5123b523b6a3a17379d8be3262082545b8eefea6b1b403e15161e2d.jpg" width="840" loading="lazy" alt="Etkileşimli 3B kamera lensi ışık yolu demosu"></a>
+
+Işığın bir kamera lensinden geçerek sensöre nasıl ulaştığını gösteren etkileşimli bir 3B render. Demo; şelaleler ve yemyeşil çimlerle bezeli bir dağ manzarasında geçiyor. Ana gönderi, bunu Astra-6 ve Opus 5.5 karşılaştırmasında kullanılan prompt olarak sunuyor.
+
+**İstem**
+
+```text
+Işığın bir kamera lensinden geçerek sensöre nasıl ulaştığını gösteren etkileşimli bir 3B render oluşturmanı istiyorum. Demoda şelaleler ve yemyeşil çimlerle bezeli güzel bir dağ manzarası kullan.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104077535315144878) · [Orijinal gönderi](https://x.com/haonv2/status/2104077535315144878) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Sonsuz Tank Savunması
@@ -4197,7 +4187,7 @@ Kaynak kodu, lockfile’ı, npm geliştirme/derleme komutlarını ve statik çı
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 293 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 295 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

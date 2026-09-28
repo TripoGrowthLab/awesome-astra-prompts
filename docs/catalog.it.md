@@ -28,7 +28,7 @@
 **Un punto di partenza per il tuo prossimo gioco, scena o mondo interattivo.**
 
 
-**293 · Prompt Astra più recenti**
+**295 · Prompt Astra più recenti**
 
 ## Progetti in evidenza
 
@@ -50,13 +50,11 @@
 <details>
 <summary>Esplora gli esempi</summary>
 
-- [Collisore di particelle 3D interattivo](#2097781208596029936) · GitHub
 - [Atlante 3D interattivo della testa e del cervello umano](#2098105648106078541) · GitHub
 - [Atlante di Chernobyl](#2098841316591346006) · GitHub
 - [Esploratore interattivo dell’anatomia in 3D](#2099206962344800541) · GitHub
 - [Demo di grafica fantasy isometrica](#2100271998618177864) · GitHub
 - [Mosswing: gioco 3D mobile tap-to-flap](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Clone di Minecraft multigiocatore](#2097797479488246071)
 - [Demo di grafica fantasy interattiva](#2097821164093480999)
 - [Corto d’animazione 3D senza parole: il gatto e il premietto](#2097900087901106244)
 - [Rendi più impegnativo un campo da golf a 18 buche](#2098038909514944562)
@@ -144,6 +142,8 @@
 - [Giardino giapponese in stile voxel con Three.js](#2103486103831339269)
 - [Scena WebGL voxel: nave in bottiglia](#2103855977376125161)
 - [Ambiente di villaggio sul lago nella foresta](#2103860776419111285)
+- [Cattura del booster Super Heavy in Blender](#2103966922127630820)
+- [Demo interattiva 3D del percorso della luce in un obiettivo fotografico](#2104077535315144878)
 - [Battle City 3D: Difesa infinita con i carri armati](#battle-city-3d)
 - [Crazy Tanks — Artiglieria 3D sulle isole](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Gioco survival con armi stravaganti](#odd-arms)
@@ -152,38 +152,6 @@
 - [L’isola del Ciclope](#cyclops-island-threejs-game)
 
 </details>
-
-<a id="2097781208596029936"></a>
-
-### Collisore di particelle 3D interattivo
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097781208596029936"><img src="../assets/previews/4ed4699aef4eb5b9406b88d4752ffe8edc6769d3f9510d4157e617b201314e1f.jpg" width="840" loading="lazy" alt="Collisore di particelle 3D interattivo"></a>
-
-Prompt iniziale suggerito dall’autore per creare, in un unico file HTML autonomo, un collisore di particelle 3D interattivo ispirato al CERN, all’LHC e al rivelatore ATLAS. Viene presentato come prompt per realizzare qualcosa di simile, non necessariamente come l’input esatto usato per il risultato mostrato.
-
-**Prompt**
-
-```text
-Crea un collisore di particelle 3D dettagliato e interattivo, ispirato all’LHC del CERN e al rivelatore ATLAS, usando Three.js.
-
-Crea tre viste: un rivelatore con migliaia di componenti animati singolarmente, un anello dell’acceleratore con fasci che ruotano in direzioni opposte e una visualizzazione sintetica della collisione.
-
-Fai scomporre il rivelatore in sei fasi, dalle grandi ruote terminali e dai magneti fino ai singoli moduli dei sensori. Includi la disassemblazione controllata dallo scorrimento, la riproduzione in 30, 60 o 90 secondi, la pausa e il riassemblaggio inverso.
-
-Aggiungi interruttori per la visibilità di ogni sistema, il conteggio dei componenti, descrizioni didattiche e un volo della telecamera intorno all’anello.
-
-Usa un’interfaccia scura di livello premium, materiali metallici, sottili accenti dorati e un’illuminazione cinematografica. Mantieni i componenti leggibili ed evita sovrapposizioni eccessive.
-
-Consulta le fonti ufficiali del CERN. Indica chiaramente la geometria semplificata e gli eventi sintetici.
-
-Fornisci un unico file HTML autonomo che funzioni offline, insieme al codice sorgente portabile e a un README.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097781208596029936) · [Post originale](https://x.com/k1rallik/status/2097781208596029936) · [Codice sorgente](https://github.com/bubblik525/collider) · [Torna agli esempi](#all-prompts)
-
----
 
 <a id="2098105648106078541"></a>
 
@@ -326,26 +294,6 @@ Rielabora il classico gioco "tap-to-flap" — quello in cui tocchi lo schermo pe
 ```
 
 [Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Post originale](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Codice sorgente](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="2097797479488246071"></a>
-
-### Clone di Minecraft multigiocatore
-
-[Armaan Jain](https://x.com/Armaan_Jain123) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097797479488246071"><img src="../assets/previews/1169f5f631b3b63a5ce327df6448839084a348584343618ae7dae88f5ac9b4fc.jpg" width="840" loading="lazy" alt="Clone di Minecraft multigiocatore"></a>
-
-Crea un clone di Minecraft basato su browser con mondi generati proceduralmente a partire da un seed, modalità Sopravvivenza, biomi, dimensioni, mob, strutture, obiettivi, multigiocatore in LAN, interfaccia di gioco nativa, audio direzionale, comportamento accurato di blocchi e fluidi e ottimizzazione delle prestazioni.
-
-**Prompt**
-
-```text
-Crea un clone di Minecraft perfetto e completo dall’inizio alla fine e fammi sapere se ti serve qualcosa da parte mia. Ho allegato un documento di ricerca approfondito su Minecraft che potrà esserti utile. Assicurati di riprodurre alla perfezione meccaniche, animazioni e grafica. Ogni nuovo mondo deve essere generato proceduralmente e casualmente usando un seed. Includi tutti i mob che i giocatori si aspettano da Minecraft e assicurati che compaiano nei biomi corretti. Una volta completata l’implementazione per giocatore singolo, aggiungi la possibilità di aprire i mondi in LAN e di unirsi ai server degli altri giocatori. Il gioco deve usare la modalità Sopravvivenza per impostazione predefinita. Fai in modo che le texture siano identiche a quelle di Minecraft e, se trovi online le texture esatte, puoi usarle. Quando dico che lo voglio identico a Minecraft, intendo proprio questo. Nessuno dovrebbe riuscire a distinguere il sito web che crei dal vero Minecraft. È tutto a scopo didattico, quindi non preoccuparti del copyright. Non usare semplicemente HTML per l’interfaccia di gioco. Realizzala nativamente all’interno del motore di gioco. I modelli del personaggio e dei mob devono essere quelli reali e devono avere l’aspetto, il comportamento e le animazioni identici a quelli del gioco originale. Aggiungi audio e suoni direzionali. Analizza ogni pagina, ogni interazione e ogni meccanica, una per una, per ottenere un risultato perfetto. Una volta completato tutto e creato un clone perfetto di Minecraft, inizia a ottimizzarne le prestazioni usando tecniche come il culling, la distanza di rendering, la distanza di simulazione, il LOD basato sulla distanza, l’ottimizzazione degli FPS e altro ancora. Assicurati che la logica di gioco sia accurata. Per esempio, se viene rotto un blocco di sabbia o ghiaia sotto ad altri blocchi di sabbia o ghiaia, quelli sopra devono cadere. Se viene rotto un blocco di supporto, anche i fiori o l’erba sopra di esso devono rompersi. L’interfaccia dell’inventario deve essere identica e le interazioni devono risultare uguali, incluse scorciatoie, animazioni ed effetti d’impatto di spade, armi e altri strumenti. Ricrea accuratamente le interazioni con l’acqua e con i mob che si trovano al suo interno, il salto automatico e tutti gli altri piccoli dettagli. Concentrati sulla precisione di questi dettagli e sulla perfezione del risultato. Il gioco non deve dare una sensazione di instabilità o presentare glitch. Deve risultare fluido e identico al vero Minecraft. Presta attenzione anche a dettagli minori come le nuvole, il ciclo giorno-notte, il meteo, la musica di sottofondo di Minecraft e altro ancora. Assicurati che acqua e lava scorrano come previsto e che il loro rendering sia implementato alla perfezione. I mob non devono generarsi uno sopra l’altro, dentro gli alberi o all’interno dei blocchi. Aggiungi le strutture di Minecraft, i villici, il bottino e tutto ciò che li riguarda. Perfeziona la logica di generazione dei mob, assicurati che le loro animazioni siano fluide e che le dimensioni di ogni mob e del personaggio del giocatore siano identiche a quelle del vero Minecraft. Concentrati sulle azioni che i giocatori di Minecraft compiono comunemente, come saltare mentre piazzano blocchi per costruire ponti più velocemente o salire più in alto, usare Ctrl + W mentre saltano e altro ancora. Fai in modo che gli oggetti abbiano un bell’aspetto quando vengono tenuti in mano dal giocatore e assicurati che la posizione della mano corrisponda esattamente a quella del vero Minecraft. Aggiungi effetti d’impatto sui mob e fai in modo che ogni sprite degli oggetti nell’inventario sia identico a quello del vero Minecraft.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097797479488246071) · [Post originale](https://x.com/Armaan_Jain123/status/2097797479488246071) · [Torna agli esempi](#all-prompts)
 
 ---
 
@@ -3844,6 +3792,48 @@ Una foresta con un lago al centro. In mezzo al lago, una casa abbandonata. Intor
 
 ---
 
+<a id="2103966922127630820"></a>
+
+### Cattura del booster Super Heavy in Blender
+
+[Vortlyn](https://x.com/Vortlyn) · 2026-09-26
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2103966922127630820"><img src="../assets/previews/bb6b6c09f4ef1f48696a70e00f481b40cbda21d93b13be919c352e1c47cb4fb7.jpg" width="840" loading="lazy" alt="Cattura del booster Super Heavy in Blender"></a>
+
+Crea in Blender un modello del sistema di cattura del booster Super Heavy generato via codice, senza modelli, texture o HDRI scaricati.
+
+**Prompt**
+
+```text
+crea in Blender un sistema di cattura del booster Super Heavy usando solo Python. niente modelli scaricati, niente texture, niente HDRI: genera tutto tramite codice
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2103966922127630820) · [Post originale](https://x.com/Vortlyn/status/2103966922127630820) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="2104077535315144878"></a>
+
+### Demo interattiva 3D del percorso della luce in un obiettivo fotografico
+
+[noah helms](https://x.com/haonv2) · 2026-09-27
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/23a0290532ea8418724ffc38cac2eb4c14a3a7043713608bd958d0c1c53d85a6.jpg" width="840" loading="lazy" alt="Demo interattiva 3D del percorso della luce in un obiettivo fotografico"></a>
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/b0a7ef6ce5123b523b6a3a17379d8be3262082545b8eefea6b1b403e15161e2d.jpg" width="840" loading="lazy" alt="Demo interattiva 3D del percorso della luce in un obiettivo fotografico"></a>
+
+Un render 3D interattivo che mostra come la luce attraversa un obiettivo fotografico e raggiunge il sensore, ambientato in un paesaggio montano con cascate e prati verdi. Il post principale lo presenta come il prompt usato per un confronto tra Astra-6 e Opus 5.5.
+
+**Prompt**
+
+```text
+Voglio che tu crei un render 3D interattivo che mostri come la luce attraversa un obiettivo fotografico e raggiunge il sensore. Ambientalo in un magnifico paesaggio montano con cascate e prati di un verde intenso.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2104077535315144878) · [Post originale](https://x.com/haonv2/status/2104077535315144878) · [Torna agli esempi](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Difesa infinita con i carri armati
@@ -4232,7 +4222,7 @@ Consegna il codice sorgente, il lockfile, i comandi npm per sviluppo/build e l�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 293 esempi sul sito ufficiale →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 295 esempi sul sito ufficiale →</a></strong></p>
 <p><sub>Per mantenere fluido il rendering del README su GitHub, qui mostriamo solo i 100 esempi più recenti.</sub></p>
 <br>
 </td></tr>

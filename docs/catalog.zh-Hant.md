@@ -28,7 +28,7 @@
 **為你的下一個遊戲、場景或互動世界尋找靈感。**
 
 
-**293 · 最新 Astra 提示詞**
+**295 · 最新 Astra 提示詞**
 
 ## 精選作品
 
@@ -50,13 +50,11 @@
 <details>
 <summary>瀏覽案例</summary>
 
-- [互動式 3D 粒子對撞機](#2097781208596029936) · GitHub
 - [人類頭部與腦部互動式 3D 解剖圖譜](#2098105648106078541) · GitHub
 - [車諾比爾圖鑑](#2098841316591346006) · GitHub
 - [互動式 3D 解剖探索器](#2099206962344800541) · GitHub
 - [等角視角奇幻 3D 圖形展示](#2100271998618177864) · GitHub
 - [Mosswing：行動版 3D 點按拍翅遊戲](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [支援多人遊戲的 Minecraft 複刻版](#2097797479488246071)
 - [互動式奇幻圖形展示](#2097821164093480999)
 - [無台詞 3D 貓咪零食短片](#2097900087901106244)
 - [打造更具挑戰性的 18 洞高爾夫球場](#2098038909514944562)
@@ -144,6 +142,8 @@
 - [Three.js 體素風格日本庭園](#2103486103831339269)
 - [瓶中船體素 WebGL 場景](#2103855977376125161)
 - [森林湖畔村落環境](#2103860776419111285)
+- [在 Blender 中製作 Super Heavy 助推器捕捉](#2103966922127630820)
+- [互動式 3D 相機鏡頭光線路徑示範](#2104077535315144878)
 - [Battle City 3D：無盡坦克防禦](#battle-city-3d)
 - [Crazy Tanks — 3D 島嶼火砲戰](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — 怪奇武器生存遊戲](#odd-arms)
@@ -152,38 +152,6 @@
 - [獨眼巨人的島嶼](#cyclops-island-threejs-game)
 
 </details>
-
-<a id="2097781208596029936"></a>
-
-### 互動式 3D 粒子對撞機
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097781208596029936"><img src="../assets/previews/4ed4699aef4eb5b9406b88d4752ffe8edc6769d3f9510d4157e617b201314e1f.jpg" width="840" loading="lazy" alt="互動式 3D 粒子對撞機"></a>
-
-作者建議的起始提示詞：使用單一自包含 HTML 檔案，打造受 CERN 的 LHC 與 ATLAS 啟發的互動式 3D 粒子對撞機。這段內容是用來建構類似作品的提示詞，並未明確聲稱就是展示成果所使用的原始輸入。
-
-**提示詞**
-
-```text
-使用 Three.js 打造細節豐富、可互動的 3D 粒子對撞機，靈感來自 CERN 的 LHC 與 ATLAS 偵測器。
-
-建立三種視圖：包含數千個可獨立動畫部件的偵測器、具有反向旋轉粒子束的加速器環，以及合成碰撞顯示。
-
-讓偵測器分六個階段展開，從大型端蓋輪與磁鐵逐步拆解至個別感測器模組。加入由捲動控制的拆解、30／60／90 秒播放、暫停，以及反向組裝功能。
-
-加入各系統的可見度切換、元件數量、教育性說明，以及環繞加速器環的鏡頭飛行。
-
-採用高質感深色介面、金屬材質、細緻的金色點綴與電影感燈光。確保各部件清晰可辨，避免過度重疊。
-
-參考 CERN 官方資料。清楚標示簡化幾何與合成事件。
-
-交付一個可離線運作的單一自包含 HTML 檔案，以及可攜式原始碼與 README。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097781208596029936) · [查看原文](https://x.com/k1rallik/status/2097781208596029936) · [專案原始碼](https://github.com/bubblik525/collider) · [返回案例導覽](#all-prompts)
-
----
 
 <a id="2098105648106078541"></a>
 
@@ -326,26 +294,6 @@
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [查看原文](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [專案原始碼](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [線上展示](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2097797479488246071"></a>
-
-### 支援多人遊戲的 Minecraft 複刻版
-
-[Armaan Jain](https://x.com/Armaan_Jain123) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097797479488246071"><img src="../assets/previews/1169f5f631b3b63a5ce327df6448839084a348584343618ae7dae88f5ac9b4fc.jpg" width="840" loading="lazy" alt="支援多人遊戲的 Minecraft 複刻版"></a>
-
-建立一款以瀏覽器為基礎的 Minecraft 複刻版，包含使用種子進行程序化生成的世界、生存模式、生態域、維度、生物、結構、成就、區域網路多人遊戲、遊戲內原生 UI、定向音訊、精確的方塊與流體行為，以及效能最佳化。
-
-**提示詞**
-
-```text
-建立一款從頭到尾都完美重現的 Minecraft 複刻版；如果需要我提供任何資訊，請告訴我。我已附上一份關於 Minecraft 的深度研究文件，應該會很有幫助。務必精準重現遊戲機制、動畫與畫面。每個新世界都應使用種子進行程序化隨機生成。加入玩家對 Minecraft 所期待的所有生物，並確保牠們會出現在正確的生態域中。完成單人遊戲後，加入讓玩家將世界開放至區域網路，彼此加入對方伺服器的功能。遊戲預設應使用生存模式。讓貼圖看起來與 Minecraft 完全一致；如果能在網路上找到完全相同的貼圖，也可以使用。當我說希望它與 Minecraft 完全一致時，我是認真的。任何人都不應看得出你建立的網站與真正的 Minecraft 有何差異。這一切都只是出於教育用途，因此不用擔心著作權。遊戲 UI 不要只使用 HTML；請在遊戲引擎內原生建置。角色與生物模型應使用真正的模型，外觀、運作方式與動畫都要和原版遊戲完全一致。加入定向音訊與音效。逐頁、逐個互動、逐項遊戲機制地檢查，將所有內容做到完美。完成所有功能並建立出完美的 Minecraft 複刻版後，開始使用剔除、渲染距離、模擬距離、依距離切換的 LOD、FPS 最佳化等技術，以及其他方法來最佳化效能。確保遊戲邏輯精確無誤。例如，如果破壞了其他沙或礫石方塊下方的沙或礫石方塊，上方的方塊就應該掉落。如果支撐方塊被破壞，上方的花或草也應該一起被破壞。物品欄 UI 應與原版完全相同，互動手感也要一致，包括快捷鍵、動畫，以及劍和其他武器、工具的命中特效。精確重現與水及水中生物的互動、自動跳躍，以及其他所有細節。專注於正確處理這些細節，將一切做到完美。遊戲不應有卡頓或錯誤感；應該流暢，並且與真正的 Minecraft 完全一致。留意雲朵、晝夜循環、天氣、Minecraft 背景音樂等細節。確保水與熔岩會依預期流動，並完美實作其渲染效果。生物不應重疊生成、生成在樹木內，或生成在方塊內。加入 Minecraft 的結構、村民、戰利品，以及所有相關內容。完善生物生成邏輯，確保生物動畫流暢，並讓每種生物與玩家角色的尺寸都精確符合真正的 Minecraft。專注於 Minecraft 玩家常做的操作，例如放置方塊時跳躍以加快搭橋或攀爬、跳躍時使用 Ctrl + W 等。讓手持在玩家手中的物品看起來自然美觀，並確保手部位置與真正的 Minecraft 完全一致。為生物加入命中特效，並讓物品欄中的每個物品圖示都與真正的 Minecraft 完全一致。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097797479488246071) · [查看原文](https://x.com/Armaan_Jain123/status/2097797479488246071) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -3848,6 +3796,48 @@ WebGPU 無法使用時，顯示清楚的替代訊息。
 
 ---
 
+<a id="2103966922127630820"></a>
+
+### 在 Blender 中製作 Super Heavy 助推器捕捉
+
+[Vortlyn](https://x.com/Vortlyn) · 2026-09-26
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103966922127630820"><img src="../assets/previews/bb6b6c09f4ef1f48696a70e00f481b40cbda21d93b13be919c352e1c47cb4fb7.jpg" width="840" loading="lazy" alt="在 Blender 中製作 Super Heavy 助推器捕捉"></a>
+
+使用程式碼生成 Blender 模型，製作 Super Heavy 助推器捕捉場景；不使用下載的模型、貼圖或 HDRI。
+
+**提示詞**
+
+```text
+僅使用 Python 在 Blender 中製作 Super Heavy 助推器捕捉場景。不使用下載的模型、貼圖或 HDRI，所有內容都以程式碼生成。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103966922127630820) · [查看原文](https://x.com/Vortlyn/status/2103966922127630820) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2104077535315144878"></a>
+
+### 互動式 3D 相機鏡頭光線路徑示範
+
+[noah helms](https://x.com/haonv2) · 2026-09-27
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/23a0290532ea8418724ffc38cac2eb4c14a3a7043713608bd958d0c1c53d85a6.jpg" width="840" loading="lazy" alt="互動式 3D 相機鏡頭光線路徑示範"></a>
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/b0a7ef6ce5123b523b6a3a17379d8be3262082545b8eefea6b1b403e15161e2d.jpg" width="840" loading="lazy" alt="互動式 3D 相機鏡頭光線路徑示範"></a>
+
+互動式 3D 渲染，示範光線如何穿過相機鏡頭抵達感光元件；場景設定在擁有瀑布與翠綠草地的山岳景觀中。根貼文將其介紹為用於比較 Astra-6 與 Opus 5.5 的提示詞。
+
+**提示詞**
+
+```text
+我想請你製作一個互動式 3D 渲染，呈現光線如何穿過相機鏡頭並抵達感光元件。請使用美麗的山岳景觀作為示範場景，加入瀑布與翠綠的草地。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104077535315144878) · [查看原文](https://x.com/haonv2/status/2104077535315144878) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D：無盡坦克防禦
@@ -4236,7 +4226,7 @@ UI：奶油白圓角卡片搭配海軍藍文字與珊瑚橘點綴；標題使用
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 293 個案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 295 個案例 →</a></strong></p>
 <p><sub>為保持 GitHub README 渲染流暢，這裡僅展示最新 100 個案例。</sub></p>
 <br>
 </td></tr>

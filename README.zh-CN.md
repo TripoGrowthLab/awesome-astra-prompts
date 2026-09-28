@@ -29,7 +29,7 @@
 
 探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。
 
-**293 条案例 · 14 种语言 · 12 条附项目源码**
+**295 条案例 · 14 种语言 · 12 条附项目源码**
 
 ## 精选作品
 
@@ -51,13 +51,11 @@
 <details>
 <summary>浏览案例</summary>
 
-- [交互式 3D 粒子对撞机](#2097781208596029936) · GitHub
 - [人类头部与大脑交互式 3D 图谱](#2098105648106078541) · GitHub
 - [切尔诺贝利图谱](#2098841316591346006) · GitHub
 - [交互式 3D 解剖探索器](#2099206962344800541) · GitHub
 - [等距视角奇幻图形演示](#2100271998618177864) · GitHub
 - [Mosswing：移动端 3D 点击振翅游戏](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [支持多人游戏的 Minecraft 克隆版](#2097797479488246071)
 - [互动奇幻画面演示](#2097821164093480999)
 - [无对白 3D 猫咪短片](#2097900087901106244)
 - [让 18 洞高尔夫球场更具挑战性](#2098038909514944562)
@@ -145,6 +143,8 @@
 - [Three.js 体素风日式庭园](#2103486103831339269)
 - [瓶中体素帆船 WebGL 场景](#2103855977376125161)
 - [森林湖畔村庄环境](#2103860776419111285)
+- [在 Blender 中制作 Super Heavy 助推器捕获装置](#2103966922127630820)
+- [交互式 3D 相机镜头光路演示](#2104077535315144878)
 - [Battle City 3D：无尽坦克防御](#battle-city-3d)
 - [疯狂坦克——3D 岛屿炮战](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS——奇趣武器生存游戏](#odd-arms)
@@ -153,38 +153,6 @@
 - [独眼巨人之岛](#cyclops-island-threejs-game)
 
 </details>
-
-<a id="2097781208596029936"></a>
-
-### 交互式 3D 粒子对撞机
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097781208596029936"><img src="assets/previews/4ed4699aef4eb5b9406b88d4752ffe8edc6769d3f9510d4157e617b201314e1f.jpg" width="840" loading="lazy" alt="交互式 3D 粒子对撞机"></a>
-
-作者为构建交互式 3D 粒子对撞机提供的起始提示词，灵感来自 CERN 的 LHC 和 ATLAS 探测器，并要求使用单个自包含 HTML 文件实现。该提示词用于构建类似作品，并非明确展示案例所使用的确切输入。
-
-**提示词**
-
-```text
-使用 Three.js 构建一个细节丰富的交互式 3D 粒子对撞机，灵感来自 CERN 的 LHC 和 ATLAS 探测器。
-
-创建三种视图：包含数千个独立动画部件的探测器、带有反向旋转束流的加速器环，以及模拟碰撞显示。
-
-让探测器分六个阶段展开，从大型端盖轮和磁体逐步细化到独立的传感器模块。加入由滚动控制的拆解动画、30/60/90 秒播放、暂停和反向组装功能。
-
-为各系统添加可见性开关、部件数量、科普说明，以及环形轨道环绕飞行镜头。
-
-采用高级感深色界面、金属材质、低调的金色点缀和电影感灯光。确保部件清晰可辨，避免过度重叠。
-
-参考 CERN 官方资料。明确标注简化几何体和模拟事件。
-
-交付一个可离线运行的单个自包含 HTML 文件，以及可移植的源代码和 README。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097781208596029936) · [查看原帖](https://x.com/k1rallik/status/2097781208596029936) · [项目源码](https://github.com/bubblik525/collider) · [返回案例导航](#all-prompts)
-
----
 
 <a id="2098105648106078541"></a>
 
@@ -327,26 +295,6 @@
 ```
 
 [查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [查看原帖](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [项目源码](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [在线演示](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2097797479488246071"></a>
-
-### 支持多人游戏的 Minecraft 克隆版
-
-[Armaan Jain](https://x.com/Armaan_Jain123) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097797479488246071"><img src="assets/previews/1169f5f631b3b63a5ce327df6448839084a348584343618ae7dae88f5ac9b4fc.jpg" width="840" loading="lazy" alt="支持多人游戏的 Minecraft 克隆版"></a>
-
-创建一款基于浏览器的 Minecraft 克隆版，包含使用种子程序化生成的世界、生存模式、生物群系、维度、生物、结构、成就、局域网多人游戏、游戏内原生 UI、定向音频、准确的方块与流体行为，以及性能优化。
-
-**提示词**
-
-```text
-创建一款完整且完美还原的 Minecraft 克隆版；如果需要我提供任何信息，请告诉我。我附上了一份关于 Minecraft 的深度研究文档，会对你有所帮助。务必精准还原游戏机制、动画和画面效果。每个新世界都应使用种子进行程序化随机生成。加入玩家对 Minecraft 期待的所有生物，并确保它们出现在正确的生物群系中。单人模式完成后，加入允许玩家将自己的世界开放到局域网、彼此加入服务器的功能。游戏默认应使用生存模式。纹理要看起来与 Minecraft 完全一致；如果能在网上找到完全相同的纹理，也可以使用。我要的是与 Minecraft 完全一致的效果，字面意义上的完全一致：任何人都不应看出你创建的网站与真正的 Minecraft 之间存在差别。这一切仅用于教育目的，因此无需担心版权问题。游戏 UI 不要简单地使用 HTML 实现，而要在游戏引擎中原生构建。角色和生物模型应使用真实的模型，并在外观、功能和动画上都与原版游戏完全一致。加入定向音频和各种音效。逐页、逐项交互、逐个游戏机制地检查并还原，做到尽善尽美。全部完成并创建出完美的 Minecraft 克隆版后，再使用遮挡剔除、渲染距离、模拟距离、基于距离的 LOD、FPS 优化等技术以及其他方法优化性能。确保游戏逻辑准确无误。例如，如果下方还有其他沙子或沙砾方块支撑的沙子或沙砾方块被破坏，上面的方块就应落下；如果支撑方块被破坏，其上方的花朵或草也应随之破坏。背包 UI 应与原版完全一致，交互体验也要相同，包括快捷操作、动画，以及剑和其他武器、工具的命中效果。准确还原水中移动、生物在水中的行为、自动跳跃以及其他所有细节。重点是把这些细节做好，做到完美。游戏不应有卡顿或故障感，而应运行流畅，与真正的 Minecraft 完全一致。注意云朵、昼夜循环、天气、Minecraft 背景音乐等细节。确保水和熔岩按预期流动，并完美实现它们的渲染。生物不应生成在彼此重叠的位置、树木顶部或方块内部。加入 Minecraft 的结构、村民、战利品以及所有相关内容。完善生物生成逻辑，确保生物动画流畅，并让每种生物和玩家角色的尺寸都与真正的 Minecraft 准确一致。重点还原 Minecraft 玩家经常执行的操作，例如放置方块时跳跃以快速搭桥或爬得更高、跳跃时使用 Ctrl + W 等。确保物品拿在玩家手中时外观良好，并让手部位置与真正的 Minecraft 完全一致。为生物加入命中效果，并让背包中的每个物品图标都与真正的 Minecraft 完全一致。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097797479488246071) · [查看原帖](https://x.com/Armaan_Jain123/status/2097797479488246071) · [返回案例导航](#all-prompts)
 
 ---
 
@@ -3760,6 +3708,48 @@ WebGPU 不可用时显示清晰的回退提示。
 
 ---
 
+<a id="2103966922127630820"></a>
+
+### 在 Blender 中制作 Super Heavy 助推器捕获装置
+
+[Vortlyn](https://x.com/Vortlyn) · 2026-09-26
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103966922127630820"><img src="assets/previews/bb6b6c09f4ef1f48696a70e00f481b40cbda21d93b13be919c352e1c47cb4fb7.jpg" width="840" loading="lazy" alt="在 Blender 中制作 Super Heavy 助推器捕获装置"></a>
+
+使用代码生成 Blender 模型，还原 Super Heavy 助推器捕获装置；无需下载模型、纹理或 HDRI。
+
+**提示词**
+
+```text
+仅使用 Python 在 Blender 中制作 Super Heavy 助推器捕获装置。不使用下载的模型、纹理或 HDRI，所有内容均通过代码生成
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103966922127630820) · [查看原帖](https://x.com/Vortlyn/status/2103966922127630820) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2104077535315144878"></a>
+
+### 交互式 3D 相机镜头光路演示
+
+[noah helms](https://x.com/haonv2) · 2026-09-27
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104077535315144878"><img src="assets/previews/23a0290532ea8418724ffc38cac2eb4c14a3a7043713608bd958d0c1c53d85a6.jpg" width="840" loading="lazy" alt="交互式 3D 相机镜头光路演示"></a>
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104077535315144878"><img src="assets/previews/b0a7ef6ce5123b523b6a3a17379d8be3262082545b8eefea6b1b403e15161e2d.jpg" width="840" loading="lazy" alt="交互式 3D 相机镜头光路演示"></a>
+
+交互式 3D 渲染演示光线如何穿过相机镜头并到达传感器，场景设定在拥有瀑布和葱郁绿草的山地景观中。根帖将其介绍为用于比较 Astra-6 和 Opus 5.5 的提示词。
+
+**提示词**
+
+```text
+请创建一个交互式 3D 渲染，展示光线如何穿过相机镜头并到达传感器。演示场景应采用优美的山地景观，包含瀑布和葱郁的绿草。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104077535315144878) · [查看原帖](https://x.com/haonv2/status/2104077535315144878) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D：无尽坦克防御
@@ -4148,7 +4138,7 @@ WebGPU 不可用时显示清晰的回退提示。
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 293 条案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 295 条案例 →</a></strong></p>
 <p><sub>为保持 GitHub README 渲染流畅，这里仅展示最新 100 条案例。</sub></p>
 <br>
 </td></tr>
