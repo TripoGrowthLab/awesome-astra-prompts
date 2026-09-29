@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**295 · Prompt Astra mới nhất**
+**298 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -54,9 +54,6 @@
 - [Atlas Chernobyl](#2098841316591346006) · GitHub
 - [Trình khám phá giải phẫu 3D tương tác](#2099206962344800541) · GitHub
 - [Demo đồ họa fantasy isometric](#2100271998618177864) · GitHub
-- [Mosswing: Game 3D mobile chạm để vỗ cánh](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Bản demo đồ họa fantasy tương tác](#2097821164093480999)
-- [Video ngắn 3D không lời: Mèo và nút thưởng](#2097900087901106244)
 - [Tăng độ thử thách cho sân golf 18 hố](#2098038909514944562)
 - [Đàn mực tương tác](#2098043033446912315)
 - [Quy trình dựng cảnh rượt đuổi ô tô hoạt hình lấy cảm hứng từ GTA](#2098049032195293190)
@@ -144,6 +141,9 @@
 - [Môi trường làng ven hồ giữa rừng](#2103860776419111285)
 - [Mô phỏng bắt tầng đẩy Super Heavy trong Blender](#2103966922127630820)
 - [Demo tương tác 3D về đường đi của ánh sáng qua ống kính máy ảnh](#2104077535315144878)
+- [Lát dưa hấu thạch 3D tương tác](#2104504957173153951)
+- [Game phong cách Genshin và công cụ chỉnh sửa địa hình](#2104531704740512143)
+- [Móc chữ J có thể in 3D để thử độ bền](#2104590493191479337)
 - [Battle City 3D: Phòng thủ xe tăng vô tận](#battle-city-3d)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Game sinh tồn với vũ khí kỳ quặc](#odd-arms)
@@ -274,66 +274,6 @@ Hãy tạo một demo đồ họa: camera isometric, phong cách nghệ thuật 
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100271998618177864) · [Bài đăng gốc](https://github.com/achimala/dream-loop) · [Mã nguồn](https://github.com/achimala/dream-loop) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="mosswing-mobile-3d-tap-to-flap-game"></a>
-
-### Mosswing: Game 3D mobile chạm để vỗ cánh
-
-[Ayi1337](https://github.com/Ayi1337) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/mosswing-mobile-3d-tap-to-flap-game"><img src="../assets/previews/e48e75f6d576698277fbf38943951dca9b414e6f8a6ec01da83ac63b9df5f829.png" width="840" loading="lazy" alt="Mosswing: Game 3D mobile chạm để vỗ cánh"></a>
-
-Tạo một game bay 3D hoàn thiện trên trình duyệt di động, với điều khiển một chạm, các khoảng trống cuộn liên tục, tính điểm tức thì cùng một sinh vật và thế giới nguyên bản.
-
-**Prompt**
-
-```text
-Làm mới game kinh điển “chạm để vỗ cánh” — game mà bạn chạm để giữ một sinh vật nhỏ bay trên không khi lướt qua chuỗi khoảng trống bất tận — thành một game 3D có thể chơi trên trình duyệt di động. Chỉ cần một index.html, mở lên là chơi ngay, không dùng tài nguyên bên ngoài (được phép dùng thư viện CDN; tùy bạn quyết định). Giữ nguyên cốt lõi như mọi người vẫn nhớ: điều khiển một chạm, trọng lực, các khoảng trống cuộn về phía người chơi, va chạm một lần là kết thúc, điểm số tính theo số khoảng trống đã vượt qua. Mọi yếu tố khác tùy bạn quyết định: sinh vật là gì, chướng ngại vật ra sao, thế giới, camera, cảm giác khi vỗ cánh và mức độ đầu tư cho phần hình ảnh. Hãy thiết kế một nhân vật và phong cách nguyên bản thay vì sao chép hình ảnh của bản gốc. Tôi sẽ không trả lời câu hỏi làm rõ. Tôi đánh giá một sản phẩm hoàn chỉnh, tinh tế và tạo cảm giác chơi tốt — không phải một danh sách tính năng. Nhỏ nhưng hoàn thiện vẫn tốt hơn lớn mà sơ sài.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Bài đăng gốc](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Mã nguồn](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Bản demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2097821164093480999"></a>
-
-### Bản demo đồ họa fantasy tương tác
-
-[Anshu](https://x.com/anshuc) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097821164093480999"><img src="../assets/previews/541f111bea72b7c24bb7edb2d84396581e7a11bc997cf8d910d973ae34715f27.png" width="840" loading="lazy" alt="Bản demo đồ họa fantasy tương tác"></a>
-
-Prompt Dream Loop Plus để tạo một cảnh fantasy Three.js chạy trên trình duyệt, với camera isometric, nhân vật có thể điều khiển, sàn ướt phản chiếu và chuyển động môi trường sống động. Tác giả giới thiệu đây là prompt demo sử dụng GPT-5.6 Luna xhigh; bài đăng cho biết Astra đảm nhiệm phần hình ảnh trong quy trình đã tối ưu.
-
-**Prompt**
-
-```text
-Dùng Dream Loop Plus để tạo cho tôi một bản demo đồ họa: camera isometric, đổ bóng chân thực, sàn ướt phản chiếu và một nhân vật trong bối cảnh thú vị. Bối cảnh fantasy (gợi nhớ Elden Ring, Diablo). Sử dụng Three.js trên trình duyệt, tốc độ khung hình >60fps. Điều khiển: nhấp chuột để di chuyển nhân vật, camera bám theo có độ trễ; kéo để xoay camera; cuộn để phóng to/thu nhỏ. Hiện chưa cần gameplay. Thế giới cần có cảm giác sống động: chuyển động, hoạt ảnh và các hành vi môi trường tinh tế.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097821164093480999) · [Bài đăng gốc](https://x.com/anshuc/status/2097821164093480999) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2097900087901106244"></a>
-
-### Video ngắn 3D không lời: Mèo và nút thưởng
-
-[AI実践ラボ](https://x.com/boboga777) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097900087901106244"><img src="../assets/previews/e80882d1c32752e76536bc6977f53cef0bdde11ab64dad0e751c1c1079428acb.jpg" width="840" loading="lazy" alt="Video ngắn 3D không lời: Mèo và nút thưởng"></a>
-
-Yêu cầu tạo một đoạn hoạt hình 3D không lời về một chú mèo, xoay quanh duy nhất một nút thưởng, sự hỗn loạn tăng dần và một cú chốt nho nhỏ.
-
-**Prompt**
-
-```text
-Tạo một video ngắn 3D không lời về một chú mèo: chỉ một nút thưởng, hỗn loạn tột độ và một cú chốt nho nhỏ. Thêm diễn xuất giàu biểu cảm, chuyển động máy quay, âm nhạc và vòng lặp.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097900087901106244) · [Bài đăng gốc](https://x.com/boboga777/status/2097900087901106244) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3833,6 +3773,152 @@ Tôi muốn bạn tạo một bản dựng 3D tương tác minh họa cách ánh
 
 ---
 
+<a id="2104504957173153951"></a>
+
+### Lát dưa hấu thạch 3D tương tác
+
+[基恩-Keane 🌊](https://x.com/esrhengwu) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104504957173153951"><img src="../assets/previews/cf4d886fc6e8c499c9fa10a37204272099b89e9ca4336bb62f03dd93220ec069.jpg" width="840" loading="lazy" alt="Lát dưa hấu thạch 3D tương tác"></a>
+
+Tác giả đã công khai trong phần bình luận một prompt dùng để tạo “Melon Jelly”. Prompt yêu cầu xây dựng ngay trong trình duyệt một mô phỏng vật thể mềm là lát dưa hấu thạch 3D, có thể nắm, kéo giãn, bẻ cong và xoắn bằng WebGPU cùng shader WGSL, đồng thời nêu rõ các yêu cầu về vật liệu, vật lý, giao diện và kiểm thử. Bài đăng gốc cho biết Opus 5.5 và GPT-6 Astra lần lượt tạo ra những quả dưa hấu thạch; phần bình luận này cung cấp prompt do tác giả đăng.
+
+**Prompt**
+
+```text
+Tạo “Melon Jelly” — một lát dưa hấu thạch 3D tương tác, hoàn thiện về hình ảnh, chạy trực tiếp trong trình duyệt bằng WebGPU và shader WGSL thực thụ.
+Cung cấp một tệp HTML duy nhất, tự chứa, với JavaScript và CSS được nhúng bên trong. Đây phải là một mô phỏng 3D tương tác thực sự, không phải ảnh tĩnh, video hay mô phỏng 2D.
+DƯA HẤU
+Tạo một miếng dưa hấu hình nêm tam giác dày, bo tròn, với:
+Phần thịt thạch đỏ ruby trong mờ.
+Một lớp nhạt màu, hơi trong mờ nằm giữa phần thịt và vỏ.
+Lớp vỏ xanh bóng với các sọc xanh đậm không đều.
+
+Các hạt màu sẫm được mô hình hóa riêng và nằm bên trong cả hai mặt cắt lộ ra.
+Các góc bo mềm và độ dày rõ rệt, bắt mắt.
+Hãy khiến nó trông như một viên kẹo dẻo cao cấp được chụp trong studio. Nó cần gợi cảm giác mọng nước, mềm mại và gần như có thể ăn được. Giữ màu sắc đậm và giàu sức sống nhưng không để vùng sáng bị cháy sáng.
+VẬT LÝ VẬT THỂ MỀM
+Sử dụng mô phỏng vật thể mềm theo thể tích, chẳng hạn lưới tứ diện với các ràng buộc đàn hồi và bảo toàn thể tích XPBD.
+Người dùng phải có thể:
+Nắm phần chóp, một góc, phần thịt hoặc lớp vỏ.
+Kéo giãn, bẻ cong, nhấc lên và xoắn nhẹ lát dưa hấu.
+
+Thả ra và quan sát nó rung lắc trước khi dần ổn định.
+Lát dưa hấu phải biến dạng rõ rệt tại từng vùng, không chỉ di chuyển hoặc co giãn như một vật thể cứng duy nhất. Làm lớp vỏ cứng hơn phần thịt một chút nhưng vẫn giữ cho toàn bộ lát dưa hấu mềm dẻo.
+Duy trì thể tích ở mức hợp lý khi kéo giãn. Ngăn các phần tử bị lộn ngược, chuyển động bùng nổ và sụp đổ vĩnh viễn. Sử dụng bước thời gian mô phỏng cố định và số bước phụ có giới hạn để đảm bảo ổn định.
+Sau khi được thả ra, chuyển động phải suy giảm tự nhiên — không bật về ngay lập tức và cũng không dao động mãi.
+Giữ các hạt gắn với phần thịt đang biến dạng. Chúng phải di chuyển và xoay theo bề mặt, không được tự trôi độc lập hoặc đứng cố định trong không gian.
+Bao gồm tiếp xúc với mặt đất, ma sát nhẹ và độ nảy mềm. Tránh để sàn bị xuyên qua rõ rệt.
+RENDERING
+Sử dụng WebGPU gốc cùng shader WGSL.
+Bao gồm:
+Khả năng hấp thụ ánh sáng phụ thuộc vào độ dày.
+Khúc xạ xuyên qua lớp thạch.
+
+Phản xạ Fresnel và vùng sáng bóng.
+Ánh sáng truyền qua mềm ở các cạnh mỏng.
+Chi tiết bên trong tinh tế và một vài bong bóng khí rất nhỏ.
+
+Bóng đổ tiếp xúc mềm bên dưới lát dưa hấu.
+Phông nền studio sáng màu, trung tính.
+Phần thịt, lớp vỏ nhạt màu và lớp da xanh cần có phản hồi vật liệu riêng biệt. Tránh khiến mọi thứ trông như kính trong suốt hoặc nhựa đục.
+Giữ lát dưa hấu đủ lớn và dễ quan sát, với góc máy ba phần tư làm lộ rõ phần thịt, hạt và độ dày.
+INTERFACE
+Sử dụng bố cục biên tập tối giản với nhiều khoảng trắng, đường viền mảnh, các nút điều khiển tiết chế và không dùng gradient trang trí trong giao diện.
+Góc trên bên trái:
+“MATERIAL STUDIES / NO. 009”
+Một tiêu đề serif in nghiêng cỡ lớn, chia thành hai dòng: “Melon” và “Jelly.”
+Chú thích nhỏ:
+“A slice of summer.”
+“A little wobble.”
+“Too soft to share.”
+Góc trên bên phải:
+Một chỉ báo trạng thái nhỏ hiển thị “WEBGPU · LIVE” khi trình kết xuất đang chạy.
+
+Bảng điều khiển bên phải:
+“THE SPECIMEN”
+Ba preset màu lấy cảm hứng từ dưa hấu, phối hợp với nhau.
+Thanh trượt độ cứng kèm giá trị hiện tại.
+Thanh trượt giảm chấn bên trong kèm giá trị hiện tại.
+Các nút “Give it a nudge” và “Reset”.
+Các ô chọn “¼ speed” và “Show mesh”.
+
+Nút Tạm dừng / Tiếp tục.
+Góc dưới bên trái:
+Một gợi ý ngắn giải thích rằng có thể nắm và kéo giãn lát dưa hấu.
+Các thông số thời gian thực về khối lượng, thể tích tương đối và động năng, được suy ra từ mô phỏng. Mô tả rõ đơn vị minh họa hoặc giá trị gần đúng khi phù hợp.
+Góc dưới bên phải:
+
+Một mục có thể thu gọn mang tên “Inside the experiment”, giải thích ngắn gọn về vật lý và quá trình kết xuất.
+HÀNH VI VÀ HIỆU NĂNG
+Hỗ trợ thao tác bằng chuột và cảm ứng. Sử dụng pointer capture để thao tác kéo vẫn ổn định khi con trỏ rời khỏi vật thể.
+Đảm bảo bố cục hoạt động tốt trên máy tính và thiết bị di động, không để các nút điều khiển che lên lát dưa hấu.
+Tái sử dụng buffer và tránh dựng lại hình học hoặc biên dịch shader trong lúc kéo. Giữ trải nghiệm tương tác mượt mà và phản hồi nhanh.
+Tôn trọng tùy chọn giảm chuyển động. Nếu không có WebGPU, hãy hiển thị giải thích rõ ràng thay vì âm thầm thay thế bằng trình kết xuất giả.
+VALIDATION
+Kiểm thử thao tác kéo từ nhiều vị trí, kéo giãn mạnh, thả nhiều lần, va chạm với mặt đất, tất cả thanh trượt, preset, tạm dừng, đặt lại và chuyển động chậm.
+Kiểm tra để đảm bảo mô hình trở về hình dạng nghỉ ổn định, các hạt vẫn gắn với bề mặt, lưới không bị hỏng và không có lỗi kết xuất.
+Ưu tiên chất lượng phản hồi của thạch và ánh sáng. Kết quả cần khiến người dùng muốn tiếp tục nắm và chơi với nó.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104504957173153951) · [Bài đăng gốc](https://x.com/esrhengwu/status/2104505413857415515) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2104531704740512143"></a>
+
+### Game phong cách Genshin và công cụ chỉnh sửa địa hình
+
+[ふぐあい(ふぐおん)](https://x.com/fuguai1) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104531704740512143"><img src="../assets/previews/e95988d923e8e05de9065def3c72647ae3df702210e6d710057eb6ba530f4bf8.jpg" width="840" loading="lazy" alt="Game phong cách Genshin và công cụ chỉnh sửa địa hình"></a>
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104531704740512143"><img src="../assets/previews/df7a40773c0a1b5dab8e29ea57b509f9c6db442166d113f5537ea20b82a6674a.jpg" width="840" loading="lazy" alt="Game phong cách Genshin và công cụ chỉnh sửa địa hình"></a>
+
+Prompt yêu cầu tạo một game giống Genshin và công cụ cho phép chỉnh sửa địa hình trong game.
+
+**Prompt**
+
+```text
+Tạo một game giống Genshin và công cụ cho phép chỉnh sửa địa hình trong game.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104531704740512143) · [Bài đăng gốc](https://x.com/fuguai1/status/2104531704740512143) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2104590493191479337"></a>
+
+### Móc chữ J có thể in 3D để thử độ bền
+
+[Wësche](https://x.com/WescheNex1q) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104590493191479337"><img src="../assets/previews/643a23b0eaff495333c760e37ddc2036b908363d59f61d886f6598742a59a843.jpg" width="840" loading="lazy" alt="Móc chữ J có thể in 3D để thử độ bền"></a>
+
+Thiết kế móc chữ J bằng PLA, dạng một chi tiết, để in 3D và thử độ bền. Móc được bằng tay vào thanh thép 8 mm và giữ chốt tải 8 mm, đáp ứng các yêu cầu về kích thước, khối lượng, khả năng giữ chốt và chống trượt. Đầu ra cần là một tệp OpenSCAD hoàn chỉnh, phù hợp để xuất STL.
+
+**Prompt**
+
+```text
+Thiết kế một móc chữ J có thể in 3D để thử độ bền.
+Móc treo trên một thanh thép 8 mm. Một chốt 8 mm nằm trong miệng móc và tải trọng được treo từ chốt này. Tôi muốn đạt tải trọng phá hủy cao nhất có thể mà không để thanh hoặc chốt bị tuột ra.
+Yêu cầu:
+- Một chi tiết in duy nhất. Không dùng vít, insert, keo hoặc chi tiết bổ sung.
+- Phải kẹp được vào thanh và chốt bằng tay. Không dùng vòng kín.
+- Khoảng cách giữa hai tâm vị trí đặt chốt là 40 mm.
+- PLA. Khối lượng tối đa 35 g sau khi in.
+- Phải nằm gọn trong kích thước 80 x 60 x 25 mm.
+- Chốt phải nâng lên ít nhất 10 mm mới có thể thoát ra. Nếu chốt có thể lăn ngang ra ngoài thì thiết kế đó không hợp lệ.
+Hãy cung cấp:
+1. Giải thích ngắn gọn về hình dạng.
+2. Tệp OpenSCAD hoàn chỉnh để tôi biên dịch và xuất STL cho Bambu Studio.
+Không cung cấp mã STL. Không cung cấp G-code. Chỉ dùng OpenSCAD. Nếu ý tưởng đầu tiên có thể bị tuột ra, hãy thay thế bằng phương án khác ngay trong cùng câu trả lời.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104590493191479337) · [Bài đăng gốc](https://x.com/WescheNex1q/status/2104590493191479337) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Phòng thủ xe tăng vô tận
@@ -4221,7 +4307,7 @@ Bàn giao mã nguồn, lockfile, lệnh npm phát triển/build và đầu ra t�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 295 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 298 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

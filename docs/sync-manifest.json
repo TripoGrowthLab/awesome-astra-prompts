@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "model": "gpt-6-astra",
   "count": 100,
-  "totalCount": 295,
+  "totalCount": 298,
   "sourceCodeCount": 12,
   "limit": 100,
   "locales": [
@@ -26,9 +26,6 @@
     "2098841316591346006",
     "2099206962344800541",
     "2100271998618177864",
-    "mosswing-mobile-3d-tap-to-flap-game",
-    "2097821164093480999",
-    "2097900087901106244",
     "2098038909514944562",
     "2098043033446912315",
     "2098049032195293190",
@@ -116,6 +113,9 @@
     "2103860776419111285",
     "2103966922127630820",
     "2104077535315144878",
+    "2104504957173153951",
+    "2104531704740512143",
+    "2104590493191479337",
     "battle-city-3d",
     "crazy-tanks-3d-island-artillery",
     "odd-arms",
@@ -134,9 +134,6 @@
     "2098841316591346006",
     "2099206962344800541",
     "2100271998618177864",
-    "mosswing-mobile-3d-tap-to-flap-game",
-    "2097821164093480999",
-    "2097900087901106244",
     "2098038909514944562",
     "2098043033446912315",
     "2098049032195293190",
@@ -224,6 +221,9 @@
     "2103860776419111285",
     "2103966922127630820",
     "2104077535315144878",
+    "2104504957173153951",
+    "2104531704740512143",
+    "2104590493191479337",
     "battle-city-3d",
     "crazy-tanks-3d-island-artillery",
     "odd-arms",
@@ -236,93 +236,93 @@
   "files": [
     {
       "path": "assets/manifest.json",
-      "sha256": "e9731f2cb12c7f2b998fccb888f0a6a5249d5c3a2ba737703fe12b61e5897f68",
-      "bytes": 57444
+      "sha256": "d31c49fd2d663d7f8aa2f771d0b801466095cdf8f49342efaa5444cafa75008a",
+      "bytes": 57844
     },
     {
       "path": "docs/catalog.de.md",
-      "sha256": "7929c93183b71f4812bc4a1c28678a57fd2032f9358cf62210078b570698d3a8",
-      "bytes": 366341
+      "sha256": "0b5e482c5198bbad06552f6af9f45d2caf2c61c6e332eb2f73427245232077da",
+      "bytes": 371684
     },
     {
       "path": "docs/catalog.en.md",
-      "sha256": "f7eafad2ec2cafe79f602cde8df26c1edb47c0a9c9e0f3e1b8555a5cabc1651e",
-      "bytes": 310157
+      "sha256": "2252bb8b5a66d0a1b8e8005f02d17b14ce46120c53ca71ea653063970e95a6d4",
+      "bytes": 314471
     },
     {
       "path": "docs/catalog.es.md",
-      "sha256": "f1a546c00922aade2cbbfe5d49a665c6aa09dc9caecca2f7e2caa5b1616f8eed",
-      "bytes": 368955
+      "sha256": "4ad0b647f87ed5c5f5cd0d64322dbf90974a9b66802443c59a12cddcefdc6dc8",
+      "bytes": 374229
     },
     {
       "path": "docs/catalog.fr.md",
-      "sha256": "5235c94538c7a8e2ce4e2aa3bf7258f6a9c507b09d5848f1362ae8186593963e",
-      "bytes": 385627
+      "sha256": "218850cff78e6b8d18c55457fae2d626be9b0ea5287d03847a3124a0c0ebe32e",
+      "bytes": 391085
     },
     {
       "path": "docs/catalog.it.md",
-      "sha256": "0616cb7ca036f555c1d7e1dda0a5c7e9e0979fc73fdcef6db5281cf9e89908b8",
-      "bytes": 359836
+      "sha256": "d93a64701d023a1cdfe7c1a061c07bdb45df262e424be32ffa609447d249f929",
+      "bytes": 364825
     },
     {
       "path": "docs/catalog.ja.md",
-      "sha256": "b2eb686182cbedc54f8da4d8295d79da6da43d04a85f4d72bbbe1b87e5255ecb",
-      "bytes": 395846
+      "sha256": "07ff8137ceee9695eff6fd0b7f84c80c53eedacf79faf63bfe9294b1dd0552c9",
+      "bytes": 401684
     },
     {
       "path": "docs/catalog.ko.md",
-      "sha256": "58a7d73fadb22f3c36ac94002ea83e17d77de8cb3db0c133b092ccf661a83a37",
-      "bytes": 376545
+      "sha256": "8117d2882b1f89dd766d173edb6053e7ce648b545fde3cd3278c9bcbb6634166",
+      "bytes": 381689
     },
     {
       "path": "docs/catalog.pt.md",
-      "sha256": "a0d8ab1b9efa77eecd32a21709737f348a02a7eab1b988b068fc75a2b4b3869b",
-      "bytes": 356662
+      "sha256": "2f89ecbaf0ea4b82491df935f639e2fa962f70d0e514bcf1de39429744cbafb1",
+      "bytes": 361967
     },
     {
       "path": "docs/catalog.ru.md",
-      "sha256": "0cb2572fb8343695c790deacec5edea3b4e2c5b428d58e01fca7718023117d93",
-      "bytes": 555200
+      "sha256": "db1991581118a2546aa65b649a61413d98da7494eaad645ba87ad9b0e716be0b",
+      "bytes": 563846
     },
     {
       "path": "docs/catalog.tr.md",
-      "sha256": "3bd5a0e00e79d1ce453db8fecee415db677145dc9342cddc20b87c2da9904461",
-      "bytes": 360616
+      "sha256": "e803b01fba443cbb039429928913348897b86e47c2448212b0924375039d2645",
+      "bytes": 365691
     },
     {
       "path": "docs/catalog.uk.md",
-      "sha256": "0e41dad23c5bf0a78a0c782f85f5b86888515535a6ca8ee1692d627ee7905725",
-      "bytes": 556111
+      "sha256": "c625509bd705fd2e1672daefff79e9eb5d13c1f7ec1311720bbc30321840dc8f",
+      "bytes": 564315
     },
     {
       "path": "docs/catalog.vi.md",
-      "sha256": "4980a744aca67a6e2474ccb56cb7e4ddc0cd1f30abea12f6095f024831ab4329",
-      "bytes": 403174
+      "sha256": "d73d3a9b70bc2fccbd281580ff61085a9add5a563885abe2fc308d70615405ec",
+      "bytes": 408859
     },
     {
       "path": "docs/catalog.zh-Hant.md",
-      "sha256": "e352529699804128ec0ff990b1f368d9de16dac8dd9c619cdc1bd1a4d2e6423d",
-      "bytes": 299096
+      "sha256": "c594b1990954f6e0619b9aa61a35cd4f228803776e75767769b7bb05b920360f",
+      "bytes": 303054
     },
     {
       "path": "docs/catalog.zh.md",
-      "sha256": "6e67a7188388703dfd9be3e8ac8a6001ee74eaed389d415a2cd530dde8b5e66e",
-      "bytes": 296720
+      "sha256": "3830e0b435514733f0afe186a35ac3fbb26158e4a361cabbadea1822ae3f4798",
+      "bytes": 301078
     },
     {
       "path": "docs/with-code.md",
-      "sha256": "5cb89fba6f96a47574ab35f7d5bf05d0ed78c1755ea67187b4736a450be62ccf",
-      "bytes": 1178
+      "sha256": "50d37eeb39464996c884b9cbace5d694ed4d82d60dcb5080f4b97bbbd2073961",
+      "bytes": 950
     },
     {
       "path": "README.md",
-      "sha256": "64f2dd60996f40267e64d2fb32ed0265ca2a9558e034ad6ee228e2e5f967b1db",
-      "bytes": 309734
+      "sha256": "d39b8b6c27f5d033baa5567c6bb7835ff9fe8dd6ba65be43aa247f3acdb9803b",
+      "bytes": 314045
     },
     {
       "path": "README.zh-CN.md",
-      "sha256": "eab5ca2f87298b0527f6dfd456818f432a0bd361bb734a89ba1506d3fe3813e7",
-      "bytes": 296297
+      "sha256": "209dc4272134ff71973273d0138a59992e8f4a1cff5d2e5c7fa022ae520067c6",
+      "bytes": 300652
     }
   ]
 }

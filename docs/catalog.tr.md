@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**295 · En yeni Astra istemleri**
+**298 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -54,9 +54,6 @@
 - [Çernobil Atlası](#2098841316591346006) · GitHub
 - [Etkileşimli 3B Anatomi Gezgini](#2099206962344800541) · GitHub
 - [İzometrik fantezi grafik demosu](#2100271998618177864) · GitHub
-- [Mosswing: Mobil 3B Dokunarak Uçma Oyunu](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Etkileşimli fantastik grafik demosu](#2097821164093480999)
-- [Sözsüz 3B Kedi Ödül Maması Kısa Filmi](#2097900087901106244)
 - [18 delikli golf sahasını daha zorlu hâle getir](#2098038909514944562)
 - [Etkileşimli kalamar sürüsü](#2098043033446912315)
 - [GTA esintili çizgi film araba kovalamacası iş akışı](#2098049032195293190)
@@ -144,6 +141,9 @@
 - [Orman gölü köyü ortamı](#2103860776419111285)
 - [Blender'da Super Heavy güçlendirici yakalama sahnesi](#2103966922127630820)
 - [Etkileşimli 3B kamera lensi ışık yolu demosu](#2104077535315144878)
+- [Etkileşimli 3B jöle karpuz dilimi](#2104504957173153951)
+- [Genshin Impact tarzı oyun ve arazi düzenleme aracı](#2104531704740512143)
+- [Mukavemet testi için 3B yazdırılabilir J kancası](#2104590493191479337)
 - [Battle City 3D: Sonsuz Tank Savunması](#battle-city-3d)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu](#odd-arms)
@@ -274,66 +274,6 @@ Bana bir grafik demosu oluştur: izometrik kamera, gerçekçi gölgelendirmeye v
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100271998618177864) · [Orijinal gönderi](https://github.com/achimala/dream-loop) · [Kaynak kodu](https://github.com/achimala/dream-loop) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="mosswing-mobile-3d-tap-to-flap-game"></a>
-
-### Mosswing: Mobil 3B Dokunarak Uçma Oyunu
-
-[Ayi1337](https://github.com/Ayi1337) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/mosswing-mobile-3d-tap-to-flap-game"><img src="../assets/previews/e48e75f6d576698277fbf38943951dca9b414e6f8a6ec01da83ac63b9df5f829.png" width="840" loading="lazy" alt="Mosswing: Mobil 3B Dokunarak Uçma Oyunu"></a>
-
-Tek dokunuşla kontrol, kayan boşluklar, anında puanlama ve özgün bir yaratık ile dünyayı bir araya getiren, mobil tarayıcıda çalışan, özenle hazırlanmış bir 3B uçuş oyunu oluşturun.
-
-**İstem**
-
-```text
-Klasik "dokunarak uçma" oyununu — küçük bir yaratığı havada tutmak için dokunduğunuz ve sonsuz bir boşluk dizisinin arasından süzüldüğünüz oyunu — mobil tarayıcıda oynanabilen bir 3B oyun olarak yeniden yorumlayın. Tek bir index.html dosyası olsun; anında açılsın ve oynansın, harici varlık kullanılmasın (CDN kütüphanelerine izin var; karar sizin). Temel yapıyı herkesin hatırladığı hâliyle koruyun: tek dokunuşla kontrol, yerçekimi, üzerinize doğru kayan boşluklar, tek çarpışmada oyunun bitmesi ve geçilen boşluk sayısına dayalı skor. Geri kalan her şeye siz karar verin: yaratık ne olacak, engeller nasıl görünecek, dünya, kamera, uçuş hissi, görselleri ne kadar ileri taşıyacağınız. Orijinal oyunun sanatını kopyalamak yerine özgün bir karakter ve stil tasarlayın. Açıklayıcı sorulara yanıt vermeyeceğim. Özellik listesi değil, tamamlanmış, zarif ve iyi hissettiren bir çalışma değerlendiriyorum. Küçük ve tamamlanmış bir iş, büyük ve özensiz bir işten daha iyidir.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Orijinal gönderi](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Kaynak kodu](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Canlı demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2097821164093480999"></a>
-
-### Etkileşimli fantastik grafik demosu
-
-[Anshu](https://x.com/anshuc) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097821164093480999"><img src="../assets/previews/541f111bea72b7c24bb7edb2d84396581e7a11bc997cf8d910d973ae34715f27.png" width="840" loading="lazy" alt="Etkileşimli fantastik grafik demosu"></a>
-
-İzometrik kameralı, kontrol edilebilir karaktere, yansıtıcı ıslak zeminlere ve ortamda hareketliliğe sahip, tarayıcı tabanlı bir Three.js fantastik sahnesi için Dream Loop Plus istemi. Yazar bunu GPT-5.6 Luna xhigh kullanan bir demo istemi olarak etiketliyor; gönderide, optimize edilmiş akışta görsel çalışmayı Astra’nın gerçekleştirdiği belirtiliyor.
-
-**İstem**
-
-```text
-Dream Loop Plus’ı kullanarak bir grafik demosu oluştur: izometrik kamera, gerçekçi gölgelendirme ve yansıtıcı ıslak zeminler, ilgi çekici bir sahnede bir karakter. Fantastik bir ortam kullan (Elden Ring ve Diablo’yu düşün). Tarayıcıda Three.js, >60fps. Kontroller: karakteri hareket ettirmek için tıkla; kamera karakteri yumuşak bir gecikmeyle takip etsin; kamerayı döndürmek için sürükle; yakınlaştırmak ve uzaklaştırmak için kaydır. Şimdilik oynanış ekleme. Dünya canlı hissettirmeli: hareket, animasyonlar ve çevredeki ince davranışlar olsun.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097821164093480999) · [Orijinal gönderi](https://x.com/anshuc/status/2097821164093480999) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2097900087901106244"></a>
-
-### Sözsüz 3B Kedi Ödül Maması Kısa Filmi
-
-[AI実践ラボ](https://x.com/boboga777) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097900087901106244"><img src="../assets/previews/e80882d1c32752e76536bc6977f53cef0bdde11ab64dad0e751c1c1079428acb.jpg" width="840" loading="lazy" alt="Sözsüz 3B Kedi Ödül Maması Kısa Filmi"></a>
-
-Tek bir ödül düğmesi etrafında gelişen, kaosun giderek tırmandığı ve küçük bir ödülle sonuçlanan sözsüz bir 3B kedi animasyonu isteği.
-
-**İstem**
-
-```text
-Sözsüz bir 3B kedi kısa animasyonu oluştur: tek bir ödül düğmesi, tam bir kaos ve ufak bir ödül. İfadeli oyunculuk, kamera hareketleri, müzik ve döngüye uygun bir akış ekle.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097900087901106244) · [Orijinal gönderi](https://x.com/boboga777/status/2097900087901106244) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3799,6 +3739,152 @@ Işığın bir kamera lensinden geçerek sensöre nasıl ulaştığını göster
 
 ---
 
+<a id="2104504957173153951"></a>
+
+### Etkileşimli 3B jöle karpuz dilimi
+
+[基恩-Keane 🌊](https://x.com/esrhengwu) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104504957173153951"><img src="../assets/previews/cf4d886fc6e8c499c9fa10a37204272099b89e9ca4336bb62f03dd93220ec069.jpg" width="840" loading="lazy" alt="Etkileşimli 3B jöle karpuz dilimi"></a>
+
+Yazar, yorumlar bölümünde “Melon Jelly” oluşturmak için kullanılan bir prompt paylaştı. Prompt; tarayıcıda WebGPU ve WGSL kullanılarak kavranabilen, gerilebilen, bükülebilen ve burulabilen bir 3B karpuz jölesi yumuşak cisim simülasyonu oluşturulmasını, ayrıca malzeme, fizik, arayüz ve doğrulama gereksinimlerini belirtiyor. Ana gönderide Opus 5.5 ve GPT-6 Astra’nın ayrı ayrı jöle karpuzlar oluşturduğu söyleniyor; bu yorumda ise yazarın yayınladığı prompt yer alıyor.
+
+**İstem**
+
+```text
+“Melon Jelly” oluşturun: WebGPU ve WGSL shader’larını kullanarak doğrudan tarayıcıda çalışan, özenle hazırlanmış ve etkileşimli bir 3B karpuz jölesi dilimi.
+İçinde JavaScript ve CSS bulunan, kendi kendine yeten tek bir HTML dosyası teslim edin. Bu, statik bir render, video veya 2B taklit değil, gerçekten etkileşimli bir 3B simülasyon olmalıdır.
+KARPUZ
+Şunlara sahip, kalın ve köşeleri yuvarlatılmış üçgen biçimli bir karpuz dilimi oluşturun:
+Yarı saydam, yakut kırmızısı jöle iç kısım.
+İç kısım ile kabuk arasında soluk renkli, hafif saydam bir katman.
+Düzensiz koyu yeşil çizgilere sahip, parlak yeşil bir dış kabuk.
+
+Açıkta kalan iki yüzeye gömülü, ayrı ayrı modellenmiş koyu renkli çekirdekler.
+Yumuşakça yuvarlatılmış köşeler ve göze hoş gelen, belirgin bir kalınlık.
+Bir stüdyoda fotoğraflanmış pahalı bir jelibon gibi görünmesini sağlayın. Sulu, yumuşak ve neredeyse yenilebilir bir his vermeli. Renkleri zengin tutun; parlak alanları aşırı pozlamayın.
+YUMUŞAK CİSİM FİZİĞİ
+XPBD elastikiyet ve hacim koruma kısıtlarına sahip tetrahedral mesh gibi hacimsel bir yumuşak cisim simülasyonu kullanın.
+Kullanıcı şunları yapabilmelidir:
+Ucu, bir köşeyi, iç kısmı veya kabuğu kavramak.
+Dilimi germek, bükmek, kaldırmak ve nazikçe burmak.
+
+Bıraktığında dilimin sallanmasını ve ardından yavaşça durulmasını izlemek.
+Dilimin yalnızca tek parça, rijit bir nesne gibi hareket etmesi veya ölçeklenmesi yerine yerel olarak görünür biçimde deforme olması gerekir. Tüm dilimi esnek tutarken kabuğu iç kısımdan biraz daha sert yapın.
+Germe sırasında hacmi makul ölçüde koruyun. Ters dönmüş elemanları, kontrolden çıkan hareketleri ve kalıcı çökmeyi önleyin. Kararlılık için sabit bir simülasyon zaman adımı ve sınırlandırılmış alt adımlar kullanın.
+Bırakıldıktan sonra hareket doğal biçimde sönümlenmeli; anında eski hâline dönmemeli ve sonsuza kadar salınmamalı.
+Çekirdekleri deforme olan iç kısma bağlı tutun. Çekirdekler bağımsız biçimde süzülmek veya uzayda sabit kalmak yerine yüzeyle birlikte hareket edip dönmelidir.
+Zemin teması, hafif sürtünme ve yumuşak sekme ekleyin. Zeminin gözle görülür biçimde delinmesini önleyin.
+RENDERING
+WGSL shader’larıyla yerel WebGPU kullanın.
+Şunları ekleyin:
+Kalınlığa bağlı ışık soğurulması.
+Jöle içinden kırılma.
+
+Fresnel yansımaları ve parlak yansımalar.
+İnce kenarlardan geçen yumuşak ışık.
+İnce iç detaylar ve birkaç küçük hava kabarcığı.
+
+Dilim altında yumuşak temas gölgeleri.
+Açık renkli, nötr bir stüdyo arka planı.
+İç kısım, soluk kabuk ve yeşil dış kabuk farklı malzeme tepkilerine sahip olmalı. Her şeyi şeffaf cam veya opak plastik gibi göstermeyin.
+Dilim büyük ve kolayca incelenebilir olsun; iç kısmı, çekirdekleri ve kalınlığı gösterecek üç çeyrek kamera açısı kullanın.
+INTERFACE
+Bol beyaz alan, ince kenarlıklar, ölçülü kontroller ve dekoratif arayüz gradyanlarının bulunmadığı minimal bir editoryal düzen kullanın.
+Sol üst:
+“MATERIAL STUDIES / NO. 009”
+İki satıra bölünmüş, büyük ve italik serif başlık: “Melon” ve “Jelly.”
+Küçük açıklama:
+“A slice of summer.”
+“A little wobble.”
+“Too soft to share.”
+Sağ üst:
+Render işlemi çalışırken “WEBGPU · LIVE” gösteren küçük bir durum göstergesi.
+
+Sağ taraftaki panel:
+“THE SPECIMEN”
+Karpuzdan ilham alan, birbiriyle uyumlu üç renk ön ayarı.
+Mevcut değeri gösteren sertlik kaydırıcısı.
+Mevcut değeri gösteren iç sönümleme kaydırıcısı.
+“Give it a nudge” ve “Reset” düğmeleri.
+“¼ speed” ve “Show mesh” onay kutuları.
+
+Duraklat / Sürdür düğmesi.
+Sol alt:
+Dilim parçasının kavranıp gerilebileceğini açıklayan kısa bir ipucu.
+Simülasyondan elde edilen canlı kütle, göreli hacim ve kinetik enerji değerleri. Uygun yerlerde örnek birimleri veya yaklaşık değerleri açıkça belirtin.
+Sağ alt:
+
+Fiziği ve render işlemini kısaca açıklayan, daraltılabilir bir “Inside the experiment” bölümü.
+DAVRANIŞ VE PERFORMANS
+Hem fare hem de dokunmatik girişi destekleyin. Sürükleme sırasında işaretçi nesnenin dışına çıktığında da işlemin güvenilir biçimde sürmesi için pointer capture kullanın.
+Düzeni, kontroller dilimin üzerine gelmeyecek şekilde masaüstü ve mobil cihazlarda çalışacak biçimde tasarlayın.
+Buffer’ları yeniden kullanın; sürükleme sırasında geometriyi yeniden oluşturmayın veya shader derlemeyin. Etkileşimi akıcı ve duyarlı tutun.
+Azaltılmış hareket tercihlerini dikkate alın. WebGPU kullanılamıyorsa sahte bir render altyapısına sessizce geçmek yerine net bir açıklama gösterin.
+VALIDATION
+Farklı konumlardan sürüklemeyi, güçlü germeleri, art arda bırakmaları, zemin çarpışmalarını, tüm kaydırıcıları, ön ayarları, duraklatmayı, sıfırlamayı ve ağır çekimi test edin.
+Modelin kararlı bir dinlenme şekline döndüğünü, çekirdeklerin bağlı kaldığını, mesh’in bütünlüğünü koruduğunu ve render hatası bulunmadığını kontrol edin.
+Jölenin tepkisini ve aydınlatma kalitesini önceliklendirin. Sonuç, insanların tekrar tekrar kavrayıp oynamak isteyeceği bir şey olmalı.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104504957173153951) · [Orijinal gönderi](https://x.com/esrhengwu/status/2104505413857415515) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2104531704740512143"></a>
+
+### Genshin Impact tarzı oyun ve arazi düzenleme aracı
+
+[ふぐあい(ふぐおん)](https://x.com/fuguai1) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104531704740512143"><img src="../assets/previews/e95988d923e8e05de9065def3c72647ae3df702210e6d710057eb6ba530f4bf8.jpg" width="840" loading="lazy" alt="Genshin Impact tarzı oyun ve arazi düzenleme aracı"></a>
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104531704740512143"><img src="../assets/previews/df7a40773c0a1b5dab8e29ea57b509f9c6db442166d113f5537ea20b82a6674a.jpg" width="840" loading="lazy" alt="Genshin Impact tarzı oyun ve arazi düzenleme aracı"></a>
+
+Genshin Impact benzeri bir oyun ve oyunun arazisini düzenlemeye yarayan bir araç oluşturmayı isteyen prompt.
+
+**İstem**
+
+```text
+Genshin Impact benzeri bir oyun ve arazisini düzenleyebileceğim bir araç oluştur
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104531704740512143) · [Orijinal gönderi](https://x.com/fuguai1/status/2104531704740512143) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2104590493191479337"></a>
+
+### Mukavemet testi için 3B yazdırılabilir J kancası
+
+[Wësche](https://x.com/WescheNex1q) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104590493191479337"><img src="../assets/previews/643a23b0eaff495333c760e37ddc2036b908363d59f61d886f6598742a59a843.jpg" width="840" loading="lazy" alt="Mukavemet testi için 3B yazdırılabilir J kancası"></a>
+
+3B yazdırma ve mukavemet testi için tek parçalı bir PLA J kancası tasarlayın. Kanca, 8 mm'lik çelik bir çubuğa elle takılmalı ve 8 mm'lik bir yük pimini taşımalıdır; ölçü, kütle, tutuculuk ve kaymayı önleme gereksinimleri karşılanmalıdır. İstenen çıktı, STL dışa aktarmaya uygun eksiksiz bir OpenSCAD dosyasıdır.
+
+**İstem**
+
+```text
+Mukavemet testi için 3B yazdırılabilir tek bir J kancası tasarlayın.
+Kanca, 8 mm'lik çelik bir çubuktan asılacak. 8 mm'lik bir pim kancanın ağzına oturacak ve ağırlığı bu pime asacağız. Çubuk veya pim yerinden kaymadan elde edilebilecek en yüksek kopma yükünü istiyorum.
+Kurallar:
+- Tek bir yazdırılmış parça. Vida, insert, yapıştırıcı veya ek parça kullanılmayacak.
+- Çubuğa ve pime elle takılabilmeli. Kapalı halka kullanılmayacak.
+- Pimlerin yuvaları merkezden merkeze 40 mm aralıklı olacak.
+- PLA. Yazdırılmış hâliyle en fazla 35 g.
+- 80 x 60 x 25 mm ölçülerine sığmalı.
+- Pimin çıkabilmesi için en az 10 mm kaldırılması gerekmeli. Yandan yuvarlanarak çıkabiliyorsa tasarım geçersizdir.
+Şunları verin:
+1. Şeklin kısa bir açıklaması.
+2. Bambu Studio'da derleyip STL olarak dışa aktarabileceğim eksiksiz bir OpenSCAD dosyası.
+STL metni yok. G-code yok. Yalnızca OpenSCAD. İlk fikir yerinden kayacaksa aynı yanıtta onun yerine geçerli bir tasarım sunun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104590493191479337) · [Orijinal gönderi](https://x.com/WescheNex1q/status/2104590493191479337) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Sonsuz Tank Savunması
@@ -4187,7 +4273,7 @@ Kaynak kodu, lockfile’ı, npm geliştirme/derleme komutlarını ve statik çı
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 295 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 298 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

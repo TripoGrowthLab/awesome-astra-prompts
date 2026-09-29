@@ -29,7 +29,7 @@
 
 探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。
 
-**295 条案例 · 14 种语言 · 12 条附项目源码**
+**298 条案例 · 14 种语言 · 12 条附项目源码**
 
 ## 精选作品
 
@@ -55,9 +55,6 @@
 - [切尔诺贝利图谱](#2098841316591346006) · GitHub
 - [交互式 3D 解剖探索器](#2099206962344800541) · GitHub
 - [等距视角奇幻图形演示](#2100271998618177864) · GitHub
-- [Mosswing：移动端 3D 点击振翅游戏](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [互动奇幻画面演示](#2097821164093480999)
-- [无对白 3D 猫咪短片](#2097900087901106244)
 - [让 18 洞高尔夫球场更具挑战性](#2098038909514944562)
 - [交互式鱿鱼群](#2098043033446912315)
 - [GTA 风格卡通汽车追逐工作流](#2098049032195293190)
@@ -145,6 +142,9 @@
 - [森林湖畔村庄环境](#2103860776419111285)
 - [在 Blender 中制作 Super Heavy 助推器捕获装置](#2103966922127630820)
 - [交互式 3D 相机镜头光路演示](#2104077535315144878)
+- [可交互 3D 果冻西瓜切片](#2104504957173153951)
+- [原神风格游戏与地形编辑工具](#2104531704740512143)
+- [用于强度测试的可 3D 打印 J 形挂钩](#2104590493191479337)
 - [Battle City 3D：无尽坦克防御](#battle-city-3d)
 - [疯狂坦克——3D 岛屿炮战](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS——奇趣武器生存游戏](#odd-arms)
@@ -275,66 +275,6 @@
 ```
 
 [查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2100271998618177864) · [查看原帖](https://github.com/achimala/dream-loop) · [项目源码](https://github.com/achimala/dream-loop) · [返回案例导航](#all-prompts)
-
----
-
-<a id="mosswing-mobile-3d-tap-to-flap-game"></a>
-
-### Mosswing：移动端 3D 点击振翅游戏
-
-[Ayi1337](https://github.com/Ayi1337) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/mosswing-mobile-3d-tap-to-flap-game"><img src="../assets/previews/e48e75f6d576698277fbf38943951dca9b414e6f8a6ec01da83ac63b9df5f829.png" width="840" loading="lazy" alt="Mosswing：移动端 3D 点击振翅游戏"></a>
-
-打造一款精致的移动端浏览器 3D 飞行游戏：单击操控、不断滚动的间隙、即时计分，以及原创的生物与世界。
-
-**提示词**
-
-```text
-重新演绎经典的“点击振翅”游戏——玩家通过点击让一只小生物保持飞行，在无尽延伸的间隙之间滑翔——将其制作成一款可在移动端浏览器中游玩的 3D 游戏。只需一个 index.html，打开即可立即运行和游玩；不要使用外部资源（可以使用 CDN 库，由你决定）。保留所有人记忆中的核心玩法：单击操控、重力、不断向你滚动的间隙，碰撞一次即结束，得分取决于通过的间隙数量。其他一切由你决定：生物是什么、障碍物是什么、世界设定、镜头、振翅手感，以及视觉表现可以做到什么程度。设计原创的角色与风格，不要照搬原作美术。我不会回答澄清问题。我评判的是一件完整、优雅、手感出色的作品，而不是功能清单。小而完整，胜过大而粗糙。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [查看原帖](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [项目源码](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [在线演示](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2097821164093480999"></a>
-
-### 互动奇幻画面演示
-
-[Anshu](https://x.com/anshuc) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097821164093480999"><img src="../assets/previews/541f111bea72b7c24bb7edb2d84396581e7a11bc997cf8d910d973ae34715f27.png" width="840" loading="lazy" alt="互动奇幻画面演示"></a>
-
-一个 Dream Loop Plus 提示词，用于在浏览器中创建基于 Three.js 的奇幻场景，包含等距视角、可控制角色、湿润反光地面和环境氛围动态。作者将其标记为使用 GPT-5.6 Luna xhigh 的演示提示词；帖子称 Astra 在优化后的流程中负责视觉呈现。
-
-**提示词**
-
-```text
-使用 Dream Loop Plus 为我制作一个画面演示：采用等距视角、真实感着色和湿润反光地面，并在有趣的场景中加入一个角色。设定为奇幻世界（参考《Elden Ring》和《Diablo》）。使用浏览器中的 Three.js，帧率 >60fps。操作方式：点击移动角色，相机进行延迟跟随；拖动旋转相机；滚动缩放镜头。暂时不要加入游戏玩法。世界应当充满生机：包含动态、动画以及细微的环境行为。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097821164093480999) · [查看原帖](https://x.com/anshuc/status/2097821164093480999) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2097900087901106244"></a>
-
-### 无对白 3D 猫咪短片
-
-[AI実践ラボ](https://x.com/boboga777) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097900087901106244"><img src="../assets/previews/e80882d1c32752e76536bc6977f53cef0bdde11ab64dad0e751c1c1079428acb.jpg" width="840" loading="lazy" alt="无对白 3D 猫咪短片"></a>
-
-制作一部无对白的 3D 猫咪动画：围绕一个零食按钮展开，混乱不断升级，最后带来一个小小的惊喜。
-
-**提示词**
-
-```text
-制作一部无对白的 3D 猫咪短片：一个零食按钮，彻底失控的混乱，以及一个小小的惊喜。加入夸张生动的表演、镜头运动、配乐，并做成可循环播放的动画。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097900087901106244) · [查看原帖](https://x.com/boboga777/status/2097900087901106244) · [返回案例导航](#all-prompts)
 
 ---
 
@@ -3750,6 +3690,152 @@ WebGPU 不可用时显示清晰的回退提示。
 
 ---
 
+<a id="2104504957173153951"></a>
+
+### 可交互 3D 果冻西瓜切片
+
+[基恩-Keane 🌊](https://x.com/esrhengwu) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104504957173153951"><img src="../assets/previews/cf4d886fc6e8c499c9fa10a37204272099b89e9ca4336bb62f03dd93220ec069.jpg" width="840" loading="lazy" alt="可交互 3D 果冻西瓜切片"></a>
+
+作者在评论区公开了一段用于制作“Melon Jelly”的提示词。它要求在浏览器中以 WebGPU 与 WGSL 制作可抓取、拉伸、弯折和扭转的 3D 西瓜果冻软体模拟，并提供材质、物理、界面和验证要求。根帖称 Opus 5.5 与 GPT-6 Astra 分别制作了果冻西瓜；该评论提供的是作者发布的提示词。
+
+**提示词**
+
+```text
+Create “Melon Jelly” - a polished, interactive 3D watermelon jelly slice that runs directly in the browser using genuine WebGPU and WGSL shaders.
+Deliver a single, self-contained HTML file with embedded JavaScript and CSS. This must be an actual interactive 3D simulation, not a static render, video, or 2D imitation.
+THE WATERMELON
+Create a thick, rounded triangular watermelon wedge with:
+Translucent ruby-red jelly flesh.
+A pale, slightly translucent layer between the flesh and rind.
+A glossy green outer rind with irregular dark-green stripes.
+
+Individually modeled dark seeds embedded in both exposed sides.
+Softly rounded corners and an appealing, substantial thickness.
+Make it look like an expensive gummy candy photographed in a studio. It should feel juicy, soft, and almost edible. Keep the colors rich without overexposing the highlights.
+SOFT-BODY PHYSICS
+Use a volumetric soft-body simulation, such as a tetrahedral mesh with XPBD elastic and volume-preservation constraints.
+The user must be able to:
+Grab the tip, a corner, the flesh, or the rind.
+Stretch, bend, lift, and gently twist the slice.
+
+Release it and watch it wobble before gradually settling.
+The slice must visibly deform locally, not simply move or scale as one rigid object. Make the rind slightly firmer than the flesh while keeping the whole slice flexible.
+Preserve volume reasonably during stretching. Prevent inverted elements, explosive motion, and permanent collapse. Use a fixed simulation timestep and bounded substeps for stability.
+After release, the motion should decay naturally - no instant snapping back and no endless oscillation.
+Keep seeds attached to the deforming flesh. They must move and rotate with the surface rather than float independently or remain fixed in space.
+Include ground contact, gentle friction, and soft bouncing. Avoid visible floor penetration.
+RENDERING
+Use native WebGPU with WGSL shaders.
+Include:
+Thickness-dependent light absorption.
+Refraction through the jelly.
+
+Fresnel reflections and glossy highlights.
+Soft transmitted light through thin edges.
+Subtle internal details and a few tiny air bubbles.
+
+Soft contact shadows beneath the slice.
+A light, neutral studio background.
+The flesh, pale rind, and green skin should have distinct material responses. Avoid making everything look like clear glass or opaque plastic.
+Keep the slice large and easy to inspect, with a three-quarter camera angle that reveals the flesh, seeds, and thickness.
+INTERFACE
+Use a minimal editorial layout with generous whitespace, thin borders, restrained controls, and no decorative UI gradients.
+Top left:
+“MATERIAL STUDIES / NO. 009”
+A large italic serif heading split across two lines: “Melon” and “Jelly.”
+Small caption:
+“A slice of summer.”
+“A little wobble.”
+“Too soft to share.”
+Top right:
+A small status indicator showing “WEBGPU · LIVE” when the renderer is running.
+
+Right-side panel:
+“THE SPECIMEN”
+Three coordinated watermelon-inspired color presets.
+Firmness slider with its current value.
+Internal damping slider with its current value.
+“Give it a nudge” and “Reset” buttons.
+“¼ speed” and “Show mesh” checkboxes.
+
+Pause / Resume button.
+Bottom left:
+A short hint explaining that the slice can be grabbed and stretched.
+Live mass, relative volume, and kinetic-energy readouts derived from the simulation. Clearly describe illustrative units or approximate values where appropriate.
+Bottom right:
+
+A collapsible “Inside the experiment” section briefly explaining the physics and rendering.
+BEHAVIOR AND PERFORMANCE
+Support both mouse and touch input. Use pointer capture so dragging remains reliable when the pointer leaves the object.
+Make the layout work on desktop and mobile without controls covering the slice.
+Reuse buffers and avoid rebuilding geometry or compiling shaders during dragging. Keep interaction smooth and responsive.
+Respect reduced-motion preferences. If WebGPU is unavailable, display a clear explanation instead of silently substituting a fake renderer.
+VALIDATION
+Test dragging from several locations, strong stretches, repeated releases, ground collisions, all sliders, presets, pause, reset, and slow motion.
+Check that the model returns to a stable resting shape, seeds stay attached, the mesh remains intact, and there are no rendering errors.
+Prioritize the quality of the jelly response and lighting. The result should be something people want to keep grabbing and playing with.
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104504957173153951) · [查看原帖](https://x.com/esrhengwu/status/2104505413857415515) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2104531704740512143"></a>
+
+### 原神风格游戏与地形编辑工具
+
+[ふぐあい(ふぐおん)](https://x.com/fuguai1) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104531704740512143"><img src="../assets/previews/e95988d923e8e05de9065def3c72647ae3df702210e6d710057eb6ba530f4bf8.jpg" width="840" loading="lazy" alt="原神风格游戏与地形编辑工具"></a>
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104531704740512143"><img src="../assets/previews/df7a40773c0a1b5dab8e29ea57b509f9c6db442166d113f5537ea20b82a6674a.jpg" width="840" loading="lazy" alt="原神风格游戏与地形编辑工具"></a>
+
+要求制作一款类似《原神》的游戏，以及一个可以编辑其地形的工具的提示词。
+
+**提示词**
+
+```text
+制作一款类似《原神》的游戏，以及一个可以编辑其地形的工具
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104531704740512143) · [查看原帖](https://x.com/fuguai1/status/2104531704740512143) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2104590493191479337"></a>
+
+### 用于强度测试的可 3D 打印 J 形挂钩
+
+[Wësche](https://x.com/WescheNex1q) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104590493191479337"><img src="../assets/previews/643a23b0eaff495333c760e37ddc2036b908363d59f61d886f6598742a59a843.jpg" width="840" loading="lazy" alt="用于强度测试的可 3D 打印 J 形挂钩"></a>
+
+设计一个单件式 PLA J 形挂钩，用于 3D 打印和强度测试。挂钩可徒手卡扣在直径 8 mm 的钢杆上，并承托一根直径 8 mm 的加载销；同时满足尺寸、质量、防脱和防滑要求。输出应为完整的 OpenSCAD 文件，可用于导出 STL。
+
+**提示词**
+
+```text
+设计一个用于强度测试的可 3D 打印 J 形挂钩。
+挂钩悬挂在直径 8 mm 的钢杆上。一根直径 8 mm 的销钉放置在钩嘴处，砝码通过这根销钉悬挂。我希望在钢杆或销钉不会滑出的前提下，获得尽可能高的断裂载荷。
+规则：
+- 只能有一个打印件。不得使用螺钉、嵌件、胶水或其他额外零件。
+- 必须能够徒手卡扣到钢杆和销钉上。不得设计成封闭环。
+- 销钉座中心之间的间距为 40 mm。
+- 材料为 PLA。打印完成后的质量不得超过 35 g。
+- 必须适配 80 × 60 × 25 mm 的尺寸范围。
+- 销钉必须至少向上抬起 10 mm 才能脱出。如果销钉可以从侧面滚出，则该设计无效。
+请提供：
+1. 对形状的简短说明。
+2. 一份完整的 OpenSCAD 文件，我可以编译并导出为 STL，以便在 Bambu Studio 中使用。
+不要提供 STL 文本。不要提供 G-code。只能使用 OpenSCAD。如果第一个方案会滑脱，请在同一答案中替换为不会滑脱的方案。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104590493191479337) · [查看原帖](https://x.com/WescheNex1q/status/2104590493191479337) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D：无尽坦克防御
@@ -4138,7 +4224,7 @@ WebGPU 不可用时显示清晰的回退提示。
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 295 条案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 298 条案例 →</a></strong></p>
 <p><sub>为保持 GitHub README 渲染流畅，这里仅展示最新 100 条案例。</sub></p>
 <br>
 </td></tr>

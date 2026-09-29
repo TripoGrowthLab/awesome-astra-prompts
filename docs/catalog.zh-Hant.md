@@ -28,7 +28,7 @@
 **為你的下一個遊戲、場景或互動世界尋找靈感。**
 
 
-**295 · 最新 Astra 提示詞**
+**298 · 最新 Astra 提示詞**
 
 ## 精選作品
 
@@ -54,9 +54,6 @@
 - [車諾比爾圖鑑](#2098841316591346006) · GitHub
 - [互動式 3D 解剖探索器](#2099206962344800541) · GitHub
 - [等角視角奇幻 3D 圖形展示](#2100271998618177864) · GitHub
-- [Mosswing：行動版 3D 點按拍翅遊戲](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [互動式奇幻圖形展示](#2097821164093480999)
-- [無台詞 3D 貓咪零食短片](#2097900087901106244)
 - [打造更具挑戰性的 18 洞高爾夫球場](#2098038909514944562)
 - [互動式魷魚群](#2098043033446912315)
 - [GTA 風格卡通追車工作流程](#2098049032195293190)
@@ -144,6 +141,9 @@
 - [森林湖畔村落環境](#2103860776419111285)
 - [在 Blender 中製作 Super Heavy 助推器捕捉](#2103966922127630820)
 - [互動式 3D 相機鏡頭光線路徑示範](#2104077535315144878)
+- [可互動 3D 果凍西瓜切片](#2104504957173153951)
+- [原神風格遊戲與地形編輯工具](#2104531704740512143)
+- [用於強度測試的可 3D 列印 J 形掛鉤](#2104590493191479337)
 - [Battle City 3D：無盡坦克防禦](#battle-city-3d)
 - [Crazy Tanks — 3D 島嶼火砲戰](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — 怪奇武器生存遊戲](#odd-arms)
@@ -274,66 +274,6 @@
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100271998618177864) · [查看原文](https://github.com/achimala/dream-loop) · [專案原始碼](https://github.com/achimala/dream-loop) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="mosswing-mobile-3d-tap-to-flap-game"></a>
-
-### Mosswing：行動版 3D 點按拍翅遊戲
-
-[Ayi1337](https://github.com/Ayi1337) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/mosswing-mobile-3d-tap-to-flap-game"><img src="../assets/previews/e48e75f6d576698277fbf38943951dca9b414e6f8a6ec01da83ac63b9df5f829.png" width="840" loading="lazy" alt="Mosswing：行動版 3D 點按拍翅遊戲"></a>
-
-打造一款精緻的行動瀏覽器 3D 飛行遊戲，具備單指點按操作、持續捲動的間隙、即時計分，以及原創的生物與世界觀。
-
-**提示詞**
-
-```text
-重新詮釋經典的「點按拍翅」遊戲——玩家透過點按，讓小型生物維持滯空，滑翔穿越一連串無盡的間隙——將它製作成可在行動瀏覽器遊玩的 3D 遊戲。只需一個 index.html，開啟後即可立即遊玩，不使用外部素材（可使用 CDN 函式庫，由你自行決定）。保留大家記憶中的核心玩法：單指點按操作、重力、朝玩家方向捲動的間隙、碰撞一次即結束，以及以通過的間隙數計分。其他一切都由你決定：生物的種類、障礙物、世界觀、鏡頭、拍翅手感，以及視覺呈現的發揮程度。請設計原創角色與風格，不要複製原作美術。我不會回答釐清問題。我評判的是一件完整、優雅且手感出色的作品，而不是功能清單。小而完整，勝過龐大卻粗糙。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [查看原文](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [專案原始碼](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [線上展示](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2097821164093480999"></a>
-
-### 互動式奇幻圖形展示
-
-[Anshu](https://x.com/anshuc) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097821164093480999"><img src="../assets/previews/541f111bea72b7c24bb7edb2d84396581e7a11bc997cf8d910d973ae34715f27.png" width="840" loading="lazy" alt="互動式奇幻圖形展示"></a>
-
-一段 Dream Loop Plus 提示詞，用於在瀏覽器中製作 Three.js 奇幻場景，包含等角視角、可控制角色、具反射效果的濕地面，以及環境氛圍動態。作者將其標示為使用 GPT-5.6 Luna xhigh 的展示提示詞；貼文表示，在最佳化流程中由 Astra 負責視覺呈現。
-
-**提示詞**
-
-```text
-使用 Dream Loop Plus 幫我製作一個圖形展示：採用等角視角、寫實著色與具反射效果的濕地面，並在有趣的場景中加入一名角色。設定為奇幻世界（可以參考 Elden Ring、Diablo）。使用瀏覽器中的 Three.js，效能達到 >60fps。操作方式：點擊移動角色，鏡頭以帶有延遲的方式平滑跟隨；拖曳旋轉鏡頭；滾動縮放鏡頭。暫時不要加入遊戲玩法。世界應該充滿生命感：加入動態、動畫，以及細微的環境行為。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097821164093480999) · [查看原文](https://x.com/anshuc/status/2097821164093480999) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2097900087901106244"></a>
-
-### 無台詞 3D 貓咪零食短片
-
-[AI実践ラボ](https://x.com/boboga777) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097900087901106244"><img src="../assets/previews/e80882d1c32752e76536bc6977f53cef0bdde11ab64dad0e751c1c1079428acb.jpg" width="840" loading="lazy" alt="無台詞 3D 貓咪零食短片"></a>
-
-一部以單一零食按鈕為核心、混亂程度不斷升高，最後帶來一點小回報的無台詞 3D 貓咪動畫。
-
-**提示詞**
-
-```text
-製作一部無台詞的 3D 貓咪短片：一個零食按鈕、徹底失控的混亂場面，以及一點小回報。加入生動的角色表演、鏡頭運動、音樂，並設計成可循環播放。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097900087901106244) · [查看原文](https://x.com/boboga777/status/2097900087901106244) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -3838,6 +3778,152 @@ WebGPU 無法使用時，顯示清楚的替代訊息。
 
 ---
 
+<a id="2104504957173153951"></a>
+
+### 可互動 3D 果凍西瓜切片
+
+[基恩-Keane 🌊](https://x.com/esrhengwu) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104504957173153951"><img src="../assets/previews/cf4d886fc6e8c499c9fa10a37204272099b89e9ca4336bb62f03dd93220ec069.jpg" width="840" loading="lazy" alt="可互動 3D 果凍西瓜切片"></a>
+
+作者在留言區公開了一段用於製作「Melon Jelly」的提示詞。這段提示詞要求在瀏覽器中使用 WebGPU 與 WGSL，製作可抓取、拉伸、彎折和扭轉的 3D 西瓜果凍軟體模擬，並提出材質、物理、介面與驗證要求。原貼文稱 Opus 5.5 與 GPT-6 Astra 分別製作了果凍西瓜；這則留言提供的是作者發布的提示詞。
+
+**提示詞**
+
+```text
+製作「Melon Jelly」——一片精緻、可互動的 3D 西瓜果凍切片，直接在瀏覽器中運作，使用真正的 WebGPU 與 WGSL 著色器。
+提供單一、獨立運作的 HTML 檔案，內嵌 JavaScript 與 CSS。這必須是實際可互動的 3D 模擬，而非靜態渲染、影片或 2D 仿製品。
+西瓜
+製作一片厚實、圓潤的三角形西瓜楔形切片，包含：
+半透明的紅寶石色果凍果肉。
+果肉與外皮之間一層淡色、略帶半透明的部分。
+帶有不規則深綠色條紋的亮面綠色外皮。
+
+在兩個外露表面中嵌入獨立建模的深色西瓜籽。
+邊角柔和圓潤，整體厚度討喜且有份量。
+讓它看起來像是在攝影棚拍攝的高級軟糖。應呈現多汁、柔軟、幾乎令人想直接入口的感覺。保持色彩濃郁，但避免高光過度曝光。
+軟體物理
+使用體積式軟體模擬，例如採用四面體網格，搭配 XPBD 彈性與體積保持約束。
+使用者必須能夠：
+抓住尖端、角落、果肉或外皮。
+拉伸、彎折、提起並輕柔地扭轉切片。
+
+放開後觀察它搖晃，接著逐漸穩定下來。
+切片必須呈現局部可見的變形，而不是只像剛體一樣整體移動或縮放。讓外皮比果肉稍微堅韌，同時保持整片切片的柔韌性。
+拉伸時合理地維持體積。避免元素翻轉、爆炸式運動與永久塌陷。使用固定的模擬時間步長及有上限的子步驟，以維持穩定性。
+放開後，運動應自然衰減——不要瞬間彈回，也不要無止境地振盪。
+讓西瓜籽附著在會變形的果肉上。它們必須隨表面移動與旋轉，而不是獨立漂浮或固定在空間中的原位置。
+加入地面接觸、輕微摩擦與柔和彈跳。避免明顯穿透地面。
+RENDERING
+使用原生 WebGPU 與 WGSL 著色器。
+包含：
+取決於厚度的光吸收。
+穿透果凍的折射。
+
+菲涅耳反射與亮面高光。
+透過薄邊緣的柔和透射光。
+細微的內部細節與少量微小氣泡。
+
+切片下方的柔和接觸陰影。
+明亮、 neutral 的攝影棚背景。
+果肉、淡色外皮與綠色表皮應呈現各自不同的材質反應。避免讓所有部分看起來都像透明玻璃或不透明塑膠。
+讓切片保持大尺寸、易於檢視，使用能展現果肉、西瓜籽與厚度的三分之四視角。
+INTERFACE
+使用極簡的編輯風格版面，保留充足留白、細邊框與克制的控制項，不使用裝飾性 UI 漸層。
+左上角：
+「MATERIAL STUDIES / NO. 009」
+使用大尺寸斜體襯線標題，分成兩行：「Melon」與「Jelly」。
+小字說明：
+「A slice of summer.」
+「A little wobble.」
+「Too soft to share.」
+右上角：
+渲染器運作時，顯示「WEBGPU · LIVE」的小型狀態指示器。
+
+右側面板：
+「THE SPECIMEN」
+三組相互協調、以西瓜為靈感的色彩預設。
+顯示目前數值的硬度滑桿。
+顯示目前數值的內部阻尼滑桿。
+「Give it a nudge」與「Reset」按鈕。
+「¼ speed」與「Show mesh」核取方塊。
+
+暫停／繼續按鈕。
+左下角：
+簡短提示，說明可以抓住並拉伸切片。
+顯示從模擬中取得的即時質量、相對體積與動能讀數。在適當處清楚說明示意單位或近似值。
+右下角：
+
+可摺疊的「Inside the experiment」區段，簡要說明物理與渲染方式。
+行為與效能
+支援滑鼠與觸控輸入。使用指標捕捉功能，讓指標離開物件後拖曳仍能可靠運作。
+讓版面適用於桌面與行動裝置，且控制項不會遮住切片。
+重複使用緩衝區，避免在拖曳期間重建幾何或編譯著色器。保持互動流暢且反應迅速。
+遵循減少動態效果的偏好設定。如果無法使用 WebGPU，請顯示清楚的說明，不要靜默改用虛假的渲染器。
+VALIDATION
+測試從多個位置拖曳、強力拉伸、重複放開、與地面碰撞、所有滑桿、預設、暫停、重設及慢動作。
+確認模型會回到穩定的靜止形狀、西瓜籽保持附著、網格維持完整，且沒有渲染錯誤。
+優先提升果凍的反應品質與光照效果。成果應讓人忍不住持續抓取並把玩。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104504957173153951) · [查看原文](https://x.com/esrhengwu/status/2104505413857415515) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2104531704740512143"></a>
+
+### 原神風格遊戲與地形編輯工具
+
+[ふぐあい(ふぐおん)](https://x.com/fuguai1) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104531704740512143"><img src="../assets/previews/e95988d923e8e05de9065def3c72647ae3df702210e6d710057eb6ba530f4bf8.jpg" width="840" loading="lazy" alt="原神風格遊戲與地形編輯工具"></a>
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104531704740512143"><img src="../assets/previews/df7a40773c0a1b5dab8e29ea57b509f9c6db442166d113f5537ea20b82a6674a.jpg" width="840" loading="lazy" alt="原神風格遊戲與地形編輯工具"></a>
+
+要求製作一款類似《原神》的遊戲，以及可編輯其地形的工具的提示詞。
+
+**提示詞**
+
+```text
+製作一款類似《原神》的遊戲，以及可編輯其地形的工具
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104531704740512143) · [查看原文](https://x.com/fuguai1/status/2104531704740512143) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2104590493191479337"></a>
+
+### 用於強度測試的可 3D 列印 J 形掛鉤
+
+[Wësche](https://x.com/WescheNex1q) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104590493191479337"><img src="../assets/previews/643a23b0eaff495333c760e37ddc2036b908363d59f61d886f6598742a59a843.jpg" width="840" loading="lazy" alt="用於強度測試的可 3D 列印 J 形掛鉤"></a>
+
+設計一個單件式 PLA J 形掛鉤，用於 3D 列印與強度測試。掛鉤可徒手扣在直徑 8 mm 的鋼棒上，並承托直徑 8 mm 的承載銷；同時必須符合尺寸、重量、固定力與防滑要求。所需輸出為可完整編譯並匯出 STL 的 OpenSCAD 檔案。
+
+**提示詞**
+
+```text
+設計一個用於強度測試的可 3D 列印 J 形掛鉤。
+掛鉤懸掛在直徑 8 mm 的鋼棒上。直徑 8 mm 的銷軸放入鉤嘴，重量則掛在該銷軸上。我希望在鋼棒或銷軸不會滑出的前提下，取得最高的破壞載荷。
+規則：
+- 僅限一個列印件。不得使用螺絲、嵌件、膠水或其他額外零件。
+- 必須能徒手扣上鋼棒與銷軸。不得設計成封閉環。
+- 鋼棒與銷軸的座位中心距為 40 mm。
+- 材料為 PLA。列印完成後的重量上限為 35 g。
+- 必須符合 80 × 60 × 25 mm 的外形尺寸。
+- 銷軸至少必須向上提起 10 mm 才能脫出。若銷軸能從側面滾出，該設計即不合格。
+請提供：
+1. 簡短說明形狀設計。
+2. 完整的 OpenSCAD 檔案，讓我能編譯並匯出 STL 供 Bambu Studio 使用。
+不要提供 STL 文字。不要提供 G-code。僅限 OpenSCAD。若第一個構想會滑脫，請在同一份回覆中替換成不會滑脫的設計。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104590493191479337) · [查看原文](https://x.com/WescheNex1q/status/2104590493191479337) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D：無盡坦克防禦
@@ -4226,7 +4312,7 @@ UI：奶油白圓角卡片搭配海軍藍文字與珊瑚橘點綴；標題使用
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 295 個案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 298 個案例 →</a></strong></p>
 <p><sub>為保持 GitHub README 渲染流暢，這裡僅展示最新 100 個案例。</sub></p>
 <br>
 </td></tr>

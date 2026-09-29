@@ -28,7 +28,7 @@
 **Um ponto de partida para seu próximo jogo, cena ou mundo interativo.**
 
 
-**295 · Prompts mais recentes do Astra**
+**298 · Prompts mais recentes do Astra**
 
 ## Projetos em destaque
 
@@ -54,9 +54,6 @@
 - [Atlas de Chernobyl](#2098841316591346006) · GitHub
 - [Explorador interativo de anatomia 3D](#2099206962344800541) · GitHub
 - [Demo de gráficos de fantasia isométrica](#2100271998618177864) · GitHub
-- [Mosswing: jogo 3D mobile de toque para bater asas](#mosswing-mobile-3d-tap-to-flap-game) · GitHub
-- [Demo interativa de gráficos de fantasia](#2097821164093480999)
-- [Curta 3D de gato sem falas](#2097900087901106244)
 - [Torne um campo de golfe de 18 buracos mais desafiador](#2098038909514944562)
 - [Cardume interativo de lulas](#2098043033446912315)
 - [Fluxo de trabalho para perseguição de carros cartunesca inspirada em GTA](#2098049032195293190)
@@ -144,6 +141,9 @@
 - [Ambiente de vila lacustre na floresta](#2103860776419111285)
 - [Captura do propulsor Super Heavy no Blender](#2103966922127630820)
 - [Demonstração interativa do trajeto da luz em uma lente de câmera](#2104077535315144878)
+- [Fatia de melancia de gelatina 3D interativa](#2104504957173153951)
+- [Jogo no estilo de Genshin Impact e ferramenta de edição de terreno](#2104531704740512143)
+- [Gancho em J imprimível em 3D para teste de resistência](#2104590493191479337)
 - [Battle City 3D: Defesa de Tanques sem Fim](#battle-city-3d)
 - [Crazy Tanks — Artilharia 3D em uma ilha](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Jogo de sobrevivência com armas bizarras](#odd-arms)
@@ -274,66 +274,6 @@ Crie uma demo gráfica: câmera isométrica, estilo visual inspirado em voxels, 
 ```
 
 [Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2100271998618177864) · [Publicação original](https://github.com/achimala/dream-loop) · [Código-fonte](https://github.com/achimala/dream-loop) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="mosswing-mobile-3d-tap-to-flap-game"></a>
-
-### Mosswing: jogo 3D mobile de toque para bater asas
-
-[Ayi1337](https://github.com/Ayi1337) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/mosswing-mobile-3d-tap-to-flap-game"><img src="../assets/previews/e48e75f6d576698277fbf38943951dca9b414e6f8a6ec01da83ac63b9df5f829.png" width="840" loading="lazy" alt="Mosswing: jogo 3D mobile de toque para bater asas"></a>
-
-Crie um jogo 3D de voo para navegador mobile, refinado e jogável com um toque, com vãos em movimento, pontuação instantânea e uma criatura e um mundo originais.
-
-**Prompt**
-
-```text
-Remasterize o clássico jogo de “toque para bater asas” — aquele em que você toca para manter uma pequena criatura no ar enquanto ela atravessa uma série interminável de vãos — como um jogo 3D jogável no navegador do celular. Use um único index.html, que abra e comece a jogar instantaneamente, sem assets externos (bibliotecas via CDN são permitidas; fica a seu critério). Mantenha o núcleo exatamente como todos se lembram: controle com um toque, gravidade, vãos que se deslocam em sua direção, uma colisão e fim de jogo, com a pontuação baseada nos vãos atravessados. Todo o resto fica por sua conta: o que é a criatura, quais são os obstáculos, o mundo, a câmera, a sensação da batida de asas e até onde levar o visual. Crie um personagem e um estilo originais, em vez de copiar a arte do original. Não responderei a perguntas de esclarecimento. Vou avaliar uma obra completa, elegante e gostosa de jogar — não uma lista de recursos. Pequeno e bem-acabado é melhor do que grande e mal-acabado.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Publicação original](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Código-fonte](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Demonstração](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2097821164093480999"></a>
-
-### Demo interativa de gráficos de fantasia
-
-[Anshu](https://x.com/anshuc) · 2026-09-09
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097821164093480999"><img src="../assets/previews/541f111bea72b7c24bb7edb2d84396581e7a11bc997cf8d910d973ae34715f27.png" width="840" loading="lazy" alt="Demo interativa de gráficos de fantasia"></a>
-
-Um prompt do Dream Loop Plus para uma cena de fantasia em Three.js executada no navegador, com câmera isométrica, personagem controlável, pisos molhados com reflexos e movimento ambiental. O autor identifica o conteúdo como um prompt de demonstração usando GPT-5.6 Luna xhigh; a publicação afirma que o Astra realiza o trabalho visual no fluxo otimizado.
-
-**Prompt**
-
-```text
-Use o Dream Loop Plus para criar uma demo de gráficos: câmera isométrica, sombreamento realista, pisos molhados com reflexos e um personagem em um cenário interessante. Ambientação de fantasia (pense em Elden Ring e Diablo). Three.js no navegador, >60fps. Controles: clique para mover o personagem; a câmera acompanha suavemente; arraste para girar a câmera; role para aproximar ou afastar. Por enquanto, sem gameplay. O mundo deve parecer vivo: movimento, animações e comportamentos ambientais sutis.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097821164093480999) · [Publicação original](https://x.com/anshuc/status/2097821164093480999) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2097900087901106244"></a>
-
-### Curta 3D de gato sem falas
-
-[AI実践ラボ](https://x.com/boboga777) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097900087901106244"><img src="../assets/previews/e80882d1c32752e76536bc6977f53cef0bdde11ab64dad0e751c1c1079428acb.jpg" width="840" loading="lazy" alt="Curta 3D de gato sem falas"></a>
-
-Um pedido para uma animação 3D de gato sem falas, centrada em um único botão de petisco, com caos crescente e uma pequena recompensa.
-
-**Prompt**
-
-```text
-Crie uma curta 3D de gato sem falas: um único botão de petisco, caos total e uma pequena recompensa. Adicione atuação expressiva, movimentos de câmera, música e um loop.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097900087901106244) · [Publicação original](https://x.com/boboga777/status/2097900087901106244) · [Voltar aos exemplos](#all-prompts)
 
 ---
 
@@ -3730,6 +3670,152 @@ Quero que você crie uma renderização 3D interativa mostrando como a luz atrav
 
 ---
 
+<a id="2104504957173153951"></a>
+
+### Fatia de melancia de gelatina 3D interativa
+
+[基恩-Keane 🌊](https://x.com/esrhengwu) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2104504957173153951"><img src="../assets/previews/cf4d886fc6e8c499c9fa10a37204272099b89e9ca4336bb62f03dd93220ec069.jpg" width="840" loading="lazy" alt="Fatia de melancia de gelatina 3D interativa"></a>
+
+O autor publicou nos comentários um prompt para criar “Melon Jelly”. Ele pede uma simulação de corpo deformável de uma fatia de melancia de gelatina 3D, executada no navegador com WebGPU e WGSL, que possa ser agarrada, esticada, dobrada e torcida, além de especificar requisitos de materiais, física, interface e validação. A publicação original afirma que Opus 5.5 e GPT-6 Astra criaram suas próprias melancias de gelatina; o comentário apresenta o prompt publicado pelo autor.
+
+**Prompt**
+
+```text
+Crie “Melon Jelly”, uma fatia de melancia de gelatina 3D refinada e interativa que seja executada diretamente no navegador usando WebGPU real e shaders WGSL.
+Entregue um único arquivo HTML independente, com JavaScript e CSS incorporados. Deve ser uma simulação 3D interativa de verdade, não uma renderização estática, um vídeo ou uma imitação em 2D.
+A MELANCIA
+Crie uma fatia triangular de melancia espessa, com cantos arredondados e:
+Polpa de gelatina vermelho-rubi translúcida.
+Uma camada clara e levemente translúcida entre a polpa e a casca.
+Uma casca externa verde brilhante com listras verde-escuras irregulares.
+
+Sementes escuras modeladas individualmente e incorporadas às duas faces expostas.
+Cantos suavemente arredondados e uma espessura marcante e substancial.
+Faça com que pareça uma bala de goma sofisticada, fotografada em estúdio. Ela deve transmitir uma sensação suculenta, macia e quase comestível. Mantenha as cores intensas sem estourar os realces.
+FÍSICA DE CORPO DEFORMÁVEL
+Use uma simulação volumétrica de corpo deformável, como uma malha tetraédrica com restrições elásticas e de preservação de volume baseadas em XPBD.
+O usuário deve poder:
+Agarrar a ponta, um canto, a polpa ou a casca.
+Esticar, dobrar, levantar e torcer suavemente a fatia.
+
+Soltá-la e observar sua oscilação antes de se estabilizar gradualmente.
+A fatia deve se deformar visivelmente de forma localizada, em vez de apenas se mover ou mudar de escala como um objeto rígido. Faça com que a casca seja um pouco mais firme que a polpa, mantendo a fatia inteira flexível.
+Preserve razoavelmente o volume durante o estiramento. Evite elementos invertidos, movimentos explosivos e colapso permanente. Use um passo de tempo fixo para a simulação e um número limitado de subpassos para garantir estabilidade.
+Depois de solta, a movimentação deve diminuir naturalmente: nada de retorno instantâneo nem de oscilação interminável.
+Mantenha as sementes presas à polpa deformável. Elas devem se mover e girar com a superfície, em vez de flutuar de forma independente ou permanecer fixas no espaço.
+Inclua contato com o chão, atrito suave e quique moderado. Evite a penetração visível no piso.
+RENDERING
+Use WebGPU nativo com shaders WGSL.
+Inclua:
+Absorção de luz dependente da espessura.
+Refração através da gelatina.
+
+Reflexos de Fresnel e realces brilhantes.
+Luz transmitida suave através das bordas finas.
+Detalhes internos sutis e algumas pequenas bolhas de ar.
+
+Sombras de contato suaves sob a fatia.
+Um fundo de estúdio claro e neutro.
+A polpa, a casca clara e a pele verde devem ter respostas distintas de material. Evite fazer tudo parecer vidro transparente ou plástico opaco.
+Mantenha a fatia grande e fácil de examinar, com a câmera em um ângulo de três quartos que revele a polpa, as sementes e a espessura.
+INTERFACE
+Use um layout editorial minimalista, com bastante espaço em branco, bordas finas, controles discretos e nenhuma graduação decorativa nos elementos da interface.
+No canto superior esquerdo:
+“MATERIAL STUDIES / NO. 009”
+Um título grande em serifa e itálico, dividido em duas linhas: “Melon” e “Jelly”.
+Legenda pequena:
+“Um pedaço do verão.”
+“Um leve balanço.”
+“Macia demais para compartilhar.”
+No canto superior direito:
+Um pequeno indicador de status exibindo “WEBGPU · LIVE” quando o renderizador estiver em execução.
+
+Painel lateral direito:
+“THE SPECIMEN”
+Três predefinições de cores inspiradas na melancia e visualmente coordenadas.
+Controle deslizante de firmeza com seu valor atual.
+Controle deslizante de amortecimento interno com seu valor atual.
+Botões “Give it a nudge” e “Reset”.
+Caixas de seleção “¼ speed” e “Show mesh”.
+
+Botão Pausar / Retomar.
+No canto inferior esquerdo:
+Uma dica curta explicando que a fatia pode ser agarrada e esticada.
+Leituras em tempo real da massa, do volume relativo e da energia cinética, derivadas da simulação. Descreva claramente as unidades ilustrativas ou os valores aproximados quando apropriado.
+No canto inferior direito:
+
+Uma seção recolhível chamada “Inside the experiment”, que explique brevemente a física e a renderização.
+COMPORTAMENTO E DESEMPENHO
+Aceite entrada por mouse e toque. Use captura do ponteiro para que o arraste continue confiável quando o ponteiro sair do objeto.
+Faça o layout funcionar em desktop e dispositivos móveis sem que os controles cubram a fatia.
+Reutilize buffers e evite reconstruir a geometria ou compilar shaders durante o arraste. Mantenha a interação fluida e responsiva.
+Respeite as preferências de redução de movimento. Se o WebGPU não estiver disponível, mostre uma explicação clara em vez de substituí-lo silenciosamente por um renderizador falso.
+VALIDATION
+Teste o arraste a partir de vários pontos, estiramentos fortes, solturas repetidas, colisões com o chão, todos os controles deslizantes, predefinições, pausa, reinício e câmera lenta.
+Verifique se o modelo retorna a uma forma de repouso estável, se as sementes permanecem presas, se a malha continua íntegra e se não há erros de renderização.
+Priorize a qualidade da resposta da gelatina e da iluminação. O resultado deve ser algo que as pessoas queiram continuar agarrando e manipulando.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2104504957173153951) · [Publicação original](https://x.com/esrhengwu/status/2104505413857415515) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2104531704740512143"></a>
+
+### Jogo no estilo de Genshin Impact e ferramenta de edição de terreno
+
+[ふぐあい(ふぐおん)](https://x.com/fuguai1) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2104531704740512143"><img src="../assets/previews/e95988d923e8e05de9065def3c72647ae3df702210e6d710057eb6ba530f4bf8.jpg" width="840" loading="lazy" alt="Jogo no estilo de Genshin Impact e ferramenta de edição de terreno"></a>
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2104531704740512143"><img src="../assets/previews/df7a40773c0a1b5dab8e29ea57b509f9c6db442166d113f5537ea20b82a6674a.jpg" width="840" loading="lazy" alt="Jogo no estilo de Genshin Impact e ferramenta de edição de terreno"></a>
+
+Um prompt que solicita a criação de um jogo no estilo de Genshin Impact e de uma ferramenta para editar o terreno do jogo.
+
+**Prompt**
+
+```text
+Crie um jogo no estilo de Genshin Impact e uma ferramenta para editar o terreno desse jogo.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2104531704740512143) · [Publicação original](https://x.com/fuguai1/status/2104531704740512143) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2104590493191479337"></a>
+
+### Gancho em J imprimível em 3D para teste de resistência
+
+[Wësche](https://x.com/WescheNex1q) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2104590493191479337"><img src="../assets/previews/643a23b0eaff495333c760e37ddc2036b908363d59f61d886f6598742a59a843.jpg" width="840" loading="lazy" alt="Gancho em J imprimível em 3D para teste de resistência"></a>
+
+Projete um gancho em J de PLA, de peça única, para impressão 3D e testes de resistência. Ele deve encaixar manualmente em uma barra de aço de 8 mm e sustentar um pino de carga de 8 mm, atendendo a requisitos dimensionais, de massa, retenção e antideslizamento. O resultado solicitado é um arquivo OpenSCAD completo, adequado para exportação em STL.
+
+**Prompt**
+
+```text
+Projete um gancho em J imprimível em 3D para um teste de resistência.
+O gancho fica suspenso em uma barra de aço de 8 mm. Um pino de 8 mm se apoia no bico do gancho, e usamos esse pino para pendurar o peso. Quero obter a maior carga de ruptura possível sem que a barra ou o pino escorreguem para fora.
+Regras:
+- Uma única peça impressa. Sem parafusos, insertos, cola ou peças adicionais.
+- Deve encaixar manualmente na barra e no pino. Não use anéis fechados.
+- Os centros dos apoios do pino devem ficar a 40 mm de distância.
+- PLA. No máximo 35 g após a impressão.
+- Deve caber em um volume de 80 x 60 x 25 mm.
+- O pino deve precisar ser levantado pelo menos 10 mm para sair. Se ele puder rolar e sair pela lateral, o projeto será inválido.
+Entregue:
+1. Uma explicação breve do formato.
+2. Um arquivo OpenSCAD completo que eu possa compilar e exportar para STL no Bambu Studio.
+Não inclua texto de STL. Não inclua G-code. Use apenas OpenSCAD. Se a primeira ideia escorregar e se soltar, substitua-a na mesma resposta.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2104590493191479337) · [Publicação original](https://x.com/WescheNex1q/status/2104590493191479337) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Defesa de Tanques sem Fim
@@ -4118,7 +4204,7 @@ Entregue o código-fonte, o lockfile, os comandos npm de desenvolvimento/build e
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 295 exemplos no site oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 298 exemplos no site oficial →</a></strong></p>
 <p><sub>Para manter a renderização do README do GitHub fluida, mostramos aqui apenas os 100 exemplos mais recentes.</sub></p>
 <br>
 </td></tr>
