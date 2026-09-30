@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**298 · En yeni Astra istemleri**
+**302 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -54,10 +54,6 @@
 - [Çernobil Atlası](#2098841316591346006) · GitHub
 - [Etkileşimli 3B Anatomi Gezgini](#2099206962344800541) · GitHub
 - [İzometrik fantezi grafik demosu](#2100271998618177864) · GitHub
-- [18 delikli golf sahasını daha zorlu hâle getir](#2098038909514944562)
-- [Etkileşimli kalamar sürüsü](#2098043033446912315)
-- [GTA esintili çizgi film araba kovalamacası iş akışı](#2098049032195293190)
-- [Şehir Nabzı](#2098063352832610473)
 - [Uçan büyülü akademi animasyonu](#2098071577309122854)
 - [Şehir kanyonunda beyaz model mekik uçuşu](#2098079379297608050)
 - [Kılıç ustasının kapı yıkımı temalı fantastik animasyonu](#2098094339759149067)
@@ -144,6 +140,10 @@
 - [Etkileşimli 3B jöle karpuz dilimi](#2104504957173153951)
 - [Genshin Impact tarzı oyun ve arazi düzenleme aracı](#2104531704740512143)
 - [Mukavemet testi için 3B yazdırılabilir J kancası](#2104590493191479337)
+- [Etkileşimli eğitsel 3B CRISPR gösterimi](#2104605522640970208)
+- [Ay ışığında etkileşimli orman teknesi gezintisi](#2104613125093998674)
+- [X-ray patlatılmış görünümlü dönüşen spor otomobil](#2104654448878387313)
+- [Son derece ayrıntılı 3B insan gözü](#2104841727496323479)
 - [Battle City 3D: Sonsuz Tank Savunması](#battle-city-3d)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu](#odd-arms)
@@ -274,141 +274,6 @@ Bana bir grafik demosu oluştur: izometrik kamera, gerçekçi gölgelendirmeye v
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100271998618177864) · [Orijinal gönderi](https://github.com/achimala/dream-loop) · [Kaynak kodu](https://github.com/achimala/dream-loop) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2098038909514944562"></a>
-
-### 18 delikli golf sahasını daha zorlu hâle getir
-
-[Rory Flynn](https://x.com/Ror_Fly) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098038909514944562"><img src="../assets/previews/f5a4d2f44955ee094959c3e503ec284bf99779bbdc16141a66d1305f8df3d895.jpg" width="840" loading="lazy" alt="18 delikli golf sahasını daha zorlu hâle getir"></a>
-
-Yazarın belirttiği bir gecelik hedef: 18 delikli golf sahasının tarayıcı modelini; daha zorlu delikler, bölünmüş fairway'ler, daha iddialı bunkerlar ve engeller ve daha anlamlı vuruş seçenekleriyle yeniden düzenlemek.
-
-**İstem**
-
-```text
-Her deliği daha zorlu hâle getir
->Düz fairway'leri böl
->Daha iddialı bunkerlar + engeller ekle
->Daha anlamlı vuruş seçenekleri oluştur
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098038909514944562) · [Orijinal gönderi](https://x.com/Ror_Fly/status/2098038909514944562) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2098043033446912315"></a>
-
-### Etkileşimli kalamar sürüsü
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098043033446912315"><img src="../assets/previews/3aad19d589e3d6a507904da717f40a29ca1c2142a2c5c3651b4fe16285114e02.jpg" width="840" loading="lazy" alt="Etkileşimli kalamar sürüsü"></a>
-
-Gövdesi matematiksel noktalardan hesaplanan etkileşimli bir WebGL kalamar sürüsü; gerçek zamanlı hareket, kontroller, renk değişimleri, atalet ve suya dokunulduğunda verilen panik tepkisi içerir.
-
-**İstem**
-
-```text
-etkileşimli bir kalamar sürüsü oluştur
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098043033446912315) · [Orijinal gönderi](https://x.com/vib3coded/status/2098043033446912315) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2098049032195293190"></a>
-
-### GTA esintili çizgi film araba kovalamacası iş akışı
-
-[PixVerse](https://x.com/PixVerse) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098049032195293190"><img src="../assets/previews/939609b429641e344a40ab78f01e7bf6dbfd57e8e707db7765c81ae04057ac31.jpg" width="840" loading="lazy" alt="GTA esintili çizgi film araba kovalamacası iş akışı"></a>
-
-Blender'da 12 saniyelik GTA esintili çizgi film araba kovalamacası oluşturup canlandırmak, ardından planları PixVerse Seedance 2.5 ile işlemek için yeniden kullanılabilir iş akışı istemi.
-
-**İstem**
-
-```text
-Bu iş akışını kullanarak özgün bir GTA esintili çizgi film araba kovalamacası oluşturun:
-Tasarım: Bir ana sürücü, bir kaçış aracı, bir takip aracı ve bir şehir ortamı tanımlayın. Tasarımlarının tutarlı kalmasını sağlayın. Dört saniyelik üç planı planlayın: arkadan takip, keskin bir virajda yandan takip ve geniş açıyla çıkış planı.
-Blender'da oluşturun: Temiz gri modeller ile işlevsel karakter ve araç rig'leri oluşturun. Doku veya UV açma işlemi gerekmez.
-Canlandırın ve test edin: Sürücüyü, direksiyonu, tekerlek dönüşünü, araçları ve kameraları canlandırın. Hareket yönünü ve araç sıralamasını tutarlı tutun. Kesişmeleri, havada duran tekerlekleri, kayan lastikleri, bozuk pozları ve ellerin direksiyonla temasını kaybetmesini düzeltin.
-Blender'da render alın: 1280×720 çözünürlükte, 24 fps ile 1–288. kareleri render alın. Gerçek Blender render karelerini birleştirerek 12 saniyelik eksiksiz bir gri model ana video oluşturun. Her planı ayrı ayrı dışa aktarın ve biçim ile kompozisyon referansı olarak eşleşen gri sabit görüntüler render alın.
-[ @PixVerse](plugin://pixverse@openai-curated-remote) Plugin ile tamamlayın: Seedance 2.5'i 720p olarak kullanın ve her planı ayrı ayrı işleyin. Blender kliplerini hareket referansı, gri sabit görüntüleri ise biçim referansı olarak kullanın. Oluşturma isteminde tutarlı bir çizgi film renk paleti tanımlayın. Kamera hareketini, aksiyon zamanlamasını, karakter ve araç tasarımlarını ve araç sayısını koruyun.
-İnceleyin ve teslim edin: Her iki eksiksiz videoyu görsel kusurlar ve devamlılık açısından kontrol edin. Blender sorunlarını düzeltin ve yalnızca başarısız Seedance planlarını, plan başına en fazla iki yeniden denemeyle yeniden oluşturun. Düzenlenebilir .blend dosyasını, Blender'dan alınan yerel 720p gri model videosunu, ayrı etiketlenmiş 720p Seedance sürümünü ve kalan sınırlamaların kısa bir değerlendirmesini teslim edin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098049032195293190) · [Orijinal gönderi](https://x.com/PixVerse/status/2098049032195293190) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2098063352832610473"></a>
-
-### Şehir Nabzı
-
-[Seoyeon Jun 📊](https://x.com/tableau_viz) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098063352832610473"><img src="../assets/previews/5d96794ffdfbbd2d258ceafada52e1fbe1baa78da9bd613cb7f66f3d16e369ba.jpg" width="840" loading="lazy" alt="Şehir Nabzı"></a>
-
-Ocak 2025'te New York'un sarı taksi hareketliliğini gösteren; 3B harita, saatlik hareketlerin yeniden oynatılması, bölge inceleme ve hafta içi ya da hafta sonu ortalamalarıyla karşılaştırma özelliklerine sahip etkileşimli bir 3B ulaşım atlası.
-
-**İstem**
-
-```text
-# "City Pulse" oluşturun: New York'un taksi hareketliliği için etkileşimli bir 3B ulaşım atlası (Ocak 2025)
-
-## Amaç
-New York'un bir ay boyunca nasıl hareket ettiğini gösteren, tek sayfalık ve İngilizce bir web görselleştirmesi:
-31 gün, 24 saat, 263 taksi bölgesi. Okuyucu şehrin günlük ritmini izleyebilmeli,
-herhangi bir günü tipik bir hafta içi veya hafta sonuyla karşılaştırabilmeli ve istediği bölgeyi ayrıntılı olarak inceleyebilmeli.
-Bu, gerçek zamanlı veya GPS tabanlı bir ürün değil, betimleyici bir analiz aracıdır. Her görsel, tek bir işaretin neyi temsil ettiğini belirtmelidir.
-
-## Veriler
-Kaynaklar (herkese açık):
-- NYC TLC Trip Record Data, Yellow Taxi, Ocak 2025 (parquet)
-- NYC TLC Taxi Zones (263 bölge, şekiller + ilçe eşlemesi)
-- NYC Open Data bina ayak izleri (görsel bağlam olarak yalnızca Manhattan)
-
-Ön işleme (Python + DuckDB veya pandas), küçük statik JSON dosyaları çıktısı:
-- Geçersiz yolculukları filtreleyin: Ocak 2025 dışındaki alma tarihleri, pozitif olmayan veya 3 saati aşan süreler, bilinmeyen bölgeler (264/265).
-- Gün, bölge ve saat başına: alma sayısı, medyan yolculuk süresi.
-- Gün ve saat başına: en sık kullanılan başlangıç → varış bölgesi çiftleri (birleştirilmiş akışlar, saat başına en yüksek N değer).
-- Bölge-saat başına referans ortalamaları: hafta içi ortalaması (23 gün) ve hafta sonu ortalaması (8 gün), gün bazında ortalamalar; tatiller hafta içi grubunda tutulur.
-- Ay düzeyinde sabit ölçek: her gün için kullanılan, en yüksek bölge-saat alma sayısı; böylece yükseklikler karşılaştırılabilir kalır.
-- Bölge meta verileri: kimlik, ad, ilçe, merkez noktası, etiket bağlantı noktası. Bölge geometrisini sadeleştirin.
-Dosyalar: month.json (günlük toplamlar, ölçek, en yoğun bölgeler), weekday.json, weekend.json, days/2025-01-DD.json, zones geojson.
-Geçerli günü tembel yükleme ile yükleyin; ilk görüntülemeyi hızlı tutun.
-
-## Teknoloji yığını
-- Three.js 0.160 kullanan, kendi içinde çalışan tek bir HTML dosyası (veya küçük bir Vite uygulaması); importmap üzerinden ES modülleri, OrbitControls, EffectComposer + bloom.
-- D3 yalnızca ölçekler/biçimlendirme ve küçük SVG grafikleri için.
-- Framework zorunlu değil. Çalışma zamanında harici API çağrısı yapılmayacak; her şey statik JSON'dan okunacak.
-
-## Yerleşim (masaüstünde 1920×1080 boyutuna kaydırma olmadan tek ekrana sığmalı)
-1. Üst bilgi: "CITY PULSE / MOBILITY ATLAS", "Recorded replay" durumu, "Data & methods" bağlantısı.
-2. Durum satırı: "Hareket hâlindeki bir şehir." + üç KPI: şehir genelindeki alma sayısı (seçili saat), karşılaştırma ortalamasına göre, medyan yolculuk süresi.
-3. Ay şeridi: mini çubuklar olarak 31 gün düğmesi (çubuk yüksekliği = günlük alma sayısı, hafta sonları işaretli), önceki/sonraki gün, tarih seçimi, "Compare with" seçimi (Hafta içi ortalaması · 23 gün / Hafta sonu ortalaması · 8 gün).
-4. Hikâye çubuğu: "Her hareket bir iz bırakır."; 4 bölüm (01 İzle, 02 Aç, 03 Karşılaştır, 04 Paylaş) ve "Hikâyeyi başlat".
-5. Görünüm sekmeleri: 01 Bağlantılar, 02 Şehir hacmi, 03 24 saati aç, 04 Hayalet şehir; ayrıca "Bulguyu paylaş" ve "Brifing oluştur".
-6. Çalışma alanı: 3B harita sahnesi (sol) + Location Insight denetçisi (sağda, yaklaşık 330 px, kendi içinde kaydırılabilir).
-7. Zaman çizelgesi: Günü oynat, hız (0.25×–4×), seçili günün ortalamayla karşılaştırıldığı 24 saatlik çubuk grafik üzerinde saat kaydırıcısı.
-Harita sahnesinin yüksekliği, %100 yakınlaştırmada zaman çizelgesi dahil tüm konsol görünecek şekilde, görüntü alanına uyarlanmalı (yaklaşık 470 px ile 780 px arasında sınırlandırılmalı).
-
-## 3B sahne
-- Koyu zemin, ince çizgilerle bölge sınırları, gerçek dünyadan hafif bir bağlam olarak Manhattan bina ayak izleri.
-- Kamera: perspektif, yörünge + yakınlaştırma, yeniden merkezleme düğmesi. Görünümler arasında geçiş yaparken kullanıcının kamera konumunu koruyun; ancak tüm matrisi gösterecek şekilde yeniden kadrajlanan "24 saati aç" görünümü bunun dışındadır.
-- Bir bölgenin üzerine gelindiğinde: ad ve alma sayısını gösteren araç ipucu. Bir bölgeye tıklandığında: bölgeyi seçin (denetçiyi ve akışları güncelleyin).
-
-Görünümler (her geçiş animasyonlu olmalı, ani değişimler olmamalı):
-- 01 Bağlantılar: bölgeden bölgeye birleştirilmiş yolculukları, hareketli ışık parçacıkları içeren parlayan yaylarla gösterin; parçacık yoğunluğu ∝ yolculuk sayısı; öne çıkan akışı etiketleyin ("FROM / Midtown Center → TO / Upper East Side North, 71 trips / 18:00"). Açıklama: "Kayıtlı bölgeden bölgeye yolculuklar · şematik hareket. GPS değildir."
-- 02 Şehir hacmi: her bölgeyi yükseltilmiş bir hacim olarak gösterin; yükseklik = sabit aylık ölçekteki alma sayısı; seçili bölgeyi vurgulayın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098063352832610473) · [Orijinal gönderi](https://x.com/tableau_viz/status/2098063352832610473) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3885,6 +3750,88 @@ STL metni yok. G-code yok. Yalnızca OpenSCAD. İlk fikir yerinden kayacaksa ayn
 
 ---
 
+<a id="2104605522640970208"></a>
+
+### Etkileşimli eğitsel 3B CRISPR gösterimi
+
+[Alejandro](https://x.com/AlejandroRomaan) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104605522640970208"><img src="../assets/previews/e9d956c6cfd11ddef0d83a4351ec53a5a04d44b4e42e72554986def5202e8d4a.jpg" width="840" loading="lazy" alt="Etkileşimli eğitsel 3B CRISPR gösterimi"></a>
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104605522640970208"><img src="../assets/previews/549d486909b60fc933dfc5bff87aa14eb814f1a09c3bbbaf98bbe2601b322068.jpg" width="840" loading="lazy" alt="Etkileşimli eğitsel 3B CRISPR gösterimi"></a>
+
+CRISPR DNA teknolojisini anlatan etkileşimli ve anlaşılır bir 3B eğitim modeli. Bir DNA sarmalını ve gen düzenleme sürecinin tamamını göstermeli, her bileşeni tanımlamalı ve kullanıcıların ilgili parçaları seçerek bunlar hakkında bilgi edinmesine olanak tanımalı.
+
+**İstem**
+
+```text
+CRISPR DNA teknolojisinin nasıl çalıştığını anlatan etkileşimli bir 3B eğitim modeli oluşturmanı istiyorum. Açık, anlaşılır ve okunabilir olduğu, bir DNA sarmalı içerdiği, gen düzenleme sürecinin tamamını ve her parçanın ne olduğunu gösterdiği sürece istediğin teknolojiyi seçebilirsin. İlgili parçaların herhangi birini seçebilmeli ve o parça hakkında bilgi edinebilmeliyim.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104605522640970208) · [Orijinal gönderi](https://x.com/AlejandroRomaan/status/2104605522640970208) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2104613125093998674"></a>
+
+### Ay ışığında etkileşimli orman teknesi gezintisi
+
+[Fazley](https://x.com/itsfazley) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104613125093998674"><img src="../assets/previews/56d9ffba8a2359b42f24dc04f30b499e0cf7978bfdf55eae0aa43f35e533979c.jpg" width="840" loading="lazy" alt="Ay ışığında etkileşimli orman teknesi gezintisi"></a>
+
+Dar bir orman içi su yolunda geçen, tam ekran ve duyarlı bir Three.js tekne gezintisi. Oyuncular klavye veya dokunmatik kontrollerle boş bir ahşap kayığı yönlendirir; animasyonlu su, teknenin oluşturduğu iz efektleri, ay ışığı yansımaları, ortam sesleri ve ay ışıklı gece, şafak ve yağmur seçenekleri sunulur.
+
+**İstem**
+
+```text
+Dar bir orman içi su yolunda geçen, tam ekran ve duyarlı bir Three.js tekne gezintisi oluşturun. Sivri pruvaya, geniş yanlara, düz kıça, görünür taban tahtalarına ve oturma sıralarına sahip boş bir ahşap kayığı üçüncü şahıs kamerasıyla takip edin; kayıkta kürek bulunmasın, içi kuru olsun ve tekne gövdesi suya biraz gömülü dursun. Kullanıcıların WASD veya ok tuşlarıyla ve dokunmatik kontrollerle yön vermesini sağlayın. Sahneyi gece ve mistik bir atmosfere büründürün: Her iki kıyıda yoğun, çeşitli ve gerçekçi koyu yeşil ağaçlar, hafif rüzgâr, ayrıntılı bir dolunay ve animasyonlu suya dağılmış ay ışığı yansımaları kullanın. İnandırıcı hareketli dalgalar, teknenin ve ağaçların bozulmuş yansımaları ve teknenin izlediği yolu takip ederek doğal biçimde kaybolan bir tekne izi ekleyin; sabit parlayan işaretler veya belirgin dairesel sınırlar kullanmayın. Ay ışıklı gece, sıcak şafak ve kapalı yağmurlu hava seçenekleri için bir hava durumu geçişi ekleyin; yağmur modunda düşen yağmur damlaları ve suyun dalgalarının biçimlendirdiği, küçük ve kısa sürede kaybolan çarpma halkaları gösterin. İsteğe bağlı, hafif seviyede su, orman ve yağmur ortam sesleri ekleyin. Arayüzü minimal tutun. Görselleri, kontrolleri, sesi, sayacı ve üç hava durumu modunun tamamını masaüstü ve mobil cihazlarda doğrulayın.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104613125093998674) · [Orijinal gönderi](https://x.com/itsfazley/status/2104613128017522813) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2104654448878387313"></a>
+
+### X-ray patlatılmış görünümlü dönüşen spor otomobil
+
+[Marcel](https://x.com/marcthecreatorr) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104654448878387313"><img src="../assets/previews/487b700ccd9ea1cc1b22eefe925d0ca7231c3c4ba70772a05a71cd21dcce91ea.jpg" width="840" loading="lazy" alt="X-ray patlatılmış görünümlü dönüşen spor otomobil"></a>
+
+Marcel tarafından GPT-6 Astra ile Sonnet 5.5 karşılaştırması için hazırlanan tek seferlik istem. İstem; insansı robota dönüşen, ayrıntılı ve etkileşimli bir spor otomobil ile X-ray ve patlatılmış görünüm modlarını talep ediyor.
+
+**İstem**
+
+```text
+X-ray modu ve etkileşimli patlatılmış görünümü olan, insansı robota dönüşen ayrıntılı bir spor otomobil oluştur
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104654448878387313) · [Orijinal gönderi](https://x.com/marcthecreatorr/status/2104654448878387313) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2104841727496323479"></a>
+
+### Son derece ayrıntılı 3B insan gözü
+
+[Simonas](https://x.com/SimonasLTU1) · 2026-09-29
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104841727496323479"><img src="../assets/previews/8502c6ae82a02cae03c639bd0f95cd45392652b2fec20853d84a15e91abebafa.jpg" width="840" loading="lazy" alt="Son derece ayrıntılı 3B insan gözü"></a>
+
+Gerçekçi bir makro fotoğraf görünümüne sahip, sıfırdan modellenmiş son derece ayrıntılı bir 3B insan gözü içeren yerel bir Three.js HTML/CSS/JS dosyası oluşturun.
+
+**İstem**
+
+```text
+Three.js kullanarak yerel bir HTML/CSS/JS dosyası oluşturun. Gerçek bir gözün makro fotoğrafı gibi görünen, son derece ayrıntılı bir 3B insan gözü modeli oluşturun. Her şey sıfırdan oluşturulmalıdır.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104841727496323479) · [Orijinal gönderi](https://x.com/SimonasLTU1/status/2104841727496323479) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Sonsuz Tank Savunması
@@ -4273,7 +4220,7 @@ Kaynak kodu, lockfile’ı, npm geliştirme/derleme komutlarını ve statik çı
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 298 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 302 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

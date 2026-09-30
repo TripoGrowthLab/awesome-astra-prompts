@@ -28,7 +28,7 @@
 **Un point de départ pour votre prochain jeu, scène ou monde interactif.**
 
 
-**298 · Derniers prompts Astra**
+**302 · Derniers prompts Astra**
 
 ## Projets à découvrir
 
@@ -54,10 +54,6 @@
 - [Atlas de Tchernobyl](#2098841316591346006) · GitHub
 - [Explorateur anatomique 3D interactif](#2099206962344800541) · GitHub
 - [Démo de graphismes fantasy en vue isométrique](#2100271998618177864) · GitHub
-- [Rendre un parcours de golf de 18 trous plus exigeant](#2098038909514944562)
-- [Banc interactif de calamars](#2098043033446912315)
-- [Workflow de course-poursuite automobile cartoon inspirée de GTA](#2098049032195293190)
-- [Pouls urbain](#2098063352832610473)
 - [Animation d’une académie magique flottante](#2098071577309122854)
 - [Vol d’une navette blanche dans un canyon urbain](#2098079379297608050)
 - [Animation fantasy : un épéiste détruit une porte fortifiée](#2098094339759149067)
@@ -144,6 +140,10 @@
 - [Tranche de pastèque en gelée 3D interactive](#2104504957173153951)
 - [Jeu dans le style de Genshin Impact et outil d’édition de terrain](#2104531704740512143)
 - [Crochet en J imprimable en 3D pour test de résistance](#2104590493191479337)
+- [Représentation 3D interactive et pédagogique de CRISPR](#2104605522640970208)
+- [Balade interactive en barque dans une jungle éclairée par la lune](#2104613125093998674)
+- [Voiture de sport transformable avec vue éclatée aux rayons X](#2104654448878387313)
+- [Œil humain en 3D très détaillé](#2104841727496323479)
 - [Battle City 3D : Défense de chars sans fin](#battle-city-3d)
 - [Crazy Tanks — Artillerie insulaire en 3D](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Jeu de survie aux armes improbables](#odd-arms)
@@ -274,141 +274,6 @@ Crée-moi une démo graphique : caméra isométrique, style visuel inspiré des 
 ```
 
 [Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2100271998618177864) · [Publication originale](https://github.com/achimala/dream-loop) · [Code source](https://github.com/achimala/dream-loop) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2098038909514944562"></a>
-
-### Rendre un parcours de golf de 18 trous plus exigeant
-
-[Rory Flynn](https://x.com/Ror_Fly) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098038909514944562"><img src="../assets/previews/f5a4d2f44955ee094959c3e503ec284bf99779bbdc16141a66d1305f8df3d895.jpg" width="840" loading="lazy" alt="Rendre un parcours de golf de 18 trous plus exigeant"></a>
-
-Objectif fixé par l’auteur pour retravailler pendant la nuit un modèle de parcours de golf affichable dans un navigateur, avec des trous plus exigeants, des fairways moins rectilignes, des bunkers et des obstacles plus audacieux, ainsi que des choix de coups plus pertinents.
-
-**Prompt**
-
-```text
-Rendez chaque trou plus exigeant
->Cassez la monotonie des fairways rectilignes
->Ajoutez des bunkers et des obstacles plus audacieux
->Créez des choix de coups plus pertinents
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098038909514944562) · [Publication originale](https://x.com/Ror_Fly/status/2098038909514944562) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2098043033446912315"></a>
-
-### Banc interactif de calamars
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098043033446912315"><img src="../assets/previews/3aad19d589e3d6a507904da717f40a29ca1c2142a2c5c3651b4fe16285114e02.jpg" width="840" loading="lazy" alt="Banc interactif de calamars"></a>
-
-Un banc interactif de calamars en WebGL, dont les corps sont calculés à partir de points mathématiques, avec des mouvements en temps réel, des contrôles, des changements de couleur, de l’inertie et une réaction de panique lorsque l’eau est touchée.
-
-**Prompt**
-
-```text
-créer un banc interactif de calamars
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098043033446912315) · [Publication originale](https://x.com/vib3coded/status/2098043033446912315) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2098049032195293190"></a>
-
-### Workflow de course-poursuite automobile cartoon inspirée de GTA
-
-[PixVerse](https://x.com/PixVerse) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098049032195293190"><img src="../assets/previews/939609b429641e344a40ab78f01e7bf6dbfd57e8e707db7765c81ae04057ac31.jpg" width="840" loading="lazy" alt="Workflow de course-poursuite automobile cartoon inspirée de GTA"></a>
-
-Prompt de workflow réutilisable pour créer et animer dans Blender une course-poursuite automobile cartoon de 12 secondes inspirée de GTA, puis traiter les plans avec PixVerse Seedance 2.5.
-
-**Prompt**
-
-```text
-Créez une course-poursuite automobile cartoon originale inspirée de GTA en suivant ce workflow :
-Conception : définissez un conducteur principal, une voiture en fuite, une voiture poursuivante et un environnement urbain. Veillez à la cohérence de leur design. Planifiez trois plans de 4 secondes : poursuite en travelling arrière, travelling latéral dans un virage serré et plan large de sortie.
-Modélisation dans Blender : créez des modèles gris propres ainsi que des rigs fonctionnels pour le personnage et les véhicules. Aucune texture ni aucun dépliage UV n’est requis.
-Animation et tests : animez le conducteur, le volant, la rotation des roues, les véhicules et les caméras. Maintenez une direction de déplacement et un ordre cohérents pour les véhicules. Corrigez les problèmes d’interpénétration, les roues qui flottent, les pneus qui glissent, les poses incorrectes et les mains qui ne restent pas en contact avec le volant.
-Rendu dans Blender : rendez les images 1 à 288 en 1280×720 à 24 i/s. Assemblez les images réellement rendues dans Blender pour obtenir un master complet de 12 secondes en modèles gris. Exportez chaque plan séparément et rendez des images fixes grises correspondantes comme références de forme et de composition.
-Finalisation avec le plugin [@PixVerse](plugin://pixverse@openai-curated-remote) : utilisez Seedance 2.5 en 720p et traitez chaque plan séparément. Utilisez les séquences Blender comme références de mouvement et les images fixes grises comme références de forme. Définissez une palette de couleurs cartoon cohérente dans le prompt de génération. Préservez les mouvements de caméra, le timing de l’action, le design des personnages et des véhicules, ainsi que le nombre de véhicules.
-Vérification et livraison : inspectez les deux vidéos complètes pour détecter les défauts visuels et les problèmes de continuité. Corrigez les problèmes dans Blender et régénérez uniquement les plans Seedance défectueux, avec au maximum deux nouvelles tentatives par plan. Livrez le fichier .blend éditable, la vidéo Blender native en 720p avec modèles gris, la version Seedance en 720p identifiée séparément et une brève évaluation des limites restantes.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098049032195293190) · [Publication originale](https://x.com/PixVerse/status/2098049032195293190) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2098063352832610473"></a>
-
-### Pouls urbain
-
-[Seoyeon Jun 📊](https://x.com/tableau_viz) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098063352832610473"><img src="../assets/previews/5d96794ffdfbbd2d258ceafada52e1fbe1baa78da9bd613cb7f66f3d16e369ba.jpg" width="840" loading="lazy" alt="Pouls urbain"></a>
-
-Un atlas 3D interactif de la mobilité des taxis jaunes à New York en janvier 2025, avec une carte 3D, la relecture des déplacements heure par heure, l’inspection des zones et des comparaisons avec les moyennes des jours de semaine ou du week-end.
-
-**Prompt**
-
-```text
-# Créer « City Pulse » : un atlas 3D interactif de la mobilité des taxis à New York (janvier 2025)
-
-## Objectif
-Une visualisation web monopage en anglais qui montre comment New York se déplace sur un mois :
-31 jours, 24 heures, 263 zones de taxi. Le lecteur doit pouvoir observer le rythme quotidien de la ville,
-comparer n’importe quelle journée à une journée de semaine ou de week-end type, et examiner chaque zone en détail.
-Il s’agit d’un outil d’analyse descriptive, et non d’un produit en temps réel ou fondé sur le GPS. Chaque élément visuel doit indiquer ce qu’il représente.
-
-## Données
-Sources (publiques) :
-- NYC TLC Trip Record Data, Yellow Taxi, janvier 2025 (Parquet)
-- NYC TLC Taxi Zones (263 zones, formes + correspondance avec les boroughs)
-- Empreintes des bâtiments de NYC Open Data (Manhattan uniquement, comme contexte visuel)
-
-Prétraitement (Python + DuckDB ou pandas), avec génération de petits fichiers JSON statiques :
-- Filtrer les courses invalides : prise en charge en dehors de janvier 2025, durée non positive ou supérieure à 3 h, zones inconnues (264/265).
-- Pour chaque jour, zone et heure : nombre de prises en charge, durée médiane de la course.
-- Pour chaque jour et chaque heure : principales paires zone d’origine → zone de destination (flux agrégés, top N par heure).
-- Moyennes de référence par zone et par heure : moyenne des jours de semaine (23 jours) et moyenne du week-end (8 jours), moyennes journalières ; les jours fériés restent dans le groupe des jours de semaine.
-- Échelle fixe au niveau du mois : maximum des prises en charge par zone et par heure, utilisé pour chaque jour afin que les hauteurs restent comparables.
-- Métadonnées des zones : identifiant, nom, borough, centroïde, point d’ancrage de l’étiquette. Simplifier la géométrie des zones.
-Fichiers : month.json (totaux quotidiens, échelle, principales zones), weekday.json, weekend.json, days/2025-01-DD.json, zones geojson.
-Charger le jour courant à la demande ; conserver un premier affichage rapide.
-
-## Stack
-- Un fichier HTML autonome (ou une petite application Vite) avec Three.js 0.160 (modules ES via importmap), OrbitControls, EffectComposer + bloom.
-- D3 uniquement pour les échelles, le formatage et de petits graphiques SVG.
-- Aucun framework requis. Aucun appel à une API externe à l’exécution ; toutes les données sont lues depuis les fichiers JSON statiques.
-
-## Mise en page (sur ordinateur, 1920×1080 doit tenir sur un seul écran sans défilement)
-1. En-tête : « CITY PULSE / ATLAS DE LA MOBILITÉ », statut « Relecture enregistrée », lien « Données et méthodes ».
-2. Ligne d’état : « Une ville en mouvement. » + trois KPI : prises en charge dans toute la ville (heure sélectionnée), écart par rapport à la moyenne de comparaison, durée médiane des courses.
-3. Bandeau mensuel : 31 boutons correspondant aux jours, sous forme de mini-barres (hauteur de la barre = nombre quotidien de prises en charge, week-ends signalés), jour précédent/suivant, sélection de la date, sélection « Comparer avec » (Moyenne des jours de semaine · 23 jours / Moyenne du week-end · 8 jours).
-4. Barre narrative : « Chaque déplacement laisse une empreinte. » avec 4 chapitres (01 Observer, 02 Déployer, 03 Comparer, 04 Partager) et « Commencer le récit ».
-5. Onglets de vue : 01 Connexions, 02 Volume urbain, 03 Déployer sur 24 h, 04 Ville fantôme, ainsi que « Partager un résultat » et « Créer un briefing ».
-6. Espace de travail : scène cartographique 3D (à gauche) + inspecteur « Détails du lieu » (à droite, environ 330 px, avec défilement interne).
-7. Frise chronologique : Lire la journée, vitesse (0,25×–4×), curseur horaire au-dessus d’un histogramme sur 24 h comparant le jour sélectionné à la moyenne.
-La hauteur de la scène cartographique doit s’adapter à la fenêtre (limiter entre environ 470 px et environ 780 px) afin que toute la console, frise comprise, soit visible à un zoom de 100 %.
-
-## Scène 3D
-- Sol sombre, contours des zones en lignes fines, empreintes des bâtiments de Manhattan en arrière-plan discret, selon le contexte réel.
-- Caméra : perspective, orbite + zoom, avec un bouton de recentrage. Conserver la caméra de l’utilisateur lors du changement de vue, sauf pour « Déployer sur 24 h », qui recadre toujours l’ensemble de la matrice.
-- Au survol d’une zone : infobulle avec son nom et le nombre de prises en charge. Cliquer sur une zone : la sélectionner (met à jour l’inspecteur et les flux).
-
-Vues (chaque changement est animé, sans transition brusque) :
-- 01 Connexions : trajets agrégés de zone à zone représentés par des arcs lumineux parcourus de particules ; densité des particules ∝ nombre de trajets ; étiqueter le flux mis en avant (« DE / Midtown Center → VERS / Upper East Side North, 71 trajets / 18:00 »). Légende : « Trajets enregistrés de zone à zone · mouvement schématique. Pas de données GPS. »
-- 02 Volume urbain : chaque zone est extrudée ; hauteur = nombre de prises en charge selon l’échelle mensuelle fixe ; la zone sélectionnée est mise en évidence.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098063352832610473) · [Publication originale](https://x.com/tableau_viz/status/2098063352832610473) · [Retour aux exemples](#all-prompts)
 
 ---
 
@@ -3820,6 +3685,88 @@ Pas de texte STL. Pas de G-code. OpenSCAD uniquement. Si la première idée risq
 
 ---
 
+<a id="2104605522640970208"></a>
+
+### Représentation 3D interactive et pédagogique de CRISPR
+
+[Alejandro](https://x.com/AlejandroRomaan) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2104605522640970208"><img src="../assets/previews/e9d956c6cfd11ddef0d83a4351ec53a5a04d44b4e42e72554986def5202e8d4a.jpg" width="840" loading="lazy" alt="Représentation 3D interactive et pédagogique de CRISPR"></a>
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2104605522640970208"><img src="../assets/previews/549d486909b60fc933dfc5bff87aa14eb814f1a09c3bbbaf98bbe2601b322068.jpg" width="840" loading="lazy" alt="Représentation 3D interactive et pédagogique de CRISPR"></a>
+
+Une représentation 3D interactive, claire et pédagogique de la technologie CRISPR appliquée à l’ADN. Elle doit montrer un brin d’ADN ainsi que l’ensemble du processus d’édition génétique, identifier chaque composant et permettre aux utilisateurs de sélectionner les éléments pertinents pour en apprendre davantage.
+
+**Prompt**
+
+```text
+Je veux que vous créiez une représentation 3D interactive et pédagogique montrant le fonctionnement de la technologie CRISPR appliquée à l’ADN. Vous pouvez choisir la technologie de votre choix, à condition que le résultat soit clair et lisible, qu’il comporte un brin d’ADN et qu’il montre l’ensemble du processus d’édition génétique ainsi que le rôle de chaque élément. Je dois pouvoir sélectionner n’importe quel composant pertinent et obtenir des informations à son sujet.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2104605522640970208) · [Publication originale](https://x.com/AlejandroRomaan/status/2104605522640970208) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2104613125093998674"></a>
+
+### Balade interactive en barque dans une jungle éclairée par la lune
+
+[Fazley](https://x.com/itsfazley) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2104613125093998674"><img src="../assets/previews/56d9ffba8a2359b42f24dc04f30b499e0cf7978bfdf55eae0aa43f35e533979c.jpg" width="840" loading="lazy" alt="Balade interactive en barque dans une jungle éclairée par la lune"></a>
+
+Une balade en barque Three.js responsive en plein écran, au fil d’une étroite voie d’eau dans la jungle. Les joueurs pilotent une barque en bois vide à l’aide du clavier ou de commandes tactiles, avec une eau animée, des effets de sillage, des reflets de clair de lune, une ambiance sonore et des options pour la nuit éclairée par la lune, l’aube et la pluie.
+
+**Prompt**
+
+```text
+Créez une balade en barque Three.js responsive en plein écran, située sur une étroite voie d’eau dans la jungle. Utilisez une caméra à la troisième personne qui suit une barque en bois vide, avec une proue pointue, des flancs larges, un tableau arrière plat, un plancher et des bancs visibles, sans rames, un intérieur sec et une coque légèrement immergée. Permettez aux utilisateurs de diriger la barque avec les touches WASD ou les flèches, ainsi qu’avec des commandes tactiles. Donnez à la scène une atmosphère nocturne et mystique : des arbres denses, variés et réalistes, aux feuillages vert foncé, sur les deux rives, un vent léger, une pleine lune détaillée et des reflets de clair de lune fragmentés à la surface de l’eau animée. Créez des vagues convaincantes en mouvement, des reflets déformés de la barque et des arbres, ainsi qu’un sillage qui suit le trajet parcouru par la barque et s’estompe naturellement, sans marques lumineuses fixes ni bordures circulaires nettes. Ajoutez un sélecteur météo pour choisir entre nuit au clair de lune, aube chaleureuse et pluie couverte ; en mode pluie, affichez des gouttes qui tombent et de petites ondulations d’impact éphémères, déformées par les vagues. Ajoutez, en option et avec subtilité, des ambiances sonores d’eau, de jungle et de pluie. Gardez une interface minimale. Vérifiez les visuels, les commandes, l’audio, le compteur et les trois modes météo sur ordinateur et mobile.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2104613125093998674) · [Publication originale](https://x.com/itsfazley/status/2104613128017522813) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2104654448878387313"></a>
+
+### Voiture de sport transformable avec vue éclatée aux rayons X
+
+[Marcel](https://x.com/marcthecreatorr) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2104654448878387313"><img src="../assets/previews/487b700ccd9ea1cc1b22eefe925d0ca7231c3c4ba70772a05a71cd21dcce91ea.jpg" width="840" loading="lazy" alt="Voiture de sport transformable avec vue éclatée aux rayons X"></a>
+
+Prompt one-shot fourni par Marcel pour comparer GPT-6 Astra et Sonnet 5.5. Il demande une voiture de sport interactive et détaillée, capable de se transformer en robot humanoïde, avec des modes rayons X et vue éclatée.
+
+**Prompt**
+
+```text
+Créez une voiture de sport détaillée qui se transforme en robot humanoïde, avec un mode rayons X et une vue éclatée interactive.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2104654448878387313) · [Publication originale](https://x.com/marcthecreatorr/status/2104654448878387313) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2104841727496323479"></a>
+
+### Œil humain en 3D très détaillé
+
+[Simonas](https://x.com/SimonasLTU1) · 2026-09-29
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2104841727496323479"><img src="../assets/previews/8502c6ae82a02cae03c639bd0f95cd45392652b2fec20853d84a15e91abebafa.jpg" width="840" loading="lazy" alt="Œil humain en 3D très détaillé"></a>
+
+Créez un fichier HTML/CSS/JS local avec Three.js contenant un modèle 3D d’œil humain très détaillé, modélisé de zéro avec l’apparence réaliste d’une macrophotographie.
+
+**Prompt**
+
+```text
+Créez un fichier HTML/CSS/JS local avec Three.js. Réalisez un modèle 3D très détaillé d’un œil humain, avec l’apparence d’une macrophotographie d’un véritable œil. Tout doit être créé de zéro.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2104841727496323479) · [Publication originale](https://x.com/SimonasLTU1/status/2104841727496323479) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D : Défense de chars sans fin
@@ -4208,7 +4155,7 @@ Livrez le code source, le lockfile, les commandes npm de développement/build et
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 298 exemples sur le site officiel →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 302 exemples sur le site officiel →</a></strong></p>
 <p><sub>Pour préserver la fluidité du rendu du README sur GitHub, seuls les 100 exemples les plus récents sont affichés ici.</sub></p>
 <br>
 </td></tr>

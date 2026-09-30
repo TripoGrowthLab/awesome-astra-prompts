@@ -29,7 +29,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**298 examples · 14 languages · 12 examples with source code**
+**302 examples · 14 languages · 12 examples with source code**
 
 ## Featured projects
 
@@ -55,10 +55,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Chernobyl Atlas](#2098841316591346006) · GitHub
 - [Interactive 3D Anatomy Explorer](#2099206962344800541) · GitHub
 - [Isometric fantasy graphics demo](#2100271998618177864) · GitHub
-- [Make an 18-hole golf course more demanding](#2098038909514944562)
-- [Interactive squid shoal](#2098043033446912315)
-- [GTA-inspired cartoon car chase workflow](#2098049032195293190)
-- [City Pulse](#2098063352832610473)
 - [Floating magical academy animation](#2098071577309122854)
 - [White-model shuttle flight through a city canyon](#2098079379297608050)
 - [Swordsman gate-destruction fantasy animation](#2098094339759149067)
@@ -145,6 +141,10 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Interactive 3D Melon Jelly Slice](#2104504957173153951)
 - [Genshin-Style Game and Terrain Editor](#2104531704740512143)
 - [3D-printable J-hook for a strength test](#2104590493191479337)
+- [Interactive educational 3D CRISPR representation](#2104605522640970208)
+- [Interactive moonlit jungle boat ride](#2104613125093998674)
+- [Transforming sports car with x-ray exploded view](#2104654448878387313)
+- [Highly detailed 3D human eye](#2104841727496323479)
 - [Battle City 3D: Endless Tank Defense](#battle-city-3d)
 - [Crazy Tanks — 3D Island Artillery](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Weird Weapons Survival Game](#odd-arms)
@@ -275,141 +275,6 @@ Build me a graphics demo: isometric camera, voxel-ish art style with realistic s
 ```
 
 [View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100271998618177864) · [Original post](https://github.com/achimala/dream-loop) · [Source code](https://github.com/achimala/dream-loop) · [Back to examples](#all-prompts)
-
----
-
-<a id="2098038909514944562"></a>
-
-### Make an 18-hole golf course more demanding
-
-[Rory Flynn](https://x.com/Ror_Fly) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098038909514944562"><img src="../assets/previews/f5a4d2f44955ee094959c3e503ec284bf99779bbdc16141a66d1305f8df3d895.jpg" width="840" loading="lazy" alt="Make an 18-hole golf course more demanding"></a>
-
-An author-stated overnight goal to revise an 18-hole golf-course browser model with more demanding holes, broken-up fairways, bolder bunkers and hazards, and more meaningful shot choices.
-
-**Prompt**
-
-```text
-Make every hole more demanding
->Break up the straight fairways
->Add bolder bunkers + hazards
->Build more meaningful shot choices
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098038909514944562) · [Original post](https://x.com/Ror_Fly/status/2098038909514944562) · [Back to examples](#all-prompts)
-
----
-
-<a id="2098043033446912315"></a>
-
-### Interactive squid shoal
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098043033446912315"><img src="../assets/previews/3aad19d589e3d6a507904da717f40a29ca1c2142a2c5c3651b4fe16285114e02.jpg" width="840" loading="lazy" alt="Interactive squid shoal"></a>
-
-An interactive WebGL squid shoal whose bodies are calculated from mathematical points, with real-time motion, controls, color changes, inertia, and a panic reaction when the water is touched.
-
-**Prompt**
-
-```text
-create an interactive squid shoal
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098043033446912315) · [Original post](https://x.com/vib3coded/status/2098043033446912315) · [Back to examples](#all-prompts)
-
----
-
-<a id="2098049032195293190"></a>
-
-### GTA-inspired cartoon car chase workflow
-
-[PixVerse](https://x.com/PixVerse) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098049032195293190"><img src="../assets/previews/939609b429641e344a40ab78f01e7bf6dbfd57e8e707db7765c81ae04057ac31.jpg" width="840" loading="lazy" alt="GTA-inspired cartoon car chase workflow"></a>
-
-A reusable workflow prompt for creating and animating a 12-second GTA-inspired cartoon car chase in Blender, then processing the shots with PixVerse Seedance 2.5.
-
-**Prompt**
-
-```text
-Create an original GTA-inspired cartoon car chase using this workflow:
-Design: Define one main driver, one getaway car, one pursuing car, and one urban environment. Keep their designs consistent. Plan three 4-second shots: rear tracking pursuit, side tracking through a sharp turn, and a wide exit shot.
-Build in Blender: Create clean gray models and functional character and vehicle rigs. No textures or UV unwrapping are required.
-Animate and test: Animate the driver, steering, wheel rotation, vehicles, and cameras. Maintain coherent travel direction and vehicle order. Fix clipping, floating wheels, sliding tires, broken poses, and hands losing contact with the steering wheel.
-Render in Blender: Render frames 1–288 at 1280×720, 24 fps. Assemble actual Blender-rendered frames into a complete 12-second gray-model master. Export each shot separately and render matching gray stills as shape and composition references.
-Finish with [@PixVerse](plugin://pixverse@openai-curated-remote) Plugin: Use Seedance 2.5 at 720p, processing each shot separately. Use the Blender clips as motion references and the gray stills as shape references. Define a consistent cartoon color palette in the generation prompt. Preserve camera movement, action timing, character and vehicle designs, and vehicle count.
-Review and deliver: Inspect both complete videos for visual defects and continuity. Repair Blender issues and regenerate only failed Seedance shots, with at most two retries per shot. Deliver the editable .blend, the native 720p Blender gray-model video, the separately labeled 720p Seedance version, and a brief assessment of remaining limitations.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098049032195293190) · [Original post](https://x.com/PixVerse/status/2098049032195293190) · [Back to examples](#all-prompts)
-
----
-
-<a id="2098063352832610473"></a>
-
-### City Pulse
-
-[Seoyeon Jun 📊](https://x.com/tableau_viz) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098063352832610473"><img src="../assets/previews/5d96794ffdfbbd2d258ceafada52e1fbe1baa78da9bd613cb7f66f3d16e369ba.jpg" width="840" loading="lazy" alt="City Pulse"></a>
-
-An interactive 3D mobility atlas of New York City Yellow Taxi activity in January 2025, with a 3D map, replayable hourly movement, zone inspection, and comparisons with weekday or weekend averages.
-
-**Prompt**
-
-```text
-# Build "City Pulse": an interactive 3D mobility atlas of New York City taxi activity (January 2025)
-
-## Goal
-A single-page, English-language web visualization that shows how New York moves across one month:
-31 days, 24 hours, 263 taxi zones. The reader should be able to watch the city's daily rhythm,
-compare any day against a typical weekday or weekend, and inspect any zone in detail.
-It is a descriptive analysis tool, not a real-time or GPS product. Every visual must state what one mark represents.
-
-## Data
-Sources (public):
-- NYC TLC Trip Record Data, Yellow Taxi, January 2025 (parquet)
-- NYC TLC Taxi Zones (263 zones, shapes + borough lookup)
-- NYC Open Data building footprints (Manhattan only, as visual context)
-
-Preprocessing (Python + DuckDB or pandas), output small static JSON files:
-- Filter invalid trips: pickup outside Jan 2025, non-positive or > 3h duration, unknown zones (264/265).
-- Per day, per zone, per hour: pickup count, median trip duration.
-- Per day, per hour: top origin → destination zone pairs (aggregated flows, top N per hour).
-- Reference averages per zone-hour: weekday average (23 days) and weekend average (8 days), per-day means, holidays kept in the weekday group.
-- Month-level fixed scale: max zone-hour pickups, used for every day so heights stay comparable.
-- Zone metadata: id, name, borough, centroid, label anchor. Simplify zone geometry.
-Files: month.json (daily totals, scale, top zones), weekday.json, weekend.json, days/2025-01-DD.json, zones geojson.
-Load the current day lazily; keep the first paint fast.
-
-## Stack
-- One self-contained HTML file (or small Vite app) with Three.js 0.160 (ES modules via importmap), OrbitControls, EffectComposer + bloom.
-- D3 only for scales/formatting and small SVG charts.
-- No framework required. No external API calls at runtime; everything reads the static JSON.
-
-## Layout (desktop 1920×1080 must fit in one screen without scrolling)
-1. Header: "CITY PULSE / MOBILITY ATLAS", "Recorded replay" status, "Data & methods" link.
-2. Status row: "A city, in motion." + three KPIs: citywide pickups (selected hour), vs. comparison average, median trip time.
-3. Month strip: 31 day buttons as mini bars (bar height = daily pickups, weekends marked), prev/next day, date select, "Compare with" select (Weekday average · 23 days / Weekend average · 8 days).
-4. Story bar: "Every movement leaves a pattern." with 4 chapters (01 Watch, 02 Unfold, 03 Compare, 04 Share) and "Start the story".
-5. View tabs: 01 Connections, 02 Volume city, 03 Unfold 24h, 04 Ghost city, plus "Share finding" and "Create briefing".
-6. Workspace: 3D map stage (left) + Location Insight inspector (right, ~330px, scrolls internally).
-7. Timeline: Play day, speed (0.25×–4×), hour scrubber over a 24-hour bar chart of the selected day vs. average.
-Map stage height must adapt to the viewport (clamp between ~470px and ~780px) so the whole console, including the timeline, is visible at 100% zoom.
-
-## 3D scene
-- Dark ground, zone outlines as thin lines, Manhattan building footprints as faint real-world context.
-- Camera: perspective, orbit + zoom, a recenter button. Keep the user's camera when switching views, except "Unfold 24h", which always reframes to show the whole matrix.
-- Hover a zone: tooltip with name and pickups. Click a zone: select it (updates inspector and flows).
-
-Views (each switch animates, no hard pops):
-- 01 Connections: aggregated zone-to-zone trips as glowing arcs with moving light particles; particle density ∝ trips; label the featured flow ("FROM / Midtown Center → TO / Upper East Side North, 71 trips / 18:00"). Caption: "Recorded zone-to-zone trips · schematic motion. Not GPS."
-- 02 Volume city: each zone extruded; height = pickups on the fixed monthly scale; selected zone highlighted.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098063352832610473) · [Original post](https://x.com/tableau_viz/status/2098063352832610473) · [Back to examples](#all-prompts)
 
 ---
 
@@ -3861,6 +3726,88 @@ No STL text. No G-code. OpenSCAD only. If the first idea would slip off, replace
 
 ---
 
+<a id="2104605522640970208"></a>
+
+### Interactive educational 3D CRISPR representation
+
+[Alejandro](https://x.com/AlejandroRomaan) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2104605522640970208"><img src="../assets/previews/e9d956c6cfd11ddef0d83a4351ec53a5a04d44b4e42e72554986def5202e8d4a.jpg" width="840" loading="lazy" alt="Interactive educational 3D CRISPR representation"></a>
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2104605522640970208"><img src="../assets/previews/549d486909b60fc933dfc5bff87aa14eb814f1a09c3bbbaf98bbe2601b322068.jpg" width="840" loading="lazy" alt="Interactive educational 3D CRISPR representation"></a>
+
+An interactive, readable 3D educational representation of CRISPR DNA technology. It should show a DNA strand and the full gene-editing process, identify each component, and let users select relevant parts to learn about them.
+
+**Prompt**
+
+```text
+I want you to create an interactive educational 3d represenation how CRISPR DNA technology works. You can choose what ever technology you want as long as its clear readable and has a dna strand, you can see a full work of gene editing and what each piece is, I should be able to select any relevant part of it and learn something
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2104605522640970208) · [Original post](https://x.com/AlejandroRomaan/status/2104605522640970208) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2104613125093998674"></a>
+
+### Interactive moonlit jungle boat ride
+
+[Fazley](https://x.com/itsfazley) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2104613125093998674"><img src="../assets/previews/56d9ffba8a2359b42f24dc04f30b499e0cf7978bfdf55eae0aa43f35e533979c.jpg" width="840" loading="lazy" alt="Interactive moonlit jungle boat ride"></a>
+
+A fullscreen responsive Three.js boat ride through a narrow jungle waterway. Players steer an empty wooden rowboat using keyboard or touch controls, with animated water, wake effects, moonlight reflections, ambient audio, and toggles for moonlit night, dawn, and rain.
+
+**Prompt**
+
+```text
+Build a fullscreen, responsive Three.js boat ride set in a narrow jungle waterway. Use a third-person camera following an empty wooden rowboat with a pointed bow, broad sides, flat stern, visible floorboards and seats, no oars, a dry interior, and a hull slightly submerged in the water. Let users steer with WASD or arrow keys and touch controls. Make the scene nocturnal and mystical: dense, varied, realistic dark-green trees on both banks, subtle wind, a detailed full moon, and broken moonlight reflected across animated water. Use convincing moving waves, distorted reflections of the boat and trees, and a wake that follows the boat’s traveled path and fades naturally no fixed glowing marks or hard circular borders. Add a weather toggle for moonlit night, warm dawn, and overcast rain; in rain mode, show falling drops and small, short-lived impact ripples shaped by the water’s waves. Add optional, subtle water, jungle, and rain ambience. Keep the interface minimal. Verify the visuals, controls, audio, counter, and all three weather modes on desktop and mobile.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2104613125093998674) · [Original post](https://x.com/itsfazley/status/2104613128017522813) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2104654448878387313"></a>
+
+### Transforming sports car with x-ray exploded view
+
+[Marcel](https://x.com/marcthecreatorr) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2104654448878387313"><img src="../assets/previews/487b700ccd9ea1cc1b22eefe925d0ca7231c3c4ba70772a05a71cd21dcce91ea.jpg" width="840" loading="lazy" alt="Transforming sports car with x-ray exploded view"></a>
+
+One-shot prompt supplied by Marcel for a comparison between GPT-6 Astra and Sonnet 5.5. It requests an interactive detailed sports car that transforms into a humanoid robot and includes x-ray and exploded-view modes.
+
+**Prompt**
+
+```text
+Build a detailed sports car that transforms into a humanoid robot, with an x-ray mode and interactive exploded view
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2104654448878387313) · [Original post](https://x.com/marcthecreatorr/status/2104654448878387313) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2104841727496323479"></a>
+
+### Highly detailed 3D human eye
+
+[Simonas](https://x.com/SimonasLTU1) · 2026-09-29
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2104841727496323479"><img src="../assets/previews/8502c6ae82a02cae03c639bd0f95cd45392652b2fec20853d84a15e91abebafa.jpg" width="840" loading="lazy" alt="Highly detailed 3D human eye"></a>
+
+Create a local Three.js HTML/CSS/JS file containing a highly detailed 3D human eye modeled from scratch with a realistic macro-photograph appearance.
+
+**Prompt**
+
+```text
+Create a local HTML/CSS/JS file using Three.js. Make a highly detailed 3D model of a human eye that looks like a macro photograph of a real eye. Everything must be created from scratch.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2104841727496323479) · [Original post](https://x.com/SimonasLTU1/status/2104841727496323479) · [Back to examples](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Endless Tank Defense
@@ -4249,7 +4196,7 @@ Deliver source, lockfile, npm development/build commands and static output. Veri
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 298 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 302 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>

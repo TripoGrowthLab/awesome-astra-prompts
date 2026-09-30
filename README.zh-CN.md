@@ -29,7 +29,7 @@
 
 探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。
 
-**298 条案例 · 14 种语言 · 12 条附项目源码**
+**302 条案例 · 14 种语言 · 12 条附项目源码**
 
 ## 精选作品
 
@@ -55,10 +55,6 @@
 - [切尔诺贝利图谱](#2098841316591346006) · GitHub
 - [交互式 3D 解剖探索器](#2099206962344800541) · GitHub
 - [等距视角奇幻图形演示](#2100271998618177864) · GitHub
-- [让 18 洞高尔夫球场更具挑战性](#2098038909514944562)
-- [交互式鱿鱼群](#2098043033446912315)
-- [GTA 风格卡通汽车追逐工作流](#2098049032195293190)
-- [城市脉动](#2098063352832610473)
 - [浮空魔法学院动画](#2098071577309122854)
 - [白模穿梭机飞越城市峡谷](#2098079379297608050)
 - [剑士摧毁城门的奇幻动画](#2098094339759149067)
@@ -145,6 +141,10 @@
 - [可交互 3D 果冻西瓜切片](#2104504957173153951)
 - [原神风格游戏与地形编辑工具](#2104531704740512143)
 - [用于强度测试的可 3D 打印 J 形挂钩](#2104590493191479337)
+- [交互式 CRISPR 三维科普展示](#2104605522640970208)
+- [月光下的丛林互动泛舟](#2104613125093998674)
+- [可变形跑车 X 光爆炸视图](#2104654448878387313)
+- [高细节 3D 人眼模型](#2104841727496323479)
 - [Battle City 3D：无尽坦克防御](#battle-city-3d)
 - [疯狂坦克——3D 岛屿炮战](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS——奇趣武器生存游戏](#odd-arms)
@@ -275,141 +275,6 @@
 ```
 
 [查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2100271998618177864) · [查看原帖](https://github.com/achimala/dream-loop) · [项目源码](https://github.com/achimala/dream-loop) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2098038909514944562"></a>
-
-### 让 18 洞高尔夫球场更具挑战性
-
-[Rory Flynn](https://x.com/Ror_Fly) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098038909514944562"><img src="assets/previews/f5a4d2f44955ee094959c3e503ec284bf99779bbdc16141a66d1305f8df3d895.jpg" width="840" loading="lazy" alt="让 18 洞高尔夫球场更具挑战性"></a>
-
-作者提出的连夜修改目标：重新调整浏览器端的 18 洞高尔夫球场模型，打造更具挑战性的球洞、更加错落的球道、更大胆的沙坑与障碍区，以及更有策略意义的击球选择。
-
-**提示词**
-
-```text
-让每个球洞更具挑战性
->打破笔直的球道布局
->加入更大胆的沙坑和障碍区
->设计更有策略意义的击球选择
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098038909514944562) · [查看原帖](https://x.com/Ror_Fly/status/2098038909514944562) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2098043033446912315"></a>
-
-### 交互式鱿鱼群
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098043033446912315"><img src="assets/previews/3aad19d589e3d6a507904da717f40a29ca1c2142a2c5c3651b4fe16285114e02.jpg" width="840" loading="lazy" alt="交互式鱿鱼群"></a>
-
-一个交互式 WebGL 鱿鱼群，其身体形态基于数学点计算生成，支持实时运动、交互控制、颜色变化和惯性效果，并会在水面受到触碰时产生惊慌反应。
-
-**提示词**
-
-```text
-创建一个交互式鱿鱼群
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098043033446912315) · [查看原帖](https://x.com/vib3coded/status/2098043033446912315) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2098049032195293190"></a>
-
-### GTA 风格卡通汽车追逐工作流
-
-[PixVerse](https://x.com/PixVerse) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098049032195293190"><img src="assets/previews/939609b429641e344a40ab78f01e7bf6dbfd57e8e707db7765c81ae04057ac31.jpg" width="840" loading="lazy" alt="GTA 风格卡通汽车追逐工作流"></a>
-
-一套可复用的工作流提示词：在 Blender 中制作并动画化一段 12 秒的 GTA 风格卡通汽车追逐，然后使用 PixVerse Seedance 2.5 处理各个镜头。
-
-**提示词**
-
-```text
-使用这套工作流创建原创的 GTA 风格卡通汽车追逐：
-设计：确定一名主驾驶员、一辆逃逸车、一辆追逐车和一套城市环境，并保持它们的设计一致。规划三个 4 秒镜头：后方跟拍追逐、急转弯时的侧面跟拍，以及驶离场景的远景镜头。
-在 Blender 中制作：创建干净的灰模，并完成可用的角色和车辆骨骼绑定。不需要制作纹理或展开 UV。
-动画与测试：为驾驶员、转向动作、车轮旋转、车辆和摄像机制作动画。保持行进方向和车辆前后顺序一致。修复穿插、车轮悬空、轮胎打滑、姿势异常，以及双手脱离方向盘等问题。
-在 Blender 中渲染：以 1280×720、24 fps 渲染第 1—288 帧。将实际由 Blender 渲染的帧组装成完整的 12 秒灰模母版。分别导出每个镜头，并渲染对应的灰模静帧，作为造型和构图参考。
-使用 [@PixVerse](plugin://pixverse@openai-curated-remote) 插件完成后期：使用 Seedance 2.5，以 720p 分别处理每个镜头。将 Blender 片段用作运动参考，将灰模静帧用作造型参考。在生成提示词中定义统一的卡通配色方案。保留摄像机运动、动作节奏、角色和车辆设计，以及车辆数量。
-检查与交付：检查两套完整视频中的画面缺陷和连续性。修复 Blender 问题；对于 Seedance 中失败的镜头，仅重新生成这些镜头，每个镜头最多重试两次。交付可编辑的 .blend 文件、Blender 原生 720p 灰模视频、单独标注的 720p Seedance 版本，以及一份简要的剩余限制评估。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098049032195293190) · [查看原帖](https://x.com/PixVerse/status/2098049032195293190) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2098063352832610473"></a>
-
-### 城市脉动
-
-[Seoyeon Jun 📊](https://x.com/tableau_viz) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098063352832610473"><img src="assets/previews/5d96794ffdfbbd2d258ceafada52e1fbe1baa78da9bd613cb7f66f3d16e369ba.jpg" width="840" loading="lazy" alt="城市脉动"></a>
-
-一份交互式 3D 出行图谱，展示 2025 年 1 月纽约市黄色出租车的活动情况，包含 3D 地图、可回放的逐小时移动、分区查看，以及与工作日或周末平均值的对比。
-
-**提示词**
-
-```text
-# 构建“城市脉动”：纽约市出租车活动（2025 年 1 月）交互式 3D 出行图谱
-
-## 目标
-制作一个单页英文网页可视化，展示纽约在一个月中的运行状态：
-31 天、24 小时、263 个出租车分区。用户应能够观看城市的日常节奏，
-将任意一天与典型工作日或周末进行对比，并详细查看任意分区。
-这是一个描述性分析工具，不是实时或 GPS 产品。每个可视元素都必须说明一个标记代表什么。
-
-## 数据
-公开数据源：
-- NYC TLC 行程记录数据，Yellow Taxi，2025 年 1 月（Parquet）
-- NYC TLC 出租车分区（263 个分区，包含形状数据和行政区查询表）
-- NYC Open Data 建筑轮廓（仅限曼哈顿，用作视觉背景）
-
-预处理（Python + DuckDB 或 pandas），输出小型静态 JSON 文件：
-- 过滤无效行程：上车时间不在 2025 年 1 月内、行程时长不为正或超过 3 小时、未知分区（264/265）。
-- 按天、按分区、按小时统计：上车次数、行程时长中位数。
-- 按天、按小时统计：起点 → 终点分区对的主要流向（聚合后的流量，每小时取前 N 项）。
-- 按分区和小时计算参考平均值：工作日平均值（23 天）和周末平均值（8 天），按天求均值，节假日保留在工作日组中。
-- 全月固定比例尺：取分区-小时上车次数的最大值，所有日期都使用该比例尺，以便比较柱体高度。
-- 分区元数据：id、名称、行政区、质心、标签锚点。简化分区几何形状。
-文件：month.json（每日总量、比例尺、主要分区）、weekday.json、weekend.json、days/2025-01-DD.json、分区 GeoJSON。
-延迟加载当天数据；确保首次渲染保持快速。
-
-## 技术栈
-- 使用一个自包含 HTML 文件（或小型 Vite 应用），搭配 Three.js 0.160（通过 importmap 使用 ES 模块）、OrbitControls、EffectComposer + bloom。
-- D3 仅用于比例尺、格式化和小型 SVG 图表。
-- 不要求使用框架。运行时不调用外部 API；所有内容均读取静态 JSON。
-
-## 布局（桌面端 1920×1080 必须在一屏内完整显示，无需滚动）
-1. 页头：“CITY PULSE / MOBILITY ATLAS”、“Recorded replay”状态、“Data & methods”链接。
-2. 状态栏：“一座正在流动的城市。” + 三项 KPI：全市上车次数（所选小时）、相对比较平均值、行程时长中位数。
-3. 月度条：31 个日期按钮，以迷你柱形显示（柱高 = 每日上车次数，并标记周末）、前一天/后一天、日期选择器、“Compare with”选择器（工作日平均值 · 23 天 / 周末平均值 · 8 天）。
-4. 故事栏：“每一次移动都会留下规律。”包含 4 个章节（01 观看、02 展开、03 对比、04 分享）和“开始探索”。
-5. 视图标签：01 连接、02 城市流量、03 展开 24 小时、04 幽灵城市，以及“分享发现”和“创建简报”。
-6. 工作区：3D 地图舞台（左侧）+ 位置洞察检查器（右侧，约 330px，内部滚动）。
-7. 时间轴：播放当天、速度（0.25×–4×）、小时拖动条，叠加在所选日期与平均值的 24 小时柱状图上。
-地图舞台高度必须根据视口自适应（约在 470px 至 780px 之间限制），确保在 100% 缩放下包括时间轴在内的整个控制台都能显示。
-
-## 3D 场景
-- 深色地面，使用细线绘制分区轮廓，叠加淡化的曼哈顿建筑轮廓作为真实世界背景。
-- 摄像机：透视视角，支持环绕和缩放，并提供重新居中按钮。切换视图时保留用户的摄像机状态，但“展开 24 小时”除外，该视图始终重新调整取景以展示完整矩阵。
-- 悬停在分区上：显示包含名称和上车次数的工具提示。点击分区：选中该分区（更新检查器和流向）。
-
-视图（每次切换都要有动画，避免突然跳变）：
-- 01 连接：使用带发光弧线和移动光粒子显示聚合后的分区间行程；粒子密度 ∝ 行程数；为重点流向添加标签（“起点 / Midtown Center → 终点 / Upper East Side North，71 次行程 / 18:00”）。说明文字：“已记录的分区间行程 · 示意性运动。并非 GPS。”
-- 02 城市流量：将每个分区挤出为立体柱；高度 = 按全月固定比例尺计算的上车次数；高亮所选分区。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098063352832610473) · [查看原帖](https://x.com/tableau_viz/status/2098063352832610473) · [返回案例导航](#all-prompts)
 
 ---
 
@@ -3836,6 +3701,88 @@ Prioritize the quality of the jelly response and lighting. The result should be 
 
 ---
 
+<a id="2104605522640970208"></a>
+
+### 交互式 CRISPR 三维科普展示
+
+[Alejandro](https://x.com/AlejandroRomaan) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104605522640970208"><img src="assets/previews/e9d956c6cfd11ddef0d83a4351ec53a5a04d44b4e42e72554986def5202e8d4a.jpg" width="840" loading="lazy" alt="交互式 CRISPR 三维科普展示"></a>
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104605522640970208"><img src="assets/previews/549d486909b60fc933dfc5bff87aa14eb814f1a09c3bbbaf98bbe2601b322068.jpg" width="840" loading="lazy" alt="交互式 CRISPR 三维科普展示"></a>
+
+一个交互式、易读的 CRISPR DNA 技术三维科普展示。展示内容应包括 DNA 链和完整的基因编辑过程，标注每个组成部分，并允许用户选择相关部件来了解其作用。
+
+**提示词**
+
+```text
+创建一个交互式的三维科普展示，说明 CRISPR DNA 技术的工作原理。技术方案不限，但展示必须清晰易懂，并包含一条 DNA 链，呈现完整的基因编辑过程及各个组成部分的作用。用户应能够选择其中任何相关部件并了解相关信息。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104605522640970208) · [查看原帖](https://x.com/AlejandroRomaan/status/2104605522640970208) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2104613125093998674"></a>
+
+### 月光下的丛林互动泛舟
+
+[Fazley](https://x.com/itsfazley) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104613125093998674"><img src="assets/previews/56d9ffba8a2359b42f24dc04f30b499e0cf7978bfdf55eae0aa43f35e533979c.jpg" width="840" loading="lazy" alt="月光下的丛林互动泛舟"></a>
+
+这是一场全屏、自适应的 Three.js 泛舟体验，穿行于狭窄的丛林水道。玩家可使用键盘或触控操作驾驶一艘空置的木制划艇，体验动态水面、船尾水痕、月光倒影和环境音效，并在月夜、黎明与雨天之间切换。
+
+**提示词**
+
+```text
+构建一个全屏、自适应的 Three.js 泛舟体验，场景设定在狭窄的丛林水道中。使用跟随空置木制划艇的第三人称摄像机；划艇应具有尖头船艏、宽船身、平船尾、可见的地板和座椅，不带船桨，内部干燥，船体略微浸没在水中。支持用户使用 WASD 或方向键，以及触控操作进行驾驶。将场景营造为神秘的夜间氛围：两岸分布着密集、多样且逼真的深绿色树木，加入微风效果、细节丰富的满月，以及映照在动态水面上的碎片化月光。制作可信的动态波浪、船只与树木的扭曲倒影，以及沿船只行进路径生成并自然淡出的尾流；不要使用固定的发光标记或生硬的圆形边界。添加天气切换，可选择月夜、温暖的黎明和阴雨天；在雨天模式中显示下落的雨滴，以及受水面波浪影响、形状自然且持续时间较短的落雨涟漪。可选加入轻微的水声、丛林环境声和雨声。保持界面简洁。在桌面端和移动端分别检查画面效果、操作控制、音频、计数器以及全部三种天气模式。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104613125093998674) · [查看原帖](https://x.com/itsfazley/status/2104613128017522813) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2104654448878387313"></a>
+
+### 可变形跑车 X 光爆炸视图
+
+[Marcel](https://x.com/marcthecreatorr) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104654448878387313"><img src="assets/previews/487b700ccd9ea1cc1b22eefe925d0ca7231c3c4ba70772a05a71cd21dcce91ea.jpg" width="840" loading="lazy" alt="可变形跑车 X 光爆炸视图"></a>
+
+Marcel 提供的一次性提示词，用于对比 GPT-6 Astra 和 Sonnet 5.5。该提示词要求创建一辆细节丰富、可交互的跑车，使其变形为人形机器人，并包含 X 光和爆炸视图模式。
+
+**提示词**
+
+```text
+创建一辆细节丰富的跑车，使其变形为人形机器人，并支持 X 光模式和可交互的爆炸视图
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104654448878387313) · [查看原帖](https://x.com/marcthecreatorr/status/2104654448878387313) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2104841727496323479"></a>
+
+### 高细节 3D 人眼模型
+
+[Simonas](https://x.com/SimonasLTU1) · 2026-09-29
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104841727496323479"><img src="assets/previews/8502c6ae82a02cae03c639bd0f95cd45392652b2fec20853d84a15e91abebafa.jpg" width="840" loading="lazy" alt="高细节 3D 人眼模型"></a>
+
+创建一个本地 Three.js HTML/CSS/JS 文件，从零开始制作高细节 3D 人眼模型，呈现逼真的微距摄影效果。
+
+**提示词**
+
+```text
+使用 Three.js 创建一个本地 HTML/CSS/JS 文件。制作一个高细节的人眼 3D 模型，使其看起来像真实人眼的微距照片。所有内容都必须从零开始创建。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104841727496323479) · [查看原帖](https://x.com/SimonasLTU1/status/2104841727496323479) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D：无尽坦克防御
@@ -4224,7 +4171,7 @@ Prioritize the quality of the jelly response and lighting. The result should be 
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 298 条案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 302 条案例 →</a></strong></p>
 <p><sub>为保持 GitHub README 渲染流畅，这里仅展示最新 100 条案例。</sub></p>
 <br>
 </td></tr>

@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**298 · Prompt Astra mới nhất**
+**302 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -54,10 +54,6 @@
 - [Atlas Chernobyl](#2098841316591346006) · GitHub
 - [Trình khám phá giải phẫu 3D tương tác](#2099206962344800541) · GitHub
 - [Demo đồ họa fantasy isometric](#2100271998618177864) · GitHub
-- [Tăng độ thử thách cho sân golf 18 hố](#2098038909514944562)
-- [Đàn mực tương tác](#2098043033446912315)
-- [Quy trình dựng cảnh rượt đuổi ô tô hoạt hình lấy cảm hứng từ GTA](#2098049032195293190)
-- [Nhịp đập thành phố](#2098063352832610473)
 - [Hoạt ảnh học viện phép thuật bay lơ lửng](#2098071577309122854)
 - [Tàu con thoi mô hình trắng bay qua hẻm núi đô thị](#2098079379297608050)
 - [Hoạt hình giả tưởng kiếm sĩ phá hủy cổng thành](#2098094339759149067)
@@ -144,6 +140,10 @@
 - [Lát dưa hấu thạch 3D tương tác](#2104504957173153951)
 - [Game phong cách Genshin và công cụ chỉnh sửa địa hình](#2104531704740512143)
 - [Móc chữ J có thể in 3D để thử độ bền](#2104590493191479337)
+- [Mô hình 3D tương tác về CRISPR dành cho giáo dục](#2104605522640970208)
+- [Chuyến du ngoạn bằng thuyền trong rừng rậm dưới ánh trăng tương tác](#2104613125093998674)
+- [Xe thể thao biến hình với chế độ X-quang bung tách](#2104654448878387313)
+- [Mắt người 3D độ chi tiết cao](#2104841727496323479)
 - [Battle City 3D: Phòng thủ xe tăng vô tận](#battle-city-3d)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Game sinh tồn với vũ khí kỳ quặc](#odd-arms)
@@ -274,141 +274,6 @@ Hãy tạo một demo đồ họa: camera isometric, phong cách nghệ thuật 
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100271998618177864) · [Bài đăng gốc](https://github.com/achimala/dream-loop) · [Mã nguồn](https://github.com/achimala/dream-loop) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2098038909514944562"></a>
-
-### Tăng độ thử thách cho sân golf 18 hố
-
-[Rory Flynn](https://x.com/Ror_Fly) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098038909514944562"><img src="../assets/previews/f5a4d2f44955ee094959c3e503ec284bf99779bbdc16141a66d1305f8df3d895.jpg" width="840" loading="lazy" alt="Tăng độ thử thách cho sân golf 18 hố"></a>
-
-Mục tiêu được tác giả đặt ra trong một đêm: chỉnh sửa mô hình sân golf 18 hố trên trình duyệt với các hố golf thử thách hơn, fairway bị chia cắt, hố cát và chướng ngại vật táo bạo hơn, cùng nhiều lựa chọn đánh bóng có ý nghĩa hơn.
-
-**Prompt**
-
-```text
-Tăng độ thử thách cho mọi hố
->Chia cắt các fairway thẳng
->Thêm hố cát và chướng ngại vật táo bạo hơn
->Tạo thêm nhiều lựa chọn đánh bóng có ý nghĩa
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098038909514944562) · [Bài đăng gốc](https://x.com/Ror_Fly/status/2098038909514944562) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2098043033446912315"></a>
-
-### Đàn mực tương tác
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098043033446912315"><img src="../assets/previews/3aad19d589e3d6a507904da717f40a29ca1c2142a2c5c3651b4fe16285114e02.jpg" width="840" loading="lazy" alt="Đàn mực tương tác"></a>
-
-Một đàn mực WebGL tương tác với thân mực được tính toán từ các điểm toán học, chuyển động theo thời gian thực, điều khiển tương tác, thay đổi màu sắc, quán tính và phản ứng hoảng loạn khi chạm vào mặt nước.
-
-**Prompt**
-
-```text
-tạo một đàn mực tương tác
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098043033446912315) · [Bài đăng gốc](https://x.com/vib3coded/status/2098043033446912315) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2098049032195293190"></a>
-
-### Quy trình dựng cảnh rượt đuổi ô tô hoạt hình lấy cảm hứng từ GTA
-
-[PixVerse](https://x.com/PixVerse) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098049032195293190"><img src="../assets/previews/939609b429641e344a40ab78f01e7bf6dbfd57e8e707db7765c81ae04057ac31.jpg" width="840" loading="lazy" alt="Quy trình dựng cảnh rượt đuổi ô tô hoạt hình lấy cảm hứng từ GTA"></a>
-
-Prompt quy trình có thể tái sử dụng để tạo và diễn hoạt cảnh rượt đuổi ô tô hoạt hình dài 12 giây lấy cảm hứng từ GTA trong Blender, sau đó xử lý các cảnh quay bằng PixVerse Seedance 2.5.
-
-**Prompt**
-
-```text
-Tạo một cảnh rượt đuổi ô tô hoạt hình nguyên bản lấy cảm hứng từ GTA bằng quy trình này:
-Thiết kế: Xác định một tài xế chính, một ô tô chạy trốn, một ô tô truy đuổi và một môi trường đô thị. Giữ thiết kế của các đối tượng nhất quán. Lên kế hoạch cho ba cảnh quay dài 4 giây: cảnh truy đuổi bám theo từ phía sau, cảnh bám theo từ bên hông khi qua một khúc cua gấp và cảnh toàn rộng khi thoát khỏi khu vực.
-Dựng trong Blender: Tạo mô hình màu xám gọn gàng cùng rig nhân vật và phương tiện có thể hoạt động. Không cần tạo kết cấu bề mặt hoặc mở UV.
-Diễn hoạt và kiểm tra: Diễn hoạt tài xế, thao tác đánh lái, chuyển động quay của bánh xe, các phương tiện và camera. Duy trì hướng di chuyển cũng như thứ tự các phương tiện nhất quán. Sửa các lỗi xuyên mesh, bánh xe bị lơ lửng, lốp trượt, tư thế bị hỏng và tình trạng tay mất tiếp xúc với vô lăng.
-Render trong Blender: Render các khung hình 1–288 ở độ phân giải 1280×720, 24 fps. Ghép các khung hình thực sự được render từ Blender thành video master mô hình màu xám hoàn chỉnh dài 12 giây. Xuất riêng từng cảnh quay và render các khung hình tĩnh màu xám tương ứng để làm tham chiếu hình dạng và bố cục.
-Hoàn thiện bằng plugin [@PixVerse](plugin://pixverse@openai-curated-remote): Sử dụng Seedance 2.5 ở 720p, xử lý riêng từng cảnh quay. Dùng các đoạn clip từ Blender làm tham chiếu chuyển động và các khung hình tĩnh màu xám làm tham chiếu hình dạng. Xác định một bảng màu hoạt hình nhất quán trong prompt tạo ảnh. Giữ nguyên chuyển động camera, nhịp điệu hành động, thiết kế nhân vật và phương tiện, cũng như số lượng phương tiện.
-Kiểm tra và bàn giao: Kiểm tra cả hai video hoàn chỉnh để phát hiện lỗi hình ảnh và vấn đề liên tục. Sửa các lỗi trong Blender và chỉ tạo lại những cảnh Seedance bị lỗi, tối đa hai lần thử lại cho mỗi cảnh. Bàn giao tệp .blend có thể chỉnh sửa, video mô hình màu xám 720p gốc từ Blender, phiên bản Seedance 720p có nhãn riêng cho từng cảnh và bản đánh giá ngắn về những hạn chế còn lại.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098049032195293190) · [Bài đăng gốc](https://x.com/PixVerse/status/2098049032195293190) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2098063352832610473"></a>
-
-### Nhịp đập thành phố
-
-[Seoyeon Jun 📊](https://x.com/tableau_viz) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098063352832610473"><img src="../assets/previews/5d96794ffdfbbd2d258ceafada52e1fbe1baa78da9bd613cb7f66f3d16e369ba.jpg" width="840" loading="lazy" alt="Nhịp đập thành phố"></a>
-
-Bản đồ dữ liệu 3D tương tác về hoạt động của taxi vàng tại Thành phố New York trong tháng 1 năm 2025, gồm bản đồ 3D, tính năng phát lại chuyển động theo giờ, kiểm tra từng khu vực và so sánh với mức trung bình của ngày thường hoặc cuối tuần.
-
-**Prompt**
-
-```text
-# Xây dựng "Nhịp đập thành phố": bản đồ dữ liệu 3D tương tác về hoạt động taxi tại Thành phố New York (tháng 1 năm 2025)
-
-## Mục tiêu
-Một hình thức trực quan hóa web một trang bằng tiếng Anh, cho thấy nhịp chuyển động của New York trong một tháng:
-31 ngày, 24 giờ, 263 khu vực taxi. Người xem có thể theo dõi nhịp sinh hoạt hằng ngày của thành phố,
-so sánh bất kỳ ngày nào với một ngày thường hoặc cuối tuần điển hình, đồng thời xem chi tiết từng khu vực.
-Đây là công cụ phân tích mô tả, không phải sản phẩm thời gian thực hay GPS. Mọi hình ảnh trực quan phải nêu rõ một dấu hiệu đại diện cho điều gì.
-
-## Dữ liệu
-Nguồn (công khai):
-- Dữ liệu chuyến đi NYC TLC, Taxi vàng, tháng 1 năm 2025 (parquet)
-- Khu vực taxi NYC TLC (263 khu vực, hình dạng + tra cứu quận)
-- Dấu chân tòa nhà từ NYC Open Data (chỉ Manhattan, dùng làm bối cảnh trực quan)
-
-Tiền xử lý (Python + DuckDB hoặc pandas), xuất ra các tệp JSON tĩnh có dung lượng nhỏ:
-- Lọc các chuyến đi không hợp lệ: đón khách ngoài tháng 1 năm 2025, thời lượng không dương hoặc dài hơn 3 giờ, khu vực không xác định (264/265).
-- Theo từng ngày, khu vực và giờ: số lượt đón khách, thời lượng chuyến đi trung vị.
-- Theo từng ngày và giờ: các cặp khu vực điểm đi → điểm đến hàng đầu (luồng đã tổng hợp, lấy N cặp hàng đầu mỗi giờ).
-- Mức trung bình tham chiếu theo khu vực-giờ: trung bình ngày thường (23 ngày) và cuối tuần (8 ngày), tính trung bình theo ngày; các ngày lễ vẫn được xếp vào nhóm ngày thường.
-- Thang đo cố định cho cả tháng: số lượt đón khách cao nhất theo khu vực-giờ, dùng cho mọi ngày để chiều cao luôn có thể so sánh.
-- Siêu dữ liệu khu vực: id, tên, quận, tâm khu vực, điểm neo nhãn. Đơn giản hóa hình học khu vực.
-Tệp: month.json (tổng theo ngày, thang đo, các khu vực hàng đầu), weekday.json, weekend.json, days/2025-01-DD.json, geojson khu vực.
-Tải dữ liệu của ngày hiện tại theo kiểu trì hoãn; ưu tiên hiển thị lần đầu nhanh.
-
-## Công nghệ
-- Một tệp HTML độc lập (hoặc ứng dụng Vite nhỏ) với Three.js 0.160 (ES modules qua importmap), OrbitControls, EffectComposer + bloom.
-- Chỉ dùng D3 cho thang đo, định dạng và các biểu đồ SVG nhỏ.
-- Không bắt buộc dùng framework. Không gọi API bên ngoài khi chạy; mọi dữ liệu đều đọc từ JSON tĩnh.
-
-## Bố cục (màn hình desktop 1920×1080 phải hiển thị vừa một màn hình, không cần cuộn)
-1. Tiêu đề: "CITY PULSE / MOBILITY ATLAS", trạng thái "Phát lại dữ liệu", liên kết "Dữ liệu & phương pháp".
-2. Hàng trạng thái: "Một thành phố đang chuyển động." + ba KPI: số lượt đón khách toàn thành phố (giờ được chọn), so với mức trung bình đối chiếu, thời lượng chuyến đi trung vị.
-3. Dải tháng: 31 nút ngày dạng thanh mini (chiều cao thanh = số lượt đón khách trong ngày, đánh dấu cuối tuần), nút ngày trước/ngày sau, chọn ngày, lựa chọn "So sánh với" (Trung bình ngày thường · 23 ngày / Trung bình cuối tuần · 8 ngày).
-4. Thanh câu chuyện: "Mọi chuyển động đều để lại một mô thức." với 4 chương (01 Theo dõi, 02 Mở ra, 03 So sánh, 04 Chia sẻ) và nút "Bắt đầu câu chuyện".
-5. Tab chế độ xem: 01 Kết nối, 02 Khối lượng thành phố, 03 Mở 24 giờ, 04 Thành phố bóng ma, cùng với "Chia sẻ phát hiện" và "Tạo bản tóm tắt".
-6. Khu vực làm việc: sân khấu bản đồ 3D (bên trái) + bảng kiểm tra Thông tin địa điểm (bên phải, khoảng 330px, cuộn nội bộ).
-7. Dòng thời gian: Phát ngày, tốc độ (0.25×–4×), thanh tua theo giờ đặt trên biểu đồ thanh 24 giờ của ngày được chọn so với mức trung bình.
-Chiều cao sân khấu bản đồ phải thích ứng với khung nhìn (giới hạn trong khoảng ~470px đến ~780px) để toàn bộ bảng điều khiển, bao gồm dòng thời gian, hiển thị được ở mức thu phóng 100%.
-
-## Cảnh 3D
-- Mặt nền tối, đường viền khu vực là các đường mảnh, dấu chân tòa nhà Manhattan là bối cảnh thực tế mờ.
-- Camera: phối cảnh, xoay quanh + thu phóng, có nút căn giữa lại. Giữ nguyên camera của người dùng khi chuyển chế độ xem, ngoại trừ "Mở 24 giờ", chế độ này luôn căn lại khung để hiển thị toàn bộ ma trận.
-- Rê chuột lên một khu vực: hiển thị tooltip với tên và số lượt đón khách. Nhấp vào một khu vực: chọn khu vực đó (cập nhật bảng kiểm tra và các luồng).
-
-Các chế độ xem (mỗi lần chuyển đều có hoạt ảnh, không chuyển cảnh đột ngột):
-- 01 Kết nối: các chuyến đi giữa các khu vực đã tổng hợp được hiển thị dưới dạng cung phát sáng với các hạt sáng chuyển động; mật độ hạt ∝ số chuyến đi; gắn nhãn cho luồng nổi bật ("TỪ / Midtown Center → ĐẾN / Upper East Side North, 71 chuyến / 18:00"). Chú thích: "Chuyến đi giữa các khu vực đã ghi nhận · chuyển động sơ đồ. Không phải GPS."
-- 02 Khối lượng thành phố: đùn từng khu vực; chiều cao = số lượt đón khách theo thang đo cố định của tháng; khu vực được chọn được làm nổi bật.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098063352832610473) · [Bài đăng gốc](https://x.com/tableau_viz/status/2098063352832610473) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3919,6 +3784,88 @@ Không cung cấp mã STL. Không cung cấp G-code. Chỉ dùng OpenSCAD. Nếu
 
 ---
 
+<a id="2104605522640970208"></a>
+
+### Mô hình 3D tương tác về CRISPR dành cho giáo dục
+
+[Alejandro](https://x.com/AlejandroRomaan) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104605522640970208"><img src="../assets/previews/e9d956c6cfd11ddef0d83a4351ec53a5a04d44b4e42e72554986def5202e8d4a.jpg" width="840" loading="lazy" alt="Mô hình 3D tương tác về CRISPR dành cho giáo dục"></a>
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104605522640970208"><img src="../assets/previews/549d486909b60fc933dfc5bff87aa14eb814f1a09c3bbbaf98bbe2601b322068.jpg" width="840" loading="lazy" alt="Mô hình 3D tương tác về CRISPR dành cho giáo dục"></a>
+
+Mô hình 3D tương tác, dễ hiểu về công nghệ DNA CRISPR dành cho giáo dục. Mô hình cần hiển thị một mạch DNA và toàn bộ quy trình chỉnh sửa gen, xác định từng thành phần, đồng thời cho phép người dùng chọn các bộ phận liên quan để tìm hiểu.
+
+**Prompt**
+
+```text
+Tạo một mô hình 3D tương tác dành cho giáo dục, minh họa cách công nghệ DNA CRISPR hoạt động. Bạn có thể chọn bất kỳ công nghệ nào, miễn là mô hình rõ ràng, dễ theo dõi và có một mạch DNA; người dùng có thể xem toàn bộ quy trình chỉnh sửa gen, hiểu từng thành phần là gì, chọn bất kỳ bộ phận liên quan nào và tìm hiểu về bộ phận đó.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104605522640970208) · [Bài đăng gốc](https://x.com/AlejandroRomaan/status/2104605522640970208) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2104613125093998674"></a>
+
+### Chuyến du ngoạn bằng thuyền trong rừng rậm dưới ánh trăng tương tác
+
+[Fazley](https://x.com/itsfazley) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104613125093998674"><img src="../assets/previews/56d9ffba8a2359b42f24dc04f30b499e0cf7978bfdf55eae0aa43f35e533979c.jpg" width="840" loading="lazy" alt="Chuyến du ngoạn bằng thuyền trong rừng rậm dưới ánh trăng tương tác"></a>
+
+Trải nghiệm chèo thuyền Three.js toàn màn hình, thích ứng trên một tuyến đường thủy hẹp xuyên qua rừng rậm. Người chơi điều khiển một chiếc thuyền chèo gỗ trống bằng bàn phím hoặc thao tác chạm, với mặt nước chuyển động, hiệu ứng vệt sóng, ánh trăng phản chiếu, âm thanh môi trường và các tùy chọn chuyển đổi giữa đêm trăng, bình minh và mưa.
+
+**Prompt**
+
+```text
+Xây dựng trải nghiệm chèo thuyền Three.js toàn màn hình, thích ứng trên một tuyến đường thủy hẹp xuyên qua rừng rậm. Sử dụng camera góc nhìn người thứ ba bám theo một chiếc thuyền chèo gỗ trống có mũi nhọn, mạn thuyền rộng, đuôi thuyền phẳng, sàn và ghế có thể nhìn thấy, không có mái chèo, khoang bên trong khô ráo, thân thuyền hơi chìm trong nước. Cho phép người dùng điều khiển bằng phím WASD hoặc phím mũi tên, cũng như thao tác chạm. Tạo khung cảnh về đêm huyền bí: cây cối màu xanh đậm dày đặc, đa dạng và chân thực ở cả hai bờ, gió nhẹ, trăng tròn chi tiết và ánh trăng đứt quãng phản chiếu trên mặt nước chuyển động. Tạo sóng chuyển động thuyết phục, hình ảnh phản chiếu méo nhẹ của thuyền và cây cối, cùng vệt sóng bám theo đường đi của thuyền rồi tan dần tự nhiên, không dùng các vệt phát sáng cố định hay đường viền hình tròn cứng. Thêm tùy chọn thời tiết giữa đêm trăng, bình minh ấm áp và mưa âm u; ở chế độ mưa, hiển thị các hạt mưa rơi và những gợn sóng va chạm nhỏ, tồn tại trong thời gian ngắn, có hình dạng bị chi phối bởi sóng nước. Thêm âm thanh môi trường tùy chọn, tinh tế, gồm tiếng nước, rừng rậm và mưa. Giữ giao diện tối giản. Kiểm tra hình ảnh, thao tác điều khiển, âm thanh, bộ đếm và cả ba chế độ thời tiết trên máy tính lẫn thiết bị di động.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104613125093998674) · [Bài đăng gốc](https://x.com/itsfazley/status/2104613128017522813) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2104654448878387313"></a>
+
+### Xe thể thao biến hình với chế độ X-quang bung tách
+
+[Marcel](https://x.com/marcthecreatorr) · 2026-09-28
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104654448878387313"><img src="../assets/previews/487b700ccd9ea1cc1b22eefe925d0ca7231c3c4ba70772a05a71cd21dcce91ea.jpg" width="840" loading="lazy" alt="Xe thể thao biến hình với chế độ X-quang bung tách"></a>
+
+Prompt one-shot do Marcel cung cấp để so sánh GPT-6 Astra và Sonnet 5.5. Prompt yêu cầu một mẫu xe thể thao chi tiết, có tính tương tác, biến hình thành robot hình người và bao gồm chế độ X-quang cùng chế độ bung tách.
+
+**Prompt**
+
+```text
+Tạo một mẫu xe thể thao chi tiết có thể biến hình thành robot hình người, với chế độ X-quang và chế độ bung tách tương tác
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104654448878387313) · [Bài đăng gốc](https://x.com/marcthecreatorr/status/2104654448878387313) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2104841727496323479"></a>
+
+### Mắt người 3D độ chi tiết cao
+
+[Simonas](https://x.com/SimonasLTU1) · 2026-09-29
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104841727496323479"><img src="../assets/previews/8502c6ae82a02cae03c639bd0f95cd45392652b2fec20853d84a15e91abebafa.jpg" width="840" loading="lazy" alt="Mắt người 3D độ chi tiết cao"></a>
+
+Tạo một tệp HTML/CSS/JS Three.js chạy cục bộ, chứa mô hình mắt người 3D độ chi tiết cao được dựng hoàn toàn từ đầu với diện mạo chân thực như ảnh chụp macro.
+
+**Prompt**
+
+```text
+Tạo một tệp HTML/CSS/JS chạy cục bộ bằng Three.js. Dựng mô hình mắt người 3D độ chi tiết cao, có vẻ ngoài chân thực như ảnh macro chụp mắt thật. Mọi thành phần phải được tạo hoàn toàn từ đầu.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104841727496323479) · [Bài đăng gốc](https://x.com/SimonasLTU1/status/2104841727496323479) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Phòng thủ xe tăng vô tận
@@ -4307,7 +4254,7 @@ Bàn giao mã nguồn, lockfile, lệnh npm phát triển/build và đầu ra t�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 298 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 302 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>
