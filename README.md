@@ -29,7 +29,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**302 examples · 14 languages · 12 examples with source code**
+**308 examples · 14 languages · 12 examples with source code**
 
 ## Featured projects
 
@@ -51,15 +51,9 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 <details>
 <summary>Browse examples</summary>
 
-- [Interactive 3D atlas of the human head and brain](#2098105648106078541) · GitHub
 - [Chernobyl Atlas](#2098841316591346006) · GitHub
 - [Interactive 3D Anatomy Explorer](#2099206962344800541) · GitHub
 - [Isometric fantasy graphics demo](#2100271998618177864) · GitHub
-- [Floating magical academy animation](#2098071577309122854)
-- [White-model shuttle flight through a city canyon](#2098079379297608050)
-- [Swordsman gate-destruction fantasy animation](#2098094339759149067)
-- [Interactive 3D robotic hand piano demonstration](#2098109252720078891)
-- [Sol Horizon starter civilian courier ship](#2098225609558335846)
 - [Automated Hair and Face Texture Generation and UV Transfer for Character Models](#2098367087475577273)
 - [Temple Miniature Diorama Scene](#2098403061463224543)
 - [Girl Playing with a Robot Figurine](#2098406473273663992)
@@ -145,6 +139,12 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Interactive moonlit jungle boat ride](#2104613125093998674)
 - [Transforming sports car with x-ray exploded view](#2104654448878387313)
 - [Highly detailed 3D human eye](#2104841727496323479)
+- [Time, Undone.](#2105009377002299711)
+- [Realistic F-22 Raptor model and Godot flight video](#2105027152617918852)
+- [Cinematic photorealistic rocket launch scene](#2105047166733746209)
+- [Blender render of the Golden Gate Bridge](#2105278999861526953)
+- [Create a 3D Minion Character in Blender](#2105298955307303100)
+- [Recreate a scene in Isaac Sim](#2105323534398763307)
 - [Battle City 3D: Endless Tank Defense](#battle-city-3d)
 - [Crazy Tanks — 3D Island Artillery](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Weird Weapons Survival Game](#odd-arms)
@@ -153,53 +153,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [The Cyclops' Island](#cyclops-island-threejs-game)
 
 </details>
-
-<a id="2098105648106078541"></a>
-
-### Interactive 3D atlas of the human head and brain
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098105648106078541"><img src="assets/previews/1251cdb60d51985d09d2870c9866d104d26bf152875bc50a1c46eb047a11be63.jpg" width="840" loading="lazy" alt="Interactive 3D atlas of the human head and brain"></a>
-
-A reusable recreation prompt recommended by the author for building an interactive anatomical head-and-brain atlas. It requests licensed anatomical meshes, layered exploration, inspection tools, clipping planes, exploded views, and an offline standalone HTML application.
-
-**Prompt**
-
-```text
-Build a complete interactive 3D atlas of the human head and brain. Deliver a working application, not a mockup. Make reasonable decisions independently, implement it, test it, and visually verify the result.
-
-Use Three.js and real, appropriately licensed Z-Anatomy / BodyParts3D meshes. Include the skull, teeth, facial muscles, brain, eyes, cranial nerves, arteries, veins, and available supporting membranes. Preserve their original anatomical relationships. Aim for hundreds of individually selectable structures, report the actual imported count, and retain source attribution.
-
-Create a clean, light interface with a pale grey background, white rounded panels, restrained blue-grey accents, and readable typography. Keep the model large, with a structure panel on the left, camera tools on the right, search at the top, and an explosion slider below. Use English throughout.
-
-Make the anatomy progressively explorable:
-Head → system → region → individual named structures.
-For example: Brain → Cerebrum → Left hemisphere → Frontal lobe → individual structures.
-
-Animate assembly and disassembly. Preserve source positions when assembled; arrange exploded groups in clearly separated layouts with readable labels. Indicate normalized scale and paginate large collections.
-
-Include:
-- Free rotation, wheel/pinch zoom, and camera presets.
-- Disassembly slider and Shift + wheel control.
-- Independent visibility switches for groups and individual parts.
-- Group opacity, undo, restore all, and reset.
-- Anatomical search, click-to-inspect, focus, isolation, and parent navigation.
-- Anatomical colours, porcelain, wireframe, and transparent modes.
-- Adjustable sagittal, axial, and coronal clipping planes with reverse direction.
-- Labels, automatic exploration, fullscreen, and PNG export.
-- A guided journey from the complete head into the brain and its networks.
-
-Keep hidden structures hidden across layout and material changes. Explain that clipping planes produce open display cuts, not medical scans. Do not invent anatomy or claim clinical validation.
-
-Deliver a standalone HTML containing the application and processed geometry, working offline without a server. Also provide clean source files, pinned dependencies, a lockfile, portable build scripts, an English README, and required licences and attribution. Exclude credentials, local machine paths, dependencies, and unrelated files.
-
-Test geometry integrity, hierarchy membership, visibility, undo, and layout spacing. Inspect the running application in a browser, exercise the controls, check for console errors, and fix visual overlaps before delivering.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098105648106078541) · [Original post](https://x.com/k1rallik/status/2098105648106078541) · [Source code](https://github.com/bubblik525/head) · [Back to examples](#all-prompts)
-
----
 
 <a id="2098841316591346006"></a>
 
@@ -275,134 +228,6 @@ Build me a graphics demo: isometric camera, voxel-ish art style with realistic s
 ```
 
 [View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100271998618177864) · [Original post](https://github.com/achimala/dream-loop) · [Source code](https://github.com/achimala/dream-loop) · [Back to examples](#all-prompts)
-
----
-
-<a id="2098071577309122854"></a>
-
-### Floating magical academy animation
-
-[PixVerse](https://x.com/PixVerse) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098071577309122854"><img src="assets/previews/9b408ceb1b603f7a12e8bc7b5d7626551da9f3e0b153f574d2f694a1edc9cba4.jpg" width="840" loading="lazy" alt="Floating magical academy animation"></a>
-
-Create a 12-second Blender white-model animation of a monumental entrance, keyhole fly-through, astronomical instrument, and floating academy, then use PixVerse to render it as a cinematic fantasy sequence. The requested deliverables include both MP4s and an editable Blender project.
-
-**Prompt**
-
-```text
-Create a 12-second, single-take white-model animation in Blender, then use @PixVerse to transform the exported animation into a spectacular live-action fantasy film sequence.
-
-In Blender, build a monumental entrance, a rotating astronomical instrument, and a vast floating magical academy. Use simple white or light-gray geometry with readable silhouettes and basic lighting. Show the complete entrance door at the beginning, with solid walls surrounding it and fully concealing the world behind it. Give the door a realistically proportioned small keyhole. Beyond the entrance, arrange a large central castle, towers, smaller floating islands, and connecting bridges. Establish an impressive architectural scale and generous distances between structures.
-
-Begin with a slow approach toward the door, then accelerate sharply and fly continuously through the keyhole. Animate a floating key turning and moving aside before the camera passes. Continue through rapidly rotating astronomical rings, reveal the floating academy, and transition into a smooth orbit around the architecture. Let nearby islands rise quickly and bridge sections rotate into place. Keep object movements energetic and decisive. The orbit should flow continuously, with smooth changes in speed and no repeated pauses. Check the keyhole passage, camera clearance, spatial continuity, and motion at normal playback.
-
-Export the clean 12-second white-model MP4. Then use @PixVerse to generate a 12-second AI-rendered video, using the Blender animation as a loose structural and motion reference. Preserve the recognizable progression from door approach to keyhole passage, astronomical instrument, academy reveal, and orbit, while freely enriching the world and cinematic staging.
-
-Turn the academy into an immense, ancient floating city: a central castle surrounded by districts, libraries, observatories, courtyards, layered rooftops, enormous stone bridges, and waterfalls plunging into clouds. Extend the surroundings into forested valleys, lakes, distant mountains, and additional floating islands. Add tiny pedestrians, flying vessels, moving flags, birds, and atmospheric activity to communicate scale. During the later orbit, let an enormous dragon emerge from clouds behind the academy and glide past the towers, casting a moving shadow over the city.
-
-Aim for the richness of a live-action fantasy feature film, with weathered materials, soft golden sunlight breaking through cool clouds, natural atmospheric depth, and gentle photographic highlights. Include original orchestral music and synchronized environmental and action sounds.
-
-Deliver the white-model MP4, the PixVerse AI-rendered MP4, and the editable Blender project.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098071577309122854) · [Original post](https://x.com/PixVerse/status/2098071577309122854) · [Back to examples](#all-prompts)
-
----
-
-<a id="2098079379297608050"></a>
-
-### White-model shuttle flight through a city canyon
-
-[PixVerseCreators](https://x.com/PixVerseCreator) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098079379297608050"><img src="assets/previews/cd71fb962eb01f16094187f0998f65959e3a74f648b0c98dfd8aab0c9253ddb4.jpg" width="840" loading="lazy" alt="White-model shuttle flight through a city canyon"></a>
-
-A 10-second single-take Blender animation of an original shuttle flying at extreme speed through a dense city canyon, rendered with PixVerse from Blender references.
-
-**Prompt**
-
-```text
-Create a 10-second, single-take white-model shuttle flight in Blender. Build an original shuttle and a dense city canyon stretching several kilometers. Animate extremely fast forward flight along an extended route, covering over two kilometers without slowing down. Weave through narrow gaps and under bridges, change altitude, and perform two smooth barrel rolls in opposite directions. Make the speed unmistakable: nearby buildings streak backward, bridges whip overhead, and foreground structures rapidly sweep past the frame edges. Use strong directional motion blur on the environment while keeping the shuttle readable. Dense obstacles, close passes, and strong foreground-to-background parallax should convey sustained, full-throttle flight. Use a smooth wide-angle chase camera close behind and slightly above the shuttle, racing forward at matching speed. Keep the nose pointing into the city and the engines facing the camera. No cuts, camera shake, camera barrel rolls, slow motion, or deceleration at the ending. Test clearance, motion continuity, and the sense of speed at normal playback. Use PixVerse to render the final white-model animation from Blender references, preserving the extreme speed, flight path, and camera movement. Deliver the final MP4, editable Blender project, and brief notes on limitations.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098079379297608050) · [Original post](https://x.com/PixVerseCreator/status/2098079379297608050) · [Back to examples](#all-prompts)
-
----
-
-<a id="2098094339759149067"></a>
-
-### Swordsman gate-destruction fantasy animation
-
-[PixVerse](https://x.com/PixVerse) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098094339759149067"><img src="assets/previews/ca8a46498d2bcd9c4215ea347c01a1b03d81d9b98d7c5a53514c4d118628bc29.jpg" width="840" loading="lazy" alt="Swordsman gate-destruction fantasy animation"></a>
-
-Creates a 12-second Blender white-model action animation of a swordsman destroying a monumental gate, then transforms it into a painterly fantasy-film sequence with a mountain fortress, collapsing structures, aerial camera reveal, music, and synchronized sound.
-
-**Prompt**
-
-```text
-Create a 12-second white-model action animation in Blender, then use @PixVerse to transform the exported animation into a spectacular mature animated fantasy film sequence.
-
-In Blender, build a simple articulated swordsman, a sword and scabbard, a vast elevated stone platform, and one enormous gate with surrounding pillars. Use clean white or light-gray geometry and basic lighting. Prioritize readable action, convincing proportions, and a strong contrast between the small character and monumental architecture. Represent the sword-energy wave with a simple animated curved shape, and divide the gate into pieces that can visibly separate and fall.
-
-Start the camera close to the swordsman as he draws his weapon and briefly gathers force. Around the second second, animate one extremely fast, decisive slash driven by the feet, hips, torso, and arms. Release a visible crescent-shaped sword-energy wave that travels across the space and strikes the gate. Let the upper gate section slide along the cut, lose support, and collapse with clear acceleration and ground contact. After the strike, have the swordsman recover naturally, sheath the sword, straighten up, and relax his arms.
-
-As the attack unfolds, pull the camera backward and upward in a continuous, smooth movement. Keep ascending dramatically until the ending becomes an extremely high, nearly vertical aerial view of the entire platform and surrounding terrain. The character may become too small to distinguish. Maintain fast action and a powerful sense of expanding scale rather than lingering on the attack pose. Check body motion, weapon continuity, the energy wave’s travel, gate collapse, and camera movement at normal playback.
-
-Export the clean 12-second white-model MP4. Then use @PixVerse to generate a 12-second AI-rendered video, using the Blender animation as a loose reference for composition, action progression, and the rising camera. Preserve the essential sequence of preparation, slash, traveling energy wave, gate destruction, sheathing, and extreme aerial reveal, while allowing substantial cinematic expansion.
-
-Create a mature painterly animated-film aesthetic, combining expressive shapes, hand-painted surfaces, convincing three-dimensional volume, and soft cinematic lighting. Give the adult swordsman a distinctive silhouette, a wine-red coat, restrained armor, and composed determination. Expand the setting into an immense mountain fortress with layered walls, towers, bridges, deep ravines, and a sprawling city beyond.
-
-Make the crescent-shaped sword-energy wave a major visual event. It should cut through the gate and continue into distant fortifications, producing a readable chain of collapsing structures, sweeping dust, sparks, fire, and pressure waves. As the camera reaches extreme altitude, reveal the full path of the attack across the battlefield, with the swordsman standing quietly at its origin. Use cool atmospheric shadows contrasted with warm amber energy and scattered firelight. Include original cinematic music and synchronized sword, impact, collapse, wind, and distant city sounds.
-
-Deliver the white-model MP4, the PixVerse AI-rendered MP4, and the editable Blender project.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098094339759149067) · [Original post](https://x.com/PixVerse/status/2098094339759149067) · [Back to examples](#all-prompts)
-
----
-
-<a id="2098109252720078891"></a>
-
-### Interactive 3D robotic hand piano demonstration
-
-[MSB](https://x.com/KeWai386772) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098109252720078891"><img src="assets/previews/0da92a87e2cfefd4088b226ccf8d5e8dbd5b9938d4a76f0104f7fbdffd12c3fa.jpg" width="840" loading="lazy" alt="Interactive 3D robotic hand piano demonstration"></a>
-
-A browser-based interactive 3D demonstration of a five-finger robotic hand playing a 25-key miniature piano, with causally connected finger contact, key movement, MIDI-driven planning, audio, camera views, and performance diagnostics.
-
-**Prompt**
-
-```text
-Build a complete browser-based demonstration of a detailed five-finger robotic hand playing a miniature piano. The visible finger motion, physical key travel, generated notes, and musical timing must be causally connected. Deliver a visually polished, interactive application within the evaluator's time budget.  1. EXPERIENCE: Use a full-screen 3D scene with a precisely modeled robotic hand, articulated fingers, visible wrist mechanisms, and a 25-key keyboard spanning MIDI notes 60 through 84. Show realistic black-key and white-key geometry, independent key movement, fingertip pads, and refined materials. Include overhead, performer-side, and fingertip close-up cameras. Provide synchronized audio after the user activates playback.  2. COMMON MUSICAL INPUT: Use MIDI note numbers as the source of truth. At 96 BPM, play these events, expressed as (start beat, note, duration in beats): (0,60,0.4), (0.5,64,0.4), (1,67,0.4), (1.5,64,0.4), (2,62,0.4), (2.5,65,0.4), (3,69,0.4), (3.5,65,0.4), (4,60,0.4), (4.5,60,0.4), (5,60,1), (5,64,1), (5,67,1). The last three events form a simultaneous chord. Also support standard MIDI file import using an established parser.  3. HAND CONTROL: Model independently articulated fingers and a movable wrist. Plan reachable finger assignments, approach motions, presses, holds, releases, repeated-note articulation, and chord execution. Fingers must contact the correct keys without intersecting neighboring keys or making implausible jumps. Use inverse kinematics and joint limits. Display planned finger assignments and allow manual inspection of individual motions.  4. SOUND CAUSALITY: Generate note-on events only when the corresponding visible key crosses a documented depression threshold because of finger contact. Generate note-off on release, with hysteresis to prevent chatter. MIDI events are planning targets, not an independent audio playback track. A geometric contact-driven key mechanism is acceptable if explicitly identified; full contact dynamics may be used instead. Keys must not move merely because a MIDI event is scheduled.  5. TIMING: Use a consistent musical clock and timestamp actual key-trigger events against target events. Account for audio scheduling and render timing. Expose tempo, transpose, play, pause, restart, loop, and slow-motion inspection. Pausing or restarting must release active notes appropriately. Slowing playback must preserve synchronization between fingers, keys, and audio.  6. DIAGNOSTICS: Display target notes, planned fingers, actual triggered notes, and onset timing errors on an aligned timeline. Report missed notes, extra notes, wrong pitches, repeated-note failures, and stuck notes. Provide a contact inspection overlay showing which fingertip is depressing each key. Record the evidence needed to distinguish successful planning from approximate hand animation.  7. VERIFICATION: Evaluate melody, repeated notes, and the final chord separately. Aim for no wrong or missing notes, a 95th-percentile onset error below 50 ms, and final-chord onset spread below 50 ms. Report actual measurements even when targets are missed. Provide a test that disables finger actuation: the score may continue advancing, but unpressed keys must not generate notes.  8. DELIVERY: Use Three.js, TypeScript, appropriate audio APIs, and established parsing or numerical libraries. Deliver the running application, source code, reproducible musical fixture, assets or generation scripts, and startup instructions. Verify browser audio, controls, camera views, desktop and mobile layout, and repeated playback. All displayed performance claims must come from measured behavior.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098109252720078891) · [Original post](https://x.com/KeWai386772/status/2098109252720078891) · [Back to examples](#all-prompts)
-
----
-
-<a id="2098225609558335846"></a>
-
-### Sol Horizon starter civilian courier ship
-
-[Jonathan Plumb — Spokane Valley](https://x.com/jonathanplumb) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098225609558335846"><img src="assets/previews/8a672e63cd9fdbd2d4c5e721b2dc7576c34d9c37a023cb0edfe6a4d8a3bc6ce4.jpg" width="840" loading="lazy" alt="Sol Horizon starter civilian courier ship"></a>
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098225609558335846"><img src="assets/previews/57ae2f43a4ca798cfccd80c405c934bbdd10df6cb9738c29fd6ca1366dce9d2a.jpg" width="840" loading="lazy" alt="Sol Horizon starter civilian courier ship"></a>
-
-Create a game-ready Blender model of Sol Horizon’s starter civilian courier ship, with a repairable modular hard-surface design, named objects, collision geometry, Unity-forward orientation, and FBX export.
-
-**Prompt**
-
-```text
-In Blender, create Sol Horizon’s starter civilian courier ship. It should look used, repairable, affordable, and safe—not military. Create a cockpit, cargo hatch, visible maneuvering thrusters, main engine assembly, and four landing struts. Use a modular hard-surface style suitable for future variants. Keep the main render mesh under 15,000 triangles. Name objects clearly, set the forward direction for Unity, create simple collision geometry, apply transforms, save the .blend, and export a game-ready FBX. Show viewport screenshots for approval before export.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098225609558335846) · [Original post](https://x.com/jonathanplumb/status/2098225609558335846) · [Back to examples](#all-prompts)
 
 ---
 
@@ -3808,6 +3633,257 @@ Create a local HTML/CSS/JS file using Three.js. Make a highly detailed 3D model 
 
 ---
 
+<a id="2105009377002299711"></a>
+
+### Time, Undone.
+
+[Paruchh](https://x.com/theparuchh) · 2026-09-29
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2105009377002299711"><img src="assets/previews/ee95289365fb612e7b8bde2276b5c0744017b3bbe013b46a856b00cb4abd9ca2.jpg" width="840" loading="lazy" alt="Time, Undone."></a>
+
+Create a self-contained WebGPU and WGSL interactive 3D mechanical watch. The unbranded hand-wound Calibre 01 has a mechanically specified Swiss-lever movement, real-time power reserve, winding interaction, and a scroll-driven seven-stage exploded view that continues running while disassembled. It includes part inspection, camera controls, gold case presets, technical validation, and a macro-photography-inspired editorial interface.
+
+**Prompt**
+
+```text
+Build "Time, Undone." - a single self-contained HTML file (embedded JS and CSS) running a genuine WebGPU + WGSL interactive 3D mechanical watch that takes itself apart as you scroll, while it keeps running. No 3D engine libraries; all geometry is generated in code. This is issue No. 01 of a series about objects everyone has seen from the outside and almost no one has seen from the inside.
+THE OBJECT
+An original, unbranded, hand-wound mechanical watch in a round 40 mm case, with a classic Swiss-lever movement about 30 mm across.
+Layout: centre hours and minutes; small seconds sub-dial at 6 o'clock; crown at 3 o'clock.
+Dial: silver-opaline with a fine guilloché sunburst, applied polished indices, dauphine hands, a railroad minute track.
+Case: front sapphire crystal and a display caseback, so the movement is visible from behind.
+No brand names, logos or real calibre names anywhere. Call it "Calibre 01".
+THE MECHANISM (must be internally correct, not decorative)
+Beat rate 28,800 vph (4 Hz balance).
+Build a real going train with consistent tooth counts:mainspring barrel 96 teeth → centre pinion 12; the centre wheel turns once an hour and carries the minute hand;
+centre wheel 80 → third pinion 10;
+third wheel 75 → fourth pinion 10; the fourth wheel turns once a minute and carries the small seconds hand;
+fourth wheel 84 → escape pinion 7;
+escape wheel 20 teeth, turning once every 5 s.
+
+Motion works under the dial: cannon pinion 12 → minute wheel 36; minute pinion 10 → hour wheel 40 (12:1).
+Keyless works: crown, stem, crown wheel, ratchet wheel, click with spring.
+Escapement: escape wheel, pallet fork with two ruby pallet stones and banking pins, balance wheel with hairspring and impulse roller.
+Structure: mainplate, barrel bridge, train bridge, balance cock, ruby jewel bearings, blued screws.
+Gears: watch-style cycloidal tooth profiles, spoked wheel crossings, pinions with leaves, arbors and pivots. Centre distances are derived from a common module so every pair meshes visibly correctly when assembled.
+Motion, driven from ONE master clock:the balance oscillates as θ(t) = A·sin(2π·4·t), with amplitude A around 270° at full power;
+at each beat, the pallet fork flicks between its banking pins and the escape wheel advances half a tooth in a short eased impulse, then locks;
+every other wheel steps exactly by its ratio from the escape wheel;
+the seconds hand ticks 8 times per second; the minute and hour hands follow the train.
+On load, set the hands to the viewer's local time.
+
+Power: a power reserve of about 44 h that drains in real time.Amplitude falls from 290° to 180° as the reserve empties; at 0 the watch stops, the balance settling rather than freezing.
+Winding raises the reserve, with visible ratchet and click motion and a soft click sound (Web Audio, muted until the first user interaction).
+
+The mechanism keeps running in every exploded state: wheels spin in mid-air, the balance keeps beating, the seconds hand keeps ticking.
+THE EXPLODE (scroll-driven, with stops)
+Page scroll maps to a progress value from 0 to 1, split into seven chapters. Each chapter eases into a resting "stop" where scroll briefly settles (a soft snap, never a hard lock). The camera moves smoothly between chapters.
+Chapters:
+I. The case: front 3/4 view, assembled.
+II. The dial: the crystal and bezel lift away; the hands and dial rise.
+III. Motion works: the wheels under the dial separate.
+IV. The bridges: the watch turns over to show the back; the caseback lifts; the bridges and the balance cock rise, with their screws floating just above their holes.
+V. The going train: barrel, centre, third and fourth wheels spread upward along their own axes like a technical drawing.
+VI. The escapement: escape wheel, pallet fork and balance separate a little further, and the camera closes in.
+VII. The heart: a macro view of the beating balance and hairspring, with the full exploded column behind.
+Every part moves along a clear axis, mostly its own arbor axis or straight up from the plate. Parts that belong together stay together. Nothing intersects during the explode, and nothing leaves the frame.
+Thin hairline leader lines with small caps labels appear for the main parts at each stop, and fade between stops.
+INTERACTION
+Scroll (wheel, trackpad, touch swipe) drives the explode.
+Dragging on empty space turns the watch within limits; it eases back when released.
+Hovering a part outlines it softly with its name.
+Clicking a part:the part is highlighted, other parts dim to about 35%, and the camera eases to frame it;
+a card opens beside it, joined by a hairline leader. The card shows: name; role in one or two plain sentences; one precise fact (for example: "Escape wheel · 20 teeth · one turn every 5 s"); and one live value (current speed, angle, or beats so far).
+Esc, a close button, or clicking empty space returns.
+
+Dragging the crown sideways winds the watch (a tactile ratchet), when the crown is visible.
+Pointer capture, mouse and touch. Picking by an object-ID render pass or exact ray tests; no approximate bounding spheres.
+RENDERING (real metals, macro-photography feel — not a cartoon)
+Physically based materials, with a procedural studio environment (large softboxes, a strip light and a dim warm fill) for reflections.
+Finishes:Côtes de Genève stripes on the bridges (anisotropic brushed specular aligned to the stripes);
+perlage (circular graining) on the mainplate;
+mirror-polished bevels (anglage) catching bright edge highlights;
+thin-film heat-blued screws and hands;
+ruby jewels that are translucent red with internal sparkle;
+rhodium-plated steel parts;
+sapphire crystals with faint blue-violet reflections and a slight edge thickness.
+
+Case in the selected gold.
+Highlights: controlled bloom on specular highlights only; small star glints on jewels and polished edges that appear as the light or the watch moves. Glamour, not glitter.
+Soft contact shadows, gentle ambient occlusion, subtle depth of field that follows the focused part.
+Filmic tonemap with no clipped highlights; 4x MSAA or equivalent.
+Background: pale porcelain white with a soft vignette, like a seamless photo studio. Not yellow, not cream.
+UI (aristocratic, editorial, generous whitespace)
+Fonts: "Bodoni Moda" for display and numerals, "Jost" for UI text (Google Fonts, with serif and sans fallbacks). Small caps labels with 0.16em tracking; tabular numerals.
+Colours:ink #1B1A17 on the porcelain background;
+hairlines 1px at 15% ink;
+the accent follows the selected gold.
+
+No gradients on UI elements, no heavy shadows, no emoji.
+Top-left:kicker "OBJECTS, OPENED / NO. 01";
+large Bodoni heading on two lines, "Time," / "Undone.";
+three caption lines in Bodoni italic: "Wound by hand." "Opened by scroll." "Nothing is hidden."
+
+Top-right: status "WEBGPU · LIVE" with a small dot.
+Left edge, vertically centred: the chapter index "I. The case", "II. The dial", "III. Motion works", "IV. The bridges", "V. The going train", "VI. The escapement", "VII. The heart".The current chapter is highlighted, with a hairline progress rule; clicking a chapter scrolls to it.
+
+Right panel "THE MOVEMENT":three case presets: White gold, Yellow gold, Rose gold, with small metal swatches;
+live readouts: Beat rate "28,800 vph", Power reserve (h, with a thin bar), Amplitude (°), Beats since opened;
+buttons "Wind the crown" and "Set to local time";
+checkboxes "¼ speed" and "Trace the power". Trace the power makes a slow line of light flow along the energy path: mainspring → barrel → centre → third → fourth → escape wheel → pallet fork → balance, with each part glowing as it passes;
+a Pause/Resume button.
+
+Bottom-left hint: "Scroll to take it apart. Click any part to meet it. Drag to turn it."
+Bottom-right: a collapsible "How it works", with a short, accurate explanation of the going train, the escapement, the balance and the power reserve, plus a short note on how this page renders it.
+Mobile: the canvas fills the top about 65% of the screen, and the chapter index becomes a horizontal row of Roman numerals. The panel flows below; part cards become a bottom sheet. Nothing covers the watch.
+ENGINEERING
+Build all geometry once at start-up. Instance repeated parts (screws, jewels, teeth where useful). Update only transforms per frame; no shader compilation or buffer rebuilds during interaction.
+Animation time comes from one clock with ¼-speed scaling. Pause freezes the mechanism, not the UI.
+Respect prefers-reduced-motion: instant chapter transitions, no camera flights, no glints animation.
+If WebGPU is unavailable, show a clear, well-designed explanation. No fake fallback renderer.
+Handle device loss. Cap the pixel ratio at 2. Aim for 60 fps on a laptop and a smooth experience on a recent phone.
+VALIDATE BEFORE DELIVERING
+In code, assert the train ratios: the seconds hand turns once per 60 s, the minute hand once per 3600 s, the hour hand once per 12 h, the escape wheel once per 5 s. Log the check to the console.
+Every meshing pair is at the correct centre distance and visibly meshed when assembled.
+No part intersects another at any explode progress; no z-fighting.
+Scroll stops, chapter jumps, part picking, cards, winding, presets, trace-the-power, pause, ¼ speed and the mobile layout all work.
+Card texts are horologically accurate.
+No console errors.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2105009377002299711) · [Original post](https://x.com/theparuchh/status/2105009470292013286) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2105027152617918852"></a>
+
+### Realistic F-22 Raptor model and Godot flight video
+
+[Demetrius Greses Jr](https://x.com/dgresesjr) · 2026-09-29
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2105027152617918852"><img src="assets/previews/53069c8ca05cdb52390b64d16519e81e5b77f7970af70c6a2e87fa2827406239.jpg" width="840" loading="lazy" alt="Realistic F-22 Raptor model and Godot flight video"></a>
+
+A comparison prompt requesting a realistic 3D model of a Lockheed Martin F-22 Raptor, followed by a 60-second MP4 of the aircraft flying in Godot for upload to X. The root post lists 6 Astra among the models being compared.
+
+**Prompt**
+
+```text
+Using blender mcp. Make me a realistic 3d model of the: Lockheed Martin F-22 Raptor (US only). Then create me 60 second mp4 of it flying around in Godot that I can upload to X.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2105027152617918852) · [Original post](https://x.com/dgresesjr/status/2105027152617918852) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2105047166733746209"></a>
+
+### Cinematic photorealistic rocket launch scene
+
+[Matthew Lebo](https://x.com/MatthewLebo_) · 2026-09-29
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2105047166733746209"><img src="assets/previews/8b297757174c79e883f61638f18822d20b93a44443582f60d59fc89779687a41.jpg" width="840" loading="lazy" alt="Cinematic photorealistic rocket launch scene"></a>
+
+A reusable prompt shared by the posting author as the same exact input used to compare GPT-Astra, GPT-6.1-Sol, and Claude Opus 5.5. It requests a cinematic, photorealistic, textured 3D rocket launch scene implemented with Three.js.
+
+**Prompt**
+
+```text
+Build a cinematic, photorealistic, beautifully textured rocket launch scene using Three.js
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2105047166733746209) · [Original post](https://x.com/MatthewLebo_/status/2105047166733746209) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2105278999861526953"></a>
+
+### Blender render of the Golden Gate Bridge
+
+[EvoLink.ai](https://x.com/EvoLinkAi) · 2026-09-30
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2105278999861526953"><img src="assets/previews/6784455d747367e9776ffa07c75661a0751b892423d15d910c2f57a886a08447.jpg" width="840" loading="lazy" alt="Blender render of the Golden Gate Bridge"></a>
+
+A benchmark prompt shared by EvoLink.ai for rendering the Golden Gate Bridge in Blender. It specifies an extreme low-angle view from San Francisco Bay, foggy morning conditions, intricate steel-truss towers, detailed roadway vehicles, and rugged coastal headlands.
+
+**Prompt**
+
+```text
+A Blender render of the Golden Gate Bridge.  A sweeping, extreme low-angle shot from the surface of San Francisco Bay, looking up at the colossal, intricate steel-truss towers piercing the foggy morning sky. The expansive roadway stretches across the span with countless tiny, detailed vehicles, highlighting the bridge's grand, imposing scale against the rugged coastal headlands.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2105278999861526953) · [Original post](https://x.com/EvoLinkAi/status/2105279002793345069) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2105298955307303100"></a>
+
+### Create a 3D Minion Character in Blender
+
+[EvoLink.ai](https://x.com/EvoLinkAi) · 2026-09-30
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2105298955307303100"><img src="assets/previews/faa243bd67b442c652339eb4c1b327f0a62cc4eb193d64de9a8ec4c8b99fbfcb.jpg" width="840" loading="lazy" alt="Create a 3D Minion Character in Blender"></a>
+
+A verified-author prompt supplied as a 3D Blender character test for GPT-6.1 Sol, Sonnet 5.5, and GPT-6 Astra. It requests an executable bpy script that models a Minion-style character with materials, mirrored components, studio lighting, and a five-second square turntable render.
+
+**Prompt**
+
+```text
+Write a complete, executable Python script using Blender's bpy module to create a 3D Minion character, set up a 360-degree turntable camera animation, and render a 5-second 1:1 video.
+Animation & Render Specifications:
+
+Frame Rate & Duration: Set frame rate to 30 fps and render frame range from frame 1 to 150 (exactly 5 seconds).
+Aspect Ratio: Set render resolution to 1080x1080 pixels (1:1 square ratio).
+Camera Turntable Animation:Animate the camera (or an empty controller object parented to the camera) to perform a seamless 360-degree rotation around the Minion over the 150 frames.
+Set keyframe interpolation to LINEAR to ensure smooth, constant-speed rotation.
+
+Output Settings: Set output format to FFmpeg video (H.264 / MP4 container).
+Technical Requirements & Model Structure:
+Base Body:Create a capsule-like mesh for the main body (yellow material, subsurface scattering/roughness ~0.3).
+Add sparse, thin strands of black hair on top of the head.
+
+Goggles & EyesBuild dual-lens goggles using extruded cylinders/toruses.
+Goggle Frame Material: Metallic (~0.9), Roughness (~0.2) to simulate brushed aluminum/metal.
+Add a black elastic strap wrapping around the body.
+Generate two eyeball meshes inside the frame (white sclera, brown iris, shiny pupil).
+
+Clothing - Overalls:Model the denim overalls using separate mesh geometry or extruded body segments.
+Material: Blue denim color, higher roughness (~0.6).
+Include shoulder straps and a front pocket on the chest.
+
+Appendages & DetailsAdd arms and legs with black gloved hands and black shoes.
+Use Mirror Modifier (bpy.ops.object.modifier_add(type='MIRROR')) where applicable (e.g., eyes, goggles frame, arms, straps, legs) to ensure symmetry and clean code.
+
+Lighting & Scene:Place a three-point lighting setup (Key, Fill, Rim lights) parented to the camera or placed uniformly so the lighting stays consistent during rotation.
+Set render engine to Cycles or EEVEE with a clean studio background.
+Ensure all materials are created using Nodes (use_nodes = True).
+
+Return ONLY valid Python code inside a markdown block with no surrounding text or markdown explanations.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2105298955307303100) · [Original post](https://x.com/EvoLinkAi/status/2105298964027265295) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2105323534398763307"></a>
+
+### Recreate a scene in Isaac Sim
+
+[Charles Wong](https://x.com/charleswongzx) · 2026-09-30
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2105323534398763307"><img src="assets/previews/fa08d494a2ded6a2b2e603413d0329a12a3cac84d96a354791280ad5b2434979.jpg" width="840" loading="lazy" alt="Recreate a scene in Isaac Sim"></a>
+
+A prompt to recreate the attached scene in Isaac Sim for manipulation policy evaluation, without using Manifold.
+
+**Prompt**
+
+```text
+Recreate this scene in Isaac Sim for the purposes of manipulation policy evaluation. Don't use Manifold.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2105323534398763307) · [Original post](https://x.com/charleswongzx/status/2105323534398763307) · [Back to examples](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Endless Tank Defense
@@ -4196,7 +4272,7 @@ Deliver source, lockfile, npm development/build commands and static output. Veri
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 302 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 308 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>

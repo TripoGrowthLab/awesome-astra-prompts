@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**302 · Prompt Astra mới nhất**
+**308 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -50,15 +50,9 @@
 <details>
 <summary>Khám phá ví dụ</summary>
 
-- [Atlas 3D tương tác về đầu và não người](#2098105648106078541) · GitHub
 - [Atlas Chernobyl](#2098841316591346006) · GitHub
 - [Trình khám phá giải phẫu 3D tương tác](#2099206962344800541) · GitHub
 - [Demo đồ họa fantasy isometric](#2100271998618177864) · GitHub
-- [Hoạt ảnh học viện phép thuật bay lơ lửng](#2098071577309122854)
-- [Tàu con thoi mô hình trắng bay qua hẻm núi đô thị](#2098079379297608050)
-- [Hoạt hình giả tưởng kiếm sĩ phá hủy cổng thành](#2098094339759149067)
-- [Trình diễn piano tương tác với bàn tay robot 3D](#2098109252720078891)
-- [Tàu vận chuyển dân dụng cơ bản Sol Horizon](#2098225609558335846)
 - [Tự động tạo và chuyển texture tóc, khuôn mặt cho model nhân vật](#2098367087475577273)
 - [Cảnh mô hình thu nhỏ 3D dạng lập thể của ngôi đền](#2098403061463224543)
 - [Mô hình bé gái chơi robot](#2098406473273663992)
@@ -144,6 +138,12 @@
 - [Chuyến du ngoạn bằng thuyền trong rừng rậm dưới ánh trăng tương tác](#2104613125093998674)
 - [Xe thể thao biến hình với chế độ X-quang bung tách](#2104654448878387313)
 - [Mắt người 3D độ chi tiết cao](#2104841727496323479)
+- [Thời gian, được tháo rời.](#2105009377002299711)
+- [Mô hình F-22 Raptor chân thực và video bay trong Godot](#2105027152617918852)
+- [Cảnh phóng tên lửa chân thực như phim điện ảnh](#2105047166733746209)
+- [Bản render Blender của cầu Golden Gate](#2105278999861526953)
+- [Tạo nhân vật Minion 3D trong Blender](#2105298955307303100)
+- [Tái tạo cảnh trong Isaac Sim](#2105323534398763307)
 - [Battle City 3D: Phòng thủ xe tăng vô tận](#battle-city-3d)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Game sinh tồn với vũ khí kỳ quặc](#odd-arms)
@@ -152,53 +152,6 @@
 - [Hòn đảo của Cyclops](#cyclops-island-threejs-game)
 
 </details>
-
-<a id="2098105648106078541"></a>
-
-### Atlas 3D tương tác về đầu và não người
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098105648106078541"><img src="../assets/previews/1251cdb60d51985d09d2870c9866d104d26bf152875bc50a1c46eb047a11be63.jpg" width="840" loading="lazy" alt="Atlas 3D tương tác về đầu và não người"></a>
-
-Prompt tái tạo có thể dùng lại, do tác giả đề xuất để xây dựng atlas giải phẫu tương tác về đầu và não. Prompt yêu cầu các mô hình giải phẫu có giấy phép phù hợp, khả năng khám phá theo lớp, công cụ kiểm tra, mặt phẳng cắt, chế độ tách lớp và một ứng dụng HTML độc lập chạy ngoại tuyến.
-
-**Prompt**
-
-```text
-Xây dựng một atlas 3D tương tác hoàn chỉnh về đầu và não người. Bàn giao một ứng dụng hoạt động được, không phải bản mô phỏng. Tự đưa ra các quyết định hợp lý, triển khai, kiểm thử và kiểm tra trực quan kết quả.
-
-Sử dụng Three.js cùng các mô hình lưới Z-Anatomy / BodyParts3D thực tế, có giấy phép phù hợp. Bao gồm hộp sọ, răng, cơ mặt, não, mắt, dây thần kinh sọ, động mạch, tĩnh mạch và các màng hỗ trợ hiện có. Giữ nguyên mối quan hệ giải phẫu ban đầu giữa chúng. Hướng đến hàng trăm cấu trúc có thể chọn riêng lẻ, báo cáo số lượng thực tế đã nhập và giữ thông tin ghi công nguồn.
-
-Tạo giao diện sáng, gọn với nền xám nhạt, các bảng màu trắng bo góc, điểm nhấn xanh xám tiết chế và kiểu chữ dễ đọc. Giữ mô hình ở kích thước lớn, đặt bảng cấu trúc bên trái, công cụ camera bên phải, ô tìm kiếm ở phía trên và thanh trượt tách lớp bên dưới. Sử dụng tiếng Anh xuyên suốt.
-
-Cho phép khám phá giải phẫu theo từng cấp độ:
-Đầu → hệ cơ quan → vùng → cấu trúc riêng lẻ có tên.
-Ví dụ: Brain → Cerebrum → Left hemisphere → Frontal lobe → các cấu trúc riêng lẻ.
-
-Tạo hiệu ứng chuyển động khi lắp ráp và tháo rời. Giữ nguyên vị trí nguồn khi lắp ráp; sắp xếp các nhóm đã tách thành bố cục cách biệt rõ ràng, kèm nhãn dễ đọc. Hiển thị tỷ lệ chuẩn hóa và phân trang các bộ sưu tập lớn.
-
-Bao gồm:
-- Xoay tự do, thu phóng bằng con lăn/chụm hai ngón và các thiết lập camera có sẵn.
-- Thanh trượt tháo rời và điều khiển Shift + con lăn.
-- Công tắc hiển thị độc lập cho từng nhóm và từng bộ phận.
-- Độ mờ theo nhóm, hoàn tác, khôi phục tất cả và đặt lại.
-- Tìm kiếm giải phẫu, nhấp để kiểm tra, lấy nét, cô lập và điều hướng về cấp cha.
-- Chế độ màu giải phẫu, sứ, khung dây và trong suốt.
-- Mặt phẳng cắt đứng dọc, ngang và trán có thể điều chỉnh, kèm đảo chiều.
-- Nhãn, khám phá tự động, toàn màn hình và xuất PNG.
-- Hành trình có hướng dẫn từ toàn bộ phần đầu đến não và các mạng lưới của não.
-
-Giữ các cấu trúc đang ẩn ở trạng thái ẩn khi thay đổi bố cục và vật liệu. Giải thích rằng mặt phẳng cắt tạo ra các mặt cắt hiển thị mở, không phải ảnh quét y khoa. Không tự tạo thêm chi tiết giải phẫu hoặc tuyên bố ứng dụng đã được kiểm định lâm sàng.
-
-Bàn giao một tệp HTML độc lập chứa ứng dụng và hình học đã xử lý, có thể hoạt động ngoại tuyến mà không cần máy chủ. Đồng thời cung cấp các tệp nguồn gọn sạch, các dependency được ghim phiên bản, lockfile, script build di động, README bằng tiếng Anh cùng các giấy phép và thông tin ghi công bắt buộc. Loại trừ thông tin xác thực, đường dẫn máy cục bộ, dependency và các tệp không liên quan.
-
-Kiểm thử tính toàn vẹn của hình học, quan hệ thành viên trong hệ phân cấp, trạng thái hiển thị, thao tác hoàn tác và khoảng cách bố cục. Mở ứng dụng đang chạy trong trình duyệt, sử dụng thử các điều khiển, kiểm tra lỗi trong console và khắc phục các thành phần bị chồng lấn trước khi bàn giao.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098105648106078541) · [Bài đăng gốc](https://x.com/k1rallik/status/2098105648106078541) · [Mã nguồn](https://github.com/bubblik525/head) · [Về danh sách ví dụ](#all-prompts)
-
----
 
 <a id="2098841316591346006"></a>
 
@@ -274,150 +227,6 @@ Hãy tạo một demo đồ họa: camera isometric, phong cách nghệ thuật 
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100271998618177864) · [Bài đăng gốc](https://github.com/achimala/dream-loop) · [Mã nguồn](https://github.com/achimala/dream-loop) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2098071577309122854"></a>
-
-### Hoạt ảnh học viện phép thuật bay lơ lửng
-
-[PixVerse](https://x.com/PixVerse) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098071577309122854"><img src="../assets/previews/9b408ceb1b603f7a12e8bc7b5d7626551da9f3e0b153f574d2f694a1edc9cba4.jpg" width="840" loading="lazy" alt="Hoạt ảnh học viện phép thuật bay lơ lửng"></a>
-
-Tạo hoạt ảnh mô hình trắng dài 12 giây trong Blender, gồm cổng vào đồ sộ, cảnh bay xuyên lỗ khóa, một khí cụ thiên văn và học viện bay lơ lửng; sau đó dùng PixVerse để kết xuất thành một phân cảnh fantasy điện ảnh. Các tệp bàn giao gồm cả hai video MP4 và một dự án Blender có thể chỉnh sửa.
-
-**Prompt**
-
-```text
-Tạo một hoạt ảnh mô hình trắng dài 12 giây, quay bằng một cú máy liên tục trong Blender, sau đó dùng @PixVerse để biến hoạt ảnh đã xuất thành một phân cảnh phim fantasy người đóng ngoạn mục.
-
-Trong Blender, dựng một cổng vào đồ sộ, một khí cụ thiên văn xoay và một học viện phép thuật bay lơ lửng rộng lớn. Sử dụng hình học đơn giản màu trắng hoặc xám nhạt, với silhouette dễ nhận biết và ánh sáng cơ bản. Khi bắt đầu, hiển thị toàn bộ cánh cửa ra vào, với những bức tường kiên cố bao quanh và che kín hoàn toàn thế giới phía sau. Tạo một lỗ khóa nhỏ với tỷ lệ chân thực. Phía bên kia cổng vào, bố trí một lâu đài lớn ở trung tâm, các tòa tháp, những đảo bay nhỏ hơn và các cây cầu kết nối. Làm nổi bật quy mô kiến trúc ấn tượng cùng khoảng cách rộng rãi giữa các công trình.
-
-Bắt đầu bằng chuyển động tiến chậm về phía cánh cửa, sau đó tăng tốc mạnh và bay liên tục xuyên qua lỗ khóa. Tạo hoạt ảnh cho một chiếc chìa khóa bay lơ lửng, xoay rồi dịch sang một bên trước khi camera đi qua. Tiếp tục bay qua các vòng thiên văn xoay nhanh, hé lộ học viện bay lơ lửng, rồi chuyển thành một vòng orbit mượt quanh quần thể kiến trúc. Để các đảo gần đó nhanh chóng nâng lên và các đoạn cầu xoay vào đúng vị trí. Giữ cho chuyển động của vật thể mạnh mẽ và dứt khoát. Vòng orbit phải diễn ra liên tục, thay đổi tốc độ mượt mà và không lặp lại các khoảng dừng. Kiểm tra lối đi qua lỗ khóa, khoảng hở của camera, tính liên tục không gian và chuyển động ở tốc độ phát bình thường.
-
-Xuất video MP4 mô hình trắng dài 12 giây, không có tạp chất. Sau đó dùng @PixVerse để tạo video AI dài 12 giây, sử dụng hoạt ảnh Blender làm tham chiếu tương đối về cấu trúc và chuyển động. Giữ lại diễn tiến dễ nhận biết từ cảnh tiến đến cánh cửa, đi qua lỗ khóa, xuất hiện khí cụ thiên văn, hé lộ học viện và chuyển sang orbit; đồng thời tự do làm phong phú thế giới và cách dàn dựng điện ảnh.
-
-Biến học viện thành một thành phố bay lơ lửng cổ đại, khổng lồ: một lâu đài trung tâm bao quanh bởi các khu phố, thư viện, đài quan sát, sân trong, những tầng mái xếp lớp, các cây cầu đá khổng lồ và thác nước đổ xuống mây. Mở rộng khung cảnh xung quanh với các thung lũng phủ rừng, hồ nước, núi non phía xa và thêm nhiều đảo bay. Thêm những người đi bộ nhỏ bé, tàu bay, cờ chuyển động, chim chóc và các hoạt động trong không khí để thể hiện quy mô. Trong đoạn orbit về sau, để một con rồng khổng lồ xuất hiện từ những đám mây phía sau học viện và lướt qua các tòa tháp, tạo bóng đổ chuyển động phủ lên thành phố.
-
-Hướng đến độ phong phú như một bộ phim fantasy người đóng quy mô lớn, với vật liệu phong hóa, ánh nắng vàng dịu xuyên qua những đám mây lạnh màu, chiều sâu không khí tự nhiên và các điểm sáng nhiếp ảnh nhẹ nhàng. Thêm nhạc giao hưởng nguyên bản cùng âm thanh môi trường và âm thanh hành động được đồng bộ.
-
-Bàn giao video MP4 mô hình trắng, video MP4 do PixVerse kết xuất bằng AI và dự án Blender có thể chỉnh sửa.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098071577309122854) · [Bài đăng gốc](https://x.com/PixVerse/status/2098071577309122854) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2098079379297608050"></a>
-
-### Tàu con thoi mô hình trắng bay qua hẻm núi đô thị
-
-[PixVerseCreators](https://x.com/PixVerseCreator) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098079379297608050"><img src="../assets/previews/cd71fb962eb01f16094187f0998f65959e3a74f648b0c98dfd8aab0c9253ddb4.jpg" width="840" loading="lazy" alt="Tàu con thoi mô hình trắng bay qua hẻm núi đô thị"></a>
-
-Hoạt ảnh Blender dài 10 giây, quay một mạch, về một tàu con thoi nguyên bản bay với tốc độ cực cao qua hẻm núi đô thị dày đặc, được kết xuất bằng PixVerse từ các tham chiếu Blender.
-
-**Prompt**
-
-```text
-Tạo một cảnh tàu con thoi mô hình trắng bay trong 10 giây, quay một mạch, bằng Blender. Dựng một tàu con thoi nguyên bản và một hẻm núi đô thị dày đặc kéo dài vài kilômét. Hoạt ảnh hóa chuyến bay thẳng về phía trước với tốc độ cực cao dọc theo một lộ trình dài, vượt qua hơn hai kilômét mà không giảm tốc. Luồn qua các khoảng hẹp và bay dưới cầu, thay đổi độ cao, đồng thời thực hiện hai vòng lộn ngang mượt theo hai hướng ngược nhau. Làm cho tốc độ trở nên không thể nhầm lẫn: các tòa nhà gần đó kéo vệt ra phía sau, cầu vụt qua phía trên và các công trình tiền cảnh nhanh chóng quét khỏi mép khung hình. Sử dụng nhòe chuyển động định hướng mạnh cho môi trường nhưng vẫn giữ tàu con thoi rõ nét. Chướng ngại vật dày đặc, các pha lướt sát và hiệu ứng thị sai mạnh từ tiền cảnh đến hậu cảnh phải truyền tải cảm giác bay hết tốc lực liên tục. Dùng camera bám đuổi góc rộng, chuyển động mượt, đặt gần phía sau và hơi cao hơn tàu con thoi, lao về phía trước với tốc độ tương đương. Giữ mũi tàu hướng vào thành phố và động cơ hướng về phía camera. Không cắt cảnh, không rung camera, không lộn ngang bằng camera, không quay chậm và không giảm tốc ở đoạn kết. Kiểm tra khoảng hở, tính liên tục của chuyển động và cảm giác tốc độ ở tốc độ phát bình thường. Dùng PixVerse để kết xuất hoạt ảnh mô hình trắng cuối cùng từ các tham chiếu Blender, giữ nguyên tốc độ cực cao, đường bay và chuyển động camera. Bàn giao tệp MP4 cuối cùng, dự án Blender có thể chỉnh sửa và ghi chú ngắn về các hạn chế.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098079379297608050) · [Bài đăng gốc](https://x.com/PixVerseCreator/status/2098079379297608050) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2098094339759149067"></a>
-
-### Hoạt hình giả tưởng kiếm sĩ phá hủy cổng thành
-
-[PixVerse](https://x.com/PixVerse) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098094339759149067"><img src="../assets/previews/ca8a46498d2bcd9c4215ea347c01a1b03d81d9b98d7c5a53514c4d118628bc29.jpg" width="840" loading="lazy" alt="Hoạt hình giả tưởng kiếm sĩ phá hủy cổng thành"></a>
-
-Tạo một hoạt hình hành động mô hình trắng dài 12 giây trong Blender, mô tả một kiếm sĩ phá hủy cổng thành khổng lồ, sau đó chuyển thành một phân cảnh phim giả tưởng hoạt họa giàu chất hội họa với pháo đài trên núi, các công trình sụp đổ, cú máy từ trên không, âm nhạc và hiệu ứng âm thanh đồng bộ.
-
-**Prompt**
-
-```text
-Tạo một hoạt hình hành động mô hình trắng dài 12 giây trong Blender, sau đó dùng @PixVerse để chuyển hoạt hình đã xuất thành một phân cảnh phim hoạt hình giả tưởng hoành tráng, mang sắc thái trưởng thành.
-
-Trong Blender, dựng một kiếm sĩ có khớp chuyển động đơn giản, một thanh kiếm và bao kiếm, một nền đá rộng nằm trên cao, cùng một cổng thành khổng lồ với các trụ bao quanh. Sử dụng hình học màu trắng hoặc xám nhạt, kết hợp với ánh sáng cơ bản. Ưu tiên chuyển động dễ đọc, tỷ lệ thuyết phục và sự tương phản mạnh giữa nhân vật nhỏ bé với kiến trúc đồ sộ. Thể hiện sóng năng lượng từ kiếm bằng một hình cong được hoạt ảnh đơn giản, đồng thời chia cổng thành nhiều mảnh để chúng có thể tách rời và rơi xuống rõ ràng.
-
-Bắt đầu với máy quay ở gần kiếm sĩ khi anh ta rút vũ khí và nhanh chóng dồn lực. Khoảng giây thứ hai, tạo một nhát chém cực nhanh và dứt khoát, với lực phát động từ bàn chân, hông, thân mình và cánh tay. Phóng ra một sóng năng lượng hình lưỡi liềm dễ thấy, di chuyển xuyên không gian và đánh trúng cổng thành. Để phần cổng phía trên trượt theo đường chém, mất điểm tựa rồi sụp đổ với gia tốc và khoảnh khắc chạm đất rõ ràng. Sau đòn đánh, cho kiếm sĩ hồi thế tự nhiên, tra kiếm, đứng thẳng và thả lỏng hai tay.
-
-Khi đòn tấn công diễn ra, kéo máy quay lùi ra sau và nâng dần lên trong một chuyển động liên tục, mượt mà. Tiếp tục nâng cao đầy ấn tượng cho đến khi khung hình kết thúc bằng góc nhìn từ trên không cực cao, gần như thẳng đứng, bao quát toàn bộ nền đá và địa hình xung quanh. Nhân vật có thể trở nên quá nhỏ để phân biệt. Duy trì nhịp hành động nhanh và cảm giác quy mô mở rộng mạnh mẽ, thay vì dừng lâu ở tư thế ra đòn. Kiểm tra chuyển động cơ thể, tính liên tục của vũ khí, đường di chuyển của sóng năng lượng, sự sụp đổ của cổng và chuyển động máy quay ở tốc độ phát bình thường.
-
-Xuất video MP4 mô hình trắng sạch, dài 12 giây. Sau đó dùng @PixVerse để tạo video AI dài 12 giây, sử dụng hoạt hình Blender làm tham chiếu tương đối cho bố cục, diễn tiến hành động và chuyển động máy quay đi lên. Giữ nguyên trình tự cốt lõi gồm chuẩn bị, chém, sóng năng lượng di chuyển, phá hủy cổng, tra kiếm và cú lộ cảnh từ trên không cực cao, đồng thời cho phép mở rộng đáng kể về mặt điện ảnh.
-
-Tạo thẩm mỹ phim hoạt hình giả tưởng giàu chất hội họa, kết hợp hình khối biểu cảm, bề mặt vẽ tay, thể tích ba chiều thuyết phục và ánh sáng điện ảnh dịu. Tạo cho kiếm sĩ trưởng thành một dáng hình đặc trưng, áo khoác đỏ rượu vang, giáp tiết chế và vẻ quyết tâm điềm tĩnh. Mở rộng bối cảnh thành một pháo đài núi rộng lớn với tường thành nhiều lớp, tháp, cầu, khe vực sâu và một thành phố trải dài ở phía xa.
-
-Biến sóng năng lượng hình lưỡi liềm từ kiếm thành một sự kiện thị giác chủ đạo. Sóng năng lượng phải chém xuyên qua cổng rồi tiếp tục lao vào các công sự ở xa, tạo ra một chuỗi công trình sụp đổ dễ theo dõi, bụi cuộn mạnh, tia lửa, lửa và sóng xung kích. Khi máy quay đạt độ cao cực lớn, hé lộ toàn bộ đường đi của đòn đánh trên chiến trường, với kiếm sĩ lặng lẽ đứng tại điểm khởi phát. Sử dụng bóng khí quyển lạnh tương phản với năng lượng hổ phách ấm và ánh lửa rải rác. Thêm nhạc điện ảnh nguyên bản cùng âm thanh đồng bộ của kiếm, va chạm, sụp đổ, gió và thành phố vọng từ xa.
-
-Bàn giao video MP4 mô hình trắng, video MP4 do PixVerse kết xuất bằng AI và dự án Blender có thể chỉnh sửa.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098094339759149067) · [Bài đăng gốc](https://x.com/PixVerse/status/2098094339759149067) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2098109252720078891"></a>
-
-### Trình diễn piano tương tác với bàn tay robot 3D
-
-[MSB](https://x.com/KeWai386772) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098109252720078891"><img src="../assets/previews/0da92a87e2cfefd4088b226ccf8d5e8dbd5b9938d4a76f0104f7fbdffd12c3fa.jpg" width="840" loading="lazy" alt="Trình diễn piano tương tác với bàn tay robot 3D"></a>
-
-Trình diễn 3D tương tác trên trình duyệt, trong đó bàn tay robot năm ngón chơi một cây piano thu nhỏ 25 phím, với sự liên kết nhân quả giữa tiếp xúc của ngón tay, chuyển động phím, lập kế hoạch dựa trên MIDI, âm thanh, các góc nhìn camera và chẩn đoán hiệu suất.
-
-**Prompt**
-
-```text
-Xây dựng một bản trình diễn hoàn chỉnh trên trình duyệt, trong đó bàn tay robot năm ngón được mô hình hóa chi tiết chơi một cây piano thu nhỏ. Chuyển động ngón tay hiển thị, hành trình phím, nốt được tạo và nhịp điệu phải được liên kết với nhau theo quan hệ nhân quả. Tạo một ứng dụng tương tác được trau chuốt về mặt hình ảnh trong thời gian đánh giá cho phép.
-
-1. TRẢI NGHIỆM: Sử dụng cảnh 3D toàn màn hình với bàn tay robot được mô hình hóa chính xác, các ngón tay có khớp nối, cơ cấu cổ tay hiển thị rõ và bàn phím 25 phím bao phủ các nốt MIDI từ 60 đến 84. Thể hiện hình học chân thực của phím đen và phím trắng, chuyển động độc lập của từng phím, đệm đầu ngón tay và vật liệu được hoàn thiện kỹ lưỡng. Bao gồm camera từ trên cao, phía người chơi và cận cảnh đầu ngón tay. Cung cấp âm thanh đồng bộ sau khi người dùng kích hoạt phát lại.
-
-2. ĐẦU VÀO ÂM NHẠC CHUNG: Sử dụng số nốt MIDI làm nguồn dữ liệu chuẩn duy nhất. Ở 96 BPM, phát các sự kiện sau, biểu diễn dưới dạng (nhịp bắt đầu, nốt, thời lượng tính bằng nhịp): (0,60,0.4), (0.5,64,0.4), (1,67,0.4), (1.5,64,0.4), (2,62,0.4), (2.5,65,0.4), (3,69,0.4), (3.5,65,0.4), (4,60,0.4), (4.5,60,0.4), (5,60,1), (5,64,1), (5,67,1). Ba sự kiện cuối tạo thành một hợp âm đồng thời. Đồng thời hỗ trợ nhập tệp MIDI tiêu chuẩn bằng một trình phân tích cú pháp đã được sử dụng rộng rãi.
-
-3. ĐIỀU KHIỂN BÀN TAY: Mô hình hóa các ngón tay có khớp nối độc lập và cổ tay có thể chuyển động. Lập kế hoạch phân công ngón tay có thể với tới, chuyển động tiếp cận, thao tác nhấn, giữ, nhả, diễn đạt nốt lặp và thực hiện hợp âm. Ngón tay phải tiếp xúc đúng phím mà không giao cắt với các phím lân cận hoặc tạo ra những cú nhảy thiếu thực tế. Sử dụng động học ngược và giới hạn khớp. Hiển thị phân công ngón tay đã lập kế hoạch và cho phép kiểm tra thủ công từng chuyển động.
-
-4. QUAN HỆ NHÂN QUẢ CỦA ÂM THANH: Chỉ tạo sự kiện note-on khi phím tương ứng đang hiển thị vượt qua ngưỡng nhấn đã được ghi rõ do tiếp xúc với ngón tay. Tạo note-off khi nhả phím, kèm độ trễ hysteresis để ngăn hiện tượng rung chuyển trạng thái. Sự kiện MIDI là mục tiêu lập kế hoạch, không phải một luồng phát âm thanh độc lập. Có thể sử dụng cơ chế phím dựa trên tiếp xúc hình học nếu cơ chế này được nêu rõ; cũng có thể sử dụng đầy đủ động lực học tiếp xúc. Phím không được di chuyển chỉ vì một sự kiện MIDI đã được lên lịch.
-
-5. NHỊP ĐIỆU: Sử dụng một đồng hồ âm nhạc nhất quán và gắn dấu thời gian cho các sự kiện kích hoạt phím thực tế để đối chiếu với sự kiện mục tiêu. Tính đến việc lập lịch âm thanh và thời điểm kết xuất. Cho phép điều chỉnh tempo, chuyển giọng, phát, tạm dừng, khởi động lại, lặp và kiểm tra chuyển động chậm. Khi tạm dừng hoặc khởi động lại, phải nhả các nốt đang hoạt động đúng cách. Khi làm chậm phát lại, phải duy trì đồng bộ giữa ngón tay, phím và âm thanh.
-
-6. CHẨN ĐOÁN: Hiển thị các nốt mục tiêu, ngón tay đã lập kế hoạch, nốt thực tế được kích hoạt và sai số thời điểm bắt đầu trên một dòng thời gian thẳng hàng. Báo cáo nốt bị bỏ sót, nốt thừa, cao độ sai, lỗi khi diễn đạt nốt lặp và nốt bị kẹt. Cung cấp lớp phủ kiểm tra tiếp xúc, cho biết đầu ngón tay nào đang nhấn từng phím. Ghi lại các bằng chứng cần thiết để phân biệt kế hoạch thành công với hoạt ảnh bàn tay mang tính ước lệ.
-
-7. XÁC MINH: Đánh giá riêng giai điệu, các nốt lặp và hợp âm cuối. Mục tiêu là không có nốt sai hoặc bị thiếu, sai số thời điểm bắt đầu ở phân vị 95 dưới 50 ms và độ phân tán thời điểm bắt đầu của hợp âm cuối dưới 50 ms. Báo cáo số đo thực tế ngay cả khi không đạt mục tiêu. Cung cấp một bài kiểm tra vô hiệu hóa việc tác động bằng ngón tay: điểm số có thể tiếp tục tăng, nhưng các phím không được nhấn không được tạo ra nốt.
-
-8. BÀN GIAO: Sử dụng Three.js, TypeScript, các API âm thanh phù hợp và những thư viện phân tích cú pháp hoặc tính toán số đã được sử dụng rộng rãi. Bàn giao ứng dụng đang chạy, mã nguồn, bộ dữ liệu âm nhạc có thể tái lập, tài sản hoặc tập lệnh tạo tài sản và hướng dẫn khởi động. Xác minh âm thanh trên trình duyệt, các điều khiển, góc nhìn camera, bố cục trên máy tính và thiết bị di động cũng như khả năng phát lại nhiều lần. Mọi tuyên bố về hiệu suất được hiển thị phải bắt nguồn từ hành vi đã đo lường.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098109252720078891) · [Bài đăng gốc](https://x.com/KeWai386772/status/2098109252720078891) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2098225609558335846"></a>
-
-### Tàu vận chuyển dân dụng cơ bản Sol Horizon
-
-[Jonathan Plumb — Spokane Valley](https://x.com/jonathanplumb) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098225609558335846"><img src="../assets/previews/8a672e63cd9fdbd2d4c5e721b2dc7576c34d9c37a023cb0edfe6a4d8a3bc6ce4.jpg" width="840" loading="lazy" alt="Tàu vận chuyển dân dụng cơ bản Sol Horizon"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098225609558335846"><img src="../assets/previews/57ae2f43a4ca798cfccd80c405c934bbdd10df6cb9738c29fd6ca1366dce9d2a.jpg" width="840" loading="lazy" alt="Tàu vận chuyển dân dụng cơ bản Sol Horizon"></a>
-
-Tạo mô hình Blender sẵn sàng cho game của tàu vận chuyển dân dụng cơ bản Sol Horizon, với thiết kế hard-surface dạng mô-đun dễ sửa chữa, các đối tượng được đặt tên rõ ràng, hình học va chạm, định hướng trục trước phù hợp với Unity và khả năng xuất FBX.
-
-**Prompt**
-
-```text
-Trong Blender, hãy tạo tàu vận chuyển dân dụng cơ bản của Sol Horizon. Tàu cần mang vẻ ngoài đã qua sử dụng, dễ sửa chữa, có giá phải chăng và an toàn—không mang tính quân sự. Tạo buồng lái, cửa khoang hàng, các động cơ đẩy điều hướng lộ thiên, cụm động cơ chính và bốn càng đáp. Sử dụng phong cách hard-surface dạng mô-đun để phù hợp cho các biến thể trong tương lai. Giữ lưới kết xuất chính dưới 15.000 tam giác. Đặt tên đối tượng rõ ràng, thiết lập hướng phía trước cho Unity, tạo hình học va chạm đơn giản, áp dụng các phép biến đổi, lưu tệp .blend và xuất FBX sẵn sàng cho game. Hiển thị ảnh chụp màn hình viewport để duyệt trước khi xuất.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098225609558335846) · [Bài đăng gốc](https://x.com/jonathanplumb/status/2098225609558335846) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3866,6 +3675,257 @@ Tạo một tệp HTML/CSS/JS chạy cục bộ bằng Three.js. Dựng mô hìn
 
 ---
 
+<a id="2105009377002299711"></a>
+
+### Thời gian, được tháo rời.
+
+[Paruchh](https://x.com/theparuchh) · 2026-09-29
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105009377002299711"><img src="../assets/previews/ee95289365fb612e7b8bde2276b5c0744017b3bbe013b46a856b00cb4abd9ca2.jpg" width="840" loading="lazy" alt="Thời gian, được tháo rời."></a>
+
+Tạo một chiếc đồng hồ cơ 3D tương tác tự chứa, chạy bằng WebGPU và WGSL. Calibre 01 lên cót tay, không thương hiệu, sử dụng bộ máy Swiss lever được đặc tả chính xác về cơ khí, hiển thị mức dự trữ năng lượng theo thời gian thực, hỗ trợ tương tác lên dây và chế độ bung tách bảy giai đoạn điều khiển bằng thao tác cuộn — đồng hồ vẫn tiếp tục chạy khi đã tháo rời. Trải nghiệm bao gồm kiểm tra từng linh kiện, điều khiển camera, các preset vỏ vàng, kiểm định kỹ thuật và giao diện biên tập lấy cảm hứng từ nhiếp ảnh macro.
+
+**Prompt**
+
+```text
+Xây dựng "Time, Undone." — một tệp HTML tự chứa duy nhất (nhúng JS và CSS), chạy một chiếc đồng hồ cơ 3D tương tác thực sự bằng WebGPU + WGSL. Đồng hồ tự bung tách khi người dùng cuộn trang nhưng vẫn tiếp tục chạy. Không dùng thư viện engine 3D; toàn bộ hình học được tạo bằng mã. Đây là số 01 trong một series về những vật thể ai cũng từng thấy từ bên ngoài nhưng gần như chưa ai thấy bên trong.
+VẬT THỂ
+Một chiếc đồng hồ cơ lên cót tay nguyên bản, không thương hiệu, trong vỏ tròn 40 mm, với bộ máy Swiss lever cổ điển có đường kính khoảng 30 mm.
+Bố cục: kim giờ và kim phút ở trung tâm; mặt số phụ chỉ giây nhỏ tại vị trí 6 giờ; núm chỉnh giờ tại vị trí 3 giờ.
+Mặt số: màu bạc opaline với họa tiết guilloché tỏa tia mảnh, cọc số nổi đánh bóng, kim dauphine và vạch phút kiểu đường sắt.
+Vỏ: kính sapphire phía trước và nắp đáy lộ máy để có thể quan sát bộ máy từ mặt sau.
+Không sử dụng tên thương hiệu, logo hay tên calibre có thật ở bất kỳ đâu. Gọi sản phẩm là "Calibre 01".
+CƠ CẤU (phải chính xác về mặt cơ khí, không chỉ mang tính trang trí)
+Tần số dao động 28.800 vph (bánh xe cân bằng 4 Hz).
+Xây dựng một train bánh răng thực với số răng nhất quán:thùng cót 96 răng → pinion bánh trung tâm 12 răng; bánh trung tâm quay một vòng mỗi giờ và mang kim phút;
+bánh trung tâm 80 răng → pinion bánh thứ ba 10 răng;
+bánh thứ ba 75 răng → pinion bánh thứ tư 10 răng; bánh thứ tư quay một vòng mỗi phút và mang kim giây nhỏ;
+bánh thứ tư 84 răng → pinion bánh thoát 7 răng;
+bánh thoát 20 răng, quay một vòng mỗi 5 giây.
+
+Bộ truyền dưới mặt số: pinion trung tâm 12 răng → bánh phút 36 răng; pinion phút 10 răng → bánh giờ 40 răng (tỷ số 12:1).
+Bộ lên cót: núm chỉnh giờ, trục núm, bánh cót, bánh cóc, cò hãm và lò xo.
+Bộ thoát: bánh thoát, càng gạt với hai ngựa ruby và chốt chặn, bánh xe cân bằng với dây tóc và con lăn truyền lực.
+Kết cấu: bản máy, cầu thùng cót, cầu train, cầu giữ bánh cân bằng, ổ chân kính ruby và vít nung xanh.
+Bánh răng: biên dạng răng cycloidal kiểu đồng hồ, các nan bánh đan chéo, pinion có cánh răng, trục và đầu trục. Khoảng cách tâm được tính từ một module chung để mọi cặp bánh răng ăn khớp chính xác và nhìn thấy rõ khi lắp ráp.
+Chuyển động được điều khiển từ MỘT đồng hồ chủ: bánh xe cân bằng dao động theo θ(t) = A·sin(2π·4·t), với biên độ A khoảng 270° khi đầy cót;
+ở mỗi nhịp, càng gạt bật qua lại giữa các chốt chặn, bánh thoát tiến nửa răng trong một xung lực ngắn có giảm tốc êm, rồi khóa lại;
+mọi bánh còn lại nhích đúng theo tỷ số truyền của bánh thoát;
+kim giây nhảy 8 lần mỗi giây; kim phút và kim giờ chuyển động theo train.
+Khi tải trang, đặt kim theo giờ địa phương của người xem.
+
+Năng lượng: mức dự trữ khoảng 44 giờ, giảm theo thời gian thực. Biên độ giảm từ 290° xuống 180° khi cót cạn; ở mức 0, đồng hồ dừng và bánh cân bằng lắng dần thay vì đứng khựng.
+Lên cót sẽ tăng mức dự trữ, đi kèm chuyển động nhìn thấy được của bánh cóc và cò hãm cùng âm thanh click nhẹ (Web Audio, tắt tiếng cho đến lần tương tác đầu tiên của người dùng).
+
+Cơ cấu tiếp tục chạy ở mọi trạng thái bung tách: bánh răng quay giữa không trung, bánh cân bằng vẫn dao động và kim giây vẫn nhảy.
+BUNG TÁCH (điều khiển bằng thao tác cuộn, có các điểm dừng)
+Thao tác cuộn trang được ánh xạ thành giá trị tiến độ từ 0 đến 1, chia thành bảy chương. Mỗi chương chuyển êm vào một "điểm dừng" ổn định, tại đó thao tác cuộn tạm thời lắng lại (snap nhẹ, tuyệt đối không khóa cứng). Camera di chuyển mượt giữa các chương.
+Các chương:
+I. Vỏ: góc nhìn 3/4 phía trước, đồng hồ đang lắp ráp.
+II. Mặt số: kính và vành bezel nâng ra; kim và mặt số nâng lên.
+III. Bộ truyền: các bánh dưới mặt số tách rời.
+IV. Các cầu: đồng hồ lật lại để lộ mặt sau; nắp đáy nâng lên; các cầu và cầu giữ bánh cân bằng nâng lên, cùng các vít lơ lửng ngay phía trên lỗ vít.
+V. Train bánh răng: thùng cót, bánh trung tâm, bánh thứ ba và bánh thứ tư tản lên trên dọc theo trục riêng, như một bản vẽ kỹ thuật.
+VI. Bộ thoát: bánh thoát, càng gạt và bánh cân bằng tách ra thêm một khoảng, camera tiến gần.
+VII. Trái tim: góc nhìn macro vào bánh cân bằng và dây tóc đang dao động, với toàn bộ cột linh kiện bung tách ở phía sau.
+Mỗi linh kiện di chuyển theo một trục rõ ràng, chủ yếu là trục riêng của nó hoặc thẳng đứng lên khỏi bản máy. Các linh kiện thuộc cùng một cụm vẫn đi cùng nhau. Không linh kiện nào giao cắt trong quá trình bung tách và không linh kiện nào ra khỏi khung hình.
+Các đường dẫn mảnh dạng hairline, có nhãn viết hoa nhỏ và đầu chặn nhỏ, xuất hiện cho những linh kiện chính tại mỗi điểm dừng rồi mờ đi khi chuyển điểm dừng.
+INTERACTION
+Thao tác cuộn (con lăn, trackpad, vuốt cảm ứng) điều khiển quá trình bung tách.
+Kéo trên vùng trống để xoay đồng hồ trong giới hạn cho phép; khi thả, đồng hồ chuyển êm về vị trí ban đầu.
+Di chuột lên một linh kiện sẽ viền sáng nhẹ và hiển thị tên linh kiện.
+Nhấp vào một linh kiện:linh kiện đó được làm nổi bật, các linh kiện khác giảm sáng còn khoảng 35% và camera chuyển êm để lấy trọn linh kiện;
+một thẻ thông tin mở bên cạnh, nối với linh kiện bằng đường dẫn hairline. Thẻ hiển thị: tên; vai trò trong một hoặc hai câu dễ hiểu; một thông tin chính xác (ví dụ: "Bánh thoát · 20 răng · một vòng mỗi 5 giây"); và một giá trị trực tiếp (tốc độ, góc hiện tại hoặc tổng số nhịp đã thực hiện).
+Nhấn Esc, nút đóng hoặc nhấp vào vùng trống để quay lại.
+
+Kéo núm chỉnh giờ theo chiều ngang để lên cót (cảm giác như cơ cấu bánh cóc), khi núm đang hiển thị.
+Bắt sự kiện con trỏ, chuột và cảm ứng. Chọn đối tượng bằng một lượt render object-ID hoặc phép kiểm tra tia chính xác; không dùng hình cầu bao quanh gần đúng.
+KẾT XUẤT (kim loại chân thực, cảm giác nhiếp ảnh macro — không hoạt hình)
+Vật liệu PBR, cùng môi trường studio tạo theo quy trình (hộp softbox lớn, đèn dải và nguồn sáng bù ấm, mờ) để tạo phản xạ.
+Bề mặt hoàn thiện:các sọc Côtes de Genève trên cầu (specular chải bất đẳng hướng, căn theo hướng sọc);
+perlage (vân tròn) trên bản máy;
+các cạnh vát đánh bóng gương (anglage) bắt sáng mạnh ở mép;
+vít và kim nung xanh bằng hiệu ứng màng mỏng;
+chân kính ruby đỏ trong mờ với ánh lấp lánh bên trong;
+các linh kiện thép mạ rhodium;
+kính sapphire với phản xạ xanh lam tím nhạt và độ dày nhẹ ở cạnh.
+
+Vỏ sử dụng màu vàng đã chọn.
+Điểm nhấn: bloom có kiểm soát chỉ trên vùng specular nổi bật; các tia lấp lánh nhỏ trên chân kính và cạnh đánh bóng xuất hiện khi ánh sáng hoặc đồng hồ chuyển động. Sang trọng, không lấp lánh quá mức.
+Bóng tiếp xúc mềm, ambient occlusion nhẹ và độ sâu trường ảnh tinh tế bám theo linh kiện đang lấy nét.
+Tone mapping kiểu phim, không làm cháy vùng sáng; 4x MSAA hoặc tương đương.
+Nền: trắng sứ nhạt với vignette mềm, như một studio chụp ảnh liền mạch. Không ngả vàng, không màu kem.
+GIAO DIỆN (quý phái, mang tính biên tập, nhiều khoảng trắng)
+Phông chữ: "Bodoni Moda" cho tiêu đề và chữ số, "Jost" cho văn bản giao diện (Google Fonts, có font serif và sans-serif dự phòng). Nhãn viết hoa nhỏ với tracking 0.16em; chữ số dạng bảng.
+Màu sắc:màu mực #1B1A17 trên nền sứ;
+đường hairline 1px ở mức 15% màu mực;
+màu nhấn theo màu vàng đã chọn.
+
+Không dùng gradient trên thành phần giao diện, không đổ bóng nặng, không emoji.
+Góc trên bên trái: kicker "OBJECTS, OPENED / NO. 01";
+tiêu đề Bodoni lớn trên hai dòng, "Time," / "Undone.";
+ba dòng chú thích in nghiêng bằng Bodoni: "Lên cót bằng tay." "Bung tách bằng thao tác cuộn." "Không gì bị che giấu."
+
+Góc trên bên phải: trạng thái "WEBGPU · LIVE" kèm một chấm nhỏ.
+Cạnh trái, căn giữa theo chiều dọc: mục lục chương "I. Vỏ", "II. Mặt số", "III. Bộ truyền", "IV. Các cầu", "V. Train bánh răng", "VI. Bộ thoát", "VII. Trái tim". Chương hiện tại được làm nổi bật bằng một đường tiến độ hairline; nhấp vào chương để cuộn đến chương đó.
+
+Panel bên phải "BỘ MÁY":ba preset vỏ: Vàng trắng, Vàng vàng, Vàng hồng, kèm các ô màu kim loại nhỏ;
+các chỉ số trực tiếp: Tần số dao động "28.800 vph", Mức dự trữ năng lượng (giờ, kèm thanh mảnh), Biên độ (°), Số nhịp kể từ khi mở;
+các nút "Lên cót" và "Đặt theo giờ địa phương";
+các checkbox "¼ tốc độ" và "Theo dõi dòng năng lượng". Tính năng theo dõi dòng năng lượng tạo một vệt sáng chậm chạy dọc theo đường truyền năng lượng: dây cót chính → thùng cót → bánh trung tâm → bánh thứ ba → bánh thứ tư → bánh thoát → càng gạt → bánh cân bằng, trong đó mỗi linh kiện phát sáng khi vệt sáng đi qua;
+một nút Tạm dừng/Tiếp tục.
+
+Gợi ý ở góc dưới bên trái: "Cuộn để tháo rời. Nhấp vào bất kỳ linh kiện nào để khám phá. Kéo để xoay."
+Góc dưới bên phải: mục "Cách hoạt động" có thể thu gọn, giải thích ngắn gọn và chính xác về train bánh răng, bộ thoát, bánh cân bằng và mức dự trữ năng lượng, cùng một ghi chú ngắn về cách trang này kết xuất chúng.
+Trên thiết bị di động: canvas chiếm khoảng 65% phía trên màn hình và mục lục chương chuyển thành một hàng ngang gồm các chữ số La Mã. Panel nằm bên dưới; thẻ linh kiện chuyển thành bottom sheet. Không thành phần nào che khuất đồng hồ.
+ENGINEERING
+Tạo toàn bộ hình học một lần khi khởi động. Dùng instancing cho các linh kiện lặp lại (vít, chân kính và răng khi phù hợp). Mỗi frame chỉ cập nhật transform; không biên dịch shader hoặc xây dựng lại buffer trong lúc tương tác.
+Thời gian animation lấy từ một đồng hồ duy nhất, có hệ số tốc độ ¼. Tạm dừng sẽ đóng băng cơ cấu, không phải giao diện.
+Tôn trọng prefers-reduced-motion: chuyển chương tức thì, không bay camera, không animation lấp lánh.
+Nếu không có WebGPU, hiển thị lời giải thích rõ ràng và được thiết kế chỉn chu. Không dùng trình kết xuất fallback giả.
+Xử lý mất thiết bị. Giới hạn pixel ratio ở mức 2. Hướng đến 60 fps trên laptop và trải nghiệm mượt trên điện thoại đời mới.
+KIỂM ĐỊNH TRƯỚC KHI BÀN GIAO
+Trong mã, assert các tỷ số truyền: kim giây quay một vòng mỗi 60 giây, kim phút một vòng mỗi 3600 giây, kim giờ một vòng mỗi 12 giờ và bánh thoát một vòng mỗi 5 giây. Ghi kết quả kiểm tra vào console.
+Mọi cặp bánh răng ăn khớp đều phải có khoảng cách tâm chính xác và nhìn thấy rõ trạng thái ăn khớp khi lắp ráp.
+Không linh kiện nào giao cắt với linh kiện khác ở bất kỳ mức tiến độ bung tách nào; không xảy ra z-fighting.
+Các điểm dừng khi cuộn, chuyển chương, chọn linh kiện, thẻ thông tin, lên cót, preset, theo dõi dòng năng lượng, tạm dừng, tốc độ ¼ và bố cục di động đều phải hoạt động.
+Nội dung thẻ phải chính xác về mặt thuật ngữ và cơ chế đồng hồ.
+Không có lỗi trong console.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105009377002299711) · [Bài đăng gốc](https://x.com/theparuchh/status/2105009470292013286) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2105027152617918852"></a>
+
+### Mô hình F-22 Raptor chân thực và video bay trong Godot
+
+[Demetrius Greses Jr](https://x.com/dgresesjr) · 2026-09-29
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105027152617918852"><img src="../assets/previews/53069c8ca05cdb52390b64d16519e81e5b77f7970af70c6a2e87fa2827406239.jpg" width="840" loading="lazy" alt="Mô hình F-22 Raptor chân thực và video bay trong Godot"></a>
+
+Prompt so sánh yêu cầu tạo mô hình 3D chân thực của Lockheed Martin F-22 Raptor, sau đó tạo video MP4 dài 60 giây ghi lại máy bay bay trong Godot để đăng lên X. Bài đăng gốc liệt kê 6 Astra trong số các mô hình được so sánh.
+
+**Prompt**
+
+```text
+Sử dụng Blender MCP. Hãy tạo cho tôi một mô hình 3D chân thực của Lockheed Martin F-22 Raptor (chỉ phiên bản Mỹ). Sau đó tạo video MP4 dài 60 giây về máy bay này bay trong Godot để tôi có thể đăng lên X.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105027152617918852) · [Bài đăng gốc](https://x.com/dgresesjr/status/2105027152617918852) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2105047166733746209"></a>
+
+### Cảnh phóng tên lửa chân thực như phim điện ảnh
+
+[Matthew Lebo](https://x.com/MatthewLebo_) · 2026-09-29
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105047166733746209"><img src="../assets/previews/8b297757174c79e883f61638f18822d20b93a44443582f60d59fc89779687a41.jpg" width="840" loading="lazy" alt="Cảnh phóng tên lửa chân thực như phim điện ảnh"></a>
+
+Prompt có thể tái sử dụng do tác giả bài đăng chia sẻ, sử dụng cùng một nội dung đầu vào chính xác để so sánh GPT-Astra, GPT-6.1-Sol và Claude Opus 5.5. Prompt yêu cầu xây dựng cảnh phóng tên lửa 3D mang phong cách điện ảnh, chân thực như ảnh và có kết cấu bề mặt bằng Three.js.
+
+**Prompt**
+
+```text
+Xây dựng một cảnh phóng tên lửa 3D mang phong cách điện ảnh, chân thực như ảnh và có kết cấu bề mặt đẹp mắt bằng Three.js
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105047166733746209) · [Bài đăng gốc](https://x.com/MatthewLebo_/status/2105047166733746209) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2105278999861526953"></a>
+
+### Bản render Blender của cầu Golden Gate
+
+[EvoLink.ai](https://x.com/EvoLinkAi) · 2026-09-30
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105278999861526953"><img src="../assets/previews/6784455d747367e9776ffa07c75661a0751b892423d15d910c2f57a886a08447.jpg" width="840" loading="lazy" alt="Bản render Blender của cầu Golden Gate"></a>
+
+Prompt benchmark do EvoLink.ai chia sẻ để render cầu Golden Gate trong Blender. Prompt này mô tả góc nhìn cực thấp từ vịnh San Francisco, khung cảnh buổi sáng phủ sương, các tháp giàn thép phức tạp, phương tiện giao thông trên cầu được thể hiện chi tiết và những mũi đất ven biển gồ ghề.
+
+**Prompt**
+
+```text
+Bản render Blender của cầu Golden Gate. Góc quay bao quát, cực thấp từ mặt vịnh San Francisco, hướng lên các tháp giàn thép đồ sộ và phức tạp vươn xuyên qua bầu trời buổi sáng phủ sương. Mặt cầu rộng trải dài qua toàn bộ nhịp cầu, với vô số phương tiện nhỏ được thể hiện chi tiết, làm nổi bật quy mô hùng vĩ, bề thế của cây cầu giữa những mũi đất ven biển gồ ghề.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105278999861526953) · [Bài đăng gốc](https://x.com/EvoLinkAi/status/2105279002793345069) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2105298955307303100"></a>
+
+### Tạo nhân vật Minion 3D trong Blender
+
+[EvoLink.ai](https://x.com/EvoLinkAi) · 2026-09-30
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105298955307303100"><img src="../assets/previews/faa243bd67b442c652339eb4c1b327f0a62cc4eb193d64de9a8ec4c8b99fbfcb.jpg" width="840" loading="lazy" alt="Tạo nhân vật Minion 3D trong Blender"></a>
+
+Prompt của tác giả đã được xác minh, dùng làm bài kiểm tra tạo nhân vật 3D trong Blender cho GPT-6.1 Sol, Sonnet 5.5 và GPT-6 Astra. Prompt yêu cầu một script bpy có thể thực thi để dựng nhân vật phong cách Minion với vật liệu, các thành phần đối xứng, ánh sáng studio và video turntable hình vuông dài năm giây.
+
+**Prompt**
+
+```text
+Viết một script Python hoàn chỉnh, có thể thực thi, sử dụng module bpy của Blender để tạo nhân vật Minion 3D, thiết lập hoạt ảnh camera quay turntable 360 độ và render video 5 giây với tỷ lệ 1:1.
+Thông số hoạt ảnh & render:
+
+Tốc độ khung hình & thời lượng: Đặt tốc độ khung hình là 30 fps và phạm vi render từ frame 1 đến 150 (chính xác 5 giây).
+Tỷ lệ khung hình: Đặt độ phân giải render là 1080x1080 pixel (tỷ lệ vuông 1:1).
+Hoạt ảnh camera turntable: Tạo hoạt ảnh cho camera (hoặc một đối tượng empty điều khiển được parent vào camera) để thực hiện chuyển động xoay 360 độ liền mạch quanh Minion trong 150 frame.
+Đặt phép nội suy keyframe là LINEAR để bảo đảm chuyển động xoay mượt và có tốc độ không đổi.
+
+Cài đặt đầu ra: Đặt định dạng đầu ra thành video FFmpeg (H.264 / container MP4).
+Yêu cầu kỹ thuật & cấu trúc mô hình:
+Thân chính: Tạo một mesh dạng viên nang cho thân chính (vật liệu màu vàng, subsurface scattering/độ nhám khoảng 0.3).
+Thêm các sợi tóc đen mảnh, thưa trên đỉnh đầu.
+
+Kính & mắt: Dựng kính hai tròng bằng các cylinder/torus được extrude.
+Vật liệu gọng kính: Metallic (~0.9), Roughness (~0.2) để mô phỏng nhôm/kim loại xước.
+Thêm dây đeo co giãn màu đen quấn quanh thân.
+Tạo hai mesh nhãn cầu bên trong gọng kính (lòng trắng, mống mắt nâu, đồng tử bóng).
+
+Trang phục - yếm: Dựng yếm denim bằng hình học mesh riêng hoặc các phần thân được extrude.
+Vật liệu: Màu denim xanh, độ nhám cao hơn (~0.6).
+Bao gồm dây đeo vai và túi trước ở ngực.
+
+Chi & chi tiết: Thêm tay và chân với bàn tay đeo găng đen cùng giày đen.
+Sử dụng Mirror Modifier (bpy.ops.object.modifier_add(type='MIRROR')) khi phù hợp (ví dụ: mắt, gọng kính, tay, dây đeo, chân) để bảo đảm tính đối xứng và code gọn gàng.
+
+Ánh sáng & scene: Thiết lập hệ thống chiếu sáng ba điểm (Key, Fill, Rim), parent vào camera hoặc bố trí đồng đều để ánh sáng nhất quán trong suốt quá trình xoay.
+Đặt render engine là Cycles hoặc Eevee với phông nền studio sạch.
+Bảo đảm mọi vật liệu đều được tạo bằng Nodes (use_nodes = True).
+
+CHỈ trả về code Python hợp lệ bên trong một khối markdown, không kèm văn bản hoặc phần giải thích markdown nào khác.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105298955307303100) · [Bài đăng gốc](https://x.com/EvoLinkAi/status/2105298964027265295) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2105323534398763307"></a>
+
+### Tái tạo cảnh trong Isaac Sim
+
+[Charles Wong](https://x.com/charleswongzx) · 2026-09-30
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105323534398763307"><img src="../assets/previews/fa08d494a2ded6a2b2e603413d0329a12a3cac84d96a354791280ad5b2434979.jpg" width="840" loading="lazy" alt="Tái tạo cảnh trong Isaac Sim"></a>
+
+Prompt tái tạo cảnh đính kèm trong Isaac Sim để đánh giá chính sách thao tác, không sử dụng Manifold.
+
+**Prompt**
+
+```text
+Tái tạo cảnh này trong Isaac Sim nhằm đánh giá chính sách thao tác. Không sử dụng Manifold.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105323534398763307) · [Bài đăng gốc](https://x.com/charleswongzx/status/2105323534398763307) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Phòng thủ xe tăng vô tận
@@ -4254,7 +4314,7 @@ Bàn giao mã nguồn, lockfile, lệnh npm phát triển/build và đầu ra t�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 302 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 308 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

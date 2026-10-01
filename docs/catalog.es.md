@@ -28,7 +28,7 @@
 **Un punto de partida para tu próximo juego, escena o mundo interactivo.**
 
 
-**302 · Últimos prompts de Astra**
+**308 · Últimos prompts de Astra**
 
 ## Proyectos destacados
 
@@ -50,15 +50,9 @@
 <details>
 <summary>Explorar ejemplos</summary>
 
-- [Atlas 3D interactivo de la cabeza y el cerebro humanos](#2098105648106078541) · GitHub
 - [Atlas de Chernóbil](#2098841316591346006) · GitHub
 - [Explorador interactivo de anatomía en 3D](#2099206962344800541) · GitHub
 - [Demo de gráficos de fantasía isométrica](#2100271998618177864) · GitHub
-- [Animación de una academia mágica flotante](#2098071577309122854)
-- [Vuelo de un transbordador en modelo blanco por un cañón urbano](#2098079379297608050)
-- [Animación fantástica de un espadachín destruyendo una puerta monumental](#2098094339759149067)
-- [Demostración interactiva en 3D de una mano robótica que toca el piano](#2098109252720078891)
-- [Nave civil de mensajería inicial de Sol Horizon](#2098225609558335846)
 - [Generación automática y transferencia UV de texturas de cabello y rostro para modelos de personajes](#2098367087475577273)
 - [Escena de maqueta 3D en miniatura de un templo](#2098403061463224543)
 - [Figura 3D de una niña jugando con un robot](#2098406473273663992)
@@ -144,6 +138,12 @@
 - [Paseo interactivo en barca por la jungla bajo la luz de la luna](#2104613125093998674)
 - [Coche deportivo transformable con vista explosionada de rayos X](#2104654448878387313)
 - [Ojo humano 3D con gran nivel de detalle](#2104841727496323479)
+- [El tiempo, desmontado.](#2105009377002299711)
+- [Modelo realista del F-22 Raptor y vídeo de vuelo en Godot](#2105027152617918852)
+- [Escena cinematográfica fotorrealista de lanzamiento de un cohete](#2105047166733746209)
+- [Render en Blender del puente Golden Gate](#2105278999861526953)
+- [Crea un personaje 3D estilo Minion en Blender](#2105298955307303100)
+- [Recrear una escena en Isaac Sim](#2105323534398763307)
 - [Battle City 3D: Defensa de tanques sin fin](#battle-city-3d)
 - [Crazy Tanks — Artillería 3D en una isla](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Juego de supervivencia con armas extrañas](#odd-arms)
@@ -152,53 +152,6 @@
 - [La isla del cíclope](#cyclops-island-threejs-game)
 
 </details>
-
-<a id="2098105648106078541"></a>
-
-### Atlas 3D interactivo de la cabeza y el cerebro humanos
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098105648106078541"><img src="../assets/previews/1251cdb60d51985d09d2870c9866d104d26bf152875bc50a1c46eb047a11be63.jpg" width="840" loading="lazy" alt="Atlas 3D interactivo de la cabeza y el cerebro humanos"></a>
-
-Prompt reutilizable recomendado por el autor para crear un atlas anatómico interactivo de la cabeza y el cerebro. Solicita mallas anatómicas con licencia, exploración por capas, herramientas de inspección, planos de recorte, vistas explosionadas y una aplicación HTML independiente que funcione sin conexión.
-
-**Prompt**
-
-```text
-Crea un atlas 3D interactivo completo de la cabeza y el cerebro humanos. Entrega una aplicación funcional, no una maqueta. Toma decisiones razonables de forma independiente, implementa la aplicación, pruébala y verifica visualmente el resultado.
-
-Usa Three.js y mallas reales de Z-Anatomy / BodyParts3D con las licencias adecuadas. Incluye el cráneo, los dientes, los músculos faciales, el cerebro, los ojos, los nervios craneales, las arterias, las venas y las membranas de soporte disponibles. Conserva sus relaciones anatómicas originales. Intenta incluir cientos de estructuras seleccionables individualmente, indica el número real de elementos importados y conserva la atribución de las fuentes.
-
-Crea una interfaz limpia y clara, con fondo gris pálido, paneles blancos redondeados, detalles en azul grisáceo sobrios y tipografía legible. Mantén el modelo grande, con un panel de estructuras a la izquierda, herramientas de cámara a la derecha, búsqueda en la parte superior y un control deslizante de despiece debajo. Usa inglés en todo momento.
-
-Haz que la anatomía se pueda explorar progresivamente:
-Cabeza → sistema → región → estructuras individuales con nombre.
-Por ejemplo: Cerebro → Cerebro propiamente dicho → Hemisferio izquierdo → Lóbulo frontal → estructuras individuales.
-
-Anima el montaje y el desmontaje. Conserva las posiciones de origen al montar el modelo; organiza los grupos desmontados en disposiciones claramente separadas y con etiquetas legibles. Indica la escala normalizada y pagina las colecciones grandes.
-
-Incluye:
-- Rotación libre, zoom con rueda o pellizco y preajustes de cámara.
-- Control deslizante de desmontaje y control con Mayús + rueda.
-- Interruptores de visibilidad independientes para grupos y piezas individuales.
-- Opacidad de grupos, deshacer, restaurar todo y restablecer.
-- Búsqueda anatómica, inspección al hacer clic, enfoque, aislamiento y navegación al elemento principal.
-- Modos de colores anatómicos, porcelana, estructura alámbrica y transparencia.
-- Planos de recorte sagital, axial y coronal ajustables, con inversión de la dirección.
-- Etiquetas, exploración automática, pantalla completa y exportación a PNG.
-- Un recorrido guiado desde la cabeza completa hasta el cerebro y sus redes.
-
-Mantén ocultas las estructuras ocultas aunque cambien la disposición y los materiales. Explica que los planos de recorte generan cortes abiertos para visualización, no exploraciones médicas. No inventes elementos anatómicos ni afirmes que existe validación clínica.
-
-Entrega un archivo HTML independiente que contenga la aplicación y la geometría procesada, y que funcione sin conexión y sin servidor. Proporciona también archivos fuente limpios, dependencias fijadas, un archivo de bloqueo, scripts de compilación portátiles, un README en inglés y las licencias y atribuciones necesarias. Excluye credenciales, rutas del equipo local, dependencias y archivos no relacionados.
-
-Prueba la integridad de la geometría, la pertenencia a la jerarquía, la visibilidad, las funciones de deshacer y la separación de los elementos en la disposición. Inspecciona la aplicación en ejecución en un navegador, prueba los controles, comprueba que no haya errores en la consola y corrige las superposiciones visuales antes de entregarla.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098105648106078541) · [Publicación original](https://x.com/k1rallik/status/2098105648106078541) · [Código fuente](https://github.com/bubblik525/head) · [Volver a los ejemplos](#all-prompts)
-
----
 
 <a id="2098841316591346006"></a>
 
@@ -274,150 +227,6 @@ Crea una demo gráfica: cámara isométrica, estilo artístico tipo vóxel con s
 ```
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100271998618177864) · [Publicación original](https://github.com/achimala/dream-loop) · [Código fuente](https://github.com/achimala/dream-loop) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2098071577309122854"></a>
-
-### Animación de una academia mágica flotante
-
-[PixVerse](https://x.com/PixVerse) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098071577309122854"><img src="../assets/previews/9b408ceb1b603f7a12e8bc7b5d7626551da9f3e0b153f574d2f694a1edc9cba4.jpg" width="840" loading="lazy" alt="Animación de una academia mágica flotante"></a>
-
-Crea en Blender una animación de 12 segundos con un modelo blanco que muestre una entrada monumental, un vuelo a través de una cerradura, un instrumento astronómico y una academia flotante; después, usa PixVerse para renderizarla como una secuencia cinematográfica de fantasía. Los entregables solicitados incluyen ambos archivos MP4 y un proyecto editable de Blender.
-
-**Prompt**
-
-```text
-Crea en Blender una animación de 12 segundos, en una sola toma, con un modelo blanco y, después, usa @PixVerse para transformar la animación exportada en una espectacular secuencia cinematográfica de fantasía con aspecto de acción real.
-
-En Blender, construye una entrada monumental, un instrumento astronómico giratorio y una vasta academia mágica flotante. Usa geometría blanca o gris claro, con siluetas fáciles de reconocer y una iluminación básica. Muestra la puerta de entrada completa al principio, rodeada de muros sólidos que oculten por completo el mundo que hay detrás. Dale a la puerta una cerradura pequeña y de proporciones realistas. Más allá de la entrada, distribuye un gran castillo central, torres, islas flotantes más pequeñas y puentes que las conecten. Establece una escala arquitectónica impresionante y deja amplias distancias entre las estructuras.
-
-Comienza con un acercamiento lento hacia la puerta; después, acelera bruscamente y atraviesa la cerradura de forma continua. Anima una llave flotante que gire y se aparte antes de que pase la cámara. Continúa a través de anillos astronómicos que giren rápidamente, revela la academia flotante y pasa a una órbita fluida alrededor de la arquitectura. Haz que las islas cercanas asciendan rápidamente y que las secciones de los puentes giren hasta encajar en su lugar. Mantén los movimientos de los objetos enérgicos y decididos. La órbita debe avanzar de forma continua, con cambios de velocidad suaves y sin pausas repetidas. Comprueba el paso por la cerradura, el espacio libre para la cámara, la continuidad espacial y el movimiento a velocidad de reproducción normal.
-
-Exporta el MP4 limpio de 12 segundos con el modelo blanco. Después, usa @PixVerse para generar un video de 12 segundos renderizado con IA, utilizando la animación de Blender como referencia flexible de estructura y movimiento. Conserva la progresión reconocible desde el acercamiento a la puerta hasta el paso por la cerradura, el instrumento astronómico, la revelación de la academia y la órbita, pero enriquece libremente el mundo y la puesta en escena cinematográfica.
-
-Convierte la academia en una ciudad flotante inmensa y antigua: un castillo central rodeado de distritos, bibliotecas, observatorios, patios, tejados superpuestos, enormes puentes de piedra y cascadas que se precipiten entre las nubes. Amplía el entorno con valles boscosos, lagos, montañas lejanas e islas flotantes adicionales. Añade peatones diminutos, naves voladoras, banderas ondeando, aves y actividad atmosférica para transmitir la escala. Durante la parte final de la órbita, haz que un dragón enorme emerja de las nubes detrás de la academia y se deslice junto a las torres, proyectando una sombra en movimiento sobre la ciudad.
-
-Busca la riqueza visual de un largometraje de fantasía de acción real, con materiales desgastados, una luz dorada y suave que atraviese nubes frías, profundidad atmosférica natural y sutiles brillos fotográficos. Incluye música orquestal original y sonidos ambientales y de acción sincronizados.
-
-Entrega el MP4 con el modelo blanco, el MP4 renderizado con IA en PixVerse y el proyecto editable de Blender.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098071577309122854) · [Publicación original](https://x.com/PixVerse/status/2098071577309122854) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2098079379297608050"></a>
-
-### Vuelo de un transbordador en modelo blanco por un cañón urbano
-
-[PixVerseCreators](https://x.com/PixVerseCreator) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098079379297608050"><img src="../assets/previews/cd71fb962eb01f16094187f0998f65959e3a74f648b0c98dfd8aab0c9253ddb4.jpg" width="840" loading="lazy" alt="Vuelo de un transbordador en modelo blanco por un cañón urbano"></a>
-
-Animación de Blender de 10 segundos, rodada en un único plano, en la que un transbordador original vuela a velocidad extrema por un cañón urbano denso; renderizada con PixVerse a partir de referencias de Blender.
-
-**Prompt**
-
-```text
-Crea en Blender un vuelo de 10 segundos, en un único plano, de un transbordador en modelo blanco. Diseña un transbordador original y un cañón urbano denso que se extienda durante varios kilómetros. Anima un vuelo hacia delante a velocidad extrema por una ruta prolongada, recorriendo más de dos kilómetros sin reducir la velocidad. Desplázate entre huecos estrechos y por debajo de puentes, cambia de altitud y ejecuta dos toneles suaves en direcciones opuestas. Haz que la velocidad resulte inconfundible: los edificios cercanos deben pasar rápidamente hacia atrás, los puentes deben cruzar velozmente por encima y las estructuras del primer plano deben barrer los bordes del encuadre. Aplica un desenfoque de movimiento direccional intenso al entorno, manteniendo el transbordador claramente visible. Los obstáculos densos, los pasos a corta distancia y un paralaje marcado entre el primer plano y el fondo deben transmitir un vuelo sostenido a máxima potencia. Usa una cámara de persecución fluida y gran angular, situada cerca detrás del transbordador y ligeramente por encima, avanzando a la misma velocidad. Mantén el morro orientado hacia el interior de la ciudad y los motores orientados hacia la cámara. No incluyas cortes, sacudidas de cámara, toneles de cámara, cámara lenta ni desaceleración al final. Comprueba la distancia de seguridad, la continuidad del movimiento y la sensación de velocidad a velocidad de reproducción normal. Usa PixVerse para renderizar la animación final en modelo blanco a partir de referencias de Blender, conservando la velocidad extrema, la trayectoria de vuelo y el movimiento de cámara. Entrega el MP4 final, el proyecto editable de Blender y unas notas breves sobre las limitaciones.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098079379297608050) · [Publicación original](https://x.com/PixVerseCreator/status/2098079379297608050) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2098094339759149067"></a>
-
-### Animación fantástica de un espadachín destruyendo una puerta monumental
-
-[PixVerse](https://x.com/PixVerse) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098094339759149067"><img src="../assets/previews/ca8a46498d2bcd9c4215ea347c01a1b03d81d9b98d7c5a53514c4d118628bc29.jpg" width="840" loading="lazy" alt="Animación fantástica de un espadachín destruyendo una puerta monumental"></a>
-
-Crea en Blender una animación de acción de 12 segundos con un modelo blanco de un espadachín que destruye una puerta monumental, y luego transfórmala en una secuencia de película fantástica animada con estética pictórica, una fortaleza montañosa, estructuras que se derrumban, una vista aérea reveladora, música y sonido sincronizado.
-
-**Prompt**
-
-```text
-Crea en Blender una animación de acción de 12 segundos con un modelo blanco y, después, usa @PixVerse para transformar la animación exportada en una espectacular secuencia de película fantástica animada para público adulto.
-
-En Blender, construye un espadachín articulado sencillo, una espada y su vaina, una enorme plataforma de piedra elevada y una puerta gigantesca con pilares alrededor. Usa geometría blanca o gris claro y una iluminación básica. Da prioridad a una acción fácil de leer, proporciones convincentes y un contraste marcado entre el personaje pequeño y la arquitectura monumental. Representa la onda de energía de la espada con una forma curva animada sencilla y divide la puerta en piezas que puedan separarse y caer de forma visible.
-
-Comienza con la cámara cerca del espadachín mientras desenvaina el arma y concentra su fuerza brevemente. Alrededor del segundo 2, anima un tajo extremadamente rápido y decisivo, impulsado por los pies, las caderas, el torso y los brazos. Libera una onda visible de energía con forma de media luna que atraviese el espacio y golpee la puerta. Haz que la sección superior de la puerta se deslice a lo largo del corte, pierda su apoyo y se derrumbe con una aceleración y un contacto con el suelo claramente perceptibles. Después del golpe, haz que el espadachín se recupere de forma natural, envainando la espada, enderezándose y relajando los brazos.
-
-A medida que se desarrolla el ataque, aleja la cámara hacia atrás y hacia arriba con un movimiento continuo y fluido. Sigue ascendiendo de forma espectacular hasta que el final se convierta en una vista aérea extremadamente alta y casi vertical de toda la plataforma y el terreno circundante. El personaje puede llegar a ser demasiado pequeño para distinguirlo. Mantén la acción rápida y una poderosa sensación de escala creciente, en lugar de detenerte en la pose del ataque. Comprueba el movimiento corporal, la continuidad del arma, el desplazamiento de la onda de energía, el derrumbe de la puerta y el movimiento de la cámara a velocidad de reproducción normal.
-
-Exporta el MP4 limpio de 12 segundos con el modelo blanco. Después, usa @PixVerse para generar un video de 12 segundos renderizado con IA, utilizando la animación de Blender como referencia flexible para la composición, la progresión de la acción y el ascenso de la cámara. Conserva la secuencia esencial de preparación, tajo, onda de energía en desplazamiento, destrucción de la puerta, envainado y vista aérea extrema, permitiendo al mismo tiempo una amplia expansión cinematográfica.
-
-Crea una estética de película animada pictórica y adulta, combinando formas expresivas, superficies pintadas a mano, un volumen tridimensional convincente y una iluminación cinematográfica suave. Dale al espadachín adulto una silueta distintiva, un abrigo rojo vino, una armadura sobria y una determinación serena. Amplía el escenario hasta convertirlo en una fortaleza montañosa inmensa, con murallas superpuestas, torres, puentes, desfiladeros profundos y una ciudad extendida más allá.
-
-Convierte la onda de energía de la espada con forma de media luna en un acontecimiento visual central. Debe atravesar la puerta y continuar hasta las fortificaciones lejanas, provocando una cadena claramente legible de estructuras que se derrumban, nubes de polvo, chispas, fuego y ondas de presión. Cuando la cámara alcance una altitud extrema, revela el recorrido completo del ataque por el campo de batalla, con el espadachín de pie y en silencio en su origen. Usa sombras atmosféricas frías, contrastadas con una energía ámbar cálida y destellos de fuego dispersos. Incluye música cinematográfica original y sonidos sincronizados de la espada, los impactos, los derrumbes, el viento y la ciudad lejana.
-
-Entrega el MP4 del modelo blanco, el MP4 renderizado con IA en PixVerse y el proyecto editable de Blender.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098094339759149067) · [Publicación original](https://x.com/PixVerse/status/2098094339759149067) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2098109252720078891"></a>
-
-### Demostración interactiva en 3D de una mano robótica que toca el piano
-
-[MSB](https://x.com/KeWai386772) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098109252720078891"><img src="../assets/previews/0da92a87e2cfefd4088b226ccf8d5e8dbd5b9938d4a76f0104f7fbdffd12c3fa.jpg" width="840" loading="lazy" alt="Demostración interactiva en 3D de una mano robótica que toca el piano"></a>
-
-Demostración interactiva en 3D basada en navegador de una mano robótica de cinco dedos que toca un piano miniatura de 25 teclas, con contacto causal entre los dedos, movimiento de las teclas, planificación basada en MIDI, audio, vistas de cámara y diagnósticos del rendimiento.
-
-**Prompt**
-
-```text
-Crea una demostración completa basada en navegador de una mano robótica detallada de cinco dedos que toque un piano miniatura. El movimiento visible de los dedos, el recorrido físico de las teclas, las notas generadas y la sincronización musical deben estar conectados causalmente. Entrega una aplicación interactiva y visualmente pulida dentro del límite de tiempo del evaluador.
-
-1. EXPERIENCIA: Usa una escena 3D a pantalla completa con una mano robótica modelada con precisión, dedos articulados, mecanismos visibles en la muñeca y un teclado de 25 teclas que abarque las notas MIDI 60 a 84. Muestra una geometría realista para las teclas negras y blancas, movimiento independiente de cada tecla, almohadillas en las yemas de los dedos y materiales refinados. Incluye cámaras cenital, lateral del intérprete y de primer plano de las yemas de los dedos. Proporciona audio sincronizado después de que el usuario active la reproducción.
-
-2. ENTRADA MUSICAL COMÚN: Usa los números de nota MIDI como fuente de verdad. A 96 BPM, reproduce estos eventos, expresados como (tiempo de inicio en pulsos, nota, duración en pulsos): (0,60,0.4), (0.5,64,0.4), (1,67,0.4), (1.5,64,0.4), (2,62,0.4), (2.5,65,0.4), (3,69,0.4), (3.5,65,0.4), (4,60,0.4), (4.5,60,0.4), (5,60,1), (5,64,1), (5,67,1). Los tres últimos eventos forman un acorde simultáneo. Admite también la importación de archivos MIDI estándar mediante un analizador establecido.
-
-3. CONTROL DE LA MANO: Modela dedos articulados de forma independiente y una muñeca móvil. Planifica la asignación de dedos alcanzables, los movimientos de aproximación, las pulsaciones, las pulsaciones mantenidas, las liberaciones, la articulación de notas repetidas y la ejecución de acordes. Los dedos deben entrar en contacto con las teclas correctas sin intersecar las teclas contiguas ni realizar saltos inverosímiles. Usa cinemática inversa y límites articulares. Muestra las asignaciones de dedos planificadas y permite inspeccionar manualmente cada movimiento.
-
-4. CAUSALIDAD DEL SONIDO: Genera eventos note-on únicamente cuando la tecla visible correspondiente atraviese un umbral de depresión documentado debido al contacto con un dedo. Genera note-off al liberar la tecla, con histéresis para evitar oscilaciones. Los eventos MIDI son objetivos de planificación, no una pista de reproducción de audio independiente. Es aceptable usar un mecanismo de teclas basado en contacto geométrico si se identifica explícitamente; también puede usarse una dinámica de contacto completa. Las teclas no deben moverse simplemente porque se haya programado un evento MIDI.
-
-5. SINCRONIZACIÓN: Usa un reloj musical coherente y registra con una marca de tiempo los eventos reales de activación de las teclas frente a los eventos objetivo. Ten en cuenta la programación del audio y la sincronización del renderizado. Expón controles para el tempo, la transposición, reproducir, pausar, reiniciar, repetir en bucle e inspeccionar a cámara lenta. Al pausar o reiniciar, libera correctamente las notas activas. Al ralentizar la reproducción, conserva la sincronización entre los dedos, las teclas y el audio.
-
-6. DIAGNÓSTICOS: Muestra en una línea de tiempo alineada las notas objetivo, los dedos planificados, las notas activadas realmente y los errores de tiempo de inicio. Informa de las notas omitidas, las notas adicionales, las alturas incorrectas, los fallos en las notas repetidas y las notas atascadas. Proporciona una superposición de inspección del contacto que indique qué yema está presionando cada tecla. Registra las pruebas necesarias para distinguir una planificación correcta de una animación aproximada de la mano.
-
-7. VERIFICACIÓN: Evalúa por separado la melodía, las notas repetidas y el acorde final. El objetivo es no tener notas incorrectas ni omitidas, mantener el error de inicio del percentil 95 por debajo de 50 ms y una dispersión de inicio del acorde final inferior a 50 ms. Informa de las mediciones reales incluso cuando no se alcancen los objetivos. Proporciona una prueba que desactive el accionamiento de los dedos: la puntuación puede seguir avanzando, pero las teclas que no se presionen no deben generar notas.
-
-8. ENTREGA: Usa Three.js, TypeScript, API de audio adecuadas y bibliotecas establecidas de análisis o cálculo numérico. Entrega la aplicación en funcionamiento, el código fuente, un recurso musical reproducible, los recursos o scripts de generación y las instrucciones de inicio. Verifica el audio del navegador, los controles, las vistas de cámara, la disposición para equipos de escritorio y móviles y la reproducción repetida. Todas las afirmaciones de rendimiento que se muestren deben proceder de un comportamiento medido.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098109252720078891) · [Publicación original](https://x.com/KeWai386772/status/2098109252720078891) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2098225609558335846"></a>
-
-### Nave civil de mensajería inicial de Sol Horizon
-
-[Jonathan Plumb — Spokane Valley](https://x.com/jonathanplumb) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098225609558335846"><img src="../assets/previews/8a672e63cd9fdbd2d4c5e721b2dc7576c34d9c37a023cb0edfe6a4d8a3bc6ce4.jpg" width="840" loading="lazy" alt="Nave civil de mensajería inicial de Sol Horizon"></a>
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098225609558335846"><img src="../assets/previews/57ae2f43a4ca798cfccd80c405c934bbdd10df6cb9738c29fd6ca1366dce9d2a.jpg" width="840" loading="lazy" alt="Nave civil de mensajería inicial de Sol Horizon"></a>
-
-Crea en Blender un modelo de la nave civil de mensajería inicial de Sol Horizon, listo para videojuegos, con un diseño modular de superficies duras fácil de reparar, objetos con nombres claros, geometría de colisión, orientación con el frente hacia Unity y exportación a FBX.
-
-**Prompt**
-
-```text
-En Blender, crea la nave civil de mensajería inicial de Sol Horizon. Debe verse usada, reparable, asequible y segura, no militar. Crea una cabina, una compuerta de carga, propulsores de maniobra visibles, un conjunto de motores principal y cuatro patas de aterrizaje. Usa un estilo modular de superficies duras, adecuado para futuras variantes. Mantén la malla principal de renderizado por debajo de 15.000 triángulos. Asigna nombres claros a los objetos, establece la dirección frontal para Unity, crea una geometría de colisión sencilla, aplica las transformaciones, guarda el archivo .blend y exporta un FBX listo para videojuegos. Muestra capturas de pantalla de la vista 3D para su aprobación antes de exportar.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098225609558335846) · [Publicación original](https://x.com/jonathanplumb/status/2098225609558335846) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -3843,6 +3652,257 @@ Crea un archivo local HTML/CSS/JS con Three.js. Haz un modelo 3D de un ojo human
 
 ---
 
+<a id="2105009377002299711"></a>
+
+### El tiempo, desmontado.
+
+[Paruchh](https://x.com/theparuchh) · 2026-09-29
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2105009377002299711"><img src="../assets/previews/ee95289365fb612e7b8bde2276b5c0744017b3bbe013b46a856b00cb4abd9ca2.jpg" width="840" loading="lazy" alt="El tiempo, desmontado."></a>
+
+Crea un reloj mecánico 3D interactivo y autónomo para WebGPU y WGSL. El Calibre 01 de cuerda manual, sin marca, incorpora un movimiento de áncora suizo definido mecánicamente, reserva de marcha en tiempo real, interacción de cuerda y una vista explosionada de siete etapas controlada mediante el desplazamiento, que sigue funcionando mientras está desmontado. Incluye inspección de piezas, controles de cámara, preajustes de caja de oro, validación técnica y una interfaz editorial inspirada en la macrofotografía.
+
+**Prompt**
+
+```text
+Crea «Time, Undone.»: un único archivo HTML autónomo (con JavaScript y CSS integrados) que ejecute un reloj mecánico 3D interactivo real con WebGPU + WGSL y se desmonte a medida que el usuario se desplaza por la página, sin dejar de funcionar. No uses bibliotecas de motores 3D; toda la geometría debe generarse mediante código. Este es el n.º 01 de una serie sobre objetos que todo el mundo ha visto por fuera y casi nadie por dentro.
+EL OBJETO
+Un reloj mecánico original, de cuerda manual y sin marca, con una caja redonda de 40 mm y un movimiento clásico de áncora suizo de unos 30 mm de diámetro.
+Distribución: horas y minutos centrales; subesfera de segundero pequeño a las 6; corona a las 3.
+Esfera: plateada opalina con un fino guilloché en rayos de sol, índices aplicados y pulidos, agujas dauphine y minutería ferroviaria.
+Caja: cristal de zafiro frontal y fondo visto, para que el movimiento sea visible por detrás.
+No incluyas nombres de marcas, logotipos ni nombres de calibres reales en ningún lugar. Llámalo «Calibre 01».
+EL MECANISMO (debe ser internamente correcto, no meramente decorativo)
+Frecuencia: 28.800 vph (volante a 4 Hz).
+Crea un tren de rodaje real con números de dientes coherentes: barrilete del muelle real de 96 dientes → piñón de centro de 12; la rueda de centro gira una vez por hora y mueve la aguja de minutos;
+rueda de centro de 80 → piñón de tercera de 10;
+rueda de tercera de 75 → piñón de cuarta de 10; la rueda de cuarta gira una vez por minuto y mueve el segundero pequeño;
+rueda de cuarta de 84 → piñón de escape de 7;
+rueda de escape de 20 dientes, que gira una vez cada 5 s.
+
+Tren de minutería bajo la esfera: piñón de cañón de 12 → rueda de minutos de 36; piñón de minutos de 10 → rueda de horas de 40 (12:1).
+Mecanismo de remontuar: corona, tija, rueda de corona, rueda de rochete y trinquete con muelle.
+Escape: rueda de escape, áncora con dos paletas de rubí y pasadores de limitación, volante con espiral y platillo de impulso.
+Estructura: platina, puente de barrilete, puente del tren, puente del volante, cojinetes de rubí y tornillos azulados.
+Engranajes: perfiles de dientes cicloidales propios de la relojería, ruedas caladas con radios, piñones con hojas, árboles y pivotes. Las distancias entre centros deben derivarse de un módulo común para que cada pareja engrane visiblemente de forma correcta cuando esté ensamblada.
+Movimiento, controlado por UN ÚNICO reloj maestro: el volante oscila según θ(t) = A·sin(2π·4·t), con una amplitud A de unos 270° a plena carga;
+en cada latido, el áncora oscila entre sus pasadores de limitación y la rueda de escape avanza medio diente mediante un breve impulso suavizado, para después bloquearse;
+todas las demás ruedas avanzan exactamente según su relación con la rueda de escape;
+el segundero emite 8 saltos por segundo; las agujas de minutos y horas siguen el tren.
+Al cargar, ajusta las agujas a la hora local del usuario.
+
+Energía: una reserva de marcha de unas 44 h que se consume en tiempo real. La amplitud desciende de 290° a 180° a medida que se agota la reserva; al llegar a 0, el reloj se detiene y el volante se asienta en lugar de congelarse.
+Dar cuerda aumenta la reserva, con un movimiento visible del rochete y el trinquete, además de un suave sonido de clic (Web Audio, silenciado hasta la primera interacción del usuario).
+
+El mecanismo sigue funcionando en todos los estados explosionados: las ruedas giran en el aire, el volante continúa oscilando y el segundero sigue avanzando.
+EL DESMONTAJE (controlado mediante el desplazamiento, con pausas)
+El desplazamiento de la página se asigna a un valor de progreso de 0 a 1, dividido en siete capítulos. Cada capítulo se suaviza hasta una pausa de reposo en la que el desplazamiento se asienta brevemente (un ajuste suave, nunca un bloqueo brusco). La cámara se mueve con fluidez entre capítulos.
+Capítulos:
+I. La caja: vista frontal de 3/4, ensamblada.
+II. La esfera: el cristal y el bisel se separan; las agujas y la esfera se elevan.
+III. El tren de minutería: las ruedas bajo la esfera se separan.
+IV. Los puentes: el reloj gira para mostrar la parte trasera; se levanta el fondo y se elevan los puentes y el puente del volante, con los tornillos flotando justo por encima de sus orificios.
+V. El tren de rodaje: el barrilete y las ruedas de centro, tercera y cuarta se separan hacia arriba a lo largo de sus propios ejes, como en un dibujo técnico.
+VI. El escape: la rueda de escape, el áncora y el volante se separan un poco más, mientras la cámara se acerca.
+VII. El corazón: vista macro del volante y el espiral en funcionamiento, con toda la columna explosionada detrás.
+Cada pieza se mueve a lo largo de un eje claro, principalmente el eje de su propio árbol o directamente hacia arriba desde la platina. Las piezas que pertenecen juntas permanecen juntas. Ninguna pieza se intersecta durante el desmontaje y ninguna sale del encuadre.
+En cada pausa aparecen líneas guía finas con pequeñas etiquetas en versalitas para las piezas principales, que se desvanecen entre pausas.
+INTERACTION
+El desplazamiento (rueda, trackpad o gesto táctil) controla el desmontaje.
+Arrastrar sobre un espacio vacío hace girar el reloj dentro de unos límites; al soltarlo, vuelve suavemente a su posición.
+Al pasar el cursor sobre una pieza, esta se perfila suavemente con su nombre.
+Al hacer clic en una pieza: la pieza se resalta, las demás se atenúan hasta aproximadamente un 35 % y la cámara se ajusta suavemente para encuadrarla;
+junto a ella se abre una tarjeta, conectada mediante una línea guía fina. La tarjeta muestra: nombre; función en una o dos frases sencillas; un dato preciso (por ejemplo: «Rueda de escape · 20 dientes · una vuelta cada 5 s»); y un valor en directo (velocidad actual, ángulo o número de latidos acumulados).
+Esc, un botón de cierre o hacer clic en un espacio vacío permite volver.
+
+Arrastrar la corona lateralmente da cuerda al reloj (con un trinquete táctil), cuando la corona está visible.
+Captura del puntero, ratón y táctil. Selección mediante una pasada de renderizado con ID de objeto o pruebas de rayos exactas; no uses esferas envolventes aproximadas.
+RENDERIZADO (metales reales, sensación de macrofotografía; no un dibujo animado)
+Materiales basados físicamente, con un entorno de estudio procedural (cajas de luz grandes y suaves, una luz lineal y un relleno cálido tenue) para crear reflejos.
+Acabados: franjas Côtes de Genève en los puentes (especularidad anisotrópica cepillada alineada con las franjas);
+perlage (granulado circular) en la platina;
+biselados pulidos a espejo (anglage) que capten reflejos brillantes en los bordes;
+tornillos y agujas azulados al calor mediante película fina;
+rubíes translúcidos de color rojo con destellos internos;
+piezas de acero rodiado;
+cristales de zafiro con reflejos azul-violeta tenues y un ligero grosor en los bordes.
+
+Caja en el oro seleccionado.
+Brillos: bloom controlado únicamente en los reflejos especulares; pequeños destellos en estrella sobre los rubíes y los bordes pulidos que aparezcan cuando se muevan la luz o el reloj. Glamur, no purpurina.
+Sombras de contacto suaves, oclusión ambiental sutil y una profundidad de campo ligera que siga a la pieza enfocada.
+Mapeado tonal fílmico sin altas luces recortadas; 4x MSAA o equivalente.
+Fondo: blanco porcelana pálido con una viñeta suave, como un estudio fotográfico sin juntas. No amarillo ni crema.
+INTERFAZ (aristocrática, editorial y con mucho espacio en blanco)
+Fuentes: «Bodoni Moda» para títulos y cifras, «Jost» para el texto de la interfaz (Google Fonts, con alternativas serif y sans serif). Etiquetas en versalitas con un espaciado de 0,16 em; cifras tabulares.
+Colores: tinta #1B1A17 sobre el fondo porcelana;
+líneas finas de 1 px al 15 % de tinta;
+el color de acento sigue al oro seleccionado.
+
+No uses degradados en los elementos de la interfaz, sombras marcadas ni emojis.
+Parte superior izquierda: indicador «OBJETOS, ABIERTOS / N.º 01»;
+título grande en Bodoni en dos líneas: «El tiempo,» / «desmontado.»;
+tres líneas de texto en cursiva Bodoni: «Dado cuerda a mano.» «Abierto con el desplazamiento.» «Nada queda oculto.»
+
+Parte superior derecha: estado «WEBGPU · EN DIRECTO» con un punto pequeño.
+Borde izquierdo, centrado verticalmente: índice de capítulos «I. La caja», «II. La esfera», «III. El tren de minutería», «IV. Los puentes», «V. El tren de rodaje», «VI. El escape», «VII. El corazón». El capítulo actual aparece resaltado, con una regla de progreso fina; al hacer clic en un capítulo, la página se desplaza hasta él.
+
+Panel derecho «EL MOVIMIENTO»: tres preajustes de caja: oro blanco, oro amarillo y oro rosa, con pequeñas muestras de metal;
+lecturas en directo: frecuencia «28.800 vph», reserva de marcha (h, con una barra fina), amplitud (°) y latidos desde la apertura;
+botones «Dar cuerda a la corona» y «Ajustar a la hora local»;
+casillas «¼ de velocidad» y «Seguir la energía». Seguir la energía hace que una línea de luz avance lentamente por el recorrido energético: muelle real → barrilete → centro → tercera → cuarta → rueda de escape → áncora → volante, haciendo brillar cada pieza a su paso;
+un botón Pausar/Reanudar.
+
+Indicación inferior izquierda: «Desplázate para desmontarlo. Haz clic en cualquier pieza para conocerla. Arrastra para girarlo.»
+Parte inferior derecha: sección contraíble «Cómo funciona», con una explicación breve y precisa del tren de rodaje, el escape, el volante y la reserva de marcha, además de una nota breve sobre cómo se renderiza esta página.
+Móvil: el lienzo ocupa aproximadamente el 65 % superior de la pantalla y el índice de capítulos se convierte en una fila horizontal de números romanos. El panel aparece debajo; las tarjetas de piezas se convierten en una hoja inferior. Nada tapa el reloj.
+ENGINEERING
+Genera toda la geometría una sola vez al iniciar. Instancia las piezas repetidas (tornillos, rubíes y dientes cuando sea útil). Actualiza únicamente las transformaciones en cada fotograma; no compiles sombreadores ni reconstruyas búferes durante la interacción.
+El tiempo de la animación procede de un único reloj con escala de ¼ de velocidad. Pausar congela el mecanismo, no la interfaz.
+Respeta prefers-reduced-motion: transiciones de capítulo instantáneas, sin desplazamientos de cámara ni animación de destellos.
+Si WebGPU no está disponible, muestra una explicación clara y bien diseñada. No uses un renderizador alternativo falso.
+Gestiona la pérdida del dispositivo. Limita la relación de píxeles a 2. Aspira a 60 fps en un portátil y a una experiencia fluida en un teléfono reciente.
+VALIDA ANTES DE ENTREGAR
+En el código, comprueba las relaciones del tren: el segundero gira una vez cada 60 s, la aguja de minutos una vez cada 3600 s, la aguja de horas una vez cada 12 h y la rueda de escape una vez cada 5 s. Registra la comprobación en la consola.
+Cada pareja de engranajes debe tener la distancia entre centros correcta y engranar visiblemente cuando esté ensamblada.
+Ninguna pieza debe intersectar con otra en ningún punto del progreso de desmontaje; no debe haber z-fighting.
+El desplazamiento con pausas, los saltos de capítulo, la selección de piezas, las tarjetas, la cuerda, los preajustes, el seguimiento de la energía, la pausa, la velocidad de ¼ y la distribución móvil deben funcionar.
+Los textos de las tarjetas deben ser precisos desde el punto de vista de la relojería.
+Ningún error en la consola.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2105009377002299711) · [Publicación original](https://x.com/theparuchh/status/2105009470292013286) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2105027152617918852"></a>
+
+### Modelo realista del F-22 Raptor y vídeo de vuelo en Godot
+
+[Demetrius Greses Jr](https://x.com/dgresesjr) · 2026-09-29
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2105027152617918852"><img src="../assets/previews/53069c8ca05cdb52390b64d16519e81e5b77f7970af70c6a2e87fa2827406239.jpg" width="840" loading="lazy" alt="Modelo realista del F-22 Raptor y vídeo de vuelo en Godot"></a>
+
+Un prompt de comparación que solicita un modelo 3D realista de un Lockheed Martin F-22 Raptor, seguido de un MP4 de 60 segundos del avión volando en Godot para subirlo a X. La publicación principal incluye 6 Astra entre los modelos comparados.
+
+**Prompt**
+
+```text
+Usa Blender MCP. Créame un modelo 3D realista del Lockheed Martin F-22 Raptor (solo para EE. UU.). Después, crea un MP4 de 60 segundos en el que vuele en Godot, para que pueda subirlo a X.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2105027152617918852) · [Publicación original](https://x.com/dgresesjr/status/2105027152617918852) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2105047166733746209"></a>
+
+### Escena cinematográfica fotorrealista de lanzamiento de un cohete
+
+[Matthew Lebo](https://x.com/MatthewLebo_) · 2026-09-29
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2105047166733746209"><img src="../assets/previews/8b297757174c79e883f61638f18822d20b93a44443582f60d59fc89779687a41.jpg" width="840" loading="lazy" alt="Escena cinematográfica fotorrealista de lanzamiento de un cohete"></a>
+
+Prompt reutilizable compartido por el autor de la publicación, exactamente el mismo que se usó para comparar GPT-Astra, GPT-6.1-Sol y Claude Opus 5.5. Solicita una escena cinematográfica y fotorrealista de lanzamiento de un cohete en 3D, con texturas, creada con Three.js.
+
+**Prompt**
+
+```text
+Crea con Three.js una escena cinematográfica y fotorrealista de lanzamiento de un cohete, con texturas de gran calidad
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2105047166733746209) · [Publicación original](https://x.com/MatthewLebo_/status/2105047166733746209) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2105278999861526953"></a>
+
+### Render en Blender del puente Golden Gate
+
+[EvoLink.ai](https://x.com/EvoLinkAi) · 2026-09-30
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2105278999861526953"><img src="../assets/previews/6784455d747367e9776ffa07c75661a0751b892423d15d910c2f57a886a08447.jpg" width="840" loading="lazy" alt="Render en Blender del puente Golden Gate"></a>
+
+Un prompt de referencia compartido por EvoLink.ai para renderizar el puente Golden Gate en Blender. Especifica una vista extrema en contrapicado desde la bahía de San Francisco, condiciones de niebla matutina, intrincadas torres de celosía de acero, vehículos detallados en la calzada y escarpados promontorios costeros.
+
+**Prompt**
+
+```text
+Un render en Blender del puente Golden Gate. Un plano panorámico en contrapicado extremo desde la superficie de la bahía de San Francisco, mirando hacia las colosales e intrincadas torres de celosía de acero que atraviesan el cielo brumoso de la mañana. La extensa calzada se prolonga a lo largo del puente, con innumerables vehículos diminutos y detallados que resaltan la grandiosa e imponente escala del puente frente a los escarpados promontorios costeros.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2105278999861526953) · [Publicación original](https://x.com/EvoLinkAi/status/2105279002793345069) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2105298955307303100"></a>
+
+### Crea un personaje 3D estilo Minion en Blender
+
+[EvoLink.ai](https://x.com/EvoLinkAi) · 2026-09-30
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2105298955307303100"><img src="../assets/previews/faa243bd67b442c652339eb4c1b327f0a62cc4eb193d64de9a8ec4c8b99fbfcb.jpg" width="840" loading="lazy" alt="Crea un personaje 3D estilo Minion en Blender"></a>
+
+Prompt de autor verificado, proporcionado como prueba de creación de personajes 3D en Blender para GPT-6.1 Sol, Sonnet 5.5 y GPT-6 Astra. Solicita un script bpy ejecutable que modele un personaje estilo Minion con materiales, componentes simétricos, iluminación de estudio y un render de giro de cinco segundos en formato cuadrado.
+
+**Prompt**
+
+```text
+Escribe un script completo y ejecutable en Python usando el módulo bpy de Blender para crear un personaje 3D estilo Minion, configurar una animación de cámara de giro de 360 grados y renderizar un vídeo de 5 segundos en formato 1:1.
+Especificaciones de animación y render:
+
+Frecuencia de fotogramas y duración: establece la frecuencia en 30 fps y el rango de renderizado de los fotogramas 1 a 150 (exactamente 5 segundos).
+Relación de aspecto: establece la resolución de renderizado en 1080x1080 píxeles (relación cuadrada 1:1).
+Animación de giro de la cámara: anima la cámara (o un objeto vacío de control emparentado con la cámara) para realizar una rotación continua de 360 grados alrededor del Minion durante los 150 fotogramas.
+Establece la interpolación de los fotogramas clave en LINEAR para garantizar una rotación fluida y a velocidad constante.
+
+Configuración de salida: establece el formato de salida como vídeo FFmpeg (contenedor H.264 / MP4).
+Requisitos técnicos y estructura del modelo:
+Cuerpo base: crea una malla con forma de cápsula para el cuerpo principal (material amarillo, dispersión subsuperficial/rugosidad de aproximadamente 0.3).
+Añade mechones escasos y finos de pelo negro en la parte superior de la cabeza.
+
+Gafas y ojos: crea unas gafas de doble lente usando cilindros/toros extruidos.
+Material de la montura de las gafas: metalizado (aproximadamente 0.9), rugosidad (aproximadamente 0.2) para simular aluminio/metal cepillado.
+Añade una correa elástica negra que rodee el cuerpo.
+Genera dos mallas oculares dentro de la montura (esclerótica blanca, iris marrón y pupila brillante).
+
+Ropa: peto: modela el peto vaquero usando geometría de malla independiente o segmentos del cuerpo extruidos.
+Material: color vaquero azul, con mayor rugosidad (aproximadamente 0.6).
+Incluye tirantes y un bolsillo delantero en el pecho.
+
+Extremidades y detalles: añade brazos y piernas con manos enguantadas de negro y zapatos negros.
+Usa el modificador Mirror (bpy.ops.object.modifier_add(type='MIRROR')) cuando corresponda (por ejemplo, en los ojos, la montura de las gafas, los brazos, las correas y las piernas) para garantizar la simetría y mantener el código limpio.
+
+Iluminación y escena: coloca una configuración de iluminación de tres puntos (luces principal, de relleno y de recorte) emparentada con la cámara o distribuida uniformemente para que la iluminación se mantenga constante durante la rotación.
+Establece el motor de renderizado en Cycles o EEVEE, con un fondo de estudio limpio.
+Asegúrate de que todos los materiales se creen mediante nodos (usa_nodes = True).
+
+Devuelve ÚNICAMENTE código Python válido dentro de un bloque de Markdown, sin texto adicional ni explicaciones en Markdown.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2105298955307303100) · [Publicación original](https://x.com/EvoLinkAi/status/2105298964027265295) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2105323534398763307"></a>
+
+### Recrear una escena en Isaac Sim
+
+[Charles Wong](https://x.com/charleswongzx) · 2026-09-30
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2105323534398763307"><img src="../assets/previews/fa08d494a2ded6a2b2e603413d0329a12a3cac84d96a354791280ad5b2434979.jpg" width="840" loading="lazy" alt="Recrear una escena en Isaac Sim"></a>
+
+Un prompt para recrear la escena adjunta en Isaac Sim con el fin de evaluar políticas de manipulación, sin usar Manifold.
+
+**Prompt**
+
+```text
+Recrea esta escena en Isaac Sim con el fin de evaluar políticas de manipulación. No uses Manifold.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2105323534398763307) · [Publicación original](https://x.com/charleswongzx/status/2105323534398763307) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Defensa de tanques sin fin
@@ -4231,7 +4291,7 @@ Entrega el código fuente, el archivo de bloqueo, los comandos npm de desarrollo
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 302 ejemplos en el sitio oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 308 ejemplos en el sitio oficial →</a></strong></p>
 <p><sub>Para que el README de GitHub se renderice con fluidez, aquí solo se muestran los 100 ejemplos más recientes.</sub></p>
 <br>
 </td></tr>

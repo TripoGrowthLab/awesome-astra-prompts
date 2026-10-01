@@ -28,7 +28,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**302 · Neueste Astra-Prompts**
+**308 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -50,15 +50,9 @@
 <details>
 <summary>Beispiele ansehen</summary>
 
-- [Interaktiver 3D-Atlas von Kopf und Gehirn](#2098105648106078541) · GitHub
 - [Chernobyl-Atlas](#2098841316591346006) · GitHub
 - [Interaktiver 3D-Anatomie-Explorer](#2099206962344800541) · GitHub
 - [Demo für isometrische Fantasy-Grafik](#2100271998618177864) · GitHub
-- [Animation einer schwebenden Magieakademie](#2098071577309122854)
-- [Flug eines White-Model-Shuttles durch einen urbanen Canyon](#2098079379297608050)
-- [Fantasy-Animation: Schwertkämpfer zerstört Tor](#2098094339759149067)
-- [Interaktive 3D-Demonstration einer Roboterhand am Klavier](#2098109252720078891)
-- [Ziviles Starter-Kurierschiff von Sol Horizon](#2098225609558335846)
 - [Automatische Generierung und UV-Übertragung von Haar- und Gesichtstexturen für Charaktermodelle](#2098367087475577273)
 - [Tempel-Miniatur als 3D-Modellszene](#2098403061463224543)
 - [Mädchenfigur mit Spielzeugroboter](#2098406473273663992)
@@ -144,6 +138,12 @@
 - [Interaktive Bootsfahrt durch den mondbeschienenen Dschungel](#2104613125093998674)
 - [Transformierender Sportwagen mit Röntgen- und Explosionsansicht](#2104654448878387313)
 - [Hochdetailliertes menschliches 3D-Auge](#2104841727496323479)
+- [Zeit, entblößt.](#2105009377002299711)
+- [Realistisches F-22-Raptor-Modell und Flugvideo in Godot](#2105027152617918852)
+- [Filmisch-fotorealistische Raketenstartszene](#2105047166733746209)
+- [Blender-Render der Golden Gate Bridge](#2105278999861526953)
+- [Erstelle eine 3D-Minion-Figur in Blender](#2105298955307303100)
+- [Eine Szene in Isaac Sim nachbilden](#2105323534398763307)
 - [Battle City 3D: Endlose Panzerverteidigung](#battle-city-3d)
 - [Crazy Tanks — 3D-Inselartillerie](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Survival-Game mit verrückten Waffen](#odd-arms)
@@ -152,53 +152,6 @@
 - [Die Insel des Zyklopen](#cyclops-island-threejs-game)
 
 </details>
-
-<a id="2098105648106078541"></a>
-
-### Interaktiver 3D-Atlas von Kopf und Gehirn
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098105648106078541"><img src="../assets/previews/1251cdb60d51985d09d2870c9866d104d26bf152875bc50a1c46eb047a11be63.jpg" width="840" loading="lazy" alt="Interaktiver 3D-Atlas von Kopf und Gehirn"></a>
-
-Ein wiederverwendbarer, vom Autor empfohlener Prompt zur Erstellung eines interaktiven anatomischen Atlas von Kopf und Gehirn. Gefordert werden lizenzierte anatomische Meshes, eine Erkundung nach Ebenen, Inspektionswerkzeuge, Clipping-Ebenen, Explosionsansichten und eine eigenständige HTML-Anwendung für den Offline-Betrieb.
-
-**Prompt**
-
-```text
-Erstelle einen vollständigen interaktiven 3D-Atlas von Kopf und Gehirn. Liefere eine funktionierende Anwendung, kein Mock-up. Triff sinnvolle Entscheidungen selbstständig, implementiere und teste sie und überprüfe das Ergebnis visuell.
-
-Verwende Three.js und echte, angemessen lizenzierte Meshes aus Z-Anatomy / BodyParts3D. Beziehe den Schädel, die Zähne, die Gesichtsmuskeln, das Gehirn, die Augen, die Hirnnerven, Arterien, Venen und verfügbare unterstützende Membranen ein. Bewahre ihre ursprünglichen anatomischen Beziehungen. Strebe Hunderte einzeln auswählbare Strukturen an, gib die tatsächliche Anzahl der importierten Strukturen an und übernimm die Quellenangaben.
-
-Erstelle eine klare, helle Benutzeroberfläche mit hellgrauem Hintergrund, weißen abgerundeten Bedienfeldern, zurückhaltenden blaugrauen Akzenten und gut lesbarer Typografie. Halte das Modell groß, mit einem Strukturfenster links, Kamerawerkzeugen rechts, der Suche oben und einem Explosionsregler darunter. Verwende durchgehend Englisch.
-
-Mache die Anatomie schrittweise erkundbar:
-Kopf → System → Region → einzelne benannte Strukturen.
-Zum Beispiel: Gehirn → Großhirn → linke Hemisphäre → Frontallappen → einzelne Strukturen.
-
-Animere das Zusammensetzen und Zerlegen. Bewahre beim Zusammensetzen die ursprünglichen Positionen; ordne Explosionsgruppen in klar getrennten Layouts mit gut lesbaren Beschriftungen an. Zeige die normierte Skalierung an und teile umfangreiche Sammlungen in Seiten auf.
-
-Beziehe Folgendes ein:
-- Freie Rotation, Zoom per Mausrad oder Pinch-Geste sowie Kameravoreinstellungen.
-- Zerlegungsregler und Steuerung mit Umschalttaste + Mausrad.
-- Unabhängige Sichtbarkeitsschalter für Gruppen und einzelne Teile.
-- Gruppen-Deckkraft, Rückgängig, Alles wiederherstellen und Zurücksetzen.
-- Anatomische Suche, Inspektion per Klick, Fokussieren, Isolieren und Navigation zum übergeordneten Element.
-- Anatomische Farben, Porzellan-, Drahtgitter- und Transparenzmodi.
-- Einstellbare sagittale, axiale und koronare Clipping-Ebenen mit umkehrbarer Richtung.
-- Beschriftungen, automatische Erkundung, Vollbildmodus und PNG-Export.
-- Eine geführte Reise vom vollständigen Kopf ins Gehirn und zu seinen Netzwerken.
-
-Halte ausgeblendete Strukturen bei Änderungen an Layout und Material ausgeblendet. Erkläre, dass Clipping-Ebenen offene Darstellungsschnitte erzeugen und keine medizinischen Scans sind. Erfinde keine Anatomie und behaupte keine klinische Validierung.
-
-Liefere eine eigenständige HTML-Datei, die die Anwendung und die verarbeitete Geometrie enthält und ohne Server offline funktioniert. Stelle außerdem saubere Quelldateien, festgeschriebene Abhängigkeiten, eine Lockfile, portable Build-Skripte, eine englische README sowie die erforderlichen Lizenzen und Quellenangaben bereit. Schließe Zugangsdaten, lokale Pfade, Abhängigkeiten und nicht zugehörige Dateien aus.
-
-Teste die Integrität der Geometrie, die Zuordnung zur Hierarchie, Sichtbarkeit, Rückgängig-Funktion und Abstände im Layout. Überprüfe die laufende Anwendung im Browser, bediene die Steuerelemente, kontrolliere die Konsole auf Fehler und behebe visuelle Überlagerungen vor der Auslieferung.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098105648106078541) · [Originalbeitrag](https://x.com/k1rallik/status/2098105648106078541) · [Quellcode](https://github.com/bubblik525/head) · [Zurück zu den Beispielen](#all-prompts)
-
----
 
 <a id="2098841316591346006"></a>
 
@@ -274,134 +227,6 @@ Erstelle mir eine Grafikdemo: isometrische Kamera, voxel-artiger Art-Style mit r
 ```
 
 [Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2100271998618177864) · [Originalbeitrag](https://github.com/achimala/dream-loop) · [Quellcode](https://github.com/achimala/dream-loop) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2098071577309122854"></a>
-
-### Animation einer schwebenden Magieakademie
-
-[PixVerse](https://x.com/PixVerse) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098071577309122854"><img src="../assets/previews/9b408ceb1b603f7a12e8bc7b5d7626551da9f3e0b153f574d2f694a1edc9cba4.jpg" width="840" loading="lazy" alt="Animation einer schwebenden Magieakademie"></a>
-
-Erstelle eine 12-sekündige White-Model-Animation in Blender mit einem monumentalen Eingang, einem Schlüsselloch-Durchflug, einem astronomischen Instrument und einer schwebenden Akademie. Rendere sie anschließend mit PixVerse als cineastische Fantasy-Sequenz. Zu den gewünschten Ergebnissen gehören beide MP4-Dateien und ein bearbeitbares Blender-Projekt.
-
-**Prompt**
-
-```text
-Erstelle in Blender eine 12-sekündige White-Model-Animation als durchgehende Einstellung und nutze anschließend @PixVerse, um die exportierte Animation in eine spektakuläre Live-Action-Fantasyfilmszene zu verwandeln.
-
-Baue in Blender einen monumentalen Eingang, ein rotierendes astronomisches Instrument und eine weitläufige schwebende Magieakademie. Verwende einfache weiße oder hellgraue Geometrie mit klar erkennbaren Silhouetten und einfacher Beleuchtung. Zeige zu Beginn die vollständige Eingangstür, umgeben von massiven Wänden, die die dahinterliegende Welt vollständig verdecken. Gib der Tür ein kleines, realistisch proportioniertes Schlüsselloch. Hinter dem Eingang ordnest du ein großes zentrales Schloss, Türme, kleinere schwebende Inseln und verbindende Brücken an. Sorge für eine beeindruckende architektonische Größenwirkung und großzügige Abstände zwischen den Bauwerken.
-
-Beginne mit einer langsamen Annäherung an die Tür, beschleunige dann stark und fliege ohne Unterbrechung durch das Schlüsselloch. Animereinen schwebenden Schlüssel, der sich dreht und zur Seite bewegt, bevor die Kamera hindurchfliegt. Fliege weiter durch sich schnell drehende astronomische Ringe, enthülle die schwebende Akademie und gehe in eine gleichmäßige Umkreisung der Architektur über. Lass nahegelegene Inseln schnell aufsteigen und Brückenabschnitte in Position drehen. Halte die Objektbewegungen dynamisch und entschlossen. Die Umkreisung soll kontinuierlich fließen, mit gleichmäßigen Geschwindigkeitsänderungen und ohne wiederholte Pausen. Überprüfe die Schlüssellochpassage, den Kamerafreiraum, die räumliche Kontinuität und die Bewegung bei normaler Wiedergabegeschwindigkeit.
-
-Exportiere die unverfälschte 12-sekündige White-Model-MP4. Nutze anschließend @PixVerse, um ein 12-sekündiges KI-gerendertes Video zu erzeugen, wobei die Blender-Animation als grobe strukturelle und Bewegungsreferenz dient. Bewahre die erkennbare Abfolge von der Annäherung an die Tür über die Schlüssellochpassage und das astronomische Instrument bis zur Enthüllung der Akademie und der Umkreisung, während du die Welt und die cineastische Inszenierung frei bereicherst.
-
-Verwandle die Akademie in eine gewaltige, uralte schwebende Stadt: ein zentrales Schloss, umgeben von Stadtvierteln, Bibliotheken, Observatorien, Innenhöfen, gestaffelten Dächern, gewaltigen Steinbrücken und Wasserfällen, die in die Wolken stürzen. Erweitere die Umgebung um bewaldete Täler, Seen, ferne Berge und weitere schwebende Inseln. Füge winzige Fußgänger, fliegende Schiffe, wehende Fahnen, Vögel und atmosphärische Aktivitäten hinzu, um die Größenordnung zu vermitteln. Während der späteren Umkreisung soll ein gewaltiger Drache hinter der Akademie aus den Wolken auftauchen und an den Türmen vorbeigleiten, wobei er einen wandernden Schatten über die Stadt wirft.
-
-Strebe nach der visuellen Dichte eines Fantasy-Live-Action-Spielfilms mit verwitterten Materialien, weichem goldenen Sonnenlicht, das durch kühle Wolken bricht, natürlicher atmosphärischer Tiefe und sanften fotografischen Glanzlichtern. Füge originale Orchestermusik sowie synchronisierte Umgebungs- und Aktionsgeräusche hinzu.
-
-Liefere die White-Model-MP4, die von PixVerse gerenderte KI-MP4 und das bearbeitbare Blender-Projekt.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098071577309122854) · [Originalbeitrag](https://x.com/PixVerse/status/2098071577309122854) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2098079379297608050"></a>
-
-### Flug eines White-Model-Shuttles durch einen urbanen Canyon
-
-[PixVerseCreators](https://x.com/PixVerseCreator) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098079379297608050"><img src="../assets/previews/cd71fb962eb01f16094187f0998f65959e3a74f648b0c98dfd8aab0c9253ddb4.jpg" width="840" loading="lazy" alt="Flug eines White-Model-Shuttles durch einen urbanen Canyon"></a>
-
-Eine 10-sekündige Blender-Animation ohne Schnitt: Ein originales Shuttle fliegt mit extremer Geschwindigkeit durch einen dicht bebauten urbanen Canyon. Gerendert mit PixVerse auf Basis von Blender-Referenzen.
-
-**Prompt**
-
-```text
-Erstelle in Blender einen 10-sekündigen Shuttle-Flug ohne Schnitt mit einem White-Model-Shuttle. Entwickle ein originales Shuttle und einen dicht bebauten urbanen Canyon, der sich über mehrere Kilometer erstreckt. Animierte einen extrem schnellen Vorwärtsflug entlang einer langen Route, der ohne Verlangsamung mehr als zwei Kilometer zurücklegt. Fädle durch enge Lücken und unter Brücken hindurch, ändere die Flughöhe und führe zwei sanfte Fassrollen in entgegengesetzte Richtungen aus. Die Geschwindigkeit muss unmissverständlich wirken: Nahe Gebäude ziehen als Streifen nach hinten, Brücken schnellen über die Kamera hinweg und Strukturen im Vordergrund fegen rasch an den Bildrändern vorbei. Verwende eine starke gerichtete Bewegungsunschärfe für die Umgebung, während das Shuttle klar erkennbar bleibt. Dichte Hindernisse, enge Vorbeiflüge und eine ausgeprägte Parallaxe zwischen Vorder- und Hintergrund sollen einen anhaltenden Flug mit voller Schubleistung vermitteln. Verwende eine weiche Weitwinkel-Verfolgungskamera, die sich dicht hinter und leicht oberhalb des Shuttles befindet und sich mit exakt gleicher Geschwindigkeit vorwärtsbewegt. Die Nase zeigt weiterhin in die Stadt, die Triebwerke zur Kamera. Keine Schnitte, kein Kamerawackeln, keine Fassrollen der Kamera, keine Zeitlupe und keine Verzögerung am Ende. Prüfe den Sicherheitsabstand, die Bewegungskontinuität und das Geschwindigkeitsempfinden bei normaler Wiedergabe. Rendere die finale White-Model-Animation mit PixVerse auf Basis der Blender-Referenzen und bewahre dabei die extreme Geschwindigkeit, den Flugweg und die Kamerabewegung. Liefere die finale MP4-Datei, das bearbeitbare Blender-Projekt und kurze Hinweise zu den Einschränkungen.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098079379297608050) · [Originalbeitrag](https://x.com/PixVerseCreator/status/2098079379297608050) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2098094339759149067"></a>
-
-### Fantasy-Animation: Schwertkämpfer zerstört Tor
-
-[PixVerse](https://x.com/PixVerse) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098094339759149067"><img src="../assets/previews/ca8a46498d2bcd9c4215ea347c01a1b03d81d9b98d7c5a53514c4d118628bc29.jpg" width="840" loading="lazy" alt="Fantasy-Animation: Schwertkämpfer zerstört Tor"></a>
-
-Erstellt eine 12-sekündige White-Model-Actionanimation in Blender, in der ein Schwertkämpfer ein monumentales Tor zerstört, und verwandelt sie anschließend in eine malerische Fantasy-Filmsequenz mit Bergfestung, einstürzenden Bauwerken, einer aufsteigenden Luftaufnahme, Musik und synchronisiertem Sound.
-
-**Prompt**
-
-```text
-Erstelle in Blender eine 12-sekündige White-Model-Actionanimation und verwende anschließend @PixVerse, um die exportierte Animation in eine spektakuläre Fantasy-Filmsequenz für ein erwachsenes Publikum zu verwandeln.
-
-Baue in Blender einen einfach modellierten, gelenkigen Schwertkämpfer, ein Schwert und eine Scheide, eine weitläufige erhöhte Steinplattform sowie ein gewaltiges Tor mit flankierenden Säulen. Verwende saubere weiße oder hellgraue Geometrie und eine einfache Beleuchtung. Priorisiere klar lesbare Action, überzeugende Proportionen und einen starken Kontrast zwischen der kleinen Figur und der monumentalen Architektur. Stelle die Schwertenergiewelle mit einer einfachen animierten, gebogenen Form dar und teile das Tor in Teile auf, die sich sichtbar voneinander lösen und herabfallen können.
-
-Beginne mit einer nahen Kameraeinstellung auf den Schwertkämpfer, während er seine Waffe zieht und kurz Kraft sammelt. Um Sekunde zwei herum animiere einen extrem schnellen, entschlossenen Hieb, der von Füßen, Hüften, Oberkörper und Armen getragen wird. Löse eine sichtbare, sichelförmige Schwertenergiewelle aus, die sich durch den Raum bewegt und das Tor trifft. Lass den oberen Torabschnitt entlang des Schnitts verrutschen, seine Stütze verlieren und mit deutlich erkennbarer Beschleunigung und Bodenkontakt einstürzen. Nach dem Treffer soll sich der Schwertkämpfer natürlich fangen, das Schwert zurück in die Scheide führen, sich aufrichten und die Arme entspannen.
-
-Ziehe die Kamera während des Angriffs in einer kontinuierlichen, flüssigen Bewegung nach hinten und oben. Steige dramatisch weiter auf, bis das Ende eine extrem hohe, nahezu vertikale Luftaufnahme der gesamten Plattform und des umliegenden Geländes zeigt. Die Figur darf so klein werden, dass sie nicht mehr klar zu erkennen ist. Halte die Action schnell und vermittle ein starkes Gefühl zunehmender Größenordnung, statt lange in der Angriffspose zu verweilen. Prüfe Körperbewegung, durchgängige Waffenführung, den Verlauf der Energiewelle, den Einsturz des Tors und die Kamerabewegung bei normaler Wiedergabegeschwindigkeit.
-
-Exportiere das saubere 12-sekündige White-Model-MP4. Verwende anschließend @PixVerse, um ein 12-sekündiges KI-gerendertes Video zu erzeugen, wobei die Blender-Animation als grobe Referenz für Bildkomposition, Aktionsablauf und die aufsteigende Kamera dient. Bewahre die wesentliche Abfolge aus Vorbereitung, Hieb, sich fortbewegender Energiewelle, Torzerstörung, Zurückstecken des Schwerts und extremer Luftaufnahme, während eine umfangreiche filmische Erweiterung erlaubt ist.
-
-Erzeuge die malerische Ästhetik eines erwachsenen Animationsfilms mit ausdrucksstarken Formen, handgemalten Oberflächen, überzeugendem dreidimensionalem Volumen und weicher filmischer Beleuchtung. Gib dem erwachsenen Schwertkämpfer eine markante Silhouette, einen weinroten Mantel, zurückhaltende Rüstung und eine gefasste, entschlossene Ausstrahlung. Erweitere die Umgebung zu einer gewaltigen Bergfestung mit gestaffelten Mauern, Türmen, Brücken, tiefen Schluchten und einer weitläufigen Stadt dahinter.
-
-Mache die sichelförmige Schwertenergiewelle zu einem zentralen visuellen Ereignis. Sie soll das Tor durchschneiden und in entfernte Befestigungsanlagen weiterlaufen, sodass eine klar lesbare Kette einstürzender Bauwerke, aufgewirbelter Staubwolken, Funken, Feuer und Druckwellen entsteht. Wenn die Kamera extreme Höhe erreicht, soll der vollständige Verlauf des Angriffs über das Schlachtfeld sichtbar werden, während der Schwertkämpfer ruhig an seinem Ausgangspunkt steht. Verwende kühle atmosphärische Schatten im Kontrast zu warmen bernsteinfarbenen Energien und vereinzeltem Feuerschein. Füge eigene filmische Musik sowie synchronisierte Geräusche von Schwert, Einschlag, Einsturz, Wind und der fernen Stadt ein.
-
-Liefere das White-Model-MP4, das von PixVerse gerenderte KI-MP4 und das bearbeitbare Blender-Projekt.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098094339759149067) · [Originalbeitrag](https://x.com/PixVerse/status/2098094339759149067) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2098109252720078891"></a>
-
-### Interaktive 3D-Demonstration einer Roboterhand am Klavier
-
-[MSB](https://x.com/KeWai386772) · 2026-09-10
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098109252720078891"><img src="../assets/previews/0da92a87e2cfefd4088b226ccf8d5e8dbd5b9938d4a76f0104f7fbdffd12c3fa.jpg" width="840" loading="lazy" alt="Interaktive 3D-Demonstration einer Roboterhand am Klavier"></a>
-
-Interaktive browserbasierte 3D-Demonstration einer fünfgliedrigen Roboterhand, die ein Miniaturklavier mit 25 Tasten spielt – mit kausal verknüpftem Fingerkontakt, Tastenbewegung, MIDI-gesteuerter Planung, Audio, Kameraperspektiven und Performance-Diagnose.
-
-**Prompt**
-
-```text
-Erstelle eine vollständige browserbasierte Demonstration einer detaillierten fünfgliedrigen Roboterhand, die ein Miniaturklavier spielt. Sichtbare Fingerbewegungen, physischer Tastenhub, erzeugte Noten und musikalisches Timing müssen kausal miteinander verknüpft sein. Liefere innerhalb des Zeitbudgets der Bewertung eine visuell ausgearbeitete, interaktive Anwendung.  1. ERLEBNIS: Verwende eine 3D-Szene im Vollbild mit einer präzise modellierten Roboterhand, beweglich gelagerten Fingern, sichtbaren Handgelenkmechanismen und einer Tastatur mit 25 Tasten für die MIDI-Noten 60 bis 84. Zeige realistische Geometrien für schwarze und weiße Tasten, unabhängig bewegliche Tasten, Fingerspitzenpolster und hochwertige Materialien. Biete Kameras für die Draufsicht, die Spielerseite und Nahaufnahmen der Fingerspitzen. Synchronisiere die Audioausgabe, nachdem der Benutzer die Wiedergabe aktiviert hat.  2. GEMEINSAME MUSIKALISCHE EINGABE: Verwende MIDI-Notennummern als verbindliche Datenquelle. Spiele bei 96 BPM die folgenden Ereignisse, angegeben als (Startschlag, Note, Dauer in Schlägen): (0,60,0.4), (0.5,64,0.4), (1,67,0.4), (1.5,64,0.4), (2,62,0.4), (2.5,65,0.4), (3,69,0.4), (3.5,65,0.4), (4,60,0.4), (4.5,60,0.4), (5,60,1), (5,64,1), (5,67,1). Die letzten drei Ereignisse bilden einen gleichzeitig erklingenden Akkord. Unterstütze außerdem den Import von Standard-MIDI-Dateien mit einem etablierten Parser.  3. HANDSTEUERUNG: Modelliere unabhängig bewegliche Finger und ein bewegliches Handgelenk. Plane erreichbare Fingerzuweisungen, Annäherungsbewegungen, Anschläge, Halten, Loslassen, die Artikulation wiederholter Noten und die Akkordausführung. Die Finger müssen die richtigen Tasten berühren, ohne benachbarte Tasten zu durchdringen oder unrealistische Sprünge auszuführen. Verwende inverse Kinematik und Gelenkgrenzen. Zeige die geplanten Fingerzuweisungen an und ermögliche die manuelle Prüfung einzelner Bewegungen.  4. KAUSALITÄT DES KLANGS: Erzeuge Note-on-Ereignisse nur dann, wenn die entsprechende sichtbare Taste aufgrund eines Fingerkontakts einen dokumentierten Schwellenwert für das Niederdrücken überschreitet. Erzeuge beim Loslassen ein Note-off-Ereignis und verwende eine Hysterese, um Flattern zu verhindern. MIDI-Ereignisse sind Planungsziele und keine unabhängige Audiospur. Ein geometrischer, kontaktgesteuerter Tastenmechanismus ist zulässig, sofern er ausdrücklich als solcher ausgewiesen wird; alternativ kann eine vollständige Kontaktdynamik verwendet werden. Tasten dürfen sich nicht allein deshalb bewegen, weil ein MIDI-Ereignis geplant ist.  5. TIMING: Verwende eine konsistente musikalische Uhr und versehe tatsächlich ausgelöste Tastenereignisse mit Zeitstempeln im Vergleich zu den Zielevents. Berücksichtige die Audio- und Renderplanung. Mache Tempo, Transposition, Wiedergabe, Pause, Neustart, Schleife und eine Zeitlupenprüfung steuerbar. Beim Pausieren oder Neustarten müssen aktive Noten ordnungsgemäß beendet werden. Eine verlangsamte Wiedergabe muss die Synchronisation zwischen Fingern, Tasten und Audio erhalten.  6. DIAGNOSE: Zeige Zielnoten, geplante Finger, tatsächlich ausgelöste Noten und Fehler der Anschlagszeit auf einer ausgerichteten Zeitleiste an. Melde verpasste Noten, zusätzliche Noten, falsche Tonhöhen, Fehler bei wiederholten Noten und hängen gebliebene Noten. Biete ein Overlay zur Kontaktprüfung, das anzeigt, welche Fingerspitze jede Taste niederdrückt. Zeichne die nötigen Nachweise auf, um eine erfolgreiche Planung von einer ungefähren Handanimation unterscheiden zu können.  7. VERIFIZIERUNG: Bewerte Melodie, wiederholte Noten und den abschließenden Akkord getrennt. Strebe keine falschen oder fehlenden Noten, einen Anschlagsfehler im 95. Perzentil von unter 50 ms und eine Anschlagsstreuung des Schlussakkords von unter 50 ms an. Melde die tatsächlichen Messwerte auch dann, wenn Ziele verfehlt wurden. Stelle einen Test bereit, der die Fingerbetätigung deaktiviert: Die Bewertung darf weiterlaufen, aber nicht gedrückte Tasten dürfen keine Noten erzeugen.  8. AUSLIEFERUNG: Verwende Three.js, TypeScript, geeignete Audio-APIs sowie etablierte Parser- oder numerische Bibliotheken. Liefere die laufende Anwendung, den Quellcode, ein reproduzierbares musikalisches Test-Fixture, Assets oder Skripte zu ihrer Generierung sowie Startanweisungen. Überprüfe Browser-Audio, Bedienelemente, Kameraperspektiven, Desktop- und Mobil-Layout sowie wiederholte Wiedergabe. Alle angezeigten Performance-Angaben müssen aus gemessenem Verhalten stammen.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098109252720078891) · [Originalbeitrag](https://x.com/KeWai386772/status/2098109252720078891) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2098225609558335846"></a>
-
-### Ziviles Starter-Kurierschiff von Sol Horizon
-
-[Jonathan Plumb — Spokane Valley](https://x.com/jonathanplumb) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098225609558335846"><img src="../assets/previews/8a672e63cd9fdbd2d4c5e721b2dc7576c34d9c37a023cb0edfe6a4d8a3bc6ce4.jpg" width="840" loading="lazy" alt="Ziviles Starter-Kurierschiff von Sol Horizon"></a>
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098225609558335846"><img src="../assets/previews/57ae2f43a4ca798cfccd80c405c934bbdd10df6cb9738c29fd6ca1366dce9d2a.jpg" width="840" loading="lazy" alt="Ziviles Starter-Kurierschiff von Sol Horizon"></a>
-
-Erstelle ein spielfertiges Blender-Modell von Sol Horizons zivilem Starter-Kurierschiff mit einem reparaturfreundlichen, modularen Hard-Surface-Design, klar benannten Objekten, Kollisionsgeometrie, auf Unity ausgerichteter Vorwärtsrichtung und FBX-Export.
-
-**Prompt**
-
-```text
-Erstelle in Blender Sol Horizons ziviles Starter-Kurierschiff. Es soll gebraucht, reparaturfreundlich, erschwinglich und sicher wirken – nicht militärisch. Erstelle ein Cockpit, eine Frachtluke, sichtbare Manövriertriebwerke, eine Haupttriebwerksbaugruppe und vier Landestreben. Verwende einen modularen Hard-Surface-Stil, der sich für zukünftige Varianten eignet. Halte das Haupt-Render-Mesh unter 15.000 Dreiecken. Benenne die Objekte eindeutig, lege die Vorwärtsrichtung für Unity fest, erstelle einfache Kollisionsgeometrie, wende die Transformationen an, speichere die .blend-Datei und exportiere ein spielfertiges FBX. Zeige vor dem Export Viewport-Screenshots zur Freigabe.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098225609558335846) · [Originalbeitrag](https://x.com/jonathanplumb/status/2098225609558335846) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 
@@ -3767,6 +3592,257 @@ Erstelle eine lokale HTML/CSS/JS-Datei mit Three.js. Erstelle ein hochdetaillier
 
 ---
 
+<a id="2105009377002299711"></a>
+
+### Zeit, entblößt.
+
+[Paruchh](https://x.com/theparuchh) · 2026-09-29
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2105009377002299711"><img src="../assets/previews/ee95289365fb612e7b8bde2276b5c0744017b3bbe013b46a856b00cb4abd9ca2.jpg" width="840" loading="lazy" alt="Zeit, entblößt."></a>
+
+Erstelle eine eigenständige interaktive 3D-Mechanikuhr mit WebGPU und WGSL. Das Handaufzugswerk Calibre 01 ohne Markenkennzeichnung verfügt über ein mechanisch spezifiziertes Schweizer Ankerwerk, eine Echtzeit-Gangreserve, eine Aufzugsinteraktion und eine durch Scrollen gesteuerte Explosionsansicht in sieben Stufen, die auch im zerlegten Zustand weiterläuft. Enthalten sind die Inspektion einzelner Teile, Kamerasteuerung, Gehäusevorgaben in Gold, technische Validierung und eine an Makrofotografie angelehnte redaktionelle Benutzeroberfläche.
+
+**Prompt**
+
+```text
+Erstelle „Time, Undone.“ als eine einzige eigenständige HTML-Datei (mit eingebettetem JS und CSS), in der eine echte interaktive 3D-Mechanikuhr mit WebGPU + WGSL läuft. Beim Scrollen zerlegt sie sich selbst, läuft dabei aber weiter. Keine 3D-Engine-Bibliotheken; die gesamte Geometrie wird im Code erzeugt. Dies ist Ausgabe Nr. 01 einer Serie über Objekte, die jeder von außen gesehen hat, aber fast niemand von innen.
+DAS OBJEKT
+Eine originale mechanische Armbanduhr ohne Markenkennzeichnung, mit Handaufzug und rundem 40-mm-Gehäuse sowie einem klassischen Schweizer Ankerwerk mit etwa 30 mm Durchmesser.
+Aufbau: zentrale Stunden- und Minutenanzeige; kleine Sekundenanzeige bei 6 Uhr; Krone bei 3 Uhr.
+Zifferblatt: silber-opalin mit feiner Guillochierung im Sonnenschliff, aufgesetzten polierten Indizes, Dauphine-Zeigern und einer Eisenbahn-Minuterie.
+Gehäuse: Saphirglas auf der Vorderseite und ein Sichtboden, sodass das Uhrwerk von hinten sichtbar ist.
+Keine Markennamen, Logos oder echten Kalibernamen verwenden. Die Uhr heißt „Calibre 01“.
+DAS MECHANISME (muss intern korrekt und darf nicht rein dekorativ sein)
+Schwingfrequenz 28.800 Halbschwingungen pro Stunde (Unruh mit 4 Hz).
+Erstelle einen echten Gehwerkstrieb mit konsistenten Zähnezahlen: Federhaus 96 Zähne → Minutenradtrieb 12; das Minutenrad dreht sich einmal pro Stunde und trägt den Minutenzeiger;
+Minutenrad 80 → Kleinbodenradtrieb 10;
+Kleinbodenrad 75 → Sekundenradtrieb 10; das Sekundenrad dreht sich einmal pro Minute und trägt den kleinen Sekundenzeiger;
+Sekundenrad 84 → Ankerradtrieb 7;
+Ankerrad mit 20 Zähnen, eine Umdrehung alle 5 Sekunden.
+
+Zeigerwerk unter dem Zifferblatt: Viertelrohr 12 → Minutenrad 36; Minutenradtrieb 10 → Stundenrad 40 (12:1).
+Aufzugswerk: Krone, Welle, Kronrad, Sperrrad, Klinke mit Feder.
+Hemmung: Ankerrad, Anker mit zwei Rubinpaletten und Begrenzungsstiften, Unruh mit Spiralfeder und Hebungsroller.
+Aufbau: Platine, Federhausbrücke, Räderwerksbrücke, Unruhkloben, Rubinlager, gebläute Schrauben.
+Räder: uhrentypische Zykloidenverzahnungen, Speichenkreuzungen, Triebe mit Blättern, Wellen und Zapfen. Die Achsabstände werden aus einem gemeinsamen Modul abgeleitet, damit jedes Räderpaar im montierten Zustand sichtbar korrekt ineinandergreift.
+Antrieb aus EINER Master-Uhr: Die Unruh schwingt nach θ(t) = A·sin(2π·4·t), mit einer Amplitude A von etwa 270° bei voller Gangreserve;
+bei jedem Schlag springt der Anker zwischen seinen Begrenzungsstiften, während das Ankerrad in einem kurzen, weich abgebremsten Impuls um einen halben Zahn weiterrückt und anschließend verriegelt;
+jedes andere Rad macht ausgehend vom Ankerrad exakt den Schritt entsprechend seinem Übersetzungsverhältnis;
+der Sekundenzeiger tickt achtmal pro Sekunde; Minuten- und Stundenzeiger folgen dem Räderwerk.
+Beim Laden die Zeiger auf die lokale Zeit der betrachtenden Person stellen.
+
+Gangreserve: etwa 44 Stunden, die in Echtzeit abnimmt. Die Amplitude fällt von 290° auf 180°, während die Gangreserve erschöpft wird; bei 0 bleibt die Uhr stehen, wobei sich die Unruh auspendelt, statt abrupt einzufrieren.
+Aufziehen erhöht die Gangreserve, mit sichtbarer Bewegung von Sperrrad und Klinke sowie einem sanften Klickgeräusch (Web Audio, bis zur ersten Benutzerinteraktion stummgeschaltet).
+
+Das Uhrwerk läuft in jedem Explosionszustand weiter: Räder drehen sich frei in der Luft, die Unruh schwingt weiter, der Sekundenzeiger tickt weiter.
+DIE EXPLOSION (scrollgesteuert, mit Haltepunkten)
+Das Scrollen der Seite wird auf einen Fortschrittswert von 0 bis 1 abgebildet, aufgeteilt in sieben Kapitel. Jedes Kapitel gleitet in einen kurzen Ruhepunkt, an dem das Scrollen kurz zur Ruhe kommt (ein sanftes Einrasten, niemals eine harte Sperre). Die Kamera bewegt sich fließend zwischen den Kapiteln.
+Kapitel:
+I. Das Gehäuse: montierte Ansicht von vorn im 3/4-Winkel.
+II. Das Zifferblatt: Saphirglas und Lünette heben sich ab; Zeiger und Zifferblatt steigen auf.
+III. Das Zeigerwerk: Die Räder unter dem Zifferblatt trennen sich.
+IV. Die Brücken: Die Uhr dreht sich um und zeigt die Rückseite; der Sichtboden hebt sich; Brücken und Unruhkloben steigen auf, während ihre Schrauben knapp über den Bohrungen schweben.
+V. Das Gehwerk: Federhaus sowie Minuten-, Kleinboden- und Sekundenrad spreizen sich entlang ihrer eigenen Achsen nach oben, wie in einer technischen Zeichnung.
+VI. Die Hemmung: Ankerrad, Anker und Unruh trennen sich noch etwas weiter, während die Kamera näher heranfährt.
+VII. Das Herz: Makroansicht der schwingenden Unruh und Spiralfeder, dahinter die vollständig aufgelöste Säule.
+Jedes Teil bewegt sich entlang einer klaren Achse, meist entlang der eigenen Wellenachse oder gerade nach oben von der Platine weg. Zusammengehörige Teile bleiben zusammen. Während der Explosion schneidet nichts ineinander, und kein Teil verlässt den Bildausschnitt.
+Für die wichtigsten Teile erscheinen an jedem Haltepunkt dünne Haarlinien mit kleinen Kappen und Beschriftungen; zwischen den Haltepunkten werden sie ausgeblendet.
+INTERACTION
+Scrollen (Mausrad, Trackpad, Wischgeste) steuert die Explosion.
+Durch Ziehen in einem leeren Bereich lässt sich die Uhr innerhalb definierter Grenzen drehen; nach dem Loslassen kehrt sie sanft zurück.
+Beim Überfahren eines Teils wird dessen Kontur sanft hervorgehoben und sein Name angezeigt.
+Beim Klicken auf ein Teil wird dieses hervorgehoben, während die übrigen Teile auf etwa 35 % abgedunkelt werden; die Kamera fährt sanft heran, um es einzurahmen;
+daneben öffnet sich eine Karte, verbunden durch eine Haarlinie. Die Karte zeigt: Name; Funktion in ein oder zwei klaren Sätzen; eine präzise Tatsache (zum Beispiel: „Ankerrad · 20 Zähne · eine Umdrehung alle 5 s“); und einen Live-Wert (aktuelle Geschwindigkeit, Winkel oder bisherige Schläge).
+Esc, eine Schließen-Schaltfläche oder ein Klick auf eine leere Stelle führt zurück.
+
+Durch seitliches Ziehen an der Krone wird die Uhr aufgezogen (mit fühlbarer Sperrradbewegung), sofern die Krone sichtbar ist.
+Pointer Capture, Maus und Touch. Auswahl über einen Renderdurchlauf mit Objekt-ID oder exakte Raycasts; keine angenäherten Begrenzungskugeln.
+RENDERING (echte Metalle, Anmutung von Makrofotografie – kein Cartoon)
+Physikalisch basierte Materialien mit einer prozeduralen Studio-Umgebung (große Softboxen, ein Streifenlicht und ein gedämpftes warmes Aufhelllicht) für Reflexionen.
+Oberflächen: Genfer Streifen auf den Brücken (anisotroper, an den Streifen ausgerichteter gebürsteter Glanz);
+Perlage (kreisförmige Körnung) auf der Platine;
+spiegelpolierte Fasen (Anglage) mit hellen Kantenreflexen;
+hauchdünne, im Anlassverfahren gebläute Schrauben und Zeiger;
+transluzente rote Rubinlager mit innerem Funkeln;
+rhodinierte Stahlteile;
+Saphirgläser mit schwachen blauvioletten Reflexionen und leicht sichtbarer Kantenstärke.
+
+Gehäuse in der ausgewählten Goldvariante.
+Glanzlichter: kontrolliertes Bloom ausschließlich auf spekularen Highlights; kleine Sternreflexe auf Rubinlagern und polierten Kanten, die erscheinen, wenn sich das Licht oder die Uhr bewegt. Glamour, kein Glitzer.
+Weiche Kontaktschatten, sanfte Umgebungsverdeckung, subtile Tiefenschärfe, die dem fokussierten Teil folgt.
+Filmisches Tonemapping ohne ausgefressene Highlights; 4x MSAA oder gleichwertig.
+Hintergrund: blasses Porzellanweiß mit weicher Vignette, wie in einem nahtlosen Fotostudio. Nicht gelb, nicht cremefarben.
+UI (aristokratisch, redaktionell, großzügiger Weißraum)
+Schriften: „Bodoni Moda“ für Display und Ziffern, „Jost“ für UI-Text (Google Fonts, mit Serif- und Sans-Serif-Fallbacks). Beschriftungen in Kapitälchen mit 0.16em Laufweite; tabellarische Ziffern.
+Farben: Tinte #1B1A17 auf dem Porzellanhintergrund;
+Haarlinien 1 px bei 15 % Tintenfarbe;
+die Akzentfarbe folgt der ausgewählten Goldvariante.
+
+Keine Verläufe bei UI-Elementen, keine starken Schatten, keine Emojis.
+Oben links: Kicker „OBJECTS, OPENED / NO. 01“;
+große Bodoni-Überschrift in zwei Zeilen: „Time,“ / „Undone.“;
+drei Bildzeilen in kursiver Bodoni: „Wound by hand.“ „Opened by scroll.“ „Nothing is hidden.“
+
+Oben rechts: Status „WEBGPU · LIVE“ mit einem kleinen Punkt.
+Am linken Rand, vertikal zentriert: der Kapitelindex „I. The case“, „II. The dial“, „III. Motion works“, „IV. The bridges“, „V. The going train“, „VI. The escapement“, „VII. The heart“. Das aktuelle Kapitel wird mit einer Haarlinien-Fortschrittslinie hervorgehoben; durch Klicken auf ein Kapitel wird dorthin gescrollt.
+
+Rechtes Panel „THE MOVEMENT“: drei Gehäusevorgaben: Weißgold, Gelbgold, Roségold, jeweils mit kleinen Metallmustern;
+Live-Anzeigen: Schwingfrequenz „28,800 vph“, Gangreserve (h, mit einem dünnen Balken), Amplitude (°), Schläge seit dem Öffnen;
+Schaltflächen „Krone aufziehen“ und „Auf lokale Zeit stellen“;
+Kontrollkästchen „¼ Geschwindigkeit“ und „Gangreserve verfolgen“. „Gangreserve verfolgen“ lässt eine langsame Lichtlinie entlang des Energiepfads fließen: Zugfeder → Federhaus → Minutenrad → Kleinbodenrad → Sekundenrad → Ankerrad → Anker → Unruh, wobei jedes Teil beim Passieren aufleuchtet;
+eine Schaltfläche zum Pausieren/Fortsetzen.
+
+Hinweis unten links: „Scrollen, um sie zu zerlegen. Klicke auf ein beliebiges Teil, um es kennenzulernen. Ziehen zum Drehen.“
+Unten rechts: ein einklappbarer Bereich „So funktioniert es“ mit einer kurzen, korrekten Erklärung von Gehwerk, Hemmung, Unruh und Gangreserve sowie einer kurzen Notiz dazu, wie diese Seite sie rendert.
+Mobil: Die Arbeitsfläche nimmt die oberen etwa 65 % des Bildschirms ein, und der Kapitelindex wird zu einer horizontalen Reihe römischer Ziffern. Das Panel folgt darunter; Teilekarten werden zu einem Bottom Sheet. Nichts verdeckt die Uhr.
+ENGINEERING
+Erzeuge die gesamte Geometrie einmal beim Start. Instanziiere wiederholte Teile (Schrauben, Rubinlager und bei Bedarf Zähne). Aktualisiere pro Frame nur die Transformationen; während der Interaktion keine Shader-Kompilierung und keinen Neuaufbau von Buffern.
+Die Animationszeit stammt aus einer einzigen Uhr mit ¼-Geschwindigkeitsskalierung. Pause friert den Mechanismus ein, nicht die UI.
+Beachte prefers-reduced-motion: sofortige Kapitelübergänge, keine Kamerafahrten, keine animierten Glitzereffekte.
+Wenn WebGPU nicht verfügbar ist, zeige eine klare, gut gestaltete Erklärung. Kein vorgetäuschter Fallback-Renderer.
+Behandle Geräteverluste. Begrenze die Pixeldichte auf 2. Ziele auf 60 fps auf einem Laptop und ein flüssiges Erlebnis auf einem aktuellen Smartphone.
+VOR DER AUSGABE VALIDIEREN
+Prüfe im Code die Übersetzungsverhältnisse des Räderwerks: Der Sekundenzeiger macht eine Umdrehung in 60 s, der Minutenzeiger eine in 3600 s, der Stundenzeiger eine in 12 h, das Ankerrad eine in 5 s. Protokolliere die Prüfung in der Konsole.
+Jedes ineinandergreifende Räderpaar hat den korrekten Achsabstand und greift im montierten Zustand sichtbar ineinander.
+Bei keinem Explosionsfortschritt schneidet ein Teil ein anderes; kein Z-Fighting.
+Scroll-Haltepunkte, Kapitel-Sprünge, Teilauswahl, Karten, Aufziehen, Vorgaben, Gangreserve-Verfolgung, Pause, ¼-Geschwindigkeit und das mobile Layout funktionieren vollständig.
+Die Kartentexte sind uhrmacherisch korrekt.
+Keine Konsolenfehler.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2105009377002299711) · [Originalbeitrag](https://x.com/theparuchh/status/2105009470292013286) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2105027152617918852"></a>
+
+### Realistisches F-22-Raptor-Modell und Flugvideo in Godot
+
+[Demetrius Greses Jr](https://x.com/dgresesjr) · 2026-09-29
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2105027152617918852"><img src="../assets/previews/53069c8ca05cdb52390b64d16519e81e5b77f7970af70c6a2e87fa2827406239.jpg" width="840" loading="lazy" alt="Realistisches F-22-Raptor-Modell und Flugvideo in Godot"></a>
+
+Ein Vergleichsprompt für ein realistisches 3D-Modell einer Lockheed Martin F-22 Raptor, gefolgt von einer 60-sekündigen MP4-Datei des in Godot fliegenden Flugzeugs zum Hochladen auf X. Im Ausgangspost werden 6 Astra unter den verglichenen Modellen aufgeführt.
+
+**Prompt**
+
+```text
+Mit Blender MCP. Erstelle ein realistisches 3D-Modell der Lockheed Martin F-22 Raptor (nur USA). Erstelle anschließend eine 60-sekündige MP4-Datei, in der sie in Godot fliegt und die ich auf X hochladen kann.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2105027152617918852) · [Originalbeitrag](https://x.com/dgresesjr/status/2105027152617918852) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2105047166733746209"></a>
+
+### Filmisch-fotorealistische Raketenstartszene
+
+[Matthew Lebo](https://x.com/MatthewLebo_) · 2026-09-29
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2105047166733746209"><img src="../assets/previews/8b297757174c79e883f61638f18822d20b93a44443582f60d59fc89779687a41.jpg" width="840" loading="lazy" alt="Filmisch-fotorealistische Raketenstartszene"></a>
+
+Ein wiederverwendbarer Prompt, den der Autor des Beitrags als exakt identische Eingabe zum Vergleich von GPT-Astra, GPT-6.1-Sol und Claude Opus 5.5 geteilt hat. Er fordert eine filmische, fotorealistische und detailliert texturierte 3D-Raketenstartszene, umgesetzt mit Three.js.
+
+**Prompt**
+
+```text
+Erstelle mit Three.js eine filmische, fotorealistische und detailreich texturierte Raketenstartszene.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2105047166733746209) · [Originalbeitrag](https://x.com/MatthewLebo_/status/2105047166733746209) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2105278999861526953"></a>
+
+### Blender-Render der Golden Gate Bridge
+
+[EvoLink.ai](https://x.com/EvoLinkAi) · 2026-09-30
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2105278999861526953"><img src="../assets/previews/6784455d747367e9776ffa07c75661a0751b892423d15d910c2f57a886a08447.jpg" width="840" loading="lazy" alt="Blender-Render der Golden Gate Bridge"></a>
+
+Ein von EvoLink.ai geteilter Benchmark-Prompt zum Rendern der Golden Gate Bridge in Blender. Er beschreibt eine extreme Untersicht von der San Francisco Bay, neblige Morgenbedingungen, aufwendig detaillierte Stahlfachwerktürme, zahlreiche detaillierte Fahrzeuge auf der Fahrbahn und raue Küstenhänge.
+
+**Prompt**
+
+```text
+Ein Blender-Render der Golden Gate Bridge. Eine weitläufige Aufnahme aus extremer Untersicht von der Oberfläche der San Francisco Bay, die zu den kolossalen, aufwendig gestalteten Stahlfachwerktürmen hinaufblickt, die den nebligen Morgenhimmel durchstoßen. Die breite Fahrbahn erstreckt sich über die gesamte Spannweite, mit unzähligen winzigen, detaillierten Fahrzeugen, und betont die imposante Größe der Brücke vor den rauen Küstenhängen.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2105278999861526953) · [Originalbeitrag](https://x.com/EvoLinkAi/status/2105279002793345069) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2105298955307303100"></a>
+
+### Erstelle eine 3D-Minion-Figur in Blender
+
+[EvoLink.ai](https://x.com/EvoLinkAi) · 2026-09-30
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2105298955307303100"><img src="../assets/previews/faa243bd67b442c652339eb4c1b327f0a62cc4eb193d64de9a8ec4c8b99fbfcb.jpg" width="840" loading="lazy" alt="Erstelle eine 3D-Minion-Figur in Blender"></a>
+
+Ein verifizierter Autoren-Prompt als 3D-Blender-Charaktertest für GPT-6.1 Sol, Sonnet 5.5 und GPT-6 Astra. Gefordert wird ein ausführbares bpy-Skript, das eine Figur im Minion-Stil mit Materialien, gespiegelten Komponenten, Studiobeleuchtung und einem fünfsekündigen quadratischen Turntable-Render erstellt.
+
+**Prompt**
+
+```text
+Schreibe ein vollständiges, ausführbares Python-Skript mit Blenders bpy-Modul, das eine 3D-Minion-Figur erstellt, eine 360-Grad-Turntable-Kameraanimation einrichtet und ein 5-sekündiges Video im Seitenverhältnis 1:1 rendert.
+Animations- und Rendervorgaben:
+
+Bildrate und Dauer: Setze die Bildrate auf 30 fps und den Renderbereich auf die Bilder 1 bis 150 (genau 5 Sekunden).
+Seitenverhältnis: Setze die Renderauflösung auf 1080 × 1080 Pixel (quadratisches Verhältnis 1:1).
+Turntable-Kameraanimation: Animiere die Kamera (oder ein leeres Steuerungsobjekt, das der Kamera übergeordnet ist) so, dass sie sich über die 150 Bilder nahtlos um 360 Grad um den Minion dreht.
+Setze die Keyframe-Interpolation auf LINEAR, um eine gleichmäßige Drehung mit konstanter Geschwindigkeit zu gewährleisten.
+
+Ausgabeeinstellungen: Setze das Ausgabeformat auf FFmpeg-Video (H.264 / MP4-Container).
+Technische Anforderungen und Modellstruktur:
+Grundkörper: Erstelle ein kapselartiges Mesh für den Hauptkörper (gelbes Material, Subsurface Scattering/Roughness ca. 0,3).
+Füge oben auf dem Kopf wenige dünne, schwarze Haarsträhnen hinzu.
+
+Schutzbrille und Augen: Erstelle eine Schutzbrille mit zwei Gläsern aus extrudierten Zylindern/Tori.
+Material des Brillenrahmens: Metallic ca. 0,9, Roughness ca. 0,2, um gebürstetes Aluminium bzw. Metall zu simulieren.
+Füge ein schwarzes elastisches Band hinzu, das sich um den Körper legt.
+Erzeuge zwei Augapfel-Meshes im Rahmen (weiße Lederhaut, braune Iris, glänzende Pupille).
+
+Kleidung – Latzhose: Modelliere die Jeanslatzhose mit separater Mesh-Geometrie oder extrudierten Körpersegmenten.
+Material: Blaue Jeansfarbe, höhere Roughness ca. 0,6.
+Füge Schulterträger und eine Brusttasche auf der Vorderseite hinzu.
+
+Gliedmaßen und Details: Füge Arme und Beine mit schwarzen Handschuhen und schwarzen Schuhen hinzu.
+Verwende, wo sinnvoll, den Mirror Modifier (bpy.ops.object.modifier_add(type='MIRROR')), z. B. für Augen, Brillenrahmen, Arme, Träger und Beine, um Symmetrie und sauberen Code zu gewährleisten.
+
+Beleuchtung und Szene: Richte eine Drei-Punkt-Beleuchtung (Key-, Fill- und Rim-Licht) ein, die der Kamera übergeordnet ist oder gleichmäßig platziert wird, damit die Beleuchtung während der Drehung konsistent bleibt.
+Setze die Render-Engine auf Cycles oder Eevee und verwende einen sauberen Studiohintergrund.
+Stelle sicher, dass alle Materialien mit Nodes erstellt werden (use_nodes = True).
+
+Gib NUR gültigen Python-Code in einem Markdown-Block ohne Begleittext oder Markdown-Erklärungen zurück.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2105298955307303100) · [Originalbeitrag](https://x.com/EvoLinkAi/status/2105298964027265295) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2105323534398763307"></a>
+
+### Eine Szene in Isaac Sim nachbilden
+
+[Charles Wong](https://x.com/charleswongzx) · 2026-09-30
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2105323534398763307"><img src="../assets/previews/fa08d494a2ded6a2b2e603413d0329a12a3cac84d96a354791280ad5b2434979.jpg" width="840" loading="lazy" alt="Eine Szene in Isaac Sim nachbilden"></a>
+
+Ein Prompt zum Nachbilden der angehängten Szene in Isaac Sim zur Bewertung von Manipulationsrichtlinien – ohne Manifold.
+
+**Prompt**
+
+```text
+Bilde diese Szene in Isaac Sim zur Bewertung von Manipulationsrichtlinien nach. Verwende Manifold nicht.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2105323534398763307) · [Originalbeitrag](https://x.com/charleswongzx/status/2105323534398763307) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Endlose Panzerverteidigung
@@ -4155,7 +4231,7 @@ Liefere Quellcode, Lockfile, npm-Befehle für Entwicklung und Build sowie die st
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 302 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 308 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>
