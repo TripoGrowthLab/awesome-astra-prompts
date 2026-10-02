@@ -28,7 +28,7 @@
 **次のゲーム、シーン、インタラクティブな世界づくりのヒントに。**
 
 
-**308 · 最新の Astra プロンプト**
+**310 · 最新の Astra プロンプト**
 
 ## 注目の作品
 
@@ -53,8 +53,6 @@
 - [チェルノブイリ・アトラス](#2098841316591346006) · GitHub
 - [インタラクティブ3D解剖ビューア](#2099206962344800541) · GitHub
 - [アイソメトリックなファンタジーグラフィックスデモ](#2100271998618177864) · GitHub
-- [キャラクターモデルの髪・顔テクスチャ自動生成・UV転写](#2098367087475577273)
-- [寺院のミニチュアジオラマシーン](#2098403061463224543)
 - [ロボットで遊ぶ少女のフィギュア](#2098406473273663992)
 - [インタラクティブ3D錦鯉池](#2098492771170722032)
 - [ブルックリン橋をモデリングし、両方向から戦車が渡るケースを検証する](#2098650336521064759)
@@ -144,6 +142,8 @@
 - [Blenderで描くゴールデン・ゲート・ブリッジ](#2105278999861526953)
 - [Blenderで3Dミニオンキャラクターを作成](#2105298955307303100)
 - [Isaac Simでシーンを再現](#2105323534398763307)
+- [金色のミニチュア3Dピラミッド・ジオラマ](#2105412081692352654)
+- [3D隕石回避ゲーム](#2105644436659290409)
 - [Battle City 3D：エンドレス戦車ディフェンス](#battle-city-3d)
 - [Crazy Tanks — 3Dアイランド砲撃戦](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — 奇妙な武器のサバイバルゲーム](#odd-arms)
@@ -227,48 +227,6 @@ Three.jsを使って、高品質なインタラクティブ3D展示「Chernobyl 
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2100271998618177864) · [元の投稿](https://github.com/achimala/dream-loop) · [ソースコード](https://github.com/achimala/dream-loop) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="2098367087475577273"></a>
-
-### キャラクターモデルの髪・顔テクスチャ自動生成・UV転写
-
-[さ🥺](https://x.com/_sagyoai) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098367087475577273"><img src="../assets/previews/796d0921534d254e6ae0af1573edeef0691da20f53a1c97baaf2dfa29777cbf5.jpg" width="840" loading="lazy" alt="キャラクターモデルの髪・顔テクスチャ自動生成・UV転写"></a>
-
-Blender MCPで、髪なしの正面顔レンダーを参照にテクスチャ画像を生成し、並行投影で出力用UVへ転写するよう依頼するプロンプト。
-
-**プロンプト**
-
-```text
-画像生成を利用して最強のテクスチャリングしてほしい
-髪なし顔面正面をフラットシェーディングで影なしでレンダリングしてそれをリファレンスにテクスチャリング済み画像生成して並行投影でマッピングして出力用UVに転写
-又はastraが思いついたもっといい方法あればそれで
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098367087475577273) · [元の投稿](https://x.com/_sagyoai/status/2098367087475577273) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="2098403061463224543"></a>
-
-### 寺院のミニチュアジオラマシーン
-
-[Rion Wu](https://x.com/rionaifantasy) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098403061463224543"><img src="../assets/previews/66d1394523ca0e755b767c67c4784666975662070815f63d52e11d5863f84849.jpg" width="840" loading="lazy" alt="寺院のミニチュアジオラマシーン"></a>
-
-作者がスレッド内で紹介している参考画像用プロンプト。寺院の象徴的な要素を取り入れた、45°俯瞰のアイソメトリックなミニチュアジオラマシーンを表現します。元の投稿によると、この寺院のミニチュアシーンはAstraでパーツを分解し、V2Funでディテールを作り込んだ後、組み合わせて微調整したものです。
-
-**プロンプト**
-
-```text
-寺院の特徴的な要素を取り入れた、明瞭な45°俯瞰のアイソメトリックなミニチュア2.5Dカートゥーンジオラマシーンを表現。柔らかく精緻なテクスチャ、リアルなPBRマテリアル、穏やかでリアルなライティングを使用する。小さく盛り上がったジオラマ風の立体ベースを作り、その上に寺院を最も特徴づける要素を配置する。背景は単色。構図：完全に中央揃え、正方形1080×1080、非常にクリーンで高精細なジオラマ美学。太字で明るいフォントに変更するだけでよい。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098403061463224543) · [元の投稿](https://x.com/rionaifantasy/status/2098403061463224543) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -3908,6 +3866,53 @@ Manifoldを使わずに、操作方策の評価用として添付シーンをIsa
 
 ---
 
+<a id="2105412081692352654"></a>
+
+### 金色のミニチュア3Dピラミッド・ジオラマ
+
+[demon](https://x.com/demonugc) · 2026-09-30
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2105412081692352654"><img src="../assets/previews/b1ed0c9b59b4c8a4fb48628ad56441aed5ecc49078d0b18bf932f96d371d7db4.jpg" width="840" loading="lazy" alt="金色のミニチュア3Dピラミッド・ジオラマ"></a>
+
+作者が共有した、GPT-6 AstraとFable 5を15秒間スプリットスクリーンで比較するプロンプトです。同期した軌道カメラと、ピラミッドが変形するアニメーションを使った、金色のミニチュアのピラミッドと神殿のジオラマを指定します。
+
+**プロンプト**
+
+```text
+{
+  "task": "ピラミッドを3Dで構築する。カメラを回転させる",
+  "video": { "duration": "15s", "ratio": "16:9", "layout": "スプリットスクリーン、左右各1モデル" },
+  "scene": "金色のミニチュア・ジオラマ、ティルトシフト、暗い夕暮れのライティング、滑らかに彫刻されたピラミッド、神殿、小さなピラミッド、ひび割れた広場、等高線状の地形",
+  "animation": "ピラミッドが底部から頂点へ向かって変形しながら現れる。作業員なし、スロープなし、ブロックなし",
+  "camera": "150度の連続オービット、左右で同期",
+  "overlay": "モデル名とタイマーのみ"
+}
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2105412081692352654) · [元の投稿](https://x.com/demonugc/status/2105412081692352654) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="2105644436659290409"></a>
+
+### 3D隕石回避ゲーム
+
+[dubspeak.com](https://dubspeak.com/) · 2026-10-01
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2105644436659290409"><img src="../assets/previews/3b0da133d0436a0029340926f43adb0e7db50916ab6b7d1b22a921b3029fac81.jpg" width="840" loading="lazy" alt="3D隕石回避ゲーム"></a>
+
+OpenAIオリジナル動画のDubSpeak連携トランスクリプトには、矢印キーで移動し、スペースキーでブーストする、隕石を回避する3Dゲームの制作依頼が収録されています。
+
+**プロンプト**
+
+```text
+では、矢印キーで移動しながら隕石をかわし、スペースキーでブーストできる3Dゲームを作ってください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2105644436659290409) · [元の投稿](https://dubspeak.com/gpt-6-astra-intro-20260928-v5/) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D：エンドレス戦車ディフェンス
@@ -4296,7 +4301,7 @@ Vite、TypeScript、Three.jsを使用し、地理情報、純粋な物理／ス�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 308 件の作例を公式サイトで見る →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 310 件の作例を公式サイトで見る →</a></strong></p>
 <p><sub>GitHub README をスムーズに表示するため、ここでは最新の作例 100 件のみを掲載しています。</sub></p>
 <br>
 </td></tr>

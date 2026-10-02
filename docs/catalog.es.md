@@ -28,7 +28,7 @@
 **Un punto de partida para tu próximo juego, escena o mundo interactivo.**
 
 
-**308 · Últimos prompts de Astra**
+**310 · Últimos prompts de Astra**
 
 ## Proyectos destacados
 
@@ -53,8 +53,6 @@
 - [Atlas de Chernóbil](#2098841316591346006) · GitHub
 - [Explorador interactivo de anatomía en 3D](#2099206962344800541) · GitHub
 - [Demo de gráficos de fantasía isométrica](#2100271998618177864) · GitHub
-- [Generación automática y transferencia UV de texturas de cabello y rostro para modelos de personajes](#2098367087475577273)
-- [Escena de maqueta 3D en miniatura de un templo](#2098403061463224543)
 - [Figura 3D de una niña jugando con un robot](#2098406473273663992)
 - [Estanque de koi 3D interactivo](#2098492771170722032)
 - [Modela el puente de Brooklyn y prueba el cruce de tanques desde ambas direcciones](#2098650336521064759)
@@ -144,6 +142,8 @@
 - [Render en Blender del puente Golden Gate](#2105278999861526953)
 - [Crea un personaje 3D estilo Minion en Blender](#2105298955307303100)
 - [Recrear una escena en Isaac Sim](#2105323534398763307)
+- [Diorama de pirámide dorada en miniatura 3D](#2105412081692352654)
+- [juego 3D de esquivar asteroides](#2105644436659290409)
 - [Battle City 3D: Defensa de tanques sin fin](#battle-city-3d)
 - [Crazy Tanks — Artillería 3D en una isla](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Juego de supervivencia con armas extrañas](#odd-arms)
@@ -227,48 +227,6 @@ Crea una demo gráfica: cámara isométrica, estilo artístico tipo vóxel con s
 ```
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100271998618177864) · [Publicación original](https://github.com/achimala/dream-loop) · [Código fuente](https://github.com/achimala/dream-loop) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2098367087475577273"></a>
-
-### Generación automática y transferencia UV de texturas de cabello y rostro para modelos de personajes
-
-[さ🥺](https://x.com/_sagyoai) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098367087475577273"><img src="../assets/previews/796d0921534d254e6ae0af1573edeef0691da20f53a1c97baaf2dfa29777cbf5.jpg" width="840" loading="lazy" alt="Generación automática y transferencia UV de texturas de cabello y rostro para modelos de personajes"></a>
-
-Un prompt para Blender MCP que solicita generar una imagen de textura a partir de un render frontal del rostro sin cabello y transferirla mediante proyección ortográfica a las UV de destino.
-
-**Prompt**
-
-```text
-Quiero que hagas el mejor texturizado posible mediante generación de imágenes
-. Renderiza el rostro frontal sin cabello con sombreado plano y sin sombras, genera una imagen texturizada usando ese render como referencia y proyéctala mediante proyección ortográfica para transferirla a las UV de destino
-. Si a astra se le ocurre un método mejor, utiliza ese.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098367087475577273) · [Publicación original](https://x.com/_sagyoai/status/2098367087475577273) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2098403061463224543"></a>
-
-### Escena de maqueta 3D en miniatura de un templo
-
-[Rion Wu](https://x.com/rionaifantasy) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098403061463224543"><img src="../assets/previews/66d1394523ca0e755b767c67c4784666975662070815f63d52e11d5863f84849.jpg" width="840" loading="lazy" alt="Escena de maqueta 3D en miniatura de un templo"></a>
-
-El autor proporciona en el hilo una indicación para generar una imagen de referencia que muestra una escena de maqueta 3D en miniatura, con vista isométrica desde un ángulo de 45° y elementos emblemáticos de un templo. Según la publicación original, la escena se creó descomponiendo las piezas con Astra, elaborando los detalles con V2Fun y realizando después ajustes de composición.
-
-**Prompt**
-
-```text
-Muestra una escena de maqueta 2.5D en miniatura, de estilo cartoon, con una vista isométrica desde un ángulo de 45°, texturas suaves y refinadas, materiales PBR realistas e iluminación suave y naturalista. Crea una pequeña base elevada, estilo diorama, que incluya los elementos más reconocibles del templo. Usa un fondo de color sólido. Composición: diseño perfectamente centrado, formato cuadrado de 1080x1080, estética de maqueta 3D muy limpia y de alta definición; basta con cambiar la tipografía por una más gruesa y luminosa.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098403061463224543) · [Publicación original](https://x.com/rionaifantasy/status/2098403061463224543) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -3903,6 +3861,53 @@ Recrea esta escena en Isaac Sim con el fin de evaluar políticas de manipulació
 
 ---
 
+<a id="2105412081692352654"></a>
+
+### Diorama de pirámide dorada en miniatura 3D
+
+[demon](https://x.com/demonugc) · 2026-09-30
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2105412081692352654"><img src="../assets/previews/b1ed0c9b59b4c8a4fb48628ad56441aed5ecc49078d0b18bf932f96d371d7db4.jpg" width="840" loading="lazy" alt="Diorama de pirámide dorada en miniatura 3D"></a>
+
+Prompt compartido por un autor para comparar en pantalla dividida GPT-6 Astra y Fable 5 durante 15 segundos. Solicita un diorama dorado en miniatura de una pirámide y un templo, con una cámara orbitando de forma sincronizada y una animación de transformación de la pirámide.
+
+**Prompt**
+
+```text
+{
+  "task": "construir las pirámides en 3D. girar la cámara",
+  "video": { "duration": "15s", "ratio": "16:9", "layout": "pantalla dividida, 1 modelo por lado" },
+  "scene": "diorama dorado en miniatura, efecto tilt-shift, iluminación oscura del crepúsculo, pirámide tallada y lisa, templo, pirámides pequeñas, plaza agrietada, terreno con curvas de nivel",
+  "animation": "la pirámide se forma desde la base hasta la punta, sin trabajadores, sin rampas, sin bloques",
+  "camera": "órbita continua de 150 grados, sincronizada en ambos lados",
+  "overlay": "solo el nombre del modelo y el temporizador"
+}
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2105412081692352654) · [Publicación original](https://x.com/demonugc/status/2105412081692352654) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2105644436659290409"></a>
+
+### juego 3D de esquivar asteroides
+
+[dubspeak.com](https://dubspeak.com/) · 2026-10-01
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2105644436659290409"><img src="../assets/previews/3b0da133d0436a0029340926f43adb0e7db50916ab6b7d1b22a921b3029fac81.jpg" width="840" loading="lazy" alt="juego 3D de esquivar asteroides"></a>
+
+Una transcripción enlazada de DubSpeak de un video original de OpenAI cita una solicitud para crear un juego 3D de esquivar asteroides, con movimiento mediante las teclas de dirección y un impulso con la barra espaciadora.
+
+**Prompt**
+
+```text
+Ahora quiero que hagas un juego 3D en el que esquive asteroides, usando las teclas de dirección para moverme y la barra espaciadora para impulsarme.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2105644436659290409) · [Publicación original](https://dubspeak.com/gpt-6-astra-intro-20260928-v5/) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Defensa de tanques sin fin
@@ -4291,7 +4296,7 @@ Entrega el código fuente, el archivo de bloqueo, los comandos npm de desarrollo
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 308 ejemplos en el sitio oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 310 ejemplos en el sitio oficial →</a></strong></p>
 <p><sub>Para que el README de GitHub se renderice con fluidez, aquí solo se muestran los 100 ejemplos más recientes.</sub></p>
 <br>
 </td></tr>

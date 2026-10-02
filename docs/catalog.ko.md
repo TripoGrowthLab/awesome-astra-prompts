@@ -28,7 +28,7 @@
 **다음 게임, 장면, 인터랙티브 세계를 위한 아이디어를 찾아보세요.**
 
 
-**308 · 최신 Astra 프롬프트**
+**310 · 최신 Astra 프롬프트**
 
 ## 추천 작품
 
@@ -53,8 +53,6 @@
 - [체르노빌 아틀라스](#2098841316591346006) · GitHub
 - [인터랙티브 3D 해부학 탐색기](#2099206962344800541) · GitHub
 - [아이소메트릭 판타지 그래픽 데모](#2100271998618177864) · GitHub
-- [캐릭터 모델 헤어·얼굴 텍스처 자동 생성 및 UV 전사](#2098367087475577273)
-- [사원 미니어처 3D 모델 장면](#2098403061463224543)
 - [로봇과 노는 소녀 피규어](#2098406473273663992)
 - [인터랙티브 3D 잉어 연못](#2098492771170722032)
 - [브루클린 브리지를 모델링하고 양방향에서 전차가 통과하는 상황을 테스트하세요](#2098650336521064759)
@@ -144,6 +142,8 @@
 - [금문교 Blender 렌더](#2105278999861526953)
 - [Blender에서 3D 미니언 캐릭터 만들기](#2105298955307303100)
 - [Isaac Sim에서 장면 재현하기](#2105323534398763307)
+- [황금빛 미니어처 3D 피라미드 디오라마](#2105412081692352654)
+- [3D 소행성 회피 게임](#2105644436659290409)
 - [Battle City 3D: 끝없는 탱크 디펜스](#battle-city-3d)
 - [Crazy Tanks — 3D 아일랜드 포병전](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — 기묘한 무기 서바이벌 게임](#odd-arms)
@@ -227,48 +227,6 @@ Three.js를 사용해 고품질 인터랙티브 3D 전시물 "체르노빌 아�
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100271998618177864) · [원본 게시물](https://github.com/achimala/dream-loop) · [소스 코드](https://github.com/achimala/dream-loop) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="2098367087475577273"></a>
-
-### 캐릭터 모델 헤어·얼굴 텍스처 자동 생성 및 UV 전사
-
-[さ🥺](https://x.com/_sagyoai) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2098367087475577273"><img src="../assets/previews/796d0921534d254e6ae0af1573edeef0691da20f53a1c97baaf2dfa29777cbf5.jpg" width="840" loading="lazy" alt="캐릭터 모델 헤어·얼굴 텍스처 자동 생성 및 UV 전사"></a>
-
-Blender MCP를 사용해 머리카락이 없는 정면 얼굴 렌더를 참조하여 텍스처 이미지를 생성하고, 평행 투영으로 출력용 UV에 전사하도록 요청하는 프롬프트입니다.
-
-**프롬프트**
-
-```text
-이미지 생성 기능을 활용해 최대한 완성도 높은 텍스처링을 해 주세요
-머리카락이 없는 얼굴을 정면에서 플랫 셰이딩과 무그림자 설정으로 렌더링하고, 이를 참조해 텍스처가 적용된 이미지를 생성한 다음 평행 투영으로 매핑하여 출력용 UV에 전사해 주세요
-또는 astra가 더 나은 방법을 생각해 냈다면 그 방법으로 진행해 주세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2098367087475577273) · [원본 게시물](https://x.com/_sagyoai/status/2098367087475577273) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="2098403061463224543"></a>
-
-### 사원 미니어처 3D 모델 장면
-
-[Rion Wu](https://x.com/rionaifantasy) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2098403061463224543"><img src="../assets/previews/66d1394523ca0e755b767c67c4784666975662070815f63d52e11d5863f84849.jpg" width="840" loading="lazy" alt="사원 미니어처 3D 모델 장면"></a>
-
-작성자가 댓글에 공유한 레퍼런스 이미지 프롬프트로, 사원의 대표적인 요소를 담은 45° 하향 아이소메트릭 미니어처 3D 모델 장면을 표현합니다. 원문 게시글에 따르면 이 사원 미니어처 장면은 Astra로 파츠를 분해하고 V2Fun으로 디테일을 제작한 뒤 조합하고 다듬어 완성했습니다.
-
-**프롬프트**
-
-```text
-선명한 45° 하향 아이소메트릭 미니 2.5D 카툰 스타일 3D 모델 장면을 표현합니다. 부드럽고 섬세한 텍스처, 사실적인 PBR 소재, 은은하면서도 사실적인 조명을 적용합니다. 사원의 가장 알아보기 쉬운 요소를 담은 작고 볼륨감 있는 디오라마 스타일 베이스를 만듭니다. 단색 배경을 사용합니다. 구도: 정사각형 1080x1080 캔버스에 완벽하게 중앙 정렬하고, 매우 깔끔하고 선명한 3D 모델 미학을 표현합니다. 굵고 밝은 글꼴로만 변경하면 됩니다.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2098403061463224543) · [원본 게시물](https://x.com/rionaifantasy/status/2098403061463224543) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -3909,6 +3867,53 @@ Manifold를 사용하지 않고 조작 정책 평가를 위해 첨부된 장면�
 
 ---
 
+<a id="2105412081692352654"></a>
+
+### 황금빛 미니어처 3D 피라미드 디오라마
+
+[demon](https://x.com/demonugc) · 2026-09-30
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2105412081692352654"><img src="../assets/previews/b1ed0c9b59b4c8a4fb48628ad56441aed5ecc49078d0b18bf932f96d371d7db4.jpg" width="840" loading="lazy" alt="황금빛 미니어처 3D 피라미드 디오라마"></a>
+
+GPT-6 Astra와 Fable 5를 15초 분할 화면으로 비교하는 작성자 공유 프롬프트입니다. 동기화된 오비트 카메라와 피라미드 변형 애니메이션을 적용한 황금빛 미니어처 피라미드·사원 디오라마를 요청합니다.
+
+**프롬프트**
+
+```text
+{
+  "task": "3D로 피라미드를 제작하고 카메라를 회전합니다",
+  "video": { "duration": "15초", "ratio": "16:9", "layout": "분할 화면, 각 측면에 모델 1개" },
+  "scene": "황금빛 미니어처 디오라마, 틸트 시프트, 어두운 해 질 무렵 조명, 매끄럽게 조각된 피라미드, 사원, 작은 피라미드, 금이 간 광장, 등고선 지형",
+  "animation": "피라미드가 바닥에서 꼭대기까지 나타나며 변형됨, 작업자 없음, 경사로 없음, 블록 없음",
+  "camera": "양쪽 화면에서 동기화된 연속 150도 오비트",
+  "overlay": "모델 이름과 타이머만 표시"
+}
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2105412081692352654) · [원본 게시물](https://x.com/demonugc/status/2105412081692352654) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="2105644436659290409"></a>
+
+### 3D 소행성 회피 게임
+
+[dubspeak.com](https://dubspeak.com/) · 2026-10-01
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2105644436659290409"><img src="../assets/previews/3b0da133d0436a0029340926f43adb0e7db50916ab6b7d1b22a921b3029fac81.jpg" width="840" loading="lazy" alt="3D 소행성 회피 게임"></a>
+
+OpenAI 오리지널 영상에 등장하는 DubSpeak 링크 트랜스크립트에서 화살표 키로 이동하고 스페이스바로 부스트하는 3D 소행성 회피 게임 제작 요청을 인용합니다.
+
+**프롬프트**
+
+```text
+이제 화살표 키로 이동하고 스페이스바로 부스트하면서 소행성을 피하는 3D 게임을 만들어 주세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2105644436659290409) · [원본 게시물](https://dubspeak.com/gpt-6-astra-intro-20260928-v5/) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: 끝없는 탱크 디펜스
@@ -4297,7 +4302,7 @@ Vite, TypeScript와 Three.js를 사용하고, 지리 데이터, 순수 물리·�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 308개 보기 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 310개 보기 →</a></strong></p>
 <p><sub>GitHub README가 원활하게 렌더링되도록 최신 사례 100개만 표시합니다.</sub></p>
 <br>
 </td></tr>

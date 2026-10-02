@@ -28,7 +28,7 @@
 **為你的下一個遊戲、場景或互動世界尋找靈感。**
 
 
-**308 · 最新 Astra 提示詞**
+**310 · 最新 Astra 提示詞**
 
 ## 精選作品
 
@@ -53,8 +53,6 @@
 - [車諾比爾圖鑑](#2098841316591346006) · GitHub
 - [互動式 3D 解剖探索器](#2099206962344800541) · GitHub
 - [等角視角奇幻 3D 圖形展示](#2100271998618177864) · GitHub
-- [角色模型頭髮與臉部貼圖自動生成及 UV 轉寫](#2098367087475577273)
-- [寺廟微縮立體模型場景](#2098403061463224543)
 - [玩機器人的小女孩公仔](#2098406473273663992)
 - [互動式 3D 錦鯉池](#2098492771170722032)
 - [建立布魯克林大橋模型，測試坦克從雙向通行](#2098650336521064759)
@@ -144,6 +142,8 @@
 - [Blender 金門大橋渲染圖](#2105278999861526953)
 - [在 Blender 中建立 3D 小小兵角色](#2105298955307303100)
 - [在 Isaac Sim 中重建場景](#2105323534398763307)
+- [金色迷你 3D 金字塔微縮場景](#2105412081692352654)
+- [3D 小行星閃避遊戲](#2105644436659290409)
 - [Battle City 3D：無盡坦克防禦](#battle-city-3d)
 - [Crazy Tanks — 3D 島嶼火砲戰](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — 怪奇武器生存遊戲](#odd-arms)
@@ -227,48 +227,6 @@
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100271998618177864) · [查看原文](https://github.com/achimala/dream-loop) · [專案原始碼](https://github.com/achimala/dream-loop) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2098367087475577273"></a>
-
-### 角色模型頭髮與臉部貼圖自動生成及 UV 轉寫
-
-[さ🥺](https://x.com/_sagyoai) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098367087475577273"><img src="../assets/previews/796d0921534d254e6ae0af1573edeef0691da20f53a1c97baaf2dfa29777cbf5.jpg" width="840" loading="lazy" alt="角色模型頭髮與臉部貼圖自動生成及 UV 轉寫"></a>
-
-使用 Blender MCP，以無頭髮的正面臉部渲染圖為參考生成貼圖影像，再透過平行投影轉寫至輸出用 UV 的提示詞。
-
-**提示詞**
-
-```text
-請使用影像生成，製作品質最好的貼圖
-將無頭髮的正面臉部以平面著色、無陰影的方式渲染，並以此作為參考生成完成貼圖的影像，再透過平行投影進行映射，轉寫至輸出用 UV
-如果 astra 想到更好的方法，也可以改用那個方法
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098367087475577273) · [查看原文](https://x.com/_sagyoai/status/2098367087475577273) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2098403061463224543"></a>
-
-### 寺廟微縮立體模型場景
-
-[Rion Wu](https://x.com/rionaifantasy) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098403061463224543"><img src="../assets/previews/66d1394523ca0e755b767c67c4784666975662070815f63d52e11d5863f84849.jpg" width="840" loading="lazy" alt="寺廟微縮立體模型場景"></a>
-
-作者在回覆串中提供的參考圖提示詞，用於呈現包含寺廟標誌性元素的 45° 俯視等軸測微型立體模型場景。原貼文稱，這個寺廟微縮場景先以 Astra 拆分元件，再由 V2Fun 製作細節，最後組合並微調完成。
-
-**提示詞**
-
-```text
-呈現一個清晰的 45° 俯視等軸測微型 2.5D 卡通立體模型場景，採用柔和細緻的紋理、逼真的 PBR 材質，以及柔和而真實的光照效果。建立一個小型凸起的立體模型風格底座，其中包含寺廟最具辨識度的元素。使用純色背景。構圖：完美置中的版面，方形 1080x1080，呈現極度乾淨、高清晰度的立體模型美學；只需改用加粗、提亮的字體即可。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098403061463224543) · [查看原文](https://x.com/rionaifantasy/status/2098403061463224543) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -3947,6 +3905,53 @@ Blender 金門大橋渲染圖。從舊金山灣水面向上仰望，以廣闊且
 
 ---
 
+<a id="2105412081692352654"></a>
+
+### 金色迷你 3D 金字塔微縮場景
+
+[demon](https://x.com/demonugc) · 2026-09-30
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2105412081692352654"><img src="../assets/previews/b1ed0c9b59b4c8a4fb48628ad56441aed5ecc49078d0b18bf932f96d371d7db4.jpg" width="840" loading="lazy" alt="金色迷你 3D 金字塔微縮場景"></a>
+
+作者分享的提示詞，用於比較 GPT-6 Astra 與 Fable 5 的 15 秒分割畫面結果。提示詞要求製作金色的金字塔與神殿微縮場景，搭配同步環繞的攝影機，以及金字塔變形動畫。
+
+**提示詞**
+
+```text
+{
+  "task": "以 3D 建立金字塔。旋轉攝影機",
+  "video": { "duration": "15s", "ratio": "16:9", "layout": "分割畫面，每側 1 個模型" },
+  "scene": "金色微縮場景、移軸效果、昏暗的暮色照明、平滑雕琢的金字塔、神殿、小型金字塔、龜裂廣場、等高線地形",
+  "animation": "金字塔由底部逐步變形至頂端，不要工人、斜坡或石塊",
+  "camera": "持續 150 度環繞，兩側同步",
+  "overlay": "僅顯示模型名稱與計時器"
+}
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2105412081692352654) · [查看原文](https://x.com/demonugc/status/2105412081692352654) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2105644436659290409"></a>
+
+### 3D 小行星閃避遊戲
+
+[dubspeak.com](https://dubspeak.com/) · 2026-10-01
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2105644436659290409"><img src="../assets/previews/3b0da133d0436a0029340926f43adb0e7db50916ab6b7d1b22a921b3029fac81.jpg" width="840" loading="lazy" alt="3D 小行星閃避遊戲"></a>
+
+這段連結至 DubSpeak 的 OpenAI 原創影片逐字稿，引用了一項製作 3D 小行星閃避遊戲的需求，包含使用方向鍵移動及空白鍵加速。
+
+**提示詞**
+
+```text
+現在，我要你製作一款 3D 遊戲，讓我閃避小行星，使用方向鍵移動，並按空白鍵加速。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2105644436659290409) · [查看原文](https://dubspeak.com/gpt-6-astra-intro-20260928-v5/) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D：無盡坦克防禦
@@ -4335,7 +4340,7 @@ UI：奶油白圓角卡片搭配海軍藍文字與珊瑚橘點綴；標題使用
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 308 個案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 310 個案例 →</a></strong></p>
 <p><sub>為保持 GitHub README 渲染流暢，這裡僅展示最新 100 個案例。</sub></p>
 <br>
 </td></tr>

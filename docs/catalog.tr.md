@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**308 · En yeni Astra istemleri**
+**310 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -53,8 +53,6 @@
 - [Çernobil Atlası](#2098841316591346006) · GitHub
 - [Etkileşimli 3B Anatomi Gezgini](#2099206962344800541) · GitHub
 - [İzometrik fantezi grafik demosu](#2100271998618177864) · GitHub
-- [Karakter modelinde saç ve yüz dokusunu otomatik oluşturma ve UV aktarımı](#2098367087475577273)
-- [Tapınak minyatür 3B model sahnesi](#2098403061463224543)
 - [Robotla Oynayan Küçük Kız Figürü](#2098406473273663992)
 - [Etkileşimli 3B Koi Göleti](#2098492771170722032)
 - [Brooklyn Köprüsü’nü modelleyin ve her iki yönden geçen tankları test edin](#2098650336521064759)
@@ -144,6 +142,8 @@
 - [Golden Gate Köprüsü'nün Blender render'ı](#2105278999861526953)
 - [Blender'da 3B Minion Karakteri Oluştur](#2105298955307303100)
 - [Isaac Sim'de bir sahneyi yeniden oluşturun](#2105323534398763307)
+- [Altın minyatür 3B piramit dioraması](#2105412081692352654)
+- [3B asteroitlerden kaçış oyunu](#2105644436659290409)
 - [Battle City 3D: Sonsuz Tank Savunması](#battle-city-3d)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu](#odd-arms)
@@ -227,48 +227,6 @@ Bana bir grafik demosu oluştur: izometrik kamera, gerçekçi gölgelendirmeye v
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100271998618177864) · [Orijinal gönderi](https://github.com/achimala/dream-loop) · [Kaynak kodu](https://github.com/achimala/dream-loop) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2098367087475577273"></a>
-
-### Karakter modelinde saç ve yüz dokusunu otomatik oluşturma ve UV aktarımı
-
-[さ🥺](https://x.com/_sagyoai) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098367087475577273"><img src="../assets/previews/796d0921534d254e6ae0af1573edeef0691da20f53a1c97baaf2dfa29777cbf5.jpg" width="840" loading="lazy" alt="Karakter modelinde saç ve yüz dokusunu otomatik oluşturma ve UV aktarımı"></a>
-
-Blender MCP ile saç içermeyen önden yüz render'ını referans alarak bir doku görseli oluşturmayı ve paralel projeksiyonla hedef UV'ye aktarmayı isteyen bir prompt.
-
-**İstem**
-
-```text
-Görüntü oluşturmayı kullanarak mümkün olan en iyi şekilde dokulama yapmanı istiyorum
-Saç içermeyen yüzü önden, gölgesiz ve düz gölgelendirmeyle render'la; bunu referans alarak dokulanmış bir görsel oluştur ve paralel projeksiyonla eşleyerek hedef UV'ye aktar
-Ya da astra'nın aklına daha iyi bir yöntem gelirse onu kullan.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098367087475577273) · [Orijinal gönderi](https://x.com/_sagyoai/status/2098367087475577273) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2098403061463224543"></a>
-
-### Tapınak minyatür 3B model sahnesi
-
-[Rion Wu](https://x.com/rionaifantasy) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098403061463224543"><img src="../assets/previews/66d1394523ca0e755b767c67c4784666975662070815f63d52e11d5863f84849.jpg" width="840" loading="lazy" alt="Tapınak minyatür 3B model sahnesi"></a>
-
-Yaratıcı, tapınağın ayırt edici unsurlarını içeren 45° üstten izometrik minyatür 3B model sahnesi oluşturmak için yanıt bölümünde bir referans görsel istemi paylaşıyor. Ana gönderide, tapınak minyatürü sahnesinin Astra ile parçalara ayrıldığı, ayrıntıların V2Fun ile hazırlandığı ve ardından birleştirilerek ince ayarlandığı belirtiliyor.
-
-**İstem**
-
-```text
-Yumuşak ve zarif dokular, gerçekçi PBR malzemeler ve doğal görünümlü, yumuşak aydınlatma kullanarak net bir 45° üstten izometrik görünümlü minyatür 2.5D çizgi film tarzı 3B model sahnesi oluşturun. Tapınağın en ayırt edici unsurlarını içeren, hafif yükseltilmiş küçük bir maket tabanı oluşturun. Düz renkli bir arka plan kullanın. Kompozisyon: kusursuz şekilde ortalanmış yerleşim, kare 1080x1080, son derece temiz ve yüksek çözünürlüklü maket estetiği. Yalnızca yazı tipini kalınlaştırıp daha parlak hâle getirin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098403061463224543) · [Orijinal gönderi](https://x.com/rionaifantasy/status/2098403061463224543) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3908,6 +3866,53 @@ Bu sahneyi manipülasyon politikası değerlendirmesi amacıyla Isaac Sim'de yen
 
 ---
 
+<a id="2105412081692352654"></a>
+
+### Altın minyatür 3B piramit dioraması
+
+[demon](https://x.com/demonugc) · 2026-09-30
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2105412081692352654"><img src="../assets/previews/b1ed0c9b59b4c8a4fb48628ad56441aed5ecc49078d0b18bf932f96d371d7db4.jpg" width="840" loading="lazy" alt="Altın minyatür 3B piramit dioraması"></a>
+
+GPT-6 Astra ve Fable 5'in 15 saniyelik bölünmüş ekran karşılaştırması için yazar tarafından paylaşılan bir istem. Eş zamanlı yörüngesel kamera hareketine ve piramidin biçim değiştirme animasyonuna sahip, altın renkli minyatür bir piramit ve tapınak dioraması talep ediyor.
+
+**İstem**
+
+```text
+{
+  "task": "piramitleri 3B olarak oluştur. Kamerayı döndür",
+  "video": { "duration": "15s", "ratio": "16:9", "layout": "bölünmüş ekran, her tarafta 1 model" },
+  "scene": "altın renkli minyatür diorama, tilt-shift, karanlık alacakaranlık ışığı, pürüzsüz oyma piramit, tapınak, küçük piramitler, çatlak plaza, konturlu arazi",
+  "animation": "piramit tabandan tepeye doğru biçim değiştirerek oluşsun; işçi, rampa ve blok olmasın",
+  "camera": "her iki tarafta eş zamanlı, kesintisiz 150 derecelik yörünge hareketi",
+  "overlay": "yalnızca model adı + zamanlayıcı"
+}
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2105412081692352654) · [Orijinal gönderi](https://x.com/demonugc/status/2105412081692352654) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2105644436659290409"></a>
+
+### 3B asteroitlerden kaçış oyunu
+
+[dubspeak.com](https://dubspeak.com/) · 2026-10-01
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2105644436659290409"><img src="../assets/previews/3b0da133d0436a0029340926f43adb0e7db50916ab6b7d1b22a921b3029fac81.jpg" width="840" loading="lazy" alt="3B asteroitlerden kaçış oyunu"></a>
+
+Bağlantısı paylaşılan DubSpeak transkriptinde, OpenAI'a ait özgün bir videoda; ok tuşlarıyla hareket edilen ve boşluk çubuğuyla hızlanılan, asteroitlerden kaçmaya dayalı bir 3B oyun yapma isteği aktarılıyor.
+
+**İstem**
+
+```text
+Şimdi, asteroitlerden kaçtığım; etrafta hareket etmek için ok tuşlarını, hızlanmak için de boşluk çubuğunu kullandığım bir 3B oyun yapmanı istiyorum.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2105644436659290409) · [Orijinal gönderi](https://dubspeak.com/gpt-6-astra-intro-20260928-v5/) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Sonsuz Tank Savunması
@@ -4296,7 +4301,7 @@ Kaynak kodu, lockfile’ı, npm geliştirme/derleme komutlarını ve statik çı
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 308 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 310 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

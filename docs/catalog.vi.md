@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**308 · Prompt Astra mới nhất**
+**310 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -53,8 +53,6 @@
 - [Atlas Chernobyl](#2098841316591346006) · GitHub
 - [Trình khám phá giải phẫu 3D tương tác](#2099206962344800541) · GitHub
 - [Demo đồ họa fantasy isometric](#2100271998618177864) · GitHub
-- [Tự động tạo và chuyển texture tóc, khuôn mặt cho model nhân vật](#2098367087475577273)
-- [Cảnh mô hình thu nhỏ 3D dạng lập thể của ngôi đền](#2098403061463224543)
 - [Mô hình bé gái chơi robot](#2098406473273663992)
 - [Hồ cá koi 3D tương tác](#2098492771170722032)
 - [Dựng mô hình cầu Brooklyn và thử nghiệm xe tăng đi qua từ cả hai hướng](#2098650336521064759)
@@ -144,6 +142,8 @@
 - [Bản render Blender của cầu Golden Gate](#2105278999861526953)
 - [Tạo nhân vật Minion 3D trong Blender](#2105298955307303100)
 - [Tái tạo cảnh trong Isaac Sim](#2105323534398763307)
+- [Sa bàn kim tự tháp 3D thu nhỏ màu vàng](#2105412081692352654)
+- [game 3D né thiên thạch](#2105644436659290409)
 - [Battle City 3D: Phòng thủ xe tăng vô tận](#battle-city-3d)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Game sinh tồn với vũ khí kỳ quặc](#odd-arms)
@@ -227,48 +227,6 @@ Hãy tạo một demo đồ họa: camera isometric, phong cách nghệ thuật 
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100271998618177864) · [Bài đăng gốc](https://github.com/achimala/dream-loop) · [Mã nguồn](https://github.com/achimala/dream-loop) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2098367087475577273"></a>
-
-### Tự động tạo và chuyển texture tóc, khuôn mặt cho model nhân vật
-
-[さ🥺](https://x.com/_sagyoai) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098367087475577273"><img src="../assets/previews/796d0921534d254e6ae0af1573edeef0691da20f53a1c97baaf2dfa29777cbf5.jpg" width="840" loading="lazy" alt="Tự động tạo và chuyển texture tóc, khuôn mặt cho model nhân vật"></a>
-
-Prompt yêu cầu Blender MCP dùng ảnh render chính diện khuôn mặt không tóc làm tham chiếu để tạo ảnh texture, sau đó chuyển texture sang UV đầu ra bằng phép chiếu song song.
-
-**Prompt**
-
-```text
-Hãy sử dụng tính năng tạo ảnh để texture chất lượng cao nhất
-Render chính diện khuôn mặt không tóc với flat shading, không có bóng, rồi dùng ảnh đó làm tham chiếu để tạo ảnh đã texture và ánh xạ bằng phép chiếu song song, sau đó chuyển sang UV đầu ra
-Nếu astra nghĩ ra cách nào tốt hơn thì hãy dùng cách đó
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098367087475577273) · [Bài đăng gốc](https://x.com/_sagyoai/status/2098367087475577273) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2098403061463224543"></a>
-
-### Cảnh mô hình thu nhỏ 3D dạng lập thể của ngôi đền
-
-[Rion Wu](https://x.com/rionaifantasy) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098403061463224543"><img src="../assets/previews/66d1394523ca0e755b767c67c4784666975662070815f63d52e11d5863f84849.jpg" width="840" loading="lazy" alt="Cảnh mô hình thu nhỏ 3D dạng lập thể của ngôi đền"></a>
-
-Từ khóa prompt hình tham khảo do tác giả chia sẻ trong phần bình luận, dùng để tạo cảnh mô hình thu nhỏ 3D dạng lập thể với góc nhìn đẳng cự từ trên xuống 45°, bao gồm các yếu tố đặc trưng của ngôi đền. Bài đăng gốc cho biết cảnh thu nhỏ này được tạo bằng cách tách các bộ phận với Astra, thực hiện chi tiết bằng V2Fun, sau đó kết hợp và tinh chỉnh.
-
-**Prompt**
-
-```text
-Tạo một cảnh mô hình thu nhỏ 2.5D dạng lập thể, phong cách hoạt hình, với góc nhìn đẳng cự từ trên xuống 45°. Sử dụng kết cấu bề mặt mềm mại, tinh tế, vật liệu PBR chân thực và ánh sáng dịu, tự nhiên. Tạo một đế mô hình nhỏ dạng khối nổi, chứa những yếu tố đặc trưng dễ nhận biết nhất của ngôi đền. Dùng nền đơn sắc. Bố cục: căn giữa hoàn hảo, hình vuông 1080x1080, thể hiện phong cách mô hình lập thể siêu sạch và độ phân giải cao; chỉ cần thay bằng phông chữ đậm, sáng hơn.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098403061463224543) · [Bài đăng gốc](https://x.com/rionaifantasy/status/2098403061463224543) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3926,6 +3884,53 @@ Tái tạo cảnh này trong Isaac Sim nhằm đánh giá chính sách thao tác
 
 ---
 
+<a id="2105412081692352654"></a>
+
+### Sa bàn kim tự tháp 3D thu nhỏ màu vàng
+
+[demon](https://x.com/demonugc) · 2026-09-30
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105412081692352654"><img src="../assets/previews/b1ed0c9b59b4c8a4fb48628ad56441aed5ecc49078d0b18bf932f96d371d7db4.jpg" width="840" loading="lazy" alt="Sa bàn kim tự tháp 3D thu nhỏ màu vàng"></a>
+
+Prompt do tác giả chia sẻ để so sánh GPT-6 Astra và Fable 5 trên màn hình chia đôi trong 15 giây. Prompt yêu cầu một sa bàn kim tự tháp và đền thờ thu nhỏ màu vàng, với camera chuyển động quanh đồng bộ và hoạt ảnh biến hình kim tự tháp.
+
+**Prompt**
+
+```text
+{
+  "task": "dựng các kim tự tháp trong không gian 3D. xoay camera",
+  "video": { "duration": "15s", "ratio": "16:9", "layout": "màn hình chia đôi, 1 mô hình mỗi bên" },
+  "scene": "sa bàn thu nhỏ màu vàng, hiệu ứng tilt-shift, ánh sáng chạng vạng tối, kim tự tháp chạm khắc mượt mà, đền thờ, các kim tự tháp nhỏ, quảng trường nứt vỡ, địa hình đồng mức",
+  "animation": "kim tự tháp biến hình từ đáy lên đỉnh, không có công nhân, không có đường dốc, không có khối",
+  "camera": "camera chuyển động quanh liên tục 150 độ, đồng bộ ở cả hai bên",
+  "overlay": "chỉ tên mô hình + bộ hẹn giờ"
+}
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105412081692352654) · [Bài đăng gốc](https://x.com/demonugc/status/2105412081692352654) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2105644436659290409"></a>
+
+### game 3D né thiên thạch
+
+[dubspeak.com](https://dubspeak.com/) · 2026-10-01
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105644436659290409"><img src="../assets/previews/3b0da133d0436a0029340926f43adb0e7db50916ab6b7d1b22a921b3029fac81.jpg" width="840" loading="lazy" alt="game 3D né thiên thạch"></a>
+
+Bản chép lời DubSpeak được liên kết từ một video gốc của OpenAI, trong đó trích dẫn yêu cầu tạo một game 3D né thiên thạch, di chuyển bằng các phím mũi tên và tăng tốc bằng phím cách.
+
+**Prompt**
+
+```text
+Bây giờ, tôi muốn bạn tạo một game 3D, trong đó tôi né các thiên thạch bằng cách dùng các phím mũi tên để di chuyển và dùng phím cách để tăng tốc.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105644436659290409) · [Bài đăng gốc](https://dubspeak.com/gpt-6-astra-intro-20260928-v5/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Phòng thủ xe tăng vô tận
@@ -4314,7 +4319,7 @@ Bàn giao mã nguồn, lockfile, lệnh npm phát triển/build và đầu ra t�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 308 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 310 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

@@ -28,7 +28,7 @@
 **Un point de départ pour votre prochain jeu, scène ou monde interactif.**
 
 
-**308 · Derniers prompts Astra**
+**310 · Derniers prompts Astra**
 
 ## Projets à découvrir
 
@@ -53,8 +53,6 @@
 - [Atlas de Tchernobyl](#2098841316591346006) · GitHub
 - [Explorateur anatomique 3D interactif](#2099206962344800541) · GitHub
 - [Démo de graphismes fantasy en vue isométrique](#2100271998618177864) · GitHub
-- [Génération automatique des textures des cheveux et du visage d’un personnage, avec transfert UV](#2098367087475577273)
-- [Scène miniature en volume représentant un temple](#2098403061463224543)
 - [Figurine d’une petite fille jouant avec un robot](#2098406473273663992)
 - [Étang à carpes koï 3D interactif](#2098492771170722032)
 - [Modéliser le pont de Brooklyn et tester le passage de chars dans les deux sens](#2098650336521064759)
@@ -144,6 +142,8 @@
 - [Rendu Blender du Golden Gate Bridge](#2105278999861526953)
 - [Créer un personnage 3D de Minion dans Blender](#2105298955307303100)
 - [Recréer une scène dans Isaac Sim](#2105323534398763307)
+- [Diorama 3D miniature de pyramides dorées](#2105412081692352654)
+- [Jeu 3D d’esquive d’astéroïdes](#2105644436659290409)
 - [Battle City 3D : Défense de chars sans fin](#battle-city-3d)
 - [Crazy Tanks — Artillerie insulaire en 3D](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Jeu de survie aux armes improbables](#odd-arms)
@@ -227,48 +227,6 @@ Crée-moi une démo graphique : caméra isométrique, style visuel inspiré des 
 ```
 
 [Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2100271998618177864) · [Publication originale](https://github.com/achimala/dream-loop) · [Code source](https://github.com/achimala/dream-loop) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2098367087475577273"></a>
-
-### Génération automatique des textures des cheveux et du visage d’un personnage, avec transfert UV
-
-[さ🥺](https://x.com/_sagyoai) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098367087475577273"><img src="../assets/previews/796d0921534d254e6ae0af1573edeef0691da20f53a1c97baaf2dfa29777cbf5.jpg" width="840" loading="lazy" alt="Génération automatique des textures des cheveux et du visage d’un personnage, avec transfert UV"></a>
-
-Prompt pour Blender MCP demandant de générer une image de texture à partir d’un rendu frontal du visage sans cheveux, puis de la transférer sur les UV de sortie par projection parallèle.
-
-**Prompt**
-
-```text
-Utilise la génération d’images pour obtenir le meilleur texturing possible
-Rends le visage de face, sans cheveux, en flat shading et sans ombres, puis génère une image texturée à partir de ce rendu comme référence et applique-la par projection parallèle avant de la transférer sur les UV de sortie
-ou utilise une meilleure méthode si astra en trouve une
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098367087475577273) · [Publication originale](https://x.com/_sagyoai/status/2098367087475577273) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2098403061463224543"></a>
-
-### Scène miniature en volume représentant un temple
-
-[Rion Wu](https://x.com/rionaifantasy) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098403061463224543"><img src="../assets/previews/66d1394523ca0e755b767c67c4784666975662070815f63d52e11d5863f84849.jpg" width="840" loading="lazy" alt="Scène miniature en volume représentant un temple"></a>
-
-Prompt de référence fourni par l’auteur dans les commentaires, pour créer une scène miniature en volume, en vue plongeante à 45° et en perspective isométrique, intégrant les éléments emblématiques d’un temple. Selon la publication d’origine, cette scène miniature de temple a été assemblée puis affinée à partir d’éléments séparés avec Astra et de détails réalisés avec V2Fun.
-
-**Prompt**
-
-```text
-Présenter une scène miniature en volume 2.5D de style cartoon, nette, en vue plongeante à 45° et en perspective isométrique, avec des textures douces et soignées, des matériaux PBR réalistes et un éclairage doux au rendu naturel. Créer une petite base surélevée, façon maquette, intégrant les éléments les plus reconnaissables d’un temple. Utiliser un fond uni. Composition : mise en page parfaitement centrée, format carré 1080 × 1080, esthétique de maquette en volume très propre et haute définition ; utiliser simplement une typographie plus grasse et plus lumineuse.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098403061463224543) · [Publication originale](https://x.com/rionaifantasy/status/2098403061463224543) · [Retour aux exemples](#all-prompts)
 
 ---
 
@@ -3843,6 +3801,53 @@ Recréez cette scène dans Isaac Sim afin d’évaluer une politique de manipula
 
 ---
 
+<a id="2105412081692352654"></a>
+
+### Diorama 3D miniature de pyramides dorées
+
+[demon](https://x.com/demonugc) · 2026-09-30
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2105412081692352654"><img src="../assets/previews/b1ed0c9b59b4c8a4fb48628ad56441aed5ecc49078d0b18bf932f96d371d7db4.jpg" width="840" loading="lazy" alt="Diorama 3D miniature de pyramides dorées"></a>
+
+Prompt partagé par un auteur pour une comparaison en écran partagé de 15 secondes entre GPT-6 Astra et Fable 5. Il demande un diorama miniature doré représentant des pyramides et un temple, avec une caméra en orbite synchronisée et une animation de transformation de la pyramide.
+
+**Prompt**
+
+```text
+{
+  "task": "construire les pyramides en 3D. faire pivoter la caméra",
+  "video": { "duration": "15s", "ratio": "16:9", "layout": "écran partagé, 1 modèle de chaque côté" },
+  "scene": "diorama miniature doré, effet tilt-shift, éclairage sombre au crépuscule, pyramide sculptée aux surfaces lisses, temple, petites pyramides, place fissurée, terrain en courbes de niveau",
+  "animation": "la pyramide se forme progressivement de la base au sommet, aucun ouvrier, aucune rampe, aucun bloc",
+  "camera": "orbite continue de 150 degrés, synchronisée des deux côtés",
+  "overlay": "nom du modèle + minuteur uniquement"
+}
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2105412081692352654) · [Publication originale](https://x.com/demonugc/status/2105412081692352654) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2105644436659290409"></a>
+
+### Jeu 3D d’esquive d’astéroïdes
+
+[dubspeak.com](https://dubspeak.com/) · 2026-10-01
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2105644436659290409"><img src="../assets/previews/3b0da133d0436a0029340926f43adb0e7db50916ab6b7d1b22a921b3029fac81.jpg" width="840" loading="lazy" alt="Jeu 3D d’esquive d’astéroïdes"></a>
+
+La transcription DubSpeak liée d’une vidéo originale d’OpenAI cite une demande de jeu 3D dans lequel il faut esquiver des astéroïdes, se déplacer avec les touches fléchées et accélérer avec la barre d’espace.
+
+**Prompt**
+
+```text
+Je veux maintenant que tu crées un jeu 3D dans lequel j’esquive des astéroïdes, en me déplaçant avec les touches fléchées et en utilisant la barre d’espace pour accélérer.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2105644436659290409) · [Publication originale](https://dubspeak.com/gpt-6-astra-intro-20260928-v5/) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D : Défense de chars sans fin
@@ -4231,7 +4236,7 @@ Livrez le code source, le lockfile, les commandes npm de développement/build et
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 308 exemples sur le site officiel →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 310 exemples sur le site officiel →</a></strong></p>
 <p><sub>Pour préserver la fluidité du rendu du README sur GitHub, seuls les 100 exemples les plus récents sont affichés ici.</sub></p>
 <br>
 </td></tr>

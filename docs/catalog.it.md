@@ -28,7 +28,7 @@
 **Un punto di partenza per il tuo prossimo gioco, scena o mondo interattivo.**
 
 
-**308 · Prompt Astra più recenti**
+**310 · Prompt Astra più recenti**
 
 ## Progetti in evidenza
 
@@ -53,8 +53,6 @@
 - [Atlante di Chernobyl](#2098841316591346006) · GitHub
 - [Esploratore interattivo dell’anatomia in 3D](#2099206962344800541) · GitHub
 - [Demo di grafica fantasy isometrica](#2100271998618177864) · GitHub
-- [Generazione automatica e trasferimento UV delle texture di capelli e viso per modelli di personaggi](#2098367087475577273)
-- [Scena di modellino 3D in miniatura di un tempio](#2098403061463224543)
 - [Statuetta di una bambina che gioca con un robot](#2098406473273663992)
 - [Stagno koi 3D interattivo](#2098492771170722032)
 - [Modellare il ponte di Brooklyn e testare il passaggio di carri armati da entrambe le direzioni](#2098650336521064759)
@@ -144,6 +142,8 @@
 - [Render in Blender del Golden Gate Bridge](#2105278999861526953)
 - [Crea un personaggio Minion 3D in Blender](#2105298955307303100)
 - [Ricrea una scena in Isaac Sim](#2105323534398763307)
+- [Diorama 3D dorato di una piramide in miniatura](#2105412081692352654)
+- [Gioco 3D per schivare gli asteroidi](#2105644436659290409)
 - [Battle City 3D: Difesa infinita con i carri armati](#battle-city-3d)
 - [Crazy Tanks — Artiglieria 3D sulle isole](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Gioco survival con armi stravaganti](#odd-arms)
@@ -227,48 +227,6 @@ Realizza una demo grafica: telecamera isometrica, stile artistico simile ai voxe
 ```
 
 [Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100271998618177864) · [Post originale](https://github.com/achimala/dream-loop) · [Codice sorgente](https://github.com/achimala/dream-loop) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="2098367087475577273"></a>
-
-### Generazione automatica e trasferimento UV delle texture di capelli e viso per modelli di personaggi
-
-[さ🥺](https://x.com/_sagyoai) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098367087475577273"><img src="../assets/previews/796d0921534d254e6ae0af1573edeef0691da20f53a1c97baaf2dfa29777cbf5.jpg" width="840" loading="lazy" alt="Generazione automatica e trasferimento UV delle texture di capelli e viso per modelli di personaggi"></a>
-
-Prompt per Blender MCP che richiede di generare un’immagine di texture usando come riferimento un render frontale del viso senza capelli e di trasferirla sull’UV di output tramite proiezione parallela.
-
-**Prompt**
-
-```text
-Usa la generazione di immagini per realizzare il texturing al meglio
-Esegui un render frontale del viso senza capelli, con flat shading e senza ombre, quindi genera un’immagine texturizzata usandolo come riferimento e applicala tramite proiezione parallela, trasferendola sull’UV di output
-Oppure, se astra ha in mente un metodo migliore, usa quello.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098367087475577273) · [Post originale](https://x.com/_sagyoai/status/2098367087475577273) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="2098403061463224543"></a>
-
-### Scena di modellino 3D in miniatura di un tempio
-
-[Rion Wu](https://x.com/rionaifantasy) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098403061463224543"><img src="../assets/previews/66d1394523ca0e755b767c67c4784666975662070815f63d52e11d5863f84849.jpg" width="840" loading="lazy" alt="Scena di modellino 3D in miniatura di un tempio"></a>
-
-Prompt per un’immagine di riferimento fornito dall’autore in un commento, pensato per creare una scena isometrica in miniatura, vista dall’alto a 45°, con gli elementi distintivi di un tempio. Nel post originale si specifica che la scena in miniatura è stata scomposta in componenti con Astra, dettagliata con V2Fun e poi assemblata e rifinita.
-
-**Prompt**
-
-```text
-Rappresenta una scena nitida di modellino 3D cartoon in miniatura, in vista assonometrica isometrica dall’alto a 45°, con estetica 2.5D, texture morbide e curate, materiali PBR realistici e un’illuminazione delicata ma realistica. Crea una piccola base rialzata in stile diorama, con gli elementi più riconoscibili del tempio. Usa uno sfondo a tinta unita. Composizione: layout perfettamente centrato, formato quadrato 1080x1080, estetica del modellino estremamente pulita e ad alta definizione. È sufficiente usare un carattere più spesso e luminoso.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098403061463224543) · [Post originale](https://x.com/rionaifantasy/status/2098403061463224543) · [Torna agli esempi](#all-prompts)
 
 ---
 
@@ -3943,6 +3901,53 @@ Ricrea questa scena in Isaac Sim ai fini della valutazione delle policy di manip
 
 ---
 
+<a id="2105412081692352654"></a>
+
+### Diorama 3D dorato di una piramide in miniatura
+
+[demon](https://x.com/demonugc) · 2026-09-30
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2105412081692352654"><img src="../assets/previews/b1ed0c9b59b4c8a4fb48628ad56441aed5ecc49078d0b18bf932f96d371d7db4.jpg" width="840" loading="lazy" alt="Diorama 3D dorato di una piramide in miniatura"></a>
+
+Un prompt condiviso dall’autore per un confronto a schermo diviso di 15 secondi tra GPT-6 Astra e Fable 5. Richiede un diorama dorato in miniatura con piramidi e tempio, una camera orbitante sincronizzata e un’animazione di morphing della piramide.
+
+**Prompt**
+
+```text
+{
+  "task": "costruisci le piramidi in 3D. ruota la camera",
+  "video": { "duration": "15s", "ratio": "16:9", "layout": "schermo diviso, 1 modello per lato" },
+  "scene": "diorama dorato in miniatura, effetto tilt-shift, illuminazione scura del crepuscolo, piramide levigata e scolpita, tempio, piramidi piccole, piazza crepata, terreno terrazzato",
+  "animation": "la piramide si forma progressivamente dalla base alla punta, nessun operaio, nessuna rampa, nessun blocco",
+  "camera": "orbita continua di 150 gradi, sincronizzata su entrambi i lati",
+  "overlay": "solo nome del modello + timer"
+}
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2105412081692352654) · [Post originale](https://x.com/demonugc/status/2105412081692352654) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="2105644436659290409"></a>
+
+### Gioco 3D per schivare gli asteroidi
+
+[dubspeak.com](https://dubspeak.com/) · 2026-10-01
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2105644436659290409"><img src="../assets/previews/3b0da133d0436a0029340926f43adb0e7db50916ab6b7d1b22a921b3029fac81.jpg" width="840" loading="lazy" alt="Gioco 3D per schivare gli asteroidi"></a>
+
+Una trascrizione collegata di DubSpeak di un video originale di OpenAI riporta la richiesta di un gioco 3D in cui schivare gli asteroidi, con movimento tramite i tasti freccia e un’accelerazione attivabile con la barra spaziatrice.
+
+**Prompt**
+
+```text
+Ora voglio che tu crei un gioco 3D in cui schivo gli asteroidi, usando i tasti freccia per muovermi e la barra spaziatrice per accelerare.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2105644436659290409) · [Post originale](https://dubspeak.com/gpt-6-astra-intro-20260928-v5/) · [Torna agli esempi](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Difesa infinita con i carri armati
@@ -4331,7 +4336,7 @@ Consegna il codice sorgente, il lockfile, i comandi npm per sviluppo/build e l�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 308 esempi sul sito ufficiale →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 310 esempi sul sito ufficiale →</a></strong></p>
 <p><sub>Per mantenere fluido il rendering del README su GitHub, qui mostriamo solo i 100 esempi più recenti.</sub></p>
 <br>
 </td></tr>

@@ -29,7 +29,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**308 examples · 14 languages · 12 examples with source code**
+**310 examples · 14 languages · 12 examples with source code**
 
 ## Featured projects
 
@@ -54,8 +54,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Chernobyl Atlas](#2098841316591346006) · GitHub
 - [Interactive 3D Anatomy Explorer](#2099206962344800541) · GitHub
 - [Isometric fantasy graphics demo](#2100271998618177864) · GitHub
-- [Automated Hair and Face Texture Generation and UV Transfer for Character Models](#2098367087475577273)
-- [Temple Miniature Diorama Scene](#2098403061463224543)
 - [Girl Playing with a Robot Figurine](#2098406473273663992)
 - [Interactive 3D Koi Pond](#2098492771170722032)
 - [Model the Brooklyn Bridge and test tanks crossing from both directions](#2098650336521064759)
@@ -145,6 +143,8 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Blender render of the Golden Gate Bridge](#2105278999861526953)
 - [Create a 3D Minion Character in Blender](#2105298955307303100)
 - [Recreate a scene in Isaac Sim](#2105323534398763307)
+- [Golden miniature 3D pyramid diorama](#2105412081692352654)
+- [3D asteroid-dodging game](#2105644436659290409)
 - [Battle City 3D: Endless Tank Defense](#battle-city-3d)
 - [Crazy Tanks — 3D Island Artillery](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Weird Weapons Survival Game](#odd-arms)
@@ -228,48 +228,6 @@ Build me a graphics demo: isometric camera, voxel-ish art style with realistic s
 ```
 
 [View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100271998618177864) · [Original post](https://github.com/achimala/dream-loop) · [Source code](https://github.com/achimala/dream-loop) · [Back to examples](#all-prompts)
-
----
-
-<a id="2098367087475577273"></a>
-
-### Automated Hair and Face Texture Generation and UV Transfer for Character Models
-
-[さ🥺](https://x.com/_sagyoai) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098367087475577273"><img src="../assets/previews/796d0921534d254e6ae0af1573edeef0691da20f53a1c97baaf2dfa29777cbf5.jpg" width="840" loading="lazy" alt="Automated Hair and Face Texture Generation and UV Transfer for Character Models"></a>
-
-A prompt for Blender MCP to generate a texture image using a front-facing render of the face without hair as a reference, then transfer it to the output UVs using parallel projection.
-
-**Prompt**
-
-```text
-Please use image generation to create the best possible texture
-Render the front-facing, hairless face with flat shading and no shadows, use it as a reference to generate a textured image, then map it with parallel projection and transfer it to the output UV
-Or use a better method if astra can think of one.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098367087475577273) · [Original post](https://x.com/_sagyoai/status/2098367087475577273) · [Back to examples](#all-prompts)
-
----
-
-<a id="2098403061463224543"></a>
-
-### Temple Miniature Diorama Scene
-
-[Rion Wu](https://x.com/rionaifantasy) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098403061463224543"><img src="../assets/previews/66d1394523ca0e755b767c67c4784666975662070815f63d52e11d5863f84849.jpg" width="840" loading="lazy" alt="Temple Miniature Diorama Scene"></a>
-
-A reference-image prompt shared by the creator in a follow-up comment for presenting a 45° top-down isometric miniature diorama scene featuring the temple’s most recognizable elements. The original post states that the temple miniature scene was created by separating components with Astra, creating details with V2Fun, then assembling and fine-tuning the result.
-
-**Prompt**
-
-```text
-Present a clean, 45° top-down isometric miniature 2.5D cartoon diorama scene with soft, refined textures, realistic PBR materials, and gentle, realistic lighting. Create a small raised diorama-style base featuring the temple’s most recognizable elements. Use a solid-color background. Composition: perfectly centered, square 1080x1080 format, with an ultra-clean, high-definition diorama aesthetic. Simply switch to bold, brighter lettering.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098403061463224543) · [Original post](https://x.com/rionaifantasy/status/2098403061463224543) · [Back to examples](#all-prompts)
 
 ---
 
@@ -3884,6 +3842,53 @@ Recreate this scene in Isaac Sim for the purposes of manipulation policy evaluat
 
 ---
 
+<a id="2105412081692352654"></a>
+
+### Golden miniature 3D pyramid diorama
+
+[demon](https://x.com/demonugc) · 2026-09-30
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2105412081692352654"><img src="../assets/previews/b1ed0c9b59b4c8a4fb48628ad56441aed5ecc49078d0b18bf932f96d371d7db4.jpg" width="840" loading="lazy" alt="Golden miniature 3D pyramid diorama"></a>
+
+An author-shared prompt for a 15-second split-screen comparison of GPT-6 Astra and Fable 5. It requests a golden miniature pyramid-and-temple diorama with a synchronized orbiting camera and a pyramid morph animation.
+
+**Prompt**
+
+```text
+{
+  "task": "build the pyramids in 3D. rotate the camera",
+  "video": { "duration": "15s", "ratio": "16:9", "layout": "split screen, 1 model per side" },
+  "scene": "golden miniature diorama, tilt-shift, dark dusk lighting, smooth carved pyramid, temple, small pyramids, cracked plaza, contour terrain",
+  "animation": "pyramid morphs in from base to tip, no workers, no ramps, no blocks",
+  "camera": "continuous 150 degree orbit, synced on both sides",
+  "overlay": "model name + timer only"
+}
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2105412081692352654) · [Original post](https://x.com/demonugc/status/2105412081692352654) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2105644436659290409"></a>
+
+### 3D asteroid-dodging game
+
+[dubspeak.com](https://dubspeak.com/) · 2026-10-01
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2105644436659290409"><img src="../assets/previews/3b0da133d0436a0029340926f43adb0e7db50916ab6b7d1b22a921b3029fac81.jpg" width="840" loading="lazy" alt="3D asteroid-dodging game"></a>
+
+A linked DubSpeak transcript of an OpenAI original video quotes a request for a 3D game about dodging asteroids, with arrow-key movement and a spacebar boost.
+
+**Prompt**
+
+```text
+Now, I want you to make a 3D game where I'm ducking asteroids, using the arrow keys to move around, and I'm using space to boost.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2105644436659290409) · [Original post](https://dubspeak.com/gpt-6-astra-intro-20260928-v5/) · [Back to examples](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Endless Tank Defense
@@ -4272,7 +4277,7 @@ Deliver source, lockfile, npm development/build commands and static output. Veri
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 308 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 310 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>
