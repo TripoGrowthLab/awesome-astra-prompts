@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**310 · Prompt Astra mới nhất**
+**311 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -53,7 +53,6 @@
 - [Atlas Chernobyl](#2098841316591346006) · GitHub
 - [Trình khám phá giải phẫu 3D tương tác](#2099206962344800541) · GitHub
 - [Demo đồ họa fantasy isometric](#2100271998618177864) · GitHub
-- [Mô hình bé gái chơi robot](#2098406473273663992)
 - [Hồ cá koi 3D tương tác](#2098492771170722032)
 - [Dựng mô hình cầu Brooklyn và thử nghiệm xe tăng đi qua từ cả hai hướng](#2098650336521064759)
 - [Video trình diễn dựng 3D “Thiền cảnh · Cổ tự”](#2098697876155076820)
@@ -144,6 +143,7 @@
 - [Tái tạo cảnh trong Isaac Sim](#2105323534398763307)
 - [Sa bàn kim tự tháp 3D thu nhỏ màu vàng](#2105412081692352654)
 - [game 3D né thiên thạch](#2105644436659290409)
+- [Cảnh thuyền 3D có thể điều khiển trên sông vùng núi](#2106385060106777043)
 - [Battle City 3D: Phòng thủ xe tăng vô tận](#battle-city-3d)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Game sinh tồn với vũ khí kỳ quặc](#odd-arms)
@@ -227,26 +227,6 @@ Hãy tạo một demo đồ họa: camera isometric, phong cách nghệ thuật 
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100271998618177864) · [Bài đăng gốc](https://github.com/achimala/dream-loop) · [Mã nguồn](https://github.com/achimala/dream-loop) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2098406473273663992"></a>
-
-### Mô hình bé gái chơi robot
-
-[𝟡𝟜 ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098406473273663992"><img src="../assets/previews/36a29f044afe429a09799a73853956a95eaa3917011a12639f35ee3a4c506d25.jpg" width="840" loading="lazy" alt="Mô hình bé gái chơi robot"></a>
-
-Tạo mô hình bé gái phong cách anime 3D độ chi tiết cao, được lắp ráp hoàn chỉnh và trưng bày ở tư thế đứng, gồm mũ công nhân, robot bằng sắt tây, bộ điều khiển từ xa và hộp dụng cụ sửa chữa đeo bên hông.
-
-**Prompt**
-
-```text
-Mô hình bé gái chơi robot được lắp ráp hoàn chỉnh, đội mũ công nhân nhỏ, một tay cầm robot bằng sắt tây, tay còn lại cầm bộ điều khiển từ xa, bên hông đeo hộp dụng cụ sửa chữa. Tất cả phụ kiện được lắp đầy đủ, tạo dáng đứng, nền trắng tinh, ánh sáng studio chuyên nghiệp, phong cách trưng bày mô hình anime 3D độ chi tiết cao. ar3:4
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098406473273663992) · [Bài đăng gốc](https://x.com/94vanAI/status/2098406473273663992) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3931,6 +3911,26 @@ Bây giờ, tôi muốn bạn tạo một game 3D, trong đó tôi né các thi�
 
 ---
 
+<a id="2106385060106777043"></a>
+
+### Cảnh thuyền 3D có thể điều khiển trên sông vùng núi
+
+[けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-03
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2106385060106777043"><img src="../assets/previews/53df380ec6620d54216251f13298ad3d83132ea05276ca497edc3639c660e1b0.jpg" width="840" loading="lazy" alt="Cảnh thuyền 3D có thể điều khiển trên sông vùng núi"></a>
+
+Đây là hướng dẫn tạo một cảnh 3D bằng three.js, trong đó người dùng chèo thuyền dọc theo một con sông vùng núi ở Nhật Bản. Cảnh cần hỗ trợ điều khiển thuyền bằng các phím mũi tên, chuyển đổi giữa ngày, đêm và mưa, đồng thời làm cho những chiếc đèn lồng ven sông phát sáng vào ban đêm. Người đăng cho biết đã gửi cùng một hướng dẫn này cho GPT-6 Astra một lần.
+
+**Prompt**
+
+```text
+Hãy tạo bằng three.js một cảnh 3D, trong đó người dùng chèo thuyền dọc theo một con sông vùng núi ở Nhật Bản. Cho phép điều khiển thuyền bằng các phím mũi tên, chuyển đổi giữa ngày, đêm và mưa, đồng thời làm cho những chiếc đèn lồng ven sông phát sáng vào ban đêm.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2106385060106777043) · [Bài đăng gốc](https://x.com/kensumi_ai/status/2106385072266084741) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Phòng thủ xe tăng vô tận
@@ -4319,7 +4319,7 @@ Bàn giao mã nguồn, lockfile, lệnh npm phát triển/build và đầu ra t�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 310 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 311 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

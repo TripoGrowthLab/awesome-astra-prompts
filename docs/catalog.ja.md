@@ -28,7 +28,7 @@
 **次のゲーム、シーン、インタラクティブな世界づくりのヒントに。**
 
 
-**310 · 最新の Astra プロンプト**
+**311 · 最新の Astra プロンプト**
 
 ## 注目の作品
 
@@ -53,7 +53,6 @@
 - [チェルノブイリ・アトラス](#2098841316591346006) · GitHub
 - [インタラクティブ3D解剖ビューア](#2099206962344800541) · GitHub
 - [アイソメトリックなファンタジーグラフィックスデモ](#2100271998618177864) · GitHub
-- [ロボットで遊ぶ少女のフィギュア](#2098406473273663992)
 - [インタラクティブ3D錦鯉池](#2098492771170722032)
 - [ブルックリン橋をモデリングし、両方向から戦車が渡るケースを検証する](#2098650336521064759)
 - [禅境・古寺 3D制作工程デモ動画](#2098697876155076820)
@@ -144,6 +143,7 @@
 - [Isaac Simでシーンを再現](#2105323534398763307)
 - [金色のミニチュア3Dピラミッド・ジオラマ](#2105412081692352654)
 - [3D隕石回避ゲーム](#2105644436659290409)
+- [山あいの川を進む操作可能な3Dボートシーン](#2106385060106777043)
 - [Battle City 3D：エンドレス戦車ディフェンス](#battle-city-3d)
 - [Crazy Tanks — 3Dアイランド砲撃戦](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — 奇妙な武器のサバイバルゲーム](#odd-arms)
@@ -227,26 +227,6 @@ Three.jsを使って、高品質なインタラクティブ3D展示「Chernobyl 
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2100271998618177864) · [元の投稿](https://github.com/achimala/dream-loop) · [ソースコード](https://github.com/achimala/dream-loop) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="2098406473273663992"></a>
-
-### ロボットで遊ぶ少女のフィギュア
-
-[𝟡𝟜 ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098406473273663992"><img src="../assets/previews/36a29f044afe429a09799a73853956a95eaa3917011a12639f35ee3a4c506d25.jpg" width="840" loading="lazy" alt="ロボットで遊ぶ少女のフィギュア"></a>
-
-作業帽をかぶり、ブリキのロボット、リモコン、腰のメンテナンスボックスを備えた、完全組み立て・立ち姿展示の高精細3Dアニメ風少女フィギュアを作成します。
-
-**プロンプト**
-
-```text
-完全に組み立てられた、ロボットで遊ぶ少女のフィギュア。頭に作業帽をかぶり、片手にブリキのロボット、もう片手にリモコンを持ち、腰にメンテナンスボックスを装着している。すべてのパーツを組み合わせた立ち姿。純白の背景、スタジオによるプロ仕様のライティング、高精細な3Dアニメ風フィギュア展示スタイル。ar3:4
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098406473273663992) · [元の投稿](https://x.com/94vanAI/status/2098406473273663992) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -3913,6 +3893,26 @@ OpenAIオリジナル動画のDubSpeak連携トランスクリプトには、矢
 
 ---
 
+<a id="2106385060106777043"></a>
+
+### 山あいの川を進む操作可能な3Dボートシーン
+
+[けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-03
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2106385060106777043"><img src="../assets/previews/53df380ec6620d54216251f13298ad3d83132ea05276ca497edc3639c660e1b0.jpg" width="840" loading="lazy" alt="山あいの川を進む操作可能な3Dボートシーン"></a>
+
+日本の山あいの川をボートで進むthree.js製3Dシーンを作成する指示です。矢印キーでのボート操作、昼・夜・雨の切り替え、夜間に川沿いの灯籠を発光させる機能を指定しています。投稿者はこの同一指示文をGPT-6 Astraへ1回送ったと述べています。
+
+**プロンプト**
+
+```text
+three.jsで、日本の山あいの川をボートで進む3Dシーンを作ってください。矢印キーでボートを操作でき、昼・夜・雨を切り替えられて、夜は川沿いの灯籠が光るようにしてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2106385060106777043) · [元の投稿](https://x.com/kensumi_ai/status/2106385072266084741) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D：エンドレス戦車ディフェンス
@@ -4301,7 +4301,7 @@ Vite、TypeScript、Three.jsを使用し、地理情報、純粋な物理／ス�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 310 件の作例を公式サイトで見る →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 311 件の作例を公式サイトで見る →</a></strong></p>
 <p><sub>GitHub README をスムーズに表示するため、ここでは最新の作例 100 件のみを掲載しています。</sub></p>
 <br>
 </td></tr>

@@ -193,16 +193,6 @@
       ]
     },
     {
-      "path": "assets/previews/36a29f044afe429a09799a73853956a95eaa3917011a12639f35ee3a4c506d25.jpg",
-      "fingerprint": "cbaf1939a0b29a9d112fcbbc535d7cca5b528d3c3e160cbe59583b8e433161d5",
-      "sha256": "36a29f044afe429a09799a73853956a95eaa3917011a12639f35ee3a4c506d25",
-      "bytes": 38805,
-      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2098403874566713344/img/_WriLAoOGhsSU2kc.jpg",
-      "promptIds": [
-        "2098406473273663992"
-      ]
-    },
-    {
       "path": "assets/previews/38d510439e2c3695b5acbb44c83317a5c0824a4b8b8305c45187d66ca6ebeccd.jpg",
       "fingerprint": "aef69aa5afdaad80708e76ac11f135ed436654697dfe7f2229ff0899a9ac299d",
       "sha256": "38d510439e2c3695b5acbb44c83317a5c0824a4b8b8305c45187d66ca6ebeccd",
@@ -380,6 +370,16 @@
       "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2102780684767236096/img/rSqUmNWJq6p4WlRO.jpg",
       "promptIds": [
         "2102780850706567390"
+      ]
+    },
+    {
+      "path": "assets/previews/53df380ec6620d54216251f13298ad3d83132ea05276ca497edc3639c660e1b0.jpg",
+      "fingerprint": "7d1814e1744f0a2515d45c62ace34674bba46978c37d2393a4662174f0f08610",
+      "sha256": "53df380ec6620d54216251f13298ad3d83132ea05276ca497edc3639c660e1b0",
+      "bytes": 130620,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106385030989963264/img/an4iY2EHSObhFvt5.jpg",
+      "promptIds": [
+        "2106385060106777043"
       ]
     },
     {

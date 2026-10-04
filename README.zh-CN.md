@@ -29,7 +29,7 @@
 
 探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。
 
-**310 条案例 · 14 种语言 · 12 条附项目源码**
+**311 条案例 · 14 种语言 · 12 条附项目源码**
 
 ## 精选作品
 
@@ -54,7 +54,6 @@
 - [切尔诺贝利图谱](#2098841316591346006) · GitHub
 - [交互式 3D 解剖探索器](#2099206962344800541) · GitHub
 - [等距视角奇幻图形演示](#2100271998618177864) · GitHub
-- [玩机器人的小女孩手办](#2098406473273663992)
 - [互动 3D 锦鲤池](#2098492771170722032)
 - [建模布鲁克林大桥，测试双向坦克通行](#2098650336521064759)
 - [禅境·古寺3D建造演示视频](#2098697876155076820)
@@ -145,6 +144,7 @@
 - [在 Isaac Sim 中重建场景](#2105323534398763307)
 - [金色微缩 3D 金字塔场景](#2105412081692352654)
 - [3D 躲避小行星游戏](#2105644436659290409)
+- [可操控的山间河流 3D 划船场景](#2106385060106777043)
 - [Battle City 3D：无尽坦克防御](#battle-city-3d)
 - [疯狂坦克——3D 岛屿炮战](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS——奇趣武器生存游戏](#odd-arms)
@@ -228,26 +228,6 @@
 ```
 
 [查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2100271998618177864) · [查看原帖](https://github.com/achimala/dream-loop) · [项目源码](https://github.com/achimala/dream-loop) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2098406473273663992"></a>
-
-### 玩机器人的小女孩手办
-
-[𝟡𝟜 ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098406473273663992"><img src="assets/previews/36a29f044afe429a09799a73853956a95eaa3917011a12639f35ee3a4c506d25.jpg" width="840" loading="lazy" alt="玩机器人的小女孩手办"></a>
-
-创建一尊完整组合、站姿展示的高精3D动漫风格小女孩手办，包含工人帽、铁皮机器人、遥控器和腰间维修箱。
-
-**提示词**
-
-```text
-一尊完全组合的玩机器人的小女孩手办，头带工人用的小帽子，一手持一个铁皮做的机器人，一手持一个遥控器，腰间系着一个维修箱子。所有配件完整合体呈站姿，纯白色背景，工作室专业灯光，高精 3D 动漫手办展示风格。ar3:4
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098406473273663992) · [查看原帖](https://x.com/94vanAI/status/2098406473273663992) · [返回案例导航](#all-prompts)
 
 ---
 
@@ -3848,6 +3828,26 @@ OpenAI 原创视频的 DubSpeak 转录文本链接中，引用了一项制作 3D
 
 ---
 
+<a id="2106385060106777043"></a>
+
+### 可操控的山间河流 3D 划船场景
+
+[けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-03
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2106385060106777043"><img src="assets/previews/53df380ec6620d54216251f13298ad3d83132ea05276ca497edc3639c660e1b0.jpg" width="840" loading="lazy" alt="可操控的山间河流 3D 划船场景"></a>
+
+这是用于创建 three.js 3D 场景的指令：乘船穿行于日本山间的河流，使用方向键操控船只，支持昼夜和雨天切换，并让河岸边的灯笼在夜间发光。发布者表示，已将这段相同的指令发送给 GPT-6 Astra 一次。
+
+**提示词**
+
+```text
+请使用 three.js 创建一个乘船穿行于日本山间河流的 3D 场景。船只应可通过方向键操控，支持昼夜和雨天切换，并在夜间点亮河岸边的灯笼。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2106385060106777043) · [查看原帖](https://x.com/kensumi_ai/status/2106385072266084741) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D：无尽坦克防御
@@ -4236,7 +4236,7 @@ OpenAI 原创视频的 DubSpeak 转录文本链接中，引用了一项制作 3D
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 310 条案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 311 条案例 →</a></strong></p>
 <p><sub>为保持 GitHub README 渲染流畅，这里仅展示最新 100 条案例。</sub></p>
 <br>
 </td></tr>

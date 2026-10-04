@@ -29,7 +29,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**310 examples · 14 languages · 12 examples with source code**
+**311 examples · 14 languages · 12 examples with source code**
 
 ## Featured projects
 
@@ -54,7 +54,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Chernobyl Atlas](#2098841316591346006) · GitHub
 - [Interactive 3D Anatomy Explorer](#2099206962344800541) · GitHub
 - [Isometric fantasy graphics demo](#2100271998618177864) · GitHub
-- [Girl Playing with a Robot Figurine](#2098406473273663992)
 - [Interactive 3D Koi Pond](#2098492771170722032)
 - [Model the Brooklyn Bridge and test tanks crossing from both directions](#2098650336521064759)
 - [Zen Realm · Ancient Temple 3D Build Demo Video](#2098697876155076820)
@@ -145,6 +144,7 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Recreate a scene in Isaac Sim](#2105323534398763307)
 - [Golden miniature 3D pyramid diorama](#2105412081692352654)
 - [3D asteroid-dodging game](#2105644436659290409)
+- [Playable 3D Boat Scene on a Mountain River](#2106385060106777043)
 - [Battle City 3D: Endless Tank Defense](#battle-city-3d)
 - [Crazy Tanks — 3D Island Artillery](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Weird Weapons Survival Game](#odd-arms)
@@ -228,26 +228,6 @@ Build me a graphics demo: isometric camera, voxel-ish art style with realistic s
 ```
 
 [View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100271998618177864) · [Original post](https://github.com/achimala/dream-loop) · [Source code](https://github.com/achimala/dream-loop) · [Back to examples](#all-prompts)
-
----
-
-<a id="2098406473273663992"></a>
-
-### Girl Playing with a Robot Figurine
-
-[𝟡𝟜 ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098406473273663992"><img src="assets/previews/36a29f044afe429a09799a73853956a95eaa3917011a12639f35ee3a4c506d25.jpg" width="840" loading="lazy" alt="Girl Playing with a Robot Figurine"></a>
-
-Create a fully assembled, standing high-detail 3D anime-style figurine of a little girl, complete with a worker’s cap, tin robot, remote control, and toolbox at her waist.
-
-**Prompt**
-
-```text
-A fully assembled figurine of a little girl playing with a robot, wearing a small worker’s cap, holding a tin robot in one hand and a remote control in the other, with a toolbox strapped around her waist. All accessories fully integrated into a standing pose, pure white background, professional studio lighting, high-detail 3D anime figurine display style. ar3:4
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098406473273663992) · [Original post](https://x.com/94vanAI/status/2098406473273663992) · [Back to examples](#all-prompts)
 
 ---
 
@@ -3889,6 +3869,26 @@ Now, I want you to make a 3D game where I'm ducking asteroids, using the arrow k
 
 ---
 
+<a id="2106385060106777043"></a>
+
+### Playable 3D Boat Scene on a Mountain River
+
+[けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-03
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2106385060106777043"><img src="assets/previews/53df380ec6620d54216251f13298ad3d83132ea05276ca497edc3639c660e1b0.jpg" width="840" loading="lazy" alt="Playable 3D Boat Scene on a Mountain River"></a>
+
+Instructions for creating a three.js 3D scene of a boat traveling along a mountainous river in Japan. The scene should support boat controls with the arrow keys, switching between day, night, and rain, and glowing lanterns along the river at night. The poster states that they sent these same instructions to GPT-6 Astra once.
+
+**Prompt**
+
+```text
+Create a three.js 3D scene of a boat traveling along a mountainous river in Japan. Let the player control the boat with the arrow keys, switch between day, night, and rain, and make the lanterns along the river glow at night.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2106385060106777043) · [Original post](https://x.com/kensumi_ai/status/2106385072266084741) · [Back to examples](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Endless Tank Defense
@@ -4277,7 +4277,7 @@ Deliver source, lockfile, npm development/build commands and static output. Veri
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 310 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 311 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>

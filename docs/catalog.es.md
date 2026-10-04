@@ -28,7 +28,7 @@
 **Un punto de partida para tu próximo juego, escena o mundo interactivo.**
 
 
-**310 · Últimos prompts de Astra**
+**311 · Últimos prompts de Astra**
 
 ## Proyectos destacados
 
@@ -53,7 +53,6 @@
 - [Atlas de Chernóbil](#2098841316591346006) · GitHub
 - [Explorador interactivo de anatomía en 3D](#2099206962344800541) · GitHub
 - [Demo de gráficos de fantasía isométrica](#2100271998618177864) · GitHub
-- [Figura 3D de una niña jugando con un robot](#2098406473273663992)
 - [Estanque de koi 3D interactivo](#2098492771170722032)
 - [Modela el puente de Brooklyn y prueba el cruce de tanques desde ambas direcciones](#2098650336521064759)
 - [Vídeo demostrativo de construcción 3D de un templo antiguo zen](#2098697876155076820)
@@ -144,6 +143,7 @@
 - [Recrear una escena en Isaac Sim](#2105323534398763307)
 - [Diorama de pirámide dorada en miniatura 3D](#2105412081692352654)
 - [juego 3D de esquivar asteroides](#2105644436659290409)
+- [Escena 3D de una barca navegable por un río entre montañas](#2106385060106777043)
 - [Battle City 3D: Defensa de tanques sin fin](#battle-city-3d)
 - [Crazy Tanks — Artillería 3D en una isla](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Juego de supervivencia con armas extrañas](#odd-arms)
@@ -227,26 +227,6 @@ Crea una demo gráfica: cámara isométrica, estilo artístico tipo vóxel con s
 ```
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100271998618177864) · [Publicación original](https://github.com/achimala/dream-loop) · [Código fuente](https://github.com/achimala/dream-loop) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2098406473273663992"></a>
-
-### Figura 3D de una niña jugando con un robot
-
-[𝟡𝟜 ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098406473273663992"><img src="../assets/previews/36a29f044afe429a09799a73853956a95eaa3917011a12639f35ee3a4c506d25.jpg" width="840" loading="lazy" alt="Figura 3D de una niña jugando con un robot"></a>
-
-Crea una figura 3D de alta precisión y estilo anime que muestre a una niña completamente ensamblada, de pie, con un casco de trabajo, un robot de hojalata, un mando a distancia y una caja de herramientas en la cintura.
-
-**Prompt**
-
-```text
-Figura 3D completamente ensamblada de una niña jugando con un robot, con un pequeño casco de trabajo en la cabeza; sostiene un robot de hojalata en una mano y un mando a distancia en la otra, y lleva una caja de herramientas en la cintura. Todos los accesorios deben estar integrados y la figura debe aparecer de pie, sobre un fondo blanco puro, con iluminación profesional de estudio y un estilo de presentación de figura 3D de alta precisión y estética anime. ar3:4
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098406473273663992) · [Publicación original](https://x.com/94vanAI/status/2098406473273663992) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -3908,6 +3888,26 @@ Ahora quiero que hagas un juego 3D en el que esquive asteroides, usando las tecl
 
 ---
 
+<a id="2106385060106777043"></a>
+
+### Escena 3D de una barca navegable por un río entre montañas
+
+[けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-03
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2106385060106777043"><img src="../assets/previews/53df380ec6620d54216251f13298ad3d83132ea05276ca497edc3639c660e1b0.jpg" width="840" loading="lazy" alt="Escena 3D de una barca navegable por un río entre montañas"></a>
+
+Instrucciones para crear una escena 3D en three.js en la que una barca navega por un río entre las montañas de Japón. Especifica el control de la barca con las teclas de dirección, el cambio entre día, noche y lluvia, y que los faroles junto al río se iluminen por la noche. El autor afirma haber enviado estas mismas instrucciones una vez a GPT-6 Astra.
+
+**Prompt**
+
+```text
+Crea con three.js una escena 3D en la que una barca navegue por un río entre las montañas de Japón. Permite controlar la barca con las teclas de dirección, cambiar entre día, noche y lluvia, y haz que los faroles junto al río se iluminen por la noche.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2106385060106777043) · [Publicación original](https://x.com/kensumi_ai/status/2106385072266084741) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Defensa de tanques sin fin
@@ -4296,7 +4296,7 @@ Entrega el código fuente, el archivo de bloqueo, los comandos npm de desarrollo
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 310 ejemplos en el sitio oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 311 ejemplos en el sitio oficial →</a></strong></p>
 <p><sub>Para que el README de GitHub se renderice con fluidez, aquí solo se muestran los 100 ejemplos más recientes.</sub></p>
 <br>
 </td></tr>

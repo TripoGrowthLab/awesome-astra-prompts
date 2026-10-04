@@ -28,7 +28,7 @@
 **다음 게임, 장면, 인터랙티브 세계를 위한 아이디어를 찾아보세요.**
 
 
-**310 · 최신 Astra 프롬프트**
+**311 · 최신 Astra 프롬프트**
 
 ## 추천 작품
 
@@ -53,7 +53,6 @@
 - [체르노빌 아틀라스](#2098841316591346006) · GitHub
 - [인터랙티브 3D 해부학 탐색기](#2099206962344800541) · GitHub
 - [아이소메트릭 판타지 그래픽 데모](#2100271998618177864) · GitHub
-- [로봇과 노는 소녀 피규어](#2098406473273663992)
 - [인터랙티브 3D 잉어 연못](#2098492771170722032)
 - [브루클린 브리지를 모델링하고 양방향에서 전차가 통과하는 상황을 테스트하세요](#2098650336521064759)
 - [선경·고찰 3D 제작 시연 영상](#2098697876155076820)
@@ -144,6 +143,7 @@
 - [Isaac Sim에서 장면 재현하기](#2105323534398763307)
 - [황금빛 미니어처 3D 피라미드 디오라마](#2105412081692352654)
 - [3D 소행성 회피 게임](#2105644436659290409)
+- [산골짜기 강을 달리는 조작 가능한 3D 보트 장면](#2106385060106777043)
 - [Battle City 3D: 끝없는 탱크 디펜스](#battle-city-3d)
 - [Crazy Tanks — 3D 아일랜드 포병전](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — 기묘한 무기 서바이벌 게임](#odd-arms)
@@ -227,26 +227,6 @@ Three.js를 사용해 고품질 인터랙티브 3D 전시물 "체르노빌 아�
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100271998618177864) · [원본 게시물](https://github.com/achimala/dream-loop) · [소스 코드](https://github.com/achimala/dream-loop) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="2098406473273663992"></a>
-
-### 로봇과 노는 소녀 피규어
-
-[𝟡𝟜 ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2098406473273663992"><img src="../assets/previews/36a29f044afe429a09799a73853956a95eaa3917011a12639f35ee3a4c506d25.jpg" width="840" loading="lazy" alt="로봇과 노는 소녀 피규어"></a>
-
-작업모, 양철 로봇, 리모컨, 허리에 찬 정비 상자를 모두 포함한 완성형 구성의 고정밀 3D 애니메이션 스타일 소녀 피규어를 서 있는 포즈로 제작합니다.
-
-**프롬프트**
-
-```text
-작업모를 쓴 소녀가 한 손에는 양철 로봇을, 다른 한 손에는 리모컨을 들고 허리에는 정비 상자를 찬 완성형 피규어. 모든 소품이 완전히 결합된 서 있는 포즈, 순백색 배경, 스튜디오 전문 조명, 고정밀 3D 애니메이션 피규어 전시 스타일. ar3:4
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2098406473273663992) · [원본 게시물](https://x.com/94vanAI/status/2098406473273663992) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -3914,6 +3894,26 @@ OpenAI 오리지널 영상에 등장하는 DubSpeak 링크 트랜스크립트에
 
 ---
 
+<a id="2106385060106777043"></a>
+
+### 산골짜기 강을 달리는 조작 가능한 3D 보트 장면
+
+[けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-03
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2106385060106777043"><img src="../assets/previews/53df380ec6620d54216251f13298ad3d83132ea05276ca497edc3639c660e1b0.jpg" width="840" loading="lazy" alt="산골짜기 강을 달리는 조작 가능한 3D 보트 장면"></a>
+
+일본 산골짜기의 강을 보트로 달리는 three.js 기반 3D 장면을 만드는 지시문입니다. 화살표 키로 보트를 조작하고, 낮·밤·비 모드를 전환하며, 밤에는 강변의 등롱이 빛나도록 설정합니다. 게시자는 이 동일한 지시문을 GPT-6 Astra에 한 번 전송했다고 밝혔습니다.
+
+**프롬프트**
+
+```text
+three.js로 일본 산골짜기의 강을 보트로 달리는 3D 장면을 만들어 주세요. 화살표 키로 보트를 조작하고 낮·밤·비 모드를 전환할 수 있으며, 밤에는 강변의 등롱이 빛나도록 해 주세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2106385060106777043) · [원본 게시물](https://x.com/kensumi_ai/status/2106385072266084741) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: 끝없는 탱크 디펜스
@@ -4302,7 +4302,7 @@ Vite, TypeScript와 Three.js를 사용하고, 지리 데이터, 순수 물리·�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 310개 보기 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 311개 보기 →</a></strong></p>
 <p><sub>GitHub README가 원활하게 렌더링되도록 최신 사례 100개만 표시합니다.</sub></p>
 <br>
 </td></tr>

@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**310 · En yeni Astra istemleri**
+**311 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -53,7 +53,6 @@
 - [Çernobil Atlası](#2098841316591346006) · GitHub
 - [Etkileşimli 3B Anatomi Gezgini](#2099206962344800541) · GitHub
 - [İzometrik fantezi grafik demosu](#2100271998618177864) · GitHub
-- [Robotla Oynayan Küçük Kız Figürü](#2098406473273663992)
 - [Etkileşimli 3B Koi Göleti](#2098492771170722032)
 - [Brooklyn Köprüsü’nü modelleyin ve her iki yönden geçen tankları test edin](#2098650336521064759)
 - [Zen Hâli · Kadim Tapınak 3B Yapım Gösterim Videosu](#2098697876155076820)
@@ -144,6 +143,7 @@
 - [Isaac Sim'de bir sahneyi yeniden oluşturun](#2105323534398763307)
 - [Altın minyatür 3B piramit dioraması](#2105412081692352654)
 - [3B asteroitlerden kaçış oyunu](#2105644436659290409)
+- [Dağlık bir nehirde ilerleyen kontrol edilebilir 3B tekne sahnesi](#2106385060106777043)
 - [Battle City 3D: Sonsuz Tank Savunması](#battle-city-3d)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu](#odd-arms)
@@ -227,26 +227,6 @@ Bana bir grafik demosu oluştur: izometrik kamera, gerçekçi gölgelendirmeye v
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100271998618177864) · [Orijinal gönderi](https://github.com/achimala/dream-loop) · [Kaynak kodu](https://github.com/achimala/dream-loop) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2098406473273663992"></a>
-
-### Robotla Oynayan Küçük Kız Figürü
-
-[𝟡𝟜 ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098406473273663992"><img src="../assets/previews/36a29f044afe429a09799a73853956a95eaa3917011a12639f35ee3a4c506d25.jpg" width="840" loading="lazy" alt="Robotla Oynayan Küçük Kız Figürü"></a>
-
-Tüm parçaları bir araya getirilmiş, ayakta sergilenen; işçi şapkası, teneke robot, uzaktan kumanda ve belinde bakım kutusu bulunan, yüksek ayrıntılı 3B anime tarzı küçük kız figürü oluşturun.
-
-**İstem**
-
-```text
-Tüm parçaları eksiksiz şekilde birleştirilmiş, robotla oynayan küçük kız figürü; başında işçi şapkası, bir elinde teneke robot, diğer elinde uzaktan kumanda ve belinde bakım kutusu. Figür ve tüm aksesuarlar birleşik hâlde, ayakta duran pozda; saf beyaz arka plan, profesyonel stüdyo aydınlatması, yüksek ayrıntılı 3B anime figürü sergileme tarzı. ar3:4
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098406473273663992) · [Orijinal gönderi](https://x.com/94vanAI/status/2098406473273663992) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3913,6 +3893,26 @@ Bağlantısı paylaşılan DubSpeak transkriptinde, OpenAI'a ait özgün bir vid
 
 ---
 
+<a id="2106385060106777043"></a>
+
+### Dağlık bir nehirde ilerleyen kontrol edilebilir 3B tekne sahnesi
+
+[けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-03
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2106385060106777043"><img src="../assets/previews/53df380ec6620d54216251f13298ad3d83132ea05276ca497edc3639c660e1b0.jpg" width="840" loading="lazy" alt="Dağlık bir nehirde ilerleyen kontrol edilebilir 3B tekne sahnesi"></a>
+
+Japonya’nın dağlık bir nehrinde tekneyle ilerlenen, three.js ile oluşturulmuş bir 3B sahne hazırlamaya yönelik talimatlar. Teknenin ok tuşlarıyla kontrol edilmesi, gündüz, gece ve yağmur arasında geçiş yapılabilmesi ve gece nehir kıyısındaki fenerlerin ışık saçması isteniyor. Gönderiyi paylaşan kişi, bu talimatın aynısını GPT-6 Astra’ya bir kez gönderdiğini belirtiyor.
+
+**İstem**
+
+```text
+three.js ile Japonya’nın dağlık bir nehrinde tekneyle ilerlenen bir 3B sahne oluşturun. Tekne ok tuşlarıyla kontrol edilebilsin; gündüz, gece ve yağmur arasında geçiş yapılabilsin. Gece olduğunda nehir kıyısındaki fenerler parlasın.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2106385060106777043) · [Orijinal gönderi](https://x.com/kensumi_ai/status/2106385072266084741) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Sonsuz Tank Savunması
@@ -4301,7 +4301,7 @@ Kaynak kodu, lockfile’ı, npm geliştirme/derleme komutlarını ve statik çı
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 310 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 311 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>
