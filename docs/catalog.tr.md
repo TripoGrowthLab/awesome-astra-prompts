@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**311 · En yeni Astra istemleri**
+**312 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -53,7 +53,6 @@
 - [Çernobil Atlası](#2098841316591346006) · GitHub
 - [Etkileşimli 3B Anatomi Gezgini](#2099206962344800541) · GitHub
 - [İzometrik fantezi grafik demosu](#2100271998618177864) · GitHub
-- [Etkileşimli 3B Koi Göleti](#2098492771170722032)
 - [Brooklyn Köprüsü’nü modelleyin ve her iki yönden geçen tankları test edin](#2098650336521064759)
 - [Zen Hâli · Kadim Tapınak 3B Yapım Gösterim Videosu](#2098697876155076820)
 - [DEVICE: Akıllı telefonun kendisini kullanan fotogerçekçi 3B bulmaca oyunu](#2098715488369152087)
@@ -144,6 +143,7 @@
 - [Altın minyatür 3B piramit dioraması](#2105412081692352654)
 - [3B asteroitlerden kaçış oyunu](#2105644436659290409)
 - [Dağlık bir nehirde ilerleyen kontrol edilebilir 3B tekne sahnesi](#2106385060106777043)
+- [Tarayıcıda gezilebilen 3B ev ortamı](#2106737391948235164)
 - [Battle City 3D: Sonsuz Tank Savunması](#battle-city-3d)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu](#odd-arms)
@@ -227,40 +227,6 @@ Bana bir grafik demosu oluştur: izometrik kamera, gerçekçi gölgelendirmeye v
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100271998618177864) · [Orijinal gönderi](https://github.com/achimala/dream-loop) · [Kaynak kodu](https://github.com/achimala/dream-loop) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2098492771170722032"></a>
-
-### Etkileşimli 3B Koi Göleti
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098492771170722032"><img src="../assets/previews/19d5a2e2e5f9d34380e74a89c0dd5e13503b6da32d02c813e31e7f8c453d9220.jpg" width="840" loading="lazy" alt="Etkileşimli 3B Koi Göleti"></a>
-
-Sürüklenerek bırakılabilen balıklar, su halkaları, yağmur, balıkları etkileyen bir girdap, duyarlı kontroller ve Web Audio su efektleri içeren tam ekran, etkileşimli bir Three.js ve WebGL koi göleti oluşturun.
-
-**İstem**
-
-```text
-Three.js + WebGL kullanarak güzel, tam ekran ve etkileşimli bir koi göleti oluşturun. Yukarıdan görünüm kullanın; berrak turkuaz su, güneş ışığı, gölet tabanında hareketli ışık kırınımları ve inandırıcı bir derinlik hissi sağlayın.
-
-Alta, dört koi çeşidinin yer aldığı zarif ve yarı saydam bir seçim paneli yerleştirin: Kohaku, Showa, Golden Ogon ve Platinum. Bir karta tıklamak, ilgili balığı gölete bırakır. Kullanıcı, balığı kartından sürükleyerek tam olarak nereye bırakacağını seçebilsin.
-
-Her iniş tatmin edici hissettirsin: su sıçraması ve damlacıklar, su yüzeyinde kısa süreli bir çökme ve dışa doğru yayılan su halkaları oluşturun. Balık daha sonra su yüzeyinin altına dalsın. Koi balıklarının gerçekten suya batmış görünmesi için kırılma efektleri ve derinlik ipuçları kullanın.
-
-Gözleri, pulları, yüzgeçleri ve akışkan kuyrukları olan ayrıntılı 3B koi balıkları oluşturun. Gövdelerini, kuyruklarını ve yüzgeçlerini birlikte canlandırın. Her balık yönünü ve hızını bağımsız olarak değiştirsin, sınırlara yaklaştığında yumuşakça dönsün ve diğer balıklardan kaçınsın.
-
-Kullanıcıların su üzerinde dokunup sürükleyerek su halkaları oluşturmasını sağlayın. Yağmur ve hareket ettirilebilen, akıntısı balıkları etkileyen bir girdap ekleyin. Calm, Clear pond seçeneklerini ve ekran kaydı için arayüzü gizleyen bir kontrolü ekleyin.
-
-İniş sırasındaki su sıçramalarını, yumuşak melodik damlacık seslerini, hafif yüzme suyu seslerini, yağmuru ve girdap sesini oluşturmak için Web Audio kullanın. Sound düğmesiyle sesi etkinleştirin, sessize alındığında sesi yumuşakça kısın ve tarayıcı sekmesi gizlendiğinde sesi duraklatın.
-
-Tüm etiket ve düğmeleri İngilizce tutun. Yerleşimi mobil cihazlara uyumlu hâle getirin. Birkaç düzine balıkla bile akıcı performans sağlamak için oluşturma ve animasyonu optimize edin.
-
-Görsel açıdan özenli ve etkileşimleri işlevsel, eksiksiz ve çalışır durumda bir web sitesi teslim edin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098492771170722032) · [Orijinal gönderi](https://x.com/vib3coded/status/2098492771170722032) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3913,6 +3879,26 @@ three.js ile Japonya’nın dağlık bir nehrinde tekneyle ilerlenen bir 3B sahn
 
 ---
 
+<a id="2106737391948235164"></a>
+
+### Tarayıcıda gezilebilen 3B ev ortamı
+
+[けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-04
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2106737391948235164"><img src="../assets/previews/7832ff805e07d9d042bfa48b9d6befded51c8aa09f65c3685af345c95f2a378b.jpg" width="840" loading="lazy" alt="Tarayıcıda gezilebilen 3B ev ortamı"></a>
+
+Tarayıcıda tek bir sayfa olarak açılan ve içinde yürüyerek gezilebilen bir evin 3B ortamını oluşturma talimatı.
+
+**İstem**
+
+```text
+Tarayıcıda tek bir sayfa olarak açılan ve içinde yürüyerek gezilebileceğiniz bir evin 3B ortamını oluşturun
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2106737391948235164) · [Orijinal gönderi](https://x.com/kensumi_ai/status/2106737391948235164) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Sonsuz Tank Savunması
@@ -4301,7 +4287,7 @@ Kaynak kodu, lockfile’ı, npm geliştirme/derleme komutlarını ve statik çı
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 311 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 312 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

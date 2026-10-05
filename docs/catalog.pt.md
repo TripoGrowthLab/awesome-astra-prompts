@@ -28,7 +28,7 @@
 **Um ponto de partida para seu próximo jogo, cena ou mundo interativo.**
 
 
-**311 · Prompts mais recentes do Astra**
+**312 · Prompts mais recentes do Astra**
 
 ## Projetos em destaque
 
@@ -53,7 +53,6 @@
 - [Atlas de Chernobyl](#2098841316591346006) · GitHub
 - [Explorador interativo de anatomia 3D](#2099206962344800541) · GitHub
 - [Demo de gráficos de fantasia isométrica](#2100271998618177864) · GitHub
-- [Lago de carpas koi 3D interativo](#2098492771170722032)
 - [Modele a Ponte do Brooklyn e teste tanques atravessando nos dois sentidos](#2098650336521064759)
 - [Vídeo demonstrativo da construção 3D de “禅境·古寺”](#2098697876155076820)
 - [DEVICE: jogo de quebra-cabeça 3D fotorrealista que usa o próprio smartphone](#2098715488369152087)
@@ -144,6 +143,7 @@
 - [Diorama 3D de uma pirâmide dourada em miniatura](#2105412081692352654)
 - [Jogo 3D de desviar de asteroides](#2105644436659290409)
 - [Cena 3D de um barco navegável por um rio entre montanhas](#2106385060106777043)
+- [Espaço 3D de uma casa para explorar a pé no navegador](#2106737391948235164)
 - [Battle City 3D: Defesa de Tanques sem Fim](#battle-city-3d)
 - [Crazy Tanks — Artilharia 3D em uma ilha](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Jogo de sobrevivência com armas bizarras](#odd-arms)
@@ -227,40 +227,6 @@ Crie uma demo gráfica: câmera isométrica, estilo visual inspirado em voxels, 
 ```
 
 [Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2100271998618177864) · [Publicação original](https://github.com/achimala/dream-loop) · [Código-fonte](https://github.com/achimala/dream-loop) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2098492771170722032"></a>
-
-### Lago de carpas koi 3D interativo
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098492771170722032"><img src="../assets/previews/19d5a2e2e5f9d34380e74a89c0dd5e13503b6da32d02c813e31e7f8c453d9220.jpg" width="840" loading="lazy" alt="Lago de carpas koi 3D interativo"></a>
-
-Crie um lago de carpas koi interativo em tela cheia com Three.js e WebGL, incluindo soltura de peixes por arrastar, ondulações, chuva, um redemoinho que afeta os peixes, controles responsivos e efeitos de água com Web Audio.
-
-**Prompt**
-
-```text
-Crie um belo lago de carpas koi interativo em tela cheia usando Three.js + WebGL. Use uma visão de cima, com água turquesa cristalina, luz do sol, cáusticas animadas no fundo do lago e uma sensação convincente de profundidade.
-
-Na parte inferior, coloque um elegante painel de seleção translúcido com quatro variedades de carpas koi: Kohaku, Showa, Golden Ogon e Platinum. Clicar em um cartão deve soltar o peixe no lago. Arrastar um peixe a partir do cartão deve permitir que o usuário escolha exatamente onde soltá-lo.
-
-Faça com que cada pouso seja satisfatório: um respingo com gotas, uma breve depressão na superfície da água e ondulações que se expandem. Em seguida, o peixe deve mergulhar abaixo da superfície. Use refração e indicações de profundidade para que as carpas koi pareçam claramente submersas.
-
-Crie carpas koi 3D detalhadas, com olhos, escamas, nadadeiras e caudas fluidas. Anime o corpo, a cauda e as nadadeiras em conjunto. Cada peixe deve mudar de direção e velocidade de forma independente, fazer curvas suaves perto dos limites e evitar os outros peixes.
-
-Permita que os usuários toquem e arrastem sobre a água para criar ondulações. Adicione chuva e um redemoinho móvel cuja corrente afete os peixes. Inclua Calm, Clear pond e um controle para ocultar a interface durante a gravação da tela.
-
-Use Web Audio para criar respingos de pouso, gotas musicais suaves, sons delicados de água durante o nado, chuva e um som de redemoinho. Ative o áudio por meio de um botão Sound, faça o volume diminuir suavemente ao silenciar e pause o áudio quando a aba do navegador estiver oculta.
-
-Mantenha todos os rótulos e botões em inglês. Torne o layout responsivo para dispositivos móveis. Otimize a renderização e a animação para um desempenho fluido com várias dezenas de peixes.
-
-Entregue um site completo e funcional, com visuais refinados e interações operacionais.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098492771170722032) · [Publicação original](https://x.com/vib3coded/status/2098492771170722032) · [Voltar aos exemplos](#all-prompts)
 
 ---
 
@@ -3844,6 +3810,26 @@ Crie, com three.js, uma cena 3D em que um barco navega por um rio entre as monta
 
 ---
 
+<a id="2106737391948235164"></a>
+
+### Espaço 3D de uma casa para explorar a pé no navegador
+
+[けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-04
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2106737391948235164"><img src="../assets/previews/7832ff805e07d9d042bfa48b9d6befded51c8aa09f65c3685af345c95f2a378b.jpg" width="840" loading="lazy" alt="Espaço 3D de uma casa para explorar a pé no navegador"></a>
+
+Instrução para criar, em uma única página aberta no navegador, um espaço 3D de uma casa que possa ser explorado a pé.
+
+**Prompt**
+
+```text
+Crie, em uma única página aberta no navegador, um espaço 3D de uma casa que possa ser explorado a pé.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2106737391948235164) · [Publicação original](https://x.com/kensumi_ai/status/2106737391948235164) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Defesa de Tanques sem Fim
@@ -4232,7 +4218,7 @@ Entregue o código-fonte, o lockfile, os comandos npm de desenvolvimento/build e
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 311 exemplos no site oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 312 exemplos no site oficial →</a></strong></p>
 <p><sub>Para manter a renderização do README do GitHub fluida, mostramos aqui apenas os 100 exemplos mais recentes.</sub></p>
 <br>
 </td></tr>

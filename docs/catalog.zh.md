@@ -29,7 +29,7 @@
 
 探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。
 
-**311 条案例 · 14 种语言 · 12 条附项目源码**
+**312 条案例 · 14 种语言 · 12 条附项目源码**
 
 ## 精选作品
 
@@ -54,7 +54,6 @@
 - [切尔诺贝利图谱](#2098841316591346006) · GitHub
 - [交互式 3D 解剖探索器](#2099206962344800541) · GitHub
 - [等距视角奇幻图形演示](#2100271998618177864) · GitHub
-- [互动 3D 锦鲤池](#2098492771170722032)
 - [建模布鲁克林大桥，测试双向坦克通行](#2098650336521064759)
 - [禅境·古寺3D建造演示视频](#2098697876155076820)
 - [DEVICE：利用手机本体的写实 3D 解谜游戏](#2098715488369152087)
@@ -145,6 +144,7 @@
 - [金色微缩 3D 金字塔场景](#2105412081692352654)
 - [3D 躲避小行星游戏](#2105644436659290409)
 - [可操控的山间河流 3D 划船场景](#2106385060106777043)
+- [可在浏览器中漫游的住宅 3D 空间](#2106737391948235164)
 - [Battle City 3D：无尽坦克防御](#battle-city-3d)
 - [疯狂坦克——3D 岛屿炮战](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS——奇趣武器生存游戏](#odd-arms)
@@ -228,40 +228,6 @@
 ```
 
 [查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2100271998618177864) · [查看原帖](https://github.com/achimala/dream-loop) · [项目源码](https://github.com/achimala/dream-loop) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2098492771170722032"></a>
-
-### 互动 3D 锦鲤池
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098492771170722032"><img src="../assets/previews/19d5a2e2e5f9d34380e74a89c0dd5e13503b6da32d02c813e31e7f8c453d9220.jpg" width="840" loading="lazy" alt="互动 3D 锦鲤池"></a>
-
-创建一个全屏互动的 Three.js 和 WebGL 锦鲤池，支持拖放投放锦鲤、水波纹、降雨、会影响鱼群的漩涡、响应式控制，以及 Web Audio 水声效果。
-
-**提示词**
-
-```text
-使用 Three.js + WebGL 构建一个精美的全屏互动锦鲤池。采用俯视视角，呈现清澈的青绿色水面、阳光、池底动态焦散，并营造真实可信的景深感。
-
-在底部放置一个优雅的半透明选择面板，提供四种锦鲤：红白（Kohaku）、昭和（Showa）、黄金（Golden Ogon）和白金（Platinum）。点击卡片即可将对应的锦鲤投放到池中。从卡片上拖动锦鲤时，用户可以准确选择投放位置。
-
-让每次落水都具有令人愉悦的反馈：水花和飞溅的水滴、短暂下陷的水面，以及向外扩散的水波纹。随后锦鲤应潜入水下。使用折射效果和景深线索，清晰表现锦鲤处于水下。
-
-创建带有眼睛、鳞片、鱼鳍和飘逸鱼尾的精细 3D 锦鲤。让鱼身、鱼尾和鱼鳍协同动画。每条鱼都应独立改变方向和速度，在接近边界时平滑转向，并避开其他鱼。
-
-允许用户在水面上触摸并拖动以制造水波纹。加入降雨和可移动的漩涡，其水流会影响鱼群。加入 Calm、Clear pond，以及一个可隐藏界面、便于录制屏幕的控件。
-
-使用 Web Audio 制作落水水花、轻柔的音乐水滴声、柔和的游水声、雨声和漩涡声。通过 Sound 按钮启用音频，静音时平滑淡出，并在浏览器标签页隐藏时暂停。
-
-所有标签和按钮均使用英文。让布局适配移动设备。优化渲染和动画，确保同时显示几十条鱼时仍能流畅运行。
-
-交付一个完整、可运行、视觉精致且交互功能完善的网站。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098492771170722032) · [查看原帖](https://x.com/vib3coded/status/2098492771170722032) · [返回案例导航](#all-prompts)
 
 ---
 
@@ -3848,6 +3814,26 @@ OpenAI 原创视频的 DubSpeak 转录文本链接中，引用了一项制作 3D
 
 ---
 
+<a id="2106737391948235164"></a>
+
+### 可在浏览器中漫游的住宅 3D 空间
+
+[けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-04
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2106737391948235164"><img src="../assets/previews/7832ff805e07d9d042bfa48b9d6befded51c8aa09f65c3685af345c95f2a378b.jpg" width="840" loading="lazy" alt="可在浏览器中漫游的住宅 3D 空间"></a>
+
+创建一个可在浏览器中打开的单页 3D 空间，让用户能够在住宅内部步行参观。
+
+**提示词**
+
+```text
+请创建一个可在浏览器中打开的单页 3D 空间，让用户能够在住宅内部步行参观。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2106737391948235164) · [查看原帖](https://x.com/kensumi_ai/status/2106737391948235164) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D：无尽坦克防御
@@ -4236,7 +4222,7 @@ OpenAI 原创视频的 DubSpeak 转录文本链接中，引用了一项制作 3D
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 311 条案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 312 条案例 →</a></strong></p>
 <p><sub>为保持 GitHub README 渲染流畅，这里仅展示最新 100 条案例。</sub></p>
 <br>
 </td></tr>

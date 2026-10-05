@@ -29,7 +29,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**311 examples · 14 languages · 12 examples with source code**
+**312 examples · 14 languages · 12 examples with source code**
 
 ## Featured projects
 
@@ -54,7 +54,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Chernobyl Atlas](#2098841316591346006) · GitHub
 - [Interactive 3D Anatomy Explorer](#2099206962344800541) · GitHub
 - [Isometric fantasy graphics demo](#2100271998618177864) · GitHub
-- [Interactive 3D Koi Pond](#2098492771170722032)
 - [Model the Brooklyn Bridge and test tanks crossing from both directions](#2098650336521064759)
 - [Zen Realm · Ancient Temple 3D Build Demo Video](#2098697876155076820)
 - [DEVICE: A Photorealistic 3D Puzzle Game That Uses the Smartphone Itself](#2098715488369152087)
@@ -145,6 +144,7 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Golden miniature 3D pyramid diorama](#2105412081692352654)
 - [3D asteroid-dodging game](#2105644436659290409)
 - [Playable 3D Boat Scene on a Mountain River](#2106385060106777043)
+- [A Browser-Based 3D House You Can Walk Through](#2106737391948235164)
 - [Battle City 3D: Endless Tank Defense](#battle-city-3d)
 - [Crazy Tanks — 3D Island Artillery](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Weird Weapons Survival Game](#odd-arms)
@@ -228,40 +228,6 @@ Build me a graphics demo: isometric camera, voxel-ish art style with realistic s
 ```
 
 [View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100271998618177864) · [Original post](https://github.com/achimala/dream-loop) · [Source code](https://github.com/achimala/dream-loop) · [Back to examples](#all-prompts)
-
----
-
-<a id="2098492771170722032"></a>
-
-### Interactive 3D Koi Pond
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098492771170722032"><img src="../assets/previews/19d5a2e2e5f9d34380e74a89c0dd5e13503b6da32d02c813e31e7f8c453d9220.jpg" width="840" loading="lazy" alt="Interactive 3D Koi Pond"></a>
-
-Create a full-screen interactive Three.js and WebGL koi pond with draggable fish releases, ripples, rain, a fish-affecting whirlpool, responsive controls, and Web Audio water effects.
-
-**Prompt**
-
-```text
-Build a beautiful, full-screen interactive koi pond using Three.js + WebGL. Use a top-down view with clear turquoise water, sunlight, animated caustics on the pond floor, and a convincing sense of depth.
-
-Place an elegant translucent selection panel at the bottom with four koi varieties: Kohaku, Showa, Golden Ogon, and Platinum. Clicking a card releases that fish into the pond. Dragging a fish from its card lets the user choose exactly where to drop it.
-
-Make each landing feel satisfying: a splash with droplets, a brief depression in the water surface, and expanding ripples. The fish should then dive beneath the surface. Use refraction and depth cues so the koi clearly look submerged.
-
-Create detailed 3D koi with eyes, scales, fins, and flowing tails. Animate their bodies, tails, and fins together. Each fish should independently change direction and speed, turn smoothly near boundaries, and avoid other fish.
-
-Let users touch and drag across the water to create ripples. Add rain and a movable whirlpool whose current affects the fish. Include Calm, Clear pond, and a control to hide the interface for screen recording.
-
-Use Web Audio to create landing splashes, soft musical droplets, gentle swimming water sounds, rain, and a whirlpool sound. Enable audio through a Sound button, fade it smoothly when muted, and pause it when the browser tab is hidden.
-
-Keep all labels and buttons in English. Make the layout responsive for mobile. Optimize rendering and animation for smooth performance with several dozen fish.
-
-Deliver a complete, working website with polished visuals and functional interactions.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098492771170722032) · [Original post](https://x.com/vib3coded/status/2098492771170722032) · [Back to examples](#all-prompts)
 
 ---
 
@@ -3889,6 +3855,26 @@ Create a three.js 3D scene of a boat traveling along a mountainous river in Japa
 
 ---
 
+<a id="2106737391948235164"></a>
+
+### A Browser-Based 3D House You Can Walk Through
+
+[けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-04
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2106737391948235164"><img src="../assets/previews/7832ff805e07d9d042bfa48b9d6befded51c8aa09f65c3685af345c95f2a378b.jpg" width="840" loading="lazy" alt="A Browser-Based 3D House You Can Walk Through"></a>
+
+Instructions for creating a 3D space that lets users walk through and explore a house in a single browser page.
+
+**Prompt**
+
+```text
+Create a 3D space that users can walk through and explore inside a house as a single browser page.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2106737391948235164) · [Original post](https://x.com/kensumi_ai/status/2106737391948235164) · [Back to examples](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Endless Tank Defense
@@ -4277,7 +4263,7 @@ Deliver source, lockfile, npm development/build commands and static output. Veri
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 311 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 312 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>

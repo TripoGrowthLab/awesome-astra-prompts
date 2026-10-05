@@ -28,7 +28,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**311 · Neueste Astra-Prompts**
+**312 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -53,7 +53,6 @@
 - [Chernobyl-Atlas](#2098841316591346006) · GitHub
 - [Interaktiver 3D-Anatomie-Explorer](#2099206962344800541) · GitHub
 - [Demo für isometrische Fantasy-Grafik](#2100271998618177864) · GitHub
-- [Interaktiver 3D-Koi-Teich](#2098492771170722032)
 - [Die Brooklyn Bridge modellieren und Panzerüberquerungen aus beiden Richtungen testen](#2098650336521064759)
 - [Zenwelt · Alter Tempel – 3D-Bauprozess als Demo-Video](#2098697876155076820)
 - [DEVICE: Fotorealistisches 3D-Puzzlespiel mit dem Smartphone selbst](#2098715488369152087)
@@ -144,6 +143,7 @@
 - [Goldenes Miniatur-3D-Pyramiden-Diorama](#2105412081692352654)
 - [3D-Asteroiden-Ausweichspiel](#2105644436659290409)
 - [Interaktive 3D-Bootszene auf einem Bergfluss](#2106385060106777043)
+- [Begehbare 3D-Umgebung eines Hauses im Browser](#2106737391948235164)
 - [Battle City 3D: Endlose Panzerverteidigung](#battle-city-3d)
 - [Crazy Tanks — 3D-Inselartillerie](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Survival-Game mit verrückten Waffen](#odd-arms)
@@ -227,40 +227,6 @@ Erstelle mir eine Grafikdemo: isometrische Kamera, voxel-artiger Art-Style mit r
 ```
 
 [Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2100271998618177864) · [Originalbeitrag](https://github.com/achimala/dream-loop) · [Quellcode](https://github.com/achimala/dream-loop) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2098492771170722032"></a>
-
-### Interaktiver 3D-Koi-Teich
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098492771170722032"><img src="../assets/previews/19d5a2e2e5f9d34380e74a89c0dd5e13503b6da32d02c813e31e7f8c453d9220.jpg" width="840" loading="lazy" alt="Interaktiver 3D-Koi-Teich"></a>
-
-Erstelle einen interaktiven, bildschirmfüllenden Koi-Teich mit Three.js und WebGL – mit freisetzbaren, ziehbaren Fischen, Wasserkringeln, Regen, einem die Fische beeinflussenden Strudel, responsiven Steuerelementen und Wassereffekten per Web Audio.
-
-**Prompt**
-
-```text
-Erstelle mit Three.js + WebGL einen ansprechenden, bildschirmfüllenden interaktiven Koi-Teich. Verwende eine Ansicht von oben mit klarem türkisfarbenem Wasser, Sonnenlicht, animierten Kaustiken auf dem Teichboden und einer überzeugenden Tiefenwirkung.
-
-Platziere unten ein elegantes, transparentes Auswahlpanel mit vier Koi-Varianten: Kohaku, Showa, Golden Ogon und Platinum. Durch Klicken auf eine Karte wird der jeweilige Fisch im Teich freigelassen. Wenn der Benutzer einen Fisch von seiner Karte zieht, kann er genau festlegen, wo er ihn absetzt.
-
-Sorge dafür, dass jede Landung unmittelbar befriedigend wirkt: mit einem Spritzer samt Tropfen, einer kurzen Vertiefung in der Wasseroberfläche und sich ausbreitenden Wasserkringeln. Anschließend soll der Fisch unter die Oberfläche tauchen. Verwende Brechung und Tiefenhinweise, damit die Koi eindeutig unter Wasser erscheinen.
-
-Erstelle detaillierte 3D-Koi mit Augen, Schuppen, Flossen und wallenden Schwänzen. Animieren ihre Körper, Schwänze und Flossen als Einheit. Jeder Fisch soll unabhängig Richtung und Geschwindigkeit ändern, sich in der Nähe von Begrenzungen sanft drehen und anderen Fischen ausweichen.
-
-Lass Benutzer über das Wasser streichen und ziehen, um Wasserkringel zu erzeugen. Füge Regen und einen verschiebbaren Strudel hinzu, dessen Strömung die Fische beeinflusst. Integriere die Optionen „Calm“, „Clear pond“ sowie eine Steuerung zum Ausblenden der Benutzeroberfläche für Bildschirmaufnahmen.
-
-Verwende Web Audio für Landungsspritzer, sanfte melodische Tropfen, dezente Schwimmgeräusche, Regen und ein Strudelgeräusch. Aktiviere den Ton über eine Schaltfläche „Sound“, blende ihn beim Stummschalten sanft aus und pausiere ihn, wenn der Browser-Tab verborgen ist.
-
-Belasse alle Beschriftungen und Schaltflächen auf Englisch. Gestalte das Layout responsiv für Mobilgeräte. Optimiere Rendering und Animation für eine flüssige Darstellung mit mehreren Dutzend Fischen.
-
-Liefere eine vollständige, funktionsfähige Website mit ausgefeilter visueller Gestaltung und funktionierenden Interaktionen.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098492771170722032) · [Originalbeitrag](https://x.com/vib3coded/status/2098492771170722032) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 
@@ -3848,6 +3814,26 @@ Erstelle mit three.js eine 3D-Szene, in der ein Boot durch einen japanischen Ber
 
 ---
 
+<a id="2106737391948235164"></a>
+
+### Begehbare 3D-Umgebung eines Hauses im Browser
+
+[けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-04
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2106737391948235164"><img src="../assets/previews/7832ff805e07d9d042bfa48b9d6befded51c8aa09f65c3685af345c95f2a378b.jpg" width="840" loading="lazy" alt="Begehbare 3D-Umgebung eines Hauses im Browser"></a>
+
+Anleitung zum Erstellen einer 3D-Umgebung, in der man sich in einem Haus umsehen und bewegen kann – als einzelne Seite, die im Browser geöffnet wird.
+
+**Prompt**
+
+```text
+Erstellen Sie als einzelne, im Browser zu öffnende Seite eine 3D-Umgebung, in der man sich in einem Haus bewegen und umsehen kann.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2106737391948235164) · [Originalbeitrag](https://x.com/kensumi_ai/status/2106737391948235164) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Endlose Panzerverteidigung
@@ -4236,7 +4222,7 @@ Liefere Quellcode, Lockfile, npm-Befehle für Entwicklung und Build sowie die st
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 311 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 312 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>

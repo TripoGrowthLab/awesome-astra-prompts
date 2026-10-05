@@ -28,7 +28,7 @@
 **다음 게임, 장면, 인터랙티브 세계를 위한 아이디어를 찾아보세요.**
 
 
-**311 · 최신 Astra 프롬프트**
+**312 · 최신 Astra 프롬프트**
 
 ## 추천 작품
 
@@ -53,7 +53,6 @@
 - [체르노빌 아틀라스](#2098841316591346006) · GitHub
 - [인터랙티브 3D 해부학 탐색기](#2099206962344800541) · GitHub
 - [아이소메트릭 판타지 그래픽 데모](#2100271998618177864) · GitHub
-- [인터랙티브 3D 잉어 연못](#2098492771170722032)
 - [브루클린 브리지를 모델링하고 양방향에서 전차가 통과하는 상황을 테스트하세요](#2098650336521064759)
 - [선경·고찰 3D 제작 시연 영상](#2098697876155076820)
 - [DEVICE: 스마트폰 본체를 활용하는 포토리얼 3D 퍼즐 게임](#2098715488369152087)
@@ -144,6 +143,7 @@
 - [황금빛 미니어처 3D 피라미드 디오라마](#2105412081692352654)
 - [3D 소행성 회피 게임](#2105644436659290409)
 - [산골짜기 강을 달리는 조작 가능한 3D 보트 장면](#2106385060106777043)
+- [브라우저에서 걸어 다니며 둘러보는 집 3D 공간](#2106737391948235164)
 - [Battle City 3D: 끝없는 탱크 디펜스](#battle-city-3d)
 - [Crazy Tanks — 3D 아일랜드 포병전](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — 기묘한 무기 서바이벌 게임](#odd-arms)
@@ -227,40 +227,6 @@ Three.js를 사용해 고품질 인터랙티브 3D 전시물 "체르노빌 아�
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100271998618177864) · [원본 게시물](https://github.com/achimala/dream-loop) · [소스 코드](https://github.com/achimala/dream-loop) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="2098492771170722032"></a>
-
-### 인터랙티브 3D 잉어 연못
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2098492771170722032"><img src="../assets/previews/19d5a2e2e5f9d34380e74a89c0dd5e13503b6da32d02c813e31e7f8c453d9220.jpg" width="840" loading="lazy" alt="인터랙티브 3D 잉어 연못"></a>
-
-드래그해 잉어를 풀어놓고, 물결·비·물고기에 영향을 주는 소용돌이·반응형 컨트롤·Web Audio 물 효과를 구현한 전체 화면 인터랙티브 Three.js 및 WebGL 잉어 연못을 제작합니다.
-
-**프롬프트**
-
-```text
-Three.js와 WebGL을 사용해 아름다운 전체 화면 인터랙티브 잉어 연못을 제작합니다. 위에서 내려다보는 시점으로 선명한 청록색 물과 햇빛, 연못 바닥에 움직이는 카스틱, 설득력 있는 깊이감을 표현합니다.
-
-하단에는 고히, 쇼와, 골든 오곤, 플래티넘 네 가지 잉어 품종을 보여 주는 우아한 반투명 선택 패널을 배치합니다. 카드를 클릭하면 해당 잉어가 연못에 풀려납니다. 카드에서 잉어를 드래그하면 원하는 위치에 정확히 놓을 수 있습니다.
-
-잉어가 물에 들어갈 때마다 물방울이 튀는 물보라, 수면이 잠시 움푹 들어가는 효과, 퍼져 나가는 물결이 나타나도록 해 만족감을 높입니다. 잉어는 곧 수면 아래로 잠수해야 합니다. 굴절과 깊이 단서를 사용해 잉어가 확실히 물속에 잠겨 보이도록 표현합니다.
-
-눈, 비늘, 지느러미, 유려한 꼬리를 갖춘 디테일한 3D 잉어를 제작합니다. 몸통과 꼬리, 지느러미가 함께 움직이도록 애니메이션을 적용합니다. 각 잉어는 독립적으로 방향과 속도를 바꾸고, 경계 근처에서는 부드럽게 방향을 전환하며, 다른 잉어와 서로 부딪히지 않도록 합니다.
-
-사용자가 물 위를 터치하고 드래그해 물결을 만들 수 있도록 합니다. 비와 이동 가능한 소용돌이를 추가하고, 소용돌이의 물살이 잉어에 영향을 주도록 합니다. Calm, Clear pond 옵션과 화면 녹화를 위해 인터페이스를 숨기는 컨트롤을 포함합니다.
-
-Web Audio를 사용해 입수 물보라, 은은한 음악적 물방울 소리, 잔잔한 헤엄 소리, 빗소리, 소용돌이 소리를 만듭니다. Sound 버튼으로 오디오를 활성화하고, 음소거할 때는 소리가 부드럽게 페이드아웃되도록 하며, 브라우저 탭이 숨겨지면 오디오를 일시 정지합니다.
-
-모든 레이블과 버튼은 영어로 유지합니다. 모바일에서도 레이아웃이 반응형으로 작동하도록 합니다. 수십 마리의 잉어가 있어도 렌더링과 애니메이션이 매끄럽게 실행되도록 최적화합니다.
-
-완성도 높은 비주얼과 정상적으로 작동하는 인터랙션을 갖춘 완전한 웹사이트를 제공합니다.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2098492771170722032) · [원본 게시물](https://x.com/vib3coded/status/2098492771170722032) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -3914,6 +3880,26 @@ three.js로 일본 산골짜기의 강을 보트로 달리는 3D 장면을 만�
 
 ---
 
+<a id="2106737391948235164"></a>
+
+### 브라우저에서 걸어 다니며 둘러보는 집 3D 공간
+
+[けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-04
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2106737391948235164"><img src="../assets/previews/7832ff805e07d9d042bfa48b9d6befded51c8aa09f65c3685af345c95f2a378b.jpg" width="840" loading="lazy" alt="브라우저에서 걸어 다니며 둘러보는 집 3D 공간"></a>
+
+브라우저에서 한 페이지로 열어 집 안을 걸어 다니며 둘러볼 수 있는 3D 공간을 만드는 지침입니다.
+
+**프롬프트**
+
+```text
+브라우저에서 한 페이지로 열어 집 안을 걸어 다니며 둘러볼 수 있는 3D 공간을 만들어 주세요
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2106737391948235164) · [원본 게시물](https://x.com/kensumi_ai/status/2106737391948235164) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: 끝없는 탱크 디펜스
@@ -4302,7 +4288,7 @@ Vite, TypeScript와 Three.js를 사용하고, 지리 데이터, 순수 물리·�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 311개 보기 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 312개 보기 →</a></strong></p>
 <p><sub>GitHub README가 원활하게 렌더링되도록 최신 사례 100개만 표시합니다.</sub></p>
 <br>
 </td></tr>

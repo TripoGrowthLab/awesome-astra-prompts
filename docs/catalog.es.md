@@ -28,7 +28,7 @@
 **Un punto de partida para tu próximo juego, escena o mundo interactivo.**
 
 
-**311 · Últimos prompts de Astra**
+**312 · Últimos prompts de Astra**
 
 ## Proyectos destacados
 
@@ -53,7 +53,6 @@
 - [Atlas de Chernóbil](#2098841316591346006) · GitHub
 - [Explorador interactivo de anatomía en 3D](#2099206962344800541) · GitHub
 - [Demo de gráficos de fantasía isométrica](#2100271998618177864) · GitHub
-- [Estanque de koi 3D interactivo](#2098492771170722032)
 - [Modela el puente de Brooklyn y prueba el cruce de tanques desde ambas direcciones](#2098650336521064759)
 - [Vídeo demostrativo de construcción 3D de un templo antiguo zen](#2098697876155076820)
 - [DEVICE: juego de puzles 3D fotorrealista que utiliza el propio smartphone](#2098715488369152087)
@@ -144,6 +143,7 @@
 - [Diorama de pirámide dorada en miniatura 3D](#2105412081692352654)
 - [juego 3D de esquivar asteroides](#2105644436659290409)
 - [Escena 3D de una barca navegable por un río entre montañas](#2106385060106777043)
+- [Espacio 3D de una casa que puedes recorrer en el navegador](#2106737391948235164)
 - [Battle City 3D: Defensa de tanques sin fin](#battle-city-3d)
 - [Crazy Tanks — Artillería 3D en una isla](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Juego de supervivencia con armas extrañas](#odd-arms)
@@ -227,40 +227,6 @@ Crea una demo gráfica: cámara isométrica, estilo artístico tipo vóxel con s
 ```
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100271998618177864) · [Publicación original](https://github.com/achimala/dream-loop) · [Código fuente](https://github.com/achimala/dream-loop) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2098492771170722032"></a>
-
-### Estanque de koi 3D interactivo
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098492771170722032"><img src="../assets/previews/19d5a2e2e5f9d34380e74a89c0dd5e13503b6da32d02c813e31e7f8c453d9220.jpg" width="840" loading="lazy" alt="Estanque de koi 3D interactivo"></a>
-
-Crea un estanque de koi interactivo a pantalla completa con Three.js y WebGL, donde se puedan soltar peces arrastrándolos, con ondas, lluvia, un remolino que afecte a los peces, controles adaptables y efectos de agua con Web Audio.
-
-**Prompt**
-
-```text
-Crea un hermoso estanque de koi interactivo a pantalla completa con Three.js + WebGL. Usa una vista cenital con agua turquesa transparente, luz solar, cáusticas animadas en el fondo del estanque y una convincente sensación de profundidad.
-
-Coloca en la parte inferior un elegante panel de selección translúcido con cuatro variedades de koi: Kohaku, Showa, Golden Ogon y Platinum. Al hacer clic en una tarjeta, se soltará ese pez en el estanque. Al arrastrar un pez desde su tarjeta, el usuario podrá elegir exactamente dónde soltarlo.
-
-Haz que cada aterrizaje resulte satisfactorio: un chapoteo con gotas, una breve depresión en la superficie del agua y ondas expansivas. Después, el pez deberá sumergirse bajo la superficie. Usa refracción e indicadores de profundidad para que los koi parezcan claramente sumergidos.
-
-Crea koi 3D detallados, con ojos, escamas, aletas y colas fluidas. Anima el cuerpo, la cola y las aletas de cada pez de forma coordinada. Cada pez deberá cambiar de dirección y velocidad de manera independiente, girar suavemente cerca de los límites y evitar a los demás peces.
-
-Permite que los usuarios toquen y arrastren sobre el agua para crear ondas. Añade lluvia y un remolino móvil cuya corriente afecte a los peces. Incluye Calm, Clear pond y un control para ocultar la interfaz durante la grabación de pantalla.
-
-Usa Web Audio para crear chapoteos al aterrizar, suaves gotas musicales, sonidos delicados de agua y natación, lluvia y un sonido de remolino. Activa el audio mediante un botón Sound, desvanece el sonido suavemente al silenciarlo y ponlo en pausa cuando la pestaña del navegador esté oculta.
-
-Mantén todas las etiquetas y los botones en inglés. Haz que el diseño sea adaptable a dispositivos móviles. Optimiza el renderizado y la animación para lograr un rendimiento fluido con varias docenas de peces.
-
-Entrega un sitio web completo y funcional, con un acabado visual cuidado e interacciones operativas.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098492771170722032) · [Publicación original](https://x.com/vib3coded/status/2098492771170722032) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -3908,6 +3874,26 @@ Crea con three.js una escena 3D en la que una barca navegue por un río entre la
 
 ---
 
+<a id="2106737391948235164"></a>
+
+### Espacio 3D de una casa que puedes recorrer en el navegador
+
+[けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-04
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2106737391948235164"><img src="../assets/previews/7832ff805e07d9d042bfa48b9d6befded51c8aa09f65c3685af345c95f2a378b.jpg" width="840" loading="lazy" alt="Espacio 3D de una casa que puedes recorrer en el navegador"></a>
+
+Instrucciones para crear, como una página web que se abre en el navegador, un espacio 3D de una casa que se pueda recorrer y explorar.
+
+**Prompt**
+
+```text
+Crea como una página web que se abra en el navegador un espacio 3D de una casa que se pueda recorrer y explorar.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2106737391948235164) · [Publicación original](https://x.com/kensumi_ai/status/2106737391948235164) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Defensa de tanques sin fin
@@ -4296,7 +4282,7 @@ Entrega el código fuente, el archivo de bloqueo, los comandos npm de desarrollo
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 311 ejemplos en el sitio oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 312 ejemplos en el sitio oficial →</a></strong></p>
 <p><sub>Para que el README de GitHub se renderice con fluidez, aquí solo se muestran los 100 ejemplos más recientes.</sub></p>
 <br>
 </td></tr>

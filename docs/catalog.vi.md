@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**311 · Prompt Astra mới nhất**
+**312 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -53,7 +53,6 @@
 - [Atlas Chernobyl](#2098841316591346006) · GitHub
 - [Trình khám phá giải phẫu 3D tương tác](#2099206962344800541) · GitHub
 - [Demo đồ họa fantasy isometric](#2100271998618177864) · GitHub
-- [Hồ cá koi 3D tương tác](#2098492771170722032)
 - [Dựng mô hình cầu Brooklyn và thử nghiệm xe tăng đi qua từ cả hai hướng](#2098650336521064759)
 - [Video trình diễn dựng 3D “Thiền cảnh · Cổ tự”](#2098697876155076820)
 - [DEVICE: Game giải đố 3D chân thực sử dụng chính smartphone](#2098715488369152087)
@@ -144,6 +143,7 @@
 - [Sa bàn kim tự tháp 3D thu nhỏ màu vàng](#2105412081692352654)
 - [game 3D né thiên thạch](#2105644436659290409)
 - [Cảnh thuyền 3D có thể điều khiển trên sông vùng núi](#2106385060106777043)
+- [Không gian 3D ngôi nhà có thể tham quan bằng trình duyệt](#2106737391948235164)
 - [Battle City 3D: Phòng thủ xe tăng vô tận](#battle-city-3d)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Game sinh tồn với vũ khí kỳ quặc](#odd-arms)
@@ -227,40 +227,6 @@ Hãy tạo một demo đồ họa: camera isometric, phong cách nghệ thuật 
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100271998618177864) · [Bài đăng gốc](https://github.com/achimala/dream-loop) · [Mã nguồn](https://github.com/achimala/dream-loop) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2098492771170722032"></a>
-
-### Hồ cá koi 3D tương tác
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098492771170722032"><img src="../assets/previews/19d5a2e2e5f9d34380e74a89c0dd5e13503b6da32d02c813e31e7f8c453d9220.jpg" width="840" loading="lazy" alt="Hồ cá koi 3D tương tác"></a>
-
-Tạo một hồ cá koi tương tác toàn màn hình bằng Three.js và WebGL, với thao tác kéo thả để thả cá, gợn sóng, mưa, xoáy nước ảnh hưởng đến cá, bộ điều khiển thích ứng và hiệu ứng âm thanh nước bằng Web Audio.
-
-**Prompt**
-
-```text
-Xây dựng một hồ cá koi 3D tương tác, đẹp mắt và hiển thị toàn màn hình bằng Three.js + WebGL. Sử dụng góc nhìn từ trên xuống, mặt nước xanh ngọc trong, ánh nắng, hiệu ứng caustics động trên đáy hồ và cảm giác chiều sâu chân thực.
-
-Đặt một bảng chọn trong suốt, tinh tế ở phía dưới với bốn giống cá koi: Kohaku, Showa, Golden Ogon và Platinum. Nhấp vào thẻ để thả cá đó vào hồ. Kéo cá từ thẻ cho phép người dùng chọn chính xác vị trí thả cá.
-
-Tạo cảm giác thỏa mãn cho mỗi lần cá chạm mặt nước: nước bắn tung tóe kèm giọt nước, mặt nước lõm xuống trong chốc lát rồi các vòng gợn lan rộng. Sau đó, cá phải lặn xuống dưới mặt nước. Sử dụng khúc xạ và các dấu hiệu chiều sâu để cá koi trông rõ ràng như đang ở dưới nước.
-
-Tạo cá koi 3D chi tiết với mắt, vảy, vây và đuôi mềm mại. Hoạt ảnh của thân, đuôi và vây phải phối hợp nhịp nhàng. Mỗi con cá tự thay đổi hướng và tốc độ, chuyển hướng mượt mà khi đến gần ranh giới, đồng thời tránh các cá khác.
-
-Cho phép người dùng chạm và kéo trên mặt nước để tạo gợn sóng. Thêm mưa và một xoáy nước có thể di chuyển, với dòng chảy ảnh hưởng đến cá. Bao gồm các tùy chọn Calm, Clear pond và một nút điều khiển để ẩn giao diện khi quay màn hình.
-
-Sử dụng Web Audio để tạo âm thanh nước bắn khi cá chạm hồ, những giọt âm thanh du dương nhẹ, tiếng nước êm dịu khi cá bơi, tiếng mưa và âm thanh xoáy nước. Bật âm thanh bằng nút Sound, giảm âm lượng mượt mà khi tắt tiếng và tạm dừng âm thanh khi tab trình duyệt bị ẩn.
-
-Giữ tất cả nhãn và nút bằng tiếng Anh. Thiết kế bố cục thích ứng cho thiết bị di động. Tối ưu quá trình kết xuất và hoạt ảnh để hoạt động mượt mà với vài chục con cá.
-
-Cung cấp một website hoàn chỉnh, hoạt động ổn định, có hình ảnh trau chuốt và các tương tác đầy đủ chức năng.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098492771170722032) · [Bài đăng gốc](https://x.com/vib3coded/status/2098492771170722032) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3931,6 +3897,26 @@ Hãy tạo bằng three.js một cảnh 3D, trong đó người dùng chèo thuy
 
 ---
 
+<a id="2106737391948235164"></a>
+
+### Không gian 3D ngôi nhà có thể tham quan bằng trình duyệt
+
+[けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-04
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2106737391948235164"><img src="../assets/previews/7832ff805e07d9d042bfa48b9d6befded51c8aa09f65c3685af345c95f2a378b.jpg" width="840" loading="lazy" alt="Không gian 3D ngôi nhà có thể tham quan bằng trình duyệt"></a>
+
+Hướng dẫn tạo không gian 3D để đi lại và tham quan bên trong ngôi nhà, mở dưới dạng một trang duy nhất trên trình duyệt.
+
+**Prompt**
+
+```text
+Hãy tạo một không gian 3D để đi lại và tham quan bên trong ngôi nhà, mở dưới dạng một trang duy nhất trên trình duyệt.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2106737391948235164) · [Bài đăng gốc](https://x.com/kensumi_ai/status/2106737391948235164) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Phòng thủ xe tăng vô tận
@@ -4319,7 +4305,7 @@ Bàn giao mã nguồn, lockfile, lệnh npm phát triển/build và đầu ra t�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 311 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 312 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

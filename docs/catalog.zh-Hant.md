@@ -28,7 +28,7 @@
 **為你的下一個遊戲、場景或互動世界尋找靈感。**
 
 
-**311 · 最新 Astra 提示詞**
+**312 · 最新 Astra 提示詞**
 
 ## 精選作品
 
@@ -53,7 +53,6 @@
 - [車諾比爾圖鑑](#2098841316591346006) · GitHub
 - [互動式 3D 解剖探索器](#2099206962344800541) · GitHub
 - [等角視角奇幻 3D 圖形展示](#2100271998618177864) · GitHub
-- [互動式 3D 錦鯉池](#2098492771170722032)
 - [建立布魯克林大橋模型，測試坦克從雙向通行](#2098650336521064759)
 - [禪境・古寺 3D 建造示範影片](#2098697876155076820)
 - [DEVICE：運用智慧型手機本體的寫實 3D 解謎遊戲](#2098715488369152087)
@@ -144,6 +143,7 @@
 - [金色迷你 3D 金字塔微縮場景](#2105412081692352654)
 - [3D 小行星閃避遊戲](#2105644436659290409)
 - [可操控的山間河流 3D 船舶場景](#2106385060106777043)
+- [可在瀏覽器中漫遊參觀的房屋 3D 空間](#2106737391948235164)
 - [Battle City 3D：無盡坦克防禦](#battle-city-3d)
 - [Crazy Tanks — 3D 島嶼火砲戰](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — 怪奇武器生存遊戲](#odd-arms)
@@ -227,40 +227,6 @@
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100271998618177864) · [查看原文](https://github.com/achimala/dream-loop) · [專案原始碼](https://github.com/achimala/dream-loop) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2098492771170722032"></a>
-
-### 互動式 3D 錦鯉池
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098492771170722032"><img src="../assets/previews/19d5a2e2e5f9d34380e74a89c0dd5e13503b6da32d02c813e31e7f8c453d9220.jpg" width="840" loading="lazy" alt="互動式 3D 錦鯉池"></a>
-
-建立一個全螢幕互動式 Three.js 與 WebGL 錦鯉池，支援拖曳放入錦鯉、漣漪、下雨、會影響魚群的渦流、響應式控制項，以及 Web Audio 水聲效果。
-
-**提示詞**
-
-```text
-使用 Three.js + WebGL 建立一個精美的全螢幕互動式錦鯉池。採用俯視視角，呈現清澈的青綠色水面、陽光、在池底流動的動態焦散，以及令人信服的景深感。
-
-在底部放置一個優雅的半透明選擇面板，提供四種錦鯉品種：紅白（Kohaku）、昭和（Showa）、黃金（Golden Ogon）與白金（Platinum）。點擊卡片即可將該錦鯉放入池中。從卡片拖曳錦鯉時，讓使用者能精確選擇放置位置。
-
-讓每次入水都帶來令人滿意的回饋：水花與飛濺水滴、水面短暫下陷，以及向外擴散的漣漪。接著讓錦鯉潛入水面下。運用折射與景深線索，清楚呈現錦鯉已經潛入水中的效果。
-
-建立具有眼睛、鱗片、魚鰭與飄逸尾巴的細緻 3D 錦鯉。讓魚身、尾巴與魚鰭協同動畫。每條魚都應獨立改變方向與速度，在接近邊界時平順轉向，並避開其他魚。
-
-讓使用者在水面上觸控並拖曳，以製造漣漪。加入下雨效果與可移動的渦流，其水流會影響魚群。加入 Calm、Clear pond，以及可隱藏介面以便錄製螢幕的控制項。
-
-使用 Web Audio 製作入水水花、柔和的音樂水滴聲、輕柔的游水聲、雨聲與渦流聲。透過 Sound 按鈕啟用音訊，靜音時平順淡出，並在瀏覽器分頁隱藏時暫停播放。
-
-所有標籤與按鈕均維持英文。讓版面配置適用於行動裝置。針對數十條魚的流暢效能，最佳化算繪與動畫。
-
-交付一個完整可運作、視覺效果精緻且互動功能完善的網站。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098492771170722032) · [查看原文](https://x.com/vib3coded/status/2098492771170722032) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -3952,6 +3918,26 @@ Blender 金門大橋渲染圖。從舊金山灣水面向上仰望，以廣闊且
 
 ---
 
+<a id="2106737391948235164"></a>
+
+### 可在瀏覽器中漫遊參觀的房屋 3D 空間
+
+[けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-04
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2106737391948235164"><img src="../assets/previews/7832ff805e07d9d042bfa48b9d6befded51c8aa09f65c3685af345c95f2a378b.jpg" width="840" loading="lazy" alt="可在瀏覽器中漫遊參觀的房屋 3D 空間"></a>
+
+建立一個可在瀏覽器中開啟的單頁 3D 空間，讓使用者能在屋內步行探索。
+
+**提示詞**
+
+```text
+請建立一個可在瀏覽器中開啟的單頁 3D 空間，讓使用者能在屋內步行探索。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2106737391948235164) · [查看原文](https://x.com/kensumi_ai/status/2106737391948235164) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D：無盡坦克防禦
@@ -4340,7 +4326,7 @@ UI：奶油白圓角卡片搭配海軍藍文字與珊瑚橘點綴；標題使用
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 311 個案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 312 個案例 →</a></strong></p>
 <p><sub>為保持 GitHub README 渲染流暢，這裡僅展示最新 100 個案例。</sub></p>
 <br>
 </td></tr>

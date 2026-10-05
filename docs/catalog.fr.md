@@ -28,7 +28,7 @@
 **Un point de départ pour votre prochain jeu, scène ou monde interactif.**
 
 
-**311 · Derniers prompts Astra**
+**312 · Derniers prompts Astra**
 
 ## Projets à découvrir
 
@@ -53,7 +53,6 @@
 - [Atlas de Tchernobyl](#2098841316591346006) · GitHub
 - [Explorateur anatomique 3D interactif](#2099206962344800541) · GitHub
 - [Démo de graphismes fantasy en vue isométrique](#2100271998618177864) · GitHub
-- [Étang à carpes koï 3D interactif](#2098492771170722032)
 - [Modéliser le pont de Brooklyn et tester le passage de chars dans les deux sens](#2098650336521064759)
 - [Vidéo de démonstration de construction 3D — Temple ancien zen](#2098697876155076820)
 - [DEVICE : le jeu de réflexion 3D photoréaliste qui utilise le smartphone lui-même](#2098715488369152087)
@@ -144,6 +143,7 @@
 - [Diorama 3D miniature de pyramides dorées](#2105412081692352654)
 - [Jeu 3D d’esquive d’astéroïdes](#2105644436659290409)
 - [Scène 3D de bateau pilotable sur une rivière de montagne](#2106385060106777043)
+- [Espace 3D d’une maison à explorer à pied dans le navigateur](#2106737391948235164)
 - [Battle City 3D : Défense de chars sans fin](#battle-city-3d)
 - [Crazy Tanks — Artillerie insulaire en 3D](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Jeu de survie aux armes improbables](#odd-arms)
@@ -227,40 +227,6 @@ Crée-moi une démo graphique : caméra isométrique, style visuel inspiré des 
 ```
 
 [Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2100271998618177864) · [Publication originale](https://github.com/achimala/dream-loop) · [Code source](https://github.com/achimala/dream-loop) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2098492771170722032"></a>
-
-### Étang à carpes koï 3D interactif
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-11
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098492771170722032"><img src="../assets/previews/19d5a2e2e5f9d34380e74a89c0dd5e13503b6da32d02c813e31e7f8c453d9220.jpg" width="840" loading="lazy" alt="Étang à carpes koï 3D interactif"></a>
-
-Créez un étang à carpes koï interactif en plein écran avec Three.js et WebGL, incluant le lâcher de poissons par glisser-déposer, des ondulations, de la pluie, un tourbillon qui agit sur les poissons, des commandes adaptatives et des effets aquatiques avec Web Audio.
-
-**Prompt**
-
-```text
-Créez un magnifique étang à carpes koï interactif en plein écran avec Three.js + WebGL. Utilisez une vue plongeante, une eau turquoise limpide, une lumière solaire, des caustiques animées sur le fond de l’étang et une impression convaincante de profondeur.
-
-Placez en bas un élégant panneau de sélection translucide proposant quatre variétés de carpes koï : Kohaku, Showa, Golden Ogon et Platinum. Un clic sur une fiche libère le poisson correspondant dans l’étang. En faisant glisser un poisson depuis sa fiche, l’utilisateur peut choisir précisément l’endroit où le déposer.
-
-Rendez chaque arrivée satisfaisante : une éclaboussure avec des gouttelettes, un bref creux à la surface de l’eau et des ondulations qui s’étendent. Le poisson doit ensuite plonger sous la surface. Utilisez la réfraction et des indices de profondeur pour que les carpes koï paraissent clairement immergées.
-
-Créez des carpes koï 3D détaillées, avec des yeux, des écailles, des nageoires et des queues fluides. Animez leurs corps, leurs queues et leurs nageoires de manière coordonnée. Chaque poisson doit changer indépendamment de direction et de vitesse, tourner progressivement à proximité des limites et éviter les autres poissons.
-
-Permettez aux utilisateurs de toucher l’eau et de faire glisser leur doigt dessus pour créer des ondulations. Ajoutez de la pluie et un tourbillon déplaçable dont le courant agit sur les poissons. Incluez Calm, Clear pond ainsi qu’une commande permettant de masquer l’interface pour les captures vidéo d’écran.
-
-Utilisez Web Audio pour créer le son des éclaboussures à l’arrivée, de douces gouttelettes musicales, de légers bruits d’eau pendant la nage, de la pluie et du tourbillon. Activez l’audio avec un bouton Sound, atténuez-le progressivement lorsqu’il est désactivé et mettez-le en pause lorsque l’onglet du navigateur est masqué.
-
-Conservez tous les libellés et boutons en anglais. Adaptez la mise en page aux appareils mobiles. Optimisez le rendu et les animations pour garantir des performances fluides avec plusieurs dizaines de poissons.
-
-Livrez un site web complet et fonctionnel, avec des visuels soignés et des interactions opérationnelles.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098492771170722032) · [Publication originale](https://x.com/vib3coded/status/2098492771170722032) · [Retour aux exemples](#all-prompts)
 
 ---
 
@@ -3848,6 +3814,26 @@ Avec three.js, créez une scène 3D où un bateau navigue sur une rivière des m
 
 ---
 
+<a id="2106737391948235164"></a>
+
+### Espace 3D d’une maison à explorer à pied dans le navigateur
+
+[けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-04
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2106737391948235164"><img src="../assets/previews/7832ff805e07d9d042bfa48b9d6befded51c8aa09f65c3685af345c95f2a378b.jpg" width="840" loading="lazy" alt="Espace 3D d’une maison à explorer à pied dans le navigateur"></a>
+
+Instruction pour créer, dans une page web ouverte dans le navigateur, un espace 3D permettant de se déplacer dans une maison et de l’explorer.
+
+**Prompt**
+
+```text
+Créez, dans une page web ouverte dans le navigateur, un espace 3D permettant de se déplacer dans une maison et de l’explorer.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2106737391948235164) · [Publication originale](https://x.com/kensumi_ai/status/2106737391948235164) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D : Défense de chars sans fin
@@ -4236,7 +4222,7 @@ Livrez le code source, le lockfile, les commandes npm de développement/build et
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 311 exemples sur le site officiel →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 312 exemples sur le site officiel →</a></strong></p>
 <p><sub>Pour préserver la fluidité du rendu du README sur GitHub, seuls les 100 exemples les plus récents sont affichés ici.</sub></p>
 <br>
 </td></tr>
