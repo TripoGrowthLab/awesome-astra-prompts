@@ -28,7 +28,7 @@
 **Un punto di partenza per il tuo prossimo gioco, scena o mondo interattivo.**
 
 
-**312 · Prompt Astra più recenti**
+**315 · Prompt Astra più recenti**
 
 ## Progetti in evidenza
 
@@ -53,9 +53,6 @@
 - [Atlante di Chernobyl](#2098841316591346006) · GitHub
 - [Esploratore interattivo dell’anatomia in 3D](#2099206962344800541) · GitHub
 - [Demo di grafica fantasy isometrica](#2100271998618177864) · GitHub
-- [Modellare il ponte di Brooklyn e testare il passaggio di carri armati da entrambe le direzioni](#2098650336521064759)
-- [Video dimostrativo della costruzione 3D di un antico tempio zen](#2098697876155076820)
-- [DEVICE: un gioco di puzzle 3D fotorealistico che utilizza lo smartphone stesso](#2098715488369152087)
 - [Gioco di volo per browser Skybound](#2098739181510164652)
 - [Cornice stampata in 3D, divisa in sezioni e con giunti](#2098774359926297011)
 - [Ricostruzione 3D dell’Esposizione Colombiana Mondiale di Chicago del 1893](#2098795017955418202)
@@ -144,6 +141,9 @@
 - [Gioco 3D per schivare gli asteroidi](#2105644436659290409)
 - [Scena 3D interattiva: naviga in barca su un fiume di montagna](#2106385060106777043)
 - [Casa 3D esplorabile a piedi nel browser](#2106737391948235164)
+- [Crea un trailer cinematografico per un gioco immaginario](#2106824464092770455)
+- [Gioco 3D: raccogli 10 frammenti di stella su un’isoletta notturna](#2106944804756275690)
+- [Ragno di peluche — Studi sui materiali n. 015](#2107127712871505976)
 - [Battle City 3D: Difesa infinita con i carri armati](#battle-city-3d)
 - [Crazy Tanks — Artiglieria 3D sulle isole](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Gioco survival con armi stravaganti](#odd-arms)
@@ -227,876 +227,6 @@ Realizza una demo grafica: telecamera isometrica, stile artistico simile ai voxe
 ```
 
 [Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100271998618177864) · [Post originale](https://github.com/achimala/dream-loop) · [Codice sorgente](https://github.com/achimala/dream-loop) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="2098650336521064759"></a>
-
-### Modellare il ponte di Brooklyn e testare il passaggio di carri armati da entrambe le direzioni
-
-[Higgsfield](https://x.com/higgsfield_ai) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098650336521064759"><img src="../assets/previews/93cbaf0c49da1dba0e914e583c1232163708ba8def2558de4037076085fb9995.jpg" width="840" loading="lazy" alt="Modellare il ponte di Brooklyn e testare il passaggio di carri armati da entrambe le direzioni"></a>
-
-Una richiesta CAD e di analisi dei carichi strutturali, riportata testualmente nel post collegato di higgsfield\_ai. Chiede a GPT-6 Astra di ricreare il ponte di Brooklyn in AutoCAD e di valutare uno scenario con carri armati in attraversamento da entrambe le direzioni.
-
-**Prompt**
-
-```text
-Modella il ponte di Brooklyn e testa il passaggio di carri armati da entrambe le direzioni.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098650336521064759) · [Post originale](https://x.com/higgsfield_ai/status/2098244976027312474) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="2098697876155076820"></a>
-
-### Video dimostrativo della costruzione 3D di un antico tempio zen
-
-[火山哥🕊️](https://x.com/huoshan007) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098697876155076820"><img src="../assets/previews/6800bfab42550a339838b03a419c1ce1ce728d074046f73022acbc754d4e37f4.jpg" width="840" loading="lazy" alt="Video dimostrativo della costruzione 3D di un antico tempio zen"></a>
-
-Il post condivide un prompt per creare un video del processo di costruzione di una scena 3D raffigurante un antico tempio zen; l’autore del post afferma che il prompt proviene da un sito web.
-
-**Prompt**
-
-```text
-Crea direttamente un video dimostrativo 3D completo, dall’ideazione al risultato finale, della costruzione di un «antico tempio zen» e consegna un file MP4 completo.
-
-Requisiti visivi:
-formato quadrato 1080×1080, vista ortografica dall’alto a 45°, modello 3D cartoon in miniatura con stile 2.5D, perfettamente centrato. Usa una base rialzata in pietra chiara, uno sfondo completamente verde acqua, texture morbide e raffinate, materiali PBR e un’illuminazione realistica e delicata.
-
-La scena deve includere:
-un tempio cinese con tetto a doppia falda sovrapposta, tegole smaltate dagli angoli ricurvi verso l’alto, tetto verde acqua, colmo dorato, colonne rosso vermiglio, porte e finestre a griglia, portale d’ingresso, padiglione della campana, bruciatore d’incenso, lanterne in pietra, cortile lastricato, pini, alberi fioriti rosa e un laghetto con fiori di loto.
-
-In cima, inserisci il titolo «Antico tempio zen» con caratteri cinesi in grassetto, luminosi e di colore bianco caldo.
-
-Struttura del video, durata complessiva 64 secondi:
-0–8 secondi: disegna progressivamente, tratto dopo tratto, la planimetria.
-8–15 secondi: fai emergere la base e i volumi principali degli edifici.
-15–24 secondi: genera colonne, pareti, porte, finestre e altri dettagli.
-24–32 secondi: costruisci i tetti a doppia falda, le tegole e gli angoli ricurvi.
-32–41 secondi: aggiungi il portale d’ingresso, il cortile, gli alberi e gli elementi decorativi.
-41–49 secondi: assegna gradualmente colori e materiali PBR al modello in grigio.
-49–54 secondi: regola illuminazione, riflessi e ombre morbide.
-54–64 secondi: mostra lentamente il risultato finale con una panoramica orbitale, accompagnata da una lieve caduta di petali, fumo d’incenso e increspature sull’acqua.
-
-Usa geometria 3D reale e mostra in modo continuo il processo di costruzione nella stessa inquadratura. Visualizza solo brevi nomi delle fasi; non inserire schermate esplicative in stile presentazione e non aggiungere una voce narrante.
-
-Genera scena e animazione con Three.js, esegui il rendering fotogramma per fotogramma ed esporta con FFmpeg un MP4 H.264 a 30 fps. Verifica la riproduzione completa, l’ordine delle fasi, l’integrità del modello e l’assenza di fotogrammi neri.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098697876155076820) · [Post originale](https://x.com/huoshan007/status/2098697876155076820) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="2098715488369152087"></a>
-
-### DEVICE: un gioco di puzzle 3D fotorealistico che utilizza lo smartphone stesso
-
-[ひまねこ](https://x.com/00Nekonet) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098715488369152087"><img src="../assets/previews/2300a6320af3fc2a12e4d96b98007446f779ddb64f891a54e2118c9b86ab9f81.jpg" width="840" loading="lazy" alt="DEVICE: un gioco di puzzle 3D fotorealistico che utilizza lo smartphone stesso"></a>
-
-Istruzioni complete per creare con Unity un’avventura puzzle 3D fotorealistica per Android in modalità verticale, in cui si esplora il dispositivo cubico nero «DEVICE». Oltre ai comandi touch, integrare inclinazione e rotazione del dispositivo, capovolgimento, accelerometro, fotocamera, microfono, vibrazione, altoparlanti, luminosità, bussola e stato di ricarica come input per i puzzle all’interno dello stesso mondo di gioco. L’articolo collegato pubblica il testo completo di queste istruzioni, inserito in ChatGPT Work, e presenta anche la versione di prova di «DEVICE» con 25 livelli e l’APK Android.
-
-**Prompt**
-
-```text
-Assumi contemporaneamente i ruoli di game director, game designer, ingegnere Unity, artista 3D, UI/UX designer, technical artist, sound designer e responsabile QA del progetto.
-
-Sulla base delle specifiche seguenti, crea non solo il concept, ma un gioco di puzzle 3D per smartphone completo, di alta qualità e realmente giocabile.
-
-Non fermarti dopo aver presentato soltanto alcune idee.
-Non limitarti a creare un documento di specifiche.
-Per quanto possibile, realizza il progetto effettivo, il codice, le scene, la UI, i materiali, la logica di gioco, il controllo dell’audio, la gestione dei sensori, il sistema di salvataggio e i test.
-
-In caso di dubbi, salvo contraddizioni gravi, non fare domande: prendi autonomamente le decisioni che rendano il gioco più interessante e di maggiore qualità, quindi procedi direttamente con la produzione.
-
-Panoramica del progetto
-
-Titolo provvisorio:
-
-DEVICE
-
-Genere:
-
-Avventura puzzle 3D fotorealistica e immersiva per smartphone
-
-Piattaforma:
-
-Dare priorità ad Android.
-Strutturare il progetto in modo da consentire, per quanto possibile, anche il supporto a iOS.
-
-Schermo:
-
-Modalità verticale 9:16
-
-Controlli:
-
-Il gioco deve essere utilizzabile di norma anche con una sola mano.
-Tuttavia, alcuni puzzle devono richiedere azioni fisiche sullo smartphone stesso: sollevarlo, inclinarlo, ruotarlo, capovolgerlo, scuoterlo o tenerlo immobile.
-
-Caratteristica principale del gioco
-
-Non deve essere un «gioco da usare sullo smartphone».
-
-Deve usare lo smartphone stesso come dispositivo per i puzzle.
-
-Non deve essere possibile completarlo usando soltanto il touch screen.
-
-Utilizza sensori, fotocamera, microfono, vibrazione, altoparlanti, orientamento del dispositivo e stato di ricarica dello smartphone come leggi fisiche del mondo di gioco.
-
-Non trasformare però il gioco in una semplice raccolta di demo di sensori.
-
-Progetta ogni funzione in modo che si colleghi naturalmente alla stessa ambientazione e allo stesso sistema di gioco.
-
-Ambientazione
-
-In una struttura di ricerca sconosciuta, il giocatore scopre un misterioso dispositivo cubico nero chiamato «DEVICE».
-
-Il cubo si collega allo smartphone e percepisce lo stato del dispositivo nel mondo reale.
-
-Quando il giocatore inclina lo smartphone, la gravità all’interno di DEVICE cambia.
-
-Quando ruota il dispositivo, ruota l’intero spazio.
-
-Luce, colori, suoni, direzione e movimento del mondo reale confluiscono all’interno di DEVICE.
-
-All’inizio sembra un semplice apparato sperimentale, ma man mano che il gioco procede anche DEVICE inizia a riconoscere la presenza del giocatore.
-
-Nella parte finale,
-
-inserisci metapuzzle che sfruttino proprio il rapporto
-
-«il giocatore sta usando lo smartphone».
-
-Non trasformarlo in un’opera horror.
-Sono ammesse inquietudine, tecnologia sconosciuta e mistero, ma il fulcro deve essere la curiosità intellettuale e il piacere della scoperta.
-
-Qualità visiva
-
-È l’aspetto più importante.
-
-Realizza una grafica 3D quanto più fotorealistica possibile su smartphone.
-
-Sono vietate le CG dall’aspetto economico tipico dei giochi mobile.
-
-Niente stile cartoon.
-
-Niente look low-poly.
-
-Riduci al minimo i placeholder piatti, fatta eccezione per la UI.
-
-Se usi Unity, adotta di base URP tenendo conto delle prestazioni mobile,
-
-• materiali PBR
-• resa Metallic / Roughness
-• Normal Map
-• Ambient Occlusion
-• Reflection Probe
-• Light Probe
-• ombre di alta qualità
-• ombre morbide
-• Bloom
-• Color Grading
-• effetti Screen Space
-• illuminazione dall’aspetto volumetrico
-• Depth of Field solo dove necessario
-• vetro fisicamente corretto
-• metallo
-• pavimenti bagnati
-• graffi
-• impronte digitali
-• polvere
-• micro-irregolarità della superficie
-• materiali emissivi
-• riflessi
-• suoni ambientali
-
-e combina questi elementi in modo coerente.
-
-L’ambientazione è una struttura di ricerca futuristica, buia e raffinata.
-
-Punta soprattutto su metallo nero, vetro, cemento, linee luminose bianche, macchinari di precisione e componenti idraulici.
-
-Non usare il buio totale: gli oggetti importanti devono essere riconoscibili grazie a un’illuminazione naturale.
-
-Poiché DEVICE è il simbolo del gioco, realizzalo con una qualità estremamente elevata.
-
-Corpo di DEVICE:
-
-Un cubo di circa 20–30 cm, composto da metallo nero e vetro.
-
-Ogni faccia presenta una struttura meccanica diversa.
-
-Le giunzioni devono essere estremamente precise.
-
-Dall’interno deve filtrare una debole luce bianca o bianco-azzurra.
-
-In risposta alle azioni del giocatore, la struttura interna deve deformarsi, ruotare e aprirsi fisicamente.
-
-Aggiungi animazioni meccaniche con un feedback di scatto ben percepibile.
-
-Schermata di gioco principale
-
-DEVICE si trova al centro dello schermo verticale.
-
-Il giocatore lo trascina per ruotarlo ed esamina ogni faccia.
-
-L’ambiente circostante è la struttura di ricerca.
-
-La telecamera deve essere cinematografica senza compromettere la giocabilità.
-
-Mantieni la UI di base al minimo.
-
-Non mostrare continuamente una grande quantità di pulsanti.
-
-Dai priorità alla sensazione di toccare e azionare direttamente DEVICE.
-
-Sistemi fondamentali
-
-Integra quanto segue come sistemi di input dello stesso mondo di gioco, non come minigiochi indipendenti.
-
-1. Touch
-
-Tocco
-Doppio tocco
-Pressione prolungata
-Trascinamento
-Swipe
-Pinch
-Due dita
-Tre dita
-Pressione simultanea in più punti
-
-Devono essere tutti disponibili.
-
-Il giocatore aziona direttamente pulsanti, leve, anelli rotanti e manopole di DEVICE.
-
-2. Giroscopio
-
-Collega l’inclinazione dello smartphone alla gravità interna di DEVICE.
-
-Esempi:
-
-Portare una sfera metallica interna al traguardo usando soltanto l’inclinazione.
-
-Inclinare un liquido fino a farlo entrare in contatto con gli elettrodi.
-
-Regolare l’angolo dei raggi luminosi.
-
-3. Accelerometro
-
-Scuotere il dispositivo.
-
-Arrestarlo bruscamente.
-
-Rilevare movimenti simili a colpetti leggeri.
-
-Non richiedere però di scuotere il dispositivo con troppa forza.
-
-Considera la sicurezza dell’utente.
-
-4. Orientamento del dispositivo
-
-Portrait
-Landscape
-Face Up
-Face Down
-
-e altri stati devono influenzare il gioco.
-
-Prevedi eventi che si attivano solo appoggiando lo smartphone a faccia in giù sul tavolo.
-
-5. Fotocamera
-
-Importa nel gioco i colori del mondo reale.
-
-Quando il giocatore inquadra con la fotocamera un oggetto rosso, blu, verde o di altro colore, analizza il colore dominante nell’area centrale dell’immagine e invialo a DEVICE sotto forma di energia.
-
-Non inviare l’immagine vera e propria a un server.
-
-Elabora tutto, per quanto possibile, direttamente sul dispositivo.
-
-Prevedi anche un controllo alternativo per i dispositivi privi di fotocamera utilizzabile.
-
-6. Microfono
-
-Utilizza
-il volume,
-la durata
-e semplici caratteristiche di frequenza
-
-come input.
-Esempi:
-
-soffiare,
-parlare,
-battere le mani
-o restare in silenzio per un certo periodo
-
-e così via.
-
-Il riconoscimento vocale non deve essere obbligatorio.
-
-Non salvare i dati audio registrati.
-
-7. Haptics / Vibrazione
-
-È un elemento essenziale.
-
-Crea livelli in cui informazioni non visibili sullo schermo vengano comunicate esclusivamente tramite vibrazioni.
-
-Esempi:
-
-Più ci si avvicina all’obiettivo, più l’intervallo tra le vibrazioni si accorcia.
-
-Pattern diversi a sinistra e a destra.
-
-Codici basati su vibrazioni brevi e lunghe.
-
-Prevedi anche un feedback alternativo per i dispositivi con vibrazione disattivata o non disponibile.
-
-8. Altoparlanti
-
-Utilizza la direzionalità del suono spaziale.
-
-Non rendere obbligatorio l’uso degli auricolari.
-
-Usa altezza del suono, periodicità e posizionamento stereo come informazioni per i puzzle.
-
-9. Luminosità
-
-Se possibile, utilizza il sensore di luce ambientale.
-
-Sui dispositivi che ne sono privi, valuta alternative basate sulla luminosità rilevata dalla fotocamera o su valori simili.
-
-Inserisci meccanismi che compaiono in un ambiente buio.
-
-Inserisci meccanismi che si caricano in un ambiente luminoso.
-
-10. Bussola
-
-Sui dispositivi compatibili, acquisisci la direzione.
-
-Crea puzzle in cui lo smartphone deve essere rivolto verso nord, sud o una direzione specifica.
-
-Se il sensore non è disponibile, passa a un puzzle alternativo.
-
-11. Stato di ricarica
-
-Se è possibile rilevare l’inizio della ricarica del dispositivo,
-
-mostra l’energia che fluisce verso DEVICE quando l’utente collega realmente il cavo di ricarica.
-
-Deve però esistere sempre un metodo alternativo per completare il puzzle per gli utenti che non possono eseguire questa azione.
-
-12. Batteria
-
-Se disponibile, utilizza il livello della batteria per eventi speciali.
-
-È vietato progettare il gioco in modo che un livello di carica impedisca il completamento.
-
-13. Ora
-
-L’ora attuale può essere usata per puzzle speciali o per la regia.
-
-È vietato creare puzzle completabili soltanto a un’ora specifica.
-
-Non imporre tempi di attesa.
-
-Progettazione dei puzzle
-
-Invece di produrre fin dall’inizio 100 puzzle superficiali,
-
-realizza prima circa 20–30 livelli estremamente curati.
-
-Ogni livello deve offrire una scoperta diversa.
-
-Sono vietati i livelli che ripetono la stessa azione cambiando soltanto i numeri.
-
-Capitolo 1: TOUCH
-
-Insegna le regole del gioco concentrandoti sui controlli touch.
-
-Toccare DEVICE.
-Ruotarlo.
-Premere.
-Tirare.
-Aprire.
-
-Capitolo 2: GRAVITY
-
-Introduci giroscopio e accelerometro.
-
-Il mondo fisico all’interno di DEVICE si sincronizza con l’orientamento reale dello smartphone.
-
-Capitolo 3: SENSE
-
-Introduci fotocamera,
-microfono,
-luce,
-suono
-e vibrazione
-
-come nuovi input.
-
-Capitolo 4: OUTSIDE
-
-Puzzle che spingono il giocatore a prestare attenzione al di fuori dello schermo.
-
-Capovolgere lo smartphone.
-Tenerlo immobile.
-Allinearlo in una direzione.
-Acquisire i colori dell’ambiente circostante.
-
-Capitolo 5: DEVICE
-
-Combina le regole apprese fino a quel momento.
-
-Le istruzioni visualizzate sullo schermo non sono più necessariamente corrette.
-
-Esempio:
-
-Sullo schermo compare
-
-SHAKE
-
-.
-
-Tuttavia, scuotendo il dispositivo si fallisce il puzzle.
-
-La soluzione corretta è tenerlo perfettamente immobile.
-
-In un altro puzzle compare
-
-MORE LIGHT
-
-.
-
-Aumentare la luminosità dello schermo non produce alcuna reazione.
-
-Il puzzle si completa facendo arrivare la luce del mondo reale nella fotocamera.
-
-Nel livello finale,
-
-combina touch,
-orientamento del dispositivo,
-giroscopio,
-vibrazione,
-suono
-e input dal mondo reale,
-
-creando un grande puzzle composto da più elementi.
-
-Livelli rappresentativi da implementare obbligatoriamente
-
-«Labirinto nel buio»
-
-Lo schermo diventa quasi completamente nero.
-
-Il giocatore non può vedere la propria posizione.
-
-Inclinando lo smartphone, muove una sfera invisibile.
-
-Più la sfera si avvicina all’uscita, più le vibrazioni diventano intense e frequenti.
-
-Alla fine il giocatore raggiunge il traguardo affidandosi soltanto alle sensazioni della vibrazione.
-
-Nelle impostazioni di accessibilità deve essere possibile attivare anche un supporto audio.
-
-«DON'T LOOK»
-
-Sul display di DEVICE compare
-
-DON'T LOOK
-
-.
-
-Il giocatore capovolge lo smartphone.
-
-Quando viene rilevato Face Down, mentre lo schermo non è visibile dall’interno di DEVICE provengono suoni meccanici.
-
-Quando il giocatore lo gira di nuovo dopo alcuni secondi, DEVICE si è trasformato.
-
-«STEAL COLOR»
-
-All’interno di DEVICE si trova un nucleo energetico privo di colore.
-
-La fotocamera legge colori reali come rosso, blu e verde.
-
-Il colore acquisito confluisce in tempo reale all’interno di DEVICE sotto forma di energia liquida.
-
-«STAY STILL»
-
-DEVICE vibra violentemente.
-
-All’inizio il giocatore è portato a scuotere lo smartphone.
-
-La soluzione corretta, invece, è tenere il dispositivo completamente immobile.
-
-Quando l’accelerazione resta sotto una determinata soglia per un certo periodo, il dispositivo si stabilizza e si apre.
-
-«POWER»
-
-DEVICE si arresta completamente.
-
-Sui dispositivi compatibili, iniziando la ricarica dello smartphone si trasferisce elettricità a DEVICE.
-
-I cavi metallici si illuminano in sequenza e il meccanismo interno si riavvia.
-
-Prevedi anche un controllo alternativo.
-
-Fisica all’interno di DEVICE
-
-Usa ampiamente la simulazione fisica.
-
-Prevedi sfere metalliche,
-liquidi,
-gravità,
-magneti,
-ingranaggi,
-binari,
-riflettori,
-laser,
-anelli rotanti,
-cilindri,
-pistoni,
-meccanismi di blocco,
-vetro,
-elettrodi,
-cavi
-
-e altri elementi.
-
-Non affidarti però a una «fisica instabile lasciata fare al motore».
-
-Nei puzzle importanti usa una simulazione fisica controllata, così da garantire risultati riproducibili.
-
-Regia
-
-Quando il giocatore risolve un puzzle, non limitarti a mostrare la semplice scritta «CLEAR».
-
-Deve essere DEVICE stesso a trasformarsi per comunicare la soluzione.
-
-Combina sblocco delle serrature,
-rotazione degli ingranaggi,
-illuminazione interna,
-separazione dei pannelli metallici,
-movimento del liquido all’interno del vetro
-e apertura dei bracci meccanici,
-
-oltre ad altri effetti.
-
-Nel momento esatto della soluzione,
-
-la regia deve trasmettere la soddisfazione
-
-«di aver attivato un enorme dispositivo di precisione».
-
-Audio
-
-È estremamente importante.
-
-Non limitarti a riprodurre continuamente una BGM.
-
-Stratifica il suono dell’impianto di climatizzazione della struttura,
-i rumori meccanici lontani,
-i servi all’interno di DEVICE,
-i clic metallici,
-il vetro,
-l’elettricità,
-il magnetismo,
-le basse frequenze
-e le vibrazioni,
-
-creando un paesaggio sonoro stratificato.
-
-Il suono deve cambiare a seconda del punto di DEVICE che viene toccato.
-
-Quando si usano gli auricolari, rafforza la percezione della posizione dei suoni.
-
-UI
-
-Integrala il più possibile nel mondo di gioco.
-
-Non disporre una fila di pulsanti dall’aspetto economico tipico dei giochi mobile.
-
-Menu:
-
-CONTINUE
-CHAPTERS
-SETTINGS
-ACCESSIBILITY
-CREDITS
-
-circa.
-
-Durante i puzzle, rappresenta gli indizi tramite i dispositivi di visualizzazione all’interno di DEVICE o tramite testo proiettato.
-
-Sistema di suggerimenti
-
-Anche se il giocatore rimane bloccato, non mostrare subito la risposta.
-
-Suggerimento 1:
-il punto da osservare.
-
-Suggerimento 2:
-la funzione dello smartphone da usare.
-
-Suggerimento 3:
-quasi l’intera soluzione.
-
-Organizza il sistema in questi tre livelli.
-
-Accessibilità
-
-È particolarmente importante in un gioco che utilizza così tanti sensori.
-
-Implementa quanto segue.
-
-Possibilità di convertire le vibrazioni in audio o in indicatori visivi.
-
-Supporto visivo per i puzzle basati sul suono.
-
-Supporto per la percezione dei colori nei puzzle cromatici.
-
-Non richiedere azioni fisiche intense sul dispositivo.
-
-Elimina la necessità di scuotere violentemente lo smartphone.
-
-Puzzle alternativi quando fotocamera, microfono o bussola non sono disponibili.
-
-Anche se l’accesso a determinati sensori viene negato, il gioco non deve diventare impossibile da completare.
-
-Privacy
-
-Non inviare a server esterni immagini della fotocamera, audio del microfono, dati sulla posizione o altri dati simili.
-
-Il GPS non deve essere obbligatorio per progredire nel gioco.
-
-Richiedi i permessi necessari immediatamente prima dell’uso, spiegandone il motivo.
-
-Non richiedere permessi non necessari.
-
-Struttura tecnica
-
-Se possibile, usa Unity 6 e C#.
-
-URP per dispositivi mobile.
-
-Organizza il progetto in moduli.
-
-Deve includere almeno la struttura seguente.
-
-SensorManager
-PuzzleManager
-GameStateManager
-AudioManager
-HapticsManager
-PermissionManager
-SaveManager
-AccessibilityManager
-DeviceCapabilityManager
-
-Non chiamare direttamente e ripetutamente ogni funzione dello smartphone dal codice dei puzzle.
-
-Astrai l’accesso tramite SensorManager e sistemi simili,
-
-consentendo di alternare tra sensori reali,
-input simulati per l’editor
-e fallback per dispositivi non compatibili.
-
-Debug dei sensori
-
-Per consentire lo sviluppo anche in Unity Editor,
-
-implementa un
-
-Developer Sensor Panel
-
-.
-
-Tramite slider e pulsanti,
-
-permetti di simulare inclinazione del dispositivo,
-accelerazione,
-Face Up / Face Down,
-volume del microfono,
-luce ambientale,
-bussola,
-ricarica ON/OFF,
-batteria,
-eventi di vibrazione
-e colore dominante della fotocamera,
-
-oltre ad altri input.
-
-I puzzle principali devono poter essere testati senza collegare un dispositivo reale.
-
-Salvataggi
-
-Salva avanzamento dei capitoli,
-livelli completati,
-utilizzo dei suggerimenti,
-impostazioni,
-accessibilità
-ed elementi collezionabili
-
-.
-
-Permetti di interrompere in sicurezza il gioco anche a metà livello.
-
-Prestazioni
-
-Non sacrificare la giocabilità in nome del fotorealismo.
-
-Punta a una configurazione utilizzabile anche su comuni dispositivi Android di fascia media.
-
-LOD
-Occlusion Culling
-GPU Instancing
-compressione delle texture
-baking delle luci
-Reflection Probe
-illuminazione realtime solo dove necessario
-object pooling
-riduzione dei Draw Call
-
-e altre tecniche simili.
-
-Suddividi le impostazioni Quality in
-
-LOW
-MEDIUM
-HIGH
-ULTRA
-
-.
-
-Sui dispositivi più potenti, la resa deve poter raggiungere un livello di qualità molto elevato.
-
-Criteri di completamento
-
-Non creare un semplice prototipo:
-
-il gioco deve essere interamente fruibile, con schermata del titolo,
-introduzione,
-tutorial,
-più capitoli,
-più livelli,
-input dei sensori,
-regia 3D,
-audio,
-impostazioni,
-accessibilità,
-salvataggi,
-selezione dei livelli
-e finale.
-
-Punta a uno stato in cui il gioco possa essere provato dall’inizio alla fine.
-
-Se possibile, genera una build Android reale.
-
-Se i vincoli dell’ambiente di build impediscono di generare APK/AAB,
-
-porta comunque il progetto a uno stato completo, pronto per essere aperto in Unity e compilato senza altri interventi.
-
-Criteri decisionali durante la produzione
-
-Non passare al 2D o a una UI semplificata solo perché è più facile.
-
-Non eliminare i meccanismi centrali del gioco per «risparmiare tempo».
-
-Quando non è possibile procurarsi asset esterni, creali autonomamente o generali proceduralmente per quanto possibile.
-
-Anche quando servono placeholder, non riempire l’intero gioco di elementi provvisori.
-
-In particolare,
-
-DEVICE
-la struttura di ricerca,
-i dispositivi dei puzzle principali,
-l’illuminazione,
-i materiali
-e la regia delle soluzioni
-
-devono essere realizzati con alta qualità.
-
-Procedura di lavoro
-
-Definisci innanzitutto l’intera struttura in breve tempo.
-
-Dopodiché passa alla produzione invece di continuare con le spiegazioni.
-
-1. Creazione del progetto
-2. Scena 3D di base
-3. Creazione di DEVICE
-4. Controlli di base
-5. Astrazione dei sensori
-6. Framework dei puzzle
-7. Implementazione dei puzzle rappresentativi
-8. Costruzione dei capitoli
-9. UI
-10. Audio
-11. Regia
-12. Salvataggi
-13. Accessibilità
-14. Ottimizzazione
-15. Test
-16. Correzioni
-17. Build
-
-in questo ordine.
-
-Anche se una parte non riesce, non interrompere l’intero lavoro: usa soluzioni alternative per massimizzare la qualità finale.
-
-Deliverable finali
-
-Al termine devono restare i seguenti elementi.
-
-• progetto di gioco completo
-• codice sorgente principale
-• scene di gioco
-• modelli 3D e materiali
-• UI
-• configurazione audio
-• sistema dei sensori
-• sistema dei puzzle
-• sistema di salvataggio
-• impostazioni di build
-• README
-• procedura per i test su dispositivi Android reali
-• elenco delle funzioni dello smartphone utilizzate
-• specifiche dei fallback per i dispositivi non compatibili
-• elenco dei problemi noti
-
-È vietato terminare il lavoro limitandosi a spiegare senza creare i deliverable.
-
-Le priorità assolute sono:
-
-1. Divertimento
-2. Un’esperienza propria dello smartphone
-3. Realismo del mondo 3D
-4. Sensazione di interagire con DEVICE
-5. Coerenza e soddisfazione dei puzzle
-6. Funzionamento effettivo
-
-in quest’ordine.
-
-Non creare «un gioco mobile esistente a cui sono state aggiunte funzioni dei sensori»,
-
-ma un’opera che faccia sembrare che l’hardware chiamato smartphone esista proprio per questo gioco.
-
-Da questo punto, non fermarti alla spiegazione del concept: inizia la produzione vera e propria.
-
-Inoltre, integra con cura ogni possibile miglioramento e ogni elemento capace di rendere l’esperienza più interessante, mantenendo una resa 3D realistica.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098715488369152087) · [Post originale](https://x.com/00Nekonet/status/2098715488369152087) · [Torna agli esempi](#all-prompts)
 
 ---
 
@@ -3934,6 +3064,193 @@ Crea, come singola pagina apribile nel browser, uno spazio 3D in cui sia possibi
 
 ---
 
+<a id="2106824464092770455"></a>
+
+### Crea un trailer cinematografico per un gioco immaginario
+
+[Paruchh](https://x.com/theparuchh) · 2026-10-04
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2106824464092770455"><img src="../assets/previews/9bf4e6da4a2aea738b61431a28bddccd01b9453d6ea43fdf077391d50aac5753.jpg" width="840" loading="lazy" alt="Crea un trailer cinematografico per un gioco immaginario"></a>
+
+Un prompt completo, con commenti dell’autore, per un trailer cinematografico di 35–40 secondi dedicato a un gioco immaginario. Richiede un mondo 3D generato proceduralmente, l’animazione di una creatura o di un personaggio, un’illuminazione atmosferica, audio sintetizzato, un ritmo organizzato in storyboard, una revisione della qualità e file sorgente Blender/Python riproducibili. Il post principale afferma che GPT-6 Astra ha creato il trailer mostrato a partire da questo prompt.
+
+**Prompt**
+
+```text
+Crea un trailer cinematografico per un gioco immaginario, della durata di 35–40 secondi, con la qualità produttiva di un reveal ai The Game Awards
+
+REGOLA PRINCIPALE
+Tutto ciò che lo spettatore vede e sente deve essere creato dal tuo codice: geometria, materiali, animazione, illuminazione, particelle, titoli, musica e suoni
+Non usare modelli, texture, HDRI, immagini, video, audio o font per loghi preconfezionati provenienti da Internet
+I font di sistema sono consentiti
+
+TOOLS
+
+- Blender (headless, Python/bpy): generazione procedurale con Geometry Nodes e nodi shader, animazione con keyframe e driver
+- Rendering: EEVEE Next (bloom, volumetrici, motion blur, profondità di campo); usa Cycles solo per 1–2 inquadrature principali, se il tempo lo consente
+- Audio: sintesi in Python (numpy/scipy) o SuperCollider per musica, atmosfera, impatti, whoosh, rombi e un BRAAAM profondo nel climax
+- Montaggio: ffmpeg per editing, color grading, grana, letterbox 2.39:1 e mixaggio audio
+
+FASE 1: CONCEPT
+Inventa un gioco: titolo, ambientazione, conflitto e un elemento visivo memorabile, come un mondo con montagne fluttuanti o una creatura gigantesca sotto le nuvole
+Scrivilo in CONCEPT.md
+
+FASE 2: STORYBOARD
+Pianifica 8–12 inquadrature con timecode in STORYBOARD.md
+Per ogni inquadratura, descrivi cosa appare nel fotogramma, il movimento di camera (carrello, gru, orbita, flythrough in FPV, lento avvicinamento), la lunghezza focale, l’illuminazione e il suono
+Struttura:
+
+- 0–8 s: quiete e atmosfera, alba, ampie inquadrature lente
+- 8–20 s: ritmo crescente, transizione tra giorno e notte (cielo e ombre in time-lapse), primi segnali di una minaccia
+- 20–32 s: climax, tagli rapidi a tempo di musica, scala epica, particelle, esplosioni di luce, una creatura o un evento
+- 32–35 s: impatto, schermo nero, logo del gioco animato
+- 35–40 s: “Coming 2027” e un suono finale discreto
+
+FASE 3: MONDO E ANIMAZIONE IN BLENDER
+
+- Terreno procedurale (noise + erosione), vegetazione o rovine procedurali tramite istanze, acqua o nuvole volumetriche
+- Almeno un’animazione complessa di un personaggio o di una creatura: un rig osseo creato via codice, camminata procedurale o battito d’ali, animazione secondaria (coda, tessuto, particelle di polvere)
+- Cielo dinamico: cielo Nishita o shader personalizzato, sole che si sposta lungo un arco, stelle durante la notte
+- Atmosfera: nebbia, raggi divini, polvere nei fasci di luce, particelle (scintille, cenere, foglie)
+- Camera: curve di Bézier fluide, easing, leggero movimento handheld guidato dal noise nelle inquadrature dinamiche, nessun movimento lineare
+- Logo: testo 3D o emblema procedurale con animazione di assemblaggio e shader emissivo
+
+FASE 4: AUDIO
+Sincronizza la musica con il montaggio: il tempo e gli impatti devono allinearsi ai timecode dei tagli
+Livelli: pad d’atmosfera, basso pulsante, percussioni durante il climax, sound design per eventi specifici visibili sullo schermo
+Mix finale: stereo, normalizzato a -14 LUFS
+
+FASE 5: CONTROLLO QUALITÀ
+
+- Esegui prima un’anteprima a bassa risoluzione di ogni inquadratura e 3 fotogrammi fissi per inquadratura; esaminali personalmente e valuta con onestà composizione, illuminazione, leggibilità e resa premium, quindi rielabora le inquadrature più deboli
+- Solo dopo esegui il rendering finale
+
+DELIVERABLES
+
+- trailer.mp4: 1920×1080, 24 fps, H.264, AAC
+- Cartella sorgente: file .blend, tutti gli script di generazione, script audio e script di assemblaggio
+- https://t.co/vviyxTr1Yi / build.ps1: un comando che ricostruisce tutto da zero
+- README.md: concept, storyboard, descrizione delle tecniche, tempo di rendering
+
+CRITERIO DI SUCCESSO
+Chi guarda il trailer senza alcun contesto deve credere che sia il trailer di un gioco reale, non una demo tecnica
+Priorità: atmosfera, illuminazione e ritmo contano più del numero di oggetti
+
+Scegli autonomamente le tecnologie, rispettando questi vincoli
+Lavora in autonomia finché il risultato finale non è pronto
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2106824464092770455) · [Post originale](https://x.com/theparuchh/status/2106825162209497583) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="2106944804756275690"></a>
+
+### Gioco 3D: raccogli 10 frammenti di stella su un’isoletta notturna
+
+[けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-05
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2106944804756275690"><img src="../assets/previews/e5832410399df5ceabb2b7feb01c0250a3c8b328ccb83df0a8b153b87dad0a63.jpg" width="840" loading="lazy" alt="Gioco 3D: raccogli 10 frammenti di stella su un’isoletta notturna"></a>
+
+Prompt per creare un gioco 3D per browser in cui si esplora una piccola isola di notte e si raccolgono 10 frammenti di stella; specifica che l’autore ha dato istruzioni a GPT-6 Astra.
+
+**Prompt**
+
+```text
+Crea una pagina singola, giocabile nel browser, per un gioco 3D in cui si esplora una piccola isola di notte e si raccolgono 10 frammenti di stella.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2106944804756275690) · [Post originale](https://x.com/kensumi_ai/status/2106944821818720302) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="2107127712871505976"></a>
+
+### Ragno di peluche — Studi sui materiali n. 015
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-05
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2107127712871505976"><img src="../assets/previews/8aea77310a81607281a11c92f850b52fa1ea1d0e6e349ba5fae31e0296ecb1c8.jpg" width="840" loading="lazy" alt="Ragno di peluche — Studi sui materiali n. 015"></a>
+
+Crea uno studio interattivo e autonomo su un ragno di peluche procedurale, basato su WebGPU nativo. Il ragno presenta fisica del corpo morbido e delle zampe con anima metallica, pelo del rivestimento pettinabile, comportamenti di camminata, raggomitolamento, sospensione alla seta e saluto, oltre a controlli diretti Mano, Dito e Pettine. Il post principale confronta una versione ChatGPT-6 Astra con una versione Opus; l'autore ha fornito questo prompt in un commento verificato.
+
+**Prompt**
+
+```text
+Crea «Plush Spider» — Studi sui materiali n. 015.
+
+Formato e stile:
+- Un singolo file HTML autonomo, basato su WebGPU nativo e interamente procedurale (senza asset né librerie).
+- Lo stesso stile editoriale della serie: testata serif, pannello laterale del campione, letture in tempo reale, note «Dentro l'esperimento».
+
+Il campione: un simpatico ragno di peluche seduto su un tavolo.
+- Il corpo è un unico campo di distanza con segno (SDF):
+  - un grande addome rotondo con strisce dall'aspetto lavorato a maglia;
+  - una testa e un torace più piccoli, incassati nell'addome, con due guance pelose;
+  - un ventre più chiaro.
+- Il volto:
+  - due grandi occhi lucidi a perlina su dischi di feltro bianco;
+  - una fila di quattro minuscoli occhi a perlina sopra di essi;
+  - guance arrossate, un sorriso ricamato e due piccole zanne di feltro.
+- Otto zampe di peluche posabili, quattro per lato, cucite lungo il torace. Sono a strisce come calzini, terminano con piccoli piedini chiari e contengono un'anima metallica.
+
+Fisica — corpo:
+- Corpo morbido XPBD su un reticolo a celle esagonali: shape matching corotazionale più volume tetraedrico, 60 Hz, 6 substep.
+- Gravità e attrito con il pavimento. Il pupazzo mantiene l'appoggio.
+- Il giocattolo si raddrizza lentamente verso la direzione in cui ha camminato l'ultima volta (postura con imbardata).
+- L'addome respira: le forme e i volumi a riposo delle celle si espandono.
+
+Fisica — zampe:
+- Ogni zampa è una catena di segmenti rigidi XPBD, dall'anca incorporata nel reticolo del corpo fino alla punta.
+- Una posa interpolata nel sistema di riferimento del corpo (seduto, in piedi, sospeso, raggomitolato, saluto) spinge ogni punto verso il proprio target: con forza all'anca, meno verso la punta. Le zampe mantengono la forma, ma cedono e oscillano.
+- L'anima è di plastica: quando la mano piega una zampa oltre il suo limite di flessione, la posa assume la nuova forma e la zampa resta piegata finché non si preme «Raddrizza zampe».
+- Sfere che scorrono sul corpo tengono le zampe distanti. Le punte fanno presa sul tavolo. Il dito spinge le zampe di lato.
+- Tirando una zampa oltre la sua estensione, si trascina il ragno prendendolo per quell'anca.
+
+Comportamento:
+- Camminata:
+  - il corpo si solleva sulle zampe tramite un controllo dell'altezza;
+  - viene guidato verso un obiettivo con una debole forza di attrazione e ruota per orientarsi verso di esso;
+  - le punte vengono attirate verso punti d'appoggio sul tavolo;
+  - un'andatura alternata quattro-e-quattro solleva il gruppo rimasto più indietro e lo appoggia più avanti, seguendo un piccolo arco;
+  - di tanto in tanto vaga autonomamente.
+- Raggomitolamento (pulsante o tocco del dito): le zampe si raccolgono sopra la schiena, il ragno rotola lontano dal punto di contatto come una palla (senza appoggio né resistenza al rotolamento), poi si srotola e si raddrizza.
+- Sospensione alla seta:
+  - un filo elastico che tira soltanto, da un punto d'ancoraggio in alto fino a una zona della schiena;
+  - viene riavvolto sollevando il ragno dal tavolo, oscilla quando viene spinto e muove le zampe nell'aria;
+  - premendo di nuovo, il ragno torna ad appoggiarsi sul tavolo.
+- Saluto: una zampa anteriore si solleva e si muove avanti e indietro.
+- Con lo strumento Dito, il ragno si avvicina correndo al dito.
+
+Rendering:
+- Pelo del rivestimento: base più N gusci istanziati, alpha-to-coverage con MSAA 4×.
+  - La direzione del pelo segue il gradiente di deformazione, con un ritardo della punta modellato come molla smorzata.
+  - Riflessi Kajiya–Kay, lucentezza vellutata, strumento Pettine.
+- Regioni dipinte nello spazio a riposo: strisce dell'addome, ventre chiaro, pelo corto attorno ai dischi di feltro degli occhi, guance, solco del sorriso, cuciture lungo le anche.
+- Le zampe vengono disegnate a ogni frame come tubi di peluche:
+  - seguono una curva Catmull–Rom che attraversa ogni segmento rigido, con un frame a trasporto parallelo;
+  - un leggero rigonfiamento al ginocchio e un piccolo piede arrotondato;
+  - colori a bande e pelo più corto.
+- Un sottile filo di seta scintillante.
+- Ombre morbide della luce principale con PCSS, occlusione di contatto sul pavimento dello studio, tone mapping Khronos PBR Neutral.
+- WGSL sicuro rispetto ai NaN: pow e smoothstep con valori limitati, post-processing con valori limitati.
+
+UI:
+- Strumenti:
+  - Mano: solleva e comprime il corpo, oppure afferra e piega una zampa;
+  - Dito: il ragno lo segue e un tocco lo fa raggomitolare;
+  - Pettine: spazzola il pelo.
+- Pulsanti: Cammina, Sospendi alla seta, Raggomitolati, Saluta, Raddrizza zampe, Liscia pelo, Reimposta.
+- Slider: Imbottitura, Pelo, Anima (da flessibile a rigida).
+- Tavolozze: Mezzanotte (prugna scuro con strisce lilla), Tangerino (arancione con strisce marroni), Muschio (verde con strisce gialle).
+- Letture: massa, volume in % del valore a riposo, passi effettuati, lunghezza della seta in cm.
+- Orbita e zoom; layout impilato e responsive sui telefoni; qualità adattiva; supporto per la riduzione del movimento.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2107127712871505976) · [Post originale](https://x.com/vib3coded/status/2107128017503830119) · [Torna agli esempi](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Difesa infinita con i carri armati
@@ -4322,7 +3639,7 @@ Consegna il codice sorgente, il lockfile, i comandi npm per sviluppo/build e l�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 312 esempi sul sito ufficiale →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 315 esempi sul sito ufficiale →</a></strong></p>
 <p><sub>Per mantenere fluido il rendering del README su GitHub, qui mostriamo solo i 100 esempi più recenti.</sub></p>
 <br>
 </td></tr>
