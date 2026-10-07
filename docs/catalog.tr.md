@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**315 · En yeni Astra istemleri**
+**317 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -53,8 +53,6 @@
 - [Çernobil Atlası](#2098841316591346006) · GitHub
 - [Etkileşimli 3B Anatomi Gezgini](#2099206962344800541) · GitHub
 - [İzometrik fantezi grafik demosu](#2100271998618177864) · GitHub
-- [Skybound tarayıcı uçuş oyunu](#2098739181510164652)
-- [Bağlantı parçalarıyla birleştirilen parçalı 3D baskı çerçeve](#2098774359926297011)
 - [1893 Chicago Dünya Fuarı'nın 3B rekonstrüksiyonu](#2098795017955418202)
 - [Kinetik Kum Masası Simülasyonu](#2098831830002851846)
 - [Kendi kendine katlanan 3B origami animasyonu](#2098909584996057283)
@@ -144,6 +142,8 @@
 - [Kurgusal bir oyun için sinematik fragman oluşturun](#2106824464092770455)
 - [Gece Adasında 10 Yıldız Parçası Toplama 3B Oyunu](#2106944804756275690)
 - [Plush Örümcek — Malzeme Çalışmaları No. 015](#2107127712871505976)
+- [Muz Jölesi](#2107186979502776590)
+- [Wild Atlas etkileşimli vahşi yaşam ansiklopedisi](#2107479802152472717)
 - [Battle City 3D: Sonsuz Tank Savunması](#battle-city-3d)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu](#odd-arms)
@@ -227,46 +227,6 @@ Bana bir grafik demosu oluştur: izometrik kamera, gerçekçi gölgelendirmeye v
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100271998618177864) · [Orijinal gönderi](https://github.com/achimala/dream-loop) · [Kaynak kodu](https://github.com/achimala/dream-loop) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2098739181510164652"></a>
-
-### Skybound tarayıcı uçuş oyunu
-
-[Aakash Kanojiya](https://x.com/Kanojiyaaakash1) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098739181510164652"><img src="../assets/previews/cc41c83e2ecb4d3e77d02476e259243389db470101509b700c06dd3af39dd4cb.jpg" width="840" loading="lazy" alt="Skybound tarayıcı uçuş oyunu"></a>
-
-Oyuncunun ejderhayı yüzen adaların arasından uçurduğu ve skor kazanmak için halkaları topladığı, tarayıcıda oynanabilen 3B uçuş oyunu. İstemde ejderha modelinin oluşturulması için Hyper3D Rodin MCP kullanılması isteniyor.
-
-**İstem**
-
-```text
-Three.js kullanarak Skybound adlı bir tarayıcı uçuş oyunu oluşturun. Oyuncu, ejderhayı yüzen adalardan oluşan bir alanın içinden uçururken skor kazanmak için halkaları toplar. Bir 3B ejderha modeline ihtiyacınız olacak; modeli oluşturmak için Hyper3D Rodin MCP'yi kullanın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098739181510164652) · [Orijinal gönderi](https://x.com/Kanojiyaaakash1/status/2098739181510164652) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2098774359926297011"></a>
-
-### Bağlantı parçalarıyla birleştirilen parçalı 3D baskı çerçeve
-
-[wada](https://x.com/wada) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098774359926297011"><img src="../assets/previews/92b9675f7ef605c4f91460c0788dd84f57cd23d0f75c4482937da6c2c76f34f9.png" width="840" loading="lazy" alt="Bağlantı parçalarıyla birleştirilen parçalı 3D baskı çerçeve"></a>
-
-Küçük bir 3D yazıcıda basılabilmesi için parçaları bağlantı parçalarıyla birleştirilerek tamamlanan bir çerçeve tasarlama talebi. Gönderide, yazıcı ve filament kaynaklı toleransları ayarlamak üzere ID etiketli bağlantı parçalarının STL dosyalarının oluşturulduğu belirtiliyor.
-
-**İstem**
-
-```text
-3D yazıcıyla bir çerçeve basmak istiyorum ama yazıcım küçük; parçaları birleştirerek tamamlayabileceğim bir model olsun. Biraz sıradan olmasın, bağlantı parçalarıyla birleştirilsin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098774359926297011) · [Orijinal gönderi](https://x.com/wada/status/2098774359926297011) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3216,6 +3176,121 @@ Arayüz:
 
 ---
 
+<a id="2107186979502776590"></a>
+
+### Muz Jölesi
+
+[NinjaCodex](https://x.com/N1njaCodex) · 2026-10-05
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2107186979502776590"><img src="../assets/previews/e5e4ba8cec9a2f18f6368adf534fa93b9e573285f94ace926035f367ddb44c80.jpg" width="840" loading="lazy" alt="Muz Jölesi"></a>
+
+Yemyeşil, yarı saydam jöle bir muz bitkisi üzerine etkileşimli bir WebGPU malzeme çalışması. Yazar bu istemi Claude Opus 5.5 ile ChatGPT-6 Astra karşılaştırmasına yapılan bir yorumda paylaştı; istemde prosedürel bitki geometrisi, fizik tabanlı hareket, kopabilen muzlar, darbeyle tetiklenen soyulma, palet kontrolleri ve dokunma/imleç etkileşimi tanımlanıyor.
+
+**İstem**
+
+```text
+"Muz Jölesi" oluşturun — native WebGPU + WGSL kullanarak tek başına çalışan bir HTML dosyası olsun (harici istek yok, kütüphane yok, çalışma zamanında derleme adımı yok). Bu çalışma, editoryal "MALZEME ÇALIŞMALARI" serisinin bir parçası: her bölümü yarı saydam, renkli jöle olarak oluşturulan, fiziksel simülasyonlu etkileşimli bir muz bitkisi. Simülasyon JS'te, oluşturma WebGPU'da yapılmalı; sayfa akıcı kalmalı (sim < 2 ms/kare).
+
+SAYFA / YERLEŞİM (editoryal, sıcak kâğıt)
+- Arka plan #ece9e3 kâğıt renginden biraz daha koyu bir zemine doğru solmalı; mürekkep #241f1d; vurgu #c99a06 (muz sarısı); ince çizgiler #d5d0c8.
+- Sol üstte: küçük büyük harflerle üst başlık "MALZEME ÇALIŞMALARI", dev italik serif H1 "Muz / Jöle." (Iowan Old Style / Palatino / Georgia yazı tipi yığını), kısa bir çizgi ve "Biraz sallanır. Biraz kayar. Kocaman bir salkım." başlığı.
+- Sağ üstte kapsül: yeşil nokta + "WEBGPU · CANLI" (veya "WebGPU · Kullanılamıyor").
+- Sağda yüzen cam panel (rgba kâğıt, 1 px kenarlık):
+  • "AĞAÇ": altında ince altın ilerleme çubuğu bulunan koyu renkli "Ağacı salla" düğmesi; sayaç satırı "Salkımda 31 · Düşen 0 · Soyulan 0" (tablo hizalı monospaced rakamlar).
+  • "PALET": her birinde parlak jöle topu bulunan üç renk örneği düğmesi — Cavendish (sarı), Red Dacca (kırmızı-mor), Blue Java (pudra mavisi).
+  • Kaydırıcılar: Sertlik 50, İç sönümleme 40, Esinti 30 (değer sağda küçük monospaced yazıyla gösterilir).
+  • Düğmeler: Sıfırla · Duraklat · Görünümü sıfırla.
+- Sol altta: "NASIL TUTULUR", italik satır "Salkımı salla. Kalbi savur. Bir tanesini sertçe fırlat." ve küçük gri satır: "Bükmek için bir yaprağı veya gövdeyi sürükleyin · bir muzu çekip koparın ve fırlatın — sert bir iniş kabuğu patlatır · sallamak için mor kalbi sürükleyin · yörüngede döndürmek için boş alanı sürükleyin veya sağ tuşla sürükleyin · yakınlaştırmak için kaydırın veya iki parmakla sıkıştırın".
+- Geniş ekranlarda bitkiyi, başlık ile panel arasındaki boş şeridin ortasına yerleştirin (projeksiyonu kaydırın, mesafeyi sığacak şekilde ayarlayın). Mobilde panel, varsayılan olarak kapalı bir alt sayfaya dönüşsün (açmak için dokunun; bitki görünür kalacak şekilde 3B görünüm yukarı kaysın), dokunarak sürükleme yörüngede döndürsün, iki parmakla sıkıştırma yakınlaştırsın. Hiçbir yerde sayfa kaydırma olmasın.
+- navigator.gpu veya adaptör yoksa yedek kart gösterin: "Muz Jölesi." + açıklama; kapsülde "WebGPU · Kullanılamıyor" yazsın. Konsolda sıfır hata/uyarı.
+
+BİTKİ (GÜR OLMALI — çok sayıda büyük yaprak; seyrek veya kel bir ağaç asla olmasın)
+- Alçak, yuvarlak, parlak krem renkli bir jöle kaide/tabak; bitki merkezine köklenmiş olsun.
+- Yalancı gövde: yaklaşık 1.42 yüksekliğinde, 9 segmentli, yarıçapı 0.158→0.106 arasında değişen ve salkımdan hafifçe uzağa eğilen bir yapı.
+- Tepe: altın açıyla (2.39996 rad) spiral dizilmiş 15 büyük kürek biçimli yaprak. Genç yapraklar neredeyse dik dursun, yaşlı yapraklar dışa doğru kavislenip sarksın (yaşa göre yükselti 1.22→0.02 rad). Uzunluk 1.15–1.7, genişlik ≈0.3·scale, sin^0.38 bıçak konturu, orta damarda hafif V katı/kupa biçimi, birkaç düzensiz rüzgâr yırtığı yarığı (çok sayıda değil, konik kamalar), hafif kenar dalgalanması ve uçları biraz sararan yaşlı yapraklar.
+- Dipte, her birinde 4 küçük yaprak bulunan iki yavru sürgün.
+- Salkım sapı: tepenin üstünden hafifçe yükselsin, üzerinden kavislenip dümdüz aşağı sarksın (10 segment, uzunluk 1.18); ardından ince bir boyun ve KALP — üst üste binen brahtlardan yapılmış, koyu mor-bordo damla biçimli bir tomurcuk (kalp çiçeği); brahtlardan biri veya ikisi kalkmış/içe kıvrılmış olsun.
+- Sarkık sap boyunca 5 sıra muz, farklı taraflara yelpaze gibi açılmış olsun (azimut adımı 2.2 rad); sayılar 7,7,6,6,5 = toplam 31 muz; üst kısma yakın olanlar biraz daha büyük. Her muz: analitik kavisli yay, çıkıntılı (beşgene yakın) kesit, sivriltilmiş koyu sap ucu ve koyu uç, ışığa doğru yukarı kıvrılsın; seyrek koyu benekler.
+
+SIMULATION
+- Tüm bitki, sabit 240 Hz'de (4 çözücü iterasyonu) konum tabanlı dinamiklere sahip bir düğüm ağacı olsun: uzunluk kısıtları + ana çerçeveye göre saklanan dinlenim yönelimine doğru bükülme kısıtları (paralel taşınan quaternion çerçeveleri). Sertlik sıraya göre değişsin (gövde sert, yaprak orta damarları yaylanabilir, salkım sapı esnek, boyun yumuşak).
+- Yerçekimi yükleri: her düğüm, yapraklarının/muzlarının ağırlığını taşısın. Dinlenim pozunu önceden telafi edin (3 kez yineleyin: dengele, sarkmayı ölç, dinlenim yönelimlerini önceden bük); böylece tamamen yüklüyken bitki tam olarak tasarlanan biçiminde dursun, muzlar düşünce hafifleyen salkım biraz yukarı kalksın. Yük değişimleri anlık değil, yumuşatılmış olsun.
+- Yükleme/sıfırlama sırasında 2,5 saniye sessizce dengeye gelsin (dengeye gelme sırasında yırtılma olmasın).
+- Esinti: yaprak düğümlerine uygulanan yumuşak gürültü kuvveti (tepe boyunca ilerleyen rüzgâr darbeleri), kaydırıcıya göre ölçeklensin; Esinti 0 = tamamen hareketsiz.
+- Bıçaklar ve tüm ağlar, düğüm konumları + çerçevelerinden oluşan bir storage buffer kullanılarak GPU'da skinlensin (her köşe: iki düğüm, bir oran ve çerçevede bir ofset).
+- Salkımdaki muzlar, kendi sıra düğümlerinden küçük, sönümlü bir yalpalama yayıyla asılsın (frekans 3.2+2.2·firm Hz, sönümleme kaydırıcıdan alınır).
+- Kopma: her sıranın yumuşatılmış ivmesini izleyin; ivme dayanımını aştığında bir muz kopmalı (≈ 11+5·firm, meyveye göre değişir); tekrarlanan sallamalarda yorulma birikmeli ve her sıra için kısa bir bekleme süresi olmalı — sallama, bir anda tüm salkımı değil, kademeli olarak birkaç muzu düşürmeli.
+- "Ağacı salla", gövdeye birkaç saniyelik bir sallama uygulasın ve ilerleme çubuğu göstersin.
+- Serbest muzlar rijit gövdeler olsun (yay boyunca 3 küre); kaide, zemin, gövde ve birbirleriyle itki temasları ve sürtünmeleri bulunsun; durduklarında uykuya geçsinler; hız sınırı uygulansın.
+- Soyulma YALNIZCA darbeyle gerçekleşsin: serbest bir muz, temas öncesi normal hızı yaklaşık 5.4+1.2·firm değerini aşan bir yüzeye çarparsa patlasın. Salkımdan düşmesi veya yumuşakça bırakılması patlamaya neden olmasın. Patlama = kabuğun uçtan başlayarak 4 şerit halinde ayrılması; bu şeritler sap yakınındaki bir menteşe etrafında geriye doğru katlansın (önce yay biçimli kat, sonra düz segment; yerçekimi altında sarksın; şeritler arasında hafif farklılıklar olsun) ve krem renkli yarı saydam iç kısmı açığa çıkarsın. Bunu "Soyulan" sayacına ekleyin.
+
+ETKİLEŞİM (işaretçi + dokunma)
+- Salkımdaki muzları seçin: çekildiğinde bağlantısı gerilsin; yaklaşık 0.075 gerilme değeri kısa süre tutulduğunda elinizde kopup ayrılsın (yalnızca o muz); salkımın uzağa çekilmesini önleyin (tutma yer değiştirmesi sınırlı olsun, tutulan meyve salkımı sürüklemesin). İşaretçinin hızıyla bırakıldığında fırlasın.
+- Mor kalbi sürükleyin: sapı sarkaç gibi sallandırsın ve bırakıldıktan sonra da sallanmaya devam etsin; sallama muzları koparmasın.
+- Bir yaprağı veya gövdeyi sürükleyin: büksün, bırakıldığında yaylanarak geri dönsün.
+- Boş alanı sürükleme / sağ tuşla sürükleme: yörüngede döndürme; tekerlek/iki parmakla sıkıştırma: yakınlaştırma; Görünümü sıfırla kamerayı geri yüklesin (az 0.55, el 0.2, FOV 36°).
+- Sertlik, sertliği, kopma dayanımını ve patlama eşiğini değiştirir; İç sönümleme, yalpalama/sallanma sönümlemesini değiştirir; Duraklat zamanı dondurur; Sıfırla, salkımın tamamını yeniden büyütür.
+
+OLUŞTURMA — jöle görünümü
+- Her şey jöle olsun: kalınlığa göre Beer–Lambert soğurması (malzeme başına sigma RGB), sarmalanmış yüzey altı saçılımı, yumuşak stüdyo ortamının kırılması, Fresnel kenar ışığı + keskin speküler yansıma ve yumuşak iç ışıma; yapraklar, parlak arkadan aydınlatmalı damarlara/orta damara ve kenarlara doğru koyulaşan renge sahip ince yarı saydam jöle olsun.
+- Yarı saydam yapraklarda ağırlıklı harmanlanmış OIT; muzlar/gövde/kalp derinlikli, opak görünümlü jöle olsun.
+- Renkli gölge: ışıktan bir geçirgenlik haritası oluşturun (yapraklar gölgeyi yeşile, muzlar altın rengine boyar), bulanıklaştırın ve kaideyle zemine yansıtın — sağa doğru uzanan uzun, yumuşak renkli bir gölge.
+- Paletler (tüm renk tonlarını canlı olarak değiştirin):
+  • Cavendish — kabuk parlak sarı (tint 1.0,0.8,0.08), yeşil uçlar, krem renkli iç, taze yeşil yapraklar (0.22,0.66,0.08), zeytin rengi gövde, koyu mor-bordo kalp, krem kaide.
+  • Red Dacca — kabuk kırmızı-bordo (0.82,0.1,0.16), açık şeftali rengi iç, biraz daha sıcak yeşil yapraklar, kırmızımsı gövde, pembemsi kaide.
+  • Blue Java — kabuk pudra mavisi-turkuaz (0.56,0.8,0.86), beyaz "dondurma" iç, mavi-yeşil yapraklar, soğuk gri-mavi kaide.
+
+QA (SwiftShader WebGPU kullanan başsız Chromium)
+- Bir hata ayıklama kancası sunun (window.__bj: advance, shake, pick, project, setPalette, reset, setPause, counts) ve doğrulayın: başlangıçta 31 muzdan oluşan tam salkım; ≥20 yaprak; boşta hiçbir şey düşmüyor; esinti yaprakları hareket ettiriyor ve Esinti 0 hareketsiz; sallama bazı muzları düşürüyor ama soymuyor; düşen meyve duruyor; sayaçlar güncelleniyor; sıfırlama durumu geri yüklüyor; çekilen bir muz tek başına kopuyor; sert iniş onu soyuyor, yumuşak bırakma soymuyor; kalp meyve düşürmeden sarkaç gibi sallanıyor; yapraklar bükülüp geri yaylanıyor; paletler/kaydırıcılar/duraklatma/yörüngede döndürme/yakınlaştırma çalışıyor; stres testinde NaN yok; simülasyon maliyeti < 5 ms; ağ isteği yok; konsol hatası yok; mobil alt sayfa + dokunma çalışıyor; yedek kart görüntüleniyor.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2107186979502776590) · [Orijinal gönderi](https://x.com/N1njaCodex/status/2107187133173678156) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2107479802152472717"></a>
+
+### Wild Atlas etkileşimli vahşi yaşam ansiklopedisi
+
+[IamAlam](https://x.com/_IamAlam) · 2026-10-06
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2107479802152472717"><img src="../assets/previews/58b1763f9947b348c6baf6e27de3c5a27097872757b52d78755d3313fb248342.jpg" width="840" loading="lazy" alt="Wild Atlas etkileşimli vahşi yaşam ansiklopedisi"></a>
+
+Beş uyumlu render edilmiş hayvan görünümü, seçilebilir hayvan kartları, yavaş döndürme, sürükleyerek döndürme desteği, yakın planlar ve güncellenen hayvan bilgi paneliyle premium bir etkileşimli vahşi yaşam ansiklopedisi oluşturun.
+
+**İstem**
+
+```text
+“Wild Atlas” adlı premium bir etkileşimli vahşi yaşam ansiklopedisi web uygulaması oluşturun.
+
+Hayvanları oluşturmaya başlamadan önce arayüzün tamamını tasarlayın:
+- Yumuşak krem rengi arka plan
+- Adaçayı yeşili vurgular
+- Zarif serif başlıklar
+- Minimal sol kenar çubuğu
+- Üst kısım boyunca yatay “Öne Çıkan Canlılar” kart sırası
+- Yavaşça dönen 3B canlı için geniş bir merkezi alan
+- Hayvana göre güncellenen sağ bilgi paneli (ad, etiketler, temel özellikler, yaşam alanı)
+- Canlının altında tek satırlık kısa bir açıklama
+- Yumuşak stüdyo aydınlatması, hafif gölgeler, sakin hareketler
+- 16:9 düzen, akıcı geçişler
+
+Ardından birbiriyle uyumlu bir set olarak beş başrol hayvan oluşturun. Her birini aynı aydınlatma, arka plan ve ayrıntı düzeyini kullanarak temiz bir önden veya üç çeyrek görünümde, teker teker üretin; böylece hepsi tek bir koleksiyonun parçası gibi görünsün. Bir kızıl panda, bukalemun ve seçtiğiniz üç farklı hayvanı dahil edin.
+
+Etkileşimli deneyim için şunları ekleyin:
+- Merkezi canlıyı değiştiren tıklanabilir hayvan kartları
+- Seçili hayvanda yavaş 360° dönüş
+- Ad, etiketler, temel özellikler ve yaşam alanıyla güncellenen sağ bilgi paneli
+- Her canlının altında bir açıklama
+- Seçimler arasında akıcı geçişler
+
+Render edilmiş, turntable tarzı canlı görünümleri kullanın (sürükleyerek döndürme ve yakın plan desteği yeterlidir; tamamen modellenmiş bir 3B sahne olması gerekmez). Görünümü premium, sakin ve ansiklopedik tutun. Tamamlandığında çalışan, özel erişimli bir site olarak yayınlayın.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2107479802152472717) · [Orijinal gönderi](https://x.com/_IamAlam/status/2107480596926939638) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Sonsuz Tank Savunması
@@ -3604,7 +3679,7 @@ Kaynak kodu, lockfile’ı, npm geliştirme/derleme komutlarını ve statik çı
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 315 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 317 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

@@ -28,7 +28,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**315 · Neueste Astra-Prompts**
+**317 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -53,8 +53,6 @@
 - [Chernobyl-Atlas](#2098841316591346006) · GitHub
 - [Interaktiver 3D-Anatomie-Explorer](#2099206962344800541) · GitHub
 - [Demo für isometrische Fantasy-Grafik](#2100271998618177864) · GitHub
-- [Skybound-Browserspiel](#2098739181510164652)
-- [3D-druckbarer Bilderrahmen aus Teilen mit Steckverbindungen](#2098774359926297011)
 - [3D-Rekonstruktion der Weltausstellung von 1893 in Chicago](#2098795017955418202)
 - [Kinetischer Sandtisch-Simulator](#2098831830002851846)
 - [Selbstfaltende 3D-Origami-Animation](#2098909584996057283)
@@ -144,6 +142,8 @@
 - [Erstelle einen filmischen Trailer für ein fiktives Spiel](#2106824464092770455)
 - [3D-Spiel: Sammle 10 Sternensplitter auf einer nächtlichen Insel](#2106944804756275690)
 - [Plush Spider — Materialstudien Nr. 015](#2107127712871505976)
+- [Banana Jelly](#2107186979502776590)
+- [Interaktive Wildtier-Enzyklopädie Wild Atlas](#2107479802152472717)
 - [Battle City 3D: Endlose Panzerverteidigung](#battle-city-3d)
 - [Crazy Tanks — 3D-Inselartillerie](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Survival-Game mit verrückten Waffen](#odd-arms)
@@ -227,46 +227,6 @@ Erstelle mir eine Grafikdemo: isometrische Kamera, voxel-artiger Art-Style mit r
 ```
 
 [Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2100271998618177864) · [Originalbeitrag](https://github.com/achimala/dream-loop) · [Quellcode](https://github.com/achimala/dream-loop) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2098739181510164652"></a>
-
-### Skybound-Browserspiel
-
-[Aakash Kanojiya](https://x.com/Kanojiyaaakash1) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098739181510164652"><img src="../assets/previews/cc41c83e2ecb4d3e77d02476e259243389db470101509b700c06dd3af39dd4cb.jpg" width="840" loading="lazy" alt="Skybound-Browserspiel"></a>
-
-Ein spielbares browserbasiertes 3D-Flugspiel, in dem der Spieler einen Drachen durch schwebende Inseln steuert und Ringe für Punkte sammelt. Der Prompt fordert Hyper3D Rodin MCP dazu auf, das Drachenmodell zu generieren.
-
-**Prompt**
-
-```text
-Erstelle mit Three.js ein Browserspiel namens Skybound, in dem man fliegt. Der Spieler steuert einen Drachen durch eine Landschaft aus schwebenden Inseln und sammelt Ringe, um Punkte zu erzielen. Dafür wird ein 3D-Drachenmodell benötigt – verwende Hyper3D Rodin MCP, um es zu generieren.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098739181510164652) · [Originalbeitrag](https://x.com/Kanojiyaaakash1/status/2098739181510164652) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2098774359926297011"></a>
-
-### 3D-druckbarer Bilderrahmen aus Teilen mit Steckverbindungen
-
-[wada](https://x.com/wada) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098774359926297011"><img src="../assets/previews/92b9675f7ef605c4f91460c0788dd84f57cd23d0f75c4482937da6c2c76f34f9.png" width="840" loading="lazy" alt="3D-druckbarer Bilderrahmen aus Teilen mit Steckverbindungen"></a>
-
-Erstellen Sie einen Bilderrahmen, der aus mehreren Teilen besteht, die sich mit Steckverbindungen zusammensetzen lassen und auf einem kleinen 3D-Drucker gedruckt werden können. Laut Beitrag wurden STL-Dateien der Steckverbindungsteile mit IDs zur Anpassung von Drucker- und Filamenttoleranzen ausgegeben.
-
-**Prompt**
-
-```text
-Ich möchte einen Bilderrahmen mit dem 3D-Drucker drucken, aber mein 3D-Drucker ist so klein, dass ich lieber einen Rahmen hätte, den man aus verbundenen Teilen zusammensetzt. Das ist irgendwie langweilig – also bitte mit Steckverbindungen.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098774359926297011) · [Originalbeitrag](https://x.com/wada/status/2098774359926297011) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 
@@ -3151,6 +3111,121 @@ UI:
 
 ---
 
+<a id="2107186979502776590"></a>
+
+### Banana Jelly
+
+[NinjaCodex](https://x.com/N1njaCodex) · 2026-10-05
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2107186979502776590"><img src="../assets/previews/e5e4ba8cec9a2f18f6368adf534fa93b9e573285f94ace926035f367ddb44c80.jpg" width="840" loading="lazy" alt="Banana Jelly"></a>
+
+Eine interaktive WebGPU-Materialstudie einer üppigen Bananenpflanze aus durchscheinendem Jelly. Der Autor hat diesen Prompt als Kommentar zu einem Vergleich zwischen Claude Opus 5.5 und ChatGPT-6 Astra bereitgestellt. Er beschreibt prozedural erzeugte Pflanzengeometrie, physikbasierte Bewegung, abtrennbare Bananen, eine durch Aufprall ausgelöste Schälanimation, Palettensteuerung sowie Touch- und Pointer-Interaktion.
+
+**Prompt**
+
+```text
+Erstelle „Banana Jelly“ – eine einzelne, eigenständige HTML-Datei (keine externen Anfragen, keine Bibliotheken, kein Build-Schritt zur Laufzeit) mit nativem WebGPU und WGSL. Das Projekt ist Teil einer redaktionellen Reihe „MATERIAL STUDIES“: eine interaktive, physikalisch simulierte Bananenpflanze, deren sämtliche Bestandteile als durchscheinendes, farbiges Jelly gerendert werden. Simulation in JS, Rendering in WebGPU; die Seite muss flüssig laufen (Simulation < 2 ms/Frame).
+
+SEITE / LAYOUT (redaktionell, warmes Papier)
+- Papierhintergrund #ece9e3, der zu einem etwas dunkleren Boden ausblendet; Tinte #241f1d; Akzent #c99a06 (Bananengold); Haarlinien #d5d0c8.
+- Oben links: kleine Versalien „MATERIAL STUDIES“, eine sehr große kursive Serifenschrift als H1 „Banana / Jelly.“ (Iowan Old Style / Palatino / Georgia als Fallback-Stack), kurze Linie, Bildunterschrift „Ein bisschen Wiegen. Ein bisschen Rutschen. Ein ganzer Bund.“
+- Oben rechts ein pillenförmiges Label: grüner Punkt + „WEBGPU · LIVE“ (oder „WebGPU · Unavailable“).
+- Rechts ein schwebendes Glas-Panel (Papierfarbe mit rgba, 1-Pixel-Rand):
+  • „DER BAUM“: dunkler Button „Baum schütteln“ mit dünnem goldenen Fortschrittsbalken darunter; Zählzeile „Am Bund 31 · Gefallen 0 · Geschält 0“ (Zahlen in tabellarischer Monospace-Schrift).
+  • „PALETTE“: drei Farbfeld-Buttons, jeweils mit einer glänzenden Jelly-Kugel – Cavendish (gelb), Red Dacca (rotviolett), Blue Java (puderblau).
+  • Schieberegler: Festigkeit 50, Innere Dämpfung 40, Brise 30 (Wert rechts in kleiner Monospace-Schrift).
+  • Buttons: Zurücksetzen · Pause · Ansicht zurücksetzen.
+- Unten links: „SO HÄLTST DU SIE“, kursive Zeile „Schüttle den Bund. Schwinge das Herz. Wirf eine kräftig.“ sowie eine kleine graue Zeile: „Ziehe ein Blatt oder den Stiel, um es zu biegen · ziehe eine Banane ab und schleudere sie – bei harter Landung platzt die Schale · ziehe das violette Herz, um es schwingen zu lassen · ziehe im leeren Raum oder mit der rechten Maustaste, um die Ansicht zu drehen · scrolle oder ziehe zwei Finger auseinander, um zu zoomen“
+- Auf breiten Bildschirmen die Pflanze im freien Bereich zwischen Kopfzeile und Panel zentrieren (Projektion verschieben, Abstand passend wählen). Mobil wird das Panel zu einem Bottom Sheet (standardmäßig geschlossen, zum Öffnen antippen; die 3D-Ansicht fährt nach oben, damit die Pflanze sichtbar bleibt), Ziehen mit dem Touchscreen dreht die Ansicht, Pinch-Gesten zoomen. Nirgends darf die Seite scrollen.
+- Fallback-Karte, wenn navigator.gpu oder der Adapter fehlt: „Banana Jelly.“ + Erklärung; das Label zeigt „WebGPU · Unavailable“. Keine Fehler oder Warnungen in der Konsole.
+
+DIE PFLANZE (muss ÜPPIG sein – viele große Blätter, niemals karg oder kahler Baum)
+- Ein niedriges, rundes, glänzendes Podest bzw. eine Schale aus cremefarbenem Jelly; die Pflanze ist mittig eingewurzelt.
+- Scheinstamm: etwa 1,42 hoch, 9 Segmente, Radius 0,158→0,106, leicht vom Bund weg geneigt.
+- Krone: 15 große, paddelförmige Blätter, spiralförmig im Goldenen Winkel (2.39996 rad) angeordnet. Junge Blätter stehen fast aufrecht, ältere biegen sich nach außen und hängen herab (Elevation je nach Alter 1.22→0.02 rad). Länge 1,15–1,7, Breite ≈0,3·scale, Blattform mit sin^0.38-Kontur, leichte V-Falte bzw. Wölbung entlang der Mittelrippe, einige wenige ausgefranste Windriss-Schlitze (sich verjüngende Keile, nicht zu viele), leichte Wellen am Rand, ältere Blätter an den Spitzen etwas vergilbt.
+- Zwei Schösslinge (Ableger) am Fuß, jeweils mit 4 kleineren Blättern.
+- Fruchtstandstiel: Er steigt von der Oberseite der Krone leicht an, wölbt sich darüber und hängt gerade nach unten (10 Segmente, Länge 1,18), danach ein dünner Hals und das HERZ – eine dunkel purpurrote, maronifarbene, tropfenförmige Knospe (Herzblüte) aus überlappenden Hochblättern; ein oder zwei Hochblätter sind angehoben bzw. zurückgerollt.
+- 5 Bananenhände entlang des herabhängenden Stiels, fächerförmig auf verschiedenen Seiten angeordnet (Azimut-Schritt 2,2 rad), mit den Anzahlen 7,7,6,6,5 = 31 Bananen, nach oben hin etwas größer. Jede Banane: analytisch gekrümmter Bogen, gerippter (annähernd fünfeckiger) Querschnitt, verjüngtes dunkles Stielende und dunkle Spitze, zum Licht hin aufwärts gekrümmt; wenige dunkle Sommersprossen.
+
+SIMULATION
+- Die gesamte Pflanze ist ein Baum aus Knoten mit positionsabhängiger Dynamik bei konstanten 240 Hz (4 Solver-Iterationen): Längenbedingungen plus Biegebedingungen in Richtung einer Ruhelage, die relativ zum Eltern-Frame gespeichert und über parallel transportierte Quaternion-Frames übertragen wird. Die Steifigkeit richtet sich nach der Hierarchie (Stamm steif, Blattmittelrippen federnd, Fruchtstandstiel flexibel, Hals weich).
+- Die Schwerkraft belastet jeden Knoten mit dem Gewicht seiner Blätter und Bananen. Die Ruhelage wird vorab kompensiert (3 Durchläufe: setzen lassen, Durchhang messen, Ruhelagen vorbiegen), sodass die voll beladene Pflanze exakt ihre entworfene Form einnimmt; wenn Bananen fallen, hebt sich der leichtere Bund etwas an. Laständerungen werden weich überblendet, nicht sofort angewendet.
+- Beim Laden und Zurücksetzen 2,5 s lang lautlos setzen lassen (währenddessen kein Abreißen).
+- Brise: weich geglättete Rauschkräfte auf Blattknoten (Böen wandern durch die Krone), skaliert über den Regler; Brise 0 = vollkommen still.
+- Blätter und sämtliche Meshes werden auf der GPU aus einem Storage-Buffer mit Knotenpositionen und Frames geskinnt (jeder Vertex: zwei Knoten, ein Anteil, ein Offset im Frame).
+- Die Bananen am Bund hängen an ihrem Handknoten und besitzen eine kleine, gedämpfte Wobble-Feder (Frequenz 3,2+2,2·firm Hz, Dämpfung über den Regler).
+- Abtrennung: Die geglättete Beschleunigung jeder Hand wird verfolgt; eine Banane reißt ab, wenn die Beschleunigung ihre Festigkeit überschreitet (≈ 11+5·firm, je nach Frucht unterschiedlich). Bei wiederholtem Schütteln sammelt sich Ermüdung an, außerdem gibt es eine kurze Abklingzeit pro Hand – beim Schütteln sollen die Bananen nach und nach fallen (einige pro Schütteln), niemals der ganze Bund auf einmal.
+- „Baum schütteln“ versetzt den Stiel mehrere Sekunden lang in Schwingung und zeigt dabei einen Fortschrittsbalken.
+- Lose Bananen sind starre Körper (3 Kugeln entlang des Bogens) mit Impulskontakten und Reibung am Podest, Boden, Stiel und aneinander; sie gehen im Stillstand in den Schlafmodus; Geschwindigkeit begrenzen.
+- Die Schale platzt NUR durch Aufprall: Trifft eine lose Banane auf eine Oberfläche und liegt ihre normale Geschwindigkeit vor dem Kontakt über etwa 5,4+1,2·firm, platzt sie auf. Ein Fall vom Bund oder ein sanftes Ablegen lässt sie nicht platzen. Beim Aufplatzen teilt sich die Schale von der Spitze aus in 4 Streifen, die sich um ein Scharnier nahe dem Stiel zurückfalten (erst Bogenfaltung, dann gerades Segment, unter der Schwerkraft durchhängend, mit leichter Variation pro Streifen), sodass das cremig-durchscheinende Fruchtfleisch sichtbar wird. Unter „Geschält“ zählen.
+
+INTERAKTION (Pointer + Touch)
+- Bananen am Bund greifen: Beim Ziehen wird ihre Befestigung gedehnt; ab etwa 0,075 Dehnung und kurzem Halten reißt sie in deine Hand ab (nur diese eine). Verhindern, dass der Bund weit mitgerissen wird (begrenzte Halteverschiebung; die gehaltene Frucht zieht den Bund nicht). Beim Loslassen wird sie mit der Pointer-Geschwindigkeit geschleudert.
+- Das violette Herz ziehen: Es lässt den Stiel wie ein Pendel schwingen und schwingt nach dem Loslassen weiter; durch das Schwingen dürfen keine Bananen abfallen.
+- Ein Blatt oder den Stiel ziehen: Es biegt sich und federt beim Loslassen zurück.
+- Leeren Raum ziehen / mit der rechten Maustaste ziehen: Ansicht drehen; Mausrad/Pinch-Geste: zoomen; „Ansicht zurücksetzen“ stellt die Kamera wieder her (Azimut 0.55, Elevation 0.2, FOV 36°).
+- Festigkeit verändert Steifigkeit, Reißfestigkeit und Aufplatzschwelle; Innere Dämpfung verändert die Dämpfung von Wobble und Schwingung; Pause hält die Zeit an; Zurücksetzen lässt den vollständigen Bund nachwachsen.
+
+RENDERING – DER JELLY-LOOK
+- Alles ist Jelly: Beer-Lambert-Absorption abhängig von der Dicke (pro Material ein Sigma-RGB-Wert), umhüllendes Subsurface-Scattering, Brechung einer weichen Studio-Umgebung, Fresnel-Rand + scharfes Specular-Highlight, sanftes inneres Leuchten; Blätter sind dünne, durchscheinende Jelly-Flächen mit hellen, von hinten beleuchteten Adern und Mittelrippen sowie intensiverer Farbe zu den Rändern hin.
+- Durchscheinende Blätter über gewichtetes, geblendetes OIT; Bananen, Stiel und Herz als annähernd opakes Jelly mit Tiefenwirkung.
+- Farbiger Schatten: Eine Transmittance-Map wird vom Licht aus gerendert (Blätter färben den Schatten grün, Bananen golden), weichgezeichnet und auf Podest und Boden projiziert – ein langer, weicher Farbschatten nach rechts.
+- Paletten (alle Farbtöne live austauschen):
+  • Cavendish – Schale leuchtend gelb (tint 1.0,0.8,0.08), grüne Spitzen, cremiges Fruchtfleisch, frische grüne Blätter (0.22,0.66,0.08), olivfarbener Stiel, tief purpurrotes Herz, cremefarbenes Podest.
+  • Red Dacca – Schale rot-burgunderfarben (0.82,0.1,0.16), hellpfirsichfarbenes Fruchtfleisch, etwas wärmeres Grün der Blätter, rötlicher Stiel, rosafarbenes Podest.
+  • Blue Java – Schale puderblau-türkis (0.56,0.8,0.86), weißes „Eiscreme“-Fruchtfleisch, blaugrüne Blätter, kühl graublaues Podest.
+
+QA (Headless Chromium mit SwiftShader WebGPU)
+- Einen Debug-Hook bereitstellen (window.__bj: advance, shake, pick, project, setPalette, reset, setPause, counts) und überprüfen: vollständiger Bund mit 31 Bananen am Anfang; ≥20 Blätter; im Leerlauf fällt nichts; die Brise bewegt die Blätter und Brise 0 bleibt still; Schütteln lässt einige Bananen fallen, ohne sie zu schälen; gefallenes Obst kommt zur Ruhe; Zähler werden aktualisiert; Zurücksetzen stellt den Ausgangszustand wieder her; eine gezogene Banane reißt allein ab; bei harter Landung wird sie geschält, bei sanftem Fallen nicht; das Herz schwingt wie ein Pendel, ohne Früchte abzuwerfen; Blätter biegen sich und federn zurück; Paletten, Regler, Pause, Drehen und Zoomen funktionieren; der Stresstest erzeugt keine NaN-Werte; Simulationskosten < 5 ms; keine Netzwerkanfragen; keine Konsolenfehler; mobiles Sheet + Touch; Fallback-Karte.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2107186979502776590) · [Originalbeitrag](https://x.com/N1njaCodex/status/2107187133173678156) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2107479802152472717"></a>
+
+### Interaktive Wildtier-Enzyklopädie Wild Atlas
+
+[IamAlam](https://x.com/_IamAlam) · 2026-10-06
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2107479802152472717"><img src="../assets/previews/58b1763f9947b348c6baf6e27de3c5a27097872757b52d78755d3313fb248342.jpg" width="840" loading="lazy" alt="Interaktive Wildtier-Enzyklopädie Wild Atlas"></a>
+
+Erstelle eine hochwertige interaktive Wildtier-Enzyklopädie mit fünf einheitlich gerenderten Tieransichten, auswählbaren Tierkarten, langsamer Rotation, Unterstützung zum Drehen per Ziehen, Nahaufnahmen und einem sich aktualisierenden Tierinformationsbereich.
+
+**Prompt**
+
+```text
+Erstelle eine hochwertige interaktive Wildtier-Enzyklopädie-Web-App namens „Wild Atlas“.
+
+Gestalte zuerst die vollständige Benutzeroberfläche, bevor du Tiere generierst:
+- Weicher cremefarbener Hintergrund
+- Akzente in Salbeigrün
+- Elegante Serifenschriften für Überschriften
+- Minimale linke Seitenleiste
+- Horizontale Kartenzeile „Vorgestellte Wesen“ am oberen Rand
+- Großer zentraler Bereich für ein sich langsam drehendes 3D-Tier
+- Informationsbereich rechts, der sich für jedes Tier aktualisiert (Name, Tags, wichtigste Merkmale, Lebensraum)
+- Eine kurze Bildunterschrift unter dem Tier
+- Weiches Studiolicht, sanfte Schatten, ruhige Bewegungen
+- 16:9-Layout, fließende Übergänge
+
+Erstelle anschließend fünf Tiersujets als zusammengehörige Serie. Generiere sie einzeln in einer klaren Frontal- oder Dreiviertelansicht und verwende für alle dasselbe Licht, denselben Hintergrund und denselben Detailgrad, damit sie wie eine einheitliche Sammlung wirken. Nimm einen Roten Panda, ein Chamäleon und drei weitere markante Tiere deiner Wahl auf.
+
+Füge für das interaktive Erlebnis Folgendes hinzu:
+- Anklickbare Tierkarten, die das zentrale Tier austauschen
+- Langsame 360°-Drehung des ausgewählten Tiers
+- Informationsbereich auf der rechten Seite, der Name, Tags, wichtigste Merkmale und Lebensraum aktualisiert
+- Eine Bildunterschrift unter jedem Tier
+- Fließende Übergänge zwischen den Auswahlen
+
+Verwende gerenderte Tieransichten im Turntable-Stil (Unterstützung zum Drehen per Ziehen und für Nahaufnahmen genügt; eine vollständig modellierte 3D-Szene ist nicht erforderlich). Halte den Look hochwertig, ruhig und enzyklopädisch. Veröffentliche das Ergebnis nach Fertigstellung als funktionierende private Website.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2107479802152472717) · [Originalbeitrag](https://x.com/_IamAlam/status/2107480596926939638) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Endlose Panzerverteidigung
@@ -3539,7 +3614,7 @@ Liefere Quellcode, Lockfile, npm-Befehle für Entwicklung und Build sowie die st
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 315 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 317 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>

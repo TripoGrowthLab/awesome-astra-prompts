@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**315 · Prompt Astra mới nhất**
+**317 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -53,8 +53,6 @@
 - [Atlas Chernobyl](#2098841316591346006) · GitHub
 - [Trình khám phá giải phẫu 3D tương tác](#2099206962344800541) · GitHub
 - [Demo đồ họa fantasy isometric](#2100271998618177864) · GitHub
-- [Trò chơi bay Skybound trên trình duyệt](#2098739181510164652)
-- [Khung ảnh in 3D dạng lắp ghép có khớp nối](#2098774359926297011)
 - [Tái dựng 3D Hội chợ Thế giới Chicago năm 1893](#2098795017955418202)
 - [Mô phỏng bàn cát động lực](#2098831830002851846)
 - [Hoạt ảnh origami 3D tự gấp](#2098909584996057283)
@@ -144,6 +142,8 @@
 - [Tạo trailer điện ảnh cho một trò chơi hư cấu](#2106824464092770455)
 - [Game 3D thu thập 10 mảnh sao trên đảo nhỏ về đêm](#2106944804756275690)
 - [Nhện bông — Nghiên cứu vật liệu số 015](#2107127712871505976)
+- [Banana Jelly](#2107186979502776590)
+- [Bách khoa toàn thư tương tác về động vật hoang dã Wild Atlas](#2107479802152472717)
 - [Battle City 3D: Phòng thủ xe tăng vô tận](#battle-city-3d)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Game sinh tồn với vũ khí kỳ quặc](#odd-arms)
@@ -227,46 +227,6 @@ Hãy tạo một demo đồ họa: camera isometric, phong cách nghệ thuật 
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100271998618177864) · [Bài đăng gốc](https://github.com/achimala/dream-loop) · [Mã nguồn](https://github.com/achimala/dream-loop) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2098739181510164652"></a>
-
-### Trò chơi bay Skybound trên trình duyệt
-
-[Aakash Kanojiya](https://x.com/Kanojiyaaakash1) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098739181510164652"><img src="../assets/previews/cc41c83e2ecb4d3e77d02476e259243389db470101509b700c06dd3af39dd4cb.jpg" width="840" loading="lazy" alt="Trò chơi bay Skybound trên trình duyệt"></a>
-
-Một trò chơi bay 3D có thể chơi ngay trên trình duyệt, trong đó người chơi điều khiển một con rồng bay qua các hòn đảo lơ lửng và thu thập vòng để ghi điểm. Prompt yêu cầu Hyper3D Rodin MCP tạo mô hình rồng.
-
-**Prompt**
-
-```text
-Xây dựng một trò chơi bay trên trình duyệt có tên Skybound bằng Three.js. Người chơi điều khiển một con rồng bay qua một khu vực đầy các hòn đảo lơ lửng và thu thập vòng để ghi điểm. Bạn sẽ cần một mô hình rồng 3D — sử dụng Hyper3D Rodin MCP để tạo mô hình này.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098739181510164652) · [Bài đăng gốc](https://x.com/Kanojiyaaakash1/status/2098739181510164652) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2098774359926297011"></a>
-
-### Khung ảnh in 3D dạng lắp ghép có khớp nối
-
-[wada](https://x.com/wada) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098774359926297011"><img src="../assets/previews/92b9675f7ef605c4f91460c0788dd84f57cd23d0f75c4482937da6c2c76f34f9.png" width="840" loading="lazy" alt="Khung ảnh in 3D dạng lắp ghép có khớp nối"></a>
-
-Thiết kế một khung ảnh có các bộ phận được nối bằng khớp, để có thể in và lắp ráp bằng máy in 3D cỡ nhỏ. Bài đăng cho biết đã xuất STL các phần khớp nối có mã ID để hiệu chỉnh sai số của máy in và vật liệu in.
-
-**Prompt**
-
-```text
-Tôi muốn in khung ảnh bằng máy in 3D, nhưng máy in khá nhỏ nên cần thiết kế dạng nhiều bộ phận nối lại để hoàn thiện. Nối trực tiếp thì hơi nhàm, hãy dùng khớp nối thú vị hơn.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098774359926297011) · [Bài đăng gốc](https://x.com/wada/status/2098774359926297011) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3234,6 +3194,121 @@ Giao diện:
 
 ---
 
+<a id="2107186979502776590"></a>
+
+### Banana Jelly
+
+[NinjaCodex](https://x.com/N1njaCodex) · 2026-10-05
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2107186979502776590"><img src="../assets/previews/e5e4ba8cec9a2f18f6368adf534fa93b9e573285f94ace926035f367ddb44c80.jpg" width="840" loading="lazy" alt="Banana Jelly"></a>
+
+Nghiên cứu tương tác về vật liệu WebGPU, tái hiện một bụi chuối sum suê bằng thạch trong mờ. Tác giả cung cấp prompt này trong một bình luận về màn so sánh giữa Claude Opus 5.5 và ChatGPT-6 Astra; prompt mô tả hình học cây được tạo theo quy trình, chuyển động dựa trên vật lý, chuối có thể tách rời, cơ chế bóc vỏ khi va chạm, điều khiển bảng màu và tương tác bằng cảm ứng/con trỏ.
+
+**Prompt**
+
+```text
+Tạo "Banana Jelly" — một tệp HTML độc lập duy nhất (không yêu cầu bên ngoài, không thư viện, không cần build khi chạy) bằng WebGPU thuần + WGSL. Đây là một tác phẩm trong chuỗi biên tập "MATERIAL STUDIES": một bụi chuối được mô phỏng vật lý, trong đó mọi bộ phận đều được dựng như thạch màu trong mờ. Mô phỏng bằng JS, render bằng WebGPU; trang phải luôn mượt (mô phỏng < 2 ms/khung hình).
+
+TRANG / BỐ CỤC (biên tập, giấy tông ấm)
+- Nền giấy #ece9e3 chuyển dần sang sàn tối hơn một chút; mực #241f1d; màu nhấn #c99a06 (vàng chuối); đường kẻ mảnh #d5d0c8.
+- Góc trên bên trái: dòng nhãn chữ hoa nhỏ "MATERIAL STUDIES", H1 serif in nghiêng thật lớn "Banana / Jelly." (xếp chồng Iowan Old Style / Palatino / Georgia), một đường kẻ ngắn, chú thích "Một chút đung đưa. Một chút trượt rơi. Cả một nải chuối."
+- Viên nhãn ở góc trên bên phải: chấm xanh + "WEBGPU · LIVE" (hoặc "WebGPU · Unavailable").
+- Bảng kính nổi bên phải (rgba giấy, viền 1px):
+  • "THE TREE": nút tối "Shake the tree" với thanh tiến trình vàng mảnh bên dưới; dòng đếm "On the bunch 31 · Fallen 0 · Peeled 0" (các số dùng font mono dạng bảng).
+  • "PALETTE": ba nút mẫu màu, mỗi nút có một quả cầu thạch bóng — Cavendish (vàng), Red Dacca (đỏ-tím), Blue Java (xanh phấn).
+  • Thanh trượt: Firmness 50, Internal damping 40, Breeze 30 (giá trị hiển thị bằng font mono nhỏ ở bên phải).
+  • Các nút: Reset · Pause · Reset view.
+- Góc dưới bên trái: "HOW TO HOLD IT", dòng in nghiêng "Lắc nải chuối. Đung đưa bắp chuối. Ném mạnh một quả." và một dòng xám nhỏ: "Kéo một lá hoặc cuống để bẻ cong · kéo một quả chuối ra rồi ném — tiếp đất mạnh sẽ làm vỏ bung ra · kéo bắp chuối màu tím để đung đưa · kéo vùng trống hoặc kéo chuột phải để xoay quanh · cuộn hoặc chụm để thu phóng".
+- Trên màn hình rộng, căn giữa cây trong dải trống giữa phần đầu trang và bảng điều khiển (dịch phép chiếu, điều chỉnh khoảng cách). Trên di động: bảng điều khiển trở thành bottom sheet (mặc định đóng, chạm để mở; khung nhìn 3D trượt lên để cây vẫn hiển thị), kéo cảm ứng để xoay, chụm để thu phóng. Tuyệt đối không cho cuộn trang.
+- Thẻ dự phòng nếu thiếu navigator.gpu hoặc adapter: "Banana Jelly." + phần giải thích, viên nhãn hiển thị "WebGPU · Unavailable". Không có lỗi/cảnh báo nào trong console.
+
+CÂY (phải SUM SUÊ — nhiều lá lớn, không bao giờ thưa hoặc trụi)
+- Một đế/đĩa thạch kem tròn, thấp và bóng; cây mọc từ chính giữa.
+- Thân giả: cao khoảng 1.42, 9 đoạn, bán kính 0.158→0.106, hơi nghiêng ra xa nải chuối.
+- Tán: 15 lá bản lớn xoắn theo góc vàng (2.39996 rad). Lá non gần như dựng thẳng; lá già vươn cong ra ngoài và rủ xuống (độ cao 1.22→0.02 rad theo tuổi). Dài 1.15–1.7, rộng ≈0.3·scale, đường viền phiến sin^0.38, hơi gấp hình chữ V/cúp qua gân giữa, có vài khe rách do gió dạng nêm thuôn (không quá nhiều), mép hơi gợn, đầu lá già ngả vàng nhẹ.
+- Hai cây con (chồi bên) ở gốc, mỗi cây có 4 lá nhỏ hơn.
+- Cuống nải: mọc từ đỉnh tán, hơi vươn lên, cong qua rồi rủ thẳng xuống (10 đoạn, dài 1.18), sau đó là một đoạn cổ mảnh và HEART — nụ hình giọt nước màu tím mận sẫm (hoa bắp chuối) tạo từ các lá bắc chồng lên nhau, với một hoặc hai lá bắc nâng lên/cuộn ngược.
+- 5 tầng chuối dọc theo cuống rủ, xòe về các phía khác nhau (bước phương vị 2.2 rad), số lượng 7,7,6,6,5 = 31 quả, phần gần đỉnh hơi lớn hơn. Mỗi quả chuối: cung cong giải tích, tiết diện có gờ (gần ngũ giác), đầu cuống thuôn tối màu và đầu quả sẫm màu, cong hướng lên phía ánh sáng; có vài đốm tàn nhang sẫm thưa.
+
+SIMULATION
+- Toàn bộ cây là một cây nút với động lực học dựa trên vị trí ở tần số cố định 240 Hz (4 vòng lặp bộ giải): ràng buộc độ dài + ràng buộc uốn hướng về hướng nghỉ được lưu tương đối so với frame cha (các frame quaternion vận chuyển song song). Độ cứng thay đổi theo cấp (thân cứng, gân giữa lá đàn hồi, cuống mềm dẻo, cổ mềm).
+- Trọng lực tác động: mỗi nút mang trọng lượng của lá/chuối gắn với nó. Bù trước tư thế nghỉ (lặp 3 lần: ổn định, đo độ rủ, uốn trước hướng nghỉ) để khi chịu đầy đủ tải, cây nằm chính xác theo hình dạng thiết kế; khi chuối rơi, nải nhẹ hơn sẽ nâng lên một chút. Thay đổi tải được làm mượt, không xảy ra tức thời.
+- Ổn định im lặng trong 2,5 giây khi tải lại/đặt lại (không rách trong lúc ổn định).
+- Gió: lực nhiễu mượt tác động lên các nút lá (luồng gió truyền qua tán), được điều chỉnh theo thanh trượt; Breeze 0 = hoàn toàn đứng yên.
+- Phiến lá và mọi mesh đều được skin trên GPU từ storage buffer chứa vị trí + frame của các nút (mỗi đỉnh: hai nút, một phân số và một offset trong frame).
+- Chuối trên nải treo từ nút tầng bằng lò xo lắc nhỏ có giảm chấn (tần số 3.2+2.2·firm Hz, độ giảm chấn lấy từ thanh trượt).
+- Tách quả: theo dõi gia tốc đã làm mượt của từng tầng; một quả chuối rời ra khi gia tốc vượt quá độ bền của nó (≈ 11+5·firm, thay đổi theo từng quả), với độ mỏi tích lũy sau nhiều lần lắc và thời gian hồi ngắn cho mỗi tầng — lắc phải làm chuối rơi dần (mỗi lần lắc vài quả), tuyệt đối không rơi cả nải cùng lúc.
+- "Shake the tree" áp dụng chuyển động lắc kéo dài vài giây lên thân, kèm thanh tiến trình.
+- Chuối rời là vật thể cứng (3 hình cầu dọc theo cung) với va chạm bằng xung lực và ma sát với đế, sàn, thân và các quả khác; ngủ khi đứng yên; giới hạn tốc độ.
+- Vỏ CHỈ bung khi va chạm: nếu chuối rời va vào bề mặt với tốc độ pháp tuyến trước va chạm lớn hơn khoảng 5.4+1.2·firm, vỏ sẽ bung. Rơi khỏi nải hoặc thả nhẹ không làm vỏ bung. Khi bung = vỏ tách thành 4 dải từ đầu quả, gập ngược quanh một bản lề gần cuống (gập theo cung rồi chuyển thành đoạn thẳng, rủ xuống dưới trọng lực, mỗi dải có sai khác nhẹ), để lộ phần ruột kem trong mờ. Tăng bộ đếm "Peeled".
+
+TƯƠNG TÁC (con trỏ + cảm ứng)
+- Chọn chuối trên nải: kéo quả sẽ làm giãn điểm gắn; khi độ giãn vượt khoảng 0.075 và được giữ trong chốc lát, quả sẽ bật khỏi nải vào tay bạn (chỉ quả đó); không cho phép kéo nải đi quá xa (giới hạn độ dịch chuyển khi giữ, quả đang giữ không kéo nải). Thả ra theo vận tốc của con trỏ để ném.
+- Kéo bắp chuối màu tím: làm cuống đung đưa như con lắc và tiếp tục đung đưa sau khi thả; chuyển động này không được làm chuối rơi.
+- Kéo lá hoặc thân: làm chúng cong, rồi bật trở lại khi thả.
+- Kéo vùng trống / kéo chuột phải: xoay quanh; bánh xe/chụm: thu phóng; Reset view khôi phục camera (az 0.55, el 0.2, FOV 36°).
+- Firmness thay đổi độ cứng, độ bền khi tách và ngưỡng bung vỏ; Internal damping thay đổi độ giảm chấn khi lắc/đung đưa; Pause đóng băng thời gian; Reset mọc lại toàn bộ nải.
+
+RENDER — diện mạo thạch
+- Mọi thứ đều là thạch: hấp thụ Beer–Lambert theo độ dày (sigma RGB theo từng vật liệu), tán xạ dưới bề mặt có wrap, khúc xạ môi trường studio mềm, viền Fresnel + phản xạ đặc sắc nét, phát sáng nhẹ bên trong; lá là thạch mỏng trong mờ với gân/gân giữa sáng khi ngược sáng và màu đậm hơn về phía mép.
+- Lá trong mờ qua OIT weighted-blended; chuối/thân/bắp chuối là thạch gần đục, có depth.
+- Bóng màu: render bản đồ truyền sáng từ nguồn sáng (lá nhuộm bóng xanh, chuối nhuộm bóng vàng), làm mờ rồi chiếu lên đế và sàn — một bóng màu dài, mềm đổ sang phải.
+- Bảng màu (thay trực tiếp mọi sắc màu):
+  • Cavendish — vỏ vàng sáng (tint 1.0,0.8,0.08), đầu xanh, ruột kem, lá xanh tươi (0.22,0.66,0.08), thân màu ô liu, bắp chuối tím mận sẫm, đế kem.
+  • Red Dacca — vỏ đỏ đỏ tía (0.82,0.1,0.16), ruột đào nhạt, lá xanh ấm hơn một chút, thân đỏ, đế phớt hồng.
+  • Blue Java — vỏ xanh lam phấn-xanh teal (0.56,0.8,0.86), ruột trắng như "kem", lá xanh lam-xanh lục, đế xanh xám lạnh.
+
+QA (Chromium chạy headless với SwiftShader WebGPU)
+- Cung cấp hook debug (window.__bj: advance, shake, pick, project, setPalette, reset, setPause, counts) và xác minh: lúc bắt đầu có đủ nải 31 quả; ≥20 lá; không có gì rơi khi ở trạng thái chờ; gió làm lá chuyển động và Breeze 0 thì đứng yên; lắc làm một số chuối rơi nhưng không bóc vỏ; quả rơi dừng lại; bộ đếm cập nhật; reset khôi phục; chuối bị kéo sẽ chỉ bật ra một mình; tiếp đất mạnh làm bong vỏ, thả nhẹ thì không; bắp chuối đung đưa như con lắc mà không làm quả rơi; lá cong và bật trở lại; bảng màu/thanh trượt/tạm dừng/xoay/thu phóng hoạt động; kiểm thử tải không có NaN; chi phí mô phỏng < 5 ms; không có yêu cầu mạng; không lỗi console; bottom sheet trên di động + cảm ứng; thẻ dự phòng.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2107186979502776590) · [Bài đăng gốc](https://x.com/N1njaCodex/status/2107187133173678156) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2107479802152472717"></a>
+
+### Bách khoa toàn thư tương tác về động vật hoang dã Wild Atlas
+
+[IamAlam](https://x.com/_IamAlam) · 2026-10-06
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2107479802152472717"><img src="../assets/previews/58b1763f9947b348c6baf6e27de3c5a27097872757b52d78755d3313fb248342.jpg" width="840" loading="lazy" alt="Bách khoa toàn thư tương tác về động vật hoang dã Wild Atlas"></a>
+
+Tạo một bách khoa toàn thư tương tác cao cấp về động vật hoang dã, với năm góc nhìn động vật được kết xuất đồng bộ, các thẻ động vật có thể chọn, chuyển động xoay chậm, hỗ trợ kéo để xoay, tính năng xem cận cảnh và bảng thông tin động vật tự động cập nhật.
+
+**Prompt**
+
+```text
+Xây dựng một ứng dụng web bách khoa toàn thư tương tác cao cấp về động vật hoang dã có tên “Wild Atlas.”
+
+Thiết kế toàn bộ giao diện trước khi tạo bất kỳ loài động vật nào:
+- Nền màu kem dịu
+- Điểm nhấn xanh xô thơm
+- Tiêu đề serif thanh lịch
+- Thanh bên trái tối giản
+- Hàng thẻ “Sinh vật nổi bật” nằm ngang ở phía trên
+- Khu vực lớn ở trung tâm dành cho một sinh vật 3D xoay chậm
+- Bảng thông tin bên phải, cập nhật theo từng loài (tên, thẻ, đặc điểm chính, môi trường sống)
+- Một dòng chú thích ngắn bên dưới sinh vật
+- Ánh sáng studio dịu, bóng đổ nhẹ, chuyển động thư thái
+- Bố cục 16:9, chuyển cảnh mượt mà
+
+Sau đó, tạo năm loài động vật chủ đạo thành một bộ đồng nhất. Tạo từng loài một trong góc nhìn chính diện hoặc ba phần tư, sử dụng cùng hệ thống ánh sáng, nền và mức độ chi tiết để tạo cảm giác như một bộ sưu tập thống nhất. Bao gồm gấu trúc đỏ, tắc kè hoa và ba loài động vật đặc trưng khác do bạn lựa chọn.
+
+Để tạo trải nghiệm tương tác, hãy thêm:
+- Các thẻ động vật có thể nhấp để thay đổi sinh vật ở trung tâm
+- Chuyển động xoay 360° chậm cho loài vật đang được chọn
+- Bảng thông tin bên phải, cập nhật tên, thẻ, đặc điểm chính và môi trường sống
+- Một chú thích bên dưới mỗi sinh vật
+- Chuyển cảnh mượt mà giữa các lựa chọn
+
+Sử dụng các góc nhìn sinh vật kiểu turntable được kết xuất (chỉ cần hỗ trợ kéo để xoay và xem cận cảnh; không cần dựng thành một cảnh 3D hoàn chỉnh). Giữ phong cách cao cấp, tĩnh lặng và giống một bách khoa toàn thư. Khi hoàn tất, hãy xuất bản dưới dạng một trang web riêng tư có thể sử dụng được.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2107479802152472717) · [Bài đăng gốc](https://x.com/_IamAlam/status/2107480596926939638) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Phòng thủ xe tăng vô tận
@@ -3622,7 +3697,7 @@ Bàn giao mã nguồn, lockfile, lệnh npm phát triển/build và đầu ra t�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 315 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 317 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

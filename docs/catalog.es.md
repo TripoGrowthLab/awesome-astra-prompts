@@ -28,7 +28,7 @@
 **Un punto de partida para tu próximo juego, escena o mundo interactivo.**
 
 
-**315 · Últimos prompts de Astra**
+**317 · Últimos prompts de Astra**
 
 ## Proyectos destacados
 
@@ -53,8 +53,6 @@
 - [Atlas de Chernóbil](#2098841316591346006) · GitHub
 - [Explorador interactivo de anatomía en 3D](#2099206962344800541) · GitHub
 - [Demo de gráficos de fantasía isométrica](#2100271998618177864) · GitHub
-- [Juego de vuelo Skybound para navegador](#2098739181510164652)
-- [Marco modular impreso en 3D con uniones](#2098774359926297011)
 - [Reconstrucción 3D de la Exposición Universal de Chicago de 1893](#2098795017955418202)
 - [Simulación de mesa de arena cinética](#2098831830002851846)
 - [Animación 3D de origami que se pliega sola](#2098909584996057283)
@@ -144,6 +142,8 @@
 - [Crea un tráiler cinematográfico para un juego ficticio](#2106824464092770455)
 - [Juego 3D para reunir 10 fragmentos de estrellas en una pequeña isla nocturna](#2106944804756275690)
 - [Araña de peluche — Estudios de materiales n.º 015](#2107127712871505976)
+- [Banana Jelly](#2107186979502776590)
+- [Enciclopedia interactiva de fauna Wild Atlas](#2107479802152472717)
 - [Battle City 3D: Defensa de tanques sin fin](#battle-city-3d)
 - [Crazy Tanks — Artillería 3D en una isla](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Juego de supervivencia con armas extrañas](#odd-arms)
@@ -227,46 +227,6 @@ Crea una demo gráfica: cámara isométrica, estilo artístico tipo vóxel con s
 ```
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100271998618177864) · [Publicación original](https://github.com/achimala/dream-loop) · [Código fuente](https://github.com/achimala/dream-loop) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2098739181510164652"></a>
-
-### Juego de vuelo Skybound para navegador
-
-[Aakash Kanojiya](https://x.com/Kanojiyaaakash1) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098739181510164652"><img src="../assets/previews/cc41c83e2ecb4d3e77d02476e259243389db470101509b700c06dd3af39dd4cb.jpg" width="840" loading="lazy" alt="Juego de vuelo Skybound para navegador"></a>
-
-Un juego de vuelo en 3D para navegador en el que el jugador pilota un dragón entre islas flotantes y recoge anillos para conseguir puntos. El prompt solicita a Hyper3D Rodin MCP que genere el modelo del dragón.
-
-**Prompt**
-
-```text
-Crea un juego de vuelo para navegador llamado Skybound con Three.js. El jugador pilota un dragón a través de un conjunto de islas flotantes y recoge anillos para conseguir puntos. Necesitarás un modelo 3D de dragón: usa Hyper3D Rodin MCP para generarlo.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098739181510164652) · [Publicación original](https://x.com/Kanojiyaaakash1/status/2098739181510164652) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2098774359926297011"></a>
-
-### Marco modular impreso en 3D con uniones
-
-[wada](https://x.com/wada) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098774359926297011"><img src="../assets/previews/92b9675f7ef605c4f91460c0788dd84f57cd23d0f75c4482937da6c2c76f34f9.png" width="840" loading="lazy" alt="Marco modular impreso en 3D con uniones"></a>
-
-Crea un marco cuyas piezas se conecten mediante uniones para poder imprimirlo en una impresora 3D pequeña y montarlo después. La publicación indica que se generaron archivos STL de las uniones, identificados para ajustar las variaciones de la impresora y el filamento.
-
-**Prompt**
-
-```text
-Quiero imprimir un marco con una impresora 3D, pero como es muy pequeña, prefiero un diseño que se complete conectando varias piezas. Como las uniones normales son un poco aburridas, hagámoslo con uniones más interesantes.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098774359926297011) · [Publicación original](https://x.com/wada/status/2098774359926297011) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -3214,6 +3174,121 @@ Interfaz:
 
 ---
 
+<a id="2107186979502776590"></a>
+
+### Banana Jelly
+
+[NinjaCodex](https://x.com/N1njaCodex) · 2026-10-05
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2107186979502776590"><img src="../assets/previews/e5e4ba8cec9a2f18f6368adf534fa93b9e573285f94ace926035f367ddb44c80.jpg" width="840" loading="lazy" alt="Banana Jelly"></a>
+
+Un estudio interactivo de materiales en WebGPU sobre una exuberante planta de banano hecha de gelatina translúcida. El autor incluyó este prompt en un comentario sobre una comparación entre Claude Opus 5.5 y ChatGPT-6 Astra; especifica geometría procedural de la planta, movimiento impulsado por la física, bananas desprendibles, pelado activado por impactos, controles de paleta e interacción táctil y con puntero.
+
+**Prompt**
+
+```text
+Crea «Banana Jelly»: un único archivo HTML autocontenido (sin solicitudes externas, sin bibliotecas y sin proceso de compilación en tiempo de ejecución) usando WebGPU nativo + WGSL. Es una entrada de la serie editorial «MATERIAL STUDIES»: una planta de banano interactiva y simulada físicamente, cuya totalidad está renderizada como gelatina translúcida de colores. Simulación en JS y renderizado en WebGPU; la página debe mantenerse fluida (sim < 2 ms/frame).
+
+PÁGINA / DISEÑO (editorial, papel cálido)
+- Fondo de papel #ece9e3 que se desvanece hacia un suelo ligeramente más oscuro; tinta #241f1d; acento #c99a06 (dorado banana); líneas finas #d5d0c8.
+- Arriba a la izquierda: antetítulo en versalitas «MATERIAL STUDIES», H1 enorme en cursiva serif «Banana / Jelly.» (pila Iowan Old Style / Palatino / Georgia), línea corta y leyenda «Un poco de balanceo. Un poco de deslizamiento. Un racimo entero.»
+- Pastilla arriba a la derecha: punto verde + «WEBGPU · LIVE» (o «WebGPU · Unavailable»).
+- Panel de cristal flotante a la derecha (papel rgba, borde de 1 px):
+  • «EL ÁRBOL»: botón oscuro «Sacudir el árbol» con una barra de progreso dorada y fina debajo; fila de recuento «En el racimo 31 · Caídas 0 · Peladas 0» (números monoespaciados tabulares).
+  • «PALETA»: tres botones de muestra, cada uno con una esfera de gelatina brillante: Cavendish (amarillo), Red Dacca (rojo púrpura), Blue Java (azul empolvado).
+  • Deslizadores: Firmeza 50, Amortiguación interna 40, Brisa 30 (valor mostrado en monoespaciado pequeño a la derecha).
+  • Botones: Restablecer · Pausar · Restablecer vista.
+- Abajo a la izquierda: «CÓMO SUJETARLO», línea en cursiva «Sacude el racimo. Balancea el corazón. Lanza uno con fuerza.» y una línea gris pequeña: «Arrastra una hoja o el tallo para doblarlo · arranca una banana y lánzala — un aterrizaje fuerte revienta la piel · arrastra el corazón morado para balancearlo · arrastra el espacio vacío o arrastra con el botón derecho para orbitar · desplaza o pellizca para hacer zoom».
+- En pantallas anchas, centra la planta en la franja libre entre la cabecera y el panel (desplaza la proyección y ajusta la distancia). En móvil: el panel se convierte en una hoja inferior (cerrada por defecto, toca para abrirla; la vista 3D se desliza hacia arriba para que la planta siga visible), el arrastre táctil orbita y el pellizco hace zoom. No debe haber desplazamiento de página.
+- Tarjeta alternativa si falta navigator.gpu o el adaptador: «Banana Jelly.» + explicación; la pastilla muestra «WebGPU · Unavailable». Cero errores o advertencias en la consola.
+
+LA PLANTA (debe ser EXUBERANTE: muchas hojas grandes, nunca un árbol escaso o pelado)
+- Una base o plato bajo, redondo, brillante y de gelatina color crema; la planta está enraizada en su centro.
+- Pseudotallo: ~1.42 de alto, 9 segmentos, radio 0.158→0.106, inclinado ligeramente en dirección opuesta al racimo.
+- Corona: 15 hojas grandes tipo pala que forman una espiral según el ángulo áureo (2.39996 rad). Las hojas jóvenes permanecen casi verticales; las viejas se arquean hacia fuera y se inclinan (elevación de 1.22→0.02 rad según la edad). Longitud 1.15–1.7, anchura ≈0.3·scale, silueta de lámina sin^0.38, ligero pliegue o forma de V a lo largo del nervio central, algunas hendiduras irregulares producidas por el viento (cuñas afiladas, no muchas), leve ondulación en los bordes y puntas de las hojas viejas algo amarillentas.
+- Dos retoños en la base, cada uno con 4 hojas más pequeñas.
+- Tallo del racimo: nace en la parte superior de la corona, asciende ligeramente, se arquea y cuelga recto hacia abajo (10 segmentos, longitud 1.18); después, un cuello fino y el CORAZÓN: una yema en forma de lágrima de color morado oscuro granate (flor cardíaca), formada por brácteas superpuestas, con una o dos brácteas levantadas o curvadas hacia atrás.
+- 5 manos de bananas a lo largo del tallo colgante, desplegadas en distintos lados (paso de azimut 2.2 rad), con cantidades 7,7,6,6,5 = 31 bananas, ligeramente más grandes cerca de la parte superior. Cada banana: arco curvo analítico, sección transversal estriada (aproximadamente pentagonal), extremo del tallo estrechado y oscuro y punta oscura, curvada hacia la luz; pecas oscuras dispersas.
+
+SIMULATION
+- La planta completa es un árbol de nodos con dinámica basada en la posición a una frecuencia fija de 240 Hz (4 iteraciones del solucionador): restricciones de longitud y restricciones de flexión hacia una orientación de reposo almacenada respecto al marco del padre (marcos de cuaterniones transportados en paralelo). Rigidez según el orden (tallo rígido, nervios centrales de las hojas elásticos, tallo del racimo flexible, cuello blando).
+- La gravedad carga cada nodo con el peso de sus hojas y bananas. Precompensa la pose de reposo (repite 3 veces: estabiliza, mide la caída y precurva las orientaciones de reposo) para que, con toda la carga, la planta adopte exactamente su forma diseñada; cuando caen bananas, el racimo aligerado se eleva un poco. Los cambios de carga se suavizan, no son instantáneos.
+- Estabilización silenciosa de 2.5 s al cargar o restablecer (sin desgarros durante la estabilización).
+- Brisa: fuerza de ruido suave sobre los nodos de las hojas (ráfagas que recorren la corona), escalada por el deslizador; Brisa 0 = inmovilidad total.
+- Las láminas y todas las mallas se deforman mediante skinning en la GPU a partir de un búfer de almacenamiento con posiciones y marcos de los nodos (cada vértice: dos nodos, una fracción y un desplazamiento en el marco).
+- Las bananas del racimo cuelgan de su nodo de mano mediante un pequeño resorte oscilante amortiguado (frecuencia 3.2+2.2·firm Hz, amortiguación según el deslizador).
+- Desprendimiento: sigue la aceleración suavizada de cada mano; una banana se desprende cuando la aceleración supera su resistencia (≈ 11+5·firm, variable según el fruto), con fatiga acumulativa tras sacudidas repetidas y un breve tiempo de espera por mano. Al sacudir, deben caer bananas progresivamente (unas pocas por sacudida), nunca todo el racimo de una vez.
+- «Sacudir el árbol» aplica una sacudida de varios segundos al tallo con una barra de progreso.
+- Las bananas sueltas son cuerpos rígidos (3 esferas a lo largo del arco), con contactos de impulso y fricción contra la base, el suelo, el tallo y entre sí; se duermen cuando están quietas; límite de velocidad.
+- El pelado se produce ÚNICAMENTE por impacto: si una banana suelta golpea una superficie con una velocidad normal previa al contacto superior a ~5.4+1.2·firm, revienta. Una caída desde el racimo o una caída suave nunca la revienta. Al reventar, la piel se divide en 4 tiras desde la punta, que se repliegan alrededor de una bisagra cerca del tallo (pliegue en arco seguido de un segmento recto, caído bajo la gravedad, con ligera variación entre tiras), y dejan al descubierto una pulpa cremosa translúcida. Se cuenta en «Peladas».
+
+INTERACCIÓN (puntero + táctil)
+- Seleccionar bananas del racimo: al tirar de una, se estira su unión; si se supera ~0.075 de estiramiento durante un breve intervalo, se desprende de golpe hacia tu mano (solo esa banana); evita que el racimo sea arrastrado demasiado lejos (desplazamiento de sujeción limitado; el fruto sujeto no arrastra el racimo). Suéltala con la velocidad del puntero para lanzarla.
+- Arrastrar el corazón morado: balancea el tallo como un péndulo y este sigue oscilando después de soltarlo; el balanceo no debe desprender bananas.
+- Arrastrar una hoja o el tallo: lo dobla y vuelve elásticamente a su posición al soltarlo.
+- Arrastrar el espacio vacío o con el botón derecho: orbitar; rueda o pellizco: zoom; Restablecer vista recupera la cámara (az 0.55, el 0.2, FOV 36°).
+- Firmeza cambia la rigidez, la resistencia al desgarro y el umbral de reventón; Amortiguación interna cambia la amortiguación del balanceo y la oscilación; Pausar congela el tiempo; Restablecer vuelve a generar el racimo completo.
+
+RENDERIZADO — el aspecto de gelatina
+- Todo es gelatina: absorción de Beer–Lambert según el grosor (sigma RGB por material), dispersión subsuperficial envolvente, refracción de un entorno de estudio suave, borde Fresnel + especular nítido y resplandor interior suave; las hojas son gelatina translúcida fina, con nervios y nervio central iluminados desde atrás y un color más intenso hacia los bordes.
+- Hojas translúcidas mediante OIT con mezcla ponderada; bananas, tallo y corazón son gelatina casi opaca con profundidad.
+- Sombra coloreada: un mapa de transmitancia renderizado desde la luz (las hojas tiñen la sombra de verde y las bananas, de dorado), desenfocado y proyectado sobre la base y el suelo: una sombra coloreada, larga y suave hacia la derecha.
+- Paletas (intercambia todos los tintes en vivo):
+  • Cavendish — piel amarilla brillante (tinte 1.0,0.8,0.08), puntas verdes, pulpa cremosa, hojas verde fresco (0.22,0.66,0.08), tallo oliva, corazón morado granate intenso y base color crema.
+  • Red Dacca — piel rojo burdeos (0.82,0.1,0.16), pulpa melocotón pálido, hojas de un verde ligeramente más cálido, tallo rojizo y base rosada.
+  • Blue Java — piel azul verdosa empolvada (0.56,0.8,0.86), pulpa blanca «de helado», hojas azul verdosas y base gris azulada fría.
+
+CONTROL DE CALIDAD (Chromium sin interfaz con WebGPU SwiftShader)
+- Expón un punto de depuración (window.__bj: advance, shake, pick, project, setPalette, reset, setPause, counts) y verifica: racimo completo de 31 al inicio; ≥20 hojas; nada cae cuando está inactivo; la brisa mueve las hojas y Brisa 0 permanece inmóvil; las sacudidas hacen caer algunas bananas sin pelarlas; los frutos caídos se detienen; los contadores se actualizan; restablecer recupera el estado; una banana tirada se desprende sola; un aterrizaje fuerte la pela y uno suave no; el corazón oscila como un péndulo sin dejar caer frutos; las hojas se doblan y vuelven a su posición; las paletas, los deslizadores, la pausa, la órbita y el zoom funcionan; la prueba de estrés no produce NaN; el coste de simulación es < 5 ms; no hay solicitudes de red; no hay errores de consola; la hoja móvil y el tacto funcionan; tarjeta alternativa.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2107186979502776590) · [Publicación original](https://x.com/N1njaCodex/status/2107187133173678156) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2107479802152472717"></a>
+
+### Enciclopedia interactiva de fauna Wild Atlas
+
+[IamAlam](https://x.com/_IamAlam) · 2026-10-06
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2107479802152472717"><img src="../assets/previews/58b1763f9947b348c6baf6e27de3c5a27097872757b52d78755d3313fb248342.jpg" width="840" loading="lazy" alt="Enciclopedia interactiva de fauna Wild Atlas"></a>
+
+Crea una enciclopedia interactiva de fauna de alta gama con cinco vistas renderizadas coherentes de animales, tarjetas de animales seleccionables, rotación lenta, compatibilidad con arrastrar para rotar, primeros planos y un panel de información animal que se actualiza.
+
+**Prompt**
+
+```text
+Crea una aplicación web de enciclopedia interactiva de fauna de alta gama llamada “Wild Atlas”.
+
+Diseña primero toda la interfaz, antes de generar ningún animal:
+- Fondo crema suave
+- Detalles en verde salvia
+- Encabezados elegantes con serifas
+- Barra lateral izquierda minimalista
+- Fila horizontal de tarjetas de «Especies destacadas» en la parte superior
+- Área central grande para una criatura 3D que gire lentamente
+- Panel de información a la derecha que se actualice para cada animal (nombre, etiquetas, rasgos principales, hábitat)
+- Una breve línea de texto bajo la criatura
+- Iluminación de estudio suave, sombras sutiles y movimiento pausado
+- Diseño en formato 16:9 y transiciones fluidas
+
+Después, crea cinco animales protagonistas como un conjunto coherente. Genera uno cada vez, en una vista frontal o de tres cuartos, usando la misma iluminación, el mismo fondo y el mismo nivel de detalle para que parezcan parte de una sola colección. Incluye un panda rojo, un camaleón y otros tres animales distintivos que elijas.
+
+Para la experiencia interactiva, añade:
+- Tarjetas de animales en las que se pueda hacer clic para cambiar la criatura central
+- Rotación lenta de 360° del animal seleccionado
+- Panel de información a la derecha que se actualice con el nombre, las etiquetas, los rasgos principales y el hábitat
+- Un texto breve bajo cada criatura
+- Transiciones fluidas entre selecciones
+
+Usa vistas renderizadas de criaturas al estilo de un visor giratorio (basta con permitir arrastrar para rotar y hacer primeros planos; no es necesario crear una escena 3D completamente modelada). Mantén una estética premium, sobria y propia de una enciclopedia. Publícala como un sitio privado funcional al terminar.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2107479802152472717) · [Publicación original](https://x.com/_IamAlam/status/2107480596926939638) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Defensa de tanques sin fin
@@ -3602,7 +3677,7 @@ Entrega el código fuente, el archivo de bloqueo, los comandos npm de desarrollo
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 315 ejemplos en el sitio oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 317 ejemplos en el sitio oficial →</a></strong></p>
 <p><sub>Para que el README de GitHub se renderice con fluidez, aquí solo se muestran los 100 ejemplos más recientes.</sub></p>
 <br>
 </td></tr>

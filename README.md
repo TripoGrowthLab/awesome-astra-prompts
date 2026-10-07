@@ -29,7 +29,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**315 examples · 14 languages · 12 examples with source code**
+**317 examples · 14 languages · 12 examples with source code**
 
 ## Featured projects
 
@@ -54,8 +54,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Chernobyl Atlas](#2098841316591346006) · GitHub
 - [Interactive 3D Anatomy Explorer](#2099206962344800541) · GitHub
 - [Isometric fantasy graphics demo](#2100271998618177864) · GitHub
-- [Skybound browser flight game](#2098739181510164652)
-- [Modular 3D-Printed Picture Frame with Connectors](#2098774359926297011)
 - [3D reconstruction of the 1893 Chicago World's Fair](#2098795017955418202)
 - [Kinetic Sand Table Simulation](#2098831830002851846)
 - [Self-folding 3D origami animation](#2098909584996057283)
@@ -145,6 +143,8 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Create a cinematic trailer for a fictional game](#2106824464092770455)
 - [3D Game: Collect 10 Star Fragments on a Small Island at Night](#2106944804756275690)
 - [Plush Spider — Material Studies No. 015](#2107127712871505976)
+- [Banana Jelly](#2107186979502776590)
+- [Wild Atlas interactive wildlife encyclopedia](#2107479802152472717)
 - [Battle City 3D: Endless Tank Defense](#battle-city-3d)
 - [Crazy Tanks — 3D Island Artillery](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Weird Weapons Survival Game](#odd-arms)
@@ -228,46 +228,6 @@ Build me a graphics demo: isometric camera, voxel-ish art style with realistic s
 ```
 
 [View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100271998618177864) · [Original post](https://github.com/achimala/dream-loop) · [Source code](https://github.com/achimala/dream-loop) · [Back to examples](#all-prompts)
-
----
-
-<a id="2098739181510164652"></a>
-
-### Skybound browser flight game
-
-[Aakash Kanojiya](https://x.com/Kanojiyaaakash1) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098739181510164652"><img src="assets/previews/cc41c83e2ecb4d3e77d02476e259243389db470101509b700c06dd3af39dd4cb.jpg" width="840" loading="lazy" alt="Skybound browser flight game"></a>
-
-A playable browser-based 3D flight game in which the player pilots a dragon through floating islands and collects rings for score. The prompt requests Hyper3D Rodin MCP to generate the dragon model.
-
-**Prompt**
-
-```text
-Build a browser flight game called Skybound using Three.js. The player pilots a dragon through a field of floating islands, collecting rings for score. You'll need a 3D dragon model - use the Hyper3D Rodin MCP to generate it.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098739181510164652) · [Original post](https://x.com/Kanojiyaaakash1/status/2098739181510164652) · [Back to examples](#all-prompts)
-
----
-
-<a id="2098774359926297011"></a>
-
-### Modular 3D-Printed Picture Frame with Connectors
-
-[wada](https://x.com/wada) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098774359926297011"><img src="assets/previews/92b9675f7ef605c4f91460c0788dd84f57cd23d0f75c4482937da6c2c76f34f9.png" width="840" loading="lazy" alt="Modular 3D-Printed Picture Frame with Connectors"></a>
-
-Create a picture frame assembled by connecting multiple parts with joints so it can be printed on a small 3D printer. The post states that ID-labeled STL files for the joint sections were generated to compensate for printer and filament tolerances.
-
-**Prompt**
-
-```text
-I want to print a picture frame on a 3D printer, but the printer is too small, so I’d like one that can be completed by joining separate parts. That sounds a bit boring, so use connectors to make it more interesting.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098774359926297011) · [Original post](https://x.com/wada/status/2098774359926297011) · [Back to examples](#all-prompts)
 
 ---
 
@@ -3192,6 +3152,121 @@ UI:
 
 ---
 
+<a id="2107186979502776590"></a>
+
+### Banana Jelly
+
+[NinjaCodex](https://x.com/N1njaCodex) · 2026-10-05
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2107186979502776590"><img src="assets/previews/e5e4ba8cec9a2f18f6368adf534fa93b9e573285f94ace926035f367ddb44c80.jpg" width="840" loading="lazy" alt="Banana Jelly"></a>
+
+An interactive WebGPU material study of a lush, translucent-jelly banana plant. The author supplied this prompt in a comment on a comparison between Claude Opus 5.5 and ChatGPT-6 Astra; it specifies procedural plant geometry, physics-driven motion, detachable bananas, impact-triggered peeling, palette controls, and touch/pointer interaction.
+
+**Prompt**
+
+```text
+Build "Banana Jelly" — a single self-contained HTML file (no external requests, no libraries, no build step at runtime) using native WebGPU + WGSL. It is one entry in an editorial "MATERIAL STUDIES" series: an interactive, physically simulated banana plant whose every part is rendered as translucent coloured jelly. Simulation in JS, rendering in WebGPU; the page must stay smooth (sim < 2 ms/frame).
+
+PAGE / LAYOUT (editorial, warm paper)
+- Background paper #ece9e3 fading to a slightly darker floor; ink #241f1d; accent #c99a06 (banana gold); hairline rules #d5d0c8.
+- Top-left: small caps eyebrow "MATERIAL STUDIES", huge italic serif H1 "Banana / Jelly." (Iowan Old Style / Palatino / Georgia stack), short rule, caption "A little sway. A little slip. A whole bunch."
+- Top-right pill: green dot + "WEBGPU · LIVE" (or "WebGPU · Unavailable").
+- Right floating glass panel (rgba paper, 1px border):
+  • "THE TREE": dark button "Shake the tree" with a thin gold progress bar under it; tally row "On the bunch 31 · Fallen 0 · Peeled 0" (tabular mono numbers).
+  • "PALETTE": three swatch buttons with a glossy jelly ball each — Cavendish (yellow), Red Dacca (red-purple), Blue Java (powder blue).
+  • Sliders: Firmness 50, Internal damping 40, Breeze 30 (value shown in small mono at right).
+  • Buttons: Reset · Pause · Reset view.
+- Bottom-left: "HOW TO HOLD IT", italic line "Shake the bunch. Swing the heart. Throw one hard.", and a small grey line: "Drag a leaf or the stem to bend it · pull a banana off and fling it — a hard landing bursts the peel · drag the purple heart to swing it · drag empty space or right-drag to orbit · scroll or pinch to zoom".
+- On wide screens, centre the plant in the free band between the masthead and the panel (shift the projection, fit the distance). Mobile: panel becomes a bottom sheet (closed by default, tap to open; the 3D view slides up so the plant stays visible), touch drag orbits, pinch zooms. No page scroll anywhere.
+- Fallback card if navigator.gpu or the adapter is missing: "Banana Jelly." + explanation, pill shows "WebGPU · Unavailable". Zero console errors/warnings.
+
+THE PLANT (must be LUSH — many big leaves, never a sparse/bald tree)
+- A low round glossy cream jelly plinth/dish; plant rooted in its centre.
+- Pseudostem: ~1.42 tall, 9 segments, radius 0.158→0.106, leaning slightly away from the bunch.
+- Crown: 15 big paddle leaves spiralling by the golden angle (2.39996 rad). Young leaves stand almost upright, older ones arch out and droop (elevation 1.22→0.02 rad by age). Length 1.15–1.7, width ≈0.3·scale, sin^0.38 blade outline, slight V-fold/cup across the midrib, a few ragged wind-tear slits (tapered wedges, not many), slight edge ripple, old leaves yellowing a bit at the tips.
+- Two pups (suckers) at the foot, each with 4 smaller leaves.
+- Bunch stalk: from the top of the crown it rises slightly, arches over and hangs straight down (10 segments, length 1.18), then a thin neck and the HEART — a dark purple-maroon teardrop bud (cardiac flower) made of overlapping bracts, with one or two bracts lifted/curling back.
+- 5 hands of bananas along the hanging stalk, fanned out on different sides (azimuth step 2.2 rad), counts 7,7,6,6,5 = 31 bananas, slightly larger near the top. Each banana: analytic curved arc, ridged (pentagonal-ish) cross-section, tapered dark stem end and dark tip, curving up toward the light; sparse dark freckles.
+
+SIMULATION
+- Whole plant = tree of nodes with position-based dynamics at fixed 240 Hz (4 solver iterations): length constraints + bend constraints toward a rest orientation stored relative to the parent frame (parallel-transported quaternion frames). Stiffness by order (stem stiff, leaf midribs springy, stalk flexible, neck soft).
+- Gravity loads: every node carries the weight of its leaves/bananas. Pre-compensate the rest pose (iterate 3×: settle, measure sag, pre-bend rest orientations) so that, fully loaded, the plant sits exactly in its designed shape; when bananas fall, the lighter bunch lifts a little. Load changes are eased, not instantaneous.
+- Settle 2.5 s silently on load/reset (no tearing during settle).
+- Breeze: smooth noise forcing on leaf nodes (gusts travelling through the crown), scaled by the slider; Breeze 0 = perfectly still.
+- Blades and all meshes are skinned on the GPU from a storage buffer of node positions + frames (each vertex: two nodes, a fraction, an offset in the frame).
+- Bananas on the bunch hang from their hand node with a small damped wobble spring (freq 3.2+2.2·firm Hz, damping from slider).
+- Detachment: track each hand's smoothed acceleration; a banana tears off when the acceleration exceeds its strength (≈ 11+5·firm, varying per fruit), with fatigue accumulating on repeated shakes and a short per-hand cooldown — shaking should drop bananas progressively (a few per shake), never the whole bunch at once.
+- "Shake the tree" applies a multi-second shake to the stem with a progress bar.
+- Loose bananas are rigid bodies (3 spheres along the arc) with impulse contacts and friction against the plinth, floor, stem and each other; sleep when still; speed clamp.
+- Peel bursts ONLY from impact: if a loose banana hits a surface with pre-contact normal speed above ~5.4+1.2·firm, it bursts. A fall from the bunch or a gentle drop never bursts it. Burst = the skin splits into 4 strips from the tip, which fold back around a hinge near the stem (arc fold then straight segment, sagging under gravity, slight per-strip variation), revealing creamy translucent flesh. Count it in "Peeled".
+
+INTERACTION (pointer + touch)
+- Pick bananas on the bunch: pulling it stretches its attachment; past ~0.075 of stretch held briefly it snaps off into your hand (only that one); keep the bunch from being yanked far (limited hold displacement, held fruit doesn't drag the bunch). Release with the pointer velocity to fling it.
+- Drag the purple heart: it swings the stalk like a pendulum and keeps swinging after release; swinging must not shake bananas off.
+- Drag a leaf or the stem: bends it, springs back on release.
+- Drag empty space / right-drag: orbit; wheel/pinch: zoom; Reset view restores camera (az 0.55, el 0.2, FOV 36°).
+- Firmness changes stiffness, tear strength and burst threshold; Internal damping changes wobble/swing damping; Pause freezes time; Reset regrows the full bunch.
+
+RENDERING — the jelly look
+- Everything is jelly: Beer–Lambert absorption by thickness (per-material sigma RGB), wrapped subsurface scatter, refraction of a soft studio environment, Fresnel rim + sharp specular, soft inner glow; leaves are thin translucent jelly with bright backlit veins/midrib and deeper colour toward the edges.
+- Translucent leaves via weighted-blended OIT; bananas/stem/heart opaque-ish jelly with depth.
+- Coloured shadow: a transmittance map rendered from the light (leaves tint the shadow green, bananas gold), blurred, projected onto the plinth and floor — a long soft coloured shadow to the right.
+- Palettes (swap all tints live):
+  • Cavendish — skin bright yellow (tint 1.0,0.8,0.08), green tips, creamy flesh, leaves fresh green (0.22,0.66,0.08), stem olive, heart deep purple-maroon, cream plinth.
+  • Red Dacca — skin red-burgundy (0.82,0.1,0.16), pale peach flesh, leaves slightly warmer green, reddish stem, pinkish plinth.
+  • Blue Java — skin powder blue-teal (0.56,0.8,0.86), white "ice-cream" flesh, blue-green leaves, cool grey-blue plinth.
+
+QA (headless Chromium with SwiftShader WebGPU)
+- Expose a debug hook (window.__bj: advance, shake, pick, project, setPalette, reset, setPause, counts) and verify: full bunch of 31 at start; ≥20 leaves; nothing falls when idle; breeze moves leaves and Breeze 0 is still; shaking drops some bananas without peeling them; fallen fruit comes to rest; counters update; reset restores; a pulled banana snaps off alone; a hard landing peels it, a gentle drop doesn't; heart swings as a pendulum without dropping fruit; leaves bend and spring back; palettes/sliders/pause/orbit/zoom work; stress test has no NaN; sim cost < 5 ms; no network requests; no console errors; mobile sheet + touch; fallback card.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2107186979502776590) · [Original post](https://x.com/N1njaCodex/status/2107187133173678156) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2107479802152472717"></a>
+
+### Wild Atlas interactive wildlife encyclopedia
+
+[IamAlam](https://x.com/_IamAlam) · 2026-10-06
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2107479802152472717"><img src="assets/previews/58b1763f9947b348c6baf6e27de3c5a27097872757b52d78755d3313fb248342.jpg" width="840" loading="lazy" alt="Wild Atlas interactive wildlife encyclopedia"></a>
+
+Create a premium interactive wildlife encyclopedia with five matching rendered animal views, selectable animal cards, slow rotation, drag-to-rotate support, close-ups, and an updating animal information panel.
+
+**Prompt**
+
+```text
+Build a premium interactive wildlife encyclopedia web app called “Wild Atlas.”
+
+Design the full interface first, before generating any animals:
+- Soft cream background
+- Sage-green accents
+- Elegant serif headings
+- Minimal left sidebar
+- Horizontal “Featured Beings” card row across the top
+- Large central area for a slowly rotating 3D creature
+- Info panel on the right that updates per animal (name, tags, key traits, habitat)
+- One short caption line under the creature
+- Soft studio lighting, gentle shadows, calm motion
+- 16:9 layout, smooth transitions
+
+Then create five hero animals as a matching set. Generate one at a time in a clean front or three-quarter view, using the same lighting, background, and detail level so they feel like one collection. Include a red panda, chameleon, and three other distinctive animals of your choice.
+
+For the interactive experience, add:
+- Clickable animal cards that swap the central creature
+- Slow 360° rotation on the selected animal
+- Right-side info panel that updates with name, tags, key traits, and habitat
+- One caption under each creature
+- Smooth transitions between selections
+
+Use rendered turntable-style creature views (drag-to-rotate and close-up support is enough; it does not need to be a fully modeled 3D scene). Keep the look premium, quiet, and encyclopedia-like. Publish it as a working private site when finished.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2107479802152472717) · [Original post](https://x.com/_IamAlam/status/2107480596926939638) · [Back to examples](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Endless Tank Defense
@@ -3580,7 +3655,7 @@ Deliver source, lockfile, npm development/build commands and static output. Veri
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 315 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 317 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>

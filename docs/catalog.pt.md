@@ -28,7 +28,7 @@
 **Um ponto de partida para seu próximo jogo, cena ou mundo interativo.**
 
 
-**315 · Prompts mais recentes do Astra**
+**317 · Prompts mais recentes do Astra**
 
 ## Projetos em destaque
 
@@ -53,8 +53,6 @@
 - [Atlas de Chernobyl](#2098841316591346006) · GitHub
 - [Explorador interativo de anatomia 3D](#2099206962344800541) · GitHub
 - [Demo de gráficos de fantasia isométrica](#2100271998618177864) · GitHub
-- [Jogo de voo Skybound para navegador](#2098739181510164652)
-- [Moldura para impressão 3D em partes com encaixes](#2098774359926297011)
 - [Reconstrução 3D da Feira Mundial de Chicago de 1893](#2098795017955418202)
 - [Simulação de mesa de areia cinética](#2098831830002851846)
 - [Animação 3D de origami que se dobra sozinha](#2098909584996057283)
@@ -144,6 +142,8 @@
 - [Crie um trailer cinematográfico para um jogo fictício](#2106824464092770455)
 - [Jogo 3D para coletar 10 fragmentos de estrelas em uma pequena ilha à noite](#2106944804756275690)
 - [Aranha de Pelúcia — Estudos de Materiais nº 015](#2107127712871505976)
+- [Banana Jelly](#2107186979502776590)
+- [Enciclopédia interativa de vida selvagem Wild Atlas](#2107479802152472717)
 - [Battle City 3D: Defesa de Tanques sem Fim](#battle-city-3d)
 - [Crazy Tanks — Artilharia 3D em uma ilha](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Jogo de sobrevivência com armas bizarras](#odd-arms)
@@ -227,46 +227,6 @@ Crie uma demo gráfica: câmera isométrica, estilo visual inspirado em voxels, 
 ```
 
 [Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2100271998618177864) · [Publicação original](https://github.com/achimala/dream-loop) · [Código-fonte](https://github.com/achimala/dream-loop) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2098739181510164652"></a>
-
-### Jogo de voo Skybound para navegador
-
-[Aakash Kanojiya](https://x.com/Kanojiyaaakash1) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098739181510164652"><img src="../assets/previews/cc41c83e2ecb4d3e77d02476e259243389db470101509b700c06dd3af39dd4cb.jpg" width="840" loading="lazy" alt="Jogo de voo Skybound para navegador"></a>
-
-Um jogo de voo 3D jogável para navegador, no qual o jogador pilota um dragão por entre ilhas flutuantes e coleta anéis para marcar pontos. O prompt solicita que o Hyper3D Rodin MCP gere o modelo do dragão.
-
-**Prompt**
-
-```text
-Crie um jogo de voo para navegador chamado Skybound usando Three.js. O jogador pilota um dragão por um conjunto de ilhas flutuantes, coletando anéis para marcar pontos. Você precisará de um modelo 3D de dragão — use o Hyper3D Rodin MCP para gerá-lo.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098739181510164652) · [Publicação original](https://x.com/Kanojiyaaakash1/status/2098739181510164652) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2098774359926297011"></a>
-
-### Moldura para impressão 3D em partes com encaixes
-
-[wada](https://x.com/wada) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098774359926297011"><img src="../assets/previews/92b9675f7ef605c4f91460c0788dd84f57cd23d0f75c4482937da6c2c76f34f9.png" width="840" loading="lazy" alt="Moldura para impressão 3D em partes com encaixes"></a>
-
-Solicitação para criar uma moldura montada pela conexão de várias peças com encaixes, permitindo a impressão em uma impressora 3D pequena. A publicação informa que foram gerados arquivos STL das partes dos encaixes com identificadores, para ajustar as variações da impressora e do filamento.
-
-**Prompt**
-
-```text
-Quero imprimir uma moldura em uma impressora 3D, mas ela é pequena. Crie algo que possa ser montado unindo várias peças; para não ficar sem graça, use encaixes.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098774359926297011) · [Publicação original](https://x.com/wada/status/2098774359926297011) · [Voltar aos exemplos](#all-prompts)
 
 ---
 
@@ -3151,6 +3111,121 @@ UI:
 
 ---
 
+<a id="2107186979502776590"></a>
+
+### Banana Jelly
+
+[NinjaCodex](https://x.com/N1njaCodex) · 2026-10-05
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2107186979502776590"><img src="../assets/previews/e5e4ba8cec9a2f18f6368adf534fa93b9e573285f94ace926035f367ddb44c80.jpg" width="840" loading="lazy" alt="Banana Jelly"></a>
+
+Um estudo interativo de materiais em WebGPU sobre uma bananeira exuberante, feita de uma gelatina translúcida. O autor forneceu este prompt em um comentário numa comparação entre Claude Opus 5.5 e ChatGPT-6 Astra; ele especifica geometria procedural da planta, movimento orientado por física, bananas destacáveis, descascamento acionado por impacto, controles de paleta e interação por toque/ponteiro.
+
+**Prompt**
+
+```text
+Crie "Banana Jelly" — um único arquivo HTML autocontido (sem requisições externas, sem bibliotecas e sem etapa de build em tempo de execução), usando WebGPU nativo + WGSL. Esta é uma entrada da série editorial "ESTUDOS DE MATERIAIS": uma bananeira com simulação física interativa, em que cada parte é renderizada como uma gelatina colorida translúcida. Simulação em JS, renderização em WebGPU; a página deve permanecer fluida (sim < 2 ms/quadro).
+
+PÁGINA / LAYOUT (editorial, papel acolhedor)
+- Papel de fundo #ece9e3, esmaecendo para um piso um pouco mais escuro; tinta #241f1d; destaque #c99a06 (dourado da banana); linhas finas #d5d0c8.
+- No canto superior esquerdo: antetítulo em versalete "ESTUDOS DE MATERIAIS", H1 enorme em serifa e itálico "Banana / Jelly." (pilha Iowan Old Style / Palatino / Georgia), linha curta, legenda "Um pouco de balanço. Um pouco de escorregão. Um cacho inteiro."
+- No canto superior direito, cápsula: ponto verde + "WEBGPU · AO VIVO" (ou "WebGPU · Indisponível").
+- Painel de vidro flutuante à direita (papel rgba, borda de 1 px):
+  • "A ÁRVORE": botão escuro "Sacudir a árvore" com uma barra de progresso dourada fina abaixo; linha de contagem "No cacho 31 · Caídas 0 · Descascadas 0" (números em fonte mono tabular).
+  • "PALETA": três botões de amostra, cada um com uma esfera de gelatina brilhante — Cavendish (amarela), Red Dacca (vermelho-arroxeada), Blue Java (azul-pó).
+  • Sliders: Firmeza 50, Amortecimento interno 40, Brisa 30 (valor exibido em fonte mono pequena à direita).
+  • Botões: Redefinir · Pausar · Redefinir vista.
+- No canto inferior esquerdo: "COMO SEGURAR", linha em itálico "Sacuda o cacho. Balance o coração. Arremesse uma com força.", e uma linha cinza pequena: "Arraste uma folha ou o caule para curvá-la · puxe uma banana e arremesse-a — uma aterrissagem forte rompe a casca · arraste o coração roxo para balançá-lo · arraste um espaço vazio ou use o botão direito para orbitar · role ou faça pinça para aplicar zoom".
+- Em telas largas, centralize a planta na faixa livre entre o cabeçalho e o painel (desloque a projeção e ajuste a distância). No celular: o painel vira uma folha inferior (fechada por padrão, toque para abrir; a vista 3D desliza para cima para manter a planta visível), arrastar com o toque orbita e a pinça aplica zoom. Não deve haver rolagem da página em nenhum lugar.
+- Cartão alternativo se navigator.gpu ou o adaptador estiver ausente: "Banana Jelly." + explicação; a cápsula exibe "WebGPU · Indisponível". Zero erros/avisos no console.
+
+A PLANTA (deve ser EXUBERANTE — muitas folhas grandes, nunca uma árvore esparsa ou pelada)
+- Um pedestal/prato baixo, redondo, brilhante e feito de gelatina creme; a planta fica enraizada no centro.
+- Pseudocaule: ~1.42 de altura, 9 segmentos, raio de 0.158→0.106, inclinado levemente para o lado oposto ao cacho.
+- Copa: 15 folhas grandes em forma de pá, dispostas em espiral pelo ângulo áureo (2.39996 rad). Folhas jovens quase verticais; as mais velhas se arqueiam para fora e pendem (elevação de 1.22→0.02 rad conforme a idade). Comprimento de 1.15–1.7, largura ≈0.3·escala, contorno da lâmina sin^0.38, leve dobra em V/cavidade ao longo da nervura central, algumas fendas irregulares causadas pelo vento (cunhas afuniladas, poucas), ondulação sutil nas bordas e folhas velhas ficando um pouco amareladas nas pontas.
+- Dois brotos (rebentos) na base, cada um com 4 folhas menores.
+- Haste do cacho: sai do topo da copa, sobe um pouco, arqueia por cima e pende reta para baixo (10 segmentos, comprimento 1.18); depois, um pescoço fino e o CORAÇÃO — um broto em forma de lágrima, roxo-escuro e vinho (flor cardíaca), feito de brácteas sobrepostas, com uma ou duas brácteas levantadas/curvadas para trás.
+- 5 pencas de bananas ao longo da haste pendente, abertas em leque em lados diferentes (passo azimutal de 2.2 rad), nas quantidades 7,7,6,6,5 = 31 bananas, ligeiramente maiores perto do topo. Cada banana: arco curvo analítico, seção transversal estriada (aproximadamente pentagonal), extremidade do talo afunilada e ponta escura, curvando-se para cima em direção à luz; poucas pintas escuras.
+
+SIMULATION
+- A planta inteira = uma árvore de nós com dinâmica baseada na posição a 240 Hz fixos (4 iterações do solver): restrições de comprimento + restrições de dobra em direção a uma orientação de repouso armazenada em relação ao frame pai (frames de quaternion transportados em paralelo). Rigidez por ordem (caule rígido, nervuras centrais das folhas elásticas, haste flexível, pescoço macio).
+- Cargas de gravidade: cada nó carrega o peso de suas folhas/bananas. Pré-compense a pose de repouso (itere 3×: estabilize, meça a curvatura e pré-dobre as orientações de repouso) para que, totalmente carregada, a planta fique exatamente no formato projetado; quando as bananas caírem, o cacho mais leve se eleva um pouco. As mudanças de carga devem ser suavizadas, não instantâneas.
+- Estabilize por 2,5 s silenciosamente ao carregar/redefinir (sem rasgos durante a estabilização).
+- Brisa: força de ruído suave nos nós das folhas (rajadas que percorrem a copa), escalada pelo slider; Brisa 0 = perfeitamente imóvel.
+- As lâminas e todas as malhas são deformadas por skinning na GPU a partir de um storage buffer com posições + frames dos nós (cada vértice: dois nós, uma fração e um deslocamento no frame).
+- As bananas do cacho pendem do nó de sua penca com uma pequena mola de oscilação amortecida (frequência 3.2+2.2·firme Hz, amortecimento definido pelo slider).
+- Destacamento: acompanhe a aceleração suavizada de cada penca; uma banana se solta quando a aceleração ultrapassa sua resistência (≈ 11+5·firme, variando conforme a fruta), com fadiga acumulada em sacudidas repetidas e um breve tempo de recarga por penca — sacudir deve derrubar bananas progressivamente (algumas por sacudida), nunca o cacho inteiro de uma vez.
+- "Sacudir a árvore" aplica uma sacudida de vários segundos ao caule com uma barra de progresso.
+- Bananas soltas são corpos rígidos (3 esferas ao longo do arco), com contatos por impulso e atrito contra o pedestal, o piso, o caule e umas contra as outras; entram em repouso quando paradas; limite de velocidade.
+- O descascamento acontece SOMENTE por impacto: se uma banana solta atingir uma superfície com velocidade normal pré-contato acima de ~5.4+1.2·firme, ela se rompe. Uma queda do cacho ou uma queda suave nunca a rompe. Ruptura = a casca se divide em 4 tiras a partir da ponta, que se dobram para trás ao redor de uma articulação próxima ao talo (dobra em arco seguida de segmento reto, pendendo sob a gravidade, com pequena variação entre as tiras), revelando a polpa cremosa translúcida. Conte-a em "Descascadas".
+
+INTERAÇÃO (ponteiro + toque)
+- Selecione bananas no cacho: puxá-la estica sua fixação; depois de ~0.075 de estiramento mantido brevemente, ela se solta na sua mão (somente aquela); impeça que o cacho seja puxado para longe (deslocamento limitado durante o toque; a fruta segurada não arrasta o cacho). Solte com a velocidade do ponteiro para arremessá-la.
+- Arraste o coração roxo: ele faz a haste balançar como um pêndulo e continua oscilando após ser solto; o balanço não deve derrubar bananas.
+- Arraste uma folha ou o caule: isso os curva, e eles voltam à posição com efeito de mola ao soltar.
+- Arraste um espaço vazio/use o botão direito: orbitar; roda/pinça: zoom; Redefinir vista restaura a câmera (az 0.55, el 0.2, FOV 36°).
+- Firmeza altera a rigidez, a resistência ao rasgo e o limiar de ruptura; Amortecimento interno altera o amortecimento da oscilação/balanço; Pausar congela o tempo; Redefinir faz o cacho completo crescer novamente.
+
+RENDERIZAÇÃO — o visual de gelatina
+- Tudo é gelatina: absorção de Beer–Lambert por espessura (sigma RGB por material), espalhamento subsuperficial envolvente, refração de um ambiente de estúdio suave, borda Fresnel + especular nítido, brilho interno suave; as folhas são gelatina fina translúcida, com nervuras/nervura central iluminadas por trás e cor mais intensa nas bordas.
+- Folhas translúcidas por OIT com mistura ponderada; bananas/caule/coração são gelatina quase opaca, com profundidade.
+- Sombra colorida: um mapa de transmitância é renderizado a partir da luz (as folhas tingem a sombra de verde, as bananas de dourado), desfocado e projetado no pedestal e no piso — uma sombra colorida, longa e suave à direita.
+- Paletas (troque todos os tons em tempo real):
+  • Cavendish — casca amarela vibrante (tint 1.0,0.8,0.08), pontas verdes, polpa cremosa, folhas verde-frescas (0.22,0.66,0.08), caule oliva, coração roxo-vinho profundo, pedestal creme.
+  • Red Dacca — casca vermelho-bordô (0.82,0.1,0.16), polpa pêssego-clara, folhas verdes um pouco mais quentes, caule avermelhado, pedestal rosado.
+  • Blue Java — casca azul-pó azul-esverdeada (0.56,0.8,0.86), polpa branca de "sorvete", folhas azul-esverdeadas, pedestal cinza-azulado frio.
+
+QA (Chromium headless com WebGPU SwiftShader)
+- Exponha um hook de depuração (window.__bj: advance, shake, pick, project, setPalette, reset, setPause, counts) e verifique: cacho completo com 31 bananas no início; ≥20 folhas; nada cai quando está ocioso; a brisa movimenta as folhas e Brisa 0 permanece imóvel; sacudir derruba algumas bananas sem descascá-las; as frutas caídas param; os contadores são atualizados; redefinir restaura o estado; uma banana puxada se solta sozinha; uma aterrissagem forte a descasca, uma queda suave não; o coração balança como um pêndulo sem derrubar frutas; as folhas se curvam e voltam; paletas/sliders/pausa/órbita/zoom funcionam; o teste de estresse não apresenta NaN; custo da simulação < 5 ms; nenhuma requisição de rede; nenhum erro no console; folha inferior + toque em dispositivos móveis; cartão alternativo.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2107186979502776590) · [Publicação original](https://x.com/N1njaCodex/status/2107187133173678156) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2107479802152472717"></a>
+
+### Enciclopédia interativa de vida selvagem Wild Atlas
+
+[IamAlam](https://x.com/_IamAlam) · 2026-10-06
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2107479802152472717"><img src="../assets/previews/58b1763f9947b348c6baf6e27de3c5a27097872757b52d78755d3313fb248342.jpg" width="840" loading="lazy" alt="Enciclopédia interativa de vida selvagem Wild Atlas"></a>
+
+Crie uma enciclopédia interativa premium de vida selvagem com cinco visualizações renderizadas de animais combinando entre si, cards de animais selecionáveis, rotação lenta, suporte para arrastar para girar, visualizações em close e um painel de informações dos animais que se atualiza.
+
+**Prompt**
+
+```text
+Crie um app web premium de enciclopédia de vida selvagem chamado “Wild Atlas.”
+
+Primeiro, crie toda a interface antes de gerar qualquer animal:
+- Fundo creme suave
+- Detalhes em verde-sálvia
+- Títulos elegantes com serifa
+- Barra lateral esquerda minimalista
+- Fileira horizontal de cards “Seres em destaque” na parte superior
+- Área central ampla para uma criatura 3D em rotação lenta
+- Painel de informações à direita que se atualiza para cada animal (nome, tags, características principais, habitat)
+- Uma legenda curta sob a criatura
+- Iluminação de estúdio suave, sombras delicadas, movimento tranquilo
+- Layout 16:9, transições suaves
+
+Depois, crie cinco animais principais como um conjunto consistente. Gere um de cada vez, em uma vista frontal ou de três quartos, usando a mesma iluminação, o mesmo fundo e o mesmo nível de detalhamento para que pareçam parte de uma única coleção. Inclua um panda-vermelho, um camaleão e três outros animais distintos à sua escolha.
+
+Para a experiência interativa, adicione:
+- Cards de animais clicáveis que trocam a criatura central
+- Rotação lenta de 360° do animal selecionado
+- Painel de informações à direita que se atualiza com nome, tags, características principais e habitat
+- Uma legenda sob cada criatura
+- Transições suaves entre as seleções
+
+Use visualizações renderizadas das criaturas em estilo turntable (é suficiente oferecer suporte para arrastar para girar e para close-ups; não é necessário criar uma cena 3D totalmente modelada). Mantenha o visual premium, discreto e semelhante ao de uma enciclopédia. Quando terminar, publique como um site privado funcional.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2107479802152472717) · [Publicação original](https://x.com/_IamAlam/status/2107480596926939638) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Defesa de Tanques sem Fim
@@ -3539,7 +3614,7 @@ Entregue o código-fonte, o lockfile, os comandos npm de desenvolvimento/build e
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 315 exemplos no site oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 317 exemplos no site oficial →</a></strong></p>
 <p><sub>Para manter a renderização do README do GitHub fluida, mostramos aqui apenas os 100 exemplos mais recentes.</sub></p>
 <br>
 </td></tr>
