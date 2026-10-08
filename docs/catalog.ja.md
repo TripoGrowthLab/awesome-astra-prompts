@@ -28,7 +28,7 @@
 **次のゲーム、シーン、インタラクティブな世界づくりのヒントに。**
 
 
-**320 · 最新の Astra プロンプト**
+**321 · 最新の Astra プロンプト**
 
 ## 注目の作品
 
@@ -52,7 +52,6 @@
 
 - [インタラクティブ3D解剖ビューア](#2099206962344800541) · GitHub
 - [アイソメトリックなファンタジーグラフィックスデモ](#2100271998618177864) · GitHub
-- [自動で折れる3D折り紙アニメーション](#2098909584996057283)
 - [頭部なし衣服モデルのUV展開と4K再ベイク](#2098980384260456813)
 - [プレイ可能な3Dブラウザ向け海岸地区スライス](#2099172061092381027)
 - [ピーチ城を3Dで再構築](#2099359786865402019)
@@ -146,6 +145,7 @@
 - [『見えない都市』のThree.jsビジュアライゼーション](#2107824019999535226)
 - [Battle City 3D：エンドレス戦車ディフェンス](#battle-city-3d)
 - [Crazy Tanks — 3Dアイランド砲撃戦](#crazy-tanks-3d-island-artillery)
+- [ジェリー・ヴィラ](#jelly-villa)
 - [ODD ARMS — 奇妙な武器のサバイバルゲーム](#odd-arms)
 - [TITANIC — 最後の光](#titanic-the-last-light)
 - [AKARI：名古屋の屋上をつなぐ炎のリレー](#akari-nagoya-rooftop-flame-relay)
@@ -196,30 +196,6 @@
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2100271998618177864) · [元の投稿](https://github.com/achimala/dream-loop) · [ソースコード](https://github.com/achimala/dream-loop) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="2098909584996057283"></a>
-
-### 自動で折れる3D折り紙アニメーション
-
-[AI Guides](https://x.com/free_ai_guides) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098909584996057283"><img src="../assets/previews/0cc6124463ff4763f52e30ffedab873b5e44d45017274f8f06188f3a7d110712.jpg" width="840" loading="lazy" alt="自動で折れる3D折り紙アニメーション"></a>
-
-作者によると、この公開プロンプトそのものをGPT-6 AstraとFable 5.1に入力したそうです。正方形の紙が目に見える折り目を作りながら回転し、分かりやすい折りの手順をたどって形を変え、展開して元に戻る動作を繰り返す、自動再生の3D折り紙アニメーションを求めています。
-
-**プロンプト**
-
-```text
-3D折り紙アニメーションを作成してください。平らな正方形の紙が、実際の折り目と紙の回転を見せながら、段階的に折れて分かりやすい折り紙作品になり、その後、平らな状態まで展開して繰り返すようにします。完成する作品と全体の見せ方は任せます。
-
-デザインに関するすべてをあなたの判断に委ねます。スタイル、色、雰囲気、環境、カメラ、ディテールの度合い、追加の演出などは自由に決めてください。質問はせず、すべて自分で判断し、1回の試行で可能な限り印象的なものを作成してください。
-
-技術要件：外部のモデル、画像、音声、アセットURLを一切使わない、単一の自己完結型HTMLファイルにしてください（CDNから読み込むJavaScriptライブラリは使用可）。読み込んだ瞬間からクリックなしで自動的に実行を開始し、コンソールエラーなしで滑らかに動作する必要があります。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098909584996057283) · [元の投稿](https://x.com/free_ai_guides/status/2098909584996057283) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -865,7 +841,7 @@ Blenderで完全にリアルなHD品質の3Dレンダリングモデルを作成
 
 [きのした](https://x.com/ujiden_type0) · 2026-09-17
 
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2100519026720231698"><img src="../assets/previews/000aacea97c0955d46b761f1a1e1e46f9d755a6347c0b4214dfb9ea67515b9f9.jpg" width="840" loading="lazy" alt="手摺にメンテ用チェーンを追加"></a>
+<a href="https://www.tripo3d.ai/ja/3d-prompts/cad-handrail-maintenance-chain"><img src="../assets/previews/000aacea97c0955d46b761f1a1e1e46f9d755a6347c0b4214dfb9ea67515b9f9.jpg" width="840" loading="lazy" alt="手摺にメンテ用チェーンを追加"></a>
 
 手摺へメンテナンス用のチェーンを追加するCADモデル編集の指示。
 
@@ -875,7 +851,7 @@ Blenderで完全にリアルなHD品質の3Dレンダリングモデルを作成
 手摺にメンテ用のチェーン付けて！
 ```
 
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2100519026720231698) · [元の投稿](https://x.com/ujiden_type0/status/2100519026720231698) · [作例一覧に戻る](#all-prompts)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/cad-handrail-maintenance-chain) · [元の投稿](https://x.com/ujiden_type0/status/2100519026720231698) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -1300,7 +1276,7 @@ Three.jsでWALL-Eの3Dモデルを作成してください。
 
 [vib3coded](https://x.com/vib3coded) · 2026-09-20
 
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2101730386711634251"><img src="../assets/previews/44c9844d75b0423e97757b9c59d7a87fe5794dfa55ced35efc7aaa0d9e5e24d0.jpg" width="840" loading="lazy" alt="Verdant — インタラクティブな3D恐竜アイランド"></a>
+<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-3d-dinosaur-island-diorama"><img src="../assets/previews/44c9844d75b0423e97757b9c59d7a87fe5794dfa55ced35efc7aaa0d9e5e24d0.jpg" width="840" loading="lazy" alt="Verdant — インタラクティブな3D恐竜アイランド"></a>
 
 @vib3codedによるVerdantの作者原文リクエスト。Three.jsとWebGLで構築する、インタラクティブな3D恐竜アイランドのジオラマです。恐竜たちが歩き回る島、滝、海生爬虫類が泳ぐ断面表示のラグーン、水中カメラの動き、動物への餌やりと卵の孵化、環境設定、雨、音楽を盛り込み、ブラウザですぐ動く単一のHTMLファイルとして納品する内容が指定されています。
 
@@ -1316,7 +1292,7 @@ Verdant — Three.js + WebGLで構築するインタラクティブな3Dジオ�
 すべてブラウザ上で、単一のHTMLファイルとして動作させます
 ```
 
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2101730386711634251) · [元の投稿](https://x.com/vib3coded/status/2101570806702559235) · [作例一覧に戻る](#all-prompts)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-3d-dinosaur-island-diorama) · [元の投稿](https://x.com/vib3coded/status/2101570806702559235) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -1580,9 +1556,9 @@ Follow／Overviewカメラ操作とVによる切り替えを画面上に表示�
 
 [nkz/ぴたすぽ](https://x.com/nikzu_) · 2026-09-22
 
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102411087002112256"><img src="../assets/previews/7ff7139cf9a4704071346a2f8e48c6da2922a9543faa8bd80454119406b69020.png" width="840" loading="lazy" alt="Sir, We Have Orc Problems風のTDゲーム"></a>
+<a href="https://www.tripo3d.ai/ja/3d-prompts/orc-tower-defense-game"><img src="../assets/previews/7ff7139cf9a4704071346a2f8e48c6da2922a9543faa8bd80454119406b69020.png" width="840" loading="lazy" alt="Sir, We Have Orc Problems風のTDゲーム"></a>
 
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102411087002112256"><img src="../assets/previews/497787bc84475fd87250548238200c034f565a9dcc7641b0ceccf733ce860152.jpg" width="840" loading="lazy" alt="Sir, We Have Orc Problems風のTDゲーム"></a>
+<a href="https://www.tripo3d.ai/ja/3d-prompts/orc-tower-defense-game"><img src="../assets/previews/497787bc84475fd87250548238200c034f565a9dcc7641b0ceccf733ce860152.jpg" width="840" loading="lazy" alt="Sir, We Have Orc Problems風のTDゲーム"></a>
 
 投稿者がAstraに依頼した、Sir, We Have Orc Problemsのようなタワーディフェンスゲームを作るためのプロンプト。
 
@@ -1592,7 +1568,7 @@ Follow／Overviewカメラ操作とVによる切り替えを画面上に表示�
 Sir, we have orc problemsみたいなTDゲーム作って
 ```
 
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102411087002112256) · [元の投稿](https://x.com/nikzu_/status/2102411087002112256) · [作例一覧に戻る](#all-prompts)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/orc-tower-defense-game) · [元の投稿](https://x.com/nikzu_/status/2102411087002112256) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -1759,7 +1735,7 @@ twigl.appで実行できる、視覚的に魅力的なシェーダーを作成�
 
 [noclipepe](https://x.com/noclipepe) · 2026-09-23
 
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102897258983313712"><img src="../assets/previews/7081447827f1c3142a1e647eae36ba49c69fe17b4006156a64e6e5a7d8977779.jpg" width="840" loading="lazy" alt="一人称バーガーシミュレーター"></a>
+<a href="https://www.tripo3d.ai/ja/3d-prompts/first-person-burger-cooking-simulator"><img src="../assets/previews/7081447827f1c3142a1e647eae36ba49c69fe17b4006156a64e6e5a7d8977779.jpg" width="840" loading="lazy" alt="一人称バーガーシミュレーター"></a>
 
 投稿者が、GPT-6 SolとGPT-6 Lunaを含む3つのモデルに、一人称視点のバーガーシミュレーターゲーム用として入力したと説明しているプロンプト。
 
@@ -1769,7 +1745,7 @@ twigl.appで実行できる、視覚的に魅力的なシェーダーを作成�
 一人称視点のバーガーシミュレーターを作成してください。
 ```
 
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102897258983313712) · [元の投稿](https://x.com/noclipepe/status/2102897258983313712) · [作例一覧に戻る](#all-prompts)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/first-person-burger-cooking-simulator) · [元の投稿](https://x.com/noclipepe/status/2102897258983313712) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -1779,7 +1755,7 @@ twigl.appで実行できる、視覚的に魅力的なシェーダーを作成�
 
 [Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24
 
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102915300295369208"><img src="../assets/previews/764e2d668b97fd0ae51f70fab3b1b2878a2cb5e18d43651083eb08c41758cf91.jpg" width="840" loading="lazy" alt="超リアルな砂漠の焚き火HTMLシーン"></a>
+<a href="https://www.tripo3d.ai/ja/3d-prompts/realistic-desert-campfire-interactive-scene"><img src="../assets/previews/764e2d668b97fd0ae51f70fab3b1b2878a2cb5e18d43651083eb08c41758cf91.jpg" width="840" loading="lazy" alt="超リアルな砂漠の焚き火HTMLシーン"></a>
 
 GPT 6 SolとOpus 5.5の評価ハーネスを比較するために投稿されたプロンプトです。夜の砂漠で燃え続ける超リアルな焚き火を中心に、周囲に丸太の切り株の椅子があり、星が見え、ときどき野生動物が姿を現す、シーンに合った高品質なサウンド付きのインタラクティブなHTMLシーンを1つ作成するよう求めています。
 
@@ -1796,7 +1772,7 @@ GPT 6 SolとOpus 5.5の評価ハーネスを比較するために投稿された
 ファイル名を付けてください（モデルに基づく名前）
 ```
 
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102915300295369208) · [元の投稿](https://x.com/Nixtrodamis/status/2102915567845794029) · [作例一覧に戻る](#all-prompts)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/realistic-desert-campfire-interactive-scene) · [元の投稿](https://x.com/Nixtrodamis/status/2102915567845794029) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -1896,7 +1872,7 @@ WGSLシェーダーによる本物のWebGPUレンダリングを使用してく�
 
 [Vib3Coded](https://x.com/vib3coded) · 2026-09-24
 
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2103187935759655167"><img src="../assets/previews/d8520ab42c6973da4541907e224aed200b691613a7b7bb3183774bb39e1ffdef.jpg" width="840" loading="lazy" alt="Northbound：ヴァイキングのロングシップで巡るインタラクティブな旅"></a>
+<a href="https://www.tripo3d.ai/ja/3d-prompts/viking-longship-fjord-threejs-journey"><img src="../assets/previews/d8520ab42c6973da4541907e224aed200b691613a7b7bb3183774bb39e1ffdef.jpg" width="840" loading="lazy" alt="Northbound：ヴァイキングのロングシップで巡るインタラクティブな旅"></a>
 
 詳細なヴァイキングのロングシップに乗り込み、フィヨルドを航行する、Three.jsとWebGLによるスタンドアロンのインタラクティブ3D体験向けに、作成者が用意したプロンプトです。映画的な北欧の環境、物理的に接続された船体構造、漕ぎ動作と水面接触エフェクト、操舵とカメラ操作、モバイル対応、ライティングモード、音声の挙動、埋め込み形式の配信アセットを指定しています。
 
@@ -1971,7 +1947,7 @@ W/Sキー：速度を調整します。
 オブジェクトを増やすことよりも、説得力のある水面、美しく構築されたロングシップ、まとまりのある環境を優先してください。
 ```
 
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2103187935759655167) · [元の投稿](https://x.com/vib3coded/status/2103189762672611675) · [作例一覧に戻る](#all-prompts)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/viking-longship-fjord-threejs-journey) · [元の投稿](https://x.com/vib3coded/status/2103189762672611675) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -2086,7 +2062,7 @@ TECH
 
 [tonysuri](https://x.com/tonysurix) · 2026-09-25
 
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2103351755971207251"><img src="../assets/previews/38d510439e2c3695b5acbb44c83317a5c0824a4b8b8305c45187d66ca6ebeccd.jpg" width="840" loading="lazy" alt="ゴールデンアワーのローマ戦場セットピース"></a>
+<a href="https://www.tripo3d.ai/ja/3d-prompts/golden-hour-roman-battlefield-blender-scene"><img src="../assets/previews/38d510439e2c3695b5acbb44c83317a5c0824a4b8b8305c45187d66ca6ebeccd.jpg" width="840" loading="lazy" alt="ゴールデンアワーのローマ戦場セットピース"></a>
 
 提供されたコンセプト画像をもとに、ゴールデンアワーのローマ戦場をリアルに再現する、Blender向けの詳細な制作タスクです。大きな岩で囲んだ1対1のアリーナ、バンプマップを使用した高精細な地面、可能な限りプロシージャルに生成したアセット、ゴールデンアワーのスカイボックス、硬い影、再利用可能なGLBアセットを指定し、.blendファイルと制作タイムラプスを納品します。
 
@@ -2109,7 +2085,7 @@ DELIVERABLES
 制作タイムラプス動画。
 ```
 
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2103351755971207251) · [元の投稿](https://x.com/tonysurix/status/2103352274269675532) · [作例一覧に戻る](#all-prompts)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/golden-hour-roman-battlefield-blender-scene) · [元の投稿](https://x.com/tonysurix/status/2103352274269675532) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -2468,7 +2444,7 @@ VALIDATION
 
 [Wësche](https://x.com/WescheNex1q) · 2026-09-28
 
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2104590493191479337"><img src="../assets/previews/643a23b0eaff495333c760e37ddc2036b908363d59f61d886f6598742a59a843.jpg" width="840" loading="lazy" alt="強度試験用3Dプリント対応Jフック"></a>
+<a href="https://www.tripo3d.ai/ja/3d-prompts/3d-printable-j-hook-openscad-strength-test"><img src="../assets/previews/643a23b0eaff495333c760e37ddc2036b908363d59f61d886f6598742a59a843.jpg" width="840" loading="lazy" alt="強度試験用3Dプリント対応Jフック"></a>
 
 3Dプリントと強度試験用に、PLA製の一体型Jフックを設計します。8 mmのスチールバーに手で取り付け、8 mmの荷重ピンを保持します。寸法、質量、保持力、滑り止めに関する要件を満たす必要があります。出力は、STL書き出しに適した完全なOpenSCADファイルです。
 
@@ -2490,7 +2466,7 @@ VALIDATION
 STLのテキストやGコードは不要です。OpenSCADのみ提示してください。最初の案が外れてしまう場合は、同じ回答内で別の案に置き換えてください。
 ```
 
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2104590493191479337) · [元の投稿](https://x.com/WescheNex1q/status/2104590493191479337) · [作例一覧に戻る](#all-prompts)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/3d-printable-j-hook-openscad-strength-test) · [元の投稿](https://x.com/WescheNex1q/status/2104590493191479337) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -2500,9 +2476,9 @@ STLのテキストやGコードは不要です。OpenSCADのみ提示してく�
 
 [Alejandro](https://x.com/AlejandroRomaan) · 2026-09-28
 
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2104605522640970208"><img src="../assets/previews/e9d956c6cfd11ddef0d83a4351ec53a5a04d44b4e42e72554986def5202e8d4a.jpg" width="840" loading="lazy" alt="インタラクティブなCRISPR教育用3D表現"></a>
+<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-crispr-dna-3d-visualization"><img src="../assets/previews/e9d956c6cfd11ddef0d83a4351ec53a5a04d44b4e42e72554986def5202e8d4a.jpg" width="840" loading="lazy" alt="インタラクティブなCRISPR教育用3D表現"></a>
 
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2104605522640970208"><img src="../assets/previews/549d486909b60fc933dfc5bff87aa14eb814f1a09c3bbbaf98bbe2601b322068.jpg" width="840" loading="lazy" alt="インタラクティブなCRISPR教育用3D表現"></a>
+<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-crispr-dna-3d-visualization"><img src="../assets/previews/549d486909b60fc933dfc5bff87aa14eb814f1a09c3bbbaf98bbe2601b322068.jpg" width="840" loading="lazy" alt="インタラクティブなCRISPR教育用3D表現"></a>
 
 CRISPRによるDNA技術を、インタラクティブかつ分かりやすく学べる3D表現です。DNA鎖と遺伝子編集の全プロセスを示し、各構成要素を識別できるようにします。ユーザーが関連する部分を選択すると、その役割や仕組みを学べるようにしてください。
 
@@ -2512,7 +2488,7 @@ CRISPRによるDNA技術を、インタラクティブかつ分かりやすく�
 CRISPRによるDNA技術の仕組みを学べる、インタラクティブな教育用3D表現を作成してください。使用する技術は、分かりやすく読みやすく、DNA鎖を表示できるものであれば自由に選んで構いません。遺伝子編集の一連の流れと各構成要素を確認でき、関連する部分を選択して詳しく学べるようにしてください。
 ```
 
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2104605522640970208) · [元の投稿](https://x.com/AlejandroRomaan/status/2104605522640970208) · [作例一覧に戻る](#all-prompts)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-crispr-dna-3d-visualization) · [元の投稿](https://x.com/AlejandroRomaan/status/2104605522640970208) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -2522,7 +2498,7 @@ CRISPRによるDNA技術の仕組みを学べる、インタラクティブな�
 
 [Fazley](https://x.com/itsfazley) · 2026-09-28
 
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2104613125093998674"><img src="../assets/previews/56d9ffba8a2359b42f24dc04f30b499e0cf7978bfdf55eae0aa43f35e533979c.jpg" width="840" loading="lazy" alt="月明かりのジャングルを進むインタラクティブなボートライド"></a>
+<a href="https://www.tripo3d.ai/ja/3d-prompts/moonlit-jungle-boat-ride-threejs-scene"><img src="../assets/previews/56d9ffba8a2359b42f24dc04f30b499e0cf7978bfdf55eae0aa43f35e533979c.jpg" width="840" loading="lazy" alt="月明かりのジャングルを進むインタラクティブなボートライド"></a>
 
 狭いジャングルの水路を進む、フルスクリーン対応のレスポンシブなThree.jsボートライド。プレイヤーはキーボードまたはタッチ操作で、誰も乗っていない木製の手こぎボートを操縦します。アニメーションする水面や航跡、月明かりの反射、環境音を備え、月夜・夜明け・雨の天候を切り替えられます。
 
@@ -2532,7 +2508,7 @@ CRISPRによるDNA技術の仕組みを学べる、インタラクティブな�
 狭いジャングルの水路を舞台に、フルスクリーン対応のレスポンシブなThree.jsボートライドを構築してください。先端が尖った船首、幅広の側面、平らな船尾、見える床板と座席を備えた、誰も乗っていない木製の手こぎボートを三人称カメラで追従します。オールは配置せず、船内は乾いた状態にし、船体は水面にわずかに沈んでいるようにしてください。WASDキーまたは矢印キー、タッチ操作で操縦できるようにします。シーンは夜の神秘的な雰囲気にし、両岸には密生した種類豊富でリアルな濃い緑色の木々を配置してください。微かな風、精細な満月、アニメーションする水面に途切れながら映る月明かりを表現します。説得力のある動く波、ボートと木々の歪んだ反射、ボートの通過した経路に沿って残り自然に薄れていく航跡を追加してください。固定された発光マークや硬い円形の境界線は使わないでください。月夜、暖かな夜明け、曇り空の雨を切り替えられる天候トグルを追加します。雨モードでは、降る雨粒と、水面の波に合わせた小さく短時間で消える着水の波紋を表示してください。水音、ジャングルの環境音、雨音は、控えめな音量で任意に追加できるようにします。インターフェースは最小限にしてください。デスクトップとモバイルの両方で、ビジュアル、操作、音声、カウンター、3種類すべての天候モードを確認してください。
 ```
 
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2104613125093998674) · [元の投稿](https://x.com/itsfazley/status/2104613128017522813) · [作例一覧に戻る](#all-prompts)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/moonlit-jungle-boat-ride-threejs-scene) · [元の投稿](https://x.com/itsfazley/status/2104613128017522813) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -2542,7 +2518,7 @@ CRISPRによるDNA技術の仕組みを学べる、インタラクティブな�
 
 [Marcel](https://x.com/marcthecreatorr) · 2026-09-28
 
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2104654448878387313"><img src="../assets/previews/487b700ccd9ea1cc1b22eefe925d0ca7231c3c4ba70772a05a71cd21dcce91ea.jpg" width="840" loading="lazy" alt="X線・分解表示に対応した変形スポーツカー"></a>
+<a href="https://www.tripo3d.ai/ja/3d-prompts/transforming-sports-car-robot-exploded-view"><img src="../assets/previews/487b700ccd9ea1cc1b22eefe925d0ca7231c3c4ba70772a05a71cd21dcce91ea.jpg" width="840" loading="lazy" alt="X線・分解表示に対応した変形スポーツカー"></a>
 
 MarcelがGPT-6 AstraとSonnet 5.5を比較するために提供したワンショットプロンプトです。人型ロボットに変形する、インタラクティブで詳細なスポーツカーを作成し、X線モードと分解表示モードを搭載するよう指定しています。
 
@@ -2552,7 +2528,7 @@ MarcelがGPT-6 AstraとSonnet 5.5を比較するために提供したワンシ�
 X線モードとインタラクティブな分解表示を備えた、詳細なスポーツカーを構築し、人型ロボットに変形できるようにする
 ```
 
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2104654448878387313) · [元の投稿](https://x.com/marcthecreatorr/status/2104654448878387313) · [作例一覧に戻る](#all-prompts)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/transforming-sports-car-robot-exploded-view) · [元の投稿](https://x.com/marcthecreatorr/status/2104654448878387313) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -2880,7 +2856,7 @@ OpenAIオリジナル動画のDubSpeak連携トランスクリプトには、矢
 
 [けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-03
 
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2106385060106777043"><img src="../assets/previews/53df380ec6620d54216251f13298ad3d83132ea05276ca497edc3639c660e1b0.jpg" width="840" loading="lazy" alt="山あいの川を進む操作可能な3Dボートシーン"></a>
+<a href="https://www.tripo3d.ai/ja/3d-prompts/mountain-river-boat-interactive-3d-scene"><img src="../assets/previews/53df380ec6620d54216251f13298ad3d83132ea05276ca497edc3639c660e1b0.jpg" width="840" loading="lazy" alt="山あいの川を進む操作可能な3Dボートシーン"></a>
 
 日本の山あいの川をボートで進むthree.js製3Dシーンを作成する指示です。矢印キーでのボート操作、昼・夜・雨の切り替え、夜間に川沿いの灯籠を発光させる機能を指定しています。投稿者はこの同一指示文をGPT-6 Astraへ1回送ったと述べています。
 
@@ -2890,7 +2866,7 @@ OpenAIオリジナル動画のDubSpeak連携トランスクリプトには、矢
 three.jsで、日本の山あいの川をボートで進む3Dシーンを作ってください。矢印キーでボートを操作でき、昼・夜・雨を切り替えられて、夜は川沿いの灯籠が光るようにしてください。
 ```
 
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2106385060106777043) · [元の投稿](https://x.com/kensumi_ai/status/2106385072266084741) · [作例一覧に戻る](#all-prompts)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/mountain-river-boat-interactive-3d-scene) · [元の投稿](https://x.com/kensumi_ai/status/2106385072266084741) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -2900,7 +2876,7 @@ three.jsで、日本の山あいの川をボートで進む3Dシーンを作っ�
 
 [けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-04
 
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2106737391948235164"><img src="../assets/previews/7832ff805e07d9d042bfa48b9d6befded51c8aa09f65c3685af345c95f2a378b.jpg" width="840" loading="lazy" alt="ブラウザで歩いて見て回れる家の3D空間"></a>
+<a href="https://www.tripo3d.ai/ja/3d-prompts/3d-house-browser-walkthrough"><img src="../assets/previews/7832ff805e07d9d042bfa48b9d6befded51c8aa09f65c3685af345c95f2a378b.jpg" width="840" loading="lazy" alt="ブラウザで歩いて見て回れる家の3D空間"></a>
 
 ブラウザで開く1ページとして、家の中を歩いて見て回れる3D空間を作成する指示。
 
@@ -2910,7 +2886,7 @@ three.jsで、日本の山あいの川をボートで進む3Dシーンを作っ�
 家の中を歩いて見て回れる3D空間を、ブラウザで開く1ページとして作ってください
 ```
 
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2106737391948235164) · [元の投稿](https://x.com/kensumi_ai/status/2106737391948235164) · [作例一覧に戻る](#all-prompts)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/3d-house-browser-walkthrough) · [元の投稿](https://x.com/kensumi_ai/status/2106737391948235164) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -2920,7 +2896,7 @@ three.jsで、日本の山あいの川をボートで進む3Dシーンを作っ�
 
 [Paruchh](https://x.com/theparuchh) · 2026-10-04
 
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2106824464092770455"><img src="../assets/previews/9bf4e6da4a2aea738b61431a28bddccd01b9453d6ea43fdf077391d50aac5753.jpg" width="840" loading="lazy" alt="架空のゲームのシネマティックトレーラーを作成"></a>
+<a href="https://www.tripo3d.ai/ja/3d-prompts/procedural-game-trailer-blender-animation"><img src="../assets/previews/9bf4e6da4a2aea738b61431a28bddccd01b9453d6ea43fdf077391d50aac5753.jpg" width="840" loading="lazy" alt="架空のゲームのシネマティックトレーラーを作成"></a>
 
 35～40秒の架空ゲーム向けシネマティックトレーラーを制作するための、制作者コメント用の完全なプロンプトです。プロシージャル生成された3Dワールド、クリーチャーまたはキャラクターのアニメーション、空気感のあるライティング、合成音声、ストーリーボードに基づくテンポ設計、品質チェック、再現可能なBlender/Pythonのソース一式を求めます。ルート投稿によると、GPT-6 Astraがこのプロンプトから紹介用トレーラーを制作しました。
 
@@ -2990,7 +2966,7 @@ DELIVERABLES
 完成するまで自律的に作業を続けてください
 ```
 
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2106824464092770455) · [元の投稿](https://x.com/theparuchh/status/2106825162209497583) · [作例一覧に戻る](#all-prompts)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/procedural-game-trailer-blender-animation) · [元の投稿](https://x.com/theparuchh/status/2106825162209497583) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -3000,7 +2976,7 @@ DELIVERABLES
 
 [けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-05
 
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2106944804756275690"><img src="../assets/previews/e5832410399df5ceabb2b7feb01c0250a3c8b328ccb83df0a8b153b87dad0a63.jpg" width="840" loading="lazy" alt="夜の小島で星のかけらを10個集める3Dゲーム"></a>
+<a href="https://www.tripo3d.ai/ja/3d-prompts/night-island-star-collecting-3d-game"><img src="../assets/previews/e5832410399df5ceabb2b7feb01c0250a3c8b328ccb83df0a8b153b87dad0a63.jpg" width="840" loading="lazy" alt="夜の小島で星のかけらを10個集める3Dゲーム"></a>
 
 投稿者がGPT-6 Astraに指示したと明示する、夜の小さな島を歩き回り、星のかけらを10個集めるブラウザ向け3Dゲームの作成プロンプトです。
 
@@ -3010,7 +2986,7 @@ DELIVERABLES
 夜の小さな島を歩き回って、星のかけらを10個集める3Dゲームを、ブラウザで遊べる1ページとして作ってください
 ```
 
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2106944804756275690) · [元の投稿](https://x.com/kensumi_ai/status/2106944821818720302) · [作例一覧に戻る](#all-prompts)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/night-island-star-collecting-3d-game) · [元の投稿](https://x.com/kensumi_ai/status/2106944821818720302) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -3020,7 +2996,7 @@ DELIVERABLES
 
 [Vib3Coded](https://x.com/vib3coded) · 2026-10-05
 
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2107127712871505976"><img src="../assets/previews/8aea77310a81607281a11c92f850b52fa1ea1d0e6e349ba5fae31e0296ecb1c8.jpg" width="840" loading="lazy" alt="ぬいぐるみのクモ — マテリアル研究 No. 015"></a>
+<a href="https://www.tripo3d.ai/ja/3d-prompts/webgpu-plush-spider-soft-body-physics"><img src="../assets/previews/8aea77310a81607281a11c92f850b52fa1ea1d0e6e349ba5fae31e0296ecb1c8.jpg" width="840" loading="lazy" alt="ぬいぐるみのクモ — マテリアル研究 No. 015"></a>
 
 自己完結型のネイティブWebGPUによる、インタラクティブなぬいぐるみのクモの研究作品を制作します。プロシージャル生成されたクモは、ソフトボディとワイヤー入り脚の物理演算、ブラシで整えられる外皮の毛、歩行・丸まり・糸で吊られる動作・手を振る動作に対応し、Hand、Finger、Combを直接操作できます。ルート投稿ではChatGPT-6 Astra版とOpus版を比較しており、このプロンプトは作者が認証済みコメントで提供したものです。
 
@@ -3097,7 +3073,7 @@ UI：
 - オービット操作とズーム、スマートフォン向けのレスポンシブな縦積みレイアウト、品質の自動調整、モーション低減への対応。
 ```
 
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2107127712871505976) · [元の投稿](https://x.com/vib3coded/status/2107128017503830119) · [作例一覧に戻る](#all-prompts)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/webgpu-plush-spider-soft-body-physics) · [元の投稿](https://x.com/vib3coded/status/2107128017503830119) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -3107,7 +3083,7 @@ UI：
 
 [NinjaCodex](https://x.com/N1njaCodex) · 2026-10-05
 
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2107186979502776590"><img src="../assets/previews/e5e4ba8cec9a2f18f6368adf534fa93b9e573285f94ace926035f367ddb44c80.jpg" width="840" loading="lazy" alt="バナナ・ジェリー"></a>
+<a href="https://www.tripo3d.ai/ja/3d-prompts/webgpu-banana-jelly-physics-simulation"><img src="../assets/previews/e5e4ba8cec9a2f18f6368adf534fa93b9e573285f94ace926035f367ddb44c80.jpg" width="840" loading="lazy" alt="バナナ・ジェリー"></a>
 
 みずみずしく半透明なジェリーのバナナの木を題材にした、インタラクティブなWebGPUマテリアルスタディ。Claude Opus 5.5とChatGPT-6 Astraの比較に寄せたコメントで作者が提示したプロンプトで、プロシージャルな植物ジオメトリ、物理ベースの動き、取り外せるバナナ、衝撃で起こる皮むき、パレット操作、タッチ／ポインター操作を指定しています。
 
@@ -3169,7 +3145,7 @@ QA（SwiftShader WebGPUを使用したヘッドレスChromium）
 - デバッグフック（window.__bj: advance, shake, pick, project, setPalette, reset, setPause, counts）を公開し、次を検証する：開始時に31本の完全な房があること。葉が20枚以上あること。アイドル時に何も落ちないこと。そよ風で葉が動き、Breeze 0では静止すること。揺らすとバナナがいくつか落ちるが、皮は弾けないこと。落ちた果実が静止すること。カウンターが更新されること。リセットで復元されること。引っ張ったバナナが1本だけ外れること。強く着地すると皮がむけ、そっと落とした場合はむけないこと。ハートが振り子として揺れ、果実を落とさないこと。葉が曲がって元に戻ること。パレット／スライダー／一時停止／周回／ズームが機能すること。ストレステストでNaNが発生しないこと。シミュレーションコストが5 ms未満であること。ネットワークリクエストがないこと。コンソールエラーがないこと。モバイルのボトムシート＋タッチ操作が機能すること。フォールバックカードが表示されること。
 ```
 
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2107186979502776590) · [元の投稿](https://x.com/N1njaCodex/status/2107187133173678156) · [作例一覧に戻る](#all-prompts)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/webgpu-banana-jelly-physics-simulation) · [元の投稿](https://x.com/N1njaCodex/status/2107187133173678156) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -3179,7 +3155,7 @@ QA（SwiftShader WebGPUを使用したヘッドレスChromium）
 
 [IamAlam](https://x.com/_IamAlam) · 2026-10-06
 
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2107479802152472717"><img src="../assets/previews/58b1763f9947b348c6baf6e27de3c5a27097872757b52d78755d3313fb248342.jpg" width="840" loading="lazy" alt="Wild Atlas インタラクティブ野生動物百科"></a>
+<a href="https://www.tripo3d.ai/ja/3d-prompts/wildlife-encyclopedia-interactive-3d-animal-viewer"><img src="../assets/previews/58b1763f9947b348c6baf6e27de3c5a27097872757b52d78755d3313fb248342.jpg" width="840" loading="lazy" alt="Wild Atlas インタラクティブ野生動物百科"></a>
 
 5種類の動物の統一感あるレンダリングビュー、選択可能な動物カード、ゆっくりとした回転、ドラッグ操作による回転、クローズアップ表示、動物ごとに更新される情報パネルを備えた、プレミアムなインタラクティブ野生動物百科を作成します。
 
@@ -3212,7 +3188,7 @@ QA（SwiftShader WebGPUを使用したヘッドレスChromium）
 ターンテーブル形式でレンダリングしたクリーチャービューを使用します（ドラッグによる回転とクローズアップに対応していれば十分で、完全にモデリングされた3Dシーンである必要はありません）。プレミアムで静か、百科事典のような雰囲気に仕上げます。完成したら、動作する非公開サイトとして公開してください。
 ```
 
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2107479802152472717) · [元の投稿](https://x.com/_IamAlam/status/2107480596926939638) · [作例一覧に戻る](#all-prompts)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/wildlife-encyclopedia-interactive-3d-animal-viewer) · [元の投稿](https://x.com/_IamAlam/status/2107480596926939638) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -3222,7 +3198,7 @@ QA（SwiftShader WebGPUを使用したヘッドレスChromium）
 
 [Vib3Coded](https://x.com/vib3coded) · 2026-10-06
 
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2107533363808485534"><img src="../assets/previews/3577fb25c99300f512c1ab63e5296bee76c80d9936bc376664be8399fc6f6908.jpg" width="840" loading="lazy" alt="ぬいぐるみのイカ。"></a>
+<a href="https://www.tripo3d.ai/ja/3d-prompts/webgpu-plush-squid-soft-body-physics"><img src="../assets/previews/3577fb25c99300f512c1ab63e5296bee76c80d9936bc376664be8399fc6f6908.jpg" width="840" loading="lazy" alt="ぬいぐるみのイカ。"></a>
 
 投稿者は、自己完結型HTMLファイルで動作する、インタラクティブなWebGPU製ぬいぐるみイカのスタディ用プロンプトを提供しました。プロシージャルなイカ、ソフトボディとクロスベースの動き、手・指・くしツールへの反応、噴射と驚きの挙動、エディトリアルな標本パネルUIを指定しています。
 
@@ -3248,7 +3224,7 @@ UI
 - エディトリアルなスタジオレイアウト：「素材研究 / No. 017」、大きなイタリック体のセリフ書体による「Plush Squid.」、短いキャプション、ライブステータスピル、標本パネル（ツール、染色スウォッチ、詰め物、毛足、呼吸；Jet、Strike、Startle、Smooth fur、Reset、Pause；Wander、¼ speed、Mesh）、読み出し（質量、体積％、噴射回数、しがみついている腕の数）、ノートを配置します。オービット／ズーム操作、モバイル向けの縦積みレイアウト、WebGPUフォールバックカードも含めます。
 ```
 
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2107533363808485534) · [元の投稿](https://x.com/vib3coded/status/2107533605945635233) · [作例一覧に戻る](#all-prompts)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/webgpu-plush-squid-soft-body-physics) · [元の投稿](https://x.com/vib3coded/status/2107533605945635233) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -3258,7 +3234,7 @@ UI
 
 [Vib3Coded](https://x.com/vib3coded) · 2026-10-06
 
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2107617244301664483"><img src="../assets/previews/862faa173b8996ddd2b3c6003d6c3c41adda9f8729b5bf936747605246e2bc9a.jpg" width="840" loading="lazy" alt="Villa Jelly"></a>
+<a href="https://www.tripo3d.ai/ja/3d-prompts/webgpu-tropical-villa-jelly-island-diorama"><img src="../assets/previews/862faa173b8996ddd2b3c6003d6c3c41adda9f8729b5bf936747605246e2bc9a.jpg" width="840" loading="lazy" alt="Villa Jelly"></a>
 
 モダンなトロピカルヴィラ、ラグーン、ヤシの木、浮かぶおもちゃ、自律航行するボートを収めた、自己完結型のWebGPUインタラクティブ3Dジェリーダイオラマ。ユーザーはゼリーの海をかき混ぜたり傾けたり、フレーバーの色を変えたり、物体を投げたり、ヤシの木を曲げたり、ボートを牽引したり、シーンをオービット操作したりできます。
 
@@ -3317,7 +3293,7 @@ QA（ヘッドレスChromium + SwiftShader）
 - デバッグフック window.__vj（world、boat、bodies、water、block、advance、drop、pick、project、setPalette、reset、setPause、freezeフラグ）。検証項目：開始時の物体6個と集計2/2/2。ヴィラ + ヤシ10本が構築されていること。ボートが14秒間に6単位以上、座礁せず周回し、泡と波を残すこと。アイドル時の安定性。落としたボールが高く浮き、アヒルが直立し、ヒトデが平らに沈むこと。集計UIが一致すること。かき混ぜると波が起こり、収まること。ブロックを傾けると海が低い側に集まり、元に戻ること。ボートをつかんで牽引でき、航路に復帰すること。ボールを海へ投げると揺れて浮き、アヒルを浜に置くと直立すること。ヤシの木が曲がること。フレーバー、スライダー、一時停止、オービット、ズームが機能すること。NaNが発生しないストレステスト。sim < 5 ms/frame、ネットワークリクエストなし、コンソールエラーなし、ページスクロールなし、モバイルシート + タッチ操作、WebGPUフォールバック。
 ```
 
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2107617244301664483) · [元の投稿](https://x.com/vib3coded/status/2107617476473164210) · [作例一覧に戻る](#all-prompts)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/webgpu-tropical-villa-jelly-island-diorama) · [元の投稿](https://x.com/vib3coded/status/2107617476473164210) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -3327,7 +3303,7 @@ QA（ヘッドレスChromium + SwiftShader）
 
 [quesma.com](https://quesma.com/) · 2026-10-07
 
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2107824019999535226"><img src="../assets/previews/5a1055902ebf648653a42e7ab254c5326c505a2bca9f96c7ed5ab8ed440ff0ab.jpg" width="840" loading="lazy" alt="『見えない都市』のThree.jsビジュアライゼーション"></a>
+<a href="https://www.tripo3d.ai/ja/3d-prompts/invisible-cities-threejs-interactive-visualization"><img src="../assets/previews/5a1055902ebf648653a42e7ab254c5326c505a2bca9f96c7ed5ab8ed440ff0ab.jpg" width="840" loading="lazy" alt="『見えない都市』のThree.jsビジュアライゼーション"></a>
 
 Piotr Migdałのリンク先の記事によると、イタロ・カルヴィーノの『見えない都市』をインタラクティブに可視化するため、Codex上のGPT-6 Astraにこのプロンプトを入力したとのことです。
 
@@ -3337,7 +3313,7 @@ Piotr Migdałのリンク先の記事によると、イタロ・カルヴィー�
 イタロ・カルヴィーノの『見えない都市』に登場するすべての都市を、three.js（pnpm）で可視化してください。質問はしないでください。これは一度きりのタスクです。作業時間は6時間あります。傑作になるまで、その時間を使い切ってください。
 ```
 
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2107824019999535226) · [元の投稿](https://quesma.com/blog/invisible-cities-one-shot/) · [作例一覧に戻る](#all-prompts)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/invisible-cities-threejs-interactive-visualization) · [元の投稿](https://quesma.com/blog/invisible-cities-one-shot/) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -3461,6 +3437,65 @@ UIは中国語、英語、日本語、韓国語に対応する。初回はデバ
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/crazy-tanks-3d-island-artillery) · [デモ](https://super-tanks-aftershock.tripo.page/) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="jelly-villa"></a>
+
+### ジェリー・ヴィラ
+
+[jared](https://x.com/jaredliu_bravo) · 2026-10-08
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/jelly-villa"><img src="../assets/previews/d89de585b8c44c48612e912fff0c35c56c9bed0a69eccc11498b0fd2c5f7f01c.png" width="840" loading="lazy" alt="ジェリー・ヴィラ"></a>
+
+宝石のような色合いのゼリーの海をかき混ぜ、ミニチュアヨットを引っぱり、トロピカルヴィラを囲むヤシの木を曲げます。コードで構築した風景と、実在するTripo P2のヴィラやヨットのモデルを、ひとつの生き生きとした島で切り替えて楽しめます。
+
+**プロンプト**
+
+```text
+1. プロジェクトの目標
+「Jelly Villa」を制作する。半透明のジェリーを切り出したブロックの上に、インタラクティブな南国のミニチュア・パラダイスを構築する。訪問者はラグーンをかき混ぜ、ミニチュアヨットを牽引し、ビーチトイを落とし、ヤシの木を曲げ、島全体を傾けられる。突然命を吹き込まれた、洗練された建築模型のように感じられる舞台にする。これはVib3CodedのVilla Jellyリファレンスをjaredが独自にリミックスしたもので、実際のTripo P2製ヴィラとヨットのアセットを使用する。jaredのクレジットはhttps://x.com/jaredliu_bravoで付与し、元作品への「Inspired by Vib3Coded」リンクは別に保持する。リファレンス作者の動画を、このリミックスの記録映像として提示しない。
+
+2. ビジュアルスタイルと比較
+リファレンス動画を基に、正方形のブロック、斜め上方からのカメラ、L字型のラグーン、植栽された奥側の高台、白いモダンハウス、豊かなヤシの木、層状の切断面、ゆっくり動くボートを構成する。一般的な島にするのではなく、これらの関係性を再現する。最終リミックスでは、元のネイティブWebGPU実装ではなくThree.js/WebGL2を使用し、標準的なブラウザのパイプラインで実際のGLBアセットを読み込めるようにする。
+#edeae3付近の温かみのある紙の背景、ダークなオリーブ・チャコール色の文字、極細の区切り線、控えめなエバーグリーンのアクセントを使う。左上には、Georgia風のセリフ体による大きな「Jelly / Villa.」のマストヘッドを置き、2行目はイタリック体にする。中央のジオラマを主役にし、周囲には余白を取り、右側には小さな操作パネル、下部には目立たない説明を配置する。UIは英語にする。メインカメラは正のx方向および正のz方向から見込み、透視視野角は34度にする。柔らかな暖色の直射光、クールなフィルライト、スタジオ環境光、リアルなキャストシャドウ、接地感のあるオブジェクト、フィルミックなトーンマッピングを使う。ガラス、塗装プラスター、チーク、砂、ゲルコート、金属、葉の各表面が明確に区別できるようにする。白飛びした植生や、平坦で不透明な水は避ける。
+モデルの上部に、目立つ「Before / Compare / After」コントロールを配置する。Beforeでは、装飾を完全に施したプロシージャルなヴィラとプロシージャルなヨットを使う。Afterでは、この2種類のオブジェクトだけを実際のTripoアセットに置き換える。Compareでは、カメラ、アニメーション時刻、地形、ヤシの木、水、ライティング、トイの状態を完全に同一にして、ドラッグ可能な分割画面で両方をレンダリングする。両側には正直に「Before · Code-built」「After · Tripo 3D」とラベルを付ける。仕切りを動かしてもシーンをリセットしない。モデルの読み込み後はAfterを初期状態にし、アセットが利用できない場合でも、表示可能なフォールバックと正確な読み込み中／エラー状態を維持する。
+
+3. ワールドと環境
+ブロックのサイズはシーン単位で5.2×5.2とする。上面は連続したハイトフィールドにし、ラグーンの床を約0.35、デフォルトの水位を1.04、植栽された高台を約1.50にする。島は奥側に配置し、つながったラグーンは手前側の2辺に沿わせる。砂浜の輪郭は適度に不規則にし、岸辺は滑らかにする。芝生からビーチへ下りる階段を設ける。正方形の切断面には、チョコレート、キャラメル、バニラ、ミントの薄い層と、小さな小石の含有物を露出させる。層の上には透明な垂直の水面を置き、繊細なメニスカスの縁を付ける。水面と切断面には同じカラーパレットを反映する。
+ヴィラは淡い色の石造テラスの奥に置き、ガーデンライト、低い開花 shrub、薄いストライプ状の芝生、点在する岩、ビーチグラスを配置する。ヴィラの周囲には、個別に曲げられるココヤシを正確に10本配置し、樹冠の間から建築が見える状態を保つ。それぞれに、湾曲した節のある幹、ココナッツ、弓なりに広がる羽状葉の豊かな樹冠を持たせ、平らな三角形の葉を数枚置くだけにはしない。クリーム色のスカラップ付きパラソル、ラウンジャー2台、テラコッタレッドのカヤックとパドルを岸辺の近くに追加する。これらのスケールは家より控えめにする。
+ヨット用に、ラグーン内を連続して通るルートを設定する。外周レーン、丸みのあるコーナー、内側レーンに沿う復路、緩やかなUターンで構成する。船体を岸や正方形の壁から離して保つ。地形と水は変形・反応できるようプロシージャルのままにし、島全体を単一の静的な生成メッシュに置き換えない。
+
+4. アセット一覧と固定スロット
+- ヴィラ：段状のフラットルーフ、ダークなガラス張りのファサード、細いフレーム、バルコニー、石造の基部、家具を備えた屋根付きテラスを持つ、モダンな白い南国リゾート住宅を1棟。奥側のテラスを占め、主要な置換アセットとなる。実際にインポートしたデザインとすべてのマテリアルマップを保持する。指定されたヴィラ用スロットにモデルを配置・接地し、カメラから見た正面ファサードと階段との位置関係を確認する。納品されたTripoモデルはファサードが3層構成になっている。リファレンスの家と完全に同一だとは主張しない。
+- ヨット：尖った船首を持つ白とネイビーのコンパクトなデイクルーザーを1隻。クリーム色のコックピットシート、チークデッキ、ウインドシールド、スリムなハードトップ、バウレール、船外機2基を備える。個別に読み込み、ラグーン内を移動させる。全長を正規化し、船首方向を確認し、水線を合わせ、テクスチャのディテールを保持する。BeforeとAfterでは同じモーション変換と浮力サンプリングを共有する。
+- ヤシの木：曲げ用スプリングを個別に選択でき、ジオメトリとマテリアルのファミリーを共有する、コード生成のヤシの木を10本。描画効率のため、静的パーツは結合したものを再利用する。
+- ビーチ小物：プロシージャルなパラソル、ラウンジャー、カヤック、パドル、岩、草、ライト、舗装、茂み。比較モードが変わっても、ジオメトリとマテリアルのディテールは同一に保つ。
+- トイ：ストライプ柄のビーチボール、黄色いラバーダック、サンゴ色のヒトデを再利用可能なファミリーとして用意する。初期状態では、ボール2個を陸上、アヒル2個を水面、ヒトデ2個をラグーンの底に置く。
+- 水、地形、泡、地層、ライティング、UI：コード生成のままにする。衝突判定用およびインタラクション用のプロキシは、表示される生成モデルのディテールから独立して扱う。
+ヴィラとヨットは、実際のTripo P2テキスト・トゥ・モデルアセットであり、同一オリジンのGLBファイルから読み込む。実際の生成プロンプトと出所情報は、この再現仕様とは分けてプロジェクト内に保持する。詳細なメッシュを画像やビルボードに置き換えず、プロシージャルな風景をTripoが生成したとは主張しない。
+
+5. インタラクションとフィードバック
+水面をドラッグして動くへこみや波紋を作り、離すと拡散させる。岸辺で減衰する、境界付きの有限差分ウェーブフィールドを実装し、パラメータに応じて剛性と減衰を変化させる。小さなアニメーション付きの水面波紋、屈折を思わせる深度ティント、滑らかなスペキュラハイライト、深度に応じた色、船尾の柔らかな航跡の飛沫を追加する。水の法線を三角形ごとのスクリーン微分から求めたり、同じ線模様を重ねたりしない。これらは芸術的なリアルタイム水面シミュレーションとして説明し、流体としての正確さを主張しない。
+島または切断面を引っ張り、シーン全体をせん断・圧縮する。基部を固定し、地形、水、切断面、建築物、植生、影に共通する非線形弾性フィールドを使う。離すと減衰しながらオーバーシュートする。表示された「Give the island a wobble」ボタンでも同じ効果を発生させる。水側面のジオメトリはローカルな地形の床より上に保ち、同一平面上の面が重なってちらつかないようにする。水のサンプリングとポインター座標には、同じミラーリングしていないグリッドを使い、補間された滑らかな高さと法線を使用する。ヤシの木をドラッグして曲げ、離すとスプリングと控えめなそよ風で元に戻す。
+ヨットは、約0.38～0.48シーン単位／秒で閉じたルートを自動的に航行する。波面をサンプリングして上下動とピッチを駆動し、控えめなロールを加え、船尾の後ろに水へのインパルスと徐々に消える泡を発生させる。訪問者がヨットをつかみ、航行可能な水域を牽引できるようにする。つかんだオフセットを保持し、減衰する慣性ターゲットに追従させる。離した時点の実際の位置と速度を保持し、その後ルートへ滑らかに舵を切る。パス上の点へテレポートさせない。独立した船体クリアランス用プロキシ、岸辺に沿ったスライド、速度制限、滑らかな向き、4点式スプリング浮力を使い、低速・高速・逆方向のドラッグでも安定させる。近くに浮かぶトイは押しのける。
+ドロップボタンを押すと、ビーチボール、アヒル、ヒトデのいずれかを上方から1個追加する。ボールは高い位置で浮き、アヒルは直立し、ヒトデは海底に沈む。トイが入るときに水しぶきと波紋を発生させる。トイのドラッグとリリース、重力、減衰する浮遊運動、地形との接触、壁の制限に対応する。Afloat、Sunk、Ashoreの数は、実際の剛体の状態から集計する。トイの総数は40個に制限し、繰り返し使用しても応答性を保てるよう、古いものから削除する。
+Turquoise、Curaçao、Raspberryのパレットを用意する。ジェリーの硬さは10～100、デフォルト50。減衰は5～90、デフォルト30。潮位は-10～+10cm、デフォルト0。リセットでトイ、物理演算、デフォルト値を復元する。Pauseではシミュレーション中の世界を停止し、Resumeで再開する。Reset viewでは構図を元に戻す。空白部分をドラッグ、または右ドラッグでオービットする。スクロールまたはピンチでズームする。狭い画面では島を操作可能な大きさに保ち、下部の「Make some waves」バーの背後に操作項目を折りたたむ。横スクロールやページスクロールは発生させない。
+海の環境音はローカルで合成し、ユーザー操作があるまで開始しない。Soundのオフ／オンを明示的に切り替えられるようにする。許可される環境ではフルスクリーンに対応し、デスクトップではPNG形式のポストカードを書き出せるようにする。Tripoの制作ワークスペースへ移動する「Make this paradise yours」リンクを明確に表示し、jelly-villaのアトリビューション用パラメータを付けて新しいタブで開く。
+
+6. 技術実装
+独立したVite + JavaScript + Three.jsプロジェクトとして構築し、専用のパッケージロックを用意する。ブラウザ側でサーバーやシークレットを必要としない構成にする。JavaScript、スタイル、GLBファイル、すべての実行時リソースを同一オリジンにバンドルする。個別のモデルスロットにはGLTFLoader、カメラ入力にはOrbitControls、スタジオ環境とシャドウマップを備えた物理ベースレンダラーを使用する。UIはフルスクリーンのキャンバス上にアクセシブルなHTMLとして配置する。サードパーティCDNのスクリプト、インラインの実行可能コード、外部テクスチャリクエスト、実行時の署名付きモデルURLには依存しない。
+GLBのバウンディングをプライベートなオリジナルを変更せずに正規化し、マップ、法線、UVを保持する。実行時の回転、スケール、圧縮があれば記録する。描画コールを抑えるため、静的な風景、各ヤシの木、プロシージャルモデル、トイを適切なマテリアルバッチにまとめる。高コストな透過パスや、常時保持される描画バッファは避ける。ピクセル比、ウェーブグリッド、泡パーティクルに上限を設け、全環境で60fpsを保証すると約束するのではなく、実際のフレームレートを確認する。requestAnimationFrameを上限付きのdelta time、固定シミュレーションサブステップ、減衰する入力、有限数値チェックとともに使用する。Pause中はアニメーションを停止し、比較モードを変更してもシーンを再生成・再シミュレーションしない。
+現在の状態、アセットの準備状況、カメラ投影、水のエネルギー、トイ、ボートの位置、Pause、パレット、比較モードを確認できる小さなデバッグインターフェースを用意する。これは検証用であり、実際のポインター操作やタッチ操作のテストの代替にはしない。管理されたカタログ向けダウンロードでは元のアセットファイルと出所情報を非公開にし、静的ビルドには必要な実行時コピーだけを含める。
+
+7. 完了条件
+インストール、ビルド、起動コマンドを含む編集可能なソースプロジェクト、本番用の静的ビルド、動作する公開デモを納品する。リファレンスに着想を得た構図、豊かなヤシの木、明瞭な切断面の地層、正しく接地されたヴィラ、実際のカメラから見て正しく位置合わせされたヨットを確認する。Before、After、移動後の比較仕切りをテストし、共有されるシーン状態が一致していることを確認する。2つのGLBが実際のジオメトリと埋め込みテクスチャを伴って読み込まれることを確認する。
+かき混ぜ、傾け、ヤシの木のドラッグ、ボートの牽引と航行再開、トイのドロップ／ドラッグ、集計、すべてのパレットとスライダー、Reset、Pause/Resume、オービット／ズーム、モバイル操作シート、任意のサウンド、フルスクリーン、ポストカード、制作リンクを実行して確認する。ボートを複数周航行させるチェック、低速・高速・逆方向の連続したボートドラッグ、岸辺と境界の引っ張り、リリース後の連続性、島を押し続けたときの変形、オーバーシュート、極端な波設定、トイの繰り返しドロップをテストする。水面の近接表示、4方向すべて、背面ビューを確認し、三角形状のハイライト、Zファイティング、穴、不安定な挙動、無制限な増加がないかを調べる。実際のポインター／タッチ入力だけでなく、物理演算のリグレッションテストも行う。デスクトップと狭い画面のスクリーンショット、コンソールおよびネットワークの失敗も確認する。デプロイ後と公開プロンプトページのiframe内でも同じ操作を検証する。測定結果とデバイス上の制限は正直に報告する。
+jaredのクレジットを付けた新しいjelly-villaプロンプトを公開し、元作者をRemix fromに設定し、公開Webページへのリンクを付け、現在のリミックスのスクリーンショットと現行の録画があればそれを使用する。リファレンス動画はソースの証拠としてのみ保持する。ローカライズ済みのCMSタイトル、説明、Meta、アセットメタデータを完成させる。目に見えるTripoの改善点は詳細なヴィラとヨットであり、周囲の世界は一定に保つ。
+
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/jelly-villa) · [デモ](https://jelly-villa.tripo.page/) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -3729,7 +3764,7 @@ Vite、TypeScript、Three.jsを使用し、地理情報、純粋な物理／ス�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 320 件の作例を公式サイトで見る →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 321 件の作例を公式サイトで見る →</a></strong></p>
 <p><sub>GitHub README をスムーズに表示するため、ここでは最新の作例 100 件のみを掲載しています。</sub></p>
 <br>
 </td></tr>

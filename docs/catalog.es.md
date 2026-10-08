@@ -28,7 +28,7 @@
 **Un punto de partida para tu próximo juego, escena o mundo interactivo.**
 
 
-**320 · Últimos prompts de Astra**
+**321 · Últimos prompts de Astra**
 
 ## Proyectos destacados
 
@@ -52,7 +52,6 @@
 
 - [Explorador interactivo de anatomía en 3D](#2099206962344800541) · GitHub
 - [Demo de gráficos de fantasía isométrica](#2100271998618177864) · GitHub
-- [Animación 3D de origami que se pliega sola](#2098909584996057283)
 - [Despliegue UV y rebakeo en 4K de un modelo de ropa sin cabeza](#2098980384260456813)
 - [Escena costera 3D jugable para navegador](#2099172061092381027)
 - [Reimagina el castillo de Peach en 3D](#2099359786865402019)
@@ -146,6 +145,7 @@
 - [Visualización en Three.js de Las ciudades invisibles](#2107824019999535226)
 - [Battle City 3D: Defensa de tanques sin fin](#battle-city-3d)
 - [Crazy Tanks — Artillería 3D en una isla](#crazy-tanks-3d-island-artillery)
+- [Villa de gelatina](#jelly-villa)
 - [ODD ARMS — Juego de supervivencia con armas extrañas](#odd-arms)
 - [TITANIC — La última luz](#titanic-the-last-light)
 - [AKARI: Relevo de la llama en las azoteas de Nagoya](#akari-nagoya-rooftop-flame-relay)
@@ -196,30 +196,6 @@ Crea una demo gráfica: cámara isométrica, estilo artístico tipo vóxel con s
 ```
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100271998618177864) · [Publicación original](https://github.com/achimala/dream-loop) · [Código fuente](https://github.com/achimala/dream-loop) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2098909584996057283"></a>
-
-### Animación 3D de origami que se pliega sola
-
-[AI Guides](https://x.com/free_ai_guides) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098909584996057283"><img src="../assets/previews/0cc6124463ff4763f52e30ffedab873b5e44d45017274f8f06188f3a7d110712.jpg" width="840" loading="lazy" alt="Animación 3D de origami que se pliega sola"></a>
-
-El autor afirma que este prompt abierto exacto se proporcionó a GPT-6 Astra y Fable 5.1. Solicita una animación 3D de origami que se ejecute de forma autónoma, en la que una hoja cuadrada se pliegue y rote visiblemente siguiendo una secuencia de pliegues reconocible, se despliegue y repita el proceso.
-
-**Prompt**
-
-```text
-Crea una animación 3D de origami. Una hoja cuadrada y plana debe plegarse sola, paso a paso, hasta convertirse en una figura de origami reconocible. Cada pliegue debe mostrarse como un pliegue y una rotación reales del papel. Después, la figura debe desplegarse hasta quedar plana y repetir el proceso. Tú decides en qué figura se convierte y cómo se presenta.
-
-Todo lo relacionado con el diseño queda a tu criterio: estilo, colores, ambiente, entorno, cámara, nivel de detalle y cualquier toque adicional. No me hagas preguntas; toma todas las decisiones por tu cuenta y crea la versión más impresionante que puedas en un solo intento.
-
-Requisitos técnicos: un único archivo HTML autocontenido, sin modelos, imágenes, sonidos ni URL de recursos externos de ningún tipo (se permite usar una biblioteca de JavaScript desde una CDN). Debe comenzar a ejecutarse automáticamente en cuanto se cargue, sin necesidad de hacer clic, funcionar con fluidez y no generar errores en la consola.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098909584996057283) · [Publicación original](https://x.com/free_ai_guides/status/2098909584996057283) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -863,7 +839,7 @@ Incluye cambios entre cámaras predefinidas con una transición suave mediante i
 
 [きのした](https://x.com/ujiden_type0) · 2026-09-17
 
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100519026720231698"><img src="../assets/previews/000aacea97c0955d46b761f1a1e1e46f9d755a6347c0b4214dfb9ea67515b9f9.jpg" width="840" loading="lazy" alt="Añadir una cadena de mantenimiento a la barandilla"></a>
+<a href="https://www.tripo3d.ai/es/3d-prompts/cad-handrail-maintenance-chain"><img src="../assets/previews/000aacea97c0955d46b761f1a1e1e46f9d755a6347c0b4214dfb9ea67515b9f9.jpg" width="840" loading="lazy" alt="Añadir una cadena de mantenimiento a la barandilla"></a>
 
 Instrucciones para editar un modelo CAD y añadir una cadena de mantenimiento a la barandilla.
 
@@ -873,7 +849,7 @@ Instrucciones para editar un modelo CAD y añadir una cadena de mantenimiento a 
 ¡Añade una cadena de mantenimiento a la barandilla!
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100519026720231698) · [Publicación original](https://x.com/ujiden_type0/status/2100519026720231698) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/cad-handrail-maintenance-chain) · [Publicación original](https://x.com/ujiden_type0/status/2100519026720231698) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1298,7 +1274,7 @@ crea un modelo 3D de WALL-E en Three.js.
 
 [vib3coded](https://x.com/vib3coded) · 2026-09-20
 
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2101730386711634251"><img src="../assets/previews/44c9844d75b0423e97757b9c59d7a87fe5794dfa55ced35efc7aaa0d9e5e24d0.jpg" width="840" loading="lazy" alt="Verdant — isla de dinosaurios 3D interactiva"></a>
+<a href="https://www.tripo3d.ai/es/3d-prompts/interactive-3d-dinosaur-island-diorama"><img src="../assets/previews/44c9844d75b0423e97757b9c59d7a87fe5794dfa55ced35efc7aaa0d9e5e24d0.jpg" width="840" loading="lazy" alt="Verdant — isla de dinosaurios 3D interactiva"></a>
 
 Solicitud textual del autor @vib3coded para Verdant, un diorama de isla 3D interactivo creado con Three.js y WebGL. Especifica dinosaurios que recorren la isla, una cascada y una laguna en corte, movimiento de cámara bajo el agua, interacciones para alimentar a los animales y eclosionar huevos, controles ambientales, lluvia, música y entrega en un único archivo HTML listo para el navegador.
 
@@ -1314,7 +1290,7 @@ Ajusta la marea, el viento y la hora del día, o activa una lluvia tropical mien
 Todo funciona directamente en el navegador, en un único archivo HTML
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2101730386711634251) · [Publicación original](https://x.com/vib3coded/status/2101570806702559235) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-3d-dinosaur-island-diorama) · [Publicación original](https://x.com/vib3coded/status/2101570806702559235) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1578,9 +1554,9 @@ Proporciona controles de cámara visibles Follow / Overview y el cambio mediante
 
 [nkz/ぴたすぽ](https://x.com/nikzu_) · 2026-09-22
 
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102411087002112256"><img src="../assets/previews/7ff7139cf9a4704071346a2f8e48c6da2922a9543faa8bd80454119406b69020.png" width="840" loading="lazy" alt="Juego de defensa de torres al estilo de Sir, We Have Orc Problems"></a>
+<a href="https://www.tripo3d.ai/es/3d-prompts/orc-tower-defense-game"><img src="../assets/previews/7ff7139cf9a4704071346a2f8e48c6da2922a9543faa8bd80454119406b69020.png" width="840" loading="lazy" alt="Juego de defensa de torres al estilo de Sir, We Have Orc Problems"></a>
 
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102411087002112256"><img src="../assets/previews/497787bc84475fd87250548238200c034f565a9dcc7641b0ceccf733ce860152.jpg" width="840" loading="lazy" alt="Juego de defensa de torres al estilo de Sir, We Have Orc Problems"></a>
+<a href="https://www.tripo3d.ai/es/3d-prompts/orc-tower-defense-game"><img src="../assets/previews/497787bc84475fd87250548238200c034f565a9dcc7641b0ceccf733ce860152.jpg" width="840" loading="lazy" alt="Juego de defensa de torres al estilo de Sir, We Have Orc Problems"></a>
 
 Prompt para pedirle a Astra que cree un juego de defensa de torres similar a Sir, We Have Orc Problems.
 
@@ -1590,7 +1566,7 @@ Prompt para pedirle a Astra que cree un juego de defensa de torres similar a Sir
 Crea un juego de defensa de torres como Sir, We Have Orc Problems
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102411087002112256) · [Publicación original](https://x.com/nikzu_/status/2102411087002112256) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/orc-tower-defense-game) · [Publicación original](https://x.com/nikzu_/status/2102411087002112256) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1757,7 +1733,7 @@ Crea un shader visualmente atractivo que pueda ejecutarse en twigl.app; haz que 
 
 [noclipepe](https://x.com/noclipepe) · 2026-09-23
 
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102897258983313712"><img src="../assets/previews/7081447827f1c3142a1e647eae36ba49c69fe17b4006156a64e6e5a7d8977779.jpg" width="840" loading="lazy" alt="Simulador de hamburguesas en primera persona"></a>
+<a href="https://www.tripo3d.ai/es/3d-prompts/first-person-burger-cooking-simulator"><img src="../assets/previews/7081447827f1c3142a1e647eae36ba49c69fe17b4006156a64e6e5a7d8977779.jpg" width="840" loading="lazy" alt="Simulador de hamburguesas en primera persona"></a>
 
 Un prompt que, según el autor de la publicación, proporcionó a tres modelos, incluidos GPT-6 Sol y GPT-6 Luna, para crear un juego de simulación de hamburguesas en primera persona.
 
@@ -1767,7 +1743,7 @@ Un prompt que, según el autor de la publicación, proporcionó a tres modelos, 
 crea un simulador de hamburguesas en primera persona.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102897258983313712) · [Publicación original](https://x.com/noclipepe/status/2102897258983313712) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/first-person-burger-cooking-simulator) · [Publicación original](https://x.com/noclipepe/status/2102897258983313712) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1777,7 +1753,7 @@ crea un simulador de hamburguesas en primera persona.
 
 [Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24
 
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102915300295369208"><img src="../assets/previews/764e2d668b97fd0ae51f70fab3b1b2878a2cb5e18d43651083eb08c41758cf91.jpg" width="840" loading="lazy" alt="Escena HTML hiperrealista e interactiva de una fogata en el desierto"></a>
+<a href="https://www.tripo3d.ai/es/3d-prompts/realistic-desert-campfire-interactive-scene"><img src="../assets/previews/764e2d668b97fd0ae51f70fab3b1b2878a2cb5e18d43651083eb08c41758cf91.jpg" width="840" loading="lazy" alt="Escena HTML hiperrealista e interactiva de una fogata en el desierto"></a>
 
 Prompt publicado por el autor y utilizado para comparar los harnesses de GPT 6 Sol y Opus 5.5. Solicita una única escena HTML interactiva que represente una fogata nocturna hiperrealista en el desierto, con asientos hechos de troncos cortos alrededor, estrellas visibles, fauna ocasional y sonido de alta calidad adaptado a la escena.
 
@@ -1794,7 +1770,7 @@ Haz que todo sea hiperrealista
 nombra el archivo (según el modelo)
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102915300295369208) · [Publicación original](https://x.com/Nixtrodamis/status/2102915567845794029) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/realistic-desert-campfire-interactive-scene) · [Publicación original](https://x.com/Nixtrodamis/status/2102915567845794029) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -1894,7 +1870,7 @@ El resultado debe transmitir la sensación de un pequeño experimento de caramel
 
 [Vib3Coded](https://x.com/vib3coded) · 2026-09-24
 
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2103187935759655167"><img src="../assets/previews/d8520ab42c6973da4541907e224aed200b691613a7b7bb3183774bb39e1ffdef.jpg" width="840" loading="lazy" alt="Rumbo al norte: viaje interactivo en un barco vikingo"></a>
+<a href="https://www.tripo3d.ai/es/3d-prompts/viking-longship-fjord-threejs-journey"><img src="../assets/previews/d8520ab42c6973da4541907e224aed200b691613a7b7bb3183774bb39e1ffdef.jpg" width="840" loading="lazy" alt="Rumbo al norte: viaje interactivo en un barco vikingo"></a>
 
 Un prompt proporcionado por el autor para un viaje interactivo independiente en 3D por un fiordo, creado con Three.js y WebGL, a bordo de un detallado barco vikingo. Especifica un entorno nórdico cinematográfico, la construcción físicamente conectada del barco, animaciones de remo y efectos de contacto con el agua, controles de dirección y cámara, compatibilidad con dispositivos móviles, modos de iluminación, comportamiento del audio y recursos integrados para la entrega.
 
@@ -1969,7 +1945,7 @@ Prueba la dirección, los modos de cámara, las transiciones de iluminación y e
 Da prioridad a un agua convincente, un barco vikingo magníficamente construido y un entorno cohesionado por encima de añadir más objetos.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2103187935759655167) · [Publicación original](https://x.com/vib3coded/status/2103189762672611675) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/viking-longship-fjord-threejs-journey) · [Publicación original](https://x.com/vib3coded/status/2103189762672611675) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2084,7 +2060,7 @@ NO añadas combate, inventario, sustos repentinos ni una búsqueda del tesoro. M
 
 [tonysuri](https://x.com/tonysurix) · 2026-09-25
 
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2103351755971207251"><img src="../assets/previews/38d510439e2c3695b5acbb44c83317a5c0824a4b8b8305c45187d66ca6ebeccd.jpg" width="840" loading="lazy" alt="Escena de campo de batalla romano a la hora dorada"></a>
+<a href="https://www.tripo3d.ai/es/3d-prompts/golden-hour-roman-battlefield-blender-scene"><img src="../assets/previews/38d510439e2c3695b5acbb44c83317a5c0824a4b8b8305c45187d66ca6ebeccd.jpg" width="840" loading="lazy" alt="Escena de campo de batalla romano a la hora dorada"></a>
 
 Una tarea detallada de Blender para crear una escena realista de un campo de batalla romano a la hora dorada, basada en una imagen conceptual proporcionada. Especifica una arena de 1 contra 1 rodeada de grandes rocas, un suelo muy detallado con mapas de relieve, recursos procedurales siempre que sea posible, un skybox con cielo de hora dorada, sombras marcadas, recursos GLB reutilizables y la entrega del archivo .blend junto con un vídeo time-lapse del proceso de construcción.
 
@@ -2107,7 +2083,7 @@ El archivo .blend, con la cámara y el viewport configurados para que la vista c
 El vídeo time-lapse del proceso de construcción.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2103351755971207251) · [Publicación original](https://x.com/tonysurix/status/2103352274269675532) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/golden-hour-roman-battlefield-blender-scene) · [Publicación original](https://x.com/tonysurix/status/2103352274269675532) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2466,7 +2442,7 @@ Crea un juego parecido a Genshin Impact y una herramienta para editar sus terren
 
 [Wësche](https://x.com/WescheNex1q) · 2026-09-28
 
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2104590493191479337"><img src="../assets/previews/643a23b0eaff495333c760e37ddc2036b908363d59f61d886f6598742a59a843.jpg" width="840" loading="lazy" alt="Gancho en J imprimible en 3D para una prueba de resistencia"></a>
+<a href="https://www.tripo3d.ai/es/3d-prompts/3d-printable-j-hook-openscad-strength-test"><img src="../assets/previews/643a23b0eaff495333c760e37ddc2036b908363d59f61d886f6598742a59a843.jpg" width="840" loading="lazy" alt="Gancho en J imprimible en 3D para una prueba de resistencia"></a>
 
 Diseña un gancho en J de PLA, de una sola pieza, para impresión 3D y pruebas de resistencia. Se coloca a mano en una barra de acero de 8 mm y sujeta un pasador de carga de 8 mm, con requisitos dimensionales, de masa, retención y antideslizamiento. El resultado solicitado es un archivo completo de OpenSCAD apto para exportarlo a STL.
 
@@ -2488,7 +2464,7 @@ Dame:
 No incluyas texto STL. No incluyas G-code. Solo OpenSCAD. Si la primera idea pudiera deslizarse y soltarse, sustitúyela en la misma respuesta.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2104590493191479337) · [Publicación original](https://x.com/WescheNex1q/status/2104590493191479337) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/3d-printable-j-hook-openscad-strength-test) · [Publicación original](https://x.com/WescheNex1q/status/2104590493191479337) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2498,9 +2474,9 @@ No incluyas texto STL. No incluyas G-code. Solo OpenSCAD. Si la primera idea pud
 
 [Alejandro](https://x.com/AlejandroRomaan) · 2026-09-28
 
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2104605522640970208"><img src="../assets/previews/e9d956c6cfd11ddef0d83a4351ec53a5a04d44b4e42e72554986def5202e8d4a.jpg" width="840" loading="lazy" alt="Representación educativa 3D interactiva de CRISPR"></a>
+<a href="https://www.tripo3d.ai/es/3d-prompts/interactive-crispr-dna-3d-visualization"><img src="../assets/previews/e9d956c6cfd11ddef0d83a4351ec53a5a04d44b4e42e72554986def5202e8d4a.jpg" width="840" loading="lazy" alt="Representación educativa 3D interactiva de CRISPR"></a>
 
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2104605522640970208"><img src="../assets/previews/549d486909b60fc933dfc5bff87aa14eb814f1a09c3bbbaf98bbe2601b322068.jpg" width="840" loading="lazy" alt="Representación educativa 3D interactiva de CRISPR"></a>
+<a href="https://www.tripo3d.ai/es/3d-prompts/interactive-crispr-dna-3d-visualization"><img src="../assets/previews/549d486909b60fc933dfc5bff87aa14eb814f1a09c3bbbaf98bbe2601b322068.jpg" width="840" loading="lazy" alt="Representación educativa 3D interactiva de CRISPR"></a>
 
 Una representación educativa 3D, interactiva y fácil de entender de la tecnología CRISPR aplicada al ADN. Debe mostrar una cadena de ADN y el proceso completo de edición genética, identificar cada componente y permitir que los usuarios seleccionen las partes relevantes para obtener información sobre ellas.
 
@@ -2510,7 +2486,7 @@ Una representación educativa 3D, interactiva y fácil de entender de la tecnolo
 Quiero que crees una representación educativa 3D interactiva sobre el funcionamiento de la tecnología CRISPR aplicada al ADN. Puedes elegir la tecnología que quieras, siempre que el resultado sea claro y fácil de entender, incluya una cadena de ADN y muestre el proceso completo de edición genética, así como la función de cada elemento. Debo poder seleccionar cualquier parte relevante para aprender sobre ella.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2104605522640970208) · [Publicación original](https://x.com/AlejandroRomaan/status/2104605522640970208) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-crispr-dna-3d-visualization) · [Publicación original](https://x.com/AlejandroRomaan/status/2104605522640970208) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2520,7 +2496,7 @@ Quiero que crees una representación educativa 3D interactiva sobre el funcionam
 
 [Fazley](https://x.com/itsfazley) · 2026-09-28
 
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2104613125093998674"><img src="../assets/previews/56d9ffba8a2359b42f24dc04f30b499e0cf7978bfdf55eae0aa43f35e533979c.jpg" width="840" loading="lazy" alt="Paseo interactivo en barca por la jungla bajo la luz de la luna"></a>
+<a href="https://www.tripo3d.ai/es/3d-prompts/moonlit-jungle-boat-ride-threejs-scene"><img src="../assets/previews/56d9ffba8a2359b42f24dc04f30b499e0cf7978bfdf55eae0aa43f35e533979c.jpg" width="840" loading="lazy" alt="Paseo interactivo en barca por la jungla bajo la luz de la luna"></a>
 
 Un paseo en barca a pantalla completa y adaptable creado con Three.js, a través de un estrecho canal selvático. Los jugadores dirigen una barca de remos de madera vacía con el teclado o controles táctiles, mientras disfrutan de agua animada, efectos de estela, reflejos de la luz de la luna, audio ambiental y opciones para cambiar entre noche de luna, amanecer y lluvia.
 
@@ -2530,7 +2506,7 @@ Un paseo en barca a pantalla completa y adaptable creado con Three.js, a través
 Crea un paseo en barca con Three.js, a pantalla completa y adaptable, ambientado en un estrecho canal selvático. Usa una cámara en tercera persona que siga a una barca de remos de madera vacía, con proa puntiaguda, costados anchos, popa plana, tablas del suelo y asientos visibles, sin remos, con el interior seco y el casco ligeramente sumergido en el agua. Permite que los usuarios la dirijan con WASD o las teclas de flecha, además de controles táctiles. Haz que la escena sea nocturna y misteriosa: árboles densos, variados y realistas de color verde oscuro en ambas orillas, viento sutil, una luna llena detallada y reflejos fragmentados de la luz lunar sobre el agua animada. Usa olas móviles convincentes, reflejos distorsionados de la barca y los árboles, y una estela que siga la trayectoria recorrida por la barca y se desvanezca de forma natural, sin marcas luminosas fijas ni bordes circulares definidos. Añade un selector meteorológico para elegir entre noche de luna, amanecer cálido y lluvia nublada; en el modo de lluvia, muestra gotas que caen y pequeñas ondas de impacto efímeras, cuya forma se vea influida por las olas del agua. Añade sonidos ambientales opcionales y sutiles de agua, jungla y lluvia. Mantén la interfaz minimalista. Comprueba los gráficos, los controles, el audio, el contador y los tres modos meteorológicos en ordenadores y dispositivos móviles.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2104613125093998674) · [Publicación original](https://x.com/itsfazley/status/2104613128017522813) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/moonlit-jungle-boat-ride-threejs-scene) · [Publicación original](https://x.com/itsfazley/status/2104613128017522813) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2540,7 +2516,7 @@ Crea un paseo en barca con Three.js, a pantalla completa y adaptable, ambientado
 
 [Marcel](https://x.com/marcthecreatorr) · 2026-09-28
 
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2104654448878387313"><img src="../assets/previews/487b700ccd9ea1cc1b22eefe925d0ca7231c3c4ba70772a05a71cd21dcce91ea.jpg" width="840" loading="lazy" alt="Coche deportivo transformable con vista explosionada de rayos X"></a>
+<a href="https://www.tripo3d.ai/es/3d-prompts/transforming-sports-car-robot-exploded-view"><img src="../assets/previews/487b700ccd9ea1cc1b22eefe925d0ca7231c3c4ba70772a05a71cd21dcce91ea.jpg" width="840" loading="lazy" alt="Coche deportivo transformable con vista explosionada de rayos X"></a>
 
 Prompt de una sola instrucción proporcionado por Marcel para comparar GPT-6 Astra y Sonnet 5.5. Solicita un coche deportivo interactivo y detallado que se transforme en un robot humanoide e incluya modos de rayos X y de vista explosionada.
 
@@ -2550,7 +2526,7 @@ Prompt de una sola instrucción proporcionado por Marcel para comparar GPT-6 Ast
 Crea un coche deportivo detallado que se transforme en un robot humanoide, con un modo de rayos X y una vista explosionada interactiva
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2104654448878387313) · [Publicación original](https://x.com/marcthecreatorr/status/2104654448878387313) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/transforming-sports-car-robot-exploded-view) · [Publicación original](https://x.com/marcthecreatorr/status/2104654448878387313) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2878,7 +2854,7 @@ Ahora quiero que hagas un juego 3D en el que esquive asteroides, usando las tecl
 
 [けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-03
 
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2106385060106777043"><img src="../assets/previews/53df380ec6620d54216251f13298ad3d83132ea05276ca497edc3639c660e1b0.jpg" width="840" loading="lazy" alt="Escena 3D de una barca navegable por un río entre montañas"></a>
+<a href="https://www.tripo3d.ai/es/3d-prompts/mountain-river-boat-interactive-3d-scene"><img src="../assets/previews/53df380ec6620d54216251f13298ad3d83132ea05276ca497edc3639c660e1b0.jpg" width="840" loading="lazy" alt="Escena 3D de una barca navegable por un río entre montañas"></a>
 
 Instrucciones para crear una escena 3D en three.js en la que una barca navega por un río entre las montañas de Japón. Especifica el control de la barca con las teclas de dirección, el cambio entre día, noche y lluvia, y que los faroles junto al río se iluminen por la noche. El autor afirma haber enviado estas mismas instrucciones una vez a GPT-6 Astra.
 
@@ -2888,7 +2864,7 @@ Instrucciones para crear una escena 3D en three.js en la que una barca navega po
 Crea con three.js una escena 3D en la que una barca navegue por un río entre las montañas de Japón. Permite controlar la barca con las teclas de dirección, cambiar entre día, noche y lluvia, y haz que los faroles junto al río se iluminen por la noche.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2106385060106777043) · [Publicación original](https://x.com/kensumi_ai/status/2106385072266084741) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/mountain-river-boat-interactive-3d-scene) · [Publicación original](https://x.com/kensumi_ai/status/2106385072266084741) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2898,7 +2874,7 @@ Crea con three.js una escena 3D en la que una barca navegue por un río entre la
 
 [けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-04
 
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2106737391948235164"><img src="../assets/previews/7832ff805e07d9d042bfa48b9d6befded51c8aa09f65c3685af345c95f2a378b.jpg" width="840" loading="lazy" alt="Espacio 3D de una casa que puedes recorrer en el navegador"></a>
+<a href="https://www.tripo3d.ai/es/3d-prompts/3d-house-browser-walkthrough"><img src="../assets/previews/7832ff805e07d9d042bfa48b9d6befded51c8aa09f65c3685af345c95f2a378b.jpg" width="840" loading="lazy" alt="Espacio 3D de una casa que puedes recorrer en el navegador"></a>
 
 Instrucciones para crear, como una página web que se abre en el navegador, un espacio 3D de una casa que se pueda recorrer y explorar.
 
@@ -2908,7 +2884,7 @@ Instrucciones para crear, como una página web que se abre en el navegador, un e
 Crea como una página web que se abra en el navegador un espacio 3D de una casa que se pueda recorrer y explorar.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2106737391948235164) · [Publicación original](https://x.com/kensumi_ai/status/2106737391948235164) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/3d-house-browser-walkthrough) · [Publicación original](https://x.com/kensumi_ai/status/2106737391948235164) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2918,7 +2894,7 @@ Crea como una página web que se abra en el navegador un espacio 3D de una casa 
 
 [Paruchh](https://x.com/theparuchh) · 2026-10-04
 
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2106824464092770455"><img src="../assets/previews/9bf4e6da4a2aea738b61431a28bddccd01b9453d6ea43fdf077391d50aac5753.jpg" width="840" loading="lazy" alt="Crea un tráiler cinematográfico para un juego ficticio"></a>
+<a href="https://www.tripo3d.ai/es/3d-prompts/procedural-game-trailer-blender-animation"><img src="../assets/previews/9bf4e6da4a2aea738b61431a28bddccd01b9453d6ea43fdf077391d50aac5753.jpg" width="840" loading="lazy" alt="Crea un tráiler cinematográfico para un juego ficticio"></a>
 
 Un prompt completo, con comentarios del autor, para un tráiler cinematográfico de un juego ficticio de 35–40 segundos. Solicita un mundo 3D generado proceduralmente, animación de criaturas o personajes, iluminación atmosférica, audio sintetizado, ritmo estructurado en un storyboard, revisión de calidad y entregables reproducibles con Blender/Python. La publicación principal indica que GPT-6 Astra creó el tráiler mostrado a partir de este prompt.
 
@@ -2988,7 +2964,7 @@ Elige tú las tecnologías dentro de estas restricciones
 Trabaja de forma autónoma hasta que el resultado final esté listo
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2106824464092770455) · [Publicación original](https://x.com/theparuchh/status/2106825162209497583) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/procedural-game-trailer-blender-animation) · [Publicación original](https://x.com/theparuchh/status/2106825162209497583) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -2998,7 +2974,7 @@ Trabaja de forma autónoma hasta que el resultado final esté listo
 
 [けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-05
 
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2106944804756275690"><img src="../assets/previews/e5832410399df5ceabb2b7feb01c0250a3c8b328ccb83df0a8b153b87dad0a63.jpg" width="840" loading="lazy" alt="Juego 3D para reunir 10 fragmentos de estrellas en una pequeña isla nocturna"></a>
+<a href="https://www.tripo3d.ai/es/3d-prompts/night-island-star-collecting-3d-game"><img src="../assets/previews/e5832410399df5ceabb2b7feb01c0250a3c8b328ccb83df0a8b153b87dad0a63.jpg" width="840" loading="lazy" alt="Juego 3D para reunir 10 fragmentos de estrellas en una pequeña isla nocturna"></a>
 
 Prompt para crear un juego 3D para navegador en el que recorres una pequeña isla de noche y reúnes 10 fragmentos de estrellas, indicando explícitamente que el autor de la publicación dio las instrucciones a GPT-6 Astra.
 
@@ -3008,7 +2984,7 @@ Prompt para crear un juego 3D para navegador en el que recorres una pequeña isl
 Crea un juego 3D en una sola página, jugable en el navegador, en el que recorras una pequeña isla de noche y reúnas 10 fragmentos de estrellas.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2106944804756275690) · [Publicación original](https://x.com/kensumi_ai/status/2106944821818720302) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/night-island-star-collecting-3d-game) · [Publicación original](https://x.com/kensumi_ai/status/2106944821818720302) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -3018,7 +2994,7 @@ Crea un juego 3D en una sola página, jugable en el navegador, en el que recorra
 
 [Vib3Coded](https://x.com/vib3coded) · 2026-10-05
 
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2107127712871505976"><img src="../assets/previews/8aea77310a81607281a11c92f850b52fa1ea1d0e6e349ba5fae31e0296ecb1c8.jpg" width="840" loading="lazy" alt="Araña de peluche — Estudios de materiales n.º 015"></a>
+<a href="https://www.tripo3d.ai/es/3d-prompts/webgpu-plush-spider-soft-body-physics"><img src="../assets/previews/8aea77310a81607281a11c92f850b52fa1ea1d0e6e349ba5fae31e0296ecb1c8.jpg" width="840" loading="lazy" alt="Araña de peluche — Estudios de materiales n.º 015"></a>
 
 Crea un estudio interactivo y autónomo de una araña de peluche nativa de WebGPU. La araña procedural cuenta con física de cuerpo blando y patas con alambre, pelaje del caparazón que se puede peinar, comportamientos de caminar, acurrucarse, colgarse de un hilo de seda y saludar, además de controles directos Mano, Dedo y Peine. La publicación principal compara una versión de ChatGPT-6 Astra con una versión de Opus; el autor proporcionó este prompt en un comentario verificado.
 
@@ -3095,7 +3071,7 @@ Interfaz:
 - Orbitar y aplicar zoom; diseño adaptable apilado en teléfonos; calidad adaptativa; compatibilidad con movimiento reducido.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2107127712871505976) · [Publicación original](https://x.com/vib3coded/status/2107128017503830119) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/webgpu-plush-spider-soft-body-physics) · [Publicación original](https://x.com/vib3coded/status/2107128017503830119) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -3105,7 +3081,7 @@ Interfaz:
 
 [NinjaCodex](https://x.com/N1njaCodex) · 2026-10-05
 
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2107186979502776590"><img src="../assets/previews/e5e4ba8cec9a2f18f6368adf534fa93b9e573285f94ace926035f367ddb44c80.jpg" width="840" loading="lazy" alt="Banana Jelly"></a>
+<a href="https://www.tripo3d.ai/es/3d-prompts/webgpu-banana-jelly-physics-simulation"><img src="../assets/previews/e5e4ba8cec9a2f18f6368adf534fa93b9e573285f94ace926035f367ddb44c80.jpg" width="840" loading="lazy" alt="Banana Jelly"></a>
 
 Un estudio interactivo de materiales en WebGPU sobre una exuberante planta de banano hecha de gelatina translúcida. El autor incluyó este prompt en un comentario sobre una comparación entre Claude Opus 5.5 y ChatGPT-6 Astra; especifica geometría procedural de la planta, movimiento impulsado por la física, bananas desprendibles, pelado activado por impactos, controles de paleta e interacción táctil y con puntero.
 
@@ -3167,7 +3143,7 @@ CONTROL DE CALIDAD (Chromium sin interfaz con WebGPU SwiftShader)
 - Expón un punto de depuración (window.__bj: advance, shake, pick, project, setPalette, reset, setPause, counts) y verifica: racimo completo de 31 al inicio; ≥20 hojas; nada cae cuando está inactivo; la brisa mueve las hojas y Brisa 0 permanece inmóvil; las sacudidas hacen caer algunas bananas sin pelarlas; los frutos caídos se detienen; los contadores se actualizan; restablecer recupera el estado; una banana tirada se desprende sola; un aterrizaje fuerte la pela y uno suave no; el corazón oscila como un péndulo sin dejar caer frutos; las hojas se doblan y vuelven a su posición; las paletas, los deslizadores, la pausa, la órbita y el zoom funcionan; la prueba de estrés no produce NaN; el coste de simulación es < 5 ms; no hay solicitudes de red; no hay errores de consola; la hoja móvil y el tacto funcionan; tarjeta alternativa.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2107186979502776590) · [Publicación original](https://x.com/N1njaCodex/status/2107187133173678156) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/webgpu-banana-jelly-physics-simulation) · [Publicación original](https://x.com/N1njaCodex/status/2107187133173678156) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -3177,7 +3153,7 @@ CONTROL DE CALIDAD (Chromium sin interfaz con WebGPU SwiftShader)
 
 [IamAlam](https://x.com/_IamAlam) · 2026-10-06
 
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2107479802152472717"><img src="../assets/previews/58b1763f9947b348c6baf6e27de3c5a27097872757b52d78755d3313fb248342.jpg" width="840" loading="lazy" alt="Enciclopedia interactiva de fauna Wild Atlas"></a>
+<a href="https://www.tripo3d.ai/es/3d-prompts/wildlife-encyclopedia-interactive-3d-animal-viewer"><img src="../assets/previews/58b1763f9947b348c6baf6e27de3c5a27097872757b52d78755d3313fb248342.jpg" width="840" loading="lazy" alt="Enciclopedia interactiva de fauna Wild Atlas"></a>
 
 Crea una enciclopedia interactiva de fauna de alta gama con cinco vistas renderizadas coherentes de animales, tarjetas de animales seleccionables, rotación lenta, compatibilidad con arrastrar para rotar, primeros planos y un panel de información animal que se actualiza.
 
@@ -3210,7 +3186,7 @@ Para la experiencia interactiva, añade:
 Usa vistas renderizadas de criaturas al estilo de un visor giratorio (basta con permitir arrastrar para rotar y hacer primeros planos; no es necesario crear una escena 3D completamente modelada). Mantén una estética premium, sobria y propia de una enciclopedia. Publícala como un sitio privado funcional al terminar.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2107479802152472717) · [Publicación original](https://x.com/_IamAlam/status/2107480596926939638) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/wildlife-encyclopedia-interactive-3d-animal-viewer) · [Publicación original](https://x.com/_IamAlam/status/2107480596926939638) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -3220,7 +3196,7 @@ Usa vistas renderizadas de criaturas al estilo de un visor giratorio (basta con 
 
 [Vib3Coded](https://x.com/vib3coded) · 2026-10-06
 
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2107533363808485534"><img src="../assets/previews/3577fb25c99300f512c1ab63e5296bee76c80d9936bc376664be8399fc6f6908.jpg" width="840" loading="lazy" alt="Calamar de peluche."></a>
+<a href="https://www.tripo3d.ai/es/3d-prompts/webgpu-plush-squid-soft-body-physics"><img src="../assets/previews/3577fb25c99300f512c1ab63e5296bee76c80d9936bc376664be8399fc6f6908.jpg" width="840" loading="lazy" alt="Calamar de peluche."></a>
 
 El autor de la publicación proporcionó un prompt para un estudio interactivo de un calamar de peluche con WebGPU, incluido en un archivo HTML autocontenido. Especifica un calamar procedural, movimiento basado en cuerpo blando y tela, herramientas interactivas de mano, dedo y peine, comportamientos de propulsión y sobresalto, y una interfaz editorial con panel de espécimen.
 
@@ -3246,7 +3222,7 @@ INTERFAZ
 - Diseño de estudio editorial: «Material Studies / No. 017», un «Calamar de peluche.» grande en cursiva serif, un pie breve, una píldora de estado en directo, un panel de espécimen (herramientas, muestras de tinte, relleno, pelo, respiración; Propulsión, Golpe, Sobresalto, Suavizar pelo, Restablecer, Pausar; Deambular, velocidad ¼, Malla), lecturas (masa, % de volumen, propulsiones, brazos aferrados), notas; órbita/zoom; diseño apilado para móviles; tarjeta alternativa para WebGPU.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2107533363808485534) · [Publicación original](https://x.com/vib3coded/status/2107533605945635233) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/webgpu-plush-squid-soft-body-physics) · [Publicación original](https://x.com/vib3coded/status/2107533605945635233) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -3256,7 +3232,7 @@ INTERFAZ
 
 [Vib3Coded](https://x.com/vib3coded) · 2026-10-06
 
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2107617244301664483"><img src="../assets/previews/862faa173b8996ddd2b3c6003d6c3c41adda9f8729b5bf936747605246e2bc9a.jpg" width="840" loading="lazy" alt="Villa Jelly"></a>
+<a href="https://www.tripo3d.ai/es/3d-prompts/webgpu-tropical-villa-jelly-island-diorama"><img src="../assets/previews/862faa173b8996ddd2b3c6003d6c3c41adda9f8729b5bf936747605246e2bc9a.jpg" width="840" loading="lazy" alt="Villa Jelly"></a>
 
 Un diorama 3D interactivo y autónomo de una isla de gelatina creado con WebGPU: una villa tropical moderna, una laguna, palmeras, juguetes flotantes y un barco autónomo. Los usuarios pueden remover e inclinar el mar de gelatina, cambiar los colores de los sabores, lanzar objetos, doblar palmeras, remolcar el barco y orbitar alrededor de la escena.
 
@@ -3315,7 +3291,7 @@ CONTROL DE CALIDAD (Chromium sin interfaz + SwiftShader)
 - Hook de depuración window.__vj (world, boat, bodies, water, block, advance, drop, pick, project, setPalette, reset, setPause, freeze flag). Verificar: 6 cuerpos iniciales y recuento 2/2/2; villa + 10 palmeras construidas; el barco completa ≥6 unidades en 14 s sin encallar y deja espuma + olas; estabilidad en reposo; la pelota soltada flota alto, el pato permanece erguido y la estrella de mar se hunde plana; la interfaz del recuento coincide; remover genera olas que se extinguen; inclinar el bloque acumula el mar en el lado bajo y vuelve a estabilizarlo; el barco se puede agarrar, remolcar y reanuda su rumbo; la pelota lanzada al mar cabecea, el pato colocado en la playa queda erguido; las palmeras se doblan; sabores, deslizadores, pausa, órbita y zoom; prueba de esfuerzo sin NaN; simulación < 5 ms/frame; sin solicitudes de red; sin errores de consola; sin desplazamiento de página; hoja móvil + táctil; alternativa para WebGPU.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2107617244301664483) · [Publicación original](https://x.com/vib3coded/status/2107617476473164210) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/webgpu-tropical-villa-jelly-island-diorama) · [Publicación original](https://x.com/vib3coded/status/2107617476473164210) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -3325,7 +3301,7 @@ CONTROL DE CALIDAD (Chromium sin interfaz + SwiftShader)
 
 [quesma.com](https://quesma.com/) · 2026-10-07
 
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2107824019999535226"><img src="../assets/previews/5a1055902ebf648653a42e7ab254c5326c505a2bca9f96c7ed5ab8ed440ff0ab.jpg" width="840" loading="lazy" alt="Visualización en Three.js de Las ciudades invisibles"></a>
+<a href="https://www.tripo3d.ai/es/3d-prompts/invisible-cities-threejs-interactive-visualization"><img src="../assets/previews/5a1055902ebf648653a42e7ab254c5326c505a2bca9f96c7ed5ab8ed440ff0ab.jpg" width="840" loading="lazy" alt="Visualización en Three.js de Las ciudades invisibles"></a>
 
 El artículo enlazado de Piotr Migdał afirma que utilizó este prompt con GPT-6 Astra en Codex para crear una visualización interactiva en Three.js de Las ciudades invisibles de Italo Calvino.
 
@@ -3335,7 +3311,7 @@ El artículo enlazado de Piotr Migdał afirma que utilizó este prompt con GPT-6
 Crea una visualización en three.js (pnpm) de todas Las ciudades invisibles de Italo Calvino. No hagas preguntas: es una tarea de una sola ejecución. Tienes 6 h de trabajo; úsalas hasta convertirla en una obra maestra.
 ```
 
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2107824019999535226) · [Publicación original](https://quesma.com/blog/invisible-cities-one-shot/) · [Volver a los ejemplos](#all-prompts)
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/invisible-cities-threejs-interactive-visualization) · [Publicación original](https://quesma.com/blog/invisible-cities-one-shot/) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -3459,6 +3435,65 @@ Entregar un proyecto fuente independiente y editable, un archivo de bloqueo, ins
 ```
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/crazy-tanks-3d-island-artillery) · [Demo en línea](https://super-tanks-aftershock.tripo.page/) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="jelly-villa"></a>
+
+### Villa de gelatina
+
+[jared](https://x.com/jaredliu_bravo) · 2026-10-08
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/jelly-villa"><img src="../assets/previews/d89de585b8c44c48612e912fff0c35c56c9bed0a69eccc11498b0fd2c5f7f01c.png" width="840" loading="lazy" alt="Villa de gelatina"></a>
+
+Remueve un mar de gelatina en tonos de joya, arrastra un yate en miniatura y curva las palmeras alrededor de una villa tropical. Desplázate entre un paisaje creado con código y modelos reales de villa y yate de Tripo P2 en la misma isla viviente.
+
+**Prompt**
+
+```text
+1. Objetivo del proyecto
+Crear «Jelly Villa», un paraíso tropical en miniatura e interactivo sobre un bloque de gelatina translúcida seccionado. El visitante remueve la laguna, remolca un yate en miniatura, deja juguetes de playa, dobla las palmeras e inclina la isla. El entorno debe parecer una elegante maqueta arquitectónica que, inesperadamente, ha cobrado vida. Este es el remix independiente de jared de la referencia Villa Jelly de Vib3Coded, con modelos reales de villa y yate de Tripo P2. Acredita a jared con https://x.com/jaredliu_bravo y conserva un enlace independiente «Inspired by Vib3Coded» a la obra original. No presentes el vídeo del autor de la referencia como una grabación de este remix.
+
+2. Estilo visual y comparación
+Usa el vídeo de referencia para establecer el bloque cuadrado, la cámara elevada en diagonal, la laguna en forma de L, la meseta plantada del fondo, la casa moderna blanca, las palmeras frondosas, las caras seccionadas en capas y el barco que se mueve suavemente. Recrea estas relaciones en lugar de crear una isla genérica. El remix final utiliza Three.js/WebGL2, no la implementación nativa original con WebGPU, para poder cargar modelos GLB reales mediante el flujo estándar del navegador.
+Usa un fondo de papel cálido alrededor de #edeae3, tipografía en carbón oliva oscuro, separadores de grosor mínimo y acentos verde bosque discretos. Coloca en la esquina superior izquierda un encabezado grande, con serifas al estilo Georgia, que diga «Jelly / Villa», con una segunda línea en cursiva. Mantén el diorama central como elemento dominante, con espacio alrededor de sus bordes, un pequeño panel de controles a la derecha e instrucciones discretas en la parte inferior. La interfaz está en inglés. La cámara principal mira desde x positivo y z positivo, con un campo de visión en perspectiva de 34 grados. Usa luz solar cálida y suave, luz de relleno fría, iluminación ambiental de estudio, sombras proyectadas realistas, objetos asentados y mapeado de tonos fílmico. Mantén diferenciadas las superficies de vidrio, yeso pintado, teca, arena, gelcoat, metal y hojas. Evita la vegetación deslavada y el agua opaca y plana.
+Coloca un control destacado «Before / Compare / After» sobre el modelo. «Before» utiliza una villa procedural totalmente decorada y un yate procedural. «After» sustituye únicamente esas dos familias de objetos por los modelos reales de Tripo. «Compare» renderiza ambos en una pantalla dividida y arrastrable, usando exactamente la misma cámara, el mismo tiempo de animación, terreno, palmeras, agua, iluminación y estado de los juguetes. Etiqueta ambos lados de forma honesta: «Before · Code-built» y «After · Tripo 3D». Mover el separador no debe reiniciar la escena. Usa «After» por defecto cuando se carguen los modelos; conserva un fallback visible y un estado de carga/error honesto si un recurso no está disponible.
+
+3. Mundo y entorno
+El bloque mide 5.2 por 5.2 unidades de escena. La parte superior es un campo de alturas continuo: suelo de la laguna cerca de 0.35, nivel de agua predeterminado de 1.04 y meseta plantada cerca de 1.50. Mantén la isla en la zona posterior; la laguna conectada sigue los dos bordes orientados hacia el frente. Da forma a orillas arenosas suavemente irregulares y a una ribera lisa, con escaleras que bajen del césped a la playa. Las caras seccionadas cuadradas dejan ver estratos finos de chocolate, caramelo, vainilla y menta, con diminutas inclusiones de guijarros. Las caras verticales transparentes del agua se sitúan sobre las capas, con un delicado borde de menisco. La superficie del agua y sus caras seccionadas responden a la misma paleta.
+Coloca la villa detrás de una terraza de piedra clara, con lámparas de jardín, arbustos florales bajos, césped con rayas sutiles, rocas dispersas y hierbas de playa. Distribuye exactamente diez palmeras de coco que puedan doblarse individualmente alrededor de la villa, conservando arquitectura visible entre sus copas. Cada una debe tener un tronco curvado y anillado, cocos y una copa completa de frondas pinnadas arqueadas, no unas pocas hojas triangulares planas. Añade una sombrilla crema festoneada, dos tumbonas, un kayak rojo terracota y su remo cerca de la orilla. Su escala debe seguir siendo secundaria respecto a la casa.
+Usa una ruta continua por la laguna para el yate: un carril exterior, una curva redondeada, el regreso por un carril interior y giros en U suaves. Mantén el casco alejado de la orilla y de las paredes cuadradas. El terreno y el agua deben seguir siendo procedurales para poder deformarse y reaccionar; no sustituyas toda la isla por una única malla estática generada.
+
+4. Inventario de recursos y ranuras estables
+- villa: una residencia moderna blanca de complejo tropical, con cubiertas planas escalonadas, fachada acristalada oscura, marcos finos, balcones, base de piedra y una terraza protegida amueblada. Ocupa la terraza posterior y es el recurso de sustitución principal. Conserva el diseño importado real y todos los mapas de materiales. Ajusta y asienta el modelo en la ranura de villa indicada, comprobando su fachada frontal respecto a la cámara y las escaleras. El modelo de Tripo entregado tiene tres niveles de fachada; no afirmes que es un duplicado exacto de la casa de referencia.
+- yate: un crucero de día compacto, blanco y azul marino, con casco puntiagudo, asientos de bañera color crema, cubierta de teca, parabrisas, techo rígido fino, barandilla de proa y dos motores fueraborda. Se carga de forma independiente y se desplaza por la laguna. Normaliza la longitud, verifica la dirección de la proa, alinea la línea de flotación y conserva el detalle de las texturas. «Before» y «After» comparten la misma transformación de movimiento y el mismo muestreo de flotación.
+- palmeras: diez palmeras creadas mediante código, con resortes de flexión seleccionables individualmente y familias compartidas de geometría/materiales. Reutiliza las partes estáticas combinadas para mejorar la eficiencia del renderizado.
+- elementos de playa: sombrilla, tumbonas, kayak, remo, rocas, hierba, lámparas, pavimento y arbustos procedurales. Su geometría y detalle de materiales deben permanecer idénticos en ambos modos de comparación.
+- juguetes: familias reutilizables de pelotas de playa a rayas, patos de goma amarillos y estrellas de mar coral. Empieza con dos pelotas en la orilla, dos patos flotando y dos estrellas de mar en el fondo de la laguna.
+- agua, terreno, espuma, estratos, iluminación e interfaz: deben seguir generándose mediante código. Trata los proxies de colisión e interacción de forma independiente del detalle visible del modelo generado.
+La villa y el yate son recursos reales de texto a modelo creados con Tripo P2, cargados desde archivos GLB del mismo origen. Conserva sus prompts reales de generación y su procedencia con el proyecto, separados de esta especificación de reproducción. No sustituyas las mallas detalladas por imágenes o vallas publicitarias, y no afirmes que el paisaje procedural fue generado por Tripo.
+
+5. Interacción y respuesta
+Arrastra sobre el agua para crear hundimientos y ondas en movimiento; suelta para que se dispersen. Implementa un campo de ondas acotado de diferencias finitas, amortiguado en la orilla, con rigidez y amortiguación dependientes de los parámetros. Añade pequeñas ondas animadas en la superficie, un tinte de profundidad de aspecto refractivo, reflejos especulares suaves, color dependiente de la profundidad y pequeñas salpicaduras de estela; no derives nunca las normales del agua de derivadas de pantalla por triángulo ni superpongas patrones de líneas repetidos. Describe esto como una simulación artística de agua en tiempo real, no como una afirmación de precisión de fluidos.
+Tira de la isla o de su cara seccionada para deformar por cizallamiento y aplastar toda la escena. Ancla la base y utiliza un campo elástico no lineal compartido para el terreno, el agua, las caras seccionadas, la arquitectura, la vegetación y las sombras. Al soltar, produce un sobreimpulso amortiguado. Un botón visible «Give the island a wobble» ofrece el mismo efecto. Mantén la geometría lateral del agua por encima del suelo local del terreno para que no parpadeen las caras coplanares superpuestas. El muestreo del agua y las coordenadas del puntero deben usar la misma cuadrícula sin espejo, con alturas y normales interpoladas suavemente. Arrastra una palmera para doblarla y suéltala para que recupere su posición con un resorte y una brisa sutil en reposo.
+El yate avanza automáticamente por su ruta cerrada a aproximadamente 0.38–0.48 unidades de escena por segundo. Muestrea la superficie de las ondas para controlar el cabeceo vertical y longitudinal, añade un balanceo moderado y genera impulsos de agua, además de espuma que se desvanece detrás de la popa. Permite que el visitante lo agarre y remolque por el agua navegable; conserva el desplazamiento del punto agarrado y sigue un objetivo inercial amortiguado. Al soltarlo, conserva la posición y velocidad reales y después gira suavemente hacia la ruta. No lo teletransportes nunca a un punto de la trayectoria. Usa un proxy independiente de despeje del casco, deslizamiento por la orilla, velocidad acotada, orientación suave y flotación con resortes en cuatro puntos para que los arrastres lentos, rápidos y en reversa sigan siendo estables. El yate aparta los juguetes flotantes cercanos.
+Los botones de objetos añaden desde arriba una pelota de playa, un pato o una estrella de mar. Las pelotas flotan a gran altura, los patos permanecen erguidos y las estrellas de mar se hunden hasta el fondo. Los juguetes producen una salpicadura y ondas al entrar. Admite arrastrar y soltar juguetes, gravedad, movimiento flotante amortiguado, contacto con el terreno y límites de las paredes. Calcula «Afloat», «Sunk» y «Ashore» a partir del estado real de cada cuerpo. Limita el total de juguetes a 40 retirando el más antiguo para que el uso repetido siga respondiendo con fluidez.
+Proporciona las paletas Turquoise, Curaçao y Raspberry; firmeza de la gelatina de 10–100, con valor predeterminado 50; amortiguación de 5–90, con valor predeterminado 30; marea de -10 a +10 cm, con valor predeterminado cero. Restablecer recupera los juguetes, la física y los valores predeterminados. Pausar congela el mundo simulado y Reanudar continúa. Restablecer vista recupera el encuadre. Orbita arrastrando un espacio vacío o arrastrando con el botón derecho; haz scroll o pellizca para ampliar. En pantallas estrechas, mantén la isla utilizable y agrupa los controles detrás de una barra inferior «Make some waves». Evita el desplazamiento horizontal o de la página.
+El ambiente oceánico se sintetiza localmente y comienza solo después de un gesto del usuario. Incluye un control explícito de sonido apagado/encendido. Proporciona pantalla completa cuando esté permitido y exportación de una postal PNG en escritorio. Mantén un enlace claro «Make this paradise yours» al espacio de creación de Tripo, con parámetros de atribución de jelly-villa, que se abra en una pestaña nueva.
+
+6. Implementación técnica
+Usa un proyecto independiente de Vite + JavaScript + Three.js, con su propio archivo de bloqueo de paquetes y sin necesidad de servidor ni secretos por parte del navegador. Empaqueta JavaScript, estilos, archivos GLB y todos los recursos de ejecución en el mismo origen. Usa GLTFLoader para las ranuras de modelo individuales, OrbitControls para la entrada de cámara y un renderizador basado físicamente con un entorno de estudio y un mapa de sombras. Mantén la interfaz como HTML accesible sobre un canvas a pantalla completa. No dependas de scripts de CDN de terceros, código ejecutable incrustado, solicitudes de texturas externas ni URL de modelos firmadas durante la ejecución.
+Normaliza los límites de los GLB sin mutar los originales privados; conserva mapas, normales y UV. Registra cualquier rotación, escala o compresión aplicada durante la ejecución. Combina el paisaje estático, cada palmera, cada modelo procedural y los juguetes en lotes de materiales adecuados para limitar las llamadas de dibujo; evita pases de transmisión costosos y un drawing buffer conservado permanentemente; limita la densidad de píxeles, la cuadrícula de ondas y las partículas de espuma, y comprueba la velocidad de fotogramas real en lugar de prometer 60 fps universales. Usa requestAnimationFrame con un delta de tiempo acotado, subpasos de simulación fijos, entrada amortiguada y comprobaciones de números finitos. Congela la animación durante Pausar; cambiar el modo de comparación no debe recrear ni volver a simular la escena.
+Expón una pequeña interfaz de depuración para el estado actual, la disponibilidad de los recursos, la proyección de la cámara, la energía del agua, los juguetes, la posición del barco, la pausa, la paleta y el modo de comparación. Sirve para la validación, no sustituye las pruebas reales con puntero y pantalla táctil. Mantén privados los archivos originales de recursos y su procedencia para descargas controladas del catálogo; incluye en la compilación estática solo las copias necesarias para la ejecución.
+
+7. Criterios de finalización
+Entrega un proyecto fuente editable con comandos de instalación, compilación e inicio, una compilación estática de producción y una demo pública funcional. Verifica la composición inspirada en la referencia, las palmeras frondosas, los estratos seccionados claramente visibles, la villa correctamente asentada y el yate correctamente alineado desde la cámara real. Prueba «Before», «After» y un separador de comparación desplazado, con el mismo estado compartido de la escena. Confirma que ambos GLB cargan con su geometría real y sus texturas incrustadas.
+Prueba remover, inclinar la isla, arrastrar palmeras, remolcar el barco y reanudar su navegación, soltar y arrastrar juguetes, el recuento, todas las paletas y controles deslizantes, Restablecer, Pausar/Reanudar, orbitar/ampliar, la hoja de controles móvil, el sonido opcional, la pantalla completa, la postal y el enlace de creación. Realiza una comprobación del barco durante varias vueltas, arrastres continuos lentos, rápidos y en reversa, tirones desde la orilla y los límites, continuidad al soltar, deformación mantenida de la isla, sobreimpulso, ajustes extremos de ondas y lanzamientos repetidos de juguetes. Inspecciona de cerca el agua, los cuatro lados y las vistas posteriores en busca de reflejos triangulares, z-fighting, agujeros, inestabilidad o crecimiento sin límites. Prueba la entrada real de puntero/pantalla táctil, además de las pruebas de regresión de física. Revisa capturas de escritorio y de pantalla estrecha, así como errores de consola/red. Valida las mismas interacciones después del despliegue y dentro del iframe público de la página de prompts. Informa con honestidad de los resultados medidos y las limitaciones del dispositivo.
+Publica un prompt nuevo de jelly-villa acreditado a jared, con el autor original en «Remix from», enlaza la página web publicada, usa capturas actuales del remix y cualquier grabación actual, y conserva el vídeo de referencia únicamente como evidencia de origen. Completa los títulos, descripciones, metadatos Meta y metadatos de recursos localizados en el CMS. La mejora visible de Tripo debe ser la villa y el yate detallados, manteniendo constante el mundo circundante.
+
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/jelly-villa) · [Demo en línea](https://jelly-villa.tripo.page/) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -3727,7 +3762,7 @@ Entrega el código fuente, el archivo de bloqueo, los comandos npm de desarrollo
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 320 ejemplos en el sitio oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 321 ejemplos en el sitio oficial →</a></strong></p>
 <p><sub>Para que el README de GitHub se renderice con fluidez, aquí solo se muestran los 100 ejemplos más recientes.</sub></p>
 <br>
 </td></tr>

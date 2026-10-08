@@ -28,7 +28,7 @@
 **為你的下一個遊戲、場景或互動世界尋找靈感。**
 
 
-**320 · 最新 Astra 提示詞**
+**321 · 最新 Astra 提示詞**
 
 ## 精選作品
 
@@ -52,7 +52,6 @@
 
 - [互動式 3D 解剖探索器](#2099206962344800541) · GitHub
 - [等角視角奇幻 3D 圖形展示](#2100271998618177864) · GitHub
-- [自動摺疊 3D 摺紙動畫](#2098909584996057283)
 - [無頭服裝模型的 UV 展開與 4K 重新烘焙](#2098980384260456813)
 - [可遊玩的 3D 瀏覽器海岸區域片段](#2099172061092381027)
 - [以 3D 重新構想碧姬城堡](#2099359786865402019)
@@ -146,6 +145,7 @@
 - [《看不見的城市》Three.js 視覺化](#2107824019999535226)
 - [Battle City 3D：無盡坦克防禦](#battle-city-3d)
 - [Crazy Tanks — 3D 島嶼火砲戰](#crazy-tanks-3d-island-artillery)
+- [果凍別墅](#jelly-villa)
 - [ODD ARMS — 怪奇武器生存遊戲](#odd-arms)
 - [TITANIC — 最後的光](#titanic-the-last-light)
 - [AKARI：名古屋屋頂火炬接力](#akari-nagoya-rooftop-flame-relay)
@@ -196,30 +196,6 @@
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100271998618177864) · [查看原文](https://github.com/achimala/dream-loop) · [專案原始碼](https://github.com/achimala/dream-loop) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2098909584996057283"></a>
-
-### 自動摺疊 3D 摺紙動畫
-
-[AI Guides](https://x.com/free_ai_guides) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098909584996057283"><img src="../assets/previews/0cc6124463ff4763f52e30ffedab873b5e44d45017274f8f06188f3a7d110712.jpg" width="840" loading="lazy" alt="自動摺疊 3D 摺紙動畫"></a>
-
-作者表示，這段完整的開放式提示詞曾提供給 GPT-6 Astra 和 Fable 5.1。提示詞要求製作一段可自行運行的 3D 摺紙動畫：正方形紙張必須清楚呈現摺痕，並依照可辨識的摺紙步驟逐步旋轉摺疊，接著展開並重複播放。
-
-**提示詞**
-
-```text
-製作一段 3D 摺紙動畫。平坦的正方形紙張必須逐步自行摺疊成可辨識的摺紙造型，每個摺疊動作都要以紙張實際產生摺痕與旋轉的方式呈現，接著展開恢復平整並重複播放。最後呈現的造型與整體展示方式由你決定。
-
-設計的所有細節都由你決定：風格、色彩、氛圍、環境、鏡頭、細節程度，以及任何額外效果。不要向我提問，所有選擇都自行決定，並在單次嘗試中製作出最令人印象深刻的版本。
-
-技術需求：必須是單一且自包含的 HTML 檔案，不得使用任何外部模型、圖片、音效或素材網址（使用 CDN 提供的 JavaScript 函式庫則不受限制）。檔案載入後必須立即自行開始運行，不需要點擊操作，且應流暢執行，不得產生主控台錯誤。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098909584996057283) · [查看原文](https://x.com/free_ai_guides/status/2098909584996057283) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -903,7 +879,7 @@ B 鱗脊鬥獸是比 A 更高、更寬厚的肌肉型雙足人形異獸，深青
 
 [きのした](https://x.com/ujiden_type0) · 2026-09-17
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100519026720231698"><img src="../assets/previews/000aacea97c0955d46b761f1a1e1e46f9d755a6347c0b4214dfb9ea67515b9f9.jpg" width="840" loading="lazy" alt="為欄杆新增維修用鏈條"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/cad-handrail-maintenance-chain"><img src="../assets/previews/000aacea97c0955d46b761f1a1e1e46f9d755a6347c0b4214dfb9ea67515b9f9.jpg" width="840" loading="lazy" alt="為欄杆新增維修用鏈條"></a>
 
 為欄杆新增維修用鏈條的 CAD 模型編輯指示。
 
@@ -913,7 +889,7 @@ B 鱗脊鬥獸是比 A 更高、更寬厚的肌肉型雙足人形異獸，深青
 幫我在欄杆上加裝維修用鏈條！
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100519026720231698) · [查看原文](https://x.com/ujiden_type0/status/2100519026720231698) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/cad-handrail-maintenance-chain) · [查看原文](https://x.com/ujiden_type0/status/2100519026720231698) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1338,7 +1314,7 @@ Marcel 分享的提示詞，與他提供給 Astra 的完全相同，用於要求
 
 [vib3coded](https://x.com/vib3coded) · 2026-09-20
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2101730386711634251"><img src="../assets/previews/44c9844d75b0423e97757b9c59d7a87fe5794dfa55ced35efc7aaa0d9e5e24d0.jpg" width="840" loading="lazy" alt="Verdant — 互動式 3D 恐龍島"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-3d-dinosaur-island-diorama"><img src="../assets/previews/44c9844d75b0423e97757b9c59d7a87fe5794dfa55ced35efc7aaa0d9e5e24d0.jpg" width="840" loading="lazy" alt="Verdant — 互動式 3D 恐龍島"></a>
 
 @vib3coded 為 Verdant 提出的原文需求：這是一座以 Three.js 和 WebGL 製作的互動式 3D 恐龍島場景模型。內容包括漫遊的恐龍、瀑布與剖面潟湖，以及水下鏡頭移動、餵食動物和孵化恐龍蛋等互動；還能控制環境、降雨與音樂，並以單一可直接在瀏覽器執行的 HTML 檔案交付。
 
@@ -1354,7 +1330,7 @@ Marcel 分享的提示詞，與他提供給 Astra 的完全相同，用於要求
 所有內容都能直接在瀏覽器中執行，並整合在單一 HTML 檔案內
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2101730386711634251) · [查看原文](https://x.com/vib3coded/status/2101570806702559235) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-3d-dinosaur-island-diorama) · [查看原文](https://x.com/vib3coded/status/2101570806702559235) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1618,9 +1594,9 @@ WebGL 無法使用時，顯示有用的替代訊息。
 
 [nkz/ぴたすぽ](https://x.com/nikzu_) · 2026-09-22
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102411087002112256"><img src="../assets/previews/7ff7139cf9a4704071346a2f8e48c6da2922a9543faa8bd80454119406b69020.png" width="840" loading="lazy" alt="《Sir, We Have Orc Problems》風格的塔防遊戲"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/orc-tower-defense-game"><img src="../assets/previews/7ff7139cf9a4704071346a2f8e48c6da2922a9543faa8bd80454119406b69020.png" width="840" loading="lazy" alt="《Sir, We Have Orc Problems》風格的塔防遊戲"></a>
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102411087002112256"><img src="../assets/previews/497787bc84475fd87250548238200c034f565a9dcc7641b0ceccf733ce860152.jpg" width="840" loading="lazy" alt="《Sir, We Have Orc Problems》風格的塔防遊戲"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/orc-tower-defense-game"><img src="../assets/previews/497787bc84475fd87250548238200c034f565a9dcc7641b0ceccf733ce860152.jpg" width="840" loading="lazy" alt="《Sir, We Have Orc Problems》風格的塔防遊戲"></a>
 
 發文者請 Astra 製作一款類似《Sir, We Have Orc Problems》的塔防遊戲所使用的提示詞。
 
@@ -1630,7 +1606,7 @@ WebGL 無法使用時，顯示有用的替代訊息。
 製作一款像《Sir, We Have Orc Problems》的塔防遊戲
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102411087002112256) · [查看原文](https://x.com/nikzu_/status/2102411087002112256) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/orc-tower-defense-game) · [查看原文](https://x.com/nikzu_/status/2102411087002112256) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1797,7 +1773,7 @@ Azer 提出的提示詞要求使用 Blender 製作一棟包含完整室內空間
 
 [noclipepe](https://x.com/noclipepe) · 2026-09-23
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102897258983313712"><img src="../assets/previews/7081447827f1c3142a1e647eae36ba49c69fe17b4006156a64e6e5a7d8977779.jpg" width="840" loading="lazy" alt="第一人稱漢堡模擬器"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/first-person-burger-cooking-simulator"><img src="../assets/previews/7081447827f1c3142a1e647eae36ba49c69fe17b4006156a64e6e5a7d8977779.jpg" width="840" loading="lazy" alt="第一人稱漢堡模擬器"></a>
 
 發文者表示，他將這段提示詞提供給包括 GPT-6 Sol 和 GPT-6 Luna 在內的三個模型，用於製作一款第一人稱漢堡模擬遊戲。
 
@@ -1807,7 +1783,7 @@ Azer 提出的提示詞要求使用 Blender 製作一棟包含完整室內空間
 建立一款第一人稱漢堡模擬器。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102897258983313712) · [查看原文](https://x.com/noclipepe/status/2102897258983313712) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/first-person-burger-cooking-simulator) · [查看原文](https://x.com/noclipepe/status/2102897258983313712) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1817,7 +1793,7 @@ Azer 提出的提示詞要求使用 Blender 製作一棟包含完整室內空間
 
 [Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102915300295369208"><img src="../assets/previews/764e2d668b97fd0ae51f70fab3b1b2878a2cb5e18d43651083eb08c41758cf91.jpg" width="840" loading="lazy" alt="超寫實互動式沙漠營火 HTML 場景"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/realistic-desert-campfire-interactive-scene"><img src="../assets/previews/764e2d668b97fd0ae51f70fab3b1b2878a2cb5e18d43651083eb08c41758cf91.jpg" width="840" loading="lazy" alt="超寫實互動式沙漠營火 HTML 場景"></a>
 
 作者發布的提示詞，用於比較 GPT 6 Sol 與 Opus 5.5 測試框架。提示詞要求製作單一互動式 HTML 場景，呈現超寫實的夜間沙漠營火、營火周圍以木樁製成的座椅、清晰可見的星星、偶爾出現的野生動物，以及符合場景的高品質音效。
 
@@ -1834,7 +1810,7 @@ Azer 提出的提示詞要求使用 Blender 製作一棟包含完整室內空間
 命名檔案（依模型命名）
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102915300295369208) · [查看原文](https://x.com/Nixtrodamis/status/2102915567845794029) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/realistic-desert-campfire-interactive-scene) · [查看原文](https://x.com/Nixtrodamis/status/2102915567845794029) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -1934,7 +1910,7 @@ CONTROLS
 
 [Vib3Coded](https://x.com/vib3coded) · 2026-09-24
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103187935759655167"><img src="../assets/previews/d8520ab42c6973da4541907e224aed200b691613a7b7bb3183774bb39e1ffdef.jpg" width="840" loading="lazy" alt="向北：互動維京長船之旅"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/viking-longship-fjord-threejs-journey"><img src="../assets/previews/d8520ab42c6973da4541907e224aed200b691613a7b7bb3183774bb39e1ffdef.jpg" width="840" loading="lazy" alt="向北：互動維京長船之旅"></a>
 
 作者提供的提示詞，用於製作一段以 Three.js 和 WebGL 建構、可獨立運作的互動式 3D 峽灣航行體驗：搭乘細節豐富的維京長船，穿越峽灣。內容指定了電影感的北歐環境、船體各部件的實際連接、划槳與接觸水面的動畫效果、轉向與鏡頭控制、行動裝置支援、光照模式、音訊行為，以及內嵌的交付資產。
 
@@ -2009,7 +1985,7 @@ W/S：調整速度。
 優先做好可信的水面、精心打造的長船與協調一致的環境，而不是加入更多物件。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103187935759655167) · [查看原文](https://x.com/vib3coded/status/2103189762672611675) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/viking-longship-fjord-threejs-journey) · [查看原文](https://x.com/vib3coded/status/2103189762672611675) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2125,7 +2101,7 @@ UI — 編輯風格，不要有遊戲感
 
 [tonysuri](https://x.com/tonysurix) · 2026-09-25
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103351755971207251"><img src="../assets/previews/38d510439e2c3695b5acbb44c83317a5c0824a4b8b8305c45187d66ca6ebeccd.jpg" width="840" loading="lazy" alt="黃金時刻羅馬戰場場景"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/golden-hour-roman-battlefield-blender-scene"><img src="../assets/previews/38d510439e2c3695b5acbb44c83317a5c0824a4b8b8305c45187d66ca6ebeccd.jpg" width="840" loading="lazy" alt="黃金時刻羅馬戰場場景"></a>
 
 一項詳細的 Blender 任務：根據提供的概念圖，製作寫實的黃金時刻羅馬戰場場景。內容指定以巨石環繞的一對一競技場、使用凹凸貼圖的高細節地面、可行時採用程序化製作的資產、黃金時刻天空盒、強烈陰影、可重複使用的 GLB 資產，以及交付 .blend 檔案與製作縮時影片。
 
@@ -2148,7 +2124,7 @@ DELIVERABLES
 製作縮時影片。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103351755971207251) · [查看原文](https://x.com/tonysurix/status/2103352274269675532) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/golden-hour-roman-battlefield-blender-scene) · [查看原文](https://x.com/tonysurix/status/2103352274269675532) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2507,7 +2483,7 @@ VALIDATION
 
 [Wësche](https://x.com/WescheNex1q) · 2026-09-28
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104590493191479337"><img src="../assets/previews/643a23b0eaff495333c760e37ddc2036b908363d59f61d886f6598742a59a843.jpg" width="840" loading="lazy" alt="用於強度測試的可 3D 列印 J 形掛鉤"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/3d-printable-j-hook-openscad-strength-test"><img src="../assets/previews/643a23b0eaff495333c760e37ddc2036b908363d59f61d886f6598742a59a843.jpg" width="840" loading="lazy" alt="用於強度測試的可 3D 列印 J 形掛鉤"></a>
 
 設計一個單件式 PLA J 形掛鉤，用於 3D 列印與強度測試。掛鉤可徒手扣在直徑 8 mm 的鋼棒上，並承托直徑 8 mm 的承載銷；同時必須符合尺寸、重量、固定力與防滑要求。所需輸出為可完整編譯並匯出 STL 的 OpenSCAD 檔案。
 
@@ -2529,7 +2505,7 @@ VALIDATION
 不要提供 STL 文字。不要提供 G-code。僅限 OpenSCAD。若第一個構想會滑脫，請在同一份回覆中替換成不會滑脫的設計。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104590493191479337) · [查看原文](https://x.com/WescheNex1q/status/2104590493191479337) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/3d-printable-j-hook-openscad-strength-test) · [查看原文](https://x.com/WescheNex1q/status/2104590493191479337) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2539,9 +2515,9 @@ VALIDATION
 
 [Alejandro](https://x.com/AlejandroRomaan) · 2026-09-28
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104605522640970208"><img src="../assets/previews/e9d956c6cfd11ddef0d83a4351ec53a5a04d44b4e42e72554986def5202e8d4a.jpg" width="840" loading="lazy" alt="互動式 CRISPR 教學 3D 模型"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-crispr-dna-3d-visualization"><img src="../assets/previews/e9d956c6cfd11ddef0d83a4351ec53a5a04d44b4e42e72554986def5202e8d4a.jpg" width="840" loading="lazy" alt="互動式 CRISPR 教學 3D 模型"></a>
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104605522640970208"><img src="../assets/previews/549d486909b60fc933dfc5bff87aa14eb814f1a09c3bbbaf98bbe2601b322068.jpg" width="840" loading="lazy" alt="互動式 CRISPR 教學 3D 模型"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-crispr-dna-3d-visualization"><img src="../assets/previews/549d486909b60fc933dfc5bff87aa14eb814f1a09c3bbbaf98bbe2601b322068.jpg" width="840" loading="lazy" alt="互動式 CRISPR 教學 3D 模型"></a>
 
 互動式、易於理解的 CRISPR DNA 技術 3D 教學模型。模型應呈現 DNA 鏈與完整的基因編輯流程，標示各個元件，並讓使用者選取相關部位來了解其功能。
 
@@ -2551,7 +2527,7 @@ VALIDATION
 我想製作一個互動式 3D 教學模型，說明 CRISPR DNA 技術的運作方式。只要畫面清楚、易於閱讀，並包含 DNA 鏈即可自由選擇技術；使用者應能查看完整的基因編輯流程及各個元件，並選取任何相關部位來學習相關知識。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104605522640970208) · [查看原文](https://x.com/AlejandroRomaan/status/2104605522640970208) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-crispr-dna-3d-visualization) · [查看原文](https://x.com/AlejandroRomaan/status/2104605522640970208) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2561,7 +2537,7 @@ VALIDATION
 
 [Fazley](https://x.com/itsfazley) · 2026-09-28
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104613125093998674"><img src="../assets/previews/56d9ffba8a2359b42f24dc04f30b499e0cf7978bfdf55eae0aa43f35e533979c.jpg" width="840" loading="lazy" alt="互動式月光叢林泛舟體驗"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/moonlit-jungle-boat-ride-threejs-scene"><img src="../assets/previews/56d9ffba8a2359b42f24dc04f30b499e0cf7978bfdf55eae0aa43f35e533979c.jpg" width="840" loading="lazy" alt="互動式月光叢林泛舟體驗"></a>
 
 一款全螢幕響應式 Three.js 泛舟體驗，穿越狹窄的叢林水道。玩家可使用鍵盤或觸控操作駕駛空無一人的木製划艇，體驗動態水面、船尾浪效果、月光倒影與環境音效，並可切換月夜、黎明和下雨模式。
 
@@ -2571,7 +2547,7 @@ VALIDATION
 建立一款全螢幕、響應式的 Three.js 泛舟體驗，場景設定在狹窄的叢林水道中。使用第三人稱攝影機跟隨一艘空無一人的木製划艇；船頭尖、船身寬、船尾平坦，需呈現可見的底板與座椅，不要放置船槳，內部保持乾燥，船身略微浸入水中。讓使用者透過 WASD、方向鍵或觸控操作駕駛。打造神祕的夜間場景：兩岸生長著茂密、多樣且寫實的深綠色樹木，加入微風吹拂、細節豐富的滿月，以及在動態水面上破碎延展的月光倒影。呈現可信的流動波浪、船隻與樹木的扭曲倒影，以及沿著船隻行進路徑形成並自然淡出的尾流；不要使用固定的發光痕跡或生硬的圓形邊界。加入天氣切換功能，可選擇月夜、溫暖黎明或陰雨天；在下雨模式中顯示落下的雨滴，以及受水面波浪影響、形狀不規則且短暫存在的落雨漣漪。提供可選且低調的水聲、叢林與雨聲環境音效。介面保持簡潔。確認桌面與行動裝置上的畫面、控制項、音效、計數器，以及三種天氣模式都能正常運作。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104613125093998674) · [查看原文](https://x.com/itsfazley/status/2104613128017522813) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/moonlit-jungle-boat-ride-threejs-scene) · [查看原文](https://x.com/itsfazley/status/2104613128017522813) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2581,7 +2557,7 @@ VALIDATION
 
 [Marcel](https://x.com/marcthecreatorr) · 2026-09-28
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104654448878387313"><img src="../assets/previews/487b700ccd9ea1cc1b22eefe925d0ca7231c3c4ba70772a05a71cd21dcce91ea.jpg" width="840" loading="lazy" alt="可變形跑車的 X 光爆炸視圖"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/transforming-sports-car-robot-exploded-view"><img src="../assets/previews/487b700ccd9ea1cc1b22eefe925d0ca7231c3c4ba70772a05a71cd21dcce91ea.jpg" width="840" loading="lazy" alt="可變形跑車的 X 光爆炸視圖"></a>
 
 Marcel 提供的一次性提示詞，用於比較 GPT-6 Astra 與 Sonnet 5.5。此提示詞要求製作一輛可互動的精細跑車，能變形成人形機器人，並包含 X 光與爆炸視圖模式。
 
@@ -2591,7 +2567,7 @@ Marcel 提供的一次性提示詞，用於比較 GPT-6 Astra 與 Sonnet 5.5。�
 製作一輛精細的跑車，能變形成一具人形機器人，並提供 X 光模式與可互動的爆炸視圖
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104654448878387313) · [查看原文](https://x.com/marcthecreatorr/status/2104654448878387313) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/transforming-sports-car-robot-exploded-view) · [查看原文](https://x.com/marcthecreatorr/status/2104654448878387313) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2919,7 +2895,7 @@ Blender 金門大橋渲染圖。從舊金山灣水面向上仰望，以廣闊且
 
 [けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-03
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2106385060106777043"><img src="../assets/previews/53df380ec6620d54216251f13298ad3d83132ea05276ca497edc3639c660e1b0.jpg" width="840" loading="lazy" alt="可操控的山間河流 3D 船舶場景"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/mountain-river-boat-interactive-3d-scene"><img src="../assets/previews/53df380ec6620d54216251f13298ad3d83132ea05276ca497edc3639c660e1b0.jpg" width="840" loading="lazy" alt="可操控的山間河流 3D 船舶場景"></a>
 
 這是一段用於建立 three.js 3D 場景的指示，內容是在日本山間的河流中划船前進。指定以方向鍵操控船隻、切換白天、夜晚與下雨情境，以及在夜間讓河岸燈籠發光。投稿者表示，曾將這段相同的指示傳送給 GPT-6 Astra 一次。
 
@@ -2929,7 +2905,7 @@ Blender 金門大橋渲染圖。從舊金山灣水面向上仰望，以廣闊且
 請使用 three.js 製作一個在日本山間河流中划船前進的 3D 場景。船隻必須能以方向鍵操控，並可切換白天、夜晚與下雨情境；夜間時，讓河岸燈籠發光。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2106385060106777043) · [查看原文](https://x.com/kensumi_ai/status/2106385072266084741) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/mountain-river-boat-interactive-3d-scene) · [查看原文](https://x.com/kensumi_ai/status/2106385072266084741) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2939,7 +2915,7 @@ Blender 金門大橋渲染圖。從舊金山灣水面向上仰望，以廣闊且
 
 [けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-04
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2106737391948235164"><img src="../assets/previews/7832ff805e07d9d042bfa48b9d6befded51c8aa09f65c3685af345c95f2a378b.jpg" width="840" loading="lazy" alt="可在瀏覽器中漫遊參觀的房屋 3D 空間"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/3d-house-browser-walkthrough"><img src="../assets/previews/7832ff805e07d9d042bfa48b9d6befded51c8aa09f65c3685af345c95f2a378b.jpg" width="840" loading="lazy" alt="可在瀏覽器中漫遊參觀的房屋 3D 空間"></a>
 
 建立一個可在瀏覽器中開啟的單頁 3D 空間，讓使用者能在屋內步行探索。
 
@@ -2949,7 +2925,7 @@ Blender 金門大橋渲染圖。從舊金山灣水面向上仰望，以廣闊且
 請建立一個可在瀏覽器中開啟的單頁 3D 空間，讓使用者能在屋內步行探索。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2106737391948235164) · [查看原文](https://x.com/kensumi_ai/status/2106737391948235164) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/3d-house-browser-walkthrough) · [查看原文](https://x.com/kensumi_ai/status/2106737391948235164) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2959,7 +2935,7 @@ Blender 金門大橋渲染圖。從舊金山灣水面向上仰望，以廣闊且
 
 [Paruchh](https://x.com/theparuchh) · 2026-10-04
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2106824464092770455"><img src="../assets/previews/9bf4e6da4a2aea738b61431a28bddccd01b9453d6ea43fdf077391d50aac5753.jpg" width="840" loading="lazy" alt="打造一支虛構遊戲的電影感預告片"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-game-trailer-blender-animation"><img src="../assets/previews/9bf4e6da4a2aea738b61431a28bddccd01b9453d6ea43fdf077391d50aac5753.jpg" width="840" loading="lazy" alt="打造一支虛構遊戲的電影感預告片"></a>
 
 一份完整的作者留言提示詞，用於製作一支 35–40 秒的電影感虛構遊戲預告片。內容要求程序化生成 3D 世界、生物或角色動畫、氛圍光影、合成音訊、分鏡節奏規劃、品質檢查，以及可重現的 Blender／Python 原始碼交付物。根貼文表示，GPT-6 Astra 正是根據這份提示詞製作出展示中的預告片。
 
@@ -3029,7 +3005,7 @@ DELIVERABLES
 持續自主工作，直到完成結果就緒
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2106824464092770455) · [查看原文](https://x.com/theparuchh/status/2106825162209497583) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-game-trailer-blender-animation) · [查看原文](https://x.com/theparuchh/status/2106825162209497583) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -3039,7 +3015,7 @@ DELIVERABLES
 
 [けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-05
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2106944804756275690"><img src="../assets/previews/e5832410399df5ceabb2b7feb01c0250a3c8b328ccb83df0a8b153b87dad0a63.jpg" width="840" loading="lazy" alt="在夜晚小島上收集 10 個星星碎片的 3D 遊戲"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/night-island-star-collecting-3d-game"><img src="../assets/previews/e5832410399df5ceabb2b7feb01c0250a3c8b328ccb83df0a8b153b87dad0a63.jpg" width="840" loading="lazy" alt="在夜晚小島上收集 10 個星星碎片的 3D 遊戲"></a>
 
 這是一段建立瀏覽器版 3D 遊戲的提示詞，明確說明這是投稿者向 GPT-6 Astra 下達的指示：玩家將在夜晚的小島上探索，收集 10 個星星碎片。
 
@@ -3049,7 +3025,7 @@ DELIVERABLES
 請製作一款可在瀏覽器中遊玩的單頁 3D 遊戲，讓玩家在夜晚的小島上探索，收集 10 個星星碎片
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2106944804756275690) · [查看原文](https://x.com/kensumi_ai/status/2106944821818720302) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/night-island-star-collecting-3d-game) · [查看原文](https://x.com/kensumi_ai/status/2106944821818720302) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -3059,7 +3035,7 @@ DELIVERABLES
 
 [Vib3Coded](https://x.com/vib3coded) · 2026-10-05
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2107127712871505976"><img src="../assets/previews/8aea77310a81607281a11c92f850b52fa1ea1d0e6e349ba5fae31e0296ecb1c8.jpg" width="840" loading="lazy" alt="毛絨蜘蛛 — 材質研究第 015 號"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/webgpu-plush-spider-soft-body-physics"><img src="../assets/previews/8aea77310a81607281a11c92f850b52fa1ea1d0e6e349ba5fae31e0296ecb1c8.jpg" width="840" loading="lazy" alt="毛絨蜘蛛 — 材質研究第 015 號"></a>
 
 建立一個自包含、原生 WebGPU 的互動式毛絨蜘蛛研究作品。這隻程序生成的蜘蛛具備軟體物理與金屬線腿部物理、可梳理的外殼絨毛，以及行走、蜷縮、懸絲與揮手等行為，還提供 Hand、Finger 和 Comb 直接控制。根文章比較了 ChatGPT-6 Astra 版本與 Opus 版本；作者在經驗證的留言中提供了這段提示詞。
 
@@ -3136,7 +3112,7 @@ DELIVERABLES
 - 旋轉與縮放；手機上的回應式堆疊版面；自適應畫質；支援減少動態效果。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2107127712871505976) · [查看原文](https://x.com/vib3coded/status/2107128017503830119) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/webgpu-plush-spider-soft-body-physics) · [查看原文](https://x.com/vib3coded/status/2107128017503830119) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -3146,7 +3122,7 @@ DELIVERABLES
 
 [NinjaCodex](https://x.com/N1njaCodex) · 2026-10-05
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2107186979502776590"><img src="../assets/previews/e5e4ba8cec9a2f18f6368adf534fa93b9e573285f94ace926035f367ddb44c80.jpg" width="840" loading="lazy" alt="香蕉果凍"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/webgpu-banana-jelly-physics-simulation"><img src="../assets/previews/e5e4ba8cec9a2f18f6368adf534fa93b9e573285f94ace926035f367ddb44c80.jpg" width="840" loading="lazy" alt="香蕉果凍"></a>
 
 以 WebGPU 打造的互動式材質研究，主題是一株繁茂、半透明果凍質感的香蕉樹。作者在比較 Claude Opus 5.5 與 ChatGPT-6 Astra 的留言中提供了這段提示，內容指定了程序化植物幾何、物理驅動的動態、可拆卸香蕉、碰撞觸發的剝皮、色彩配置控制，以及觸控／指標互動。
 
@@ -3208,7 +3184,7 @@ QA（使用 SwiftShader WebGPU 的無頭 Chromium）
 - 公開除錯掛鉤（window.__bj: advance, shake, pick, project, setPalette, reset, setPause, counts），並驗證：開始時有完整的 31 根香蕉；≥20 片葉子；閒置時不會掉落任何物件；微風會吹動葉片且 Breeze 0 時保持靜止；搖晃會讓部分香蕉掉落但不會剝皮；掉落的果實會停下；計數器會更新；重設會還原；拉扯的香蕉會單獨脫落；猛烈落地會剝皮，輕柔掉落則不會；心苞會像鐘擺擺動且不會使果實掉落；葉片會彎曲並彈回；調色盤／滑桿／暫停／旋轉視角／縮放皆可運作；壓力測試不會出現 NaN；模擬耗時 < 5 ms；不發出網路請求；主控台無錯誤；行動裝置底部抽屜 + 觸控可用；顯示備援卡片。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2107186979502776590) · [查看原文](https://x.com/N1njaCodex/status/2107187133173678156) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/webgpu-banana-jelly-physics-simulation) · [查看原文](https://x.com/N1njaCodex/status/2107187133173678156) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -3218,7 +3194,7 @@ QA（使用 SwiftShader WebGPU 的無頭 Chromium）
 
 [IamAlam](https://x.com/_IamAlam) · 2026-10-06
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2107479802152472717"><img src="../assets/previews/58b1763f9947b348c6baf6e27de3c5a27097872757b52d78755d3313fb248342.jpg" width="840" loading="lazy" alt="Wild Atlas 互動式野生動物百科"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/wildlife-encyclopedia-interactive-3d-animal-viewer"><img src="../assets/previews/58b1763f9947b348c6baf6e27de3c5a27097872757b52d78755d3313fb248342.jpg" width="840" loading="lazy" alt="Wild Atlas 互動式野生動物百科"></a>
 
 打造高質感的互動式野生動物百科，包含五個風格一致的動物渲染視圖、可選取的動物卡片、緩慢旋轉、拖曳旋轉支援、特寫功能，以及會隨動物更新的資訊面板。
 
@@ -3251,7 +3227,7 @@ QA（使用 SwiftShader WebGPU 的無頭 Chromium）
 使用轉盤式的生物渲染視圖（支援拖曳旋轉與特寫即可；不需要完整建模的 3D 場景）。整體風格維持高質感、安靜且具有百科全書氣息。完成後，將其發布為可運作的私人網站。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2107479802152472717) · [查看原文](https://x.com/_IamAlam/status/2107480596926939638) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/wildlife-encyclopedia-interactive-3d-animal-viewer) · [查看原文](https://x.com/_IamAlam/status/2107480596926939638) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -3261,7 +3237,7 @@ QA（使用 SwiftShader WebGPU 的無頭 Chromium）
 
 [Vib3Coded](https://x.com/vib3coded) · 2026-10-06
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2107533363808485534"><img src="../assets/previews/3577fb25c99300f512c1ab63e5296bee76c80d9936bc376664be8399fc6f6908.jpg" width="840" loading="lazy" alt="毛絨魷魚。"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/webgpu-plush-squid-soft-body-physics"><img src="../assets/previews/3577fb25c99300f512c1ab63e5296bee76c80d9936bc376664be8399fc6f6908.jpg" width="840" loading="lazy" alt="毛絨魷魚。"></a>
 
 發文作者提供了一則提示，要求以單一自包含 HTML 檔案製作互動式 WebGPU 毛絨玩具魷魚研究。內容指定程序化魷魚、以軟體與布料為基礎的動態、可回應的手部、手指與梳子工具、噴射與受驚行為，以及編輯式標本面板介面。
 
@@ -3287,7 +3263,7 @@ SPECIMEN
 - 編輯工作室版面：「Material Studies / No. 017」、大型斜體襯線字體標題「毛絨魷魚。」、簡短說明、即時狀態膠囊、標本面板（工具、染色樣本、填充物、絨毛、呼吸；噴射、攻擊、受驚、撫平絨毛、重設、暫停；漫遊、¼ 速度、網格）、讀數（質量、體積％、噴射次數、纏附腕足）、備註；支援環繞／縮放、堆疊式行動版面，以及 WebGPU 備援卡片。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2107533363808485534) · [查看原文](https://x.com/vib3coded/status/2107533605945635233) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/webgpu-plush-squid-soft-body-physics) · [查看原文](https://x.com/vib3coded/status/2107533605945635233) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -3297,7 +3273,7 @@ SPECIMEN
 
 [Vib3Coded](https://x.com/vib3coded) · 2026-10-06
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2107617244301664483"><img src="../assets/previews/862faa173b8996ddd2b3c6003d6c3c41adda9f8729b5bf936747605246e2bc9a.jpg" width="840" loading="lazy" alt="Villa Jelly"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/webgpu-tropical-villa-jelly-island-diorama"><img src="../assets/previews/862faa173b8996ddd2b3c6003d6c3c41adda9f8729b5bf936747605246e2bc9a.jpg" width="840" loading="lazy" alt="Villa Jelly"></a>
 
 一座獨立運作的 WebGPU 互動式 3D 果凍島嶼立體模型：現代熱帶別墅、潟湖、棕櫚樹、漂浮玩具，以及一艘自主航行的船。使用者可以攪動並傾斜果凍海、切換口味色彩、拋擲物件、彎折棕櫚樹、拖曳船隻，還能環繞場景觀看。
 
@@ -3356,7 +3332,7 @@ RENDERING
 - 偵錯掛鉤 window.__vj（world、boat、bodies、water、block、advance、drop、pick、project、setPalette、reset、setPause、freeze 旗標）。驗證：6 個初始物體與統計 2/2/2；已建立別墅 + 10 棵棕櫚樹；船隻在 14 秒內繞行至少 6 單位，沒有擱淺並留下泡沫與波浪；閒置時保持穩定；投入的球高位漂浮、鴨子保持直立、海星平貼沉底；統計介面一致；攪動會產生逐漸消退的波浪；傾斜方塊會使海水堆向低側並恢復穩定；船隻可被抓取、拖曳並恢復航線；球投入海中會上下浮動，鴨子放到沙灘上會直立；棕櫚樹會彎曲；口味、滑桿、暫停、環繞、縮放功能正常；壓力測試不得出現 NaN；模擬時間 < 5 毫秒／影格；不得發出網路請求；不得出現主控台錯誤；不得捲動頁面；支援行動版底部抽屜 + 觸控；提供 WebGPU 備援。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2107617244301664483) · [查看原文](https://x.com/vib3coded/status/2107617476473164210) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/webgpu-tropical-villa-jelly-island-diorama) · [查看原文](https://x.com/vib3coded/status/2107617476473164210) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -3366,7 +3342,7 @@ RENDERING
 
 [quesma.com](https://quesma.com/) · 2026-10-07
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2107824019999535226"><img src="../assets/previews/5a1055902ebf648653a42e7ab254c5326c505a2bca9f96c7ed5ab8ed440ff0ab.jpg" width="840" loading="lazy" alt="《看不見的城市》Three.js 視覺化"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/invisible-cities-threejs-interactive-visualization"><img src="../assets/previews/5a1055902ebf648653a42e7ab254c5326c505a2bca9f96c7ed5ab8ed440ff0ab.jpg" width="840" loading="lazy" alt="《看不見的城市》Three.js 視覺化"></a>
 
 Piotr Migdał 的連結文章指出，他在 Codex 中將這段提示詞提供給 GPT-6 Astra，用於製作 Italo Calvino《看不見的城市》的互動式 Three.js 視覺化。
 
@@ -3376,7 +3352,7 @@ Piotr Migdał 的連結文章指出，他在 Codex 中將這段提示詞提供�
 使用 three.js（pnpm）製作 Italo Calvino《看不見的城市》全系列的視覺化作品。不要提問，這是一項一次完成的任務。你有 6 小時的工作時間，請充分利用，直到作品臻於傑作。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2107824019999535226) · [查看原文](https://quesma.com/blog/invisible-cities-one-shot/) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/invisible-cities-threejs-interactive-visualization) · [查看原文](https://quesma.com/blog/invisible-cities-one-shot/) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -3500,6 +3476,65 @@ Piotr Migdał 的連結文章指出，他在 Codex 中將這段提示詞提供�
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/crazy-tanks-3d-island-artillery) · [線上展示](https://super-tanks-aftershock.tripo.page/) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="jelly-villa"></a>
+
+### 果凍別墅
+
+[jared](https://x.com/jaredliu_bravo) · 2026-10-08
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/jelly-villa"><img src="../assets/previews/d89de585b8c44c48612e912fff0c35c56c9bed0a69eccc11498b0fd2c5f7f01c.png" width="840" loading="lazy" alt="果凍別墅"></a>
+
+攪動寶石色的果凍海，拖曳迷你遊艇，讓棕櫚樹環繞熱帶別墅彎曲生長。在同一座充滿生命力的島嶼中，自由切換程式生成的場景，以及真實的 Tripo P2 別墅與遊艇模型。
+
+**提示詞**
+
+```text
+1. 專案目標
+打造「Jelly Villa」：在一塊剖開的半透明果凍方塊上，呈現一座可互動的熱帶迷你天堂。訪客可以攪動潟湖、拖曳迷你遊艇、丟下沙灘玩具、掰動棕櫚樹，還能讓整座島嶼傾斜。整體場景應像一座優雅的建築模型，卻意外地活了起來。這是 jared 以 Vib3Coded 的 Villa Jelly 參考作品為基礎製作的獨立 remix，並使用真正的 Tripo P2 villa 與 yacht 資產。請以 https://x.com/jaredliu_bravo 標註 jared 的貢獻，並保留獨立的「Inspired by Vib3Coded」連結，指向原始作品。不得將參考作者的影片呈現為這次 remix 的錄影。
+
+2. 視覺風格與比較
+使用參考影片建立方形方塊、斜向高位攝影機、L 形潟湖、後方植被高地、白色現代住宅、茂密棕櫚樹、分層剖面與緩慢移動的船隻。請重現這些關係，而不是製作一座泛用的島嶼。最終 remix 使用 Three.js/WebGL2，而非原作的原生 WebGPU 實作，因此能透過標準瀏覽器管線載入真正的 GLB 資產。
+在場景周圍使用 #edeae3 的溫暖紙張背景、深橄欖炭灰色文字、細如髮絲的分隔線，以及克制的常青色點綴。左上方放置大型 Georgia 風格襯線字體標題「Jelly / Villa.」，第二行使用斜體。讓中央立體場景維持主導地位，邊緣保留充足留白；右側放置小型控制面板，底部提供安靜低調的操作說明。UI 使用英文。主攝影機從 x 正值與 z 正值方向觀看，透視視野為 34 度。使用柔和的暖色陽光、冷色補光與工作室環境光，呈現真實投影、物件貼地感與電影感色調映射。讓玻璃、塗漆灰泥、柚木、沙地、凝膠塗層、金屬與葉片表面各自保持明確差異。避免植被褪色，也避免水面呈現扁平且不透明的效果。
+在模型上方放置醒目的 Before / Compare / After 控制項。Before 使用完整裝飾的程式生成 villa 與程式生成 yacht。After 僅將這兩類物件替換為實際的 Tripo 資產。Compare 以可拖曳的分割畫面同時渲染兩者，並使用完全相同的攝影機、動畫時間、地形、棕櫚樹、水面、光照與玩具狀態。誠實標示兩側：「Before · Code-built」與「After · Tripo 3D」。移動分隔線時不得重設場景。模型載入後預設顯示 After；若資產無法使用，仍須保留可見的備援內容，以及誠實的載入中／錯誤狀態。
+
+3. 世界與環境
+方塊尺寸為 5.2 × 5.2 個場景單位。頂部是連續的高度場：潟湖底部接近 0.35，預設水位為 1.04，植被高地約為 1.50。島嶼維持在後方區域；相連的潟湖沿著朝向前方的兩條邊延伸。塑造輕微不規則的沙質海岸線與平滑坡岸，並在草坪與沙灘之間設置階梯。方形剖面露出薄薄的巧克力、焦糖、香草與薄荷色夾層，內含細小礫石。分層上方設置透明的垂直水面剖面，邊緣帶有精緻的彎月面水緣。水面與剖面使用相同的色彩調色盤並產生相應變化。
+將 villa 放在淡色石材露台後方，周圍配置庭園燈、低矮開花灌木、帶有淡淡條紋的草坪、零散岩石與海灘草。圍繞 villa 精確配置十棵可個別掰動的椰子棕櫚樹，並在樹冠之間保留可見的建築結構。每棵樹都要有彎曲的環紋樹幹、椰子，以及由拱形羽狀葉片組成的完整樹冠，不得只使用幾片扁平三角形葉子。靠近海岸加入一把波浪邊奶油色陽傘、兩張躺椅、一艘陶土紅色獨木舟及其槳。它們的比例必須低於房屋，不能搶走主體地位。
+讓 yacht 沿著潟湖中的連續路線行駛：外側航道、圓弧轉角、沿內側航道返回，再以平順的 U 形轉彎循環。船身應遠離海岸與方形牆面。地形與水面維持程式生成，以便變形並產生互動反應；不得將整座島嶼替換成單一靜態生成網格。
+
+4. 資產清單與固定插槽
+- villa：一座現代白色熱帶度假住宅，具備多層平屋頂、深色玻璃帷幕、細框、陽台、石材基座與設有家具的遮蔽露台。它位於後方露台，是主要替換資產。保留實際匯入的設計與所有材質貼圖。將模型調整尺寸並貼地到指定的 villa 插槽中，確認其正面立面相對攝影機與階梯的位置。交付的 Tripo 模型有三層立面；不得聲稱它是參考房屋的精確複製品。
+- yacht：一艘小型白色與海軍藍日間巡航艇，具備尖頭船身、奶油色駕駛艙座椅、柚木甲板、擋風玻璃、細型硬頂、船首護欄與雙舷外機。它會獨立載入並繞著潟湖移動。統一船長、確認船首方向、對齊吃水線，並保留貼圖細節。Before 與 After 共用相同的移動變換與浮力取樣。
+- palms：十棵以程式建立的棕櫚樹，每棵都具備可個別選取的彎曲彈簧，並共用幾何與材質系列。為提升渲染效率，重複使用合併後的靜態部件。
+- beach props：程式生成的陽傘、躺椅、獨木舟、槳、岩石、草、燈、鋪面與灌木。兩種比較模式中的幾何與材質細節必須完全一致。
+- toys：可重複使用的條紋沙灘球、黃色橡皮鴨與珊瑚色海星系列。初始狀態為岸上兩顆球、水面兩隻鴨子，以及潟湖底部兩隻海星。
+- water、terrain、foam、strata、lighting 與 UI：維持程式生成。碰撞與互動代理應和可見的生成模型細節分開處理。
+villa 與 yacht 是實際以 Tripo P2 文字生成模型建立的資產，並從同源 GLB 檔案載入。將它們真正的生成提示詞與來源資訊隨專案保存，並與本重現規格分開。不得以圖片或 billboard 取代詳細網格，也不得聲稱程式生成的場景是由 Tripo 生成。
+
+5. 互動與回饋
+在水面上拖曳以製造移動的凹痕與波紋；放開後讓它們逐漸消散。實作有邊界的有限差分波場，在岸邊加入阻尼，並使用依參數變化的剛性與阻尼。加入細微的動畫水面波紋、類似折射的深度色調、平滑鏡面高光、依深度變化的色彩，以及柔和的尾流水花；絕不可使用每三角形的螢幕導數推導水面法線，也不得疊加重複的線條圖樣。請將這些描述為藝術化的即時水面模擬，不要宣稱具備流體精確度。
+拉動島嶼或其剖面，使整個場景剪切與擠壓。固定基座，並讓地形、水面、剖面、建築、植被與陰影共用非線性彈性場。放開時以帶阻尼的過衝回彈。提供可見的「讓島嶼搖一搖」按鈕以觸發相同效果。讓水面側邊幾何維持在其局部地形底面之上，避免共面重疊造成閃爍。水面取樣與指標座標必須使用相同、未鏡像的網格，並搭配平滑插值的高度與法線。拖曳棕櫚樹使其彎曲，再放開以透過彈簧恢復原狀，並保留細微的待機微風效果。
+yacht 會沿著封閉路線自動前進，速度約為每秒 0.38–0.48 個場景單位。取樣波面以驅動升沉與俯仰，加入克制的橫搖，並在船尾產生水面脈衝與逐漸消退的泡沫。讓訪客能在可航行水域抓住並拖曳 yacht；保留抓取時的偏移量，並跟隨帶阻尼的慣性目標。放開後保留實際位置與速度，再平順地轉向路線。絕不可瞬移到路徑上的某個點。使用獨立的船身淨空代理、沿岸滑動、速度上限、平滑航向，以及四點彈簧浮力，確保緩慢、快速與反向拖曳都能保持穩定。它會將附近漂浮的玩具推開。
+按下投放按鈕，就會從上方加入一顆沙灘球、一隻鴨子或一隻海星。球會高浮於水面，鴨子保持直立，海星則沉到海床。玩具入水時會產生水花與波紋。支援拖曳與放開玩具、重力、帶阻尼的漂浮運動、地形接觸與牆面限制。Afloat、Sunk 與 Ashore 的數量必須依實際剛體狀態計算。玩具總數上限為 40 個，超過時移除最舊的玩具，確保重複操作仍維持回應速度。
+提供 Turquoise、Curaçao 與 Raspberry 調色盤；果凍硬度 10–100，預設 50；阻尼 5–90，預設 30；潮汐 -10 至 +10 公分，預設為零。Reset 會還原玩具、物理效果與預設值。Pause 凍結模擬世界，Resume 繼續運行。Reset view 還原取景構圖。拖曳空白區域或按住右鍵拖曳以旋轉視角；滾動滑鼠滾輪或捏合以縮放。在窄螢幕上維持島嶼可操作，並將控制項收納到下方的「製造一些波浪」列後方。避免水平捲動或頁面捲動。
+海洋環境音在本機合成，且只有在使用者手勢後才開始播放。加入明確的 Sound off/on 切換。允許時提供全螢幕功能，並在桌面裝置提供 PNG 明信片匯出。保留清楚的「Make this paradise yours」連結，前往帶有 jelly-villa 歸因參數的 Tripo 創作工作區，並在新分頁開啟。
+
+6. 技術實作
+使用獨立的 Vite + JavaScript + Three.js 專案，附有專案自己的 lock 檔，瀏覽器端不需要伺服器或密鑰。將 JavaScript、樣式、GLB 檔案與所有執行期資源置於同源。使用 GLTFLoader 載入個別模型插槽，使用 OrbitControls 處理攝影機輸入，並採用搭配工作室環境與陰影貼圖的基於物理渲染器。UI 使用位於全螢幕 canvas 上方的可存取 HTML。不得依賴第三方 CDN 腳本、內嵌可執行程式碼、外部貼圖請求或執行期間的簽名模型 URL。
+在不修改私有原始檔的前提下統一 GLB 邊界；保留貼圖、法線與 UV。記錄任何執行期旋轉、縮放或壓縮。將靜態場景、每棵棕櫚樹、程式生成模型與玩具合併成適當的材質批次，以限制繪製呼叫；避免昂貴的透射渲染階段與永久保留的繪圖緩衝區；限制像素比例、波浪網格與泡沫粒子數量，並檢查實際幀率，不要承諾在所有裝置上通用的 60 fps。使用 requestAnimationFrame 搭配受限的 delta time、固定模擬子步驟、帶阻尼的輸入與有限數值檢查。Pause 時凍結動畫；變更比較模式時不得重建或重新模擬場景。
+提供小型除錯介面，顯示目前狀態、資產就緒狀態、攝影機投影、水面能量、玩具、船隻位置、暫停狀態、調色盤與比較模式。此介面用於驗證，不能取代實際的指標與觸控測試。保留原始資產檔案與來源資訊，供受控的目錄下載使用；靜態建置中只包含必要的執行期副本。
+
+7. 完成條件
+交付可編輯的原始專案，包含安裝／建置／啟動指令、生產環境靜態建置，以及可運作的公開示範。從實際攝影機確認參考作品啟發的構圖、茂密棕櫚樹、清楚的剖面夾層、正確貼地的 villa，以及正確對齊的 yacht。測試 Before、After 與移動後的比較分隔線，並確認共用場景狀態一致。確認兩個 GLB 都能以真實幾何與內嵌貼圖載入。
+測試攪動、傾斜、拖曳棕櫚樹、拖曳船隻與恢復巡航、投放／拖曳玩具、計數、所有調色盤與滑桿、Reset、Pause/Resume、旋轉／縮放、行動裝置控制面板、選用音效、全螢幕、明信片與創作連結。執行多圈船隻檢查、持續緩慢／快速／反向拖曳船隻、沿岸與邊界拉動、放開後的連續性、持續按住時的島嶼變形、過衝、極端波浪設定，以及重複投放玩具。檢查近距離水面、四個側面與後方視角，確認沒有三角形高光、z-fighting、破洞、不穩定或無限制增長。除了物理回歸測試，也要測試實際指標／觸控輸入。檢查桌面與窄螢幕截圖，以及主控台／網路錯誤。在部署後與公開提示詞頁面的 iframe 內驗證相同互動。誠實回報測量結果與裝置限制。
+發布由 jared 貢獻的新版 jelly-villa 提示詞，將原作者列在 Remix from，連結已發布的 Web Page，使用目前的 remix 截圖與任何目前的錄影，並僅將參考影片保留為來源證據。完成在地化的 CMS 標題、描述、Meta 與資產中繼資料。可見的 Tripo 改進必須是詳細的 villa 與 yacht，周圍世界則維持不變。
+
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/jelly-villa) · [線上展示](https://jelly-villa.tripo.page/) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -3768,7 +3803,7 @@ UI：奶油白圓角卡片搭配海軍藍文字與珊瑚橘點綴；標題使用
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 320 個案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 321 個案例 →</a></strong></p>
 <p><sub>為保持 GitHub README 渲染流暢，這裡僅展示最新 100 個案例。</sub></p>
 <br>
 </td></tr>

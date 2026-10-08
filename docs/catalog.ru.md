@@ -28,7 +28,7 @@
 **Идеи для вашей следующей игры, сцены или интерактивного мира.**
 
 
-**320 · Новые промпты Astra**
+**321 · Новые промпты Astra**
 
 ## Избранные проекты
 
@@ -52,7 +52,6 @@
 
 - [Интерактивный 3D-атлас анатомии](#2099206962344800541) · GitHub
 - [Демонстрация фэнтезийной графики с изометрической камерой](#2100271998618177864) · GitHub
-- [Самоскладывающаяся 3D-анимация оригами](#2098909584996057283)
 - [UV-развёртка и повторный бейк в 4K для модели одежды без головы](#2098980384260456813)
 - [Играбельный 3D-фрагмент прибрежного района для браузера](#2099172061092381027)
 - [Переосмыслить замок Пич в 3D](#2099359786865402019)
@@ -146,6 +145,7 @@
 - [Визуализация «Невидимых городов» в Three.js](#2107824019999535226)
 - [Battle City 3D: бесконечная танковая оборона](#battle-city-3d)
 - [Crazy Tanks — 3D-артиллерия на острове](#crazy-tanks-3d-island-artillery)
+- [Желейная вилла](#jelly-villa)
 - [ODD ARMS — Игра на выживание со странным оружием](#odd-arms)
 - [TITANIC — Последний свет](#titanic-the-last-light)
 - [AKARI: Эстафета огня на крышах Нагои](#akari-nagoya-rooftop-flame-relay)
@@ -196,30 +196,6 @@
 ```
 
 [Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2100271998618177864) · [Исходная публикация](https://github.com/achimala/dream-loop) · [Исходный код](https://github.com/achimala/dream-loop) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="2098909584996057283"></a>
-
-### Самоскладывающаяся 3D-анимация оригами
-
-[AI Guides](https://x.com/free_ai_guides) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2098909584996057283"><img src="../assets/previews/0cc6124463ff4763f52e30ffedab873b5e44d45017274f8f06188f3a7d110712.jpg" width="840" loading="lazy" alt="Самоскладывающаяся 3D-анимация оригами"></a>
-
-Автор утверждает, что этот открытый промпт без изменений был передан GPT-6 Astra и Fable 5.1. В нём запрашивается автономная 3D-анимация оригами: квадратный лист должен быть визуально расчерчен сгибами и поворачиваться в ходе узнаваемой последовательности складывания, затем раскладываться и повторять цикл.
-
-**Промпт**
-
-```text
-Создайте 3D-анимацию оригами. Плоский квадратный лист должен шаг за шагом самостоятельно складываться в узнаваемую фигурку оригами; каждый сгиб должен быть показан как настоящий залом и поворот бумаги. Затем лист должен разложиться обратно в плоское состояние, после чего цикл повторяется. Какой будет фигурка и как будет выглядеть вся сцена — решать вам.
-
-Все детали дизайна — стиль, цвета, настроение, окружение, камера, уровень детализации и любые дополнительные элементы — выберите самостоятельно. Не задавайте мне вопросов: примите все решения сами и за одну попытку создайте максимально впечатляющий результат.
-
-Технические требования: один автономный HTML-файл без внешних моделей, изображений, звуков и URL-адресов ресурсов любого типа (библиотеку JavaScript из CDN использовать можно). Анимация должна запускаться автоматически сразу после загрузки, без кликов, работать плавно и не вызывать ошибок в консоли.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2098909584996057283) · [Исходная публикация](https://x.com/free_ai_guides/status/2098909584996057283) · [Назад к примерам](#all-prompts)
 
 ---
 
@@ -865,7 +841,7 @@ AiMind делится рекомендацией «Укради промпт» �
 
 [きのした](https://x.com/ujiden_type0) · 2026-09-17
 
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2100519026720231698"><img src="../assets/previews/000aacea97c0955d46b761f1a1e1e46f9d755a6347c0b4214dfb9ea67515b9f9.jpg" width="840" loading="lazy" alt="Добавить сервисную цепь к поручню"></a>
+<a href="https://www.tripo3d.ai/ru/3d-prompts/cad-handrail-maintenance-chain"><img src="../assets/previews/000aacea97c0955d46b761f1a1e1e46f9d755a6347c0b4214dfb9ea67515b9f9.jpg" width="840" loading="lazy" alt="Добавить сервисную цепь к поручню"></a>
 
 Инструкция по редактированию CAD-модели: добавьте сервисную цепь к поручню.
 
@@ -875,7 +851,7 @@ AiMind делится рекомендацией «Укради промпт» �
 Добавьте к поручню сервисную цепь!
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2100519026720231698) · [Исходная публикация](https://x.com/ujiden_type0/status/2100519026720231698) · [Назад к примерам](#all-prompts)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/cad-handrail-maintenance-chain) · [Исходная публикация](https://x.com/ujiden_type0/status/2100519026720231698) · [Назад к примерам](#all-prompts)
 
 ---
 
@@ -1300,7 +1276,7 @@ AiMind делится рекомендацией «Укради промпт» �
 
 [vib3coded](https://x.com/vib3coded) · 2026-09-20
 
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2101730386711634251"><img src="../assets/previews/44c9844d75b0423e97757b9c59d7a87fe5794dfa55ced35efc7aaa0d9e5e24d0.jpg" width="840" loading="lazy" alt="Verdant — интерактивный 3D-остров с динозаврами"></a>
+<a href="https://www.tripo3d.ai/ru/3d-prompts/interactive-3d-dinosaur-island-diorama"><img src="../assets/previews/44c9844d75b0423e97757b9c59d7a87fe5794dfa55ced35efc7aaa0d9e5e24d0.jpg" width="840" loading="lazy" alt="Verdant — интерактивный 3D-остров с динозаврами"></a>
 
 Авторский запрос @vib3coded для Verdant — интерактивной 3D-диорамы острова с динозаврами на Three.js и WebGL. В запросе предусмотрены свободно перемещающиеся динозавры, водопад и лагуна в разрезе, подводное движение камеры, взаимодействия с кормлением животных и вылуплением динозавра, управление параметрами окружающей среды, дождь, музыка и поставка в виде одного готового к запуску в браузере HTML-файла.
 
@@ -1316,7 +1292,7 @@ AiMind делится рекомендацией «Укради промпт» �
 Всё работает прямо в браузере и содержится в одном HTML-файле
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2101730386711634251) · [Исходная публикация](https://x.com/vib3coded/status/2101570806702559235) · [Назад к примерам](#all-prompts)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-3d-dinosaur-island-diorama) · [Исходная публикация](https://x.com/vib3coded/status/2101570806702559235) · [Назад к примерам](#all-prompts)
 
 ---
 
@@ -1580,9 +1556,9 @@ Langya — живой мальчик с бирюзовым капюшоном и
 
 [nkz/ぴたすぽ](https://x.com/nikzu_) · 2026-09-22
 
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2102411087002112256"><img src="../assets/previews/7ff7139cf9a4704071346a2f8e48c6da2922a9543faa8bd80454119406b69020.png" width="840" loading="lazy" alt="TD-игра в духе Sir, We Have Orc Problems"></a>
+<a href="https://www.tripo3d.ai/ru/3d-prompts/orc-tower-defense-game"><img src="../assets/previews/7ff7139cf9a4704071346a2f8e48c6da2922a9543faa8bd80454119406b69020.png" width="840" loading="lazy" alt="TD-игра в духе Sir, We Have Orc Problems"></a>
 
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2102411087002112256"><img src="../assets/previews/497787bc84475fd87250548238200c034f565a9dcc7641b0ceccf733ce860152.jpg" width="840" loading="lazy" alt="TD-игра в духе Sir, We Have Orc Problems"></a>
+<a href="https://www.tripo3d.ai/ru/3d-prompts/orc-tower-defense-game"><img src="../assets/previews/497787bc84475fd87250548238200c034f565a9dcc7641b0ceccf733ce860152.jpg" width="840" loading="lazy" alt="TD-игра в духе Sir, We Have Orc Problems"></a>
 
 Промпт, с помощью которого автор попросил Astra создать игру в жанре tower defense, похожую на Sir, We Have Orc Problems.
 
@@ -1592,7 +1568,7 @@ Langya — живой мальчик с бирюзовым капюшоном и
 Сделай TD-игру вроде Sir, We Have Orc Problems
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2102411087002112256) · [Исходная публикация](https://x.com/nikzu_/status/2102411087002112256) · [Назад к примерам](#all-prompts)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/orc-tower-defense-game) · [Исходная публикация](https://x.com/nikzu_/status/2102411087002112256) · [Назад к примерам](#all-prompts)
 
 ---
 
@@ -1759,7 +1735,7 @@ Langya — живой мальчик с бирюзовым капюшоном и
 
 [noclipepe](https://x.com/noclipepe) · 2026-09-23
 
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2102897258983313712"><img src="../assets/previews/7081447827f1c3142a1e647eae36ba49c69fe17b4006156a64e6e5a7d8977779.jpg" width="840" loading="lazy" alt="Бургерный симулятор от первого лица"></a>
+<a href="https://www.tripo3d.ai/ru/3d-prompts/first-person-burger-cooking-simulator"><img src="../assets/previews/7081447827f1c3142a1e647eae36ba49c69fe17b4006156a64e6e5a7d8977779.jpg" width="840" loading="lazy" alt="Бургерный симулятор от первого лица"></a>
 
 Промпт, который, по словам автора публикации, он передал трём моделям, включая GPT-6 Sol и GPT-6 Luna, для игры-симулятора приготовления бургеров от первого лица.
 
@@ -1769,7 +1745,7 @@ Langya — живой мальчик с бирюзовым капюшоном и
 создай симулятор приготовления бургеров от первого лица.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2102897258983313712) · [Исходная публикация](https://x.com/noclipepe/status/2102897258983313712) · [Назад к примерам](#all-prompts)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/first-person-burger-cooking-simulator) · [Исходная публикация](https://x.com/noclipepe/status/2102897258983313712) · [Назад к примерам](#all-prompts)
 
 ---
 
@@ -1779,7 +1755,7 @@ Langya — живой мальчик с бирюзовым капюшоном и
 
 [Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24
 
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2102915300295369208"><img src="../assets/previews/764e2d668b97fd0ae51f70fab3b1b2878a2cb5e18d43651083eb08c41758cf91.jpg" width="840" loading="lazy" alt="Гиперреалистичная интерактивная HTML-сцена с костром в пустыне"></a>
+<a href="https://www.tripo3d.ai/ru/3d-prompts/realistic-desert-campfire-interactive-scene"><img src="../assets/previews/764e2d668b97fd0ae51f70fab3b1b2878a2cb5e18d43651083eb08c41758cf91.jpg" width="840" loading="lazy" alt="Гиперреалистичная интерактивная HTML-сцена с костром в пустыне"></a>
 
 Авторский промпт, использованный для сравнения оболочек GPT 6 Sol и Opus 5.5. Он запрашивает одну интерактивную HTML-сцену с гиперреалистичным ночным костром в пустыне, сиденьями из брёвен вокруг огня, видимыми звёздами, время от времени появляющимися дикими животными и высококачественным звуком, соответствующим сцене.
 
@@ -1796,7 +1772,7 @@ Langya — живой мальчик с бирюзовым капюшоном и
 назовите файл (на основе модели)
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2102915300295369208) · [Исходная публикация](https://x.com/Nixtrodamis/status/2102915567845794029) · [Назад к примерам](#all-prompts)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/realistic-desert-campfire-interactive-scene) · [Исходная публикация](https://x.com/Nixtrodamis/status/2102915567845794029) · [Назад к примерам](#all-prompts)
 
 ---
 
@@ -1896,7 +1872,7 @@ CONTROLS
 
 [Vib3Coded](https://x.com/vib3coded) · 2026-09-24
 
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2103187935759655167"><img src="../assets/previews/d8520ab42c6973da4541907e224aed200b691613a7b7bb3183774bb39e1ffdef.jpg" width="840" loading="lazy" alt="На север: интерактивное путешествие на драккаре"></a>
+<a href="https://www.tripo3d.ai/ru/3d-prompts/viking-longship-fjord-threejs-journey"><img src="../assets/previews/d8520ab42c6973da4541907e224aed200b691613a7b7bb3183774bb39e1ffdef.jpg" width="840" loading="lazy" alt="На север: интерактивное путешествие на драккаре"></a>
 
 Авторский промпт для самостоятельного интерактивного 3D-путешествия по фьорду на Three.js и WebGL — на борту детально проработанного викингского драккара. В нём описаны кинематографичная северная среда, физически соединённая конструкция корабля, анимация гребли и эффекты контакта с водой, управление рулением и камерой, поддержка мобильных устройств, режимы освещения, звуковое сопровождение и встроенные ресурсы для публикации.
 
@@ -1971,7 +1947,7 @@ W/S: регулировка скорости.
 Отдайте приоритет убедительной воде, прекрасно сконструированному драккару и цельному окружению, а не добавлению новых объектов.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2103187935759655167) · [Исходная публикация](https://x.com/vib3coded/status/2103189762672611675) · [Назад к примерам](#all-prompts)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/viking-longship-fjord-threejs-journey) · [Исходная публикация](https://x.com/vib3coded/status/2103189762672611675) · [Назад к примерам](#all-prompts)
 
 ---
 
@@ -2086,7 +2062,7 @@ Three.js в браузере. Процедурная и инстансирова
 
 [tonysuri](https://x.com/tonysurix) · 2026-09-25
 
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2103351755971207251"><img src="../assets/previews/38d510439e2c3695b5acbb44c83317a5c0824a4b8b8305c45187d66ca6ebeccd.jpg" width="840" loading="lazy" alt="Римское поле битвы в золотой час"></a>
+<a href="https://www.tripo3d.ai/ru/3d-prompts/golden-hour-roman-battlefield-blender-scene"><img src="../assets/previews/38d510439e2c3695b5acbb44c83317a5c0824a4b8b8305c45187d66ca6ebeccd.jpg" width="840" loading="lazy" alt="Римское поле битвы в золотой час"></a>
 
 Подробное задание в Blender по созданию реалистичной сцены римского поля битвы в золотой час на основе предоставленного концепт-арта. В задании предусмотрены арена для поединка один на один, окружённая крупными валунами, детализированный рельеф земли с картой рельефа, процедурные ассеты там, где это возможно, скайбокс с небом в золотой час, жёсткие тени, повторно используемые ассеты в формате GLB, а также передача файла .blend и таймлапса процесса сборки.
 
@@ -2109,7 +2085,7 @@ DELIVERABLES
 Видео таймлапса процесса сборки.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2103351755971207251) · [Исходная публикация](https://x.com/tonysurix/status/2103352274269675532) · [Назад к примерам](#all-prompts)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/golden-hour-roman-battlefield-blender-scene) · [Исходная публикация](https://x.com/tonysurix/status/2103352274269675532) · [Назад к примерам](#all-prompts)
 
 ---
 
@@ -2468,7 +2444,7 @@ VALIDATION
 
 [Wësche](https://x.com/WescheNex1q) · 2026-09-28
 
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2104590493191479337"><img src="../assets/previews/643a23b0eaff495333c760e37ddc2036b908363d59f61d886f6598742a59a843.jpg" width="840" loading="lazy" alt="J-образный крюк для 3D-печати и испытания на прочность"></a>
+<a href="https://www.tripo3d.ai/ru/3d-prompts/3d-printable-j-hook-openscad-strength-test"><img src="../assets/previews/643a23b0eaff495333c760e37ddc2036b908363d59f61d886f6598742a59a843.jpg" width="840" loading="lazy" alt="J-образный крюк для 3D-печати и испытания на прочность"></a>
 
 Разработайте цельный J-образный крюк из PLA для 3D-печати и испытаний на прочность. Он должен вручную защёлкиваться на стальном прутке диаметром 8 мм и удерживать нагрузочный штифт диаметром 8 мм с соблюдением требований к размерам, массе, фиксации и защите от проскальзывания. Требуется полный файл OpenSCAD, пригодный для экспорта в STL.
 
@@ -2490,7 +2466,7 @@ VALIDATION
 Не приводите текст STL и G-код. Только OpenSCAD. Если первый вариант будет соскальзывать, замените его в том же ответе.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2104590493191479337) · [Исходная публикация](https://x.com/WescheNex1q/status/2104590493191479337) · [Назад к примерам](#all-prompts)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/3d-printable-j-hook-openscad-strength-test) · [Исходная публикация](https://x.com/WescheNex1q/status/2104590493191479337) · [Назад к примерам](#all-prompts)
 
 ---
 
@@ -2500,9 +2476,9 @@ VALIDATION
 
 [Alejandro](https://x.com/AlejandroRomaan) · 2026-09-28
 
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2104605522640970208"><img src="../assets/previews/e9d956c6cfd11ddef0d83a4351ec53a5a04d44b4e42e72554986def5202e8d4a.jpg" width="840" loading="lazy" alt="Интерактивная образовательная 3D-модель CRISPR"></a>
+<a href="https://www.tripo3d.ai/ru/3d-prompts/interactive-crispr-dna-3d-visualization"><img src="../assets/previews/e9d956c6cfd11ddef0d83a4351ec53a5a04d44b4e42e72554986def5202e8d4a.jpg" width="840" loading="lazy" alt="Интерактивная образовательная 3D-модель CRISPR"></a>
 
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2104605522640970208"><img src="../assets/previews/549d486909b60fc933dfc5bff87aa14eb814f1a09c3bbbaf98bbe2601b322068.jpg" width="840" loading="lazy" alt="Интерактивная образовательная 3D-модель CRISPR"></a>
+<a href="https://www.tripo3d.ai/ru/3d-prompts/interactive-crispr-dna-3d-visualization"><img src="../assets/previews/549d486909b60fc933dfc5bff87aa14eb814f1a09c3bbbaf98bbe2601b322068.jpg" width="840" loading="lazy" alt="Интерактивная образовательная 3D-модель CRISPR"></a>
 
 Интерактивная понятная 3D-модель технологии редактирования ДНК CRISPR для обучения. Она должна показывать цепь ДНК и весь процесс редактирования генов, обозначать каждый компонент и позволять пользователям выбирать нужные элементы, чтобы узнать о них подробнее.
 
@@ -2512,7 +2488,7 @@ VALIDATION
 Создай интерактивную образовательную 3D-модель, наглядно показывающую принцип работы технологии редактирования ДНК CRISPR. Можно использовать любую технологию, если результат будет понятным и хорошо читаемым: в модели должна быть цепь ДНК, полный процесс редактирования генов с объяснением назначения каждой части, а пользователь должен иметь возможность выбрать любой relevantный элемент и узнать о нём больше.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2104605522640970208) · [Исходная публикация](https://x.com/AlejandroRomaan/status/2104605522640970208) · [Назад к примерам](#all-prompts)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-crispr-dna-3d-visualization) · [Исходная публикация](https://x.com/AlejandroRomaan/status/2104605522640970208) · [Назад к примерам](#all-prompts)
 
 ---
 
@@ -2522,7 +2498,7 @@ VALIDATION
 
 [Fazley](https://x.com/itsfazley) · 2026-09-28
 
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2104613125093998674"><img src="../assets/previews/56d9ffba8a2359b42f24dc04f30b499e0cf7978bfdf55eae0aa43f35e533979c.jpg" width="840" loading="lazy" alt="Интерактивная прогулка на лодке по джунглям при лунном свете"></a>
+<a href="https://www.tripo3d.ai/ru/3d-prompts/moonlit-jungle-boat-ride-threejs-scene"><img src="../assets/previews/56d9ffba8a2359b42f24dc04f30b499e0cf7978bfdf55eae0aa43f35e533979c.jpg" width="840" loading="lazy" alt="Интерактивная прогулка на лодке по джунглям при лунном свете"></a>
 
 Полноэкранная адаптивная прогулка на лодке по узкому водному пути в джунглях на Three.js. Игроки управляют пустой деревянной гребной лодкой с помощью клавиатуры или сенсорных элементов управления. В сцене есть анимированная вода, эффекты кильватерного следа, отражения лунного света, атмосферное аудио и переключение между лунной ночью, рассветом и дождём.
 
@@ -2532,7 +2508,7 @@ VALIDATION
 Создайте полноэкранную адаптивную прогулку на лодке на Three.js в узком водном пути среди джунглей. Используйте камеру от третьего лица, следующую за пустой деревянной гребной лодкой с заострённым носом, широкими бортами, плоской кормой, видимыми досками днища и сиденьями; в лодке не должно быть вёсел, её внутреннее пространство должно быть сухим, а корпус — слегка погружённым в воду. Позвольте пользователям управлять лодкой с помощью клавиш WASD или стрелок, а также сенсорных элементов управления. Сделайте сцену ночной и мистической: добавьте густые, разнообразные, реалистичные тёмно-зелёные деревья по обоим берегам, лёгкое движение от ветра, детализированную полную луну и прерывистые отражения лунного света на анимированной воде. Создайте убедительные движущиеся волны, искажённые отражения лодки и деревьев, а также кильватерный след, повторяющий пройденный лодкой путь и естественно затухающий — без фиксированных светящихся отметок и резких круговых границ. Добавьте переключатель погоды с режимами лунной ночи, тёплого рассвета и пасмурного дождя; в режиме дождя показывайте падающие капли и небольшие быстро исчезающие круги на воде, форма которых зависит от волн. Добавьте необязательный ненавязчивый фон: звуки воды, джунглей и дождя. Интерфейс должен оставаться минималистичным. Проверьте визуальные эффекты, управление, аудио, счётчик и все три погодных режима на компьютерах и мобильных устройствах.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2104613125093998674) · [Исходная публикация](https://x.com/itsfazley/status/2104613128017522813) · [Назад к примерам](#all-prompts)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/moonlit-jungle-boat-ride-threejs-scene) · [Исходная публикация](https://x.com/itsfazley/status/2104613128017522813) · [Назад к примерам](#all-prompts)
 
 ---
 
@@ -2542,7 +2518,7 @@ VALIDATION
 
 [Marcel](https://x.com/marcthecreatorr) · 2026-09-28
 
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2104654448878387313"><img src="../assets/previews/487b700ccd9ea1cc1b22eefe925d0ca7231c3c4ba70772a05a71cd21dcce91ea.jpg" width="840" loading="lazy" alt="Трансформирующийся спорткар с рентгеновским режимом и покомпонентным представлением"></a>
+<a href="https://www.tripo3d.ai/ru/3d-prompts/transforming-sports-car-robot-exploded-view"><img src="../assets/previews/487b700ccd9ea1cc1b22eefe925d0ca7231c3c4ba70772a05a71cd21dcce91ea.jpg" width="840" loading="lazy" alt="Трансформирующийся спорткар с рентгеновским режимом и покомпонентным представлением"></a>
 
 Одноходовый промпт от Marcel для сравнения GPT-6 Astra и Sonnet 5.5. В нём запрашивается интерактивный детализированный спорткар, который трансформируется в человекоподобного робота, а также режимы рентгеновского просмотра и покомпонентной разборки.
 
@@ -2552,7 +2528,7 @@ VALIDATION
 Создайте детализированный спорткар, который трансформируется в человекоподобного робота. Добавьте рентгеновский режим и интерактивное покомпонентное представление.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2104654448878387313) · [Исходная публикация](https://x.com/marcthecreatorr/status/2104654448878387313) · [Назад к примерам](#all-prompts)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/transforming-sports-car-robot-exploded-view) · [Исходная публикация](https://x.com/marcthecreatorr/status/2104654448878387313) · [Назад к примерам](#all-prompts)
 
 ---
 
@@ -2880,7 +2856,7 @@ ENGINEERING
 
 [けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-03
 
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2106385060106777043"><img src="../assets/previews/53df380ec6620d54216251f13298ad3d83132ea05276ca497edc3639c660e1b0.jpg" width="840" loading="lazy" alt="Управляемая 3D-сцена с лодкой на горной реке"></a>
+<a href="https://www.tripo3d.ai/ru/3d-prompts/mountain-river-boat-interactive-3d-scene"><img src="../assets/previews/53df380ec6620d54216251f13298ad3d83132ea05276ca497edc3639c660e1b0.jpg" width="840" loading="lazy" alt="Управляемая 3D-сцена с лодкой на горной реке"></a>
 
 Инструкция по созданию 3D-сцены на three.js, где лодка плывёт по горной реке в Японии. Предусмотрено управление лодкой стрелками, переключение между днём, ночью и дождём, а также свечение фонарей вдоль реки в ночное время. Автор публикации утверждает, что один раз отправил эту же инструкцию в GPT-6 Astra.
 
@@ -2890,7 +2866,7 @@ ENGINEERING
 Создайте на three.js 3D-сцену, в которой лодка плывёт по горной реке в Японии. Добавьте управление лодкой стрелками, переключение между днём, ночью и дождём, а также свечение фонарей вдоль реки в ночное время.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2106385060106777043) · [Исходная публикация](https://x.com/kensumi_ai/status/2106385072266084741) · [Назад к примерам](#all-prompts)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/mountain-river-boat-interactive-3d-scene) · [Исходная публикация](https://x.com/kensumi_ai/status/2106385072266084741) · [Назад к примерам](#all-prompts)
 
 ---
 
@@ -2900,7 +2876,7 @@ ENGINEERING
 
 [けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-04
 
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2106737391948235164"><img src="../assets/previews/7832ff805e07d9d042bfa48b9d6befded51c8aa09f65c3685af345c95f2a378b.jpg" width="840" loading="lazy" alt="3D-пространство дома для прогулки в браузере"></a>
+<a href="https://www.tripo3d.ai/ru/3d-prompts/3d-house-browser-walkthrough"><img src="../assets/previews/7832ff805e07d9d042bfa48b9d6befded51c8aa09f65c3685af345c95f2a378b.jpg" width="840" loading="lazy" alt="3D-пространство дома для прогулки в браузере"></a>
 
 Инструкция по созданию одностраничного 3D-пространства, которое открывается в браузере и позволяет ходить по дому и осматривать его изнутри.
 
@@ -2910,7 +2886,7 @@ ENGINEERING
 Создайте одностраничное 3D-пространство, которое открывается в браузере и позволяет ходить по дому и осматривать его изнутри.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2106737391948235164) · [Исходная публикация](https://x.com/kensumi_ai/status/2106737391948235164) · [Назад к примерам](#all-prompts)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/3d-house-browser-walkthrough) · [Исходная публикация](https://x.com/kensumi_ai/status/2106737391948235164) · [Назад к примерам](#all-prompts)
 
 ---
 
@@ -2920,7 +2896,7 @@ ENGINEERING
 
 [Paruchh](https://x.com/theparuchh) · 2026-10-04
 
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2106824464092770455"><img src="../assets/previews/9bf4e6da4a2aea738b61431a28bddccd01b9453d6ea43fdf077391d50aac5753.jpg" width="840" loading="lazy" alt="Создайте кинематографичный трейлер для вымышленной игры"></a>
+<a href="https://www.tripo3d.ai/ru/3d-prompts/procedural-game-trailer-blender-animation"><img src="../assets/previews/9bf4e6da4a2aea738b61431a28bddccd01b9453d6ea43fdf077391d50aac5753.jpg" width="840" loading="lazy" alt="Создайте кинематографичный трейлер для вымышленной игры"></a>
 
 Полный авторский промпт для 35–40-секундного кинематографичного трейлера вымышленной игры. Он предполагает процедурно сгенерированный 3D-мир, анимацию существа или персонажа, атмосферное освещение, синтезированный звук, раскадровку с заданным ритмом, проверку качества и воспроизводимые исходные материалы Blender/Python. В исходной публикации сказано, что GPT-6 Astra создала показанный трейлер с помощью этого промпта.
 
@@ -2990,7 +2966,7 @@ DELIVERABLES
 Работайте автономно, пока готовый результат не будет полностью подготовлен
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2106824464092770455) · [Исходная публикация](https://x.com/theparuchh/status/2106825162209497583) · [Назад к примерам](#all-prompts)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/procedural-game-trailer-blender-animation) · [Исходная публикация](https://x.com/theparuchh/status/2106825162209497583) · [Назад к примерам](#all-prompts)
 
 ---
 
@@ -3000,7 +2976,7 @@ DELIVERABLES
 
 [けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-05
 
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2106944804756275690"><img src="../assets/previews/e5832410399df5ceabb2b7feb01c0250a3c8b328ccb83df0a8b153b87dad0a63.jpg" width="840" loading="lazy" alt="3D-игра: соберите 10 осколков звёзд на ночном островке"></a>
+<a href="https://www.tripo3d.ai/ru/3d-prompts/night-island-star-collecting-3d-game"><img src="../assets/previews/e5832410399df5ceabb2b7feb01c0250a3c8b328ccb83df0a8b153b87dad0a63.jpg" width="840" loading="lazy" alt="3D-игра: соберите 10 осколков звёзд на ночном островке"></a>
 
 Промпт для создания браузерной 3D-игры, в которой игрок исследует небольшой ночной остров и собирает 10 осколков звёзд; в нём явно указано, что автор дал инструкции GPT-6 Astra.
 
@@ -3010,7 +2986,7 @@ DELIVERABLES
 Создайте одностраничную 3D-игру, в которую можно играть в браузере: игрок должен исследовать небольшой ночной остров и собрать 10 осколков звёзд.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2106944804756275690) · [Исходная публикация](https://x.com/kensumi_ai/status/2106944821818720302) · [Назад к примерам](#all-prompts)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/night-island-star-collecting-3d-game) · [Исходная публикация](https://x.com/kensumi_ai/status/2106944821818720302) · [Назад к примерам](#all-prompts)
 
 ---
 
@@ -3020,7 +2996,7 @@ DELIVERABLES
 
 [Vib3Coded](https://x.com/vib3coded) · 2026-10-05
 
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2107127712871505976"><img src="../assets/previews/8aea77310a81607281a11c92f850b52fa1ea1d0e6e349ba5fae31e0296ecb1c8.jpg" width="840" loading="lazy" alt="Плюшевый паук — Исследования материалов № 015"></a>
+<a href="https://www.tripo3d.ai/ru/3d-prompts/webgpu-plush-spider-soft-body-physics"><img src="../assets/previews/8aea77310a81607281a11c92f850b52fa1ea1d0e6e349ba5fae31e0296ecb1c8.jpg" width="840" loading="lazy" alt="Плюшевый паук — Исследования материалов № 015"></a>
 
 Создайте автономное интерактивное исследование плюшевого паука на нативном WebGPU. Процедурный паук использует физику мягкого тела и проволочных ног, поддерживает расчёсывание ворса на панцире, ходьбу, сворачивание, подвешивание на шёлковой нити и взмахи лапкой, а также прямое управление инструментами «Рука», «Палец» и «Расчёска». В корневой публикации сравниваются версии ChatGPT-6 Astra и Opus; автор предоставил этот промпт в подтверждённом комментарии.
 
@@ -3097,7 +3073,7 @@ DELIVERABLES
 - Вращение и масштабирование; адаптивная компоновка со стекающими блоками на телефонах; адаптивное качество; поддержка режима уменьшенного движения.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2107127712871505976) · [Исходная публикация](https://x.com/vib3coded/status/2107128017503830119) · [Назад к примерам](#all-prompts)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/webgpu-plush-spider-soft-body-physics) · [Исходная публикация](https://x.com/vib3coded/status/2107128017503830119) · [Назад к примерам](#all-prompts)
 
 ---
 
@@ -3107,7 +3083,7 @@ DELIVERABLES
 
 [NinjaCodex](https://x.com/N1njaCodex) · 2026-10-05
 
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2107186979502776590"><img src="../assets/previews/e5e4ba8cec9a2f18f6368adf534fa93b9e573285f94ace926035f367ddb44c80.jpg" width="840" loading="lazy" alt="Банановый желеобразный сад"></a>
+<a href="https://www.tripo3d.ai/ru/3d-prompts/webgpu-banana-jelly-physics-simulation"><img src="../assets/previews/e5e4ba8cec9a2f18f6368adf534fa93b9e573285f94ace926035f367ddb44c80.jpg" width="840" loading="lazy" alt="Банановый желеобразный сад"></a>
 
 Интерактивное исследование материалов WebGPU: пышное банановое растение из полупрозрачного цветного желе. Автор добавил этот промпт в комментарии к сравнению Claude Opus 5.5 и ChatGPT-6 Astra; в нём описаны процедурная геометрия растения, физически обусловленная анимация, отделяющиеся бананы, очистка кожуры при ударе, управление палитрой и взаимодействие касанием или указателем.
 
@@ -3169,7 +3145,7 @@ SIMULATION
 - Откройте отладочный хук (window.__bj: advance, shake, pick, project, setPalette, reset, setPause, counts) и проверьте: в начале полная гроздь из 31 банана; ≥20 листьев; в состоянии покоя ничего не падает; бриз двигает листья, а при Breeze 0 всё неподвижно; встряхивание сбрасывает часть бананов, не очищая их; упавшие плоды останавливаются; счётчики обновляются; сброс восстанавливает исходное состояние; вытянутый банан отрывается один; сильное приземление очищает его, мягкое падение — нет; сердцевина раскачивается как маятник, не сбрасывая плоды; листья сгибаются и возвращаются; палитры, ползунки, пауза, вращение и масштабирование работают; стресс-тест не выдаёт NaN; стоимость симуляции < 5 мс; сетевые запросы отсутствуют; ошибок в консоли нет; на мобильных работают нижний лист и касания; резервная карточка отображается.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2107186979502776590) · [Исходная публикация](https://x.com/N1njaCodex/status/2107187133173678156) · [Назад к примерам](#all-prompts)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/webgpu-banana-jelly-physics-simulation) · [Исходная публикация](https://x.com/N1njaCodex/status/2107187133173678156) · [Назад к примерам](#all-prompts)
 
 ---
 
@@ -3179,7 +3155,7 @@ SIMULATION
 
 [IamAlam](https://x.com/_IamAlam) · 2026-10-06
 
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2107479802152472717"><img src="../assets/previews/58b1763f9947b348c6baf6e27de3c5a27097872757b52d78755d3313fb248342.jpg" width="840" loading="lazy" alt="Интерактивная энциклопедия дикой природы Wild Atlas"></a>
+<a href="https://www.tripo3d.ai/ru/3d-prompts/wildlife-encyclopedia-interactive-3d-animal-viewer"><img src="../assets/previews/58b1763f9947b348c6baf6e27de3c5a27097872757b52d78755d3313fb248342.jpg" width="840" loading="lazy" alt="Интерактивная энциклопедия дикой природы Wild Atlas"></a>
 
 Премиальная интерактивная энциклопедия дикой природы с пятью животными в едином стиле, выбираемыми карточками, медленным вращением, поддержкой вращения перетаскиванием, приближением и обновляемой информационной панелью.
 
@@ -3212,7 +3188,7 @@ SIMULATION
 Используйте рендеры животных в формате turntable с возможностью вращения перетаскиванием и приближения — полноценная 3D-сцена не требуется. Сохраните премиальный, сдержанный стиль энциклопедии. После завершения опубликуйте результат как работающий приватный сайт.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2107479802152472717) · [Исходная публикация](https://x.com/_IamAlam/status/2107480596926939638) · [Назад к примерам](#all-prompts)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/wildlife-encyclopedia-interactive-3d-animal-viewer) · [Исходная публикация](https://x.com/_IamAlam/status/2107480596926939638) · [Назад к примерам](#all-prompts)
 
 ---
 
@@ -3222,7 +3198,7 @@ SIMULATION
 
 [Vib3Coded](https://x.com/vib3coded) · 2026-10-06
 
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2107533363808485534"><img src="../assets/previews/3577fb25c99300f512c1ab63e5296bee76c80d9936bc376664be8399fc6f6908.jpg" width="840" loading="lazy" alt="Плюшевый кальмар."></a>
+<a href="https://www.tripo3d.ai/ru/3d-prompts/webgpu-plush-squid-soft-body-physics"><img src="../assets/previews/3577fb25c99300f512c1ab63e5296bee76c80d9936bc376664be8399fc6f6908.jpg" width="840" loading="lazy" alt="Плюшевый кальмар."></a>
 
 Автор публикации предоставил промпт для интерактивного исследования плюшевого кальмара на WebGPU в виде автономного HTML-файла. В нём заданы процедурная модель кальмара, движение на основе физики мягких тел и ткани, отзывчивые инструменты руки, пальца и гребня, реакции на струйное движение и испуг, а также интерфейс редакционного стенда с панелью образца.
 
@@ -3248,7 +3224,7 @@ SPECIMEN
 — Редакционная компоновка студии: «Material Studies / No. 017», крупный курсивный заголовок с засечками «Плюшевый кальмар.», короткая подпись, интерактивный статусный индикатор, панель образца (инструменты, образцы окраски, набивка, ворс, дыхание; Струя, Удар, Испуг, Гладкий мех, Сброс, Пауза; Блуждание, скорость ¼, Сетка), показатели (масса, объём в %, количество струйных движений, цепляющиеся руки), заметки; вращение и масштабирование; вертикальная мобильная компоновка; резервная карточка WebGPU.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2107533363808485534) · [Исходная публикация](https://x.com/vib3coded/status/2107533605945635233) · [Назад к примерам](#all-prompts)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/webgpu-plush-squid-soft-body-physics) · [Исходная публикация](https://x.com/vib3coded/status/2107533605945635233) · [Назад к примерам](#all-prompts)
 
 ---
 
@@ -3258,7 +3234,7 @@ SPECIMEN
 
 [Vib3Coded](https://x.com/vib3coded) · 2026-10-06
 
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2107617244301664483"><img src="../assets/previews/862faa173b8996ddd2b3c6003d6c3c41adda9f8729b5bf936747605246e2bc9a.jpg" width="840" loading="lazy" alt="Вилла Jelly"></a>
+<a href="https://www.tripo3d.ai/ru/3d-prompts/webgpu-tropical-villa-jelly-island-diorama"><img src="../assets/previews/862faa173b8996ddd2b3c6003d6c3c41adda9f8729b5bf936747605246e2bc9a.jpg" width="840" loading="lazy" alt="Вилла Jelly"></a>
 
 Самодостаточная интерактивная 3D-диорама острова из желе на WebGPU: современная тропическая вилла, лагуна, пальмы, плавающие игрушки и автономная лодка. Пользователь может перемешивать и наклонять желейное море, менять цвета вкусов, бросать предметы, сгибать пальмы, буксировать лодку и вращать сцену.
 
@@ -3317,7 +3293,7 @@ RENDERING
 - Отладочный хук window.__vj (world, boat, bodies, water, block, advance, drop, pick, project, setPalette, reset, setPause, freeze flag). Проверить: 6 тел в начальном состоянии и счётчик 2/2/2; вилла и 10 пальм созданы; лодка проходит не менее 6 единиц за 14 с без посадки на мель и оставляет пену и волны; стабильность в состоянии простоя; брошенный мяч высоко держится на воде, уточка остаётся вертикальной, морская звезда тонет и ложится плашмя; интерфейсный счётчик соответствует состоянию; перемешивание создаёт волны, которые затухают; наклон блока собирает море у нижней стороны, после чего оно возвращается в равновесие; лодку можно схватить и буксировать, после чего она возобновляет курс; брошенный в море мяч покачивается на волнах, уточка, помещённая на пляж, стоит вертикально; пальмы сгибаются; работают вкусы, ползунки, пауза, вращение и масштабирование; стресс-тест не создаёт NaN; симуляция < 5 мс/кадр; нет сетевых запросов и ошибок в консоли; нет прокрутки страницы; работают мобильная шторка и сенсорное управление; предусмотрен резервный режим WebGPU.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2107617244301664483) · [Исходная публикация](https://x.com/vib3coded/status/2107617476473164210) · [Назад к примерам](#all-prompts)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/webgpu-tropical-villa-jelly-island-diorama) · [Исходная публикация](https://x.com/vib3coded/status/2107617476473164210) · [Назад к примерам](#all-prompts)
 
 ---
 
@@ -3327,7 +3303,7 @@ RENDERING
 
 [quesma.com](https://quesma.com/) · 2026-10-07
 
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2107824019999535226"><img src="../assets/previews/5a1055902ebf648653a42e7ab254c5326c505a2bca9f96c7ed5ab8ed440ff0ab.jpg" width="840" loading="lazy" alt="Визуализация «Невидимых городов» в Three.js"></a>
+<a href="https://www.tripo3d.ai/ru/3d-prompts/invisible-cities-threejs-interactive-visualization"><img src="../assets/previews/5a1055902ebf648653a42e7ab254c5326c505a2bca9f96c7ed5ab8ed440ff0ab.jpg" width="840" loading="lazy" alt="Визуализация «Невидимых городов» в Three.js"></a>
 
 В статье по ссылке Пётр Мигдаль рассказывает, что передал этот промпт GPT-6 Astra в Codex для создания интерактивной визуализации «Невидимых городов» Итало Кальвино на Three.js.
 
@@ -3337,7 +3313,7 @@ RENDERING
 Создай в Three.js (pnpm) визуализацию всех «Невидимых городов» Итало Кальвино. Не задавай вопросов — это одношаговая задача. У тебя есть 6 часов работы; используй их по максимуму, пока результат не станет шедевром.
 ```
 
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2107824019999535226) · [Исходная публикация](https://quesma.com/blog/invisible-cities-one-shot/) · [Назад к примерам](#all-prompts)
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/invisible-cities-threejs-interactive-visualization) · [Исходная публикация](https://quesma.com/blog/invisible-cities-one-shot/) · [Назад к примерам](#all-prompts)
 
 ---
 
@@ -3461,6 +3437,65 @@ RENDERING
 ```
 
 [Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/crazy-tanks-3d-island-artillery) · [Демо](https://super-tanks-aftershock.tripo.page/) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="jelly-villa"></a>
+
+### Желейная вилла
+
+[jared](https://x.com/jaredliu_bravo) · 2026-10-08
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/jelly-villa"><img src="../assets/previews/d89de585b8c44c48612e912fff0c35c56c9bed0a69eccc11498b0fd2c5f7f01c.png" width="840" loading="lazy" alt="Желейная вилла"></a>
+
+Перемешивайте море цвета драгоценных камней, буксируйте миниатюрную яхту и сгибайте пальмы вокруг тропической виллы. Переключайтесь между сценой, созданной кодом, и настоящими моделями виллы и яхты из Tripo P2 на одном живом острове.
+
+**Промпт**
+
+```text
+1. Цель проекта
+Создайте «Jelly Villa» — интерактивный миниатюрный тропический рай на срезе полупрозрачного блока желе. Посетитель может перемешивать лагуну, буксировать миниатюрную яхту, бросать пляжные игрушки, сгибать пальмы и наклонять остров. Пространство должно выглядеть как изящный архитектурный макет, который неожиданно ожил. Это независимый ремикс jared на референс Vib3Coded «Villa Jelly», с настоящими моделями виллы и яхты, созданными в Tripo P2. Укажите авторство jared с помощью https://x.com/jaredliu_bravo и сохраните отдельную ссылку «Inspired by Vib3Coded» на оригинальную работу. Не выдавайте видео автора референса за запись этого ремикса.
+
+2. Визуальный стиль и сравнение
+Используйте референсное видео, чтобы задать квадратный блок, диагональный ракурс с приподнятой камерой, L-образную лагуну, засаженное плато в задней части, белый современный дом, пышные пальмы, многослойные срезы и плавно движущуюся лодку. Воссоздайте именно эти взаимосвязи, а не абстрактный остров. В финальном ремиксе используются Three.js/WebGL2 вместо исходной нативной реализации WebGPU, чтобы загружать настоящие GLB-ассеты через стандартный браузерный пайплайн.
+Используйте тёплый бумажный фон примерно #edeae3, текст тёмного оливково-угольного оттенка, тончайшие разделители и сдержанные вечнозелёные акценты. Разместите в левом верхнем углу крупный антиквенный заголовок в стиле Georgia: «Jelly / Villa.», добавив вторую строку курсивом. Центральная диорама должна оставаться главным элементом, с достаточным свободным пространством по краям, небольшой панелью управления справа и ненавязчивыми инструкциями внизу. Интерфейс — на английском языке. Основная камера смотрит с положительных значений x и z, с перспективным углом обзора 34 градуса. Используйте мягкий тёплый солнечный свет, холодный заполняющий свет, рассеянное студийное освещение, реалистичные отбрасываемые тени, объекты, устойчиво стоящие на поверхности, и плёночный тонмаппинг. Поверхности стекла, окрашенной штукатурки, тика, песка, гелькоута, металла и листьев должны визуально различаться. Не допускайте выцветшей растительности и плоской непрозрачной воды.
+Разместите заметный переключатель Before / Compare / After над моделью. В режиме Before используйте полностью декорированную процедурную виллу и процедурную яхту. В режиме After заменяйте только эти два семейства объектов настоящими ассетами Tripo. В режиме Compare отображайте оба варианта в разделённом экране с перетаскиваемым разделителем, используя абсолютно одинаковые камеру, время анимации, рельеф, пальмы, воду, освещение и состояние игрушек. Честно подпишите обе стороны: «Before · Code-built» и «After · Tripo 3D». Перемещение разделителя не должно сбрасывать сцену. После загрузки моделей по умолчанию выбирайте After; если ассет недоступен, сохраняйте видимый запасной вариант и честно показывайте состояние загрузки или ошибки.
+
+3. Мир и окружение
+Размер блока — 5,2 на 5,2 единицы сцены. Верхняя поверхность представляет собой непрерывное поле высот: дно лагуны находится примерно на отметке 0,35, уровень воды по умолчанию — 1,04, а засаженное плато — около 1,50. Остров должен располагаться в задней части; соединённая с ним лагуна проходит вдоль двух передних граней. Сформируйте слегка неровные песчаные берега и плавный склон, добавьте лестницу от газона к пляжу. Квадратные срезы должны показывать тонкие слои шоколада, карамели, ванили и мяты с мелкими включениями гальки. Над слоями разместите прозрачные вертикальные водяные грани с тонким менисковым ободком. Поверхность воды и её срезы должны использовать одну и ту же палитру.
+Разместите виллу за террасой из светлого камня, добавьте садовые фонари, невысокие цветущие кустарники, газон с лёгкими полосами, разбросанные камни и пляжные травы. Ровно десять кокосовых пальм должны окружать виллу; каждую можно сгибать независимо, при этом между кронами должна просматриваться архитектура. У каждой пальмы — изогнутый кольчатый ствол, кокосы и пышная крона с дугообразными перистыми листьями, а не несколько плоских треугольных листьев. Добавьте кремовый зонтик с фестончатым краем, два шезлонга, терракотово-красный каяк и его весло у берега. Их масштаб должен оставаться второстепенным по отношению к дому.
+Задайте для яхты непрерывный маршрут через лагуну: внешний участок, закруглённый поворот, возврат по внутреннему участку и плавные развороты на 180 градусов. Корпус не должен приближаться к берегу и квадратным стенкам. Рельеф и вода остаются процедурными, чтобы деформироваться и реагировать; не заменяйте весь остров одним статичным сгенерированным мешем.
+
+4. Состав ассетов и стабильные слоты
+- villa: одна современная белая тропическая курортная резиденция со ступенчатыми плоскими крышами, тёмным остеклённым фасадом, тонкими рамами, балконами, каменным основанием и обставленной защищённой террасой. Она занимает заднюю террасу и является основным заменяемым ассетом. Сохраните исходный дизайн импортированной модели и все карты материалов. Разместите и заземлите модель в именованном слоте виллы, проверив её передний фасад относительно камеры и лестницы. Переданная модель Tripo имеет три уровня фасада; не утверждайте, что она точно дублирует референсный дом.
+- yacht: один компактный бело-синий круизер для дневных прогулок с заострённым корпусом, кремовыми сиденьями в кокпите, палубой из тика, лобовым стеклом, тонким жёстким верхом, носовым леером и двумя подвесными моторами. Он загружается независимо и перемещается по лагуне. Нормализуйте длину, проверьте направление носа, выровняйте ватерлинию и сохраните детализацию текстур. Варианты Before и After используют один и тот же трансформ движения и выборку плавучести.
+- palms: десять пальм, собранных в коде, с независимо выбираемыми пружинами сгиба и общими семействами геометрии и материалов. Для повышения эффективности рендеринга повторно используйте объединённые статичные части.
+- beach props: процедурные зонтик, шезлонги, каяк, весло, камни, трава, фонари, мощение и кусты. Их геометрия и детализация материалов должны быть идентичными в обоих режимах сравнения.
+- toys: повторно используемые семейства полосатых пляжных мячей, жёлтых резиновых уточек и коралловых морских звёзд. В начале на берегу находятся два мяча, на воде — две уточки, а на дне лагуны — две морские звезды.
+- water, terrain, foam, strata, lighting and UI: остаются сгенерированными в коде. Отделяйте прокси для столкновений и взаимодействия от видимой детализации сгенерированной модели.
+Вилла и яхта — настоящие ассеты Tripo P2, созданные по текстовому описанию и загружаемые из GLB-файлов того же источника. Храните их исходные промпты генерации и сведения о происхождении вместе с проектом, отдельно от этой спецификации воспроизведения. Не заменяйте детализированные меши изображениями или билбордами и не утверждайте, что процедурные элементы окружения созданы Tripo.
+
+5. Взаимодействие и обратная связь
+Проводите курсором по воде, чтобы создавать движущиеся вмятины и рябь; после отпускания они должны постепенно затихать. Реализуйте ограниченное волновое поле на основе метода конечных разностей, затухающее у береговой линии, с жёсткостью и демпфированием, зависящими от параметров. Добавьте небольшую анимированную рябь на поверхности, визуально преломляющийся оттенок глубины, плавные зеркальные блики, зависящий от глубины цвет и мягкие брызги в кильватере; никогда не вычисляйте нормали воды по экранным производным на уровне отдельных треугольников и не накладывайте повторяющиеся линейные узоры. Описывайте это как художественную симуляцию воды в реальном времени, не заявляя о физически точном моделировании жидкости.
+Потяните остров или его срез, чтобы сдвигать и сжимать всю сцену. Зафиксируйте основание и используйте общее нелинейное упругое поле для рельефа, воды, срезов, архитектуры, растительности и теней. После отпускания добавьте затухающую отдачу. Видимая кнопка «Give the island a wobble» должна давать тот же эффект. Геометрия боковых граней воды должна находиться выше локального дна рельефа, чтобы coplanar-перекрытия граней не вызывали мерцание. Выборка воды и координаты указателя должны использовать одну и ту же неотзеркаленную сетку, с плавно интерполируемыми высотами и нормалями. Потяните пальму, чтобы согнуть её, затем отпустите — пружина и лёгкий ветер должны вернуть её в исходное положение.
+Яхта автоматически движется по замкнутому маршруту со скоростью примерно 0,38–0,48 единицы сцены в секунду. Используйте выборку поверхности волн для управления вертикальной качкой и дифферентом, добавьте сдержанный крен, а за кормой создавайте импульсы воды и постепенно исчезающую пену. Посетитель должен иметь возможность захватить яхту и буксировать её по судоходной воде; сохраняйте смещение точки захвата и следуйте за инерционной целью с демпфированием. После отпускания сохраняйте фактические положение и скорость, а затем плавно направляйте яхту обратно к маршруту. Никогда не телепортируйте её в точку пути. Используйте независимый прокси для клиренса корпуса, скольжение вдоль берега, ограниченную скорость, плавное изменение курса и четырёхточечную пружинную плавучесть, чтобы медленные, быстрые и обратные движения оставались стабильными. Яхта должна отталкивать находящиеся рядом плавающие игрушки.
+Кнопки Drop добавляют сверху один пляжный мяч, уточку или морскую звезду. Мячи должны высоко плавать, уточки — оставаться в вертикальном положении, а морские звезды — опускаться на дно. При попадании в воду игрушки создают всплеск и рябь. Поддержите перетаскивание и отпускание игрушек, гравитацию, затухающие плавучие движения, контакт с рельефом и ограничения стенок. Подсчитывайте Afloat, Sunk и Ashore по фактическому состоянию тел. Ограничьте общее число игрушек 40, удаляя самые старые, чтобы многократное использование оставалось отзывчивым.
+Добавьте палитры Turquoise, Curaçao и Raspberry; жёсткость желе — 10–100, по умолчанию 50; демпфирование — 5–90, по умолчанию 30; прилив — от -10 до +10 см, по умолчанию ноль. Reset восстанавливает игрушки, физику и значения по умолчанию. Pause замораживает симулируемый мир, а Resume продолжает его работу. Reset view восстанавливает исходное кадрирование. Вращайте вид перетаскиванием пустого пространства или правой кнопкой мыши; прокручивайте колёсико или используйте жест щипка для масштабирования. На узких экранах остров должен оставаться удобным для просмотра, а элементы управления следует свернуть за нижнюю панель «Make some waves». Не допускайте горизонтальной прокрутки страницы или её содержимого.
+Океанические звуки синтезируются локально и запускаются только после жеста пользователя. Добавьте явный переключатель Sound off/on. По возможности предоставьте полноэкранный режим и экспорт PNG-открытки на компьютере. Сохраните понятную ссылку «Make this paradise yours» на рабочее пространство Tripo для создания, добавив параметры авторства jelly-villa и открывая ссылку в новой вкладке.
+
+6. Техническая реализация
+Используйте автономный проект Vite + JavaScript + Three.js с собственным lock-файлом пакетов; браузеру не должны требоваться сервер или секретные ключи. Бандлите JavaScript, стили, GLB-файлы и все ресурсы времени выполнения с того же источника. Используйте GLTFLoader для отдельных слотов моделей, OrbitControls для управления камерой, физически корректный рендерер со студийным окружением и картой теней. Разместите доступный HTML-интерфейс поверх полноэкранного canvas. Не полагайтесь на скрипты сторонних CDN, исполняемый inline-код, внешние запросы текстур или подписанные URL моделей во время работы.
+Нормализуйте границы GLB, не изменяя исходные приватные файлы; сохраняйте карты, нормали и UV-координаты. Фиксируйте любые повороты, масштабирование или сжатие во время выполнения. Объединяйте статичное окружение, каждую пальму, процедурную модель и игрушки в подходящие батчи материалов, чтобы сократить число draw call; избегайте дорогих проходов transmission и постоянно сохраняемого drawing buffer; ограничьте pixel ratio, размер волновой сетки и количество частиц пены, а фактическую частоту кадров проверяйте вместо обещаний универсальных 60 fps. Используйте requestAnimationFrame с ограниченным delta time, фиксированными подшагами симуляции, демпфированием ввода и проверками конечности чисел. Во время Pause замораживайте анимацию; смена режима сравнения не должна пересоздавать или повторно симулировать сцену.
+Предоставьте небольшой интерфейс отладки для текущего состояния, готовности ассетов, проекции камеры, энергии воды, игрушек, положения лодки, паузы, палитры и режима сравнения. Он предназначен для валидации, а не для замены настоящего тестирования указателя и сенсорного ввода. Храните исходные файлы ассетов и сведения об их происхождении приватно для контролируемых загрузок из каталога; в статическую сборку включайте только необходимые копии для работы.
+
+7. Критерии готовности
+Передайте редактируемый исходный проект с командами установки, сборки и запуска, production-сборку и рабочее публичное демо. Проверьте композицию по мотивам референса, пышные пальмы, чётко видимые слои среза, корректно установленную на поверхность виллу и правильно выровненную яхту с фактического ракурса камеры. Протестируйте режимы Before, After и перемещение разделителя сравнения, убедившись, что общее состояние сцены совпадает. Подтвердите загрузку обоих GLB с настоящей геометрией и встроенными текстурами.
+Проверьте перемешивание воды, наклон острова, перетаскивание пальм, буксировку яхты и возобновление её движения, сбрасывание и перетаскивание игрушек, счётчики, все палитры и ползунки, Reset, Pause/Resume, вращение и масштабирование, мобильную панель управления, необязательный звук, полноэкранный режим, открытку и ссылку для создания. Выполните многокруговую проверку яхты, непрерывное медленное, быстрое и обратное перетаскивание яхты, потягивание берега и границ, проверку непрерывности после отпускания, деформацию острова при удержании, отдачу, экстремальные настройки волн и многократный сброс игрушек. Осмотрите воду крупным планом, все четыре стороны и вид сзади, проверяя блики треугольников, z-fighting, дыры, нестабильность и неограниченный рост. Тестируйте настоящий ввод указателя и сенсорный ввод, а также регрессионные тесты физики. Проверьте снимки экрана на компьютере и узком экране, а также ошибки в консоли и сети. После публикации проверьте те же взаимодействия и внутри iframe публичной страницы с промптом. Честно укажите измеренные результаты и ограничения устройств.
+Опубликуйте новый промпт jelly-villa с указанием авторства jared, отметьте оригинального автора в поле Remix from, добавьте ссылку на опубликованную Web Page, используйте актуальные скриншоты ремикса и текущую запись, если она есть, а референсное видео сохраните только как источник. Заполните локализованные заголовки и описания CMS, Meta и метаданные ассетов. Заметное улучшение Tripo должно заключаться в детализированных вилле и яхте, тогда как окружающий мир должен оставаться неизменным.
+
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/jelly-villa) · [Демо](https://jelly-villa.tripo.page/) · [Назад к примерам](#all-prompts)
 
 ---
 
@@ -3729,7 +3764,7 @@ Vite + ванильный JavaScript + Three.js с GLTFLoader, освещени�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ru/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Все 320 примеров на официальном сайте →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ru/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Все 321 примеров на официальном сайте →</a></strong></p>
 <p><sub>Чтобы README на GitHub отображался без задержек, здесь показаны только последние 100 примеров.</sub></p>
 <br>
 </td></tr>

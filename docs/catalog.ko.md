@@ -28,7 +28,7 @@
 **다음 게임, 장면, 인터랙티브 세계를 위한 아이디어를 찾아보세요.**
 
 
-**320 · 최신 Astra 프롬프트**
+**321 · 최신 Astra 프롬프트**
 
 ## 추천 작품
 
@@ -52,7 +52,6 @@
 
 - [인터랙티브 3D 해부학 탐색기](#2099206962344800541) · GitHub
 - [아이소메트릭 판타지 그래픽 데모](#2100271998618177864) · GitHub
-- [스스로 접히는 3D 종이접기 애니메이션](#2098909584996057283)
 - [머리 없는 의상 모델 UV 언랩 및 4K 재베이크](#2098980384260456813)
 - [플레이 가능한 3D 브라우저 해안 지구 데모](#2099172061092381027)
 - [피치 성을 3D로 재해석하기](#2099359786865402019)
@@ -146,6 +145,7 @@
 - [보이지 않는 도시들 Three.js 시각화](#2107824019999535226)
 - [Battle City 3D: 끝없는 탱크 디펜스](#battle-city-3d)
 - [Crazy Tanks — 3D 아일랜드 포병전](#crazy-tanks-3d-island-artillery)
+- [젤리 빌라](#jelly-villa)
 - [ODD ARMS — 기묘한 무기 서바이벌 게임](#odd-arms)
 - [타이타닉 — 마지막 빛](#titanic-the-last-light)
 - [AKARI: 나고야 옥상 성화 봉송](#akari-nagoya-rooftop-flame-relay)
@@ -196,30 +196,6 @@
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100271998618177864) · [원본 게시물](https://github.com/achimala/dream-loop) · [소스 코드](https://github.com/achimala/dream-loop) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="2098909584996057283"></a>
-
-### 스스로 접히는 3D 종이접기 애니메이션
-
-[AI Guides](https://x.com/free_ai_guides) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2098909584996057283"><img src="../assets/previews/0cc6124463ff4763f52e30ffedab873b5e44d45017274f8f06188f3a7d110712.jpg" width="840" loading="lazy" alt="스스로 접히는 3D 종이접기 애니메이션"></a>
-
-작성자는 이 공개 프롬프트와 동일한 내용을 GPT-6 Astra와 Fable 5.1에 입력했다고 말합니다. 정사각형 종이가 눈에 보이는 주름과 회전을 거치며 알아볼 수 있는 접기 순서대로 스스로 접혔다가 펼쳐지고, 이 과정을 반복하는 3D 종이접기 애니메이션을 요청하는 내용입니다.
-
-**프롬프트**
-
-```text
-3D 종이접기 애니메이션을 제작하세요. 평평한 정사각형 종이가 단계별로 스스로 접혀 알아볼 수 있는 종이접기 형태가 되어야 하며, 각 접기 과정은 종이에 실제로 주름이 생기고 회전하는 모습으로 보여야 합니다. 그런 다음 다시 평평하게 펼쳐지고 이 과정을 반복해야 합니다. 어떤 형태로 접히고 전체적으로 어떻게 보여줄지는 자유롭게 결정하세요.
-
-스타일, 색상, 분위기, 환경, 카메라, 디테일 수준, 추가 연출 등 디자인에 관한 모든 사항은 직접 결정하세요. 질문은 하지 말고 모든 선택을 스스로 내려 한 번의 시도로 가장 인상적인 결과물을 제작하세요.
-
-기술 요구 사항: 외부 모델, 이미지, 사운드 또는 어떤 종류의 에셋 URL도 사용하지 않는 단일 독립형 HTML 파일이어야 합니다(CDN의 JavaScript 라이브러리는 사용해도 됩니다). 로드되는 즉시 클릭 없이 자동으로 실행을 시작해야 하며, 콘솔 오류 없이 원활하게 작동해야 합니다.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2098909584996057283) · [원본 게시물](https://x.com/free_ai_guides/status/2098909584996057283) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -865,7 +841,7 @@ Blender에서 완전히 사실적인 HD 3D 렌더링 모델을 제작한 다음,
 
 [きのした](https://x.com/ujiden_type0) · 2026-09-17
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100519026720231698"><img src="../assets/previews/000aacea97c0955d46b761f1a1e1e46f9d755a6347c0b4214dfb9ea67515b9f9.jpg" width="840" loading="lazy" alt="난간에 유지보수용 체인 추가"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/cad-handrail-maintenance-chain"><img src="../assets/previews/000aacea97c0955d46b761f1a1e1e46f9d755a6347c0b4214dfb9ea67515b9f9.jpg" width="840" loading="lazy" alt="난간에 유지보수용 체인 추가"></a>
 
 난간에 유지보수용 체인을 추가하는 CAD 모델 편집 안내입니다.
 
@@ -875,7 +851,7 @@ Blender에서 완전히 사실적인 HD 3D 렌더링 모델을 제작한 다음,
 난간에 유지보수용 체인 달아 줘!
 ```
 
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100519026720231698) · [원본 게시물](https://x.com/ujiden_type0/status/2100519026720231698) · [사례 목록으로](#all-prompts)
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/cad-handrail-maintenance-chain) · [원본 게시물](https://x.com/ujiden_type0/status/2100519026720231698) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -1300,7 +1276,7 @@ Three.js로 WALL-E 3D 모델을 만들어 주세요.
 
 [vib3coded](https://x.com/vib3coded) · 2026-09-20
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101730386711634251"><img src="../assets/previews/44c9844d75b0423e97757b9c59d7a87fe5794dfa55ced35efc7aaa0d9e5e24d0.jpg" width="840" loading="lazy" alt="Verdant — 인터랙티브 3D 공룡 섬"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/interactive-3d-dinosaur-island-diorama"><img src="../assets/previews/44c9844d75b0423e97757b9c59d7a87fe5794dfa55ced35efc7aaa0d9e5e24d0.jpg" width="840" loading="lazy" alt="Verdant — 인터랙티브 3D 공룡 섬"></a>
 
 @vib3coded가 Verdant를 위해 작성한 원문 그대로의 요청입니다. Verdant는 Three.js와 WebGL로 제작하는 인터랙티브 3D 공룡 섬 디오라마입니다. 공룡이 돌아다니는 섬, 폭포, 단면으로 내부가 보이는 석호, 수중 카메라 이동, 동물 먹이 주기와 알 부화 인터랙션, 환경 설정, 비와 음악을 포함하며, 브라우저에서 바로 실행되는 HTML 파일 하나로 제공하도록 지정되어 있습니다.
 
@@ -1316,7 +1292,7 @@ Three.js + WebGL로 제작하는 인터랙티브 3D 디오라마 Verdant를 만�
 모든 기능은 브라우저에서 단일 HTML 파일로 바로 실행되어야 합니다
 ```
 
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101730386711634251) · [원본 게시물](https://x.com/vib3coded/status/2101570806702559235) · [사례 목록으로](#all-prompts)
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/interactive-3d-dinosaur-island-diorama) · [원본 게시물](https://x.com/vib3coded/status/2101570806702559235) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -1580,9 +1556,9 @@ Follow / Overview 카메라 컨트롤과 V 전환을 화면에 표시하세요. 
 
 [nkz/ぴたすぽ](https://x.com/nikzu_) · 2026-09-22
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102411087002112256"><img src="../assets/previews/7ff7139cf9a4704071346a2f8e48c6da2922a9543faa8bd80454119406b69020.png" width="840" loading="lazy" alt="Sir, We Have Orc Problems 스타일의 TD 게임"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/orc-tower-defense-game"><img src="../assets/previews/7ff7139cf9a4704071346a2f8e48c6da2922a9543faa8bd80454119406b69020.png" width="840" loading="lazy" alt="Sir, We Have Orc Problems 스타일의 TD 게임"></a>
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102411087002112256"><img src="../assets/previews/497787bc84475fd87250548238200c034f565a9dcc7641b0ceccf733ce860152.jpg" width="840" loading="lazy" alt="Sir, We Have Orc Problems 스타일의 TD 게임"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/orc-tower-defense-game"><img src="../assets/previews/497787bc84475fd87250548238200c034f565a9dcc7641b0ceccf733ce860152.jpg" width="840" loading="lazy" alt="Sir, We Have Orc Problems 스타일의 TD 게임"></a>
 
 게시자가 Astra에 의뢰한, Sir, We Have Orc Problems와 같은 타워 디펜스 게임을 제작하기 위한 프롬프트입니다.
 
@@ -1592,7 +1568,7 @@ Follow / Overview 카메라 컨트롤과 V 전환을 화면에 표시하세요. 
 Sir, we have orc problems 같은 TD 게임 만들어 줘
 ```
 
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102411087002112256) · [원본 게시물](https://x.com/nikzu_/status/2102411087002112256) · [사례 목록으로](#all-prompts)
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/orc-tower-defense-game) · [원본 게시물](https://x.com/nikzu_/status/2102411087002112256) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -1759,7 +1735,7 @@ twigl-dot-app에서 실행할 수 있는 시각적으로 흥미로운 셰이더�
 
 [noclipepe](https://x.com/noclipepe) · 2026-09-23
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102897258983313712"><img src="../assets/previews/7081447827f1c3142a1e647eae36ba49c69fe17b4006156a64e6e5a7d8977779.jpg" width="840" loading="lazy" alt="1인칭 버거 시뮬레이터"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/first-person-burger-cooking-simulator"><img src="../assets/previews/7081447827f1c3142a1e647eae36ba49c69fe17b4006156a64e6e5a7d8977779.jpg" width="840" loading="lazy" alt="1인칭 버거 시뮬레이터"></a>
 
 게시글 작성자가 GPT-6 Sol과 GPT-6 Luna를 포함한 세 모델에 1인칭 버거 시뮬레이터 게임을 만들도록 입력했다고 밝힌 프롬프트입니다.
 
@@ -1769,7 +1745,7 @@ twigl-dot-app에서 실행할 수 있는 시각적으로 흥미로운 셰이더�
 1인칭 버거 시뮬레이터를 만들어 주세요.
 ```
 
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102897258983313712) · [원본 게시물](https://x.com/noclipepe/status/2102897258983313712) · [사례 목록으로](#all-prompts)
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/first-person-burger-cooking-simulator) · [원본 게시물](https://x.com/noclipepe/status/2102897258983313712) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -1779,7 +1755,7 @@ twigl-dot-app에서 실행할 수 있는 시각적으로 흥미로운 셰이더�
 
 [Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102915300295369208"><img src="../assets/previews/764e2d668b97fd0ae51f70fab3b1b2878a2cb5e18d43651083eb08c41758cf91.jpg" width="840" loading="lazy" alt="극사실적인 실시간 사막 모닥불 HTML 장면"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/realistic-desert-campfire-interactive-scene"><img src="../assets/previews/764e2d668b97fd0ae51f70fab3b1b2878a2cb5e18d43651083eb08c41758cf91.jpg" width="840" loading="lazy" alt="극사실적인 실시간 사막 모닥불 HTML 장면"></a>
 
 GPT 6 Sol과 Opus 5.5 테스트 하네스를 비교하는 데 사용된 작성자 게시 프롬프트입니다. 밤의 사막에서 극사실적으로 표현한 모닥불 하나를 중심으로, 주변에 통나무 그루터기 좌석이 놓여 있고 별이 보이며 야생동물이 가끔 나타나는 단일 인터랙티브 HTML 장면을 요청합니다. 장면에 어울리는 고품질 사운드도 포함합니다.
 
@@ -1796,7 +1772,7 @@ GPT 6 Sol과 Opus 5.5 테스트 하네스를 비교하는 데 사용된 작성�
 파일 이름을 지정하세요(모델을 바탕으로).
 ```
 
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102915300295369208) · [원본 게시물](https://x.com/Nixtrodamis/status/2102915567845794029) · [사례 목록으로](#all-prompts)
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/realistic-desert-campfire-interactive-scene) · [원본 게시물](https://x.com/Nixtrodamis/status/2102915567845794029) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -1896,7 +1872,7 @@ WGSL 셰이더를 사용해 진정한 WebGPU 렌더링을 구현하세요. 외�
 
 [Vib3Coded](https://x.com/vib3coded) · 2026-09-24
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103187935759655167"><img src="../assets/previews/d8520ab42c6973da4541907e224aed200b691613a7b7bb3183774bb39e1ffdef.jpg" width="840" loading="lazy" alt="Northbound: 인터랙티브 바이킹 롱십 여정"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/viking-longship-fjord-threejs-journey"><img src="../assets/previews/d8520ab42c6973da4541907e224aed200b691613a7b7bb3183774bb39e1ffdef.jpg" width="840" loading="lazy" alt="Northbound: 인터랙티브 바이킹 롱십 여정"></a>
 
 정교한 바이킹 롱십을 타고 북유럽 피오르를 항해하는 독립 실행형 Three.js 및 WebGL 인터랙티브 3D 여정을 위한 작성자 제공 프롬프트입니다. 영화 같은 북유럽 환경, 물리적으로 연결된 선박 구조, 노 젓기와 물 접촉 효과 애니메이션, 조타 및 카메라 컨트롤, 모바일 지원, 조명 모드, 오디오 동작, 임베드형 전달 에셋을 지정합니다.
 
@@ -1971,7 +1947,7 @@ W/S: 속도를 조절합니다.
 더 많은 오브젝트를 추가하기보다 설득력 있는 물, 아름답게 제작된 롱십, 조화로운 환경을 우선하세요.
 ```
 
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103187935759655167) · [원본 게시물](https://x.com/vib3coded/status/2103189762672611675) · [사례 목록으로](#all-prompts)
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/viking-longship-fjord-threejs-journey) · [원본 게시물](https://x.com/vib3coded/status/2103189762672611675) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -2087,7 +2063,7 @@ UI — 게임스럽지 않은 에디토리얼 스타일
 
 [tonysuri](https://x.com/tonysurix) · 2026-09-25
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103351755971207251"><img src="../assets/previews/38d510439e2c3695b5acbb44c83317a5c0824a4b8b8305c45187d66ca6ebeccd.jpg" width="840" loading="lazy" alt="골든아워의 로마 전장 세트 피스"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/golden-hour-roman-battlefield-blender-scene"><img src="../assets/previews/38d510439e2c3695b5acbb44c83317a5c0824a4b8b8305c45187d66ca6ebeccd.jpg" width="840" loading="lazy" alt="골든아워의 로마 전장 세트 피스"></a>
 
 제공된 콘셉트 이미지를 바탕으로 사실적인 골든아워 로마 전장 장면을 제작하는 상세한 Blender 작업입니다. 바위로 둘러싸인 1대1 아레나, 범프 맵이 적용된 디테일한 지면, 가능한 경우 프로시저럴 에셋 사용, 골든아워 스카이박스, 강한 그림자, 재사용 가능한 GLB 에셋, 그리고 .blend 파일과 제작 타임랩스 납품을 요구합니다.
 
@@ -2110,7 +2086,7 @@ DELIVERABLES
 제작 타임랩스 영상.
 ```
 
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103351755971207251) · [원본 게시물](https://x.com/tonysurix/status/2103352274269675532) · [사례 목록으로](#all-prompts)
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/golden-hour-roman-battlefield-blender-scene) · [원본 게시물](https://x.com/tonysurix/status/2103352274269675532) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -2469,7 +2445,7 @@ VALIDATION
 
 [Wësche](https://x.com/WescheNex1q) · 2026-09-28
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2104590493191479337"><img src="../assets/previews/643a23b0eaff495333c760e37ddc2036b908363d59f61d886f6598742a59a843.jpg" width="840" loading="lazy" alt="강도 테스트용 3D 프린팅 J자 후크"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/3d-printable-j-hook-openscad-strength-test"><img src="../assets/previews/643a23b0eaff495333c760e37ddc2036b908363d59f61d886f6598742a59a843.jpg" width="840" loading="lazy" alt="강도 테스트용 3D 프린팅 J자 후크"></a>
 
 3D 프린팅과 강도 테스트를 위한 단일 부품 PLA J자 후크를 설계합니다. 8mm 강철 봉에 손으로 끼울 수 있고 8mm 하중 핀을 지지해야 하며, 치수, 질량, 이탈 방지 및 미끄럼 방지 요구사항을 충족해야 합니다. STL로 내보낼 수 있는 완전한 OpenSCAD 파일을 출력해야 합니다.
 
@@ -2491,7 +2467,7 @@ VALIDATION
 STL 텍스트는 제공하지 마세요. G-code도 제공하지 마세요. OpenSCAD만 사용하세요. 첫 번째 아이디어가 빠질 가능성이 있다면 같은 답변에서 이를 수정한 설계로 대체하세요.
 ```
 
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2104590493191479337) · [원본 게시물](https://x.com/WescheNex1q/status/2104590493191479337) · [사례 목록으로](#all-prompts)
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/3d-printable-j-hook-openscad-strength-test) · [원본 게시물](https://x.com/WescheNex1q/status/2104590493191479337) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -2501,9 +2477,9 @@ STL 텍스트는 제공하지 마세요. G-code도 제공하지 마세요. OpenS
 
 [Alejandro](https://x.com/AlejandroRomaan) · 2026-09-28
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2104605522640970208"><img src="../assets/previews/e9d956c6cfd11ddef0d83a4351ec53a5a04d44b4e42e72554986def5202e8d4a.jpg" width="840" loading="lazy" alt="인터랙티브 교육용 3D CRISPR 표현"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/interactive-crispr-dna-3d-visualization"><img src="../assets/previews/e9d956c6cfd11ddef0d83a4351ec53a5a04d44b4e42e72554986def5202e8d4a.jpg" width="840" loading="lazy" alt="인터랙티브 교육용 3D CRISPR 표현"></a>
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2104605522640970208"><img src="../assets/previews/549d486909b60fc933dfc5bff87aa14eb814f1a09c3bbbaf98bbe2601b322068.jpg" width="840" loading="lazy" alt="인터랙티브 교육용 3D CRISPR 표현"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/interactive-crispr-dna-3d-visualization"><img src="../assets/previews/549d486909b60fc933dfc5bff87aa14eb814f1a09c3bbbaf98bbe2601b322068.jpg" width="840" loading="lazy" alt="인터랙티브 교육용 3D CRISPR 표현"></a>
 
 CRISPR DNA 기술을 인터랙티브하고 이해하기 쉬운 3D 교육 콘텐츠로 표현합니다. DNA 가닥과 유전자 편집의 전체 과정을 보여 주고 각 구성 요소를 식별할 수 있어야 하며, 사용자가 관련 부분을 선택해 자세히 학습할 수 있어야 합니다.
 
@@ -2513,7 +2489,7 @@ CRISPR DNA 기술을 인터랙티브하고 이해하기 쉬운 3D 교육 콘텐�
 CRISPR DNA 기술의 작동 원리를 보여 주는 인터랙티브 교육용 3D 표현을 제작해 주세요. 명확하고 이해하기 쉬운 결과물이면 어떤 기술을 사용해도 좋습니다. DNA 가닥이 포함되어야 하고 유전자 편집의 전체 과정과 각 구성 요소의 역할을 확인할 수 있어야 합니다. 사용자가 관련된 부분을 선택해 해당 요소에 대해 학습할 수 있어야 합니다.
 ```
 
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2104605522640970208) · [원본 게시물](https://x.com/AlejandroRomaan/status/2104605522640970208) · [사례 목록으로](#all-prompts)
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/interactive-crispr-dna-3d-visualization) · [원본 게시물](https://x.com/AlejandroRomaan/status/2104605522640970208) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -2523,7 +2499,7 @@ CRISPR DNA 기술의 작동 원리를 보여 주는 인터랙티브 교육용 3D
 
 [Fazley](https://x.com/itsfazley) · 2026-09-28
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2104613125093998674"><img src="../assets/previews/56d9ffba8a2359b42f24dc04f30b499e0cf7978bfdf55eae0aa43f35e533979c.jpg" width="840" loading="lazy" alt="달빛 아래 펼쳐지는 정글 보트 체험"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/moonlit-jungle-boat-ride-threejs-scene"><img src="../assets/previews/56d9ffba8a2359b42f24dc04f30b499e0cf7978bfdf55eae0aa43f35e533979c.jpg" width="840" loading="lazy" alt="달빛 아래 펼쳐지는 정글 보트 체험"></a>
 
 좁은 정글 수로를 따라 이동하는 전체 화면 반응형 Three.js 보트 체험입니다. 사용자는 키보드나 터치 조작으로 빈 나무 노 젓는 배를 조종하며, 애니메이션 물결, 물살 효과, 달빛 반사, 환경음과 함께 달빛 가득한 밤, 새벽, 비 오는 날씨를 전환할 수 있습니다.
 
@@ -2533,7 +2509,7 @@ CRISPR DNA 기술의 작동 원리를 보여 주는 인터랙티브 교육용 3D
 좁은 정글 수로를 배경으로 한 전체 화면 반응형 Three.js 보트 체험을 제작하세요. 뾰족한 선수, 넓은 측면, 평평한 선미, 보이는 바닥 판자와 좌석을 갖춘 빈 나무 노 젓는 배를 3인칭 카메라로 따라가도록 구성하세요. 노는 없애고, 내부는 물기 없이 유지하며, 선체는 물에 살짝 잠기게 하세요. 사용자가 WASD 또는 방향키와 터치 조작으로 배를 조종할 수 있게 하세요. 장면은 야간의 신비로운 분위기로 연출하세요. 양쪽 강둑에는 형태와 종류가 다양한 짙은 녹색의 사실적인 나무를 빽빽하게 배치하고, 은은한 바람과 디테일한 보름달, 애니메이션 물 위에 물결에 끊겨 반사되는 달빛을 표현하세요. 설득력 있게 움직이는 파도와 배 및 나무의 왜곡된 반사를 구현하고, 배가 지나간 경로를 따라 물살이 생긴 뒤 자연스럽게 사라지도록 하세요. 고정된 발광 표시나 딱딱한 원형 경계는 사용하지 마세요. 날씨 전환 기능으로 달빛 가득한 밤, 따뜻한 새벽, 흐린 비를 선택할 수 있게 하세요. 비 모드에서는 빗방울이 떨어지고, 물결의 형태를 따라 작고 짧게 유지되는 물방울 충돌 잔물결이 나타나게 하세요. 물, 정글, 비 환경음은 선택적으로 은은하게 추가하세요. 인터페이스는 최소한으로 구성하세요. 데스크톱과 모바일에서 화면, 조작, 오디오, 카운터, 세 가지 날씨 모드가 모두 제대로 작동하는지 확인하세요.
 ```
 
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2104613125093998674) · [원본 게시물](https://x.com/itsfazley/status/2104613128017522813) · [사례 목록으로](#all-prompts)
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/moonlit-jungle-boat-ride-threejs-scene) · [원본 게시물](https://x.com/itsfazley/status/2104613128017522813) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -2543,7 +2519,7 @@ CRISPR DNA 기술의 작동 원리를 보여 주는 인터랙티브 교육용 3D
 
 [Marcel](https://x.com/marcthecreatorr) · 2026-09-28
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2104654448878387313"><img src="../assets/previews/487b700ccd9ea1cc1b22eefe925d0ca7231c3c4ba70772a05a71cd21dcce91ea.jpg" width="840" loading="lazy" alt="엑스레이 분해도로 변신하는 스포츠카"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/transforming-sports-car-robot-exploded-view"><img src="../assets/previews/487b700ccd9ea1cc1b22eefe925d0ca7231c3c4ba70772a05a71cd21dcce91ea.jpg" width="840" loading="lazy" alt="엑스레이 분해도로 변신하는 스포츠카"></a>
 
 Marcel이 GPT-6 Astra와 Sonnet 5.5를 비교하기 위해 작성한 원샷 프롬프트입니다. 스포츠카가 휴머노이드 로봇으로 변신하는 인터랙티브 3D 모델을 요청하며, 엑스레이 모드와 분해도 모드를 포함합니다.
 
@@ -2553,7 +2529,7 @@ Marcel이 GPT-6 Astra와 Sonnet 5.5를 비교하기 위해 작성한 원샷 프�
 엑스레이 모드와 인터랙티브 분해도를 지원하며 휴머노이드 로봇으로 변신하는 디테일한 스포츠카를 제작하세요.
 ```
 
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2104654448878387313) · [원본 게시물](https://x.com/marcthecreatorr/status/2104654448878387313) · [사례 목록으로](#all-prompts)
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/transforming-sports-car-robot-exploded-view) · [원본 게시물](https://x.com/marcthecreatorr/status/2104654448878387313) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -2881,7 +2857,7 @@ OpenAI 오리지널 영상에 등장하는 DubSpeak 링크 트랜스크립트에
 
 [けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-03
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2106385060106777043"><img src="../assets/previews/53df380ec6620d54216251f13298ad3d83132ea05276ca497edc3639c660e1b0.jpg" width="840" loading="lazy" alt="산골짜기 강을 달리는 조작 가능한 3D 보트 장면"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/mountain-river-boat-interactive-3d-scene"><img src="../assets/previews/53df380ec6620d54216251f13298ad3d83132ea05276ca497edc3639c660e1b0.jpg" width="840" loading="lazy" alt="산골짜기 강을 달리는 조작 가능한 3D 보트 장면"></a>
 
 일본 산골짜기의 강을 보트로 달리는 three.js 기반 3D 장면을 만드는 지시문입니다. 화살표 키로 보트를 조작하고, 낮·밤·비 모드를 전환하며, 밤에는 강변의 등롱이 빛나도록 설정합니다. 게시자는 이 동일한 지시문을 GPT-6 Astra에 한 번 전송했다고 밝혔습니다.
 
@@ -2891,7 +2867,7 @@ OpenAI 오리지널 영상에 등장하는 DubSpeak 링크 트랜스크립트에
 three.js로 일본 산골짜기의 강을 보트로 달리는 3D 장면을 만들어 주세요. 화살표 키로 보트를 조작하고 낮·밤·비 모드를 전환할 수 있으며, 밤에는 강변의 등롱이 빛나도록 해 주세요.
 ```
 
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2106385060106777043) · [원본 게시물](https://x.com/kensumi_ai/status/2106385072266084741) · [사례 목록으로](#all-prompts)
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/mountain-river-boat-interactive-3d-scene) · [원본 게시물](https://x.com/kensumi_ai/status/2106385072266084741) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -2901,7 +2877,7 @@ three.js로 일본 산골짜기의 강을 보트로 달리는 3D 장면을 만�
 
 [けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-04
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2106737391948235164"><img src="../assets/previews/7832ff805e07d9d042bfa48b9d6befded51c8aa09f65c3685af345c95f2a378b.jpg" width="840" loading="lazy" alt="브라우저에서 걸어 다니며 둘러보는 집 3D 공간"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/3d-house-browser-walkthrough"><img src="../assets/previews/7832ff805e07d9d042bfa48b9d6befded51c8aa09f65c3685af345c95f2a378b.jpg" width="840" loading="lazy" alt="브라우저에서 걸어 다니며 둘러보는 집 3D 공간"></a>
 
 브라우저에서 한 페이지로 열어 집 안을 걸어 다니며 둘러볼 수 있는 3D 공간을 만드는 지침입니다.
 
@@ -2911,7 +2887,7 @@ three.js로 일본 산골짜기의 강을 보트로 달리는 3D 장면을 만�
 브라우저에서 한 페이지로 열어 집 안을 걸어 다니며 둘러볼 수 있는 3D 공간을 만들어 주세요
 ```
 
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2106737391948235164) · [원본 게시물](https://x.com/kensumi_ai/status/2106737391948235164) · [사례 목록으로](#all-prompts)
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/3d-house-browser-walkthrough) · [원본 게시물](https://x.com/kensumi_ai/status/2106737391948235164) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -2921,7 +2897,7 @@ three.js로 일본 산골짜기의 강을 보트로 달리는 3D 장면을 만�
 
 [Paruchh](https://x.com/theparuchh) · 2026-10-04
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2106824464092770455"><img src="../assets/previews/9bf4e6da4a2aea738b61431a28bddccd01b9453d6ea43fdf077391d50aac5753.jpg" width="840" loading="lazy" alt="가상의 게임을 위한 시네마틱 트레일러 제작"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/procedural-game-trailer-blender-animation"><img src="../assets/previews/9bf4e6da4a2aea738b61431a28bddccd01b9453d6ea43fdf077391d50aac5753.jpg" width="840" loading="lazy" alt="가상의 게임을 위한 시네마틱 트레일러 제작"></a>
 
 35~40초 분량의 가상 게임 시네마틱 트레일러를 제작하기 위한 작성자 주석용 프롬프트입니다. 절차적으로 생성되는 3D 월드, 크리처 또는 캐릭터 애니메이션, 분위기 있는 조명, 합성 오디오, 스토리보드 기반의 전개, 품질 검수, 재현 가능한 Blender/Python 소스 결과물을 요청합니다. 원 게시물에 따르면 GPT-6 Astra가 이 프롬프트로 소개된 트레일러를 제작했습니다.
 
@@ -2991,7 +2967,7 @@ DELIVERABLES
 완성된 결과물이 준비될 때까지 자율적으로 작업하세요
 ```
 
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2106824464092770455) · [원본 게시물](https://x.com/theparuchh/status/2106825162209497583) · [사례 목록으로](#all-prompts)
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/procedural-game-trailer-blender-animation) · [원본 게시물](https://x.com/theparuchh/status/2106825162209497583) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -3001,7 +2977,7 @@ DELIVERABLES
 
 [けんすみ｜海外AI事例編集者](https://x.com/kensumi_ai) · 2026-10-05
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2106944804756275690"><img src="../assets/previews/e5832410399df5ceabb2b7feb01c0250a3c8b328ccb83df0a8b153b87dad0a63.jpg" width="840" loading="lazy" alt="밤의 작은 섬에서 별 조각 10개를 모으는 3D 게임"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/night-island-star-collecting-3d-game"><img src="../assets/previews/e5832410399df5ceabb2b7feb01c0250a3c8b328ccb83df0a8b153b87dad0a63.jpg" width="840" loading="lazy" alt="밤의 작은 섬에서 별 조각 10개를 모으는 3D 게임"></a>
 
 게시자가 GPT-6 Astra에 지시한 것임을 명시하는, 밤의 작은 섬을 돌아다니며 별 조각 10개를 모으는 브라우저용 3D 게임 제작 프롬프트입니다.
 
@@ -3011,7 +2987,7 @@ DELIVERABLES
 밤의 작은 섬을 돌아다니며 별 조각 10개를 모으는 3D 게임을 브라우저에서 플레이할 수 있는 단일 페이지로 만들어 주세요.
 ```
 
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2106944804756275690) · [원본 게시물](https://x.com/kensumi_ai/status/2106944821818720302) · [사례 목록으로](#all-prompts)
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/night-island-star-collecting-3d-game) · [원본 게시물](https://x.com/kensumi_ai/status/2106944821818720302) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -3021,7 +2997,7 @@ DELIVERABLES
 
 [Vib3Coded](https://x.com/vib3coded) · 2026-10-05
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2107127712871505976"><img src="../assets/previews/8aea77310a81607281a11c92f850b52fa1ea1d0e6e349ba5fae31e0296ecb1c8.jpg" width="840" loading="lazy" alt="플러시 거미 — 머티리얼 스터디 No. 015"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/webgpu-plush-spider-soft-body-physics"><img src="../assets/previews/8aea77310a81607281a11c92f850b52fa1ea1d0e6e349ba5fae31e0296ecb1c8.jpg" width="840" loading="lazy" alt="플러시 거미 — 머티리얼 스터디 No. 015"></a>
 
 독립 실행형 네이티브 WebGPU 인터랙티브 플러시 거미 스터디를 제작합니다. 절차적으로 생성되는 거미에 소프트 바디와 와이어 다리 물리, 빗질할 수 있는 외피 털, 걷기·웅크리기·실 매달리기·손 흔들기 동작을 구현하고, 손·손가락·빗을 직접 조작할 수 있게 합니다. 루트 게시물에서는 ChatGPT-6 Astra 버전과 Opus 버전을 비교하며, 작성자는 인증된 댓글에 이 프롬프트를 제공했습니다.
 
@@ -3098,7 +3074,7 @@ UI:
 - 오비트 및 줌, 휴대폰에서 반응형 세로 스택 레이아웃, 적응형 품질, 모션 감소 지원.
 ```
 
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2107127712871505976) · [원본 게시물](https://x.com/vib3coded/status/2107128017503830119) · [사례 목록으로](#all-prompts)
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/webgpu-plush-spider-soft-body-physics) · [원본 게시물](https://x.com/vib3coded/status/2107128017503830119) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -3108,7 +3084,7 @@ UI:
 
 [NinjaCodex](https://x.com/N1njaCodex) · 2026-10-05
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2107186979502776590"><img src="../assets/previews/e5e4ba8cec9a2f18f6368adf534fa93b9e573285f94ace926035f367ddb44c80.jpg" width="840" loading="lazy" alt="바나나 젤리"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/webgpu-banana-jelly-physics-simulation"><img src="../assets/previews/e5e4ba8cec9a2f18f6368adf534fa93b9e573285f94ace926035f367ddb44c80.jpg" width="840" loading="lazy" alt="바나나 젤리"></a>
 
 풍성하고 반투명한 젤리 질감의 바나나 식물을 인터랙티브하게 살펴보는 WebGPU 머티리얼 스터디입니다. 제작자는 Claude Opus 5.5와 ChatGPT-6 Astra를 비교한 글의 댓글에 이 프롬프트를 남겼으며, 절차적 식물 지오메트리, 물리 기반 움직임, 분리 가능한 바나나, 충격에 반응하는 껍질 벗겨짐, 팔레트 조절, 터치 및 포인터 상호작용을 지정합니다.
 
@@ -3170,7 +3146,7 @@ QA( SwiftShader WebGPU를 사용하는 헤드리스 Chromium)
 - 디버그 훅(window.__bj: advance, shake, pick, project, setPalette, reset, setPause, counts)을 노출하고 다음을 검증하세요. 시작 시 바나나 31개가 달린 완전한 송이, 잎 ≥20개, 유휴 상태에서 낙하 없음, 산들바람에 잎이 움직이고 Breeze 0에서는 정지, 흔들 때 바나나 일부가 떨어지지만 껍질은 벗겨지지 않음, 떨어진 열매가 멈춤, 카운터 업데이트, 리셋 시 복원, 당긴 바나나 하나만 분리, 세게 착지하면 껍질이 벗겨지고 살짝 떨어뜨리면 벗겨지지 않음, 심장이 열매를 떨어뜨리지 않고 진자처럼 흔들림, 잎이 구부러졌다가 되돌아옴, 팔레트·슬라이더·일시정지·궤도 회전·확대/축소 작동, 스트레스 테스트에서 NaN 없음, 시뮬레이션 비용 < 5ms, 네트워크 요청 없음, 콘솔 오류 없음, 모바일 하단 시트와 터치 작동, 폴백 카드 표시.
 ```
 
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2107186979502776590) · [원본 게시물](https://x.com/N1njaCodex/status/2107187133173678156) · [사례 목록으로](#all-prompts)
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/webgpu-banana-jelly-physics-simulation) · [원본 게시물](https://x.com/N1njaCodex/status/2107187133173678156) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -3180,7 +3156,7 @@ QA( SwiftShader WebGPU를 사용하는 헤드리스 Chromium)
 
 [IamAlam](https://x.com/_IamAlam) · 2026-10-06
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2107479802152472717"><img src="../assets/previews/58b1763f9947b348c6baf6e27de3c5a27097872757b52d78755d3313fb248342.jpg" width="840" loading="lazy" alt="Wild Atlas 인터랙티브 야생동물 백과사전"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/wildlife-encyclopedia-interactive-3d-animal-viewer"><img src="../assets/previews/58b1763f9947b348c6baf6e27de3c5a27097872757b52d78755d3313fb248342.jpg" width="840" loading="lazy" alt="Wild Atlas 인터랙티브 야생동물 백과사전"></a>
 
 서로 일치하는 5종의 렌더링 동물 뷰, 선택 가능한 동물 카드, 느린 회전, 드래그 회전, 클로즈업, 동물별로 업데이트되는 정보 패널을 갖춘 프리미엄 인터랙티브 야생동물 백과사전을 제작하세요.
 
@@ -3213,7 +3189,7 @@ QA( SwiftShader WebGPU를 사용하는 헤드리스 Chromium)
 렌더링된 턴테이블 스타일의 생명체 뷰를 사용하세요. 드래그 회전과 클로즈업을 지원하면 충분하며, 완전히 모델링된 3D 장면일 필요는 없습니다. 전체적인 분위기는 프리미엄하면서도 조용하고, 백과사전처럼 차분하게 유지하세요. 완성 후 작동하는 비공개 사이트로 게시하세요.
 ```
 
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2107479802152472717) · [원본 게시물](https://x.com/_IamAlam/status/2107480596926939638) · [사례 목록으로](#all-prompts)
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/wildlife-encyclopedia-interactive-3d-animal-viewer) · [원본 게시물](https://x.com/_IamAlam/status/2107480596926939638) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -3223,7 +3199,7 @@ QA( SwiftShader WebGPU를 사용하는 헤드리스 Chromium)
 
 [Vib3Coded](https://x.com/vib3coded) · 2026-10-06
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2107533363808485534"><img src="../assets/previews/3577fb25c99300f512c1ab63e5296bee76c80d9936bc376664be8399fc6f6908.jpg" width="840" loading="lazy" alt="플러시 오징어."></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/webgpu-plush-squid-soft-body-physics"><img src="../assets/previews/3577fb25c99300f512c1ab63e5296bee76c80d9936bc376664be8399fc6f6908.jpg" width="840" loading="lazy" alt="플러시 오징어."></a>
 
 게시물 작성자는 자체 완결형 HTML 파일로 제작하는 인터랙티브 WebGPU 봉제인형 오징어 연구를 위한 프롬프트를 제공했습니다. 절차적으로 생성되는 오징어, 소프트 바디와 클로스 기반 움직임, 반응형 손·손가락·빗 도구, 분사와 놀람 동작, 에디토리얼 표본 패널 인터페이스를 지정합니다.
 
@@ -3249,7 +3225,7 @@ UI
 - 에디토리얼 스튜디오 레이아웃: "Material Studies / No. 017", 큰 이탤릭 세리프 제목 "Plush Squid.", 짧은 캡션, 실시간 상태 필, 표본 패널(도구, 염색 색상 견본, 충전재, 파일, 호흡; Jet, Strike, Startle, Smooth fur, Reset, Pause; Wander, ¼ speed, Mesh), 정보 표시(질량, 부피 %, 분사 횟수, 달라붙은 팔 수), 노트 영역을 포함합니다. 오비트/줌, 모바일용 세로 스택 레이아웃, WebGPU 폴백 카드도 지원합니다.
 ```
 
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2107533363808485534) · [원본 게시물](https://x.com/vib3coded/status/2107533605945635233) · [사례 목록으로](#all-prompts)
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/webgpu-plush-squid-soft-body-physics) · [원본 게시물](https://x.com/vib3coded/status/2107533605945635233) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -3259,7 +3235,7 @@ UI
 
 [Vib3Coded](https://x.com/vib3coded) · 2026-10-06
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2107617244301664483"><img src="../assets/previews/862faa173b8996ddd2b3c6003d6c3c41adda9f8729b5bf936747605246e2bc9a.jpg" width="840" loading="lazy" alt="빌라 젤리"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/webgpu-tropical-villa-jelly-island-diorama"><img src="../assets/previews/862faa173b8996ddd2b3c6003d6c3c41adda9f8729b5bf936747605246e2bc9a.jpg" width="840" loading="lazy" alt="빌라 젤리"></a>
 
 외부 리소스 없이 독립적으로 실행되는 WebGPU 인터랙티브 3D 젤리 섬 디오라마입니다. 모던한 열대 빌라, 라군, 야자수, 물에 뜨는 장난감, 자율 주행 보트가 등장합니다. 젤리 바다를 휘젓고 기울이거나, 맛 색상을 바꾸고, 물체를 던지고, 야자수를 구부리고, 보트를 끌고, 장면을 회전해 살펴볼 수 있습니다.
 
@@ -3318,7 +3294,7 @@ QA(헤드리스 Chromium + SwiftShader)
 - 디버그 훅 window.__vj(world, boat, bodies, water, block, advance, drop, pick, project, setPalette, reset, setPause, freeze 플래그). 다음을 검증하세요: 시작 물체 6개와 집계 2/2/2, 빌라와 야자수 10그루 생성, 보트가 14초 동안 바닥에 닿지 않고 6유닛 이상 순환하며 포말과 파도를 남김, 유휴 상태 안정성, 떨어뜨린 공은 높이 뜨고 오리는 똑바로 서며 불가사리는 바닥에 납작하게 가라앉음, 집계 UI 일치, 휘젓기로 파도가 생겼다가 잦아듦, 블록을 기울이면 바다가 낮은 쪽에 모였다가 다시 안정됨, 보트를 잡아 끌 수 있고 주행을 재개함, 바다에 던진 공은 출렁이고 해변에 둔 오리는 똑바로 앉음, 야자수가 구부러짐, 맛/슬라이더/일시정지/회전/확대·축소, NaN 없는 스트레스 테스트, 시뮬레이션 5ms/프레임 미만, 네트워크 요청 없음, 콘솔 오류 없음, 페이지 스크롤 없음, 모바일 시트와 터치, WebGPU 폴백.
 ```
 
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2107617244301664483) · [원본 게시물](https://x.com/vib3coded/status/2107617476473164210) · [사례 목록으로](#all-prompts)
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/webgpu-tropical-villa-jelly-island-diorama) · [원본 게시물](https://x.com/vib3coded/status/2107617476473164210) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -3328,7 +3304,7 @@ QA(헤드리스 Chromium + SwiftShader)
 
 [quesma.com](https://quesma.com/) · 2026-10-07
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2107824019999535226"><img src="../assets/previews/5a1055902ebf648653a42e7ab254c5326c505a2bca9f96c7ed5ab8ed440ff0ab.jpg" width="840" loading="lazy" alt="보이지 않는 도시들 Three.js 시각화"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/invisible-cities-threejs-interactive-visualization"><img src="../assets/previews/5a1055902ebf648653a42e7ab254c5326c505a2bca9f96c7ed5ab8ed440ff0ab.jpg" width="840" loading="lazy" alt="보이지 않는 도시들 Three.js 시각화"></a>
 
 Piotr Migdał의 링크된 글에 따르면, 그는 Italo Calvino의 『보이지 않는 도시들』을 인터랙티브한 Three.js 시각화로 구현하기 위해 Codex에서 GPT-6 Astra에 이 프롬프트를 입력했습니다.
 
@@ -3338,7 +3314,7 @@ Piotr Migdał의 링크된 글에 따르면, 그는 Italo Calvino의 『보이�
 Italo Calvino의 『보이지 않는 도시들』에 등장하는 모든 도시를 three.js(pnpm)로 시각화하세요. 질문하지 마세요. 한 번에 완료하는 작업입니다. 작업 시간은 6h이므로, 걸작이 될 때까지 시간을 모두 활용하세요.
 ```
 
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2107824019999535226) · [원본 게시물](https://quesma.com/blog/invisible-cities-one-shot/) · [사례 목록으로](#all-prompts)
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/invisible-cities-threejs-interactive-visualization) · [원본 게시물](https://quesma.com/blog/invisible-cities-one-shot/) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -3462,6 +3438,65 @@ ES 모듈과 Vite를 사용하는 Three.js, 로컬 번들 폰트, 효과음용 W
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/crazy-tanks-3d-island-artillery) · [데모](https://super-tanks-aftershock.tripo.page/) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="jelly-villa"></a>
+
+### 젤리 빌라
+
+[jared](https://x.com/jaredliu_bravo) · 2026-10-08
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/jelly-villa"><img src="../assets/previews/d89de585b8c44c48612e912fff0c35c56c9bed0a69eccc11498b0fd2c5f7f01c.png" width="840" loading="lazy" alt="젤리 빌라"></a>
+
+보석처럼 빛나는 젤리 바다를 휘저으며 미니어처 요트를 끌고, 열대 빌라 주변의 야자수를 휘어 보세요. 하나의 살아 움직이는 섬에서 코드로 만든 풍경과 실제 Tripo P2 빌라 및 요트 모델을 오가며 감상할 수 있습니다.
+
+**프롬프트**
+
+```text
+1. 프로젝트 목표
+투명한 젤리 블록을 잘라낸 단면 위에 인터랙티브한 미니어처 열대 낙원인 “Jelly Villa”를 제작합니다. 방문자는 라군을 휘젓고, 미니어처 요트를 끌고, 비치 토이를 떨어뜨리고, 야자수를 구부리고, 섬을 기울일 수 있어야 합니다. 우아한 건축 모형이 예상치 못하게 생명을 얻은 듯한 분위기를 연출합니다. 실제 Tripo P2 빌라 및 요트 에셋을 사용하는 jared의 독립적인 Vib3Coded Villa Jelly 리믹스임을 명확히 합니다. https://x.com/jaredliu_bravo로 jared를 크레딧하고, 원작으로 연결되는 별도의 “Inspired by Vib3Coded” 링크를 유지합니다. 레퍼런스 작가의 영상을 이 리믹스를 녹화한 영상처럼 표시하지 않습니다.
+
+2. 비주얼 스타일 및 비교
+레퍼런스 영상으로 정사각형 블록, 대각선 방향의 높은 카메라, L자형 라군, 식물이 있는 후면 고원, 흰색 모던 하우스, 울창한 야자수, 여러 겹의 절단면, 부드럽게 움직이는 보트를 설정합니다. 일반적인 섬을 만드는 대신 이러한 구성 관계를 재현합니다. 최종 리믹스는 원작의 네이티브 WebGPU 구현이 아니라 Three.js/WebGL2를 사용하므로, 표준 브라우저 파이프라인으로 실제 GLB 에셋을 불러올 수 있습니다.
+주변 배경은 #edeae3에 가까운 따뜻한 종이색으로 설정하고, 짙은 올리브 차콜 색상의 텍스트, 가는 구분선, 절제된 에버그린 포인트 컬러를 사용합니다. 왼쪽 상단에는 Georgia 스타일의 큰 세리프체 제목 “Jelly / Villa.”를 배치하고, 두 번째 줄은 이탤릭체로 표시합니다. 중앙 디오라마가 가장 돋보이도록 가장자리에 여백을 두고, 오른쪽에는 작은 컨트롤 패널, 하단에는 조용한 톤의 안내 문구를 배치합니다. UI는 영어로 표시합니다. 기본 카메라는 양의 x축과 양의 z축 방향에서 바라보며, 원근 시야각은 34도입니다. 부드럽고 따뜻한 햇빛, 차가운 보조광, 앰비언트 스튜디오 조명, 사실적인 캐스트 섀도, 바닥에 안정적으로 놓인 오브젝트, 필믹 톤 매핑을 사용합니다. 유리, 페인트칠한 플라스터, 티크, 모래, 젤코트, 금속, 잎 표면이 서로 구분되도록 표현합니다. 식생이 색이 빠져 보이거나 물이 평평하고 불투명하게 보이지 않도록 합니다.
+모델 위쪽에 눈에 잘 띄는 Before / Compare / After 컨트롤을 배치합니다. Before는 장식이 완성된 프로시저럴 빌라와 프로시저럴 요트를 사용합니다. After에서는 이 두 오브젝트 종류만 실제 Tripo 에셋으로 교체합니다. Compare는 카메라, 애니메이션 시간, 지형, 야자수, 물, 조명, 토이 상태를 정확히 동일하게 유지한 채 드래그 가능한 분할 화면으로 양쪽을 렌더링합니다. 양쪽 라벨은 사실과 일치하도록 “Before · Code-built” 및 “After · Tripo 3D”로 표시합니다. 분할선을 움직여도 장면이 초기화되지 않아야 합니다. 모델이 로드되면 기본값은 After로 설정하고, 에셋을 사용할 수 없을 때는 눈에 보이는 폴백과 정직한 로딩/오류 상태를 유지합니다.
+
+3. 월드 및 환경
+블록 크기는 5.2 x 5.2 씬 단위입니다. 상단은 연속적인 높이 필드로 구성하며, 라군 바닥은 약 0.35, 기본 수면 높이는 1.04, 식재된 고원은 약 1.50으로 설정합니다. 섬은 뒤쪽에 배치하고, 연결된 라군은 앞을 향한 두 가장자리를 따라 흐르게 합니다. 모래 해안선은 완만하게 불규칙한 형태로 만들고 둑은 매끄럽게 처리하며, 잔디밭에서 해변으로 내려가는 계단을 추가합니다. 정사각형 절단면에는 작은 자갈이 섞인 초콜릿, 캐러멜, 바닐라, 민트색의 얇은 지층이 드러나야 합니다. 층 위에는 투명한 수직 물 표면을 배치하고 섬세한 메니스커스 가장자리를 표현합니다. 수면과 절단면에도 동일한 팔레트를 적용합니다.
+옅은 석재 테라스 뒤에 빌라를 배치하고, 정원등, 낮은 꽃 관목, 은은한 줄무늬 잔디, 흩어진 바위, 해변 풀을 더합니다. 빌라 주변에는 개별적으로 구부릴 수 있는 코코넛 야자수 정확히 10그루를 배치하되, 수관 사이로 건축물이 보이도록 합니다. 각 야자수는 굽은 고리무늬 줄기, 코코넛 열매, 활처럼 휘어진 깃꼴 잎으로 이루어진 풍성한 수관을 가져야 하며, 납작한 삼각형 잎 몇 장으로 대체하지 않습니다. 물결무늬 크림색 파라솔, 선베드 2개, 테라코타 레드 카약과 패들을 해안 가까이에 배치합니다. 이들의 크기는 하우스보다 작게 유지합니다.
+요트가 라군을 따라 이동할 수 있도록 외곽 레인, 둥근 코너, 안쪽 레인을 따라 돌아오는 경로, 완만한 U턴으로 이어진 연속 루트를 사용합니다. 선체가 해안과 정사각형 벽에서 떨어져 있도록 합니다. 지형과 물은 변형 및 반응이 가능하도록 프로시저럴 상태를 유지하며, 섬 전체를 하나의 정적인 생성 메시로 대체하지 않습니다.
+
+4. 에셋 목록 및 안정적인 슬롯
+- villa: 계단식 평지붕, 짙은 유리 파사드, 얇은 프레임, 발코니, 석재 기단, 가구가 배치된 지붕 있는 테라스를 갖춘 현대적인 흰색 열대 리조트 주택 1개입니다. 뒤쪽 테라스에 배치하며 기본 교체 에셋으로 사용합니다. 실제 임포트된 디자인과 모든 머티리얼 맵을 유지합니다. 지정된 빌라 슬롯에 모델을 맞추고 바닥에 안착시킨 뒤, 카메라와 계단을 기준으로 전면 파사드를 확인합니다. 제공된 Tripo 모델은 파사드가 3개 층으로 구성되어 있으므로 레퍼런스 하우스와 정확히 동일한 복제품이라고 주장하지 않습니다.
+- yacht: 뾰족한 선체, 크림색 콕핏 시트, 티크 데크, 윈드실드, 슬림한 하드톱, 선수 난간, 선외기 2개를 갖춘 작고 흰색과 네이비 색상의 데이 크루저 1개입니다. 별도로 로드하며 라군 주변을 이동합니다. 길이를 정규화하고 선수 방향을 확인하며 수면선을 맞추고 텍스처 디테일을 유지합니다. Before와 After는 동일한 이동 트랜스폼과 부력 샘플링을 공유합니다.
+- palms: 개별적으로 선택할 수 있는 벤드 스프링과 공유 지오메트리/머티리얼 패밀리를 사용하는 코드 생성 야자수 10그루입니다. 렌더링 효율을 위해 정적인 파츠는 병합해 재사용합니다.
+- beach props: 프로시저럴 파라솔, 선베드, 카약, 패들, 바위, 풀, 조명, 포장재, 덤불입니다. 비교 모드 양쪽에서 지오메트리와 머티리얼 디테일을 동일하게 유지합니다.
+- toys: 재사용 가능한 줄무늬 비치볼, 노란 고무 오리, 코랄색 불가사리 패밀리입니다. 시작 시 해안에 공 2개, 물에 떠 있는 오리 2개, 라군 바닥에 불가사리 2개를 배치합니다.
+- water, terrain, foam, strata, lighting and UI: 코드로 생성된 상태를 유지합니다. 충돌 및 인터랙션 프록시는 화면에 보이는 생성 모델 디테일과 독립적으로 처리합니다.
+빌라와 요트는 실제 Tripo P2 텍스트-투-모델 에셋이며, 동일 출처의 GLB 파일에서 로드합니다. 실제 생성 프롬프트와 출처 정보는 프로젝트에 보관하되, 이 재현 사양과는 분리합니다. 상세 메시를 이미지나 빌보드로 대체하지 않으며, 프로시저럴 풍경을 Tripo가 생성했다고 주장하지 않습니다.
+
+5. 인터랙션 및 피드백
+물 위를 드래그해 움직이는 움푹한 자국과 물결을 만들고, 손을 떼면 흩어지도록 합니다. 유한 차분 방식의 제한된 웨이브 필드를 구현하고 해안에서는 감쇠시키며, 파라미터에 따라 강성과 감쇠를 조절합니다. 작게 애니메이션되는 수면 잔물결, 굴절처럼 보이는 깊이 틴트, 부드러운 스페큘러 하이라이트, 깊이에 따른 색상, 부드러운 항적 거품을 추가합니다. 삼각형별 화면 미분값으로 물 노멀을 계산하거나 반복되는 선 패턴을 오버레이하지 않습니다. 이러한 효과는 유체 정확도를 주장하는 것이 아니라 예술적인 실시간 물 시뮬레이션으로 설명합니다.
+섬이나 절단면을 당겨 장면 전체를 전단하고 찌그러뜨릴 수 있게 합니다. 바닥은 고정하고 지형, 물, 절단면, 건축물, 식생, 그림자에 동일한 비선형 탄성 필드를 적용합니다. 손을 놓으면 감쇠된 오버슈트와 함께 복원됩니다. 눈에 보이는 “Give the island a wobble” 버튼으로도 같은 효과를 실행합니다. 물의 측면 지오메트리는 해당 위치의 지형 바닥보다 위에 배치해 동일 평면의 겹침으로 인한 깜빡임을 방지합니다. 물 샘플링과 포인터 좌표에는 미러링되지 않은 동일한 그리드를 사용하고, 높이와 노멀은 부드럽게 보간합니다. 야자수를 드래그해 구부린 다음 손을 놓으면 스프링과 은은한 정지 바람으로 원래대로 돌아오게 합니다.
+요트는 초당 약 0.38–0.48 씬 단위의 속도로 폐쇄된 루트를 따라 자동 이동합니다. 웨이브 표면을 샘플링해 상하 운동과 피치를 제어하고, 절제된 롤을 추가하며, 선미 뒤에 물 충격과 서서히 사라지는 거품을 생성합니다. 방문자가 항해 가능한 물 위에서 요트를 잡아 끌 수 있도록 하며, 잡은 위치의 오프셋을 유지하고 감쇠된 관성 타깃을 따라가게 합니다. 놓으면 실제 위치와 속도를 유지한 뒤 루트를 향해 부드럽게 조향합니다. 경로의 특정 지점으로 순간이동하지 않습니다. 독립적인 선체 여유 공간 프록시, 해안선 미끄러짐, 제한된 속도, 부드러운 헤딩, 4점 스프링 부력을 사용해 느린 드래그, 빠른 드래그, 후진 드래그에서도 안정적으로 동작하게 합니다. 주변의 떠 있는 토이를 옆으로 밀어냅니다.
+드롭 버튼을 누르면 위에서 비치볼, 오리 또는 불가사리 하나를 추가합니다. 공은 높게 뜨고, 오리는 똑바로 선 상태를 유지하며, 불가사리는 해저로 가라앉습니다. 토이는 입수 시 물보라와 물결을 만듭니다. 토이를 드래그하고 놓는 동작, 중력, 감쇠된 부유 운동, 지형 접촉, 벽의 한계를 지원합니다. Afloat, Sunk, Ashore 수치는 실제 바디 상태를 기준으로 계산합니다. 총 토이 수는 40개로 제한하고, 반복 사용 시에도 반응성을 유지하도록 가장 오래된 토이부터 제거합니다.
+Turquoise, Curaçao, Raspberry 팔레트를 제공하고, 젤리 탄성은 10–100 범위에서 기본값 50, 감쇠는 5–90 범위에서 기본값 30, 조수 높이는 -10~+10cm 범위에서 기본값 0으로 설정합니다. Reset은 토이, 물리 효과, 기본값을 복원합니다. Pause는 시뮬레이션 월드를 정지하고 Resume은 계속 진행합니다. Reset view는 화면 구도를 복원합니다. 빈 공간을 드래그하거나 오른쪽 버튼으로 드래그해 오비트하고, 스크롤 또는 핀치로 확대/축소합니다. 좁은 화면에서는 섬을 사용하기 편하게 유지하고 컨트롤을 하단의 “Make some waves” 바 뒤로 접습니다. 가로 스크롤과 페이지 스크롤은 방지합니다.
+바다 분위기음은 로컬에서 합성하며 사용자의 제스처가 발생한 후에만 시작합니다. Sound off/on 토글을 명시적으로 제공합니다. 허용되는 환경에서는 전체 화면을 지원하고, 데스크톱에서는 PNG 엽서 내보내기를 제공합니다. 젤리 빌라 출처 정보가 포함된 어트리뷰션 파라미터와 함께 Tripo 제작 워크스페이스로 연결되는 명확한 “Make this paradise yours” 링크를 새 탭에서 엽니다.
+
+6. 기술 구현
+독립 실행형 Vite + JavaScript + Three.js 프로젝트를 사용하며, 자체 package lock을 포함하고 브라우저에서 서버나 시크릿을 요구하지 않도록 합니다. JavaScript, 스타일, GLB 파일, 모든 런타임 리소스는 동일 출처에서 번들링합니다. 개별 모델 슬롯에는 GLTFLoader, 카메라 입력에는 OrbitControls, 스튜디오 환경과 섀도 맵을 갖춘 물리 기반 렌더러를 사용합니다. UI는 전체 화면 캔버스 위에 접근성을 갖춘 HTML로 구성합니다. 서드파티 CDN 스크립트, 인라인 실행 코드, 외부 텍스처 요청, 런타임 서명 모델 URL에 의존하지 않습니다.
+원본 프라이빗 파일을 변경하지 않은 채 GLB 바운드를 정규화하고, 맵, 노멀, UV를 보존합니다. 런타임 회전, 스케일, 압축이 적용되면 기록합니다. 드로 콜을 줄이기 위해 정적 풍경, 각 야자수, 프로시저럴 모델, 토이를 적절한 머티리얼 배치로 병합합니다. 비용이 큰 트랜스미션 패스와 영구적으로 보존되는 드로잉 버퍼는 피하고, 픽셀 비율, 웨이브 그리드, 폼 파티클 수를 제한합니다. 모든 환경에서 60fps를 보장한다고 약속하지 말고 실제 프레임 레이트를 확인합니다. 제한된 델타 타임, 고정 시뮬레이션 서브스텝, 감쇠된 입력, 유한 숫자 검사를 적용한 requestAnimationFrame을 사용합니다. Pause 중에는 애니메이션을 정지하고, 비교 모드를 변경해도 장면을 다시 생성하거나 재시뮬레이션하지 않습니다.
+현재 상태, 에셋 준비 상태, 카메라 프로젝션, 물 에너지, 토이, 보트 위치, 일시정지, 팔레트, 비교 모드를 확인할 수 있는 작은 디버깅 인터페이스를 제공합니다. 이는 검증을 위한 것이며 실제 포인터 및 터치 테스트를 대신하지 않습니다. 원본 에셋 파일과 출처 정보는 통제된 카탈로그 다운로드를 위해 비공개로 유지하고, 정적 빌드에는 필요한 런타임 사본만 포함합니다.
+
+7. 완료 기준
+설치/빌드/실행 명령이 포함된 편집 가능한 소스 프로젝트, 프로덕션 정적 빌드, 정상적으로 작동하는 공개 데모를 제공합니다. 레퍼런스에서 영감을 받은 구성, 울창한 야자수, 명확한 절단 지층, 바닥에 정확히 안착된 빌라, 실제 카메라에서 올바르게 정렬된 요트를 확인합니다. Before, After, 이동한 비교 분할선을 테스트하고, 공유 장면 상태가 일치하는지 확인합니다. 두 GLB가 실제 지오메트리와 내장 텍스처를 사용해 로드되는지 확인합니다.
+휘젓기, 기울이기, 야자수 드래그, 보트 견인, 보트 운항 재개, 토이 드롭/드래그, 집계 수치, 모든 팔레트와 슬라이더, Reset, Pause/Resume, 오비트/줌, 모바일 컨트롤 시트, 선택적 사운드, 전체 화면, 엽서, 제작 링크를 모두 실행해 봅니다. 보트의 여러 바퀴 운항, 보트를 느리게/빠르게/후진으로 연속 드래그하는 동작, 해안선과 경계 당기기, 놓은 뒤의 연속성, 섬을 누른 상태에서의 변형, 오버슈트, 극단적인 웨이브 설정, 반복적인 토이 드롭을 테스트합니다. 물을 가까이서 보고 네 방향 전체와 후면 뷰를 확인해 삼각형 하이라이트, Z-파이팅, 구멍, 불안정성, 제한 없는 증가가 없는지 점검합니다. 물리 회귀 테스트뿐 아니라 실제 포인터/터치 입력도 테스트합니다. 데스크톱 및 좁은 화면 스크린샷과 콘솔/네트워크 오류를 점검합니다. 배포 후와 공개 프롬프트 페이지의 iframe 내부에서도 동일한 인터랙션을 검증합니다. 측정 결과와 기기별 제약을 정직하게 보고합니다.
+jared를 크레딧으로 표시한 새 jelly-villa 프롬프트를 게시하고, 원작 작가는 Remix from에 표기하며, 게시된 Web Page에 링크하고, 현재 리믹스 스크린샷과 최신 녹화가 있다면 사용합니다. 레퍼런스 영상은 원본 근거 자료로만 유지합니다. CMS 제목, 설명, Meta, 에셋 메타데이터를 현지화해 완성합니다. 눈에 보이는 Tripo 개선 요소는 상세한 빌라와 요트여야 하며, 주변 월드는 동일하게 유지합니다.
+
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/jelly-villa) · [데모](https://jelly-villa.tripo.page/) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -3730,7 +3765,7 @@ Vite, TypeScript와 Three.js를 사용하고, 지리 데이터, 순수 물리·�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 320개 보기 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 321개 보기 →</a></strong></p>
 <p><sub>GitHub README가 원활하게 렌더링되도록 최신 사례 100개만 표시합니다.</sub></p>
 <br>
 </td></tr>

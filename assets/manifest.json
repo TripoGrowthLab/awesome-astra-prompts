@@ -43,16 +43,6 @@
       ]
     },
     {
-      "path": "assets/previews/0cc6124463ff4763f52e30ffedab873b5e44d45017274f8f06188f3a7d110712.jpg",
-      "fingerprint": "022058f3093bbc780c3e415c3051422138a9c5157aeed5d010fdb87bbf8f67d0",
-      "sha256": "0cc6124463ff4763f52e30ffedab873b5e44d45017274f8f06188f3a7d110712",
-      "bytes": 64648,
-      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2098909548107231232/img/KbkLbICm5My1wodi.jpg",
-      "promptIds": [
-        "2098909584996057283"
-      ]
-    },
-    {
       "path": "assets/previews/0f568961afe1321356c2f741639b1e8c0fb199da304a749177bfa3210cbd2bbd.jpg",
       "fingerprint": "bc264a115e8dcc86e88eb08cbecb1704289a7e30c06743ab62d4d9940195b8ab",
       "sha256": "0f568961afe1321356c2f741639b1e8c0fb199da304a749177bfa3210cbd2bbd",
@@ -990,6 +980,16 @@
       "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103187610738810880/img/3R3ka9IcUOGR9_Qy.jpg",
       "promptIds": [
         "2103187935759655167"
+      ]
+    },
+    {
+      "path": "assets/previews/d89de585b8c44c48612e912fff0c35c56c9bed0a69eccc11498b0fd2c5f7f01c.png",
+      "fingerprint": "01b8d9941691c1618716bbcda001b69fc05ad5510aab2a572fb93a85af1a97f4",
+      "sha256": "d89de585b8c44c48612e912fff0c35c56c9bed0a69eccc11498b0fd2c5f7f01c",
+      "bytes": 452843,
+      "sourceUrl": "https://x.com/jaredliu_bravo",
+      "promptIds": [
+        "jelly-villa"
       ]
     },
     {
