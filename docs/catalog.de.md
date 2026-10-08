@@ -28,7 +28,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**317 · Neueste Astra-Prompts**
+**320 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -50,11 +50,8 @@
 <details>
 <summary>Beispiele ansehen</summary>
 
-- [Chernobyl-Atlas](#2098841316591346006) · GitHub
 - [Interaktiver 3D-Anatomie-Explorer](#2099206962344800541) · GitHub
 - [Demo für isometrische Fantasy-Grafik](#2100271998618177864) · GitHub
-- [3D-Rekonstruktion der Weltausstellung von 1893 in Chicago](#2098795017955418202)
-- [Kinetischer Sandtisch-Simulator](#2098831830002851846)
 - [Selbstfaltende 3D-Origami-Animation](#2098909584996057283)
 - [UV-Entwicklung und 4K-Neubaking eines kopflosen Kleidungsmodells](#2098980384260456813)
 - [Spielbarer 3D-Browser-Spielabschnitt im Küstenviertel](#2099172061092381027)
@@ -144,6 +141,9 @@
 - [Plush Spider — Materialstudien Nr. 015](#2107127712871505976)
 - [Banana Jelly](#2107186979502776590)
 - [Interaktive Wildtier-Enzyklopädie Wild Atlas](#2107479802152472717)
+- [Plüschkalmar.](#2107533363808485534)
+- [Villa Jelly](#2107617244301664483)
+- [Three.js-Visualisierung von „Die unsichtbaren Städte“](#2107824019999535226)
 - [Battle City 3D: Endlose Panzerverteidigung](#battle-city-3d)
 - [Crazy Tanks — 3D-Inselartillerie](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Survival-Game mit verrückten Waffen](#odd-arms)
@@ -152,37 +152,6 @@
 - [Die Insel des Zyklopen](#cyclops-island-threejs-game)
 
 </details>
-
-<a id="2098841316591346006"></a>
-
-### Chernobyl-Atlas
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098841316591346006"><img src="../assets/previews/c49b94fb45b6666b2db84239b17eb2d670e898d5b89d788b050e021bf38c6316.jpg" width="840" loading="lazy" alt="Chernobyl-Atlas"></a>
-
-Eine wiederverwendbare Empfehlung des Verfassers für den Aufbau einer interaktiven Three.js-Ausstellung zum Kraftwerksblock von Tschernobyl und zum RBMK-Reaktor. Vorgeschlagen werden ein zerlegbares 3D-Modell des Kraftwerksblocks, eine animierte Ansicht des Dampfkreislaufs sowie ein 3D-Reaktorquerschnitt mit Bewegungs- und Inspektionssteuerung. Der Verfasser präsentiert dies als Prompt für ein ähnliches Projekt, nicht als bestätigte ursprüngliche Eingabe für die verknüpfte Ausstellung.
-
-**Prompt**
-
-```text
-Erstelle mit Three.js die hochwertige interaktive 3D-Ausstellung „Chernobyl Atlas“.
-
-Recherchiere das intakte Kernkraftwerk von Tschernobyl und den RBMK-Reaktor anhand öffentlich zugänglicher Quellen. Modelliere die Gebäude, den Gitterkamin, die Turbinenhalle, den Graphitblockstapel, die Brennstoffkanäle, die Abschirmungen, die Abscheidetrommeln, Pumpen und Rohrleitungen.
-
-Erstelle drei Tabs:
-— Kraftwerksblock: ein detailliertes Modell, das sich per Scrollen und Schieberegler Schicht für Schicht zerlegen lässt.
-— Dampfkreislauf: ein animiertes Diagramm, das Reaktor, Turbine, Kondensator und Pumpen verbindet.
-— Reaktor in Bewegung: ein 3D-Querschnitt mit fließendem Wasser und Dampf, rotierenden Maschinen und Wiedergabesteuerung.
-
-Füge unabhängige Sichtbarkeitsschalter für die Systeme, anpassbare Abstände zwischen Bauteilen, Wireframe- und Transparenzdarstellung, Schnittansichten sowie kurze Beschriftungen hinzu. Jede Schicht soll leicht inspizierbar sein, und die Kamera muss sich auch bei vollständiger Zerlegung frei drehen lassen.
-
-Liefere den Quellcode und eine eigenständige HTML-Datei. Teste alle Steuerungen. Stelle das Ergebnis als pädagogische Interpretation dar, nicht als exakte technische Replik.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098841316591346006) · [Originalbeitrag](https://x.com/k1rallik/status/2098841316591346006) · [Quellcode](https://github.com/bubblik525/Chernobyl_Atlas) · [Zurück zu den Beispielen](#all-prompts)
-
----
 
 <a id="2099206962344800541"></a>
 
@@ -227,50 +196,6 @@ Erstelle mir eine Grafikdemo: isometrische Kamera, voxel-artiger Art-Style mit r
 ```
 
 [Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2100271998618177864) · [Originalbeitrag](https://github.com/achimala/dream-loop) · [Quellcode](https://github.com/achimala/dream-loop) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2098795017955418202"></a>
-
-### 3D-Rekonstruktion der Weltausstellung von 1893 in Chicago
-
-[Dan Elton](https://x.com/moreisdifferent) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098795017955418202"><img src="../assets/previews/81cc4ab0f0941aecdb4845f4372e0b7375ca0dcef194e05b92384115d8bcb45b.jpg" width="840" loading="lazy" alt="3D-Rekonstruktion der Weltausstellung von 1893 in Chicago"></a>
-
-Eine 3D-Rekonstruktion der Weltausstellung von 1893 in Chicago in Blender auf Grundlage historischer Fotografien und Referenzmaterialien zur Ausstellung.
-
-**Prompt**
-
-```text
-Lade 2.000 historische Fotografien und Referenzinformationen zur Ausstellung herunter und nutze sämtliche gewonnenen Informationen, um in Blender eine 3D-Rekonstruktion zu erstellen.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098795017955418202) · [Originalbeitrag](https://x.com/moreisdifferent/status/2098795017955418202) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2098831830002851846"></a>
-
-### Kinetischer Sandtisch-Simulator
-
-[AI Guides](https://x.com/free_ai_guides) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098831830002851846"><img src="../assets/previews/e178ff73b0358cd937e45c3130f36c81129c54273c173166e3358c8d9c829b01.jpg" width="840" loading="lazy" alt="Kinetischer Sandtisch-Simulator"></a>
-
-Ein wiederverwendbarer Prompt, der vom Autor des Beitrags als exakt der offene Prompt bereitgestellt wurde, den GPT-6 Astra und Fable 5.1 erhalten haben. Er fordert eine selbstständig laufende Simulation eines kinetischen Sandtischs in einer einzigen HTML-Datei: Eine Kugel zeichnet sich nicht wiederholende geometrische Muster in den Sand und glättet anschließend die Oberfläche, bevor sie mit einem neuen Muster beginnt.
-
-**Prompt**
-
-```text
-Erstelle eine Simulation eines kinetischen Sandtischs. Eine Kugel muss sich durch eine Sandschicht bewegen, eine sichtbare Spur hinterlassen, vollständige geometrische Muster zeichnen, anschließend den Sand glätten und automatisch ein neues, anderes Muster beginnen. Die Simulation muss viele verschiedene Muster durchlaufen, ohne eines zu wiederholen. Wie das Erscheinungsbild und die Muster gestaltet sind, bleibt dir überlassen.
-
-Auch alle Designentscheidungen liegen bei dir: Stil, Farben, Stimmung, Umgebung, Kamera, Detailgrad und zusätzliche Gestaltungselemente. Stelle mir keine Fragen, triff alle Entscheidungen selbst und erstelle in einem einzigen Versuch die beeindruckendste Version, die du umsetzen kannst, in einer einzigen HTML-Datei.
-
-Technische Anforderungen: eine einzige, vollständig eigenständige HTML-Datei ohne externe Modelle, Bilder, Sounds oder Asset-URLs jeglicher Art (eine JavaScript-Bibliothek von einem CDN ist zulässig). Die Simulation muss unmittelbar beim Laden selbstständig starten, ohne dass Klicks erforderlich sind, flüssig laufen und keine Fehler in der Konsole erzeugen.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098831830002851846) · [Originalbeitrag](https://x.com/free_ai_guides/status/2098831830002851846) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 
@@ -3226,6 +3151,131 @@ Verwende gerenderte Tieransichten im Turntable-Stil (Unterstützung zum Drehen p
 
 ---
 
+<a id="2107533363808485534"></a>
+
+### Plüschkalmar.
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-06
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2107533363808485534"><img src="../assets/previews/3577fb25c99300f512c1ab63e5296bee76c80d9936bc376664be8399fc6f6908.jpg" width="840" loading="lazy" alt="Plüschkalmar."></a>
+
+Der Beitrag enthält einen Prompt für eine interaktive WebGPU-Studie eines Stofftier-Kalmars als eigenständige HTML-Datei. Beschrieben werden ein prozedural erzeugter Kalmar, auf Softbody- und Cloth-Simulation basierende Bewegungen, reaktionsfähige Hand-, Finger- und Kammwerkzeuge, Düsen- und Schreckverhalten sowie eine redaktionelle Oberfläche mit Proben-Panel.
+
+**Prompt**
+
+```text
+Erstelle „Plüschkalmar.“ – eine interaktive WebGPU-Studie eines Stofftier-Kalmars als EINE eigenständige HTML-Datei (native WebGPU/WGSL, keine Bibliotheken, keine Texturen, kein Netzwerk).
+
+SPECIMEN
+- Ein einziges Signed-Distance-Field: ein weicher, zu einer abgerundeten Spitze zulaufender Torso, zwei dicke, bauschige dreieckige Flossen, die an der Spitze eine Pfeilspitze bilden, ein runder Kopf mit Kragen und eine kleine Armkrone darunter.
+- Große, glänzende Sicherheitsaugen aus Glas an den Seiten des Kopfes, ein aufgesticktes Lächeln, rosige Wangen; ein hellerer Bauch; weiche Chromatophorenflecken auf Torso und Flossen.
+- Acht ausgestopfte Arme und zwei lange Tentakel, die von der Krone herabhängen: XPBD-Gewebestreifen (Dehnung/Scherung/Biegung + lange Biege-Links + Halteseile), gezeichnet als zulaufende Plüschschläuche; die Tentakel verjüngen sich zu Stielen und verdicken sich zu Keulen; Filz-Saugnapfscheiben in versetzten Reihen auf jeder Innenseite.
+- Kurzes Minky-Fell als Schichten (Alpha-to-Coverage, 4× MSAA) mit Verzögerung und Schwung; drei Färbepartien: Coral, Pearl, Ink.
+
+PHYSIK & VERHALTEN
+- Körper = XPBD-Anpassung der Form an hexagonale Zellen + Tet-Volumen, neutraler Auftrieb in einem langsamen, zähen Medium; die Arme sind an Punkten angenäht, die in das Gitter eingebettet sind, und werden durch das SDF aus dem Körper herausgehalten.
+- Muskeln ohne Knochen: Der Torso atmet und zieht sich zusammen, indem die Ruhezustände der Zellen verändert werden; die Flossen schlagen, indem ihre Zellen zu Trapezen gebogen werden; ein schwacher Haltungseinfluss dreht den Körper in eine bestimmte Richtung.
+- Düse: Den Torso in eine Richtung drehen, aufblähen (Wasser ansaugen), einmal kräftig zusammendrücken → mit dem Torso voran beschleunigen, die Arme nach hinten gestreckt, auf wogenden Flossen gleiten, sich aufrichten, nach Hause treiben. „Wandern“ führt dies nun gelegentlich selbstständig aus.
+- Schlag: Beide Tentakel schleudern ihre Keulen vor sich auf eine Seite, halten die Position und ziehen sich dann zurück. Schreckreaktion: Die Flecken werden dunkler und der Kalmar düst vom Betrachter weg.
+- Werkzeuge: Hand (den Torso greifen und schwingen, einen Arm oder Tentakel ziehen; mit Scrollen/zweitem Finger drehen), Finger (ausgestreckt und gedrückt gehalten: Die Tentakel schlagen danach und die Arme winden sich darum und haften fest), Kamm (den Flor glätten).
+
+UI
+- Redaktionelles Studio-Layout: „Material Studies / No. 017“, großer kursiver Serifentitel „Plush Squid.“, kurze Bildunterschrift, Live-Status-Pill, Proben-Panel (Werkzeuge, Färbeproben, Füllung, Flor, Atmung; Jet, Strike, Startle, Smooth fur, Reset, Pause; Wander, ¼ Geschwindigkeit, Mesh), Messwerte (Masse, Volumen %, Düsenstöße, haftende Arme), Notizen; Orbit/Zoom; gestapeltes mobiles Layout; Fallback-Karte für WebGPU.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2107533363808485534) · [Originalbeitrag](https://x.com/vib3coded/status/2107533605945635233) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2107617244301664483"></a>
+
+### Villa Jelly
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-06
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2107617244301664483"><img src="../assets/previews/862faa173b8996ddd2b3c6003d6c3c41adda9f8729b5bf936747605246e2bc9a.jpg" width="840" loading="lazy" alt="Villa Jelly"></a>
+
+Ein eigenständiges interaktives 3D-Jelly-Insel-Diorama für WebGPU: eine moderne tropische Villa, eine Lagune, Palmen, schwimmendes Spielzeug und ein autonomes Boot. Nutzer können das Jelly-Meer umrühren und den Block kippen, die Geschmacksfarben ändern, Gegenstände werfen, Palmen biegen, das Boot ziehen und die Szene umkreisen.
+
+**Prompt**
+
+```text
+Erstelle „Villa Jelly“ als eine einzige, eigenständige HTML-Datei (keine externen Anfragen, keine Bibliotheken) mit nativem WebGPU + WGSL und einer Simulation in einfachem JS. Das Projekt gehört zur redaktionellen Serie „MATERIAL STUDIES“ mit interaktiven Jelly-Dioramen. Szene: Ein quadratischer, angeschnittener Jelly-Block zeigt eine tropische Insel mit einer modernen weißen Villa im hinteren Bereich und einer türkisfarbenen Lagune, die sich um die beiden vorderen Kanten legt – wie ein Miniatur-Immobiliendiorama. Das Meer ist jedoch ein wogender Jelly-Block, dessen bonbonfarbene Streifen durch die Schnittflächen sichtbar sind. Die Anwendung muss flüssig laufen (Simulation ≈ 3 ms/Frame).
+
+SEITE / LAYOUT (redaktionelles Layout auf warmem Papier)
+- Papier #ece9e3, Schriftfarbe #241f1d, Linien #d5d0c8, Akzent #17a39b (Türkis). Kursiv gesetzte Serifenschrift für Überschriften (Iowan Old Style / Palatino / Georgia), serifenlose UI-Schrift, Zahlen in Monospace.
+- Oben links: Eyebrow „MATERIAL STUDIES“, riesige kursive H1 „Villa / Jelly.“, kurze Linie, Bildunterschrift „Ein weißes Haus, zehn Palmen, ein Boot, das niemals stillsteht, und ein Meer, das zurückwogt.“
+- Status-Pill oben rechts: grüner Punkt + „WEBGPU · LIVE“ (Zustände „Pausiert“ / „Nicht verfügbar“).
+- Glas-Panel rechts:
+  • „DAS MEER“: drei dunkle Schaltflächen nebeneinander – „Strandball“, „Quietscheente“, „Seestern“ (jede lässt ein Objekt von oben in die Lagune fallen); schmaler Akzent-Balken für die Lebhaftigkeit des Meeres; Zähler „Treibend · Gesunken · An Land“.
+  • „GESCHMACK“: drei Farbfelder mit glänzenden Jelly-Kugeln – Türkis (Standard), Curaçao (leuchtendes Blau), Himbeere (Rosa).
+  • Schieberegler: Festigkeit 50, Wellendämpfung 30, Gezeiten 0 (±10 cm).
+  • Zurücksetzen · Pause · Ansicht zurücksetzen.
+- Unten links „SO SPIELST DU“: kursiv „Rühre das Meer um. Kippe den Block. Wirf eine Ente.“ + kleine graue Zeile: „Ziehe über das Wasser, um Wellen zu erzeugen, und beobachte, wie das Boot auf ihnen fährt · ziehe an der Seite des Blocks, um ihn zu kippen und die Lagune zum Schwappen zu bringen · greife nach dem Boot, um es zu steuern, lass los und es fährt weiter · nimm einen Ball, eine Ente oder einen Seestern und wirf ihn · ziehe an einer Palme, um sie zu biegen · ziehe über freien Raum oder mit der rechten Maustaste, um die Ansicht zu drehen · scrolle oder ziehe zum Zoomen mit zwei Fingern auf“.
+- Zentriere das Diorama im freien Bereich zwischen Kopfzeile und Panel. Mobil: Das Panel wird zu einem Bottom Sheet (Leiste „Steuerung“, standardmäßig geschlossen), Ansicht per Touch drehen, mit zwei Fingern zoomen, kein Seitenscrollen. Fallback-Karte „Villa Jelly.“, wenn WebGPU oder der Adapter fehlt. Keine Konsolenfehler.
+
+DAS DIORAMA (Block 5.2 × 5.2, Meereshöhe 1.3)
+- Höhenfeld des Geländes: Die Insel nimmt die hinteren ~60 % der Fläche ein; wellige Uferlinien verlaufen entlang der Kanten +z und +x (abgerundete vordere Ecke per Soft-Max), sodass die Lagune als L entlang der beiden zur Kamera gerichteten Kanten verläuft (Kamera von der vorderen Ecke, Azimut ≈0.74, Elevation ≈0.5, FOV 34°).
+- Profil vom Meer landeinwärts: Lagunenboden mit einer Tiefe von ≈0.5 und Sandrippeln → kurze Strandböschung → schmaler Sandstrand → steile Sandbank → erhöhtes Rasenplateau (+0.455). Der Rasen ist von einem Rasenmäher gestreift und schimmert leicht wie Limetten-Jelly; helle Pflasterplatten für eine Terrasse, ein Terrassenstreifen vor der Glasfront und ein Weg zur Treppe.
+- Schnittflächen des Blocks: Bonbon-Schichten (Schokoladen-Grundgestein, Karamell-Lehm, je nach Geschmack eine mintfarbene/blaue/rosa Deckschicht, Vanillesand, nasser Sand unter dem Meer; unter dem Rasen zuerst dunkle Erde, darüber eine grüne Grasschicht) mit eingedrückten Kieselsprenkel. Die Schnittflächen des Meeres sind durchscheinende Jelly-Wände mit einer hellen Meniskuslinie und weichen Kantenlinien; Meeresboden und Schichten sind durch sie hindurch sichtbar.
+- Villa (weiß, modern, kubisch): Steinsockel; Erdgeschoss mit raumhoher, dunkler Glasfront, geteilt durch weiße Pfosten; Garagenflügel mit dunklem Lamellentor; eine Bodenplatte ragt als Balkon auf vier schlanken weißen Säulen nach vorn und besitzt ein dunkles Metallgeländer; Obergeschoss mit langem Glasband; weiße Finnenwand am linken Ende; dünne, überstehende weiße Dachplatte mit grauer Aussparung und kleinem Dachaufbau. Im dunklen Glas spiegelt sich die Studio-Softbox, dahinter liegt ein schwach beleuchteter, warm wirkender Raum.
+- Pergola über der Terrasse: vier dunkle Metallpfosten, Querbalken, eine durchhängende beigefarbene Leinwand, die sich im Wind bewegt; L-förmiges Outdoor-Sofa mit Kissen, niedriger Tisch, Teppich.
+- Weiße Treppe mit seitlichen Wangen führt vom Rasen die Böschung hinunter zum Strand; oben stehen zwei Gartenleuchten.
+- Strand: weißer Sonnenschirm (mit Bogensaum, flatternd), zwei weiße Liegen, rotes Kajak mit Paddel; Büschel von Strandgras; Felsen auf der Böschung, am Strand und auf dem Lagunenboden.
+- ÜPPIGE Vegetation (wichtig – keine spärlichen, kahlen Bäume): 10 hohe Kokospalmen mit geringelten Karamell-Jelly-Stämmen (verdickter Stammfuß, geschwungene Neigung) und dichten Kronen aus jeweils 16 bogenförmigen, gefiederten Wedeln (30 Blättchenpaare, V-förmig gefaltet und zur Spitze gebogen, junge Wedel aufrecht, alte herabhängend) sowie 2 trockenen, strohfarbenen Hängewedeln; Dutzende knubbelige Jelly-Sträucher entlang der Rasenkante und rund um das Haus, einige mit rosa/roten/weißen Blüten.
+
+PHYSIK (wie bei „Island Jelly“)
+- Meer: lineare Flachwassersimulation auf einem versetzten 168²-Raster mit 120 Hz, Wellengeschwindigkeit √(g·Tiefe), sodass Wellen über flachen Bereichen langsamer werden und steiler anwachsen; kleiner Oberflächenspannungsterm für federnde Jelly-Rippel, Dämpfungsregler, Korrektur des mittleren Pegels; der Gezeitenregler verändert Pegel und benetzte Fläche.
+- Block: Ziehe an seiner Seite, um ihn zu kippen (Feder-Dämpfer, max. ~0.17 rad); die Gravitation innerhalb der Ebene lässt das Meer zur tieferen Seite schwappen und sich beruhigen; die Jelly-Oberfläche schert und staucht sich durch die Trägheit; alles im Inneren wird im Vertex-Shader in Bewegung versetzt.
+- Umrühren mit dem Finger: Ziehen über das Wasser erzeugt sich bewegende Dellen, die Wellen auslösen.
+- Schwimmende Körper (starre Kugeln im Block-Koordinatensystem, 240 Hz): Auftrieb entlang der Oberflächennormalen, starker Jelly-Widerstand in Richtung der Strömung, verdrängtes Volumen wird in jedem Frame an das Meer zurückgegeben (die Körper erzeugen eigene Rippel), Spritzmulden mit Blasen und Schaum beim Eintauchen, winzige Luftblasen schweben im Jelly. Kollisionen mit Gelände, Palmenstämmen, Villenkörpern, untereinander und mit dem Boot.
+  • Strandball: r 0.085, sehr leicht, schwimmt hoch, springt und hüpft über die Oberfläche, rollt; sechs farbige Segmente (rot, blau, gelb) mit weißen Kappen, glänzendes Vinyl.
+  • Quietscheente: schwimmt halb eingetaucht und richtet sich immer mit dem Kopf nach oben aus (an der Oberflächen- oder Bodennormale ausgerichtet), gelber Körper, orangefarbener Schnabel, schwarze Augen.
+  • Seestern: sinkt langsam, gleitet durch das Jelly nach unten und legt sich flach auf den Boden; Korallrot/Rosa/Lila mit gezuckerten Knubbeln.
+  Startzustand: ein Ball am Strand, einer auf dem Rasen, zwei treibende Enten, zwei Seesterne auf dem Lagunenboden.
+- Palmen: eine 2D-Biegefeder pro Krone, gesteuert durch Brise, Blockneigung und Ziehen durch den Benutzer; der Vertex-Shader biegt den Stamm (∝t²) und lässt die Spitzen der Wedel flattern.
+
+DAS BOOT (fährt selbstständig)
+- Kleiner weißer Daycruiser (skalierter Rumpf ~0.62 lang): aufwendig geformter Deep-V-Rumpf mit marineblauem Unterwasserschiff und Wasserpass, weißem Deck, Teak-Cockpitboden, achterer Sitzbank, Steuersitzen, niedriger Kabine mit dunkler, geneigter Windschutzscheibe und Seitenfenstern, weißem Hardtop auf schlanken Pfosten, zwei dunklen Außenbordmotoren und Edelstahl-Bugreling.
+- Schwimmt in der Simulation: 8 Rumpfpunkte liefern aus der lokalen Oberfläche Stampfen, Nicken und Rollen (die eigene Mulde wird begrenzt, damit das Boot nicht in sie einsinkt), der Bug hebt sich mit zunehmender Geschwindigkeit, in Kurven legt es sich. Innerhalb der Ebene: Es wird (begrenzt) an den Wellenhängen hinabgedrückt, von der Strömung mitgezogen, hat geringen Längs- und hohen Querwiderstand (Kiel), erhält eine Geländestrafe bei Kontakt mit Sand und prallt von den Blockwänden ab.
+- Autopilot: Pure Pursuit auf einer geschlossenen Rennstrecke entlang der L-förmigen Lagune (auf der äußeren Spur hinaus, um die Ecke, Kehrtwende, auf der inneren Spur zurück), in Kurven langsamer, Reisegeschwindigkeit ≈0.78 u/s, läuft niemals auf Grund.
+- Während der Fahrt verdrängt es Wasser → eine echte Bugwelle in der Wellensimulation, die den Strand hinaufläuft; zusätzlich ein Schaumfeld: weiße, spitzenartige Spur vom Heck, seitliche Linien und Bugspritzwasser, die über einige Sekunden verblassen.
+- Der Benutzer kann das Boot am Bug greifen und über das Wasser ziehen; nach dem Loslassen findet es den nächstgelegenen Punkt seiner Route und fährt weiter. Treibende Enten und Bälle werden zur Seite geschoben.
+
+RENDERING
+- Render-Pässe: Sonnen-Schattenkarte (alles), Kaustik (ein Raster wird durch die Wellen auf den Boden gebrochen, die Helligkeit richtet sich nach der Flächenänderung der Dreiecke), opake Szene mit Tiefenpuffer, Rückseiten des Meeres, anschließend das Jelly-Meer über einer Kopie der Szene: Beer-Lambert-Absorption nach Weglänge (Geschmacks-Sigma), gestreute Färbung, Brechung, kaustische Lichtstrahlen, Fresnel-Studioreflexion, Sonnenreflexe, Spitzenlichter, spitzenartiger Uferschaum, der den Sand umspült, Schaumfeld für Kielwasser und Spritzer, Randlichter. Der Boden unter dem Block erhält einen getönten, von Kaustik gesprenkelten Schatten.
+- Weiche Studiobeleuchtung: Papierhintergrund, große Softbox vorne links, kühler Streifen im Hintergrund; hemisphärisches Umgebungslicht; Tone Shoulder + Dithering.
+- Materialien: matter Anstrich und Stein, dunkles reflektierendes Glas, glänzende Gelcoat-/Metalloberflächen, durchscheinende Leinwand, gallertartige, durchscheinende Sträucher und Palmwedel (Gegenlichtleuchten), matte, gesprenkelte Felsen.
+- Die Geschmacksrichtungen ändern Wasser-Sigma/-Farbton und die Farben der Schichten: Türkis (Sigma ≈ 2.1/0.36/0.5, Farbton 0.07/0.46/0.42), Curaçao (2.7/1.05/0.26, Farbton 0.02/0.2/0.52), Himbeere (0.34/2.2/1.25, Farbton 0.44/0.05/0.17).
+
+QA (headless Chromium + SwiftShader)
+- Debug-Hook window.__vj (world, boat, bodies, water, block, advance, drop, pick, project, setPalette, reset, setPause, freeze flag). Überprüfe: 6 Körper im Startzustand und Zähler 2/2/2; Villa + 10 Palmen erstellt; Boot absolviert in 14 s mindestens 6 Einheiten ohne Auflaufen und hinterlässt Schaum + Wellen; Stabilität im Leerlauf; abgeworfener Ball schwimmt hoch, Ente bleibt aufrecht, Seestern sinkt flach auf den Boden; Zähler-UI stimmt; Umrühren erzeugt Wellen, die abklingen; Kippen des Blocks lässt das Meer auf der tieferen Seite zusammenlaufen und sich wieder beruhigen; Boot kann gegriffen und gezogen werden und nimmt danach seinen Kurs wieder auf; in das Meer geworfener Ball wippt auf den Wellen, auf den Strand gesetzte Ente bleibt aufrecht; Palmen biegen sich; Geschmacksrichtungen, Regler, Pause, Ansicht drehen, Zoom; Stresstest ohne NaN; Simulation < 5 ms/Frame; keine Netzwerkanfragen; keine Konsolenfehler; kein Seitenscrollen; mobiles Bottom Sheet + Touch; WebGPU-Fallback.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2107617244301664483) · [Originalbeitrag](https://x.com/vib3coded/status/2107617476473164210) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2107824019999535226"></a>
+
+### Three.js-Visualisierung von „Die unsichtbaren Städte“
+
+[quesma.com](https://quesma.com/) · 2026-10-07
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2107824019999535226"><img src="../assets/previews/5a1055902ebf648653a42e7ab254c5326c505a2bca9f96c7ed5ab8ed440ff0ab.jpg" width="840" loading="lazy" alt="Three.js-Visualisierung von „Die unsichtbaren Städte“"></a>
+
+Im verlinkten Artikel schreibt Piotr Migdał, dass er diesen Prompt GPT-6 Astra in Codex für eine interaktive Three.js-Visualisierung von Italo Calvinos „Die unsichtbaren Städte“ gegeben hat.
+
+**Prompt**
+
+```text
+Erstelle mit three.js (pnpm) eine Visualisierung aller Städte aus Italo Calvinos „Die unsichtbaren Städten“. Stelle keine Fragen – es ist eine One-Shot-Aufgabe. Du hast 6 Stunden Zeit. Nutze sie, bis das Ergebnis ein Meisterwerk ist.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2107824019999535226) · [Originalbeitrag](https://quesma.com/blog/invisible-cities-one-shot/) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Endlose Panzerverteidigung
@@ -3614,7 +3664,7 @@ Liefere Quellcode, Lockfile, npm-Befehle für Entwicklung und Build sowie die st
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 317 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 320 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>

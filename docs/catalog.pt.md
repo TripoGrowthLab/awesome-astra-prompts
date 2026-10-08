@@ -28,7 +28,7 @@
 **Um ponto de partida para seu próximo jogo, cena ou mundo interativo.**
 
 
-**317 · Prompts mais recentes do Astra**
+**320 · Prompts mais recentes do Astra**
 
 ## Projetos em destaque
 
@@ -50,11 +50,8 @@
 <details>
 <summary>Explorar exemplos</summary>
 
-- [Atlas de Chernobyl](#2098841316591346006) · GitHub
 - [Explorador interativo de anatomia 3D](#2099206962344800541) · GitHub
 - [Demo de gráficos de fantasia isométrica](#2100271998618177864) · GitHub
-- [Reconstrução 3D da Feira Mundial de Chicago de 1893](#2098795017955418202)
-- [Simulação de mesa de areia cinética](#2098831830002851846)
 - [Animação 3D de origami que se dobra sozinha](#2098909584996057283)
 - [Desdobramento UV e rebake em 4K para modelo de roupas sem cabeça](#2098980384260456813)
 - [Trecho jogável de um distrito litorâneo em 3D para navegador](#2099172061092381027)
@@ -144,6 +141,9 @@
 - [Aranha de Pelúcia — Estudos de Materiais nº 015](#2107127712871505976)
 - [Banana Jelly](#2107186979502776590)
 - [Enciclopédia interativa de vida selvagem Wild Atlas](#2107479802152472717)
+- [Lula de pelúcia.](#2107533363808485534)
+- [Villa Jelly](#2107617244301664483)
+- [Visualização das Cidades Invisíveis em Three.js](#2107824019999535226)
 - [Battle City 3D: Defesa de Tanques sem Fim](#battle-city-3d)
 - [Crazy Tanks — Artilharia 3D em uma ilha](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Jogo de sobrevivência com armas bizarras](#odd-arms)
@@ -152,37 +152,6 @@
 - [A Ilha do Ciclope](#cyclops-island-threejs-game)
 
 </details>
-
-<a id="2098841316591346006"></a>
-
-### Atlas de Chernobyl
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098841316591346006"><img src="../assets/previews/c49b94fb45b6666b2db84239b17eb2d670e898d5b89d788b050e021bf38c6316.jpg" width="840" loading="lazy" alt="Atlas de Chernobyl"></a>
-
-Uma sugestão reutilizável do autor da publicação para criar uma exposição interativa em Three.js sobre o bloco de potência de Chernobyl e o reator RBMK. A proposta inclui um modelo 3D desmontável do bloco de potência, uma visualização animada do circuito de vapor e um corte em 3D do reator com controles de movimento e inspeção. O autor apresenta isso como um prompt para criar algo semelhante, não como o prompt original confirmado da exposição vinculada.
-
-**Prompt**
-
-```text
-Crie o “Atlas de Chernobyl”, uma exposição interativa 3D premium usando Three.js.
-
-Pesquise a usina de Chernobyl e o reator RBMK intactos usando referências públicas. Modele os edifícios, a chaminé treliçada, a casa de turbinas, o empilhamento de grafite, os canais de combustível, a blindagem, os tambores separadores, as bombas e as tubulações.
-
-Crie três abas:
-— Bloco de potência: um modelo detalhado que se desmonta camada por camada usando a rolagem e um controle deslizante.
-— Circuito de vapor: um diagrama animado conectando o reator, a turbina, o condensador e as bombas.
-— Reator em movimento: um corte em 3D com água e vapor em movimento, maquinário giratório e controles de reprodução.
-
-Adicione controles independentes de visibilidade dos sistemas, espaçamento ajustável entre as peças, modo de wireframe, transparência, cortes de seção e rótulos curtos. Mantenha cada camada fácil de inspecionar e a câmera livre para girar, mesmo com a desmontagem completa.
-
-Entregue o código-fonte e um arquivo HTML independente. Teste todos os controles. Apresente o resultado como uma interpretação educacional, não como uma réplica exata de engenharia.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098841316591346006) · [Publicação original](https://x.com/k1rallik/status/2098841316591346006) · [Código-fonte](https://github.com/bubblik525/Chernobyl_Atlas) · [Voltar aos exemplos](#all-prompts)
-
----
 
 <a id="2099206962344800541"></a>
 
@@ -227,50 +196,6 @@ Crie uma demo gráfica: câmera isométrica, estilo visual inspirado em voxels, 
 ```
 
 [Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2100271998618177864) · [Publicação original](https://github.com/achimala/dream-loop) · [Código-fonte](https://github.com/achimala/dream-loop) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2098795017955418202"></a>
-
-### Reconstrução 3D da Feira Mundial de Chicago de 1893
-
-[Dan Elton](https://x.com/moreisdifferent) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098795017955418202"><img src="../assets/previews/81cc4ab0f0941aecdb4845f4372e0b7375ca0dcef194e05b92384115d8bcb45b.jpg" width="840" loading="lazy" alt="Reconstrução 3D da Feira Mundial de Chicago de 1893"></a>
-
-Uma reconstrução 3D no Blender da Exposição Universal Colombiana de 1893, usando fotografias históricas e informações de referência sobre a feira.
-
-**Prompt**
-
-```text
-Baixe 2.000 fotografias históricas e informações de referência sobre a feira e use todo o material obtido para criar uma reconstrução 3D no Blender.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098795017955418202) · [Publicação original](https://x.com/moreisdifferent/status/2098795017955418202) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2098831830002851846"></a>
-
-### Simulação de mesa de areia cinética
-
-[AI Guides](https://x.com/free_ai_guides) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098831830002851846"><img src="../assets/previews/e178ff73b0358cd937e45c3130f36c81129c54273c173166e3358c8d9c829b01.jpg" width="840" loading="lazy" alt="Simulação de mesa de areia cinética"></a>
-
-Prompt reutilizável fornecido pelo autor da publicação como o prompt aberto exato recebido pelo GPT-6 Astra e pelo Fable 5.1. Ele solicita uma simulação autônoma de mesa de areia cinética em um único arquivo HTML: uma esfera desenha padrões geométricos que não se repetem na areia e, em seguida, nivela a superfície antes de começar outro padrão.
-
-**Prompt**
-
-```text
-Crie uma simulação de mesa de areia cinética. Uma esfera deve se mover por uma camada de areia, deixando um rastro visível, desenhando padrões geométricos completos e, em seguida, nivelando a areia e iniciando automaticamente um padrão novo e diferente. Ela deve alternar entre muitos padrões diferentes sem repeti-los. Todas as escolhas visuais e dos padrões ficam a seu critério.
-
-Todas as decisões de design ficam a seu critério: estilo, cores, clima, ambiente, câmera, nível de detalhe e quaisquer outros toques adicionais. Não me faça perguntas; tome todas as decisões por conta própria e crie a versão mais impressionante possível em uma única tentativa.
-
-Requisitos técnicos: um único arquivo HTML autocontido, sem modelos, imagens, sons ou URLs de recursos externos de qualquer tipo (uma biblioteca JavaScript via CDN é permitida). A simulação deve começar a executar sozinha assim que for carregada, sem exigir cliques, e funcionar de maneira fluida, sem erros no console.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2098831830002851846) · [Publicação original](https://x.com/free_ai_guides/status/2098831830002851846) · [Voltar aos exemplos](#all-prompts)
 
 ---
 
@@ -3226,6 +3151,131 @@ Use visualizações renderizadas das criaturas em estilo turntable (é suficient
 
 ---
 
+<a id="2107533363808485534"></a>
+
+### Lula de pelúcia.
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-06
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2107533363808485534"><img src="../assets/previews/3577fb25c99300f512c1ab63e5296bee76c80d9936bc376664be8399fc6f6908.jpg" width="840" loading="lazy" alt="Lula de pelúcia."></a>
+
+O autor da publicação forneceu um prompt para um estudo interativo de uma lula de pelúcia em WebGPU, contido em um único arquivo HTML independente. Ele especifica uma lula procedural, movimento baseado em corpo macio e tecido, ferramentas responsivas de mão, dedo e pente, comportamentos de jato e sobressalto e uma interface editorial de painel de espécime.
+
+**Prompt**
+
+```text
+Crie "Lula de pelúcia." — um estudo interativo em WebGPU de uma lula de brinquedo de pelúcia como UM ÚNICO arquivo HTML independente (WebGPU/WGSL nativo, sem bibliotecas, sem texturas, sem rede).
+
+SPECIMEN
+- Um campo de distância com sinal: um manto macio em formato de torpedo, afunilado até uma ponta arredondada, duas nadadeiras triangulares, grossas e fofas, formando uma ponta de flecha na extremidade, uma cabeça redonda com colarinho e uma pequena coroa de braços na parte inferior.
+- Grandes olhos de segurança de vidro brilhante nas laterais da cabeça, sorriso bordado, bochechas rosadas; barriga mais clara; manchas suaves de cromatóforos no manto e nas nadadeiras.
+- Oito braços de pelúcia e dois tentáculos longos pendendo da coroa: tiras de tecido XPBD (alongamento/cisalhamento/dobra + elos longos de dobra + tirantes), desenhadas como tubos de pelúcia afunilados; os tentáculos ficam finos como hastes e engrossam em clavas; discos de ventosas de feltro em fileiras alternadas em cada face interna.
+- Pelo curto de minky em camadas de revestimento (alpha-to-coverage, MSAA 4×), com atraso e balanço; três lotes de tingimento: Coral, Pearl, Ink.
+
+FÍSICA E COMPORTAMENTO
+- Corpo = correspondência de formas em células hexagonais XPBD + volume tetraédrico, flutuabilidade neutra em um meio espesso e lento; braços costurados em pontos incorporados à malha, mantidos fora do corpo pelo SDF.
+- Músculos sem ossos: o manto respira e se contrai alterando as formas de repouso das células; as nadadeiras batem ao dobrar as células em trapézios; uma fraca força de postura gira o corpo em direção a um rumo.
+- Jato: vire o manto para uma direção, infle-o (puxe água para dentro), dê um aperto forte → impulso com o manto à frente, braços se estendendo para trás, deslize sobre nadadeiras ondulantes, fique na vertical e volte à deriva para casa. "Vaguear" faz isso sozinho de vez em quando.
+- Ataque: os dois tentáculos lançam suas clavas para um dos lados, à frente, mantêm a posição e depois recuam. Sobressalto: as manchas escurecem e a lula dispara para longe do observador.
+- Ferramentas: Mão (agarre e balance o manto, puxe um braço ou tentáculo; gire com a rolagem/segundo dedo), Dedo (mantenha-o estendido e pressionado: os tentáculos atacam o dedo e os braços se enrolam e ficam presos nele), Pente (assente a felpa).
+
+INTERFACE
+- Layout de estúdio editorial: "Estudos de materiais / Nº 017", grande texto serifado em itálico "Lula de pelúcia.", legenda curta, indicador de status ao vivo, painel do espécime (ferramentas, amostras de cor, enchimento, felpa, respiração; Jato, Ataque, Sobressalto, Alisar a felpa, Redefinir, Pausar; Vaguear, velocidade ¼, Malha), leituras (massa, volume %, jatos, braços agarrados), notas; órbita/zoom; layout empilhado para dispositivos móveis; cartão de fallback do WebGPU.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2107533363808485534) · [Publicação original](https://x.com/vib3coded/status/2107533605945635233) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2107617244301664483"></a>
+
+### Villa Jelly
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-06
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2107617244301664483"><img src="../assets/previews/862faa173b8996ddd2b3c6003d6c3c41adda9f8729b5bf936747605246e2bc9a.jpg" width="840" loading="lazy" alt="Villa Jelly"></a>
+
+Um diorama 3D interativo de uma ilha de gelatina em WebGPU, totalmente autocontido: uma vila tropical moderna, lagoa, palmeiras, brinquedos flutuantes e um barco autônomo. Os usuários podem mexer e inclinar o mar de gelatina, alterar as cores dos sabores, jogar objetos, curvar palmeiras, rebocar o barco e orbitar pela cena.
+
+**Prompt**
+
+```text
+Crie “Villa Jelly” — um único arquivo HTML autocontido (sem requisições externas e sem bibliotecas), usando WebGPU nativo + WGSL, com a simulação em JS puro. O projeto faz parte da série editorial “MATERIAL STUDIES”, composta por dioramas interativos de gelatina. Cena: um bloco quadrado de gelatina recortado, mostrando uma ilha tropical com uma vila branca e moderna ao fundo e uma lagoa turquesa contornando as duas bordas frontais, como um diorama de maquete imobiliária — mas o mar é um bloco de gelatina que balança, com camadas listradas de doces visíveis pelas faces recortadas. Deve rodar com fluidez (simulação ≈ 3 ms/frame).
+
+PÁGINA / LAYOUT (editorial em papel quente)
+- Papel #ece9e3, tinta #241f1d, linhas #d5d0c8, destaque #17a39b (turquesa). Serifada itálica para títulos (Iowan Old Style / Palatino / Georgia), sans-serif na interface, números monoespaçados.
+- Canto superior esquerdo: antetítulo “MATERIAL STUDIES”, H1 enorme em itálico “Villa / Jelly.”, linha curta, legenda “Uma casa branca, dez palmeiras, um barco que nunca para quieto e um mar que balança de volta.”
+- Canto superior direito: indicador de status em formato de pílula: ponto verde + “WEBGPU · AO VIVO” (estados Pausado / Indisponível).
+- Painel de vidro à direita:
+  • “O MAR”: três botões escuros em uma linha — “Bola de praia”, “Pato de borracha”, “Estrela-do-mar” (cada um solta um objeto na lagoa vindo de cima); medidor fino de destaque mostrando o nível de agitação do mar; contagem “Flutuando · Afundados · Na areia”.
+  • “SABOR”: três amostras com bolas de gelatina brilhantes — Turquesa (padrão), Curaçao (azul vibrante), Framboesa (rosa).
+  • Controles deslizantes: Firmeza 50, Amortecimento das ondas 30, Maré 0 (±10 cm).
+  • Redefinir · Pausar · Redefinir vista.
+- Canto inferior esquerdo “COMO JOGAR”: itálico “Mexa o mar. Incline o bloco. Jogue um pato.” + linha pequena em cinza: “Arraste pela água para criar ondas e veja o barco surfar nelas · arraste a lateral do bloco para incliná-lo e fazer a lagoa se agitar · pegue o barco para guiá-lo, solte e ele continuará sozinho · pegue uma bola, um pato ou uma estrela-do-mar e jogue · arraste uma palmeira para curvá-la · arraste um espaço vazio ou use o botão direito do mouse para orbitar · role a roda do mouse ou use o gesto de pinça para ampliar”
+- Centralize o diorama no espaço livre entre o cabeçalho e o painel. No celular: o painel vira uma folha inferior (barra “Controles”, fechada por padrão), órbita por toque, zoom com pinça, sem rolagem da página. Cartão de fallback “Villa Jelly.” caso o WebGPU ou o adaptador não esteja disponível. Zero erros no console.
+
+O DIORAMA (bloco 5.2 × 5.2, nível do mar 1.3)
+- Campo de alturas do terreno: a ilha ocupa os ~60% posteriores do bloco; linhas de costa onduladas percorrem as bordas +z e +x (canto frontal suavemente arredondado por soft-max), formando uma lagoa em L ao longo das duas bordas voltadas para a câmera (câmera a partir do canto frontal, az ≈0.74, el ≈0.5, FOV 34°).
+- Perfil do mar em direção ao interior: fundo da lagoa com ≈0.5 de profundidade e ondulações na areia → pequeno declive de praia → faixa estreita de areia → barranco arenoso íngreme → platô elevado de gramado (+0.455). O gramado tem listras de cortador de grama e um leve brilho, como gelatina de limão; placas claras de pavimentação formam o pátio, uma faixa de terraço diante do vidro e um caminho até a escada.
+- Faces recortadas do bloco: camadas de doces (rocha matriz de chocolate, argila de caramelo, uma faixa de cobertura de menta/azul/rosa dependendo do sabor, areia de baunilha, areia molhada sob o mar; sob o gramado: solo escuro e, no topo, uma faixa de grama verde), com pequenas pedras incrustadas. As faces recortadas do mar são paredes translúcidas de gelatina, com uma linha de menisco brilhante e linhas suaves nos cantos; o fundo do mar e as camadas ficam visíveis através delas.
+- Vila (branca, moderna, geométrica): base de pedra; térreo com fachada frontal de vidro escuro do piso ao teto, dividida por montantes brancos; ala da garagem com porta de ripas escuras; laje do piso avançando como uma varanda sobre quatro colunas brancas finas, com guarda-corpo de metal escuro; andar superior com uma longa faixa de vidro; parede de aleta branca na extremidade esquerda; laje fina de cobertura branca em balanço, com rebaixo cinza e uma pequena caixa no telhado. O vidro escuro reflete o softbox do estúdio, com um cômodo quente e pouco iluminado ao fundo.
+- Pérgola sobre o pátio: quatro postes de metal escuro, vigas e uma lona bege frouxa que respira com a brisa; sofá externo em L com almofadas, mesa baixa e tapete.
+- Escada branca com paredes laterais, descendo do gramado pelo barranco até a praia, com duas luminárias de jardim no topo.
+- Praia: guarda-sol branco (com bordas recortadas, tremulando), duas espreguiçadeiras brancas, caiaque vermelho com remo; tufos de capim de praia; pedras no barranco, na praia e no fundo da lagoa.
+- Vegetação exuberante (importante — nada de árvores esparsas e peladas): 10 palmeiras altas com troncos de goma caramelizada anelados (base engrossada, curvatura inclinada) e copas cheias com 16 frondes pinadas arqueadas cada (30 pares de folíolos, dobrados em V, varridos até a ponta, frondes jovens eretas e antigas pendentes), além de 2 frondes secas cor de palha penduradas; dezenas de arbustos de goma irregulares ao longo da borda do gramado e ao redor da casa, alguns com flores rosas/vermelhas/brancas.
+
+FÍSICA (igual à de “Island Jelly”)
+- Mar: simulação linear de águas rasas em uma grade escalonada de 168² a 120 Hz, velocidade das ondas √(g·profundidade), fazendo as ondas desacelerarem e ficarem mais íngremes sobre as áreas rasas, com um pequeno termo de tensão superficial para ondulações elásticas de gelatina, controle de amortecimento, correção do nível médio e controle de maré que altera o nível e a área molhada.
+- Bloco: arraste a lateral para incliná-lo (mola-amortecedor, máx. ~0.17 rad); a gravidade no plano faz o mar se acumular no lado mais baixo e se acomodar; o topo de gelatina cisalha e se comprime com a inércia; tudo dentro do bloco oscila no vertex shader.
+- Mexer com o dedo: arrastar sobre a água empurra depressões móveis que geram ondas.
+- Corpos flutuantes (esferas rígidas no referencial do bloco, 240 Hz): flutuabilidade ao longo da normal da superfície, arrasto intenso da gelatina em direção ao fluxo, volume deslocado devolvido ao mar a cada frame (eles geram suas próprias ondulações), crateras de impacto com bolhas e espuma ao entrar, pequenas bolhas de ar suspensas na gelatina. Colisões com o terreno, troncos das palmeiras, caixas da vila, uns com os outros e com o barco.
+  • Bola de praia: r 0.085, muito leve, flutua alto, quica e pula, rola; seis gomos coloridos (vermelho, azul, amarelo) com calotas brancas, vinil brilhante.
+  • Pato de borracha: flutua pela metade, sempre se endireita com a cabeça para cima (alinha-se à normal da superfície ou do chão), corpo amarelo, bico laranja, olhos pretos.
+  • Estrela-do-mar: afunda lentamente, desce em ângulo pela gelatina e se acomoda deitada no fundo; coral/rosa/roxa, com protuberâncias açucaradas.
+  Estado inicial: uma bola na praia, uma no gramado, dois patos flutuando e duas estrelas-do-mar no fundo da lagoa.
+- Palmeiras: uma mola de curvatura 2D por copa, acionada pela brisa, pela inclinação do bloco e pelo arraste do usuário; o vertex shader curva o tronco (∝t²) e faz as pontas das frondes tremularem.
+
+O BARCO (funciona sozinho)
+- Pequena lancha branca (casco em escala com ~0.62 de comprimento): casco profundo em V modelado, com fundo e faixa de flutuação azul-marinho, convés branco, piso de teca no cockpit, banco traseiro, assentos de comando, cabine baixa com para-brisa escuro inclinado e janelas laterais, hardtop branco sobre postes finos, dois motores de popa escuros e guarda-mancebo de proa em aço inoxidável.
+- Flutua na simulação: 8 pontos do casco fornecem arfagem, inclinação longitudinal e inclinação lateral a partir da superfície local (o próprio sulco é limitado para impedir que o barco afunde nele), a proa se ergue com a velocidade, inclina-se nas curvas; no plano: é empurrado (com limite) pelas inclinações das ondas, arrastado pelo fluxo, com baixo arrasto no eixo longitudinal e alto arrasto lateral (quilha), penalidade de terreno se tocar na areia, ricocheteia nas paredes do bloco.
+- Piloto automático: perseguição pura ao redor de um circuito fechado, seguindo a lagoa em L (sai pela faixa externa, contorna o canto, faz o retorno e volta pela faixa interna), reduzindo a velocidade nas curvas, cruzeiro ≈0.78 u/s, sem nunca encalhar.
+- Ele desloca a água enquanto se move → uma esteira real na simulação de ondas, que avança pela praia; além disso, um campo de espuma: trilha branca rendada saindo da popa, linhas laterais e spray na proa, desaparecendo ao longo de alguns segundos.
+- O usuário pode pegá-lo pela proa e rebocá-lo pela água; quando solto, ele encontra o ponto mais próximo do circuito e continua. Ele empurra patos e bolas flutuantes para o lado.
+
+RENDERING
+- Passes: mapa de sombras do sol (tudo), cáusticas (refrata uma grade através das ondas sobre o fundo, com brilho determinado pela variação da área dos triângulos), cena opaca com buffer de distância, faces traseiras do mar e, depois, o mar de gelatina sobre uma cópia da cena: absorção de Beer–Lambert pelo comprimento do caminho (sigma do sabor), tonalidade espalhada, refração, feixes de luz cáustica, reflexão de estúdio Fresnel, brilhos do sol, espuma rendada da margem que lambe a areia, campo de espuma da esteira/respingo e realces nas bordas. O chão sob o bloco recebe uma sombra colorida salpicada de cáusticas.
+- Iluminação suave de estúdio: fundo de papel, softbox grande e suave na frente à esquerda, faixa fria atrás; luz ambiente hemisférica; shoulder de tons + dithering.
+- Materiais: render e pedra com pintura fosca, vidro escuro reflexivo, gel coat/metal brilhante, lona translúcida, arbustos e frondes de palmeira translúcidos e com aparência de goma (brilho em contraluz), pedras foscas salpicadas.
+- Os sabores trocam o sigma/a tonalidade da água e as cores das camadas: Turquesa (sigma ≈ 2.1/0.36/0.5, tonalidade 0.07/0.46/0.42), Curaçao (2.7/1.05/0.26, tonalidade 0.02/0.2/0.52), Framboesa (0.34/2.2/1.25, tonalidade 0.44/0.05/0.17).
+
+QA (Chromium headless + SwiftShader)
+- Hook de depuração window.__vj (world, boat, bodies, water, block, advance, drop, pick, project, setPalette, reset, setPause, freeze flag). Verifique: 6 corpos iniciais e contagem 2/2/2; vila + 10 palmeiras construídas; barco completa ≥6 unidades em 14 s sem encalhar e deixa espuma + ondas; estabilidade em repouso; bola solta flutua alto, pato fica ereto, estrela-do-mar afunda e repousa deitada; interface de contagem correspondente; mexer na água gera ondas que diminuem; inclinar o bloco faz o mar se acumular no lado baixo e voltar a se acomodar; o barco pode ser pego, rebocado e retoma seu curso; bola jogada no mar boia, pato colocado na praia fica ereto; palmeiras se curvam; sabores, controles deslizantes, pausa, órbita e zoom; teste de estresse sem NaN; simulação < 5 ms/frame; sem requisições de rede; sem erros no console; sem rolagem da página; folha inferior + toque no celular; fallback do WebGPU.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2107617244301664483) · [Publicação original](https://x.com/vib3coded/status/2107617476473164210) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2107824019999535226"></a>
+
+### Visualização das Cidades Invisíveis em Three.js
+
+[quesma.com](https://quesma.com/) · 2026-10-07
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2107824019999535226"><img src="../assets/previews/5a1055902ebf648653a42e7ab254c5326c505a2bca9f96c7ed5ab8ed440ff0ab.jpg" width="840" loading="lazy" alt="Visualização das Cidades Invisíveis em Three.js"></a>
+
+O artigo indicado por Piotr Migdał afirma que ele forneceu este prompt ao GPT-6 Astra no Codex para criar uma visualização interativa, em Three.js, das Cidades Invisíveis de Italo Calvino.
+
+**Prompt**
+
+```text
+Crie uma visualização em three.js (pnpm) de todas as Cidades Invisíveis, de Italo Calvino. Não faça perguntas: esta é uma tarefa de execução única. Você tem 6 h de trabalho; use todo esse tempo até transformar o resultado em uma obra-prima.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2107824019999535226) · [Publicação original](https://quesma.com/blog/invisible-cities-one-shot/) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Defesa de Tanques sem Fim
@@ -3614,7 +3664,7 @@ Entregue o código-fonte, o lockfile, os comandos npm de desenvolvimento/build e
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 317 exemplos no site oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 320 exemplos no site oficial →</a></strong></p>
 <p><sub>Para manter a renderização do README do GitHub fluida, mostramos aqui apenas os 100 exemplos mais recentes.</sub></p>
 <br>
 </td></tr>

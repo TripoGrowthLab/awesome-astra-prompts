@@ -6,10 +6,6 @@
 
 Explore the linked projects and check their own licenses before reuse.
 
-## [bubblik525/Chernobyl\_Atlas](https://github.com/bubblik525/Chernobyl_Atlas)
-
-- [Chernobyl Atlas](catalog.en.md#2098841316591346006) · [BuBBliK](https://x.com/k1rallik)
-
 ## [bubblik525/cat\_brain\_anatomy](https://github.com/bubblik525/cat_brain_anatomy)
 
 - [Interactive 3D Anatomy Explorer](catalog.en.md#2099206962344800541) · [BuBBliK](https://x.com/k1rallik)

@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**317 · Prompt Astra mới nhất**
+**320 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -50,11 +50,8 @@
 <details>
 <summary>Khám phá ví dụ</summary>
 
-- [Atlas Chernobyl](#2098841316591346006) · GitHub
 - [Trình khám phá giải phẫu 3D tương tác](#2099206962344800541) · GitHub
 - [Demo đồ họa fantasy isometric](#2100271998618177864) · GitHub
-- [Tái dựng 3D Hội chợ Thế giới Chicago năm 1893](#2098795017955418202)
-- [Mô phỏng bàn cát động lực](#2098831830002851846)
 - [Hoạt ảnh origami 3D tự gấp](#2098909584996057283)
 - [Triển khai UV và bake lại 4K cho mô hình quần áo không có đầu](#2098980384260456813)
 - [Phân cảnh 3D khu ven biển có thể chơi trên trình duyệt](#2099172061092381027)
@@ -144,6 +141,9 @@
 - [Nhện bông — Nghiên cứu vật liệu số 015](#2107127712871505976)
 - [Banana Jelly](#2107186979502776590)
 - [Bách khoa toàn thư tương tác về động vật hoang dã Wild Atlas](#2107479802152472717)
+- [Mực ống nhồi bông.](#2107533363808485534)
+- [Villa Jelly](#2107617244301664483)
+- [Hình ảnh hóa Những thành phố vô hình bằng Three.js](#2107824019999535226)
 - [Battle City 3D: Phòng thủ xe tăng vô tận](#battle-city-3d)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Game sinh tồn với vũ khí kỳ quặc](#odd-arms)
@@ -152,37 +152,6 @@
 - [Hòn đảo của Cyclops](#cyclops-island-threejs-game)
 
 </details>
-
-<a id="2098841316591346006"></a>
-
-### Atlas Chernobyl
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098841316591346006"><img src="../assets/previews/c49b94fb45b6666b2db84239b17eb2d670e898d5b89d788b050e021bf38c6316.jpg" width="840" loading="lazy" alt="Atlas Chernobyl"></a>
-
-Một đề xuất có thể tái sử dụng từ tác giả bài đăng để xây dựng triển lãm tương tác bằng Three.js về khối nhà máy điện Chernobyl và lò phản ứng RBMK. Đề xuất này yêu cầu mô hình 3D khối nhà máy điện có thể tách rời từng phần, chế độ xem mạch hơi có hoạt ảnh và mặt cắt 3D lò phản ứng với các điều khiển chuyển động và kiểm tra. Tác giả trình bày đây là prompt để xây dựng một sản phẩm tương tự, không phải đầu vào gốc đã được xác nhận của triển lãm được liên kết.
-
-**Prompt**
-
-```text
-Xây dựng "Atlas Chernobyl", một triển lãm 3D tương tác cao cấp bằng Three.js.
-
-Nghiên cứu nhà máy điện Chernobyl và lò phản ứng RBMK còn nguyên trạng dựa trên các tài liệu công khai. Dựng mô hình các tòa nhà, ống khói dạng giàn, gian nhà tuabin, khối graphite, kênh nhiên liệu, lớp che chắn, tang tách hơi, máy bơm và đường ống.
-
-Tạo ba tab:
-— Khối nhà máy điện: mô hình chi tiết có thể tháo rời từng lớp bằng thao tác cuộn và thanh trượt.
-— Mạch hơi: sơ đồ có hoạt ảnh kết nối lò phản ứng, tuabin, bình ngưng và máy bơm.
-— Lò phản ứng chuyển động: mặt cắt 3D với nước và hơi chuyển động, máy móc quay cùng các nút điều khiển phát lại.
-
-Thêm các nút bật/tắt hiển thị độc lập cho từng hệ thống, điều chỉnh khoảng cách giữa các bộ phận, chế độ lưới, độ trong suốt, mặt cắt và nhãn ngắn. Đảm bảo mọi lớp đều dễ kiểm tra và camera có thể xoay tự do, kể cả khi mô hình đã được tháo rời hoàn toàn.
-
-Cung cấp mã nguồn và một tệp HTML độc lập. Kiểm thử tất cả điều khiển. Trình bày đây là một diễn giải phục vụ giáo dục, không phải bản sao kỹ thuật chính xác.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098841316591346006) · [Bài đăng gốc](https://x.com/k1rallik/status/2098841316591346006) · [Mã nguồn](https://github.com/bubblik525/Chernobyl_Atlas) · [Về danh sách ví dụ](#all-prompts)
-
----
 
 <a id="2099206962344800541"></a>
 
@@ -227,50 +196,6 @@ Hãy tạo một demo đồ họa: camera isometric, phong cách nghệ thuật 
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100271998618177864) · [Bài đăng gốc](https://github.com/achimala/dream-loop) · [Mã nguồn](https://github.com/achimala/dream-loop) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2098795017955418202"></a>
-
-### Tái dựng 3D Hội chợ Thế giới Chicago năm 1893
-
-[Dan Elton](https://x.com/moreisdifferent) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098795017955418202"><img src="../assets/previews/81cc4ab0f0941aecdb4845f4372e0b7375ca0dcef194e05b92384115d8bcb45b.jpg" width="840" loading="lazy" alt="Tái dựng 3D Hội chợ Thế giới Chicago năm 1893"></a>
-
-Tái dựng 3D Triển lãm Thế giới Columbian năm 1893 bằng Blender, dựa trên các bức ảnh lịch sử và tư liệu tham khảo về hội chợ.
-
-**Prompt**
-
-```text
-Tải xuống 2.000 bức ảnh lịch sử và tư liệu tham khảo về hội chợ, rồi sử dụng toàn bộ thông tin thu thập được để tạo bản tái dựng 3D trong Blender.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098795017955418202) · [Bài đăng gốc](https://x.com/moreisdifferent/status/2098795017955418202) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2098831830002851846"></a>
-
-### Mô phỏng bàn cát động lực
-
-[AI Guides](https://x.com/free_ai_guides) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098831830002851846"><img src="../assets/previews/e178ff73b0358cd937e45c3130f36c81129c54273c173166e3358c8d9c829b01.jpg" width="840" loading="lazy" alt="Mô phỏng bàn cát động lực"></a>
-
-Một prompt có thể tái sử dụng do tác giả bài đăng cung cấp, chính là prompt mở nguyên văn đã được gửi tới GPT-6 Astra và Fable 5.1. Prompt này yêu cầu tạo mô phỏng bàn cát động lực tự chạy trong một tệp HTML duy nhất: một quả bóng vẽ các hoa văn hình học không lặp lại trên cát, sau đó làm phẳng bề mặt trước khi bắt đầu hoa văn tiếp theo.
-
-**Prompt**
-
-```text
-Xây dựng một mô phỏng bàn cát động lực. Một quả bóng phải di chuyển qua lớp cát, để lại dấu vết rõ ràng, vẽ các hoa văn hình học hoàn chỉnh, sau đó làm phẳng cát và tự động bắt đầu một hoa văn mới, khác biệt. Mô phỏng phải lần lượt chạy qua nhiều hoa văn khác nhau mà không lặp lại. Bạn được toàn quyền lựa chọn giao diện và hoa văn.
-
-Mọi quyết định về thiết kế đều do bạn lựa chọn: phong cách, màu sắc, không khí, môi trường, camera, mức độ chi tiết và mọi điểm nhấn bổ sung. Không hỏi tôi bất kỳ câu nào; hãy tự đưa ra mọi lựa chọn và xây dựng phiên bản ấn tượng nhất có thể chỉ trong một lần thực hiện.
-
-Yêu cầu kỹ thuật: chỉ sử dụng một tệp HTML độc lập, không dùng model, hình ảnh, âm thanh hoặc URL tài nguyên bên ngoài dưới bất kỳ hình thức nào (có thể dùng thư viện JavaScript từ CDN). Mô phỏng phải tự bắt đầu chạy ngay khi tải, không cần nhấp chuột, đồng thời hoạt động mượt mà và không có lỗi trong console.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098831830002851846) · [Bài đăng gốc](https://x.com/free_ai_guides/status/2098831830002851846) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3309,6 +3234,131 @@ Sử dụng các góc nhìn sinh vật kiểu turntable được kết xuất (c
 
 ---
 
+<a id="2107533363808485534"></a>
+
+### Mực ống nhồi bông.
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-06
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2107533363808485534"><img src="../assets/previews/3577fb25c99300f512c1ab63e5296bee76c80d9936bc376664be8399fc6f6908.jpg" width="840" loading="lazy" alt="Mực ống nhồi bông."></a>
+
+Tác giả bài đăng đã cung cấp một prompt cho nghiên cứu tương tác về mực ống đồ chơi nhồi bông bằng WebGPU, được triển khai trong một tệp HTML độc lập. Prompt mô tả một chú mực ống tạo theo quy trình, chuyển động dựa trên vật thể mềm và vải, các công cụ bàn tay, ngón tay và lược phản hồi tương tác, hành vi phun tia nước và giật mình, cùng giao diện bảng mẫu mang phong cách biên tập.
+
+**Prompt**
+
+```text
+Tạo "Mực ống nhồi bông." — một nghiên cứu WebGPU tương tác về mực ống đồ chơi nhồi bông dưới dạng MỘT tệp HTML độc lập (WebGPU/WGSL gốc, không thư viện, không kết cấu bề mặt, không mạng).
+
+SPECIMEN
+- Một trường khoảng cách có hướng: phần thân hình ngư lôi mềm, thuôn dần đến đầu tròn; hai vây tam giác dày, phồng tạo thành hình mũi tên ở chóp; đầu tròn có cổ áo và một chỏm tay nhỏ bên dưới.
+- Đôi mắt an toàn bằng thủy tinh bóng lớn ở hai bên đầu, nụ cười thêu, má ửng hồng; bụng nhạt màu hơn; các đốm sắc tố mềm trên thân và vây.
+- Tám tay mực nhồi bông và hai xúc tu dài rủ xuống từ chỏm: các dải vải XPBD (co giãn/cắt/trượt/uốn + liên kết uốn dài + dây neo) được vẽ thành các ống nhồi bông thuôn dần; xúc tu thu nhỏ thành cuống rồi phình thành chùy; các đĩa giác hút bằng nỉ xếp thành những hàng so le trên mọi mặt trong.
+- Lông minky ngắn dưới dạng các lớp vỏ (alpha-to-coverage, 4× MSAA) có độ trễ/đung đưa; ba lô màu nhuộm: San hô, Ngọc trai, Mực.
+
+VẬT LÝ & HÀNH VI
+- Thân = khớp hình dạng ô lục giác XPBD + thể tích tứ diện, nổi trung tính trong môi trường đặc sánh chuyển động chậm; các tay được khâu vào những điểm nằm trong mạng lưới và không xuyên vào thân nhờ SDF.
+- Cơ bắp không xương: phần thân hô hấp và co lại bằng cách thay đổi hình dạng nghỉ của các ô; vây vỗ bằng cách uốn các ô vây thành hình thang; một lực kéo tư thế yếu xoay thân về hướng đang nhắm.
+- Phun tia nước: xoay thân về một hướng, phồng lên (hút nước vào), siết mạnh một lần → lao đi với phần thân dẫn trước, các tay streaming ra phía sau, lướt trên những chiếc vây gợn sóng, xoay về tư thế thẳng đứng rồi trôi về vị trí ban đầu. "Lang thang" thỉnh thoảng tự thực hiện hành động này.
+- Đánh: cả hai xúc tu vung các chùy sang một bên, ra phía trước nó, giữ nguyên rồi kéo trở lại. Giật mình: các đốm sẫm màu nở ra và nó phun tia nước lao xa khỏi người xem.
+- Công cụ: Bàn tay (nắm và vung phần thân, kéo một tay hoặc xúc tu; xoắn bằng con lăn/cuộn hoặc ngón tay thứ hai), Ngón tay (đưa ra và giữ nguyên, rồi nhấn: các xúc tu đánh vào đó, còn các tay quấn quanh và bám chặt), Lược (vuốt lớp lông).
+
+GIAO DIỆN
+- Bố cục studio phong cách biên tập: "Nghiên cứu vật liệu / Số 017", dòng serif nghiêng lớn "Mực ống nhồi bông.", chú thích ngắn, nhãn trạng thái trực tiếp, bảng mẫu (công cụ, ô màu nhuộm, phần nhồi, lớp lông, nhịp thở; Phun tia, Đánh, Giật mình, Làm mượt lông, Đặt lại, Tạm dừng; Lang thang, tốc độ ¼, Lưới), các chỉ số (khối lượng, % thể tích, số lần phun tia, số tay đang bám), ghi chú; xoay quanh/thu phóng; bố cục xếp chồng cho thiết bị di động; thẻ dự phòng WebGPU.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2107533363808485534) · [Bài đăng gốc](https://x.com/vib3coded/status/2107533605945635233) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2107617244301664483"></a>
+
+### Villa Jelly
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-06
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2107617244301664483"><img src="../assets/previews/862faa173b8996ddd2b3c6003d6c3c41adda9f8729b5bf936747605246e2bc9a.jpg" width="840" loading="lazy" alt="Villa Jelly"></a>
+
+Một diorama 3D tương tác WebGPU tự chứa về hòn đảo thạch rau câu: biệt thự nhiệt đới hiện đại, đầm phá, hàng cọ, đồ chơi nổi và một chiếc thuyền tự hành. Người dùng có thể khuấy và nghiêng biển thạch, đổi màu hương vị, ném đồ vật, bẻ cong cây cọ, kéo thuyền và xoay quanh cảnh.
+
+**Prompt**
+
+```text
+Xây dựng "Villa Jelly" — một tệp HTML độc lập duy nhất (không yêu cầu bên ngoài, không thư viện), sử dụng WebGPU gốc + WGSL và mô phỏng bằng JS thuần. Tác phẩm thuộc series diorama thạch tương tác mang tính biên tập "NGHIÊN CỨU VẬT LIỆU". Cảnh: một khối thạch vuông được cắt lộ, bên trong là hòn đảo nhiệt đới với biệt thự trắng hiện đại ở phía sau và đầm phá màu ngọc lam ôm lấy hai cạnh phía trước, như một diorama bất động sản thu nhỏ — nhưng biển là một khối thạch rung lắc, với các lớp sọc kẹo nhìn thấy qua những mặt cắt. Phải chạy mượt (mô phỏng ≈3 ms/khung hình).
+
+TRANG / BỐ CỤC (biên tập trên nền giấy ấm)
+- Giấy #ece9e3, mực #241f1d, đường kẻ #d5d0c8, màu nhấn #17a39b (ngọc lam). Serif italic cho phần hiển thị (Iowan Old Style / Palatino / Georgia), sans cho UI, số dùng monospace.
+- Góc trên bên trái: dòng nhãn nhỏ "NGHIÊN CỨU VẬT LIỆU", H1 italic cỡ lớn "Villa / Jelly.", đường kẻ ngắn, chú thích "Một ngôi nhà trắng, mười cây cọ, một chiếc thuyền không bao giờ đứng yên và một mặt biển luôn rung lắc trở lại."
+- Viên trạng thái ở góc trên bên phải: chấm xanh lá + "WEBGPU · ĐANG CHẠY" (các trạng thái Tạm dừng / Không khả dụng).
+- Bảng kính bên phải:
+  • "BIỂN": ba nút tối nằm trên một hàng — "Bóng bãi biển", "Vịt cao su", "Sao biển" (mỗi nút thả một vật xuống đầm phá từ trên cao); thanh đo màu nhấn mảnh cho biết độ sôi động của biển; bộ đếm "Nổi · Chìm · Dạt bờ".
+  • "HƯƠNG VỊ": ba ô màu với những viên thạch bóng — Ngọc lam (mặc định), Curaçao (xanh lam rực), Raspberry (hồng).
+  • Thanh trượt: Độ cứng 50, Giảm chấn sóng 30, Thủy triều 0 (±10 cm).
+  • Đặt lại · Tạm dừng · Đặt lại góc nhìn.
+- Góc dưới bên trái "CÁCH CHƠI": dòng italic "Khuấy biển. Nghiêng khối. Ném một chú vịt." + dòng chữ xám nhỏ: "Kéo trên mặt nước để tạo sóng và xem thuyền lướt theo · kéo cạnh bên của khối để nghiêng và làm đầm phá sóng sánh · nắm thuyền để điều khiển, thả ra để thuyền tiếp tục chạy · nhặt một quả bóng, chú vịt hoặc sao biển rồi ném đi · kéo cây cọ để bẻ cong · kéo vùng trống hoặc kéo chuột phải để xoay quanh · cuộn hoặc chụm để thu phóng".
+- Đặt diorama ở giữa khoảng trống giữa tiêu đề đầu trang và bảng điều khiển. Trên di động: bảng chuyển thành sheet ở cuối màn hình (thanh "Điều khiển", mặc định đóng), xoay bằng cảm ứng, chụm để thu phóng, không cuộn trang. Thẻ dự phòng "Villa Jelly." nếu thiếu WebGPU/bộ điều hợp. Không có lỗi console.
+
+DIORAMA (khối 5.2 × 5.2, mực nước biển 1.3)
+- Địa hình dạng heightfield: đảo chiếm khoảng 60% phía sau của ô; đường bờ gợn sóng chạy dọc các cạnh +z và +x (góc trước bo tròn theo soft-max), tạo thành đầm phá hình chữ L dọc hai cạnh hướng về camera (camera từ góc trước, az ≈0.74, el ≈0.5, FOV 34°).
+- Mặt cắt từ biển vào đất liền: đáy đầm phá sâu khoảng ≈0.5 với gợn cát → dốc bãi ngắn → dải bãi cát hẹp → bờ cát dốc đứng → cao nguyên cỏ nâng cao (+0.455). Cỏ có vệt máy cắt, hơi bóng như thạch chanh; các phiến lát sáng màu cho sân trong, một dải sân hiên phía trước mảng kính và lối đi tới cầu thang.
+- Các mặt cắt của khối: lớp màu kẹo (đá gốc chocolate, đất sét caramel, dải vỏ bạc hà/xanh/hồng tùy hương vị, cát vanilla, cát ướt dưới biển; bên dưới bãi cỏ là đất tối rồi đến dải cỏ xanh trên cùng) với các hạt sỏi lấm tấm bị ép vào. Các mặt cắt của biển là những vách thạch trong mờ, có đường mực nước sáng và đường góc mềm; có thể nhìn thấy đáy biển và các lớp địa chất xuyên qua chúng.
+- Biệt thự (trắng, hiện đại, dạng khối): bệ đá; tầng trệt với mặt tiền kính tối toàn chiều cao, chia bởi các đố trắng; cánh gara với cửa nan tối; sàn tầng kéo về phía trước thành ban công trên bốn cột trắng thanh mảnh với lan can kim loại tối; tầng trên có dải kính dài; tường vây trắng ở đầu bên trái; mái trắng mỏng nhô ra với phần lõm màu xám, cùng một hộp mái nhỏ. Kính tối phản chiếu softbox của studio, phía sau là căn phòng ấm màu và thiếu sáng.
+- Pergola trên sân trong: bốn cột kim loại tối, dầm, mái vải canvas màu be võng xuống và phập phồng trong gió; sofa ngoài trời hình chữ L có đệm, bàn thấp và thảm.
+- Cầu thang trắng có tường chắn hai bên, đi từ bãi cỏ xuống theo bờ dốc tới bãi biển; hai đèn sân vườn ở phía trên.
+- Bãi biển: ô trắng (viền vỏ sò, phấp phới), hai ghế nằm trắng, kayak đỏ có mái chèo; bụi cỏ biển; đá trên bờ dốc, bãi biển và đáy đầm phá.
+- Thảm thực vật XANH TƯƠI (rất quan trọng — không có cây thưa, trơ trụi): 10 cây cọ cao với thân màu caramel-gummy có các vòng đốt (gốc phình, dáng cong nghiêng) và tán đầy đặn gồm 16 tàu lá kép cong vút mỗi cây (30 cặp lá chét, gập hình chữ V, vuốt về phía ngọn, lá non dựng đứng, lá già rủ xuống), cùng 2 tàu lá khô màu rơm rủ xuống; hàng chục bụi cây gummy gồ ghề dọc mép bãi cỏ và quanh nhà, một số có hoa hồng/đỏ/trắng.
+
+VẬT LÝ (giống "Island Jelly")
+- Biển: mô phỏng nước nông tuyến tính trên lưới so le 168² ở 120 Hz, tốc độ sóng √(g·depth), khiến sóng chậm lại và dốc hơn ở vùng nông, thêm một hạng sức căng bề mặt nhỏ để tạo gợn thạch đàn hồi, thanh trượt giảm chấn, hiệu chỉnh mực trung bình; thanh trượt thủy triều thay đổi mực nước và vùng bị ướt.
+- Khối: kéo cạnh bên để nghiêng (lò xo–giảm chấn, tối đa khoảng ~0.17 rad); trọng lực trong mặt phẳng khiến biển dồn về phía thấp và ổn định lại; mặt trên của thạch bị trượt và ép biến dạng theo quán tính; mọi thứ bên trong bị làm rung trong vertex shader.
+- Khuấy bằng ngón tay: kéo trên mặt nước để đẩy các hõm chuyển động tạo thành sóng.
+- Vật thể nổi (các hình cầu cứng trong hệ tọa độ khối, 240 Hz): lực nổi theo pháp tuyến bề mặt, lực cản thạch đặc kéo về phía dòng chảy, thể tích chiếm chỗ được trả lại cho biển ở mỗi khung hình (tự tạo gợn); khi rơi xuống tạo hõm nước kèm bong bóng và bọt, các bong bóng khí nhỏ lơ lửng trong thạch. Va chạm với địa hình, thân cọ, các khối của biệt thự, nhau và thuyền.
+  • Bóng bãi biển: r 0.085, rất nhẹ, nổi cao, nảy và lướt, có thể lăn; sáu múi màu (đỏ, xanh lam, vàng) với chỏm trắng, vinyl bóng.
+  • Vịt cao su: nổi nửa chìm, luôn tự lật đứng đầu hướng lên (căn theo pháp tuyến bề mặt hoặc mặt đất), thân vàng, mỏ cam, mắt đen.
+  • Sao biển: chìm chậm, lướt xuống xuyên qua thạch, nằm phẳng trên đáy; màu san hô/hồng/tím với các núm phủ đường.
+  Trạng thái ban đầu: một quả bóng trên bãi biển, một quả trên bãi cỏ, hai chú vịt đang nổi, hai sao biển nằm trên đáy đầm phá.
+- Cây cọ: mỗi tán có một lò xo bẻ cong 2D, chịu tác động của gió, độ nghiêng của khối và thao tác kéo của người dùng; vertex shader bẻ cong thân (∝t²) và làm đầu tàu lá rung phấp phới.
+
+THUYỀN (tự chạy)
+- Thuyền du lịch ban ngày nhỏ màu trắng (thân dài khoảng 0.62 theo tỷ lệ): thân chữ V sâu được dựng hình, đáy và sọc mạn màu xanh navy, boong trắng, sàn buồng lái bằng gỗ teak, ghế băng phía sau, ghế điều khiển, cabin thấp với kính chắn gió nghiêng tối màu và cửa sổ bên, mui cứng trắng trên các cột thanh mảnh, hai động cơ ngoài tối màu, lan can mũi bằng thép không gỉ.
+- Nổi trên mô phỏng: 8 điểm trên thân cho độ nhún/ngẩng/nghiêng theo bề mặt cục bộ (rãnh riêng được giới hạn để không thể chìm vào đó), mũi ngẩng khi tăng tốc, nghiêng khi vào cua; trong mặt phẳng: bị đẩy (có giới hạn) xuống các sườn sóng, bị dòng chảy kéo, lực cản dọc thấp và lực cản ngang cao (do sống thuyền), bị phạt địa hình nếu chạm cát, bật ra khỏi thành khối.
+- Tự lái: pure-pursuit quanh một vòng đường đua khép kín theo đầm phá hình chữ L (chạy ra theo làn ngoài, vòng qua góc, quay đầu chữ U, trở lại theo làn trong), giảm tốc khi vào cua, tốc độ hành trình ≈0.78 u/s, không bao giờ mắc cạn.
+- Thuyền đẩy nước khi di chuyển → tạo vệt sóng thực trong mô phỏng sóng, chạy ngược lên bãi biển; thêm trường bọt: vệt trắng dạng ren từ đuôi, đường bọt hai bên và tia bắn ở mũi, mờ dần trong vài giây.
+- Người dùng có thể nắm và kéo thuyền bằng mũi qua mặt nước; khi thả ra, thuyền tìm điểm gần nhất trên vòng đường đua rồi tiếp tục chạy. Thuyền gạt các chú vịt/quả bóng nổi sang bên.
+
+RENDERING
+- Các lượt render: shadow map của mặt trời (mọi vật), caustics (khúc xạ một lưới qua sóng xuống đáy, độ sáng theo mức thay đổi diện tích tam giác), cảnh opaque với bộ đệm khoảng cách, mặt sau của biển, sau đó là biển thạch trên một bản sao của cảnh: hấp thụ Beer–Lambert theo độ dài đường truyền (sigma theo hương vị), màu tán xạ, khúc xạ, các tia sáng caustics, phản xạ Fresnel kiểu studio, điểm lóe của mặt trời, bọt ren ven bờ tràn lên cát, trường bọt do vệt sóng/tia nước, điểm sáng viền. Mặt sàn dưới khối nhận bóng màu có các đốm caustics.
+- Ánh sáng studio mềm: phông giấy, softbox lớn phía trước-trái, dải sáng mát phía sau; ánh sáng môi trường bán cầu; tone shoulder + dither.
+- Vật liệu: bề mặt render sơn mờ và đá, kính tối phản chiếu, gel-coat/kim loại bóng, canvas trong mờ, bụi cây và tàu lá cọ gummy trong mờ (phát sáng khi ngược sáng), đá mờ lấm tấm.
+- Hương vị thay đổi sigma/màu tint của nước và màu các lớp địa chất: Turquoise (sigma ≈ 2.1/0.36/0.5, tint 0.07/0.46/0.42), Curaçao (2.7/1.05/0.26, tint 0.02/0.2/0.52), Raspberry (0.34/2.2/1.25, tint 0.44/0.05/0.17).
+
+KIỂM TRA QA (Chromium headless + SwiftShader)
+- Hook debug window.__vj (world, boat, bodies, water, block, advance, drop, pick, project, setPalette, reset, setPause, freeze flag). Xác minh: 6 vật thể ban đầu và bộ đếm 2/2/2; đã dựng biệt thự + 10 cây cọ; thuyền chạy ít nhất ≥6 đơn vị trong 14 giây mà không mắc cạn và để lại bọt + sóng; trạng thái chờ ổn định; bóng thả xuống nổi cao, vịt đứng thẳng, sao biển chìm phẳng; UI bộ đếm khớp; khuấy tạo sóng rồi lắng xuống; nghiêng khối khiến biển dồn về phía thấp rồi ổn định; có thể nắm, kéo thuyền và để thuyền tiếp tục hành trình; bóng ném xuống biển sẽ nhấp nhô, vịt đặt lên bãi biển vẫn ngồi thẳng; cây cọ bẻ cong; hương vị, thanh trượt, tạm dừng, xoay quanh, thu phóng; kiểm tra tải cao không có NaN; mô phỏng < 5 ms/khung hình; không có yêu cầu mạng; không có lỗi console; không cuộn trang; sheet trên di động + cảm ứng; dự phòng WebGPU.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2107617244301664483) · [Bài đăng gốc](https://x.com/vib3coded/status/2107617476473164210) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2107824019999535226"></a>
+
+### Hình ảnh hóa Những thành phố vô hình bằng Three.js
+
+[quesma.com](https://quesma.com/) · 2026-10-07
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2107824019999535226"><img src="../assets/previews/5a1055902ebf648653a42e7ab254c5326c505a2bca9f96c7ed5ab8ed440ff0ab.jpg" width="840" loading="lazy" alt="Hình ảnh hóa Những thành phố vô hình bằng Three.js"></a>
+
+Bài viết được liên kết của Piotr Migdał cho biết ông đã đưa prompt này cho GPT-6 Astra trong Codex để tạo một hình ảnh hóa Three.js tương tác về Những thành phố vô hình của Italo Calvino.
+
+**Prompt**
+
+```text
+Tạo một hình ảnh hóa bằng three.js (pnpm) cho toàn bộ Những thành phố vô hình của Italo Calvino. Đừng đặt câu hỏi; đây là nhiệm vụ thực hiện một lần. Bạn có 6 giờ làm việc, hãy tận dụng khoảng thời gian đó cho đến khi sản phẩm trở thành một kiệt tác.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2107824019999535226) · [Bài đăng gốc](https://quesma.com/blog/invisible-cities-one-shot/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Phòng thủ xe tăng vô tận
@@ -3697,7 +3747,7 @@ Bàn giao mã nguồn, lockfile, lệnh npm phát triển/build và đầu ra t�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 317 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 320 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

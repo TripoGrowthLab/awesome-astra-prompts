@@ -29,7 +29,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**317 examples · 14 languages · 12 examples with source code**
+**320 examples · 14 languages · 12 examples with source code**
 
 ## Featured projects
 
@@ -51,11 +51,8 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 <details>
 <summary>Browse examples</summary>
 
-- [Chernobyl Atlas](#2098841316591346006) · GitHub
 - [Interactive 3D Anatomy Explorer](#2099206962344800541) · GitHub
 - [Isometric fantasy graphics demo](#2100271998618177864) · GitHub
-- [3D reconstruction of the 1893 Chicago World's Fair](#2098795017955418202)
-- [Kinetic Sand Table Simulation](#2098831830002851846)
 - [Self-folding 3D origami animation](#2098909584996057283)
 - [UV Unwrapping and 4K Rebaking for a Headless Clothing Model](#2098980384260456813)
 - [Playable 3D browser shore-district slice](#2099172061092381027)
@@ -145,6 +142,9 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Plush Spider — Material Studies No. 015](#2107127712871505976)
 - [Banana Jelly](#2107186979502776590)
 - [Wild Atlas interactive wildlife encyclopedia](#2107479802152472717)
+- [Plush Squid.](#2107533363808485534)
+- [Villa Jelly](#2107617244301664483)
+- [Three.js visualization of Invisible Cities](#2107824019999535226)
 - [Battle City 3D: Endless Tank Defense](#battle-city-3d)
 - [Crazy Tanks — 3D Island Artillery](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Weird Weapons Survival Game](#odd-arms)
@@ -153,37 +153,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [The Cyclops' Island](#cyclops-island-threejs-game)
 
 </details>
-
-<a id="2098841316591346006"></a>
-
-### Chernobyl Atlas
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098841316591346006"><img src="assets/previews/c49b94fb45b6666b2db84239b17eb2d670e898d5b89d788b050e021bf38c6316.jpg" width="840" loading="lazy" alt="Chernobyl Atlas"></a>
-
-A reusable recommendation from the posting author for building an interactive Three.js exhibit of the Chernobyl power block and RBMK reactor. It calls for an explodable 3D power-block model, an animated steam-circuit view, and a 3D reactor cutaway with motion and inspection controls. The author presents it as a prompt to build something similar, not as the confirmed original input for the linked exhibit.
-
-**Prompt**
-
-```text
-Build "Chernobyl Atlas," a premium interactive 3D exhibit using Three.js.
-
-Research the intact Chernobyl power plant and RBMK reactor using public references. Model the buildings, lattice chimney, turbine hall, graphite stack, fuel channels, shielding, separator drums, pumps, and pipes.
-
-Create three tabs:
-— Power Block: a detailed model that disassembles layer by layer using scroll and a slider.
-— Steam Circuit: an animated diagram connecting the reactor, turbine, condenser, and pumps.
-— Reactor in Motion: a 3D cutaway with moving water and steam, spinning machinery, and playback controls.
-
-Add independent system visibility toggles, adjustable part spacing, wireframe, transparency, section cuts, and short labels. Keep every layer easy to inspect and the camera freely rotatable, even at full disassembly.
-
-Deliver the source and a standalone HTML file. Test all controls. Present it as an educational interpretation, not an exact engineering replica.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098841316591346006) · [Original post](https://x.com/k1rallik/status/2098841316591346006) · [Source code](https://github.com/bubblik525/Chernobyl_Atlas) · [Back to examples](#all-prompts)
-
----
 
 <a id="2099206962344800541"></a>
 
@@ -228,50 +197,6 @@ Build me a graphics demo: isometric camera, voxel-ish art style with realistic s
 ```
 
 [View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100271998618177864) · [Original post](https://github.com/achimala/dream-loop) · [Source code](https://github.com/achimala/dream-loop) · [Back to examples](#all-prompts)
-
----
-
-<a id="2098795017955418202"></a>
-
-### 3D reconstruction of the 1893 Chicago World's Fair
-
-[Dan Elton](https://x.com/moreisdifferent) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098795017955418202"><img src="assets/previews/81cc4ab0f0941aecdb4845f4372e0b7375ca0dcef194e05b92384115d8bcb45b.jpg" width="840" loading="lazy" alt="3D reconstruction of the 1893 Chicago World's Fair"></a>
-
-A 3D Blender reconstruction of the World's Columbian Exposition of 1893, using historical photographs and reference information about the fair.
-
-**Prompt**
-
-```text
-download 2,000 historical photographs and reference information around the fair and use all the information obtained to create a 3D reconstruction in Blender.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098795017955418202) · [Original post](https://x.com/moreisdifferent/status/2098795017955418202) · [Back to examples](#all-prompts)
-
----
-
-<a id="2098831830002851846"></a>
-
-### Kinetic Sand Table Simulation
-
-[AI Guides](https://x.com/free_ai_guides) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098831830002851846"><img src="assets/previews/e178ff73b0358cd937e45c3130f36c81129c54273c173166e3358c8d9c829b01.jpg" width="840" loading="lazy" alt="Kinetic Sand Table Simulation"></a>
-
-A reusable prompt supplied by the posting author as the exact open prompt received by GPT-6 Astra and Fable 5.1. It requests a self-running kinetic sand-table simulation in a single HTML file: a ball draws non-repeating geometric patterns in sand, then smooths the surface before beginning another pattern.
-
-**Prompt**
-
-```text
-Build a kinetic sand table simulation. A ball must move through a bed of sand, leaving a visible trail, drawing complete geometric patterns, then smoothing the sand and starting a new and different pattern automatically. It must cycle through many different patterns without repeating. Everything about the look and the patterns is your choice.
-
-Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt.
-
-Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098831830002851846) · [Original post](https://x.com/free_ai_guides/status/2098831830002851846) · [Back to examples](#all-prompts)
 
 ---
 
@@ -3267,6 +3192,131 @@ Use rendered turntable-style creature views (drag-to-rotate and close-up support
 
 ---
 
+<a id="2107533363808485534"></a>
+
+### Plush Squid.
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-06
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2107533363808485534"><img src="assets/previews/3577fb25c99300f512c1ab63e5296bee76c80d9936bc376664be8399fc6f6908.jpg" width="840" loading="lazy" alt="Plush Squid."></a>
+
+The posting author supplied a prompt for an interactive WebGPU stuffed-toy squid study in a self-contained HTML file. It specifies a procedural squid, soft-body and cloth-based motion, responsive hand, finger, and comb tools, jet and startle behaviors, and an editorial specimen-panel interface.
+
+**Prompt**
+
+```text
+Create "Plush Squid." — an interactive WebGPU study of a stuffed toy squid as ONE self-contained HTML file (native WebGPU/WGSL, no libraries, no textures, no network).
+
+SPECIMEN
+- One signed distance field: a soft torpedo mantle tapering to a rounded point, two thick puffy triangular fins forming an arrowhead at the tip, a round head with a collar, and a small arm crown underneath.
+- Big glossy glass safety eyes on the sides of the head, embroidered smile, pink cheek blush; a paler belly; soft chromatophore spots on mantle and fins.
+- Eight stuffed arms and two long tentacles hanging from the crown: XPBD cloth strips (stretch/shear/bend + long bend links + tethers) drawn as tapering plush tubes; tentacles thin to stalks and swell into clubs; felt sucker discs in staggered rows on every inner face.
+- Short minky fur as shell layers (alpha-to-coverage, 4× MSAA) with lag/sway; three dye lots: Coral, Pearl, Ink.
+
+PHYSICS & BEHAVIOUR
+- Body = XPBD hex-cell shape matching + tet volume, neutral buoyancy in a slow thick medium; arms sewn on at points embedded in the lattice, kept out of the body via its SDF.
+- Muscles without bones: the mantle breathes and contracts by changing cell rest shapes; fins flap by bending fin cells into trapezoids; a weak posture pull turns the body to a bearing.
+- Jet: turn the mantle toward a direction, swell (draw water in), one hard squeeze → thrust mantle-first, arms streaming behind, glide on rippling fins, turn upright, drift home. "Wander" does this on its own now and then.
+- Strike: both tentacles fling their clubs out to one side in front of it, hold, then draw back. Startle: spots bloom darker and it jets away from the viewer.
+- Tools: Hand (grab and swing the mantle, tow an arm or tentacle; twist with scroll/second finger), Finger (held out and pressed: the tentacles strike at it and the arms wind round and cling), Comb (lay the pile).
+
+UI
+- Editorial studio layout: "Material Studies / No. 017", large italic serif "Plush Squid.", short caption, live status pill, specimen panel (tools, dye swatches, stuffing, pile, breathing; Jet, Strike, Startle, Smooth fur, Reset, Pause; Wander, ¼ speed, Mesh), readouts (mass, volume %, jets, arms clinging), notes; orbit/zoom; stacked mobile layout; WebGPU fallback card.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2107533363808485534) · [Original post](https://x.com/vib3coded/status/2107533605945635233) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2107617244301664483"></a>
+
+### Villa Jelly
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-06
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2107617244301664483"><img src="assets/previews/862faa173b8996ddd2b3c6003d6c3c41adda9f8729b5bf936747605246e2bc9a.jpg" width="840" loading="lazy" alt="Villa Jelly"></a>
+
+A self-contained WebGPU interactive 3D jelly-island diorama: a modern tropical villa, lagoon, palms, floating toys, and an autonomous boat. Users can stir and tip the jelly sea, change flavour colours, throw objects, bend palms, tow the boat, and orbit the scene.
+
+**Prompt**
+
+```text
+Build "Villa Jelly" — a single self-contained HTML file (no external requests, no libraries) using native WebGPU + WGSL, simulation in plain JS. It belongs to an editorial "MATERIAL STUDIES" series of interactive jelly dioramas. Scene: a square cut-out block of jelly showing a tropical island with a modern white villa at the back and a turquoise lagoon wrapping the two front edges, like a miniature real-estate diorama — but the sea is a wobbling block of jelly with candy-striped strata visible through its cut faces. Must run smoothly (sim ≈3 ms/frame).
+
+PAGE / LAYOUT (warm paper editorial)
+- Paper #ece9e3, ink #241f1d, rules #d5d0c8, accent #17a39b (turquoise). Serif italic display (Iowan Old Style / Palatino / Georgia), sans UI, mono numbers.
+- Top-left: eyebrow "MATERIAL STUDIES", huge italic H1 "Villa / Jelly.", short rule, caption "A white house, ten palms, a boat that never sits still and a sea that wobbles back."
+- Top-right status pill: green dot + "WEBGPU · LIVE" (Paused / Unavailable states).
+- Right glass panel:
+  • "THE SEA": three dark buttons in a row — "Beach ball", "Rubber duck", "Starfish" (each drops one into the lagoon from above); thin accent meter showing how lively the sea is; tally "Afloat · Sunk · Ashore".
+  • "FLAVOUR": three swatches with glossy jelly balls — Turquoise (default), Curaçao (vivid blue), Raspberry (pink).
+  • Sliders: Firmness 50, Wave damping 30, Tide 0 (±10 cm).
+  • Reset · Pause · Reset view.
+- Bottom-left "HOW TO PLAY": italic "Stir the sea. Tip the block. Throw a duck." + small grey line: "Drag across the water to make waves and watch the boat ride them · drag the side of the block to tip it and slosh the lagoon · grab the boat to steer it, let go and it carries on · pick up a ball, a duck or a starfish and throw it · drag a palm to bend it · drag empty space or right-drag to orbit · scroll or pinch to zoom".
+- Centre the diorama in the free space between masthead and panel. Mobile: panel becomes a bottom sheet ("Controls" bar, closed by default), touch orbit, pinch zoom, no page scroll. Fallback card "Villa Jelly." if WebGPU/adapter missing. Zero console errors.
+
+THE DIORAMA (block 5.2 × 5.2, sea level 1.3)
+- Terrain heightfield: the island fills the back ~60% of the tile; wavy shorelines run along the +z and +x edges (soft-max rounded front corner), so the lagoon is an L along the two edges facing the camera (camera from the front corner, az ≈0.74, el ≈0.5, FOV 34°).
+- Profile from sea inland: lagoon floor ≈0.5 deep with sand ripples → short beach slope → narrow sandy beach → steep sandy bank → raised lawn plateau (+0.455). Lawn is striped by a mower, slightly glossy like lime jelly; pale paving slabs for a patio, a terrace strip in front of the glass and a path to the stairs.
+- Cut faces of the block: candy strata (chocolate bedrock, caramel clay, a mint/blue/pink shell band depending on flavour, vanilla sand, wet sand under the sea; under the lawn: dark soil then a green grass band on top) with pressed-in pebble specks. The sea's cut faces are translucent jelly walls with a bright meniscus line and soft corner lines; you see the seabed and strata through them.
+- Villa (white, modern, boxy): stone plinth; ground floor with a full-height dark glass front split by white mullions; garage wing with dark slatted door; floor slab that runs forward as a balcony on four slim white columns with a dark metal rail; upper floor with a long glass band; a white fin wall at the left end; thin overhanging white roof slab with grey inset, small roof box. Dark glass reflects the studio softbox with a dim warm room behind.
+- Pergola over the patio: four dark metal posts, beams, a sagging beige canvas that breathes in the breeze; L-shaped outdoor sofa with cushions, low table, rug.
+- White stairs with cheek walls from the lawn down the bank to the beach, two garden lamps at the top.
+- Beach: white umbrella (scalloped, flutters), two white loungers, red kayak with paddle; beach grass tufts; rocks on the bank, beach and lagoon floor.
+- LUSH vegetation (important — no sparse, bald trees): 10 tall coconut palms with ringed caramel-gummy trunks (swollen foot, curving lean) and full crowns of 16 arching pinnate fronds each (30 leaflet pairs, V-folded, swept to the tip, young fronds upright, old ones drooping) plus 2 dry straw-coloured hanging fronds; dozens of lumpy gummy bushes along the lawn edge and around the house, some with pink/red/white flowers.
+
+PHYSICS (same as "Island Jelly")
+- Sea: linear shallow-water sim on a 168² staggered grid at 120 Hz, wave speed √(g·depth) so waves slow and steepen over the shallows, small surface-tension term for springy jelly ripples, damping slider, mean-level correction, tide slider changes the level and the wet area.
+- Block: drag its side to tip it (spring-damper, max ~0.17 rad); in-plane gravity makes the sea slosh to the low side and settle; the jelly top shears and squashes with inertia; everything inside is wobbled in the vertex shader.
+- Finger stirring: dragging over the water pushes moving dents that make waves.
+- Floating bodies (rigid spheres in block frame, 240 Hz): buoyancy along the surface normal, heavy jelly drag towards the flow, displaced volume handed back to the sea every frame (they make their own ripples), splash craters with bubbles and foam on entry, tiny air bubbles suspended in the jelly. Contacts with terrain, palm trunks, villa boxes, each other and the boat.
+  • Beach ball: r 0.085, very light, floats high, bounces and skips, rolls; six coloured gores (red, blue, yellow) with white caps, glossy vinyl.
+  • Rubber duck: floats half-in, always rights itself head-up (aligns to surface or ground normal), yellow body, orange beak, black eyes.
+  • Starfish: sinks slowly, planes down through the jelly, settles flat against the floor; coral/pink/purple with sugared knobs.
+  Start state: one ball on the beach, one on the lawn, two ducks afloat, two starfish on the lagoon floor.
+- Palms: one 2D bend spring per crown driven by breeze, block tilt and user drag; vertex shader bends the trunk (∝t²) and flutters frond tips.
+
+THE BOAT (runs by itself)
+- Small white day cruiser (scaled hull ~0.62 long): deep-V lofted hull with navy bottom and boot stripe, white deck, teak cockpit sole, aft bench, helm seats, low cabin with dark raked windscreen and side windows, white hard-top on slim posts, twin dark outboards, stainless bow rail.
+- Floats on the sim: 8 hull points give heave/pitch/roll from the local surface (own trough clamped so it can't sink into it), noses up with speed, leans into turns; in-plane: pushed (capped) down wave slopes, dragged by the flow, low drag fore-aft and high sideways (keel), terrain penalty if it touches sand, bounces off block walls.
+- Autopilot: pure-pursuit around a closed racetrack loop following the L-shaped lagoon (out along the outer lane, round the corner, U-turn, back along the inner lane), slowing in bends, cruise ≈0.78 u/s, never grounds.
+- It displaces water as it moves → a real wake in the wave sim that runs up the beach; plus a foam field: white lacy trail from the stern, side lines and bow spray, fading over a few seconds.
+- User can grab and tow it by the bow across the water; released, it finds the nearest point of its loop and carries on. It shoves floating ducks/balls aside.
+
+RENDERING
+- Passes: sun shadow map (everything), caustics (refract a grid through the waves onto the floor, brightness by triangle area change), opaque scene with distance buffer, back-faces of the sea, then the jelly sea over a copy of the scene: Beer–Lambert absorption by path length (flavour sigma), scattered tint, refraction, caustic light shafts, Fresnel studio reflection, sun glints, shoreline lace foam that laps the sand, wake/splash foam field, rim highlights. The floor under the block gets a tinted, caustic-flecked shadow.
+- Soft studio lighting: paper backdrop, big softbox front-left, cool strip behind; hemispherical ambient; tone shoulder + dither.
+- Materials: matte painted render and stone, dark reflective glass, glossy gel-coat/metal, translucent canvas, gummy translucent shrubs and palm fronds (backlit glow), matte speckled rocks.
+- Flavours swap water sigma/tint and strata colours: Turquoise (sigma ≈ 2.1/0.36/0.5, tint 0.07/0.46/0.42), Curaçao (2.7/1.05/0.26, tint 0.02/0.2/0.52), Raspberry (0.34/2.2/1.25, tint 0.44/0.05/0.17).
+
+QA (headless Chromium + SwiftShader)
+- Debug hook window.__vj (world, boat, bodies, water, block, advance, drop, pick, project, setPalette, reset, setPause, freeze flag). Verify: 6 starting bodies and tally 2/2/2; villa + 10 palms built; boat laps ≥6 units in 14 s without grounding and leaves foam + waves; idle stability; dropped ball floats high, duck upright, starfish sunk flat; tally UI matches; stirring makes waves that die down; tipping the block piles the sea on the low side and settles back; boat can be grabbed, towed and resumes its course; ball thrown into sea bobs, duck put on the beach sits upright; palms bend; flavours, sliders, pause, orbit, zoom; stress test with no NaN; sim < 5 ms/frame; no network requests; no console errors; no page scroll; mobile sheet + touch; WebGPU fallback.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2107617244301664483) · [Original post](https://x.com/vib3coded/status/2107617476473164210) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2107824019999535226"></a>
+
+### Three.js visualization of Invisible Cities
+
+[quesma.com](https://quesma.com/) · 2026-10-07
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2107824019999535226"><img src="assets/previews/5a1055902ebf648653a42e7ab254c5326c505a2bca9f96c7ed5ab8ed440ff0ab.jpg" width="840" loading="lazy" alt="Three.js visualization of Invisible Cities"></a>
+
+Piotr Migdał’s linked article states that he gave this prompt to GPT-6 Astra in Codex for an interactive Three.js visualization of Italo Calvino’s Invisible Cities.
+
+**Prompt**
+
+```text
+Make a three.js (pnpm) visualization of all Invisible Cities by Italo Calvino. Don’t ask questions, it is a one-shot task. You have 6h of work, use it until it becomes a masterpiece.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2107824019999535226) · [Original post](https://quesma.com/blog/invisible-cities-one-shot/) · [Back to examples](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Endless Tank Defense
@@ -3655,7 +3705,7 @@ Deliver source, lockfile, npm development/build commands and static output. Veri
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 317 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 320 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>

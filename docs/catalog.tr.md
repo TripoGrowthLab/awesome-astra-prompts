@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**317 · En yeni Astra istemleri**
+**320 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -50,11 +50,8 @@
 <details>
 <summary>Örnekleri keşfet</summary>
 
-- [Çernobil Atlası](#2098841316591346006) · GitHub
 - [Etkileşimli 3B Anatomi Gezgini](#2099206962344800541) · GitHub
 - [İzometrik fantezi grafik demosu](#2100271998618177864) · GitHub
-- [1893 Chicago Dünya Fuarı'nın 3B rekonstrüksiyonu](#2098795017955418202)
-- [Kinetik Kum Masası Simülasyonu](#2098831830002851846)
 - [Kendi kendine katlanan 3B origami animasyonu](#2098909584996057283)
 - [Başsız kıyafet modelinde UV açılımı ve 4K yeniden bake](#2098980384260456813)
 - [Tarayıcıda oynanabilir 3B kıyı bölümü](#2099172061092381027)
@@ -144,6 +141,9 @@
 - [Plush Örümcek — Malzeme Çalışmaları No. 015](#2107127712871505976)
 - [Muz Jölesi](#2107186979502776590)
 - [Wild Atlas etkileşimli vahşi yaşam ansiklopedisi](#2107479802152472717)
+- [Pelüş Kalamar.](#2107533363808485534)
+- [Villa Jelly](#2107617244301664483)
+- [Görünmez Kentler için Three.js görselleştirmesi](#2107824019999535226)
 - [Battle City 3D: Sonsuz Tank Savunması](#battle-city-3d)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu](#odd-arms)
@@ -152,37 +152,6 @@
 - [Kiklop’un Adası](#cyclops-island-threejs-game)
 
 </details>
-
-<a id="2098841316591346006"></a>
-
-### Çernobil Atlası
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098841316591346006"><img src="../assets/previews/c49b94fb45b6666b2db84239b17eb2d670e898d5b89d788b050e021bf38c6316.jpg" width="840" loading="lazy" alt="Çernobil Atlası"></a>
-
-Paylaşım yazarı tarafından, Çernobil güç ünitesi ile RBMK reaktörünü konu alan etkileşimli bir Three.js sergisi oluşturmak için hazırlanmış, yeniden kullanılabilir bir öneri. Öneri; parçalarına ayrılarak incelenebilen bir 3B güç ünitesi modeli, animasyonlu bir buhar devresi görünümü ve hareket ile inceleme kontrollerine sahip kesitli bir 3B reaktör sunuyor. Yazar bunu, bağlantısı verilen serginin doğrulanmış özgün girdisi olarak değil, benzer bir çalışma oluşturmak için kullanılabilecek bir prompt olarak sunuyor.
-
-**İstem**
-
-```text
-Three.js kullanarak "Çernobil Atlası" adlı, üst düzey etkileşimli bir 3B sergi oluşturun.
-
-Kamuya açık kaynaklardan yararlanarak Çernobil nükleer santralinin ve RBMK reaktörünün sağlam durumunu araştırın. Binaları, kafes tipi bacayı, türbin salonunu, grafit yığınını, yakıt kanallarını, koruyucu yapıları, ayırıcı tamburları, pompaları ve boruları modelleyin.
-
-Üç sekme oluşturun:
-— Güç Ünitesi: kaydırma ve sürgü kullanılarak katman katman ayrıştırılabilen ayrıntılı bir model.
-— Buhar Devresi: reaktörü, türbini, yoğuşturucuyu ve pompaları birbirine bağlayan animasyonlu bir diyagram.
-— Hareketli Reaktör: hareket eden su ve buhar, dönen makineler ve oynatma kontrolleri içeren kesitli bir 3B görünüm.
-
-Sistemlerin görünürlüğünü bağımsız olarak açıp kapatma, parçalar arasındaki mesafeyi ayarlama, tel kafes ve saydamlık seçenekleri, kesit alma ve kısa etiketler ekleyin. Tamamen ayrıştırılmış durumda bile her katmanın kolayca incelenebilmesini ve kameranın serbestçe döndürülebilmesini sağlayın.
-
-Kaynak kodunu ve bağımsız çalışabilen bir HTML dosyasını teslim edin. Tüm kontrolleri test edin. Çalışmayı, mühendislik açısından birebir bir kopya değil, eğitim amaçlı bir yorumlama olarak sunun.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098841316591346006) · [Orijinal gönderi](https://x.com/k1rallik/status/2098841316591346006) · [Kaynak kodu](https://github.com/bubblik525/Chernobyl_Atlas) · [Örneklere dön](#all-prompts)
-
----
 
 <a id="2099206962344800541"></a>
 
@@ -227,50 +196,6 @@ Bana bir grafik demosu oluştur: izometrik kamera, gerçekçi gölgelendirmeye v
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100271998618177864) · [Orijinal gönderi](https://github.com/achimala/dream-loop) · [Kaynak kodu](https://github.com/achimala/dream-loop) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2098795017955418202"></a>
-
-### 1893 Chicago Dünya Fuarı'nın 3B rekonstrüksiyonu
-
-[Dan Elton](https://x.com/moreisdifferent) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098795017955418202"><img src="../assets/previews/81cc4ab0f0941aecdb4845f4372e0b7375ca0dcef194e05b92384115d8bcb45b.jpg" width="840" loading="lazy" alt="1893 Chicago Dünya Fuarı'nın 3B rekonstrüksiyonu"></a>
-
-Tarihî fotoğraflar ve fuarla ilgili referans bilgileri kullanılarak Blender'da oluşturulmuş 1893 Dünya Kolomb Sergisi'nin 3B rekonstrüksiyonu.
-
-**İstem**
-
-```text
-Fuarla ilgili 2.000 tarihî fotoğrafı ve referans bilgilerini indirin; elde edilen tüm bilgileri kullanarak Blender'da 3B bir rekonstrüksiyon oluşturun.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098795017955418202) · [Orijinal gönderi](https://x.com/moreisdifferent/status/2098795017955418202) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2098831830002851846"></a>
-
-### Kinetik Kum Masası Simülasyonu
-
-[AI Guides](https://x.com/free_ai_guides) · 2026-09-12
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098831830002851846"><img src="../assets/previews/e178ff73b0358cd937e45c3130f36c81129c54273c173166e3358c8d9c829b01.jpg" width="840" loading="lazy" alt="Kinetik Kum Masası Simülasyonu"></a>
-
-Paylaşım yazarı tarafından, GPT-6 Astra ve Fable 5.1’e gönderilen açık istemin aynısı olarak sunulan, yeniden kullanılabilir bir istem. Tek bir HTML dosyasında kendi kendine çalışan bir kinetik kum masası simülasyonu oluşturulmasını ister: Bir top, kumun üzerinde tekrarlanmayan geometrik desenler çizer, ardından yüzeyi düzleştirerek yeni bir desene başlar.
-
-**İstem**
-
-```text
-Kinetik kum masası simülasyonu oluştur. Bir top kum yatağının üzerinde hareket ederek görünür bir iz bırakmalı, eksiksiz geometrik desenler çizmeli, ardından kumu düzleştirip otomatik olarak yeni ve farklı bir desene başlamalıdır. Tekrarlamadan çok sayıda farklı desen arasında geçiş yapmalıdır. Görünüm ve desenlerle ilgili her şeyi sen seç.
-
-Tasarımın her kararını sen ver: stil, renkler, atmosfer, ortam, kamera, ayrıntı düzeyi ve diğer ek dokunuşlar. Bana hiçbir soru sorma; tüm seçimleri kendin yap ve tek denemede mümkün olan en etkileyici sürümü oluştur.
-
-Teknik gereksinimler: Harici model, görsel, ses veya herhangi bir varlık URL’si içermeyen, tamamen kendi içinde çalışan tek bir HTML dosyası kullan (CDN üzerinden alınan bir JavaScript kütüphanesi kullanılabilir). Sayfa yüklendiği anda, tıklama gerektirmeden kendi kendine çalışmaya başlamalı ve konsol hatası vermeden akıcı biçimde çalışmalıdır.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098831830002851846) · [Orijinal gönderi](https://x.com/free_ai_guides/status/2098831830002851846) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3291,6 +3216,131 @@ Render edilmiş, turntable tarzı canlı görünümleri kullanın (sürükleyere
 
 ---
 
+<a id="2107533363808485534"></a>
+
+### Pelüş Kalamar.
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-06
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2107533363808485534"><img src="../assets/previews/3577fb25c99300f512c1ab63e5296bee76c80d9936bc376664be8399fc6f6908.jpg" width="840" loading="lazy" alt="Pelüş Kalamar."></a>
+
+Paylaşım yazarı, kendi içinde çalışan tek bir HTML dosyasında etkileşimli bir WebGPU pelüş kalamar çalışması için istem sağladı. İstem; prosedürel bir kalamar, yumuşak gövde ve kumaş tabanlı hareket, etkileşimli el, parmak ve tarak araçları, jet ve irkilme davranışları ile editoryal bir numune paneli arayüzü tanımlıyor.
+
+**İstem**
+
+```text
+"Pelüş Kalamar."ı — pelüş bir kalamarı konu alan etkileşimli bir WebGPU çalışmasını, tek ve kendi içinde çalışan bir HTML dosyası olarak oluşturun (yerel WebGPU/WGSL, kütüphane yok, doku yok, ağ bağlantısı yok).
+
+SPECIMEN
+- Tek bir signed distance field: yuvarlak bir uçta daralan yumuşak torpido biçimli manto, uçta ok ucu oluşturan iki kalın ve kabarık üçgen yüzgeç, yakalı yuvarlak bir baş ve altta küçük bir kol tacı.
+- Başın yanlarında büyük, parlak cam güvenlik gözleri; işleme gülümseme, pembe yanak allığı; daha açık renkli bir karın; manto ve yüzgeçlerde yumuşak kromatofor benekleri.
+- Taçtan sarkan sekiz dolgulu kol ve iki uzun dokunaç: XPBD kumaş şeritleri (gerilme/kayma/bükülme + uzun bükülme bağlantıları + bağlar), daralarak incelen pelüş tüpler olarak çizilir; dokunaçlar gövdeye yakın kısımlarda ince saplara dönüşür ve topuz biçiminde kalınlaşır; her iç yüzeyde, şaşırtmalı sıralar hâlinde keçe emici diskleri bulunur.
+- Gecikme ve salınım içeren kabuk katmanları olarak kısa minky tüyü (alpha-to-coverage, 4× MSAA); üç boya serisi: Coral, Pearl, Ink.
+
+FİZİK VE DAVRANIŞ
+- Gövde = XPBD altıgen hücreli şekil eşleme + tet hacmi; yavaş ve yoğun bir ortamda nötr yüzebilirlik; kollar, kafes içine gömülü noktalara dikilir ve kendi SDF'si sayesinde gövdenin içine girmeleri önlenir.
+- Kemiksiz kaslar: manto, hücrelerin dinlenim şekillerini değiştirerek nefes alır ve kasılır; yüzgeçler, yüzgeç hücrelerinin yamuklara bükülmesiyle çırpılır; zayıf bir duruş kuvveti gövdeyi bir yöne çevirir.
+- Jet: mantoyu bir yöne çevirin, şişirin (suyu içeri çekmek için), tek ve güçlü bir sıkıştırma uygulayın → manto önde ilerlesin, kollar arkadan akışa kapılsın, dalgalanan yüzgeçlerle süzülsün, dik konuma dönsün ve başlangıç noktasına doğru sürüklensin. "Wander" bunu ara sıra kendiliğinden yapar.
+- Saldırı: her iki dokunaç, topuzlarını önündeki tek bir yana doğru savurur, bekletir ve ardından geri çeker. İrkilme: benekler koyulaşarak belirginleşir ve izleyiciden uzağa doğru jet hareketi yapar.
+- Araçlar: El (mantoyu tutup savurun, bir kolu veya dokunacı çekin; kaydırma/ikinci parmakla döndürün), Parmak (uzatılıp basılı tutulduğunda dokunaçlar ona saldırır, kollar da etrafına dolanıp tutunur), Tarak (havı düzeltin).
+
+ARAYÜZ
+- Editoryal stüdyo düzeni: "Material Studies / No. 017", büyük italik serif "Pelüş Kalamar.", kısa açıklama, canlı durum rozeti, numune paneli (araçlar, boya renk örnekleri, dolgu, hav, nefes alma; Jet, Strike, Startle, Smooth fur, Reset, Pause; Wander, ¼ speed, Mesh), ölçüm göstergeleri (kütle, hacim %, jet sayısı, tutunan kollar), notlar; yörünge/döndürme ve yakınlaştırma; mobilde dikey yığılmış düzen; WebGPU geri dönüş kartı.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2107533363808485534) · [Orijinal gönderi](https://x.com/vib3coded/status/2107533605945635233) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2107617244301664483"></a>
+
+### Villa Jelly
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-06
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2107617244301664483"><img src="../assets/previews/862faa173b8996ddd2b3c6003d6c3c41adda9f8729b5bf936747605246e2bc9a.jpg" width="840" loading="lazy" alt="Villa Jelly"></a>
+
+Kendi içinde çalışan WebGPU etkileşimli 3B jöle ada dioraması: modern tropik villa, lagün, palmiyeler, yüzen oyuncaklar ve otonom bir tekne. Kullanıcılar jöle denizi karıştırıp bloğu eğebilir, aroma renklerini değiştirebilir, nesneler fırlatabilir, palmiyeleri bükebilir, tekneyi çekebilir ve sahnenin yörüngesinde dolaşabilir.
+
+**İstem**
+
+```text
+"Villa Jelly"yi oluşturun — harici istek veya kütüphane kullanmayan, native WebGPU + WGSL ve düz JS ile simülasyon kullanan, kendi içinde çalışan tek bir HTML dosyası. Bu çalışma, etkileşimli jöle dioramalarından oluşan editoryal "MATERIAL STUDIES" serisinin bir parçasıdır. Sahne: tropik bir adayı gösteren, kare biçiminde kesilmiş bir jöle blok; arka kısımda modern beyaz bir villa, kameraya bakan iki ön kenarı saran turkuaz bir lagün. Minyatür bir emlak dioraması gibi görünmeli — ancak deniz, kesilmiş yüzeylerinden şeker şeritli katmanları görünen, sallanan bir jöle bloğu olmalı. Akıcı çalışmalı (simülasyon ≈ 3 ms/kare).
+
+SAYFA / DÜZEN (sıcak kâğıt editoryali)
+- Kâğıt #ece9e3, mürekkep #241f1d, çizgiler #d5d0c8, vurgu #17a39b (turkuaz). Serif italik başlık yazı tipi (Iowan Old Style / Palatino / Georgia), sans UI, monospaced sayılar.
+- Sol üst: üst başlık "MATERIAL STUDIES", çok büyük italik H1 "Villa / Jelly.", kısa çizgi, açıklama "Beyaz bir ev, asla yerinde durmayan bir tekne, on palmiye ve yeniden sallanan bir deniz."
+- Sağ üst durum rozeti: yeşil nokta + "WEBGPU · LIVE" (Paused / Unavailable durumları).
+- Sağ cam panel:
+  • "THE SEA": yan yana üç koyu düğme — "Beach ball", "Rubber duck", "Starfish" (her biri lagüne yukarıdan bir nesne bırakır); denizin ne kadar hareketli olduğunu gösteren ince vurgu göstergesi; "Afloat · Sunk · Ashore" sayacı.
+  • "FLAVOUR": parlak jöle toplarından oluşan üç renk örneği — Turquoise (varsayılan), Curaçao (canlı mavi), Raspberry (pembe).
+  • Kaydırıcılar: Firmness 50, Wave damping 30, Tide 0 (±10 cm).
+  • Reset · Pause · Reset view.
+- Sol alt "HOW TO PLAY": italik "Denizi karıştır. Bloğu eğ. Bir ördek fırlat." + küçük gri satır: "Dalgalar oluşturmak ve teknenin üzerlerinde ilerleyişini izlemek için suyun üzerinde sürükleyin · bloğu eğip lagünü çalkalamak için bloğun kenarını sürükleyin · tekneyi yönlendirmek için yakalayın, bırakın; yoluna devam eder · bir topu, ördeği veya denizyıldızını alıp fırlatın · bir palmiyeyi bükmek için sürükleyin · yörüngede dolaşmak için boş alanı sürükleyin veya sağ tuşla sürükleyin · yakınlaştırmak için kaydırın veya iki parmağınızla sıkıştırın".
+- Dioramayı, başlık alanı ile panel arasındaki boş alanda ortalayın. Mobilde panel bir alt sayfaya dönüşür (varsayılan olarak kapalı "Controls" çubuğu), dokunarak yörüngede dolaşma, iki parmakla yakınlaştırma, sayfa kaydırma yok. WebGPU/adapter bulunamazsa "Villa Jelly." yedek kartını gösterin. Konsolda hiç hata olmamalı.
+
+DİORAMA (blok 5.2 × 5.2, deniz seviyesi 1.3)
+- Arazi yükseklik alanı: ada karonun arka yaklaşık %60'ını kaplar; dalgalı kıyı çizgileri +z ve +x kenarları boyunca uzanır (yumuşak maksimumla yuvarlatılmış ön köşe); bu nedenle lagün, kameraya bakan iki kenar boyunca L şeklindedir (kamera ön köşeden bakar, az ≈0.74, el ≈0.5, FOV 34°).
+- Denizden içeri doğru profil: kum dalgalı lagün tabanı ≈0.5 derinlikte → kısa kıyı eğimi → dar kumlu sahil → dik kumlu set → yükseltilmiş çim plato (+0.455). Çimler biçme makinesi izleriyle çizgili, limon jölesi gibi hafif parlaktır; veranda için soluk renkli döşeme taşları, camın önünde bir teras şeridi ve merdivenlere giden bir yol bulunur.
+- Bloğun kesilmiş yüzleri: şeker katmanları (çikolata ana kaya, karamel kil, aromaya göre nane/mavi/pembe kabuk şeridi, vanilya kumu, denizin altında ıslak kum; çimlerin altında önce koyu toprak, üstte yeşil çim şeridi) ve yüzeye bastırılmış küçük çakıl benekleri. Denizin kesilmiş yüzleri, parlak bir menisküs çizgisine ve yumuşak köşe hatlarına sahip yarı saydam jöle duvarlarıdır; deniz tabanını ve katmanları bunların içinden görebilirsiniz.
+- Villa (beyaz, modern, köşeli): taş kaide; beyaz dikmelerle bölünmüş, boydan boya koyu cam ön cepheli zemin kat; koyu çıtalı kapılı garaj kanadı; öne doğru dört ince beyaz kolon üzerinde balkon olarak uzanan döşeme; koyu metal korkuluk; uzun cam şeritli üst kat; sol uçta beyaz kanat duvar; gri girintili, ince ve çıkıntılı beyaz çatı döşemesi, küçük çatı kutusu. Koyu cam, stüdyo softbox'ını ve arkasında loş, sıcak tonlu bir odayı yansıtır.
+- Verandanın üzerinde pergola: dört koyu metal direk, kirişler, esintide nefes alır gibi hareket eden sarkık bej kanvas; minderli L şeklinde dış mekân kanepesi, alçak masa ve halı.
+- Çimlerden set üzerinden sahile inen, yan duvarlı beyaz merdivenler; üstte iki bahçe lambası.
+- Sahil: beyaz şemsiye (fırfırlı, dalgalanan), iki beyaz şezlong, kürekli kırmızı kano; sahil otu kümeleri; sette, sahilde ve lagün tabanında kayalar.
+- GÜR bitki örtüsü (önemli — seyrek, çıplak ağaçlar olmasın): halkalı karamel şekerleme gövdeli (şişkin dip, kıvrılarak eğilen) 10 uzun hindistan cevizi palmiyesi ve her birinde 16 yay biçimli teleksi yapraktan oluşan dolgun taçlar (30 yaprakçık çifti, V şeklinde katlanmış, uçlara doğru süpürülmüş; genç yapraklar dik, yaşlılar sarkık) ve ayrıca 2 kuru, saman renginde sarkan yaprak; çim kenarı boyunca ve evin çevresinde, bazıları pembe/kırmızı/beyaz çiçekli, düzinelerce yumrulu jöle çalısı.
+
+FİZİK ("Island Jelly" ile aynı)
+- Deniz: 120 Hz'de 168² kademeli ızgara üzerinde doğrusal sığ su simülasyonu; dalga hızı √(g·depth), bu nedenle sığlıklar üzerinde dalgalar yavaşlar ve dikleşir; yaylı jöle dalgalanmaları için küçük bir yüzey gerilimi terimi, sönüm kaydırıcısı, ortalama seviye düzeltmesi; gelgit kaydırıcısı seviyeyi ve ıslak alanı değiştirir.
+- Blok: eğmek için kenarını sürükleyin (yay-sönümleyici, maks. ~0.17 rad); düzlem içi yerçekimi denizin alçak tarafa doğru çalkalanmasına ve durulmasına neden olur; jölenin üst kısmı eylemsizlikle kayar ve ezilir; içerideki her şey vertex shader'da sallanır.
+- Parmakla karıştırma: suyun üzerinde sürüklemek, dalga oluşturan hareketli çukurları iter.
+- Yüzen cisimler (blok çerçevesinde rijit küreler, 240 Hz): yüzey normali boyunca kaldırma kuvveti, akış yönüne doğru ağır jöle sürüklemesi, yer değiştiren hacim her karede denize geri aktarılır (kendi dalgalanmalarını oluştururlar), suya girişte baloncuk ve köpük içeren sıçrama kraterleri, jöle içinde asılı küçük hava kabarcıkları. Arazi, palmiye gövdeleri, villa kutuları, birbirleri ve tekneyle temas ederler.
+  • Plaj topu: r 0.085, çok hafif, yüksekte yüzer, seker ve su üzerinde sıçrayarak ilerler, yuvarlanır; beyaz kapaklı, altı renkli dilim (kırmızı, mavi, sarı), parlak vinil.
+  • Lastik ördek: yarı batık yüzer, başı yukarıda olacak şekilde daima kendini düzeltir (yüzey veya zemin normaline hizalanır), sarı gövde, turuncu gaga, siyah gözler.
+  • Denizyıldızı: yavaşça batar, jölenin içinde süzülerek aşağı iner, tabana düz biçimde yerleşir; şeker kaplı çıkıntılara sahip mercan/pembe/mor renkler.
+  Başlangıç durumu: biri sahilde, biri çimlerde birer top; suda iki ördek; lagün tabanında iki denizyıldızı.
+- Palmiyeler: her taç için esinti, blok eğimi ve kullanıcı sürüklemesiyle yönlendirilen bir 2B bükülme yayı; vertex shader gövdeyi (∝t²) büker ve yaprak uçlarını titreştirir.
+
+TEKNE (kendi kendine çalışır)
+- Küçük beyaz gezi teknesi (ölçeklenmiş gövde uzunluğu ~0.62): lacivert alt gövdeli ve su hattı şeritli, derin V loft gövde; beyaz güverte, tik kokpit tabanı, kıç oturağı, dümen koltukları, koyu eğimli ön cama ve yan pencerelere sahip alçak kabin, ince direkler üzerinde beyaz hard-top, iki koyu dıştan takma motor, paslanmaz çelik baş korkuluğu.
+- Simülasyonda yüzer: 8 gövde noktası yerel yüzeyden yükselme/eğilme/yalpa üretir (teknenin içine batmasını önlemek için kendi çukurunun derinliği sınırlandırılır), hızla birlikte burnu kalkar, dönüşlerde yana yatar; düzlem içinde: dalga eğimlerinde itilir (sınırlandırılmış), akış tarafından sürüklenir, boyuna düşük ve yana yüksek sürüklemeye sahiptir (omurga); kuma dokunursa arazi cezası uygulanır, blok duvarlarından seker.
+- Otopilot: L şeklindeki lagünü izleyen kapalı yarış pisti döngüsünde saf takip algoritması kullanır (dış şeritten ilerler, köşeyi döner, U dönüşü yapar, iç şeritten geri gelir); virajlarda yavaşlar, seyir hızı ≈0.78 u/s, asla karaya oturmaz.
+- İlerlerken suyu yer değiştirir → dalga simülasyonunda sahile kadar çıkan gerçek bir iz bırakır; ayrıca köpük alanı bulunur: kıçtan uzanan beyaz, dantelimsi iz, yan çizgiler ve baş suyu spreyi; birkaç saniye içinde solar.
+- Kullanıcı tekneyi başından yakalayıp su boyunca çekebilir; bırakıldığında döngüsünün en yakın noktasını bulur ve yoluna devam eder. Yüzen ördekleri/topları yana iter.
+
+RENDERING
+- Geçişler: güneş gölge haritası (her şey), kaustikler (dalgalar boyunca bir ızgarayı tabana kırarak yansıtır; parlaklık üçgen alanındaki değişime göre belirlenir), mesafe tamponlu opak sahne, denizin arka yüzleri, ardından sahnenin bir kopyası üzerinde jöle denizi: yol uzunluğuna göre Beer–Lambert soğurması (aroma sigma'sı), saçılan renk tonu, kırılma, kaustik ışık huzmeleri, Fresnel stüdyo yansıması, güneş parlamaları, kuma vuran kıyı danteli köpüğü, iz/sıçrama köpüğü alanı, kenar vurguları. Bloğun altındaki zemin, renk tonlu ve kaustik benekli bir gölge alır.
+- Yumuşak stüdyo aydınlatması: kâğıt arka plan, ön solda büyük softbox, arkada soğuk bir şerit; yarım küresel ortam ışığı; ton shoulder + dither.
+- Malzemeler: mat boyalı render ve taş, koyu yansıtıcı cam, parlak gel-coat/metal, yarı saydam kanvas, yarı saydam ve sakızımsı çalılar ile palmiyeye ait yapraklar (arkadan aydınlatılmış ışıma), mat benekli kayalar.
+- Aromalar su sigma/tint değerlerini ve katman renklerini değiştirir: Turquoise (sigma ≈ 2.1/0.36/0.5, tint 0.07/0.46/0.42), Curaçao (2.7/1.05/0.26, tint 0.02/0.2/0.52), Raspberry (0.34/2.2/1.25, tint 0.44/0.05/0.17).
+
+QA (headless Chromium + SwiftShader)
+- Hata ayıklama kancası window.__vj (world, boat, bodies, water, block, advance, drop, pick, project, setPalette, reset, setPause, freeze flag). Doğrulayın: başlangıçta 6 cisim ve 2/2/2 sayacı; villa + 10 palmiye oluşturulmuş; tekne 14 saniyede karaya oturmadan ≥6 birimlik en az bir tur atıyor ve köpük + dalga bırakıyor; boşta kararlılık; bırakılan top yüksekte yüzüyor, ördek dik duruyor, denizyıldızı düz biçimde batıyor; sayaç arayüzü eşleşiyor; karıştırma, azalarak duran dalgalar oluşturuyor; bloğu eğmek denizi alçak tarafta topluyor ve yeniden durulmasını sağlıyor; tekne yakalanabiliyor, çekilebiliyor ve rotasına devam ediyor; denize atılan top su üzerinde salınıyor, sahile konan ördek dik duruyor; palmiyeler bükülüyor; aromalar, kaydırıcılar, duraklatma, yörüngede dolaşma, yakınlaştırma; NaN olmadan stres testi; simülasyon < 5 ms/kare; ağ isteği yok; konsol hatası yok; sayfa kaydırma yok; mobil alt sayfa + dokunmatik kullanım; WebGPU yedeği.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2107617244301664483) · [Orijinal gönderi](https://x.com/vib3coded/status/2107617476473164210) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2107824019999535226"></a>
+
+### Görünmez Kentler için Three.js görselleştirmesi
+
+[quesma.com](https://quesma.com/) · 2026-10-07
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2107824019999535226"><img src="../assets/previews/5a1055902ebf648653a42e7ab254c5326c505a2bca9f96c7ed5ab8ed440ff0ab.jpg" width="840" loading="lazy" alt="Görünmez Kentler için Three.js görselleştirmesi"></a>
+
+Piotr Migdał’ın bağlantı verdiği makalede, Italo Calvino’nun Görünmez Kentler eseri için etkileşimli bir Three.js görselleştirmesi oluşturmak üzere Codex’te GPT-6 Astra’ya bu istemi verdiği belirtiliyor.
+
+**İstem**
+
+```text
+Italo Calvino’nun Görünmez Kentler kitabındaki tüm kentlerin three.js (pnpm) görselleştirmesini oluştur. Soru sorma; bu tek seferlik bir görev. 6 saatlik çalışma süren var; bunu eser bir başyapıt olana kadar kullan.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2107824019999535226) · [Orijinal gönderi](https://quesma.com/blog/invisible-cities-one-shot/) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Sonsuz Tank Savunması
@@ -3679,7 +3729,7 @@ Kaynak kodu, lockfile’ı, npm geliştirme/derleme komutlarını ve statik çı
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 317 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 320 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>
