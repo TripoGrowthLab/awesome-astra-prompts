@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**321 · Prompt Astra mới nhất**
+**325 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -50,11 +50,7 @@
 <details>
 <summary>Khám phá ví dụ</summary>
 
-- [Trình khám phá giải phẫu 3D tương tác](#2099206962344800541) · GitHub
 - [Demo đồ họa fantasy isometric](#2100271998618177864) · GitHub
-- [Triển khai UV và bake lại 4K cho mô hình quần áo không có đầu](#2098980384260456813)
-- [Phân cảnh 3D khu ven biển có thể chơi trên trình duyệt](#2099172061092381027)
-- [Tái hiện Lâu đài Peach trong 3D](#2099359786865402019)
 - [Đường sắt mô hình tự động tránh va chạm](#2099362575339372780)
 - [Màn vượt chướng ngại vật 3D có thể chơi](#2099419671481249851)
 - [Cảnh rừng Samurai 3D tương tác](#2099450933067612421)
@@ -143,6 +139,10 @@
 - [Mực ống nhồi bông.](#2107533363808485534)
 - [Villa Jelly](#2107617244301664483)
 - [Hình ảnh hóa Những thành phố vô hình bằng Three.js](#2107824019999535226)
+- [Website 3D cuộn trang cho Lealand Tea](#2107872378218779067)
+- [Atoll Jelly: mô hình diorama đầm phá WebGPU tương tác](#2107977531726934288)
+- [Phòng thí nghiệm thạch tương tác Three.js với vật lý kéo để bóp méo](#2108096737537929361)
+- [Thế giới voxel 3D với một chú bồ nông đang đạp xe](#2108203260058259830)
 - [Battle City 3D: Phòng thủ xe tăng vô tận](#battle-city-3d)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
 - [Biệt thự Thạch rau câu](#jelly-villa)
@@ -152,32 +152,6 @@
 - [Hòn đảo của Cyclops](#cyclops-island-threejs-game)
 
 </details>
-
-<a id="2099206962344800541"></a>
-
-### Trình khám phá giải phẫu 3D tương tác
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-13
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099206962344800541"><img src="../assets/previews/71786191f6fb99e7d8e2b1cc4679b12bb2aaf5dd1c19ae8433692e1dc0e74a92.jpg" width="840" loading="lazy" alt="Trình khám phá giải phẫu 3D tương tác"></a>
-
-Tác giả chia sẻ đây là prompt khởi đầu được đề xuất để xây dựng một phiên bản tương tự website Brain Cat tương tác của họ. Prompt yêu cầu một trình khám phá giải phẫu 3D thích ứng, có hiệu ứng làm trong suốt để hiển thị phần bên trong, khả năng xoay và tách riêng các cấu trúc, các vùng được gắn nhãn, điều khiển lớp, tín hiệu giáo dục dạng hoạt ảnh và trích dẫn nguồn khoa học.
-
-**Prompt**
-
-```text
-Xây dựng một trình khám phá giải phẫu 3D tương tác, đẹp mắt, sử dụng các bộ dữ liệu khoa học công khai. Bắt đầu với góc nhìn bên ngoài, sau đó dần trở nên trong suốt khi tôi phóng to để hiển thị phần giải phẫu bên dưới.
-
-Cho phép tôi xoay mô hình, tách riêng các cấu trúc, chọn các vùng được gắn nhãn và bật/tắt các lớp từ bảng điều khiển bên. Thêm các tab riêng cho giải phẫu, kết nối và từng tế bào, kèm tín hiệu động cùng các tùy chỉnh có thể điều chỉnh.
-
-Sử dụng giao diện hiện đại, tối giản với ánh sáng dịu, màu sắc tinh tế, chuyển cảnh mượt mà và rất ít chữ. Thêm mũi tên cùng một hướng dẫn trực quan ngắn. Đảm bảo hoạt động tốt trên máy tính và thiết bị di động.
-
-Sử dụng hình học giải phẫu thực tế khi có thể, trích dẫn các nguồn và phân biệt rõ dữ liệu khoa học với hoạt ảnh minh họa. Xây dựng một website hoạt động hoàn chỉnh.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099206962344800541) · [Bài đăng gốc](https://x.com/k1rallik/status/2099206962344800541) · [Mã nguồn](https://github.com/bubblik525/cat_brain_anatomy) · [Về danh sách ví dụ](#all-prompts)
-
----
 
 <a id="2100271998618177864"></a>
 
@@ -196,125 +170,6 @@ Hãy tạo một demo đồ họa: camera isometric, phong cách nghệ thuật 
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100271998618177864) · [Bài đăng gốc](https://github.com/achimala/dream-loop) · [Mã nguồn](https://github.com/achimala/dream-loop) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2098980384260456813"></a>
-
-### Triển khai UV và bake lại 4K cho mô hình quần áo không có đầu
-
-[さ🥺](https://x.com/_sagyoai) · 2026-09-13
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098980384260456813"><img src="../assets/previews/fef1ae0d7a4818588b5aa244450941a5fc54a6e3707a2985c78021a3b6c8b7c7.jpg" width="840" loading="lazy" alt="Triển khai UV và bake lại 4K cho mô hình quần áo không có đầu"></a>
-
-Prompt này dùng cho mô hình 3D không có đầu, bao gồm quần áo và tay chân đang được chọn: triển khai lại UV theo cách dễ đọc cấu trúc và dễ chỉnh sửa, sau đó bake lại kết cấu hiện có ở độ phân giải 4K. Quy trình bảo toàn dữ liệu cũ, đồng thời thực hiện thiết kế seam, kiểm tra biến dạng, đóng gói và đối chiếu kết quả.
-
-**Prompt**
-
-```text
-Trong Blender MCP, hãy thực hiện triển khai UV cho “mô hình không có đầu, bao gồm quần áo và tay chân” đang được chọn, đồng thời bake lại kết cấu hiện có ở độ phân giải 4K.
-
-Mục tiêu là giữ nguyên diện mạo ban đầu và tạo UV có cấu trúc dễ đọc như rập may của quần áo, đồng thời thuận tiện cho việc vẽ lại về sau. Hãy thực hiện theo trình tự như một nghệ sĩ con người: quan sát → thiết kế seam → triển khai theo từng bộ phận → chỉnh biến dạng → sắp xếp → bake.
-
-1. Bảo toàn dữ liệu gốc
-Trước khi bắt đầu, hãy lưu thành tệp mới, giữ lại UV, hình ảnh và vật liệu cũ, đồng thời tạo UV mới có tên “UV\_Final”.
-Không được thay đổi hình dạng, topology, thứ tự đỉnh, weight, shape key hoặc rig.
-
-2. Quan sát mô hình và thiết kế seam
-Kiểm tra mọi hướng bằng chế độ hiển thị kết cấu gốc và wireframe để nắm được cấu trúc các bộ phận quần áo cũng như đường may thực tế.
-Với quần áo, hãy mở seam theo cấu trúc rập may của thân áo, tay áo, cổ áo và các bộ phận tương tự, tận dụng đường sườn hoặc mặt trong tay áo. Với da và tay chân, đặt seam ở những vị trí ít замет thấy như mặt trong hoặc mặt bên, đồng thời mở phần giữa các ngón tay một cách tự nhiên, không gây biến dạng.
-Không nhầm nếp nhăn hoặc hình in với đường may, và không tạo các island nhỏ bị chia vụn không cần thiết.
-
-3. Triển khai theo từng bộ phận và chỉnh biến dạng
-Không xử lý toàn bộ mô hình cùng lúc; hãy Unwrap theo từng bộ phận.
-Dùng checker có chữ tham chiếu đến UV\_Final cùng chế độ hiển thị Stretch để kiểm tra độ kéo giãn, co nén, xoắn, lật và chồng lấp.
-Tùy theo nguyên nhân, hãy thêm hoặc gỡ seam, điều chỉnh bằng Pin, Relax và các công cụ tương tự, rồi kiểm tra lại. Không chỉ lặp lại cùng một thao tác triển khai tự động; hãy giữ nguyên các bộ phận đã được cải thiện.
-Không dùng Smart UV Project để tự động chia nhỏ toàn bộ mô hình rồi coi đó là sản phẩm hoàn thiện.
-
-4. Căn chỉnh hướng sợi vải, mật độ và bố cục
-Đối với quần áo, hãy căn hướng dọc cơ bản theo hướng sợi vải của từng bộ phận vào hướng V của UV. Không cố ép những phần rập có đường cong thành hình chữ nhật.
-Đồng nhất mật độ texel theo kích thước thực, đồng thời sắp xếp hướng sao cho dễ nhận biết các phần đối xứng trái và phải.
-Sau đó, đóng gói vào vùng 0–1 trong khi giữ nguyên hướng và tỷ lệ tương đối. Không được tự ý xoay hoặc chồng UV đối xứng trái phải lên nhau.
-Làm mốc ban đầu cho ảnh 4K: lề bake 16px, khoảng cách giữa các island từ 32px trở lên và khoảng cách từ island đến mép ảnh từ 16px trở lên.
-
-5. Bake 4K từ UV cũ sang UV mới
-Cố định rõ nguồn tham chiếu của kết cấu gốc vào UV cũ, dùng UV\_Final làm UV đích và chuyển dữ liệu sang ảnh mới kích thước 4096×4096.
-Trong từng vật liệu, hãy kích hoạt node ảnh đích để bake, thực hiện bake thử trước rồi mới bake chính thức.
-Với base color, chỉ sử dụng Color của Diffuse hoặc Emit; không bake thêm ánh sáng, bóng hoặc AO mới. Giữ nguyên phần đổ bóng đã được vẽ trong ảnh gốc.
-Nếu cần, hãy chuyển cả các map hiện có như alpha; với normal map tangent, hãy bake lại theo UV mới thay vì chỉ chuyển màu đơn thuần.
-
-6. Đối chiếu cũ và mới để xác nhận hoàn thiện
-Áp dụng UV mới và ảnh đã bake, sau đó so sánh toàn thân cùng các chi tiết ở cùng điều kiện hiển thị như bản gốc.
-Kiểm tra vị trí họa tiết, màu sắc, độ trong suốt và tính liên tục của seam; sửa các lỗi UV bị ép, chồng lấp hoặc chưa được triển khai, cũng như các điểm đen, vùng mất dữ liệu và hiện tượng lem do bake.
-Đánh giá mức độ hoàn thiện dựa trên kết quả kiểm tra, không dựa vào “đã triển khai bao nhiêu lần”.
-
-Hãy lưu tệp hoàn thiện.blend, ảnh 4K, bố cục UV và các ảnh kiểm tra seam, checker cùng diện mạo hoàn thiện; sau đó báo cáo ngắn gọn những nội dung đã chỉnh sửa chính.
-Không dừng lại ở việc giải thích kế hoạch; hãy vừa kiểm tra hình ảnh thực tế vừa hoàn tất công việc.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098980384260456813) · [Bài đăng gốc](https://x.com/_sagyoai/status/2098980384260456813) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2099172061092381027"></a>
-
-### Phân cảnh 3D khu ven biển có thể chơi trên trình duyệt
-
-[Lummox](https://x.com/Lummox_eth) · 2026-09-13
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099172061092381027"><img src="../assets/previews/f7beaa2f75393d632176cc10919ee4221cbba7b354677e202925812162b1e0e2.jpg" width="840" loading="lazy" alt="Phân cảnh 3D khu ven biển có thể chơi trên trình duyệt"></a>
-
-Chuỗi sáu prompt do Lummox đăng, dùng để tạo một phân cảnh 3D có thể chơi trên trình duyệt. Chuỗi này cố định stack Vite, TypeScript thuần, Three.js, cannon-es và Web Audio; dựng một khu ven biển lúc hoàng hôn; dàn dựng cảnh ba người bước vào ô tô; đồng thời quy định nhịp độ và âm thanh của đoạn cảnh.
-
-**Prompt**
-
-```text
-> khóa đặc tả (TZ-gta-slice.md)
-
-prompt: "Xây dựng một phân cảnh 3D có thể chơi trên trình duyệt. Không thay đổi đặc tả này sau khi đã khóa. Ưu tiên khu vực và đoạn cảnh trước. Bổ sung điều khiển sau."
-
-> stack (Vite, TypeScript thuần, Three.js, cannon-es, Web Audio)
-
-prompt: "Stack đã được cố định. Vite. TypeScript thuần. Three.js. cannon-es. Web Audio. Một URL trên trình duyệt."
-
-> khung hình (hoàng hôn trên mặt nước, mặt đường nhựa ướt, hàng cọ)
-
-prompt: "Một khu ven biển. Hoàng hôn trên mặt nước. Mặt đường nhựa ướt. Hàng cọ. Tập trung khung hình vào ánh sáng và camera, không phải số lượng polygon. Không dùng ánh sáng xám mặc định. Không để các khối hộp trơ trọi."
-
-> ba người (một cảnh, một ô tô, khoảng 20 giây)
-
-prompt: "Giữ cả ba người trong cùng một cảnh. Họ trò chuyện. Sau đó họ ngồi vào cùng một chiếc ô tô. Khoảng 20 giây. Ưu tiên chất lượng thay vì thêm công tắc."
-
-> cắt cảnh (15 đến 20 giây, giữ chuyển động mượt mà)
-
-prompt: "Nếu bị giật, rút ngắn đoạn cảnh xuống còn 15 đến 20 giây. Giữ chuyển động mượt mà. Nếu tụt khung hình, cắt bớt người đi bộ, không cắt ánh sáng."
-
-> âm thanh (giọng người, pad nền dưới lời thoại, tiếng động cơ ô tô)
-
-prompt: "Giọng nói phải giống người thật, không phải robot. Đặt pad âm thanh nhẹ dưới lời thoại, tuyệt đối không lấn át lời thoại. Khi họ ngồi vào xe, thêm tiếng động cơ ô tô trầm, không dùng âm thanh chói như tiếng cưa. Không có tiếng xì radio."
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099172061092381027) · [Bài đăng gốc](https://x.com/Lummox_eth/status/2099172061092381027) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2099359786865402019"></a>
-
-### Tái hiện Lâu đài Peach trong 3D
-
-[Romain Huet](https://x.com/romainhuet) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099359786865402019"><img src="../assets/previews/e7a5ad638345dd08d471122be938b5ac89535f8153244ee59aea77fd486c67ff.jpg" width="840" loading="lazy" alt="Tái hiện Lâu đài Peach trong 3D"></a>
-
-Tác giả cho biết họ đã yêu cầu Astra trong Codex tái hiện Lâu đài Peach trong 3D và tạo video bay qua. Trong một bình luận tiếp theo, tác giả cho biết sản phẩm bao gồm mô hình Blender, góc quay orbit được kiểm tra vào ban ngày và lúc chạng vạng, 88 ô kính được dựng hình trong cửa sổ của Peach, cùng không gian nội thất tầng trệt.
-
-**Prompt**
-
-```text
-tái hiện Lâu đài Peach trong 3D và tạo video bay qua.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099359786865402019) · [Bài đăng gốc](https://x.com/romainhuet/status/2099359786865402019) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3335,6 +3190,104 @@ Tạo một hình ảnh hóa bằng three.js (pnpm) cho toàn bộ Những thàn
 
 ---
 
+<a id="2107872378218779067"></a>
+
+### Website 3D cuộn trang cho Lealand Tea
+
+[Baretto (tiny.host)⚡](https://x.com/_baretto) · 2026-10-07
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/lealand-tea-scroll-driven-3d-website"><img src="../assets/previews/0bccb8d77caf05401201d19d77479d5909d848bbc774e48d82b9fd3b4a72253e.jpg" width="840" loading="lazy" alt="Website 3D cuộn trang cho Lealand Tea"></a>
+
+Prompt xây dựng website trà 3D tương tác cao cấp, điều khiển bằng thao tác cuộn, với tách trà lơ lửng, hoạt ảnh rót trà, góc máy lao xuống phần trà màu hổ phách, menu tương tác cho matcha, trà jasmine và hojicha, cùng không gian quán cà phê sống động.
+
+**Prompt**
+
+```text
+Tạo một website 3D cao cấp cho Lealand Tea, với trải nghiệm điều khiển bằng thao tác cuộn. Sử dụng nền kem sáng, nhận diện màu xanh lá rừng, ánh nắng ấm, kiểu chữ thanh lịch và nội dung tối giản.
+
+Tâm điểm là một tách trà 3D chân thực đang lơ lửng. Khi người dùng cuộn trang, nắp tách nâng lên, trà được rót vào bên trong, rồi camera mượt mà di chuyển qua miệng tách và lao xuống lòng tách. Dòng trà màu hổ phách xoáy chuyển, phủ kín màn hình với phản chiếu chân thực, gợn sóng và làn hơi nước nhẹ. Tiếp tục cuộn để camera lùi ra, hé lộ các lựa chọn matcha, trà jasmine và hojicha trong menu 3D tương tác, sau đó chuyển sang không gian nội thất quán cà phê sống động.
+
+Hãy tạo cảm giác như một hoạt ảnh sản phẩm điện ảnh liền mạch, không phải các phần tĩnh tách rời. Giữ thiết kế gọn gàng, trau chuốt, thích ứng tốt trên mọi thiết bị và giàu chiều sâu hình ảnh, với chuyển động mượt mà cùng vật liệu chân thực.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/lealand-tea-scroll-driven-3d-website) · [Bài đăng gốc](https://x.com/_baretto/status/2107872380047569238) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2107977531726934288"></a>
+
+### Atoll Jelly: mô hình diorama đầm phá WebGPU tương tác
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-07
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/atoll-jelly-interactive-webgpu-lagoon"><img src="../assets/previews/53274a36cc666dc02abce477fc383ef95c5a0a2432d7b18987da6d45ba57d3f4.jpg" width="840" loading="lazy" alt="Atoll Jelly: mô hình diorama đầm phá WebGPU tương tác"></a>
+
+Prompt tạo một mô hình diorama đầm phá thạch rau câu WebGPU tương tác, tự chứa, lấy bối cảnh tại Maldives. Mô hình gồm khu nghỉ dưỡng trên đảo nhỏ, các bungalow trên mặt nước, thủy phi cơ với chu trình bay và hạ cánh hoàn chỉnh, cá rạn san hô và cá đuối, phao vòng nổi, mô phỏng vùng nước nông cùng điều khiển xoay cảnh bằng cảm ứng.
+
+**Prompt**
+
+```text
+Tạo "Atoll Jelly" — một tệp HTML tự chứa duy nhất, dùng WebGPU gốc + WGSL, mô phỏng bằng JS thuần, không gọi tài nguyên bên ngoài. Đây là một tác phẩm trong series diorama thạch rau câu tương tác "MATERIAL STUDIES": một khối cắt vuông của đầm phá màu ngọc lam ở Maldives, với đảo nhỏ có hàng cọ, cầu tàu bungalow trên mặt nước, một thủy phi cơ tự vận hành theo chu kỳ ngày, và sinh vật rạn san hô bên dưới lớp thạch.
+
+TRANG: nền giấy ấm (#ece9e3), mực #241f1d, màu nhấn #12a2a6, H1 serif nghiêng "Atoll / Jelly.", dòng nhãn nhỏ "MATERIAL STUDIES", chú thích "Sáu bungalow trên cọc, một thủy phi cơ đến rồi đi, cùng những cá đuối đại bàng lướt qua lớp thạch bên dưới." Nhãn trạng thái "WEBGPU · LIVE". Bảng kính bên phải: "THE LAGOON" với ba nút tối "Seaplane", "Feed the fish", "Float ring", một thanh đo mảnh, bộ đếm "Landings · Fed · Afloat"; các ô màu "FLAVOUR" Turquoise / Sapphire / Lime; thanh trượt Firmness, Wave damping, Tide (±10 cm); Reset · Pause · Reset view. Góc dưới bên trái "HOW TO PLAY": "Khuấy đầm phá. Cho cá ăn. Tiễn thủy phi cơ lên đường." + một dòng màu xám hướng dẫn thao tác. Bảng điều khiển dưới trên di động, xoay cảnh/chụm bằng cảm ứng, thẻ dự phòng WebGPU, không cuộn, không có lỗi console.
+
+CẢNH (khối 5.2², mực nước biển 1.3): đầm phá cát trắng sâu khoảng 0.3, dốc xuống một "hố xanh" sâu gần góc trước; tám cụm san hô (dạng gò) phủ san hô não, san hô cành và quạt biển màu hồng/tím/cam/vàng/xanh teal, đung đưa nhẹ; một đảo cát ở góc sau bên trái (vành bãi biển, mô đất thấp có cây, bụi cây như kẹo dẻo, hai ô che nắng lợp lá với ghế nằm) cùng 8 cây dừa sum suê (mỗi cây 16 tàu lá kép cong + các tàu lá khô rủ xuống); một sảnh mở dưới mái tranh lớn kiểu mái bốn dốc. Cầu tàu ván trên các cọc mảnh chạy chéo từ đảo qua đầm phá, có các cột đèn thấp; năm bungalow nhô ra ở hai bên xen kẽ, thêm một bungalow lớn hơn ở cuối cầu: sàn ván trên cọc, chòi gỗ sáng màu với cửa kính hướng ra biển, mái tranh bốn dốc (kết cấu rơm theo dải), hồ ngâm, hai ghế nằm, thang thép xuống nước. Một phao cầu tàu thủy phi cơ nổi với mái che tranh nhỏ, nối với bãi biển phía nam của đảo bằng lối đi trên cọc. Các mặt cắt của khối hiển thị các lớp màu như kẹo (cát, dải vỏ sò, caramel, chocolate) bên dưới những vách thạch trong mờ.
+
+NƯỚC (theo kiểu "Island Jelly"): mô phỏng vùng nước nông tuyến tính (lưới so le 168², 120 Hz, vận tốc sóng √(g·depth), sức căng bề mặt nhỏ, giảm chấn), khuấy bằng ngón tay, nghiêng khối làm nước sóng sánh, các vật thể nổi đẩy thể tích bị chiếm chỗ trở lại biển, tạo hố nước bắn + bong bóng, trường bọt (nước trắng nhạt dần và tạo vân), caustics, tia sáng, khúc xạ, hấp thụ màu theo Beer–Lambert, viền bọt dọc bờ.
+
+THỦY PHI CƠ (máy bay phao hai động cơ: thân trắng với đường trang trí teal, cánh cao có đầu cánh teal, thanh chống, hai phao, cánh quạt 3 lá quay trong vertex shader): một chu kỳ ngày cố định — chờ tại phao cầu tàu → xoay 180° trên phao → chạy ra → chạy đà cất cánh (tung nước) → leo cao → bay theo đường đua vòng quanh diorama ở độ cao khoảng 3.1 và nghiêng cánh → tiếp cận → chạm nước tạo hố, bọt trắng và cú giật → chạy đà hạ cánh → quay đầu → chạy về phao cầu tàu. Trên mặt nước, máy bay lướt trên lớp thạch: bốn điểm lấy mẫu phao xác định độ cao, góc chúi và góc nghiêng; các phao đẩy thể tích vào mô phỏng (tạo vệt sóng) và bọt. Nút "Seaplane": nếu đang chờ thì khởi hành ngay, hoặc rút ngắn vòng bay để hạ cánh sớm. Đếm số lần hạ cánh.
+
+SINH VẬT RẠN SAN HÔ: 42 cá thể boid thuộc bốn nhóm màu (cá đuôi gai vàng, thân xanh đuôi vàng, sọc đen-trắng, cam với các vạch trắng), bơi theo đàn cùng loài, lang thang, luôn ở trong vùng nước (không chạm đáy, dưới mặt nước, tránh vùng quá nông, bên trong khối), đuôi vẫy trong vertex shader; 3 cá đuối đại bàng có đốm lướt gần đáy, vây đập theo sóng và đuôi roi. Ngón tay chạm nước, bất kỳ tia nước bắn nào hoặc phao của thủy phi cơ lướt qua đều làm chúng tản ra. "Feed the fish" rải 16 viên thức ăn nổi rồi chìm; cá và cá đuối tìm đến ăn (được tính vào mục Fed).
+
+PHAO VÒNG: phao vòng bơm hơi sọc màu như kẹo (hồng / cam / xanh dương với trắng) — nhẹ, nổi cao, nằm phẳng trên sóng, được giảm chấn để không bao giờ bật khỏi lớp thạch, bị thủy phi cơ đẩy sang bên; có thể nhặt và ném; cũng có thể đáp xuống sàn bungalow và bãi biển.
+
+KIỂM TRA: móc window.__aj; kiểm tra toàn bộ chu kỳ thủy phi cơ và một lần hạ cánh, độ cao > 2.8, phao bám theo mặt nước, bọt + sóng khi chạm nước, cá luôn ở trong nước, thao tác cho ăn thu hút cá và thức ăn được ăn hết, ngón tay làm tản đàn cá, phao vòng nổi phẳng, khuấy tạo sóng rồi tắt dần, nghiêng khối làm nước sánh rồi ổn định, các tuỳ chọn màu/thanh trượt/tạm dừng/xoay/thu phóng, kiểm thử tải cao, mô phỏng < 5 ms, không có kết nối mạng, không lỗi, trên di động, thẻ dự phòng.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/atoll-jelly-interactive-webgpu-lagoon) · [Bài đăng gốc](https://x.com/vib3coded/status/2107977713415864782) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2108096737537929361"></a>
+
+### Phòng thí nghiệm thạch tương tác Three.js với vật lý kéo để bóp méo
+
+[AIHubmix](https://x.com/AiHubMix) · 2026-10-08
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-threejs-jelly-lab-physics"><img src="../assets/previews/a32e7ceb1020088902336a8b96eda137725bced2c56b2ec267019f823d95fadf.jpg" width="840" loading="lazy" alt="Phòng thí nghiệm thạch tương tác Three.js với vật lý kéo để bóp méo"></a>
+
+Một bài đăng benchmark cho biết cùng một prompt đã được chạy trên Haiku 5.5, Haiku 4.5 và GPT‑6 Luna. Kết quả được yêu cầu là một phòng thí nghiệm thạch tương tác Three.js với biến dạng cục bộ và vật lý kéo để bóp méo.
+
+**Prompt**
+
+```text
+xây dựng một phòng thí nghiệm thạch tương tác Three.js với biến dạng cục bộ &amp; vật lý kéo để bóp méo
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-threejs-jelly-lab-physics) · [Bài đăng gốc](https://x.com/AiHubMix/status/2108096737537929361) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2108203260058259830"></a>
+
+### Thế giới voxel 3D với một chú bồ nông đang đạp xe
+
+[filipe](https://x.com/filicroval) · 2026-10-08
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/pelican-riding-bike-voxel-world"><img src="../assets/previews/a8173271188e803338055cd93996d41ba0c29535275302295b0945fb118311b8.jpg" width="840" loading="lazy" alt="Thế giới voxel 3D với một chú bồ nông đang đạp xe"></a>
+
+Một bài đăng so sánh cho biết đây là cùng một prompt đã được sử dụng với Haiku 5.5 và GPT-6 Luna. Prompt yêu cầu tạo một thế giới voxel 3D với hình ảnh chú bồ nông đang đạp xe.
+
+**Prompt**
+
+```text
+Tạo một thế giới voxel 3D với một chú bồ nông đang đạp xe, chất lượng tốt nhất có thể.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/pelican-riding-bike-voxel-world) · [Bài đăng gốc](https://x.com/filicroval/status/2108203260058259830) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Phòng thủ xe tăng vô tận
@@ -3464,7 +3417,15 @@ Bàn giao source project độc lập có thể chỉnh sửa, lockfile, hướn
 
 [jared](https://x.com/jaredliu_bravo) · 2026-10-08
 
-<a href="https://www.tripo3d.ai/vi/3d-prompts/jelly-villa"><img src="../assets/previews/d89de585b8c44c48612e912fff0c35c56c9bed0a69eccc11498b0fd2c5f7f01c.png" width="840" loading="lazy" alt="Biệt thự Thạch rau câu"></a>
+<a href="https://www.tripo3d.ai/vi/3d-prompts/jelly-villa"><img src="../assets/previews/1e141aa60aaedc2e655f2a8240ca9559a6f42b3deec491818aa0d77363cc175f.png" width="840" loading="lazy" alt="Biệt thự Thạch rau câu"></a>
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/jelly-villa"><img src="../assets/previews/49b4d5a6e6ea8dc12784b5ef9c36c2c15cf29643fe451526e5d48befe1b7b2f2.png" width="840" loading="lazy" alt="Biệt thự Thạch rau câu"></a>
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/jelly-villa"><img src="../assets/previews/7d9dc2c3a075894a82a022de3bd8dab925c534e7b3c53afe341d4df6ab70662e.png" width="840" loading="lazy" alt="Biệt thự Thạch rau câu"></a>
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/jelly-villa"><img src="../assets/previews/9037183297fa632c5ed5d653f2350baeac3fe1d448187b5741986c14b9b6a4d2.png" width="840" loading="lazy" alt="Biệt thự Thạch rau câu"></a>
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/jelly-villa"><img src="../assets/previews/57a43e896b3aea5a46d993d9d46de50447a8c54905b683f4b44bc1b21f6550eb.png" width="840" loading="lazy" alt="Biệt thự Thạch rau câu"></a>
 
 Khuấy vùng biển thạch lấp lánh như đá quý, kéo một chiếc du thuyền thu nhỏ và uốn những hàng cọ quanh biệt thự nhiệt đới. Chuyển qua lại giữa khung cảnh dựng bằng mã và các mô hình biệt thự, du thuyền Tripo P2 chân thực trong cùng một hòn đảo sống động.
 
@@ -3782,7 +3743,7 @@ Bàn giao mã nguồn, lockfile, lệnh npm phát triển/build và đầu ra t�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 321 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 325 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

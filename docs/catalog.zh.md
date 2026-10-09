@@ -29,7 +29,7 @@
 
 探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。
 
-**321 条案例 · 14 种语言 · 12 条附项目源码**
+**325 条案例 · 14 种语言 · 12 条附项目源码**
 
 ## 精选作品
 
@@ -51,11 +51,7 @@
 <details>
 <summary>浏览案例</summary>
 
-- [交互式 3D 解剖探索器](#2099206962344800541) · GitHub
 - [等距视角奇幻图形演示](#2100271998618177864) · GitHub
-- [无头服装模型的 UV 展开与 4K 重新烘焙](#2098980384260456813)
-- [可玩的 3D 浏览器海岸城区片段](#2099172061092381027)
-- [以 3D 形式重新构想桃花公主的城堡](#2099359786865402019)
 - [具备防碰撞功能的自动运行模型铁路](#2099362575339372780)
 - [可玩 3D 障碍赛道](#2099419671481249851)
 - [可交互的 3D 武士森林场景](#2099450933067612421)
@@ -144,6 +140,10 @@
 - [毛绒鱿鱼。](#2107533363808485534)
 - [果冻别墅](#2107617244301664483)
 - [《看不见的城市》Three.js 可视化](#2107824019999535226)
+- [Lealand Tea 滚动驱动式 3D 网站](#2107872378218779067)
+- [Atoll Jelly 互动式 WebGPU 泻湖立体场景](#2107977531726934288)
+- [支持拖拽挤压物理效果的交互式 Three.js 果冻实验室](#2108096737537929361)
+- [骑自行车的鹈鹕 3D 体素世界](#2108203260058259830)
 - [Battle City 3D：无尽坦克防御](#battle-city-3d)
 - [疯狂坦克——3D 岛屿炮战](#crazy-tanks-3d-island-artillery)
 - [果冻别墅](#jelly-villa)
@@ -153,32 +153,6 @@
 - [独眼巨人之岛](#cyclops-island-threejs-game)
 
 </details>
-
-<a id="2099206962344800541"></a>
-
-### 交互式 3D 解剖探索器
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-13
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099206962344800541"><img src="../assets/previews/71786191f6fb99e7d8e2b1cc4679b12bb2aaf5dd1c19ae8433692e1dc0e74a92.jpg" width="840" loading="lazy" alt="交互式 3D 解剖探索器"></a>
-
-作者将此内容分享为一个推荐起始提示词，用于构建类似其 Interactive Brain Cat 网站的版本。它要求创建一个响应式 3D 解剖探索器，支持透明显示、旋转、结构分离、区域标注、图层控制、教育信号动画，以及科学来源引用。
-
-**提示词**
-
-```text
-使用公开可用的科学数据集，构建一个精美的交互式 3D 解剖探索器。从外部视图开始，随着我放大，模型逐渐变为透明，显示下方的解剖结构。
-
-支持旋转模型、分离结构、选择带标签的区域，并通过侧边面板切换图层。为解剖结构、连接和单个细胞分别设置选项卡，并加入信号动画和可调节控件。
-
-采用现代、简洁的界面，配合柔和光照、平滑过渡、低饱和色彩和极少的文字。加入箭头和简短的可视化教程。确保在桌面端和移动端都能运行。
-
-尽可能使用真实的解剖几何数据，注明数据来源，并清晰区分科学数据与示意动画。构建一个可正常运行的网站。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099206962344800541) · [查看原帖](https://x.com/k1rallik/status/2099206962344800541) · [项目源码](https://github.com/bubblik525/cat_brain_anatomy) · [返回案例导航](#all-prompts)
-
----
 
 <a id="2100271998618177864"></a>
 
@@ -197,125 +171,6 @@
 ```
 
 [查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2100271998618177864) · [查看原帖](https://github.com/achimala/dream-loop) · [项目源码](https://github.com/achimala/dream-loop) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2098980384260456813"></a>
-
-### 无头服装模型的 UV 展开与 4K 重新烘焙
-
-[さ🥺](https://x.com/_sagyoai) · 2026-09-13
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098980384260456813"><img src="../assets/previews/fef1ae0d7a4818588b5aa244450941a5fc54a6e3707a2985c78021a3b6c8b7c7.jpg" width="840" loading="lazy" alt="无头服装模型的 UV 展开与 4K 重新烘焙"></a>
-
-针对包含所选服装和四肢的无头 3D 模型，重新展开 UV，使结构更易读、便于后续绘制，并将现有纹理以 4K 分辨率重新烘焙。在保留旧数据的同时，完成接缝设计、拉伸检查、排布和前后对比确认。
-
-**提示词**
-
-```text
-请使用 Blender MCP，对当前选中的“包含服装和四肢的无头模型”执行 UV 展开，并将现有纹理以 4K 重新烘焙。
-
-目标是在保留原有外观的基础上，创建类似服装纸样、结构清晰且便于后续重新绘制的 UV。请像人类艺术家一样，按照观察→接缝设计→按部位展开→修正拉伸→排布→烘焙的顺序进行。
-
-1．保留原始数据
-开始前请另存文件，保留旧 UV、图像和材质，并创建新的 UV 集“UV\_Final”。
-不要修改形状、拓扑、顶点顺序、权重、形态键或骨骼绑定。
-
-2．观察模型并设计接缝
-结合原始纹理显示和线框显示，从各个方向检查模型，了解服装的部件构成和实际缝线位置。
-服装应按照衣身、袖子、领口等纸样结构展开，利用侧缝、袖子内侧等位置切开。皮肤和四肢的接缝应放在内侧、侧面等不显眼的位置，并确保可以自然地展开到指缝。
-不要将褶皱或印花误认为缝线，也不要创建不必要的碎片化小岛。
-
-3．按部位展开并修正拉伸
-不要一次性处理整个模型，请按部位分别执行 Unwrap。
-使用引用UV\_Final的带文字棋盘格纹理和 Stretch 显示，检查拉伸、压缩、扭曲、翻转和重叠。
-根据问题原因添加或取消接缝，并使用 Pin、Relax 等工具进行调整后重新检查。不要只是反复执行相同的自动展开，应保留已经改进的部位。
-不要将 Smart UV Project 的全模型自动切分结果直接作为成品。
-
-4．调整布纹方向、密度和排布
-服装应以各部件的布纹方向为基准，将基本的纵向对齐到 UV 的 V 方向。对于带曲线的纸样，不要强行变形成矩形。
-统一相对于实际尺寸的纹素密度，并调整为便于识别左右对应关系的朝向。
-然后在保持朝向和相对比例的前提下，将其排布到 0～1 区域内。禁止左右重叠或随意旋转。
-4K 烘焙的初始基准为：边缘留白 16px、UV 岛之间至少间隔 32px、距离图像外边缘至少 16px。
-
-5．从旧 UV 向新 UV 进行 4K 烘焙
-明确将原始纹理引用固定到旧 UV，并以 UV\_Final 作为烘焙目标，将内容转移到新建的 4096×4096 图像中。
-在每个材质中激活烘焙目标图像节点，先进行测试烘焙，再执行正式烘焙。
-基础色仅使用 Diffuse 的 Color，或使用 Emit；不要烘入新的光照、阴影或 AO。保留原图中绘制的明暗。
-根据需要转移透明度等现有贴图；切线空间法线贴图不能仅进行颜色转移，而应以新 UV 为基准重新烘焙。
-
-6．通过新旧对比确认完成度
-应用新 UV 和烘焙图像，在与原始数据相同的显示条件下，对比检查整体和细节。
-检查图案位置、颜色、透明度和接缝连续性，并修正 UV 压扁、重叠、展开遗漏，以及烘焙中的黑点、缺失和溢色。
-不要以“展开了多少次”为标准，而应根据检查结果判断是否完成。
-
-请保存完成.blend、4K 图像、UV 布局，以及接缝、棋盘格检查和最终外观的确认图像，并简要报告主要修改内容。
-不要只停留在说明计划；请在实际检查图像的同时完成整个工作。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098980384260456813) · [查看原帖](https://x.com/_sagyoai/status/2098980384260456813) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2099172061092381027"></a>
-
-### 可玩的 3D 浏览器海岸城区片段
-
-[Lummox](https://x.com/Lummox_eth) · 2026-09-13
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099172061092381027"><img src="../assets/previews/f7beaa2f75393d632176cc10919ee4221cbba7b354677e202925812162b1e0e2.jpg" width="840" loading="lazy" alt="可玩的 3D 浏览器海岸城区片段"></a>
-
-Lummox 发布的六步提示词序列，用于制作一个可玩的 3D 浏览器片段。技术栈固定为 Vite、原生 TypeScript、Three.js、cannon-es 和 Web Audio；场景设定为日落时分的海岸城区，安排三个人上车，并明确片段节奏与音频设计。
-
-**提示词**
-
-```text
-> 锁定规格（TZ-gta-slice.md）
-
-prompt: "制作一个可玩的 3D 浏览器片段。规格锁定后不得更改。先做城区和片段，再处理控制。"
-
-> 技术栈（Vite、原生 TypeScript、Three.js、cannon-es、Web Audio）
-
-prompt: "技术栈固定：Vite、原生 TypeScript、Three.js、cannon-es、Web Audio。使用一个浏览器 URL。"
-
-> 画面（日落映照水面、湿润沥青路面、棕榈树）
-
-prompt: "只做一个海岸城区。水面上方是日落。路面湿润。加入棕榈树。重点呈现光照和镜头，而不是多边形数量。不要使用默认的灰色光照。不要放光秃秃的方块。"
-
-> 三个人（一个场景、一辆车、约 20 秒）
-
-prompt: "让三个人处于同一个场景中。他们先交谈，然后一起坐进一辆车。时长约 20 秒。优先保证质量，不要增加多余的切换。"
-
-> 剪辑（15 到 20 秒，保持流畅）
-
-prompt: "如果出现卡顿，就将片段剪到 15 到 20 秒。保持流畅。如果帧率下降，删减行人，不要削弱光照。"
-
-> 声音（人声、台词下方的铺底音、汽车低沉轰鸣）
-
-prompt: "人声必须听起来像真人，不能像机器人。台词下方使用安静的铺底音，绝不能盖过台词。他们坐下后加入低沉的汽车轰鸣，不要做成电锯声。不要有收音机嘶嘶声。"
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099172061092381027) · [查看原帖](https://x.com/Lummox_eth/status/2099172061092381027) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2099359786865402019"></a>
-
-### 以 3D 形式重新构想桃花公主的城堡
-
-[Romain Huet](https://x.com/romainhuet) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099359786865402019"><img src="../assets/previews/e7a5ad638345dd08d471122be938b5ac89535f8153244ee59aea77fd486c67ff.jpg" width="840" loading="lazy" alt="以 3D 形式重新构想桃花公主的城堡"></a>
-
-作者表示，他们让 Codex 中的 Astra 以 3D 形式重新构想桃花公主的城堡，并制作一段飞越视频。在后续评论中，作者补充说，这项工作包括一个 Blender 模型、分别在白天和黄昏检查环绕视角、桃花公主窗户中的 88 块玻璃，以及一层内部空间。
-
-**提示词**
-
-```text
-以 3D 形式重新构想桃花公主的城堡，并制作一段飞越视频。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099359786865402019) · [查看原帖](https://x.com/romainhuet/status/2099359786865402019) · [返回案例导航](#all-prompts)
 
 ---
 
@@ -3253,6 +3108,104 @@ Piotr Migdał 在其链接文章中提到，他在 Codex 中将这段提示词�
 
 ---
 
+<a id="2107872378218779067"></a>
+
+### Lealand Tea 滚动驱动式 3D 网站
+
+[Baretto (tiny.host)⚡](https://x.com/_baretto) · 2026-10-07
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/lealand-tea-scroll-driven-3d-website"><img src="../assets/previews/0bccb8d77caf05401201d19d77479d5909d848bbc774e48d82b9fd3b4a72253e.jpg" width="840" loading="lazy" alt="Lealand Tea 滚动驱动式 3D 网站"></a>
+
+用于创建高端滚动驱动式互动 3D 茶饮网站的提示词：包含悬浮茶杯、倒茶动画、镜头潜入琥珀色茶汤、抹茶/茉莉茶/焙茶互动菜单，以及沉浸式咖啡馆室内场景。
+
+**提示词**
+
+```text
+为 Lealand Tea 创建一个高端滚动驱动式 3D 网站。使用明亮的奶油色背景、森林绿品牌配色、温暖的阳光、优雅的字体和简洁的文案。
+
+视觉中心是一只逼真的悬浮茶杯。随着用户滚动页面，杯盖升起，茶水注入杯中，镜头沿杯沿平滑移动并潜入杯内。翻涌的琥珀色茶汤充满整个屏幕，呈现逼真的反射、涟漪和若有若无的蒸汽。继续滚动，镜头拉远，展示抹茶、茉莉茶和焙茶选项组成的互动 3D 菜单，随后进入沉浸式咖啡馆室内场景。
+
+整体应像一段连续的电影感产品动画，而不是由彼此割裂的静态区块组成。保持设计简洁、精致、响应迅速且视觉丰富，运用流畅的动态效果和逼真的材质。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/lealand-tea-scroll-driven-3d-website) · [查看原帖](https://x.com/_baretto/status/2107872380047569238) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2107977531726934288"></a>
+
+### Atoll Jelly 互动式 WebGPU 泻湖立体场景
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-07
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/atoll-jelly-interactive-webgpu-lagoon"><img src="../assets/previews/53274a36cc666dc02abce477fc383ef95c5a0a2432d7b18987da6d45ba57d3f4.jpg" width="840" loading="lazy" alt="Atoll Jelly 互动式 WebGPU 泻湖立体场景"></a>
+
+一条用于生成马尔代夫自包含互动式 WebGPU 果冻泻湖立体场景的提示词。场景包括岛屿度假村、水上别墅、完整飞行与降落循环的水上飞机、珊瑚鱼与鳐鱼、漂浮泳圈、浅水模拟，以及触控环绕观察控制。
+
+**提示词**
+
+```text
+构建“Atoll Jelly”——单个自包含 HTML 文件，使用原生 WebGPU + WGSL，以纯 JS 实现模拟，不发起外部请求。这是编辑类互动果冻立体场景系列“MATERIAL STUDIES”的一件作品：在马尔代夫，将一块方形切割的绿松石色果冻泻湖做成微缩场景，包含棕榈小岛、水上别墅栈桥、按自己的日程运行的水上飞机，以及果冻下方的珊瑚礁生物。
+
+页面：暖纸色（#ece9e3）、墨色 #241f1d、强调色 #12a2a6；H1 使用斜体衬线字体“Atoll / Jelly.”，眉题为“MATERIAL STUDIES”，说明文字为“六间高脚别墅，一架往返起降的水上飞机，还有在下方果冻中滑翔的鹰鳐。”状态标签为“WEBGPU · LIVE”。右侧玻璃面板标题为“泻湖”，包含三个深色按钮“水上飞机”“投喂鱼群”“漂浮泳圈”、一条细进度条，以及统计项“降落 · 已投喂 · 漂浮”；“风味”色板为绿松石 / 蓝宝石 / 青柠；滑块为凝固度、波浪阻尼、潮汐（±10 cm）；操作项为重置 · 暂停 · 重置视图。左下角“玩法说明”：“搅动泻湖。投喂鱼群。向水上飞机挥手道别。”下方附一行灰色手势提示。移动端使用底部抽屉、触控环绕观察/双指缩放、WebGPU 降级提示卡片；禁止页面滚动，不得出现控制台错误。
+
+场景（方块边长 5.2²，海平面 1.3）：白沙泻湖深度约 0.3，向前方角落附近的深邃“蓝洞”倾斜；八座珊瑚礁隆起，装饰脑珊瑚、枝状珊瑚和海扇，颜色为粉、紫、橙、黄、青绿色，并轻微摆动；后方左角是一座沙质小岛，包含环形沙滩、低矮林木丘、糖果状灌木，以及两把带躺椅的茅草伞；岛上有 8 棵茂盛的椰子树，每棵拥有 16 片拱形羽状叶和下垂的枯叶；大型四坡茅草屋顶下设开放式大堂亭。一座由细高脚支撑的木板栈桥从小岛出发，斜穿泻湖，沿线设低矮灯柱；五间别墅交错悬挂在栈桥两侧，末端另有一间更大的别墅：高脚木板平台、浅色木屋、面向大海的玻璃门、四坡茅草屋顶（带条带状稻草纹理）、小型 plunge pool、两张躺椅，以及通入水中的钢梯。一座带小型茅草遮棚的漂浮水上飞机浮桥，通过高脚步道连接到小岛南侧海滩。方块切面展示糖果色分层（沙、贝壳层、焦糖、巧克力），半透明果冻墙体位于其下方。
+
+水体（名为“Island Jelly”）：线性浅水模拟（168² 交错网格，120 Hz，波速为 √(g·depth)，低表面张力，带阻尼）；支持手指搅动；方块倾斜时产生晃动；漂浮物体根据排水体积手动将水推回海中；生成飞溅凹坑与气泡；使用泡沫场（逐渐消退并形成蕾丝状纹理的白色水沫）、焦散、光束、折射、Beer–Lambert 风味吸收和岸线蕾丝效果。
+
+水上飞机（双发动机水上飞机：白色机身配青绿色装饰线，高翼配青绿色翼尖、支柱、双浮筒；三叶螺旋桨在顶点着色器中旋转）：固定的每日循环——在浮桥等待 → 依靠浮筒原地转向 180° → 滑行离开 → 起飞滑跑（带水花） → 爬升 → 在约 3.1 高度绕立体场景进行带侧倾的跑道形航线飞行 → 进近 → 触水降落并产生凹坑、白色水沫和震动 → 着水滑跑 → 转向 → 滑行返回浮桥。飞机在水面上随果冻起伏：四个浮筒采样点决定高度、俯仰和滚转；浮筒将排水体积推入模拟（水流尾迹），并生成泡沫。“水上飞机”按钮：等待时立即出发，否则加快航线以提前降落。统计降落次数。
+
+珊瑚礁生物：42 条群集鱼，分为四种配色（黄高鳍刺尾鱼、蓝身黄尾鱼、黑白条纹鱼、橙身白条鱼）；同类成群活动、自由游荡，并被限制在水体内（离开底部、位于水面下方、避开浅滩、处于方块内部）；尾巴在顶点着色器中摆动；3 条带斑点的鹰鳐贴近底部滑翔，翅翼随波拍动，尾部细长如鞭。手指触碰水面、任何飞溅，或水上飞机浮筒快速掠过，都会将它们驱散。“投喂鱼群”会撒下 16 颗先漂浮后下沉的颗粒；鱼和鳐鱼会循迹靠近并吃掉它们（计入“已投喂”）。
+
+漂浮泳圈：充气糖果条纹泳圈（粉 / 橙 / 蓝色配白色）——重量轻、漂浮高度高、平贴在波浪上，并带阻尼以确保不会弹出果冻；会被水上飞机推开；支持拾取和投掷，也能落在平台和沙滩上。
+
+QA：挂接 window.__aj；检查完整的水上飞机循环和至少一次降落、海拔 > 2.8、浮筒贴合水面、触水时的泡沫与波浪、鱼群始终处于水中、投喂会吸引鱼群并被吃掉、手指触碰会驱散鱼群、泳圈平贴漂浮、搅动会产生并逐渐消退的波浪、倾斜会产生晃动并恢复稳定，以及风味/滑块/暂停/环绕观察/缩放、压力测试、模拟耗时 < 5 ms、无网络请求、无错误、移动端适配和降级方案。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/atoll-jelly-interactive-webgpu-lagoon) · [查看原帖](https://x.com/vib3coded/status/2107977713415864782) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2108096737537929361"></a>
+
+### 支持拖拽挤压物理效果的交互式 Three.js 果冻实验室
+
+[AIHubmix](https://x.com/AiHubMix) · 2026-10-08
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/interactive-threejs-jelly-lab-physics"><img src="../assets/previews/a32e7ceb1020088902336a8b96eda137725bced2c56b2ec267019f823d95fadf.jpg" width="840" loading="lazy" alt="支持拖拽挤压物理效果的交互式 Three.js 果冻实验室"></a>
+
+一篇基准测试帖子称，同一提示词分别在 Haiku 5.5、Haiku 4.5 和 GPT‑6 Luna 上运行。预期结果是一个支持局部形变和拖拽挤压物理效果的交互式 Three.js 果冻实验室。
+
+**提示词**
+
+```text
+构建一个支持局部形变 &amp; 拖拽挤压物理效果的交互式 Three.js 果冻实验室
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/interactive-threejs-jelly-lab-physics) · [查看原帖](https://x.com/AiHubMix/status/2108096737537929361) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2108203260058259830"></a>
+
+### 骑自行车的鹈鹕 3D 体素世界
+
+[filipe](https://x.com/filicroval) · 2026-10-08
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/pelican-riding-bike-voxel-world"><img src="../assets/previews/a8173271188e803338055cd93996d41ba0c29535275302295b0945fb118311b8.jpg" width="840" loading="lazy" alt="骑自行车的鹈鹕 3D 体素世界"></a>
+
+一篇对比文章称，这是与 Haiku 5.5 和 GPT-6 Luna 使用的相同提示词。该提示词要求生成一个骑自行车的鹈鹕 3D 体素世界。
+
+**提示词**
+
+```text
+尽你所能，制作一个骑自行车的鹈鹕 3D 体素世界
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/pelican-riding-bike-voxel-world) · [查看原帖](https://x.com/filicroval/status/2108203260058259830) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D：无尽坦克防御
@@ -3382,7 +3335,15 @@ Piotr Migdał 在其链接文章中提到，他在 Codex 中将这段提示词�
 
 [jared](https://x.com/jaredliu_bravo) · 2026-10-08
 
-<a href="https://www.tripo3d.ai/zh/3d-prompts/jelly-villa"><img src="../assets/previews/d89de585b8c44c48612e912fff0c35c56c9bed0a69eccc11498b0fd2c5f7f01c.png" width="840" loading="lazy" alt="果冻别墅"></a>
+<a href="https://www.tripo3d.ai/zh/3d-prompts/jelly-villa"><img src="../assets/previews/1e141aa60aaedc2e655f2a8240ca9559a6f42b3deec491818aa0d77363cc175f.png" width="840" loading="lazy" alt="果冻别墅"></a>
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/jelly-villa"><img src="../assets/previews/49b4d5a6e6ea8dc12784b5ef9c36c2c15cf29643fe451526e5d48befe1b7b2f2.png" width="840" loading="lazy" alt="果冻别墅"></a>
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/jelly-villa"><img src="../assets/previews/7d9dc2c3a075894a82a022de3bd8dab925c534e7b3c53afe341d4df6ab70662e.png" width="840" loading="lazy" alt="果冻别墅"></a>
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/jelly-villa"><img src="../assets/previews/9037183297fa632c5ed5d653f2350baeac3fe1d448187b5741986c14b9b6a4d2.png" width="840" loading="lazy" alt="果冻别墅"></a>
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/jelly-villa"><img src="../assets/previews/57a43e896b3aea5a46d993d9d46de50447a8c54905b683f4b44bc1b21f6550eb.png" width="840" loading="lazy" alt="果冻别墅"></a>
 
 搅动一片宝石色的果冻海，拖着一艘迷你游艇，让热带别墅周围的棕榈树随之弯曲。在同一座鲜活的岛屿上，自由切换代码生成的场景与真实的 Tripo P2 别墅和游艇模型。
 
@@ -3700,7 +3661,7 @@ Piotr Migdał 在其链接文章中提到，他在 Codex 中将这段提示词�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 321 条案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 325 条案例 →</a></strong></p>
 <p><sub>为保持 GitHub README 渲染流畅，这里仅展示最新 100 条案例。</sub></p>
 <br>
 </td></tr>

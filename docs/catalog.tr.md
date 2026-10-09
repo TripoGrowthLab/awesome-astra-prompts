@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**321 · En yeni Astra istemleri**
+**325 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -50,11 +50,7 @@
 <details>
 <summary>Örnekleri keşfet</summary>
 
-- [Etkileşimli 3B Anatomi Gezgini](#2099206962344800541) · GitHub
 - [İzometrik fantezi grafik demosu](#2100271998618177864) · GitHub
-- [Başsız kıyafet modelinde UV açılımı ve 4K yeniden bake](#2098980384260456813)
-- [Tarayıcıda oynanabilir 3B kıyı bölümü](#2099172061092381027)
-- [Peach’s Castle’ı 3B olarak yeniden tasarla](#2099359786865402019)
 - [Çarpışma Önlemeli Otonom Model Demiryolu](#2099362575339372780)
 - [Oynanabilir 3B Engel Parkuru](#2099419671481249851)
 - [Etkileşimli 3B Samuray Ormanı Sahnesi](#2099450933067612421)
@@ -143,6 +139,10 @@
 - [Pelüş Kalamar.](#2107533363808485534)
 - [Villa Jelly](#2107617244301664483)
 - [Görünmez Kentler için Three.js görselleştirmesi](#2107824019999535226)
+- [Lealand Tea için Kaydırma Kontrollü 3B Web Sitesi](#2107872378218779067)
+- [Atoll Jelly etkileşimli WebGPU lagün dioraması](#2107977531726934288)
+- [Sürükleyerek Ezme Fiziğiyle Etkileşimli Three.js Jöle Laboratuvarı](#2108096737537929361)
+- [Bisiklete binen pelikanın 3B voksel dünyası](#2108203260058259830)
 - [Battle City 3D: Sonsuz Tank Savunması](#battle-city-3d)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [Jöle Villa](#jelly-villa)
@@ -152,32 +152,6 @@
 - [Kiklop’un Adası](#cyclops-island-threejs-game)
 
 </details>
-
-<a id="2099206962344800541"></a>
-
-### Etkileşimli 3B Anatomi Gezgini
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-13
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099206962344800541"><img src="../assets/previews/71786191f6fb99e7d8e2b1cc4679b12bb2aaf5dd1c19ae8433692e1dc0e74a92.jpg" width="840" loading="lazy" alt="Etkileşimli 3B Anatomi Gezgini"></a>
-
-Yazar bunu, etkileşimli Brain Cat web sitesine benzer bir sürüm oluşturmak için önerilen başlangıç istemi olarak paylaştı. İstem; şeffaf görünümle iç yapıları ortaya çıkaran, döndürülebilen ve yapıları ayrıştırılabilen duyarlı bir 3B anatomi gezgini, etiketli bölgeler, katman kontrolleri, animasyonlu eğitsel sinyaller ve bilimsel kaynak atıfları talep ediyor.
-
-**İstem**
-
-```text
-Herkese açık bilimsel veri kümelerini kullanarak etkileyici ve etkileşimli bir 3B anatomi gezgini oluştur. Dış görünümle başla; ben yakınlaştırdıkça bu görünüm kademeli olarak şeffaflaşsın ve alttaki anatomiyi ortaya çıkarsın.
-
-Modeli döndürmeme, yapıları ayırmama, etiketli bölgeleri seçmeme ve bir yan panelden katmanları açıp kapatmama izin ver. Anatomi, bağlantılar ve tek tek hücreler için ayrı sekmeler ekle; animasyonlu sinyaller ve ayarlanabilir kontroller sun.
-
-Yumuşak aydınlatma, akıcı geçişler, sade renkler ve çok az metin kullanan modern, minimalist bir arayüz tasarla. Oklar ve kısa bir görsel eğitim ekle. Masaüstü ve mobil cihazlarda çalışmasını sağla.
-
-Mümkün olan yerlerde gerçek anatomik geometri kullan, kaynaklara atıfta bulun ve bilimsel verilerle açıklama amaçlı animasyonları açıkça birbirinden ayır. Çalışan bir web sitesi oluştur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099206962344800541) · [Orijinal gönderi](https://x.com/k1rallik/status/2099206962344800541) · [Kaynak kodu](https://github.com/bubblik525/cat_brain_anatomy) · [Örneklere dön](#all-prompts)
-
----
 
 <a id="2100271998618177864"></a>
 
@@ -196,125 +170,6 @@ Bana bir grafik demosu oluştur: izometrik kamera, gerçekçi gölgelendirmeye v
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100271998618177864) · [Orijinal gönderi](https://github.com/achimala/dream-loop) · [Kaynak kodu](https://github.com/achimala/dream-loop) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2098980384260456813"></a>
-
-### Başsız kıyafet modelinde UV açılımı ve 4K yeniden bake
-
-[さ🥺](https://x.com/_sagyoai) · 2026-09-13
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098980384260456813"><img src="../assets/previews/fef1ae0d7a4818588b5aa244450941a5fc54a6e3707a2985c78021a3b6c8b7c7.jpg" width="840" loading="lazy" alt="Başsız kıyafet modelinde UV açılımı ve 4K yeniden bake"></a>
-
-Seçili kıyafet ve el-ayakları içeren başsız 3B model için, yapısı kolay okunup yeniden çizilebilen bir UV düzeni oluşturur ve mevcut dokuları 4K çözünürlükte yeniden bake eder. Eski verileri korurken dikiş tasarımı, bozulma kontrolü, yerleşim ve karşılaştırmalı doğrulama adımlarını da gerçekleştirir.
-
-**İstem**
-
-```text
-Blender MCP ile seçili “kıyafet ve el-ayakları içeren başsız modelin” UV açılımını ve mevcut dokuların 4K yeniden bake işlemini gerçekleştirin.
-
-Amaç, modelin özgün görünümünü koruyarak kıyafet kalıbı gibi yapısı kolayca anlaşılabilen ve sonradan yeniden çizilebilen bir UV düzeni oluşturmaktır. İnsan bir sanatçı gibi gözlem → dikiş tasarımı → parça bazında açılım → bozulma düzeltme → yerleşim → bake sırasını izleyin.
-
-1. Özgün verileri koruyun
-Çalışmaya başlamadan önce dosyayı farklı bir adla kaydedin, eski UV’leri, görselleri ve materyalleri koruyun ve yeni bir UV seti olan “UV\_Final” oluşturun.
-Geometriyi, topolojiyi, vertex sırasını, ağırlıkları, shape key’leri ve rig’i değiştirmeyin.
-
-2. Modeli inceleyip dikişleri tasarlayın
-Kıyafetin parça yapısını ve gerçek dikişlerini anlamak için her yönden özgün doku görünümünü ve tel kafes görünümünü kontrol edin.
-Kıyafeti gövde, kol, yaka gibi kalıp parçalarının yapısını izleyerek açın; yan dikişler ve kolların iç kısımları gibi bölgelerden yararlanın. Ciltte ve el-ayaklarda dikişleri iç taraf veya yan yüzey gibi daha az görünür yerlere yerleştirin ve parmak aralarına kadar doğal biçimde açılabilecek bir yapı oluşturun.
-Kırışıklıkları veya baskıları dikişlerle karıştırmayın ve gereksiz, küçük parçalara bölünmüş adacıklar oluşturmayın.
-
-3. Parçaları ayrı ayrı açın ve bozulmaları düzeltin
-Tüm modeli tek seferde işlemek yerine parçaları ayrı ayrı Unwrap edin.
-UV\_Final’i referans alan yazılı bir checker dokusu ve Stretch görünümüyle esneme, sıkışma, burulma, ters dönme ve üst üste binme durumlarını kontrol edin.
-Sorunun nedenine göre dikiş ekleyin veya kaldırın; ardından Pin, Relax gibi araçlarla düzenleyip yeniden kontrol edin. Aynı otomatik açılımı tekrar tekrar uygulamakla yetinmeyin; iyileştirilmiş parçaları koruyun.
-Smart UV Project ile tüm modeli otomatik olarak parçalara ayırmayı nihai sonuç olarak kullanmayın.
-
-4. Kumaş yönünü, texel yoğunluğunu ve yerleşimi düzenleyin
-Kıyafette her parçanın kumaş yönünü temel alarak ana dikey yönü UV’nin V yönüyle hizalayın. Eğri kalıp parçalarını zorla dikdörtgene dönüştürmeyin.
-Gerçek ölçülere göre texel yoğunluğunu eşitleyin ve sağ-sol eşleşmesinin anlaşılabileceği bir yönde düzenleyin.
-Ardından yönü ve göreli ölçeği koruyarak 0–1 alanına yerleştirin. Sağ ve sol parçaları üst üste bindirmeyin veya keyfi şekilde döndürmeyin.
-4K bake için başlangıç ölçütü olarak 16 px bake payı, adacıklar arasında en az 32 px ve görüntünün dış kenarlarından en az 16 px boşluk kullanın.
-
-5. Eski UV’den yeni UV’ye 4K bake yapın
-Özgün doku referansını eski UV’ye açıkça sabitleyin; hedef UV olarak UV\_Final’i kullanıp dokuyu 4096×4096 boyutunda yeni bir görsele aktarın.
-Her materyalde bake hedefi görsel düğümünü etkinleştirin; deneme bake’inden sonra asıl bake işlemini gerçekleştirin.
-Base Color için yalnızca Diffuse’un Color kanalını veya Emit’i kullanın; yeni ışık, gölge ya da AO bake etmeyin. Özgün görselde çizilmiş gölgelendirmeyi koruyun.
-Saydamlık gibi mevcut haritaları da gerektiğinde aktarın; tangent normal haritasını yalnızca renk aktarımı olarak değil, yeni UV düzenini temel alarak yeniden bake edin.
-
-6. Yeni ve eski sonuçları karşılaştırarak tamamlanmayı doğrulayın
-Yeni UV’yi ve bake edilmiş görselleri uygulayın; tüm modeli ve ayrıntıları, özgünle aynı görüntüleme koşullarında karşılaştırın.
-Desenlerin konumunu, rengini, saydamlığını ve dikişlerin sürekliliğini kontrol edin; UV’deki ezilmeleri, üst üste binmeleri ve açılmamış bölgeleri, ayrıca bake işlemindeki siyah noktaları, boşlukları ve bulanık taşmaları düzeltin.
-Tamamlanma kararını “kaç kez açılım yapıldığına” göre değil, kontrol sonuçlarına göre verin.
-
-Tamamlanmış .blend dosyasını, 4K görseli, UV yerleşimini ve dikiş, checker ile nihai görünüm kontrol görsellerini kaydedin; başlıca düzeltmeleri kısaca raporlayın.
-Yalnızca planı açıklamakla yetinmeyin; görselleri gerçekten kontrol ederek çalışmayı tamamlayın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098980384260456813) · [Orijinal gönderi](https://x.com/_sagyoai/status/2098980384260456813) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2099172061092381027"></a>
-
-### Tarayıcıda oynanabilir 3B kıyı bölümü
-
-[Lummox](https://x.com/Lummox_eth) · 2026-09-13
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099172061092381027"><img src="../assets/previews/f7beaa2f75393d632176cc10919ee4221cbba7b354677e202925812162b1e0e2.jpg" width="840" loading="lazy" alt="Tarayıcıda oynanabilir 3B kıyı bölümü"></a>
-
-Lummox tarafından, tarayıcıda oynanabilir bir 3B bölüm için yayımlanan altı adımlı prompt dizisi. Vite, vanilla TypeScript, Three.js, cannon-es ve Web Audio teknolojilerinden oluşan sabit bir yığın kullanır; gün batımında bir kıyı bölgesi oluşturur, üç kişinin bir araca binmesini sahneler ve klip temposuyla ses tasarımını belirtir.
-
-**İstem**
-
-```text
-> spesifikasyonu kilitle (TZ-gta-slice.md)
-
-prompt: "Oynanabilir bir 3B tarayıcı bölümü oluştur. Bu spesifikasyonu kilitledikten sonra değiştirme. Önce bölge ve klip. Kontroller daha sonra."
-
-> teknoloji yığını (Vite, vanilla TypeScript, Three.js, cannon-es, Web Audio)
-
-prompt: "Teknoloji yığını sabit. Vite. vanilla TypeScript. Three.js. cannon-es. Web Audio. Tek bir tarayıcı URL'si."
-
-> kadraj (su üzerinde gün batımı, ıslak asfalt, palmiyeler)
-
-prompt: "Tek bir kıyı bölgesi. Su üzerinde gün batımı. Islak asfalt. Palmiyeler. Kadrajı poligon sayısına değil, ışığa ve kameraya göre oluştur. Varsayılan gri ışık kullanma. Çıplak küpler kullanma."
-
-> üçlü (tek sahne, tek araç, yaklaşık 20 saniye)
-
-prompt: "Üç kişiyi tek bir sahnede tut. Konuşsunlar. Ardından tek bir araca binsinler. Yaklaşık 20 saniye. Ekstra seçenekler yerine kaliteye öncelik ver."
-
-> kesme (15–20 saniye, akıcılığı koru)
-
-prompt: "Gecikme olursa klibi 15–20 saniyeye kısalt. Akıcılığı koru. Kare hızı düşerse ışığı değil, yayaları azalt."
-
-> ses (insan sesleri, repliklerin altında pad, araç uğultusu)
-
-prompt: "Sesler robot gibi değil, insan gibi duyulmalı. Repliklerin altında alçak seviyeli bir pad olsun; repliklerin üzerine çıkmasın. Oturduklarında testere sesi değil, düşük frekanslı bir araç uğultusu duyulsun. Radyo paraziti olmasın."
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099172061092381027) · [Orijinal gönderi](https://x.com/Lummox_eth/status/2099172061092381027) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2099359786865402019"></a>
-
-### Peach’s Castle’ı 3B olarak yeniden tasarla
-
-[Romain Huet](https://x.com/romainhuet) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099359786865402019"><img src="../assets/previews/e7a5ad638345dd08d471122be938b5ac89535f8153244ee59aea77fd486c67ff.jpg" width="840" loading="lazy" alt="Peach’s Castle’ı 3B olarak yeniden tasarla"></a>
-
-Yazar, Astra’dan Codex’te Peach’s Castle’ı 3B olarak yeniden tasarlamasını ve havadan geçiş videosu oluşturmasını istediklerini söylüyor. Yazar, devam yorumunda çalışmada bir Blender modeli, gün ışığında ve alacakaranlıkta kontrol edilen bir kamera yörüngesi, Peach’in penceresinde modellenmiş 88 cam bölme ve zemin kat iç mekânının yer aldığını belirtiyor.
-
-**İstem**
-
-```text
-Peach’s Castle’ı 3B olarak yeniden tasarla ve havadan geçiş videosu oluştur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099359786865402019) · [Orijinal gönderi](https://x.com/romainhuet/status/2099359786865402019) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3317,6 +3172,104 @@ Italo Calvino’nun Görünmez Kentler kitabındaki tüm kentlerin three.js (pnp
 
 ---
 
+<a id="2107872378218779067"></a>
+
+### Lealand Tea için Kaydırma Kontrollü 3B Web Sitesi
+
+[Baretto (tiny.host)⚡](https://x.com/_baretto) · 2026-10-07
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/lealand-tea-scroll-driven-3d-website"><img src="../assets/previews/0bccb8d77caf05401201d19d77479d5909d848bbc774e48d82b9fd3b4a72253e.jpg" width="840" loading="lazy" alt="Lealand Tea için Kaydırma Kontrollü 3B Web Sitesi"></a>
+
+Yüzen bir çay fincanı, çay doldurma animasyonu, kameranın kehribar renkli çayın içine dalması, matcha, yasemin ve hojicha için etkileşimli bir menü ve sürükleyici bir kafe iç mekânı içeren, premium bir kaydırma kontrollü etkileşimli 3B çay web sitesi için prompt.
+
+**İstem**
+
+```text
+Lealand Tea için premium, kaydırma kontrollü bir 3B web sitesi oluşturun. Açık krem arka planlar, orman yeşili marka kimliği, sıcak güneş ışığı, zarif tipografi ve minimal metin kullanın.
+
+Merkezde gerçekçi, havada duran bir çay fincanı olsun. Kullanıcı sayfayı kaydırdıkça fincanın kapağı kalksın, içine çay doldurulsun ve kamera pürüzsüz bir hareketle fincanın kenarının üzerinden geçerek fincanın içine dalsın. Girdap oluşturan kehribar renkli çay; gerçekçi yansımalar, dalgalanmalar ve hafif buharla ekranı doldursun. Kaydırmaya devam edildiğinde kamera geri çekilsin ve ardından sürükleyici bir kafe iç mekânıyla birlikte matcha, yasemin ve hojicha seçeneklerini etkileşimli bir 3B menüde ortaya çıkarsın.
+
+Deneyim, birbirinden ayrı statik bölümlerden oluşmak yerine kesintisiz, sinematik bir ürün animasyonu hissi versin. Tasarımı temiz, özenli, duyarlı ve görsel açıdan zengin tutun; akıcı hareketler ve gerçekçi malzemeler kullanın.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/lealand-tea-scroll-driven-3d-website) · [Orijinal gönderi](https://x.com/_baretto/status/2107872380047569238) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2107977531726934288"></a>
+
+### Atoll Jelly etkileşimli WebGPU lagün dioraması
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-07
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/atoll-jelly-interactive-webgpu-lagoon"><img src="../assets/previews/53274a36cc666dc02abce477fc383ef95c5a0a2432d7b18987da6d45ba57d3f4.jpg" width="840" loading="lazy" alt="Atoll Jelly etkileşimli WebGPU lagün dioraması"></a>
+
+Maldivler'de geçen, kendi içinde çalışan etkileşimli bir WebGPU jöle-lagün dioraması için prompt. Bir adacık tatil köyü, su üzerindeki bungalovlar, tam bir uçuş ve iniş döngüsüne sahip deniz uçağı, resif balıkları ve vatozlar, yüzen halkalar, sığ su simülasyonu ve dokunmatik yörünge kontrolleri tanımlar.
+
+**İstem**
+
+```text
+"Atoll Jelly"yi oluştur — tek bir bağımsız HTML dosyası, yerel WebGPU + WGSL, düz JS ile simülasyon, harici istek yok. Etkileşimli jöle dioramalarından oluşan "MATERIAL STUDIES" editoryal serisine ait bir çalışma: Maldivler'de palmiyeli bir adacık, su üzerindeki bungalovlardan oluşan bir iskele, kendi günlük rotasını tamamlayan bir deniz uçağı ve jölenin altında yaşayan resif canlıları içeren, kare biçiminde kesilmiş turkuaz bir jöle lagünü.
+
+SAYFA: sıcak kâğıt (#ece9e3), mürekkep #241f1d, vurgu #12a2a6, italik serif H1 "Atoll / Jelly.", üst başlık "MATERIAL STUDIES", açıklama "Kazıklar üzerindeki altı bungalov, gidip gelen bir deniz uçağı ve aşağıdaki jölenin içinde süzülen kartal vatozları." Durum rozeti "WEBGPU · LIVE". Sağ cam panel: "THE LAGOON" başlığı ve üç koyu düğme: "Seaplane", "Feed the fish", "Float ring"; ince bir gösterge, "Landings · Fed · Afloat" sayacı; "FLAVOUR" renk örnekleri Turquoise / Sapphire / Lime; Firmness, Wave damping, Tide (±10 cm) kaydırıcıları; Reset · Pause · Reset view. Sol altta "HOW TO PLAY": "Lagünü dalgalandır. Balıkları besle. Deniz uçağına el salla." + hareketleri açıklayan tek gri satır. Mobil alt panel, dokunmatik yörünge/sıkıştırma hareketi, WebGPU geri dönüş kartı, kaydırma yok, konsol hatası yok.
+
+SAHNE (5.2² boyutunda blok, deniz seviyesi 1.3): önde, köşeye yakın derin bir "blue hole"a doğru eğimli, yaklaşık 0.3 derinliğinde beyaz kumlu lagün; hafifçe sallanan, pembe/mor/turuncu/sarı/teal renklerde beyin mercanları, dallanan mercanlar ve deniz yelpazeleriyle kaplı sekiz mercan başı (tümsek); arka sol köşede kumlu bir adacık (plaj halkası, alçak ağaçlık tepe, jölemsi çalılar, şezlonglu iki saz şemsiyesi) ve her birinde 16 kemerli teleksi yaprak ile kuru sarkan yapraklar bulunan 8 gür hindistan cevizi palmiyesi; büyük kırma saz çatının altında açık bir lobi pavyonu. İnce kazıklar üzerindeki ahşap bir iskele, adacıktan lagünü çapraz geçecek şekilde uzanır ve alçak lamba direkleri taşır; beş bungalov dönüşümlü olarak iki yana asılır, uçta ise daha büyük bir bungalov bulunur: kazıklar üzerindeki ahşap döşemeler, denize açılan cam kapılı açık renkli ahşap kulübeler, kırma saz çatılar (şeritli saman dokusu), dalma havuzu, iki şezlong ve suya inen çelik merdiven. Küçük saz gölgelikli yüzer bir deniz uçağı pontonu, adacığın güney plajına kazıklar üzerindeki bir yürüyüş yoluyla bağlanır. Blokun kesilmiş yüzeyleri, yarı saydam jöle duvarların altında şekerleme katmanlarını (kum, kabuk şeridi, karamel, çikolata) gösterir.
+
+SU ("Island Jelly" olarak): doğrusal sığ su simülasyonu (168² şaşırtmalı ızgara, 120 Hz, √(g·depth) dalga hızı, düşük yüzey gerilimi, sönümleme), parmakla karıştırma, blok eğildiğinde çalkalanma, yüzen cisimlerin elle hesaplanan yer değiştiren hacimle denize geri itilmesi, sıçrama kraterleri + kabarcıklar, köpük alanı (solup ipliksi izler bırakan beyaz su), katakaustikler, ışık huzmeleri, kırılma, Beer–Lambert aroma soğurması, kıyı danteli.
+
+DENİZ UÇAĞI (çift motorlu deniz uçağı: teal şeritli beyaz gövde, teal uçlu yüksek kanat, payandalar, çift şamandıra, vertex shader'da dönen 3 kanatlı pervaneler): sabit bir günlük döngü — pontonda bekle → şamandıralar üzerinde 180° dön → taksi yaparak açıl → kalkış koşusu (su püskürtüsü) → tırman → yaklaşık 3.1 yükseklikte, yatışlar içeren bir yarış pisti rotasıyla dioramanın çevresinde dolaş → yaklaş → krater, beyaz su ve sarsıntıyla suya teker koy → iniş koşusu → dön → taksi yaparak pontona geri dön. Su üzerindeyken jöle üzerinde hareket eder: dört şamandıra örneği yüksekliği, yunuslamayı ve yatışı belirler; şamandıraları simülasyona hacim (uyan su) ve köpük iterek aktarır. "Seaplane" düğmesi: bekliyorsa hemen ayrılmasını sağlar; aksi hâlde erken inmesi için rotayı hızlandırır. İnişleri sayar.
+
+RESİF CANLILARI: dört renk türünden 42 boid balık (sarı tang, sarı kuyruklu mavi balık, siyah-beyaz bantlı balık, beyaz çizgili turuncu balık); kendi türleriyle sürü oluşturur, gezinir ve suyun içinde tutulur (tabandan uzakta, yüzeyin altında, sığlıklardan uzakta, bloğun içinde); kuyrukları vertex shader'da hareket eder. Üç benekli kartal vatozu, dalga gibi çırpan kanatları ve kamçı kuyruklarıyla tabana yakın süzülür. Sudaki bir parmak, herhangi bir sıçrama veya hızla yanlarından geçen deniz uçağı şamandıraları balıkları dağıtır. "Feed the fish", önce su üzerinde süzülüp sonra dibe çöken 16 peleti dağıtır; balıklar ve vatozlar peletlere yönelip onları yer (Fed olarak sayılır).
+
+YÜZEN HALKALAR: şekerleme çizgili şişme halkalar (beyazlı pembe / turuncu / mavi) — hafif, yüksekten yüzer, dalgaların üzerinde düz durur, jöleden dışarı fırlamamaları için sönümlenir ve deniz uçağı tarafından yana itilir; alınıp fırlatılabilir; döşemelere ve plaja da konabilir.
+
+KALİTE KONTROLÜ: window.__aj kancasını kullan; deniz uçağının tam döngüsünü ve bir inişi, 2.8'den yüksek irtifayı, yüzeyde hareket eden şamandıraları, suya konma köpüğünü + dalgaları, balıkların her zaman suyun içinde olmasını, beslemenin balıkları getirip yedirilmesini, bir parmağın sürüyü dağıtmasını, halkaların düz yüzmesini, karıştırmanın sönümlenen dalgalar oluşturmasını, eğmenin çalkalanıp durulmasını, renk seçeneklerini/kaydırıcıları/duraklatmayı/yörüngeyi/yakınlaştırmayı, stres testini, simülasyonun < 5 ms sürmesini, ağ bağlantısı olmamasını, hata olmamasını, mobil görünümü ve geri dönüşü kontrol et.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/atoll-jelly-interactive-webgpu-lagoon) · [Orijinal gönderi](https://x.com/vib3coded/status/2107977713415864782) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2108096737537929361"></a>
+
+### Sürükleyerek Ezme Fiziğiyle Etkileşimli Three.js Jöle Laboratuvarı
+
+[AIHubmix](https://x.com/AiHubMix) · 2026-10-08
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-threejs-jelly-lab-physics"><img src="../assets/previews/a32e7ceb1020088902336a8b96eda137725bced2c56b2ec267019f823d95fadf.jpg" width="840" loading="lazy" alt="Sürükleyerek Ezme Fiziğiyle Etkileşimli Three.js Jöle Laboratuvarı"></a>
+
+Bir karşılaştırma gönderisinde, aynı istemin Haiku 5.5, Haiku 4.5 ve GPT‑6 Luna üzerinde çalıştırıldığı belirtiliyor. İstenen sonuç, yerel deformasyon ve sürükleyerek ezme fiziğine sahip etkileşimli bir Three.js jöle laboratuvarı.
+
+**İstem**
+
+```text
+yerel deformasyon ve sürükleyerek ezme fiziğine sahip etkileşimli bir Three.js jöle laboratuvarı oluştur
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-threejs-jelly-lab-physics) · [Orijinal gönderi](https://x.com/AiHubMix/status/2108096737537929361) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2108203260058259830"></a>
+
+### Bisiklete binen pelikanın 3B voksel dünyası
+
+[filipe](https://x.com/filicroval) · 2026-10-08
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/pelican-riding-bike-voxel-world"><img src="../assets/previews/a8173271188e803338055cd93996d41ba0c29535275302295b0945fb118311b8.jpg" width="840" loading="lazy" alt="Bisiklete binen pelikanın 3B voksel dünyası"></a>
+
+Bir karşılaştırma gönderisinde, bunun Haiku 5.5 ve GPT-6 Luna ile kullanılan promptun aynısı olduğu belirtiliyor. Prompt, bisiklete binen bir pelikanın yer aldığı 3B bir voksel dünyası oluşturulmasını istiyor.
+
+**İstem**
+
+```text
+Elinden gelenin en iyisini yaparak bisiklete binen bir pelikanın 3B voksel dünyasını oluştur
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/pelican-riding-bike-voxel-world) · [Orijinal gönderi](https://x.com/filicroval/status/2108203260058259830) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Sonsuz Tank Savunması
@@ -3446,7 +3399,15 @@ Düzenlenebilir, bağımsız bir kaynak proje, kilit dosyası, npm geliştirme/d
 
 [jared](https://x.com/jaredliu_bravo) · 2026-10-08
 
-<a href="https://www.tripo3d.ai/tr/3d-prompts/jelly-villa"><img src="../assets/previews/d89de585b8c44c48612e912fff0c35c56c9bed0a69eccc11498b0fd2c5f7f01c.png" width="840" loading="lazy" alt="Jöle Villa"></a>
+<a href="https://www.tripo3d.ai/tr/3d-prompts/jelly-villa"><img src="../assets/previews/1e141aa60aaedc2e655f2a8240ca9559a6f42b3deec491818aa0d77363cc175f.png" width="840" loading="lazy" alt="Jöle Villa"></a>
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/jelly-villa"><img src="../assets/previews/49b4d5a6e6ea8dc12784b5ef9c36c2c15cf29643fe451526e5d48befe1b7b2f2.png" width="840" loading="lazy" alt="Jöle Villa"></a>
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/jelly-villa"><img src="../assets/previews/7d9dc2c3a075894a82a022de3bd8dab925c534e7b3c53afe341d4df6ab70662e.png" width="840" loading="lazy" alt="Jöle Villa"></a>
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/jelly-villa"><img src="../assets/previews/9037183297fa632c5ed5d653f2350baeac3fe1d448187b5741986c14b9b6a4d2.png" width="840" loading="lazy" alt="Jöle Villa"></a>
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/jelly-villa"><img src="../assets/previews/57a43e896b3aea5a46d993d9d46de50447a8c54905b683f4b44bc1b21f6550eb.png" width="840" loading="lazy" alt="Jöle Villa"></a>
 
 Değerli taş renklerinde bir jöle denizini karıştırın, minyatür bir yatı çekin ve tropik bir villanın çevresindeki palmiyeleri bükün. Aynı canlı adada kodla oluşturulmuş manzara ile gerçek Tripo P2 villa ve yat modelleri arasında geçiş yapın.
 
@@ -3764,7 +3725,7 @@ Kaynak kodu, lockfile’ı, npm geliştirme/derleme komutlarını ve statik çı
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 321 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 325 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

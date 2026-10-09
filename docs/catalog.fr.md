@@ -28,7 +28,7 @@
 **Un point de départ pour votre prochain jeu, scène ou monde interactif.**
 
 
-**321 · Derniers prompts Astra**
+**325 · Derniers prompts Astra**
 
 ## Projets à découvrir
 
@@ -50,11 +50,7 @@
 <details>
 <summary>Parcourir les exemples</summary>
 
-- [Explorateur anatomique 3D interactif](#2099206962344800541) · GitHub
 - [Démo de graphismes fantasy en vue isométrique](#2100271998618177864) · GitHub
-- [Dépliage UV et rebake en 4K d’un modèle de vêtement sans tête](#2098980384260456813)
-- [Segment jouable en 3D d’un quartier côtier dans le navigateur](#2099172061092381027)
-- [Réimaginer le château de Peach en 3D](#2099359786865402019)
 - [Maquette ferroviaire autonome avec évitement des collisions](#2099362575339372780)
 - [Parcours d’obstacles 3D jouable](#2099419671481249851)
 - [Scène de forêt 3D interactive avec un samouraï](#2099450933067612421)
@@ -143,6 +139,10 @@
 - [Calmar en peluche.](#2107533363808485534)
 - [Villa Jelly](#2107617244301664483)
 - [Visualisation Three.js des Villes invisibles](#2107824019999535226)
+- [Site web 3D de Lealand Tea animé au défilement](#2107872378218779067)
+- [Diorama interactif de lagon WebGPU Atoll Jelly](#2107977531726934288)
+- [Labo de gelée interactif Three.js avec physique d’écrasement par glisser-déposer](#2108096737537929361)
+- [Monde 3D en voxels représentant un pélican à vélo](#2108203260058259830)
 - [Battle City 3D : Défense de chars sans fin](#battle-city-3d)
 - [Crazy Tanks — Artillerie insulaire en 3D](#crazy-tanks-3d-island-artillery)
 - [Villa en gelée](#jelly-villa)
@@ -152,32 +152,6 @@
 - [L’île du Cyclope](#cyclops-island-threejs-game)
 
 </details>
-
-<a id="2099206962344800541"></a>
-
-### Explorateur anatomique 3D interactif
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-13
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2099206962344800541"><img src="../assets/previews/71786191f6fb99e7d8e2b1cc4679b12bb2aaf5dd1c19ae8433692e1dc0e74a92.jpg" width="840" loading="lazy" alt="Explorateur anatomique 3D interactif"></a>
-
-L’auteur partage ce prompt de départ recommandé pour créer une version similaire à son site web interactif Brain Cat. Il demande un explorateur anatomique 3D adaptatif avec révélation progressive en transparence, rotation, séparation des structures, régions étiquetées, contrôles des couches, signaux pédagogiques animés et attribution des sources scientifiques.
-
-**Prompt**
-
-```text
-Créez un magnifique explorateur anatomique 3D interactif à partir de jeux de données scientifiques accessibles au public. Commencez par une vue extérieure qui devient progressivement transparente lorsque je zoome, afin de révéler l’anatomie sous-jacente.
-
-Permettez-moi de faire pivoter le modèle, de séparer les structures, de sélectionner des régions étiquetées et d’activer ou désactiver les couches depuis un panneau latéral. Ajoutez des onglets distincts pour l’anatomie, les connexions et les cellules individuelles, avec des signaux animés et des contrôles ajustables.
-
-Utilisez une interface moderne et minimaliste, un éclairage doux, des couleurs discrètes, des transitions fluides et très peu de texte. Intégrez des flèches ainsi qu’un court tutoriel visuel. Assurez la compatibilité avec les ordinateurs et les appareils mobiles.
-
-Utilisez une géométrie anatomique réelle lorsque celle-ci est disponible, citez les sources et distinguez clairement les données scientifiques des animations illustratives. Créez un site web fonctionnel.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2099206962344800541) · [Publication originale](https://x.com/k1rallik/status/2099206962344800541) · [Code source](https://github.com/bubblik525/cat_brain_anatomy) · [Retour aux exemples](#all-prompts)
-
----
 
 <a id="2100271998618177864"></a>
 
@@ -196,125 +170,6 @@ Crée-moi une démo graphique : caméra isométrique, style visuel inspiré des 
 ```
 
 [Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2100271998618177864) · [Publication originale](https://github.com/achimala/dream-loop) · [Code source](https://github.com/achimala/dream-loop) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2098980384260456813"></a>
-
-### Dépliage UV et rebake en 4K d’un modèle de vêtement sans tête
-
-[さ🥺](https://x.com/_sagyoai) · 2026-09-13
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098980384260456813"><img src="../assets/previews/fef1ae0d7a4818588b5aa244450941a5fc54a6e3707a2985c78021a3b6c8b7c7.jpg" width="840" loading="lazy" alt="Dépliage UV et rebake en 4K d’un modèle de vêtement sans tête"></a>
-
-Ce prompt s’applique à un modèle 3D sans tête comprenant les vêtements, les mains et les pieds sélectionnés. Il recrée les UV afin que la structure soit facile à lire et à retoucher, puis rebake les textures existantes en 4K. Les anciennes données sont conservées tout en couvrant la conception des seams, le contrôle de la distorsion, le packing et la vérification comparative.
-
-**Prompt**
-
-```text
-Avec Blender MCP, effectuez le dépliage UV du « modèle sans tête comprenant les vêtements, les mains et les pieds » sélectionné, puis rebakez les textures existantes en 4K.
-
-L’objectif est de préserver l’apparence d’origine et de créer des UV dont la structure est lisible comme celle d’un patron de vêtement, afin de faciliter les retouches ultérieures. Procédez comme un artiste 3D : observation → conception des seams → dépliage par partie → correction de la distorsion → agencement → bake.
-
-1. Préserver les données d’origine
-Avant de commencer, enregistrez une copie sous un autre nom, conservez les anciens UV, images et matériaux, puis créez un nouvel ensemble UV nommé « UV\_Final ».
-Ne modifiez pas la forme, la topologie, l’ordre des sommets, les poids, les shape keys ni le rig.
-
-2. Observer le modèle et concevoir les seams
-Examinez chaque angle avec l’affichage de la texture d’origine et celui du wireframe afin de comprendre la construction des pièces du vêtement et l’emplacement réel des coutures.
-Pour les vêtements, ouvrez le maillage en suivant la structure du patron — corsage, manches, col, etc. — en utilisant notamment les coutures latérales et l’intérieur des manches. Sur la peau, les mains et les pieds, placez les seams dans des zones peu visibles, comme l’intérieur ou les côtés, et prévoyez une ouverture naturelle jusque dans les espaces entre les doigts.
-Ne prenez pas les plis ni les motifs imprimés pour des coutures et ne créez pas d’îlots inutilement fragmentés.
-
-3. Déplier par partie et corriger la distorsion
-N’effectuez pas le traitement en une seule fois sur l’ensemble du modèle : utilisez Unwrap partie par partie.
-À l’aide d’un damier avec texte référencé sur UV\_Final et de l’affichage Stretch, contrôlez l’étirement, la compression, la torsion, l’inversion et les chevauchements.
-Selon la cause du problème, ajoutez ou retirez des seams, puis ajustez les UV avec Pin, Relax ou des outils similaires avant de vérifier à nouveau. Ne vous contentez pas de répéter le même dépliage automatique : conservez les parties déjà améliorées.
-Ne considérez pas la subdivision automatique globale par Smart UV Project comme un résultat final.
-
-4. Régler le sens du tissu, la densité et l’agencement
-Pour les vêtements, alignez le sens principal du tissu, en vous basant sur le droit-fil de chaque pièce, sur la direction V des UV. Ne déformez pas de force les patrons courbes pour les transformer en rectangles.
-Uniformisez la densité de texels par rapport aux dimensions réelles et orientez les pièces de façon à faciliter l’identification des éléments gauche et droit.
-Packez ensuite les îlots dans la zone 0–1 en conservant leur orientation et leur échelle relative. Les superpositions gauche-droite et les rotations arbitraires sont interdites.
-Pour le bake en 4K, utilisez initialement une marge de 16 px, un espacement d’au moins 32 px entre les îlots et une marge d’au moins 16 px par rapport au bord de l’image.
-
-5. Baker en 4K des anciens UV vers les nouveaux
-Fixez explicitement la texture d’origine aux anciens UV comme source, utilisez UV\_Final comme cible du bake et transférez-la vers une nouvelle image de 4096 × 4096.
-Dans chaque matériau, activez le nœud d’image cible du bake, effectuez un test, puis lancez le bake final.
-Pour la couleur de base, utilisez uniquement la sortie Color de Diffuse ou Emit ; n’intégrez aucun nouvel éclairage, ombre ni AO. Conservez les ombres peintes dans l’image d’origine.
-Transférez également les maps existantes nécessaires, comme l’alpha, et rebakez les normales tangentes selon les nouveaux UV : il ne s’agit pas d’un simple transfert de couleurs.
-
-6. Vérifier le résultat par comparaison entre l’ancien et le nouveau
-Appliquez les nouveaux UV et les images bakées, puis comparez le corps entier et les détails dans les mêmes conditions d’affichage que l’original.
-Vérifiez la position des motifs, les couleurs, la transparence et la continuité des seams. Corrigez les UV écrasés, les chevauchements, les zones non dépliées, ainsi que les points noirs, manques et bavures du bake.
-Jugez que le résultat est terminé sur la base des contrôles effectués, et non du « nombre de dépliages ».
-
-Enregistrez le fichier terminé.blend, l’image 4K, la disposition UV et des images de vérification des seams, du damier et de l’apparence finale, puis résumez brièvement les principales corrections apportées.
-Ne vous contentez pas d’expliquer le plan : terminez réellement le travail en vérifiant les images au fur et à mesure.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098980384260456813) · [Publication originale](https://x.com/_sagyoai/status/2098980384260456813) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2099172061092381027"></a>
-
-### Segment jouable en 3D d’un quartier côtier dans le navigateur
-
-[Lummox](https://x.com/Lummox_eth) · 2026-09-13
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2099172061092381027"><img src="../assets/previews/f7beaa2f75393d632176cc10919ee4221cbba7b354677e202925812162b1e0e2.jpg" width="840" loading="lazy" alt="Segment jouable en 3D d’un quartier côtier dans le navigateur"></a>
-
-Une séquence de six prompts publiée par Lummox pour un segment 3D jouable dans le navigateur. Elle impose une stack composée de Vite, TypeScript vanilla, Three.js, cannon-es et Web Audio ; crée un quartier côtier au coucher du soleil ; met en scène trois personnes qui montent dans une voiture ; et précise le rythme de la séquence ainsi que la direction audio.
-
-**Prompt**
-
-```text
-> verrouiller la spécification (TZ-gta-slice.md)
-
-prompt: "Créez un segment 3D jouable dans le navigateur. Ne modifiez pas cette spécification une fois verrouillée. Le quartier et la séquence d’abord. Les contrôles ensuite."
-
-> la stack (Vite, TypeScript vanilla, Three.js, cannon-es, Web Audio)
-
-prompt: "La stack est imposée. Vite. TypeScript vanilla. Three.js. cannon-es. Web Audio. Une seule URL dans le navigateur."
-
-> le cadre (coucher de soleil sur l’eau, asphalte mouillé, palmiers)
-
-prompt: "Un seul quartier côtier. Un coucher de soleil sur l’eau. De l’asphalte mouillé. Des palmiers. Soignez la lumière et la caméra, pas le nombre de polygones. Pas de lumière grise par défaut. Pas de cubes nus."
-
-> les trois (une scène, une voiture, environ 20 secondes)
-
-prompt: "Gardez les trois personnages dans une seule scène. Ils parlent. Puis ils s’installent dans une seule voiture. Environ 20 secondes. Privilégiez la qualité à l’ajout de commandes."
-
-> la séquence (15 à 20 secondes, gardez-la fluide)
-
-prompt: "Si la lecture saccade, réduisez la séquence à 15 à 20 secondes. Gardez-la fluide. Si le nombre d’images par seconde baisse, retirez des piétons, pas de la lumière."
-
-> le son (voix humaines, nappe sous les répliques, grondement de voiture)
-
-prompt: "Les voix doivent sembler humaines, pas robotiques. Une nappe discrète sous les répliques, jamais par-dessus. Quand ils s’installent, ajoutez un grondement sourd de voiture, pas un son de scie. Aucun souffle radio."
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2099172061092381027) · [Publication originale](https://x.com/Lummox_eth/status/2099172061092381027) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2099359786865402019"></a>
-
-### Réimaginer le château de Peach en 3D
-
-[Romain Huet](https://x.com/romainhuet) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2099359786865402019"><img src="../assets/previews/e7a5ad638345dd08d471122be938b5ac89535f8153244ee59aea77fd486c67ff.jpg" width="840" loading="lazy" alt="Réimaginer le château de Peach en 3D"></a>
-
-L’auteur indique avoir demandé à Astra, dans Codex, de réimaginer le château de Peach en 3D et de créer une vidéo de survol. Dans un commentaire ultérieur, l’auteur précise que le projet comprenait un modèle Blender, une vue orbitale vérifiée de jour et au crépuscule, 88 vitres modélisées sur la fenêtre de Peach, ainsi qu’un intérieur au rez-de-chaussée.
-
-**Prompt**
-
-```text
-réimaginer le château de Peach en 3D et créer une vidéo de survol.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2099359786865402019) · [Publication originale](https://x.com/romainhuet/status/2099359786865402019) · [Retour aux exemples](#all-prompts)
 
 ---
 
@@ -3252,6 +3107,104 @@ Crée une visualisation three.js (pnpm) de toutes les Villes invisibles d’Ital
 
 ---
 
+<a id="2107872378218779067"></a>
+
+### Site web 3D de Lealand Tea animé au défilement
+
+[Baretto (tiny.host)⚡](https://x.com/_baretto) · 2026-10-07
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/lealand-tea-scroll-driven-3d-website"><img src="../assets/previews/0bccb8d77caf05401201d19d77479d5909d848bbc774e48d82b9fd3b4a72253e.jpg" width="840" loading="lazy" alt="Site web 3D de Lealand Tea animé au défilement"></a>
+
+Un prompt pour un site web 3D haut de gamme consacré au thé, interactif et animé au défilement, avec une tasse de thé flottante, une animation de versement, une caméra qui plonge dans un thé ambré, un menu interactif proposant du matcha, du jasmin et du hojicha, ainsi qu’un intérieur de café immersif.
+
+**Prompt**
+
+```text
+Créez un site web 3D haut de gamme pour Lealand Tea, animé au défilement. Utilisez des arrière-plans crème lumineux, une identité visuelle vert forêt, une lumière chaude et naturelle, une typographie élégante et un minimum de texte.
+
+La pièce maîtresse est une tasse de thé flottante réaliste. Au fil du défilement, son couvercle se soulève, le thé est versé à l’intérieur et la caméra se déplace avec fluidité au-dessus du bord avant de plonger dans la tasse. Le thé ambré tourbillonnant remplit l’écran avec des reflets réalistes, des ondulations et une légère vapeur. Poursuivez le défilement pour reculer et révéler des options de matcha, de jasmin et de hojicha dans un menu 3D interactif, puis un intérieur de café immersif.
+
+L’ensemble doit évoquer une seule animation produit cinématographique continue, et non une succession de sections statiques. Gardez un rendu épuré, soigné, responsive et visuellement riche, avec des mouvements fluides et des matériaux réalistes.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/lealand-tea-scroll-driven-3d-website) · [Publication originale](https://x.com/_baretto/status/2107872380047569238) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2107977531726934288"></a>
+
+### Diorama interactif de lagon WebGPU Atoll Jelly
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-07
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/atoll-jelly-interactive-webgpu-lagoon"><img src="../assets/previews/53274a36cc666dc02abce477fc383ef95c5a0a2432d7b18987da6d45ba57d3f4.jpg" width="840" loading="lazy" alt="Diorama interactif de lagon WebGPU Atoll Jelly"></a>
+
+Un prompt pour un diorama interactif autonome de lagon gélifié en WebGPU, situé aux Maldives. Il décrit un complexe sur un îlot, des bungalows sur pilotis, un hydravion avec un cycle complet de vol et d’atterrissage, des poissons et des raies de récif, des bouées gonflables, une simulation d’eau peu profonde et des commandes tactiles d’orbite.
+
+**Prompt**
+
+```text
+Créer « Atoll Jelly » — un seul fichier HTML autonome, WebGPU natif + WGSL, simulation en JS pur, sans requête externe. Une création de la série éditoriale « ÉTUDES DE MATIÈRE », consacrée aux dioramas interactifs en gelée : un bloc carré découpé de lagon turquoise gélifié aux Maldives, avec un îlot planté de palmiers, un ponton bordé de bungalows sur pilotis, un hydravion qui suit son propre cycle quotidien et une faune de récif sous la gelée.
+
+PAGE : papier chaud (#ece9e3), encre #241f1d, accent #12a2a6, H1 serif italique « Atoll / Jelly », surtitre « ÉTUDES DE MATIÈRE », légende « Six bungalows sur pilotis, un hydravion qui va et vient et des raies aigles qui glissent dans la gelée, en dessous. » Pastille d’état « WEBGPU · EN DIRECT ». Panneau vitré à droite : « LE LAGON », avec trois boutons sombres « Hydravion », « Nourrir les poissons », « Faire flotter la bouée », une jauge fine, le compteur « Atterrissages · Nourris · À flot » ; échantillons « SAVEUR » Turquoise / Saphir / Citron vert ; curseurs Fermeté, Amortissement des vagues, Marée (±10 cm) ; Réinitialiser · Pause · Réinitialiser la vue. En bas à gauche, « COMMENT JOUER » : « Agitez le lagon. Nourrissez les poissons. Faites signe à l’hydravion. » + une ligne grise indiquant les gestes. Panneau inférieur sur mobile, orbite/pincement tactile, carte de repli WebGPU, aucun défilement, aucune erreur dans la console.
+
+SCÈNE (bloc 5.2², niveau de la mer 1.3) : lagon de sable blanc d’environ 0,3 de profondeur, descendant vers un « trou bleu » profond près du coin avant ; huit massifs coralliens (bosses) ornés de coraux cerveaux, de coraux branchus et de gorgones roses/violettes/orange/jaunes/bleu sarcelle, qui se balancent légèrement ; un îlot de sable dans le coin arrière gauche (anneau de plage, petite butte boisée, arbustes gélifiés, deux parasols en chaume avec transats) avec 8 cocotiers luxuriants (16 palmes pennées arquées chacun + des palmes sèches pendantes) ; un pavillon de réception ouvert sous un grand toit de chaume à croupes. Un ponton en planches sur de fins pilotis part de l’îlot et traverse le lagon en diagonale, bordé de petits lampadaires ; cinq bungalows s’y accrochent en alternance de chaque côté, plus un modèle plus grand à l’extrémité : terrasses en planches sur pilotis, huttes en bois clair avec portes vitrées donnant sur la mer, toits de chaume à croupes (texture de paille en bandes), bassin privé, deux transats et échelle en acier descendant dans l’eau. Un ponton flottant pour hydravion avec un minuscule abri en chaume, relié à la plage sud de l’îlot par une passerelle sur pilotis. Les faces découpées du bloc révèlent des strates de confiserie (sable, bande de coquillages, caramel, chocolat) sous des parois de gelée translucides.
+
+EAU (comme dans « Island Jelly ») : simulation linéaire d’eau peu profonde (grille décalée de 168², 120 Hz, vitesse des vagues √(g·profondeur), faible tension superficielle, amortissement), agitation au doigt, inclinaison du bloc avec clapot, volumes déplacés manuellement par les objets flottants vers la mer, cratères d’éclaboussures + bulles, champ d’écume (eau blanche qui s’estompe et forme des filaments), caustiques, rais de lumière, réfraction, absorption des teintes selon Beer–Lambert, dentelle de bord de rive.
+
+HYDRAVION (appareil bimoteur à flotteurs : blanc avec ligne décorative bleu sarcelle, aile haute aux extrémités bleu sarcelle, haubans, deux flotteurs, hélices à 3 pales tournant dans le vertex shader) : une boucle quotidienne fixe — attendre au ponton → pivoter de 180° sur ses flotteurs → quitter le ponton en taxi → course au décollage (gerbe d’eau) → montée → circuit en hippodrome autour du diorama à une hauteur d’environ 3,1 avec inclinaison en virage → approche → toucher des roues avec cratère, eau blanche et à-coup → course d’atterrissage → virage → retour en taxi jusqu’au ponton. Sur l’eau, il se comporte comme sur de la gelée : quatre échantillons de flotteurs déterminent sa hauteur, son tangage et son roulis ; ses flotteurs injectent du volume dans la simulation (sillage) et produisent de l’écume. Bouton « Hydravion » : partir immédiatement s’il attend, ou accélérer le circuit pour atterrir plus tôt. Compter les atterrissages.
+
+FAUNE DU RÉCIF : 42 poissons régis par boids, répartis en quatre variétés de couleurs (chirurgiens jaunes, bleus à queue jaune, rayés noir et blanc, orange à barres blanches), qui se regroupent avec leurs congénères, se déplacent au hasard et restent dans l’eau (au-dessus du fond, sous la surface, hors des hauts-fonds, à l’intérieur du bloc) ; leurs queues battent dans le vertex shader ; 3 raies aigles tachetées glissent près du fond, leurs ailes ondulant comme des vagues et leurs queues fouettant l’eau. Un doigt dans l’eau, n’importe quelle éclaboussure ou le passage rapide des flotteurs de l’hydravion les disperse. « Nourrir les poissons » disperse 16 granulés qui flottent puis coulent ; poissons et raies se dirigent vers eux et les mangent (comptabilisés dans « Nourris »).
+
+BOUÉES GONFLABLES : bouées rayées façon confiserie (rose / orange / bleu avec blanc) — légères, très flottantes, à plat sur les vagues, amorties pour ne jamais sortir de la gelée, repoussées par l’hydravion ; les saisir et les lancer ; elles peuvent aussi atterrir sur les terrasses et la plage.
+
+QA : exposer window.__aj ; vérifier le cycle complet de l’hydravion et un atterrissage, une altitude > 2.8, des flotteurs qui suivent la surface, l’écume et les vagues au toucher des roues, des poissons toujours dans l’eau, le nourrissage qui attire les poissons et leur permet de manger, un doigt qui disperse un banc, des bouées flottant à plat, l’agitation qui crée des vagues puis s’amortit, l’inclinaison qui provoque un clapot puis se stabilise, les saveurs/curseurs/pause/orbite/zoom, les tests de charge, une simulation < 5 ms, aucun réseau, aucune erreur, le mobile et le repli.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/atoll-jelly-interactive-webgpu-lagoon) · [Publication originale](https://x.com/vib3coded/status/2107977713415864782) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2108096737537929361"></a>
+
+### Labo de gelée interactif Three.js avec physique d’écrasement par glisser-déposer
+
+[AIHubmix](https://x.com/AiHubMix) · 2026-10-08
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/interactive-threejs-jelly-lab-physics"><img src="../assets/previews/a32e7ceb1020088902336a8b96eda137725bced2c56b2ec267019f823d95fadf.jpg" width="840" loading="lazy" alt="Labo de gelée interactif Three.js avec physique d’écrasement par glisser-déposer"></a>
+
+Une publication de benchmark indique que le même prompt a été exécuté avec Haiku 5.5, Haiku 4.5 et GPT‑6 Luna. Le résultat demandé est un labo de gelée interactif Three.js avec déformation locale et physique d’écrasement par glisser-déposer.
+
+**Prompt**
+
+```text
+concevoir un labo de gelée interactif Three.js avec déformation locale et physique d’écrasement par glisser-déposer
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/interactive-threejs-jelly-lab-physics) · [Publication originale](https://x.com/AiHubMix/status/2108096737537929361) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2108203260058259830"></a>
+
+### Monde 3D en voxels représentant un pélican à vélo
+
+[filipe](https://x.com/filicroval) · 2026-10-08
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/pelican-riding-bike-voxel-world"><img src="../assets/previews/a8173271188e803338055cd93996d41ba0c29535275302295b0945fb118311b8.jpg" width="840" loading="lazy" alt="Monde 3D en voxels représentant un pélican à vélo"></a>
+
+Une publication comparative indique qu’il s’agit du même prompt que celui utilisé avec Haiku 5.5 et GPT-6 Luna. Le prompt demande un monde 3D en voxels mettant en scène un pélican à vélo.
+
+**Prompt**
+
+```text
+Créez un monde 3D en voxels représentant un pélican à vélo, avec le meilleur résultat possible.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/pelican-riding-bike-voxel-world) · [Publication originale](https://x.com/filicroval/status/2108203260058259830) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D : Défense de chars sans fin
@@ -3381,7 +3334,15 @@ Livrer un projet source autonome et modifiable, un fichier de verrouillage, les 
 
 [jared](https://x.com/jaredliu_bravo) · 2026-10-08
 
-<a href="https://www.tripo3d.ai/fr/3d-prompts/jelly-villa"><img src="../assets/previews/d89de585b8c44c48612e912fff0c35c56c9bed0a69eccc11498b0fd2c5f7f01c.png" width="840" loading="lazy" alt="Villa en gelée"></a>
+<a href="https://www.tripo3d.ai/fr/3d-prompts/jelly-villa"><img src="../assets/previews/1e141aa60aaedc2e655f2a8240ca9559a6f42b3deec491818aa0d77363cc175f.png" width="840" loading="lazy" alt="Villa en gelée"></a>
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/jelly-villa"><img src="../assets/previews/49b4d5a6e6ea8dc12784b5ef9c36c2c15cf29643fe451526e5d48befe1b7b2f2.png" width="840" loading="lazy" alt="Villa en gelée"></a>
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/jelly-villa"><img src="../assets/previews/7d9dc2c3a075894a82a022de3bd8dab925c534e7b3c53afe341d4df6ab70662e.png" width="840" loading="lazy" alt="Villa en gelée"></a>
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/jelly-villa"><img src="../assets/previews/9037183297fa632c5ed5d653f2350baeac3fe1d448187b5741986c14b9b6a4d2.png" width="840" loading="lazy" alt="Villa en gelée"></a>
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/jelly-villa"><img src="../assets/previews/57a43e896b3aea5a46d993d9d46de50447a8c54905b683f4b44bc1b21f6550eb.png" width="840" loading="lazy" alt="Villa en gelée"></a>
 
 Remuez une mer de gelée aux couleurs de joyaux, tractez un yacht miniature et courbez les palmiers autour d’une villa tropicale. Passez d’un décor généré par le code aux véritables modèles Tripo P2 de la villa et du yacht, au sein d’une même île vivante.
 
@@ -3699,7 +3660,7 @@ Livrez le code source, le lockfile, les commandes npm de développement/build et
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 321 exemples sur le site officiel →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 325 exemples sur le site officiel →</a></strong></p>
 <p><sub>Pour préserver la fluidité du rendu du README sur GitHub, seuls les 100 exemples les plus récents sont affichés ici.</sub></p>
 <br>
 </td></tr>

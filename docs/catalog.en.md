@@ -29,7 +29,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**321 examples · 14 languages · 12 examples with source code**
+**325 examples · 14 languages · 12 examples with source code**
 
 ## Featured projects
 
@@ -51,11 +51,7 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 <details>
 <summary>Browse examples</summary>
 
-- [Interactive 3D Anatomy Explorer](#2099206962344800541) · GitHub
 - [Isometric fantasy graphics demo](#2100271998618177864) · GitHub
-- [UV Unwrapping and 4K Rebaking for a Headless Clothing Model](#2098980384260456813)
-- [Playable 3D browser shore-district slice](#2099172061092381027)
-- [Reimagine Peach’s Castle in 3D](#2099359786865402019)
 - [Autonomous Model Railway With Collision Avoidance](#2099362575339372780)
 - [Playable 3D Obstacle Course](#2099419671481249851)
 - [Interactive 3D Samurai Forest Scene](#2099450933067612421)
@@ -144,6 +140,10 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Plush Squid.](#2107533363808485534)
 - [Villa Jelly](#2107617244301664483)
 - [Three.js visualization of Invisible Cities](#2107824019999535226)
+- [Scroll-Driven 3D Website for Lealand Tea](#2107872378218779067)
+- [Atoll Jelly interactive WebGPU lagoon diorama](#2107977531726934288)
+- [Interactive Three.js jelly lab with drag-to-squish physics](#2108096737537929361)
+- [3D voxel world of a pelican riding a bike](#2108203260058259830)
 - [Battle City 3D: Endless Tank Defense](#battle-city-3d)
 - [Crazy Tanks — 3D Island Artillery](#crazy-tanks-3d-island-artillery)
 - [Jelly Villa](#jelly-villa)
@@ -153,32 +153,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [The Cyclops' Island](#cyclops-island-threejs-game)
 
 </details>
-
-<a id="2099206962344800541"></a>
-
-### Interactive 3D Anatomy Explorer
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-13
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2099206962344800541"><img src="../assets/previews/71786191f6fb99e7d8e2b1cc4679b12bb2aaf5dd1c19ae8433692e1dc0e74a92.jpg" width="840" loading="lazy" alt="Interactive 3D Anatomy Explorer"></a>
-
-The author shared this as a recommended starting prompt for building a version like their interactive Brain Cat website. It requests a responsive 3D anatomy explorer with transparent reveal, rotation, structure separation, labeled regions, layer controls, animated educational signals, and scientific-source attribution.
-
-**Prompt**
-
-```text
-Build a beautiful, interactive 3D anatomy explorer using publicly available scientific datasets. Start with an external view that gradually becomes transparent as I zoom in, revealing the anatomy underneath.
-
-Let me rotate the model, separate structures, select labeled regions, and toggle layers from a side panel. Add separate tabs for anatomy, connections, and individual cells, with animated signals and adjustable controls.
-
-Use a modern, minimal interface with soft lighting, smooth transitions, subtle colors, and very little text. Include arrows and a short visual tutorial. Make it work on desktop and mobile.
-
-Use real anatomical geometry where available, cite the sources, and clearly distinguish scientific data from illustrative animations. Build a working website.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2099206962344800541) · [Original post](https://x.com/k1rallik/status/2099206962344800541) · [Source code](https://github.com/bubblik525/cat_brain_anatomy) · [Back to examples](#all-prompts)
-
----
 
 <a id="2100271998618177864"></a>
 
@@ -197,125 +171,6 @@ Build me a graphics demo: isometric camera, voxel-ish art style with realistic s
 ```
 
 [View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100271998618177864) · [Original post](https://github.com/achimala/dream-loop) · [Source code](https://github.com/achimala/dream-loop) · [Back to examples](#all-prompts)
-
----
-
-<a id="2098980384260456813"></a>
-
-### UV Unwrapping and 4K Rebaking for a Headless Clothing Model
-
-[さ🥺](https://x.com/_sagyoai) · 2026-09-13
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098980384260456813"><img src="../assets/previews/fef1ae0d7a4818588b5aa244450941a5fc54a6e3707a2985c78021a3b6c8b7c7.jpg" width="840" loading="lazy" alt="UV Unwrapping and 4K Rebaking for a Headless Clothing Model"></a>
-
-A prompt for re-unwrapping a selected headless 3D model containing clothing, hands, and feet into UVs that are easy to read and repaint, then rebaking the existing textures at 4K. It preserves the original data while covering seam design, distortion checks, packing, and side-by-side verification.
-
-**Prompt**
-
-```text
-Using Blender MCP, unwrap the selected “headless model containing clothing, hands, and feet” and rebake its existing textures at 4K.
-
-The goal is to preserve the original appearance and create UVs whose structure is easy to read and repaint later, like clothing patterns. Work like a human artist, following this order: observe → design seams → unwrap by region → correct distortion → arrange → bake.
-
-1. Preserve the original data
-Save a copy under a new name before starting. Keep the old UVs, images, and materials, and create a new UV map named “UV\_Final.”
-Do not change the shape, topology, vertex order, weights, shape keys, or rig.
-
-2. Inspect the model and design seams
-Inspect the model from every direction with the original texture displayed and the wireframe visible. Identify the clothing parts and the actual seam locations.
-For clothing, follow the pattern structure of the bodice, sleeves, collar, and other parts, opening the mesh along areas such as side seams and the inside of sleeves. Place seams on the skin, hands, and feet in less noticeable areas such as the inner or side surfaces, and arrange them so the spaces between the fingers can be opened without undue strain.
-Do not mistake wrinkles or printed designs for seams, and do not create unnecessary fragmented islands.
-
-3. Unwrap by region and correct distortion
-Unwrap each region separately instead of processing the entire model as one piece.
-Using a checker texture with text that references UV\_Final and the Stretch display, check for stretching, compression, twisting, flipping, and overlaps.
-Add or clear seams according to the cause of each problem, adjust with tools such as Pin and Relax, and check again. Do not simply repeat the same automatic unwrap; preserve regions that have already been improved.
-Do not treat a full-model automatic subdivision with Smart UV Project as the finished result.
-
-4. Align grain, texel density, and placement
-For clothing, use the fabric grain of each piece as a guide and align its primary vertical direction with the V direction of the UVs. Do not forcibly reshape curved patterns into rectangles.
-Match the texel density relative to real-world size, and orient the pieces so corresponding left and right sides are easy to identify.
-Then pack them into the 0–1 space while maintaining their orientation and relative scale. Do not overlap left and right pieces or rotate them arbitrarily.
-For 4K, use an initial margin of 16 px around the bake, at least 32 px between islands, and at least 16 px from the image borders.
-
-5. Bake from the old UVs to the new UVs at 4K
-Explicitly set the original texture references to use the old UVs, set UV\_Final as the bake target, and transfer them to a new 4096×4096 image.
-Activate the bake-target image node in each material, perform a test bake, and then run the final bake.
-For the base color, use only Diffuse Color or Emit. Do not bake in new lighting, shadows, or AO. Preserve the shading drawn in the original images.
-Transfer existing maps such as alpha as needed. Rebake tangent-space normals based on the new UVs rather than treating them as simple color transfers.
-
-6. Verify the result by comparing old and new versions
-Apply the new UVs and baked images, then compare the full model and details under the same display conditions as the original.
-Check the placement, color, transparency, and seam continuity of patterns. Correct collapsed or overlapping UVs, missing unwraps, and bake artifacts such as black spots, gaps, and bleeding.
-Judge completion by the inspection results, not by how many times the model was unwrapped.
-
-Save completed.blend, the 4K images, the UV layout, and reference images showing the seams, checker texture, and final appearance. Briefly report the main corrections made.
-Do not stop at explaining the plan; complete the work while inspecting the actual images.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2098980384260456813) · [Original post](https://x.com/_sagyoai/status/2098980384260456813) · [Back to examples](#all-prompts)
-
----
-
-<a id="2099172061092381027"></a>
-
-### Playable 3D browser shore-district slice
-
-[Lummox](https://x.com/Lummox_eth) · 2026-09-13
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2099172061092381027"><img src="../assets/previews/f7beaa2f75393d632176cc10919ee4221cbba7b354677e202925812162b1e0e2.jpg" width="840" loading="lazy" alt="Playable 3D browser shore-district slice"></a>
-
-A six-step prompt sequence posted by Lummox for a playable 3D browser slice. It fixes a Vite, vanilla TypeScript, Three.js, cannon-es, and Web Audio stack; builds a sunset shore district; stages three people entering a car; and specifies clip pacing and audio.
-
-**Prompt**
-
-```text
-> lock the spec (TZ-gta-slice.md)
-
-prompt: "Build a playable 3D browser slice. Do not change this spec once it is locked. District and clip first. Controls after."
-
-> the stack (Vite, vanilla TypeScript, Three.js, cannon-es, Web Audio)
-
-prompt: "Stack is fixed. Vite. vanilla TypeScript. Three.js. cannon-es. Web Audio. One browser URL."
-
-> the frame (sunset over the water, wet asphalt, palms)
-
-prompt: "One shore district. Sunset over the water. Wet asphalt. Palms. Hold the frame on light and camera, not poly count. No default gray light. No naked cubes."
-
-> the three (one scene, one car, about 20 seconds)
-
-prompt: "Keep the three in one scene. They talk. Then they sit in one car. About 20 seconds. Quality over extra switches."
-
-> the cut (15 to 20 seconds, keep it smooth)
-
-prompt: "If it lags, cut the clip to 15 to 20 seconds. Keep it smooth. If the frame drops, cut pedestrians, not the light."
-
-> the sound (human voices, pad under the lines, car rumble)
-
-prompt: "Voices must sound human, not robot. Quiet pad under the lines, never over them. When they sit, low car rumble, not a saw. No radio hiss."
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2099172061092381027) · [Original post](https://x.com/Lummox_eth/status/2099172061092381027) · [Back to examples](#all-prompts)
-
----
-
-<a id="2099359786865402019"></a>
-
-### Reimagine Peach’s Castle in 3D
-
-[Romain Huet](https://x.com/romainhuet) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2099359786865402019"><img src="../assets/previews/e7a5ad638345dd08d471122be938b5ac89535f8153244ee59aea77fd486c67ff.jpg" width="840" loading="lazy" alt="Reimagine Peach’s Castle in 3D"></a>
-
-The author says they asked Astra in Codex to reimagine Peach’s Castle in 3D and create a fly-by video. In a follow-up comment, the author says the work included a Blender model, an orbit checked in daylight and at dusk, 88 modeled glass panes in Peach’s window, and a ground-floor interior.
-
-**Prompt**
-
-```text
-reimagine Peach’s Castle in 3D and create a fly-by video.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2099359786865402019) · [Original post](https://x.com/romainhuet/status/2099359786865402019) · [Back to examples](#all-prompts)
 
 ---
 
@@ -3293,6 +3148,104 @@ Make a three.js (pnpm) visualization of all Invisible Cities by Italo Calvino. D
 
 ---
 
+<a id="2107872378218779067"></a>
+
+### Scroll-Driven 3D Website for Lealand Tea
+
+[Baretto (tiny.host)⚡](https://x.com/_baretto) · 2026-10-07
+
+<a href="https://www.tripo3d.ai/3d-prompts/lealand-tea-scroll-driven-3d-website"><img src="../assets/previews/0bccb8d77caf05401201d19d77479d5909d848bbc774e48d82b9fd3b4a72253e.jpg" width="840" loading="lazy" alt="Scroll-Driven 3D Website for Lealand Tea"></a>
+
+A prompt for a premium scroll-driven interactive 3D tea website with a floating tea cup, pouring animation, camera dive into amber tea, an interactive menu for matcha, jasmine and hojicha, and an immersive café interior.
+
+**Prompt**
+
+```text
+Create a premium, scroll-driven 3D website for Lealand Tea. Use bright cream backgrounds, forest-green branding, warm sunlight, elegant typography, and minimal copy.
+
+The centerpiece is a realistic floating tea cup. As you scroll, its lid lifts, tea pours inside, and the camera smoothly moves over the rim and dives into the cup. Swirling amber tea fills the screen with realistic reflections, ripples, and subtle steam. Continue scrolling to pull back and reveal matcha, jasmine, and hojicha options in an interactive 3D menu, followed by an immersive café interior.
+
+Make it feel like one continuous cinematic product animation—not separate static sections. Keep it clean, polished, responsive, and visually rich, with smooth motion and realistic materials.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/lealand-tea-scroll-driven-3d-website) · [Original post](https://x.com/_baretto/status/2107872380047569238) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2107977531726934288"></a>
+
+### Atoll Jelly interactive WebGPU lagoon diorama
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-07
+
+<a href="https://www.tripo3d.ai/3d-prompts/atoll-jelly-interactive-webgpu-lagoon"><img src="../assets/previews/53274a36cc666dc02abce477fc383ef95c5a0a2432d7b18987da6d45ba57d3f4.jpg" width="840" loading="lazy" alt="Atoll Jelly interactive WebGPU lagoon diorama"></a>
+
+A prompt for a self-contained interactive WebGPU jelly-lagoon diorama set in the Maldives. It specifies an islet resort, overwater bungalows, a seaplane with a complete flight-and-landing cycle, reef fish and rays, floating rings, shallow-water simulation, and touch-orbit controls.
+
+**Prompt**
+
+```text
+Build "Atoll Jelly" — one self-contained HTML file, native WebGPU + WGSL, sim in plain JS, no external requests. An entry in the editorial "MATERIAL STUDIES" series of interactive jelly dioramas: a square cut-out block of turquoise jelly lagoon in the Maldives with a palm islet, a jetty of overwater bungalows, a seaplane that runs its own day, and reef life under the jelly.
+
+PAGE: warm paper (#ece9e3), ink #241f1d, accent #12a2a6, italic serif H1 "Atoll / Jelly.", eyebrow "MATERIAL STUDIES", caption "Six bungalows on stilts, a seaplane that comes and goes, and eagle rays gliding through the jelly below." Status pill "WEBGPU · LIVE". Right glass panel: "THE LAGOON" with three dark buttons "Seaplane", "Feed the fish", "Float ring", a thin meter, tally "Landings · Fed · Afloat"; "FLAVOUR" swatches Turquoise / Sapphire / Lime; sliders Firmness, Wave damping, Tide (±10 cm); Reset · Pause · Reset view. Bottom-left "HOW TO PLAY": "Stir the lagoon. Feed the fish. Wave the seaplane off." + one grey line of gestures. Mobile bottom sheet, touch orbit/pinch, WebGPU fallback card, no scroll, no console errors.
+
+SCENE (block 5.2², sea level 1.3): white-sand lagoon ~0.3 deep sloping into a deep "blue hole" near the front corner; eight coral heads (bumps) dressed with brain corals, branching corals and sea fans in pink/purple/orange/yellow/teal that sway slightly; a sandy islet in the back-left corner (beach ring, low wooded hump, gummy shrubs, two thatched parasols with loungers) with 8 lush coconut palms (16 arching pinnate fronds each + dry hanging fronds); an open lobby pavilion under a big hipped thatch roof. A plank jetty on thin stilts runs from the islet diagonally across the lagoon with low lamp posts; five bungalows hang off it on alternating sides plus a larger one at the end: plank decks on stilts, pale timber huts with glass doors to the sea, hipped thatched roofs (banded straw texture), plunge pool, two loungers, a steel ladder into the water. A floating seaplane pontoon with a tiny thatched shade, linked to the islet's south beach by a stilted walk. Block cut faces show candy strata (sand, shell band, caramel, chocolate) under translucent jelly walls.
+
+WATER (as "Island Jelly"): linear shallow-water sim (168² staggered grid, 120 Hz, √(g·depth) wave speed, small surface tension, damping), finger stirring, block tilting with slosh, floating bodies hand displaced volume back to the sea, splash craters + bubbles, a foam field (white water that fades and laces), caustics, light shafts, refraction, Beer–Lambert flavour absorption, shoreline lace.
+
+SEAPLANE (twin-engine floatplane: white with teal cheatline, high wing with teal tips, struts, twin floats, 3-bladed propellers spinning in the vertex shader): a fixed daily loop — wait at the pontoon → pivot 180° on its floats → taxi out → take-off run (spray) → climb → a racetrack circuit around the diorama at ~3.1 height with banking → approach → touchdown with crater, white water and a jolt → landing run → turn → taxi back to the pontoon. On water it rides the jelly: four float samples set height, pitch and roll; its floats push volume into the sim (wake) and foam. "Seaplane" button: leave now if waiting, or hurry the circuit to land early. Counts landings.
+
+REEF LIFE: 42 boids fish in four colour kinds (yellow tang, blue with yellow tail, black-white banded, orange with white bars), schooling with their own kind, wandering, kept in the water (off the floor, under the surface, out of the shallows, inside the block), tails beating in the vertex shader; 3 spotted eagle rays gliding near the floor with wave-flapping wings and whip tails. A finger in the water, any splash, or the seaplane's floats rushing by scatter them. "Feed the fish" scatters 16 pellets that float, then sink; fish and rays home in and eat them (counted as Fed).
+
+FLOAT RINGS: inflatable candy-striped rings (pink / orange / blue with white) — light, float high, lie flat on the waves, damped so they never pop out of the jelly, shoved aside by the seaplane; pick up and throw; land on decks and beach too.
+
+QA: hook window.__aj; checks for the full seaplane cycle and one landing, altitude > 2.8, floats riding the surface, touchdown foam + waves, fish always in water, feeding brings fish and gets eaten, a finger scatters a school, rings float flat, stirring makes waves that die down, tilt sloshes and settles, flavours/sliders/pause/orbit/zoom, stress, sim < 5 ms, no network, no errors, mobile, fallback.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/atoll-jelly-interactive-webgpu-lagoon) · [Original post](https://x.com/vib3coded/status/2107977713415864782) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2108096737537929361"></a>
+
+### Interactive Three.js jelly lab with drag-to-squish physics
+
+[AIHubmix](https://x.com/AiHubMix) · 2026-10-08
+
+<a href="https://www.tripo3d.ai/3d-prompts/interactive-threejs-jelly-lab-physics"><img src="../assets/previews/a32e7ceb1020088902336a8b96eda137725bced2c56b2ec267019f823d95fadf.jpg" width="840" loading="lazy" alt="Interactive Three.js jelly lab with drag-to-squish physics"></a>
+
+A benchmark post states that the same prompt was run on Haiku 5.5, Haiku 4.5, and GPT‑6 Luna. The requested result is an interactive Three.js jelly lab with local deformation and drag-to-squish physics.
+
+**Prompt**
+
+```text
+build an interactive Three.js jelly lab with local deformation &amp; drag-to-squish physics
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/interactive-threejs-jelly-lab-physics) · [Original post](https://x.com/AiHubMix/status/2108096737537929361) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2108203260058259830"></a>
+
+### 3D voxel world of a pelican riding a bike
+
+[filipe](https://x.com/filicroval) · 2026-10-08
+
+<a href="https://www.tripo3d.ai/3d-prompts/pelican-riding-bike-voxel-world"><img src="../assets/previews/a8173271188e803338055cd93996d41ba0c29535275302295b0945fb118311b8.jpg" width="840" loading="lazy" alt="3D voxel world of a pelican riding a bike"></a>
+
+A comparison post states that this was the same prompt used with Haiku 5.5 and GPT-6 Luna. The prompt requests a 3D voxel world featuring a pelican riding a bike.
+
+**Prompt**
+
+```text
+make a 3D voxel world of a pelican riding a bike, as good as you can
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/pelican-riding-bike-voxel-world) · [Original post](https://x.com/filicroval/status/2108203260058259830) · [Back to examples](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Endless Tank Defense
@@ -3422,7 +3375,15 @@ Deliver an editable standalone source project, lockfile, npm dev/build instructi
 
 [jared](https://x.com/jaredliu_bravo) · 2026-10-08
 
-<a href="https://www.tripo3d.ai/3d-prompts/jelly-villa"><img src="../assets/previews/d89de585b8c44c48612e912fff0c35c56c9bed0a69eccc11498b0fd2c5f7f01c.png" width="840" loading="lazy" alt="Jelly Villa"></a>
+<a href="https://www.tripo3d.ai/3d-prompts/jelly-villa"><img src="../assets/previews/1e141aa60aaedc2e655f2a8240ca9559a6f42b3deec491818aa0d77363cc175f.png" width="840" loading="lazy" alt="Jelly Villa"></a>
+
+<a href="https://www.tripo3d.ai/3d-prompts/jelly-villa"><img src="../assets/previews/49b4d5a6e6ea8dc12784b5ef9c36c2c15cf29643fe451526e5d48befe1b7b2f2.png" width="840" loading="lazy" alt="Jelly Villa"></a>
+
+<a href="https://www.tripo3d.ai/3d-prompts/jelly-villa"><img src="../assets/previews/7d9dc2c3a075894a82a022de3bd8dab925c534e7b3c53afe341d4df6ab70662e.png" width="840" loading="lazy" alt="Jelly Villa"></a>
+
+<a href="https://www.tripo3d.ai/3d-prompts/jelly-villa"><img src="../assets/previews/9037183297fa632c5ed5d653f2350baeac3fe1d448187b5741986c14b9b6a4d2.png" width="840" loading="lazy" alt="Jelly Villa"></a>
+
+<a href="https://www.tripo3d.ai/3d-prompts/jelly-villa"><img src="../assets/previews/57a43e896b3aea5a46d993d9d46de50447a8c54905b683f4b44bc1b21f6550eb.png" width="840" loading="lazy" alt="Jelly Villa"></a>
 
 Stir a jewel-toned jelly sea, tow a miniature yacht and bend the palms around a tropical villa. Slide between code-built scenery and real Tripo P2 villa and yacht models in the same living island.
 
@@ -3740,7 +3701,7 @@ Deliver source, lockfile, npm development/build commands and static output. Veri
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 321 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 325 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>
