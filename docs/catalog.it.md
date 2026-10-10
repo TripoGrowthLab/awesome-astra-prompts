@@ -28,7 +28,7 @@
 **Un punto di partenza per il tuo prossimo gioco, scena o mondo interattivo.**
 
 
-**325 · Prompt Astra più recenti**
+**332 · Prompt Astra più recenti**
 
 ## Progetti in evidenza
 
@@ -51,13 +51,6 @@
 <summary>Esplora gli esempi</summary>
 
 - [Demo di grafica fantasy isometrica](#2100271998618177864) · GitHub
-- [Ferrovia in miniatura autonoma con prevenzione delle collisioni](#2099362575339372780)
-- [Percorso a ostacoli 3D giocabile](#2099419671481249851)
-- [Scena 3D interattiva nella foresta con un samurai](#2099450933067612421)
-- [Modello di conifera con un massimo di 200 poligoni](#2099472264270102705)
-- [Mondo 3D pieno di grattacieli altissimi](#2099487024256589970)
-- [Il guerriero scala un gigante e lo colpisce alla mascella](#2099519801139908951)
-- [Crea una scena di corridoio d'hotel](#2099588840419651890)
 - [Isola vulcanica interattiva con barche in fuga](#2099643231659012553)
 - [Pannello interattivo del sistema nervoso di un organismo 3D](#2099719427990134984)
 - [Cuore 3D in stile Apple ed emoji sorridente](#2099750376530657300)
@@ -143,6 +136,13 @@
 - [Diorama interattivo della laguna WebGPU Atoll Jelly](#2107977531726934288)
 - [Laboratorio interattivo di gelatina in Three.js con fisica di deformazione tramite trascinamento](#2108096737537929361)
 - [Mondo voxel 3D con un pellicano in bicicletta](#2108203260058259830)
+- [Diorama WebGPU interattivo Pirate Jelly](#2108336208891801999)
+- [Presentazione cinematografica 3D dello smartwatch ORBIT](#2108438685184401904)
+- [Motore a reazione 3D interattivo per l’apprendimento](#2108459952683811167)
+- [Presentazione visiva 3D dettagliata dell'AH-64E Apache Guardian](#2108475056082850278)
+- [Tastiera interattiva di miele](#2108501256067285443)
+- [Esperienza interattiva con dadi gommosi 3D](#2108505251036774875)
+- [Isola neon fluttuante interattiva](#2108574047948656981)
 - [Battle City 3D: Difesa infinita con i carri armati](#battle-city-3d)
 - [Crazy Tanks — Artiglieria 3D sulle isole](#crazy-tanks-3d-island-artillery)
 - [Jelly Villa](#jelly-villa)
@@ -170,241 +170,6 @@ Realizza una demo grafica: telecamera isometrica, stile artistico simile ai voxe
 ```
 
 [Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100271998618177864) · [Post originale](https://github.com/achimala/dream-loop) · [Codice sorgente](https://github.com/achimala/dream-loop) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="2099362575339372780"></a>
-
-### Ferrovia in miniatura autonoma con prevenzione delle collisioni
-
-[AI Guides](https://x.com/free_ai_guides) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099362575339372780"><img src="../assets/previews/71207bef30c1d03e3a6d1b9901b86283ff784be11dbe153eb9d9243cd1b2a1bc.jpg" width="840" loading="lazy" alt="Ferrovia in miniatura autonoma con prevenzione delle collisioni"></a>
-
-Una simulazione di ferrovia in miniatura a funzionamento autonomo, con almeno tre treni su binari condivisi. I treni gestiscono autonomamente scambi e segnali per evitare collisioni, lasciando al modello tutte le decisioni relative al design visivo. L’autore dichiara di aver fornito questo identico prompt sia a Fable 5.1 sia a GPT-6 Astra.
-
-**Prompt**
-
-```text
-Crea una ferrovia in miniatura con almeno tre treni in movimento contemporaneamente su un tracciato condiviso che includa scambi e segnali. I treni devono cambiare binario e fermarsi ai segnali autonomamente, in modo da non entrare mai in collisione e senza alcun input da parte dell’utente. La configurazione del tracciato, l’ambientazione e l’aspetto di ogni elemento sono lasciati a te. Ogni scelta di design spetta a te: stile, colori, atmosfera, ambiente, inquadratura, livello di dettaglio ed eventuali elementi aggiuntivi. Non farmi domande: prendi tu ogni decisione e realizza la versione più spettacolare possibile in un unico tentativo. Requisiti tecnici: un unico file HTML autonomo e completo, senza modelli 3D, immagini, suoni o URL di risorse esterne di alcun tipo (è consentita una libreria JavaScript caricata da una CDN). Deve avviarsi automaticamente nel momento in cui viene caricato, senza bisogno di clic, e funzionare fluidamente senza errori nella console.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099362575339372780) · [Post originale](https://x.com/free_ai_guides/status/2099362575339372780) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="2099419671481249851"></a>
-
-### Percorso a ostacoli 3D giocabile
-
-[Dhaval Makwana](https://x.com/heyDhavall) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099419671481249851"><img src="../assets/previews/87bdfaa39a38fdfb7b63bde1e513fb3958b3e57885066c2c715852966b94ff03.jpg" width="840" loading="lazy" alt="Percorso a ostacoli 3D giocabile"></a>
-
-L’autore afferma di aver fornito a GPT-6 Astra questa idea in Codex. La richiesta è un piccolo percorso a ostacoli 3D giocabile con un personaggio, barriere mobili, oggetti da raccogliere e un’area obiettivo.
-
-**Prompt**
-
-```text
-Un piccolo percorso a ostacoli 3D con un personaggio, barriere mobili, oggetti da raccogliere e una semplice area obiettivo.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099419671481249851) · [Post originale](https://x.com/heyDhavall/status/2099419671481249851) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="2099450933067612421"></a>
-
-### Scena 3D interattiva nella foresta con un samurai
-
-[Jaynit Makwana](https://x.com/JaynitMakwana) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099450933067612421"><img src="../assets/previews/b4ad88ddc0ce72ee20be4fe702ab51b4e2c36fbe5adab92de05b1a8ab2b5f5d4.jpg" width="840" loading="lazy" alt="Scena 3D interattiva nella foresta con un samurai"></a>
-
-Jaynit Makwana racconta di aver fornito questa idea a GPT-6 Astra in Codex. Il risultato richiesto è una scena 3D interattiva nella foresta, con un samurai, controlli della camera, illuminazione cinematografica, dettagli ambientali e una presentazione essenziale. L’autore afferma che Hyper3D Rodin MCP ha generato il modello del samurai per l’esperienza risultante.
-
-**Prompt**
-
-```text
-Crea una scena 3D interattiva con un samurai nella foresta, includendo controlli della camera, illuminazione cinematografica, dettagli ambientali e una presentazione essenziale.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099450933067612421) · [Post originale](https://x.com/JaynitMakwana/status/2099450933067612421) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="2099472264270102705"></a>
-
-### Modello di conifera con un massimo di 200 poligoni
-
-[わたもす / ゲーム制作](https://x.com/Watamos827) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099472264270102705"><img src="../assets/previews/d81bde68ca027585c7577adaf607e29290f8f1b47af00bebbc03056842b0c904.jpg" width="840" loading="lazy" alt="Modello di conifera con un massimo di 200 poligoni"></a>
-
-Un prompt per chiedere ad Astra di creare una conifera con un massimo di 200 poligoni. L'autore afferma di stare cercando di risolvere il problema per cui il risultato generato finisce per avere un aspetto simile a quello di un escremento.
-
-**Prompt**
-
-```text
-Puoi provare a creare una conifera con un massimo di 200 poligoni?
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099472264270102705) · [Post originale](https://x.com/Watamos827/status/2099472264270102705) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="2099487024256589970"></a>
-
-### Mondo 3D pieno di grattacieli altissimi
-
-[Bilal Arshad](https://x.com/MohdBilalArshad) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099487024256589970"><img src="../assets/previews/6b76cf5a4a0feefa91cafe184567430f78b75607a7a2347c64807100431ebcac.jpg" width="840" loading="lazy" alt="Mondo 3D pieno di grattacieli altissimi"></a>
-
-Bilal Arshad racconta di aver chiesto ad Astra di creare un mondo 3D pieno di grattacieli altissimi e di aver condiviso il risultato.
-
-**Prompt**
-
-```text
-crea un mondo 3D pieno di grattacieli altissimi
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099487024256589970) · [Post originale](https://x.com/MohdBilalArshad/status/2099487024256589970) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="2099519801139908951"></a>
-
-### Il guerriero scala un gigante e lo colpisce alla mascella
-
-[MadMax](https://x.com/MadMax_Series) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099519801139908951"><img src="../assets/previews/9dcdc5e9bfa0c7eb9a0d4ea88363fd3fa5843e9d2ac1c418cd66c109727b0ab5.jpg" width="840" loading="lazy" alt="Il guerriero scala un gigante e lo colpisce alla mascella"></a>
-
-Una sequenza d’azione cinematografica in 3D della durata di 20 secondi: un guerriero corazzato delle montagne attraversa di corsa un campo di battaglia d’altura flagellato dalla tempesta, salta sulla mano di un gigante organico, scala fino alla sua spalla, lo colpisce alla mascella con un martello da guerra, cade e si rialza per uno scontro finale. L’autore principale identifica questo contenuto come un prompt text-to-video e indica GPT-6 Astra + Seedance 2.5 e Higgsfield.
-
-**Prompt**
-
-```text
-REGISTRO DEI PERSONAGGI:
-Esattamente un guerriero adulto di sesso maschile delle montagne.
-Ha una corporatura compatta, larga e straordinariamente potente. Indossa un’originale armatura medievale fantasy completa, color canna di fucile scuro: elmo appuntito chiuso, spallacci stratificati, protezioni articolate per le braccia, pesanti guanti d’arme, corazza rinforzata, pannelli in pelle all’altezza della vita, pantaloni scuri, schinieri d’acciaio e pesanti stivali corazzati. L’armatura è usurata, graffiata e bagnata dalla tempesta.
-Impugna esattamente un enorme martello da guerra a due mani. Ha un lungo manico rinforzato in metallo scuro e una pesante testa rettangolare simmetrica. L’arma mantiene la stessa lunghezza, forma e peso per tutta la sequenza. Il guerriero la controlla con entrambe le mani durante i salti, la scalata e il colpo.
-Esattamente un gigantesco umanoide organico, alto più di trenta volte il guerriero. Ha spalle muscolose immense, braccia estremamente lunghe, enormi mani simili a quelle umane, pelle ruvida grigio antracite, pori e cicatrici visibili, arcate sopraccigliari marcate, naso largo, mascella potente e lunghi capelli neri arruffati. È un titano organico vivente, non una statua, un robot, una macchina o un golem di pietra.
-Nessun altro guerriero, gigante o esercito sullo sfondo.
-AMBIENTE:
-Un campo di battaglia d’altura spazzato dal vento, sotto un violento temporale blu-grigio. Il terreno irregolare è coperto di terra scura e bagnata, erba schiacciata e migliaia di piccoli fiori chiari. Il vento forte piega erba e fiori creando onde irregolari.
-Una fortezza medievale in rovina sorge su una collina lontana a sinistra dello schermo. Torri spezzate restano visibili attraverso la nebbia bassa e fluttuante. I lampi illuminano a intermittenza la fortezza e le nubi temporalesche.
-Il gigante occupa il lato destro dello schermo del campo di battaglia. Il guerriero inizia al centro in primo piano, correndo verso il gigante. Mantieni questa geografia e questa direzione sullo schermo in ogni stacco.
-AZIONE CRONOLOGICA E CAMERA:
-0,00–3,30 — CORSA VERSO IL GIGANTE
-Inizia immediatamente con un’inquadratura bassa in tracking da dietro, ravvicinata al guerriero corazzato mentre corre con potenza attraverso il campo bagnato verso il gigantesco gigante.
-Tiene il martello da guerra orizzontale davanti al corpo con entrambe le mani. La testa pesante del martello resta verso destra dello schermo, mentre la parte inferiore del manico si estende verso sinistra. Gli stivali comprimono il terreno bagnato a ogni passo, scagliando terra, fiori schiacciati e gocce all’indietro solo dopo il contatto fisico.
-Le gambe del gigante e la sua enorme mano destra entrano dal lato superiore destro dell’inquadratura. Il gigante si piega ed estende la mano aperta verso il guerriero in carica, con l’intenzione di raccoglierlo da terra.
-Le dita si muovono indipendentemente, con articolazioni e peso credibili. Il gigante non afferra all’istante il guerriero e non lo teletrasporta.
-Il movimento della camera resta basso, rapido e fluido, enfatizzando l’estrema differenza di scala. La fortezza in rovina rimane visibile sull’orizzonte lontano a sinistra dello schermo.
-3,30–5,80 — SALTO SULLA MANO DEL GIGANTE
-Mentre la mano aperta del gigante passa radente davanti al percorso del guerriero, il guerriero pianta saldamente lo stivale destro a terra. Il ginocchio si comprime, i fianchi si abbassano e la gamba posteriore spinge verso l’alto.
-Esegue un unico potente salto in avanti.
-Usa un rallenty cinematografico controllato mentre sale davanti alle dita divaricate del gigante. Le gambe si raccolgono leggermente sotto di lui, mentre entrambe le mani sollevano lo stesso martello da guerra sopra le spalle per mantenere l’equilibrio.
-Atterra con entrambi gli stivali sul dorso del medio e dell’anulare del gigante. Mostra un contatto fisico chiaro: gli stivali toccano la pelle, le ginocchia assorbono l’impatto, la carne del gigante si comprime leggermente e l’armatura del guerriero reagisce all’atterraggio.
-Il gigante inizia a sollevare la mano verso il viso. Il guerriero non fluttua né resta sospeso nel vuoto.
-Usa un movimento di crane drammatico dal basso, che sale sotto il guerriero, con l’enorme mano a riempire lo sfondo.
-5,80–9,00 — CORSA LUNGO IL BRACCIO
-Torna a un’azione rapida e naturale.
-Mentre il gigante solleva il braccio, il guerriero corre dalle dita lungo il dorso della mano fino al polso. I passi si alternano correttamente e aderiscono visibilmente alla superficie irregolare in movimento.
-Il gigante ruota il polso e tenta di scrollarselo di dosso. Il guerriero abbassa il baricentro, allarga la posizione e tiene il martello vicino al torso finché il braccio non si stabilizza.
-Poi accelera lungo l’avambraccio del gigante verso il gomito. Ogni passo segue il cambiamento d’angolazione del braccio; gli stivali non scivolano attraverso la pelle.
-La camera lo segue di lato e leggermente dal basso, salendo lungo il braccio del gigante. Le parti vicine del braccio attraversano rapidamente il primo piano, mentre la testa del gigante e la fortezza lontana si muovono più lentamente, creando un potente effetto di parallasse e scala.
-9,00–12,00 — SCALATA VERSO LA SPALLA
-Il guerriero raggiunge la parte superiore del braccio, che sale ripidamente verso la spalla del gigante.
-Aggancia un avambraccio e il manico del martello da guerra a una cresta naturale del muscolo per fare leva, pianta lo stivale destro, spinge con la gamba e si issa sulla spalla con un unico movimento di scalata continuo.
-Il gigante gira la testa verso di lui. L’occhio segue il guerriero, la fronte si contrae e la mascella si apre in un ruggito profondo e non verbale. Capelli e pelle si muovono con la rotazione della testa.
-Il guerriero resta ancorato alla spalla grazie al contatto reale di mani e stivali. Scala diagonalmente la parte superiore della spalla verso la base del collo del gigante.
-Usa un’inquadratura ravvicinata con tracking laterale che mantenga leggibili nello stesso fotogramma il guerriero per intero, il martello da guerra e il profilo del volto del gigante.
-12,00–15,00 — COLPO COMPLETO DI MARTELLO ALLA MASCELLA
-Il guerriero raggiunge una posizione stabile sulla spalla inclinata del gigante, vicino al collo.
-Pianta in avanti lo stivale sinistro e posiziona quello destro dietro. Entrambi i piedi premono visibilmente contro la pelle del gigante. Ruota i fianchi lontano dal bersaglio e porta indietro il martello da guerra con entrambe le mani.
-Mostra tutta la preparazione prima dell’impatto:
-piedi che si piantano → ginocchia che si comprimono → fianchi che accumulano energia → torso che ruota → spalle che portano indietro il martello → braccia che guidano la pesante testa del martello nella posizione di partenza.
-Al secondo 13,00 il guerriero sferra un unico colpo orizzontale completo a due mani verso la mascella del gigante.
-La potenza passa continuamente dalle gambe ai fianchi, al torso, alle spalle e alle braccia. La testa del martello segue un unico arco chiaro e ininterrotto. Non salta da una posizione all’altra e non tocca il volto prima che il colpo sia completato.
-Al secondo 14,00 entra in un ultra-rallenty esplicito per il contatto decisivo.
-La testa rettangolare del martello colpisce il lato della mascella inferiore del gigante con la sua ampia superficie battente, non con il manico o l’impugnatura. Mostra la pelle e i tessuti della guancia che si comprimono attorno all’impatto, la mascella del gigante che si sposta lateralmente, i capelli sciolti che si agitano verso l’esterno e un’esplosione radiale di pioggia, polvere e detriti cutanei.
-Le braccia del guerriero resistono alla decelerazione improvvisa. Le spalle rinculano mentre il corpo prosegue in un follow-through controllato.
-Niente sangue, tessuti esposti, gore o smembramenti.
-15,00–17,30 — RINCULO DEL GIGANTE E CADUTA DEL GUERRIERO
-Torna immediatamente alla velocità naturale.
-La testa del gigante scatta di lato per l’impatto. La parte superiore del corpo rincula e la spalla colpita si abbassa bruscamente. Questo movimento improvviso verso il basso fa perdere l’appoggio al guerriero e lo scaglia lontano dal gigante.
-Il guerriero cade verso il campo di battaglia mantenendo lo stesso martello da guerra con entrambe le mani. Non fluttua e non esegue un salto aggiuntivo.
-Stacco su una visuale laterale a livello del terreno. Gli stivali toccano per primi, le ginocchia cedono sotto lo slancio e lui rotola una volta su una spalla. La testa del martello colpisce il terreno accanto a lui e scava un solco poco profondo, lanciando verso l’esterno terra bagnata e fiori chiari.
-L’enorme volto del gigante scende nella parte superiore destra dell’inquadratura mentre cerca di recuperare l’equilibrio. Non schiaccia il guerriero e non lo attraversa.
-17,30–20,00 — RECUPERO E SCONTRO FINALE
-Il guerriero interrompe la rotolata in una posizione inginocchiata e bassa.
-Pianta la testa del martello da guerra nel terreno, afferra il manico con entrambe le mani e lo usa come sostegno per rialzarsi gradualmente fino a un ginocchio. Poi estrae il martello e porta il manico orizzontalmente sulle spalle, assumendo una postura difensiva pronta.
-Il gigante abbassa verso di lui la testa enorme, con la mascella visibilmente contusa dal colpo, ma ancora cosciente e minacciosa. Il suo respiro agita l’erba, i fiori, la nebbia e i pannelli di pelle sciolti dell’armatura del guerriero.
-Il guerriero resta immobile solo per un breve istante di determinazione, mentre il respiro e l’armatura mantengono un sottile movimento naturale.
-Un fulmine illumina la fortezza in rovina a sinistra dello schermo, delineando entrambe le figure e confermando l’enorme differenza di scala.
-Termina esattamente al secondo 20,00 con una composizione ampia e bassa: il guerriero inginocchiato in primo piano, coperto di fiori, con il martello da guerra pronto; il volto del gigante incombe sopra di lui e la fortezza lontana è visibile attraverso la tempesta.
-Non sfumare al nero. Nessun fermo immagine, titolo o cartello finale.
-BLOCCO DELLA FISICA DELL’AZIONE:
-Ogni azione deve seguire una causalità fisica leggibile:
-Corsa: contatto del piede → trasferimento del peso → spinta della gamba posteriore → passo successivo.
-Salto: piede piantato → compressione del ginocchio → estensione della gamba → traiettoria in aria → contatto all’atterraggio → assorbimento con le ginocchia.
-Scalata: sostegno della mano o dell’arma → stivale piantato → trasferimento del peso del corpo → trazione verso l’alto.
-Colpo di martello: piedi stabili → caricamento dei fianchi → rotazione del torso → spinta della spalla → traiettoria continua del martello → contatto con l’ampia faccia del martello → resistenza → follow-through.
-Caduta: perdita dell’appoggio causata dal rinculo del gigante → discesa guidata dalla gravità → contatto degli stivali → cedimento delle ginocchia → rotolata sulla spalla → recupero.
-Il guerriero non si teletrasporta mai tra il terreno, la mano, il braccio o la spalla. Il gigante non sposta mai il guerriero senza contatto fisico diretto o una forza visibile.
-REGOLE DELLA VELOCITÀ DEL MOVIMENTO:
-0,00–3,30: velocità di corsa naturale e rapida.
-3,30–5,80: rallenty cinematografico controllato per il salto e l’atterraggio.
-5,80–13,90: azione naturale e rapida.
-13,90–15,00: ultra-rallenty esplicito solo per l’avvicinamento finale del martello, il contatto e la deformazione immediata.
-15,00–20,00: ritorno chiaro alla velocità naturale.
-Non applicare il rallenty globale. Non permettere ai personaggi rallentati di restare sospesi.
-ILLUMINAZIONE E COLORE:
-Mantieni una resa cromatica temporalesca fredda, tra blu acciaio, grigio antracite e argento desaturato. I fulmini forniscono brevi illuminazioni direzionali bianco-fredde. L’armatura bagnata riceve sottili riflessi argentati, mentre la pelle scura del gigante resta dettagliata e leggibile.
-I fiori chiari forniscono un sobrio contrasto caldo color avorio senza rendere la scena variopinta. Mantieni la nebbia atmosferica densa attorno alla fortezza lontana. I cambiamenti di esposizione causati dai fulmini devono essere brevi e non devono cancellare l’anatomia dei personaggi o nascondere azioni mancanti.
-AUDIO:
-Solo effetti sonori ambientali e d’azione diegetici e sincronizzati. Assolutamente nessuna musica o colonna sonora di sottofondo.
-Includi il vento della tempesta, tuoni lontani, movimento dell’armatura, pesanti passi di corsa, terra smossa, erba che si piega, il respiro e il ruggito non verbali del gigante, il sibilo della sua mano, il salto del guerriero, gli stivali a contatto con la pelle, gli impatti della scalata, il movimento del martello da guerra, un unico profondo impatto metallico del martello, il rinculo del gigante, l’aria della caduta, l’armatura che colpisce il terreno, la testa del martello che tocca terra e un ultimo tuono ravvicinato.
-Nessun dialogo, narrazione, parola pronunciata, canto, testo di canzone o linguaggio comprensibile.
-CONTINUITÀ E PREVENZIONE DEGLI ERRORI:
-Esattamente un guerriero, un gigante e un martello da guerra per tutta la sequenza.
-Il guerriero scala il gigante una sola volta ed esegue esattamente un unico colpo decisivo di martello.
-Il martello da guerra non si duplica mai, non cambia dimensione, non fluttua, non si piega, non attraversa nessuno dei due corpi e non passa da una mano all’altra senza un movimento visibile.
-Il gigante resta la stessa creatura umanoide organica in ogni inquadratura. Nessun elemento robotico, trasformazione in pietra, mano duplicata, dito aggiuntivo o volto mutevole.
-Mantieni invariati l’armatura, l’elmo, le proporzioni e i danni del guerriero per tutta la sequenza.
-Mantieni il percorso dalla mano destra al braccio destro fino alla spalla del gigante, così che la geografia della scalata resti fisicamente possibile.
-Niente mani fuse, arti aggiuntivi, articolazioni invertite, stivali che scivolano, corpi che si intersecano, teletrasporto o sospensione senza sostegno.
-La testa larga del martello, non il manico, deve entrare visibilmente in contatto con la mascella del gigante dopo il completamento del colpo.
-Niente sangue, gore, tessuti esposti, corpo umano schiacciato o smembramento.
-Nessun aspetto live action, personaggio riconoscibile di un franchise, sottotitoli, didascalie, loghi, UI, sovrimpressioni di riproduzione, bande nere permanenti o watermark.
-Qualsiasi musica o colonna sonora di sottofondo costituisce una generazione non riuscita.
-music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099519801139908951) · [Post originale](https://x.com/MadMax_Series/status/2099519801139908951) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="2099588840419651890"></a>
-
-### Crea una scena di corridoio d'hotel
-
-[West Lord](https://x.com/MyWestLord) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099588840419651890"><img src="../assets/previews/9325046470adcbc69de0911728ede1548949019160e7a05cf16cc39155276e27.jpg" width="840" loading="lazy" alt="Crea una scena di corridoio d'hotel"></a>
-
-Un prompt attribuito dall'autore del post a GPT-6 Astra per creare in Blender, tramite MCP, una scena di corridoio d'hotel modificabile.
-
-**Prompt**
-
-```text
-crea una scena di corridoio d'hotel
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099588840419651890) · [Post originale](https://x.com/MyWestLord/status/2099588840419651890) · [Torna agli esempi](#all-prompts)
 
 ---
 
@@ -3305,6 +3070,205 @@ crea un mondo voxel 3D con un pellicano in bicicletta, al meglio delle tue possi
 
 ---
 
+<a id="2108336208891801999"></a>
+
+### Diorama WebGPU interattivo Pirate Jelly
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-08
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/pirate-jelly-interactive-webgpu-diorama"><img src="../assets/previews/7727b4cb2f7a9b6467210111c81a43e4685f22ca5a561786c8532a16153bdca4.jpg" width="840" loading="lazy" alt="Diorama WebGPU interattivo Pirate Jelly"></a>
+
+Un diorama procedurale interattivo e autosufficiente di una baia dei pirati in gelatina: un blocco di mare traslucido a strati circonda un’isola tropicale, una roccia a forma di teschio, una nave pirata all’ancora, un accampamento sulla spiaggia e un relitto sommerso. Include una simulazione di acque basse e corpi rigidi, interazioni dirette con gli oggetti, controlli dell’ora del giorno e un’interfaccia WebGPU dal taglio editoriale.
+
+**Prompt**
+
+```text
+Crea una pagina WebGPU/WGSL interattiva e autosufficiente, "Pirate Jelly", parte della serie "Material Studies" dedicata ai diorami in gelatina. Un singolo file HTML, senza modelli, texture, font o librerie esterni: tutto deve essere procedurale. Interfaccia in inglese.
+
+ASPETTO E LAYOUT
+- Un blocco quadrato di mare in gelatina traslucida (≈5.2 × 5.2 unità) poggia sul pavimento di uno studio fotografico in carta; la camera inquadra l’angolo anteriore con un’angolazione di circa 27°. Le facce tagliate del blocco mostrano strati color caramella (roccia madre al cioccolato, argilla al caramello, una fascia di conchiglie, sabbia alla vaniglia); la superficie e le pareti del mare rifrangono e colorano ciò che si trova dietro di loro, con caustiche sul fondale, raggi di luce, un’ombra caustica colorata sul pavimento, merletto di schiuma lungo la battigia e un menisco brillante sui bordi tagliati.
+- Una piccola isola tropicale verso il fondo: spiaggia sabbiosa, una baia rivolta verso lo spettatore, un rilievo di giungla ricoperto di muschio con circa 9 palme gommose (tronchi ad anelli color caramello, fronde traslucide che ondeggiano), cespugli gommosi bitorzoluti con fiori, felci, erba da spiaggia e rocce lungo la riva.
+- ROCCIA A FORMA DI TESCHIO all’estremità occidentale dell’isola, immersa nelle acque basse: un teschio cartoon scolpito come campo di distanza firmato (cranio, zigomi, mascelle, orbite profonde, naso a forma di cuore, crepa sulla sommità, strati di roccia e rumore, muschio sulla parte superiore, fascia bagnata lungo la linea dell’acqua), trasformato in mesh con surface nets; due file di denti separati a forma di parallelepipedo inseriti in un ghigno scolpito. Di notte, le orbite brillano come una grotta illuminata da candele.
+- Una NAVE PIRATA all’ancora davanti all’isola, vista a tre quarti da poppa: scafo nero con una cinta di cannoniere color ocra, fondo rosso, cannoniere con cannoni, cassero rialzato con finestre di poppa illuminate e una lanterna di poppa, tre alberi (vele quadre e controvelacci sul trinchetto e sull’albero maestro, una vela aurica sull’artimone, un fiocco sul bompresso), sartie e stralli, e un Jolly Roger (teschio e ossa incrociate disegnati proceduralmente nello shader) che sventola verso poppa. La catena dell’ancora parte dalla prua, scende attraverso la gelatina e arriva a un’ancora posata sul fondale.
+- L’accampamento sulla spiaggia della baia: un falò (cerchio di pietre, tepee di tronchi dalle estremità incandescenti, braci, un treppiede con pentola, due tronchi per sedersi), uno scrigno del tesoro rinforzato in ferro sotto una palma inclinata, con coperchio incernierato e mucchio di monete d’oro e gemme all’interno, una pala in un cumulo di sabbia, barili, una cassa, una piramide di palle di cannone, una bottiglia di rum, una barca a remi tirata in secca con la prua sulla sabbia e una "X" incisa nella sabbia.
+- Sul fondale: la metà prodiera di un vecchio relitto adagiato su un fianco, con le ordinate in vista e l’albero spezzato accanto, alghe ondeggianti, alcune monete da otto e bolle intrappolate nella gelatina.
+
+SIMULATION
+- Onde lineari di acque basse su una griglia sfalsata, con un po’ di tensione superficiale (gelatina elastica); il blocco può essere inclinato, mentre il mare scivola e la gelatina oscilla (taglio e schiacciamento).
+- La nave galleggia su 10 punti di galleggiamento (beccheggio, imbardata e rollio), viene spinta da una brezza al largo che cambia lentamente direzione, trattenuta a prua da un cavo elastico dell’ancora e si orienta automaticamente controvento. Il volume spostato viene restituito al mare, creando una scia.
+- Corpi rigidi: palle di cannone (dense, volano lungo un arco pulito, aprono un cratere, affondano e rotolano sul fondale), barili (galleggiano su un fianco), monete da otto (scendono svolazzando e si depositano piatte). Tutti interagiscono con il mare (galleggiamento, resistenza, schizzi, bolle), il terreno, il teschio, gli oggetti di scena, i tronchi delle palme e lo scafo della nave.
+- Un solo sistema di particelle: fiamme del fuoco (additive), braci, fumo di legna, lampo di bocca da fuoco, fumo bianco dei cannoni, spruzzi di mare, sbuffi di sabbia, scintillii d’oro sopra lo scrigno aperto e lucciole di notte.
+
+INTERACTION
+- Tocca la nave → spara con il cannone successivo sul lato rivolto verso lo spettatore (palla, lampo, fumo, rinculo e sbandamento). Trascina la nave → trainala contro il cavo dell’ancora; rilascia → torna alla deriva verso l’ancora.
+- Tocca lo scrigno → il coperchio si apre e si chiude con un rimbalzo; l’oro scintilla. Tocca il fuoco → divampa e lancia scintille. Tocca la X → tre monete da otto saltano fuori dalla sabbia.
+- Trascina sull’acqua per creare onde; trascina un lato del blocco per inclinarlo; raccogli e lancia palle, barili e monete; trascina una palma per piegarla; trascina uno spazio vuoto o usa il trascinamento con il tasto destro per orbitare; usa la rotellina o il pinch per lo zoom.
+
+ORA DEL GIORNO
+- Un cursore da Mezzogiorno → Pomeriggio → Ora dorata → Tramonto → Crepuscolo → Notte → Mezzanotte. Il sole si abbassa e la luce si fa più calda, lo sfondo diventa color pesca, poi subentra la luna (blu tenue), sullo sfondo compaiono le stelle, l’interfaccia della pagina passa a un tema scuro e il falò diventa la luce principale: una luce puntiforme tremolante che scalda la sabbia, le palme, le vele e l’oro, si riflette nell’acqua e illumina il fumo dal basso. Le finestre di poppa e la lanterna brillano.
+
+INTERFACCIA (editoriale, come il resto della serie)
+- Testata in alto a sinistra: occhiello "MATERIAL STUDIES", grande titolo serif in corsivo "Pirate / Jelly.", una breve riga di testo.
+- Pill di stato (WebGPU · Live / Paused / Unavailable).
+- Pannello di vetro a destra: "The cove" — pulsanti Fire a gun / Doubloons / Barrel, indicatore di vivacità, conteggio Shots · Afloat · Sunk; "Flavour" — palette di gelatina Turquoise, Rum (ambra), Kraken (viola); cursori Firmness, Wave damping, Time of day; Reset / Pause / Reset view.
+- Riga "How to play" in basso a sinistra con brevi istruzioni. La barra spaziatrice spara con un cannone.
+- Su mobile: il pannello diventa un foglio inferiore; orbitazione touch e zoom con pinch.
+- Scheda di fallback quando WebGPU (o un adapter) non è disponibile. Rispetta prefers-reduced-motion.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/pirate-jelly-interactive-webgpu-diorama) · [Post originale](https://x.com/vib3coded/status/2108336611796615233) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="2108438685184401904"></a>
+
+### Presentazione cinematografica 3D dello smartwatch ORBIT
+
+[Maker Evan](https://x.com/maker_evan) · 2026-10-09
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/orbit-smartwatch-3d-product-reveal"><img src="../assets/previews/dc5ff406eef3cb325e8ef991c1ba970f65d2ba177ef1006088f8dd6632976813.jpg" width="840" loading="lazy" alt="Presentazione cinematografica 3D dello smartwatch ORBIT"></a>
+
+Un prompt per un filmato cinematografico di presentazione 3D della durata di 12 secondi, dedicato allo smartwatch ORBIT. L’autore lo presenta come lo stesso prompt utilizzato in un confronto tra quattro modelli, tra cui GPT-6 Astra.
+
+**Prompt**
+
+```text
+Filmato cinematografico di presentazione 3D di 12 secondi per lo smartwatch ORBIT
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/orbit-smartwatch-3d-product-reveal) · [Post originale](https://x.com/maker_evan/status/2108438685184401904) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="2108459952683811167"></a>
+
+### Motore a reazione 3D interattivo per l’apprendimento
+
+[Maker Evan](https://x.com/maker_evan) · 2026-10-09
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/interactive-educational-3d-jet-engine"><img src="../assets/previews/e85dc3f83a7cb008583da07354607f87eb723dec0e4df2f72d2ef9f29f7a5da9.jpg" width="840" loading="lazy" alt="Motore a reazione 3D interattivo per l’apprendimento"></a>
+
+Prompt riutilizzabile citato dall’autore principale per creare nel browser un motore a reazione 3D interattivo per l’apprendimento. Nel post si specifica che lo stesso prompt è stato eseguito con GPT-6 Astra e Claude Opus 5.5.
+
+**Prompt**
+
+```text
+Crea nel browser un motore a reazione 3D interattivo per l’apprendimento
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/interactive-educational-3d-jet-engine) · [Post originale](https://x.com/maker_evan/status/2108459952683811167) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="2108475056082850278"></a>
+
+### Presentazione visiva 3D dettagliata dell'AH-64E Apache Guardian
+
+[Maker Evan](https://x.com/maker_evan) · 2026-10-09
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/ah-64e-apache-guardian-3d-presentation"><img src="../assets/previews/fd8142675f34e3f821c50b1c40d77c14511da5856c49286395ea2a89c2ace83d.jpg" width="840" loading="lazy" alt="Presentazione visiva 3D dettagliata dell'AH-64E Apache Guardian"></a>
+
+Un post di confronto afferma che lo stesso prompt è stato eseguito con GPT-6 Astra e Claude Opus 5.5. Il prompt richiede una presentazione visiva 3D dettagliata di un elicottero AH-64E Apache Guardian.
+
+**Prompt**
+
+```text
+Crea una presentazione visiva 3D dettagliata di un AH-64E Apache Guardian
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/ah-64e-apache-guardian-3d-presentation) · [Post originale](https://x.com/maker_evan/status/2108475056082850278) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="2108501256067285443"></a>
+
+### Tastiera interattiva di miele
+
+[Harry Jackson](https://x.com/keydol123) · 2026-10-09
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/interactive-honey-keyboard"><img src="../assets/previews/9bb3e9bf5252fdffa56150b6a6dfa89a3fc2d4f071253f34bd489af5d41f0f41.jpg" width="840" loading="lazy" alt="Tastiera interattiva di miele"></a>
+
+Crea una tastiera interattiva fatta di miele. Il post principale identifica questo prompt come lo stesso utilizzato per il confronto con l’app GPT-6 Astra collegata.
+
+**Prompt**
+
+```text
+Crea una tastiera interattiva fatta di miele.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/interactive-honey-keyboard) · [Post originale](https://x.com/keydol123/status/2108501256067285443) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="2108505251036774875"></a>
+
+### Esperienza interattiva con dadi gommosi 3D
+
+[Maker Evan](https://x.com/maker_evan) · 2026-10-09
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/interactive-3d-gummy-dice-experience"><img src="../assets/previews/21e4b35516b67133cef39cd3c41d552c7db21e89fe63f222b52f28809e0cf961.jpg" width="840" loading="lazy" alt="Esperienza interattiva con dadi gommosi 3D"></a>
+
+Un'esperienza interattiva con dadi gommosi 3D accessibile dal browser. L'autore principale dichiara di aver usato lo stesso prompt con GPT-6 Astra e Claude Opus 5.5.
+
+**Prompt**
+
+```text
+Crea nel browser un'esperienza interattiva con dadi gommosi 3D
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/interactive-3d-gummy-dice-experience) · [Post originale](https://x.com/maker_evan/status/2108505251036774875) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="2108574047948656981"></a>
+
+### Isola neon fluttuante interattiva
+
+[Fazley](https://x.com/itsfazley) · 2026-10-09
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/floating-neon-island-interactive-3d-scene"><img src="../assets/previews/c4e9c93bb51b2459443d30da91ac4a590395a7ba3da6969786e682099641851b.jpg" width="840" loading="lazy" alt="Isola neon fluttuante interattiva"></a>
+
+Un prompt fornito dall’autore per una scena 3D interattiva completa realizzata con Three.js e Vite: un’isola fluttuante generata proceduralmente, con erba, lati rocciosi, un albero al neon, particelle, foschia atmosferica, illuminazione cinematografica, rotazione lenta e parallasse della telecamera controllata dal mouse. Il post afferma che lo stesso prompt è stato confrontato su due modelli.
+
+**Prompt**
+
+```text
+Crea una splendida scena 3D interattiva usando Three.js, JavaScript e Vite.
+
+Concept: un’isola neon fluttuante
+
+Crea una piccola isola fluttuante sospesa in un ambiente spaziale scuro.
+
+Requisiti:
+Un’isola fluttuante realizzata con geometria procedurale, con erba sulla parte superiore e lati rocciosi.
+Un albero al neon luminoso al centro, con foglie emissive animate.
+Piccole particelle luminose fluttuanti intorno all’isola.
+Uno sfondo pieno di stelle con una foschia atmosferica delicata.
+Illuminazione realistica, ombre, occlusione ambientale ed effetti bloom.
+Isola in lenta rotazione, con un’animazione fluida e naturale.
+Movimento della telecamera controllato dal mouse, con un leggero effetto parallasse.
+Un’interfaccia minima che mostri il titolo “L’ULTIMA ISOLA” e una breve istruzione: “Trascina per esplorare.”
+Layout responsive, adatto a desktop e dispositivi mobili.
+
+Direzione visiva
+Punta a un’estetica curata, cinematografica e ispirata ai videogiochi. Usa uno sfondo blu navy scuro, accenti neon ciano e viola e un’illuminazione atmosferica morbida.
+
+Vincoli tecnici
+Usa Three.js con Vite.
+Genera tutta la geometria proceduralmente. Non usare modelli 3D esterni né risorse a pagamento.
+Mantieni il codice pulito e organizzato.
+Assicurati che la scena funzioni senza problemi in un browser moderno.
+Includi tutte le istruzioni di configurazione necessarie.
+
+Priorità: qualità visiva, animazione fluida e una direzione artistica coerente. Evita l’aspetto di una demo generica. Deve sembrare un piccolo mondo tratto da un gioco indie.
+
+Realizza il progetto completo e avviabile, invece di limitarti a spiegare come crearlo.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/floating-neon-island-interactive-3d-scene) · [Post originale](https://x.com/itsfazley/status/2108574052294017509) · [Torna agli esempi](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Difesa infinita con i carri armati
@@ -3760,7 +3724,7 @@ Consegna il codice sorgente, il lockfile, i comandi npm per sviluppo/build e l�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 325 esempi sul sito ufficiale →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 332 esempi sul sito ufficiale →</a></strong></p>
 <p><sub>Per mantenere fluido il rendering del README su GitHub, qui mostriamo solo i 100 esempi più recenti.</sub></p>
 <br>
 </td></tr>

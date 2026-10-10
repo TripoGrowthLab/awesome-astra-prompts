@@ -29,7 +29,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**325 examples · 14 languages · 12 examples with source code**
+**332 examples · 14 languages · 12 examples with source code**
 
 ## Featured projects
 
@@ -52,13 +52,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 <summary>Browse examples</summary>
 
 - [Isometric fantasy graphics demo](#2100271998618177864) · GitHub
-- [Autonomous Model Railway With Collision Avoidance](#2099362575339372780)
-- [Playable 3D Obstacle Course](#2099419671481249851)
-- [Interactive 3D Samurai Forest Scene](#2099450933067612421)
-- [Conifer Model Under 200 Polygons](#2099472264270102705)
-- [3D world full of very high skyscrapers](#2099487024256589970)
-- [Warrior Climbs a Giant and Strikes Its Jaw](#2099519801139908951)
-- [Create a hotel corridor scene](#2099588840419651890)
 - [Interactive volcanic island with fleeing boats](#2099643231659012553)
 - [Interactive 3D organism nervous-system panel](#2099719427990134984)
 - [3D Apple-style heart and smiling emoji](#2099750376530657300)
@@ -144,6 +137,13 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Atoll Jelly interactive WebGPU lagoon diorama](#2107977531726934288)
 - [Interactive Three.js jelly lab with drag-to-squish physics](#2108096737537929361)
 - [3D voxel world of a pelican riding a bike](#2108203260058259830)
+- [Pirate Jelly interactive WebGPU diorama](#2108336208891801999)
+- [Cinematic 3D ORBIT smartwatch product reveal](#2108438685184401904)
+- [Interactive educational 3D jet engine](#2108459952683811167)
+- [Detailed visual 3D presentation of an AH-64E Apache Guardian](#2108475056082850278)
+- [Interactive Honey Keyboard](#2108501256067285443)
+- [Interactive 3D gummy dice experience](#2108505251036774875)
+- [Interactive Floating Neon Island](#2108574047948656981)
 - [Battle City 3D: Endless Tank Defense](#battle-city-3d)
 - [Crazy Tanks — 3D Island Artillery](#crazy-tanks-3d-island-artillery)
 - [Jelly Villa](#jelly-villa)
@@ -171,241 +171,6 @@ Build me a graphics demo: isometric camera, voxel-ish art style with realistic s
 ```
 
 [View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100271998618177864) · [Original post](https://github.com/achimala/dream-loop) · [Source code](https://github.com/achimala/dream-loop) · [Back to examples](#all-prompts)
-
----
-
-<a id="2099362575339372780"></a>
-
-### Autonomous Model Railway With Collision Avoidance
-
-[AI Guides](https://x.com/free_ai_guides) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2099362575339372780"><img src="../assets/previews/71207bef30c1d03e3a6d1b9901b86283ff784be11dbe153eb9d9243cd1b2a1bc.jpg" width="840" loading="lazy" alt="Autonomous Model Railway With Collision Avoidance"></a>
-
-A self-running model railway simulation with at least three trains on shared tracks. Trains autonomously operate junctions and signals to prevent collisions, with all visual design decisions left to the model. The author states this exact prompt was given to both Fable 5.1 and GPT-6 Astra.
-
-**Prompt**
-
-```text
-Build a model railway with at least three trains running at the same time on a shared track layout that includes junctions and signals. The trains must switch tracks and stop at signals on their own so they never collide, without any input from the user. The layout, the setting, and the look of everything are up to you. Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt. Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2099362575339372780) · [Original post](https://x.com/free_ai_guides/status/2099362575339372780) · [Back to examples](#all-prompts)
-
----
-
-<a id="2099419671481249851"></a>
-
-### Playable 3D Obstacle Course
-
-[Dhaval Makwana](https://x.com/heyDhavall) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2099419671481249851"><img src="../assets/previews/87bdfaa39a38fdfb7b63bde1e513fb3958b3e57885066c2c715852966b94ff03.jpg" width="840" loading="lazy" alt="Playable 3D Obstacle Course"></a>
-
-The author says they gave GPT-6 Astra this idea in Codex. It requests a small playable 3D obstacle course featuring a character, moving barriers, collectibles, and a goal area.
-
-**Prompt**
-
-```text
-A small 3D obstacle course with a character, moving barriers, collectible objects, and a simple goal area.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2099419671481249851) · [Original post](https://x.com/heyDhavall/status/2099419671481249851) · [Back to examples](#all-prompts)
-
----
-
-<a id="2099450933067612421"></a>
-
-### Interactive 3D Samurai Forest Scene
-
-[Jaynit Makwana](https://x.com/JaynitMakwana) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2099450933067612421"><img src="../assets/previews/b4ad88ddc0ce72ee20be4fe702ab51b4e2c36fbe5adab92de05b1a8ab2b5f5d4.jpg" width="840" loading="lazy" alt="Interactive 3D Samurai Forest Scene"></a>
-
-Jaynit Makwana says they gave GPT-6 Astra this idea inside Codex. The requested result is an interactive 3D forest scene with a samurai, camera controls, cinematic lighting, environmental detail, and a clean presentation. The author says Hyper3D Rodin MCP generated the samurai model for the resulting experience.
-
-**Prompt**
-
-```text
-Build an interactive 3D scene featuring a samurai in a forest, with camera controls, cinematic lighting, environmental details, and a clean presentation.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2099450933067612421) · [Original post](https://x.com/JaynitMakwana/status/2099450933067612421) · [Back to examples](#all-prompts)
-
----
-
-<a id="2099472264270102705"></a>
-
-### Conifer Model Under 200 Polygons
-
-[わたもす / ゲーム制作](https://x.com/Watamos827) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2099472264270102705"><img src="../assets/previews/d81bde68ca027585c7577adaf607e29290f8f1b47af00bebbc03056842b0c904.jpg" width="840" loading="lazy" alt="Conifer Model Under 200 Polygons"></a>
-
-A prompt asking Astra to create a conifer with 200 polygons or fewer. The creator says they are struggling with the generated result ending up looking like poop.
-
-**Prompt**
-
-```text
-Could you create a conifer with 200 polygons or fewer?
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2099472264270102705) · [Original post](https://x.com/Watamos827/status/2099472264270102705) · [Back to examples](#all-prompts)
-
----
-
-<a id="2099487024256589970"></a>
-
-### 3D world full of very high skyscrapers
-
-[Bilal Arshad](https://x.com/MohdBilalArshad) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2099487024256589970"><img src="../assets/previews/6b76cf5a4a0feefa91cafe184567430f78b75607a7a2347c64807100431ebcac.jpg" width="840" loading="lazy" alt="3D world full of very high skyscrapers"></a>
-
-Bilal Arshad says he asked Astra to build a 3D world full of very high skyscrapers and shared the result.
-
-**Prompt**
-
-```text
-build a 3D world full of very high skyscrapers
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2099487024256589970) · [Original post](https://x.com/MohdBilalArshad/status/2099487024256589970) · [Back to examples](#all-prompts)
-
----
-
-<a id="2099519801139908951"></a>
-
-### Warrior Climbs a Giant and Strikes Its Jaw
-
-[MadMax](https://x.com/MadMax_Series) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2099519801139908951"><img src="../assets/previews/9dcdc5e9bfa0c7eb9a0d4ea88363fd3fa5843e9d2ac1c418cd66c109727b0ab5.jpg" width="840" loading="lazy" alt="Warrior Climbs a Giant and Strikes Its Jaw"></a>
-
-A 20-second cinematic 3D action sequence: an armored mountain warrior charges across a stormy highland battlefield, leaps onto an organic giant’s hand, climbs to its shoulder, strikes its jaw with a warhammer, falls, and recovers for a final standoff. The root author labels this as a text-to-video prompt and states GPT-6 Astra + Seedance 2.5 and Higgsfield.
-
-**Prompt**
-
-```text
-CHARACTER REGISTRY:
-Exactly one adult male mountain warrior.
-He has a compact, broad and extremely powerful build. He wears an original dark gunmetal suit of medieval fantasy plate armor: enclosed pointed helmet, layered shoulder plates, articulated arm protection, heavy gauntlets, reinforced breastplate, leather waist panels, dark trousers, steel greaves and heavy armored boots. His armor is weathered, scratched and wet from the storm.
-He carries exactly one enormous two-handed warhammer. It has one long reinforced dark-metal shaft and one heavy symmetrical rectangular hammer head. The weapon remains the same length, shape and weight throughout. He controls it with both hands during jumps, climbing and striking.
-Exactly one colossal organic humanoid giant, more than thirty times the warrior’s height. It has immense muscular shoulders, extremely long arms, huge humanlike hands, coarse charcoal-gray skin, visible pores and scars, a heavy brow, broad nose, powerful jaw and long tangled black hair. It is an organic living titan—not a statue, robot, machine or stone golem.
-No additional warriors, giants or background armies.
-ENVIRONMENT:
-A windswept highland battlefield beneath a violent blue-gray thunderstorm. The uneven ground is covered with dark wet soil, flattened grass and thousands of small pale flowers. Strong wind bends the grass and flowers in irregular waves.
-A ruined medieval fortress stands on a distant hill at screen-left. Broken towers remain visible through low drifting fog. Lightning intermittently illuminates the fortress and storm clouds.
-The giant occupies the battlefield’s screen-right side. The warrior begins in the center foreground, running toward the giant. Preserve this geography and screen direction throughout every cut.
-CHRONOLOGICAL ACTION AND CAMERA:
-0.00–3.30 — CHARGE TOWARD THE GIANT
-Begin immediately with a low rear tracking shot, close behind the armored warrior as he runs powerfully through the wet field toward the colossal giant.
-He carries the warhammer horizontally across his body with both hands. The heavy hammer head remains toward screen-right while the lower shaft extends toward screen-left. His boots compress the wet ground with every step, throwing soil, crushed flowers and droplets backward only after physical contact.
-The giant’s legs and enormous right hand enter from the upper-right side of the frame. The giant bends down and extends its open hand toward the charging warrior, intending to scoop him from the ground.
-The fingers move independently with believable joints and weight. The giant does not instantly grab or teleport the warrior.
-Camera movement remains low, fast and smooth, emphasizing the extreme difference in scale. The ruined fortress stays visible on the distant screen-left horizon.
-3.30–5.80 — LEAP ONTO THE GIANT’S HAND
-As the giant’s open hand sweeps low across the warrior’s path, the warrior plants his right boot firmly into the ground. His knee compresses, hips lower and rear leg drives upward.
-He performs one powerful forward jump.
-Use controlled cinematic slow motion as he rises in front of the giant’s separated fingers. His legs tuck slightly beneath him while both hands raise the same warhammer above his shoulders for balance.
-The warrior lands with both boots on the back of the giant’s middle and ring fingers. Show clear physical contact: boots touch skin, knees absorb impact, the giant’s flesh compresses slightly and the warrior’s armor reacts to the landing.
-The giant begins lifting its hand toward its face. The warrior does not float or hang in empty air.
-Use a dramatic low-angle crane that travels upward beneath the warrior, with the enormous hand filling the background.
-5.80–9.00 — RUNNING UP THE ARM
-Return to fast natural action.
-As the giant raises its arm, the warrior runs from the fingers across the back of the hand and onto the wrist. His footfalls alternate correctly and visibly grip the uneven moving surface.
-The giant rotates its wrist and attempts to shake him loose. The warrior lowers his center of gravity, widens his stance and keeps the hammer close to his torso until the arm stabilizes.
-He then accelerates along the giant’s forearm toward the elbow. Each step follows the arm’s changing angle; his boots do not slide through the skin.
-Camera tracks beside and slightly below him, rising along the length of the giant’s arm. Near parts of the arm cross the foreground quickly while the giant’s head and distant fortress move more slowly, creating powerful parallax and scale.
-9.00–12.00 — CLIMB TO THE SHOULDER
-The warrior reaches the upper arm as it rises steeply toward the giant’s shoulder.
-He hooks one forearm and the warhammer shaft against a natural ridge of muscle for leverage, plants his right boot, pushes through his leg and pulls himself onto the shoulder in one connected climbing action.
-The giant turns its head toward him. Its eye tracks the warrior, its brow tightens and its jaw opens in a deep nonverbal roar. Hair and skin move from the rotation of its head.
-The warrior remains attached to the shoulder through real hand and boot contact. He climbs diagonally across the upper shoulder toward the base of the giant’s neck.
-Use a close side-tracking shot that keeps the complete warrior, warhammer and giant’s facial profile readable in the same frame.
-12.00–15.00 — FULL HAMMER STRIKE TO THE JAW
-The warrior reaches a stable position on the giant’s sloped shoulder near its neck.
-He plants his left boot forward and braces his right boot behind it. Both feet visibly press against the giant’s skin. He rotates his hips away from the target and draws the warhammer backward with both hands.
-Show the complete preparation before impact:
-feet plant → knees compress → hips load → torso rotates → shoulders draw the hammer backward → arms guide the heavy hammer head into its starting position.
-At 13.00 seconds, the warrior releases one complete horizontal two-handed swing toward the giant’s jaw.
-The power travels continuously from his legs through his hips, torso, shoulders and arms. The hammer head follows one clear uninterrupted arc. It does not jump positions or touch the face before the swing is complete.
-At 14.00 seconds, enter explicit ultra slow motion for the decisive contact.
-The rectangular hammer head strikes the side of the giant’s lower jaw with its broad striking face—not the shaft or handle. Show skin and cheek tissue compressing around the impact, the giant’s jaw shifting sideways, loose hair whipping outward and a radial burst of rain, dust and skin debris.
-The warrior’s arms resist the sudden deceleration. His shoulders recoil while his body continues through a controlled follow-through.
-No blood, exposed tissue, gore or dismemberment.
-15.00–17.30 — GIANT RECOIL AND WARRIOR FALL
-Return immediately to natural speed.
-The giant’s head snaps sideways from the impact. Its upper body recoils and the struck shoulder drops sharply. This sudden downward movement removes the warrior’s footing and throws him away from the giant.
-The warrior falls toward the battlefield while retaining the same warhammer with both hands. He does not float or perform an additional jump.
-Cut to a ground-level side view. His boots contact first, his knees collapse under the momentum and he rolls once across one shoulder. The hammer head strikes the soil beside him and digs a shallow trench, throwing wet earth and pale flowers outward.
-The giant’s huge face descends into the upper-right portion of the frame as it struggles to regain balance. It does not crush or intersect the warrior.
-17.30–20.00 — RECOVERY AND FINAL STANDOFF
-The warrior stops his roll in a low kneeling position.
-He plants the warhammer head into the soil, grips the shaft with both hands and uses it as support to rise steadily to one knee. He then pulls the hammer free and brings the shaft horizontally across his shoulders in a prepared defensive posture.
-The giant lowers its enormous head toward him, jaw visibly bruised from the strike but still conscious and threatening. Its breath disturbs the grass, flowers, fog and loose leather panels on the warrior’s armor.
-The warrior remains motionless only for a brief determined beat while his breathing and armor retain subtle natural movement.
-A lightning strike illuminates the ruined fortress at screen-left, outlining both figures and confirming their immense difference in scale.
-End exactly at 20.00 seconds on a low wide composition: the warrior kneeling in the flower-covered foreground with the warhammer ready, the giant’s face looming above him and the distant fortress visible through the storm.
-Do not fade to black. No freeze frame, title or end card.
-ACTION-PHYSICS LOCK:
-Every action must follow readable physical causality:
-Running: foot contact → weight transfer → rear-leg push → next step.
-Jump: planted foot → knee compression → leg extension → airborne trajectory → landing contact → knee absorption.
-Climbing: hand or weapon support → planted boot → body-weight transfer → upward pull.
-Hammer strike: stable feet → hip loading → torso rotation → shoulder drive → continuous hammer path → broad hammer-face contact → resistance → follow-through.
-Fall: lost footing caused by the giant’s recoil → gravity-driven descent → boot contact → knee collapse → shoulder roll → recovery.
-The warrior never teleports between the ground, hand, arm or shoulder. The giant never moves the warrior without direct physical contact or a visible force.
-MOTION-SPEED RULES:
-0.00–3.30: fast natural running speed.
-3.30–5.80: controlled cinematic slow motion for the jump and landing.
-5.80–13.90: natural fast action.
-13.90–15.00: explicit ultra slow motion only for the hammer’s final approach, contact and immediate deformation.
-15.00–20.00: clear return to natural speed.
-Do not apply global slow motion. Do not allow slow-motion characters to hover.
-LIGHTING AND COLOR:
-Maintain a cold steel-blue, charcoal-gray and desaturated silver storm grade. Lightning provides brief cold-white directional illumination. Wet armor receives narrow silver highlights, while the giant’s dark skin remains detailed and readable.
-The pale flowers provide restrained warm ivory contrast without making the scene colorful. Preserve deep atmospheric fog around the distant fortress. Lightning exposure changes must be brief and must not erase character anatomy or hide missing actions.
-AUDIO:
-Only synchronized diegetic environmental and action sound effects. Absolutely no background music or score.
-Include storm wind, distant thunder, armor movement, heavy running footfalls, disturbed soil, bending grass, the giant’s nonverbal breathing and roar, the rush of its hand, the warrior’s jump, boots contacting skin, climbing impacts, warhammer movement, one deep metallic hammer impact, the giant’s recoil, falling air, armor striking soil, the hammer head hitting the ground and a final nearby lightning crack.
-No dialogue, narration, spoken words, chants, lyrics or intelligible language.
-CONTINUITY AND FAILURE PREVENTION:
-Exactly one warrior, one giant and one warhammer throughout.
-The warrior climbs the giant once and performs exactly one decisive hammer strike.
-The warhammer never duplicates, changes size, floats, bends, passes through either body or switches hands without visible motion.
-The giant remains the same organic humanoid creature in every shot. No robotic features, stone transformation, duplicated hands, extra fingers or changing face.
-Preserve the warrior’s armor, helmet, proportions and damage throughout.
-Preserve the giant’s right-hand-to-right-arm-to-shoulder route so the climbing geography remains physically possible.
-No fused hands, extra limbs, reversed joints, sliding boots, intersecting bodies, teleportation or unsupported hovering.
-The hammer’s broad head—not its shaft—must visibly contact the giant’s jaw after the complete swing.
-No blood, gore, exposed tissue, crushed human body or dismemberment.
-No live-action appearance, recognizable franchise characters, subtitles, captions, logos, UI, playback overlays, permanent black bars or watermarks.
-Any background music or musical score is a failed generation.
-music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2099519801139908951) · [Original post](https://x.com/MadMax_Series/status/2099519801139908951) · [Back to examples](#all-prompts)
-
----
-
-<a id="2099588840419651890"></a>
-
-### Create a hotel corridor scene
-
-[West Lord](https://x.com/MyWestLord) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2099588840419651890"><img src="../assets/previews/9325046470adcbc69de0911728ede1548949019160e7a05cf16cc39155276e27.jpg" width="840" loading="lazy" alt="Create a hotel corridor scene"></a>
-
-A prompt attributed by the post author to GPT-6 Astra for creating an editable hotel corridor scene in Blender through MCP.
-
-**Prompt**
-
-```text
-create hotel corridor scene
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2099588840419651890) · [Original post](https://x.com/MyWestLord/status/2099588840419651890) · [Back to examples](#all-prompts)
 
 ---
 
@@ -3246,6 +3011,205 @@ make a 3D voxel world of a pelican riding a bike, as good as you can
 
 ---
 
+<a id="2108336208891801999"></a>
+
+### Pirate Jelly interactive WebGPU diorama
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-08
+
+<a href="https://www.tripo3d.ai/3d-prompts/pirate-jelly-interactive-webgpu-diorama"><img src="../assets/previews/7727b4cb2f7a9b6467210111c81a43e4685f22ca5a561786c8532a16153bdca4.jpg" width="840" loading="lazy" alt="Pirate Jelly interactive WebGPU diorama"></a>
+
+A self-contained procedural interactive pirate-cove jelly diorama: a translucent stratified sea block surrounds a tropical island, skull rock, anchored pirate ship, beach camp, and submerged wreck. It includes shallow-water and rigid-body simulation, direct object interactions, time-of-day controls, and an editorial WebGPU interface.
+
+**Prompt**
+
+```text
+Create a self-contained interactive WebGPU/WGSL page "Pirate Jelly" — part of a "Material Studies" series of jelly dioramas. Single HTML file, no external models, textures, fonts or libraries; everything procedural. English UI.
+
+LOOK & LAYOUT
+- A square block of translucent jelly sea (≈5.2 × 5.2 units) standing on a paper-studio floor; the camera looks in at the front corner at ~27°. The block's cut faces show candy strata (chocolate bedrock, caramel clay, a shell band, vanilla sand); the sea surface and walls refract and tint what's behind them, with caustics on the sea floor, light shafts, a tinted caustic shadow on the floor, foam lace on the shoreline and a bright meniscus on the cut edges.
+- A small tropical island toward the back: sandy beach, a cove facing the viewer, a mossy jungle hump with ~9 gummy palms (ringed caramel trunks, translucent fronds that flutter), lumpy gummy bushes with flowers, ferns, beach grass, rocks around the shore.
+- SKULL ROCK at the island's west tip, standing in the shallows: a cartoon skull sculpted as a signed-distance field (cranium, cheekbones, jaws, deep eye sockets, heart-shaped nose, crack on the crown, rock strata and noise, moss on top, a wet band at the waterline), meshed with surface nets; two rows of separate box teeth set into a carved grin. At night its eye sockets glow like a candle-lit cave.
+- A PIRATE SHIP riding at anchor in front of the island, seen at three-quarters from the stern: black hull with an ochre gunport strake, red bottom, gunports with cannons, raised quarterdeck with lit stern windows and a stern lantern, three masts (square courses and topsails on fore and main, a gaff sail on the mizzen, a jib to the bowsprit), shrouds and stays, and a Jolly Roger (skull and crossed bones drawn procedurally in the shader) streaming aft. Her anchor chain runs from the bow down through the jelly to an anchor lying on the sea floor.
+- The camp on the cove beach: a campfire (stone ring, teepee of logs with glowing ends, embers, a tripod with a pot, two seating logs), an iron-bound treasure chest under a leaning palm with a hinged lid and a heap of gold and gems inside, a shovel in a sand heap, barrels, a crate, a pyramid of round shot, a rum bottle, a rowing boat pulled up with its bow on the sand, and an "X" scored in the sand.
+- On the sea floor: the bow half of an old wreck lying on its side with ribs showing and its broken mast beside it, swaying kelp, a few doubloons, bubbles caught in the jelly.
+
+SIMULATION
+- Linear shallow-water waves on a staggered grid with a little surface tension (springy jelly); the block can be tipped and the sea sloshes and the jelly wobbles (shear + squash).
+- The ship floats on 10 buoyancy points (heave, pitch, roll), is pushed by a gently veering offshore breeze, held by an elastic anchor rode at the bow, and weathervanes into the wind. Her displaced volume is handed back to the sea, so she makes a wake.
+- Rigid bodies: cannonballs (dense, fly in a clean arc, punch a crater, sink and roll on the floor), barrels (float on their side), doubloons (flutter down and settle flat). All interact with the sea (buoyancy, drag, splashes, bubbles), the terrain, the skull, the props, the palm trunks and the ship's hull.
+- One particle system: fire flames (additive), embers, woodsmoke, muzzle flash, white gunsmoke, sea spray, sand puffs, gold glints over the open chest, fireflies at night.
+
+INTERACTION
+- Tap the ship → fire the next gun on the side facing the viewer (ball, flash, smoke, recoil heel). Drag the ship → tow her against the rode; release → she drifts back to her anchor.
+- Tap the chest → lid swings open/shut with a bounce; gold glitters. Tap the fire → it roars and throws sparks. Tap the X → three doubloons pop out of the sand.
+- Drag across the water to make waves; drag a side of the block to tip it; pick up and throw balls/barrels/coins; drag a palm to bend it; drag empty space or right-drag to orbit; wheel/pinch to zoom.
+
+TIME OF DAY
+- A slider from Noon → Afternoon → Golden hour → Sunset → Dusk → Night → Midnight. The sun lowers and warms, the backdrop turns peach, then the moon takes over (dim blue), stars appear on the backdrop, the page UI switches to a dark theme, and the campfire becomes the main light: a flickering point light that warms the sand, palms, sails and gold, reflects in the water, and lights the smoke from below. Stern windows and lantern glow.
+
+UI (editorial, like the series)
+- Top-left masthead: eyebrow "MATERIAL STUDIES", big italic serif title "Pirate / Jelly.", a short line of copy.
+- Status pill (WebGPU · Live / Paused / Unavailable).
+- Right glass panel: "The cove" — buttons Fire a gun / Doubloons / Barrel, a liveliness meter, tally Shots · Afloat · Sunk; "Flavour" — Turquoise, Rum (amber), Kraken (violet) jelly palettes; sliders Firmness, Wave damping, Time of day; Reset / Pause / Reset view.
+- Bottom-left "How to play" line plus small instructions. Space fires a gun.
+- Mobile: the panel becomes a bottom sheet; touch orbit and pinch zoom.
+- Fallback card when WebGPU (or an adapter) isn't available. Respect prefers-reduced-motion.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/pirate-jelly-interactive-webgpu-diorama) · [Original post](https://x.com/vib3coded/status/2108336611796615233) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2108438685184401904"></a>
+
+### Cinematic 3D ORBIT smartwatch product reveal
+
+[Maker Evan](https://x.com/maker_evan) · 2026-10-09
+
+<a href="https://www.tripo3d.ai/3d-prompts/orbit-smartwatch-3d-product-reveal"><img src="../assets/previews/dc5ff406eef3cb325e8ef991c1ba970f65d2ba177ef1006088f8dd6632976813.jpg" width="840" loading="lazy" alt="Cinematic 3D ORBIT smartwatch product reveal"></a>
+
+A prompt for a 12-second cinematic 3D product-reveal film featuring a smartwatch called ORBIT. The author presents it as the same prompt used in a four-model comparison that includes GPT-6 Astra.
+
+**Prompt**
+
+```text
+12s cinematic 3D product reveal film for a smartwatch called ORBIT
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/orbit-smartwatch-3d-product-reveal) · [Original post](https://x.com/maker_evan/status/2108438685184401904) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2108459952683811167"></a>
+
+### Interactive educational 3D jet engine
+
+[Maker Evan](https://x.com/maker_evan) · 2026-10-09
+
+<a href="https://www.tripo3d.ai/3d-prompts/interactive-educational-3d-jet-engine"><img src="../assets/previews/e85dc3f83a7cb008583da07354607f87eb723dec0e4df2f72d2ef9f29f7a5da9.jpg" width="840" loading="lazy" alt="Interactive educational 3D jet engine"></a>
+
+A reusable prompt quoted by the root author for an interactive educational 3D jet engine in the browser. The post says the same prompt was run with GPT-6 Astra and Claude Opus 5.5.
+
+**Prompt**
+
+```text
+Build an interactive educational 3D jet engine in the browser
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/interactive-educational-3d-jet-engine) · [Original post](https://x.com/maker_evan/status/2108459952683811167) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2108475056082850278"></a>
+
+### Detailed visual 3D presentation of an AH-64E Apache Guardian
+
+[Maker Evan](https://x.com/maker_evan) · 2026-10-09
+
+<a href="https://www.tripo3d.ai/3d-prompts/ah-64e-apache-guardian-3d-presentation"><img src="../assets/previews/fd8142675f34e3f821c50b1c40d77c14511da5856c49286395ea2a89c2ace83d.jpg" width="840" loading="lazy" alt="Detailed visual 3D presentation of an AH-64E Apache Guardian"></a>
+
+A comparison post states that the same prompt was run with GPT-6 Astra and Claude Opus 5.5. The prompt requests a detailed visual 3D presentation of an AH-64E Apache Guardian helicopter.
+
+**Prompt**
+
+```text
+Create a detailed visual 3D presentation of an AH-64E Apache Guardian
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/ah-64e-apache-guardian-3d-presentation) · [Original post](https://x.com/maker_evan/status/2108475056082850278) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2108501256067285443"></a>
+
+### Interactive Honey Keyboard
+
+[Harry Jackson](https://x.com/keydol123) · 2026-10-09
+
+<a href="https://www.tripo3d.ai/3d-prompts/interactive-honey-keyboard"><img src="../assets/previews/9bb3e9bf5252fdffa56150b6a6dfa89a3fc2d4f071253f34bd489af5d41f0f41.jpg" width="840" loading="lazy" alt="Interactive Honey Keyboard"></a>
+
+Create an interactive keyboard made of honey. The root post identifies this as the same prompt used for the linked GPT-6 Astra app comparison.
+
+**Prompt**
+
+```text
+Build an interactive keyboard made of honey.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/interactive-honey-keyboard) · [Original post](https://x.com/keydol123/status/2108501256067285443) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2108505251036774875"></a>
+
+### Interactive 3D gummy dice experience
+
+[Maker Evan](https://x.com/maker_evan) · 2026-10-09
+
+<a href="https://www.tripo3d.ai/3d-prompts/interactive-3d-gummy-dice-experience"><img src="../assets/previews/21e4b35516b67133cef39cd3c41d552c7db21e89fe63f222b52f28809e0cf961.jpg" width="840" loading="lazy" alt="Interactive 3D gummy dice experience"></a>
+
+A browser-based interactive 3D gummy dice experience. The root author states that the same prompt was used with GPT-6 Astra and Claude Opus 5.5.
+
+**Prompt**
+
+```text
+Create an interactive 3D gummy dice experience in the browser
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/interactive-3d-gummy-dice-experience) · [Original post](https://x.com/maker_evan/status/2108505251036774875) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2108574047948656981"></a>
+
+### Interactive Floating Neon Island
+
+[Fazley](https://x.com/itsfazley) · 2026-10-09
+
+<a href="https://www.tripo3d.ai/3d-prompts/floating-neon-island-interactive-3d-scene"><img src="../assets/previews/c4e9c93bb51b2459443d30da91ac4a590395a7ba3da6969786e682099641851b.jpg" width="840" loading="lazy" alt="Interactive Floating Neon Island"></a>
+
+An author-supplied prompt for a complete Three.js and Vite interactive 3D scene: a procedurally generated floating island with grass, rocky sides, a neon tree, particles, atmospheric fog, cinematic lighting, slow rotation, and mouse-driven camera parallax. The post says the same prompt was compared across two models.
+
+**Prompt**
+
+```text
+Build a beautiful, interactive 3D scene using Three.js, JavaScript, and Vite.
+
+Concept: A Floating Neon Island
+
+Create a small floating island suspended in a dark space environment.
+
+Requirements:
+A floating island made of procedural geometry with grass on top and rocky sides.
+A glowing neon tree in the center with animated, emissive leaves.
+Small glowing particles floating around the island.
+A star-filled background with subtle atmospheric fog.
+Realistic lighting, shadows, ambient occlusion, and bloom effects.
+Slowly rotating island with smooth, natural animation.
+Mouse-controlled camera movement with subtle parallax.
+A minimal UI displaying the title “THE LAST ISLAND” and a small instruction: “Drag to explore.”
+Responsive layout that works on desktop and mobile.
+
+Visual Direction
+Aim for a polished, cinematic, game-like aesthetic. Use a dark navy background, cyan and purple neon accents, and soft atmospheric lighting.
+
+Technical Constraints
+Use Three.js with Vite.
+Generate all geometry procedurally. No external 3D models or paid assets.
+Keep the code clean and organized.
+Ensure the scene runs smoothly in a modern browser.
+Include all necessary setup instructions.
+
+Priority: Visual quality, smooth animation, and a cohesive art direction. Avoid a generic-looking demo. Make it feel like a tiny world from an indie game.
+
+Build the complete, runnable project rather than just explaining how to create it.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/floating-neon-island-interactive-3d-scene) · [Original post](https://x.com/itsfazley/status/2108574052294017509) · [Back to examples](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Endless Tank Defense
@@ -3701,7 +3665,7 @@ Deliver source, lockfile, npm development/build commands and static output. Veri
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 325 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 332 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>
