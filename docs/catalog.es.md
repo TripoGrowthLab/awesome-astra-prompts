@@ -28,7 +28,7 @@
 **Un punto de partida para tu próximo juego, escena o mundo interactivo.**
 
 
-**332 · Últimos prompts de Astra**
+**334 · Últimos prompts de Astra**
 
 ## Proyectos destacados
 
@@ -51,8 +51,6 @@
 <summary>Explorar ejemplos</summary>
 
 - [Demo de gráficos de fantasía isométrica](#2100271998618177864) · GitHub
-- [Isla volcánica interactiva con barcos que huyen](#2099643231659012553)
-- [Panel interactivo del sistema nervioso de un organismo en 3D](#2099719427990134984)
 - [Corazón y emoji sonriente en 3D con estilo Apple](#2099750376530657300)
 - [Juego de exploración espacial procedural totalmente explorable](#2099785223827259515)
 - [Crea un espacio 3D y un personaje de videojuego articulados a partir de imágenes de referencia](#2099850719839109597)
@@ -143,6 +141,8 @@
 - [Teclado interactivo de miel](#2108501256067285443)
 - [Experiencia interactiva con dados de gominola en 3D](#2108505251036774875)
 - [Isla de neón flotante interactiva](#2108574047948656981)
+- [Diorama interactivo WebGPU Castle Jelly](#2108649845405929924)
+- [Simulación interactiva de tela 3D sobre una esfera cromada](#2108912938656407888)
 - [Battle City 3D: Defensa de tanques sin fin](#battle-city-3d)
 - [Crazy Tanks — Artillería 3D en una isla](#crazy-tanks-3d-island-artillery)
 - [Villa de gelatina](#jelly-villa)
@@ -170,46 +170,6 @@ Crea una demo gráfica: cámara isométrica, estilo artístico tipo vóxel con s
 ```
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100271998618177864) · [Publicación original](https://github.com/achimala/dream-loop) · [Código fuente](https://github.com/achimala/dream-loop) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2099643231659012553"></a>
-
-### Isla volcánica interactiva con barcos que huyen
-
-[Wësche](https://x.com/WescheNex1q) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099643231659012553"><img src="../assets/previews/9a1b9694885d457f5a963b113de92ef80461d9c977d88ed6544e091eabf13eea.jpg" width="840" loading="lazy" alt="Isla volcánica interactiva con barcos que huyen"></a>
-
-Una solicitud reutilizable para crear una isla volcánica 3D interactiva, con lava fluyendo y barcos que huyen durante la erupción. El autor principal indica que envió esta solicitud a varios modelos, incluido Astra-6, como parte de una comparación.
-
-**Prompt**
-
-```text
-crea una isla volcánica interactiva con lava fluyendo y barcos que huyen.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099643231659012553) · [Publicación original](https://x.com/WescheNex1q/status/2099643231659012553) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2099719427990134984"></a>
-
-### Panel interactivo del sistema nervioso de un organismo en 3D
-
-[AiMind](https://x.com/AIMind_Ai) · 2026-09-15
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099719427990134984"><img src="../assets/previews/12a118ec5a6078181cd7528a0f114e8c5c8c1c3bb45f309cf4c3162886d0b347.jpg" width="840" loading="lazy" alt="Panel interactivo del sistema nervioso de un organismo en 3D"></a>
-
-AiMind lo comparte como recomendación de «Roba el prompt» para crear un panel interactivo con regiones del sistema nervioso en las que se puede hacer clic y un organismo 3D con rigging procedural. La publicación muestra una demostración con una mosca, pero el prompt citado usa el marcador \[organism\] y no se establece explícitamente que sea la entrada exacta utilizada para ese clip.
-
-**Prompt**
-
-```text
-Panel interactivo. A la izquierda: sistema nervioso esquemático de [organism], con regiones en las que se puede hacer clic. A la derecha: [organism] 3D con rigging procedural. Al hacer clic en una región, se activa una respuesta motora de 2,5 segundos. Interfaz oscura, con telemetría de velocidad y rumbo.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099719427990134984) · [Publicación original](https://x.com/AIMind_Ai/status/2099719427990134984) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -3232,6 +3192,234 @@ Crea el proyecto completo y ejecutable, en lugar de limitarte a explicar cómo h
 
 ---
 
+<a id="2108649845405929924"></a>
+
+### Diorama interactivo WebGPU Castle Jelly
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-09
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/castle-jelly-interactive-webgpu-diorama"><img src="../assets/previews/45f0f466b9571f31fc1af32aac463458c2b6038abc7e828a5fc2e20652a38ce2.jpg" width="840" loading="lazy" alt="Diorama interactivo WebGPU Castle Jelly"></a>
+
+El autor proporcionó este prompt en un comentario verificado para comparar GPT-6 Astra y Claude con el mismo prompt. Solicita un diorama interactivo WebGPU de un lago de gelatina, con un castillo de cuento de hadas sobre un acantilado, un terreno de roca de caramelo en capas, física de cascada, un galeón velero y controles táctiles para fuegos artificiales, movimiento del puente, monedas, olas y hora del día.
+
+**Prompt**
+
+```text
+Crea una página WebGPU de un solo archivo, un «estudio de materiales» llamado «Castle Jelly», con el estilo de mi serie de dioramas de gelatina (Pirate Jelly / Island Jelly): un bloque cuadrado de lago de gelatina tambaleante sobre una mesa en un estudio de papel, con las caras cortadas mostrando estratos de caramelo, un encabezado serif en cursiva que diga «Castle / Jelly.», un panel de control de vidrio a la derecha, la línea «Cómo jugar» en la esquina inferior izquierda, la interfaz en inglés y un diseño de hoja inferior para móviles.
+El diorama: un castillo de cuento de hadas sobre un acantilado. La parte posterior izquierda del bloque es una meseta cuyo frente es una pared vertical de roca con franjas de caramelo (estratos de tarta por capas que coinciden con las caras cortadas del bloque, un talud bajo el lago), generada a partir de un SDF con redes de superficie y cubierta de musgo en las zonas orientadas hacia arriba. En el césped: un castillo color crema con torres redondas, tejados cónicos brillantes de color rosa, lila y azul, remates dorados, banderines ondeantes, muros almenados, un gran salón, ventanas arqueadas (cristal oscuro de día, luz de lámparas por la noche), una puerta fortificada con puente levadizo, un brasero junto a la entrada, pinos de gominola, arbustos floridos y juncos. Un río brota de un manantial, pasa junto a la entrada por debajo del puente levadizo y cae por el borde en forma de cascada, describiendo un arco hasta el lago de gelatina; y continúa dentro de la gelatina: una columna deshilachada, burbujas impulsadas hacia abajo que después ascienden e hilos luminosos de corriente que recorren el fondo del lago. La cascada golpea la superficie (olas de aguas poco profundas, espuma, salpicaduras y niebla). Un pequeño galeón real (casco azul, velas blancas y estandarte con una corona) navega dando vueltas por el lago.
+Interacciones: fuegos artificiales (cohetes que despegan de las torres y explosiones de colores que iluminan el castillo y el lago; automáticos por la noche), bajar/subir el puente, saludo real (el barco dispara y provoca una salpicadura), monedas de los deseos (al estanque bajo la cascada); toca una torre, la entrada, el brasero o el barco; arrastra el agua para crear olas, inclina el bloque, lanza monedas y pelotas, dobla los pinos. Deslizadores: firmeza, cascada (flujo), amortiguación de las olas y hora del día (mediodía → puesta de sol → noche con estrellas). Variantes: glaciar, rosa y lila. Sombras, cáusticas, refracción a través de la gelatina y física con pasos fijos.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/castle-jelly-interactive-webgpu-diorama) · [Publicación original](https://x.com/vib3coded/status/2108649989098594707) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2108912938656407888"></a>
+
+### Simulación interactiva de tela 3D sobre una esfera cromada
+
+[EvoLink.ai](https://x.com/EvoLinkAi) · 2026-10-10
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/interactive-cloth-simulation-chrome-sphere"><img src="../assets/previews/9ad6950acc582fada95a4d2b581046313eebc4abdc1ca173922e7e6900310540.jpg" width="840" loading="lazy" alt="Simulación interactiva de tela 3D sobre una esfera cromada"></a>
+
+Un prompt publicado por EvoLink.ai en un comentario del autor para una simulación interactiva de tela 3D en el navegador. Especifica una tela de satén rojo coral que cae físicamente y se adapta sobre una esfera cromada, con seis densidades de malla claramente etiquetadas, de 4 a 4.096 quads, una demostración determinista de 24 segundos y controles para arrastrar la tela directamente.
+
+**Prompt**
+
+```text
+Crea una simulación interactiva de tela 3D pulida para comparar visualmente modelos de programación mediante IA.
+
+El elemento visual central: una pieza cuadrada de tela cae sobre una esfera cromada inmóvil. Repite exactamente la misma caída con mallas de tela cada vez más densas para mostrar cómo cambia la deformación.
+
+Crea una aplicación funcional para el navegador con Three.js y TypeScript/JavaScript. Implémentala y ejecútala en el espacio de trabajo actual. Completa el proyecto de forma autónoma, pruébalo y corrige los problemas antes de terminar.
+
+DIRECCIÓN VISUAL
+
+Busca una animación 3D premium y extrañamente satisfactoria: un único sujeto grande y claramente visible, una tela hermosa, un contacto convincente y una iluminación de estudio contenida.
+
+Usa una composición 16:9. La grabación final se combinará con otras dos grabaciones dentro de un vídeo vertical 9:16, así que todo debe seguir siendo legible al reducirse a un tercio de la pantalla de un teléfono.
+
+Escena:
+- Una esfera de cromo pulido inmóvil sobre un suelo mate de color carbón oscuro.
+- Un cuadrado de tela de satén rojo coral intenso suspendido horizontalmente sobre ella.
+- La longitud de cada lado de la tela debe ser aproximadamente 2,6 veces el diámetro de la esfera, para que los bordes puedan caer alrededor de ella.
+- Una luz principal grande y suave, una luz de relleno tenue y una luz de contorno sutil.
+- Reflejos de estudio amplios que hagan reconocible el cromo.
+- Sombras de contacto suaves y pliegues visibles.
+- Un fondo oscuro y contenido, con una separación marcada entre la tela, la esfera y el suelo.
+
+La tela debe parecer satén tejido, no goma, líquido, lámina metálica ni plástico. Usa una textura sutil y un brillo moderado. Renderiza correctamente ambas caras.
+
+Elige un ángulo de cámara fijo, ligeramente elevado y en tres cuartos, que muestre la parte superior de la esfera y los bordes colgantes de la tela. Mantén el sujeto grande, pero deja espacio suficiente para la caída inicial.
+
+No hagas orbitar la cámara durante la demostración automática. No incluyas un panel decorativo, marcas, nombres de modelos, una pantalla de introducción ni texto innecesario.
+
+SIMULACIÓN DE TELA REAL
+
+Usa una simulación física en tiempo real. Es apropiado utilizar un solucionador de dinámica basada en posiciones o de posición extendida, pero elige una implementación que puedas hacer fiable y eficiente.
+
+El movimiento debe surgir de la gravedad, las restricciones y el tratamiento de las colisiones.
+
+No hagas lo siguiente:
+- Sustituir la tela por un vídeo pregrabado.
+- Usar una onda de shader o una animación de vértices prefabricada como sustituto de la simulación.
+- Animar los vértices hacia una forma drapeada precalculada.
+- Mostrar recuentos de caras arbitrarios que no estén relacionados con la malla.
+- Cambiar a una tela de alta resolución mientras se muestra una etiqueta de baja resolución.
+
+Implementa lo siguiente:
+- Gravedad.
+- Restricciones estructurales que se opongan al estiramiento.
+- Resistencia al cizallamiento.
+- Resistencia a la flexión.
+- Amortiguación.
+- Colisiones estables con la esfera y el suelo.
+- Un pequeño margen de colisión que evite intersecciones visibles sin hacer que la tela flote.
+- Un ritmo de simulación uniforme e independiente de la velocidad de fotogramas del renderizado.
+
+La tela debe quedar completamente libre al soltarla: no fijes sus esquinas.
+
+Usa las mismas dimensiones físicas y las mismas propiedades de material objetivo en todas las densidades de malla. Ten en cuenta la separación de la malla al establecer las masas y las restricciones, para que cambiar la densidad de la malla no modifique arbitrariamente la masa total ni la rigidez de la tela.
+
+Usa la misma configuración inicial determinista en todos los niveles. Se acepta un pequeño desplazamiento o giro fijo con respecto a la esfera para crear pliegues asimétricos atractivos, pero debe ser idéntico en todas las ejecuciones.
+
+Da prioridad a evitar que la tela atraviese la esfera. En resoluciones de malla bajas, comprobar solo los vértices no es suficiente: una arista o un triángulo puede intersectar la esfera aunque sus vértices permanezcan fuera de ella. Resuelve también este caso en la medida de lo práctico y no ocultes los fallos mediante la posición de la cámara.
+
+Permite que las mallas gruesas se vean gruesas. Las resoluciones superiores deben revelar de forma natural una deformación más detallada, sin fabricar una «mejora».
+
+RESOLUCIONES DE MALLA Y ETIQUETADO PRECISO
+
+Usa estas cuadrículas de simulación cuadradas:
+
+2 × 2 celdas = 4 quads
+4 × 4 celdas = 16 quads
+8 × 8 celdas = 64 quads
+16 × 16 celdas = 256 quads
+32 × 32 celdas = 1.024 quads
+64 × 64 celdas = 4.096 quads
+
+Cada quad se renderiza como dos triángulos.
+
+La etiqueta grande de la grabación debe decir:
+«4 CARAS»
+«16 CARAS»
+«64 CARAS»
+«256 CARAS»
+«1.024 CARAS»
+«4.096 CARAS»
+
+Incluye un subtítulo pequeño y uniforme:
+«cuadrícula de quads»
+
+En los controles ampliados, muestra los recuentos exactos de quads, triángulos y vértices. Derívalos de la malla activa.
+
+No añadas subdivisiones ocultas que tergiversen la resolución mostrada. El sombreado puede ser suave, pero la geometría visible de la tela debe coincidir con la cuadrícula seleccionada.
+
+DEMOSTRACIÓN AUTOMÁTICA — EXACTAMENTE 24 SEGUNDOS
+
+Añade un botón «Demostración» que inicie una secuencia determinista.
+
+Seis etapas, exactamente cuatro segundos por etapa:
+
+1. 4 caras
+2. 16 caras
+3. 64 caras
+4. 256 caras
+5. 1.024 caras
+6. 4.096 caras
+
+Para cada etapa:
+- Durante los primeros 0,25 segundos: restablece la tela a la misma posición inicial suspendida y muestra el recuento actualizado.
+- Durante los 3,75 segundos siguientes: suéltala y simula la caída y el drapeado.
+- Restablece inmediatamente la escena para pasar a la siguiente etapa, sin pantalla de carga ni una transición larga.
+
+Crea o prepara de antemano los recursos necesarios para que cambiar de resolución no provoque una pausa apreciable.
+
+Mantén idénticos durante toda la secuencia la cámara, la iluminación, el color de la tela, las posiciones de los objetos y la escala temporal de la simulación.
+
+No ralentices la simulación en las resoluciones superiores para conservar la velocidad de fotogramas. Optimiza el solucionador.
+
+Al final, conserva la última escena y permite la interacción. Proporciona una repetición con un solo clic.
+
+INTERACTION
+
+Fuera de la demostración automática, permite:
+- Seleccionar cualquier resolución de malla.
+- Dejar caer o restablecer la tela.
+- Pausar y reanudar.
+- Activar o desactivar una superposición sutil de alambrado.
+- Agarrar y arrastrar la tela con el ratón o mediante gestos táctiles.
+- Soltar la tela para reanudar la simulación normal.
+
+Al arrastrar, restringe temporalmente la región agarrada; no teletransportes toda la tela. Limita el arrastre para mantener estable la simulación.
+
+Cambiar la resolución debe sustituir limpiamente la tela y restablecer su estado.
+
+Proporciona un modo de grabación que oculte los controles y el cursor cuando esté inactivo, dejando solo la escena y la etiqueta compacta del recuento de caras. La etiqueta debe permanecer exactamente en la misma posición en todas las etapas.
+
+Haz que la escena principal sea adaptable, con una composición de captura 16:9 fiable. Evita las barras de desplazamiento y el contenido recortado.
+
+INGENIERÍA Y RENDIMIENTO
+
+Usa las herramientas y dependencias disponibles en el espacio de trabajo. Se permiten materiales procedurales e iluminación ambiental; evita depender de URL externas frágiles para los recursos.
+
+Busca una reproducción fluida a 60 fps en equipos de escritorio, con un objetivo mínimo de 30 fps en la resolución más alta. Mide el rendimiento en el navegador real si está disponible. No afirmes una velocidad de fotogramas que no hayas medido.
+
+Usa pasos de tiempo de simulación fijos, subpasos adecuados y estructuras de datos eficientes. Evita las asignaciones innecesarias en cada fotograma.
+
+Gestiona lo siguiente:
+- Inicios repetidos de la demostración.
+- Restablecimientos durante una simulación.
+- Cambios de resolución durante la interacción.
+- Liberación del puntero fuera del lienzo.
+- Cambio de tamaño de la ventana.
+- Limpieza de las geometrías y los controladores de eventos sustituidos.
+
+Si el rendimiento se convierte en un problema, optimiza antes de reducir la calidad visual. No reduzcas silenciosamente la resolución de malla solicitada.
+
+PRIORITIES
+
+1. Física funcional de la tela y contacto convincente con la esfera.
+2. Tela e iluminación atractivas y legibles.
+3. Demostración sincronizada y fiable de 24 segundos.
+4. Rendimiento fluido.
+5. Controles mínimos y funcionales.
+
+Mantén el alcance centrado. No dediques tiempo a crear una interfaz no relacionada ni escenas adicionales.
+
+VALIDATION
+
+Antes de terminar:
+- Ejecuta la aplicación.
+- Verifica todos los recuentos de malla.
+- Ejecuta la demostración completa.
+- Inspecciona las colisiones en baja resolución y los pliegues en alta resolución.
+- Prueba el restablecimiento, la repetición, el alambrado y el arrastre.
+- Comprueba la composición de grabación 16:9.
+- Inspecciona los errores del navegador si las herramientas del navegador están disponibles.
+- Corrige los problemas que observes.
+
+Si no puedes inspeccionar visualmente el navegador, indícalo claramente en lugar de afirmar que has realizado una verificación visual.
+
+Termina con un breve resumen:
+- Cómo iniciar la aplicación.
+- Cómo iniciar la demostración y el modo de grabación.
+- Qué has probado.
+- Cualquier limitación pendiente.
+
+Entrega la aplicación funcional, no solo un plan de implementación.
+
+Inspirado por @noclipepe
+
+Usa la API Haiku 5.5 en tu agente:
+
+https://t.co/BmU7fO6uOJ
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-cloth-simulation-chrome-sphere) · [Publicación original](https://x.com/EvoLinkAi/status/2108912941328154844) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Defensa de tanques sin fin
@@ -3687,7 +3875,7 @@ Entrega el código fuente, el archivo de bloqueo, los comandos npm de desarrollo
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 332 ejemplos en el sitio oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 334 ejemplos en el sitio oficial →</a></strong></p>
 <p><sub>Para que el README de GitHub se renderice con fluidez, aquí solo se muestran los 100 ejemplos más recientes.</sub></p>
 <br>
 </td></tr>

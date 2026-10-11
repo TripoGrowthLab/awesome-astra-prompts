@@ -63,16 +63,6 @@
       ]
     },
     {
-      "path": "assets/previews/12a118ec5a6078181cd7528a0f114e8c5c8c1c3bb45f309cf4c3162886d0b347.jpg",
-      "fingerprint": "c5bf69c32633ad3f8f6fb9a933f752b3ff21095ae28a2507b8887e630fdb77ec",
-      "sha256": "12a118ec5a6078181cd7528a0f114e8c5c8c1c3bb45f309cf4c3162886d0b347",
-      "bytes": 62857,
-      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2099719321287077888/img/X731MnWVRk77gnsk.jpg",
-      "promptIds": [
-        "2099719427990134984"
-      ]
-    },
-    {
       "path": "assets/previews/1a842b607dcfcccfd8b382dd54f71224f044dcfbb13dad37549ea086cf876511.jpg",
       "fingerprint": "1f745b828532e6827fde0da19c8d8ec803ab1e23955ad079c837cc9a262f502b",
       "sha256": "1a842b607dcfcccfd8b382dd54f71224f044dcfbb13dad37549ea086cf876511",
@@ -300,6 +290,16 @@
       "sourceUrl": "https://x.com/abc30037274/status/2100636075039629796",
       "promptIds": [
         "2100636075039629796"
+      ]
+    },
+    {
+      "path": "assets/previews/45f0f466b9571f31fc1af32aac463458c2b6038abc7e828a5fc2e20652a38ce2.jpg",
+      "fingerprint": "a25becdc7a273a096e9caae0d67b09c1528465d0dfe30282364ffb3f05fb1e23",
+      "sha256": "45f0f466b9571f31fc1af32aac463458c2b6038abc7e828a5fc2e20652a38ce2",
+      "bytes": 100447,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2108649604161863680/img/q4PFb-ZFSwAj5K7x.jpg",
+      "promptIds": [
+        "2108649845405929924"
       ]
     },
     {
@@ -743,13 +743,13 @@
       ]
     },
     {
-      "path": "assets/previews/9a1b9694885d457f5a963b113de92ef80461d9c977d88ed6544e091eabf13eea.jpg",
-      "fingerprint": "405c770a779ea3b34c483bbd504b9bae07e2920e72854663351556c8ddc47ff1",
-      "sha256": "9a1b9694885d457f5a963b113de92ef80461d9c977d88ed6544e091eabf13eea",
-      "bytes": 154573,
-      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2099643188554178560/img/olAJpmx5acFijn1K.jpg",
+      "path": "assets/previews/9ad6950acc582fada95a4d2b581046313eebc4abdc1ca173922e7e6900310540.jpg",
+      "fingerprint": "e86e888f0b4b00629bfade98182725671a074d24580178769544840b66888cef",
+      "sha256": "9ad6950acc582fada95a4d2b581046313eebc4abdc1ca173922e7e6900310540",
+      "bytes": 79584,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2108880178143207424/img/o7T5FU3Yz_EQcbDN.jpg",
       "promptIds": [
-        "2099643231659012553"
+        "2108912938656407888"
       ]
     },
     {

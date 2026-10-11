@@ -28,7 +28,7 @@
 **Um ponto de partida para seu próximo jogo, cena ou mundo interativo.**
 
 
-**332 · Prompts mais recentes do Astra**
+**334 · Prompts mais recentes do Astra**
 
 ## Projetos em destaque
 
@@ -51,8 +51,6 @@
 <summary>Explorar exemplos</summary>
 
 - [Demo de gráficos de fantasia isométrica](#2100271998618177864) · GitHub
-- [Ilha vulcânica interativa com barcos em fuga](#2099643231659012553)
-- [Painel interativo do sistema nervoso de um organismo 3D](#2099719427990134984)
 - [Emoji de coração 3D no estilo Apple e emoji sorridente](#2099750376530657300)
 - [Jogo procedural de exploração espacial com destinos acessíveis](#2099785223827259515)
 - [Crie um espaço 3D e um personagem de jogo animáveis a partir de imagens de referência](#2099850719839109597)
@@ -143,6 +141,8 @@
 - [Teclado de Mel Interativo](#2108501256067285443)
 - [Experiência interativa com dados de goma de mascar em 3D](#2108505251036774875)
 - [Ilha Neon Flutuante Interativa](#2108574047948656981)
+- [Diorama interativo WebGPU Castle Jelly](#2108649845405929924)
+- [Simulação interativa de tecido 3D em uma esfera cromada](#2108912938656407888)
 - [Battle City 3D: Defesa de Tanques sem Fim](#battle-city-3d)
 - [Crazy Tanks — Artilharia 3D em uma ilha](#crazy-tanks-3d-island-artillery)
 - [Vila de Gelatina](#jelly-villa)
@@ -170,46 +170,6 @@ Crie uma demo gráfica: câmera isométrica, estilo visual inspirado em voxels, 
 ```
 
 [Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2100271998618177864) · [Publicação original](https://github.com/achimala/dream-loop) · [Código-fonte](https://github.com/achimala/dream-loop) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2099643231659012553"></a>
-
-### Ilha vulcânica interativa com barcos em fuga
-
-[Wësche](https://x.com/WescheNex1q) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2099643231659012553"><img src="../assets/previews/9a1b9694885d457f5a963b113de92ef80461d9c977d88ed6544e091eabf13eea.jpg" width="840" loading="lazy" alt="Ilha vulcânica interativa com barcos em fuga"></a>
-
-Um pedido reutilizável para criar uma ilha vulcânica 3D interativa, com lava fluindo e barcos que fogem durante a erupção. O autor original diz que enviou este pedido para vários modelos, incluindo Astra-6, como parte de uma comparação.
-
-**Prompt**
-
-```text
-crie uma ilha vulcânica interativa com lava fluindo e barcos que fogem.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2099643231659012553) · [Publicação original](https://x.com/WescheNex1q/status/2099643231659012553) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2099719427990134984"></a>
-
-### Painel interativo do sistema nervoso de um organismo 3D
-
-[AiMind](https://x.com/AIMind_Ai) · 2026-09-15
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2099719427990134984"><img src="../assets/previews/12a118ec5a6078181cd7528a0f114e8c5c8c1c3bb45f309cf4c3162886d0b347.jpg" width="840" loading="lazy" alt="Painel interativo do sistema nervoso de um organismo 3D"></a>
-
-A AiMind compartilha esta recomendação de “Roube o prompt” para um painel interativo com regiões clicáveis do sistema nervoso e um organismo 3D com rigging procedural. A publicação apresenta uma demonstração com uma mosca, mas o prompt citado usa o marcador \[organism\] e não afirma explicitamente que essa foi a entrada exata usada no clipe.
-
-**Prompt**
-
-```text
-Painel interativo. À esquerda: sistema nervoso esquemático de [organism], com regiões clicáveis. À direita: [organism] 3D com rigging procedural. Clicar em uma região aciona uma resposta motora de 2,5 segundos. Interface escura, com telemetria de velocidade e direção.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2099719427990134984) · [Publicação original](https://x.com/AIMind_Ai/status/2099719427990134984) · [Voltar aos exemplos](#all-prompts)
 
 ---
 
@@ -3169,6 +3129,234 @@ Crie o projeto completo e executável, em vez de apenas explicar como criá-lo.
 
 ---
 
+<a id="2108649845405929924"></a>
+
+### Diorama interativo WebGPU Castle Jelly
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-09
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/castle-jelly-interactive-webgpu-diorama"><img src="../assets/previews/45f0f466b9571f31fc1af32aac463458c2b6038abc7e828a5fc2e20652a38ce2.jpg" width="840" loading="lazy" alt="Diorama interativo WebGPU Castle Jelly"></a>
+
+O autor forneceu este prompt em um comentário verificado para a comparação entre GPT-6 Astra e Claude usando o mesmo prompt. Ele solicita um diorama interativo WebGPU de um lago de gelatina, com um castelo de conto de fadas sobre um penhasco, terreno de rocha doce em camadas, física de cachoeira, um galeão à vela e controles acionáveis para fogos de artifício, movimento da ponte, moedas, ondas e horário do dia.
+
+**Prompt**
+
+```text
+Crie uma página de estudo de materiais WebGPU em um único arquivo chamada "Castle Jelly", no estilo da minha série de dioramas de gelatina (Pirate Jelly / Island Jelly): um bloco quadrado de lago de gelatina instável sobre uma mesa em um estúdio de papel, com as faces cortadas revelando camadas de doce, cabeçalho serifado em itálico "Castle / Jelly.", painel de controle de vidro à direita, linha "How to play" no canto inferior esquerdo, interface em inglês e layout de bottom sheet para dispositivos móveis.
+O diorama: um castelo de conto de fadas sobre um penhasco. A parte posterior esquerda do bloco é um platô cuja frente é uma parede íngreme de rocha listrada como doce (camadas de bolo que combinam com as faces cortadas do bloco, um talude sob o lago), modelada a partir de um SDF com surface nets e coberta de musgo nas áreas voltadas para cima. No gramado: um castelo creme com torres redondas, telhados cônicos brilhantes em rosa, lilás e azul, pináculos dourados, flâmulas tremulando, muralhas com ameias, um grande salão, janelas arqueadas (vidro escuro durante o dia, luz de lamparinas à noite), uma portaria com ponte levadiça, um braseiro junto ao portão, pinheiros de goma, arbustos floridos e juncos. Um rio brota de uma nascente, passa pelo portão sob a ponte levadiça e deságua pela borda como uma cachoeira que faz uma curva até o lago de gelatina — e continua dentro da gelatina: uma pluma que se desfaz, bolhas que são empurradas para baixo e depois sobem, fios luminosos de correnteza correndo pelo fundo do lago. A queda d'água golpeia a superfície (ondas de águas rasas, espuma, respingos e névoa). Um pequeno galeão real (casco azul, velas brancas e estandarte com coroa) percorre o lago.
+Interações: fogos de artifício (foguetes lançados das torres, explosões coloridas que iluminam o castelo e o lago; acionados automaticamente à noite), baixar/erguer a ponte, saudação real (o navio dispara e provoca um respingo), moedas dos desejos (jogadas na piscina sob a cachoeira); toque em uma torre, no portão, no braseiro ou no navio, arraste a água para criar ondas, incline o bloco, arremesse moedas e bolas e entorte os pinheiros. Sliders: Firmeza, Cachoeira (fluxo), Amortecimento das ondas, Horário do dia (meio-dia → pôr do sol → noite com estrelas). Variações: Glacier, Rose, Lilac. Sombras, cáusticas, refração através da gelatina e física em passos fixos.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/castle-jelly-interactive-webgpu-diorama) · [Publicação original](https://x.com/vib3coded/status/2108649989098594707) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2108912938656407888"></a>
+
+### Simulação interativa de tecido 3D em uma esfera cromada
+
+[EvoLink.ai](https://x.com/EvoLinkAi) · 2026-10-10
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/interactive-cloth-simulation-chrome-sphere"><img src="../assets/previews/9ad6950acc582fada95a4d2b581046313eebc4abdc1ca173922e7e6900310540.jpg" width="840" loading="lazy" alt="Simulação interativa de tecido 3D em uma esfera cromada"></a>
+
+Um prompt publicado pela EvoLink.ai em um comentário do autor para uma simulação interativa de tecido 3D no navegador. Ele especifica um tecido de cetim vermelho-coral que cai fisicamente e se acomoda sobre uma esfera cromada, com seis densidades de malha identificadas honestamente, de 4 a 4.096 quads, uma demonstração determinística de 24 segundos e controles para arrastar o tecido diretamente.
+
+**Prompt**
+
+```text
+Crie uma simulação interativa de tecido 3D refinada para uma comparação visual entre modelos de codificação por IA.
+
+O elemento visual central: um pedaço quadrado de tecido cai sobre uma esfera cromada estacionária. Repita exatamente a mesma queda com malhas de tecido progressivamente mais densas, mostrando como a deformação muda.
+
+Crie uma aplicação funcional para navegador usando Three.js e TypeScript/JavaScript. Implemente e execute-a no workspace atual. Conclua o projeto de forma autônoma, teste-o e corrija os problemas antes de finalizar.
+
+DIREÇÃO VISUAL
+
+Busque uma animação 3D premium e estranhamente satisfatória: um único objeto grande e claramente visível, tecido bonito, contato convincente e iluminação de estúdio discreta.
+
+Use uma composição 16:9. A gravação final será empilhada com outras duas gravações dentro de um vídeo vertical 9:16, portanto tudo deve continuar legível quando reduzido a um terço da tela de um celular.
+
+Cena:
+- Uma esfera cromada polida e estacionária acima de um piso de carvão escuro fosco.
+- Um quadrado de tecido de cetim vermelho-coral intenso suspenso horizontalmente acima dela.
+- Comprimento lateral do tecido de aproximadamente 2,6 vezes o diâmetro da esfera, para que as bordas possam cair ao redor dela.
+- Uma luz principal grande e suave, uma luz de preenchimento suave e uma luz de recorte sutil.
+- Reflexos amplos de estúdio que tornem o cromo claramente visível.
+- Sombras de contato suaves e dobras visíveis.
+- Um fundo escuro discreto, com forte separação entre tecido, esfera e piso.
+
+O tecido deve parecer cetim tramado, não borracha, líquido, folha metálica ou plástico. Use uma textura sutil e um brilho contido. Renderize os dois lados corretamente.
+
+Escolha um ângulo de câmera fixo, em três quartos e levemente elevado, que revele o topo da esfera e as bordas pendentes do tecido. Mantenha o objeto grande, deixando espaço suficiente para a queda inicial.
+
+Não faça a câmera orbitar durante a demonstração automática. Não inclua painel decorativo, branding, nomes de modelos, tela de abertura ou texto desnecessário.
+
+SIMULAÇÃO REAL DE TECIDO
+
+Use uma simulação física em tempo real. Um solver de dinâmica baseada em posição ou de dinâmica baseada em posição estendida é apropriado, mas escolha uma implementação que você consiga tornar confiável e eficiente.
+
+O movimento deve surgir da gravidade, das restrições e do tratamento de colisões.
+
+Não faça o seguinte:
+- Substituir o tecido por um vídeo pré-gravado.
+- Usar uma onda em shader ou uma animação de vértices pronta como substituta da simulação.
+- Animar os vértices em direção a uma forma drapeada pré-calculada.
+- Exibir contagens de faces arbitrárias e não relacionadas à malha.
+- Usar um tecido de alta resolução enquanto exibe um rótulo de baixa resolução.
+
+Implemente:
+- Gravidade.
+- Restrições estruturais que resistam ao alongamento.
+- Resistência ao cisalhamento.
+- Resistência à flexão.
+- Amortecimento.
+- Colisões estáveis com a esfera e o piso.
+- Uma pequena margem de colisão que impeça interseções visíveis sem fazer o tecido flutuar.
+- Temporização consistente da simulação, independente da taxa de quadros da renderização.
+
+O tecido fica completamente livre quando solto: não prenda os cantos.
+
+Use as mesmas dimensões físicas e as mesmas propriedades-alvo do material em todas as densidades de malha. Considere o espaçamento da malha ao definir massas e restrições, para que mudar a densidade da malha não altere arbitrariamente a massa total ou a rigidez do tecido.
+
+Use a mesma configuração inicial determinística em todos os níveis. Um pequeno deslocamento ou rotação fixa em relação à esfera é aceitável para criar dobras assimétricas atraentes, mas mantenha-a idêntica em todas as execuções.
+
+Priorize impedir que o tecido atravesse a esfera. Em resoluções de malha baixas, verificar apenas os vértices não é suficiente: uma aresta ou um triângulo pode intersectar a esfera enquanto seus vértices permanecem do lado de fora. Trate isso da melhor forma prática e não esconda falhas com o posicionamento da câmera.
+
+Permita que as malhas mais grosseiras pareçam grosseiras. Resoluções mais altas devem revelar naturalmente uma deformação mais detalhada, sem uma “melhoria” fabricada.
+
+RESOLUÇÕES DA MALHA E IDENTIFICAÇÃO HONESTA
+
+Use estas grades quadradas de simulação:
+
+2 × 2 células = 4 quads
+4 × 4 células = 16 quads
+8 × 8 células = 64 quads
+16 × 16 células = 256 quads
+32 × 32 células = 1.024 quads
+64 × 64 células = 4.096 quads
+
+Cada quad é renderizado como dois triângulos.
+
+O rótulo grande da gravação deve mostrar:
+“4 FACES”
+“16 FACES”
+“64 FACES”
+“256 FACES”
+“1.024 FACES”
+“4.096 FACES”
+
+Inclua um subtítulo pequeno e consistente:
+“grade de quads”
+
+Nos controles expandidos, mostre as contagens exatas de quads, triângulos e vértices. Derive-as da malha ativa.
+
+Não adicione subdivisão oculta que deturpe a resolução exibida. O sombreamento pode ser suave, mas a geometria visível do tecido deve corresponder à grade selecionada.
+
+DEMONSTRAÇÃO AUTOMÁTICA — EXATAMENTE 24 SEGUNDOS
+
+Adicione um botão “Demonstração” que inicie uma sequência determinística.
+
+Seis etapas, exatamente quatro segundos por etapa:
+
+1. 4 faces
+2. 16 faces
+3. 64 faces
+4. 256 faces
+5. 1.024 faces
+6. 4.096 faces
+
+Para cada etapa:
+- Nos primeiros 0,25 segundo: redefina o tecido para a mesma posição inicial suspensa e exiba a contagem atualizada.
+- Nos 3,75 segundos seguintes: solte-o e simule a queda e o drapeado.
+- Redefina imediatamente para a próxima etapa, sem tela de carregamento ou transição longa.
+
+Pré-crie ou prepare os recursos necessários para que a troca de resolução não cause uma pausa perceptível.
+
+Mantenha a câmera, a iluminação, a cor do tecido, as posições dos objetos e a escala de tempo da simulação idênticas durante toda a sequência.
+
+Não desacelere a simulação em resoluções mais altas para preservar a taxa de quadros. Em vez disso, otimize o solver.
+
+No final, mantenha a última cena e permita a interação. Ofereça uma opção de replay com um clique.
+
+INTERACTION
+
+Fora da demonstração automática, ofereça suporte a:
+- Seleção de qualquer resolução de malha.
+- Soltar/redefinir o tecido.
+- Pausar/retomar.
+- Alternar uma sobreposição sutil de wireframe.
+- Pegar e arrastar o tecido com o mouse ou toque.
+- Soltar o tecido para que a simulação normal seja retomada.
+
+Arrastar deve restringir temporariamente a região agarrada, não teletransportar o tecido inteiro. Limite o arraste para manter a simulação estável.
+
+Trocar a resolução deve substituir o tecido corretamente e redefinir seu estado.
+
+Ofereça um modo de gravação que oculte os controles e o cursor quando inativo, deixando apenas a cena e o rótulo compacto da contagem de faces. O rótulo deve permanecer exatamente na mesma posição em todas as etapas.
+
+Torne a cena principal responsiva, com um layout de captura 16:9 confiável. Evite barras de rolagem e conteúdo cortado.
+
+ENGENHARIA E DESEMPENHO
+
+Use as ferramentas e dependências disponíveis no workspace. Materiais procedurais e iluminação de ambiente são bem-vindos; evite depender de URLs externas frágeis para assets.
+
+Busque uma reprodução fluida a 60 fps no desktop, com uma meta mínima de 30 fps na resolução mais alta. Meça o desempenho no navegador real, se possível. Não afirme uma taxa de quadros que não tenha sido medida.
+
+Use passos de tempo fixos para a simulação, subpassos apropriados e estruturas de dados eficientes. Evite alocações desnecessárias a cada quadro.
+
+Trate:
+- Inícios repetidos da demonstração.
+- Redefinições durante uma simulação.
+- Trocas de resolução durante a interação.
+- Liberação do ponteiro fora do canvas.
+- Redimensionamento da janela.
+- Limpeza das geometrias substituídas e dos manipuladores de eventos.
+
+Se o desempenho se tornar um problema, otimize antes de reduzir a qualidade visual. Não reduza silenciosamente a resolução de malha solicitada.
+
+PRIORITIES
+
+1. Física funcional do tecido e contato convincente com a esfera.
+2. Tecido e iluminação bonitos e legíveis.
+3. Demonstração sincronizada confiável de 24 segundos.
+4. Desempenho fluido.
+5. Controles mínimos e funcionais.
+
+Mantenha o escopo focado. Não gaste tempo criando uma interface não relacionada ou cenas extras.
+
+VALIDATION
+
+Antes de finalizar:
+- Execute a aplicação.
+- Verifique todas as contagens de malha.
+- Execute a demonstração completa.
+- Inspecione as colisões em baixa resolução e as dobras em alta resolução.
+- Teste redefinição, replay, wireframe e arraste.
+- Verifique a composição de gravação 16:9.
+- Inspecione os erros do navegador, se as ferramentas do navegador estiverem disponíveis.
+- Corrija os problemas observados.
+
+Se não puder inspecionar visualmente o navegador, informe isso claramente em vez de alegar uma verificação visual.
+
+Finalize com um breve resumo:
+- Como iniciar a aplicação.
+- Como iniciar a demonstração e o modo de gravação.
+- O que foi testado.
+- Quaisquer limitações restantes.
+
+Entregue a aplicação funcional, não apenas um plano de implementação.
+
+Inspirado por @noclipepe
+
+Use a API Haiku 5.5 no seu agente:
+
+https://t.co/BmU7fO6uOJ
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/interactive-cloth-simulation-chrome-sphere) · [Publicação original](https://x.com/EvoLinkAi/status/2108912941328154844) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Defesa de Tanques sem Fim
@@ -3624,7 +3812,7 @@ Entregue o código-fonte, o lockfile, os comandos npm de desenvolvimento/build e
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 332 exemplos no site oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 334 exemplos no site oficial →</a></strong></p>
 <p><sub>Para manter a renderização do README do GitHub fluida, mostramos aqui apenas os 100 exemplos mais recentes.</sub></p>
 <br>
 </td></tr>

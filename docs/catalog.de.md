@@ -28,7 +28,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**332 · Neueste Astra-Prompts**
+**334 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -51,8 +51,6 @@
 <summary>Beispiele ansehen</summary>
 
 - [Demo für isometrische Fantasy-Grafik](#2100271998618177864) · GitHub
-- [Interaktive Vulkaninsel mit fliehenden Booten](#2099643231659012553)
-- [Interaktives 3D-Panel für das Nervensystem eines Organismus](#2099719427990134984)
 - [3D-Herz und Lächel-Emoji im Apple-Stil](#2099750376530657300)
 - [Prozedurales Weltraum-Erkundungsspiel mit vollständig erreichbaren Zielen](#2099785223827259515)
 - [Bewegliche 3D-Räume und Game-Charaktere aus Referenzbildern erstellen](#2099850719839109597)
@@ -143,6 +141,8 @@
 - [Interaktive Honigtastatur](#2108501256067285443)
 - [Interaktives 3D-Gummiwürfel-Erlebnis](#2108505251036774875)
 - [Interaktive schwebende Neoninsel](#2108574047948656981)
+- [Interaktives WebGPU-Diorama „Castle Jelly“](#2108649845405929924)
+- [Interaktive 3D-Stoffsimulation auf einer Chromkugel](#2108912938656407888)
 - [Battle City 3D: Endlose Panzerverteidigung](#battle-city-3d)
 - [Crazy Tanks — 3D-Inselartillerie](#crazy-tanks-3d-island-artillery)
 - [Jelly-Villa](#jelly-villa)
@@ -170,46 +170,6 @@ Erstelle mir eine Grafikdemo: isometrische Kamera, voxel-artiger Art-Style mit r
 ```
 
 [Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2100271998618177864) · [Originalbeitrag](https://github.com/achimala/dream-loop) · [Quellcode](https://github.com/achimala/dream-loop) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2099643231659012553"></a>
-
-### Interaktive Vulkaninsel mit fliehenden Booten
-
-[Wësche](https://x.com/WescheNex1q) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2099643231659012553"><img src="../assets/previews/9a1b9694885d457f5a963b113de92ef80461d9c977d88ed6544e091eabf13eea.jpg" width="840" loading="lazy" alt="Interaktive Vulkaninsel mit fliehenden Booten"></a>
-
-Eine wiederverwendbare Anfrage für eine interaktive 3D-Vulkaninsel mit fließender Lava und Booten, die während des Ausbruchs fliehen. Der ursprüngliche Autor gibt an, diese Anfrage im Rahmen eines Vergleichs an mehrere Modelle, darunter Astra-6, gesendet zu haben.
-
-**Prompt**
-
-```text
-Erstelle eine interaktive Vulkaninsel mit fließender Lava und Booten, die fliehen.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2099643231659012553) · [Originalbeitrag](https://x.com/WescheNex1q/status/2099643231659012553) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2099719427990134984"></a>
-
-### Interaktives 3D-Panel für das Nervensystem eines Organismus
-
-[AiMind](https://x.com/AIMind_Ai) · 2026-09-15
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2099719427990134984"><img src="../assets/previews/12a118ec5a6078181cd7528a0f114e8c5c8c1c3bb45f309cf4c3162886d0b347.jpg" width="840" loading="lazy" alt="Interaktives 3D-Panel für das Nervensystem eines Organismus"></a>
-
-AiMind teilt dies als Empfehlung unter „Prompt klauen“ für ein interaktives Panel mit anklickbaren Bereichen des Nervensystems und einem prozedural geriggten 3D-Organismus. Der Beitrag zeigt eine Fliege, aber der zitierte Prompt verwendet den Platzhalter \[organism\] und wird nicht ausdrücklich als die exakte Eingabe für diesen Clip ausgewiesen.
-
-**Prompt**
-
-```text
-Interaktives Panel. Links: schematische Darstellung des Nervensystems von [organism] mit anklickbaren Bereichen. Rechts: prozedural geriggter 3D-[organism]. Das Anklicken eines Bereichs löst eine 2,5 Sekunden dauernde motorische Reaktion aus. Dunkle Benutzeroberfläche mit Telemetriedaten zu Geschwindigkeit und Kurs.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2099719427990134984) · [Originalbeitrag](https://x.com/AIMind_Ai/status/2099719427990134984) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 
@@ -3169,6 +3129,234 @@ Erstelle das vollständige, ausführbare Projekt, statt nur zu erklären, wie es
 
 ---
 
+<a id="2108649845405929924"></a>
+
+### Interaktives WebGPU-Diorama „Castle Jelly“
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-09
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/castle-jelly-interactive-webgpu-diorama"><img src="../assets/previews/45f0f466b9571f31fc1af32aac463458c2b6038abc7e828a5fc2e20652a38ce2.jpg" width="840" loading="lazy" alt="Interaktives WebGPU-Diorama „Castle Jelly“"></a>
+
+Der Autor hat diesen Prompt in einem verifizierten Kommentar für den Vergleich von GPT-6 Astra und Claude mit demselben Prompt bereitgestellt. Gefordert wird ein interaktives WebGPU-Diorama mit einem Jelly-See, einer märchenhaften Burg auf einer Klippe, geschichtetem Felsgelände in Bonbonoptik, Wasserfallphysik, einer segelnden Galeone und berührbaren Steuerelementen für Feuerwerk, Brückenbewegung, Münzen, Wellen und Tageszeit.
+
+**Prompt**
+
+```text
+Erstelle eine einseitige WebGPU-„Materialstudie“ namens „Castle Jelly“, im Stil meiner Jelly-Diorama-Serie (Pirate Jelly / Island Jelly): ein quadratischer Block aus wabbeligem Jelly-See auf einem Tisch in einem Papierstudio, mit sichtbaren Schnittflächen und Bonbonschichten, kursiver Serifenschrift als Masthead „Castle / Jelly.“, einem gläsernen Bedienfeld rechts, der Zeile „How to play“ unten links, englischer UI und mobilem Bottom-Sheet-Layout.
+Das Diorama: eine Märchenburg auf einer Klippe. Die hintere linke Seite des Blocks bildet ein Plateau, dessen Vorderseite aus einer steilen Wand mit bonbonfarbenen Gesteinsstreifen besteht (geschichtete Tortenlagen passend zu den Schnittflächen des Blocks, ein Geröllhang unter dem See), erzeugt aus einem SDF mit Surface Nets und an den nach oben gerichteten Flächen moosbewachsen. Auf der Wiese stehen eine cremefarbene Burg mit runden Türmen, glänzenden kegelförmigen Dächern in Pink, Lila und Blau, goldenen Dachspitzen, flatternden Wimpeln, Zinnenmauern, einem großen Saal, Bogenfenstern (tagsüber dunkles Glas, nachts Lampenlicht), einem Torhaus mit Zugbrücke, einer Kohlenpfanne am Tor, Gummibärchen-Kiefern, blühenden Büschen und Schilf. Ein Fluss entspringt einer Quelle, fließt am Tor vorbei unter der Zugbrücke hindurch und stürzt über die Kante als Wasserfall in den Jelly-See – und setzt seinen Weg im Jelly fort: als zerfasernde Fontäne, mit nach unten getriebenen und anschließend aufsteigenden Blasen sowie hellen Stromfäden, die am Seegrund entlangströmen. Der Wasserfall prallt auf die Oberfläche (Flachwasserwellen, Schaum, Spritzer und Gischt). Eine kleine königliche Galeone (blauer Rumpf, weiße Segel, Kronenstandarte) dreht ihre Runden auf dem See.
+Interaktionen: Feuerwerk (Raketen starten von den Türmen, farbige Explosionen erhellen Burg und See; nachts automatisch), Brücke senken/heben, königlicher Salut (das Schiff feuert, mit Spritzwasser), Wunschmünzen (in das Becken unter dem Wasserfall werfen); einen Turm, das Tor, die Kohlenpfanne oder das Schiff antippen, das Wasser ziehen, um Wellen zu erzeugen, den Block kippen, Münzen und Bälle werfen, die Kiefern biegen. Regler: Festigkeit, Wasserfall (Fließgeschwindigkeit), Wellendämpfung, Tageszeit (Mittag → Sonnenuntergang → Nacht mit Sternen). Varianten: Glacier, Rose, Lilac. Schatten, Kaustik, Brechung im Jelly, Physik mit festen Zeitschritten.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/castle-jelly-interactive-webgpu-diorama) · [Originalbeitrag](https://x.com/vib3coded/status/2108649989098594707) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2108912938656407888"></a>
+
+### Interaktive 3D-Stoffsimulation auf einer Chromkugel
+
+[EvoLink.ai](https://x.com/EvoLinkAi) · 2026-10-10
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/interactive-cloth-simulation-chrome-sphere"><img src="../assets/previews/9ad6950acc582fada95a4d2b581046313eebc4abdc1ca173922e7e6900310540.jpg" width="840" loading="lazy" alt="Interaktive 3D-Stoffsimulation auf einer Chromkugel"></a>
+
+Ein von EvoLink.ai in einem Autorenkommentar veröffentlichter Prompt für eine browserbasierte interaktive 3D-Stoffsimulation. Er beschreibt ein korallenrotes Satin-Tuch, das physikalisch korrekt auf eine Chromkugel fällt und sich darüber drapiert, sechs ehrlich beschriftete Mesh-Auflösungen von 4 bis 4.096 Quads, eine deterministische 24-sekündige Präsentation sowie direkte Steuerung zum Ziehen am Stoff.
+
+**Prompt**
+
+```text
+Erstelle eine hochwertige interaktive 3D-Stoffsimulation zum visuellen Vergleich von KI-Coding-Modellen.
+
+Das zentrale Motiv: Ein quadratisches Stoffstück fällt auf eine unbewegliche Chromkugel. Wiederhole exakt denselben Fall mit schrittweise dichteren Stoff-Meshes und zeige, wie sich die Verformung verändert.
+
+Erstelle eine funktionierende Browseranwendung mit Three.js und TypeScript/JavaScript. Implementiere und starte sie im aktuellen Workspace. Schließe das Projekt autonom ab, teste es und behebe Probleme, bevor du fertig bist.
+
+VISUELLE AUSRICHTUNG
+
+Strebe eine hochwertige, ungewöhnlich befriedigende 3D-Animation an: ein großes, klar erkennbares Motiv, schönes Gewebe, überzeugender Kontakt und zurückhaltende Studio-Beleuchtung.
+
+Verwende eine 16:9-Komposition. Die fertige Aufnahme wird zusammen mit zwei weiteren Aufnahmen in einem vertikalen 9:16-Video angeordnet. Daher muss alles lesbar bleiben, wenn es auf ein Drittel der Fläche eines Smartphone-Bildschirms verkleinert wird.
+
+Szene:
+- Eine unbewegliche, polierte Chromkugel über einem matten, dunkel-anthrazitfarbenen Boden.
+- Ein quadratisches Stück kräftig korallenroten Satin-Stoffs, horizontal über der Kugel schwebend.
+- Seitenlänge des Stoffes etwa das 2,6-Fache des Kugeldurchmessers, damit sich die Ränder um die Kugel drapieren können.
+- Ein großes, weiches Hauptlicht, sanftes Aufhelllicht und ein dezentes Kantenlicht.
+- Breite Studio-Reflexionen, die die Chromoberfläche klar lesbar machen.
+- Weiche Kontaktschatten und sichtbare Falten.
+- Ein zurückhaltender dunkler Hintergrund mit deutlicher Trennung zwischen Stoff, Kugel und Boden.
+
+Der Stoff soll wie gewebter Satin wirken, nicht wie Gummi, Flüssigkeit, Folie oder Kunststoff. Verwende eine dezente Textur und einen zurückhaltenden Glanz. Rendere beide Seiten korrekt.
+
+Wähle einen festen, leicht erhöhten Dreiviertel-Kamerawinkel, der die Oberseite der Kugel und die herabhängenden Stoffränder zeigt. Halte das Motiv groß, aber lasse genug Platz für den anfänglichen Fall.
+
+Keine Kamerafahrt um das Motiv während der automatischen Präsentation. Kein dekoratives Dashboard, kein Branding, keine Modellnamen, kein einleitender Splashscreen und kein unnötiger Text.
+
+ECHTE STOFFSIMULATION
+
+Verwende eine physikalische Echtzeitsimulation. Ein Solver auf Basis von Position-Based Dynamics oder Extended Position-Based Dynamics ist geeignet; wähle jedoch eine Implementierung, die zuverlässig und performant umgesetzt werden kann.
+
+Die Bewegung muss aus Schwerkraft, Constraints und Kollisionsbehandlung entstehen.
+
+Nicht:
+- Den Stoff durch ein voraufgezeichnetes Video ersetzen.
+- Eine Shader-Welle oder eine vorgefertigte Vertex-Animation als Ersatz für die Simulation verwenden.
+- Vertices zu einer vorab berechneten Drapierform animieren.
+- Beliebige Face-Anzahlen anzeigen, die nicht zum Mesh gehören.
+- Ein hochauflösendes Stoff-Mesh einsetzen, während ein Label mit niedriger Auflösung angezeigt wird.
+
+Implementiere:
+- Schwerkraft.
+- Struktur-Constraints, die Dehnung begrenzen.
+- Scherfestigkeit.
+- Biegesteifigkeit.
+- Dämpfung.
+- Stabile Kollisionen mit Kugel und Boden.
+- Einen kleinen Kollisionsabstand, der sichtbare Überschneidungen verhindert, ohne den Stoff schweben zu lassen.
+- Eine konsistente Simulationszeit unabhängig von der Bildrate beim Rendern.
+
+Der Stoff ist nach dem Loslassen vollständig frei: Fixiere seine Ecken nicht.
+
+Verwende bei jeder Mesh-Auflösung dieselben physischen Abmessungen und angestrebten Materialeigenschaften. Berücksichtige beim Festlegen von Massen und Constraints den Mesh-Abstand, damit eine Änderung der Mesh-Auflösung nicht willkürlich die Gesamtmasse oder Stoffsteifigkeit verändert.
+
+Verwende auf jeder Stufe dasselbe deterministische Ausgangssetup. Ein kleiner fester Versatz oder eine feste Drehung relativ zur Kugel ist zulässig, um attraktive asymmetrische Falten zu erzeugen; beides muss jedoch bei allen Durchläufen identisch bleiben.
+
+Priorisiere, dass der Stoff nicht durch die Kugel schneidet. Bei groben Mesh-Auflösungen reicht es nicht, nur Vertices zu prüfen: Eine Kante oder ein Dreieck kann die Kugel schneiden, während seine Vertices außerhalb bleiben. Behandle dies so gut wie praktisch möglich und kaschiere Fehler nicht durch die Kameraposition.
+
+Grobe Meshes dürfen grob aussehen. Höhere Auflösungen sollen auf natürliche Weise detailliertere Verformungen zeigen, ohne eine „Verbesserung“ zu fälschen.
+
+MESH-AUFLÖSUNGEN UND EHRLICHE BESCHRIFTUNG
+
+Verwende diese quadratischen Simulationsraster:
+
+2 × 2 Zellen = 4 Quads
+4 × 4 Zellen = 16 Quads
+8 × 8 Zellen = 64 Quads
+16 × 16 Zellen = 256 Quads
+32 × 32 Zellen = 1.024 Quads
+64 × 64 Zellen = 4.096 Quads
+
+Jedes Quad wird als zwei Dreiecke gerendert.
+
+Das große Label der Aufnahme muss lauten:
+„4 FACES“
+„16 FACES“
+„64 FACES“
+„256 FACES“
+„1.024 FACES“
+„4.096 FACES“
+
+Füge einen kleinen, konsistenten Untertitel hinzu:
+„quad grid“
+
+Zeige in den erweiterten Steuerelementen die exakten Anzahlen von Quads, Dreiecken und Vertices. Leite sie aus dem aktiven Mesh ab.
+
+Füge keine versteckte Unterteilung hinzu, die die angezeigte Auflösung verfälscht. Das Shading darf weich sein, aber die sichtbare Geometrie des Stoffes muss dem ausgewählten Raster entsprechen.
+
+AUTOMATISCHE PRÄSENTATION — GENAU 24 SEKUNDEN
+
+Füge eine Schaltfläche „Showcase“ hinzu, die eine deterministische Sequenz startet.
+
+Sechs Phasen, jeweils exakt vier Sekunden:
+
+1. 4 Faces
+2. 16 Faces
+3. 64 Faces
+4. 256 Faces
+5. 1.024 Faces
+6. 4.096 Faces
+
+Für jede Phase:
+- In den ersten 0,25 Sekunden den Stoff auf exakt dieselbe schwebende Ausgangsposition zurücksetzen und die aktualisierte Anzahl anzeigen.
+- Ihn in den folgenden 3,75 Sekunden freigeben und den Fall sowie die Drapierung simulieren.
+- Ohne Ladebildschirm oder lange Übergangsphase sofort in die nächste Phase zurücksetzen.
+
+Erstelle die benötigten Ressourcen vorab oder bereite sie vor, damit der Wechsel der Auflösung keine merkliche Pause verursacht.
+
+Halte Kamera, Beleuchtung, Stofffarbe, Objektpositionen und Zeitskalierung der Simulation durchgehend identisch.
+
+Verlangsame die Simulation bei höheren Auflösungen nicht, um die Bildrate zu halten. Optimiere stattdessen den Solver.
+
+Behalte am Ende die letzte Szene bei und ermögliche Interaktion. Biete eine Wiedergabe per Klick an.
+
+INTERACTION
+
+Außerhalb der automatischen Präsentation unterstütze:
+- Die Auswahl jeder Mesh-Auflösung.
+- Das Fallenlassen und Zurücksetzen des Stoffes.
+- Pausieren und Fortsetzen.
+- Das Ein- und Ausblenden eines dezenten Wireframe-Overlays.
+- Das Greifen und Ziehen des Stoffes per Maus oder Touch.
+- Das Loslassen des Stoffes, damit die normale Simulation fortgesetzt wird.
+
+Beim Ziehen muss die gegriffene Region vorübergehend constrained werden, nicht der gesamte Stoff teleportiert werden. Begrenze das Ziehen, damit die Simulation stabil bleibt.
+
+Beim Wechsel der Auflösung muss der Stoff sauber ersetzt und sein Zustand zurückgesetzt werden.
+
+Biete einen Aufnahmemodus, der inaktiv Controls und Cursor ausblendet, sodass nur die Szene und das kompakte Face-Count-Label sichtbar bleiben. Das Label muss in allen Phasen exakt an derselben Position bleiben.
+
+Gestalte die Hauptszene responsiv mit einem zuverlässigen 16:9-Aufnahmelayout. Vermeide Scrollleisten und abgeschnittene Inhalte.
+
+ENGINEERING UND PERFORMANCE
+
+Verwende die im Workspace verfügbaren Tools und Abhängigkeiten. Prozedurale Materialien und Umgebungsbeleuchtung sind willkommen; vermeide die Abhängigkeit von fragilen externen Asset-URLs.
+
+Strebe eine flüssige Desktop-Wiedergabe mit 60 fps an, mit einem Mindestziel von 30 fps bei der höchsten Auflösung. Miss die Performance, sofern möglich, im tatsächlichen Browser. Behaupte keine Bildrate, die du nicht gemessen hast.
+
+Verwende feste Simulationszeitschritte, geeignete Substeps und effiziente Datenstrukturen. Vermeide unnötige Allokationen pro Frame.
+
+Behandle:
+- Wiederholte Starts der Präsentation.
+- Das Zurücksetzen während einer Simulation.
+- Den Wechsel der Auflösung während der Interaktion.
+- Das Loslassen des Zeigers außerhalb des Canvas.
+- Das Ändern der Fenstergröße.
+- Das Aufräumen ersetzter Geometrien und Event-Handler.
+
+Wenn die Performance zum Problem wird, optimiere zuerst, bevor du die visuelle Qualität reduzierst. Verringere die angeforderte Mesh-Auflösung nicht stillschweigend.
+
+PRIORITIES
+
+1. Funktionierende Stoffphysik und überzeugender Kontakt mit der Kugel.
+2. Schönes, gut lesbares Gewebe und eine überzeugende Beleuchtung.
+3. Zuverlässige, synchronisierte 24-sekündige Präsentation.
+4. Flüssige Performance.
+5. Minimale, funktionale Steuerelemente.
+
+Halte den Umfang fokussiert. Verbringe keine Zeit mit themenfremder UI oder zusätzlichen Szenen.
+
+VALIDATION
+
+Vor dem Abschluss:
+- Starte die Anwendung.
+- Überprüfe jede Mesh-Anzahl.
+- Führe die vollständige Präsentation aus.
+- Prüfe Kollisionen bei niedriger Auflösung ebenso wie Falten bei hoher Auflösung.
+- Teste Zurücksetzen, erneute Wiedergabe, Wireframe und Ziehen.
+- Prüfe die 16:9-Komposition der Aufnahme.
+- Untersuche Browserfehler, sofern Browser-Tools verfügbar sind.
+- Behebe die festgestellten Probleme.
+
+Wenn du den Browser nicht visuell prüfen kannst, gib das klar an, statt eine visuelle Überprüfung zu behaupten.
+
+Schließe mit einer kurzen Zusammenfassung ab:
+- Wie die Anwendung gestartet wird.
+- Wie die Präsentation und der Aufnahmemodus gestartet werden.
+- Was du getestet hast.
+- Welche Einschränkungen noch bestehen.
+
+Liefere die funktionierende Anwendung, nicht nur einen Implementierungsplan.
+
+Inspiriert von @noclipepe
+
+Verwende die Haiku 5.5 API in deinem Agenten:
+
+https://t.co/BmU7fO6uOJ
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/interactive-cloth-simulation-chrome-sphere) · [Originalbeitrag](https://x.com/EvoLinkAi/status/2108912941328154844) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Endlose Panzerverteidigung
@@ -3624,7 +3812,7 @@ Liefere Quellcode, Lockfile, npm-Befehle für Entwicklung und Build sowie die st
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 332 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 334 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>

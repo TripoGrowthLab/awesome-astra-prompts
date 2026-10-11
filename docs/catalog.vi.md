@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**332 · Prompt Astra mới nhất**
+**334 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -51,8 +51,6 @@
 <summary>Khám phá ví dụ</summary>
 
 - [Demo đồ họa fantasy isometric](#2100271998618177864) · GitHub
-- [Đảo núi lửa tương tác với những chiếc thuyền tháo chạy](#2099643231659012553)
-- [Bảng điều khiển hệ thần kinh tương tác của sinh vật 3D](#2099719427990134984)
 - [Trái tim và emoji mặt cười phong cách Apple 3D](#2099750376530657300)
 - [Game khám phá không gian tạo sinh với mọi điểm đến đều có thể tiếp cận](#2099785223827259515)
 - [Tạo không gian 3D có thể điều khiển và nhân vật game từ ảnh tham khảo](#2099850719839109597)
@@ -143,6 +141,8 @@
 - [Bàn phím mật ong tương tác](#2108501256067285443)
 - [Trải nghiệm xúc xắc dẻo 3D tương tác](#2108505251036774875)
 - [Đảo neon bay tương tác](#2108574047948656981)
+- [Mô hình tương tác WebGPU Castle Jelly](#2108649845405929924)
+- [Mô phỏng vải 3D tương tác trên quả cầu chrome](#2108912938656407888)
 - [Battle City 3D: Phòng thủ xe tăng vô tận](#battle-city-3d)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
 - [Biệt thự Thạch rau câu](#jelly-villa)
@@ -170,46 +170,6 @@ Hãy tạo một demo đồ họa: camera isometric, phong cách nghệ thuật 
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100271998618177864) · [Bài đăng gốc](https://github.com/achimala/dream-loop) · [Mã nguồn](https://github.com/achimala/dream-loop) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2099643231659012553"></a>
-
-### Đảo núi lửa tương tác với những chiếc thuyền tháo chạy
-
-[Wësche](https://x.com/WescheNex1q) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099643231659012553"><img src="../assets/previews/9a1b9694885d457f5a963b113de92ef80461d9c977d88ed6544e091eabf13eea.jpg" width="840" loading="lazy" alt="Đảo núi lửa tương tác với những chiếc thuyền tháo chạy"></a>
-
-Yêu cầu có thể tái sử dụng để tạo một hòn đảo núi lửa 3D tương tác, với dòng dung nham chảy và những chiếc thuyền tháo chạy khi núi lửa phun trào. Tác giả gốc cho biết họ đã gửi yêu cầu này đến một số mô hình, trong đó có Astra-6, để so sánh.
-
-**Prompt**
-
-```text
-xây dựng một hòn đảo núi lửa tương tác với dòng dung nham chảy và những chiếc thuyền tháo chạy.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099643231659012553) · [Bài đăng gốc](https://x.com/WescheNex1q/status/2099643231659012553) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2099719427990134984"></a>
-
-### Bảng điều khiển hệ thần kinh tương tác của sinh vật 3D
-
-[AiMind](https://x.com/AIMind_Ai) · 2026-09-15
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099719427990134984"><img src="../assets/previews/12a118ec5a6078181cd7528a0f114e8c5c8c1c3bb45f309cf4c3162886d0b347.jpg" width="840" loading="lazy" alt="Bảng điều khiển hệ thần kinh tương tác của sinh vật 3D"></a>
-
-AiMind chia sẻ đây là gợi ý “Lấy prompt” cho một bảng điều khiển tương tác, có các vùng của hệ thần kinh có thể nhấp và một sinh vật 3D được rigging procedural. Bài đăng giới thiệu phần minh họa bằng một con ruồi, nhưng prompt được trích dẫn dùng placeholder \[organism\] và không khẳng định rõ đó là đầu vào chính xác đã dùng cho đoạn clip.
-
-**Prompt**
-
-```text
-Bảng điều khiển tương tác. Bên trái: sơ đồ hệ thần kinh của [organism], gồm các vùng có thể nhấp. Bên phải: sinh vật 3D [organism] được rigging procedural. Nhấp vào một vùng sẽ kích hoạt phản ứng vận động kéo dài 2,5 giây. Giao diện tối, hiển thị dữ liệu telemetry về tốc độ và hướng di chuyển.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099719427990134984) · [Bài đăng gốc](https://x.com/AIMind_Ai/status/2099719427990134984) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3252,6 +3212,234 @@ Xây dựng dự án hoàn chỉnh, có thể chạy được thay vì chỉ gi�
 
 ---
 
+<a id="2108649845405929924"></a>
+
+### Mô hình tương tác WebGPU Castle Jelly
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-09
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/castle-jelly-interactive-webgpu-diorama"><img src="../assets/previews/45f0f466b9571f31fc1af32aac463458c2b6038abc7e828a5fc2e20652a38ce2.jpg" width="840" loading="lazy" alt="Mô hình tương tác WebGPU Castle Jelly"></a>
+
+Tác giả cung cấp prompt này trong một bình luận đã xác minh để so sánh GPT-6 Astra và Claude với cùng một prompt. Prompt yêu cầu tạo một mô hình tương tác WebGPU về hồ thạch dẻo, với lâu đài trên vách đá bước ra từ truyện cổ tích, địa hình đá kẹo nhiều lớp, mô phỏng vật lý thác nước, một chiếc thuyền buồm và các điều khiển cảm ứng để kích hoạt pháo hoa, di chuyển cầu, thả tiền xu, tạo sóng và thay đổi thời gian trong ngày.
+
+**Prompt**
+
+```text
+Tạo một trang WebGPU "nghiên cứu vật liệu" dạng tệp đơn có tên "Castle Jelly", theo phong cách loạt mô hình thạch dẻo của tôi (Pirate Jelly / Island Jelly): một khối hồ thạch dẻo rung lắc hình vuông đặt trên bàn trong xưởng giấy, các mặt cắt để lộ những lớp kẹo, tiêu đề chữ serif in nghiêng "Castle / Jelly.", bảng điều khiển bằng kính ở bên phải, dòng "How to play" ở góc dưới bên trái, giao diện bằng tiếng Anh, bố cục bottom sheet trên thiết bị di động.
+Mô hình: một lâu đài bước ra từ truyện cổ tích trên vách đá. Phía sau bên trái khối là một cao nguyên, mặt trước là vách đá dựng đứng với các lớp đá sọc như kẹo (các lớp địa tầng dạng bánh nhiều lớp khớp với những mặt cắt của khối, một bãi đá vụn nằm dưới hồ), được tạo lưới từ SDF bằng surface nets, phủ rêu ở những phần hướng lên trên. Trên bãi cỏ: một lâu đài màu kem với các tháp tròn, mái chóp bóng màu hồng/tử đinh hương/xanh dương, chóp mái mạ vàng, cờ hiệu phấp phới, tường có merlon, đại sảnh, cửa sổ vòm (kính tối vào ban ngày, ánh đèn vào ban đêm), nhà cổng có cầu kéo, lò than cạnh cổng, những cây thông dẻo, bụi cây nở hoa và lau sậy. Một dòng sông trồi lên từ mạch nước, chảy qua cổng bên dưới cầu kéo rồi đổ khỏi mép thành thác nước, uốn cong rơi xuống hồ thạch dẻo — và tiếp tục chảy bên trong lớp thạch: một cột nước tơi dần, các bong bóng bị dòng nước đẩy xuống rồi nổi lên, những sợi dòng chảy sáng rực tuôn dọc đáy hồ. Thác nước nện xuống mặt hồ (sóng nước nông, bọt, nước bắn và sương). Một chiếc thuyền buồm hoàng gia nhỏ (thân thuyền xanh dương, buồm trắng, cờ hiệu vương miện) đi vòng quanh hồ.
+Tương tác: Pháo hoa (tên lửa phóng từ các tháp, những chùm sáng nhiều màu chiếu sáng lâu đài và hồ; tự động kích hoạt vào ban đêm), Hạ/Nâng cầu, Chào mừng hoàng gia (tàu khai hỏa, nước bắn tung tóe), Tiền xu ước nguyện (thả xuống hồ nước bên dưới thác); chạm vào một tòa tháp / cổng / lò than / con tàu, kéo mặt nước để tạo sóng, nghiêng khối, ném tiền xu và bóng, uốn những cây thông. Thanh trượt: Độ cứng, Thác nước (lưu lượng), Độ tắt dần của sóng, Thời gian trong ngày (trưa → hoàng hôn → đêm đầy sao). Biến thể: Glacier, Rose, Lilac. Bóng đổ, caustics, khúc xạ xuyên qua lớp thạch dẻo, mô phỏng vật lý theo bước thời gian cố định.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/castle-jelly-interactive-webgpu-diorama) · [Bài đăng gốc](https://x.com/vib3coded/status/2108649989098594707) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2108912938656407888"></a>
+
+### Mô phỏng vải 3D tương tác trên quả cầu chrome
+
+[EvoLink.ai](https://x.com/EvoLinkAi) · 2026-10-10
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-cloth-simulation-chrome-sphere"><img src="../assets/previews/9ad6950acc582fada95a4d2b581046313eebc4abdc1ca173922e7e6900310540.jpg" width="840" loading="lazy" alt="Mô phỏng vải 3D tương tác trên quả cầu chrome"></a>
+
+Prompt do EvoLink.ai đăng trong phần bình luận của tác giả, dành cho một mô phỏng vải 3D tương tác chạy trên trình duyệt. Prompt này mô tả một tấm vải satin đỏ san hô rơi và phủ vật lý lên quả cầu chrome, với sáu mật độ lưới được ghi nhãn trung thực từ 4 đến 4.096 quad, một màn trình diễn tất định kéo dài 24 giây và các điều khiển kéo vải trực tiếp.
+
+**Prompt**
+
+```text
+Xây dựng một mô phỏng vải 3D tương tác, hoàn thiện chỉn chu để so sánh trực quan giữa các mô hình lập trình AI.
+
+Hình ảnh trung tâm: một tấm vải hình vuông rơi xuống quả cầu chrome đứng yên. Lặp lại chính xác cú rơi này với các lưới vải ngày càng dày, cho thấy biến dạng thay đổi như thế nào.
+
+Tạo một ứng dụng trình duyệt hoạt động bằng Three.js và TypeScript/JavaScript. Triển khai và chạy ứng dụng trong workspace hiện tại. Tự hoàn thiện dự án, kiểm thử và sửa lỗi trước khi kết thúc.
+
+ĐỊNH HƯỚNG HÌNH ẢNH
+
+Hướng đến một hoạt ảnh 3D cao cấp, cuốn hút một cách lạ thường: một chủ thể lớn, dễ nhìn, chất liệu vải đẹp, tiếp xúc thuyết phục và ánh sáng studio tiết chế.
+
+Sử dụng bố cục 16:9. Bản ghi hoàn thiện sẽ được xếp cùng hai bản ghi khác trong một video dọc 9:16, vì vậy mọi thứ phải vẫn dễ đọc khi thu nhỏ còn một phần ba màn hình điện thoại.
+
+Bối cảnh:
+- Một quả cầu chrome đánh bóng đứng yên phía trên sàn màu than đậm, bề mặt mờ.
+- Một tấm vải satin đỏ san hô đậm, hình vuông, được treo nằm ngang phía trên quả cầu.
+- Chiều dài mỗi cạnh vải xấp xỉ 2,6 lần đường kính quả cầu để các mép có thể phủ xuống quanh quả cầu.
+- Một đèn chính lớn, mềm; đèn bù dịu; và đèn viền tinh tế.
+- Các vùng phản xạ studio rộng giúp bề mặt chrome dễ nhận biết.
+- Bóng tiếp xúc mềm và các nếp gấp rõ ràng.
+- Nền tối tiết chế, tạo độ tách biệt rõ giữa vải, quả cầu và sàn.
+
+Vải phải trông như satin dệt, không phải cao su, chất lỏng, lá kim loại hay nhựa. Dùng kết cấu bề mặt tinh tế và độ bóng vừa phải. Kết xuất chính xác cả hai mặt.
+
+Chọn góc máy cố định, hơi nâng cao, theo phối cảnh ba phần tư để nhìn thấy phần đỉnh quả cầu và các mép vải buông xuống. Giữ chủ thể lớn nhưng chừa đủ khoảng trống cho cú rơi ban đầu.
+
+Không xoay camera trong màn trình diễn tự động. Không thêm bảng điều khiển trang trí, nhận diện thương hiệu, tên mô hình, màn hình chào mở đầu hoặc văn bản không cần thiết.
+
+MÔ PHỎNG VẢI THỰC
+
+Sử dụng mô phỏng vật lý thời gian thực. Bộ giải động lực học dựa trên vị trí hoặc động lực học dựa trên vị trí mở rộng đều phù hợp, nhưng hãy chọn phương án có thể triển khai ổn định và đạt hiệu năng tốt.
+
+Chuyển động phải phát sinh từ trọng lực, các ràng buộc và xử lý va chạm.
+
+Không được:
+- Thay vải bằng video quay sẵn.
+- Dùng sóng shader hoặc hoạt ảnh đỉnh dựng sẵn để thay cho mô phỏng.
+- Hoạt ảnh hóa các đỉnh hướng đến một hình dạng phủ đã tính trước.
+- Hiển thị số mặt tùy ý, không liên quan đến lưới.
+- Thay bằng vải độ phân giải cao trong khi hiển thị nhãn độ phân giải thấp.
+
+Hãy triển khai:
+- Trọng lực.
+- Các ràng buộc cấu trúc chống kéo giãn.
+- Khả năng chống xô lệch.
+- Khả năng chống uốn.
+- Giảm chấn.
+- Va chạm ổn định với quả cầu và sàn.
+- Một khoảng đệm va chạm nhỏ để ngăn giao cắt nhìn thấy được mà không khiến vải bị lơ lửng.
+- Nhịp mô phỏng nhất quán, không phụ thuộc vào tốc độ khung hình kết xuất.
+
+Khi được thả, vải hoàn toàn tự do: không ghim các góc.
+
+Sử dụng cùng kích thước vật lý và các thuộc tính vật liệu mục tiêu ở mọi mật độ lưới. Tính đến khoảng cách giữa các đỉnh khi thiết lập khối lượng và ràng buộc, để việc thay đổi mật độ lưới không làm thay đổi tùy tiện tổng khối lượng hoặc độ cứng của vải.
+
+Sử dụng cùng một thiết lập ban đầu tất định ở mọi cấp độ. Có thể dùng một độ lệch hoặc góc xoay cố định nhỏ so với quả cầu để tạo các nếp gấp bất đối xứng đẹp mắt, nhưng phải giữ nguyên qua mọi lần chạy.
+
+Ưu tiên ngăn vải xuyên qua quả cầu. Ở độ phân giải lưới thô, chỉ kiểm tra các đỉnh là chưa đủ: một cạnh hoặc tam giác có thể giao với quả cầu trong khi các đỉnh vẫn nằm bên ngoài. Hãy xử lý vấn đề này trong phạm vi thực tế có thể, không che giấu lỗi bằng cách đặt camera.
+
+Cho phép lưới thô trông đúng là lưới thô. Độ phân giải cao hơn phải tự nhiên cho thấy biến dạng chi tiết hơn, không được tạo ra “cải thiện” giả tạo.
+
+ĐỘ PHÂN GIẢI LƯỚI VÀ GHI NHÃN TRUNG THỰC
+
+Sử dụng các lưới mô phỏng hình vuông sau:
+
+2 × 2 ô = 4 quad
+4 × 4 ô = 16 quad
+8 × 8 ô = 64 quad
+16 × 16 ô = 256 quad
+32 × 32 ô = 1.024 quad
+64 × 64 ô = 4.096 quad
+
+Mỗi quad được kết xuất thành hai tam giác.
+
+Nhãn lớn trong bản ghi phải hiển thị:
+“4 MẶT”
+“16 MẶT”
+“64 MẶT”
+“256 MẶT”
+“1.024 MẶT”
+“4.096 MẶT”
+
+Thêm một phụ đề nhỏ, nhất quán:
+“lưới quad”
+
+Trong phần điều khiển mở rộng, hiển thị chính xác số quad, tam giác và đỉnh. Tính các số này từ lưới đang hoạt động.
+
+Không thêm phép chia nhỏ ẩn làm sai lệch độ phân giải đang hiển thị. Có thể dùng đổ bóng mượt, nhưng hình học nhìn thấy của vải phải khớp với lưới đã chọn.
+
+MÀN TRÌNH DIỄN TỰ ĐỘNG — CHÍNH XÁC 24 GIÂY
+
+Thêm nút “Màn trình diễn” để bắt đầu một chuỗi tất định.
+
+Sáu giai đoạn, mỗi giai đoạn chính xác bốn giây:
+
+1. 4 mặt
+2. 16 mặt
+3. 64 mặt
+4. 256 mặt
+5. 1.024 mặt
+6. 4.096 mặt
+
+Với mỗi giai đoạn:
+- 0,25 giây đầu: đặt lại vải về đúng vị trí treo ban đầu và hiển thị số lượng mới.
+- 3,75 giây tiếp theo: thả vải rồi mô phỏng quá trình rơi và phủ xuống.
+- Đặt lại ngay sang giai đoạn tiếp theo, không có màn hình tải hoặc chuyển cảnh dài.
+
+Tạo sẵn hoặc chuẩn bị các tài nguyên cần thiết để việc chuyển độ phân giải không gây ra khoảng dừng đáng chú ý.
+
+Giữ nguyên camera, ánh sáng, màu vải, vị trí đối tượng và tỷ lệ thời gian mô phỏng trong suốt quá trình.
+
+Không làm chậm mô phỏng ở độ phân giải cao hơn để duy trì tốc độ khung hình. Hãy tối ưu bộ giải thay vào đó.
+
+Khi kết thúc, giữ lại cảnh cuối và cho phép tương tác. Cung cấp nút phát lại bằng một cú nhấp.
+
+INTERACTION
+
+Ngoài màn trình diễn tự động, hỗ trợ:
+- Chọn bất kỳ độ phân giải lưới nào.
+- Thả/đặt lại vải.
+- Tạm dừng/tiếp tục.
+- Bật/tắt lớp phủ wireframe tinh tế.
+- Nắm và kéo vải bằng chuột hoặc thao tác chạm.
+- Thả vải để mô phỏng bình thường tiếp tục.
+
+Việc kéo phải tạm thời tạo ràng buộc cho vùng được nắm, không dịch chuyển toàn bộ vải tức thời. Giới hạn thao tác kéo để mô phỏng luôn ổn định.
+
+Việc chuyển độ phân giải phải thay thế vải sạch sẽ và đặt lại trạng thái của nó.
+
+Cung cấp chế độ ghi hình ẩn các điều khiển và con trỏ khi không hoạt động, chỉ để lại cảnh và nhãn số mặt nhỏ gọn. Nhãn phải giữ nguyên đúng vị trí ở mọi giai đoạn.
+
+Làm cho cảnh chính có khả năng thích ứng, với bố cục ghi hình 16:9 đáng tin cậy. Tránh thanh cuộn và nội dung bị cắt.
+
+KỸ THUẬT VÀ HIỆU NĂNG
+
+Sử dụng các công cụ và dependency có sẵn trong workspace. Hoan nghênh vật liệu tạo thủ tục và ánh sáng môi trường; tránh phụ thuộc vào các URL tài nguyên bên ngoài thiếu ổn định.
+
+Hướng đến phát lại mượt trên máy tính để bàn ở 60 fps, với mục tiêu tối thiểu 30 fps ở độ phân giải cao nhất. Đo hiệu năng trên trình duyệt thực tế nếu có thể. Không tuyên bố tốc độ khung hình chưa được đo.
+
+Sử dụng bước thời gian mô phỏng cố định, số bước phụ phù hợp và cấu trúc dữ liệu hiệu quả. Tránh cấp phát bộ nhớ không cần thiết ở mỗi khung hình.
+
+Xử lý các trường hợp:
+- Bắt đầu màn trình diễn nhiều lần.
+- Đặt lại trong khi đang mô phỏng.
+- Chuyển độ phân giải trong khi tương tác.
+- Thả con trỏ bên ngoài canvas.
+- Thay đổi kích thước cửa sổ.
+- Dọn dẹp hình học và bộ xử lý sự kiện đã được thay thế.
+
+Nếu hiệu năng trở thành vấn đề, hãy tối ưu trước khi giảm chất lượng hình ảnh. Không âm thầm giảm độ phân giải lưới được yêu cầu.
+
+PRIORITIES
+
+1. Vật lý vải hoạt động và tiếp xúc thuyết phục với quả cầu.
+2. Vải và ánh sáng đẹp, dễ quan sát.
+3. Màn trình diễn 24 giây đồng bộ, đáng tin cậy.
+4. Hiệu năng mượt mà.
+5. Điều khiển tối giản, có chức năng.
+
+Giữ phạm vi tập trung. Không dành thời gian xây dựng UI không liên quan hoặc các cảnh bổ sung.
+
+VALIDATION
+
+Trước khi hoàn tất:
+- Chạy ứng dụng.
+- Xác minh mọi số lượng lưới.
+- Chạy toàn bộ màn trình diễn.
+- Kiểm tra va chạm ở độ phân giải thấp cũng như các nếp gấp ở độ phân giải cao.
+- Kiểm thử đặt lại, phát lại, wireframe và thao tác kéo.
+- Kiểm tra bố cục ghi hình 16:9.
+- Kiểm tra lỗi trình duyệt nếu có công cụ trình duyệt.
+- Sửa các vấn đề phát hiện được.
+
+Nếu không thể kiểm tra trực quan trình duyệt, hãy nói rõ điều đó thay vì tuyên bố đã xác minh bằng mắt.
+
+Kết thúc bằng một phần tóm tắt ngắn:
+- Cách khởi chạy ứng dụng.
+- Cách bắt đầu màn trình diễn và chế độ ghi hình.
+- Những gì đã kiểm thử.
+- Các giới hạn còn lại, nếu có.
+
+Bàn giao ứng dụng hoạt động được, không chỉ một kế hoạch triển khai.
+
+Lấy cảm hứng từ @noclipepe
+
+Sử dụng API Haiku 5.5 trong agent của bạn:
+
+https://t.co/BmU7fO6uOJ
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-cloth-simulation-chrome-sphere) · [Bài đăng gốc](https://x.com/EvoLinkAi/status/2108912941328154844) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Phòng thủ xe tăng vô tận
@@ -3707,7 +3895,7 @@ Bàn giao mã nguồn, lockfile, lệnh npm phát triển/build và đầu ra t�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 332 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 334 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

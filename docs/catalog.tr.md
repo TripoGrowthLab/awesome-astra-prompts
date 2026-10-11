@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**332 · En yeni Astra istemleri**
+**334 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -51,8 +51,6 @@
 <summary>Örnekleri keşfet</summary>
 
 - [İzometrik fantezi grafik demosu](#2100271998618177864) · GitHub
-- [Kaçan teknelerin bulunduğu etkileşimli volkanik ada](#2099643231659012553)
-- [Etkileşimli 3B organizma sinir sistemi paneli](#2099719427990134984)
 - [Apple tarzı 3B kalp ve gülümseyen emoji](#2099750376530657300)
 - [Erişilebilir prosedürel uzay keşif oyunu](#2099785223827259515)
 - [Referans görsellerden hareketli 3B ortam ve oyun karakteri oluşturma](#2099850719839109597)
@@ -143,6 +141,8 @@
 - [Etkileşimli Bal Klavyesi](#2108501256067285443)
 - [Etkileşimli 3B jelibon zar deneyimi](#2108505251036774875)
 - [Etkileşimli Yüzen Neon Ada](#2108574047948656981)
+- [Castle Jelly etkileşimli WebGPU diyoraması](#2108649845405929924)
+- [Krom bir küre üzerinde etkileşimli 3B kumaş simülasyonu](#2108912938656407888)
 - [Battle City 3D: Sonsuz Tank Savunması](#battle-city-3d)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [Jöle Villa](#jelly-villa)
@@ -170,46 +170,6 @@ Bana bir grafik demosu oluştur: izometrik kamera, gerçekçi gölgelendirmeye v
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100271998618177864) · [Orijinal gönderi](https://github.com/achimala/dream-loop) · [Kaynak kodu](https://github.com/achimala/dream-loop) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2099643231659012553"></a>
-
-### Kaçan teknelerin bulunduğu etkileşimli volkanik ada
-
-[Wësche](https://x.com/WescheNex1q) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099643231659012553"><img src="../assets/previews/9a1b9694885d457f5a963b113de92ef80461d9c977d88ed6544e091eabf13eea.jpg" width="840" loading="lazy" alt="Kaçan teknelerin bulunduğu etkileşimli volkanik ada"></a>
-
-Akışkan lavlar ve patlama sırasında kaçan tekneler içeren etkileşimli bir 3B volkanik ada için yeniden kullanılabilir bir istek. İsteğin asıl yazarı, karşılaştırmanın bir parçası olarak bu isteği Astra-6 da dahil olmak üzere çeşitli modellere gönderdiğini belirtiyor.
-
-**İstem**
-
-```text
-Akışkan lavlar ve kaçan tekneler içeren etkileşimli bir volkanik ada oluştur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099643231659012553) · [Orijinal gönderi](https://x.com/WescheNex1q/status/2099643231659012553) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2099719427990134984"></a>
-
-### Etkileşimli 3B organizma sinir sistemi paneli
-
-[AiMind](https://x.com/AIMind_Ai) · 2026-09-15
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099719427990134984"><img src="../assets/previews/12a118ec5a6078181cd7528a0f114e8c5c8c1c3bb45f309cf4c3162886d0b347.jpg" width="840" loading="lazy" alt="Etkileşimli 3B organizma sinir sistemi paneli"></a>
-
-AiMind bunu, tıklanabilir sinir sistemi bölgelerine ve prosedürel rigging uygulanmış 3B bir organizmaya sahip etkileşimli bir panel için “Promptu kap” önerisi olarak paylaşıyor. Gönderide bir sinek gösterimi sunuluyor; ancak alıntılanan promptta \[organism\] yer tutucusu kullanılıyor ve bu promptun söz konusu klipte kullanılan girdinin aynısı olduğu açıkça belirtilmiyor.
-
-**İstem**
-
-```text
-Etkileşimli panel. Sol: [organism] için şematik sinir sistemi ve tıklanabilir bölgeler. Sağ: prosedürel rigging uygulanmış 3B [organism]. Bir bölgeye tıklamak, 2,5 saniyelik bir motor tepkisini tetikler. Koyu arayüz; hız ve yön için telemetri.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099719427990134984) · [Orijinal gönderi](https://x.com/AIMind_Ai/status/2099719427990134984) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3234,6 +3194,234 @@ Nasıl oluşturulacağını yalnızca açıklamak yerine eksiksiz ve çalıştı
 
 ---
 
+<a id="2108649845405929924"></a>
+
+### Castle Jelly etkileşimli WebGPU diyoraması
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-09
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/castle-jelly-interactive-webgpu-diorama"><img src="../assets/previews/45f0f466b9571f31fc1af32aac463458c2b6038abc7e828a5fc2e20652a38ce2.jpg" width="840" loading="lazy" alt="Castle Jelly etkileşimli WebGPU diyoraması"></a>
+
+Yazar, aynı istemle GPT-6 Astra ve Claude karşılaştırması için doğrulanmış bir yorumda bu istemi paylaştı. İstem; masalsı bir uçurum kalesi, katmanlı şekerleme-kaya arazisi, şelale fiziği, yelkenli bir kalyon ve havai fişekler, köprü hareketi, paralar, dalgalar ve günün saati için dokunmatik kontroller içeren etkileşimli bir WebGPU jöle gölü diyoraması talep ediyor.
+
+**İstem**
+
+```text
+"Castle Jelly" adında, tek dosyalı bir WebGPU "malzeme çalışması" sayfası oluştur. Jelly diorama serimin (Pirate Jelly / Island Jelly) tarzında olsun: kâğıt bir stüdyoda masa üzerinde duran, kesit yüzlerinde şekerleme katmanlarını gösteren, sallanan jöle gölünden oluşan kare bir blok; italik serif başlık "Castle / Jelly.", sağda cam bir kontrol paneli, sol altta "How to play" satırı, İngilizce arayüz ve mobil alt sayfa düzeni.
+Diyorama: Bir uçurumun üzerindeki masalsı kale. Bloğun arka-sol kısmı bir plato olsun; platonun önü, şekerleme çizgili kayadan oluşan dik bir duvar (bloğun kesit yüzleriyle eşleşen pasta katmanı benzeri katmanlar ve gölün altında bir moloz eteği) oluştursun. Bu yüzey SDF'den surface nets yöntemiyle modellenmiş, yukarı baktığı yerlerde yosunlarla kaplı olsun. Çimenlikte krem rengi bir kale; yuvarlak kuleler, parlak pembe/lila/mavi konik çatılar, altın alem uçları, dalgalanan flamalar, mazgallı duvarlar, büyük bir salon, kemerli pencereler (gündüz koyu cam, gece lamba ışığı), asma köprülü bir kapı binası, kapının yanında bir mangal, jelibon çamları, çiçekli çalılar ve sazlar bulunsun. Bir nehir kaynaktan doğsun, kapının yanından geçip asma köprünün altından aksın ve kenardan dökülerek yay çizip jöle gölüne şelale olarak insin — ardından jölenin içinde akmaya devam etsin: lifleri dağılan bir sütun, aşağı doğru sürüklenip sonra yükselen kabarcıklar ve göl tabanı boyunca akan parlak akıntı iplikleri. Şelale yüzeye vursun (sığ su dalgaları, köpük, sıçrama ve sis). Küçük bir kraliyet kalyonu (mavi gövde, beyaz yelkenler ve taçlı sancak) gölde turlar atsın.
+Etkileşimler: Havai fişekler (kulelerden fırlayan roketler, kaleyi ve gölü aydınlatan renkli patlamalar; geceleri otomatik), köprüyü indirme/kaldırma, kraliyet selamı (gemi ateş eder, su sıçrar), dilek paraları (şelalenin altındaki havuza); bir kuleye / kapıya / mangala / gemiye dokunma, dalga oluşturmak için suyu sürükleme, bloğu eğme, para ve topları fırlatma, çamları bükme. Kaydırıcılar: Sertlik, Şelale (akış), Dalga sönümü, Günün saati (öğle → gün batımı → yıldızlı gece). Seçenekler: Glacier, Rose, Lilac. Gölgeler, kaustikler, jölenin içinden kırılma, sabit adımlı fizik.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/castle-jelly-interactive-webgpu-diorama) · [Orijinal gönderi](https://x.com/vib3coded/status/2108649989098594707) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2108912938656407888"></a>
+
+### Krom bir küre üzerinde etkileşimli 3B kumaş simülasyonu
+
+[EvoLink.ai](https://x.com/EvoLinkAi) · 2026-10-10
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-cloth-simulation-chrome-sphere"><img src="../assets/previews/9ad6950acc582fada95a4d2b581046313eebc4abdc1ca173922e7e6900310540.jpg" width="840" loading="lazy" alt="Krom bir küre üzerinde etkileşimli 3B kumaş simülasyonu"></a>
+
+EvoLink.ai tarafından bir yazar yorumunda yayımlanan bu prompt, tarayıcı tabanlı etkileşimli bir 3B kumaş simülasyonunu tanımlar. Mercan kırmızısı saten kumaşın fizik kurallarına uygun biçimde düşerek krom bir kürenin üzerine serilmesini; 4'ten 4.096 dörtgene kadar altı mesh yoğunluğunun açıkça etiketlenmesini; 24 saniyelik deterministik bir sunumu ve kumaşı doğrudan sürükleme kontrollerini belirtir.
+
+**İstem**
+
+```text
+Yapay zekâ kodlama modelleri arasında görsel bir karşılaştırma için kusursuz, etkileşimli bir 3B kumaş simülasyonu oluşturun.
+
+Merkezdeki görsel: kare şeklinde bir kumaş parçası sabit duran krom bir kürenin üzerine düşsün. Deformasyonun nasıl değiştiğini göstermek için tamamen aynı düşüşü giderek daha yoğun kumaş mesh'leriyle tekrarlayın.
+
+Three.js ve TypeScript/JavaScript kullanarak çalışan bir tarayıcı uygulaması oluşturun. Uygulamayı mevcut çalışma alanında hayata geçirip çalıştırın. Projeyi bağımsız olarak tamamlayın, test edin ve bitirmeden önce sorunları giderin.
+
+GÖRSEL YÖN
+
+Premium ve tuhaf biçimde tatmin edici bir 3B animasyon hedefleyin: net biçimde görülen tek ve büyük bir konu, güzel bir kumaş, inandırıcı temas ve ölçülü stüdyo aydınlatması.
+
+16:9 kompozisyon kullanın. Tamamlanan kayıt, dikey 9:16 bir videonun içinde diğer iki kayıtla üst üste yerleştirilecek; bu nedenle telefon ekranının üçte birine küçültüldüğünde her şey okunabilir kalmalı.
+
+Sahne:
+- Mat, koyu antrasit bir zeminin üzerinde sabit duran, cilalı krom bir küre.
+- Kürenin üzerinde yatay olarak asılı duran, zengin mercan kırmızısı saten kumaştan kare bir parça.
+- Kumaşın kenar uzunluğu, küre çapının yaklaşık 2,6 katı olmalı; böylece kenarlar kürenin çevresine dökülebilmeli.
+- Büyük ve yumuşak bir ana ışık, hafif bir dolgu ışığı ve ince bir kenar ışığı.
+- Krom yüzeyin okunabilir olmasını sağlayan geniş stüdyo yansımaları.
+- Yumuşak temas gölgeleri ve görünür kıvrımlar.
+- Kumaş, küre ve zemin arasında güçlü ayrım sağlayan, ölçülü ve koyu bir arka plan.
+
+Kumaş kauçuk, sıvı, folyo veya plastik gibi değil, dokunmuş saten gibi görünmeli. İnce bir doku ve ölçülü bir parlaklık kullanın. Her iki yüzü de doğru şekilde render edin.
+
+Kürenin üstünü ve aşağı sarkan kumaş kenarlarını gösterecek sabit, hafif yüksekten bakan üç çeyrek kamera açısı seçin. İlk düşüş için yeterli alan bırakırken konuyu büyük tutun.
+
+Otomatik sunum sırasında kamera yörüngede dönmemeli. Dekoratif kontrol paneli, markalama, model adları, giriş açılış ekranı veya gereksiz metin kullanmayın.
+
+GERÇEK KUMAŞ SİMÜLASYONU
+
+Gerçek zamanlı fizik simülasyonu kullanın. Konuma dayalı veya genişletilmiş konuma dayalı dinamikler çözücüsü uygun olabilir; ancak güvenilir ve performanslı biçimde uygulayabileceğiniz bir yöntem seçin.
+
+Hareket; yerçekimi, kısıtlar ve çarpışma işleme süreçlerinden ortaya çıkmalı.
+
+Şunları yapmayın:
+- Kumaş yerine önceden kaydedilmiş video kullanmayın.
+- Simülasyonun yerine shader dalgası veya hazır vertex animasyonu kullanmayın.
+- Vertex'leri önceden hesaplanmış dökümlü şekle doğru animasyonla taşımayın.
+- Mesh'le ilgisi olmayan rastgele yüz sayıları göstermeyin.
+- Düşük çözünürlüklü bir etiket gösterirken yüksek çözünürlüklü kumaşa geçmeyin.
+
+Şunları uygulayın:
+- Yerçekimi.
+- Esnemeye direnen yapısal kısıtlar.
+- Kayma direnci.
+- Bükülme direnci.
+- Sönümleme.
+- Kararlı küre ve zemin çarpışmaları.
+- Kumaşın havada yüzmesine neden olmadan görünür kesişmeleri önleyen küçük bir çarpışma payı.
+- Render kare hızından bağımsız, tutarlı simülasyon zamanlaması.
+
+Kumaş serbest bırakıldığında tamamen serbest olmalı; köşelerini sabitlemeyin.
+
+Her mesh yoğunluğunda aynı fiziksel boyutları ve hedef malzeme özelliklerini kullanın. Mesh aralığını hesaba katarak kütleleri ve kısıtları ayarlayın; böylece mesh yoğunluğunu değiştirmek toplam kütleyi veya kumaş sertliğini keyfi biçimde değiştirmesin.
+
+Her seviyede aynı deterministik başlangıç düzenini kullanın. Küreye göre küçük, sabit bir ofset veya döndürme, görsel açıdan hoş asimetrik kıvrımlar oluşturmak için kabul edilebilir; ancak tüm çalıştırmalarda aynı kalmalı.
+
+Kumaşın küreyi kesip geçmesini önlemeye öncelik verin. Düşük mesh çözünürlüklerinde yalnızca vertex'leri kontrol etmek yeterli değildir: vertex'ler kürenin dışında kalırken bir kenar veya üçgen küreyle kesişebilir. Bunu pratikte mümkün olduğunca iyi yönetin ve hataları kamera yerleşimiyle gizlemeyin.
+
+Düşük çözünürlüklü mesh'lerin düşük çözünürlüklü görünmesine izin verin. Daha yüksek çözünürlükler, uydurma bir “iyileştirme” olmadan daha ayrıntılı deformasyonu doğal biçimde ortaya çıkarmalı.
+
+MESH ÇÖZÜNÜRLÜKLERİ VE DOĞRU ETİKETLEME
+
+Şu kare simülasyon ızgaralarını kullanın:
+
+2 × 2 hücre = 4 dörtgen
+4 × 4 hücre = 16 dörtgen
+8 × 8 hücre = 64 dörtgen
+16 × 16 hücre = 256 dörtgen
+32 × 32 hücre = 1.024 dörtgen
+64 × 64 hücre = 4.096 dörtgen
+
+Her dörtgen, iki üçgen olarak render edilir.
+
+Büyük kayıt etiketi şu şekilde okunmalı:
+“4 YÜZ”
+“16 YÜZ”
+“64 YÜZ”
+“256 YÜZ”
+“1.024 YÜZ”
+“4.096 YÜZ”
+
+Küçük ve tutarlı bir alt başlık ekleyin:
+“dörtgen ızgara”
+
+Genişletilmiş kontrollerde tam dörtgen, üçgen ve vertex sayılarını gösterin. Bu değerleri etkin mesh'ten türetin.
+
+Görüntülenen çözünürlüğü yanlış temsil eden gizli subdivision eklemeyin. Shading yumuşak olabilir; ancak kumaşın görünen geometrisi seçilen ızgarayla eşleşmeli.
+
+OTOMATİK SUNUM — TAM OLARAK 24 SANİYE
+
+Deterministik bir dizi başlatan bir “Sunum” düğmesi ekleyin.
+
+Her biri tam dört saniye süren altı aşama:
+
+1. 4 yüz
+2. 16 yüz
+3. 64 yüz
+4. 256 yüz
+5. 1.024 yüz
+6. 4.096 yüz
+
+Her aşama için:
+- İlk 0,25 saniye: kumaşı aynı askıdaki başlangıç konumuna sıfırlayın ve güncellenen sayıyı gösterin.
+- Sonraki 3,75 saniye: kumaşı serbest bırakıp düşüşünü ve dökümlenmesini simüle edin.
+- Yükleme ekranı veya uzun bir geçiş olmadan hemen sonraki aşamaya sıfırlayın.
+
+Çözünürlükler arasında geçişin fark edilir bir duraklamaya neden olmaması için gerekli kaynakları önceden oluşturun veya hazırlayın.
+
+Kamera, aydınlatma, kumaş rengi, nesne konumları ve simülasyon zaman ölçeğini baştan sona aynı tutun.
+
+Kare hızını korumak için yüksek çözünürlüklerde simülasyonu yavaşlatmayın. Bunun yerine çözücüyü optimize edin.
+
+Sonda son sahneyi koruyun ve etkileşime izin verin. Tek tıklamayla yeniden oynatma sağlayın.
+
+INTERACTION
+
+Otomatik sunumun dışında şunları destekleyin:
+- Herhangi bir mesh çözünürlüğünü seçme.
+- Kumaşı düşürme/sıfırlama.
+- Duraklatma/devam ettirme.
+- İnce bir wireframe kaplamasını açıp kapatma.
+- Kumaşı fare veya dokunma ile tutup sürükleme.
+- Normal simülasyonun devam etmesi için kumaşı bırakma.
+
+Sürükleme, kumaşın tamamını ışınlamak yerine tutulan bölgeyi geçici olarak kısıtlamalı. Simülasyonu kararlı tutmak için sürüklemeyi sınırlayın.
+
+Çözünürlüğü değiştirmek, kumaşı temiz biçimde yenisiyle değiştirmeli ve durumunu sıfırlamalı.
+
+Kontrolleri ve imleci etkin değilken gizleyen bir kayıt modu sağlayın; yalnızca sahne ile kompakt yüz sayısı etiketi kalsın. Etiket, tüm aşamalarda tam olarak aynı konumda kalmalı.
+
+Ana sahneyi duyarlı tasarlayın ve güvenilir bir 16:9 kayıt düzeni sağlayın. Kaydırma çubuklarından ve kesilen içerikten kaçının.
+
+MÜHENDİSLİK VE PERFORMANS
+
+Çalışma alanında bulunan araçları ve bağımlılıkları kullanın. Prosedürel malzemeler ve ortam aydınlatması kullanılabilir; kırılgan harici asset URL'lerine bağımlı olmaktan kaçının.
+
+Masaüstünde 60 fps'de akıcı oynatmayı, en yüksek çözünürlükte ise minimum 30 fps'yi hedefleyin. Mümkünse performansı gerçek tarayıcıda ölçün. Ölçmediğiniz bir kare hızını iddia etmeyin.
+
+Sabit simülasyon zaman adımları, uygun alt adımlar ve verimli veri yapıları kullanın. Kare başına gereksiz bellek ayırmaktan kaçının.
+
+Şunları yönetin:
+- Tekrarlanan sunum başlatmaları.
+- Simülasyon sırasında sıfırlama.
+- Etkileşim sırasında çözünürlük değiştirme.
+- İşaretçinin canvas dışına bırakılması.
+- Pencerenin yeniden boyutlandırılması.
+- Yenilenen geometrilerin ve olay işleyicilerinin temizlenmesi.
+
+Performans sorun çıkarmaya başlarsa görsel kaliteyi düşürmeden önce optimizasyon yapın. İstenen mesh çözünürlüğünü sessizce azaltmayın.
+
+PRIORITIES
+
+1. Çalışan kumaş fiziği ve küreyle inandırıcı temas.
+2. Güzel ve okunabilir kumaş ile aydınlatma.
+3. Güvenilir ve senkronize 24 saniyelik sunum.
+4. Akıcı performans.
+5. Minimal ve işlevsel kontroller.
+
+Kapsamı odaklı tutun. İlgisiz arayüzler veya ek sahneler oluşturmaya zaman harcamayın.
+
+VALIDATION
+
+Bitirmeden önce:
+- Uygulamayı çalıştırın.
+- Her mesh sayısını doğrulayın.
+- Sunumun tamamını çalıştırın.
+- Yüksek çözünürlüklü kıvrımların yanı sıra düşük çözünürlüklü çarpışmaları da inceleyin.
+- Sıfırlama, yeniden oynatma, wireframe ve sürüklemeyi test edin.
+- 16:9 kayıt kompozisyonunu kontrol edin.
+- Tarayıcı araçları kullanılabiliyorsa tarayıcı hatalarını inceleyin.
+- Gözlemlediğiniz sorunları giderin.
+
+Tarayıcıyı görsel olarak inceleyemiyorsanız, görsel doğrulama yaptığınızı iddia etmek yerine bunu açıkça belirtin.
+
+Kısa bir özetle tamamlayın:
+- Uygulamanın nasıl başlatılacağı.
+- Sunum ve kayıt modunun nasıl başlatılacağı.
+- Nelerin test edildiği.
+- Kalan sınırlamalar.
+
+Yalnızca bir uygulama planı değil, çalışan uygulamayı teslim edin.
+
+@noclipepe'den ilham alın
+
+Agent'inizde Haiku 5.5 API'sini kullanın:
+
+https://t.co/BmU7fO6uOJ
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-cloth-simulation-chrome-sphere) · [Orijinal gönderi](https://x.com/EvoLinkAi/status/2108912941328154844) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Sonsuz Tank Savunması
@@ -3689,7 +3877,7 @@ Kaynak kodu, lockfile’ı, npm geliştirme/derleme komutlarını ve statik çı
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 332 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 334 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

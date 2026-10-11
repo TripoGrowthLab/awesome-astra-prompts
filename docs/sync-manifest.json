@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "model": "gpt-6-astra",
   "count": 100,
-  "totalCount": 332,
+  "totalCount": 334,
   "sourceCodeCount": 12,
   "limit": 100,
   "locales": [
@@ -23,8 +23,6 @@
   ],
   "promptIds": [
     "2100271998618177864",
-    "2099643231659012553",
-    "2099719427990134984",
     "2099750376530657300",
     "2099785223827259515",
     "2099850719839109597",
@@ -115,6 +113,8 @@
     "2108501256067285443",
     "2108505251036774875",
     "2108574047948656981",
+    "2108649845405929924",
+    "2108912938656407888",
     "battle-city-3d",
     "crazy-tanks-3d-island-artillery",
     "jelly-villa",
@@ -131,8 +131,6 @@
   ],
   "imagePromptIds": [
     "2100271998618177864",
-    "2099643231659012553",
-    "2099719427990134984",
     "2099750376530657300",
     "2099785223827259515",
     "2099850719839109597",
@@ -223,6 +221,8 @@
     "2108501256067285443",
     "2108505251036774875",
     "2108574047948656981",
+    "2108649845405929924",
+    "2108912938656407888",
     "battle-city-3d",
     "crazy-tanks-3d-island-artillery",
     "jelly-villa",
@@ -236,78 +236,78 @@
   "files": [
     {
       "path": "assets/manifest.json",
-      "sha256": "dfdb49b5edde85dcc105e596ae799c89095bee3f0ed297c0ce9fdb9e578ca529",
+      "sha256": "4c2dfc25b005f787e86c09477cedcede4628eab8efbb2ca244ba9e2fe902f15e",
       "bytes": 59594
     },
     {
       "path": "docs/catalog.de.md",
-      "sha256": "a124b558a0d2ac9f1166ad6851be6d32b8ced8016763e7d64f26999f2ca9efd5",
-      "bytes": 379483
+      "sha256": "863fcfc5ff3fcc458c7466d55bd9e741bfb8c92e2877a73988c1406f7b5b0592",
+      "bytes": 391554
     },
     {
       "path": "docs/catalog.en.md",
-      "sha256": "f7d2deff245306051dd1e721d0fceb153c4dd247d93347829f0f465a86d16a3a",
-      "bytes": 318893
+      "sha256": "81dbc2e90990a8e9fb695cb6235369281074375af8049b20cfa3c9e9f8d4e74f",
+      "bytes": 328923
     },
     {
       "path": "docs/catalog.es.md",
-      "sha256": "712f0693474901c33b3550fe49f6a0601cc12841f0aab3c7539e4facd1e2eb3f",
-      "bytes": 383807
+      "sha256": "c574c790b0a3e53e836ef0b7169437ff03b8f5555916b120f04eb2b81b7a537a",
+      "bytes": 396077
     },
     {
       "path": "docs/catalog.fr.md",
-      "sha256": "7f535793dabcfc67e5ce0a9d8fcc598c0420f52953ad9659a0ed5052168761ac",
-      "bytes": 400401
+      "sha256": "beffd298906a46a960e6469fc797a52f8d9e112669febefdc719fc50f467beb9",
+      "bytes": 413838
     },
     {
       "path": "docs/catalog.it.md",
-      "sha256": "cb7a59fabe91e28598a767904049c0f30aadc0a96ea2bab25654ec9bb0089ba1",
-      "bytes": 373262
+      "sha256": "441780cf1a3da31e15dd242622c99bf8a7c44723db5625886ba2f6d8e36e2a27",
+      "bytes": 385339
     },
     {
       "path": "docs/catalog.ja.md",
-      "sha256": "e70be236cc694ddeefba0bd8f48b700704c883018285e4eac7b46dad0004c229",
-      "bytes": 423426
+      "sha256": "df46ee2f815ae350ca1be1ae423b9a514950df5e67bc9fa7953a3b3ea5a4d5a9",
+      "bytes": 437859
     },
     {
       "path": "docs/catalog.ko.md",
-      "sha256": "07c0f75154f08864cce381a3f0e6ef28796069af311142c1148f7f42bc01b644",
-      "bytes": 398751
+      "sha256": "98538f195436ba6c3eb74ccaec21bbcbb79516c2a0cff16746bf553a0913a7bd",
+      "bytes": 411808
     },
     {
       "path": "docs/catalog.pt.md",
-      "sha256": "9a14dd633a3fd7fe7c1ec4faec157aaf8a54e9a023b92d7adb4ee3207e098304",
-      "bytes": 370739
+      "sha256": "448b688be19f336a0138be68441cffa7c58296b0380a99c083cd11ff5342c22b",
+      "bytes": 382525
     },
     {
       "path": "docs/catalog.ru.md",
-      "sha256": "1709bef78a506c613a74a69fc9da14b31e3cf5368fbf7a98143b0e638d792d44",
-      "bytes": 594316
+      "sha256": "ddfe36984a8d52951dba25c0ef0d9a9f30e0612e42965e4ef1247bd46c0244f3",
+      "bytes": 619239
     },
     {
       "path": "docs/catalog.tr.md",
-      "sha256": "6c7127b17e083ab94bd1b123847171c0416a09d08f2e820e237a2fb3bb935ed1",
-      "bytes": 377943
+      "sha256": "4cd5d2c02b1344c6eb9800f3e669f0801b3971c3714c63b789530689b022c76d",
+      "bytes": 389981
     },
     {
       "path": "docs/catalog.uk.md",
-      "sha256": "fd1e0de888d05865a2f3caeb2237a348348b4eb11be3f6675e4a596dae8a60ae",
-      "bytes": 579640
+      "sha256": "70229814655d4b9d7fa0cd43e63a6309c8550a4a52b7e149ba99c6eb511f6b03",
+      "bytes": 599512
     },
     {
       "path": "docs/catalog.vi.md",
-      "sha256": "d5230adf9e7cba9194a84c1e401c1d3d895dbae5f8ee328cd9188a0f5f52318a",
-      "bytes": 414807
+      "sha256": "0386b11d5836aafa024e5037cd37dcea1e132d37fa668fe68781f8060d3830eb",
+      "bytes": 428259
     },
     {
       "path": "docs/catalog.zh-Hant.md",
-      "sha256": "37d1f5aeeee2c59fd1e043335a7303e5895af42cb26c57f0a969d212084f3873",
-      "bytes": 316413
+      "sha256": "d872633767fc5ff78c2e49a5f35d4f4d65bbbd61460c4d1fab859456837378e0",
+      "bytes": 326007
     },
     {
       "path": "docs/catalog.zh.md",
-      "sha256": "8cc3aad27ad5d5aea38a161b49141096d7dc46cc9fef6e5ceb8614832a4f39f0",
-      "bytes": 315437
+      "sha256": "7a876415459213c518bb1f07b368f2f5b709557270fe6ab49d5f83c842337363",
+      "bytes": 325020
     },
     {
       "path": "docs/with-code.md",
@@ -316,13 +316,13 @@
     },
     {
       "path": "README.md",
-      "sha256": "5cf9934038cc695e296e148180b6e80606e9fd9e9212070589a7405125537b3f",
-      "bytes": 318455
+      "sha256": "201f98769cc4443c6110c0c4ff3ddeebe4ca2e61246651857be4e6eb9644eb90",
+      "bytes": 328485
     },
     {
       "path": "README.zh-CN.md",
-      "sha256": "e50282a265feaa775791b272410de5fa4283fdc6331fb1e2005defa0bbebafde",
-      "bytes": 314999
+      "sha256": "3f5b77fdca186b96f7360debf9097f662c73cb1bb276e99acdcf3c88c5d8dccb",
+      "bytes": 324582
     }
   ]
 }

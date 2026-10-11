@@ -28,7 +28,7 @@
 **Un point de départ pour votre prochain jeu, scène ou monde interactif.**
 
 
-**332 · Derniers prompts Astra**
+**334 · Derniers prompts Astra**
 
 ## Projets à découvrir
 
@@ -51,8 +51,6 @@
 <summary>Parcourir les exemples</summary>
 
 - [Démo de graphismes fantasy en vue isométrique](#2100271998618177864) · GitHub
-- [Île volcanique interactive avec des bateaux en fuite](#2099643231659012553)
-- [Panneau interactif du système nerveux d’un organisme en 3D](#2099719427990134984)
 - [Cœur et émoji souriant en 3D, style Apple](#2099750376530657300)
 - [Jeu d’exploration spatiale procédurale sans zones inaccessibles](#2099785223827259515)
 - [Créer un espace 3D et un personnage de jeu animables à partir d’images de référence](#2099850719839109597)
@@ -143,6 +141,8 @@
 - [Clavier interactif en miel](#2108501256067285443)
 - [Expérience interactive de dés gélifiés en 3D](#2108505251036774875)
 - [Île flottante néon interactive](#2108574047948656981)
+- [Diorama WebGPU interactif « Castle Jelly »](#2108649845405929924)
+- [Simulation interactive de tissu 3D sur une sphère chromée](#2108912938656407888)
 - [Battle City 3D : Défense de chars sans fin](#battle-city-3d)
 - [Crazy Tanks — Artillerie insulaire en 3D](#crazy-tanks-3d-island-artillery)
 - [Villa en gelée](#jelly-villa)
@@ -170,46 +170,6 @@ Crée-moi une démo graphique : caméra isométrique, style visuel inspiré des 
 ```
 
 [Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2100271998618177864) · [Publication originale](https://github.com/achimala/dream-loop) · [Code source](https://github.com/achimala/dream-loop) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2099643231659012553"></a>
-
-### Île volcanique interactive avec des bateaux en fuite
-
-[Wësche](https://x.com/WescheNex1q) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2099643231659012553"><img src="../assets/previews/9a1b9694885d457f5a963b113de92ef80461d9c977d88ed6544e091eabf13eea.jpg" width="840" loading="lazy" alt="Île volcanique interactive avec des bateaux en fuite"></a>
-
-Une demande réutilisable pour créer une île volcanique 3D interactive, avec de la lave qui s’écoule et des bateaux qui fuient pendant l’éruption. L’auteur d’origine indique avoir envoyé cette demande à plusieurs modèles, dont Astra-6, dans le cadre d’une comparaison.
-
-**Prompt**
-
-```text
-construisez une île volcanique interactive avec de la lave qui s’écoule et des bateaux qui fuient.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2099643231659012553) · [Publication originale](https://x.com/WescheNex1q/status/2099643231659012553) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2099719427990134984"></a>
-
-### Panneau interactif du système nerveux d’un organisme en 3D
-
-[AiMind](https://x.com/AIMind_Ai) · 2026-09-15
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2099719427990134984"><img src="../assets/previews/12a118ec5a6078181cd7528a0f114e8c5c8c1c3bb45f309cf4c3162886d0b347.jpg" width="840" loading="lazy" alt="Panneau interactif du système nerveux d’un organisme en 3D"></a>
-
-AiMind partage cette recommandation « Volez le prompt » pour créer un panneau interactif avec des régions du système nerveux cliquables et un organisme 3D doté d’un rigging procédural. La publication présente une démonstration avec une mouche, mais le prompt cité utilise le paramètre fictif \[organism\] et n’est pas explicitement présenté comme l’entrée exacte utilisée pour cette séquence.
-
-**Prompt**
-
-```text
-Panneau interactif. À gauche : système nerveux schématique de [organism], avec des régions cliquables. À droite : [organism] en 3D doté d’un rigging procédural. Un clic sur une région déclenche une réponse motrice de 2,5 secondes. Interface sombre, télémétrie de la vitesse et du cap.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2099719427990134984) · [Publication originale](https://x.com/AIMind_Ai/status/2099719427990134984) · [Retour aux exemples](#all-prompts)
 
 ---
 
@@ -3169,6 +3129,234 @@ Créez le projet complet et exécutable, plutôt que de vous contenter d’expli
 
 ---
 
+<a id="2108649845405929924"></a>
+
+### Diorama WebGPU interactif « Castle Jelly »
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-09
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/castle-jelly-interactive-webgpu-diorama"><img src="../assets/previews/45f0f466b9571f31fc1af32aac463458c2b6038abc7e828a5fc2e20652a38ce2.jpg" width="840" loading="lazy" alt="Diorama WebGPU interactif « Castle Jelly »"></a>
+
+L’auteur a fourni ce prompt dans un commentaire vérifié pour la comparaison entre GPT-6 Astra et Claude avec le même prompt. Il demande un diorama WebGPU interactif représentant un lac de gelée, avec un château de conte de fées construit sur une falaise, un terrain en strates de confiserie, une simulation physique de cascade, un galion à voiles et des commandes tactiles pour les feux d’artifice, le mouvement du pont, les pièces, les vagues et l’heure de la journée.
+
+**Prompt**
+
+```text
+Créez une page « étude de matériaux » WebGPU dans un fichier unique, appelée « Castle Jelly », dans le style de ma série de dioramas en gelée (Pirate Jelly / Island Jelly) : un bloc carré de lac de gelée tremblotante posé sur une table dans un atelier en papier, avec des faces coupées révélant des strates de confiserie, un masthead en serif italique « Castle / Jelly. », un panneau de commande en verre à droite, la ligne « Comment jouer » en bas à gauche, une interface en anglais et une mise en page mobile avec panneau inférieur.
+Le diorama : un château de conte de fées sur une falaise. À l’arrière gauche du bloc, un plateau dont la face avant forme une paroi abrupte de roche rayée façon confiserie (des strates en couches qui correspondent aux faces coupées du bloc, avec un talus sous le lac), modélisé à partir d’un SDF avec la méthode Surface Nets, et couvert de mousse sur les surfaces orientées vers le haut. Sur la pelouse : un château couleur crème avec des tours rondes, des toits coniques brillants roses, lilas et bleus, des fleurons dorés, des fanions flottant au vent, des murs crénelés, une grande salle, des fenêtres cintrées (vitres sombres le jour, éclairées par des lampes la nuit), un corps de garde avec un pont-levis, un brasero près de la porte, des pins en gomme, des buissons fleuris et des roseaux. Une rivière jaillit d’une source, passe devant la porte sous le pont-levis, puis se déverse par le rebord en une cascade qui décrit un arc avant de tomber dans le lac de gelée — et continue son cours à l’intérieur de la gelée : un panache qui se désagrège, des bulles entraînées vers le bas puis remontant à la surface, et de fins courants lumineux qui s’écoulent le long du fond du lac. La cascade martèle la surface (vagues en eau peu profonde, écume, projections et brume). Un petit galion royal (coque bleue, voiles blanches, étendard à couronne) fait le tour du lac.
+Interactions : Feux d’artifice (des fusées partent des tours, des gerbes colorées éclairent le château et le lac ; déclenchement automatique la nuit), abaisser/relever le pont, salut royal (le navire tire un coup de canon, avec éclaboussure), pièces à vœux (à jeter dans le bassin sous la cascade) ; touchez une tour, la porte, le brasero ou le navire, faites glisser l’eau pour créer des vagues, inclinez le bloc, lancez des pièces et des balles, courbez les pins. Curseurs : Rigidité, Cascade (débit), Amortissement des vagues, Heure de la journée (midi → coucher du soleil → nuit étoilée). Variantes : Glacier, Rose, Lilas. Ombres, caustiques, réfraction à travers la gelée, physique à pas de temps fixe.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/castle-jelly-interactive-webgpu-diorama) · [Publication originale](https://x.com/vib3coded/status/2108649989098594707) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2108912938656407888"></a>
+
+### Simulation interactive de tissu 3D sur une sphère chromée
+
+[EvoLink.ai](https://x.com/EvoLinkAi) · 2026-10-10
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/interactive-cloth-simulation-chrome-sphere"><img src="../assets/previews/9ad6950acc582fada95a4d2b581046313eebc4abdc1ca173922e7e6900310540.jpg" width="840" loading="lazy" alt="Simulation interactive de tissu 3D sur une sphère chromée"></a>
+
+Prompt publié par EvoLink.ai dans un commentaire d’auteur pour une simulation interactive de tissu 3D dans un navigateur. Il décrit un tissu de satin rouge corail qui tombe physiquement et se drape sur une sphère chromée, avec six densités de maillage indiquées honnêtement, de 4 à 4 096 quadrilatères, une démonstration déterministe de 24 secondes et des commandes permettant de faire glisser directement le tissu.
+
+**Prompt**
+
+```text
+Créez une simulation interactive de tissu 3D soignée, destinée à comparer visuellement des modèles de codage IA.
+
+Élément visuel central : un carré de tissu tombe sur une sphère chromée immobile. Répétez exactement la même chute avec des maillages de tissu progressivement plus denses, afin de montrer l’évolution de la déformation.
+
+Créez une application fonctionnelle dans le navigateur avec Three.js et TypeScript/JavaScript. Implémentez-la et exécutez-la dans l’espace de travail actuel. Menez le projet à bien de manière autonome, testez-le et corrigez les problèmes avant de terminer.
+
+DIRECTION VISUELLE
+
+Visez une animation 3D haut de gamme et étrangement satisfaisante : un sujet principal grand et clairement visible, un beau tissu, un contact convaincant et un éclairage de studio maîtrisé.
+
+Utilisez une composition au format 16:9. L’enregistrement final sera empilé avec deux autres enregistrements dans une vidéo verticale au format 9:16 ; tous les éléments doivent donc rester lisibles une fois réduits au tiers de la hauteur d’un écran de téléphone.
+
+Scène :
+- Une sphère chromée polie et immobile, au-dessus d’un sol anthracite sombre mat.
+- Un carré de tissu en satin rouge corail intense, suspendu horizontalement au-dessus de la sphère.
+- La longueur du côté du tissu doit être d’environ 2,6 fois le diamètre de la sphère, afin que les bords puissent retomber autour d’elle.
+- Une grande lumière principale douce, une lumière de remplissage légère et une subtile lumière de contour.
+- De larges reflets de studio qui rendent le chrome lisible.
+- Des ombres de contact douces et des plis visibles.
+- Un arrière-plan sombre et sobre, avec une séparation nette entre le tissu, la sphère et le sol.
+
+Le tissu doit avoir l’aspect d’un satin tissé, et non de caoutchouc, de liquide, de feuille métallique ou de plastique. Utilisez une texture subtile et un brillant maîtrisé. Effectuez correctement le rendu des deux faces.
+
+Choisissez un angle de caméra fixe, en légère plongée et en trois-quarts, qui révèle le sommet de la sphère et les bords du tissu suspendus. Gardez le sujet assez grand tout en laissant suffisamment de place pour la chute initiale.
+
+Aucune rotation de caméra pendant la démonstration automatique. N’ajoutez ni tableau de bord décoratif, ni branding, ni noms de modèles, ni écran d’introduction, ni texte superflu.
+
+SIMULATION RÉALISTE DU TISSU
+
+Utilisez une simulation physique en temps réel. Un solveur de dynamique basé sur la position ou de dynamique étendue basée sur la position convient, mais choisissez une implémentation que vous pouvez rendre fiable et performante.
+
+Le mouvement doit émerger de la gravité, des contraintes et de la gestion des collisions.
+
+Interdictions :
+- Remplacer le tissu par une vidéo préenregistrée.
+- Utiliser une vague de shader ou une animation de sommets prédéfinie à la place de la simulation.
+- Animer les sommets vers une forme drapée précalculée.
+- Afficher un nombre arbitraire de faces sans rapport avec le maillage.
+- Remplacer le tissu par un maillage haute résolution tout en affichant une étiquette basse résolution.
+
+Implémentez :
+- La gravité.
+- Des contraintes structurelles qui résistent à l’étirement.
+- Une résistance au cisaillement.
+- Une résistance à la flexion.
+- De l’amortissement.
+- Des collisions stables avec la sphère et le sol.
+- Une petite marge de collision qui empêche les intersections visibles sans faire flotter le tissu.
+- Un timing de simulation cohérent, indépendant de la fréquence d’affichage.
+
+Une fois relâché, le tissu est totalement libre : n’épinglez pas ses coins.
+
+Utilisez les mêmes dimensions physiques et les mêmes propriétés de matériau cibles pour chaque densité de maillage. Tenez compte de l’espacement du maillage lors du réglage des masses et des contraintes, afin que la modification de la densité ne change pas arbitrairement la masse totale ou la rigidité du tissu.
+
+Utilisez la même configuration initiale déterministe à chaque niveau. Un léger décalage ou une légère rotation fixe par rapport à la sphère est acceptable pour créer des plis asymétriques attrayants, mais cet élément doit rester identique pour toutes les exécutions.
+
+Donnez la priorité à la prévention des traversées du tissu à travers la sphère. Aux résolutions de maillage faibles, vérifier uniquement les sommets ne suffit pas : une arête ou un triangle peut intersecter la sphère alors que ses sommets restent à l’extérieur. Gérez ce cas dans la mesure du possible et ne masquez pas les échecs en modifiant le cadrage.
+
+Laissez les maillages grossiers avoir un aspect grossier. Les résolutions supérieures doivent révéler naturellement une déformation plus détaillée, sans « amélioration » artificielle.
+
+RÉSOLUTIONS DU MAILLAGE ET ÉTIQUETAGE HONNÊTE
+
+Utilisez les grilles de simulation carrées suivantes :
+
+2 × 2 cellules = 4 quadrilatères
+4 × 4 cellules = 16 quadrilatères
+8 × 8 cellules = 64 quadrilatères
+16 × 16 cellules = 256 quadrilatères
+32 × 32 cellules = 1 024 quadrilatères
+64 × 64 cellules = 4 096 quadrilatères
+
+Chaque quadrilatère est rendu sous forme de deux triangles.
+
+La grande étiquette de l’enregistrement doit afficher :
+« 4 FACES »
+« 16 FACES »
+« 64 FACES »
+« 256 FACES »
+« 1 024 FACES »
+« 4 096 FACES »
+
+Ajoutez un petit sous-titre cohérent :
+« grille de quadrilatères »
+
+Dans les commandes développées, affichez le nombre exact de quadrilatères, de triangles et de sommets. Calculez-les à partir du maillage actif.
+
+N’ajoutez aucune subdivision cachée qui donnerait une représentation trompeuse de la résolution affichée. Le shading peut être lissé, mais la géométrie visible du tissu doit correspondre à la grille sélectionnée.
+
+DÉMONSTRATION AUTOMATIQUE — EXACTEMENT 24 SECONDES
+
+Ajoutez un bouton « Démonstration » qui lance une séquence déterministe.
+
+Six étapes, exactement quatre secondes par étape :
+
+1. 4 faces
+2. 16 faces
+3. 64 faces
+4. 256 faces
+5. 1 024 faces
+6. 4 096 faces
+
+Pour chaque étape :
+- Pendant les 0,25 premières secondes : réinitialisez le tissu à l’identique, dans sa position de départ suspendue, et affichez le nouveau compte.
+- Pendant les 3,75 secondes suivantes : relâchez-le et simulez sa chute et son drapé.
+- Réinitialisez immédiatement la scène pour passer à l’étape suivante, sans écran de chargement ni longue transition.
+
+Créez ou préparez à l’avance les ressources nécessaires afin que le changement de résolution ne provoque aucune pause perceptible.
+
+Conservez la même caméra, le même éclairage, la même couleur de tissu, les mêmes positions d’objet et la même échelle temporelle de simulation pendant toute la séquence.
+
+Ne ralentissez pas la simulation aux résolutions supérieures pour préserver la fréquence d’images. Optimisez plutôt le solveur.
+
+À la fin, conservez la dernière scène et autorisez les interactions. Proposez une relecture en un clic.
+
+INTERACTION
+
+En dehors de la démonstration automatique, prenez en charge :
+- La sélection de n’importe quelle résolution de maillage.
+- La chute et la réinitialisation du tissu.
+- La mise en pause et la reprise.
+- L’activation et la désactivation d’une surimpression filaire subtile.
+- La saisie et le déplacement du tissu à la souris ou au toucher.
+- Le relâchement du tissu pour reprendre la simulation normale.
+
+Le déplacement doit contraindre temporairement la zone saisie, et non téléporter l’ensemble du tissu. Limitez le déplacement pour maintenir la stabilité de la simulation.
+
+Le changement de résolution doit remplacer proprement le tissu et réinitialiser son état.
+
+Proposez un mode d’enregistrement qui masque les commandes et le curseur lorsqu’ils sont inactifs, en ne laissant visibles que la scène et l’étiquette compacte du nombre de faces. L’étiquette doit rester exactement à la même position pour toutes les étapes.
+
+Rendez la scène principale adaptative, avec une mise en page de capture fiable au format 16:9. Évitez les barres de défilement et le contenu tronqué.
+
+INGÉNIERIE ET PERFORMANCES
+
+Utilisez les outils et dépendances disponibles dans l’espace de travail. Les matériaux procéduraux et l’éclairage d’environnement sont les bienvenus ; évitez de dépendre d’URL externes d’assets fragiles.
+
+Visez une lecture fluide à 60 images/s sur ordinateur, avec un objectif minimal de 30 images/s à la résolution maximale. Mesurez les performances dans le navigateur réel si cela est possible. Ne revendiquez pas une fréquence d’images que vous n’avez pas mesurée.
+
+Utilisez des pas de temps de simulation fixes, un nombre approprié de sous-étapes et des structures de données efficaces. Évitez les allocations inutiles à chaque image.
+
+Gérez les cas suivants :
+- Plusieurs lancements successifs de la démonstration.
+- Une réinitialisation pendant la simulation.
+- Un changement de résolution pendant une interaction.
+- Le relâchement du pointeur en dehors du canvas.
+- Le redimensionnement de la fenêtre.
+- Le nettoyage des géométries remplacées et des gestionnaires d’événements.
+
+Si les performances posent problème, optimisez avant de réduire la qualité visuelle. Ne réduisez pas silencieusement la résolution de maillage demandée.
+
+PRIORITIES
+
+1. Une simulation physique fonctionnelle du tissu et un contact convaincant avec la sphère.
+2. Un tissu et un éclairage beaux et lisibles.
+3. Une démonstration synchronisée fiable de 24 secondes.
+4. Des performances fluides.
+5. Des commandes minimales et fonctionnelles.
+
+Gardez un périmètre ciblé. Ne consacrez pas de temps à créer une interface sans rapport ou des scènes supplémentaires.
+
+VALIDATION
+
+Avant de terminer :
+- Exécutez l’application.
+- Vérifiez chaque nombre de mailles.
+- Exécutez la démonstration complète.
+- Examinez les collisions à basse résolution ainsi que les plis à haute résolution.
+- Testez la réinitialisation, la relecture, le mode filaire et le déplacement.
+- Vérifiez la composition d’enregistrement au format 16:9.
+- Examinez les erreurs du navigateur si les outils du navigateur sont disponibles.
+- Corrigez les problèmes observés.
+
+Si vous ne pouvez pas inspecter visuellement le navigateur, indiquez-le clairement au lieu de prétendre avoir effectué une vérification visuelle.
+
+Terminez par un court résumé :
+- Comment lancer l’application.
+- Comment démarrer la démonstration et le mode d’enregistrement.
+- Ce que vous avez testé.
+- Les éventuelles limites restantes.
+
+Livrez l’application fonctionnelle, et non un simple plan d’implémentation.
+
+Inspiré par @noclipepe
+
+Utilisez l’API Haiku 5.5 dans votre agent :
+
+https://t.co/BmU7fO6uOJ
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/interactive-cloth-simulation-chrome-sphere) · [Publication originale](https://x.com/EvoLinkAi/status/2108912941328154844) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D : Défense de chars sans fin
@@ -3624,7 +3812,7 @@ Livrez le code source, le lockfile, les commandes npm de développement/build et
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 332 exemples sur le site officiel →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 334 exemples sur le site officiel →</a></strong></p>
 <p><sub>Pour préserver la fluidité du rendu du README sur GitHub, seuls les 100 exemples les plus récents sont affichés ici.</sub></p>
 <br>
 </td></tr>

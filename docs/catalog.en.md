@@ -29,7 +29,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**332 examples · 14 languages · 12 examples with source code**
+**334 examples · 14 languages · 12 examples with source code**
 
 ## Featured projects
 
@@ -52,8 +52,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 <summary>Browse examples</summary>
 
 - [Isometric fantasy graphics demo](#2100271998618177864) · GitHub
-- [Interactive volcanic island with fleeing boats](#2099643231659012553)
-- [Interactive 3D organism nervous-system panel](#2099719427990134984)
 - [3D Apple-style heart and smiling emoji](#2099750376530657300)
 - [Reachable procedural space exploration game](#2099785223827259515)
 - [Create an Animated 3D Environment and Game Character from Reference Images](#2099850719839109597)
@@ -144,6 +142,8 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Interactive Honey Keyboard](#2108501256067285443)
 - [Interactive 3D gummy dice experience](#2108505251036774875)
 - [Interactive Floating Neon Island](#2108574047948656981)
+- [Castle Jelly interactive WebGPU diorama](#2108649845405929924)
+- [Interactive 3D cloth simulation on a chrome sphere](#2108912938656407888)
 - [Battle City 3D: Endless Tank Defense](#battle-city-3d)
 - [Crazy Tanks — 3D Island Artillery](#crazy-tanks-3d-island-artillery)
 - [Jelly Villa](#jelly-villa)
@@ -171,46 +171,6 @@ Build me a graphics demo: isometric camera, voxel-ish art style with realistic s
 ```
 
 [View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100271998618177864) · [Original post](https://github.com/achimala/dream-loop) · [Source code](https://github.com/achimala/dream-loop) · [Back to examples](#all-prompts)
-
----
-
-<a id="2099643231659012553"></a>
-
-### Interactive volcanic island with fleeing boats
-
-[Wësche](https://x.com/WescheNex1q) · 2026-09-14
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2099643231659012553"><img src="../assets/previews/9a1b9694885d457f5a963b113de92ef80461d9c977d88ed6544e091eabf13eea.jpg" width="840" loading="lazy" alt="Interactive volcanic island with fleeing boats"></a>
-
-A reusable request for an interactive 3D volcanic island featuring flowing lava and boats that flee during the eruption. The root author says they sent this request to several models, including Astra-6, as part of a comparison.
-
-**Prompt**
-
-```text
-build an interactive volcanic island with flowing lava and boats that flee.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2099643231659012553) · [Original post](https://x.com/WescheNex1q/status/2099643231659012553) · [Back to examples](#all-prompts)
-
----
-
-<a id="2099719427990134984"></a>
-
-### Interactive 3D organism nervous-system panel
-
-[AiMind](https://x.com/AIMind_Ai) · 2026-09-15
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2099719427990134984"><img src="../assets/previews/12a118ec5a6078181cd7528a0f114e8c5c8c1c3bb45f309cf4c3162886d0b347.jpg" width="840" loading="lazy" alt="Interactive 3D organism nervous-system panel"></a>
-
-AiMind shares this as a “Steal the prompt” recommendation for an interactive panel with clickable nervous-system regions and a procedurally rigged 3D organism. The post presents a fly demonstration, but the quoted prompt uses an \[organism\] placeholder and is not explicitly established as the exact input used for that clip.
-
-**Prompt**
-
-```text
-Interactive panel. Left: schematic nervous system of [organism], clickable regions. Right: procedurally rigged 3D [organism]. Clicking a region triggers a 2.5 second motor response. Dark UI, telemetry for speed and heading.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2099719427990134984) · [Original post](https://x.com/AIMind_Ai/status/2099719427990134984) · [Back to examples](#all-prompts)
 
 ---
 
@@ -3210,6 +3170,234 @@ Build the complete, runnable project rather than just explaining how to create i
 
 ---
 
+<a id="2108649845405929924"></a>
+
+### Castle Jelly interactive WebGPU diorama
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-09
+
+<a href="https://www.tripo3d.ai/3d-prompts/castle-jelly-interactive-webgpu-diorama"><img src="../assets/previews/45f0f466b9571f31fc1af32aac463458c2b6038abc7e828a5fc2e20652a38ce2.jpg" width="840" loading="lazy" alt="Castle Jelly interactive WebGPU diorama"></a>
+
+The author supplied this prompt in a verified comment for the same-prompt GPT-6 Astra and Claude comparison. It requests an interactive WebGPU jelly-lake diorama with a fairy-tale cliff castle, layered candy-rock terrain, waterfall physics, a sailing galleon, and touchable controls for fireworks, bridge movement, coins, waves, and time of day.
+
+**Prompt**
+
+```text
+Build a single-file WebGPU "material study" page called "Castle Jelly", in the style of my jelly diorama series (Pirate Jelly / Island Jelly): a square block of wobbly jelly lake on a table in a paper studio, cut faces showing candy strata, italic serif masthead "Castle / Jelly.", glass control panel on the right, "How to play" line at the bottom-left, UI in English, mobile bottom-sheet layout.
+The diorama: a fairy-tale castle on a cliff. The back-left of the block is a plateau whose front is a sheer wall of candy-striped rock (layer-cake strata that match the block's cut faces, a talus under the lake), meshed from an SDF with surface nets, mossy where it faces up. On the lawn: a cream castle with round towers, glossy pink/lilac/blue cone roofs, gold finials, fluttering pennants, crenellated walls, a great hall, arched windows (dark glass by day, lamplight at night), a gatehouse with a drawbridge, a brazier by the gate, gummy pines, flowering bushes, reeds. A river wells up from a spring, runs past the gate under the drawbridge and pours off the lip as a waterfall that arcs down into the jelly lake — and keeps going inside the jelly: a fraying plume, bubbles driven down then rising, bright threads of current streaming along the lake floor. The falls pound the surface (shallow-water waves, foam, spray, mist). A little royal galleon (blue hull, white sails, crown standard) sails laps of the lake.
+Interactions: Fireworks (rockets off the towers, coloured bursts that light the castle and the lake; automatic at night), Lower/Raise bridge, Royal salute (ship fires, splash), Wishing coins (into the pool under the falls); tap a tower / the gate / the brazier / the ship, drag the water to make waves, tip the block, throw coins and balls, bend the pines. Sliders: Firmness, Waterfall (flow), Wave damping, Time of day (noon → sunset → night with stars). Flavours: Glacier, Rose, Lilac. Shadows, caustics, refraction through the jelly, fixed-step physics.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/castle-jelly-interactive-webgpu-diorama) · [Original post](https://x.com/vib3coded/status/2108649989098594707) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2108912938656407888"></a>
+
+### Interactive 3D cloth simulation on a chrome sphere
+
+[EvoLink.ai](https://x.com/EvoLinkAi) · 2026-10-10
+
+<a href="https://www.tripo3d.ai/3d-prompts/interactive-cloth-simulation-chrome-sphere"><img src="../assets/previews/9ad6950acc582fada95a4d2b581046313eebc4abdc1ca173922e7e6900310540.jpg" width="840" loading="lazy" alt="Interactive 3D cloth simulation on a chrome sphere"></a>
+
+A prompt published by EvoLink.ai in an author comment for a browser-based interactive 3D cloth simulation. It specifies a coral-red satin cloth physically falling and draping over a chrome sphere, with six honestly labeled mesh densities from 4 to 4,096 quads, a deterministic 24-second showcase, and direct cloth-dragging controls.
+
+**Prompt**
+
+```text
+Build a polished, interactive 3D cloth simulation for a visual comparison between AI coding models.
+
+The central visual: a square piece of fabric drops onto a stationary chrome sphere. We repeat the exact same drop with progressively denser cloth meshes, showing how the deformation changes.
+
+Create a working browser application using Three.js and TypeScript/JavaScript. Implement and run it in the current workspace. Complete the project autonomously, test it, and fix problems before finishing.
+
+VISUAL DIRECTION
+
+Aim for a premium, oddly satisfying 3D animation: one large, clearly visible subject, beautiful fabric, convincing contact, and restrained studio lighting.
+
+Use a 16:9 composition. The finished recording will be stacked with two other recordings inside a vertical 9:16 video, so everything must remain legible when reduced to one-third of a phone screen.
+
+Scene:
+- A stationary, polished chrome sphere above a matte dark charcoal floor.
+- A square of rich coral-red satin fabric suspended horizontally above it.
+- Fabric side length approximately 2.6 times the sphere diameter, so the edges can drape around the sphere.
+- A large soft key light, gentle fill, and a subtle rim light.
+- Broad studio reflections that make the chrome readable.
+- Soft contact shadows and visible folds.
+- A restrained dark background, with strong separation between fabric, sphere, and floor.
+
+The fabric should look like woven satin, not rubber, liquid, foil, or plastic. Use subtle texture and restrained sheen. Render both sides correctly.
+
+Choose a fixed, slightly elevated three-quarter camera angle that reveals the sphere’s top and the hanging fabric edges. Keep the subject large while leaving enough room for the initial drop.
+
+No camera orbit during the automatic showcase. No decorative dashboard, branding, model names, introductory splash screen, or unnecessary text.
+
+REAL CLOTH SIMULATION
+
+Use a real-time physical simulation. A position-based or extended position-based dynamics solver is appropriate, but choose an implementation you can make reliable and performant.
+
+The motion must emerge from gravity, constraints, and collision handling.
+
+Do not:
+- Replace the cloth with a prerecorded video.
+- Use a shader wave or a canned vertex animation as a substitute for simulation.
+- Animate vertices toward a precomputed draped shape.
+- Display arbitrary face counts unrelated to the mesh.
+- Swap in a high-resolution cloth while displaying a low-resolution label.
+
+Implement:
+- Gravity.
+- Structural constraints that resist stretching.
+- Shear resistance.
+- Bending resistance.
+- Damping.
+- Stable sphere and floor collisions.
+- A small collision margin that prevents visible intersections without making the cloth float.
+- Consistent simulation timing independent of rendering frame rate.
+
+The cloth is completely free when released: do not pin its corners.
+
+Use the same physical dimensions and target material properties at every mesh density. Account for mesh spacing when setting masses and constraints so changing the mesh density does not arbitrarily change total mass or fabric stiffness.
+
+Use the same deterministic initial setup at every level. A small fixed offset or rotation relative to the sphere is acceptable to create attractive asymmetric folds, but keep it identical across all runs.
+
+Prioritize preventing the cloth from cutting through the sphere. At coarse mesh resolutions, checking only vertices is insufficient: an edge or triangle can intersect the sphere while its vertices remain outside it. Handle this as well as practical, and do not hide failures with camera placement.
+
+Allow coarse meshes to look coarse. Higher resolutions should reveal more detailed deformation naturally, without fabricated “improvement.”
+
+MESH RESOLUTIONS AND HONEST LABELING
+
+Use these square simulation grids:
+
+2 × 2 cells = 4 quads
+4 × 4 cells = 16 quads
+8 × 8 cells = 64 quads
+16 × 16 cells = 256 quads
+32 × 32 cells = 1,024 quads
+64 × 64 cells = 4,096 quads
+
+Each quad is rendered as two triangles.
+
+The large recording label should read:
+“4 FACES”
+“16 FACES”
+“64 FACES”
+“256 FACES”
+“1,024 FACES”
+“4,096 FACES”
+
+Include a small, consistent subtitle:
+“quad grid”
+
+In the expanded controls, show the exact quad, triangle, and vertex counts. Derive them from the active mesh.
+
+Do not add hidden subdivision that misrepresents the displayed resolution. Shading may be smooth, but the cloth’s visible geometry must match the selected grid.
+
+AUTOMATIC SHOWCASE — EXACTLY 24 SECONDS
+
+Add a “Showcase” button that starts a deterministic sequence.
+
+Six stages, exactly four seconds per stage:
+
+1. 4 faces
+2. 16 faces
+3. 64 faces
+4. 256 faces
+5. 1,024 faces
+6. 4,096 faces
+
+For each stage:
+- First 0.25 seconds: reset the cloth to the identical suspended starting position and display the updated count.
+- Next 3.75 seconds: release it and simulate the fall and draping.
+- Immediately reset into the next stage without a loading screen or a long transition.
+
+Pre-create or prepare the required resources so switching resolutions does not cause a noticeable pause.
+
+Keep camera, lighting, fabric color, object positions, and simulation time scale identical throughout.
+
+Do not slow down the simulation at higher resolutions to preserve frame rate. Optimize the solver instead.
+
+At the end, retain the last scene and allow interaction. Provide a one-click replay.
+
+INTERACTION
+
+Outside the automatic showcase, support:
+- Selecting any mesh resolution.
+- Dropping/resetting the cloth.
+- Pausing/resuming.
+- Toggling a subtle wireframe overlay.
+- Grabbing and dragging the fabric with the mouse or touch.
+- Releasing the fabric so normal simulation resumes.
+
+Dragging should temporarily constrain the grabbed region, not teleport the whole cloth. Limit dragging to keep the simulation stable.
+
+Switching resolution must cleanly replace the cloth and reset its state.
+
+Provide a recording mode that hides controls and the cursor when inactive, leaving only the scene and the compact face-count label. The label must stay in exactly the same position for all stages.
+
+Make the main scene responsive, with a reliable 16:9 capture layout. Avoid scrollbars and clipped content.
+
+ENGINEERING AND PERFORMANCE
+
+Use the tools and dependencies available in the workspace. Procedural materials and environment lighting are welcome; avoid dependence on fragile external asset URLs.
+
+Aim for smooth desktop playback at 60 fps, with a minimum target of 30 fps at the highest resolution. Measure performance in the actual browser if available. Do not claim a frame rate you have not measured.
+
+Use fixed simulation time steps, appropriate substeps, and efficient data structures. Avoid unnecessary per-frame allocation.
+
+Handle:
+- Repeated showcase starts.
+- Reset during a simulation.
+- Switching resolution during interaction.
+- Releasing the pointer outside the canvas.
+- Window resizing.
+- Cleaning up replaced geometries and event handlers.
+
+If performance becomes a problem, optimize before reducing visual quality. Do not silently reduce the requested mesh resolution.
+
+PRIORITIES
+
+1. Working cloth physics and convincing contact with the sphere.
+2. Beautiful, readable fabric and lighting.
+3. Reliable synchronized 24-second showcase.
+4. Smooth performance.
+5. Minimal, functional controls.
+
+Keep the scope focused. Do not spend time building unrelated UI or extra scenes.
+
+VALIDATION
+
+Before finishing:
+- Run the application.
+- Verify every mesh count.
+- Run the complete showcase.
+- Inspect low-resolution collisions as well as high-resolution folds.
+- Test reset, replay, wireframe, and dragging.
+- Check the 16:9 recording composition.
+- Inspect browser errors if browser tools are available.
+- Fix the problems you observe.
+
+If you cannot visually inspect the browser, state that clearly rather than claiming visual verification.
+
+Finish with a short summary:
+- How to launch the app.
+- How to start the showcase and recording mode.
+- What you tested.
+- Any remaining limitations.
+
+Deliver the working application, not just an implementation plan.
+
+Inspired by @noclipepe
+
+Use the Haiku 5.5 API in your agent：
+
+https://t.co/BmU7fO6uOJ
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/interactive-cloth-simulation-chrome-sphere) · [Original post](https://x.com/EvoLinkAi/status/2108912941328154844) · [Back to examples](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Endless Tank Defense
@@ -3665,7 +3853,7 @@ Deliver source, lockfile, npm development/build commands and static output. Veri
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 332 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 334 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>
