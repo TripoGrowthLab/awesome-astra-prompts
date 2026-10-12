@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "model": "gpt-6-astra",
   "count": 100,
-  "totalCount": 334,
+  "totalCount": 344,
   "sourceCodeCount": 12,
   "limit": 100,
   "locales": [
@@ -22,14 +22,6 @@
     "vi"
   ],
   "promptIds": [
-    "2100271998618177864",
-    "2099750376530657300",
-    "2099785223827259515",
-    "2099850719839109597",
-    "2100139076816916977",
-    "2100193512373592313",
-    "2100222426705453318",
-    "2100233407108137349",
     "2100350159540596760",
     "2100519026720231698",
     "2100526922770026874",
@@ -114,14 +106,22 @@
     "2108505251036774875",
     "2108574047948656981",
     "2108649845405929924",
+    "2108711089827647965",
     "2108912938656407888",
+    "2108976915449012592",
+    "2108981890493358527",
+    "2109015574177075610",
+    "2109060292667982172",
+    "2109153428635267345",
+    "2109268147068862675",
+    "2109288662319919127",
     "battle-city-3d",
     "crazy-tanks-3d-island-artillery",
+    "golden-miner",
     "jelly-villa",
     "odd-arms",
-    "titanic-the-last-light",
-    "akari-nagoya-rooftop-flame-relay",
-    "cyclops-island-threejs-game"
+    "red-light-green-light",
+    "titanic-the-last-light"
   ],
   "featuredPromptIds": [
     "2096467585785286808",
@@ -130,14 +130,6 @@
     "cyclops-island-threejs-game"
   ],
   "imagePromptIds": [
-    "2100271998618177864",
-    "2099750376530657300",
-    "2099785223827259515",
-    "2099850719839109597",
-    "2100139076816916977",
-    "2100193512373592313",
-    "2100222426705453318",
-    "2100233407108137349",
     "2100350159540596760",
     "2100519026720231698",
     "2100526922770026874",
@@ -222,107 +214,117 @@
     "2108505251036774875",
     "2108574047948656981",
     "2108649845405929924",
+    "2108711089827647965",
     "2108912938656407888",
+    "2108976915449012592",
+    "2108981890493358527",
+    "2109015574177075610",
+    "2109060292667982172",
+    "2109153428635267345",
+    "2109268147068862675",
+    "2109288662319919127",
     "battle-city-3d",
     "crazy-tanks-3d-island-artillery",
+    "golden-miner",
     "jelly-villa",
     "odd-arms",
+    "red-light-green-light",
     "titanic-the-last-light",
-    "akari-nagoya-rooftop-flame-relay",
-    "cyclops-island-threejs-game",
     "2096467585785286808",
-    "2081024333120733188"
+    "2081024333120733188",
+    "akari-nagoya-rooftop-flame-relay",
+    "cyclops-island-threejs-game"
   ],
   "files": [
     {
       "path": "assets/manifest.json",
-      "sha256": "4c2dfc25b005f787e86c09477cedcede4628eab8efbb2ca244ba9e2fe902f15e",
-      "bytes": 59594
+      "sha256": "19e56612fc63c3f4e8e9c5eab95eca242bae39294605c16ccce06d3e04951819",
+      "bytes": 65060
     },
     {
       "path": "docs/catalog.de.md",
-      "sha256": "863fcfc5ff3fcc458c7466d55bd9e741bfb8c92e2877a73988c1406f7b5b0592",
-      "bytes": 391554
+      "sha256": "f628f7e22a0aeb67e0a9135a5fdd328e855d4c21156aefdeba1efcb1323181ba",
+      "bytes": 382284
     },
     {
       "path": "docs/catalog.en.md",
-      "sha256": "81dbc2e90990a8e9fb695cb6235369281074375af8049b20cfa3c9e9f8d4e74f",
-      "bytes": 328923
+      "sha256": "5aedf3380112ba53b10ec9679f09ca240712b97b511cde01f5a0e7cdb926cca5",
+      "bytes": 320288
     },
     {
       "path": "docs/catalog.es.md",
-      "sha256": "c574c790b0a3e53e836ef0b7169437ff03b8f5555916b120f04eb2b81b7a537a",
-      "bytes": 396077
+      "sha256": "f41c25e0c4377f525bfb25e84d50f44101999e4ce84201d63ac526844bfa74a2",
+      "bytes": 386764
     },
     {
       "path": "docs/catalog.fr.md",
-      "sha256": "beffd298906a46a960e6469fc797a52f8d9e112669febefdc719fc50f467beb9",
-      "bytes": 413838
+      "sha256": "1dac32108be46bb9d65df65998e44eaa818f489d9049854d40ff386865a390dd",
+      "bytes": 404441
     },
     {
       "path": "docs/catalog.it.md",
-      "sha256": "441780cf1a3da31e15dd242622c99bf8a7c44723db5625886ba2f6d8e36e2a27",
-      "bytes": 385339
+      "sha256": "3f9cf745df7e2724ab272c155758e0f45af4e3f4fa7b76713da3c16395f71a2d",
+      "bytes": 377187
     },
     {
       "path": "docs/catalog.ja.md",
-      "sha256": "df46ee2f815ae350ca1be1ae423b9a514950df5e67bc9fa7953a3b3ea5a4d5a9",
-      "bytes": 437859
+      "sha256": "b8a65acd9206613dc9813fc377eab307db1cf1a512d1288d51b5ac3caeac85f8",
+      "bytes": 432732
     },
     {
       "path": "docs/catalog.ko.md",
-      "sha256": "98538f195436ba6c3eb74ccaec21bbcbb79516c2a0cff16746bf553a0913a7bd",
-      "bytes": 411808
+      "sha256": "405fb2ef73fb991ca9d79314cb96bf374a3cff62521109b0e15a5829a8614523",
+      "bytes": 403683
     },
     {
       "path": "docs/catalog.pt.md",
-      "sha256": "448b688be19f336a0138be68441cffa7c58296b0380a99c083cd11ff5342c22b",
-      "bytes": 382525
+      "sha256": "c2561e0ac04e7836a62ba39e10e4e15072262e6b80bf9519f0dcfc3ac937a76c",
+      "bytes": 373983
     },
     {
       "path": "docs/catalog.ru.md",
-      "sha256": "ddfe36984a8d52951dba25c0ef0d9a9f30e0612e42965e4ef1247bd46c0244f3",
-      "bytes": 619239
+      "sha256": "ac7a48c53d796013d9eb2deb8f8629f667977ba4fed374dfc448676b3e2c6cb2",
+      "bytes": 604618
     },
     {
       "path": "docs/catalog.tr.md",
-      "sha256": "4cd5d2c02b1344c6eb9800f3e669f0801b3971c3714c63b789530689b022c76d",
-      "bytes": 389981
+      "sha256": "73095267a1dca31fe9ebcd218a1c3eeae7a42390ea59ea9ed1a08e966f217f2d",
+      "bytes": 381259
     },
     {
       "path": "docs/catalog.uk.md",
-      "sha256": "70229814655d4b9d7fa0cd43e63a6309c8550a4a52b7e149ba99c6eb511f6b03",
-      "bytes": 599512
+      "sha256": "39393cf01942a000403b72500c590561d791576ef7304d502bba4ed6ca9a45f6",
+      "bytes": 585425
     },
     {
       "path": "docs/catalog.vi.md",
-      "sha256": "0386b11d5836aafa024e5037cd37dcea1e132d37fa668fe68781f8060d3830eb",
-      "bytes": 428259
+      "sha256": "307ae63168720bca9c026f815aacabf7137a8dadf410de639552087388009000",
+      "bytes": 419482
     },
     {
       "path": "docs/catalog.zh-Hant.md",
-      "sha256": "d872633767fc5ff78c2e49a5f35d4f4d65bbbd61460c4d1fab859456837378e0",
-      "bytes": 326007
+      "sha256": "88260eb48acfc222cb341b2c299716f353b243cb545cec5b5a19515021511e85",
+      "bytes": 322620
     },
     {
       "path": "docs/catalog.zh.md",
-      "sha256": "7a876415459213c518bb1f07b368f2f5b709557270fe6ab49d5f83c842337363",
-      "bytes": 325020
+      "sha256": "f5f69f7c997f744fc0cc5c0ca26778fc14e23c242d28146dd5b51c48d949d07a",
+      "bytes": 322957
     },
     {
       "path": "docs/with-code.md",
-      "sha256": "547f1b475a7f2025a646fc8d4441d9b480e132ef9163d235ba983158ba5f10f1",
-      "bytes": 397
+      "sha256": "dceecd5d28ffea7b7d5ad45c497c6630806fd39ae78c405cff0a639fadb5fd16",
+      "bytes": 218
     },
     {
       "path": "README.md",
-      "sha256": "201f98769cc4443c6110c0c4ff3ddeebe4ca2e61246651857be4e6eb9644eb90",
-      "bytes": 328485
+      "sha256": "62660fb8ccca1b332a1c2043941ae5b3bf8f42005474fb98d8885617ae381c16",
+      "bytes": 319817
     },
     {
       "path": "README.zh-CN.md",
-      "sha256": "3f5b77fdca186b96f7360debf9097f662c73cb1bb276e99acdcf3c88c5d8dccb",
-      "bytes": 324582
+      "sha256": "787e8836e70d4612d80ddb9f7f5ac83a261d8b9455e4c3185c66d15a4933f286",
+      "bytes": 322486
     }
   ]
 }

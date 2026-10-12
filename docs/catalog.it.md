@@ -28,7 +28,7 @@
 **Un punto di partenza per il tuo prossimo gioco, scena o mondo interattivo.**
 
 
-**334 · Prompt Astra più recenti**
+**344 · Prompt Astra più recenti**
 
 ## Progetti in evidenza
 
@@ -38,8 +38,8 @@
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/it/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188"><img src="../assets/featured/2081024333120733188.webp" width="420" loading="lazy" alt="Jelly Jungle: Platform 3D"></a><br><strong><a href="https://www.tripo3d.ai/it/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188">Jelly Jungle: Platform 3D</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="https://www.tripo3d.ai/it/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188">Prompt →</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/it/3d-prompts/akari-nagoya-rooftop-flame-relay"><img src="../assets/featured/akari-nagoya-rooftop-flame-relay.webp" width="420" loading="lazy" alt="AKARI: Staffetta della fiamma sui tetti di Nagoya"></a><br><strong><a href="#akari-nagoya-rooftop-flame-relay">AKARI: Staffetta della fiamma sui tetti di Nagoya</a></strong><br><sub><a href="https://growthengineer.space/">Jared</a></sub><br><a href="#akari-nagoya-rooftop-flame-relay">Prompt →</a></td>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/it/3d-prompts/cyclops-island-threejs-game"><img src="../assets/featured/cyclops-island-threejs-game.webp" width="420" loading="lazy" alt="L’isola del Ciclope"></a><br><strong><a href="#cyclops-island-threejs-game">L’isola del Ciclope</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="#cyclops-island-threejs-game">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/it/3d-prompts/akari-nagoya-rooftop-flame-relay"><img src="../assets/featured/akari-nagoya-rooftop-flame-relay.webp" width="420" loading="lazy" alt="AKARI: Staffetta della fiamma sui tetti di Nagoya"></a><br><strong><a href="https://www.tripo3d.ai/it/3d-prompts/akari-nagoya-rooftop-flame-relay">AKARI: Staffetta della fiamma sui tetti di Nagoya</a></strong><br><sub><a href="https://growthengineer.space/">Jared</a></sub><br><a href="https://www.tripo3d.ai/it/3d-prompts/akari-nagoya-rooftop-flame-relay">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/it/3d-prompts/cyclops-island-threejs-game"><img src="../assets/featured/cyclops-island-threejs-game.webp" width="420" loading="lazy" alt="L’isola del Ciclope"></a><br><strong><a href="https://www.tripo3d.ai/it/3d-prompts/cyclops-island-threejs-game">L’isola del Ciclope</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="https://www.tripo3d.ai/it/3d-prompts/cyclops-island-threejs-game">Prompt →</a></td>
 </tr>
 </table>
 
@@ -50,14 +50,6 @@
 <details>
 <summary>Esplora gli esempi</summary>
 
-- [Demo di grafica fantasy isometrica](#2100271998618177864) · GitHub
-- [Cuore 3D in stile Apple ed emoji sorridente](#2099750376530657300)
-- [Gioco di esplorazione spaziale procedurale interamente esplorabile](#2099785223827259515)
-- [Creare uno spazio 3D animabile e un personaggio di gioco a partire da immagini di riferimento](#2099850719839109597)
-- [Scena 3D interattiva di una stanza con arredi articolati](#2100139076816916977)
-- [Sviluppo e riproduzione grafica di Splatoon per PC](#2100193512373592313)
-- [Tour interattivo dell’appartamento con opzioni per le piastrelle](#2100222426705453318)
-- [Cortometraggio di combattimento soprannaturale in CGI AAA ambientato in una stazione della metropolitana](#2100233407108137349)
 - [Scena interattiva voxel con cavaliere e falò](#2100350159540596760)
 - [Aggiungi una catena di manutenzione al corrimano](#2100519026720231698)
 - [Creare un gioco di corse 3D](#2100526922770026874)
@@ -142,229 +134,24 @@
 - [Esperienza interattiva con dadi gommosi 3D](#2108505251036774875)
 - [Isola neon fluttuante interattiva](#2108574047948656981)
 - [Diorama WebGPU interattivo Castle Jelly](#2108649845405929924)
+- [Photoshop per i Gaussian splats](#2108711089827647965)
 - [Simulazione interattiva 3D di tessuto su una sfera cromata](#2108912938656407888)
+- [Personaggio di Mario in Three.js](#2108976915449012592)
+- [Scena 3D interattiva e realistica di un’auto in autostrada](#2108981890493358527)
+- [Ecosistema costiero interattivo 3D Tidepool Jelly](#2109015574177075610)
+- [Visual 3D psichedelica con Three.js e WebGPU](#2109060292667982172)
+- [Gioco sandbox di guida open world low-poly](#2109153428635267345)
+- [Modello di goblin in Blender con animazione di camminata](#2109268147068862675)
+- [Studio dei materiali WebGPU: pinguino di peluche](#2109288662319919127)
 - [Battle City 3D: Difesa infinita con i carri armati](#battle-city-3d)
 - [Crazy Tanks — Artiglieria 3D sulle isole](#crazy-tanks-3d-island-artillery)
+- [Golden Miner: gioco minerario 3D a 24 livelli](#golden-miner)
 - [Jelly Villa](#jelly-villa)
 - [ODD ARMS — Gioco survival con armi stravaganti](#odd-arms)
+- [Luce rossa, luce verde: gioco di sopravvivenza 3D](#red-light-green-light)
 - [TITANIC — L’ultima luce](#titanic-the-last-light)
-- [AKARI: Staffetta della fiamma sui tetti di Nagoya](#akari-nagoya-rooftop-flame-relay)
-- [L’isola del Ciclope](#cyclops-island-threejs-game)
 
 </details>
-
-<a id="2100271998618177864"></a>
-
-### Demo di grafica fantasy isometrica
-
-[Anshu Chimala](https://x.com/anshuc) · 2026-09-16
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100271998618177864"><img src="../assets/previews/851c2340f464e95b33eb0dd10894129a620b694b37838698fe011988fadf0d3e.jpg" width="840" loading="lazy" alt="Demo di grafica fantasy isometrica"></a>
-
-Una scena 3D fantasy interattiva eseguita nel browser, con telecamera isometrica, direzione artistica ispirata ai voxel, pavimenti bagnati e riflettenti e un personaggio controllabile. Il repository Dream Loop collegato la presenta come prompt di esempio e dichiara che è stato testato con GPT-6 Astra in Codex. Non è previsto alcun ciclo di gameplay.
-
-**Prompt**
-
-```text
-Realizza una demo grafica: telecamera isometrica, stile artistico simile ai voxel con shading realistico e pavimenti bagnati e riflettenti, e un personaggio inserito in una scena interessante. Ambientazione fantasy (pensa a Elden Ring e Diablo). Usa Three.js nel browser, a più di 60 fps. Non scaricare risorse. Limite di tempo: 1 ora. Comandi: fai clic per spostare il personaggio; la telecamera lo segue con inerzia. Trascina per ruotare la telecamera; usa la rotellina per aumentare o ridurre lo zoom. Per ora niente gameplay. Il mondo deve sembrare vivo: movimento, animazioni e comportamenti ambientali discreti. L'area intorno al giocatore deve sembrare ampia, ma consenti gli spostamenti solo in uno spazio limitato. Non serve chiedermi conferma sullo stile artistico né farmi domande: procedi e basta!
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100271998618177864) · [Post originale](https://github.com/achimala/dream-loop) · [Codice sorgente](https://github.com/achimala/dream-loop) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="2099750376530657300"></a>
-
-### Cuore 3D in stile Apple ed emoji sorridente
-
-[Sharon Riley](https://x.com/Just_sharon7) · 2026-09-15
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099750376530657300"><img src="../assets/previews/28a462ad372dbb45b012ec3ff118fd94ca6ea7ae6ea0a26320ab4bee839dfd63.jpg" width="840" loading="lazy" alt="Cuore 3D in stile Apple ed emoji sorridente"></a>
-
-L’autore riferisce di aver digitato questo prompt composto solo da testo per generare un’immagine e poi un modello 3D .glb ruotabile. Non è stata utilizzata alcuna immagine di riferimento.
-
-**Prompt**
-
-```text
-Emoji 3D a forma di cuore in stile Apple ed emoji sorridente
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099750376530657300) · [Post originale](https://x.com/Just_sharon7/status/2099751278234767673) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="2099785223827259515"></a>
-
-### Gioco di esplorazione spaziale procedurale interamente esplorabile
-
-[developers.openai.com](https://developers.openai.com/) · 2026-09-15
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099785223827259515"><img src="../assets/previews/4009749d3c10e1e7ab1c4246f910864404e0f5622f7580ebd3d9141386697db5.jpg" width="840" loading="lazy" alt="Gioco di esplorazione spaziale procedurale interamente esplorabile"></a>
-
-Il brief iniziale di uno sviluppatore di OpenAI per Void Explorer, un gioco 3D di esplorazione spaziale nel browser. Richiede un viaggio continuo dallo spazio, attraverso l’atmosfera di un pianeta, fino al suolo, con distanze in scala reale, pianeti delle dimensioni della Terra, terreno procedurale e rendering a chunk.
-
-**Prompt**
-
-```text
-Tutto ciò che posso vedere deve essere raggiungibile. Mantieni le distanze in scala reale, quindi rendi gli spostamenti pratici attraverso scala e velocità. Voglio poter volare dallo spazio, entrare nell’atmosfera di un pianeta e scendere fino al suolo. I pianeti possono avere dimensioni pari a quelle della Terra, quindi serviranno terreno procedurale e un renderer a chunk.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099785223827259515) · [Post originale](https://developers.openai.com/blog/how-to-build-games-with-astra) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="2099850719839109597"></a>
-
-### Creare uno spazio 3D animabile e un personaggio di gioco a partire da immagini di riferimento
-
-[妖精アーヤ](https://x.com/aiehon_aya) · 2026-09-15
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099850719839109597"><img src="../assets/previews/21904f58bcbe320a86b7881bbcbba52e5e94243b88f3860ec995769456b5f505.jpg" width="840" loading="lazy" alt="Creare uno spazio 3D animabile e un personaggio di gioco a partire da immagini di riferimento"></a>
-
-Un prompt guidato per trasformare in 3D una casa e un personaggio a partire dalle immagini di riferimento dell’ambientazione e dalle immagini canoniche del personaggio fornite dall’autore, quindi perfezionarli in Blender e aggiungere automaticamente rig e animazioni. Non specifica obiettivi o regole di gioco: il risultato principale è uno spazio 3D con un personaggio animabile.
-
-**Prompt**
-
-```text
-【Prima di iniziare】
-・Immagini di riferimento dell’ambientazione da creare (esterni, stanze e così via)
-・Immagini canoniche del personaggio (come viste da tre angolazioni)
-　※Senza immagini non è possibile ricrearlo. Allegale, mi raccomando
-
-【Prompt】
-Progetterò con qualità professionale uno spazio 3D realmente animabile e un personaggio di gioco, basandomi sulle immagini allegate per ricreare la mia ambientazione e il mio personaggio.
-
-① Esaminare le immagini allegate e verificare forme, colori e dettagli di design della casa e del personaggio
-　↓
-② Generare un modello 3D dalle immagini con Tripo (tre immagini a figura intera — fronte, retro e profilo — tutte con lo stesso rapporto d’aspetto)
-　↓
-③ Importare il modello in Blender e regolare la disposizione e le dimensioni dei componenti
-　↓
-④ Configurare il rig automatico e aggiungere movimenti coerenti con la personalità del personaggio, come camminare o oscillare
-　↓
-⑤ Se si presenta una scelta da valutare (per esempio usare asset a pagamento), chiedermi conferma prima di procedere
-　↓
-⑥ Documentare il lavoro svolto, i problemi riscontrati e la posizione dei materiali a un livello di dettaglio che permetta a un’altra AI di riprodurlo
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099850719839109597) · [Post originale](https://x.com/aiehon_aya/status/2099850721646784894) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="2100139076816916977"></a>
-
-### Scena 3D interattiva di una stanza con arredi articolati
-
-[Wentao Zhu](https://x.com/walterzhu8) · 2026-09-16
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100139076816916977"><img src="../assets/previews/591aedead77f86efdc2a1a79394718b6c85cb2db7d3d1470dc474aaceb7afc6c.jpg" width="840" loading="lazy" alt="Scena 3D interattiva di una stanza con arredi articolati"></a>
-
-Un test di GPT-6 Astra attribuito da Wentao Zhu allo studente Minchao Jiang. Il prompt richiede una scena 3D interattiva basata su una foto della stanza fornita, con cerniere, ante e cassetti articolati, oltre a movimenti di camera per un video dimostrativo.
-
-**Prompt**
-
-```text
-A partire dalla foto della stanza che ho fornito, usa Blender MCP per creare una scena 3D interattiva e renderizzarla in un video dimostrativo. Includi movimenti degli oggetti tramite parti articolate (cerniere, ante e cassetti) e usa movimenti di camera adeguati per mostrare chiaramente questi effetti.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100139076816916977) · [Post originale](https://x.com/walterzhu8/status/2100139076816916977) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="2100193512373592313"></a>
-
-### Sviluppo e riproduzione grafica di Splatoon per PC
-
-[basio](https://x.com/basio39) · 2026-09-16
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100193512373592313"><img src="../assets/previews/cdd39cb88311df2f7d3d8c5fef6f09b5928eb79e22080c2cae0f51698f5bc0c9.jpg" width="840" loading="lazy" alt="Sviluppo e riproduzione grafica di Splatoon per PC"></a>
-
-Prompt per sviluppare la versione PC di «Splatoon» e riprodurne fedelmente la grafica. L’autore spiega di aver eseguito solo questo prompt con Ultra.
-
-**Prompt**
-
-```text
-/goal Sviluppa la versione PC di Splatoon. Riproduci fedelmente la grafica.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100193512373592313) · [Post originale](https://x.com/basio39/status/2100194321987461503) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="2100222426705453318"></a>
-
-### Tour interattivo dell’appartamento con opzioni per le piastrelle
-
-[Shimecki](https://x.com/scheemunai) · 2026-09-16
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100222426705453318"><img src="../assets/previews/0653f3d309b3aa21c54ae9b90fb1def11f410764b84d7c3bf0493febf985d364.jpg" width="840" loading="lazy" alt="Tour interattivo dell’appartamento con opzioni per le piastrelle"></a>
-
-Prompt dell’autore principale per un modello realistico in HD di un appartamento realizzato in Blender e un’esperienza web interattiva per esplorarlo e scegliere le piastrelle.
-
-**Prompt**
-
-```text
-Voglio che tu realizzi in Blender un modello 3D completamente realistico dell’appartamento, renderizzato in HD, e poi crei un’esperienza web interattiva che mi permetta di muovermi al suo interno e scegliere le piastrelle.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100222426705453318) · [Post originale](https://x.com/scheemunai/status/2100222426705453318) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="2100233407108137349"></a>
-
-### Cortometraggio di combattimento soprannaturale in CGI AAA ambientato in una stazione della metropolitana
-
-[MadMax](https://x.com/MadMax_Series) · 2026-09-16
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100233407108137349"><img src="../assets/previews/5b1433bd865c6ec1ec3d43fd2606e377b00ccf62ea86dd52f18143cd56b9eee4.jpg" width="840" loading="lazy" alt="Cortometraggio di combattimento soprannaturale in CGI AAA ambientato in una stazione della metropolitana"></a>
-
-**Prompt**
-
-```text
-Tutti i personaggi, le comparse e l’ambiente della stazione devono avere un look da CGI di un gioco fantasy AAA di alta qualità, chiaramente scolpito in digitale. I primi piani dei personaggi devono mantenere volti da personaggi videoludici rifiniti, ciocche di trecce ben definite e pelle realistico-stilizzata; niente attori reali, cosplay, normale gameplay, animazione 2D o cel shading. Mantieni l’ambientazione di combattimento soprannaturale in una moderna stazione della metropolitana; non trasformarla in un castello medievale, una montagna innevata o un ring di pugilato. Palette desaturata di grigio-azzurro freddo, nero carbone scuro, scaglie grigio-azzurre e strisce luminose bianco freddo, con tocchi di colore dati da parapetti gialli, luci di segnalazione rosse, montature bronzee degli occhiali, corazza verde verderame e cintura rosso ocra. Il bagliore dorato miele degli occhi e il breve lampo viola al momento dell’impatto contro il pilastro devono comparire solo negli istanti corrispondenti, senza tingere tutto il film di viola. Ambiente: ampia e buia stazione ferroviaria sotterranea, area dei binari ribassata al centro con rotaie e pietrisco, banchine rialzate su entrambi i lati; ai bordi delle banchine ci sono barriere frangivento in vetro e metallo con cornici verticali gialle, fasce di sicurezza gialle a pavimento, piastrelle grigie e griglie di drenaggio. Grossi pilastri cilindrici bianchi sostengono il soffitto basso; in alto, continue strisce luminose bianche fredde e lampade circolari, con piccole luci rosse di segnalazione che si allungano in lontananza. Sulle banchine ci sono alcune decine di passeggeri adulti con normali cappotti chiari e scuri, dispersi accanto ai pilastri o dietro le barriere. Sorpresi dal combattimento, arretrano, si rannicchiano e alzano le braccia per proteggersi, restando sempre comparse sullo sfondo: non partecipano alla lotta, non diventano protagonisti e non hanno volti identici tra loro. Nessun treno entra in stazione. I cartelli mostrano solo indistinti blocchi geometrici colorati, senza testo leggibile.
-
-I due combattenti principali sono fissi. A, il guerriero con gli occhiali, è un uomo adulto alto e slanciato, dal fisico atletico, con pelle marrone scuro caldo, zigomi e mascella ben definiti e corte trecce nere aderenti alla testa, raccolte dietro in un piccolo nodo di trecce. Sulla fronte porta sempre un’unica visiera sollevabile con stretta montatura bronzea e lente grigio fumo: normalmente copre entrambi gli occhi, lasciando scoperti il naso sotto il ponte e la bocca. Indossa un top da combattimento grigio-azzurro senza maniche, con collo incrociato, una cintura marrone scuro, pantaloni lunghi nero carbone e stivaletti marrone scuro. Entrambi gli avambracci sono avvolti da fasce di stoffa grigia; le dita delle mani sono scoperte. È sempre a mani nude, senza mantello, armi in mano o emblemi leggibili. Ha un’espressione calma e movimenti agili e decisi. Solo nella scena indicata solleva brevemente con la mano destra il bordo della visiera, rivelando un occhio luminoso color oro miele, poi riabbassa la visiera sugli occhi. È lo stesso equipaggiamento fisico fissato alla fronte: non deve diventare una benda né scomparire.
-
-B, la bestia combattente dalla schiena squamosa, è un essere umanoide bipede più alto e più largo di A, con una corporatura muscolosa. Scaglie ruvide grigio-azzurre scure ricoprono il largo torace, la schiena e gli arti; sull’addome le scaglie sono più fini e grigio-azzurre. Ha una testa larga e piatta da lucertola, muso corto e smussato, mascella robusta, due occhi color ambra scuro e denti corti e tozzi. Non ha capelli umani, maschere né protuberanze simili a rami. Dalla spalla sinistra fino all’avambraccio sinistro crescono placche naturali spesse color verde verderame; lungo il bordo superiore della spalla sinistra è fissata una fila di pinne ossee corte e smussate. Il braccio destro mantiene scaglie ruvide grigio-azzurre più chiare. I lati non devono mai essere invertiti: pinne ossee e placche fanno parte del corpo e sulla spalla non ci sono fiori. Indossa ampi pantaloni da combattimento marrone scuro, una cintura di tessuto rosso ocra con due sottili estremità pendenti e fasce di stoffa marrone scuro alle caviglie. Ha piedi larghi e squamosi, con piante chiaramente adatte a fare presa contro una parete. Nessuna coda, ala, braccio aggiuntivo, corno lungo, spada, lancia, scudo o oggetto impugnato. B è una creatura alta ma capace di muoversi in una normale stazione; mantieni proporzioni stabili rispetto ad A e ai passeggeri, senza farla diventare un gigante alto come un edificio.
-
-0.00–3.70 secondi: il combattimento inizia già al primo fotogramma. Un breve piano basso vicino ai binari mostra B che si avvicina rapidamente a passo di carica; subito dopo, stacco su un piano medio da dietro A: B arriva frontalmente, solleva la gamba ruotando l’anca ed esegue un calcio circolare orizzontale all’altezza della testa. A piega le ginocchia, abbassa la testa e inclina il busto di lato; la gamba gli sfiora le trecce nere, B ricade sul piede e si gira, mentre A si rialza immediatamente. Stacco su un’ampia inquadratura a due in posizione bassa sui binari, con Dutch angle evidente: A solleva il ginocchio ed esegue un calcio circolare alto, B abbassa testa e spalle per evitarlo e A ritrae la gamba tornando sul piede d’appoggio. La camera torna ravvicinata dietro la spalla di A e segue B mentre incalza con una serie continua di pugni oscillanti. A evita i colpi con brevi spostamenti della testa, abbassando la spalla e ruotando il corpo; i pugni gli passano accanto al viso. Non restare fermo a ripetere pugni oscillanti aspettando che l’avversario attacchi. Le strisce luminose del soffitto creano scie direzionali mentre la camera si muove rapidamente; i rapporti spaziali tra i corpi devono restare chiari.
-
-3.70–6.40 secondi: il pugno destro dalle scaglie grigio-azzurre più chiare di B si allunga di nuovo davanti ad A. A apre la mano e blocca il polso e l’avambraccio, mostrando chiaramente il punto di contatto. La camera si avvicina al profilo calmo di A, poi segue il suo passo, la rotazione dell’anca e quella delle spalle mentre gira rapidamente verso una visuale bassa a figura intera. A mantiene la presa sullo stesso braccio destro, solleva B strappandolo dal suo appoggio e lo fa roteare verso l’alto lungo il fianco del proprio corpo. I piedi di B si staccano da terra; la cintura rosso ocra e i pantaloni larghi restano indietro per inerzia. Al culmine del lancio usa solo un brevissimo ultra slow motion, poi torna subito all’alta velocità. Dopo aver completato la rotazione, A lascia la presa. B ricade lungo la stessa traiettoria, a testa in giù e con i piedi in alto, e atterra con spalla e schiena sui binari; pietrisco e polvere schizzano dal punto d’impatto. La camera bassa segue la caduta e vibra brevemente. B rotola sfruttando il movimento, solleva il busto e mantiene tutti gli arti integri. Niente braccia spezzate, lancio telecinetico senza contatto o rialzata dal nulla.
-
-6.40–9.20 secondi: mentre B si sta ancora rialzando da terra, A ha già spinto con i piedi e gli è saltato addosso. Dalla visuale dietro B, la camera inquadra dal basso A che ruota l’anca e distende la gamba a mezz’aria. Il punto più alto del salto rallenta brevemente; durante la discesa A esercita un calcio volante laterale contro testa e spalle di B. B alza entrambe le braccia per parare e viene deviato dalla pressione. A atterra e incalza immediatamente, senza restare in piedi ad aspettare. La camera segue la discesa e aggira rapidamente il fianco di A, alternando primi piani leggermente inclinati sopra la spalla e del volto. A evita di scatto il braccio di B che torna a colpire, sferra un pugno corto al torso e poi, con un colpo di palmo sul lato del viso, spinge la testa di B di lato; solo dopo il contatto testa e collo ruotano nella direzione della spinta. Mano, viso e avambraccio devono restare separati e chiaramente distinguibili. La pinna ossea sulla spalla sinistra di B ruota insieme alla corazza dello stesso lato e al torso.
-
-9.20–11.20 secondi: sfruttando lo spazio creato dalla spinta al volto, A ruota il corpo, ritrae la gamba e subito dopo esegue un potente calcio laterale in avanti. La suola colpisce l’addome e la parte bassa del torace di B. Il torso di B si piega per primo, poi entrambi i piedi si staccano da terra e B vola verso l’alto e di lato, in direzione della banchina. La camera lo segue oltre il bordo della banchina. La parte alta della schiena e la spalla di B colpiscono un pilastro bianco; la superficie si crepa dal punto d’impatto, facendo cadere frammenti chiari e polvere, e B scivola lungo il pilastro fino al pavimento della banchina. Dopo aver ritratto la gamba, A salta dall’area dei binari sulla stessa banchina per inseguirlo. Dopo lo stacco, A ricompare in continuità accanto a quel pilastro, non si teletrasporta in un’altra stazione. I passeggeri si scansano ai lati. Il pilastro è danneggiato ma non crolla interamente.
-
-11.20–12.80 secondi: stacco sul primo piano del volto di B dopo l’impatto. B alza la testa e si gira cercando A; la placca verde verderame sulla spalla sinistra e le corte pinne ossee sono ancora presenti. Si passa rapidamente a una composizione ravvicinata sui due lati dello stesso pilastro: B occupa il primo piano a destra, A è sullo sfondo a sinistra accanto al pilastro, con un lieve sorriso ironico ma senza parlare. A solleva con la mano destra il bordo della visiera dalla montatura bronzea, rivelando un solo occhio luminoso color oro miele e fissando B per un istante brevissimo. Poi abbassa la visiera con la mano destra, ricoprendo di nuovo entrambi gli occhi, mentre il corpo si prepara contemporaneamente a schivare. Non lasciare una lunga pausa per un dialogo precedente né un labiale parlato.
-
-12.80–13.80 secondi: B ruota la spalla e scaglia il pugno destro grigio-azzurro chiaro verso il punto in cui si trova A. Prima che il pugno arrivi, A si sposta rapidamente di lato e aggira il pilastro. Il pugno colpisce il pilastro bianco solido; al contatto esplode un compatto lampo di energia viola, le crepe si allungano, i detriti cadono e il breve lampo viola svanisce immediatamente. Il primo piano mostra il pugno che comprime la superficie del pilastro, poi la camera si allarga rapidamente e rivela che B ha mancato il bersaglio mentre A è già passato di lato. È lo stesso pilastro danneggiato in precedenza. A non diventa fumo viola e il pugno non attraversa il corpo.
-
-13.80–16.00 secondi: ampia inquadratura bassa e inclinata. A si abbassa davanti e di lato al pilastro e fa un breve gesto di invito con la mano. B si gira e gli si lancia contro. A si dà una spinta e completa un unico salto mortale all’indietro continuo: prima inarca il corpo, porta i piedi sopra la testa, poi contrae l’addome e supera la fase capovolta, evitando il braccio spazzato orizzontalmente da B. La camera inclina verso l’alto seguendo il corpo; la fase capovolta rallenta brevemente e le strisce luminose attraversano lo sfondo in diagonale. A continua la stessa rotazione, riporta i piedi sotto il corpo e atterra nello spazio libero della banchina dietro B, piegando le ginocchia per assorbire l’impatto. I lembi degli abiti e le corte trecce dietro la testa ricadono per inerzia. Le comparse sullo sfondo schivano impaurite e non vengono trattate come aggressori aggiuntivi. A non viene scagliato via e non ripete capriole a mezz’aria per allungare la durata.
-
-16.00–18.50 secondi: appena A si rialza, B si gira e lo raggiunge con un ampio colpo oscillante diretto al lato della testa. A prima si inclina all’indietro e poi si abbassa, lasciando passare sopra la testa il braccio destro grigio-azzurro chiaro di B. Con entrambe le mani controlla quell’avambraccio, entra davanti al corpo dell’avversario e ruota mettendosi di schiena, abbassando il baricentro. A porta il braccio di B sopra la propria spalla e sfrutta il suo slancio in avanti per eseguire un atterramento sopra la spalla. I fianchi di B superano il punto d’appoggio, i piedi si staccano da terra e la schiena ricade sulle piastrelle della banchina; frammenti di piastrella e polvere si spargono sul pavimento. La camera passa da un primo piano ravvicinato alla spalla a un’inquadratura medio-ampia bassa, mostrando chiaramente la rotazione e l’atterraggio. A resta in piedi e lascia la presa, permettendo a B di cadere. B si gira immediatamente, si sostiene e si rialza piegando le gambe. A si volta verso di lui e continua a mettergli pressione, collegando rialzata e inseguimento senza una lunga pausa in piedi a pronunciare battute.
-
-18.50–20.65 secondi: B torna a distanza ravvicinata. A anticipa con un breve diretto verso il lato del volto, riporta la mano a proteggere il petto e poi abbassa il corpo colpendo addome e costole. B para uno dei colpi con il braccio e contrattacca con una spazzata pesante. A resta vicino all’interno del petto e della spalla, abbassa la testa per evitare il colpo, devia con l’avambraccio il pugno che rientra e completa la sequenza con brevi pugni compatti a mascella e parte alta del torace. La camera si muove rapidamente e in modo contenuto attorno alle spalle dei due. Testa e corpo reagiscono con un rimbalzo solo dopo il contatto effettivo. Mostra una sequenza continua di attacchi, parate, deviazioni e contrattacchi, non una serie di pugni a vuoto alternati, senza reazioni o con i due pugni costantemente incollati.
-
-20.65–21.85 secondi: stacco diretto su una visuale dall’alto. Si vede chiaramente che i due ruotano attorno alla stessa piccola area di piastrelle. Le corte trecce nere e la montatura bronzea di A, insieme alla placca verde verderame sulla spalla sinistra e alla cintura rosso ocra di B, sono punti di riconoscimento costanti. Il largo braccio di B passa accanto ad A con una spazzata; A restringe le spalle e si infila all’interno, alterna i piedi, devia l’avambraccio dell’avversario con una mano, affonda l’altro pugno nel torace e nell’addome, poi ritrae la mano adattando la posizione alla rotazione di B. I frammenti di piastrella e la griglia di drenaggio a terra restano al loro posto. La ripresa dall’alto mostra il percorso del combattimento ravvicinato senza aggiungere controfigure o un terzo combattente.
-
-21.85–24.00 secondi: ritorno a un’inquadratura strettissima oltre la spalla di B. A continua con una serie breve di pugni alternati ai livelli alto e basso, inclinando la testa per evitare il braccio di B che arriva dall’alto. Gli avambracci fasciati di A e il braccio squamoso grigio-azzurro di B si incrociano, ma i contorni restano chiari. La camera segue le rapide spinte dei pugni di A. In due punti di forte contatto inserisce solo per pochi fotogrammi brevi flash in bianco e nero ad alto contrasto con profili d’impatto tridimensionali, poi torna immediatamente alla CGI AAA originale nei toni freddi grigio-azzurri. Non passare a fumetto, testo o illustrazione 2D. L’ultimo diretto colpisce chiaramente l’addome di B: l’addome si comprime verso l’interno, il busto si piega e il braccio che B stava portando sopra la testa perde la direzione in avanti insieme al torso. A mantiene salde le piante dei piedi; la forza passa da gambe, anche e spalle al pugno, che non attraversa il corpo.
-
-24.00–28.00 secondi: subito dopo lo stesso colpo pesante all’addome, B si stacca da terra e vola all’indietro. La camera, bassa e aderente al bordo della banchina, lo insegue ad alta velocità lungo l’asse della stazione, passando in successione accanto a pilastri bianchi, cornici gialle, pannelli delle barriere in vetro e folla attonita. Le linee dello sfondo si allungano per la velocità, mentre il corpo squamoso grigio-azzurro di B, i pantaloni marrone scuro, la cintura rosso ocra e la placca verde verderame sulla spalla sinistra restano sempre riconoscibili. Attraverso ampie inquadrature lungo l’asse della stazione, rapidi stacchi con i pilastri che sfiorano il primo piano e primi piani dal basso, mostra B che ruota per inerzia e allunga le braccia tentando di recuperare l’equilibrio. I frammenti sollevati volano nella stessa direzione sopra i binari. B sfonda quindi un tratto della barriera frangivento in vetro e metallo sul bordo della banchina: il vetro si rompe dopo il contatto con il corpo, la struttura metallica si piega e B attraversa l’apertura proseguendo nell’area dei binari. Stacco su un’ampia visuale dalla parete laterale dei binari. È ancora il volo continuo causato dal precedente colpo all’addome: non aggiungere un calcio fuori campo, un secondo lancio o passeggeri scaraventati via. A non deve comparire dietro ogni pilastro.
-
-28.00–30.00 secondi: inquadratura medio-ampia fissa di lato. La parete verticale dei binari, grigio scuro, è sul lato sinistro dell’immagine; la banchina opposta e i passeggeri dietro la barriera sono sullo sfondo a destra, mentre le strisce luminose indicano la profondità della stazione. In aria B ruota portando prima i piedi verso la parete. Le piante dei due piedi devono entrare chiaramente in contatto con la superficie verticale. B piega le ginocchia e contrae l’addome in una posizione raccolta; sotto i piedi si solleva una piccola quantità di polvere della parete. Poi, in ultra slow motion, estende lentamente le ginocchia e apre il torso verso l’esterno, avvicinando gradualmente il corpo alla posizione orizzontale. Le piante restano premute contro la parete; cintura rosso ocra, pantaloni larghi e piccoli frammenti continuano a muoversi, rendendo evidente la sequenza di contatto, compressione e caricamento della spinta. Non è un urto con la schiena, non è un congelamento sospeso in aria e non sta in piedi su un pavimento rovesciato.
-
-Il film termina a 30.00 secondi con B ancora appoggiato alla parete con entrambi i piedi e il corpo aperto verso l’esterno. Non aggiungere un completo contrattacco con spinta sulla parete, atterraggio, morte o esito della vittoria. Niente schermo nero, dissolvenza o cartello finale.
-
-Ritmo e continuità: mantieni l’ordine delle azioni — inseguimento rapido, schivate ravvicinate, proiezioni, salti mortali, calci volanti, colpi contro il pilastro, brevi scambi visti dall’alto e spostamenti attraverso la banchina — riducendo le pause di osservazione e quelle dei dialoghi originali. Usa il rallentatore solo al culmine del lancio, durante la schivata in aria e nella fase finale contro la parete, indicando chiaramente ultra slow motion per quest’ultima. Il combattimento normale deve restare veloce e fluido: niente rallentamento globale e niente fotogrammi congelati per riempire la durata. Mantieni le corte trecce nere, la pelle marrone scuro, la visiera con montatura bronzea, il top grigio-azzurro senza maniche e gli avambracci fasciati di A; lo stato della visiera prima e dopo il momento in cui mostra l’occhio deve essere chiaro. Mantieni la placca verde verderame e le corte pinne ossee sul lato sinistro di B, il braccio destro dalle scaglie ruvide grigio-azzurre, la testa larga da lucertola, i pantaloni marrone scuro e la cintura rosso ocra. Le pinne ossee non cadono, non cambiano lato e non diventano armi. Chi viene atterrato deve prima entrare in contatto con il suolo e solo dopo recuperare l’appoggio; chi salta deve prima spingersi da terra; ogni volo dopo un colpo deve avere un contatto iniziale; per frenare contro la parete, le piante dei piedi devono toccarla prima della flessione delle ginocchia. Tutti i movimenti devono conservare peso, inerzia e direzione. Le comparse continuano a compiere schivate naturali differenti e mantengono una separazione spaziale chiara dai combattenti; non si fondono con loro e non entrano all’improvviso nella traiettoria di pugni e calci. La superficie danneggiata del pilastro, le piastrelle cadute e la barriera infranta devono mantenere lo stato di distruzione nelle inquadrature successive. Nessuna arma aggiuntiva, nessun arto extra, niente sangue e niente smembramenti.
-
-È severamente vietata la musica di sottofondo: in nessun momento devono essere generati musica di sottofondo, colonna sonora, tracce musicali, melodie, percussioni ritmiche, cori, canzoni, suoni continui musicali o tappeti d’ambiente tonali. Sono consentiti esclusivamente suoni diegetici sincronizzati con l’immagine e fisicamente appartenenti alla scena: ventilazione e riverbero dello spazio sotterraneo, passi e suole che sfregano il pavimento, tessuto e cintura rosso ocra che si muovono, sibili di pugni e calci, colpi sordi di contatti reali, respirazione non verbale e brevi gemiti di dolore, pietrisco che rotola, cemento che si crepa, vetro che si frantuma, telai metallici delle barriere che si piegano, passi dei passeggeri che arretrano, un breve suono elettrico non melodico della luce viola al contatto e infine lo sfregamento delle piante contro la parete e la polvere che cade. Niente dialoghi, voce narrante, urla comprensibili, canzoni o sottotitoli. Non usare suoni pulsanti, colpi orchestrali, effetti sonori melodici o effetti ritmici per riempire l’assenza di musica; non trasformare la sequenza di pugni, i passi o il vetro infranto in una percussione e non prolungare il suono della ventilazione fino a renderlo un tappeto musicale. La presenza di qualsiasi musica o colonna sonora comporta il fallimento.
-music=0; no_music=1; strict_no_music=1; audio=diegetic_only; Nessun titolo, nome di stazione leggibile, logo, interfaccia, controllo del player o watermark.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100233407108137349) · [Post originale](https://x.com/MadMax_Series/status/2100233407108137349) · [Torna agli esempi](#all-prompts)
-
----
 
 <a id="2100350159540596760"></a>
 
@@ -3251,6 +3038,26 @@ Interazioni: Fuochi d'artificio (razzi dalle torri, esplosioni colorate che illu
 
 ---
 
+<a id="2108711089827647965"></a>
+
+### Photoshop per i Gaussian splats
+
+[duck engineer](https://x.com/equacc) · 2026-10-10
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/photoshop-like-gaussian-splat-editor"><img src="../assets/previews/76060816d4af306e2fa9a9994188e7d8176886fc50cb4249ef1dd048624cf6a5.jpg" width="840" loading="lazy" alt="Photoshop per i Gaussian splats"></a>
+
+Una richiesta per un editor interattivo, simile a Photoshop, per i Gaussian splats. L’autore dice di aver chiesto ad Astra di realizzare questo progetto in una sola serata.
+
+**Prompt**
+
+```text
+ehi, costruiamo Photoshop per i Gaussian splats, perché https://t.co/y592QAHMZH non basta
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/photoshop-like-gaussian-splat-editor) · [Post originale](https://x.com/equacc/status/2108711089827647965) · [Torna agli esempi](#all-prompts)
+
+---
+
 <a id="2108912938656407888"></a>
 
 ### Simulazione interattiva 3D di tessuto su una sfera cromata
@@ -3457,6 +3264,178 @@ https://t.co/BmU7fO6uOJ
 
 ---
 
+<a id="2108976915449012592"></a>
+
+### Personaggio di Mario in Three.js
+
+[eliancode](https://x.com/eliancodex) · 2026-10-10
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/mario-character-threejs-model"><img src="../assets/previews/e698e6d30c93446fff510a2eb8e96ba3792afc5d8fdca299bb1f222dc12f6fd9.png" width="840" loading="lazy" alt="Personaggio di Mario in Three.js"></a>
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/mario-character-threejs-model"><img src="../assets/previews/3a86573361bba61c5eb7c7f4c34e3c92f4cd1d5bc816d311437cc79f274b2174.jpg" width="840" loading="lazy" alt="Personaggio di Mario in Three.js"></a>
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/mario-character-threejs-model"><img src="../assets/previews/e3038c4dfabfc061f9357a587d3e0b5668dab44637d713225f0448bdd5067348.jpg" width="840" loading="lazy" alt="Personaggio di Mario in Three.js"></a>
+
+Un prompt per ricreare Mario come personaggio 3D in Three.js, in un unico file HTML autonomo e senza risorse esterne. L’autore principale lo presenta come il prompt usato per un confronto tra GPT-6 Luna High e Grok 4.7 High.
+
+**Prompt**
+
+```text
+Ricrea Mario (il personaggio, non il gioco) in Three.js. Un unico file HTML, senza risorse esterne.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/mario-character-threejs-model) · [Post originale](https://x.com/eliancodex/status/2108976915449012592) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="2108981890493358527"></a>
+
+### Scena 3D interattiva e realistica di un’auto in autostrada
+
+[sgarlen](https://x.com/sgarlen01) · 2026-10-10
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/interactive-realistic-highway-car-scene"><img src="../assets/previews/cc06e0cb614b7c3e46b27123aa4704e11465367098809d2570d81eb5ffba6124.jpg" width="840" loading="lazy" alt="Scena 3D interattiva e realistica di un’auto in autostrada"></a>
+
+Prompt di una sola riga, riportato alla lettera dall’autore originale, usato per un confronto a parità di prompt tra GPT Astra e Opus 5.5. Richiede una scena 3D interattiva e realistica con un’auto ad alta velocità su un’autostrada. I dettagli sull’output elencati nel post non fanno parte del prompt.
+
+**Prompt**
+
+```text
+crea una scena 3D realistica di un’auto che viaggia ad alta velocità su un’autostrada e rendila interattiva
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/interactive-realistic-highway-car-scene) · [Post originale](https://x.com/sgarlen01/status/2108981890493358527) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="2109015574177075610"></a>
+
+### Ecosistema costiero interattivo 3D Tidepool Jelly
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-10
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/tidepool-jelly-interactive-3d-ecosystem"><img src="../assets/previews/2c30633f7bcda16b7c0efd2c6c9e3641f6e6fbed39460f26df37eb304ca7831c.jpg" width="840" loading="lazy" alt="Ecosistema costiero interattivo 3D Tidepool Jelly"></a>
+
+Un prompt pubblicato dall’autore per un ecosistema costiero interattivo 3D in stile gelatinoso: una sezione a vista di costa sospesa con maree animate, acqua reattiva, creature marine gelatinose, schede delle specie, controlli della telecamera e impostazioni ambientali regolabili. Il post originale specifica che questo stesso prompt è stato confrontato tra ChatGPT-6 Astra e Claude Opus 5.5.
+
+**Prompt**
+
+```text
+Crea “Tidepool Jelly”, un ecosistema costiero interattivo 3D in miniatura in cui tutto appare morbido, elastico e realizzato in gelatina traslucida.
+Mostra una sezione a vista sopraelevata della costa, sospesa su uno sfondo bianco caldo tendente all’écru. Includi strati di sabbia e roccia sotto la superficie, acque turchesi basse, pozze di marea rocciose, ciottoli arrotondati, conchiglie e piccoli gruppi di vegetazione costiera. Usa una telecamera ortografica con controlli per orbita e zoom.
+Fai dell’acqua la protagonista della scena: onde convincenti, increspature che si propagano, riflessi, rifrazione, caustiche subacquee e una battigia bagnata. Anima una marea crescente e calante che riempia e svuoti le pozze. Fare clic o trascinare il cursore nell’acqua deve creare increspature localizzate che svaniscono naturalmente.
+Popola le pozze con creature marine gelatinose animate: piccoli granchi, stelle marine, anemoni di mare, lumache, cozze, gamberetti e piccoli pesci. Assegna a ogni specie movimenti e comportamenti distinti. I granchi si muovono di lato tra le rocce, gli anemoni oscillano con la corrente, le lumache avanzano lentamente e i pesci nuotano in gruppi sparsi. I loro corpi devono oscillare e deformarsi delicatamente mentre si muovono.
+Permetti agli utenti di fare clic su una creatura per portare la telecamera su di essa e mostrare una scheda compatta della specie. Consenti interazioni delicate che attivino una reazione elastica, seguita da un ritorno graduale alla forma originale.
+Aggiungi un pannello di controllo pulito e minimale con:
+Altezza della marea e ciclo automatico delle maree.
+Intensità delle onde e limpidezza dell’acqua.
+Morbidezza della gelatina.
+Illuminazione diurna e notturna.
+Interruttori per la visibilità delle specie.
+Pulsanti per mettere in pausa, reimpostare e randomizzare l’ecosistema.
+Di notte, introduci una bioluminescenza discreta nell’acqua e in alcune creature selezionate.
+Usa una tipografia editoriale elegante, ampi spazi vuoti e uno stile UI sobrio. Posiziona il titolo “Tidepool Jelly” nell’angolo in alto a sinistra e i controlli sulla destra. La scena deve dominare lo schermo.
+Realizza un’esperienza browser completamente funzionante usando Three.js e shader personalizzati dove utili. Dai priorità a un’acqua spettacolare, movimenti credibili delle creature, materiali gelatinosi dall’aspetto tattile e prestazioni fluide. Tutti i controlli devono funzionare. Evita mockup statici, asset segnaposto ed elementi dell’interfaccia sovradimensionati.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/tidepool-jelly-interactive-3d-ecosystem) · [Post originale](https://x.com/vib3coded/status/2109016138030141473) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="2109060292667982172"></a>
+
+### Visual 3D psichedelica con Three.js e WebGPU
+
+[ashe](https://x.com/ashebytes) · 2026-10-10
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/trippy-threejs-webgpu-3d-visual"><img src="../assets/previews/600ddd83a61a53793dd2a19a4c2e1ee377ae17c60e440f66cf9dfcb8b65193d8.jpg" width="840" loading="lazy" alt="Visual 3D psichedelica con Three.js e WebGPU"></a>
+
+Una raccomandazione di prompt pubblicata per Astra o Opus 5.5, che richiede una visualizzazione 3D fantastica e giocosa realizzata con Three.js e WebGPU. Il post la presenta come un prompt generico per la visualizzazione, non come l’input confermato per l’explainer collegato sulle equazioni di Navier–Stokes.
+
+**Prompt**
+
+```text
+Puoi creare per me una visualizzazione davvero psichedelica usando Three.js e WebGPU, per mettere in mostra le tue capacità 3D? Qualunque cosa fantastica e giocosa ti venga in mente... puoi inserirla in https://t.co/QLGn7mQK6h
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/trippy-threejs-webgpu-3d-visual) · [Post originale](https://x.com/ashebytes/status/2109060292667982172) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="2109153428635267345"></a>
+
+### Gioco sandbox di guida open world low-poly
+
+[nitzan.games](https://nitzan.games/) · 2026-10-11
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/low-poly-open-world-driving-game"><img src="../assets/previews/37ba4561ec859d39eceac9ba1528d0e096566345c64786ef05cd9074edbf2729.jpg" width="840" loading="lazy" alt="Gioco sandbox di guida open world low-poly"></a>
+
+Un gioco di guida open world completo, eseguibile nel browser, ambientato in una città low-poly colorata e baciata dal sole. Il giocatore può camminare, rubare auto, guidare nel traffico, schiantarsi e distruggere i veicoli, abbandonarli e prenderne un'altra. La pagina dell'esperimento collegata, realizzata da Nitzan e condivisa nel post principale, identifica questo testo come il prompt comune usato per Astra 6 e per altri build realizzati da agenti.
+
+**Prompt**
+
+```text
+Crea nel browser un sandbox di guida open world completo e rifinito.
+
+Ti ritrovi in una piccola città colorata e baciata dal sole. Puoi camminare, rubare quasi ogni auto che vedi, guidare a tutta velocità nel traffico, schiantarti, distruggere l'auto, scendere, rubarne un'altra e continuare. Questo loop è l'intero gioco. Niente missioni, armi, polizia, pedoni, trama o musica.
+
+Obiettivo visivo: forme low-poly con superfici pulite, in flat shading, e senza rumore nelle texture. Silhouette ben leggibili, proporzioni esagerate e un unico momento della giornata ben definito, con lunghe ombre calde. Colore e proporzioni devono svolgere il lavoro che, in un gioco realistico, spetterebbe ai dettagli delle superfici.
+
+Questa è un'attività autonoma. Non fermarti a «compila»: pianifica, costruisci, esegui, acquisisci screenshot, valutali come farebbe un revisore ostile, correggi e ripeti, finché il risultato non sembri un gioco finito anziché un prototipo tecnico.
+
+I revisori automatici esamineranno il tuo build senza alcuna presenza umana. Creare un modo per eseguirlo, acquisire screenshot e verificarlo — per loro e per te — fa parte dell'attività. Non riceverai alcuna checklist: sta a te fissare l'asticella della qualità.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/low-poly-open-world-driving-game) · [Post originale](https://nitzan.games/OneShotGTA.html) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="2109268147068862675"></a>
+
+### Modello di goblin in Blender con animazione di camminata
+
+[Cong Le](https://x.com/CongLe) · 2026-10-11
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/goblin-blender-walking-animation"><img src="../assets/previews/ebf163b3e1d01f3a9a0571d7a0fb1a03020518d7e20db952e56e161ab071beaf.jpg" width="840" loading="lazy" alt="Modello di goblin in Blender con animazione di camminata"></a>
+
+Un prompt di benchmark condiviso che richiede la creazione in Blender di un goblin con un’animazione di camminata. L’autore originale afferma che GPT-6 Astra era uno dei sei modelli a cui è stato assegnato lo stesso brief in sessioni separate di 15 minuti appena avviate.
+
+**Prompt**
+
+```text
+Crea un goblin in Blender (con animazione di camminata).
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/goblin-blender-walking-animation) · [Post originale](https://x.com/CongLe/status/2109268147068862675) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="2109288662319919127"></a>
+
+### Studio dei materiali WebGPU: pinguino di peluche
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-11
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/interactive-plush-penguin-webgpu-material-study"><img src="../assets/previews/a8d43c8ee628e55bffdfb3f4038ceb33a76ad2f959f5a3f4861135dd2e8b7fd2.jpg" width="840" loading="lazy" alt="Studio dei materiali WebGPU: pinguino di peluche"></a>
+
+Una pagina interattiva 3D per lo studio dei materiali, realizzata in WebGPU e contenuta in un singolo file, dedicata a un pulcino di pinguino di peluche. Il prompt specifica un corpo imbottito con mesh SDF, pinne in tessuto, fisica dei corpi deformabili XPBD, pelo del guscio spazzolabile, interazioni touch, comportamenti di locomozione, controlli dei materiali, palette e un'interfaccia editoriale responsive. L'autore principale presenta questo testo come il prompt condiviso usato per GPT-6 Astra e Claude Opus 5.5.
+
+**Prompt**
+
+```text
+Crea una pagina di "studio dei materiali" WebGPU contenuta in un singolo file e chiamata "Plush Penguin": layout da studio editoriale, grande titolo serif corsivo "Plush / Penguin.", occhiello "Material Studies / No. 016", didascalia "Un uovo soffice su due piedini di feltro. Dondola, scivola sulla pancia, cade — e si rialza sempre.", indicatore di stato live, pannello del soggetto a destra, riga di statistiche (Massa, Volume, Passi, Scivolamento in cm), note comprimibili "Dentro l'esperimento". Interfaccia in inglese, ottimizzata per dispositivi mobili.
+
+Il giocattolo: un pulcino di pinguino di peluche tondeggiante — un corpo imbottito a forma di uovo, ottenuto come un'unica mesh SDF con reticoli superficiali, con calotta e dorso scuri, viso e pancia chiari e soffici, grandi occhi lucidi in vetro di sicurezza, un piccolo becco in feltro, guance rosa e due piedini piatti in feltro. Le pinne sono elementi separati in tessuto (tessuto particellare cucito a punti incorporati nel corpo) che si afflosciano, sbattono e si allungano.
+
+Fisica: corpo deformabile XPBD su un reticolo esagonale (celle con shape matching + conservazione del volume tetraedrico, lettura del volume in tempo reale), con skinning sulla mesh, in piedi su un tavolo con attrito di Coulomb. La locomozione dipende dalla postura: una debole trazione dell'intero corpo verso la sua forma a riposo viene orientata e traslata insieme al centro di massa, così è l'imbottitura a generare il movimento. Comportamenti: Dondolio (oscilla da un lato all'altro, sollevando ciascun piede e appoggiandolo più avanti), Scivolamento sulla pancia (un piccolo salto, si lascia cadere in avanti sulla pancia e scivola sul tavolo come su una slitta, poi oscilla per rimettersi in piedi), Sbatacchiamento (sbatte felicemente le pinne e fa un paio di saltelli), Ribaltamento (cade sulla schiena, sulla pancia o su un fianco e si rimette in piedi oscillando, con un'andatura che supera leggermente la posizione finale), Pelo uniforme, Reimposta. Dito: si avvicina dondolando al tuo dito; spingilo e cadrà. Mano: raccoglilo, schiaccialo, tira una pinna e ti seguirà.
+
+Pelo: pelo a guscio in tempo reale con alpha-to-coverage — piumino lungo e soffice sul corpo, corto sul viso, pettinabile con lo strumento Pettine (contropelo più scuro, nel verso del pelo più lucido). Slider: Imbottitura, Montaggio (mm), Tavolo (attrito feltro ↔ ghiaccio, quindi sul ghiaccio scivola più lontano). Palette: Pulcino, Classica, Azzurro. Velocità ¼ e interruttori della mesh, Pausa. 60 fps.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/interactive-plush-penguin-webgpu-material-study) · [Post originale](https://x.com/vib3coded/status/2109288858701455535) · [Torna agli esempi](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Difesa infinita con i carri armati
@@ -3577,6 +3556,95 @@ Fornisci un progetto sorgente autonomo e modificabile, il lockfile, le istruzion
 ```
 
 [Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/crazy-tanks-3d-island-artillery) · [Demo](https://super-tanks-aftershock.tripo.page/) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="golden-miner"></a>
+
+### Golden Miner: gioco minerario 3D a 24 livelli
+
+[jared](https://x.com/jaredliu_bravo) · 2026-10-11
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/golden-miner"><img src="../assets/previews/91383db3d2d0caedbbd5f6ce33c730e8ba7e8696882bbf4a1fa5d709b31d9342.webp" width="840" loading="lazy" alt="Golden Miner: gioco minerario 3D a 24 livelli"></a>
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/golden-miner"><img src="../assets/previews/79bfe64f9a04cc2d0a3e0e0d648181b449e08ce157966f8626205b2b513a608e.webp" width="840" loading="lazy" alt="Golden Miner: gioco minerario 3D a 24 livelli"></a>
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/golden-miner"><img src="../assets/previews/372fc37c27af1e92680e65a23a714ee2f682877baa814f3f06535e8df4ecd439.webp" width="840" loading="lazy" alt="Golden Miner: gioco minerario 3D a 24 livelli"></a>
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/golden-miner"><img src="../assets/previews/36dd9794926870c64ec819e98510f542fd76884d86d510d32d86d8b82ca85129.webp" width="840" loading="lazy" alt="Golden Miner: gioco minerario 3D a 24 livelli"></a>
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/golden-miner"><img src="../assets/previews/120942dc7cada2a69fcbd181e7d11e5cda4321c0a2ed10acb998f6178d5af664.webp" width="840" loading="lazy" alt="Golden Miner: gioco minerario 3D a 24 livelli"></a>
+
+Crea un gioco 3D di estrazione dell'oro a un solo pulsante, con 24 livelli, quattro regioni di caverne, esplosioni a catena, bauli misteriosi, sfide giornaliere e comandi touch con pressione prolungata per mirare.
+
+**Prompt**
+
+```text
+# Golden Miner — un'avventura mineraria 3D a un solo pulsante
+
+## 1. Obiettivo del progetto
+Crea un gioco per browser completo e giocabile chiamato Golden Miner. Il giocatore controlla una pinza mineraria oscillante, calcola il momento del lancio e porta in superficie i tesori da una miniera sezionata prima che scada il tempo. Le decisioni devono riguardare il tempismo e la scelta del bersaglio, non comandi complicati. Realizza una campagna di 24 livelli distribuita in quattro regioni minerarie, una sfida giornaliera deterministica e una modalità infinita. Riproduci l'attuale demo mobile-first di Golden Miner, non una versione precedente a tre livelli. Si tratta di un'implementazione originale di una meccanica tipica dei giochi minerari; non è una richiesta di riutilizzare la grafica o il codice di un altro gioco.
+
+## 2. Direzione visiva
+Usa una telecamera prospettica Three.js rivolta verso una miniera in miniatura, con una leggera inclinazione verso il basso. Il mondo di gioco deve occupare la maggior parte dello schermo. Una piattaforma in legno attraversa la parte superiore della miniera; il cercatore sta a sinistra del verricello centrale e il carrello minerario carico si trova alla sua destra. Un cavo visibile collega il verricello alla pinza in movimento. Oro, cristalli, pietre, esplosivi, bauli e una reliquia sono distribuiti nella terra esposta sottostante.
+
+Usa oro caldo su un ambiente verde muschio scuro in Gilded Hollow; blu ghiaccio e ciano in Glacier Grotto; rame bruciato e arancione in Ember Foundry; viola e lavanda in Amethyst Abyss. Usa forme scolpite dall'aspetto dipinto a mano, silhouette leggibili, riflessi dorati metallici, legno grezzo, ferro usurato, ombre morbide, luce delle lanterne, poca polvere e brevi scintille sui tesori. Aggiungi particelle d'impatto discrete, un leggero tremolio della telecamera, la rotazione del verricello e movimenti sottili del cercatore. Non coprire la scena con un bloom eccessivo o con un'ampia barra laterale promozionale.
+
+Durante il gioco, mostra sopra la miniera solo un indicatore compatto del livello, un indicatore di carico/bersaglio e il conto alla rovescia. Posiziona sotto di essi i piccoli comandi per dinamite e sgancio; le scorciatoie da tastiera sono solo suggerimenti secondari. Mantieni ben visibile in alto l'interruttore di confronto Tripo/Three.js. La schermata iniziale può usare una piccola scheda traslucida d'invito sovrapposta alla miniera. Usa gli screenshot desktop e verticali allegati come riferimenti compositivi: mostrano la versione attuale, non concept art.
+
+## 3. Mondo e progressione
+Crea quattro regioni, con sei livelli per regione. Alterna l'enfasi dei livelli tra estrazione equilibrata, oro abbondante, filoni esplosivi, cristalli che estendono il tempo, bauli misteriosi e una reliquia antica. Usa configurazioni basate su seed con una disposizione iniziale non sovrapposta di 20 oggetti; mescola i tipi di oggetto all'interno delle righe di profondità e rifletti alcune configurazioni, così che i livelli successivi non siano tavole identiche con etichette rinominate.
+
+Per il livello di campagna L indicizzato da zero, da 0 a 23, imposta l'obiettivo su 650 + floor(L / 6) × 300 + (L modulo 6) × 130. Assegna 60 secondi ai primi 12 livelli e 68 secondi ai successivi. Gli obiettivi aumentano all'interno di ogni regione; l'inizio di una nuova regione può azzerare la difficoltà. Introduci il TNT dal livello 3, i bauli dal livello 5 e i cristalli che si muovono lentamente dal livello 7. Ogni tavola deve essere completabile con i comandi normali e offrire abbastanza tesori accessibili.
+
+La mappa mostra tutti e 24 i livelli, i nomi delle regioni, le stelle ottenute e i livelli futuri bloccati. Completare un livello della campagna sblocca quello successivo. La modalità giornaliera usa la data UTC come seed, una tavola giornaliera condivisa, un obiettivo di 1.900 $ e 75 secondi; aggiorna il seed alle 00:00 UTC. Deve avere solo il miglior punteggio giornaliero salvato sul dispositivo, non una classifica online fittizia. La modalità infinita è disponibile dal campo base oppure dopo il livello 24, mantenendo i potenziamenti; oltre la campagna, varia regione e seed, usa 70 secondi e aumenta gli obiettivi da 2.300 $ fino a un limite di 3.100 $.
+
+## 4. Inventario degli asset e slot sostituibili
+Mantieni stabili questi quattro slot indipendenti per i modelli. Ognuno deve avere una versione procedurale corrispondente e un GLB autonomo sostituibile. Condividi geometria, materiali e texture tra le istanze ripetute. Normalizza orientamento e scala degli elementi importati al confine dello slot; non riscrivere il gameplay quando sostituisci un modello.
+
+- `miner`: un cercatore nano anziano e tarchiato, con una grande barba argentata, elmetto in ottone con lampada frontale, camicia verde petrolio, salopette in pelle marrone, stivali pesanti e un piccolo piccone. Posizionalo sulla piattaforma superiore, a sinistra del verricello, rivolto verso il giocatore. Mantieni visibile l'intera silhouette della testa sotto la trave posteriore superiore. È la sostituzione del personaggio con la priorità più alta.
+- `cart`: un carrello minerario in noce consumato, stracolmo d'oro, con fasce e bulloni in ferro nero e quattro ruote ferroviarie flangiate. Posizionalo sui binari in alto a destra, leggermente ruotato in prospettiva a tre quarti. Un solo modello, senza terreno integrato né binari circostanti.
+- `gold`: una pepita irregolare e arrotondata, con sfaccettature angolari scolpite, ricchi riflessi di metallo giallo e crepe più scure. Riutilizzala in scala piccola e grande in tutta la miniera. Il raggio di collisione deve essere indipendente dal livello di dettaglio della mesh visiva.
+- `crystal`: un gruppo di cristalli esagonali turchesi/blu appuntiti, di altezze diverse, su una piccola radice scura. Riutilizzalo per le gemme fisse e mobili. Deve risultare leggibile in ogni regione, senza richiedere un rendering costoso della trasmissione.
+
+Mantieni procedurali in questa versione `rock`, `tnt`, `chest` e `relic`: un masso grigio low-poly; tre candelotti di dinamite chiaramente rossi, con fascia di ferro e miccia; un baule di legno compatto con fasce e serratura in ottone; e una reliquia dorata sfaccettata con un anello orbitale scuro e un inserto ciano. Metti in cache questi template invece di allocare nuove mesh a ogni lancio.
+
+Mantieni inoltre gestiti dal codice la lastra di terra sezionata, i bordi rocciosi stratificati, la struttura e i rinforzi in legno, il tavolato, i binari, gli elementi delle lanterne, le matasse di corda, il verricello, il cavo, le dita della pinza, i bulloni, la polvere, le particelle, l'illuminazione, l'HUD e i proxy di collisione. Sono infrastrutture della scena, non ulteriori attività obbligatorie di generazione dei modelli. La demo attuale usa già i quattro slot generati per personaggio/oggetti; mantieni questa qualità visiva preservando la modalità di confronto.
+
+## 5. Comandi, regole e feedback
+La pinza oscilla automaticamente. Tocca/fai clic sulla miniera oppure premi Spazio/Giù per lanciarla; torna automaticamente. Tenere premuto il puntatore o Spazio rallenta la mira al 22% della velocità normale di oscillazione; al rilascio parte il lancio. Il conto alla rovescia continua durante la mira. Ignora gli input di lancio aggiuntivi mentre la pinza si estende o rientra. Un tocco annullato deve interrompere la mira senza effettuare il lancio. Usa la cattura del puntatore, così un tocco mantenuto resta stabile quando esce dal punto di contatto originale.
+
+Usa questi valori base e questi pesi relativi del carico: oro piccolo 95 $ / 1,1; oro grande 220 $ / 2,25; cristallo 250 $ / 0,8; roccia 15 $ / 3,1; baule 190 $ / 1,35; reliquia 550 $ / 3. I cristalli aggiungono 3 secondi. Il carico pesante viene riavvolto più lentamente. Un baule assegna inoltre una ricompensa determinata dal seed: 220 $, 8 secondi oppure 2 dinamiti. Il TNT detona al contatto, distrugge le rocce vicine, raccoglie i tesori vicini al 75% del loro valore e può innescare ogni TNT vicino esattamente una volta; non è un oggetto trasportabile.
+
+Le catture consecutive di oggetti preziosi assegnano moltiplicatori di 1,0×, 1,2×, 1,4× e poi fino a 1,6×. Quattro catture preziose caricano 7 secondi di Gold Fever: valore raddoppiato e velocità di riavvolgimento moltiplicata per 1,9. Un mancato bersaglio, una pietra o l'uso manuale della dinamite interrompono la serie normale e la sequenza di caricamento. Inizia con 3 dinamiti; B/Su o il pulsante della dinamite sganciano il carico attualmente trattenuto. Non consumare mai dinamite quando la pinza è vuota.
+
+Completa il livello quando il carico raggiunge l'obiettivo. Se il tempo scade, lascia che la pinza già lanciata termini il rientro e sistemi il carico una volta prima di determinare l'esito. Mostra gli stati di successo, sconfitta, nuovo tentativo e vittoria finale. Un nuovo tentativo mantiene i potenziamenti e ripete lo stesso livello basato sul seed, senza conteggiare due volte il carico fallito.
+
+Tra i livelli della campagna completati, offri una scelta gratuita: verricello più veloce del 13%, fino a un limite di 3,2×; valore dei tesori aumentato dell'8%, fino a 1,65×; oppure 3 dinamiti, fino a un massimo di 12. Assegna una stella per il completamento, una seconda per avere almeno il 25% del tempo rimanente e una terza per almeno il 75% di precisione nei colpi e il 40% del tempo rimanente.
+
+Usa brevi suoni sintetizzati per lancio, impatto, oro, cristallo, esplosione, conto alla rovescia ed esito. Sblocca l'audio solo dopo un gesto dell'utente e fornisci un comando per disattivarlo. Metti in pausa con P/Esc o con il pulsante visibile; metti automaticamente in pausa una pagina nascosta. La pausa deve congelare il tempo, gli oggetti mobili e la pinza. Usa brevi notifiche localizzate, guadagni fluttuanti e un indicatore compatto di Gold Fever invece di tutorial invasivi.
+
+## 6. Requisiti tecnici e mobile
+Usa moduli JavaScript semplici, rendering WebGL con Three.js, GLTFLoader e Vite per una build statica. Mantieni la simulazione deterministica separata da rendering, interfaccia, audio e persistenza. Usa collisioni tra segmenti di linea percorsi e cerchi per prevenire il tunneling, con un numero limitato di sotto-passaggi della simulazione. Mantieni autorevole lo stato degli oggetti della simulazione in entrambe le modalità visive.
+
+Usa per impostazione predefinita i modelli Tripo una volta caricati. Una modalità Three.js visibile e attivabile con un clic sostituisce i quattro slot dei modelli con geometria procedurale senza modificare livello, punteggio, timer, carico trattenuto, dinamite o stato dei potenziamenti. Se un modello non viene caricato, comunica l'errore in modo onesto e mantieni giocabile Classic. Includi localmente nella build modelli e dipendenze; non inserire mai nel browser chiavi di generazione o credenziali CMS.
+
+Supporta inglese, cinese semplificato e spagnolo. Rispetta le preferenze linguistiche del browser, comprese le varianti regionali, e usa l'inglese come fallback; ricorda la selezione manuale esplicita. Localizza mappa, potenziamenti, risultati, guida, feedback sul cambio di modello e informazioni sulla sfida giornaliera.
+
+La modalità verticale deve usare un layout della miniera adattato, non una piccola tela desktop. Ridisponi insieme fisica e scena in un pozzo più stretto e profondo, mantenendo le proporzioni corrette degli oggetti. Applica la scala verticale dalle coordinate originali stabili, non da posizioni già scalate. Rimanda i cambiamenti di layout dovuti all'orientamento finché la pinza in movimento non ha completato il rientro, preservando il carico. Mantieni i comandi touch principali di almeno 44 px e rispetta le aree di sicurezza. Fornisci uno stato di focus visibile, contenimento del focus nelle finestre modali, contrasto leggibile, supporto per la riduzione del movimento e nessun overflow orizzontale.
+
+Salva localmente i livelli sbloccati, le stelle, il miglior carico, gli ultimi 14 record dei migliori risultati giornalieri, la lingua e le impostazioni audio. Recupera in sicurezza quando lo spazio di archiviazione non è disponibile o è danneggiato. Non suggerire salvataggi cloud né la persistenza di un carico parzialmente completato. Un ricaricamento ripristina l'accesso ai livelli sbloccati, non la simulazione in corso né lo stato esatto dell'equipaggiamento.
+
+Raggruppa le mesh statiche per materiali compatibili; riutilizza le risorse dei modelli e un pool fisso di particelle; usa shadow map moderate, un device-pixel ratio limitato con riduzione adattiva e nessun post-processing a schermo intero non necessario. Interrompi il rendering delle pagine nascoste. Misura il comportamento effettivo dei frame e la stabilità della memoria; non confondere mai il tempo di invio dei comandi di rendering alla CPU con il tempo completo del frame sulla GPU e non promettere 60 FPS universali.
+
+## 7. Accettazione e consegna
+Consegna il codice sorgente modificabile, le dipendenze bloccate, i comandi di sviluppo/build documentati e un'anteprima statica funzionante. Testa i 24 livelli della campagna, la ripetibilità del seed giornaliero, la continuazione infinita, tutte le ricompense dei bauli, le reazioni a catena del TNT, Gold Fever, i potenziamenti, i totali dei nuovi tentativi, la pausa, il recupero dello spazio di archiviazione e tutte e tre le lingue.
+
+Confronta visivamente titolo, gioco normale, ogni regione, mappa, potenziamenti, sconfitta e vittoria con i riferimenti forniti. Verifica una cattura reale da tastiera e una cattura reale con pressione/rilascio touch, i layout verticali e orizzontali, la rotazione durante il rientro del carico e cambi ripetuti di modello senza aumento delle risorse. Indica separatamente i test mobile emulati e quelli su dispositivi reali. Mantieni demo pubblica e codice consegnato sulla stessa versione; niente scena mineraria simulata limitata all'interfaccia, comandi segnaposto, classifiche cloud inventate, registrazione obbligatoria o barra laterale promozionale non pertinente.
+
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/golden-miner) · [Post originale](https://golden-miner.tripo.page/) · [Demo](https://golden-miner.tripo.page/) · [Torna agli esempi](#all-prompts)
 
 ---
 
@@ -3736,6 +3804,62 @@ Vite + JavaScript vanilla + Three.js con GLTFLoader, illuminazione RoomEnvironme
 
 ---
 
+<a id="red-light-green-light"></a>
+
+### Luce rossa, luce verde: gioco di sopravvivenza 3D
+
+[jared](https://x.com/jaredliu_bravo) · 2026-10-12
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/red-light-green-light"><img src="../assets/previews/99f1d6d504e215ea1ceadd6dd2c974fb94a4ab06dbd02b73def7d699661f7068.webp" width="840" loading="lazy" alt="Luce rossa, luce verde: gioco di sopravvivenza 3D"></a>
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/red-light-green-light"><img src="../assets/previews/9d95882c5b7f177f3b8d35ac60a2a82f3fcb90219cf253658364efa78e7fe85c.webp" width="840" loading="lazy" alt="Luce rossa, luce verde: gioco di sopravvivenza 3D"></a>
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/red-light-green-light"><img src="../assets/previews/4539b6704031f43e10bb023ae5f25b054e646bc7fe3afa789b75b3b6bb4a5019.webp" width="840" loading="lazy" alt="Luce rossa, luce verde: gioco di sopravvivenza 3D"></a>
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/red-light-green-light"><img src="../assets/previews/84f6cc05297c55dbff29efa96e078a058033ef50cc7728742e9763fc7e5fa530.webp" width="840" loading="lazy" alt="Luce rossa, luce verde: gioco di sopravvivenza 3D"></a>
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/red-light-green-light"><img src="../assets/previews/72fb7e7da6b73b8c8ef8a629b4c30998705c6c3608a728279c362b896c3f2d3a.webp" width="840" loading="lazy" alt="Luce rossa, luce verde: gioco di sopravvivenza 3D"></a>
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/red-light-green-light"><img src="../assets/previews/b9ace1daadd1f8a9cd2438663ad1d73f1b231db113ebec94dcc65bb7eac51195.webp" width="840" loading="lazy" alt="Luce rossa, luce verde: gioco di sopravvivenza 3D"></a>
+
+Gareggia contro una bambola gigante e guardie armate in un teso gioco stop-and-go di 42 secondi. Scatta, gestisci la resistenza, immobilizzati con la luce rossa e confronta i personaggi procedurali con i modelli Tripo reali.
+
+**Prompt**
+
+```text
+1. Obiettivo del progetto
+Crea Red Light, Green Light, un gioco di sopravvivenza 3D single-player ambientato in un’arena, ispirato alla classica sfida stop-and-go. Il giocatore è il concorrente 456 e gareggia contro 23 concorrenti IA locali in un’arena lunga 62 metri, entro 42 secondi. Tenere premuto un unico input fa avanzare; rilasciarlo arresta immediatamente il personaggio. Ogni tentativo concede una sola vita. Realizza un gioco giocabile, non un mockup né una scena preregistrata. È un gioco indipendente, non un prodotto televisivo ufficiale.
+
+2. Direzione visiva e gerarchia della schermata
+Usa Three.js con una prospettiva cinematografica in terza persona: sabbia calda e polverosa, alte pareti rosa sbiadito con pannelli inferiori verde menta e colline dipinte, torri di guardia, alberi spogli, una bambola gigante arancione e gialla oltre il traguardo, tute da ginnastica color teal e guardie rosa mascherate. Una luce dorata direzionale, ombre di contatto morbide, foschia discreta, segni delle corsie tracciati col gesso e poca polvere devono creare profondità senza un post-processing pesante. L’arena deve riempire il viewport. Posiziona il titolo riconoscibile in basso a sinistra nella schermata iniziale e mantieni compatte le istruzioni. Durante la partita mostra un piccolo contatore del tempo e dei giocatori vivi, un segnale centrale con colore e testo, l’avanzamento e un solo pulsante da tenere premuto per correre. Non sostituire il gameplay con pannelli di testo sovradimensionati. Adatta i layout verticali senza deformare la visuale 3D.
+
+3. Movimento, scatto e rilevamento degli arresti
+Tieni premuto Spazio, W, Freccia su o il pulsante di corsa per muoverti. A/D o Freccia sinistra/destra servono per sterzare, ma la sterzata è facoltativa. Tieni premuto Shift per scattare; sui dispositivi touch, tieni premuto il pulsante e trascina verso l’alto per più di 38 pixel per scattare, usando il trascinamento orizzontale per sterzare. La velocità normale è di 3,6 metri al secondo; quella dello scatto è di 5,65, prima dei piccoli bonus della serie. Lo scatto consuma resistenza; fermarsi la ripristina. Quando la resistenza è esaurita, lo scatto viene disabilitato finché non ne viene recuperata a sufficienza. Rilasciare l’input in avanti arresta immediatamente il personaggio, senza inerzia nascosta. Annulla ogni movimento e scatto quando il gioco è in pausa, perde il focus, cambia l’interfaccia della lingua, cambia lo stile del renderer, si riprova o termina. Gestisci correttamente più tasti tenuti premuti e un solo puntatore attivo.
+
+4. Ritmo del round e conseguenze
+Implementa gli stati pronto, conto alla rovescia, in corso, in pausa, morente, perso e vinto. Un conto alla rovescia di tre secondi avvia un round di 42 secondi. Alterna fasi verdi di corsa, avvisi ambra visibili durante la rotazione e sorveglianza rossa. La prima fase verde dura 3,4 secondi; le successive variano e si accorciano con l’avanzare del round. L’ambra dura 0,65–0,95 secondi e non scompare mai senza preavviso. La luce rossa dura circa 2,1–3,35 secondi. La bambola inizia a girarsi durante l’ambra e si rivolge ai concorrenti con la luce rossa. Dopo una breve tolleranza nella transizione al rosso, il movimento continuato riempie un indicatore di rilevamento visibile e attiva lo sparo di una guardia. Non eliminare casualmente un giocatore fermo. Anche lo scadere del tempo elimina il giocatore. Mostra una breve sequenza di 1,65 secondi con telecamera sull’impatto e sulla caduta prima dei risultati, quindi consenti di riprovare immediatamente. Attraversare il traguardo mette al sicuro.
+
+5. Tensione, avversari e ricompense
+Assegna ai 23 concorrenti IA velocità e tempi di reazione indipendenti. Un concorrente vicino e lento a reagire viola visibilmente la prima luce rossa e viene colpito, stabilendo la minaccia senza simulare la sconfitta del giocatore. Gli errori successivi attivano raffiche limitate di eliminazioni. Orienta una guardia armata vicina verso ogni bersaglio effettivo, allinea l’origine dello sparo alla volata del fucile, mostra un breve lampo di bocca a forma di stella, un tracciante sottile, polvere d’impatto attenuata e una caduta non grafica. Usa un pool riutilizzabile di otto effetti. Fermarsi negli ultimi 0,34 secondi prima del rosso assegna punti per l’arresto perfetto, una serie e un piccolo ripristino della resistenza. Gli ultimi 18 secondi aumentano l’urgenza audio e visiva. Mantieni regole deterministiche con seed per i test, mentre nella partita normale varia gli eventi a ogni tentativo.
+
+6. Personaggi Tripo reali e confronto procedurale
+Usa per impostazione predefinita asset GLB autentici generati da Tripo P2: la bambola dell’arena, il concorrente teal con clip scheletriche di attesa, corsa e vittoria, e una guardia armata mascherata. Mantieni la provenienza dei modelli originali e riutilizza gli originali forniti; non rigenerare asset equivalenti senza necessità. Normalizza gli assi forward, la scala e l’allineamento dei piedi al pavimento. Ruota la testa della bambola in modo indipendente. Mantieni l’eroe completamente skinnato; per gli avversari lontani usa istanze di pose condivise e pre-baked, immobilizzandoli fedelmente con la luce rossa. Fornisci in alto al centro un toggle ben visibile Three.js / Tripo che cambi istantaneamente l’aspetto dei personaggi senza reimpostare distanza, tempo, punteggio o round. La modalità Three.js usa concorrenti, bambola e guardie armate composti da geometrie articolate. Entrambe le modalità usano Three.js; non lasciare intendere che l’intero ambiente sia stato generato da Tripo.
+
+7. Audio e accessibilità
+Usa Web Audio sintetizzato per note d’avviso, battito cardiaco teso, passi, spari direzionali e brevi echi, segnali acustici dell’arresto perfetto e vittoria. Sblocca l’audio solo dopo un’interazione, limita l’ampiezza per evitare il clipping e offre un comando per disattivare l’audio. Il significato di rosso e verde deve essere comprensibile attraverso le parole oltre che attraverso il colore. Fornisci una modalità a movimento ridotto, disattivando lampi e movimento della telecamera ma mantenendo esiti comprensibili. Supporta il focus da tastiera, impostazioni compatte, pausa/ripresa e un recupero chiaro dagli errori. In caso di errore degli asset, passa visibilmente alla modalità procedurale, mantieni il gioco giocabile e rendi disponibile un nuovo tentativo.
+
+8. Lingue, persistenza e autore
+Includi un’interfaccia completa in inglese, cinese semplificato e spagnolo. Alla prima visita seleziona la prima lingua supportata dal browser, usando l’inglese come fallback; conserva la selezione manuale su questo dispositivo. Localizza istruzioni, stato, resistenza, errori e risultati. Titolo: Red Light, Green Light / 一二三，木头人 / Luz roja, luz verde. Salva il record personale locale, non una classifica globale inventata. Dai credito a jared con https://x.com/jaredliu_bravo. Non sono necessari registrazione, pagamento, multiplayer o caricamento di modelli personalizzati per giocare.
+
+9. Engineering, prestazioni e criteri di accettazione
+Usa un progetto Vite/Three.js isolato con lockfile e script, font e GLB inclusi e serviti dalla stessa origine. Non inserire chiavi API né URL firmati temporanei nella build. Condividi texture e materiali, unisci l’architettura statica, usa istanze per gli elementi ripetuti e per le pose della folla, limita dinamicamente il pixel ratio e limita gli aggiornamenti delle ombre. Separa logica di gioco, controller degli input, scena, effetti di combattimento, audio, localizzazione e UI. Testa la possibilità di vittoria con seed, l’esaurimento e il recupero della resistenza, gli arresti esatti, l’equità del rilevamento, il traguardo sicuro, il timeout/morte/nuovo tentativo, il cronometraggio in pausa, la gestione di più tasti e del puntatore e le traduzioni. Poi verifica in un browser reale: apertura, scatto, avviso rosso e spari, morte, vittoria, nuovo tentativo, entrambe le modalità dei personaggi, controlli verticali, audio ed errori delle risorse. Misura il tempo effettivo dei frame invece di dichiarare 60 FPS sulla base della configurazione. Produci una registrazione fluida di 20–60 secondi di gameplay in tempo reale e almeno quattro screenshot autentici degli stati; indica il metodo di registrazione del canvas/HUD. Verifica separatamente il gioco finale pubblicato, la riproduzione e la ricerca nei contenuti multimediali pubblici e la policy del CMS per l’anteprima e il download degli asset.
+
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/red-light-green-light) · [Demo](https://red-light-green-light.tripo.page/) · [Torna agli esempi](#all-prompts)
+
+---
+
 <a id="titanic-the-last-light"></a>
 
 ### TITANIC — L’ultima luce
@@ -3794,125 +3918,10 @@ Ispezionare l’apertura, entrambi i ritratti dei personaggi, la collisione, i r
 
 ---
 
-<a id="akari-nagoya-rooftop-flame-relay"></a>
-
-### AKARI: Staffetta della fiamma sui tetti di Nagoya
-
-[Jared](https://growthengineer.space/) · 2026-09-16
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/akari-nagoya-rooftop-flame-relay"><img src="../assets/previews/a4e87498dd6f6dfa75a47afbbb84b6496477ef4145097ceb6735f644d82b52ca.webp" width="840" loading="lazy" alt="AKARI: Staffetta della fiamma sui tetti di Nagoya"></a>
-
-Crea un gioco Three.js completo, pensato prima di tutto per il giapponese: salta da un tetto all’altro, illumina Nagoya e salva un poster del festival. Inizia con asset procedurali, poi migliorali tramite Tripo Studio senza una chiave API.
-
-**Prompt**
-
-```text
-# AKARI — Atlante delle luci di Nagoya
-
-## 1. Obiettivo
-Realizza un browser game completo, con il giapponese come lingua principale, in cui una fiamma astratta compie sette salti a tempo e illumina una Nagoya in miniatura prima degli Asian Games Aichi–Nagoya, dal 19 settembre al 4 ottobre 2026. Riproduci l'attuale edizione introduttiva a due mappe disponibile su https://akari-nagoya-rooftop-relay.tripo.page/ e i riferimenti visivi forniti. La precedente scena generica sui tetti non è il risultato richiesto.
-
-## 2. Direzione visiva
-Usa una vista dall'alto a tre quarti in stile atlante, uno sfondo blu navy notte, titoli serif giapponesi color avorio caldo, sottili linee dorate e una grana discreta. Su desktop, riserva il terzo sinistro all'invito iniziale e incornicia a destra due tile rialzate della mappa; sui telefoni, ricomponi il layout con la mappa sopra i controlli. Inizia con edifici scuri e desaturati e corsi d'acqua color teal. Al successo, ripristina il verde, i tetti in rame turchese, le finestre calde e le luci dorate del percorso. Mantieni leggibili la fiamma e il bersaglio successivo. Usa ombre morbide, profondità atmosferica e un bloom controllato; evita i riflessi bianchi. Riproduci il titolo giapponese iniziale, le etichette dei punti di riferimento e l'intestazione/piè di pagina editoriale sottile visibili nel riferimento.
-
-## 3. Mondo
-La tile più grande a nord-ovest comprende Meijo Park, il Castello di Nagoya, l'Aichi International Arena, Hisaya-odori Park, MIRAI TOWER e Oasis 21. La tile a sud-est comprende il City Museum, Mizuho-dori, Mizuho Park e il relativo stadio atletico, con il fiume Yamazaki a est dello stadio. Aggiungi quartieri moderni bassi, alberi nei parchi, segnaletica stradale, argini e apparecchi luminosi caldi; riserva l'architettura del castello al castello.
-
-Capitolo 1: Meijo Park → Sotobori/Hisaya-odori → Hisaya-odori Park → Oasis 21, tre salti. Crea un trasferimento di capitolo chiaramente segnalato e non giocabile verso il City Museum. Capitolo 2: City Museum → Mizuho-dori → Mizuho Undojo Nishi → verso Mizuho Park → South Plaza, quattro salti. Non rappresentare mai il trasferimento come una strada continua e non conteggiarlo come un salto. Salva i progressi al secondo capitolo. Le mappe usano scale diverse, con le distanze compresse per il gameplay. Spiegalo brevemente nella sezione About, insieme alle date storiche della staffetta, 22 agosto e 16 settembre 2026; non sono inviti a eventi futuri. Cita https://www.aichi-nagoya2026.org/ja/torch-relay/ e https://www.nagoyajo.city.nagoya.jp/guide/kinshachi/. Usa ornamenti originali e una fiamma astratta invece di una mascotte o di un emblema ufficiale.
-
-## 4. Inventario degli asset
-Usa questi slot sostitutivi stabili, in ordine di priorità; mantieni lo stesso layout e gli stessi proxy di collisione in entrambe le modalità visive:
-- `shachi`: ornamento da tetto in oro antico lucidato, con testa simile a quella di una tigre, corpo ricurvo da carpa ricoperto di scaglie e coda arricciata verso l'alto; ripetilo sul castello.
-- `castle`: mastio color avorio ispirato a Nagoya, con struttura in legno scuro, tetti a padiglione e a capanna sfalsati color turchese e fondazioni in pietra.
-- `mizuho`: ampio stadio atletico ovale, con tetto chiaro ad anello aperto e sostegni ritmici; mantieni visibili la pista e il campo verde attraverso il centro.
-- `arena`: arena contemporanea bassa, con tetto ampio e calde lamelle verticali sulla facciata, a nord dell'asse del parco.
-- `tower`: torre panoramica slanciata in reticolo d'argento, con piattaforma squadrata e antenna.
-- `oasis`: copertura allungata, ovale, in vetro/acqua turchese, su sottili sostegni chiari.
-- `midrise`: edificio di quartiere giapponese moderno e sobrio; riutilizzalo variando altezza e orientamento, includendo volumi museali semplici.
-- `tree`: albero maturo compatto da parco, con tronco marrone e chioma verde a strati; istanzialo in entrambe le tile.
-Mantieni terreno, strade, acqua, segnaletica della pista, indicatori dei salti, fiamma astratta, scie luminose, fuochi d'artificio e UI procedurali. Ogni modello deve essere un oggetto completo e isolato; preserva i passaggi aperti e il centro dello stadio. Tieni traccia di tutti gli slot elencati, inclusi gli asset di sfondo ripetuti.
-
-## 5. Gameplay e ricompense
-Tieni premuto il puntatore/touch o la barra spaziatrice per caricare; rilascia per saltare automaticamente verso il marker successivo. Usa una fisica deterministica basata sul delta time: distanza = 1.8 + 7 × carica, la carica oscilla tra 0 e 1 e l'arco aggiunge 4 × t × (1 − t) × 3.6 all'altezza interpolata. Il ciclo di carica accelera da circa 1.42 a 0.92 secondi per direzione. Ricava traiettoria, zona sicura verde e zona perfetta dorata dallo stesso calcolo: un errore ≤0.36 è perfetto; ≤1.15 è sicuro, con una tolleranza aggiuntiva di 0.28 per i primi due salti.
-
-Un atterraggio sicuro assegna 100 punti; uno perfetto assegna 200 × moltiplicatore consecutivo, fino a ×4. Un follow-up eseguito entro 2.35 secondi aggiunge 50 punti; azzera la combo dopo un atterraggio sicuro, un trasferimento di capitolo o 3.4 secondi di attesa. Ogni successo invia un'onda luminosa nel quartiere, illumina le finestre e aggiunge lanterne. Mostra l'avanzamento in sette passaggi, il punteggio, la combo e il record. Gli errori devono consentire un riavvio rapido; dopo il trasferimento, ripristina il checkpoint del capitolo. Fornisci pausa, riavvio, recupero dopo il passaggio a una scheda nascosta e audio opzionale dopo l'interazione.
-
-Dopo il salto finale, rivela entrambe le mappe illuminate con un arretramento della camera di 4.6 secondi e fuochi d'artificio entro limiti definiti. Mostra il grado S per sette atterraggi perfetti, A per quattro o più, altrimenti B. Includi rigioca, viste della città prima/dopo dalla stessa camera e un vero poster PNG da 1800×1200 con titolo, date, punteggio e attribuzione del progetto indipendente.
-
-## 6. Implementazione
-Usa Vite, TypeScript e Three.js; separa geografia, fisica/punteggio puri, scena, effetti, registro dei modelli, localizzazione giapponese/inglese e UI. Il giapponese resta la lingua predefinita indipendentemente dalla lingua del prompt; mantieni la scelta della lingua tra le sessioni. Includi font e asset localmente nel bundle. Usa GLTFLoader e la normalizzazione per slot; mantieni l'ultimo modello funzionante dopo un'importazione non valida. Conserva punteggio, checkpoint, camera e illuminazione nel confronto tra visual semplici e importati. Istanzia alberi/edifici, unisci la geometria statica compatibile, limita il DPR e il numero di particelle. Valuta il tempo effettivo dei frame e la complessità del modello invece di rifiutare un modello solo perché supera un obiettivo di triangoli. Usa Blender soltanto se un asset restituito richiede pulizia della mesh, correzione del pivot o l'apertura del centro dello stadio; conserva il file originale.
-
-## 7. Criteri di accettazione
-Consegna il codice sorgente eseguibile, il lockfile, i comandi di sviluppo/build e una build statica. Verifica sette salti attraverso entrambi i capitoli, il recupero dopo trasferimento/checkpoint, errore/ritentativo, punteggio, input touch, pausa, persistenza giapponese/inglese, tutti i fallback degli slot e l'esportazione effettiva del poster. Confronta screenshot stabilizzati dell'apertura e del finale con l'attuale riferimento a due mappe. Riporta le prestazioni misurate e i test effettivamente eseguiti. Il seguente workflow condiviso disciplina la generazione e la restituzione dei modelli.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/akari-nagoya-rooftop-flame-relay) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="cyclops-island-threejs-game"></a>
-
-### L’isola del Ciclope
-
-[Jared](https://x.com/jaredliu_bravo) · 2026-09-16
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/cyclops-island-threejs-game"><img src="../assets/previews/2a209be513b7970f566af81131521dc31c84ef7d86eb8868facd389d23b3624d.png" width="840" loading="lazy" alt="L’isola del Ciclope"></a>
-
-Crea prima un gioco completo di fuga dall’isola in Three.js, usando semplici modelli animati. Poi migliora uno alla volta il protagonista, il Ciclope, la nave, gli alberi e la grotta tramite Tripo Studio, usando immagini di riferimento o prompt testuali dell’agente host. Non è necessario accedere alle API di Tripo.
-
-**Prompt**
-
-```text
-# ODYSSEY — L’isola del Ciclope
-
-## 1. Obiettivo
-Crea un gioco di fuga isometrico completo, ispirato al Libro IX dell’Odissea. Nei panni di Odisseo, guida tre membri dell’equipaggio a rubare le provviste dalla caverna, sopravvivere all’inseguimento e agli attacchi di Polifemo e fuggire a bordo di una nave greca. Tutta l’interfaccia di gioco è in inglese. Usa https://cyclops-island.tripo.page/ e i riferimenti forniti; mantieni l’attribuzione a Jared e l’ispirazione dal concept dell’isola dell’Odissea di Jason Chew.
-
-## 2. Direzione visiva
-Componi un’isola mediterranea da tavolo, ricca di texture, larga circa 25 unità di mondo, immersa in un mare egeo verde petrolio intenso. Usa una camera ortografica a tre quarti vicino a (19,31,34), pietra calcarea calda, ulivi color salvia, tessuti terracotta, armature di bronzo e pergamena color crema. Applica tone mapping ACES, ombre direzionali calde, profondità atmosferica, bloom contenuto, vignettatura e grana. Mantieni leggibili gli indicatori di pericolo sotto gli effetti.
-
-Usa titoli serif nello stile di Cormorant Garamond e un’interfaccia nello stile di DM Sans. In alto a sinistra: un sigillo Ω, ODYSSEY / AN INTERACTIVE MYTH, BOOK IX e The Cyclops’ Island. In alto a destra, una scheda di confronto in crema ben visibile con la scritta “One island. Two worlds.” e i controlli Tripo World e Original. In basso a sinistra: fase della missione, tre cuori, stamina e numero dei membri dell’equipaggio. Mostra in alto lo stato del boss, sotto una piccola bussola/minimappa, i controlli della camera visibili e suggerimenti concisi sui comandi. Sui telefoni, usa testi decorativi compatti e controlli separati per missione, boss, confronto e schivata.
-
-## 3. Mondo
-Un sentiero tortuoso di sabbia chiara conduce verso nord da una spiaggia meridionale fino a una caverna di pietra calcarea, attraversando uliveti. Il gigante dorme vicino alla caverna; Odisseo e l’equipaggio iniziano sul sentiero meridionale. Posiziona a sud-ovest, vicino al molo, una nave di legno con vele rosse. Circonda la costa con massi irregolari, erba, cipressi e bassi fondali turchesi. Anima le increspature del mare, la schiuma sulla battigia, gli alberi, la luce del fuoco, gli uccelli e il dondolio della nave. Il movimento dell’oceano deve rimanere corretto quando la camera ruota.
-
-## 4. Inventario degli asset
-Prepara gli slot di sostituzione nel seguente ordine:
-- `odysseus`: avventuriero greco barbuto, elmo corinzio di bronzo con cimiero cremisi, corazza usurata, tunica color avorio, mantello terracotta, sandali, piccolo scudo e spada nel fodero. Riutilizzalo per tre membri dell’equipaggio, con skeleton e fasi di animazione indipendenti.
-- `polyphemus`: gigante massiccio con un unico occhio centrale, pelle olivastra abbronzata, capelli e barba scuri e ricci, perizoma di pelliccia e pelle, piedi nudi spessi e clava di legno; corpo intero in una posa neutra adatta al rigging.
-- `ship`: scafo stretto in noce scuro, prua rialzata, rostro di bronzo, albero, vela rosso terracotta, sartiame in corda e remi laterali; senza acqua né base espositiva.
-- `olive`: tronco grigio-marrone nodoso, radici estese e chioma color salvia irregolare; riutilizzalo circa 25 volte.
-- `cave`: ampio arco indipendente in pietra calcarea stagionata, con un passaggio realmente aperto, rocce massicce e muschio scarso; costruisci separatamente l’interno scuro.
-- `cypress`: albero mediterraneo slanciato e affusolato, con fogliame fitto verde scuro.
-- `boulder`: roccia costiera irregolare in pietra calcarea calda; riutilizzala con variazioni di scala e rotazione.
-Mantieni terreno, sentiero, acqua, erba, indicatori delle provviste, telegraph degli attacchi, particelle e interfaccia procedurali. Tieni traccia di ogni slot e conserva la mappa di gioco durante la sostituzione dell’aspetto.
-
-## 5. Incontro di fuga
-Usa WASD/frecce relative alla camera e il movimento con clic/tocco, con navigazione A* che tenga conto del raggio. L’equipaggio segue in modo approssimativo; il giocatore e il gigante rispettano terreno, confini e ostacoli in base alle rispettive dimensioni. Shift attiva lo scatto, Spazio o il grande pulsante touch la schivata, E raccoglie le provviste vicine, P mette in pausa, Q/R ruotano la visuale e F segue l’eroe. Supporta trascinamento/panoramica, trascinamento con tasto destro/rotazione, scorrimento/zoom e pinch touch. Durante l’inseguimento, il movimento con clic attiva lo scatto finché la stamina lo consente.
-
-Fase 1: avvicinati alla caverna; la vicinanza e uno scatto rumoroso aumentano il sospetto e possono svegliare il gigante. Fase 2: raccogli le provviste solo a distanza ravvicinata, svegliandolo sempre. Fase 3: sopravvivi per 11 secondi cumulativi all’interno del raggio contrassegnato del molo, di circa 2,7 unità, vicino a (-0.8,8.7), mentre l’equipaggio sale a bordo; uscire dall’area mette in pausa l’avanzamento.
-
-Assegna tre punti salute e 100 punti stamina. Velocità iniziali: camminata 2,35, scatto 4,15 e corsa del gigante 3,4 unità al secondo. Il gigante deve inseguire il bersaglio fino a una distanza di 3,6 unità prima di attaccare. Usa gli stati di sonno, risveglio, inseguimento, preparazione, impatto, recupero e conclusione. Ground Breaker blocca la posizione del giocatore all’inizio di una preparazione di 1,12 secondi, mostra un cerchio di raggio 2,45 e colpisce una sola volta; il bersaglio non deve seguire il giocatore. Ogni terzo colpo al suolo rilascia un’onda d’urto caricata ed espansiva chiaramente indicata; il danno segue il bordo dell’anello in movimento.
-
-La schivata dura circa 0,34 secondi, costa 24 stamina e ha un cooldown di 1,25 secondi, una breve invulnerabilità e il confinamento al terreno valido. Lo scatto consuma stamina; il riposo la ripristina. I colpi causano contraccolpo, feedback di ferita e immunità temporanea. La sconfitta reimposta tutti gli attori, i timer, gli effetti e lo stato della missione. La fuga interrompe i danni e apre un riepilogo della partita. La pausa blocca simulazione, animazioni ed effetti. Regola la fase di imbarco in modo che richieda diverse schivate, incluso un attacco caricato.
-
-## 6. Implementazione e animazione
-Usa Vite, Three.js e moduli JavaScript ES per mondo, navigazione, incontro, attori, effetti, audio e interfaccia. Includi tutti gli asset runtime localmente in una build statica. I modelli articolati iniziali devono camminare/correre, dormire/svegliarsi, schivare e mostrare chiaramente la preparazione e il colpo. Per le sostituzioni skinned usa AnimationMixer, i nomi effettivi delle clip, brevi crossfade e SkeletonUtils.clone per skeleton separati dell’equipaggio. Evita il doppio movimento del root e lo scivolamento dei piedi. Sincronizza il colpo discendente del gigante con l’impatto di gioco; gli import statici non devono essere segnalati come animati. Mantieni un fallback articolato funzionante quando necessario. Usa Blender solo per le riparazioni necessarie di rig, pivot, clip o mesh.
-
-Sincronizza telegraph arancioni/dorati, flash dell’impatto, crepe nel terreno, polvere, scintille, frammenti di roccia cadenti, anelli in espansione, brevi lampi di luce e vibrazione della camera. Aggiungi scie alla schivata e audio sintetizzato opzionale attivato dai gesti. Metti in pool gli effetti, istanzia gli elementi dello scenario e misura il frame time. Normalizza gli import con piedi/radici a terra e proxy di collisione invariati. Il confronto deve conservare posizioni, missione, salute, stamina, camera e stato delle animazioni; gli import falliti mantengono i modelli funzionanti. Includi un controllo discreto Change hero e l’importazione locale dei modelli con stato per ogni slot.
-
-## 7. Criteri di accettazione
-Consegna il codice sorgente, il lockfile, i comandi npm per sviluppo/build e l’output statico. Verifica la navigazione tra gli ostacoli, il risveglio anticipato, la raccolta a distanza ravvicinata, l’inseguimento prima dell’attacco, i bersagli bloccati, gli attacchi temporizzati, l’immunità durante la schivata, i danni sul bordo dell’onda d’urto, la sconfitta/reimpostazione e una fuga riuscita. Controlla l’animazione indipendente dell’equipaggio, tutti i fallback degli slot, il confronto con stato conservato, il layout desktop/mobile e gli errori di caricamento. Confronta gli screenshot stabilizzati con il riferimento e riporta le prestazioni effettive. Usa il workflow condiviso qui sotto per la generazione dei modelli e restituisci il risultato.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/cyclops-island-threejs-game) · [Post originale](https://x.com/jaredliu_bravo) · [Demo](https://cyclops-island.tripo.page/) · [Torna agli esempi](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 334 esempi sul sito ufficiale →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 344 esempi sul sito ufficiale →</a></strong></p>
 <p><sub>Per mantenere fluido il rendering del README su GitHub, qui mostriamo solo i 100 esempi più recenti.</sub></p>
 <br>
 </td></tr>
