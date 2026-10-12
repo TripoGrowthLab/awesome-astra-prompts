@@ -3811,17 +3811,17 @@ Vite + 바닐라 JavaScript + Three.js를 사용하고 GLTFLoader, RoomEnvironme
 
 [jared](https://x.com/jaredliu_bravo) · 2026-10-12
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/red-light-green-light"><img src="../assets/previews/99f1d6d504e215ea1ceadd6dd2c974fb94a4ab06dbd02b73def7d699661f7068.webp" width="840" loading="lazy" alt="무궁화꽃이 피었습니다: 3D 서바이벌 게임"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/red-light-green-light"><img src="../assets/previews/f0cd12ce7ed0dc81cf023e84cfc2e428e21400ed984c6e6405b89eec2d6158ac.webp" width="840" loading="lazy" alt="무궁화꽃이 피었습니다: 3D 서바이벌 게임"></a>
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/red-light-green-light"><img src="../assets/previews/9d95882c5b7f177f3b8d35ac60a2a82f3fcb90219cf253658364efa78e7fe85c.webp" width="840" loading="lazy" alt="무궁화꽃이 피었습니다: 3D 서바이벌 게임"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/red-light-green-light"><img src="../assets/previews/385d9e2014a3f7ad5f57382f100f391f741e59e4d1bde729dd9811d6e1f8fdf8.webp" width="840" loading="lazy" alt="무궁화꽃이 피었습니다: 3D 서바이벌 게임"></a>
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/red-light-green-light"><img src="../assets/previews/4539b6704031f43e10bb023ae5f25b054e646bc7fe3afa789b75b3b6bb4a5019.webp" width="840" loading="lazy" alt="무궁화꽃이 피었습니다: 3D 서바이벌 게임"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/red-light-green-light"><img src="../assets/previews/0f2cc98d286c448c959255fae28afea86dc8ee7a516410e2c27e6fb5c3bca23b.webp" width="840" loading="lazy" alt="무궁화꽃이 피었습니다: 3D 서바이벌 게임"></a>
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/red-light-green-light"><img src="../assets/previews/84f6cc05297c55dbff29efa96e078a058033ef50cc7728742e9763fc7e5fa530.webp" width="840" loading="lazy" alt="무궁화꽃이 피었습니다: 3D 서바이벌 게임"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/red-light-green-light"><img src="../assets/previews/288746ae7c32efddbfb5b8455af62b45358f51901856ac884452f990ae10196c.webp" width="840" loading="lazy" alt="무궁화꽃이 피었습니다: 3D 서바이벌 게임"></a>
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/red-light-green-light"><img src="../assets/previews/72fb7e7da6b73b8c8ef8a629b4c30998705c6c3608a728279c362b896c3f2d3a.webp" width="840" loading="lazy" alt="무궁화꽃이 피었습니다: 3D 서바이벌 게임"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/red-light-green-light"><img src="../assets/previews/04114d42ef8ceeef1a9cdb52e7c3a92f74c84ccd1615428ba180a52b597736b0.webp" width="840" loading="lazy" alt="무궁화꽃이 피었습니다: 3D 서바이벌 게임"></a>
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/red-light-green-light"><img src="../assets/previews/b9ace1daadd1f8a9cd2438663ad1d73f1b231db113ebec94dcc65bb7eac51195.webp" width="840" loading="lazy" alt="무궁화꽃이 피었습니다: 3D 서바이벌 게임"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/red-light-green-light"><img src="../assets/previews/4a418cd1973a7b18131f58ad925c2f6423d5627181a16ad5a4b743beaa5033f6.webp" width="840" loading="lazy" alt="무궁화꽃이 피었습니다: 3D 서바이벌 게임"></a>
 
 거대한 인형과 무장 경비병을 상대로 긴장감 넘치는 42초간의 멈춤-이동 게임을 펼쳐 보세요. 전력 질주하고 스태미나를 관리하며, 빨간불에는 멈추고, 절차적으로 생성한 캐릭터와 실제 Tripo 모델을 비교해 보세요.
 

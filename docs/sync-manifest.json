@@ -238,77 +238,77 @@
   "files": [
     {
       "path": "assets/manifest.json",
-      "sha256": "19e56612fc63c3f4e8e9c5eab95eca242bae39294605c16ccce06d3e04951819",
+      "sha256": "cbcbefbea772ec81acb1a148c4936167c4d9421a1e0513a03276e23a19472c2b",
       "bytes": 65060
     },
     {
       "path": "docs/catalog.de.md",
-      "sha256": "f628f7e22a0aeb67e0a9135a5fdd328e855d4c21156aefdeba1efcb1323181ba",
+      "sha256": "f595f9cb9fa0ad3b738620c679d271ee22fc4f032a5deeaf4f58c3ebac9f2cb5",
       "bytes": 382284
     },
     {
       "path": "docs/catalog.en.md",
-      "sha256": "5aedf3380112ba53b10ec9679f09ca240712b97b511cde01f5a0e7cdb926cca5",
+      "sha256": "e7437ed0cc066756b98787b876c9aa49919ac9a92e0076fbfaaaaf3d5e3396e3",
       "bytes": 320288
     },
     {
       "path": "docs/catalog.es.md",
-      "sha256": "f41c25e0c4377f525bfb25e84d50f44101999e4ce84201d63ac526844bfa74a2",
+      "sha256": "ff7ed8111e909a2604472e0f16e1676e1e9999ef96a9a97b45d46432af96ab52",
       "bytes": 386764
     },
     {
       "path": "docs/catalog.fr.md",
-      "sha256": "1dac32108be46bb9d65df65998e44eaa818f489d9049854d40ff386865a390dd",
+      "sha256": "06fa03f5e83fa98a3e9bd5c1606835324d61f661ead6b1fad7b346b4854515f8",
       "bytes": 404441
     },
     {
       "path": "docs/catalog.it.md",
-      "sha256": "3f9cf745df7e2724ab272c155758e0f45af4e3f4fa7b76713da3c16395f71a2d",
+      "sha256": "d98105e6a47d71c7b95be4e1d0623fe427a08a7eb658cdac0d1774a5b2d6eaf6",
       "bytes": 377187
     },
     {
       "path": "docs/catalog.ja.md",
-      "sha256": "b8a65acd9206613dc9813fc377eab307db1cf1a512d1288d51b5ac3caeac85f8",
+      "sha256": "6372e4cd5354d917fa4980e4d5c9fa58ae791e6b7e9f05076aad2e16c15c6334",
       "bytes": 432732
     },
     {
       "path": "docs/catalog.ko.md",
-      "sha256": "405fb2ef73fb991ca9d79314cb96bf374a3cff62521109b0e15a5829a8614523",
+      "sha256": "988e25534090c706aac8b70a61bdf452de562c341b48cfcb39a72d955164d576",
       "bytes": 403683
     },
     {
       "path": "docs/catalog.pt.md",
-      "sha256": "c2561e0ac04e7836a62ba39e10e4e15072262e6b80bf9519f0dcfc3ac937a76c",
+      "sha256": "2f4c6029942844166d7dd871c4fc76f1434253924bf491c6f1973551e7fe2808",
       "bytes": 373983
     },
     {
       "path": "docs/catalog.ru.md",
-      "sha256": "ac7a48c53d796013d9eb2deb8f8629f667977ba4fed374dfc448676b3e2c6cb2",
+      "sha256": "905c6fce2ed3e691c582e774a16b8a5a1571527150724075b4f19118e0307961",
       "bytes": 604618
     },
     {
       "path": "docs/catalog.tr.md",
-      "sha256": "73095267a1dca31fe9ebcd218a1c3eeae7a42390ea59ea9ed1a08e966f217f2d",
+      "sha256": "06a39c2135bf9eb30d7c714961cf7b0bb8877718694e13b28cf297f429e8c47f",
       "bytes": 381259
     },
     {
       "path": "docs/catalog.uk.md",
-      "sha256": "39393cf01942a000403b72500c590561d791576ef7304d502bba4ed6ca9a45f6",
+      "sha256": "0d62a388977f7df112bd9fe2c66a3bd1b1cd55d7f390ad7a54a87ca32114c173",
       "bytes": 585425
     },
     {
       "path": "docs/catalog.vi.md",
-      "sha256": "307ae63168720bca9c026f815aacabf7137a8dadf410de639552087388009000",
+      "sha256": "dafaaadc6ed65fcff764992b05a0db8df39bfa8877642dfaf72c491d451a5ce3",
       "bytes": 419482
     },
     {
       "path": "docs/catalog.zh-Hant.md",
-      "sha256": "88260eb48acfc222cb341b2c299716f353b243cb545cec5b5a19515021511e85",
+      "sha256": "1b889c724bbc21304a1165e5df8cf0d9734e03f518dbc1091e54e30a949f9129",
       "bytes": 322620
     },
     {
       "path": "docs/catalog.zh.md",
-      "sha256": "f5f69f7c997f744fc0cc5c0ca26778fc14e23c242d28146dd5b51c48d949d07a",
+      "sha256": "9619c648789e5c3ac73c4a8c03110227b07aefc51fa5daf28ed76cd7f6260bdb",
       "bytes": 322957
     },
     {
@@ -318,12 +318,12 @@
     },
     {
       "path": "README.md",
-      "sha256": "62660fb8ccca1b332a1c2043941ae5b3bf8f42005474fb98d8885617ae381c16",
+      "sha256": "037286488a4e76a5775031c32523a05295b7071b8b6d2f51b8104e505591a4b4",
       "bytes": 319817
     },
     {
       "path": "README.zh-CN.md",
-      "sha256": "787e8836e70d4612d80ddb9f7f5ac83a261d8b9455e4c3185c66d15a4933f286",
+      "sha256": "bdfc58ed72c41f5cf5141d8d054a4aabacef465a4d4a24cd8886c2bf9c0985b4",
       "bytes": 322486
     }
   ]
