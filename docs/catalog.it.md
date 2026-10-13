@@ -28,7 +28,7 @@
 **Un punto di partenza per il tuo prossimo gioco, scena o mondo interattivo.**
 
 
-**344 · Prompt Astra più recenti**
+**345 · Prompt Astra più recenti**
 
 ## Progetti in evidenza
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Esplora gli esempi</summary>
 
-- [Scena interattiva voxel con cavaliere e falò](#2100350159540596760)
 - [Aggiungi una catena di manutenzione al corrimano](#2100519026720231698)
 - [Creare un gioco di corse 3D](#2100526922770026874)
 - [Gioco 3D di fuga nel browser da una struttura di ricerca chiusa](#2100595652703199281)
@@ -143,6 +142,7 @@
 - [Gioco sandbox di guida open world low-poly](#2109153428635267345)
 - [Modello di goblin in Blender con animazione di camminata](#2109268147068862675)
 - [Studio dei materiali WebGPU: pinguino di peluche](#2109288662319919127)
+- [Esperienza WebGPU interattiva con un polpo di peluche](#2109323102912156142)
 - [Battle City 3D: Difesa infinita con i carri armati](#battle-city-3d)
 - [Crazy Tanks — Artiglieria 3D sulle isole](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: gioco minerario 3D a 24 livelli](#golden-miner)
@@ -152,90 +152,6 @@
 - [TITANIC — L’ultima luce](#titanic-the-last-light)
 
 </details>
-
-<a id="2100350159540596760"></a>
-
-### Scena interattiva voxel con cavaliere e falò
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-16
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100350159540596760"><img src="../assets/previews/c86d545b161a6223e73f07626532a18421dad108dd5d879ee1e9d26e60cb1329.jpg" width="840" loading="lazy" alt="Scena interattiva voxel con cavaliere e falò"></a>
-
-Una scena interattiva di un accampamento notturno nella foresta, in stile voxel, realizzata con Three.js, con un cavaliere generato proceduralmente, un falò, azioni selezionabili per il cavaliere, preset della telecamera, HUD rétro e audio ambientale sintetizzato. L’autore del post dichiara di aver fornito questo prompt e un’immagine a GPT-6 Astra.
-
-**Prompt**
-
-```text
-Sei uno sviluppatore senior di WebGL creativo e Three.js. Il tuo compito è creare una scena 3D interattiva completa e pronta per la produzione, contenuta interamente in un unico file HTML autonomo (index.html) usando Three.js + webgl
-
-### 1. Tema visivo e direzione artistica
-
-- Atmosfera: foresta nella notte profonda, falò accogliente e luminoso, cavaliere solitario e stanco che riposa nell’accampamento (falò di Dark Souls / estetica dei classici GDR rétro).
-- Estetica: pixel art 3D / voxel / low-poly.
-- Shading e post-processing: integra il post-processing di Three.js (RenderPixelatedPass o un effetto equivalente di pixelizzazione e dithering a bassa risoluzione) per ottenere un autentico look rétro a 16/32 bit.
-
-### 2. Geometria della scena e asset (100% procedurali — nessun file .gltf/.obj esterno)
-
-Tutti gli asset devono essere creati proceduralmente usando le primitive geometriche di Three.js (BoxGeometry, CylinderGeometry ecc.) e materiali di base, così che il file possa essere eseguito localmente senza problemi di CORS.
-
-1. Ambiente della foresta:
-
-   - Terreno: paesaggio stilizzato e scuro con pietre voxel, funghi e vegetazione low-poly generati proceduralmente.
-   - Alberi: pini/abeti procedurali o alberi dalla chioma squadrata attorno alla radura, per creare profondità e isolamento.
-   - Cielo e illuminazione: cielo notturno molto scuro con stelle voxel tremolanti e una DirectionalLight di luce lunare fredda che proietta ombre morbide.
-   - Profondità: usa THREE.FogExp2 con un colore atmosferico scuro per fondere l’orizzonte.
-
-2. Falò:
-
-   - Cerchio di pietre attorno a ceppi fumanti e braci procedurali.
-   - Sistema del fuoco: particelle animate pixelate (Points o mesh voxel pulsanti) che salgono verso l’alto.
-   - Illuminazione dinamica: PointLight arancione-rossa e calda, con una logica di sfarfallio continua e naturale (usando Math.sin, rumore o variazioni pseudocasuali).
-
-3. Il cavaliere:
-
-   - Grafo della scena gerarchico (gruppi per testa, torso, parte superiore e inferiore delle braccia, gambe, mantello e spada) costruito con primitive voxel.
-   - Dettagli visivi: elmo con feritoie, armatura toracica, spallacci, guanti corazzati e fodero/spada.
-   - I punti pivot devono essere correttamente allineati alle articolazioni (spalle, gomiti, anche e ginocchia) per ottenere animazioni di rotazione procedurali fluide.
-
-### 3. Macchina a stati interattiva del cavaliere
-
-Implementa animazioni procedurali fluide usando l’interpolazione lineare (lerp) o curve trigonometriche all’interno del render loop per i seguenti stati selezionabili:
-
-- Seduto accanto al fuoco (idle predefinito): è seduto a gambe incrociate o accovacciato, con lievi cicli di respirazione e le mani riscaldate vicino alle fiamme.
-- Aggiungi legna: il cavaliere si alza, recupera un ceppo e lo getta sul fuoco. Le fiamme si ravvivano visibilmente, il raggio della luce aumenta temporaneamente e viene emessa una raffica di scintille.
-- Allenamento con la spada: si alza, estrae la spada, esegue una sequenza pulita di attacco e parata in 3 parti, poi torna in posizione di guardia da combattimento.
-- Guarda in lontananza: cammina fino al bordo della radura, pianta la spada nel terreno e fissa il buio mentre il mantello ondeggia.
-- Dormi: si sdraia su un sacco a pelo accanto al fuoco; particelle animate con la scritta pixel «Z z z» fluttuano sopra l’elmo.
-- Arrostisci la carne: tiene un bastoncino con del cibo sopra la fiamma; emette sottili particelle procedurali di fumo/vapore.
-
-### 4. Sistema della telecamera
-
-Fornisci preset della telecamera selezionabili con transizioni fluide interpolate (interpolando posizione e target):
-
-- Primo piano accogliente: inquadratura media focalizzata sul cavaliere e sulla luce del fuoco.
-- GDR isometrico: classica panoramica tattica dall’alto a 45 gradi sulla radura.
-- Cinematografica dal suolo: inquadratura drammatica dal basso verso l’alto, con il cavaliere stagliato contro il cielo stellato e le chiome dei pini.
-- Orbita libera: passaggio fluido agli OrbitControls standard per esplorare la scena interattivamente.
-
-### 5. UI e audio
-
-- Stile UI: layout HUD da GDR rétro a 8/16 bit, con riquadri scuri semitrasparenti, bordi pixelati e un Google Font integrato (ad es. «Press Start 2P»).
-- Pannello inferiore: pulsanti interattivi per le azioni che attivano ciascuno stato del cavaliere.
-- Pannello in alto a destra: pulsanti per cambiare angolazione della telecamera.
-- Contatore della legna: tiene traccia dei ceppi aggiunti e dell’intensità attuale del fuoco.
-- Audio (Web Audio API): crepitio del fuoco e brezza notturna/grilli ambientali sintetizzati proceduralmente, con un pulsante per attivare o disattivare l’audio.
-
-### 6. Specifiche tecniche
-
-- Un unico file index.html autonomo.
-- Usa ES Modules caricati tramite CDN (https://t.co/W8o3SZwkCj o unpkg).
-- Struttura del codice modulare e ampiamente commentata (initScene, buildEnvironment, buildKnight, buildCampfire, setupUI, setupAudio, animate).
-- Gestisci completamente il ridimensionamento della finestra, aggiornando il rapporto d’aspetto della telecamera e la risoluzione del pass di pixelizzazione.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100350159540596760) · [Post originale](https://x.com/vib3coded/status/2100350602316558428) · [Torna agli esempi](#all-prompts)
-
----
 
 <a id="2100519026720231698"></a>
 
@@ -3436,6 +3352,40 @@ Pelo: pelo a guscio in tempo reale con alpha-to-coverage — piumino lungo e sof
 
 ---
 
+<a id="2109323102912156142"></a>
+
+### Esperienza WebGPU interattiva con un polpo di peluche
+
+[shmopix](https://x.com/shmopixbzn) · 2026-10-11
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/interactive-plush-octopus-webgpu-experience"><img src="../assets/previews/dbd611bbd2d43158546b3e8d865f4c0262d20f0f5303ce9138b503db55d268c1.jpg" width="840" loading="lazy" alt="Esperienza WebGPU interattiva con un polpo di peluche"></a>
+
+Crea un’esperienza 3D interattiva e responsive con un polpo di peluche procedurale in un unico file, con deformazione soft-body, manipolazione dei tentacoli, spazzolatura, comportamenti, palette, controlli e fallback a WebGL 2. L’autore ha fornito questo prompt in un commento verificato.
+
+**Prompt**
+
+```text
+Crea “Plush Octopus”, un’esperienza WebGPU interattiva in un unico file con fallback a WebGL 2.
+Design: usa uno sfondo avorio caldo, accenti corallo e salvia desaturati, bordi sottili, ampio spazio bianco e un grande titolo serif in corsivo: “Plush / Octopus.” Aggiungi il piccolo kicker “Material Studies / No. 022.” Mantieni il testo al minimo e l’interfaccia in inglese. Nessun branding dello studio. Posiziona il polpo a sinistra e un pannello di controllo compatto a destra. Rendi il layout responsive su mobile.
+Polpo: crea l’intero giocattolo proceduralmente, senza importare modelli 3D. Dagli un mantello morbidamente ricadente, otto tentacoli affusolati e arricciati, occhi a bottone dalle palpebre pesanti, un piccolo sifone laterale e due file di ventose color crema sotto ogni tentacolo. Usa uno shading in velluto con una sottile direzione del pelo e delicate onde di colore. Evita puntinature marcate o rumore superficiale intermittente.
+Fisica: deve sembrare un peluche leggermente imbottito e gelatinoso. Il mantello deve schiacciarsi, espandersi lateralmente mantenendo il volume e oscillare brevemente dopo il rilascio. Usa una mesh a rete superficiale guidata da un reticolo soft-body XPBD. Mantieni la deformazione centrata, così da evitare movimenti laterali indesiderati. I tentacoli devono piegarsi fluidamente e conservare la propria forma come fili morbidi, con vincoli di lunghezza stabili anche durante trascinamenti rapidi. Includi gravità, attrito con il pavimento e adesione delle ventose che possa spezzarsi.
+Interazioni:
+Mano: solleva, schiaccia, rilascia e piega i singoli tentacoli. I tentacoli trattenuti devono avvolgersi gradualmente intorno alla mano.
+Dito: attira un tentacolo; toccando il mantello, il polpo deve sobbalzare brevemente e impallidire.
+Spazzola: accarezza il velluto per modificarne il pelo.
+Azioni: Crawl, Hide, Reach, Blush, Smooth nap, Reset.
+Slider: Stuffing, Wire stiffness, Grip.
+Palette: Coral, Dusk, Sea glass.
+Includi i toggle quarter-speed e mesh, un indicatore di stato in tempo reale e letture compatte di Mass, Volume, Grip e Blushes.
+Animazione e rendering: aggiungi una respirazione lenta, battiti di ciglia occasionali e un movimento indipendente delle punte. Usa passaggi di simulazione a intervallo fisso con interpolazione in fase di rendering e comportamenti combinati in modo fluido. Il movimento deve stabilizzarsi naturalmente, senza oscillazioni perpetue, scatti, stiramenti o inversioni del frame tubolare.
+Rendering: crea un’unica ombra morbida e continua sul pavimento, che segua il corpo e i tentacoli. Evita dischi d’ombra visibili, macchie scure dovute alle sovrapposizioni e artefatti di profondità. Le ombre devono allargarsi e attenuarsi quando il polpo si solleva.
+Consegna un unico file HTML autonomo. Punta a 60 fps fluidi sui dispositivi compatibili e verifica la stabilità in stato inattivo, le trazioni estreme dei tentacoli, lo schiacciamento con rilascio, il sollevamento, le transizioni tra comportamenti e l’input da mobile.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/interactive-plush-octopus-webgpu-experience) · [Post originale](https://x.com/shmopixbzn/status/2109323105617281235) · [Torna agli esempi](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Difesa infinita con i carri armati
@@ -3921,7 +3871,7 @@ Ispezionare l’apertura, entrambi i ritratti dei personaggi, la collisione, i r
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 344 esempi sul sito ufficiale →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 345 esempi sul sito ufficiale →</a></strong></p>
 <p><sub>Per mantenere fluido il rendering del README su GitHub, qui mostriamo solo i 100 esempi più recenti.</sub></p>
 <br>
 </td></tr>

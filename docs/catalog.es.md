@@ -28,7 +28,7 @@
 **Un punto de partida para tu próximo juego, escena o mundo interactivo.**
 
 
-**344 · Últimos prompts de Astra**
+**345 · Últimos prompts de Astra**
 
 ## Proyectos destacados
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Explorar ejemplos</summary>
 
-- [Escena interactiva de una hoguera con un caballero voxel](#2100350159540596760)
 - [Añadir una cadena de mantenimiento a la barandilla](#2100519026720231698)
 - [Crear un juego de carreras en 3D](#2100526922770026874)
 - [Juego 3D de escape de un centro de investigación cerrado](#2100595652703199281)
@@ -143,6 +142,7 @@
 - [Juego sandbox de conducción en mundo abierto low-poly](#2109153428635267345)
 - [Modelo de goblin en Blender con animación de caminar](#2109268147068862675)
 - [Estudio de materiales de un pingüino de peluche](#2109288662319919127)
+- [Experiencia interactiva de un pulpo de peluche en WebGPU](#2109323102912156142)
 - [Battle City 3D: Defensa de tanques sin fin](#battle-city-3d)
 - [Crazy Tanks — Artillería 3D en una isla](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: juego de minería 3D de 24 niveles](#golden-miner)
@@ -152,90 +152,6 @@
 - [TITANIC — La última luz](#titanic-the-last-light)
 
 </details>
-
-<a id="2100350159540596760"></a>
-
-### Escena interactiva de una hoguera con un caballero voxel
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-16
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100350159540596760"><img src="../assets/previews/c86d545b161a6223e73f07626532a18421dad108dd5d879ee1e9d26e60cb1329.jpg" width="840" loading="lazy" alt="Escena interactiva de una hoguera con un caballero voxel"></a>
-
-Escena interactiva de un campamento nocturno en un bosque de estilo voxel creada con Three.js, con un caballero construido de forma procedural, una hoguera, acciones seleccionables del caballero, cámaras predefinidas, HUD retro y audio ambiental sintetizado. El autor de la publicación afirma que proporcionó este prompt y una imagen a GPT-6 Astra.
-
-**Prompt**
-
-```text
-Eres un desarrollador sénior de WebGL y Three.js especializado en experiencias web creativas. Tu tarea es crear una escena 3D interactiva completa y lista para producción, contenida íntegramente en un único archivo HTML independiente (index.html), usando Three.js + webgl
-
-### 1. Tema visual y dirección artística
-
-- Atmósfera: Bosque profundo en plena noche, una acogedora hoguera resplandeciente y un caballero solitario y agotado descansando en el campamento (estética de la hoguera de Dark Souls / RPG retro clásico).
-- Estética: Arte de píxeles 3D / voxel / low-poly.
-- Sombreado y posprocesado: Integra el posprocesado de Three.js (RenderPixelatedPass o un efecto equivalente de pixelado y tramado a baja resolución) para lograr un aspecto retro auténtico de 16/32 bits.
-
-### 2. Geometría y recursos de la escena (100 % procedural; sin archivos .gltf/.obj externos)
-
-Todos los recursos deben construirse de forma procedural usando primitivas geométricas de Three.js (BoxGeometry, CylinderGeometry, etc.) y materiales básicos, para que el archivo se ejecute localmente sin problemas de CORS.
-
-1. Entorno del bosque:
-
-   - Terreno: Terreno oscuro estilizado con piedras voxel, setas y vegetación low-poly generadas proceduralmente.
-   - Árboles: Pinos/abetos procedurales o árboles de copas cúbicas alrededor del claro para crear profundidad y aislamiento.
-   - Cielo e iluminación: Cielo de medianoche profundo, con estrellas voxel parpadeantes y una DirectionalLight de luz lunar fría que proyecte sombras suaves.
-   - Profundidad: THREE.FogExp2 con un color atmosférico oscuro para integrar el horizonte.
-
-2. Hoguera:
-
-   - Círculo de piedras alrededor de troncos humeantes y brasas generadas proceduralmente.
-   - Sistema de fuego: Partículas pixeladas animadas (Points o mallas voxel pulsantes) que asciendan.
-   - Iluminación dinámica: PointLight naranja rojiza y cálida con una lógica de parpadeo continua y natural (mediante Math.sin, ruido o variaciones pseudoaleatorias).
-
-3. El caballero:
-
-   - Grafo de escena jerárquico (grupos para la cabeza, el torso, la parte superior e inferior de los brazos, las piernas, la capa y la espada) construido con primitivas voxelizadas.
-   - Detalles visuales: Casco con visera ranurada, armadura pectoral, hombreras, guanteletes y vaina/espada.
-   - Los puntos de pivote deben estar correctamente alineados en las articulaciones (hombros, codos, caderas y rodillas) para lograr animaciones de rotación procedurales limpias.
-
-### 3. Máquina de estados interactiva del caballero
-
-Implementa animaciones procedurales fluidas mediante interpolación lineal (lerp) o curvas trigonométricas dentro del bucle de renderizado para los siguientes estados seleccionables:
-
-- Sentarse junto al fuego (reposo predeterminado): Se sienta con las piernas cruzadas o en cuclillas, realiza sutiles ciclos de respiración y se calienta las manos cerca de las llamas.
-- Añadir leña: El caballero se levanta, recoge un tronco y lo lanza al fuego. La hoguera se aviva visiblemente, aumenta temporalmente el radio de su luz y emite una ráfaga de chispas.
-- Practicar con la espada: Se pone de pie, desenvaina la espada, ejecuta una rutina limpia de ataque/parada en 3 partes y vuelve a una guardia de combate.
-- Mirar a lo lejos: Camina hasta el borde del claro, clava la espada en el suelo y contempla la oscuridad mientras la capa ondea.
-- Dormir: Se tumba en un saco de dormir junto al fuego; partículas pixeladas animadas con forma de "Z z z" ascienden desde el casco.
-- Asar carne: Sostiene un palo con comida sobre las llamas y emite sutiles partículas procedurales de humo/vapor.
-
-### 4. Sistema de cámaras
-
-Incluye cambios entre cámaras predefinidas con una transición suave mediante interpolación (lerp) de la posición y el objetivo:
-
-- Primer plano acogedor: Plano medio centrado en el caballero y la luz de la hoguera.
-- RPG isométrico: Vista táctica clásica del claro desde arriba, con un ángulo elevado de 45 grados.
-- Plano cinematográfico a ras de suelo: Toma dramática desde un ángulo bajo, mirando hacia el caballero contra el cielo estrellado y las copas de los pinos.
-- Órbita libre: Cambio fluido a OrbitControls estándar para inspeccionar la escena de forma interactiva.
-
-### 5. Interfaz y audio
-
-- Estilo de la interfaz: HUD retro de RPG de 8/16 bits, con paneles oscuros semitransparentes, bordes pixelados y una fuente de Google integrada (por ejemplo, 'Press Start 2P').
-- Panel inferior: Botones de acción interactivos que activan cada estado del caballero.
-- Panel superior derecho: Botones para cambiar el ángulo de la cámara.
-- Contador de leña: Registra los troncos añadidos y la intensidad actual del fuego.
-- Sonido (Web Audio API): Crepitar del fuego y brisa nocturna/sonidos de grillos ambientales sintetizados proceduralmente, con un botón para silenciar/activar el sonido.
-
-### 6. Especificaciones técnicas
-
-- Un único archivo index.html independiente y autocontenido.
-- Usa módulos ES cargados mediante CDN (https://t.co/W8o3SZwkCj o unpkg).
-- Estructura de código modular y bien comentada (initScene, buildEnvironment, buildKnight, buildCampfire, setupUI, setupAudio, animate).
-- Control totalmente adaptable del cambio de tamaño de la ventana, actualizando la relación de aspecto de la cámara y la resolución del efecto de pixelado.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100350159540596760) · [Publicación original](https://x.com/vib3coded/status/2100350602316558428) · [Volver a los ejemplos](#all-prompts)
-
----
 
 <a id="2100519026720231698"></a>
 
@@ -3436,6 +3352,40 @@ Pelaje: pelaje en capas en tiempo real con alpha-to-coverage; plumón largo y es
 
 ---
 
+<a id="2109323102912156142"></a>
+
+### Experiencia interactiva de un pulpo de peluche en WebGPU
+
+[shmopix](https://x.com/shmopixbzn) · 2026-10-11
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/interactive-plush-octopus-webgpu-experience"><img src="../assets/previews/dbd611bbd2d43158546b3e8d865f4c0262d20f0f5303ce9138b503db55d268c1.jpg" width="840" loading="lazy" alt="Experiencia interactiva de un pulpo de peluche en WebGPU"></a>
+
+Crea una experiencia 3D interactiva y adaptable de un pulpo de peluche, contenida en un único archivo, con un juguete de terciopelo procedural, deformación de cuerpo blando, manipulación de los brazos, cepillado, comportamientos, paletas, controles y compatibilidad alternativa con WebGL 2. El autor proporcionó este prompt en un comentario de autor verificado.
+
+**Prompt**
+
+```text
+Crea «Plush Octopus», una experiencia interactiva de WebGPU contenida en un único archivo, con compatibilidad alternativa con WebGL 2.
+Diseño: Usa un fondo marfil cálido, acentos coral apagado y verde salvia, bordes finos, mucho espacio en blanco y un título grande en cursiva con serifas: «Plush / Octopus». Añade el pequeño antetítulo «Material Studies / No. 022». Mantén el texto al mínimo y la interfaz en inglés. No incluyas branding del estudio. Coloca el pulpo a la izquierda y un panel de controles compacto a la derecha. Adapta el diseño a dispositivos móviles.
+Pulpo: Crea todo el juguete proceduralmente, sin importar modelos 3D. Dale un manto ligeramente caído, ocho brazos afilados y curvados, ojos de botón con párpados pesados, un pequeño sifón lateral y dos filas de ventosas color crema bajo cada brazo. Usa un sombreado de terciopelo suave, con una dirección de pelo sutil y delicadas ondas de rubor. Evita las motas marcadas y el ruido superficial parpadeante.
+Física: Haz que parezca un peluche ligeramente relleno y gelatinoso. El manto debe aplastarse, extenderse lateralmente conservando el volumen y tambalearse brevemente después de soltarlo. Usa una malla de red superficial controlada por una celosía de cuerpo blando XPBD. Mantén la deformación centrada para evitar movimientos laterales no deseados. Los brazos deben doblarse con suavidad y conservar su forma como alambre flexible, con restricciones de longitud estables incluso al arrastrarlos rápidamente. Incluye gravedad, fricción con el suelo y adhesión rompible de las ventosas.
+Interacciones:
+Mano: Levanta, aplasta, suelta y dobla brazos individuales. Los brazos sujetos se van enrollando gradualmente alrededor de la mano.
+Dedo: Atrae un brazo; al tocar el manto, el pulpo se sobresalta brevemente y palidece.
+Cepillo: Cepilla el terciopelo para cambiar la dirección de su pelo.
+Acciones: Reptar, Esconderse, Alcanzar, Ruborizarse, Alisar el pelo, Restablecer.
+Deslizadores: Relleno, Rigidez del alambre, Agarre.
+Paletas: Coral, Anochecer, Vidrio marino.
+Incluye controles para activar la velocidad de un cuarto y mostrar la malla, un indicador de estado en tiempo real y lecturas compactas de Masa, Volumen, Agarre y Rubores.
+Animación y renderizado: Añade una respiración lenta, parpadeos ocasionales y movimiento independiente de las puntas. Usa pasos de simulación fijos con interpolación del renderizado y comportamientos combinados suavemente. El movimiento debe estabilizarse de forma natural, sin balanceo perpetuo, chasquidos, estiramientos ni inversiones del marco tubular.
+Renderiza una única sombra suave y continua sobre el suelo, que siga al cuerpo y a los brazos. Evita sellos circulares de sombra visibles, manchas oscuras de solapamiento y artefactos de profundidad. Las sombras deben ensancharse y desvanecerse a medida que el pulpo se eleva.
+Entrega un único archivo HTML autocontenido. Aspira a una velocidad fluida de 60 fps en dispositivos capaces y prueba la estabilidad en reposo, los tirones extremos de los brazos, el aplastamiento y la liberación, el levantamiento, las transiciones entre comportamientos y la entrada táctil en móviles.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-plush-octopus-webgpu-experience) · [Publicación original](https://x.com/shmopixbzn/status/2109323105617281235) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Defensa de tanques sin fin
@@ -3921,7 +3871,7 @@ Inspeccionar la apertura, los dos retratos de personajes, la colisión, los cohe
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 344 ejemplos en el sitio oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 345 ejemplos en el sitio oficial →</a></strong></p>
 <p><sub>Para que el README de GitHub se renderice con fluidez, aquí solo se muestran los 100 ejemplos más recientes.</sub></p>
 <br>
 </td></tr>

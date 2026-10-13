@@ -28,7 +28,7 @@
 **Un point de départ pour votre prochain jeu, scène ou monde interactif.**
 
 
-**344 · Derniers prompts Astra**
+**345 · Derniers prompts Astra**
 
 ## Projets à découvrir
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Parcourir les exemples</summary>
 
-- [Scène interactive de feu de camp avec chevalier voxel](#2100350159540596760)
 - [Ajouter une chaîne de maintenance au garde-corps](#2100519026720231698)
 - [Créer un jeu de course en 3D](#2100526922770026874)
 - [Jeu 3D d’évasion dans un navigateur : fuyez un centre de recherche fermé](#2100595652703199281)
@@ -143,6 +142,7 @@
 - [Jeu de conduite bac à sable en monde ouvert low poly](#2109153428635267345)
 - [Modèle de gobelin dans Blender avec animation de marche](#2109268147068862675)
 - [Étude de matériaux WebGPU : manchot en peluche](#2109288662319919127)
+- [Expérience WebGPU interactive avec un poulpe en peluche](#2109323102912156142)
 - [Battle City 3D : Défense de chars sans fin](#battle-city-3d)
 - [Crazy Tanks — Artillerie insulaire en 3D](#crazy-tanks-3d-island-artillery)
 - [Golden Miner : jeu de minage 3D en 24 niveaux](#golden-miner)
@@ -152,90 +152,6 @@
 - [TITANIC — La dernière lumière](#titanic-the-last-light)
 
 </details>
-
-<a id="2100350159540596760"></a>
-
-### Scène interactive de feu de camp avec chevalier voxel
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-16
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2100350159540596760"><img src="../assets/previews/c86d545b161a6223e73f07626532a18421dad108dd5d879ee1e9d26e60cb1329.jpg" width="840" loading="lazy" alt="Scène interactive de feu de camp avec chevalier voxel"></a>
-
-Scène interactive de campement forestier nocturne en style voxel avec Three.js, comprenant un chevalier généré de façon procédurale, un feu de camp, des actions sélectionnables pour le chevalier, des préréglages de caméra, une interface rétro et une ambiance sonore synthétisée. L’auteur de la publication indique avoir fourni ce prompt et une image à GPT-6 Astra.
-
-**Prompt**
-
-```text
-Vous êtes développeur senior spécialisé en WebGL créatif et Three.js. Votre mission consiste à créer une scène 3D interactive complète, prête pour la production, entièrement contenue dans un seul fichier HTML autonome (index.html), à l’aide de Three.js + webgl
-
-### 1. Thème visuel et direction artistique
-
-- Atmosphère : forêt plongée dans la nuit, feu de camp chaleureux et lumineux, chevalier solitaire et épuisé se reposant au campement (feu de Dark Souls / esthétique RPG rétro classique).
-- Esthétique : pixel art 3D / voxel / low-poly.
-- Ombrage et post-traitement : intégrez le post-traitement de Three.js (RenderPixelatedPass ou un effet équivalent de pixellisation et de tramage en basse résolution) afin d’obtenir un rendu rétro authentique 16 ou 32 bits.
-
-### 2. Géométrie de la scène et ressources (100 % procédurales — aucun fichier .gltf/.obj externe)
-
-Toutes les ressources doivent être construites de façon procédurale à l’aide des primitives géométriques de Three.js (BoxGeometry, CylinderGeometry, etc.) et de matériaux simples, afin que le fichier s’exécute localement sans problème de CORS.
-
-1. Environnement forestier :
-
-   - Sol : terrain sombre stylisé avec des pierres voxel, des champignons et une végétation low-poly générés de façon procédurale.
-   - Arbres : pins, épicéas ou arbres à cime en blocs générés de façon procédurale autour de la clairière pour créer de la profondeur et un sentiment d’isolement.
-   - Ciel et éclairage : ciel de minuit profond avec des étoiles voxel scintillantes et une DirectionalLight de clair de lune froid projetant des ombres douces.
-   - Profondeur : THREE.FogExp2 avec une couleur atmosphérique sombre pour fondre l’horizon.
-
-2. Feu de camp :
-
-   - Cercle de pierres entourant des bûches fumantes et des braises générées de façon procédurale.
-   - Système de feu : particules pixelisées animées (Points ou maillages voxel animés par pulsations) qui s’élèvent dans les airs.
-   - Éclairage dynamique : PointLight orange-rouge et chaleureux avec une logique de scintillement continue et naturelle (à l’aide de Math.sin, de bruit ou de variations pseudo-aléatoires).
-
-3. Le chevalier :
-
-   - Graphe de scène hiérarchique (groupes pour la tête, le torse, les bras supérieurs et inférieurs, les jambes, la cape et l’épée) construit à partir de primitives voxelisées.
-   - Détails visuels : casque à fentes, armure de torse, épaulières, gantelets et fourreau/épée.
-   - Les pivots doivent être correctement alignés au niveau des articulations (épaules, coudes, hanches, genoux) pour permettre des animations de rotation procédurales propres.
-
-### 3. Machine à états interactive du chevalier
-
-Implémentez des animations procédurales fluides à l’aide d’une interpolation linéaire (lerp) ou de courbes trigonométriques dans la boucle de rendu pour les états sélectionnables suivants :
-
-- S’asseoir près du feu (inactivité par défaut) : s’assoit en tailleur ou s’accroupit, respire subtilement et se réchauffe les mains près des flammes.
-- Ajouter du bois : le chevalier se lève, récupère une bûche et la jette dans le feu. Les flammes s’intensifient visiblement, le rayon de l’éclairage augmente temporairement et une gerbe d’étincelles est émise.
-- S’entraîner à l’épée : se lève, dégaine son épée, exécute une séquence nette en trois temps d’attaque et de parade, puis revient en garde de combat.
-- Regarder au loin : marche jusqu’au bord de la clairière, plante son épée dans le sol et fixe l’obscurité tandis que sa cape se balance.
-- Dormir : s’allonge sur un tapis de sol à côté du feu ; des particules de pixels animées représentant « Z z z » s’élèvent de son casque.
-- Faire rôtir de la viande : tient un bâton avec de la nourriture au-dessus des flammes et émet de subtiles particules procédurales de fumée et de vapeur.
-
-### 4. Système de caméra
-
-Proposez des changements de caméra prédéfinis avec une transition interpolée fluide (interpolation de la position et de la cible) :
-
-- Gros plan chaleureux : plan moyen centré sur le chevalier et la lumière du feu.
-- RPG isométrique : vue tactique classique plongeant à 45 degrés sur la clairière.
-- Cinématique au ras du sol : plan spectaculaire en contre-plongée montrant le chevalier devant le ciel étoilé et les cimes des pins.
-- Orbite libre : bascule fluide vers des OrbitControls standard pour une exploration interactive.
-
-### 5. Interface et audio
-
-- Style de l’interface : disposition de HUD RPG rétro 8 ou 16 bits, utilisant des cadres sombres semi-transparents aux bordures pixelisées et une Google Font intégrée (par exemple, « Press Start 2P »).
-- Panneau inférieur : boutons d’action interactifs déclenchant chaque état du chevalier.
-- Panneau supérieur droit : boutons de changement d’angle de caméra.
-- Compteur de bois : suit le nombre de bûches ajoutées et l’intensité actuelle du feu.
-- Son (Web Audio API) : crépitement du feu et brise nocturne accompagnée de grillons, synthétisés de façon procédurale, avec un bouton permettant d’activer ou de désactiver le son.
-
-### 6. Spécifications techniques
-
-- Un seul fichier index.html autonome.
-- Utilisez des modules ES chargés via CDN (https://t.co/W8o3SZwkCj ou unpkg).
-- Structure de code modulaire et abondamment commentée (initScene, buildEnvironment, buildKnight, buildCampfire, setupUI, setupAudio, animate).
-- Gérez intégralement le redimensionnement de la fenêtre en mettant à jour le rapport largeur/hauteur de la caméra et la résolution du passe de pixellisation.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2100350159540596760) · [Publication originale](https://x.com/vib3coded/status/2100350602316558428) · [Retour aux exemples](#all-prompts)
-
----
 
 <a id="2100519026720231698"></a>
 
@@ -3371,6 +3287,40 @@ Fourrure : fourrure en coque en temps réel avec alpha-to-coverage — duvet lon
 
 ---
 
+<a id="2109323102912156142"></a>
+
+### Expérience WebGPU interactive avec un poulpe en peluche
+
+[shmopix](https://x.com/shmopixbzn) · 2026-10-11
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/interactive-plush-octopus-webgpu-experience"><img src="../assets/previews/dbd611bbd2d43158546b3e8d865f4c0262d20f0f5303ce9138b503db55d268c1.jpg" width="840" loading="lazy" alt="Expérience WebGPU interactive avec un poulpe en peluche"></a>
+
+Créez une expérience 3D interactive et réactive avec un poulpe en peluche, dans un fichier unique, comprenant un jouet en velours procédural, une déformation par corps mou, la manipulation des tentacules, le brossage, des comportements, des palettes, des commandes et une solution de repli WebGL 2. L’auteur a fourni ce prompt dans un commentaire d’auteur vérifié.
+
+**Prompt**
+
+```text
+Créez « Plush Octopus », une expérience WebGPU interactive dans un fichier unique, avec une solution de repli WebGL 2.
+Design : utilisez un arrière-plan ivoire chaleureux, des touches corail et sauge désaturées, des bordures fines, beaucoup d’espace blanc et un grand titre en italique avec empattements : « Plush / Octopus ». Ajoutez le petit surtitre « Material Studies / No. 022. » Réduisez le texte au minimum et gardez l’interface en anglais. N’ajoutez aucune identité visuelle de studio. Placez le poulpe à gauche et un panneau de commandes compact à droite. Adaptez la mise en page aux écrans mobiles.
+Poulpe : créez le jouet entièrement de manière procédurale, sans importer de modèles 3D. Donnez-lui un manteau qui s’affaisse doucement, huit tentacules effilés et recourbés, des yeux-boutons aux paupières lourdes, un petit siphon latéral et deux rangées de ventouses couleur crème sous chaque tentacule. Utilisez un shader de velours avec un léger sens du poil et de douces variations de blush. Évitez les mouchetures marquées et le bruit de surface scintillant.
+Physique : donnez-lui l’aspect d’une peluche légèrement rembourrée, semblable à de la gelée. Le manteau doit pouvoir s’écraser, s’étaler latéralement tout en conservant son volume, puis osciller brièvement après le relâchement. Utilisez un maillage de surface piloté par un treillis de corps mou XPBD. Maintenez la déformation centrée afin d’éviter tout mouvement latéral indésirable. Les tentacules doivent se courber en douceur et conserver leur forme comme des fils souples, avec des contraintes de longueur stables, même lors d’un glissement rapide. Incluez la gravité, la friction au sol et une adhérence cassable des ventouses.
+Interactions :
+Hand : soulevez, écrasez, relâchez et courbez chaque tentacule individuellement. Les tentacules maintenus doivent s’enrouler progressivement autour de la main.
+Finger : attirez un tentacule ; en touchant le manteau, faites sursauter brièvement le poulpe et pâlir sa couleur.
+Brush : brossez le velours pour modifier son sens du poil.
+Actions : Crawl, Hide, Reach, Blush, Smooth nap, Reset.
+Sliders : Stuffing, Wire stiffness, Grip.
+Palettes : Coral, Dusk, Sea glass.
+Ajoutez des bascules quarter-speed et mesh, un indicateur d’état en temps réel, ainsi que des affichages compacts pour Mass, Volume, Grip et Blushes.
+Animation et rendu : ajoutez une respiration lente, des clignements occasionnels et un mouvement indépendant des extrémités. Utilisez des pas de simulation fixes avec interpolation au rendu et des comportements fusionnés en douceur. Les mouvements doivent se stabiliser naturellement, sans oscillation perpétuelle, à-coups, étirements ni retournements de la structure tubulaire.
+Rendez une seule ombre douce et continue au sol, qui suit le corps et les tentacules. Évitez les marques d’ombres circulaires visibles, les zones sombres dues aux recouvrements et les artefacts de profondeur. Les ombres doivent s’élargir et s’estomper à mesure que le poulpe s’élève.
+Livrez un seul fichier HTML autonome. Visez une animation fluide à 60 images par seconde sur les appareils suffisamment performants et testez la stabilité au repos, les tractions extrêmes sur les tentacules, l’écrasement suivi du relâchement, le soulèvement, les transitions entre comportements et les interactions tactiles sur mobile.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/interactive-plush-octopus-webgpu-experience) · [Publication originale](https://x.com/shmopixbzn/status/2109323105617281235) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D : Défense de chars sans fin
@@ -3856,7 +3806,7 @@ Inspecter l’ouverture, les deux portraits des personnages, la collision, les f
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 344 exemples sur le site officiel →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 345 exemples sur le site officiel →</a></strong></p>
 <p><sub>Pour préserver la fluidité du rendu du README sur GitHub, seuls les 100 exemples les plus récents sont affichés ici.</sub></p>
 <br>
 </td></tr>

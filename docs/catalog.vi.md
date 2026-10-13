@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**344 · Prompt Astra mới nhất**
+**345 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Khám phá ví dụ</summary>
 
-- [Cảnh lửa trại voxel tương tác với hiệp sĩ](#2100350159540596760)
 - [Thêm xích bảo trì vào lan can](#2100519026720231698)
 - [Tạo game đua xe 3D](#2100526922770026874)
 - [Game 3D trên trình duyệt: Thoát khỏi cơ sở nghiên cứu bị phong tỏa](#2100595652703199281)
@@ -143,6 +142,7 @@
 - [Game sandbox lái xe thế giới mở low-poly](#2109153428635267345)
 - [Mô hình Goblin trong Blender với hoạt ảnh đi bộ](#2109268147068862675)
 - [Nghiên cứu vật liệu WebGPU: Chim cánh cụt bông](#2109288662319919127)
+- [Trải nghiệm WebGPU tương tác với bạch tuộc nhồi bông](#2109323102912156142)
 - [Battle City 3D: Phòng thủ xe tăng vô tận](#battle-city-3d)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: Game khai thác vàng 3D 24 cấp độ](#golden-miner)
@@ -152,90 +152,6 @@
 - [TITANIC — Ánh sáng cuối cùng](#titanic-the-last-light)
 
 </details>
-
-<a id="2100350159540596760"></a>
-
-### Cảnh lửa trại voxel tương tác với hiệp sĩ
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-16
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100350159540596760"><img src="../assets/previews/c86d545b161a6223e73f07626532a18421dad108dd5d879ee1e9d26e60cb1329.jpg" width="840" loading="lazy" alt="Cảnh lửa trại voxel tương tác với hiệp sĩ"></a>
-
-Cảnh lửa trại tương tác trong khu rừng đêm phong cách voxel, được xây dựng bằng Three.js, với hiệp sĩ tạo thủ tục, lửa trại, các hành động có thể chọn cho hiệp sĩ, các thiết lập camera, HUD phong cách retro và âm thanh môi trường được tổng hợp. Tác giả bài đăng cho biết họ đã cung cấp cho GPT-6 Astra lời nhắc này cùng một hình ảnh.
-
-**Prompt**
-
-```text
-Bạn là Nhà phát triển WebGL & Three.js Sáng tạo Cấp cao. Nhiệm vụ của bạn là xây dựng một cảnh 3D tương tác hoàn chỉnh, sẵn sàng cho môi trường production, nằm hoàn toàn trong một tệp HTML độc lập duy nhất (index.html), sử dụng Three.js + webgl
-
-### 1. Chủ đề hình ảnh & Định hướng nghệ thuật
-
-- Không khí: Khu rừng đêm sâu thẳm, lửa trại ấm áp phát sáng, một hiệp sĩ đơn độc mệt mỏi đang nghỉ bên khu cắm trại (thẩm mỹ lửa trại Dark Souls / RPG retro kinh điển).
-- Thẩm mỹ: Pixel Art 3D / Voxel / Low-Poly.
-- Đổ bóng & Hậu kỳ: Tích hợp tính năng hậu kỳ của Three.js (RenderPixelatedPass hoặc hiệu ứng tạo điểm ảnh/làm nhiễu ở độ phân giải thấp tương đương) để đạt diện mạo retro 16-bit/32-bit chân thực.
-
-### 2. Hình học cảnh & Tài nguyên (100% tạo thủ tục — Không dùng tệp .gltf/.obj bên ngoài)
-
-Tất cả tài nguyên phải được dựng bằng thủ tục, sử dụng các hình học nguyên thủy của Three.js (BoxGeometry, CylinderGeometry, v.v.) và vật liệu cơ bản để tệp có thể chạy cục bộ mà không gặp vấn đề CORS.
-
-1. Môi trường rừng:
-
-   - Mặt đất: Địa hình cách điệu tối màu với đá voxel, nấm và thảm thực vật low-poly được tạo thủ tục.
-   - Cây cối: Các cây thông/vân sam hoặc cây có tán hình khối được tạo thủ tục, bao quanh khoảng trống để tạo chiều sâu và cảm giác biệt lập.
-   - Bầu trời & Ánh sáng: Bầu trời nửa đêm sâu thẳm với các ngôi sao voxel nhấp nháy và DirectionalLight ánh trăng lạnh tạo bóng mềm.
-   - Chiều sâu: THREE.FogExp2 với màu khí quyển tối để hòa trộn đường chân trời.
-
-2. Lửa trại:
-
-   - Vòng đá bao quanh các khúc gỗ đang âm ỉ cháy và các hạt than hồng được tạo thủ tục.
-   - Hệ thống lửa: Các hạt điểm ảnh động (Points hoặc mesh voxel dao động) bay lên trên.
-   - Ánh sáng động: PointLight màu cam-đỏ ấm với logic nhấp nháy liên tục, tự nhiên (sử dụng Math.sin, nhiễu hoặc các biến thể giả ngẫu nhiên).
-
-3. Hiệp sĩ:
-
-   - Cây phân cấp của cảnh (các group cho đầu, thân, cánh tay trên/dưới, chân, áo choàng và kiếm) được dựng từ các hình nguyên thủy voxel hóa.
-   - Chi tiết hình ảnh: Mũ trụ có khe, giáp ngực, giáp vai, bao tay giáp và bao kiếm/kiếm.
-   - Các điểm pivot phải được căn chỉnh chính xác tại các khớp (vai, khuỷu tay, hông, đầu gối) để chuyển động xoay tạo thủ tục mượt mà.
-
-### 3. Máy trạng thái tương tác của hiệp sĩ
-
-Triển khai các animation tạo thủ tục mượt mà bằng phép nội suy tuyến tính (lerp) hoặc các đường cong lượng giác bên trong vòng lặp render cho những trạng thái có thể chọn sau:
-
-- Ngồi bên lửa (Nghỉ mặc định): Ngồi xếp bằng hoặc ngồi xổm, thở nhẹ theo chu kỳ, sưởi tay gần ngọn lửa.
-- Thêm củi: Hiệp sĩ đứng dậy, lấy một khúc gỗ rồi ném vào lửa. Ngọn lửa bùng lên rõ rệt, bán kính chiếu sáng tạm thời mở rộng và phát ra một loạt tia lửa.
-- Luyện kiếm: Đứng dậy, rút kiếm, thực hiện một chuỗi tấn công/đỡ đòn gồm 3 phần gọn gàng rồi trở về tư thế thủ chiến.
-- Nhìn về phía xa: Đi đến rìa khoảng trống, cắm kiếm xuống đất và nhìn chằm chằm vào bóng tối trong khi áo choàng lay động.
-- Ngủ: Nằm xuống tấm đệm ngủ cạnh lửa; các hạt điểm ảnh "Z z z" động bay lên từ mũ trụ.
-- Nướng thịt: Cầm một que xiên thức ăn trên ngọn lửa; phát ra các hạt khói/hơi nước tạo thủ tục nhẹ.
-
-### 4. Hệ thống camera
-
-Cung cấp các chế độ camera thiết lập sẵn với chuyển tiếp nội suy mượt mà (lerp vị trí và điểm đích):
-
-- Cận cảnh ấm cúng: Khung hình trung, tập trung vào hiệp sĩ và ánh lửa.
-- RPG đẳng phối: Góc nhìn chiến thuật cao 45 độ kinh điển bao quát khoảng trống.
-- Điện ảnh mặt đất: Góc máy thấp đầy kịch tính, hướng lên hiệp sĩ giữa bầu trời sao và các tán thông.
-- Xoay tự do: Chuyển liền mạch sang OrbitControls tiêu chuẩn để quan sát tương tác.
-
-### 5. UI & Âm thanh
-
-- Phong cách UI: Bố cục HUD RPG retro 8-bit/16-bit, sử dụng các khung tối bán trong suốt với viền điểm ảnh và Google Font được nhúng (ví dụ: 'Press Start 2P').
-- Bảng điều khiển dưới: Các nút hành động tương tác, kích hoạt từng trạng thái của hiệp sĩ.
-- Bảng phía trên bên phải: Các nút chuyển góc camera.
-- Bộ đếm củi: Theo dõi số khúc gỗ đã thêm và cường độ lửa hiện tại.
-- Âm thanh (Web Audio API): Tiếng lửa tí tách và gió đêm/dế kêu môi trường được tổng hợp bằng thủ tục, kèm một nút bật/tắt tiếng.
-
-### 6. Thông số kỹ thuật
-
-- Một tệp index.html độc lập, tự chứa.
-- Sử dụng ES Modules được tải qua CDN (https://t.co/W8o3SZwkCj hoặc unpkg).
-- Cấu trúc mã dạng module, có chú thích đầy đủ (initScene, buildEnvironment, buildKnight, buildCampfire, setupUI, setupAudio, animate).
-- Hoàn toàn đáp ứng kích thước cửa sổ, với trình xử lý thay đổi kích thước cập nhật tỷ lệ khung hình camera và độ phân giải của lớp tạo điểm ảnh.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100350159540596760) · [Bài đăng gốc](https://x.com/vib3coded/status/2100350602316558428) · [Về danh sách ví dụ](#all-prompts)
-
----
 
 <a id="2100519026720231698"></a>
 
@@ -3436,6 +3352,40 @@ Lông: lông vỏ thời gian thực với alpha-to-coverage — lớp lông tơ
 
 ---
 
+<a id="2109323102912156142"></a>
+
+### Trải nghiệm WebGPU tương tác với bạch tuộc nhồi bông
+
+[shmopix](https://x.com/shmopixbzn) · 2026-10-11
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-plush-octopus-webgpu-experience"><img src="../assets/previews/dbd611bbd2d43158546b3e8d865f4c0262d20f0f5303ce9138b503db55d268c1.jpg" width="840" loading="lazy" alt="Trải nghiệm WebGPU tương tác với bạch tuộc nhồi bông"></a>
+
+Tạo trải nghiệm 3D tương tác với bạch tuộc nhồi bông, phản hồi tốt và nằm trong một tệp duy nhất, gồm đồ chơi nhung tạo theo quy trình, biến dạng vật thể mềm, thao tác với các xúc tu, chải lông, hành vi, bảng màu, điều khiển và chế độ dự phòng WebGL 2. Tác giả đã cung cấp prompt này trong một bình luận đã được xác minh.
+
+**Prompt**
+
+```text
+Xây dựng “Plush Octopus”, một trải nghiệm WebGPU tương tác trong một tệp duy nhất, có chế độ dự phòng WebGL 2.
+Thiết kế: Dùng nền màu ngà ấm, các điểm nhấn san hô trầm và xanh sage, đường viền mảnh, khoảng trắng thoáng và tiêu đề serif in nghiêng cỡ lớn: “Plush / Octopus.” Thêm dòng giới thiệu nhỏ “Material Studies / No. 022.” Giữ lượng chữ ở mức tối thiểu và giao diện bằng tiếng Anh. Không dùng nhận diện thương hiệu của studio. Đặt bạch tuộc ở bên trái và bảng điều khiển gọn ở bên phải. Bố cục phải thích ứng với thiết bị di động.
+Bạch tuộc: Tạo toàn bộ đồ chơi theo quy trình—không dùng mô hình 3D nhập vào. Tạo phần thân mềm rũ nhẹ, tám xúc tu thuôn dần và cuộn cong, đôi mắt nút với mí sụp, một ống siphon nhỏ ở bên hông và hai hàng giác hút màu kem bên dưới mỗi xúc tu. Dùng shader nhung mềm với lớp lông có hướng nhẹ và các gợn ửng màu dịu. Tránh các đốm gắt hoặc nhiễu bề mặt chớp nháy.
+Vật lý: Tạo cảm giác như một món đồ nhồi bông hơi căng, mềm dẻo như thạch. Phần thân phải có thể bị ép dẹt, bè sang hai bên nhưng vẫn bảo toàn thể tích, rồi lắc nhẹ trong thời gian ngắn sau khi thả. Dùng lưới bề mặt được điều khiển bởi lattice vật thể mềm XPBD. Giữ biến dạng tập trung để không tạo ra chuyển động ngang ngoài ý muốn. Các xúc tu phải uốn mượt và giữ dáng như dây mềm, với ràng buộc chiều dài ổn định ngay cả khi kéo nhanh. Bao gồm trọng lực, ma sát với sàn và độ bám có thể bị phá vỡ của các giác hút.
+Tương tác:
+Bàn tay: Nhấc, ép dẹt, thả và uốn từng xúc tu. Các xúc tu đang được giữ sẽ từ từ quấn quanh bàn tay.
+Ngón tay: Thu hút một xúc tu; chạm vào phần thân khiến bạch tuộc giật mình và nhợt màu trong chốc lát.
+Bàn chải: Vuốt lớp nhung để thay đổi hướng lông.
+Thao tác: Crawl, Hide, Reach, Blush, Smooth nap, Reset.
+Thanh trượt: Stuffing, Wire stiffness, Grip.
+Bảng màu: Coral, Dusk, Sea glass.
+Thêm nút chuyển tốc độ một phần tư và nút bật/tắt lưới, chỉ báo trạng thái trực tiếp cùng các thông số gọn cho Mass, Volume, Grip và Blushes.
+Hoạt ảnh và kết xuất: Thêm chuyển động thở chậm, chớp mắt thỉnh thoảng và chuyển động độc lập ở đầu xúc tu. Dùng các bước mô phỏng cố định, nội suy khi kết xuất và các hành vi được trộn mượt. Chuyển động phải tự nhiên ổn định, không lắc liên tục, giật cục, kéo giãn hoặc lật khung ống.
+Kết xuất một vùng bóng mềm, liền mạch trên sàn, bám theo thân và các xúc tu. Ngăn các dấu bóng tròn dễ thấy, các mảng tối do chồng lấn và lỗi chiều sâu. Bóng phải mở rộng và nhạt dần khi bạch tuộc nhấc lên.
+Xuất một tệp HTML tự chứa duy nhất. Hướng đến tốc độ mượt 60 fps trên các thiết bị đủ mạnh và kiểm tra độ ổn định khi chờ, kéo xúc tu đến giới hạn, ép-dẹt rồi thả, nhấc lên, chuyển đổi hành vi và thao tác trên thiết bị di động.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-plush-octopus-webgpu-experience) · [Bài đăng gốc](https://x.com/shmopixbzn/status/2109323105617281235) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Phòng thủ xe tăng vô tận
@@ -3921,7 +3871,7 @@ Kiểm tra cảnh mở đầu, cả hai chân dung nhân vật, va chạm, pháo
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 344 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 345 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

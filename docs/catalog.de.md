@@ -28,7 +28,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**344 · Neueste Astra-Prompts**
+**345 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Beispiele ansehen</summary>
 
-- [Interaktive Voxel-Ritterszene am Lagerfeuer](#2100350159540596760)
 - [Wartungskette am Handlauf hinzufügen](#2100519026720231698)
 - [3D-Rennspiel erstellen](#2100526922770026874)
 - [3D-Browser-Escape-Game: Flucht aus einer stillgelegten Forschungseinrichtung](#2100595652703199281)
@@ -143,6 +142,7 @@
 - [Low-Poly-Open-World-Fahrspiel als Sandbox](#2109153428635267345)
 - [Goblin-Blender-Modell mit Laufanimation](#2109268147068862675)
 - [WebGPU-Materialstudie: Plüschpinguin](#2109288662319919127)
+- [Interaktive WebGPU-Erfahrung mit einem Plüschoktopus](#2109323102912156142)
 - [Battle City 3D: Endlose Panzerverteidigung](#battle-city-3d)
 - [Crazy Tanks — 3D-Inselartillerie](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: 3D-Bergbauspiel mit 24 Levels](#golden-miner)
@@ -152,90 +152,6 @@
 - [TITANIC — Das letzte Licht](#titanic-the-last-light)
 
 </details>
-
-<a id="2100350159540596760"></a>
-
-### Interaktive Voxel-Ritterszene am Lagerfeuer
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-16
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2100350159540596760"><img src="../assets/previews/c86d545b161a6223e73f07626532a18421dad108dd5d879ee1e9d26e60cb1329.jpg" width="840" loading="lazy" alt="Interaktive Voxel-Ritterszene am Lagerfeuer"></a>
-
-Eine interaktive Three.js-Lagerfeuerszene im Voxel-Stil in einem nächtlichen Wald mit einem prozedural erstellten Ritter, Lagerfeuer, auswählbaren Ritteraktionen, Kameravoreinstellungen, Retro-HUD und synthetisierten Umgebungsgeräuschen. Der Autor des Beitrags gibt an, GPT-6 Astra diesen Prompt zusammen mit einem Bild übergeben zu haben.
-
-**Prompt**
-
-```text
-Du bist Senior Creative WebGL & Three.js Developer. Deine Aufgabe ist es, eine vollständige, produktionsreife interaktive 3D-Szene ausschließlich in einer einzelnen, eigenständigen HTML-Datei (index.html) mit Three.js + WebGL zu erstellen
-
-### 1. Visuelles Thema und Art Direction
-
-- Atmosphäre: Tiefer Nachtwald, gemütlich leuchtendes Lagerfeuer, ein einsamer, erschöpfter Ritter, der am Lagerplatz ruht (Ästhetik eines Dark-Souls-Leuchtfeuers / klassischen Retro-RPGs).
-- Ästhetik: 3D-Pixel-Art-/Voxel-/Low-Poly-Ästhetik.
-- Shading und Post-Processing: Integriere das Three.js-Post-Processing (RenderPixelatedPass oder einen gleichwertigen Effekt für Pixelrasterung und Dithering mit niedriger Auflösung), um eine authentische Retro-Optik im Stil von 16- bzw. 32-Bit zu erzielen.
-
-### 2. Szenengeometrie und Assets (100 % prozedural – keine externen .gltf- oder .obj-Dateien)
-
-Alle Assets müssen prozedural mit geometrischen Grundformen von Three.js (BoxGeometry, CylinderGeometry usw.) und einfachen Materialien erstellt werden, damit die Datei lokal ohne CORS-Probleme ausgeführt werden kann.
-
-1. Waldumgebung:
-
-   - Boden: Dunkles, stilisiertes Terrain mit prozedural erzeugten Voxel-Steinen, Pilzen und Low-Poly-Bewuchs.
-   - Bäume: Prozedurale Kiefern/Fichten oder blockartige Kronenbäume, die die Lichtung umgeben und für Tiefe und Abgeschiedenheit sorgen.
-   - Himmel und Beleuchtung: Tiefdunkler Nachthimmel mit flackernden Voxel-Sternen und einem kühlen DirectionalLight für weiche Schatten im Mondlicht.
-   - Tiefe: THREE.FogExp2 mit einer dunklen, atmosphärischen Farbe, die den Horizont einblendet.
-
-2. Lagerfeuer:
-
-   - Steinkreis um glimmende Holzscheite und prozedurale Glutpartikel.
-   - Feuersystem: Animierte, pixelartige Partikel (Points oder pulsierende Voxel-Meshes), die nach oben steigen.
-   - Dynamische Beleuchtung: Warmes orange-rotes PointLight mit kontinuierlicher, natürlicher Flackerlogik (unter Verwendung von Math.sin, Rauschen oder pseudorandomisierten Variationen).
-
-3. Der Ritter:
-
-   - Hierarchischer Szenengraph (Gruppen für Kopf, Torso, Ober-/Unterarme, Beine, Umhang und Schwert), aufgebaut aus voxelisierten Grundformen.
-   - Visuelle Details: Helm mit Sehschlitzen, Brustpanzer, Schulterpanzer, Stulpen und Scheide/Schwert.
-   - Die Pivot-Punkte müssen an den Gelenken (Schultern, Ellbogen, Hüften, Knien) korrekt ausgerichtet sein, damit prozedurale Rotationsanimationen sauber funktionieren.
-
-### 3. Interaktive Zustandsmaschine des Ritters
-
-Implementiere mithilfe von linearer Interpolation (lerp) oder trigonometrischen Kurven innerhalb der Render-Schleife flüssige prozedurale Animationen für die folgenden auswählbaren Zustände:
-
-- Am Feuer sitzen (Standard-Idle): Sitzt im Schneidersitz oder kauert, mit subtilen Atemzyklen und wärmt die Hände an den Flammen.
-- Feuerholz nachlegen: Der Ritter steht auf, holt ein Holzscheit und wirft es ins Feuer. Das Feuer flammt sichtbar auf, vergrößert vorübergehend seinen Lichtradius und stößt einen Funkenstoß aus.
-- Schwertübung: Steht auf, zieht das Schwert, führt eine saubere dreiteilige Angriffs-/Paradeabfolge aus und kehrt in eine Kampfhaltung zurück.
-- In die Ferne blicken: Geht zum Rand der Lichtung, rammt das Schwert in den Boden und blickt in die Dunkelheit, während der Umhang im Wind schwingt.
-- Schlafen: Legt sich auf eine Schlafmatte neben dem Feuer; animierte Pixelpartikel mit dem Text „Z z z“ steigen aus dem Helm auf.
-- Fleisch braten: Hält einen Stock mit Nahrung über die Flamme und erzeugt subtile prozedurale Rauch-/Dampfpartikel.
-
-### 4. Kamerasystem
-
-Stelle voreingestellte Kamerawechsel mit flüssiger Übergangsinterpolation bereit (Position und Ziel per Lerp):
-
-- Gemütige Nahaufnahme: Halbnahe Einstellung mit Fokus auf den Ritter und das Feuerlicht.
-- Isometrisches RPG: Klassische taktische Übersicht der Lichtung aus erhöhter 45-Grad-Perspektive.
-- Kinoperspektive vom Boden: Dramatische Untersicht, die zum Ritter vor dem Sternenhimmel und den Nadelbaumkronen hinaufblickt.
-- Freie Umlaufbahn: Nahtloser Wechsel zu standardmäßigen OrbitControls für die interaktive Betrachtung.
-
-### 5. UI und Audio
-
-- UI-Stil: Retro-RPG-HUD im 8- bzw. 16-Bit-Stil mit halbtransparenten dunklen Rahmen, pixelartigen Rändern und einer eingebundenen Google Font (z. B. „Press Start 2P“).
-- Unteres Panel: Interaktive Aktionsschaltflächen, die die einzelnen Ritterzustände auslösen.
-- Panel oben rechts: Schaltflächen zum Wechseln des Kamerawinkels.
-- Feuerholzzähler: Erfasst die nachgelegten Holzscheite und die aktuelle Feuerintensität.
-- Sound (Web Audio API): Prozedural synthetisiertes Knistern des Feuers und atmosphärische nächtliche Wind-/Grillengeräusche mit einer Stummschalt-/Ton-an-Taste.
-
-### 6. Technische Spezifikationen
-
-- Einzelne, eigenständige index.html-Datei.
-- Verwende ES-Module, die über ein CDN geladen werden (https://t.co/W8o3SZwkCj oder unpkg).
-- Modulare, gut kommentierte Code-Struktur (initScene, buildEnvironment, buildKnight, buildCampfire, setupUI, setupAudio, animate).
-- Vollständig responsiver Handler für die Fenstergrößenänderung, der das Seitenverhältnis der Kamera und die Auflösung des Pixelation-Passes aktualisiert.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2100350159540596760) · [Originalbeitrag](https://x.com/vib3coded/status/2100350602316558428) · [Zurück zu den Beispielen](#all-prompts)
-
----
 
 <a id="2100519026720231698"></a>
 
@@ -3371,6 +3287,40 @@ Fell: Echtzeit-Shell-Fell mit Alpha-to-Coverage – langes, flauschiges Daunenfe
 
 ---
 
+<a id="2109323102912156142"></a>
+
+### Interaktive WebGPU-Erfahrung mit einem Plüschoktopus
+
+[shmopix](https://x.com/shmopixbzn) · 2026-10-11
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/interactive-plush-octopus-webgpu-experience"><img src="../assets/previews/dbd611bbd2d43158546b3e8d865f4c0262d20f0f5303ce9138b503db55d268c1.jpg" width="840" loading="lazy" alt="Interaktive WebGPU-Erfahrung mit einem Plüschoktopus"></a>
+
+Erstelle eine responsive, interaktive 3D-Erfahrung mit einem Plüschoktopus als einzelne HTML-Datei – mit einem prozedural erzeugten Samtspielzeug, Soft-Body-Deformation, Manipulation der Arme, Bürsten, Verhaltensweisen, Farbpaletten, Bedienelementen und einem WebGL-2-Fallback. Der Autor hat diesen Prompt in einem verifizierten Autorenkommentar bereitgestellt.
+
+**Prompt**
+
+```text
+Erstelle „Plush Octopus“ als interaktive WebGPU-Erfahrung in einer einzigen Datei mit WebGL-2-Fallback.
+Design: Verwende einen warmen elfenbeinfarbenen Hintergrund, gedämpfte Korall- und Salbeigrüntöne, dünne Rahmen, großzügigen Weißraum und einen großen kursiven Serifentitel: „Plush / Octopus“. Ergänze den kleinen Kicker „Material Studies / No. 022“. Halte den Text minimal und die Benutzeroberfläche auf Englisch. Kein Studio-Branding. Platziere den Oktopus links und ein kompaktes Bedienfeld rechts. Gestalte das Layout responsiv für Mobilgeräte.
+Oktopus: Erzeuge das gesamte Spielzeug prozedural – ohne importierte 3D-Modelle. Gib ihm einen weich absackenden Mantel, acht sich verjüngende, eingerollte Arme, schläfrig wirkende Knopfaugen, einen kleinen seitlichen Siphon und zwei Reihen cremefarbener Saugnäpfe unter jedem Arm. Verwende eine weiche Samt-Schattierung mit subtiler gerichteter Faserstruktur und sanften Rouge-Wellen. Vermeide harte Sprenkel oder flackerndes Oberflächenrauschen.
+Physik: Es soll sich wie ein leicht ausgestopftes, geleeartiges Plüschtier anfühlen. Der Mantel soll sich zusammendrücken, unter Wahrung seines Volumens seitlich ausbreiten und nach dem Loslassen kurz nachwackeln. Verwende ein von einem XPBD-Soft-Body-Gitter gesteuertes Oberflächen-Netz. Halte die Deformation zentriert, damit keine unerwünschte seitliche Bewegung entsteht. Die Arme sollen sich geschmeidig biegen und wie weiche Drähte ihre Form behalten, mit stabilen Längenbedingungen auch beim schnellen Ziehen. Integriere Schwerkraft, Bodenreibung und lösbare Haftung der Saugnäpfe.
+Interaktionen:
+Hand: Hebe einzelne Arme an, drücke sie zusammen, lasse sie los und biege sie. Gehaltene Arme sollen sich allmählich um die Hand wickeln.
+Finger: Ziehe einen Arm an; durch Tippen auf den Mantel soll der Oktopus kurz erschrecken und blasser werden.
+Bürste: Streiche über den Samt, um die Faserstruktur zu verändern.
+Aktionen: Crawl, Hide, Reach, Blush, Smooth nap, Reset.
+Schieberegler: Stuffing, Wire stiffness, Grip.
+Farbpaletten: Coral, Dusk, Sea glass.
+Integriere Umschalter für Viertelgeschwindigkeit und Mesh, eine Live-Statusanzeige sowie kompakte Anzeigen für Mass, Volume, Grip und Blushes.
+Animation und Rendering: Füge langsames Atmen, gelegentliches Blinzeln und unabhängige Bewegungen der Armspitzen hinzu. Verwende feste Simulationsschritte mit Render-Interpolation und weich überblendeten Verhaltensweisen. Die Bewegung muss sich natürlich beruhigen, ohne dauerhaftes Schaukeln, Schnappen, Dehnen oder Umklappen des Rohr-Frames.
+Rendere einen durchgehenden, weichen Bodenschatten, der dem Körper und den Armen folgt. Verhindere sichtbare kreisförmige Schattenabdrücke, dunkle Überlagerungsflecken und Tiefenartefakte. Die Schatten sollen breiter werden und verblassen, wenn sich der Oktopus hebt.
+Liefere eine vollständig eigenständige HTML-Datei. Ziel sind flüssige 60 fps auf leistungsfähigen Geräten. Teste die Stabilität im Leerlauf, extremes Ziehen an den Armen, Zusammendrücken und Loslassen, Anheben, Verhaltensübergänge und die mobile Eingabe.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/interactive-plush-octopus-webgpu-experience) · [Originalbeitrag](https://x.com/shmopixbzn/status/2109323105617281235) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Endlose Panzerverteidigung
@@ -3856,7 +3806,7 @@ Prüfe den Auftakt, beide Figurenporträts, die Kollision, die Seenotsignale, al
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 344 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 345 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>

@@ -28,7 +28,7 @@
 **為你的下一個遊戲、場景或互動世界尋找靈感。**
 
 
-**344 · 最新 Astra 提示詞**
+**345 · 最新 Astra 提示詞**
 
 ## 精選作品
 
@@ -50,7 +50,6 @@
 <details>
 <summary>瀏覽案例</summary>
 
-- [互動式體素騎士篝火場景](#2100350159540596760)
 - [為欄杆新增維修用鏈條](#2100519026720231698)
 - [製作 3D 賽車遊戲](#2100526922770026874)
 - [逃離封閉研究設施的瀏覽器 3D 遊戲](#2100595652703199281)
@@ -143,6 +142,7 @@
 - [低多邊形開放世界駕駛沙盒遊戲](#2109153428635267345)
 - [哥布林 Blender 模型與行走動畫](#2109268147068862675)
 - [絨毛企鵝 WebGPU 材質研究](#2109288662319919127)
+- [互動式 WebGPU 絨毛章魚體驗](#2109323102912156142)
 - [Battle City 3D：無盡坦克防禦](#battle-city-3d)
 - [Crazy Tanks — 3D 島嶼火砲戰](#crazy-tanks-3d-island-artillery)
 - [Golden Miner：24 關 3D 採礦遊戲](#golden-miner)
@@ -152,90 +152,6 @@
 - [TITANIC — 最後的光](#titanic-the-last-light)
 
 </details>
-
-<a id="2100350159540596760"></a>
-
-### 互動式體素騎士篝火場景
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-16
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100350159540596760"><img src="../assets/previews/c86d545b161a6223e73f07626532a18421dad108dd5d879ee1e9d26e60cb1329.jpg" width="840" loading="lazy" alt="互動式體素騎士篝火場景"></a>
-
-互動式 Three.js 體素風夜間森林營地場景，包含程序化建立的騎士、篝火、可選擇的騎士行動、預設鏡頭、復古 HUD，以及合成環境音效。發文作者表示，他們將這段提示詞與一張圖片提供給 GPT-6 Astra。
-
-**提示詞**
-
-```text
-你是一名資深創意 WebGL 與 Three.js 開發者。你的任務是使用 Three.js + WebGL，建立一個完整、可用於正式環境的互動式 3D 場景，並將其完全收納在單一獨立 HTML 檔案（index.html）中
-
-### 1. 視覺主題與美術方向
-
-- 氛圍：深沉的夜間森林、溫暖閃耀的營火，以及獨自疲憊地在營地休息的騎士（《Dark Souls》篝火／經典復古 RPG 美學）。
-- 美學：3D 像素藝術／體素／低多邊形美學。
-- 著色與後製：整合 Three.js 後製效果（RenderPixelatedPass 或等效的低解析度像素化／抖動效果），呈現真實的 16 位元／32 位元復古風格。
-
-### 2. 場景幾何與資產（100% 程序化建立——不可使用外部 .gltf/.obj 檔案）
-
-所有資產都必須使用 Three.js 幾何圖元（BoxGeometry、CylinderGeometry 等）與基本材質以程序化方式建立，確保檔案能在本機執行且不會遇到 CORS 問題。
-
-1. 森林環境：
-
-   - 地面：深色風格化地形，搭配程序化生成的體素石頭、蘑菇與低多邊形植被。
-   - 樹木：在空地周圍程序化生成松樹／雲杉或塊狀樹冠的樹木，營造深度與隱密感。
-   - 天空與光照：深邃的午夜天空，搭配閃爍的體素星星，以及投射柔和陰影的冷色月光 DirectionalLight。
-   - 深度：使用帶有深色大氣色彩的 THREE.FogExp2，融合地平線。
-
-2. 營火：
-
-   - 以石頭圍成圓圈，環繞著悶燒的木柴與程序化生成的餘燼。
-   - 火焰系統：向上升起的動畫像素粒子（Points 或脈動的體素網格）。
-   - 動態光照：使用暖橙紅色 PointLight，搭配持續且自然的閃爍邏輯（使用 Math.sin、雜訊或 شبه隨機變化）。
-
-3. 騎士：
-
-   - 使用體素化圖元建立階層式場景圖（包含頭部、軀幹、上臂／前臂、腿部、披風與劍的群組）。
-   - 視覺細節：開槽頭盔、胸甲、肩甲、護手，以及劍鞘／劍。
-   - 樞軸點必須在關節（肩膀、手肘、髖部、膝蓋）處正確對齊，以實現流暢的程序化旋轉動畫。
-
-### 3. 互動式騎士狀態機
-
-在渲染迴圈中使用線性插值（lerp）或三角函數曲線，為以下可選狀態實作平滑的程序化動畫：
-
-- 坐在火旁（預設待機）：盤腿或蹲坐，進行細微的呼吸循環，並在火焰附近暖手。
-- 添柴：騎士起身、取回一根木柴並將其丟進火中。火焰會明顯竄升，光照半徑暫時擴大，並爆發出一陣火花。
-- 練劍：起身、拔劍，完成流暢的三段式攻擊／格擋動作，最後回到戰鬥防禦姿勢。
-- 遙望遠方：走到空地邊緣，將劍插入地面，在披風飄動的同時凝視黑暗深處。
-- 睡覺：躺在火堆旁的睡墊上；帶動畫效果的像素「Z z z」粒子從頭盔上方飄起。
-- 烤肉：拿著串有食物的木棍在火焰上方烘烤，並散發細微的程序化煙霧／蒸氣粒子。
-
-### 4. 攝影機系統
-
-提供預設攝影機切換功能，並以平滑的轉場插值（對位置與目標點進行 lerp）：
-
-- 溫馨特寫：聚焦騎士與火光的中景。
-- 等角 RPG：以經典的高位 45 度戰術視角俯瞰空地。
-- 電影感地面視角：以低角度戲劇性地向上拍攝騎士，背景是繁星天空與松樹樹冠。
-- 自由環繞：無縫切換至標準 OrbitControls，以便互動檢視。
-
-### 5. UI 與音效
-
-- UI 風格：採用復古 8 位元／16 位元 RPG HUD 版面，以半透明深色框架、像素化邊框，以及嵌入的 Google Font（例如 'Press Start 2P'）構成。
-- 底部面板：提供可觸發各個騎士狀態的互動式動作按鈕。
-- 右上方面板：提供切換攝影機角度的按鈕。
-- 木柴計數器：追蹤已添加的木柴數量與目前的火焰強度。
-- 音效（Web Audio API）：程序化合成的火焰劈啪聲與夜間微風／蟲鳴環境音，並提供靜音／取消靜音切換按鈕。
-
-### 6. 技術規格
-
-- 單一、自包含的 index.html 檔案。
-- 使用透過 CDN 載入的 ES Modules（https://t.co/W8o3SZwkCj 或 unpkg）。
-- 模組化且附有完善註解的程式碼結構（initScene、buildEnvironment、buildKnight、buildCampfire、setupUI、setupAudio、animate）。
-- 完整支援響應式視窗大小調整處理常式，更新攝影機長寬比與像素化後製通道的解析度。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100350159540596760) · [查看原文](https://x.com/vib3coded/status/2100350602316558428) · [返回案例導覽](#all-prompts)
-
----
 
 <a id="2100519026720231698"></a>
 
@@ -3437,6 +3353,40 @@ https://t.co/BmU7fO6uOJ
 
 ---
 
+<a id="2109323102912156142"></a>
+
+### 互動式 WebGPU 絨毛章魚體驗
+
+[shmopix](https://x.com/shmopixbzn) · 2026-10-11
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-plush-octopus-webgpu-experience"><img src="../assets/previews/dbd611bbd2d43158546b3e8d865f4c0262d20f0f5303ce9138b503db55d268c1.jpg" width="840" loading="lazy" alt="互動式 WebGPU 絨毛章魚體驗"></a>
+
+建立一個響應式、單一檔案的互動式 3D 絨毛章魚體驗，包含程序化天鵝絨玩具、軟體變形、手臂操控、刷毛、行為、配色、控制項，以及 WebGL 2 備援。作者已在經驗證的作者留言中提供此提示詞。
+
+**提示詞**
+
+```text
+建立「Plush Octopus」，一個具備 WebGL 2 備援的單一檔案互動式 WebGPU 體驗。
+設計：使用暖象牙色背景、低飽和珊瑚色與鼠尾草綠點綴、細邊框、寬裕留白，以及大型斜體襯線標題：「Plush / Octopus」。加入小型眉題「Material Studies / No. 022」。文字保持精簡，介面使用英文。不使用工作室品牌元素。將章魚放在左側，右側配置精簡的控制面板。版面需針對行動裝置提供響應式設計。
+章魚：完全以程序化方式建立玩具，不使用匯入的 3D 模型。讓外套膜呈現柔軟下垂的形狀，搭配八條逐漸變細、向內捲曲的手臂、眼皮低垂的按鈕眼、小型側面虹吸管，以及每條手臂下方兩列奶油色吸盤。使用柔軟的天鵝絨著色，加入細微的方向性絨毛與柔和的紅暈波紋。避免尖銳的斑點或閃爍的表面雜訊。
+物理：呈現填充適度、帶有果凍質感的絨毛玩具感。外套膜應能被壓扁、在維持體積的同時向兩側攤開，並在放開後短暫晃動。使用由 XPBD 軟體晶格驅動的表面網格。讓變形集中於中心，避免產生不必要的側向移動。手臂應平順彎曲並像軟線一樣維持形狀，即使快速拖曳時也要保持穩定的長度約束。加入重力、地面摩擦力，以及可脫離的吸盤黏附效果。
+互動：
+手部：抬起、壓扁、放開並彎折個別手臂。抓住手臂時，手臂會逐漸纏繞手部。
+手指：吸引手臂；點擊外套膜時，讓章魚短暫受驚並變淡。
+刷子：撫刷天鵝絨，改變絨毛方向。
+動作：Crawl、Hide、Reach、Blush、Smooth nap、Reset。
+滑桿：Stuffing、Wire stiffness、Grip。
+配色：Coral、Dusk、Sea glass。
+加入四分之一速度與網格切換按鈕、即時狀態指示，以及精簡的 Mass、Volume、Grip 和 Blushes 數值讀出。
+動畫與算繪：加入緩慢呼吸、偶爾眨眼，以及獨立的觸手末端動作。使用固定模擬步長搭配算繪插值，並平順混合各種行為。動作必須自然穩定下來，不得持續搖晃、突然彈回、過度拉伸或發生管狀框架翻轉。
+算繪一片連續柔和的地面陰影，並隨著身體與手臂移動。避免出現可見的圓形陰影印記、重疊造成的深色斑塊，以及深度瑕疵。章魚升高時，陰影應擴散並逐漸變淡。
+交付一個完全自包含的 HTML 檔案。在效能足夠的裝置上以流暢的 60 fps 為目標，並測試閒置穩定性、手臂極限拉扯、壓扁與放開、抬起、行為轉換，以及行動裝置輸入。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-plush-octopus-webgpu-experience) · [查看原文](https://x.com/shmopixbzn/status/2109323105617281235) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D：無盡坦克防禦
@@ -3922,7 +3872,7 @@ UI：奶油白圓角卡片搭配海軍藍文字與珊瑚橘點綴；標題使用
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 344 個案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 345 個案例 →</a></strong></p>
 <p><sub>為保持 GitHub README 渲染流暢，這裡僅展示最新 100 個案例。</sub></p>
 <br>
 </td></tr>

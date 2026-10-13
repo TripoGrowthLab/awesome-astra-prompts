@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**344 · En yeni Astra istemleri**
+**345 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Örnekleri keşfet</summary>
 
-- [Etkileşimli voxel şövalyesi ve kamp ateşi sahnesi](#2100350159540596760)
 - [Korkuluğa bakım zinciri ekle](#2100519026720231698)
 - [3B Yarış Oyunu Oluştur](#2100526922770026874)
 - [Kapatılmış Araştırma Tesisinden Kaçış: Tarayıcıda 3B Oyun](#2100595652703199281)
@@ -143,6 +142,7 @@
 - [Düşük poligonlu açık dünya sürüş sandbox oyunu](#2109153428635267345)
 - [Yürüme animasyonlu Blender goblini modeli](#2109268147068862675)
 - [Pelüş Penguen WebGPU Malzeme Çalışması](#2109288662319919127)
+- [Pelüş Ahtapot Etkileşimli WebGPU Deneyimi](#2109323102912156142)
 - [Battle City 3D: Sonsuz Tank Savunması](#battle-city-3d)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: 24 Seviyeli 3B Madencilik Oyunu](#golden-miner)
@@ -152,90 +152,6 @@
 - [TITANIC — Son Işık](#titanic-the-last-light)
 
 </details>
-
-<a id="2100350159540596760"></a>
-
-### Etkileşimli voxel şövalyesi ve kamp ateşi sahnesi
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-16
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100350159540596760"><img src="../assets/previews/c86d545b161a6223e73f07626532a18421dad108dd5d879ee1e9d26e60cb1329.jpg" width="840" loading="lazy" alt="Etkileşimli voxel şövalyesi ve kamp ateşi sahnesi"></a>
-
-Şövalyenin prosedürel olarak oluşturulduğu, kamp ateşi, seçilebilir şövalye eylemleri, kamera ön ayarları, retro HUD ve sentezlenmiş ambiyans sesleri içeren etkileşimli, Three.js tabanlı voxel tarzı gece ormanı kamp sahnesi. Gönderiyi paylaşan kişi, bu istemi ve bir görseli GPT-6 Astra'ya sağladığını belirtiyor.
-
-**İstem**
-
-```text
-Kıdemli Yaratıcı WebGL ve Three.js Geliştiricisisiniz. Göreviniz, yalnızca Three.js + WebGL kullanarak tamamen tek başına çalışan bir HTML dosyası (index.html) içinde eksiksiz, üretime hazır ve etkileşimli bir 3B sahne oluşturmaktır
-
-### 1. Görsel Tema ve Sanat Yönetimi
-
-- Atmosfer: Derin bir gece ormanı, sıcak ışık saçan rahat bir kamp ateşi ve kamp alanında dinlenen, yorgun ve yalnız bir şövalye (Dark Souls şenlik ateşi / klasik retro RPG estetiği).
-- Estetik: 3B Piksel Sanatı / Voxel / Low-Poly estetiği.
-- Gölgelendirme ve Görüntü Sonrası İşleme: Gerçekçi bir 16 bit/32 bit retro görünüm elde etmek için Three.js görüntü sonrası işleme özelliklerini (RenderPixelatedPass veya eşdeğer düşük çözünürlüklü pikselleştirme/dithering efekti) entegre edin.
-
-### 2. Sahne Geometrisi ve Varlıklar (%100 Prosedürel — Harici .gltf/.obj Dosyası Yok)
-
-Tüm varlıklar, dosyanın CORS sorunları olmadan yerel olarak çalışabilmesi için Three.js geometrik ilkel öğeleri (BoxGeometry, CylinderGeometry vb.) ve temel materyaller kullanılarak prosedürel biçimde oluşturulmalıdır.
-
-1. Orman Ortamı:
-
-   - Zemin: Prosedürel voxel taşları, mantarlar ve low-poly bitki örtüsü içeren, stilize edilmiş karanlık arazi.
-   - Ağaçlar: Açıklığı çevreleyerek derinlik ve kuşatılmışlık hissi oluşturacak prosedürel çam/ladin veya blok görünümlü taçlı ağaçlar.
-   - Gökyüzü ve Işıklandırma: Titreşen voxel yıldızlara sahip, gece yarısı tonlarında koyu bir gökyüzü ve yumuşak gölgeler oluşturan soğuk ay ışığı DirectionalLight.
-   - Derinlik: Ufuk çizgisini atmosferle harmanlamak için koyu atmosferik renge sahip THREE.FogExp2.
-
-2. Kamp Ateşi:
-
-   - Kor halindeki kütükleri ve prosedürel köz parçacıklarını çevreleyen taş çember.
-   - Ateş Sistemi: Yukarı doğru yükselen animasyonlu pikselli parçacıklar (Points veya titreşen voxel ağları).
-   - Dinamik Işıklandırma: Sürekli ve doğal bir titreşim mantığına (Math.sin, noise veya sözde rastgele değişimler kullanarak) sahip, sıcak turuncu-kırmızı bir PointLight.
-
-3. Şövalye:
-
-   - Baş, gövde, üst/alt kollar, bacaklar, pelerin ve kılıç için gruplardan oluşan hiyerarşik sahne grafiği; voxel biçimli ilkel öğeler kullanılarak oluşturulmalıdır.
-   - Görsel ayrıntılar: Yarık açıklıklı miğfer, göğüs zırhı, omuz zırhları, eldiven zırhları ve kın/kılıç.
-   - Temiz prosedürel dönüş animasyonları için pivot noktaları eklemlerde (omuzlar, dirsekler, kalçalar, dizler) doğru hizalanmalıdır.
-
-### 3. Etkileşimli Şövalye Durum Makinesi
-
-Aşağıdaki seçilebilir durumlar için oluşturma döngüsü içinde lineer enterpolasyon (lerp) veya trigonometrik eğriler kullanarak akıcı prosedürel animasyonlar uygulayın:
-
-- Ateşin Yanında Otur (Varsayılan Boşta): Bağdaş kurarak veya çömelerek oturur, hafif nefes alma döngüleri gerçekleştirir ve ellerini alevlerin yanında ısıtır.
-- Odun Ekle: Şövalye ayağa kalkar, bir kütük alır ve ateşin üzerine atar. Ateş görünür biçimde alevlenir, ışık yarıçapını geçici olarak genişletir ve bir kıvılcım patlaması yayar.
-- Kılıç Talimi: Ayağa kalkar, kılıcını çeker, temiz bir 3 parçalı saldırı/savunma rutini gerçekleştirir ve savaş gardına geri döner.
-- Uzağa Bak: Açıklığın kenarına yürür, kılıcını yere saplar ve pelerin sallanırken karanlığa doğru bakar.
-- Uyu: Ateşin yanında bir yatağın üzerine uzanır; miğferinden yüzen, animasyonlu pikselli “Z z z” parçacıkları yükselir.
-- Et Kızart: Yiyecek takılı bir çubuğu alevin üzerinde tutar; hafif prosedürel duman/buhar parçacıkları yayar.
-
-### 4. Kamera Sistemi
-
-Konum ve hedefi yumuşak geçiş enterpolasyonuyla (lerp) değiştiren ön ayarlı kamera geçişleri sunun:
-
-- Sıcak Yakın Plan: Şövalyeye ve ateş ışığına odaklanan orta plan.
-- İzometrik RPG: Açıklığın klasik, yüksekten 45 derecelik taktik görünümü.
-- Sinematik Zemin: Yıldızlı gökyüzü ve çam ağaçlarının taçları önünde şövalyeye aşağıdan yukarı bakan, alçak açılı dramatik çekim.
-- Serbest Yörünge: Etkileşimli inceleme için standart OrbitControls'a kesintisiz geçiş.
-
-### 5. Kullanıcı Arayüzü ve Ses
-
-- Arayüz Stili: Yarı saydam koyu paneller, pikselli kenarlıklar ve gömülü bir Google Font (ör. 'Press Start 2P') kullanan retro 8 bit/16 bit RPG HUD düzeni.
-- Alt Panel: Her şövalye durumunu tetikleyen etkileşimli eylem düğmeleri.
-- Sağ Üst Panel: Kamera açısı değiştirme düğmeleri.
-- Odun Sayacı: Eklenen kütükleri ve mevcut ateş yoğunluğunu takip eder.
-- Ses (Web Audio API): Prosedürel olarak sentezlenmiş ateş çıtırtısı ve gece esintisi/cırcır böceği ambiyansı; sesi açma/kapatma düğmesiyle birlikte.
-
-### 6. Teknik Özellikler
-
-- Tek ve kendi içinde çalışan index.html dosyası.
-- CDN üzerinden yüklenen ES Modules kullanın (https://t.co/W8o3SZwkCj veya unpkg).
-- Modüler, iyi yorumlanmış kod yapısı (initScene, buildEnvironment, buildKnight, buildCampfire, setupUI, setupAudio, animate).
-- Kamera en-boy oranını ve pikselleştirme geçişinin çözünürlüğünü güncelleyen pencere yeniden boyutlandırma işleyicisiyle tamamen duyarlı yapı.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100350159540596760) · [Orijinal gönderi](https://x.com/vib3coded/status/2100350602316558428) · [Örneklere dön](#all-prompts)
-
----
 
 <a id="2100519026720231698"></a>
 
@@ -3436,6 +3352,40 @@ Tüyler: alpha-to-coverage ile gerçek zamanlı kabuk tüyleri — gövdede uzun
 
 ---
 
+<a id="2109323102912156142"></a>
+
+### Pelüş Ahtapot Etkileşimli WebGPU Deneyimi
+
+[shmopix](https://x.com/shmopixbzn) · 2026-10-11
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-plush-octopus-webgpu-experience"><img src="../assets/previews/dbd611bbd2d43158546b3e8d865f4c0262d20f0f5303ce9138b503db55d268c1.jpg" width="840" loading="lazy" alt="Pelüş Ahtapot Etkileşimli WebGPU Deneyimi"></a>
+
+Prosedürel kadife bir oyuncak, yumuşak cisim deformasyonu, kolları yönlendirme, fırçalama, davranışlar, renk paletleri, kontroller ve WebGL 2 geri dönüşü içeren, duyarlı ve tek dosyalı etkileşimli bir 3B pelüş ahtapot deneyimi oluşturun.
+
+**İstem**
+
+```text
+“Plush Octopus” adlı, WebGL 2 geri dönüşüne sahip, tek dosyalı etkileşimli bir WebGPU deneyimi oluşturun.
+Tasarım: Sıcak fildişi rengi bir arka plan, mat mercan ve adaçayı yeşili vurgular, ince kenarlıklar, bol beyaz alan ve büyük, italik serif bir başlık kullanın: “Material / Octopus.” Küçük üst başlık olarak “Material Studies / No. 022.” ifadesini ekleyin. Metni minimumda tutun ve arayüzü İngilizce bırakın. Stüdyo markalaması kullanmayın. Ahtapotu sola, kompakt kontrol panelini sağa yerleştirin. Düzeni mobil cihazlara uyumlu hâle getirin.
+Ahtapot: Oyuncağın tamamını prosedürel olarak oluşturun; içe aktarılmış 3B model kullanmayın. Hafifçe sarkan bir gövde, incelerek kıvrılan sekiz kol, düşük kapaklı düğme gözler, yanda küçük bir sifon ve her kolun altında iki sıra krem rengi vantuz ekleyin. İnce yönlü hav dokusu ve yumuşak kızarma dalgaları içeren kadife bir shader kullanın. Sert beneklerden veya titreşen yüzey gürültüsünden kaçının.
+Fizik: Hafif doldurulmuş, jölemsi bir pelüş hissi verin. Gövde sıkışmalı, hacmini koruyarak yanlara doğru yayılmalı ve bırakıldıktan sonra kısa süre yalpalamalı. XPBD yumuşak cisim kafesiyle sürülen bir yüzey ağı mesh'i kullanın. Deformasyonu merkezde tutarak istenmeyen yana doğru hareket oluşturmasını engelleyin. Kollar yumuşak tel gibi düzgünce bükülmeli ve şekillerini korumalı; hızlı sürüklemelerde bile uzunluk kısıtları kararlı kalmalı. Yer çekimi, zemin sürtünmesi ve kopabilir vantuz yapışması ekleyin.
+Etkileşimler:
+El: Tek tek kolları kaldırın, sıkıştırın, bırakın ve bükün. Tutulan kollar, elin etrafına giderek sarılmalı.
+Parmak: Bir kolu çekin; gövdeye dokunulduğunda ahtapot kısa süreliğine irkilip solgunlaşmalı.
+Fırça: Hav yönünü değiştirmek için kadifeyi fırçalayın.
+Eylemler: Emekle, Saklan, Uzan, Kızar, Havı düzelt, Sıfırla.
+Kaydırıcılar: Dolgu, Tel sertliği, Kavrama.
+Paletler: Mercan, Alacakaranlık, Deniz camı.
+Çeyrek hız ve mesh geçiş düğmelerini, canlı durum göstergesini ve kompakt Kütle, Hacim, Kavrama ve Kızarma sayısal göstergelerini ekleyin.
+Animasyon ve görüntüleme: Yavaş nefes alma, ara sıra göz kırpma ve uçların bağımsız hareketini ekleyin. Sabit simülasyon adımları, görüntüleme enterpolasyonu ve düzgün harmanlanan davranışlar kullanın. Hareket; sürekli sallanma, ani sıçrama, aşırı gerilme veya tüp çerçevesi ters dönmesi olmadan doğal biçimde durulmalı.
+Gövdeyi ve kolları takip eden, kesintisiz ve yumuşak bir zemin gölgesi oluşturun. Görünür dairesel gölge izlerini, koyu üst üste binme lekelerini ve derinlik kusurlarını önleyin. Ahtapot yükseldikçe gölgeler genişleyip solmalı.
+Kendi içinde eksiksiz tek bir HTML dosyası teslim edin. Yeterli donanıma sahip cihazlarda akıcı 60 fps hedefleyin; boşta kararlılığı, kolların aşırı çekilmesini, sıkıştırıp bırakmayı, kaldırmayı, davranış geçişlerini ve mobil girişi test edin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-plush-octopus-webgpu-experience) · [Orijinal gönderi](https://x.com/shmopixbzn/status/2109323105617281235) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Sonsuz Tank Savunması
@@ -3921,7 +3871,7 @@ Açılışı, her iki karakter portresini, çarpışmayı, imdat roketlerini, ü
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 344 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 345 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

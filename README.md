@@ -29,7 +29,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**344 examples · 14 languages · 12 examples with source code**
+**345 examples · 14 languages · 12 examples with source code**
 
 ## Featured projects
 
@@ -51,7 +51,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 <details>
 <summary>Browse examples</summary>
 
-- [Interactive voxel knight campfire scene](#2100350159540596760)
 - [Add a Maintenance Chain to a Handrail](#2100519026720231698)
 - [Create a 3D Racing Game](#2100526922770026874)
 - [Browser 3D Escape Game: Escape from a Sealed Research Facility](#2100595652703199281)
@@ -144,6 +143,7 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Low-poly open-world driving sandbox game](#2109153428635267345)
 - [Goblin Blender model with walking animation](#2109268147068862675)
 - [Plush Penguin WebGPU Material Study](#2109288662319919127)
+- [Plush Octopus Interactive WebGPU Experience](#2109323102912156142)
 - [Battle City 3D: Endless Tank Defense](#battle-city-3d)
 - [Crazy Tanks — 3D Island Artillery](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: 24-Level 3D Mining Game](#golden-miner)
@@ -153,90 +153,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [TITANIC — The Last Light](#titanic-the-last-light)
 
 </details>
-
-<a id="2100350159540596760"></a>
-
-### Interactive voxel knight campfire scene
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-16
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100350159540596760"><img src="assets/previews/c86d545b161a6223e73f07626532a18421dad108dd5d879ee1e9d26e60cb1329.jpg" width="840" loading="lazy" alt="Interactive voxel knight campfire scene"></a>
-
-An interactive Three.js voxel-style night-forest camp scene with a procedurally built knight, campfire, selectable knight actions, camera presets, retro HUD, and synthesized ambient audio. The posting author states that they supplied GPT-6 Astra with this prompt and an image.
-
-**Prompt**
-
-```text
-You are a Senior Creative WebGL & Three.js Developer. Your task is to build a complete, production-ready, interactive 3D scene contained entirely within a single standalone HTML file (index.html) using Three.js + webgl
-
-### 1. Visual Theme & Art Direction
-
-- Atmosphere: Deep night forest, cozy glowing campfire, solitary weary knight resting at the campsite (Dark Souls bonfire / classic retro RPG aesthetic).
-- Aesthetic: 3D Pixel Art / Voxel / Low-Poly aesthetic.
-- Shading & Post-Processing: Integrate Three.js post-processing (RenderPixelatedPass or an equivalent low-resolution pixelation/dithering effect) to achieve an authentic 16-bit/32-bit retro look.
-
-### 2. Scene Geometry & Assets (100% Procedural — No External .gltf/.obj Files)
-
-All assets must be constructed procedurally using Three.js geometric primitives (BoxGeometry, CylinderGeometry, etc.) and basic materials so the file runs locally without CORS issues.
-
-1. Forest Environment:
-
-   - Ground: Dark stylized terrain with procedural voxel stones, mushrooms, and low-poly foliage.
-   - Trees: Procedural pine/spruce or blocky canopy trees surrounding the clearing to create depth and seclusion.
-   - Sky & Lighting: Deep midnight sky with flickering voxel stars and a cool moonlight DirectionalLight casting soft shadows.
-   - Depth: THREE.FogExp2 with a dark atmospheric color to blend the horizon.
-
-2. Campfire:
-
-   - Stone circle surrounding smoldering logs and procedural ember embers.
-   - Fire System: Animated pixelated particles (Points or pulsing voxel meshes) rising upward.
-   - Dynamic Lighting: Warm orange-red PointLight with continuous, natural flicker logic (using Math.sin, noise, or pseudo-random variations).
-
-3. The Knight:
-
-   - Hierarchical scene graph (groups for head, torso, upper/lower arms, legs, cape, and sword) built from voxelized primitives.
-   - Visual details: Slotted helmet, chest armor, pauldrons, gauntlets, and a sheath/sword.
-   - Pivot points must be aligned correctly at joints (shoulders, elbows, hips, knees) for clean procedural rotation animations.
-
-### 3. Interactive Knight State Machine
-
-Implement smooth procedural animations using linear interpolation (lerp) or trigonometric curves inside the render loop for the following selectable states:
-
-- Sit by Fire (Default Idle): Sits cross-legged or crouched, subtle breathing cycles, warming hands near the flames.
-- Add Firewood: Knight stands up, retrieves a log, and tosses it onto the fire. The fire visibly flares up, expands its light radius temporarily, and emits a burst of sparks.
-- Sword Practice: Stands up, draws the sword, executes a clean 3-part attack/parry routine, and returns to a combat guard stance.
-- Look into the Distance: Walks to the edge of the clearing, plants the sword into the ground, and stares out into the dark while the cape sways.
-- Sleep: Lies down on a bedroll beside the fire; floating animated pixel "Z z z" particles rise from the helmet.
-- Roast Meat: Holds a stick with food over the flame; emits subtle procedural smoke/steam particles.
-
-### 4. Camera System
-
-Provide preset camera switches with smooth transition interpolation (lerping position and target):
-
-- Cozy Close-up: Medium shot focusing on the knight and the firelight.
-- Isometric RPG: Classic high 45-degree tactical overview of the clearing.
-- Cinematic Ground: Low-angle dramatic shot looking upward at the knight against the starry sky and pine canopies.
-- Free Orbit: Seamless switch to standard OrbitControls for interactive inspection.
-
-### 5. UI & Audio
-
-- UI Style: Retro 8-bit/16-bit RPG HUD layout using semi-transparent dark frames with pixelated borders and an embedded Google Font (e.g., 'Press Start 2P').
-- Bottom Panel: Interactive action buttons triggering each knight state.
-- Top-Right Panel: Camera angle switcher buttons.
-- Firewood Counter: Tracks logs added and current fire intensity.
-- Sound (Web Audio API): Procedurally synthesized fire crackle and ambient night breeze/crickets, with a mute/unmute toggle button.
-
-### 6. Technical Specifications
-
-- Single, self-contained index.html file.
-- Use ES Modules loaded via CDN (https://t.co/W8o3SZwkCj or unpkg).
-- Modular, well-commented code structure (initScene, buildEnvironment, buildKnight, buildCampfire, setupUI, setupAudio, animate).
-- Fully responsive window resize handler updating camera aspect ratio and pixelation pass resolution.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100350159540596760) · [Original post](https://x.com/vib3coded/status/2100350602316558428) · [Back to examples](#all-prompts)
-
----
 
 <a id="2100519026720231698"></a>
 
@@ -3372,6 +3288,40 @@ Fur: real-time shell fur with alpha-to-coverage — long fluffy down on the body
 
 ---
 
+<a id="2109323102912156142"></a>
+
+### Plush Octopus Interactive WebGPU Experience
+
+[shmopix](https://x.com/shmopixbzn) · 2026-10-11
+
+<a href="https://www.tripo3d.ai/3d-prompts/interactive-plush-octopus-webgpu-experience"><img src="assets/previews/dbd611bbd2d43158546b3e8d865f4c0262d20f0f5303ce9138b503db55d268c1.jpg" width="840" loading="lazy" alt="Plush Octopus Interactive WebGPU Experience"></a>
+
+Create a responsive, single-file interactive 3D plush octopus experience with a procedural velvet toy, soft-body deformation, arm manipulation, brushing, behaviors, palettes, controls, and WebGL 2 fallback. The author supplied this prompt in a verified author comment.
+
+**Prompt**
+
+```text
+Build “Plush Octopus”, a single-file interactive WebGPU experience with a WebGL 2 fallback.
+Design: Use a warm ivory background, muted coral and sage accents, thin borders, generous whitespace, and a large italic serif title: “Plush / Octopus.” Add the small kicker “Material Studies / No. 022.” Keep text minimal and the UI in English. No studio branding. Place the octopus on the left and a compact control panel on the right. Make the layout responsive for mobile.
+Octopus: Create the entire toy procedurally—no imported 3D models. Give it a softly sagging mantle, eight tapered curling arms, heavy-lidded button eyes, a small side siphon, and two rows of cream-colored suckers beneath each arm. Use soft velvet shading with subtle directional nap and gentle blush waves. Avoid harsh speckles or flickering surface noise.
+Physics: Make it feel like a lightly stuffed, jelly-like plush. The mantle should squash, spread sideways while preserving volume, and wobble briefly after release. Use a surface-net mesh driven by an XPBD soft-body lattice. Keep deformation centered so it cannot create unwanted sideways motion. Arms should bend smoothly and retain their shape like soft wire, with stable length constraints even during fast dragging. Include gravity, floor friction, and breakable sucker adhesion.
+Interactions:
+Hand: Lift, squash, release, and bend individual arms. Held arms gradually wrap around the hand.
+Finger: Attract an arm; tapping the mantle makes the octopus briefly startle and pale.
+Brush: Stroke the velvet to change its nap.
+Actions: Crawl, Hide, Reach, Blush, Smooth nap, Reset.
+Sliders: Stuffing, Wire stiffness, Grip.
+Palettes: Coral, Dusk, Sea glass.
+Include quarter-speed and mesh toggles, a live status indicator, and compact Mass, Volume, Grip, and Blushes readouts.
+Animation and rendering: Add slow breathing, occasional blinking, and independent tip movement. Use fixed simulation steps with render interpolation and smoothly blended behaviors. Motion must settle naturally without perpetual rocking, snapping, stretching, or tube-frame flips.
+Render one continuous, soft floor shadow that follows the body and arms. Prevent visible circular shadow stamps, dark overlap patches, and depth artifacts. Shadows should broaden and fade as the octopus rises.
+Deliver one self-contained HTML file. Aim for smooth 60 fps on capable devices and test idle stability, extreme arm pulls, squash-and-release, lifting, behavior transitions, and mobile input.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/interactive-plush-octopus-webgpu-experience) · [Original post](https://x.com/shmopixbzn/status/2109323105617281235) · [Back to examples](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Endless Tank Defense
@@ -3857,7 +3807,7 @@ Inspect the opening, both character portraits, collision, distress rockets, all 
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 344 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 345 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>
