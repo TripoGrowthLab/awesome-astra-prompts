@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**345 · Prompt Astra mới nhất**
+**346 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Khám phá ví dụ</summary>
 
-- [Thêm xích bảo trì vào lan can](#2100519026720231698)
 - [Tạo game đua xe 3D](#2100526922770026874)
 - [Game 3D trên trình duyệt: Thoát khỏi cơ sở nghiên cứu bị phong tỏa](#2100595652703199281)
 - [Tự thiết kế một cơ thể bằng CAD](#2100614534423540102)
@@ -143,6 +142,7 @@
 - [Mô hình Goblin trong Blender với hoạt ảnh đi bộ](#2109268147068862675)
 - [Nghiên cứu vật liệu WebGPU: Chim cánh cụt bông](#2109288662319919127)
 - [Trải nghiệm WebGPU tương tác với bạch tuộc nhồi bông](#2109323102912156142)
+- [Diorama đền thờ tương tác: Torii lúc triều cường](#2110014604524896392)
 - [Battle City 3D: Phòng thủ xe tăng vô tận](#battle-city-3d)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: Game khai thác vàng 3D 24 cấp độ](#golden-miner)
@@ -152,26 +152,6 @@
 - [TITANIC — Ánh sáng cuối cùng](#titanic-the-last-light)
 
 </details>
-
-<a id="2100519026720231698"></a>
-
-### Thêm xích bảo trì vào lan can
-
-[きのした](https://x.com/ujiden_type0) · 2026-09-17
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/cad-handrail-maintenance-chain"><img src="../assets/previews/000aacea97c0955d46b761f1a1e1e46f9d755a6347c0b4214dfb9ea67515b9f9.jpg" width="840" loading="lazy" alt="Thêm xích bảo trì vào lan can"></a>
-
-Hướng dẫn chỉnh sửa mô hình CAD để thêm xích bảo trì vào lan can.
-
-**Prompt**
-
-```text
-Thêm xích bảo trì vào lan can nhé!
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/cad-handrail-maintenance-chain) · [Bài đăng gốc](https://x.com/ujiden_type0/status/2100519026720231698) · [Về danh sách ví dụ](#all-prompts)
-
----
 
 <a id="2100526922770026874"></a>
 
@@ -3386,6 +3366,74 @@ Xuất một tệp HTML tự chứa duy nhất. Hướng đến tốc độ mư�
 
 ---
 
+<a id="2110014604524896392"></a>
+
+### Diorama đền thờ tương tác: Torii lúc triều cường
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/torii-high-tide-interactive-shrine-diorama"><img src="../assets/previews/113062eda931b7ae2121b96f424460155c1d365397d8d64dc5446f4794939860.jpg" width="840" loading="lazy" alt="Diorama đền thờ tương tác: Torii lúc triều cường"></a>
+
+Tạo một diorama WebGL Three.js dạng procedural, gói trong một tệp duy nhất, mô phỏng một đảo đền thờ Nhật Bản thu nhỏ với cổng torii, các tòa đền, tháp năm tầng, thảm thực vật theo mùa, cá koi, mặt nước thủy triều chân thực, giao diện biên tập đáp ứng và các điều khiển tương tác cho mực triều, mùa, thời gian, sóng và thiết lập mặt nước.
+
+**Prompt**
+
+```text
+Xây dựng một diorama WebGL tương tác trong một tệp duy nhất (một index.html, không cần bước build), dùng Three.js r160 được nạp qua import map từ https://t.co/lj8MfmK18g, cùng OrbitControls và BufferGeometryUtils (mergeVertices, mergeGeometries) từ three/examples/jsm. Mọi thứ đều được tạo procedural — không dùng mô hình hay kết cấu bề mặt bên ngoài.
+
+CONCEPT
+"Torii lúc triều cường": một đảo đền thờ Nhật Bản thu nhỏ lấy cảm hứng từ Itsukushima, nằm trong khối nước trong suốt kích thước 10×10 với các cạnh bo tròn (bán kính góc đứng khoảng 0.6, bán kính mép trên khoảng 0.26), đặt trên một đế mỏng màu cát, trên nền giấy washi màu ấm với bóng sàn mềm dần biến mất theo khoảng cách (để bóng dài lúc chạng vạng không kéo vệt ngang trang).
+
+ĐỊA HÌNH (heightfield khoảng 400×400, cắt theo khối bo tròn, có “skirt” ở biên để mặt cắt vẫn nhìn thấy xuyên qua nước)
+- Làm việc trong hệ tọa độ cục bộ hướng về camera (u = ngang, v = hướng về người xem).
+- Một ngọn đồi hình vòm phủ rừng ở phía sau (cao khoảng 2.4), một sân đền cát thấp dưới chân đồi, rồi một bãi triều rộng thoải dần ở phía trước (từ khoảng -0.06 xuống -0.46), hạ xuống khoảng -1.0 ở phía trước và hai bên.
+- Hai mũi đất granite nhiều đá bao quanh vịnh, mỗi mũi có 1–2 cây thông kiểu bonsai nghiêng mình (thân phân đoạn + tán dẹt theo từng tầng).
+- Một khoảng đất phẳng bên sườn đồi dành cho tháp năm tầng.
+- Shader địa hình: đá granite trên các sườn dốc (lốm đốm, dải ướt sẫm màu ngay trên mực nước, phần bên dưới sẫm màu vì tảo), cát có vệt ướt, cát bãi triều ướt sẫm màu hơn bên dưới mốc triều cường, rêu/cỏ trên đồi và thành từng mảng trên sân đền, tuyết trên các bề mặt hướng lên vào mùa đông, caustics procedural động dưới nước. AO đường chân trời được bake trên CPU theo từng đỉnh, kết hợp làm tối theo độ che phủ của tán cây.
+
+KIẾN TRÚC (gộp mọi thứ thành một mesh có màu theo đỉnh + một mesh “glow” phát sáng; viết một Builder nhỏ để thêm hộp, hình trụ, hình cầu/hình học tùy chỉnh với màu và phép biến đổi, sau đó dùng mergeGeometries)
+- Cổng torii kiểu Ryōbu đứng trong vịnh trên trục của đền (cao khoảng 1.9): hai trụ chính màu son thuôn dần với lớp bọc chân màu đen, bốn chân sode-bashira đỡ cổng có chóp đen và mỗi chân có hai dầm nối, dầm nuki giằng ngang, thanh chống trung tâm với biển tối màu, shimaki và kasagi cong (hình đùn với hai đầu vểnh lên) phủ một lớp đen bên trên. Các trụ phải kết thúc bên trong shimaki, không xuyên qua kasagi.
+- Đền dựng trên cọc phía trên bãi triều: sàn ván (có dải khe giữa các ván và dầm mép tối màu) trên lưới cọc gỗ kéo xuống đáy biển; một chính điện và một tiền điện nhỏ hơn (tường trắng, trụ và dầm giằng màu son, các tấm mặt trước kiểu shoji = tấm phát sáng phía sau lớp song mảnh tối màu), một sân thấp phía trước với lan can màu son, cùng hai hành lang có mái màu son trên cọc chạy ngang rồi vòng trở lại bờ.
+- Mái: bộ tạo mái bốn phía với biên dạng lõm và các góc hiên hất lên (mặt trên màu nâu vỏ bách tối, mặt dưới gỗ ấm, diềm viền màu nhạt, chóp nóc màu đen).
+- Tháp năm tầng trên khoảng đất trống của đồi: bệ đá, tường trắng với trụ màu son, tầng đấu củng, các mái xòe nhỏ dần theo chiều cao, chóp đồng có các vòng.
+- Đèn đá tōrō trên sân đền và sân trước (đế lục giác, thân, hộp lửa với cửa sổ phát sáng, mái nhỏ, viên ngọc).
+
+VEGETATION
+- Khoảng 4–5 nghìn khối tán cây (InstancedMesh gồm các icosphere có biến dạng nhiễu theo đỉnh + bump trong fragment shader), gom thành 2–4 khối cho mỗi cây, AO theo từng instance dựa trên sự che khuất của cây lân cận, phần ngọn sáng hơn.
+- Bốn loại thông qua thuộc tính instance: cây lá rộng, anh đào, phong, thông (tán dẹt). Cây anh đào tập trung ở phần thấp của đồi và gồm 5 cây điểm nhấn có thân nhìn thấy trên sân đền; thông chiếm ưu thế trên đỉnh đồi và các mũi đất.
+- Màu sắc lấy từ các uniform bảng màu tối/sáng theo từng loại, được JS phối trộn qua các mùa.
+
+MÙA (chu kỳ 0..4 = xuân, hạ, thu, đông; chuyển cảnh động từ nút trên dock)
+- Mùa xuân: hoa anh đào hồng, cánh hoa rơi. Mùa hè: xanh tươi rậm rạp, không có hạt. Mùa thu: phong đỏ, cây lá rộng cam/vàng, lá phong rơi. Mùa đông: các khối cây lá rụng màu nâu trơ cành hơn, thu nhỏ khoảng 38%, tuyết trên ngọn tán, mái, sàn, đá và mặt đất; tuyết rơi rồi tan ngay trên mặt nước.
+
+MẶT NƯỚC (chân thực, không giống thạch rau câu)
+- Quy trình: cảnh đục → render target HalfFloat có MSAA với DepthTexture; sao chép sang target thứ hai, sau đó vẽ mặt nước bằng ShaderMaterial tùy chỉnh thực hiện kiểm tra độ sâu thủ công; tiếp đến là các hạt nổi; cuối cùng là pass toàn màn hình với tone mapping ACES, sRGB và hiệu ứng tilt-shift nhẹ. Canvas trong suốt phủ lên nền CSS.
+- Màu sắc dựa trên độ dày thực: tái dựng độ sâu phía sau mỗi pixel mặt nước, hấp thụ theo Beer–Lambert hướng tới màu tán xạ sâu được suy ra từ màu nước người dùng (nhạt trên bãi triều, xanh ở vùng sâu; các vách bên có độ dài đường truyền lớn hơn để thể hiện chúng là một thể tích nước).
+- Khúc xạ trong không gian màn hình, phản chiếu bầu trời theo Fresnel, ánh lấp lánh mặt trời từ các pháp tuyến chi tiết nhỏ chuyển động.
+- Phản chiếu trong không gian màn hình (khoảng 26 bước ray-march dựa trên depth buffer, ít hơn trên thiết bị di động) để cổng torii, đền và đèn sáng phản chiếu trên mặt nước.
+- Gợn sóng: phương trình sóng GPU trên render target HalfFloat ping-pong 256×256, bước cố định 60 Hz, texture mặt nạ đất liền để sóng phản xạ khỏi bờ. Chuyển động con trỏ tạo các giọt hình viên nang dọc theo đường đi; một cú nhấp tạo tia nước bắn.
+- Bọt ven bờ chỉ xuất hiện khi địa hình gần mực nước VÀ có độ dốc thoải (không tạo viền trắng quanh vách đá, cọc hay trụ torii); độ rộng dải bọt được điều chỉnh theo độ dốc và bị nhiễu phá vỡ.
+- Thủy triều: một nút gạt trên dock chuyển động giữa triều cường (0) và triều rút (-0.55): mép khối nước di chuyển và các mặt bên giãn ra; khi triều rút, toàn bộ bãi triều lộ ra và cổng torii đứng trên cát ướt.
+
+HẠT (cánh hoa / lá / tuyết, khoảng 700 quad instanced, mô phỏng trên CPU)
+- Sinh ra từ các khối tán anh đào (mùa xuân), khối tán cây lá rụng (mùa thu) hoặc bầu trời (mùa đông); chúng chao lượn khi rơi; gió giật thổi từ đảo về phía vịnh để đưa chúng ra mặt nước.
+- Khi chạm đất: trên mặt nước, chúng chuyển thành vật thể nổi (vertex shader nâng chúng theo đúng độ cao gợn + sóng của mặt nước), trôi chậm, bị đẩy bởi chuyển động con trỏ và cuốn đi bởi tia nước do cú nhấp tạo ra, mắc lại khi triều rút, nổi trở lại khi triều dâng; trên đất liền, chúng nằm yên và mờ dần.
+- Hình dạng được vẽ trong fragment shader: cánh hoa khuyết, lá phong năm thùy, đĩa tuyết mềm. Kiểm tra độ sâu thủ công dựa trên depth của cảnh.
+
+KOI
+- 7 cá koi (thân tạo bằng lathe + đuôi quạt chẻ đôi + vây ngực, đã gộp), InstancedMesh với chuyển động uốn khi bơi trong vertex shader và hoa văn procedural theo từng loại (kohaku, sanke, showa, ogon, cam trơn). Chúng bơi lang thang, tránh vùng nước nông và thành khối, chạy khỏi con trỏ và các tia nước. Được render bên dưới mặt nước để bị khúc xạ và nhuộm màu.
+
+THỜI GIAN TRONG NGÀY (thanh trượt, hiển thị như đồng hồ từ 11:00 đến khoảng 19:10)
+- Độ cao, màu sắc và cường độ mặt trời, màu sắc bán cầu cùng phản chiếu bầu trời trên mặt nước thay đổi từ giữa trưa đến giờ vàng; khi gần chạng vạng, các tấm shoji và đèn phát sáng (emissive), đồng thời ba đèn điểm ấm chiếu sáng ngôi đền, sân trước và cổng torii.
+
+GIAO DIỆN (biên tập, tối giản, tiếng Anh)
+Thương hiệu "shiosai°" với biểu tượng torii nhỏ, tiêu đề "A gate that / stands in the sea.", dòng dẫn "Shrine and tide, in miniature", chú thích dọc "A study of tide and seasons", nhãn địa điểm "Shrine Cove · 34°16′ N · 132°19′ E", dock nổi dạng viên thuốc (reset, chu kỳ mùa với tên mùa hiện tại, nút gạt High tide / Low tide, Tune, fullscreen), gợi ý và chỉ số FPS thích ứng cùng thông tin "Season · time" ở chân trang, bảng cài đặt dạng kính (mùa, thời gian trong ngày, cánh hoa rơi; màu nước, mực triều, độ cao sóng, cường độ gợn, độ trong, caustics; phương vị mặt trời, tilt-shift), và thẻ "How it's made". Điểm nhấn màu son, giao diện sáng và tối qua các token CSS, đáp ứng tới 390 px (bảng chuyển thành sheet ở cạnh dưới), tôn trọng prefers-reduced-motion, tỷ lệ pixel thích ứng và chế độ nhẹ hơn cho thiết bị cảm ứng. Mở đầu: mặt nước lấp đầy khối trong khi camera từ từ tiến vào.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/torii-high-tide-interactive-shrine-diorama) · [Bài đăng gốc](https://x.com/vib3coded/status/2110014758548078979) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Phòng thủ xe tăng vô tận
@@ -3871,7 +3919,7 @@ Kiểm tra cảnh mở đầu, cả hai chân dung nhân vật, va chạm, pháo
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 345 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 346 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

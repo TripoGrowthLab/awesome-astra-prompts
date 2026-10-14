@@ -28,7 +28,7 @@
 **Un punto di partenza per il tuo prossimo gioco, scena o mondo interattivo.**
 
 
-**345 · Prompt Astra più recenti**
+**346 · Prompt Astra più recenti**
 
 ## Progetti in evidenza
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Esplora gli esempi</summary>
 
-- [Aggiungi una catena di manutenzione al corrimano](#2100519026720231698)
 - [Creare un gioco di corse 3D](#2100526922770026874)
 - [Gioco 3D di fuga nel browser da una struttura di ricerca chiusa](#2100595652703199281)
 - [Un corpo progettato in CAD](#2100614534423540102)
@@ -143,6 +142,7 @@
 - [Modello di goblin in Blender con animazione di camminata](#2109268147068862675)
 - [Studio dei materiali WebGPU: pinguino di peluche](#2109288662319919127)
 - [Esperienza WebGPU interattiva con un polpo di peluche](#2109323102912156142)
+- [Diorama interattivo del torii con l’alta marea](#2110014604524896392)
 - [Battle City 3D: Difesa infinita con i carri armati](#battle-city-3d)
 - [Crazy Tanks — Artiglieria 3D sulle isole](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: gioco minerario 3D a 24 livelli](#golden-miner)
@@ -152,26 +152,6 @@
 - [TITANIC — L’ultima luce](#titanic-the-last-light)
 
 </details>
-
-<a id="2100519026720231698"></a>
-
-### Aggiungi una catena di manutenzione al corrimano
-
-[きのした](https://x.com/ujiden_type0) · 2026-09-17
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/cad-handrail-maintenance-chain"><img src="../assets/previews/000aacea97c0955d46b761f1a1e1e46f9d755a6347c0b4214dfb9ea67515b9f9.jpg" width="840" loading="lazy" alt="Aggiungi una catena di manutenzione al corrimano"></a>
-
-Istruzioni per modificare un modello CAD aggiungendo una catena di manutenzione al corrimano.
-
-**Prompt**
-
-```text
-Aggiungi una catena di manutenzione al corrimano!
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/cad-handrail-maintenance-chain) · [Post originale](https://x.com/ujiden_type0/status/2100519026720231698) · [Torna agli esempi](#all-prompts)
-
----
 
 <a id="2100526922770026874"></a>
 
@@ -3386,6 +3366,74 @@ Consegna un unico file HTML autonomo. Punta a 60 fps fluidi sui dispositivi comp
 
 ---
 
+<a id="2110014604524896392"></a>
+
+### Diorama interattivo del torii con l’alta marea
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/torii-high-tide-interactive-shrine-diorama"><img src="../assets/previews/113062eda931b7ae2121b96f424460155c1d365397d8d64dc5446f4794939860.jpg" width="840" loading="lazy" alt="Diorama interattivo del torii con l’alta marea"></a>
+
+Crea un diorama WebGL procedurale in Three.js, contenuto in un singolo file, raffigurante una miniatura di un’isola con santuario giapponese: torii, edifici del santuario, pagoda, vegetazione stagionale, koi, acqua di marea realistica, un’interfaccia editoriale responsive e controlli interattivi per marea, stagioni, ora, onde e impostazioni dell’acqua.
+
+**Prompt**
+
+```text
+Crea un diorama WebGL interattivo in un singolo file (un solo index.html, senza fase di build) con Three.js r160 caricato tramite una import map da https://t.co/lj8MfmK18g,, oltre a OrbitControls e BufferGeometryUtils (mergeVertices, mergeGeometries) da three/examples/jsm. Tutto deve essere procedurale: nessun modello o texture esterna.
+
+CONCEPT
+"Torii at High Tide": una miniatura di un’isola con santuario giapponese ispirata a Itsukushima, all’interno di un blocco d’acqua trasparente di 10×10 con bordi arrotondati (raggio verticale degli angoli ~0.6, raggio del bordo superiore ~0.26), poggiato su una sottile base color sabbia, su uno sfondo caldo di carta washi con un’ombra morbida sul pavimento che sfuma con la distanza (così le lunghe ombre del crepuscolo non attraversano la pagina).
+
+TERRENO (heightfield di circa 400×400, ritagliato sul blocco arrotondato, con una «gonna» perimetrale così che la sezione trasversale sia visibile attraverso l’acqua)
+- Lavora in un sistema di coordinate locale rivolto verso la camera (u = trasversale, v = verso l’osservatore).
+- Sul retro, una collina boscosa a forma di cupola (~2.4 di altezza), ai suoi piedi una bassa terrazza sabbiosa del santuario, quindi davanti un’ampia piana tidale dalla pendenza dolce (da ~-0.06 a ~-0.46), che scende fino a ~-1.0 sul fronte e ai lati.
+- Due promontori rocciosi di granito delimitano la baia, ciascuno con 1–2 pini inclinati in stile bonsai (tronchi segmentati + chiome appiattite a cuscino).
+- Una radura pianeggiante sul fianco della collina per la pagoda.
+- Shader del terreno: roccia granitica sui pendii ripidi (maculata, con una fascia umida più scura appena sopra la linea dell’acqua e alghe scure al di sotto), sabbia con una linea bagnata, sabbia intertidale umida e più scura sotto il limite dell’alta marea, muschio/erba sulla collina e a chiazze sulla terrazza, neve sulle superfici rivolte verso l’alto in inverno, caustiche procedurali animate sott’acqua. AO dell’orizzonte precalcolata lato CPU per ogni vertice, più scurimento dovuto alla copertura delle chiome.
+
+ARCHITETTURA (unisci tutto in un’unica mesh con colori per vertice + un’unica mesh emissiva «glow»; scrivi un piccolo Builder che aggiunga box/cilindri/sfere/geometrie personalizzate con un colore e una trasformazione, quindi usi mergeGeometries)
+- Un torii in stile Ryōbu in piedi nella baia, sull’asse del santuario (~1.9 di altezza): pilastri principali vermigli rastremati con guaine nere alla base, quattro gambe di sostegno sode-bashira con cappucci neri e due travi di collegamento ciascuna, trave di legatura nuki, montante centrale con targa scura, shimaki e kasagi curvo (forma estrusa con estremità rialzate) con uno strato superiore nero. I pilastri devono terminare all’interno dello shimaki, senza fuoriuscire dal kasagi.
+- Santuario su palafitte sopra la piana tidale: piattaforma in assi (con strisce negli spazi tra le assi e travi scure sui bordi) sostenuta da una griglia di pali in legno che raggiungono il fondale; una sala principale e una sala anteriore più piccola (pareti bianche, montanti e travi di legatura vermigli, pannelli frontali in stile shoji = pannelli luminosi dietro un sottile reticolo scuro), un palco anteriore più basso con ringhiere vermiglie e due corridoi vermigli coperti su palafitte, che si sviluppano lateralmente per poi tornare verso la riva.
+- Tetti: un generatore di tetti a padiglione con profilo concavo e angoli della gronda rialzati (superficie superiore marrone scuro da corteccia di cipresso, intradosso in legno caldo, finiture chiare sulla fascia, coprifilo nero sul colmo).
+- Una pagoda a cinque piani nella radura sulla collina: zoccolo in pietra, pareti bianche con montanti vermigli, livello di mensole, tetti svasati di dimensioni decrescenti e pinnacolo in bronzo con anelli.
+- Lanterna tōrō in pietra sulla terrazza e sul palco (base esagonale, fusto, camera del fuoco con finestre emissive, piccolo tetto, gioiello).
+
+VEGETATION
+- ~4–5k masse di chioma (InstancedMesh di icosfere con deformazione tramite rumore sui vertici + rilievo nello shader dei frammenti), raggruppate 2–4 per albero, AO per istanza dovuta all’occlusione dei vicini e parti superiori più luminose.
+- Quattro tipi tramite un attributo dell’istanza: latifoglie, ciliegi, aceri, pini (cuscini appiattiti). I ciliegi si concentrano nella parte bassa della collina e come 5 alberi caratteristici con tronchi visibili sulla terrazza; i pini dominano la cima e i promontori.
+- I colori derivano da uniform di palette scure/chiare per ciascun tipo, che il JS interpola tra le stagioni.
+
+STAGIONI (ciclo 0..4 = primavera, estate, autunno, inverno; transizione animata da un pulsante nel dock)
+- Primavera: sakura rosa, petali che cadono. Estate: verde rigoglioso, nessuna particella. Autunno: aceri rossi, latifoglie arancioni/gialle, foglie d’acero che cadono. Inverno: masse decidue spoglie o quasi, marroni e ridotte di ~38%, neve sulle parti superiori delle chiome, sui tetti, sulle piattaforme, sulle rocce e sul terreno; neve in caduta che si scioglie istantaneamente sull’acqua.
+
+ACQUA (realistica, non gelatinosa)
+- Pipeline: scena opaca → target MSAA HalfFloat con DepthTexture; copia in un secondo target, quindi disegna l’acqua con uno ShaderMaterial personalizzato che esegue un test manuale della profondità; poi particelle fluttuanti; pass fullscreen finale con tone mapping ACES, sRGB e tilt-shift leggero. Canvas trasparente sopra lo sfondo CSS.
+- Colore basato sullo spessore reale: ricostruisci la profondità dietro ogni pixel dell’acqua, con assorbimento di Beer–Lambert verso un colore di scattering profondo derivato dal colore dell’acqua scelto dall’utente (pallido sulle secche, blu nelle zone profonde; le pareti laterali ricevono una lunghezza del percorso aggiuntiva per risultare come un volume d’acqua).
+- Rifrazione screen-space, riflesso del cielo secondo Fresnel e bagliori del sole ottenuti da normali di dettaglio animate e fini.
+- Riflessi screen-space (~26 passi di ray marching contro il depth buffer, meno su mobile), così torii, santuario e lanterne illuminate si riflettono nell’acqua.
+- Increspature: equazione delle onde sulla GPU su un target ping-pong HalfFloat 256×256, passi fissi a 60 Hz e texture land-mask per far riflettere le onde dalla riva. Il movimento del cursore inserisce gocce a capsula lungo il suo percorso; un clic genera uno spruzzo.
+- Schiuma sulla riva solo dove il terreno è vicino al livello dell’acqua E ha una pendenza dolce (nessun contorno bianco attorno a scogliere, palafitte o pilastri del torii); larghezza della fascia di schiuma scalata in base alla pendenza; interrotta dal rumore.
+- Marea: un toggle nel dock anima il passaggio dall’alta marea (0) alla bassa marea (-0.55): il bordo del blocco d’acqua si sposta e i suoi lati si allungano; con la bassa marea l’intera piana è esposta e il torii si trova sulla sabbia bagnata.
+
+PARTICELLE (petali / foglie / neve, ~700 quad istanziati, simulate lato CPU)
+- Generale dalle masse dei ciliegi (primavera), dalle masse decidue (autunno) o dal cielo (inverno); fluttuano durante la caduta; un vento a raffiche soffia dall’isola verso la baia, portandole fino all’acqua.
+- Atterraggio: sull’acqua diventano galleggianti (il vertex shader le solleva della stessa altezza di increspature + onde dell’acqua), derivano lentamente, vengono spinte dal movimento del cursore e allontanate dagli spruzzi dei clic, si arenano quando la marea scende e tornano a galleggiare quando sale; sulla terra si posano e svaniscono.
+- Forme disegnate nello fragment shader: petalo dentellato, foglia d’acero a cinque lobi, morbido disco di neve. Test manuale della profondità rispetto alla depth della scena.
+
+KOI
+- 7 koi (corpo ottenuto con lathe + coda a ventaglio biforcuta + pinne pettorali, unite), InstancedMesh con oscillazione del nuoto nel vertex shader e pattern procedurali per tipo (kohaku, sanke, showa, ogon, arancione uniforme). Si muovono senza meta, evitano le acque basse e le pareti del blocco e fuggono dal cursore e dagli spruzzi. Vengono renderizzate sotto l’acqua, quindi rifratte e colorate.
+
+ORA DEL GIORNO (slider, mostrato come un orologio dalle 11:00 alle ~19:10)
+- L’elevazione, il colore e l’intensità del sole, i colori dell’emisfero e il riflesso del cielo sull’acqua cambiano da mezzogiorno all’ora dorata; verso il crepuscolo i pannelli shoji e le lanterne si illuminano (emissivi) e tre luci puntiformi calde illuminano il santuario, il palco e il torii.
+
+UI (editoriale, minimale, in inglese)
+Brand «shiosai°» con un piccolo simbolo di torii, titolo «A gate that / stands in the sea.», eyebrow «Shrine and tide, in miniature», didascalia verticale «A study of tide and seasons», etichetta della posizione «Shrine Cove · 34°16′ N · 132°19′ E», dock flottante a pillola (reset, ciclo delle stagioni con il nome della stagione corrente, toggle High tide / Low tide, Tune, fullscreen), suggerimenti e indicatore adattivo degli FPS + lettura «Season · time» nel footer, pannello impostazioni effetto vetro (stagione, ora del giorno, petali che cadono; colore dell’acqua, livello della marea, altezza delle onde, intensità delle increspature, limpidezza, caustiche; azimut del sole, tilt-shift) e scheda «How it's made». Accento vermiglio, temi chiaro e scuro tramite token CSS, responsive fino a 390 px (il pannello diventa un bottom sheet), rispetto di prefers-reduced-motion, rapporto pixel adattivo e modalità più leggera per i dispositivi touch. Intro: l’acqua riempie il blocco mentre la camera entra dolcemente.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/torii-high-tide-interactive-shrine-diorama) · [Post originale](https://x.com/vib3coded/status/2110014758548078979) · [Torna agli esempi](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Difesa infinita con i carri armati
@@ -3871,7 +3919,7 @@ Ispezionare l’apertura, entrambi i ritratti dei personaggi, la collisione, i r
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 345 esempi sul sito ufficiale →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 346 esempi sul sito ufficiale →</a></strong></p>
 <p><sub>Per mantenere fluido il rendering del README su GitHub, qui mostriamo solo i 100 esempi più recenti.</sub></p>
 <br>
 </td></tr>

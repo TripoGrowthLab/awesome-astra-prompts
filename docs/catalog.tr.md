@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**345 · En yeni Astra istemleri**
+**346 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Örnekleri keşfet</summary>
 
-- [Korkuluğa bakım zinciri ekle](#2100519026720231698)
 - [3B Yarış Oyunu Oluştur](#2100526922770026874)
 - [Kapatılmış Araştırma Tesisinden Kaçış: Tarayıcıda 3B Oyun](#2100595652703199281)
 - [CAD ile kendi gövdesi](#2100614534423540102)
@@ -143,6 +142,7 @@
 - [Yürüme animasyonlu Blender goblini modeli](#2109268147068862675)
 - [Pelüş Penguen WebGPU Malzeme Çalışması](#2109288662319919127)
 - [Pelüş Ahtapot Etkileşimli WebGPU Deneyimi](#2109323102912156142)
+- [Yüksek Gelgitte Torii: Etkileşimli Tapınak Dioraması](#2110014604524896392)
 - [Battle City 3D: Sonsuz Tank Savunması](#battle-city-3d)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: 24 Seviyeli 3B Madencilik Oyunu](#golden-miner)
@@ -152,26 +152,6 @@
 - [TITANIC — Son Işık](#titanic-the-last-light)
 
 </details>
-
-<a id="2100519026720231698"></a>
-
-### Korkuluğa bakım zinciri ekle
-
-[きのした](https://x.com/ujiden_type0) · 2026-09-17
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/cad-handrail-maintenance-chain"><img src="../assets/previews/000aacea97c0955d46b761f1a1e1e46f9d755a6347c0b4214dfb9ea67515b9f9.jpg" width="840" loading="lazy" alt="Korkuluğa bakım zinciri ekle"></a>
-
-Korkuluğa bakım zinciri eklemeye yönelik CAD modeli düzenleme talimatı.
-
-**İstem**
-
-```text
-Korkuluğa bakım zinciri ekle!
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/cad-handrail-maintenance-chain) · [Orijinal gönderi](https://x.com/ujiden_type0/status/2100519026720231698) · [Örneklere dön](#all-prompts)
-
----
 
 <a id="2100526922770026874"></a>
 
@@ -3386,6 +3366,74 @@ Kendi içinde eksiksiz tek bir HTML dosyası teslim edin. Yeterli donanıma sahi
 
 ---
 
+<a id="2110014604524896392"></a>
+
+### Yüksek Gelgitte Torii: Etkileşimli Tapınak Dioraması
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/torii-high-tide-interactive-shrine-diorama"><img src="../assets/previews/113062eda931b7ae2121b96f424460155c1d365397d8d64dc5446f4794939860.jpg" width="840" loading="lazy" alt="Yüksek Gelgitte Torii: Etkileşimli Tapınak Dioraması"></a>
+
+Torii, tapınak yapıları, pagoda, mevsimsel bitki örtüsü, koi balıkları, gerçekçi gelgit suyu, duyarlı editoryal arayüz ve gelgit, mevsimler, zaman, dalgalar ve su ayarları için etkileşimli kontroller içeren, prosedürel ve tek dosyalı bir Three.js WebGL minyatür Japon tapınak adası dioraması oluşturun.
+
+**İstem**
+
+```text
+Tek dosyalı, etkileşimli bir WebGL dioraması oluşturun (tek bir index.html, derleme adımı yok). Three.js r160'ı https://t.co/lj8MfmK18g, üzerinden bir import map ile, ayrıca three/examples/jsm içinden OrbitControls ve BufferGeometryUtils'ı (mergeVertices, mergeGeometries) yükleyin. Her şey prosedürel olmalı; harici model veya doku kullanmayın.
+
+CONCEPT
+"Yüksek Gelgitte Torii": Itsukushima'dan ilham alan, minyatür bir Japon tapınak adası. Ada, yuvarlatılmış kenarlı 10×10 ölçülerinde berrak bir su bloğunun içinde yer alsın (dikey köşe yarıçapı yaklaşık 0.6, üst kenar yarıçapı yaklaşık 0.26); ince, kum rengi bir temel plakasının üzerinde ve uzaklaştıkça yumuşak zemin gölgesi silinen, sıcak washi kâğıdı arka planı üzerinde bulunsun (böylece uzun akşamüstü gölgeleri sayfa boyunca uzanmasın).
+
+ARAZİ (yaklaşık 400×400 yükseklik alanı; yuvarlatılmış bloğa kırpılmış, kesit suyun içinden görünsün diye sınır boyunca bir "etek" ile)
+- Kameraya dönük yerel bir koordinat sistemi kullanın (u = yatay doğrultu, v = izleyiciye doğru).
+- Arkada ormanla kaplı, kubbe biçimli bir tepe (yüksekliği yaklaşık 2.4), eteğinde alçak ve kumlu bir tapınak terası, önünde ise hafif eğimli geniş bir gelgit düzlüğü bulunsun (yaklaşık -0.06'dan -0.46'ya iner); ön ve yanlarda yaklaşık -1.0 seviyesine düşsün.
+- Koyu çevreleyen iki kayalık granit burun yer alsın; her birinde 1–2 eğik, bonsai tarzı çam (segmentli gövdeler ve yassı taç kümeleri) bulunsun.
+- Tepenin yamacında pagoda için düzleştirilmiş bir açıklık oluşturun.
+- Arazi shader'ı: dik yamaçlarda granit kaya (benekli; su çizgisinin hemen üzerinde daha koyu ıslak bant; bunun altında alglerle koyulaşan bölüm), ıslak çizgili kum, yüksek gelgit işaretinin altında daha koyu ve ıslak gelgit arası kumu, tepede ve terasın yer yer bölümlerinde yosun/çim, kışın yukarı bakan yüzeylerde kar ve su altında prosedürel animasyonlu ışık kırınımları kullansın. Her köşe için CPU tarafında pişirilmiş ufuk AO'su ve taç örtüsüne bağlı koyulaştırma uygulayın.
+
+MİMARİ (her şeyi tek bir vertex renkli mesh ile tek bir emissive "glow" mesh içinde birleştirin; renk ve dönüşüm alan, kutu/silindir/küre/özel geometri ekleyen küçük bir Builder yazın, ardından mergeGeometries kullanın)
+- Tapınak ekseni üzerinde koyda duran Ryōbu tarzı torii (yüksekliği yaklaşık 1.9): siyah taban kılıflı, konik vermilyon ana sütunlar; siyah başlıklı dört destek sode-bashira ayağı ve her iki tarafta ikişer bağlantı kirişi; nuki bağ kirişi; koyu renkli bir levhaya sahip merkezi destek; shimaki ve uçları yukarı kıvrılan, ekstrüde şekilli kavisli bir kasagi; kasaginin üzerinde siyah bir katman. Sütunlar shimaki'nin içinde sonlanmalı, kasagiyi delip geçmemelidir.
+- Gelgit düzlüğünün üzerinde kazıklar üzerine kurulu tapınak: deniz tabanına ulaşan ahşap kazık ızgarası üzerinde, tahta aralık şeritleri ve koyu kenar kirişleri bulunan plank döşeme; ana salon ve daha küçük bir ön salon (beyaz duvarlar, vermilyon direkler ve bağ kirişleri, ince koyu bir kafesin arkasında glow panelleri olarak shoji tarzı ön paneller); vermilyon korkuluklu alçak bir ön sahne; yana doğru ilerleyip kıyıya geri dönen, kazıklar üzerindeki çatılı iki vermilyon koridor.
+- Çatılar: içbükey profile ve yukarı kaldırılmış saçak köşelerine sahip kırma çatı üreticisi kullanın (üst yüzey koyu servi kabuğu kahverengisi, sıcak ahşap alt yüzeyi, açık renkli alınlık kaplaması, siyah mahya kapağı).
+- Tepenin açıklığında beş katlı bir pagoda: taş kaide, vermilyon direkli beyaz duvarlar, konsol katmanı, boyutları giderek küçülen dışa açılan çatılar ve halkalı bronz alem.
+- Terasta ve sahnede taş tōrō fenerleri (altıgen kaide, gövde, emissive pencereli ateş haznesi, küçük çatı ve mücevher).
+
+VEGETATION
+- Yaklaşık 4–5 bin taç kümesi (vertex gürültüsü deformasyonu ve fragment bump kullanan, icosphere'lardan oluşan InstancedMesh); ağaç başına 2–4 küme, komşu örtüşmesine göre örnek başına AO ve daha parlak üst yüzeyler.
+- Bir instance özniteliğiyle dört tür kullanın: geniş yapraklı, kiraz, akçaağaç, çam (yassı taç kümeleri). Kirazlar tepenin alt kesimlerinde ve terasta gövdeleri görünür beş vurgu ağacı olarak kümelensin; çamlar zirvede ve burunlarda baskın olsun.
+- Renkler, JS'nin mevsimler arasında harmanladığı, türe göre koyu/açık palet uniform'larından gelsin.
+
+MEVSİMLER (döngüsel 0..4 = ilkbahar, yaz, sonbahar, kış; dock düğmesinden animasyonlu geçiş)
+- İlkbahar: pembe sakuralar ve dökülen çiçek yaprakları. Yaz: gür yeşillik, parçacık yok. Sonbahar: kırmızı akçaağaçlar, turuncu/sarı geniş yapraklı ağaçlar ve dökülen akçaağaç yaprakları. Kış: yaklaşık %38 küçültülmüş, neredeyse çıplak kahverengi yaprak döken ağaç kümeleri; taçların üstünde, çatılarda, döşemelerde, kayalarda ve zeminde kar; suya düşer düşmez eriyen kar yağışı.
+
+SU (gerçekçi, jölemsi değil)
+- İşlem hattı: opak sahne → DepthTexture içeren MSAA HalfFloat hedefi; ikinci bir hedefe kopyalama; ardından manuel derinlik testi yapan özel bir ShaderMaterial ile suyu çizme; sonra yüzen parçacıklar; son olarak ACES ton eşleme, sRGB ve hafif tilt-shift içeren tam ekran geçişi. CSS arka planının üzerinde saydam canvas kullanın.
+- Rengi gerçek kalınlıktan üretin: her su pikselinin arkasındaki derinliği yeniden oluşturun ve Beer–Lambert soğurmasıyla, kullanıcının su renginden türetilen derin saçılma rengine yaklaşın (sığlıklarda soluk, derinde mavi; yan duvarlara su hacmi izlenimi vermek için ek ışık yolu uzunluğu uygulayın).
+- Ekran uzayında kırılma, Fresnel gökyüzü yansıması ve ince animasyonlu ayrıntı normallerinden güneş parıltıları.
+- Ekran uzayında yansımalar (derinlik tamponuna karşı yaklaşık 26 ışın izleme adımı; mobilde daha az) kullanın; böylece torii, tapınak ve yanan fenerler suya yansısın.
+- Dalgacıklar: 256×256 HalfFloat ping-pong hedefinde GPU dalga denklemi, sabit 60 Hz adımları ve dalgaların kıyıdan yansımasını sağlayan kara maskesi dokusu kullanın. İmleç hareketi, iz boyunca kapsül biçimli damlalar enjekte etsin; tıklama sıçrama oluştursun.
+- Kıyı köpüğü yalnızca arazi su seviyesine yakın VE eğim yumuşak olduğunda görünsün (kayalıklar, kazıklar veya torii sütunları çevresinde beyaz çizgiler olmasın); köpük bandının genişliği eğime göre ölçeklensin ve gürültüyle kesintiye uğrasın.
+- Gelgit: dock üzerindeki bir geçiş düğmesi yüksek gelgit (0) ile alçak gelgit (-0.55) arasında animasyon yapsın: su bloğunun kenarı hareket etsin ve yanları uzasın; alçak gelgitte düzlüğün tamamı açığa çıksın ve torii ıslak kumun üzerinde dursun.
+
+PARÇACIKLAR (çiçek yaprakları / yapraklar / kar, yaklaşık 700 instanced quad, CPU simülasyonlu)
+- İlkbaharda kiraz kümelerinden, sonbaharda yaprak döken ağaç kümelerinden veya kışın gökyüzünden doğsun; düşerken süzülsün; sertleşip adadan koya doğru esen rüzgârla suya ulaşsın.
+- İniş: suya geldiklerinde yüzer hâle geçsinler (vertex shader, suyla aynı dalgacık ve dalga yüksekliğiyle onları yukarı kaldırsın), yavaşça sürüklensinler, imleç hareketiyle itilsin ve tıklama sıçramalarıyla savrulsunlar; gelgit çekildiğinde karaya otursun, yükseldiğinde yeniden yüzsünler; karada dinlenip silikleşsinler.
+- Şekiller fragment shader'da çizilsin: kertikli çiçek yaprağı, beş loplu akçaağaç yaprağı ve yumuşak kar diski. Sahne derinliğine karşı manuel derinlik testi uygulayın.
+
+KOI
+- 7 koi (döndürerek oluşturulmuş gövde + çatallı yelpaze kuyruk + göğüs yüzgeçleri, birleştirilmiş), vertex shader'da yüzme salınımı ve türe göre prosedürel desenler kullanan InstancedMesh: kohaku, sanke, showa, ogon, düz turuncu. Serbestçe dolaşsın, sığ sudan ve blok duvarlarından uzaklaşacak şekilde yön değiştirsin, imleçten ve sıçramalardan kaçsın. Su altında çizilsin; böylece kırılmaya uğrayıp renk alsın.
+
+GÜNÜN SAATİ (11:00 ile yaklaşık 19:10 arasındaki saati gösteren kaydırıcı)
+- Güneş yüksekliği, rengi ve yoğunluğu; hemisfer renkleri ve suyun gökyüzü yansıması öğleden gün batımına doğru değişsin; akşam yaklaşırken shoji panelleri ve fenerler (emissive) parlasın, üç sıcak noktasal ışık tapınağı, sahneyi ve torii'yi aydınlatsın.
+
+ARAYÜZ (editoryal, minimal, İngilizce)
+Küçük bir torii işaretine sahip "shiosai°" markası, "A gate that / stands in the sea." başlığı, "Shrine and tide, in miniature" üst başlığı, dikey "A study of tide and seasons" açıklaması, "Shrine Cove · 34°16′ N · 132°19′ E" konum etiketi, yüzen hap biçimli dock (sıfırla, geçerli mevsim adını gösteren mevsim döngüsü, High tide / Low tide geçişi, Tune, tam ekran), alt bilgide ipuçları ve uyarlanan FPS + "Season · time" göstergesi, cam görünümlü ayar paneli (mevsim, günün saati, dökülen yapraklar; su rengi, gelgit seviyesi, dalga yüksekliği, dalgacık gücü, berraklık, ışık kırınımları; güneş azimutu, tilt-shift) ve "How it's made" kartı ekleyin. Vermilyon vurgu rengi, CSS token'larıyla açık ve koyu temalar; 390 px genişliğe duyarlı tasarım (panel bir alt sayfaya dönüşür); prefers-reduced-motion desteği; uyarlanan piksel oranı ve dokunmatik cihazlar için hafifletilmiş mod. Giriş animasyonunda su bloğu doldururken kamera yumuşakça yaklaşsın.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/torii-high-tide-interactive-shrine-diorama) · [Orijinal gönderi](https://x.com/vib3coded/status/2110014758548078979) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Sonsuz Tank Savunması
@@ -3871,7 +3919,7 @@ Açılışı, her iki karakter portresini, çarpışmayı, imdat roketlerini, ü
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 345 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 346 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>
