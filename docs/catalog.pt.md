@@ -28,7 +28,7 @@
 **Um ponto de partida para seu próximo jogo, cena ou mundo interativo.**
 
 
-**346 · Prompts mais recentes do Astra**
+**352 · Prompts mais recentes do Astra**
 
 ## Projetos em destaque
 
@@ -50,13 +50,7 @@
 <details>
 <summary>Explorar exemplos</summary>
 
-- [Criar um jogo de corrida 3D](#2100526922770026874)
-- [Jogo 3D de fuga de uma instalação de pesquisa desativada](#2100595652703199281)
-- [Um corpo projetado pela própria CAD](#2100614534423540102)
 - [Monster Block — 45 Segundos para Destruir a Cidade](#2100636075039629796)
-- [Treine uma estratégia de girar uma caneta com a mão robótica hábil Sharpa](#2100751369619820923)
-- [Jogo 3D de bonde aéreo entre ilhas flutuantes](#2100838090210431302)
-- [Crie um mundo 3D fotorrealista](#2100844566718926949)
 - [Modelo interativo de relógio IWC Schaffhausen](#2100956517633761447)
 - [Galáxia com física orbital realista](#2101055500599054437)
 - [Ambiente 3D fotorrealista completo](#2101224659861590399)
@@ -143,6 +137,12 @@
 - [Estudo de materiais WebGPU: pinguim de pelúcia](#2109288662319919127)
 - [Experiência interativa WebGPU com polvo de pelúcia](#2109323102912156142)
 - [Diorama interativo do torii na maré alta](#2110014604524896392)
+- [Farol antigo de pedra em um penhasco rochoso ao entardecer](#2110054195734982817)
+- [Jogo tropical 3D no estilo Flappy Bird](#2110069699597971828)
+- [Vista explodida de um relógio inspirado na Rolex](#2110070382002921482)
+- [Modelo de ogro no Blender com animação de caminhada](#2110139804805693469)
+- [Explicação interativa em 3D sobre mouse gamer](#2110371046071382042)
+- [Simulação 3D da órbita helicoidal do Sistema Solar pela Via Láctea](#2110380365269639613)
 - [Battle City 3D: Defesa de Tanques sem Fim](#battle-city-3d)
 - [Crazy Tanks — Artilharia 3D em uma ilha](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: jogo de mineração 3D com 24 níveis](#golden-miner)
@@ -152,66 +152,6 @@
 - [TITANIC — A Última Luz](#titanic-the-last-light)
 
 </details>
-
-<a id="2100526922770026874"></a>
-
-### Criar um jogo de corrida 3D
-
-[たい焼き｜Claude Codeの人](https://x.com/taiyaki_ai3) · 2026-09-17
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2100526922770026874"><img src="../assets/previews/291f4f1d8508153f9f0473b53e7a16dd4405894ddf89a942955e4bbecc0c95d4.jpg" width="840" loading="lazy" alt="Criar um jogo de corrida 3D"></a>
-
-Um pedido para criar um jogo de corrida 3D realmente jogável, com controles e direção, que o autor explica ter inserido em uma única frase no GPT-6 Astra. A publicação apresenta o uso para gerar um jogo jogável sem usar Blender nem código.
-
-**Prompt**
-
-```text
-Crie um jogo de corrida
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2100526922770026874) · [Publicação original](https://x.com/taiyaki_ai3/status/2100526934082105683) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2100595652703199281"></a>
-
-### Jogo 3D de fuga de uma instalação de pesquisa desativada
-
-[forest.watch.impress.co.jp](https://forest.watch.impress.co.jp/) · 2026-09-17
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2100595652703199281"><img src="../assets/previews/70f25d79c1b29caca651c53634c0f7632ee038c2a69ee4826e7f6a11e4d4f1a9.jpg" width="840" loading="lazy" alt="Jogo 3D de fuga de uma instalação de pesquisa desativada"></a>
-
-Prompt para criar um jogo 3D de fuga para navegador, ambientado em uma instalação de pesquisa desativada, que o autor do artigo vinculado, Tomonobu Yanagiya, afirma ter solicitado ao GPT-6 Astra. Especifica uma experiência de 5 a 10 minutos, com mecanismos como chaves e interruptores, instruções fáceis de entender, conclusão garantida e distribuição em um único arquivo HTML.
-
-**Prompt**
-
-```text
-Crie um jogo 3D de fuga que possa ser jogado no navegador. O objetivo deve ser escapar de uma instalação de pesquisa desativada, e a experiência deve durar cerca de 5 a 10 minutos. Inclua mecanismos como chaves e interruptores, explique claramente como jogar e garanta que seja possível concluir o jogo até o fim. Reúna tudo em um único arquivo HTML, para que seja possível jogar simplesmente abrindo-o no navegador.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2100595652703199281) · [Publicação original](https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2141084.html) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2100614534423540102"></a>
-
-### Um corpo projetado pela própria CAD
-
-[vitalduval](https://x.com/vitalduval) · 2026-09-17
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2100614534423540102"><img src="../assets/previews/0648785872e0e8f57ee31197f913e72bd72dad694354eb842c3bd65d309a4683.jpg" width="840" loading="lazy" alt="Um corpo projetado pela própria CAD"></a>
-
-Um tuíte de vitalduval apresenta este pedido à Astra para criar um corpo projetado em CAD. A AI Highlight republica o showcase resultante e atribui o trabalho à GPT-6 Astra.
-
-**Prompt**
-
-```text
-Pedi à Astra que projetasse um corpo para si mesma em CAD.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2100614534423540102) · [Publicação original](https://x.com/vitalduval/status/2100343136077877251) · [Voltar aos exemplos](#all-prompts)
-
----
 
 <a id="2100636075039629796"></a>
 
@@ -312,67 +252,6 @@ Verificar os layouts em inglês e chinês em larguras de desktop e de celulares 
 ```
 
 [Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/monster-block) · [Publicação original](https://x.com/abc30037274/status/2100636075039629796) · [Demonstração](https://monster-block.tripo.page/) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2100751369619820923"></a>
-
-### Treine uma estratégia de girar uma caneta com a mão robótica hábil Sharpa
-
-[AI Will](https://x.com/FinanceYF5) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2100751369619820923"><img src="../assets/previews/401b07a7533430d141557f6f49add9f4f645a2530b1b34a3e43d865e0bcbda48.jpg" width="840" loading="lazy" alt="Treine uma estratégia de girar uma caneta com a mão robótica hábil Sharpa"></a>
-
-O autor afirma que este prompt em chinês foi fornecido ao GPT-6 Astra para usar o Isaac Lab no treinamento por aprendizado por reforço da mão robótica hábil Sharpa, criar por conta própria a malha 3D de uma caneta e entregar a política treinada e um vídeo de visualização.
-
-**Prompt**
-
-```text
-Faça a mão robótica hábil girar uma caneta. Use o Isaac Lab para o aprendizado por reforço com a Sharpa hand e crie por conta própria a malha 3D da caneta. Ao final, entregue a política treinada e um vídeo de visualização. Você pode pesquisar livremente na internet e baixar artigos e os materiais necessários.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2100751369619820923) · [Publicação original](https://x.com/FinanceYF5/status/2100751369619820923) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2100838090210431302"></a>
-
-### Jogo 3D de bonde aéreo entre ilhas flutuantes
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2100838090210431302"><img src="../assets/previews/beed044dc7075346b2830bb1c618e8b8f142481efb63cc04db1116a2955d521a.jpg" width="840" loading="lazy" alt="Jogo 3D de bonde aéreo entre ilhas flutuantes"></a>
-
-Um comentário de autor verificado compartilha o prompt completo que, segundo a publicação original, foi executado no GPT-6 e no Gemini 4. Ele solicita um jogo de bonde em Three.js jogável no navegador, ambientado em ilhas flutuantes de estilo mediterrâneo, com controles de condução, pontuação de conforto dos passageiros, estações, melhorias e suporte para dispositivos móveis.
-
-**Prompt**
-
-```text
-Crie um jogo 3D em HTML/JS de arquivo único (Three.js) que possa ser jogado diretamente no navegador, com um estilo acolhedor, low-poly e refinado de jogo indie, evocando a atmosfera de uma cidade litorânea do Studio Ghibli combinada à fluidez dos trilhos de carrinho de mina de Zelda.
-【Jogabilidade principal】  O jogador conduz um bonde aéreo retrô, viajando entre ilhas flutuantes acima de um mar de nuvens e da superfície do oceano.  - Os trilhos formam uma ferrovia 3D contínua, com trechos retos, subidas, descidas, curvas elevadas e longas pontes sobre o mar  - Controles: W para acelerar (Potência), S para frear (Freio), esquerda e direita para ajustes finos ou para alternar a visão  - Exibição em tempo real: velocidade em km/h, número de passageiros a bordo (por exemplo, 12/16 a bordo), condições da via (Estável / Vento lateral)  - Sistema de conforto dos passageiros: acelerações bruscas, freadas fortes, fazer curvas rápido demais e ventos laterais reduzem o “conforto das pernas”; chegar ao destino suavemente rende pontos bônus (por exemplo, +75 na chegada)  - Sequência: conduzir de forma muito irregular exibirá a mensagem “Sequência interrompida. Encontre o equilíbrio para reconstruir suas gorjetas.”  - Ao chegar à estação, abra as portas para os passageiros embarcarem e desembarcarem. Na plataforma, moradores da cidade ficam na fila, com legendas como “Portas abrindo — Mango Tide” e “Aguarde…”     [Mundo e estações]  Tenha pelo menos duas rotas/duas ilhas:  1. Saltlight Terminus  2. Mango Tide  A ilha é rochosa e flutua acima das nuvens, com pequenas casas de estilo mediterrâneo/sul-europeu, telhados de telha vermelha, um farol, um píer, árvores verdes, postes de luz e janelas amarelas iluminadas à noite. Ao longe, há mais ilhas flutuantes e órbitas circulares. O céu apresenta um gradiente azul-arroxeado do crepúsculo à noite, com estrelas e nuvens espessas; abaixo, vê-se a água azul-turquesa do mar.     [Exterior do bonde]  Bonde retrô: carroceria verde-escura, chassi cor de madeira, janelas curvas de vidro, bagagem no teto, decoração com toldo verde e trepadeiras, além de vários passageiros sentados no interior. Durante o movimento, há um leve balanço e uma sensação de sons dos trilhos (que pode ser transmitida com efeitos sonoros simples ou indicações visuais).     [Cena 2: Modificação na oficina]  Mude para a visão isométrica superior da oficina “Cloudworks / Oliver Cloudworks / ilha natal de Oliver”.  Os jogadores podem trocar peças do bonde, usando uma interface semelhante a um pop-up de melhoria:  - Folhas da lareira — Removendo a peça antiga  - Pequeno companheiro — Preparando o bonde  Barra de progresso + “Relaxe e observe a oficina.”  Mostre mudanças na aparência do bonde após a modificação (por exemplo, teto verde, bagageiro adicionado, lanternas, trepadeiras); em seguida, ele sai da oficina, com as legendas “Todos a bordo.” / “Próxima parada: Linha Costeira.”     [Interface]  Interface de jogo casual, moderna e limpa: destino e moeda/sequência no canto superior esquerdo, barra de velocidade e botões de Potência/Freio na parte inferior, barra de progresso do conforto conectando os nomes das duas estações. Sem poluição visual; não transforme o jogo em terror ou cyberpunk.     [Requisitos técnicos]  - Arquivo único ou poucos arquivos, Three.js  - Use curvas para os trilhos (CatmullRom etc.) para que o bonde siga os trilhos; a câmera acompanha com uma leve sensação de estar sobre os trilhos  - Sensação de física simples: inércia na aceleração, desaceleração ao frear e inclinação da carroceria nas curvas  - No celular, tente também oferecer suporte a toques para acelerar/frear  - Código legível, com comentários, jogável assim que for aberto.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2100838090210431302) · [Publicação original](https://x.com/YouWareAI/status/2100838828433179037) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2100844566718926949"></a>
-
-### Crie um mundo 3D fotorrealista
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2100844566718926949"><img src="../assets/previews/f8596f35d968eda4e24acabd4e2405d42aae7745029b8cf3426d550a2bd2cd52.jpg" width="840" loading="lazy" alt="Crie um mundo 3D fotorrealista"></a>
-
-Uma sugestão de solicitação em um único prompt, publicada no post principal, para criar um mundo 3D fotorrealista e explorável. O post apresenta isso como parte de um fluxo de trabalho com Blender MCP; não afirma que esse prompt exato foi usado como entrada na demonstração relacionada.
-
-**Prompt**
-
-```text
-Crie um mundo 3D fotorrealista. Surpreenda-me.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2100844566718926949) · [Publicação original](https://x.com/JulianGoldieSEO/status/2100844566718926949) · [Voltar aos exemplos](#all-prompts)
 
 ---
 
@@ -3369,6 +3248,231 @@ Marca "shiosai°" com um pequeno símbolo de torii, título "A gate that / stand
 
 ---
 
+<a id="2110054195734982817"></a>
+
+### Farol antigo de pedra em um penhasco rochoso ao entardecer
+
+[JOH](https://x.com/JeurgenHubatsch) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/old-stone-lighthouse-dusk-threejs-scene"><img src="../assets/previews/3372900a7318c2aced864caf8be0878a49c17159a768534b8e64e91940397b0d.jpg" width="840" loading="lazy" alt="Farol antigo de pedra em um penhasco rochoso ao entardecer"></a>
+
+Um prompt de uma só vez compartilhado pelo autor da publicação para Gemini 4 Argon e GPT-6 Astra. Ele solicita uma cena em Three.js em um único index.html, apresentando um farol antigo de pedra ao entardecer, seu feixe de luz giratório, a casa do faroleiro, um caminho sinuoso, ondas quebrando e gaivotas.
+
+**Prompt**
+
+```text
+farol antigo de pedra em um penhasco rochoso ao entardecer, feixe de luz giratório, casa do faroleiro, caminho sinuoso, ondas quebrando nas rochas, gaivotas. um único index.html, three.js
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/old-stone-lighthouse-dusk-threejs-scene) · [Publicação original](https://x.com/JeurgenHubatsch/status/2110054584769302982) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2110069699597971828"></a>
+
+### Jogo tropical 3D no estilo Flappy Bird
+
+[Ivana](https://x.com/ivanainai) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/tropical-3d-flappy-bird-game"><img src="../assets/previews/2d1e98836fad59895d992542f572247007587970c4d4b7ee9b0435c7be18449a.jpg" width="840" loading="lazy" alt="Jogo tropical 3D no estilo Flappy Bird"></a>
+
+Um prompt completo para Three.js/WebGL de um jogo 3D jogável no estilo Flappy Bird, com visão lateral, em um único arquivo HTML. Ele especifica um ambiente costeiro tropical e colorido, um pássaro amarelo original e animado, geração determinística de canos, valores fixos de física, controles manuais, pontuação, colisões, comportamento de reinício e um modo de Demonstração automática.
+
+**Prompt**
+
+```text
+Crie um jogo 3D totalmente jogável no estilo Flappy Bird em UM único arquivo HTML completo e pronto para copiar e colar, usando Three.js/WebGL.
+
+Crie um pássaro e um ambiente originais e coloridos. O jogo deve ficar bonito em uma captura de tela e responder bem durante a partida.
+
+Retorne o HTML completo dentro de UM único bloco de código cercado com html. O código deve começar com <!DOCTYPE html> e terminar com </html>. Inclua todo o CSS e o JavaScript. Não forneça explicações, trechos ou arquivos adicionais.
+
+DIREÇÃO VISUAL
+
+Crie um mundo costeiro tropical vibrante e ricamente colorido, com mar turquesa, luz solar quente, nuvens brancas suaves, ilhas distantes e uma profundidade atmosférica sutil.
+
+Mantenha o primeiro plano nítido e saturado. Use um fundo cuidadosamente composto, com um efeito de paralaxe suave, mantendo o pássaro e os obstáculos fáceis de visualizar.
+
+O protagonista é um encantador pássaro 3D amarelo-dourado, com bico laranja, olhos expressivos, asas pequenas e animadas e penas da cauda com formatos individuais. Faça com que ele pareça um personagem de jogo cuidadosamente criado.
+
+Anime as batidas das asas, um movimento corporal sutil e uma mudança suave no ângulo do corpo ao subir ou cair.
+
+Os obstáculos são canos verde-esmeralda brilhantes, com bordas arredondadas espessas, espessura visível, sombras convincentes e belos realces. Eles devem ser claramente percebidos como objetos sólidos, com uma abertura navegável.
+
+Use uma iluminação elegante, geometria suave, sombras suaves e reflexos discretos. Preserve um contraste forte entre o pássaro amarelo, os canos verdes e o ambiente azul.
+
+A tela inicial deve mostrar imediatamente o mundo completo, o pássaro e vários canos. Mantenha a interface pequena e limpa.
+
+GAMEPLAY
+
+Use um plano de jogo com visão lateral, geometria 3D real e profundidade. Mantenha a câmera fixa para que as aberturas e as colisões sejam fáceis de avaliar.
+
+Clicar, tocar na tela ou pressionar Espaço faz o pássaro bater as asas para cima. A gravidade o puxa para baixo entre as batidas.
+
+Os canos se movem em direção ao pássaro a uma velocidade constante. Cada par tem uma abertura em uma altura diferente. Conceda exatamente um ponto quando o pássaro passar com sucesso por um par.
+
+Colidir com um cano, o chão ou o limite superior da área de jogo encerra a partida. Mostre uma resposta de impacto curta e clara e um painel de Fim de jogo com a pontuação final e um botão Reiniciar funcional.
+
+Reiniciar deve redefinir o pássaro, os canos, a pontuação, a sequência de obstáculos e o estado da simulação sem recarregar a página.
+
+Use estes parâmetros de jogo idênticos:
+
+Posição do pássaro: x = -4.5.
+Raio de colisão do pássaro: 0.35 unidades do mundo.
+Limites verticais da área de jogo: y = -5.4 e +5.4.
+Gravidade: 18 unidades do mundo por segundo ao quadrado, para baixo.
+Cada batida define a velocidade vertical para cima como 6.8 unidades do mundo por segundo.
+Velocidade de movimento dos canos: 3 unidades do mundo por segundo.
+Largura dos canos: 1.2 unidades do mundo.
+Tamanho da abertura vertical: 3.4 unidades do mundo.
+Distância horizontal entre pares de canos: 5.5 unidades do mundo.
+Os centros das aberturas variam entre y = -2 e +2.
+
+Use um intervalo de tempo fixo para a simulação e verificações de colisão correspondentes ao corpo visível do pássaro e à geometria dos canos.
+
+Gere as alturas dos obstáculos de forma determinística usando um gerador aleatório dedicado com seed, começando com a seed 42. Reiniciar deve reproduzir a mesma sequência de obstáculos. A aleatoriedade decorativa não deve afetar essa sequência.
+
+DEMONSTRAÇÃO AUTOMÁTICA
+
+Forneça três controles pequenos: Jogar, Demonstração automática e Reiniciar.
+
+A Demonstração automática deve jogar a partida real automaticamente. O controlador só pode executar a mesma ação de bater as asas disponível para um jogador humano.
+
+Ela deve usar a mesma gravidade, os mesmos obstáculos, a mesma detecção de colisões e o mesmo sistema de pontuação do modo manual. Não deve reposicionar o pássaro diretamente, desativar colisões nem torná-lo invencível.
+
+Busque uma demonstração suave e agradável de assistir, com duração de pelo menos 20 segundos. Se o controlador falhar, mostre o estado real de Fim de jogo.
+
+Pressionar D deve reiniciar a partida e iniciar a Demonstração automática desde o começo.
+
+Forneça um controle para Ocultar interface que remova menus e botões, preservando a pontuação. Isso é para gravações de tela limpas.
+
+REQUISITOS TÉCNICOS
+
+Entregue um único arquivo HTML que abra diretamente em um navegador para desktop, sem instalação nem etapa de build. É permitido importar uma versão fixada do Three.js por CDN.
+
+Gere todos os elementos visíveis no código. Não use modelos importados, arquivos de imagem, sprites originais de Flappy Bird ou fontes externas.
+
+Componha principalmente para uma viewport quadrada de 1080 × 1080, com suporte a redimensionamento responsivo. Mantenha o pássaro e os obstáculos que se aproximam visíveis durante toda a partida.
+
+Busque uma renderização nítida e movimento suave a 60 fps. Pause a simulação quando a aba do navegador estiver oculta, para que o retorno não cause um salto repentino.
+
+Se as ferramentas do navegador estiverem disponíveis, inspecione o resultado renderizado e teste as batidas manuais, a pontuação, as colisões com canos, as colisões com os limites, o Reiniciar e a Demonstração automática.
+
+Priorize visuais bonitos, controles responsivos, colisões corretas e uma experiência de jogo realmente jogável.
+
+Retorne apenas o HTML completo em um único bloco de código cercado com html.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/tropical-3d-flappy-bird-game) · [Publicação original](https://x.com/ivanainai/status/2110073220946592038) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2110070382002921482"></a>
+
+### Vista explodida de um relógio inspirado na Rolex
+
+[bluumik](https://x.com/bluumik) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/exploded-rolex-inspired-watch-visualization"><img src="../assets/previews/6badd28d27f4e05ffd6d091bcfa30bbc3b2893133cd9f742b643ffc31d3ba969.jpg" width="840" loading="lazy" alt="Vista explodida de um relógio inspirado na Rolex"></a>
+
+Um prompt apresentado por bluumik como o mesmo pedido de sete palavras enviado ao GPT-6 e ao Opus 5.5. Ele solicita uma visualização de relógio em vista explodida; a publicação descreve o resultado do GPT-6 como um site interativo em verde-escuro, cujas peças do relógio se afastam e ficam suspensas no ar.
+
+**Prompt**
+
+```text
+Vista explodida de um relógio inspirado na Rolex.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/exploded-rolex-inspired-watch-visualization) · [Publicação original](https://x.com/bluumik/status/2110070382002921482) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2110139804805693469"></a>
+
+### Modelo de ogro no Blender com animação de caminhada
+
+[Cong Le](https://x.com/CongLe) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/ogre-blender-model-walking-animation"><img src="../assets/previews/dfe08b35c0bb14d6207937da3d095b4c3d91c31026c0dc3a716d1aa7d94ce047.jpg" width="840" loading="lazy" alt="Modelo de ogro no Blender com animação de caminhada"></a>
+
+Um briefing reutilizável para criar um ogro no Blender com uma animação de caminhada. O autor original afirma que este mesmo briefing foi usado em sessões novas de 15 minutos com cinco modelos de IA, incluindo GPT-6 Astra.
+
+**Prompt**
+
+```text
+Crie um ogro no Blender (com animação de caminhada).
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/ogre-blender-model-walking-animation) · [Publicação original](https://x.com/CongLe/status/2110139804805693469) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2110371046071382042"></a>
+
+### Explicação interativa em 3D sobre mouse gamer
+
+[shmopix](https://x.com/shmopixbzn) · 2026-10-14
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/interactive-3d-gaming-mouse-explainer"><img src="../assets/previews/7975840d72a0c7bfef77c1000d3d0bce5eb9c93d12a1561634196c27b0496a1f.jpg" width="840" loading="lazy" alt="Explicação interativa em 3D sobre mouse gamer"></a>
+
+O autor principal identifica o texto entre aspas como o prompt e apresenta uma explicação interativa em 3D sobre o mouse Superlight. A solicitação é mostrar como um mouse gamer funciona, desde a mão do usuário até o computador.
+
+**Prompt**
+
+```text
+mostre como um mouse gamer funciona, desde a minha mão até o computador
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/interactive-3d-gaming-mouse-explainer) · [Publicação original](https://x.com/shmopixbzn/status/2110371046071382042) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2110380365269639613"></a>
+
+### Simulação 3D da órbita helicoidal do Sistema Solar pela Via Láctea
+
+[AI TANUKI（AIたぬき）](https://x.com/ecsamuraigold) · 2026-10-14
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/solar-system-3d-screw-orbit-simulation"><img src="../assets/previews/719c9ba50a1f92cffa6f8f55c5fec029b60b306f3cdbe3947405f33246eb6986.jpg" width="840" loading="lazy" alt="Simulação 3D da órbita helicoidal do Sistema Solar pela Via Láctea"></a>
+
+Um prompt para criar uma animação 3D interativa em um único arquivo HTML, mostrando o Sol avançando pela Via Láctea e os oito planetas orbitando enquanto mantêm o plano da eclíptica inclinado cerca de 60° em relação à direção do movimento. O prompt especifica trilhas helicoidais para cada planeta, um campo estelar, guias orbitais, um monitor lateral de formas de onda, um HUD com velocidade e número de órbitas, controles de câmera e controles de reprodução. Depois de testar o tema com vários modelos, o autor publicou este prompt nos comentários.
+
+**Prompt**
+
+```text
+Crie uma animação 3D do Sol avançando pela Via Láctea a aproximadamente 220 km/s e dos oito planetas do Sistema Solar orbitando em torno dele, acompanhando-o em uma trajetória helicoidal no espaço tridimensional. Use um único arquivo HTML (HTML5 Canvas ou Three.js), com visualização disponível em Artifacts.
+
+【Requisitos de visualização e modelo físico】
+1. Movimento do Sol e inclinação do plano da eclíptica (importante)
+   - O Sol deve continuar avançando pela Via Láctea ao longo do vetor de direção do movimento, representado por um eixo com uma seta dourada.
+   - O plano orbital dos planetas (plano da eclíptica) deve avançar junto com o Sol, mantendo-se como um único plano inclinado cerca de 60° em relação à direção do movimento do Sol (em vez de os planetas serem puxados para trás do Sol em forma de cone, eles devem avançar enquanto orbitam sempre no mesmo plano inclinado que o Sol, desenhando uma trajetória helicoidal, semelhante a um saca-rolhas, no espaço tridimensional).
+   - Na posição atual do Sol, exiba com transparência o anel-guia do plano da eclíptica inclinado cerca de 60° (os círculos das órbitas planetárias) e eixos em cruz.
+
+2. Oito planetas e trajetórias helicoidais 3D (órbitas helicoidais)
+   - Renderize os oito planetas: Mercúrio, Vênus, Terra (com a Lua), Marte, Júpiter, Saturno (com anéis), Urano e Netuno.
+   - Com base nas leis de Kepler, configure o equilíbrio dos períodos para que os planetas internos tenham períodos orbitais mais curtos e desenhem hélices com passo menor, enquanto os planetas externos desenhem hélices mais amplas e com passo maior.
+   - Deixe no espaço trilhas helicoidais 3D vibrantes, conectando as posições anteriores de cada planeta (uma fita ou linha que desaparece gradualmente em direção à extremidade final).
+   - Exiba uma etiqueta em japonês ao lado de cada planeta (Sol, Mercúrio, Vênus, Terra, Marte, Júpiter, Saturno, Urano e Netuno).
+   - No fundo, disponha estrelas em movimento (campo estelar) e anéis-guia cilíndricos de profundidade para transmitir a sensação de deslocamento pelo espaço galáctico.
+
+3. Layout da tela e painéis da interface (tema escuro, proporção 16:9)
+   - Área esquerda até o centro (visualização 3D principal):
+     - No canto superior esquerdo, exiba o título “Sistema Solar pela Via Láctea: simulação 3D de órbita helicoidal (em espiral)” e o subtítulo “Os planetas orbitam o Sol, que avança a aproximadamente 220 km/s, em um plano da eclíptica inclinado cerca de 60°, desenhando trajetórias helicoidais no espaço 3D”.
+     - No canto inferior esquerdo, exiba um selo explicativo: “Ponto importante: os planetas não são puxados para trás do Sol com atraso. Como avançam junto com o Sol mantendo o mesmo plano, o plano da eclíptica, inclinado cerca de 60° em relação à direção do movimento, eles desenham uma trajetória helicoidal semelhante a um saca-rolhas (hélice) quando observados no espaço tridimensional como um todo.”
+   - Área direita (painel de informações do HUD):
+     - Parte superior: crie um quadro de submonitor com o título “Forma de onda helicoidal vista de lado (projeção lateral)” e desenhe em tempo real as formas de onda senoidais que cada planeta traça para cima e para baixo em relação ao eixo do movimento do Sol (linha horizontal).
+     - Parte central: exiba contadores em tempo real para “Velocidade orbital do Sol pela Via Láctea: aproximadamente 220 km/s” e “Distância percorrida pelo espaço galáctico (em milhões de km e em anos terrestres equivalentes)”.
+     - Parte inferior: para cada um dos oito planetas, exiba um ponto colorido, o nome (em japonês e inglês), a velocidade orbital média real (de Mercúrio: 47,4 km/s a Netuno: 5,4 km/s), o número acumulado de órbitas (〇〇 órbitas) e uma barra de progresso da órbita atual.
+
+4. Controles interativos
+   - Permita girar livremente o ângulo da câmera 3D arrastando o mouse e aplicar zoom com a roda de rolagem (a câmera deve acompanhar o Sol, que avança continuamente).
+   - Inclua botões de reproduzir/pausar, um controle deslizante da velocidade da simulação e um botão para redefinir a perspectiva da câmera.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/solar-system-3d-screw-orbit-simulation) · [Publicação original](https://x.com/ecsamuraigold/status/2110381109494354145) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Defesa de Tanques sem Fim
@@ -3854,7 +3958,7 @@ Inspecionar a abertura, os dois retratos dos personagens, a colisão, os foguete
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 346 exemplos no site oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 352 exemplos no site oficial →</a></strong></p>
 <p><sub>Para manter a renderização do README do GitHub fluida, mostramos aqui apenas os 100 exemplos mais recentes.</sub></p>
 <br>
 </td></tr>

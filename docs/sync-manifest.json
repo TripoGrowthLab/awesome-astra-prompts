@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "model": "gpt-6-astra",
   "count": 100,
-  "totalCount": 346,
+  "totalCount": 352,
   "sourceCodeCount": 12,
   "limit": 100,
   "locales": [
@@ -22,13 +22,7 @@
     "vi"
   ],
   "promptIds": [
-    "2100526922770026874",
-    "2100595652703199281",
-    "2100614534423540102",
     "2100636075039629796",
-    "2100751369619820923",
-    "2100838090210431302",
-    "2100844566718926949",
     "2100956517633761447",
     "2101055500599054437",
     "2101224659861590399",
@@ -115,6 +109,12 @@
     "2109288662319919127",
     "2109323102912156142",
     "2110014604524896392",
+    "2110054195734982817",
+    "2110069699597971828",
+    "2110070382002921482",
+    "2110139804805693469",
+    "2110371046071382042",
+    "2110380365269639613",
     "battle-city-3d",
     "crazy-tanks-3d-island-artillery",
     "golden-miner",
@@ -130,13 +130,7 @@
     "cyclops-island-threejs-game"
   ],
   "imagePromptIds": [
-    "2100526922770026874",
-    "2100595652703199281",
-    "2100614534423540102",
     "2100636075039629796",
-    "2100751369619820923",
-    "2100838090210431302",
-    "2100844566718926949",
     "2100956517633761447",
     "2101055500599054437",
     "2101224659861590399",
@@ -223,6 +217,12 @@
     "2109288662319919127",
     "2109323102912156142",
     "2110014604524896392",
+    "2110054195734982817",
+    "2110069699597971828",
+    "2110070382002921482",
+    "2110139804805693469",
+    "2110371046071382042",
+    "2110380365269639613",
     "battle-city-3d",
     "crazy-tanks-3d-island-artillery",
     "golden-miner",
@@ -238,78 +238,78 @@
   "files": [
     {
       "path": "assets/manifest.json",
-      "sha256": "3335c2f3f1cd248651cd1d67ccb7ea13ef6ef2f18da735a4af2a4f2545a7e07d",
-      "bytes": 65099
+      "sha256": "9d7dfc7b7b585b02d07c18c09a125263c9b1886a510765ab58cd41c83af8bc0f",
+      "bytes": 65134
     },
     {
       "path": "docs/catalog.de.md",
-      "sha256": "e4dd18689a17579370768755cb8878e99f73337a82c123e62c9a240c13817ed4",
-      "bytes": 390147
+      "sha256": "48f8ee8ac1ccc0667ced2960f5e6618211d3091e3bec712fae74aa5d5a8faa81",
+      "bytes": 396194
     },
     {
       "path": "docs/catalog.en.md",
-      "sha256": "5260f99a18da31d5e4497833aa338a2b4301492378fccd2e6ef43bc698e94009",
-      "bytes": 326480
+      "sha256": "f1d7639925fc97b48707a6d8c3e8d6e32165b2797a7b94990306d5b4af1652e4",
+      "bytes": 331397
     },
     {
       "path": "docs/catalog.es.md",
-      "sha256": "b3b1a4dd86e0593e716f470f3ce03eb1813b1d23d7f52f92468db15735dbfabf",
-      "bytes": 394874
+      "sha256": "103797697ada9a34e90743b429085dbe7ac0c2d1265f837236915c5be1301ad1",
+      "bytes": 400844
     },
     {
       "path": "docs/catalog.fr.md",
-      "sha256": "72d8560c26bbf6b48c18cfcc30d9b085d0aa38977cb698ac64227b8f83098561",
-      "bytes": 413082
+      "sha256": "15b9c76f7194a4baa9c286a89f94e892b7f0d547603b28e590b7310aabfe6d28",
+      "bytes": 419441
     },
     {
       "path": "docs/catalog.it.md",
-      "sha256": "6ac19a00f9544f5b4a2ba4acba6f0c2afe162410d7815f09dad57ffb1220c4e6",
-      "bytes": 384975
+      "sha256": "98958b7516fb873d21021a0a186e7cbbbd2e064c9824fb1269577c1bdbf6ad79",
+      "bytes": 391035
     },
     {
       "path": "docs/catalog.ja.md",
-      "sha256": "966f3758f23d2d75163d32720cd97f81e0e5a7fbb3f4a309d9044f8d2f025ae7",
-      "bytes": 441426
+      "sha256": "dec61a7c62c380c85941125b16a0c97d4a3bedd64146dbc66b5ee317743953ae",
+      "bytes": 448278
     },
     {
       "path": "docs/catalog.ko.md",
-      "sha256": "179fbfab4d7fe3c5fda1ef6cc2a35a3b2f19cdde77d7fb170a6c1fdd545e9d28",
-      "bytes": 412953
+      "sha256": "510508e866593cd9e508f9bbef57cc8dfbaa1c14afe2a9a5fea2d62756251b99",
+      "bytes": 418833
     },
     {
       "path": "docs/catalog.pt.md",
-      "sha256": "a0f3384afddf36f444e809496fa951125016d61c18c177435feccaf18e86acab",
-      "bytes": 381815
+      "sha256": "d504569a41132661f8c358b3a62212c24ea0572ace6c0f833a63c82409aad096",
+      "bytes": 387864
     },
     {
       "path": "docs/catalog.ru.md",
-      "sha256": "0607a67769b8fe5b8d0235348752fdc79cf9a28a57c160369d1003c168fe0257",
-      "bytes": 618780
+      "sha256": "d6ef447db306c1011e068b4c6fb099b683a820551a14dadd3363d2c3f808b6ba",
+      "bytes": 628561
     },
     {
       "path": "docs/catalog.tr.md",
-      "sha256": "2bac91343e0b8a222774479431da69852aae5acb8b19ba1b13d522f90bcbafa2",
-      "bytes": 389037
+      "sha256": "327272e3d0e69e8d91a1c9f2aaade89228dab6fcf530e381d7734ef24870385e",
+      "bytes": 394842
     },
     {
       "path": "docs/catalog.uk.md",
-      "sha256": "7702fd38c14d0cfb1039b9ffd936c2d65e70956ebf57c40eb9191e45e2d8a8ee",
-      "bytes": 598535
+      "sha256": "56d06539999c89d8687ac23790d618f794a762646235d6d97556a131b91159f6",
+      "bytes": 607576
     },
     {
       "path": "docs/catalog.vi.md",
-      "sha256": "9a3b27e247ddfe1869c219ff19e08fc0a993abe182b1615ed6274f55fc08bca6",
-      "bytes": 428124
+      "sha256": "ec0152357c93647594ac20d92a0ccb7edb794b5cbc14540d82f836b79c97316e",
+      "bytes": 435524
     },
     {
       "path": "docs/catalog.zh-Hant.md",
-      "sha256": "4787f26f32d21df84cbbc7e0376370d3ec020dc1c6aaa1783bcfa5e2d620d56f",
-      "bytes": 329276
+      "sha256": "be70743a2d8eb75e6095bbcc0a67c333a0d8ffe7ea66966481f7378dba78951e",
+      "bytes": 334223
     },
     {
       "path": "docs/catalog.zh.md",
-      "sha256": "8413e36a0ae3a353b13afc9d58f731c5df004e7ec1f464fa1051fb5491db6202",
-      "bytes": 329674
+      "sha256": "1e78e829f1d5fa104b53dbaaebb57a66b79495eb50ce9d1031a8b711bad0f984",
+      "bytes": 334474
     },
     {
       "path": "docs/with-code.md",
@@ -318,13 +318,13 @@
     },
     {
       "path": "README.md",
-      "sha256": "ed33f2ff3d527f51b0775549e1e1c0b7cbf903dc19400c3a2d334175a25509c8",
-      "bytes": 326009
+      "sha256": "f79e01e9c79b2eaa13194c87f1e2da4dd5e942ae4e05c3ae4031e60c506f6c12",
+      "bytes": 330926
     },
     {
       "path": "README.zh-CN.md",
-      "sha256": "5848ac3a7b11caad66195a4695422b6ca93a9b49866626d7d3188efe3d0f5819",
-      "bytes": 329203
+      "sha256": "eead22a266fd17896ed70d3f5a360315728cdf9e08d72a8c5afab35c49a7baf7",
+      "bytes": 334003
     }
   ]
 }

@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**346 · En yeni Astra istemleri**
+**352 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -50,13 +50,7 @@
 <details>
 <summary>Örnekleri keşfet</summary>
 
-- [3B Yarış Oyunu Oluştur](#2100526922770026874)
-- [Kapatılmış Araştırma Tesisinden Kaçış: Tarayıcıda 3B Oyun](#2100595652703199281)
-- [CAD ile kendi gövdesi](#2100614534423540102)
 - [Monster Block — Şehri 45 Saniyede Yerle Bir Et](#2100636075039629796)
-- [Sharpa becerikli eliyle kalem çevirme politikası eğitimi](#2100751369619820923)
-- [Yüzen adalar arasında 3B hava tramvayı oyunu](#2100838090210431302)
-- [Fotogerçekçi bir 3B dünya oluşturun](#2100844566718926949)
 - [Etkileşimli IWC Schaffhausen Saat Modeli](#2100956517633761447)
 - [Gerçek yörünge fiziğiyle galaksi](#2101055500599054437)
 - [Eksiksiz Fotogerçekçi 3B Ortam](#2101224659861590399)
@@ -143,6 +137,12 @@
 - [Pelüş Penguen WebGPU Malzeme Çalışması](#2109288662319919127)
 - [Pelüş Ahtapot Etkileşimli WebGPU Deneyimi](#2109323102912156142)
 - [Yüksek Gelgitte Torii: Etkileşimli Tapınak Dioraması](#2110014604524896392)
+- [Alacakaranlıkta kayalık uçurumdaki eski taş deniz feneri](#2110054195734982817)
+- [3B Flappy Bird tarzı tropik oyun](#2110069699597971828)
+- [Rolex esintili saatin patlatılmış görünümü](#2110070382002921482)
+- [Yürüme animasyonlu Ogre Blender modeli](#2110139804805693469)
+- [Etkileşimli 3B oyuncu faresi açıklaması](#2110371046071382042)
+- [Samanyolu’nda İlerleyen Güneş Sistemi: 3B Vidalı Yörünge Simülasyonu](#2110380365269639613)
 - [Battle City 3D: Sonsuz Tank Savunması](#battle-city-3d)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: 24 Seviyeli 3B Madencilik Oyunu](#golden-miner)
@@ -152,66 +152,6 @@
 - [TITANIC — Son Işık](#titanic-the-last-light)
 
 </details>
-
-<a id="2100526922770026874"></a>
-
-### 3B Yarış Oyunu Oluştur
-
-[たい焼き｜Claude Codeの人](https://x.com/taiyaki_ai3) · 2026-09-17
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100526922770026874"><img src="../assets/previews/291f4f1d8508153f9f0473b53e7a16dd4405894ddf89a942955e4bbecc0c95d4.jpg" width="840" loading="lazy" alt="3B Yarış Oyunu Oluştur"></a>
-
-Paylaşım sahibi, GPT-6 Astra'ya tek cümleyle girerek gerçekten kontrol edilip sürülebilen bir 3B yarış oyunu oluşturma talebinde bulunduğunu açıklıyor. Paylaşımda bu özellik, Blender veya kod kullanmadan oynanabilir oyunlar oluşturma amacıyla tanıtılıyor.
-
-**İstem**
-
-```text
-Bir yarış oyunu oluştur
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100526922770026874) · [Orijinal gönderi](https://x.com/taiyaki_ai3/status/2100526934082105683) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2100595652703199281"></a>
-
-### Kapatılmış Araştırma Tesisinden Kaçış: Tarayıcıda 3B Oyun
-
-[forest.watch.impress.co.jp](https://forest.watch.impress.co.jp/) · 2026-09-17
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100595652703199281"><img src="../assets/previews/70f25d79c1b29caca651c53634c0f7632ee038c2a69ee4826e7f6a11e4d4f1a9.jpg" width="840" loading="lazy" alt="Kapatılmış Araştırma Tesisinden Kaçış: Tarayıcıda 3B Oyun"></a>
-
-Bağlantılı makalenin yazarı Tomonobu Yanagidani'nin GPT-6 Astra'ya hazırlattığı belirtilen, kapatılmış bir araştırma tesisinde geçen tarayıcı tabanlı 3B kaçış oyunu oluşturma prompt'u. 5–10 dakikada oynanabilen bir içerik, anahtar ve düğme gibi mekanizmalar, anlaşılır oynanış, baştan sona tamamlanabilirlik ve tek bir HTML dosyası olarak dağıtım şartlarını belirtir.
-
-**İstem**
-
-```text
-Tarayıcıda oynanabilen bir 3B kaçış oyunu oluşturun. Konusu, kapatılmış bir araştırma tesisinden kaçış olsun ve yaklaşık 5–10 dakikada oynanabilsin. Anahtarlar ve düğmeler gibi mekanizmalar ekleyin; oynanışın kolay anlaşılmasını ve oyunun sonuna kadar tamamlanabilmesini sağlayın. Her şeyi tek bir HTML dosyasında toplayın; oyun, dosya tarayıcıda açıldığında doğrudan oynanabilsin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100595652703199281) · [Orijinal gönderi](https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2141084.html) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2100614534423540102"></a>
-
-### CAD ile kendi gövdesi
-
-[vitalduval](https://x.com/vitalduval) · 2026-09-17
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100614534423540102"><img src="../assets/previews/0648785872e0e8f57ee31197f913e72bd72dad694354eb842c3bd65d309a4683.jpg" width="840" loading="lazy" alt="CAD ile kendi gövdesi"></a>
-
-vitalduval tarafından paylaşılan bağlantılı tweette, Astra'dan CAD ile tasarlanmış bir gövde oluşturması isteniyor. AI Highlight, ortaya çıkan sunumu yeniden paylaşarak GPT-6 Astra'ya atfediyor.
-
-**İstem**
-
-```text
-Astra'ya kendi gövdesini CAD ile tasarlamasını söyledim.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100614534423540102) · [Orijinal gönderi](https://x.com/vitalduval/status/2100343136077877251) · [Örneklere dön](#all-prompts)
-
----
 
 <a id="2100636075039629796"></a>
 
@@ -312,67 +252,6 @@ Okunabilir yardım metinleri, dokunmatik kontroller, duraklatma eylemleri ve son
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/monster-block) · [Orijinal gönderi](https://x.com/abc30037274/status/2100636075039629796) · [Canlı demo](https://monster-block.tripo.page/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2100751369619820923"></a>
-
-### Sharpa becerikli eliyle kalem çevirme politikası eğitimi
-
-[AI Will](https://x.com/FinanceYF5) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100751369619820923"><img src="../assets/previews/401b07a7533430d141557f6f49add9f4f645a2530b1b34a3e43d865e0bcbda48.jpg" width="840" loading="lazy" alt="Sharpa becerikli eliyle kalem çevirme politikası eğitimi"></a>
-
-Yazar, bu Çince istemin GPT-6 Astra'ya verilerek Isaac Lab ile Sharpa becerikli eline pekiştirmeli öğrenme uygulanmasını, kalemin 3B ağının kendiliğinden oluşturulmasını ve eğitilmiş politika ile görselleştirme videosunun teslim edilmesini sağladığını belirtiyor.
-
-**İstem**
-
-```text
-Becerikli elin kalem çevirmesini sağlayın. Pekiştirmeli öğrenme için Isaac Lab kullanın ve Sharpa hand modelini tercih edin; kalemin 3B ağını da kendiniz oluşturun. Son olarak eğitilmiş politikayı ve görselleştirme videosunu teslim edin. İnternette özgürce arama yapabilir, makaleleri ve gerekli materyalleri indirerek kullanabilirsiniz.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100751369619820923) · [Orijinal gönderi](https://x.com/FinanceYF5/status/2100751369619820923) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2100838090210431302"></a>
-
-### Yüzen adalar arasında 3B hava tramvayı oyunu
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100838090210431302"><img src="../assets/previews/beed044dc7075346b2830bb1c618e8b8f142481efb63cc04db1116a2955d521a.jpg" width="840" loading="lazy" alt="Yüzen adalar arasında 3B hava tramvayı oyunu"></a>
-
-Doğrulanmış bir yazar yorumu, ana gönderide GPT-6 ve Gemini 4 üzerinde çalıştırıldığı belirtilen tam istemi paylaşıyor. İstem; Akdeniz tarzı yüzen adalarda geçen, tarayıcıda oynanabilen bir Three.js tramvay oyunu istiyor. Oyunda sürüş kontrolleri, yolcu konforu puanlaması, istasyonlar, yükseltmeler ve mobil destek bulunuyor.
-
-**İstem**
-
-```text
-Tarayıcıda doğrudan oynanabilen, tek dosyalı bir HTML/JS 3B oyun (Three.js) oluştur. Sıcak, düşük poligonlu ama özenle hazırlanmış bir bağımsız oyun tarzı kullan; Ghibli tarzı bir sahil kasabasının atmosferini, Zelda'nın maden vagonu raylarının akıcılığıyla birleştirsin.
-【Temel Oynanış】  Oyuncu, bulut denizi ile okyanus yüzeyinin üzerinde yüzen adalar arasında ilerleyen retro bir hava tramvayını kullanır.  - Ray, düz bölümler, yokuş yukarı ve aşağı eğimler, yükseltilmiş virajlar ve denizin üzerinden geçen uzun köprüler içeren kesintisiz bir 3B demiryolu olsun  - Kontroller: Hızlanmak (Power) için W, fren yapmak (Brake) için S, hassas ayar yapmak veya görünümü değiştirmek için sol ve sağ yön tuşları  - Gerçek zamanlı gösterim: km/sa cinsinden hız, tramvaydaki yolcu sayısı (ör. 12/16 yolcu), yol koşulları (Sabit / Yan rüzgâr)  - Yolcu konforu sistemi: ani hızlanma, sert frenleme, virajlara fazla hızlı girme ve yan rüzgâr, "bacak konforunu" azaltır; varış noktasına sarsıntısız ulaşmak bonus puan kazandırır (ör. varışta +75)  - Seri: Fazla sarsıntılı sürüş, "Seri bozuldu. Bahşişlerini yeniden kazanmak için dengenizi bulun." mesajını tetikler.  - İstasyona varınca yolcuların binip inebilmesi için kapıları aç. Peronda, "Kapılar açılıyor - Mango Tide", "Lütfen bekleyin…" gibi altyazılar eşliğinde sıraya girmiş kasaba halkı bulunur.     [Dünya ve İstasyonlar]  En az iki rota/iki ada:  1. Saltlight Terminus  2. Mango Tide  Ada, bulutların üzerinde yüzen kayalık bir adadır. Kırmızı kiremit çatılı, küçük Akdeniz/Güney Avrupa tarzı evler; bir deniz feneri, iskele, yeşil ağaçlar, sokak lambaları ve geceleri parlayan sıcak sarı pencereler bulunur. Uzakta daha fazla yüzen ada ve çevresinde dönen yörüngeler görülür. Gökyüzü alacakaranlıktan geceye uzanan mavi-mor bir geçişe sahiptir; yıldızlar ve yoğun bulutlar vardır, aşağıda ise masmavi deniz suyu uzanır.     [Tramvay Dış Görünümü]  Retro tramvay: koyu yeşil gövde, ahşap renkli şasi, kavisli cam pencereler, çatıda bagaj, yeşil tente/sarmaşık süslemeleri ve içeride oturan çeşitli yolcular. Hareket ederken hafifçe sallansın ve ray sesleri hissi versin (basit ses efektleri veya görsel ipuçlarıyla aktarılabilir).     [Sahne 2: Atölye Modifikasyonu]  Atölye "Cloudworks / Oliver Cloudworks / Oliver's home island" için yukarıdan izometrik görünüme geç.  Oyuncular, yükseltme penceresine benzer bir arayüzle tramvay parçalarını değiştirebilsin:  - Hearth leaves — Eski parça çıkarılıyor  - Little Companion — Tramvay hazırlanıyor  İlerleme çubuğu + "Arkanıza yaslanın ve atölyeyi izleyin."  Modifikasyondan sonra tramvayın görünümünde değişiklikler göster (ör. yeşil çatı, eklenen bagaj rafı, fenerler, sarmaşıklar); ardından tramvay atölyeden çıksın ve "Herkes binsin." / "Sıradaki durak: Coastal Line." altyazıları görünsün.     [Arayüz]  Temiz ve modern, gündelik oyun tarzında bir arayüz kullan: varış noktası ile para/seri göstergesi sol üstte; hız çubuğu ve Power/Brake düğmeleri altta; konfor ilerleme çubuğu iki istasyon adını birbirine bağlasın. Karmaşaya yer verme; korku veya siberpunk tarzına kaçma.     [Teknik Gereksinimler]  - Tek dosya veya minimum sayıda dosya, Three.js  - Raylar için eğriler (CatmullRom vb.) kullan; böylece tramvay rayları takip etsin ve kamera hafif ray hissi verecek şekilde tramvayı izlesin  - Basit bir fizik hissi: hızlanma ataleti, frenleme yavaşlaması, virajlarda gövde yatışı  - Mobilde, hızlanma/frenleme için dokunmayı da desteklemeyi dene  - Okunabilir, yorum satırları içeren kod; dosya açılır açılmaz oynanabilsin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100838090210431302) · [Orijinal gönderi](https://x.com/YouWareAI/status/2100838828433179037) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2100844566718926949"></a>
-
-### Fotogerçekçi bir 3B dünya oluşturun
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100844566718926949"><img src="../assets/previews/f8596f35d968eda4e24acabd4e2405d42aae7745029b8cf3426d550a2bd2cd52.jpg" width="840" loading="lazy" alt="Fotogerçekçi bir 3B dünya oluşturun"></a>
-
-Fotogerçekçi, içinde dolaşılabilen bir 3B dünya için ana gönderide önerilen tek istemlik talep. Gönderi bunu Blender MCP iş akışının bir parçası olarak sunuyor; ancak bu istemin, eşlik eden vitrindeki çalışmanın girdisi olduğunu belirtmiyor.
-
-**İstem**
-
-```text
-Fotogerçekçi bir 3B dünya oluşturun. Beni şaşırtın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100844566718926949) · [Orijinal gönderi](https://x.com/JulianGoldieSEO/status/2100844566718926949) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3434,6 +3313,231 @@ Küçük bir torii işaretine sahip "shiosai°" markası, "A gate that / stands 
 
 ---
 
+<a id="2110054195734982817"></a>
+
+### Alacakaranlıkta kayalık uçurumdaki eski taş deniz feneri
+
+[JOH](https://x.com/JeurgenHubatsch) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/old-stone-lighthouse-dusk-threejs-scene"><img src="../assets/previews/3372900a7318c2aced864caf8be0878a49c17159a768534b8e64e91940397b0d.jpg" width="840" loading="lazy" alt="Alacakaranlıkta kayalık uçurumdaki eski taş deniz feneri"></a>
+
+Paylaşımı yapan kişinin hem Gemini 4 Argon hem de GPT-6 Astra için paylaştığı tek seferlik bir prompt. Prompt, eski taş bir deniz fenerini alacakaranlıkta, dönen ışık huzmesini, fener bekçisinin kulübesini, kıvrımlı bir patikayı, kayalara çarpan dalgaları ve martıları içeren bir Three.js sahnesi ister; tüm sahne tek bir index.html dosyasında yer almalıdır.
+
+**İstem**
+
+```text
+alacakaranlıkta kayalık uçurumdaki eski taş deniz feneri, dönen ışık huzmesi, fener bekçisinin kulübesi, kıvrımlı patika, kayalara çarpan dalgalar, martılar. tek bir index.html dosyası, Three.js
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/old-stone-lighthouse-dusk-threejs-scene) · [Orijinal gönderi](https://x.com/JeurgenHubatsch/status/2110054584769302982) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2110069699597971828"></a>
+
+### 3B Flappy Bird tarzı tropik oyun
+
+[Ivana](https://x.com/ivanainai) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/tropical-3d-flappy-bird-game"><img src="../assets/previews/2d1e98836fad59895d992542f572247007587970c4d4b7ee9b0435c7be18449a.jpg" width="840" loading="lazy" alt="3B Flappy Bird tarzı tropik oyun"></a>
+
+Tek bir HTML dosyasında oynanabilir, yandan görünümlü 3B Flappy Bird tarzı bir oyun için eksiksiz Three.js/WebGL prompt'u. Renkli tropik bir kıyı ortamı, özgün animasyonlu sarı bir kuş, deterministik boru üretimi, sabit fizik değerleri, manuel kontroller, skor, çarpışmalar, yeniden başlatma davranışı ve Otomatik Demo modu tanımlar.
+
+**İstem**
+
+```text
+Three.js/WebGL kullanarak, TEK bir eksiksiz ve kopyalanıp doğrudan kullanılabilir HTML dosyasında tamamen oynanabilir, yandan görünümlü 3B Flappy Bird tarzı bir oyun oluşturun.
+
+Özgün, renkli bir kuş ve ortam oluşturun. Oyun ekran görüntüsünde güzel görünmeli ve oynanırken hızlı tepki vermelidir.
+
+HTML'nin tamamını TEK bir html kod bloğu içinde döndürün. Kod <!DOCTYPE html> ile başlamalı ve </html> ile bitmelidir. Tüm CSS ve JavaScript'i dahil edin. Açıklama, parça kod veya ek dosya sunmayın.
+
+GÖRSEL YÖN
+
+Turkuaz bir deniz, sıcak güneş ışığı, yumuşak beyaz bulutlar, uzaktaki adalar ve hafif atmosferik derinlik içeren aydınlık, zengin renkli tropik bir kıyı dünyası oluşturun.
+
+Ön planı net ve doygun tutun. Kuşun ve engellerin kolayca görülebilmesi için hafif paralaks içeren, özenle kompoze edilmiş bir arka plan kullanın.
+
+Ana karakter, turuncu gagalı, etkileyici gözlere, küçük hareketli kanatlara ve ayrı ayrı şekillendirilmiş kuyruk tüylerine sahip sevimli, altın sarısı bir 3B kuş olsun. Özenle tasarlanmış bir oyun karakteri hissi vermesini sağlayın.
+
+Kanat çırpışlarını ve hafif gövde hareketlerini canlandırın; kuş yükselirken veya düşerken gövde açısının yumuşak biçimde değişmesini sağlayın.
+
+Engeller, belirgin kalınlığa sahip yuvarlatılmış kenarlı, parlak zümrüt yeşili borular olsun; gerçekçi gölgeler ve güzel yansımalar içersin. Gezilebilir bir boşluğa sahip, katı nesneler olarak net biçimde algılanmalıdırlar.
+
+Zevkli bir aydınlatma, pürüzsüz geometri, yumuşak gölgeler ve ölçülü yansımalar kullanın. Sarı kuş, yeşil borular ve mavi ortam arasında güçlü kontrastı koruyun.
+
+Açılış ekranı bitmiş dünyayı, kuşu ve birkaç boruyu hemen göstermelidir. Arayüzü küçük ve sade tutun.
+
+GAMEPLAY
+
+Gerçek 3B geometri ve derinlik içeren, yandan görünümlü bir oynanış düzlemi kullanın. Açıklıkların ve çarpışmaların kolayca değerlendirilmesi için sabit bir kamera kullanın.
+
+Tıklamak, dokunmak veya Space tuşuna basmak kuşun yukarı doğru kanat çırpmasını sağlar. Kanat çırpışları arasında yerçekimi kuşu aşağı çeker.
+
+Borular sabit hızla kuşa doğru hareket eder. Her boru çifti farklı bir yükseklikte boşluğa sahip olur. Kuş bir çifti başarıyla geçtiğinde tam olarak bir puan verin.
+
+Bir boruya, zemine veya üst oynanış sınırına çarpmak oyunu bitirir. Kısa ve net bir çarpma tepkisi ile son skoru ve çalışan bir Yeniden Başlat düğmesini içeren bir Oyun Bitti paneli gösterin.
+
+Yeniden başlatma; sayfayı yeniden yüklemeden kuşu, boruları, skoru, engel dizisini ve simülasyon durumunu sıfırlamalıdır.
+
+Şu oynanış parametrelerini aynen kullanın:
+
+Kuş konumu: x = -4.5.
+Kuş çarpışma yarıçapı: 0.35 dünya birimi.
+Dikey oynanış sınırları: y = -5.4 ve +5.4.
+Yerçekimi: saniyede kare başına 18 dünya birimi, aşağı yönlü.
+Her kanat çırpışında yukarı yönlü hız 6.8 dünya birimi/saniye olarak ayarlanır.
+Boru hareket hızı: 3 dünya birimi/saniye.
+Boru genişliği: 1.2 dünya birimi.
+Dikey boşluk boyutu: 3.4 dünya birimi.
+Boru çiftleri arasındaki yatay mesafe: 5.5 dünya birimi.
+Boşluk merkezleri y = -2 ile +2 arasında değişir.
+
+Sabit bir simülasyon zaman adımı ve görünen kuş gövdesiyle boru geometrisine karşılık gelen çarpışma kontrolleri kullanın.
+
+Engel yüksekliklerini, başlangıç tohumu 42 olan özel bir tohumlanmış rastgele sayı üreteciyle deterministik olarak oluşturun. Yeniden başlatma aynı engel dizisini yeniden üretmelidir. Dekoratif rastgelelik bu diziyi etkilememelidir.
+
+OTOMATİK DEMO
+
+Üç küçük kontrol sağlayın: Oyna, Otomatik Demo ve Yeniden Başlat.
+
+Otomatik Demo, gerçek oyunu otomatik olarak oynamalıdır. Denetleyicisi yalnızca insan oyuncunun kullanabildiği aynı kanat çırpma eylemini gerçekleştirebilir.
+
+Manuel oyunda kullanılan yerçekimini, engelleri, çarpışma algılamayı ve skor sistemini aynen kullanmalıdır. Kuşu doğrudan yeniden konumlandırmamalı, çarpışmaları devre dışı bırakmamalı veya kuşu ölümsüz kılmamalıdır.
+
+En az 20 saniye süren, akıcı ve izlenebilir bir demo hedefleyin. Denetleyici başarısız olursa gerçek Oyun Bitti durumunu gösterin.
+
+D tuşuna basmak oyunu sıfırlamalı ve Otomatik Demo'yu başlangıçtan başlatmalıdır.
+
+Skoru korurken menüleri ve düğmeleri kaldıran bir Arayüzü Gizle anahtarı sağlayın. Bu özellik temiz ekran kayıtları içindir.
+
+TEKNİK GEREKSİNİMLER
+
+Kurulum veya derleme adımı olmadan masaüstü tarayıcıda doğrudan açılan tek bir HTML dosyası teslim edin. Three.js için sabitlenmiş bir CDN içe aktarmasına izin verilir.
+
+Görünen tüm varlıkları kodla oluşturun. İçe aktarılan model, görüntü dosyası, özgün Flappy Bird sprite'ı veya harici yazı tipi kullanmayın.
+
+Öncelikle kare 1080 × 1080 görüntü alanı için kompoze edin; aynı zamanda duyarlı yeniden boyutlandırmayı destekleyin. Oyun boyunca kuşu ve yaklaşan engelleri görünür tutun.
+
+Net görüntüleme ve akıcı 60 fps hareket hedefleyin. Tarayıcı sekmesi gizlendiğinde simülasyonu duraklatın; böylece geri dönüldüğünde ani bir sıçrama yaşanmaz.
+
+Tarayıcı araçları mevcutsa oluşturulan sonucu inceleyin ve manuel kanat çırpmayı, skorlamayı, boru çarpışmalarını, sınır çarpışmalarını, Yeniden Başlat'ı ve Otomatik Demo'yu test edin.
+
+Güzel görsellere, hızlı tepki veren kontrollere, doğru çarpışmalara ve gerçekten oynanabilir bir oyuna öncelik verin.
+
+Yalnızca eksiksiz HTML'yi tek bir html kod bloğu içinde döndürün.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/tropical-3d-flappy-bird-game) · [Orijinal gönderi](https://x.com/ivanainai/status/2110073220946592038) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2110070382002921482"></a>
+
+### Rolex esintili saatin patlatılmış görünümü
+
+[bluumik](https://x.com/bluumik) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/exploded-rolex-inspired-watch-visualization"><img src="../assets/previews/6badd28d27f4e05ffd6d091bcfa30bbc3b2893133cd9f742b643ffc31d3ba969.jpg" width="840" loading="lazy" alt="Rolex esintili saatin patlatılmış görünümü"></a>
+
+bluumik'in, GPT-6 ve Opus 5.5'e verilen aynı yedi kelimelik istek olarak sunduğu bir prompt. İstek, saatin patlatılmış görünümünü talep ediyor; paylaşımda GPT-6'nın sonucunun, saat parçalarının havada birbirinden uzaklaştığı koyu yeşil, etkileşimli bir site olduğu belirtiliyor.
+
+**İstem**
+
+```text
+Rolex esintili saatin patlatılmış görünümü.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/exploded-rolex-inspired-watch-visualization) · [Orijinal gönderi](https://x.com/bluumik/status/2110070382002921482) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2110139804805693469"></a>
+
+### Yürüme animasyonlu Ogre Blender modeli
+
+[Cong Le](https://x.com/CongLe) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/ogre-blender-model-walking-animation"><img src="../assets/previews/dfe08b35c0bb14d6207937da3d095b4c3d91c31026c0dc3a716d1aa7d94ce047.jpg" width="840" loading="lazy" alt="Yürüme animasyonlu Ogre Blender modeli"></a>
+
+Blender’da yürüme animasyonuna sahip bir Ogre oluşturmak için yeniden kullanılabilir bir brief. Asıl yazar, bu brief’in GPT-6 Astra dahil beş yapay zekâ modeliyle, her birinde sıfırdan başlatılan 15 dakikalık oturumlarda kullanıldığını belirtiyor.
+
+**İstem**
+
+```text
+Blender’da yürüme animasyonuna sahip bir Ogre oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/ogre-blender-model-walking-animation) · [Orijinal gönderi](https://x.com/CongLe/status/2110139804805693469) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2110371046071382042"></a>
+
+### Etkileşimli 3B oyuncu faresi açıklaması
+
+[shmopix](https://x.com/shmopixbzn) · 2026-10-14
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-3d-gaming-mouse-explainer"><img src="../assets/previews/7975840d72a0c7bfef77c1000d3d0bce5eb9c93d12a1561634196c27b0496a1f.jpg" width="840" loading="lazy" alt="Etkileşimli 3B oyuncu faresi açıklaması"></a>
+
+Ana yazar, tırnak içindeki metni istem olarak etiketliyor ve etkileşimli bir 3B Superlight mouse açıklaması sunuyor. İstekte, bir oyuncu faresinin kullanıcının elinden bilgisayara kadar nasıl çalıştığının gösterilmesi isteniyor.
+
+**İstem**
+
+```text
+Bir oyuncu faresinin elimden bilgisayara kadar nasıl çalıştığını göster
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-3d-gaming-mouse-explainer) · [Orijinal gönderi](https://x.com/shmopixbzn/status/2110371046071382042) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2110380365269639613"></a>
+
+### Samanyolu’nda İlerleyen Güneş Sistemi: 3B Vidalı Yörünge Simülasyonu
+
+[AI TANUKI（AIたぬき）](https://x.com/ecsamuraigold) · 2026-10-14
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/solar-system-3d-screw-orbit-simulation"><img src="../assets/previews/719c9ba50a1f92cffa6f8f55c5fec029b60b306f3cdbe3947405f33246eb6986.jpg" width="840" loading="lazy" alt="Samanyolu’nda İlerleyen Güneş Sistemi: 3B Vidalı Yörünge Simülasyonu"></a>
+
+Samanyolu’nda ilerleyen Güneş’i ve hareket yönüne yaklaşık 60° eğimli ekliptik düzlemi koruyarak yörüngede dönen 8 gezegeni gösteren, tek HTML dosyasından oluşan etkileşimli bir 3B animasyon oluşturma istemi. Her gezegen için helisel izler, yıldızlı gökyüzü, yörünge kılavuzları, yandan görünüm dalga biçimi monitörü, hız ve tur sayısı HUD’ı, kamera kontrolleri ve oynatma denetimleri tanımlanıyor. Paylaşımı yapan kişi bu konuyu birden fazla modelle denedikten sonra istemi yorumlarda yayınlamış.
+
+**İstem**
+
+```text
+Samanyolu’nda yaklaşık 220 km/s hızla ilerleyen Güneş’in ve onu takip ederken üç boyutlu uzayda vida (helis) biçiminde yörüngede dönen 8 gezegenli Güneş Sistemi’nin 3B animasyonunu, Artifacts’te önizlenebilecek tek dosyalık bir HTML (HTML5 Canvas veya Three.js) olarak oluşturun.
+
+【Görselleştirme ve fizik modeli gereksinimleri】
+1. Güneş’in hareketi ve ekliptik düzlemin eğimi (önemli)
+   - Güneş, Samanyolu’ndaki hareket yönü vektörü (altın renkli ok bulunan eksen) boyunca ilerlemeye devam eder.
+   - Gezegenlerin yörünge düzlemi (ekliptik), Güneş’in hareket yönüne göre yaklaşık 60° eğimli aynı düzlemi koruyarak Güneş’le birlikte ilerler (gezegenler Güneş’in arkasında koni biçiminde gecikip sürüklenmez; sürekli olarak Güneş’le aynı eğimli düzlemde yörüngede dönerken üç boyutlu uzayda tirbuşon benzeri helisel bir yörünge çizer).
+   - Güneş’in mevcut konumunda, yaklaşık 60° eğimli ekliptik düzlemin kılavuz halkasını (her gezegenin dairesel yörüngesi) ve çapraz ekseni yarı saydam olarak gösterin.
+
+2. 8 gezegen ve 3B helisel yörüngeler (vida yörüngeleri)
+   - Merkür, Venüs, Dünya (+ Ay), Mars, Jüpiter, Satürn (+ halkaları), Uranüs ve Neptün olmak üzere 8 gezegeni görüntüleyin.
+   - Kepler yasalarına dayanarak yörünge sürelerini dengeleyin: iç gezegenler daha kısa yörünge sürelerine ve daha sıkı aralıklı helislere, dış gezegenler ise daha yavaş ilerleyen ve daha geniş aralıklı helislere sahip olsun.
+   - Her gezegenin geçmiş konumlarını birleştiren canlı renklerde 3B helisel izleri (sona doğru solan şerit veya çizgi) uzayda bırakın.
+   - Her gezegenin yanında Türkçe etiketler (Güneş, Merkür, Venüs, Dünya, Mars, Jüpiter, Satürn, Uranüs, Neptün) gösterin.
+   - Arka plana, galaktik uzayda hareket hissi vermek için akan yıldızlar (yıldız alanı) ve silindirik derinlik kılavuz halkaları yerleştirin.
+
+3. Ekran düzeni ve kullanıcı arayüzü panelleri (koyu tema, 16:9 düzen)
+   - Sol–orta alan (ana 3B görünüm):
+     - Sol üstte “Samanyolu’nda İlerleyen Güneş Sistemi: 3B Vidalı (Helisel) Yörünge Simülasyonu” başlığını ve “Yaklaşık 220 km/s hızla ilerleyen Güneş’i, yaklaşık 60° eğimli ekliptik düzlemde yörüngede dönen gezegenler takip eder ve 3B uzayda helisel yörüngeler çizer” alt başlığını gösterin.
+     - Sol altta şu açıklama rozetini gösterin: “Önemli: Gezegenler Güneş’in arkasında gecikip sürüklenmez; hareket yönüne göre yaklaşık 60° eğimli aynı düzlemi (ekliptik düzlemi) koruyarak Güneş’le birlikte ilerler. Bu nedenle üç boyutlu uzaydan bakıldığında tirbuşon (vida) benzeri helisel bir yörünge çizerler.”
+   - Sağ alan (HUD bilgi paneli):
+     - Üst bölüm: “Yandan Görünümde Vida Dalga Biçimi (Yan Projeksiyon)” başlıklı bir alt monitör çerçevesi oluşturun ve her gezegenin Güneş’in hareket eksenine (yatay çizgi) göre yukarı ve aşağı çizdiği sinüs dalgası biçimindeki dalga formunu gerçek zamanlı olarak görüntüleyin.
+     - Orta bölümde “Güneş’in Samanyolu yörünge hızı: yaklaşık 220 km/s” ve “Galaktik uzayda katedilen mesafe (milyon km cinsinden, Dünya yılı karşılığı)” için gerçek zamanlı sayaçları gösterin.
+     - Alt bölümde 8 gezegenin her biri için renkli nokta, ad (Türkçe/İngilizce), gerçek ortalama yörünge hızı (Merkür 47,4 km/s–Neptün 5,4 km/s), toplam tur sayısı (〇〇 tur) ve mevcut turun ilerleme çubuğunu gösterin.
+
+4. Etkileşimli kontroller
+   - 3B kamera açısının fareyle sürüklenerek serbestçe döndürülebilmesini ve tekerlekle yakınlaştırma yapılabilmesini sağlayın (kamera sürekli ilerleyen Güneş’i her zaman takip etsin).
+   - Oynat/duraklat düğmesi, simülasyon hızı kaydırıcısı ve kamera görünümünü sıfırlama düğmesi ekleyin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/solar-system-3d-screw-orbit-simulation) · [Orijinal gönderi](https://x.com/ecsamuraigold/status/2110381109494354145) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Sonsuz Tank Savunması
@@ -3919,7 +4023,7 @@ Açılışı, her iki karakter portresini, çarpışmayı, imdat roketlerini, ü
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 346 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 352 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

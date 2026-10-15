@@ -28,7 +28,7 @@
 **為你的下一個遊戲、場景或互動世界尋找靈感。**
 
 
-**346 · 最新 Astra 提示詞**
+**352 · 最新 Astra 提示詞**
 
 ## 精選作品
 
@@ -50,13 +50,7 @@
 <details>
 <summary>瀏覽案例</summary>
 
-- [製作 3D 賽車遊戲](#2100526922770026874)
-- [逃離封閉研究設施的瀏覽器 3D 遊戲](#2100595652703199281)
-- [用 CAD 設計身體](#2100614534423540102)
 - [怪獸街區——45 秒摧毀城市](#2100636075039629796)
-- [以 Sharpa 靈巧手訓練轉筆策略](#2100751369619820923)
-- [漂浮群島間的 3D 空中電車遊戲](#2100838090210431302)
-- [打造照片級寫實的 3D 世界](#2100844566718926949)
 - [互動式 IWC Schaffhausen 手錶模型](#2100956517633761447)
 - [以真實軌道物理打造的星系](#2101055500599054437)
 - [完整的照片級寫實 3D 環境](#2101224659861590399)
@@ -143,6 +137,12 @@
 - [絨毛企鵝 WebGPU 材質研究](#2109288662319919127)
 - [互動式 WebGPU 絨毛章魚體驗](#2109323102912156142)
 - [高潮中的鳥居互動神社立體模型](#2110014604524896392)
+- [黃昏時分，岩石峭壁上的古老石砌燈塔](#2110054195734982817)
+- [3D《Flappy Bird》風格熱帶遊戲](#2110069699597971828)
+- [受 Rolex 啟發的手錶爆炸圖](#2110070382002921482)
+- [附帶行走動畫的食人魔 Blender 模型](#2110139804805693469)
+- [互動式 3D 電競滑鼠解說](#2110371046071382042)
+- [穿越銀河系的太陽系 3D 螺旋軌道模擬](#2110380365269639613)
 - [Battle City 3D：無盡坦克防禦](#battle-city-3d)
 - [Crazy Tanks — 3D 島嶼火砲戰](#crazy-tanks-3d-island-artillery)
 - [Golden Miner：24 關 3D 採礦遊戲](#golden-miner)
@@ -152,66 +152,6 @@
 - [TITANIC — 最後的光](#titanic-the-last-light)
 
 </details>
-
-<a id="2100526922770026874"></a>
-
-### 製作 3D 賽車遊戲
-
-[たい焼き｜Claude Codeの人](https://x.com/taiyaki_ai3) · 2026-09-17
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100526922770026874"><img src="../assets/previews/291f4f1d8508153f9f0473b53e7a16dd4405894ddf89a942955e4bbecc0c95d4.jpg" width="840" loading="lazy" alt="製作 3D 賽車遊戲"></a>
-
-貼文作者表示，他只用一句話向 GPT-6 Astra 提出需求，就能製作出一款可實際操作駕駛的 3D 賽車遊戲。貼文將其介紹為一種不使用 Blender 或程式碼，也能生成可遊玩的遊戲的用途。
-
-**提示詞**
-
-```text
-幫我製作賽車遊戲
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100526922770026874) · [查看原文](https://x.com/taiyaki_ai3/status/2100526934082105683) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2100595652703199281"></a>
-
-### 逃離封閉研究設施的瀏覽器 3D 遊戲
-
-[forest.watch.impress.co.jp](https://forest.watch.impress.co.jp/) · 2026-09-17
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100595652703199281"><img src="../assets/previews/70f25d79c1b29caca651c53634c0f7632ee038c2a69ee4826e7f6a11e4d4f1a9.jpg" width="840" loading="lazy" alt="逃離封閉研究設施的瀏覽器 3D 遊戲"></a>
-
-這是一段用於製作瀏覽器 3D 密室逃脫遊戲的提示詞。遊戲以封閉的研究設施為舞台，並註明連結文章作者柳谷智宣曾委託 GPT-6 Astra 製作。遊戲內容設定為可在 5～10 分鐘內遊玩，包含鑰匙與開關等機關，操作方式清楚易懂，且能順利遊玩至通關；同時指定以單一 HTML 檔案發布。
-
-**提示詞**
-
-```text
-請製作一款可在瀏覽器中遊玩的 3D 密室逃脫遊戲。遊戲內容是從封閉的研究設施中逃脫，遊玩時間約為 5～10 分鐘。請加入鑰匙、開關等機關，讓玩家容易理解遊玩方式，並確保能順利遊玩至通關。請將遊戲整合為單一 HTML 檔案，讓玩家只要在瀏覽器中開啟檔案即可遊玩。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100595652703199281) · [查看原文](https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2141084.html) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2100614534423540102"></a>
-
-### 用 CAD 設計身體
-
-[vitalduval](https://x.com/vitalduval) · 2026-09-17
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100614534423540102"><img src="../assets/previews/0648785872e0e8f57ee31197f913e72bd72dad694354eb842c3bd65d309a4683.jpg" width="840" loading="lazy" alt="用 CAD 設計身體"></a>
-
-vitalduval 發布的相關推文描述了向 Astra 提出的請求：使用 CAD 設計一副身體。AI Highlight 轉發了生成的展示成果，並將其歸功於 GPT-6 Astra。
-
-**提示詞**
-
-```text
-我讓 Astra 用 CAD 設計出自己的身體。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100614534423540102) · [查看原文](https://x.com/vitalduval/status/2100343136077877251) · [返回案例導覽](#all-prompts)
-
----
 
 <a id="2100636075039629796"></a>
 
@@ -312,67 +252,6 @@ vitalduval 發布的相關推文描述了向 Astra 提出的請求：使用 CAD 
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/monster-block) · [查看原文](https://x.com/abc30037274/status/2100636075039629796) · [線上展示](https://monster-block.tripo.page/) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2100751369619820923"></a>
-
-### 以 Sharpa 靈巧手訓練轉筆策略
-
-[AI Will](https://x.com/FinanceYF5) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100751369619820923"><img src="../assets/previews/401b07a7533430d141557f6f49add9f4f645a2530b1b34a3e43d865e0bcbda48.jpg" width="840" loading="lazy" alt="以 Sharpa 靈巧手訓練轉筆策略"></a>
-
-作者表示，這段中文提示詞提供給 GPT-6 Astra，使用 Isaac Lab 對 Sharpa 靈巧手進行強化學習，自行建立筆的 3D 網格，並交付訓練完成的策略與視覺化影片。
-
-**提示詞**
-
-```text
-讓靈巧手完成轉筆。使用 Isaac Lab 進行強化學習，採用 Sharpa hand，並自行建立筆的 3D 網格。最終交付訓練完成的策略與視覺化影片。可以自由搜尋網路、下載論文及所需資料。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100751369619820923) · [查看原文](https://x.com/FinanceYF5/status/2100751369619820923) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2100838090210431302"></a>
-
-### 漂浮群島間的 3D 空中電車遊戲
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100838090210431302"><img src="../assets/previews/beed044dc7075346b2830bb1c618e8b8f142481efb63cc04db1116a2955d521a.jpg" width="840" loading="lazy" alt="漂浮群島間的 3D 空中電車遊戲"></a>
-
-經驗證的作者留言分享了完整提示詞；根貼文表示，這段提示詞曾交由 GPT-6 與 Gemini 4 執行。提示詞要求製作一款可在瀏覽器中遊玩的 Three.js 電車遊戲，場景設於地中海風格的漂浮群島，包含駕駛控制、乘客舒適度評分、車站、升級系統與行動裝置支援。
-
-**提示詞**
-
-```text
-製作一款單一 HTML/JS 檔案的 3D 遊戲（Three.js），可直接在瀏覽器中遊玩；採用溫暖、低多邊形但精緻的獨立遊戲風格，營造出吉卜力海濱小鎮與《薩爾達傳說》礦車軌道般流暢感的結合。
-【核心玩法】玩家駕駛復古空中電車，在漂浮於雲海與海面上方的群島之間行駛。 - 軌道是一條連續的 3D 鐵路，包含直線路段、上坡、下坡、高架彎道，以及橫跨海面的長橋 - 操作：W 加速（動力）、S 煞車（煞車），左右鍵用於微調或切換視角 - 即時顯示：速度（km/h）、車上乘客人數（例如 12/16 人乘車）、路況（穩定／側風） - 乘客舒適度系統：突然加速、急煞、過快過彎與側風都會降低「腿部舒適度」；平穩抵達目的地可獲得額外分數（例如抵達時 +75） - 連勝：行駛過於顛簸時會觸發訊息「連勝中斷。找到平衡，重新累積小費。」 - 抵達車站後開門，讓乘客上下車。月台上有排隊等候的居民，並顯示「車門開啟——芒果潮汐」、「請稍候……」等字幕     【世界與車站】至少包含兩條路線／兩座島嶼：  1. 鹽光終點站  2. 芒果潮汐  島嶼是一座漂浮在雲層上方的岩石島，島上有採地中海／南歐風格的小屋、紅瓦屋頂、燈塔、碼頭、綠樹、街燈，以及夜間散發暖黃色光芒的窗戶。遠處可見更多漂浮島嶼與環繞運行的軌道。天空從黃昏至夜晚呈現藍紫色漸層，有星星與厚重雲層，下方則是蔚藍海水。     【電車外觀】復古電車：深綠色車身、木色底盤、弧形玻璃窗、車頂行李，以及綠色遮棚／藤蔓裝飾；車內坐著各式各樣的乘客。行駛時有輕微搖晃感與軌道行駛聲（可用簡單音效或視覺提示呈現）。     【場景 2：工坊改造】切換至工坊「Cloudworks／Oliver Cloudworks／Oliver 的家鄉島」的俯視等距視角。玩家可以替電車更換零件，介面類似升級彈出視窗： - 爐心葉片——拆卸舊零件 - 小小夥伴——準備電車 進度條＋「坐下來看看工坊的作業吧。」改造後電車外觀有所變化（例如綠色車頂、加裝行李架、燈籠、藤蔓），接著駛出工坊，顯示「各位乘客請上車。」／「下一站：海岸線。」等字幕。     【UI】簡潔現代的休閒遊戲 UI：左上角顯示目的地與貨幣／連勝；底部顯示速度條與動力／煞車按鈕；舒適度進度條連接兩座車站的名稱。畫面不要雜亂，也不要做成恐怖或賽博龐克風格。     【技術需求】 - 單一檔案或最少檔案數，使用 Three.js - 使用曲線（CatmullRom 等）製作軌道，讓電車沿著鐵軌行駛；鏡頭跟隨電車，帶有些微沿軌道移動的感覺 - 簡單的物理感：加速慣性、煞車減速、轉彎時車身側傾 - 在行動裝置上，也請盡量支援點按加速／煞車 - 程式碼易讀並附上註解，開啟後即可遊玩。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100838090210431302) · [查看原文](https://x.com/YouWareAI/status/2100838828433179037) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2100844566718926949"></a>
-
-### 打造照片級寫實的 3D 世界
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100844566718926949"><img src="../assets/previews/f8596f35d968eda4e24acabd4e2405d42aae7745029b8cf3426d550a2bd2cd52.jpg" width="840" loading="lazy" alt="打造照片級寫實的 3D 世界"></a>
-
-原始貼文中建議的一段單一提示詞，用於建立照片級寫實、可漫遊的 3D 世界。貼文將其呈現為 Blender MCP 工作流程的一部分，但並未證實這段提示詞正是搭配展示內容所使用的輸入。
-
-**提示詞**
-
-```text
-打造照片級寫實的 3D 世界。給我驚喜。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100844566718926949) · [查看原文](https://x.com/JulianGoldieSEO/status/2100844566718926949) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -3435,6 +3314,231 @@ UI（編輯風格、極簡、英文）
 
 ---
 
+<a id="2110054195734982817"></a>
+
+### 黃昏時分，岩石峭壁上的古老石砌燈塔
+
+[JOH](https://x.com/JeurgenHubatsch) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/old-stone-lighthouse-dusk-threejs-scene"><img src="../assets/previews/3372900a7318c2aced864caf8be0878a49c17159a768534b8e64e91940397b0d.jpg" width="840" loading="lazy" alt="黃昏時分，岩石峭壁上的古老石砌燈塔"></a>
+
+這是發文作者分享的單次提示詞，適用於 Gemini 4 Argon 和 GPT-6 Astra。提示詞要求在單一 index.html 中製作 Three.js 場景，呈現黃昏時分的古老石砌燈塔、旋轉的燈光光束、燈塔守護人的小屋、蜿蜒小徑、拍打岩石的巨浪，以及海鷗。
+
+**提示詞**
+
+```text
+黃昏時分岩石峭壁上的古老石砌燈塔、旋轉的燈光光束、燈塔守護人的小屋、蜿蜒小徑、拍打岩石的海浪、海鷗。使用單一 index.html、Three.js
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/old-stone-lighthouse-dusk-threejs-scene) · [查看原文](https://x.com/JeurgenHubatsch/status/2110054584769302982) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2110069699597971828"></a>
+
+### 3D《Flappy Bird》風格熱帶遊戲
+
+[Ivana](https://x.com/ivanainai) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/tropical-3d-flappy-bird-game"><img src="../assets/previews/2d1e98836fad59895d992542f572247007587970c4d4b7ee9b0435c7be18449a.jpg" width="840" loading="lazy" alt="3D《Flappy Bird》風格熱帶遊戲"></a>
+
+使用 Three.js/WebGL 製作的完整提示詞，用於建立一款可遊玩的 3D《Flappy Bird》風格側視遊戲，所有內容放在單一 HTML 檔案中。提示詞指定了色彩繽紛的熱帶海岸環境、原創的動畫黃色小鳥、可重現的管道生成方式、固定物理參數、手動控制、計分、碰撞、重新開始行為，以及自動示範模式。
+
+**提示詞**
+
+```text
+使用 Three.js/WebGL，在單一完整且可直接複製貼上的 HTML 檔案中，製作一款完全可遊玩的 3D《Flappy Bird》風格遊戲。
+
+建立原創、色彩繽紛的小鳥與遊戲環境。遊戲畫面在截圖中應該美觀，實際遊玩時也要有靈敏的操作回應。
+
+將完整 HTML 放在一個 fenced html 程式碼區塊中。程式碼必須以 <!DOCTYPE html> 開頭，並以 </html> 結尾。包含所有 CSS 與 JavaScript。不要提供說明、片段或其他檔案。
+
+視覺方向
+
+建立明亮、色彩豐富的熱帶海岸世界，包含綠松石色海洋、溫暖陽光、柔和白雲、遠方島嶼，以及細緻的大氣景深。
+
+保持前景清晰且色彩飽和。精心構圖背景並加入柔和的視差效果，同時確保小鳥與障礙物容易辨識。
+
+主角是一隻討喜的金黃色 3D 小鳥，配有橘色鳥喙、富有表情的雙眼、小巧的動畫翅膀，以及獨立塑形的尾羽。讓牠呈現經過細心設計的遊戲角色質感。
+
+製作拍翅動畫、細微的身體動作，並在上升或下降時平順地改變身體角度。
+
+障礙物是表面光滑的翡翠綠管道，具有厚實的圓角管緣、可見的厚度、可信的陰影與漂亮的高光。管道必須清楚呈現為實體物件，並留有可通過的間隙。
+
+使用得體的光照、平滑幾何形狀、柔和陰影與克制的反射效果。維持黃色小鳥、綠色管道與藍色環境之間的強烈對比。
+
+開場畫面必須立即顯示完成的遊戲世界、小鳥與數個管道。介面保持小巧簡潔。
+
+GAMEPLAY
+
+使用具有真實 3D 幾何與景深的側視遊戲平面。固定攝影機，讓開口與碰撞容易判斷。
+
+點擊、點按或按下空白鍵會讓小鳥向上拍翅。兩次拍翅之間由重力將小鳥向下拉。
+
+管道會以固定速度朝小鳥移動。每組管道的間隙高度都不同。小鳥成功通過一組管道時，恰好增加 1 分。
+
+撞到管道、地面或遊戲區域上邊界時，該局結束。顯示短暫且清楚的撞擊回饋，以及包含最終分數和可正常運作之重新開始按鈕的「遊戲結束」面板。
+
+重新開始時必須重設小鳥、管道、分數、障礙物序列與模擬狀態，且不得重新載入頁面。
+
+使用以下完全相同的遊戲參數：
+
+小鳥位置：x = -4.5。
+小鳥碰撞半徑：0.35 個世界單位。
+垂直遊戲邊界：y = -5.4 與 +5.4。
+重力：每秒平方 18 個世界單位，方向向下。
+每次拍翅會將向上速度設為每秒 6.8 個世界單位。
+管道移動速度：每秒 3 個世界單位。
+管道寬度：1.2 個世界單位。
+垂直間隙大小：3.4 個世界單位。
+管道組之間的水平距離：5.5 個世界單位。
+間隙中心在 y = -2 至 +2 之間變化。
+
+使用固定的模擬時間步長，並根據畫面中可見的小鳥身體與管道幾何形狀進行碰撞檢查。
+
+使用專用的固定種子亂數產生器，以確定性方式生成障礙物高度，初始種子為 42。重新開始時必須重現相同的障礙物序列。裝飾元素的隨機性不得影響此序列。
+
+自動示範
+
+提供三個小型控制項：遊玩、自動示範與重新開始。
+
+自動示範必須自動遊玩實際遊戲。其控制器只能發出人類玩家可使用的相同拍翅動作。
+
+它必須使用與手動遊玩相同的重力、障礙物、碰撞偵測與計分機制。不得直接重新定位小鳥、停用碰撞或讓小鳥無敵。
+
+以流暢且適合觀看、持續至少 20 秒的示範為目標。如果控制器失效，顯示真實的「遊戲結束」狀態。
+
+按下 D 時，重設遊戲並從頭開始自動示範。
+
+提供「隱藏介面」切換開關，在保留分數的同時移除選單與按鈕。此功能用於製作乾淨的螢幕錄影。
+
+技術需求
+
+交付一個可在桌面瀏覽器中直接開啟、無需安裝或建置步驟的 HTML 檔案。允許使用固定版本的 Three.js CDN 匯入。
+
+以程式碼生成所有可見資產。不要使用匯入的模型、圖片檔案、原版《Flappy Bird》素材或外部字型。
+
+主要以正方形 1080 × 1080 視窗為構圖目標，同時支援自適應調整大小。遊戲過程中，讓小鳥與接近中的障礙物始終保持可見。
+
+以清晰渲染與流暢的 60 fps 動畫為目標。瀏覽器分頁隱藏時暫停模擬，避免返回時突然跳動。
+
+如果瀏覽器工具可用，請檢查渲染結果，並測試手動拍翅、計分、管道碰撞、邊界碰撞、重新開始與自動示範。
+
+優先打造漂亮的視覺效果、靈敏的控制、正確的碰撞，以及真正可遊玩的遊戲。
+
+只在一個 fenced html 程式碼區塊中回傳完整 HTML。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/tropical-3d-flappy-bird-game) · [查看原文](https://x.com/ivanainai/status/2110073220946592038) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2110070382002921482"></a>
+
+### 受 Rolex 啟發的手錶爆炸圖
+
+[bluumik](https://x.com/bluumik) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/exploded-rolex-inspired-watch-visualization"><img src="../assets/previews/6badd28d27f4e05ffd6d091bcfa30bbc3b2893133cd9f742b643ffc31d3ba969.jpg" width="840" loading="lazy" alt="受 Rolex 啟發的手錶爆炸圖"></a>
+
+bluumik 提出的提示詞，與提供給 GPT-6 和 Opus 5.5 的相同七字請求。這段提示詞要求製作手錶爆炸圖視覺化；貼文形容 GPT-6 的成果是一個深綠色互動網站，手錶零件在空中逐一分離飄散。
+
+**提示詞**
+
+```text
+受 Rolex 啟發的手錶爆炸圖。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/exploded-rolex-inspired-watch-visualization) · [查看原文](https://x.com/bluumik/status/2110070382002921482) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2110139804805693469"></a>
+
+### 附帶行走動畫的食人魔 Blender 模型
+
+[Cong Le](https://x.com/CongLe) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/ogre-blender-model-walking-animation"><img src="../assets/previews/dfe08b35c0bb14d6207937da3d095b4c3d91c31026c0dc3a716d1aa7d94ce047.jpg" width="840" loading="lazy" alt="附帶行走動畫的食人魔 Blender 模型"></a>
+
+可重複使用的製作簡述：在 Blender 中建立附帶行走動畫的食人魔。原作者表示，這份相同的簡述曾在五個 AI 模型的新工作階段中使用，每次工作階段皆為 15 分鐘，其中包括 GPT-6 Astra。
+
+**提示詞**
+
+```text
+在 Blender 中建立食人魔（附帶行走動畫）。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/ogre-blender-model-walking-animation) · [查看原文](https://x.com/CongLe/status/2110139804805693469) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2110371046071382042"></a>
+
+### 互動式 3D 電競滑鼠解說
+
+[shmopix](https://x.com/shmopixbzn) · 2026-10-14
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-3d-gaming-mouse-explainer"><img src="../assets/previews/7975840d72a0c7bfef77c1000d3d0bce5eb9c93d12a1561634196c27b0496a1f.jpg" width="840" loading="lazy" alt="互動式 3D 電競滑鼠解說"></a>
+
+根作者將引號內的文字標示為提示詞，並呈現互動式 3D Superlight 滑鼠解說。此請求旨在展示電競滑鼠如何從使用者的手部操作一路傳遞至電腦。
+
+**提示詞**
+
+```text
+向我展示電競滑鼠如何運作，從我的手部操作一路到電腦
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-3d-gaming-mouse-explainer) · [查看原文](https://x.com/shmopixbzn/status/2110371046071382042) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2110380365269639613"></a>
+
+### 穿越銀河系的太陽系 3D 螺旋軌道模擬
+
+[AI TANUKI（AIたぬき）](https://x.com/ecsamuraigold) · 2026-10-14
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/solar-system-3d-screw-orbit-simulation"><img src="../assets/previews/719c9ba50a1f92cffa6f8f55c5fec029b60b306f3cdbe3947405f33246eb6986.jpg" width="840" loading="lazy" alt="穿越銀河系的太陽系 3D 螺旋軌道模擬"></a>
+
+這是一個用來建立單一 HTML 互動式 3D 動畫的提示詞：呈現太陽在銀河系中前進，以及 8 顆行星在相對於前進方向傾斜約 60° 的黃道面上公轉。提示詞指定了各行星的螺旋軌跡、星空、軌道導引線、側面波形監視器、速度與公轉圈數 HUD，以及相機操作和播放控制。發布者在多個模型上測試了這個主題，並將提示詞放在留言中。
+
+**提示詞**
+
+```text
+請使用單一檔案的 HTML（HTML5 Canvas 或 Three.js）建立太陽系 8 顆行星的 3D 動畫：太陽以每秒約 220 km 的速度穿越銀河系，8 顆行星一邊追隨太陽，一邊在 3D 空間中沿螺旋（螺絲）狀軌道公轉，並確保能在 Artifacts 中預覽。
+
+【視覺化與物理模型需求】
+1. 太陽的移動與黃道面傾角（重要）
+   - 太陽持續沿著銀河系前進方向的向量（帶有金色箭頭的軸線）前進。
+   - 行星的公轉面（黃道面）在相對於太陽前進方向「傾斜約 60° 的同一平面」上，與太陽一同前進（行星不是在太陽後方延遲、被圓錐狀地拖曳，而是在始終與太陽保持相同傾角的平面上公轉並前進，因此會在 3D 空間中描繪出像開瓶器般的螺旋軌跡）。
+   - 在太陽目前的位置，以半透明方式顯示傾斜約 60° 的黃道面導引環（各行星的圓形公轉軌道）與十字軸。
+
+2. 8 顆行星與 3D 螺旋軌跡（螺旋軌道）
+   - 繪製水星、金星、地球（含月球）、火星、木星、土星（含土星環）、天王星與海王星這 8 顆行星。
+   - 根據克卜勒定律設定公轉週期的比例：內行星的公轉週期較短，描繪出間距較密的螺旋；外行星則描繪出較舒緩、間距較大的螺旋。
+   - 將各行星過去的位置連接成鮮明的 3D 螺旋軌跡，留存在空間中（使用朝末端逐漸淡出的緞帶或線條）。
+   - 在各行星旁顯示日文標籤（太陽、水星、金星、地球、火星、木星、土星、天王星、海王星）。
+   - 在背景配置流動的星星（星空背景）與圓筒狀的深度導引環，營造穿越銀河空間的移動感。
+
+3. 畫面配置與 UI 面板（深色主題、16:9 版面）
+   - 左側至中央區域（主要 3D 視圖）：
+     - 在左上角顯示標題「穿越銀河系的太陽系：3D 螺旋（螺絲）軌道模擬」與副標題「太陽以每秒約 220 km 的速度前進，行星在傾斜約 60° 的黃道面上公轉並追隨太陽，在 3D 空間中描繪出螺旋軌跡」。
+     - 在左下角顯示說明徽章「重點：行星不是在太陽後方延遲、被拖曳前進，而是在相對於前進方向傾斜約 60° 的同一平面（黃道面）上，與太陽一同前進；從整個 3D 空間觀察時，就會描繪出像開瓶器（螺絲）般的螺旋軌道。」
+   - 右側區域（HUD 資訊面板）：
+     - 上方：設置「從側面觀察的螺旋波形（側面投影）」副監視器框，即時繪製各行星相對於太陽前進軸（水平線）上下起伏的正弦波形。
+     - 中段：顯示「太陽的銀河系公轉速度：約 220 km/s」以及「在銀河空間中的移動距離（以百萬 km 為單位，並換算為地球年數）」的即時計數器。
+     - 下方：顯示 8 顆行星各自的色點、名稱（日文與英文）、實際平均公轉速度（水星 47.4 km/s～海王星 5.4 km/s）、累計公轉圈數（〇〇 圈），以及目前這一圈的進度條。
+
+4. 互動操作
+   - 支援以滑鼠拖曳自由旋轉 3D 相機角度，並以滾輪縮放（相機始終追蹤持續前進的太陽）。
+   - 設置播放／暫停按鈕、模擬速度滑桿，以及重設相機視角按鈕。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/solar-system-3d-screw-orbit-simulation) · [查看原文](https://x.com/ecsamuraigold/status/2110381109494354145) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D：無盡坦克防禦
@@ -3920,7 +4024,7 @@ UI：奶油白圓角卡片搭配海軍藍文字與珊瑚橘點綴；標題使用
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 346 個案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 352 個案例 →</a></strong></p>
 <p><sub>為保持 GitHub README 渲染流暢，這裡僅展示最新 100 個案例。</sub></p>
 <br>
 </td></tr>

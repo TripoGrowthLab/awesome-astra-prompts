@@ -29,7 +29,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**346 examples · 14 languages · 12 examples with source code**
+**352 examples · 14 languages · 12 examples with source code**
 
 ## Featured projects
 
@@ -51,13 +51,7 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 <details>
 <summary>Browse examples</summary>
 
-- [Create a 3D Racing Game](#2100526922770026874)
-- [Browser 3D Escape Game: Escape from a Sealed Research Facility](#2100595652703199281)
-- [CAD itself a body](#2100614534423540102)
 - [Monster Block — 45 Seconds to Wreck the City](#2100636075039629796)
-- [Train a Pen-Spinning Policy with the Sharpa Dexterous Hand](#2100751369619820923)
-- [3D aerial tram game between floating islands](#2100838090210431302)
-- [Build a photorealistic 3D world](#2100844566718926949)
 - [Interactive IWC Schaffhausen Watch Model](#2100956517633761447)
 - [Galaxy from real orbital physics](#2101055500599054437)
 - [Complete Photorealistic 3D Environment](#2101224659861590399)
@@ -144,6 +138,12 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Plush Penguin WebGPU Material Study](#2109288662319919127)
 - [Plush Octopus Interactive WebGPU Experience](#2109323102912156142)
 - [Torii at High Tide interactive shrine diorama](#2110014604524896392)
+- [Old stone lighthouse on a rocky cliff at dusk](#2110054195734982817)
+- [3D Flappy Bird-style tropical game](#2110069699597971828)
+- [Exploded view of a Rolex inspired watch](#2110070382002921482)
+- [Ogre Blender model with walking animation](#2110139804805693469)
+- [Interactive 3D gaming mouse explainer](#2110371046071382042)
+- [3D Screw-Orbit Simulation of the Solar System Moving Through the Milky Way](#2110380365269639613)
 - [Battle City 3D: Endless Tank Defense](#battle-city-3d)
 - [Crazy Tanks — 3D Island Artillery](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: 24-Level 3D Mining Game](#golden-miner)
@@ -153,66 +153,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [TITANIC — The Last Light](#titanic-the-last-light)
 
 </details>
-
-<a id="2100526922770026874"></a>
-
-### Create a 3D Racing Game
-
-[たい焼き｜Claude Codeの人](https://x.com/taiyaki_ai3) · 2026-09-17
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100526922770026874"><img src="assets/previews/291f4f1d8508153f9f0473b53e7a16dd4405894ddf89a942955e4bbecc0c95d4.jpg" width="840" loading="lazy" alt="Create a 3D Racing Game"></a>
-
-A request to create a 3D racing game that can be controlled and played, described by the poster as a one-sentence input to GPT-6 Astra. The post presents it as a way to generate a playable game without using Blender or code.
-
-**Prompt**
-
-```text
-Create a racing game
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100526922770026874) · [Original post](https://x.com/taiyaki_ai3/status/2100526934082105683) · [Back to examples](#all-prompts)
-
----
-
-<a id="2100595652703199281"></a>
-
-### Browser 3D Escape Game: Escape from a Sealed Research Facility
-
-[forest.watch.impress.co.jp](https://forest.watch.impress.co.jp/) · 2026-09-17
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100595652703199281"><img src="assets/previews/70f25d79c1b29caca651c53634c0f7632ee038c2a69ee4826e7f6a11e4d4f1a9.jpg" width="840" loading="lazy" alt="Browser 3D Escape Game: Escape from a Sealed Research Facility"></a>
-
-A prompt for creating a browser-based 3D escape game set in a sealed research facility, described as a request made to GPT-6 Astra by the linked article’s author, Tomonobu Yanagiya. It specifies a 5–10-minute experience with puzzles involving keys and switches, clear instructions, a completable game flow, and distribution as a single HTML file.
-
-**Prompt**
-
-```text
-Create a 3D escape game that can be played in a browser. The objective is to escape from a sealed research facility, and the game should take about 5–10 minutes to play. Include mechanisms such as keys and switches, make the controls and objectives easy to understand, and ensure the game can be completed from start to finish. Package everything in a single HTML file so it can be played simply by opening it in a browser.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100595652703199281) · [Original post](https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2141084.html) · [Back to examples](#all-prompts)
-
----
-
-<a id="2100614534423540102"></a>
-
-### CAD itself a body
-
-[vitalduval](https://x.com/vitalduval) · 2026-09-17
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100614534423540102"><img src="assets/previews/0648785872e0e8f57ee31197f913e72bd72dad694354eb842c3bd65d309a4683.jpg" width="840" loading="lazy" alt="CAD itself a body"></a>
-
-A linked tweet by vitalduval states this request to Astra for a CAD-designed body. AI Highlight reposts the resulting showcase and attributes it to GPT-6 Astra.
-
-**Prompt**
-
-```text
-I told Astra to CAD itself a body.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100614534423540102) · [Original post](https://x.com/vitalduval/status/2100343136077877251) · [Back to examples](#all-prompts)
-
----
 
 <a id="2100636075039629796"></a>
 
@@ -313,67 +253,6 @@ Check English and Chinese layouts at desktop and narrow mobile widths, including
 ```
 
 [View detail ↗](https://www.tripo3d.ai/3d-prompts/monster-block) · [Original post](https://x.com/abc30037274/status/2100636075039629796) · [Live demo](https://monster-block.tripo.page/) · [Back to examples](#all-prompts)
-
----
-
-<a id="2100751369619820923"></a>
-
-### Train a Pen-Spinning Policy with the Sharpa Dexterous Hand
-
-[AI Will](https://x.com/FinanceYF5) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100751369619820923"><img src="assets/previews/401b07a7533430d141557f6f49add9f4f645a2530b1b34a3e43d865e0bcbda48.jpg" width="840" loading="lazy" alt="Train a Pen-Spinning Policy with the Sharpa Dexterous Hand"></a>
-
-The author says this Chinese prompt was provided to GPT-6 Astra to use Isaac Lab for reinforcement learning on the Sharpa dexterous hand, create a 3D mesh of the pen from scratch, and deliver the trained policy and a visualization video.
-
-**Prompt**
-
-```text
-Have the dexterous hand perform pen spinning. Use Isaac Lab for reinforcement learning with the Sharpa hand, and create the pen’s 3D mesh from scratch. Deliver the trained policy and a visualization video. You may freely search online and download papers and other required resources.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100751369619820923) · [Original post](https://x.com/FinanceYF5/status/2100751369619820923) · [Back to examples](#all-prompts)
-
----
-
-<a id="2100838090210431302"></a>
-
-### 3D aerial tram game between floating islands
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100838090210431302"><img src="assets/previews/beed044dc7075346b2830bb1c618e8b8f142481efb63cc04db1116a2955d521a.jpg" width="840" loading="lazy" alt="3D aerial tram game between floating islands"></a>
-
-A verified author comment shares the full prompt that the root post says was run against GPT-6 and Gemini 4. It requests a playable browser-based Three.js tram game set on floating Mediterranean-style islands, with driving controls, passenger-comfort scoring, stations, upgrades, and mobile support.
-
-**Prompt**
-
-```text
-Create a single-file HTML/JS 3D game (Three.js) that can be played directly in the browser, with a warm, low-poly but polished indie game style, evoking the feel of a Ghibli seaside town combined with the smoothness of Zelda's mine cart tracks.
-【Core Gameplay】  The player drives a retro aerial tram, traveling between islands floating above a sea of clouds and the ocean surface.  - The track is a continuous 3D railway, featuring straight sections, uphill slopes, downhill slopes, elevated curves, and long bridges across the sea  - Controls: W to accelerate (Power), S to brake (Brake), left and right for fine-tuning or switching the view  - Real-time display: speed in km/h, number of passengers on board (e.g., 12/16 aboard), road conditions (Steady / Crosswind)  - Passenger comfort system: sudden acceleration, hard braking, taking corners too fast, and crosswinds all reduce "leg comfort"; arriving at the destination smoothly earns bonus points (e.g., +75 at arrival)  - Streak: driving too bumpily will trigger the message "Streak broken. Find your balance to rebuild your tips."  - Arrive at the station, open the doors for passengers to get on and off. On the platform, there are townsfolk queuing up, with subtitles such as "Doors opening - Mango Tide," "Please wait…"     [World and Stations]  At least two routes/two islands:  1. Saltlight Terminus  2. Mango Tide  The island is a rocky island floating above the clouds, with small Mediterranean/Southern European-style houses with red-tiled roofs, a lighthouse, a dock, green trees, streetlights, and warm yellow windows at night. In the distance, there are more floating islands and circling orbits. The sky is a blue-purple gradient from dusk to night, with stars and thick clouds, and below is azure seawater.     [Tram Exterior]  Retro tram: dark green body, wood-colored chassis, curved glass windows, roof luggage, green awning/vine decorations, and various passengers sitting inside. While moving, there is a slight swaying motion and a sense of track sounds (which can be conveyed with simple sound effects or visual cues).     [Scene 2: Workshop Modification]  Switch to the top-down isometric view of the workshop "Cloudworks / Oliver Cloudworks / Oliver's home island."  Players can swap parts for the tram, with an interface like an upgrade pop-up:  - Hearth leaves — Lifting the old part  - Little Companion — Preparing the tram  Progress bar + "Sit back and watch the workshop."  Changes to the tram's appearance after modification (e.g., green roof, added luggage rack, lanterns, vines), then it drives out of the workshop, subtitles "All aboard." / "Next stop: the Coastal Line."     [UI]  Clean modern casual game UI: destination and currency/streak in the top-left, speed bar and Power/Brake buttons at the bottom, comfort progress bar connecting the two station names. No clutter, don't make it horror or cyberpunk.     [Technical Requirements]  - Single file or minimal files, Three.js  - Use curves for the track (CatmullRom, etc.) so the tram follows the rails, camera follows with a slight rail feel  - Simple physics feel: acceleration inertia, braking deceleration, body roll when cornering  - On mobile, try to also support tap to accelerate/brake  - Readable code, with comments, playable as soon as it's opened.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100838090210431302) · [Original post](https://x.com/YouWareAI/status/2100838828433179037) · [Back to examples](#all-prompts)
-
----
-
-<a id="2100844566718926949"></a>
-
-### Build a photorealistic 3D world
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100844566718926949"><img src="assets/previews/f8596f35d968eda4e24acabd4e2405d42aae7745029b8cf3426d550a2bd2cd52.jpg" width="840" loading="lazy" alt="Build a photorealistic 3D world"></a>
-
-A suggested one-prompt request in the root post for a photorealistic, walk-through 3D world. The post presents this as part of a Blender MCP workflow; it does not establish that this exact prompt was the input for the accompanying showcase.
-
-**Prompt**
-
-```text
-Build a photorealistic 3D world. Surprise me.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100844566718926949) · [Original post](https://x.com/JulianGoldieSEO/status/2100844566718926949) · [Back to examples](#all-prompts)
 
 ---
 
@@ -3370,6 +3249,231 @@ Brand "shiosai°" with a small torii mark, headline "A gate that / stands in the
 
 ---
 
+<a id="2110054195734982817"></a>
+
+### Old stone lighthouse on a rocky cliff at dusk
+
+[JOH](https://x.com/JeurgenHubatsch) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/3d-prompts/old-stone-lighthouse-dusk-threejs-scene"><img src="assets/previews/3372900a7318c2aced864caf8be0878a49c17159a768534b8e64e91940397b0d.jpg" width="840" loading="lazy" alt="Old stone lighthouse on a rocky cliff at dusk"></a>
+
+A one-shot prompt shared by the posting author for both Gemini 4 Argon and GPT-6 Astra. It requests a Three.js scene in one index.html featuring an old stone lighthouse at dusk, its rotating beam, a keeper's cottage, a winding path, crashing waves, and seagulls.
+
+**Prompt**
+
+```text
+old stone lighthouse on a rocky cliff at dusk, rotating light beam, keeper's cottage, winding path, waves crashing on rocks, seagulls. one index.html, three.js
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/old-stone-lighthouse-dusk-threejs-scene) · [Original post](https://x.com/JeurgenHubatsch/status/2110054584769302982) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2110069699597971828"></a>
+
+### 3D Flappy Bird-style tropical game
+
+[Ivana](https://x.com/ivanainai) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/3d-prompts/tropical-3d-flappy-bird-game"><img src="assets/previews/2d1e98836fad59895d992542f572247007587970c4d4b7ee9b0435c7be18449a.jpg" width="840" loading="lazy" alt="3D Flappy Bird-style tropical game"></a>
+
+A complete Three.js/WebGL prompt for a playable side-view 3D Flappy Bird-style game in a single HTML file. It specifies a colorful tropical coastal environment, an original animated yellow bird, deterministic pipe generation, fixed physics values, manual controls, scoring, collisions, restart behavior, and an Auto Demo mode.
+
+**Prompt**
+
+```text
+Build a fully playable 3D Flappy Bird-style game in ONE complete, copy-pasteable HTML file using Three.js/WebGL.
+
+Create an original, colorful bird and environment. The game should look beautiful in a screenshot and feel responsive when played.
+
+Return the entire HTML inside ONE fenced html code block. The code must begin with <!DOCTYPE html> and end with </html>. Include all CSS and JavaScript. Do not provide explanations, fragments or additional files.
+
+VISUAL DIRECTION
+
+Create a bright, richly colored tropical coastal world with a turquoise sea, warm sunlight, soft white clouds, distant islands and subtle atmospheric depth.
+
+Keep the foreground crisp and saturated. Use a carefully composed background with gentle parallax, leaving the bird and obstacles easy to see.
+
+The hero is a charming golden-yellow 3D bird with an orange beak, expressive eyes, small animated wings and individually shaped tail feathers. Make it feel like a carefully designed game character.
+
+Animate wingbeats, subtle body movement and a smooth change in body angle when rising or falling.
+
+The obstacles are glossy emerald-green pipes with substantial rounded rims, visible thickness, convincing shadows and beautiful highlights. They must read clearly as solid objects with a navigable gap.
+
+Use tasteful lighting, smooth geometry, soft shadows and restrained reflections. Preserve strong contrast between the yellow bird, green pipes and blue environment.
+
+The opening screen must immediately show the finished world, the bird and several pipes. Keep the interface small and clean.
+
+GAMEPLAY
+
+Use a side-view gameplay plane with real 3D geometry and depth. Keep a fixed camera so the openings and collisions remain easy to judge.
+
+Clicking, tapping or pressing Space makes the bird flap upward. Gravity pulls it downward between flaps.
+
+Pipes move toward the bird at constant speed. Each pair has a gap at a different height. Award exactly one point when the bird successfully passes a pair.
+
+Colliding with a pipe, the ground or the upper gameplay boundary ends the run. Show a short, clear impact response and a Game Over panel with the final score and a working Restart button.
+
+Restart must reset the bird, pipes, score, obstacle sequence and simulation state without reloading the page.
+
+Use these identical gameplay parameters:
+
+Bird position: x = -4.5.
+Bird collision radius: 0.35 world units.
+Vertical gameplay boundaries: y = -5.4 and +5.4.
+Gravity: 18 world units per second squared, downward.
+Each flap sets upward velocity to 6.8 world units per second.
+Pipe movement speed: 3 world units per second.
+Pipe width: 1.2 world units.
+Vertical gap size: 3.4 world units.
+Horizontal distance between pipe pairs: 5.5 world units.
+Gap centers vary between y = -2 and +2.
+
+Use a fixed simulation timestep and collision checks corresponding to the visible bird body and pipe geometry.
+
+Generate obstacle heights deterministically with a dedicated seeded random generator, starting at seed 42. Restart must reproduce the same obstacle sequence. Decorative randomness must not affect this sequence.
+
+AUTOMATIC DEMO
+
+Provide three small controls: Play, Auto Demo and Restart.
+
+Auto Demo must play the actual game automatically. Its controller may only issue the same flap action available to a human player.
+
+It must use the same gravity, obstacles, collision detection and scoring as manual play. It must not reposition the bird directly, disable collisions or make it invincible.
+
+Aim for a smooth, watchable demonstration lasting at least 20 seconds. If the controller crashes, show the real Game Over state.
+
+Pressing D resets the game and starts Auto Demo from the beginning.
+
+Provide a Hide UI toggle that removes menus and buttons while preserving the score. This is for clean screen recordings.
+
+TECHNICAL REQUIREMENTS
+
+Deliver one HTML file that opens directly in a desktop browser without installation or a build step. A pinned CDN import for Three.js is allowed.
+
+Generate all visible assets in code. Do not use imported models, image files, original Flappy Bird sprites or external fonts.
+
+Compose primarily for a square 1080 × 1080 viewport, while supporting responsive resizing. Keep the bird and approaching obstacles visible throughout play.
+
+Aim for crisp rendering and smooth 60 fps motion. Pause the simulation when the browser tab is hidden so returning does not cause a sudden jump.
+
+If browser tools are available, inspect the rendered result and test manual flapping, scoring, pipe collisions, boundary collisions, Restart and Auto Demo.
+
+Prioritize beautiful visuals, responsive controls, correct collisions and a genuinely playable game.
+
+Return only the complete HTML in one fenced html code block.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/tropical-3d-flappy-bird-game) · [Original post](https://x.com/ivanainai/status/2110073220946592038) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2110070382002921482"></a>
+
+### Exploded view of a Rolex inspired watch
+
+[bluumik](https://x.com/bluumik) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/3d-prompts/exploded-rolex-inspired-watch-visualization"><img src="assets/previews/6badd28d27f4e05ffd6d091bcfa30bbc3b2893133cd9f742b643ffc31d3ba969.jpg" width="840" loading="lazy" alt="Exploded view of a Rolex inspired watch"></a>
+
+A prompt presented by bluumik as the same seven-word request given to GPT-6 and Opus 5.5. It requests an exploded-view watch visualization; the post describes GPT-6’s result as a dark green interactive site whose watch parts drift apart in the air.
+
+**Prompt**
+
+```text
+Exploded view of a Rolex inspired watch.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/exploded-rolex-inspired-watch-visualization) · [Original post](https://x.com/bluumik/status/2110070382002921482) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2110139804805693469"></a>
+
+### Ogre Blender model with walking animation
+
+[Cong Le](https://x.com/CongLe) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/3d-prompts/ogre-blender-model-walking-animation"><img src="assets/previews/dfe08b35c0bb14d6207937da3d095b4c3d91c31026c0dc3a716d1aa7d94ce047.jpg" width="840" loading="lazy" alt="Ogre Blender model with walking animation"></a>
+
+A reusable brief to create an Ogre in Blender with a walking animation. The root author says this same brief was used in fresh 15-minute sessions across five AI models, including GPT-6 Astra.
+
+**Prompt**
+
+```text
+Build an Ogre in Blender (with walking animation).
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/ogre-blender-model-walking-animation) · [Original post](https://x.com/CongLe/status/2110139804805693469) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2110371046071382042"></a>
+
+### Interactive 3D gaming mouse explainer
+
+[shmopix](https://x.com/shmopixbzn) · 2026-10-14
+
+<a href="https://www.tripo3d.ai/3d-prompts/interactive-3d-gaming-mouse-explainer"><img src="assets/previews/7975840d72a0c7bfef77c1000d3d0bce5eb9c93d12a1561634196c27b0496a1f.jpg" width="840" loading="lazy" alt="Interactive 3D gaming mouse explainer"></a>
+
+The root author labels the quoted text as the prompt and presents an interactive 3D Superlight mouse explainer. The request is to show how a gaming mouse works from the user's hand through to the computer.
+
+**Prompt**
+
+```text
+show me how a gaming mouse works, from my hand to the computer
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/interactive-3d-gaming-mouse-explainer) · [Original post](https://x.com/shmopixbzn/status/2110371046071382042) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2110380365269639613"></a>
+
+### 3D Screw-Orbit Simulation of the Solar System Moving Through the Milky Way
+
+[AI TANUKI（AIたぬき）](https://x.com/ecsamuraigold) · 2026-10-14
+
+<a href="https://www.tripo3d.ai/3d-prompts/solar-system-3d-screw-orbit-simulation"><img src="assets/previews/719c9ba50a1f92cffa6f8f55c5fec029b60b306f3cdbe3947405f33246eb6986.jpg" width="840" loading="lazy" alt="3D Screw-Orbit Simulation of the Solar System Moving Through the Milky Way"></a>
+
+A prompt for creating a single-file HTML interactive 3D animation showing the Sun moving forward through the Milky Way while eight planets orbit around it, maintaining an ecliptic plane tilted approximately 60° relative to the direction of travel. It specifies helical trails for each planet, a star field, orbital guides, a side-view waveform monitor, speed and orbit-count HUDs, camera controls, and playback controls. After trying this subject with multiple models, the poster shared the prompt in the comments.
+
+**Prompt**
+
+```text
+Create a 3D animation of the Sun traveling through the Milky Way at approximately 220 km/s, with the eight planets orbiting around it in a screw (helical) pattern through 3D space as they follow the Sun. Build it as a single HTML file (HTML5 Canvas or Three.js) that can be previewed in Artifacts.
+
+[Visualization and physics model requirements]
+1. The Sun's movement and the tilt of the ecliptic plane (important)
+   - The Sun continuously moves forward along its direction-of-travel vector through the Milky Way, represented by an axis with a gold arrow.
+   - The planets' orbital plane (the ecliptic) moves forward with the Sun while maintaining a single plane tilted approximately 60° relative to the Sun's direction of travel. The planets must not lag behind the Sun and trail it in a cone; instead, they should advance while orbiting on the same tilted plane as the Sun, creating corkscrew-like helical trajectories through 3D space.
+   - At the Sun's current position, display a semitransparent guide ring for the approximately 60°-tilted ecliptic plane, including each planet's circular orbit, along with crosshairs.
+
+2. The eight planets and 3D helical trajectories (screw orbits)
+   - Render the eight planets: Mercury, Venus, Earth (+ Moon), Mars, Jupiter, Saturn (+ rings), Uranus, and Neptune.
+   - Set the orbital timing according to Kepler's laws: inner planets should have shorter orbital periods and tighter-pitch helices, while outer planets should have slower, wider-pitch helices.
+   - Leave vivid 3D helical trails in space by connecting each planet's past positions with a ribbon or line that fades toward the tail.
+   - Display Japanese labels next to each body: 太陽, 水星, 金星, 地球, 火星, 木星, 土星, 天王星, 海王星.
+   - Place a moving star field and cylindrical depth guide rings in the background to convey motion through galactic space.
+
+3. Screen layout and UI panels (dark theme, 16:9 composition)
+   - Left-to-center area (main 3D view):
+     - In the upper left, display the title 「銀河系を進む太陽系：3Dスクリュー（らせん）軌道シミュレーション」 and the subtitle 「秒速約220kmで進む太陽を、約60°傾いた黄道面上で公転する惑星が追いかけ、3D空間にらせん軌跡を描きます」.
+     - In the lower left, display an explanatory badge: 「ポイント：惑星は太陽の後ろに遅れて引っ張られるのではなく、進行方向に対し約60°傾いた同一平面（黄道面）を保ったまま太陽と一緒に進むため、3次元空間全体で見るとコルク抜き（スクリュー）のようならせん軌道を描きます。」
+   - Right area (HUD information panel):
+     - Top: Add a submonitor frame titled 「横から見たスクリュー波形（側面投影）」 and render, in real time, sine-wave-like patterns showing each planet moving above and below the Sun's direction-of-travel axis (the horizontal line).
+     - Middle: Display real-time counters for 「太陽の銀河系公転速度: 約 220 km/s」 and 「銀河空間の移動距離（百万km単位・地球換算年数）」.
+     - Bottom: For each of the eight planets, display a colored dot, its name in Japanese and English, its actual average orbital speed (Mercury 47.4 km/s to Neptune 5.4 km/s), its cumulative orbit count (〇〇周), and a progress bar for the current orbit.
+
+4. Interactive controls
+   - Allow the user to freely rotate the 3D camera angle by dragging the mouse and zoom with the scroll wheel. The camera should continuously follow the advancing Sun.
+   - Provide play/pause, simulation-speed slider, and camera-view reset controls.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/solar-system-3d-screw-orbit-simulation) · [Original post](https://x.com/ecsamuraigold/status/2110381109494354145) · [Back to examples](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Endless Tank Defense
@@ -3855,7 +3959,7 @@ Inspect the opening, both character portraits, collision, distress rockets, all 
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 346 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 352 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>

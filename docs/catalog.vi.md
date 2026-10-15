@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**346 · Prompt Astra mới nhất**
+**352 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -50,13 +50,7 @@
 <details>
 <summary>Khám phá ví dụ</summary>
 
-- [Tạo game đua xe 3D](#2100526922770026874)
-- [Game 3D trên trình duyệt: Thoát khỏi cơ sở nghiên cứu bị phong tỏa](#2100595652703199281)
-- [Tự thiết kế một cơ thể bằng CAD](#2100614534423540102)
 - [Monster Block — 45 giây phá tan thành phố](#2100636075039629796)
-- [Huấn luyện chiến lược xoay bút với bàn tay khéo léo Sharpa](#2100751369619820923)
-- [Game xe điện trên không 3D giữa những hòn đảo bay](#2100838090210431302)
-- [Tạo một thế giới 3D chân thực như ảnh](#2100844566718926949)
 - [Mô hình đồng hồ IWC Schaffhausen 3D tương tác](#2100956517633761447)
 - [Thiên hà dựa trên vật lý quỹ đạo thực tế](#2101055500599054437)
 - [Môi trường 3D chân thực như ảnh hoàn chỉnh](#2101224659861590399)
@@ -143,6 +137,12 @@
 - [Nghiên cứu vật liệu WebGPU: Chim cánh cụt bông](#2109288662319919127)
 - [Trải nghiệm WebGPU tương tác với bạch tuộc nhồi bông](#2109323102912156142)
 - [Diorama đền thờ tương tác: Torii lúc triều cường](#2110014604524896392)
+- [Ngọn hải đăng đá cũ trên vách đá cheo leo lúc chạng vạng](#2110054195734982817)
+- [Game nhiệt đới 3D phong cách Flappy Bird](#2110069699597971828)
+- [Mô hình tách rời của một chiếc đồng hồ lấy cảm hứng từ Rolex](#2110070382002921482)
+- [Mô hình Ogre trong Blender kèm hoạt ảnh đi bộ](#2110139804805693469)
+- [Mô phỏng tương tác 3D về chuột gaming](#2110371046071382042)
+- [Mô phỏng quỹ đạo xoắn ốc 3D của Hệ Mặt Trời chuyển động trong Dải Ngân Hà](#2110380365269639613)
 - [Battle City 3D: Phòng thủ xe tăng vô tận](#battle-city-3d)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: Game khai thác vàng 3D 24 cấp độ](#golden-miner)
@@ -152,66 +152,6 @@
 - [TITANIC — Ánh sáng cuối cùng](#titanic-the-last-light)
 
 </details>
-
-<a id="2100526922770026874"></a>
-
-### Tạo game đua xe 3D
-
-[たい焼き｜Claude Codeの人](https://x.com/taiyaki_ai3) · 2026-09-17
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100526922770026874"><img src="../assets/previews/291f4f1d8508153f9f0473b53e7a16dd4405894ddf89a942955e4bbecc0c95d4.jpg" width="840" loading="lazy" alt="Tạo game đua xe 3D"></a>
-
-Yêu cầu tạo một game đua xe 3D có thể điều khiển và lái thực sự, được người đăng cho biết là đã nhập vào GPT-6 Astra chỉ bằng một câu. Bài đăng giới thiệu đây là cách tạo game có thể chơi mà không cần dùng Blender hay viết mã.
-
-**Prompt**
-
-```text
-Tạo một game đua xe
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100526922770026874) · [Bài đăng gốc](https://x.com/taiyaki_ai3/status/2100526934082105683) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2100595652703199281"></a>
-
-### Game 3D trên trình duyệt: Thoát khỏi cơ sở nghiên cứu bị phong tỏa
-
-[forest.watch.impress.co.jp](https://forest.watch.impress.co.jp/) · 2026-09-17
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100595652703199281"><img src="../assets/previews/70f25d79c1b29caca651c53634c0f7632ee038c2a69ee4826e7f6a11e4d4f1a9.jpg" width="840" loading="lazy" alt="Game 3D trên trình duyệt: Thoát khỏi cơ sở nghiên cứu bị phong tỏa"></a>
-
-Prompt tạo game 3D giải đố thoát hiểm trên trình duyệt, lấy bối cảnh một cơ sở nghiên cứu bị phong tỏa; bài viết cho biết tác giả 柳谷智宣 đã yêu cầu GPT-6 Astra thực hiện. Prompt yêu cầu thời lượng chơi khoảng 5–10 phút, có các cơ chế như chìa khóa và công tắc, hướng dẫn dễ hiểu, có thể hoàn thành đến cuối và được phân phối dưới dạng một tệp HTML duy nhất.
-
-**Prompt**
-
-```text
-Hãy tạo một game 3D giải đố thoát hiểm có thể chơi trên trình duyệt. Nội dung xoay quanh việc trốn thoát khỏi một cơ sở nghiên cứu bị phong tỏa và thời lượng chơi khoảng 5–10 phút. Hãy thêm các cơ chế như chìa khóa và công tắc, giúp người chơi dễ hiểu cách chơi và bảo đảm có thể hoàn thành game đến cuối. Gói mọi thứ vào một tệp HTML duy nhất để người chơi chỉ cần mở tệp bằng trình duyệt là có thể chơi.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100595652703199281) · [Bài đăng gốc](https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2141084.html) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2100614534423540102"></a>
-
-### Tự thiết kế một cơ thể bằng CAD
-
-[vitalduval](https://x.com/vitalduval) · 2026-09-17
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100614534423540102"><img src="../assets/previews/0648785872e0e8f57ee31197f913e72bd72dad694354eb842c3bd65d309a4683.jpg" width="840" loading="lazy" alt="Tự thiết kế một cơ thể bằng CAD"></a>
-
-Một tweet được liên kết của vitalduval nêu yêu cầu gửi tới Astra về việc thiết kế một cơ thể bằng CAD. AI Highlight đăng lại màn trình diễn kết quả và ghi công cho GPT-6 Astra.
-
-**Prompt**
-
-```text
-Tôi đã bảo Astra tự thiết kế một cơ thể bằng CAD.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100614534423540102) · [Bài đăng gốc](https://x.com/vitalduval/status/2100343136077877251) · [Về danh sách ví dụ](#all-prompts)
-
----
 
 <a id="2100636075039629796"></a>
 
@@ -312,67 +252,6 @@ Kiểm tra bố cục tiếng Anh và tiếng Trung trên màn hình desktop và
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/monster-block) · [Bài đăng gốc](https://x.com/abc30037274/status/2100636075039629796) · [Bản demo](https://monster-block.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2100751369619820923"></a>
-
-### Huấn luyện chiến lược xoay bút với bàn tay khéo léo Sharpa
-
-[AI Will](https://x.com/FinanceYF5) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100751369619820923"><img src="../assets/previews/401b07a7533430d141557f6f49add9f4f645a2530b1b34a3e43d865e0bcbda48.jpg" width="840" loading="lazy" alt="Huấn luyện chiến lược xoay bút với bàn tay khéo léo Sharpa"></a>
-
-Tác giả cho biết đã cung cấp prompt tiếng Trung này cho GPT-6 Astra để sử dụng Isaac Lab thực hiện học tăng cường cho bàn tay khéo léo Sharpa, tự tạo lưới 3D của cây bút và bàn giao chiến lược đã huấn luyện cùng video trực quan hóa.
-
-**Prompt**
-
-```text
-Hãy để bàn tay khéo léo thực hiện động tác xoay bút. Sử dụng Isaac Lab để học tăng cường với Sharpa hand, đồng thời tự tạo lưới 3D của cây bút. Cuối cùng, bàn giao chiến lược đã huấn luyện và video trực quan hóa. Có thể tự do tìm kiếm trên Internet, tải xuống các bài nghiên cứu và tài liệu cần thiết.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100751369619820923) · [Bài đăng gốc](https://x.com/FinanceYF5/status/2100751369619820923) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2100838090210431302"></a>
-
-### Game xe điện trên không 3D giữa những hòn đảo bay
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100838090210431302"><img src="../assets/previews/beed044dc7075346b2830bb1c618e8b8f142481efb63cc04db1116a2955d521a.jpg" width="840" loading="lazy" alt="Game xe điện trên không 3D giữa những hòn đảo bay"></a>
-
-Một bình luận từ tác giả đã được xác minh chia sẻ toàn bộ prompt mà bài đăng gốc cho biết đã chạy với GPT-6 và Gemini 4. Prompt yêu cầu một game xe điện trên không Three.js chạy được trên trình duyệt, lấy bối cảnh các hòn đảo bay mang phong cách Địa Trung Hải, có điều khiển lái, hệ thống chấm điểm độ thoải mái của hành khách, nhà ga, nâng cấp và hỗ trợ thiết bị di động.
-
-**Prompt**
-
-```text
-Tạo một game 3D HTML/JS một tệp (Three.js) có thể chơi trực tiếp trên trình duyệt, với phong cách game indie low-poly ấm áp nhưng trau chuốt, gợi không khí một thị trấn ven biển kiểu Ghibli kết hợp sự mượt mà của đường ray xe goòng trong Zelda.
-【Lối chơi chính】  Người chơi điều khiển một xe điện trên không phong cách retro, di chuyển giữa những hòn đảo bay phía trên biển mây và mặt biển.  - Đường ray là một tuyến đường sắt 3D liên tục, gồm các đoạn thẳng, dốc lên, dốc xuống, khúc cua trên cao và những cây cầu dài bắc qua biển  - Điều khiển: W để tăng tốc (Power), S để phanh (Brake), phím trái và phải để tinh chỉnh hoặc đổi góc nhìn  - Hiển thị theo thời gian thực: tốc độ tính bằng km/h, số hành khách trên xe (ví dụ: 12/16 người), điều kiện đường ray (Ổn định / Gió ngang)  - Hệ thống độ thoải mái của hành khách: tăng tốc đột ngột, phanh gấp, vào cua quá nhanh và gió ngang đều làm giảm “độ êm chân”; đến ga đích một cách êm ái sẽ nhận điểm thưởng (ví dụ: +75 khi đến nơi)  - Chuỗi điểm: lái quá xóc sẽ hiện thông báo “Đã mất chuỗi điểm. Hãy tìm lại sự cân bằng để tích lũy tiền boa.”  - Đến ga và mở cửa để hành khách lên xuống. Trên sân ga, người dân xếp hàng chờ, kèm phụ đề như “Đang mở cửa - Mango Tide”, “Vui lòng chờ…”     [Thế giới và nhà ga]  Có ít nhất hai tuyến đường/hai hòn đảo:  1. Saltlight Terminus  2. Mango Tide  Hòn đảo là một đảo đá bay phía trên mây, có những ngôi nhà nhỏ theo phong cách Địa Trung Hải/Nam Âu với mái ngói đỏ, một ngọn hải đăng, bến tàu, cây xanh, đèn đường và những ô cửa sổ vàng ấm áp vào ban đêm. Xa xa là thêm nhiều hòn đảo bay và các quỹ đạo xoay vòng. Bầu trời chuyển sắc xanh lam-tím từ chạng vạng đến đêm, có sao và những đám mây dày; phía dưới là mặt biển xanh ngọc.     [Ngoại hình xe điện]  Xe điện retro: thân xanh lá đậm, khung gầm màu gỗ, cửa sổ kính cong, hành lý trên nóc, mái che/trang trí dây leo màu xanh và nhiều hành khách ngồi bên trong. Khi di chuyển, xe hơi lắc nhẹ và tạo cảm giác có âm thanh đường ray (có thể thể hiện bằng hiệu ứng âm thanh đơn giản hoặc tín hiệu hình ảnh).     [Cảnh 2: Xưởng nâng cấp]  Chuyển sang góc nhìn isometric từ trên xuống của xưởng “Cloudworks / Oliver Cloudworks / hòn đảo quê nhà của Oliver”.  Người chơi có thể thay linh kiện cho xe điện, với giao diện dạng cửa sổ nâng cấp:  - Hearth leaves — Đang tháo linh kiện cũ  - Little Companion — Đang chuẩn bị xe điện  Thanh tiến trình + “Hãy ngồi lại và quan sát xưởng.”  Sau khi nâng cấp, ngoại hình xe điện thay đổi (ví dụ: nóc xanh lá, thêm giá hành lý, đèn lồng, dây leo), rồi xe chạy ra khỏi xưởng, với phụ đề “Mời lên xe.” / “Điểm dừng tiếp theo: Tuyến Ven Biển.”     [Giao diện]  Giao diện game casual hiện đại, gọn gàng: điểm đến và tiền tệ/chuỗi điểm ở góc trên bên trái, thanh tốc độ cùng các nút Power/Brake ở phía dưới, thanh tiến trình độ thoải mái nối tên hai nhà ga. Không rườm rà, không biến game thành kinh dị hay cyberpunk.     [Yêu cầu kỹ thuật]  - Một tệp hoặc số tệp tối thiểu, sử dụng Three.js  - Dùng curve cho đường ray (CatmullRom, v.v.) để xe điện bám theo đường ray; camera bám theo với cảm giác chuyển động nhẹ trên ray  - Tạo cảm giác vật lý đơn giản: quán tính khi tăng tốc, giảm tốc khi phanh, thân xe nghiêng khi vào cua  - Trên thiết bị di động, cố gắng hỗ trợ chạm để tăng tốc/phanh  - Mã dễ đọc, có chú thích và chơi được ngay khi mở tệp.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100838090210431302) · [Bài đăng gốc](https://x.com/YouWareAI/status/2100838828433179037) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2100844566718926949"></a>
-
-### Tạo một thế giới 3D chân thực như ảnh
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100844566718926949"><img src="../assets/previews/f8596f35d968eda4e24acabd4e2405d42aae7745029b8cf3426d550a2bd2cd52.jpg" width="840" loading="lazy" alt="Tạo một thế giới 3D chân thực như ảnh"></a>
-
-Một yêu cầu gợi ý chỉ với một prompt trong bài đăng gốc để tạo thế giới 3D chân thực như ảnh, có thể đi bộ khám phá. Bài đăng giới thiệu yêu cầu này như một phần của quy trình làm việc với Blender MCP; không khẳng định prompt chính xác này là đầu vào cho phần trình diễn đi kèm.
-
-**Prompt**
-
-```text
-Tạo một thế giới 3D chân thực như ảnh. Hãy khiến tôi bất ngờ.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100844566718926949) · [Bài đăng gốc](https://x.com/JulianGoldieSEO/status/2100844566718926949) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3434,6 +3313,231 @@ Thương hiệu "shiosai°" với biểu tượng torii nhỏ, tiêu đề "A ga
 
 ---
 
+<a id="2110054195734982817"></a>
+
+### Ngọn hải đăng đá cũ trên vách đá cheo leo lúc chạng vạng
+
+[JOH](https://x.com/JeurgenHubatsch) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/old-stone-lighthouse-dusk-threejs-scene"><img src="../assets/previews/3372900a7318c2aced864caf8be0878a49c17159a768534b8e64e91940397b0d.jpg" width="840" loading="lazy" alt="Ngọn hải đăng đá cũ trên vách đá cheo leo lúc chạng vạng"></a>
+
+Prompt một lần do tác giả bài đăng chia sẻ cho cả Gemini 4 Argon và GPT-6 Astra. Prompt yêu cầu tạo một cảnh Three.js trong một tệp index.html, với ngọn hải đăng đá cũ lúc chạng vạng, chùm sáng xoay, nhà người gác hải đăng, lối mòn quanh co, sóng vỗ vào đá và những chú mòng biển.
+
+**Prompt**
+
+```text
+ngọn hải đăng đá cũ trên vách đá cheo leo lúc chạng vạng, chùm sáng xoay, nhà người gác hải đăng, lối mòn quanh co, sóng vỗ vào đá, mòng biển. một tệp index.html, Three.js
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/old-stone-lighthouse-dusk-threejs-scene) · [Bài đăng gốc](https://x.com/JeurgenHubatsch/status/2110054584769302982) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2110069699597971828"></a>
+
+### Game nhiệt đới 3D phong cách Flappy Bird
+
+[Ivana](https://x.com/ivanainai) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/tropical-3d-flappy-bird-game"><img src="../assets/previews/2d1e98836fad59895d992542f572247007587970c4d4b7ee9b0435c7be18449a.jpg" width="840" loading="lazy" alt="Game nhiệt đới 3D phong cách Flappy Bird"></a>
+
+Prompt Three.js/WebGL hoàn chỉnh để tạo một game 3D phong cách Flappy Bird, góc nhìn ngang, có thể chơi được trong một tệp HTML duy nhất. Prompt này quy định môi trường ven biển nhiệt đới đầy màu sắc, chú chim vàng chuyển động độc đáo, cách tạo ống có tính quyết định, các giá trị vật lý cố định, điều khiển thủ công, tính điểm, va chạm, cơ chế chơi lại và chế độ Auto Demo.
+
+**Prompt**
+
+```text
+Xây dựng một game 3D phong cách Flappy Bird hoàn chỉnh, có thể chơi được, trong MỘT tệp HTML đầy đủ và có thể sao chép-dán, sử dụng Three.js/WebGL.
+
+Tạo một chú chim và môi trường nguyên bản, nhiều màu sắc. Game phải đẹp khi chụp màn hình và cho cảm giác điều khiển nhạy khi chơi.
+
+Chỉ trả về toàn bộ HTML bên trong MỘT khối mã html có hàng rào. Mã phải bắt đầu bằng <!DOCTYPE html> và kết thúc bằng </html>. Bao gồm toàn bộ CSS và JavaScript. Không cung cấp phần giải thích, đoạn mã rời hoặc tệp bổ sung.
+
+ĐỊNH HƯỚNG HÌNH ẢNH
+
+Tạo một thế giới ven biển nhiệt đới tươi sáng, rực rỡ với biển màu xanh ngọc, ánh nắng ấm áp, mây trắng mềm mại, các hòn đảo ở xa và chiều sâu khí quyển tinh tế.
+
+Giữ tiền cảnh sắc nét và bão hòa màu. Sắp xếp hậu cảnh có chiều sâu thị sai nhẹ nhàng, đồng thời để chú chim và chướng ngại vật luôn dễ quan sát.
+
+Nhân vật chính là một chú chim 3D màu vàng óng đáng yêu, có mỏ cam, đôi mắt biểu cảm, đôi cánh nhỏ chuyển động và các lông đuôi được tạo hình riêng. Hãy khiến nhân vật có cảm giác như được thiết kế cẩn thận cho một game.
+
+Tạo chuyển động vỗ cánh, chuyển động cơ thể nhẹ và thay đổi mượt mà góc thân khi bay lên hoặc rơi xuống.
+
+Chướng ngại vật là các ống màu xanh ngọc lục bảo bóng loáng, có vành bo tròn lớn, độ dày rõ ràng, bóng đổ thuyết phục và vùng bắt sáng đẹp. Chúng phải thể hiện rõ là các vật thể đặc, với một khoảng trống có thể bay qua.
+
+Sử dụng ánh sáng tinh tế, hình học mượt mà, bóng đổ mềm và hiệu ứng phản chiếu vừa phải. Duy trì độ tương phản mạnh giữa chú chim vàng, các ống xanh lá và môi trường xanh dương.
+
+Màn hình mở đầu phải ngay lập tức hiển thị thế giới hoàn chỉnh, chú chim và một số ống. Giữ giao diện nhỏ gọn, sạch sẽ.
+
+GAMEPLAY
+
+Sử dụng mặt phẳng chơi góc nhìn ngang với hình học 3D và chiều sâu thực. Giữ camera cố định để dễ phán đoán các khoảng trống và va chạm.
+
+Nhấp chuột, chạm màn hình hoặc nhấn Space sẽ khiến chú chim vỗ cánh bay lên. Trọng lực kéo chim xuống giữa các lần vỗ cánh.
+
+Các ống di chuyển về phía chú chim với tốc độ không đổi. Mỗi cặp có một khoảng trống ở độ cao khác nhau. Cộng chính xác một điểm khi chim bay thành công qua một cặp ống.
+
+Va vào ống, mặt đất hoặc ranh giới phía trên của khu vực chơi sẽ kết thúc lượt chơi. Hiển thị phản hồi va chạm ngắn gọn, rõ ràng và một bảng Game Over với điểm cuối cùng cùng nút Restart hoạt động.
+
+Restart phải đặt lại chú chim, các ống, điểm số, chuỗi chướng ngại vật và trạng thái mô phỏng mà không tải lại trang.
+
+Sử dụng chính xác các tham số gameplay sau:
+
+Vị trí chim: x = -4.5.
+Bán kính va chạm của chim: 0.35 đơn vị thế giới.
+Ranh giới dọc của khu vực chơi: y = -5.4 và +5.4.
+Trọng lực: 18 đơn vị thế giới trên giây bình phương, hướng xuống.
+Mỗi lần vỗ cánh đặt vận tốc hướng lên thành 6.8 đơn vị thế giới trên giây.
+Tốc độ di chuyển của ống: 3 đơn vị thế giới trên giây.
+Độ rộng ống: 1.2 đơn vị thế giới.
+Kích thước khoảng trống theo chiều dọc: 3.4 đơn vị thế giới.
+Khoảng cách theo chiều ngang giữa các cặp ống: 5.5 đơn vị thế giới.
+Tâm khoảng trống thay đổi trong khoảng y = -2 đến +2.
+
+Sử dụng bước thời gian mô phỏng cố định và kiểm tra va chạm tương ứng với thân chim hiển thị cùng hình học của ống.
+
+Tạo chiều cao chướng ngại vật theo cách có tính quyết định bằng một bộ sinh số ngẫu nhiên có seed riêng, bắt đầu với seed 42. Restart phải tạo lại đúng cùng một chuỗi chướng ngại vật. Tính ngẫu nhiên mang tính trang trí không được ảnh hưởng đến chuỗi này.
+
+TỰ ĐỘNG TRÌNH DIỄN
+
+Cung cấp ba điều khiển nhỏ: Play, Auto Demo và Restart.
+
+Auto Demo phải tự động chơi chính game thực tế. Bộ điều khiển chỉ được phép thực hiện cùng một thao tác vỗ cánh mà người chơi có thể sử dụng.
+
+Chế độ này phải sử dụng cùng trọng lực, chướng ngại vật, cơ chế phát hiện va chạm và cách tính điểm như khi chơi thủ công. Không được di chuyển trực tiếp chú chim, vô hiệu hóa va chạm hoặc khiến chim bất tử.
+
+Hướng đến một màn trình diễn mượt mà, dễ theo dõi, kéo dài ít nhất 20 giây. Nếu bộ điều khiển thất bại, hãy hiển thị trạng thái Game Over thực tế.
+
+Nhấn D sẽ đặt lại game và bắt đầu Auto Demo từ đầu.
+
+Cung cấp nút chuyển đổi Hide UI để ẩn menu và các nút nhưng vẫn giữ điểm số. Tính năng này dành cho việc quay màn hình sạch, không có giao diện thừa.
+
+YÊU CẦU KỸ THUẬT
+
+Cung cấp một tệp HTML có thể mở trực tiếp trong trình duyệt máy tính mà không cần cài đặt hay bước build. Có thể import Three.js từ CDN được ghim phiên bản.
+
+Tạo toàn bộ asset hiển thị bằng code. Không sử dụng model nhập ngoài, tệp hình ảnh, sprite Flappy Bird nguyên bản hoặc font bên ngoài.
+
+Thiết kế chủ yếu cho viewport vuông 1080 × 1080, đồng thời hỗ trợ thay đổi kích thước linh hoạt. Giữ chú chim và các chướng ngại vật đang tiến đến luôn hiển thị trong suốt lượt chơi.
+
+Hướng đến khả năng kết xuất sắc nét và chuyển động mượt ở 60 fps. Tạm dừng mô phỏng khi tab trình duyệt bị ẩn để lúc quay lại không xảy ra bước nhảy đột ngột.
+
+Nếu có công cụ trình duyệt, hãy kiểm tra kết quả đã kết xuất và thử thao tác vỗ cánh thủ công, tính điểm, va chạm với ống, va chạm với ranh giới, Restart và Auto Demo.
+
+Ưu tiên hình ảnh đẹp, điều khiển nhạy, va chạm chính xác và một game thực sự có thể chơi được.
+
+Chỉ trả về toàn bộ HTML trong một khối mã html có hàng rào.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/tropical-3d-flappy-bird-game) · [Bài đăng gốc](https://x.com/ivanainai/status/2110073220946592038) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2110070382002921482"></a>
+
+### Mô hình tách rời của một chiếc đồng hồ lấy cảm hứng từ Rolex
+
+[bluumik](https://x.com/bluumik) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/exploded-rolex-inspired-watch-visualization"><img src="../assets/previews/6badd28d27f4e05ffd6d091bcfa30bbc3b2893133cd9f742b643ffc31d3ba969.jpg" width="840" loading="lazy" alt="Mô hình tách rời của một chiếc đồng hồ lấy cảm hứng từ Rolex"></a>
+
+Một prompt được bluumik giới thiệu, chính là yêu cầu gồm bảy từ được đưa cho GPT-6 và Opus 5.5. Prompt này yêu cầu tạo hình ảnh trực quan về một chiếc đồng hồ ở dạng tách rời; bài đăng mô tả kết quả của GPT-6 là một trang web tương tác màu xanh lục đậm, nơi các bộ phận đồng hồ tách ra và lơ lửng trong không trung.
+
+**Prompt**
+
+```text
+Mô hình tách rời của một chiếc đồng hồ lấy cảm hứng từ Rolex.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/exploded-rolex-inspired-watch-visualization) · [Bài đăng gốc](https://x.com/bluumik/status/2110070382002921482) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2110139804805693469"></a>
+
+### Mô hình Ogre trong Blender kèm hoạt ảnh đi bộ
+
+[Cong Le](https://x.com/CongLe) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/ogre-blender-model-walking-animation"><img src="../assets/previews/dfe08b35c0bb14d6207937da3d095b4c3d91c31026c0dc3a716d1aa7d94ce047.jpg" width="840" loading="lazy" alt="Mô hình Ogre trong Blender kèm hoạt ảnh đi bộ"></a>
+
+Bản mô tả có thể tái sử dụng để tạo Ogre trong Blender cùng hoạt ảnh đi bộ. Tác giả gốc cho biết đã sử dụng chính bản mô tả này trong các phiên làm việc mới kéo dài 15 phút trên năm mô hình AI, bao gồm GPT-6 Astra.
+
+**Prompt**
+
+```text
+Tạo Ogre trong Blender (kèm hoạt ảnh đi bộ).
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/ogre-blender-model-walking-animation) · [Bài đăng gốc](https://x.com/CongLe/status/2110139804805693469) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2110371046071382042"></a>
+
+### Mô phỏng tương tác 3D về chuột gaming
+
+[shmopix](https://x.com/shmopixbzn) · 2026-10-14
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-3d-gaming-mouse-explainer"><img src="../assets/previews/7975840d72a0c7bfef77c1000d3d0bce5eb9c93d12a1561634196c27b0496a1f.jpg" width="840" loading="lazy" alt="Mô phỏng tương tác 3D về chuột gaming"></a>
+
+Tác giả gốc gắn nhãn phần văn bản được trích dẫn là prompt và giới thiệu một mô phỏng tương tác 3D về chuột Superlight. Yêu cầu là minh họa cách chuột gaming hoạt động, từ tay người dùng đến máy tính.
+
+**Prompt**
+
+```text
+cho tôi xem chuột gaming hoạt động như thế nào, từ tay tôi đến máy tính
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-3d-gaming-mouse-explainer) · [Bài đăng gốc](https://x.com/shmopixbzn/status/2110371046071382042) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2110380365269639613"></a>
+
+### Mô phỏng quỹ đạo xoắn ốc 3D của Hệ Mặt Trời chuyển động trong Dải Ngân Hà
+
+[AI TANUKI（AIたぬき）](https://x.com/ecsamuraigold) · 2026-10-14
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/solar-system-3d-screw-orbit-simulation"><img src="../assets/previews/719c9ba50a1f92cffa6f8f55c5fec029b60b306f3cdbe3947405f33246eb6986.jpg" width="840" loading="lazy" alt="Mô phỏng quỹ đạo xoắn ốc 3D của Hệ Mặt Trời chuyển động trong Dải Ngân Hà"></a>
+
+Prompt này yêu cầu tạo một hoạt ảnh 3D tương tác trong một tệp HTML duy nhất, mô phỏng Mặt Trời tiến về phía trước trong Dải Ngân Hà cùng 8 hành tinh quay quanh trên một mặt phẳng hoàng đạo nghiêng khoảng 60° so với hướng chuyển động. Prompt cũng chỉ định các vệt xoắn ốc của từng hành tinh, bầu trời sao, đường dẫn quỹ đạo, màn hình dạng sóng nhìn từ bên cạnh, HUD hiển thị tốc độ và số vòng quay, cùng các thao tác điều khiển camera và phát lại. Tác giả đã thử chủ đề này với nhiều model khác nhau rồi đăng prompt trong phần bình luận.
+
+**Prompt**
+
+```text
+Hãy tạo một hoạt ảnh 3D mô phỏng Mặt Trời di chuyển trong Dải Ngân Hà với tốc độ khoảng 220 km/s và 8 hành tinh của Hệ Mặt Trời quay quanh Mặt Trời theo dạng xoắn ốc trong không gian 3D, đồng thời cho phép xem bản xem trước trong Artifacts bằng một tệp HTML duy nhất (HTML5 Canvas hoặc Three.js).
+
+【Yêu cầu về trực quan hóa và mô hình vật lý】
+1. Chuyển động của Mặt Trời và độ nghiêng của mặt phẳng hoàng đạo (quan trọng)
+   - Mặt Trời phải liên tục tiến về phía trước trong Dải Ngân Hà dọc theo vector hướng chuyển động (trục có mũi tên màu vàng kim).
+   - Mặt phẳng quỹ đạo của các hành tinh (mặt phẳng hoàng đạo) phải cùng tiến về phía trước với Mặt Trời trong khi vẫn giữ nguyên một mặt phẳng nghiêng khoảng 60° so với hướng chuyển động của Mặt Trời (các hành tinh không bị kéo chậm lại phía sau Mặt Trời theo dạng hình nón, mà luôn vừa quay quanh trên cùng mặt phẳng nghiêng với Mặt Trời vừa tiến về phía trước, tạo thành quỹ đạo xoắn ốc như cái mở nút chai trong không gian 3D).
+   - Tại vị trí hiện tại của Mặt Trời, hiển thị bán trong suốt vòng dẫn hướng của mặt phẳng hoàng đạo nghiêng khoảng 60° (các đường tròn quỹ đạo của từng hành tinh) cùng các trục chữ thập.
+
+2. 8 hành tinh và quỹ đạo xoắn ốc 3D (quỹ đạo dạng vít)
+   - Hiển thị 8 hành tinh: Sao Thủy, Sao Kim, Trái Đất (＋Mặt Trăng), Sao Hỏa, Sao Mộc, Sao Thổ (＋vành đai), Sao Thiên Vương và Sao Hải Vương.
+   - Thiết lập cân bằng chu kỳ dựa trên các định luật Kepler: các hành tinh phía trong có chu kỳ quỹ đạo ngắn hơn và tạo thành đường xoắn có bước nhỏ, còn các hành tinh phía ngoài tạo thành đường xoắn thoải hơn với bước lớn hơn.
+   - Giữ lại trong không gian các vệt xoắn ốc 3D rực rỡ nối những vị trí trước đó của từng hành tinh (dải ruy-băng hoặc đường nét mờ dần về phía đuôi).
+   - Hiển thị nhãn tiếng Nhật bên cạnh từng hành tinh (太陽, 水星, 金星, 地球, 火星, 木星, 土星, 天王星, 海王星).
+   - Đặt các ngôi sao chuyển động (starfield) và các vòng dẫn hướng chiều sâu hình trụ ở hậu cảnh để truyền tải cảm giác đang di chuyển trong không gian thiên hà.
+
+3. Bố cục màn hình và các panel UI (giao diện tối, bố cục 16:9)
+   - Khu vực bên trái đến trung tâm (khung nhìn 3D chính):
+     - Ở góc trên bên trái, hiển thị tiêu đề “Hệ Mặt Trời chuyển động trong Dải Ngân Hà: Mô phỏng quỹ đạo xoắn ốc 3D” và phụ đề “Các hành tinh quay quanh trên mặt phẳng hoàng đạo nghiêng khoảng 60° đuổi theo Mặt Trời đang di chuyển với tốc độ khoảng 220 km/s, tạo thành quỹ đạo xoắn ốc trong không gian 3D”.
+     - Ở góc dưới bên trái, hiển thị huy hiệu giải thích “Điểm cần lưu ý: Các hành tinh không bị kéo chậm lại phía sau Mặt Trời. Vì cùng tiến về phía trước với Mặt Trời trên cùng một mặt phẳng (mặt phẳng hoàng đạo) nghiêng khoảng 60° so với hướng chuyển động, chúng tạo thành quỹ đạo xoắn ốc giống cái mở nút chai (dạng vít) khi quan sát trong toàn bộ không gian 3D.”
+   - Khu vực bên phải (panel thông tin HUD):
+     - Phía trên: Tạo khung màn hình phụ “Dạng sóng xoắn nhìn từ bên cạnh (hình chiếu cạnh)” và vẽ theo thời gian thực dạng sóng hình sin mà các hành tinh tạo ra khi dao động lên xuống so với trục chuyển động của Mặt Trời (đường ngang).
+     - Ở giữa: Hiển thị bộ đếm theo thời gian thực cho “Tốc độ quay quanh Dải Ngân Hà của Mặt Trời: khoảng 220 km/s” và “Quãng đường di chuyển trong không gian thiên hà (đơn vị triệu km, quy đổi theo số năm Trái Đất)”.
+     - Phía dưới: Với từng trong 8 hành tinh, hiển thị chấm màu, tên (tiếng Nhật và tiếng Anh), tốc độ quỹ đạo trung bình thực tế (từ 47,4 km/s của Sao Thủy đến 5,4 km/s của Sao Hải Vương), tổng số vòng đã quay (〇〇 vòng) và thanh tiến trình của vòng hiện tại.
+
+4. Điều khiển tương tác
+   - Cho phép xoay tự do góc nhìn camera 3D bằng cách kéo chuột và phóng to/thu nhỏ bằng con lăn (camera luôn bám theo Mặt Trời đang tiến về phía trước).
+   - Thêm nút phát/tạm dừng, thanh trượt tốc độ mô phỏng và nút đặt lại góc nhìn camera.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/solar-system-3d-screw-orbit-simulation) · [Bài đăng gốc](https://x.com/ecsamuraigold/status/2110381109494354145) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Phòng thủ xe tăng vô tận
@@ -3919,7 +4023,7 @@ Kiểm tra cảnh mở đầu, cả hai chân dung nhân vật, va chạm, pháo
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 346 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 352 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>
