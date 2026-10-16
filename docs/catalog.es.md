@@ -28,7 +28,7 @@
 **Un punto de partida para tu próximo juego, escena o mundo interactivo.**
 
 
-**352 · Últimos prompts de Astra**
+**353 · Últimos prompts de Astra**
 
 ## Proyectos destacados
 
@@ -137,6 +137,7 @@
 - [Estudio de materiales de un pingüino de peluche](#2109288662319919127)
 - [Experiencia interactiva de un pulpo de peluche en WebGPU](#2109323102912156142)
 - [Diorama interactivo del torii con la marea alta](#2110014604524896392)
+- [Aldea interactiva de gelatina en una bola de nieve](#2110045415412281495)
 - [Faro antiguo de piedra sobre un acantilado rocoso al atardecer](#2110054195734982817)
 - [Juego tropical 3D al estilo de Flappy Bird](#2110069699597971828)
 - [Vista explosionada de un reloj inspirado en Rolex](#2110070382002921482)
@@ -147,7 +148,6 @@
 - [Crazy Tanks — Artillería 3D en una isla](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: juego de minería 3D de 24 niveles](#golden-miner)
 - [Villa de gelatina](#jelly-villa)
-- [ODD ARMS — Juego de supervivencia con armas extrañas](#odd-arms)
 - [Luz roja, luz verde: juego de supervivencia 3D](#red-light-green-light)
 - [TITANIC — La última luz](#titanic-the-last-light)
 
@@ -3313,6 +3313,117 @@ Marca «shiosai°» con un pequeño símbolo de torii, titular «A gate that / s
 
 ---
 
+<a id="2110045415412281495"></a>
+
+### Aldea interactiva de gelatina en una bola de nieve
+
+[Paruchh](https://x.com/theparuchh) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/interactive-jelly-snow-globe-village"><img src="../assets/previews/babdc040c775ff28d6495632d3b86ad9a8b1501a5021b968dfa364eb965066fa.jpg" width="840" loading="lazy" alt="Aldea interactiva de gelatina en una bola de nieve"></a>
+
+Un prompt completo proporcionado por el autor para una experiencia interactiva autosuficiente en Three.js: una aldea invernal de gelatina que se puede agitar, cambiar al modo nocturno, explorar desde dentro y dejar caer sobre una mesa. La publicación principal presenta la tarea como una comparación con GPT-6 Astra, mientras que el comentario del autor indica específicamente que el vídeo mostrado se creó con Sonnet 5.5; no establece que el vídeo adjunto sea un resultado de GPT-6 Astra.
+
+**Prompt**
+
+```text
+AGITAR BIEN
+
+Crea un único archivo HTML autosuficiente, shake-well.html: una bola de nieve de cristal sobre una mesa, con una pequeña aldea invernal hecha de gelatina en su interior. Diseño completamente original: no uses marcas, logotipos, personajes ni textos de productos reales. Ábrelo y comprueba que funciona antes de terminar.
+
+SOLO THREE.JS
+- Toda la renderización debe hacerse mediante Three.js: importa exactamente three@0.180.0 desde una CDN con un mapa de importaciones y usa WebGLRenderer
+- Usa únicamente Three.js y sus complementos oficiales (three/addons: OrbitControls, EffectComposer, bloom, profundidad de campo, RoomEnvironment, etc.). No uses otras bibliotecas
+- No uses código WebGL ni WebGPU sin procesar: nada de getContext ni llamadas directas a gl. Los sombreadores personalizados solo pueden implementarse mediante materiales de Three.js (ShaderMaterial u onBeforeCompile)
+- Toda la física y el movimiento deben estar hechos con JavaScript plano propio. No uses bibliotecas de física ni modelos o texturas externos; toda la geometría y los materiales deben ser procedurales
+
+PRIMER PASO, ANTES DE CUALQUIER OTRA COSA
+Ejecuta un comando de shell que cree un ID de ejecución único y la hora actual, y guarda ambos en run-log.txt junto al HTML. Imprime el ID de ejecución una sola vez en tu respuesta. Lo necesitarás al final para encontrar tu propio registro de sesión.
+Después de cada paso importante (bola, aldea, habitación, cada juguete y demostración), lee el registro de sesión y añade a run-log.txt el total acumulado de tokens y la hora actual. Si el contexto se compacta, estos puntos de control conservarán el uso anterior.
+
+Lo más importante es la imagen. Debe parecer una fotografía de producto de alta gama de una pieza de colección artesanal.
+
+LA BOLA
+- Una gran esfera de cristal sobre una base torneada de nogal oscuro, con un fino aro de latón cepillado. El cristal debe ser perfectamente transparente y grueso en los bordes, con dos reflejos de estudio rectangulares y suaves, además de un fino borde luminoso donde la superficie curva se aleja
+- La bola está llena de líquido transparente. La aldea se ve ligeramente ampliada a través de él, como con una lente real, y se deforma en los bordes
+- Una pequeña burbuja de aire queda atrapada en la parte superior y siempre se desliza hasta el punto más alto cuando la bola se inclina
+- Unas 6000 partículas blancas flotan en el interior, junto con varios cientos de diminutos destellos dorados que brillan al girar hacia la luz
+
+LA ALDEA (toda de gelatina)
+- Una pequeña colina nevada ocupa la parte inferior de la bola. Todos los edificios, árboles y figuras son de gelatina translúcida y brillante, como caramelos de goma: frambuesa, mandarina, limón, menta, arándano y uva. La luz los atraviesa y brilla suavemente en su interior, con reflejos húmedos definidos y unas pocas burbujas de aire diminutas congeladas en cada pieza
+- Entre 8 y 10 casitas con tejados inclinados, ventanas redondas y chimeneas alrededor de una pequeña plaza. En el centro: una torre del reloj con campana y esfera redonda
+- Un estanque helado de hielo de gelatina azul pálido, con tres pequeños patinadores deslizándose en bucles lentos. Un arroyo con un puente arqueado. Un muñeco de nieve. Un anillo de pinos de gelatina verde oscuro con las puntas cubiertas de nieve
+- Un pequeño tren de gelatina (locomotora y tres vagones, con faro redondo) recorre para siempre una vía circular alrededor de la aldea
+- La nieve de los tejados y del suelo es blanca, mate y suave, como azúcar glas, en contraste con la gelatina brillante
+
+LA HABITACIÓN
+- Tranquila, limpia y con aspecto de estudio. Una mesa de madera cálida, una sombra de contacto suave bajo la base y un fondo azul grisáceo oscuro con algunas luces cálidas de bokeh desenfocadas muy al fondo
+- Luz principal cálida desde arriba a la izquierda, relleno frío desde la derecha y una luz de contorno que marque el cristal
+- La bola está centrada y ocupa aproximadamente el 70 % de la altura del encuadre. Debe verse bien tanto en un recorte cuadrado como en uno vertical de 9:16. El fondo debe permanecer suave para que destaque la bola
+
+JUGUETES (pequeños botones en forma de píldora en la parte inferior, interfaz mínima, teclas del 1 al 5)
+1. Agitar. La bola da un tirón y se inclina; la nieve estalla en una ventisca arremolinada y las casas de gelatina se balancean un instante después (las altas, más), hasta que todo vuelve a asentarse. También puedes agitarla con la mano: arrastra sobre la bola; un arrastre más fuerte produce una sacudida más intensa. Arrastra en cualquier otra zona para orbitar
+2. Noche. La habitación se desvanece hasta quedar en un azul profundo. Las ventanas, los faroles del camino, la esfera del reloj y el faro del tren se encienden y brillan con una luz cálida a través de la gelatina. La bola se convierte en una lámpara y proyecta sobre la mesa un suave círculo de luz cálida
+3. Entrar. La cámara se sumerge en la bola, atraviesa el cristal con una breve onda de refracción y aterriza en la plaza de la aldea, a la altura de un pequeño aldeano. La nieve cae a tu alrededor, las casas de gelatina se alzan sobre ti y el tren pasa rodando. Mira hacia arriba: la cúpula curva de cristal y, más allá, la enorme habitación deformada. Arrastra para mirar alrededor; usa WASD para caminar por la plaza. Si pulsas Agitar desde dentro, una enorme pata de gato gris y mullida golpea el cristal desde fuera, borrosa y gigantesca, y todo el mundo se tambalea. El botón se convierte en Salir
+4. Dejar caer (solo desde fuera). La bola se eleva una altura equivalente a una mano sobre su base y cae sobre la mesa. El cristal se rompe en fragmentos curvos, el líquido sale disparado hacia la cámara y algunas gotas aterrizan en la lente y resbalan lentamente por la pantalla. Las casas de gelatina salen despedidas, rebotan, se balancean y permanecen intactas. La nieve se derrama sobre la mesa. El pequeño tren sigue dando vueltas y traqueteando sobre la mesa. La campana suena una vez
+5. Restablecer
+
+FÍSICA (realista, pero ligera)
+- Nieve: cada partícula desciende a su propia velocidad terminal lenta y el líquido la arrastra. El líquido se retrasa respecto al cristal cuando la bola se mueve, de modo que una sacudida crea un remolino que se desvanece con el tiempo. Las partículas que aterrizan descansan sobre los tejados y el suelo, y vuelven a levantarse con la siguiente sacudida. Se asientan por completo en unos 15 a 20 segundos
+- Gelatina: cada objeto es un resorte amortiguado (inclinación, compresión y estiramiento) impulsado por la aceleración de la bola. Cuanto más alto y blando sea, mayor será el balanceo. Se estabiliza en unos 2 segundos
+- Caída: gravedad real durante el descenso, fragmentos rígidos sencillos, líquido como partículas y gelatina que se comprime y rebota con el impacto
+- 60 fps en un portátil normal
+
+INACTIVIDAD Y DEMOSTRACIÓN
+- Al cargar: de día, con la nieve asentada y una órbita automática lenta alrededor de la bola. Esto por sí solo debe funcionar como una toma de belleza limpia de 20 segundos
+- Pulsa D para iniciar una demostración fija con una semilla aleatoria fija, de modo que todas las ejecuciones sean idénticas. Los botones se iluminan al pulsarlos para que el espectador vea lo que ocurre:
+  0 s: órbita lenta
+  5 s: Agitar
+  12 s: Noche
+  18 s: Entrar, mirar alrededor de la plaza y ver pasar el tren
+  26 s: mirar hacia arriba, a la cúpula y la habitación gigante
+  29 s: la pata de gato golpea el cristal
+  36 s: Salir
+  40 s: Dejar caer
+  44 a 52 s: acercamiento lento al destrozo, con gotas resbalando por la lente
+
+ÚLTIMO PASO: TIEMPO REAL Y COSTE DE LA API
+Haz esto como último paso, justo antes de tu respuesta final. Usa cifras reales de tu propio registro de sesión; no hagas estimaciones.
+
+1. Encuentra en el disco el registro de sesión: el archivo que contiene tu ID de ejecución
+- Claude (Claude Code, Cowork): un archivo .jsonl en ~/.claude/projects/. Los registros de subagentes, si los hay, pueden estar en una subcarpeta con el mismo nombre; inclúyelos
+- Codex: archivos .jsonl de rollout en ~/.codex/sessions/
+2. Tiempo: desde la primera hasta la última marca temporal del registro. Si el registro no tiene marcas temporales, usa la hora de inicio de run-log.txt hasta ahora
+3. Tokens
+- Registros de Claude: cada respuesta de la API contiene message.usage con input_tokens, cache_creation_input_tokens (divididos en 5 minutos y 1 hora dentro de cache_creation cuando estén presentes), cache_read_input_tokens y output_tokens. La misma respuesta se repite en varias líneas, una por bloque de contenido, así que cuenta cada ID de mensaje una sola vez
+- Registros de Codex: toma los últimos totales acumulados de token_count. La entrada en caché suele estar incluida dentro de input, y los tokens de razonamiento se facturan como output: no cuentes nada dos veces
+4. Calcula el precio de cada solicitud con la tabla siguiente. Si el modelo no aparece en la tabla, usa la página oficial de precios de tu proveedor e incluye la URL
+
+PRECIOS, USD por millón de tokens (API de Claude, https://t.co/MumWcfinp3, comprobados el 12 de octubre de 2026)
+modelo | entrada | escritura de caché 5 min | escritura de caché 1 h | lectura de caché | salida
+Opus 5.5 | 4 | 5 | 8 | 0.20 | 20
+Sonnet 5.5 | 2 | 2.50 | 4 | 0.10 | 10
+Haiku 5.5, prompt de hasta 100k | 0.10 | 0.125 | 0.20 | 0.01 | 0.50
+Haiku 5.5, prompt de más de 100k | 0.50 | 0.625 | 1 | 0.05 | 2.50
+- El nivel de Haiku se decide por solicitud: tamaño del prompt = tokens de entrada + escritura de caché + lectura de caché de esa solicitud
+- Si el uso muestra la velocidad "fast" (solo Opus): 8 USD de entrada y 40 USD de salida. Si inference_geo es "us": multiplica todo por 1.1
+
+5. Si el registro se compactó y falta el uso anterior, tómalo de los puntos de control de run-log.txt y súmalo a lo que quede en el registro, sin contar nada dos veces
+6. Guarda cost-report.txt junto al HTML y pégalo en tu respuesta final:
+MODEL: nombre exacto del modelo en el registro
+TIME: X h Y min (marcas temporales de inicio y fin)
+API REQUESTS: número de respuestas únicas
+TOKENS: entrada / escritura de caché 5 min / escritura de caché 1 h / lectura de caché / salida
+COST: dólares por categoría y TOTAL
+SOURCE: ruta al archivo de registro, además de run-log.txt si se usaron puntos de control
+Si no pudiste encontrar el registro, marca cada cifra como ESTIMATE y explica cómo la obtuviste. Ten en cuenta que esta respuesta final todavía no aparece en el registro.
+
+Incluye también en tu respuesta final un breve informe: qué corresponde a física real, qué está simulado, las cifras clave (partículas, objetos, tiempo de asentamiento, tamaño del archivo, versión de Three.js y renderizador).
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-jelly-snow-globe-village) · [Publicación original](https://x.com/theparuchh/status/2110046350142235020) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="2110054195734982817"></a>
 
 ### Faro antiguo de piedra sobre un acantilado rocoso al atardecer
@@ -3817,95 +3928,6 @@ Publica un prompt nuevo de jelly-villa acreditado a jared, con el autor original
 
 ---
 
-<a id="odd-arms"></a>
-
-### ODD ARMS — Juego de supervivencia con armas extrañas
-
-[Deniffer](https://x.com/lumina__team) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/odd-arms"><img src="../assets/previews/504c296e723fc1d371ab475b1849a547d862e14632b5962ee62c0edc16783749.jpg" width="840" loading="lazy" alt="ODD ARMS — Juego de supervivencia con armas extrañas"></a>
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/odd-arms"><img src="../assets/previews/c091163cb03e4b2e888533cdae55a69d2a2adb5b8d7d511d5dbe9f42b48e477c.jpg" width="840" loading="lazy" alt="ODD ARMS — Juego de supervivencia con armas extrañas"></a>
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/odd-arms"><img src="../assets/previews/8704479f463f4966b9d420060a8fe4ebb55f0f195750cab2cfad225dcb31e52f.jpg" width="840" loading="lazy" alt="ODD ARMS — Juego de supervivencia con armas extrañas"></a>
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/odd-arms"><img src="../assets/previews/846d08bd92f3243dce5a7a5313cd4978c94613e86cabcd0ef2c99c434954f93b.jpg" width="840" loading="lazy" alt="ODD ARMS — Juego de supervivencia con armas extrañas"></a>
-
-Crea un juego de supervivencia de tres minutos con Three.js, donde un héroe de juguete equipado con cuchillas de plátano, tostadoras y desatascadores lucha contra monstruos de cuerda sobre un banco de trabajo. Los jugadores pueden crear su propio héroe o arma en Tripo Studio e importar el GLB para jugar.
-
-**Prompt**
-
-```text
-# ODD ARMS — Tu idea. Tu héroe.
-
-## 1. Objetivo
-Mantén toda la interfaz del juego en inglés (añade el japonés como cambio de idioma opcional).
-Crea un juego de supervivencia completo para navegador, de tres minutos, del género «horda de autoataque»: el jugador elige un héroe del tamaño de un juguete y dos armas maravillosamente extrañas, y sobrevive 180 segundos a enjambres de monstruos en un banco de trabajo. Las armas atacan automáticamente; el jugador solo se mueve, hace embestidas, recoge cristales, elige mejoras y dispara una nova cargada. El gancho es personal: los jugadores pueden crear su propio héroe o arma en Tripo, descargar el GLB e incorporarlo al juego. Usa https://odd-arms.tripo.page/ y las referencias proporcionadas para el resultado final. Da crédito a Deniffer en https://x.com/lumina__team.
-
-## 2. Dirección visual
-Presenta el juego como un diorama de juguete en miniatura, visto desde una cámara fija en tres cuartos, elevada y orientada hacia abajo, que sigue al héroe. El campo de juego es una alfombrilla de corte azul marino oscuro, con una cuadrícula tenue y marcas de esquina impresas con el texto «ODD ARMS», colocada sobre un escritorio de madera cálida. El borde del escritorio está lleno de accesorios de manualidades de gran tamaño (bobinas de hilo, cajas ornamentadas con rosetones de latón, un estuche enrollable de herramientas de cuero, una lámpara de escritorio de latón, un tren de juguete de madera y piezas de juguetes), para que la arena parezca una mesa real. Usa una luz principal cálida desde el lado de la lámpara, relleno ambiental suave, sombras de contacto y un bloom sutil; los personajes deben tener un estilo brillante, voluminoso y propio de figuras coleccionables, con colores saturados.
-
-Interfaz: tarjetas redondeadas de color blanco crema, texto azul marino y un acento coral anaranjado; una tipografía de pantalla condensada y contundente para los titulares («LET'S MAKE SOME TROUBLE.») y una sans serif condensada y limpia para el texto principal. Durante el combate: tarjeta de salud arriba a la izquierda, contador de racha debajo, cuenta atrás «SURVIVE THE WEIRD» en el centro superior, etiqueta de oleada + sonido + ajustes + Pausa arriba a la derecha, contador de derrotados a la derecha, indicador de nivel/XP en forma de píldora en el centro inferior, tres fichas de armas (órbita / retorno / disparo, con niveles) abajo a la izquierda, controles + enfriamiento de la embestida abajo a la derecha y una píldora «Q NOVA READY!» encima. Potencia visual: números de daño, críticos, enemigos que se aplastan y estiran, retroceso, partículas que saltan y un ligero movimiento de cámara (desactiva el movimiento si está configurado prefers-reduced-motion).
-
-## 3. Mundo
-Una arena cuadrada; limita al héroe a ±23 unidades en ambos ejes. La alfombrilla de corte ocupa el área de juego; el escritorio y los accesorios quedan fuera de los límites y solo sirven como escenario (sin colisiones). La arena comienza vacía y se llena desde los bordes: los enemigos aparecen en un anillo situado a 12–16 unidades del héroe (8–11 durante el primer segundo) y avanzan en línea recta hacia él. Cada 22 segundos, una oleada genera un círculo completo de enemigos a un radio de 13. Aparecen círculos rojos de advertencia bajo la posición actual del héroe (el primero a los 28 s y después cada max(4.4, 9 − t/50) s) y explotan tras 2 s.
-
-## 4. Inventario de recursos
-Prepara ranuras de modelos estables; cada ranura debe cargar un único GLB, centrarlo, escalarlo automáticamente a una altura objetivo y usar un marcador de posición sencillo si la carga falla.
-
-Héroes (10, `hero:<id>`), cada uno con una silueta distintiva y aspecto de figura de juguete voluminosa:
-- `cat` Astro Cat — gato atigrado naranja con traje espacial blanco y casco de cristal. PS 100, velocidad 6.8, imán ×1.35, enfriamiento de embestida 2.4 s.
-- `frog` Frog Fighter — rana verde con guantes de boxeo rojos. PS 130, velocidad 6.8, daño de embestida 135.
-- `shroom` Mushroom Hero — hongo de sombrero rojo con una pequeña capa. PS 90, velocidad 7.6, embestida 1.8 s.
-- `capybara` Chill Capybara — carpincho relajado de aguas termales. PS 160, velocidad 5.8, imán ×1.15, embestida 3 s, daño de embestida 110.
-- `ramen` Ramen Ronin — samurái que lleva un cuenco de ramen humeante. PS 105, velocidad 7.2, embestida 2.2 s, daño de embestida 120.
-- `penguin` Office Penguin — pingüino con camisa y corbata. PS 80, velocidad 7.1, embestida 1.5 s, daño de embestida 75.
-- `axolotl` Axolotl — explorador ajolote rosa. PS 85, velocidad 7.3, imán ×1.6, daño de embestida 75.
-- `avocado` Avo Boxer — boxeador aguacate con un hueso central. PS 120, velocidad 6.4, embestida 2.1 s, daño de embestida 130.
-- `robot` Clockwork Bot — robot de hojalata de cuerda con una llave. PS 115, velocidad 6.2, embestida 2.8 s, daño de embestida 165.
-- `snail` Snail Knight — caracol caballeresco que lleva un caparazón del tamaño de una casa. PS 190, velocidad 5.2, imán ×1.2, embestida 3.2 s, daño de embestida 120.
-El daño de embestida predeterminado es 90 cuando no se indica otro valor.
-
-Armas (12, `weapon:<id>`), agrupadas por ranura de ataque:
-- Órbita: `sardine` Sardine Chainsaw (3 peces, radio 2.9, daño 1, velocidad 1.2); `cactus` Cactus Club (2 garrotes, radio 3.3, daño 1.65, velocidad 0.78, radio de impacto 1.25, retroceso 1.5); `plunger` Plunger Patrol (4 desatascadores, radio 2.25, daño 0.85, velocidad 1.5).
-- Retorno: `banana` Banana Blades (2, daño 1, velocidad 1.25); `pizza` Pizza Cutter (1 disco grande, daño 1.5, velocidad 0.82, radio de impacto 1.65); `croissant` Croissant Blades (3, daño 0.75, velocidad 1.45); `boomerang` Boomerang (1, daño 1.15, velocidad 1.6); `donut-disc` Donut Disc (1, daño 1.5, velocidad 0.9, radio de impacto 1.3).
-- Disparo: `duck` Duck Rocket (teledirigido, área de efecto 2, intervalo 0.42 s); `toaster` Angry Toaster (abanico perforante de 3 disparos, daño 0.7); `teapot` Raging Teapot (2 disparos lentos, área de efecto 2.8, intervalo 0.8 s); `bubble-gun` Bubble Gun (2 burbujas perforantes, daño 0.45, intervalo 0.3 s).
-Equipamiento predeterminado: Astro Cat, Banana Blades y Angry Toaster; el arma de órbita se desbloquea con la primera mejora.
-
-Enemigos (3, `enemy:<id>`), monstruos de juguete de cuerda: `red-chomper` (juguete mordedor redondo y rojo, básico, 30 PS base, velocidad 2.35), `spring-rabbit` (conejo amarillo con patas de muelle, rápido, 23 PS base, velocidad 3.5), `crown-bear` (oso grande de retales con una corona, tanque, 130 PS base, velocidad 1.7, aparece después de 60 s con una probabilidad del 17 %, suelta 3 XP).
-
-Accesorios de la escena (`prop:<id>`): escritorio de banco de trabajo, marco y placas de esquina de la alfombrilla de corte, lámpara de escritorio, tren de juguete, bobinas de hilo, cajas ornamentadas con rosetones, estuche enrollable de herramientas y bandeja de piezas de juguete. Mantén la alfombrilla, la cuadrícula, los cristales, los proyectiles, los círculos de advertencia, las partículas, las luces y la interfaz de forma procedural.
-
-## 5. Jugabilidad y respuesta visual
-Flujo: Personaje → Equipamiento (uno de retorno + uno de disparo) → Listo (vista previa 3D del héroe con las armas elegidas, con visor giratorio que se puede rotar arrastrando) → «Let's play». Cada paso de incorporación muestra únicamente esa categoría, con texto sobre la descripción, el estilo de juego y la debilidad. Recuerda el último equipamiento.
-
-Controles: WASD/flechas para moverse; la barra espaciadora hace una embestida en la dirección del movimiento (velocidad ×3.7, breve invulnerabilidad y daño a los enemigos en un radio de 2 unidades una vez por embestida); Q dispara una nova cuando la energía está al 100 (radio 11, daño 200, fuerte retroceso y atrae los cristales); 1/2/3 o clic para elegir mejoras; Esc para pausar; pausa automática cuando la ventana pierde el foco. Móvil: joystick virtual analógico a la izquierda y botones de Embestida y Nova a la derecha, con anillos de enfriamiento/carga; compatibilidad multitáctil para usar el joystick y los botones a la vez; las mejoras se sitúan sobre el joystick en orientación vertical y entre los pulgares en orientación horizontal.
-
-Reglas: PS de los enemigos = base × (1 + t/260) × 1.3. Intervalo de aparición max(0.18, 0.52 − 0.0016·t) s, con un máximo de 180 enemigos. Daño por contacto 9 (18 en el caso del oso), con 0.85 s de invulnerabilidad después de recibir un impacto. Cada baja añade 2 de energía y suelta un cristal; cada noveno impacto de cada arma es un crítico ×1.7. Una racha de 25 bajas activa un frenesí de 5 s (velocidad de ataque ×1.65, enfriamiento de 13 s); recibir daño reinicia la racha. XP necesaria para subir de nivel: 20, después round(need × 1.4 + 10). Las subidas de nivel nunca pausan el juego: se ponen en cola como tarjetas de elección no bloqueantes. La primera mejora ofrece las tres armas de órbita; después ofrece tres de estas opciones: Orbit overload (+1 orbitador hasta 7, +22 % de daño), Another round (retornos más rápidos, largos y potentes), Full blast (disparos más rápidos, +20 % de daño y más proyectiles), Live a little (+10 % de velocidad, +30 PS). Cada elección cura 8 PS.
-
-Final: sobrevive 180 s → «Beautifully weird. You made it.»; PS 0 → «That was a glorious mess.» Ambos muestran los enemigos derrotados, la mejor racha y el tiempo sobrevivido, con las opciones Run it back / Change loadout y el mensaje para crear algo propio.
-
-Hazlo tuyo: desde las pantallas de equipamiento, pausa y resultados, «Create my hero / weapon in Tripo» abre https://studio.tripo3d.ai/ en una pestaña nueva; «Import GLB» carga un archivo .glb local (≤15 MB, solo texturas incrustadas, analizado en el navegador y nunca subido), lo centra y escala, y sustituye únicamente el aspecto del héroe o arma seleccionados, conservando sus estadísticas. Muestra errores claros para los archivos no válidos y conserva el modelo original.
-
-Compara modelos: un interruptor en la cabecera, «Tripo3D ⇄ Simple3D (Blender)», sustituye cada héroe, arma, enemigo y accesorio por un conjunto equivalente de primitivas simples sin reiniciar la partida. Carga todo el conjunto alternativo antes de cambiarlo; si algún archivo falla, conserva el conjunto actual.
-
-## 6. Implementación técnica
-Vite + JavaScript vanilla + Three.js con GLTFLoader, iluminación RoomEnvironment y mapeado de tonos ACES. Mantén la simulación en un módulo puro con paso de tiempo fijo y una fuente de aleatoriedad inyectable, para poder simular partidas completas en las pruebas; el renderizador solo lee el estado. Guarda en caché cada GLB una vez y clónalo para las instancias; usa instanciación o LOD para los adornos repetidos. Limita la proporción de píxeles (1.5 en móviles, reduciéndola a 1 durante las oleadas densas), actualiza las sombras como máximo 30 veces por segundo y actualiza el texto del HUD solo cuando cambien los valores. Separa las colisiones (círculos simples) de las mallas visuales. Incluye fuentes, modelos y texturas en el mismo origen para que la compilación sea una carpeta estática. Orientado a navegadores de escritorio y teléfono, desde 320 px de ancho, incluidos los teléfonos en horizontal y las áreas seguras. La complejidad del modelo debe adaptarse a su tamaño en pantalla; no establezcas un límite rígido de polígonos.
-
-## 7. Se considera terminado cuando
-- Funciona todo el flujo: incorporación, combate hasta la victoria y la derrota, pausar/reanudar, reiniciar con el mismo equipamiento y cambiar de equipamiento.
-- Los 10 héroes y las 12 armas cargan y se comportan según las cifras anteriores; una partida de 180 s con cualquier equipamiento termina sin errores.
-- Funcionan tanto los controles de teclado como los táctiles, incluido el uso simultáneo del joystick y la Embestida.
-- La importación de GLB sustituye el aspecto del héroe o arma elegido y rechaza correctamente los archivos defectuosos.
-- El interruptor Tripo3D / Simple3D cambia todos los modelos durante la partida.
-- Las pantallas de inicio, combate y resultados coinciden con las referencias; proporciona el código fuente ejecutable, el comando de inicio y una compilación de producción estática.
-
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/odd-arms) · [Publicación original](https://odd-arms.tripo.page/) · [Demo en línea](https://odd-arms.tripo.page/) · [Volver a los ejemplos](#all-prompts)
-
----
-
 <a id="red-light-green-light"></a>
 
 ### Luz roja, luz verde: juego de supervivencia 3D
@@ -4023,7 +4045,7 @@ Inspeccionar la apertura, los dos retratos de personajes, la colisión, los cohe
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 352 ejemplos en el sitio oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 353 ejemplos en el sitio oficial →</a></strong></p>
 <p><sub>Para que el README de GitHub se renderice con fluidez, aquí solo se muestran los 100 ejemplos más recientes.</sub></p>
 <br>
 </td></tr>

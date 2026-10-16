@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**352 · Prompt Astra mới nhất**
+**353 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -137,6 +137,7 @@
 - [Nghiên cứu vật liệu WebGPU: Chim cánh cụt bông](#2109288662319919127)
 - [Trải nghiệm WebGPU tương tác với bạch tuộc nhồi bông](#2109323102912156142)
 - [Diorama đền thờ tương tác: Torii lúc triều cường](#2110014604524896392)
+- [Làng tuyết trong quả cầu tuyết thạch dẻo tương tác](#2110045415412281495)
 - [Ngọn hải đăng đá cũ trên vách đá cheo leo lúc chạng vạng](#2110054195734982817)
 - [Game nhiệt đới 3D phong cách Flappy Bird](#2110069699597971828)
 - [Mô hình tách rời của một chiếc đồng hồ lấy cảm hứng từ Rolex](#2110070382002921482)
@@ -147,7 +148,6 @@
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: Game khai thác vàng 3D 24 cấp độ](#golden-miner)
 - [Biệt thự Thạch rau câu](#jelly-villa)
-- [ODD ARMS — Game sinh tồn với vũ khí kỳ quặc](#odd-arms)
 - [Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D](#red-light-green-light)
 - [TITANIC — Ánh sáng cuối cùng](#titanic-the-last-light)
 
@@ -3313,6 +3313,117 @@ Thương hiệu "shiosai°" với biểu tượng torii nhỏ, tiêu đề "A ga
 
 ---
 
+<a id="2110045415412281495"></a>
+
+### Làng tuyết trong quả cầu tuyết thạch dẻo tương tác
+
+[Paruchh](https://x.com/theparuchh) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-jelly-snow-globe-village"><img src="../assets/previews/babdc040c775ff28d6495632d3b86ad9a8b1501a5021b968dfa364eb965066fa.jpg" width="840" loading="lazy" alt="Làng tuyết trong quả cầu tuyết thạch dẻo tương tác"></a>
+
+Prompt hoàn chỉnh do tác giả cung cấp cho một quả cầu tuyết tương tác Three.js độc lập: ngôi làng mùa đông bằng thạch dẻo có thể lắc, chuyển sang chế độ ban đêm, khám phá từ bên trong và thả xuống bàn. Bài đăng gốc đặt nhiệm vụ trong bối cảnh so sánh GPT-6 Astra, còn bình luận của tác giả chỉ nêu rõ video được tạo bằng Sonnet 5.5; không có cơ sở để khẳng định video đính kèm là đầu ra của GPT-6 Astra.
+
+**Prompt**
+
+```text
+LẮC KỸ
+
+Tạo một tệp HTML độc lập duy nhất, shake-well.html: một quả cầu tuyết bằng kính đặt trên bàn, bên trong là ngôi làng mùa đông tí hon làm từ thạch dẻo. Chỉ dùng thiết kế nguyên bản: không dùng thương hiệu, logo, nhân vật hoặc chữ từ sản phẩm có thật. Mở tệp và kiểm tra để đảm bảo tệp chạy được trước khi hoàn tất.
+
+CHỈ DÙNG THREE.JS
+- Toàn bộ phần kết xuất phải đi qua Three.js: import chính xác three@0.180.0 từ CDN bằng import map và sử dụng WebGLRenderer
+- Chỉ dùng Three.js và các addon chính thức của thư viện (three/addons: OrbitControls, EffectComposer, bloom, depth of field, RoomEnvironment, v.v.). Không dùng thư viện nào khác
+- Không viết mã WebGL hoặc WebGPU thô: không dùng getContext, không gọi gl trực tiếp. Chỉ dùng shader tùy chỉnh thông qua material của Three.js (ShaderMaterial hoặc onBeforeCompile)
+- Toàn bộ vật lý và chuyển động phải do bạn tự viết bằng JavaScript thuần. Không dùng thư viện vật lý, mô hình hoặc kết cấu bề mặt bên ngoài; toàn bộ hình học và vật liệu phải được tạo theo thủ tục
+
+BƯỚC ĐẦU TIÊN, TRƯỚC MỌI THỨ
+Chạy một lệnh shell để tạo ID phiên duy nhất và thời gian hiện tại, rồi lưu cả hai vào run-log.txt cạnh tệp HTML. In ID phiên đúng một lần trong câu trả lời. Bạn sẽ cần ID này ở cuối để tìm nhật ký phiên của chính mình.
+Sau mỗi bước lớn (quả cầu, ngôi làng, căn phòng, từng món đồ chơi, bản demo), hãy đọc nhật ký phiên và nối tổng số token lũy kế cùng thời gian hiện tại vào run-log.txt. Nếu ngữ cảnh bị rút gọn, các mốc kiểm tra này sẽ lưu lại phần sử dụng trước đó.
+
+Hình ảnh là ưu tiên hàng đầu. Sản phẩm phải trông như ảnh chụp quảng cáo cao cấp của một món đồ sưu tầm thủ công.
+
+QUẢ CẦU
+- Một quả cầu kính lớn đặt trên đế gỗ óc chó sẫm màu tiện tròn, có vòng đồng thau chải mảnh. Kính hoàn toàn trong suốt và dày ở các mép, với hai vệt phản sáng hình chữ nhật mềm như trong studio và một viền sáng mảnh tại vùng kính cong khuất dần
+- Quả cầu chứa đầy chất lỏng trong suốt. Ngôi làng nhìn qua quả cầu được phóng đại nhẹ như qua thấu kính thật và bị bẻ cong ở các mép
+- Một bong bóng khí nhỏ mắc ở điểm cao nhất và luôn trượt về vị trí cao nhất khi quả cầu nghiêng
+- Khoảng 6000 bông tuyết trắng lơ lửng bên trong, cùng vài trăm hạt kim tuyến vàng nhỏ lấp lánh khi xoay về phía ánh sáng
+
+NGÔI LÀNG (toàn bộ làm bằng thạch dẻo)
+- Một ngọn đồi tuyết nhỏ phủ kín đáy quả cầu. Mọi tòa nhà, cây cối và nhân vật đều là thạch dẻo trong mờ bóng loáng, giống kẹo dẻo: đỏ mâm xôi, cam quýt, vàng chanh, xanh bạc hà, xanh việt quất, tím nho. Ánh sáng xuyên qua và phát sáng dịu bên trong, tạo các điểm phản sáng ướt sắc nét cùng vài bong bóng khí đông lạnh tí hon trong mỗi chi tiết
+- 8 đến 10 ngôi nhà nhỏ có mái dốc, cửa sổ tròn và ống khói, bố trí quanh một quảng trường nhỏ. Ở trung tâm là tháp đồng hồ có chuông và mặt đồng hồ tròn
+- Một ao băng bằng thạch dẻo xanh lam nhạt đã đóng băng, có ba vận động viên trượt băng tí hon lướt theo các vòng chậm. Một con suối với cây cầu vòm. Một người tuyết. Một vòng cây thông thạch dẻo xanh đậm phủ đầu tuyết trắng
+- Một đoàn tàu thạch dẻo tí hon (đầu máy và ba toa, đèn pha tròn) chạy mãi trên đường ray vòng quanh ngôi làng
+- Tuyết trên mái nhà và mặt đất mềm, trắng mờ như đường bột, tạo tương phản với thạch dẻo bóng loáng
+
+CĂN PHÒNG
+- Bình yên và gọn gàng, mang phong cách studio. Mặt bàn gỗ ấm màu, bóng đổ tiếp xúc mềm bên dưới đế, phông nền xanh lam bụi tối với vài đốm sáng bokeh ấm, out-focus ở xa phía sau
+- Đèn chính ấm từ phía trên bên trái, đèn bù lạnh từ bên phải, đèn viền làm nổi đường bao của kính
+- Quả cầu nằm chính giữa và chiếm khoảng 70% chiều cao khung hình. Hình ảnh phải hiển thị tốt khi cắt vuông và khi cắt dọc 9:16. Hậu cảnh luôn mềm để làm nổi bật quả cầu
+
+ĐỒ CHƠI (các nút dạng viên thuốc nhỏ ở dưới cùng, UI tối giản, phím 1 đến 5)
+1. Lắc. Quả cầu giật và nghiêng, tuyết bùng lên thành một trận bão xoáy, các ngôi nhà thạch dẻo lắc trễ một nhịp (những ngôi cao lắc mạnh hơn), rồi mọi thứ lắng xuống. Bạn cũng có thể lắc bằng tay: kéo trên quả cầu, kéo mạnh hơn sẽ tạo cú lắc mạnh hơn. Kéo ở nơi khác để xoay quanh quỹ đạo
+2. Ban đêm. Căn phòng chuyển dần sang xanh lam sẫm. Cửa sổ, đèn lồng dọc lối đi, mặt đồng hồ và đèn pha tàu bật sáng, phát ánh sáng ấm xuyên qua thạch dẻo. Quả cầu biến thành một chiếc đèn lồng và hắt một vùng sáng ấm dịu xuống mặt bàn bên dưới
+3. Vào bên trong. Máy quay lao vào quả cầu, xuyên qua kính với một gợn khúc xạ ngắn rồi hạ xuống quảng trường làng ở độ cao của một cư dân tí hon. Tuyết rơi quanh bạn, những ngôi nhà thạch dẻo vươn cao phía trên, đoàn tàu chạy ngang qua. Nhìn lên: mái vòm kính cong và phía ngoài là căn phòng khổng lồ bị biến dạng. Kéo để nhìn xung quanh, dùng WASD để đi quanh quảng trường. Khi đang ở bên trong, nhấn Lắc: một bàn chân mèo xám mềm khổng lồ chạm vào kính từ bên ngoài, mờ và đồ sộ, khiến cả thế giới chao đảo. Nút này chuyển thành Ra ngoài
+4. Thả (chỉ dùng khi ở bên ngoài). Quả cầu nhấc khỏi đế lên cao bằng chiều cao một bàn tay rồi rơi xuống bàn. Kính vỡ thành các mảnh cong, chất lỏng bắn tung tóe về phía máy quay, một vài giọt bám lên ống kính và từ từ chảy xuống màn hình. Các ngôi nhà thạch dẻo bật ra, lắc lư nhưng vẫn nguyên vẹn. Tuyết tràn khắp mặt bàn. Đoàn tàu tí hon vẫn chạy vòng tròn trên bàn. Chuông reo một lần
+5. Đặt lại
+
+VẬT LÝ (chân thực nhưng nhẹ)
+- Tuyết: mỗi bông rơi với vận tốc giới hạn chậm riêng và bị chất lỏng cuốn theo. Chất lỏng trễ lại so với kính khi quả cầu chuyển động, vì vậy cú lắc tạo ra một dòng xoáy tắt dần theo thời gian. Các bông tuyết rơi xuống mái nhà và mặt đất sẽ nằm yên ở đó, rồi được nhấc lên lại ở lần lắc tiếp theo. Lắng hoàn toàn trong khoảng 15 đến 20 giây
+- Thạch dẻo: mỗi vật thể là một lò xo giảm chấn (nghiêng, co và kéo giãn) được điều khiển bởi gia tốc của quả cầu. Vật càng cao và càng mềm thì lắc càng mạnh. Lắng trong khoảng 2 giây
+- Thả: dùng trọng lực thực cho cú rơi, các mảnh vỡ cứng đơn giản, chất lỏng dưới dạng hạt, thạch dẻo co lại và nảy lên khi va chạm
+- 60 fps trên máy tính xách tay thông thường
+
+CHỜ VÀ DEMO
+- Khi tải: ban ngày, tuyết đã lắng, camera tự động xoay chậm quanh quả cầu. Chỉ riêng chế độ này cũng phải hoạt động như một cảnh giới thiệu sản phẩm đẹp mắt dài 20 giây
+- Nhấn D để chạy một bản demo cố định với seed ngẫu nhiên cố định, để mọi lần chạy đều giống hệt nhau. Các nút sáng lên khi được nhấn để người xem thấy điều gì xảy ra:
+  0 giây: xoay chậm
+  5 giây: Lắc
+  12 giây: Ban đêm
+  18 giây: Vào bên trong, nhìn quanh quảng trường, đoàn tàu chạy qua
+  26 giây: nhìn lên mái vòm và căn phòng khổng lồ
+  29 giây: bàn chân mèo chạm vào kính
+  36 giây: Ra ngoài
+  40 giây: Thả
+  44 đến 52 giây: từ từ tiến gần xác quả cầu, các giọt nước chảy xuống ống kính
+
+BƯỚC CUỐI: THỜI GIAN THỰC VÀ CHI PHÍ API
+Thực hiện việc này ở bước cuối cùng, ngay trước câu trả lời cuối. Dùng số liệu thực từ nhật ký phiên của chính bạn, không ước tính.
+
+1. Tìm nhật ký phiên trên ổ đĩa: tệp có chứa ID phiên của bạn
+- Claude (Claude Code, Cowork): tệp .jsonl trong ~/.claude/projects/. Nhật ký của các tác vụ phụ, nếu có, có thể nằm trong thư mục con cùng tên; hãy đưa chúng vào
+- Codex: các tệp rollout .jsonl trong ~/.codex/sessions/
+2. Thời gian: tính từ dấu thời gian đầu tiên đến dấu thời gian cuối cùng trong nhật ký. Nếu nhật ký không có dấu thời gian, dùng thời gian bắt đầu trong run-log.txt đến hiện tại
+3. Token
+- Nhật ký Claude: mọi phản hồi API đều có message.usage với input_tokens, cache_creation_input_tokens (tách thành 5 phút và 1 giờ trong cache_creation nếu có), cache_read_input_tokens và output_tokens. Cùng một phản hồi được lặp lại trên nhiều dòng, mỗi dòng tương ứng với một content block, vì vậy chỉ tính mỗi message id một lần
+- Nhật ký Codex: lấy tổng token_count lũy kế cuối cùng. Input được lưu trong bộ nhớ đệm thường đã nằm trong input, còn token suy luận được tính vào output: không tính trùng bất kỳ mục nào
+4. Tính giá cho từng request theo bảng dưới đây. Với model không có trong bảng, dùng trang giá chính thức của nhà cung cấp và đưa URL vào
+
+GIÁ, USD trên một triệu token (Claude API, https://t.co/MumWcfinp3, kiểm tra ngày 12 tháng 10 năm 2026)
+model | input | ghi bộ nhớ đệm 5 phút | ghi bộ nhớ đệm 1 giờ | đọc bộ nhớ đệm | output
+Opus 5.5 | 4 | 5 | 8 | 0.20 | 20
+Sonnet 5.5 | 2 | 2.50 | 4 | 0.10 | 10
+Haiku 5.5, prompt tối đa 100k | 0.10 | 0.125 | 0.20 | 0.01 | 0.50
+Haiku 5.5, prompt trên 100k | 0.50 | 0.625 | 1 | 0.05 | 2.50
+- Bậc giá của Haiku được quyết định cho từng request: kích thước prompt = số token input + token ghi bộ nhớ đệm + token đọc bộ nhớ đệm của request đó
+- Nếu usage hiển thị tốc độ "fast" (chỉ Opus): input 8 USD, output 40 USD. Nếu inference_geo là "us": nhân mọi giá trị với 1.1
+
+5. Nếu nhật ký đã bị rút gọn và thiếu thông tin sử dụng trước đó, lấy thông tin đó từ các mốc kiểm tra trong run-log.txt rồi cộng vào phần còn lại trong nhật ký, không tính trùng bất kỳ mục nào
+6. Lưu cost-report.txt cạnh tệp HTML và dán nội dung vào câu trả lời cuối:
+MODEL: tên model chính xác lấy từ nhật ký
+TIME: X giờ Y phút (dấu thời gian bắt đầu và kết thúc)
+API REQUESTS: số phản hồi duy nhất
+TOKENS: input / ghi bộ nhớ đệm 5 phút / ghi bộ nhớ đệm 1 giờ / đọc bộ nhớ đệm / output
+COST: chi phí theo từng hạng mục và TỔNG
+SOURCE: đường dẫn đến tệp nhật ký, cộng thêm run-log.txt nếu đã dùng các mốc kiểm tra
+Nếu không tìm thấy nhật ký, đánh dấu mọi con số là ESTIMATE và giải thích cách bạn tính. Lưu ý rằng chính câu trả lời cuối này chưa có trong nhật ký.
+
+Ngoài ra, trong câu trả lời cuối hãy có một báo cáo ngắn: phần vật lý nào là thật, phần nào được giả lập, các con số chính (số bông tuyết, số vật thể, thời gian lắng, kích thước tệp, phiên bản Three.js và renderer).
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-jelly-snow-globe-village) · [Bài đăng gốc](https://x.com/theparuchh/status/2110046350142235020) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="2110054195734982817"></a>
 
 ### Ngọn hải đăng đá cũ trên vách đá cheo leo lúc chạng vạng
@@ -3817,95 +3928,6 @@ Xuất bản prompt jelly-villa mới, ghi công jared, ghi tác giả gốc tro
 
 ---
 
-<a id="odd-arms"></a>
-
-### ODD ARMS — Game sinh tồn với vũ khí kỳ quặc
-
-[Deniffer](https://x.com/lumina__team) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/odd-arms"><img src="../assets/previews/504c296e723fc1d371ab475b1849a547d862e14632b5962ee62c0edc16783749.jpg" width="840" loading="lazy" alt="ODD ARMS — Game sinh tồn với vũ khí kỳ quặc"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/odd-arms"><img src="../assets/previews/c091163cb03e4b2e888533cdae55a69d2a2adb5b8d7d511d5dbe9f42b48e477c.jpg" width="840" loading="lazy" alt="ODD ARMS — Game sinh tồn với vũ khí kỳ quặc"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/odd-arms"><img src="../assets/previews/8704479f463f4966b9d420060a8fe4ebb55f0f195750cab2cfad225dcb31e52f.jpg" width="840" loading="lazy" alt="ODD ARMS — Game sinh tồn với vũ khí kỳ quặc"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/odd-arms"><img src="../assets/previews/846d08bd92f3243dce5a7a5313cd4978c94613e86cabcd0ef2c99c434954f93b.jpg" width="840" loading="lazy" alt="ODD ARMS — Game sinh tồn với vũ khí kỳ quặc"></a>
-
-Xây dựng một game sinh tồn Three.js kéo dài ba phút, trong đó một anh hùng đồ chơi với lưỡi dao chuối, máy nướng bánh mì và pít-tông chiến đấu với những quái vật lên dây cót trên bàn làm việc. Người chơi có thể tạo anh hùng hoặc vũ khí riêng trong Tripo Studio, rồi nhập GLB vào game để chơi.
-
-**Prompt**
-
-```text
-# ODD ARMS — Ý tưởng của bạn. Anh hùng của bạn.
-
-## 1. Mục tiêu
-Giữ toàn bộ giao diện game bằng tiếng Anh (thêm tiếng Nhật dưới dạng tùy chọn chuyển ngôn ngữ).
-Xây dựng một game sinh tồn trên trình duyệt hoàn chỉnh, kéo dài ba phút, thuộc thể loại "bầy đàn tự động tấn công": người chơi chọn một anh hùng cỡ đồ chơi và hai vũ khí cực kỳ kỳ quặc, sau đó sống sót 180 giây giữa những bầy quái vật trên bàn làm việc của thợ thủ công. Vũ khí tự động tấn công; người chơi chỉ cần di chuyển, lướt, thu thập tinh thể, chọn nâng cấp và tung một đợt nova tích năng lượng. Điểm hấp dẫn nằm ở tính cá nhân hóa: người chơi có thể tạo anh hùng hoặc vũ khí riêng trong Tripo, tải xuống GLB rồi đưa vào game. Sử dụng https://odd-arms.tripo.page/ và các tài liệu tham khảo được cung cấp cho thành phẩm. Ghi công Deniffer tại https://x.com/lumina__team.
-
-## 2. Định hướng hình ảnh
-Định hình game như một mô hình đồ chơi thu nhỏ, nhìn từ camera cố định chếch từ trên xuống và bám theo anh hùng. Khu vực chơi là một tấm thảm cắt màu xanh navy đậm, có lưới mờ và các dấu góc in chữ "ODD ARMS", đặt trên bàn gỗ màu ấm. Viền bàn chất đầy đạo cụ thủ công cỡ lớn (cuộn chỉ, hộp hoa thị bằng đồng trang trí, túi đựng dụng cụ bằng da, đèn bàn bằng đồng, tàu hỏa đồ chơi, các bộ phận đồ chơi), để đấu trường trông như một mặt bàn thật. Dùng ánh sáng chính ấm từ phía đèn, ánh sáng môi trường dịu, bóng tiếp xúc và hiệu ứng bloom nhẹ; nhân vật có bề mặt bóng, hình khối mập mạp theo phong cách tượng sưu tầm, màu sắc bão hòa.
-
-UI: thẻ bo tròn màu trắng kem với chữ navy và điểm nhấn cam san hô, dùng phông hiển thị đậm, cô đọng cho tiêu đề ("LET'S MAKE SOME TROUBLE.") và sans cô đọng rõ ràng cho nội dung. Trong trận đấu: thẻ máu ở góc trên trái, bộ đếm chuỗi hạ gục bên dưới, bộ đếm ngược "SURVIVE THE WEIRD" ở chính giữa phía trên, nhãn đợt quái + âm thanh + cài đặt + Pause ở góc trên phải, số quái đã hạ ở bên phải, thẻ cấp độ/XP ở chính giữa phía dưới, ba chip vũ khí (xoay quanh / quay về / bắn, kèm cấp độ) ở góc dưới trái, điều khiển + thời gian hồi lướt ở góc dưới phải, thẻ "Q NOVA READY!" phía trên. Tăng cảm giác khi chơi: số sát thương, đòn chí mạng, kẻ địch co giãn squash-and-stretch, hất văng, hạt bật nổ, rung camera nhẹ (tắt rung khi prefers-reduced-motion được thiết lập).
-
-## 3. Thế giới
-Một đấu trường hình vuông; giới hạn anh hùng trong khoảng ±23 đơn vị trên cả hai trục. Tấm thảm cắt phủ kín khu vực chơi; bàn và đạo cụ nằm ngoài giới hạn, chỉ làm cảnh nền (không va chạm). Đấu trường bắt đầu trống rồi được lấp đầy từ các cạnh: kẻ địch xuất hiện trên một vòng tròn cách anh hùng 12–16 đơn vị (8–11 trong giây đầu tiên) và đi thẳng về phía anh hùng. Cứ mỗi 22 giây, một đợt tràn xuất hiện, tạo thành một vòng tròn đầy kẻ địch ở bán kính 13. Các vòng cảnh báo màu đỏ xuất hiện dưới vị trí hiện tại của anh hùng (lần đầu ở 28 giây, sau đó mỗi max(4.4, 9 − t/50) giây) và phát nổ sau 2 giây.
-
-## 4. Danh mục tài sản
-Chuẩn bị các khe mô hình ổn định; mỗi khe phải tải một GLB duy nhất, căn giữa, tự động scale theo chiều cao mục tiêu và chuyển sang placeholder đơn giản nếu tải thất bại.
-
-Anh hùng (10, `hero:<id>`), mỗi anh hùng là một nhân vật đồ chơi hình khối rõ dáng:
-- `cat` Astro Cat — mèo mướp cam mặc bộ đồ phi hành gia màu trắng và đội mũ kính. HP 100, tốc độ 6.8, nam châm ×1.35, thời gian hồi lướt 2.4 s.
-- `frog` Frog Fighter — ếch xanh đeo găng đấm bốc đỏ. HP 130, tốc độ 6.8, sát thương lướt 135.
-- `shroom` Mushroom Hero — nấm mũ đỏ với một chiếc áo choàng nhỏ. HP 90, tốc độ 7.6, lướt 1.8 s.
-- `capybara` Chill Capybara — chuột lang nước thư thái trong suối nước nóng. HP 160, tốc độ 5.8, nam châm ×1.15, lướt 3 s, sát thương lướt 110.
-- `ramen` Ramen Ronin — samurai mang một bát ramen nghi ngút khói. HP 105, tốc độ 7.2, lướt 2.2 s, sát thương lướt 120.
-- `penguin` Office Penguin — chim cánh cụt mặc sơ mi và cà vạt. HP 80, tốc độ 7.1, lướt 1.5 s, sát thương lướt 75.
-- `axolotl` Axolotl — axolotl hồng thám hiểm. HP 85, tốc độ 7.3, nam châm ×1.6, sát thương lướt 75.
-- `avocado` Avo Boxer — võ sĩ quyền anh quả bơ với lõi hạt. HP 120, tốc độ 6.4, lướt 2.1 s, sát thương lướt 130.
-- `robot` Clockwork Bot — robot thiếc lên dây cót với chiếc chìa khóa. HP 115, tốc độ 6.2, lướt 2.8 s, sát thương lướt 165.
-- `snail` Snail Knight — hiệp sĩ ốc sên mang chiếc vỏ to như ngôi nhà. HP 190, tốc độ 5.2, nam châm ×1.2, lướt 3.2 s, sát thương lướt 120.
-Sát thương lướt mặc định là 90 nếu không được nêu.
-
-Vũ khí (12, `weapon:<id>`), được nhóm theo ô tấn công:
-- Xoay quanh: `sardine` Sardine Chainsaw (3 con cá, bán kính 2.9, sát thương 1, tốc độ 1.2); `cactus` Cactus Club (2 gậy, bán kính 3.3, sát thương 1.65, tốc độ 0.78, bán kính đánh trúng 1.25, hất văng 1.5); `plunger` Plunger Patrol (4 pít-tông, bán kính 2.25, sát thương 0.85, tốc độ 1.5).
-- Quay về: `banana` Banana Blades (2 lưỡi, sát thương 1, tốc độ 1.25); `pizza` Pizza Cutter (1 đĩa lớn, sát thương 1.5, tốc độ 0.82, bán kính đánh trúng 1.65); `croissant` Croissant Blades (3 lưỡi, sát thương 0.75, tốc độ 1.45); `boomerang` Boomerang (1, sát thương 1.15, tốc độ 1.6); `donut-disc` Donut Disc (1, sát thương 1.5, tốc độ 0.9, bán kính đánh trúng 1.3).
-- Bắn: `duck` Duck Rocket (tự tìm mục tiêu, lan 2, khoảng cách 0.42 s); `toaster` Angry Toaster (chùm 3 phát xuyên mục tiêu, sát thương 0.7); `teapot` Raging Teapot (2 phát chậm, lan 2.8, khoảng cách 0.8 s); `bubble-gun` Bubble Gun (2 bong bóng xuyên mục tiêu, sát thương 0.45, khoảng cách 0.3 s).
-Trang bị mặc định: Astro Cat, Banana Blades, Angry Toaster; vũ khí xoay quanh được mở khóa ở lần nâng cấp đầu tiên.
-
-Kẻ địch (3, `enemy:<id>`), là những quái vật đồ chơi lên dây cót: `red-chomper` (đồ chơi tròn màu đỏ biết cắn, cơ bản, 30 HP cơ sở, tốc độ 2.35), `spring-rabbit` (thỏ chân lò xo màu vàng, nhanh, 23 HP cơ sở, tốc độ 3.5), `crown-bear` (gấu chắp vá lớn đội vương miện, xe tăng, 130 HP cơ sở, tốc độ 1.7, xuất hiện sau 60 s với tỷ lệ 17%, rơi 3 XP).
-
-Đạo cụ cảnh (`prop:<id>`): bàn làm việc, khung và miếng góc của tấm thảm cắt, đèn bàn, tàu hỏa đồ chơi, cuộn chỉ, hộp hoa thị trang trí, túi đựng dụng cụ, khay linh kiện đồ chơi. Giữ tấm thảm, lưới, tinh thể, đạn, vòng cảnh báo, hạt, đèn và UI ở dạng tạo bằng procedural.
-
-## 5. Gameplay và phản hồi
-Luồng: Nhân vật → Trang bị (một vũ khí quay về + một vũ khí bắn) → Sẵn sàng (bản xem trước 3D dạng bàn xoay của anh hùng với các vũ khí đã chọn, kéo để xoay) → "Let's play". Mỗi bước làm quen chỉ hiển thị danh mục tương ứng cùng mô tả, phong cách chơi và điểm yếu. Ghi nhớ trang bị gần nhất.
-
-Điều khiển: WASD/phím mũi tên để di chuyển; Space lướt theo hướng đang đi (tốc độ ×3.7, bất tử trong thời gian ngắn, gây sát thương một lần mỗi lượt lướt lên kẻ địch trong phạm vi 2 đơn vị); Q tung nova khi năng lượng đạt 100 (bán kính 11, sát thương 200, hất văng mạnh, hút tinh thể); 1/2/3 hoặc nhấp chuột để chọn nâng cấp; Esc để tạm dừng; tự động tạm dừng khi cửa sổ mất tiêu điểm. Di động: cần analog ảo bên trái, các nút Dash và Nova bên phải với vòng hồi chiêu/tích năng lượng, hỗ trợ đa chạm để cần analog và các nút hoạt động cùng lúc; nâng cấp nằm phía trên cần analog khi cầm dọc và giữa hai ngón cái khi cầm ngang.
-
-Luật: HP kẻ địch = base × (1 + t/260) × 1.3. Khoảng thời gian xuất hiện max(0.18, 0.52 − 0.0016·t) s, tối đa 180 kẻ địch. Sát thương va chạm 9 (18 đối với gấu), bất tử 0.85 s sau khi trúng đòn. Mỗi lần hạ gục cộng 2 năng lượng và rơi một tinh thể; mỗi đòn đánh trúng thứ 9 của mỗi vũ khí gây chí mạng ×1.7. Chuỗi 25 lần hạ gục kích hoạt cuồng nộ trong 5 s (tốc độ tấn công ×1.65, hồi chiêu 13 s); nhận sát thương sẽ đặt lại chuỗi. XP để lên cấp: 20, sau đó round(need × 1.4 + 10). Lên cấp không bao giờ tạm dừng game: các lựa chọn được xếp hàng dưới dạng thẻ không chặn luồng chơi. Nâng cấp đầu tiên đưa ra ba vũ khí xoay quanh; sau đó đưa ra ba trong số các lựa chọn: Orbit overload (+1 vật thể xoay quanh, tối đa 7, +22% sát thương), Another round (bắn nhanh hơn, quay về lâu hơn và mạnh hơn), Full blast (bắn nhanh hơn, +20% sát thương, nhiều đạn hơn), Live a little (+10% tốc độ, +30 HP). Mỗi lựa chọn hồi 8 HP.
-
-Kết thúc: sống sót 180 s → "Beautifully weird. You made it."; HP 0 → "That was a glorious mess." Cả hai đều hiển thị số kẻ địch đã hạ, chuỗi tốt nhất và thời gian sống sót, cùng các tùy chọn tạo lại lượt chơi / thay đổi trang bị và lời nhắc tự tạo.
-
-Tạo dấu ấn riêng: từ màn hình trang bị, tạm dừng và kết quả, "Create my hero / weapon in Tripo" mở https://studio.tripo3d.ai/ trong tab mới; "Import GLB" tải một tệp .glb cục bộ (≤15 MB, chỉ dùng kết cấu nhúng, phân tích ngay trong trình duyệt, không bao giờ tải lên), căn giữa và scale tệp, rồi chỉ thay đổi diện mạo của anh hùng hoặc vũ khí được chọn trong khi giữ nguyên chỉ số. Hiển thị lỗi rõ ràng với tệp không hợp lệ và giữ lại mô hình gốc.
-
-So sánh mô hình: một nút chuyển ở phần đầu trang, "Tripo3D ⇄ Simple3D (Blender)", thay thế mọi anh hùng, vũ khí, kẻ địch và đạo cụ bằng bộ hình nguyên thủy đơn giản tương ứng mà không đặt lại lượt chơi. Tải toàn bộ bộ thay thế trước khi chuyển; nếu có bất kỳ tệp nào lỗi, giữ nguyên bộ hiện tại.
-
-## 6. Triển khai kỹ thuật
-Vite + JavaScript thuần + Three.js với GLTFLoader, ánh sáng RoomEnvironment và ánh xạ tông màu ACES. Giữ phần mô phỏng trong một mô-đun timestep cố định, thuần, có nguồn ngẫu nhiên có thể tiêm vào để chạy toàn bộ lượt chơi trong các bài kiểm thử; renderer chỉ đọc state. Cache mỗi GLB một lần và clone cho các instance; dùng instancing hoặc LOD cho các vật trang trí lặp lại. Giới hạn tỷ lệ pixel (1.5 trên di động, giảm xuống 1 trong các đợt dày), làm mới bóng tối đa 30 lần mỗi giây và chỉ cập nhật văn bản HUD khi giá trị thay đổi. Tách va chạm (các hình tròn đơn giản) khỏi mesh hiển thị. Đóng gói phông chữ, mô hình và kết cấu cùng origin để bản build là một thư mục tĩnh. Nhắm đến trình duyệt máy tính và điện thoại, từ bề rộng 320 px trở lên, bao gồm điện thoại xoay ngang và vùng an toàn. Độ phức tạp mô hình nên theo kích thước hiển thị trên màn hình; không đặt giới hạn đa giác cứng.
-
-## 7. Hoàn tất khi
-- Toàn bộ luồng hoạt động: làm quen, chiến đấu đến khi thắng hoặc thua, tạm dừng/tiếp tục, khởi động lại với cùng trang bị, thay đổi trang bị.
-- Cả 10 anh hùng và 12 vũ khí đều tải và hoạt động đúng theo các chỉ số trên; một lượt chơi 180 s với bất kỳ trang bị nào cũng kết thúc mà không có lỗi.
-- Điều khiển bằng bàn phím và cảm ứng đều hoạt động, bao gồm cần analog và Dash cùng lúc.
-- Nhập GLB thay thế diện mạo của anh hùng hoặc vũ khí được chọn và xử lý từ chối tệp lỗi một cách phù hợp.
-- Nút chuyển Tripo3D / Simple3D thay thế toàn bộ mô hình ngay giữa lượt chơi.
-- Màn hình mở đầu, giữa trận và kết quả khớp với tài liệu tham khảo; cung cấp mã nguồn có thể chạy, lệnh khởi động và bản build tĩnh dành cho production.
-
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/odd-arms) · [Bài đăng gốc](https://odd-arms.tripo.page/) · [Bản demo](https://odd-arms.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="red-light-green-light"></a>
 
 ### Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D
@@ -4023,7 +4045,7 @@ Kiểm tra cảnh mở đầu, cả hai chân dung nhân vật, va chạm, pháo
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 352 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 353 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

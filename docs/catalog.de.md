@@ -28,7 +28,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**352 · Neueste Astra-Prompts**
+**353 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -137,6 +137,7 @@
 - [WebGPU-Materialstudie: Plüschpinguin](#2109288662319919127)
 - [Interaktive WebGPU-Erfahrung mit einem Plüschoktopus](#2109323102912156142)
 - [Torii bei Flut – interaktives Schreindiorama](#2110014604524896392)
+- [Interaktive Jelly-Schneekugel mit Dorf](#2110045415412281495)
 - [Alter steinerner Leuchtturm auf einer felsigen Klippe in der Abenddämmerung](#2110054195734982817)
 - [Tropisches 3D-Spiel im Stil von Flappy Bird](#2110069699597971828)
 - [Explosionsansicht einer von Rolex inspirierten Uhr](#2110070382002921482)
@@ -147,7 +148,6 @@
 - [Crazy Tanks — 3D-Inselartillerie](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: 3D-Bergbauspiel mit 24 Levels](#golden-miner)
 - [Jelly-Villa](#jelly-villa)
-- [ODD ARMS — Survival-Game mit verrückten Waffen](#odd-arms)
 - [Rot, grünes Licht: 3D-Survival-Game](#red-light-green-light)
 - [TITANIC — Das letzte Licht](#titanic-the-last-light)
 
@@ -3248,6 +3248,117 @@ Marke „shiosai°“ mit einem kleinen Torii-Symbol, Überschrift „A gate tha
 
 ---
 
+<a id="2110045415412281495"></a>
+
+### Interaktive Jelly-Schneekugel mit Dorf
+
+[Paruchh](https://x.com/theparuchh) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/interactive-jelly-snow-globe-village"><img src="../assets/previews/babdc040c775ff28d6495632d3b86ad9a8b1501a5021b968dfa364eb965066fa.jpg" width="840" loading="lazy" alt="Interaktive Jelly-Schneekugel mit Dorf"></a>
+
+Ein vollständiger, vom Autor bereitgestellter Prompt für eine eigenständige interaktive Three.js-Schneekugel: Ein winterliches Jelly-Dorf kann geschüttelt, in den Nachtmodus versetzt, von innen erkundet und auf einen Tisch fallen gelassen werden. Der Ausgangspost stellt die Aufgabe als Vergleich mit GPT-6 Astra dar, während der Autorenkommentar ausdrücklich sagt, dass das gezeigte Video mit Sonnet 5.5 erstellt wurde; daraus geht nicht hervor, dass das angehängte Video ein GPT-6-Astra-Output ist.
+
+**Prompt**
+
+```text
+GUT SCHÜTTELN
+
+Erstelle eine eigenständige HTML-Datei namens shake-well.html: eine gläserne Schneekugel auf einem Tisch mit einem winzigen Winterdorf im Inneren, komplett aus Jelly. Nur eigenes Design: keine echten Marken, Logos, Figuren oder Texte aus realen Produkten. Öffne die Datei und prüfe vor dem Abschluss, ob sie läuft.
+
+NUR THREE.JS
+- Das gesamte Rendering läuft über Three.js: Importiere exakt three@0.180.0 per CDN mit einer Import Map und verwende WebGLRenderer
+- Verwende nur Three.js und die offiziellen Add-ons (three/addons: OrbitControls, EffectComposer, Bloom, Tiefenschärfe, RoomEnvironment usw.). Keine anderen Bibliotheken
+- Kein direkter WebGL- oder WebGPU-Code: kein getContext, keine direkten gl-Aufrufe. Eigene Shader ausschließlich über Three.js-Materialien (ShaderMaterial oder onBeforeCompile)
+- Die gesamte Physik und Bewegung wird in eigenem einfachem JavaScript umgesetzt. Keine Physikbibliotheken, keine externen Modelle oder Texturen, sämtliche Geometrien und Materialien werden prozedural erzeugt
+
+ERSTER SCHRITT, VOR ALLEM ANDEREN
+Führe einen Shell-Befehl aus, der eine eindeutige Run-ID und die aktuelle Uhrzeit erzeugt und beides in run-log.txt neben deiner HTML-Datei speichert. Gib die Run-ID einmal in deiner Antwort aus. Du brauchst sie am Ende, um dein eigenes Sitzungsprotokoll zu finden.
+Lies nach jedem größeren Schritt (Schneekugel, Dorf, Raum, jedes Spielzeug, Demo) dein Sitzungsprotokoll aus und hänge die bisherigen Token-Gesamtsummen sowie die aktuelle Uhrzeit an run-log.txt an. Falls dein Kontext komprimiert wird, bewahren diese Checkpoints die frühere Nutzung.
+
+Das Bild ist das Wichtigste. Es soll wie eine hochwertige Produktaufnahme eines handgefertigten Sammlerstücks wirken.
+
+DIE SCHNEEKUGEL
+- Eine große Glaskugel auf einem gedrechselten Sockel aus dunklem Walnussholz mit einem dünnen Ring aus gebürstetem Messing. Das Glas ist absolut klar und an den Rändern dick, mit zwei weichen rechteckigen Studio-Reflexen und einem schmalen hellen Randlicht an der Stelle, an der es sich vom Betrachter wegwölbt
+- Die Kugel ist mit klarer Flüssigkeit gefüllt. Das Dorf wirkt hindurch leicht vergrößert wie durch eine echte Linse und wird an den Rändern verzerrt
+- Ganz oben befindet sich eine kleine eingeschlossene Luftblase, die bei jeder Neigung der Kugel stets zum höchsten Punkt gleitet
+- Im Inneren schweben etwa 6000 weiße Flocken sowie einige hundert winzige goldene Glitzerpartikel, die aufblitzen, wenn sie sich zum Licht drehen
+
+DAS DORF (alles aus Jelly)
+- Ein kleiner verschneiter Hügel füllt den unteren Bereich der Kugel. Jedes Gebäude, jeder Baum und jede Figur besteht aus glänzend durchscheinendem Jelly wie Fruchtgummi: Himbeere, Mandarine, Zitrone, Minze, Heidelbeere, Traube. Das Licht fällt hindurch und leuchtet sanft im Inneren, mit scharfen nassen Reflexen und einigen winzigen gefrorenen Luftblasen in jedem Teil
+- 8 bis 10 kleine Häuser mit steilen Dächern, runden Fenstern und Schornsteinen stehen um einen kleinen Platz. In der Mitte: ein Uhrturm mit Glocke und rundem Zifferblatt
+- Ein zugefrorener Teich aus blassblauem Jelly-Eis mit drei winzigen Schlittschuhläufern, die langsame Schleifen ziehen. Ein Bach mit einer Bogenbrücke. Ein Schneemann. Ein Ring aus dunkelgrünen Jelly-Tannen mit weißen Schneespitzen
+- Ein winziger Jelly-Zug (Lokomotive plus drei Wagen, runder Scheinwerfer) fährt unendlich auf einem Rundkurs um das Dorf
+- Schnee auf Dächern und Boden ist weich, mattweiß und wirkt wie Puderzucker – ein Kontrast zum glänzenden Jelly
+
+DER RAUM
+- Ruhig und klar, mit Studiocharakter. Eine warme Holzplatte, ein weicher Kontaktschatten unter dem Sockel, ein dunkler, staubig-blauer Hintergrund mit einigen weit dahinter liegenden, unscharfen warmen Bokeh-Lichtern
+- Warmes Führungslicht von links oben, kühles Aufhelllicht von rechts, ein Randlicht, das die Glaskontur hervorhebt
+- Die Kugel ist mittig platziert und nimmt etwa 70 % der Bildhöhe ein. Sie muss sowohl in einem quadratischen Ausschnitt als auch in einem Hochformat-Ausschnitt mit 9:16 gut wirken. Der Hintergrund bleibt weich, damit die Kugel hervorsticht
+
+SPIELZEUGE (kleine pillenförmige Schaltflächen unten, minimales UI, Tasten 1 bis 5)
+1. Schütteln. Die Kugel ruckt und kippt, der Schnee explodiert zu einem wirbelnden Schneesturm, die Jelly-Häuser wackeln einen Moment verspätet (hohe stärker), dann beruhigt sich alles. Du kannst sie auch von Hand schütteln: Ziehe an der Kugel, ein kräftigerer Zug erzeugt ein stärkeres Schütteln. Ziehe an einer anderen Stelle, um die Ansicht zu umkreisen
+2. Nacht. Der Raum blendet zu tiefem Blau über. Fenster, Weglaternen, Zifferblatt und Scheinwerfer des Zuges schalten sich ein und leuchten warm durch das Jelly. Die Kugel wird zur Laterne und wirft darunter einen weichen warmen Lichtschein auf den Tisch
+3. Hineingehen. Die Kamera taucht in die Kugel ein, durchquert das Glas mit einer kurzen Brechungswelle und landet auf der Höhe eines winzigen Dorfbewohners auf dem Dorfplatz. Schnee fällt um dich herum, Jelly-Häuser ragen über dir auf, der Zug fährt vorbei. Blicke nach oben: die gewölbte Glaskuppel und dahinter der riesige verzerrte Raum. Ziehe, um dich umzusehen, und gehe mit WASD über den Platz. Wenn du im Inneren auf „Schütteln“ drückst, tippt eine riesige weiche graue Katzenpfote von außen gegen das Glas – unscharf und gewaltig –, und die ganze Welt gerät ins Wanken. Die Schaltfläche wird zu „Hinausgehen“
+4. Fallen lassen (nur außerhalb). Die Kugel hebt sich um eine Handbreit von ihrem Sockel und fällt auf den Tisch. Das Glas zerbricht in gebogene Scherben, die Flüssigkeit spritzt in Richtung Kamera, und einige Tropfen landen auf der Linse und laufen langsam über den Bildschirm. Die Jelly-Häuser springen heraus, wippen und bleiben intakt. Schnee verteilt sich über den Tisch. Der winzige Zug fährt auf dem Tisch weiter im Kreis. Die Glocke ertönt einmal
+5. Zurücksetzen
+
+PHYSIK (realistisch, aber leichtgewichtig)
+- Schnee: Jede Flocke sinkt mit ihrer eigenen langsamen Endgeschwindigkeit und wird von der Flüssigkeit mitgetragen. Die Flüssigkeit bleibt bei einer Bewegung der Kugel hinter dem Glas zurück, sodass ein Schütteln einen Wirbel erzeugt, der mit der Zeit abklingt. Flocken, die landen, bleiben auf Dächern und Boden liegen und werden beim nächsten Schütteln wieder aufgewirbelt. Vollständiges Absetzen nach etwa 15 bis 20 Sekunden
+- Jelly: Jedes Objekt ist eine gedämpfte Feder (Neigung sowie Stauchen und Strecken), die von der Beschleunigung der Kugel angetrieben wird. Je höher und weicher, desto stärker das Wackeln. Beruhigt sich nach etwa 2 Sekunden
+- Fallen: echte Schwerkraft beim Fall, einfache starre Scherben, Flüssigkeit als Partikel, Jelly wird beim Aufprall gestaucht und federt zurück
+- 60 fps auf einem normalen Laptop
+
+LEERLAUF UND DEMO
+- Beim Laden: Tag, abgesetzter Schnee, langsame automatische Umkreisung der Kugel. Allein das sollte als sauberer 20-Sekunden-Beauty-Shot funktionieren
+- Drücke D für eine festgelegte Demo mit festem Zufalls-Seed, damit jeder Durchlauf identisch ist. Die Schaltflächen leuchten beim Drücken auf, damit der Betrachter sieht, was passiert:
+  0 s langsame Umkreisung
+  5 s Schütteln
+  12 s Nacht
+  18 s Hineingehen, den Platz ansehen, der Zug fährt vorbei
+  26 s nach oben zur Kuppel und zum riesigen Raum blicken
+  29 s die Katzenpfote tippt gegen das Glas
+  36 s Hinausgehen
+  40 s Fallen lassen
+  44 s bis 52 s langsame Fahrt auf das Wrack zu, Tropfen laufen über die Linse
+
+LETZTER SCHRITT: ECHTZEIT UND API-KOSTEN
+Erledige dies als allerletzten Schritt, direkt vor deiner abschließenden Antwort. Verwende echte Zahlen aus deinem eigenen Sitzungsprotokoll, schätze nicht.
+
+1. Finde dein Sitzungsprotokoll auf dem Datenträger: die Datei, die deine Run-ID enthält
+- Claude (Claude Code, Cowork): eine .jsonl-Datei unter ~/.claude/projects/. Protokolle von Sub-Agenten können in einem Unterordner mit demselben Namen liegen; beziehe sie ein
+- Codex: Rollout-.jsonl-Dateien unter ~/.codex/sessions/
+2. Zeit: vom ersten bis zum letzten Zeitstempel im Protokoll. Wenn das Protokoll keine Zeitstempel enthält, verwende die Startzeit aus run-log.txt bis jetzt
+3. Tokens
+- Claude-Protokolle: Jede API-Antwort enthält message.usage mit input_tokens, cache_creation_input_tokens (falls vorhanden in cache_creation aufgeteilt in 5 Minuten und 1 Stunde), cache_read_input_tokens und output_tokens. Dieselbe Antwort wird in mehreren Zeilen wiederholt, eine pro Content-Block; zähle jede message id nur einmal
+- Codex-Protokolle: Verwende die letzten kumulierten token_count-Gesamtwerte. Zwischengespeicherte Eingaben sind normalerweise in input enthalten, und Reasoning-Tokens werden als Output abgerechnet: Zähle nichts doppelt
+4. Berechne die Kosten für jede Anfrage anhand der folgenden Tabelle. Wenn ein Modell nicht in der Tabelle enthalten ist, verwende die offizielle Preisseite des Anbieters und gib die URL an
+
+PREISE, USD pro Million Tokens (Claude API, https://t.co/MumWcfinp3, geprüft am 12. Okt. 2026)
+Modell | Eingabe | Cache-Schreiben 5 Min. | Cache-Schreiben 1 Std. | Cache-Lesen | Ausgabe
+Opus 5.5 | 4 | 5 | 8 | 0.20 | 20
+Sonnet 5.5 | 2 | 2.50 | 4 | 0.10 | 10
+Haiku 5.5, Prompt bis 100k | 0.10 | 0.125 | 0.20 | 0.01 | 0.50
+Haiku 5.5, Prompt über 100k | 0.50 | 0.625 | 1 | 0.05 | 2.50
+- Die Haiku-Stufe wird pro Anfrage bestimmt: Promptgröße = Tokens für Eingabe + Cache-Schreiben + Cache-Lesen dieser Anfrage
+- Wenn usage die Geschwindigkeit „fast“ anzeigt (nur Opus): 8 $ Eingabe, 40 $ Ausgabe. Wenn inference_geo „us“ ist: Multipliziere alles mit 1,1
+
+5. Wenn das Protokoll komprimiert wurde und frühere Nutzung fehlt, entnimm sie den Checkpoints in run-log.txt und addiere sie zu den verbleibenden Werten im Protokoll, ohne etwas doppelt zu zählen
+6. Speichere cost-report.txt neben der HTML-Datei und füge den Inhalt in deine abschließende Antwort ein:
+MODEL: exakter Modellname aus dem Protokoll
+TIME: X Std. Y Min. (Zeitstempel für Beginn und Ende)
+API REQUESTS: Anzahl der eindeutigen Antworten
+TOKENS: Eingabe / Cache-Schreiben 5 Min. / Cache-Schreiben 1 Std. / Cache-Lesen / Ausgabe
+COST: Dollar pro Kategorie und GESAMT
+SOURCE: Pfad zur Protokolldatei sowie run-log.txt, falls Checkpoints verwendet wurden
+Wenn du das Protokoll nicht finden konntest, kennzeichne jede Zahl als ESTIMATE und erkläre, wie du sie ermittelt hast. Beachte, dass diese abschließende Antwort selbst noch nicht im Protokoll enthalten ist.
+
+Gib in deiner abschließenden Antwort außerdem einen kurzen Bericht aus: Was basiert auf echter Physik, was ist simuliert, sowie die wichtigsten Zahlen (Flocken, Objekte, Beruhigungszeit, Dateigröße, Three.js-Version und Renderer).
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/interactive-jelly-snow-globe-village) · [Originalbeitrag](https://x.com/theparuchh/status/2110046350142235020) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="2110054195734982817"></a>
 
 ### Alter steinerner Leuchtturm auf einer felsigen Klippe in der Abenddämmerung
@@ -3752,95 +3863,6 @@ Einen neuen Jelly-Villa-Prompt mit Credit für jared veröffentlichen, den urspr
 
 ---
 
-<a id="odd-arms"></a>
-
-### ODD ARMS — Survival-Game mit verrückten Waffen
-
-[Deniffer](https://x.com/lumina__team) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/odd-arms"><img src="../assets/previews/504c296e723fc1d371ab475b1849a547d862e14632b5962ee62c0edc16783749.jpg" width="840" loading="lazy" alt="ODD ARMS — Survival-Game mit verrückten Waffen"></a>
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/odd-arms"><img src="../assets/previews/c091163cb03e4b2e888533cdae55a69d2a2adb5b8d7d511d5dbe9f42b48e477c.jpg" width="840" loading="lazy" alt="ODD ARMS — Survival-Game mit verrückten Waffen"></a>
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/odd-arms"><img src="../assets/previews/8704479f463f4966b9d420060a8fe4ebb55f0f195750cab2cfad225dcb31e52f.jpg" width="840" loading="lazy" alt="ODD ARMS — Survival-Game mit verrückten Waffen"></a>
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/odd-arms"><img src="../assets/previews/846d08bd92f3243dce5a7a5313cd4978c94613e86cabcd0ef2c99c434954f93b.jpg" width="840" loading="lazy" alt="ODD ARMS — Survival-Game mit verrückten Waffen"></a>
-
-Entwickle ein dreiminütiges Three.js-Survival-Game, in dem ein Spielzeugheld mit Bananenklingen, Toastern und Saugglocken auf einer Werkbank gegen Aufziehmonster kämpft. Spieler können in Tripo Studio ihren eigenen Helden oder ihre eigene Waffe erstellen, die GLB-Datei importieren und direkt losspielen.
-
-**Prompt**
-
-```text
-# ODD ARMS — Deine Idee. Dein Held.
-
-## 1. Ziel
-Die gesamte Spieloberfläche bleibt auf Englisch (Japanisch kann optional über einen Sprachumschalter hinzugefügt werden).
-Entwickle ein vollständiges dreiminütiges Browser-Survival-Game im Genre „Auto-Attack-Horde“: Der Spieler wählt einen Held im Spielzeugformat und zwei wunderbar verrückte Waffen und überlebt 180 Sekunden lang Monsterschwärme auf der Werkbank eines Bastlers. Die Waffen greifen automatisch an; der Spieler bewegt sich nur, führt Dashes aus, sammelt Kristalle, wählt Upgrades und feuert eine aufgeladene Nova. Der persönliche Clou: Spieler können in Tripo ihren eigenen Helden oder ihre eigene Waffe erstellen, die GLB-Datei herunterladen und ins Spiel einfügen. Verwende https://odd-arms.tripo.page/ und die bereitgestellten Referenzen für das fertige Ergebnis. Nenne Deniffer unter https://x.com/lumina__team.
-
-## 2. Visuelle Ausrichtung
-Inszeniere das Spiel als Miniatur-Spielzeugdiorama aus einer festen schrägen Top-down-Kamera, die dem Helden folgt. Das Spielfeld ist eine dunkelmarineblaue Schneidematte mit dezentem Raster und aufgedruckten „ODD ARMS“-Markierungen in den Ecken, die auf einem warmen Holztisch liegt. Der Tischrand ist mit übergroßen Bastelutensilien vollgestellt (Garnrollen, verzierte Schachteln mit Messingrosetten, eine Werkzeugrolle aus Leder, eine Messing-Schreibtischlampe, eine hölzerne Spielzeugeisenbahn und Spielzeugteile), damit die Arena wie eine echte Tischplatte wirkt. Verwende warmes Hauptlicht von der Seite der Lampe, weiches Umgebungslicht, Kontaktschatten und ein dezentes Bloom. Die Figuren sind glänzend, klobig und im Stil von Sammelfiguren gehalten, mit gesättigten Farben.
-
-UI: cremeweiße Karten mit abgerundeten Ecken, marineblauer Schrift und korallorangefarbenem Akzent; eine fette, schmale Display-Schrift für Überschriften („LET'S MAKE SOME TROUBLE.“) und eine klare schmale Sans-Serif-Schrift für Fließtext. Im Kampf: Lebenspunktekarte oben links, darunter der Streak-Zähler, „SURVIVE THE WEIRD“ als Countdown oben in der Mitte, Wellenbezeichnung sowie Sound, Einstellungen und Pause oben rechts, die Zahl besiegter Gegner rechts, Level-/XP-Pill unten in der Mitte, drei Waffen-Chips (Orbit / Returning / Shooter mit Leveln) unten links, Steuerung und Dash-Abklingzeit unten rechts sowie die „Q NOVA READY!“-Pill darüber. Feedback: Schadenszahlen, kritische Treffer, Squash-and-Stretch bei Gegnern, Rückstoß, Partikel-Pop-Effekte und ein leichtes Kamerawackeln (Wackeln deaktivieren, wenn prefers-reduced-motion gesetzt ist).
-
-## 3. Welt
-Eine quadratische Arena; der Held wird auf beiden Achsen auf ±23 Einheiten begrenzt. Die Schneidematte füllt das Spielfeld, während Tisch und Requisiten außerhalb der Begrenzung nur als Kulisse dienen (keine Kollision). Die Arena startet leer und füllt sich von den Rändern: Gegner erscheinen auf einem Ring in 12–16 Einheiten Entfernung zum Helden (im ersten Sekunden 8–11) und laufen direkt auf ihn zu. Alle 22 Sekunden erzeugt eine Welle einen vollständigen Kreis aus Gegnern im Radius 13. Rote Warnkreise erscheinen unter der aktuellen Position des Helden (der erste nach 28 s, danach alle max(4.4, 9 − t/50) s) und explodieren nach 2 s.
-
-## 4. Asset-Inventar
-Bereite stabile Modell-Slots vor. Jeder Slot muss eine einzelne GLB-Datei laden, zentriert werden, automatisch auf eine Zielhöhe skaliert werden und bei einem Ladefehler auf einen einfachen Platzhalter zurückfallen.
-
-Helden (10, `hero:<id>`), jeweils als klobige Spielfigur mit unverwechselbarer Silhouette:
-- `cat` Astro Cat — orangefarbener Tabby im weißen Raumanzug mit Glashelm. HP 100, Geschwindigkeit 6.8, Magnet ×1.35, Dash-Abklingzeit 2.4 s.
-- `frog` Frog Fighter — grüner Frosch mit roten Boxhandschuhen. HP 130, Geschwindigkeit 6.8, Dash-Schaden 135.
-- `shroom` Mushroom Hero — Pilz mit rotem Hut und kleinem Umhang. HP 90, Geschwindigkeit 7.6, Dash 1.8 s.
-- `capybara` Chill Capybara — entspanntes Capybara aus einer heißen Quelle. HP 160, Geschwindigkeit 5.8, Magnet ×1.15, Dash 3 s, Dash-Schaden 110.
-- `ramen` Ramen Ronin — Samurai mit einer dampfenden Ramen-Schüssel. HP 105, Geschwindigkeit 7.2, Dash 2.2 s, Dash-Schaden 120.
-- `penguin` Office Penguin — Pinguin mit Hemd und Krawatte. HP 80, Geschwindigkeit 7.1, Dash 1.5 s, Dash-Schaden 75.
-- `axolotl` Axolotl — rosa Axolotl auf Entdeckungstour. HP 85, Geschwindigkeit 7.3, Magnet ×1.6, Dash-Schaden 75.
-- `avocado` Avo Boxer — Avocado-Boxer mit einem Kern als Körpermitte. HP 120, Geschwindigkeit 6.4, Dash 2.1 s, Dash-Schaden 130.
-- `robot` Clockwork Bot — Aufziehroboter aus Blech mit Schlüssel. HP 115, Geschwindigkeit 6.2, Dash 2.8 s, Dash-Schaden 165.
-- `snail` Snail Knight — ritterliche Schnecke mit einem hausgroßen Schneckenhaus. HP 190, Geschwindigkeit 5.2, Magnet ×1.2, Dash 3.2 s, Dash-Schaden 120.
-Der Standardschaden des Dashes beträgt 90, sofern kein anderer Wert angegeben ist.
-
-Waffen (12, `weapon:<id>`), nach Angriffsslot gruppiert:
-- Orbit: `sardine` Sardine Chainsaw (3 Fische, Radius 2.9, Schaden 1, Geschwindigkeit 1.2); `cactus` Cactus Club (2 Keulen, Radius 3.3, Schaden 1.65, Geschwindigkeit 0.78, Trefferradius 1.25, Rückstoß 1.5); `plunger` Plunger Patrol (4 Saugglocken, Radius 2.25, Schaden 0.85, Geschwindigkeit 1.5).
-- Returning: `banana` Banana Blades (2, Schaden 1, Geschwindigkeit 1.25); `pizza` Pizza Cutter (1 große Scheibe, Schaden 1.5, Geschwindigkeit 0.82, Trefferradius 1.65); `croissant` Croissant Blades (3, Schaden 0.75, Geschwindigkeit 1.45); `boomerang` Boomerang (1, Schaden 1.15, Geschwindigkeit 1.6); `donut-disc` Donut Disc (1, Schaden 1.5, Geschwindigkeit 0.9, Trefferradius 1.3).
-- Shooter: `duck` Duck Rocket (zielsuchend, Flächenschaden 2, Intervall 0.42 s); `toaster` Angry Toaster (durchdringender Fächer aus 3 Schüssen, Schaden 0.7); `teapot` Raging Teapot (2 langsame Schüsse, Flächenschaden 2.8, Intervall 0.8 s); `bubble-gun` Bubble Gun (2 durchdringende Blasen, Schaden 0.45, Intervall 0.3 s).
-Standardausrüstung: Astro Cat, Banana Blades, Angry Toaster; die Orbit-Waffe wird beim ersten Upgrade freigeschaltet.
-
-Gegner (3, `enemy:<id>`), Aufziehspielzeug-Monster: `red-chomper` (rotes, rundes Beißspielzeug, Standard, 30 HP Basiswert, Geschwindigkeit 2.35), `spring-rabbit` (gelbes Kaninchen mit Sprungbeinen, schnell, 23 HP Basiswert, Geschwindigkeit 3.5), `crown-bear` (großer Flickenteppich-Bär mit Krone, Tank, 130 HP Basiswert, Geschwindigkeit 1.7, erscheint nach 60 s mit 17 %, lässt 3 XP fallen).
-
-Szenenrequisiten (`prop:<id>`): Werkbank, Rahmen und Eckplatten der Schneidematte, Schreibtischlampe, Spielzeugeisenbahn, Garnrollen, verzierte Rosettenschachteln, Werkzeugrolle, Schale mit Spielzeugteilen. Matte, Raster, Kristalle, Projektile, Warnkreise, Partikel, Lichter und UI bleiben prozedural.
-
-## 5. Gameplay und Feedback
-Ablauf: Charakter → Ausrüstung (eine Returning- plus eine Shooter-Waffe) → Bereit (3D-Drehteller-Vorschau des Helden mit den gewählten Waffen, per Drag drehen) → „Let's play“. Jeder Onboarding-Schritt zeigt nur die jeweilige Kategorie sowie Beschreibung, Spielstil und Schwächen. Die letzte Ausrüstung wird gespeichert.
-
-Steuerung: WASD/Pfeiltasten zum Bewegen; mit der Leertaste wird in Bewegungsrichtung gedasht (Geschwindigkeit ×3.7, kurzzeitige Unverwundbarkeit, fügt Gegnern innerhalb von 2 Einheiten einmal pro Dash Schaden zu); Q feuert eine Nova, sobald die Energie 100 erreicht (Radius 11, 200 Schaden, starker Rückstoß, zieht Kristalle an); mit 1/2/3 oder per Klick Upgrades auswählen; Esc pausiert; bei Verlust des Fensterfokus automatisch pausieren. Mobil: linker virtueller Analog-Stick, rechts Dash- und Nova-Schaltflächen mit Ringen für Abklingzeit bzw. Aufladung, Multitouch für die gleichzeitige Nutzung von Stick und Schaltflächen; Upgrades befinden sich im Hochformat über dem Stick und im Querformat zwischen den Daumen.
-
-Regeln: Gegner-HP = Basiswert × (1 + t/260) × 1.3. Spawn-Intervall max(0.18, 0.52 − 0.0016·t) s, maximal 180 Gegner. Kontakt-Schaden 9 (18 beim Bären), nach einem Treffer 0.85 s Unverwundbarkeit. Jeder Kill gibt 2 Energie und lässt einen Kristall fallen; jeder neunte Treffer pro Waffe ist ein kritischer Treffer mit ×1.7. Eine 25-Kill-Serie löst 5 s Raserei aus (Angriffsgeschwindigkeit ×1.65, 13 s Abklingzeit); erlittenen Schaden setzt die Serie zurück. XP bis zum nächsten Level: 20, danach round(need × 1.4 + 10). Levelaufstiege pausieren das Spiel nie, sondern werden als nicht blockierende Auswahlkarten in eine Warteschlange gestellt. Das erste Upgrade bietet die drei Orbit-Waffen; danach werden drei dieser Optionen angeboten: Orbit overload (+1 Orbiter bis maximal 7, +22 % Schaden), Another round (schnellere, längere und stärkere Rückkehr), Full blast (schnelleres Feuern, +20 % Schaden, mehr Projektile), Live a little (+10 % Geschwindigkeit, +30 HP). Jede Auswahl heilt 8 HP.
-
-Ende: 180 s überleben → „Beautifully weird. You made it.“; HP 0 → „That was a glorious mess.“ Beide Ergebnisse zeigen die Zahl besiegter Gegner, die beste Kill-Serie und die Überlebenszeit sowie „Run it back“ / „Change loadout“ und den Prompt zum Erstellen eigener Inhalte.
-
-Mach es zu deinem Spiel: Über die Ausrüstungs-, Pausen- und Ergebnisbildschirme öffnet „Create my hero / weapon in Tripo“ https://studio.tripo3d.ai/ in einem neuen Tab; „Import GLB“ lädt eine lokale .glb-Datei (≤15 MB, nur eingebettete Texturen, Parsing im Browser, niemals Upload), zentriert und skaliert sie und ersetzt nur das Aussehen des ausgewählten Helden oder der ausgewählten Waffe, während die Werte erhalten bleiben. Zeige klare Fehlermeldungen für ungültige Dateien und behalte das Originalmodell bei.
-
-Modelle vergleichen: Ein Header-Umschalter „Tripo3D ⇄ Simple3D (Blender)“ ersetzt jeden Helden, jede Waffe, jeden Gegner und jedes Requisit durch ein passendes Set einfacher Grundformen, ohne den Lauf zurückzusetzen. Lade das gesamte alternative Set vor dem Wechsel; schlägt eine Datei fehl, bleibt das aktuelle Set erhalten.
-
-## 6. Technische Umsetzung
-Vite + Vanilla-JavaScript + Three.js mit GLTFLoader, RoomEnvironment-Beleuchtung und ACES-Tonemapping. Halte die Simulation in einem reinen Modul mit fester Zeitschrittweite und injizierbarer Zufallsquelle, damit vollständige Läufe in Tests simuliert werden können; der Renderer liest ausschließlich den Zustand. Jede GLB-Datei einmal cachen und für Instanzen klonen; für wiederholte Ornamente Instancing oder LODs verwenden. Pixelverhältnis begrenzen (1.5 auf Mobilgeräten, bei dichten Wellen auf 1 reduzieren), Schatten höchstens 30-mal pro Sekunde aktualisieren und HUD-Text nur bei Wertänderungen aktualisieren. Kollisionen (einfache Kreise) von visuellen Meshes trennen. Schriften, Modelle und Texturen same-origin bündeln, damit der Build ein statischer Ordner ist. Desktop- und Smartphone-Browser ab 320 px Breite unterstützen, einschließlich Smartphones im Querformat und Safe Areas. Die Modellkomplexität soll der Darstellung auf dem Bildschirm folgen; kein festes Polygonlimit.
-
-## 7. Fertig, wenn
-- Der vollständige Ablauf funktioniert: Onboarding, Kampf bis zum Sieg und bis zur Niederlage, Pausieren/Fortsetzen, Neustart mit derselben Ausrüstung und Ausrüstung wechseln.
-- Alle 10 Helden und 12 Waffen werden geladen und verhalten sich gemäß den oben genannten Werten; ein 180-s-Lauf mit jeder Ausrüstung endet ohne Fehler.
-- Tastatur- und Touch-Steuerung funktionieren, einschließlich der gleichzeitigen Nutzung von Analog-Stick und Dash.
-- Der GLB-Import ersetzt das Aussehen des ausgewählten Helden oder der ausgewählten Waffe und weist fehlerhafte Dateien ordnungsgemäß zurück.
-- Der Tripo3D-/Simple3D-Umschalter ersetzt während des Laufs alle Modelle.
-- Start-, Kampf- und Ergebnisbildschirme entsprechen den Referenzen; liefere den ausführbaren Quellcode, den Startbefehl und einen statischen Production-Build.
-
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/odd-arms) · [Originalbeitrag](https://odd-arms.tripo.page/) · [Live-Demo](https://odd-arms.tripo.page/) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
 <a id="red-light-green-light"></a>
 
 ### Rot, grünes Licht: 3D-Survival-Game
@@ -3958,7 +3980,7 @@ Prüfe den Auftakt, beide Figurenporträts, die Kollision, die Seenotsignale, al
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 352 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 353 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>

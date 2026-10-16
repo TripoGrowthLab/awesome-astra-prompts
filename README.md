@@ -29,7 +29,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**352 examples · 14 languages · 12 examples with source code**
+**353 examples · 14 languages · 12 examples with source code**
 
 ## Featured projects
 
@@ -138,6 +138,7 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Plush Penguin WebGPU Material Study](#2109288662319919127)
 - [Plush Octopus Interactive WebGPU Experience](#2109323102912156142)
 - [Torii at High Tide interactive shrine diorama](#2110014604524896392)
+- [Interactive jelly snow globe village](#2110045415412281495)
 - [Old stone lighthouse on a rocky cliff at dusk](#2110054195734982817)
 - [3D Flappy Bird-style tropical game](#2110069699597971828)
 - [Exploded view of a Rolex inspired watch](#2110070382002921482)
@@ -148,7 +149,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Crazy Tanks — 3D Island Artillery](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: 24-Level 3D Mining Game](#golden-miner)
 - [Jelly Villa](#jelly-villa)
-- [ODD ARMS — Weird Weapons Survival Game](#odd-arms)
 - [Red Light, Green Light: 3D Survival Game](#red-light-green-light)
 - [TITANIC — The Last Light](#titanic-the-last-light)
 
@@ -3249,6 +3249,117 @@ Brand "shiosai°" with a small torii mark, headline "A gate that / stands in the
 
 ---
 
+<a id="2110045415412281495"></a>
+
+### Interactive jelly snow globe village
+
+[Paruchh](https://x.com/theparuchh) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/3d-prompts/interactive-jelly-snow-globe-village"><img src="assets/previews/babdc040c775ff28d6495632d3b86ad9a8b1501a5021b968dfa364eb965066fa.jpg" width="840" loading="lazy" alt="Interactive jelly snow globe village"></a>
+
+A complete author-supplied prompt for a self-contained Three.js interactive snow globe: a jelly winter village can be shaken, switched to night mode, explored from inside, and dropped onto a table. The root post frames the task as a GPT-6 Astra comparison, while the author comment specifically says the shown video was made by Sonnet 5.5; it does not establish that the attached video is GPT-6 Astra output.
+
+**Prompt**
+
+```text
+SHAKE WELL
+
+Build one self-contained HTML file, shake-well.html: a glass snow globe on a table with a tiny winter village inside, made of jelly. Original design only: no real brands, logos, characters or text from real products. Open it and check it runs before you finish.
+
+THREE.JS ONLY
+- All rendering goes through Three.js: import exactly three@0.180.0 from a CDN with an import map and use WebGLRenderer
+- Only Three.js and its official addons (three/addons: OrbitControls, EffectComposer, bloom, depth of field, RoomEnvironment and so on). No other libraries
+- No raw WebGL or WebGPU code: no getContext, no direct gl calls. Custom shaders only through Three.js materials (ShaderMaterial or onBeforeCompile)
+- All physics and motion are your own plain JavaScript. No physics libraries, no external models or textures, all geometry and materials procedural
+
+FIRST STEP, BEFORE ANYTHING ELSE
+Run a shell command that creates a unique run ID and the current time, and saves both to run-log.txt next to your HTML. Print the run ID once in your reply. You will need it at the end to find your own session log.
+After every major step (globe, village, room, each toy, demo), read your session log and append the running token totals and the current time to run-log.txt. If your context gets compacted, these checkpoints keep the earlier usage.
+
+The picture matters most. It should look like a high-end product shot of a handmade collectible.
+
+THE GLOBE
+- A large glass sphere on a turned dark-walnut base with a thin brushed-brass ring. The glass is perfectly clear and thick at the edges, with two soft rectangular studio highlights and a thin bright rim where it curves away
+- The globe is filled with clear liquid. The village looks slightly magnified through it, like a real lens, and bends at the edges
+- A small air bubble is trapped at the very top and always slides to the highest point when the globe tilts
+- About 6000 white flakes float inside, plus a few hundred tiny gold glitter specks that flash when they turn to the light
+
+THE VILLAGE (all jelly)
+- A small snowy hill fills the bottom of the globe. Every building, tree and figure is glossy translucent jelly, like gummy candy: raspberry, tangerine, lemon, mint, blueberry, grape. Light passes through and glows softly inside them, with sharp wet highlights and a few tiny frozen air bubbles in each piece
+- 8 to 10 small houses with steep roofs, round windows and chimneys around a little square. In the center: a clock tower with a bell and a round clock face
+- A frozen pond of pale blue jelly ice with three tiny skaters gliding in slow loops. A creek with an arched bridge. A snowman. A ring of dark-green jelly pines with white snow tips
+- A tiny jelly train (engine plus three cars, round headlight) runs on a loop track around the village, forever
+- Snow on roofs and ground is soft matte white, like powdered sugar, contrasting with the glossy jelly
+
+THE ROOM
+- Calm and clean, studio-like. A warm wooden tabletop, a soft contact shadow under the base, a dark dusty-blue backdrop with a few out-of-focus warm bokeh lights far behind
+- Warm key light from the upper left, cool fill from the right, a rim light that outlines the glass
+- The globe is centered and fills about 70% of the frame height. It must read well in a square crop and in a portrait 9:16 crop. The background stays soft so the globe pops
+
+TOYS (small pill buttons at the bottom, minimal UI, keys 1 to 5)
+1. Shake. The globe jolts and tilts, the snow explodes into a swirling blizzard, the jelly houses wobble a beat late (tall ones more), then everything settles. You can also shake it by hand: drag on the globe, a harder drag gives a stronger shake. Drag elsewhere to orbit
+2. Night. The room fades to deep blue. Windows, path lanterns, the clock face and the train headlight turn on and glow warm through the jelly. The globe becomes a lantern and throws a soft warm pool of light onto the table under it
+3. Step Inside. The camera dives into the globe, passes through the glass with a short refraction ripple and lands in the village square at the height of a tiny villager. Snow falls around you, jelly houses tower overhead, the train rolls past. Look up: the curved glass dome and, beyond it, the giant warped room. Drag to look around, WASD to walk around the square. Pressing Shake from inside: a giant soft grey cat paw taps the glass from outside, blurry and enormous, and the whole world lurches. The button becomes Step Out
+4. Drop (outside only). The globe lifts off its base a hand's height and falls onto the table. The glass shatters into curved shards, the liquid bursts out in a splash toward the camera, and a few drops land on the lens and slowly run down the screen. The jelly houses bounce out, wobble and stay intact. Snow spills across the table. The tiny train keeps chugging in circles on the table. The bell rings once
+5. Reset
+
+PHYSICS (real but light)
+- Snow: each flake sinks at its own slow terminal speed and is carried by the liquid. The liquid lags behind the glass when the globe moves, so a shake creates a swirl that decays over time. Flakes that land rest on roofs and ground and get lifted again by the next shake. Full settle in about 15 to 20 seconds
+- Jelly: every object is a damped spring (lean plus squash and stretch) driven by the globe's acceleration. Taller and softer means bigger wobble. Settles in about 2 seconds
+- Drop: real gravity for the fall, simple rigid shards, liquid as particles, jelly squashes and bounces on impact
+- 60 fps on a normal laptop
+
+IDLE AND DEMO
+- On load: daytime, snow settled, a slow auto-orbit around the globe. This alone should work as a clean 20-second beauty shot
+- Press D for a fixed demo with a fixed random seed, so every run is identical. Buttons light up as they are pressed so the viewer sees what happens:
+  0s slow orbit
+  5s Shake
+  12s Night
+  18s Step Inside, look around the square, the train passes
+  26s look up at the dome and the giant room
+  29s the cat paw taps the glass
+  36s Step Out
+  40s Drop
+  44s to 52s slow push-in on the wreck, drops running down the lens
+
+LAST STEP: REAL TIME AND API COST
+Do this as the very last step, right before your final reply. Use real numbers from your own session log, do not estimate.
+
+1. Find your session log on disk: the file that contains your run ID
+- Claude (Claude Code, Cowork): a .jsonl file under ~/.claude/projects/. Sub-agent logs, if any, may sit in a subfolder with the same name; include them
+- Codex: rollout .jsonl files under ~/.codex/sessions/
+2. Time: from the first to the last timestamp in the log. If the log has no timestamps, use run-log.txt start time to now
+3. Tokens
+- Claude logs: every API response has message.usage with input_tokens, cache_creation_input_tokens (split into 5-minute and 1-hour in cache_creation when present), cache_read_input_tokens and output_tokens. The same response is repeated on several lines, one per content block, so count each message id only once
+- Codex logs: take the last cumulative token_count totals. Cached input is usually included inside input, and reasoning tokens are billed as output: do not count anything twice
+4. Price every request with the table below. For a model not in the table, use your vendor's official pricing page and give the URL
+
+PRICES, USD per million tokens (Claude API, https://t.co/MumWcfinp3, checked 12 Oct 2026)
+model | input | cache write 5m | cache write 1h | cache read | output
+Opus 5.5 | 4 | 5 | 8 | 0.20 | 20
+Sonnet 5.5 | 2 | 2.50 | 4 | 0.10 | 10
+Haiku 5.5, prompt up to 100k | 0.10 | 0.125 | 0.20 | 0.01 | 0.50
+Haiku 5.5, prompt over 100k | 0.50 | 0.625 | 1 | 0.05 | 2.50
+- Haiku's tier is decided per request: prompt size = input + cache write + cache read tokens of that request
+- If usage shows speed "fast" (Opus only): $8 input, $40 output. If inference_geo is "us": multiply everything by 1.1
+
+5. If the log was compacted and earlier usage is missing, take it from the checkpoints in run-log.txt and add it to what remains in the log, without counting anything twice
+6. Save cost-report.txt next to the HTML and paste it in your final reply:
+MODEL: exact model name from the log
+TIME: Xh Ym (start and end timestamps)
+API REQUESTS: number of unique responses
+TOKENS: input / cache write 5m / cache write 1h / cache read / output
+COST: dollars per category and TOTAL
+SOURCE: path to the log file, plus run-log.txt if checkpoints were used
+If you could not find the log, mark every number ESTIMATE and explain how you got it. Note that this final reply itself is not in the log yet.
+
+Also in your final reply, a short report: what is real physics, what is faked, key numbers (flakes, objects, settle time, file size, Three.js version and renderer).
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/interactive-jelly-snow-globe-village) · [Original post](https://x.com/theparuchh/status/2110046350142235020) · [Back to examples](#all-prompts)
+
+---
+
 <a id="2110054195734982817"></a>
 
 ### Old stone lighthouse on a rocky cliff at dusk
@@ -3753,95 +3864,6 @@ Publish a new jelly-villa prompt credited to jared, with the original author in 
 
 ---
 
-<a id="odd-arms"></a>
-
-### ODD ARMS — Weird Weapons Survival Game
-
-[Deniffer](https://x.com/lumina__team) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/3d-prompts/odd-arms"><img src="assets/previews/504c296e723fc1d371ab475b1849a547d862e14632b5962ee62c0edc16783749.jpg" width="840" loading="lazy" alt="ODD ARMS — Weird Weapons Survival Game"></a>
-
-<a href="https://www.tripo3d.ai/3d-prompts/odd-arms"><img src="assets/previews/c091163cb03e4b2e888533cdae55a69d2a2adb5b8d7d511d5dbe9f42b48e477c.jpg" width="840" loading="lazy" alt="ODD ARMS — Weird Weapons Survival Game"></a>
-
-<a href="https://www.tripo3d.ai/3d-prompts/odd-arms"><img src="assets/previews/8704479f463f4966b9d420060a8fe4ebb55f0f195750cab2cfad225dcb31e52f.jpg" width="840" loading="lazy" alt="ODD ARMS — Weird Weapons Survival Game"></a>
-
-<a href="https://www.tripo3d.ai/3d-prompts/odd-arms"><img src="assets/previews/846d08bd92f3243dce5a7a5313cd4978c94613e86cabcd0ef2c99c434954f93b.jpg" width="840" loading="lazy" alt="ODD ARMS — Weird Weapons Survival Game"></a>
-
-Build a three-minute Three.js survival game where a toy hero with banana blades, toasters and plungers fights wind-up monsters on a workbench. Players can create their own hero or weapon in Tripo Studio and import the GLB to play.
-
-**Prompt**
-
-```text
-# ODD ARMS — Your idea. Your hero.
-
-## 1. Goal
-Keep all game UI in English (add Japanese as an optional language switch).
-Build a complete three-minute browser survival game in the "auto-attack horde" genre: the player picks a toy-sized hero and two wonderfully weird weapons, then survives 180 seconds of monster swarms on a craftsman's workbench. Weapons attack automatically; the player only moves, dashes, collects crystals, picks upgrades and fires a charged nova. The hook is personal: players can create their own hero or weapon in Tripo, download the GLB and drop it into the game. Use https://odd-arms.tripo.page/ and the supplied references for the finished result. Credit Deniffer at https://x.com/lumina__team.
-
-## 2. Visual direction
-Frame the game as a miniature toy diorama seen from a fixed three-quarter top-down camera that follows the hero. The playfield is a deep navy cutting mat with a faint grid and printed "ODD ARMS" corner marks, laid on a warm wooden desk. The desk rim is crowded with oversized craft props (thread spools, ornate brass-rosette boxes, a leather tool roll, a brass desk lamp, a wooden toy train, toy parts) so the arena reads as a real tabletop. Use warm key light from the lamp side, soft ambient fill, contact shadows and gentle bloom; characters are glossy, chunky, collectible-figure style with saturated colours.
-
-UI: cream-white rounded cards with navy text and a coral-orange accent, a heavy condensed display font for headlines ("LET'S MAKE SOME TROUBLE.") and a clean condensed sans for body. In battle: health card top-left, streak counter under it, "SURVIVE THE WEIRD" countdown top-centre, wave label + sound + settings + Pause top-right, defeated count right, level/XP pill bottom-centre, three weapon chips (orbit / returning / shooter with levels) bottom-left, controls + dash cooldown bottom-right, "Q NOVA READY!" pill above it. Juice: damage numbers, crits, squash-and-stretch enemies, knockback, pop particles, light camera shake (disable shake when prefers-reduced-motion is set).
-
-## 3. World
-One square arena, clamp the hero to ±23 units on both axes. The cutting mat fills the play area; the desk and props sit outside the clamp as scenery only (no collision). The arena starts empty and fills from the edges: enemies spawn on a ring 12–16 units from the hero (8–11 in the first second) and walk straight at the hero. Every 22 seconds a surge spawns a full circle of enemies at radius 13. Red warning circles appear under the hero's current position (first at 28 s, then every max(4.4, 9 − t/50) s) and explode after 2 s.
-
-## 4. Asset inventory
-Prepare stable model slots; every slot must load a single GLB, be centred, auto-scaled to a target height, and fall back to a simple placeholder if loading fails.
-
-Heroes (10, `hero:<id>`), each a chunky toy figure with a distinct silhouette:
-- `cat` Astro Cat — orange tabby in a white space suit and glass helmet. HP 100, speed 6.8, magnet ×1.35, dash cooldown 2.4 s.
-- `frog` Frog Fighter — green frog in red boxing gloves. HP 130, speed 6.8, dash damage 135.
-- `shroom` Mushroom Hero — red-cap mushroom with a small cape. HP 90, speed 7.6, dash 1.8 s.
-- `capybara` Chill Capybara — relaxed hot-spring capybara. HP 160, speed 5.8, magnet ×1.15, dash 3 s, dash damage 110.
-- `ramen` Ramen Ronin — samurai carrying a steaming ramen bowl. HP 105, speed 7.2, dash 2.2 s, dash damage 120.
-- `penguin` Office Penguin — penguin in a shirt and tie. HP 80, speed 7.1, dash 1.5 s, dash damage 75.
-- `axolotl` Axolotl — pink axolotl explorer. HP 85, speed 7.3, magnet ×1.6, dash damage 75.
-- `avocado` Avo Boxer — avocado boxer with a seed core. HP 120, speed 6.4, dash 2.1 s, dash damage 130.
-- `robot` Clockwork Bot — wind-up tin robot with a key. HP 115, speed 6.2, dash 2.8 s, dash damage 165.
-- `snail` Snail Knight — knightly snail carrying its house-sized shell. HP 190, speed 5.2, magnet ×1.2, dash 3.2 s, dash damage 120.
-Default dash damage is 90 when not listed.
-
-Weapons (12, `weapon:<id>`), grouped by attack slot:
-- Orbit: `sardine` Sardine Chainsaw (3 fish, radius 2.9, dmg 1, speed 1.2); `cactus` Cactus Club (2 clubs, radius 3.3, dmg 1.65, speed 0.78, hit radius 1.25, knockback 1.5); `plunger` Plunger Patrol (4 plungers, radius 2.25, dmg 0.85, speed 1.5).
-- Returning: `banana` Banana Blades (2, dmg 1, speed 1.25); `pizza` Pizza Cutter (1 large disc, dmg 1.5, speed 0.82, hit radius 1.65); `croissant` Croissant Blades (3, dmg 0.75, speed 1.45); `boomerang` Boomerang (1, dmg 1.15, speed 1.6); `donut-disc` Donut Disc (1, dmg 1.5, speed 0.9, hit radius 1.3).
-- Shooter: `duck` Duck Rocket (homing, splash 2, interval 0.42 s); `toaster` Angry Toaster (3-shot piercing fan, dmg 0.7); `teapot` Raging Teapot (2 slow shots, splash 2.8, interval 0.8 s); `bubble-gun` Bubble Gun (2 piercing bubbles, dmg 0.45, interval 0.3 s).
-Default loadout: Astro Cat, Banana Blades, Angry Toaster; orbit weapon is unlocked at the first upgrade.
-
-Enemies (3, `enemy:<id>`), wind-up toy monsters: `red-chomper` (red round biting toy, basic, 30 HP base, speed 2.35), `spring-rabbit` (yellow spring-legged rabbit, fast, 23 HP base, speed 3.5), `crown-bear` (large patchwork bear with a crown, tank, 130 HP base, speed 1.7, appears after 60 s at 17%, drops 3 XP).
-
-Scene props (`prop:<id>`): workbench desk, cutting mat frame and corner plates, desk lamp, toy train, thread spools, ornate rosette boxes, tool roll, toy parts tray. Keep the mat, grid, crystals, projectiles, warning circles, particles, lights and UI procedural.
-
-## 5. Gameplay and feedback
-Flow: Character → Loadout (one returning + one shooter) → Ready (3D turntable preview of hero with chosen weapons, drag to rotate) → "Let's play". Each onboarding step shows only that category with description, playstyle and weakness text. Remember the last loadout.
-
-Controls: WASD/arrows to move; Space dashes in the move direction (speed ×3.7, brief invulnerability, damages enemies within 2 units once per dash); Q fires a nova when energy is 100 (radius 11, 200 damage, strong knockback, pulls in crystals); 1/2/3 or click to choose upgrades; Esc to pause; auto-pause on window blur. Mobile: left virtual joystick (analog), right Dash and Nova buttons with cooldown/charge rings, multi-touch so the joystick and buttons work together; upgrades sit above the joystick in portrait and between thumbs in landscape.
-
-Rules: enemy HP = base × (1 + t/260) × 1.3. Spawn interval max(0.18, 0.52 − 0.0016·t) s, cap 180 enemies. Contact damage 9 (18 from the bear) with 0.85 s invulnerability after a hit. Every kill adds 2 energy and drops a crystal; every 9th hit per weapon crits ×1.7. 25-kill streak triggers a 5 s frenzy (attack speed ×1.65, 13 s cooldown); taking damage resets the streak. XP to level: 20, then round(need × 1.4 + 10). Level-ups never pause the game: they queue as non-blocking choice cards. The first upgrade offers the three orbit weapons; afterwards offer three of: Orbit overload (+1 orbiter up to 7, +22% damage), Another round (faster, longer, stronger returns), Full blast (faster fire, +20% damage, more projectiles), Live a little (+10% speed, +30 HP). Every choice heals 8 HP.
-
-End: survive 180 s → "Beautifully weird. You made it."; HP 0 → "That was a glorious mess." Both show enemies defeated, best streak and time survived, with Run it back / Change loadout and the create-your-own prompt.
-
-Make it yours: from the loadout, pause and result screens, "Create my hero / weapon in Tripo" opens https://studio.tripo3d.ai/ in a new tab; "Import GLB" loads a local .glb (≤15 MB, embedded textures only, parsed in-browser, never uploaded), centres and scales it, and swaps only the look of the selected hero or weapon while keeping its stats. Show clear errors for invalid files and keep the original model.
-
-Compare models: a header toggle "Tripo3D ⇄ Simple3D (Blender)" swaps every hero, weapon, enemy and prop to a matching simple-primitive set without resetting the run. Load the whole alternate set before swapping; if any file fails, keep the current set.
-
-## 6. Technical implementation
-Vite + vanilla JavaScript + Three.js with GLTFLoader, RoomEnvironment lighting and ACES tone mapping. Keep the simulation in a pure, fixed-timestep module with an injectable random source so full runs can be simulated in tests; the renderer only reads state. Cache each GLB once and clone for instances; use instancing or LODs for repeated ornaments. Cap pixel ratio (1.5 on mobile, drop to 1 during dense waves), refresh shadows at most 30 times per second and update HUD text only when values change. Separate collision (simple circles) from visual meshes. Bundle fonts, models and textures same-origin so the build is a static folder. Target desktop and phone browsers, 320 px wide and up, including landscape phones and safe areas. Model complexity should follow on-screen size; no hard polygon limit.
-
-## 7. Done when
-- The full flow works: onboarding, battle to win and to loss, pause/resume, restart with the same loadout, change loadout.
-- All 10 heroes and 12 weapons load and behave per the numbers above; a 180 s run with any loadout finishes without errors.
-- Keyboard and touch controls both work, including joystick plus Dash at the same time.
-- GLB import replaces the chosen hero or weapon look and rejects bad files gracefully.
-- Tripo3D / Simple3D toggle swaps all models mid-run.
-- Opening, mid-battle and result screens match the references; provide runnable source, the start command and a static production build.
-
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/odd-arms) · [Original post](https://odd-arms.tripo.page/) · [Live demo](https://odd-arms.tripo.page/) · [Back to examples](#all-prompts)
-
----
-
 <a id="red-light-green-light"></a>
 
 ### Red Light, Green Light: 3D Survival Game
@@ -3959,7 +3981,7 @@ Inspect the opening, both character portraits, collision, distress rockets, all 
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 352 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 353 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>

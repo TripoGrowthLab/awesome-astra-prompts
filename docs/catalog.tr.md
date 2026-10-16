@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**352 · En yeni Astra istemleri**
+**353 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -137,6 +137,7 @@
 - [Pelüş Penguen WebGPU Malzeme Çalışması](#2109288662319919127)
 - [Pelüş Ahtapot Etkileşimli WebGPU Deneyimi](#2109323102912156142)
 - [Yüksek Gelgitte Torii: Etkileşimli Tapınak Dioraması](#2110014604524896392)
+- [Etkileşimli jel kar küresi köyü](#2110045415412281495)
 - [Alacakaranlıkta kayalık uçurumdaki eski taş deniz feneri](#2110054195734982817)
 - [3B Flappy Bird tarzı tropik oyun](#2110069699597971828)
 - [Rolex esintili saatin patlatılmış görünümü](#2110070382002921482)
@@ -147,7 +148,6 @@
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: 24 Seviyeli 3B Madencilik Oyunu](#golden-miner)
 - [Jöle Villa](#jelly-villa)
-- [ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu](#odd-arms)
 - [Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu](#red-light-green-light)
 - [TITANIC — Son Işık](#titanic-the-last-light)
 
@@ -3313,6 +3313,117 @@ Küçük bir torii işaretine sahip "shiosai°" markası, "A gate that / stands 
 
 ---
 
+<a id="2110045415412281495"></a>
+
+### Etkileşimli jel kar küresi köyü
+
+[Paruchh](https://x.com/theparuchh) · 2026-10-13
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-jelly-snow-globe-village"><img src="../assets/previews/babdc040c775ff28d6495632d3b86ad9a8b1501a5021b968dfa364eb965066fa.jpg" width="840" loading="lazy" alt="Etkileşimli jel kar küresi köyü"></a>
+
+Kendi başına çalışan, etkileşimli bir Three.js kar küresi için yazar tarafından hazırlanmış eksiksiz prompt: İçinde jel kış köyü bulunan küre sallanabilir, gece moduna geçirilebilir, içinden keşfedilebilir ve bir masanın üzerine bırakılabilir. Ana gönderi bu çalışmayı GPT-6 Astra karşılaştırması olarak sunarken yazar yorumu, gösterilen videonun Sonnet 5.5 ile oluşturulduğunu özellikle belirtiyor; ekli videonun GPT-6 Astra çıktısı olduğunu göstermiyor.
+
+**İstem**
+
+```text
+İYİCE SALLA
+
+Tek bir HTML dosyası oluştur: shake-well.html. İçinde jelden yapılmış minik bir kış köyü bulunan, masa üzerindeki cam bir kar küresi olsun. Yalnızca özgün tasarım kullan: gerçek markalar, logolar, karakterler veya gerçek ürünlerden alınmış metinler olmasın. Dosyayı açıp tamamlamadan önce çalıştığını kontrol et.
+
+YALNIZCA THREE.JS
+- Tüm çizim işlemleri Three.js üzerinden yapılsın: CDN'den import map kullanarak tam olarak three@0.180.0 içe aktar ve WebGLRenderer kullan
+- Yalnızca Three.js ve resmi eklentileri (three/addons: OrbitControls, EffectComposer, bloom, depth of field, RoomEnvironment vb.) kullan. Başka kütüphane kullanma
+- Ham WebGL veya WebGPU kodu kullanma: getContext ve doğrudan gl çağrıları olmasın. Özel shader'lar yalnızca Three.js materyalleri (ShaderMaterial veya onBeforeCompile) üzerinden oluşturulsun
+- Tüm fizik ve hareketler kendi düz JavaScript kodunla yazılsın. Fizik kütüphanesi, harici model veya doku kullanma; tüm geometri ve materyaller prosedürel olsun
+
+İLK ADIM, HER ŞEYDEN ÖNCE
+Bir çalıştırma kimliği ve geçerli saati oluşturan, ikisini de HTML dosyanın yanındaki run-log.txt dosyasına kaydeden bir kabuk komutu çalıştır. Yanıtında çalıştırma kimliğini bir kez yaz. Kendi oturum günlüğünü bulmak için bu kimliğe son aşamada ihtiyacın olacak.
+Her ana adımdan sonra (küre, köy, oda, her oyuncak, demo) oturum günlüğünü oku ve o ana kadarki token toplamlarını ve geçerli saati run-log.txt dosyasına ekle. Bağlamın sıkıştırılırsa bu kontrol noktaları önceki kullanımı korur.
+
+En önemli şey görüntü. El yapımı, koleksiyonluk üst düzey bir ürün çekimi gibi görünmeli.
+
+KÜRE
+- İnce fırçalanmış pirinç halkaya sahip, tornalanmış koyu ceviz taban üzerinde büyük bir cam küre. Cam tamamen berrak ve kenarlarda kalın görünsün; iki yumuşak dikdörtgen stüdyo yansıması ve kıvrımdan uzaklaşırken oluşan ince, parlak bir kenar ışığı olsun
+- Küre berrak sıvıyla dolu olsun. Köy, gerçek bir mercekten bakıyormuş gibi sıvının içinden hafifçe büyümüş görünsün ve kenarlarda bükülsün
+- Tepede küçük bir hava kabarcığı sıkışmış olsun; küre eğildiğinde her zaman en yüksek noktaya kaymalı
+- İçeride yaklaşık 6000 beyaz kar tanesi ve ışığa döndüklerinde parlayan birkaç yüz küçük altın sim parçacığı süzülsün
+
+KÖY (tamamı jel)
+- Kürenin tabanını küçük, karlı bir tepe kaplasın. Her bina, ağaç ve figür sakız şekerini andıran, parlak ve yarı saydam jelden yapılmış olsun: frambuaz, mandalina, limon, nane, yaban mersini ve üzüm renklerinde. Işık içlerinden geçerek yumuşakça parlasın; yüzeylerde keskin, ıslak yansımalar ve her parçanın içinde birkaç küçük donmuş hava kabarcığı bulunsun
+- Küçük bir meydanın çevresinde dik çatılı, yuvarlak pencereli ve bacalı 8 ila 10 küçük ev. Ortada çanlı ve yuvarlak saat kadranlı bir saat kulesi olsun
+- Soluk mavi jel buzdan donmuş bir gölet ve üzerinde yavaş döngüler çizerek kayan üç küçük patenci. Kemerli köprüsü olan bir dere. Bir kardan adam. Uçları beyaz karlı, koyu yeşil jelden çam ağaçlarıyla çevrili bir halka
+- Küçük bir jel tren (lokomotif, üç vagon ve yuvarlak bir far) köyün çevresindeki döngü rayında sonsuza kadar ilerlesin
+- Çatılardaki ve zemindeki kar pudra şekeri gibi yumuşak, mat beyaz olsun; parlak jelle kontrast oluştursun
+
+ODA
+- Sakin, temiz ve stüdyo havasında. Sıcak ahşap bir masa, tabanın altında yumuşak bir temas gölgesi, arkada uzakta ve odak dışı birkaç sıcak bokeh ışığı bulunan koyu tozlu mavi bir arka plan
+- Sol üstten gelen sıcak ana ışık, sağdan gelen soğuk dolgu ışığı ve camın hatlarını belirginleştiren bir kenar ışığı
+- Küre merkezde olsun ve kadraj yüksekliğinin yaklaşık yüzde 70'ini kaplasın. Kare kırpmada ve dikey 9:16 kırpmada da iyi okunmalı. Kürenin öne çıkması için arka plan yumuşak kalmalı
+
+OYUNCAKLAR (altta küçük hap biçimli düğmeler, minimal arayüz, 1–5 tuşları)
+1. Salla. Küre sarsılıp eğilsin, kar girdaplı bir tipiye dönüşerek havalansın, jel evler bir vuruş gecikmeyle sallansın (uzun olanlar daha fazla), ardından her şey yatışsın. Küreyi elle de sallayabilirsin: kürenin üzerinde sürüklemek daha güçlü bir sürükleme daha kuvvetli bir sallantı oluştursun. Yörüngede döndürmek için başka bir yerde sürükle
+2. Gece. Oda koyu maviye geçsin. Pencereler, yol fenerleri, saat kadranı ve trenin farı açılsın; jel içinden sıcak bir ışıkla parlasın. Küre bir fenere dönüşsün ve altındaki masaya yumuşak, sıcak bir ışık havuzu düşürsün
+3. İçeri Gir. Kamera kürenin içine dalsın, kısa bir kırılma dalgalanmasıyla camın içinden geçsin ve minik bir köylünün boy hizasında köy meydanına insin. Etrafına kar yağsın, jel evler üzerinde yükselsin, tren yanından geçsin. Yukarı bak: kıvrımlı cam kubbeyi ve onun ötesinde dev, bozulmuş odayı gör. Etrafa bakmak için sürükle, meydanda yürümek için WASD tuşlarını kullan. İçerideyken Salla'ya basıldığında dev, yumuşak gri bir kedi patisi dışarıdan cama vursun; pati bulanık ve devasa görünsün, tüm dünya sarsılsın. Düğme İçeri Gir yerine Dışarı Çık olsun
+4. Bırak (yalnızca dışarıda). Küre tabanından bir el yüksekliği kadar havalansın ve masanın üzerine düşsün. Cam kavisli parçalara ayrılsın, sıvı kameraya doğru sıçrayarak dışarı taşsın ve birkaç damla merceğe düşüp ekranda yavaşça aşağı süzülsün. Jel evler dışarı sıçrasın, sallansın ama sağlam kalsın. Kar masanın üzerine dökülsün. Küçük tren masanın üzerinde daireler çizerek ilerlemeyi sürdürsün. Çan bir kez çalsın
+5. Sıfırla
+
+FİZİK (gerçekçi ama hafif)
+- Kar: Her tanecik kendi yavaş terminal hızıyla batsın ve sıvı tarafından taşınsın. Küre hareket ettiğinde sıvı camın gerisinde kalsın; böylece sallama zamanla sönümlenen bir girdap oluştursun. Yüzeylere ve zemine inen tanecikler orada dinlensin ve bir sonraki sallamada yeniden havalansın. Yaklaşık 15–20 saniyede tamamen durulsun
+- Jel: Her nesne, kürenin ivmesiyle hareket eden sönümlü bir yay gibi davransın (eğilme ile ezilip uzama). Daha uzun ve yumuşak nesneler daha büyük salınım yapsın. Yaklaşık 2 saniyede durulsun
+- Bırakma: Düşüşte gerçek yerçekimi, basit rijit cam parçaları, parçacıklardan oluşan sıvı; jel çarpma anında ezilip zıplasın
+- Normal bir dizüstü bilgisayarda 60 fps
+
+BEKLEME VE DEMO
+- Yüklenirken: gündüz, dinlenmiş kar ve kürenin çevresinde yavaş otomatik yörünge hareketi. Bu tek başına temiz bir 20 saniyelik güzellik çekimi olarak çalışmalı
+- Her çalıştırmada aynı olması için sabit bir rastgele tohumla oluşturulmuş bir demo için D tuşuna bas. İzleyici ne olduğunu görebilsin diye düğmeler basıldıkça aydınlansın:
+  0. saniye: yavaş yörünge
+  5. saniye: Salla
+  12. saniye: Gece
+  18. saniye: İçeri Gir, meydana bakın, tren geçsin
+  26. saniye: kubbeye ve dev odaya yukarıdan bak
+  29. saniye: kedi patisi cama vursun
+  36. saniye: Dışarı Çık
+  40. saniye: Bırak
+  44–52. saniye: enkaza doğru yavaş yaklaşma; damlalar mercekte aşağı süzülsün
+
+SON ADIM: GERÇEK SÜRE VE API MALİYETİ
+Bunu son yanıtından hemen önce, en son adım olarak yap. Tahmin etme; kendi oturum günlüğündeki gerçek sayıları kullan.
+
+1. Oturum günlüğünü diskte bul: çalıştırma kimliğini içeren dosya
+- Claude (Claude Code, Cowork): ~/.claude/projects/ altında bulunan bir .jsonl dosyası. Varsa alt ajan günlükleri aynı ada sahip bir alt klasörde olabilir; onları da dahil et
+- Codex: ~/.codex/sessions/ altındaki rollout .jsonl dosyaları
+2. Süre: günlükteki ilk zaman damgasından son zaman damgasına kadar. Günlükte zaman damgası yoksa run-log.txt başlangıç saatinden şu ana kadar olan süreyi kullan
+3. Token'lar
+- Claude günlükleri: Her API yanıtında input_tokens, cache_creation_input_tokens (varsa cache_creation içindeki 5 dakikalık ve 1 saatlik ayrım), cache_read_input_tokens ve output_tokens içeren message.usage bulunur. Aynı yanıt birkaç satırda, her içerik bloğu için bir kez tekrarlandığından her message id'yi yalnızca bir kez say
+- Codex günlükleri: Son kümülatif token_count toplamlarını al. Önbelleğe alınmış girdi genellikle input içine dahildir ve akıl yürütme token'ları çıktı olarak faturalandırılır; hiçbir şeyi iki kez sayma
+4. Aşağıdaki tabloyla her isteğin fiyatını hesapla. Tabloda olmayan bir model için sağlayıcının resmi fiyatlandırma sayfasını kullan ve URL'yi ver
+
+FİYATLAR, milyon token başına USD (Claude API, https://t.co/MumWcfinp3, 12 Ekim 2026'da kontrol edildi)
+model | girdi | 5 dk önbellek yazma | 1 sa önbellek yazma | önbellek okuma | çıktı
+Opus 5.5 | 4 | 5 | 8 | 0.20 | 20
+Sonnet 5.5 | 2 | 2.50 | 4 | 0.10 | 10
+Haiku 5.5, 100 bin tokena kadar prompt | 0.10 | 0.125 | 0.20 | 0.01 | 0.50
+Haiku 5.5, 100 bin tokenın üzerinde prompt | 0.50 | 0.625 | 1 | 0.05 | 2.50
+- Haiku seviyesi her istek için belirlenir: prompt boyutu = o isteğin girdi + önbellek yazma + önbellek okuma token'ları
+- Kullanımda hız "fast" görünüyorsa (yalnızca Opus): girdi için 8 $, çıktı için 40 $. inference_geo "us" ise her şeyi 1,1 ile çarp
+
+5. Günlük sıkıştırılmış ve önceki kullanım eksikse, bu kullanımı run-log.txt içindeki kontrol noktalarından alıp günlükte kalanlara ekle; hiçbir şeyi iki kez sayma
+6. cost-report.txt dosyasını HTML dosyasının yanına kaydet ve son yanıtına yapıştır:
+MODEL: günlükteki tam model adı
+TIME: Xs Ym (başlangıç ve bitiş zaman damgaları)
+API REQUESTS: benzersiz yanıt sayısı
+TOKENS: girdi / 5 dk önbellek yazma / 1 sa önbellek yazma / önbellek okuma / çıktı
+COST: kategori başına ücret ve TOPLAM
+SOURCE: günlük dosyasının yolu; kontrol noktaları kullanıldıysa run-log.txt de
+Günlüğü bulamadıysan her sayıyı TAHMİN olarak işaretle ve nasıl hesapladığını açıkla. Bu son yanıtın henüz günlüğe yazılmadığını unutma.
+
+Ayrıca son yanıtına kısa bir rapor ekle: Gerçek fizik nedir, neler taklit edilmiştir, temel sayılar (kar tanesi, nesne, durulma süresi, dosya boyutu, Three.js sürümü ve renderer).
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-jelly-snow-globe-village) · [Orijinal gönderi](https://x.com/theparuchh/status/2110046350142235020) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="2110054195734982817"></a>
 
 ### Alacakaranlıkta kayalık uçurumdaki eski taş deniz feneri
@@ -3817,95 +3928,6 @@ jared adına atıf yapılan yeni bir jelly-villa istemi yayımlayın; özgün ya
 
 ---
 
-<a id="odd-arms"></a>
-
-### ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu
-
-[Deniffer](https://x.com/lumina__team) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/odd-arms"><img src="../assets/previews/504c296e723fc1d371ab475b1849a547d862e14632b5962ee62c0edc16783749.jpg" width="840" loading="lazy" alt="ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu"></a>
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/odd-arms"><img src="../assets/previews/c091163cb03e4b2e888533cdae55a69d2a2adb5b8d7d511d5dbe9f42b48e477c.jpg" width="840" loading="lazy" alt="ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu"></a>
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/odd-arms"><img src="../assets/previews/8704479f463f4966b9d420060a8fe4ebb55f0f195750cab2cfad225dcb31e52f.jpg" width="840" loading="lazy" alt="ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu"></a>
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/odd-arms"><img src="../assets/previews/846d08bd92f3243dce5a7a5313cd4978c94613e86cabcd0ef2c99c434954f93b.jpg" width="840" loading="lazy" alt="ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu"></a>
-
-Oyuncak bir kahramanın çalışma tezgâhında kurmalı canavarlarla savaştığı, Three.js ile oluşturulmuş üç dakikalık bir hayatta kalma oyunu geliştirin. Oyuncular Tripo Studio'da kendi kahramanlarını veya silahlarını oluşturup GLB dosyasını içe aktararak oynayabilir.
-
-**İstem**
-
-```text
-# ODD ARMS — Fikrin. Kahramanın.
-
-## 1. Amaç
-Tüm oyun arayüzünü İngilizce tutun (isteğe bağlı dil seçeneği olarak Japonca ekleyin).
-"Otomatik saldırılı sürü" türünde, tarayıcıda çalışan eksiksiz ve üç dakikalık bir hayatta kalma oyunu oluşturun: Oyuncu, oyuncak boyutunda bir kahraman ile iki son derece tuhaf silah seçer ve bir zanaatkârın çalışma tezgâhında 180 saniye boyunca canavar sürülerine karşı hayatta kalır. Silahlar otomatik saldırır; oyuncu yalnızca hareket eder, atılır, kristalleri toplar, geliştirmeler seçer ve şarjlı bir nova ateşler. Oyunun kişisel yönü şudur: Oyuncular Tripo'da kendi kahramanlarını veya silahlarını oluşturabilir, GLB dosyasını indirip oyuna aktarabilir. Nihai sonuç için https://odd-arms.tripo.page/ ve sağlanan referansları kullanın. Deniffer'a şu adresten kredi verin: https://x.com/lumina__team.
-
-## 2. Görsel yön
-Oyunu, kahramanı takip eden sabit, dörtte üç açıdan yukarıdan görünümlü bir kamerayla gösterilen minyatür bir oyuncak diorama olarak tasarlayın. Oyun alanı, üzerinde silik bir ızgara ve basılı "ODD ARMS" köşe işaretleri bulunan lacivert bir kesim matıdır; bu mat sıcak tonlu ahşap bir çalışma masasının üzerindedir. Masa kenarları, arenanın gerçek bir masaüstü gibi görünmesi için büyük boyutlu el işi aksesuarlarıyla (iplik makaraları, süslü pirinç rozetli kutular, deri alet çantası, pirinç masa lambası, ahşap oyuncak tren, oyuncak parçaları) doldurulmalıdır. Lambanın bulunduğu taraftan sıcak bir ana ışık, yumuşak ortam dolgu ışığı, temas gölgeleri ve hafif bloom kullanın; karakterler parlak, iri hatlı ve doygun renkli koleksiyon figürleri tarzında olsun.
-
-Arayüz: lacivert metinli, krem-beyaz yuvarlatılmış kartlar ve mercan-turuncu vurgu rengi kullanın. Başlıklarda ağır, daraltılmış bir ekran yazı tipi ("LET'S MAKE SOME TROUBLE."), gövde metninde ise temiz ve daraltılmış bir sans yazı tipi kullanın. Savaş sırasında: sol üstte can kartı, altında seri sayacı, üst merkezde "SURVIVE THE WEIRD" geri sayımı, sağ üstte dalga etiketi + ses + ayarlar + Duraklat, sağda yenilen düşman sayısı, alt merkezde seviye/XP rozeti, sol altta üç silah etiketi (yörüngeli / geri dönen / atıcı ve seviyeleri), sağ altta kontroller + atılma bekleme süresi ve bunların üstünde "Q NOVA READY!" rozeti yer alsın. Oyunsallık hissi için: hasar sayıları, kritik vuruşlar, squash-and-stretch efektli düşmanlar, geri savurma, parçacık patlamaları ve hafif kamera sarsıntısı kullanın (prefers-reduced-motion ayarlıysa sarsıntıyı devre dışı bırakın).
-
-## 3. Dünya
-Kare biçimli tek bir arena oluşturun; kahramanı her iki eksende de ±23 birim içinde tutun. Kesim matı oyun alanını doldursun; masa ve aksesuarlar yalnızca dekor olarak, bu sınırın dışında yer alsın (çarpışma olmasın). Arena başlangıçta boştur ve kenarlardan dolmaya başlar: Düşmanlar kahramandan 12–16 birim uzaklıktaki bir çember üzerinde (ilk saniyede 8–11 birim uzaklıkta) doğar ve doğruca kahramana yürür. Her 22 saniyede bir, 13 yarıçapında tam bir düşman çemberi oluşturan bir saldırı dalgası başlar. Kahramanın o anki konumunun altında kırmızı uyarı çemberleri belirir (ilki 28. saniyede, ardından her max(4.4, 9 − t/50) saniyede bir) ve 2 saniye sonra patlar.
-
-## 4. Varlık envanteri
-Kararlı model yuvaları hazırlayın; her yuva tek bir GLB yüklemeli, model ortalanmalı, hedef yüksekliğe otomatik ölçeklenmeli ve yükleme başarısız olursa basit bir yer tutucuya dönmelidir.
-
-Kahramanlar (10 adet, `hero:<id>`), her biri kendine özgü silüete sahip iri hatlı oyuncak figürler:
-- `cat` Astro Cat — beyaz uzay giysisi ve cam kask giymiş turuncu tekir kedi. HP 100, hız 6.8, mıknatıs ×1.35, atılma bekleme süresi 2.4 s.
-- `frog` Frog Fighter — kırmızı boks eldivenli yeşil kurbağa. HP 130, hız 6.8, atılma hasarı 135.
-- `shroom` Mushroom Hero — küçük pelerinli, kırmızı şapkalı mantar. HP 90, hız 7.6, atılma süresi 1.8 s.
-- `capybara` Chill Capybara — kaplıcada dinlenen kapibara. HP 160, hız 5.8, mıknatıs ×1.15, atılma süresi 3 s, atılma hasarı 110.
-- `ramen` Ramen Ronin — buharı tüten ramen kâsesini taşıyan samuray. HP 105, hız 7.2, atılma süresi 2.2 s, atılma hasarı 120.
-- `penguin` Office Penguin — gömlek ve kravat giymiş penguen. HP 80, hız 7.1, atılma süresi 1.5 s, atılma hasarı 75.
-- `axolotl` Axolotl — pembe aksolotl kâşif. HP 85, hız 7.3, mıknatıs ×1.6, atılma hasarı 75.
-- `avocado` Avo Boxer — çekirdek gövdeli avokado boksör. HP 120, hız 6.4, atılma süresi 2.1 s, atılma hasarı 130.
-- `robot` Clockwork Bot — anahtarlı, kurmalı teneke robot. HP 115, hız 6.2, atılma süresi 2.8 s, atılma hasarı 165.
-- `snail` Snail Knight — ev büyüklüğündeki kabuğunu taşıyan şövalye salyangoz. HP 190, hız 5.2, mıknatıs ×1.2, atılma süresi 3.2 s, atılma hasarı 120.
-Listelenmediği durumlarda varsayılan atılma hasarı 90'dır.
-
-Saldırı yuvalarına göre gruplandırılmış silahlar (12 adet, `weapon:<id>`):
-- Yörüngeli: `sardine` Sardine Chainsaw (3 balık, yarıçap 2.9, hasar 1, hız 1.2); `cactus` Cactus Club (2 sopa, yarıçap 3.3, hasar 1.65, hız 0.78, vuruş yarıçapı 1.25, geri savurma 1.5); `plunger` Plunger Patrol (4 lavabo pompası, yarıçap 2.25, hasar 0.85, hız 1.5).
-- Geri dönen: `banana` Banana Blades (2 adet, hasar 1, hız 1.25); `pizza` Pizza Cutter (1 büyük disk, hasar 1.5, hız 0.82, vuruş yarıçapı 1.65); `croissant` Croissant Blades (3 adet, hasar 0.75, hız 1.45); `boomerang` Boomerang (1 adet, hasar 1.15, hız 1.6); `donut-disc` Donut Disc (1 adet, hasar 1.5, hız 0.9, vuruş yarıçapı 1.3).
-- Atıcı: `duck` Duck Rocket (hedef takipli, alan etkisi 2, aralık 0.42 s); `toaster` Angry Toaster (3 atışlı delici yelpaze, hasar 0.7); `teapot` Raging Teapot (2 yavaş atış, alan etkisi 2.8, aralık 0.8 s); `bubble-gun` Bubble Gun (2 delici baloncuk, hasar 0.45, aralık 0.3 s).
-Varsayılan ekipman: Astro Cat, Banana Blades, Angry Toaster; yörüngeli silah ilk geliştirmede açılır.
-
-Düşmanlar (3 adet, `enemy:<id>`), kurmalı oyuncak canavarlar: `red-chomper` (kırmızı, yuvarlak ve ısıran oyuncak; temel tür, temel 30 HP, hız 2.35), `spring-rabbit` (sarı, yay bacaklı tavşan; hızlı, temel 23 HP, hız 3.5), `crown-bear` (taç takan büyük yamalı ayı; tank, temel 130 HP, hız 1.7, 60. saniyeden sonra %17 olasılıkla görünür, 3 XP bırakır).
-
-Sahne aksesuarları (`prop:<id>`): çalışma masası, kesim matı çerçevesi ve köşe plakaları, masa lambası, oyuncak tren, iplik makaraları, süslü rozetli kutular, alet çantası, oyuncak parça tepsisi. Matı, ızgarayı, kristalleri, mermileri, uyarı çemberlerini, parçacıkları, ışıkları ve arayüzü prosedürel olarak oluşturun.
-
-## 5. Oynanış ve geri bildirim
-Akış: Karakter → Ekipman (bir geri dönen + bir atıcı) → Hazır (seçilen silahlarla kahramanın 3B döner tabla önizlemesi; döndürmek için sürükleyin) → "Let's play". Her tanıtım adımında yalnızca ilgili kategori; açıklama, oyun tarzı ve zayıflık metni gösterilir. Son ekipman seçimini hatırlayın.
-
-Kontroller: Hareket etmek için WASD/ok tuşları; Space, hareket yönünde atılmayı sağlar (hız ×3.7, kısa süreli dokunulmazlık, her atılmada 2 birim içindeki düşmanlara bir kez hasar); enerji 100 olduğunda nova ateşlemek için Q (yarıçap 11, 200 hasar, güçlü geri savurma, kristalleri kendine çeker); geliştirmeleri seçmek için 1/2/3 veya tıklama; duraklatmak için Esc; pencere odağı kaybolduğunda otomatik duraklatma. Mobil: solda analog sanal joystick, sağda bekleme/şarj halkalarına sahip Atılma ve Nova düğmeleri, joystick ile düğmelerin birlikte çalışmasını sağlayan çoklu dokunma; geliştirmeler dikey ekranda joystick'in üstünde, yatay ekranda iki başparmağın arasında yer alır.
-
-Kurallar: düşman HP'si = base × (1 + t/260) × 1.3. Doğma aralığı max(0.18, 0.52 − 0.0016·t) s, sınır 180 düşman. Temas hasarı 9'dur (ayıdan 18); isabetten sonra 0.85 s dokunulmazlık verilir. Her öldürme 2 enerji ekler ve bir kristal düşürür; her silahın 9. vuruşu ×1.7 kritik hasar verir. 25 öldürmelik seri, 5 s süren bir çılgınlık başlatır (saldırı hızı ×1.65, bekleme süresi 13 s); hasar almak seriyi sıfırlar. Seviye atlamak için XP: 20, ardından round(need × 1.4 + 10). Seviye atlamalar oyunu asla duraklatmaz: engelleyici olmayan seçim kartları olarak kuyruğa alınır. İlk geliştirme üç yörüngeli silahı sunar; sonrasında şu seçeneklerden üçünü sunun: Orbit overload (+1 yörünge silahı, en fazla 7, +%22 hasar), Another round (daha hızlı, daha uzun ve daha güçlü geri dönüşler), Full blast (daha hızlı ateş, +%20 hasar, daha fazla mermi), Live a little (+%10 hız, +30 HP). Her seçim 8 HP iyileştirir.
-
-Bitiş: 180 s hayatta kalın → "Beautifully weird. You made it."; HP 0 → "That was a glorious mess." Her iki sonuç ekranında da yenilen düşman sayısı, en iyi seri ve hayatta kalınan süre ile Run it back / Change loadout seçenekleri ve kendi kahramanını oluşturma istemi gösterilir.
-
-Kendin oluştur: Ekipman, duraklatma ve sonuç ekranlarında bulunan "Create my hero / weapon in Tripo" seçeneği, yeni bir sekmede https://studio.tripo3d.ai/ açar; "Import GLB" yerel bir .glb dosyası yükler (≤15 MB, yalnızca gömülü dokular, tarayıcıda ayrıştırılır, hiçbir zaman yüklenmez), dosyayı ortalar ve ölçeklendirir, ardından seçilen kahraman veya silahın yalnızca görünümünü değiştirirken istatistiklerini korur. Geçersiz dosyalar için anlaşılır hata mesajları gösterin ve özgün modeli koruyun.
-
-Modelleri karşılaştırın: üst bilgideki "Tripo3D ⇄ Simple3D (Blender)" anahtarı, her kahramanı, silahı, düşmanı ve aksesuarı eşleşen basit ilkel şekillerden oluşan setle değiştirir; oyun devam ederken ilerleme sıfırlanmaz. Değiştirmeden önce alternatif setin tamamını yükleyin; herhangi bir dosya yüklenemezse mevcut seti koruyun.
-
-## 6. Teknik uygulama
-GLTFLoader, RoomEnvironment aydınlatması ve ACES ton eşleme kullanan Vite + vanilla JavaScript + Three.js kullanın. Simülasyonu, testlerde tüm oyunların simüle edilebilmesi için dışarıdan rastgelelik kaynağı alabilen, saf ve sabit zaman adımlı bir modülde tutun; renderer yalnızca durumu okusun. Her GLB'yi bir kez önbelleğe alın ve örnekler için klonlayın; tekrarlanan süslemelerde instancing veya LOD kullanın. Piksel oranını sınırlayın (mobilde 1.5, yoğun dalgalarda 1'e düşürün), gölgeleri saniyede en fazla 30 kez yenileyin ve HUD metnini yalnızca değerler değiştiğinde güncelleyin. Çarpışmayı (basit çemberler) görsel mesh'lerden ayırın. Yazı tiplerini, modelleri ve dokuları derlemede statik bir klasör kullanılabilmesi için aynı origin üzerinden paketleyin. Masaüstü ve telefon tarayıcılarını, yatay telefonlar ve güvenli alanlar dâhil olmak üzere 320 px ve üzeri genişliklerde hedefleyin. Model karmaşıklığı ekrandaki boyuta göre belirlenmelidir; sabit bir poligon sınırı koymayın.
-
-## 7. Tamamlanma ölçütleri
-- Eksiksiz akış çalışır: tanıtım, kazanma ve kaybetmeyle sonuçlanan savaş, duraklatma/devam ettirme, aynı ekipmanla yeniden başlatma ve ekipman değiştirme.
-- 10 kahramanın ve 12 silahın tamamı yüklenir ve yukarıdaki değerlere göre davranır; herhangi bir ekipmanla 180 s'lik oyun hatasız tamamlanır.
-- Joystick ile Atılma'nın aynı anda kullanılması da dâhil olmak üzere klavye ve dokunmatik kontrollerin ikisi de çalışır.
-- GLB içe aktarma seçilen kahramanın veya silahın görünümünü değiştirir ve hatalı dosyaları sorunsuz biçimde reddeder.
-- Tripo3D / Simple3D anahtarı, oyun sırasında tüm modelleri değiştirir.
-- Açılış, savaş ortası ve sonuç ekranları referanslarla eşleşir; çalıştırılabilir kaynak kodu, başlatma komutunu ve statik production build'i sağlayın.
-
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/odd-arms) · [Orijinal gönderi](https://odd-arms.tripo.page/) · [Canlı demo](https://odd-arms.tripo.page/) · [Örneklere dön](#all-prompts)
-
----
-
 <a id="red-light-green-light"></a>
 
 ### Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu
@@ -4023,7 +4045,7 @@ Açılışı, her iki karakter portresini, çarpışmayı, imdat roketlerini, ü
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 352 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 353 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

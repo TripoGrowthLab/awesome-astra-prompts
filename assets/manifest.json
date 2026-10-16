@@ -403,16 +403,6 @@
       ]
     },
     {
-      "path": "assets/previews/504c296e723fc1d371ab475b1849a547d862e14632b5962ee62c0edc16783749.jpg",
-      "fingerprint": "091ac91c4843c06c1b080f637e6d391f7988a3f7761d039b2a562421469fc3d6",
-      "sha256": "504c296e723fc1d371ab475b1849a547d862e14632b5962ee62c0edc16783749",
-      "bytes": 296498,
-      "sourceUrl": "https://odd-arms.tripo.page/",
-      "promptIds": [
-        "odd-arms"
-      ]
-    },
-    {
       "path": "assets/previews/512159568512c9d326a8bdacae73bb8f2597884676542a73504a253f2313ad7d.jpg",
       "fingerprint": "9c6ffc1db16c591345adbb80c4f85de9e6086471e020082764cbc0aa447fcf76",
       "sha256": "512159568512c9d326a8bdacae73bb8f2597884676542a73504a253f2313ad7d",
@@ -743,16 +733,6 @@
       ]
     },
     {
-      "path": "assets/previews/846d08bd92f3243dce5a7a5313cd4978c94613e86cabcd0ef2c99c434954f93b.jpg",
-      "fingerprint": "97e19b539003b3a3b740e5569ad5e2916277889c12aa8b142cb3ea35d4fb618e",
-      "sha256": "846d08bd92f3243dce5a7a5313cd4978c94613e86cabcd0ef2c99c434954f93b",
-      "bytes": 285505,
-      "sourceUrl": "https://odd-arms.tripo.page/",
-      "promptIds": [
-        "odd-arms"
-      ]
-    },
-    {
       "path": "assets/previews/8502c6ae82a02cae03c639bd0f95cd45392652b2fec20853d84a15e91abebafa.jpg",
       "fingerprint": "9c4378eb05c6ef810df68ea5b32c8f457eb8109e633a826b45296429dcf2aee9",
       "sha256": "8502c6ae82a02cae03c639bd0f95cd45392652b2fec20853d84a15e91abebafa",
@@ -770,16 +750,6 @@
       "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2107617007289937920/img/U87PZ2yFlwt-4M3d.jpg",
       "promptIds": [
         "2107617244301664483"
-      ]
-    },
-    {
-      "path": "assets/previews/8704479f463f4966b9d420060a8fe4ebb55f0f195750cab2cfad225dcb31e52f.jpg",
-      "fingerprint": "171e69a45e63e48e373afd37e1bc472a0192a57940a062f2bafc7c58451640f6",
-      "sha256": "8704479f463f4966b9d420060a8fe4ebb55f0f195750cab2cfad225dcb31e52f",
-      "bytes": 240516,
-      "sourceUrl": "https://odd-arms.tripo.page/",
-      "promptIds": [
-        "odd-arms"
       ]
     },
     {
@@ -1003,6 +973,16 @@
       ]
     },
     {
+      "path": "assets/previews/babdc040c775ff28d6495632d3b86ad9a8b1501a5021b968dfa364eb965066fa.jpg",
+      "fingerprint": "228444e01735ee063d1fd65802aba885ed8acb841ab4952150c68ed1df0d965e",
+      "sha256": "babdc040c775ff28d6495632d3b86ad9a8b1501a5021b968dfa364eb965066fa",
+      "bytes": 152434,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2110019222839414784/img/GSYKUQcrhXbbCC7t.jpg",
+      "promptIds": [
+        "2110045415412281495"
+      ]
+    },
+    {
       "path": "assets/previews/bb6b6c09f4ef1f48696a70e00f481b40cbda21d93b13be919c352e1c47cb4fb7.jpg",
       "fingerprint": "e597570d116be3e6d74124193d7ca992cd2416f3c20eca18f6a9274dea4bcdd0",
       "sha256": "bb6b6c09f4ef1f48696a70e00f481b40cbda21d93b13be919c352e1c47cb4fb7",
@@ -1010,16 +990,6 @@
       "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103966892637536256/img/fDFZ2Ru7xcs1TCxB.jpg",
       "promptIds": [
         "2103966922127630820"
-      ]
-    },
-    {
-      "path": "assets/previews/c091163cb03e4b2e888533cdae55a69d2a2adb5b8d7d511d5dbe9f42b48e477c.jpg",
-      "fingerprint": "51afd0faad93f418335c4f10414e5050ef5e291ee83351f15b101487bafd559d",
-      "sha256": "c091163cb03e4b2e888533cdae55a69d2a2adb5b8d7d511d5dbe9f42b48e477c",
-      "bytes": 164890,
-      "sourceUrl": "https://odd-arms.tripo.page/",
-      "promptIds": [
-        "odd-arms"
       ]
     },
     {
