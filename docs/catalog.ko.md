@@ -28,7 +28,7 @@
 **다음 게임, 장면, 인터랙티브 세계를 위한 아이디어를 찾아보세요.**
 
 
-**353 · 최신 Astra 프롬프트**
+**354 · 최신 Astra 프롬프트**
 
 ## 추천 작품
 
@@ -51,7 +51,6 @@
 <summary>사례 둘러보기</summary>
 
 - [몬스터 블록 — 45초 동안 도시를 박살 내세요](#2100636075039629796)
-- [인터랙티브 IWC Schaffhausen 시계 모델](#2100956517633761447)
 - [실제 궤도 물리학으로 구현한 은하](#2101055500599054437)
 - [사실적인 3D 환경 제작](#2101224659861590399)
 - [인터랙티브 3D 항공기 엔진 디스플레이](#2101271938706685991)
@@ -144,6 +143,7 @@
 - [걷기 애니메이션이 포함된 Blender 오우거 모델](#2110139804805693469)
 - [인터랙티브 3D 게이밍 마우스 작동 원리](#2110371046071382042)
 - [은하계를 가로지르는 태양계의 3D 나선 궤도 시뮬레이션](#2110380365269639613)
+- [인터랙티브 3D 잉어 연못 웹사이트](#2111817735181332826)
 - [Battle City 3D: 끝없는 탱크 디펜스](#battle-city-3d)
 - [Crazy Tanks — 3D 아일랜드 포병전](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: 24레벨 3D 채굴 게임](#golden-miner)
@@ -252,26 +252,6 @@ Tripo 제작 액션을 https://www.tripo3d.ai/에 연결하고, utm_source=monst
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/monster-block) · [원본 게시물](https://x.com/abc30037274/status/2100636075039629796) · [데모](https://monster-block.tripo.page/) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="2100956517633761447"></a>
-
-### 인터랙티브 IWC Schaffhausen 시계 모델
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100956517633761447"><img src="../assets/previews/d7437e20a189ef08ef24c9272fa803e0f9e8d7da7da70314a92980db6a752bdc.jpg" width="840" loading="lazy" alt="인터랙티브 IWC Schaffhausen 시계 모델"></a>
-
-검증된 작성자의 댓글에 고도로 디테일한 Three.js 인터랙티브 3D IWC Schaffhausen 시계 제작 프롬프트가 포함되어 있습니다. 각 기계 부품을 개별적으로 식별할 수 있고, 사실적인 사파이어 글라스와 실시간 시곗바늘 움직임, 분해 및 재조립 인터랙션을 구현하도록 요구합니다. 원문 게시물에서는 GPT-6 Astra를 비롯한 여러 모델을 비교하는 공통 프롬프트로 소개합니다.
-
-**프롬프트**
-
-```text
-Three.js를 사용해 IWC Schaffhausen 시계를 매우 충실하게 재현한 3D 인터랙티브 시계 모델을 개발하세요. 요구 사항: 1) 다이얼 구조를 매우 정밀하게 구현하고, 모든 기계 부품을 개별적으로 렌더링해 서로 명확히 구분할 수 있어야 합니다. 2) 시계 앞면에는 투명도, 굴절, 반사 효과가 사실적으로 표현되는 사파이어 글라스 머티리얼을 사용하세요. 3) 분침과 초침은 실제 시각을 정확히 반영하는 올바른 시곗바늘이어야 하며, 자동으로 연속 스윕 애니메이션을 재생해야 합니다. 4) 시계를 분해하고 재조립할 수 있도록 하며, 각 부품을 분리해 개별적으로 확인할 수 있어야 합니다. 5) 전체 디테일 수준은 실제 시계의 구조와 비율에 가깝게 맞출 정도로 매우 높아야 합니다. 나사, 금속 부품 및 기타 구성 요소에는 사실적인 머티리얼 텍스처와 정교한 마감 표현을 적용하세요. 브라우저에서 모델이 원활하게 실행되고 자연스럽게 인터랙션되도록 구현하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100956517633761447) · [원본 게시물](https://x.com/YouWareAI/status/2100958838350643553) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -3650,6 +3630,26 @@ Blender에서 오우거를 제작하세요(걷기 애니메이션 포함).
 
 ---
 
+<a id="2111817735181332826"></a>
+
+### 인터랙티브 3D 잉어 연못 웹사이트
+
+[Harry Jackson](https://x.com/keydol123) · 2026-10-18
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/interactive-3d-koi-pond-website"><img src="../assets/previews/e4e7df34ede661a5265b6197b50151548e235aa852f375ad1af8c25b80141059.jpg" width="840" loading="lazy" alt="인터랙티브 3D 잉어 연못 웹사이트"></a>
+
+게시물 작성자가 GPT Astra 6와 Claude Opus 5.5에 동일한 과제로 제시했다고 밝힌 프롬프트로, 아름다운 인터랙티브 3D 잉어 연못 웹사이트를 요청합니다.
+
+**프롬프트**
+
+```text
+아름답고 인터랙티브한 3D 잉어 연못 웹사이트를 만들어 주세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/interactive-3d-koi-pond-website) · [원본 게시물](https://x.com/keydol123/status/2111817735181332826) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: 끝없는 탱크 디펜스
@@ -4046,7 +4046,7 @@ Vite, JavaScript 모듈과 Three.js를 사용하고 결정론적인 시간 기�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 353개 보기 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 354개 보기 →</a></strong></p>
 <p><sub>GitHub README가 원활하게 렌더링되도록 최신 사례 100개만 표시합니다.</sub></p>
 <br>
 </td></tr>

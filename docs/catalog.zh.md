@@ -29,7 +29,7 @@
 
 探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。
 
-**353 条案例 · 14 种语言 · 12 条附项目源码**
+**354 条案例 · 14 种语言 · 12 条附项目源码**
 
 ## 精选作品
 
@@ -52,7 +52,6 @@
 <summary>浏览案例</summary>
 
 - [怪兽街区——45 秒摧毁城市](#2100636075039629796)
-- [IWC 沙夫豪森互动腕表模型](#2100956517633761447)
 - [基于真实轨道物理的星系](#2101055500599054437)
 - [完整的照片级写实 3D 环境](#2101224659861590399)
 - [交互式 3D 航空发动机展示](#2101271938706685991)
@@ -145,6 +144,7 @@
 - [Blender 食人魔模型与行走动画](#2110139804805693469)
 - [交互式 3D 游戏鼠标原理演示](#2110371046071382042)
 - [穿行银河系的太阳系 3D 螺旋轨道模拟](#2110380365269639613)
+- [交互式 3D 锦鲤池网站](#2111817735181332826)
 - [Battle City 3D：无尽坦克防御](#battle-city-3d)
 - [疯狂坦克——3D 岛屿炮战](#crazy-tanks-3d-island-artillery)
 - [黄金矿工：24 关 3D 挖矿游戏](#golden-miner)
@@ -253,26 +253,6 @@
 ```
 
 [查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/monster-block) · [查看原帖](https://x.com/abc30037274/status/2100636075039629796) · [在线演示](https://monster-block.tripo.page/) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2100956517633761447"></a>
-
-### IWC 沙夫豪森互动腕表模型
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2100956517633761447"><img src="../assets/previews/d7437e20a189ef08ef24c9272fa803e0f9e8d7da7da70314a92980db6a752bdc.jpg" width="840" loading="lazy" alt="IWC 沙夫豪森互动腕表模型"></a>
-
-经认证的作者评论提供了一个用于创建高精度 Three.js 互动式 IWC 沙夫豪森腕表 3D 模型的提示词。该提示词要求机械组件逐一呈现且清晰可辨，配备逼真的蓝宝石玻璃，实现指针实时走动，并支持拆解与重新组装互动。主帖将其作为 GPT-6 Astra 与其他模型对比测试中使用的共同提示词。
-
-**提示词**
-
-```text
-使用 Three.js 开发一款高度还原的 IWC 沙夫豪森腕表 3D 互动模型。要求：1）表盘结构必须高度精确，每个机械组件都应单独建模并清晰可辨；2）表镜采用蓝宝石玻璃材质，并呈现逼真的透明、折射和反射效果；3）分针和秒针必须为真实指针，遵循实际计时逻辑，并自动连续扫动；4）支持腕表的拆解与重新组装，每个部件都能够单独分离和查看；5）整体细节等级必须极高，尽可能贴近真实腕表的结构与比例，并为螺丝、金属部件及其他组件制作逼真的材质纹理，体现精细做工。请确保模型能在浏览器中流畅运行，并支持自然的交互。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2100956517633761447) · [查看原帖](https://x.com/YouWareAI/status/2100958838350643553) · [返回案例导航](#all-prompts)
 
 ---
 
@@ -3585,6 +3565,26 @@ bluumik 展示的提示词：这是提供给 GPT-6 和 Opus 5.5 的同一个七�
 
 ---
 
+<a id="2111817735181332826"></a>
+
+### 交互式 3D 锦鲤池网站
+
+[Harry Jackson](https://x.com/keydol123) · 2026-10-18
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/interactive-3d-koi-pond-website"><img src="../assets/previews/e4e7df34ede661a5265b6197b50151548e235aa852f375ad1af8c25b80141059.jpg" width="840" loading="lazy" alt="交互式 3D 锦鲤池网站"></a>
+
+发布者称，这是向 GPT Astra 6 和 Claude Opus 5.5 提出的同一道挑战：制作一个精美的交互式 3D 锦鲤池网站。
+
+**提示词**
+
+```text
+制作一个精美的交互式 3D 锦鲤池网站。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/interactive-3d-koi-pond-website) · [查看原帖](https://x.com/keydol123/status/2111817735181332826) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D：无尽坦克防御
@@ -3981,7 +3981,7 @@ bluumik 展示的提示词：这是提供给 GPT-6 和 Opus 5.5 的同一个七�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 353 条案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 354 条案例 →</a></strong></p>
 <p><sub>为保持 GitHub README 渲染流畅，这里仅展示最新 100 条案例。</sub></p>
 <br>
 </td></tr>

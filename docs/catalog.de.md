@@ -28,7 +28,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**353 · Neueste Astra-Prompts**
+**354 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -51,7 +51,6 @@
 <summary>Beispiele ansehen</summary>
 
 - [Monster Block — 45 Sekunden, um die Stadt zu verwüsten](#2100636075039629796)
-- [Interaktives Uhrenmodell von IWC Schaffhausen](#2100956517633761447)
 - [Galaxie mit echter Orbitalphysik](#2101055500599054437)
 - [Vollständige fotorealistische 3D-Umgebung](#2101224659861590399)
 - [Interaktive 3D-Darstellung eines Flugzeugtriebwerks](#2101271938706685991)
@@ -144,6 +143,7 @@
 - [Oger-Blender-Modell mit Laufanimation](#2110139804805693469)
 - [Interaktive 3D-Erklärung einer Gaming-Maus](#2110371046071382042)
 - [3D-Simulation der Schraubenbahn des Sonnensystems durch die Milchstraße](#2110380365269639613)
+- [Interaktive 3D-Koi-Teich-Website](#2111817735181332826)
 - [Battle City 3D: Endlose Panzerverteidigung](#battle-city-3d)
 - [Crazy Tanks — 3D-Inselartillerie](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: 3D-Bergbauspiel mit 24 Levels](#golden-miner)
@@ -252,26 +252,6 @@ Prüfe englische und chinesische Layouts auf Desktop- und schmalen mobilen Bilds
 ```
 
 [Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/monster-block) · [Originalbeitrag](https://x.com/abc30037274/status/2100636075039629796) · [Live-Demo](https://monster-block.tripo.page/) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2100956517633761447"></a>
-
-### Interaktives Uhrenmodell von IWC Schaffhausen
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2100956517633761447"><img src="../assets/previews/d7437e20a189ef08ef24c9272fa803e0f9e8d7da7da70314a92980db6a752bdc.jpg" width="840" loading="lazy" alt="Interaktives Uhrenmodell von IWC Schaffhausen"></a>
-
-Ein verifizierter Autorenkommentar enthält einen Prompt für eine hochdetaillierte interaktive 3D-Uhr von IWC Schaffhausen auf Basis von Three.js. Gefordert sind einzeln erkennbare mechanische Komponenten, realistisches Saphirglas, eine Zeigerbewegung in Echtzeit sowie eine Interaktion zum Zerlegen und Wiederzusammensetzen. Der Hauptbeitrag präsentiert diesen Prompt als gemeinsame Aufgabenstellung in einem Vergleich mit GPT-6 Astra und anderen Modellen.
-
-**Prompt**
-
-```text
-Verwende Three.js, um ein äußerst originalgetreues interaktives 3D-Uhrenmodell einer Uhr von IWC Schaffhausen zu entwickeln. Anforderungen: 1) Der Aufbau des Zifferblatts muss äußerst präzise sein. Jede mechanische Komponente muss einzeln dargestellt und klar erkennbar sein. 2) Für das Uhrglas muss ein Saphirglas-Material mit realistischen Effekten für Transparenz, Brechung und Reflexion verwendet werden. 3) Minuten- und Sekundenzeiger müssen den korrekten Zeigern entsprechen und einer realistischen Zeitlogik folgen, mit einer automatisch kontinuierlichen Zeigerbewegung. 4) Unterstütze das Zerlegen und Wiederzusammensetzen der Uhr, sodass sich jedes Teil einzeln trennen und betrachten lässt. 5) Der Detaillierungsgrad muss extrem hoch sein und Struktur sowie Proportionen einer echten Uhr möglichst genau entsprechen. Verwende realistische Materialtexturen für Schrauben, Metallteile und andere Komponenten sowie eine fein ausgearbeitete Verarbeitung. Stelle sicher, dass das Modell flüssig im Browser läuft und sich natürlich bedienen lässt.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2100956517633761447) · [Originalbeitrag](https://x.com/YouWareAI/status/2100958838350643553) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 
@@ -3584,6 +3564,26 @@ Erstellt eine 3D-Animation der acht Planeten des Sonnensystems, die der Sonne au
 
 ---
 
+<a id="2111817735181332826"></a>
+
+### Interaktive 3D-Koi-Teich-Website
+
+[Harry Jackson](https://x.com/keydol123) · 2026-10-18
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/interactive-3d-koi-pond-website"><img src="../assets/previews/e4e7df34ede661a5265b6197b50151548e235aa852f375ad1af8c25b80141059.jpg" width="840" loading="lazy" alt="Interaktive 3D-Koi-Teich-Website"></a>
+
+Ein Prompt, den der Verfasser des Beitrags nach eigenen Angaben GPT Astra 6 und Claude Opus 5.5 als dieselbe Herausforderung vorgelegt hat: eine wunderschöne interaktive 3D-Koi-Teich-Website zu erstellen.
+
+**Prompt**
+
+```text
+Erstelle eine wunderschöne interaktive 3D-Koi-Teich-Website.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/interactive-3d-koi-pond-website) · [Originalbeitrag](https://x.com/keydol123/status/2111817735181332826) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Endlose Panzerverteidigung
@@ -3980,7 +3980,7 @@ Prüfe den Auftakt, beide Figurenporträts, die Kollision, die Seenotsignale, al
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 353 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 354 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>

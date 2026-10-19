@@ -28,7 +28,7 @@
 **為你的下一個遊戲、場景或互動世界尋找靈感。**
 
 
-**353 · 最新 Astra 提示詞**
+**354 · 最新 Astra 提示詞**
 
 ## 精選作品
 
@@ -51,7 +51,6 @@
 <summary>瀏覽案例</summary>
 
 - [怪獸街區——45 秒摧毀城市](#2100636075039629796)
-- [互動式 IWC Schaffhausen 手錶模型](#2100956517633761447)
 - [以真實軌道物理打造的星系](#2101055500599054437)
 - [完整的照片級寫實 3D 環境](#2101224659861590399)
 - [互動式 3D 航空發動機展示](#2101271938706685991)
@@ -144,6 +143,7 @@
 - [附帶行走動畫的食人魔 Blender 模型](#2110139804805693469)
 - [互動式 3D 電競滑鼠解說](#2110371046071382042)
 - [穿越銀河系的太陽系 3D 螺旋軌道模擬](#2110380365269639613)
+- [互動式 3D 錦鯉池網站](#2111817735181332826)
 - [Battle City 3D：無盡坦克防禦](#battle-city-3d)
 - [Crazy Tanks — 3D 島嶼火砲戰](#crazy-tanks-3d-island-artillery)
 - [Golden Miner：24 關 3D 採礦遊戲](#golden-miner)
@@ -252,26 +252,6 @@
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/monster-block) · [查看原文](https://x.com/abc30037274/status/2100636075039629796) · [線上展示](https://monster-block.tripo.page/) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2100956517633761447"></a>
-
-### 互動式 IWC Schaffhausen 手錶模型
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100956517633761447"><img src="../assets/previews/d7437e20a189ef08ef24c9272fa803e0f9e8d7da7da70314a92980db6a752bdc.jpg" width="840" loading="lazy" alt="互動式 IWC Schaffhausen 手錶模型"></a>
-
-經驗證的作者留言提供了一段提示詞，用於製作高度細緻的 Three.js 互動式 IWC Schaffhausen 3D 手錶模型。提示詞要求機械零件皆能個別辨識、採用逼真的藍寶石玻璃、讓指針即時走動，並支援爆炸式拆解與重新組裝互動。原始貼文將此內容作為 GPT-6 Astra 與其他模型比較時共用的提示詞。
-
-**提示詞**
-
-```text
-使用 Three.js 開發高度忠實的 IWC Schaffhausen 腕錶 3D 互動模型。需求如下：1）錶盤結構必須高度精確，每個機械零件都要個別建模，並能清楚辨識；2）錶面必須使用具備逼真透光、折射與反射效果的藍寶石玻璃材質；3）分針與秒針必須依照正確的走時邏輯運作，並自動以連續掃行方式播放指針動畫；4）支援手錶的拆解與重新組裝，且每個零件都能分離並個別檢視；5）整體細節層級必須極高，精確貼近真實手錶的結構與比例，螺絲、金屬零件及其他組件也要具備逼真的材質貼圖與精細工藝。請確保模型能在瀏覽器中順暢運作，互動自然。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100956517633761447) · [查看原文](https://x.com/YouWareAI/status/2100958838350643553) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -3650,6 +3630,26 @@ bluumik 提出的提示詞，與提供給 GPT-6 和 Opus 5.5 的相同七字請�
 
 ---
 
+<a id="2111817735181332826"></a>
+
+### 互動式 3D 錦鯉池網站
+
+[Harry Jackson](https://x.com/keydol123) · 2026-10-18
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-3d-koi-pond-website"><img src="../assets/previews/e4e7df34ede661a5265b6197b50151548e235aa852f375ad1af8c25b80141059.jpg" width="840" loading="lazy" alt="互動式 3D 錦鯉池網站"></a>
+
+發文者表示，這是提供給 GPT Astra 6 和 Claude Opus 5.5 的相同挑戰提示，要求製作一個美觀的互動式 3D 錦鯉池網站。
+
+**提示詞**
+
+```text
+製作一個美觀且具互動性的 3D 錦鯉池網站。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-3d-koi-pond-website) · [查看原文](https://x.com/keydol123/status/2111817735181332826) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D：無盡坦克防禦
@@ -4046,7 +4046,7 @@ yacht 會沿著封閉路線自動前進，速度約為每秒 0.38–0.48 個場�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 353 個案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 354 個案例 →</a></strong></p>
 <p><sub>為保持 GitHub README 渲染流暢，這裡僅展示最新 100 個案例。</sub></p>
 <br>
 </td></tr>

@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**353 · En yeni Astra istemleri**
+**354 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -51,7 +51,6 @@
 <summary>Örnekleri keşfet</summary>
 
 - [Monster Block — Şehri 45 Saniyede Yerle Bir Et](#2100636075039629796)
-- [Etkileşimli IWC Schaffhausen Saat Modeli](#2100956517633761447)
 - [Gerçek yörünge fiziğiyle galaksi](#2101055500599054437)
 - [Eksiksiz Fotogerçekçi 3B Ortam](#2101224659861590399)
 - [Etkileşimli 3B uçak motoru gösterimi](#2101271938706685991)
@@ -144,6 +143,7 @@
 - [Yürüme animasyonlu Ogre Blender modeli](#2110139804805693469)
 - [Etkileşimli 3B oyuncu faresi açıklaması](#2110371046071382042)
 - [Samanyolu’nda İlerleyen Güneş Sistemi: 3B Vidalı Yörünge Simülasyonu](#2110380365269639613)
+- [Etkileşimli 3B koi göleti web sitesi](#2111817735181332826)
 - [Battle City 3D: Sonsuz Tank Savunması](#battle-city-3d)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: 24 Seviyeli 3B Madencilik Oyunu](#golden-miner)
@@ -252,26 +252,6 @@ Okunabilir yardım metinleri, dokunmatik kontroller, duraklatma eylemleri ve son
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/monster-block) · [Orijinal gönderi](https://x.com/abc30037274/status/2100636075039629796) · [Canlı demo](https://monster-block.tripo.page/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2100956517633761447"></a>
-
-### Etkileşimli IWC Schaffhausen Saat Modeli
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100956517633761447"><img src="../assets/previews/d7437e20a189ef08ef24c9272fa803e0f9e8d7da7da70314a92980db6a752bdc.jpg" width="840" loading="lazy" alt="Etkileşimli IWC Schaffhausen Saat Modeli"></a>
-
-Doğrulanmış bir yazar yorumu, son derece ayrıntılı ve etkileşimli bir Three.js IWC Schaffhausen saat modeli için bir istem sunuyor. İstemde, birbirinden ayırt edilebilen mekanik bileşenler, gerçekçi safir cam, gerçek zamanlı ibre hareketi ve parçaların sökülüp yeniden birleştirilebildiği bir etkileşim tasarımı belirtiliyor. Ana gönderi, bunu GPT-6 Astra ve diğer modellerin karşılaştırıldığı bir değerlendirmede ortak istem olarak sunuyor.
-
-**İstem**
-
-```text
-IWC Schaffhausen saatinin son derece aslına sadık, etkileşimli bir 3B modelini geliştirmek için Three.js kullanın. Gereksinimler: 1) Kadran yapısı son derece hassas olmalı; her mekanik bileşen ayrı ayrı modellenmeli ve net biçimde ayırt edilebilmelidir; 2) Saat kadranında, gerçekçi saydamlık, kırılma ve yansıma efektlerine sahip safir cam malzemesi kullanılmalıdır; 3) Akrep ve saniye ibreleri doğru ibreler olmalı ve gerçek zaman işleyişini takip etmelidir; ibreler otomatik ve kesintisiz biçimde hareket etmelidir; 4) Saatin sökülüp yeniden birleştirilmesi desteklenmeli; her parça ayrılarak tek başına görüntülenebilmelidir; 5) Genel ayrıntı düzeyi son derece yüksek olmalı, gerçek bir saatin yapısı ve oranlarıyla yakından örtüşmeli; vidalar, metal parçalar ve diğer bileşenler için gerçekçi malzeme dokuları ve ince işçilik sunulmalıdır. Modelin tarayıcıda akıcı çalıştığından ve doğal biçimde etkileşim kurulabildiğinden emin olun.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100956517633761447) · [Orijinal gönderi](https://x.com/YouWareAI/status/2100958838350643553) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3649,6 +3629,26 @@ Samanyolu’nda yaklaşık 220 km/s hızla ilerleyen Güneş’in ve onu takip e
 
 ---
 
+<a id="2111817735181332826"></a>
+
+### Etkileşimli 3B koi göleti web sitesi
+
+[Harry Jackson](https://x.com/keydol123) · 2026-10-18
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-3d-koi-pond-website"><img src="../assets/previews/e4e7df34ede661a5265b6197b50151548e235aa852f375ad1af8c25b80141059.jpg" width="840" loading="lazy" alt="Etkileşimli 3B koi göleti web sitesi"></a>
+
+Gönderiyi paylaşan kişinin, güzel ve etkileşimli bir 3B koi göleti web sitesi oluşturma isteğiyle GPT Astra 6 ve Claude Opus 5.5’e aynı görev olarak verdiğini belirttiği bir prompt.
+
+**İstem**
+
+```text
+Güzel ve etkileşimli bir 3B koi göleti web sitesi oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-3d-koi-pond-website) · [Orijinal gönderi](https://x.com/keydol123/status/2111817735181332826) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Sonsuz Tank Savunması
@@ -4045,7 +4045,7 @@ Açılışı, her iki karakter portresini, çarpışmayı, imdat roketlerini, ü
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 353 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 354 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

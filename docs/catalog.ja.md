@@ -28,7 +28,7 @@
 **次のゲーム、シーン、インタラクティブな世界づくりのヒントに。**
 
 
-**353 · 最新の Astra プロンプト**
+**354 · 最新の Astra プロンプト**
 
 ## 注目の作品
 
@@ -51,7 +51,6 @@
 <summary>作例を見る</summary>
 
 - [Monster Block — 45秒で街を破壊せよ](#2100636075039629796)
-- [インタラクティブなIWC Schaffhausen腕時計モデル](#2100956517633761447)
 - [現実の軌道物理学に基づく銀河](#2101055500599054437)
 - [フォトリアルな3D環境をまるごと制作](#2101224659861590399)
 - [インタラクティブな3D航空機エンジン展示](#2101271938706685991)
@@ -144,6 +143,7 @@
 - [歩行アニメーション付きオーガのBlenderモデル](#2110139804805693469)
 - [インタラクティブな3Dゲーミングマウス解説](#2110371046071382042)
 - [銀河系を進む太陽系の3Dスクリュー軌道シミュレーション](#2110380365269639613)
+- [インタラクティブな3D錦鯉池のウェブサイト](#2111817735181332826)
 - [Battle City 3D：エンドレス戦車ディフェンス](#battle-city-3d)
 - [Crazy Tanks — 3Dアイランド砲撃戦](#crazy-tanks-3d-island-artillery)
 - [Golden Miner：全24レベルの3D採掘ゲーム](#golden-miner)
@@ -252,26 +252,6 @@ Tripoの作成操作をhttps://www.tripo3d.ai/にリンクし、utm_source=monst
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/monster-block) · [元の投稿](https://x.com/abc30037274/status/2100636075039629796) · [デモ](https://monster-block.tripo.page/) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="2100956517633761447"></a>
-
-### インタラクティブなIWC Schaffhausen腕時計モデル
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2100956517633761447"><img src="../assets/previews/d7437e20a189ef08ef24c9272fa803e0f9e8d7da7da70314a92980db6a752bdc.jpg" width="840" loading="lazy" alt="インタラクティブなIWC Schaffhausen腕時計モデル"></a>
-
-検証済みの投稿者コメントで、精密なThree.js製インタラクティブ3D IWC Schaffhausen腕時計モデルのプロンプトが共有されています。機械部品を一つひとつ判別できる構成、リアルなサファイアガラス、リアルタイムの針の動き、分解・再組み立てのインタラクションを指定しています。元の投稿では、GPT-6 Astraなど他のモデルとの比較に用いる共通プロンプトとして紹介されています。
-
-**プロンプト**
-
-```text
-Three.jsを使って、IWC Schaffhausenの腕時計を忠実に再現した、高精細な3Dインタラクティブモデルを開発してください。要件：1）文字盤の構造は非常に精密にし、すべての機械部品を個別に描画して明確に判別できるようにすること。2）風防には、リアルな透明度・屈折・反射効果を備えたサファイアガラスのマテリアルを使用すること。3）分針と秒針には正しい針を使用し、実際の時刻の進み方に従って、自動的かつ連続的にスイープアニメーションさせること。4）腕時計を分解・再組み立てできるようにし、各部品を分離して個別に確認できるようにすること。5）全体のディテールは極めて高精細にし、実物の腕時計の構造とプロポーションに近づけること。ねじ、金属部品、その他の構成要素にはリアルなマテリアルテクスチャを適用し、精緻な仕上がりにしてください。ブラウザ上でスムーズに動作し、自然に操作できるようにしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2100956517633761447) · [元の投稿](https://x.com/YouWareAI/status/2100958838350643553) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -3649,6 +3629,26 @@ Blenderでオーガを作成します（歩行アニメーション付き）。
 
 ---
 
+<a id="2111817735181332826"></a>
+
+### インタラクティブな3D錦鯉池のウェブサイト
+
+[Harry Jackson](https://x.com/keydol123) · 2026-10-18
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-3d-koi-pond-website"><img src="../assets/previews/e4e7df34ede661a5265b6197b50151548e235aa852f375ad1af8c25b80141059.jpg" width="840" loading="lazy" alt="インタラクティブな3D錦鯉池のウェブサイト"></a>
+
+投稿者によると、美しくインタラクティブな3D錦鯉池のウェブサイトを作るという同じ課題を、GPT Astra 6とClaude Opus 5.5にも提示したプロンプトです。
+
+**プロンプト**
+
+```text
+美しくインタラクティブな3D錦鯉池のウェブサイトを作成してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-3d-koi-pond-website) · [元の投稿](https://x.com/keydol123/status/2111817735181332826) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D：エンドレス戦車ディフェンス
@@ -4045,7 +4045,7 @@ Vite、JavaScriptモジュール、Three.jsを使用し、時間ベースで決�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 353 件の作例を公式サイトで見る →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 354 件の作例を公式サイトで見る →</a></strong></p>
 <p><sub>GitHub README をスムーズに表示するため、ここでは最新の作例 100 件のみを掲載しています。</sub></p>
 <br>
 </td></tr>

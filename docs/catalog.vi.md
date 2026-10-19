@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**353 · Prompt Astra mới nhất**
+**354 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -51,7 +51,6 @@
 <summary>Khám phá ví dụ</summary>
 
 - [Monster Block — 45 giây phá tan thành phố](#2100636075039629796)
-- [Mô hình đồng hồ IWC Schaffhausen 3D tương tác](#2100956517633761447)
 - [Thiên hà dựa trên vật lý quỹ đạo thực tế](#2101055500599054437)
 - [Môi trường 3D chân thực như ảnh hoàn chỉnh](#2101224659861590399)
 - [Mô hình tương tác 3D động cơ máy bay](#2101271938706685991)
@@ -144,6 +143,7 @@
 - [Mô hình Ogre trong Blender kèm hoạt ảnh đi bộ](#2110139804805693469)
 - [Mô phỏng tương tác 3D về chuột gaming](#2110371046071382042)
 - [Mô phỏng quỹ đạo xoắn ốc 3D của Hệ Mặt Trời chuyển động trong Dải Ngân Hà](#2110380365269639613)
+- [Trang web hồ cá koi 3D tương tác](#2111817735181332826)
 - [Battle City 3D: Phòng thủ xe tăng vô tận](#battle-city-3d)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: Game khai thác vàng 3D 24 cấp độ](#golden-miner)
@@ -252,26 +252,6 @@ Kiểm tra bố cục tiếng Anh và tiếng Trung trên màn hình desktop và
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/monster-block) · [Bài đăng gốc](https://x.com/abc30037274/status/2100636075039629796) · [Bản demo](https://monster-block.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2100956517633761447"></a>
-
-### Mô hình đồng hồ IWC Schaffhausen 3D tương tác
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100956517633761447"><img src="../assets/previews/d7437e20a189ef08ef24c9272fa803e0f9e8d7da7da70314a92980db6a752bdc.jpg" width="840" loading="lazy" alt="Mô hình đồng hồ IWC Schaffhausen 3D tương tác"></a>
-
-Một bình luận đã được xác minh của tác giả cung cấp prompt cho mô hình đồng hồ IWC Schaffhausen 3D tương tác bằng Three.js với độ chi tiết cao. Prompt yêu cầu các bộ phận cơ khí có thể nhận diện riêng, kính sapphire chân thực, kim chuyển động theo thời gian thực và tương tác tháo rời/lắp ráp lại theo dạng bung chi tiết. Bài đăng gốc giới thiệu đây là prompt dùng chung trong một phép so sánh có GPT-6 Astra và các mô hình khác.
-
-**Prompt**
-
-```text
-Sử dụng Three.js để phát triển mô hình đồng hồ IWC Schaffhausen 3D tương tác với độ trung thực cao. Yêu cầu: 1) Cấu trúc mặt số phải cực kỳ chính xác, mọi bộ phận cơ khí đều được dựng riêng và dễ dàng phân biệt; 2) Mặt kính đồng hồ phải sử dụng vật liệu kính sapphire với hiệu ứng trong suốt, khúc xạ và phản xạ chân thực; 3) Kim phút và kim giây phải là các kim chính xác, vận hành theo logic đo thời gian thực, với hoạt ảnh quét kim liên tục và tự động; 4) Hỗ trợ tháo rời và lắp ráp lại đồng hồ, cho phép tách và quan sát từng bộ phận riêng lẻ; 5) Mức độ chi tiết tổng thể phải cực kỳ cao, bám sát cấu trúc và tỷ lệ của đồng hồ thật, với kết cấu vật liệu chân thực cho ốc vít, các chi tiết kim loại và những bộ phận khác, thể hiện tay nghề chế tác tinh xảo. Hãy đảm bảo mô hình chạy mượt trên trình duyệt và tương tác tự nhiên.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100956517633761447) · [Bài đăng gốc](https://x.com/YouWareAI/status/2100958838350643553) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3649,6 +3629,26 @@ Hãy tạo một hoạt ảnh 3D mô phỏng Mặt Trời di chuyển trong Dả
 
 ---
 
+<a id="2111817735181332826"></a>
+
+### Trang web hồ cá koi 3D tương tác
+
+[Harry Jackson](https://x.com/keydol123) · 2026-10-18
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-3d-koi-pond-website"><img src="../assets/previews/e4e7df34ede661a5265b6197b50151548e235aa852f375ad1af8c25b80141059.jpg" width="840" loading="lazy" alt="Trang web hồ cá koi 3D tương tác"></a>
+
+Một prompt mà tác giả bài đăng cho biết đã được đưa cho GPT Astra 6 và Claude Opus 5.5 cùng giải một thử thách, yêu cầu tạo một trang web hồ cá koi 3D tương tác và đẹp mắt.
+
+**Prompt**
+
+```text
+Xây dựng một trang web hồ cá koi 3D đẹp mắt, có tính tương tác.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-3d-koi-pond-website) · [Bài đăng gốc](https://x.com/keydol123/status/2111817735181332826) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Phòng thủ xe tăng vô tận
@@ -4045,7 +4045,7 @@ Kiểm tra cảnh mở đầu, cả hai chân dung nhân vật, va chạm, pháo
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 353 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 354 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

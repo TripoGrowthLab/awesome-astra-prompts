@@ -28,7 +28,7 @@
 **Un punto de partida para tu próximo juego, escena o mundo interactivo.**
 
 
-**353 · Últimos prompts de Astra**
+**354 · Últimos prompts de Astra**
 
 ## Proyectos destacados
 
@@ -51,7 +51,6 @@
 <summary>Explorar ejemplos</summary>
 
 - [Monster Block — 45 segundos para destrozar la ciudad](#2100636075039629796)
-- [Modelo interactivo de reloj IWC Schaffhausen](#2100956517633761447)
 - [Galaxia basada en física orbital real](#2101055500599054437)
 - [Entorno 3D fotorrealista completo](#2101224659861590399)
 - [Visualización interactiva en 3D de un motor de aeronave](#2101271938706685991)
@@ -144,6 +143,7 @@
 - [Modelo de ogro en Blender con animación de caminata](#2110139804805693469)
 - [Explicación interactiva en 3D de un ratón gaming](#2110371046071382042)
 - [Simulación 3D de la órbita helicoidal del sistema solar a través de la Vía Láctea](#2110380365269639613)
+- [Sitio web interactivo de un estanque de koi en 3D](#2111817735181332826)
 - [Battle City 3D: Defensa de tanques sin fin](#battle-city-3d)
 - [Crazy Tanks — Artillería 3D en una isla](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: juego de minería 3D de 24 niveles](#golden-miner)
@@ -252,26 +252,6 @@ Comprueba las interfaces en inglés y chino en anchos de escritorio y de móvil 
 ```
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/monster-block) · [Publicación original](https://x.com/abc30037274/status/2100636075039629796) · [Demo en línea](https://monster-block.tripo.page/) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2100956517633761447"></a>
-
-### Modelo interactivo de reloj IWC Schaffhausen
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100956517633761447"><img src="../assets/previews/d7437e20a189ef08ef24c9272fa803e0f9e8d7da7da70314a92980db6a752bdc.jpg" width="840" loading="lazy" alt="Modelo interactivo de reloj IWC Schaffhausen"></a>
-
-Un comentario de autor verificado incluye un prompt para un modelo 3D interactivo de un reloj IWC Schaffhausen en Three.js, con un nivel de detalle muy alto. Especifica componentes mecánicos distinguibles individualmente, cristal de zafiro realista, movimiento de las agujas en tiempo real y una interacción de desmontaje y montaje mediante vista explosionada. La publicación principal lo presenta como el prompt compartido en una comparación en la que participan GPT-6 Astra y otros modelos.
-
-**Prompt**
-
-```text
-Usa Three.js para desarrollar un modelo 3D interactivo y altamente fiel de un reloj IWC Schaffhausen. Requisitos: 1) La estructura de la esfera debe ser extremadamente precisa, con cada componente mecánico representado de forma individual y claramente distinguible; 2) La esfera del reloj debe utilizar un material de cristal de zafiro con efectos realistas de transparencia, refracción y reflexión; 3) Las agujas de los minutos y los segundos deben indicar correctamente la hora según la lógica de un reloj en tiempo real, con una animación automática y continua del movimiento de las agujas; 4) El reloj debe admitir su desmontaje y montaje, de modo que cada pieza pueda separarse y visualizarse individualmente; 5) El nivel de detalle general debe ser extremadamente alto y aproximarse a la estructura y las proporciones de un reloj real, con texturas de materiales realistas para los tornillos, las piezas metálicas y otros componentes, además de un acabado artesanal minucioso. Asegúrate de que el modelo funcione con fluidez en el navegador y ofrezca una interacción natural.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100956517633761447) · [Publicación original](https://x.com/YouWareAI/status/2100958838350643553) · [Volver a los ejemplos](#all-prompts)
 
 ---
 
@@ -3649,6 +3629,26 @@ Crea una animación 3D del Sol avanzando por la Vía Láctea a unos 220 km/s y d
 
 ---
 
+<a id="2111817735181332826"></a>
+
+### Sitio web interactivo de un estanque de koi en 3D
+
+[Harry Jackson](https://x.com/keydol123) · 2026-10-18
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/interactive-3d-koi-pond-website"><img src="../assets/previews/e4e7df34ede661a5265b6197b50151548e235aa852f375ad1af8c25b80141059.jpg" width="840" loading="lazy" alt="Sitio web interactivo de un estanque de koi en 3D"></a>
+
+Un prompt que, según el autor de la publicación, se propuso como el mismo desafío a GPT Astra 6 y Claude Opus 5.5 para crear un sitio web hermoso e interactivo de un estanque de koi en 3D.
+
+**Prompt**
+
+```text
+Crea un sitio web hermoso e interactivo de un estanque de koi en 3D.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-3d-koi-pond-website) · [Publicación original](https://x.com/keydol123/status/2111817735181332826) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Defensa de tanques sin fin
@@ -4045,7 +4045,7 @@ Inspeccionar la apertura, los dos retratos de personajes, la colisión, los cohe
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 353 ejemplos en el sitio oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 354 ejemplos en el sitio oficial →</a></strong></p>
 <p><sub>Para que el README de GitHub se renderice con fluidez, aquí solo se muestran los 100 ejemplos más recientes.</sub></p>
 <br>
 </td></tr>
