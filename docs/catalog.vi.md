@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**354 · Prompt Astra mới nhất**
+**355 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Khám phá ví dụ</summary>
 
-- [Monster Block — 45 giây phá tan thành phố](#2100636075039629796)
 - [Thiên hà dựa trên vật lý quỹ đạo thực tế](#2101055500599054437)
 - [Môi trường 3D chân thực như ảnh hoàn chỉnh](#2101224659861590399)
 - [Mô hình tương tác 3D động cơ máy bay](#2101271938706685991)
@@ -144,6 +143,7 @@
 - [Mô phỏng tương tác 3D về chuột gaming](#2110371046071382042)
 - [Mô phỏng quỹ đạo xoắn ốc 3D của Hệ Mặt Trời chuyển động trong Dải Ngân Hà](#2110380365269639613)
 - [Trang web hồ cá koi 3D tương tác](#2111817735181332826)
+- [Cảnh đêm với tháp đồng hồ steampunk trong three.js](#2112137926922686800)
 - [Battle City 3D: Phòng thủ xe tăng vô tận](#battle-city-3d)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: Game khai thác vàng 3D 24 cấp độ](#golden-miner)
@@ -152,108 +152,6 @@
 - [TITANIC — Ánh sáng cuối cùng](#titanic-the-last-light)
 
 </details>
-
-<a id="2100636075039629796"></a>
-
-### Monster Block — 45 giây phá tan thành phố
-
-[Tony](https://x.com/abc30037274) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/monster-block"><img src="../assets/previews/cf99748892e20dab0f4b75e589ab2736b3ff213c336367312e89b45c6d8b2c2e.png" width="840" loading="lazy" alt="Monster Block — 45 giây phá tan thành phố"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/monster-block"><img src="../assets/previews/ae9bdb662df6fe31c53b0f7387ee374bfd839d3f923863eed3dd4cf5d3c508ef.png" width="840" loading="lazy" alt="Monster Block — 45 giây phá tan thành phố"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/monster-block"><img src="../assets/previews/45348d508ea595bf8fc58d93e46dd978759af15a75eff0c2b2177355e96dd180.png" width="840" loading="lazy" alt="Monster Block — 45 giây phá tan thành phố"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/monster-block"><img src="../assets/previews/a2b60fa4a189833c1c0949ebb00a76b5545a66b52b4bb0e945b7d55c272dbe25.png" width="840" loading="lazy" alt="Monster Block — 45 giây phá tan thành phố"></a>
-
-Chọn Munch, kaiju nhỏ con, Bongo, khỉ đột, hoặc Bolt, robot. Đập phá các tòa nhà, ném ô tô và nối combo trong màn cuồng phá thành phố 3D kéo dài 45 giây. Cả ba nhân vật hoạt ảnh đều được tạo bằng Tripo.
-
-**Prompt**
-
-```text
-# Monster Block — đặc tả xây dựng lại
-
-## 1. Mục tiêu dự án
-
-Xây dựng một game trình duyệt có thể chơi được mang tên Monster Block. Cho phép người chơi chọn một quái vật đồ chơi, bước vào thành phố thu nhỏ và phá hủy càng nhiều tòa nhà càng tốt trong 45 giây. Việc di chuyển, cào phá tòa nhà, ném ô tô và liên tiếp phá hủy phải tạo phản hồi tức thì. Kết thúc lượt chơi bằng điểm số, danh hiệu, nút chơi lại và liên kết thử thách để bạn bè có thể chơi cùng một khu phố. Cung cấp giao diện tiếng Anh và tiếng Trung giản thể, cùng điều khiển bằng bàn phím và cảm ứng.
-
-## 2. Phong cách hình ảnh
-
-Tạo một mô hình sa bàn ấm áp trên bục vuông dày, đặt trước nền màu kem. Sử dụng các tòa nhà màu pastel ít chi tiết, cửa sổ nhỏ màu xanh teal đậm, viền mái nhạt, đường phố rộng màu xanh xám trầm, vạch qua đường, cây tròn, ô tô nhỏ và bóng mềm ấm. Bảng màu tòa nhà gồm màu đất nung, vàng mù tạt, teal bụi, hồng rose, xanh xám, kem và xanh sage. Vật liệu nên trông như đồ chơi được sơn mờ thay vì kim loại bóng.
-
-Sử dụng camera phối cảnh cao góc ba phần tư, không dùng camera nhìn từ trên xuống phẳng. Camera tham chiếu bắt đầu tại (35, 37, 41), hướng về (0, 0.4, 0), với trường nhìn 38 độ trên màn hình rộng, 44 độ trên màn hình trung bình và 51 độ trên màn hình hẹp. Khi chơi, camera bám theo quái vật một cách mượt mà đồng thời vẫn giữ các mục tiêu lân cận trong tầm nhìn. Chiếu sáng cảnh bằng đèn bán cầu ấm, đèn định hướng mềm có đổ bóng và đèn bổ trợ mát.
-
-Sử dụng kiểu chữ hiển thị đậm, cô đọng cho các tiêu đề tiếng Anh lớn và sans-serif dễ đọc cho phần hướng dẫn. Kết hợp chữ xanh lá đậm, bề mặt màu kem, thao tác chơi màu cam và thao tác tạo bằng Tripo màu vàng. Trên trang chủ, làm cho Play và Create with Tripo nổi bật ngang nhau. Trong hộp thoại tạm dừng, đặt thẻ Tripo màu xanh lá đậm với ba ảnh thu nhỏ nhân vật và nút tạo màu vàng phía trên nút Resume dạng viền. Đảm bảo phần trợ giúp đủ dễ đọc trên điện thoại.
-
-Sử dụng các hiệu ứng ngắn, kích hoạt theo thao tác: vệt cào, tòa nhà giật lùi trong chốc lát, hiệu ứng va chạm và phá hủy riêng biệt, vòng chấn động mở rộng, mảnh vỡ nhỏ, điểm số bật lên, thay đổi combo và rung camera có hướng ở mức vừa phải. Nâng ô tô đã bắt vào tay trong khoảng 220 ms. Tôn trọng tùy chọn giảm chuyển động bằng cách tắt rung, các đợt mảnh vỡ và hiệu ứng phóng to giao diện, nhưng vẫn giữ điểm số, dấu hiệu mục tiêu và kết quả phá hủy.
-
-## 3. Thế giới và cảnh
-
-Đặt 16 tòa nhà có thể phá hủy trong lưới 4-by-4. Sử dụng khoảng cách giữa các khu phố là 10.4, tâm các khu phố lần lượt ở -1.5, -0.5, 0.5 và 1.5 lần khoảng cách đó, cùng năm đại lộ theo mỗi trục. Bục rộng 52.6 đơn vị. Tòa nhà có từ hai đến năm tầng, mặt bằng đa dạng, chi tiết mái, một số mái hiên và các biển HOTEL hoặc NOODS nhỏ. Tạo bố cục một cách xác định từ seed.
-
-Đặt 12 ô tô dọc các tuyến đường và đảm bảo có một ô tô màu vàng có thể ném được gần vị trí chơi ban đầu. Bố trí cây quanh các khu đất xây dựng và mép bục, bốn đèn ở góc, vạch làn đường và một lối qua đường ở trung tâm. Bắt đầu quái vật trên một đại lộ thông thoáng tại (0, 0.2, 10.4); dùng vị trí đứng chờ tiền cảnh ở z=20.8 cho trang chủ.
-
-Cùng một tham số khu phố phải tái tạo đúng cùng bố cục tòa nhà. Khi không có tham số, lấy seed khu phố từ ngày UTC. Tham số beat cung cấp điểm mục tiêu của bạn bè. Giữ nguyên khu phố đã chọn khi chơi lại. Mảnh vỡ ngẫu nhiên không cần có tính xác định.
-
-## 4. Danh mục tài sản
-
-Duy trì ID tài sản ổn định và tách mô hình hiển thị khỏi proxy va chạm của gameplay.
-
-- munch: Munch / 阿猛, khủng long xanh mặc định. Giữ nguyên mõm tròn, bụng và sừng màu kem, gai lưng màu cam, tay ngắn, bàn chân lớn và đuôi dài ban đầu. Tải /assets/monster-animated.glb và chuẩn hóa chiều cao thành 5.6 đơn vị. Giữ /assets/monster.glb làm phương án dự phòng tĩnh.
-- bongo: Bongo / 橘拳, khỉ đột đồ chơi màu cam với nắm đấm quá khổ và thân hình rộng. Tải /assets/bongo-animated.glb và chuẩn hóa chiều cao thành 4.5 đơn vị.
-- bolt: Bolt / 蓝电, robot đồ chơi màu xanh với tay chân chắc nịch và dáng vẻ thân thiện. Tải /assets/bolt-animated.glb và chuẩn hóa chiều cao thành 4.9 đơn vị.
-- Mỗi nhân vật có PNG xem trước tương ứng và các clip idle, run, slash. Giữ đúng ba nhân vật có thể chọn; khi chuyển nhân vật, phải cập nhật cả ảnh xem trước lẫn mô hình được sử dụng ở lượt chơi tiếp theo.
-- city_building: các nhóm tòa nhà procedural có thể tái sử dụng, với máu, giới hạn collider, độ giật khi trúng đòn và trạng thái phá hủy được theo dõi riêng. Viền mái, phần đế và mái hiên thuộc vùng bao va chạm.
-- city_car: các ô tô procedural có thể tái sử dụng và ném được. Tách riêng trạng thái đang cầm, đang bay và đã bị phá hủy. Ba ô tô mang thương hiệu Tripo màu vàng.
-- city_decor: cây, đèn, vỉa hè, biển báo và sơn đường procedural. Giữ phần này nhẹ và tái sử dụng hình học cùng vật liệu.
-- tripo_scenery: một mô hình logo trên mái, hai biển hiệu trên mái, một mặt tiền xưởng và ba ô tô gắn thương hiệu. Dựng chúng từ logo Tripo được cung cấp và các mesh procedural. Đây là vật trang trí cảnh, không phải mô hình được tạo thêm qua API hay vật phẩm tăng sức mạnh trong gameplay.
-
-Ba mô hình nhân vật là các tài sản Tripo ưu tiên. Tái sử dụng các GLB đã tạo và rig được cung cấp khi có thể. Với nhân vật mới, hãy tạo một mô hình phong cách đồ chơi phù hợp, kiểm tra độ tương thích của rig, bind rig, tạo animation idle/run/slash và xác thực tỷ lệ trước khi thêm vào danh sách nhân vật. Không gọi API tạo nội dung khi người chơi bắt đầu một lượt. Tải nhân vật lên và tự động nhập sản phẩm do người chơi tạo nằm ngoài phiên bản này.
-
-## 5. Gameplay và phản hồi
-
-Hỗ trợ WASD hoặc phím mũi tên để di chuyển, giữ Space để liên tục tấn công bằng vuốt, nhấn E để nhặt ô tô gần đó và nhấn E lần nữa để ném, nhấn R để dậm và Escape để tạm dừng. Cung cấp cần điều khiển ảo cùng các nút riêng cho tấn công, nhặt/ném và dậm trên màn hình cảm ứng. Xóa các thao tác đang được giữ khi tạm dừng hoặc mất tiêu điểm.
-
-Áp dụng các quy tắc sau:
-
-- Một lượt chơi kéo dài 45 giây. Máu của tòa nhà bằng số tầng cộng một, tương đương 3–6 máu.
-- Một đòn vuốt gây 1 sát thương, với khoảng thời gian giữa các đòn là 0.42 giây.
-- Một cú dậm gây 3 sát thương lên mỗi tòa nhà trong phạm vi và có thời gian hồi 7 giây.
-- Ô tô bị ném gây 4 sát thương lên các tòa nhà trong vùng va chạm và cộng 75 điểm cơ bản cho cú va chạm do ném.
-- Đánh trúng tòa nhà được cộng 20 lần hệ số hiện tại. Phá hủy tòa nhà cộng round(180 + chiều cao tòa nhà × 50) lần hệ số sau khi tăng combo phá hủy.
-- Phá hủy tiếp trong vòng 3.5 giây sẽ duy trì combo. Các đòn đánh thông thường không kéo dài khoảng thời gian này. Hệ số là min(5, 1 + floor(combo / 2)).
-- Phá hủy đủ cả 16 tòa nhà sẽ kết thúc lượt chơi và cộng ceil(số giây còn lại) × 100. Nếu không, kết thúc khi thời gian về 0 và không cho cộng thêm điểm.
-
-Không có kẻ địch, trận đấu trùm, máu người chơi hay hình phạt tử trận. Thử thách nằm ở việc chọn tuyến đường, sử dụng ô tô và cú dậm hiệu quả, đồng thời duy trì combo phá hủy. Hiển thị thời gian còn lại, điểm số, số tòa nhà đã phá hủy, hệ số và thời gian hồi cú dậm. Giải thích rõ các thao tác chưa khả dụng mà không chặn việc di chuyển. Phân biệt cú vung hụt với đòn đánh trúng bằng phản hồi âm thanh và hình ảnh.
-
-Xử lý việc di chuyển và xoay dựa trên vùng chiếm chỗ animation đã lấy mẫu của từng nhân vật, bao gồm cả tay và đuôi. Kiểm tra với toàn bộ giới hạn tòa nhà và chừa một khoảng hở nhỏ. Quái vật phải có thể tấn công từ một vị trí đứng hợp lệ. Cho phép di chuyển qua khu đất sau khi tòa nhà bị phá hủy. Tránh khiến người chơi mắc kẹt ở góc hoặc để đuôi quét xuyên qua tòa nhà còn nguyên khi xoay.
-
-Tạm dừng bộ đếm thời gian và thao tác khi nhấn Escape, nút tạm dừng, cửa sổ mất tiêu điểm hoặc tab bị ẩn. Cung cấp các luồng Resume, Retry và Home. Kết thúc bằng điểm số, số lần phá hủy, combo tốt nhất, một danh hiệu vui nhộn và liên kết thử thách cùng bản đồ. Cung cấp bảng điểm tải xuống kích thước 1080-by-1350 và, khi MediaRecorder được hỗ trợ, bản ghi lượt chơi ở định dạng MP4 hoặc WebM được hỗ trợ. Dùng tính năng chia sẻ gốc khi có thể và dùng clipboard làm phương án dự phòng cho liên kết thử thách. Không bao giờ trình bày điểm số do trình duyệt tính là bảng xếp hạng cạnh tranh đáng tin cậy.
-
-## 6. Triển khai kỹ thuật
-
-Sử dụng Three.js, TypeScript và Vite với bản build dist tĩnh. Tách việc tạo thế giới, luật chơi, va chạm, nhân vật, kết xuất, âm thanh, ghi hình, phân tích và UI thành các module riêng. Đóng gói font và các tài sản decoder cần thiết cục bộ. Dùng instancing cho các cửa sổ và vạch đường lặp lại, đồng thời tái sử dụng vật liệu và hình học. Giới hạn pixel ratio kết xuất ở mức 1.65. Giới hạn các hiệu ứng tạm thời và giải phóng tài nguyên khi hoàn tất hoặc reset.
-
-Sử dụng GLTFLoader, skeletal animation mixer và các clip GLB được cung cấp. Chuẩn hóa mỗi mô hình quanh pivot mặt đất ở chính giữa. Bản xuất tham chiếu hướng mặt về +X; xoay pivot hiển thị -90 độ quanh trục Y để căn theo hướng tiến +Z của game. Đánh giá animation idle trước khi hiển thị mô hình đã tải và giữ chân đang animation gần mặt đất. Nếu tải thất bại, sử dụng phương án procedural dự phòng có thể nhìn thấy và thông báo trung thực về lỗi. Kiểm soát việc chọn nhân vật bất đồng bộ để lần tải cũ không thể thay thế lựa chọn mới nhất.
-
-Giữ dữ liệu va chạm của nhân vật độc lập với mesh kết xuất và tạo lại các vùng chiếm chỗ đã lấy mẫu khi đổi nhân vật hoặc animation. Kiểm tra cả di chuyển lẫn xoay gần tường. Duy trì thao tác bàn phím/cảm ứng ổn định, hộp thoại phản hồi nhanh, nội dung đã bản địa hóa, hành vi focus, điều khiển âm thanh tắt tiếng, chế độ giảm chuyển động và khả năng khôi phục WebGL.
-
-Liên kết các thao tác tạo bằng Tripo với https://www.tripo3d.ai/ với utm_source=monster_block, utm_medium=referral, utm_campaign=monster_block_game và utm_content theo vị trí: header_logo, hero_create, pause_create, result_create hoặc footer_logo. Mở các thao tác này trong tab riêng và tạm dừng lượt chơi đang hoạt động trước. Giải thích rằng Tripo tạo tài sản 3D; không hứa hẹn tự động nhập vào game này.
-
-Giữ nguyên tích hợp sự kiện Pageview và PostHog khi chính sách lưu trữ cho phép. Chỉ sử dụng cấu hình tiếp nhận dữ liệu công khai trên trình duyệt trong bản build tĩnh. Giữ thông tin xác thực cho việc tạo nội dung, CMS, triển khai và phân tích cá nhân bên ngoài mã nguồn và các tài sản build. Ghi nhận lượt vào trang, chọn nhân vật, bắt đầu chơi, các thao tác đầu tiên, kết quả lượt chơi, chơi lại, chia sẻ/xuất và lượt nhấp ra ngoài đến Tripo, nhưng không xem lượt nhấp là lượt đăng ký hay thanh toán đã được xác minh.
-
-## 7. Tiêu chí hoàn tất
-
-Bàn giao mã nguồn có thể chạy, tài sản cục bộ, bản build tĩnh production và hướng dẫn cài đặt/khởi chạy/build rõ ràng. Xác minh cả ba lựa chọn nhân vật, một lượt chơi đủ thời gian, phá hủy tòa nhà, nhặt và ném, thời gian hồi cú dậm, hết hạn combo, tạm dừng/tiếp tục, chơi lại và tính điểm cuối lượt. Xác minh khủng long ban đầu vẫn có thể chọn, đồng thời cả ba nhân vật đều có thể di chuyển và xoay gần các tòa nhà mà không xuyên mesh rõ rệt hay bị mắc kẹt.
-
-Kiểm tra bố cục tiếng Anh và tiếng Trung trên màn hình desktop và thiết bị di động hẹp, bao gồm nội dung trợ giúp dễ đọc, điều khiển cảm ứng, thao tác tạm dừng và chia sẻ kết quả. Xác minh đích CTA của Tripo cùng các giá trị UTM theo vị trí, tính năng xuất bảng điểm và hành vi dự phòng khi ghi hình. Kiểm tra trang đã triển khai và môi trường iframe CMS thực tế về việc tải mô hình, thao tác, liên kết bên ngoài và tải xuống. Báo cáo các giới hạn của trình duyệt hoặc thiết bị thay vì khẳng định hỗ trợ mọi trường hợp hoặc tốc độ khung hình ổn định đã đo được khi chưa có bằng chứng.
-
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/monster-block) · [Bài đăng gốc](https://x.com/abc30037274/status/2100636075039629796) · [Bản demo](https://monster-block.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
-
----
 
 <a id="2101055500599054437"></a>
 
@@ -3649,6 +3547,36 @@ Xây dựng một trang web hồ cá koi 3D đẹp mắt, có tính tương tác
 
 ---
 
+<a id="2112137926922686800"></a>
+
+### Cảnh đêm với tháp đồng hồ steampunk trong three.js
+
+[AgentSky](https://x.com/agentsky_dev) · 2026-10-19
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/steampunk-clock-tower-threejs-night-scene"><img src="../assets/previews/808aee55eda00c6e97663d5af667bc2e7d186cffa4a08e6b2b80692e579b76f9.jpg" width="840" loading="lazy" alt="Cảnh đêm với tháp đồng hồ steampunk trong three.js"></a>
+
+Tác giả chia sẻ prompt này để người đọc tự chạy với GPT-6 Astra hoặc các agent được nêu tên khác. Prompt yêu cầu tạo một cảnh đêm three.js độc lập, với tháp đồng hồ steampunk nằm trên một thành phố phủ sương, khinh khí cầu bằng đồng bay vòng quanh, mặt đồng hồ hiển thị giờ hiện tại, sương mù, hệ thống chiếu sáng và camera tự động xoay quanh cảnh.
+
+**Prompt**
+
+```text
+Tạo một cảnh đêm 3D bằng three.js dưới dạng một tệp duy nhất là index.html trong thư mục hiện tại.
+
+Cảnh: một tháp đồng hồ steampunk sừng sững trên một thành phố nhỏ phủ sương vào ban đêm. Một khinh khí cầu bằng đồng có cánh quạt đang quay từ từ bay vòng quanh tòa tháp. Ánh trăng, những ô cửa sổ phát sáng ấm áp, mặt đồng hồ phát sáng với kim chỉ đúng giờ hiện tại, sương mù hoặc mây trôi dạt, cùng chuyển động camera tự động xoay chậm quanh cảnh để cảnh luôn sống động mà không cần thao tác.
+
+Quy tắc:
+- Chỉ tải three.js từ https://unpkg.com/three@0.170.0/ (ES modules thông qua import map). Không dùng tệp bên ngoài nào khác; hãy dựng mọi mô hình bằng các hình khối nguyên thủy của three.js trong mã.
+- Cảnh phải hiển thị ngay khi tải trang và tiếp tục hoạt ảnh với tốc độ khung hình mượt.
+
+Khi hoàn tất, hãy chạy máy chủ cho thư mục này ở chế độ nền để máy chủ vẫn hoạt động sau khi bạn kết thúc:
+nohup python3 -m http.server 8000 >/dev/null 2>&1 &
+Sau đó trả lời bằng một dòng cho biết bạn đã dựng gì.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/steampunk-clock-tower-threejs-night-scene) · [Bài đăng gốc](https://x.com/agentsky_dev/status/2112137931498688982) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Phòng thủ xe tăng vô tận
@@ -4045,7 +3973,7 @@ Kiểm tra cảnh mở đầu, cả hai chân dung nhân vật, va chạm, pháo
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 354 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 355 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

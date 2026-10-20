@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**354 · En yeni Astra istemleri**
+**355 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Örnekleri keşfet</summary>
 
-- [Monster Block — Şehri 45 Saniyede Yerle Bir Et](#2100636075039629796)
 - [Gerçek yörünge fiziğiyle galaksi](#2101055500599054437)
 - [Eksiksiz Fotogerçekçi 3B Ortam](#2101224659861590399)
 - [Etkileşimli 3B uçak motoru gösterimi](#2101271938706685991)
@@ -144,6 +143,7 @@
 - [Etkileşimli 3B oyuncu faresi açıklaması](#2110371046071382042)
 - [Samanyolu’nda İlerleyen Güneş Sistemi: 3B Vidalı Yörünge Simülasyonu](#2110380365269639613)
 - [Etkileşimli 3B koi göleti web sitesi](#2111817735181332826)
+- [three.js'te steampunk saat kulesi gece sahnesi](#2112137926922686800)
 - [Battle City 3D: Sonsuz Tank Savunması](#battle-city-3d)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: 24 Seviyeli 3B Madencilik Oyunu](#golden-miner)
@@ -152,108 +152,6 @@
 - [TITANIC — Son Işık](#titanic-the-last-light)
 
 </details>
-
-<a id="2100636075039629796"></a>
-
-### Monster Block — Şehri 45 Saniyede Yerle Bir Et
-
-[Tony](https://x.com/abc30037274) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/monster-block"><img src="../assets/previews/cf99748892e20dab0f4b75e589ab2736b3ff213c336367312e89b45c6d8b2c2e.png" width="840" loading="lazy" alt="Monster Block — Şehri 45 Saniyede Yerle Bir Et"></a>
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/monster-block"><img src="../assets/previews/ae9bdb662df6fe31c53b0f7387ee374bfd839d3f923863eed3dd4cf5d3c508ef.png" width="840" loading="lazy" alt="Monster Block — Şehri 45 Saniyede Yerle Bir Et"></a>
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/monster-block"><img src="../assets/previews/45348d508ea595bf8fc58d93e46dd978759af15a75eff0c2b2177355e96dd180.png" width="840" loading="lazy" alt="Monster Block — Şehri 45 Saniyede Yerle Bir Et"></a>
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/monster-block"><img src="../assets/previews/a2b60fa4a189833c1c0949ebb00a76b5545a66b52b4bb0e945b7d55c272dbe25.png" width="840" loading="lazy" alt="Monster Block — Şehri 45 Saniyede Yerle Bir Et"></a>
-
-Munch adlı küçük kaiju'yu, goril Bongo'yu veya robot Bolt'u seç. 45 saniyelik 3B şehir saldırısında binaları parçala, arabaları fırlat ve kombolar zincirle. Animasyonlu üç karakterin tamamı Tripo ile oluşturuldu.
-
-**İstem**
-
-```text
-# Monster Block — yeniden oluşturma spesifikasyonu
-
-## 1. Proje hedefi
-
-Monster Block adlı, tarayıcıda oynanabilen bir oyun oluştur. Oyuncunun oyuncak bir canavar seçmesine, minyatür bir şehre girmesine ve 45 saniye içinde mümkün olduğunca çok binayı yok etmesine olanak tanı. Hareket etmek, binalara pençeyle saldırmak, arabaları fırlatmak ve yıkımları zincirlemek anında geri bildirim üretmeli. Oyunu skor, bir unvan, yeniden deneme eylemi ve bir arkadaşın aynı blokta oynayabilmesini sağlayan bir meydan okuma bağlantısıyla bitir. İngilizce ve Basitleştirilmiş Çince arayüzlerin yanı sıra klavye ve dokunmatik ekran kontrolleri sun.
-
-## 2. Görsel stil
-
-Krem rengi bir arka planın önünde, kalın kare bir platform üzerinde sıcak bir masaüstü dioraması oluştur. Az detaylı pastel binalar, küçük koyu teal pencereler, açık renkli çatı kenarları, geniş ve mat yeşil-gri yollar, yaya geçitleri, yuvarlak ağaçlar, küçük arabalar ve sıcak yumuşak gölgeler kullan. Bina paletinde kiremit, hardal, tozlu teal, gül kurusu, mavi-gri, krem ve adaçayı tonları yer alsın. Malzemeler parlak metalden çok mat boyanmış oyuncaklar gibi görünmeli.
-
-Düz üstten bakan bir kamera yerine, yüksek üç çeyrek perspektifli bir kamera kullan. Referans kamera (35, 37, 41) konumundan başlar, (0, 0.4, 0) noktasına bakar ve geniş ekranlarda 38 derece, orta genişlikteki ekranlarda 44 derece, dar ekranlarda 51 derece görüş alanı kullanır. Oyun sırasında canavarı yumuşak biçimde takip ederken yakındaki hedefleri görünür tut. Sahneyi sıcak bir yarımküre ışığı, yumuşak gölgeler oluşturan yönlü bir ışık ve soğuk bir dolgu ışığıyla aydınlat.
-
-Büyük İngilizce başlıklar için yoğun ve kalın bir display yazı tipi, talimatlar içinse okunaklı bir sans-serif kullan. Koyu yeşil metni, krem yüzeyleri, turuncu oyun eylemlerini ve sarı Tripo oluşturma eylemlerini bir araya getir. Ana sayfada Play ile Create with Tripo eylemlerini eşit derecede öne çıkar. Duraklatma iletişim kutusunda, çerçeveli Resume düğmesinin üstüne üç karakter küçük resmi ve sarı bir oluşturma düğmesi içeren koyu yeşil bir Tripo kartı yerleştir. Yardım metnini telefonlarda rahatça okunabilecek boyutta tut.
-
-Kısa ve girdilerle tetiklenen efektler kullan: pençe savurmaları, binaların kısa süreli geri tepmesi, belirgin vuruş ve yıkım darbeleri, genişleyen ezme halkaları, küçük moloz patlamaları, skor bildirimleri, combo değişimleri ve ölçülü, yönlü kamera sarsıntısı. Tutulan bir arabayı yaklaşık 220 ms içinde elin içine kaldır. Azaltılmış hareket tercihine uyarak sarsıntıyı, moloz patlamalarını ve arayüz ölçeklendirmesini kaldır; skorları, hedef göstergelerini ve yıkım sonuçlarını koru.
-
-## 3. Dünya ve sahne
-
-4'e 4'lük bir ızgaraya 16 yıkılabilir bina yerleştir. Blok aralığı olarak 10.4 kullan; blok merkezleri bu aralığın -1.5, -0.5, 0.5 ve 1.5 katlarında olsun ve her eksen boyunca beş cadde bulunsun. Platformun genişliği 52.6 birimdir. Binalar iki ila beş katlı olsun; farklı taban şekilleri, çatı detayları, ara sıra tenteler ve küçük HOTEL veya NOODS tabelaları kullan. Yerleşimi bir seed'den deterministik olarak oluştur.
-
-Yollar boyunca 12 araba ve başlangıç oyun konumunun yakınına kesinlikle fırlatılabilir bir sarı araba yerleştir. Bina parsellerinin ve platform kenarlarının çevresine ağaçlar, dört köşe lambası, şerit işaretleri ve merkezi bir yaya geçidi ekle. Canavarı (0, 0.2, 10.4) konumunda açık bir caddede başlat; ana sayfa için z=20.8 konumunda ön planda bir bekleme konumu kullan.
-
-Aynı blok parametresi, aynı bina yerleşimini yeniden üretmeli. Parametre yoksa blok seed'ini UTC tarihinden türet. Bir beat parametresi arkadaşın hedef skorunu sağlar. Yeniden denerken seçili bloğu koru. Rastgele molozların deterministik olması gerekmez.
-
-## 4. Varlık envanteri
-
-Kararlı varlık kimliklerini koru ve görsel modelleri oyun içi çarpışma proxy'lerinden ayrı tut.
-
-- munch: Munch / 阿猛, varsayılan yeşil dinozor. Özgün yuvarlak burun yapısını, krem rengi karnını ve boynuzlarını, turuncu sırt dikenlerini, kısa kollarını, büyük ayaklarını ve uzun kuyruğunu koru. /assets/monster-animated.glb dosyasını yükle ve yüksekliğini 5.6 birime normalize et. /assets/monster.glb dosyasını statik yedek olarak koru.
-- bongo: Bongo / 橘拳, aşırı büyük yumruklara ve geniş bir gövdeye sahip turuncu oyuncak goril. /assets/bongo-animated.glb dosyasını yükle ve yüksekliğini 4.5 birime normalize et.
-- bolt: Bolt / 蓝电, kalın uzuvlara ve sevimli bir silüete sahip mavi oyuncak robot. /assets/bolt-animated.glb dosyasını yükle ve yüksekliğini 4.9 birime normalize et.
-- Her karakterin eşleşen bir önizleme PNG'si ile bekleme, koşma ve savurma klipleri vardır. Seçilebilir üç gerçek karakteri koru; karakter değiştirildiğinde hem önizleme hem de sonraki turda kullanılacak model güncellenmeli.
-- city_building: Sağlık, collider sınırları, vuruş geri tepmesi ve yıkım durumu ayrı ayrı izlenen, prosedürel ve yeniden kullanılabilir bina grupları. Çatı kenarları, tabanlar ve tenteler çarpışma hacmine dahildir.
-- city_car: Prosedürel olarak oluşturulan, yeniden kullanılabilir ve fırlatılabilir arabalar. Elde tutulan, havadaki ve yok edilmiş durumları ayrı tut. Üç arabada sarı Tripo markası bulunur.
-- city_decor: Prosedürel ağaçlar, lambalar, kaldırımlar, tabelalar ve yol boyaları. Bu varlıkları hafif tut, geometriyi ve malzemeleri yeniden kullan.
-- tripo_scenery: Bir çatı logo heykeli, iki çatı tabelası, bir atölye dükkân cephesi ve markalı üç araba. Bunları sağlanan Tripo logosundan ve prosedürel mesh'lerden oluştur. Bunlar ek API ile oluşturulmuş modeller veya oynanış güçlendirmeleri değil, sahne dekorasyonlarıdır.
-
-Üç karakter modeli öncelikli Tripo varlıklarıdır. Sağlandığında oluşturulmuş ve rig'lenmiş GLB'leri yeniden kullan. Yeni bir karakter için eşleşen oyuncak tarzı bir model oluştur, rig uygunluğunu kontrol et, rig'le, bekleme/koşma/savurma animasyonlarını oluştur ve kadroya eklemeden önce oranlarını doğrula. Oyuncu bir tura başladığında oluşturma API'lerini çağırma. Karakter yüklemeleri ve oyuncunun kendi oluşturduğu varlıkların otomatik içe aktarılması bu sürümün kapsamı dışındadır.
-
-## 5. Oynanış ve geri bildirim
-
-Hareket için WASD veya ok tuşlarını, tekrarlanan pençe saldırıları için basılı tutulan Space tuşunu, yakındaki bir arabayı tutup fırlatmak için E ve ardından tekrar E tuşunu, ezme saldırısı için R ve duraklatmak için Escape tuşunu destekle. Dokunmatik ekranlarda sanal joystick ile ayrı saldırı, tut/fırlat ve ezme düğmeleri sun. Duraklatıldığında veya odak kaybedildiğinde basılı girdileri temizle.
-
-Şu kuralları kullan:
-
-- Bir tur 45 saniye sürer. Binaların canı kat sayısı artı birdir; bu da 3–6 can verir.
-- Pençe vuruşu 1 hasar verir ve saldırı aralığı 0.42 saniyedir.
-- Ezme saldırısı menzil içindeki her binaya 3 hasar verir ve bekleme süresi 7 saniyedir.
-- Fırlatılan araba çarpma alanındaki binalara 4 hasar verir ve çarpma için 75 temel puan kazandırır.
-- Binaya isabet ettirmek, mevcut çarpanla çarpılmış 20 puan kazandırır. Bir yıkım, yıkım kombosu artırıldıktan sonra, çarpanla çarpılmış round(180 + bina yüksekliği × 50) puan ekler.
-- 3.5 saniye içinde yeniden yıkım yapmak komboyu sürdürür. Sıradan vuruşlar bu süreyi uzatmaz. Çarpan min(5, 1 + floor(combo / 2)) değeridir.
-- 16 binanın tamamını temizlemek turu bitirir ve ceil(kalan saniye) × 100 puan kazandırır. Aksi durumda süre sıfıra ulaştığında turu bitir ve daha fazla skor kazanılmasını engelle.
-
-Düşman, boss savaşı, oyuncu canı veya ölüm cezası yoktur. Meydan okuma; rota seçmek, arabaları ve ezme saldırılarını verimli kullanmak ve yıkım kombosunu sürdürmektir. Kalan süreyi, skoru, yok edilen bina sayısını, çarpanı ve ezme saldırısının bekleme süresini göster. Kullanılamayan eylemleri hareketi engellemeden anlaşılır kıl. Boşa savrulan bir pençeyi başarılı bir vuruştan ses ve görsel geri bildirimle ayırt et.
-
-Hareket ve dönüşleri, kollar ve kuyruk da dahil olmak üzere her karakterin örneklenmiş animasyon ayak iziyle çakışmaya göre çöz. Tam bina sınırlarını küçük bir açıklık payıyla kontrol et. Canavar, geçerli bir duruş konumundan saldırabilmeli. Binası yıkıldıktan sonra oyuncunun bir parselin içinden geçmesine izin ver. Oyuncuyu köşelerde sıkıştırmaktan veya dönüş sırasında kuyruğun sağlam bir binanın içinden geçmesinden kaçın.
-
-Escape tuşuna, duraklatma düğmesine, pencere odağının kaybolmasına ve gizli sekmelere geçişe tepki olarak zamanlayıcıyı ve girdileri duraklat. Resume, Retry ve Home akışlarını sun. Oyunu skor, yıkım sayısı, en iyi combo, eğlenceli bir unvan ve aynı haritada bir meydan okuma bağlantısıyla bitir. İndirilebilir 1080'e 1350 boyutunda bir skor kartı sun; MediaRecorder desteklendiğinde tur kaydını desteklenen MP4 veya WebM formatında oluştur. Kullanılabildiğinde yerel paylaşımı, meydan okuma bağlantıları içinse pano yedeğini kullan. Tarayıcı tarafından hesaplanan bir skoru hiçbir zaman güvenli bir rekabetçi liderlik tablosu gibi sunma.
-
-## 6. Teknik uygulama
-
-Statik dist build içeren Three.js, TypeScript ve Vite kullan. Dünya oluşturma, kurallar, çarpışma, karakterler, render, ses, kayıt, analitik ve arayüzü ayrı modüllerde tut. Fontları ve gerekli decoder varlıklarını yerel olarak paketle. Tekrarlanan pencereler ve yol işaretleri için instancing kullan; malzemeleri ve geometriyi yeniden kullan. Render piksel oranını 1.65 ile sınırla. Geçici efektleri sınırlandır ve tamamlandıklarında veya sıfırlandıklarında kaynaklarını serbest bırak.
-
-GLTFLoader, skeletal animation mixer'lar ve sağlanan GLB kliplerini kullan. Her modeli merkezlenmiş bir zemin pivotu etrafında normalize et. Referans dışa aktarımı +X yönüne bakar; görsel pivotu Y ekseni etrafında -90 derece döndürerek oyunun +Z ileri yönüyle hizala. Yüklenen modeli göstermeden önce bekleme animasyonunu değerlendir ve animasyonlu ayakları zemine yakın tut. Yükleme başarısız olursa görünür bir prosedürel yedek sun; hatayı dürüstçe belirt. Daha eski bir yüklemenin en son seçimin yerini almasını önlemek için asenkron karakter seçimini güvenli hâle getir.
-
-Karakter çarpışma verilerini render mesh'lerinden bağımsız tut ve karakter veya animasyon değiştirildiğinde örneklenmiş ayak izlerini yeniden oluştur. Duvarların yakınında hem öteleme hem de dönüşü test et. Kararlı klavye/dokunmatik girişini, duyarlı iletişim kutularını, yerelleştirilmiş metinleri, odak davranışını, sessiz ses kontrollerini, azaltılmış hareketi ve WebGL kurtarma davranışını koru.
-
-Tripo oluşturma eylemlerini https://www.tripo3d.ai/ adresine bağla; utm_source=monster_block, utm_medium=referral, utm_campaign=monster_block_game ve yerleşime özel bir utm_content kullan: header_logo, hero_create, pause_create, result_create veya footer_logo. Bu eylemleri ayrı bir sekmede aç ve önce etkin oyunu duraklat. Tripo'nun 3B varlıklar oluşturduğunu açıkla; bu oyuna otomatik içe aktarma sözü verme.
-
-Hosting politikasının izin verdiği durumlarda mevcut Pageview ve PostHog etkinlik entegrasyonunu koru. Statik build'de yalnızca herkese açık tarayıcı veri alım yapılandırmasını kullan. Oluşturma, CMS, dağıtım ve kişisel analitik kimlik bilgilerini kaynak kodunun ve build çıktılarının dışında tut. Sayfaya giriş, karakter seçimi, oyun, ilk eylemler, tur sonuçları, yeniden deneme, paylaşım/dışa aktarma ve Tripo dış bağlantı tıklamalarını kaydet; tıklamaları doğrulanmış kayıtlara veya ödemelere eşdeğer sayma.
-
-## 7. Tamamlanma ölçütleri
-
-Çalıştırılabilir kaynak kodu, yerel varlıkları, üretime hazır statik build'i ve açık kurulum/başlatma/build talimatlarını teslim et. Üç karakterin tüm seçimlerini, süreli bir turun tamamını, bina yıkımını, tutup fırlatmayı, ezme bekleme süresini, combo'nun sona ermesini, duraklatma/devam etme, yeniden deneme ve tur sonu skorlamasını doğrula. Özgün dinozorun seçilebilir kalmasını ve üç karakterin de binaların yakınında görünür biçimde iç içe geçmeden veya takılmadan hareket edip dönebilmesini doğrula.
-
-Okunabilir yardım metinleri, dokunmatik kontroller, duraklatma eylemleri ve sonuç paylaşımı dahil olmak üzere masaüstü ve dar mobil genişliklerde İngilizce ve Çince yerleşimleri kontrol et. Tripo CTA hedeflerini ve UTM yerleşim değerlerini, skor kartı dışa aktarımını ve kayıt yedeği davranışını doğrula. Dağıtılmış sayfayı ve gerçek CMS iframe ortamını model yükleme, giriş, harici bağlantılar ve indirmeler açısından test et. Evrensel destek iddiasında bulunmak veya kanıt olmadan ölçülmüş sabit kare hızını garanti etmek yerine tarayıcı ya da cihaz sınırlamalarını bildir.
-
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/monster-block) · [Orijinal gönderi](https://x.com/abc30037274/status/2100636075039629796) · [Canlı demo](https://monster-block.tripo.page/) · [Örneklere dön](#all-prompts)
-
----
 
 <a id="2101055500599054437"></a>
 
@@ -3649,6 +3547,26 @@ Güzel ve etkileşimli bir 3B koi göleti web sitesi oluştur.
 
 ---
 
+<a id="2112137926922686800"></a>
+
+### three.js'te steampunk saat kulesi gece sahnesi
+
+[AgentSky](https://x.com/agentsky_dev) · 2026-10-19
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/steampunk-clock-tower-threejs-night-scene"><img src="../assets/previews/808aee55eda00c6e97663d5af667bc2e7d186cffa4a08e6b2b80692e579b76f9.jpg" width="840" loading="lazy" alt="three.js'te steampunk saat kulesi gece sahnesi"></a>
+
+Yazar, okuyucuların GPT-6 Astra veya adı geçen diğer ajanlarla kendi başlarına çalıştırabilmesi için bu istemi paylaşıyor. İstem; sisli bir şehrin üzerinde yükselen steampunk saat kulesi, çevresinde dönen pirinç bir hava gemisi, gerçek zamanı gösteren bir saat kadranı, sis, aydınlatma ve otomatik kamera yörüngesi içeren, kendi kendine çalışan bir three.js gece sahnesi oluşturulmasını istiyor.
+
+**İstem**
+
+```text
+Ge%C3%A7erli%20klas%C3%B6rde%2C%20tek%20bir%20dosya%20olan%20index.html%20i%C3%A7inde%20three.js%20kullanarak%203B%20bir%20gece%20sahnesi%20olu%C5%9Ftur.%0A%0ASahne%3A%20gece%20sisli%20k%C3%BC%C3%A7%C3%BCk%20bir%20%C5%9Fehrin%20%C3%BCzerinde%20y%C3%BCkselen%20bir%20steampunk%20saat%20kulesi.%20D%C3%B6nen%20pervaneli%20pirin%C3%A7%20bir%20hava%20gemisi%20kulenin%20%C3%A7evresinde%20yava%C5%9F%C3%A7a%20d%C3%B6ner.%20Ay%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1%2C%20s%C4%B1cak%20%C4%B1%C5%9F%C4%B1kl%C4%B1%20pencereler%2C%20akrep%20ve%20yelkovan%C4%B1%20ger%C3%A7ek%20g%C3%BCncel%20saati%20g%C3%B6steren%20parlayan%20bir%20saat%20kadran%C4%B1%2C%20s%C3%BCz%C3%BClen%20sis%20veya%20bulutlar%20ile%20sahneye%20hi%C3%A7bir%20girdi%20olmadan%20canl%C4%B1%20kalmas%C4%B1n%C4%B1%20sa%C4%9Flayan%20yava%C5%9F%20bir%20otomatik%20kamera%20y%C3%B6r%C3%BCngesi%20bulunsun.%0A%0AKurallar%3A%0A-%20three.js%27i%20yaln%C4%B1zca%20https%3A//unpkg.com/three%400.170.0/%20adresinden%20y%C3%BCkle%20%28import%20map%20%C3%BCzerinden%20ES%20mod%C3%BClleri%29.%20Ba%C5%9Fka%20harici%20dosya%20kullanma%3B%20her%20modeli%20kod%20i%C3%A7inde%20three.js%20%C3%B6%C4%9Feleriyle%20olu%C5%9Ftur.%0A-%20Sayfa%20y%C3%BCklendi%C4%9Finde%20olu%C5%9Fturulmal%C4%B1%20ve%20ak%C4%B1c%C4%B1%20bir%20kare%20h%C4%B1z%C4%B1nda%20animasyonunu%20s%C3%BCrd%C3%BCrmeli.%0A%0A%C3%87al%C4%B1%C5%9Ft%C4%B1%C4%9F%C4%B1nda%2C%20siz%20i%C5%9Finizi%20bitirdikten%20sonra%20da%20%C3%A7al%C4%B1%C5%9F%C4%B1r%20durumda%20kalmas%C4%B1%20i%C3%A7in%20bu%20klas%C3%B6r%C3%BC%20arka%20planda%20sunun%3A%20nohup%20python3%20-m%20http.server%208000%20%3E/dev/null%202%3E%261%20%26%0AArd%C4%B1ndan%20ne%20olu%C5%9Fturdu%C4%9Funuzu%20s%C3%B6yleyen%20tek%20sat%C4%B1rl%C4%B1k%20bir%20yan%C4%B1t%20ver.%0A
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/steampunk-clock-tower-threejs-night-scene) · [Orijinal gönderi](https://x.com/agentsky_dev/status/2112137931498688982) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Sonsuz Tank Savunması
@@ -4045,7 +3963,7 @@ Açılışı, her iki karakter portresini, çarpışmayı, imdat roketlerini, ü
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 354 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 355 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

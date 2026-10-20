@@ -28,7 +28,7 @@
 **Un punto de partida para tu próximo juego, escena o mundo interactivo.**
 
 
-**354 · Últimos prompts de Astra**
+**355 · Últimos prompts de Astra**
 
 ## Proyectos destacados
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Explorar ejemplos</summary>
 
-- [Monster Block — 45 segundos para destrozar la ciudad](#2100636075039629796)
 - [Galaxia basada en física orbital real](#2101055500599054437)
 - [Entorno 3D fotorrealista completo](#2101224659861590399)
 - [Visualización interactiva en 3D de un motor de aeronave](#2101271938706685991)
@@ -144,6 +143,7 @@
 - [Explicación interactiva en 3D de un ratón gaming](#2110371046071382042)
 - [Simulación 3D de la órbita helicoidal del sistema solar a través de la Vía Láctea](#2110380365269639613)
 - [Sitio web interactivo de un estanque de koi en 3D](#2111817735181332826)
+- [Escena nocturna de una torre del reloj steampunk en three.js](#2112137926922686800)
 - [Battle City 3D: Defensa de tanques sin fin](#battle-city-3d)
 - [Crazy Tanks — Artillería 3D en una isla](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: juego de minería 3D de 24 niveles](#golden-miner)
@@ -152,108 +152,6 @@
 - [TITANIC — La última luz](#titanic-the-last-light)
 
 </details>
-
-<a id="2100636075039629796"></a>
-
-### Monster Block — 45 segundos para destrozar la ciudad
-
-[Tony](https://x.com/abc30037274) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/monster-block"><img src="../assets/previews/cf99748892e20dab0f4b75e589ab2736b3ff213c336367312e89b45c6d8b2c2e.png" width="840" loading="lazy" alt="Monster Block — 45 segundos para destrozar la ciudad"></a>
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/monster-block"><img src="../assets/previews/ae9bdb662df6fe31c53b0f7387ee374bfd839d3f923863eed3dd4cf5d3c508ef.png" width="840" loading="lazy" alt="Monster Block — 45 segundos para destrozar la ciudad"></a>
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/monster-block"><img src="../assets/previews/45348d508ea595bf8fc58d93e46dd978759af15a75eff0c2b2177355e96dd180.png" width="840" loading="lazy" alt="Monster Block — 45 segundos para destrozar la ciudad"></a>
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/monster-block"><img src="../assets/previews/a2b60fa4a189833c1c0949ebb00a76b5545a66b52b4bb0e945b7d55c272dbe25.png" width="840" loading="lazy" alt="Monster Block — 45 segundos para destrozar la ciudad"></a>
-
-Elige a Munch, el pequeño kaiju; a Bongo, el gorila; o a Bolt, el robot. Destroza edificios, lanza coches y encadena combos en una alocada destrucción urbana en 3D de 45 segundos. Los tres personajes animados se crearon con Tripo.
-
-**Prompt**
-
-```text
-# Monster Block — especificación de reconstrucción
-
-## 1. Objetivo del proyecto
-
-Crea un juego de navegador jugable llamado Monster Block. Permite que el jugador elija un monstruo de juguete, entre en una ciudad en miniatura y destruya tantos edificios como sea posible en 45 segundos. Moverse, golpear edificios con las garras, lanzar coches y encadenar demoliciones debe producir una respuesta inmediata. Termina con una puntuación, un título, una acción para volver a intentarlo y un enlace de desafío que permita a un amigo jugar en el mismo bloque. Ofrece interfaces en inglés y chino simplificado, además de controles de teclado y táctiles.
-
-## 2. Estilo visual
-
-Crea un diorama cálido de sobremesa sobre una plataforma cuadrada gruesa, con un fondo color crema. Usa edificios pastel de poco detalle, ventanas pequeñas de color verde azulado oscuro, cornisas de tejado claras, carreteras anchas en tonos verde grisáceo apagado, pasos de cebra, árboles redondeados, coches diminutos y sombras suaves y cálidas. La paleta de los edificios incluye terracota, mostaza, verde azulado empolvado, rosa, azul grisáceo, crema y verde salvia. Los materiales deben parecer juguetes pintados en mate, no metal brillante.
-
-Usa una cámara en perspectiva elevada de tres cuartos, no una cámara cenital plana. La cámara de referencia parte de (35, 37, 41), mira hacia (0, 0.4, 0) y utiliza un campo de visión de 38 grados en pantallas anchas, 44 grados en pantallas intermedias y 51 grados en pantallas estrechas. Durante la partida, sigue al monstruo con suavidad y mantén visibles los objetivos cercanos. Ilumina la escena con una luz hemisférica cálida, una luz direccional suave que proyecte sombras y una luz de relleno fría.
-
-Usa una tipografía de display condensada y en negrita para los encabezados grandes en inglés, y una sans serif legible para las instrucciones. Combina texto verde oscuro, superficies color crema, acciones de juego naranjas y acciones de creación de Tripo amarillas. En la página de inicio, da la misma importancia a Jugar y Crear con Tripo. En el diálogo de pausa, coloca una tarjeta de Tripo verde oscuro con tres miniaturas de personajes y un botón de creación amarillo encima del botón Reanudar con contorno. Mantén el texto de ayuda cómodamente legible en teléfonos.
-
-Usa efectos breves activados por las acciones: barridos de garras, retroceso momentáneo de los edificios, impactos diferenciados para golpes y demoliciones, anillos de pisotón expansivos, pequeñas ráfagas de escombros, avisos emergentes de puntuación, cambios de combo y un leve desplazamiento direccional de la cámara. Eleva el coche agarrado hasta la mano en unos 220 ms. Respeta las preferencias de movimiento reducido eliminando las sacudidas, las ráfagas de escombros y el escalado de la interfaz, pero conserva las puntuaciones, las indicaciones de objetivos y los resultados de destrucción.
-
-## 3. Mundo y escena
-
-Coloca 16 edificios destruibles en una cuadrícula de 4 × 4. Usa una separación entre bloques de 10.4, con los centros de los bloques en -1.5, -0.5, 0.5 y 1.5 veces esa separación, y cinco avenidas a lo largo de cada eje. La plataforma mide 52.6 unidades de ancho. Los edificios tienen entre dos y cinco plantas, plantas de distintas formas, detalles en los tejados, toldos ocasionales y pequeños letreros de HOTEL o NOODS. Genera la distribución de forma determinista a partir de una semilla.
-
-Coloca 12 coches en las carreteras y un coche amarillo garantizado que se pueda lanzar cerca de la posición inicial de juego. Incluye árboles alrededor de las parcelas de edificios y los bordes de la plataforma, cuatro farolas en las esquinas, marcas de carril y un cruce central. Sitúa al monstruo al inicio en una avenida despejada, en (0, 0.2, 10.4); usa una posición de reposo en primer plano en z=20.8 para la página de inicio.
-
-El mismo parámetro de bloque debe reproducir la misma distribución de edificios. Si falta, deriva la semilla del bloque a partir de la fecha UTC. Un parámetro beat proporciona la puntuación objetivo de un amigo. Conserva el bloque seleccionado al volver a intentarlo. Los escombros aleatorios no tienen que ser deterministas.
-
-## 4. Inventario de recursos
-
-Mantén identificadores de recursos estables y separa los modelos visuales de los proxies de colisión del juego.
-
-- munch: Munch / 阿猛, el dinosaurio verde predeterminado. Conserva el hocico redondeado original, el vientre y los cuernos color crema, las púas naranjas del lomo, los brazos cortos, los pies grandes y la cola larga. Carga /assets/monster-animated.glb y normaliza su altura a 5.6 unidades. Conserva /assets/monster.glb como alternativa estática.
-- bongo: Bongo / 橘拳, un gorila de juguete naranja, de cuerpo ancho y con puños enormes. Carga /assets/bongo-animated.glb y normaliza su altura a 4.5 unidades.
-- bolt: Bolt / 蓝电, un robot de juguete azul con extremidades robustas y una silueta simpática. Carga /assets/bolt-animated.glb y normaliza su altura a 4.9 unidades.
-- Cada personaje tiene un PNG de vista previa correspondiente y clips de reposo, carrera y ataque con garras. Conserva los tres personajes seleccionables reales; al cambiar de personaje deben actualizarse tanto la vista previa como el modelo que se usará en la siguiente ronda.
-- city_building: grupos de edificios procedurales reutilizables, con salud, límites del colisionador, retroceso al recibir impactos y estado de demolición registrados por separado. Las cornisas de los tejados, las bases y los toldos forman parte del volumen de colisión.
-- city_car: coches procedurales reutilizables que se pueden lanzar. Mantén separados los estados agarrado, en el aire y destruido. Tres coches llevan la marca Tripo amarilla.
-- city_decor: árboles, farolas, aceras, letreros y pintura vial procedurales. Mantén estos elementos ligeros y reutiliza la geometría y los materiales.
-- tripo_scenery: una escultura del logotipo en un tejado, dos letreros de tejado, un escaparate de taller y tres coches con marca. Constrúyelos a partir del logotipo de Tripo proporcionado y de mallas procedurales. Son decoraciones de la escena, no modelos adicionales generados mediante API ni potenciadores del juego.
-
-Los tres modelos de personajes son los recursos prioritarios de Tripo. Reutiliza los GLB generados y riggeados proporcionados cuando estén disponibles. Para crear un personaje nuevo, genera un modelo de estilo juguete que encaje, comprueba que sea adecuado para el rigging, vincúlalo, crea animaciones de reposo, carrera y ataque con garras, y valida sus proporciones antes de añadirlo al elenco. No llames a las API de generación cuando el jugador inicie una ronda. Las cargas de personajes y la importación automática de creaciones propias del jugador quedan fuera de esta versión.
-
-## 5. Jugabilidad y respuesta
-
-Admite las teclas WASD o las flechas para moverse, la barra espaciadora mantenida para repetir ataques con garras, E para agarrar un coche cercano y E de nuevo para lanzarlo, R para pisotear y Escape para pausar. Proporciona un joystick virtual y botones independientes de ataque, agarrar/lanzar y pisotón en pantallas táctiles. Borra las entradas mantenidas al pausar o perder el foco.
-
-Usa estas reglas:
-
-- Una ronda dura 45 segundos. La salud de cada edificio es igual al número de plantas más uno, lo que da entre 3 y 6 puntos de salud.
-- Un golpe de garra inflige 1 punto de daño, con un intervalo de ataque de 0.42 segundos.
-- Un pisotón inflige 3 puntos de daño a cada edificio que esté dentro del alcance y tiene un tiempo de reutilización de 7 segundos.
-- Un coche lanzado inflige 4 puntos de daño a los edificios de su zona de impacto y otorga 75 puntos base por el impacto del lanzamiento.
-- Golpear un edificio otorga 20 veces el multiplicador actual. Una demolición añade round(180 + altura del edificio × 50) multiplicado por el multiplicador, después de incrementar el combo de demoliciones.
-- Demoler otro edificio en un plazo de 3.5 segundos mantiene el combo. Los golpes normales no amplían este intervalo. El multiplicador es min(5, 1 + floor(combo / 2)).
-- Destruir los 16 edificios termina la ronda y otorga ceil(segundos restantes) × 100. De lo contrario, la ronda termina cuando el tiempo llega a cero y se impide seguir sumando puntos.
-
-No hay enemigos, combates contra jefes, salud del jugador ni penalizaciones por muerte. El desafío consiste en elegir las rutas, usar coches y pisotones con eficacia y mantener un combo de demoliciones. Muestra el tiempo restante, la puntuación, los edificios destruidos, el multiplicador y el tiempo de reutilización del pisotón. Haz comprensibles las acciones no disponibles sin bloquear el movimiento. Distingue un golpe al aire de un impacto acertado mediante respuestas sonoras y visuales.
-
-Resuelve el movimiento y la rotación contra la huella animada muestreada de cada personaje, incluidos los brazos y la cola. Comprueba las colisiones con los límites completos de los edificios, dejando una pequeña holgura. El monstruo debe poder atacar desde una posición legal de pie. Permite atravesar una parcela después de demoler su edificio. Evita atrapar al jugador en las esquinas o hacer que un giro barra la cola a través de un edificio intacto.
-
-Pausa el temporizador y las entradas al pulsar Escape o el botón de pausa, cuando la ventana pierda el foco y cuando las pestañas estén ocultas. Proporciona flujos de Reanudar, Volver a intentar e Inicio. Termina mostrando la puntuación, el número de demoliciones, el mejor combo, un título divertido y un enlace de desafío en el mismo mapa. Ofrece una tarjeta de puntuación descargable de 1080 × 1350 y, cuando MediaRecorder sea compatible, una grabación de la ronda en un formato MP4 o WebM compatible. Usa el uso compartido nativo cuando esté disponible y un recurso alternativo basado en el portapapeles para los enlaces de desafío. No presentes nunca una puntuación calculada por el navegador como una clasificación competitiva segura.
-
-## 6. Implementación técnica
-
-Usa Three.js, TypeScript y Vite con una compilación estática de dist. Mantén la generación del mundo, las reglas, las colisiones, los personajes, el renderizado, el audio, la grabación, la analítica y la interfaz en módulos separados. Incluye localmente las fuentes y los recursos de decodificación necesarios. Usa instanciación para las ventanas y las marcas viales repetidas, y reutiliza materiales y geometría. Limita la proporción de píxeles de renderizado a 1.65. Limita los efectos temporales y libera sus recursos al completarse o reiniciarse.
-
-Usa GLTFLoader, mezcladores de animación esquelética y los clips GLB proporcionados. Normaliza cada modelo alrededor de un pivote de suelo centrado. Las exportaciones de referencia miran hacia +X; gira el pivote visual -90 grados alrededor de Y para alinearlo con la dirección de avance +Z del juego. Evalúa la animación de reposo antes de mostrar el modelo cargado y mantén los pies animados cerca del suelo. Usa una alternativa procedural visible si falla la carga y comunica el fallo con honestidad. Protege la selección asíncrona de personajes para que una carga anterior no pueda reemplazar la selección más reciente.
-
-Mantén los datos de colisión de los personajes independientes de las mallas de renderizado y vuelve a hornear las huellas muestreadas al cambiar de personaje o de animaciones. Prueba tanto la traslación como la rotación cerca de las paredes. Conserva entradas estables de teclado y táctiles, diálogos adaptables, textos localizados, comportamiento del foco, controles de audio silenciado, movimiento reducido y recuperación de WebGL.
-
-Vincula las acciones de creación de Tripo a https://www.tripo3d.ai/ con utm_source=monster_block, utm_medium=referral, utm_campaign=monster_block_game y un utm_content específico según la ubicación: header_logo, hero_create, pause_create, result_create o footer_logo. Abre estas acciones en una pestaña independiente y pausa primero la partida activa. Explica que Tripo crea recursos 3D; no prometas la importación automática en este juego.
-
-Conserva la integración existente de eventos de Pageview y PostHog cuando la política del sitio anfitrión lo permita. Usa únicamente configuración pública de ingesta en el navegador dentro de la compilación estática. Mantén las credenciales de generación, CMS, despliegue y analítica personal fuera del código fuente y de los artefactos de compilación. Registra la entrada a la página, la selección de personaje, el inicio de la partida, las primeras acciones, los resultados de la ronda, los reintentos, el uso compartido o la exportación y los clics salientes a Tripo, sin tratar los clics como registros o pagos verificados.
-
-## 7. Criterios de finalización
-
-Entrega el código fuente ejecutable, los recursos locales, una compilación estática de producción y unas instrucciones claras de instalación, inicio y compilación. Verifica las tres selecciones de personaje, una ronda completa con límite de tiempo, la destrucción de edificios, agarrar y lanzar, el tiempo de reutilización del pisotón, la caducidad del combo, pausar/reanudar, volver a intentarlo y la puntuación al final de la ronda. Comprueba que el dinosaurio original siga siendo seleccionable y que los tres personajes puedan moverse y girar cerca de los edificios sin atravesarlos visiblemente ni quedarse atascados.
-
-Comprueba las interfaces en inglés y chino en anchos de escritorio y de móvil estrecho, incluido el texto de ayuda legible, los controles táctiles, las acciones de pausa y el uso compartido de resultados. Verifica los destinos de las llamadas a la acción de Tripo y los valores UTM según su ubicación, la exportación de la tarjeta de puntuación y el comportamiento alternativo de la grabación. Prueba la página desplegada y su entorno real de iframe del CMS para comprobar la carga de modelos, las entradas, los enlaces externos y las descargas. Informa de las limitaciones del navegador o del dispositivo en lugar de afirmar una compatibilidad universal o una velocidad de fotogramas estable medida sin pruebas.
-
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/monster-block) · [Publicación original](https://x.com/abc30037274/status/2100636075039629796) · [Demo en línea](https://monster-block.tripo.page/) · [Volver a los ejemplos](#all-prompts)
-
----
 
 <a id="2101055500599054437"></a>
 
@@ -3649,6 +3547,26 @@ Crea un sitio web hermoso e interactivo de un estanque de koi en 3D.
 
 ---
 
+<a id="2112137926922686800"></a>
+
+### Escena nocturna de una torre del reloj steampunk en three.js
+
+[AgentSky](https://x.com/agentsky_dev) · 2026-10-19
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/steampunk-clock-tower-threejs-night-scene"><img src="../assets/previews/808aee55eda00c6e97663d5af667bc2e7d186cffa4a08e6b2b80692e579b76f9.jpg" width="840" loading="lazy" alt="Escena nocturna de una torre del reloj steampunk en three.js"></a>
+
+El autor comparte este prompt para que los lectores lo ejecuten por su cuenta con GPT-6 Astra u otros agentes mencionados. Solicita una escena nocturna de three.js autónoma, con una torre del reloj steampunk sobre una ciudad cubierta de niebla, una aeronave de latón que gira a su alrededor, una esfera del reloj que muestra la hora actual, niebla, iluminación y una órbita automática de la cámara.
+
+**Prompt**
+
+```text
+Crea%20una%20escena%20nocturna%203D%20con%20three.js%20en%20un%20%C3%BAnico%20archivo%2C%20index.html%2C%20en%20la%20carpeta%20actual.%0A%0AEscena%3A%20una%20torre%20del%20reloj%20steampunk%20que%20se%20alza%20sobre%20una%20peque%C3%B1a%20ciudad%20cubierta%20de%20niebla%20por%20la%20noche.%20Una%20aeronave%20de%20lat%C3%B3n%20con%20una%20h%C3%A9lice%20giratoria%20rodea%20lentamente%20la%20torre.%20Luz%20de%20luna%2C%20ventanas%20iluminadas%20con%20luz%20c%C3%A1lida%2C%20una%20esfera%20del%20reloj%20resplandeciente%20cuyas%20manecillas%20muestran%20la%20hora%20actual%20real%2C%20niebla%20o%20nubes%20a%20la%20deriva%20y%20una%20%C3%B3rbita%20autom%C3%A1tica%20lenta%20de%20la%20c%C3%A1mara%20para%20que%20la%20escena%20cobre%20vida%20sin%20ninguna%20interacci%C3%B3n.%0A%0AReglas%3A%0A-%20Carga%20three.js%20%C3%BAnicamente%20desde%20https%3A//unpkg.com/three%400.170.0/%20%28m%C3%B3dulos%20ES%20mediante%20un%20mapa%20de%20importaci%C3%B3n%29.%20No%20uses%20otros%20archivos%20externos%3B%20crea%20cada%20modelo%20a%20partir%20de%20primitivas%20de%20three.js%20mediante%20c%C3%B3digo.%0A-%20Debe%20renderizarse%20al%20cargar%20la%20p%C3%A1gina%20y%20seguir%20anim%C3%A1ndose%20con%20una%20frecuencia%20de%20fotogramas%20fluida.%0A%0ACuando%20funcione%2C%20sirve%20esta%20carpeta%20en%20segundo%20plano%20para%20que%20siga%20activa%20cuando%20termines%3A%20nohup%20python3%20-m%20http.server%208000%20%3E/dev/null%202%3E%261%20%26%0ADespu%C3%A9s%20responde%20con%20una%20sola%20l%C3%ADnea%20indicando%20qu%C3%A9%20has%20creado.%0A
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/steampunk-clock-tower-threejs-night-scene) · [Publicación original](https://x.com/agentsky_dev/status/2112137931498688982) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Defensa de tanques sin fin
@@ -4045,7 +3963,7 @@ Inspeccionar la apertura, los dos retratos de personajes, la colisión, los cohe
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 354 ejemplos en el sitio oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 355 ejemplos en el sitio oficial →</a></strong></p>
 <p><sub>Para que el README de GitHub se renderice con fluidez, aquí solo se muestran los 100 ejemplos más recientes.</sub></p>
 <br>
 </td></tr>
