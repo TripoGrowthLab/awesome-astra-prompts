@@ -28,7 +28,7 @@
 **次のゲーム、シーン、インタラクティブな世界づくりのヒントに。**
 
 
-**355 · 最新の Astra プロンプト**
+**356 · 最新の Astra プロンプト**
 
 ## 注目の作品
 
@@ -50,7 +50,6 @@
 <details>
 <summary>作例を見る</summary>
 
-- [現実の軌道物理学に基づく銀河](#2101055500599054437)
 - [フォトリアルな3D環境をまるごと制作](#2101224659861590399)
 - [インタラクティブな3D航空機エンジン展示](#2101271938706685991)
 - [カンフー猫の3Dアニメーションと動画制作ワークフロー](#2101310374033428642)
@@ -144,6 +143,7 @@
 - [銀河系を進む太陽系の3Dスクリュー軌道シミュレーション](#2110380365269639613)
 - [インタラクティブな3D錦鯉池のウェブサイト](#2111817735181332826)
 - [three.jsで作るスチームパンクな時計塔の夜景](#2112137926922686800)
+- [ボトルの中の嵐：シネマティックアニメーション](#2112552671890874585)
 - [Battle City 3D：エンドレス戦車ディフェンス](#battle-city-3d)
 - [Crazy Tanks — 3Dアイランド砲撃戦](#crazy-tanks-3d-island-artillery)
 - [Golden Miner：全24レベルの3D採掘ゲーム](#golden-miner)
@@ -152,26 +152,6 @@
 - [TITANIC — 最後の光](#titanic-the-last-light)
 
 </details>
-
-<a id="2101055500599054437"></a>
-
-### 現実の軌道物理学に基づく銀河
-
-[Argona](https://x.com/Argona0x) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2101055500599054437"><img src="../assets/previews/1a842b607dcfcccfd8b382dd54f71224f044dcfbb13dad37549ea086cf876511.jpg" width="840" loading="lazy" alt="現実の軌道物理学に基づく銀河"></a>
-
-制作者は、決定論的な銀河シミュレーションと、その中を30秒間飛行するための入力として、この一文からなるGPT-6 Astra用プロンプトを提示しています。現実の軌道物理学と32万個の恒星を求めています。
-
-**プロンプト**
-
-```text
-現実の軌道物理学に基づく銀河、32万個の恒星、その中を飛行する1回のフライト、30秒間
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2101055500599054437) · [元の投稿](https://x.com/Argona0x/status/2101055500599054437) · [作例一覧に戻る](#all-prompts)
-
----
 
 <a id="2101224659861590399"></a>
 
@@ -3576,6 +3556,26 @@ three.jsを使い、現在のフォルダーに単一ファイルのindex.html�
 
 ---
 
+<a id="2112552671890874585"></a>
+
+### ボトルの中の嵐：シネマティックアニメーション
+
+[AI Fun](https://x.com/ai_funss) · 2026-10-20
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/cinematic-storm-in-a-bottle-animation"><img src="../assets/previews/0992d3d29a102ad7cff233d80f5928e79615584ab1698442e1df244a1be3efa0.jpg" width="840" loading="lazy" alt="ボトルの中の嵐：シネマティックアニメーション"></a>
+
+認証済みコメントでルート作成者が共有したBlender用プロンプトです。ミニチュアの海と帆船が入ったガラス瓶の中で嵐が発生し、やがて収まっていく、リアルでシネマティックなアニメーションを作成します。
+
+**プロンプト**
+
+```text
+Blenderで、リアルでシネマティックな「ボトルの中の嵐」アニメーションを一から作成します。居心地のよい薄暗い部屋の中、木製の机の上にガラス瓶が横向きに置かれています。瓶の中には小さな海と帆船があります。アニメーションが進むにつれて、瓶の中で嵐が発生します。水面が盛り上がってうねる波となり、ガラス越しに暗い雲が集まり、雨が降り、稲妻が走って部屋全体を照らします。小さな船は激しく揺れ、傾きながらも嵐を乗り切ります。その後、嵐は静まり、水面はゆっくりと穏やかに揺れる状態へ戻ります。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/cinematic-storm-in-a-bottle-animation) · [元の投稿](https://x.com/ai_funss/status/2112552780707815467) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D：エンドレス戦車ディフェンス
@@ -3972,7 +3972,7 @@ Vite、JavaScriptモジュール、Three.jsを使用し、時間ベースで決�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 355 件の作例を公式サイトで見る →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 356 件の作例を公式サイトで見る →</a></strong></p>
 <p><sub>GitHub README をスムーズに表示するため、ここでは最新の作例 100 件のみを掲載しています。</sub></p>
 <br>
 </td></tr>

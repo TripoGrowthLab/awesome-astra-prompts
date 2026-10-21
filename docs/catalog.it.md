@@ -28,7 +28,7 @@
 **Un punto di partenza per il tuo prossimo gioco, scena o mondo interattivo.**
 
 
-**355 · Prompt Astra più recenti**
+**356 · Prompt Astra più recenti**
 
 ## Progetti in evidenza
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Esplora gli esempi</summary>
 
-- [Galassia basata sulla fisica orbitale reale](#2101055500599054437)
 - [Ambiente 3D fotorealistico completo](#2101224659861590399)
 - [Visualizzazione 3D interattiva di un motore aeronautico](#2101271938706685991)
 - [Workflow per animazione 3D e video di un gatto esperto di arti marziali](#2101310374033428642)
@@ -144,6 +143,7 @@
 - [Simulazione 3D dell’orbita elicoidale del sistema solare attraverso la Via Lattea](#2110380365269639613)
 - [Sito web interattivo con laghetto di carpe koi in 3D](#2111817735181332826)
 - [Scena notturna con torre dell'orologio steampunk in three.js](#2112137926922686800)
+- [Animazione cinematografica di una tempesta in bottiglia](#2112552671890874585)
 - [Battle City 3D: Difesa infinita con i carri armati](#battle-city-3d)
 - [Crazy Tanks — Artiglieria 3D sulle isole](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: gioco minerario 3D a 24 livelli](#golden-miner)
@@ -152,26 +152,6 @@
 - [TITANIC — L’ultima luce](#titanic-the-last-light)
 
 </details>
-
-<a id="2101055500599054437"></a>
-
-### Galassia basata sulla fisica orbitale reale
-
-[Argona](https://x.com/Argona0x) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2101055500599054437"><img src="../assets/previews/1a842b607dcfcccfd8b382dd54f71224f044dcfbb13dad37549ea086cf876511.jpg" width="840" loading="lazy" alt="Galassia basata sulla fisica orbitale reale"></a>
-
-L’autore presenta questo prompt di una sola frase per GPT-6 Astra come input per una simulazione deterministica di una galassia e un volo di 30 secondi al suo interno. Richiede fisica orbitale reale e 320.000 stelle.
-
-**Prompt**
-
-```text
-una galassia basata sulla fisica orbitale reale, 320.000 stelle, un volo al suo interno, 30 secondi
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2101055500599054437) · [Post originale](https://x.com/Argona0x/status/2101055500599054437) · [Torna agli esempi](#all-prompts)
-
----
 
 <a id="2101224659861590399"></a>
 
@@ -3567,6 +3547,26 @@ Crea%20una%20scena%20notturna%203D%20con%20three.js%20come%20un%20unico%20file%2
 
 ---
 
+<a id="2112552671890874585"></a>
+
+### Animazione cinematografica di una tempesta in bottiglia
+
+[AI Fun](https://x.com/ai_funss) · 2026-10-20
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/cinematic-storm-in-a-bottle-animation"><img src="../assets/previews/0992d3d29a102ad7cff233d80f5928e79615584ab1698442e1df244a1be3efa0.jpg" width="840" loading="lazy" alt="Animazione cinematografica di una tempesta in bottiglia"></a>
+
+Prompt per Blender condiviso dall’autore principale in un commento verificato. Richiede un’animazione cinematografica realistica di una bottiglia di vetro contenente un oceano in miniatura e un veliero, al cui interno si forma una tempesta che poi si placa.
+
+**Prompt**
+
+```text
+Crea da zero, interamente in Blender, un’animazione realistica e cinematografica di una «tempesta in bottiglia». Una bottiglia di vetro è appoggiata su un lato su una scrivania di legno, in una stanza accogliente e poco illuminata. All’interno della bottiglia c’è un minuscolo oceano con un piccolo veliero. Nel corso dell’animazione, all’interno della bottiglia si sviluppa una tempesta: l’acqua si solleva formando onde che si susseguono, nuvole scure si addensano sotto il vetro, cade la pioggia, i lampi illuminano l’intera stanza e la piccola nave beccheggia e rolla, ma riesce a superare la tempesta. Poi la tempesta si placa e l’acqua torna a ondeggiare dolcemente.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/cinematic-storm-in-a-bottle-animation) · [Post originale](https://x.com/ai_funss/status/2112552780707815467) · [Torna agli esempi](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Difesa infinita con i carri armati
@@ -3963,7 +3963,7 @@ Ispezionare l’apertura, entrambi i ritratti dei personaggi, la collisione, i r
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 355 esempi sul sito ufficiale →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 356 esempi sul sito ufficiale →</a></strong></p>
 <p><sub>Per mantenere fluido il rendering del README su GitHub, qui mostriamo solo i 100 esempi più recenti.</sub></p>
 <br>
 </td></tr>

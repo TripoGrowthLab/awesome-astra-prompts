@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**355 · En yeni Astra istemleri**
+**356 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Örnekleri keşfet</summary>
 
-- [Gerçek yörünge fiziğiyle galaksi](#2101055500599054437)
 - [Eksiksiz Fotogerçekçi 3B Ortam](#2101224659861590399)
 - [Etkileşimli 3B uçak motoru gösterimi](#2101271938706685991)
 - [Catfu dövüş sanatları kedisi için 3B animasyon ve video iş akışı](#2101310374033428642)
@@ -144,6 +143,7 @@
 - [Samanyolu’nda İlerleyen Güneş Sistemi: 3B Vidalı Yörünge Simülasyonu](#2110380365269639613)
 - [Etkileşimli 3B koi göleti web sitesi](#2111817735181332826)
 - [three.js'te steampunk saat kulesi gece sahnesi](#2112137926922686800)
+- [Şişede Sinematik Fırtına Animasyonu](#2112552671890874585)
 - [Battle City 3D: Sonsuz Tank Savunması](#battle-city-3d)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: 24 Seviyeli 3B Madencilik Oyunu](#golden-miner)
@@ -152,26 +152,6 @@
 - [TITANIC — Son Işık](#titanic-the-last-light)
 
 </details>
-
-<a id="2101055500599054437"></a>
-
-### Gerçek yörünge fiziğiyle galaksi
-
-[Argona](https://x.com/Argona0x) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101055500599054437"><img src="../assets/previews/1a842b607dcfcccfd8b382dd54f71224f044dcfbb13dad37549ea086cf876511.jpg" width="840" loading="lazy" alt="Gerçek yörünge fiziğiyle galaksi"></a>
-
-Yazar, bu tek cümlelik GPT-6 Astra istemini deterministik bir galaksi simülasyonu ve galaksinin içinde 30 saniyelik bir uçuş için girdi olarak sunuyor. İstem, gerçek yörünge fiziği ve 320.000 yıldız talep ediyor.
-
-**İstem**
-
-```text
-gerçek yörünge fiziğiyle oluşturulmuş bir galaksi, 320.000 yıldız, içinde 30 saniyelik bir uçuş
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101055500599054437) · [Orijinal gönderi](https://x.com/Argona0x/status/2101055500599054437) · [Örneklere dön](#all-prompts)
-
----
 
 <a id="2101224659861590399"></a>
 
@@ -3567,6 +3547,26 @@ Ge%C3%A7erli%20klas%C3%B6rde%2C%20tek%20bir%20dosya%20olan%20index.html%20i%C3%A
 
 ---
 
+<a id="2112552671890874585"></a>
+
+### Şişede Sinematik Fırtına Animasyonu
+
+[AI Fun](https://x.com/ai_funss) · 2026-10-20
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/cinematic-storm-in-a-bottle-animation"><img src="../assets/previews/0992d3d29a102ad7cff233d80f5928e79615584ab1698442e1df244a1be3efa0.jpg" width="840" loading="lazy" alt="Şişede Sinematik Fırtına Animasyonu"></a>
+
+Doğrulanmış bir yorumda, içeriğin asıl sahibi tarafından paylaşılan Blender promptu. İçinde minyatür bir okyanus ve yelkenli gemi bulunan cam bir şişede, içeride oluşan ve ardından dinen gerçekçi, sinematik bir animasyon oluşturulmasını ister.
+
+**İstem**
+
+```text
+Blender’da tamamen sıfırdan, gerçekçi ve sinematik bir “şişede fırtına” animasyonu oluştur. Cam bir şişe, loş ve sıcak ışıklandırılmış, rahat bir odada ahşap bir masanın üzerinde yan yatıyor. Şişenin içinde minik bir okyanus ve minik bir yelkenli gemi bulunuyor. Animasyon boyunca şişenin içinde bir fırtına oluşsun: su yükselerek yuvarlanan dalgalara dönüşsün, camın altında koyu bulutlar toplansın, yağmur yağsın, şimşek çaksın ve tüm odayı aydınlatsın; küçük gemi de yalpalayıp yuvarlansa ancak fırtınayı atlatsın. Ardından fırtına dinerken su yeniden hafifçe sallansın.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/cinematic-storm-in-a-bottle-animation) · [Orijinal gönderi](https://x.com/ai_funss/status/2112552780707815467) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Sonsuz Tank Savunması
@@ -3963,7 +3963,7 @@ Açılışı, her iki karakter portresini, çarpışmayı, imdat roketlerini, ü
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 355 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 356 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**355 · Prompt Astra mới nhất**
+**356 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Khám phá ví dụ</summary>
 
-- [Thiên hà dựa trên vật lý quỹ đạo thực tế](#2101055500599054437)
 - [Môi trường 3D chân thực như ảnh hoàn chỉnh](#2101224659861590399)
 - [Mô hình tương tác 3D động cơ máy bay](#2101271938706685991)
 - [Quy trình tạo hoạt ảnh 3D và video mèo võ thuật catfu](#2101310374033428642)
@@ -144,6 +143,7 @@
 - [Mô phỏng quỹ đạo xoắn ốc 3D của Hệ Mặt Trời chuyển động trong Dải Ngân Hà](#2110380365269639613)
 - [Trang web hồ cá koi 3D tương tác](#2111817735181332826)
 - [Cảnh đêm với tháp đồng hồ steampunk trong three.js](#2112137926922686800)
+- [Hoạt ảnh cơn bão trong chai theo phong cách điện ảnh](#2112552671890874585)
 - [Battle City 3D: Phòng thủ xe tăng vô tận](#battle-city-3d)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: Game khai thác vàng 3D 24 cấp độ](#golden-miner)
@@ -152,26 +152,6 @@
 - [TITANIC — Ánh sáng cuối cùng](#titanic-the-last-light)
 
 </details>
-
-<a id="2101055500599054437"></a>
-
-### Thiên hà dựa trên vật lý quỹ đạo thực tế
-
-[Argona](https://x.com/Argona0x) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101055500599054437"><img src="../assets/previews/1a842b607dcfcccfd8b382dd54f71224f044dcfbb13dad37549ea086cf876511.jpg" width="840" loading="lazy" alt="Thiên hà dựa trên vật lý quỹ đạo thực tế"></a>
-
-Tác giả giới thiệu prompt GPT-6 Astra một câu này làm đầu vào để mô phỏng một thiên hà có tính xác định và thực hiện chuyến bay dài 30 giây xuyên qua thiên hà đó. Prompt yêu cầu áp dụng vật lý quỹ đạo thực tế và tạo 320.000 ngôi sao.
-
-**Prompt**
-
-```text
-một thiên hà dựa trên vật lý quỹ đạo thực tế, 320.000 ngôi sao, một chuyến bay xuyên qua thiên hà, 30 giây
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101055500599054437) · [Bài đăng gốc](https://x.com/Argona0x/status/2101055500599054437) · [Về danh sách ví dụ](#all-prompts)
-
----
 
 <a id="2101224659861590399"></a>
 
@@ -3577,6 +3557,26 @@ Sau đó trả lời bằng một dòng cho biết bạn đã dựng gì.
 
 ---
 
+<a id="2112552671890874585"></a>
+
+### Hoạt ảnh cơn bão trong chai theo phong cách điện ảnh
+
+[AI Fun](https://x.com/ai_funss) · 2026-10-20
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/cinematic-storm-in-a-bottle-animation"><img src="../assets/previews/0992d3d29a102ad7cff233d80f5928e79615584ab1698442e1df244a1be3efa0.jpg" width="840" loading="lazy" alt="Hoạt ảnh cơn bão trong chai theo phong cách điện ảnh"></a>
+
+Prompt Blender do tác giả gốc chia sẻ trong một bình luận đã được xác minh. Prompt này yêu cầu tạo một hoạt ảnh điện ảnh chân thực về một chai thủy tinh chứa đại dương thu nhỏ và một con tàu buồm, trong đó cơn bão hình thành rồi dần tan đi bên trong chai.
+
+**Prompt**
+
+```text
+Tạo một hoạt ảnh “cơn bão trong chai” chân thực, mang đậm chất điện ảnh, hoàn toàn từ đầu trong Blender. Một chai thủy tinh nằm nghiêng trên bàn gỗ trong một căn phòng ấm cúng, thiếu sáng. Bên trong chai là một đại dương thu nhỏ cùng một con tàu buồm nhỏ. Trong suốt hoạt ảnh, một cơn bão hình thành bên trong chai: mặt nước dâng lên thành những con sóng cuộn, mây đen tụ lại dưới lớp thủy tinh, mưa bắt đầu rơi, tia chớp lóe sáng và chiếu sáng cả căn phòng, còn con tàu nhỏ chao đảo theo sóng nhưng vẫn vượt qua được. Sau đó, cơn bão lắng xuống, mặt nước trở lại trạng thái đung đưa nhẹ nhàng.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/cinematic-storm-in-a-bottle-animation) · [Bài đăng gốc](https://x.com/ai_funss/status/2112552780707815467) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Phòng thủ xe tăng vô tận
@@ -3973,7 +3973,7 @@ Kiểm tra cảnh mở đầu, cả hai chân dung nhân vật, va chạm, pháo
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 355 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 356 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

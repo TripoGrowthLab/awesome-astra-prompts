@@ -28,7 +28,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**355 · Neueste Astra-Prompts**
+**356 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Beispiele ansehen</summary>
 
-- [Galaxie mit echter Orbitalphysik](#2101055500599054437)
 - [Vollständige fotorealistische 3D-Umgebung](#2101224659861590399)
 - [Interaktive 3D-Darstellung eines Flugzeugtriebwerks](#2101271938706685991)
 - [3D-Animations- und Video-Workflow für eine Kampfkunstkatze](#2101310374033428642)
@@ -144,6 +143,7 @@
 - [3D-Simulation der Schraubenbahn des Sonnensystems durch die Milchstraße](#2110380365269639613)
 - [Interaktive 3D-Koi-Teich-Website](#2111817735181332826)
 - [Steampunk-Uhrturm bei Nacht in three.js](#2112137926922686800)
+- [Cinematische Animation: Sturm in einer Flasche](#2112552671890874585)
 - [Battle City 3D: Endlose Panzerverteidigung](#battle-city-3d)
 - [Crazy Tanks — 3D-Inselartillerie](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: 3D-Bergbauspiel mit 24 Levels](#golden-miner)
@@ -152,26 +152,6 @@
 - [TITANIC — Das letzte Licht](#titanic-the-last-light)
 
 </details>
-
-<a id="2101055500599054437"></a>
-
-### Galaxie mit echter Orbitalphysik
-
-[Argona](https://x.com/Argona0x) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2101055500599054437"><img src="../assets/previews/1a842b607dcfcccfd8b382dd54f71224f044dcfbb13dad37549ea086cf876511.jpg" width="840" loading="lazy" alt="Galaxie mit echter Orbitalphysik"></a>
-
-Der Autor präsentiert diesen einzeiligen GPT-6-Astra-Prompt als Eingabe für eine deterministische Galaxiensimulation und einen 30-sekündigen Flug durch sie. Gefordert werden echte Orbitalphysik und 320.000 Sterne.
-
-**Prompt**
-
-```text
-eine Galaxie mit echter Orbitalphysik, 320.000 Sterne, ein Flug hindurch, 30 Sekunden
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2101055500599054437) · [Originalbeitrag](https://x.com/Argona0x/status/2101055500599054437) · [Zurück zu den Beispielen](#all-prompts)
-
----
 
 <a id="2101224659861590399"></a>
 
@@ -3502,6 +3482,26 @@ Erstelle mit three.js eine 3D-Nachtszene als einzelne Datei namens index.html im
 
 ---
 
+<a id="2112552671890874585"></a>
+
+### Cinematische Animation: Sturm in einer Flasche
+
+[AI Fun](https://x.com/ai_funss) · 2026-10-20
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/cinematic-storm-in-a-bottle-animation"><img src="../assets/previews/0992d3d29a102ad7cff233d80f5928e79615584ab1698442e1df244a1be3efa0.jpg" width="840" loading="lazy" alt="Cinematische Animation: Sturm in einer Flasche"></a>
+
+Ein Blender-Prompt, den der ursprüngliche Autor in einem verifizierten Kommentar geteilt hat. Gefordert ist eine realistische, filmische Animation einer Glasflasche mit einem Miniaturozean und einem Segelschiff, in der sich im Inneren ein Sturm aufbaut und anschließend wieder legt.
+
+**Prompt**
+
+```text
+Erstelle in Blender vollständig von Grund auf eine realistische, filmische Animation eines „Sturms in einer Flasche“. Eine Glasflasche liegt auf der Seite auf einem hölzernen Schreibtisch in einem gemütlichen, gedämpft beleuchteten Raum. In der Flasche befindet sich ein winziger Ozean mit einem kleinen Segelschiff. Im Verlauf der Animation zieht in der Flasche ein Sturm auf: Das Wasser steigt zu rollenden Wellen an, dunkle Wolken sammeln sich unter dem Glas, Regen fällt, Blitze zucken und erhellen den gesamten Raum. Das kleine Schiff neigt und schaukelt sich durch den Sturm, übersteht ihn jedoch. Anschließend legt sich der Sturm wieder, und das Wasser schaukelt sanft weiter.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/cinematic-storm-in-a-bottle-animation) · [Originalbeitrag](https://x.com/ai_funss/status/2112552780707815467) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Endlose Panzerverteidigung
@@ -3898,7 +3898,7 @@ Prüfe den Auftakt, beide Figurenporträts, die Kollision, die Seenotsignale, al
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 355 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 356 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>

@@ -28,7 +28,7 @@
 **Um ponto de partida para seu próximo jogo, cena ou mundo interativo.**
 
 
-**355 · Prompts mais recentes do Astra**
+**356 · Prompts mais recentes do Astra**
 
 ## Projetos em destaque
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Explorar exemplos</summary>
 
-- [Galáxia com física orbital realista](#2101055500599054437)
 - [Ambiente 3D fotorrealista completo](#2101224659861590399)
 - [Visualização interativa em 3D de um motor de aeronave](#2101271938706685991)
 - [Fluxo de trabalho para animação e vídeo 3D de um gato especialista em artes marciais](#2101310374033428642)
@@ -144,6 +143,7 @@
 - [Simulação 3D da órbita helicoidal do Sistema Solar pela Via Láctea](#2110380365269639613)
 - [Site interativo de lago de carpas koi em 3D](#2111817735181332826)
 - [Cena noturna de uma torre de relógio steampunk em three.js](#2112137926922686800)
+- [Animação cinematográfica de uma tempestade em uma garrafa](#2112552671890874585)
 - [Battle City 3D: Defesa de Tanques sem Fim](#battle-city-3d)
 - [Crazy Tanks — Artilharia 3D em uma ilha](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: jogo de mineração 3D com 24 níveis](#golden-miner)
@@ -152,26 +152,6 @@
 - [TITANIC — A Última Luz](#titanic-the-last-light)
 
 </details>
-
-<a id="2101055500599054437"></a>
-
-### Galáxia com física orbital realista
-
-[Argona](https://x.com/Argona0x) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2101055500599054437"><img src="../assets/previews/1a842b607dcfcccfd8b382dd54f71224f044dcfbb13dad37549ea086cf876511.jpg" width="840" loading="lazy" alt="Galáxia com física orbital realista"></a>
-
-O autor apresenta este prompt de uma frase para o GPT-6 Astra como entrada para uma simulação determinística de galáxia e um voo de 30 segundos por ela. O prompt solicita física orbital realista e 320.000 estrelas.
-
-**Prompt**
-
-```text
-uma galáxia com física orbital realista, 320.000 estrelas, um voo por ela, 30 segundos
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2101055500599054437) · [Publicação original](https://x.com/Argona0x/status/2101055500599054437) · [Voltar aos exemplos](#all-prompts)
-
----
 
 <a id="2101224659861590399"></a>
 
@@ -3502,6 +3482,26 @@ Crie uma cena noturna 3D com three.js em um único arquivo, index.html, na pasta
 
 ---
 
+<a id="2112552671890874585"></a>
+
+### Animação cinematográfica de uma tempestade em uma garrafa
+
+[AI Fun](https://x.com/ai_funss) · 2026-10-20
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/cinematic-storm-in-a-bottle-animation"><img src="../assets/previews/0992d3d29a102ad7cff233d80f5928e79615584ab1698442e1df244a1be3efa0.jpg" width="840" loading="lazy" alt="Animação cinematográfica de uma tempestade em uma garrafa"></a>
+
+Um prompt para Blender compartilhado pelo autor original em um comentário verificado. Ele solicita uma animação cinematográfica realista de uma garrafa de vidro contendo um oceano em miniatura e um veleiro, com uma tempestade se formando em seu interior e depois diminuindo.
+
+**Prompt**
+
+```text
+Crie, inteiramente do zero no Blender, uma animação realista e cinematográfica de uma “tempestade em uma garrafa”. Uma garrafa de vidro está deitada de lado sobre uma escrivaninha de madeira, em um cômodo aconchegante e com pouca iluminação. Dentro da garrafa há um pequeno oceano com um pequeno veleiro. Ao longo da animação, uma tempestade se forma dentro da garrafa: a água sobe em ondas sucessivas, nuvens escuras se acumulam sob o vidro, a chuva cai, relâmpagos brilham e iluminam todo o cômodo, e o pequeno navio aderna e balança, mas resiste à tempestade. Em seguida, a tempestade diminui, e a água volta a balançar suavemente.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/cinematic-storm-in-a-bottle-animation) · [Publicação original](https://x.com/ai_funss/status/2112552780707815467) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Defesa de Tanques sem Fim
@@ -3898,7 +3898,7 @@ Inspecionar a abertura, os dois retratos dos personagens, a colisão, os foguete
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 355 exemplos no site oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 356 exemplos no site oficial →</a></strong></p>
 <p><sub>Para manter a renderização do README do GitHub fluida, mostramos aqui apenas os 100 exemplos mais recentes.</sub></p>
 <br>
 </td></tr>

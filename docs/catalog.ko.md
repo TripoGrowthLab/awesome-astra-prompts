@@ -28,7 +28,7 @@
 **다음 게임, 장면, 인터랙티브 세계를 위한 아이디어를 찾아보세요.**
 
 
-**355 · 최신 Astra 프롬프트**
+**356 · 최신 Astra 프롬프트**
 
 ## 추천 작품
 
@@ -50,7 +50,6 @@
 <details>
 <summary>사례 둘러보기</summary>
 
-- [실제 궤도 물리학으로 구현한 은하](#2101055500599054437)
 - [사실적인 3D 환경 제작](#2101224659861590399)
 - [인터랙티브 3D 항공기 엔진 디스플레이](#2101271938706685991)
 - [캣푸 무술 고양이 3D 애니메이션 및 영상 제작 워크플로](#2101310374033428642)
@@ -144,6 +143,7 @@
 - [은하계를 가로지르는 태양계의 3D 나선 궤도 시뮬레이션](#2110380365269639613)
 - [인터랙티브 3D 잉어 연못 웹사이트](#2111817735181332826)
 - [three.js로 만드는 스팀펑크 시계탑 야경](#2112137926922686800)
+- [병 속 폭풍 시네마틱 애니메이션](#2112552671890874585)
 - [Battle City 3D: 끝없는 탱크 디펜스](#battle-city-3d)
 - [Crazy Tanks — 3D 아일랜드 포병전](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: 24레벨 3D 채굴 게임](#golden-miner)
@@ -152,26 +152,6 @@
 - [타이타닉 — 마지막 빛](#titanic-the-last-light)
 
 </details>
-
-<a id="2101055500599054437"></a>
-
-### 실제 궤도 물리학으로 구현한 은하
-
-[Argona](https://x.com/Argona0x) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101055500599054437"><img src="../assets/previews/1a842b607dcfcccfd8b382dd54f71224f044dcfbb13dad37549ea086cf876511.jpg" width="840" loading="lazy" alt="실제 궤도 물리학으로 구현한 은하"></a>
-
-작성자는 이 한 문장으로 된 GPT-6 Astra 프롬프트를 결정론적 은하 시뮬레이션과 그 안을 30초 동안 비행하는 장면의 입력값으로 제시합니다. 실제 궤도 물리학과 320,000개의 별을 요청합니다.
-
-**프롬프트**
-
-```text
-실제 궤도 물리학을 기반으로 한 은하, 320,000개의 별, 그 안을 가로지르는 한 차례의 비행, 30초
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101055500599054437) · [원본 게시물](https://x.com/Argona0x/status/2101055500599054437) · [사례 목록으로](#all-prompts)
-
----
 
 <a id="2101224659861590399"></a>
 
@@ -3568,6 +3548,26 @@ Blender에서 오우거를 제작하세요(걷기 애니메이션 포함).
 
 ---
 
+<a id="2112552671890874585"></a>
+
+### 병 속 폭풍 시네마틱 애니메이션
+
+[AI Fun](https://x.com/ai_funss) · 2026-10-20
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/cinematic-storm-in-a-bottle-animation"><img src="../assets/previews/0992d3d29a102ad7cff233d80f5928e79615584ab1698442e1df244a1be3efa0.jpg" width="840" loading="lazy" alt="병 속 폭풍 시네마틱 애니메이션"></a>
+
+루트 작성자가 인증된 댓글에서 공유한 Blender 프롬프트입니다. 미니어처 바다와 범선이 들어 있는 유리병 안에서 폭풍이 발생했다가 잦아드는 모습을 사실적으로 표현한 시네마틱 애니메이션을 요청합니다.
+
+**프롬프트**
+
+```text
+Blender에서 처음부터 끝까지 직접 제작하는 사실적인 시네마틱 ‘병 속 폭풍’ 애니메이션을 만드세요. 아늑하고 어두운 조명의 방, 나무 책상 위에 유리병이 옆으로 놓여 있습니다. 병 안에는 작은 바다와 작은 범선이 있습니다. 애니메이션이 진행되는 동안 병 안에서 폭풍이 발생합니다. 물결이 높아지며 거센 파도로 일렁이고, 유리 안쪽 아래로 먹구름이 모여들며, 비가 내리고, 번개가 번쩍여 방 전체를 밝힙니다. 작은 배는 크게 앞뒤와 좌우로 흔들리지만 폭풍을 견뎌 냅니다. 이후 폭풍이 잦아들고 물결은 다시 잔잔하게 흔들립니다.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/cinematic-storm-in-a-bottle-animation) · [원본 게시물](https://x.com/ai_funss/status/2112552780707815467) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: 끝없는 탱크 디펜스
@@ -3964,7 +3964,7 @@ Vite, JavaScript 모듈과 Three.js를 사용하고 결정론적인 시간 기�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 355개 보기 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 356개 보기 →</a></strong></p>
 <p><sub>GitHub README가 원활하게 렌더링되도록 최신 사례 100개만 표시합니다.</sub></p>
 <br>
 </td></tr>

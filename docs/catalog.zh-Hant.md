@@ -28,7 +28,7 @@
 **為你的下一個遊戲、場景或互動世界尋找靈感。**
 
 
-**355 · 最新 Astra 提示詞**
+**356 · 最新 Astra 提示詞**
 
 ## 精選作品
 
@@ -50,7 +50,6 @@
 <details>
 <summary>瀏覽案例</summary>
 
-- [以真實軌道物理打造的星系](#2101055500599054437)
 - [完整的照片級寫實 3D 環境](#2101224659861590399)
 - [互動式 3D 航空發動機展示](#2101271938706685991)
 - [功夫貓武術 3D 動畫與影片工作流程](#2101310374033428642)
@@ -144,6 +143,7 @@
 - [穿越銀河系的太陽系 3D 螺旋軌道模擬](#2110380365269639613)
 - [互動式 3D 錦鯉池網站](#2111817735181332826)
 - [three.js 蒸汽龐克鐘塔夜景](#2112137926922686800)
+- [玻璃瓶中的風暴電影感動畫](#2112552671890874585)
 - [Battle City 3D：無盡坦克防禦](#battle-city-3d)
 - [Crazy Tanks — 3D 島嶼火砲戰](#crazy-tanks-3d-island-artillery)
 - [Golden Miner：24 關 3D 採礦遊戲](#golden-miner)
@@ -152,26 +152,6 @@
 - [TITANIC — 最後的光](#titanic-the-last-light)
 
 </details>
-
-<a id="2101055500599054437"></a>
-
-### 以真實軌道物理打造的星系
-
-[Argona](https://x.com/Argona0x) · 2026-09-18
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2101055500599054437"><img src="../assets/previews/1a842b607dcfcccfd8b382dd54f71224f044dcfbb13dad37549ea086cf876511.jpg" width="840" loading="lazy" alt="以真實軌道物理打造的星系"></a>
-
-作者將這段單句 GPT-6 Astra 提示詞作為輸入，用於建立確定性的星系模擬，並在其中進行 30 秒的飛行。提示詞要求採用真實軌道物理，並包含 320,000 顆恆星。
-
-**提示詞**
-
-```text
-以真實軌道物理打造的星系、320,000 顆恆星、在其中飛行一次、30 秒
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2101055500599054437) · [查看原文](https://x.com/Argona0x/status/2101055500599054437) · [返回案例導覽](#all-prompts)
-
----
 
 <a id="2101224659861590399"></a>
 
@@ -3568,6 +3548,26 @@ bluumik 提出的提示詞，與提供給 GPT-6 和 Opus 5.5 的相同七字請�
 
 ---
 
+<a id="2112552671890874585"></a>
+
+### 玻璃瓶中的風暴電影感動畫
+
+[AI Fun](https://x.com/ai_funss) · 2026-10-20
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/cinematic-storm-in-a-bottle-animation"><img src="../assets/previews/0992d3d29a102ad7cff233d80f5928e79615584ab1698442e1df244a1be3efa0.jpg" width="840" loading="lazy" alt="玻璃瓶中的風暴電影感動畫"></a>
+
+這是一段由原作者在已驗證留言中分享的 Blender 提示詞，要求製作逼真的電影感動畫：玻璃瓶內裝有迷你海洋與帆船，瓶內風暴逐漸形成，最後平息。
+
+**提示詞**
+
+```text
+在 Blender 中完全從零開始製作一段逼真的電影感「瓶中風暴」動畫。場景位於一間溫馨但光線昏暗的房間裡，一個玻璃瓶側躺在木製書桌上。瓶內是一片微型海洋，還有一艘小小的帆船。動畫進行時，瓶內逐漸形成風暴：海水升起並掀起滾滾巨浪，烏雲在玻璃下方聚集，雨水落下，閃電不斷閃爍並照亮整個房間；小船隨之上下顛簸、左右搖晃，卻仍撐過了風暴。接著風暴逐漸平息，海水恢復輕柔搖曳。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/cinematic-storm-in-a-bottle-animation) · [查看原文](https://x.com/ai_funss/status/2112552780707815467) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D：無盡坦克防禦
@@ -3964,7 +3964,7 @@ yacht 會沿著封閉路線自動前進，速度約為每秒 0.38–0.48 個場�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 355 個案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 356 個案例 →</a></strong></p>
 <p><sub>為保持 GitHub README 渲染流暢，這裡僅展示最新 100 個案例。</sub></p>
 <br>
 </td></tr>
