@@ -28,7 +28,7 @@
 **Un punto di partenza per il tuo prossimo gioco, scena o mondo interattivo.**
 
 
-**356 · Prompt Astra più recenti**
+**358 · Prompt Astra più recenti**
 
 ## Progetti in evidenza
 
@@ -50,8 +50,6 @@
 <details>
 <summary>Esplora gli esempi</summary>
 
-- [Ambiente 3D fotorealistico completo](#2101224659861590399)
-- [Visualizzazione 3D interattiva di un motore aeronautico](#2101271938706685991)
 - [Workflow per animazione 3D e video di un gatto esperto di arti marziali](#2101310374033428642)
 - [Modello 3D di una Waymo Jaguar I-Pace](#2101325346427842909)
 - [Barca a vela in mare aperto](#2101616345720787130)
@@ -144,6 +142,8 @@
 - [Sito web interattivo con laghetto di carpe koi in 3D](#2111817735181332826)
 - [Scena notturna con torre dell'orologio steampunk in three.js](#2112137926922686800)
 - [Animazione cinematografica di una tempesta in bottiglia](#2112552671890874585)
+- [Orologio scheletrato di lusso in 3D](#2112556579153178940)
+- [Tempesta del Nord Atlantico — Simulazione 3D realistica dell’oceano e del faro](#2112916773838454922)
 - [Battle City 3D: Difesa infinita con i carri armati](#battle-city-3d)
 - [Crazy Tanks — Artiglieria 3D sulle isole](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: gioco minerario 3D a 24 livelli](#golden-miner)
@@ -152,48 +152,6 @@
 - [TITANIC — L’ultima luce](#titanic-the-last-light)
 
 </details>
-
-<a id="2101224659861590399"></a>
-
-### Ambiente 3D fotorealistico completo
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-19
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2101224659861590399"><img src="../assets/previews/f8596f35d968eda4e24acabd4e2405d42aae7745029b8cf3426d550a2bd2cd52.jpg" width="840" loading="lazy" alt="Ambiente 3D fotorealistico completo"></a>
-
-Crea un ambiente 3D fotorealistico completo a partire da un concept aperto.
-
-**Prompt**
-
-```text
-Crea un ambiente 3D fotorealistico completo. Sorprendimi.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2101224659861590399) · [Post originale](https://x.com/JulianGoldieSEO/status/2101224659861590399) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="2101271938706685991"></a>
-
-### Visualizzazione 3D interattiva di un motore aeronautico
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-19
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2101271938706685991"><img src="../assets/previews/62e8fc5aabb4c860a141510e4daac1335ad6caedd10812a63fb70f2b04fdc38e.jpg" width="840" loading="lazy" alt="Visualizzazione 3D interattiva di un motore aeronautico"></a>
-
-Prompt riutilizzabile pubblicato da YouWare per una visualizzazione web 3D interattiva e ad alta fedeltà di un motore aeronautico. Richiede un modello dettagliato del motore con interazioni di smontaggio e vista esplosa, informazioni sulle parti attivabili con un clic o al passaggio del mouse e controlli fluidi della fotocamera. Il post principale specifica che lo stesso prompt è stato eseguito con GPT-6 Astra e Gemini 4 Pro.
-
-**Prompt**
-
-```text
-Usa three.js per creare in una pagina web una visualizzazione 3D interattiva di un motore aeronautico.
-Prendi come riferimento la filosofia di design delle interazioni di Jigspace per ottenere un modello realistico, con una ricostruzione ad alta fedeltà quasi 1:1 che preservi completamente i dettagli di materiali e texture, inclusi metallo, tubazioni e pale. Le funzionalità interattive devono includere: un'animazione dello smontaggio passo dopo passo, una vista esplosa dei componenti e descrizioni delle parti e spiegazioni del loro funzionamento, attivate con un clic o al passaggio del mouse.
-Nel complesso, deve supportare controlli fluidi della fotocamera e un'interazione uomo-macchina intuitiva, garantendo un'esperienza web fluida che mostri in modo completo la struttura e i principi di funzionamento del motore.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2101271938706685991) · [Post originale](https://x.com/YouWareAI/status/2101272224435253432) · [Torna agli esempi](#all-prompts)
-
----
 
 <a id="2101310374033428642"></a>
 
@@ -3567,6 +3525,80 @@ Crea da zero, interamente in Blender, un’animazione realistica e cinematografi
 
 ---
 
+<a id="2112556579153178940"></a>
+
+### Orologio scheletrato di lusso in 3D
+
+[Havis \| Claude Code](https://x.com/HavisT83099) · 2026-10-20
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/luxury-skeleton-watch-3d-model"><img src="../assets/previews/4166477990fcdb73d56e07f9b4be7cf8abd3a138a2f35e078f2bb55a02eb66b2.jpg" width="840" loading="lazy" alt="Orologio scheletrato di lusso in 3D"></a>
+
+Richiede un orologio scheletrato di lusso in 3D, con cassa dorata, lancette in movimento e ingranaggi visibili che ruotano dietro il quadrante.
+
+**Prompt**
+
+```text
+un orologio scheletrato di lusso in 3D. Cassa dorata, lancette in movimento, ingranaggi che ruotano dietro il quadrante
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/luxury-skeleton-watch-3d-model) · [Post originale](https://x.com/HavisT83099/status/2112556579153178940) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="2112916773838454922"></a>
+
+### Tempesta del Nord Atlantico — Simulazione 3D realistica dell’oceano e del faro
+
+[Kunal](https://x.com/kunal_twts) · 2026-10-21
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/north-atlantic-storm-ocean-lighthouse-simulation"><img src="../assets/previews/db5e62bb1faa929291477696b98bdcbb5035ad17c5438128e4fd66e80ffd97b3.jpg" width="840" loading="lazy" alt="Tempesta del Nord Atlantico — Simulazione 3D realistica dell’oceano e del faro"></a>
+
+Un prompt di test fornito dall’autore del post per confrontare i modelli. Richiede una simulazione 3D interattiva e in tempo reale di una tempesta nel Nord Atlantico, con un peschereccio a strascico che reagisce fisicamente alle onde, onde oceaniche stratificate, il fascio rotante di un faro, condizioni meteorologiche tempestose, inquadrature cinematografiche, intensità della tempesta regolabile e un autopilota per le sessioni inattive.
+
+**Prompt**
+
+```text
+# Prompt: Tempesta del Nord Atlantico — Simulazione 3D realistica dell’oceano e del faro
+
+Crea una simulazione 3D realistica e in tempo reale di una tempesta nel Nord Atlantico al crepuscolo: un peschereccio a strascico si fa strada tra onde gigantesche passando davanti a un faro su un’isola rocciosa.
+
+**L’OCEANO**
+
+Un oceano aperto fisicamente convincente, non un piano piatto con del rumore: grandi onde lunghe alte da 8 a 12 metri, generate da spettri d’onda stratificati (per esempio onde di Gerstner o in stile FFT), con increspature più piccole sulla superficie. Le creste si infrangono formando frangenti bianchi, strisce di schiuma si allungano nella direzione del vento e gli spruzzi vengono spazzati via dalle creste. L’acqua mostra un colore dipendente dalla profondità (blu-grigio intenso nei cavi, verde traslucido dove la luce attraversa una cresta), riflessi di Fresnel del cielo tempestoso e scattering subsuperficiale.
+
+**IL PESCHERECCIO**
+
+Un peschereccio a strascico in acciaio di 30 metri, con scafo rosso, cabina di comando bianca con finestre illuminate, alberi, manovre, reti e luci sul ponte. Deve seguire fisicamente il movimento delle onde, beccheggiando e rollando con il moto ondoso, con la prua che si immerge in un’onda sollevando spruzzi bianchi, l’acqua verde che si riversa sul ponte e la scia che ribolle dietro di sé.
+
+**IL FARO**
+
+Un faro in pietra bianca e rossa su un’isola di roccia scura e frastagliata. La sua lampada ruota e il fascio di luce attraversa visibilmente la pioggia e gli spruzzi. Le onde si infrangono contro le rocce, esplodendo verso l’alto in enormi spruzzi di schiuma.
+
+**CONDIZIONI METEOROLOGICHE**
+
+Pioggia intensa spinta dal vento, basse nubi scure in rapido movimento sopra la scena, fulmini occasionali che illuminano per un istante le nuvole e il mare, seguiti dal rombo del tuono nell’audio, se aggiungi il sonoro, e uccelli marini in difficoltà controvento.
+
+**ILLUMINAZIONE E INQUADRATURE**
+
+Luce fioca e naturale del crepuscolo, blu-grigia, proveniente dal cielo coperto; il fascio caldo del faro e le luci sul ponte del peschereccio sono le uniche fonti di luce calda. Usa materiali basati sulla fisica e colori naturali. Movimenti di camera lenti e cinematografici: una ripresa bassa appena sopra l’acqua, mentre un’onda sale davanti all’obiettivo; una ripresa al seguito dietro il peschereccio; e un’inquadratura ampia dell’imbarcazione che passa davanti al faro.
+
+**CONTROLLI**
+
+Usa il mouse per orbitare, la rotellina per zoomare e i tasti per alternare le inquadrature e aumentare o ridurre l’intensità della tempesta.
+
+**REQUISITI DI PRESENTAZIONE**
+
+- Illuminazione e colori fisicamente plausibili e naturali, senza tinte artificiali a schermo intero né una pesante color grading.
+- Scala e proporzioni realistiche, con materiali basati sulla fisica.
+- Si avvia con un clic sul pulsante di avvio o premendo il tasto Invio (una schermata iniziale è facoltativa).
+- Riproduzione automatica: una volta avviata, se non viene rilevato alcun input del giocatore per 3 secondi, un autopilota integrato prende il controllo e riproduce la simulazione in modo cinematografico e autonomo, così che risulti spettacolare in una registrazione dello schermo; qualsiasi input da tastiera o mouse restituisce il controllo al giocatore.
+- Un HUD su schermo piccolo e pulito e una breve indicazione dei controlli.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/north-atlantic-storm-ocean-lighthouse-simulation) · [Post originale](https://x.com/kunal_twts/status/2112916777244197347) · [Torna agli esempi](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Difesa infinita con i carri armati
@@ -3963,7 +3995,7 @@ Ispezionare l’apertura, entrambi i ritratti dei personaggi, la collisione, i r
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 356 esempi sul sito ufficiale →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 358 esempi sul sito ufficiale →</a></strong></p>
 <p><sub>Per mantenere fluido il rendering del README su GitHub, qui mostriamo solo i 100 esempi più recenti.</sub></p>
 <br>
 </td></tr>

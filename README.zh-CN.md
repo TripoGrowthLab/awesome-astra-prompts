@@ -29,7 +29,7 @@
 
 探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。
 
-**356 条案例 · 14 种语言 · 12 条附项目源码**
+**358 条案例 · 14 种语言 · 12 条附项目源码**
 
 ## 精选作品
 
@@ -51,8 +51,6 @@
 <details>
 <summary>浏览案例</summary>
 
-- [完整的照片级写实 3D 环境](#2101224659861590399)
-- [交互式 3D 航空发动机展示](#2101271938706685991)
 - [功夫猫 3D 动画与视频工作流](#2101310374033428642)
 - [Waymo Jaguar I-Pace 3D 模型](#2101325346427842909)
 - [开阔水域上的帆船](#2101616345720787130)
@@ -145,6 +143,8 @@
 - [交互式 3D 锦鲤池网站](#2111817735181332826)
 - [three.js 蒸汽朋克钟楼夜景](#2112137926922686800)
 - [瓶中风暴：电影感动画](#2112552671890874585)
+- [3D 豪华镂空腕表](#2112556579153178940)
+- [北大西洋风暴——逼真的 3D 海洋与灯塔模拟](#2112916773838454922)
 - [Battle City 3D：无尽坦克防御](#battle-city-3d)
 - [疯狂坦克——3D 岛屿炮战](#crazy-tanks-3d-island-artillery)
 - [黄金矿工：24 关 3D 挖矿游戏](#golden-miner)
@@ -153,48 +153,6 @@
 - [泰坦尼克号——最后的光芒](#titanic-the-last-light)
 
 </details>
-
-<a id="2101224659861590399"></a>
-
-### 完整的照片级写实 3D 环境
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-19
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2101224659861590399"><img src="assets/previews/f8596f35d968eda4e24acabd4e2405d42aae7745029b8cf3426d550a2bd2cd52.jpg" width="840" loading="lazy" alt="完整的照片级写实 3D 环境"></a>
-
-以开放式概念创作一个完整的照片级写实 3D 环境。
-
-**提示词**
-
-```text
-构建一个完整的照片级写实 3D 环境。自由发挥，给我一个惊喜。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2101224659861590399) · [查看原帖](https://x.com/JulianGoldieSEO/status/2101224659861590399) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2101271938706685991"></a>
-
-### 交互式 3D 航空发动机展示
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-19
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2101271938706685991"><img src="assets/previews/62e8fc5aabb4c860a141510e4daac1335ad6caedd10812a63fb70f2b04fdc38e.jpg" width="840" loading="lazy" alt="交互式 3D 航空发动机展示"></a>
-
-YouWare 发布的可复用提示词，用于创建交互式高保真 3D 航空发动机网页展示。它要求制作详细的发动机模型，支持拆解和爆炸视图交互，并提供可点击或悬停查看的部件信息以及流畅的镜头控制。原帖称，该提示词曾分别在 GPT-6 Astra 和 Gemini 4 Pro 上运行。
-
-**提示词**
-
-```text
-使用 three.js 在网页上构建航空发动机的 3D 交互式展示。
-请参考 Jigspace 的交互设计理念，实现接近 1:1 的高保真模型还原，完整保留金属、管路和叶片等材质与纹理细节。交互功能必须包括：分步骤拆解动画、组件爆炸视图，以及通过点击或悬停触发的部件说明和工作原理讲解。
-整体上必须支持流畅的镜头控制和友好的人机交互，确保网页端体验顺畅，充分展示发动机的结构和工作原理。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2101271938706685991) · [查看原帖](https://x.com/YouWareAI/status/2101272224435253432) · [返回案例导航](#all-prompts)
-
----
 
 <a id="2101310374033428642"></a>
 
@@ -3512,6 +3470,80 @@ bluumik 展示的提示词：这是提供给 GPT-6 和 Opus 5.5 的同一个七�
 
 ---
 
+<a id="2112556579153178940"></a>
+
+### 3D 豪华镂空腕表
+
+[Havis \| Claude Code](https://x.com/HavisT83099) · 2026-10-20
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/luxury-skeleton-watch-3d-model"><img src="assets/previews/4166477990fcdb73d56e07f9b4be7cf8abd3a138a2f35e078f2bb55a02eb66b2.jpg" width="840" loading="lazy" alt="3D 豪华镂空腕表"></a>
+
+制作一款 3D 豪华镂空腕表：配备金色表壳，指针持续走动，表盘后方可见齿轮转动。
+
+**提示词**
+
+```text
+一款 3D 豪华镂空腕表。金色表壳，指针持续走动，表盘后方的齿轮转动
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/luxury-skeleton-watch-3d-model) · [查看原帖](https://x.com/HavisT83099/status/2112556579153178940) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2112916773838454922"></a>
+
+### 北大西洋风暴——逼真的 3D 海洋与灯塔模拟
+
+[Kunal](https://x.com/kunal_twts) · 2026-10-21
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/north-atlantic-storm-ocean-lighthouse-simulation"><img src="assets/previews/db5e62bb1faa929291477696b98bdcbb5035ad17c5438128e4fd66e80ffd97b3.jpg" width="840" loading="lazy" alt="北大西洋风暴——逼真的 3D 海洋与灯塔模拟"></a>
+
+发帖作者提供的模型对比测试提示词。它要求创建一个实时交互式的北大西洋风暴 3D 模拟：一艘会根据物理效果作出反应的捕鱼拖网船、层叠的海浪、旋转的灯塔光束、暴风雨天气、电影感镜头视角、可调节的风暴强度，以及闲置时自动运行的自动驾驶模式。
+
+**提示词**
+
+```text
+# 提示词：北大西洋风暴——逼真的 3D 海洋与灯塔模拟
+
+构建一个逼真的实时 3D 北大西洋黄昏风暴模拟：一艘捕鱼拖网船在巨浪中艰难航行，驶过一座建在岩石岛上的灯塔。
+
+**海洋**
+
+打造具有可信物理效果的开阔海洋，而不是带噪声的平面：使用分层波谱（例如 Gerstner 波或 FFT 风格的波浪）生成 8 至 12 米高的大型滚涌，并在其上叠加更细碎的波浪。浪尖破碎形成白浪，泡沫带沿风向延伸，浪尖上飞溅的水雾被风吹散。海水呈现基于深度的颜色变化（波谷为深蓝灰色，光线穿过浪尖时呈半透明绿色），并具有风暴天空的菲涅尔反射和次表面散射效果。
+
+**拖网船**
+
+一艘 30 米长的钢制捕鱼拖网船，配有红色船体、带照明窗户的白色驾驶室、桅杆、索具、渔网和甲板灯。船必须根据物理效果随海浪航行，随着涌浪上下俯仰并左右摇摆，船头扎入海浪并溅起白色水花，绿色海水冲过甲板，船尾拖出翻滚的尾流。
+
+**灯塔**
+
+一座建在崎岖深色岩石岛上的红白石砌灯塔。灯具持续旋转，光束清晰地穿过雨幕和水雾。海浪猛烈拍击岩石，向上炸开巨大的泡沫水花。
+
+**天气**
+
+强劲风力裹挟着暴雨，低沉的深色风暴云在头顶飞速掠过；偶尔有闪电照亮云层和海面，随后在音频中加入雷声隆隆（如果添加声音）；海鸟在风中艰难飞行。
+
+**灯光与镜头**
+
+阴沉的天空投下自然的蓝灰色暮光，温暖的灯塔光束和拖网船的甲板灯是仅有的暖色光源；使用基于物理的材质和自然色彩。镜头缓慢进行电影化移动：在水面上方低机位拍摄，让海浪在镜头前升起；从拖网船后方进行追拍；以广角镜头拍摄船只驶过灯塔。
+
+**控制**
+
+使用鼠标旋转视角，滚轮缩放，使用按键切换镜头画面并调高或调低风暴强度。
+
+**呈现要求**
+
+- 物理效果可信，灯光和色彩自然，不使用人工的全屏色调滤镜或过重的调色。
+- 采用符合现实世界的尺度和比例，并使用基于物理的材质。
+- 点击开始按钮或按下 Enter 键即可启动（可选择显示开始画面）。
+- 自动播放：启动后，如果 3 秒内没有玩家输入，内置自动驾驶模式将接管并以电影化方式自动运行模拟，使其在屏幕录制中呈现出色；任何键盘或鼠标输入都会将控制权交还给玩家。
+- 使用简洁小巧的屏幕 HUD，并提供简短的控制提示。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/north-atlantic-storm-ocean-lighthouse-simulation) · [查看原帖](https://x.com/kunal_twts/status/2112916777244197347) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D：无尽坦克防御
@@ -3908,7 +3940,7 @@ bluumik 展示的提示词：这是提供给 GPT-6 和 Opus 5.5 的同一个七�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 356 条案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 358 条案例 →</a></strong></p>
 <p><sub>为保持 GitHub README 渲染流畅，这里仅展示最新 100 条案例。</sub></p>
 <br>
 </td></tr>

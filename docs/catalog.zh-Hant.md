@@ -28,7 +28,7 @@
 **為你的下一個遊戲、場景或互動世界尋找靈感。**
 
 
-**356 · 最新 Astra 提示詞**
+**358 · 最新 Astra 提示詞**
 
 ## 精選作品
 
@@ -50,8 +50,6 @@
 <details>
 <summary>瀏覽案例</summary>
 
-- [完整的照片級寫實 3D 環境](#2101224659861590399)
-- [互動式 3D 航空發動機展示](#2101271938706685991)
 - [功夫貓武術 3D 動畫與影片工作流程](#2101310374033428642)
 - [Waymo Jaguar I-Pace 3D 模型](#2101325346427842909)
 - [開闊水域上的帆船](#2101616345720787130)
@@ -144,6 +142,8 @@
 - [互動式 3D 錦鯉池網站](#2111817735181332826)
 - [three.js 蒸汽龐克鐘塔夜景](#2112137926922686800)
 - [玻璃瓶中的風暴電影感動畫](#2112552671890874585)
+- [3D 豪華鏤空腕錶](#2112556579153178940)
+- [北大西洋風暴 — 寫實 3D 海洋與燈塔模擬](#2112916773838454922)
 - [Battle City 3D：無盡坦克防禦](#battle-city-3d)
 - [Crazy Tanks — 3D 島嶼火砲戰](#crazy-tanks-3d-island-artillery)
 - [Golden Miner：24 關 3D 採礦遊戲](#golden-miner)
@@ -152,48 +152,6 @@
 - [TITANIC — 最後的光](#titanic-the-last-light)
 
 </details>
-
-<a id="2101224659861590399"></a>
-
-### 完整的照片級寫實 3D 環境
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-19
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2101224659861590399"><img src="../assets/previews/f8596f35d968eda4e24acabd4e2405d42aae7745029b8cf3426d550a2bd2cd52.jpg" width="840" loading="lazy" alt="完整的照片級寫實 3D 環境"></a>
-
-以開放式概念打造完整的照片級寫實 3D 環境。
-
-**提示詞**
-
-```text
-打造完整的照片級寫實 3D 環境。自由發揮，給我驚喜。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2101224659861590399) · [查看原文](https://x.com/JulianGoldieSEO/status/2101224659861590399) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2101271938706685991"></a>
-
-### 互動式 3D 航空發動機展示
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-19
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2101271938706685991"><img src="../assets/previews/62e8fc5aabb4c860a141510e4daac1335ad6caedd10812a63fb70f2b04fdc38e.jpg" width="840" loading="lazy" alt="互動式 3D 航空發動機展示"></a>
-
-YouWare 發布的可重複使用提示詞，用於製作互動式高擬真 3D 航空發動機網頁展示。提示詞要求建立詳細的發動機模型，支援拆解與爆炸圖互動、點擊或滑入查看零件資訊，以及流暢的鏡頭控制。原始貼文表示，這段提示詞也曾在 GPT-6 Astra 和 Gemini 4 Pro 上執行。
-
-**提示詞**
-
-```text
-使用 three.js 在網頁上建立航空發動機的 3D 互動展示。
-請參考 Jigspace 的互動設計理念，打造接近 1:1 還原度的高擬真模型，完整保留金屬、管線與葉片等材質和貼圖細節。互動功能必須包括：逐步拆解動畫、零件爆炸圖，以及透過點擊或滑入觸發的零件說明與原理解釋。
-整體必須支援流暢的鏡頭控制與友善的人機互動，確保網頁上的操作體驗順暢，並完整呈現發動機的結構與運作原理。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2101271938706685991) · [查看原文](https://x.com/YouWareAI/status/2101272224435253432) · [返回案例導覽](#all-prompts)
-
----
 
 <a id="2101310374033428642"></a>
 
@@ -3568,6 +3526,80 @@ bluumik 提出的提示詞，與提供給 GPT-6 和 Opus 5.5 的相同七字請�
 
 ---
 
+<a id="2112556579153178940"></a>
+
+### 3D 豪華鏤空腕錶
+
+[Havis \| Claude Code](https://x.com/HavisT83099) · 2026-10-20
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/luxury-skeleton-watch-3d-model"><img src="../assets/previews/4166477990fcdb73d56e07f9b4be7cf8abd3a138a2f35e078f2bb55a02eb66b2.jpg" width="840" loading="lazy" alt="3D 豪華鏤空腕錶"></a>
+
+製作一款 3D 豪華鏤空腕錶，採用金色錶殼，指針持續走動，並可看見錶盤後方的齒輪轉動。
+
+**提示詞**
+
+```text
+一款 3D 豪華鏤空腕錶。金色錶殼、持續走動的指針，以及錶盤後方轉動的齒輪
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/luxury-skeleton-watch-3d-model) · [查看原文](https://x.com/HavisT83099/status/2112556579153178940) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2112916773838454922"></a>
+
+### 北大西洋風暴 — 寫實 3D 海洋與燈塔模擬
+
+[Kunal](https://x.com/kunal_twts) · 2026-10-21
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/north-atlantic-storm-ocean-lighthouse-simulation"><img src="../assets/previews/db5e62bb1faa929291477696b98bdcbb5035ad17c5438128e4fd66e80ffd97b3.jpg" width="840" loading="lazy" alt="北大西洋風暴 — 寫實 3D 海洋與燈塔模擬"></a>
+
+由發布者提供、用於比較模型的測試提示詞。要求製作即時互動式 3D 北大西洋風暴模擬，包含會依物理反應的拖網漁船、分層海浪、旋轉燈塔光束、暴風雨天候、電影感鏡頭視角、可調整的風暴強度，以及閒置時啟用的自動駕駛。
+
+**提示詞**
+
+```text
+# 提示詞：北大西洋風暴 — 寫實 3D 海洋與燈塔模擬
+
+建立一個寫實、即時運算的 3D 北大西洋黃昏風暴模擬：一艘拖網漁船駛過巨浪，在岩石島嶼上的燈塔旁奮力航行。
+
+**海洋**
+
+打造符合物理效果、真實開闊的海洋，而不是加上雜訊的平面：使用分層波譜（例如 Gerstner 或 FFT 類型的波浪）製作 8 至 12 公尺高的大型滾動湧浪，並在上方疊加較小的碎浪。浪尖破碎形成白浪，泡沫條紋沿風向延伸，浪花從浪尖被風吹散。水體呈現隨深度變化的色彩（浪谷為深藍灰色，光線穿過浪尖處則呈半透明綠色），並表現暴風雨天空的菲涅耳反射與次表面散射。
+
+**拖網漁船**
+
+一艘長 30 公尺的鋼製拖網漁船，具備紅色船身、窗戶透出燈光的白色駕駛艙、桅杆、索具、漁網與甲板燈。船身必須依物理效果乘著波浪起伏，隨湧浪上下俯仰並左右搖擺；船首扎入浪中，激起白色浪花；綠色海水沖過甲板，船尾則翻騰著航跡。
+
+**燈塔**
+
+一座建於嶙峋深色岩島上的紅白石砌燈塔。燈塔燈光持續旋轉，光束清楚掃過雨幕與浪花。海浪猛烈撞擊岩石，向上爆裂成巨大的泡沫浪花。
+
+**天候**
+
+強勁風勢帶動的豪雨、低沉深色且快速掠過頭頂的暴風雲，以及偶爾出現的閃電；閃電瞬間照亮雲層與海面，若加入音效，接著播放雷聲隆隆的聲音；還要有逆風奮力飛行的海鳥。
+
+**光線與鏡頭**
+
+以陰雲天空透出的昏暗自然藍灰色黃昏光為主，暖色光源僅有燈塔光束與拖網漁船的甲板燈；使用基於物理的材質與自然色彩。鏡頭緩慢移動，呈現電影感：在水面上方極低的位置拍攝，讓海浪在鏡頭前升起；從拖網漁船後方進行追拍；以及以廣角鏡頭拍攝船隻經過燈塔。
+
+**控制方式**
+
+使用滑鼠環繞視角、滾輪縮放，並以按鍵切換鏡頭畫面及提高或降低風暴強度。
+
+**呈現要求**
+
+- 符合物理效果，採用自然的光線與色彩，不得使用人工的全螢幕色彩濾鏡或過重的調色。
+- 採用符合真實世界的尺寸與比例，以及基於物理的材質。
+- 按一下開始按鈕或按下 Enter 鍵即可啟動（可選擇顯示開始畫面）。
+- 自動播放：啟動後若 3 秒內沒有玩家輸入，內建自動駕駛便會接手，以電影感方式自行播放模擬，讓螢幕錄影呈現絕佳效果；任何鍵盤或滑鼠輸入都會將控制權交還給玩家。
+- 小巧簡潔的畫面 HUD，以及簡短的控制提示。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/north-atlantic-storm-ocean-lighthouse-simulation) · [查看原文](https://x.com/kunal_twts/status/2112916777244197347) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D：無盡坦克防禦
@@ -3964,7 +3996,7 @@ yacht 會沿著封閉路線自動前進，速度約為每秒 0.38–0.48 個場�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 356 個案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 358 個案例 →</a></strong></p>
 <p><sub>為保持 GitHub README 渲染流暢，這裡僅展示最新 100 個案例。</sub></p>
 <br>
 </td></tr>

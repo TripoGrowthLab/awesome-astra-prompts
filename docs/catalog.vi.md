@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**356 · Prompt Astra mới nhất**
+**358 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -50,8 +50,6 @@
 <details>
 <summary>Khám phá ví dụ</summary>
 
-- [Môi trường 3D chân thực như ảnh hoàn chỉnh](#2101224659861590399)
-- [Mô hình tương tác 3D động cơ máy bay](#2101271938706685991)
 - [Quy trình tạo hoạt ảnh 3D và video mèo võ thuật catfu](#2101310374033428642)
 - [Mô hình 3D Waymo Jaguar I-Pace](#2101325346427842909)
 - [Thuyền buồm trên vùng nước rộng](#2101616345720787130)
@@ -144,6 +142,8 @@
 - [Trang web hồ cá koi 3D tương tác](#2111817735181332826)
 - [Cảnh đêm với tháp đồng hồ steampunk trong three.js](#2112137926922686800)
 - [Hoạt ảnh cơn bão trong chai theo phong cách điện ảnh](#2112552671890874585)
+- [Đồng hồ skeleton cao cấp 3D](#2112556579153178940)
+- [Bão Bắc Đại Tây Dương — Mô phỏng đại dương và hải đăng 3D chân thực](#2112916773838454922)
 - [Battle City 3D: Phòng thủ xe tăng vô tận](#battle-city-3d)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: Game khai thác vàng 3D 24 cấp độ](#golden-miner)
@@ -152,48 +152,6 @@
 - [TITANIC — Ánh sáng cuối cùng](#titanic-the-last-light)
 
 </details>
-
-<a id="2101224659861590399"></a>
-
-### Môi trường 3D chân thực như ảnh hoàn chỉnh
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-19
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101224659861590399"><img src="../assets/previews/f8596f35d968eda4e24acabd4e2405d42aae7745029b8cf3426d550a2bd2cd52.jpg" width="840" loading="lazy" alt="Môi trường 3D chân thực như ảnh hoàn chỉnh"></a>
-
-Tạo một môi trường 3D hoàn chỉnh, chân thực như ảnh với ý tưởng mở.
-
-**Prompt**
-
-```text
-Dựng một môi trường 3D hoàn chỉnh, chân thực như ảnh. Hãy tạo bất ngờ cho tôi.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101224659861590399) · [Bài đăng gốc](https://x.com/JulianGoldieSEO/status/2101224659861590399) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2101271938706685991"></a>
-
-### Mô hình tương tác 3D động cơ máy bay
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-19
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101271938706685991"><img src="../assets/previews/62e8fc5aabb4c860a141510e4daac1335ad6caedd10812a63fb70f2b04fdc38e.jpg" width="840" loading="lazy" alt="Mô hình tương tác 3D động cơ máy bay"></a>
-
-Prompt có thể tái sử dụng do YouWare đăng, dùng để tạo màn hình hiển thị động cơ máy bay 3D tương tác, độ trung thực cao trên web. Prompt yêu cầu mô hình động cơ chi tiết với tương tác tháo rời và chế độ xem tách lớp, thông tin về từng bộ phận khi nhấp hoặc di chuột, cùng các điều khiển camera mượt mà. Bài đăng gốc cho biết prompt này đã được chạy với GPT-6 Astra và Gemini 4 Pro.
-
-**Prompt**
-
-```text
-Dùng three.js để xây dựng màn hình hiển thị 3D tương tác của một động cơ máy bay trên trang web.
-Vui lòng tham khảo triết lý thiết kế tương tác của Jigspace để tạo mô hình chân thực, được phục dựng với độ trung thực gần 1:1, giữ nguyên đầy đủ chi tiết vật liệu và kết cấu bề mặt như kim loại, đường ống và cánh quạt. Các tính năng tương tác bắt buộc gồm: hoạt ảnh tháo rời theo từng bước, chế độ xem tách lớp các bộ phận, cùng phần mô tả bộ phận và giải thích nguyên lý hiển thị khi nhấp hoặc di chuột.
-Nhìn chung, sản phẩm phải hỗ trợ điều khiển camera mượt mà và tương tác người–máy thân thiện, mang lại trải nghiệm liền mạch trên web, đồng thời trình bày đầy đủ cấu trúc và nguyên lý hoạt động của động cơ.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101271938706685991) · [Bài đăng gốc](https://x.com/YouWareAI/status/2101272224435253432) · [Về danh sách ví dụ](#all-prompts)
-
----
 
 <a id="2101310374033428642"></a>
 
@@ -3577,6 +3535,80 @@ Tạo một hoạt ảnh “cơn bão trong chai” chân thực, mang đậm ch
 
 ---
 
+<a id="2112556579153178940"></a>
+
+### Đồng hồ skeleton cao cấp 3D
+
+[Havis \| Claude Code](https://x.com/HavisT83099) · 2026-10-20
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/luxury-skeleton-watch-3d-model"><img src="../assets/previews/4166477990fcdb73d56e07f9b4be7cf8abd3a138a2f35e078f2bb55a02eb66b2.jpg" width="840" loading="lazy" alt="Đồng hồ skeleton cao cấp 3D"></a>
+
+Yêu cầu mô hình đồng hồ skeleton cao cấp 3D với vỏ vàng, kim chuyển động theo nhịp tích tắc và các bánh răng lộ rõ đang quay phía sau mặt số.
+
+**Prompt**
+
+```text
+một chiếc đồng hồ skeleton cao cấp 3D. Vỏ vàng, kim chuyển động theo nhịp tích tắc, các bánh răng quay phía sau mặt số
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/luxury-skeleton-watch-3d-model) · [Bài đăng gốc](https://x.com/HavisT83099/status/2112556579153178940) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2112916773838454922"></a>
+
+### Bão Bắc Đại Tây Dương — Mô phỏng đại dương và hải đăng 3D chân thực
+
+[Kunal](https://x.com/kunal_twts) · 2026-10-21
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/north-atlantic-storm-ocean-lighthouse-simulation"><img src="../assets/previews/db5e62bb1faa929291477696b98bdcbb5035ad17c5438128e4fd66e80ffd97b3.jpg" width="840" loading="lazy" alt="Bão Bắc Đại Tây Dương — Mô phỏng đại dương và hải đăng 3D chân thực"></a>
+
+Một prompt thử nghiệm do tác giả bài đăng cung cấp để so sánh các mô hình. Prompt yêu cầu mô phỏng bão Bắc Đại Tây Dương 3D tương tác theo thời gian thực, với tàu đánh cá lưới kéo phản ứng theo vật lý, các lớp sóng đại dương, chùm sáng hải đăng xoay, thời tiết bão, các góc máy điện ảnh, cường độ bão có thể điều chỉnh và chế độ lái tự động khi không thao tác.
+
+**Prompt**
+
+```text
+# Prompt: Bão Bắc Đại Tây Dương — Mô phỏng đại dương và hải đăng 3D chân thực
+
+Xây dựng một mô phỏng 3D chân thực, theo thời gian thực về một cơn bão ở Bắc Đại Tây Dương lúc chạng vạng: một tàu đánh cá lưới kéo vật lộn vượt qua những con sóng khổng lồ, đi ngang qua một hải đăng trên đảo đá.
+
+**ĐẠI DƯƠNG**
+
+Tạo một vùng biển khơi thuyết phục về mặt vật lý, không phải một mặt phẳng với hiệu ứng nhiễu: các đợt sóng lớn cuộn cao từ 8 đến 12 mét, được tạo từ nhiều lớp phổ sóng (chẳng hạn sóng Gerstner hoặc sóng kiểu FFT), bên trên có những gợn sóng nhỏ hơn. Đỉnh sóng vỡ thành bọt trắng, các vệt bọt kéo dài theo hướng gió, và bụi nước bị thổi tung khỏi đỉnh sóng. Nước thể hiện màu sắc thay đổi theo độ sâu (xanh xám đậm ở hõm sóng, xanh lục bán trong suốt nơi ánh sáng xuyên qua đỉnh sóng), phản chiếu Fresnel của bầu trời giông bão và có tán xạ dưới bề mặt.
+
+**TÀU ĐÁNH CÁ LƯỚI KÉO**
+
+Một tàu đánh cá lưới kéo bằng thép dài 30 mét, thân tàu màu đỏ, buồng lái màu trắng với các cửa sổ sáng đèn, cùng cột buồm, dây chằng, lưới và đèn boong. Tàu phải chuyển động trên sóng theo đúng vật lý, chúi và lắc theo các đợt sóng lớn; mũi tàu cắm vào sóng và hất tung bọt trắng, nước xanh tràn qua boong, còn vệt sóng phía sau cuộn xoáy.
+
+**HẢI ĐĂNG**
+
+Một hải đăng bằng đá trắng và đỏ trên hòn đảo đá tối màu, lởm chởm. Đèn hải đăng xoay và chùm sáng quét rõ ràng qua màn mưa cùng bụi nước. Sóng đập mạnh vào đá rồi bắn tung lên thành những cột bọt khổng lồ.
+
+**THỜI TIẾT**
+
+Mưa nặng hạt bị gió thổi xiên, những đám mây bão thấp và tối chạy nhanh trên đầu, thỉnh thoảng có tia chớp chiếu sáng mây và mặt biển trong chốc lát, sau đó là tiếng sấm rền trong phần âm thanh nếu bạn thêm âm thanh, cùng những con chim biển chật vật bay ngược gió.
+
+**ÁNH SÁNG VÀ MÁY QUAY**
+
+Ánh sáng chạng vạng xanh xám tự nhiên, mờ tối từ bầu trời nhiều mây; chùm sáng ấm của hải đăng và đèn boong của tàu là những nguồn sáng ấm duy nhất. Sử dụng vật liệu dựa trên vật lý và màu sắc tự nhiên. Máy quay chuyển động chậm theo phong cách điện ảnh: góc máy thấp ngay trên mặt nước khi một con sóng dâng lên trước ống kính, góc máy bám đuổi phía sau tàu và góc máy rộng ghi lại cảnh tàu đi ngang qua hải đăng.
+
+**ĐIỀU KHIỂN**
+
+Dùng chuột để xoay góc nhìn, cuộn chuột để thu phóng, dùng các phím để chuyển qua các góc máy và tăng hoặc giảm cường độ bão.
+
+**YÊU CẦU TRÌNH BÀY**
+
+- Ánh sáng và màu sắc tự nhiên, hợp lý về mặt vật lý, không phủ màu nhân tạo trên toàn màn hình hoặc áp dụng chỉnh màu quá nặng.
+- Tỉ lệ và kích thước theo thế giới thực, sử dụng vật liệu dựa trên vật lý.
+- Mô phỏng bắt đầu bằng một lần nhấp vào nút bắt đầu hoặc nhấn phím Enter (có thể có màn hình bắt đầu).
+- Tự động phát: sau khi bắt đầu, nếu không có thao tác của người chơi trong 3 giây, chế độ lái tự động tích hợp sẽ tiếp quản và tự vận hành mô phỏng theo phong cách điện ảnh, để hình ảnh trông đẹp khi quay màn hình; mọi thao tác nhấn phím hoặc chuột đều trả quyền điều khiển lại cho người chơi.
+- HUD nhỏ gọn, rõ ràng trên màn hình và một gợi ý điều khiển ngắn.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/north-atlantic-storm-ocean-lighthouse-simulation) · [Bài đăng gốc](https://x.com/kunal_twts/status/2112916777244197347) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Phòng thủ xe tăng vô tận
@@ -3973,7 +4005,7 @@ Kiểm tra cảnh mở đầu, cả hai chân dung nhân vật, va chạm, pháo
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 356 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 358 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

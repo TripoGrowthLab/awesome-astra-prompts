@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**356 · En yeni Astra istemleri**
+**358 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -50,8 +50,6 @@
 <details>
 <summary>Örnekleri keşfet</summary>
 
-- [Eksiksiz Fotogerçekçi 3B Ortam](#2101224659861590399)
-- [Etkileşimli 3B uçak motoru gösterimi](#2101271938706685991)
 - [Catfu dövüş sanatları kedisi için 3B animasyon ve video iş akışı](#2101310374033428642)
 - [Waymo Jaguar I-Pace 3B modeli](#2101325346427842909)
 - [Açık Denizde Yelkenli Tekne](#2101616345720787130)
@@ -144,6 +142,8 @@
 - [Etkileşimli 3B koi göleti web sitesi](#2111817735181332826)
 - [three.js'te steampunk saat kulesi gece sahnesi](#2112137926922686800)
 - [Şişede Sinematik Fırtına Animasyonu](#2112552671890874585)
+- [3B Lüks İskelet Saat](#2112556579153178940)
+- [Kuzey Atlantik Fırtınası — Gerçekçi 3B Okyanus ve Deniz Feneri Simülasyonu](#2112916773838454922)
 - [Battle City 3D: Sonsuz Tank Savunması](#battle-city-3d)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: 24 Seviyeli 3B Madencilik Oyunu](#golden-miner)
@@ -152,48 +152,6 @@
 - [TITANIC — Son Işık](#titanic-the-last-light)
 
 </details>
-
-<a id="2101224659861590399"></a>
-
-### Eksiksiz Fotogerçekçi 3B Ortam
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-19
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101224659861590399"><img src="../assets/previews/f8596f35d968eda4e24acabd4e2405d42aae7745029b8cf3426d550a2bd2cd52.jpg" width="840" loading="lazy" alt="Eksiksiz Fotogerçekçi 3B Ortam"></a>
-
-Açık uçlu bir konseptle eksiksiz, fotogerçekçi bir 3B ortam oluşturun.
-
-**İstem**
-
-```text
-Eksiksiz, fotogerçekçi bir 3B ortam oluştur. Beni şaşırt.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101224659861590399) · [Orijinal gönderi](https://x.com/JulianGoldieSEO/status/2101224659861590399) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2101271938706685991"></a>
-
-### Etkileşimli 3B uçak motoru gösterimi
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-19
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101271938706685991"><img src="../assets/previews/62e8fc5aabb4c860a141510e4daac1335ad6caedd10812a63fb70f2b04fdc38e.jpg" width="840" loading="lazy" alt="Etkileşimli 3B uçak motoru gösterimi"></a>
-
-YouWare tarafından paylaşılan, web üzerinde etkileşimli ve yüksek doğruluklu bir 3B uçak motoru gösterimi oluşturmak için yeniden kullanılabilir bir istem. Ayrıntılı bir motor modeli; sökme ve patlatılmış görünüm etkileşimleri, tıklamayla veya üzerine gelindiğinde görüntülenen parça bilgileri ve akıcı kamera kontrolleri talep ediyor. Ana gönderide, aynı istemin GPT-6 Astra ve Gemini 4 Pro ile çalıştırıldığı belirtiliyor.
-
-**İstem**
-
-```text
-Bir web sayfasında uçak motorunun etkileşimli 3B gösterimini oluşturmak için three.js kullanın.
-Gerçeğe yakın, neredeyse 1:1 ölçekte yüksek doğruluklu bir model oluşturmak için Jigspace'in etkileşim tasarımı felsefesini temel alın; metal, boru hatları ve kanatlar gibi malzeme ve doku ayrıntılarını eksiksiz koruyun. Etkileşimli özellikler şunları mutlaka içermeli: adım adım sökme animasyonu, bileşenlerin patlatılmış görünümü ve tıklamayla veya üzerine gelindiğinde açılan parça açıklamaları ile çalışma prensibi bilgileri.
-Genel olarak akıcı kamera kontrolünü ve kullanıcı dostu insan-bilgisayar etkileşimini desteklemeli; web üzerinde sorunsuz bir deneyim sunarak motorun yapısını ve çalışma prensiplerini eksiksiz biçimde sergilemelidir.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101271938706685991) · [Orijinal gönderi](https://x.com/YouWareAI/status/2101272224435253432) · [Örneklere dön](#all-prompts)
-
----
 
 <a id="2101310374033428642"></a>
 
@@ -3567,6 +3525,80 @@ Blender’da tamamen sıfırdan, gerçekçi ve sinematik bir “şişede fırtı
 
 ---
 
+<a id="2112556579153178940"></a>
+
+### 3B Lüks İskelet Saat
+
+[Havis \| Claude Code](https://x.com/HavisT83099) · 2026-10-20
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/luxury-skeleton-watch-3d-model"><img src="../assets/previews/4166477990fcdb73d56e07f9b4be7cf8abd3a138a2f35e078f2bb55a02eb66b2.jpg" width="840" loading="lazy" alt="3B Lüks İskelet Saat"></a>
+
+Altın kasalı, akrep ve yelkovanı işleyen, kadranın arkasında görünür durumdaki dişlileri dönen 3B lüks bir iskelet saat talebi.
+
+**İstem**
+
+```text
+3B lüks bir iskelet saat. Altın kasa, işleyen akrep ve yelkovan, kadranın arkasında dönen dişliler
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/luxury-skeleton-watch-3d-model) · [Orijinal gönderi](https://x.com/HavisT83099/status/2112556579153178940) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2112916773838454922"></a>
+
+### Kuzey Atlantik Fırtınası — Gerçekçi 3B Okyanus ve Deniz Feneri Simülasyonu
+
+[Kunal](https://x.com/kunal_twts) · 2026-10-21
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/north-atlantic-storm-ocean-lighthouse-simulation"><img src="../assets/previews/db5e62bb1faa929291477696b98bdcbb5035ad17c5438128e4fd66e80ffd97b3.jpg" width="840" loading="lazy" alt="Kuzey Atlantik Fırtınası — Gerçekçi 3B Okyanus ve Deniz Feneri Simülasyonu"></a>
+
+Modelleri karşılaştırmak için içeriği paylaşan kişi tarafından hazırlanmış bir test istemi. Fiziksel olarak tepki veren bir balıkçı trol teknesi, katmanlı okyanus dalgaları, dönen bir deniz feneri ışığı, fırtınalı hava, sinematik kamera açıları, ayarlanabilir fırtına şiddeti ve boşta çalışan bir otomatik pilot içeren gerçek zamanlı, etkileşimli bir 3B Kuzey Atlantik fırtınası simülasyonu talep ediyor.
+
+**İstem**
+
+```text
+# İstem: Kuzey Atlantik Fırtınası — Gerçekçi 3B Okyanus ve Deniz Feneri Simülasyonu
+
+Alacakaranlıkta Kuzey Atlantik fırtınasının gerçekçi, gerçek zamanlı bir 3B simülasyonunu oluşturun: Bir balıkçı trol teknesi, kayalık bir adadaki deniz fenerinin yanından geçerek dev dalgalarla mücadele etsin.
+
+**OKYANUS**
+
+Gürültü eklenmiş düz bir düzlem değil, fiziksel açıdan inandırıcı bir açık okyanus oluşturun: katmanlı dalga spektrumlarından (örneğin Gerstner veya FFT tarzı dalgalardan) oluşturulmuş, 8 ila 12 metre yüksekliğinde büyük ve yuvarlanan kabarmalar; üstlerinde daha küçük çırpıntılı dalgalar bulunsun. Dalga tepeleri beyaz köpüklere dönüşerek kırılsın, köpük izleri rüzgâr yönünde uzansın ve tepelerden su zerrecikleri savrulsun. Su, derinliğe bağlı renkler göstersin (çukurlarda koyu mavi-gri, ışığın bir dalga tepesinden geçtiği yerlerde yarı saydam yeşil); fırtınalı gökyüzünün Fresnel yansımaları ve su altı saçılımı bulunsun.
+
+**TROL TEKNESİ**
+
+Kırmızı gövdeli, pencereleri aydınlatılmış beyaz bir kumanda köşküne, direklere, donanıma, ağlara ve güverte ışıklarına sahip, 30 metre uzunluğunda çelik bir balıkçı trol teknesi oluşturun. Tekne dalgalara fiziksel olarak uyum sağlamalı; kabarmayla birlikte baş-kıç ve yalpa hareketi yapmalı, başı bir dalganın içine gömülerek beyaz su zerrecikleri savurmalı, yeşil su güverteyi yıkamalı ve arkasındaki iz çalkalanarak ilerlemeli.
+
+**DENİZ FENERİ**
+
+Tırtıklı, koyu renkli kayalık bir adanın üzerinde beyaz ve kırmızı taşlardan yapılmış bir deniz feneri oluşturun. Lambası dönsün ve ışık huzmesi yağmurla su zerreciklerinin arasından görünür biçimde tarama yapsın. Dalgalar kayalara çarparak dev köpük ve su zerrecikleri halinde yukarı doğru patlasın.
+
+**HAVA DURUMU**
+
+Rüzgârın sürüklediği şiddetli yağmur, tepede hızla ilerleyen alçak ve koyu fırtına bulutları, bulutları ve denizi bir anlığına aydınlatan ara sıra yıldırımlar ve ses eklerseniz bunların ardından duyulan gök gürültüsü uğultusu olsun; deniz kuşları da rüzgâra karşı zorlanarak uçsun.
+
+**AYDINLATMA VE KAMERA**
+
+Kapalı gökyüzünden gelen loş, doğal mavi-gri alacakaranlık ışığı; tek sıcak ışık kaynakları olarak sıcak deniz feneri huzmesi ve trol teknesinin güverte ışıkları; fizik tabanlı malzemeler ve doğal renkler kullanın. Yavaş, sinematik kamera hareketleri kullanın: bir dalga objektifin önünde yükselirken suyun hemen üzerinde alçak bir çekim, trol teknesinin arkasından takip çekimi ve teknenin deniz fenerinin yanından geçişini gösteren geniş açı çekimi.
+
+**KONTROLLER**
+
+Fareyle yörünge görünümünü kontrol edin, kaydırma tekerleğiyle yakınlaştırıp uzaklaştırın; kamera açıları arasında geçiş yapmak ve fırtına şiddetini artırıp azaltmak için tuşları kullanın.
+
+**SUNUM GEREKSİNİMLERİ**
+
+- Yapay bir tam ekran renk tonu veya yoğun renk düzenleme olmadan, fiziksel açıdan makul, doğal aydınlatma ve renkler kullanılmalı.
+- Fizik tabanlı malzemelerle gerçek dünya ölçeği ve oranları kullanılmalı.
+- Başlat düğmesine tek tıklamayla veya Enter tuşuyla başlamalı (başlangıç ekranı isteğe bağlıdır).
+- Otomatik oynatma: Başlatıldıktan sonra 3 saniye boyunca oyuncu girdisi olmazsa yerleşik bir otomatik pilot kontrolü devralmalı ve simülasyonu sinematik biçimde kendi kendine oynatmalı; böylece ekran kaydında etkileyici görünmeli. Herhangi bir tuşa veya fareye giriş yapıldığında kontrol tekrar kullanıcıya geçmeli.
+- Küçük ve sade bir ekran üstü HUD ile kısa bir kontrol ipucu bulunmalı.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/north-atlantic-storm-ocean-lighthouse-simulation) · [Orijinal gönderi](https://x.com/kunal_twts/status/2112916777244197347) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Sonsuz Tank Savunması
@@ -3963,7 +3995,7 @@ Açılışı, her iki karakter portresini, çarpışmayı, imdat roketlerini, ü
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 356 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 358 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

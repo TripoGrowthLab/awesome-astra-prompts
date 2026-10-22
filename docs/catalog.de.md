@@ -28,7 +28,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**356 · Neueste Astra-Prompts**
+**358 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -50,8 +50,6 @@
 <details>
 <summary>Beispiele ansehen</summary>
 
-- [Vollständige fotorealistische 3D-Umgebung](#2101224659861590399)
-- [Interaktive 3D-Darstellung eines Flugzeugtriebwerks](#2101271938706685991)
 - [3D-Animations- und Video-Workflow für eine Kampfkunstkatze](#2101310374033428642)
 - [3D-Modell eines Waymo Jaguar I-Pace](#2101325346427842909)
 - [Segelboot auf offenem Wasser](#2101616345720787130)
@@ -144,6 +142,8 @@
 - [Interaktive 3D-Koi-Teich-Website](#2111817735181332826)
 - [Steampunk-Uhrturm bei Nacht in three.js](#2112137926922686800)
 - [Cinematische Animation: Sturm in einer Flasche](#2112552671890874585)
+- [Luxus-Skelettuhr in 3D](#2112556579153178940)
+- [Sturm im Nordatlantik — realistische 3D-Simulation von Ozean und Leuchtturm](#2112916773838454922)
 - [Battle City 3D: Endlose Panzerverteidigung](#battle-city-3d)
 - [Crazy Tanks — 3D-Inselartillerie](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: 3D-Bergbauspiel mit 24 Levels](#golden-miner)
@@ -152,48 +152,6 @@
 - [TITANIC — Das letzte Licht](#titanic-the-last-light)
 
 </details>
-
-<a id="2101224659861590399"></a>
-
-### Vollständige fotorealistische 3D-Umgebung
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-19
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2101224659861590399"><img src="../assets/previews/f8596f35d968eda4e24acabd4e2405d42aae7745029b8cf3426d550a2bd2cd52.jpg" width="840" loading="lazy" alt="Vollständige fotorealistische 3D-Umgebung"></a>
-
-Erstelle eine vollständige fotorealistische 3D-Umgebung nach einem offenen Konzept.
-
-**Prompt**
-
-```text
-Erstelle eine vollständige fotorealistische 3D-Umgebung. Überrasche mich.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2101224659861590399) · [Originalbeitrag](https://x.com/JulianGoldieSEO/status/2101224659861590399) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2101271938706685991"></a>
-
-### Interaktive 3D-Darstellung eines Flugzeugtriebwerks
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-19
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2101271938706685991"><img src="../assets/previews/62e8fc5aabb4c860a141510e4daac1335ad6caedd10812a63fb70f2b04fdc38e.jpg" width="840" loading="lazy" alt="Interaktive 3D-Darstellung eines Flugzeugtriebwerks"></a>
-
-Ein wiederverwendbarer Prompt, veröffentlicht von YouWare, für eine interaktive, hochrealistische 3D-Webdarstellung eines Flugzeugtriebwerks. Gefordert werden ein detailliertes Triebwerksmodell mit interaktiver Demontage und Explosionsansicht, per Klick oder Hover abrufbare Informationen zu den einzelnen Bauteilen sowie eine flüssige Kamerasteuerung. Im ursprünglichen Beitrag steht, dass derselbe Prompt mit GPT-6 Astra und Gemini 4 Pro ausgeführt wurde.
-
-**Prompt**
-
-```text
-Verwende three.js, um auf einer Webseite eine interaktive 3D-Darstellung eines Flugzeugtriebwerks zu erstellen.
-Orientiere dich an der Interaktionsdesign-Philosophie von Jigspace, um ein realistisches Modell mit nahezu 1:1 detailgetreuer Rekonstruktion zu erstellen und Material- sowie Texturdetails wie Metall, Leitungen und Schaufeln vollständig zu erhalten. Die interaktiven Funktionen müssen Folgendes umfassen: eine schrittweise Demontageanimation, eine Explosionsansicht der Komponenten sowie per Klick oder Hover eingeblendete Bauteilbeschreibungen und Erklärungen der Funktionsprinzipien.
-Insgesamt muss die Anwendung eine flüssige Kamerasteuerung und eine intuitive Benutzerinteraktion unterstützen, damit sie im Web reibungslos funktioniert und den Aufbau sowie die Funktionsprinzipien des Triebwerks umfassend veranschaulicht.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2101271938706685991) · [Originalbeitrag](https://x.com/YouWareAI/status/2101272224435253432) · [Zurück zu den Beispielen](#all-prompts)
-
----
 
 <a id="2101310374033428642"></a>
 
@@ -3502,6 +3460,80 @@ Erstelle in Blender vollständig von Grund auf eine realistische, filmische Anim
 
 ---
 
+<a id="2112556579153178940"></a>
+
+### Luxus-Skelettuhr in 3D
+
+[Havis \| Claude Code](https://x.com/HavisT83099) · 2026-10-20
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/luxury-skeleton-watch-3d-model"><img src="../assets/previews/4166477990fcdb73d56e07f9b4be7cf8abd3a138a2f35e078f2bb55a02eb66b2.jpg" width="840" loading="lazy" alt="Luxus-Skelettuhr in 3D"></a>
+
+Fordert eine luxuriöse Skelettuhr in 3D mit Goldgehäuse, tickenden Zeigern und sichtbaren Zahnrädern, die sich hinter dem Zifferblatt drehen.
+
+**Prompt**
+
+```text
+eine luxuriöse Skelettuhr in 3D. Goldgehäuse, tickende Zeiger, Zahnräder, die sich hinter dem Zifferblatt drehen
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/luxury-skeleton-watch-3d-model) · [Originalbeitrag](https://x.com/HavisT83099/status/2112556579153178940) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2112916773838454922"></a>
+
+### Sturm im Nordatlantik — realistische 3D-Simulation von Ozean und Leuchtturm
+
+[Kunal](https://x.com/kunal_twts) · 2026-10-21
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/north-atlantic-storm-ocean-lighthouse-simulation"><img src="../assets/previews/db5e62bb1faa929291477696b98bdcbb5035ad17c5438128e4fd66e80ffd97b3.jpg" width="840" loading="lazy" alt="Sturm im Nordatlantik — realistische 3D-Simulation von Ozean und Leuchtturm"></a>
+
+Ein Test-Prompt des Verfassers zum Vergleich verschiedener Modelle. Gefordert ist eine interaktive 3D-Echtzeit-Simulation eines Sturms im Nordatlantik mit einem physikalisch reagierenden Fischkutter, geschichteten Meereswellen, einem rotierenden Leuchtturmlicht, stürmischem Wetter, filmischen Kameraperspektiven, anpassbarer Sturmintensität und einem inaktiven Autopiloten.
+
+**Prompt**
+
+```text
+# Prompt: Sturm im Nordatlantik — realistische 3D-Simulation von Ozean und Leuchtturm
+
+Erstelle eine realistische 3D-Echtzeitsimulation eines Sturms im Nordatlantik bei Dämmerung: Ein Fischkutter kämpft sich durch riesige Wellen und passiert dabei einen Leuchtturm auf einer felsigen Insel.
+
+**DER OZEAN**
+
+Ein physikalisch überzeugender offener Ozean, keine flache Ebene mit Rauschen: Große, 8 bis 12 Meter hohe Dünungswellen, die aus geschichteten Wellenspektren aufgebaut sind (zum Beispiel Gerstner- oder FFT-Wellen), darüber kleinere Kräuselwellen. Die Wellenkämme brechen zu weißen Schaumkronen, Schaumstreifen ziehen sich in Windrichtung, und Gischt wird von den Kämmen geweht. Das Wasser zeigt eine tiefenabhängige Färbung (tiefes Blaugrau in den Wellentälern, durchscheinendes Grün, wo Licht einen Wellenkamm durchdringt), Fresnel-Reflexionen des stürmischen Himmels und Subsurface Scattering.
+
+**DER FISCHKUTTER**
+
+Ein 30 Meter langer Fischkutter aus Stahl mit rotem Rumpf, weißem Steuerhaus mit beleuchteten Fenstern, Masten, Takelage, Netzen und Deckbeleuchtung. Er muss physikalisch korrekt auf den Wellen reagieren, mit der Dünung stampfen und rollen, den Bug in eine Welle tauchen lassen und weiße Gischt aufwirbeln, während grünes Wasser über das Deck läuft und sich hinter ihm eine aufgewühlte Heckwelle bildet.
+
+**DER LEUCHTTURM**
+
+Ein weiß-rot gemauerter Leuchtturm auf einer zerklüfteten, dunklen Felseninsel. Sein Licht rotiert, und der Lichtstrahl ist im Regen und in der Gischt deutlich sichtbar. Wellen schlagen gegen die Felsen und schießen in riesigen Schaumspritzern in die Höhe.
+
+**WETTER**
+
+Starker, vom Wind getriebener Regen, tief hängende dunkle Sturmwolken, die über den Himmel rasen, sowie gelegentliche Blitze, die Wolken und Meer kurzzeitig erhellen. Danach ist im Audio Donnergrollen zu hören, falls du Ton hinzufügst. Seevögel kämpfen gegen den Wind an.
+
+**BELEUCHTUNG UND KAMERA**
+
+Gedämpftes, natürliches blaugraues Dämmerlicht des bedeckten Himmels; die einzigen warmen Lichtquellen sind der warme Leuchtturmstrahl und die Deckbeleuchtung des Kutters. Physikalisch basierte Materialien, natürliche Farben. Langsame filmische Kamerafahrten: eine niedrige Einstellung knapp über dem Wasser, während eine Welle vor der Linse aufsteigt, eine Verfolgungsaufnahme hinter dem Kutter und eine Weitwinkelaufnahme, in der das Boot am Leuchtturm vorbeifährt.
+
+**STEUERUNG**
+
+Mit der Maus die Ansicht drehen, mit dem Mausrad zoomen, mit den Tasten zwischen den Kameraperspektiven wechseln und die Sturmintensität erhöhen oder verringern.
+
+**ANFORDERUNGEN AN DIE DARSTELLUNG**
+
+- Physikalisch plausibel, mit natürlicher Beleuchtung und Farbgebung, ohne künstliche Vollbild-Farbüberlagerung oder starkes Color Grading.
+- Maßstab und Proportionen der realen Welt, mit physikalisch basierten Materialien.
+- Die Simulation startet mit einem Klick auf die Startschaltfläche oder mit der Eingabetaste (ein Startbildschirm ist optional).
+- Auto-Play: Nach dem Start übernimmt ein integrierter Autopilot, wenn 3 Sekunden lang keine Spielereingabe erfolgt, und spielt die Simulation selbstständig filmisch ab, damit sie in einer Bildschirmaufnahme großartig aussieht. Jede Tasten- oder Mauseingabe gibt die Steuerung zurück.
+- Ein kleines, übersichtliches HUD auf dem Bildschirm und ein kurzer Hinweis zur Steuerung.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/north-atlantic-storm-ocean-lighthouse-simulation) · [Originalbeitrag](https://x.com/kunal_twts/status/2112916777244197347) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Endlose Panzerverteidigung
@@ -3898,7 +3930,7 @@ Prüfe den Auftakt, beide Figurenporträts, die Kollision, die Seenotsignale, al
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 356 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 358 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>

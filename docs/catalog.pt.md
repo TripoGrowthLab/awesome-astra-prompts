@@ -28,7 +28,7 @@
 **Um ponto de partida para seu próximo jogo, cena ou mundo interativo.**
 
 
-**356 · Prompts mais recentes do Astra**
+**358 · Prompts mais recentes do Astra**
 
 ## Projetos em destaque
 
@@ -50,8 +50,6 @@
 <details>
 <summary>Explorar exemplos</summary>
 
-- [Ambiente 3D fotorrealista completo](#2101224659861590399)
-- [Visualização interativa em 3D de um motor de aeronave](#2101271938706685991)
 - [Fluxo de trabalho para animação e vídeo 3D de um gato especialista em artes marciais](#2101310374033428642)
 - [Modelo 3D de um Waymo Jaguar I-Pace](#2101325346427842909)
 - [Veleiro em mar aberto](#2101616345720787130)
@@ -144,6 +142,8 @@
 - [Site interativo de lago de carpas koi em 3D](#2111817735181332826)
 - [Cena noturna de uma torre de relógio steampunk em three.js](#2112137926922686800)
 - [Animação cinematográfica de uma tempestade em uma garrafa](#2112552671890874585)
+- [Relógio esqueleto de luxo em 3D](#2112556579153178940)
+- [Tempestade no Atlântico Norte — Simulação 3D realista de oceano e farol](#2112916773838454922)
 - [Battle City 3D: Defesa de Tanques sem Fim](#battle-city-3d)
 - [Crazy Tanks — Artilharia 3D em uma ilha](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: jogo de mineração 3D com 24 níveis](#golden-miner)
@@ -152,48 +152,6 @@
 - [TITANIC — A Última Luz](#titanic-the-last-light)
 
 </details>
-
-<a id="2101224659861590399"></a>
-
-### Ambiente 3D fotorrealista completo
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-19
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2101224659861590399"><img src="../assets/previews/f8596f35d968eda4e24acabd4e2405d42aae7745029b8cf3426d550a2bd2cd52.jpg" width="840" loading="lazy" alt="Ambiente 3D fotorrealista completo"></a>
-
-Crie um ambiente 3D fotorrealista completo com um conceito aberto.
-
-**Prompt**
-
-```text
-Crie um ambiente 3D fotorrealista completo. Surpreenda-me.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2101224659861590399) · [Publicação original](https://x.com/JulianGoldieSEO/status/2101224659861590399) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2101271938706685991"></a>
-
-### Visualização interativa em 3D de um motor de aeronave
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-19
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2101271938706685991"><img src="../assets/previews/62e8fc5aabb4c860a141510e4daac1335ad6caedd10812a63fb70f2b04fdc38e.jpg" width="840" loading="lazy" alt="Visualização interativa em 3D de um motor de aeronave"></a>
-
-Um prompt reutilizável publicado pela YouWare para criar uma visualização web interativa e de alta fidelidade de um motor de aeronave em 3D. Ele solicita um modelo detalhado do motor, com interações de desmontagem e vista explodida, informações sobre as peças acionadas por clique ou ao passar o cursor e controles de câmera suaves. A publicação original informa que o mesmo prompt foi executado no GPT-6 Astra e no Gemini 4 Pro.
-
-**Prompt**
-
-```text
-Use three.js para criar, em uma página web, uma visualização 3D interativa de um motor de aeronave.
-Consulte a filosofia de design de interação da Jigspace para obter um modelo realista, com restauração de alta fidelidade próxima de 1:1, preservando integralmente os detalhes de materiais e texturas, como metais, tubulações e pás. Os recursos interativos devem incluir: animação de desmontagem passo a passo, vista explodida dos componentes e descrições das peças e explicações de seus princípios de funcionamento, acionadas por clique ou ao passar o cursor.
-De modo geral, a experiência deve oferecer controle de câmera suave e uma interação humano-computador intuitiva, garantindo uma navegação fluida na web que apresente completamente a estrutura e os princípios de funcionamento do motor.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2101271938706685991) · [Publicação original](https://x.com/YouWareAI/status/2101272224435253432) · [Voltar aos exemplos](#all-prompts)
-
----
 
 <a id="2101310374033428642"></a>
 
@@ -3502,6 +3460,80 @@ Crie, inteiramente do zero no Blender, uma animação realista e cinematográfic
 
 ---
 
+<a id="2112556579153178940"></a>
+
+### Relógio esqueleto de luxo em 3D
+
+[Havis \| Claude Code](https://x.com/HavisT83099) · 2026-10-20
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/luxury-skeleton-watch-3d-model"><img src="../assets/previews/4166477990fcdb73d56e07f9b4be7cf8abd3a138a2f35e078f2bb55a02eb66b2.jpg" width="840" loading="lazy" alt="Relógio esqueleto de luxo em 3D"></a>
+
+Solicita um relógio esqueleto de luxo em 3D, com caixa dourada, ponteiros que marcam o tempo e engrenagens visíveis girando atrás do mostrador.
+
+**Prompt**
+
+```text
+um relógio esqueleto de luxo em 3D. Caixa dourada, ponteiros que marcam o tempo e engrenagens girando atrás do mostrador
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/luxury-skeleton-watch-3d-model) · [Publicação original](https://x.com/HavisT83099/status/2112556579153178940) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2112916773838454922"></a>
+
+### Tempestade no Atlântico Norte — Simulação 3D realista de oceano e farol
+
+[Kunal](https://x.com/kunal_twts) · 2026-10-21
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/north-atlantic-storm-ocean-lighthouse-simulation"><img src="../assets/previews/db5e62bb1faa929291477696b98bdcbb5035ad17c5438128e4fd66e80ffd97b3.jpg" width="840" loading="lazy" alt="Tempestade no Atlântico Norte — Simulação 3D realista de oceano e farol"></a>
+
+Um prompt de teste fornecido pelo autor da publicação para comparar modelos. Ele solicita uma simulação 3D interativa e em tempo real de uma tempestade no Atlântico Norte, com um barco de pesca de arrasto reagindo fisicamente, ondas oceânicas em camadas, o facho giratório de um farol, clima tempestuoso, visões de câmera cinematográficas, intensidade da tempestade ajustável e um piloto automático para quando não houver interação.
+
+**Prompt**
+
+```text
+# Prompt: Tempestade no Atlântico Norte — Simulação 3D realista de oceano e farol
+
+Crie uma simulação 3D realista e em tempo real de uma tempestade no Atlântico Norte ao anoitecer: um barco de pesca de arrasto enfrenta ondas gigantes ao passar por um farol em uma ilha rochosa.
+
+**O OCEANO**
+
+Um oceano aberto fisicamente convincente, não um plano liso com ruído: grandes ondulações de 8 a 12 metros de altura, criadas a partir de espectros de ondas em camadas (por exemplo, ondas de Gerstner ou no estilo FFT), com pequenas ondas encrespadas por cima. As cristas devem quebrar em arrebentação branca, faixas de espuma devem se estender na direção do vento e a água deve ser lançada para fora das cristas pelo vento. A água deve mostrar cores baseadas na profundidade (azul-acinzentado profundo nas cavas, verde translúcido onde a luz atravessa uma crista), reflexos de Fresnel do céu tempestuoso e dispersão subsuperficial da luz.
+
+**O BARCO DE PESCA DE ARRASTO**
+
+Um barco de pesca de arrasto de aço, com 30 metros de comprimento, casco vermelho, casa do leme branca com janelas iluminadas, mastros, rigging, redes e luzes no convés. Ele deve acompanhar as ondas de forma física, inclinando-se para a frente e para os lados com a ondulação, com a proa mergulhando em uma onda e lançando uma grande quantidade de espuma branca, água verde passando pelo convés e uma esteira turbulenta atrás dele.
+
+**O FAROL**
+
+Um farol de pedra branca e vermelha em uma ilha de rocha escura e recortada. Sua lâmpada gira, e o facho varre de forma visível a chuva e a água pulverizada. As ondas se chocam contra as rochas e explodem para cima em enormes borrifos de espuma.
+
+**CLIMA**
+
+Chuva intensa impulsionada pelo vento, nuvens baixas e escuras de tempestade correndo pelo céu, relâmpagos ocasionais que iluminam as nuvens e o mar por um instante, seguidos pelo som estrondoso do trovão se você adicionar áudio, e aves marinhas lutando contra o vento.
+
+**ILUMINAÇÃO E CÂMERA**
+
+Luz fraca e natural de um anoitecer azul-acinzentado vindo do céu nublado, com o facho quente do farol e as luzes do convés do barco como únicas fontes de luz quente, materiais baseados em física e cores naturais. Movimentos lentos e cinematográficos de câmera: uma tomada baixa logo acima da água, enquanto uma onda se ergue diante da lente; uma tomada de perseguição atrás do barco; e uma tomada ampla do barco passando pelo farol.
+
+**CONTROLES**
+
+Use o mouse para orbitar, a roda de rolagem para aplicar zoom e as teclas para alternar entre as tomadas de câmera e aumentar ou diminuir a intensidade da tempestade.
+
+**REQUISITOS DE APRESENTAÇÃO**
+
+- Iluminação e cores fisicamente plausíveis e naturais, sem tonalização artificial da tela inteira nem gradação de cores pesada.
+- Escala e proporções do mundo real, com materiais baseados em física.
+- A simulação começa com um clique no botão de início ou com a tecla Enter (uma tela inicial é opcional).
+- Reprodução automática: depois de iniciada, se não houver interação do jogador por 3 segundos, um piloto automático integrado assume o controle e executa a simulação de forma cinematográfica por conta própria, para que ela fique visualmente impressionante em uma gravação de tela; qualquer interação com o teclado ou mouse devolve o controle ao jogador.
+- Um HUD pequeno e limpo na tela, com uma breve dica dos controles.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/north-atlantic-storm-ocean-lighthouse-simulation) · [Publicação original](https://x.com/kunal_twts/status/2112916777244197347) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Defesa de Tanques sem Fim
@@ -3898,7 +3930,7 @@ Inspecionar a abertura, os dois retratos dos personagens, a colisão, os foguete
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 356 exemplos no site oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 358 exemplos no site oficial →</a></strong></p>
 <p><sub>Para manter a renderização do README do GitHub fluida, mostramos aqui apenas os 100 exemplos mais recentes.</sub></p>
 <br>
 </td></tr>
