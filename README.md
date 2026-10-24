@@ -35,12 +35,12 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="assets/featured/2096467585785286808.webp" width="420" loading="lazy" alt="Wright Flyer Through a Japanese Forest"></a><br><strong><a href="https://www.tripo3d.ai/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808">Wright Flyer Through a Japanese Forest</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="https://www.tripo3d.ai/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808">Prompt →</a></td>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188"><img src="assets/featured/2081024333120733188.webp" width="420" loading="lazy" alt="Jelly Jungle: 3D Platformer"></a><br><strong><a href="https://www.tripo3d.ai/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188">Jelly Jungle: 3D Platformer</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="https://www.tripo3d.ai/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/golden-miner"><img src="assets/featured/golden-miner.webp" width="420" loading="lazy" alt="Golden Miner: 24-Level 3D Mining Game"></a><br><strong><a href="#golden-miner">Golden Miner: 24-Level 3D Mining Game</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="#golden-miner">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/crazy-tanks-3d-island-artillery"><img src="assets/featured/crazy-tanks-3d-island-artillery.webp" width="420" loading="lazy" alt="Crazy Tanks — 3D Island Artillery"></a><br><strong><a href="#crazy-tanks-3d-island-artillery">Crazy Tanks — 3D Island Artillery</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="#crazy-tanks-3d-island-artillery">Prompt →</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/akari-nagoya-rooftop-flame-relay"><img src="assets/featured/akari-nagoya-rooftop-flame-relay.webp" width="420" loading="lazy" alt="AKARI: Nagoya Rooftop Flame Relay"></a><br><strong><a href="https://www.tripo3d.ai/3d-prompts/akari-nagoya-rooftop-flame-relay">AKARI: Nagoya Rooftop Flame Relay</a></strong><br><sub><a href="https://growthengineer.space/">Jared</a></sub><br><a href="https://www.tripo3d.ai/3d-prompts/akari-nagoya-rooftop-flame-relay">Prompt →</a></td>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/cyclops-island-threejs-game"><img src="assets/featured/cyclops-island-threejs-game.webp" width="420" loading="lazy" alt="The Cyclops' Island"></a><br><strong><a href="https://www.tripo3d.ai/3d-prompts/cyclops-island-threejs-game">The Cyclops' Island</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="https://www.tripo3d.ai/3d-prompts/cyclops-island-threejs-game">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/battle-city-3d"><img src="assets/featured/battle-city-3d.webp" width="420" loading="lazy" alt="Battle City 3D: Endless Tank Defense"></a><br><strong><a href="#battle-city-3d">Battle City 3D: Endless Tank Defense</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="#battle-city-3d">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/titanic-the-last-light"><img src="assets/featured/titanic-the-last-light.webp" width="420" loading="lazy" alt="TITANIC — The Last Light"></a><br><strong><a href="https://www.tripo3d.ai/3d-prompts/titanic-the-last-light">TITANIC — The Last Light</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="https://www.tripo3d.ai/3d-prompts/titanic-the-last-light">Prompt →</a></td>
 </tr>
 </table>
 
@@ -146,11 +146,11 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Game-ready straw training dummy 3D model](#2113321027325300784)
 - [Chalk Square: pixel-art 3D four-square game](#2113602050172785117)
 - [FLOATING WORLD interactive 3D island sanctuary](#2113627142772899916)
-- [Battle City 3D: Endless Tank Defense](#battle-city-3d)
-- [Crazy Tanks — 3D Island Artillery](#crazy-tanks-3d-island-artillery)
-- [Golden Miner: 24-Level 3D Mining Game](#golden-miner)
-- [Jelly Villa](#jelly-villa)
 - [Red Light, Green Light: 3D Survival Game](#red-light-green-light)
+- [Golden Miner: 24-Level 3D Mining Game](#golden-miner)
+- [Crazy Tanks — 3D Island Artillery](#crazy-tanks-3d-island-artillery)
+- [Battle City 3D: Endless Tank Defense](#battle-city-3d)
+- [Jelly Villa](#jelly-villa)
 
 </details>
 
@@ -3632,126 +3632,59 @@ Deliver a single polished HTML file.
 
 ---
 
-<a id="battle-city-3d"></a>
+<a id="red-light-green-light"></a>
 
-### Battle City 3D: Endless Tank Defense
+### Red Light, Green Light: 3D Survival Game
 
-[jared](https://x.com/jaredliu_bravo) · 2026-09-22
+[jared](https://x.com/jaredliu_bravo) · 2026-10-12
 
-<a href="https://www.tripo3d.ai/3d-prompts/battle-city-3d"><img src="assets/previews/e9180abfae92dc2319bb9b62f6ee89602336de5599b5f1c98f0feffeda618cdb.png" width="840" loading="lazy" alt="Battle City 3D: Endless Tank Defense"></a>
+<a href="https://www.tripo3d.ai/3d-prompts/red-light-green-light"><img src="assets/previews/f0cd12ce7ed0dc81cf023e84cfc2e428e21400ed984c6e6405b89eec2d6158ac.webp" width="840" loading="lazy" alt="Red Light, Green Light: 3D Survival Game"></a>
 
-Defend the eagle across endless grass, snow and industrial battlefields or 35 classic maps. Collect ten supplies and defeat heavy enemy tanks that take four hits to destroy.
+<a href="https://www.tripo3d.ai/3d-prompts/red-light-green-light"><img src="assets/previews/385d9e2014a3f7ad5f57382f100f391f741e59e4d1bde729dd9811d6e1f8fdf8.webp" width="840" loading="lazy" alt="Red Light, Green Light: 3D Survival Game"></a>
 
-**Prompt**
+<a href="https://www.tripo3d.ai/3d-prompts/red-light-green-light"><img src="assets/previews/0f2cc98d286c448c959255fae28afea86dc8ee7a516410e2c27e6fb5c3bca23b.webp" width="840" loading="lazy" alt="Red Light, Green Light: 3D Survival Game"></a>
 
-```text
-1. Project goal
-Build Battle City 3D, a browser tank-defense game inspired by the 1985 Famicom classic. The player drives a tank, destroys a wave of 20 enemies, collects supplies and protects the eagle headquarters. Reconstruct the current perspective-3D version shown in the reference media, including an endless seeded campaign and 35 selectable classic layouts. Preserve the readable arcade rules while giving tanks, walls and scenery genuine depth.
+<a href="https://www.tripo3d.ai/3d-prompts/red-light-green-light"><img src="assets/previews/288746ae7c32efddbfb5b8455af62b45358f51901856ac884452f990ae10196c.webp" width="840" loading="lazy" alt="Red Light, Green Light: 3D Survival Game"></a>
 
-2. Visual style
-Use a Three.js PerspectiveCamera with a 60-degree field of view. The default battlefield view sits behind and above the player, around 13 world units away at elevation 0.43 radians. Smoothly follow position and a point ahead of the tank; never rotate the camera automatically when the tank turns. Offer a higher tactical view, manual drag orbit and wheel zoom. Use the four cardinal map axes for movement and firing. After orbiting, map directional keys to the nearest cardinal direction relative to the camera; never turn keyboard input into diagonal movement. Render the chassis heading immediately to match the shot direction, and calibrate projectile and muzzle-flash height to the actual cannon of each model.
-Use grounded tracked tanks, metallic turrets, terracotta bricks, dark steel blocks, blue water, low foliage and reflective ice. Continue the ground beyond the playable area into trees, ruined buildings and haze. Use warm directional light, soft shadows, ambient fill, ACES tone mapping and restrained muzzle flashes, recoil, sparks and bouncing debris. Snow changes the ground and tree palette; industrial stages favor steel and ruined buildings.
-Frame the game with a dark olive command interface, warm yellow primary action, score, shared lives, remaining enemy icons, stage name and radar. Put the large Tripo 3D / Three.js model switch above the battlefield, showing the selected mode and a rotating tank preview. Use a localized illustrated supply guide and timed-effect indicators. Keep the playfield and essential touch controls visible on narrow screens.
+<a href="https://www.tripo3d.ai/3d-prompts/red-light-green-light"><img src="assets/previews/04114d42ef8ceeef1a9cdb52e7c3a92f74c84ccd1615428ba180a52b597736b0.webp" width="840" loading="lazy" alt="Red Light, Green Light: 3D Survival Game"></a>
 
-3. World and scenes
-Represent the battlefield as a 26 by 26 tile grid, with a tank collision half-width of 0.72. Place the eagle at (13,25), surrounded by a destructible U-shaped brick defense. Player spawns are (9,25) and (17,25); enemy gates are (1,1), (13,1) and (25,1).
-Provide two campaigns: all 35 classic layouts with their 20-enemy wave tables, and an endless seed-based generator cycling grass, snow and industrial biomes. Generate connected corridors wide enough for the full chassis, with passable connections between player spawns, enemy gates and pickup locations. Add staggered central steel cover to prevent a direct spawn-to-eagle firing lane while retaining cross-street access. Allow selecting the starting biome or classic stage and rerolling a random map. Carry the run seed, score, lives and surviving players' upgrades into the next stage.
-Brick is destructible; steel blocks ordinary shells and tanks; water blocks tanks but allows shells to pass; foliage conceals enemy models; ice reduces traction. Keep the distant environment decorative, separate from gameplay collision.
+<a href="https://www.tripo3d.ai/3d-prompts/red-light-green-light"><img src="assets/previews/4a418cd1973a7b18131f58ad925c2f6423d5627181a16ad5a4b743beaa5033f6.webp" width="840" loading="lazy" alt="Red Light, Green Light: 3D Survival Game"></a>
 
-4. Asset inventory
-Use these stable, independently replaceable 3D model slots. Prioritize the player, enemy, heavy tank and eagle, then all ten supply models. Ground each asset at its lowest point and normalize its facing, center and scale. Reuse templates instead of loading a model per enemy.
-- player: a mustard-yellow tracked tank with a readable turret and forward cannon; used by player tanks, with a separate ring color for the second player.
-- enemy: a compact tracked enemy tank, reused with distinct tints for basic, fast and powerful variants.
-- heavy: a visibly heavier armored tank, separate from the standard enemy mesh, with four visible armor segments above it.
-- eagle: a metallic golden eagle statue on the headquarters pedestal.
-- pickup-star: a gold five-point upgrade star.
-- pickup-helmet: a protective military helmet for temporary shielding.
-- pickup-clock: a readable clock for freezing enemy movement.
-- pickup-shovel: a shovel for headquarters reinforcement.
-- pickup-life: a miniature tank representing one extra life.
-- pickup-grenade: a hand grenade for destroying active enemies.
-- pickup-ammo: an ammunition box for rapid fire.
-- pickup-repair: a repair toolbox for restoring armor.
-- pickup-magnet: a horseshoe magnet for ranged pickup collection.
-- pickup-boost: an energy battery for a temporary speed boost.
-- environment-building: a weathered ruined apartment building, Tripo P2.0, requested budget 1,800 triangles.
-- environment-tree: an irregular pine with visible trunk, Tripo P2.0, requested budget 1,100 triangles.
-- environment-bush: a low leafy shrub and grass tufts, Tripo P2.0, requested budget 650 triangles.
-Display supplies as rotating, hovering collectible models with colored rings and matching guide thumbnails. Render repeated buildings, trees and bushes with shared geometry/material instances. Ground the building and tree roots; bury the shrub base slightly to blend with terrain. Add snow on upward-facing surfaces in snow stages. Keep tile walls, water, ice, projectile meshes, UI, lights, particles and collision proxies procedural. Animate water with world-space flowing waves, changing normals and small surface displacement, continuous across adjacent tiles. The Tripo version uses 17 generated models; the comparison version switches both tanks and environment to code-built geometry with the same rules and collisions. Both are rendered with Three.js.
-
-5. Gameplay and feedback
-Support solo and local two-player co-op with a shared pool of three lives. Solo uses WASD or arrow keys and Space/J to fire. In co-op, player one uses WASD and Space/J; player two uses arrows and Enter/Numpad 0. P/Escape pauses; C changes camera; 1/2 selects model mode. On touchscreens, allow holding a directional pad and fire button simultaneously, release input on pointer cancellation, and expose pause, resume, next-stage and retry actions without scrolling.
-Player speed is 4.2 units per second, or 6.3 with boost. Enemies include basic, fast, powerful and heavy types; heavy tanks have four hit points and survive the first three unshielded hits. Use four concurrent enemies in solo and six in co-op, with staggered spawning. Killing a type awards 100, 200, 300 or 400 points; collecting any supply gives 500 points. Clear a stage after 20 enemy defeats. Lose when the eagle is destroyed or the shared lives are exhausted with no surviving player. Offer immediate retry, explicit next-stage progression and a locally saved best score.
-Implement all ten supplies: star upgrades through three levels (faster shells, two simultaneous shells, then steel-breaking shells); helmet shields for 12 seconds; clock freezes enemies for 9 seconds; shovel reinforces the base for 16 seconds; mini tank adds one life; grenade destroys active enemies; ammunition grants 14 seconds of rapid fire with up to four active shells; repair adds two hit points capped at three; magnet collects visible supplies within five units for 20 seconds; boost lasts 12 seconds. Supply models last 25 seconds and appear at reachable locations, with a shuffled deck to vary types. Magnet collection must respect solid obstacles.
-Use collected NES-style samples for the 4.333-second stage opening, firing, driving and idling, brick/steel impacts, enemy/player explosions, supply appearance and collection, extra life, armor hit, ice, pause and game over. The current project uses 15 OGG cues from JustoSenka/BattleCity, commit 3a07004ba8e53baea74ff70d2ecc22b017eb9b20. Preserve their attribution and repository license notice; describe them as collected remake audio, without claiming a bit-perfect hardware capture. Unlock audio on user gesture, calibrate sample gains, provide volume/mute, and synchronize sounds to events. Do not add unrelated continuous battle music.
-
-6. Technical implementation
-Use TypeScript, Three.js 0.180.0 and Vite 7, with an isolated package.json and lockfile. Keep the simulation independent of rendering, stepping at 120 Hz. Use solid chassis AABBs, axis-separated motion, boundary and tank separation, and continuous nearest-contact shell sweeps, including relative-motion collision between opposing shells. Shells originate at the chassis and sweep forward to prevent point-blank wall clipping. Add ice acceleration/deceleration and gravity with damped bounces for debris. These are arcade ground physics, not a suspension simulator.
-Load same-origin GLB assets through GLTFLoader. Keep collision proxies independent of asset geometry. The current runtime uses quantized attributes and WebP textures (1024 px for vehicles/base; 512 px for supplies and environment), without geometry simplification or a WASM decoder. Limit loading to four workers, use hash-versioned URLs and 256 KiB ranges with a 20-second timeout and up to three attempts per range. Unlock play after the four core models and audio are ready; load supplies and environment assets in the background and only spawn supply types whose models are ready. Switching model mode preserves gameplay state.
-Provide English, simplified Chinese, Japanese and Korean UI. Select a default from device language, except zh-TW, zh-HK, zh-MO and zh-Hant default to English; persist explicit language choices. Support keyboard, desktop pointer and multitouch, and pause on focus loss. Keep all assets, credits and reproducible scripts local to the source project, and ship a static dist directory with no private credentials or runtime backend dependency.
-
-7. Completion criteria
-Deliver editable source, asset provenance and license notices, an npm development/build workflow and a playable static preview. Verify the default Tripo scene, the model comparison, all biomes, a heavy tank taking four hits, every supply effect, pause/resume, defeat/retry and stage progression. Test 1,000 seeded maps for chassis-width connectivity and safe spawns, plus all classic maps, wall tunneling, diagonal shots, tank separation, ice momentum, camera-relative input at multiple yaws, and state-preserving mode switches. Validate localized UI and narrow-screen two-finger controls without claiming physical-device testing when only emulation was used. Compare actual start and combat frames with the reference images/video; confirm all 17 models and 15 audio cues load. Publish through the existing CMS Web Page workflow and verify the final public page, rather than treating a saved CMS record as a completed deployment.
-
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/battle-city-3d) · [Live demo](https://battle-city-3d.tripo.page/) · [Back to examples](#all-prompts)
-
----
-
-<a id="crazy-tanks-3d-island-artillery"></a>
-
-### Crazy Tanks — 3D Island Artillery
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/3d-prompts/crazy-tanks-3d-island-artillery"><img src="assets/previews/7b026fd7cfcbf1398c6b77062abb333fe61e020e75b514aeab2eff40db94984e.png" width="840" loading="lazy" alt="Crazy Tanks — 3D Island Artillery"></a>
-
-Aim, read the wind and charge from zero in a fully 3D island artillery battle. Choose six shells, carve deep craters and survive the rising chaos.
+Race a giant doll and armed guards in a tense 42-second stop-and-go game. Sprint, manage stamina, freeze on red, and compare procedural characters with real Tripo models.
 
 **Prompt**
 
 ```text
 1. Project goal
-Build Crazy Tanks — Wild Tides, a playable, genuinely three-dimensional turn-based artillery game on a tropical island. The player aims a small tank, reads the wind, times a charge from zero, and reshapes the battlefield with shells. Support solo against AI and local pass-and-play, with a default three-tank free-for-all and an optional two-tank duel. The last surviving tank wins. Use the current reference gameplay and screenshots as the visual target.
+Build Red Light, Green Light, a single-player 3D playground survival game inspired by the familiar stop-and-go challenge. The player is contestant 456, racing 23 local AI contestants across a 62-metre arena within 42 seconds. Holding a single input advances; releasing stops immediately. There is one life per attempt. Deliver the playable game, not a mockup or a prerecorded scene. This is an independent game, not an official television tie-in.
 
-2. Visual style
-Use a perspective camera and freely orbitable 3D geometry, not flat sprites or a fixed side view. Create a sunny, miniature diorama with rounded jade, coral-orange and blue-violet tanks, creamy sand, pale green grass, turquoise reflective water, soft shadows and a light atmospheric distance haze. Preserve the three tanks' distinct silhouettes and matching barrels. Use a compact cream round/armor panel above the battlefield and a dark teal rounded control deck below it. Gold marks the reference power and firing action; mint marks actual charge and friendly status. Keep the Tripo / Three.js appearance switch prominent at the top, defaulting to Tripo assets. Switching appearances must preserve the match and physics state. Use thin, evenly spaced teal screen-space dashes and a restrained landing circle; do not reflect aiming graphics in the water.
+2. Visual direction and screen hierarchy
+Use Three.js with a cinematic third-person perspective: dusty warm sand, tall faded pink walls with mint-green lower panels and painted hills, watchtowers, bare trees, a giant orange-and-yellow doll beyond the finish line, teal tracksuits and masked pink guards. Directional golden light, soft contact shadows, restrained fog, chalk lane marks and sparse dust should establish depth without heavy postprocessing. The arena fills the viewport. Place the recognizable title low left in the opening screen and keep instructions compact. During play show a small timer/alive counter, a central colour-and-text signal, progress and one hold-to-run button. Do not replace gameplay with oversized text panels. Adapt portrait layouts without stretching the 3D view.
 
-3. World and scene
-Use a destructible height-field island approximately 260 by 184 metres, surrounded by ocean at a fixed sea level. Place the starting tanks far apart on stable ground; distribute rocks, palms, cacti and collectible supply crates. Smaller decorative islands provide background depth and never substitute for the destructible main terrain. Blasts deform the surface and can dig below sea level. Keep shoreline color and foam in a single water surface to avoid overlapping planes and flicker. Project tank numbers from world positions every rendered frame. Provide full-trajectory, tank, orbit and tactical overhead views. The trajectory view must fit the firing tank, arc and estimated landing into the space between the HUD and control deck. Before each shot, show the firing tank for about 0.8 seconds, linger at the muzzle, then follow the projectile. Manual camera interaction cancels cinematic following.
+3. Movement, sprint and stop judgment
+Hold Space, W, Up Arrow or the run button to move. A/D or Left/Right steers, but steering is optional. Hold Shift to sprint; on touch, hold the button and slide upward more than 38 pixels to sprint, with horizontal dragging to steer. Normal speed is 3.6 metres/second; sprint is 5.65 before small streak bonuses. Sprint drains stamina; stopping restores it. Exhaustion disables sprint until enough stamina has returned. Releasing forward input stops immediately, with no hidden inertia. Cancel all movement/sprint on pause, blur, language UI replacement, renderer-style switch, retry and end state. Track multiple held keys and one active pointer correctly.
 
-4. Asset inventory
-Use stable model slots and keep replacement models individually addressable:
-- jade-body: rounded green shield-like tracked hull; the player's default body. jade-cannon: matching jade barrel with a dark bore and gold accents, articulated independently.
-- ember-body: coral-orange pointed armored hull with a low mechanical profile. ember-cannon: its longer matching orange barrel and dark muzzle.
-- bolt-body: blue-violet industrial tracked hull with angular plated armor. bolt-cannon: matching thick blue barrel.
-- shell: a brass artillery projectile with a dark tapered tip and cyan accent. Reuse it with weapon-specific tint and scale.
-- crate: a yellow armored supply box with cyan marking and reinforced corners; collect it for 20 armor, capped at 100.
-- rock: warm rounded sandstone cluster; repeat at varied scale and use a separate collision proxy.
-- palm: curved trunk and layered green fronds; repeat as island vegetation.
-- cactus: compact green cactus with small flowering details; repeat on dry terrain.
-- islet: a rounded grassy background island with pale rock/sand edges; repeat beyond the arena.
-Prioritize the three matching body/barrel pairs, followed by shell/crate and environmental props. Keep terrain deformation, ocean, foam, fire, smoke, shockwaves, debris, aim graphics, lighting, UI and collision proxies procedural. Matching body and barrel parts share one design reference and scale. Place the barrel pivot at its mechanical joint, align its forward axis to +X, and use the visible muzzle as the physical launch point. Tank bodies conform to slopes using quaternions; turret aim remains a world-space direction. Preserve source PBR textures and UV seams. Keep full-resolution downloadable models separate from optimized game runtime copies; references and file provenance must identify the actual generation source.
+4. Round rhythm and consequences
+Implement ready, countdown, running, paused, dying, lost and won states. A three-second countdown starts a 42-second round. Alternate green running periods, visible amber turning warnings and red surveillance. First green lasts 3.4 seconds; later greens vary and tighten as the round progresses. Amber lasts 0.65–0.95 seconds, never disappears without warning. Red is about 2.1–3.35 seconds. The doll starts turning during amber and faces contestants on red. After a short red transition grace, continued movement fills a visible detection indicator and triggers a guard shot. Do not kill a stationary player randomly. Running out of time also eliminates the player. Show a brief 1.65-second hit/fall camera sequence before results, then immediate retry. Crossing the finish line is safe.
 
-5. Gameplay and feedback
-Each living tank receives 18 metres of movement when its turn starts. WASD and the movement pad move relative to the screen; arrow keys and the aiming pad adjust bearing and elevation. Sliders provide bearing, 10–80 degree elevation and 0–100 reference power. Selecting a rival only faces it; it must not solve the shot.
-The teal arc estimates the chosen reference power with NO wind. Keep that reference and its gold marker fixed while charging. Hold Fire, Space, or Enter on the focused Fire button to start actual power at 0 every time; increase by 18 percentage points per second, hold at 100, and fire exactly once on release using the actual power at that instant. A quick tap fires a weak shot. The gold band within 3 percentage points is visual feedback only, with no snapping or hidden correction. Cancel on pointer cancellation, window blur or loss of visibility. Lock movement, target and aim changes during a charge. Range-input keyboard controls must not also turn the turret. Zero power represents the lowest launch speed, not a stationary shell.
-The arrow and visible drifting wind streaks show where wind pushes the shell. Label wind strength and metres per second; clicking the wind card explains it. Wind blowing left means the player should aim somewhat right. Stronger wind and longer airtime cause greater drift. Wind stays constant during a shot and changes each turn. Never compensate the player preview automatically. Predict terrain landing approximately; do not promise tank/rock collisions, cluster splitting or ricochets in the preview.
-Provide six payloads: unlimited HE; a cluster round that splits into five descending submunitions; Seismic with a crater up to 28 metres across and 13 deep; a ricochet round that bounces twice; one Cataclysm round per tank with a crater up to 46 metres across and 22 deep; and Incendiary that leaves a 12-metre-radius fire zone. Fire deals 8 damage at each of six action endings; moving outside avoids damage and overlapping zones do not stack. Seawater extinguishes flames. An entire tank, including its raised barrel, fully below the water is eliminated immediately. Show the real damage, armor loss, terrain collapse, water splash and elimination outcome.
-Use layered fireballs, expanding shock rings, emissive sparks, ballistic fragments, dust and smoke with restrained camera shake. Use the provided original ElevenLabs music and cannon, impact, ricochet, heavy blast, fire and splash sounds. Include sound toggle, pause/resume, instructions, replay and return to menu. During projectile flight or AI turns, offer Back to my turn: run the same fixed-step simulation quickly and preserve all damage, terrain and hazard outcomes. Never skip a local friend's input turn.
+5. Tension, opponents and rewards
+Give the 23 AI contestants independent speed and reaction timing. A nearby slow-reacting contestant visibly violates the first red and is shot, establishing the threat without scripting a player loss. Later mistakes trigger bounded bursts of eliminations. Aim a nearby armed guard toward each actual target, align the shot origin to its rifle muzzle, show a brief star-shaped muzzle flash, thin tracer, muted impact dust and non-graphic fall. Use an eight-slot reusable effect pool. A stop in the last 0.34 seconds before red earns perfect-stop points, a streak and a small stamina refill. The final 18 seconds increase audio/visual urgency. Preserve deterministic seeded rules for tests while normal play varies by attempt.
 
-6. Technical implementation
-Use Three.js with ES modules and Vite, local bundled fonts, Web Audio for effects and an HTML audio element for looping music. Keep resources on the same origin and support a static build. Use a perspective renderer with antialiasing, practical shadow and postprocessing budgets, and proper disposal of transient geometry/materials. Distinguish model decoration from gameplay collision.
-Keep deterministic physics independent of rendering, with metre/second units, gravity 9.81 m/s² and a 1/120-second fixed step. Use continuous swept collisions for high-speed projectiles against ground, water, tanks and rocks; apply blast impulses and gravity to displaced tanks. Derive launch positions from the actual tank-specific barrel transform. Normal playback and fast-forward must call the same simulation updates. Damage and wind response are stylized game rules, not an engineering blast simulator.
-Support Chinese, English, Japanese and Korean UI. Choose from device language initially; Hong Kong, Macau, Taiwan and Traditional Chinese devices default to English. Remember explicit choices and allow a visible language selector. Use responsive desktop, portrait phone and short landscape layouts, scrollable short-screen menus, comfortable touch targets, collapsible panels and no overlapping controls. Do not require keyboard input on touch devices. Keep development-only state mutation and aiming helpers out of production.
+6. Real Tripo characters and procedural comparison
+Default to genuine Tripo P2-generated GLB assets: the playground doll, the teal contestant with idle/run/victory skeletal clips, and an armed masked guard. Preserve the source model provenance and reuse supplied originals; do not regenerate equivalent assets without need. Normalize forward axes, scale and feet-to-floor alignment. Rotate the doll head independently. Keep the hero fully skinned; batch distant opponents with shared baked pose instances and freeze them faithfully on red. Provide a prominent top-centre Three.js / Tripo toggle that changes character appearance instantly without resetting distance, time, score or the round. The Three.js mode uses articulated geometric contestants, doll and armed guards. Both modes use Three.js; do not imply that the entire environment was generated by Tripo.
 
-7. Completion criteria
-Deliver an editable standalone source project, lockfile, npm dev/build instructions and a working static preview. Match the current screenshots and gameplay video, including the cream status panel, gold fixed reference marker, zero-start live charge and fully 3D tank/island presentation. Verify first launch, model loading, a complete turn cycle, each payload's behavior, pause, replay and a real win/loss outcome. Confirm appearance switching preserves state and keyboard/touch cancellation does not fire. At a clear no-wind test shot, releasing at reference power should land close to the reference circle; opposite crosswinds must visibly shift the actual shell while leaving that circle unchanged. Check 30/60/144 Hz behavior, high-speed collision, deep craters, fire expiry, complete submersion elimination and equality of normal/fast-forward turn outcomes. Inspect desktop and narrow layouts in all four languages; identify browser emulation separately from physical-device testing. Validate the hosted page and linked media, not only the local build.
+7. Sound and accessibility
+Use synthesized Web Audio for warning notes, tense heartbeat, footsteps, directional gunshots and short echoes, perfect-stop chimes and victory. Unlock audio only on interaction, limit amplitude to avoid clipping and offer mute. Red/green meaning must be readable from words as well as colour. Provide reduced motion, suppressing flash/camera shake while retaining understandable outcomes. Support keyboard focus, compact settings, pause/resume and clear error recovery. Asset failure must visibly fall back to the procedural mode, keep the game playable and expose retry.
+
+8. Languages, persistence and author
+Include complete English, Simplified Chinese and Spanish UI. On first visit select the first supported browser language, falling back to English; keep manual selection on this device. Localize instructions, status, stamina, errors and results. Title: Red Light, Green Light / 一二三，木头人 / Luz roja, luz verde. Save a local personal best, not a fabricated global leaderboard. Credit jared with https://x.com/jaredliu_bravo. No signup, payment, multiplayer or custom-model upload is required for gameplay.
+
+9. Engineering, performance and acceptance
+Use an isolated Vite/Three.js project with a lockfile and bundled same-origin scripts/fonts/GLBs. No API keys or temporary signed URLs in the build. Share textures/materials, merge static architecture, instance repeated props and crowd poses, limit pixel ratio adaptively and bound shadow updates. Separate game logic, input controller, scene, combat effects, audio, localization and UI. Test seeded winnability, sprint exhaustion/recovery, exact stops, detection fairness, safe finish, timeout/death/retry, paused timing, multi-key/pointer ownership and translations. Then verify in a real browser: opening, sprint, red warning and shots, death, win, retry, both character modes, portrait controls, sound and resource errors. Measure actual frame timing instead of claiming 60 FPS from configuration. Produce one smooth 20–60-second real-time gameplay recording and at least four genuine state screenshots; disclose canvas/HUD recording method. Verify the final hosted game, public media playback/seek and CMS asset previews/download policy separately.
 
 ```
 
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/crazy-tanks-3d-island-artillery) · [Live demo](https://super-tanks-aftershock.tripo.page/) · [Back to examples](#all-prompts)
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/red-light-green-light) · [Live demo](https://red-light-green-light.tripo.page/) · [Back to examples](#all-prompts)
 
 ---
 
@@ -3844,6 +3777,129 @@ Visually compare title, normal play, each region, map, upgrades, failure, and vi
 
 ---
 
+<a id="crazy-tanks-3d-island-artillery"></a>
+
+### Crazy Tanks — 3D Island Artillery
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-24
+
+<a href="https://www.tripo3d.ai/3d-prompts/crazy-tanks-3d-island-artillery"><img src="assets/previews/7b026fd7cfcbf1398c6b77062abb333fe61e020e75b514aeab2eff40db94984e.png" width="840" loading="lazy" alt="Crazy Tanks — 3D Island Artillery"></a>
+
+Aim, read the wind and charge from zero in a fully 3D island artillery battle. Choose six shells, carve deep craters and survive the rising chaos.
+
+**Prompt**
+
+```text
+1. Project goal
+Build Crazy Tanks — Wild Tides, a playable, genuinely three-dimensional turn-based artillery game on a tropical island. The player aims a small tank, reads the wind, times a charge from zero, and reshapes the battlefield with shells. Support solo against AI and local pass-and-play, with a default three-tank free-for-all and an optional two-tank duel. The last surviving tank wins. Use the current reference gameplay and screenshots as the visual target.
+
+2. Visual style
+Use a perspective camera and freely orbitable 3D geometry, not flat sprites or a fixed side view. Create a sunny, miniature diorama with rounded jade, coral-orange and blue-violet tanks, creamy sand, pale green grass, turquoise reflective water, soft shadows and a light atmospheric distance haze. Preserve the three tanks' distinct silhouettes and matching barrels. Use a compact cream round/armor panel above the battlefield and a dark teal rounded control deck below it. Gold marks the reference power and firing action; mint marks actual charge and friendly status. Keep the Tripo / Three.js appearance switch prominent at the top, defaulting to Tripo assets. Switching appearances must preserve the match and physics state. Use thin, evenly spaced teal screen-space dashes and a restrained landing circle; do not reflect aiming graphics in the water.
+
+3. World and scene
+Use a destructible height-field island approximately 260 by 184 metres, surrounded by ocean at a fixed sea level. Place the starting tanks far apart on stable ground; distribute rocks, palms, cacti and collectible supply crates. Smaller decorative islands provide background depth and never substitute for the destructible main terrain. Blasts deform the surface and can dig below sea level. Keep shoreline color and foam in a single water surface to avoid overlapping planes and flicker. Project tank numbers from world positions every rendered frame. Provide full-trajectory, tank, orbit and tactical overhead views. The trajectory view must fit the firing tank, arc and estimated landing into the space between the HUD and control deck. Before each shot, show the firing tank for about 0.8 seconds, linger at the muzzle, then follow the projectile. Manual camera interaction cancels cinematic following.
+
+4. Asset inventory
+Use stable model slots and keep replacement models individually addressable:
+- jade-body: rounded green shield-like tracked hull; the player's default body. jade-cannon: matching jade barrel with a dark bore and gold accents, articulated independently.
+- ember-body: coral-orange pointed armored hull with a low mechanical profile. ember-cannon: its longer matching orange barrel and dark muzzle.
+- bolt-body: blue-violet industrial tracked hull with angular plated armor. bolt-cannon: matching thick blue barrel.
+- shell: a brass artillery projectile with a dark tapered tip and cyan accent. Reuse it with weapon-specific tint and scale.
+- crate: a yellow armored supply box with cyan marking and reinforced corners; collect it for 20 armor, capped at 100.
+- rock: warm rounded sandstone cluster; repeat at varied scale and use a separate collision proxy.
+- palm: curved trunk and layered green fronds; repeat as island vegetation.
+- cactus: compact green cactus with small flowering details; repeat on dry terrain.
+- islet: a rounded grassy background island with pale rock/sand edges; repeat beyond the arena.
+Prioritize the three matching body/barrel pairs, followed by shell/crate and environmental props. Keep terrain deformation, ocean, foam, fire, smoke, shockwaves, debris, aim graphics, lighting, UI and collision proxies procedural. Matching body and barrel parts share one design reference and scale. Place the barrel pivot at its mechanical joint, align its forward axis to +X, and use the visible muzzle as the physical launch point. Tank bodies conform to slopes using quaternions; turret aim remains a world-space direction. Preserve source PBR textures and UV seams. Keep full-resolution downloadable models separate from optimized game runtime copies; references and file provenance must identify the actual generation source.
+
+5. Gameplay and feedback
+Each living tank receives 18 metres of movement when its turn starts. WASD and the movement pad move relative to the screen; arrow keys and the aiming pad adjust bearing and elevation. Sliders provide bearing, 10–80 degree elevation and 0–100 reference power. Selecting a rival only faces it; it must not solve the shot.
+The teal arc estimates the chosen reference power with NO wind. Keep that reference and its gold marker fixed while charging. Hold Fire, Space, or Enter on the focused Fire button to start actual power at 0 every time; increase by 18 percentage points per second, hold at 100, and fire exactly once on release using the actual power at that instant. A quick tap fires a weak shot. The gold band within 3 percentage points is visual feedback only, with no snapping or hidden correction. Cancel on pointer cancellation, window blur or loss of visibility. Lock movement, target and aim changes during a charge. Range-input keyboard controls must not also turn the turret. Zero power represents the lowest launch speed, not a stationary shell.
+The arrow and visible drifting wind streaks show where wind pushes the shell. Label wind strength and metres per second; clicking the wind card explains it. Wind blowing left means the player should aim somewhat right. Stronger wind and longer airtime cause greater drift. Wind stays constant during a shot and changes each turn. Never compensate the player preview automatically. Predict terrain landing approximately; do not promise tank/rock collisions, cluster splitting or ricochets in the preview.
+Provide six payloads: unlimited HE; a cluster round that splits into five descending submunitions; Seismic with a crater up to 28 metres across and 13 deep; a ricochet round that bounces twice; one Cataclysm round per tank with a crater up to 46 metres across and 22 deep; and Incendiary that leaves a 12-metre-radius fire zone. Fire deals 8 damage at each of six action endings; moving outside avoids damage and overlapping zones do not stack. Seawater extinguishes flames. An entire tank, including its raised barrel, fully below the water is eliminated immediately. Show the real damage, armor loss, terrain collapse, water splash and elimination outcome.
+Use layered fireballs, expanding shock rings, emissive sparks, ballistic fragments, dust and smoke with restrained camera shake. Use the provided original ElevenLabs music and cannon, impact, ricochet, heavy blast, fire and splash sounds. Include sound toggle, pause/resume, instructions, replay and return to menu. During projectile flight or AI turns, offer Back to my turn: run the same fixed-step simulation quickly and preserve all damage, terrain and hazard outcomes. Never skip a local friend's input turn.
+
+6. Technical implementation
+Use Three.js with ES modules and Vite, local bundled fonts, Web Audio for effects and an HTML audio element for looping music. Keep resources on the same origin and support a static build. Use a perspective renderer with antialiasing, practical shadow and postprocessing budgets, and proper disposal of transient geometry/materials. Distinguish model decoration from gameplay collision.
+Keep deterministic physics independent of rendering, with metre/second units, gravity 9.81 m/s² and a 1/120-second fixed step. Use continuous swept collisions for high-speed projectiles against ground, water, tanks and rocks; apply blast impulses and gravity to displaced tanks. Derive launch positions from the actual tank-specific barrel transform. Normal playback and fast-forward must call the same simulation updates. Damage and wind response are stylized game rules, not an engineering blast simulator.
+Support Chinese, English, Japanese and Korean UI. Choose from device language initially; Hong Kong, Macau, Taiwan and Traditional Chinese devices default to English. Remember explicit choices and allow a visible language selector. Use responsive desktop, portrait phone and short landscape layouts, scrollable short-screen menus, comfortable touch targets, collapsible panels and no overlapping controls. Do not require keyboard input on touch devices. Keep development-only state mutation and aiming helpers out of production.
+
+7. Completion criteria
+Deliver an editable standalone source project, lockfile, npm dev/build instructions and a working static preview. Match the current screenshots and gameplay video, including the cream status panel, gold fixed reference marker, zero-start live charge and fully 3D tank/island presentation. Verify first launch, model loading, a complete turn cycle, each payload's behavior, pause, replay and a real win/loss outcome. Confirm appearance switching preserves state and keyboard/touch cancellation does not fire. At a clear no-wind test shot, releasing at reference power should land close to the reference circle; opposite crosswinds must visibly shift the actual shell while leaving that circle unchanged. Check 30/60/144 Hz behavior, high-speed collision, deep craters, fire expiry, complete submersion elimination and equality of normal/fast-forward turn outcomes. Inspect desktop and narrow layouts in all four languages; identify browser emulation separately from physical-device testing. Validate the hosted page and linked media, not only the local build.
+
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/crazy-tanks-3d-island-artillery) · [Live demo](https://super-tanks-aftershock.tripo.page/) · [Back to examples](#all-prompts)
+
+---
+
+<a id="battle-city-3d"></a>
+
+### Battle City 3D: Endless Tank Defense
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-22
+
+<a href="https://www.tripo3d.ai/3d-prompts/battle-city-3d"><img src="assets/previews/e9180abfae92dc2319bb9b62f6ee89602336de5599b5f1c98f0feffeda618cdb.png" width="840" loading="lazy" alt="Battle City 3D: Endless Tank Defense"></a>
+
+Defend the eagle across endless grass, snow and industrial battlefields or 35 classic maps. Collect ten supplies and defeat heavy enemy tanks that take four hits to destroy.
+
+**Prompt**
+
+```text
+1. Project goal
+Build Battle City 3D, a browser tank-defense game inspired by the 1985 Famicom classic. The player drives a tank, destroys a wave of 20 enemies, collects supplies and protects the eagle headquarters. Reconstruct the current perspective-3D version shown in the reference media, including an endless seeded campaign and 35 selectable classic layouts. Preserve the readable arcade rules while giving tanks, walls and scenery genuine depth.
+
+2. Visual style
+Use a Three.js PerspectiveCamera with a 60-degree field of view. The default battlefield view sits behind and above the player, around 13 world units away at elevation 0.43 radians. Smoothly follow position and a point ahead of the tank; never rotate the camera automatically when the tank turns. Offer a higher tactical view, manual drag orbit and wheel zoom. Use the four cardinal map axes for movement and firing. After orbiting, map directional keys to the nearest cardinal direction relative to the camera; never turn keyboard input into diagonal movement. Render the chassis heading immediately to match the shot direction, and calibrate projectile and muzzle-flash height to the actual cannon of each model.
+Use grounded tracked tanks, metallic turrets, terracotta bricks, dark steel blocks, blue water, low foliage and reflective ice. Continue the ground beyond the playable area into trees, ruined buildings and haze. Use warm directional light, soft shadows, ambient fill, ACES tone mapping and restrained muzzle flashes, recoil, sparks and bouncing debris. Snow changes the ground and tree palette; industrial stages favor steel and ruined buildings.
+Frame the game with a dark olive command interface, warm yellow primary action, score, shared lives, remaining enemy icons, stage name and radar. Put the large Tripo 3D / Three.js model switch above the battlefield, showing the selected mode and a rotating tank preview. Use a localized illustrated supply guide and timed-effect indicators. Keep the playfield and essential touch controls visible on narrow screens.
+
+3. World and scenes
+Represent the battlefield as a 26 by 26 tile grid, with a tank collision half-width of 0.72. Place the eagle at (13,25), surrounded by a destructible U-shaped brick defense. Player spawns are (9,25) and (17,25); enemy gates are (1,1), (13,1) and (25,1).
+Provide two campaigns: all 35 classic layouts with their 20-enemy wave tables, and an endless seed-based generator cycling grass, snow and industrial biomes. Generate connected corridors wide enough for the full chassis, with passable connections between player spawns, enemy gates and pickup locations. Add staggered central steel cover to prevent a direct spawn-to-eagle firing lane while retaining cross-street access. Allow selecting the starting biome or classic stage and rerolling a random map. Carry the run seed, score, lives and surviving players' upgrades into the next stage.
+Brick is destructible; steel blocks ordinary shells and tanks; water blocks tanks but allows shells to pass; foliage conceals enemy models; ice reduces traction. Keep the distant environment decorative, separate from gameplay collision.
+
+4. Asset inventory
+Use these stable, independently replaceable 3D model slots. Prioritize the player, enemy, heavy tank and eagle, then all ten supply models. Ground each asset at its lowest point and normalize its facing, center and scale. Reuse templates instead of loading a model per enemy.
+- player: a mustard-yellow tracked tank with a readable turret and forward cannon; used by player tanks, with a separate ring color for the second player.
+- enemy: a compact tracked enemy tank, reused with distinct tints for basic, fast and powerful variants.
+- heavy: a visibly heavier armored tank, separate from the standard enemy mesh, with four visible armor segments above it.
+- eagle: a metallic golden eagle statue on the headquarters pedestal.
+- pickup-star: a gold five-point upgrade star.
+- pickup-helmet: a protective military helmet for temporary shielding.
+- pickup-clock: a readable clock for freezing enemy movement.
+- pickup-shovel: a shovel for headquarters reinforcement.
+- pickup-life: a miniature tank representing one extra life.
+- pickup-grenade: a hand grenade for destroying active enemies.
+- pickup-ammo: an ammunition box for rapid fire.
+- pickup-repair: a repair toolbox for restoring armor.
+- pickup-magnet: a horseshoe magnet for ranged pickup collection.
+- pickup-boost: an energy battery for a temporary speed boost.
+- environment-building: a weathered ruined apartment building, Tripo P2.0, requested budget 1,800 triangles.
+- environment-tree: an irregular pine with visible trunk, Tripo P2.0, requested budget 1,100 triangles.
+- environment-bush: a low leafy shrub and grass tufts, Tripo P2.0, requested budget 650 triangles.
+Display supplies as rotating, hovering collectible models with colored rings and matching guide thumbnails. Render repeated buildings, trees and bushes with shared geometry/material instances. Ground the building and tree roots; bury the shrub base slightly to blend with terrain. Add snow on upward-facing surfaces in snow stages. Keep tile walls, water, ice, projectile meshes, UI, lights, particles and collision proxies procedural. Animate water with world-space flowing waves, changing normals and small surface displacement, continuous across adjacent tiles. The Tripo version uses 17 generated models; the comparison version switches both tanks and environment to code-built geometry with the same rules and collisions. Both are rendered with Three.js.
+
+5. Gameplay and feedback
+Support solo and local two-player co-op with a shared pool of three lives. Solo uses WASD or arrow keys and Space/J to fire. In co-op, player one uses WASD and Space/J; player two uses arrows and Enter/Numpad 0. P/Escape pauses; C changes camera; 1/2 selects model mode. On touchscreens, allow holding a directional pad and fire button simultaneously, release input on pointer cancellation, and expose pause, resume, next-stage and retry actions without scrolling.
+Player speed is 4.2 units per second, or 6.3 with boost. Enemies include basic, fast, powerful and heavy types; heavy tanks have four hit points and survive the first three unshielded hits. Use four concurrent enemies in solo and six in co-op, with staggered spawning. Killing a type awards 100, 200, 300 or 400 points; collecting any supply gives 500 points. Clear a stage after 20 enemy defeats. Lose when the eagle is destroyed or the shared lives are exhausted with no surviving player. Offer immediate retry, explicit next-stage progression and a locally saved best score.
+Implement all ten supplies: star upgrades through three levels (faster shells, two simultaneous shells, then steel-breaking shells); helmet shields for 12 seconds; clock freezes enemies for 9 seconds; shovel reinforces the base for 16 seconds; mini tank adds one life; grenade destroys active enemies; ammunition grants 14 seconds of rapid fire with up to four active shells; repair adds two hit points capped at three; magnet collects visible supplies within five units for 20 seconds; boost lasts 12 seconds. Supply models last 25 seconds and appear at reachable locations, with a shuffled deck to vary types. Magnet collection must respect solid obstacles.
+Use collected NES-style samples for the 4.333-second stage opening, firing, driving and idling, brick/steel impacts, enemy/player explosions, supply appearance and collection, extra life, armor hit, ice, pause and game over. The current project uses 15 OGG cues from JustoSenka/BattleCity, commit 3a07004ba8e53baea74ff70d2ecc22b017eb9b20. Preserve their attribution and repository license notice; describe them as collected remake audio, without claiming a bit-perfect hardware capture. Unlock audio on user gesture, calibrate sample gains, provide volume/mute, and synchronize sounds to events. Do not add unrelated continuous battle music.
+
+6. Technical implementation
+Use TypeScript, Three.js 0.180.0 and Vite 7, with an isolated package.json and lockfile. Keep the simulation independent of rendering, stepping at 120 Hz. Use solid chassis AABBs, axis-separated motion, boundary and tank separation, and continuous nearest-contact shell sweeps, including relative-motion collision between opposing shells. Shells originate at the chassis and sweep forward to prevent point-blank wall clipping. Add ice acceleration/deceleration and gravity with damped bounces for debris. These are arcade ground physics, not a suspension simulator.
+Load same-origin GLB assets through GLTFLoader. Keep collision proxies independent of asset geometry. The current runtime uses quantized attributes and WebP textures (1024 px for vehicles/base; 512 px for supplies and environment), without geometry simplification or a WASM decoder. Limit loading to four workers, use hash-versioned URLs and 256 KiB ranges with a 20-second timeout and up to three attempts per range. Unlock play after the four core models and audio are ready; load supplies and environment assets in the background and only spawn supply types whose models are ready. Switching model mode preserves gameplay state.
+Provide English, simplified Chinese, Japanese and Korean UI. Select a default from device language, except zh-TW, zh-HK, zh-MO and zh-Hant default to English; persist explicit language choices. Support keyboard, desktop pointer and multitouch, and pause on focus loss. Keep all assets, credits and reproducible scripts local to the source project, and ship a static dist directory with no private credentials or runtime backend dependency.
+
+7. Completion criteria
+Deliver editable source, asset provenance and license notices, an npm development/build workflow and a playable static preview. Verify the default Tripo scene, the model comparison, all biomes, a heavy tank taking four hits, every supply effect, pause/resume, defeat/retry and stage progression. Test 1,000 seeded maps for chassis-width connectivity and safe spawns, plus all classic maps, wall tunneling, diagonal shots, tank separation, ice momentum, camera-relative input at multiple yaws, and state-preserving mode switches. Validate localized UI and narrow-screen two-finger controls without claiming physical-device testing when only emulation was used. Compare actual start and combat frames with the reference images/video; confirm all 17 models and 15 audio cues load. Publish through the existing CMS Web Page workflow and verify the final public page, rather than treating a saved CMS record as a completed deployment.
+
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/battle-city-3d) · [Live demo](https://battle-city-3d.tripo.page/) · [Back to examples](#all-prompts)
+
+---
+
 <a id="jelly-villa"></a>
 
 ### Jelly Villa
@@ -3908,62 +3964,6 @@ Publish a new jelly-villa prompt credited to jared, with the original author in 
 ```
 
 [View detail ↗](https://www.tripo3d.ai/3d-prompts/jelly-villa) · [Live demo](https://jelly-villa.tripo.page/) · [Back to examples](#all-prompts)
-
----
-
-<a id="red-light-green-light"></a>
-
-### Red Light, Green Light: 3D Survival Game
-
-[jared](https://x.com/jaredliu_bravo) · 2026-10-12
-
-<a href="https://www.tripo3d.ai/3d-prompts/red-light-green-light"><img src="assets/previews/f0cd12ce7ed0dc81cf023e84cfc2e428e21400ed984c6e6405b89eec2d6158ac.webp" width="840" loading="lazy" alt="Red Light, Green Light: 3D Survival Game"></a>
-
-<a href="https://www.tripo3d.ai/3d-prompts/red-light-green-light"><img src="assets/previews/385d9e2014a3f7ad5f57382f100f391f741e59e4d1bde729dd9811d6e1f8fdf8.webp" width="840" loading="lazy" alt="Red Light, Green Light: 3D Survival Game"></a>
-
-<a href="https://www.tripo3d.ai/3d-prompts/red-light-green-light"><img src="assets/previews/0f2cc98d286c448c959255fae28afea86dc8ee7a516410e2c27e6fb5c3bca23b.webp" width="840" loading="lazy" alt="Red Light, Green Light: 3D Survival Game"></a>
-
-<a href="https://www.tripo3d.ai/3d-prompts/red-light-green-light"><img src="assets/previews/288746ae7c32efddbfb5b8455af62b45358f51901856ac884452f990ae10196c.webp" width="840" loading="lazy" alt="Red Light, Green Light: 3D Survival Game"></a>
-
-<a href="https://www.tripo3d.ai/3d-prompts/red-light-green-light"><img src="assets/previews/04114d42ef8ceeef1a9cdb52e7c3a92f74c84ccd1615428ba180a52b597736b0.webp" width="840" loading="lazy" alt="Red Light, Green Light: 3D Survival Game"></a>
-
-<a href="https://www.tripo3d.ai/3d-prompts/red-light-green-light"><img src="assets/previews/4a418cd1973a7b18131f58ad925c2f6423d5627181a16ad5a4b743beaa5033f6.webp" width="840" loading="lazy" alt="Red Light, Green Light: 3D Survival Game"></a>
-
-Race a giant doll and armed guards in a tense 42-second stop-and-go game. Sprint, manage stamina, freeze on red, and compare procedural characters with real Tripo models.
-
-**Prompt**
-
-```text
-1. Project goal
-Build Red Light, Green Light, a single-player 3D playground survival game inspired by the familiar stop-and-go challenge. The player is contestant 456, racing 23 local AI contestants across a 62-metre arena within 42 seconds. Holding a single input advances; releasing stops immediately. There is one life per attempt. Deliver the playable game, not a mockup or a prerecorded scene. This is an independent game, not an official television tie-in.
-
-2. Visual direction and screen hierarchy
-Use Three.js with a cinematic third-person perspective: dusty warm sand, tall faded pink walls with mint-green lower panels and painted hills, watchtowers, bare trees, a giant orange-and-yellow doll beyond the finish line, teal tracksuits and masked pink guards. Directional golden light, soft contact shadows, restrained fog, chalk lane marks and sparse dust should establish depth without heavy postprocessing. The arena fills the viewport. Place the recognizable title low left in the opening screen and keep instructions compact. During play show a small timer/alive counter, a central colour-and-text signal, progress and one hold-to-run button. Do not replace gameplay with oversized text panels. Adapt portrait layouts without stretching the 3D view.
-
-3. Movement, sprint and stop judgment
-Hold Space, W, Up Arrow or the run button to move. A/D or Left/Right steers, but steering is optional. Hold Shift to sprint; on touch, hold the button and slide upward more than 38 pixels to sprint, with horizontal dragging to steer. Normal speed is 3.6 metres/second; sprint is 5.65 before small streak bonuses. Sprint drains stamina; stopping restores it. Exhaustion disables sprint until enough stamina has returned. Releasing forward input stops immediately, with no hidden inertia. Cancel all movement/sprint on pause, blur, language UI replacement, renderer-style switch, retry and end state. Track multiple held keys and one active pointer correctly.
-
-4. Round rhythm and consequences
-Implement ready, countdown, running, paused, dying, lost and won states. A three-second countdown starts a 42-second round. Alternate green running periods, visible amber turning warnings and red surveillance. First green lasts 3.4 seconds; later greens vary and tighten as the round progresses. Amber lasts 0.65–0.95 seconds, never disappears without warning. Red is about 2.1–3.35 seconds. The doll starts turning during amber and faces contestants on red. After a short red transition grace, continued movement fills a visible detection indicator and triggers a guard shot. Do not kill a stationary player randomly. Running out of time also eliminates the player. Show a brief 1.65-second hit/fall camera sequence before results, then immediate retry. Crossing the finish line is safe.
-
-5. Tension, opponents and rewards
-Give the 23 AI contestants independent speed and reaction timing. A nearby slow-reacting contestant visibly violates the first red and is shot, establishing the threat without scripting a player loss. Later mistakes trigger bounded bursts of eliminations. Aim a nearby armed guard toward each actual target, align the shot origin to its rifle muzzle, show a brief star-shaped muzzle flash, thin tracer, muted impact dust and non-graphic fall. Use an eight-slot reusable effect pool. A stop in the last 0.34 seconds before red earns perfect-stop points, a streak and a small stamina refill. The final 18 seconds increase audio/visual urgency. Preserve deterministic seeded rules for tests while normal play varies by attempt.
-
-6. Real Tripo characters and procedural comparison
-Default to genuine Tripo P2-generated GLB assets: the playground doll, the teal contestant with idle/run/victory skeletal clips, and an armed masked guard. Preserve the source model provenance and reuse supplied originals; do not regenerate equivalent assets without need. Normalize forward axes, scale and feet-to-floor alignment. Rotate the doll head independently. Keep the hero fully skinned; batch distant opponents with shared baked pose instances and freeze them faithfully on red. Provide a prominent top-centre Three.js / Tripo toggle that changes character appearance instantly without resetting distance, time, score or the round. The Three.js mode uses articulated geometric contestants, doll and armed guards. Both modes use Three.js; do not imply that the entire environment was generated by Tripo.
-
-7. Sound and accessibility
-Use synthesized Web Audio for warning notes, tense heartbeat, footsteps, directional gunshots and short echoes, perfect-stop chimes and victory. Unlock audio only on interaction, limit amplitude to avoid clipping and offer mute. Red/green meaning must be readable from words as well as colour. Provide reduced motion, suppressing flash/camera shake while retaining understandable outcomes. Support keyboard focus, compact settings, pause/resume and clear error recovery. Asset failure must visibly fall back to the procedural mode, keep the game playable and expose retry.
-
-8. Languages, persistence and author
-Include complete English, Simplified Chinese and Spanish UI. On first visit select the first supported browser language, falling back to English; keep manual selection on this device. Localize instructions, status, stamina, errors and results. Title: Red Light, Green Light / 一二三，木头人 / Luz roja, luz verde. Save a local personal best, not a fabricated global leaderboard. Credit jared with https://x.com/jaredliu_bravo. No signup, payment, multiplayer or custom-model upload is required for gameplay.
-
-9. Engineering, performance and acceptance
-Use an isolated Vite/Three.js project with a lockfile and bundled same-origin scripts/fonts/GLBs. No API keys or temporary signed URLs in the build. Share textures/materials, merge static architecture, instance repeated props and crowd poses, limit pixel ratio adaptively and bound shadow updates. Separate game logic, input controller, scene, combat effects, audio, localization and UI. Test seeded winnability, sprint exhaustion/recovery, exact stops, detection fairness, safe finish, timeout/death/retry, paused timing, multi-key/pointer ownership and translations. Then verify in a real browser: opening, sprint, red warning and shots, death, win, retry, both character modes, portrait controls, sound and resource errors. Measure actual frame timing instead of claiming 60 FPS from configuration. Produce one smooth 20–60-second real-time gameplay recording and at least four genuine state screenshots; disclose canvas/HUD recording method. Verify the final hosted game, public media playback/seek and CMS asset previews/download policy separately.
-
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/red-light-green-light) · [Live demo](https://red-light-green-light.tripo.page/) · [Back to examples](#all-prompts)
 
 ---
 

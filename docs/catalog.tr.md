@@ -34,12 +34,12 @@
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/tr/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="../assets/featured/2096467585785286808.webp" width="420" loading="lazy" alt="Japon Ormanında Wright Flyer"></a><br><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808">Japon Ormanında Wright Flyer</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="https://www.tripo3d.ai/tr/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808">İstem →</a></td>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/tr/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188"><img src="../assets/featured/2081024333120733188.webp" width="420" loading="lazy" alt="Jöle Ormanı: 3B Platform Oyunu"></a><br><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188">Jöle Ormanı: 3B Platform Oyunu</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="https://www.tripo3d.ai/tr/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188">İstem →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/tr/3d-prompts/golden-miner"><img src="../assets/featured/golden-miner.webp" width="420" loading="lazy" alt="Golden Miner: 24 Seviyeli 3B Madencilik Oyunu"></a><br><strong><a href="#golden-miner">Golden Miner: 24 Seviyeli 3B Madencilik Oyunu</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="#golden-miner">İstem →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/tr/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/featured/crazy-tanks-3d-island-artillery.webp" width="420" loading="lazy" alt="Crazy Tanks — 3B Ada Topçuluğu"></a><br><strong><a href="#crazy-tanks-3d-island-artillery">Crazy Tanks — 3B Ada Topçuluğu</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="#crazy-tanks-3d-island-artillery">İstem →</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/tr/3d-prompts/akari-nagoya-rooftop-flame-relay"><img src="../assets/featured/akari-nagoya-rooftop-flame-relay.webp" width="420" loading="lazy" alt="AKARI: Nagoya Çatı Alevi Bayrak Yarışı"></a><br><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/akari-nagoya-rooftop-flame-relay">AKARI: Nagoya Çatı Alevi Bayrak Yarışı</a></strong><br><sub><a href="https://growthengineer.space/">Jared</a></sub><br><a href="https://www.tripo3d.ai/tr/3d-prompts/akari-nagoya-rooftop-flame-relay">İstem →</a></td>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/tr/3d-prompts/cyclops-island-threejs-game"><img src="../assets/featured/cyclops-island-threejs-game.webp" width="420" loading="lazy" alt="Kiklop’un Adası"></a><br><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/cyclops-island-threejs-game">Kiklop’un Adası</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="https://www.tripo3d.ai/tr/3d-prompts/cyclops-island-threejs-game">İstem →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/tr/3d-prompts/battle-city-3d"><img src="../assets/featured/battle-city-3d.webp" width="420" loading="lazy" alt="Battle City 3D: Sonsuz Tank Savunması"></a><br><strong><a href="#battle-city-3d">Battle City 3D: Sonsuz Tank Savunması</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="#battle-city-3d">İstem →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/tr/3d-prompts/titanic-the-last-light"><img src="../assets/featured/titanic-the-last-light.webp" width="420" loading="lazy" alt="TITANIC — Son Işık"></a><br><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/titanic-the-last-light">TITANIC — Son Işık</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="https://www.tripo3d.ai/tr/3d-prompts/titanic-the-last-light">İstem →</a></td>
 </tr>
 </table>
 
@@ -145,11 +145,11 @@
 - [Oyuna hazır saman talim mankeni 3B modeli](#2113321027325300784)
 - [Chalk Square: piksel sanatlı 3B dört kare oyunu](#2113602050172785117)
 - [YÜZEN DÜNYA etkileşimli 3B ada sığınağı](#2113627142772899916)
-- [Battle City 3D: Sonsuz Tank Savunması](#battle-city-3d)
-- [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
-- [Golden Miner: 24 Seviyeli 3B Madencilik Oyunu](#golden-miner)
-- [Jöle Villa](#jelly-villa)
 - [Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu](#red-light-green-light)
+- [Golden Miner: 24 Seviyeli 3B Madencilik Oyunu](#golden-miner)
+- [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
+- [Battle City 3D: Sonsuz Tank Savunması](#battle-city-3d)
+- [Jöle Villa](#jelly-villa)
 
 </details>
 
@@ -3723,126 +3723,59 @@ Tek ve özenle hazırlanmış bir HTML dosyası teslim et.
 
 ---
 
-<a id="battle-city-3d"></a>
+<a id="red-light-green-light"></a>
 
-### Battle City 3D: Sonsuz Tank Savunması
+### Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu
 
-[jared](https://x.com/jaredliu_bravo) · 2026-09-22
+[jared](https://x.com/jaredliu_bravo) · 2026-10-12
 
-<a href="https://www.tripo3d.ai/tr/3d-prompts/battle-city-3d"><img src="../assets/previews/e9180abfae92dc2319bb9b62f6ee89602336de5599b5f1c98f0feffeda618cdb.png" width="840" loading="lazy" alt="Battle City 3D: Sonsuz Tank Savunması"></a>
+<a href="https://www.tripo3d.ai/tr/3d-prompts/red-light-green-light"><img src="../assets/previews/f0cd12ce7ed0dc81cf023e84cfc2e428e21400ed984c6e6405b89eec2d6158ac.webp" width="840" loading="lazy" alt="Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu"></a>
 
-Sonsuz çimenlik, karlı ve endüstriyel savaş alanlarında ya da 35 klasik haritada kartalı savun. On ikmal malzemesi topla ve yok etmek için dört isabet gereken ağır düşman tanklarını alt et.
+<a href="https://www.tripo3d.ai/tr/3d-prompts/red-light-green-light"><img src="../assets/previews/385d9e2014a3f7ad5f57382f100f391f741e59e4d1bde729dd9811d6e1f8fdf8.webp" width="840" loading="lazy" alt="Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu"></a>
 
-**İstem**
+<a href="https://www.tripo3d.ai/tr/3d-prompts/red-light-green-light"><img src="../assets/previews/0f2cc98d286c448c959255fae28afea86dc8ee7a516410e2c27e6fb5c3bca23b.webp" width="840" loading="lazy" alt="Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu"></a>
 
-```text
-1. Proje hedefi
-1985 tarihli Famicom klasiğinden ilham alan, tarayıcıda çalışan bir tank savunma oyunu olan Battle City 3D'yi geliştirin. Oyuncu bir tankı sürer, 20 düşmandan oluşan bir dalgayı yok eder, malzeme toplar ve kartal karargâhını korur. Referans medyada gösterilen mevcut perspektifli 3B sürümü; tohum tabanlı sonsuz bir harekât ve seçilebilir 35 klasik düzen dâhil olmak üzere yeniden oluşturun. Okunabilir arcade kurallarını korurken tanklara, duvarlara ve çevreye gerçek bir derinlik kazandırın.
+<a href="https://www.tripo3d.ai/tr/3d-prompts/red-light-green-light"><img src="../assets/previews/288746ae7c32efddbfb5b8455af62b45358f51901856ac884452f990ae10196c.webp" width="840" loading="lazy" alt="Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu"></a>
 
-2. Görsel stil
-60 derecelik görüş alanına sahip bir Three.js PerspectiveCamera kullanın. Varsayılan savaş alanı görünümü oyuncunun arkasında ve üstünde, yaklaşık 13 dünya birimi uzaklıkta ve 0,43 radyan yükseklikte konumlansın. Tankın konumunu ve önündeki bir noktayı yumuşak biçimde takip edin; tank döndüğünde kamerayı otomatik olarak döndürmeyin. Daha yüksek bir taktik görünüm, manuel sürüklemeyle yörünge kontrolü ve tekerlekle yakınlaştırma sunun. Hareket ve ateş için dört ana harita eksenini kullanın. Yörüngede döndürme sonrasında yön tuşlarını kameraya göre en yakın ana yöne eşleyin; klavye girdisini hiçbir zaman çapraz harekete dönüştürmeyin. Kasanın yönünü atış yönüyle hemen eşleştirin; mermi ve namlu alevi yüksekliğini her modelin gerçek topuna göre ayarlayın.
-Yere oturan paletli tanklar, metalik taretler, pişmiş toprak tuğlalar, koyu çelik bloklar, mavi su, alçak bitki örtüsü ve yansıtıcı buz kullanın. Oynanabilir alanın dışındaki zemini ağaçlara, harap binalara ve sise doğru devam ettirin. Sıcak yönlü ışık, yumuşak gölgeler, ortam dolgusu, ACES ton eşleme ve ölçülü namlu alevleri, geri tepme, kıvılcım ve seken enkaz kullanın. Kar, zemin ve ağaç paletini değiştirsin; endüstriyel bölümlerde çelik ve harap binalar öne çıksın.
-Oyunu koyu zeytin tonlarında bir komuta arayüzü, sıcak sarı ana eylem rengi, skor, ortak canlar, kalan düşman simgeleri, bölüm adı ve radar ile çerçeveleyin. Büyük Tripo 3D / Three.js model seçimini savaş alanının üstüne yerleştirin; seçili modu ve dönen tank önizlemesini gösterin. Yerelleştirilmiş, resimli bir malzeme rehberi ve süreli etki göstergeleri kullanın. Dar ekranlarda oyun alanını ve temel dokunmatik kontrolleri görünür tutun.
+<a href="https://www.tripo3d.ai/tr/3d-prompts/red-light-green-light"><img src="../assets/previews/04114d42ef8ceeef1a9cdb52e7c3a92f74c84ccd1615428ba180a52b597736b0.webp" width="840" loading="lazy" alt="Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu"></a>
 
-3. Dünya ve sahneler
-Savaş alanını 26'ya 26 karodan oluşan bir ızgara olarak temsil edin; tank çarpışması için yarı genişliği 0,72 olsun. Kartalı (13,25) konumuna, yok edilebilir U biçimli bir tuğla savunmasıyla çevrili şekilde yerleştirin. Oyuncu doğma noktaları (9,25) ve (17,25); düşman kapıları ise (1,1), (13,1) ve (25,1) olsun.
-İki harekât sunun: 20 düşmanlık dalga tablolarıyla birlikte 35 klasik düzenin tamamı ve çayır, kar ve endüstriyel biyomlar arasında döngü oluşturan, tohum tabanlı sonsuz bir üretici. Tam kasanın geçebileceği genişlikte bağlantılı koridorlar üretin; oyuncu doğma noktaları, düşman kapıları ve toplama nesnesi konumları arasında geçilebilir bağlantılar oluşturun. Doğrudan doğma noktasından kartala ateş hattını engellemek, ancak çapraz sokak erişimini korumak için merkezde kademeli çelik siperler ekleyin. Başlangıç biyomunu veya klasik bölümü seçmeye ve rastgele bir haritayı yeniden üretmeye izin verin. Harekât tohumunu, skoru, canları ve hayatta kalan oyuncuların geliştirmelerini bir sonraki bölüme aktarın.
-Tuğla yok edilebilir; çelik bloklar normal mermileri ve tankları durdurur; su tankları engeller, ancak mermilerin geçmesine izin verir; bitki örtüsü düşman modellerini gizler; buz çekişi azaltır. Uzak çevreyi dekoratif tutun ve oynanış çarpışmasından ayrı tutun.
+<a href="https://www.tripo3d.ai/tr/3d-prompts/red-light-green-light"><img src="../assets/previews/4a418cd1973a7b18131f58ad925c2f6423d5627181a16ad5a4b743beaa5033f6.webp" width="840" loading="lazy" alt="Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu"></a>
 
-4. Varlık envanteri
-Bu kararlı ve birbirinden bağımsız olarak değiştirilebilen 3B model yuvalarını kullanın. Önceliği oyuncu, düşman, ağır tank ve kartala, ardından on malzeme modelinin tamamına verin. Her varlığı en alçak noktasından zemine oturtun ve yönünü, merkezini ve ölçeğini normalize edin. Her düşman için ayrı model yüklemek yerine şablonları yeniden kullanın.
-- player: Okunabilir bir tareti ve öne bakan topu olan hardal sarısı paletli tank; oyuncu tanklarında kullanılır, ikinci oyuncu için ayrı bir halka rengine sahiptir.
-- enemy: Temel, hızlı ve güçlü varyantlar için farklı tonlarla yeniden kullanılan kompakt paletli düşman tankı.
-- heavy: Standart düşman mesh'inden ayrı, gözle görülür biçimde daha ağır zırhlı bir tank; üzerinde görünen dört zırh segmenti bulunur.
-- eagle: Karargâh kaidesi üzerinde metalik altın renkli kartal heykeli.
-- pickup-star: Beş köşeli altın geliştirme yıldızı.
-- pickup-helmet: Geçici koruma sağlayan askerî kask.
-- pickup-clock: Düşman hareketini donduran, okunaklı bir saat.
-- pickup-shovel: Karargâhı güçlendiren kürek.
-- pickup-life: Bir ekstra canı temsil eden minyatür tank.
-- pickup-grenade: Etkin düşmanları yok eden el bombası.
-- pickup-ammo: Hızlı ateş sağlayan mühimmat sandığı.
-- pickup-repair: Zırhı onaran tamir alet çantası.
-- pickup-magnet: Uzaktan malzeme toplamak için at nalı mıknatısı.
-- pickup-boost: Geçici hız artışı sağlayan enerji bataryası.
-- environment-building: Yıpranmış, harap bir apartman binası, Tripo P2.0, istenen bütçe 1.800 üçgen.
-- environment-tree: Gövdesi görünen, düzensiz bir çam ağacı, Tripo P2.0, istenen bütçe 1.100 üçgen.
-- environment-bush: Alçak, yapraklı bir çalı ve çim kümeleri, Tripo P2.0, istenen bütçe 650 üçgen.
-Malzemeleri renkli halkalara ve eşleşen rehber küçük resimlerine sahip, dönen ve havada süzülen toplanabilir modeller olarak gösterin. Tekrarlanan binaları, ağaçları ve çalıları ortak geometri/malzeme örnekleriyle oluşturun. Bina ve ağaç köklerini zemine oturtun; çalı tabanını araziyle birleşmesi için biraz gömün. Kar bölümlerinde yukarı bakan yüzeylere kar ekleyin. Fayans duvarlarını, suyu, buzu, mermi mesh'lerini, kullanıcı arayüzünü, ışıkları, parçacıkları ve çarpışma proxy'lerini prosedürel olarak üretin. Suyu, dünya uzayında akan dalgalar, değişen normal'ler ve küçük yüzey yer değiştirmesiyle canlandırın; bu efekt bitişik karolar arasında kesintisiz devam etsin. Tripo sürümünde 17 üretilmiş model kullanılır; karşılaştırma sürümü her iki tankı ve çevreyi aynı kurallar ve çarpışmalarla kodla oluşturulmuş geometriye geçirir. Her ikisi de Three.js ile işlenir.
-
-5. Oynanış ve geri bildirim
-Ortak üç can havuzuyla tek oyunculu ve yerel iki oyunculu eşli oyunu destekleyin. Tek oyunculu modda WASD veya ok tuşları, ateş için Space/J kullanılır. Eşli oyunda birinci oyuncu WASD ve Space/J; ikinci oyuncu ok tuşları ve Enter/Numpad 0 kullanır. P/Escape duraklatır; C kamerayı değiştirir; 1/2 model modunu seçer. Dokunmatik ekranlarda yön tuş takımına ve ateş düğmesine aynı anda basılı tutmaya izin verin, işaretçi iptal edildiğinde girdiyi bırakın; kaydırma gerektirmeden duraklatma, devam etme, sonraki bölüm ve yeniden deneme eylemlerini sunun.
-Oyuncu hızı saniyede 4,2 birim, takviyeyle 6,3 birimdir. Düşmanlar temel, hızlı, güçlü ve ağır türlerden oluşur; ağır tankların dört can puanı vardır ve zırhsız alınan ilk üç darbeye dayanırlar. Bir türü yok etmek sırasıyla 100, 200, 300 veya 400 puan kazandırır; herhangi bir malzemeyi toplamak 500 puan verir. 20 düşman yok edildiğinde bölüm tamamlanır. Kartal yok edildiğinde veya hayatta kalan oyuncu kalmadan ortak canlar tükendiğinde oyun kaybedilir. Anında yeniden deneme, açıkça belirtilmiş sonraki bölüme geçiş ve yerel olarak kaydedilen en yüksek skor sunun.
-On malzemenin tamamını uygulayın: yıldız üç seviyede geliştirme sağlar (daha hızlı mermiler, aynı anda iki mermi, ardından çeliği delen mermiler); kask 12 saniye kalkan sağlar; saat düşmanları 9 saniye dondurur; kürek üssü 16 saniye güçlendirir; minyatür tank bir can ekler; el bombası etkin düşmanları yok eder; mühimmat, aynı anda en fazla dört etkin mermiyle 14 saniyelik hızlı ateş sağlar; tamir iki can puanı ekler, üst sınır üçtür; mıknatıs beş birim içindeki görünür malzemeleri 20 saniye boyunca toplar; hız takviyesi 12 saniye sürer. Malzeme modelleri 25 saniye boyunca kalır ve ulaşılabilir konumlarda görünür; türleri çeşitlendirmek için karıştırılmış bir deste kullanın. Mıknatısla toplama işlemi katı engellere uymalıdır.
-4,333 saniyelik bölüm açılışı, ateş etme, sürüş ve rölanti, tuğla/çelik çarpışmaları, düşman/oyuncu patlamaları, malzemenin görünmesi ve toplanması, ekstra can, zırh darbesi, buz, duraklatma ve oyun sonu için toplanmış NES tarzı örnekleri kullanın. Mevcut projede JustoSenka/BattleCity kaynağından, 3a07004ba8e53baea74ff70d2ecc22b017eb9b20 commit'ine ait 15 OGG ses işareti kullanılır. Atıflarını ve depo lisans bildirimini koruyun; bunları bit düzeyinde kusursuz donanım kaydı olduklarını iddia etmeden, toplanmış yeniden yapım sesleri olarak tanımlayın. Kullanıcı etkileşimiyle sesi etkinleştirin, örnek kazançlarını ayarlayın, ses seviyesi/sessize alma seçenekleri sunun ve sesleri olaylarla senkronize edin. Konuyla ilgisiz sürekli savaş müziği eklemeyin.
-
-6. Teknik uygulama
-TypeScript, Three.js 0.180.0 ve Vite 7 kullanın; izole bir package.json ve lockfile bulundurun. Simülasyonu işleme katmanından bağımsız tutun ve 120 Hz'de çalıştırın. Katı kasa AABB'leri, eksenleri ayrıştırılmış hareket, sınır ve tank ayrımı ve karşıt mermiler arasındaki göreli hareket çarpışması dâhil sürekli en yakın temaslı mermi taramaları kullanın. Nokta atışı duvar içinden geçişini önlemek için mermiler kasadan çıkmalı ve ileri doğru taranmalıdır. Buz hızlanması/yavaşlaması ile enkaz için sönümlü sekmeler içeren yerçekimi ekleyin. Bunlar süspansiyon simülasyonu değil, arcade tarzı zemin fiziğidir.
-Aynı origin'den GLB varlıklarını GLTFLoader ile yükleyin. Çarpışma proxy'lerini varlık geometrisinden bağımsız tutun. Mevcut çalışma zamanı niceleyicili öznitelikler ve WebP dokuları kullanır (araçlar/üs için 1024 px; malzemeler ve çevre için 512 px); geometri sadeleştirme veya WASM kod çözücü kullanılmaz. Yüklemeyi dört worker ile sınırlayın; hash sürümlü URL'ler ve 20 saniye zaman aşımı olan 256 KiB aralıklar kullanın; her aralık için en fazla üç deneme yapın. Dört temel model ve ses hazır olduktan sonra oyunu açın; malzeme ve çevre varlıklarını arka planda yükleyin ve yalnızca modeli hazır olan malzeme türlerini oluşturun. Model modu değiştirilirken oynanış durumu korunur.
-İngilizce, basitleştirilmiş Çince, Japonca ve Korece kullanıcı arayüzü sunun. Cihaz dilinden varsayılanı seçin; ancak zh-TW, zh-HK, zh-MO ve zh-Hant için varsayılan İngilizce olsun. Açıkça seçilen dili kalıcı olarak saklayın. Klavyeyi, masaüstü işaretçisini ve çoklu dokunmayı destekleyin; odak kaybında oyunu duraklatın. Tüm varlıkları, kredileri ve yeniden üretilebilir betikleri kaynak projesinde yerel tutun; özel kimlik bilgileri veya çalışma zamanı arka uç bağımlılığı içermeyen statik bir dist dizini dağıtın.
-
-7. Tamamlanma ölçütleri
-Düzenlenebilir kaynak kodu, varlık köken bilgilerini ve lisans bildirimlerini, npm geliştirme/derleme iş akışını ve oynanabilir bir statik önizlemeyi teslim edin. Varsayılan Tripo sahnesini, model karşılaştırmasını, tüm biyomları, dört darbe alan ağır tankı, her malzeme etkisini, duraklatma/devam etmeyi, yenilgi/yeniden denemeyi ve bölüm ilerlemesini doğrulayın. Kasa genişliği bağlantısını ve güvenli doğma noktalarını test etmek için tohumlanmış 1.000 haritanın yanı sıra tüm klasik haritaları, duvar içinden geçmeyi, çapraz atışları, tank ayrımını, buz momentumunu, birden çok yatay açı değerinde kameraya göre girdiyi ve durumu koruyan mod geçişlerini test edin. Yerelleştirilmiş kullanıcı arayüzünü ve dar ekranlarda iki parmak kontrollerini doğrulayın; yalnızca emülasyon kullanıldıysa fiziksel cihaz testi yapıldığını iddia etmeyin. Gerçek başlangıç ve savaş karelerini referans görselleri/videolarıyla karşılaştırın; 17 modelin ve 15 ses işaretinin tamamının yüklendiğini onaylayın. Mevcut CMS Web Page iş akışı üzerinden yayınlayın ve kaydedilmiş bir CMS kaydını tamamlanmış dağıtım olarak değerlendirmek yerine son herkese açık sayfayı doğrulayın.
-
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/battle-city-3d) · [Canlı demo](https://battle-city-3d.tripo.page/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="crazy-tanks-3d-island-artillery"></a>
-
-### Crazy Tanks — 3B Ada Topçuluğu
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/previews/7b026fd7cfcbf1398c6b77062abb333fe61e020e75b514aeab2eff40db94984e.png" width="840" loading="lazy" alt="Crazy Tanks — 3B Ada Topçuluğu"></a>
-
-Tamamen 3B bir ada topçuluğu savaşında nişan alın, rüzgârı okuyun ve gücü sıfırdan doldurun. Altı mermi arasından seçim yapın, derin kraterler açın ve giderek büyüyen kaostan sağ çıkın.
+Gerilim dolu, 42 saniyelik dur-kalk oyununda dev bir oyuncak bebekle silahlı muhafızlara karşı yarışın. Depar atın, dayanıklılığınızı yönetin, kırmızı ışıkta donup kalın ve prosedürel karakterleri gerçek Tripo modelleriyle karşılaştırın.
 
 **İstem**
 
 ```text
-1. Proje amacı
-Crazy Tanks — Wild Tides adlı, tropik bir adada geçen, oynanabilir ve gerçek anlamda üç boyutlu, sıra tabanlı bir topçu oyunu oluşturun. Oyuncu küçük bir tankı nişan alır, rüzgârı okur, gücü sıfırdan doldurup doğru anda ateşler ve mermilerle savaş alanının şeklini değiştirir. Yapay zekâya karşı tek oyunculu ve yerel sırayla oynama modlarını destekleyin. Varsayılan modda üç tankın serbest savaşı, isteğe bağlı olarak da iki tanklı düello bulunsun. Hayatta kalan son tank kazanır. Görsel hedef olarak mevcut referans oynanışını ve ekran görüntülerini kullanın.
+1. Projenin amacı
+Tanıdık dur-kalk mücadelesinden esinlenen, tek oyunculu bir 3B oyun alanında hayatta kalma oyunu olan Kırmızı Işık, Yeşil Işık'ı oluşturun. Oyuncu, 42 saniye içinde 62 metrelik arenada 23 yerel yapay zekâ yarışmacısına karşı yarışan 456 numaralı yarışmacıdır. Tek bir girdiyi basılı tutmak ilerlemeyi sağlar; bırakınca oyuncu hemen durur. Her deneme için tek can vardır. Bir maket veya önceden kaydedilmiş sahne değil, oynanabilir oyunu teslim edin. Bu bağımsız bir oyundur; herhangi bir televizyon yapımına ait resmî bir bağlantı değildir.
 
-2. Görsel stil
-Sabit bir yandan görünüm veya düz sprite'lar yerine perspektif kamera ve serbestçe döndürülebilen 3B geometri kullanın. Yuvarlatılmış yeşim yeşili, mercan turuncusu ve mavi-mor tanklar; krem rengi kum; açık yeşil çimen; turkuaz, yansıtıcı su; yumuşak gölgeler ve hafif atmosferik uzaklık sisiyle güneşli, minyatür bir diorama oluşturun. Üç tankın ayırt edici silüetlerini ve bunlarla eşleşen namluları koruyun. Savaş alanının üzerinde kompakt, krem renkli yuvarlak/zırh paneli; altında ise koyu teal renkli, yuvarlatılmış bir kontrol paneli kullanın. Altın rengi, referans gücü ve ateşleme eylemini; mint rengi ise gerçek dolum gücünü ve dost durumunu belirtir. Tripo / Three.js görünüm değiştirme seçeneğini üst kısımda belirgin tutun ve varsayılan olarak Tripo varlıklarını kullanın. Görünüm değiştirilirken karşılaşma ve fizik durumu korunmalıdır. İnce ve eşit aralıklı teal ekran-uzayı çizgileri ile sade bir iniş dairesi kullanın; nişan grafiklerini suya yansıtmayın.
+2. Görsel yön ve ekran hiyerarşisi
+Sinematik üçüncü şahıs bakış açısıyla Three.js kullanın: tozlu, sıcak kum; alt panelleri mint yeşili olan, soluk pembe ve yüksek duvarlar; boyalı tepeler; gözetleme kuleleri; yapraksız ağaçlar; bitiş çizgisinin ötesinde dev turuncu-sarı bir oyuncak bebek; turkuaz eşofmanlar ve maskeli pembe muhafızlar. Yönlü altın rengi ışık, yumuşak temas gölgeleri, ölçülü sis, tebeşirle çizilmiş kulvar işaretleri ve seyrek toz, yoğun post-processing kullanmadan derinlik hissi oluşturmalıdır. Arena görüntü alanını doldurmalıdır. Açılış ekranında kolayca tanınan başlığı sol alt bölüme yerleştirin ve talimatları kısa tutun. Oyun sırasında küçük bir zamanlayıcı/yaşayan oyuncu sayacı, ortada renkli ve metinli bir sinyal, ilerleme göstergesi ve basılı tutarak koşmayı sağlayan tek bir düğme gösterin. Oyunun yerini aşırı büyük metin panelleriyle değiştirmeyin. 3B görünümü esnetmeden dikey ekran düzenlerine uyarlayın.
 
-3. Dünya ve sahne
-Yaklaşık 260 × 184 metre boyutlarında, sabit deniz seviyesindeki okyanusla çevrili, parçalanabilir bir yükseklik alanı adası kullanın. Başlangıç tanklarını sağlam zeminde birbirinden uzağa yerleştirin; kayalar, palmiyeler, kaktüsler ve toplanabilir ikmal sandıkları dağıtın. Daha küçük dekoratif adalar arka plan derinliği sağlasın ve asla parçalanabilir ana arazinin yerine geçmesin. Patlamalar yüzeyi deforme edebilmeli ve deniz seviyesinin altına kadar kazabilmelidir. Üst üste binen düzlemleri ve titreşmeyi önlemek için kıyı rengini ve köpüğü tek bir su yüzeyinde tutun. Tank numaralarını her oluşturulan karede dünya konumlarından yansıtın. Tam yörünge, tank, serbest kamera dönüşü ve taktik kuş bakışı görünümleri sağlayın. Yörünge görünümü, ateş eden tankı, yayı ve tahmini iniş noktasını HUD ile kontrol paneli arasındaki alana sığdırmalıdır. Her atıştan önce ateş eden tankı yaklaşık 0,8 saniye gösterin, namluda kısa süre bekleyin ve ardından mermiyi takip edin. Manuel kamera etkileşimi sinematik takibi iptal eder.
+3. Hareket, depar ve durma değerlendirmesi
+Hareket etmek için Space, W, Yukarı Ok veya koşu düğmesini basılı tutun. A/D ya da Sol/Sağ yön tuşlarıyla yön verilebilir, ancak yön vermek isteğe bağlıdır. Depar atmak için Shift'i basılı tutun; dokunmatik cihazlarda düğmeyi basılı tutup depar atmak için parmağınızı 38 pikselden fazla yukarı kaydırın, yatay sürükleme ile yön verin. Normal hız saniyede 3,6 metredir; depar hızı, küçük seri bonuslarından önce 5,65 metredir. Depar dayanıklılığı tüketir; durmak dayanıklılığı yeniler. Tükenme, yeterli dayanıklılık geri gelene kadar deparı devre dışı bırakır. İleri hareket girdisini bırakmak, gizli atalet olmadan hemen durmayı sağlar. Duraklatma, bulanıklaştırma, dil arayüzünün değiştirilmesi, oluşturucu stilinin değiştirilmesi, yeniden deneme ve oyun sonu durumunda tüm hareketi ve deparı iptal edin. Birden fazla basılı tuşu ve etkin tek bir işaretçiyi doğru şekilde izleyin.
 
-4. Varlık envanteri
-Kararlı model yuvaları kullanın ve yedek modellerin her birine ayrı ayrı erişilebilmesini sağlayın:
-- jade-body: yuvarlatılmış, yeşil, kalkan biçimli paletli gövde; oyuncunun varsayılan gövdesi. jade-cannon: koyu namlu ağzına ve altın rengi ayrıntılara sahip, eşleşen yeşim yeşili namlu; bağımsız olarak hareket ettirilebilir.
-- ember-body: alçak mekanik profile sahip, mercan turuncusu renkli, sivri zırhlı gövde. ember-cannon: daha uzun, eşleşen turuncu namlu ve koyu namlu ağzı.
-- bolt-body: köşeli plakalı zırha sahip, mavi-mor renkli endüstriyel paletli gövde. bolt-cannon: eşleşen kalın mavi namlu.
-- shell: koyu renkli, konik uçlu ve camgöbeği ayrıntılı pirinç topçu mermisi. Silaha özgü renk tonu ve ölçekle yeniden kullanın.
-- crate: camgöbeği işaretli ve güçlendirilmiş köşelere sahip sarı zırhlı ikmal sandığı; toplayınca 20 zırh verir, üst sınır 100'dür.
-- rock: sıcak tonlu, yuvarlak kumtaşı kümesi; farklı ölçeklerde tekrarlayın ve ayrı bir çarpışma vekili kullanın.
-- palm: kıvrımlı gövde ve katmanlı yeşil yapraklar; ada bitkisi olarak tekrarlayın.
-- cactus: küçük çiçek ayrıntılarına sahip kompakt yeşil kaktüs; kuru arazide tekrarlayın.
-- islet: açık renkli kaya/kum kenarlarına sahip, yuvarlak çimenli arka plan adası; arenanın ötesinde tekrarlayın.
-Önceliği üç eşleşen gövde/namlu çiftine, ardından mermi/sandık ve çevre nesnelerine verin. Arazi deformasyonunu, okyanusu, köpüğü, ateşi, dumanı, şok dalgalarını, enkazı, nişan grafiklerini, aydınlatmayı, kullanıcı arayüzünü ve çarpışma vekillerini prosedürel tutun. Eşleşen gövde ve namlu parçaları aynı tasarım referansını ve ölçeği paylaşır. Namlu pivotunu mekanik eklemine yerleştirin, ileri eksenini +X yönüne hizalayın ve görünen namlu ağzını fiziksel fırlatma noktası olarak kullanın. Tank gövdelerini eğimlere kuaterniyonlarla uydurun; taret nişanı dünya uzayı yönü olarak kalmalıdır. Kaynak PBR dokularını ve UV dikişlerini koruyun. Tam çözünürlüklü indirilebilir modelleri optimize edilmiş oyun çalışma zamanı kopyalarından ayrı tutun; referanslar ve dosya kökeni gerçek üretim kaynağını belirtmelidir.
+4. Tur ritmi ve sonuçları
+Hazır, geri sayım, oynanıyor, duraklatıldı, ölüyor, kaybedildi ve kazanıldı durumlarını uygulayın. Üç saniyelik geri sayım, 42 saniyelik turu başlatır. Yeşil hareket dönemleri, görünür kehribar rengi dönüş uyarıları ve kırmızı gözetleme dönemleri dönüşümlü olarak ilerlemelidir. İlk yeşil dönem 3,4 saniye sürer; sonraki yeşil dönemlerin süresi tur ilerledikçe değişmeli ve kısalmalıdır. Kehribar rengi dönem 0,65–0,95 saniye sürmeli ve hiçbir zaman uyarı vermeden ortadan kalkmamalıdır. Kırmızı dönem yaklaşık 2,1–3,35 saniye sürmelidir. Oyuncak bebek kehribar rengi dönemde dönmeye başlar ve kırmızı ışıkta yarışmacılara bakar. Kısa bir kırmızı geçiş toleransından sonra hareket devam ederse görünür bir tespit göstergesi dolar ve muhafız ateş eder. Sabit duran bir oyuncuyu rastgele öldürmeyin. Sürenin dolması da oyuncuyu eler. Sonuçlardan önce 1,65 saniyelik kısa bir vurulma/düşme kamera sekansı gösterin, ardından hemen yeniden deneme olanağı sunun. Bitiş çizgisini geçmek güvenlidir.
 
-5. Oynanış ve geri bildirim
-Hayatta olan her tank, sırası başladığında 18 metre hareket hakkı kazanır. WASD ve hareket pedi ekrana göre hareket eder; ok tuşları ve nişan pedi yatay ve dikey nişanı ayarlar. Kaydırıcılar yatay nişanı, 10–80 derece dikey nişanı ve 0–100 referans gücünü sağlar. Rakip seçmek yalnızca tankı ona döndürür; atışı kendi başına hesaplamamalıdır.
-Teal yay, rüzgâr yokken seçilen referans gücünü tahmin eder. Şarj sırasında bu referansı ve altın işaretçisini sabit tutun. Odaklanmış Ateş Et düğmesinde Ateş Et, Boşluk veya Enter tuşuna basılı tutmak, her seferinde gerçek gücü 0'dan başlatır; güç saniyede 18 yüzde puanı artar, 100'de sabit kalır ve bırakıldığı anda gerçek güç neyse tam olarak bir kez ateş edilir. Hızlı dokunuş zayıf bir atış yapar. 3 yüzde puanı içindeki altın bant yalnızca görsel geri bildirimdir; yaklaştırma veya gizli düzeltme yapılmaz. İşaretçi iptalinde, pencere odağı kaybolduğunda veya görünürlük kaybında işlemi iptal edin. Şarj sırasında hareket, hedef ve nişan değişikliklerini kilitleyin. Aralık girişi klavye kontrolleri aynı zamanda tareti döndürmemelidir. Sıfır güç, sabit duran mermi değil, en düşük fırlatma hızını ifade eder.
-Ok ve görünür biçimde sürüklenen rüzgâr çizgileri, rüzgârın mermiyi ittiği yönü gösterir. Rüzgârın gücünü ve saniyedeki metre cinsinden hızını etiketleyin; rüzgâr kartına tıklamak açıklamasını açmalıdır. Rüzgâr sola esiyorsa oyuncu bir miktar sağa nişan almalıdır. Daha güçlü rüzgâr ve daha uzun havada kalma süresi daha fazla sürüklenmeye neden olur. Rüzgâr atış boyunca sabit kalır ve her tur değişir. Oyuncunun önizlemesini asla otomatik olarak telafi etmeyin. Araziye inişi yaklaşık olarak tahmin edin; önizlemede tank/kaya çarpışmaları, küme parçalanması veya sekme sözü vermeyin.
-Altı mühimmat sağlayın: sınırsız HE; beş alçalan alt mühimmata ayrılan kümeli mermi; 28 metre çapa ve 13 metre derinliğe kadar krater açan Seismic; iki kez seken bir sekmeli mermi; tank başına bir adet, 46 metre çapa ve 22 metre derinliğe kadar krater açan Cataclysm; ve 12 metre yarıçapında ateş bölgesi bırakan Incendiary. Ateş, altı eylem sonunun her birinde 8 hasar verir; bölgenin dışına çıkmak hasarı önler ve üst üste gelen bölgeler birikmez. Deniz suyu alevleri söndürür. Yükseltilmiş namlusu da dâhil olmak üzere tankın tamamı suyun tamamen altına girdiğinde hemen elenir. Gerçek hasarı, zırh kaybını, arazi çökmesini, su sıçramasını ve elenme sonucunu gösterin.
-Katmanlı ateş topları, genişleyen şok halkaları, ışık saçan kıvılcımlar, balistik parçacıklar, toz ve duman kullanın; kamera sarsıntısını ölçülü tutun. Sağlanan özgün ElevenLabs müziğini ve top, çarpma, sekme, ağır patlama, ateş ve sıçrama seslerini kullanın. Ses açma/kapatma, duraklatma/devam ettirme, talimatlar, yeniden oynatma ve menüye dönme seçeneklerini ekleyin. Mermi uçuşu veya yapay zekâ turları sırasında Turuma dön seçeneği sunun: aynı sabit zaman adımı simülasyonunu hızla çalıştırın ve tüm hasar, arazi ve tehlike sonuçlarını koruyun. Yerel arkadaşın giriş turunu asla atlamayın.
+5. Gerilim, rakipler ve ödüller
+23 yapay zekâ yarışmacısına bağımsız hız ve tepki zamanlaması verin. Yakındaki, tepkisi yavaş bir yarışmacı ilk kırmızı ışıkta görünür biçimde kuralı ihlal edip vurularak tehdidi ortaya koymalı, ancak oyuncunun kaybetmesini senaryoya bağlamamalıdır. Sonraki hatalar, sınırlandırılmış eleme gruplarını tetiklemelidir. Yakındaki silahlı bir muhafızı her gerçek hedefe nişan aldırın; atış başlangıç noktasını tüfek namlusuyla hizalayın; kısa, yıldız biçimli bir namlu alevi, ince bir iz, hafif çarpma tozu ve grafik olmayan bir düşüş gösterin. Yeniden kullanılabilir sekiz yuvalı bir efekt havuzu kullanın. Kırmızı ışıktan önceki son 0,34 saniye içinde durmak kusursuz duruş puanı, seri ve küçük bir dayanıklılık yenilemesi kazandırır. Son 18 saniye, sesli ve görsel aciliyeti artırmalıdır. Testler için deterministik, tohumlanmış kuralları korurken normal oyunda denemeden denemeye değişkenlik sağlayın.
 
-6. Teknik uygulama
-ES modülleri ve Vite ile Three.js kullanın; yazı tiplerini yerel olarak paketleyin, efektler için Web Audio, döngüsel müzik için HTML audio öğesi kullanın. Kaynakları aynı origin üzerinde tutun ve statik derlemeyi destekleyin. Antialiasing kullanan perspektif bir oluşturucu, makul gölge ve post-processing bütçeleri ve geçici geometri/materyallerin doğru şekilde temizlenmesini sağlayın. Model süslemelerini oyun çarpışmalarından ayırın.
-Oluşturma işleminden bağımsız, metre/saniye birimli deterministik fizik kullanın; yer çekimi 9.81 m/s², sabit zaman adımı ise 1/120 saniye olsun. Yüksek hızlı mermilerin zemin, su, tank ve kayalarla çarpışması için sürekli süpürülmüş çarpışmalar kullanın; yerinden oynayan tanklara patlama itmeleri ve yer çekimi uygulayın. Fırlatma konumlarını tanka özgü gerçek namlu dönüşümünden türetin. Normal oynatma ve hızlı ileri sarma aynı simülasyon güncellemelerini çağırmalıdır. Hasar ve rüzgâra tepki, mühendislik amaçlı patlama simülasyonu değil, stilize oyun kurallarıdır.
-Çince, İngilizce, Japonca ve Korece kullanıcı arayüzlerini destekleyin. İlk açılışta cihaz dilini kullanın; Hong Kong, Makao, Tayvan ve Geleneksel Çince kullanan cihazlarda varsayılan dil İngilizce olsun. Açıkça yapılan seçimleri hatırlayın ve görünür bir dil seçici sunun. Masaüstü, dikey telefon ve kısa yatay ekran düzenlerine uyum sağlayın; kısa ekran menülerini kaydırılabilir yapın, dokunma hedeflerini rahat kullanılır boyutta tutun, panelleri daraltılabilir yapın ve kontrollerin üst üste binmesini önleyin. Dokunmatik cihazlarda klavye girişi gerektirmeyin. Yalnızca geliştirme amaçlı durum değişikliklerini ve nişan yardımcılarını üretim kodundan çıkarın.
+6. Gerçek Tripo karakterleri ve prosedürel karşılaştırma
+Varsayılan olarak gerçek Tripo P2 tarafından oluşturulmuş GLB varlıklarını kullanın: oyun alanı oyuncak bebeği, boşta durma/koşma/zafer iskelet animasyon kliplerine sahip turkuaz yarışmacı ve silahlı maskeli muhafız. Kaynak modelin köken bilgisini koruyun ve sağlanan orijinal varlıkları yeniden kullanın; gerekmedikçe eşdeğer varlıkları yeniden oluşturmayın. İleri eksenleri, ölçeği ve ayakların zemine hizalanmasını normalize edin. Oyuncak bebeğin başını bağımsız olarak döndürün. Ana karakteri tamamen skin'lenmiş olarak tutun; uzaktaki rakipleri paylaşılan, işlenmiş poz örnekleriyle toplu olarak oluşturun ve kırmızı ışıkta bunları aslına sadık biçimde dondurun. Üst orta bölümde belirgin bir Three.js / Tripo geçişi sunun; bu geçiş, mesafeyi, süreyi, skoru veya turu sıfırlamadan karakter görünümünü anında değiştirmelidir. Three.js modu eklemli geometrik yarışmacılar, oyuncak bebek ve silahlı muhafızlar kullanır. Her iki mod da Three.js kullanır; tüm ortamın Tripo tarafından oluşturulduğunu ima etmeyin.
 
-7. Tamamlanma kriterleri
-Düzenlenebilir, bağımsız bir kaynak proje, kilit dosyası, npm geliştirme/derleme talimatları ve çalışan bir statik önizleme teslim edin. Krem renkli durum paneli, sabit altın referans işaretçisi, sıfırdan başlayan canlı güç dolumu ve tamamen 3B tank/ada sunumu dâhil olmak üzere mevcut ekran görüntüleriyle oynanış videosuna uyun. İlk açılışı, model yüklemeyi, eksiksiz bir tur döngüsünü, her mühimmatın davranışını, duraklatmayı, yeniden oynatmayı ve gerçek bir kazanma/kaybetme sonucunu doğrulayın. Görünüm değiştirmenin durumu koruduğunu, klavye/dokunma iptalinin ateşlemeye yol açmadığını doğrulayın. Rüzgârsız, açık bir test atışında referans gücünde bırakıldığında mermi referans dairesine yakın düşmelidir; zıt yönlü yan rüzgârlar, bu daireyi değiştirmeden gerçek mermiyi görünür biçimde saptırmalıdır. 30/60/144 Hz davranışını, yüksek hızlı çarpışmayı, derin kraterleri, ateşin sönmesini, tamamen suya batma sonucu elenmeyi ve normal/hızlı ileri sarma turlarının aynı sonuçları üretmesini kontrol edin. Dört dilde masaüstü ve dar ekran düzenlerini inceleyin; tarayıcı emülasyonunu fiziksel cihaz testlerinden ayrı olarak belirtin. Yalnızca yerel derlemeyi değil, barındırılan sayfayı ve bağlantılı medyayı da doğrulayın.
+7. Ses ve erişilebilirlik
+Uyarı notaları, gerilimli kalp atışı, ayak sesleri, yönlü silah sesleri ve kısa yankılar, kusursuz duruş çanları ve zafer için sentezlenmiş Web Audio kullanın. Sesi yalnızca etkileşim sonrasında etkinleştirin, kırpılmayı önlemek için genliği sınırlayın ve sessize alma seçeneği sunun. Kırmızı/yeşil anlamı renklerin yanı sıra metinlerle de anlaşılabilmelidir. Flaşları ve kamera sarsıntısını bastırırken sonuçların anlaşılır kalmasını sağlayan azaltılmış hareket seçeneği sunun. Klavye odağını, kompakt ayarları, duraklatma/devam ettirmeyi ve anlaşılır hata kurtarmayı destekleyin. Varlık yükleme hatasında prosedürel moda görünür biçimde geçin, oyunun oynanabilir kalmasını sağlayın ve yeniden deneme seçeneği sunun.
+
+8. Diller, kalıcılık ve yazar
+Eksiksiz İngilizce, Basitleştirilmiş Çince ve İspanyolca arayüz ekleyin. İlk ziyarette desteklenen tarayıcı dilleri arasından ilk dili seçin; bulunamazsa İngilizceye dönün. Manuel seçimi bu cihazda saklayın. Talimatları, durumu, dayanıklılığı, hataları ve sonuçları yerelleştirin. Başlık: Kırmızı Işık, Yeşil Işık / 一二三，木头人 / Luz roja, luz verde. Sahte bir küresel liderlik tablosu yerine yerel kişisel en iyi skoru kaydedin. https://x.com/jaredliu_bravo. ile jared'e atıf yapın. Oynanış için kayıt, ödeme, çok oyunculu mod veya özel model yükleme gerekmez.
+
+9. Mühendislik, performans ve kabul kriterleri
+Kilit dosyası bulunan, aynı origin üzerinden sunulan scriptleri, fontları ve GLB dosyalarını paketleyen yalıtılmış bir Vite/Three.js projesi kullanın. Derlemede API anahtarları veya geçici imzalı URL'ler bulunmasın. Dokuları/malzemeleri paylaşın, statik mimariyi birleştirin, tekrarlanan nesneleri ve kalabalık pozlarını örnekleyin, piksel oranını uyarlamalı olarak sınırlayın ve gölge güncellemelerini sınırlandırın. Oyun mantığını, giriş denetleyicisini, sahneyi, savaş efektlerini, sesi, yerelleştirmeyi ve kullanıcı arayüzünü ayırın. Tohumlanmış kazanılabilirliği, depar tükenmesini/yenilenmesini, kesin duruşları, adil tespiti, güvenli bitişi, süre aşımını/ölümü/yeniden denemeyi, duraklatılmış zamanlamayı, birden fazla tuşun/işaretçinin sahipliğini ve çevirileri test edin. Ardından gerçek bir tarayıcıda açılışı, deparı, kırmızı ışık uyarısını ve atışları, ölümü, kazanmayı, yeniden denemeyi, her iki karakter modunu, dikey ekran kontrollerini, sesi ve kaynak hatalarını doğrulayın. Yapılandırmadan 60 FPS iddiasında bulunmak yerine gerçek kare zamanlamasını ölçün. Akıcı, gerçek zamanlı 20–60 saniyelik tek bir oynanış kaydı ve en az dört gerçek durum ekran görüntüsü üretin; canvas/HUD kayıt yöntemini açıklayın. Son barındırılan oyunu, herkese açık medya oynatma/kaydırma işlevini ve CMS varlık önizlemeleri/indirme politikasını ayrı ayrı doğrulayın.
 
 ```
 
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/crazy-tanks-3d-island-artillery) · [Canlı demo](https://super-tanks-aftershock.tripo.page/) · [Örneklere dön](#all-prompts)
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/red-light-green-light) · [Canlı demo](https://red-light-green-light.tripo.page/) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -3935,6 +3868,129 @@ Başlık, normal oynanış, her bölge, harita, geliştirmeler, başarısızlık
 
 ---
 
+<a id="crazy-tanks-3d-island-artillery"></a>
+
+### Crazy Tanks — 3B Ada Topçuluğu
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-24
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/previews/7b026fd7cfcbf1398c6b77062abb333fe61e020e75b514aeab2eff40db94984e.png" width="840" loading="lazy" alt="Crazy Tanks — 3B Ada Topçuluğu"></a>
+
+Tamamen 3B bir ada topçuluğu savaşında nişan alın, rüzgârı okuyun ve gücü sıfırdan doldurun. Altı mermi arasından seçim yapın, derin kraterler açın ve giderek büyüyen kaostan sağ çıkın.
+
+**İstem**
+
+```text
+1. Proje amacı
+Crazy Tanks — Wild Tides adlı, tropik bir adada geçen, oynanabilir ve gerçek anlamda üç boyutlu, sıra tabanlı bir topçu oyunu oluşturun. Oyuncu küçük bir tankı nişan alır, rüzgârı okur, gücü sıfırdan doldurup doğru anda ateşler ve mermilerle savaş alanının şeklini değiştirir. Yapay zekâya karşı tek oyunculu ve yerel sırayla oynama modlarını destekleyin. Varsayılan modda üç tankın serbest savaşı, isteğe bağlı olarak da iki tanklı düello bulunsun. Hayatta kalan son tank kazanır. Görsel hedef olarak mevcut referans oynanışını ve ekran görüntülerini kullanın.
+
+2. Görsel stil
+Sabit bir yandan görünüm veya düz sprite'lar yerine perspektif kamera ve serbestçe döndürülebilen 3B geometri kullanın. Yuvarlatılmış yeşim yeşili, mercan turuncusu ve mavi-mor tanklar; krem rengi kum; açık yeşil çimen; turkuaz, yansıtıcı su; yumuşak gölgeler ve hafif atmosferik uzaklık sisiyle güneşli, minyatür bir diorama oluşturun. Üç tankın ayırt edici silüetlerini ve bunlarla eşleşen namluları koruyun. Savaş alanının üzerinde kompakt, krem renkli yuvarlak/zırh paneli; altında ise koyu teal renkli, yuvarlatılmış bir kontrol paneli kullanın. Altın rengi, referans gücü ve ateşleme eylemini; mint rengi ise gerçek dolum gücünü ve dost durumunu belirtir. Tripo / Three.js görünüm değiştirme seçeneğini üst kısımda belirgin tutun ve varsayılan olarak Tripo varlıklarını kullanın. Görünüm değiştirilirken karşılaşma ve fizik durumu korunmalıdır. İnce ve eşit aralıklı teal ekran-uzayı çizgileri ile sade bir iniş dairesi kullanın; nişan grafiklerini suya yansıtmayın.
+
+3. Dünya ve sahne
+Yaklaşık 260 × 184 metre boyutlarında, sabit deniz seviyesindeki okyanusla çevrili, parçalanabilir bir yükseklik alanı adası kullanın. Başlangıç tanklarını sağlam zeminde birbirinden uzağa yerleştirin; kayalar, palmiyeler, kaktüsler ve toplanabilir ikmal sandıkları dağıtın. Daha küçük dekoratif adalar arka plan derinliği sağlasın ve asla parçalanabilir ana arazinin yerine geçmesin. Patlamalar yüzeyi deforme edebilmeli ve deniz seviyesinin altına kadar kazabilmelidir. Üst üste binen düzlemleri ve titreşmeyi önlemek için kıyı rengini ve köpüğü tek bir su yüzeyinde tutun. Tank numaralarını her oluşturulan karede dünya konumlarından yansıtın. Tam yörünge, tank, serbest kamera dönüşü ve taktik kuş bakışı görünümleri sağlayın. Yörünge görünümü, ateş eden tankı, yayı ve tahmini iniş noktasını HUD ile kontrol paneli arasındaki alana sığdırmalıdır. Her atıştan önce ateş eden tankı yaklaşık 0,8 saniye gösterin, namluda kısa süre bekleyin ve ardından mermiyi takip edin. Manuel kamera etkileşimi sinematik takibi iptal eder.
+
+4. Varlık envanteri
+Kararlı model yuvaları kullanın ve yedek modellerin her birine ayrı ayrı erişilebilmesini sağlayın:
+- jade-body: yuvarlatılmış, yeşil, kalkan biçimli paletli gövde; oyuncunun varsayılan gövdesi. jade-cannon: koyu namlu ağzına ve altın rengi ayrıntılara sahip, eşleşen yeşim yeşili namlu; bağımsız olarak hareket ettirilebilir.
+- ember-body: alçak mekanik profile sahip, mercan turuncusu renkli, sivri zırhlı gövde. ember-cannon: daha uzun, eşleşen turuncu namlu ve koyu namlu ağzı.
+- bolt-body: köşeli plakalı zırha sahip, mavi-mor renkli endüstriyel paletli gövde. bolt-cannon: eşleşen kalın mavi namlu.
+- shell: koyu renkli, konik uçlu ve camgöbeği ayrıntılı pirinç topçu mermisi. Silaha özgü renk tonu ve ölçekle yeniden kullanın.
+- crate: camgöbeği işaretli ve güçlendirilmiş köşelere sahip sarı zırhlı ikmal sandığı; toplayınca 20 zırh verir, üst sınır 100'dür.
+- rock: sıcak tonlu, yuvarlak kumtaşı kümesi; farklı ölçeklerde tekrarlayın ve ayrı bir çarpışma vekili kullanın.
+- palm: kıvrımlı gövde ve katmanlı yeşil yapraklar; ada bitkisi olarak tekrarlayın.
+- cactus: küçük çiçek ayrıntılarına sahip kompakt yeşil kaktüs; kuru arazide tekrarlayın.
+- islet: açık renkli kaya/kum kenarlarına sahip, yuvarlak çimenli arka plan adası; arenanın ötesinde tekrarlayın.
+Önceliği üç eşleşen gövde/namlu çiftine, ardından mermi/sandık ve çevre nesnelerine verin. Arazi deformasyonunu, okyanusu, köpüğü, ateşi, dumanı, şok dalgalarını, enkazı, nişan grafiklerini, aydınlatmayı, kullanıcı arayüzünü ve çarpışma vekillerini prosedürel tutun. Eşleşen gövde ve namlu parçaları aynı tasarım referansını ve ölçeği paylaşır. Namlu pivotunu mekanik eklemine yerleştirin, ileri eksenini +X yönüne hizalayın ve görünen namlu ağzını fiziksel fırlatma noktası olarak kullanın. Tank gövdelerini eğimlere kuaterniyonlarla uydurun; taret nişanı dünya uzayı yönü olarak kalmalıdır. Kaynak PBR dokularını ve UV dikişlerini koruyun. Tam çözünürlüklü indirilebilir modelleri optimize edilmiş oyun çalışma zamanı kopyalarından ayrı tutun; referanslar ve dosya kökeni gerçek üretim kaynağını belirtmelidir.
+
+5. Oynanış ve geri bildirim
+Hayatta olan her tank, sırası başladığında 18 metre hareket hakkı kazanır. WASD ve hareket pedi ekrana göre hareket eder; ok tuşları ve nişan pedi yatay ve dikey nişanı ayarlar. Kaydırıcılar yatay nişanı, 10–80 derece dikey nişanı ve 0–100 referans gücünü sağlar. Rakip seçmek yalnızca tankı ona döndürür; atışı kendi başına hesaplamamalıdır.
+Teal yay, rüzgâr yokken seçilen referans gücünü tahmin eder. Şarj sırasında bu referansı ve altın işaretçisini sabit tutun. Odaklanmış Ateş Et düğmesinde Ateş Et, Boşluk veya Enter tuşuna basılı tutmak, her seferinde gerçek gücü 0'dan başlatır; güç saniyede 18 yüzde puanı artar, 100'de sabit kalır ve bırakıldığı anda gerçek güç neyse tam olarak bir kez ateş edilir. Hızlı dokunuş zayıf bir atış yapar. 3 yüzde puanı içindeki altın bant yalnızca görsel geri bildirimdir; yaklaştırma veya gizli düzeltme yapılmaz. İşaretçi iptalinde, pencere odağı kaybolduğunda veya görünürlük kaybında işlemi iptal edin. Şarj sırasında hareket, hedef ve nişan değişikliklerini kilitleyin. Aralık girişi klavye kontrolleri aynı zamanda tareti döndürmemelidir. Sıfır güç, sabit duran mermi değil, en düşük fırlatma hızını ifade eder.
+Ok ve görünür biçimde sürüklenen rüzgâr çizgileri, rüzgârın mermiyi ittiği yönü gösterir. Rüzgârın gücünü ve saniyedeki metre cinsinden hızını etiketleyin; rüzgâr kartına tıklamak açıklamasını açmalıdır. Rüzgâr sola esiyorsa oyuncu bir miktar sağa nişan almalıdır. Daha güçlü rüzgâr ve daha uzun havada kalma süresi daha fazla sürüklenmeye neden olur. Rüzgâr atış boyunca sabit kalır ve her tur değişir. Oyuncunun önizlemesini asla otomatik olarak telafi etmeyin. Araziye inişi yaklaşık olarak tahmin edin; önizlemede tank/kaya çarpışmaları, küme parçalanması veya sekme sözü vermeyin.
+Altı mühimmat sağlayın: sınırsız HE; beş alçalan alt mühimmata ayrılan kümeli mermi; 28 metre çapa ve 13 metre derinliğe kadar krater açan Seismic; iki kez seken bir sekmeli mermi; tank başına bir adet, 46 metre çapa ve 22 metre derinliğe kadar krater açan Cataclysm; ve 12 metre yarıçapında ateş bölgesi bırakan Incendiary. Ateş, altı eylem sonunun her birinde 8 hasar verir; bölgenin dışına çıkmak hasarı önler ve üst üste gelen bölgeler birikmez. Deniz suyu alevleri söndürür. Yükseltilmiş namlusu da dâhil olmak üzere tankın tamamı suyun tamamen altına girdiğinde hemen elenir. Gerçek hasarı, zırh kaybını, arazi çökmesini, su sıçramasını ve elenme sonucunu gösterin.
+Katmanlı ateş topları, genişleyen şok halkaları, ışık saçan kıvılcımlar, balistik parçacıklar, toz ve duman kullanın; kamera sarsıntısını ölçülü tutun. Sağlanan özgün ElevenLabs müziğini ve top, çarpma, sekme, ağır patlama, ateş ve sıçrama seslerini kullanın. Ses açma/kapatma, duraklatma/devam ettirme, talimatlar, yeniden oynatma ve menüye dönme seçeneklerini ekleyin. Mermi uçuşu veya yapay zekâ turları sırasında Turuma dön seçeneği sunun: aynı sabit zaman adımı simülasyonunu hızla çalıştırın ve tüm hasar, arazi ve tehlike sonuçlarını koruyun. Yerel arkadaşın giriş turunu asla atlamayın.
+
+6. Teknik uygulama
+ES modülleri ve Vite ile Three.js kullanın; yazı tiplerini yerel olarak paketleyin, efektler için Web Audio, döngüsel müzik için HTML audio öğesi kullanın. Kaynakları aynı origin üzerinde tutun ve statik derlemeyi destekleyin. Antialiasing kullanan perspektif bir oluşturucu, makul gölge ve post-processing bütçeleri ve geçici geometri/materyallerin doğru şekilde temizlenmesini sağlayın. Model süslemelerini oyun çarpışmalarından ayırın.
+Oluşturma işleminden bağımsız, metre/saniye birimli deterministik fizik kullanın; yer çekimi 9.81 m/s², sabit zaman adımı ise 1/120 saniye olsun. Yüksek hızlı mermilerin zemin, su, tank ve kayalarla çarpışması için sürekli süpürülmüş çarpışmalar kullanın; yerinden oynayan tanklara patlama itmeleri ve yer çekimi uygulayın. Fırlatma konumlarını tanka özgü gerçek namlu dönüşümünden türetin. Normal oynatma ve hızlı ileri sarma aynı simülasyon güncellemelerini çağırmalıdır. Hasar ve rüzgâra tepki, mühendislik amaçlı patlama simülasyonu değil, stilize oyun kurallarıdır.
+Çince, İngilizce, Japonca ve Korece kullanıcı arayüzlerini destekleyin. İlk açılışta cihaz dilini kullanın; Hong Kong, Makao, Tayvan ve Geleneksel Çince kullanan cihazlarda varsayılan dil İngilizce olsun. Açıkça yapılan seçimleri hatırlayın ve görünür bir dil seçici sunun. Masaüstü, dikey telefon ve kısa yatay ekran düzenlerine uyum sağlayın; kısa ekran menülerini kaydırılabilir yapın, dokunma hedeflerini rahat kullanılır boyutta tutun, panelleri daraltılabilir yapın ve kontrollerin üst üste binmesini önleyin. Dokunmatik cihazlarda klavye girişi gerektirmeyin. Yalnızca geliştirme amaçlı durum değişikliklerini ve nişan yardımcılarını üretim kodundan çıkarın.
+
+7. Tamamlanma kriterleri
+Düzenlenebilir, bağımsız bir kaynak proje, kilit dosyası, npm geliştirme/derleme talimatları ve çalışan bir statik önizleme teslim edin. Krem renkli durum paneli, sabit altın referans işaretçisi, sıfırdan başlayan canlı güç dolumu ve tamamen 3B tank/ada sunumu dâhil olmak üzere mevcut ekran görüntüleriyle oynanış videosuna uyun. İlk açılışı, model yüklemeyi, eksiksiz bir tur döngüsünü, her mühimmatın davranışını, duraklatmayı, yeniden oynatmayı ve gerçek bir kazanma/kaybetme sonucunu doğrulayın. Görünüm değiştirmenin durumu koruduğunu, klavye/dokunma iptalinin ateşlemeye yol açmadığını doğrulayın. Rüzgârsız, açık bir test atışında referans gücünde bırakıldığında mermi referans dairesine yakın düşmelidir; zıt yönlü yan rüzgârlar, bu daireyi değiştirmeden gerçek mermiyi görünür biçimde saptırmalıdır. 30/60/144 Hz davranışını, yüksek hızlı çarpışmayı, derin kraterleri, ateşin sönmesini, tamamen suya batma sonucu elenmeyi ve normal/hızlı ileri sarma turlarının aynı sonuçları üretmesini kontrol edin. Dört dilde masaüstü ve dar ekran düzenlerini inceleyin; tarayıcı emülasyonunu fiziksel cihaz testlerinden ayrı olarak belirtin. Yalnızca yerel derlemeyi değil, barındırılan sayfayı ve bağlantılı medyayı da doğrulayın.
+
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/crazy-tanks-3d-island-artillery) · [Canlı demo](https://super-tanks-aftershock.tripo.page/) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="battle-city-3d"></a>
+
+### Battle City 3D: Sonsuz Tank Savunması
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-22
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/battle-city-3d"><img src="../assets/previews/e9180abfae92dc2319bb9b62f6ee89602336de5599b5f1c98f0feffeda618cdb.png" width="840" loading="lazy" alt="Battle City 3D: Sonsuz Tank Savunması"></a>
+
+Sonsuz çimenlik, karlı ve endüstriyel savaş alanlarında ya da 35 klasik haritada kartalı savun. On ikmal malzemesi topla ve yok etmek için dört isabet gereken ağır düşman tanklarını alt et.
+
+**İstem**
+
+```text
+1. Proje hedefi
+1985 tarihli Famicom klasiğinden ilham alan, tarayıcıda çalışan bir tank savunma oyunu olan Battle City 3D'yi geliştirin. Oyuncu bir tankı sürer, 20 düşmandan oluşan bir dalgayı yok eder, malzeme toplar ve kartal karargâhını korur. Referans medyada gösterilen mevcut perspektifli 3B sürümü; tohum tabanlı sonsuz bir harekât ve seçilebilir 35 klasik düzen dâhil olmak üzere yeniden oluşturun. Okunabilir arcade kurallarını korurken tanklara, duvarlara ve çevreye gerçek bir derinlik kazandırın.
+
+2. Görsel stil
+60 derecelik görüş alanına sahip bir Three.js PerspectiveCamera kullanın. Varsayılan savaş alanı görünümü oyuncunun arkasında ve üstünde, yaklaşık 13 dünya birimi uzaklıkta ve 0,43 radyan yükseklikte konumlansın. Tankın konumunu ve önündeki bir noktayı yumuşak biçimde takip edin; tank döndüğünde kamerayı otomatik olarak döndürmeyin. Daha yüksek bir taktik görünüm, manuel sürüklemeyle yörünge kontrolü ve tekerlekle yakınlaştırma sunun. Hareket ve ateş için dört ana harita eksenini kullanın. Yörüngede döndürme sonrasında yön tuşlarını kameraya göre en yakın ana yöne eşleyin; klavye girdisini hiçbir zaman çapraz harekete dönüştürmeyin. Kasanın yönünü atış yönüyle hemen eşleştirin; mermi ve namlu alevi yüksekliğini her modelin gerçek topuna göre ayarlayın.
+Yere oturan paletli tanklar, metalik taretler, pişmiş toprak tuğlalar, koyu çelik bloklar, mavi su, alçak bitki örtüsü ve yansıtıcı buz kullanın. Oynanabilir alanın dışındaki zemini ağaçlara, harap binalara ve sise doğru devam ettirin. Sıcak yönlü ışık, yumuşak gölgeler, ortam dolgusu, ACES ton eşleme ve ölçülü namlu alevleri, geri tepme, kıvılcım ve seken enkaz kullanın. Kar, zemin ve ağaç paletini değiştirsin; endüstriyel bölümlerde çelik ve harap binalar öne çıksın.
+Oyunu koyu zeytin tonlarında bir komuta arayüzü, sıcak sarı ana eylem rengi, skor, ortak canlar, kalan düşman simgeleri, bölüm adı ve radar ile çerçeveleyin. Büyük Tripo 3D / Three.js model seçimini savaş alanının üstüne yerleştirin; seçili modu ve dönen tank önizlemesini gösterin. Yerelleştirilmiş, resimli bir malzeme rehberi ve süreli etki göstergeleri kullanın. Dar ekranlarda oyun alanını ve temel dokunmatik kontrolleri görünür tutun.
+
+3. Dünya ve sahneler
+Savaş alanını 26'ya 26 karodan oluşan bir ızgara olarak temsil edin; tank çarpışması için yarı genişliği 0,72 olsun. Kartalı (13,25) konumuna, yok edilebilir U biçimli bir tuğla savunmasıyla çevrili şekilde yerleştirin. Oyuncu doğma noktaları (9,25) ve (17,25); düşman kapıları ise (1,1), (13,1) ve (25,1) olsun.
+İki harekât sunun: 20 düşmanlık dalga tablolarıyla birlikte 35 klasik düzenin tamamı ve çayır, kar ve endüstriyel biyomlar arasında döngü oluşturan, tohum tabanlı sonsuz bir üretici. Tam kasanın geçebileceği genişlikte bağlantılı koridorlar üretin; oyuncu doğma noktaları, düşman kapıları ve toplama nesnesi konumları arasında geçilebilir bağlantılar oluşturun. Doğrudan doğma noktasından kartala ateş hattını engellemek, ancak çapraz sokak erişimini korumak için merkezde kademeli çelik siperler ekleyin. Başlangıç biyomunu veya klasik bölümü seçmeye ve rastgele bir haritayı yeniden üretmeye izin verin. Harekât tohumunu, skoru, canları ve hayatta kalan oyuncuların geliştirmelerini bir sonraki bölüme aktarın.
+Tuğla yok edilebilir; çelik bloklar normal mermileri ve tankları durdurur; su tankları engeller, ancak mermilerin geçmesine izin verir; bitki örtüsü düşman modellerini gizler; buz çekişi azaltır. Uzak çevreyi dekoratif tutun ve oynanış çarpışmasından ayrı tutun.
+
+4. Varlık envanteri
+Bu kararlı ve birbirinden bağımsız olarak değiştirilebilen 3B model yuvalarını kullanın. Önceliği oyuncu, düşman, ağır tank ve kartala, ardından on malzeme modelinin tamamına verin. Her varlığı en alçak noktasından zemine oturtun ve yönünü, merkezini ve ölçeğini normalize edin. Her düşman için ayrı model yüklemek yerine şablonları yeniden kullanın.
+- player: Okunabilir bir tareti ve öne bakan topu olan hardal sarısı paletli tank; oyuncu tanklarında kullanılır, ikinci oyuncu için ayrı bir halka rengine sahiptir.
+- enemy: Temel, hızlı ve güçlü varyantlar için farklı tonlarla yeniden kullanılan kompakt paletli düşman tankı.
+- heavy: Standart düşman mesh'inden ayrı, gözle görülür biçimde daha ağır zırhlı bir tank; üzerinde görünen dört zırh segmenti bulunur.
+- eagle: Karargâh kaidesi üzerinde metalik altın renkli kartal heykeli.
+- pickup-star: Beş köşeli altın geliştirme yıldızı.
+- pickup-helmet: Geçici koruma sağlayan askerî kask.
+- pickup-clock: Düşman hareketini donduran, okunaklı bir saat.
+- pickup-shovel: Karargâhı güçlendiren kürek.
+- pickup-life: Bir ekstra canı temsil eden minyatür tank.
+- pickup-grenade: Etkin düşmanları yok eden el bombası.
+- pickup-ammo: Hızlı ateş sağlayan mühimmat sandığı.
+- pickup-repair: Zırhı onaran tamir alet çantası.
+- pickup-magnet: Uzaktan malzeme toplamak için at nalı mıknatısı.
+- pickup-boost: Geçici hız artışı sağlayan enerji bataryası.
+- environment-building: Yıpranmış, harap bir apartman binası, Tripo P2.0, istenen bütçe 1.800 üçgen.
+- environment-tree: Gövdesi görünen, düzensiz bir çam ağacı, Tripo P2.0, istenen bütçe 1.100 üçgen.
+- environment-bush: Alçak, yapraklı bir çalı ve çim kümeleri, Tripo P2.0, istenen bütçe 650 üçgen.
+Malzemeleri renkli halkalara ve eşleşen rehber küçük resimlerine sahip, dönen ve havada süzülen toplanabilir modeller olarak gösterin. Tekrarlanan binaları, ağaçları ve çalıları ortak geometri/malzeme örnekleriyle oluşturun. Bina ve ağaç köklerini zemine oturtun; çalı tabanını araziyle birleşmesi için biraz gömün. Kar bölümlerinde yukarı bakan yüzeylere kar ekleyin. Fayans duvarlarını, suyu, buzu, mermi mesh'lerini, kullanıcı arayüzünü, ışıkları, parçacıkları ve çarpışma proxy'lerini prosedürel olarak üretin. Suyu, dünya uzayında akan dalgalar, değişen normal'ler ve küçük yüzey yer değiştirmesiyle canlandırın; bu efekt bitişik karolar arasında kesintisiz devam etsin. Tripo sürümünde 17 üretilmiş model kullanılır; karşılaştırma sürümü her iki tankı ve çevreyi aynı kurallar ve çarpışmalarla kodla oluşturulmuş geometriye geçirir. Her ikisi de Three.js ile işlenir.
+
+5. Oynanış ve geri bildirim
+Ortak üç can havuzuyla tek oyunculu ve yerel iki oyunculu eşli oyunu destekleyin. Tek oyunculu modda WASD veya ok tuşları, ateş için Space/J kullanılır. Eşli oyunda birinci oyuncu WASD ve Space/J; ikinci oyuncu ok tuşları ve Enter/Numpad 0 kullanır. P/Escape duraklatır; C kamerayı değiştirir; 1/2 model modunu seçer. Dokunmatik ekranlarda yön tuş takımına ve ateş düğmesine aynı anda basılı tutmaya izin verin, işaretçi iptal edildiğinde girdiyi bırakın; kaydırma gerektirmeden duraklatma, devam etme, sonraki bölüm ve yeniden deneme eylemlerini sunun.
+Oyuncu hızı saniyede 4,2 birim, takviyeyle 6,3 birimdir. Düşmanlar temel, hızlı, güçlü ve ağır türlerden oluşur; ağır tankların dört can puanı vardır ve zırhsız alınan ilk üç darbeye dayanırlar. Bir türü yok etmek sırasıyla 100, 200, 300 veya 400 puan kazandırır; herhangi bir malzemeyi toplamak 500 puan verir. 20 düşman yok edildiğinde bölüm tamamlanır. Kartal yok edildiğinde veya hayatta kalan oyuncu kalmadan ortak canlar tükendiğinde oyun kaybedilir. Anında yeniden deneme, açıkça belirtilmiş sonraki bölüme geçiş ve yerel olarak kaydedilen en yüksek skor sunun.
+On malzemenin tamamını uygulayın: yıldız üç seviyede geliştirme sağlar (daha hızlı mermiler, aynı anda iki mermi, ardından çeliği delen mermiler); kask 12 saniye kalkan sağlar; saat düşmanları 9 saniye dondurur; kürek üssü 16 saniye güçlendirir; minyatür tank bir can ekler; el bombası etkin düşmanları yok eder; mühimmat, aynı anda en fazla dört etkin mermiyle 14 saniyelik hızlı ateş sağlar; tamir iki can puanı ekler, üst sınır üçtür; mıknatıs beş birim içindeki görünür malzemeleri 20 saniye boyunca toplar; hız takviyesi 12 saniye sürer. Malzeme modelleri 25 saniye boyunca kalır ve ulaşılabilir konumlarda görünür; türleri çeşitlendirmek için karıştırılmış bir deste kullanın. Mıknatısla toplama işlemi katı engellere uymalıdır.
+4,333 saniyelik bölüm açılışı, ateş etme, sürüş ve rölanti, tuğla/çelik çarpışmaları, düşman/oyuncu patlamaları, malzemenin görünmesi ve toplanması, ekstra can, zırh darbesi, buz, duraklatma ve oyun sonu için toplanmış NES tarzı örnekleri kullanın. Mevcut projede JustoSenka/BattleCity kaynağından, 3a07004ba8e53baea74ff70d2ecc22b017eb9b20 commit'ine ait 15 OGG ses işareti kullanılır. Atıflarını ve depo lisans bildirimini koruyun; bunları bit düzeyinde kusursuz donanım kaydı olduklarını iddia etmeden, toplanmış yeniden yapım sesleri olarak tanımlayın. Kullanıcı etkileşimiyle sesi etkinleştirin, örnek kazançlarını ayarlayın, ses seviyesi/sessize alma seçenekleri sunun ve sesleri olaylarla senkronize edin. Konuyla ilgisiz sürekli savaş müziği eklemeyin.
+
+6. Teknik uygulama
+TypeScript, Three.js 0.180.0 ve Vite 7 kullanın; izole bir package.json ve lockfile bulundurun. Simülasyonu işleme katmanından bağımsız tutun ve 120 Hz'de çalıştırın. Katı kasa AABB'leri, eksenleri ayrıştırılmış hareket, sınır ve tank ayrımı ve karşıt mermiler arasındaki göreli hareket çarpışması dâhil sürekli en yakın temaslı mermi taramaları kullanın. Nokta atışı duvar içinden geçişini önlemek için mermiler kasadan çıkmalı ve ileri doğru taranmalıdır. Buz hızlanması/yavaşlaması ile enkaz için sönümlü sekmeler içeren yerçekimi ekleyin. Bunlar süspansiyon simülasyonu değil, arcade tarzı zemin fiziğidir.
+Aynı origin'den GLB varlıklarını GLTFLoader ile yükleyin. Çarpışma proxy'lerini varlık geometrisinden bağımsız tutun. Mevcut çalışma zamanı niceleyicili öznitelikler ve WebP dokuları kullanır (araçlar/üs için 1024 px; malzemeler ve çevre için 512 px); geometri sadeleştirme veya WASM kod çözücü kullanılmaz. Yüklemeyi dört worker ile sınırlayın; hash sürümlü URL'ler ve 20 saniye zaman aşımı olan 256 KiB aralıklar kullanın; her aralık için en fazla üç deneme yapın. Dört temel model ve ses hazır olduktan sonra oyunu açın; malzeme ve çevre varlıklarını arka planda yükleyin ve yalnızca modeli hazır olan malzeme türlerini oluşturun. Model modu değiştirilirken oynanış durumu korunur.
+İngilizce, basitleştirilmiş Çince, Japonca ve Korece kullanıcı arayüzü sunun. Cihaz dilinden varsayılanı seçin; ancak zh-TW, zh-HK, zh-MO ve zh-Hant için varsayılan İngilizce olsun. Açıkça seçilen dili kalıcı olarak saklayın. Klavyeyi, masaüstü işaretçisini ve çoklu dokunmayı destekleyin; odak kaybında oyunu duraklatın. Tüm varlıkları, kredileri ve yeniden üretilebilir betikleri kaynak projesinde yerel tutun; özel kimlik bilgileri veya çalışma zamanı arka uç bağımlılığı içermeyen statik bir dist dizini dağıtın.
+
+7. Tamamlanma ölçütleri
+Düzenlenebilir kaynak kodu, varlık köken bilgilerini ve lisans bildirimlerini, npm geliştirme/derleme iş akışını ve oynanabilir bir statik önizlemeyi teslim edin. Varsayılan Tripo sahnesini, model karşılaştırmasını, tüm biyomları, dört darbe alan ağır tankı, her malzeme etkisini, duraklatma/devam etmeyi, yenilgi/yeniden denemeyi ve bölüm ilerlemesini doğrulayın. Kasa genişliği bağlantısını ve güvenli doğma noktalarını test etmek için tohumlanmış 1.000 haritanın yanı sıra tüm klasik haritaları, duvar içinden geçmeyi, çapraz atışları, tank ayrımını, buz momentumunu, birden çok yatay açı değerinde kameraya göre girdiyi ve durumu koruyan mod geçişlerini test edin. Yerelleştirilmiş kullanıcı arayüzünü ve dar ekranlarda iki parmak kontrollerini doğrulayın; yalnızca emülasyon kullanıldıysa fiziksel cihaz testi yapıldığını iddia etmeyin. Gerçek başlangıç ve savaş karelerini referans görselleri/videolarıyla karşılaştırın; 17 modelin ve 15 ses işaretinin tamamının yüklendiğini onaylayın. Mevcut CMS Web Page iş akışı üzerinden yayınlayın ve kaydedilmiş bir CMS kaydını tamamlanmış dağıtım olarak değerlendirmek yerine son herkese açık sayfayı doğrulayın.
+
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/battle-city-3d) · [Canlı demo](https://battle-city-3d.tripo.page/) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="jelly-villa"></a>
 
 ### Jöle Villa
@@ -3999,62 +4055,6 @@ jared adına atıf yapılan yeni bir jelly-villa istemi yayımlayın; özgün ya
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/jelly-villa) · [Canlı demo](https://jelly-villa.tripo.page/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="red-light-green-light"></a>
-
-### Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu
-
-[jared](https://x.com/jaredliu_bravo) · 2026-10-12
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/red-light-green-light"><img src="../assets/previews/f0cd12ce7ed0dc81cf023e84cfc2e428e21400ed984c6e6405b89eec2d6158ac.webp" width="840" loading="lazy" alt="Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu"></a>
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/red-light-green-light"><img src="../assets/previews/385d9e2014a3f7ad5f57382f100f391f741e59e4d1bde729dd9811d6e1f8fdf8.webp" width="840" loading="lazy" alt="Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu"></a>
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/red-light-green-light"><img src="../assets/previews/0f2cc98d286c448c959255fae28afea86dc8ee7a516410e2c27e6fb5c3bca23b.webp" width="840" loading="lazy" alt="Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu"></a>
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/red-light-green-light"><img src="../assets/previews/288746ae7c32efddbfb5b8455af62b45358f51901856ac884452f990ae10196c.webp" width="840" loading="lazy" alt="Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu"></a>
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/red-light-green-light"><img src="../assets/previews/04114d42ef8ceeef1a9cdb52e7c3a92f74c84ccd1615428ba180a52b597736b0.webp" width="840" loading="lazy" alt="Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu"></a>
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/red-light-green-light"><img src="../assets/previews/4a418cd1973a7b18131f58ad925c2f6423d5627181a16ad5a4b743beaa5033f6.webp" width="840" loading="lazy" alt="Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu"></a>
-
-Gerilim dolu, 42 saniyelik dur-kalk oyununda dev bir oyuncak bebekle silahlı muhafızlara karşı yarışın. Depar atın, dayanıklılığınızı yönetin, kırmızı ışıkta donup kalın ve prosedürel karakterleri gerçek Tripo modelleriyle karşılaştırın.
-
-**İstem**
-
-```text
-1. Projenin amacı
-Tanıdık dur-kalk mücadelesinden esinlenen, tek oyunculu bir 3B oyun alanında hayatta kalma oyunu olan Kırmızı Işık, Yeşil Işık'ı oluşturun. Oyuncu, 42 saniye içinde 62 metrelik arenada 23 yerel yapay zekâ yarışmacısına karşı yarışan 456 numaralı yarışmacıdır. Tek bir girdiyi basılı tutmak ilerlemeyi sağlar; bırakınca oyuncu hemen durur. Her deneme için tek can vardır. Bir maket veya önceden kaydedilmiş sahne değil, oynanabilir oyunu teslim edin. Bu bağımsız bir oyundur; herhangi bir televizyon yapımına ait resmî bir bağlantı değildir.
-
-2. Görsel yön ve ekran hiyerarşisi
-Sinematik üçüncü şahıs bakış açısıyla Three.js kullanın: tozlu, sıcak kum; alt panelleri mint yeşili olan, soluk pembe ve yüksek duvarlar; boyalı tepeler; gözetleme kuleleri; yapraksız ağaçlar; bitiş çizgisinin ötesinde dev turuncu-sarı bir oyuncak bebek; turkuaz eşofmanlar ve maskeli pembe muhafızlar. Yönlü altın rengi ışık, yumuşak temas gölgeleri, ölçülü sis, tebeşirle çizilmiş kulvar işaretleri ve seyrek toz, yoğun post-processing kullanmadan derinlik hissi oluşturmalıdır. Arena görüntü alanını doldurmalıdır. Açılış ekranında kolayca tanınan başlığı sol alt bölüme yerleştirin ve talimatları kısa tutun. Oyun sırasında küçük bir zamanlayıcı/yaşayan oyuncu sayacı, ortada renkli ve metinli bir sinyal, ilerleme göstergesi ve basılı tutarak koşmayı sağlayan tek bir düğme gösterin. Oyunun yerini aşırı büyük metin panelleriyle değiştirmeyin. 3B görünümü esnetmeden dikey ekran düzenlerine uyarlayın.
-
-3. Hareket, depar ve durma değerlendirmesi
-Hareket etmek için Space, W, Yukarı Ok veya koşu düğmesini basılı tutun. A/D ya da Sol/Sağ yön tuşlarıyla yön verilebilir, ancak yön vermek isteğe bağlıdır. Depar atmak için Shift'i basılı tutun; dokunmatik cihazlarda düğmeyi basılı tutup depar atmak için parmağınızı 38 pikselden fazla yukarı kaydırın, yatay sürükleme ile yön verin. Normal hız saniyede 3,6 metredir; depar hızı, küçük seri bonuslarından önce 5,65 metredir. Depar dayanıklılığı tüketir; durmak dayanıklılığı yeniler. Tükenme, yeterli dayanıklılık geri gelene kadar deparı devre dışı bırakır. İleri hareket girdisini bırakmak, gizli atalet olmadan hemen durmayı sağlar. Duraklatma, bulanıklaştırma, dil arayüzünün değiştirilmesi, oluşturucu stilinin değiştirilmesi, yeniden deneme ve oyun sonu durumunda tüm hareketi ve deparı iptal edin. Birden fazla basılı tuşu ve etkin tek bir işaretçiyi doğru şekilde izleyin.
-
-4. Tur ritmi ve sonuçları
-Hazır, geri sayım, oynanıyor, duraklatıldı, ölüyor, kaybedildi ve kazanıldı durumlarını uygulayın. Üç saniyelik geri sayım, 42 saniyelik turu başlatır. Yeşil hareket dönemleri, görünür kehribar rengi dönüş uyarıları ve kırmızı gözetleme dönemleri dönüşümlü olarak ilerlemelidir. İlk yeşil dönem 3,4 saniye sürer; sonraki yeşil dönemlerin süresi tur ilerledikçe değişmeli ve kısalmalıdır. Kehribar rengi dönem 0,65–0,95 saniye sürmeli ve hiçbir zaman uyarı vermeden ortadan kalkmamalıdır. Kırmızı dönem yaklaşık 2,1–3,35 saniye sürmelidir. Oyuncak bebek kehribar rengi dönemde dönmeye başlar ve kırmızı ışıkta yarışmacılara bakar. Kısa bir kırmızı geçiş toleransından sonra hareket devam ederse görünür bir tespit göstergesi dolar ve muhafız ateş eder. Sabit duran bir oyuncuyu rastgele öldürmeyin. Sürenin dolması da oyuncuyu eler. Sonuçlardan önce 1,65 saniyelik kısa bir vurulma/düşme kamera sekansı gösterin, ardından hemen yeniden deneme olanağı sunun. Bitiş çizgisini geçmek güvenlidir.
-
-5. Gerilim, rakipler ve ödüller
-23 yapay zekâ yarışmacısına bağımsız hız ve tepki zamanlaması verin. Yakındaki, tepkisi yavaş bir yarışmacı ilk kırmızı ışıkta görünür biçimde kuralı ihlal edip vurularak tehdidi ortaya koymalı, ancak oyuncunun kaybetmesini senaryoya bağlamamalıdır. Sonraki hatalar, sınırlandırılmış eleme gruplarını tetiklemelidir. Yakındaki silahlı bir muhafızı her gerçek hedefe nişan aldırın; atış başlangıç noktasını tüfek namlusuyla hizalayın; kısa, yıldız biçimli bir namlu alevi, ince bir iz, hafif çarpma tozu ve grafik olmayan bir düşüş gösterin. Yeniden kullanılabilir sekiz yuvalı bir efekt havuzu kullanın. Kırmızı ışıktan önceki son 0,34 saniye içinde durmak kusursuz duruş puanı, seri ve küçük bir dayanıklılık yenilemesi kazandırır. Son 18 saniye, sesli ve görsel aciliyeti artırmalıdır. Testler için deterministik, tohumlanmış kuralları korurken normal oyunda denemeden denemeye değişkenlik sağlayın.
-
-6. Gerçek Tripo karakterleri ve prosedürel karşılaştırma
-Varsayılan olarak gerçek Tripo P2 tarafından oluşturulmuş GLB varlıklarını kullanın: oyun alanı oyuncak bebeği, boşta durma/koşma/zafer iskelet animasyon kliplerine sahip turkuaz yarışmacı ve silahlı maskeli muhafız. Kaynak modelin köken bilgisini koruyun ve sağlanan orijinal varlıkları yeniden kullanın; gerekmedikçe eşdeğer varlıkları yeniden oluşturmayın. İleri eksenleri, ölçeği ve ayakların zemine hizalanmasını normalize edin. Oyuncak bebeğin başını bağımsız olarak döndürün. Ana karakteri tamamen skin'lenmiş olarak tutun; uzaktaki rakipleri paylaşılan, işlenmiş poz örnekleriyle toplu olarak oluşturun ve kırmızı ışıkta bunları aslına sadık biçimde dondurun. Üst orta bölümde belirgin bir Three.js / Tripo geçişi sunun; bu geçiş, mesafeyi, süreyi, skoru veya turu sıfırlamadan karakter görünümünü anında değiştirmelidir. Three.js modu eklemli geometrik yarışmacılar, oyuncak bebek ve silahlı muhafızlar kullanır. Her iki mod da Three.js kullanır; tüm ortamın Tripo tarafından oluşturulduğunu ima etmeyin.
-
-7. Ses ve erişilebilirlik
-Uyarı notaları, gerilimli kalp atışı, ayak sesleri, yönlü silah sesleri ve kısa yankılar, kusursuz duruş çanları ve zafer için sentezlenmiş Web Audio kullanın. Sesi yalnızca etkileşim sonrasında etkinleştirin, kırpılmayı önlemek için genliği sınırlayın ve sessize alma seçeneği sunun. Kırmızı/yeşil anlamı renklerin yanı sıra metinlerle de anlaşılabilmelidir. Flaşları ve kamera sarsıntısını bastırırken sonuçların anlaşılır kalmasını sağlayan azaltılmış hareket seçeneği sunun. Klavye odağını, kompakt ayarları, duraklatma/devam ettirmeyi ve anlaşılır hata kurtarmayı destekleyin. Varlık yükleme hatasında prosedürel moda görünür biçimde geçin, oyunun oynanabilir kalmasını sağlayın ve yeniden deneme seçeneği sunun.
-
-8. Diller, kalıcılık ve yazar
-Eksiksiz İngilizce, Basitleştirilmiş Çince ve İspanyolca arayüz ekleyin. İlk ziyarette desteklenen tarayıcı dilleri arasından ilk dili seçin; bulunamazsa İngilizceye dönün. Manuel seçimi bu cihazda saklayın. Talimatları, durumu, dayanıklılığı, hataları ve sonuçları yerelleştirin. Başlık: Kırmızı Işık, Yeşil Işık / 一二三，木头人 / Luz roja, luz verde. Sahte bir küresel liderlik tablosu yerine yerel kişisel en iyi skoru kaydedin. https://x.com/jaredliu_bravo. ile jared'e atıf yapın. Oynanış için kayıt, ödeme, çok oyunculu mod veya özel model yükleme gerekmez.
-
-9. Mühendislik, performans ve kabul kriterleri
-Kilit dosyası bulunan, aynı origin üzerinden sunulan scriptleri, fontları ve GLB dosyalarını paketleyen yalıtılmış bir Vite/Three.js projesi kullanın. Derlemede API anahtarları veya geçici imzalı URL'ler bulunmasın. Dokuları/malzemeleri paylaşın, statik mimariyi birleştirin, tekrarlanan nesneleri ve kalabalık pozlarını örnekleyin, piksel oranını uyarlamalı olarak sınırlayın ve gölge güncellemelerini sınırlandırın. Oyun mantığını, giriş denetleyicisini, sahneyi, savaş efektlerini, sesi, yerelleştirmeyi ve kullanıcı arayüzünü ayırın. Tohumlanmış kazanılabilirliği, depar tükenmesini/yenilenmesini, kesin duruşları, adil tespiti, güvenli bitişi, süre aşımını/ölümü/yeniden denemeyi, duraklatılmış zamanlamayı, birden fazla tuşun/işaretçinin sahipliğini ve çevirileri test edin. Ardından gerçek bir tarayıcıda açılışı, deparı, kırmızı ışık uyarısını ve atışları, ölümü, kazanmayı, yeniden denemeyi, her iki karakter modunu, dikey ekran kontrollerini, sesi ve kaynak hatalarını doğrulayın. Yapılandırmadan 60 FPS iddiasında bulunmak yerine gerçek kare zamanlamasını ölçün. Akıcı, gerçek zamanlı 20–60 saniyelik tek bir oynanış kaydı ve en az dört gerçek durum ekran görüntüsü üretin; canvas/HUD kayıt yöntemini açıklayın. Son barındırılan oyunu, herkese açık medya oynatma/kaydırma işlevini ve CMS varlık önizlemeleri/indirme politikasını ayrı ayrı doğrulayın.
-
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/red-light-green-light) · [Canlı demo](https://red-light-green-light.tripo.page/) · [Örneklere dön](#all-prompts)
 
 ---
 

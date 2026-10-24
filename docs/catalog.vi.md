@@ -34,12 +34,12 @@
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="../assets/featured/2096467585785286808.webp" width="420" loading="lazy" alt="Wright Flyer Xuyên Qua Rừng Nhật Bản"></a><br><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808">Wright Flyer Xuyên Qua Rừng Nhật Bản</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="https://www.tripo3d.ai/vi/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808">Prompt →</a></td>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188"><img src="../assets/featured/2081024333120733188.webp" width="420" loading="lazy" alt="Rừng Kẹo Dẻo: Game đi cảnh 3D"></a><br><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188">Rừng Kẹo Dẻo: Game đi cảnh 3D</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="https://www.tripo3d.ai/vi/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/golden-miner"><img src="../assets/featured/golden-miner.webp" width="420" loading="lazy" alt="Golden Miner: Game khai thác vàng 3D 24 cấp độ"></a><br><strong><a href="#golden-miner">Golden Miner: Game khai thác vàng 3D 24 cấp độ</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="#golden-miner">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/featured/crazy-tanks-3d-island-artillery.webp" width="420" loading="lazy" alt="Crazy Tanks — Pháo binh đảo 3D"></a><br><strong><a href="#crazy-tanks-3d-island-artillery">Crazy Tanks — Pháo binh đảo 3D</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="#crazy-tanks-3d-island-artillery">Prompt →</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/akari-nagoya-rooftop-flame-relay"><img src="../assets/featured/akari-nagoya-rooftop-flame-relay.webp" width="420" loading="lazy" alt="AKARI: Tiếp lửa trên những sân thượng Nagoya"></a><br><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/akari-nagoya-rooftop-flame-relay">AKARI: Tiếp lửa trên những sân thượng Nagoya</a></strong><br><sub><a href="https://growthengineer.space/">Jared</a></sub><br><a href="https://www.tripo3d.ai/vi/3d-prompts/akari-nagoya-rooftop-flame-relay">Prompt →</a></td>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/cyclops-island-threejs-game"><img src="../assets/featured/cyclops-island-threejs-game.webp" width="420" loading="lazy" alt="Hòn đảo của Cyclops"></a><br><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/cyclops-island-threejs-game">Hòn đảo của Cyclops</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="https://www.tripo3d.ai/vi/3d-prompts/cyclops-island-threejs-game">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/battle-city-3d"><img src="../assets/featured/battle-city-3d.webp" width="420" loading="lazy" alt="Battle City 3D: Phòng thủ xe tăng vô tận"></a><br><strong><a href="#battle-city-3d">Battle City 3D: Phòng thủ xe tăng vô tận</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="#battle-city-3d">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/titanic-the-last-light"><img src="../assets/featured/titanic-the-last-light.webp" width="420" loading="lazy" alt="TITANIC — Ánh sáng cuối cùng"></a><br><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/titanic-the-last-light">TITANIC — Ánh sáng cuối cùng</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="https://www.tripo3d.ai/vi/3d-prompts/titanic-the-last-light">Prompt →</a></td>
 </tr>
 </table>
 
@@ -145,11 +145,11 @@
 - [Mô hình 3D hình nộm tập luyện bằng rơm, sẵn sàng cho game](#2113321027325300784)
 - [Chalk Square: game bốn ô 3D phong cách pixel art](#2113602050172785117)
 - [THẾ GIỚI LƠ LỬNG — khu đảo 3D tương tác](#2113627142772899916)
-- [Battle City 3D: Phòng thủ xe tăng vô tận](#battle-city-3d)
-- [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
-- [Golden Miner: Game khai thác vàng 3D 24 cấp độ](#golden-miner)
-- [Biệt thự Thạch rau câu](#jelly-villa)
 - [Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D](#red-light-green-light)
+- [Golden Miner: Game khai thác vàng 3D 24 cấp độ](#golden-miner)
+- [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
+- [Battle City 3D: Phòng thủ xe tăng vô tận](#battle-city-3d)
+- [Biệt thự Thạch rau câu](#jelly-villa)
 
 </details>
 
@@ -3733,126 +3733,59 @@ Xuất ra một tệp HTML duy nhất, hoàn thiện và chỉn chu.
 
 ---
 
-<a id="battle-city-3d"></a>
+<a id="red-light-green-light"></a>
 
-### Battle City 3D: Phòng thủ xe tăng vô tận
+### Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D
 
-[jared](https://x.com/jaredliu_bravo) · 2026-09-22
+[jared](https://x.com/jaredliu_bravo) · 2026-10-12
 
-<a href="https://www.tripo3d.ai/vi/3d-prompts/battle-city-3d"><img src="../assets/previews/e9180abfae92dc2319bb9b62f6ee89602336de5599b5f1c98f0feffeda618cdb.png" width="840" loading="lazy" alt="Battle City 3D: Phòng thủ xe tăng vô tận"></a>
+<a href="https://www.tripo3d.ai/vi/3d-prompts/red-light-green-light"><img src="../assets/previews/f0cd12ce7ed0dc81cf023e84cfc2e428e21400ed984c6e6405b89eec2d6158ac.webp" width="840" loading="lazy" alt="Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D"></a>
 
-Bảo vệ đại bàng trên những chiến trường cỏ, tuyết và công nghiệp bất tận, hoặc trong 35 bản đồ kinh điển. Thu thập mười vật tư và đánh bại những xe tăng hạng nặng của địch—chúng cần trúng bốn phát mới bị tiêu diệt.
+<a href="https://www.tripo3d.ai/vi/3d-prompts/red-light-green-light"><img src="../assets/previews/385d9e2014a3f7ad5f57382f100f391f741e59e4d1bde729dd9811d6e1f8fdf8.webp" width="840" loading="lazy" alt="Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D"></a>
 
-**Prompt**
+<a href="https://www.tripo3d.ai/vi/3d-prompts/red-light-green-light"><img src="../assets/previews/0f2cc98d286c448c959255fae28afea86dc8ee7a516410e2c27e6fb5c3bca23b.webp" width="840" loading="lazy" alt="Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D"></a>
 
-```text
-1. Mục tiêu dự án
-Xây dựng Battle City 3D, một game phòng thủ bằng xe tăng trên trình duyệt, lấy cảm hứng từ phiên bản Famicom kinh điển năm 1985. Người chơi điều khiển xe tăng, tiêu diệt một đợt 20 kẻ địch, thu thập vật phẩm tiếp tế và bảo vệ sở chỉ huy đại bàng. Tái dựng phiên bản 3D phối cảnh hiện tại như trong tư liệu tham chiếu, bao gồm chiến dịch vô tận có seed và 35 bố cục kinh điển có thể chọn. Giữ nguyên luật arcade dễ nắm bắt, đồng thời tạo chiều sâu thực cho xe tăng, tường và cảnh vật.
+<a href="https://www.tripo3d.ai/vi/3d-prompts/red-light-green-light"><img src="../assets/previews/288746ae7c32efddbfb5b8455af62b45358f51901856ac884452f990ae10196c.webp" width="840" loading="lazy" alt="Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D"></a>
 
-2. Phong cách hình ảnh
-Sử dụng Three.js PerspectiveCamera với trường nhìn 60 độ. Góc nhìn mặc định trên chiến trường đặt phía sau và cao hơn người chơi, cách khoảng 13 đơn vị thế giới ở độ cao 0,43 radian. Bám mượt theo vị trí và một điểm phía trước xe tăng; không tự động xoay camera khi xe tăng đổi hướng. Cung cấp góc nhìn chiến thuật cao hơn, xoay camera thủ công bằng thao tác kéo và phóng to bằng con lăn. Sử dụng bốn trục chính của bản đồ cho việc di chuyển và bắn. Sau khi xoay camera, ánh xạ các phím định hướng tới hướng chính gần nhất xét theo camera; không bao giờ biến thao tác bàn phím thành di chuyển chéo. Cập nhật ngay hướng thân xe để khớp với hướng bắn, đồng thời căn chỉnh độ cao của đạn và tia chớp đầu nòng theo khẩu pháo thực tế của từng mẫu xe.
-Sử dụng xe tăng bánh xích bám mặt đất, tháp pháo kim loại, gạch đất nung, khối thép tối màu, nước xanh, thảm thực vật thấp và băng phản chiếu. Kéo dài mặt đất vượt ra ngoài khu vực chơi, tiếp nối bằng cây cối, các tòa nhà đổ nát và màn sương. Dùng ánh sáng định hướng ấm, bóng mềm, ánh sáng môi trường bổ trợ, tone mapping ACES cùng hiệu ứng chớp đầu nòng, giật lùi, tia lửa và mảnh vỡ nảy ở mức tiết chế. Tuyết thay đổi bảng màu mặt đất và cây cối; các màn công nghiệp ưu tiên thép và những tòa nhà đổ nát.
-Đóng khung game bằng giao diện điều khiển màu xanh ô-liu tối, hành động chính màu vàng ấm, điểm số, số mạng dùng chung, biểu tượng kẻ địch còn lại, tên màn và radar. Đặt nút chuyển mô hình Tripo 3D / Three.js lớn phía trên chiến trường, hiển thị chế độ đang chọn và bản xem trước xe tăng xoay. Sử dụng hướng dẫn vật phẩm tiếp tế minh họa đã bản địa hóa cùng các chỉ báo hiệu ứng theo thời gian. Giữ khu vực chơi và các điều khiển cảm ứng thiết yếu hiển thị trên màn hình hẹp.
+<a href="https://www.tripo3d.ai/vi/3d-prompts/red-light-green-light"><img src="../assets/previews/04114d42ef8ceeef1a9cdb52e7c3a92f74c84ccd1615428ba180a52b597736b0.webp" width="840" loading="lazy" alt="Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D"></a>
 
-3. Thế giới và cảnh
-Biểu diễn chiến trường dưới dạng lưới 26 × 26 ô, với nửa bề rộng va chạm của xe tăng là 0,72. Đặt đại bàng tại (13,25), bao quanh bằng hệ phòng thủ gạch hình chữ U có thể phá hủy. Vị trí xuất hiện của người chơi là (9,25) và (17,25); cổng kẻ địch là (1,1), (13,1) và (25,1).
-Cung cấp hai chiến dịch: toàn bộ 35 bố cục kinh điển với bảng đợt 20 kẻ địch tương ứng, và trình tạo vô tận dựa trên seed, luân phiên các biome đồng cỏ, tuyết và công nghiệp. Tạo các hành lang liên thông đủ rộng cho toàn bộ thân xe, với lối nối có thể đi qua giữa vị trí xuất hiện của người chơi, cổng kẻ địch và các vị trí vật phẩm. Bổ sung vật cản thép ở trung tâm theo kiểu so le để ngăn làn bắn thẳng từ điểm xuất hiện tới đại bàng, nhưng vẫn giữ lối đi ngang giữa các phố. Cho phép chọn biome bắt đầu hoặc màn kinh điển, cũng như tạo lại một bản đồ ngẫu nhiên. Mang seed lượt chơi, điểm số, số mạng và nâng cấp của người chơi còn sống sang màn tiếp theo.
-Gạch có thể phá hủy; khối thép chặn đạn thường và xe tăng; nước chặn xe tăng nhưng cho đạn đi qua; thảm thực vật che khuất mẫu kẻ địch; băng làm giảm độ bám. Giữ môi trường ở xa chỉ mang tính trang trí, tách biệt khỏi va chạm gameplay.
+<a href="https://www.tripo3d.ai/vi/3d-prompts/red-light-green-light"><img src="../assets/previews/4a418cd1973a7b18131f58ad925c2f6423d5627181a16ad5a4b743beaa5033f6.webp" width="840" loading="lazy" alt="Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D"></a>
 
-4. Danh mục tài sản
-Sử dụng các slot mô hình 3D ổn định, có thể thay thế độc lập sau đây. Ưu tiên người chơi, kẻ địch, xe tăng hạng nặng và đại bàng, sau đó là toàn bộ mười mẫu vật phẩm tiếp tế. Đặt chân mỗi tài sản tại điểm thấp nhất, đồng thời chuẩn hóa hướng, tâm và tỷ lệ. Tái sử dụng template thay vì tải một mô hình cho từng kẻ địch.
-- player: xe tăng bánh xích màu vàng mù tạt, có tháp pháo dễ nhận biết và pháo hướng về phía trước; dùng cho xe tăng người chơi, với màu vòng riêng cho người chơi thứ hai.
-- enemy: xe tăng địch bánh xích nhỏ gọn, tái sử dụng với các sắc màu khác nhau cho biến thể cơ bản, nhanh và mạnh.
-- heavy: xe tăng bọc thép rõ ràng nặng hơn, dùng mesh riêng với kẻ địch tiêu chuẩn, bên trên có bốn đoạn giáp nhìn thấy được.
-- eagle: tượng đại bàng vàng kim loại trên bệ sở chỉ huy.
-- pickup-star: ngôi sao nâng cấp vàng năm cánh.
-- pickup-helmet: mũ bảo hộ quân sự dùng để tạo lá chắn tạm thời.
-- pickup-clock: đồng hồ dễ nhận biết dùng để đóng băng chuyển động của kẻ địch.
-- pickup-shovel: xẻng dùng để gia cố sở chỉ huy.
-- pickup-life: xe tăng thu nhỏ đại diện cho một mạng thêm.
-- pickup-grenade: lựu đạn cầm tay dùng để tiêu diệt kẻ địch đang hoạt động.
-- pickup-ammo: thùng đạn dùng để bắn nhanh.
-- pickup-repair: hộp dụng cụ sửa chữa dùng để phục hồi giáp.
-- pickup-magnet: nam châm móng ngựa dùng để thu thập vật phẩm từ xa.
-- pickup-boost: pin năng lượng dùng để tăng tốc tạm thời.
-- environment-building: tòa nhà căn hộ đổ nát, phong hóa, Tripo P2.0, ngân sách yêu cầu 1.800 tam giác.
-- environment-tree: cây thông không đều, có thân cây nhìn thấy rõ, Tripo P2.0, ngân sách yêu cầu 1.100 tam giác.
-- environment-bush: bụi cây lá thấp và các cụm cỏ, Tripo P2.0, ngân sách yêu cầu 650 tam giác.
-Hiển thị vật phẩm tiếp tế dưới dạng mô hình có thể nhặt, xoay và lơ lửng, với vòng màu và ảnh thu nhỏ hướng dẫn tương ứng. Hiển thị các tòa nhà, cây và bụi lặp lại bằng các instance hình học/vật liệu dùng chung. Đặt gốc tòa nhà và cây chạm mặt đất; chôn nhẹ phần đáy bụi cây để hòa vào địa hình. Thêm tuyết trên các bề mặt hướng lên trong màn tuyết. Giữ tường theo ô, nước, băng, mesh đạn, UI, đèn, hạt và proxy va chạm ở dạng tạo bằng code. Tạo hoạt ảnh nước bằng sóng chảy trong không gian thế giới, pháp tuyến thay đổi và độ dịch chuyển bề mặt nhỏ, liên tục giữa các ô liền kề. Phiên bản Tripo sử dụng 17 mô hình được tạo; phiên bản so sánh chuyển cả xe tăng lẫn môi trường sang hình học dựng bằng code với cùng luật chơi và va chạm. Cả hai đều được render bằng Three.js.
-
-5. Gameplay và phản hồi
-Hỗ trợ chơi đơn và co-op cục bộ hai người với tổng cộng ba mạng dùng chung. Chơi đơn dùng WASD hoặc phím mũi tên và Space/J để bắn. Trong co-op, người chơi một dùng WASD và Space/J; người chơi hai dùng phím mũi tên và Enter/Numpad 0. P/Escape để tạm dừng; C đổi camera; 1/2 chọn chế độ mô hình. Trên màn hình cảm ứng, cho phép giữ đồng thời nút điều hướng và nút bắn, giải phóng thao tác khi con trỏ bị hủy, đồng thời hiển thị các hành động tạm dừng, tiếp tục, sang màn kế tiếp và chơi lại mà không cần cuộn.
-Tốc độ người chơi là 4,2 đơn vị mỗi giây, hoặc 6,3 khi tăng tốc. Kẻ địch gồm loại cơ bản, nhanh, mạnh và hạng nặng; xe tăng hạng nặng có bốn điểm trúng đạn và sống sót sau ba lần trúng đạn đầu tiên khi không có lá chắn. Dùng tối đa bốn kẻ địch đồng thời trong chơi đơn và sáu trong co-op, xuất hiện theo từng đợt lệch nhau. Tiêu diệt từng loại lần lượt được 100, 200, 300 hoặc 400 điểm; nhặt bất kỳ vật phẩm tiếp tế nào được 500 điểm. Hoàn thành màn sau khi tiêu diệt 20 kẻ địch. Thua khi đại bàng bị phá hủy hoặc tổng mạng dùng chung cạn và không còn người chơi nào sống sót. Cung cấp tùy chọn chơi lại ngay, tiến trình sang màn kế tiếp rõ ràng và điểm cao nhất được lưu cục bộ.
-Triển khai đủ mười loại vật phẩm tiếp tế: ngôi sao nâng cấp qua ba cấp (đạn nhanh hơn, hai viên đạn đồng thời, rồi đạn phá thép); mũ tạo lá chắn trong 12 giây; đồng hồ đóng băng kẻ địch trong 9 giây; xẻng gia cố căn cứ trong 16 giây; xe tăng mini thêm một mạng; lựu đạn tiêu diệt kẻ địch đang hoạt động; đạn dược cho phép bắn nhanh trong 14 giây với tối đa bốn viên đạn đang hoạt động; sửa chữa thêm hai điểm giáp, tối đa ba điểm; nam châm thu thập vật phẩm đang nhìn thấy trong phạm vi năm đơn vị suốt 20 giây; tăng tốc kéo dài 12 giây. Mô hình vật phẩm tiếp tế tồn tại 25 giây và xuất hiện tại các vị trí có thể tiếp cận, với một bộ bài được xáo trộn để thay đổi loại vật phẩm. Việc thu thập bằng nam châm phải tuân thủ các vật cản đặc.
-Sử dụng các sample kiểu NES đã thu thập cho đoạn mở màn dài 4,333 giây, tiếng bắn, tiếng di chuyển và không hoạt động, va chạm với gạch/thép, vụ nổ của kẻ địch/người chơi, xuất hiện và thu thập vật phẩm tiếp tế, mạng thêm, trúng giáp, băng, tạm dừng và game over. Dự án hiện tại sử dụng 15 cue OGG từ JustoSenka/BattleCity, commit 3a07004ba8e53baea74ff70d2ecc22b017eb9b20. Giữ nguyên thông tin ghi công và thông báo giấy phép của repository; mô tả chúng là âm thanh remake được thu thập, không tuyên bố đây là bản thu phần cứng chính xác tuyệt đối từng bit. Mở khóa âm thanh sau thao tác của người dùng, căn chỉnh gain của sample, cung cấp điều khiển âm lượng/tắt tiếng và đồng bộ âm thanh với sự kiện. Không thêm nhạc chiến đấu liên tục không liên quan.
-
-6. Triển khai kỹ thuật
-Sử dụng TypeScript, Three.js 0.180.0 và Vite 7, với package.json và lockfile độc lập. Giữ mô phỏng độc lập với render, chạy ở 120 Hz. Dùng AABB đặc cho thân xe, chuyển động tách theo trục, xử lý biên và tách các xe tăng, cùng quét liên tục theo tiếp xúc gần nhất của đạn, bao gồm va chạm do chuyển động tương đối giữa các viên đạn đối địch. Đạn xuất phát từ thân xe và quét về phía trước để ngăn xuyên tường ở cự ly cực gần. Thêm gia tốc/giảm tốc trên băng và trọng lực với các cú nảy giảm dần cho mảnh vỡ. Đây là vật lý mặt đất kiểu arcade, không phải mô phỏng hệ thống treo.
-Tải tài sản GLB cùng nguồn qua GLTFLoader. Giữ proxy va chạm độc lập với hình học tài sản. Runtime hiện tại sử dụng thuộc tính lượng tử hóa và texture WebP (1024 px cho xe và căn cứ; 512 px cho vật phẩm tiếp tế và môi trường), không đơn giản hóa hình học và không dùng bộ giải mã WASM. Giới hạn tải ở bốn worker, sử dụng URL có phiên bản theo hash và các range 256 KiB với thời gian chờ 20 giây, tối đa ba lần thử cho mỗi range. Mở khóa chơi sau khi bốn mô hình cốt lõi và âm thanh đã sẵn sàng; tải tài sản vật phẩm tiếp tế và môi trường ở chế độ nền, chỉ tạo những loại vật phẩm có mô hình đã sẵn sàng. Việc chuyển chế độ mô hình phải giữ nguyên trạng thái gameplay.
-Cung cấp UI bằng tiếng Anh, tiếng Trung giản thể, tiếng Nhật và tiếng Hàn. Chọn mặc định theo ngôn ngữ thiết bị, ngoại trừ zh-TW, zh-HK, zh-MO và zh-Hant mặc định là tiếng Anh; lưu lựa chọn ngôn ngữ rõ ràng của người dùng. Hỗ trợ bàn phím, con trỏ trên máy tính và cảm ứng đa điểm, đồng thời tạm dừng khi mất focus. Giữ toàn bộ tài sản, thông tin ghi công và script có thể tái tạo cục bộ trong project nguồn, đồng thời đóng gói thư mục dist tĩnh không chứa thông tin xác thực riêng tư hoặc phụ thuộc backend runtime.
-
-7. Tiêu chí hoàn thành
-Bàn giao source có thể chỉnh sửa, nguồn gốc tài sản và thông báo giấy phép, quy trình phát triển/build bằng npm cùng bản preview tĩnh có thể chơi được. Xác minh scene Tripo mặc định, phần so sánh mô hình, tất cả biome, xe tăng hạng nặng chịu đủ bốn lần trúng đạn, mọi hiệu ứng vật phẩm tiếp tế, tạm dừng/tiếp tục, thất bại/chơi lại và tiến trình màn. Kiểm thử 1.000 bản đồ có seed về khả năng kết nối theo bề rộng thân xe và vị trí xuất hiện an toàn, cùng toàn bộ bản đồ kinh điển, hiện tượng xuyên tường, bắn chéo, tách xe tăng, quán tính trên băng, thao tác tương đối với camera ở nhiều góc yaw và chuyển chế độ có bảo toàn trạng thái. Xác thực UI đã bản địa hóa và điều khiển hai ngón trên màn hình hẹp, không tuyên bố đã kiểm thử trên thiết bị thật nếu chỉ dùng mô phỏng. So sánh các frame bắt đầu và giao chiến thực tế với hình ảnh/video tham chiếu; xác nhận cả 17 mô hình và 15 cue âm thanh đều tải được. Xuất bản qua quy trình CMS Web Page hiện có và xác minh trang công khai cuối cùng, thay vì xem một bản ghi CMS đã lưu là triển khai hoàn tất.
-
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/battle-city-3d) · [Bản demo](https://battle-city-3d.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="crazy-tanks-3d-island-artillery"></a>
-
-### Crazy Tanks — Pháo binh đảo 3D
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/previews/7b026fd7cfcbf1398c6b77062abb333fe61e020e75b514aeab2eff40db94984e.png" width="840" loading="lazy" alt="Crazy Tanks — Pháo binh đảo 3D"></a>
-
-Ngắm bắn, đọc hướng gió và nạp lực từ 0 trong trận pháo binh trên đảo 3D hoàn toàn. Chọn một trong sáu loại đạn, tạo những hố sâu và sống sót giữa hỗn loạn ngày càng tăng.
+Đua với búp bê khổng lồ và những lính gác có vũ trang trong trò chơi dừng–chạy nghẹt thở kéo dài 42 giây. Bứt tốc, quản lý thể lực, đứng im khi đèn đỏ và so sánh các nhân vật tạo theo quy tắc với mô hình Tripo thật.
 
 **Prompt**
 
 ```text
 1. Mục tiêu dự án
-Xây dựng Crazy Tanks — Wild Tides, một game pháo binh theo lượt có thể chơi được và thực sự ba chiều trên một hòn đảo nhiệt đới. Người chơi điều khiển một xe tăng nhỏ, đọc hướng gió, canh thời điểm nạp lực từ 0 và định hình lại chiến trường bằng đạn pháo. Hỗ trợ chơi đơn đấu với AI và chơi chuyền lượt cục bộ, với chế độ mặc định ba xe tăng hỗn chiến và tùy chọn đấu tay đôi giữa hai xe. Xe tăng cuối cùng còn sống sẽ chiến thắng. Sử dụng gameplay và ảnh chụp màn hình tham chiếu hiện tại làm mục tiêu hình ảnh.
+Xây dựng Red Light, Green Light, một trò chơi sinh tồn 3D một người chơi trong sân chơi, lấy cảm hứng từ thử thách dừng–chạy quen thuộc. Người chơi là thí sinh 456, đua với 23 thí sinh AI cục bộ trong đấu trường dài 62 mét và hoàn thành trong 42 giây. Giữ một phím hoặc nút duy nhất để tiến lên; thả ra là dừng ngay lập tức. Mỗi lượt chỉ có một mạng. Hãy tạo trò chơi có thể chơi được, không phải bản mô phỏng hay cảnh quay dựng sẵn. Đây là trò chơi độc lập, không phải sản phẩm liên kết chính thức với chương trình truyền hình.
 
-2. Phong cách hình ảnh
-Sử dụng camera phối cảnh và hình học 3D có thể xoay tự do, không dùng sprite phẳng hay góc nhìn ngang cố định. Tạo một tiểu cảnh mô hình thu nhỏ dưới nắng, với các xe tăng bo tròn màu ngọc bích, cam san hô và xanh tím, cát màu kem, cỏ xanh nhạt, nước xanh ngọc phản chiếu, bóng mềm và lớp sương khí quyển nhẹ ở xa. Giữ nguyên dáng viền riêng biệt của ba xe tăng cùng các nòng pháo tương ứng. Đặt một bảng giáp/trạng thái tròn nhỏ màu kem phía trên chiến trường và một bảng điều khiển bo tròn màu xanh teal đậm bên dưới. Màu vàng biểu thị lực tham chiếu và thao tác khai hỏa; màu mint biểu thị lực nạp thực tế và trạng thái phe ta. Đặt nút chuyển giao diện Tripo / Three.js ở vị trí nổi bật phía trên, mặc định dùng asset Tripo. Khi chuyển giao diện, phải giữ nguyên trạng thái trận đấu và vật lý. Sử dụng các nét gạch teal mảnh, cách đều trong không gian màn hình và vòng tròn tiếp đất tiết chế; không phản chiếu đồ họa ngắm bắn xuống mặt nước.
+2. Định hướng hình ảnh và phân cấp màn hình
+Dùng Three.js với góc nhìn điện ảnh từ ngôi thứ ba: cát ấm màu bụi, tường hồng phai cao với các mảng chân tường xanh bạc hà và đồi vẽ trang trí, tháp canh, cây trơ cành, búp bê khổng lồ màu cam–vàng phía sau vạch đích, các bộ đồ thể thao màu xanh teal và lính gác đeo mặt nạ màu hồng. Ánh sáng vàng định hướng, bóng tiếp xúc mềm, sương mù vừa phải, vạch làn bằng phấn và một lớp bụi thưa tạo chiều sâu mà không cần hậu kỳ nặng. Đấu trường phải lấp đầy khung nhìn. Đặt tiêu đề dễ nhận biết ở góc dưới bên trái màn hình mở đầu và giữ phần hướng dẫn ngắn gọn. Khi chơi, hiển thị bộ đếm thời gian/số người còn sống nhỏ gọn, tín hiệu màu và chữ ở trung tâm, tiến độ cùng một nút nhấn-giữ để chạy. Không thay thế phần chơi bằng các bảng chữ quá lớn. Điều chỉnh bố cục dọc mà không kéo giãn khung nhìn 3D.
 
-3. Thế giới và bối cảnh
-Sử dụng một hòn đảo địa hình độ cao có thể phá hủy, kích thước xấp xỉ 260 × 184 mét, được bao quanh bởi đại dương ở một mực nước biển cố định. Đặt các xe tăng ban đầu cách xa nhau trên nền đất ổn định; rải đá, cây cọ, xương rồng và các thùng tiếp tế có thể thu thập. Những đảo nhỏ trang trí tạo chiều sâu cho hậu cảnh và không được thay thế địa hình chính có thể phá hủy. Vụ nổ làm biến dạng bề mặt và có thể đào xuống dưới mực nước biển. Giữ màu bờ biển và bọt nước trên cùng một mặt nước để tránh các mặt phẳng chồng lấn và hiện tượng nhấp nháy. Chiếu số xe tăng từ vị trí trong thế giới ở mọi khung hình được render. Cung cấp góc nhìn toàn bộ quỹ đạo, xe tăng, xoay quanh và chiến thuật từ trên cao. Góc nhìn quỹ đạo phải đưa xe tăng khai hỏa, đường cong và điểm tiếp đất ước tính vào khoảng trống giữa HUD và bảng điều khiển. Trước mỗi phát bắn, hiển thị xe tăng khai hỏa trong khoảng 0,8 giây, dừng lại ở nòng pháo rồi bám theo đạn. Tương tác camera thủ công sẽ hủy chế độ bám theo điện ảnh.
+3. Di chuyển, bứt tốc và phán định dừng
+Giữ Space, W, phím mũi tên lên hoặc nút chạy để di chuyển. A/D hoặc mũi tên trái/phải dùng để điều hướng nhưng không bắt buộc. Giữ Shift để bứt tốc; trên màn hình cảm ứng, giữ nút rồi vuốt lên hơn 38 pixel để bứt tốc, đồng thời kéo ngang để điều hướng. Tốc độ thường là 3,6 mét/giây; tốc độ bứt tốc là 5,65 mét/giây trước các phần thưởng chuỗi nhỏ. Bứt tốc làm tiêu hao thể lực; dừng lại sẽ hồi thể lực. Khi kiệt sức, không thể bứt tốc cho đến khi thể lực hồi đủ. Thả lệnh tiến sẽ dừng ngay lập tức, không có quán tính ẩn. Hủy mọi chuyển động/bứt tốc khi tạm dừng, mất tiêu điểm, thay giao diện ngôn ngữ, chuyển kiểu renderer, chơi lại và ở trạng thái kết thúc. Theo dõi chính xác nhiều phím được nhấn đồng thời và một con trỏ đang hoạt động.
 
-4. Danh mục asset
-Sử dụng các vị trí model ổn định và cho phép truy cập riêng từng model thay thế:
-- jade-body: thân xe tăng bánh xích màu xanh lá bo tròn, hình khiên; thân mặc định của người chơi. jade-cannon: nòng pháo jade tương ứng, có lòng nòng tối màu và điểm nhấn vàng, được điều khiển khớp độc lập.
-- ember-body: thân xe bọc giáp nhọn màu cam san hô, dáng cơ khí thấp. ember-cannon: nòng pháo màu cam dài hơn tương ứng, với đầu nòng tối màu.
-- bolt-body: thân xe bánh xích công nghiệp màu xanh tím, giáp ghép góc cạnh. bolt-cannon: nòng pháo xanh dày tương ứng.
-- shell: đạn pháo bằng đồng thau, đầu thuôn tối màu và điểm nhấn cyan. Tái sử dụng với màu và tỷ lệ riêng theo từng vũ khí.
-- crate: thùng tiếp tế bọc giáp màu vàng, ký hiệu cyan và các góc gia cố; thu thập để nhận 20 giáp, tối đa 100.
-- rock: cụm đá sa thạch bo tròn màu ấm; lặp lại với nhiều tỷ lệ khác nhau và dùng proxy va chạm riêng.
-- palm: thân cây cong và tán lá xanh nhiều lớp; lặp lại làm thảm thực vật trên đảo.
-- cactus: cây xương rồng xanh nhỏ gọn với các chi tiết hoa nhỏ; lặp lại trên địa hình khô.
-- islet: đảo nền tròn phủ cỏ, viền đá/cát màu nhạt; lặp lại ở phía ngoài đấu trường.
-Ưu tiên ba cặp thân/nòng tương ứng, sau đó đến đạn/thùng và các vật thể môi trường. Giữ biến dạng địa hình, đại dương, bọt nước, lửa, khói, sóng xung kích, mảnh vỡ, đồ họa ngắm bắn, ánh sáng, UI và proxy va chạm ở dạng thủ tục. Các bộ phận thân và nòng tương ứng dùng chung một thiết kế tham chiếu và tỷ lệ. Đặt pivot của nòng tại khớp cơ khí, căn trục trước theo +X và dùng đầu nòng hiển thị làm điểm phóng vật lý. Thân xe bám theo độ dốc bằng quaternion; hướng ngắm của tháp pháo vẫn là hướng trong không gian thế giới. Giữ nguyên texture PBR nguồn và các đường nối UV. Tách model tải xuống ở độ phân giải đầy đủ khỏi bản sao tối ưu hóa cho runtime game; thông tin tham chiếu và nguồn gốc file phải xác định đúng nguồn tạo.
+4. Nhịp độ và hệ quả của ván chơi
+Triển khai các trạng thái sẵn sàng, đếm ngược, đang chơi, tạm dừng, hấp hối, thua và thắng. Đếm ngược ba giây bắt đầu một ván kéo dài 42 giây. Luân phiên các khoảng chạy màu xanh lá, cảnh báo chuyển màu hổ phách hiển thị rõ ràng và giai đoạn giám sát màu đỏ. Khoảng xanh đầu tiên kéo dài 3,4 giây; các khoảng xanh sau thay đổi và ngắn dần khi ván tiến triển. Màu hổ phách kéo dài 0,65–0,95 giây và không bao giờ biến mất mà không cảnh báo. Màu đỏ kéo dài khoảng 2,1–3,35 giây. Búp bê bắt đầu quay trong giai đoạn hổ phách và đối mặt với các thí sinh khi đèn đỏ. Sau một khoảng ân hạn ngắn khi đèn đỏ chuyển trạng thái, chuyển động tiếp diễn sẽ làm đầy chỉ báo phát hiện hiển thị trên màn hình và kích hoạt phát súng của lính gác. Không được ngẫu nhiên hạ người chơi đang đứng yên. Hết giờ cũng loại người chơi. Hiển thị chuỗi camera trúng đạn/ngã ngắn 1,65 giây trước khi hiện kết quả, sau đó cho chơi lại ngay lập tức. Vượt qua vạch đích là an toàn.
 
-5. Gameplay và phản hồi
-Mỗi xe tăng còn hoạt động nhận 18 mét quãng đường di chuyển khi lượt bắt đầu. WASD và pad di chuyển theo tương quan với màn hình; phím mũi tên và pad ngắm điều chỉnh phương vị và góc nâng. Thanh trượt cung cấp phương vị, góc nâng 10–80 độ và lực tham chiếu 0–100. Chọn đối thủ chỉ khiến xe quay mặt về phía đó; không được tự giải bài toán bắn.
-Cung teal ước tính lực tham chiếu đã chọn khi KHÔNG có gió. Giữ cố định mức tham chiếu và dấu mốc vàng trong lúc nạp. Nhấn giữ Fire, Space hoặc Enter trên nút Fire đang được focus để bắt đầu lực thực tế từ 0 mỗi lần; tăng 18 điểm phần trăm mỗi giây, giữ ở mức 100 và chỉ khai hỏa đúng một lần khi thả nút, sử dụng lực thực tế tại thời điểm đó. Chạm nhanh sẽ bắn một phát yếu. Dải vàng trong phạm vi 3 điểm phần trăm chỉ là phản hồi hình ảnh, không tự làm tròn hay hiệu chỉnh ngầm. Hủy khi con trỏ bị hủy, cửa sổ mất focus hoặc trang không còn hiển thị. Khóa thay đổi di chuyển, mục tiêu và ngắm trong lúc nạp. Điều khiển bàn phím của input dạng range không được đồng thời xoay tháp pháo. Lực 0 biểu thị tốc độ phóng thấp nhất, không phải viên đạn đứng yên.
-Mũi tên và các vệt gió trôi nhìn thấy cho biết hướng gió đẩy viên đạn. Gắn nhãn cường độ gió và mét trên giây; nhấp vào thẻ gió để xem giải thích. Gió thổi sang trái nghĩa là người chơi nên ngắm lệch sang phải một chút. Gió mạnh hơn và thời gian bay lâu hơn sẽ tạo độ lệch lớn hơn. Gió giữ nguyên trong suốt một phát bắn và thay đổi sau mỗi lượt. Không bao giờ tự động bù gió trong phần xem trước của người chơi. Chỉ dự đoán gần đúng điểm tiếp đất trên địa hình; không hứa hẹn va chạm với xe tăng/đá, tách cụm hay bật nảy trong phần xem trước.
-Cung cấp sáu loại đạn: HE không giới hạn; đạn chùm tách thành năm bom con rơi xuống; Seismic tạo hố rộng tối đa 28 mét và sâu 13 mét; đạn ricochet nảy hai lần; mỗi xe tăng có một viên Cataclysm, tạo hố rộng tối đa 46 mét và sâu 22 mét; và Incendiary để lại vùng lửa bán kính 12 mét. Lửa gây 8 sát thương ở cuối mỗi một trong sáu lần kết thúc hành động; ra khỏi vùng lửa sẽ tránh được sát thương và các vùng chồng lấn không cộng dồn. Nước biển dập tắt lửa. Toàn bộ xe tăng, bao gồm cả nòng đã nâng, bị loại ngay lập tức khi chìm hoàn toàn dưới nước. Hiển thị sát thương thực tế, lượng giáp mất đi, địa hình sụp lở, nước bắn và kết quả bị loại.
-Sử dụng các lớp cầu lửa, vòng xung kích mở rộng, tia lửa phát sáng, mảnh đạn đạo, bụi và khói cùng hiệu ứng rung camera tiết chế. Sử dụng nhạc và âm thanh gốc do ElevenLabs cung cấp cho pháo, va chạm, ricochet, vụ nổ lớn, lửa và nước bắn. Bao gồm nút bật/tắt âm thanh, tạm dừng/tiếp tục, hướng dẫn, chơi lại và quay về menu. Trong lúc đạn đang bay hoặc AI đang đến lượt, cung cấp tùy chọn Back to my turn: chạy nhanh mô phỏng với cùng bước thời gian cố định và giữ nguyên mọi kết quả về sát thương, địa hình và mối nguy. Không bao giờ bỏ qua lượt nhập của người chơi cục bộ.
+5. Căng thẳng, đối thủ và phần thưởng
+Cho 23 thí sinh AI có tốc độ và thời gian phản ứng độc lập. Một thí sinh phản ứng chậm ở gần phải vi phạm ngay lần đèn đỏ đầu tiên và bị bắn, qua đó thể hiện mối đe dọa mà không dàn dựng việc người chơi thua. Những sai lầm về sau kích hoạt các đợt loại trừ có giới hạn. Hướng một lính gác có vũ trang ở gần về phía từng mục tiêu thực tế, căn điểm xuất phát của phát bắn với nòng súng, hiển thị chớp lóe hình ngôi sao ngắn ở đầu nòng, vệt đạn mảnh, bụi va chạm nhẹ và cảnh ngã không mang tính đồ họa. Dùng pool hiệu ứng có thể tái sử dụng gồm tám vị trí. Dừng trong 0,34 giây cuối trước khi đèn đỏ sẽ nhận điểm dừng hoàn hảo, tăng chuỗi và hồi một ít thể lực. 18 giây cuối làm tăng cảm giác gấp gáp về âm thanh/hình ảnh. Giữ các quy tắc xác định bằng seed để kiểm thử, nhưng trong lúc chơi bình thường hãy thay đổi theo từng lượt.
 
-6. Triển khai kỹ thuật
-Sử dụng Three.js với ES modules và Vite, font được đóng gói cục bộ, Web Audio cho hiệu ứng và phần tử audio HTML cho nhạc lặp. Giữ tài nguyên cùng origin và hỗ trợ bản build tĩnh. Sử dụng renderer phối cảnh với khử răng cưa, ngân sách hợp lý cho bóng và hậu kỳ, đồng thời giải phóng đúng cách hình học/vật liệu tạm thời. Phân biệt phần trang trí của model với va chạm gameplay.
-Giữ vật lý xác định, độc lập với quá trình render, dùng đơn vị mét/giây, gia tốc trọng trường 9.81 m/s² và bước cố định 1/120 giây. Sử dụng va chạm quét liên tục cho đạn tốc độ cao với mặt đất, nước, xe tăng và đá; áp dụng xung lực vụ nổ cùng trọng lực lên xe tăng bị hất. Tính vị trí phóng từ transform nòng riêng của từng xe tăng. Chế độ phát bình thường và tua nhanh phải gọi cùng các hàm cập nhật mô phỏng. Sát thương và phản ứng với gió là luật game được cách điệu, không phải trình mô phỏng vụ nổ kỹ thuật.
-Hỗ trợ UI tiếng Trung, tiếng Anh, tiếng Nhật và tiếng Hàn. Ban đầu chọn theo ngôn ngữ thiết bị; thiết bị tại Hong Kong, Macau, Đài Loan và thiết bị dùng tiếng Trung phồn thể mặc định chọn tiếng Anh. Ghi nhớ lựa chọn rõ ràng của người dùng và cho phép hiển thị bộ chọn ngôn ngữ. Hỗ trợ bố cục desktop, điện thoại dọc và màn hình ngang thấp; menu trên màn hình ngắn có thể cuộn, vùng chạm đủ lớn, bảng điều khiển có thể thu gọn và không để các nút chồng lấn. Không yêu cầu nhập bằng bàn phím trên thiết bị cảm ứng. Đưa các hàm thay đổi state và hỗ trợ ngắm chỉ dùng khi phát triển ra khỏi bản production.
+6. Nhân vật Tripo thật và so sánh với nhân vật tạo theo quy tắc
+Mặc định dùng các tài sản GLB thật do Tripo P2 tạo: búp bê sân chơi, thí sinh màu teal với các clip xương idle/chạy/chiến thắng và một lính gác đeo mặt nạ có vũ trang. Giữ nguyên nguồn gốc của mô hình và tái sử dụng các bản gốc được cung cấp; không cần thiết thì không tạo lại tài sản tương đương. Chuẩn hóa trục hướng về phía trước, tỷ lệ và căn chỉnh bàn chân với mặt sàn. Xoay đầu búp bê độc lập. Giữ nhân vật chính được skin đầy đủ; xử lý theo lô các đối thủ ở xa bằng các instance tư thế đã bake dùng chung và bảo đảm chúng đứng im chính xác khi đèn đỏ. Cung cấp nút chuyển đổi Three.js / Tripo nổi bật ở chính giữa phía trên để thay đổi diện mạo nhân vật ngay lập tức mà không đặt lại khoảng cách, thời gian, điểm số hay ván chơi. Chế độ Three.js dùng các thí sinh, búp bê và lính gác có vũ trang được tạo từ hình học có khớp nối. Cả hai chế độ đều dùng Three.js; không được khiến người dùng hiểu rằng toàn bộ môi trường do Tripo tạo ra.
 
-7. Tiêu chí hoàn thiện
-Bàn giao source project độc lập có thể chỉnh sửa, lockfile, hướng dẫn npm dev/build và bản preview tĩnh hoạt động. Bám sát ảnh chụp màn hình và video gameplay hiện tại, bao gồm bảng trạng thái màu kem, dấu mốc tham chiếu vàng cố định, lực thực tế bắt đầu từ 0 và cách trình bày xe tăng/hòn đảo 3D hoàn toàn. Kiểm tra lần khởi chạy đầu tiên, tải model, một chu kỳ lượt hoàn chỉnh, hành vi của từng loại đạn, tạm dừng, chơi lại và kết quả thắng/thua thực tế. Xác nhận chuyển giao diện vẫn giữ nguyên state, đồng thời thao tác hủy bằng bàn phím/cảm ứng không gây khai hỏa. Trong một phát bắn kiểm thử rõ ràng khi không có gió, thả nút ở lực tham chiếu phải tiếp đất gần vòng tròn tham chiếu; gió ngang ngược chiều phải làm viên đạn thực tế lệch thấy rõ trong khi vòng tròn đó không đổi. Kiểm tra hoạt động ở 30/60/144 Hz, va chạm tốc độ cao, hố sâu, thời điểm lửa tắt, loại xe khi chìm hoàn toàn và sự tương đương kết quả lượt giữa chế độ bình thường/tua nhanh. Kiểm tra bố cục desktop và màn hình hẹp ở cả bốn ngôn ngữ; phân biệt việc giả lập trình duyệt với kiểm thử trên thiết bị thật. Xác thực trang đã triển khai và media liên kết, không chỉ bản build cục bộ.
+7. Âm thanh và khả năng tiếp cận
+Dùng Web Audio tổng hợp cho âm cảnh báo, nhịp tim căng thẳng, tiếng bước chân, tiếng súng định hướng và tiếng vọng ngắn, âm báo dừng hoàn hảo và âm thanh chiến thắng. Chỉ mở khóa âm thanh sau khi người dùng tương tác, giới hạn biên độ để tránh clipping và cung cấp tùy chọn tắt tiếng. Ý nghĩa đỏ/xanh phải được thể hiện bằng cả từ ngữ lẫn màu sắc. Cung cấp chế độ giảm chuyển động, tắt chớp sáng/rung camera nhưng vẫn giữ kết quả dễ hiểu. Hỗ trợ thao tác bằng bàn phím, phần cài đặt gọn, tạm dừng/tiếp tục và khôi phục lỗi rõ ràng. Khi tài sản bị lỗi, phải hiển thị rõ việc chuyển sang chế độ tạo theo quy tắc, giữ cho trò chơi vẫn chơi được và cung cấp tùy chọn thử lại.
+
+8. Ngôn ngữ, lưu trữ và tác giả
+Bao gồm giao diện đầy đủ bằng tiếng Anh, tiếng Trung giản thể và tiếng Tây Ban Nha. Ở lần truy cập đầu tiên, chọn ngôn ngữ trình duyệt được hỗ trợ đầu tiên, nếu không có thì dùng tiếng Anh; lưu lựa chọn thủ công trên thiết bị này. Bản địa hóa hướng dẫn, trạng thái, thể lực, lỗi và kết quả. Tiêu đề: Red Light, Green Light / 一二三，木头人 / Luz roja, luz verde. Lưu kỷ lục cá nhân trên thiết bị, không tạo bảng xếp hạng toàn cầu giả. Ghi công jared với https://x.com/jaredliu_bravo. Không cần đăng ký, thanh toán, chơi nhiều người hay tải mô hình tùy chỉnh để chơi.
+
+9. Kỹ thuật, hiệu năng và tiêu chí nghiệm thu
+Dùng dự án Vite/Three.js độc lập với lockfile và các script/font/GLB cùng nguồn được đóng gói. Không đưa API key hoặc URL ký tạm thời vào bản build. Chia sẻ texture/vật liệu, gộp kiến trúc tĩnh, dùng instance cho các đạo cụ lặp lại và tư thế đám đông, điều chỉnh linh hoạt pixel ratio và giới hạn số lần cập nhật bóng. Tách riêng logic trò chơi, bộ điều khiển đầu vào, scene, hiệu ứng chiến đấu, âm thanh, bản địa hóa và UI. Kiểm thử khả năng thắng với seed, cạn/hồi thể lực khi bứt tốc, dừng chính xác, tính công bằng của phát hiện, về đích an toàn, hết giờ/chết/chơi lại, thời gian khi tạm dừng, quyền sở hữu nhiều phím/con trỏ và bản dịch. Sau đó xác minh trên trình duyệt thật: mở trò chơi, bứt tốc, cảnh báo đèn đỏ và phát súng, chết, thắng, chơi lại, cả hai chế độ nhân vật, điều khiển dọc, âm thanh và lỗi tài nguyên. Đo thời gian khung hình thực tế thay vì tuyên bố 60 FPS chỉ dựa trên cấu hình. Tạo một bản ghi gameplay thời gian thực mượt dài 20–60 giây và ít nhất bốn ảnh chụp màn hình trạng thái thực; công khai phương thức ghi canvas/HUD. Xác minh riêng trò chơi đã triển khai cuối cùng, khả năng phát/tua trên phương tiện công khai và chính sách xem trước/tải xuống tài sản trong CMS.
 
 ```
 
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/crazy-tanks-3d-island-artillery) · [Bản demo](https://super-tanks-aftershock.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/red-light-green-light) · [Bản demo](https://red-light-green-light.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -3945,6 +3878,129 @@ So sánh trực quan tiêu đề, lúc chơi bình thường, từng vùng, bả
 
 ---
 
+<a id="crazy-tanks-3d-island-artillery"></a>
+
+### Crazy Tanks — Pháo binh đảo 3D
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-24
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/previews/7b026fd7cfcbf1398c6b77062abb333fe61e020e75b514aeab2eff40db94984e.png" width="840" loading="lazy" alt="Crazy Tanks — Pháo binh đảo 3D"></a>
+
+Ngắm bắn, đọc hướng gió và nạp lực từ 0 trong trận pháo binh trên đảo 3D hoàn toàn. Chọn một trong sáu loại đạn, tạo những hố sâu và sống sót giữa hỗn loạn ngày càng tăng.
+
+**Prompt**
+
+```text
+1. Mục tiêu dự án
+Xây dựng Crazy Tanks — Wild Tides, một game pháo binh theo lượt có thể chơi được và thực sự ba chiều trên một hòn đảo nhiệt đới. Người chơi điều khiển một xe tăng nhỏ, đọc hướng gió, canh thời điểm nạp lực từ 0 và định hình lại chiến trường bằng đạn pháo. Hỗ trợ chơi đơn đấu với AI và chơi chuyền lượt cục bộ, với chế độ mặc định ba xe tăng hỗn chiến và tùy chọn đấu tay đôi giữa hai xe. Xe tăng cuối cùng còn sống sẽ chiến thắng. Sử dụng gameplay và ảnh chụp màn hình tham chiếu hiện tại làm mục tiêu hình ảnh.
+
+2. Phong cách hình ảnh
+Sử dụng camera phối cảnh và hình học 3D có thể xoay tự do, không dùng sprite phẳng hay góc nhìn ngang cố định. Tạo một tiểu cảnh mô hình thu nhỏ dưới nắng, với các xe tăng bo tròn màu ngọc bích, cam san hô và xanh tím, cát màu kem, cỏ xanh nhạt, nước xanh ngọc phản chiếu, bóng mềm và lớp sương khí quyển nhẹ ở xa. Giữ nguyên dáng viền riêng biệt của ba xe tăng cùng các nòng pháo tương ứng. Đặt một bảng giáp/trạng thái tròn nhỏ màu kem phía trên chiến trường và một bảng điều khiển bo tròn màu xanh teal đậm bên dưới. Màu vàng biểu thị lực tham chiếu và thao tác khai hỏa; màu mint biểu thị lực nạp thực tế và trạng thái phe ta. Đặt nút chuyển giao diện Tripo / Three.js ở vị trí nổi bật phía trên, mặc định dùng asset Tripo. Khi chuyển giao diện, phải giữ nguyên trạng thái trận đấu và vật lý. Sử dụng các nét gạch teal mảnh, cách đều trong không gian màn hình và vòng tròn tiếp đất tiết chế; không phản chiếu đồ họa ngắm bắn xuống mặt nước.
+
+3. Thế giới và bối cảnh
+Sử dụng một hòn đảo địa hình độ cao có thể phá hủy, kích thước xấp xỉ 260 × 184 mét, được bao quanh bởi đại dương ở một mực nước biển cố định. Đặt các xe tăng ban đầu cách xa nhau trên nền đất ổn định; rải đá, cây cọ, xương rồng và các thùng tiếp tế có thể thu thập. Những đảo nhỏ trang trí tạo chiều sâu cho hậu cảnh và không được thay thế địa hình chính có thể phá hủy. Vụ nổ làm biến dạng bề mặt và có thể đào xuống dưới mực nước biển. Giữ màu bờ biển và bọt nước trên cùng một mặt nước để tránh các mặt phẳng chồng lấn và hiện tượng nhấp nháy. Chiếu số xe tăng từ vị trí trong thế giới ở mọi khung hình được render. Cung cấp góc nhìn toàn bộ quỹ đạo, xe tăng, xoay quanh và chiến thuật từ trên cao. Góc nhìn quỹ đạo phải đưa xe tăng khai hỏa, đường cong và điểm tiếp đất ước tính vào khoảng trống giữa HUD và bảng điều khiển. Trước mỗi phát bắn, hiển thị xe tăng khai hỏa trong khoảng 0,8 giây, dừng lại ở nòng pháo rồi bám theo đạn. Tương tác camera thủ công sẽ hủy chế độ bám theo điện ảnh.
+
+4. Danh mục asset
+Sử dụng các vị trí model ổn định và cho phép truy cập riêng từng model thay thế:
+- jade-body: thân xe tăng bánh xích màu xanh lá bo tròn, hình khiên; thân mặc định của người chơi. jade-cannon: nòng pháo jade tương ứng, có lòng nòng tối màu và điểm nhấn vàng, được điều khiển khớp độc lập.
+- ember-body: thân xe bọc giáp nhọn màu cam san hô, dáng cơ khí thấp. ember-cannon: nòng pháo màu cam dài hơn tương ứng, với đầu nòng tối màu.
+- bolt-body: thân xe bánh xích công nghiệp màu xanh tím, giáp ghép góc cạnh. bolt-cannon: nòng pháo xanh dày tương ứng.
+- shell: đạn pháo bằng đồng thau, đầu thuôn tối màu và điểm nhấn cyan. Tái sử dụng với màu và tỷ lệ riêng theo từng vũ khí.
+- crate: thùng tiếp tế bọc giáp màu vàng, ký hiệu cyan và các góc gia cố; thu thập để nhận 20 giáp, tối đa 100.
+- rock: cụm đá sa thạch bo tròn màu ấm; lặp lại với nhiều tỷ lệ khác nhau và dùng proxy va chạm riêng.
+- palm: thân cây cong và tán lá xanh nhiều lớp; lặp lại làm thảm thực vật trên đảo.
+- cactus: cây xương rồng xanh nhỏ gọn với các chi tiết hoa nhỏ; lặp lại trên địa hình khô.
+- islet: đảo nền tròn phủ cỏ, viền đá/cát màu nhạt; lặp lại ở phía ngoài đấu trường.
+Ưu tiên ba cặp thân/nòng tương ứng, sau đó đến đạn/thùng và các vật thể môi trường. Giữ biến dạng địa hình, đại dương, bọt nước, lửa, khói, sóng xung kích, mảnh vỡ, đồ họa ngắm bắn, ánh sáng, UI và proxy va chạm ở dạng thủ tục. Các bộ phận thân và nòng tương ứng dùng chung một thiết kế tham chiếu và tỷ lệ. Đặt pivot của nòng tại khớp cơ khí, căn trục trước theo +X và dùng đầu nòng hiển thị làm điểm phóng vật lý. Thân xe bám theo độ dốc bằng quaternion; hướng ngắm của tháp pháo vẫn là hướng trong không gian thế giới. Giữ nguyên texture PBR nguồn và các đường nối UV. Tách model tải xuống ở độ phân giải đầy đủ khỏi bản sao tối ưu hóa cho runtime game; thông tin tham chiếu và nguồn gốc file phải xác định đúng nguồn tạo.
+
+5. Gameplay và phản hồi
+Mỗi xe tăng còn hoạt động nhận 18 mét quãng đường di chuyển khi lượt bắt đầu. WASD và pad di chuyển theo tương quan với màn hình; phím mũi tên và pad ngắm điều chỉnh phương vị và góc nâng. Thanh trượt cung cấp phương vị, góc nâng 10–80 độ và lực tham chiếu 0–100. Chọn đối thủ chỉ khiến xe quay mặt về phía đó; không được tự giải bài toán bắn.
+Cung teal ước tính lực tham chiếu đã chọn khi KHÔNG có gió. Giữ cố định mức tham chiếu và dấu mốc vàng trong lúc nạp. Nhấn giữ Fire, Space hoặc Enter trên nút Fire đang được focus để bắt đầu lực thực tế từ 0 mỗi lần; tăng 18 điểm phần trăm mỗi giây, giữ ở mức 100 và chỉ khai hỏa đúng một lần khi thả nút, sử dụng lực thực tế tại thời điểm đó. Chạm nhanh sẽ bắn một phát yếu. Dải vàng trong phạm vi 3 điểm phần trăm chỉ là phản hồi hình ảnh, không tự làm tròn hay hiệu chỉnh ngầm. Hủy khi con trỏ bị hủy, cửa sổ mất focus hoặc trang không còn hiển thị. Khóa thay đổi di chuyển, mục tiêu và ngắm trong lúc nạp. Điều khiển bàn phím của input dạng range không được đồng thời xoay tháp pháo. Lực 0 biểu thị tốc độ phóng thấp nhất, không phải viên đạn đứng yên.
+Mũi tên và các vệt gió trôi nhìn thấy cho biết hướng gió đẩy viên đạn. Gắn nhãn cường độ gió và mét trên giây; nhấp vào thẻ gió để xem giải thích. Gió thổi sang trái nghĩa là người chơi nên ngắm lệch sang phải một chút. Gió mạnh hơn và thời gian bay lâu hơn sẽ tạo độ lệch lớn hơn. Gió giữ nguyên trong suốt một phát bắn và thay đổi sau mỗi lượt. Không bao giờ tự động bù gió trong phần xem trước của người chơi. Chỉ dự đoán gần đúng điểm tiếp đất trên địa hình; không hứa hẹn va chạm với xe tăng/đá, tách cụm hay bật nảy trong phần xem trước.
+Cung cấp sáu loại đạn: HE không giới hạn; đạn chùm tách thành năm bom con rơi xuống; Seismic tạo hố rộng tối đa 28 mét và sâu 13 mét; đạn ricochet nảy hai lần; mỗi xe tăng có một viên Cataclysm, tạo hố rộng tối đa 46 mét và sâu 22 mét; và Incendiary để lại vùng lửa bán kính 12 mét. Lửa gây 8 sát thương ở cuối mỗi một trong sáu lần kết thúc hành động; ra khỏi vùng lửa sẽ tránh được sát thương và các vùng chồng lấn không cộng dồn. Nước biển dập tắt lửa. Toàn bộ xe tăng, bao gồm cả nòng đã nâng, bị loại ngay lập tức khi chìm hoàn toàn dưới nước. Hiển thị sát thương thực tế, lượng giáp mất đi, địa hình sụp lở, nước bắn và kết quả bị loại.
+Sử dụng các lớp cầu lửa, vòng xung kích mở rộng, tia lửa phát sáng, mảnh đạn đạo, bụi và khói cùng hiệu ứng rung camera tiết chế. Sử dụng nhạc và âm thanh gốc do ElevenLabs cung cấp cho pháo, va chạm, ricochet, vụ nổ lớn, lửa và nước bắn. Bao gồm nút bật/tắt âm thanh, tạm dừng/tiếp tục, hướng dẫn, chơi lại và quay về menu. Trong lúc đạn đang bay hoặc AI đang đến lượt, cung cấp tùy chọn Back to my turn: chạy nhanh mô phỏng với cùng bước thời gian cố định và giữ nguyên mọi kết quả về sát thương, địa hình và mối nguy. Không bao giờ bỏ qua lượt nhập của người chơi cục bộ.
+
+6. Triển khai kỹ thuật
+Sử dụng Three.js với ES modules và Vite, font được đóng gói cục bộ, Web Audio cho hiệu ứng và phần tử audio HTML cho nhạc lặp. Giữ tài nguyên cùng origin và hỗ trợ bản build tĩnh. Sử dụng renderer phối cảnh với khử răng cưa, ngân sách hợp lý cho bóng và hậu kỳ, đồng thời giải phóng đúng cách hình học/vật liệu tạm thời. Phân biệt phần trang trí của model với va chạm gameplay.
+Giữ vật lý xác định, độc lập với quá trình render, dùng đơn vị mét/giây, gia tốc trọng trường 9.81 m/s² và bước cố định 1/120 giây. Sử dụng va chạm quét liên tục cho đạn tốc độ cao với mặt đất, nước, xe tăng và đá; áp dụng xung lực vụ nổ cùng trọng lực lên xe tăng bị hất. Tính vị trí phóng từ transform nòng riêng của từng xe tăng. Chế độ phát bình thường và tua nhanh phải gọi cùng các hàm cập nhật mô phỏng. Sát thương và phản ứng với gió là luật game được cách điệu, không phải trình mô phỏng vụ nổ kỹ thuật.
+Hỗ trợ UI tiếng Trung, tiếng Anh, tiếng Nhật và tiếng Hàn. Ban đầu chọn theo ngôn ngữ thiết bị; thiết bị tại Hong Kong, Macau, Đài Loan và thiết bị dùng tiếng Trung phồn thể mặc định chọn tiếng Anh. Ghi nhớ lựa chọn rõ ràng của người dùng và cho phép hiển thị bộ chọn ngôn ngữ. Hỗ trợ bố cục desktop, điện thoại dọc và màn hình ngang thấp; menu trên màn hình ngắn có thể cuộn, vùng chạm đủ lớn, bảng điều khiển có thể thu gọn và không để các nút chồng lấn. Không yêu cầu nhập bằng bàn phím trên thiết bị cảm ứng. Đưa các hàm thay đổi state và hỗ trợ ngắm chỉ dùng khi phát triển ra khỏi bản production.
+
+7. Tiêu chí hoàn thiện
+Bàn giao source project độc lập có thể chỉnh sửa, lockfile, hướng dẫn npm dev/build và bản preview tĩnh hoạt động. Bám sát ảnh chụp màn hình và video gameplay hiện tại, bao gồm bảng trạng thái màu kem, dấu mốc tham chiếu vàng cố định, lực thực tế bắt đầu từ 0 và cách trình bày xe tăng/hòn đảo 3D hoàn toàn. Kiểm tra lần khởi chạy đầu tiên, tải model, một chu kỳ lượt hoàn chỉnh, hành vi của từng loại đạn, tạm dừng, chơi lại và kết quả thắng/thua thực tế. Xác nhận chuyển giao diện vẫn giữ nguyên state, đồng thời thao tác hủy bằng bàn phím/cảm ứng không gây khai hỏa. Trong một phát bắn kiểm thử rõ ràng khi không có gió, thả nút ở lực tham chiếu phải tiếp đất gần vòng tròn tham chiếu; gió ngang ngược chiều phải làm viên đạn thực tế lệch thấy rõ trong khi vòng tròn đó không đổi. Kiểm tra hoạt động ở 30/60/144 Hz, va chạm tốc độ cao, hố sâu, thời điểm lửa tắt, loại xe khi chìm hoàn toàn và sự tương đương kết quả lượt giữa chế độ bình thường/tua nhanh. Kiểm tra bố cục desktop và màn hình hẹp ở cả bốn ngôn ngữ; phân biệt việc giả lập trình duyệt với kiểm thử trên thiết bị thật. Xác thực trang đã triển khai và media liên kết, không chỉ bản build cục bộ.
+
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/crazy-tanks-3d-island-artillery) · [Bản demo](https://super-tanks-aftershock.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="battle-city-3d"></a>
+
+### Battle City 3D: Phòng thủ xe tăng vô tận
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-22
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/battle-city-3d"><img src="../assets/previews/e9180abfae92dc2319bb9b62f6ee89602336de5599b5f1c98f0feffeda618cdb.png" width="840" loading="lazy" alt="Battle City 3D: Phòng thủ xe tăng vô tận"></a>
+
+Bảo vệ đại bàng trên những chiến trường cỏ, tuyết và công nghiệp bất tận, hoặc trong 35 bản đồ kinh điển. Thu thập mười vật tư và đánh bại những xe tăng hạng nặng của địch—chúng cần trúng bốn phát mới bị tiêu diệt.
+
+**Prompt**
+
+```text
+1. Mục tiêu dự án
+Xây dựng Battle City 3D, một game phòng thủ bằng xe tăng trên trình duyệt, lấy cảm hứng từ phiên bản Famicom kinh điển năm 1985. Người chơi điều khiển xe tăng, tiêu diệt một đợt 20 kẻ địch, thu thập vật phẩm tiếp tế và bảo vệ sở chỉ huy đại bàng. Tái dựng phiên bản 3D phối cảnh hiện tại như trong tư liệu tham chiếu, bao gồm chiến dịch vô tận có seed và 35 bố cục kinh điển có thể chọn. Giữ nguyên luật arcade dễ nắm bắt, đồng thời tạo chiều sâu thực cho xe tăng, tường và cảnh vật.
+
+2. Phong cách hình ảnh
+Sử dụng Three.js PerspectiveCamera với trường nhìn 60 độ. Góc nhìn mặc định trên chiến trường đặt phía sau và cao hơn người chơi, cách khoảng 13 đơn vị thế giới ở độ cao 0,43 radian. Bám mượt theo vị trí và một điểm phía trước xe tăng; không tự động xoay camera khi xe tăng đổi hướng. Cung cấp góc nhìn chiến thuật cao hơn, xoay camera thủ công bằng thao tác kéo và phóng to bằng con lăn. Sử dụng bốn trục chính của bản đồ cho việc di chuyển và bắn. Sau khi xoay camera, ánh xạ các phím định hướng tới hướng chính gần nhất xét theo camera; không bao giờ biến thao tác bàn phím thành di chuyển chéo. Cập nhật ngay hướng thân xe để khớp với hướng bắn, đồng thời căn chỉnh độ cao của đạn và tia chớp đầu nòng theo khẩu pháo thực tế của từng mẫu xe.
+Sử dụng xe tăng bánh xích bám mặt đất, tháp pháo kim loại, gạch đất nung, khối thép tối màu, nước xanh, thảm thực vật thấp và băng phản chiếu. Kéo dài mặt đất vượt ra ngoài khu vực chơi, tiếp nối bằng cây cối, các tòa nhà đổ nát và màn sương. Dùng ánh sáng định hướng ấm, bóng mềm, ánh sáng môi trường bổ trợ, tone mapping ACES cùng hiệu ứng chớp đầu nòng, giật lùi, tia lửa và mảnh vỡ nảy ở mức tiết chế. Tuyết thay đổi bảng màu mặt đất và cây cối; các màn công nghiệp ưu tiên thép và những tòa nhà đổ nát.
+Đóng khung game bằng giao diện điều khiển màu xanh ô-liu tối, hành động chính màu vàng ấm, điểm số, số mạng dùng chung, biểu tượng kẻ địch còn lại, tên màn và radar. Đặt nút chuyển mô hình Tripo 3D / Three.js lớn phía trên chiến trường, hiển thị chế độ đang chọn và bản xem trước xe tăng xoay. Sử dụng hướng dẫn vật phẩm tiếp tế minh họa đã bản địa hóa cùng các chỉ báo hiệu ứng theo thời gian. Giữ khu vực chơi và các điều khiển cảm ứng thiết yếu hiển thị trên màn hình hẹp.
+
+3. Thế giới và cảnh
+Biểu diễn chiến trường dưới dạng lưới 26 × 26 ô, với nửa bề rộng va chạm của xe tăng là 0,72. Đặt đại bàng tại (13,25), bao quanh bằng hệ phòng thủ gạch hình chữ U có thể phá hủy. Vị trí xuất hiện của người chơi là (9,25) và (17,25); cổng kẻ địch là (1,1), (13,1) và (25,1).
+Cung cấp hai chiến dịch: toàn bộ 35 bố cục kinh điển với bảng đợt 20 kẻ địch tương ứng, và trình tạo vô tận dựa trên seed, luân phiên các biome đồng cỏ, tuyết và công nghiệp. Tạo các hành lang liên thông đủ rộng cho toàn bộ thân xe, với lối nối có thể đi qua giữa vị trí xuất hiện của người chơi, cổng kẻ địch và các vị trí vật phẩm. Bổ sung vật cản thép ở trung tâm theo kiểu so le để ngăn làn bắn thẳng từ điểm xuất hiện tới đại bàng, nhưng vẫn giữ lối đi ngang giữa các phố. Cho phép chọn biome bắt đầu hoặc màn kinh điển, cũng như tạo lại một bản đồ ngẫu nhiên. Mang seed lượt chơi, điểm số, số mạng và nâng cấp của người chơi còn sống sang màn tiếp theo.
+Gạch có thể phá hủy; khối thép chặn đạn thường và xe tăng; nước chặn xe tăng nhưng cho đạn đi qua; thảm thực vật che khuất mẫu kẻ địch; băng làm giảm độ bám. Giữ môi trường ở xa chỉ mang tính trang trí, tách biệt khỏi va chạm gameplay.
+
+4. Danh mục tài sản
+Sử dụng các slot mô hình 3D ổn định, có thể thay thế độc lập sau đây. Ưu tiên người chơi, kẻ địch, xe tăng hạng nặng và đại bàng, sau đó là toàn bộ mười mẫu vật phẩm tiếp tế. Đặt chân mỗi tài sản tại điểm thấp nhất, đồng thời chuẩn hóa hướng, tâm và tỷ lệ. Tái sử dụng template thay vì tải một mô hình cho từng kẻ địch.
+- player: xe tăng bánh xích màu vàng mù tạt, có tháp pháo dễ nhận biết và pháo hướng về phía trước; dùng cho xe tăng người chơi, với màu vòng riêng cho người chơi thứ hai.
+- enemy: xe tăng địch bánh xích nhỏ gọn, tái sử dụng với các sắc màu khác nhau cho biến thể cơ bản, nhanh và mạnh.
+- heavy: xe tăng bọc thép rõ ràng nặng hơn, dùng mesh riêng với kẻ địch tiêu chuẩn, bên trên có bốn đoạn giáp nhìn thấy được.
+- eagle: tượng đại bàng vàng kim loại trên bệ sở chỉ huy.
+- pickup-star: ngôi sao nâng cấp vàng năm cánh.
+- pickup-helmet: mũ bảo hộ quân sự dùng để tạo lá chắn tạm thời.
+- pickup-clock: đồng hồ dễ nhận biết dùng để đóng băng chuyển động của kẻ địch.
+- pickup-shovel: xẻng dùng để gia cố sở chỉ huy.
+- pickup-life: xe tăng thu nhỏ đại diện cho một mạng thêm.
+- pickup-grenade: lựu đạn cầm tay dùng để tiêu diệt kẻ địch đang hoạt động.
+- pickup-ammo: thùng đạn dùng để bắn nhanh.
+- pickup-repair: hộp dụng cụ sửa chữa dùng để phục hồi giáp.
+- pickup-magnet: nam châm móng ngựa dùng để thu thập vật phẩm từ xa.
+- pickup-boost: pin năng lượng dùng để tăng tốc tạm thời.
+- environment-building: tòa nhà căn hộ đổ nát, phong hóa, Tripo P2.0, ngân sách yêu cầu 1.800 tam giác.
+- environment-tree: cây thông không đều, có thân cây nhìn thấy rõ, Tripo P2.0, ngân sách yêu cầu 1.100 tam giác.
+- environment-bush: bụi cây lá thấp và các cụm cỏ, Tripo P2.0, ngân sách yêu cầu 650 tam giác.
+Hiển thị vật phẩm tiếp tế dưới dạng mô hình có thể nhặt, xoay và lơ lửng, với vòng màu và ảnh thu nhỏ hướng dẫn tương ứng. Hiển thị các tòa nhà, cây và bụi lặp lại bằng các instance hình học/vật liệu dùng chung. Đặt gốc tòa nhà và cây chạm mặt đất; chôn nhẹ phần đáy bụi cây để hòa vào địa hình. Thêm tuyết trên các bề mặt hướng lên trong màn tuyết. Giữ tường theo ô, nước, băng, mesh đạn, UI, đèn, hạt và proxy va chạm ở dạng tạo bằng code. Tạo hoạt ảnh nước bằng sóng chảy trong không gian thế giới, pháp tuyến thay đổi và độ dịch chuyển bề mặt nhỏ, liên tục giữa các ô liền kề. Phiên bản Tripo sử dụng 17 mô hình được tạo; phiên bản so sánh chuyển cả xe tăng lẫn môi trường sang hình học dựng bằng code với cùng luật chơi và va chạm. Cả hai đều được render bằng Three.js.
+
+5. Gameplay và phản hồi
+Hỗ trợ chơi đơn và co-op cục bộ hai người với tổng cộng ba mạng dùng chung. Chơi đơn dùng WASD hoặc phím mũi tên và Space/J để bắn. Trong co-op, người chơi một dùng WASD và Space/J; người chơi hai dùng phím mũi tên và Enter/Numpad 0. P/Escape để tạm dừng; C đổi camera; 1/2 chọn chế độ mô hình. Trên màn hình cảm ứng, cho phép giữ đồng thời nút điều hướng và nút bắn, giải phóng thao tác khi con trỏ bị hủy, đồng thời hiển thị các hành động tạm dừng, tiếp tục, sang màn kế tiếp và chơi lại mà không cần cuộn.
+Tốc độ người chơi là 4,2 đơn vị mỗi giây, hoặc 6,3 khi tăng tốc. Kẻ địch gồm loại cơ bản, nhanh, mạnh và hạng nặng; xe tăng hạng nặng có bốn điểm trúng đạn và sống sót sau ba lần trúng đạn đầu tiên khi không có lá chắn. Dùng tối đa bốn kẻ địch đồng thời trong chơi đơn và sáu trong co-op, xuất hiện theo từng đợt lệch nhau. Tiêu diệt từng loại lần lượt được 100, 200, 300 hoặc 400 điểm; nhặt bất kỳ vật phẩm tiếp tế nào được 500 điểm. Hoàn thành màn sau khi tiêu diệt 20 kẻ địch. Thua khi đại bàng bị phá hủy hoặc tổng mạng dùng chung cạn và không còn người chơi nào sống sót. Cung cấp tùy chọn chơi lại ngay, tiến trình sang màn kế tiếp rõ ràng và điểm cao nhất được lưu cục bộ.
+Triển khai đủ mười loại vật phẩm tiếp tế: ngôi sao nâng cấp qua ba cấp (đạn nhanh hơn, hai viên đạn đồng thời, rồi đạn phá thép); mũ tạo lá chắn trong 12 giây; đồng hồ đóng băng kẻ địch trong 9 giây; xẻng gia cố căn cứ trong 16 giây; xe tăng mini thêm một mạng; lựu đạn tiêu diệt kẻ địch đang hoạt động; đạn dược cho phép bắn nhanh trong 14 giây với tối đa bốn viên đạn đang hoạt động; sửa chữa thêm hai điểm giáp, tối đa ba điểm; nam châm thu thập vật phẩm đang nhìn thấy trong phạm vi năm đơn vị suốt 20 giây; tăng tốc kéo dài 12 giây. Mô hình vật phẩm tiếp tế tồn tại 25 giây và xuất hiện tại các vị trí có thể tiếp cận, với một bộ bài được xáo trộn để thay đổi loại vật phẩm. Việc thu thập bằng nam châm phải tuân thủ các vật cản đặc.
+Sử dụng các sample kiểu NES đã thu thập cho đoạn mở màn dài 4,333 giây, tiếng bắn, tiếng di chuyển và không hoạt động, va chạm với gạch/thép, vụ nổ của kẻ địch/người chơi, xuất hiện và thu thập vật phẩm tiếp tế, mạng thêm, trúng giáp, băng, tạm dừng và game over. Dự án hiện tại sử dụng 15 cue OGG từ JustoSenka/BattleCity, commit 3a07004ba8e53baea74ff70d2ecc22b017eb9b20. Giữ nguyên thông tin ghi công và thông báo giấy phép của repository; mô tả chúng là âm thanh remake được thu thập, không tuyên bố đây là bản thu phần cứng chính xác tuyệt đối từng bit. Mở khóa âm thanh sau thao tác của người dùng, căn chỉnh gain của sample, cung cấp điều khiển âm lượng/tắt tiếng và đồng bộ âm thanh với sự kiện. Không thêm nhạc chiến đấu liên tục không liên quan.
+
+6. Triển khai kỹ thuật
+Sử dụng TypeScript, Three.js 0.180.0 và Vite 7, với package.json và lockfile độc lập. Giữ mô phỏng độc lập với render, chạy ở 120 Hz. Dùng AABB đặc cho thân xe, chuyển động tách theo trục, xử lý biên và tách các xe tăng, cùng quét liên tục theo tiếp xúc gần nhất của đạn, bao gồm va chạm do chuyển động tương đối giữa các viên đạn đối địch. Đạn xuất phát từ thân xe và quét về phía trước để ngăn xuyên tường ở cự ly cực gần. Thêm gia tốc/giảm tốc trên băng và trọng lực với các cú nảy giảm dần cho mảnh vỡ. Đây là vật lý mặt đất kiểu arcade, không phải mô phỏng hệ thống treo.
+Tải tài sản GLB cùng nguồn qua GLTFLoader. Giữ proxy va chạm độc lập với hình học tài sản. Runtime hiện tại sử dụng thuộc tính lượng tử hóa và texture WebP (1024 px cho xe và căn cứ; 512 px cho vật phẩm tiếp tế và môi trường), không đơn giản hóa hình học và không dùng bộ giải mã WASM. Giới hạn tải ở bốn worker, sử dụng URL có phiên bản theo hash và các range 256 KiB với thời gian chờ 20 giây, tối đa ba lần thử cho mỗi range. Mở khóa chơi sau khi bốn mô hình cốt lõi và âm thanh đã sẵn sàng; tải tài sản vật phẩm tiếp tế và môi trường ở chế độ nền, chỉ tạo những loại vật phẩm có mô hình đã sẵn sàng. Việc chuyển chế độ mô hình phải giữ nguyên trạng thái gameplay.
+Cung cấp UI bằng tiếng Anh, tiếng Trung giản thể, tiếng Nhật và tiếng Hàn. Chọn mặc định theo ngôn ngữ thiết bị, ngoại trừ zh-TW, zh-HK, zh-MO và zh-Hant mặc định là tiếng Anh; lưu lựa chọn ngôn ngữ rõ ràng của người dùng. Hỗ trợ bàn phím, con trỏ trên máy tính và cảm ứng đa điểm, đồng thời tạm dừng khi mất focus. Giữ toàn bộ tài sản, thông tin ghi công và script có thể tái tạo cục bộ trong project nguồn, đồng thời đóng gói thư mục dist tĩnh không chứa thông tin xác thực riêng tư hoặc phụ thuộc backend runtime.
+
+7. Tiêu chí hoàn thành
+Bàn giao source có thể chỉnh sửa, nguồn gốc tài sản và thông báo giấy phép, quy trình phát triển/build bằng npm cùng bản preview tĩnh có thể chơi được. Xác minh scene Tripo mặc định, phần so sánh mô hình, tất cả biome, xe tăng hạng nặng chịu đủ bốn lần trúng đạn, mọi hiệu ứng vật phẩm tiếp tế, tạm dừng/tiếp tục, thất bại/chơi lại và tiến trình màn. Kiểm thử 1.000 bản đồ có seed về khả năng kết nối theo bề rộng thân xe và vị trí xuất hiện an toàn, cùng toàn bộ bản đồ kinh điển, hiện tượng xuyên tường, bắn chéo, tách xe tăng, quán tính trên băng, thao tác tương đối với camera ở nhiều góc yaw và chuyển chế độ có bảo toàn trạng thái. Xác thực UI đã bản địa hóa và điều khiển hai ngón trên màn hình hẹp, không tuyên bố đã kiểm thử trên thiết bị thật nếu chỉ dùng mô phỏng. So sánh các frame bắt đầu và giao chiến thực tế với hình ảnh/video tham chiếu; xác nhận cả 17 mô hình và 15 cue âm thanh đều tải được. Xuất bản qua quy trình CMS Web Page hiện có và xác minh trang công khai cuối cùng, thay vì xem một bản ghi CMS đã lưu là triển khai hoàn tất.
+
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/battle-city-3d) · [Bản demo](https://battle-city-3d.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="jelly-villa"></a>
 
 ### Biệt thự Thạch rau câu
@@ -4009,62 +4065,6 @@ Xuất bản prompt jelly-villa mới, ghi công jared, ghi tác giả gốc tro
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/jelly-villa) · [Bản demo](https://jelly-villa.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="red-light-green-light"></a>
-
-### Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D
-
-[jared](https://x.com/jaredliu_bravo) · 2026-10-12
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/red-light-green-light"><img src="../assets/previews/f0cd12ce7ed0dc81cf023e84cfc2e428e21400ed984c6e6405b89eec2d6158ac.webp" width="840" loading="lazy" alt="Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/red-light-green-light"><img src="../assets/previews/385d9e2014a3f7ad5f57382f100f391f741e59e4d1bde729dd9811d6e1f8fdf8.webp" width="840" loading="lazy" alt="Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/red-light-green-light"><img src="../assets/previews/0f2cc98d286c448c959255fae28afea86dc8ee7a516410e2c27e6fb5c3bca23b.webp" width="840" loading="lazy" alt="Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/red-light-green-light"><img src="../assets/previews/288746ae7c32efddbfb5b8455af62b45358f51901856ac884452f990ae10196c.webp" width="840" loading="lazy" alt="Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/red-light-green-light"><img src="../assets/previews/04114d42ef8ceeef1a9cdb52e7c3a92f74c84ccd1615428ba180a52b597736b0.webp" width="840" loading="lazy" alt="Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/red-light-green-light"><img src="../assets/previews/4a418cd1973a7b18131f58ad925c2f6423d5627181a16ad5a4b743beaa5033f6.webp" width="840" loading="lazy" alt="Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D"></a>
-
-Đua với búp bê khổng lồ và những lính gác có vũ trang trong trò chơi dừng–chạy nghẹt thở kéo dài 42 giây. Bứt tốc, quản lý thể lực, đứng im khi đèn đỏ và so sánh các nhân vật tạo theo quy tắc với mô hình Tripo thật.
-
-**Prompt**
-
-```text
-1. Mục tiêu dự án
-Xây dựng Red Light, Green Light, một trò chơi sinh tồn 3D một người chơi trong sân chơi, lấy cảm hứng từ thử thách dừng–chạy quen thuộc. Người chơi là thí sinh 456, đua với 23 thí sinh AI cục bộ trong đấu trường dài 62 mét và hoàn thành trong 42 giây. Giữ một phím hoặc nút duy nhất để tiến lên; thả ra là dừng ngay lập tức. Mỗi lượt chỉ có một mạng. Hãy tạo trò chơi có thể chơi được, không phải bản mô phỏng hay cảnh quay dựng sẵn. Đây là trò chơi độc lập, không phải sản phẩm liên kết chính thức với chương trình truyền hình.
-
-2. Định hướng hình ảnh và phân cấp màn hình
-Dùng Three.js với góc nhìn điện ảnh từ ngôi thứ ba: cát ấm màu bụi, tường hồng phai cao với các mảng chân tường xanh bạc hà và đồi vẽ trang trí, tháp canh, cây trơ cành, búp bê khổng lồ màu cam–vàng phía sau vạch đích, các bộ đồ thể thao màu xanh teal và lính gác đeo mặt nạ màu hồng. Ánh sáng vàng định hướng, bóng tiếp xúc mềm, sương mù vừa phải, vạch làn bằng phấn và một lớp bụi thưa tạo chiều sâu mà không cần hậu kỳ nặng. Đấu trường phải lấp đầy khung nhìn. Đặt tiêu đề dễ nhận biết ở góc dưới bên trái màn hình mở đầu và giữ phần hướng dẫn ngắn gọn. Khi chơi, hiển thị bộ đếm thời gian/số người còn sống nhỏ gọn, tín hiệu màu và chữ ở trung tâm, tiến độ cùng một nút nhấn-giữ để chạy. Không thay thế phần chơi bằng các bảng chữ quá lớn. Điều chỉnh bố cục dọc mà không kéo giãn khung nhìn 3D.
-
-3. Di chuyển, bứt tốc và phán định dừng
-Giữ Space, W, phím mũi tên lên hoặc nút chạy để di chuyển. A/D hoặc mũi tên trái/phải dùng để điều hướng nhưng không bắt buộc. Giữ Shift để bứt tốc; trên màn hình cảm ứng, giữ nút rồi vuốt lên hơn 38 pixel để bứt tốc, đồng thời kéo ngang để điều hướng. Tốc độ thường là 3,6 mét/giây; tốc độ bứt tốc là 5,65 mét/giây trước các phần thưởng chuỗi nhỏ. Bứt tốc làm tiêu hao thể lực; dừng lại sẽ hồi thể lực. Khi kiệt sức, không thể bứt tốc cho đến khi thể lực hồi đủ. Thả lệnh tiến sẽ dừng ngay lập tức, không có quán tính ẩn. Hủy mọi chuyển động/bứt tốc khi tạm dừng, mất tiêu điểm, thay giao diện ngôn ngữ, chuyển kiểu renderer, chơi lại và ở trạng thái kết thúc. Theo dõi chính xác nhiều phím được nhấn đồng thời và một con trỏ đang hoạt động.
-
-4. Nhịp độ và hệ quả của ván chơi
-Triển khai các trạng thái sẵn sàng, đếm ngược, đang chơi, tạm dừng, hấp hối, thua và thắng. Đếm ngược ba giây bắt đầu một ván kéo dài 42 giây. Luân phiên các khoảng chạy màu xanh lá, cảnh báo chuyển màu hổ phách hiển thị rõ ràng và giai đoạn giám sát màu đỏ. Khoảng xanh đầu tiên kéo dài 3,4 giây; các khoảng xanh sau thay đổi và ngắn dần khi ván tiến triển. Màu hổ phách kéo dài 0,65–0,95 giây và không bao giờ biến mất mà không cảnh báo. Màu đỏ kéo dài khoảng 2,1–3,35 giây. Búp bê bắt đầu quay trong giai đoạn hổ phách và đối mặt với các thí sinh khi đèn đỏ. Sau một khoảng ân hạn ngắn khi đèn đỏ chuyển trạng thái, chuyển động tiếp diễn sẽ làm đầy chỉ báo phát hiện hiển thị trên màn hình và kích hoạt phát súng của lính gác. Không được ngẫu nhiên hạ người chơi đang đứng yên. Hết giờ cũng loại người chơi. Hiển thị chuỗi camera trúng đạn/ngã ngắn 1,65 giây trước khi hiện kết quả, sau đó cho chơi lại ngay lập tức. Vượt qua vạch đích là an toàn.
-
-5. Căng thẳng, đối thủ và phần thưởng
-Cho 23 thí sinh AI có tốc độ và thời gian phản ứng độc lập. Một thí sinh phản ứng chậm ở gần phải vi phạm ngay lần đèn đỏ đầu tiên và bị bắn, qua đó thể hiện mối đe dọa mà không dàn dựng việc người chơi thua. Những sai lầm về sau kích hoạt các đợt loại trừ có giới hạn. Hướng một lính gác có vũ trang ở gần về phía từng mục tiêu thực tế, căn điểm xuất phát của phát bắn với nòng súng, hiển thị chớp lóe hình ngôi sao ngắn ở đầu nòng, vệt đạn mảnh, bụi va chạm nhẹ và cảnh ngã không mang tính đồ họa. Dùng pool hiệu ứng có thể tái sử dụng gồm tám vị trí. Dừng trong 0,34 giây cuối trước khi đèn đỏ sẽ nhận điểm dừng hoàn hảo, tăng chuỗi và hồi một ít thể lực. 18 giây cuối làm tăng cảm giác gấp gáp về âm thanh/hình ảnh. Giữ các quy tắc xác định bằng seed để kiểm thử, nhưng trong lúc chơi bình thường hãy thay đổi theo từng lượt.
-
-6. Nhân vật Tripo thật và so sánh với nhân vật tạo theo quy tắc
-Mặc định dùng các tài sản GLB thật do Tripo P2 tạo: búp bê sân chơi, thí sinh màu teal với các clip xương idle/chạy/chiến thắng và một lính gác đeo mặt nạ có vũ trang. Giữ nguyên nguồn gốc của mô hình và tái sử dụng các bản gốc được cung cấp; không cần thiết thì không tạo lại tài sản tương đương. Chuẩn hóa trục hướng về phía trước, tỷ lệ và căn chỉnh bàn chân với mặt sàn. Xoay đầu búp bê độc lập. Giữ nhân vật chính được skin đầy đủ; xử lý theo lô các đối thủ ở xa bằng các instance tư thế đã bake dùng chung và bảo đảm chúng đứng im chính xác khi đèn đỏ. Cung cấp nút chuyển đổi Three.js / Tripo nổi bật ở chính giữa phía trên để thay đổi diện mạo nhân vật ngay lập tức mà không đặt lại khoảng cách, thời gian, điểm số hay ván chơi. Chế độ Three.js dùng các thí sinh, búp bê và lính gác có vũ trang được tạo từ hình học có khớp nối. Cả hai chế độ đều dùng Three.js; không được khiến người dùng hiểu rằng toàn bộ môi trường do Tripo tạo ra.
-
-7. Âm thanh và khả năng tiếp cận
-Dùng Web Audio tổng hợp cho âm cảnh báo, nhịp tim căng thẳng, tiếng bước chân, tiếng súng định hướng và tiếng vọng ngắn, âm báo dừng hoàn hảo và âm thanh chiến thắng. Chỉ mở khóa âm thanh sau khi người dùng tương tác, giới hạn biên độ để tránh clipping và cung cấp tùy chọn tắt tiếng. Ý nghĩa đỏ/xanh phải được thể hiện bằng cả từ ngữ lẫn màu sắc. Cung cấp chế độ giảm chuyển động, tắt chớp sáng/rung camera nhưng vẫn giữ kết quả dễ hiểu. Hỗ trợ thao tác bằng bàn phím, phần cài đặt gọn, tạm dừng/tiếp tục và khôi phục lỗi rõ ràng. Khi tài sản bị lỗi, phải hiển thị rõ việc chuyển sang chế độ tạo theo quy tắc, giữ cho trò chơi vẫn chơi được và cung cấp tùy chọn thử lại.
-
-8. Ngôn ngữ, lưu trữ và tác giả
-Bao gồm giao diện đầy đủ bằng tiếng Anh, tiếng Trung giản thể và tiếng Tây Ban Nha. Ở lần truy cập đầu tiên, chọn ngôn ngữ trình duyệt được hỗ trợ đầu tiên, nếu không có thì dùng tiếng Anh; lưu lựa chọn thủ công trên thiết bị này. Bản địa hóa hướng dẫn, trạng thái, thể lực, lỗi và kết quả. Tiêu đề: Red Light, Green Light / 一二三，木头人 / Luz roja, luz verde. Lưu kỷ lục cá nhân trên thiết bị, không tạo bảng xếp hạng toàn cầu giả. Ghi công jared với https://x.com/jaredliu_bravo. Không cần đăng ký, thanh toán, chơi nhiều người hay tải mô hình tùy chỉnh để chơi.
-
-9. Kỹ thuật, hiệu năng và tiêu chí nghiệm thu
-Dùng dự án Vite/Three.js độc lập với lockfile và các script/font/GLB cùng nguồn được đóng gói. Không đưa API key hoặc URL ký tạm thời vào bản build. Chia sẻ texture/vật liệu, gộp kiến trúc tĩnh, dùng instance cho các đạo cụ lặp lại và tư thế đám đông, điều chỉnh linh hoạt pixel ratio và giới hạn số lần cập nhật bóng. Tách riêng logic trò chơi, bộ điều khiển đầu vào, scene, hiệu ứng chiến đấu, âm thanh, bản địa hóa và UI. Kiểm thử khả năng thắng với seed, cạn/hồi thể lực khi bứt tốc, dừng chính xác, tính công bằng của phát hiện, về đích an toàn, hết giờ/chết/chơi lại, thời gian khi tạm dừng, quyền sở hữu nhiều phím/con trỏ và bản dịch. Sau đó xác minh trên trình duyệt thật: mở trò chơi, bứt tốc, cảnh báo đèn đỏ và phát súng, chết, thắng, chơi lại, cả hai chế độ nhân vật, điều khiển dọc, âm thanh và lỗi tài nguyên. Đo thời gian khung hình thực tế thay vì tuyên bố 60 FPS chỉ dựa trên cấu hình. Tạo một bản ghi gameplay thời gian thực mượt dài 20–60 giây và ít nhất bốn ảnh chụp màn hình trạng thái thực; công khai phương thức ghi canvas/HUD. Xác minh riêng trò chơi đã triển khai cuối cùng, khả năng phát/tua trên phương tiện công khai và chính sách xem trước/tải xuống tài sản trong CMS.
-
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/red-light-green-light) · [Bản demo](https://red-light-green-light.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
