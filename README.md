@@ -29,7 +29,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**358 examples · 14 languages · 12 examples with source code**
+**361 examples · 14 languages · 12 examples with source code**
 
 ## Featured projects
 
@@ -51,8 +51,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 <details>
 <summary>Browse examples</summary>
 
-- [Catfu martial-arts cat 3D animation and video workflow](#2101310374033428642)
-- [3D model of a Waymo Jaguar I-Pace](#2101325346427842909)
 - [Sailboat on Open Water](#2101616345720787130)
 - [Create a 3D model of WALL-E in Three.js](#2101687900723106104)
 - [Verdant — interactive 3D dinosaur island](#2101730386711634251)
@@ -145,67 +143,16 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Cinematic Storm in a Bottle Animation](#2112552671890874585)
 - [Luxury Skeleton Watch in 3D](#2112556579153178940)
 - [North Atlantic Storm — Realistic 3D Ocean and Lighthouse Simulation](#2112916773838454922)
+- [Game-ready straw training dummy 3D model](#2113321027325300784)
+- [Chalk Square: pixel-art 3D four-square game](#2113602050172785117)
+- [FLOATING WORLD interactive 3D island sanctuary](#2113627142772899916)
 - [Battle City 3D: Endless Tank Defense](#battle-city-3d)
 - [Crazy Tanks — 3D Island Artillery](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: 24-Level 3D Mining Game](#golden-miner)
 - [Jelly Villa](#jelly-villa)
 - [Red Light, Green Light: 3D Survival Game](#red-light-green-light)
-- [TITANIC — The Last Light](#titanic-the-last-light)
 
 </details>
-
-<a id="2101310374033428642"></a>
-
-### Catfu martial-arts cat 3D animation and video workflow
-
-[PixVerse](https://x.com/PixVerse) · 2026-09-19
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101310374033428642"><img src="assets/previews/8249faaaa8f71ae6e4f9ede16b0948cd336e92001b288ecec9177aca4eb5f939.jpg" width="840" loading="lazy" alt="Catfu martial-arts cat 3D animation and video workflow"></a>
-
-PixVerse’s verified comment presents this as a prompt used in Hermes Agent. The root post credits PixVerse creator @woleswoosh for the catfu showcase and says it was made with GPT-6 Astra + Blender. The prompt directs an agent to build lightweight Blender meshes and animation for a rigid, stoic tabby cat parrying incoming hands in a Japanese temple courtyard, render a 10-second motion-reference MP4, then generate a photorealistic 1080p video using PixVerse CLI and Seedance 2.5.
-
-**Prompt**
-
-```text
-Photorealistic cinematic single take, 10 seconds, 16:9, 24fps, locked-off camera, no cuts.
-A ginger-and-white tabby cat (white muzzle, chest and paws, orange tabby stripes with an "M" on the forehead) sits upright, dead center, facing the lens in a rigid martial-arts posture — flat, stoic, unimpressed stare, eyes half-lidded, mouth closed, head never moving. It wears a black hachimaki headband tied low across the brow, knot at the back, ears sticking up above the band.
-Setting: traditional Japanese temple courtyard — warm wooden pillars, eaves and railings — melted into creamy golden-hour bokeh. 85mm lens, f/1.8, extremely shallow depth of field, focus locked on the cat's eyes. Warm 3500K grade, soft key light from front-right, gently filled shadows, fine film grain.
-ACTION: a bare human arm drives in from frame left, open palm thrusting fast at the cat's face with strong motion blur; the cat calmly lifts its right front paw and parries, intercepting the palm and killing the strike's momentum — it blocks, it doesn't slap. The arm sweeps horizontally across the cat's face in a blur, then a second hand chops down from the right; the cat deflects each one with a short minimal paw block, body and head completely still, eyes never leaving the lens. The hands are the aggressors — the cat is purely reactive and unbothered. The hands feint in and out from both sides; the cat slides into a two-paw boxing guard at chest height, paws curled, elbows in, and holds it, waiting. It snaps out quick blurred single-paw counters, kung-fu style, catching the incoming hands mid-air, head still locked forward. Finally it drives its right paw straight into the lens, pink pad facing camera, until the paw fills the frame as a soft out-of-focus foreground shape — the face stays razor sharp behind it, cold stare intact.
-Motion: natural speed, real motion blur on the flying hands and the fast paw blocks. Defensive, minimal, economical cat movement — it barely moves, the hands do all the work and fail. No camera movement, no zoom, no text.
-NEGATIVE: extra limbs, fused/mutated paws, extra fingers, distorted face, headband merging into fur, plastic skin, oversaturated color, text, subtitles, logo, watermark, cuts, camera shake, playful/celebratory body language, high-five gesture.
-SHORT VERSION:
-Ginger-and-white tabby cat in a black hachimaki headband sits in a sunlit Japanese temple courtyard, deadpan stare at camera, 85mm f/1.8 shallow DOF, golden hour, film grain. Human hands chop and thrust in fast at its face from both sides in motion blur — the cat calmly parries each strike with a minimal paw block, never moving its head. It drops into a two-paw kung-fu guard, throws fast blurred counters, then drives its paw into the lens until the pad fills the frame. Locked-off single take, 10s, 16:9, 24fps, photorealistic, no text.
-Catatan kecil dari frame: tangannya dominan masuk dari kiri (chop descending + sweep horizontal), kontak terjadi di wrist/palm — bukan paw-to-paw. Guard dua paw ada di ~4.0-5.6s, counter blur di 5.6-8s, finish paw ke lensa 8-10s. your job is to make 3d mashed with blender mcp and make 10s 24fps output amd render it to super realistic scene with pixverse cli using seedance 2.5 as video model generation
-AGENT STEPS: Check Blender MCP, PixVerse CLI authentication, model capabilities, and available credits. Disclose estimated costs and obtain spending approval before paid generation. Turn the prompt into a timed beat sheet, build lightweight 3D meshes and animation through official Blender MCP, render a motion-reference MP4, and inspect framing, motion, contacts, duration, and frame rate. Generate and inspect a separate appearance-reference image before submitting the video. Use the image to guide identity, style, and lighting, and the Blender video to guide movement and timing. After generation, download the result, verify technical specs, inspect key frames, report deviations honestly, and calculate actual credit usage. Preserve originals; never silently switch models or regenerate.
-PIXVERSE CALL: Use pixverse create image with gpt-image-2.0 to create the appearance reference at the confirmed aspect ratio, 1080p, high detail. Then use pixverse create reference with the confirmed video model, passing both --images and --videos to combine the appearance image with the Blender motion reference. For Seedance 2.5, use --model seedance-2.5 --task-type auto, the confirmed duration/aspect ratio, and --quality 1080p --count 1. Verify current capabilities before submission, use unique idempotency keys, and track completion through pixverse task status / pixverse task wait.
-FINAL OUTPUT: Return the completed video at the confirmed aspect ratio and duration, targeting 1080p and 24fps, plus the appearance-reference image, Blender .blend project, and motion-reference MP4. Provide absolute local paths or downloadable URLs. Keep the final report format: Video, Gambar referensi, Blender mesh + animasi, Check, Look, and Kredit terpakai. Report actual resolution, frame rate, frame count, duration, visual deviations, image/video credit costs, total spent, remaining balance, and whether any regeneration occurred.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101310374033428642) · [Original post](https://x.com/PixVerse/status/2101310387081908606) · [Back to examples](#all-prompts)
-
----
-
-<a id="2101325346427842909"></a>
-
-### 3D model of a Waymo Jaguar I-Pace
-
-[Harshith](https://x.com/HarshithLucky3) · 2026-09-19
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101325346427842909"><img src="assets/previews/449ef82d65975e559172227f6d0fc27cdda054f8e215d3356b39b1a45b524772.jpg" width="840" loading="lazy" alt="3D model of a Waymo Jaguar I-Pace"></a>
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101325346427842909"><img src="assets/previews/b31d6fef03ae123be2811d7b8b566e76ce04232b1effc8e0858da4f7c20a7520.jpg" width="840" loading="lazy" alt="3D model of a Waymo Jaguar I-Pace"></a>
-
-The author reports using this prompt with GPT-6 Astra Max in Codex for a 3D Waymo Jaguar I-Pace model made with Three.js. They state that no reference was used and that the resulting vehicle did not resemble the actual car.
-
-**Prompt**
-
-```text
-3d model of Waymo Jaguar i-Pace using three js
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101325346427842909) · [Original post](https://x.com/HarshithLucky3/status/2101325346427842909) · [Back to examples](#all-prompts)
-
----
 
 <a id="2101616345720787130"></a>
 
@@ -3508,6 +3455,183 @@ Mouse to orbit, scroll to zoom, keys to cycle camera shots and to raise or lower
 
 ---
 
+<a id="2113321027325300784"></a>
+
+### Game-ready straw training dummy 3D model
+
+[Max](https://x.com/maxt3chno) · 2026-10-22
+
+<a href="https://www.tripo3d.ai/3d-prompts/straw-training-dummy-game-ready-3d-model"><img src="assets/previews/45bfb8696293be7c212f69c0b6bd3157abd43f788fa548d3132dd42d12574f65.jpg" width="840" loading="lazy" alt="Game-ready straw training dummy 3D model"></a>
+
+A reference-image-based Blender prompt for a game-ready straw training dummy with separate breakable head and arm objects, a 1.85 m real-world scale, triangle and texture limits, and GLB, Blend, and render outputs. The author says this same prompt was used for both GPT-6 Astra and Claude Opus 5.5.
+
+**Prompt**
+
+```text
+Using Blender through Blender MCP, make a game-ready 3D model of the straw training dummy in the attached image. Work directly in Blender: build, look at the result, compare it with the reference and fix it. Match the reference as closely as you can: shape, proportions, materials and colours.
+
+Requirements:
+Real-world scale: about 1.85 m tall in total. Origin at the bottom centre of the post.
+Up to 15,000 triangles in total.
+Textures up to 2048 px: base colour, normal, roughness. Transparency is allowed for straw.
+Ready to place in a realistic tropical-island shooter game.
+
+Parts (separate named objects, so they can break off in the game):
+"head" (with its burlap cloth), pivot at the base of the neck;
+"arm_left" and "arm_right" (the bamboo pole split in two at the body), each with its pivot where it meets the body;
+"body": everything else (post, straw body, rope, scarf) as one object.
+Close the surfaces where parts meet: no holes visible when the head or an arm is gone.
+
+Output:
+One .glb file with all parts and textures embedded.
+The .blend file.
+A front view and a three-quarter view render on a plain background, so the result can be compared with the reference.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/straw-training-dummy-game-ready-3d-model) · [Original post](https://x.com/maxt3chno/status/2113321949090717982) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2113602050172785117"></a>
+
+### Chalk Square: pixel-art 3D four-square game
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-23
+
+<a href="https://www.tripo3d.ai/3d-prompts/chalk-square-pixel-art-3d-game"><img src="assets/previews/2c807caf73920fff28ce7ba56647853f52db15276311b85ec6e88d7f29f8bda9.jpg" width="840" loading="lazy" alt="Chalk Square: pixel-art 3D four-square game"></a>
+
+A single-file Three.js 3D four-square football game set in a backyard on a floating island. It specifies eight AI kids, ball physics and court rules, pixel-art rendering controls, weather that washes away and redraws chalk, and a mobile-friendly English UI. The root author explicitly says this same prompt was used for GPT-6 Astra and Claude Opus 5.5.
+
+**Prompt**
+
+```text
+Build a single-file HTML + three.js (r160) scene called "Chalk Square": four square played with a football in a back yard on a floating island. It is a real 3D scene rendered as crisp pixel art.
+
+Rendering: an orthographic isometric camera (drag to turn in 90° steps, scroll or pinch to zoom). Render into a small low-res target with a depth texture, then upscale with texelFetch to whole screen pixels. Add depth-based outlines and quantize every pixel to a fixed ~60-colour palette in OKLab, with an optional Bayer dither. Toggle "Pixel art / Raw 3D", with a pixel-size slider and Palette / Dither / Outlines checkboxes.
+
+Yard: patched, cracked asphalt with a kerb, grass and dirt around the island edge. Around the asphalt:
+- a row of lock-up garages with painted, numbered doors and a flat roof that overhangs them;
+- a brick transformer booth with a warning sign;
+- a poplar with a bench and a grandmother on it;
+- a chin-up bar, a carpet rack with a rug, bushes;
+- a lamp on a pole and a lamp over a garage door.
+Pigeons walk and peck, and flap up onto the roofs when the ball or a kid comes near. A cat on the garage roof follows the ball with its head.
+
+Chalk: a data texture over the asphalt. It holds the 4.8 m square split into four zones (King, Queen, Jack, Dunce) with letters and a crown, plus hopscotch and doodles. Each texel stores its order along its stroke, so the lines can be redrawn progressively.
+
+Game (8 kids, each with a skill, power and style: power / trick / safe / lob):
+- Four kids play, four wait in a queue. The King serves by dropping the ball and kicking it after the bounce.
+- The ball must bounce once in your zone, then you kick it into another zone. With the two-touch rule you may first cushion it up.
+- You are out for: a ball that lands out, lands in your own zone, bounces a second time, or (if set) lands on a middle line. Otherwise a ball on the line is replayed.
+- The kid who is out goes to the back of the queue. Everyone below moves up a zone, and the next kid in line enters at Dunce. A kid fetches the ball and throws it to the King.
+
+Ball and AI: real ball physics (gravity, bounces, rolling, softer bounces in puddles, the walls). Each receiver simulates the ball forward, picks the moment it is at foot height, runs to stand behind it and kicks. Shots are a drive, a lob, or a dink just over the line, aimed away from the target kid; everyone picks on the King. Aim and power errors grow with a fast ball, a stretched contact and lower skill, and occasionally a kick is shanked.
+
+Kids: box-rigged with two-bone IK. Poses: run, ready crouch, a kick that strikes at the ball's height, cushion, hold, throw, clap, argue a call, and a crouched walk while drawing chalk.
+
+Time and weather: Day / Dusk / Night (the lamps light the court), Dry / Rain.
+- Rain: streaks, splashes, darker asphalt, puddles that mirror the yard via a mirrored render pass, and the chalk washing out.
+- The kids shelter under the garage roof. When the asphalt dries, two of them redraw the square and play resumes.
+
+UI (English, light and dark themes, mobile layout):
+- A lit scoreboard with rallies, clock + status, the King's current reign, and the best reign.
+- A side rail with: Time & weather (with asphalt and chalk bars); the ladder (King / Queen / Jack / Dunce plus "Next up"); Rules (One/Two touches; Liners: Replay/Out); a feed of calls with "Gang up on the King" and Pause; View.
+- Click a kid in the square and everyone aims at them. Original design, no real brands.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/chalk-square-pixel-art-3d-game) · [Original post](https://x.com/vib3coded/status/2113602161607069911) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2113627142772899916"></a>
+
+### FLOATING WORLD interactive 3D island sanctuary
+
+[SiliconFlow](https://x.com/SiliconFlowAI) · 2026-10-23
+
+<a href="https://www.tripo3d.ai/3d-prompts/floating-world-interactive-3d-island"><img src="assets/previews/b01b4446070b691a5047432574bb059724cc886cb5721670c976c7ffb37eecae.jpg" width="840" loading="lazy" alt="FLOATING WORLD interactive 3D island sanctuary"></a>
+
+A reusable prompt posted by SiliconFlow for the same Three.js interactive 3D world compared between DeepSeek V4.1 Flash 1017 and GPT-6 Astra. It requests a single-file procedural WebGL experience featuring a floating Eastern-fantasy island, pavilion, Moon Bridge, ponds, waterfalls, animated dog, landmark camera views, and a golden-hour-to-twilight atmosphere control.
+
+**Prompt**
+
+```text
+Build a complete single-file Three.js/WebGL experience called “FLOATING WORLD”: a cinematic, interactive Eastern-fantasy island sanctuary floating above an endless cloud sea at golden hour. Use procedural geometry and textures only; no external 3D assets, images, paid APIs, placeholders, or TODOs. Three.js may load from a CDN. Handle missing WebGL, resizing, and mobile layouts gracefully. All visible text must be English only—no Chinese characters anywhere.
+
+SCENE
+Large central island with layered rocky underside, mossy edges, vines, terraced gardens, and distant floating islands.
+Central two-tier pavilion, arched Moon Bridge over a front-right pond, smaller grass pond to its left, ancient pine on the left, and two waterfalls at the island edge.
+Rich materials: weathered stone, dark timber, glazed dark-teal roof tiles, deep green moss/vegetation, water, restrained gold accents.
+Strong foreground/midground/background separation, atmospheric fog, soft shadows, warm rim light, controlled bloom.
+Entire island rig gently bobs up and down (±0.3 units, 11–18s periods). Cloud sea, distant islands, sky, and lighting remain stable.
+GRASS
+About 20,000 short grass clumps, each with around 8 curved blades. Clumps must overlap densely and read as a continuous, deep forest-green lawn, not pale spikes.
+Vary height, orientation, saturation, and lightness.
+Give the terrain itself a dark procedural grass-carpet texture so no brown soil is visible through gaps.
+Keep grass out of the pavilion, bridge, ponds, stream, and main path.
+PAVILION
+Two-tier Eastern pavilion with stone base, timber columns, railings, steps, altar, bell, warm lanterns, and two dark-red banners with gold borders.
+Both roofs must be dark glazed teal/green—never white or untextured.
+Add clear vertical tile channels from ridge to eave, strong tile texture, bump mapping, and actual raised 3D tile ribs.
+Keep the roof matte with low white specular. Add dark hip ridges, gold corner ornaments, and a gold finial.
+Banner monograms should be English “F” and “W,” not Chinese characters.
+PONDS AND WATER
+Main pond centered near (10, 8), radius ~5, with a raised stone rim and the arched stone Moon Bridge.
+Left grass pond near (5.5, 15.1), radius ~2, with a stone rim, reeds, stones, and grass around it.
+Both ponds and all shoreline stones must sit entirely inside the island silhouette. Remove any water/stone overhang and the small extra footbridge; shorten the stream.
+Fully cover both pond edges with stones, reeds, and grass—no exposed paper-like water edges.
+Water shader: procedural ripples, Fresnel reflection, sky reflection, sun highlights, subtle foam.
+Day: warm teal/green reflections. Twilight: deep indigo/blue-teal, never muddy yellow-green.
+Remove light-blue spotty shimmer. Night flow speed only ~4% of daytime.
+Day-to-twilight water must decelerate smoothly and monotonically, never speed up temporarily. Use an accumulated water-phase clock.
+WATERFALLS
+Left waterfall at ~70°: lower its top to about y=-2.6 and hide the start behind a large mossy cliff-rock curtain. Only the lower flow should be visible.
+Right waterfall at ~36°: connected to the bridge pond; keep its visible top unchanged.
+Use downward-flowing streaks, foam, soft edges, and mist at the base.
+CLOUDS
+Raise the cloud sea to about y=-20.4 so it wraps the island base.
+Build dense multi-layer white clouds: near-island bank, distant billows, low wisps, and mist.
+Clouds must look like overlapping cotton puffs, not flat paper layers; no visible holes in the middle.
+Front-left cloud cluster: ~18 puffs, partially covering the island, fluffy and volumetric.
+Four higher cloud groups above the island, each ~17–21 puffs, varied sizes and depths, tightly packed.
+All clouds white/warm-white. No gray cloud materials or gray shadow puffs. Do not restore the old right-side island-covering cloud.
+VEGETATION AND DETAILS
+Several dark-green pines/bonsai-like trees; one large Ancestor Pine with a crooked trunk, noble canopy, hanging lanterns, and a small stone shrine.
+Mossy shrubs, wildflowers, reeds, lilies, vines, warm floating motes, and a few distant birds.
+No animals other than the yellow dog below.
+YELLOW DOG
+Small golden-yellow dog: short chubby legs with rounded capsule shapes and smooth hip joints, short tail, rounded body/head, black nose, eyes, ears, tongue, red collar, gold tag.
+Animate running legs, body bob, tail wag, and head motion.
+Orient the dog from its actual movement direction; never sideways/backward.
+Give it a dedicated clear grass meadow centered near (-2.3, 9.2), ellipse approx. rx=3.0, rz=2.0.
+Remove the stone lantern near (-5.1, 10.5) and any stepping stones within a ~4.6 radius; replace removed stones with about 24 dark grass clumps.
+Dog randomly chooses targets inside this meadow, pauses, and chooses again—no fixed loop. It must never leave the meadow or intersect stones, buildings, ponds, or terraces. It rides the island bob.
+CAMERA AND INTERACTION
+Cinematic ~8-second opening reveal from a low side angle into the hero view.
+Hero camera ~(44, 31, 65), target ~(0, 2.8, 0), FOV 43°.
+OrbitControls with damping, drag-to-orbit, wheel zoom, no panning; add a smooth reset-camera button.
+Three clickable landmarks with smooth camera close-ups and English contextual cards:
+The Jade Pavilion: ~(18.5, 12.2, 17.2) → (0, 7.4, -2.6), FOV 40.
+The Moon Bridge: ~(25, 10, 32) → (10, 4.2, 8), FOV 42.
+The Ancestor Pine: ~(10, 15, 38) → (-10.5, 7, 5.4), FOV 42.
+Small hover label on landmarks; dragging must not trigger selection.
+LIGHTING AND UI
+Golden hour: warm sun from back-left, long shadows, peach horizon, cream clouds.
+Twilight: indigo sky, orange-pink horizon, dimmer sun, brighter lanterns, deep indigo water.
+Smooth 3.6-second lighting transition with an Atmosphere toggle.
+ACES tone mapping, restrained bloom, fog, soft shadows.
+English-only UI: “FLOATING WORLD,” “A Sanctuary Above the Clouds,” “The Realm of Drifting Clouds,” an F seal, atmosphere toggle, reset control, and three quiet-place links. Use an elegant serif/sans pairing with cream, ink, and gold.
+No Chinese text in UI, banners, labels, loader, or fallback.
+TECHNICAL
+Procedural CanvasTextures/shaders for stone, grass, wood, roof tiles, cloud puffs, water, waterfalls, banners.
+60 FPS target on desktop, responsive, capped pixel ratio, working interactions, no runtime errors.
+Deliver a single polished HTML file.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/floating-world-interactive-3d-island) · [Original post](https://x.com/SiliconFlowAI/status/2113627339318042713) · [Back to examples](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Endless Tank Defense
@@ -3843,68 +3967,10 @@ Use an isolated Vite/Three.js project with a lockfile and bundled same-origin sc
 
 ---
 
-<a id="titanic-the-last-light"></a>
-
-### TITANIC — The Last Light
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-20
-
-<a href="https://www.tripo3d.ai/3d-prompts/titanic-the-last-light"><img src="assets/previews/804ff98b5bbd18f23ba66fe1a98ef14b46381b11adb913f606281899db4ecbc0.jpg" width="840" loading="lazy" alt="TITANIC — The Last Light"></a>
-
-A 4:24 cinematic Titanic voyage with a deep-blue Atlantic, character portraits, tracked lifeboat lowering and a moving world to explore.
-
-**Prompt**
-
-```text
-1. Project goal
-Create TITANIC — THE LAST LIGHT: an interactive, 264-second cinematic voyage from the ship’s final sunset through collision, evacuation and sinking to a dawn memorial. Visitors watch a directed film, explore its moving 3D world, jump to a chapter, save a still or download the complete movie. Present it as an artistic interpretation, without claiming forensic accuracy or official affiliation.
-
-2. Visual direction
-Use a restrained cinematic palette: warm cream and amber ship lights against deep Atlantic blue, followed by a dark star-lit night and cool dawn. Render a perspective scene with a 2.39:1 movie composition, soft bloom, subtle grain and vignette. Use depth of field for character portraits and dawn, while keeping distress-rocket particles sharp. Give the ocean a deep-blue body colour, world-space swells, smaller mipmapped ripple normals and Fresnel reflections; warm sunset colour belongs mainly in reflected light. Use hull-attached wake ribbons following the same ocean displacement, with soft ends and broken foam. Wrap panorama textures horizontally without a fract discontinuity to prevent vertical sky seams and reflected streaks. Avoid orange shallow-water shading, tiny uniform ripples and glowing circular foam decals. Remove hidden overlapping roof top faces to prevent depth fighting; use a camera near plane appropriate to the shot distance. During sinking, dim window light monotonically rather than adding high-frequency flicker. Use a quiet serif title, bilingual English/Chinese controls and a narrow timeline along the bottom.
-
-3. World, geography and camera edit
-Use one continuous coordinate system with a 269-metre vessel, bow facing +X, and an iceberg fixed at (275, 0, 57). The vessel advances, contacts the iceberg at 96.727 seconds, coasts to a stop, then sinks in fore and aft sections. Keep the iceberg present through the ending and visible in the dawn composition. Retain six chapters beginning at 0, 63, 110, 163, 211 and 241 seconds.
-
-Build 23 deliberate shots. The bow embrace spans 29–61 seconds: an establishing approach, a close double portrait, a view from behind toward the sea and an oblique portrait. Place Rose in front and Jack behind her at the forward tip, both facing out over the bow. Maintain sunset lighting through the sequence. From 127–158 seconds, use three shots attached to a lifeboat’s actual world transform: departure from the boat deck, a closer view of passengers and suspension ropes, and approach to the water. Follow with wide evacuation, listing, fracture and sinking shots. At dawn show the surviving boats with the iceberg in the distance, then a restrained memorial title.
-
-4. Asset inventory
-- titanic-vessel: build the 269-metre primary structure in Blender with continuous well decks, a closed forecastle, layered promenades, four hollow raked buff funnels, black upper hull and red lower hull. Use real circular rims for 864 portholes and frames for 360 windows. Restrict emission to actual glazing materials. Batch materials and split at x=-32 for sinking. Add masts, rigging, davits, falls, bronze propellers and rudder. Generate a P2 companionway with teak doors and brass details, normalize it and reuse it twice on the authored deck. Preserve node transforms when assembling the GLB.
-- atlantic-iceberg: one irregular, eroded blue-white iceberg, with layered frost, roughness variation, a subdued normal map and a convincing waterline. It remains a fixed geographical object.
-- lifeboat: one White Star rowing lifeboat with a white wooden shell, dark gunwale, benches and oars, instanced across sixteen independently moving boats.
-- bow-embrace: an isolated double-character asset inspired by the requested 1997 film costumes and pose: Rose with auburn hair, navy/ivory clothing and a patterned shawl, arms extended; Jack immediately behind in a dark coat and ivory shirt. Generate clean full-figure reference images before conversion to H v3.1, keeping each figure’s head, neck, shoulders and clothing coherent. Refine Rose with a separate close-up reference and H facial-detail donor: register eyes, nose, lips and chin, transfer local shape and colour to the continuous full-figure mesh, and blend and retouch the UV transition. For Jack, generate a clean portrait with natural skin colour and defined eyes and lips. Keep its complete head and upper neck, fit gaze and scale to the H body, conform the lower neck and weld both boundary loops. Bake and retouch the narrow neck transition without flattening facial detail. Correct stance and hand contact in Blender. Inspect front, side and rear views for dark smears, texture seams, holes, cut edges and garment intersections. Give skin and cloth separate shading. Preserve natural base expressions with restrained body and cloth movement; do not imply a facial animation rig unless one is actually implemented.
-- seated-woman and seated-man: separate adult passenger models in 1912 clothing and pale cork life jackets, seated with bent knees and hands on their laps. Share geometry and materials across boats; vary placement and orientation slightly. Use reversible per-boat instance counts for boarding.
-
-Use Blender for the primary vessel, Tripo P2.0 for the deck companionway, iceberg, boats and seated passengers, and H v3.1 for the two complete hero figures and close-up portrait refinements. Keep the ocean, sky blend, stars, lighting, smoke, distress rockets, foam, spray and debris as scene effects. Supply lighter web model variants with compressed textures and retain detailed source assets for editing. Use the same approved optimized hero pair for the website and offline film export.
-
-5. Playback and feedback
-Show real loading progress for essential ship, boat, sky and sea-normal assets. Enable the opening button when the first scene is ready; defer the other models and music. If a required character or iceberg model is late, hold at its scene boundary and resume when it is ready rather than silently skipping its shot. Audio begins after user interaction.
-
-The timeline must support forward/backward seeking and rapid drags without resetting to zero. Preserve play/pause and mute state while seeking; do not let the old audio clock overwrite the requested position. Serve byte ranges for MP3 and MP4. Chapter navigation includes direct entries for the bow embrace at 29 seconds and lifeboat lowering at 127 seconds; these restore the director’s camera while preserving playback state.
-
-Exploration allows orbit, drag and zoom while the world, vessel and soundtrack continue. Follow vessel translation without snapping the viewing direction. Pause remains independent; returning to the film preserves current time. Space plays/pauses, arrows jump ten seconds, M toggles sound, E toggles exploration and F opens fullscreen. Support touch orbit/pinch and timeline tapping.
-
-Boats start empty. Passengers board in staggered groups after 112 seconds and finish before each boat descends. Ropes run between moving davits and the actual boat attachment points, then disappear after release. Backward seeking restores earlier occupancy and rope states. Collision must coordinate hull/camera vibration, ice chips, scraping spray and a steel/ice sound transient. Distress rockets use white burning stars, short individual trails, gravity, drag and fading smoke. Sinking disturbances are irregular, wave-following patches that decay gradually; distribute spray along the stern’s true waterline, never from a remote point fountain.
-
-6. Technical implementation and deliverables
-Use Vite, JavaScript modules and Three.js with deterministic time-based animation. Separate camera/timeline, vessel assets, characters, environment, effects and scene readiness. Share the same time model for web playback, seeking and offline capture. Keep web rendering within an explicit pixel, reflection and shadow budget; defer heavier ambient occlusion to the offline profile. Compile and decode assets without a long blocking startup prewarm. Host scripts, models, images, fonts and audio on the same origin and keep secrets out of the static build.
-
-Use an original score and paid ElevenLabs Foley: a complete natural whistling firework take split at its actual airburst into an ascending flight and a sharp bang with crackling tail, steel/ice contact and scrape, lifeboat ropes and water contact, hull strain/fracture, and stern water displacement. Export source WAV files, retain prompts/history IDs, and edit them into timed cues. Align launches at 119, 151 and 183 seconds, with the airbursts 3.15 seconds later. Retain the original burst attack and briefly duck the orchestral score. Keep quiet sea, wind and engine ambience beneath the mix. The reference film soundtrack is not included without authorization for both the public website and downloadable film. Document actual asset and sound sources rather than describing a fallback as a service-generated asset.
-
-Provide a deterministic export of 6,336 frames at 3840×2160 and 24 fps with three temporal samples, burned-in English titles and a 2.39:1 letterboxed image. Encode a 4K H.264/AAC master and a 1080p web edition below 100 MiB, both 264 seconds with 48 kHz stereo audio. Preserve optional Chinese/English subtitles, the audio master and editable source. Publish the static build through the existing CMS Web Pages hosting, without adding a platform application or a per-page Worker.
-
-7. Acceptance
-Inspect the opening, both character portraits, collision, distress rockets, all three lowering shots, fracture, stern disappearance and dawn. Check that the iceberg does not vanish at 244 seconds, the sea reads as deep blue, the sinking has no regular white rings, characters remain present in their authored shots, and boat ropes/passengers stay aligned throughout lowering. Test delayed model loading, forward/backward seeking, quick scrubbing, pause/mute, dynamic exploration, direct close-up entries and touch emulation. Verify every exported frame, fully decode both films, compare the actual browser download with the delivered file, and verify the public build and CMS association. Distinguish browser mobile emulation from testing on a physical phone.
-
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/titanic-the-last-light) · [Live demo](https://titanic-the-last-light.tripo.page/) · [Back to examples](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 358 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 361 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>

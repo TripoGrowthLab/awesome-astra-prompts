@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "model": "gpt-6-astra",
   "count": 100,
-  "totalCount": 358,
+  "totalCount": 361,
   "sourceCodeCount": 12,
   "limit": 100,
   "locales": [
@@ -22,8 +22,6 @@
     "vi"
   ],
   "promptIds": [
-    "2101310374033428642",
-    "2101325346427842909",
     "2101616345720787130",
     "2101687900723106104",
     "2101730386711634251",
@@ -116,12 +114,14 @@
     "2112552671890874585",
     "2112556579153178940",
     "2112916773838454922",
+    "2113321027325300784",
+    "2113602050172785117",
+    "2113627142772899916",
     "battle-city-3d",
     "crazy-tanks-3d-island-artillery",
     "golden-miner",
     "jelly-villa",
-    "red-light-green-light",
-    "titanic-the-last-light"
+    "red-light-green-light"
   ],
   "featuredPromptIds": [
     "2096467585785286808",
@@ -130,8 +130,6 @@
     "cyclops-island-threejs-game"
   ],
   "imagePromptIds": [
-    "2101310374033428642",
-    "2101325346427842909",
     "2101616345720787130",
     "2101687900723106104",
     "2101730386711634251",
@@ -224,12 +222,14 @@
     "2112552671890874585",
     "2112556579153178940",
     "2112916773838454922",
+    "2113321027325300784",
+    "2113602050172785117",
+    "2113627142772899916",
     "battle-city-3d",
     "crazy-tanks-3d-island-artillery",
     "golden-miner",
     "jelly-villa",
     "red-light-green-light",
-    "titanic-the-last-light",
     "2096467585785286808",
     "2081024333120733188",
     "akari-nagoya-rooftop-flame-relay",
@@ -238,78 +238,78 @@
   "files": [
     {
       "path": "assets/manifest.json",
-      "sha256": "d3a880586b74ede75f36d8d7b4351da5e1dfc02f3b8391e0b8cd404759d11d46",
-      "bytes": 62674
+      "sha256": "d6443ab86ac564a7f07ec6e5eadb7613e7774d379703c0f37a0fde37b1bf2371",
+      "bytes": 62250
     },
     {
       "path": "docs/catalog.de.md",
-      "sha256": "10d9f7e19b64680ccb26cca89b936700a464cb78ee6861877e9ff69aa9c45e5b",
-      "bytes": 383292
+      "sha256": "a064bef4c485bc7e288193a348b4fd7b1fa70556a690572dd15ba37126f3c97a",
+      "bytes": 377871
     },
     {
       "path": "docs/catalog.en.md",
-      "sha256": "753eeb6b7798c1a4f928d52943403343b54c4d07c1c188f40e89d05473a5e534",
-      "bytes": 471240
+      "sha256": "16c5d8e2055828368b5d6e155d247e17abbd6dccd9ace0e5313711c8ef9bf280",
+      "bytes": 466938
     },
     {
       "path": "docs/catalog.es.md",
-      "sha256": "ea09171486e3a937110bc12911dc2190f8528f43cfd02f9d8e01e62e53090eb4",
-      "bytes": 387648
+      "sha256": "e74a66d629dd2b580199eb1eebc608a995f78a9f1f9c8f3b3185a735a9e53c13",
+      "bytes": 382000
     },
     {
       "path": "docs/catalog.fr.md",
-      "sha256": "bf0860a1a363cfc2377d98913f03d27cc4ab468514aa204c01924da35494d51e",
-      "bytes": 406402
+      "sha256": "22dca43903da2fcb39bbce2eb7978d50e2b0f71fb4d2754cb4ec7a585cad75eb",
+      "bytes": 400565
     },
     {
       "path": "docs/catalog.it.md",
-      "sha256": "8a477775ea65c99ba3520f46ec289e281f031d349ef45893cfd391385f853691",
-      "bytes": 378987
+      "sha256": "f15f51a6f49ebc574ed704d405121cc58e84c44b48c1035d472332b6332eacfc",
+      "bytes": 374047
     },
     {
       "path": "docs/catalog.ja.md",
-      "sha256": "f81a7d919ebd58012ce088c6cb26632bdfa95920699de6b3922f36d00d8c7451",
-      "bytes": 433344
+      "sha256": "dcef104cec34c10b59e6e57adf01968c9006e78110ce750c28d02331b39ee263",
+      "bytes": 429559
     },
     {
       "path": "docs/catalog.ko.md",
-      "sha256": "7ab5acdff955ed8624ecbbffc64669b47bc0613c57f0887f41b2395676fd769f",
-      "bytes": 406444
+      "sha256": "4e23af0e89a3d10249364ec668ed1c0995273ddbcb27819c9be9f0b5aefdbcf4",
+      "bytes": 402070
     },
     {
       "path": "docs/catalog.pt.md",
-      "sha256": "307dc32721de44a2e477ef8fc784e1d65f5aae8f5f771add9ffd1abe0ffd770f",
-      "bytes": 375440
+      "sha256": "cc9c57425e36ffd4ef5b07992c6e232b287d322b68241771c0bff21c10f5c73a",
+      "bytes": 370611
     },
     {
       "path": "docs/catalog.ru.md",
-      "sha256": "6a69fe0c6103dc0573ff0804446afd0beed1f564133ae9804a508a47cfbff4e3",
-      "bytes": 607720
+      "sha256": "052d2f2a214eaaa97a631535c5604446b856ec94a173edd06453d63aeaf62977",
+      "bytes": 598980
     },
     {
       "path": "docs/catalog.tr.md",
-      "sha256": "39fbb29e0a370089b4695255a3387cc838b0c24a94d769c2b74a060458145a78",
-      "bytes": 382949
+      "sha256": "495b6151e383d6bf1c82150287025b203bb95d7c0624febdba8926b5e8edf561",
+      "bytes": 378375
     },
     {
       "path": "docs/catalog.uk.md",
-      "sha256": "592187c8156700b57c847b0fe72b7622d114190993e77e4ae0cab8b2d37563c8",
-      "bytes": 586851
+      "sha256": "76212cb7b934d2e0ab5ab7da5f034ae537421519ff8aaf1e330f025cb3e282be",
+      "bytes": 578562
     },
     {
       "path": "docs/catalog.vi.md",
-      "sha256": "4a0ac5d883e73afa08add3c5a2fa9fc1a0b33542ffd04c161a7c41c5f154883d",
-      "bytes": 422189
+      "sha256": "079c9cbdbc4b36b61a4d968b0d184e8cda4ddbe70d09bfb4b36f6b4647eb5f50",
+      "bytes": 417175
     },
     {
       "path": "docs/catalog.zh-Hant.md",
-      "sha256": "505293d5db5c70aa889b4bd96c267b3c1c2085adca45135bfd1590ac3c58d9f7",
-      "bytes": 323655
+      "sha256": "82171d982229eb09b194684f8e8bbf15620458b1c58570b0be62892efb21a967",
+      "bytes": 320485
     },
     {
       "path": "docs/catalog.zh.md",
-      "sha256": "801866599e23e2d66deb5ab7bdccdad5c47fe58864c1b592c65d67cd03fcceaa",
-      "bytes": 323693
+      "sha256": "6fc8ae3e76d409484c7871beaf381e394351851ca3c295fc3ec4b67362e92218",
+      "bytes": 320727
     },
     {
       "path": "docs/with-code.md",
@@ -318,13 +318,13 @@
     },
     {
       "path": "README.md",
-      "sha256": "027338aa3d8b9cd1ff777c8401a6e60ac1b265db82c985a23a5b431f947ab6a7",
-      "bytes": 470787
+      "sha256": "f7d0b78dbf2834449ebdcf894edc120fcd51f2ee857bb6b0a73636c09aacdbcb",
+      "bytes": 466488
     },
     {
       "path": "README.zh-CN.md",
-      "sha256": "2670d0ded5c7400998fd687c8d7e14d8174130e98089c20fe948b0500c13952a",
-      "bytes": 323240
+      "sha256": "da06232ff2932b55f9fe7ed59666808b2683ed3f3accee396186719ce6a945f1",
+      "bytes": 320277
     }
   ]
 }

@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**358 · En yeni Astra istemleri**
+**361 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -50,8 +50,6 @@
 <details>
 <summary>Örnekleri keşfet</summary>
 
-- [Catfu dövüş sanatları kedisi için 3B animasyon ve video iş akışı](#2101310374033428642)
-- [Waymo Jaguar I-Pace 3B modeli](#2101325346427842909)
 - [Açık Denizde Yelkenli Tekne](#2101616345720787130)
 - [Three.js'te WALL-E için 3B model oluşturun](#2101687900723106104)
 - [Verdant — etkileşimli 3B dinozor adası](#2101730386711634251)
@@ -144,67 +142,16 @@
 - [Şişede Sinematik Fırtına Animasyonu](#2112552671890874585)
 - [3B Lüks İskelet Saat](#2112556579153178940)
 - [Kuzey Atlantik Fırtınası — Gerçekçi 3B Okyanus ve Deniz Feneri Simülasyonu](#2112916773838454922)
+- [Oyuna hazır saman talim mankeni 3B modeli](#2113321027325300784)
+- [Chalk Square: piksel sanatlı 3B dört kare oyunu](#2113602050172785117)
+- [YÜZEN DÜNYA etkileşimli 3B ada sığınağı](#2113627142772899916)
 - [Battle City 3D: Sonsuz Tank Savunması](#battle-city-3d)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: 24 Seviyeli 3B Madencilik Oyunu](#golden-miner)
 - [Jöle Villa](#jelly-villa)
 - [Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu](#red-light-green-light)
-- [TITANIC — Son Işık](#titanic-the-last-light)
 
 </details>
-
-<a id="2101310374033428642"></a>
-
-### Catfu dövüş sanatları kedisi için 3B animasyon ve video iş akışı
-
-[PixVerse](https://x.com/PixVerse) · 2026-09-19
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101310374033428642"><img src="../assets/previews/8249faaaa8f71ae6e4f9ede16b0948cd336e92001b288ecec9177aca4eb5f939.jpg" width="840" loading="lazy" alt="Catfu dövüş sanatları kedisi için 3B animasyon ve video iş akışı"></a>
-
-PixVerse’ün doğrulanmış yorumu, bunun Hermes Agent’ta kullanılan bir istem olduğunu gösteriyor. Ana gönderide, catfu gösteriminin PixVerse içerik üreticisi @woleswoosh tarafından hazırlandığı ve GPT-6 Astra + Blender kullanıldığı belirtiliyor. İstem, bir ajandan Japon tapınağı avlusunda gelen elleri savuşturan sert ve soğukkanlı bir tekir kedi için hafif Blender ağları ve animasyon oluşturmasını, 10 saniyelik bir hareket referansı MP4’ü dışa aktarmasını ve ardından PixVerse CLI ile Seedance 2.5 kullanarak fotogerçekçi 1080p video üretmesini istiyor.
-
-**İstem**
-
-```text
-Fotogerçekçi sinematik tek plan, 10 saniye, 16:9, 24 fps, sabit kamera, kesme yok.
-Turuncu-beyaz bir tekir kedi (beyaz burun çevresi, göğüs ve patiler; alnında “M” bulunan turuncu tekir çizgileri) tam ortada, objektife dönük ve dik oturur; katı bir dövüş sanatları duruşu vardır — bakışları düz, soğukkanlı ve kayıtsız; gözleri yarı kısık, ağzı kapalı, başı hiç hareket etmez. Alnın alt kısmından bağlanmış siyah bir hachimaki bandı takar; düğüm arkadadır ve kulakları bandın üstünden dikilir.
-Mekân: geleneksel bir Japon tapınağı avlusu — sıcak ahşap sütunlar, saçaklar ve korkuluklar — krem tonlu altın saat bokeh’ine eriyerek karışır. 85 mm lens, f/1.8, son derece sığ alan derinliği, odak kedinin gözlerine kilitli. Sıcak 3500K renk düzenlemesi, ön sağdan yumuşak ana ışık, hafifçe doldurulmuş gölgeler, ince film grenleri.
-EYLEM: çıplak bir insan kolu kadrajın solundan hızla girer; açık avuç içi güçlü hareket bulanıklığıyla kedinin yüzüne doğru uzanır. Kedi sakince sağ ön patisini kaldırıp avuç içine müdahale ederek hamlenin ivmesini keser — tokat atmaz, bloklar. Kol kedinin yüzünün önünden yatay biçimde bulanık geçer; ardından sağdan ikinci bir el aşağı doğru kesme hareketi yapar. Kedi, gövdesini ve başını tamamen sabit tutarak, gözlerini objektiften hiç ayırmadan her birini kısa ve minimal pati bloklarıyla savuşturur. Saldıran ellerdir — kedi ise tamamen tepkisel ve aldırışsızdır. Eller iki yandan içeri girip çıkarak şaşırtma hamleleri yapar; kedi göğüs hizasında iki patili boks gardına geçer, patilerini kıvırır, dirseklerini içeri alır ve bekleyerek bu pozisyonu korur. Ardından hızlı, bulanık tek patili karşı hamleler yapar; kung-fu tarzında gelen elleri havada yakalar, başı hâlâ karşıya kilitlidir. Son olarak sağ patisini doğrudan objektife doğru uzatır; pembe pati yastığı kameraya dönüktür ve kadrajı yumuşak, odak dışı bir ön plan şekli olarak doldurana kadar ilerler — arkasındaki yüz jilet gibi nettir, soğuk bakış bozulmaz.
-Hareket: doğal hız, uçan ellerde ve hızlı pati bloklarında gerçek hareket bulanıklığı. Savunmacı, minimal ve ekonomik kedi hareketleri — kedi neredeyse hiç hareket etmez; bütün işi eller yapar ve başarısız olur. Kamera hareketi yok, zoom yok, metin yok.
-NEGATİF: fazladan uzuvlar, birleşmiş veya mutasyona uğramış patiler, fazladan parmaklar, bozulmuş yüz, kürkle birleşen saç bandı, plastik görünümlü cilt, aşırı doygun renkler, metin, altyazı, logo, filigran, kesmeler, kamera sarsıntısı, oyuncu veya kutlama amaçlı beden dili, çak hareketi.
-KISA SÜRÜM:
-Siyah hachimaki bandı takan turuncu-beyaz tekir kedi, güneş alan bir Japon tapınağı avlusunda oturur ve kameraya ifadesiz bir bakış atar; 85 mm f/1.8, sığ alan derinliği, altın saat, film grenleri. İnsan elleri iki yandan hareket bulanıklığıyla hızla yüzüne doğru kesme ve itme hamleleri yapar — kedi sakince her darbeyi minimal bir pati bloğuyla savuşturur, başını hiç oynatmaz. İki patili kung-fu gardına geçer, hızlı ve bulanık karşı hamleler yapar, ardından pati yastığı kadrajı doldurana kadar patisini objektife doğru uzatır. Sabit kameralı tek plan, 10 sn, 16:9, 24 fps, fotogerçekçi, metin yok.
-Kareden küçük bir not: eller ağırlıklı olarak soldan giriyor (aşağı yönlü kesme + yatay süpürme); temas bilek/avuç içinde gerçekleşiyor — pati patiye değil. İki patili gard yaklaşık 4,0–5,6 sn arasında, bulanık karşı hamleler 5,6–8 sn arasında, patiyle lense bitiriş 8–10 sn arasında. Blender MCP ile 3B modeli oluşturup 10 sn, 24 fps çıktı alın ve bunu Seedance 2.5 video modeliyle PixVerse CLI kullanarak süper gerçekçi bir sahneye dönüştürüp işleyin
-AJAN ADIMLARI: Blender MCP’yi, PixVerse CLI kimlik doğrulamasını, model yeteneklerini ve kullanılabilir kredileri kontrol edin. Tahmini maliyetleri açıklayın ve ücretli üretimden önce harcama onayı alın. İstemi zaman kodlu bir aksiyon planına dönüştürün, resmî Blender MCP üzerinden hafif 3B ağlar ve animasyon oluşturun, bir hareket referansı MP4’ü dışa aktarın ve kadrajı, hareketi, temas noktalarını, süreyi ve kare hızını inceleyin. Videoyu göndermeden önce ayrı bir görünüm referansı görseli üretip inceleyin. Kimlik, stil ve ışıklandırmayı yönlendirmek için bu görseli; hareket ve zamanlamayı yönlendirmek için Blender videosunu kullanın. Üretimden sonra sonucu indirin, teknik özellikleri doğrulayın, ana kareleri inceleyin, sapmaları dürüstçe raporlayın ve gerçek kredi kullanımını hesaplayın. Orijinalleri koruyun; modelleri hiçbir zaman sessizce değiştirmeyin veya yeniden üretim yapmayın.
-PIXVERSE ÇAĞRISI: Onaylanan en-boy oranında, 1080p ve yüksek ayrıntı düzeyinde görünüm referansı oluşturmak için gpt-image-2.0 ile pixverse create image kullanın. Ardından, onaylanan video modelini kullanarak ve her ikisini de ileterek pixverse create reference komutunu çalıştırın --images and --videos togörünüm görselini Blender hareket referansıyla birleştirin. Seedance 2.5 için --model seedance-2.5 --task-type auto, onaylanan süre/en-boy oranını ve --quality 1080p --count 1.kullanın. Göndermeden önce mevcut yetenekleri doğrulayın, benzersiz idempotency anahtarları kullanın ve tamamlanma durumunu pixverse task status / pixverse task wait üzerinden takip edin.
-SON ÇIKTI: Onaylanan en-boy oranı ve sürede, 1080p ve 24 fps hedefiyle tamamlanan videoyu; ayrıca görünüm referansı görselini, Blender .blend projesini ve hareket referansı MP4’ünü teslim edin. Mutlak yerel yollar veya indirilebilir URL’ler sağlayın. Son rapor biçimini koruyun: Video, Referans görseli, Blender ağı + animasyon, Kontrol, Görünüm ve Kullanılan krediler. Gerçek çözünürlüğü, kare hızını, kare sayısını, süreyi, görsel sapmaları, görsel/video kredi maliyetlerini, toplam harcamayı, kalan bakiyeyi ve yeniden üretim yapılıp yapılmadığını raporlayın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101310374033428642) · [Orijinal gönderi](https://x.com/PixVerse/status/2101310387081908606) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2101325346427842909"></a>
-
-### Waymo Jaguar I-Pace 3B modeli
-
-[Harshith](https://x.com/HarshithLucky3) · 2026-09-19
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101325346427842909"><img src="../assets/previews/449ef82d65975e559172227f6d0fc27cdda054f8e215d3356b39b1a45b524772.jpg" width="840" loading="lazy" alt="Waymo Jaguar I-Pace 3B modeli"></a>
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101325346427842909"><img src="../assets/previews/b31d6fef03ae123be2811d7b8b566e76ce04232b1effc8e0858da4f7c20a7520.jpg" width="840" loading="lazy" alt="Waymo Jaguar I-Pace 3B modeli"></a>
-
-Yazar, Three.js ile oluşturulmuş 3B Waymo Jaguar I-Pace modeli için Codex'te GPT-6 Astra Max ile bu istemi kullandığını belirtiyor. Herhangi bir referans kullanılmadığını ve ortaya çıkan aracın gerçek otomobile benzemediğini ifade ediyor.
-
-**İstem**
-
-```text
-Three.js kullanarak Waymo Jaguar I-Pace 3B modeli
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101325346427842909) · [Orijinal gönderi](https://x.com/HarshithLucky3/status/2101325346427842909) · [Örneklere dön](#all-prompts)
-
----
 
 <a id="2101616345720787130"></a>
 
@@ -3599,6 +3546,183 @@ Fareyle yörünge görünümünü kontrol edin, kaydırma tekerleğiyle yakınla
 
 ---
 
+<a id="2113321027325300784"></a>
+
+### Oyuna hazır saman talim mankeni 3B modeli
+
+[Max](https://x.com/maxt3chno) · 2026-10-22
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/straw-training-dummy-game-ready-3d-model"><img src="../assets/previews/45bfb8696293be7c212f69c0b6bd3157abd43f788fa548d3132dd42d12574f65.jpg" width="840" loading="lazy" alt="Oyuna hazır saman talim mankeni 3B modeli"></a>
+
+Ekli referans görsele dayalı bu Blender promptu; ayrı ve parçalanabilir kafa ile kol nesnelerine, toplam 1,85 m gerçek dünya ölçeğine, üçgen ve doku sınırlarına, ayrıca GLB, Blend ve render çıktılarının alınmasına sahip, oyuna hazır bir saman talim mankeni oluşturur. Yazar, aynı promptun GPT-6 Astra ve Claude Opus 5.5 için kullanıldığını belirtiyor.
+
+**İstem**
+
+```text
+Blender MCP aracılığıyla Blender'ı kullanarak ekli görseldeki saman talim mankeninin oyuna hazır bir 3B modelini oluştur. Doğrudan Blender'da çalış: modeli oluştur, sonucu incele, referansla karşılaştır ve gerekli düzeltmeleri yap. Şekli, oranları, malzemeleri ve renkleri referansa olabildiğince yakın eşleştir.
+
+Gereksinimler:
+Gerçek dünya ölçeği: toplam yükseklik yaklaşık 1,85 m. Origin, direğin alt merkezinde olsun.
+Toplamda en fazla 15.000 üçgen.
+Dokular en fazla 2048 px: temel renk, normal, pürüzlülük. Saman için saydamlığa izin verilir.
+Gerçekçi bir tropik ada nişancı oyununa yerleştirilmeye hazır olsun.
+
+Parçalar (oyunda kopabilmeleri için ayrı ve adlandırılmış nesneler):
+"head" (çuval bezi kaplamasıyla birlikte), pivot boynun tabanında;
+"arm_left" ve "arm_right" (bambu direğin gövdede ikiye ayrıldığı kısımlar), her birinin pivotu gövdeyle birleştiği noktada;
+"body": diğer her şey (direk, saman gövde, ip, atkı) tek bir nesne olarak.
+Parçaların birleştiği yüzeyleri kapat: kafa veya kollardan biri koptuğunda görünür delik kalmasın.
+
+Çıktı:
+Tüm parçaların ve dokuların gömülü olduğu tek bir .glb dosyası.
+.blend dosyası.
+Sonucun referansla karşılaştırılabilmesi için düz bir arka planda ön görünüş ve üç çeyrek görünüş renderı.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/straw-training-dummy-game-ready-3d-model) · [Orijinal gönderi](https://x.com/maxt3chno/status/2113321949090717982) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2113602050172785117"></a>
+
+### Chalk Square: piksel sanatlı 3B dört kare oyunu
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-23
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/chalk-square-pixel-art-3d-game"><img src="../assets/previews/2c807caf73920fff28ce7ba56647853f52db15276311b85ec6e88d7f29f8bda9.jpg" width="840" loading="lazy" alt="Chalk Square: piksel sanatlı 3B dört kare oyunu"></a>
+
+Yüzen bir adadaki arka bahçede geçen, tek dosyalı bir Three.js 3B dört kare futbol oyunu. Oyunda sekiz yapay zekâ kontrollü çocuk, top fiziği ve saha kuralları, piksel sanatı oluşturma kontrolleri, tebeşiri silip yeniden çizen hava durumu ve mobil uyumlu İngilizce bir arayüz bulunur. Ana promptun yazarı, bu promptun GPT-6 Astra ve Claude Opus 5.5 için de kullanıldığını özellikle belirtir.
+
+**İstem**
+
+```text
+"Chalk Square" adlı, yüzen bir adadaki arka bahçede futbol topuyla oynanan dört kare oyununun tek dosyalı HTML + three.js (r160) sahnesini oluştur. Bu, keskin piksel sanatı olarak oluşturulan gerçek bir 3B sahne olmalı.
+
+Oluşturma: 90° adımlarla döndürmek için sürüklenebilen, yakınlaştırmak için kaydırma tekerleği veya kıstırma hareketi destekleyen ortografik izometrik kamera kullan. Derinlik dokusuna sahip küçük, düşük çözünürlüklü bir hedefe oluştur; ardından texelFetch ile tüm ekran piksellerine ölçekle. Derinlik tabanlı dış çizgiler ekle ve her pikseli OKLab'de sabit, yaklaşık 60 renkli bir palete kuantize et; isteğe bağlı Bayer dithering kullan. "Pixel art / Raw 3D" geçişi, piksel boyutu kaydırıcısı ve Palette / Dither / Outlines onay kutuları ekle.
+
+Bahçe: asfalt adanın kenarlarında çim ve toprak bulunan, yamalı ve çatlak bir zemin; kenarında bordür. Asfaltın çevresine şunları yerleştir:
+- Üzerinde boyalı ve numaralı kapılar bulunan bir sıra kilitli garaj; bu garajların üstüne taşan düz bir çatı;
+- Uyarı levhası olan tuğla bir trafo kulübesi;
+- Yanında bank ve bankta oturan bir büyükanne bulunan bir kavak;
+- Bir barfiks demiri, halı bulunan bir halı askısı ve çalılar;
+- Bir direğin üzerinde lamba ve bir garaj kapısının üzerinde başka bir lamba.
+Güvercinler yürüyüp gagalayarak yerde gezinir; top veya çocuklardan biri yaklaştığında kanat çırparak çatılara uçarlar. Garajın çatısındaki bir kedi, başını hareket ettirerek topu takip eder.
+
+Tebeşir: asfaltın üzerinde bir veri dokusu kullan. Bu doku, harfler ve bir taçla birlikte dört bölgeye (King, Queen, Jack, Dunce) ayrılmış 4,8 m'lik kareyi, ayrıca seksek ve karalamaları içerir. Her texel, kendi çizgisi boyunca sırasını saklar; böylece çizgiler aşamalı olarak yeniden çizilebilir.
+
+Oyun (her biri beceri, güç ve oyun tarzına sahip 8 çocuk: power / trick / safe / lob):
+- Dört çocuk oynar, dört çocuk sırada bekler. King, topu yere bırakarak ve sekmeden sonra tekmeleyerek servisi kullanır.
+- Top kendi bölgenizde bir kez sekmeli, ardından başka bir bölgeye tekmelenmelidir. İki dokunuş kuralı geçerliyse topu önce yumuşatarak kontrol edebilirsiniz.
+- Şu durumlarda oyun dışı kalırsınız: topun dışarı düşmesi, kendi bölgenize düşmesi, ikinci kez sekmesi veya (ayarlanmışsa) orta çizginin üzerine düşmesi. Bunların dışındaki çizgi temaslarında oyun tekrarlanır.
+- Oyun dışı kalan çocuk sıranın en arkasına geçer. Arkasındaki herkes bir bölge yukarı çıkar ve sıradaki çocuk Dunce bölgesine girer. Bir çocuk topu alıp King'e atar.
+
+Top ve yapay zekâ: gerçekçi top fiziği kullan (yerçekimi, sekmeler, yuvarlanma, su birikintilerinde daha yumuşak sekmeler ve duvarlar). Her karşılayan çocuk topun hareketini ileriye dönük simüle eder, topun ayak hizasına geldiği anı seçer, arkasında durmak için koşar ve tekme atar. Şutlar drive, lob veya çizginin hemen üzerinden geçen dink şeklinde olur; hedef çocuktan uzağa yönlendirilir ve herkes King'i hedef alır. Top hızlandıkça, temas süresi uzadıkça ve beceri azaldıkça hedefleme ve güç hataları büyür; arada bir tekme ıskalanır.
+
+Çocuklar: iki kemikli IK kullanan kutu rig'leriyle oluşturulmalı. Pozlar: koşma, hazır bekleme çömelmesi, top yüksekliğinde vuruş yapan tekme, yumuşak kontrol, tutma, atma, alkışlama, hakeme itiraz etme ve tebeşir çizerken çömelerek yürüme.
+
+Zaman ve hava durumu: Day / Dusk / Night (lambalar sahayı aydınlatır), Dry / Rain.
+- Rain: yağmur çizgileri, sıçramalar, koyulaşan asfalt, aynalı bir oluşturma geçişiyle bahçeyi yansıtan su birikintileri ve silinip solan tebeşir.
+- Çocuklar garaj çatısının altına sığınır. Asfalt kuruduğunda ikisi kareyi yeniden çizer ve oyun devam eder.
+
+Arayüz (İngilizce, açık ve koyu temalar, mobil düzen):
+- Rally sayısını, saat + durumu, King'in mevcut saltanatını ve en uzun saltanatı gösteren aydınlatmalı bir skor tabelası.
+- Şunları içeren bir yan panel: Time & weather (asfalt ve tebeşir çubuklarıyla); ladder (King / Queen / Jack / Dunce ve "Next up"); Rules (One/Two touches; Liners: Replay/Out); "Gang up on the King" ve Pause seçeneklerini içeren bir oyun akışı; View.
+- Karedeki bir çocuğa tıklayın; herkes hedefini ona yöneltsin. Özgün tasarım, gerçek marka kullanma.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/chalk-square-pixel-art-3d-game) · [Orijinal gönderi](https://x.com/vib3coded/status/2113602161607069911) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2113627142772899916"></a>
+
+### YÜZEN DÜNYA etkileşimli 3B ada sığınağı
+
+[SiliconFlow](https://x.com/SiliconFlowAI) · 2026-10-23
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/floating-world-interactive-3d-island"><img src="../assets/previews/b01b4446070b691a5047432574bb059724cc886cb5721670c976c7ffb37eecae.jpg" width="840" loading="lazy" alt="YÜZEN DÜNYA etkileşimli 3B ada sığınağı"></a>
+
+SiliconFlow tarafından paylaşılan ve DeepSeek V4.1 Flash 1017 ile GPT-6 Astra karşılaştırmasında kullanılan, yeniden kullanılabilir bir prompt. Yüzen bir Doğu fantezisi adası, köşk, Ay Köprüsü, göletler, şelaleler, animasyonlu bir köpek, önemli noktaları gösteren kamera görünümleri ve altın saatten alacakaranlığa geçiş için bir atmosfer denetimi içeren, tek dosyalı prosedürel bir WebGL deneyimi ister.
+
+**İstem**
+
+```text
+“FLOATING WORLD” adlı eksiksiz, tek dosyalık bir Three.js/WebGL deneyimi oluştur: altın saat ışığında, sonsuz bulut denizinin üzerinde süzülen sinematik ve etkileşimli bir Doğu fantezisi ada sığınağı. Yalnızca prosedürel geometri ve dokular kullan; harici 3B varlıklar, görseller, ücretli API'ler, yer tutucular veya TODO kullanma. Three.js bir CDN üzerinden yüklenebilir. Eksik WebGL durumunu, yeniden boyutlandırmayı ve mobil düzenleri sorunsuz şekilde ele al. Görünen tüm metinler yalnızca İngilizce olmalı; hiçbir yerde Çince karakter kullanılmamalı.
+
+SCENE
+Katmanlı kayalık alt yüzeye, yosunlu kenarlara, sarmaşıklara, teraslı bahçelere ve uzakta süzülen adalara sahip büyük bir merkezi ada.
+Önde, iki katlı merkezi bir köşk; ön sağdaki göletin üzerinde kemerli bir Ay Köprüsü; solunda daha küçük, çimenlerle çevrili bir gölet; solda yaşlı bir çam ağacı ve adanın kenarında iki şelale.
+Zengin malzemeler: yıpranmış taş, koyu ahşap, sırlı koyu teal çatı kiremitleri, koyu yeşil yosun ve bitki örtüsü, su ve ölçülü altın detaylar.
+Ön plan, orta plan ve arka plan arasında belirgin ayrım; atmosferik sis, yumuşak gölgeler, sıcak kenar ışığı ve kontrollü bloom.
+Adanın tamamı nazikçe yukarı aşağı salınsın (±0.3 birim, 11–18 saniyelik periyotlar). Bulut denizi, uzaktaki adalar, gökyüzü ve aydınlatma sabit kalsın.
+GRASS
+Her biri yaklaşık 8 kıvrımlı yapraktan oluşan yaklaşık 20.000 kısa çim öbeği. Öbekler yoğun biçimde üst üste gelmeli ve soluk dikenler gibi değil, kesintisiz ve derin orman yeşili bir çim alanı gibi görünmeli.
+Yüksekliği, yönelimi, doygunluğu ve açıklığı çeşitlendir.
+Aralıklardan kahverengi toprağın görünmemesi için arazinin kendisine koyu renkli, prosedürel bir çim örtüsü dokusu ver.
+Çimleri köşkten, köprüden, göletlerden, dereden ve ana yoldan uzak tut.
+PAVILION
+Taş kaideli, ahşap sütunlu, korkuluklu ve basamaklı iki katlı Doğu köşkü; sunak, çan, sıcak fenerler ve kenarları altın süslemeli iki koyu kırmızı sancak ekle.
+Her iki çatı da koyu sırlı teal/yeşil olmalı; kesinlikle beyaz veya dokusuz olmamalı.
+Mahyadan saçağa uzanan belirgin dikey kiremit kanalları, güçlü kiremit dokusu, bump mapping ve gerçekten yükseltilmiş 3B kiremit kaburgaları ekle.
+Çatıyı düşük beyaz speküler yansımaya sahip mat bir yüzey olarak tut. Koyu kırma çatı mahyaları, altın köşe süsleri ve altın bir çatı alemi ekle.
+Sancaklardaki monogramlar Çince karakterler yerine İngilizce “F” ve “W” olmalı.
+GÖLETLER VE SU
+Yaklaşık (10, 8) konumunda, yarıçapı ~5 olan ana gölet; yükseltilmiş taş bordürü ve kemerli taş Ay Köprüsü ile birlikte.
+Yaklaşık (5.5, 15.1) konumunda, yarıçapı ~2 olan sol çimen göleti; taş bordür, sazlıklar, taşlar ve çevresinde çimlerle birlikte.
+Her iki gölet ve kıyıdaki tüm taşlar tamamen ada silüetinin içinde kalmalı. Su veya taşların dışarı taşmasını ve küçük ek yaya köprüsünü kaldır; dereyi kısalt.
+Her iki göletin kenarlarını taşlar, sazlıklar ve çimlerle tamamen kapla; kâğıt gibi görünen açıkta su kenarları bırakma.
+Su shader'ı: prosedürel dalgalanmalar, Fresnel yansıması, gökyüzü yansıması, güneş parıltıları ve hafif köpük.
+Gündüz: sıcak teal/yeşil yansımalar. Alacakaranlık: koyu indigo/mavi-teal; kesinlikle çamurlu sarı-yeşil değil.
+Açık mavi, benekli parıltıyı kaldır. Gece akış hızı, gündüzün yalnızca ~%4'ü olsun.
+Gündüzden alacakaranlığa geçişte su yavaşça ve monoton biçimde yavaşlamalı, geçici olarak asla hızlanmamalı. Birikimli bir su fazı saati kullan.
+WATERFALLS
+Yaklaşık 70° açıdaki sol şelale: üst kısmını yaklaşık y=-2.6 seviyesine indir ve başlangıcını büyük, yosunlu bir uçurum kayası perdesinin arkasına gizle. Yalnızca alt akış görünür olmalı.
+Yaklaşık 36° açıdaki sağ şelale: köprü göletine bağlı olsun; görünür üst kısmını değiştirme.
+Aşağı doğru akan çizgiler, köpük, yumuşak kenarlar ve tabanda sis kullan.
+CLOUDS
+Bulut denizini yaklaşık y=-20.4 seviyesine yükselterek ada tabanını sarmasını sağla.
+Yoğun, çok katmanlı beyaz bulutlar oluştur: adaya yakın bulut kuşağı, uzaktaki kabarık bulutlar, alçak ince bulutlar ve sis.
+Bulutlar düz kâğıt katmanları gibi değil, üst üste binmiş pamuk kümeleri gibi görünmeli; ortada görünür delikler olmamalı.
+Ön sol bulut kümesi: adayı kısmen örten, kabarık ve hacimli yaklaşık 18 bulut parçası.
+Adanın üzerinde daha yüksek dört bulut grubu; her biri yaklaşık 17–21 bulut parçasından oluşmalı, boyut ve derinlikleri çeşitlenmeli ve sıkıca paketlenmeli.
+Tüm bulutlar beyaz veya sıcak beyaz olmalı. Gri bulut malzemeleri ya da gri gölge bulutları kullanma. Sağ taraftaki adayı örten eski bulutu geri getirme.
+BİTKİ ÖRTÜSÜ VE DETAYLAR
+Birkaç koyu yeşil çam/bonsai benzeri ağaç; eğri gövdeli, görkemli taçlı, asılı fenerli ve küçük taş tapınaklı büyük bir Ata Çamı.
+Yosunlu çalılar, kır çiçekleri, sazlıklar, nilüferler, sarmaşıklar, sıcak renkte süzülen ışık parçacıkları ve uzakta birkaç kuş.
+Aşağıdaki sarı köpek dışında hiçbir hayvan olmasın.
+SARI KÖPEK
+Küçük, altın sarısı bir köpek: yuvarlak kapsül biçimli kısa tombul bacaklar ve pürüzsüz kalça eklemleri, kısa kuyruk, yuvarlak gövde ve kafa, siyah burun, gözler, kulaklar ve dil, kırmızı tasma, altın künyesi.
+Koşan bacakları, gövde salınımını, kuyruk sallamasını ve kafa hareketini canlandır.
+Köpeği gerçek hareket yönüne göre yönlendir; yana veya geriye dönük olmasına kesinlikle izin verme.
+Köpeğe yaklaşık (-2.3, 9.2) merkezli, yaklaşık rx=3.0, rz=2.0 elips biçiminde, sınırları belirgin bir çim çayırı ayır.
+(-5.1, 10.5) yakınındaki taş feneri ve yaklaşık 4.6 yarıçap içindeki tüm basamak taşlarını kaldır; kaldırılan taşların yerine yaklaşık 24 koyu çim öbeği yerleştir.
+Köpek bu çayırın içinden rastgele hedefler seçsin, duraklasın ve yeniden seçim yapsın; sabit bir döngü kullanma. Çayırdan asla çıkmamalı; taşlara, yapılara, göletlere veya teraslara kesişmemeli. Ada salınımıyla birlikte hareket etmeli.
+KAMERA VE ETKİLEŞİM
+Düşük bir yan açıdan kahraman görünümüne geçen, yaklaşık 8 saniyelik sinematik bir açılış keşfi.
+Kahraman kamera ~(44, 31, 65), hedef ~(0, 2.8, 0), FOV 43°.
+Sönümlemeli OrbitControls, sürükleyerek yörüngede döndürme, tekerlekle yakınlaştırma ve kaydırma olmadan kullanım; kamerayı düzgün biçimde sıfırlayan bir düğme ekle.
+Akıcı kamera yakın planları ve İngilizce bağlamsal kartları bulunan üç tıklanabilir simge yapı:
+Yeşim Köşkü: ~(18.5, 12.2, 17.2) → (0, 7.4, -2.6), FOV 40.
+Ay Köprüsü: ~(25, 10, 32) → (10, 4.2, 8), FOV 42.
+Ata Çamı: ~(10, 15, 38) → (-10.5, 7, 5.4), FOV 42.
+Simge yapılarda küçük bir hover etiketi göster; sürükleme seçim tetiklememeli.
+AYDINLATMA VE KULLANICI ARAYÜZÜ
+Altın saat: arka soldan gelen sıcak güneş, uzun gölgeler, şeftali tonlu ufuk ve krem rengi bulutlar.
+Alacakaranlık: indigo gökyüzü, turuncu-pembe ufuk, daha sönük güneş, daha parlak fenerler ve koyu indigo su.
+Atmosphere geçiş düğmesiyle 3,6 saniyelik yumuşak bir aydınlatma geçişi.
+ACES ton eşleme, ölçülü bloom, sis ve yumuşak gölgeler.
+Yalnızca İngilizce kullanıcı arayüzü: “FLOATING WORLD”, “A Sanctuary Above the Clouds”, “The Realm of Drifting Clouds”, bir F mührü, atmosfer geçiş düğmesi, sıfırlama kontrolü ve üç sakin yer bağlantısı. Krem, mürekkep ve altın renklerini zarif bir serif/sans yazı tipi eşleşmesiyle kullan.
+Kullanıcı arayüzünde, sancaklarda, etiketlerde, yükleyicide veya geri dönüş ekranında Çince metin bulunmamalı.
+TECHNICAL
+Taş, çim, ahşap, çatı kiremitleri, bulut kümeleri, su, şelaleler ve sancaklar için prosedürel CanvasTexture/shader kullan.
+Masaüstünde 60 FPS hedefi; duyarlı düzen, sınırlandırılmış piksel oranı, çalışan etkileşimler ve çalışma zamanı hatası olmamalı.
+Tek ve özenle hazırlanmış bir HTML dosyası teslim et.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/floating-world-interactive-3d-island) · [Orijinal gönderi](https://x.com/SiliconFlowAI/status/2113627339318042713) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Sonsuz Tank Savunması
@@ -3934,68 +4058,10 @@ Kilit dosyası bulunan, aynı origin üzerinden sunulan scriptleri, fontları ve
 
 ---
 
-<a id="titanic-the-last-light"></a>
-
-### TITANIC — Son Işık
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-20
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/titanic-the-last-light"><img src="../assets/previews/804ff98b5bbd18f23ba66fe1a98ef14b46381b11adb913f606281899db4ecbc0.jpg" width="840" loading="lazy" alt="TITANIC — Son Işık"></a>
-
-Derin mavi Atlantik, karakter portreleri, takipli filika indirme sahnesi ve keşfedilecek hareketli bir dünyayla 4:24 dakikalık sinematik Titanic yolculuğu.
-
-**İstem**
-
-```text
-1. Proje amacı
-TITANIC — THE LAST LIGHT’ı oluşturun: geminin son gün batımından çarpışma, tahliye ve batışa, oradan da şafak anıtına uzanan 264 saniyelik etkileşimli bir sinematik yolculuk. Ziyaretçiler yönetmen kurgulu bir film izleyebilmeli, hareketli 3B dünyayı keşfedebilmeli, bir bölüme atlayabilmeli, tek bir kareyi kaydedebilmeli veya filmin tamamını indirebilmeli. Bunu adli doğruluk ya da resmî bağlantı iddiasında bulunmadan, sanatsal bir yorum olarak sunun.
-
-2. Görsel yön
-Sade ve ölçülü bir sinematik palet kullanın: derin Atlantik mavisine karşı sıcak krem ve amber gemi ışıkları; ardından karanlık, yıldızlarla aydınlanan gece ve soğuk şafak. Sahneyi perspektif olarak, 2.39:1 film kompozisyonuyla, yumuşak bloom, hafif gren ve vignette kullanarak render edin. Karakter portrelerinde ve şafak sahnesinde alan derinliğinden yararlanın; imdat roketlerinin parçacıklarını ise keskin tutun. Okyanusa koyu mavi bir gövde rengi, dünya uzayında dalgalanmalar, daha küçük mipmap’lenmiş ripple normal’ları ve Fresnel yansımaları verin; sıcak gün batımı rengi esas olarak yansıyan ışıkta görülmeli. Aynı okyanus deformasyonunu izleyen, gövdeye bağlı wake şeritleri kullanın; uçları yumuşak, köpükleri kesintili olsun. Dikey gökyüzü dikişlerini ve yansıyan çizgileri önlemek için panorama dokularını yatayda, fract kesintisi oluşturmayacak şekilde sarın. Turuncu sığ su gölgelendirmesinden, tekdüze küçük dalgalanmalardan ve parlayan dairesel köpük decal’lerinden kaçının. Derinlik çakışmasını önlemek için gizli, üst üste binen çatı üst yüzeylerini kaldırın; kamera için çekim mesafesine uygun bir near plane kullanın. Batış sırasında pencere ışığını yüksek frekanslı titreşim eklemek yerine monoton biçimde kısın. Sade bir serif başlık, iki dilli İngilizce/Çince kontroller ve alt kısım boyunca dar bir zaman çizelgesi kullanın.
-
-3. Dünya, coğrafya ve kamera kurgusu
-269 metre uzunluğundaki gemi, pruva +X yönüne bakacak ve buzdağı (275, 0, 57) konumuna sabitlenecek şekilde tek ve kesintisiz bir koordinat sistemi kullanın. Gemi ilerlesin, buzdağına 96.727 saniyede temas etsin, süzülerek dursun ve ardından baş ile kıç bölümleri ayrı ayrı batacak şekilde suya gömülsün. Buzdağını final boyunca sahnede tutun ve şafak kompozisyonunda görünür kılın. 0, 63, 110, 163, 211 ve 241. saniyelerde başlayan altı bölümü koruyun.
-
-23 bilinçli şekilde tasarlanmış çekim oluşturun. Pruva kucaklaşması 29–61. saniyeler arasında sürsün: genel yaklaşma, yakın çift portre, denize doğru arkadan bakış ve eğik portreden oluşsun. Rose’u önde, Jack’i onun arkasında, pruvanın uç kısmında konumlandırın; ikisi de pruvanın üzerinden dışarıya bakıyor olsun. Sekans boyunca gün batımı ışığını koruyun. 127–158. saniyeler arasında, bir filikanın gerçek dünya dönüşümüne bağlı üç çekim kullanın: filika güvertesinden ayrılış, yolcuların ve askı halatlarının daha yakın görünümü ve suya yaklaşma. Ardından geniş tahliye, yana yatma, kırılma ve batış çekimlerini kullanın. Şafakta, uzakta buzdağı görünürken hayatta kalan filikaları gösterin ve ardından ölçülü bir anıt başlığı kullanın.
-
-4. Varlık envanteri
-- titanic-vessel: 269 metrelik ana yapıyı Blender’da; kesintisiz well deck’ler, kapalı forecastle, katmanlı gezinti güverteleri, içi boş ve geriye eğimli dört buff funnel, siyah üst gövde ve kırmızı alt gövdeyle oluşturun. 864 lomboz ve çerçeveleri için gerçek dairesel kenarlar kullanın. Emission’ı gerçek cam malzemeleriyle sınırlayın. Malzemeleri toplu işleyin ve batış için x=-32 konumundan ayırın. Direkleri, rigging’i, davit’leri, halatları, bronz pervaneleri ve dümeni ekleyin. Tik kapılar ve pirinç ayrıntılara sahip bir P2 companionway üretin, normalize edin ve hazırlanmış güvertede iki kez yeniden kullanın. GLB’yi birleştirirken düğüm dönüşümlerini koruyun.
-- atlantic-iceberg: katmanlı kırağıya, değişken roughness değerlerine, ölçülü bir normal map’e ve inandırıcı bir su çizgisine sahip, düzensiz ve aşınmış tek bir mavi-beyaz buzdağı. Sabit bir coğrafi nesne olarak kalır.
-- lifeboat: beyaz ahşap gövdeye, koyu küpeşteye, oturaklara ve küreklere sahip tek bir White Star kürekli filika; bağımsız hareket eden on altı filikada instanced olarak kullanılır.
-- bow-embrace: talep edilen 1997 filmindeki kostüm ve pozdan esinlenen, izole edilmiş çift karakter varlığı: Rose’un kızıl-kahverengi saçları, lacivert/fildişi kıyafetleri ve desenli şalı, kolları açık; hemen arkasında koyu renk palto ve fildişi gömlek giyen Jack. H v3.1’e dönüştürmeden önce temiz, tam figür referans görselleri üretin; her figürün baş, boyun, omuz ve kıyafet bütünlüğünü koruyun. Rose’u ayrı bir yakın plan referansı ve H yüz ayrıntısı donörüyle iyileştirin: gözleri, burnu, dudakları ve çeneyi hizalayın; yerel biçim ve rengi kesintisiz tam figür mesh’ine aktarın; UV geçişini harmanlayıp rötuşlayın. Jack için doğal ten rengine, belirgin gözlere ve dudaklara sahip temiz bir portre üretin. Başın ve üst boynun tamamını koruyun, bakış yönünü ve ölçeği H gövdesine uydurun, alt boynu yüzeye oturtun ve iki sınır loop’unu weld edin. Yüz ayrıntısını düzleştirmeden dar boyun geçişini bake edip rötuşlayın. Duruşu ve ellerin temasını Blender’da düzeltin. Koyu lekeleri, doku dikişlerini, delikleri, kesilmiş kenarları ve giysi kesişmelerini önden, yandan ve arkadan inceleyin. Ten ve kumaş için ayrı shading kullanın. Doğal temel ifadeleri, ölçülü beden ve kumaş hareketleriyle koruyun; gerçekten uygulanmadıysa yüz animasyonu rig’i varmış izlenimi vermeyin.
-- seated-woman ve seated-man: 1912 kıyafetleri ve açık renk mantar can yelekleri giyen, dizleri bükülü ve elleri kucaklarında oturan ayrı yetişkin yolcu modelleri. Geometri ve malzemeleri filikalar arasında paylaşın; yerleşim ve yönelimleri hafifçe çeşitlendirin. Binme işlemi için filika başına geri alınabilir instance sayıları kullanın.
-
-Ana gemi için Blender’ı, güverte companionway’i, buzdağı, filikalar ve oturan yolcular için Tripo P2.0’ı, iki eksiksiz başrol figürü ve yakın plan portre iyileştirmeleri için H v3.1’i kullanın. Okyanusu, gökyüzü geçişini, yıldızları, ışıklandırmayı, dumanı, imdat roketlerini, köpüğü, su serpintisini ve enkazı sahne efektleri olarak tutun. Sıkıştırılmış dokulara sahip daha hafif web modeli varyantları sağlayın; ayrıntılı kaynak varlıklarını düzenleme için koruyun. Web sitesi ve çevrimdışı film dışa aktarımı için aynı onaylanmış optimize başrol çiftini kullanın.
-
-5. Oynatma ve geri bildirim
-Temel gemi, filika, gökyüzü ve deniz normal varlıkları için gerçek yükleme ilerlemesini gösterin. İlk sahne hazır olduğunda açılış düğmesini etkinleştirin; diğer modelleri ve müziği erteleyin. Gerekli bir karakter veya buzdağı modeli gecikirse çekimi sessizce atlamak yerine sahne sınırında bekleyin ve hazır olduğunda devam edin. Ses, kullanıcı etkileşiminden sonra başlasın.
-
-Zaman çizelgesi, sıfıra dönmeden ileri/geri aramayı ve hızlı sürüklemeleri desteklemeli. Arama sırasında oynat/duraklat ve sessize alma durumunu koruyun; eski ses saatinin istenen konumun üzerine yazmasına izin vermeyin. MP3 ve MP4 için byte range sunun. Bölüm gezintisinde 29. saniyedeki pruva kucaklaşmasına ve 127. saniyedeki filika indirme anına doğrudan girişler bulunmalı; bunlar oynatma durumunu korurken yönetmenin kamerasını geri yüklemeli.
-
-Keşif sırasında dünya, gemi ve film müziği devam ederken yörünge, sürükleme ve yakınlaştırmaya izin verin. Görüş yönünü sabitlemeden geminin çevirisini takip edin. Duraklatma bağımsız kalmalı; filme dönüldüğünde mevcut zaman korunmalı. Space oynatır/duraklatır, ok tuşları on saniye atlar, M sesi açıp kapatır, E keşfi açıp kapatır ve F tam ekranı açar. Dokunmatik yörünge/sıkıştırarak yakınlaştırma ve zaman çizelgesine dokunmayı destekleyin.
-
-Filikalar boş başlar. Yolcular 112. saniyeden sonra kademeli gruplar hâlinde binsin ve her filika aşağı inmeden önce işlemi tamamlasın. Halatlar hareketli davit’ler ile gerçek filika bağlantı noktaları arasında uzansın, bırakma sonrasında kaybolsun. Geriye doğru arama, önceki doluluk ve halat durumlarını geri yüklemeli. Çarpışma; gövde/kamera titreşimini, buz parçalarını, sürtünme serpintisini ve çelik/buz ses geçişini eşgüdümlemeli. İmdat roketlerinde beyaz yanan yıldızlar, kısa ve ayrı izler, yerçekimi, sürükleme ve giderek kaybolan duman kullanın. Batışın oluşturduğu hareketlenmeler, düzensiz ve dalgayı izleyen, kademeli olarak azalan lekeler olmalı; su serpintisini uzak bir noktasal çeşmeden değil, kıçın gerçek su çizgisi boyunca dağıtın.
-
-6. Teknik uygulama ve teslimatlar
-Vite, JavaScript modülleri ve Three.js ile deterministik, zamana dayalı animasyon kullanın. Kamera/zaman çizelgesini, gemi varlıklarını, karakterleri, çevreyi, efektleri ve sahne hazırlığını birbirinden ayırın. Web oynatımı, arama ve çevrimdışı yakalama için aynı zaman modelini paylaşın. Web render’ını açıkça belirlenmiş piksel, yansıma ve gölge bütçesi içinde tutun; daha ağır ambient occlusion’ı çevrimdışı profile erteleyin. Uzun süre engelleyen bir başlangıç ön ısıtması yapmadan varlıkları derleyip decode edin. Script’leri, modelleri, görselleri, fontları ve sesleri aynı origin üzerinden sunun; gizli bilgileri statik build’in dışında tutun.
-
-Özgün bir müzik ve ücretli ElevenLabs Foley kullanın: gerçek airburst noktasından ikiye ayrılmış, yükselen uçuş ile keskin patlama ve çıtırtılı kuyruktan oluşan eksiksiz doğal ıslıklı havai fişek kaydı; çelik/buz teması ve sürtünmesi; filika halatları ve su teması; gövde gerilimi/kırılması; kıçın suyu yerinden oynatması. Kaynak WAV dosyalarını dışa aktarın, prompt’ları/geçmiş kimliklerini koruyun ve bunları zamanlanmış cue’lara dönüştürün. Fırlatmaları 119, 151 ve 183. saniyelere, havai fişek patlamalarını ise 3.15 saniye sonrasına hizalayın. Orijinal patlama atağını koruyun ve orkestra müziğinin sesini kısa süreliğine duck edin. Mix’in altında sakin deniz, rüzgâr ve motor ambiyansını koruyun. Referans filmin müzikleri, hem herkese açık web sitesi hem de indirilebilir film için izin alınmadan dahil edilmemeli. Bir fallback’i servis tarafından üretilmiş varlık gibi tanımlamak yerine gerçek varlık ve ses kaynaklarını belgeleyin.
-
-3840×2160 çözünürlükte, 24 fps, üç zamansal örneklemeli, toplam 6.336 kareden oluşan deterministik bir dışa aktarım sağlayın; İngilizce başlıkları görüntüye gömün ve 2.39:1 letterbox görüntü kullanın. 4K H.264/AAC master ile 100 MiB’ın altında bir 1080p web sürümü kodlayın; her ikisi de 48 kHz stereo sesle 264 saniye uzunluğunda olsun. İsteğe bağlı Çince/İngilizce altyazıları, ses master’ını ve düzenlenebilir kaynağı koruyun. Statik build’i mevcut CMS Web Pages barındırması üzerinden yayınlayın; bir platform uygulaması veya sayfa başına Worker eklemeyin.
-
-7. Kabul kriterleri
-Açılışı, her iki karakter portresini, çarpışmayı, imdat roketlerini, üç indirme çekiminin tamamını, kırılmayı, kıçın kaybolmasını ve şafağı inceleyin. Buzdağının 244. saniyede kaybolmadığını, denizin derin mavi göründüğünü, batışta düzenli beyaz halkalar bulunmadığını, karakterlerin hazırlanmış çekimlerinde kaldığını ve filika halatlarıyla yolcuların indirme boyunca hizalı olduğunu kontrol edin. Gecikmeli model yüklemeyi, ileri/geri aramayı, hızlı scrub işlemini, duraklatma/sessize almayı, dinamik keşfi, doğrudan yakın plan girişlerini ve dokunmatik emülasyonu test edin. Dışa aktarılan her kareyi doğrulayın, her iki filmi eksiksiz decode edin, gerçek tarayıcı indirmesini teslim edilen dosyayla karşılaştırın ve herkese açık build’i ve CMS bağlantısını doğrulayın. Tarayıcıdaki mobil emülasyonu fiziksel telefonda yapılan testten ayırın.
-
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/titanic-the-last-light) · [Canlı demo](https://titanic-the-last-light.tripo.page/) · [Örneklere dön](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 358 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 361 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

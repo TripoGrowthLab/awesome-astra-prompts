@@ -28,7 +28,7 @@
 **Un point de départ pour votre prochain jeu, scène ou monde interactif.**
 
 
-**358 · Derniers prompts Astra**
+**361 · Derniers prompts Astra**
 
 ## Projets à découvrir
 
@@ -50,8 +50,6 @@
 <details>
 <summary>Parcourir les exemples</summary>
 
-- [Workflow d’animation 3D et de génération vidéo d’un chat pratiquant les arts martiaux](#2101310374033428642)
-- [Modèle 3D d’une Jaguar I-Pace de Waymo](#2101325346427842909)
 - [Voilier en pleine mer](#2101616345720787130)
 - [Créer un modèle 3D de WALL-E avec Three.js](#2101687900723106104)
 - [Verdant — île aux dinosaures 3D interactive](#2101730386711634251)
@@ -144,67 +142,16 @@
 - [Animation cinématographique d’une tempête dans une bouteille](#2112552671890874585)
 - [Montre squelette de luxe en 3D](#2112556579153178940)
 - [Tempête de l’Atlantique Nord — Simulation 3D réaliste d’un océan et d’un phare](#2112916773838454922)
+- [Modèle 3D de mannequin d’entraînement en paille prêt pour le jeu](#2113321027325300784)
+- [Chalk Square : jeu de carré à quatre cases en 3D pixel art](#2113602050172785117)
+- [MONDE FLOTTANT — sanctuaire insulaire 3D interactif](#2113627142772899916)
 - [Battle City 3D : Défense de chars sans fin](#battle-city-3d)
 - [Crazy Tanks — Artillerie insulaire en 3D](#crazy-tanks-3d-island-artillery)
 - [Golden Miner : jeu de minage 3D en 24 niveaux](#golden-miner)
 - [Villa en gelée](#jelly-villa)
 - [1, 2, 3, soleil : jeu de survie en 3D](#red-light-green-light)
-- [TITANIC — La dernière lumière](#titanic-the-last-light)
 
 </details>
-
-<a id="2101310374033428642"></a>
-
-### Workflow d’animation 3D et de génération vidéo d’un chat pratiquant les arts martiaux
-
-[PixVerse](https://x.com/PixVerse) · 2026-09-19
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2101310374033428642"><img src="../assets/previews/8249faaaa8f71ae6e4f9ede16b0948cd336e92001b288ecec9177aca4eb5f939.jpg" width="840" loading="lazy" alt="Workflow d’animation 3D et de génération vidéo d’un chat pratiquant les arts martiaux"></a>
-
-Le commentaire vérifié de PixVerse présente ce contenu comme un prompt utilisé dans Hermes Agent. La publication d’origine crédite le créateur PixVerse @woleswoosh pour sa démonstration de catfu et indique qu’elle a été réalisée avec GPT-6 Astra et Blender. Le prompt demande à un agent de créer des maillages et une animation Blender légers pour un chat tigré raide et stoïque qui pare des mains arrivant vers lui dans la cour d’un temple japonais, de rendre un MP4 de référence des mouvements de 10 secondes, puis de générer une vidéo photoréaliste en 1080p avec PixVerse CLI et Seedance 2.5.
-
-**Prompt**
-
-```text
-Prise unique cinématographique photoréaliste, 10 secondes, 16:9, 24 i/s, caméra fixe, sans coupe.
-Un chat tigré roux et blanc (museau, poitrail et pattes blancs, rayures de chat tigré orange avec un « M » sur le front) est assis bien droit, exactement au centre, face à l’objectif, dans une posture rigide d’arts martiaux — regard plat, stoïque et imperturbable, yeux mi-clos, bouche fermée, tête parfaitement immobile. Il porte un hachimaki noir noué bas sur le front, avec le nœud à l’arrière, les oreilles dépassant au-dessus du bandeau.
-Décor : cour d’un temple japonais traditionnel — piliers, avant-toits et rambardes en bois chaleureux — fondus dans un bokeh crémeux de golden hour. Objectif 85 mm, f/1.8, profondeur de champ extrêmement réduite, mise au point verrouillée sur les yeux du chat. Étalonnage chaud à 3500 K, lumière principale douce venant de l’avant-droit, ombres légèrement débouchées, grain de pellicule fin.
-ACTION : un bras humain nu surgit depuis le côté gauche du cadre, la paume ouverte fonçant rapidement vers le visage du chat avec un fort flou de mouvement ; le chat lève calmement sa patte avant droite et pare le coup, intercepte la paume et annule l’élan de l’attaque — il bloque, il ne donne pas de gifle. Le bras balaie horizontalement le visage du chat dans un flou, puis une seconde main frappe de haut en bas depuis la droite ; le chat dévie chaque attaque d’un bref blocage minimal de la patte, le corps et la tête totalement immobiles, les yeux ne quittant jamais l’objectif. Les mains sont les agresseuses — le chat se contente de réagir, parfaitement imperturbable. Les mains feintent et surgissent alternativement des deux côtés ; le chat adopte une garde de boxe à deux pattes à hauteur de poitrine, pattes recourbées, coudes rentrés, et la maintient en attendant. Il lance rapidement de brèves contre-attaques à une seule patte, dans un style kung-fu, interceptant les mains adverses en plein vol, la tête toujours verrouillée vers l’avant. Enfin, il projette sa patte droite droit vers l’objectif, coussinet rose face caméra, jusqu’à ce que la patte remplisse le cadre comme une forme douce et floue au premier plan — le visage reste d’une netteté absolue derrière elle, le regard froid intact.
-Mouvement : vitesse naturelle, véritable flou de mouvement sur les mains lancées et les blocages rapides des pattes. Mouvements défensifs, minimaux et économes — le chat bouge à peine, les mains font tout le travail et échouent. Aucun mouvement de caméra, aucun zoom, aucun texte.
-NÉGATIF : membres supplémentaires, pattes fusionnées ou mutées, doigts en trop, visage déformé, bandeau fusionné avec la fourrure, peau plastique, couleurs sursaturées, texte, sous-titres, logo, filigrane, coupes, tremblement de caméra, langage corporel joueur ou triomphant, geste de tape dans la main.
-VERSION COURTE :
-Un chat tigré roux et blanc portant un hachimaki noir est assis dans une cour de temple japonais baignée de soleil, le regard impassible fixé sur la caméra, objectif 85 mm f/1.8, profondeur de champ réduite, golden hour, grain de pellicule. Des mains humaines frappent et foncent rapidement vers son visage depuis les deux côtés, avec un flou de mouvement — le chat pare calmement chaque attaque d’un blocage minimal de la patte, sans jamais bouger la tête. Il adopte une garde de kung-fu à deux pattes, lance de rapides contre-attaques floues, puis projette sa patte vers l’objectif jusqu’à ce que le coussinet remplisse le cadre. Prise unique, caméra fixe, 10 s, 16:9, 24 i/s, photoréaliste, aucun texte.
-Petite note à partir de la séquence : les mains arrivent principalement depuis la gauche (frappe descendante et balayage horizontal), le contact se fait au niveau du poignet ou de la paume — pas patte contre patte. La garde à deux pattes apparaît vers 4,0–5,6 s, les contre-attaques floues entre 5,6 et 8 s, puis la patte arrive vers l’objectif de 8 à 10 s. Votre mission est de créer le maillage et l’animation 3D avec Blender MCP, de produire un résultat de 10 s à 24 i/s et de le rendre en scène extrêmement réaliste avec PixVerse CLI, en utilisant Seedance 2.5 comme modèle de génération vidéo.
-ÉTAPES POUR L’AGENT : vérifier Blender MCP, l’authentification PixVerse CLI, les capacités des modèles et les crédits disponibles. Indiquer les coûts estimés et obtenir l’autorisation de dépenser avant toute génération payante. Transformer le prompt en feuille de route minutée, créer des maillages 3D et une animation légers via le Blender MCP officiel, rendre un MP4 de référence des mouvements, puis contrôler le cadrage, les mouvements, les contacts, la durée et la fréquence d’images. Générer et examiner une image de référence distincte pour l’apparence avant de lancer la vidéo. Utiliser l’image pour guider l’identité, le style et l’éclairage, et la vidéo Blender pour guider les mouvements et le timing. Après la génération, télécharger le résultat, vérifier ses spécifications techniques, examiner les images clés, signaler honnêtement les écarts et calculer la consommation réelle de crédits. Conserver les originaux ; ne jamais changer de modèle ni relancer une génération en silence.
-APPEL PIXVERSE : utiliser pixverse create image avec gpt-image-2.0 pour créer la référence d’apparence au format d’image confirmé, en 1080p et avec un niveau de détail élevé. Utiliser ensuite pixverse create reference avec le modèle vidéo confirmé, en transmettant les deux --images and --videos to afin de combiner l’image de référence d’apparence avec la référence des mouvements issue de Blender. Pour Seedance 2.5, utiliser --model seedance-2.5 --task-type auto, la durée et le format d’image confirmés, ainsi que --quality 1080p --count 1.. Vérifier les capacités actuelles avant l’envoi, utiliser des clés d’idempotence uniques et suivre l’exécution avec pixverse task status / pixverse task wait.
-RÉSULTAT FINAL : fournir la vidéo terminée au format d’image et à la durée confirmés, en visant le 1080p et 24 i/s, ainsi que l’image de référence d’apparence, le projet Blender .blend et le MP4 de référence des mouvements. Fournir des chemins locaux absolus ou des URL de téléchargement. Conserver le format du rapport final : Vidéo, Image de référence, Maillage + animation Blender, Vérification, Apparence et Crédits utilisés. Indiquer la résolution réelle, la fréquence d’images, le nombre d’images, la durée, les écarts visuels, le coût en crédits de l’image et de la vidéo, le total dépensé, le solde restant et si une régénération a eu lieu.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2101310374033428642) · [Publication originale](https://x.com/PixVerse/status/2101310387081908606) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2101325346427842909"></a>
-
-### Modèle 3D d’une Jaguar I-Pace de Waymo
-
-[Harshith](https://x.com/HarshithLucky3) · 2026-09-19
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2101325346427842909"><img src="../assets/previews/449ef82d65975e559172227f6d0fc27cdda054f8e215d3356b39b1a45b524772.jpg" width="840" loading="lazy" alt="Modèle 3D d’une Jaguar I-Pace de Waymo"></a>
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2101325346427842909"><img src="../assets/previews/b31d6fef03ae123be2811d7b8b566e76ce04232b1effc8e0858da4f7c20a7520.jpg" width="840" loading="lazy" alt="Modèle 3D d’une Jaguar I-Pace de Waymo"></a>
-
-L’auteur indique avoir utilisé ce prompt avec GPT-6 Astra Max dans Codex pour créer, avec Three.js, un modèle 3D d’une Jaguar I-Pace de Waymo. Il précise qu’aucune référence n’a été utilisée et que le véhicule obtenu ne ressemblait pas à la voiture réelle.
-
-**Prompt**
-
-```text
-modèle 3D d’une Jaguar I-Pace de Waymo avec Three.js
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2101325346427842909) · [Publication originale](https://x.com/HarshithLucky3/status/2101325346427842909) · [Retour aux exemples](#all-prompts)
-
----
 
 <a id="2101616345720787130"></a>
 
@@ -3534,6 +3481,183 @@ Souris pour orbiter, molette pour zoomer, touches pour parcourir les plans camé
 
 ---
 
+<a id="2113321027325300784"></a>
+
+### Modèle 3D de mannequin d’entraînement en paille prêt pour le jeu
+
+[Max](https://x.com/maxt3chno) · 2026-10-22
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/straw-training-dummy-game-ready-3d-model"><img src="../assets/previews/45bfb8696293be7c212f69c0b6bd3157abd43f788fa548d3132dd42d12574f65.jpg" width="840" loading="lazy" alt="Modèle 3D de mannequin d’entraînement en paille prêt pour le jeu"></a>
+
+Prompt Blender basé sur une image de référence pour créer un mannequin d’entraînement en paille prêt pour le jeu, avec une tête et des bras séparés et détachables, une échelle réelle de 1,85 m, des limites de triangles et de résolution des textures, ainsi que des sorties GLB, Blend et des rendus. L’auteur précise que ce même prompt a été utilisé avec GPT-6 Astra et Claude Opus 5.5.
+
+**Prompt**
+
+```text
+À l’aide de Blender via Blender MCP, crée un modèle 3D prêt pour le jeu du mannequin d’entraînement en paille visible sur l’image jointe. Travaille directement dans Blender : construis le modèle, examine le résultat, compare-le à la référence et corrige-le. Respecte la référence au plus près : forme, proportions, matériaux et couleurs.
+
+Exigences :
+Échelle réelle : environ 1,85 m de hauteur totale. Place l’origine au centre inférieur du poteau.
+15 000 triangles maximum au total.
+Textures de 2048 px maximum : couleur de base, normale et rugosité. La transparence est autorisée pour la paille.
+Prêt à être intégré dans un jeu de tir réaliste se déroulant sur une île tropicale.
+
+Éléments (objets nommés séparément pour pouvoir se détacher en jeu) :
+« head » (avec sa toile de jute), pivot à la base du cou ;
+« arm_left » et « arm_right » (le bambou coupé en deux au niveau du corps), chacun avec son pivot à l’endroit où il rejoint le corps ;
+« body » : tout le reste (poteau, corps en paille, corde et écharpe) en un seul objet.
+Ferme les surfaces aux jonctions entre les éléments : aucun trou ne doit être visible lorsque la tête ou un bras est retiré.
+
+Sorties :
+Un fichier .glb contenant tous les éléments et les textures intégrées.
+Le fichier .blend.
+Un rendu de face et un rendu en trois quarts sur un arrière-plan uni, afin de pouvoir comparer le résultat à la référence.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/straw-training-dummy-game-ready-3d-model) · [Publication originale](https://x.com/maxt3chno/status/2113321949090717982) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2113602050172785117"></a>
+
+### Chalk Square : jeu de carré à quatre cases en 3D pixel art
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-23
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/chalk-square-pixel-art-3d-game"><img src="../assets/previews/2c807caf73920fff28ce7ba56647853f52db15276311b85ec6e88d7f29f8bda9.jpg" width="840" loading="lazy" alt="Chalk Square : jeu de carré à quatre cases en 3D pixel art"></a>
+
+Jeu de football en 3D à quatre cases, dans un seul fichier Three.js, situé dans une cour arrière sur une île flottante. Il met en scène huit enfants contrôlés par l’IA, une physique de balle et des règles de jeu, des réglages de rendu pixel art, une météo qui efface puis redessine la craie, ainsi qu’une interface mobile en anglais. L’auteur principal précise explicitement que ce même prompt a été utilisé pour GPT-6 Astra et Claude Opus 5.5.
+
+**Prompt**
+
+```text
+Créez une scène en HTML + three.js (r160), dans un seul fichier, appelée « Chalk Square » : un jeu de carré à quatre cases avec un ballon de football, dans une cour arrière située sur une île flottante. Il s’agit d’une véritable scène 3D rendue en pixel art net.
+
+Rendu : utilisez une caméra isométrique orthographique (faites-la pivoter par glissement, par pas de 90°, et zoomez avec la molette ou le pincement). Effectuez le rendu dans une petite cible basse résolution avec une texture de profondeur, puis agrandissez-le avec texelFetch afin d’obtenir des pixels plein écran. Ajoutez des contours fondés sur la profondeur et quantifiez chaque pixel dans une palette fixe d’environ 60 couleurs en OKLab, avec un tramage Bayer facultatif. Ajoutez un bouton « Pixel art / Raw 3D », un curseur de taille des pixels et les cases à cocher Palette / Dither / Outlines.
+
+Cour : un asphalte rapiécé et fissuré, avec une bordure, de l’herbe et de la terre autour du bord de l’île. Autour de l’asphalte :
+- une rangée de garages fermés aux portes peintes et numérotées, surmontées d’un toit plat en surplomb ;
+- un poste de transformation en briques avec un panneau d’avertissement ;
+- un peuplier avec un banc occupé par une grand-mère ;
+- une barre fixe, un porte-tapis avec un tapis, des buissons ;
+- une lampe sur un poteau et une lampe au-dessus d’une porte de garage.
+Des pigeons marchent et picorent, puis s’envolent sur les toits lorsque la balle ou un enfant s’approche. Un chat sur le toit des garages suit la balle du regard.
+
+Craie : utilisez une texture de données par-dessus l’asphalte. Elle contient le carré de 4,8 m divisé en quatre zones (King, Queen, Jack, Dunce), avec des lettres et une couronne, ainsi qu’un jeu de marelle et des gribouillis. Chaque texel stocke sa position le long du tracé afin de permettre de redessiner progressivement les lignes.
+
+Jeu (8 enfants, chacun doté d’un niveau, d’une puissance et d’un style : power / trick / safe / lob) :
+- Quatre enfants jouent, quatre attendent dans une file. Le King sert en laissant tomber la balle, puis en la frappant après son rebond.
+- La balle doit rebondir une fois dans votre zone, puis être frappée vers une autre zone. Avec la règle des deux touches, vous pouvez d’abord l’amortir pour la contrôler.
+- Vous êtes éliminé si la balle tombe hors du terrain, tombe dans votre propre zone, rebondit une deuxième fois ou, si l’option est activée, tombe sur une ligne centrale. Sinon, une balle qui touche la ligne est rejouée.
+- L’enfant éliminé rejoint la fin de la file. Tous les joueurs situés plus bas avancent d’une zone, et le prochain enfant de la file entre en Dunce. Un enfant récupère la balle et la lance au King.
+
+Balle et IA : utilisez une véritable physique de balle (gravité, rebonds, roulement, rebonds plus amortis dans les flaques, collisions avec les murs). Chaque réceptionneur simule la trajectoire de la balle, choisit le moment où elle se trouve à hauteur de pied, se place derrière elle en courant, puis la frappe. Les frappes sont des tirs tendus, des lobs ou des amorties juste au-dessus de la ligne, orientés à l’écart du joueur ciblé ; tout le monde vise le King. Les erreurs de visée et de puissance augmentent lorsque la balle va vite, que le contact est étiré ou que le niveau est faible ; il arrive aussi qu’un joueur dévisse sa frappe.
+
+Enfants : utilisez des personnages à squelette en boîtes avec une IK à deux os. Animations : course, position accroupie d’attente, frappe au niveau de la balle, amorti, tenue, lancer, applaudissements, contestation d’une décision et marche accroupie pendant le tracé de la craie.
+
+Heure et météo : Day / Dusk / Night (les lampes éclairent le terrain), Dry / Rain.
+- Rain : traînées, éclaboussures, asphalte plus sombre, flaques reflétant la cour grâce à une passe de rendu en miroir, et craie qui s’efface sous la pluie.
+- Les enfants s’abritent sous le toit des garages. Lorsque l’asphalte sèche, deux d’entre eux redessinent le carré et la partie reprend.
+
+Interface (en anglais, thèmes clair et sombre, mise en page mobile) :
+- Un tableau de score éclairé affichant les échanges, l’horloge et le statut, le règne actuel du King et le meilleur règne.
+- Une barre latérale comprenant : Time & weather (avec des jauges pour l’asphalte et la craie) ; le classement (King / Queen / Jack / Dunce et « Next up ») ; Rules (One/Two touches ; Liners: Replay/Out) ; un fil des décisions avec « Gang up on the King » et Pause ; View.
+- Cliquez sur un enfant dans le carré pour que tout le monde le vise. Design original, sans marques réelles.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/chalk-square-pixel-art-3d-game) · [Publication originale](https://x.com/vib3coded/status/2113602161607069911) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2113627142772899916"></a>
+
+### MONDE FLOTTANT — sanctuaire insulaire 3D interactif
+
+[SiliconFlow](https://x.com/SiliconFlowAI) · 2026-10-23
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/floating-world-interactive-3d-island"><img src="../assets/previews/b01b4446070b691a5047432574bb059724cc886cb5721670c976c7ffb37eecae.jpg" width="840" loading="lazy" alt="MONDE FLOTTANT — sanctuaire insulaire 3D interactif"></a>
+
+Prompt réutilisable publié par SiliconFlow pour comparer le même monde 3D interactif Three.js, généré avec DeepSeek V4.1 Flash 1017 et GPT-6 Astra. Il demande une expérience WebGL procédurale en fichier unique, mettant en scène une île flottante de fantasy orientale, un pavillon, un Pont de la Lune, des étangs, des cascades, un chien animé, des vues caméra sur les lieux emblématiques et un contrôle de l’atmosphère, de l’heure dorée au crépuscule.
+
+**Prompt**
+
+```text
+Créez une expérience Three.js/WebGL complète dans un fichier unique, appelée « FLOATING WORLD » : un sanctuaire insulaire d’inspiration fantasy orientale, cinématographique et interactif, flottant au-dessus d’une mer infinie de nuages à l’heure dorée. Utilisez uniquement de la géométrie et des textures procédurales ; aucun asset 3D externe, aucune image, API payante, placeholder ou TODO. Three.js peut être chargé depuis un CDN. Gérez élégamment l’absence de WebGL, le redimensionnement et les mises en page mobiles. Tout le texte visible doit être exclusivement en anglais — aucun caractère chinois.
+
+SCENE
+Grande île centrale avec un dessous rocheux en couches, des bords couverts de mousse, des lianes, des jardins en terrasses et des îles flottantes lointaines.
+Pavillon central à deux niveaux, pont de la Lune arqué au-dessus d’un bassin à l’avant droit, petit bassin herbeux à gauche, pin ancien à gauche et deux cascades au bord de l’île.
+Matériaux riches : pierre patinée, bois sombre, tuiles de toit vernissées bleu sarcelle foncé, mousse et végétation vert profond, eau, accents dorés discrets.
+Séparation marquée entre premier plan, plan intermédiaire et arrière-plan, brume atmosphérique, ombres douces, liseré lumineux chaud, bloom maîtrisé.
+Toute l’île est montée sur un rig qui oscille doucement de haut en bas (±0,3 unité, périodes de 11 à 18 s). La mer de nuages, les îles lointaines, le ciel et l’éclairage restent stables.
+GRASS
+Environ 20 000 touffes d’herbe courtes, chacune composée d’environ 8 brins courbés. Les touffes doivent se chevaucher densément et former une pelouse continue d’un vert forêt profond, et non des pointes pâles.
+Variez la hauteur, l’orientation, la saturation et la luminosité.
+Donnez au terrain lui-même une texture procédurale de tapis herbeux sombre afin qu’aucune terre brune ne soit visible entre les touffes.
+Éloignez l’herbe du pavillon, du pont, des bassins, du ruisseau et du chemin principal.
+PAVILION
+Pavillon oriental à deux niveaux avec base en pierre, colonnes en bois, balustrades, marches, autel, cloche, lanternes chaudes et deux bannières rouge sombre bordées d’or.
+Les deux toits doivent être bleu sarcelle/vert foncé vernissé — jamais blancs ni dépourvus de texture.
+Ajoutez des canaux de tuiles verticaux bien visibles, de la faîtière à l’égout, une texture de tuiles marquée, du bump mapping et de véritables nervures de tuiles en relief 3D.
+Gardez le toit mat, avec des reflets spéculaires blancs faibles. Ajoutez des arêtiers sombres, des ornements dorés aux angles et un faîtage doré.
+Les monogrammes des bannières doivent être les lettres anglaises « F » et « W », et non des caractères chinois.
+BASSINS ET EAU
+Bassin principal centré vers (10, 8), rayon d’environ 5, avec une margelle en pierre surélevée et le pont de la Lune arqué en pierre.
+Bassin herbeux gauche vers (5.5, 15.1), rayon d’environ 2, avec une margelle en pierre, des roseaux, des pierres et de l’herbe tout autour.
+Les deux bassins et toutes les pierres du rivage doivent se trouver entièrement à l’intérieur de la silhouette de l’île. Supprimez tout débordement d’eau ou de pierres ainsi que le petit pont supplémentaire ; raccourcissez le ruisseau.
+Recouvrez complètement les bords des deux bassins de pierres, de roseaux et d’herbe — aucun bord d’eau apparent, semblable à du papier.
+Shader d’eau : ondulations procédurales, réflexion de Fresnel, réflexion du ciel, reflets du soleil et écume subtile.
+Jour : reflets bleu sarcelle/verts chaleureux. Crépuscule : indigo profond/bleu sarcelle, jamais jaune-vert terne.
+Supprimez les scintillements tachetés bleu clair. La vitesse du flux nocturne doit être d’environ 4 % de celle du jour.
+La transition de l’eau du jour au crépuscule doit ralentir de façon fluide et monotone, sans jamais accélérer temporairement. Utilisez une horloge de phase de l’eau cumulée.
+WATERFALLS
+Cascade gauche à environ 70° : abaissez son sommet vers y=-2.6 et masquez le départ derrière un grand rideau de rochers couvert de mousse. Seul le flux inférieur doit être visible.
+Cascade droite à environ 36° : reliée au bassin du pont ; gardez son sommet visible à la même hauteur.
+Utilisez des traînées s’écoulant vers le bas, de l’écume, des bords doux et de la brume à la base.
+CLOUDS
+Relevez la mer de nuages vers y=-20.4 afin qu’elle enveloppe la base de l’île.
+Créez des nuages blancs denses en plusieurs couches : banc proche de l’île, volutes lointaines, filaments bas et brume.
+Les nuages doivent ressembler à des bouffées de coton qui se chevauchent, et non à des couches plates en papier ; aucun trou visible au centre.
+Groupe de nuages à l’avant gauche : environ 18 bouffées, couvrant partiellement l’île, duveteuses et volumétriques.
+Quatre groupes de nuages plus hauts au-dessus de l’île, chacun composé d’environ 17 à 21 bouffées, de tailles et profondeurs variées, étroitement regroupées.
+Tous les nuages doivent être blancs ou blanc chaud. Aucun matériau nuageux gris ni aucune bouffée d’ombre grise. Ne restaurez pas l’ancien nuage couvrant l’île à droite.
+VÉGÉTATION ET DÉTAILS
+Plusieurs pins/bonsaïs vert sombre ; un grand Pin des Ancêtres au tronc tortueux, à la ramure majestueuse, avec des lanternes suspendues et un petit sanctuaire de pierre.
+Arbustes moussus, fleurs sauvages, roseaux, nénuphars, lianes, particules lumineuses chaudes en suspension et quelques oiseaux lointains.
+Aucun animal autre que le chien jaune ci-dessous.
+CHIEN JAUNE
+Petit chien jaune doré : pattes courtes et trapues aux formes arrondies de capsule, articulations des hanches lisses, queue courte, corps et tête arrondis, truffe, yeux, oreilles et langue noirs, collier rouge, médaille dorée.
+Animez les pattes pendant la course, le balancement du corps, le mouvement de la queue et celui de la tête.
+Orientez le chien dans la direction réelle de son déplacement ; jamais de côté ni vers l’arrière.
+Donnez-lui une prairie herbeuse dégagée dédiée, centrée vers (-2.3, 9.2), sous forme d’ellipse d’environ rx=3.0, rz=2.0.
+Supprimez la lanterne de pierre près de (-5.1, 10.5) ainsi que toutes les pierres de pas dans un rayon d’environ 4.6 ; remplacez les pierres supprimées par environ 24 touffes d’herbe sombre.
+Le chien choisit aléatoirement des cibles à l’intérieur de cette prairie, s’arrête, puis choisit à nouveau — aucune boucle fixe. Il ne doit jamais sortir de la prairie ni entrer en intersection avec des pierres, bâtiments, bassins ou terrasses. Il suit les oscillations de l’île.
+CAMÉRA ET INTERACTION
+Révélation d’ouverture cinématographique d’environ 8 secondes, depuis un angle latéral bas jusqu’à la vue principale.
+Caméra principale ~(44, 31, 65), cible ~(0, 2.8, 0), FOV 43°.
+OrbitControls avec amortissement, rotation par glisser-déposer, zoom à la molette, sans panoramique ; ajoutez un bouton fluide de réinitialisation de la caméra.
+Trois points d’intérêt cliquables avec des gros plans fluides et des cartes contextuelles en anglais :
+The Jade Pavilion : ~(18.5, 12.2, 17.2) → (0, 7.4, -2.6), FOV 40.
+The Moon Bridge : ~(25, 10, 32) → (10, 4.2, 8), FOV 42.
+The Ancestor Pine : ~(10, 15, 38) → (-10.5, 7, 5.4), FOV 42.
+Petite étiquette au survol des points d’intérêt ; le glisser-déposer ne doit pas déclencher la sélection.
+ÉCLAIRAGE ET INTERFACE
+Heure dorée : soleil chaud venant de l’arrière gauche, ombres longues, horizon pêche, nuages crème.
+Crépuscule : ciel indigo, horizon orange-rose, soleil plus faible, lanternes plus lumineuses, eau indigo profond.
+Transition fluide de l’éclairage en 3,6 secondes avec un bouton Atmosphere.
+Tone mapping ACES, bloom discret, brume, ombres douces.
+Interface exclusivement en anglais : « FLOATING WORLD », « A Sanctuary Above the Clouds », « The Realm of Drifting Clouds », un sceau F, un bouton Atmosphere, une commande de réinitialisation et trois liens vers des lieux paisibles. Utilisez une association élégante de police serif et sans serif, avec du crème, de l’encre et de l’or.
+Aucun texte chinois dans l’interface, les bannières, les étiquettes, le loader ou le fallback.
+TECHNICAL
+CanvasTextures/shaders procéduraux pour la pierre, l’herbe, le bois, les tuiles de toit, les bouffées de nuages, l’eau, les cascades et les bannières.
+Objectif de 60 FPS sur desktop, affichage responsive, ratio de pixels plafonné, interactions fonctionnelles, aucune erreur à l’exécution.
+Livrez un fichier HTML unique et soigné.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/floating-world-interactive-3d-island) · [Publication originale](https://x.com/SiliconFlowAI/status/2113627339318042713) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D : Défense de chars sans fin
@@ -3869,68 +3993,10 @@ Utilisez un projet Vite/Three.js isolé, avec un fichier de verrouillage et des 
 
 ---
 
-<a id="titanic-the-last-light"></a>
-
-### TITANIC — La dernière lumière
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-20
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/titanic-the-last-light"><img src="../assets/previews/804ff98b5bbd18f23ba66fe1a98ef14b46381b11adb913f606281899db4ecbc0.jpg" width="840" loading="lazy" alt="TITANIC — La dernière lumière"></a>
-
-Une traversée cinématographique de 4:24 à bord du Titanic, sur un Atlantique d’un bleu profond, avec des portraits de personnages, la mise à l’eau suivie des canots et un monde animé à explorer.
-
-**Prompt**
-
-```text
-1. Objectif du projet
-Créer TITANIC — THE LAST LIGHT : un voyage cinématographique interactif de 264 secondes, depuis le dernier coucher de soleil du navire jusqu’à la collision, l’évacuation et le naufrage, puis jusqu’à un mémorial à l’aube. Les visiteurs regardent un film mis en scène, explorent son univers 3D animé, accèdent directement à un chapitre, enregistrent une image fixe ou téléchargent le film complet. Le présenter comme une interprétation artistique, sans revendiquer une exactitude médico-légale ni une affiliation officielle.
-
-2. Direction visuelle
-Utiliser une palette cinématographique sobre : des lumières de navire crème et ambre chaleureuses sur un bleu Atlantique profond, puis une nuit sombre étoilée et une aube aux tons froids. Composer une scène en perspective au format cinéma 2,39:1, avec un bloom doux, un grain subtil et un vignettage. Utiliser la profondeur de champ pour les portraits des personnages et l’aube, tout en gardant nets les éléments particulaires des fusées de détresse. Donner à l’océan une couleur de base bleu profond, des houles en espace monde, des normales de petites ondulations mipmappées et des réflexions Fresnel ; les teintes chaudes du coucher de soleil doivent principalement apparaître dans la lumière réfléchie. Utiliser des rubans d’écume attachés à la coque et suivant le même déplacement de l’océan, avec des extrémités douces et une mousse fragmentée. Envelopper horizontalement les textures panoramiques sans discontinuité fractale afin d’éviter les raccords verticaux dans le ciel et les traînées réfléchies. Éviter les teintes orange de faible profondeur, les minuscules ondulations uniformes et les decals circulaires d’écume lumineux. Supprimer les faces supérieures de toiture cachées qui se chevauchent afin d’éviter le z-fighting ; utiliser un plan de coupe proche adapté à la distance de prise de vue. Pendant le naufrage, réduire l’intensité des lumières des fenêtres de façon monotone plutôt que d’ajouter un scintillement haute fréquence. Utiliser un titre serif discret, des commandes bilingues anglais/chinois et une timeline étroite en bas de l’écran.
-
-3. Monde, géographie et montage caméra
-Utiliser un seul système de coordonnées continu, avec un navire de 269 mètres, la proue orientée vers +X et un iceberg fixé en (275, 0, 57). Le navire avance, entre en collision avec l’iceberg à 96,727 secondes, poursuit sa course jusqu’à l’arrêt, puis sombre par sections avant et arrière. Garder l’iceberg présent jusqu’à la fin et visible dans la composition de l’aube. Conserver six chapitres commençant à 0, 63, 110, 163, 211 et 241 secondes.
-
-Construire 23 plans soigneusement composés. L’étreinte à la proue s’étend de 29 à 61 secondes : une approche en plan d’ensemble, un double portrait rapproché, une vue prise de derrière vers la mer et un portrait en biais. Placer Rose devant et Jack derrière elle, à l’extrémité avant, tous deux tournés vers l’extérieur, au-dessus de la proue. Maintenir l’éclairage du coucher de soleil pendant toute la séquence. De 127 à 158 secondes, utiliser trois plans attachés au véritable transform monde d’une embarcation de sauvetage : départ du pont des embarcations, vue rapprochée des passagers et des câbles de suspension, puis approche de l’eau. Enchaîner avec des plans larges de l’évacuation, de la gîte, de la fracture et du naufrage. À l’aube, montrer les embarcations survivantes avec l’iceberg au loin, puis un titre de mémorial sobre.
-
-4. Inventaire des assets
-- titanic-vessel : modéliser dans Blender la structure principale de 269 mètres, avec des ponts promenade continus, un gaillard d’avant fermé, des promenades superposées, quatre cheminées inclinées à foyer creux couleur chamois, une partie supérieure de coque noire et une partie inférieure rouge. Utiliser de véritables bordures circulaires pour les 864 hublots et des cadres pour les 360 fenêtres. Limiter l’émission aux matériaux de vitrage réels. Regrouper les matériaux et effectuer la séparation à x=-32 pour le naufrage. Ajouter les mâts, le gréement, les bossoirs, les palans, les hélices en bronze et le gouvernail. Générer une descente P2 avec des portes en teck et des détails en laiton, la normaliser et la réutiliser deux fois sur le pont conçu. Préserver les transformations des nœuds lors de l’assemblage du GLB.
-- atlantic-iceberg : un iceberg bleu-blanc irrégulier et érodé, avec du givre en couches, des variations de rugosité, une normal map discrète et une ligne de flottaison convaincante. Il reste un objet géographique fixe.
-- lifeboat : une embarcation à rames White Star dotée d’une coque en bois blanc, d’un plat-bord sombre, de bancs et de rames, instanciée sur seize embarcations se déplaçant indépendamment.
-- bow-embrace : un asset isolé représentant deux personnages, inspiré des costumes et de la pose demandés du film de 1997 : Rose, aux cheveux auburn, vêtue de bleu marine et d’ivoire avec un châle à motifs, les bras tendus ; Jack se tient juste derrière elle, avec un manteau sombre et une chemise ivoire. Générer des images de référence propres en pied avant la conversion vers H v3.1, en maintenant la cohérence de la tête, du cou, des épaules et des vêtements de chaque personnage. Affiner Rose à l’aide d’une référence rapprochée distincte et d’un donneur H de détails faciaux : recaler les yeux, le nez, les lèvres et le menton, transférer la forme et la couleur locales vers le maillage continu en pied, puis fondre et retoucher la transition UV. Pour Jack, générer un portrait propre avec une carnation naturelle et des yeux et des lèvres bien définis. Conserver l’intégralité de la tête et du haut du cou, adapter le regard et l’échelle au corps H, conformer le bas du cou et souder les deux boucles de bord. Cuire et retoucher l’étroite transition du cou sans aplatir les détails du visage. Corriger la posture et le contact des mains dans Blender. Inspecter les vues avant, latérale et arrière pour repérer les traînées sombres, les raccords de textures, les trous, les bords découpés et les intersections de vêtements. Utiliser des shaders distincts pour la peau et le tissu. Préserver les expressions naturelles de base, avec des mouvements retenus du corps et des vêtements ; ne pas laisser entendre l’existence d’un rig d’animation faciale s’il n’est pas réellement implémenté.
-- seated-woman et seated-man : modèles distincts de passagers adultes portant des vêtements de 1912 et des gilets de sauvetage en liège clair, assis les genoux pliés et les mains sur les cuisses. Partager la géométrie et les matériaux entre les embarcations ; varier légèrement le placement et l’orientation. Utiliser un nombre d’instances réversible par embarcation pour l’embarquement.
-
-Utiliser Blender pour le navire principal, Tripo P2.0 pour la descente de pont, l’iceberg, les embarcations et les passagers assis, et H v3.1 pour les deux personnages principaux complets ainsi que les affinages du portrait rapproché. Conserver l’océan, le dégradé du ciel, les étoiles, l’éclairage, la fumée, les fusées de détresse, l’écume, les projections et les débris comme effets de scène. Fournir des variantes plus légères pour le Web, avec des textures compressées, et conserver les assets sources détaillés pour l’édition. Utiliser le même duo de personnages principaux optimisé et approuvé pour le site Web et l’export du film hors ligne.
-
-5. Lecture et retours
-Afficher la progression réelle du chargement des assets essentiels du navire, des embarcations, du ciel et des normales de la mer. Activer le bouton de lancement dès que la première scène est prête ; différer les autres modèles et la musique. Si un modèle requis de personnage ou d’iceberg est en retard, attendre à la limite de sa scène et reprendre lorsqu’il est prêt, plutôt que d’ignorer silencieusement son plan. L’audio commence après une interaction de l’utilisateur.
-
-La timeline doit permettre une recherche vers l’avant et vers l’arrière ainsi que des glissements rapides, sans revenir à zéro. Préserver l’état lecture/pause et la mise en sourdine pendant la recherche ; empêcher l’ancienne horloge audio d’écraser la position demandée. Servir les plages d’octets pour les fichiers MP3 et MP4. La navigation par chapitres comprend des entrées directes vers l’étreinte à la proue, à 29 secondes, et la mise à l’eau des embarcations, à 127 secondes ; celles-ci restaurent la caméra du réalisateur tout en préservant l’état de lecture.
-
-L’exploration permet d’orbiter, de déplacer la vue et de zoomer tandis que le monde, le navire et la bande-son continuent. Suivre la translation du navire sans enclencher brusquement la direction du regard. La pause reste indépendante ; le retour au film préserve le temps actuel. La barre d’espace lit ou met en pause, les flèches avancent ou reculent de dix secondes, M active ou désactive le son, E active ou désactive l’exploration et F ouvre le plein écran. Prendre en charge l’orbite et le pincement tactiles, ainsi que les appuis sur la timeline.
-
-Les embarcations commencent vides. Les passagers montent par groupes décalés après 112 secondes et terminent avant la descente de chaque embarcation. Les cordages relient les bossoirs en mouvement aux véritables points d’attache des embarcations, puis disparaissent après le largage. Une recherche vers l’arrière restaure l’occupation et l’état antérieurs des cordages. La collision doit synchroniser les vibrations de la coque et de la caméra, les éclats de glace, les projections dues au frottement et un son transitoire de contact acier/glace et de raclement. Les fusées de détresse utilisent des étoiles blanches incandescentes, de courtes traînées individuelles, la gravité, la traînée et une fumée qui s’estompe. Les perturbations du naufrage sont des zones irrégulières qui suivent les vagues et se dissipent progressivement ; répartir les projections le long de la véritable ligne de flottaison de la poupe, jamais depuis une fontaine de particules éloignée.
-
-6. Implémentation technique et livrables
-Utiliser Vite, des modules JavaScript et Three.js avec une animation déterministe basée sur le temps. Séparer la caméra/timeline, les assets du navire, les personnages, l’environnement, les effets et la préparation des scènes. Partager le même modèle temporel pour la lecture Web, la recherche et la capture hors ligne. Maintenir le rendu Web dans un budget explicite de pixels, de réflexions et d’ombres ; réserver l’occlusion ambiante plus coûteuse au profil hors ligne. Compiler et décoder les assets sans longue phase de préchauffage bloquante au démarrage. Héberger les scripts, modèles, images, polices et fichiers audio sur la même origine, et garder les secrets en dehors du build statique.
-
-Utiliser une musique originale et des effets Foley payants générés avec ElevenLabs : une prise complète de sifflement naturel de feu d’artifice, séparée au moment réel de son explosion aérienne en une phase ascendante et une détonation sèche à traîne crépitante, ainsi que des sons de contact et de raclement acier/glace, de cordages d’embarcation et de contact avec l’eau, de tension/fracture de la coque et de déplacement de l’eau par la poupe. Exporter les fichiers WAV sources, conserver les prompts et les identifiants d’historique, puis les monter en cues synchronisés. Aligner les lancements à 119, 151 et 183 secondes, avec les explosions aériennes 3,15 secondes plus tard. Conserver l’attaque originale des explosions et baisser brièvement la musique orchestrale. Garder une ambiance discrète de mer, de vent et de moteur sous le mixage. La bande-son du film de référence n’est pas incluse sans autorisation, ni sur le site Web public ni dans le film téléchargeable. Documenter les sources réelles des assets et des sons plutôt que de décrire un substitut comme un asset généré par un service.
-
-Fournir un export déterministe de 6 336 images en 3840×2160 à 24 i/s, avec trois échantillons temporels, des titres anglais incrustés et une image letterboxée au format 2,39:1. Encoder un master 4K H.264/AAC et une édition Web en 1080p de moins de 100 MiB, tous deux d’une durée de 264 secondes avec un audio stéréo à 48 kHz. Préserver les sous-titres chinois/anglais facultatifs, le master audio et les sources éditables. Publier le build statique via l’hébergement Web Pages du CMS existant, sans ajouter d’application de plateforme ni de Worker par page.
-
-7. Critères d’acceptation
-Inspecter l’ouverture, les deux portraits des personnages, la collision, les fusées de détresse, les trois plans de mise à l’eau, la fracture, la disparition de la poupe et l’aube. Vérifier que l’iceberg ne disparaît pas à 244 secondes, que la mer est bien rendue en bleu profond, que le naufrage ne comporte pas d’anneaux blancs réguliers, que les personnages restent présents dans les plans prévus et que les cordages et les passagers des embarcations restent alignés pendant toute la mise à l’eau. Tester le chargement différé des modèles, la recherche vers l’avant et l’arrière, le scrubbing rapide, la pause et la mise en sourdine, l’exploration dynamique, les accès directs aux plans rapprochés et l’émulation tactile. Vérifier chaque image exportée, décoder entièrement les deux films, comparer le téléchargement réel dans le navigateur au fichier livré, et vérifier le build public ainsi que son association au CMS. Faire la distinction entre l’émulation mobile du navigateur et les tests sur un téléphone physique.
-
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/titanic-the-last-light) · [Démo](https://titanic-the-last-light.tripo.page/) · [Retour aux exemples](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 358 exemples sur le site officiel →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 361 exemples sur le site officiel →</a></strong></p>
 <p><sub>Pour préserver la fluidité du rendu du README sur GitHub, seuls les 100 exemples les plus récents sont affichés ici.</sub></p>
 <br>
 </td></tr>

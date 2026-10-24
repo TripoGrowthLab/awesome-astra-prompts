@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**358 · Prompt Astra mới nhất**
+**361 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -50,8 +50,6 @@
 <details>
 <summary>Khám phá ví dụ</summary>
 
-- [Quy trình tạo hoạt ảnh 3D và video mèo võ thuật catfu](#2101310374033428642)
-- [Mô hình 3D Waymo Jaguar I-Pace](#2101325346427842909)
 - [Thuyền buồm trên vùng nước rộng](#2101616345720787130)
 - [Tạo mô hình 3D WALL-E bằng Three.js](#2101687900723106104)
 - [Verdant — hòn đảo khủng long 3D tương tác](#2101730386711634251)
@@ -144,67 +142,16 @@
 - [Hoạt ảnh cơn bão trong chai theo phong cách điện ảnh](#2112552671890874585)
 - [Đồng hồ skeleton cao cấp 3D](#2112556579153178940)
 - [Bão Bắc Đại Tây Dương — Mô phỏng đại dương và hải đăng 3D chân thực](#2112916773838454922)
+- [Mô hình 3D hình nộm tập luyện bằng rơm, sẵn sàng cho game](#2113321027325300784)
+- [Chalk Square: game bốn ô 3D phong cách pixel art](#2113602050172785117)
+- [THẾ GIỚI LƠ LỬNG — khu đảo 3D tương tác](#2113627142772899916)
 - [Battle City 3D: Phòng thủ xe tăng vô tận](#battle-city-3d)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
 - [Golden Miner: Game khai thác vàng 3D 24 cấp độ](#golden-miner)
 - [Biệt thự Thạch rau câu](#jelly-villa)
 - [Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D](#red-light-green-light)
-- [TITANIC — Ánh sáng cuối cùng](#titanic-the-last-light)
 
 </details>
-
-<a id="2101310374033428642"></a>
-
-### Quy trình tạo hoạt ảnh 3D và video mèo võ thuật catfu
-
-[PixVerse](https://x.com/PixVerse) · 2026-09-19
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101310374033428642"><img src="../assets/previews/8249faaaa8f71ae6e4f9ede16b0948cd336e92001b288ecec9177aca4eb5f939.jpg" width="840" loading="lazy" alt="Quy trình tạo hoạt ảnh 3D và video mèo võ thuật catfu"></a>
-
-Bình luận đã xác minh của PixVerse cho biết đây là prompt được sử dụng trong Hermes Agent. Bài đăng gốc ghi nhận công sức của nhà sáng tạo PixVerse @woleswoosh với màn trình diễn catfu, đồng thời cho biết tác phẩm được thực hiện bằng GPT-6 Astra + Blender. Prompt yêu cầu một agent dựng các mesh Blender nhẹ và hoạt ảnh cho một chú mèo mướp cứng đờ, điềm tĩnh, đỡ những bàn tay đang lao tới trong sân một ngôi chùa Nhật Bản, kết xuất MP4 tham chiếu chuyển động dài 10 giây, sau đó tạo video 1080p chân thực bằng PixVerse CLI và Seedance 2.5.
-
-**Prompt**
-
-```text
-Một cú máy điện ảnh duy nhất, siêu chân thực, dài 10 giây, 16:9, 24fps, máy quay cố định, không cắt cảnh.
-Một chú mèo mướp lông vàng cam-trắng (mõm, ngực và bàn chân màu trắng; sọc mướp màu cam với chữ "M" trên trán) ngồi thẳng, chính giữa khung hình, đối diện ống kính trong tư thế võ thuật cứng đờ — ánh mắt phẳng lặng, điềm tĩnh, không chút ấn tượng, mắt lim dim, miệng khép kín, đầu không bao giờ cử động. Nó đeo một chiếc hachimaki màu đen buộc thấp ngang trán, nút thắt ở phía sau, hai tai nhô lên trên dải khăn.
-Bối cảnh: sân chùa Nhật Bản truyền thống — các cột gỗ, mái hiên và lan can ấm màu — tan vào hiệu ứng bokeh vàng kem của giờ vàng. Ống kính 85mm, f/1.8, độ sâu trường ảnh cực mỏng, khóa nét vào mắt mèo. Tông màu 3500K ấm áp, ánh sáng chính mềm từ phía trước bên phải, bóng đổ được bổ sáng nhẹ, hạt phim mịn.
-HÀNH ĐỘNG: một cánh tay người trần lao vào từ bên trái khung hình, lòng bàn tay mở đẩy nhanh về phía mặt mèo với hiệu ứng nhòe chuyển động rõ rệt; mèo bình thản nâng bàn chân trước bên phải lên đỡ, chặn lòng bàn tay và triệt tiêu đà của đòn đánh — nó đỡ đòn, không tát. Cánh tay quét ngang qua mặt mèo trong một vệt nhòe, sau đó một bàn tay thứ hai chém xuống từ bên phải; mèo hóa giải từng đòn bằng cú chặn bàn chân ngắn và tối giản, thân và đầu hoàn toàn bất động, mắt không rời ống kính. Những bàn tay là bên tấn công — mèo chỉ phản ứng và không hề nao núng. Hai bàn tay liên tục giả động tác rồi rút ra từ cả hai phía; mèo chuyển sang thế thủ boxing bằng hai bàn chân ở ngang ngực, các bàn chân co lại, khuỷu tay khép vào, rồi giữ nguyên tư thế để chờ đợi. Nó bất ngờ tung những đòn phản công nhanh bằng từng bàn chân đơn lẻ, nhòe theo phong cách kung-fu, chặn những bàn tay đang lao tới giữa không trung, đầu vẫn khóa thẳng về phía trước. Cuối cùng, nó đẩy thẳng bàn chân phải vào ống kính, đệm chân màu hồng hướng về máy quay, cho đến khi bàn chân lấp đầy khung hình thành một hình dạng tiền cảnh mềm, mất nét — gương mặt phía sau vẫn sắc nét tuyệt đối, ánh mắt lạnh lùng không đổi.
-Chuyển động: tốc độ tự nhiên, hiệu ứng nhòe chuyển động chân thực trên những bàn tay đang bay tới và các cú chặn bàn chân nhanh. Chuyển động phòng thủ của mèo phải tối giản, tiết kiệm và tự nhiên — nó hầu như không cử động; những bàn tay làm tất cả nhưng đều thất bại. Không chuyển động máy quay, không zoom, không chữ.
-PHỦ ĐỊNH: chi thừa, bàn chân dính hoặc biến dạng, ngón tay thừa, gương mặt méo mó, dải khăn hòa vào lông, da nhựa, màu quá bão hòa, chữ, phụ đề, logo, hình mờ, cắt cảnh, rung máy, ngôn ngữ cơ thể vui vẻ/ăn mừng, cử chỉ đập tay.
-BẢN NGẮN:
-Mèo mướp lông vàng cam-trắng đeo hachimaki đen ngồi trong sân chùa Nhật Bản ngập nắng, nhìn thẳng vào máy quay với vẻ tỉnh bơ, 85mm f/1.8, DOF mỏng, giờ vàng, hạt phim. Những bàn tay người chém và đẩy nhanh vào mặt nó từ cả hai phía với hiệu ứng nhòe chuyển động — mèo bình thản đỡ từng đòn bằng cú chặn bàn chân tối giản, đầu không hề cử động. Nó chuyển sang thế thủ kung-fu bằng hai bàn chân, tung những đòn phản công nhanh và nhòe, rồi đẩy bàn chân vào ống kính cho đến khi đệm chân lấp đầy khung hình. Một cú máy cố định duy nhất, 10 giây, 16:9, 24fps, siêu chân thực, không chữ.
-Ghi chú nhỏ từ khung hình: tay chủ yếu lao vào từ bên trái (đòn chém từ trên xuống + cú quét ngang), điểm tiếp xúc nằm ở cổ tay/lòng bàn tay — không phải bàn chân chạm bàn chân. Thế thủ bằng hai bàn chân xuất hiện khoảng 4.0-5.6 giây, phản công nhòe ở 5.6-8 giây, kết thúc với bàn chân chạm ống kính ở 8-10 giây. nhiệm vụ của bạn là tạo mô hình 3D bằng Blender MCP, tạo đầu ra 10 giây ở 24fps và kết xuất thành cảnh siêu chân thực bằng pixverse cli, sử dụng seedance 2.5 làm mô hình tạo video
-CÁC BƯỚC CỦA AGENT: Kiểm tra Blender MCP, xác thực PixVerse CLI, khả năng của mô hình và số credit hiện có. Thông báo chi phí ước tính và xin phê duyệt chi tiêu trước khi tạo nội dung có tính phí. Chuyển prompt thành bảng nhịp thời gian, dựng các mesh 3D nhẹ cùng hoạt ảnh thông qua Blender MCP chính thức, kết xuất MP4 tham chiếu chuyển động, rồi kiểm tra khung hình, chuyển động, điểm tiếp xúc, thời lượng và tốc độ khung hình. Tạo và kiểm tra riêng một ảnh tham chiếu ngoại hình trước khi gửi yêu cầu tạo video. Dùng ảnh để định hướng nhận diện, phong cách và ánh sáng; dùng video Blender để định hướng chuyển động và nhịp thời gian. Sau khi tạo xong, tải kết quả xuống, xác minh thông số kỹ thuật, kiểm tra các khung hình chính, báo cáo trung thực mọi sai lệch và tính lượng credit thực tế đã sử dụng. Giữ nguyên các tệp gốc; không tự ý chuyển mô hình hoặc tạo lại.
-LỆNH GỌI PIXVERSE: Dùng pixverse create image với gpt-image-2.0 để tạo ảnh tham chiếu ngoại hình theo tỷ lệ khung hình đã xác nhận, 1080p, độ chi tiết cao. Sau đó dùng pixverse create reference với mô hình video đã xác nhận, truyền cả hai --images and --videos to để kết hợp ảnh ngoại hình với tham chiếu chuyển động Blender. Với Seedance 2.5, sử dụng --model seedance-2.5 --task-type auto, thời lượng/tỷ lệ khung hình đã xác nhận và --quality 1080p --count 1. Xác minh khả năng hiện tại trước khi gửi yêu cầu, sử dụng các khóa idempotency duy nhất và theo dõi tiến trình qua pixverse task status / pixverse task wait.
-ĐẦU RA CUỐI: Trả về video hoàn chỉnh theo tỷ lệ khung hình và thời lượng đã xác nhận, mục tiêu 1080p và 24fps, cùng ảnh tham chiếu ngoại hình, dự án Blender .blend và MP4 tham chiếu chuyển động. Cung cấp đường dẫn cục bộ tuyệt đối hoặc URL tải xuống. Giữ định dạng báo cáo cuối cùng: Video, Ảnh tham chiếu, Mesh + hoạt ảnh Blender, Kiểm tra, Hình ảnh, và Credit đã sử dụng. Báo cáo độ phân giải thực tế, tốc độ khung hình, số lượng khung hình, thời lượng, sai lệch hình ảnh, chi phí credit cho ảnh/video, tổng chi tiêu, số dư còn lại và việc có tạo lại hay không.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101310374033428642) · [Bài đăng gốc](https://x.com/PixVerse/status/2101310387081908606) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2101325346427842909"></a>
-
-### Mô hình 3D Waymo Jaguar I-Pace
-
-[Harshith](https://x.com/HarshithLucky3) · 2026-09-19
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101325346427842909"><img src="../assets/previews/449ef82d65975e559172227f6d0fc27cdda054f8e215d3356b39b1a45b524772.jpg" width="840" loading="lazy" alt="Mô hình 3D Waymo Jaguar I-Pace"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101325346427842909"><img src="../assets/previews/b31d6fef03ae123be2811d7b8b566e76ce04232b1effc8e0858da4f7c20a7520.jpg" width="840" loading="lazy" alt="Mô hình 3D Waymo Jaguar I-Pace"></a>
-
-Tác giả cho biết đã sử dụng prompt này với GPT-6 Astra Max trong Codex để tạo mô hình 3D Waymo Jaguar I-Pace bằng Three.js. Họ cho biết không dùng hình ảnh tham chiếu và chiếc xe tạo ra không giống xe thực tế.
-
-**Prompt**
-
-```text
-mô hình 3D Waymo Jaguar I-Pace bằng Three.js
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101325346427842909) · [Bài đăng gốc](https://x.com/HarshithLucky3/status/2101325346427842909) · [Về danh sách ví dụ](#all-prompts)
-
----
 
 <a id="2101616345720787130"></a>
 
@@ -3609,6 +3556,183 @@ Dùng chuột để xoay góc nhìn, cuộn chuột để thu phóng, dùng các
 
 ---
 
+<a id="2113321027325300784"></a>
+
+### Mô hình 3D hình nộm tập luyện bằng rơm, sẵn sàng cho game
+
+[Max](https://x.com/maxt3chno) · 2026-10-22
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/straw-training-dummy-game-ready-3d-model"><img src="../assets/previews/45bfb8696293be7c212f69c0b6bd3157abd43f788fa548d3132dd42d12574f65.jpg" width="840" loading="lazy" alt="Mô hình 3D hình nộm tập luyện bằng rơm, sẵn sàng cho game"></a>
+
+Prompt Blender dựa trên ảnh tham chiếu để tạo hình nộm tập luyện bằng rơm sẵn sàng cho game, với đầu và hai tay là các đối tượng riêng có thể tách rời khi bị phá hủy, tỉ lệ thực cao 1,85 m, giới hạn số tam giác và kết cấu bề mặt, cùng đầu ra GLB, Blend và ảnh render. Tác giả cho biết đã dùng chính prompt này cho cả GPT-6 Astra và Claude Opus 5.5.
+
+**Prompt**
+
+```text
+Sử dụng Blender thông qua Blender MCP, hãy tạo mô hình 3D hình nộm tập luyện bằng rơm trong ảnh đính kèm, sẵn sàng cho game. Làm việc trực tiếp trong Blender: dựng mô hình, quan sát kết quả, so sánh với ảnh tham chiếu và chỉnh sửa. Cố gắng khớp ảnh tham chiếu sát nhất có thể về hình dáng, tỉ lệ, vật liệu và màu sắc.
+
+Yêu cầu:
+Tỉ lệ thực: tổng chiều cao khoảng 1,85 m. Đặt gốc tọa độ ở chính giữa đáy cọc.
+Tổng số lượng tối đa 15.000 tam giác.
+Kết cấu bề mặt tối đa 2048 px: màu cơ bản, normal và độ nhám. Cho phép dùng độ trong suốt cho phần rơm.
+Sẵn sàng được đưa vào một game bắn súng lấy bối cảnh đảo nhiệt đới với hình ảnh chân thực.
+
+Các bộ phận (là những đối tượng riêng có tên riêng để có thể tách rời khi bị phá hủy trong game):
+"head" (kèm vải bố bọc bên ngoài), đặt pivot ở chân cổ;
+"arm_left" và "arm_right" (cột tre được tách thành hai phần tại thân), mỗi phần có pivot tại điểm nối với thân;
+"body": tất cả các phần còn lại (cọc, thân rơm, dây thừng, khăn quàng) gộp thành một đối tượng.
+Bịt kín các bề mặt tại vị trí tiếp giáp giữa các bộ phận: không được nhìn thấy lỗ hổng khi phần đầu hoặc một cánh tay bị tháo rời.
+
+Đầu ra:
+Một tệp .glb chứa tất cả các bộ phận và kết cấu bề mặt được nhúng.
+Tệp .blend.
+Ảnh render góc chính diện và góc ba phần tư trên nền trơn để có thể so sánh kết quả với ảnh tham chiếu.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/straw-training-dummy-game-ready-3d-model) · [Bài đăng gốc](https://x.com/maxt3chno/status/2113321949090717982) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2113602050172785117"></a>
+
+### Chalk Square: game bốn ô 3D phong cách pixel art
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-23
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/chalk-square-pixel-art-3d-game"><img src="../assets/previews/2c807caf73920fff28ce7ba56647853f52db15276311b85ec6e88d7f29f8bda9.jpg" width="840" loading="lazy" alt="Chalk Square: game bốn ô 3D phong cách pixel art"></a>
+
+Game bóng đá bốn ô 3D Three.js trong một tệp duy nhất, lấy bối cảnh sân sau trên một hòn đảo lơ lửng. Game có tám trẻ em do AI điều khiển, vật lý bóng và luật chơi trên sân, các tùy chọn hiển thị pixel art, thời tiết làm phai rồi vẽ lại phấn, cùng giao diện tiếng Anh thân thiện với thiết bị di động. Tác giả gốc xác nhận đã sử dụng chính prompt này cho GPT-6 Astra và Claude Opus 5.5.
+
+**Prompt**
+
+```text
+Tạo một cảnh Three.js (r160) dạng HTML trong một tệp duy nhất có tên "Chalk Square": trò chơi bốn ô với bóng đá, diễn ra trong sân sau trên một hòn đảo lơ lửng. Đây là cảnh 3D thực, được kết xuất theo phong cách pixel art sắc nét.
+
+Kết xuất: dùng camera phối cảnh isometric trực giao (kéo để xoay theo từng bước 90°, cuộn hoặc chụm để thu phóng). Kết xuất vào một vùng đích độ phân giải thấp có texture độ sâu, sau đó phóng lớn bằng texelFetch để khớp với các pixel trên toàn màn hình. Thêm đường viền dựa trên độ sâu và lượng tử hóa mọi pixel về bảng màu cố định khoảng 60 màu trong OKLab, kèm tùy chọn dithering Bayer. Thêm nút chuyển đổi "Pixel art / Raw 3D", thanh trượt kích thước pixel và các ô chọn Palette / Dither / Outlines.
+
+Sân: mặt nhựa đường vá víu, nứt nẻ, có bó vỉa; cỏ và đất bao quanh mép đảo. Xung quanh mặt nhựa đường có:
+- một dãy gara dạng kho với cửa sơn màu, đánh số và mái bằng nhô ra phía trên;
+- một trạm biến áp bằng gạch có biển cảnh báo;
+- một cây bạch dương với ghế băng và một bà cụ ngồi trên đó;
+- xà đơn, giá phơi thảm có một tấm thảm và các bụi cây;
+- một chiếc đèn trên cột và một chiếc đèn phía trên cửa gara.
+Bồ câu đi bộ, mổ thức ăn và vỗ cánh bay lên mái khi bóng hoặc một đứa trẻ đến gần. Một con mèo trên mái gara dõi theo quả bóng bằng đầu.
+
+Phấn: một texture dữ liệu phủ lên mặt nhựa đường. Texture này chứa sân vuông 4,8 m được chia thành bốn khu vực (King, Queen, Jack, Dunce), có chữ cái và một chiếc vương miện, cùng trò nhảy lò cò và các hình vẽ nguệch ngoạc. Mỗi texel lưu vị trí của nó dọc theo nét vẽ để các đường có thể được vẽ lại theo tiến trình.
+
+Game (8 đứa trẻ, mỗi đứa có kỹ năng, sức mạnh và phong cách riêng: power / trick / safe / lob):
+- Bốn đứa chơi, bốn đứa xếp hàng chờ. King giao bóng bằng cách thả bóng xuống rồi đá sau khi bóng nảy lên.
+- Bóng phải nảy một lần trong khu vực của bạn, sau đó bạn đá bóng sang một khu vực khác. Theo luật chạm bóng hai lần, trước tiên bạn có thể đỡ bóng nhẹ để khống chế.
+- Bạn bị loại nếu: bóng rơi ra ngoài, rơi vào khu vực của chính bạn, nảy lần thứ hai hoặc (nếu được bật) rơi trên đường giữa. Nếu không, bóng chạm vạch sẽ được đánh lại.
+- Đứa bị loại đi xuống cuối hàng. Tất cả người phía sau tiến lên một khu vực, và đứa tiếp theo trong hàng vào vị trí Dunce. Một đứa trẻ nhặt bóng rồi ném cho King.
+
+Bóng và AI: vật lý bóng chân thực (trọng lực, nảy, lăn, nảy nhẹ hơn trong vũng nước và va vào tường). Mỗi người nhận bóng mô phỏng đường bay của bóng về phía trước, chọn thời điểm bóng ở độ cao bàn chân, chạy đến đứng phía sau bóng rồi đá. Các cú sút gồm cú đá mạnh, cú bổng hoặc cú chích vừa đủ qua vạch, nhắm tránh xa đứa trẻ mục tiêu; tất cả đều chọn nhắm vào King. Sai số về hướng và lực tăng khi bóng bay nhanh, thời gian tiếp xúc bị kéo dài và kỹ năng thấp hơn; đôi khi cú đá sẽ bị trượt lệch.
+
+Trẻ em: dùng rig dạng khối với IK hai xương. Các tư thế gồm chạy, khom người sẵn sàng, đá bóng ở độ cao của bóng, đỡ bóng nhẹ, cầm bóng, ném, vỗ tay, tranh cãi về quyết định và đi khom người khi vẽ phấn.
+
+Thời gian và thời tiết: Ngày / Chạng vạng / Đêm (đèn chiếu sáng sân), Khô / Mưa.
+- Mưa: các vệt mưa, nước bắn, mặt nhựa đường sẫm màu hơn, vũng nước phản chiếu sân bằng một lượt kết xuất phản chiếu, và phấn bị rửa trôi.
+- Trẻ em trú dưới mái gara. Khi mặt nhựa đường khô, hai đứa sẽ vẽ lại sân vuông và trận đấu tiếp tục.
+
+UI (tiếng Anh, giao diện sáng và tối, bố cục cho di động):
+- Bảng điểm có đèn, hiển thị số lượt bóng, đồng hồ + trạng thái, thời gian King đang giữ ngôi và kỷ lục giữ ngôi lâu nhất.
+- Thanh bên gồm: Thời gian & thời tiết (kèm thanh trạng thái mặt nhựa đường và phấn); bảng xếp hạng (King / Queen / Jack / Dunce và "Next up"); Luật (chạm Một/Hai lần; Bóng chạm vạch: Đánh lại/Ra ngoài); bảng thông báo các quyết định với "Gang up on the King" và Tạm dừng; Chế độ xem.
+- Nhấp vào một đứa trẻ trong sân vuông để mọi người cùng nhắm vào đứa đó. Thiết kế nguyên bản, không dùng thương hiệu có thật.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/chalk-square-pixel-art-3d-game) · [Bài đăng gốc](https://x.com/vib3coded/status/2113602161607069911) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2113627142772899916"></a>
+
+### THẾ GIỚI LƠ LỬNG — khu đảo 3D tương tác
+
+[SiliconFlow](https://x.com/SiliconFlowAI) · 2026-10-23
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/floating-world-interactive-3d-island"><img src="../assets/previews/b01b4446070b691a5047432574bb059724cc886cb5721670c976c7ffb37eecae.jpg" width="840" loading="lazy" alt="THẾ GIỚI LƠ LỬNG — khu đảo 3D tương tác"></a>
+
+Một prompt có thể tái sử dụng do SiliconFlow đăng, dùng để so sánh cùng một thế giới 3D tương tác Three.js giữa DeepSeek V4.1 Flash 1017 và GPT-6 Astra. Prompt yêu cầu một trải nghiệm WebGL dựng theo quy trình, gói gọn trong một tệp, với hòn đảo kỳ ảo phương Đông lơ lửng, đình, Cầu Trăng, hồ nước, thác nước, chú chó chuyển động, các góc quay camera tại những địa danh nổi bật và bộ điều khiển bầu không khí chuyển từ giờ vàng sang chạng vạng.
+
+**Prompt**
+
+```text
+Xây dựng một trải nghiệm Three.js/WebGL hoàn chỉnh trong một tệp duy nhất, có tên “FLOATING WORLD”: một khu bảo tồn đảo tiên phương Đông mang tính điện ảnh, tương tác, lơ lửng trên biển mây vô tận vào giờ vàng. Chỉ sử dụng hình học và kết cấu tạo theo quy trình; không dùng tài sản 3D bên ngoài, hình ảnh, API trả phí, nội dung giữ chỗ hoặc TODO. Three.js có thể được tải từ CDN. Xử lý linh hoạt trường hợp thiếu WebGL, thay đổi kích thước và bố cục trên thiết bị di động. Toàn bộ văn bản hiển thị phải chỉ dùng tiếng Anh—tuyệt đối không có ký tự tiếng Trung.
+
+SCENE
+Đảo trung tâm lớn với phần đáy xếp lớp bằng đá, mép phủ rêu, dây leo, vườn bậc thang và các đảo lơ lửng ở xa.
+Một lầu các hai tầng ở trung tâm, Cầu Trăng hình vòm bắc qua hồ phía trước bên phải, một hồ cỏ nhỏ hơn ở bên trái, cây thông cổ ở bên trái và hai thác nước ở mép đảo.
+Vật liệu phong phú: đá phong hóa, gỗ tối màu, ngói mái tráng men xanh teal đậm, rêu/thảm thực vật xanh lục đậm, nước và các điểm nhấn vàng tiết chế.
+Tách lớp tiền cảnh/trung cảnh/hậu cảnh rõ ràng, sương khí quyển, bóng mềm, viền sáng ấm và bloom được kiểm soát.
+Toàn bộ giàn đảo nhẹ nhàng nhấp nhô lên xuống (±0.3 đơn vị, chu kỳ 11–18 giây). Biển mây, các đảo ở xa, bầu trời và ánh sáng phải giữ ổn định.
+GRASS
+Khoảng 20.000 cụm cỏ ngắn, mỗi cụm có khoảng 8 ngọn cong. Các cụm phải chồng dày lên nhau và tạo cảm giác như một thảm cỏ xanh rừng liên tục, có chiều sâu, không phải những gai cỏ nhạt màu.
+Biến đổi chiều cao, hướng, độ bão hòa và độ sáng.
+Tạo cho địa hình một kết cấu thảm cỏ tối màu theo quy trình để không nhìn thấy đất nâu qua các khe hở.
+Không để cỏ mọc vào lầu các, cầu, hồ, suối và lối đi chính.
+PAVILION
+Lầu các phương Đông hai tầng với bệ đá, cột gỗ, lan can, bậc thềm, bàn thờ, chuông, đèn lồng ấm và hai lá cờ đỏ sẫm viền vàng.
+Cả hai mái phải có màu teal/xanh lá tráng men tối—tuyệt đối không được trắng hoặc không có kết cấu.
+Thêm các rãnh ngói dọc rõ ràng từ nóc mái đến diềm mái, kết cấu ngói nổi bật, bump mapping và các gờ ngói 3D nhô nổi thực sự.
+Giữ mái có bề mặt mờ với phản xạ specular trắng thấp. Thêm gờ mái hông tối màu, đồ trang trí góc bằng vàng và chóp mái bằng vàng.
+Chữ lồng trên cờ phải là “F” và “W” tiếng Anh, không phải ký tự tiếng Trung.
+HỒ VÀ NƯỚC
+Hồ chính nằm gần (10, 8), bán kính khoảng 5, có viền đá nhô cao và Cầu Trăng bằng đá hình vòm.
+Hồ cỏ bên trái nằm gần (5.5, 15.1), bán kính khoảng 2, có viền đá, lau sậy, đá và cỏ xung quanh.
+Cả hai hồ và toàn bộ đá ven bờ phải nằm hoàn toàn bên trong đường bao của đảo. Loại bỏ mọi phần nước/đá nhô ra ngoài và cây cầu nhỏ bổ sung; rút ngắn dòng suối.
+Che kín toàn bộ mép hai hồ bằng đá, lau sậy và cỏ—không để lộ mép nước phẳng như giấy.
+Shader nước: gợn sóng theo quy trình, phản xạ Fresnel, phản chiếu bầu trời, điểm sáng mặt trời và bọt nước tinh tế.
+Ban ngày: phản chiếu teal/xanh lá ấm. Chạng vạng: xanh chàm/xanh teal đậm, tuyệt đối không chuyển thành vàng xanh đục.
+Loại bỏ hiệu ứng lấp lánh lốm đốm xanh nhạt. Tốc độ chuyển động ban đêm chỉ khoảng 4% so với ban ngày.
+Nước phải giảm tốc mượt mà và đơn điệu từ ban ngày sang chạng vạng, không được tạm thời tăng tốc. Sử dụng đồng hồ tích lũy pha nước.
+WATERFALLS
+Thác nước bên trái ở góc khoảng 70°: hạ phần đỉnh xuống khoảng y=-2.6 và che điểm bắt đầu phía sau một vách đá lớn phủ rêu. Chỉ để lộ phần dòng chảy phía dưới.
+Thác nước bên phải ở góc khoảng 36°: nối với hồ có cầu; giữ nguyên đỉnh phần hiển thị.
+Sử dụng các vệt chảy hướng xuống, bọt nước, mép mềm và sương mù ở chân thác.
+CLOUDS
+Nâng biển mây lên khoảng y=-20.4 để bao quanh phần đáy đảo.
+Xây dựng mây trắng nhiều lớp dày đặc: dải mây gần đảo, các đám mây cuộn ở xa, dải mây thấp và sương mù.
+Mây phải trông như những cụm bông gòn chồng lên nhau, không phải các lớp giấy phẳng; không để lộ lỗ hổng ở phần giữa.
+Cụm mây phía trước bên trái: khoảng 18 cụm, che một phần đảo, bồng xốp và có thể tích.
+Bốn nhóm mây cao hơn phía trên đảo, mỗi nhóm khoảng 17–21 cụm, đa dạng về kích thước và độ sâu, xếp sát nhau.
+Toàn bộ mây phải có màu trắng/trắng ấm. Không dùng vật liệu mây xám hoặc cụm bóng đổ màu xám. Không khôi phục đám mây cũ che phủ hòn đảo bên phải.
+THẢM THỰC VẬT VÀ CHI TIẾT
+Một số cây thông/cây dáng bonsai xanh đậm; một Cây Thông Tổ Tiên lớn với thân cong queo, tán cây uy nghi, đèn lồng treo và một miếu đá nhỏ.
+Bụi cây phủ rêu, hoa dại, lau sậy, hoa súng, dây leo, đốm sáng ấm lơ lửng và một vài chú chim ở xa.
+Không có động vật nào khác ngoài chú chó màu vàng bên dưới.
+CHÚ CHÓ VÀNG
+Chú chó nhỏ màu vàng kim: chân ngắn mũm mĩm với hình dạng viên nang bo tròn và khớp hông mượt, đuôi ngắn, thân/đầu tròn, mũi, mắt, tai và lưỡi màu đen, vòng cổ đỏ, thẻ vàng.
+Tạo hoạt ảnh cho chân chạy, thân nhấp nhô, đuôi vẫy và đầu chuyển động.
+Định hướng chú chó theo đúng hướng di chuyển thực tế; tuyệt đối không để chạy ngang hoặc lùi.
+Dành cho chú chó một đồng cỏ rõ ràng, không bị vật cản, có tâm gần (-2.3, 9.2), dạng elip với rx=3.0, rz=2.0.
+Xóa đèn lồng đá gần (-5.1, 10.5) và mọi đá bước chân trong bán kính khoảng 4.6; thay các viên đá đã xóa bằng khoảng 24 cụm cỏ tối màu.
+Chú chó chọn ngẫu nhiên các mục tiêu bên trong đồng cỏ này, dừng lại rồi chọn lại—không chạy theo vòng lặp cố định. Chú chó không được rời khỏi đồng cỏ hoặc giao cắt với đá, công trình, hồ hay các bậc địa hình. Chú chó phải chuyển động theo nhịp nhấp nhô của đảo.
+CAMERA VÀ TƯƠNG TÁC
+Màn mở đầu mang tính điện ảnh kéo dài khoảng 8 giây, từ góc nhìn thấp bên hông tiến vào góc nhìn chính.
+Camera chính khoảng (44, 31, 65), hướng tới khoảng (0, 2.8, 0), FOV 43°.
+OrbitControls với damping, kéo để xoay quanh, cuộn để zoom, không pan; thêm nút đặt lại camera với chuyển động mượt.
+Ba địa danh có thể nhấp vào, với cận cảnh camera mượt mà và thẻ ngữ cảnh bằng tiếng Anh:
+Lầu các Ngọc Bích: ~(18.5, 12.2, 17.2) → (0, 7.4, -2.6), FOV 40.
+Cầu Trăng: ~(25, 10, 32) → (10, 4.2, 8), FOV 42.
+Cây Thông Tổ Tiên: ~(10, 15, 38) → (-10.5, 7, 5.4), FOV 42.
+Hiển thị nhãn khi di chuột trên các địa danh; thao tác kéo không được kích hoạt chọn.
+ÁNH SÁNG VÀ UI
+Giờ vàng: mặt trời ấm từ phía sau bên trái, bóng đổ dài, đường chân trời màu đào, mây màu kem.
+Chạng vạng: bầu trời xanh chàm, đường chân trời cam-hồng, mặt trời mờ hơn, đèn lồng sáng hơn, nước xanh chàm đậm.
+Chuyển đổi ánh sáng mượt trong 3.6 giây bằng nút chuyển đổi Atmosphere.
+Tone mapping ACES, bloom tiết chế, sương mù và bóng mềm.
+UI chỉ dùng tiếng Anh: “FLOATING WORLD”, “A Sanctuary Above the Clouds”, “The Realm of Drifting Clouds”, một huy hiệu F, nút chuyển đổi bầu không khí, điều khiển đặt lại và ba liên kết đến những nơi tĩnh lặng. Sử dụng cách kết hợp serif/sans thanh lịch với màu kem, mực và vàng.
+Không có văn bản tiếng Trung trong UI, cờ, nhãn, màn hình tải hoặc giao diện dự phòng.
+TECHNICAL
+Sử dụng CanvasTexture/shader tạo theo quy trình cho đá, cỏ, gỗ, ngói mái, cụm mây, nước, thác nước và cờ.
+Mục tiêu 60 FPS trên máy tính để bàn, responsive, giới hạn pixel ratio, tương tác hoạt động ổn định, không có lỗi runtime.
+Xuất ra một tệp HTML duy nhất, hoàn thiện và chỉn chu.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/floating-world-interactive-3d-island) · [Bài đăng gốc](https://x.com/SiliconFlowAI/status/2113627339318042713) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="battle-city-3d"></a>
 
 ### Battle City 3D: Phòng thủ xe tăng vô tận
@@ -3944,68 +4068,10 @@ Dùng dự án Vite/Three.js độc lập với lockfile và các script/font/GL
 
 ---
 
-<a id="titanic-the-last-light"></a>
-
-### TITANIC — Ánh sáng cuối cùng
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-20
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/titanic-the-last-light"><img src="../assets/previews/804ff98b5bbd18f23ba66fe1a98ef14b46381b11adb913f606281899db4ecbc0.jpg" width="840" loading="lazy" alt="TITANIC — Ánh sáng cuối cùng"></a>
-
-Một chuyến du hành điện ảnh dài 4:24 qua Titanic, với Đại Tây Dương xanh thẳm, chân dung nhân vật, cảnh hạ xuồng cứu sinh có chuyển động theo thực tế và một thế giới sống động để khám phá.
-
-**Prompt**
-
-```text
-1. Mục tiêu dự án
-Tạo TITANIC — THE LAST LIGHT: một hành trình điện ảnh tương tác dài 264 giây, từ hoàng hôn cuối cùng của con tàu, qua va chạm, sơ tán và chìm xuống, đến lễ tưởng niệm lúc bình minh. Khách tham quan xem một bộ phim được dàn dựng, khám phá thế giới 3D chuyển động, chuyển đến một chương, lưu ảnh tĩnh hoặc tải xuống toàn bộ phim. Trình bày đây là một diễn giải nghệ thuật, không tuyên bố độ chính xác pháp y hay mối liên hệ chính thức nào.
-
-2. Định hướng hình ảnh
-Sử dụng bảng màu điện ảnh tiết chế: ánh đèn tàu màu kem ấm và hổ phách trên nền xanh Atlantic đậm, sau đó chuyển sang đêm tối đầy sao và bình minh mát lạnh. Dựng cảnh phối cảnh với bố cục phim 2.39:1, bloom mềm, hạt nhiễu tinh tế và vignette. Dùng depth of field cho các chân dung nhân vật và cảnh bình minh, đồng thời giữ các hạt từ pháo hiệu cứu nạn sắc nét. Tạo màu thân đại dương xanh đậm, các đợt sóng trong world space, normal ripple nhỏ hơn có mipmap và phản xạ Fresnel; màu hoàng hôn chủ yếu chỉ xuất hiện trong ánh sáng phản chiếu. Dùng các dải wake gắn với thân tàu, bám theo cùng độ biến dạng của đại dương, với đầu mềm và bọt biển đứt đoạn. Lặp texture panorama theo chiều ngang mà không tạo điểm gián đoạn fract, nhằm tránh đường nối dọc trên bầu trời và các vệt phản chiếu. Tránh shading vùng nước nông màu cam, các gợn sóng nhỏ đồng nhất và decal bọt phát sáng hình tròn. Xóa các mặt trên mái ẩn bị chồng lấn để tránh xung đột độ sâu; đặt camera near plane phù hợp với khoảng cách của từng cảnh. Trong lúc chìm, giảm dần ánh sáng cửa sổ một cách đơn điệu thay vì thêm hiện tượng nhấp nháy tần số cao. Dùng tiêu đề serif trầm, các nút điều khiển song ngữ Anh/Trung và một timeline hẹp dọc cạnh dưới.
-
-3. Thế giới, địa lý và biên tập camera
-Sử dụng một hệ tọa độ liên tục với con tàu dài 269 mét, mũi tàu hướng về +X và một tảng băng cố định tại (275, 0, 57). Con tàu tiến lên, chạm tảng băng ở giây 96.727, trôi thêm đến khi dừng lại, rồi chìm theo phần mũi và phần đuôi. Giữ tảng băng xuất hiện cho đến đoạn kết và nhìn thấy trong bố cục bình minh. Giữ sáu chương bắt đầu tại các mốc 0, 63, 110, 163, 211 và 241 giây.
-
-Xây dựng 23 shot có chủ đích. Phân cảnh ôm ở mũi tàu kéo dài từ giây 29–61: một shot thiết lập cảnh tiếp cận, một chân dung đôi cận cảnh, một góc nhìn từ phía sau hướng ra biển và một chân dung chếch. Đặt Rose ở phía trước và Jack phía sau cô tại chóp mũi tàu, cả hai cùng hướng mắt ra ngoài mũi tàu. Duy trì ánh sáng hoàng hôn xuyên suốt chuỗi shot. Từ giây 127–158, dùng ba shot gắn với transform thế giới thực của một xuồng cứu sinh: rời boong xuồng, cận cảnh hơn về hành khách và dây treo, rồi tiếp cận mặt nước. Tiếp nối bằng các shot sơ tán toàn cảnh, tàu nghiêng, nứt gãy và chìm. Khi bình minh, cho thấy những chiếc xuồng còn sống sót với tảng băng ở xa, sau đó là tiêu đề tưởng niệm tiết chế.
-
-4. Danh mục tài sản
-- titanic-vessel: dựng cấu trúc chính dài 269 mét trong Blender với các boong hở liên tục, forecastle đóng kín, các tầng promenade, bốn ống khói rỗng nghiêng, thân trên màu đen và thân dưới màu đỏ. Dùng vành tròn thực cho 864 ô cửa sổ tròn và khung cho 360 cửa sổ. Chỉ cho phép emission trên các vật liệu kính thực tế. Batch vật liệu và tách tại x=-32 để phục vụ cảnh chìm. Thêm cột buồm, rigging, davit, dây hạ, chân vịt bằng đồng và bánh lái. Tạo companionway P2 với cửa gỗ teak và chi tiết đồng thau, chuẩn hóa rồi tái sử dụng hai lần trên boong đã biên soạn. Giữ nguyên transform của node khi lắp ráp GLB.
-- atlantic-iceberg: một tảng băng xanh-trắng bất quy tắc, bị xói mòn, với các lớp sương giá, độ roughness biến thiên, normal map tiết chế và đường tiếp nước thuyết phục. Đây là một đối tượng địa lý cố định.
-- lifeboat: một xuồng cứu sinh chèo tay của White Star với vỏ gỗ trắng, be chắn mạn tối màu, ghế băng và mái chèo, được instancing thành mười sáu xuồng chuyển động độc lập.
-- bow-embrace: một tài sản nhân vật đôi tách biệt, lấy cảm hứng từ phục trang và tư thế trong bộ phim năm 1997 được yêu cầu: Rose tóc nâu đỏ, mặc đồ màu navy/ngà và choàng khăn có họa tiết, hai tay dang rộng; Jack đứng ngay phía sau, mặc áo khoác tối màu và sơ mi ngà. Tạo ảnh tham chiếu toàn thân rõ nét trước khi chuyển đổi sang H v3.1, giữ đầu, cổ, vai và trang phục của mỗi nhân vật nhất quán. Tinh chỉnh Rose bằng một ảnh tham chiếu cận cảnh riêng và donor chi tiết khuôn mặt H: căn chỉnh mắt, mũi, môi và cằm, chuyển hình dáng và màu cục bộ sang mesh toàn thân liên tục, rồi blend và retouch phần chuyển tiếp UV. Với Jack, tạo một chân dung rõ nét với màu da tự nhiên, mắt và môi rõ ràng. Giữ trọn đầu và phần cổ trên, căn chỉnh hướng nhìn và tỷ lệ với body H, cho phần cổ dưới ôm khớp rồi weld cả hai boundary loop. Bake và retouch vùng chuyển tiếp cổ hẹp mà không làm phẳng chi tiết khuôn mặt. Chỉnh lại dáng đứng và điểm tiếp xúc bàn tay trong Blender. Kiểm tra các góc nhìn trước, bên và sau để phát hiện vệt tối, đường nối texture, lỗ thủng, mép bị cắt và giao cắt trang phục. Dùng shading riêng cho da và vải. Giữ biểu cảm nền tự nhiên cùng chuyển động tiết chế của cơ thể và vải; không tạo cảm giác đang có facial animation rig nếu thực tế chưa triển khai rig đó.
-- seated-woman và seated-man: các model hành khách trưởng thành riêng biệt, mặc trang phục năm 1912 và áo phao bằng nút bần màu nhạt, ngồi co gối, hai tay đặt trên đùi. Chia sẻ geometry và vật liệu giữa các xuồng; thay đổi nhẹ vị trí và hướng. Dùng số lượng instance trên từng xuồng có thể hoàn nguyên để điều khiển việc lên xuồng.
-
-Dùng Blender cho tàu chính, Tripo P2.0 cho companionway trên boong, tảng băng, xuồng và hành khách đang ngồi, còn H v3.1 cho hai nhân vật chính toàn thân và các tinh chỉnh chân dung cận cảnh. Giữ đại dương, chuyển sắc bầu trời, các vì sao, ánh sáng, khói, pháo hiệu cứu nạn, bọt biển, tia nước và mảnh vỡ ở dạng hiệu ứng cảnh. Cung cấp các biến thể model web nhẹ hơn với texture nén, đồng thời giữ lại tài sản nguồn chi tiết để chỉnh sửa. Dùng cùng một cặp nhân vật chính đã được tối ưu và phê duyệt cho website và bản xuất phim offline.
-
-5. Phát lại và phản hồi
-Hiển thị tiến trình tải thực cho các tài sản thiết yếu của tàu, xuồng, bầu trời và normal của biển. Bật nút mở đầu khi cảnh đầu tiên sẵn sàng; trì hoãn các model và nhạc còn lại. Nếu model nhân vật hoặc tảng băng bắt buộc tải chậm, hãy giữ ở ranh giới cảnh đó và tiếp tục khi model sẵn sàng thay vì âm thầm bỏ qua shot. Âm thanh bắt đầu sau khi người dùng tương tác.
-
-Timeline phải hỗ trợ tua tới/tua lui và kéo nhanh mà không đặt lại về 0. Giữ nguyên trạng thái phát/tạm dừng và tắt tiếng khi tua; không để đồng hồ âm thanh cũ ghi đè lên vị trí được yêu cầu. Phục vụ byte range cho MP3 và MP4. Điều hướng chương phải có mục truy cập trực tiếp đến phân cảnh ôm ở mũi tàu tại giây 29 và hạ xuồng cứu sinh tại giây 127; các mục này khôi phục camera của đạo diễn đồng thời giữ nguyên trạng thái phát.
-
-Cho phép khám phá bằng orbit, kéo và zoom trong khi thế giới, con tàu và nhạc nền vẫn tiếp tục. Bám theo chuyển động tịnh tiến của tàu mà không giật hướng nhìn. Trạng thái tạm dừng hoạt động độc lập; khi quay lại phim, giữ nguyên thời gian hiện tại. Space phát/tạm dừng, phím mũi tên nhảy 10 giây, M bật/tắt âm thanh, E bật/tắt chế độ khám phá và F mở toàn màn hình. Hỗ trợ orbit/pinch cảm ứng và chạm vào timeline.
-
-Các xuồng bắt đầu ở trạng thái trống. Hành khách lên xuồng theo từng nhóm lệch thời gian sau giây 112 và hoàn tất trước khi từng xuồng hạ xuống. Dây chạy giữa các davit đang chuyển động và các điểm gắn thực tế trên xuồng, sau đó biến mất khi được thả. Tua ngược phải khôi phục số hành khách và trạng thái dây ở thời điểm trước đó. Va chạm phải đồng bộ rung thân tàu/camera, mảnh băng, tia nước do cọ xát và âm thanh thoáng qua của thép/băng. Pháo hiệu cứu nạn dùng các ngôi sao cháy màu trắng, vệt ngắn riêng lẻ, trọng lực, lực cản và khói mờ dần. Nhiễu động khi chìm là các mảng bất quy tắc bám theo sóng và suy giảm từ từ; phân bổ tia nước dọc theo đúng đường tiếp nước của đuôi tàu, tuyệt đối không phát ra từ một điểm fountain ở xa.
-
-6. Triển khai kỹ thuật và sản phẩm bàn giao
-Sử dụng Vite, các module JavaScript và Three.js với animation dựa trên thời gian mang tính xác định. Tách camera/timeline, tài sản tàu, nhân vật, môi trường, hiệu ứng và trạng thái sẵn sàng của cảnh. Dùng cùng một mô hình thời gian cho phát lại trên web, tua và capture offline. Giới hạn render web trong ngân sách pixel, phản xạ và bóng được xác định rõ; dành ambient occlusion nặng hơn cho profile offline. Biên dịch và giải mã tài sản mà không có bước prewarm khởi động dài gây chặn. Host script, model, hình ảnh, font và âm thanh trên cùng origin, đồng thời không đưa secret vào bản build tĩnh.
-
-Dùng nhạc nền nguyên bản và Foley trả phí từ ElevenLabs: một bản thu tiếng huýt sáo pháo hoa tự nhiên hoàn chỉnh, được tách đúng tại thời điểm pháo nổ trên không thành đoạn bay lên và tiếng nổ sắc kèm đuôi lách tách, cùng âm thanh tiếp xúc và cọ xát thép/băng, dây xuồng cứu sinh và tiếp nước, biến dạng/nứt thân tàu, và chuyển động nước do đuôi tàu tạo ra. Xuất các file WAV nguồn, giữ lại prompt/lịch sử và ID, rồi biên tập thành các cue theo thời gian. Căn thời điểm phóng tại các giây 119, 151 và 183, với pháo nổ trên không sau đó 3.15 giây. Giữ nguyên attack của tiếng nổ ban đầu và hạ nhẹ nhạc giao hưởng trong thời gian ngắn. Duy trì ambience yên tĩnh của biển, gió và động cơ bên dưới bản mix. Không đưa soundtrack của bộ phim tham chiếu vào website công khai hoặc phim tải xuống nếu chưa được cấp phép. Ghi rõ nguồn tài sản và âm thanh thực tế thay vì mô tả phương án dự phòng như một tài sản do dịch vụ tạo ra.
-
-Cung cấp bản xuất xác định gồm 6,336 frame ở 3840×2160 và 24 fps với ba mẫu theo thời gian, tiêu đề tiếng Anh được burn-in và hình ảnh letterbox 2.39:1. Mã hóa bản master 4K H.264/AAC và bản web 1080p dưới 100 MiB, cả hai dài 264 giây với âm thanh stereo 48 kHz. Giữ tùy chọn phụ đề Trung/Anh, master âm thanh và source có thể chỉnh sửa. Phát hành bản build tĩnh thông qua dịch vụ hosting Web Pages của CMS hiện có, không thêm ứng dụng nền tảng hoặc Worker theo từng trang.
-
-7. Tiêu chí nghiệm thu
-Kiểm tra cảnh mở đầu, cả hai chân dung nhân vật, va chạm, pháo hiệu cứu nạn, cả ba shot hạ xuồng, cảnh nứt gãy, cảnh đuôi tàu biến mất và bình minh. Kiểm tra để chắc chắn tảng băng không biến mất ở giây 244, biển thể hiện đúng màu xanh đậm, cảnh chìm không có các vòng trắng đều đặn, nhân vật vẫn xuất hiện trong các shot đã biên soạn, dây xuồng/hành khách luôn thẳng hàng trong suốt quá trình hạ xuồng. Kiểm thử việc tải model trễ, tua tới/tua lui, scrub nhanh, tạm dừng/tắt tiếng, khám phá động, truy cập trực tiếp các cảnh cận và mô phỏng thao tác cảm ứng. Xác minh từng frame đã xuất, giải mã đầy đủ cả hai bộ phim, đối chiếu file tải xuống thực tế trên trình duyệt với file bàn giao, đồng thời xác minh bản build công khai và liên kết CMS. Phân biệt việc giả lập thiết bị di động trên trình duyệt với kiểm thử trên điện thoại thật.
-
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/titanic-the-last-light) · [Bản demo](https://titanic-the-last-light.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 358 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 361 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>
