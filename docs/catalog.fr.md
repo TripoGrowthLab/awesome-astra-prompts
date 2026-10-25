@@ -28,7 +28,7 @@
 **Un point de départ pour votre prochain jeu, scène ou monde interactif.**
 
 
-**361 · Derniers prompts Astra**
+**362 · Derniers prompts Astra**
 
 ## Projets à découvrir
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Parcourir les exemples</summary>
 
-- [Voilier en pleine mer](#2101616345720787130)
 - [Créer un modèle 3D de WALL-E avec Three.js](#2101687900723106104)
 - [Verdant — île aux dinosaures 3D interactive](#2101730386711634251)
 - [Site web interactif présentant un modèle 3D du Soleil](#2102038136725377200)
@@ -145,6 +144,7 @@
 - [Modèle 3D de mannequin d’entraînement en paille prêt pour le jeu](#2113321027325300784)
 - [Chalk Square : jeu de carré à quatre cases en 3D pixel art](#2113602050172785117)
 - [MONDE FLOTTANT — sanctuaire insulaire 3D interactif](#2113627142772899916)
+- [Windsock Field, aérodrome interactif en pixel art](#2113849897438834851)
 - [1, 2, 3, soleil : jeu de survie en 3D](#red-light-green-light)
 - [Golden Miner : jeu de minage 3D en 24 niveaux](#golden-miner)
 - [Crazy Tanks — Artillerie insulaire en 3D](#crazy-tanks-3d-island-artillery)
@@ -152,43 +152,6 @@
 - [Villa en gelée](#jelly-villa)
 
 </details>
-
-<a id="2101616345720787130"></a>
-
-### Voilier en pleine mer
-
-[www.aicontenders.dev](https://www.aicontenders.dev/) · 2026-09-20
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2101616345720787130"><img src="../assets/previews/b9826d35e819a5f5cf763b5a3ec4b43871311350a790ace0106802144975f0ef.jpg" width="840" loading="lazy" alt="Voilier en pleine mer"></a>
-
-Publié sur la page de comparaison AIContenders liée et exécuté avec GPT-6-astra aux côtés d’autres modèles. La tâche demande une scène 3D interactive de voilier, contenue dans un seul fichier, avec une eau animée de manière procédurale, deux îles, un mouvement du bateau réactif aux vagues, une navigation évitant les terres et une caméra de poursuite lissée.
-
-**Prompt**
-
-```text
-Créez un fichier HTML unique contenant une scène 3D représentant un petit voilier se déplaçant sur une étendue d’eau, avec des commandes de pilotage intégrées et un parcours contournant deux îles visibles, dans l’esprit des démonstrations de « jeu de bateau » observées lors de tests récents de modèles.
-
-Exigences fonctionnelles :
-
-Une surface d’eau rendue sous forme de maillage de vagues animé (shader d’eau procédural, vagues en mouvement, reflets lumineux variant selon l’angle de vue et sillage derrière le bateau), et non une texture plate et statique.
-Un modèle de voilier construit à partir de formes simples (coque, mât, voile gonflée par le vent), avec un mouvement de tangage visible et une légère inclinaison sur les vagues, synchronisés avec le mouvement de l’eau sous le bateau.
-Deux îles distinctes placées à différents endroits de la scène, chacune avec un relief simple (élévation, plage et, éventuellement, végétation) ainsi qu’une ombre projetée sur l’eau alentour.
-Le bateau doit suivre un itinéraire qui évite réellement les deux îles (sans jamais traverser leur silhouette ni entrer en collision avec les terres) et tourner progressivement, sans changements brusques d’angle.
-La caméra suit le bateau avec un léger décalage (suivi de caméra lissé), donnant l’impression d’une poursuite dynamique plutôt que d’une vue plongeante rigidement attachée.
-Un ciel en dégradé (par exemple un coucher de soleil ou un bleu diurne, au choix du modèle), avec un soleil ou un reflet lumineux sur l’eau, cohérent avec la direction des ombres projetées par les îles.
-
-Exigences techniques :
-
-Un seul fichier .html ; three.js chargé depuis cdnjs est autorisé, sans autres ressources externes ni textures. Toute l’eau et le relief doivent être générés de manière procédurale dans le code ou le shader.
-Le parcours autour des îles peut être un itinéraire prédéfini (par exemple une courbe de Bézier passant entre les îles) ou un pilotage simple réagissant à la position, au choix du modèle, mais aucune collision avec les terres n’est autorisée.
-L’animation doit fonctionner de manière fluide pendant au moins 20 secondes, en boucle ou en continu, à 30 images par seconde minimum sur un ordinateur portable courant. La résolution du canvas doit être limitée à la taille de la fenêtre, avec un devicePixelRatio ne dépassant pas 1.5 afin d’éviter de surcharger les écrans à haute densité de pixels.
-
-L’évaluation porte principalement sur le fait que l’eau ressemble de manière convaincante à un fluide en mouvement (et non à une texture avec un simple décalage UV animé), que le bateau réagisse réellement aux vagues et que le parcours autour des îles évoque une navigation intentionnelle plutôt qu’une quasi-collision aléatoire.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2101616345720787130) · [Publication originale](https://www.aicontenders.dev/c/a_TRQpq3LoNVd-M7Xy2DHg) · [Retour aux exemples](#all-prompts)
-
----
 
 <a id="2101687900723106104"></a>
 
@@ -3658,6 +3621,36 @@ Livrez un fichier HTML unique et soigné.
 
 ---
 
+<a id="2113849897438834851"></a>
+
+### Windsock Field, aérodrome interactif en pixel art
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-24
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/windsock-field-interactive-pixel-art-airfield"><img src="../assets/previews/d20625221a95dbe46cbc5200bf35b1a8b8568b8048e9e4a85de555f926048fe9.jpg" width="840" loading="lazy" alt="Windsock Field, aérodrome interactif en pixel art"></a>
+
+Prompt fourni mot pour mot par l’auteur de la publication pour un diorama 3D interactif d’aérodrome en pixel art réalisé avec Three.js. Il décrit une piste et une voie de circulation simulées, la physique de vol des appareils, les opérations au sol, la météo, l’éclairage jour/nuit ainsi que les commandes interactives de la caméra et du trafic. La publication principale précise qu’il s’agit du même prompt utilisé pour une comparaison entre Kimi K3.1 Pro et ChatGPT-6 Astra ; le résultat lié est présenté comme une page Kimi.
+
+**Prompt**
+
+```text
+Créez un diorama interactif en pixel art dans un fichier HTML unique avec three.js (r160, import map depuis jsDelivr), baptisé « Windsock Field » : un petit aérodrome sur une île flottante en forme de rectangle aux angles arrondis, rendu par une caméra isométrique orthographique sur une cible basse résolution (environ 480×300), agrandie avec texelFetch, avec des contours fondés sur la profondeur, une quantification OKLab vers une palette fixe de 64 couleurs, un tramage Bayer facultatif et un bouton « Raw 3D » avec MSAA. Tout doit être construit à partir de boîtes ; aucun élément externe ni aucune marque réelle.
+Agencement : piste 09/27 à l’avant (feux de bord, barres de seuil, numéros peints, ligne centrale, marques de point d’aboutissement, PAPI, feux d’approche séquencés), voie de circulation parallèle à voie unique avec quatre bretelles et barres d’attente, aire de trafic avec trois postes nez au terminal (A1–A3), aérogare avec façade vitrée et auvent, tour de contrôle avec gyrophare rotatif, hangar voûté, dépôt de carburant, hélipad, petit parking, voie de service derrière les postes, clôture avec spectateurs, arbres et manche à air chaînée qui se déploie dans le vent et retombe par temps calme.
+Aéronefs (leur propre physique, pas d’images clés) : vitesse indiquée régie par la poussée moins la traînée, montées qui font perdre de la vitesse, virages coordonnés (taux de virage = g·tanφ/v), assiette fondée sur l’angle d’attaque, roulage au sol/rotation/décollage à Vr, arrondi, atterrissage avec rebond éventuel. Le vent les déporte : par vent de travers, ils prennent une correction de dérive puis se réalignent au toucher des roues ; en finale, ils ajoutent la moitié du vent debout à leur vitesse.
+Sparrow (avion-école à aile haute) : effectue des tours de piste Vent arrière→Traversier→Vent arrière→Base→Finale, réalise 2 à 3 posés-décollés, puis un atterrissage complet.
+Kestrel (bimoteur léger à train rentrant) : embarque 3 passagers et leurs bagages depuis un tracteur à bagages, décolle et disparaît de l’écran, revient en approche pour un atterrissage complet, puis débarque ses passagers.
+Bumblebee (biplan) : effectue une démonstration avec fumigènes, comprenant deux boucles et un tonneau lors de passages devant le public, puis rejoint le circuit et atterrit.
+Rotor 5 (hélicoptère) : décolle de l’aire dédiée, effectue un tour avec une attitude commandée par l’accélération, puis atterrit.
+Opérations : verrouillage de la piste ; autorisation de départ uniquement si aucun appareil n’est en finale ; vérification en courte finale avec remise des gaz si la piste est occupée ; remise des gaz en cas d’arrondi trop long ou d’approche manquée ; passage bas sur clic. La voie de circulation ne comporte qu’une voie : chaque avion réserve la portion en abscisse de la voie qu’il lui reste à parcourir, et les arrivées sont prioritaires ; un avion en attente à un point d’attente compte comme obstacle statique. Les avions quittent la piste par la première bretelle libre située devant eux. Modes de vent : de l’ouest / de l’est / changeant. Un vent arrière soutenu inverse la piste en service : les appareils rejoignent le circuit (jamais directement la finale), et ceux qui se trouvent déjà sur la voie de circulation poursuivent jusqu’à leur ancien point d’attente, puis changent d’itinéraire une fois la voie dégagée. Les avions ne volent jamais à moins de 3 m, sauf au-dessus de la piste. Watchdog : un avion immobilisé pendant 90 s se faufile pour passer.
+Vie au sol : un agent de piste muni de bâtons lumineux guide les arrivées jusqu’au poste ; pilotes et passagers vont à pied jusqu’à la porte de l’aérogare ou en reviennent. Un camion-citerne ravitaille chaque appareil arrivé, stationné à 1,5 m d’un saumon d’aile. Le tracteur transporte des chariots de bagages jusqu’au bimoteur. Les deux véhicules restent sur une boucle à sens unique (vers l’ouest le long du bord avant de l’aire de trafic, vers le nord dans l’espace entre les postes, puis retour par la voie de service), s’arrêtent pour toute aile ou pour la bande qu’un avion en mouvement s’apprête à traverser, et continuent leur route s’ils se trouvent déjà sur la trajectoire d’un avion, qui doit alors attendre. Les avions traitent les véhicules comme des obstacles en maintenant une marge au saumon d’aile.
+Météo et heure : la pluie ajoute des traînées, un assombrissement des surfaces mouillées et des flaques qui s’étendent depuis les points bas et affichent un second rendu en miroir, ainsi que des projections d’eau au niveau des roues. Les modes Jour / Crépuscule / Nuit se fondent sur 1,6 s ; la nuit : feux de bord, barres de seuil vertes/rouges de la piste en service, feux d’approche séquencés, gyrophare, feux de navigation et feux à éclats, projecteurs, aérogare et cabine de tour éclairées.
+Interface (en anglais, thèmes clair et sombre) : surtitre « Pixel diorama · Airfield », titre, courte introduction. Un tableau de bord sombre avec DEPARTURES / horloge + bandeau d’état / ARRIVALS et une ligne de vent (« WIND 270° 8 KT · RWY 27 »). Barre latérale droite : Time & weather (Day/Dusk/Night, Dry/Rain, barre d’humidité de la piste), Wind (3 modes et indication de la manche à air), Traffic (état en direct de chaque aéronef, « Send one up », Pause), flux Radio des échanges entre la tour et les pilotes dans une police pixel (hauteur fixe), View (rotation à gauche/à droite, Pixel art/Raw 3D, taille des pixels, palette, boutons de tramage et de contours). Cliquez sur un aéronef pour le lancer ou demander un passage bas, cliquez sur la manche à air pour faire pivoter le vent, faites glisser pour tourner la vue et faites défiler pour zoomer. Un panneau rétractable « How it's drawn ». Sur mobile : une seule colonne avec une gouttière de 16 px et la barre latérale sous la scène.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/windsock-field-interactive-pixel-art-airfield) · [Publication originale](https://x.com/vib3coded/status/2113850194106167681) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### 1, 2, 3, soleil : jeu de survie en 3D
@@ -3996,7 +3989,7 @@ Publier un nouveau prompt jelly-villa attribué à jared, avec l’auteur origin
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 361 exemples sur le site officiel →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 362 exemples sur le site officiel →</a></strong></p>
 <p><sub>Pour préserver la fluidité du rendu du README sur GitHub, seuls les 100 exemples les plus récents sont affichés ici.</sub></p>
 <br>
 </td></tr>

@@ -29,7 +29,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**361 examples · 14 languages · 12 examples with source code**
+**362 examples · 14 languages · 12 examples with source code**
 
 ## Featured projects
 
@@ -51,7 +51,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 <details>
 <summary>Browse examples</summary>
 
-- [Sailboat on Open Water](#2101616345720787130)
 - [Create a 3D model of WALL-E in Three.js](#2101687900723106104)
 - [Verdant — interactive 3D dinosaur island](#2101730386711634251)
 - [Interactive 3D Sun model website](#2102038136725377200)
@@ -146,6 +145,7 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Game-ready straw training dummy 3D model](#2113321027325300784)
 - [Chalk Square: pixel-art 3D four-square game](#2113602050172785117)
 - [FLOATING WORLD interactive 3D island sanctuary](#2113627142772899916)
+- [Windsock Field interactive pixel-art airfield](#2113849897438834851)
 - [Red Light, Green Light: 3D Survival Game](#red-light-green-light)
 - [Golden Miner: 24-Level 3D Mining Game](#golden-miner)
 - [Crazy Tanks — 3D Island Artillery](#crazy-tanks-3d-island-artillery)
@@ -153,43 +153,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Jelly Villa](#jelly-villa)
 
 </details>
-
-<a id="2101616345720787130"></a>
-
-### Sailboat on Open Water
-
-[www.aicontenders.dev](https://www.aicontenders.dev/) · 2026-09-20
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101616345720787130"><img src="../assets/previews/b9826d35e819a5f5cf763b5a3ec4b43871311350a790ace0106802144975f0ef.jpg" width="840" loading="lazy" alt="Sailboat on Open Water"></a>
-
-Published on the linked AIContenders comparison page and run against GPT-6-astra alongside other models. The task requests a single-file interactive 3D sailboat scene with procedural animated water, two islands, wave-responsive boat motion, navigation that avoids land, and a smoothed chase camera.
-
-**Prompt**
-
-```text
-Build a single HTML file with a 3D scene showing a small sailboat moving across open water, with native steering and a course that navigates around two visible islands, similar to the comparison "boat game" demos seen in recent model tests.
-
-Functional requirements:
-
-A water surface rendered as an animated wave mesh (procedural water shader, moving waves, light reflections that shift with viewing angle, a wake trail behind the boat), not a flat, static texture.
-A sailboat model built from simple shapes (hull, mast, sail filled by the wind), with visible bobbing and slight tilting on the waves, synchronized with the motion of the water beneath it.
-Two distinct islands placed at different points in the scene, each with simple terrain shaping (a rise, a beach, optionally vegetation) and a shadow cast onto the water around it.
-The boat should follow a route that genuinely avoids both islands (never clipping through their silhouette or crossing through the land), turning smoothly rather than snapping between angles.
-The camera follows the boat with a slight lag (smoothed camera follow), giving the impression of a dynamic chase rather than a rigidly attached top down view.
-A gradient sky (e.g. sunset or daytime blue, model's choice) with a sun or light reflection on the water, directionally consistent with the shadows on the islands.
-
-Technical requirements:
-
-A single .html file, three.js from cdnjs is allowed, no other external assets or textures, all water and terrain generated procedurally in code/shader.
-The route around the islands can be a pre-planned path (e.g. a Bezier curve threading between the islands) or simple steering that reacts to position, model's choice, but no collision with land is allowed.
-The animation must run smoothly for at least 20 seconds, looping or continuous, minimum 30fps on a typical laptop, canvas resolution capped to window size with a devicePixelRatio no higher than 1.5 to avoid overloading hidpi screens.
-
-Judged primarily on whether the water looks convincingly like a fluid in motion (not a texture with animated UV offset), whether the boat genuinely reacts to the waves, and whether the route around the islands reads as intentional navigation rather than a random near miss.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101616345720787130) · [Original post](https://www.aicontenders.dev/c/a_TRQpq3LoNVd-M7Xy2DHg) · [Back to examples](#all-prompts)
-
----
 
 <a id="2101687900723106104"></a>
 
@@ -3632,6 +3595,36 @@ Deliver a single polished HTML file.
 
 ---
 
+<a id="2113849897438834851"></a>
+
+### Windsock Field interactive pixel-art airfield
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-24
+
+<a href="https://www.tripo3d.ai/3d-prompts/windsock-field-interactive-pixel-art-airfield"><img src="../assets/previews/d20625221a95dbe46cbc5200bf35b1a8b8568b8048e9e4a85de555f926048fe9.jpg" width="840" loading="lazy" alt="Windsock Field interactive pixel-art airfield"></a>
+
+A verbatim prompt supplied by the posting author for an interactive Three.js pixel-art 3D airfield diorama. It specifies a simulated runway, taxiway, aircraft flight physics, ground operations, weather, day/night lighting, and interactive camera and traffic controls. The root post says this was the same prompt used in a Kimi K3.1 Pro versus ChatGPT-6 Astra comparison; the linked result is presented as a Kimi page.
+
+**Prompt**
+
+```text
+Build a single-file HTML + three.js (r160, import map from jsDelivr) interactive pixel-art diorama called "Windsock Field": a small airfield on a floating rounded-rectangle island, rendered from an orthographic isometric camera into a low-res target (~480×300), upscaled with texelFetch, with depth-based outlines, OKLab quantization to a fixed 64-colour palette, optional Bayer dither, and a "Raw 3D" toggle with MSAA. Everything is built from boxes; no external assets, no real brands.
+Layout: runway 09/27 across the front (edge lights, threshold bars, painted numbers, centreline, aiming points, PAPI, running approach lights), a parallel single-lane taxiway with four links and hold-short bars, an apron with three nose-in stands (A1–A3), a terminal with a glass front and canopy, a control tower with a rotating beacon, an arched hangar, a fuel farm, a helipad, a small car park, a service lane behind the stands, a fence with spectators, trees, and a chained windsock that streams with the wind and droops when it is calm.
+Aircraft (own physics, not keyframes): airspeed with thrust minus drag, climbs that cost speed, coordinated turns (turn rate = g·tanφ/v), AoA-based pitch, ground roll/rotate/lift-off at Vr, flare, touchdown with a possible bounce. The wind carries them, so on crosswinds they crab and then straighten at touchdown; on final they add half the headwind to their speed.
+Sparrow (high-wing trainer): flies circuits Upwind→Crosswind→Downwind→Base→Final, 2–3 touch-and-goes, then a full stop.
+Kestrel (light twin, retractable gear): boards 3 passengers plus bags from a baggage tug, departs off-screen, returns inbound for a full stop, then unloads.
+Bumblebee (biplane): smoke display with two loops and a roll on passes in front of the crowd, then rejoins and lands.
+Rotor 5 (helicopter): lifts from the pad, flies a lap with attitude driven by acceleration, lands.
+Operations: a runway lock; departure clearance only when nothing is on final; short-final check with a go-around if the runway is occupied; go-around on a long flare or a missed approach; low pass on click. The taxiway is one lane: each plane reserves the x-span of the taxiway it still has to cover, and arrivals have priority; a plane waiting at a holding point counts as a static obstacle. Planes leave the runway at the first free link ahead. Wind modes: From west / From east / Shifting. A sustained tailwind flips the active runway: circuits rejoin (never straight onto final), and planes already on the taxiway finish to their old holding point, then re-route when clear. Planes never fly below 3 m except over the runway. Watchdog: a plane stuck for 90 s squeezes past.
+Ground life: a marshaller with wands guides arrivals onto the stand; pilots and passengers walk to and from the terminal door. A fuel truck refuels each arrival, parked 1.5 m off a wingtip. The tug carries carts with bags to the twin. Both vans keep to a one-way loop (westbound along the apron's front edge, northbound up the gap between stands, back along the service lane), stop for any wing or for the strip a moving plane is about to sweep, and keep going when they are already in a plane's path so it waits for them. The planes treat vans as obstacles with wingtip clearance.
+Weather and time: Rain adds streaks, wet darkening and puddles that grow from low spots and show a mirrored second render pass, plus wheel spray. Day / Dusk / Night blend over 1.6 s; at night: edge lights, green/red threshold bars by the active runway, sequenced approach lights, beacon, nav lights and strobes, floodlights, a lit terminal and tower cab.
+UI (English, light and dark themes): kicker "Pixel diorama · Airfield", title, short intro. A dark scoreboard with DEPARTURES / clock + status ticker / ARRIVALS and a wind line ("WIND 270° 8 KT · RWY 27"). Right rail: Time & weather (Day/Dusk/Night, Dry/Rain, runway wetness bar), Wind (3 modes plus a windsock readout), Traffic (each aircraft's live state, "Send one up", Pause), a Radio feed of tower/pilot calls in a pixel font (fixed height), View (turn left/right, Pixel art/Raw 3D, pixel size, palette, dither and outlines toggles). Click an aircraft to start it or ask for a low pass, click the windsock to swing the wind, drag to rotate, scroll to zoom. A collapsible "How it's drawn" panel. Mobile: single column with a 16px gutter and the rail below the scene.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/windsock-field-interactive-pixel-art-airfield) · [Original post](https://x.com/vib3coded/status/2113850194106167681) · [Back to examples](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Red Light, Green Light: 3D Survival Game
@@ -3970,7 +3963,7 @@ Publish a new jelly-villa prompt credited to jared, with the original author in 
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 361 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 362 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>

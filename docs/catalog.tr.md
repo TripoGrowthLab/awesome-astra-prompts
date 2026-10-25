@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**361 · En yeni Astra istemleri**
+**362 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Örnekleri keşfet</summary>
 
-- [Açık Denizde Yelkenli Tekne](#2101616345720787130)
 - [Three.js'te WALL-E için 3B model oluşturun](#2101687900723106104)
 - [Verdant — etkileşimli 3B dinozor adası](#2101730386711634251)
 - [Etkileşimli 3B Güneş modeli web sitesi](#2102038136725377200)
@@ -145,6 +144,7 @@
 - [Oyuna hazır saman talim mankeni 3B modeli](#2113321027325300784)
 - [Chalk Square: piksel sanatlı 3B dört kare oyunu](#2113602050172785117)
 - [YÜZEN DÜNYA etkileşimli 3B ada sığınağı](#2113627142772899916)
+- [Windsock Field etkileşimli piksel sanatlı havaalanı](#2113849897438834851)
 - [Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu](#red-light-green-light)
 - [Golden Miner: 24 Seviyeli 3B Madencilik Oyunu](#golden-miner)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
@@ -152,43 +152,6 @@
 - [Jöle Villa](#jelly-villa)
 
 </details>
-
-<a id="2101616345720787130"></a>
-
-### Açık Denizde Yelkenli Tekne
-
-[www.aicontenders.dev](https://www.aicontenders.dev/) · 2026-09-20
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101616345720787130"><img src="../assets/previews/b9826d35e819a5f5cf763b5a3ec4b43871311350a790ace0106802144975f0ef.jpg" width="840" loading="lazy" alt="Açık Denizde Yelkenli Tekne"></a>
-
-Bağlantısı verilen AIContenders karşılaştırma sayfasında yayımlandı ve diğer modellerle birlikte GPT-6-astra üzerinde çalıştırıldı. Görev; prosedürel olarak animasyonlu suya, iki adaya, dalgalara tepki veren tekne hareketine, karadan kaçınan navigasyona ve yumuşatılmış takip kamerasına sahip, tek dosyalık etkileşimli bir 3B yelkenli tekne sahnesi oluşturmayı istiyor.
-
-**İstem**
-
-```text
-Açık denizde ilerleyen küçük bir yelkenli teknenin gösterildiği 3B sahne için tek bir HTML dosyası oluşturun. Tekne, son model testlerinde görülen karşılaştırma amaçlı "boat game" demolarına benzer şekilde doğal dümen kontrolüne sahip olmalı ve sahnede görünen iki adanın çevresinden geçen bir rota izlemelidir.
-
-İşlevsel gereksinimler:
-
-Düz ve statik bir doku yerine, animasyonlu dalga ağı olarak oluşturulmuş bir su yüzeyi kullanın (prosedürel su shader'ı, hareketli dalgalar, bakış açısına göre değişen ışık yansımaları ve teknenin arkasında iz bırakan köpüklü su).
-Basit şekillerden (gövde, direk, rüzgârla şişen yelken) oluşturulmuş bir yelkenli tekne modeli kullanın. Tekne, altındaki suyun hareketiyle senkronize olacak şekilde dalgaların üzerinde görünür biçimde sallanmalı ve hafifçe yatmalıdır.
-Sahnede farklı noktalara yerleştirilmiş, birbirinden belirgin iki ada bulunmalıdır. Her adada basit arazi şekillendirmesi (yükselti, plaj ve isteğe bağlı bitki örtüsü) ile adanın çevresindeki suya düşen bir gölge bulunmalıdır.
-Tekne, her iki adadan da gerçekten kaçınan bir rota izlemelidir (siluetlerinin içinden geçmemeli veya karayı kesmemelidir). Açıların birdenbire değiştirilmesi yerine yumuşak dönüşler yapmalıdır.
-Kamera, tekneyi hafif bir gecikmeyle takip etmelidir (yumuşatılmış kamera takibi). Böylece tepeden bakan, tekneye sabitlenmiş bir görünüm yerine dinamik bir takip hissi vermelidir.
-Adalardaki gölgelerle yön açısından tutarlı olacak şekilde, gökyüzünde bir renk geçişi (ör. gün batımı veya gündüz mavisi; seçimi modele bırakılmıştır) ve su üzerinde güneş ya da ışık yansıması bulunmalıdır.
-
-Teknik gereksinimler:
-
-Tek bir .html dosyası kullanılmalıdır. cdnjs üzerinden three.js kullanılabilir; başka harici varlık veya doku kullanılamaz. Su ve arazi, kod/shader içinde tamamen prosedürel olarak oluşturulmalıdır.
-Adaların çevresindeki rota önceden planlanmış bir yol (ör. adaların arasından geçen bir Bézier eğrisi) veya konuma tepki veren basit bir dümenleme sistemi olabilir; seçim modele bırakılmıştır, ancak karayla çarpışmaya izin verilmez.
-Animasyon en az 20 saniye boyunca akıcı biçimde çalışmalı; döngüsel veya sürekli olabilir. Tipik bir dizüstü bilgisayarda en az 30 FPS sunmalı, aşırı yüklemeyi önlemek için canvas çözünürlüğü pencere boyutuyla sınırlandırılmalı ve devicePixelRatio 1.5'i aşmamalıdır.
-
-Değerlendirmede öncelikle suyun, animasyonlu UV ofsetine sahip bir doku gibi değil, hareket hâlindeki akışkan bir madde gibi inandırıcı görünmesine; teknenin dalgalara gerçekten tepki vermesine ve adaların çevresindeki rotanın rastgele bir kıl payı geçişi yerine bilinçli bir navigasyon olarak algılanmasına bakılacaktır.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101616345720787130) · [Orijinal gönderi](https://www.aicontenders.dev/c/a_TRQpq3LoNVd-M7Xy2DHg) · [Örneklere dön](#all-prompts)
-
----
 
 <a id="2101687900723106104"></a>
 
@@ -3723,6 +3686,36 @@ Tek ve özenle hazırlanmış bir HTML dosyası teslim et.
 
 ---
 
+<a id="2113849897438834851"></a>
+
+### Windsock Field etkileşimli piksel sanatlı havaalanı
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-24
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/windsock-field-interactive-pixel-art-airfield"><img src="../assets/previews/d20625221a95dbe46cbc5200bf35b1a8b8568b8048e9e4a85de555f926048fe9.jpg" width="840" loading="lazy" alt="Windsock Field etkileşimli piksel sanatlı havaalanı"></a>
+
+Gönderi sahibi tarafından sağlanan, etkileşimli Three.js piksel sanatlı 3B havaalanı dioraması için kelimesi kelimesine bir istem. Simüle edilmiş bir pist, taksi yolu, uçak uçuş fiziği, yer operasyonları, hava durumu, gündüz/gece aydınlatması ve etkileşimli kamera ile trafik kontrollerini tanımlar. Ana gönderide, bunun Kimi K3.1 Pro ile ChatGPT-6 Astra karşılaştırmasında kullanılan istemin aynısı olduğu belirtiliyor; bağlantıdaki sonuç bir Kimi sayfası olarak sunuluyor.
+
+**İstem**
+
+```text
+"Windsock Field" adlı tek dosyalı bir HTML + three.js (r160, jsDelivr'dan import map) etkileşimli piksel sanatlı diorama oluşturun: yüzer, köşeleri yuvarlatılmış dikdörtgen bir ada üzerinde küçük bir havaalanı. Diorama, ortografik izometrik kamerayla yaklaşık 480×300 çözünürlüklü bir hedefe işlenmeli; texelFetch ile büyütülmeli; derinlik tabanlı konturlar, sabit 64 renkli palete OKLab niceleme, isteğe bağlı Bayer dithering ve MSAA kullanan bir "Raw 3D" geçişi içermelidir. Her şey kutulardan oluşturulmalı; harici varlık veya gerçek marka kullanılmamalıdır.
+Düzen: Ön taraftan geçen 09/27 pisti (kenar ışıkları, eşik çubukları, boyalı numaralar, merkez çizgisi, hedef noktaları, PAPI ve sıralı yaklaşma ışıkları), dört bağlantılı ve bekleme-kısa çizgili paralel tek şeritli bir taksi yolu, üç burun-öne park pozisyonlu (A1–A3) bir apron, cam ön cepheli ve kanopili bir terminal, döner tepe lambalı bir kontrol kulesi, kemerli bir hangar, yakıt çiftliği, helikopter pisti, küçük bir otopark, park pozisyonlarının arkasında bir servis şeridi, seyircilerin bulunduğu bir çit, ağaçlar ve rüzgârla savrulan, sakin havada aşağı sarkan zincirli bir rüzgâr tulumu.
+Uçaklar (keyframe değil, kendilerine ait fizik): itki eksi sürüklemeyle hava hızı, hız kaybettiren tırmanışlar, koordineli dönüşler (dönüş hızı = g·tanφ/v), hücum açısına dayalı yunuslama, Vr hızında yerde hızlanma/döndürme/kalkış, flare, olası sekmeyle teker koyma. Rüzgâr uçakları taşır; bu nedenle yan rüzgârda burunlarını rüzgâra kırar, ardından teker koyarken doğrulurlar. Son yaklaşmada hızlarına karşı rüzgârın yarısını eklerler.
+Sparrow (yüksek kanatlı eğitim uçağı): Rüzgâr üstü→Yan rüzgâr→Rüzgâr altı→Esas bacak→Son yaklaşma devresini uçar, 2–3 touch-and-go yapar, ardından tam duruşla iner.
+Kestrel (geri çekilebilir iniş takımlı hafif çift motorlu uçak): bagaj römorköründen 3 yolcu ve çantalarını alır, ekran dışına kalkar, tam duruş için geliş yapar, ardından yolcuları indirir.
+Bumblebee (çift kanatlı uçak): kalabalığın önünden geçişlerde iki loop ve bir tono içeren duman gösterisi yapar, ardından devreye katılıp iner.
+Rotor 5 (helikopter): platformdan havalanır, tutumunun ivmeyle yönlendirildiği bir tur uçar ve iner.
+Operasyonlar: pist kilidi; yalnızca son yaklaşmada hiçbir şey yoksa kalkış izni; kısa son yaklaşma kontrolü ve pist doluysa pas geçme; uzun flare veya kaçırılmış yaklaşmada pas geçme; tıklamayla alçak geçiş. Taksi yolu tek şeritlidir: her uçak, kat etmesi gereken taksi yolu bölümünün x aralığını rezerve eder ve gelişlere öncelik verilir; bekleme noktasında bekleyen uçak sabit engel sayılır. Uçaklar pisti önlerindeki ilk boş bağlantıdan terk eder. Rüzgâr modları: Batıdan / Doğudan / Değişken. Sürekli arka rüzgâr etkin pisti tersine çevirir: devreler yeniden katılır (asla doğrudan son yaklaşmaya girilmez) ve taksi yolundaki uçaklar eski bekleme noktalarına kadar devam eder, ardından yol açık olduğunda yeniden yönlendirilir. Uçaklar pist üzeri hariç hiçbir zaman 3 m'nin altına inmez. Watchdog: 90 saniye boyunca sıkışan uçak yolunu zorlayarak geçer.
+Yer yaşamı: işaretçi, elindeki ışıklı çubuklarla geliş uçaklarını park pozisyonuna yönlendirir; pilotlar ve yolcular terminal kapısına gidip gelir. Bir yakıt kamyonu her geliş uçağına yakıt ikmali yapar ve kanat ucundan 1.5 m uzakta park eder. Römorkör, bagaj arabalarını çift motorlu uçağa taşır. Her iki minibüs de tek yönlü bir döngüde ilerler (apronun ön kenarı boyunca batıya, park pozisyonları arasındaki boşluktan kuzeye, ardından servis şeridinden geri), herhangi bir kanat veya hareket hâlindeki uçağın üzerinden geçmek üzere olduğu şerit için durur ve zaten bir uçağın rotasındalarsa yollarına devam ederek uçağın kendilerini beklemesini sağlar. Uçaklar, kanat ucu açıklığını koruyarak minibüsleri engel kabul eder.
+Hava durumu ve zaman: Yağmur izler, ıslak kararma ve alçak noktalardan büyüyen, ikinci bir aynalanmış işleme geçişi gösteren su birikintileri ile tekerlek sıçraması ekler. Gündüz / Alacakaranlık / Gece, 1.6 s içinde birbirine geçer. Geceleyin: kenar ışıkları, etkin pistin yanında yeşil/kırmızı eşik çubukları, sıralı yaklaşma ışıkları, tepe lambası, seyrüsefer ışıkları ve stroboskoplar, projektörler, aydınlatılmış terminal ve kule kabini.
+Arayüz (açık ve koyu temalarda, İngilizce): kicker "Pixel diorama · Airfield", başlık ve kısa giriş. DEPARTURES / saat + durum kayan yazısı / ARRIVALS ile bir rüzgâr satırı ("WIND 270° 8 KT · RWY 27") içeren koyu bir skor tabelası. Sağ panel: Time & weather (Day/Dusk/Night, Dry/Rain, pist ıslaklık çubuğu), Wind (3 mod ve rüzgâr tulumu göstergesi), Traffic (her uçağın canlı durumu, "Send one up", Pause), piksel fontuyla kule/pilot çağrılarının yer aldığı bir Radio akışı (sabit yükseklik), View (sola/sağa dönme, Pixel art/Raw 3D, piksel boyutu, palet, dithering ve kontur geçişleri). Bir uçağı başlatmak veya alçak geçiş istemek için uçağa tıklayın; rüzgârı değiştirmek için rüzgâr tulumuna tıklayın; döndürmek için sürükleyin, yakınlaştırmak için kaydırın. Açılıp kapanabilen bir "How it's drawn" paneli. Mobilde: 16px iç boşluklu tek sütun ve sahnenin altında sağ panel.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/windsock-field-interactive-pixel-art-airfield) · [Orijinal gönderi](https://x.com/vib3coded/status/2113850194106167681) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu
@@ -4061,7 +4054,7 @@ jared adına atıf yapılan yeni bir jelly-villa istemi yayımlayın; özgün ya
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 361 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 362 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

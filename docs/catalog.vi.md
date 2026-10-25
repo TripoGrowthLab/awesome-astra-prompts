@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**361 · Prompt Astra mới nhất**
+**362 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Khám phá ví dụ</summary>
 
-- [Thuyền buồm trên vùng nước rộng](#2101616345720787130)
 - [Tạo mô hình 3D WALL-E bằng Three.js](#2101687900723106104)
 - [Verdant — hòn đảo khủng long 3D tương tác](#2101730386711634251)
 - [Website mô hình Mặt Trời 3D tương tác](#2102038136725377200)
@@ -145,6 +144,7 @@
 - [Mô hình 3D hình nộm tập luyện bằng rơm, sẵn sàng cho game](#2113321027325300784)
 - [Chalk Square: game bốn ô 3D phong cách pixel art](#2113602050172785117)
 - [THẾ GIỚI LƠ LỬNG — khu đảo 3D tương tác](#2113627142772899916)
+- [Sân bay pixel-art tương tác Windsock Field](#2113849897438834851)
 - [Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D](#red-light-green-light)
 - [Golden Miner: Game khai thác vàng 3D 24 cấp độ](#golden-miner)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
@@ -152,43 +152,6 @@
 - [Biệt thự Thạch rau câu](#jelly-villa)
 
 </details>
-
-<a id="2101616345720787130"></a>
-
-### Thuyền buồm trên vùng nước rộng
-
-[www.aicontenders.dev](https://www.aicontenders.dev/) · 2026-09-20
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101616345720787130"><img src="../assets/previews/b9826d35e819a5f5cf763b5a3ec4b43871311350a790ace0106802144975f0ef.jpg" width="840" loading="lazy" alt="Thuyền buồm trên vùng nước rộng"></a>
-
-Được đăng trên trang so sánh AIContenders được liên kết và chạy thử với GPT-6-astra cùng các mô hình khác. Bài thử yêu cầu một cảnh thuyền buồm 3D tương tác trong một tệp duy nhất, với mặt nước chuyển động tạo theo quy trình, hai hòn đảo, chuyển động của thuyền phản ứng theo sóng, lộ trình tránh đất liền và camera bám đuổi được làm mượt.
-
-**Prompt**
-
-```text
-Tạo một tệp HTML duy nhất với cảnh 3D hiển thị một chiếc thuyền buồm nhỏ di chuyển trên vùng nước rộng, có điều khiển lái trực tiếp và lộ trình đi vòng qua hai hòn đảo dễ nhìn thấy, tương tự các bản demo "trò chơi thuyền" trong những bài kiểm thử mô hình gần đây.
-
-Yêu cầu chức năng:
-
-Bề mặt nước được dựng bằng lưới sóng chuyển động (shader nước tạo theo quy trình, sóng chuyển động, phản xạ ánh sáng thay đổi theo góc nhìn và vệt nước phía sau thuyền), không dùng kết cấu phẳng, tĩnh.
-Mô hình thuyền buồm được dựng từ các hình khối đơn giản (thân thuyền, cột buồm, cánh buồm căng theo chiều gió), có chuyển động nhấp nhô và nghiêng nhẹ trên sóng, đồng bộ với chuyển động của mặt nước bên dưới.
-Hai hòn đảo riêng biệt được đặt ở các vị trí khác nhau trong cảnh; mỗi đảo có địa hình tạo hình đơn giản (đồi cao, bãi biển, có thể thêm thảm thực vật) và đổ bóng lên vùng nước xung quanh.
-Thuyền phải đi theo một tuyến đường thực sự tránh được cả hai hòn đảo (không bao giờ cắt qua đường bao hoặc băng qua phần đất), chuyển hướng mượt mà thay vì nhảy đột ngột giữa các góc.
-Camera bám theo thuyền với độ trễ nhẹ (camera bám đuổi được làm mượt), tạo cảm giác rượt đuổi năng động thay vì góc nhìn từ trên xuống gắn cứng với thuyền.
-Bầu trời chuyển sắc (chẳng hạn hoàng hôn hoặc xanh ban ngày, tùy mô hình lựa chọn) với ánh nắng hoặc phản xạ ánh sáng trên mặt nước, có hướng nhất quán với bóng đổ trên các hòn đảo.
-
-Yêu cầu kỹ thuật:
-
-Một tệp .html duy nhất; được phép dùng three.js từ cdnjs, không dùng tài nguyên hoặc kết cấu bên ngoài khác; toàn bộ mặt nước và địa hình phải được tạo theo quy trình bằng mã hoặc shader.
-Lộ trình vòng qua các hòn đảo có thể là đường đi được lên kế hoạch trước (chẳng hạn đường cong Bezier luồn giữa hai đảo) hoặc cơ chế lái đơn giản phản ứng theo vị trí, tùy mô hình lựa chọn, nhưng không được va chạm với đất liền.
-Hoạt ảnh phải chạy mượt trong ít nhất 20 giây, theo vòng lặp hoặc liên tục, đạt tối thiểu 30fps trên một máy tính xách tay thông thường; độ phân giải canvas bị giới hạn ở kích thước cửa sổ và devicePixelRatio không được cao hơn 1.5 để tránh làm quá tải màn hình hiDPI.
-
-Tiêu chí đánh giá chính là mặt nước có tạo cảm giác thuyết phục như chất lỏng đang chuyển động hay không (không chỉ là kết cấu với offset UV động), thuyền có thực sự phản ứng theo sóng hay không và lộ trình vòng qua các hòn đảo có thể hiện sự định hướng có chủ đích thay vì suýt va vào một cách ngẫu nhiên hay không.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101616345720787130) · [Bài đăng gốc](https://www.aicontenders.dev/c/a_TRQpq3LoNVd-M7Xy2DHg) · [Về danh sách ví dụ](#all-prompts)
-
----
 
 <a id="2101687900723106104"></a>
 
@@ -3733,6 +3696,36 @@ Xuất ra một tệp HTML duy nhất, hoàn thiện và chỉn chu.
 
 ---
 
+<a id="2113849897438834851"></a>
+
+### Sân bay pixel-art tương tác Windsock Field
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-24
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/windsock-field-interactive-pixel-art-airfield"><img src="../assets/previews/d20625221a95dbe46cbc5200bf35b1a8b8568b8048e9e4a85de555f926048fe9.jpg" width="840" loading="lazy" alt="Sân bay pixel-art tương tác Windsock Field"></a>
+
+Một prompt nguyên văn do tác giả bài đăng cung cấp cho mô hình diorama sân bay 3D pixel-art tương tác bằng Three.js. Prompt mô tả đường băng mô phỏng, đường lăn, vật lý bay của máy bay, hoạt động mặt đất, thời tiết, ánh sáng ngày/đêm cùng các điều khiển camera và giao thông tương tác. Bài đăng gốc cho biết đây là cùng một prompt được dùng trong màn so sánh Kimi K3.1 Pro với ChatGPT-6 Astra; kết quả được liên kết là một trang Kimi.
+
+**Prompt**
+
+```text
+Xây dựng một diorama sân bay pixel-art tương tác trong một tệp HTML + three.js duy nhất (r160, import map từ jsDelivr) có tên "Windsock Field": một sân bay nhỏ trên hòn đảo hình chữ nhật bo tròn lơ lửng, được render từ camera phối cảnh trực giao isometric vào vùng đích độ phân giải thấp (~480×300), phóng lớn bằng texelFetch, với đường viền dựa trên độ sâu, lượng tử hóa OKLab về bảng màu cố định 64 màu, Bayer dither tùy chọn và nút chuyển "Raw 3D" có MSAA. Mọi thứ đều được dựng từ các khối hộp; không dùng asset bên ngoài và không dùng thương hiệu có thật.
+Bố cục: đường băng 09/27 chạy ngang phía trước (đèn biên, vạch đầu đường băng, số sơn, vạch tim, điểm ngắm, PAPI, đèn tiếp cận chạy), một đường lăn một làn song song với bốn nhánh nối và vạch dừng chờ, sân đỗ với ba vị trí đỗ đầu vào trước (A1–A3), nhà ga có mặt tiền kính và mái che, tháp kiểm soát có đèn hiệu xoay, nhà chứa máy bay mái vòm, khu bồn nhiên liệu, bãi đáp trực thăng, bãi đỗ xe nhỏ, làn đường dịch vụ phía sau các vị trí đỗ, hàng rào có khán giả, cây cối và một ống gió có xích, bung theo gió và rũ xuống khi trời lặng.
+Máy bay (dùng vật lý riêng, không dùng keyframe): tốc độ bay được tính từ lực đẩy trừ lực cản, tăng độ cao làm giảm tốc độ, vào cua phối hợp (tốc độ quay = g·tanφ/v), góc ngẩng dựa trên AoA, chạy đà/cất mũi/rời mặt đất tại Vr, ngóc mũi khi hạ cánh và tiếp đất có thể nảy. Gió cuốn máy bay, vì vậy khi có gió ngang chúng bay chệch hướng rồi chỉnh thẳng lúc tiếp đất; ở chặng cuối, chúng cộng một nửa tốc độ gió ngược vào tốc độ bay.
+Sparrow (máy bay huấn luyện cánh cao): bay theo vòng chờ Upwind→Crosswind→Downwind→Base→Final, thực hiện 2–3 lần touch-and-go rồi dừng hẳn.
+Kestrel (máy bay hai động cơ hạng nhẹ, càng thu vào được): đón 3 hành khách cùng hành lý từ xe kéo hành lý, cất cánh ra ngoài màn hình, quay lại theo hướng đến để dừng hẳn rồi dỡ hành khách và hành lý.
+Bumblebee (máy bay hai tầng cánh): trình diễn khói với hai vòng lượn và một cú lăn khi bay ngang trước đám đông, sau đó nhập lại vòng bay và hạ cánh.
+Rotor 5 (trực thăng): cất lên từ bãi đáp, bay một vòng với tư thế điều khiển theo gia tốc rồi hạ cánh.
+Vận hành: khóa đường băng; chỉ cho phép cất cánh khi không có máy bay nào đang vào chặng cuối; kiểm tra ở chặng cuối ngắn và bay vòng lại nếu đường băng đang bị chiếm; bay vòng lại khi ngóc mũi quá lâu hoặc tiếp cận hụt; bay ngang thấp khi nhấp chuột. Đường lăn chỉ có một làn: mỗi máy bay giữ trước phần chiều dài theo trục x của đường lăn mà nó vẫn cần đi qua, và máy bay đến được ưu tiên; máy bay chờ tại điểm chờ được tính là chướng ngại vật cố định. Máy bay rời đường băng tại nhánh nối trống đầu tiên phía trước. Chế độ gió: From west / From east / Shifting. Gió xuôi duy trì sẽ đảo đường băng đang hoạt động: các vòng bay nhập lại (không bao giờ bay thẳng vào chặng cuối), còn máy bay đã ở trên đường lăn sẽ đi tiếp đến điểm chờ cũ, rồi đổi tuyến khi thông thoáng. Máy bay không bao giờ bay thấp hơn 3 m, trừ khi ở phía trên đường băng. Watchdog: máy bay bị kẹt trong 90 giây sẽ luồn qua.
+Hoạt động mặt đất: nhân viên điều phối cầm gậy phát tín hiệu hướng dẫn máy bay đến vào vị trí đỗ; phi công và hành khách đi bộ đến và rời cửa nhà ga. Xe tiếp nhiên liệu nạp nhiên liệu cho từng máy bay đến, đỗ cách đầu mút cánh 1,5 m. Xe kéo chở các xe đẩy hành lý đến máy bay hai động cơ. Cả hai xe van đều chạy theo vòng một chiều (hướng tây dọc mép trước sân đỗ, hướng bắc qua khoảng trống giữa các vị trí đỗ, rồi quay lại theo làn đường dịch vụ), dừng lại trước mọi cánh máy bay hoặc phần đường mà máy bay đang di chuyển sắp quét qua, và tiếp tục đi nếu chúng đã ở trong đường bay của máy bay để máy bay chờ. Máy bay xem xe van là chướng ngại vật và giữ khoảng hở đầu mút cánh.
+Thời tiết và thời gian: mưa tạo các vệt nước, vùng tối ướt và vũng nước lớn dần từ các điểm trũng, hiển thị thêm một lượt render phản chiếu cùng tia nước bắn từ bánh. Chuyển đổi Day / Dusk / Night trong 1,6 giây; ban đêm có đèn biên, vạch đầu đường băng xanh/đỏ bên đường băng đang hoạt động, đèn tiếp cận tuần tự, đèn hiệu, đèn dẫn đường và đèn chớp, đèn pha, nhà ga và cabin tháp được chiếu sáng.
+UI (tiếng Anh, giao diện sáng và tối): dòng dẫn "Pixel diorama · Airfield", tiêu đề, phần giới thiệu ngắn. Bảng thông tin nền tối với DEPARTURES / đồng hồ + dòng trạng thái chạy / ARRIVALS và dòng gió ("WIND 270° 8 KT · RWY 27"). Thanh bên phải: Time & weather (Day/Dusk/Night, Dry/Rain, thanh độ ướt đường băng), Wind (3 chế độ cùng thông tin ống gió), Traffic (trạng thái trực tiếp của từng máy bay, "Send one up", Pause), nguồn Radio gồm các cuộc gọi giữa đài kiểm soát và phi công bằng font pixel (chiều cao cố định), View (xoay trái/phải, Pixel art/Raw 3D, kích thước pixel, các nút bật/tắt palette, dither và đường viền). Nhấp vào máy bay để khởi động hoặc yêu cầu bay ngang thấp, nhấp vào ống gió để đổi hướng gió, kéo để xoay, cuộn để thu phóng. Một bảng "How it's drawn" có thể thu gọn. Trên thiết bị di động: bố cục một cột với lề trong 16px và thanh bên nằm dưới cảnh.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/windsock-field-interactive-pixel-art-airfield) · [Bài đăng gốc](https://x.com/vib3coded/status/2113850194106167681) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D
@@ -4071,7 +4064,7 @@ Xuất bản prompt jelly-villa mới, ghi công jared, ghi tác giả gốc tro
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 361 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 362 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>
