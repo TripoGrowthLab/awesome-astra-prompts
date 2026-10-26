@@ -28,7 +28,7 @@
 **Un point de départ pour votre prochain jeu, scène ou monde interactif.**
 
 
-**362 · Derniers prompts Astra**
+**370 · Derniers prompts Astra**
 
 ## Projets à découvrir
 
@@ -50,14 +50,6 @@
 <details>
 <summary>Parcourir les exemples</summary>
 
-- [Créer un modèle 3D de WALL-E avec Three.js](#2101687900723106104)
-- [Verdant — île aux dinosaures 3D interactive](#2101730386711634251)
-- [Site web interactif présentant un modèle 3D du Soleil](#2102038136725377200)
-- [Jeu de course procédural dans le navigateur — Spline Rush](#2102150615635816866)
-- [Présentation interactive de conception d’un hélicoptère en 3D](#2102215638311694336)
-- [Scène 3D et vidéo de la Tokyo Tower, de jour comme de nuit](#2102276620124062065)
-- [Bubble Bay : bataille de ballons d’eau en 3D](#2102300855387205871)
-- [Jeu de tower defense dans le style de Sir, We Have Orc Problems](#2102411087002112256)
 - [Maison pavillonnaire à deux étages avec intérieur](#2102473710724919614)
 - [Jeu de course de karts en 3D dans un seul fichier HTML](#2102652927177617564)
 - [Animation médiévale de château dans le navigateur](#2102672926285713456)
@@ -144,7 +136,15 @@
 - [Modèle 3D de mannequin d’entraînement en paille prêt pour le jeu](#2113321027325300784)
 - [Chalk Square : jeu de carré à quatre cases en 3D pixel art](#2113602050172785117)
 - [MONDE FLOTTANT — sanctuaire insulaire 3D interactif](#2113627142772899916)
+- [Jeu Minecraft dans le navigateur avec un portail de l’End fonctionnel](#2113722581610033330)
 - [Windsock Field, aérodrome interactif en pixel art](#2113849897438834851)
+- [Scène 3D procédurale complexe avec Three.js](#2113900384695755129)
+- [Peluche de pingouin duveteux interactive et procédurale](#2113978820302708888)
+- [Château de conte de fées inspiré de Disney sur une île rocheuse](#2114049877189480835)
+- [Navire de guerre grec antique cinématographique dans Blender](#2114056027641413870)
+- [Modèle cinématographique du cheval de Troie dans Blender](#2114060132610957601)
+- [Construire la tour Eiffel](#2114080244046954999)
+- [Train à vapeur 3D patiné et détaillé](#2114092197595201850)
 - [1, 2, 3, soleil : jeu de survie en 3D](#red-light-green-light)
 - [Golden Miner : jeu de minage 3D en 24 niveaux](#golden-miner)
 - [Crazy Tanks — Artillerie insulaire en 3D](#crazy-tanks-3d-island-artillery)
@@ -152,328 +152,6 @@
 - [Villa en gelée](#jelly-villa)
 
 </details>
-
-<a id="2101687900723106104"></a>
-
-### Créer un modèle 3D de WALL-E avec Three.js
-
-[Marcel](https://x.com/marcthecreatorr) · 2026-09-20
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2101687900723106104"><img src="../assets/previews/3da23ad1ccf5ae36bd70d1beacc24122d0df39a01d7bea2b9b06145fe1e6098c.jpg" width="840" loading="lazy" alt="Créer un modèle 3D de WALL-E avec Three.js"></a>
-
-Prompt partagé par Marcel : exactement le même que celui fourni à Astra pour demander la création d’un modèle 3D de WALL-E avec Three.js.
-
-**Prompt**
-
-```text
-crée un modèle 3D de WALL-E avec Three.js.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2101687900723106104) · [Publication originale](https://x.com/marcthecreatorr/status/2101687900723106104) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2101730386711634251"></a>
-
-### Verdant — île aux dinosaures 3D interactive
-
-[vib3coded](https://x.com/vib3coded) · 2026-09-20
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/interactive-3d-dinosaur-island-diorama"><img src="../assets/previews/44c9844d75b0423e97757b9c59d7a87fe5794dfa55ced35efc7aaa0d9e5e24d0.jpg" width="840" loading="lazy" alt="Verdant — île aux dinosaures 3D interactive"></a>
-
-Une demande reproduite mot pour mot par @vib3coded pour Verdant, un diorama insulaire 3D interactif créé avec Three.js et WebGL. Elle décrit des dinosaures en liberté, une cascade et un lagon en coupe, des déplacements de caméra sous l’eau, des interactions pour nourrir les animaux et faire éclore des œufs, des commandes environnementales, de la pluie et de la musique, le tout livré dans un seul fichier HTML prêt à être exécuté dans le navigateur.
-
-**Prompt**
-
-```text
-créez Verdant — un diorama 3D interactif conçu avec Three.js et WebGL
-
-Une île luxuriante peuplée de dinosaures en liberté, avec une cascade et un lagon en coupe abritant un reptile marin. Nourrissez le troupeau, faites éclore un bébé dinosaure et faites passer la caméra sous l’eau
-
-Réglez la marée, le vent et l’heure de la journée, ou faites tomber une pluie tropicale tandis qu’une musique relaxante est diffusée
-
-Tout s’exécute directement dans le navigateur, au sein d’un seul fichier HTML
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/interactive-3d-dinosaur-island-diorama) · [Publication originale](https://x.com/vib3coded/status/2101570806702559235) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2102038136725377200"></a>
-
-### Site web interactif présentant un modèle 3D du Soleil
-
-[HIX.AI](https://x.com/HIX_AI_) · 2026-09-21
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2102038136725377200"><img src="../assets/previews/de0fe503b12a175ee365dbc43ba69d749366f428e25340c1eab2d624bdca1e91.jpg" width="840" loading="lazy" alt="Site web interactif présentant un modèle 3D du Soleil"></a>
-
-Créez un site web interactif avec Three.js, centré sur un modèle 3D réaliste du Soleil réalisé à l’aide d’un script Python pour Blender. Le site doit permettre de faire pivoter le Soleil, de se déplacer autour de lui et d’effectuer un zoom avant ou arrière. Il doit inclure un arrière-plan cosmique, des informations sur le système solaire ainsi qu’une vue anatomique interactive présentant les différentes couches du Soleil avec leurs libellés et leurs descriptions.
-
-**Prompt**
-
-```text
-Je souhaite créer un site web interactif présentant un modèle 3D du Soleil avec Three.js.
-
-Commencez par écrire un script Python exécutable directement dans Blender afin de créer un modèle 3D très réaliste du Soleil. Le modèle doit s’appuyer sur les caractéristiques physiques et visuelles réelles du Soleil, notamment sa forme sphérique, la texture de sa surface, sa couleur, son apparence semblable à du plasma, sa granulation solaire et son atmosphère lumineuse. Il ne doit pas ressembler à une simple sphère orange. Utilisez des matériaux, des shaders, des textures et des effets d’éclairage adaptés pour obtenir un rendu solaire réaliste.
-
-Écrivez ensuite le code complet du site web avec Three.js. Le Soleil doit occuper environ 80 % de la zone visuelle principale. Les utilisateurs doivent pouvoir le faire pivoter, déplacer la vue et effectuer un zoom avant ou arrière. La scène doit intégrer un éclairage réaliste et des effets lumineux afin de donner au Soleil une apparence dynamique et tridimensionnelle.
-
-Ajoutez un bouton de zoom avant permettant aux utilisateurs de se rapprocher du Soleil et d’observer les détails de sa surface.
-
-Le site web doit également présenter des informations documentées sur le Soleil et son rôle dans le système solaire. L’arrière-plan général doit représenter un environnement cosmique réaliste, de type galaxie ou espace.
-
-Ajoutez aussi un bouton qui ouvre une vue anatomique interne et interactive du Soleil. Cette vue doit présenter ses principales couches, notamment le noyau, la zone radiative, la zone convective, la photosphère, la chromosphère et la couronne. Chaque couche doit être accompagnée d’un libellé et d’une courte description. Idéalement, les utilisateurs doivent pouvoir interagir avec le schéma et sélectionner différentes couches pour afficher les informations correspondantes.
-
-Faites en sorte que le site soit visuellement impressionnant, scientifiquement instructif et entièrement interactif, avec une interface moderne sur le thème de l’espace.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2102038136725377200) · [Publication originale](https://x.com/HIX_AI_/status/2102038474752766239) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2102150615635816866"></a>
-
-### Jeu de course procédural dans le navigateur — Spline Rush
-
-[Maharajahu🪢](https://x.com/ToolBraidComp) · 2026-09-21
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2102150615635816866"><img src="../assets/previews/d06a545cb63d57f45d07a82b67de67e069fe38327d2f9d70f455bcaace9dc623.jpg" width="840" loading="lazy" alt="Jeu de course procédural dans le navigateur — Spline Rush"></a>
-
-Prompt fourni mot pour mot dans le commentaire vérifié de l’auteur racine pour créer Spline Rush, un jeu de course procédural dans le navigateur avec Three.js, des circuits, des adversaires contrôlés par l’IA, une physique, des préréglages graphiques et une bande-son synthétisée.
-
-**Prompt**
-
-```text
-Créez un jeu de course complet dans le navigateur, de qualité production, appelé Spline Rush, en utilisant la dernière version de Three.js (WebGPURenderer + TSL dans la mesure du possible). 100 % procédural : aucun modèle, aucune texture, aucun fichier audio ni aucune police externe. Tout doit être généré par le code à l’exécution.
-
-JEU PRINCIPAL
-- 6 circuits uniques avec dénivelés, dévers, tunnels, épingles, virages nommés et biomes distincts (côte en journée, montagne au crépuscule, désert au coucher du soleil, forêt sous la pluie, ville nocturne au néon, ovale à grande vitesse).
-- Mode Championnat (qualifications + 3 courses), Contre-la-montre avec fantômes, Course rapide.
-- 8 adversaires contrôlés par l’IA avec leur propre personnalité, trajectoire idéale, points de freinage, dépassements et défense.
-- Records du meilleur tour, temps par secteur, fil d’événements en direct, caméra de replay.
-- Garage : 5 voitures paramétriques avec peinture vernie + paillettes métalliques, jeux entre les panneaux, feux fonctionnels, suspension animée et états de dégâts.
-
-OBJECTIF GRAPHIQUE (Ultra, à la hauteur d’une RTX 5090 en 4K)
-Moteur de rendu : THREE.WebGPURenderer. Pipeline à rendu physiquement réaliste.
-Éclairage :
-- Ciel physique Rayleigh/Mie + champ d’étoiles + lune + soleil dynamique pilotant un cycle jour/nuit complet.
-- Cartes d’ombres en cascade (4 cascades, alignement stable des texels, haute résolution).
-- IBL via PMREM mis à jour selon l’heure de la journée.
-- Brouillard volumétrique + rayons crépusculaires + miroitement de chaleur.
-Matériaux :
-- MeshPhysicalMaterial / nœuds TSL : vernis, anisotropie, transmission sur le verre, peinture à paillettes métalliques, shader de chaussée mouillée réagissant à la pluie.
-Chaîne de post-traitement (RenderPipeline / TSL ou bibliothèque de post-traitement) :
-GTAO ou SSAO haute qualité → SSR → bloom (Karis) → flou de mouvement (vélocité) → profondeur de champ → rayons crépusculaires → exposition automatique → étalonnage des couleurs + grain de film + vignettage → SMAA ou TAA.
-Effets :
-- Pools de particules GPU : fumée des pneus, étincelles, poussière, projections de pluie, herbe/gravier projetés, distorsion thermique.
-- Traces de dérapage persistantes qui s’estompent.
-- Mouillage dynamique et reflets dans les flaques lorsqu’il pleut.
-
-PHYSIQUE ET SENSATIONS
-- Simulation à pas fixe de 120 Hz.
-- Suspension par lancer de rayons ou jambes de force, transfert de charge, pneus à glissement combiné, ABS/TC, types de surface (asphalte, vibreur, herbe, gravier, mouillée).
-- Caméra : poursuite cinématique + vue capot + vue embarquée avec mouvements et secousses en cas de collision.
-
-AUDIO
-- Web Audio entièrement synthétisé : moteur multicouche selon le régime/la charge, vent, crissement des pneus, grondement sur les vibreurs, foule, musique dynamique.
-
-SYSTÈME DE QUALITÉ
-- Préréglages : Bas / Moyen / Élevé / Ultra.
-- Ultra suppose un GPU de classe RTX 5090 : 4K, cartes d’ombres haute résolution, nombre maximal de particules, tous les effets de post-traitement activés, aucun LOD agressif.
-- Qualité adaptative pouvant désactiver certains effets si le temps d’image dépasse la cible.
-
-Commencez par une première version jouable (un circuit, une voiture, éclairage de base), puis faites évoluer le projet fonctionnalité par fonctionnalité, exactement comme demandé. Regroupez tout dans un projet HTML/JS unique et propre (ou Vite) qui s’exécute en local. Commentez les principaux systèmes. Donnez-lui une apparence haut de gamme, pas mignonne.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2102150615635816866) · [Publication originale](https://x.com/ToolBraidComp/status/2102150671340327384) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2102215638311694336"></a>
-
-### Présentation interactive de conception d’un hélicoptère en 3D
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-22
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2102215638311694336"><img src="../assets/previews/ca6e4dd6e911366689e5fe5542844b65935013f3b7e2feb51f9d9d1316956c65.jpg" width="840" loading="lazy" alt="Présentation interactive de conception d’un hélicoptère en 3D"></a>
-
-L’auteur a partagé ce prompt dans un commentaire sur sa comparaison entre Grok 4.7 et ChatGPT-6 Astra. Il demande une présentation interactive d’un hélicoptère en 3D, accessible dans un navigateur, avec une géométrie procédurale, des caractéristiques aéronautiques détaillées, des livrées sélectionnables, des commandes de rotor, un mode vol stationnaire, des contrôles de caméra et une interface Three.js/WebGL adaptative.
-
-**Prompt**
-
-```text
-Créez une scène 3D interactive et détaillée représentant un hélicoptère moderne dans un fichier HTML unique, à l’aide de Three.js et WebGL. Construisez une véritable géométrie 3D visible sous tous les angles, et non une image.
-
-Style visuel :
-Une présentation haut de gamme de design aéronautique, avec un arrière-plan de studio gris clair, une plateforme circulaire d’exposition, des ombres douces et des reflets réalistes.
-Hélicoptère :
-
-Un fuselage lisse et profilé, inspiré des hélicoptères légers bimoteurs tels que le H145.
-Un corps blanc avec un dessous bleu marine foncé et une bande décorative bleue.
-Des vitres de cockpit incurvées et teintées, avec des reflets et des joints soigneusement ajustés.
-Des portes latérales, poignées, joints de panneaux, rivets, marchepieds d’accès et antennes.
-Deux carénages de moteur avec prises d’air, grilles de ventilation et sorties d’échappement.
-Un rotor principal à cinq pales, avec un moyeu détaillé, des éléments de fixation et des biellettes de commande du pas.
-Une poutre de queue effilée, des stabilisateurs et un rotor anticouple caréné, avec une véritable ouverture dans son carénage.
-Des patins d’atterrissage incurvés, fixés au fuselage par des supports structurels.
-Des feux de navigation et un feu anticollision clignotant.
-Tous les composants doivent être reliés physiquement. Évitez les pièces flottantes, les espaces entre les sections, les pales de rotor qui traversent le fuselage ou les vitres suspendues au-dessus du corps.
-
-Interactions :
-
-Faites glisser la souris pour faire pivoter la vue, utilisez la molette pour zoomer et prévoyez des commandes tactiles.
-Démarrez et arrêtez les deux rotors avec une accélération et une décélération progressives.
-Vitesse des rotors réglable.
-Mode vol stationnaire : faites décoller doucement l’hélicoptère de la plateforme, faites-le osciller légèrement dans les airs, puis atterrir en douceur lorsque le mode est désactivé.
-Rotation automatique de la caméra.
-Préréglages de caméra avant, latéral et arrière.
-Commandes de réinitialisation de la caméra et de plein écran.
-Trois livrées : bleu glacier et blanc, orange de secours et graphite.
-Interface :
-
-En haut à gauche : une petite mention « AERONAUT / OBJECT STUDIES » et un grand titre « Horizon 05. ».
-À droite : un panneau compact contenant les spécifications, l’état de l’hélicoptère, la sélection de la livrée et la vitesse des rotors.
-En bas : les commandes et les indications d’interaction.
-Une typographie sobre, des bordures fines et beaucoup d’espace blanc. Gardez l’hélicoptère entièrement dégagé.
-Tous les textes de l’interface doivent être en anglais.
-Exigences techniques :
-
-Générez la géométrie de manière procédurale, sans télécharger de modèle d’hélicoptère prédéfini.
-Utilisez des matériaux PBR, un environnement de réflexion de studio et des ombres douces.
-Rendez l’animation indépendante de la fréquence d’images.
-Réutilisez la géométrie et les matériaux lorsque c’est pertinent, et plafonnez le ratio de pixels pour préserver les performances.
-Prenez en charge les mises en page pour ordinateur et mobile, en gardant toute l’envergure du rotor visible dans la vue initiale.
-Si possible, intégrez les dépendances dans le fichier HTML afin qu’il fonctionne hors ligne.
-Affichez un message de remplacement explicite si WebGL n’est pas disponible.
-Avant de terminer, inspectez le modèle sous tous les angles, testez chaque commande et vérifiez l’absence d’erreurs dans la console. Portez une attention particulière à la silhouette, aux connexions structurelles, au vitrage et aux mécanismes des rotors.
-
-Livrez le fichier HTML fonctionnel, et pas seulement une explication.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2102215638311694336) · [Publication originale](https://x.com/vib3coded/status/2102217028052377910) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2102276620124062065"></a>
-
-### Scène 3D et vidéo de la Tokyo Tower, de jour comme de nuit
-
-[Wafffle](https://x.com/wafffle_dev) · 2026-09-22
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2102276620124062065"><img src="../assets/previews/0491077ba77b62062c9bce879cb6c8f5a86f317c8d03acbb9792b8c6ed3c9c67.jpg" width="840" loading="lazy" alt="Scène 3D et vidéo de la Tokyo Tower, de jour comme de nuit"></a>
-
-Consigne pour créer une scène en 3D représentant fidèlement la structure de la Tokyo Tower et l’atmosphère de ses environs, avec des versions de jour et de nuit. La livraison doit comprendre des données Blender modifiables, un fichier MP4 d’environ 30 secondes destiné à une publication sur X, des images de vérification et un README. L’auteur partage cette consigne comme prompt à utiliser avec Astra.
-
-**Prompt**
-
-```text
-Créez une œuvre 3D spectaculaire centrée sur la Tokyo Tower, ainsi qu’une vidéo d’environ 30 secondes destinée à une publication sur X.
-
-Vous êtes directeur de production. Créez les sous-tâches nécessaires et confiez les recherches et la réalisation. Prenez en charge la précision du brief, le suivi de l’avancement, la vérification des livrables, les demandes de correction et la compilation finale.
-
-【Éléments à créer】
-Représentez la Tokyo Tower en donnant une idée de sa hauteur vue depuis le sol et de la finesse de sa charpente métallique lorsqu’on s’en approche.
-Préparez une version de jour et une version de nuit : le jour doit mettre en valeur la structure et la peinture, tandis que la nuit doit révéler la beauté de l’éclairage de la tour.
-
-L’objectif est de créer une œuvre qui donne le sentiment que la Tokyo Tower a été étudiée avec attention. Ne vous limitez pas à la silhouette de la tour : étudiez et reproduisez ses détails caractéristiques, notamment l’écartement des pieds, l’assemblage de la charpente métallique, les observatoires et les bâtiments au pied de la tour. Pour les environs urbains, vous pouvez vous limiter à ce qui permet de comprendre l’échelle de la tour et l’atmosphère du lieu.
-
-【Méthode de production】
-・Étudiez les documents et photographies officiels, puis définissez les caractéristiques à reproduire et leur ordre de priorité.
-・À partir de cette recherche, donnez à chaque sous-tâche des consignes de réalisation concrètes.
-・Vérifiez rapidement un premier aperçu 3D réel afin d’ajuster la forme, la composition et la luminosité.
-・Le responsable principal doit examiner lui-même les images et la vidéo finales, repérer les incohérences ou les éléments manquants et demander les corrections nécessaires.
-・Prenez de manière autonome les décisions techniques détaillées et la mise en scène, puis poursuivez jusqu’à la finalisation.
-
-Ne remplacez pas la scène par un simple arrière-plan composé de photographies ou d’images générées : exprimez-la à l’aide de véritables formes 3D et de mouvements de caméra. Consignez les faits vérifiés ainsi que les éléments estimés en raison de l’insuffisance des sources.
-
-【Vidéo】
-Environ 30 secondes. Combinez une vue en contre-plongée depuis le sol, des gros plans de la charpente métallique et des observatoires, ainsi qu’un plan large permettant de comprendre la tour dans son ensemble, en montrant également la transition du jour à la nuit.
-Pour le découpage précis, observez le modèle terminé et choisissez la structure qui le met le mieux en valeur.
-
-【Livrables】
-・Données Blender modifiables
-・Vidéo MP4 destinée à une publication sur X
-・Images de vérification de la vue d’ensemble et des détails, de jour comme de nuit
-・Proposition de texte court pour la publication
-・README indiquant les sources des ressources, l’étendue de la reproduction et les résultats de la vérification
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2102276620124062065) · [Publication originale](https://x.com/wafffle_dev/status/2102276620124062065) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2102300855387205871"></a>
-
-### Bubble Bay : bataille de ballons d’eau en 3D
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-22
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/bubble-bay"><img src="../assets/previews/a6388a44fe0643ef6046fd81612e8f646c9405ef5f34c9d7957ab5acf195687f.png" width="840" loading="lazy" alt="Bubble Bay : bataille de ballons d’eau en 3D"></a>
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/bubble-bay"><img src="../assets/previews/c17ac835ad48457b99d51bd3e9981ddf79d0509864c962b18600ed005f54b2ee.png" width="840" loading="lazy" alt="Bubble Bay : bataille de ballons d’eau en 3D"></a>
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/bubble-bay"><img src="../assets/previews/f008177cfe2af1b56ab3025f094b3a7232c58b4155b98cbb70e9a52c02df48ee.png" width="840" loading="lazy" alt="Bubble Bay : bataille de ballons d’eau en 3D"></a>
-
-Créez un affrontement en 3D de ballons d’eau avec les personnages costumés originaux Langya, Shantao et Tuanli, des modèles P2 animés, les arènes Pirate14 et Village10, des caméras de suivi rapproché et de vue d’ensemble avec zoom, des adversaires contrôlés par l’IA, des matchs en six captures, l’importation de personnages personnalisés et une musique originale créée avec ElevenLabs.
-
-**Prompt**
-
-```text
-Créez Bubble Bay, une arène jouable de ballons d’eau en Three.js, avec le style familier des jeux de bulles classiques : des personnages costumés à grosse tête, au corps court et au visage visible. Utilisez par défaut des modèles Tripo détaillés, avec un interrupteur Three.js clairement visible permettant de comparer les géométries tout en conservant le match en cours. Utilisez trois nouveaux personnages : Langya, Shantao et Tuanli. Suivez les références fournies des concepts et modèles de ces personnages, en préservant leurs silhouettes, leurs visages, leurs couleurs et leurs tenues.
-
- Langya est un garçon humain plein d’énergie, portant une capuche turquoise avec une seule crête ondulée orientée sur le côté, un col et des poignets orange, un short bleu marine et des chaussures turquoise à semelles orange. Shantao est une petite fille humaine avec un carré couleur prune foncé, un bonnet pêche rosé orné de trois courts pétales de chaque côté, une veste menthe, une salopette courte prune et des bottes jaune pâle. Tuanli est un garçon humain potelé, au corps large en forme de poire, portant un bonnet rond rembourré couleur caramel avec un bord de visage crème, une veste courte bleu sarcelle, le bas du ventre crème et des bottes bleu marine. Tous ont un visage d’enfant aux tons de peau chauds, de simples yeux ovales foncés et de petits sourires. Ce sont des enfants portant des costumes nouvellement conçus : ne les transformez pas en créatures aquatiques littérales et ne réutilisez pas les tenues reconnaissables des personnages précédents. Générez chaque personnage séparément avec Tripo CLI en utilisant explicitement tripo-p2 et des images indépendantes de face et de dos, puis appliquez-leur des squelettes bipèdes et des skins valides. Les animations d’attente, de course et de saut doivent piloter de véritables articulations ; inspectez les mouvements, corrigez la pondération de la coiffe, des chaussures et du corps, et conservez une provenance exacte. Si les mouvements sont créés localement, indiquez-le.
-
- Noms localisés : 浪芽 / 랑야 / Langya, 珊桃 / 산타오 / Shantao, 团栗 / 퇀리 / Tuanli. Niveaux initiaux de capacité/portée/vitesse : 1/1/6, 1/2/5, 2/1/4 ; plafonds : 6/7/9, 6/7/8, 9/8/8. Convertissez la vitesse en 0,25 + niveau*0,8 unité de monde par seconde ; les cases mesurent 2 unités. Le choix d’un personnage désigne les deux autres comme des adversaires distincts avec des profils correspondants. Conservez le même rayon de collision pour le gameplay, quelle que soit la silhouette potelée du personnage.
-
- Proposez par défaut Pirate/Patrit14 en 15×13 et Village10. Préservez le pont doré reconnaissable, la cargaison jaune, les caisses en bois, les quatre canons et le mât central ; le village comporte quatre quartiers résidentiels colorés, une route centrale, des haies et des blocs jouets. Utilisez les cartes du publisher comme référence, construisez vous-même les éléments visuels d’exécution et documentez les petites ouvertures de parcours nécessaires aux déplacements continus en 3D et à la fuite de l’IA. Fournissez des matériaux lumineux, des ombres, un décor océanique, ainsi qu’un suivi caméra et une vue d’ensemble clairs.
-
- Un joueur affronte deux adversaires IA coopératifs. Les touches WASD/fléchées servent à se déplacer, F pose une bulle de 2,5 secondes, Espace permet de sauter sur de véritables plateformes, Maj déclenche un dash, Q/E font pivoter la caméra, V change de vue et Échap met le jeu en pause. L’eau en forme de croix respecte les obstacles, détruit le premier bloc friable et enchaîne les bulles. Implémentez la capture, la fuite, les captures d’ennemis, les réapparitions, le choix d’un objectif de 3, 6, 9 ou 12 captures (6 par défaut), ou un score sur 180 secondes, ainsi que l’écran de résultat et la possibilité de recommencer. Le joystick tactile et les boutons d’action doivent fonctionner simultanément.
-
- Utilisez six bonus générés avec Tripo : ballon, potion de portée, patin à roulettes, gant de lancer, botte de frappe et aiguille de secours. Les caisses font apparaître un objet dans 85 % des cas. Pondérations conditionnelles des objets : 30/30/30/2,5/3,5/4 %. Les gants ajoutent trois lancers, avec un maximum de six. G lance une bulle proche jusqu’à quatre cases au-dessus des obstacles, en conservant son propriétaire et sa mèche d’origine, en réservant son point d’atterrissage et en affichant une trajectoire. Une bulle qui expire en vol atterrit puis explose. K fait glisser les bulles jusqu’à ce qu’elles soient bloquées, sans réinitialiser la mèche. X utilise une aiguille de secours, avec une quantité initiale de un et un maximum de trois. Affichez clairement l’inventaire et les commandes disponibles.
-
- Interface en chinois, anglais et coréen : les fuseaux horaires IANA de la Chine continentale sélectionnent le chinois, ceux de la Corée et de la Corée du Nord sélectionnent le coréen, et tous les autres, y compris Hong Kong, Macao et Taïwan, sélectionnent l’anglais. Le choix manuel est toujours prioritaire. N’acceptez que les fichiers GLB avec textures intégrées, standard, non compressés et réellement skinnés, jusqu’à 40 Mo et 150 000 triangles. Validez les os, les articulations et les pondérations, refusez les modèles statiques, utilisez les animations intégrées lorsqu’elles sont présentes et fournissez un mouvement articulaire de base aux humanoïdes reconnus qui ne possèdent pas de clips. Les squelettes non reconnus doivent disposer d’animations. Expliquez clairement la différence entre le rigging et l’animation, proposez un réglage d’orientation à 90 degrés, effectuez le traitement localement dans le navigateur et attribuez des statistiques stables et équilibrées à partir du hash du fichier.
-
- Utilisez exactement https://studio.tripo3d.ai/?utm_source=satellite_invite&utm_medium=bubble-bay&utm_campaign=create-character pour l’appel à l’action de création. Créditez jared en le reliant à https://x.com/jaredliu_bravo .
-
- Intégrez 13 effets sonores ElevenLabs avec normalisation, décroissance courte, distance/panoramique, limites de polyphonie, réglage du volume et sourdine : pose, explosion, caisse, bonus, rare, lancer, atterrissage, capture, secours, saut, victoire, défaite, coup de pied. Créez deux morceaux instrumentaux originaux avec ElevenLabs music_v2_5, de 90 secondes chacun, adaptés à la carte de pirates nautique et au quartier ensoleillé. Normalisez-les avec une cible modérée de -20 LUFS et réalisez un fondu enchaîné aux points de boucle. Donnez à la musique son propre réglage de volume, changez de morceau selon la carte, appliquez un fondu lors de la pause et respectez la sourdine générale. Ne reproduisez pas la bande-son du jeu original.
-
- Conservez le code source indépendant, les dépendances, les tests et la provenance des assets en dehors des applications de la plateforme CMS. Regroupez les ressources statiques de même origine ainsi que les mentions MIT. Vérifiez le gameplay réel sur ordinateur et écran tactile, les variantes importées, les langues et le changement visuel dans Ego Lite. Créez une version de révision immuable attachée à la page Web CMS 12 existante ; préservez la version actuellement publiée pendant la révision. Ne publiez qu’après vérification véridique du code source et des droits sur les assets, puis vérifiez l’URL publique, les hash des modèles et le comportement. Conservez l’historique et distinguez les enregistrements CMS sauvegardés, les aperçus et les versions publiques.
-
- Chargez les assets des modèles avec une progression visible, au maximum trois téléchargements simultanés, un délai d’inactivité de 30 secondes et deux tentatives. Conservez les téléchargements réussis lors d’une nouvelle tentative. Masquez entièrement l’interrupteur d’onglet Tripo / Three.js jusqu’à ce que tous les modèles soient prêts, puis affichez-le. Ne présentez pas les placeholders de chargement procéduraux comme des modèles Tripo chargés.
-
-
- Utilisez une caméra perspective de suivi rapproché qui démarre à l’extérieur de la zone d’apparition, orientée vers le centre de l’arène. Préservez l’orbite avec Q/E, l’inclinaison par glissement de souris et la vue d’ensemble avec V. Gardez un tableau des scores compact en haut, le changement de mode en haut à gauche et de brèves notifications près du bas. Masquez le joystick et les grandes actions tactiles sur les ordinateurs contrôlés à la souris, tout en conservant les petites commandes des objets rares ; prenez en charge les actions tactiles simultanées et compactes sur les écrans étroits. Ajoutez un shader de vagues animé avec une variation de profondeur bleu sarcelle, des îlots sablonneux organiques bordés de palmiers courbés et de rochers, un grain de bois subtil et des textures d’herbe. Enfermez chaque personnage capturé dans une bulle translucide adaptée à sa taille, avec un liseré Fresnel irisé, une légère flottaison, de petites bulles et des ondulations au sol. Vérifiez que les sommets du skin en pose s’ajustent correctement, réinitialisez la hauteur lors du secours et contrôlez la libération des ressources après plusieurs changements. Évitez les passes coûteuses de transmission à l’échelle de toute la scène pour la membrane aqueuse ; plafonnez le ratio de pixels à 1,5 sur les écrans étroits.
-
-
- Fournissez des commandes caméra visibles Follow / Overview et le changement avec V. En vue d’ensemble, prenez en charge un zoom de 100 à 300 % avec les boutons +/−, la molette de la souris et le pincement à deux doigts, avec un déplacement de carte limité et une réinitialisation Fit map. Préservez le zoom et le match en cours lors du changement de caméra ou de version de rendu. Conservez des commandes compactes et non superposées pour les objets rares, en chinois, anglais et coréen.
-
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/bubble-bay) · [Publication originale](https://x.com/jaredliu_bravo/status/2102300855387205871) · [Démo](https://bubble-bay.tripo.page/) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2102411087002112256"></a>
-
-### Jeu de tower defense dans le style de Sir, We Have Orc Problems
-
-[nkz/ぴたすぽ](https://x.com/nikzu_) · 2026-09-22
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/orc-tower-defense-game"><img src="../assets/previews/7ff7139cf9a4704071346a2f8e48c6da2922a9543faa8bd80454119406b69020.png" width="840" loading="lazy" alt="Jeu de tower defense dans le style de Sir, We Have Orc Problems"></a>
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/orc-tower-defense-game"><img src="../assets/previews/497787bc84475fd87250548238200c034f565a9dcc7641b0ceccf733ce860152.jpg" width="840" loading="lazy" alt="Jeu de tower defense dans le style de Sir, We Have Orc Problems"></a>
-
-Prompt demandé par l’auteur à Astra pour créer un jeu de tower defense similaire à Sir, We Have Orc Problems.
-
-**Prompt**
-
-```text
-Crée un jeu de tower defense comme Sir, We Have Orc Problems
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/orc-tower-defense-game) · [Publication originale](https://x.com/nikzu_/status/2102411087002112256) · [Retour aux exemples](#all-prompts)
-
----
 
 <a id="2102473710724919614"></a>
 
@@ -3621,6 +3299,28 @@ Livrez un fichier HTML unique et soigné.
 
 ---
 
+<a id="2113722581610033330"></a>
+
+### Jeu Minecraft dans le navigateur avec un portail de l’End fonctionnel
+
+[starmex](https://x.com/starmexxx) · 2026-10-23
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/browser-minecraft-game-working-end-portal"><img src="../assets/previews/6a90488e8a5e36abb4163a89e8ebb2d520f09472c068e038603b6611e99ff05f.jpg" width="840" loading="lazy" alt="Jeu Minecraft dans le navigateur avec un portail de l’End fonctionnel"></a>
+
+Un prompt pour un jeu Minecraft complet dans le navigateur, avec une progression allant d’un village à une forge, puis aux mines, au Nether et à une forteresse dotée d’un portail de l’End fonctionnel.
+
+**Prompt**
+
+```text
+construire un jeu Minecraft complet dans le navigateur
+
+village → forge → mines → Nether → forteresse avec un portail de l’End fonctionnel
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/browser-minecraft-game-working-end-portal) · [Publication originale](https://x.com/starmexxx/status/2113722581610033330) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="2113849897438834851"></a>
 
 ### Windsock Field, aérodrome interactif en pixel art
@@ -3648,6 +3348,225 @@ Interface (en anglais, thèmes clair et sombre) : surtitre « Pixel diorama · A
 ```
 
 [Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/windsock-field-interactive-pixel-art-airfield) · [Publication originale](https://x.com/vib3coded/status/2113850194106167681) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2113900384695755129"></a>
+
+### Scène 3D procédurale complexe avec Three.js
+
+[安伈XinAn](https://x.com/AnXin_37) · 2026-10-24
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/procedural-threejs-3d-scene-2"><img src="../assets/previews/15aaac47d06f44e31e64092f3a89b0539ddd464e163c4bfdd7b475a935b0112d.jpg" width="840" loading="lazy" alt="Scène 3D procédurale complexe avec Three.js"></a>
+
+L’auteur de la publication affirme avoir utilisé cette requête en anglais, présentée au début de la vidéo promotionnelle précédant la sortie de Kimi 3.1 Pro, et montre le résultat d’une ville 3D procédurale flottante et interactive que GPT Astra aurait généré dans Codex. La requête demande de construire une scène 3D procédurale complexe avec Three.js.
+
+**Prompt**
+
+```text
+Construire une scène 3D procédurale complexe avec Three.js.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/procedural-threejs-3d-scene-2) · [Publication originale](https://x.com/AnXin_37/status/2113900384695755129) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2113978820302708888"></a>
+
+### Peluche de pingouin duveteux interactive et procédurale
+
+[Fazley \| AI Lab](https://x.com/itsfazley) · 2026-10-24
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/interactive-procedural-fluffy-penguin-toy"><img src="../assets/previews/ca996e23818181a4c72eb92c96df797c6b4391a4c6deaedb32d6fec933eb8218.jpg" width="840" loading="lazy" alt="Peluche de pingouin duveteux interactive et procédurale"></a>
+
+Un commentaire d’auteur vérifié fournit un prompt pour une peluche de pingouin 3D duveteuse et interactive, entièrement créée à partir de géométrie procédurale. Il spécifie des interactions avec un corps souple que l’on peut saisir et faire glisser, une fourrure optimisée pour le GPU, une démarche dandinante, un éclairage de studio, ainsi qu’une application fonctionnelle basée sur Three.js, TypeScript et Vite, sans modèles ni textures externes. Le post d’origine précise que le même prompt a été fourni à Opus 5.5 et Astra 6.
+
+**Prompt**
+
+```text
+Créez une adorable peluche de pingouin 3D interactive avec Three.js.
+
+Construisez entièrement le pingouin à partir de géométrie procédurale. Donnez-lui un
+corps noir et blanc arrondi, de petites ailes, des pattes orange, un petit bec,
+des yeux expressifs et des milliers de brins de fourrure animés individuellement.
+
+INTERACTIONS :
+- Cliquez et faites glisser pour donner une petite tape au pingouin, le pousser ou le tirer.
+- Son corps souple doit s’écraser, osciller et rebondir.
+- Il doit tomber lorsqu’on le pousse et essayer de se relever.
+- Animez un adorable mouvement de dandinement au repos.
+- Faites réagir localement la fourrure aux interactions et aux mouvements du curseur.
+
+VISUELS :
+- Une fourrure duveteuse réaliste grâce à des techniques GPU efficaces.
+- Un éclairage de studio doux, des ombres de contact et un arrière-plan pastel épuré.
+- Des mouvements fluides et physiquement crédibles.
+- Une interface élégante et minimaliste.
+
+Utilisez Three.js, TypeScript et Vite. Aucun modèle ni texture externe.
+Optimisez l’application pour des performances fluides en temps réel.
+
+Créez une application fonctionnelle, pas une maquette. Testez les interactions
+et corrigez les erreurs.
+
+Privilégiez la mignonnerie, une physique tactile, une fourrure détaillée et une
+présentation visuelle mémorable de 10 secondes. Évitez les fonctionnalités superflues.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/interactive-procedural-fluffy-penguin-toy) · [Publication originale](https://x.com/itsfazley/status/2113978821271523697) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2114049877189480835"></a>
+
+### Château de conte de fées inspiré de Disney sur une île rocheuse
+
+[Mugi](https://x.com/reMugi3) · 2026-10-24
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/fairytale-castle-rocky-island-3d-scene"><img src="../assets/previews/8c9027c7b9e095b82dc4ee7cdec3cc8a3548c9af159654db17a0474c7c7ccf39.jpg" width="840" loading="lazy" alt="Château de conte de fées inspiré de Disney sur une île rocheuse"></a>
+
+Un prompt détaillé pour créer une scène de château 3D stylisée et soignée : un château de conte de fées en pierre ivoire, avec des tourelles aux toits bleus, construit sur une île rocheuse et relié à la rive par un pont en pierre voûté. L’environnement à l’heure bleue comprend une eau calme et réfléchissante, une forêt de pins, des montagnes au loin, des fenêtres éclairées d’une lueur ambrée et une composition en vue de face légèrement surélevée, en trois quarts. L’auteur d’origine indique que ce même prompt a été testé avec ChatGPT 6, ainsi qu’avec trois autres modèles, dans Blender.
+
+**Prompt**
+
+```text
+Créez un château de conte de fées détaillé, inspiré de Disney, sur une île rocheuse circulaire entourée d’une eau calme.
+
+Utilisez une pierre ivoire chaleureuse, un donjon central élancé et plusieurs niveaux de tours plus petites. Ajoutez des tourelles fines aux toits coniques bleu profond, avec des fleurons dorés et de petits drapeaux dorés. Structurez la silhouette autour d’une flèche centrale dominante.
+
+Intégrez une grande entrée voûtée, des fenêtres illuminées d’une lueur ambrée, des colonnes décoratives, des balcons et des créneaux en pierre. Conservez une façade principale symétrique, avec des tours de hauteurs variées créant de la profondeur à l’arrière-plan.
+
+Reliez l’entrée à la rive droite par un long pont en pierre soutenu par plusieurs arches. Placez de petites lampes dorées le long de ses garde-corps.
+
+Entourez l’île de forêts de pins sombres et de montagnes lointaines. Situez la scène à l’heure bleue, sous un ciel bleu nuit parsemé d’étoiles discrètes, avec un éclairage chaleureux et de doux reflets à la surface de l’eau.
+
+Montrez l’ensemble du château et du pont depuis une vue de face légèrement surélevée, en trois quarts. Utilisez des proportions élégantes et un rendu 3D stylisé et soigné, aux détails architecturaux nets. Aucun texte, logo ni élément d’interface.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/fairytale-castle-rocky-island-3d-scene) · [Publication originale](https://x.com/reMugi3/status/2114049880750465238) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2114056027641413870"></a>
+
+### Navire de guerre grec antique cinématographique dans Blender
+
+[kairos](https://x.com/ka1r0seve) · 2026-10-24
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/ancient-greek-warship-blender-model"><img src="../assets/previews/9491fbc085f23de6e1df0b8df4103690797907ec53910315f2c400494b84db14.jpg" width="840" loading="lazy" alt="Navire de guerre grec antique cinématographique dans Blender"></a>
+
+Un prompt partagé par l’auteur de la publication, correspondant à la même tâche confiée à plusieurs modèles, dont ChatGPT 6. Il demande un modèle Python Blender entièrement modifiable d’un navire de guerre grec antique, avec une construction détaillée de la coque, un gréement, des matériaux PBR et un environnement marin.
+
+**Prompt**
+
+```text
+Créez dans Blender un navire de guerre grec antique cinématographique, inspiré du voyage d’Ulysse et de l’Adrestia d’Assassin’s Creed Odyssey.
+
+Construisez un véritable modèle 3D entièrement modifiable avec Python pour Blender. Visez le réalisme et l’atmosphère d’un film d’aventure historique.
+
+MODEL
+Créez une coque en bois élégante et allongée, avec une proue courbe et une poupe surélevée. Modélisez les planches individuelles de la coque, les membrures structurelles, les planches du pont, les bastingages, les bancs de nage, un éperon en bronze et une figure de proue sculptée. Ajoutez des boucliers le long des flancs, des torons de corde enroulés, des tonneaux, des taquets, des poulies et un gréement crédible.
+
+Utilisez un seul mât principal avec une voile carrée bordeaux gonflée par le vent, un emblème d’aigle doré, des panneaux cousus, des bords renforcés et une usure discrète. Conservez un style clairement grec antique.
+
+MATERIALS
+Utilisez des matériaux PBR : du bois patiné au veinage visible, du bronze vieilli à la patine maîtrisée, une toile à voile tissée et rugueuse, ainsi que de la corde torsadée. Ajoutez des biseaux réalistes et de légères imperfections de surface. Veillez à la cohérence de l’échelle et de la construction.
+
+SCÈNE ET ANIMATION
+Placez le navire sur une mer turquoise aux vagues ondulantes, avec un sillage écumeux, des îles rocheuses au loin, une brume atmosphérique et une lumière chaude.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/ancient-greek-warship-blender-model) · [Publication originale](https://x.com/ka1r0seve/status/2114056030661251276) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2114060132610957601"></a>
+
+### Modèle cinématographique du cheval de Troie dans Blender
+
+[cranger](https://x.com/crangerus) · 2026-10-24
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/cinematic-trojan-horse-blender-model"><img src="../assets/previews/b27194171932f2781f390182c4c6642fb474c7f06be49c02a17c9c03a660d095.jpg" width="840" loading="lazy" alt="Modèle cinématographique du cheval de Troie dans Blender"></a>
+
+L’auteur a partagé ce brief complet comme prompt commun dans une comparaison incluant ChatGPT 6. Il demande un modèle éditable du cheval de Troie dans Blender, avec une construction en bois stratifié, une structure interne, une plateforme sur roues et un décor crépusculaire orageux devant les portes de Troie, ainsi qu’un rendu fixe en 1920×1080.
+
+**Prompt**
+
+```text
+Créez dans Blender un modèle détaillé et cinématographique du cheval de Troie, inspiré de l’échelle monumentale et de l’atmosphère sombre de L’Odyssée.
+
+Construisez un cheval de bois gigantesque, cabré sur ses pattes arrière, avec un encolure arquée, un museau bien défini, des oreilles pointues, un poitrail large et deux pattes avant fléchies. Veillez à conserver une silhouette élégante et immédiatement reconnaissable.
+
+Construisez le corps à partir de planches de bois horizontales superposées qui suivent ses courbes. Donnez à chaque planche une certaine épaisseur, des bords biseautés, un grain visible, des interstices étroits et une patine d’usure subtile. Utilisez différentes nuances de chêne sombre et de noyer.
+
+Ajoutez une structure interne crédible composée de nervures courbes, de traverses et de contrefiches diagonales. Ajoutez des rivets en bronze, des brides en fer sombre, des assemblages renforcés, une trappe latérale discrète et une bride en bronze vieillie. Construisez la crinière à partir de courtes arêtes en bois et la queue à partir de sections de bois courbes.
+
+Montez le cheval sur une lourde plateforme rectangulaire en bois, avec des essieux visibles et quatre grandes roues en bois à rayons cerclées de fer. Rendez tous les supports et les assemblages structurellement crédibles.
+
+Placez-le devant les imposantes portes de pierre de Troie, au bord de la mer. Entourez-le de tentes en toile, de râteliers à boucliers, de lances, d’amphores, de piles de bois, de cordages enroulés, d’échafaudages en bois et de torches allumées. Ajoutez plusieurs navires grecs antiques aux voiles carrées rouge foncé le long du rivage. Incluez quelques gardes en armure de bronze pour donner une échelle à la scène.
+
+Placez la scène dans un crépuscule orageux, avec des nuages bleu-gris, une lumière ambiante froide, une lumière chaude provenant des feux et une fumée discrète. Utilisez des matériaux réalistes pour le bois, le métal vieilli et la pierre brute, avec des ombres de contact nettes.
+
+Composez une vue basse de trois quarts avant. Gardez le cheval entièrement visible, la tête se détachant sur le ciel, avec la porte derrière lui et les navires sur un côté. Recherchez le poids et l’atmosphère d’un véritable décor de tournage.
+
+Créez uniquement une scène statique. Pas d’animation, de texte, de logos ni d’éléments d’interface.
+
+Fournissez un fichier .blend éditable avec les textures intégrées et un rendu fixe haute qualité en 1920×1080. Vérifiez l’absence d’objets flottants, de géométrie qui s’interpénètre et de matériaux manquants.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/cinematic-trojan-horse-blender-model) · [Publication originale](https://x.com/crangerus/status/2114060135769252111) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2114080244046954999"></a>
+
+### Construire la tour Eiffel
+
+[Sam](https://x.com/SamgreyAi) · 2026-10-24
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/eiffel-tower-3d-model"><img src="../assets/previews/61f5c719ad5f737e6626a3ea60741f2338e6f4f4c6cc13d41d74796335bb98c8.jpg" width="840" loading="lazy" alt="Construire la tour Eiffel"></a>
+
+Prompt cité utilisé par l’auteur pour comparer quatre modèles d’IA, dont GPT-6 Astra, dans le but de construire une tour Eiffel. Le résultat demandé est un modèle 3D de la tour Eiffel.
+
+**Prompt**
+
+```text
+construire la tour Eiffel.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/eiffel-tower-3d-model) · [Publication originale](https://x.com/SamgreyAi/status/2114080244046954999) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2114092197595201850"></a>
+
+### Train à vapeur 3D patiné et détaillé
+
+[BuBBliK](https://x.com/k1rallik) · 2026-10-24
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/weathered-steam-train-blender-model"><img src="../assets/previews/40542a22b7101676531da4f21fc9eeb2fd4efffa61182d4e761bf5ed525a4ae7.jpg" width="840" loading="lazy" alt="Train à vapeur 3D patiné et détaillé"></a>
+
+Créez une scène Blender modifiable contenant une locomotive à vapeur noire patinée, un tender à charbon et deux voitures de voyageurs d’époque. Le prompt spécifie une construction mécanique détaillée, des matériaux métalliques vieillis, des traces d’usure dues à la neige et à la suie, des intérieurs de voitures lumineux et des éléments de textures regroupées nommés de façon logique. L’auteur d’origine indique que ce même prompt a été soumis à ChatGPT 6 ainsi qu’à d’autres modèles.
+
+**Prompt**
+
+```text
+Créez un train à vapeur 3D détaillé, inspiré de l’atmosphère de Clair Obscur: Expedition 33.
+
+Construisez une locomotive noire patinée avec une longue chaudière cylindrique, une cheminée évasée, une cabine ouverte et de grandes roues motrices à rayons. Ajoutez des bielles motrices, des pistons, des tuyaux apparents, des soupapes, des rivets, des échelles, des mains courantes, des tampons et un phare à la lumière chaude.
+
+Ajoutez un tender à charbon et deux voitures de voyageurs d’époque. Donnez aux voitures des toits galbés, des fenêtres encadrées, des ensembles de roues visibles, des détails de châssis et des intérieurs diffusant une lumière douce. Reliez chaque véhicule avec des attelages crédibles et des proportions cohérentes.
+
+Utilisez du fer vieilli, de l’acier usé, une légère rouille, de la suie et des traces de neige sur les surfaces orientées vers le haut. Gardez des matériaux réalistes, avec des reflets maîtrisés et une usure visible autour des articulations et des arêtes.
+
+Privilégiez une silhouette élégante, une construction mécanique convaincante et des détails de surface fins. Tous les composants doivent sembler lourds, fonctionnels et correctement assemblés.
+
+Livrez le train complet dans une seule scène Blender modifiable, avec des éléments nommés logiquement et des textures intégrées. Modélisez uniquement la locomotive, le tender et les deux voitures. N’ajoutez aucun environnement, texte ou logo.
+
+Maintenez les dépenses d’API sous 5 $ et indiquez le coût réel.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/weathered-steam-train-blender-model) · [Publication originale](https://x.com/k1rallik/status/2114092201240346897) · [Retour aux exemples](#all-prompts)
 
 ---
 
@@ -3989,7 +3908,7 @@ Publier un nouveau prompt jelly-villa attribué à jared, avec l’auteur origin
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 362 exemples sur le site officiel →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 370 exemples sur le site officiel →</a></strong></p>
 <p><sub>Pour préserver la fluidité du rendu du README sur GitHub, seuls les 100 exemples les plus récents sont affichés ici.</sub></p>
 <br>
 </td></tr>

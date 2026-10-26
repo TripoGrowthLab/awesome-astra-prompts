@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**362 · En yeni Astra istemleri**
+**370 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -50,14 +50,6 @@
 <details>
 <summary>Örnekleri keşfet</summary>
 
-- [Three.js'te WALL-E için 3B model oluşturun](#2101687900723106104)
-- [Verdant — etkileşimli 3B dinozor adası](#2101730386711634251)
-- [Etkileşimli 3B Güneş modeli web sitesi](#2102038136725377200)
-- [Spline Rush prosedürel tarayıcı yarış oyunu](#2102150615635816866)
-- [Etkileşimli 3B helikopter tasarım sunumu](#2102215638311694336)
-- [Tokyo Kulesi’nin Gündüz ve Gece 3B Sahnesi ve Videosu](#2102276620124062065)
-- [Bubble Bay: 3B Su Balonu Savaşı](#2102300855387205871)
-- [Sir, We Have Orc Problems tarzında kule savunma oyunu](#2102411087002112256)
 - [İç mekânı dâhil iki katlı banliyö evi](#2102473710724919614)
 - [Tek bir HTML dosyasında 3B kart yarışı](#2102652927177617564)
 - [Orta Çağ kalesi tarayıcı animasyonu](#2102672926285713456)
@@ -144,7 +136,15 @@
 - [Oyuna hazır saman talim mankeni 3B modeli](#2113321027325300784)
 - [Chalk Square: piksel sanatlı 3B dört kare oyunu](#2113602050172785117)
 - [YÜZEN DÜNYA etkileşimli 3B ada sığınağı](#2113627142772899916)
+- [Çalışan End portalına sahip tarayıcı Minecraft oyunu](#2113722581610033330)
 - [Windsock Field etkileşimli piksel sanatlı havaalanı](#2113849897438834851)
+- [Karmaşık prosedürel Three.js 3B sahnesi](#2113900384695755129)
+- [Etkileşimli Prosedürel Tüylü Penguen Oyuncağı](#2113978820302708888)
+- [Disney Esintili Kayalık Adada Masal Şatosu](#2114049877189480835)
+- [Blender’da sinematik Antik Yunan savaş gemisi](#2114056027641413870)
+- [Blender’da Sinematik Truva Atı Modeli](#2114060132610957601)
+- [Eyfel Kulesi'ni oluştur](#2114080244046954999)
+- [Ayrıntılı, yıpranmış 3B buharlı tren](#2114092197595201850)
 - [Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu](#red-light-green-light)
 - [Golden Miner: 24 Seviyeli 3B Madencilik Oyunu](#golden-miner)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
@@ -152,328 +152,6 @@
 - [Jöle Villa](#jelly-villa)
 
 </details>
-
-<a id="2101687900723106104"></a>
-
-### Three.js'te WALL-E için 3B model oluşturun
-
-[Marcel](https://x.com/marcthecreatorr) · 2026-09-20
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101687900723106104"><img src="../assets/previews/3da23ad1ccf5ae36bd70d1beacc24122d0df39a01d7bea2b9b06145fe1e6098c.jpg" width="840" loading="lazy" alt="Three.js'te WALL-E için 3B model oluşturun"></a>
-
-Marcel'in Astra'ya verdiği komutun aynısını paylaşan; Three.js'te oluşturulmuş bir WALL-E 3B modeli isteyen bir prompt.
-
-**İstem**
-
-```text
-Three.js'te WALL-E için 3B model oluşturun.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101687900723106104) · [Orijinal gönderi](https://x.com/marcthecreatorr/status/2101687900723106104) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2101730386711634251"></a>
-
-### Verdant — etkileşimli 3B dinozor adası
-
-[vib3coded](https://x.com/vib3coded) · 2026-09-20
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-3d-dinosaur-island-diorama"><img src="../assets/previews/44c9844d75b0423e97757b9c59d7a87fe5794dfa55ced35efc7aaa0d9e5e24d0.jpg" width="840" loading="lazy" alt="Verdant — etkileşimli 3B dinozor adası"></a>
-
-@vib3coded tarafından Verdant için hazırlanan, etkileşimli bir Three.js ve WebGL 3B ada dioraması talebi. Gezinen dinozorlar, bir şelale ve kesitli bir lagün; su altında kamera hareketi; hayvan besleme ve yumurtadan yavru çıkarma etkileşimleri; çevre kontrolleri, yağmur, müzik ve tarayıcıda çalışmaya hazır tek bir HTML dosyası olarak teslimat içeriyor.
-
-**İstem**
-
-```text
-Verdant'ı oluşturun — Three.js + WebGL ile hazırlanmış etkileşimli bir 3B diorama
-
-Gezinen dinozorların, bir şelalenin ve içinde yüzen bir deniz sürüngeninin bulunduğu kesitli bir lagünün yer aldığı yemyeşil bir ada. Sürüyü besleyin, bir yavru dinozorun yumurtadan çıkmasını sağlayın ve kamerayı suyun altına indirin
-
-Gelgiti, rüzgârı ve günün saatini ayarlayın ya da dinlendirici müzik çalarken tropik yağmur başlatın
-
-Her şey doğrudan tarayıcınızda, tek bir HTML dosyasında çalışır
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-3d-dinosaur-island-diorama) · [Orijinal gönderi](https://x.com/vib3coded/status/2101570806702559235) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2102038136725377200"></a>
-
-### Etkileşimli 3B Güneş modeli web sitesi
-
-[HIX.AI](https://x.com/HIX_AI_) · 2026-09-21
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102038136725377200"><img src="../assets/previews/de0fe503b12a175ee365dbc43ba69d749366f428e25340c1eab2d624bdca1e91.jpg" width="840" loading="lazy" alt="Etkileşimli 3B Güneş modeli web sitesi"></a>
-
-Blender Python betiğiyle oluşturulmuş gerçekçi bir 3B Güneş modelini merkeze alan etkileşimli bir Three.js web sitesi oluşturun. Sitede Güneş'i döndürme, etrafında gezinme ve yakınlaştırma özellikleri; kozmik bir arka plan ve Güneş sistemi bilgileri; ayrıca Güneş'in etiketlenmiş katmanlarını ve açıklamalarını gösteren etkileşimli bir iç yapı görünümü bulunmalıdır.
-
-**İstem**
-
-```text
-Three.js kullanarak etkileşimli bir 3B Güneş modeli web sitesi oluşturmak istiyorum.
-
-Öncelikle, doğrudan Blender'da çalıştırılabilecek ve son derece gerçekçi bir 3B Güneş modeli oluşturacak bir Python betiği yazın. Model; küresel şekli, yüzey dokusu, rengi, plazmayı andıran görünümü, Güneş granülasyonu ve parlayan atmosferi dahil olmak üzere Güneş'in gerçek fiziksel ve görsel özelliklerini temel almalıdır. Basit bir turuncu küre gibi görünmemelidir. Gerçekçi bir Güneş görünümü oluşturmak için uygun malzemeler, shader'lar, dokular ve ışıklandırma efektleri kullanın.
-
-Ardından Three.js kullanarak web sitesinin eksiksiz kodunu yazın. Güneş, ana görsel alanın yaklaşık %80'ini kaplamalıdır. Kullanıcılar Güneş'i döndürebilmeli, görünümü hareket ettirebilmeli ve yakınlaştırıp uzaklaştırabilmelidir. Sahne, Güneş'in dinamik ve üç boyutlu görünmesini sağlamak için gerçekçi ışıklandırma ve parlama efektleri içermelidir.
-
-Kullanıcıların Güneş'e yaklaşarak yüzey ayrıntılarını inceleyebilmesini sağlayan bir yakınlaştırma düğmesi ekleyin.
-
-Web sitesinde ayrıca Güneş ve Güneş sistemindeki rolü hakkında bilgilendirici içerikler bulunmalıdır. Genel arka plan, gerçekçi bir kozmik galaksi/uzay ortamı olmalıdır.
-
-Buna ek olarak, Güneş'in etkileşimli iç yapı görünümünü açan bir düğme ekleyin. Bu görünümde çekirdek, ışınım bölgesi, taşınım bölgesi, fotosfer, kromosfer ve korona gibi Güneş'in başlıca katmanları gösterilmelidir. Her katmanın kendine ait bir etiketi ve kısa bir açıklaması olmalıdır. İdeal olarak kullanıcılar diyagramla etkileşime girebilmeli ve bilgilerini görüntülemek için farklı katmanları seçebilmelidir.
-
-Web sitesini görsel açıdan etkileyici, bilimsel açıdan bilgilendirici ve tamamen etkileşimli; arayüzünü ise modern, uzay temalı olacak şekilde hazırlayın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102038136725377200) · [Orijinal gönderi](https://x.com/HIX_AI_/status/2102038474752766239) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2102150615635816866"></a>
-
-### Spline Rush prosedürel tarayıcı yarış oyunu
-
-[Maharajahu🪢](https://x.com/ToolBraidComp) · 2026-09-21
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102150615635816866"><img src="../assets/previews/d06a545cb63d57f45d07a82b67de67e069fe38327d2f9d70f455bcaace9dc623.jpg" width="840" loading="lazy" alt="Spline Rush prosedürel tarayıcı yarış oyunu"></a>
-
-Spline Rush’ı; pistler, yapay zekâ rakipleri, fizik, grafik ön ayarları ve sentezlenmiş ses içeren prosedürel bir Three.js tarayıcı yarış oyunu olarak oluşturmak için kök yazarın doğrulanmış yorumunda paylaştığı birebir prompt.
-
-**İstem**
-
-```text
-En yeni Three.js’i (mümkün olduğunda WebGPURenderer + TSL) kullanarak Spline Rush adlı eksiksiz, prodüksiyon kalitesinde bir tarayıcı yarış oyunu oluştur. %100 prosedürel olsun: harici model, doku, ses dosyası veya yazı tipi kullanma. Her şeyi çalışma zamanında kodla üret.
-
-ANA OYUN
-- Yükselti, eğimli virajlar, tüneller, keskin virajlar, adlandırılmış virajlar ve birbirinden farklı biyomlar (sahil gündüzü, dağ alacakaranlığı, çöl gün batımı, yağmurlu orman, gece neon şehir, yüksek hızlı oval) içeren 6 benzersiz pist.
-- Şampiyona modu (sıralama turları + 3 yarış), hayalet araçlarla Zamana Karşı ve Hızlı Yarış.
-- Kişiliğe, yarış çizgisine ve fren noktalarına sahip; sollama ve savunma yapabilen 8 yapay zekâ rakibi.
-- En iyi tur rekorları, sektör süreleri, canlı etkinlik akışı ve tekrar kamerası.
-- Garaj: vernik kaplamalı ve metalik pullu boyaya, belirgin panel aralıklarına, çalışan ışıklara, animasyonlu süspansiyona ve hasar durumlarına sahip 5 parametrik araç.
-
-GRAFİK HEDEFİ (Ultra, 4K’da RTX 5090’a yakışır)
-Renderer: THREE.WebGPURenderer. Fizik tabanlı işleme hattı.
-Aydınlatma:
-- Tam gün/gece döngüsünü yöneten, fizik tabanlı Rayleigh/Mie gökyüzü + yıldız alanı + ay + dinamik güneş.
-- Kademeli gölge haritaları (4 kademe, kararlı texel snapping, yüksek çözünürlük).
-- Günün saatine göre güncellenen PMREM üzerinden IBL.
-- Hacimsel sis + ışık huzmeleri + ısı titreşimi.
-Malzemeler:
-- MeshPhysicalMaterial / TSL düğümleri: vernik kaplama, anizotropi, camda transmisyon, metalik pullu boya, yağmura tepki veren ıslak yol shader’ı.
-Son işleme zinciri (RenderPipeline / TSL veya postprocessing kütüphanesi):
-GTAO veya yüksek kaliteli SSAO → SSR → bloom (Karis) → hareket bulanıklığı (hız) → DOF → ışık huzmeleri → otomatik pozlama → renk derecelendirme + film grenı + vinyet → SMAA veya TAA.
-Efektler:
-- GPU parçacık havuzları: lastik dumanı, kıvılcımlar, toz, yağmur serpintisi, savrulan çim/çakıl, ısı bozulması.
-- Kalıcı olan ve zamanla silikleşen patinaj izleri.
-- Yağmur yağdığında dinamik ıslaklık ve su birikintisi yansımaları.
-
-FİZİK VE HİS
-- Sabit adımlı 120 Hz simülasyon.
-- Raycast veya payandalı süspansiyon, yük transferi, birleşik kayma lastikleri, ABS/TC, yüzey türleri (asfalt, kerb, çim, çakıl, ıslak).
-- Kamera: hareket ve çarpışma sarsıntılı sinematik takip + kaput + araç içi görünümler.
-
-AUDIO
-- Tamamen sentezlenmiş Web Audio: RPM/yüke göre çok katmanlı motor sesi, rüzgâr, lastik cayırtısı, kerb titreşimi, seyirci sesleri ve dinamik müzik.
-
-KALİTE SİSTEMİ
-- Ön ayarlar: Low / Medium / High / Ultra.
-- Ultra, RTX 5090 sınıfı GPU varsayar: 4K, yüksek çözünürlüklü gölge haritaları, maksimum parçacık sayısı, tüm son işleme efektleri açık, agresif LOD yok.
-- Kare süresi hedefi aşarsa efektleri azaltabilen uyarlanabilir kalite.
-
-Oynanabilir bir ilk sürümle (tek pist, tek araç, temel aydınlatma) başla; ardından özellikleri tam olarak istendiği sırayla, tek tek ekleyerek geliştir. Her şeyi yerel olarak çalışan tek ve temiz bir HTML/JS (veya Vite) projesinde tut. Ana sistemleri yorumlarla açıkla. Sevimli değil, pahalı ve üst düzey görünsün.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102150615635816866) · [Orijinal gönderi](https://x.com/ToolBraidComp/status/2102150671340327384) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2102215638311694336"></a>
-
-### Etkileşimli 3B helikopter tasarım sunumu
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-22
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102215638311694336"><img src="../assets/previews/ca6e4dd6e911366689e5fe5542844b65935013f3b7e2feb51f9d9d1316956c65.jpg" width="840" loading="lazy" alt="Etkileşimli 3B helikopter tasarım sunumu"></a>
-
-Yazar, Grok 4.7 ve ChatGPT-6 Astra karşılaştırmasına yaptığı bir yorumda bu istemi paylaştı. İstem; prosedürel geometriye, ayrıntılı havacılık özelliklerine, seçilebilir kaplamalara, rotor kontrollerine, havada asılı kalma davranışına, kamera kontrollerine ve duyarlı bir Three.js/WebGL arayüzüne sahip, tarayıcı tabanlı etkileşimli bir 3B helikopter sunumu talep ediyor.
-
-**İstem**
-
-```text
-Three.js ve WebGL kullanarak tek bir HTML dosyasında modern bir helikopterin ayrıntılı, etkileşimli bir 3B sahnesini oluştur. Görüntü değil, her açıdan incelenebilen gerçek 3B geometri oluştur.
-
-Görsel stil:
-Açık gri stüdyo arka planı, dairesel bir sergileme platformu, yumuşak gölgeler ve gerçekçi yansımalar içeren seçkin bir havacılık tasarım sunumu.
-Helikopter:
-
-H145 gibi hafif, çift motorlu helikopterlerden ilham alan, pürüzsüz ve aerodinamik bir gövde.
-Beyaz gövde, koyu lacivert alt bölüm ve mavi vurgu şeridi.
-Yansımaları ve özenle oturtulmuş pencere contaları bulunan kavisli, renkli kokpit camları.
-Yan kapılar, kapı kolları, panel birleşim çizgileri, perçinler, biniş basamakları ve antenler.
-Hava girişleri, havalandırma ızgaraları ve egzoz çıkışları bulunan iki motor kaportası.
-Ayrıntılı bir rotor göbeğine, bağlantı donanımına ve hatve kontrol bağlantılarına sahip beş palli ana rotor.
-Konik kuyruk bomu, dengeleyiciler ve muhafazasında gerçek bir açıklık bulunan kapalı kuyruk rotoru.
-Yapısal desteklerle gövdeye bağlanan kavisli kızak tipi iniş takımları.
-Seyrüsefer ışıkları ve yanıp sönen bir ikaz ışığı.
-Tüm bileşenler fiziksel olarak birbirine bağlanmalıdır. Havada duran parçalar, bölümler arasında boşluklar, gövdeyle kesişen rotor pallerı veya gövdenin üzerinde asılı duran camlar olmamalıdır.
-
-Etkileşimler:
-
-Yörüngede döndürmek için fareyle sürükleme, yakınlaştırmak için kaydırma ve dokunmatik kontroller.
-Her iki rotoru da kademeli hızlanma ve yavaşlamayla çalıştırıp durdurma.
-Ayarlanabilir rotor hızı.
-Havada asılı kalma modu: platformdan yumuşakça yükselme, havada hafifçe salınma ve devre dışı bırakıldığında nazikçe iniş.
-Otomatik kamera yörüngesi.
-Ön, yan ve kuyruk kamera ön ayarları.
-Kamerayı sıfırlama ve tam ekran kontrolleri.
-Üç kaplama seçeneği: buzul mavisi ve beyaz, kurtarma turuncusu ve grafit.
-Arayüz:
-
-Sol üstte küçük bir “AERONAUT / OBJECT STUDIES” etiketi ve büyük bir “Horizon 05.” başlığı.
-Sağ tarafta teknik özellikleri, helikopter durumunu, kaplama seçimini ve rotor hızını içeren kompakt bir panel.
-Alt kısımda kontroller ve etkileşim ipuçları.
-Sade tipografi, ince kenarlıklar ve bol miktarda boşluk kullan. Helikopterin üzerini kapatma.
-Arayüzdeki tüm metinler İngilizce olsun.
-Teknik gereksinimler:
-
-Geometriyi, hazır bir helikopter modeli indirmeden prosedürel olarak oluştur.
-PBR malzemeler, stüdyo yansıma ortamı ve yumuşak gölgeler kullan.
-Animasyonu kare hızından bağımsız hâle getir.
-Uygun yerlerde geometriyi ve malzemeleri yeniden kullan; performans için piksel oranını sınırla.
-Masaüstü ve mobil yerleşimleri destekle; ilk görünümde rotorun tamamının görünür olmasını sağla.
-Mümkünse bağımlılıkları HTML dosyasına gömerek dosyanın çevrimdışı çalışmasını sağla.
-WebGL kullanılamıyorsa faydalı bir yedek mesajı göster.
-Bitirmeden önce modeli her yönden incele, tüm kontrolleri test et ve konsol hatalarını kontrol et. Silüete, yapısal bağlantılara, cam yüzeylere ve rotor mekanizmalarına özellikle dikkat et.
-
-Yalnızca açıklama değil, çalışan HTML dosyasını teslim et.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102215638311694336) · [Orijinal gönderi](https://x.com/vib3coded/status/2102217028052377910) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2102276620124062065"></a>
-
-### Tokyo Kulesi’nin Gündüz ve Gece 3B Sahnesi ve Videosu
-
-[Wafffle](https://x.com/wafffle_dev) · 2026-09-22
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102276620124062065"><img src="../assets/previews/0491077ba77b62062c9bce879cb6c8f5a86f317c8d03acbb9792b8c6ed3c9c67.jpg" width="840" loading="lazy" alt="Tokyo Kulesi’nin Gündüz ve Gece 3B Sahnesi ve Videosu"></a>
-
-Tokyo Kulesi’nin yapısal özelliklerini ve çevresinin atmosferini araştırıp yansıtarak, gündüz ve gece görünümlerine sahip gerçek 3B geometriyle bir sahne oluşturma talimatı. Düzenlenebilir Blender dosyası, X gönderisi için yaklaşık 30 saniyelik MP4 video, inceleme görselleri ve README teslim edilmesini istiyor. Paylaşımı yapan kişi bunu Astra’ya yönelik bir talimat prompt’u olarak sunuyor.
-
-**İstem**
-
-```text
-Tokyo Kulesi’ni başrole alan, etkileyici bir 3B çalışma ve X gönderisi için yaklaşık 30 saniyelik bir video oluşturun.
-
-Üretim direktörü olarak hareket edin. Gerekli alt görevleri oluşturun ve araştırma ile üretim çalışmalarını talep edin. Talebin ayrıntılandırılmasını, sürecin yönetilmesini, çıktıların kontrolünü, düzeltme talimatlarını ve son derlemeyi sizin üstlenmenizi istiyorum.
-
-【Oluşturulacak içerik】
-Yerden bakıldığında kulenin yüksekliğini, yaklaşıldığında ise çelik konstrüksiyonun ince ayrıntılarını hissettiren bir Tokyo Kulesi oluşturun.
-Gündüz ve gece görünümlerinin ikisini de hazırlayın; gündüz yapıyı ve boyayı, gece ise aydınlatmanın güzelliğini gösterin.
-
-Çalışmaya bakıldığında “Tokyo Kulesi dikkatle incelenerek oluşturulmuş” hissi vermesini istiyorum. Yalnızca kulenin şeklini değil, ayakların açılımını, çelik konstrüksiyonun birleşimini, seyir teraslarını ve tabandaki binaları da araştırıp karakteristik ayrıntıları yansıtın. Çevredeki şehri, kulenin ölçeğini ve bulunduğu yerin atmosferini aktaracak kapsamla sınırlayabilirsiniz.
-
-【Üretim süreci】
-・Resmî kaynakları ve fotoğrafları araştırarak yeniden oluşturulacak özellikleri ve öncelik sırasını belirleyin.
-・Bu araştırmaya dayanarak her alt görev için somut üretim talimatları verin.
-・İlk aşamalarda gerçek 3B önizlemeleri kontrol ederek şekli, kompozisyonu ve parlaklığı ayarlayın.
-・Tamamlanan görselleri ve videoyu ana sorumlu olarak inceleyin, uyumsuzlukları veya eksikleri tespit edin ve düzeltme talep edin.
-・Teknik ayrıntılara ilişkin seçimleri ve çekim kurgusunu kendiniz belirleyerek çalışmayı tamamlanana kadar ilerletin.
-
-Arka planı yalnızca fotoğraf veya oluşturulmuş görseller yapıştırarak geçiştirmeyin; gerçek 3B geometri ve kamera hareketleriyle ifade edin. Doğrulanabilen gerçekleri ve kaynak yetersizliği nedeniyle tahmin edilen bölümleri kaydedin.
-
-【Video】
-Yaklaşık 30 saniye. Yerden yukarı bakış, çelik konstrüksiyon ve seyir teraslarına yakın çekimler, kulenin tamamını anlaşılır kılan geniş planı birleştirin; gündüzden geceye geçişi de gösterin.
-Saniye bazında ayrıntılı zamanlamayı, tamamlanan modele bakarak etkileyici yönlerini en iyi aktaracak kurguyu siz belirleyin.
-
-【Teslim edilecekler】
-・Düzenlenebilir Blender dosyası
-・X gönderisi için MP4 video
-・Gündüz ve gece genel görünümünün yanı sıra ayrıntıları gösteren inceleme görselleri
-・Kısa gönderi metni taslağı
-・Kullanılan kaynakları, yeniden oluşturulan kapsamı ve doğrulama sonuçlarını belirten README
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102276620124062065) · [Orijinal gönderi](https://x.com/wafffle_dev/status/2102276620124062065) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2102300855387205871"></a>
-
-### Bubble Bay: 3B Su Balonu Savaşı
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-22
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/bubble-bay"><img src="../assets/previews/a6388a44fe0643ef6046fd81612e8f646c9405ef5f34c9d7957ab5acf195687f.png" width="840" loading="lazy" alt="Bubble Bay: 3B Su Balonu Savaşı"></a>
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/bubble-bay"><img src="../assets/previews/c17ac835ad48457b99d51bd3e9981ddf79d0509864c962b18600ed005f54b2ee.png" width="840" loading="lazy" alt="Bubble Bay: 3B Su Balonu Savaşı"></a>
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/bubble-bay"><img src="../assets/previews/f008177cfe2af1b56ab3025f094b3a7232c58b4155b98cbb70e9a52c02df48ee.png" width="840" loading="lazy" alt="Bubble Bay: 3B Su Balonu Savaşı"></a>
-
-Langya, Shantao ve Tuanli adlı özgün kostümlü karakterler, animasyonlu P2 modelleri, Pirate14 ve Village10 arenaları, yakından takip ve yakınlaştırılabilir genel görünüm kameraları, yapay zekâ rakipleri, altı yakalamalı maçlar, özel karakter içe aktarma ve özgün ElevenLabs müzikleriyle bir 3B su balonu savaşı oluşturun.
-
-**İstem**
-
-```text
-Bubble Bay’i, klasik baloncuk oyunlarının tanıdık büyük kafalı, kısa gövdeli ve yüzü açık kostümlü karakter stiline sahip, oynanabilir bir Three.js su balonu arenası olarak oluşturun. Varsayılan olarak ayrıntılı Tripo modellerini kullanın ve eşleşmeyi koruyan, Three.js geometrisiyle belirgin bir karşılaştırma anahtarı ekleyin. Üç yeni karakter kullanın: Langya, Shantao ve Tuanli. Sağlanan yeni karakter konsept/model referanslarını izleyerek silüetlerini, yüzlerini, renklerini ve kıyafetlerini koruyun.
-
-Langya, tek parça yana doğru uzanan dalga biçimli tepeye sahip turkuaz kapüşonlu, turuncu yakalı ve manşetli, lacivert şortlu, turuncu tabanlı turkuaz ayakkabılar giyen hareketli bir insan çocuğudur. Shantao, koyu erik rengi küt saçlı, iki yanında üçer kısa taç yaprağı süsü bulunan şeftali-pembe bir boneli, mint yeşili ceketli, erik rengi kısa tulumlu ve açık sarı çizmeli küçük bir insan kızdır. Tuanli, geniş armut biçimli gövdeye, yüz çevresi krem renkli karamela tonunda yuvarlak dolgulu bir kasketine, turkuaz kısa cekete, krem renkli alt karın bölümüne ve lacivert botlara sahip tombul bir insan çocuktur. Hepsinin sıcak ten renginde, basit koyu oval gözlere ve küçük gülümsemelere sahip çocuk yüzleri vardır. Bunlar yeni tasarlanmış kostümlere sahip çocuklardır; onları gerçek su canlılarına dönüştürmeyin ve daha önce kullanılan, kolayca tanınan karakter kıyafetlerini yeniden kullanmayın. Her birini açıkça tripo-p2 ve bağımsız ön/arka görseller kullanarak Tripo CLI üzerinden ayrı ayrı üretin, ardından geçerli iki ayaklı iskeletleri ve skin’leri bağlayın. Boşta durma/koşma/zıplama animasyonları gerçek eklemleri sürmelidir; hareketi inceleyin, başlık, ayakkabı ve gövde ağırlıklandırmasını düzeltin ve kaynak bilgisini doğru tutun. Hareketler yerel olarak oluşturulduysa bunu açıkça belirtin.
-
-Yerelleştirilmiş adlar: 浪芽 / 랑야 / Langya, 珊桃 / 산타오 / Shantao, 团栗 / 퇀리 / Tuanli. Başlangıç kapasite/menzil/hız seviyeleri: 1/1/6, 1/2/5, 2/1/4; üst sınırlar: 6/7/9, 6/7/8, 9/8/8. Hızı saniyede dünya birimi cinsinden 0.25 + seviye*0.8 olarak dönüştürün; karolar 2 birimdir. Bir karakter seçildiğinde diğer ikisini eşleşen profillere sahip, birbirinden farklı rakipler olarak atayın. Tombul görsel silüetten bağımsız olarak aynı oyun içi isabet yarıçapını koruyun.
-
-Varsayılan olarak 15x13 Pirate/Patrit14 ve Village10 haritalarını sunun. Tanınabilir altın güverteyi, sarı yükü, ahşap kasaları, dört topu ve merkezi direği koruyun; köyde dört renkli konut bölgesi, merkezi bir yol, çitler ve oyuncak bloklar bulunsun. Yayıncı haritalarını referans olarak kullanın, çalışma zamanı görsellerini kendiniz oluşturun ve kesintisiz 3B hareket ile yapay zekânın kaçışı için gereken küçük güzergâh açıklıklarını belgeleyin. Canlı materyaller, gölgeler, okyanus manzarası, net kamera takibi ve genel görünüm sağlayın.
-
-Bir oyuncu, iş birliği yapan iki yapay zekâ rakibiyle karşılaşır. WASD/ok tuşları hareket eder, F 2,5 saniyelik bir baloncuk yerleştirir, Boşluk gerçek platformlara zıplar, Shift atılma hareketi yapar, Q/E yörüngede döndürür, V görünümü değiştirir ve Escape oyunu duraklatır. Artı biçimli su, engellere uyar; ilk yumuşak bloğu kırar ve baloncukları zincirler. Tuzak kurma, kaçış, düşman yakalamaları ve yeniden doğma sistemlerini uygulayın; 3, 6, 9 veya 12 yakalamadan seçilebilen bir hedef (varsayılan 6) ya da 180 saniyelik puanlama, sonuç ekranı ve yeniden deneme sunun. Dokunmatik joystick ile eylem düğmeleri aynı anda çalışmalıdır.
-
-Tripo ile oluşturulan altı güçlendirme kullanın: balon, menzil iksiri, tekerlekli paten, fırlatma eldiveni, tekme botu ve kurtarma iğnesi. Kasalar %85 olasılıkla bir eşya düşürür. Koşullu eşya ağırlıkları: %30/%30/%30/%2,5/%3,5/%4. Eldiven üç ek atış sağlar; üst sınır altı atıştır. G, yakındaki bir balonun üzerinden en fazla dört karo uzağa fırlatılmasını sağlar; balonun sahibini ve özgün fitil süresini koruyun, iniş konumunu ayırın ve bir yay gösterin. Uçuş sırasında süresi dolan balon yere iner ve patlar. K, balonları engellenene kadar kaydırır; fitil süresini sıfırlamaz. X, başlangıçta bir tane bulunan ve üst sınırı üç olan kurtarma iğnesini kullanır. Envanteri ve kullanılabilir kontrolleri net biçimde gösterin.
-
-Çince, İngilizce ve Korece kullanıcı arayüzü: Çin ana karasındaki IANA saat dilimleri Çinceyi, Güney Kore/Kuzey Kore Koreceyi, Hong Kong/Makao/Tayvan dâhil diğer tüm bölgeler İngilizceyi seçer. Manuel seçim her zaman önceliklidir. Yalnızca gömülü dokulu, standart sıkıştırılmamış, gerçekten skin uygulanmış ve en fazla 40 MB boyutunda, 150 bin üçgenli GLB dosyalarının yüklenmesine izin verin. Kemikleri, eklemleri ve ağırlıkları doğrulayın; statik modelleri reddedin; varsa gömülü animasyonları kullanın ve klip içermeyen, tanınan insansı modeller için temel eklem hareketi sağlayın. Tanınmayan iskeletler animasyon gerektirir. Rigging ile animasyon arasındaki farkı açıkça anlatın, 90 derecelik yön ayarı sağlayın, işlemleri tarayıcı içinde yerel olarak gerçekleştirin ve dosya karmasına göre sabit, dengeli istatistikler atayın.
-
-Oluşturma CTA’sı için tam olarak https://studio.tripo3d.ai/?utm_source=satellite_invite&utm_medium=bubble-bay&utm_campaign=create-character kullanın. jared için https://x.com/jaredliu_bravo bağlantısını verin.
-
-Normalleştirme, kısa sönüm, mesafe/pan, polifoni sınırları, ses düzeyi ve sessize alma özellikleriyle 13 ElevenLabs ses efektini entegre edin: yerleştirme, patlama, kasa, güçlendirme, nadir eşya, fırlatma, iniş, tuzak, kurtarma, zıplama, zafer, yenilgi ve tekme. ElevenLabs music_v2_5 ile her biri 90 saniye uzunluğunda, denizci korsan haritasına ve güneşli mahalleye uygun iki özgün enstrümantal parça oluşturun. Bunları kontrollü -20 LUFS hedefinde normalleştirin ve döngü sınırlarında çapraz geçiş uygulayın. Müziğin kendi ses düzeyi kontrolü olsun, parçaları haritaya göre değiştirin, duraklatıldığında sesi kademeli azaltın ve ana sessize alma ayarına uyun. Özgün oyunun müziklerini yeniden üretmeyin.
-
-Bağımsız kaynak kodunu, bağımlılıkları, testleri ve varlık kaynak bilgisini CMS platform uygulamalarının dışında tutun. Aynı origin’den sunulan statik kaynakları ve MIT bildirimlerini paketleyin. Gerçek masaüstü ve dokunmatik oynanışı, yükleme varyantlarını, dilleri ve görsel geçişi Ego Lite’ta doğrulayın. Mevcut CMS Web Page 12’ye eklenmiş, değiştirilemez bir inceleme sürümü oluşturun; inceleme beklerken mevcut canlı yayını koruyun. Yalnızca kaynak kodu ve varlık hakları onayı gerçeğe uygun biçimde doğrulandıktan sonra yayımlayın; ardından herkese açık URL’yi, model karmalarını ve davranışı doğrulayın. Geçmişi koruyun ve kaydedilmiş CMS kayıtlarını, önizlemeleri ve herkese açık sürümleri birbirinden ayırın.
-
-Model varlıklarını görünür ilerleme göstergesiyle, aynı anda en fazla üç indirme, 30 saniyelik boşta kalma zaman aşımı ve iki deneme ile yükleyin. Yeniden denemede başarılı indirmeleri koruyun. Tüm modeller hazır olana kadar Tripo / Three.js sekme anahtarını tamamen gizleyin, ardından gösterin. Prosedürel yükleme yer tutucularını yüklenmiş Tripo modelleri olarak etiketlemeyin.
-
-
-Doğuş noktasının dışında başlayıp arenanın merkezine bakan, yakından takip eden perspektif bir kamera kullanın. Q/E yörünge kontrolünü, fareyle sürükleyerek eğim verme özelliğini ve V ile genel görünüm geçişini koruyun. Üstte kompakt bir skor tablosu, sol üstte mod anahtarı ve altta kısa bildirimler bulunsun. Fare kullanılan masaüstlerinde joystick’i ve büyük dokunmatik eylem düğmelerini gizleyin; küçük nadir eşya kontrollerini koruyun. Dar ekranlarda eş zamanlı, kompakt dokunmatik eylemleri destekleyin. Turkuaz derinlik varyasyonuna sahip animasyonlu bir dalga shader’ı, kıvrımlı palmiyeler ve kayalar içeren organik kum adacıkları, hafif ahşap damarları ve çim dokuları ekleyin. Tuzak kurulan her karakteri, boyutuna duyarlı yarı saydam bir baloncukla çevreleyin; baloncukta ışık kırınımlı bir Fresnel kenarı, nazik süzülme, küçük baloncuklar ve zeminde dalgalanmalar bulunsun. Poz verilmiş skin vertex’lerinin uyumunu doğrulayın, kurtarma sırasında yükselme değerini sıfırlayın ve tekrar tekrar geçiş yaptıktan sonra kaynakların düzgün şekilde serbest bırakıldığını kontrol edin. Su zarında sahne genelinde pahalı transmission geçişlerinden kaçının; dar ekranlarda piksel oranını 1,5 ile sınırlayın.
-
-
-Görünür Takip / Genel Görünüm kamera kontrolleri ve V ile geçiş sağlayın. Genel Görünüm modunda +/− düğmeleri, fare tekerleği ve iki parmakla yakınlaştırma kullanarak %100 ile %300 arasında yakınlaştırmayı destekleyin; harita sürüklemeyi sınırlandırın ve Haritayı sığdır sıfırlamasını ekleyin. Kamera veya oluşturma sürümleri arasında geçiş yaparken yakınlaştırma düzeyini ve devam eden maçı koruyun. Çince, İngilizce ve Korece dillerinde kompakt, üst üste binmeyen nadir eşya kontrolleri kullanın.
-
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/bubble-bay) · [Orijinal gönderi](https://x.com/jaredliu_bravo/status/2102300855387205871) · [Canlı demo](https://bubble-bay.tripo.page/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2102411087002112256"></a>
-
-### Sir, We Have Orc Problems tarzında kule savunma oyunu
-
-[nkz/ぴたすぽ](https://x.com/nikzu_) · 2026-09-22
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/orc-tower-defense-game"><img src="../assets/previews/7ff7139cf9a4704071346a2f8e48c6da2922a9543faa8bd80454119406b69020.png" width="840" loading="lazy" alt="Sir, We Have Orc Problems tarzında kule savunma oyunu"></a>
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/orc-tower-defense-game"><img src="../assets/previews/497787bc84475fd87250548238200c034f565a9dcc7641b0ceccf733ce860152.jpg" width="840" loading="lazy" alt="Sir, We Have Orc Problems tarzında kule savunma oyunu"></a>
-
-Göndericinin Astra'dan Sir, We Have Orc Problems benzeri bir kule savunma oyunu oluşturmasını istediği prompt.
-
-**İstem**
-
-```text
-Sir, we have orc problems tarzında bir kule savunma oyunu yap
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/orc-tower-defense-game) · [Orijinal gönderi](https://x.com/nikzu_/status/2102411087002112256) · [Örneklere dön](#all-prompts)
-
----
 
 <a id="2102473710724919614"></a>
 
@@ -3686,6 +3364,28 @@ Tek ve özenle hazırlanmış bir HTML dosyası teslim et.
 
 ---
 
+<a id="2113722581610033330"></a>
+
+### Çalışan End portalına sahip tarayıcı Minecraft oyunu
+
+[starmex](https://x.com/starmexxx) · 2026-10-23
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/browser-minecraft-game-working-end-portal"><img src="../assets/previews/6a90488e8a5e36abb4163a89e8ebb2d520f09472c068e038603b6611e99ff05f.jpg" width="840" loading="lazy" alt="Çalışan End portalına sahip tarayıcı Minecraft oyunu"></a>
+
+Köyden demirciye, madenlere, Nether’a ve çalışan End portalına sahip bir kaleye ilerleyen, tarayıcıda oynanan eksiksiz bir Minecraft oyunu için prompt.
+
+**İstem**
+
+```text
+tarayıcıda eksiksiz bir Minecraft oyunu oluştur
+
+köy → demirci → madenler → Nether → çalışan End portalına sahip kale
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/browser-minecraft-game-working-end-portal) · [Orijinal gönderi](https://x.com/starmexxx/status/2113722581610033330) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="2113849897438834851"></a>
 
 ### Windsock Field etkileşimli piksel sanatlı havaalanı
@@ -3713,6 +3413,225 @@ Arayüz (açık ve koyu temalarda, İngilizce): kicker "Pixel diorama · Airfiel
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/windsock-field-interactive-pixel-art-airfield) · [Orijinal gönderi](https://x.com/vib3coded/status/2113850194106167681) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2113900384695755129"></a>
+
+### Karmaşık prosedürel Three.js 3B sahnesi
+
+[安伈XinAn](https://x.com/AnXin_37) · 2026-10-24
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/procedural-threejs-3d-scene-2"><img src="../assets/previews/15aaac47d06f44e31e64092f3a89b0539ddd464e163c4bfdd7b475a935b0112d.jpg" width="840" loading="lazy" alt="Karmaşık prosedürel Three.js 3B sahnesi"></a>
+
+Gönderinin yazarı, Kimi 3.1 Pro'nun yayın öncesi tanıtım videosunun başında yer alan bu İngilizce istemi kullandığını ve GPT Astra'nın Codex'te oluşturduğu etkileşimli prosedürel 3B havada asılı şehir sonucunu gösterdiğini belirtiyor. İstem, Three.js ile karmaşık bir prosedürel 3B sahne oluşturulmasını istiyor.
+
+**İstem**
+
+```text
+Three.js ile karmaşık bir prosedürel 3B sahne oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/procedural-threejs-3d-scene-2) · [Orijinal gönderi](https://x.com/AnXin_37/status/2113900384695755129) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2113978820302708888"></a>
+
+### Etkileşimli Prosedürel Tüylü Penguen Oyuncağı
+
+[Fazley \| AI Lab](https://x.com/itsfazley) · 2026-10-24
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-procedural-fluffy-penguin-toy"><img src="../assets/previews/ca996e23818181a4c72eb92c96df797c6b4391a4c6deaedb32d6fec933eb8218.jpg" width="840" loading="lazy" alt="Etkileşimli Prosedürel Tüylü Penguen Oyuncağı"></a>
+
+Doğrulanmış bir yazar yorumu, tamamen prosedürel geometriyle oluşturulmuş etkileşimli bir 3B tüylü penguen oyuncağı için bir prompt sunuyor. Prompt; sürüklenebilir yumuşak gövde etkileşimlerini, GPU açısından verimli kürkü, paytak yürüyüş hareketini, stüdyo ışıklandırmasını ve harici model ya da doku kullanmadan çalışan bir Three.js, TypeScript ve Vite uygulamasını tanımlıyor. Ana gönderide aynı promptun hem Opus 5.5'e hem de Astra 6'ya verildiği belirtiliyor.
+
+**İstem**
+
+```text
+Three.js kullanarak sevimli, etkileşimli bir 3B tüylü penguen oyuncağı oluşturun.
+
+Pengueni tamamen prosedürel geometriyle oluşturun. Ona
+yuvarlak siyah-beyaz bir gövde, minik kanatlar, turuncu ayaklar, küçük bir gaga,
+ifade dolu gözler ve tek tek animasyonlu binlerce tüy lifi ekleyin.
+
+ETKİLEŞİMLER:
+- Penguene dürtmek, itmek ve çekmek için tıklayıp sürükleyin.
+- Yumuşak gövdesi ezilip büzülmeli, sallanmalı ve zıplamalı.
+- İtildiğinde devrilmeli ve yeniden ayağa kalkmaya çalışmalı.
+- Sevimli, paytak bir boşta durma hareketi animasyonu ekleyin.
+- Kürk, imleç etkileşimine ve harekete yerel olarak tepki vermeli.
+
+GÖRSELLER:
+- GPU'yu verimli kullanan tekniklerle gerçekçi, kabarık kürk.
+- Yumuşak stüdyo ışığı, temas gölgeleri ve sade, pastel bir arka plan.
+- Akıcı ve fiziksel açıdan inandırıcı hareket.
+- Özenle hazırlanmış, minimal bir arayüz.
+
+Three.js, TypeScript ve Vite kullanın. Harici model veya doku kullanmayın.
+Akıcı gerçek zamanlı performans için optimize edin.
+
+Bir maket değil, çalışan bir uygulama oluşturun. Etkileşimleri test edin
+ve hataları düzeltin.
+
+Sevimliliğe, dokunsal fiziğe, ayrıntılı kürke ve akılda kalıcı
+10 saniyelik görsel bir sunuma öncelik verin. Gereksiz özelliklerden kaçının.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-procedural-fluffy-penguin-toy) · [Orijinal gönderi](https://x.com/itsfazley/status/2113978821271523697) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2114049877189480835"></a>
+
+### Disney Esintili Kayalık Adada Masal Şatosu
+
+[Mugi](https://x.com/reMugi3) · 2026-10-24
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/fairytale-castle-rocky-island-3d-scene"><img src="../assets/previews/8c9027c7b9e095b82dc4ee7cdec3cc8a3548c9af159654db17a0474c7c7ccf39.jpg" width="840" loading="lazy" alt="Disney Esintili Kayalık Adada Masal Şatosu"></a>
+
+Kayalık bir adada, kıyıya kemerli taş köprüyle bağlanan, fildişi renkli ve mavi çatılı kulelere sahip bir masal şatosunu konu alan, özenle hazırlanmış stilize 3B sahne promptu. İstenen mavi saat atmosferinde sakin ve yansıtıcı su, çam ormanı, uzaktaki dağlar, kehribar ışığıyla aydınlanan pencereler ve hafif yüksekten görülen önden üç çeyrek kompozisyon bulunuyor. İçeriğin ana yazarı, aynı promptu Blender'da ChatGPT 6 ve diğer üç modelle birlikte test ettiğini belirtiyor.
+
+**İstem**
+
+```text
+Dairesel, kayalık bir adanın çevresindeki sakin suların ortasına Disney esintili, ayrıntılı bir masal şatosu oluştur.
+
+Sıcak fildişi renkli taş kullan; uzun bir merkezî ana yapı ve farklı seviyelerde, daha küçük kuleler ekle. Koyu mavi konik çatılara, altın alemlere ve küçük altın bayraklara sahip ince kulecikler oluştur. Silüeti, baskın bir merkezî sivri kule etrafında şekillendir.
+
+Görkemli kemerli bir giriş, kehribar rengiyle parlayan pencereler, dekoratif sütunlar, balkonlar ve taş mazgallar ekle. Ana cepheyi simetrik tut; farklı kule yükseklikleriyle arka planda derinlik oluştur.
+
+Girişi, birkaç kemerle desteklenen uzun bir taş köprüyle sağdaki kıyı şeridine bağla. Korkulukları boyunca küçük altın renkli lambalar yerleştir.
+
+Adayı koyu renkli çam ormanları ve uzaktaki dağlarla çevrele. Sahneyi mavi saatte, lacivert gökyüzü, hafif yıldızlar, sıcak aydınlatma ve suda yumuşak yansımalar olacak şekilde ayarla.
+
+Tüm şatoyu ve köprüyü hafif yüksekten görülen önden üç çeyrek açıyla göster. Zarif oranlar ve net mimari ayrıntılarla cilalı, stilize bir 3B görünüm kullan. Metin, logo veya arayüz öğesi olmasın.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/fairytale-castle-rocky-island-3d-scene) · [Orijinal gönderi](https://x.com/reMugi3/status/2114049880750465238) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2114056027641413870"></a>
+
+### Blender’da sinematik Antik Yunan savaş gemisi
+
+[kairos](https://x.com/ka1r0seve) · 2026-10-24
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/ancient-greek-warship-blender-model"><img src="../assets/previews/9491fbc085f23de6e1df0b8df4103690797907ec53910315f2c400494b84db14.jpg" width="840" loading="lazy" alt="Blender’da sinematik Antik Yunan savaş gemisi"></a>
+
+Paylaşım sahibi tarafından, ChatGPT 6 da dâhil olmak üzere çeşitli modellere aynı görev olarak verilen istem. Ayrıntılı gövde yapısı, rigging, fiziksel tabanlı malzemeler ve deniz ortamı içeren, tamamen düzenlenebilir bir Antik Yunan savaş gemisi Blender Python modeli oluşturulmasını ister.
+
+**İstem**
+
+```text
+Blender’da, Odysseus’un yolculuğundan ve Assassin’s Creed Odyssey oyunundaki Adrestia’dan esinlenen sinematik bir Antik Yunan savaş gemisi oluşturun.
+
+Blender Python kullanarak gerçek, tamamen düzenlenebilir bir 3B model oluşturun. Tarihî bir macera filminin gerçekçiliğini ve atmosferini hedefleyin.
+
+MODEL
+Zarif, uzun gövdeli, kıvrımlı pruva ve yükseltilmiş kıç bölümü olan ahşap bir tekne gövdesi modelleyin. Tek tek gövde kaplama tahtalarını, yapısal postaları, güverte tahtalarını, küpeşteleri, kürekçi sıralarını, bronz mahmuzu ve yontulmuş gemi figürünü modelleyin. Yan taraflara kalkanlar, halat sargıları, variller, halat koçboynuzları, makaralar ve inandırıcı bir arma donanımı ekleyin.
+
+Tek bir ana direk kullanın; üzerinde dalgalanan bordo renkli kare yelken, altın kartal arması, dikilmiş paneller, güçlendirilmiş kenarlar ve hafif kullanım izleri bulunsun. Tasarımın belirgin biçimde Antik Yunan karakteri taşımasını sağlayın.
+
+MATERIALS
+Fiziksel tabanlı malzemeler kullanın: damarları görünür, hava koşullarından yıpranmış ahşap; ölçülü patinaya sahip yaşlanmış bronz; kaba dokumalı yelken bezi ve bükümlü halat. Gerçekçi pahlar ve ince yüzey kusurları ekleyin. Ölçeği ve yapım biçimini tutarlı tutun.
+
+SAHNE VE ANİMASYON
+Gemiyi turkuaz renkli, dalgalı bir denize yerleştirin; köpüklü bir iz, uzakta kayalık adalar, atmosferik sis ve sıcak güneş ışığı ekleyin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/ancient-greek-warship-blender-model) · [Orijinal gönderi](https://x.com/ka1r0seve/status/2114056030661251276) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2114060132610957601"></a>
+
+### Blender’da Sinematik Truva Atı Modeli
+
+[cranger](https://x.com/crangerus) · 2026-10-24
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/cinematic-trojan-horse-blender-model"><img src="../assets/previews/b27194171932f2781f390182c4c6642fb474c7f06be49c02a17c9c03a660d095.jpg" width="840" loading="lazy" alt="Blender’da Sinematik Truva Atı Modeli"></a>
+
+Yazar, ChatGPT 6’nın da yer aldığı bir karşılaştırmada bu kapsamlı metni ortak istem olarak paylaştı. İstem; katmanlı ahşap yapıya, iç iskelete ve tekerlekli platforma sahip, Blender’da düzenlenebilir bir Truva atı modeli, Truva kapılarının dışında fırtınalı bir gün batımı ortamı ve 1920×1080 çözünürlükte sabit bir render talep ediyor.
+
+**İstem**
+
+```text
+The Odyssey’nin anıtsal ölçeğinden ve karanlık atmosferinden ilham alan, Blender’da ayrıntılı ve sinematik bir Truva atı modeli oluşturun.
+
+Arka ayakları üzerinde şahlanan, kemerli boyunlu, belirgin ağızlıklı, sivri kulaklı, geniş göğüslü ve bükülmüş iki ön ayaklı devasa bir ahşap at inşa edin. Silüeti zarif ve kolayca tanınabilir olsun.
+
+Gövdeyi, atın kıvrımlarını takip eden ve üst üste binen yatay ahşap kalaslardan oluşturun. Her kalasa kalınlık, pahlanmış kenarlar, görünür damarlar, dar aralıklar ve hafif yıpranma detayları ekleyin. Farklı koyu meşe ve ceviz tonları kullanın.
+
+Kavisli kaburgalar, çapraz kirişler ve diyagonal desteklerden oluşan inandırıcı bir iç iskelet ekleyin. Bronz perçinler, koyu demir kuşaklar, güçlendirilmiş ek yerleri, göze batmayan bir yan kapak ve eskitilmiş bronz bir gem ekleyin. Yeleyi kısa ahşap çıkıntılardan, kuyruğu ise kavisli kereste parçalarından oluşturun.
+
+Atı, görünür aksları ve demir çemberli, parmaklıklı dört büyük ahşap tekerleği bulunan ağır, dikdörtgen bir kereste platformunun üzerine yerleştirin. Tüm destekleri ve bağlantıları yapısal açıdan inandırıcı kılın.
+
+Atı, denizin yanında, Truva’nın devasa taş kapılarının dışına yerleştirin. Çevresine bez çadırlar, kalkan rafları, mızraklar, amforalar, istiflenmiş keresteler, sarılmış halatlar, ahşap iskeleler ve yanan meşaleler yerleştirin. Kıyı boyunca koyu kırmızı kare yelkenli birkaç antik Yunan gemisi ekleyin. Ölçeği belirginleştirmek için bronz zırhlı birkaç muhafız ekleyin.
+
+Sahneyi fırtınalı bir gün batımında kurgulayın; mavi-gri bulutlar, soğuk ortam ışığı, sıcak ateş ışığı ve ölçülü miktarda duman kullanın. Belirgin temas gölgeleriyle gerçekçi ahşap, eskitilmiş metal ve pürüzlü taş malzemeler kullanın.
+
+Alçak bir ön üç çeyrek açıdan kompozisyon oluşturun. Atın tamamı görünür olsun; başı gökyüzüne karşı konumlansın, kapı arkasında, gemiler ise bir yanında yer alsın. Gerçek bir film setinin ağırlığını ve atmosferini hedefleyin.
+
+Yalnızca statik bir sahne oluşturun. Animasyon, metin, logo veya arayüz öğeleri kullanmayın.
+
+Paketlenmiş dokular içeren, düzenlenebilir bir .blend dosyası ve yüksek kaliteli, 1920×1080 çözünürlükte tek bir sabit render teslim edin. Havada duran nesneleri, kesişen geometrileri ve eksik malzemeleri kontrol edin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/cinematic-trojan-horse-blender-model) · [Orijinal gönderi](https://x.com/crangerus/status/2114060135769252111) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2114080244046954999"></a>
+
+### Eyfel Kulesi'ni oluştur
+
+[Sam](https://x.com/SamgreyAi) · 2026-10-24
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/eiffel-tower-3d-model"><img src="../assets/previews/61f5c719ad5f737e6626a3ea60741f2338e6f4f4c6cc13d41d74796335bb98c8.jpg" width="840" loading="lazy" alt="Eyfel Kulesi'ni oluştur"></a>
+
+GPT-6 Astra'nın da aralarında bulunduğu dört yapay zekâ modelinin Eyfel Kulesi oluşturma performansını karşılaştırmak için yazar tarafından kullanılan alıntı bir istem. İstenen sonuç, 3B bir Eyfel Kulesi modelidir.
+
+**İstem**
+
+```text
+Eyfel Kulesi'ni oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/eiffel-tower-3d-model) · [Orijinal gönderi](https://x.com/SamgreyAi/status/2114080244046954999) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2114092197595201850"></a>
+
+### Ayrıntılı, yıpranmış 3B buharlı tren
+
+[BuBBliK](https://x.com/k1rallik) · 2026-10-24
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/weathered-steam-train-blender-model"><img src="../assets/previews/40542a22b7101676531da4f21fc9eeb2fd4efffa61182d4e761bf5ed525a4ae7.jpg" width="840" loading="lazy" alt="Ayrıntılı, yıpranmış 3B buharlı tren"></a>
+
+Yıpranmış siyah bir buharlı lokomotif, kömür tenderi ve döneme uygun iki yolcu vagonu içeren düzenlenebilir bir Blender sahnesi oluşturun. İstem; ayrıntılı mekanik yapıyı, yaşlandırılmış metal malzemeleri, kar ve kurum aşınmasını, vagon içlerindeki parıltıyı ve mantıklı adlandırılmış paketlenmiş doku parçalarını tanımlar. Ana yazar, aynı istemin diğer modellerle birlikte ChatGPT 6'ya da gönderildiğini belirtiyor.
+
+**İstem**
+
+```text
+Clair Obscur: Expedition 33 atmosferinden ilham alan, ayrıntılı bir 3B buharlı tren oluşturun.
+
+Uzun silindirik kazanı, genişleyen bacası, açık kabini ve büyük kollu tahrik tekerlekleri olan yıpranmış siyah bir lokomotif modelleyin. Bağlantı çubukları, pistonlar, açıkta bulunan borular, valfler, perçinler, merdivenler, tutamaklar, tamponlar ve sıcak ışık veren bir far ekleyin.
+
+Bir kömür tenderi ve döneme uygun iki yolcu vagonu bağlayın. Vagonlarda kavisli çatılar, çerçeveli pencereler, görünür tekerlek düzenekleri, alt takım ayrıntıları ve yumuşak ışık veren iç mekânlar bulunmalıdır. Her aracı inandırıcı bağlantılarla ve tutarlı oranlarla birbirine bağlayın.
+
+Yaşlandırılmış demir, yıpranmış çelik, hafif pas, kurum ve yukarı bakan yüzeylerde kar izleri kullanın. Malzemeleri gerçekçi tutun; yansımalar ölçülü, eklem ve kenarlardaki aşınmalar görünür olsun.
+
+Zarif bir silüete, inandırıcı mekanik yapıya ve ince yüzey ayrıntılarına öncelik verin. Tüm bileşenler ağır, işlevsel ve düzgün biçimde birbirine bağlanmış hissi vermelidir.
+
+Trenin tamamını mantıklı adlandırılmış parçalar ve paketlenmiş dokular içeren tek bir düzenlenebilir Blender sahnesi olarak teslim edin. Yalnızca lokomotifi, tenderi ve iki vagonu modelleyin. Çevre, metin veya logo eklemeyin.
+
+Ölçümlenmiş API harcamasını 5 doların altında tutun ve gerçek maliyeti bildirin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/weathered-steam-train-blender-model) · [Orijinal gönderi](https://x.com/k1rallik/status/2114092201240346897) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -4054,7 +3973,7 @@ jared adına atıf yapılan yeni bir jelly-villa istemi yayımlayın; özgün ya
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 362 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 370 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

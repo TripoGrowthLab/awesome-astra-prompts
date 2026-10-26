@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**362 · Prompt Astra mới nhất**
+**370 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -50,14 +50,6 @@
 <details>
 <summary>Khám phá ví dụ</summary>
 
-- [Tạo mô hình 3D WALL-E bằng Three.js](#2101687900723106104)
-- [Verdant — hòn đảo khủng long 3D tương tác](#2101730386711634251)
-- [Website mô hình Mặt Trời 3D tương tác](#2102038136725377200)
-- [Game đua xe procedural trên trình duyệt Spline Rush](#2102150615635816866)
-- [Bản trình bày thiết kế trực thăng 3D tương tác](#2102215638311694336)
-- [Cảnh 3D và video Tháp Tokyo ngày và đêm](#2102276620124062065)
-- [Bubble Bay: Đại chiến bóng nước 3D](#2102300855387205871)
-- [Game tower defense phong cách Sir, We Have Orc Problems](#2102411087002112256)
 - [Nhà ngoại ô hai tầng có nội thất](#2102473710724919614)
 - [Game đua xe kart 3D trong một tệp HTML duy nhất](#2102652927177617564)
 - [Hoạt ảnh lâu đài thời Trung cổ trên trình duyệt](#2102672926285713456)
@@ -144,7 +136,15 @@
 - [Mô hình 3D hình nộm tập luyện bằng rơm, sẵn sàng cho game](#2113321027325300784)
 - [Chalk Square: game bốn ô 3D phong cách pixel art](#2113602050172785117)
 - [THẾ GIỚI LƠ LỬNG — khu đảo 3D tương tác](#2113627142772899916)
+- [Trò chơi Minecraft trên trình duyệt với cổng End hoạt động](#2113722581610033330)
 - [Sân bay pixel-art tương tác Windsock Field](#2113849897438834851)
+- [Cảnh 3D thủ tục phức tạp với Three.js](#2113900384695755129)
+- [Đồ chơi chim cánh cụt lông xù tương tác được tạo bằng hình học thủ tục](#2113978820302708888)
+- [Lâu đài cổ tích lấy cảm hứng từ Disney trên đảo đá](#2114049877189480835)
+- [Chiến thuyền Hy Lạp cổ đại mang phong cách điện ảnh trong Blender](#2114056027641413870)
+- [Mô hình ngựa thành Troy điện ảnh trong Blender](#2114060132610957601)
+- [Dựng Tháp Eiffel](#2114080244046954999)
+- [Tàu hơi nước 3D cũ kỹ, chi tiết cao](#2114092197595201850)
 - [Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D](#red-light-green-light)
 - [Golden Miner: Game khai thác vàng 3D 24 cấp độ](#golden-miner)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
@@ -152,328 +152,6 @@
 - [Biệt thự Thạch rau câu](#jelly-villa)
 
 </details>
-
-<a id="2101687900723106104"></a>
-
-### Tạo mô hình 3D WALL-E bằng Three.js
-
-[Marcel](https://x.com/marcthecreatorr) · 2026-09-20
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101687900723106104"><img src="../assets/previews/3da23ad1ccf5ae36bd70d1beacc24122d0df39a01d7bea2b9b06145fe1e6098c.jpg" width="840" loading="lazy" alt="Tạo mô hình 3D WALL-E bằng Three.js"></a>
-
-Prompt được Marcel chia sẻ, chính xác là prompt họ đã cung cấp cho Astra, yêu cầu tạo mô hình 3D WALL-E bằng Three.js.
-
-**Prompt**
-
-```text
-tạo mô hình 3D WALL-E bằng Three.js.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101687900723106104) · [Bài đăng gốc](https://x.com/marcthecreatorr/status/2101687900723106104) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2101730386711634251"></a>
-
-### Verdant — hòn đảo khủng long 3D tương tác
-
-[vib3coded](https://x.com/vib3coded) · 2026-09-20
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-3d-dinosaur-island-diorama"><img src="../assets/previews/44c9844d75b0423e97757b9c59d7a87fe5794dfa55ced35efc7aaa0d9e5e24d0.jpg" width="840" loading="lazy" alt="Verdant — hòn đảo khủng long 3D tương tác"></a>
-
-Yêu cầu nguyên văn từ @vib3coded dành cho Verdant, một sa bàn đảo 3D tương tác được xây dựng bằng Three.js và WebGL. Yêu cầu này mô tả những chú khủng long đi lang thang, một thác nước và đầm phá cắt lớp, chuyển động của camera dưới nước, các tương tác cho ăn và ấp trứng, điều khiển môi trường, mưa và nhạc, với đầu ra là một tệp HTML duy nhất sẵn sàng chạy trên trình duyệt.
-
-**Prompt**
-
-```text
-tạo Verdant - một sa bàn 3D tương tác được xây dựng bằng Three.js + WebGL
-
-Một hòn đảo xanh tươi với những chú khủng long đi lang thang, một thác nước và đầm phá cắt lớp có một loài bò sát biển đang bơi. Cho đàn khủng long ăn, ấp một chú khủng long con và đưa camera xuống dưới nước
-
-Điều chỉnh thủy triều, gió và thời gian trong ngày, hoặc tạo mưa nhiệt đới trong khi nhạc thư giãn vang lên
-
-Mọi thứ chạy trực tiếp trên trình duyệt của bạn trong một tệp HTML duy nhất
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-3d-dinosaur-island-diorama) · [Bài đăng gốc](https://x.com/vib3coded/status/2101570806702559235) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2102038136725377200"></a>
-
-### Website mô hình Mặt Trời 3D tương tác
-
-[HIX.AI](https://x.com/HIX_AI_) · 2026-09-21
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102038136725377200"><img src="../assets/previews/de0fe503b12a175ee365dbc43ba69d749366f428e25340c1eab2d624bdca1e91.jpg" width="840" loading="lazy" alt="Website mô hình Mặt Trời 3D tương tác"></a>
-
-Tạo một website Three.js tương tác, xoay quanh mô hình Mặt Trời 3D chân thực được dựng bằng một tập lệnh Python trong Blender. Website cho phép xoay Mặt Trời, di chuyển góc nhìn và phóng to để quan sát; có nền không gian vũ trụ cùng thông tin về hệ Mặt Trời; đồng thời cung cấp chế độ xem cấu trúc bên trong tương tác với các lớp của Mặt Trời được gắn nhãn và mô tả.
-
-**Prompt**
-
-```text
-Tôi muốn xây dựng một website mô hình Mặt Trời 3D tương tác bằng Three.js.
-
-Trước tiên, hãy viết một tập lệnh Python có thể chạy trực tiếp trong Blender để tạo mô hình Mặt Trời 3D có độ chân thực cao. Mô hình cần dựa trên các đặc điểm vật lý và hình ảnh thực tế của Mặt Trời, bao gồm hình cầu, kết cấu bề mặt, màu sắc, vẻ ngoài giống plasma, các hạt sáng trên bề mặt và bầu khí quyển phát sáng. Mô hình không được trông như một quả cầu màu cam đơn giản. Hãy sử dụng vật liệu, shader, kết cấu bề mặt và hiệu ứng ánh sáng phù hợp để tạo diện mạo Mặt Trời chân thực.
-
-Sau đó, hãy viết đầy đủ mã nguồn website bằng Three.js. Mặt Trời nên chiếm khoảng 80% khu vực hiển thị chính. Người dùng có thể xoay Mặt Trời, di chuyển góc nhìn và phóng to, thu nhỏ. Cảnh cần có ánh sáng chân thực cùng các hiệu ứng phát sáng để Mặt Trời trông sống động và có chiều sâu 3D.
-
-Thêm một nút phóng to để người dùng tiến lại gần Mặt Trời và quan sát các chi tiết trên bề mặt.
-
-Website cũng cần có nội dung cung cấp thông tin về Mặt Trời và vai trò của nó trong hệ Mặt Trời. Nền tổng thể nên là môi trường không gian vũ trụ hoặc thiên hà chân thực.
-
-Ngoài ra, hãy thêm một nút mở chế độ xem cấu trúc bên trong tương tác của Mặt Trời. Chế độ xem này cần hiển thị các lớp chính của Mặt Trời, chẳng hạn như lõi, vùng bức xạ, vùng đối lưu, quang quyển, sắc quyển và nhật hoa. Mỗi lớp cần có nhãn tương ứng cùng một đoạn mô tả ngắn. Tốt nhất là người dùng có thể tương tác với sơ đồ và chọn từng lớp để xem thông tin về lớp đó.
-
-Hãy làm cho website có giao diện hiện đại theo chủ đề không gian, ấn tượng về mặt hình ảnh, giàu thông tin khoa học và tương tác đầy đủ.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102038136725377200) · [Bài đăng gốc](https://x.com/HIX_AI_/status/2102038474752766239) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2102150615635816866"></a>
-
-### Game đua xe procedural trên trình duyệt Spline Rush
-
-[Maharajahu🪢](https://x.com/ToolBraidComp) · 2026-09-21
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102150615635816866"><img src="../assets/previews/d06a545cb63d57f45d07a82b67de67e069fe38327d2f9d70f455bcaace9dc623.jpg" width="840" loading="lazy" alt="Game đua xe procedural trên trình duyệt Spline Rush"></a>
-
-Prompt nguyên văn do tác giả gốc cung cấp trong bình luận đã xác minh để tạo Spline Rush, một game đua xe Three.js procedural trên trình duyệt với đường đua, đối thủ AI, vật lý, preset đồ họa và âm thanh tổng hợp.
-
-**Prompt**
-
-```text
-Xây dựng một game đua xe trên trình duyệt hoàn chỉnh, đạt chất lượng production, có tên Spline Rush bằng phiên bản Three.js mới nhất (ưu tiên WebGPURenderer + TSL khi có thể). 100% procedural: không dùng mô hình, kết cấu bề mặt, tệp âm thanh hay font bên ngoài. Mọi thứ đều được tạo bằng mã trong thời gian chạy.
-
-GAME CỐT LÕI
-- 6 đường đua độc đáo với cao độ thay đổi, độ nghiêng thân xe, đường hầm, khúc cua tay áo, các góc cua có tên và quần xã riêng biệt (ven biển ban ngày, núi lúc chạng vạng, sa mạc hoàng hôn, rừng mưa, thành phố neon ban đêm, đường oval tốc độ cao).
-- Chế độ Championship (vòng phân hạng + 3 cuộc đua), Time Trial với xe ma, Quick Race.
-- 8 đối thủ AI với cá tính riêng, đường chạy tối ưu, điểm phanh, vượt và phòng thủ.
-- Kỷ lục vòng đua nhanh nhất, thời gian từng sector, bảng tin sự kiện trực tiếp, camera xem lại.
-- Garage: 5 mẫu xe tham số với sơn clearcoat + metal-flake, khe ghép thân vỏ, đèn hoạt động, hệ thống treo chuyển động và các trạng thái hư hỏng.
-
-MỤC TIÊU ĐỒ HỌA (Ultra, tương xứng với RTX 5090 ở 4K)
-Renderer: THREE.WebGPURenderer. Pipeline dựa trên vật lý.
-Ánh sáng:
-- Bầu trời dựa trên vật lý Rayleigh/Mie + trường sao + mặt trăng + mặt trời động điều khiển chu kỳ ngày/đêm hoàn chỉnh.
-- Cascaded shadow maps (4 cascade, snap texel ổn định, độ phân giải cao).
-- IBL qua PMREM được cập nhật theo thời gian trong ngày.
-- Sương mù thể tích + tia sáng xuyên mây + hiệu ứng rung nhiệt.
-Vật liệu:
-- MeshPhysicalMaterial / node TSL: clearcoat, anisotropy, transmission trên kính, sơn metal-flake, shader mặt đường ướt phản ứng với mưa.
-Chuỗi hậu kỳ (RenderPipeline / TSL hoặc thư viện postprocessing):
-GTAO hoặc SSAO chất lượng cao → SSR → bloom (Karis) → motion blur (velocity) → DOF → tia sáng xuyên mây → auto-exposure → chỉnh màu + hạt phim + vignette → SMAA hoặc TAA.
-Hiệu ứng:
-- Pool hạt trên GPU: khói lốp, tia lửa, bụi, nước mưa bắn, cỏ/sỏi văng lên, biến dạng nhiệt.
-- Vết trượt lưu lại rồi mờ dần.
-- Độ ướt động và phản chiếu vũng nước khi trời mưa.
-
-VẬT LÝ & CẢM GIÁC LÁI
-- Mô phỏng fixed-step 120 Hz.
-- Hệ thống treo raycast hoặc strut, chuyển tải trọng, lốp combined-slip, ABS/TC, các loại bề mặt (nhựa đường, kerb, cỏ, sỏi, ướt).
-- Camera: góc bám đuôi cinematic + góc nhìn qua nắp ca-pô + góc onboard, có rung khi chuyển động và va chạm.
-
-AUDIO
-- Web Audio tổng hợp hoàn toàn: động cơ đa lớp theo RPM/tải, tiếng gió, tiếng lốp rít, tiếng rung khi chạy qua kerb, tiếng khán giả, nhạc động.
-
-HỆ THỐNG CHẤT LƯỢNG
-- Các preset: Low / Medium / High / Ultra.
-- Ultra giả định GPU cấp RTX 5090: 4K, shadow map độ phân giải cao, số lượng hạt tối đa, bật toàn bộ hiệu ứng hậu kỳ, không dùng LOD quá gắt.
-- Chất lượng thích ứng có thể tắt bớt hiệu ứng nếu thời gian dựng khung hình vượt mục tiêu.
-
-Bắt đầu bằng một phiên bản đầu tiên có thể chơi được (một đường đua, một xe, ánh sáng cơ bản), sau đó lặp lại và bổ sung từng tính năng đúng như yêu cầu. Đặt mọi thứ trong một dự án HTML/JS (hoặc Vite) gọn gàng duy nhất có thể chạy cục bộ. Chú thích các hệ thống chính. Hãy tạo cảm giác cao cấp, không dễ thương.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102150615635816866) · [Bài đăng gốc](https://x.com/ToolBraidComp/status/2102150671340327384) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2102215638311694336"></a>
-
-### Bản trình bày thiết kế trực thăng 3D tương tác
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-22
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102215638311694336"><img src="../assets/previews/ca6e4dd6e911366689e5fe5542844b65935013f3b7e2feb51f9d9d1316956c65.jpg" width="840" loading="lazy" alt="Bản trình bày thiết kế trực thăng 3D tương tác"></a>
-
-Tác giả đã chia sẻ prompt này trong phần bình luận cho bài so sánh Grok 4.7 và ChatGPT-6 Astra. Prompt yêu cầu một bản trình bày trực thăng 3D tương tác chạy trên trình duyệt, với hình học dựng theo quy trình, các chi tiết hàng không phong phú, nhiều tùy chọn phối màu, điều khiển rotor, chế độ bay lơ lửng, điều khiển camera và giao diện Three.js/WebGL đáp ứng trên nhiều kích thước màn hình.
-
-**Prompt**
-
-```text
-Tạo một cảnh 3D tương tác, chi tiết về một chiếc trực thăng hiện đại trong một tệp HTML duy nhất bằng Three.js và WebGL. Dựng hình học 3D thực sự để có thể quan sát từ mọi góc, không sử dụng hình ảnh.
-
-Phong cách hình ảnh:
-Bản trình bày thiết kế hàng không cao cấp với nền studio màu xám nhạt, bệ trưng bày hình tròn, bóng đổ mềm và phản chiếu chân thực.
-Trực thăng:
-
-Thân trực thăng mượt mà, thuôn gọn, lấy cảm hứng từ các mẫu trực thăng hạng nhẹ hai động cơ như H145.
-Thân màu trắng với phần bụng xanh navy đậm và một đường sọc xanh dương làm điểm nhấn.
-Cửa sổ buồng lái cong, phủ màu khói, có phản chiếu và gioăng cửa sổ được lắp khít cẩn thận.
-Cửa bên, tay nắm, đường ghép panel, đinh tán, bậc lên xuống và ăng-ten.
-Hai khoang động cơ với cửa hút khí, lưới thông gió và cửa xả.
-Rotor chính năm cánh với cụm moay-ơ chi tiết, phần cứng liên kết và các thanh liên kết điều khiển góc cánh.
-Cần đuôi thuôn nhọn, các cánh ổn định và rotor đuôi có vỏ che, với một khoảng hở xuyên qua vỏ được dựng đúng hình học.
-Càng trượt hạ cánh cong, gắn vào thân bằng các thanh đỡ kết cấu.
-Đèn dẫn đường và đèn hiệu nhấp nháy.
-Mọi bộ phận phải liên kết với nhau về mặt vật lý. Tránh các chi tiết bị lơ lửng, khe hở giữa các phần, cánh rotor xuyên vào thân hoặc cửa sổ nằm lơ lửng phía trên thân.
-
-Tương tác:
-
-Kéo chuột để xoay quanh mô hình, cuộn để phóng to/thu nhỏ và hỗ trợ điều khiển cảm ứng.
-Khởi động và dừng cả hai rotor với quá trình tăng tốc và giảm tốc dần.
-Điều chỉnh tốc độ rotor.
-Chế độ bay lơ lửng: nhẹ nhàng nâng trực thăng khỏi bệ, đung đưa nhẹ trong không trung và hạ xuống êm khi tắt chế độ.
-Tự động xoay camera.
-Các góc camera cài sẵn ở phía trước, bên hông và đuôi.
-Điều khiển đặt lại camera và toàn màn hình.
-Ba phối màu: xanh băng hà và trắng, cam cứu hộ và xám graphite.
-Giao diện:
-
-Góc trên bên trái: nhãn nhỏ “AERONAUT / OBJECT STUDIES” và tiêu đề lớn “Horizon 05.”
-Bên phải: panel gọn chứa thông số kỹ thuật, trạng thái trực thăng, lựa chọn phối màu và tốc độ rotor.
-Phía dưới: các nút điều khiển và gợi ý tương tác.
-Kiểu chữ tiết chế, đường viền mảnh và khoảng trống rộng rãi. Giữ cho trực thăng không bị che khuất.
-Toàn bộ văn bản giao diện phải bằng tiếng Anh.
-Yêu cầu kỹ thuật:
-
-Dựng hình học theo quy trình, không tải xuống mô hình trực thăng dựng sẵn.
-Sử dụng vật liệu PBR, môi trường phản chiếu studio và bóng đổ mềm.
-Bảo đảm hoạt ảnh độc lập với tốc độ khung hình.
-Tái sử dụng hình học và vật liệu khi phù hợp, đồng thời giới hạn pixel ratio để tối ưu hiệu năng.
-Hỗ trợ bố cục trên máy tính và thiết bị di động, đồng thời giữ toàn bộ sải rotor hiển thị trong khung hình ban đầu.
-Nếu có thể, hãy nhúng các thư viện phụ thuộc vào HTML để tệp hoạt động ngoại tuyến.
-Hiển thị thông báo dự phòng hữu ích nếu WebGL không khả dụng.
-Trước khi hoàn tất, kiểm tra mô hình từ mọi phía, thử mọi điều khiển và kiểm tra lỗi trong console. Đặc biệt chú ý đến silhouette, các liên kết kết cấu, phần kính và cơ cấu rotor.
-
-Bàn giao tệp HTML hoạt động được, không chỉ phần giải thích.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102215638311694336) · [Bài đăng gốc](https://x.com/vib3coded/status/2102217028052377910) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2102276620124062065"></a>
-
-### Cảnh 3D và video Tháp Tokyo ngày và đêm
-
-[Wafffle](https://x.com/wafffle_dev) · 2026-09-22
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102276620124062065"><img src="../assets/previews/0491077ba77b62062c9bce879cb6c8f5a86f317c8d03acbb9792b8c6ed3c9c67.jpg" width="840" loading="lazy" alt="Cảnh 3D và video Tháp Tokyo ngày và đêm"></a>
-
-Hướng dẫn tạo một cảnh có hình học 3D chân thực của Tháp Tokyo, nghiên cứu và tái hiện các đặc điểm kết cấu của tháp cùng không khí khu vực xung quanh, đồng thời thể hiện diện mạo ban ngày và ban đêm. Yêu cầu bàn giao dữ liệu Blender có thể chỉnh sửa, video MP4 dài khoảng 30 giây để đăng trên X, ảnh xem trước và README. Người đăng chia sẻ nội dung này dưới dạng prompt hướng dẫn cho Astra.
-
-**Prompt**
-
-```text
-Hãy tạo một tác phẩm 3D ấn tượng lấy Tháp Tokyo làm chủ thể chính, cùng video dài khoảng 30 giây để đăng trên X.
-
-Bạn là giám đốc sản xuất. Hãy tạo các tác vụ phụ cần thiết và giao việc nghiên cứu,制作. Bạn chịu trách nhiệm cụ thể hóa yêu cầu, quản lý tiến độ, kiểm tra sản phẩm, đưa ra yêu cầu chỉnh sửa và tổng hợp kết quả cuối cùng.
-
-【Những gì cần tạo】
-Hãy tạo Tháp Tokyo sao cho người xem cảm nhận được độ cao khi ngước nhìn từ mặt đất và độ tinh xảo của hệ kết cấu thép khi đến gần.
-Chuẩn bị cả phiên bản ngày và đêm: ban ngày làm nổi bật kết cấu và lớp sơn, ban đêm thể hiện vẻ đẹp của hệ thống chiếu sáng.
-
-Tôi muốn tác phẩm tạo cảm giác như người thực hiện đã quan sát và nghiên cứu kỹ Tháp Tokyo. Không chỉ tái hiện hình dáng tổng thể, hãy nghiên cứu và thể hiện các chi tiết đặc trưng như độ mở của các chân tháp, cách lắp ghép hệ kết cấu thép, đài quan sát và các tòa nhà ở phần chân tháp. Có thể giới hạn khu đô thị xung quanh ở mức đủ để truyền tải quy mô và không khí của vị trí của tháp.
-
-【Quy trình thực hiện】
-・Nghiên cứu tài liệu và ảnh chính thức, sau đó xác định các đặc điểm cần tái hiện cùng thứ tự ưu tiên.
-・Dựa trên kết quả nghiên cứu, đưa ra hướng dẫn制作 cụ thể cho từng tác vụ phụ.
-・Kiểm tra bản xem trước 3D thực tế từ giai đoạn sớm, rồi điều chỉnh hình dáng, bố cục và độ sáng.
-・Tự xem các ảnh hoặc video hoàn thiện, phát hiện điểm bất thường hay thiếu sót và yêu cầu chỉnh sửa.
-・Tự chủ quyết định các lựa chọn kỹ thuật chi tiết và bố cục quay, rồi tiếp tục thực hiện đến khi hoàn thành.
-
-Không được chỉ dùng nền dán ảnh chụp hoặc ảnh tạo sinh để thay thế; hãy thể hiện bằng hình học 3D thực tế và chuyển động camera. Hãy ghi lại những thông tin đã xác minh được cũng như các phần suy đoán do thiếu tư liệu.
-
-【Video】
-Dài khoảng 30 giây. Kết hợp góc ngước nhìn từ mặt đất, cận cảnh hệ kết cấu thép hoặc đài quan sát và góc rộng cho thấy toàn bộ tòa tháp; đồng thời thể hiện sự chuyển đổi giữa ngày và đêm.
-Hãy dựa trên mẫu 3D hoàn thiện để tự quyết định cách phân bổ thời lượng và cấu trúc truyền tải sức hấp dẫn tốt nhất; không cần chia giây quá chi tiết.
-
-【Bàn giao】
-・Dữ liệu Blender có thể chỉnh sửa
-・Video MP4 để đăng trên X
-・Ảnh xem trước toàn cảnh và chi tiết ban ngày, ban đêm
-・Bản nháp nội dung đăng ngắn
-・README ghi rõ nguồn tư liệu, phạm vi tái hiện và kết quả kiểm chứng
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102276620124062065) · [Bài đăng gốc](https://x.com/wafffle_dev/status/2102276620124062065) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2102300855387205871"></a>
-
-### Bubble Bay: Đại chiến bóng nước 3D
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-22
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/bubble-bay"><img src="../assets/previews/a6388a44fe0643ef6046fd81612e8f646c9405ef5f34c9d7957ab5acf195687f.png" width="840" loading="lazy" alt="Bubble Bay: Đại chiến bóng nước 3D"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/bubble-bay"><img src="../assets/previews/c17ac835ad48457b99d51bd3e9981ddf79d0509864c962b18600ed005f54b2ee.png" width="840" loading="lazy" alt="Bubble Bay: Đại chiến bóng nước 3D"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/bubble-bay"><img src="../assets/previews/f008177cfe2af1b56ab3025f094b3a7232c58b4155b98cbb70e9a52c02df48ee.png" width="840" loading="lazy" alt="Bubble Bay: Đại chiến bóng nước 3D"></a>
-
-Xây dựng một trận chiến bóng nước 3D với các nhân vật mặc trang phục nguyên bản Langya, Shantao và Tuanli, mô hình P2 có hoạt ảnh, đấu trường Pirate14 và Village10, camera bám theo cự ly gần và camera tổng quan có thể thu phóng, đối thủ AI, trận đấu với mục tiêu 6 lần bắt, tính năng nhập nhân vật tùy chỉnh và nhạc nguyên bản từ ElevenLabs.
-
-**Prompt**
-
-```text
-Xây dựng Bubble Bay, một đấu trường bóng nước Three.js có thể chơi được, với phong cách nhân vật mặc trang phục quen thuộc của các game bong bóng kinh điển: đầu to, thân ngắn và khuôn mặt lộ rõ. Mặc định sử dụng các mô hình Tripo chi tiết, kèm công tắc so sánh hình học Three.js rõ ràng nhưng vẫn giữ nguyên trận đấu. Sử dụng ba nhân vật mới: Langya, Shantao và Tuanli. Bám sát các bản tham khảo ý tưởng/mô hình nhân vật mới được cung cấp, giữ nguyên dáng tổng thể, khuôn mặt, màu sắc và trang phục.
-
-Langya là một cậu bé người năng động, đội mũ trùm màu xanh ngọc với một mào sóng ngang liền mạch, cổ áo và cổ tay áo màu cam, quần short xanh navy, giày xanh ngọc đế cam. Shantao là một cô bé người nhỏ nhắn với tóc bob màu mận sẫm, mũ bonnet hồng đào với ba chi tiết cánh hoa ngắn ở mỗi bên, áo khoác xanh bạc hà, quần yếm short màu mận và bốt vàng nhạt. Tuanli là một cậu bé người mũm mĩm, thân hình quả lê bè rộng, đội mũ đệm tròn màu caramel viền mặt màu kem, áo khoác ngắn xanh teal, phần bụng dưới màu kem và bốt xanh navy. Cả ba đều có khuôn mặt trẻ em màu da ấm, mắt bầu dục tối giản màu sẫm và nụ cười nhỏ. Đây là những đứa trẻ trong các bộ trang phục được thiết kế mới; không biến các em thành sinh vật dưới nước theo nghĩa đen và không dùng lại những bộ trang phục nhân vật cũ dễ nhận ra. Tạo riêng từng nhân vật bằng Tripo CLI với tripo-p2 được chỉ định rõ ràng cùng các ảnh mặt trước/mặt sau độc lập, sau đó gắn bộ xương hai chân và skin hợp lệ. Hoạt ảnh đứng yên/chạy/nhảy phải điều khiển các khớp thực tế; kiểm tra chuyển động, chỉnh trọng số cho mũ, giày và cơ thể, đồng thời ghi nhận chính xác nguồn gốc tài sản. Nếu chuyển động được tạo tại chỗ, hãy ghi rõ đó là chuyển động tự tạo.
-
-Tên bản địa hóa: 浪芽 / 랑야 / Langya, 珊桃 / 산타오 / Shantao, 团栗 / 퇀리 / Tuanli. Cấp độ sức chứa/tầm ném/tốc độ ban đầu: 1/1/6, 1/2/5, 2/1/4; giới hạn: 6/7/9, 6/7/8, 9/8/8. Quy đổi tốc độ thành 0.25 + cấp độ*0.8 đơn vị thế giới mỗi giây; mỗi ô rộng 2 đơn vị. Khi chọn một nhân vật, gán hai nhân vật còn lại làm các đối thủ riêng biệt với hồ sơ tương ứng. Giữ nguyên bán kính va chạm trong gameplay, bất kể dáng vẻ mũm mĩm của nhân vật.
-
-Mặc định cung cấp Pirate/Patrit14 kích thước 15x13 và Village10. Giữ các đặc điểm dễ nhận ra: boong tàu màu vàng kim, hàng hóa màu vàng, thùng gỗ, bốn khẩu pháo và cột buồm trung tâm; ngôi làng có bốn khu nhà màu sắc khác nhau, một con đường trung tâm, hàng rào cây và các khối đồ chơi. Dùng bản đồ của nhà phát hành làm tài liệu tham khảo, tự dựng đồ họa khi chạy và ghi chú các lối mở tuyến đường nhỏ cần thiết cho chuyển động 3D liên tục cũng như việc AI tìm đường thoát. Cung cấp vật liệu sáng, bóng đổ, cảnh đại dương, camera bám theo và camera tổng quan rõ ràng.
-
-Một người chơi đối đầu với hai đối thủ AI phối hợp. WASD/phím mũi tên để di chuyển, F đặt một quả bóng nước có thời gian nổ 2,5 giây, Space nhảy lên các nền tảng thực, Shift lướt nhanh, Q/E xoay quanh, V đổi góc nhìn và Escape tạm dừng. Dòng nước hình chữ thập phải tôn trọng chướng ngại vật, phá khối mềm đầu tiên và nối chuỗi các quả bóng. Triển khai cơ chế mắc bẫy, thoát bẫy, bắt đối thủ, hồi sinh; cho phép chọn mục tiêu 3, 6, 9 hoặc 12 lần bắt (mặc định 6), hoặc tính điểm trong 180 giây, kèm màn hình kết quả và chơi lại. Cần hỗ trợ đồng thời cần điều khiển cảm ứng và các nút hành động.
-
-Sử dụng sáu vật phẩm nhặt được do Tripo tạo: bóng bay, thuốc tăng tầm, giày trượt patin, găng tay ném, giày đá và kim cứu hộ. Thùng rơi vật phẩm với xác suất 85%. Tỉ lệ trọng số vật phẩm có điều kiện: 30/30/30/2,5/3,5/4 phần trăm. Găng tay thêm ba lần ném, tối đa sáu lần. G ném một quả bóng ở gần đi tối đa bốn ô qua vật che chắn, giữ nguyên chủ sở hữu và thời gian cháy ban đầu, đồng thời giữ chỗ đáp và hiển thị quỹ đạo. Nếu bóng hết thời gian cháy khi đang bay, nó sẽ đáp xuống và phát nổ. K đẩy bóng trượt cho đến khi bị chặn mà không đặt lại thời gian cháy. X sử dụng kim cứu hộ, bắt đầu từ một kim và tối đa ba kim. Hiển thị rõ kho đồ và các điều khiển khả dụng.
-
-Giao diện người dùng bằng tiếng Trung, tiếng Anh và tiếng Hàn: múi giờ IANA của Trung Quốc đại lục chọn tiếng Trung, Hàn Quốc/Bắc Triều Tiên chọn tiếng Hàn, tất cả khu vực khác, bao gồm Hong Kong/Macao/Đài Loan, chọn tiếng Anh. Lựa chọn thủ công luôn được ưu tiên. Chỉ cho phép tải lên GLB có kết cấu nhúng, không nén tiêu chuẩn, thực sự có skin, tối đa 40 MB và 150k tam giác. Kiểm tra xương, khớp và trọng số; từ chối mô hình tĩnh; dùng hoạt ảnh nhúng nếu có; cung cấp chuyển động khớp cơ bản cho nhân vật hình người được nhận diện khi không có clip. Bộ xương không được nhận diện phải có hoạt ảnh. Giải thích rõ ràng sự khác nhau giữa rigging và animation, cung cấp điều chỉnh hướng 90 độ, xử lý cục bộ ngay trên trình duyệt và gán chỉ số ổn định, cân bằng dựa trên mã băm của tệp.
-
-Dùng chính xác https://studio.tripo3d.ai/?utm_source=satellite_invite&utm_medium=bubble-bay&utm_campaign=create-character cho CTA tạo. Ghi công jared, liên kết tới https://x.com/jaredliu_bravo .
-
-Tích hợp 13 hiệu ứng âm thanh ElevenLabs với chuẩn hóa âm lượng, độ tắt ngắn, khoảng cách/pan, giới hạn đa âm, âm lượng và tắt tiếng: đặt bóng, nổ, thùng, nhặt vật phẩm, vật phẩm hiếm, ném, đáp, mắc bẫy, cứu hộ, nhảy, chiến thắng, thất bại, đá. Tạo hai bản nhạc không lời nguyên bản bằng ElevenLabs music_v2_5, mỗi bản dài 90 giây, phù hợp với bản đồ hải tặc trên biển và khu dân cư đầy nắng. Chuẩn hóa về mục tiêu tiết chế -20 LUFS và crossfade tại điểm lặp. Cho nhạc một thanh âm lượng riêng, đổi bản nhạc theo bản đồ, giảm dần khi tạm dừng và tuân theo chế độ tắt tiếng tổng. Không sao chép nhạc nền của game gốc.
-
-Giữ mã nguồn, dependency, bài kiểm thử và nguồn gốc tài sản độc lập, bên ngoài các ứng dụng trên nền tảng CMS. Đóng gói tài nguyên tĩnh cùng origin và thông báo MIT. Kiểm tra gameplay thực tế trên máy tính và thiết bị cảm ứng, các biến thể tải lên, ngôn ngữ và việc chuyển đổi hình ảnh trong Ego Lite. Tạo một phiên bản đánh giá bất biến, gắn với CMS Web Page 12 hiện có; giữ nguyên bản phát hành đang hoạt động trong khi chờ đánh giá. Chỉ phát hành khi nguồn và quyền sử dụng tài sản được xác nhận trung thực, sau đó kiểm tra URL công khai, mã băm mô hình và hành vi. Bảo toàn lịch sử, đồng thời phân biệt rõ bản ghi CMS đã lưu, bản xem trước và bản phát hành công khai.
-
-Tải tài sản mô hình với thanh tiến trình hiển thị, tối đa ba lượt tải đồng thời, thời gian chờ khi không hoạt động 30 giây và hai lần thử. Giữ lại các lượt tải thành công khi thử lại. Ẩn toàn bộ công tắc tab Tripo / Three.js cho đến khi tất cả mô hình sẵn sàng, sau đó mới hiển thị. Không gắn nhãn các placeholder tải theo quy trình là mô hình Tripo đã tải.
-
-
-Sử dụng camera bám theo phối cảnh cự ly gần, bắt đầu ở bên ngoài khu vực xuất hiện và hướng về trung tâm đấu trường. Giữ thao tác xoay Q/E, kéo chuột để điều chỉnh góc nghiêng và chế độ tổng quan bằng V. Đặt bảng điểm gọn ở phía trên, công tắc chế độ ở góc trên bên trái và thông báo ngắn gần phía dưới. Ẩn cần điều khiển và các nút cảm ứng lớn trên máy tính dùng chuột, nhưng giữ lại các điều khiển vật phẩm hiếm nhỏ; hỗ trợ thao tác cảm ứng đồng thời gọn trên màn hình hẹp. Thêm shader sóng động với biến thiên độ sâu màu teal, các đảo cát hữu cơ với cây cọ cong và đá, kết cấu vân gỗ và cỏ tinh tế. Bao quanh mỗi nhân vật bị mắc bẫy bằng một quả bóng trong suốt có kích thước phù hợp, viền Fresnel óng ánh, chuyển động lơ lửng nhẹ, các bong bóng nhỏ và gợn nước trên mặt đất. Kiểm tra các đỉnh skin sau khi tạo dáng vừa khít, đặt lại độ nâng khi cứu hộ và kiểm tra việc giải phóng tài nguyên sau nhiều lần chuyển đổi. Tránh các pass transmission tốn kém trên toàn cảnh cho màng nước; giới hạn pixel ratio ở màn hình hẹp ở mức 1.5.
-
-
-Cung cấp các điều khiển camera Follow / Overview hiển thị rõ ràng và chuyển đổi bằng V. Ở chế độ Overview, hỗ trợ thu phóng từ 100 đến 300 phần trăm bằng các nút +/−, con lăn chuột và thao tác chụm hai ngón tay, kèm kéo bản đồ trong giới hạn và nút đặt lại Fit map. Giữ nguyên mức thu phóng và trận đấu đang diễn ra khi chuyển camera hoặc phiên bản kết xuất. Duy trì các điều khiển vật phẩm hiếm gọn, không chồng lấp bằng tiếng Trung, tiếng Anh và tiếng Hàn.
-
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/bubble-bay) · [Bài đăng gốc](https://x.com/jaredliu_bravo/status/2102300855387205871) · [Bản demo](https://bubble-bay.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2102411087002112256"></a>
-
-### Game tower defense phong cách Sir, We Have Orc Problems
-
-[nkz/ぴたすぽ](https://x.com/nikzu_) · 2026-09-22
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/orc-tower-defense-game"><img src="../assets/previews/7ff7139cf9a4704071346a2f8e48c6da2922a9543faa8bd80454119406b69020.png" width="840" loading="lazy" alt="Game tower defense phong cách Sir, We Have Orc Problems"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/orc-tower-defense-game"><img src="../assets/previews/497787bc84475fd87250548238200c034f565a9dcc7641b0ceccf733ce860152.jpg" width="840" loading="lazy" alt="Game tower defense phong cách Sir, We Have Orc Problems"></a>
-
-Prompt người đăng yêu cầu Astra tạo một game tower defense giống Sir, We Have Orc Problems.
-
-**Prompt**
-
-```text
-Hãy tạo một game tower defense giống Sir, We Have Orc Problems.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/orc-tower-defense-game) · [Bài đăng gốc](https://x.com/nikzu_/status/2102411087002112256) · [Về danh sách ví dụ](#all-prompts)
-
----
 
 <a id="2102473710724919614"></a>
 
@@ -3696,6 +3374,28 @@ Xuất ra một tệp HTML duy nhất, hoàn thiện và chỉn chu.
 
 ---
 
+<a id="2113722581610033330"></a>
+
+### Trò chơi Minecraft trên trình duyệt với cổng End hoạt động
+
+[starmex](https://x.com/starmexxx) · 2026-10-23
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/browser-minecraft-game-working-end-portal"><img src="../assets/previews/6a90488e8a5e36abb4163a89e8ebb2d520f09472c068e038603b6611e99ff05f.jpg" width="840" loading="lazy" alt="Trò chơi Minecraft trên trình duyệt với cổng End hoạt động"></a>
+
+Prompt tạo một trò chơi Minecraft hoàn chỉnh trên trình duyệt, với tiến trình từ một ngôi làng qua lò rèn, các mỏ, Nether và thành trì có cổng End hoạt động.
+
+**Prompt**
+
+```text
+xây dựng một trò chơi Minecraft hoàn chỉnh trên trình duyệt
+
+làng → lò rèn → mỏ → Nether → thành trì có cổng End hoạt động
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/browser-minecraft-game-working-end-portal) · [Bài đăng gốc](https://x.com/starmexxx/status/2113722581610033330) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="2113849897438834851"></a>
 
 ### Sân bay pixel-art tương tác Windsock Field
@@ -3723,6 +3423,225 @@ UI (tiếng Anh, giao diện sáng và tối): dòng dẫn "Pixel diorama · Air
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/windsock-field-interactive-pixel-art-airfield) · [Bài đăng gốc](https://x.com/vib3coded/status/2113850194106167681) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2113900384695755129"></a>
+
+### Cảnh 3D thủ tục phức tạp với Three.js
+
+[安伈XinAn](https://x.com/AnXin_37) · 2026-10-24
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/procedural-threejs-3d-scene-2"><img src="../assets/previews/15aaac47d06f44e31e64092f3a89b0539ddd464e163c4bfdd7b475a935b0112d.jpg" width="840" loading="lazy" alt="Cảnh 3D thủ tục phức tạp với Three.js"></a>
+
+Tác giả bài đăng cho biết đã sử dụng câu lệnh tiếng Anh ở phần mở đầu video quảng bá trước khi Kimi 3.1 Pro ra mắt, đồng thời giới thiệu kết quả thành phố 3D lơ lửng có tính tương tác và được tạo thủ tục bằng GPT Astra trong Codex như tác giả mô tả. Câu lệnh này yêu cầu xây dựng một cảnh 3D thủ tục phức tạp bằng Three.js.
+
+**Prompt**
+
+```text
+Xây dựng một cảnh 3D thủ tục phức tạp bằng Three.js.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/procedural-threejs-3d-scene-2) · [Bài đăng gốc](https://x.com/AnXin_37/status/2113900384695755129) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2113978820302708888"></a>
+
+### Đồ chơi chim cánh cụt lông xù tương tác được tạo bằng hình học thủ tục
+
+[Fazley \| AI Lab](https://x.com/itsfazley) · 2026-10-24
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-procedural-fluffy-penguin-toy"><img src="../assets/previews/ca996e23818181a4c72eb92c96df797c6b4391a4c6deaedb32d6fec933eb8218.jpg" width="840" loading="lazy" alt="Đồ chơi chim cánh cụt lông xù tương tác được tạo bằng hình học thủ tục"></a>
+
+Một bình luận của tác giả đã được xác minh cung cấp prompt cho đồ chơi chim cánh cụt 3D lông xù tương tác, được tạo hoàn toàn bằng hình học thủ tục. Prompt này yêu cầu tương tác thân mềm có thể kéo thả, hệ lông tối ưu cho GPU, chuyển động lạch bạch, ánh sáng studio và một ứng dụng Three.js, TypeScript, Vite hoạt động hoàn chỉnh, không dùng mô hình hay kết cấu bề mặt bên ngoài. Bài đăng gốc cho biết cùng một prompt đã được cung cấp cho cả Opus 5.5 và Astra 6.
+
+**Prompt**
+
+```text
+Tạo một đồ chơi chim cánh cụt 3D lông xù, đáng yêu và có tính tương tác bằng Three.js.
+
+Dựng chim cánh cụt hoàn toàn bằng hình học thủ tục. Tạo cho nó một
+cơ thể tròn màu đen và trắng, đôi cánh nhỏ, bàn chân màu cam, chiếc mỏ nhỏ,
+đôi mắt biểu cảm và hàng nghìn sợi lông được hoạt ảnh riêng lẻ.
+
+TƯƠNG TÁC:
+- Nhấp và kéo để chọc, đẩy hoặc kéo chim cánh cụt.
+- Thân mềm phải có thể bị bóp méo, lắc lư và nảy lên.
+- Chim phải ngã khi bị đẩy và cố gắng tự đứng dậy.
+- Tạo chuyển động lạch bạch đáng yêu khi đứng yên.
+- Cho lông phản ứng cục bộ với tương tác và chuyển động của con trỏ.
+
+HÌNH ẢNH:
+- Lông xù chân thực bằng các kỹ thuật tối ưu cho GPU.
+- Ánh sáng studio dịu, bóng đổ tiếp xúc và nền màu pastel gọn gàng.
+- Chuyển động mượt mà, thuyết phục về mặt vật lý.
+- Giao diện tối giản, hoàn thiện chỉn chu.
+
+Sử dụng Three.js, TypeScript và Vite. Không dùng mô hình hay kết cấu bề mặt bên ngoài.
+Tối ưu để đạt hiệu năng mượt mà theo thời gian thực.
+
+Xây dựng một ứng dụng hoạt động hoàn chỉnh, không phải bản mô phỏng giao diện. Kiểm tra các tương tác
+và sửa lỗi.
+
+Ưu tiên sự đáng yêu, cảm giác vật lý chân thực khi chạm, bộ lông chi tiết và một
+màn trình diễn hình ảnh 10 giây đáng nhớ. Tránh các tính năng không cần thiết.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-procedural-fluffy-penguin-toy) · [Bài đăng gốc](https://x.com/itsfazley/status/2113978821271523697) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2114049877189480835"></a>
+
+### Lâu đài cổ tích lấy cảm hứng từ Disney trên đảo đá
+
+[Mugi](https://x.com/reMugi3) · 2026-10-24
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/fairytale-castle-rocky-island-3d-scene"><img src="../assets/previews/8c9027c7b9e095b82dc4ee7cdec3cc8a3548c9af159654db17a0474c7c7ccf39.jpg" width="840" loading="lazy" alt="Lâu đài cổ tích lấy cảm hứng từ Disney trên đảo đá"></a>
+
+Prompt chi tiết để tạo cảnh lâu đài 3D cách điệu, hoàn thiện cao: một lâu đài cổ tích bằng đá màu ngà với các tháp mái xanh trên đảo đá, nối với bờ bằng cầu đá vòm. Bối cảnh giờ xanh được yêu cầu gồm mặt nước tĩnh lặng có phản chiếu, rừng thông, núi ở xa, các ô cửa sổ ánh hổ phách và bố cục chính diện góc ba phần tư, hơi chếch từ trên cao. Tác giả gốc cho biết prompt này đã được thử nghiệm với ChatGPT 6 cùng ba mô hình khác trong Blender.
+
+**Prompt**
+
+```text
+Tạo một lâu đài cổ tích lấy cảm hứng từ Disney trên đảo đá hình tròn, bao quanh bởi mặt nước tĩnh lặng.
+
+Sử dụng đá màu ngà ấm, một khối tháp trung tâm cao và nhiều tầng tháp nhỏ hơn. Thêm các tháp nhọn thanh mảnh với mái hình nón xanh đậm, chóp trang trí mạ vàng và những lá cờ nhỏ màu vàng. Tạo đường nét tổng thể xoay quanh một ngọn tháp trung tâm nổi bật.
+
+Bao gồm lối vào lớn dạng vòm, cửa sổ phát sáng màu hổ phách, cột trang trí, ban công và tường thành bằng đá. Giữ mặt tiền chính đối xứng, với các tòa tháp có độ cao đa dạng tạo chiều sâu phía sau.
+
+Nối lối vào với bờ bên phải bằng một cây cầu đá dài, được đỡ bởi nhiều vòm. Bố trí các đèn vàng nhỏ dọc theo lan can cầu.
+
+Bao quanh hòn đảo bằng rừng thông tối màu và những dãy núi ở xa. Đặt bối cảnh vào giờ xanh, với bầu trời xanh navy, những vì sao mờ, ánh sáng ấm và phản chiếu dịu trên mặt nước.
+
+Thể hiện toàn bộ lâu đài và cây cầu từ góc nhìn chính diện ba phần tư, hơi chếch từ trên cao. Sử dụng tỷ lệ thanh nhã và phong cách 3D cách điệu, hoàn thiện cao với các chi tiết kiến trúc sắc nét. Không có chữ, logo hoặc thành phần giao diện.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/fairytale-castle-rocky-island-3d-scene) · [Bài đăng gốc](https://x.com/reMugi3/status/2114049880750465238) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2114056027641413870"></a>
+
+### Chiến thuyền Hy Lạp cổ đại mang phong cách điện ảnh trong Blender
+
+[kairos](https://x.com/ka1r0seve) · 2026-10-24
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/ancient-greek-warship-blender-model"><img src="../assets/previews/9491fbc085f23de6e1df0b8df4103690797907ec53910315f2c400494b84db14.jpg" width="840" loading="lazy" alt="Chiến thuyền Hy Lạp cổ đại mang phong cách điện ảnh trong Blender"></a>
+
+Một prompt do tác giả bài đăng chia sẻ, dùng cùng một nhiệm vụ cho nhiều mô hình, trong đó có ChatGPT 6. Prompt yêu cầu tạo mô hình chiến thuyền Hy Lạp cổ đại bằng Python trong Blender, có thể chỉnh sửa hoàn toàn, với phần thân tàu được dựng chi tiết, hệ thống rigging, vật liệu dựa trên quy luật vật lý và môi trường biển.
+
+**Prompt**
+
+```text
+Tạo một chiến thuyền Hy Lạp cổ đại mang phong cách điện ảnh trong Blender, lấy cảm hứng từ chuyến hải hành của Odysseus và con tàu Adrestia trong Assassin’s Creed Odyssey.
+
+Dựng một mô hình 3D thực tế, có thể chỉnh sửa hoàn toàn bằng Python trong Blender. Hướng đến độ chân thực và bầu không khí như trong một bộ phim phiêu lưu lịch sử.
+
+MODEL
+Tạo thân tàu gỗ thanh thoát, thuôn dài, với mũi tàu cong và đuôi tàu nâng cao. Dựng riêng từng tấm ván thân tàu, các sườn kết cấu, ván boong, lan can, ghế chèo, mũi đâm bằng đồng và tượng trang trí ở mũi tàu. Bố trí khiên dọc hai bên mạn, cuộn dây thừng, thùng gỗ, bệ buộc dây, ròng rọc và hệ thống rigging hợp lý.
+
+Sử dụng một cột buồm chính duy nhất với cánh buồm vuông màu đỏ burgundy đang căng phồng, biểu tượng đại bàng vàng, các mảng vải được may ghép, mép gia cố và dấu hiệu hao mòn nhẹ. Giữ thiết kế mang đậm đặc trưng Hy Lạp cổ đại.
+
+MATERIALS
+Sử dụng vật liệu dựa trên quy luật vật lý: gỗ chịu thời tiết với thớ gỗ hiện rõ, đồng cũ với lớp patina tiết chế, vải buồm dệt thô và dây thừng bện. Thêm các cạnh vát chân thực cùng những khuyết điểm bề mặt tinh tế. Đảm bảo tỷ lệ và kết cấu nhất quán.
+
+CẢNH VÀ HOẠT ẢNH
+Đặt con tàu trên vùng biển màu xanh ngọc với những con sóng nhấp nhô, vệt sóng bọt phía sau, các đảo đá ở xa, màn sương khí quyển và ánh nắng ấm áp.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/ancient-greek-warship-blender-model) · [Bài đăng gốc](https://x.com/ka1r0seve/status/2114056030661251276) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2114060132610957601"></a>
+
+### Mô hình ngựa thành Troy điện ảnh trong Blender
+
+[cranger](https://x.com/crangerus) · 2026-10-24
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/cinematic-trojan-horse-blender-model"><img src="../assets/previews/b27194171932f2781f390182c4c6642fb474c7f06be49c02a17c9c03a660d095.jpg" width="840" loading="lazy" alt="Mô hình ngựa thành Troy điện ảnh trong Blender"></a>
+
+Tác giả chia sẻ bản mô tả đầy đủ này làm prompt chung trong một bài so sánh có ChatGPT 6 tham gia. Prompt yêu cầu một mô hình ngựa thành Troy có thể chỉnh sửa trong Blender, với kết cấu gỗ nhiều lớp, khung bên trong, bệ có bánh xe và bối cảnh chạng vạng giông bão bên ngoài cổng thành Troy, cùng một ảnh tĩnh 1920×1080.
+
+**Prompt**
+
+```text
+Tạo một mô hình ngựa thành Troy điện ảnh, nhiều chi tiết trong Blender, lấy cảm hứng từ quy mô hùng vĩ và bầu không khí u tối của The Odyssey.
+
+Dựng một con ngựa gỗ khổng lồ đang chồm bằng hai chân sau, với cổ cong, mõm rõ nét, tai nhọn, ngực rộng và hai chân trước gập lại. Giữ dáng tổng thể thanh thoát và dễ nhận diện.
+
+Tạo thân ngựa từ các tấm ván gỗ ngang xếp chồng, ôm theo những đường cong của cơ thể. Mỗi tấm ván cần có độ dày, cạnh vát, thớ gỗ hiện rõ, các khe hẹp và dấu hiệu phong hóa nhẹ. Sử dụng nhiều sắc độ gỗ sồi và óc chó tối màu.
+
+Bổ sung khung kết cấu bên trong hợp lý gồm các sườn cong, dầm ngang và giằng chéo. Thêm đinh tán bằng đồng, đai sắt tối màu, các mối nối gia cố, một cửa hông kín đáo và dây cương bằng đồng phong hóa. Dựng bờm từ các gờ gỗ ngắn, còn đuôi từ những đoạn gỗ cong.
+
+Đặt ngựa lên một bệ gỗ hình chữ nhật chắc nặng, có trục bánh xe lộ rõ và bốn bánh xe gỗ lớn có nan hoa, viền sắt. Đảm bảo mọi giá đỡ và mối nối đều thuyết phục về mặt kết cấu.
+
+Đặt mô hình bên ngoài những cổng đá đồ sộ của thành Troy, cạnh bờ biển. Bao quanh là lều vải, giá treo khiên, giáo, vò hai quai, các đống gỗ xếp chồng, dây thừng cuộn, giàn giáo gỗ và đuốc đang cháy. Thêm vài con tàu Hy Lạp cổ với cánh buồm vuông màu đỏ sẫm dọc theo bờ biển. Bổ sung một vài lính gác mặc giáp đồng để tạo cảm nhận về quy mô.
+
+Đặt bối cảnh vào lúc chạng vạng giông bão, với mây xanh xám, ánh sáng môi trường lạnh, ánh lửa ấm và khói tiết chế. Sử dụng vật liệu gỗ chân thực, kim loại phong hóa và đá thô, với bóng tiếp xúc rõ ràng.
+
+Bố cục góc nhìn thấp từ phía trước, chếch ba phần tư. Giữ toàn bộ con ngựa trong khung hình, đầu ngựa nổi bật trên nền trời, cổng thành ở phía sau và những con tàu lệch sang một bên. Hướng đến cảm giác nặng nề và bầu không khí như một trường quay phim thực tế.
+
+Chỉ tạo một cảnh tĩnh. Không có hoạt ảnh, văn bản, logo hoặc thành phần giao diện.
+
+Xuất tệp .blend có thể chỉnh sửa, đóng gói đầy đủ kết cấu, cùng một ảnh tĩnh chất lượng cao ở độ phân giải 1920×1080. Kiểm tra các vật thể bị lơ lửng, hình học giao nhau và vật liệu bị thiếu.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/cinematic-trojan-horse-blender-model) · [Bài đăng gốc](https://x.com/crangerus/status/2114060135769252111) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2114080244046954999"></a>
+
+### Dựng Tháp Eiffel
+
+[Sam](https://x.com/SamgreyAi) · 2026-10-24
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/eiffel-tower-3d-model"><img src="../assets/previews/61f5c719ad5f737e6626a3ea60741f2338e6f4f4c6cc13d41d74796335bb98c8.jpg" width="840" loading="lazy" alt="Dựng Tháp Eiffel"></a>
+
+Prompt được trích dẫn trong phần so sánh bốn mô hình AI của tác giả, bao gồm GPT-6 Astra, nhằm dựng Tháp Eiffel. Kết quả được yêu cầu là một mô hình Tháp Eiffel 3D.
+
+**Prompt**
+
+```text
+dựng Tháp Eiffel.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/eiffel-tower-3d-model) · [Bài đăng gốc](https://x.com/SamgreyAi/status/2114080244046954999) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2114092197595201850"></a>
+
+### Tàu hơi nước 3D cũ kỹ, chi tiết cao
+
+[BuBBliK](https://x.com/k1rallik) · 2026-10-24
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/weathered-steam-train-blender-model"><img src="../assets/previews/40542a22b7101676531da4f21fc9eeb2fd4efffa61182d4e761bf5ed525a4ae7.jpg" width="840" loading="lazy" alt="Tàu hơi nước 3D cũ kỹ, chi tiết cao"></a>
+
+Tạo một scene Blender có thể chỉnh sửa, bao gồm đầu máy hơi nước màu đen cũ kỹ, toa chở than và hai toa hành khách mang phong cách cổ điển. Prompt yêu cầu cấu tạo cơ khí chi tiết, vật liệu kim loại lão hóa, dấu vết tuyết và muội than, nội thất toa tàu phát sáng cùng các bộ phận có texture được đóng gói và đặt tên hợp lý. Tác giả gốc cho biết đã gửi cùng prompt này cho ChatGPT 6 và các mô hình khác.
+
+**Prompt**
+
+```text
+Tạo một đoàn tàu hơi nước 3D chi tiết, lấy cảm hứng từ không khí của Clair Obscur: Expedition 33.
+
+Dựng một đầu máy màu đen cũ kỹ với nồi hơi hình trụ dài, ống khói loe, buồng lái mở và các bánh chủ động lớn có nan hoa. Thêm thanh truyền, piston, đường ống lộ thiên, van, đinh tán, thang, tay vịn, bộ đệm và đèn pha phát ánh sáng ấm.
+
+Gắn một toa chở than và hai toa hành khách mang phong cách cổ điển. Tạo cho các toa mái cong, cửa sổ có khung, cụm bánh xe lộ rõ, chi tiết gầm toa và nội thất phát sáng dịu. Kết nối mọi phương tiện bằng các khớp nối đáng tin cậy, với tỷ lệ nhất quán.
+
+Sử dụng sắt lão hóa, thép mòn, một chút gỉ sét, muội than và dấu vết tuyết trên các bề mặt hướng lên trên. Giữ vật liệu chân thực, phản chiếu vừa phải và thể hiện rõ độ mòn quanh các khớp nối, cạnh viền.
+
+Ưu tiên dáng tổng thể thanh thoát, cấu tạo cơ khí thuyết phục và chi tiết bề mặt tinh tế. Mọi bộ phận phải tạo cảm giác nặng, hoạt động được và được kết nối đúng cách.
+
+Xuất toàn bộ đoàn tàu thành một scene Blender có thể chỉnh sửa, với các bộ phận được đặt tên hợp lý và texture được đóng gói. Chỉ dựng đầu máy, toa chở than và hai toa hành khách. Không thêm môi trường xung quanh, văn bản hoặc logo.
+
+Giữ chi phí sử dụng API tính theo đồng hồ dưới 5 USD và báo cáo chi phí thực tế.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/weathered-steam-train-blender-model) · [Bài đăng gốc](https://x.com/k1rallik/status/2114092201240346897) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -4064,7 +3983,7 @@ Xuất bản prompt jelly-villa mới, ghi công jared, ghi tác giả gốc tro
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 362 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 370 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>
