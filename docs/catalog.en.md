@@ -29,7 +29,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**370 examples · 14 languages · 12 examples with source code**
+**376 examples · 14 languages · 12 examples with source code**
 
 ## Featured projects
 
@@ -39,7 +39,7 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/featured/crazy-tanks-3d-island-artillery.webp" width="420" loading="lazy" alt="Crazy Tanks — 3D Island Artillery"></a><br><strong><a href="#crazy-tanks-3d-island-artillery">Crazy Tanks — 3D Island Artillery</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="#crazy-tanks-3d-island-artillery">Prompt →</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/battle-city-3d"><img src="../assets/featured/battle-city-3d.webp" width="420" loading="lazy" alt="Battle City 3D: Endless Tank Defense"></a><br><strong><a href="#battle-city-3d">Battle City 3D: Endless Tank Defense</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="#battle-city-3d">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/battle-city-3d"><img src="../assets/featured/battle-city-3d.webp" width="420" loading="lazy" alt="Battle City 3D: Endless Tank Defense"></a><br><strong><a href="https://www.tripo3d.ai/3d-prompts/battle-city-3d">Battle City 3D: Endless Tank Defense</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="https://www.tripo3d.ai/3d-prompts/battle-city-3d">Prompt →</a></td>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/titanic-the-last-light"><img src="../assets/featured/titanic-the-last-light.webp" width="420" loading="lazy" alt="TITANIC — The Last Light"></a><br><strong><a href="https://www.tripo3d.ai/3d-prompts/titanic-the-last-light">TITANIC — The Last Light</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="https://www.tripo3d.ai/3d-prompts/titanic-the-last-light">Prompt →</a></td>
 </tr>
 </table>
@@ -51,11 +51,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 <details>
 <summary>Browse examples</summary>
 
-- [Two-story suburban house with interior](#2102473710724919614)
-- [3D kart racer in a single HTML file](#2102652927177617564)
-- [Medieval castle browser animation](#2102672926285713456)
-- [Orbit Lab: A 3D Simulation of the Sun, Earth, and Moon](#2102752217375899659)
-- [Browser-Based Medieval European-Style 3D Castle](#2102780850706567390)
 - [Interactive 3D Chessboard for Studying Chess Gambits](#2102788013902213508)
 - [Infinite solarpunk city shader](#2102826333550133520)
 - [First-person burger simulator](#2102897258983313712)
@@ -146,130 +141,18 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Cinematic Trojan Horse Model in Blender](#2114060132610957601)
 - [Build the Eiffel Tower](#2114080244046954999)
 - [Detailed weathered 3D steam train](#2114092197595201850)
+- [Artisanal 1800s pistol with Blender MCP](#2114671379455119514)
+- [Fresh Coat: interactive pixel-art 3D graffiti yard](#2114735216686211306)
+- [2099 3D world with humans, aliens and creatures](#2114961338175033641)
+- [THE LAST CARRIAGE](#2115035785179148694)
+- [3D Views in 2D UI with Nested UI](#2115044315777163777)
+- [3D model of a cycle riding a cow riding a human riding a skateboard](#2115074545166287075)
 - [Red Light, Green Light: 3D Survival Game](#red-light-green-light)
 - [Golden Miner: 24-Level 3D Mining Game](#golden-miner)
 - [Crazy Tanks — 3D Island Artillery](#crazy-tanks-3d-island-artillery)
-- [Battle City 3D: Endless Tank Defense](#battle-city-3d)
 - [Jelly Villa](#jelly-villa)
 
 </details>
-
-<a id="2102473710724919614"></a>
-
-### Two-story suburban house with interior
-
-[Azer](https://x.com/azer0lxm) · 2026-09-22
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/1f868aa1278025abb5f25b4de2bb5daa62db78697a0f9706334215d617f27218.jpg" width="840" loading="lazy" alt="Two-story suburban house with interior"></a>
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/48e89527946c980bd26b406a09f6be616f367109ace52923b217f454df158cab.jpg" width="840" loading="lazy" alt="Two-story suburban house with interior"></a>
-
-Azer’s stated prompt requests a Blender 3D model of a two-story suburban house with its interior included.
-
-**Prompt**
-
-```text
-Hello. Please design the best possible 3D model using Blender of a two-story suburban house, interior and everything included.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102473710724919614) · [Original post](https://x.com/azer0lxm/status/2102473781830909995) · [Back to examples](#all-prompts)
-
----
-
-<a id="2102652927177617564"></a>
-
-### 3D kart racer in a single HTML file
-
-[Anshul](https://x.com/realanshull) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102652927177617564"><img src="../assets/previews/0f568961afe1321356c2f741639b1e8c0fb199da304a749177bfa3210cbd2bbd.jpg" width="840" loading="lazy" alt="3D kart racer in a single HTML file"></a>
-
-A reusable prompt the author states was given unchanged to GPT Astra 6 and Claude Opus 5.5 for a comparison of their 3D kart-racing implementations.
-
-**Prompt**
-
-```text
-build a 3D kart racer in a single HTML file.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102652927177617564) · [Original post](https://x.com/realanshull/status/2102652927177617564) · [Back to examples](#all-prompts)
-
----
-
-<a id="2102672926285713456"></a>
-
-### Medieval castle browser animation
-
-[juhapalomaki.fi](https://juhapalomaki.fi/) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102672926285713456"><img src="../assets/previews/b43efddd3611576ef42085cb8dc829a3c4e2476c7392c3ce076fd7b852c3f5c1.jpg" width="840" loading="lazy" alt="Medieval castle browser animation"></a>
-
-A browser-based 3D scene of a medieval castle on a forested hill. The camera continuously rotates around the castle, and a tower flag waves in the wind. The linked author post identifies this as the shared one-shot task used for GPT-6 Astra high and other tested models.
-
-**Prompt**
-
-```text
-Create a 3d animation that runs completely in browser. The animation features a medieval castle, sitting on top of a hill that is located on large forest. Do not add any keyboard controls, just make the camera spin around the castle so that we see it from all sides. On top of the castle tower there should be a flag that waves in the wind.
-
-The output should contain index.html file that when executed shows the castle and starts the looping animation.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102672926285713456) · [Original post](https://juhapalomaki.fi/blog/castle-model-comparison/) · [Back to examples](#all-prompts)
-
----
-
-<a id="2102752217375899659"></a>
-
-### Orbit Lab: A 3D Simulation of the Sun, Earth, and Moon
-
-[technewsradio.tokyo](https://technewsradio.tokyo/) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102752217375899659"><img src="../assets/previews/51e704332827bb37a215b466ac4ce0307552ddeb8c1d40c48ddb1dd48972696c.jpg" width="840" loading="lazy" alt="Orbit Lab: A 3D Simulation of the Sun, Earth, and Moon"></a>
-
-This comparison prompt is stated in the linked article to have been given to all four models, including GPT-6 Astra, Sol, and Luna. It asks for an educational 3D simulation web app built with Three.js, featuring procedurally generated models of the Sun, Earth, and Moon, orbital and rotational motion, click selection, camera controls, playback, speed control, focus controls, and more.
-
-**Prompt**
-
-```text
-This is a comparison experiment. Implement and complete the following web app with the exact same specifications in your working directory. Name it “Orbit Lab.” Use Three.js 0.186.0 and load the core library and OrbitControls at the same version (either via a CDN import map or npm is fine). There is no need to publish or deploy it.
-
-Requirements:
-1. Represent 3D models of the Sun, Earth, and Moon using procedural geometry and materials. Do not use external images or 3D assets. Use the Sun as a point light so that the lighting on Earth and the Moon is visible as the camera moves.
-2. Animate Earth’s orbit and rotation, its axial tilt, and the Moon’s orbit using delta time. Visualize the tilt of the orbital plane and display orbit lines for Earth and the Moon. The scale and speed may be exaggerated for educational purposes.
-3. Generate a reproducible starfield background using a seeded random number generator. Use OrbitControls for rotation and zoom. Clicking a celestial body must change its selected state and the information panel.
-4. Include play/pause, a speed slider, an orbit-line visibility toggle, camera focus controls for the Sun, Earth, and Moon, and a button to restore the initial state. Play/pause and reset must also work from the keyboard.
-5. Make the interface usable on smartphone-width screens, provide a message for browsers without WebGL support, handle resizing, and cap the pixel ratio to avoid excessive rendering load.
-6. Add startup instructions and controls to the README. If possible, launch the app and verify that it works; if not, clearly state why. In the completion report, briefly list the files created, implemented features, and verification results.
-
-Do not ask questions during the process. Make reasonable decisions and implement everything through to completion.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102752217375899659) · [Original post](https://technewsradio.tokyo/lab/gpt6-vs-opus55) · [Back to examples](#all-prompts)
-
----
-
-<a id="2102780850706567390"></a>
-
-### Browser-Based Medieval European-Style 3D Castle
-
-[もぎ＠ボードゲーム](https://x.com/luxurytax150) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102780850706567390"><img src="../assets/previews/535ebfb5581dc4dc70a4d8fdeb70422afe55fc09e97bc8db3b49e36bb3bec72f.jpg" width="840" loading="lazy" alt="Browser-Based Medieval European-Style 3D Castle"></a>
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102780850706567390"><img src="../assets/previews/ea07857b725d97d51c74394cbf842b33b8b7cac3c945f00191f46c2e03d9c4d6.jpg" width="840" loading="lazy" alt="Browser-Based Medieval European-Style 3D Castle"></a>
-
-Create a browser-based, interactive 3D castle in a medieval European style. Include a moat, drawbridge, towers, stone walls, flags, and a forest, with the ability to switch between day and night. Prioritize the appearance and quality of the 3D model above all else.
-
-**Prompt**
-
-```text
-Create an interactive 3D medieval European-style castle that can be operated in a browser. Include a moat, drawbridge, towers, stone walls, flags, a forest, and day/night switching.
-This is a benchmark, so prioritize the visual quality of the 3D model and push the appearance as far as possible.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102780850706567390) · [Original post](https://x.com/luxurytax150/status/2102780850706567390) · [Back to examples](#all-prompts)
-
----
 
 <a id="2102788013902213508"></a>
 
@@ -3571,6 +3454,556 @@ Keep metered API spending below $5 and report the actual cost.
 
 ---
 
+<a id="2114671379455119514"></a>
+
+### Artisanal 1800s pistol with Blender MCP
+
+[patch](https://x.com/patch_gg) · 2026-10-26
+
+<a href="https://www.tripo3d.ai/3d-prompts/artisanal-1800s-pistol-3d-model"><img src="../assets/previews/35a8723aa9a926bb9637e2b4dad3c5e9b162c1106f5ff1681d2f0275af471c7b.jpg" width="840" loading="lazy" alt="Artisanal 1800s pistol with Blender MCP"></a>
+
+A comparative AI-model post presents a request to make an artisanal 1800s pistol using Blender MCP, with GPT-6 Astra listed among the tested models.
+
+**Prompt**
+
+```text
+Make an artisanal 1800s pistol using Blender MCP
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/artisanal-1800s-pistol-3d-model) · [Original post](https://x.com/patch_gg/status/2114671379455119514) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2114735216686211306"></a>
+
+### Fresh Coat: interactive pixel-art 3D graffiti yard
+
+[Adem Ninja](https://x.com/halfofthemwork) · 2026-10-26
+
+<a href="https://www.tripo3d.ai/3d-prompts/fresh-coat-interactive-3d-graffiti-yard"><img src="../assets/previews/d180e9edaafe76d826392400af36fc692a4ef1491668ad31800185411ad4cc9b.jpg" width="840" loading="lazy" alt="Fresh Coat: interactive pixel-art 3D graffiti yard"></a>
+
+A single-file three.js interactive 3D scene set in a floating-island garage yard, where a crew paints a wall while reacting to weather, a patrolling janitor, wall-painting rules, and one another. It specifies an isometric pixel-art renderer, procedural paint behaviour, character animation, environmental animals, and mobile-friendly controls and UI.
+
+**Prompt**
+
+```text
+Build a single-file HTML + three.js (r160) scene called "Fresh Coat": a crew of writers painting a long garage wall in a back yard on a floating island. It is a real 3D scene rendered as crisp pixel art.
+
+Rendering: an orthographic isometric camera (drag to turn in 90° steps, scroll or pinch to zoom). Render into a small low-res target with a depth texture, then upscale with texelFetch to whole screen pixels. Add depth-based outlines and quantize every pixel to a fixed ~60-colour palette in OKLab, with an optional Bayer dither. The palette needs enough saturated spray colours (chrome, fluoro, deep shadows) for the pieces to pop. Toggle "Pixel art / Raw 3D", with a pixel-size slider and Palette / Dither / Outlines checkboxes, plus a "Wall view" button that turns the camera square onto the wall.
+
+Yard: patched, cracked asphalt with a kerb, grass and dirt around the island edge. Around the asphalt:
+- a long row of lock-up garages with numbered doors and a flat roof that overhangs them. Their back wall is the canvas, rendered plaster and old brick;
+- a brick transformer booth with a warning sign, a good place to hide behind;
+- a poplar with a bench and a grandmother on it, who tuts at new tags and nods at good pieces;
+- a carpet rack, bushes, a fence with a hole, a rubbish skip full of empty cans;
+- a lamp on a pole and a lamp over a garage door.
+Pigeons walk and peck, and flap up onto the roofs when a writer or the janitor comes near. A cat on the garage roof follows the hissing can with its head.
+
+Wall: a data texture over the whole wall. Each texel stores colour, layer, wetness, age and its order along its stroke. Pieces are drawn progressively in the real order: a thin sketch outline, the fill, a fade, the final outline, the 3D shadow, highlights, and last of all the tag. Older layers show through where a coat is thin, and old pieces fade and flake with age.
+
+Spray: each can sprays a cone of droplets. Distance sets line width and softness, and speed sets coverage. Moving too slowly or too close makes paint pool and run, and drips flow down the texture under gravity until they dry. Wind blows overspray sideways. Cans run low (the hiss sputters and the line breaks up), get shaken with a rattle, and land in the skip when empty.
+
+Crew (8 writers, each with skill, speed and can control, and a style: tagger / throw-up / piece / characters):
+- Four paint at once, four wait on the kerb, sketching in black books. Letters come from an original pixel alphabet, turned into strokes, so every writer has a different name and hand style.
+- Each writer scans the wall for a spot, plans a piece that fits the free space, roughs out the sketch, steps back to look, then paints in passes. The crew agrees on the colour scheme, and writers lend cans to each other.
+- The wall code: never go over a better piece, only a worse or older one. A tag over someone's piece starts beef: they cross it out, and the two argue. With Code: Off, anything goes.
+- After each piece the crew rates it (letters, flow, colours, cleanliness, drips). The best rating moves its writer up the ladder. A writer whose piece gets crossed out or buffed drops to the back of the queue. Everyone below moves up, and the next in line steps up to the wall.
+
+Janitor and AI: a janitor patrols on a timer with a roller and a bucket of grey that never quite matches the wall. One waiting writer keeps lookout. When the janitor appears, the lookout whistles, everyone grabs their cans and hides behind the booth or the skip, and they come back when the janitor has gone. The janitor buffs fresh tags first in uneven grey rectangles, which become clean canvas for the next piece. Errors grow with haste (when the janitor is near), wind, a nearly empty can and lower skill: shaky lines, overspray, drips. Occasionally a nozzle clogs and spits a blob.
+
+Writers: box-rigged with two-bone IK. The can hand follows the stroke path at the right distance from the wall. Poses: walk with a bag of cans, shake the can, crouch to paint the bottom, stretch on tiptoe or stand on a crate to reach the top, step back with arms folded, point out a mistake, fist bump, argue over a crossed-out piece, run and hide, peek out, and sit sketching on the kerb.
+
+Time and weather: Day / Dusk / Night (the lamps light the wall, and painting by lamplight shifts the colours), Dry / Windy / Rain.
+- Rain: streaks, splashes, darker asphalt and a wet, darker wall, puddles that mirror the wall via a mirrored render pass. Fresh paint that has not cured runs and washes out in coloured streaks, while cured paint survives.
+- The writers shelter under the garage roof overhang. When the wall dries, two of them repaint the damaged parts in the same stroke order, and painting resumes.
+
+UI (English, light and dark themes, mobile layout):
+- A lit scoreboard with pieces finished, clock + status ("Painting", "Janitor!", "Rain"), the longest-standing piece and the best-rated piece.
+- A side rail with: Time & weather (with wall wetness and paint cure bars); the ladder (King / Writer / Toy / Newbie plus "Next up"); Rules (Code: Respect / Off; Janitor: On / Off; Wind: Calm / Gusty); a feed of events ("Crossed out!", "Buffed", "Drip", "Janitor coming") with "Everyone go over the King" and Pause; View (Replay a piece from its first stroke).
+- Click a spot on the wall and the next writer paints there. Click a writer and the whole crew helps them. Original letters and design, no real crews, brands or names.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/fresh-coat-interactive-3d-graffiti-yard) · [Original post](https://x.com/halfofthemwork/status/2114738270466695553) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2114961338175033641"></a>
+
+### 2099 3D world with humans, aliens and creatures
+
+[Rey Brando](https://x.com/ReyBrando1) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/3d-prompts/2099-human-alien-creature-3d-world"><img src="../assets/previews/66f3527f036fcd7ee885cbe5bcb392ba99740dd8f950fe4282aa86b1820ba2cc.jpg" width="840" loading="lazy" alt="2099 3D world with humans, aliens and creatures"></a>
+
+A shared one-shot prompt reported by the posting author as used to compare ChatGPT free (GPT-6 Thinking) and Claude Haiku. It asks for a 3D world set in 2099 inhabited by humans, aliens, and creatures.
+
+**Prompt**
+
+```text
+Build a 3D world of 2099 with humans, aliens and creatures living in it.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/2099-human-alien-creature-3d-world) · [Original post](https://x.com/ReyBrando1/status/2114961338175033641) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2115035785179148694"></a>
+
+### THE LAST CARRIAGE
+
+[Happycapy](https://x.com/happycapyai) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/3d-prompts/haunted-halloween-train-station-3d-experience"><img src="../assets/previews/64294e6e82e623c92cc9421d86a247bfc4f263d0ad2d09886ded2e1918699dc1.jpg" width="840" loading="lazy" alt="THE LAST CARRIAGE"></a>
+
+A browser-based interactive 3D Halloween diorama: a miniature ghost train circles an enchanted Victorian railway village while concealed tunnel passages drive a deterministic supernatural narrative. The prompt specifies handcrafted scenery, carved illuminated pumpkins, a detailed steam train, camera presets, drag orbiting, scroll zoom, a 36-second looping story, accessibility controls, sound, and Three.js implementation.
+
+**Prompt**
+
+```text
+Build “THE LAST CARRIAGE,” a finished, exquisitely art-directed, interactive 3D Halloween experience for the browser.
+
+A miniature ghost train circles an enchanted Victorian village at midnight. Each time it disappears into a tunnel, something quietly changes.
+
+Deliver a working experience, not a concept, mockup, or technical demo. Treat it as a small piece of interactive cinema with the craftsmanship of an elaborate stop-motion film set.
+
+If working in the existing project, preserve its identity, useful train logic, working interactions, and private access configuration. Improve the existing site rather than creating a duplicate.
+
+1. CREATIVE DIRECTION
+
+The central idea:
+“An enchanted Halloween railway village, handcrafted as a museum-quality mechanical diorama.”
+
+Emotional balance:
+- 60% enchanted autumn warmth.
+- 30% gothic mystery.
+- 10% quiet unease.
+
+Make it inviting enough to explore and strange enough to remember.
+
+Use a controlled palette:
+- Ink blue and velvet-blue shadows.
+- Muted violet and near-black plum.
+- Burnt sienna and copper autumn leaves.
+- Pumpkin amber and warm ivory.
+- Oxblood-red paint.
+- Tarnished gold and aged brass.
+
+Warm lights should be the emotional center of the scene. Avoid washing every surface in cyan or dark teal.
+
+Materials must feel tactile and handmade: painted wood, soot-darkened metal, weathered brass, slightly bowed plaster, layered slate shingles, damp cobblestones, waxy pumpkin skin, and delicate glass.
+
+Introduce purposeful asymmetry, small imperfections, and surface variation while maintaining coherent scale.
+
+Avoid generic low-poly assets, placeholder boxes, blob-shaped trees, neon colors, excessive bloom, heavy fog, jump scares, gore, flashing effects, and visual clutter.
+
+2. COMPOSITION AND OPENING FRAME
+
+Make the miniature world occupy approximately 75–85% of the opening viewport. The scene must dominate; typography must remain secondary.
+
+Design an intimate three-quarter composition:
+- Foreground: three beautifully carved pumpkin lanterns beside the curved railway.
+- Midground: the locomotive passing the warmly illuminated station.
+- Background: crooked village roofs, a slender clock tower, and a wooded tunnel entrance.
+
+Arrange these focal points as a visual triangle. Use the railway curve as a strong leading line.
+
+Reduce the exposed empty base and avoid making the model look small inside a large webpage. Preserve quieter areas between detailed clusters.
+
+At time zero, clearly show:
+- The locomotive and its passenger carriages on the foreground curve.
+- At least three recognizable glowing jack-o’-lantern faces.
+- The station entrance and warm ticket-office window.
+- The tunnel mouth.
+- A readable architectural silhouette.
+- A balanced relationship between warm light and cool night.
+
+The first tunnel entry must occur only after viewers have had time to appreciate the train.
+
+The opening frame should work as a finished Halloween illustration before anything moves. Do not hide the best composition twenty seconds into the experience.
+
+Create deliberate desktop and mobile portrait framing. A vertical video composition should retain the train, station, and foreground pumpkins.
+
+3. THE MINIATURE WORLD
+
+Build a compact, richly composed landscape containing:
+- A curved railway loop.
+- A narrow stone viaduct crossing a dark stream.
+- A tunnel through a wooded hillside.
+- A small Victorian station.
+- A handful of individually designed village houses.
+- A slender clock tower.
+- Sculptural trees with sparse autumn foliage.
+- One solitary figure waiting beneath the platform lamp.
+
+Concentrate detail around the train, station, foreground pumpkins, and tunnel portal rather than distributing decoration uniformly.
+
+Architecture:
+- Slightly bowed walls and purposeful asymmetry.
+- Steep, subtly curved roofs.
+- Layered shingles with visible thickness.
+- Dormers, crooked chimneys, and timber framing.
+- Recessed doors and window surrounds.
+- Aged copper gutters, iron fences, and hanging signs.
+
+Station:
+- A scalloped canopy on slender iron supports.
+- A warm ticket-office window.
+- An old clock approaching midnight.
+- A wooden bench and stacked luggage.
+- A small sign reading “ALL HALLOWS.”
+- Autumn garlands and a restrained strand of warm lanterns.
+
+Tunnel:
+- A dressed stone portal and old iron crest.
+- Ivy, roots, fallen leaves, and pumpkin-lit steps or a maintenance path.
+- An almost completely dark interior.
+- Layered terrain, stones, roots, and vegetation that break up the hillside.
+
+Do not leave a large, smooth, empty mound.
+
+Trees must have tapered trunks and branching silhouettes. Use irregular clusters of small copper and russet leaves with varied color and density.
+
+4. SIGNATURE JACK-O’-LANTERNS
+
+Create approximately 12–18 pumpkins, arranged in deliberate clusters:
+- Three hero pumpkins beside the foreground track.
+- Several on the station steps and beneath the canopy.
+- A cluster near the tunnel.
+- A few on a cart, in windows, or beside garden gates.
+
+Vary their scale, proportions, ribbing, stem curvature, and carved expressions.
+
+Hero pumpkins require:
+- Rounded, deeply ribbed bodies.
+- Slightly asymmetrical silhouettes.
+- Curled, dry stems.
+- Thick carved walls with visible depth.
+- Distinct eye and mouth openings.
+- Convincing hollow interiors and visible candlelight.
+- Subtle skin roughness and color variation.
+
+Use actual openings or convincing recessed cutout geometry with inner walls. Do not paste black triangles onto orange spheres.
+
+At least three carved faces must be immediately readable from the default camera.
+
+Their light must illuminate nearby cobblestones, station steps, and rails. Emissive orange surfaces alone are insufficient.
+
+Use a few strategically placed local lights and efficient supporting techniques. Do not assign an expensive shadow-casting light to every pumpkin.
+
+Candle flicker should be gentle, irregular, and slow.
+
+5. THE TRAIN AS A HERO OBJECT
+
+Create one detailed miniature steam locomotive with three passenger carriages.
+
+Locomotive:
+- Oxblood-red painted panels.
+- A soot-black boiler.
+- Aged brass fittings and thin gold pinstriping.
+- A warm headlamp with a restrained beam.
+- Layered wheels and animated connecting rods.
+- A small brass bell.
+- A modest autumn garland and one small pumpkin lantern near the front.
+
+Carriages:
+- Detailed frames and rounded roof profiles.
+- Warm interior windows.
+- Passenger silhouettes that remain legible during normal playback.
+- Consistent scale and spacing along the curved track.
+
+Give the last carriage a subtle separate identity:
+- Darker paint.
+- A small moon emblem.
+- One pale interior light among the warm windows.
+
+Use smooth, consistent train motion and convincing wheel rotation. Maintain carriage spacing through curves.
+
+Steam should consist of soft, varied, dissipating wisps, not an obvious chain of opaque spheres.
+
+6. LIGHTING, MATERIALS, AND ATMOSPHERE
+
+Build three complementary lighting layers:
+
+A. Warm focal lighting
+Rich amber from the station, train windows, and pumpkins.
+
+B. Cool shape lighting
+Soft blue-violet moonlight revealing roof edges, branches, steam, and train silhouettes.
+
+C. Gentle environmental fill
+Enough neutral-cool illumination to preserve material colors and make unlit architecture readable on an ordinary laptop or phone.
+
+Keep the brightest highlights small and purposeful. Preserve amber color without clipping it to white.
+
+Ground objects with contact shadows, carefully controlled soft shadows, and restrained ambient occlusion where affordable.
+
+Wet stone, rails, brass, and the stream should catch subtle reflections.
+
+Use thin, localized mist near the tracks, stream, and beneath the bridge. Keep the train, pumpkin faces, and station clear.
+
+Add restrained, asynchronous environmental motion:
+- A few drifting leaves.
+- Occasional tiny locomotive embers.
+- Soft chimney smoke.
+- Slight movement in hanging decorations.
+- Slow candle flicker.
+
+Use subtle film grain and careful tone mapping. Bloom and depth of field are optional finishing touches, never substitutes for good lighting. Keep the principal train and pumpkin details sharp enough to inspect.
+
+7. HALLOWEEN SET DRESSING
+
+The holiday must be recognizable with all interface text hidden.
+
+Include a curated selection of:
+- Glowing carved pumpkins.
+- Copper and russet leaves gathered along edges.
+- A small wooden pumpkin cart.
+- A faded harvest-festival banner.
+- Tiny hanging ghost ornaments beneath the canopy.
+- Wrought-iron crescent-moon details.
+- Fine cobwebs visible where they catch warm light.
+- A small black cat near a lantern.
+
+Compose props into meaningful clusters with breathing room between them. Favor craftsmanship and storytelling over decoration density.
+
+8. THE 36-SECOND NARRATIVE LOOP
+
+Create a deterministic, seamless 36-second sequence spanning three approximately 12-second circuits.
+
+Opening circuit:
+Three distinct passengers are visible through the carriage windows. A solitary figure waits under the station lamp.
+
+Second circuit:
+After a concealed tunnel passage, one passenger is missing. A previously dark window in a distant house is now illuminated.
+
+Third circuit:
+After the next concealed tunnel passage, the platform is empty. The waiting figure is now seated in the last carriage, facing outward toward the viewer.
+
+During the third circuit, as the last carriage passes the foreground pumpkin cluster:
+- The candle flames briefly lean toward it.
+- Its pale window reveals the former waiting figure.
+- The station lamp dims slightly.
+- The figure turns away.
+- A faint ghostly reflection lingers in the glass.
+
+Choreograph this moment around the foreground passage, approximately 25–26 seconds into the loop. It must be subtle but readable at normal playback speed.
+
+During the final passage, the last carriage light slowly fades.
+
+Use the next tunnel passage to conceal the reset into the opening state.
+
+All passenger changes and resets must happen while the affected train is fully hidden inside the tunnel. Avoid visible popping or discontinuities.
+
+The story should reward observation without explanatory captions and work completely without sound.
+
+9. CAMERA, DRAG ROTATION, AND SCROLL ZOOM
+
+Provide three camera presets:
+- DIORAMA: the carefully art-directed default three-quarter view.
+- FOLLOW: a gentle train-following camera.
+- STATION: a closer view of the platform and carriage windows.
+
+Transitions must be smooth and deliberate.
+
+Before manual interaction, allow barely perceptible cinematic drift. Stop that drift once the user manually adjusts the view.
+
+Support direct manipulation in all three presets:
+
+Drag rotation:
+- Left mouse drag on desktop.
+- Single-finger drag on touchscreens.
+- Smooth horizontal rotation through 360 degrees.
+- Vertical elevation constrained to approximately 12–65 degrees above the horizon.
+- No flipping beneath the scene.
+- Pointer capture so a drag remains continuous when crossing controls.
+- Clean release and cancellation handling.
+- No uncontrolled spinning after release.
+
+Scroll zoom:
+- Scroll up to enlarge the model.
+- Scroll down to reduce it.
+- Support mouse wheels and trackpad two-finger scrolling.
+- Ease smoothly toward the requested zoom.
+- Limit zoom to approximately 65–185% of the preset’s default size.
+- Use optical camera zoom to preserve safe orbit distance and avoid moving the camera through scenery.
+- Normalize wheel input across pixel, line, and page delta modes.
+- Preserve browser-level zoom shortcuts and modified wheel gestures.
+
+Reset:
+- Provide a discreet Reset view button.
+- Double-clicking the scene or pressing 0 restores the default Diorama angle and 100% zoom.
+- Changing camera presets clears manual rotation and zoom.
+- Restart story resets narrative time independently of camera adjustments.
+
+Keyboard accessibility:
+- Arrow keys rotate while the canvas is focused.
+- + and − adjust zoom while the canvas is focused.
+- Provide visible keyboard focus and concise accessible instructions.
+
+Scene gestures must not interfere with interface buttons or the station-lamp interaction.
+
+10. INTERFACE AND SOUND
+
+Open directly onto the scene without an application splash screen or unnecessary onboarding.
+
+Use a small, elegant corner title:
+THE LAST CARRIAGE
+“Watch the passengers.”
+
+Pair a refined serif title with discreet, widely spaced supporting text. Avoid oversized copy, excessive margins, and decorative labels competing with the model.
+
+Include a subtle initial hint:
+“DRAG TO ROTATE · SCROLL TO ZOOM”
+Fade it after interaction.
+
+Provide unobtrusive controls for:
+- Sound on/off — S.
+- Camera preset — C.
+- Reset view and zoom — 0.
+- Restart story — R.
+- Hide interface for recording — H.
+- Restore interface — H, Escape, or a discreet restore button.
+- Pause/resume — Space when the page background has focus.
+
+Clicking or tapping the platform lamp gently dims it and reveals faint ghostly footprints. This optional detail must not alter the main story.
+
+Respect reduced-motion preferences: start with a still opening frame and offer an explicit Play control. Pause animation and mute audio when the page is in the background.
+
+Audio must begin only after an enabling user gesture.
+
+Create a restrained layered soundscape:
+- Soft wheel rhythm.
+- Distant steam whistle.
+- Autumn wind.
+- Faint station bell.
+- Subtle muffling or ambience changes inside the tunnel.
+
+11. IMPLEMENTATION AND PRIVATE HOSTING
+
+Use Three.js with clean, maintainable modules.
+
+Prefer procedural geometry, materials, textures, and audio where they support the art direction. Use properly licensed assets when useful and include attribution.
+
+The essential scene, interactions, and story must run without runtime AI calls, API keys, or external inference services.
+
+Bundle essential dependencies and assets locally where practical.
+
+Use:
+- Geometry batching for static details.
+- Instancing for repeated leaves and props.
+- Lower detail for smaller or distant objects.
+- Sensible shadow settings.
+- A capped device pixel ratio.
+- Adaptive rendering quality.
+- Graceful fallbacks for expensive effects.
+- A clear fallback message when WebGL is unavailable.
+
+Prioritize:
+1. Composition and lighting.
+2. Hero pumpkins and train craftsmanship.
+3. Smooth movement and readable storytelling.
+4. Architectural character and material richness.
+5. Secondary decoration.
+
+Keep the hosted site private and accessible only to the owner’s account. Preserve platform-managed authentication. Do not make it public or replace the platform’s access controls with a cosmetic login screen.
+
+12. VALIDATION AND DELIVERY
+
+Build, run, and inspect the actual rendered experience.
+
+Work in visual passes:
+1. Camera framing and scene scale.
+2. Lighting and exposure.
+3. Hero pumpkins and locomotive.
+4. Station and architectural silhouettes.
+5. Materials and clustered set dressing.
+6. Atmospheric motion.
+7. Interface refinement.
+
+After the first three passes, inspect a real rendered screenshot before adding more decoration.
+
+Review:
+- The opening frame.
+- The locomotive passing the foreground pumpkins.
+- Each passenger-state change.
+- The supernatural moment.
+- The concealed reset and complete loop.
+- Mobile portrait framing.
+- Interface-hidden recording mode.
+- Alternate camera presets.
+- Drag rotation and elevation limits.
+- Scroll zoom and zoom limits.
+- Reset behavior.
+- Keyboard controls.
+- Sound and station-lamp interactions.
+
+Check browser errors and rendering performance. Verify consistent train spacing, deterministic narrative states, hidden transitions, and loop continuity.
+
+Revise frames that remain muddy, flat, sparse, overdecorated, or dominated by typography.
+
+Final visual acceptance criteria:
+- The scene immediately communicates Halloween without text.
+- Pumpkin faces look carved and illuminate their surroundings.
+- The train is a beautiful, visible focal object from the opening frame.
+- Materials and craftsmanship are appreciable at default viewing distance.
+- Warm light remains rich without losing nocturnal mystery.
+- Rotation and zoom feel smooth and controlled.
+- The opening frame alone could work as an appealing Halloween art print.
+
+Deliver:
+- The working private experience.
+- Complete source with clear local run instructions.
+- A concise controls guide.
+- Actual screenshots from the running result.
+- A default composition suitable for recording a seamless looping video for X.
+
+The result should feel like discovering a tiny haunted world: beautiful enough to watch before noticing that something is wrong.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/haunted-halloween-train-station-3d-experience) · [Original post](https://x.com/happycapyai/status/2115035788891013525) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2115044315777163777"></a>
+
+### 3D Views in 2D UI with Nested UI
+
+[frozenlib](https://x.com/frozenlib) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/3d-prompts/nested-2d-ui-in-3d-display"><img src="../assets/previews/3a949e9ee7868c83061946e8102de667edfe424c47226d4491f047a23b858147.jpg" width="840" loading="lazy" alt="3D Views in 2D UI with Nested UI"></a>
+
+A request to embed a 3D view in a 2D UI and allow 2D UI elements to be placed within that 3D space. It also requires support for IME and keyboard focus, along with integration of the concept of interactive glTF extensions.
+
+**Prompt**
+
+```text
+Render 3D content within a 2D UI and allow 2D UI elements to be placed inside it. Support features available in the 2D UI, such as IME and keyboard focus, and integrate the concept of interactive glTF extensions.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/nested-2d-ui-in-3d-display) · [Original post](https://x.com/frozenlib/status/2115044315777163777) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2115074545166287075"></a>
+
+### 3D model of a cycle riding a cow riding a human riding a skateboard
+
+[Tim Jayas](https://x.com/TimJayas) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/3d-prompts/cycle-cow-human-skateboard-3d-model"><img src="../assets/previews/d9524db110a1e5f52601425074815dd9bfd0ed01fe6b55fd94f2b0646c524447.jpg" width="840" loading="lazy" alt="3D model of a cycle riding a cow riding a human riding a skateboard"></a>
+
+A prompt posted by Tim Jayas for GPT-6-Astra and GPT-6.1-Terra to create a Three.js 3D model of a cycle riding a cow, riding a human, riding a skateboard. It specifies a white background and no UI elements so the main object remains visible.
+
+**Prompt**
+
+```text
+create a 3d model of a cycle riding a cow riding a human riding a skateboard using three.js, use white theme background so the main object stays clearly visible and avoid using UI elements
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/cycle-cow-human-skateboard-3d-model) · [Original post](https://x.com/TimJayas/status/2115074545166287075) · [Back to examples](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Red Light, Green Light: 3D Survival Game
@@ -3772,73 +4205,6 @@ Deliver an editable standalone source project, lockfile, npm dev/build instructi
 
 ---
 
-<a id="battle-city-3d"></a>
-
-### Battle City 3D: Endless Tank Defense
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-22
-
-<a href="https://www.tripo3d.ai/3d-prompts/battle-city-3d"><img src="../assets/previews/e9180abfae92dc2319bb9b62f6ee89602336de5599b5f1c98f0feffeda618cdb.png" width="840" loading="lazy" alt="Battle City 3D: Endless Tank Defense"></a>
-
-Defend the eagle across endless grass, snow and industrial battlefields or 35 classic maps. Collect ten supplies and defeat heavy enemy tanks that take four hits to destroy.
-
-**Prompt**
-
-```text
-1. Project goal
-Build Battle City 3D, a browser tank-defense game inspired by the 1985 Famicom classic. The player drives a tank, destroys a wave of 20 enemies, collects supplies and protects the eagle headquarters. Reconstruct the current perspective-3D version shown in the reference media, including an endless seeded campaign and 35 selectable classic layouts. Preserve the readable arcade rules while giving tanks, walls and scenery genuine depth.
-
-2. Visual style
-Use a Three.js PerspectiveCamera with a 60-degree field of view. The default battlefield view sits behind and above the player, around 13 world units away at elevation 0.43 radians. Smoothly follow position and a point ahead of the tank; never rotate the camera automatically when the tank turns. Offer a higher tactical view, manual drag orbit and wheel zoom. Use the four cardinal map axes for movement and firing. After orbiting, map directional keys to the nearest cardinal direction relative to the camera; never turn keyboard input into diagonal movement. Render the chassis heading immediately to match the shot direction, and calibrate projectile and muzzle-flash height to the actual cannon of each model.
-Use grounded tracked tanks, metallic turrets, terracotta bricks, dark steel blocks, blue water, low foliage and reflective ice. Continue the ground beyond the playable area into trees, ruined buildings and haze. Use warm directional light, soft shadows, ambient fill, ACES tone mapping and restrained muzzle flashes, recoil, sparks and bouncing debris. Snow changes the ground and tree palette; industrial stages favor steel and ruined buildings.
-Frame the game with a dark olive command interface, warm yellow primary action, score, shared lives, remaining enemy icons, stage name and radar. Put the large Tripo 3D / Three.js model switch above the battlefield, showing the selected mode and a rotating tank preview. Use a localized illustrated supply guide and timed-effect indicators. Keep the playfield and essential touch controls visible on narrow screens.
-
-3. World and scenes
-Represent the battlefield as a 26 by 26 tile grid, with a tank collision half-width of 0.72. Place the eagle at (13,25), surrounded by a destructible U-shaped brick defense. Player spawns are (9,25) and (17,25); enemy gates are (1,1), (13,1) and (25,1).
-Provide two campaigns: all 35 classic layouts with their 20-enemy wave tables, and an endless seed-based generator cycling grass, snow and industrial biomes. Generate connected corridors wide enough for the full chassis, with passable connections between player spawns, enemy gates and pickup locations. Add staggered central steel cover to prevent a direct spawn-to-eagle firing lane while retaining cross-street access. Allow selecting the starting biome or classic stage and rerolling a random map. Carry the run seed, score, lives and surviving players' upgrades into the next stage.
-Brick is destructible; steel blocks ordinary shells and tanks; water blocks tanks but allows shells to pass; foliage conceals enemy models; ice reduces traction. Keep the distant environment decorative, separate from gameplay collision.
-
-4. Asset inventory
-Use these stable, independently replaceable 3D model slots. Prioritize the player, enemy, heavy tank and eagle, then all ten supply models. Ground each asset at its lowest point and normalize its facing, center and scale. Reuse templates instead of loading a model per enemy.
-- player: a mustard-yellow tracked tank with a readable turret and forward cannon; used by player tanks, with a separate ring color for the second player.
-- enemy: a compact tracked enemy tank, reused with distinct tints for basic, fast and powerful variants.
-- heavy: a visibly heavier armored tank, separate from the standard enemy mesh, with four visible armor segments above it.
-- eagle: a metallic golden eagle statue on the headquarters pedestal.
-- pickup-star: a gold five-point upgrade star.
-- pickup-helmet: a protective military helmet for temporary shielding.
-- pickup-clock: a readable clock for freezing enemy movement.
-- pickup-shovel: a shovel for headquarters reinforcement.
-- pickup-life: a miniature tank representing one extra life.
-- pickup-grenade: a hand grenade for destroying active enemies.
-- pickup-ammo: an ammunition box for rapid fire.
-- pickup-repair: a repair toolbox for restoring armor.
-- pickup-magnet: a horseshoe magnet for ranged pickup collection.
-- pickup-boost: an energy battery for a temporary speed boost.
-- environment-building: a weathered ruined apartment building, Tripo P2.0, requested budget 1,800 triangles.
-- environment-tree: an irregular pine with visible trunk, Tripo P2.0, requested budget 1,100 triangles.
-- environment-bush: a low leafy shrub and grass tufts, Tripo P2.0, requested budget 650 triangles.
-Display supplies as rotating, hovering collectible models with colored rings and matching guide thumbnails. Render repeated buildings, trees and bushes with shared geometry/material instances. Ground the building and tree roots; bury the shrub base slightly to blend with terrain. Add snow on upward-facing surfaces in snow stages. Keep tile walls, water, ice, projectile meshes, UI, lights, particles and collision proxies procedural. Animate water with world-space flowing waves, changing normals and small surface displacement, continuous across adjacent tiles. The Tripo version uses 17 generated models; the comparison version switches both tanks and environment to code-built geometry with the same rules and collisions. Both are rendered with Three.js.
-
-5. Gameplay and feedback
-Support solo and local two-player co-op with a shared pool of three lives. Solo uses WASD or arrow keys and Space/J to fire. In co-op, player one uses WASD and Space/J; player two uses arrows and Enter/Numpad 0. P/Escape pauses; C changes camera; 1/2 selects model mode. On touchscreens, allow holding a directional pad and fire button simultaneously, release input on pointer cancellation, and expose pause, resume, next-stage and retry actions without scrolling.
-Player speed is 4.2 units per second, or 6.3 with boost. Enemies include basic, fast, powerful and heavy types; heavy tanks have four hit points and survive the first three unshielded hits. Use four concurrent enemies in solo and six in co-op, with staggered spawning. Killing a type awards 100, 200, 300 or 400 points; collecting any supply gives 500 points. Clear a stage after 20 enemy defeats. Lose when the eagle is destroyed or the shared lives are exhausted with no surviving player. Offer immediate retry, explicit next-stage progression and a locally saved best score.
-Implement all ten supplies: star upgrades through three levels (faster shells, two simultaneous shells, then steel-breaking shells); helmet shields for 12 seconds; clock freezes enemies for 9 seconds; shovel reinforces the base for 16 seconds; mini tank adds one life; grenade destroys active enemies; ammunition grants 14 seconds of rapid fire with up to four active shells; repair adds two hit points capped at three; magnet collects visible supplies within five units for 20 seconds; boost lasts 12 seconds. Supply models last 25 seconds and appear at reachable locations, with a shuffled deck to vary types. Magnet collection must respect solid obstacles.
-Use collected NES-style samples for the 4.333-second stage opening, firing, driving and idling, brick/steel impacts, enemy/player explosions, supply appearance and collection, extra life, armor hit, ice, pause and game over. The current project uses 15 OGG cues from JustoSenka/BattleCity, commit 3a07004ba8e53baea74ff70d2ecc22b017eb9b20. Preserve their attribution and repository license notice; describe them as collected remake audio, without claiming a bit-perfect hardware capture. Unlock audio on user gesture, calibrate sample gains, provide volume/mute, and synchronize sounds to events. Do not add unrelated continuous battle music.
-
-6. Technical implementation
-Use TypeScript, Three.js 0.180.0 and Vite 7, with an isolated package.json and lockfile. Keep the simulation independent of rendering, stepping at 120 Hz. Use solid chassis AABBs, axis-separated motion, boundary and tank separation, and continuous nearest-contact shell sweeps, including relative-motion collision between opposing shells. Shells originate at the chassis and sweep forward to prevent point-blank wall clipping. Add ice acceleration/deceleration and gravity with damped bounces for debris. These are arcade ground physics, not a suspension simulator.
-Load same-origin GLB assets through GLTFLoader. Keep collision proxies independent of asset geometry. The current runtime uses quantized attributes and WebP textures (1024 px for vehicles/base; 512 px for supplies and environment), without geometry simplification or a WASM decoder. Limit loading to four workers, use hash-versioned URLs and 256 KiB ranges with a 20-second timeout and up to three attempts per range. Unlock play after the four core models and audio are ready; load supplies and environment assets in the background and only spawn supply types whose models are ready. Switching model mode preserves gameplay state.
-Provide English, simplified Chinese, Japanese and Korean UI. Select a default from device language, except zh-TW, zh-HK, zh-MO and zh-Hant default to English; persist explicit language choices. Support keyboard, desktop pointer and multitouch, and pause on focus loss. Keep all assets, credits and reproducible scripts local to the source project, and ship a static dist directory with no private credentials or runtime backend dependency.
-
-7. Completion criteria
-Deliver editable source, asset provenance and license notices, an npm development/build workflow and a playable static preview. Verify the default Tripo scene, the model comparison, all biomes, a heavy tank taking four hits, every supply effect, pause/resume, defeat/retry and stage progression. Test 1,000 seeded maps for chassis-width connectivity and safe spawns, plus all classic maps, wall tunneling, diagonal shots, tank separation, ice momentum, camera-relative input at multiple yaws, and state-preserving mode switches. Validate localized UI and narrow-screen two-finger controls without claiming physical-device testing when only emulation was used. Compare actual start and combat frames with the reference images/video; confirm all 17 models and 15 audio cues load. Publish through the existing CMS Web Page workflow and verify the final public page, rather than treating a saved CMS record as a completed deployment.
-
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/battle-city-3d) · [Live demo](https://battle-city-3d.tripo.page/) · [Back to examples](#all-prompts)
-
----
-
 <a id="jelly-villa"></a>
 
 ### Jelly Villa
@@ -3909,7 +4275,7 @@ Publish a new jelly-villa prompt credited to jared, with the original author in 
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 370 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 376 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>

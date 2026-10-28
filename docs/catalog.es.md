@@ -28,7 +28,7 @@
 **Un punto de partida para tu próximo juego, escena o mundo interactivo.**
 
 
-**370 · Últimos prompts de Astra**
+**376 · Últimos prompts de Astra**
 
 ## Proyectos destacados
 
@@ -38,7 +38,7 @@
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/es/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/featured/crazy-tanks-3d-island-artillery.webp" width="420" loading="lazy" alt="Crazy Tanks — Artillería 3D en una isla"></a><br><strong><a href="#crazy-tanks-3d-island-artillery">Crazy Tanks — Artillería 3D en una isla</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="#crazy-tanks-3d-island-artillery">Prompt →</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/es/3d-prompts/battle-city-3d"><img src="../assets/featured/battle-city-3d.webp" width="420" loading="lazy" alt="Battle City 3D: Defensa de tanques sin fin"></a><br><strong><a href="#battle-city-3d">Battle City 3D: Defensa de tanques sin fin</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="#battle-city-3d">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/es/3d-prompts/battle-city-3d"><img src="../assets/featured/battle-city-3d.webp" width="420" loading="lazy" alt="Battle City 3D: Defensa de tanques sin fin"></a><br><strong><a href="https://www.tripo3d.ai/es/3d-prompts/battle-city-3d">Battle City 3D: Defensa de tanques sin fin</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="https://www.tripo3d.ai/es/3d-prompts/battle-city-3d">Prompt →</a></td>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/es/3d-prompts/titanic-the-last-light"><img src="../assets/featured/titanic-the-last-light.webp" width="420" loading="lazy" alt="TITANIC — La última luz"></a><br><strong><a href="https://www.tripo3d.ai/es/3d-prompts/titanic-the-last-light">TITANIC — La última luz</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="https://www.tripo3d.ai/es/3d-prompts/titanic-the-last-light">Prompt →</a></td>
 </tr>
 </table>
@@ -50,11 +50,6 @@
 <details>
 <summary>Explorar ejemplos</summary>
 
-- [Casa suburbana de dos plantas con interior](#2102473710724919614)
-- [Juego de karts en 3D en un solo archivo HTML](#2102652927177617564)
-- [Animación de un castillo medieval en el navegador](#2102672926285713456)
-- [Orbit Lab: simulación 3D del Sol, la Tierra y la Luna](#2102752217375899659)
-- [Castillo medieval europeo en 3D controlable desde el navegador](#2102780850706567390)
 - [Tablero 3D interactivo para estudiar gambitos de ajedrez](#2102788013902213508)
 - [Shader de ciudad solarpunk infinita](#2102826333550133520)
 - [Simulador de hamburguesas en primera persona](#2102897258983313712)
@@ -145,130 +140,18 @@
 - [Modelo cinematográfico del caballo de Troya en Blender](#2114060132610957601)
 - [Construye la Torre Eiffel](#2114080244046954999)
 - [Tren de vapor 3D detallado y desgastado](#2114092197595201850)
+- [Pistola artesanal del siglo XIX con Blender MCP](#2114671379455119514)
+- [Fresh Coat: patio de grafitis 3D interactivo en pixel art](#2114735216686211306)
+- [Mundo 3D de 2099 con humanos, alienígenas y criaturas](#2114961338175033641)
+- [EL ÚLTIMO VAGÓN](#2115035785179148694)
+- [Visualización 3D dentro de una UI 2D y UI anidada](#2115044315777163777)
+- [Modelo 3D de una bicicleta montando una vaca que monta a una persona que va sobre un monopatín](#2115074545166287075)
 - [Luz roja, luz verde: juego de supervivencia 3D](#red-light-green-light)
 - [Golden Miner: juego de minería 3D de 24 niveles](#golden-miner)
 - [Crazy Tanks — Artillería 3D en una isla](#crazy-tanks-3d-island-artillery)
-- [Battle City 3D: Defensa de tanques sin fin](#battle-city-3d)
 - [Villa de gelatina](#jelly-villa)
 
 </details>
-
-<a id="2102473710724919614"></a>
-
-### Casa suburbana de dos plantas con interior
-
-[Azer](https://x.com/azer0lxm) · 2026-09-22
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/1f868aa1278025abb5f25b4de2bb5daa62db78697a0f9706334215d617f27218.jpg" width="840" loading="lazy" alt="Casa suburbana de dos plantas con interior"></a>
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/48e89527946c980bd26b406a09f6be616f367109ace52923b217f454df158cab.jpg" width="840" loading="lazy" alt="Casa suburbana de dos plantas con interior"></a>
-
-El prompt indicado por Azer solicita un modelo 3D en Blender de una casa suburbana de dos plantas con el interior incluido.
-
-**Prompt**
-
-```text
-Hola. Diseña el mejor modelo 3D posible con Blender de una casa suburbana de dos plantas, con el interior y todos los elementos incluidos.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102473710724919614) · [Publicación original](https://x.com/azer0lxm/status/2102473781830909995) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2102652927177617564"></a>
-
-### Juego de karts en 3D en un solo archivo HTML
-
-[Anshul](https://x.com/realanshull) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102652927177617564"><img src="../assets/previews/0f568961afe1321356c2f741639b1e8c0fb199da304a749177bfa3210cbd2bbd.jpg" width="840" loading="lazy" alt="Juego de karts en 3D en un solo archivo HTML"></a>
-
-Prompt reutilizable que, según afirma el autor, se proporcionó sin modificaciones a GPT Astra 6 y Claude Opus 5.5 para comparar sus implementaciones de carreras de karts en 3D.
-
-**Prompt**
-
-```text
-crea un juego de carreras de karts en 3D en un solo archivo HTML.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102652927177617564) · [Publicación original](https://x.com/realanshull/status/2102652927177617564) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2102672926285713456"></a>
-
-### Animación de un castillo medieval en el navegador
-
-[juhapalomaki.fi](https://juhapalomaki.fi/) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102672926285713456"><img src="../assets/previews/b43efddd3611576ef42085cb8dc829a3c4e2476c7392c3ce076fd7b852c3f5c1.jpg" width="840" loading="lazy" alt="Animación de un castillo medieval en el navegador"></a>
-
-Escena 3D basada en navegador de un castillo medieval sobre una colina cubierta de bosque. La cámara gira continuamente alrededor del castillo y la bandera de una torre ondea con el viento. La publicación enlazada del autor identifica esta tarea como la tarea compartida de una sola ejecución utilizada con GPT-6 Astra high y otros modelos evaluados.
-
-**Prompt**
-
-```text
-Crea una animación 3D que se ejecute por completo en el navegador. La animación debe mostrar un castillo medieval situado en lo alto de una colina ubicada en un extenso bosque. No añadas controles de teclado; haz que la cámara gire alrededor del castillo para que podamos verlo desde todos los ángulos. En lo alto de la torre del castillo debe haber una bandera que ondee con el viento.
-
-El resultado debe contener un archivo index.html que, al ejecutarse, muestre el castillo e inicie la animación en bucle.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102672926285713456) · [Publicación original](https://juhapalomaki.fi/blog/castle-model-comparison/) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2102752217375899659"></a>
-
-### Orbit Lab: simulación 3D del Sol, la Tierra y la Luna
-
-[technewsradio.tokyo](https://technewsradio.tokyo/) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102752217375899659"><img src="../assets/previews/51e704332827bb37a215b466ac4ce0307552ddeb8c1d40c48ddb1dd48972696c.jpg" width="840" loading="lazy" alt="Orbit Lab: simulación 3D del Sol, la Tierra y la Luna"></a>
-
-Este es un texto de solicitud para una comparación; el artículo enlazado especifica que se introdujo por igual en cuatro modelos, incluidos GPT-6 Astra, Sol y Luna. Implementa con Three.js una obra web educativa de simulación 3D que incluya el Sol, la Tierra y la Luna creados de forma procedimental, sus órbitas y rotaciones, selección mediante clic, control de cámara, reproducción, velocidad, enfoque y otras funciones.
-
-**Prompt**
-
-```text
-Es un experimento comparativo. Implementa y deja terminada en tu directorio de trabajo la siguiente obra web con especificaciones idénticas. El nombre será «Orbit Lab». Usa Three.js 0.186.0 y carga el núcleo y OrbitControls de la misma versión (puedes usar un import map desde un CDN o npm). No es necesario publicar ni desplegar el proyecto.
-
-Requisitos:
-1. Representa modelos 3D del Sol, la Tierra y la Luna mediante geometría y materiales creados de forma procedimental. No uses imágenes ni recursos 3D externos. El Sol debe actuar como fuente de luz puntual, y la iluminación de la Tierra y la Luna debe poder apreciarse al controlar la cámara.
-2. Anima la traslación y la rotación de la Tierra, la inclinación de su eje y la traslación de la Luna usando tiempo delta. Visualiza la inclinación del plano orbital y muestra las líneas orbitales de la Tierra y la Luna. La escala y la velocidad pueden exagerarse con fines educativos.
-3. Genera un fondo estrellado con números aleatorios reproducibles. Permite rotar y ampliar o alejar la vista con OrbitControls. Al hacer clic en un cuerpo celeste, cambia su estado de selección y el panel descriptivo.
-4. Incluye controles de reproducir/detener, un deslizador de velocidad, un interruptor para mostrar u ocultar las líneas orbitales, enfoque de cámara en el Sol, la Tierra o la Luna, y un botón para volver al estado inicial. También debe ser posible reproducir/detener y restablecer la simulación mediante el teclado.
-5. Adapta la interfaz para poder manejarla en pantallas de móvil, incluye un aviso cuando WebGL no sea compatible, responde al cambio de tamaño y limita la densidad de píxeles para evitar una carga de renderizado excesiva.
-6. Escribe en el README las instrucciones de inicio y los controles. Si es posible, inicia realmente la aplicación y comprueba su funcionamiento; si no, indica claramente el motivo. En el informe final, resume brevemente los archivos creados, los elementos implementados y los resultados de la comprobación.
-
-No hagas preguntas durante el proceso: toma decisiones razonables y completa la implementación hasta el final.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102752217375899659) · [Publicación original](https://technewsradio.tokyo/lab/gpt6-vs-opus55) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2102780850706567390"></a>
-
-### Castillo medieval europeo en 3D controlable desde el navegador
-
-[もぎ＠ボードゲーム](https://x.com/luxurytax150) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102780850706567390"><img src="../assets/previews/535ebfb5581dc4dc70a4d8fdeb70422afe55fc09e97bc8db3b49e36bb3bec72f.jpg" width="840" loading="lazy" alt="Castillo medieval europeo en 3D controlable desde el navegador"></a>
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102780850706567390"><img src="../assets/previews/ea07857b725d97d51c74394cbf842b33b8b7cac3c945f00191f46c2e03d9c4d6.jpg" width="840" loading="lazy" alt="Castillo medieval europeo en 3D controlable desde el navegador"></a>
-
-Crear un castillo medieval europeo en 3D que se pueda controlar desde el navegador. Incluir un foso de agua, un puente levadizo, torres, murallas de piedra, banderas y un bosque, con posibilidad de alternar entre el día y la noche. Dar máxima prioridad al aspecto visual y la calidad del modelo 3D.
-
-**Prompt**
-
-```text
-Crear un castillo medieval europeo en 3D controlable desde el navegador. Incluir un foso de agua, un puente levadizo, torres, murallas de piedra, banderas, un bosque y un cambio entre el día y la noche.
-Como se trata de una especie de prueba de referencia, prioriza al máximo la calidad del modelo 3D y hasta dónde se puede llevar su aspecto visual.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102780850706567390) · [Publicación original](https://x.com/luxurytax150/status/2102780850706567390) · [Volver a los ejemplos](#all-prompts)
-
----
 
 <a id="2102788013902213508"></a>
 
@@ -3635,6 +3518,556 @@ Mantén el gasto medido de la API por debajo de $5 e informa del coste real.
 
 ---
 
+<a id="2114671379455119514"></a>
+
+### Pistola artesanal del siglo XIX con Blender MCP
+
+[patch](https://x.com/patch_gg) · 2026-10-26
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/artisanal-1800s-pistol-3d-model"><img src="../assets/previews/35a8723aa9a926bb9637e2b4dad3c5e9b162c1106f5ff1681d2f0275af471c7b.jpg" width="840" loading="lazy" alt="Pistola artesanal del siglo XIX con Blender MCP"></a>
+
+Una publicación comparativa sobre modelos de IA presenta una solicitud para crear una pistola artesanal del siglo XIX con Blender MCP, y GPT-6 Astra figura entre los modelos evaluados.
+
+**Prompt**
+
+```text
+Crea una pistola artesanal del siglo XIX con Blender MCP
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/artisanal-1800s-pistol-3d-model) · [Publicación original](https://x.com/patch_gg/status/2114671379455119514) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2114735216686211306"></a>
+
+### Fresh Coat: patio de grafitis 3D interactivo en pixel art
+
+[Adem Ninja](https://x.com/halfofthemwork) · 2026-10-26
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/fresh-coat-interactive-3d-graffiti-yard"><img src="../assets/previews/d180e9edaafe76d826392400af36fc692a4ef1491668ad31800185411ad4cc9b.jpg" width="840" loading="lazy" alt="Fresh Coat: patio de grafitis 3D interactivo en pixel art"></a>
+
+Una escena 3D interactiva de three.js en un solo archivo, ambientada en el patio de un garaje sobre una isla flotante, donde una crew pinta una pared mientras reacciona al clima, a un conserje que patrulla, a las reglas para pintar la pared y a los demás. Especifica un renderizador isométrico en pixel art, comportamiento de pintura procedural, animación de personajes, animales del entorno y controles e interfaz adaptados a móviles.
+
+**Prompt**
+
+```text
+Crea una escena en un único archivo HTML + three.js (r160) llamada "Fresh Coat": una crew de writers pinta una larga pared de garaje en el patio trasero de una isla flotante. Es una escena 3D real renderizada como pixel art nítido.
+
+Renderizado: una cámara ortográfica isométrica (arrastra para girar en pasos de 90°, desplázate o pellizca para aplicar zoom). Renderiza en un destino pequeño de baja resolución con una textura de profundidad y, después, amplía a píxeles completos de pantalla mediante texelFetch. Añade contornos basados en la profundidad y cuantiza cada píxel a una paleta fija de unas 60 tonalidades en OKLab, con tramado Bayer opcional. La paleta necesita suficientes colores saturados de aerosol (cromo, fluorescentes y sombras profundas) para que las piezas destaquen. Alterna entre "Pixel art / 3D sin procesar", con un control deslizante para el tamaño de píxel y casillas de verificación para Paleta / Tramado / Contornos, además de un botón "Vista de pared" que coloca la cámara de frente a la pared.
+
+Patio: asfalto parcheado y agrietado, con bordillo, césped y tierra alrededor del borde de la isla. Alrededor del asfalto:
+- una larga hilera de garajes cerrados con puertas numeradas y un tejado plano que sobresale sobre ellos. Su pared trasera es el lienzo, con yeso y ladrillo viejo;
+- una caseta de transformadores de ladrillo con un cartel de advertencia, un buen lugar para esconderse;
+- un álamo con un banco y una abuela sentada en él, que desaprueba con un chasquido de lengua las nuevas firmas y asiente ante las buenas piezas;
+- un expositor de alfombras, arbustos, una valla con un agujero y un contenedor de basura lleno de botes vacíos;
+- una farola sobre un poste y una lámpara sobre una puerta de garaje.
+Las palomas caminan y picotean, y alzan el vuelo hasta los tejados cuando se acerca un writer o el conserje. Un gato en el tejado del garaje sigue con la cabeza el bote que sisea.
+
+Pared: una textura de datos cubre toda la pared. Cada texel almacena el color, la capa, la humedad, la antigüedad y su orden dentro del trazo. Las piezas se dibujan progresivamente en el orden real: un fino boceto del contorno, el relleno, un degradado, el contorno final, la sombra 3D, los brillos y, por último, la firma. Las capas antiguas se transparentan donde la capa de pintura es fina, y las piezas viejas se desvanecen y se descascarillan con el tiempo.
+
+Aerosol: cada bote pulveriza un cono de gotas. La distancia determina el ancho y la suavidad de la línea, y la velocidad determina la cobertura. Moverse demasiado despacio o demasiado cerca hace que la pintura se acumule y chorree; los goteos bajan por la textura debido a la gravedad hasta secarse. El viento desvía lateralmente la pulverización sobrante. Los botes se quedan sin pintura (el siseo pierde fuerza y la línea se entrecorta), se agitan con un traqueteo y acaban en el contenedor cuando están vacíos.
+
+Crew (8 writers, cada uno con habilidad, velocidad y control del bote, y un estilo: tagger / throw-up / piece / personajes):
+- Cuatro pintan a la vez y cuatro esperan en el bordillo, haciendo bocetos en libretas negras. Las letras proceden de un alfabeto de píxeles original, convertido en trazos, de modo que cada writer tiene un nombre y un estilo de escritura diferentes.
+- Cada writer examina la pared en busca de un sitio, planea una pieza que encaje en el espacio libre, hace un boceto preliminar, retrocede para observarla y después pinta por pasadas. La crew acuerda la combinación de colores y los writers se prestan los botes.
+- El código de la pared: nunca pintes encima de una pieza mejor; solo de una peor o más antigua. Una firma sobre la pieza de otra persona inicia una disputa: la tachan y los dos discuten. Con Código: Desactivado, todo vale.
+- Después de cada pieza, la crew la puntúa (letras, fluidez, colores, limpieza y goteos). La mejor puntuación hace subir a su writer en la clasificación. Un writer cuya pieza sea tachada o borrada queda al final de la cola. Todos los que están por debajo suben un puesto y el siguiente de la fila se acerca a la pared.
+
+Conserje e IA: un conserje patrulla siguiendo un temporizador, con un rodillo y un cubo de pintura gris que nunca coincide del todo con la pared. Un writer que espera vigila. Cuando aparece el conserje, el vigilante silba, todos agarran sus botes y se esconden detrás de la caseta o del contenedor; regresan cuando el conserje se va. El conserje borra primero las firmas recientes con rectángulos grises irregulares, que se convierten en lienzo limpio para la siguiente pieza. Los errores aumentan con las prisas (cuando el conserje está cerca), el viento, un bote casi vacío y un nivel de habilidad bajo: líneas temblorosas, pulverización sobrante y goteos. De vez en cuando se atasca una boquilla y escupe una gota gruesa.
+
+Writers: rigging con cajas y IK de dos huesos. La mano que sostiene el bote sigue la trayectoria del trazo a la distancia correcta de la pared. Posturas: caminar con una bolsa de botes, agitar el bote, agacharse para pintar la parte inferior, estirarse de puntillas o subirse a una caja para alcanzar la parte superior, retroceder con los brazos cruzados, señalar un error, chocar los puños, discutir por una pieza tachada, correr y esconderse, asomarse y sentarse a hacer bocetos en el bordillo.
+
+Hora y clima: Día / Atardecer / Noche (las lámparas iluminan la pared y pintar a la luz de las lámparas cambia los colores), Seco / Ventoso / Lluvia.
+- Lluvia: surcos, salpicaduras, asfalto más oscuro y una pared húmeda y más oscura, con charcos que reflejan la pared mediante un pase de renderizado reflejado. La pintura fresca que aún no se ha curado chorrea y se diluye formando surcos de color, mientras que la pintura curada resiste.
+- Los writers se refugian bajo el alero del tejado del garaje. Cuando la pared se seca, dos de ellos repintan las partes dañadas siguiendo el mismo orden de trazos y la pintura continúa.
+
+Interfaz (en inglés, temas claro y oscuro, diseño para móviles):
+- Un marcador iluminado con las piezas terminadas, reloj y estado ("Pintando", "¡Conserje!", "Lluvia"), la pieza más antigua y la pieza mejor valorada.
+- Una barra lateral con: Hora y clima (con barras de humedad de la pared y curado de la pintura); la clasificación (Rey / Writer / Toy / Novato y "Siguiente"); Reglas (Código: Respeto / Desactivado; Conserje: Activado / Desactivado; Viento: Calma / Ráfagas); un registro de eventos ("¡Tachada!", "Borrada", "Goteo", "Se acerca el conserje") con "Todos pintan encima del Rey" y Pausa; Vista (Repetir una pieza desde su primer trazo).
+- Haz clic en un punto de la pared y el siguiente writer pintará allí. Haz clic en un writer y toda la crew le ayudará. Letras y diseños originales; no uses crews, marcas ni nombres reales.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/fresh-coat-interactive-3d-graffiti-yard) · [Publicación original](https://x.com/halfofthemwork/status/2114738270466695553) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2114961338175033641"></a>
+
+### Mundo 3D de 2099 con humanos, alienígenas y criaturas
+
+[Rey Brando](https://x.com/ReyBrando1) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/2099-human-alien-creature-3d-world"><img src="../assets/previews/66f3527f036fcd7ee885cbe5bcb392ba99740dd8f950fe4282aa86b1820ba2cc.jpg" width="840" loading="lazy" alt="Mundo 3D de 2099 con humanos, alienígenas y criaturas"></a>
+
+Un prompt único compartido que, según el autor de la publicación, se utilizó para comparar ChatGPT gratuito (GPT-6 Thinking) y Claude Haiku. Solicita un mundo 3D ambientado en 2099 y habitado por humanos, alienígenas y criaturas.
+
+**Prompt**
+
+```text
+Crea un mundo 3D del año 2099 en el que vivan humanos, alienígenas y criaturas.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/2099-human-alien-creature-3d-world) · [Publicación original](https://x.com/ReyBrando1/status/2114961338175033641) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2115035785179148694"></a>
+
+### EL ÚLTIMO VAGÓN
+
+[Happycapy](https://x.com/happycapyai) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/haunted-halloween-train-station-3d-experience"><img src="../assets/previews/64294e6e82e623c92cc9421d86a247bfc4f263d0ad2d09886ded2e1918699dc1.jpg" width="840" loading="lazy" alt="EL ÚLTIMO VAGÓN"></a>
+
+Un diorama 3D interactivo para navegador: un tren fantasma en miniatura recorre un pueblo ferroviario victoriano encantado, mientras unos pasadizos ocultos en túneles dan pie a una narrativa sobrenatural predeterminada. El prompt especifica escenarios hechos a mano, calabazas talladas e iluminadas, una locomotora de vapor detallada, posiciones de cámara predeterminadas, órbita mediante arrastre, zoom con la rueda del ratón, una historia en bucle de 36 segundos, controles de accesibilidad, sonido e implementación con Three.js.
+
+**Prompt**
+
+```text
+Crea «THE LAST CARRIAGE», una experiencia 3D interactiva de Halloween para navegador, terminada y dirigida artísticamente con un nivel exquisito de detalle.
+
+Un tren fantasma en miniatura recorre un pueblo victoriano encantado a medianoche. Cada vez que desaparece en un túnel, algo cambia discretamente.
+
+Entrega una experiencia funcional, no un concepto, una maqueta ni una demo técnica. Trátala como una pequeña obra de cine interactivo, con el cuidado artesanal de un elaborado decorado de animación stop-motion.
+
+Si trabajas en el proyecto existente, conserva su identidad, la lógica útil del tren, las interacciones operativas y la configuración de acceso privado. Mejora el sitio existente en lugar de crear un duplicado.
+
+1. DIRECCIÓN CREATIVA
+
+La idea central:
+«Un pueblo ferroviario victoriano de Halloween, encantado y construido a mano como un diorama mecánico digno de museo».
+
+Equilibrio emocional:
+- 60 % de calidez otoñal encantada.
+- 30 % de misterio gótico.
+- 10 % de inquietud silenciosa.
+
+Haz que invite lo suficiente a explorar y que resulte lo bastante extraño como para ser inolvidable.
+
+Usa una paleta controlada:
+- Sombras azul tinta y azul terciopelo.
+- Violeta apagado y ciruela casi negra.
+- Hojas otoñales en siena tostada y cobre.
+- Ámbar calabaza y marfil cálido.
+- Pintura rojo sangre seca.
+- Oro deslustrado y latón envejecido.
+
+Las luces cálidas deben ser el centro emocional de la escena. Evita bañar todas las superficies en cian o verde azulado oscuro.
+
+Los materiales deben transmitir una sensación táctil y artesanal: madera pintada, metal ennegrecido por el hollín, latón desgastado, yeso ligeramente combado, tejas de pizarra superpuestas, adoquines húmedos, piel cerosa de calabaza y vidrio delicado.
+
+Introduce asimetría intencionada, pequeñas imperfecciones y variación superficial, manteniendo una escala coherente.
+
+Evita los recursos genéricos de pocos polígonos, las cajas provisionales, los árboles con forma de bulto, los colores neón, el bloom excesivo, la niebla densa, los sustos repentinos, el gore, los efectos parpadeantes y la saturación visual.
+
+2. COMPOSICIÓN Y ENCUADRE INICIAL
+
+Haz que el mundo en miniatura ocupe aproximadamente entre el 75 y el 85 % de la ventana inicial. La escena debe dominar; la tipografía debe quedar en segundo plano.
+
+Diseña una composición íntima en tres cuartos:
+- Primer plano: tres faroles de calabaza magníficamente tallados junto a la vía curva.
+- Plano medio: la locomotora pasa frente a la estación cálidamente iluminada.
+- Fondo: tejados torcidos del pueblo, una esbelta torre del reloj y la entrada boscosa de un túnel.
+
+Organiza estos puntos focales como un triángulo visual. Usa la curva de la vía como una línea de dirección marcada.
+
+Reduce la base vacía expuesta y evita que el modelo parezca pequeño dentro de una página web grande. Conserva zonas más tranquilas entre las agrupaciones detalladas.
+
+En el instante cero, muestra claramente:
+- La locomotora y sus vagones de pasajeros en la curva del primer plano.
+- Al menos tres rostros reconocibles de calabazas talladas e iluminadas.
+- La entrada de la estación y la ventana cálidamente iluminada de la taquilla.
+- La boca del túnel.
+- Una silueta arquitectónica legible.
+- Una relación equilibrada entre la luz cálida y la noche fría.
+
+La primera entrada en el túnel debe ocurrir solo después de dar tiempo a los espectadores para apreciar el tren.
+
+El encuadre inicial debe funcionar como una ilustración de Halloween terminada antes de que se mueva nada. No escondas la mejor composición hasta veinte segundos después de iniciar la experiencia.
+
+Crea un encuadre deliberado para escritorio y otro para móvil en vertical. La composición vertical debe conservar el tren, la estación y las calabazas del primer plano.
+
+3. EL MUNDO EN MINIATURA
+
+Construye un paisaje compacto y ricamente compuesto que contenga:
+- Un circuito ferroviario curvo.
+- Un viaducto estrecho de piedra sobre un arroyo oscuro.
+- Un túnel que atraviese una ladera boscosa.
+- Una pequeña estación victoriana.
+- Un puñado de casas del pueblo, diseñadas individualmente.
+- Una esbelta torre del reloj.
+- Árboles escultóricos con follaje otoñal escaso.
+- Una figura solitaria esperando bajo la lámpara del andén.
+
+Concentra el detalle alrededor del tren, la estación, las calabazas del primer plano y la entrada del túnel, en lugar de distribuir la decoración de manera uniforme.
+
+Arquitectura:
+- Paredes ligeramente combadas y asimetría intencionada.
+- Tejados empinados y sutilmente curvados.
+- Tejas superpuestas con grosor visible.
+- Buhardillas, chimeneas torcidas y entramado de madera.
+- Puertas y marcos de ventanas retranqueados.
+- Canalones de cobre envejecido, vallas de hierro y letreros colgantes.
+
+Estación:
+- Marquesina festoneada sobre soportes de hierro esbeltos.
+- Ventana cálida de la taquilla.
+- Un reloj antiguo acercándose a la medianoche.
+- Un banco de madera y equipaje apilado.
+- Un pequeño letrero que diga «ALL HALLOWS».
+- Guirnaldas otoñales y una discreta hilera de faroles cálidos.
+
+Túnel:
+- Una entrada de piedra labrada y un antiguo escudo de hierro.
+- Hiedra, raíces, hojas caídas y escalones iluminados por calabazas, o un camino de mantenimiento.
+- Un interior casi completamente oscuro.
+- Terreno en capas, piedras, raíces y vegetación que fragmenten la ladera.
+
+No dejes un montículo grande, liso y vacío.
+
+Los árboles deben tener troncos afilados hacia la copa y siluetas ramificadas. Usa agrupaciones irregulares de hojas pequeñas en tonos cobrizos y rojizos, con variaciones de color y densidad.
+
+4. CALABAZAS TALLADAS EMBLEMÁTICAS
+
+Crea aproximadamente entre 12 y 18 calabazas, organizadas en agrupaciones intencionadas:
+- Tres calabazas protagonistas junto a la vía del primer plano.
+- Varias en los escalones de la estación y bajo la marquesina.
+- Una agrupación cerca del túnel.
+- Algunas en un carro, en las ventanas o junto a las verjas de los jardines.
+
+Varía su escala, proporciones, nervaduras, curvatura de los tallos y expresiones talladas.
+
+Las calabazas protagonistas requieren:
+- Cuerpos redondeados con nervaduras profundas.
+- Siluetas ligeramente asimétricas.
+- Tallos secos y enroscados.
+- Paredes talladas gruesas, con profundidad visible.
+- Aberturas diferenciadas para ojos y boca.
+- Interiores huecos convincentes y luz de vela visible.
+- Rugosidad sutil en la piel y variación de color.
+
+Usa aberturas reales o una geometría de recortes retranqueados convincente, con paredes interiores. No pegues triángulos negros sobre esferas naranjas.
+
+Al menos tres rostros tallados deben reconocerse de inmediato desde la cámara predeterminada.
+
+Su luz debe iluminar los adoquines cercanos, los escalones de la estación y los raíles. Las superficies naranjas emisivas por sí solas no bastan.
+
+Usa unas pocas luces locales colocadas estratégicamente y técnicas auxiliares eficientes. No asignes una luz costosa que proyecte sombras a cada calabaza.
+
+El parpadeo de las velas debe ser suave, irregular y lento.
+
+5. EL TREN COMO ELEMENTO PROTAGONISTA
+
+Crea una locomotora de vapor en miniatura y detallada, con tres vagones de pasajeros.
+
+Locomotora:
+- Paneles pintados en rojo sangre seca.
+- Caldera negra de hollín.
+- Accesorios de latón envejecido y finas líneas decorativas doradas.
+- Un faro cálido con un haz discreto.
+- Ruedas superpuestas y bielas animadas.
+- Una pequeña campana de latón.
+- Una modesta guirnalda otoñal y un pequeño farol de calabaza cerca del frente.
+
+Vagones:
+- Bastidores detallados y perfiles de techo redondeados.
+- Ventanas interiores cálidas.
+- Siluetas de pasajeros que sigan siendo legibles durante la reproducción normal.
+- Escala y separación uniformes a lo largo de la vía curva.
+
+Dale al último vagón una identidad sutilmente diferenciada:
+- Pintura más oscura.
+- Un pequeño emblema lunar.
+- Una luz interior pálida entre las ventanas cálidas.
+
+Usa un movimiento del tren suave y constante, con una rotación de ruedas convincente. Mantén la separación entre los vagones en las curvas.
+
+El vapor debe componerse de volutas suaves, variadas y disipadas, no de una cadena evidente de esferas opacas.
+
+6. ILUMINACIÓN, MATERIALES Y ATMÓSFERA
+
+Construye tres capas de iluminación complementarias:
+
+A. Iluminación focal cálida
+Ámbar intenso procedente de la estación, las ventanas del tren y las calabazas.
+
+B. Iluminación fría de modelado
+Luz de luna azul-violeta y suave que revele los bordes de los tejados, las ramas, el vapor y las siluetas del tren.
+
+C. Relleno ambiental suave
+La iluminación neutra-fría suficiente para conservar los colores de los materiales y hacer legible la arquitectura sin luz en un portátil o teléfono corriente.
+
+Mantén los brillos más intensos pequeños e intencionados. Conserva el color ámbar sin recortarlo hasta volverlo blanco.
+
+Asienta los objetos en el suelo con sombras de contacto, sombras suaves cuidadosamente controladas y oclusión ambiental moderada cuando el rendimiento lo permita.
+
+La piedra mojada, los raíles, el latón y el arroyo deben captar reflejos sutiles.
+
+Usa niebla fina y localizada cerca de las vías, el arroyo y debajo del puente. Mantén despejados el tren, los rostros de las calabazas y la estación.
+
+Añade movimiento ambiental discreto y asíncrono:
+- Unas pocas hojas a la deriva.
+- Pequeñas chispas ocasionales de la locomotora.
+- Humo suave de la chimenea.
+- Ligero movimiento en los adornos colgantes.
+- Parpadeo lento de las velas.
+
+Usa grano de película sutil y un tone mapping cuidadoso. El bloom y la profundidad de campo son acabados opcionales, nunca sustitutos de una buena iluminación. Mantén los detalles principales del tren y las calabazas lo bastante nítidos como para examinarlos.
+
+7. DECORACIÓN DEL ESCENARIO DE HALLOWEEN
+
+La temática festiva debe reconocerse aunque todo el texto de la interfaz esté oculto.
+
+Incluye una selección cuidada de:
+- Calabazas talladas e iluminadas.
+- Hojas cobrizas y rojizas acumuladas a lo largo de los bordes.
+- Un pequeño carro de madera para calabazas.
+- Un estandarte descolorido de la fiesta de la cosecha.
+- Pequeños adornos de fantasmas colgando bajo la marquesina.
+- Detalles de lunas crecientes de hierro forjado.
+- Finas telarañas visibles allí donde captan la luz cálida.
+- Un pequeño gato negro junto a un farol.
+
+Compón los elementos en agrupaciones con significado y deja espacio de respiración entre ellas. Da prioridad a la artesanía y la narrativa por encima de la densidad decorativa.
+
+8. BUCLE NARRATIVO DE 36 SEGUNDOS
+
+Crea una secuencia determinista y fluida de 36 segundos, repartida en tres circuitos de aproximadamente 12 segundos.
+
+Circuito inicial:
+Se ven tres pasajeros distintos a través de las ventanas de los vagones. Una figura solitaria espera bajo la lámpara de la estación.
+
+Segundo circuito:
+Después de atravesar un túnel oculto, falta un pasajero. Ahora está iluminada una ventana que antes estaba oscura en una casa lejana.
+
+Tercer circuito:
+Después de atravesar el siguiente túnel oculto, el andén está vacío. La figura que esperaba está ahora sentada en el último vagón, mirando hacia fuera, hacia el espectador.
+
+Durante el tercer circuito, cuando el último vagón pasa junto a la agrupación de calabazas del primer plano:
+- Las llamas de las velas se inclinan brevemente hacia él.
+- Su ventana pálida revela a la antigua figura que esperaba.
+- La lámpara de la estación se atenúa ligeramente.
+- La figura se vuelve de espaldas.
+- Un tenue reflejo fantasmal permanece en el cristal.
+
+Coreografía este momento alrededor del paso por el primer plano, aproximadamente entre los segundos 25 y 26 del bucle. Debe ser sutil, pero legible a velocidad de reproducción normal.
+
+Durante el paso final, la luz del último vagón se desvanece lentamente.
+
+Usa el siguiente paso por el túnel para ocultar el reinicio al estado inicial.
+
+Todos los cambios y reinicios de pasajeros deben ocurrir mientras el tren afectado esté completamente oculto dentro del túnel. Evita saltos visibles o discontinuidades.
+
+La historia debe recompensar la observación sin subtítulos explicativos y funcionar por completo sin sonido.
+
+9. CÁMARA, ROTACIÓN CON ARRASTRE Y ZOOM CON DESPLAZAMIENTO
+
+Proporciona tres preajustes de cámara:
+- DIORAMA: la vista predeterminada en tres cuartos, cuidadosamente dirigida desde el punto de vista artístico.
+- FOLLOW: una cámara que sigue suavemente al tren.
+- STATION: una vista más cercana del andén y las ventanas de los vagones.
+
+Las transiciones deben ser suaves e intencionadas.
+
+Antes de la interacción manual, permite una deriva cinematográfica apenas perceptible. Detén esa deriva cuando el usuario ajuste manualmente la vista.
+
+Admite manipulación directa en los tres preajustes:
+
+Rotación con arrastre:
+- Arrastre con el botón izquierdo del ratón en escritorio.
+- Arrastre con un dedo en pantallas táctiles.
+- Rotación horizontal suave de 360 grados.
+- Elevación vertical limitada aproximadamente entre 12 y 65 grados sobre el horizonte.
+- Sin voltear por debajo de la escena.
+- Captura del puntero para que el arrastre siga siendo continuo al cruzar controles.
+- Gestión limpia de la liberación y la cancelación.
+- Sin giros descontrolados después de soltar.
+
+Zoom con desplazamiento:
+- Desplázate hacia arriba para ampliar el modelo.
+- Desplázate hacia abajo para reducirlo.
+- Admite ruedas de ratón y desplazamiento con dos dedos en el trackpad.
+- Interpola suavemente hasta el zoom solicitado.
+- Limita el zoom aproximadamente entre el 65 y el 185 % del tamaño predeterminado del preajuste.
+- Usa el zoom óptico de la cámara para conservar una distancia de órbita segura y evitar atravesar el escenario con la cámara.
+- Normaliza la entrada de la rueda en los modos de delta de píxeles, líneas y páginas.
+- Conserva los atajos de zoom del navegador y los gestos de rueda con modificadores.
+
+Restablecimiento:
+- Proporciona un botón discreto para restablecer la vista.
+- Al hacer doble clic en la escena o pulsar 0, se recuperan el ángulo predeterminado de Diorama y el zoom al 100 %.
+- Cambiar de preajuste de cámara borra la rotación y el zoom manuales.
+- Reiniciar la historia restablece el tiempo narrativo de forma independiente a los ajustes de cámara.
+
+Accesibilidad mediante teclado:
+- Las teclas de flecha rotan la escena cuando el lienzo tiene el foco.
+- + y − ajustan el zoom cuando el lienzo tiene el foco.
+- Proporciona un foco de teclado visible e instrucciones de accesibilidad concisas.
+
+Los gestos de la escena no deben interferir con los botones de la interfaz ni con la interacción de la lámpara de la estación.
+
+10. INTERFAZ Y SONIDO
+
+Abre directamente en la escena, sin pantalla de presentación de la aplicación ni introducción innecesaria.
+
+Usa un título pequeño y elegante en una esquina:
+THE LAST CARRIAGE
+«Watch the passengers.»
+
+Combina un título refinado con serifas con un texto complementario discreto y de espaciado amplio. Evita textos sobredimensionados, márgenes excesivos y etiquetas decorativas que compitan con el modelo.
+
+Incluye una indicación inicial sutil:
+«DRAG TO ROTATE · SCROLL TO ZOOM»
+Desvanece la indicación después de la interacción.
+
+Proporciona controles discretos para:
+- Activar/desactivar sonido — S.
+- Preajuste de cámara — C.
+- Restablecer vista y zoom — 0.
+- Reiniciar historia — R.
+- Ocultar interfaz para grabar — H.
+- Restaurar interfaz — H, Escape o un botón discreto de restauración.
+- Pausar/reanudar — Espacio cuando el fondo de la página tiene el foco.
+
+Al hacer clic o tocar la lámpara del andén, esta se atenúa suavemente y revela unas tenues huellas fantasmales. Este detalle opcional no debe alterar la historia principal.
+
+Respeta las preferencias de reducción de movimiento: comienza con un encuadre inicial estático y ofrece un control explícito de reproducción. Pausa la animación y silencia el audio cuando la página pase a segundo plano.
+
+El audio debe comenzar solo después de un gesto del usuario que lo habilite.
+
+Crea un paisaje sonoro por capas y contenido:
+- Ritmo suave de las ruedas.
+- Silbato de vapor lejano.
+- Viento otoñal.
+- Campana tenue de la estación.
+- Cambios sutiles de amortiguación o ambiente dentro del túnel.
+
+11. IMPLEMENTACIÓN Y ALOJAMIENTO PRIVADO
+
+Usa Three.js con módulos limpios y fáciles de mantener.
+
+Prioriza la geometría, los materiales, las texturas y el audio procedurales cuando contribuyan a la dirección artística. Usa recursos con la licencia adecuada cuando resulten útiles e incluye la atribución.
+
+La escena esencial, las interacciones y la historia deben ejecutarse sin llamadas de IA en tiempo de ejecución, claves de API ni servicios de inferencia externos.
+
+Agrupa localmente las dependencias y los recursos esenciales siempre que sea práctico.
+
+Usa:
+- Agrupación de geometría para detalles estáticos.
+- Instanciación para hojas y elementos repetidos.
+- Menor nivel de detalle para objetos pequeños o lejanos.
+- Ajustes de sombras sensatos.
+- Una densidad de píxeles del dispositivo limitada.
+- Calidad de renderizado adaptativa.
+- Alternativas graduales para efectos costosos.
+- Un mensaje alternativo claro cuando WebGL no esté disponible.
+
+Da prioridad a:
+1. La composición y la iluminación.
+2. Las calabazas protagonistas y la artesanía del tren.
+3. El movimiento suave y la narrativa legible.
+4. El carácter arquitectónico y la riqueza de los materiales.
+5. La decoración secundaria.
+
+Mantén el sitio alojado en privado y accesible únicamente desde la cuenta de su propietario. Conserva la autenticación gestionada por la plataforma. No lo hagas público ni sustituyas los controles de acceso de la plataforma por una pantalla de inicio de sesión meramente estética.
+
+12. VALIDACIÓN Y ENTREGA
+
+Compila, ejecuta e inspecciona la experiencia renderizada real.
+
+Trabaja en pasadas visuales:
+1. Encuadre de cámara y escala de la escena.
+2. Iluminación y exposición.
+3. Calabazas protagonistas y locomotora.
+4. Estación y siluetas arquitectónicas.
+5. Materiales y decoración agrupada del escenario.
+6. Movimiento atmosférico.
+7. Refinamiento de la interfaz.
+
+Después de las tres primeras pasadas, inspecciona una captura de pantalla renderizada real antes de añadir más decoración.
+
+Revisa:
+- El encuadre inicial.
+- La locomotora pasando junto a las calabazas del primer plano.
+- Cada cambio de estado de los pasajeros.
+- El momento sobrenatural.
+- El reinicio oculto y el bucle completo.
+- El encuadre móvil en vertical.
+- El modo de grabación con la interfaz oculta.
+- Los preajustes de cámara alternativos.
+- La rotación con arrastre y los límites de elevación.
+- El zoom con desplazamiento y sus límites.
+- El comportamiento del restablecimiento.
+- Los controles de teclado.
+- Las interacciones de sonido y de la lámpara de la estación.
+
+Comprueba los errores del navegador y el rendimiento del renderizado. Verifica la separación uniforme del tren, los estados narrativos deterministas, las transiciones ocultas y la continuidad del bucle.
+
+Revisa los encuadres que sigan siendo turbios, planos, escasos, sobrecargados de decoración o dominados por la tipografía.
+
+Criterios finales de aceptación visual:
+- La escena comunica de inmediato que es Halloween sin texto.
+- Los rostros de las calabazas parecen tallados e iluminan su entorno.
+- El tren es un punto focal hermoso y visible desde el encuadre inicial.
+- Los materiales y la artesanía se aprecian desde la distancia de visualización predeterminada.
+- La luz cálida conserva su riqueza sin perder el misterio nocturno.
+- La rotación y el zoom resultan suaves y controlados.
+- El encuadre inicial por sí solo podría funcionar como una atractiva lámina artística de Halloween.
+
+Entrega:
+- La experiencia privada funcional.
+- El código fuente completo con instrucciones claras para ejecutarlo localmente.
+- Una guía concisa de controles.
+- Capturas de pantalla reales del resultado en ejecución.
+- Una composición predeterminada adecuada para grabar un vídeo en bucle continuo para X.
+
+El resultado debe transmitir la sensación de descubrir un diminuto mundo encantado: lo bastante hermoso como para contemplarlo antes de notar que algo no va bien.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/haunted-halloween-train-station-3d-experience) · [Publicación original](https://x.com/happycapyai/status/2115035788891013525) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2115044315777163777"></a>
+
+### Visualización 3D dentro de una UI 2D y UI anidada
+
+[frozenlib](https://x.com/frozenlib) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/nested-2d-ui-in-3d-display"><img src="../assets/previews/3a949e9ee7868c83061946e8102de667edfe424c47226d4491f047a23b858147.jpg" width="840" loading="lazy" alt="Visualización 3D dentro de una UI 2D y UI anidada"></a>
+
+Solicitud para incrustar una visualización 3D en una UI 2D y permitir colocar una UI 2D dentro de ese espacio 3D. También se requiere compatibilidad con IME y el foco del teclado, así como integrar el concepto de extensiones interactivas de glTF.
+
+**Prompt**
+
+```text
+Muestra contenido 3D dentro de una UI 2D y permite colocar una UI 2D en ese espacio. También admite funciones de la UI 2D, como IME y el foco del teclado, e integra el concepto de extensiones interactivas de glTF.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/nested-2d-ui-in-3d-display) · [Publicación original](https://x.com/frozenlib/status/2115044315777163777) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2115074545166287075"></a>
+
+### Modelo 3D de una bicicleta montando una vaca que monta a una persona que va sobre un monopatín
+
+[Tim Jayas](https://x.com/TimJayas) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/cycle-cow-human-skateboard-3d-model"><img src="../assets/previews/d9524db110a1e5f52601425074815dd9bfd0ed01fe6b55fd94f2b0646c524447.jpg" width="840" loading="lazy" alt="Modelo 3D de una bicicleta montando una vaca que monta a una persona que va sobre un monopatín"></a>
+
+Un prompt publicado por Tim Jayas para GPT-6-Astra y GPT-6.1-Terra con el fin de crear un modelo 3D en Three.js de una bicicleta montando una vaca, que monta a una persona que va sobre un monopatín. Especifica un fondo blanco y ningún elemento de la interfaz para que el objeto principal permanezca visible.
+
+**Prompt**
+
+```text
+Crea un modelo 3D en Three.js de una bicicleta montando una vaca que monta a una persona que va sobre un monopatín; usa un fondo blanco para que el objeto principal permanezca claramente visible y evita utilizar elementos de la interfaz.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/cycle-cow-human-skateboard-3d-model) · [Publicación original](https://x.com/TimJayas/status/2115074545166287075) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Luz roja, luz verde: juego de supervivencia 3D
@@ -3836,73 +4269,6 @@ Entregar un proyecto fuente independiente y editable, un archivo de bloqueo, ins
 
 ---
 
-<a id="battle-city-3d"></a>
-
-### Battle City 3D: Defensa de tanques sin fin
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-22
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/battle-city-3d"><img src="../assets/previews/e9180abfae92dc2319bb9b62f6ee89602336de5599b5f1c98f0feffeda618cdb.png" width="840" loading="lazy" alt="Battle City 3D: Defensa de tanques sin fin"></a>
-
-Defiende al águila en interminables campos de batalla de hierba, nieve e instalaciones industriales, o en 35 mapas clásicos. Recoge diez suministros y derrota a los tanques pesados enemigos, que requieren cuatro impactos para ser destruidos.
-
-**Prompt**
-
-```text
-1. Objetivo del proyecto
-Crear Battle City 3D, un juego de defensa con tanques para navegador inspirado en el clásico de Famicom de 1985. El jugador conduce un tanque, destruye una oleada de 20 enemigos, recoge suministros y protege el cuartel general del águila. Reconstruir la versión actual en perspectiva 3D que aparece en el material de referencia, incluida una campaña infinita basada en una semilla y 35 diseños clásicos seleccionables. Conservar las reglas arcade fáciles de entender, pero dotar de profundidad real a los tanques, las paredes y el escenario.
-
-2. Estilo visual
-Usar una PerspectiveCamera de Three.js con un campo de visión de 60 grados. La vista predeterminada del campo de batalla se sitúa detrás y por encima del jugador, a unos 13 unidades del mundo y con una elevación de 0,43 radianes. Seguir suavemente la posición y un punto situado delante del tanque; no girar nunca la cámara automáticamente cuando el tanque cambie de dirección. Ofrecer una vista táctica más elevada, órbita manual mediante arrastre y zoom con la rueda. Usar los cuatro ejes cardinales del mapa para desplazarse y disparar. Después de orbitar, asignar las teclas de dirección al punto cardinal más cercano con respecto a la cámara; no convertir nunca la entrada del teclado en movimiento diagonal. Hacer que la orientación del chasis coincida de inmediato con la dirección del disparo y calibrar la altura de los proyectiles y de los destellos del cañón según el cañón real de cada modelo.
-Usar tanques de orugas asentados sobre el terreno, torretas metálicas, ladrillos de terracota, bloques de acero oscuro, agua azul, vegetación baja y hielo reflectante. Prolongar el suelo más allá del área jugable con árboles, edificios en ruinas y bruma. Usar luz direccional cálida, sombras suaves, iluminación ambiental de relleno, mapeado de tonos ACES y destellos de cañón, retroceso, chispas y escombros rebotando con moderación. La nieve cambia la paleta del suelo y los árboles; las fases industriales dan prioridad al acero y a los edificios en ruinas.
-Enmarcar el juego con una interfaz de mando verde oliva oscuro, acción principal amarilla cálida, puntuación, vidas compartidas, iconos de enemigos restantes, nombre de la fase y radar. Colocar el selector grande de modelos Tripo 3D / Three.js sobre el campo de batalla, mostrando el modo seleccionado y una vista previa giratoria de un tanque. Usar una guía de suministros ilustrada y localizada, además de indicadores de efectos temporales. Mantener visibles el área de juego y los controles táctiles esenciales en pantallas estrechas.
-
-3. Mundo y escenas
-Representar el campo de batalla como una cuadrícula de 26 × 26 casillas, con una semianchura de colisión del tanque de 0,72. Colocar el águila en (13,25), rodeada por una defensa de ladrillos destruible en forma de U. Los puntos de aparición de los jugadores son (9,25) y (17,25); las puertas enemigas están en (1,1), (13,1) y (25,1).
-Ofrecer dos campañas: los 35 diseños clásicos con sus tablas de oleadas de 20 enemigos y un generador infinito basado en semillas que alterna biomas de hierba, nieve e industriales. Generar corredores conectados lo bastante anchos para el chasis completo, con conexiones transitables entre los puntos de aparición de los jugadores, las puertas enemigas y las ubicaciones de los objetos. Añadir coberturas centrales de acero escalonadas para impedir una línea de tiro directa entre la aparición y el águila, sin bloquear el acceso entre calles. Permitir seleccionar el bioma inicial o la fase clásica y volver a generar un mapa aleatorio. Transferir a la fase siguiente la semilla de la partida, la puntuación, las vidas y las mejoras de los jugadores que sobrevivan.
-Los ladrillos se pueden destruir; los bloques de acero detienen los proyectiles normales y los tanques; el agua bloquea los tanques, pero permite el paso de los proyectiles; la vegetación oculta los modelos enemigos; el hielo reduce la tracción. Mantener el entorno distante como elemento decorativo, separado de las colisiones del juego.
-
-4. Inventario de recursos
-Usar estas ranuras estables de modelos 3D, reemplazables de forma independiente. Dar prioridad al jugador, el enemigo, el tanque pesado y el águila, y después a los diez modelos de suministros. Apoyar cada recurso en su punto más bajo y normalizar su orientación, centro y escala. Reutilizar plantillas en lugar de cargar un modelo por enemigo.
-- player: tanque de orugas amarillo mostaza, con una torreta fácil de distinguir y un cañón orientado hacia delante; se usa para los tanques de los jugadores, con un color de anillo independiente para el segundo jugador.
-- enemy: tanque enemigo compacto de orugas, reutilizado con tintes distintos para las variantes básica, rápida y poderosa.
-- heavy: tanque blindado visiblemente más pesado, separado de la malla del enemigo estándar, con cuatro segmentos de blindaje visibles encima.
-- eagle: estatua metálica dorada de un águila sobre el pedestal del cuartel general.
-- pickup-star: estrella dorada de mejora con cinco puntas.
-- pickup-helmet: casco militar protector para proporcionar escudo temporal.
-- pickup-clock: reloj fácil de distinguir para congelar el movimiento de los enemigos.
-- pickup-shovel: pala para reforzar el cuartel general.
-- pickup-life: tanque en miniatura que representa una vida adicional.
-- pickup-grenade: granada de mano para destruir a los enemigos activos.
-- pickup-ammo: caja de munición para disparo rápido.
-- pickup-repair: caja de herramientas de reparación para restaurar el blindaje.
-- pickup-magnet: imán de herradura para recoger objetos a distancia.
-- pickup-boost: batería de energía para aumentar temporalmente la velocidad.
-- environment-building: edificio de apartamentos en ruinas y desgastado, Tripo P2.0, presupuesto solicitado de 1.800 triángulos.
-- environment-tree: pino irregular con tronco visible, Tripo P2.0, presupuesto solicitado de 1.100 triángulos.
-- environment-bush: arbusto frondoso bajo y matas de hierba, Tripo P2.0, presupuesto solicitado de 650 triángulos.
-Mostrar los suministros como modelos coleccionables giratorios y suspendidos, con anillos de colores y miniaturas de guía a juego. Renderizar los edificios, árboles y arbustos repetidos con instancias compartidas de geometría y materiales. Apoyar las raíces de los edificios y árboles en el suelo; enterrar ligeramente la base de los arbustos para integrarlos con el terreno. Añadir nieve a las superficies orientadas hacia arriba en las fases nevadas. Mantener como elementos procedurales las paredes de las casillas, el agua, el hielo, las mallas de los proyectiles, la interfaz, las luces, las partículas y los proxies de colisión. Animar el agua con ondas fluidas en el espacio del mundo, normales cambiantes y una pequeña deformación de la superficie, de forma continua entre casillas adyacentes. La versión de Tripo usa 17 modelos generados; la versión de comparación cambia tanto los tanques como el entorno por geometría creada mediante código, con las mismas reglas y colisiones. Ambas se renderizan con Three.js.
-
-5. Jugabilidad y respuesta
-Admitir juego en solitario y cooperativo local para dos jugadores con un fondo compartido de tres vidas. En solitario se usan WASD o las teclas de dirección, y Espacio/J para disparar. En cooperativo, el jugador uno usa WASD y Espacio/J; el jugador dos usa las teclas de dirección y Enter/teclado numérico 0. P/Escape pausa; C cambia la cámara; 1/2 selecciona el modo de modelo. En pantallas táctiles, permitir mantener pulsados simultáneamente el pad direccional y el botón de disparo, liberar la entrada al cancelar el puntero y mostrar las acciones de pausar, reanudar, pasar a la siguiente fase y reintentar sin desplazamiento de pantalla.
-La velocidad del jugador es de 4,2 unidades por segundo, o 6,3 con el impulso. Los enemigos incluyen tipos básico, rápido, poderoso y pesado; los tanques pesados tienen cuatro puntos de impacto y sobreviven a los tres primeros impactos sin escudo. Destruir un tipo otorga 100, 200, 300 o 400 puntos; recoger cualquier suministro otorga 500 puntos. Completar una fase requiere derrotar a 20 enemigos. Se pierde cuando destruyen el águila o se agotan las vidas compartidas sin que quede ningún jugador con vida. Ofrecer reintento inmediato, avance explícito a la fase siguiente y un récord guardado localmente.
-Implementar los diez suministros: la estrella mejora el nivel hasta tres veces (proyectiles más rápidos, dos proyectiles simultáneos y, por último, proyectiles que rompen el acero); el casco proporciona escudo durante 12 segundos; el reloj congela a los enemigos durante 9 segundos; la pala refuerza la base durante 16 segundos; el tanque miniatura añade una vida; la granada destruye a los enemigos activos; la munición proporciona 14 segundos de disparo rápido con hasta cuatro proyectiles activos; la reparación añade dos puntos de impacto, hasta un máximo de tres; el imán recoge los suministros visibles en un radio de cinco unidades durante 20 segundos; el impulso dura 12 segundos. Los modelos de suministros duran 25 segundos y aparecen en ubicaciones alcanzables, con un mazo barajado para variar los tipos. La recogida mediante el imán debe respetar los obstáculos sólidos.
-Usar muestras de estilo NES recopiladas para la apertura de fase de 4,333 segundos, los disparos, la conducción y el ralentí, los impactos contra ladrillos y acero, las explosiones de enemigos y jugadores, la aparición y recogida de suministros, la vida adicional, los impactos contra el blindaje, el hielo, la pausa y el fin de la partida. El proyecto actual usa 15 pistas OGG de JustoSenka/BattleCity, commit 3a07004ba8e53baea74ff70d2ecc22b017eb9b20. Conservar su atribución y el aviso de licencia del repositorio; describirlas como audio recopilado de un remake, sin afirmar que son capturas de hardware bit a bit. Desbloquear el audio mediante un gesto del usuario, calibrar las ganancias de las muestras, ofrecer controles de volumen y silencio, y sincronizar los sonidos con los eventos. No añadir música de batalla continua que no esté relacionada.
-
-6. Implementación técnica
-Usar TypeScript, Three.js 0.180.0 y Vite 7, con un package.json y un archivo de bloqueo aislados. Mantener la simulación independiente del renderizado y ejecutarla a 120 Hz. Usar AABB sólidos para los chasis, movimiento separado por ejes, límites y separación entre tanques, además de barridos continuos hasta el contacto más cercano para los proyectiles, incluida la colisión por movimiento relativo entre proyectiles enfrentados. Los proyectiles se originan en el chasis y avanzan mediante barrido para evitar que atraviesen paredes a corta distancia. Añadir aceleración y desaceleración sobre hielo, y gravedad con rebotes amortiguados para los escombros. Se trata de física arcade del terreno, no de un simulador de suspensión.
-Cargar recursos GLB del mismo origen mediante GLTFLoader. Mantener los proxies de colisión independientes de la geometría de los recursos. El runtime actual usa atributos cuantizados y texturas WebP (1024 px para vehículos y base; 512 px para suministros y entorno), sin simplificación de geometría ni decodificador WASM. Limitar la carga a cuatro workers, usar URL versionadas mediante hash y rangos de 256 KiB con un tiempo de espera de 20 segundos y hasta tres intentos por rango. Desbloquear el juego cuando los cuatro modelos principales y el audio estén listos; cargar los recursos de suministros y entorno en segundo plano y generar únicamente los tipos de suministros cuyos modelos estén listos. Cambiar el modo de modelo debe conservar el estado de la partida.
-Ofrecer la interfaz en inglés, chino simplificado, japonés y coreano. Seleccionar un idioma predeterminado a partir del idioma del dispositivo, excepto zh-TW, zh-HK, zh-MO y zh-Hant, que deben usar inglés por defecto; conservar las elecciones de idioma explícitas. Admitir teclado, puntero de escritorio y multitáctil, y pausar al perder el foco. Mantener todos los recursos, créditos y scripts reproducibles dentro del proyecto fuente, y distribuir un directorio dist estático sin credenciales privadas ni dependencia de un backend en tiempo de ejecución.
-
-7. Criterios de finalización
-Entregar el código fuente editable, la procedencia de los recursos y los avisos de licencia, un flujo de desarrollo y compilación con npm y una vista previa estática jugable. Verificar la escena predeterminada de Tripo, la comparación de modelos, todos los biomas, un tanque pesado que reciba cuatro impactos, todos los efectos de los suministros, pausar/reanudar, derrota/reintento y avance de fase. Probar 1.000 mapas con semilla para comprobar la conectividad con anchura suficiente para el chasis y la seguridad de las apariciones, además de todos los mapas clásicos, el atravesamiento de paredes, los disparos diagonales, la separación entre tanques, el impulso sobre hielo, la entrada relativa a la cámara con varios ángulos de guiñada y los cambios de modo que conservan el estado. Validar la interfaz localizada y los controles táctiles con dos dedos en pantallas estrechas, sin afirmar que se han probado en dispositivos físicos cuando solo se haya usado emulación. Comparar los fotogramas reales de inicio y combate con las imágenes y el vídeo de referencia; confirmar que se cargan los 17 modelos y las 15 pistas de audio. Publicar mediante el flujo existente de CMS Web Page y verificar la página pública final, en lugar de considerar un registro guardado en el CMS como una implementación completada.
-
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/battle-city-3d) · [Demo en línea](https://battle-city-3d.tripo.page/) · [Volver a los ejemplos](#all-prompts)
-
----
-
 <a id="jelly-villa"></a>
 
 ### Villa de gelatina
@@ -3973,7 +4339,7 @@ Publica un prompt nuevo de jelly-villa acreditado a jared, con el autor original
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 370 ejemplos en el sitio oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 376 ejemplos en el sitio oficial →</a></strong></p>
 <p><sub>Para que el README de GitHub se renderice con fluidez, aquí solo se muestran los 100 ejemplos más recientes.</sub></p>
 <br>
 </td></tr>

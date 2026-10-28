@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**370 · En yeni Astra istemleri**
+**376 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -38,7 +38,7 @@
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/tr/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/featured/crazy-tanks-3d-island-artillery.webp" width="420" loading="lazy" alt="Crazy Tanks — 3B Ada Topçuluğu"></a><br><strong><a href="#crazy-tanks-3d-island-artillery">Crazy Tanks — 3B Ada Topçuluğu</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="#crazy-tanks-3d-island-artillery">İstem →</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/tr/3d-prompts/battle-city-3d"><img src="../assets/featured/battle-city-3d.webp" width="420" loading="lazy" alt="Battle City 3D: Sonsuz Tank Savunması"></a><br><strong><a href="#battle-city-3d">Battle City 3D: Sonsuz Tank Savunması</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="#battle-city-3d">İstem →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/tr/3d-prompts/battle-city-3d"><img src="../assets/featured/battle-city-3d.webp" width="420" loading="lazy" alt="Battle City 3D: Sonsuz Tank Savunması"></a><br><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/battle-city-3d">Battle City 3D: Sonsuz Tank Savunması</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="https://www.tripo3d.ai/tr/3d-prompts/battle-city-3d">İstem →</a></td>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/tr/3d-prompts/titanic-the-last-light"><img src="../assets/featured/titanic-the-last-light.webp" width="420" loading="lazy" alt="TITANIC — Son Işık"></a><br><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/titanic-the-last-light">TITANIC — Son Işık</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="https://www.tripo3d.ai/tr/3d-prompts/titanic-the-last-light">İstem →</a></td>
 </tr>
 </table>
@@ -50,11 +50,6 @@
 <details>
 <summary>Örnekleri keşfet</summary>
 
-- [İç mekânı dâhil iki katlı banliyö evi](#2102473710724919614)
-- [Tek bir HTML dosyasında 3B kart yarışı](#2102652927177617564)
-- [Orta Çağ kalesi tarayıcı animasyonu](#2102672926285713456)
-- [Orbit Lab: Güneş, Dünya ve Ay'ın 3B simülasyonu](#2102752217375899659)
-- [Tarayıcıda Etkileşimli Ortaçağ Avrupa Tarzı 3B Kale](#2102780850706567390)
 - [Satranç gambitlerini çalışmak için etkileşimli 3B satranç tahtası](#2102788013902213508)
 - [Sonsuz solarpunk şehir shader'ı](#2102826333550133520)
 - [Birinci şahıs burger simülatörü](#2102897258983313712)
@@ -145,130 +140,18 @@
 - [Blender’da Sinematik Truva Atı Modeli](#2114060132610957601)
 - [Eyfel Kulesi'ni oluştur](#2114080244046954999)
 - [Ayrıntılı, yıpranmış 3B buharlı tren](#2114092197595201850)
+- [Blender MCP ile 19. yüzyıldan kalma el yapımı tabanca](#2114671379455119514)
+- [Fresh Coat: etkileşimli piksel sanatlı 3B grafiti avlusu](#2114735216686211306)
+- [İnsanların, uzaylıların ve yaratıkların yaşadığı 2099 temalı 3B dünya](#2114961338175033641)
+- [SON VAGON](#2115035785179148694)
+- [2B arayüz içinde 3B görünüm ve iç içe UI](#2115044315777163777)
+- [Kaykay süren bir insanı süren ineği süren bisikletin 3B modeli](#2115074545166287075)
 - [Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu](#red-light-green-light)
 - [Golden Miner: 24 Seviyeli 3B Madencilik Oyunu](#golden-miner)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
-- [Battle City 3D: Sonsuz Tank Savunması](#battle-city-3d)
 - [Jöle Villa](#jelly-villa)
 
 </details>
-
-<a id="2102473710724919614"></a>
-
-### İç mekânı dâhil iki katlı banliyö evi
-
-[Azer](https://x.com/azer0lxm) · 2026-09-22
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/1f868aa1278025abb5f25b4de2bb5daa62db78697a0f9706334215d617f27218.jpg" width="840" loading="lazy" alt="İç mekânı dâhil iki katlı banliyö evi"></a>
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/48e89527946c980bd26b406a09f6be616f367109ace52923b217f454df158cab.jpg" width="840" loading="lazy" alt="İç mekânı dâhil iki katlı banliyö evi"></a>
-
-Azer’in belirttiği istem, iç mekânı da dâhil olmak üzere iki katlı bir banliyö evinin Blender’da 3B modelinin oluşturulmasını istiyor.
-
-**İstem**
-
-```text
-Merhaba. Lütfen Blender kullanarak iç mekânı ve tüm ayrıntıları dâhil, mümkün olan en iyi iki katlı banliyö evi 3B modelini tasarla.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102473710724919614) · [Orijinal gönderi](https://x.com/azer0lxm/status/2102473781830909995) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2102652927177617564"></a>
-
-### Tek bir HTML dosyasında 3B kart yarışı
-
-[Anshul](https://x.com/realanshull) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102652927177617564"><img src="../assets/previews/0f568961afe1321356c2f741639b1e8c0fb199da304a749177bfa3210cbd2bbd.jpg" width="840" loading="lazy" alt="Tek bir HTML dosyasında 3B kart yarışı"></a>
-
-Yazarın belirttiğine göre, 3B kart yarışı uygulamalarını karşılaştırmak amacıyla GPT Astra 6 ve Claude Opus 5.5’e değiştirilmeden verilen yeniden kullanılabilir bir istem.
-
-**İstem**
-
-```text
-Tek bir HTML dosyasında 3B kart yarışı oyunu oluştur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102652927177617564) · [Orijinal gönderi](https://x.com/realanshull/status/2102652927177617564) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2102672926285713456"></a>
-
-### Orta Çağ kalesi tarayıcı animasyonu
-
-[juhapalomaki.fi](https://juhapalomaki.fi/) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102672926285713456"><img src="../assets/previews/b43efddd3611576ef42085cb8dc829a3c4e2476c7392c3ce076fd7b852c3f5c1.jpg" width="840" loading="lazy" alt="Orta Çağ kalesi tarayıcı animasyonu"></a>
-
-Ormanlarla kaplı bir tepede yer alan Orta Çağ kalesini gösteren, tarayıcı tabanlı bir 3B sahne. Kamera kalenin çevresinde sürekli dönerken kuledeki bayrak rüzgârda dalgalanır. Bağlantısı verilen yazar gönderisi, bunun GPT-6 Astra high ve test edilen diğer modeller için kullanılan ortak tek seferlik görev olduğunu belirtir.
-
-**İstem**
-
-```text
-Tamamen tarayıcıda çalışan bir 3B animasyon oluşturun. Animasyonda, geniş bir ormanın içindeki bir tepede yer alan Orta Çağ kalesi bulunsun. Klavye kontrolleri eklemeyin; kaleyi her yönden görebilmemiz için kamerayı yalnızca kalenin çevresinde döndürün. Kale kulesinin tepesinde rüzgârda dalgalanan bir bayrak bulunmalı.
-
-Çıktı, çalıştırıldığında kaleyi gösteren ve döngüsel animasyonu başlatan bir index.html dosyası içermelidir.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102672926285713456) · [Orijinal gönderi](https://juhapalomaki.fi/blog/castle-model-comparison/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2102752217375899659"></a>
-
-### Orbit Lab: Güneş, Dünya ve Ay'ın 3B simülasyonu
-
-[technewsradio.tokyo](https://technewsradio.tokyo/) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102752217375899659"><img src="../assets/previews/51e704332827bb37a215b466ac4ce0307552ddeb8c1d40c48ddb1dd48972696c.jpg" width="840" loading="lazy" alt="Orbit Lab: Güneş, Dünya ve Ay'ın 3B simülasyonu"></a>
-
-Bağlantıda yer alan makalede, GPT-6 Astra, Sol ve Luna dahil olmak üzere 4 modele ortak olarak verilen karşılaştırma amaçlı istemdir. Three.js ile prosedürel olarak oluşturulan Güneş, Dünya ve Ay'ı; yörünge ve dönüş hareketlerini, tıklayarak seçim yapmayı, kamera kontrollerini, oynatma, hız ve odaklama gibi özellikleri içeren eğitsel bir 3B simülasyon web uygulaması geliştirin.
-
-**İstem**
-
-```text
-Bu bir karşılaştırma deneyidir. Aşağıdaki ortak özelliklere sahip web uygulamasını çalışma dizininizde geliştirip tamamlayın. Uygulamanın adı “Orbit Lab” olsun. Three.js 0.186.0 kullanın ve aynı sürümdeki çekirdek kütüphaneyi ve OrbitControls'u yükleyin (CDN import map'i veya npm kullanılabilir). Yayınlama ya da dağıtım yapmanız gerekmez.
-
-Gereksinimler:
-1. Güneş, Dünya ve Ay'ın 3B modellerini prosedürel geometri ve materyallerle oluşturun. Harici görseller veya 3B varlıklar kullanmayın. Güneş'i noktasal ışık kaynağı olarak kullanın; kamera hareket ettirildiğinde Dünya ve Ay üzerindeki aydınlık ve karanlık bölgeler görülebilsin.
-2. Dünya'nın Güneş etrafındaki dolanımını ve kendi ekseni etrafındaki dönüşünü, eksen eğikliğini ve Ay'ın dolanımını delta time kullanarak animasyonlu hâle getirin. Yörünge düzlemlerinin eğimini görselleştirin ve Dünya ile Ay'ın yörünge çizgilerini gösterin. Ölçek ve hız, eğitim amacıyla gerçeğe göre abartılabilir.
-3. Yıldız arka planını tekrarlanabilir bir rastgele sayı üreteciyle oluşturun. Dönüş ve yakınlaştırma için OrbitControls kullanın. Bir gök cismine tıklandığında seçim durumu ve açıklama paneli değişsin.
-4. Oynat/duraklat, hız kaydırıcısı, yörünge çizgilerini gösterme/gizleme seçeneği, Güneş'e/Dünya'ya/Ay'a kamera odağı ve başlangıç durumuna dönme düğmesi ekleyin. Oynatma/duraklatma ve sıfırlama işlemleri klavyeyle de yapılabilsin.
-5. Mobil ekran genişliklerinde de kullanılabilen bir arayüz, WebGL desteklenmediğinde gösterilecek bir bilgilendirme, yeniden boyutlandırma desteği ve aşırı çizim yükünü önlemek için piksel oranı sınırı ekleyin.
-6. README dosyasına başlatma adımlarını ve kullanım bilgilerini yazın. Mümkünse uygulamayı gerçekten başlatıp çalışmasını doğrulayın; bunu yapamıyorsanız nedenini açıkça belirtin. Tamamlanma raporuna oluşturulan dosyaları, uygulanan özellikleri ve doğrulama sonuçlarını kısaca yazın.
-
-Süreç boyunca soru sormayın; makul kararlar vererek uygulamayı baştan sona tamamlayın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102752217375899659) · [Orijinal gönderi](https://technewsradio.tokyo/lab/gpt6-vs-opus55) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2102780850706567390"></a>
-
-### Tarayıcıda Etkileşimli Ortaçağ Avrupa Tarzı 3B Kale
-
-[もぎ＠ボードゲーム](https://x.com/luxurytax150) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102780850706567390"><img src="../assets/previews/535ebfb5581dc4dc70a4d8fdeb70422afe55fc09e97bc8db3b49e36bb3bec72f.jpg" width="840" loading="lazy" alt="Tarayıcıda Etkileşimli Ortaçağ Avrupa Tarzı 3B Kale"></a>
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102780850706567390"><img src="../assets/previews/ea07857b725d97d51c74394cbf842b33b8b7cac3c945f00191f46c2e03d9c4d6.jpg" width="840" loading="lazy" alt="Tarayıcıda Etkileşimli Ortaçağ Avrupa Tarzı 3B Kale"></a>
-
-Tarayıcıda kontrol edilebilen, Ortaçağ Avrupa tarzında bir 3B kale oluşturun. Kalede su hendeği, açılır köprü, kuleler, taş duvarlar, bayraklar ve orman bulunsun; ayrıca gündüz ve gece arasında geçiş yapılabilsin. 3B modelin görünümüne ve kalitesine en yüksek önceliği verin.
-
-**İstem**
-
-```text
-Tarayıcıda kontrol edilebilen, Ortaçağ Avrupa tarzında bir 3B kale oluştur. Su hendeği, açılır köprü, kuleler, taş duvarlar, bayraklar, orman ve gündüz-gece geçişi ekle.
-Bu bir benchmark türü olduğundan, görsel zenginliği ne ölçüde artırabileceğini görmek için 3B modelin kalitesine en yüksek önceliği ver.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102780850706567390) · [Orijinal gönderi](https://x.com/luxurytax150/status/2102780850706567390) · [Örneklere dön](#all-prompts)
-
----
 
 <a id="2102788013902213508"></a>
 
@@ -3635,6 +3518,556 @@ Trenin tamamını mantıklı adlandırılmış parçalar ve paketlenmiş dokular
 
 ---
 
+<a id="2114671379455119514"></a>
+
+### Blender MCP ile 19. yüzyıldan kalma el yapımı tabanca
+
+[patch](https://x.com/patch_gg) · 2026-10-26
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/artisanal-1800s-pistol-3d-model"><img src="../assets/previews/35a8723aa9a926bb9637e2b4dad3c5e9b162c1106f5ff1681d2f0275af471c7b.jpg" width="840" loading="lazy" alt="Blender MCP ile 19. yüzyıldan kalma el yapımı tabanca"></a>
+
+Karşılaştırmalı bir yapay zekâ modeli paylaşımında, test edilen modeller arasında GPT-6 Astra da yer alırken Blender MCP kullanarak 19. yüzyıldan kalma el yapımı bir tabanca oluşturma isteği sunuluyor.
+
+**İstem**
+
+```text
+Blender MCP kullanarak 19. yüzyıldan kalma el yapımı bir tabanca oluştur
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/artisanal-1800s-pistol-3d-model) · [Orijinal gönderi](https://x.com/patch_gg/status/2114671379455119514) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2114735216686211306"></a>
+
+### Fresh Coat: etkileşimli piksel sanatlı 3B grafiti avlusu
+
+[Adem Ninja](https://x.com/halfofthemwork) · 2026-10-26
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/fresh-coat-interactive-3d-graffiti-yard"><img src="../assets/previews/d180e9edaafe76d826392400af36fc692a4ef1491668ad31800185411ad4cc9b.jpg" width="840" loading="lazy" alt="Fresh Coat: etkileşimli piksel sanatlı 3B grafiti avlusu"></a>
+
+Ekibin, hava durumuna, devriye gezen temizlik görevlisine, duvar boyama kurallarına ve birbirine tepki vererek bir duvarı boyadığı, yüzen bir adadaki garaj avlusunda geçen tek dosyalık etkileşimli three.js 3B sahnesi. İzometrik piksel sanatlı bir oluşturucu, prosedürel boya davranışı, karakter animasyonu, çevresel hayvanlar ve mobil cihazlara uygun kontroller ile kullanıcı arayüzü tanımlar.
+
+**İstem**
+
+```text
+"Fresh Coat" adlı tek dosyalık bir HTML + three.js (r160) sahnesi oluştur: yüzen bir adadaki arka bahçede, uzun bir garaj duvarını boyayan bir grafiti ekibi. Bu, keskin piksel sanatı olarak oluşturulan gerçek bir 3B sahne olmalı.
+
+Oluşturma: ortografik izometrik kamera kullan (90° adımlarla döndürmek için sürükle, yakınlaştırmak için kaydır veya iki parmakla sıkıştır). Derinlik dokusuna sahip küçük, düşük çözünürlüklü bir hedefe oluştur, ardından texelFetch ile tam ekran piksellerine büyüt. Derinlik tabanlı dış hatlar ekle ve OKLab'de her pikseli yaklaşık 60 renkten oluşan sabit bir palete indir; isteğe bağlı Bayer dithering kullan. Parçaların öne çıkması için palette yeterince doygun sprey rengi (krom, floro, koyu gölgeler) bulunmalı. "Pixel art / Raw 3D" arasında geçiş yapılabilsin; piksel boyutu kaydırıcısı, Palette / Dither / Outlines onay kutuları ve kamerayı duvara tam karşıya çeviren bir "Wall view" düğmesi ekle.
+
+Avlu: adanın kenarında kaldırım, çim ve toprak bulunan yamalı, çatlak asfalt. Asfaltın çevresinde:
+- numaralı kapılara ve üzerlerine taşan düz bir çatıya sahip uzun bir sıra kilitli garaj; arka duvarları tuğla dokulu eski sıva ve tuğladan bir tuval olarak oluşturulsun;
+- arkasına saklanmak için uygun, uyarı levhalı tuğla bir trafo kulübesi;
+- yanında bank bulunan bir kavak ve üzerinde oturan, yeni tag'lere dudak büküp iyi parçalara başını sallayan bir büyükanne;
+- halı askısı, çalılar, içinde delik bulunan bir çit ve boş kutularla dolu bir çöp konteyneri;
+- bir direğin üzerindeki lamba ve bir garaj kapısının üzerindeki lamba.
+Güvercinler yürüyüp gagalarken, bir writer veya temizlik görevlisi yaklaştığında çatılara doğru kanat çırparak havalanır. Garajın çatısındaki bir kedi, tıslayan kutuyu başıyla takip eder.
+
+Duvar: tüm duvarın üzerinde bir veri dokusu. Her texel; rengi, katmanı, ıslaklığı, yaşı ve konturundaki sırasını saklar. Parçalar gerçek çizim sırasıyla aşamalı olarak çizilir: ince bir taslak konturu, dolgu, solma, son kontur, 3B gölge, vurgular ve en son tag. Daha eski katmanlar, bir boya katı ince olduğunda görünür; eski parçalar da yaşlandıkça solar ve dökülür.
+
+Sprey: her kutu bir damla konisi püskürtür. Mesafe çizgi genişliğini ve yumuşaklığını, hız ise kaplamayı belirler. Çok yavaş veya çok yakından hareket etmek boyanın birikmesine ve akmasına neden olur; damlalar kuruyana kadar yerçekimiyle doku üzerinde aşağı süzülür. Rüzgâr, aşırı püskürtmeyi yana savurur. Kutuların boyası azalır (tıslama kesik kesik duyulur ve çizgi parçalanır), kutular sallanırken ses çıkarır ve boşaldıklarında konteynere atılır.
+
+Ekip (her biri beceri, hız, kutu kontrolü ve tagger / throw-up / piece / karakterler tarzlarından birine sahip 8 writer):
+- Dördü aynı anda boyar, dördü kaldırımda sırasını bekleyip siyah kitaplarına eskiz çizer. Harfler özgün bir piksel alfabesinden gelir ve konturlara dönüştürülür; böylece her writer'ın adı ve el yazısı tarzı farklı olur.
+- Her writer duvarı tarayıp bir yer seçer, boş alana sığacak bir parça planlar, eskizini kabaca çizer, bakmak için geri çekilir ve ardından katmanlar hâlinde boyar. Ekip renk düzeninde anlaşır ve writer'lar kutuları birbirine verir.
+- Duvar kuralı: daha iyi bir parçanın üzerine asla geçme; yalnızca daha kötü veya daha eski bir parçanın üzerine geç. Birinin parçasının üzerine tag atmak kavga başlatır: parçanın üstünü çizer ve ikisi tartışır. Code: Off durumunda her şey serbesttir.
+- Ekip her parçadan sonra parçayı değerlendirir (harfler, akış, renkler, temizlik, akıntılar). En yüksek değerlendirme, writer'ını sıralamada yükseltir. Parçasının üstü çizilen veya buff'lanan writer kuyruğun sonuna düşer. Alttaki herkes bir sıra ilerler ve sıradaki kişi duvarın başına geçer.
+
+Temizlik görevlisi ve yapay zekâ: bir temizlik görevlisi, duvarla hiçbir zaman tam olarak eşleşmeyen gri boyadan oluşan bir kova ve ruloyla zamanlayıcıya bağlı olarak devriye gezer. Sırasını bekleyen writer'lardan biri gözcülük yapar. Temizlik görevlisi göründüğünde gözcü ıslık çalar; herkes kutularını alıp kulübenin veya konteynerin arkasına saklanır ve temizlik görevlisi gidince geri döner. Temizlik görevlisi taze tag'leri önce, düzensiz gri dikdörtgenler hâlinde buff'lar; bu alanlar sonraki parça için temiz tuval hâline gelir. Hatalar aceleyle (temizlik görevlisi yakındayken), rüzgârda, kutu neredeyse boşken ve beceri düşük olduğunda artar: titrek çizgiler, aşırı püskürtme, akıntılar. Bazen bir nozul tıkanır ve bir boya topağı püskürtür.
+
+Writer'lar: iki kemikli IK kullanan kutu rig'leriyle donatılmış olsun. Kutu tutan el, duvardan doğru mesafeyi koruyarak kontur yolunu izlesin. Pozlar: kutu çantasıyla yürüme, kutuyu sallama, alt kısmı boyamak için çömelme, üst kısma ulaşmak için parmak uçlarında gerinme veya kasanın üzerine çıkma, kolları kavuşturup geri çekilme, bir hatayı gösterme, yumruk tokuşturma, üstü çizilmiş bir parça hakkında tartışma, koşup saklanma, dışarı bakma ve kaldırımda oturup eskiz çizme.
+
+Zaman ve hava durumu: Day / Dusk / Night (lambalar duvarı aydınlatır ve lamba ışığında boyamak renkleri değiştirir), Dry / Windy / Rain.
+- Rain: çizgiler, sıçramalar, daha koyu asfalt ve ıslak, daha koyu bir duvar; aynalı bir oluşturma geçişi aracılığıyla duvarı yansıtan su birikintileri. Kurumamış taze boya, renkli çizgiler hâlinde akar ve yıkanarak silinir; kürlenmiş boya ise dayanır.
+- Writer'lar garaj çatısının saçaklarının altına sığınır. Duvar kuruduğunda ikisi hasarlı bölümleri aynı kontur sırasını izleyerek yeniden boyar ve boyama devam eder.
+
+Kullanıcı arayüzü (İngilizce, açık ve koyu temalar, mobil düzen):
+- Bitirilen parçaları, saat + durumu ("Painting", "Janitor!", "Rain"), en uzun süredir duran parçayı ve en yüksek puanlı parçayı gösteren aydınlatılmış skor tablosu.
+- Şunları içeren bir yan panel: Time & weather (duvarın ıslaklığı ve boya kürlenme çubuklarıyla); sıralama (King / Writer / Toy / Newbie ve "Next up"); kurallar (Code: Respect / Off; Janitor: On / Off; Wind: Calm / Gusty); olay akışı ("Crossed out!", "Buffed", "Drip", "Janitor coming"), "Everyone go over the King" ve Pause; görünüm (bir parçayı ilk konturundan itibaren yeniden oynat).
+- Duvarın üzerinde bir noktaya tıklandığında sıradaki writer orayı boyar. Bir writer'a tıklandığında tüm ekip ona yardım eder. Özgün harfler ve tasarım; gerçek ekip, marka veya isim kullanılmaz.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/fresh-coat-interactive-3d-graffiti-yard) · [Orijinal gönderi](https://x.com/halfofthemwork/status/2114738270466695553) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2114961338175033641"></a>
+
+### İnsanların, uzaylıların ve yaratıkların yaşadığı 2099 temalı 3B dünya
+
+[Rey Brando](https://x.com/ReyBrando1) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/2099-human-alien-creature-3d-world"><img src="../assets/previews/66f3527f036fcd7ee885cbe5bcb392ba99740dd8f950fe4282aa86b1820ba2cc.jpg" width="840" loading="lazy" alt="İnsanların, uzaylıların ve yaratıkların yaşadığı 2099 temalı 3B dünya"></a>
+
+Paylaşımı yapan kişinin belirttiğine göre ChatGPT ücretsiz sürümü (GPT-6 Thinking) ile Claude Haiku'yu karşılaştırmak için kullanılan ortak tek seferlik istem. İstemde, insanların, uzaylıların ve yaratıkların yaşadığı 2099 yılında geçen bir 3B dünya oluşturulması isteniyor.
+
+**İstem**
+
+```text
+İnsanların, uzaylıların ve yaratıkların yaşadığı 2099 yılına ait bir 3B dünya oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/2099-human-alien-creature-3d-world) · [Orijinal gönderi](https://x.com/ReyBrando1/status/2114961338175033641) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2115035785179148694"></a>
+
+### SON VAGON
+
+[Happycapy](https://x.com/happycapyai) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/haunted-halloween-train-station-3d-experience"><img src="../assets/previews/64294e6e82e623c92cc9421d86a247bfc4f263d0ad2d09886ded2e1918699dc1.jpg" width="840" loading="lazy" alt="SON VAGON"></a>
+
+Tarayıcı tabanlı etkileşimli bir 3B Cadılar Bayramı dioraması: Minyatür bir hayalet tren, büyülü bir Viktorya dönemi demiryolu köyünün çevresinde dolaşırken gizli tünel geçitleri, doğaüstü ve her seferinde aynı şekilde ilerleyen bir anlatıyı yönlendirir. İstemde el yapımı dekorlar, içi oyulup aydınlatılmış balkabakları, ayrıntılı bir buharlı tren, kamera ön ayarları, sürükleyerek yörüngede döndürme, kaydırarak yakınlaştırma, 36 saniyelik döngüsel bir hikâye, erişilebilirlik kontrolleri, ses ve Three.js uygulaması tanımlanır.
+
+**İstem**
+
+```text
+“THE LAST CARRIAGE”ı oluşturun: tarayıcı için tamamlanmış, sanat yönetimi son derece özenli, etkileşimli bir 3B Cadılar Bayramı deneyimi.
+
+Gece yarısında minyatür bir hayalet tren, büyülü bir Viktorya dönemi köyünün çevresinde dolaşır. Her tünelde kaybolduğunda bir şey sessizce değişir.
+
+Bir konsept, maket veya teknik demo değil; çalışan bir deneyim teslim edin. Bunu, ayrıntılı bir stop-motion film setinin işçiliğine sahip küçük bir etkileşimli sinema eseri gibi ele alın.
+
+Mevcut bir projede çalışıyorsanız kimliğini, işe yarayan tren mantığını, çalışan etkileşimlerini ve özel erişim yapılandırmasını koruyun. Mevcut siteyi kopya bir site oluşturmak yerine geliştirin.
+
+1. YARATICI YÖNLENDİRME
+
+Temel fikir:
+“Müze kalitesinde mekanik bir diorama olarak el işçiliğiyle hazırlanmış, büyülü bir Cadılar Bayramı demiryolu köyü.”
+
+Duygusal denge:
+- %60 büyülü sonbahar sıcaklığı.
+- %30 gotik gizem.
+- %10 sessiz huzursuzluk.
+
+Keşfetmeye davet edecek kadar sıcak, akılda kalacak kadar tuhaf olmasını sağlayın.
+
+Kontrollü bir palet kullanın:
+- Mürekkep mavisi ve kadife mavisi gölgeler.
+- Soluk mor ve neredeyse siyah erik tonları.
+- Yanık sienna ve bakır tonlarında sonbahar yaprakları.
+- Kabak kehribarı ve sıcak fildişi.
+- Öküz kanı kırmızısı boya.
+- Kararmış altın ve yaşlanmış pirinç.
+
+Sıcak ışıklar sahnenin duygusal merkezi olmalı. Her yüzeyi camgöbeği veya koyu teal tonlarıyla yıkamaktan kaçının.
+
+Malzemeler dokunsal ve el yapımı hissettirmeli: boyalı ahşap, kurumla kararmış metal, hava koşullarından yıpranmış pirinç, hafifçe eğrilmiş sıva, katmanlı arduvaz kiremitler, nemli parke taşları, mumsu kabak kabuğu ve narin cam.
+
+Ölçeği tutarlı korurken amaçlı asimetri, küçük kusurlar ve yüzey çeşitliliği ekleyin.
+
+Jenerik düşük poligonlu varlıklardan, yer tutucu kutulardan, blob biçimli ağaçlardan, neon renklerden, aşırı bloom efektinden, yoğun sisten, ani korkutma efektlerinden, gore içeriğinden, yanıp sönen efektlerden ve görsel karmaşadan kaçının.
+
+2. KOMPOZİSYON VE AÇILIŞ KARESİ
+
+Minyatür dünya, açılış görüntü alanının yaklaşık %75–85’ini kaplasın. Sahne baskın olmalı; tipografi ikincil kalmalı.
+
+Samimi bir dörtte üç kompozisyon tasarlayın:
+- Ön plan: kıvrımlı demiryolunun yanında, güzelce oyulmuş üç kabak feneri.
+- Orta plan: sıcak ışıklarla aydınlanan istasyonun önünden geçen lokomotif.
+- Arka plan: eğri köy çatıları, ince bir saat kulesi ve ağaçlarla çevrili bir tünel girişi.
+
+Bu odak noktalarını görsel bir üçgen oluşturacak şekilde yerleştirin. Demiryolunun kıvrımını güçlü bir yönlendirici çizgi olarak kullanın.
+
+Görünen boş taban alanını azaltın ve modelin büyük bir web sayfasının içinde küçük görünmesine izin vermeyin. Ayrıntılı kümeler arasında daha sakin bölgeler bırakın.
+
+Sıfırıncı saniyede şunları net biçimde gösterin:
+- Ön plandaki kıvrım üzerinde lokomotif ve yolcu vagonları.
+- En az üç, kolayca tanınabilen ışıklı fener kabağı yüzü.
+- İstasyon girişi ve sıcak ışıklı gişe penceresi.
+- Tünel ağzı.
+- Okunaklı bir mimari silüet.
+- Sıcak ışık ile serin gece arasındaki dengeli ilişki.
+
+İlk tünel girişi, izleyicilerin treni takdir edecek kadar zaman bulmasından önce gerçekleşmemeli.
+
+Açılış karesi, hiçbir şey hareket etmeden önce tamamlanmış bir Cadılar Bayramı illüstrasyonu gibi çalışmalı. En iyi kompozisyonu deneyimin yirminci saniyesine saklamayın.
+
+Masaüstü ve mobil dikey görünüm için bilinçli kadrajlar oluşturun. Dikey video kompozisyonu treni, istasyonu ve ön plandaki kabakları korumalı.
+
+3. MİNYATÜR DÜNYA
+
+Şunları içeren kompakt, zengin kompoze edilmiş bir manzara oluşturun:
+- Kıvrımlı bir demiryolu döngüsü.
+- Karanlık bir derenin üzerinden geçen dar taş viyadük.
+- Ağaçlık bir yamaçtan geçen tünel.
+- Küçük bir Viktorya dönemi istasyonu.
+- Her biri ayrı tasarlanmış bir avuç köy evi.
+- İnce bir saat kulesi.
+- Seyrek sonbahar yapraklarına sahip heykelsi ağaçlar.
+- Peron lambasının altında bekleyen tek başına bir figür.
+
+Ayrıntıları eşit biçimde dağıtmak yerine trenin, istasyonun, ön plandaki kabakların ve tünel portalının çevresinde yoğunlaştırın.
+
+Mimari:
+- Hafifçe eğrilmiş duvarlar ve amaçlı asimetri.
+- Dik ve hafifçe kıvrılan çatılar.
+- Kalınlığı görülen katmanlı kiremitler.
+- Çatı pencereleri, eğri bacalar ve ahşap karkas.
+- İçeri gömülü kapılar ve pencere söveleri.
+- Eskimiş bakır oluklar, demir çitler ve asılı tabelalar.
+
+İstasyon:
+- İnce demir destekler üzerinde taraklı bir saçak.
+- Sıcak ışıklı bir gişe penceresi.
+- Gece yarısına yaklaşan eski bir saat.
+- Ahşap bir bank ve üst üste konmuş bagajlar.
+- Üzerinde “ALL HALLOWS” yazan küçük bir tabela.
+- Sonbahar çelenkleri ve ölçülü miktarda sıcak ışıklı fener dizisi.
+
+Tünel:
+- İşlenmiş taş bir portal ve eski demir arma.
+- Sarmaşık, kökler, düşmüş yapraklar ve kabaklarla aydınlatılmış basamaklar ya da bakım yolu.
+- Neredeyse tamamen karanlık bir iç bölüm.
+- Yamacı parçalayan katmanlı arazi, taşlar, kökler ve bitki örtüsü.
+
+Geniş, pürüzsüz ve boş bir tümsek bırakmayın.
+
+Ağaçların daralan gövdeleri ve dallanan silüetleri olmalı. Küçük bakır ve kızıl kahverengi yapraklardan oluşan, renk ve yoğunluğu değişen düzensiz kümeler kullanın.
+
+4. İMZA NİTELİĞİNDEKİ FENER KABAKLARI
+
+Yaklaşık 12–18 kabağı bilinçli kümeler hâlinde yerleştirin:
+- Ön plandaki rayın yanında üç ana kabak.
+- İstasyon basamaklarında ve saçağın altında birkaç kabak.
+- Tünelin yakınında bir küme.
+- Bir arabada, pencerelerde veya bahçe kapılarının yanında birkaç kabak.
+
+Ölçeklerini, oranlarını, dilimlerini, sap kıvrımlarını ve oyulmuş ifadelerini çeşitlendirin.
+
+Ana kabaklar şunlara sahip olmalı:
+- Yuvarlak ve derin dilimli gövdeler.
+- Hafifçe asimetrik silüetler.
+- Kıvrılmış, kuru saplar.
+- Derinliği görülen kalın oyma duvarları.
+- Belirgin göz ve ağız açıklıkları.
+- İnandırıcı içi boş bölümler ve görünen mum ışığı.
+- İnce kabuk pürüzlülüğü ve renk çeşitliliği.
+
+Gerçek açıklıklar veya iç duvarları bulunan, inandırıcı girintili kesim geometrisi kullanın. Turuncu kürelerin üzerine siyah üçgenler yapıştırmayın.
+
+En az üç oyulmuş yüz, varsayılan kameradan hemen okunabilmeli.
+
+Işıkları yakındaki parke taşlarını, istasyon basamaklarını ve rayları aydınlatmalı. Yalnızca emisyonlu turuncu yüzeyler yeterli değildir.
+
+Stratejik olarak yerleştirilmiş birkaç yerel ışık ve verimli destek teknikleri kullanın. Her kabağa pahalı, gölge oluşturan bir ışık atamayın.
+
+Mum titremesi yumuşak, düzensiz ve yavaş olmalı.
+
+5. ANA ODAK NESNESİ OLARAK TREN
+
+Üç yolcu vagonuna sahip, ayrıntılı bir minyatür buharlı lokomotif oluşturun.
+
+Lokomotif:
+- Öküz kanı kırmızısı boyalı paneller.
+- Kurum siyahı bir kazan.
+- Eskimiş pirinç bağlantı parçaları ve ince altın çizgiler.
+- Ölçülü bir hüzmeye sahip sıcak ışıklı far.
+- Katmanlı tekerlekler ve animasyonlu bağlantı çubukları.
+- Küçük bir pirinç çan.
+- Mütevazı bir sonbahar çelengi ve ön tarafa yakın küçük bir fener kabağı.
+
+Vagonlar:
+- Ayrıntılı çerçeveler ve yuvarlak çatı profilleri.
+- Sıcak ışıklı iç pencereler.
+- Normal oynatma sırasında okunaklı kalan yolcu silüetleri.
+- Kıvrımlı ray boyunca tutarlı ölçek ve aralıklar.
+
+Son vagona hafifçe ayrı bir kimlik verin:
+- Daha koyu boya.
+- Küçük bir ay amblemi.
+- Sıcak ışıklı pencerelerin arasında tek bir soluk iç ışık.
+
+Tren hareketini pürüzsüz ve tutarlı, tekerlek dönüşünü inandırıcı kılın. Kıvrımlarda vagonlar arasındaki mesafeyi koruyun.
+
+Buhar, belirgin bir opak küre zinciri değil; yumuşak, çeşitlilik gösteren ve dağılarak kaybolan ince buklelerden oluşmalı.
+
+6. IŞIKLANDIRMA, MALZEMELER VE ATMOSFER
+
+Birbirini tamamlayan üç ışık katmanı oluşturun:
+
+A. Sıcak odak ışığı
+İstasyondan, tren pencerelerinden ve kabaklardan gelen zengin kehribar ışık.
+
+B. Biçim belirleyen soğuk ışık
+Çatı kenarlarını, dalları, buharı ve tren silüetlerini ortaya çıkaran yumuşak mavi-mor ay ışığı.
+
+C. Yumuşak çevresel dolgu ışığı
+Malzeme renklerini koruyacak ve ışıksız mimarinin sıradan bir dizüstü bilgisayar veya telefonda okunabilmesini sağlayacak kadar nötr-soğuk aydınlatma.
+
+En parlak vurguları küçük ve amaçlı tutun. Kehribar rengini beyaza patlatmadan koruyun.
+
+Temas gölgeleri, dikkatle kontrol edilen yumuşak gölgeler ve maliyeti uygunsa ölçülü ortam oklüzyonu ile nesneleri zemine oturtun.
+
+Islak taş, raylar, pirinç ve dere hafif yansımalar yakalamalı.
+
+Rayların, derenin ve köprünün altının yakınında ince, yerel sis kullanın. Treni, kabak yüzlerini ve istasyonu net tutun.
+
+Ölçülü ve eşzamanlı olmayan çevresel hareketler ekleyin:
+- Süzülen birkaç yaprak.
+- Ara sıra çıkan küçük lokomotif kıvılcımları.
+- Yumuşak baca dumanı.
+- Asılı süslemelerde hafif hareket.
+- Yavaş mum titremesi.
+
+İnce film grenini ve dikkatli ton eşlemeyi kullanın. Bloom ve alan derinliği, iyi ışıklandırmanın yerine geçmemek şartıyla isteğe bağlı son dokunuşlardır. Ana tren ve kabak ayrıntılarını incelenebilecek kadar keskin tutun.
+
+7. CADILAR BAYRAMI SAHNE DÜZENİ
+
+Arayüzdeki tüm metinler gizliyken bile bayramın ne olduğu anlaşılmalı.
+
+Aşağıdakilerden özenle seçilmiş bir koleksiyon ekleyin:
+- Işıyan oyma kabaklar.
+- Kenarlarda toplanmış bakır ve kızıl kahverengi yapraklar.
+- Küçük bir ahşap kabak arabası.
+- Solmuş bir hasat festivali pankartı.
+- Saçağın altında asılı küçük hayalet süsleri.
+- Ferforje hilal ay ayrıntıları.
+- Sıcak ışığı yakaladıkları yerlerde görülen ince örümcek ağları.
+- Bir fenerin yakınında küçük siyah bir kedi.
+
+Dekorları, aralarında nefes alacak boşluklar bulunan anlamlı kümeler hâlinde kompoze edin. Dekorasyon yoğunluğu yerine işçiliği ve hikâye anlatımını öne çıkarın.
+
+8. 36 SANİYELİK ANLATI DÖNGÜSÜ
+
+Yaklaşık 12 saniyelik üç turdan oluşan, belirlenebilir ve kesintisiz 36 saniyelik bir sekans oluşturun.
+
+Açılış turu:
+Vagon pencerelerinden üç farklı yolcu görünür. Tek başına bir figür istasyon lambasının altında bekler.
+
+İkinci tur:
+Gizli bir tünel geçişinin ardından yolculardan biri kaybolur. Uzaktaki bir evde daha önce karanlık olan bir pencere artık aydınlanmıştır.
+
+Üçüncü tur:
+Bir sonraki gizli tünel geçişinin ardından peron boştur. Bekleyen figür artık son vagonda, dışarıya ve izleyiciye dönük şekilde oturmaktadır.
+
+Üçüncü tur sırasında son vagon ön plandaki kabak kümesinin yanından geçerken:
+- Mum alevleri kısa süreliğine ona doğru eğilir.
+- Soluk penceresi daha önce bekleyen figürü gösterir.
+- İstasyon lambası biraz kararır.
+- Figür yüzünü başka yöne çevirir.
+- Camda belli belirsiz hayaletimsi bir yansıma kalır.
+
+Bu anı ön plandaki geçişin çevresinde, döngünün yaklaşık 25–26. saniyesinde koreografiye dökün. Normal oynatma hızında ince ama okunaklı olmalı.
+
+Son geçiş sırasında son vagonun ışığı yavaşça söner.
+
+Açılış durumuna dönüşü gizlemek için bir sonraki tünel geçişini kullanın.
+
+Tüm yolcu değişiklikleri ve sıfırlamalar, etkilenen tren tünelin içinde tamamen gizliyken gerçekleşmeli. Görünür biçimde bir anda belirme veya süreksizlik oluşmasını önleyin.
+
+Hikâye, açıklayıcı başlıklar olmadan gözlem yapmayı ödüllendirmeli ve ses olmadan da tamamen çalışmalı.
+
+9. KAMERA, SÜRÜKLEYEREK DÖNDÜRME VE KAYDIRARAK YAKINLAŞTIRMA
+
+Üç kamera ön ayarı sağlayın:
+- DIORAMA: sanat yönetimi özenle yapılmış varsayılan dörtte üç görünüm.
+- FOLLOW: treni nazikçe takip eden kamera.
+- STATION: peronun ve vagon pencerelerinin daha yakın görünümü.
+
+Geçişler pürüzsüz ve bilinçli olmalı.
+
+Manuel etkileşimden önce zar zor fark edilen sinematik bir kaymaya izin verin. Kullanıcı görünümü manuel olarak ayarladığında bu kaymayı durdurun.
+
+Her üç ön ayarda da doğrudan manipülasyonu destekleyin:
+
+Sürükleyerek döndürme:
+- Masaüstünde sol fare tuşuyla sürükleme.
+- Dokunmatik ekranlarda tek parmakla sürükleme.
+- 360 derece boyunca pürüzsüz yatay dönüş.
+- Ufuk çizgisinin yaklaşık 12–65 derece üzeriyle sınırlı dikey yükselme.
+- Sahnenin altına doğru çevirme olmamalı.
+- Kontrollerin üzerinden geçerken sürüklemenin kesintisiz kalması için işaretçi yakalama.
+- Temiz bırakma ve iptal yönetimi.
+- Bıraktıktan sonra kontrolsüz dönme olmamalı.
+
+Kaydırarak yakınlaştırma:
+- Modeli büyütmek için yukarı kaydırın.
+- Küçültmek için aşağı kaydırın.
+- Fare tekerleklerini ve izleme dörtgeninde iki parmakla kaydırmayı destekleyin.
+- İstenen yakınlaştırma düzeyine yumuşakça geçin.
+- Yakınlaştırmayı ön ayarın varsayılan boyutunun yaklaşık %65–185’i ile sınırlayın.
+- Güvenli yörünge mesafesini korumak ve kameranın sahnenin içinden geçmesini önlemek için optik kamera yakınlaştırması kullanın.
+- Piksel, satır ve sayfa delta modları arasındaki tekerlek girdisini normalleştirin.
+- Tarayıcı düzeyindeki yakınlaştırma kısayollarını ve değiştirici tuşla yapılan tekerlek hareketlerini koruyun.
+
+Sıfırlama:
+- Göze batmayan bir Görünümü sıfırla düğmesi sağlayın.
+- Sahneye çift tıklamak veya 0 tuşuna basmak, varsayılan Diorama açısını ve %100 yakınlaştırmayı geri yüklemeli.
+- Kamera ön ayarlarını değiştirmek manuel dönüşü ve yakınlaştırmayı temizlemeli.
+- Hikâyeyi yeniden başlatmak, kamera ayarlarından bağımsız olarak anlatı zamanını sıfırlamalı.
+
+Klavye erişilebilirliği:
+- Tuval odaklandığında ok tuşlarıyla döndürün.
+- Tuval odaklandığında + ve − ile yakınlaştırmayı ayarlayın.
+- Görünür klavye odağı ve kısa, erişilebilir talimatlar sağlayın.
+
+Sahne hareketleri arayüz düğmeleriyle veya istasyon lambası etkileşimiyle çakışmamalı.
+
+10. ARAYÜZ VE SES
+
+Uygulama açılış ekranı veya gereksiz bir tanıtım akışı olmadan doğrudan sahneye açın.
+
+Köşede küçük ve zarif bir başlık kullanın:
+THE LAST CARRIAGE
+“Yolcuları izleyin.”
+
+Zarif bir serif başlığı, harf aralığı geniş ve göze batmayan destek metniyle eşleştirin. Modelin önüne geçen aşırı büyük metinlerden, fazla kenar boşluklarından ve dekoratif etiketlerden kaçının.
+
+İnce bir başlangıç ipucu ekleyin:
+“DÖNDÜRMEK İÇİN SÜRÜKLEYİN · YAKINLAŞTIRMAK İÇİN KAYDIRIN”
+Etkileşimden sonra bunu soldurun.
+
+Aşağıdakiler için göze batmayan kontroller sağlayın:
+- Ses açma/kapatma — S.
+- Kamera ön ayarı — C.
+- Görünümü ve yakınlaştırmayı sıfırlama — 0.
+- Hikâyeyi yeniden başlatma — R.
+- Kayıt için arayüzü gizleme — H.
+- Arayüzü geri getirme — H, Escape veya göze batmayan bir geri getirme düğmesi.
+- Duraklatma/devam ettirme — Sayfa arka planı odaktayken Space.
+
+Peron lambasına tıklamak veya dokunmak lambayı hafifçe karartmalı ve belli belirsiz hayalet ayak izlerini ortaya çıkarmalı. Bu isteğe bağlı ayrıntı ana hikâyeyi değiştirmemeli.
+
+Azaltılmış hareket tercihine saygı gösterin: hareketsiz bir açılış karesiyle başlayın ve açık bir Oynat kontrolü sunun. Sayfa arka plandayken animasyonu duraklatın ve sesi kapatın.
+
+Ses yalnızca etkinleştirici bir kullanıcı hareketinden sonra başlamalı.
+
+Ölçülü, katmanlı bir ses manzarası oluşturun:
+- Yumuşak tekerlek ritmi.
+- Uzaktan gelen buhar düdüğü.
+- Sonbahar rüzgârı.
+- Hafif bir istasyon çanı.
+- Tünelin içinde sesin hafifçe boğulması veya ambiyans değişiklikleri.
+
+11. UYGULAMA VE ÖZEL BARINDIRMA
+
+Three.js’i temiz ve sürdürülebilir modüllerle kullanın.
+
+Sanat yönetimini destekledikleri yerlerde prosedürel geometriyi, malzemeleri, dokuları ve sesi tercih edin. Yararlı olduğunda uygun lisanslı varlıklar kullanın ve kaynak belirtin.
+
+Temel sahne, etkileşimler ve hikâye; çalışma zamanında AI çağrıları, API anahtarları veya harici çıkarım servisleri olmadan çalışmalı.
+
+Temel bağımlılıkları ve varlıkları pratik olduğu ölçüde yerel olarak paketleyin.
+
+Şunları kullanın:
+- Statik ayrıntılar için geometri gruplama.
+- Tekrarlanan yapraklar ve dekorlar için instancing.
+- Küçük veya uzaktaki nesneler için daha düşük ayrıntı düzeyi.
+- Makul gölge ayarları.
+- Sınırlandırılmış cihaz piksel oranı.
+- Uyarlamalı işleme kalitesi.
+- Maliyeti yüksek efektler için zarif geri dönüşler.
+- WebGL kullanılamadığında açık bir geri dönüş mesajı.
+
+Öncelik sırası:
+1. Kompozisyon ve ışıklandırma.
+2. Ana kabaklar ve tren işçiliği.
+3. Pürüzsüz hareket ve okunaklı hikâye anlatımı.
+4. Mimari karakter ve malzeme zenginliği.
+5. İkincil dekorasyon.
+
+Barındırılan siteyi özel tutun ve yalnızca sahibinin hesabından erişilebilir kılın. Platform tarafından yönetilen kimlik doğrulamayı koruyun. Siteyi herkese açık hâle getirmeyin veya platformun erişim kontrollerini göstermelik bir giriş ekranıyla değiştirmeyin.
+
+12. DOĞRULAMA VE TESLİMAT
+
+Gerçekten oluşturulmuş deneyimi derleyin, çalıştırın ve inceleyin.
+
+Görsel aşamalar hâlinde çalışın:
+1. Kamera kadrajı ve sahne ölçeği.
+2. Işıklandırma ve pozlama.
+3. Ana kabaklar ve lokomotif.
+4. İstasyon ve mimari silüetler.
+5. Malzemeler ve kümelenmiş sahne dekorları.
+6. Atmosferik hareket.
+7. Arayüz iyileştirmesi.
+
+İlk üç aşamadan sonra daha fazla dekor eklemeden önce gerçek işlenmiş bir ekran görüntüsünü inceleyin.
+
+Şunları gözden geçirin:
+- Açılış karesi.
+- Lokomotifin ön plandaki kabakların yanından geçişi.
+- Her yolcu durumu değişikliği.
+- Doğaüstü an.
+- Gizli sıfırlama ve tam döngü.
+- Mobil dikey kadraj.
+- Arayüzün gizlendiği kayıt modu.
+- Alternatif kamera ön ayarları.
+- Sürükleyerek döndürme ve yükselme sınırları.
+- Kaydırarak yakınlaştırma ve yakınlaştırma sınırları.
+- Sıfırlama davranışı.
+- Klavye kontrolleri.
+- Ses ve istasyon lambası etkileşimleri.
+
+Tarayıcı hatalarını ve işleme performansını kontrol edin. Tutarlı tren aralığını, belirlenebilir anlatı durumlarını, gizli geçişleri ve döngü sürekliliğini doğrulayın.
+
+Bulutlu, düz, seyrek, aşırı dekore edilmiş veya tipografinin baskın olduğu kareleri yeniden düzenleyin.
+
+Son görsel kabul ölçütleri:
+- Sahne, metin olmadan Cadılar Bayramı olduğunu hemen anlatmalı.
+- Kabak yüzleri oyulmuş görünmeli ve çevrelerini aydınlatmalı.
+- Tren açılış karesinden itibaren güzel ve görünür bir odak nesnesi olmalı.
+- Malzemeler ve işçilik, varsayılan izleme mesafesinde takdir edilebilmeli.
+- Sıcak ışık, gece gizemini kaybetmeden zenginliğini korumalı.
+- Döndürme ve yakınlaştırma pürüzsüz ve kontrollü hissettirmeli.
+- Tek başına açılış karesi, çekici bir Cadılar Bayramı sanat baskısı olarak çalışabilmeli.
+
+Şunları teslim edin:
+- Çalışan özel deneyim.
+- Açık yerel çalıştırma talimatlarına sahip eksiksiz kaynak kodu.
+- Kısa bir kontrol kılavuzu.
+- Çalışan sonuçtan alınmış gerçek ekran görüntüleri.
+- X için kesintisiz döngülü video kaydına uygun varsayılan bir kompozisyon.
+
+Sonuç, küçük bir perili dünyayı keşfediyormuşsunuz gibi hissettirmeli: Bir şeylerin ters gittiğini fark etmeden önce izlemeye değer kadar güzel.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/haunted-halloween-train-station-3d-experience) · [Orijinal gönderi](https://x.com/happycapyai/status/2115035788891013525) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2115044315777163777"></a>
+
+### 2B arayüz içinde 3B görünüm ve iç içe UI
+
+[frozenlib](https://x.com/frozenlib) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/nested-2d-ui-in-3d-display"><img src="../assets/previews/3a949e9ee7868c83061946e8102de667edfe424c47226d4491f047a23b858147.jpg" width="840" loading="lazy" alt="2B arayüz içinde 3B görünüm ve iç içe UI"></a>
+
+2B arayüz içine 3B görünüm gömülmesini ve bu 3B alanın içine 2B UI yerleştirilebilmesini sağlayan bir çözüm. IME ve klavye odağı desteğinin yanı sıra glTF’nin etkileşimli uzantıları kavramının da entegre edilmesi isteniyor.
+
+**İstem**
+
+```text
+2B UI içinde 3B görünüm oluştur ve bunun içine 2B UI yerleştirilebilmesini sağla. 2B UI’ın sunduğu IME ve klavye odağı gibi özellikleri de destekle; ayrıca glTF’nin etkileşimli uzantıları kavramını entegre et.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/nested-2d-ui-in-3d-display) · [Orijinal gönderi](https://x.com/frozenlib/status/2115044315777163777) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2115074545166287075"></a>
+
+### Kaykay süren bir insanı süren ineği süren bisikletin 3B modeli
+
+[Tim Jayas](https://x.com/TimJayas) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/cycle-cow-human-skateboard-3d-model"><img src="../assets/previews/d9524db110a1e5f52601425074815dd9bfd0ed01fe6b55fd94f2b0646c524447.jpg" width="840" loading="lazy" alt="Kaykay süren bir insanı süren ineği süren bisikletin 3B modeli"></a>
+
+Tim Jayas tarafından GPT-6-Astra ve GPT-6.1-Terra için paylaşılan bu prompt, kaykay süren bir insanı süren ineği süren bir bisikletin Three.js ile 3B modelini oluşturmayı amaçlar. Ana nesnenin görünür kalması için beyaz bir arka plan kullanılmasını ve UI öğelerine yer verilmemesini belirtir.
+
+**İstem**
+
+```text
+Three.js kullanarak kaykay süren bir insanı süren ineği süren bir 3B bisiklet modeli oluşturun; ana nesnenin net biçimde görünür kalması için beyaz temalı bir arka plan kullanın ve UI öğeleri kullanmaktan kaçının
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/cycle-cow-human-skateboard-3d-model) · [Orijinal gönderi](https://x.com/TimJayas/status/2115074545166287075) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu
@@ -3836,73 +4269,6 @@ Düzenlenebilir, bağımsız bir kaynak proje, kilit dosyası, npm geliştirme/d
 
 ---
 
-<a id="battle-city-3d"></a>
-
-### Battle City 3D: Sonsuz Tank Savunması
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-22
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/battle-city-3d"><img src="../assets/previews/e9180abfae92dc2319bb9b62f6ee89602336de5599b5f1c98f0feffeda618cdb.png" width="840" loading="lazy" alt="Battle City 3D: Sonsuz Tank Savunması"></a>
-
-Sonsuz çimenlik, karlı ve endüstriyel savaş alanlarında ya da 35 klasik haritada kartalı savun. On ikmal malzemesi topla ve yok etmek için dört isabet gereken ağır düşman tanklarını alt et.
-
-**İstem**
-
-```text
-1. Proje hedefi
-1985 tarihli Famicom klasiğinden ilham alan, tarayıcıda çalışan bir tank savunma oyunu olan Battle City 3D'yi geliştirin. Oyuncu bir tankı sürer, 20 düşmandan oluşan bir dalgayı yok eder, malzeme toplar ve kartal karargâhını korur. Referans medyada gösterilen mevcut perspektifli 3B sürümü; tohum tabanlı sonsuz bir harekât ve seçilebilir 35 klasik düzen dâhil olmak üzere yeniden oluşturun. Okunabilir arcade kurallarını korurken tanklara, duvarlara ve çevreye gerçek bir derinlik kazandırın.
-
-2. Görsel stil
-60 derecelik görüş alanına sahip bir Three.js PerspectiveCamera kullanın. Varsayılan savaş alanı görünümü oyuncunun arkasında ve üstünde, yaklaşık 13 dünya birimi uzaklıkta ve 0,43 radyan yükseklikte konumlansın. Tankın konumunu ve önündeki bir noktayı yumuşak biçimde takip edin; tank döndüğünde kamerayı otomatik olarak döndürmeyin. Daha yüksek bir taktik görünüm, manuel sürüklemeyle yörünge kontrolü ve tekerlekle yakınlaştırma sunun. Hareket ve ateş için dört ana harita eksenini kullanın. Yörüngede döndürme sonrasında yön tuşlarını kameraya göre en yakın ana yöne eşleyin; klavye girdisini hiçbir zaman çapraz harekete dönüştürmeyin. Kasanın yönünü atış yönüyle hemen eşleştirin; mermi ve namlu alevi yüksekliğini her modelin gerçek topuna göre ayarlayın.
-Yere oturan paletli tanklar, metalik taretler, pişmiş toprak tuğlalar, koyu çelik bloklar, mavi su, alçak bitki örtüsü ve yansıtıcı buz kullanın. Oynanabilir alanın dışındaki zemini ağaçlara, harap binalara ve sise doğru devam ettirin. Sıcak yönlü ışık, yumuşak gölgeler, ortam dolgusu, ACES ton eşleme ve ölçülü namlu alevleri, geri tepme, kıvılcım ve seken enkaz kullanın. Kar, zemin ve ağaç paletini değiştirsin; endüstriyel bölümlerde çelik ve harap binalar öne çıksın.
-Oyunu koyu zeytin tonlarında bir komuta arayüzü, sıcak sarı ana eylem rengi, skor, ortak canlar, kalan düşman simgeleri, bölüm adı ve radar ile çerçeveleyin. Büyük Tripo 3D / Three.js model seçimini savaş alanının üstüne yerleştirin; seçili modu ve dönen tank önizlemesini gösterin. Yerelleştirilmiş, resimli bir malzeme rehberi ve süreli etki göstergeleri kullanın. Dar ekranlarda oyun alanını ve temel dokunmatik kontrolleri görünür tutun.
-
-3. Dünya ve sahneler
-Savaş alanını 26'ya 26 karodan oluşan bir ızgara olarak temsil edin; tank çarpışması için yarı genişliği 0,72 olsun. Kartalı (13,25) konumuna, yok edilebilir U biçimli bir tuğla savunmasıyla çevrili şekilde yerleştirin. Oyuncu doğma noktaları (9,25) ve (17,25); düşman kapıları ise (1,1), (13,1) ve (25,1) olsun.
-İki harekât sunun: 20 düşmanlık dalga tablolarıyla birlikte 35 klasik düzenin tamamı ve çayır, kar ve endüstriyel biyomlar arasında döngü oluşturan, tohum tabanlı sonsuz bir üretici. Tam kasanın geçebileceği genişlikte bağlantılı koridorlar üretin; oyuncu doğma noktaları, düşman kapıları ve toplama nesnesi konumları arasında geçilebilir bağlantılar oluşturun. Doğrudan doğma noktasından kartala ateş hattını engellemek, ancak çapraz sokak erişimini korumak için merkezde kademeli çelik siperler ekleyin. Başlangıç biyomunu veya klasik bölümü seçmeye ve rastgele bir haritayı yeniden üretmeye izin verin. Harekât tohumunu, skoru, canları ve hayatta kalan oyuncuların geliştirmelerini bir sonraki bölüme aktarın.
-Tuğla yok edilebilir; çelik bloklar normal mermileri ve tankları durdurur; su tankları engeller, ancak mermilerin geçmesine izin verir; bitki örtüsü düşman modellerini gizler; buz çekişi azaltır. Uzak çevreyi dekoratif tutun ve oynanış çarpışmasından ayrı tutun.
-
-4. Varlık envanteri
-Bu kararlı ve birbirinden bağımsız olarak değiştirilebilen 3B model yuvalarını kullanın. Önceliği oyuncu, düşman, ağır tank ve kartala, ardından on malzeme modelinin tamamına verin. Her varlığı en alçak noktasından zemine oturtun ve yönünü, merkezini ve ölçeğini normalize edin. Her düşman için ayrı model yüklemek yerine şablonları yeniden kullanın.
-- player: Okunabilir bir tareti ve öne bakan topu olan hardal sarısı paletli tank; oyuncu tanklarında kullanılır, ikinci oyuncu için ayrı bir halka rengine sahiptir.
-- enemy: Temel, hızlı ve güçlü varyantlar için farklı tonlarla yeniden kullanılan kompakt paletli düşman tankı.
-- heavy: Standart düşman mesh'inden ayrı, gözle görülür biçimde daha ağır zırhlı bir tank; üzerinde görünen dört zırh segmenti bulunur.
-- eagle: Karargâh kaidesi üzerinde metalik altın renkli kartal heykeli.
-- pickup-star: Beş köşeli altın geliştirme yıldızı.
-- pickup-helmet: Geçici koruma sağlayan askerî kask.
-- pickup-clock: Düşman hareketini donduran, okunaklı bir saat.
-- pickup-shovel: Karargâhı güçlendiren kürek.
-- pickup-life: Bir ekstra canı temsil eden minyatür tank.
-- pickup-grenade: Etkin düşmanları yok eden el bombası.
-- pickup-ammo: Hızlı ateş sağlayan mühimmat sandığı.
-- pickup-repair: Zırhı onaran tamir alet çantası.
-- pickup-magnet: Uzaktan malzeme toplamak için at nalı mıknatısı.
-- pickup-boost: Geçici hız artışı sağlayan enerji bataryası.
-- environment-building: Yıpranmış, harap bir apartman binası, Tripo P2.0, istenen bütçe 1.800 üçgen.
-- environment-tree: Gövdesi görünen, düzensiz bir çam ağacı, Tripo P2.0, istenen bütçe 1.100 üçgen.
-- environment-bush: Alçak, yapraklı bir çalı ve çim kümeleri, Tripo P2.0, istenen bütçe 650 üçgen.
-Malzemeleri renkli halkalara ve eşleşen rehber küçük resimlerine sahip, dönen ve havada süzülen toplanabilir modeller olarak gösterin. Tekrarlanan binaları, ağaçları ve çalıları ortak geometri/malzeme örnekleriyle oluşturun. Bina ve ağaç köklerini zemine oturtun; çalı tabanını araziyle birleşmesi için biraz gömün. Kar bölümlerinde yukarı bakan yüzeylere kar ekleyin. Fayans duvarlarını, suyu, buzu, mermi mesh'lerini, kullanıcı arayüzünü, ışıkları, parçacıkları ve çarpışma proxy'lerini prosedürel olarak üretin. Suyu, dünya uzayında akan dalgalar, değişen normal'ler ve küçük yüzey yer değiştirmesiyle canlandırın; bu efekt bitişik karolar arasında kesintisiz devam etsin. Tripo sürümünde 17 üretilmiş model kullanılır; karşılaştırma sürümü her iki tankı ve çevreyi aynı kurallar ve çarpışmalarla kodla oluşturulmuş geometriye geçirir. Her ikisi de Three.js ile işlenir.
-
-5. Oynanış ve geri bildirim
-Ortak üç can havuzuyla tek oyunculu ve yerel iki oyunculu eşli oyunu destekleyin. Tek oyunculu modda WASD veya ok tuşları, ateş için Space/J kullanılır. Eşli oyunda birinci oyuncu WASD ve Space/J; ikinci oyuncu ok tuşları ve Enter/Numpad 0 kullanır. P/Escape duraklatır; C kamerayı değiştirir; 1/2 model modunu seçer. Dokunmatik ekranlarda yön tuş takımına ve ateş düğmesine aynı anda basılı tutmaya izin verin, işaretçi iptal edildiğinde girdiyi bırakın; kaydırma gerektirmeden duraklatma, devam etme, sonraki bölüm ve yeniden deneme eylemlerini sunun.
-Oyuncu hızı saniyede 4,2 birim, takviyeyle 6,3 birimdir. Düşmanlar temel, hızlı, güçlü ve ağır türlerden oluşur; ağır tankların dört can puanı vardır ve zırhsız alınan ilk üç darbeye dayanırlar. Bir türü yok etmek sırasıyla 100, 200, 300 veya 400 puan kazandırır; herhangi bir malzemeyi toplamak 500 puan verir. 20 düşman yok edildiğinde bölüm tamamlanır. Kartal yok edildiğinde veya hayatta kalan oyuncu kalmadan ortak canlar tükendiğinde oyun kaybedilir. Anında yeniden deneme, açıkça belirtilmiş sonraki bölüme geçiş ve yerel olarak kaydedilen en yüksek skor sunun.
-On malzemenin tamamını uygulayın: yıldız üç seviyede geliştirme sağlar (daha hızlı mermiler, aynı anda iki mermi, ardından çeliği delen mermiler); kask 12 saniye kalkan sağlar; saat düşmanları 9 saniye dondurur; kürek üssü 16 saniye güçlendirir; minyatür tank bir can ekler; el bombası etkin düşmanları yok eder; mühimmat, aynı anda en fazla dört etkin mermiyle 14 saniyelik hızlı ateş sağlar; tamir iki can puanı ekler, üst sınır üçtür; mıknatıs beş birim içindeki görünür malzemeleri 20 saniye boyunca toplar; hız takviyesi 12 saniye sürer. Malzeme modelleri 25 saniye boyunca kalır ve ulaşılabilir konumlarda görünür; türleri çeşitlendirmek için karıştırılmış bir deste kullanın. Mıknatısla toplama işlemi katı engellere uymalıdır.
-4,333 saniyelik bölüm açılışı, ateş etme, sürüş ve rölanti, tuğla/çelik çarpışmaları, düşman/oyuncu patlamaları, malzemenin görünmesi ve toplanması, ekstra can, zırh darbesi, buz, duraklatma ve oyun sonu için toplanmış NES tarzı örnekleri kullanın. Mevcut projede JustoSenka/BattleCity kaynağından, 3a07004ba8e53baea74ff70d2ecc22b017eb9b20 commit'ine ait 15 OGG ses işareti kullanılır. Atıflarını ve depo lisans bildirimini koruyun; bunları bit düzeyinde kusursuz donanım kaydı olduklarını iddia etmeden, toplanmış yeniden yapım sesleri olarak tanımlayın. Kullanıcı etkileşimiyle sesi etkinleştirin, örnek kazançlarını ayarlayın, ses seviyesi/sessize alma seçenekleri sunun ve sesleri olaylarla senkronize edin. Konuyla ilgisiz sürekli savaş müziği eklemeyin.
-
-6. Teknik uygulama
-TypeScript, Three.js 0.180.0 ve Vite 7 kullanın; izole bir package.json ve lockfile bulundurun. Simülasyonu işleme katmanından bağımsız tutun ve 120 Hz'de çalıştırın. Katı kasa AABB'leri, eksenleri ayrıştırılmış hareket, sınır ve tank ayrımı ve karşıt mermiler arasındaki göreli hareket çarpışması dâhil sürekli en yakın temaslı mermi taramaları kullanın. Nokta atışı duvar içinden geçişini önlemek için mermiler kasadan çıkmalı ve ileri doğru taranmalıdır. Buz hızlanması/yavaşlaması ile enkaz için sönümlü sekmeler içeren yerçekimi ekleyin. Bunlar süspansiyon simülasyonu değil, arcade tarzı zemin fiziğidir.
-Aynı origin'den GLB varlıklarını GLTFLoader ile yükleyin. Çarpışma proxy'lerini varlık geometrisinden bağımsız tutun. Mevcut çalışma zamanı niceleyicili öznitelikler ve WebP dokuları kullanır (araçlar/üs için 1024 px; malzemeler ve çevre için 512 px); geometri sadeleştirme veya WASM kod çözücü kullanılmaz. Yüklemeyi dört worker ile sınırlayın; hash sürümlü URL'ler ve 20 saniye zaman aşımı olan 256 KiB aralıklar kullanın; her aralık için en fazla üç deneme yapın. Dört temel model ve ses hazır olduktan sonra oyunu açın; malzeme ve çevre varlıklarını arka planda yükleyin ve yalnızca modeli hazır olan malzeme türlerini oluşturun. Model modu değiştirilirken oynanış durumu korunur.
-İngilizce, basitleştirilmiş Çince, Japonca ve Korece kullanıcı arayüzü sunun. Cihaz dilinden varsayılanı seçin; ancak zh-TW, zh-HK, zh-MO ve zh-Hant için varsayılan İngilizce olsun. Açıkça seçilen dili kalıcı olarak saklayın. Klavyeyi, masaüstü işaretçisini ve çoklu dokunmayı destekleyin; odak kaybında oyunu duraklatın. Tüm varlıkları, kredileri ve yeniden üretilebilir betikleri kaynak projesinde yerel tutun; özel kimlik bilgileri veya çalışma zamanı arka uç bağımlılığı içermeyen statik bir dist dizini dağıtın.
-
-7. Tamamlanma ölçütleri
-Düzenlenebilir kaynak kodu, varlık köken bilgilerini ve lisans bildirimlerini, npm geliştirme/derleme iş akışını ve oynanabilir bir statik önizlemeyi teslim edin. Varsayılan Tripo sahnesini, model karşılaştırmasını, tüm biyomları, dört darbe alan ağır tankı, her malzeme etkisini, duraklatma/devam etmeyi, yenilgi/yeniden denemeyi ve bölüm ilerlemesini doğrulayın. Kasa genişliği bağlantısını ve güvenli doğma noktalarını test etmek için tohumlanmış 1.000 haritanın yanı sıra tüm klasik haritaları, duvar içinden geçmeyi, çapraz atışları, tank ayrımını, buz momentumunu, birden çok yatay açı değerinde kameraya göre girdiyi ve durumu koruyan mod geçişlerini test edin. Yerelleştirilmiş kullanıcı arayüzünü ve dar ekranlarda iki parmak kontrollerini doğrulayın; yalnızca emülasyon kullanıldıysa fiziksel cihaz testi yapıldığını iddia etmeyin. Gerçek başlangıç ve savaş karelerini referans görselleri/videolarıyla karşılaştırın; 17 modelin ve 15 ses işaretinin tamamının yüklendiğini onaylayın. Mevcut CMS Web Page iş akışı üzerinden yayınlayın ve kaydedilmiş bir CMS kaydını tamamlanmış dağıtım olarak değerlendirmek yerine son herkese açık sayfayı doğrulayın.
-
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/battle-city-3d) · [Canlı demo](https://battle-city-3d.tripo.page/) · [Örneklere dön](#all-prompts)
-
----
-
 <a id="jelly-villa"></a>
 
 ### Jöle Villa
@@ -3973,7 +4339,7 @@ jared adına atıf yapılan yeni bir jelly-villa istemi yayımlayın; özgün ya
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 370 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 376 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

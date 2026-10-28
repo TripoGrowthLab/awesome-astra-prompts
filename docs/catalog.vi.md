@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**370 · Prompt Astra mới nhất**
+**376 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -38,7 +38,7 @@
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/featured/crazy-tanks-3d-island-artillery.webp" width="420" loading="lazy" alt="Crazy Tanks — Pháo binh đảo 3D"></a><br><strong><a href="#crazy-tanks-3d-island-artillery">Crazy Tanks — Pháo binh đảo 3D</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="#crazy-tanks-3d-island-artillery">Prompt →</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/battle-city-3d"><img src="../assets/featured/battle-city-3d.webp" width="420" loading="lazy" alt="Battle City 3D: Phòng thủ xe tăng vô tận"></a><br><strong><a href="#battle-city-3d">Battle City 3D: Phòng thủ xe tăng vô tận</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="#battle-city-3d">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/battle-city-3d"><img src="../assets/featured/battle-city-3d.webp" width="420" loading="lazy" alt="Battle City 3D: Phòng thủ xe tăng vô tận"></a><br><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/battle-city-3d">Battle City 3D: Phòng thủ xe tăng vô tận</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="https://www.tripo3d.ai/vi/3d-prompts/battle-city-3d">Prompt →</a></td>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/titanic-the-last-light"><img src="../assets/featured/titanic-the-last-light.webp" width="420" loading="lazy" alt="TITANIC — Ánh sáng cuối cùng"></a><br><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/titanic-the-last-light">TITANIC — Ánh sáng cuối cùng</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="https://www.tripo3d.ai/vi/3d-prompts/titanic-the-last-light">Prompt →</a></td>
 </tr>
 </table>
@@ -50,11 +50,6 @@
 <details>
 <summary>Khám phá ví dụ</summary>
 
-- [Nhà ngoại ô hai tầng có nội thất](#2102473710724919614)
-- [Game đua xe kart 3D trong một tệp HTML duy nhất](#2102652927177617564)
-- [Hoạt ảnh lâu đài thời Trung cổ trên trình duyệt](#2102672926285713456)
-- [Orbit Lab: Mô phỏng 3D Mặt Trời, Trái Đất và Mặt Trăng](#2102752217375899659)
-- [Lâu đài 3D phong cách châu Âu thời Trung cổ có thể tương tác trong trình duyệt](#2102780850706567390)
 - [Bàn cờ 3D tương tác để học các gambit cờ vua](#2102788013902213508)
 - [Shader thành phố solarpunk vô tận](#2102826333550133520)
 - [Trình mô phỏng làm burger góc nhìn thứ nhất](#2102897258983313712)
@@ -145,130 +140,18 @@
 - [Mô hình ngựa thành Troy điện ảnh trong Blender](#2114060132610957601)
 - [Dựng Tháp Eiffel](#2114080244046954999)
 - [Tàu hơi nước 3D cũ kỹ, chi tiết cao](#2114092197595201850)
+- [Súng lục thủ công thế kỷ 19 với Blender MCP](#2114671379455119514)
+- [Fresh Coat: sân graffiti 3D pixel art tương tác](#2114735216686211306)
+- [Thế giới 3D năm 2099 với con người, người ngoài hành tinh và sinh vật](#2114961338175033641)
+- [TOA TÀU CUỐI CÙNG](#2115035785179148694)
+- [Hiển thị 3D và UI lồng trong UI 2D](#2115044315777163777)
+- [Mô hình 3D xe đạp cưỡi bò, bò cưỡi người, người cưỡi ván trượt](#2115074545166287075)
 - [Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D](#red-light-green-light)
 - [Golden Miner: Game khai thác vàng 3D 24 cấp độ](#golden-miner)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
-- [Battle City 3D: Phòng thủ xe tăng vô tận](#battle-city-3d)
 - [Biệt thự Thạch rau câu](#jelly-villa)
 
 </details>
-
-<a id="2102473710724919614"></a>
-
-### Nhà ngoại ô hai tầng có nội thất
-
-[Azer](https://x.com/azer0lxm) · 2026-09-22
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/1f868aa1278025abb5f25b4de2bb5daa62db78697a0f9706334215d617f27218.jpg" width="840" loading="lazy" alt="Nhà ngoại ô hai tầng có nội thất"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/48e89527946c980bd26b406a09f6be616f367109ace52923b217f454df158cab.jpg" width="840" loading="lazy" alt="Nhà ngoại ô hai tầng có nội thất"></a>
-
-Prompt do Azer cung cấp yêu cầu tạo mô hình 3D bằng Blender cho một ngôi nhà ngoại ô hai tầng, bao gồm đầy đủ phần nội thất.
-
-**Prompt**
-
-```text
-Xin chào. Hãy thiết kế mô hình 3D tốt nhất có thể bằng Blender về một ngôi nhà ngoại ô hai tầng, bao gồm cả nội thất và mọi chi tiết cần thiết.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102473710724919614) · [Bài đăng gốc](https://x.com/azer0lxm/status/2102473781830909995) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2102652927177617564"></a>
-
-### Game đua xe kart 3D trong một tệp HTML duy nhất
-
-[Anshul](https://x.com/realanshull) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102652927177617564"><img src="../assets/previews/0f568961afe1321356c2f741639b1e8c0fb199da304a749177bfa3210cbd2bbd.jpg" width="840" loading="lazy" alt="Game đua xe kart 3D trong một tệp HTML duy nhất"></a>
-
-Một prompt có thể tái sử dụng, được tác giả cho biết đã cung cấp nguyên văn cho GPT Astra 6 và Claude Opus 5.5 để so sánh cách triển khai game đua xe kart 3D của hai mô hình.
-
-**Prompt**
-
-```text
-Tạo một game đua xe kart 3D trong một tệp HTML duy nhất.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102652927177617564) · [Bài đăng gốc](https://x.com/realanshull/status/2102652927177617564) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2102672926285713456"></a>
-
-### Hoạt ảnh lâu đài thời Trung cổ trên trình duyệt
-
-[juhapalomaki.fi](https://juhapalomaki.fi/) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102672926285713456"><img src="../assets/previews/b43efddd3611576ef42085cb8dc829a3c4e2476c7392c3ce076fd7b852c3f5c1.jpg" width="840" loading="lazy" alt="Hoạt ảnh lâu đài thời Trung cổ trên trình duyệt"></a>
-
-Cảnh 3D chạy trên trình duyệt, mô tả một lâu đài thời Trung cổ trên ngọn đồi phủ đầy rừng. Máy quay liên tục xoay quanh lâu đài, trong khi lá cờ trên tháp tung bay trong gió. Bài đăng của tác giả được liên kết xác định đây là nhiệm vụ one-shot dùng chung cho GPT-6 Astra high và các mô hình khác đã được thử nghiệm.
-
-**Prompt**
-
-```text
-Tạo một hoạt ảnh 3D chạy hoàn toàn trên trình duyệt. Hoạt ảnh có một lâu đài thời Trung cổ nằm trên đỉnh một ngọn đồi giữa khu rừng rộng lớn. Không thêm điều khiển bằng bàn phím; chỉ cần để máy quay xoay quanh lâu đài để có thể quan sát lâu đài từ mọi phía. Trên đỉnh tháp lâu đài phải có một lá cờ tung bay trong gió.
-
-Đầu ra phải chứa tệp index.html; khi chạy tệp này, lâu đài sẽ hiển thị và hoạt ảnh lặp sẽ bắt đầu.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102672926285713456) · [Bài đăng gốc](https://juhapalomaki.fi/blog/castle-model-comparison/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2102752217375899659"></a>
-
-### Orbit Lab: Mô phỏng 3D Mặt Trời, Trái Đất và Mặt Trăng
-
-[technewsradio.tokyo](https://technewsradio.tokyo/) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102752217375899659"><img src="../assets/previews/51e704332827bb37a215b466ac4ce0307552ddeb8c1d40c48ddb1dd48972696c.jpg" width="840" loading="lazy" alt="Orbit Lab: Mô phỏng 3D Mặt Trời, Trái Đất và Mặt Trăng"></a>
-
-Đây là yêu cầu dùng để so sánh, được bài viết tại liên kết cho biết là đã đưa vào cả 4 mô hình, trong đó có GPT-6 Astra, Sol và Luna. Hãy triển khai một tác phẩm web mô phỏng 3D mang tính giáo dục bằng Three.js, với Mặt Trời, Trái Đất và Mặt Trăng được tạo theo phương pháp thủ tục, chuyển động quỹ đạo và tự quay, chọn bằng cách nhấp, điều khiển camera, phát lại, điều chỉnh tốc độ, lấy nét và các tính năng tương tự.
-
-**Prompt**
-
-```text
-Đây là một thử nghiệm so sánh. Hãy triển khai và hoàn thiện tác phẩm web theo cùng một đặc tả dưới đây trong thư mục làm việc của bạn. Tên sản phẩm là “Orbit Lab”. Sử dụng Three.js 0.186.0 và tải core cùng OrbitControls đúng phiên bản đó (có thể dùng import map từ CDN hoặc npm). Không cần xuất bản hay triển khai.
-
-Yêu cầu:
-1. Biểu diễn mô hình 3D của Mặt Trời, Trái Đất và Mặt Trăng bằng hình học và vật liệu tạo theo phương pháp thủ tục. Không sử dụng hình ảnh hoặc tài sản 3D bên ngoài. Dùng Mặt Trời làm nguồn sáng điểm để người dùng có thể phân biệt vùng sáng tối của Trái Đất và Mặt Trăng khi điều khiển camera.
-2. Dùng delta time để mô phỏng chuyển động quay quanh Mặt Trời và tự quay của Trái Đất, độ nghiêng trục Trái Đất cũng như chuyển động quay quanh Trái Đất của Mặt Trăng. Trực quan hóa độ nghiêng của các mặt phẳng quỹ đạo, đồng thời hiển thị đường quỹ đạo của Trái Đất và Mặt Trăng. Có thể phóng đại quy mô và tốc độ để phục vụ mục đích giáo dục.
-3. Tạo nền sao bằng các số ngẫu nhiên có thể tái lập. Dùng OrbitControls để xoay và thu phóng. Khi nhấp vào một thiên thể, hãy chuyển trạng thái được chọn và bảng thông tin mô tả tương ứng.
-4. Cung cấp các tính năng phát/tạm dừng, thanh trượt tốc độ, bật/tắt hiển thị đường quỹ đạo, lấy nét camera vào Mặt Trời/Trái Đất/Mặt Trăng và nút khôi phục trạng thái ban đầu. Có thể phát/tạm dừng và đặt lại bằng bàn phím.
-5. Giao diện phải có thể thao tác trên màn hình điện thoại, hiển thị hướng dẫn khi không hỗ trợ WebGL, đáp ứng khi thay đổi kích thước và giới hạn pixel ratio để tránh tải kết xuất quá cao.
-6. Viết hướng dẫn khởi chạy và cách thao tác trong README. Nếu có thể, hãy thực sự khởi chạy để kiểm tra hoạt động; nếu không thể, phải nêu rõ lý do. Trong báo cáo hoàn thành, hãy ghi ngắn gọn các tệp đã tạo, các hạng mục đã triển khai và kết quả kiểm tra.
-
-Không đặt câu hỏi giữa chừng; hãy tự đưa ra các phán đoán hợp lý và triển khai đến cùng.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102752217375899659) · [Bài đăng gốc](https://technewsradio.tokyo/lab/gpt6-vs-opus55) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2102780850706567390"></a>
-
-### Lâu đài 3D phong cách châu Âu thời Trung cổ có thể tương tác trong trình duyệt
-
-[もぎ＠ボードゲーム](https://x.com/luxurytax150) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102780850706567390"><img src="../assets/previews/535ebfb5581dc4dc70a4d8fdeb70422afe55fc09e97bc8db3b49e36bb3bec72f.jpg" width="840" loading="lazy" alt="Lâu đài 3D phong cách châu Âu thời Trung cổ có thể tương tác trong trình duyệt"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102780850706567390"><img src="../assets/previews/ea07857b725d97d51c74394cbf842b33b8b7cac3c945f00191f46c2e03d9c4d6.jpg" width="840" loading="lazy" alt="Lâu đài 3D phong cách châu Âu thời Trung cổ có thể tương tác trong trình duyệt"></a>
-
-Tạo một lâu đài 3D phong cách châu Âu thời Trung cổ có thể tương tác trong trình duyệt, với hào nước, cầu kéo, các tòa tháp, tường đá, cờ và rừng; đồng thời cho phép chuyển đổi giữa ngày và đêm. Ưu tiên tối đa chất lượng và diện mạo của mô hình 3D.
-
-**Prompt**
-
-```text
-Tạo một lâu đài 3D phong cách châu Âu thời Trung cổ có thể tương tác trong trình duyệt, bao gồm hào nước, cầu kéo, các tòa tháp, tường đá, cờ, rừng và tính năng chuyển đổi ngày đêm.
-Vì đây là một dạng benchmark, hãy ưu tiên tối đa chất lượng mô hình 3D và mức độ trau chuốt hình ảnh.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102780850706567390) · [Bài đăng gốc](https://x.com/luxurytax150/status/2102780850706567390) · [Về danh sách ví dụ](#all-prompts)
-
----
 
 <a id="2102788013902213508"></a>
 
@@ -3645,6 +3528,556 @@ Giữ chi phí sử dụng API tính theo đồng hồ dưới 5 USD và báo c�
 
 ---
 
+<a id="2114671379455119514"></a>
+
+### Súng lục thủ công thế kỷ 19 với Blender MCP
+
+[patch](https://x.com/patch_gg) · 2026-10-26
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/artisanal-1800s-pistol-3d-model"><img src="../assets/previews/35a8723aa9a926bb9637e2b4dad3c5e9b162c1106f5ff1681d2f0275af471c7b.jpg" width="840" loading="lazy" alt="Súng lục thủ công thế kỷ 19 với Blender MCP"></a>
+
+Một bài đăng so sánh các mô hình AI giới thiệu yêu cầu tạo súng lục thủ công thế kỷ 19 bằng Blender MCP, trong đó GPT-6 Astra nằm trong số các mô hình được thử nghiệm.
+
+**Prompt**
+
+```text
+Tạo một khẩu súng lục thủ công thế kỷ 19 bằng Blender MCP
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/artisanal-1800s-pistol-3d-model) · [Bài đăng gốc](https://x.com/patch_gg/status/2114671379455119514) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2114735216686211306"></a>
+
+### Fresh Coat: sân graffiti 3D pixel art tương tác
+
+[Adem Ninja](https://x.com/halfofthemwork) · 2026-10-26
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/fresh-coat-interactive-3d-graffiti-yard"><img src="../assets/previews/d180e9edaafe76d826392400af36fc692a4ef1491668ad31800185411ad4cc9b.jpg" width="840" loading="lazy" alt="Fresh Coat: sân graffiti 3D pixel art tương tác"></a>
+
+Một cảnh 3D tương tác bằng three.js trong một tệp duy nhất, lấy bối cảnh sân gara trên đảo bay, nơi một nhóm người vẽ graffiti sơn tường trong khi ứng phó với thời tiết, người lao công đi tuần, các quy tắc sơn tường và lẫn nhau. Cảnh sử dụng trình kết xuất pixel art đẳng phối, hành vi sơn theo quy trình, hoạt ảnh nhân vật, động vật môi trường cùng giao diện và điều khiển thân thiện với thiết bị di động.
+
+**Prompt**
+
+```text
+Tạo một cảnh HTML + three.js (r160) trong một tệp duy nhất có tên "Fresh Coat": một nhóm người vẽ graffiti sơn bức tường gara dài ở sân sau trên một hòn đảo bay. Đây là cảnh 3D thực, được kết xuất dưới dạng pixel art sắc nét.
+
+Kết xuất: sử dụng camera đẳng phối trực giao (kéo để xoay theo từng bước 90°, cuộn hoặc chụm để thu phóng). Kết xuất vào một vùng đích độ phân giải thấp nhỏ có kết cấu độ sâu, sau đó phóng to bằng texelFetch để phủ kín các pixel trên màn hình. Thêm đường viền dựa trên độ sâu và lượng tử hóa mọi pixel về bảng màu cố định khoảng 60 màu trong OKLab, kèm tùy chọn tạo hạt Bayer. Bảng màu cần có đủ các màu sơn xịt bão hòa (chrome, huỳnh quang, vùng đổ bóng sâu) để các tác phẩm nổi bật. Thêm nút chuyển đổi "Pixel art / Raw 3D", thanh trượt kích thước pixel cùng các ô chọn Palette / Dither / Outlines, và nút "Wall view" đưa camera quay vuông góc với tường.
+
+Sân: mặt nhựa đường chắp vá, nứt nẻ với lề đường, cỏ và đất quanh mép đảo. Xung quanh mặt nhựa đường:
+- một dãy dài gara kho có cửa đánh số và mái phẳng nhô ra phía trước. Bức tường phía sau là bề mặt sáng tác, được kết xuất bằng vữa trát và gạch cũ;
+- một trạm biến áp bằng gạch có biển cảnh báo, là chỗ nấp lý tưởng;
+- một cây dương với ghế băng, trên đó có một bà cụ sẽ tặc lưỡi khi thấy tag mới và gật gù trước tác phẩm đẹp;
+- giá phơi thảm, bụi cây, hàng rào có một lỗ thủng và một thùng rác lớn đầy lon rỗng;
+- một đèn trên cột và một đèn phía trên cửa gara.
+Bồ câu đi bộ và mổ thức ăn, rồi vỗ cánh bay lên mái khi người vẽ hoặc lao công đến gần. Một con mèo trên mái gara dõi theo chuyển động của lon sơn đang xì xì bằng đầu.
+
+Tường: một kết cấu dữ liệu phủ toàn bộ bức tường. Mỗi texel lưu màu, lớp, độ ướt, tuổi và thứ tự của nó trong nét vẽ. Các tác phẩm được vẽ dần theo đúng thứ tự thực tế: nét phác mảnh, phần tô, hiệu ứng phai, đường viền hoàn thiện, bóng 3D, điểm sáng và cuối cùng là tag. Các lớp cũ lộ ra ở những chỗ lớp sơn mỏng, còn tác phẩm cũ sẽ phai màu và bong tróc theo thời gian.
+
+Sơn xịt: mỗi lon phun ra một hình nón giọt sơn. Khoảng cách quyết định độ rộng và độ mềm của nét, còn tốc độ quyết định độ phủ. Di chuyển quá chậm hoặc quá gần sẽ khiến sơn đọng thành vũng và chảy thành dòng; các giọt chảy xuống kết cấu theo trọng lực cho đến khi khô. Gió thổi phần sơn mù sang một bên. Lon sắp hết sơn (tiếng xì xì ngắt quãng và nét bị đứt), được lắc kêu lạch cạch, rồi bị ném vào thùng khi rỗng.
+
+Nhóm vẽ (8 người, mỗi người có kỹ năng, tốc độ, khả năng kiểm soát lon sơn và một phong cách: tagger / throw-up / piece / nhân vật):
+- Bốn người sơn cùng lúc, bốn người chờ bên lề đường và phác thảo trong sổ đen. Chữ được tạo từ một bảng chữ cái pixel nguyên bản rồi chuyển thành các nét vẽ, vì vậy mỗi người có một tên và phong cách chữ viết tay khác nhau.
+- Mỗi người quét tường để tìm vị trí, lên ý tưởng cho một tác phẩm vừa với khoảng trống, phác thảo sơ bộ, lùi lại quan sát rồi sơn theo từng lượt. Cả nhóm thống nhất bảng màu, và các thành viên cho nhau mượn lon sơn.
+- Luật tường: không bao giờ vẽ đè lên tác phẩm đẹp hơn, chỉ được vẽ đè lên tác phẩm kém hơn hoặc cũ hơn. Vẽ tag đè lên tác phẩm của người khác sẽ châm ngòi xung đột: họ gạch bỏ tag đó và hai bên cãi nhau. Khi tắt Code, mọi thứ đều được phép.
+- Sau mỗi tác phẩm, cả nhóm chấm điểm (chữ, độ liền mạch, màu sắc, độ gọn và giọt sơn). Người có điểm cao nhất được tiến lên trong thứ hạng. Người có tác phẩm bị gạch bỏ hoặc bị xóa sơn sẽ rơi xuống cuối hàng đợi. Tất cả người phía sau tiến lên, và người tiếp theo bước đến tường.
+
+Lao công và AI: một lao công đi tuần theo hẹn giờ, mang con lăn và xô sơn xám không bao giờ hoàn toàn khớp với màu tường. Một người đang chờ sẽ đứng canh. Khi lao công xuất hiện, người canh huýt sáo, mọi người chộp lấy lon sơn rồi nấp sau trạm biến áp hoặc thùng rác, sau đó quay lại khi lao công đã đi khỏi. Lao công ưu tiên xóa các tag mới bằng những mảng xám hình chữ nhật không đều, biến chúng thành nền sạch cho tác phẩm tiếp theo. Sai sót tăng lên khi vội (lúc lao công ở gần), khi có gió, khi lon gần hết sơn và khi kỹ năng thấp: nét run, sơn mù, giọt chảy. Thỉnh thoảng vòi phun bị tắc và phụt ra một cục sơn.
+
+Người vẽ: dùng rig dạng hộp với IK hai xương. Bàn tay cầm lon bám theo đường nét ở khoảng cách phù hợp với tường. Tư thế gồm: đi bộ với túi đựng lon sơn, lắc lon, ngồi xổm để sơn phần dưới, kiễng chân hoặc đứng trên thùng để với tới phần trên, lùi lại khoanh tay quan sát, chỉ ra lỗi, đập tay ăn mừng, tranh cãi về tác phẩm bị gạch bỏ, chạy và nấp, ló ra quan sát, rồi ngồi phác thảo bên lề đường.
+
+Thời gian và thời tiết: Day / Dusk / Night (đèn chiếu sáng bức tường, và sơn dưới ánh đèn làm thay đổi màu sắc), Dry / Windy / Rain.
+- Rain: các vệt chảy, tia bắn, mặt nhựa đường sẫm màu hơn và bức tường ướt, tối hơn; các vũng nước phản chiếu bức tường thông qua một lượt kết xuất phản chiếu. Sơn mới chưa khô sẽ chảy và bị rửa loang thành các vệt màu, còn sơn đã khô vẫn giữ nguyên.
+- Nhóm người vẽ trú dưới phần mái gara nhô ra. Khi tường khô, hai người trong nhóm sơn lại các phần bị hư theo đúng thứ tự nét vẽ, rồi tiếp tục công việc.
+
+UI (tiếng Anh, giao diện sáng và tối, bố cục cho thiết bị di động):
+- Bảng điểm có đèn hiển thị số tác phẩm đã hoàn thành, đồng hồ + trạng thái ("Painting", "Janitor!", "Rain"), tác phẩm tồn tại lâu nhất và tác phẩm được đánh giá cao nhất.
+- Thanh bên gồm: Time & weather (kèm thanh độ ướt của tường và thanh thời gian khô sơn); bảng xếp hạng (King / Writer / Toy / Newbie cùng mục "Next up"); Rules (Code: Respect / Off; Janitor: On / Off; Wind: Calm / Gusty); luồng sự kiện ("Crossed out!", "Buffed", "Drip", "Janitor coming") với các tùy chọn "Everyone go over the King" và Pause; View (phát lại một tác phẩm từ nét đầu tiên).
+- Nhấp vào một vị trí trên tường để người tiếp theo sơn ở đó. Nhấp vào một người vẽ để cả nhóm hỗ trợ họ. Chữ và thiết kế nguyên bản, không sử dụng nhóm, thương hiệu hay tên có thật.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/fresh-coat-interactive-3d-graffiti-yard) · [Bài đăng gốc](https://x.com/halfofthemwork/status/2114738270466695553) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2114961338175033641"></a>
+
+### Thế giới 3D năm 2099 với con người, người ngoài hành tinh và sinh vật
+
+[Rey Brando](https://x.com/ReyBrando1) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/2099-human-alien-creature-3d-world"><img src="../assets/previews/66f3527f036fcd7ee885cbe5bcb392ba99740dd8f950fe4282aa86b1820ba2cc.jpg" width="840" loading="lazy" alt="Thế giới 3D năm 2099 với con người, người ngoài hành tinh và sinh vật"></a>
+
+Prompt một lượt do tác giả bài đăng chia sẻ, được cho là dùng để so sánh ChatGPT bản miễn phí (GPT-6 Thinking) và Claude Haiku. Prompt yêu cầu tạo một thế giới 3D lấy bối cảnh năm 2099, nơi con người, người ngoài hành tinh và các sinh vật cùng sinh sống.
+
+**Prompt**
+
+```text
+Tạo một thế giới 3D vào năm 2099, nơi con người, người ngoài hành tinh và các sinh vật cùng sinh sống.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/2099-human-alien-creature-3d-world) · [Bài đăng gốc](https://x.com/ReyBrando1/status/2114961338175033641) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2115035785179148694"></a>
+
+### TOA TÀU CUỐI CÙNG
+
+[Happycapy](https://x.com/happycapyai) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/haunted-halloween-train-station-3d-experience"><img src="../assets/previews/64294e6e82e623c92cc9421d86a247bfc4f263d0ad2d09886ded2e1918699dc1.jpg" width="840" loading="lazy" alt="TOA TÀU CUỐI CÙNG"></a>
+
+Một tiểu cảnh 3D Halloween tương tác trên trình duyệt: đoàn tàu ma thu nhỏ chạy vòng quanh một ngôi làng đường sắt thời Victoria đầy mê hoặc, trong khi các lối đi đường hầm bí mật dẫn dắt mạch truyện siêu nhiên có diễn tiến định trước. Prompt này mô tả cảnh vật được chế tác thủ công, những quả bí ngô được khoét và thắp sáng, một đầu máy hơi nước chi tiết, các thiết lập camera dựng sẵn, thao tác xoay bằng cách kéo, thu phóng bằng con lăn, câu chuyện lặp dài 36 giây, các tùy chọn hỗ trợ tiếp cận, âm thanh và cách triển khai bằng Three.js.
+
+**Prompt**
+
+```text
+Xây dựng “THE LAST CARRIAGE”, một trải nghiệm Halloween 3D tương tác trên trình duyệt, hoàn thiện và được chỉ đạo nghệ thuật tinh tế.
+
+Một đoàn tàu ma thu nhỏ chạy vòng quanh ngôi làng Victoria bị phù phép lúc nửa đêm. Mỗi lần biến mất vào đường hầm, một điều gì đó lặng lẽ thay đổi.
+
+Hãy bàn giao một trải nghiệm hoạt động hoàn chỉnh, không phải ý tưởng, bản mockup hay bản demo kỹ thuật. Hãy xem đây là một tác phẩm điện ảnh tương tác nhỏ, được chế tác tỉ mỉ như một phim trường stop-motion công phu.
+
+Nếu làm việc trên dự án hiện có, hãy giữ nguyên bản sắc, logic tàu hữu ích, các tương tác đang hoạt động và cấu hình quyền truy cập riêng tư. Cải thiện website hiện có thay vì tạo bản sao.
+
+1. ĐỊNH HƯỚNG SÁNG TẠO
+
+Ý tưởng trung tâm:
+“Một ngôi làng đường sắt Halloween bị phù phép, được chế tác thủ công như một mô hình cơ khí đạt chất lượng trưng bày bảo tàng.”
+
+Cân bằng cảm xúc:
+- 60% sự ấm áp của mùa thu huyền ảo.
+- 30% bí ẩn Gothic.
+- 10% cảm giác bất an khe khẽ.
+
+Hãy khiến nơi này đủ thân thiện để muốn khám phá và đủ kỳ lạ để không thể quên.
+
+Dùng bảng màu có kiểm soát:
+- Xanh mực và bóng xanh nhung.
+- Tím trầm và tím mận gần như đen.
+- Lá mùa thu màu sienna cháy và đồng.
+- Màu hổ phách bí ngô và trắng ngà ấm.
+- Sơn đỏ oxblood.
+- Vàng xỉn và đồng thau cổ.
+
+Ánh sáng ấm phải là trung tâm cảm xúc của khung cảnh. Tránh phủ mọi bề mặt bằng màu cyan hoặc xanh teal tối.
+
+Vật liệu phải tạo cảm giác có thể chạm vào và được làm thủ công: gỗ sơn, kim loại ám khói, đồng thau phong hóa, tường vữa hơi cong, mái ngói đá phiến xếp lớp, đá lát ẩm, vỏ bí ngô sáp và kính mỏng manh.
+
+Đưa vào sự bất đối xứng có chủ ý, những khiếm khuyết nhỏ và biến thiên bề mặt, đồng thời vẫn giữ tỉ lệ nhất quán.
+
+Tránh asset low-poly chung chung, khối hộp tạm thời, cây hình blob, màu neon, bloom quá mức, sương mù dày, hù dọa bất ngờ, máu me, hiệu ứng nhấp nháy và sự rối mắt.
+
+2. BỐ CỤC VÀ KHUNG HÌNH MỞ ĐẦU
+
+Hãy để thế giới thu nhỏ chiếm khoảng 75–85% viewport mở đầu. Khung cảnh phải chi phối; typography chỉ đóng vai trò phụ.
+
+Thiết kế bố cục ba phần tư mang tính thân mật:
+- Tiền cảnh: ba đèn lồng bí ngô được chạm khắc đẹp mắt bên đường ray cong.
+- Trung cảnh: đầu tàu chạy ngang nhà ga được chiếu sáng ấm áp.
+- Hậu cảnh: mái nhà làng xiêu vẹo, tháp đồng hồ thanh mảnh và lối vào đường hầm giữa rừng.
+
+Sắp xếp các điểm nhấn thành một tam giác thị giác. Dùng đường cong của đường ray làm đường dẫn mạnh.
+
+Thu nhỏ phần nền trống lộ ra và tránh để mô hình trông quá nhỏ trong một trang web rộng. Giữ lại các vùng yên tĩnh giữa những cụm chi tiết dày đặc.
+
+Ở thời điểm số 0, phải nhìn rõ:
+- Đầu tàu và các toa hành khách trên đoạn đường cong phía trước.
+- Ít nhất ba gương mặt đèn bí ngô jack-o’-lantern phát sáng, dễ nhận ra.
+- Lối vào nhà ga và cửa sổ phòng bán vé tỏa ánh sáng ấm.
+- Miệng đường hầm.
+- Silhouette kiến trúc dễ đọc.
+- Mối quan hệ cân bằng giữa ánh sáng ấm và màn đêm lạnh.
+
+Lần đầu tàu vào đường hầm chỉ được xảy ra sau khi người xem có đủ thời gian thưởng thức đoàn tàu.
+
+Khung hình mở đầu phải hoạt động như một minh họa Halloween hoàn chỉnh trước khi có chuyển động. Đừng giấu bố cục đẹp nhất đến giây thứ hai mươi.
+
+Tạo bố cục riêng cho desktop và màn hình dọc trên mobile. Bố cục video dọc vẫn phải giữ được đoàn tàu, nhà ga và các quả bí ngô tiền cảnh.
+
+3. THẾ GIỚI THU NHỎ
+
+Xây dựng một phong cảnh nhỏ gọn, giàu bố cục, bao gồm:
+- Một vòng đường ray cong.
+- Một cầu cạn đá hẹp bắc qua dòng suối tối.
+- Một đường hầm xuyên qua sườn đồi có rừng.
+- Một nhà ga Victoria nhỏ.
+- Một số ngôi nhà làng được thiết kế riêng.
+- Một tháp đồng hồ thanh mảnh.
+- Những thân cây giàu tính điêu khắc với tán lá mùa thu thưa.
+- Một nhân vật cô độc đứng chờ dưới đèn sân ga.
+
+Tập trung chi tiết quanh đoàn tàu, nhà ga, các quả bí ngô tiền cảnh và cổng đường hầm thay vì phân bố trang trí đồng đều.
+
+Kiến trúc:
+- Tường hơi cong và bất đối xứng có chủ ý.
+- Mái dốc, hơi uốn cong.
+- Mái ngói xếp lớp có độ dày rõ ràng.
+- Cửa sổ mái, ống khói xiêu vẹo và khung gỗ.
+- Cửa ra vào và viền cửa sổ thụt vào.
+- Máng xối đồng phong hóa, hàng rào sắt và biển treo.
+
+Nhà ga:
+- Mái che viền uốn lượn trên các trụ sắt thanh mảnh.
+- Cửa sổ phòng bán vé phát sáng ấm.
+- Một chiếc đồng hồ cũ sắp điểm nửa đêm.
+- Ghế gỗ và hành lý xếp chồng.
+- Một biển nhỏ ghi “ALL HALLOWS”.
+- Vòng hoa mùa thu và một dây đèn lồng ấm, tiết chế.
+
+Đường hầm:
+- Cổng đá được trang trí và huy hiệu sắt cũ.
+- Cây thường xuân, rễ cây, lá rụng và bậc thang hoặc lối bảo trì được chiếu sáng bởi bí ngô.
+- Nội thất gần như hoàn toàn tối.
+- Địa hình, đá, rễ cây và thảm thực vật xếp lớp để phá vỡ sườn đồi.
+
+Không để lại một gò đất lớn, nhẵn và trống.
+
+Cây phải có thân thuôn và silhouette phân nhánh. Dùng các cụm lá đồng và nâu đỏ nhỏ, không đều, với màu sắc và mật độ đa dạng.
+
+4. NHỮNG QUẢ BÍ NGÔ JACK-O’-LANTERN ĐẶC TRƯNG
+
+Tạo khoảng 12–18 quả bí ngô, sắp xếp thành các cụm có chủ ý:
+- Ba quả bí ngô chủ đạo bên đường ray tiền cảnh.
+- Một số quả trên bậc thềm nhà ga và bên dưới mái che.
+- Một cụm gần đường hầm.
+- Một vài quả trên xe đẩy, trong cửa sổ hoặc cạnh cổng vườn.
+
+Thay đổi tỉ lệ, hình dáng, gân, độ cong của cuống và biểu cảm chạm khắc.
+
+Các quả bí ngô chủ đạo cần có:
+- Thân tròn, gân sâu.
+- Silhouette hơi bất đối xứng.
+- Cuống khô, xoắn.
+- Thành được khoét dày, có chiều sâu rõ ràng.
+- Hốc mắt và miệng khác biệt.
+- Phần ruột rỗng thuyết phục và ánh nến nhìn thấy được.
+- Độ nhám nhẹ trên vỏ và biến thiên màu sắc.
+
+Dùng các lỗ mở thật hoặc hình học khoét lõm thuyết phục với thành bên trong. Không dán các hình tam giác đen lên những quả cầu màu cam.
+
+Ít nhất ba gương mặt chạm khắc phải lập tức dễ đọc từ camera mặc định.
+
+Ánh sáng của chúng phải chiếu lên đá lát, bậc thềm nhà ga và đường ray gần đó. Chỉ dùng bề mặt cam phát sáng là chưa đủ.
+
+Dùng một vài đèn cục bộ được bố trí chiến lược cùng các kỹ thuật hỗ trợ hiệu quả. Không gán đèn đổ bóng tốn tài nguyên cho từng quả bí ngô.
+
+Ánh nến chập chờn nhẹ, không đều và chậm.
+
+5. ĐOÀN TÀU LÀ ĐIỂM NHẤN CHỦ ĐẠO
+
+Tạo một đầu tàu hơi nước thu nhỏ, nhiều chi tiết, với ba toa hành khách.
+
+Đầu tàu:
+- Các mảng sơn đỏ oxblood.
+- Nồi hơi đen ám khói.
+- Phụ kiện đồng thau cổ và đường kẻ vàng mảnh.
+- Đèn pha ấm với chùm sáng tiết chế.
+- Bánh xe nhiều lớp và thanh truyền động hoạt ảnh.
+- Một chuông đồng thau nhỏ.
+- Vòng hoa mùa thu giản dị và một đèn lồng bí ngô nhỏ gần đầu tàu.
+
+Toa tàu:
+- Khung chi tiết và biên dạng mái bo tròn.
+- Cửa sổ nội thất phát sáng ấm.
+- Silhouette hành khách vẫn dễ nhận ra khi phát bình thường.
+- Tỉ lệ và khoảng cách nhất quán trên đoạn đường ray cong.
+
+Tạo cho toa cuối một bản sắc riêng tinh tế:
+- Màu sơn tối hơn.
+- Một biểu tượng mặt trăng nhỏ.
+- Một ô cửa sáng nhợt giữa những cửa sổ ấm.
+
+Dùng chuyển động tàu mượt, nhất quán và chuyển động quay bánh xe thuyết phục. Duy trì khoảng cách giữa các toa khi vào đường cong.
+
+Hơi nước phải gồm những dải khói mềm, đa dạng và tan dần, không phải một chuỗi cầu mờ đục dễ nhận thấy.
+
+6. ÁNH SÁNG, VẬT LIỆU VÀ KHÔNG KHÍ
+
+Xây dựng ba lớp ánh sáng bổ trợ:
+
+A. Ánh sáng điểm nhấn ấm
+Sắc hổ phách đậm từ nhà ga, cửa sổ tàu và bí ngô.
+
+B. Ánh sáng định hình lạnh
+Ánh trăng xanh tím mềm, làm lộ mép mái, cành cây, hơi nước và silhouette đoàn tàu.
+
+C. Ánh sáng môi trường dịu
+Đủ ánh sáng trung tính-lạnh để giữ màu vật liệu và giúp kiến trúc không được chiếu sáng vẫn dễ đọc trên laptop hoặc điện thoại thông thường.
+
+Giữ các vùng sáng mạnh nhất nhỏ và có mục đích. Bảo toàn màu hổ phách, không để cháy thành trắng.
+
+Tạo tiếp xúc với mặt đất bằng bóng tiếp xúc, bóng mềm được kiểm soát kỹ và ambient occlusion tiết chế khi hiệu năng cho phép.
+
+Đá ướt, đường ray, đồng thau và dòng suối phải bắt được những phản chiếu tinh tế.
+
+Dùng sương mỏng cục bộ gần đường ray, dòng suối và bên dưới cầu. Giữ đoàn tàu, gương mặt bí ngô và nhà ga rõ nét.
+
+Thêm chuyển động môi trường tiết chế, không đồng bộ:
+- Một vài chiếc lá trôi dạt.
+- Thỉnh thoảng có những tia than nhỏ từ đầu tàu.
+- Khói ống khói mềm.
+- Đồ trang trí treo khẽ chuyển động.
+- Ánh nến chập chờn chậm.
+
+Dùng film grain tinh tế và tone mapping cẩn thận. Bloom và depth of field là các lớp hoàn thiện tùy chọn, không bao giờ thay thế cho ánh sáng tốt. Giữ các chi tiết chính của tàu và bí ngô đủ sắc nét để quan sát.
+
+7. TRANG TRÍ BỐI CẢNH HALLOWEEN
+
+Ngay cả khi ẩn toàn bộ chữ trên giao diện, vẫn phải nhận ra đây là dịp lễ Halloween.
+
+Đưa vào một tuyển chọn có chủ đích gồm:
+- Bí ngô được chạm khắc và phát sáng.
+- Lá đồng và nâu đỏ gom dọc các mép.
+- Một xe gỗ nhỏ chở bí ngô.
+- Một băng-rôn lễ hội mùa màng đã phai màu.
+- Những món đồ trang trí hình ma nhỏ treo dưới mái che.
+- Chi tiết hình trăng lưỡi liềm bằng sắt rèn.
+- Mạng nhện mảnh chỉ hiện ra khi bắt sáng ấm.
+- Một chú mèo đen nhỏ bên đèn lồng.
+
+Sắp xếp đạo cụ thành những cụm có ý nghĩa, chừa khoảng thở giữa chúng. Ưu tiên sự khéo léo và kể chuyện hơn mật độ trang trí.
+
+8. VÒNG LẶP TƯỜNG THUẬT 36 GIÂY
+
+Tạo một chuỗi 36 giây liền mạch, xác định trước, trải dài qua ba vòng chạy khoảng 12 giây.
+
+Vòng mở đầu:
+Có thể nhìn thấy ba hành khách khác nhau qua cửa sổ toa tàu. Một nhân vật cô độc đứng chờ dưới đèn nhà ga.
+
+Vòng thứ hai:
+Sau khi đi qua đường hầm bí mật, một hành khách biến mất. Một cửa sổ trước đó tối om ở ngôi nhà xa xa giờ đã sáng đèn.
+
+Vòng thứ ba:
+Sau lần đi qua đường hầm bí mật tiếp theo, sân ga trống không. Nhân vật đứng chờ giờ đã ngồi trong toa cuối, quay mặt ra ngoài về phía người xem.
+
+Trong vòng thứ ba, khi toa cuối chạy ngang cụm bí ngô tiền cảnh:
+- Ngọn nến thoáng nghiêng về phía toa.
+- Ô cửa nhợt màu để lộ nhân vật từng đứng chờ.
+- Đèn nhà ga hơi tối đi.
+- Nhân vật quay mặt đi.
+- Một phản chiếu ma quái mờ nhạt lưu lại trên kính.
+
+Dàn dựng khoảnh khắc này quanh lúc tàu đi qua tiền cảnh, khoảng giây 25–26 của vòng lặp. Phải tinh tế nhưng vẫn dễ nhận ra ở tốc độ phát bình thường.
+
+Trong lần đi qua cuối cùng, ánh sáng của toa cuối từ từ tắt dần.
+
+Dùng lần đi qua đường hầm tiếp theo để che giấu việc đặt lại về trạng thái mở đầu.
+
+Mọi thay đổi và đặt lại hành khách phải diễn ra khi đoàn tàu bị che khuất hoàn toàn bên trong đường hầm. Tránh hiện tượng bật hình hoặc gián đoạn lộ rõ.
+
+Câu chuyện phải thưởng cho sự quan sát mà không cần chú thích giải thích và hoạt động hoàn toàn không cần âm thanh.
+
+9. CAMERA, XOAY KÉO VÀ ZOOM CUỘN
+
+Cung cấp ba preset camera:
+- DIORAMA: góc nhìn ba phần tư mặc định, được chỉ đạo nghệ thuật cẩn thận.
+- FOLLOW: camera nhẹ nhàng bám theo đoàn tàu.
+- STATION: góc nhìn gần hơn vào sân ga và cửa sổ toa tàu.
+
+Chuyển cảnh phải mượt và có chủ đích.
+
+Trước khi tương tác thủ công, cho phép camera trôi điện ảnh khó nhận thấy. Dừng chuyển động trôi ngay khi người dùng tự điều chỉnh góc nhìn.
+
+Hỗ trợ thao tác trực tiếp trong cả ba preset:
+
+Xoay bằng thao tác kéo:
+- Kéo chuột trái trên desktop.
+- Kéo bằng một ngón tay trên màn hình cảm ứng.
+- Xoay ngang mượt 360 độ.
+- Độ cao theo phương dọc giới hạn khoảng 12–65 độ phía trên đường chân trời.
+- Không lật xuống bên dưới khung cảnh.
+- Bắt con trỏ để thao tác kéo vẫn liên tục khi đi qua các control.
+- Xử lý thả và hủy thao tác sạch sẽ.
+- Không tự xoay mất kiểm soát sau khi thả.
+
+Zoom bằng cuộn:
+- Cuộn lên để phóng to mô hình.
+- Cuộn xuống để thu nhỏ.
+- Hỗ trợ con lăn chuột và thao tác cuộn hai ngón trên trackpad.
+- Chuyển mượt về mức zoom được yêu cầu.
+- Giới hạn zoom khoảng 65–185% kích thước mặc định của preset.
+- Dùng zoom quang học của camera để giữ khoảng cách orbit an toàn và tránh đưa camera xuyên qua cảnh.
+- Chuẩn hóa đầu vào con lăn giữa các chế độ delta pixel, line và page.
+- Giữ nguyên phím tắt zoom cấp trình duyệt và thao tác cuộn có phím bổ trợ.
+
+Đặt lại:
+- Cung cấp nút Đặt lại góc nhìn kín đáo.
+- Nhấp đúp vào cảnh hoặc nhấn 0 để khôi phục góc Diorama mặc định và zoom 100%.
+- Đổi preset camera sẽ xóa thao tác xoay và zoom thủ công.
+- Khởi động lại câu chuyện sẽ đặt lại thời gian tường thuật độc lập với các điều chỉnh camera.
+
+Khả năng truy cập bằng bàn phím:
+- Phím mũi tên xoay cảnh khi canvas được focus.
+- Phím + và − điều chỉnh zoom khi canvas được focus.
+- Hiển thị focus bàn phím và hướng dẫn truy cập ngắn gọn.
+
+Các thao tác trên cảnh không được gây cản trở cho nút giao diện hoặc tương tác với đèn nhà ga.
+
+10. GIAO DIỆN VÀ ÂM THANH
+
+Mở thẳng vào cảnh, không có màn hình splash của ứng dụng hoặc phần hướng dẫn ban đầu không cần thiết.
+
+Dùng tiêu đề nhỏ, thanh lịch ở một góc:
+THE LAST CARRIAGE
+“Hãy quan sát những hành khách.”
+
+Kết hợp tiêu đề serif tinh tế với chữ phụ kín đáo, giãn cách rộng. Tránh copy quá lớn, lề quá rộng và nhãn trang trí cạnh tranh với mô hình.
+
+Thêm gợi ý ban đầu tinh tế:
+“KÉO ĐỂ XOAY · CUỘN ĐỂ ZOOM”
+Ẩn dần sau khi có tương tác.
+
+Cung cấp các điều khiển không gây chú ý cho:
+- Bật/tắt âm thanh — S.
+- Preset camera — C.
+- Đặt lại góc nhìn và zoom — 0.
+- Khởi động lại câu chuyện — R.
+- Ẩn giao diện để quay — H.
+- Khôi phục giao diện — H, Escape hoặc nút khôi phục kín đáo.
+- Tạm dừng/tiếp tục — Space khi nền trang được focus.
+
+Nhấp hoặc chạm vào đèn sân ga sẽ làm đèn dịu xuống và để lộ những dấu chân ma mờ nhạt. Chi tiết tùy chọn này không được thay đổi câu chuyện chính.
+
+Tôn trọng tùy chọn giảm chuyển động: bắt đầu bằng khung hình mở đầu tĩnh và cung cấp nút Phát rõ ràng. Tạm dừng hoạt ảnh và tắt tiếng khi trang chạy nền.
+
+Âm thanh chỉ được bắt đầu sau thao tác bật của người dùng.
+
+Tạo không gian âm thanh nhiều lớp, tiết chế:
+- Nhịp bánh xe nhẹ.
+- Tiếng còi hơi nước xa.
+- Gió mùa thu.
+- Tiếng chuông nhà ga mờ nhạt.
+- Sự thay đổi nhẹ về âm lượng hoặc không khí bên trong đường hầm.
+
+11. TRIỂN KHAI VÀ LƯU TRỮ RIÊNG TƯ
+
+Dùng Three.js với các module sạch và dễ bảo trì.
+
+Ưu tiên hình học, vật liệu, kết cấu bề mặt và âm thanh tạo theo quy trình khi phù hợp với định hướng nghệ thuật. Khi hữu ích, dùng asset có giấy phép hợp lệ và ghi công.
+
+Cảnh, tương tác và câu chuyện cốt lõi phải chạy mà không cần lời gọi AI trong runtime, API key hoặc dịch vụ suy luận bên ngoài.
+
+Đóng gói cục bộ các dependency và asset thiết yếu khi thực tế cho phép.
+
+Sử dụng:
+- Gộp hình học cho các chi tiết tĩnh.
+- Instancing cho lá và đạo cụ lặp lại.
+- Mức chi tiết thấp hơn cho vật thể nhỏ hoặc ở xa.
+- Thiết lập đổ bóng hợp lý.
+- Giới hạn device pixel ratio.
+- Chất lượng render thích ứng.
+- Fallback phù hợp cho các hiệu ứng tốn tài nguyên.
+- Thông báo fallback rõ ràng khi WebGL không khả dụng.
+
+Ưu tiên:
+1. Bố cục và ánh sáng.
+2. Bí ngô chủ đạo và độ tinh xảo của đoàn tàu.
+3. Chuyển động mượt và cách kể chuyện dễ đọc.
+4. Cá tính kiến trúc và độ phong phú của vật liệu.
+5. Trang trí phụ.
+
+Giữ website được host ở chế độ riêng tư và chỉ tài khoản của chủ sở hữu mới truy cập được. Bảo toàn cơ chế xác thực do nền tảng quản lý. Không công khai website hoặc thay cơ chế kiểm soát truy cập của nền tảng bằng màn hình đăng nhập mang tính hình thức.
+
+12. KIỂM ĐỊNH VÀ BÀN GIAO
+
+Build, chạy và kiểm tra trải nghiệm được render thực tế.
+
+Làm việc theo từng lượt kiểm tra hình ảnh:
+1. Bố cục camera và tỉ lệ cảnh.
+2. Ánh sáng và độ phơi sáng.
+3. Bí ngô chủ đạo và đầu tàu.
+4. Nhà ga và silhouette kiến trúc.
+5. Vật liệu và trang trí bối cảnh theo cụm.
+6. Chuyển động không khí.
+7. Tinh chỉnh giao diện.
+
+Sau ba lượt đầu tiên, hãy kiểm tra screenshot render thực tế trước khi thêm trang trí.
+
+Rà soát:
+- Khung hình mở đầu.
+- Đầu tàu chạy ngang các quả bí ngô tiền cảnh.
+- Mỗi lần thay đổi trạng thái hành khách.
+- Khoảnh khắc siêu nhiên.
+- Lần đặt lại được che giấu và vòng lặp hoàn chỉnh.
+- Bố cục dọc trên mobile.
+- Chế độ quay khi ẩn giao diện.
+- Các preset camera khác.
+- Giới hạn xoay và độ cao khi kéo.
+- Zoom cuộn và giới hạn zoom.
+- Hành vi đặt lại.
+- Điều khiển bàn phím.
+- Tương tác âm thanh và đèn nhà ga.
+
+Kiểm tra lỗi trình duyệt và hiệu năng render. Xác minh khoảng cách giữa các toa nhất quán, trạng thái tường thuật xác định trước, chuyển cảnh được che giấu và vòng lặp liền mạch.
+
+Chỉnh sửa những khung hình còn tối đục, phẳng, thưa thớt, quá nhiều chi tiết hoặc bị typography lấn át.
+
+Tiêu chí nghiệm thu hình ảnh cuối cùng:
+- Cảnh lập tức truyền tải tinh thần Halloween mà không cần chữ.
+- Gương mặt bí ngô trông như được chạm khắc và chiếu sáng xung quanh.
+- Đoàn tàu là điểm nhấn đẹp mắt, dễ nhìn ngay từ khung hình mở đầu.
+- Vật liệu và độ tinh xảo có thể cảm nhận ở khoảng cách xem mặc định.
+- Ánh sáng ấm vẫn đậm đà mà không làm mất đi nét bí ẩn về đêm.
+- Xoay và zoom mượt, có kiểm soát.
+- Chỉ riêng khung hình mở đầu cũng đủ hấp dẫn như một tranh in nghệ thuật Halloween.
+
+Bàn giao:
+- Trải nghiệm riêng tư hoạt động hoàn chỉnh.
+- Toàn bộ mã nguồn cùng hướng dẫn chạy cục bộ rõ ràng.
+- Hướng dẫn điều khiển ngắn gọn.
+- Screenshot thực tế từ kết quả đang chạy.
+- Bố cục mặc định phù hợp để quay video vòng lặp liền mạch cho X.
+
+Kết quả phải tạo cảm giác như đang khám phá một thế giới ma ám tí hon: đủ đẹp để ngắm nhìn trước khi nhận ra có điều gì đó không ổn.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/haunted-halloween-train-station-3d-experience) · [Bài đăng gốc](https://x.com/happycapyai/status/2115035788891013525) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2115044315777163777"></a>
+
+### Hiển thị 3D và UI lồng trong UI 2D
+
+[frozenlib](https://x.com/frozenlib) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/nested-2d-ui-in-3d-display"><img src="../assets/previews/3a949e9ee7868c83061946e8102de667edfe424c47226d4491f047a23b858147.jpg" width="840" loading="lazy" alt="Hiển thị 3D và UI lồng trong UI 2D"></a>
+
+Yêu cầu nhúng phần hiển thị 3D vào UI 2D, đồng thời cho phép đặt UI 2D bên trong không gian 3D đó. Cần hỗ trợ IME và tiêu điểm bàn phím, cũng như tích hợp khái niệm mở rộng tương tác cho glTF.
+
+**Prompt**
+
+```text
+Hãy hiển thị 3D trong UI 2D và cho phép đặt UI 2D bên trong đó. Đồng thời hỗ trợ các tính năng vốn có của UI 2D như IME và tiêu điểm bàn phím, cũng như tích hợp khái niệm mở rộng tương tác cho glTF.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/nested-2d-ui-in-3d-display) · [Bài đăng gốc](https://x.com/frozenlib/status/2115044315777163777) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2115074545166287075"></a>
+
+### Mô hình 3D xe đạp cưỡi bò, bò cưỡi người, người cưỡi ván trượt
+
+[Tim Jayas](https://x.com/TimJayas) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/cycle-cow-human-skateboard-3d-model"><img src="../assets/previews/d9524db110a1e5f52601425074815dd9bfd0ed01fe6b55fd94f2b0646c524447.jpg" width="840" loading="lazy" alt="Mô hình 3D xe đạp cưỡi bò, bò cưỡi người, người cưỡi ván trượt"></a>
+
+Prompt do Tim Jayas đăng để GPT-6-Astra và GPT-6.1-Terra tạo mô hình 3D bằng Three.js về một chiếc xe đạp cưỡi bò, bò cưỡi người và người cưỡi ván trượt. Prompt yêu cầu nền trắng và không có phần tử giao diện để vật thể chính luôn hiển thị rõ ràng.
+
+**Prompt**
+
+```text
+Tạo mô hình 3D bằng Three.js về một chiếc xe đạp cưỡi bò, bò cưỡi người và người cưỡi ván trượt; sử dụng nền màu trắng để vật thể chính luôn hiển thị rõ ràng và tránh sử dụng các phần tử giao diện.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/cycle-cow-human-skateboard-3d-model) · [Bài đăng gốc](https://x.com/TimJayas/status/2115074545166287075) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D
@@ -3846,73 +4279,6 @@ Bàn giao source project độc lập có thể chỉnh sửa, lockfile, hướn
 
 ---
 
-<a id="battle-city-3d"></a>
-
-### Battle City 3D: Phòng thủ xe tăng vô tận
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-22
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/battle-city-3d"><img src="../assets/previews/e9180abfae92dc2319bb9b62f6ee89602336de5599b5f1c98f0feffeda618cdb.png" width="840" loading="lazy" alt="Battle City 3D: Phòng thủ xe tăng vô tận"></a>
-
-Bảo vệ đại bàng trên những chiến trường cỏ, tuyết và công nghiệp bất tận, hoặc trong 35 bản đồ kinh điển. Thu thập mười vật tư và đánh bại những xe tăng hạng nặng của địch—chúng cần trúng bốn phát mới bị tiêu diệt.
-
-**Prompt**
-
-```text
-1. Mục tiêu dự án
-Xây dựng Battle City 3D, một game phòng thủ bằng xe tăng trên trình duyệt, lấy cảm hứng từ phiên bản Famicom kinh điển năm 1985. Người chơi điều khiển xe tăng, tiêu diệt một đợt 20 kẻ địch, thu thập vật phẩm tiếp tế và bảo vệ sở chỉ huy đại bàng. Tái dựng phiên bản 3D phối cảnh hiện tại như trong tư liệu tham chiếu, bao gồm chiến dịch vô tận có seed và 35 bố cục kinh điển có thể chọn. Giữ nguyên luật arcade dễ nắm bắt, đồng thời tạo chiều sâu thực cho xe tăng, tường và cảnh vật.
-
-2. Phong cách hình ảnh
-Sử dụng Three.js PerspectiveCamera với trường nhìn 60 độ. Góc nhìn mặc định trên chiến trường đặt phía sau và cao hơn người chơi, cách khoảng 13 đơn vị thế giới ở độ cao 0,43 radian. Bám mượt theo vị trí và một điểm phía trước xe tăng; không tự động xoay camera khi xe tăng đổi hướng. Cung cấp góc nhìn chiến thuật cao hơn, xoay camera thủ công bằng thao tác kéo và phóng to bằng con lăn. Sử dụng bốn trục chính của bản đồ cho việc di chuyển và bắn. Sau khi xoay camera, ánh xạ các phím định hướng tới hướng chính gần nhất xét theo camera; không bao giờ biến thao tác bàn phím thành di chuyển chéo. Cập nhật ngay hướng thân xe để khớp với hướng bắn, đồng thời căn chỉnh độ cao của đạn và tia chớp đầu nòng theo khẩu pháo thực tế của từng mẫu xe.
-Sử dụng xe tăng bánh xích bám mặt đất, tháp pháo kim loại, gạch đất nung, khối thép tối màu, nước xanh, thảm thực vật thấp và băng phản chiếu. Kéo dài mặt đất vượt ra ngoài khu vực chơi, tiếp nối bằng cây cối, các tòa nhà đổ nát và màn sương. Dùng ánh sáng định hướng ấm, bóng mềm, ánh sáng môi trường bổ trợ, tone mapping ACES cùng hiệu ứng chớp đầu nòng, giật lùi, tia lửa và mảnh vỡ nảy ở mức tiết chế. Tuyết thay đổi bảng màu mặt đất và cây cối; các màn công nghiệp ưu tiên thép và những tòa nhà đổ nát.
-Đóng khung game bằng giao diện điều khiển màu xanh ô-liu tối, hành động chính màu vàng ấm, điểm số, số mạng dùng chung, biểu tượng kẻ địch còn lại, tên màn và radar. Đặt nút chuyển mô hình Tripo 3D / Three.js lớn phía trên chiến trường, hiển thị chế độ đang chọn và bản xem trước xe tăng xoay. Sử dụng hướng dẫn vật phẩm tiếp tế minh họa đã bản địa hóa cùng các chỉ báo hiệu ứng theo thời gian. Giữ khu vực chơi và các điều khiển cảm ứng thiết yếu hiển thị trên màn hình hẹp.
-
-3. Thế giới và cảnh
-Biểu diễn chiến trường dưới dạng lưới 26 × 26 ô, với nửa bề rộng va chạm của xe tăng là 0,72. Đặt đại bàng tại (13,25), bao quanh bằng hệ phòng thủ gạch hình chữ U có thể phá hủy. Vị trí xuất hiện của người chơi là (9,25) và (17,25); cổng kẻ địch là (1,1), (13,1) và (25,1).
-Cung cấp hai chiến dịch: toàn bộ 35 bố cục kinh điển với bảng đợt 20 kẻ địch tương ứng, và trình tạo vô tận dựa trên seed, luân phiên các biome đồng cỏ, tuyết và công nghiệp. Tạo các hành lang liên thông đủ rộng cho toàn bộ thân xe, với lối nối có thể đi qua giữa vị trí xuất hiện của người chơi, cổng kẻ địch và các vị trí vật phẩm. Bổ sung vật cản thép ở trung tâm theo kiểu so le để ngăn làn bắn thẳng từ điểm xuất hiện tới đại bàng, nhưng vẫn giữ lối đi ngang giữa các phố. Cho phép chọn biome bắt đầu hoặc màn kinh điển, cũng như tạo lại một bản đồ ngẫu nhiên. Mang seed lượt chơi, điểm số, số mạng và nâng cấp của người chơi còn sống sang màn tiếp theo.
-Gạch có thể phá hủy; khối thép chặn đạn thường và xe tăng; nước chặn xe tăng nhưng cho đạn đi qua; thảm thực vật che khuất mẫu kẻ địch; băng làm giảm độ bám. Giữ môi trường ở xa chỉ mang tính trang trí, tách biệt khỏi va chạm gameplay.
-
-4. Danh mục tài sản
-Sử dụng các slot mô hình 3D ổn định, có thể thay thế độc lập sau đây. Ưu tiên người chơi, kẻ địch, xe tăng hạng nặng và đại bàng, sau đó là toàn bộ mười mẫu vật phẩm tiếp tế. Đặt chân mỗi tài sản tại điểm thấp nhất, đồng thời chuẩn hóa hướng, tâm và tỷ lệ. Tái sử dụng template thay vì tải một mô hình cho từng kẻ địch.
-- player: xe tăng bánh xích màu vàng mù tạt, có tháp pháo dễ nhận biết và pháo hướng về phía trước; dùng cho xe tăng người chơi, với màu vòng riêng cho người chơi thứ hai.
-- enemy: xe tăng địch bánh xích nhỏ gọn, tái sử dụng với các sắc màu khác nhau cho biến thể cơ bản, nhanh và mạnh.
-- heavy: xe tăng bọc thép rõ ràng nặng hơn, dùng mesh riêng với kẻ địch tiêu chuẩn, bên trên có bốn đoạn giáp nhìn thấy được.
-- eagle: tượng đại bàng vàng kim loại trên bệ sở chỉ huy.
-- pickup-star: ngôi sao nâng cấp vàng năm cánh.
-- pickup-helmet: mũ bảo hộ quân sự dùng để tạo lá chắn tạm thời.
-- pickup-clock: đồng hồ dễ nhận biết dùng để đóng băng chuyển động của kẻ địch.
-- pickup-shovel: xẻng dùng để gia cố sở chỉ huy.
-- pickup-life: xe tăng thu nhỏ đại diện cho một mạng thêm.
-- pickup-grenade: lựu đạn cầm tay dùng để tiêu diệt kẻ địch đang hoạt động.
-- pickup-ammo: thùng đạn dùng để bắn nhanh.
-- pickup-repair: hộp dụng cụ sửa chữa dùng để phục hồi giáp.
-- pickup-magnet: nam châm móng ngựa dùng để thu thập vật phẩm từ xa.
-- pickup-boost: pin năng lượng dùng để tăng tốc tạm thời.
-- environment-building: tòa nhà căn hộ đổ nát, phong hóa, Tripo P2.0, ngân sách yêu cầu 1.800 tam giác.
-- environment-tree: cây thông không đều, có thân cây nhìn thấy rõ, Tripo P2.0, ngân sách yêu cầu 1.100 tam giác.
-- environment-bush: bụi cây lá thấp và các cụm cỏ, Tripo P2.0, ngân sách yêu cầu 650 tam giác.
-Hiển thị vật phẩm tiếp tế dưới dạng mô hình có thể nhặt, xoay và lơ lửng, với vòng màu và ảnh thu nhỏ hướng dẫn tương ứng. Hiển thị các tòa nhà, cây và bụi lặp lại bằng các instance hình học/vật liệu dùng chung. Đặt gốc tòa nhà và cây chạm mặt đất; chôn nhẹ phần đáy bụi cây để hòa vào địa hình. Thêm tuyết trên các bề mặt hướng lên trong màn tuyết. Giữ tường theo ô, nước, băng, mesh đạn, UI, đèn, hạt và proxy va chạm ở dạng tạo bằng code. Tạo hoạt ảnh nước bằng sóng chảy trong không gian thế giới, pháp tuyến thay đổi và độ dịch chuyển bề mặt nhỏ, liên tục giữa các ô liền kề. Phiên bản Tripo sử dụng 17 mô hình được tạo; phiên bản so sánh chuyển cả xe tăng lẫn môi trường sang hình học dựng bằng code với cùng luật chơi và va chạm. Cả hai đều được render bằng Three.js.
-
-5. Gameplay và phản hồi
-Hỗ trợ chơi đơn và co-op cục bộ hai người với tổng cộng ba mạng dùng chung. Chơi đơn dùng WASD hoặc phím mũi tên và Space/J để bắn. Trong co-op, người chơi một dùng WASD và Space/J; người chơi hai dùng phím mũi tên và Enter/Numpad 0. P/Escape để tạm dừng; C đổi camera; 1/2 chọn chế độ mô hình. Trên màn hình cảm ứng, cho phép giữ đồng thời nút điều hướng và nút bắn, giải phóng thao tác khi con trỏ bị hủy, đồng thời hiển thị các hành động tạm dừng, tiếp tục, sang màn kế tiếp và chơi lại mà không cần cuộn.
-Tốc độ người chơi là 4,2 đơn vị mỗi giây, hoặc 6,3 khi tăng tốc. Kẻ địch gồm loại cơ bản, nhanh, mạnh và hạng nặng; xe tăng hạng nặng có bốn điểm trúng đạn và sống sót sau ba lần trúng đạn đầu tiên khi không có lá chắn. Dùng tối đa bốn kẻ địch đồng thời trong chơi đơn và sáu trong co-op, xuất hiện theo từng đợt lệch nhau. Tiêu diệt từng loại lần lượt được 100, 200, 300 hoặc 400 điểm; nhặt bất kỳ vật phẩm tiếp tế nào được 500 điểm. Hoàn thành màn sau khi tiêu diệt 20 kẻ địch. Thua khi đại bàng bị phá hủy hoặc tổng mạng dùng chung cạn và không còn người chơi nào sống sót. Cung cấp tùy chọn chơi lại ngay, tiến trình sang màn kế tiếp rõ ràng và điểm cao nhất được lưu cục bộ.
-Triển khai đủ mười loại vật phẩm tiếp tế: ngôi sao nâng cấp qua ba cấp (đạn nhanh hơn, hai viên đạn đồng thời, rồi đạn phá thép); mũ tạo lá chắn trong 12 giây; đồng hồ đóng băng kẻ địch trong 9 giây; xẻng gia cố căn cứ trong 16 giây; xe tăng mini thêm một mạng; lựu đạn tiêu diệt kẻ địch đang hoạt động; đạn dược cho phép bắn nhanh trong 14 giây với tối đa bốn viên đạn đang hoạt động; sửa chữa thêm hai điểm giáp, tối đa ba điểm; nam châm thu thập vật phẩm đang nhìn thấy trong phạm vi năm đơn vị suốt 20 giây; tăng tốc kéo dài 12 giây. Mô hình vật phẩm tiếp tế tồn tại 25 giây và xuất hiện tại các vị trí có thể tiếp cận, với một bộ bài được xáo trộn để thay đổi loại vật phẩm. Việc thu thập bằng nam châm phải tuân thủ các vật cản đặc.
-Sử dụng các sample kiểu NES đã thu thập cho đoạn mở màn dài 4,333 giây, tiếng bắn, tiếng di chuyển và không hoạt động, va chạm với gạch/thép, vụ nổ của kẻ địch/người chơi, xuất hiện và thu thập vật phẩm tiếp tế, mạng thêm, trúng giáp, băng, tạm dừng và game over. Dự án hiện tại sử dụng 15 cue OGG từ JustoSenka/BattleCity, commit 3a07004ba8e53baea74ff70d2ecc22b017eb9b20. Giữ nguyên thông tin ghi công và thông báo giấy phép của repository; mô tả chúng là âm thanh remake được thu thập, không tuyên bố đây là bản thu phần cứng chính xác tuyệt đối từng bit. Mở khóa âm thanh sau thao tác của người dùng, căn chỉnh gain của sample, cung cấp điều khiển âm lượng/tắt tiếng và đồng bộ âm thanh với sự kiện. Không thêm nhạc chiến đấu liên tục không liên quan.
-
-6. Triển khai kỹ thuật
-Sử dụng TypeScript, Three.js 0.180.0 và Vite 7, với package.json và lockfile độc lập. Giữ mô phỏng độc lập với render, chạy ở 120 Hz. Dùng AABB đặc cho thân xe, chuyển động tách theo trục, xử lý biên và tách các xe tăng, cùng quét liên tục theo tiếp xúc gần nhất của đạn, bao gồm va chạm do chuyển động tương đối giữa các viên đạn đối địch. Đạn xuất phát từ thân xe và quét về phía trước để ngăn xuyên tường ở cự ly cực gần. Thêm gia tốc/giảm tốc trên băng và trọng lực với các cú nảy giảm dần cho mảnh vỡ. Đây là vật lý mặt đất kiểu arcade, không phải mô phỏng hệ thống treo.
-Tải tài sản GLB cùng nguồn qua GLTFLoader. Giữ proxy va chạm độc lập với hình học tài sản. Runtime hiện tại sử dụng thuộc tính lượng tử hóa và texture WebP (1024 px cho xe và căn cứ; 512 px cho vật phẩm tiếp tế và môi trường), không đơn giản hóa hình học và không dùng bộ giải mã WASM. Giới hạn tải ở bốn worker, sử dụng URL có phiên bản theo hash và các range 256 KiB với thời gian chờ 20 giây, tối đa ba lần thử cho mỗi range. Mở khóa chơi sau khi bốn mô hình cốt lõi và âm thanh đã sẵn sàng; tải tài sản vật phẩm tiếp tế và môi trường ở chế độ nền, chỉ tạo những loại vật phẩm có mô hình đã sẵn sàng. Việc chuyển chế độ mô hình phải giữ nguyên trạng thái gameplay.
-Cung cấp UI bằng tiếng Anh, tiếng Trung giản thể, tiếng Nhật và tiếng Hàn. Chọn mặc định theo ngôn ngữ thiết bị, ngoại trừ zh-TW, zh-HK, zh-MO và zh-Hant mặc định là tiếng Anh; lưu lựa chọn ngôn ngữ rõ ràng của người dùng. Hỗ trợ bàn phím, con trỏ trên máy tính và cảm ứng đa điểm, đồng thời tạm dừng khi mất focus. Giữ toàn bộ tài sản, thông tin ghi công và script có thể tái tạo cục bộ trong project nguồn, đồng thời đóng gói thư mục dist tĩnh không chứa thông tin xác thực riêng tư hoặc phụ thuộc backend runtime.
-
-7. Tiêu chí hoàn thành
-Bàn giao source có thể chỉnh sửa, nguồn gốc tài sản và thông báo giấy phép, quy trình phát triển/build bằng npm cùng bản preview tĩnh có thể chơi được. Xác minh scene Tripo mặc định, phần so sánh mô hình, tất cả biome, xe tăng hạng nặng chịu đủ bốn lần trúng đạn, mọi hiệu ứng vật phẩm tiếp tế, tạm dừng/tiếp tục, thất bại/chơi lại và tiến trình màn. Kiểm thử 1.000 bản đồ có seed về khả năng kết nối theo bề rộng thân xe và vị trí xuất hiện an toàn, cùng toàn bộ bản đồ kinh điển, hiện tượng xuyên tường, bắn chéo, tách xe tăng, quán tính trên băng, thao tác tương đối với camera ở nhiều góc yaw và chuyển chế độ có bảo toàn trạng thái. Xác thực UI đã bản địa hóa và điều khiển hai ngón trên màn hình hẹp, không tuyên bố đã kiểm thử trên thiết bị thật nếu chỉ dùng mô phỏng. So sánh các frame bắt đầu và giao chiến thực tế với hình ảnh/video tham chiếu; xác nhận cả 17 mô hình và 15 cue âm thanh đều tải được. Xuất bản qua quy trình CMS Web Page hiện có và xác minh trang công khai cuối cùng, thay vì xem một bản ghi CMS đã lưu là triển khai hoàn tất.
-
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/battle-city-3d) · [Bản demo](https://battle-city-3d.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="jelly-villa"></a>
 
 ### Biệt thự Thạch rau câu
@@ -3983,7 +4349,7 @@ Xuất bản prompt jelly-villa mới, ghi công jared, ghi tác giả gốc tro
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 370 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 376 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

@@ -28,7 +28,7 @@
 **Um ponto de partida para seu próximo jogo, cena ou mundo interativo.**
 
 
-**370 · Prompts mais recentes do Astra**
+**376 · Prompts mais recentes do Astra**
 
 ## Projetos em destaque
 
@@ -38,7 +38,7 @@
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/pt/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/featured/crazy-tanks-3d-island-artillery.webp" width="420" loading="lazy" alt="Crazy Tanks — Artilharia 3D em uma ilha"></a><br><strong><a href="#crazy-tanks-3d-island-artillery">Crazy Tanks — Artilharia 3D em uma ilha</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="#crazy-tanks-3d-island-artillery">Prompt →</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/pt/3d-prompts/battle-city-3d"><img src="../assets/featured/battle-city-3d.webp" width="420" loading="lazy" alt="Battle City 3D: Defesa de Tanques sem Fim"></a><br><strong><a href="#battle-city-3d">Battle City 3D: Defesa de Tanques sem Fim</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="#battle-city-3d">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/pt/3d-prompts/battle-city-3d"><img src="../assets/featured/battle-city-3d.webp" width="420" loading="lazy" alt="Battle City 3D: Defesa de Tanques sem Fim"></a><br><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/battle-city-3d">Battle City 3D: Defesa de Tanques sem Fim</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="https://www.tripo3d.ai/pt/3d-prompts/battle-city-3d">Prompt →</a></td>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/pt/3d-prompts/titanic-the-last-light"><img src="../assets/featured/titanic-the-last-light.webp" width="420" loading="lazy" alt="TITANIC — A Última Luz"></a><br><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/titanic-the-last-light">TITANIC — A Última Luz</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="https://www.tripo3d.ai/pt/3d-prompts/titanic-the-last-light">Prompt →</a></td>
 </tr>
 </table>
@@ -50,11 +50,6 @@
 <details>
 <summary>Explorar exemplos</summary>
 
-- [Casa suburbana de dois andares com interior](#2102473710724919614)
-- [Jogo de corrida de kart 3D em um único arquivo HTML](#2102652927177617564)
-- [Animação de castelo medieval no navegador](#2102672926285713456)
-- [Orbit Lab: simulação 3D do Sol, da Terra e da Lua](#2102752217375899659)
-- [Castelo medieval europeu em 3D controlável pelo navegador](#2102780850706567390)
 - [Tabuleiro 3D interativo para estudar gambitos de xadrez](#2102788013902213508)
 - [Shader de cidade solarpunk infinita](#2102826333550133520)
 - [Simulador de hambúrguer em primeira pessoa](#2102897258983313712)
@@ -145,130 +140,18 @@
 - [Modelo cinematográfico do Cavalo de Troia no Blender](#2114060132610957601)
 - [Crie a Torre Eiffel](#2114080244046954999)
 - [Trem a vapor 3D detalhado e desgastado](#2114092197595201850)
+- [Pistola artesanal do século XIX com Blender MCP](#2114671379455119514)
+- [Fresh Coat: pátio de grafite interativo em pixel art 3D](#2114735216686211306)
+- [Mundo 3D de 2099 com humanos, alienígenas e criaturas](#2114961338175033641)
+- [O ÚLTIMO VAGÃO](#2115035785179148694)
+- [Exibição 3D e UI aninhada em uma UI 2D](#2115044315777163777)
+- [Modelo 3D de uma bicicleta montando uma vaca que monta um humano que anda de skate](#2115074545166287075)
 - [Sinal vermelho, sinal verde: jogo de sobrevivência 3D](#red-light-green-light)
 - [Golden Miner: jogo de mineração 3D com 24 níveis](#golden-miner)
 - [Crazy Tanks — Artilharia 3D em uma ilha](#crazy-tanks-3d-island-artillery)
-- [Battle City 3D: Defesa de Tanques sem Fim](#battle-city-3d)
 - [Vila de Gelatina](#jelly-villa)
 
 </details>
-
-<a id="2102473710724919614"></a>
-
-### Casa suburbana de dois andares com interior
-
-[Azer](https://x.com/azer0lxm) · 2026-09-22
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/1f868aa1278025abb5f25b4de2bb5daa62db78697a0f9706334215d617f27218.jpg" width="840" loading="lazy" alt="Casa suburbana de dois andares com interior"></a>
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/48e89527946c980bd26b406a09f6be616f367109ace52923b217f454df158cab.jpg" width="840" loading="lazy" alt="Casa suburbana de dois andares com interior"></a>
-
-O prompt informado por Azer solicita um modelo 3D no Blender de uma casa suburbana de dois andares, incluindo o interior.
-
-**Prompt**
-
-```text
-Olá. Crie no Blender o melhor modelo 3D possível de uma casa suburbana de dois andares, incluindo o interior e todos os elementos.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2102473710724919614) · [Publicação original](https://x.com/azer0lxm/status/2102473781830909995) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2102652927177617564"></a>
-
-### Jogo de corrida de kart 3D em um único arquivo HTML
-
-[Anshul](https://x.com/realanshull) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2102652927177617564"><img src="../assets/previews/0f568961afe1321356c2f741639b1e8c0fb199da304a749177bfa3210cbd2bbd.jpg" width="840" loading="lazy" alt="Jogo de corrida de kart 3D em um único arquivo HTML"></a>
-
-Prompt reutilizável que, segundo o autor, foi enviado sem alterações ao GPT Astra 6 e ao Claude Opus 5.5 para comparar as implementações de corrida de kart 3D feitas por eles.
-
-**Prompt**
-
-```text
-crie um jogo de corrida de kart 3D em um único arquivo HTML.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2102652927177617564) · [Publicação original](https://x.com/realanshull/status/2102652927177617564) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2102672926285713456"></a>
-
-### Animação de castelo medieval no navegador
-
-[juhapalomaki.fi](https://juhapalomaki.fi/) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2102672926285713456"><img src="../assets/previews/b43efddd3611576ef42085cb8dc829a3c4e2476c7392c3ce076fd7b852c3f5c1.jpg" width="840" loading="lazy" alt="Animação de castelo medieval no navegador"></a>
-
-Uma cena 3D baseada no navegador, com um castelo medieval no topo de uma colina coberta por uma floresta. A câmera gira continuamente ao redor do castelo, enquanto a bandeira de uma torre tremula ao vento. A publicação do autor vinculada identifica este projeto como a tarefa compartilhada de prompt único usada com o GPT-6 Astra high e outros modelos testados.
-
-**Prompt**
-
-```text
-Crie uma animação 3D que seja executada completamente no navegador. A animação deve apresentar um castelo medieval no topo de uma colina situada em uma grande floresta. Não adicione controles de teclado; faça apenas a câmera girar ao redor do castelo para que possamos vê-lo de todos os lados. No topo da torre do castelo, deve haver uma bandeira que tremula ao vento.
-
-A saída deve conter o arquivo index.html que, ao ser executado, exibe o castelo e inicia a animação em loop.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2102672926285713456) · [Publicação original](https://juhapalomaki.fi/blog/castle-model-comparison/) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2102752217375899659"></a>
-
-### Orbit Lab: simulação 3D do Sol, da Terra e da Lua
-
-[technewsradio.tokyo](https://technewsradio.tokyo/) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2102752217375899659"><img src="../assets/previews/51e704332827bb37a215b466ac4ce0307552ddeb8c1d40c48ddb1dd48972696c.jpg" width="840" loading="lazy" alt="Orbit Lab: simulação 3D do Sol, da Terra e da Lua"></a>
-
-Texto de solicitação para comparação que, conforme declarado no artigo vinculado, foi enviado igualmente a quatro modelos, incluindo GPT-6 Astra, Sol e Luna. Implemente uma experiência educacional de simulação 3D para a web com Three.js, apresentando Sol, Terra e Lua criados proceduralmente, órbitas e rotação, seleção por clique, controle da câmera, reprodução, controle de velocidade, foco e outros recursos.
-
-**Prompt**
-
-```text
-Este é um experimento comparativo. Implemente e conclua, no seu diretório de trabalho, a experiência web com a mesma especificação a seguir. O nome é “Orbit Lab”. Use Three.js 0.186.0 e carregue o núcleo e o OrbitControls na mesma versão (você pode usar um import map de CDN ou npm). Não é necessário publicar nem fazer deploy.
-
-Requisitos:
-1. Represente modelos 3D do Sol, da Terra e da Lua usando geometria e materiais procedurais. Não use imagens nem assets 3D externos. Use o Sol como fonte de luz pontual, de modo que seja possível distinguir as áreas iluminadas e sombreadas da Terra e da Lua ao controlar a câmera.
-2. Anime a translação e a rotação da Terra, a inclinação do eixo terrestre e a translação da Lua usando delta time. Visualize a inclinação dos planos orbitais e exiba as linhas das órbitas da Terra e da Lua. A escala e a velocidade podem ser exageradas para fins educacionais.
-3. Gere um fundo estrelado usando números aleatórios reproduzíveis. Permita rotação e zoom com OrbitControls. Ao clicar em um corpo celeste, alterne o estado de seleção e o painel de descrição.
-4. Inclua controles de reproduzir/pausar, um controle deslizante de velocidade, uma opção para mostrar/ocultar as linhas orbitais, foco da câmera no Sol, na Terra ou na Lua e um botão para voltar ao estado inicial. Também deve ser possível reproduzir/pausar e redefinir pelo teclado.
-5. Garanta uma interface utilizável em telas de celular, inclua uma mensagem para casos sem suporte a WebGL, trate o redimensionamento e limite a proporção de pixels para evitar carga excessiva de renderização.
-6. Escreva no README as instruções de inicialização e os métodos de controle. Se possível, inicialize a aplicação e verifique seu funcionamento; caso não seja possível, informe o motivo. No relatório de conclusão, descreva resumidamente os arquivos criados, os itens implementados e os resultados da verificação.
-
-Não faça perguntas durante o processo; tome decisões razoáveis e conclua a implementação até o fim.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2102752217375899659) · [Publicação original](https://technewsradio.tokyo/lab/gpt6-vs-opus55) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2102780850706567390"></a>
-
-### Castelo medieval europeu em 3D controlável pelo navegador
-
-[もぎ＠ボードゲーム](https://x.com/luxurytax150) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2102780850706567390"><img src="../assets/previews/535ebfb5581dc4dc70a4d8fdeb70422afe55fc09e97bc8db3b49e36bb3bec72f.jpg" width="840" loading="lazy" alt="Castelo medieval europeu em 3D controlável pelo navegador"></a>
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2102780850706567390"><img src="../assets/previews/ea07857b725d97d51c74394cbf842b33b8b7cac3c945f00191f46c2e03d9c4d6.jpg" width="840" loading="lazy" alt="Castelo medieval europeu em 3D controlável pelo navegador"></a>
-
-Crie um castelo medieval europeu em 3D controlável pelo navegador. Inclua um fosso, uma ponte levadiça, torres, muralhas de pedra, bandeiras e uma floresta, além de permitir alternar entre dia e noite. Priorize ao máximo a aparência e a qualidade do modelo 3D.
-
-**Prompt**
-
-```text
-Crie um castelo medieval europeu em 3D controlável pelo navegador. Inclua um fosso, uma ponte levadiça, torres, muralhas de pedra, bandeiras, uma floresta e a alternância entre dia e noite.
-Como este é um tipo de benchmark, priorize ao máximo a qualidade do modelo 3D e o nível de detalhe visual.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2102780850706567390) · [Publicação original](https://x.com/luxurytax150/status/2102780850706567390) · [Voltar aos exemplos](#all-prompts)
-
----
 
 <a id="2102788013902213508"></a>
 
@@ -3570,6 +3453,556 @@ Mantenha os gastos contabilizados da API abaixo de US$ 5 e informe o custo real.
 
 ---
 
+<a id="2114671379455119514"></a>
+
+### Pistola artesanal do século XIX com Blender MCP
+
+[patch](https://x.com/patch_gg) · 2026-10-26
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/artisanal-1800s-pistol-3d-model"><img src="../assets/previews/35a8723aa9a926bb9637e2b4dad3c5e9b162c1106f5ff1681d2f0275af471c7b.jpg" width="840" loading="lazy" alt="Pistola artesanal do século XIX com Blender MCP"></a>
+
+Uma publicação comparativa de modelos de IA apresenta um pedido para criar uma pistola artesanal do século XIX usando o Blender MCP, com o GPT-6 Astra entre os modelos testados.
+
+**Prompt**
+
+```text
+Crie uma pistola artesanal do século XIX usando o Blender MCP
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/artisanal-1800s-pistol-3d-model) · [Publicação original](https://x.com/patch_gg/status/2114671379455119514) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2114735216686211306"></a>
+
+### Fresh Coat: pátio de grafite interativo em pixel art 3D
+
+[Adem Ninja](https://x.com/halfofthemwork) · 2026-10-26
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/fresh-coat-interactive-3d-graffiti-yard"><img src="../assets/previews/d180e9edaafe76d826392400af36fc692a4ef1491668ad31800185411ad4cc9b.jpg" width="840" loading="lazy" alt="Fresh Coat: pátio de grafite interativo em pixel art 3D"></a>
+
+Uma cena 3D interativa em three.js, contida em um único arquivo, ambientada no pátio de uma garagem em uma ilha flutuante, onde uma crew pinta um muro enquanto reage ao clima, a um zelador em ronda, às regras de pintura do muro e uns aos outros. A cena especifica um renderizador isométrico em pixel art, comportamento procedural da tinta, animação de personagens, animais no ambiente e controles e interface adaptados para dispositivos móveis.
+
+**Prompt**
+
+```text
+Crie uma cena em um único arquivo HTML + three.js (r160) chamada "Fresh Coat": uma crew de grafiteiros pintando o longo muro de uma garagem em um quintal sobre uma ilha flutuante. É uma cena 3D real renderizada como pixel art nítida.
+
+Renderização: uma câmera ortográfica isométrica (arraste para girar em passos de 90°, role ou use pinça para ampliar e reduzir). Renderize em um alvo pequeno de baixa resolução com uma textura de profundidade e, em seguida, amplie usando texelFetch para preencher os pixels da tela. Adicione contornos baseados em profundidade e quantize cada pixel para uma paleta fixa de cerca de 60 cores em OKLab, com dithering Bayer opcional. A paleta precisa ter cores de spray saturadas o suficiente (cromado, fluorescentes e sombras profundas) para destacar as artes. Alterne entre "Pixel art / 3D bruto", com um controle deslizante de tamanho do pixel e caixas de seleção para Paleta / Dithering / Contornos, além de um botão "Vista do muro" que posiciona a câmera de frente para o muro.
+
+Pátio: asfalto remendado e rachado, com meio-fio, grama e terra ao redor da borda da ilha. Ao redor do asfalto:
+- uma longa fileira de garagens individuais com portas numeradas e um telhado plano que se projeta sobre elas. O muro dos fundos é a tela, com reboco e tijolos antigos renderizados;
+- uma cabine de transformador de tijolos com uma placa de advertência, um bom lugar para se esconder atrás;
+- um álamo com um banco e uma avó sentada nele, que resmunga diante de tags novas e acena com a cabeça para boas artes;
+- um suporte de carpetes, arbustos, uma cerca com um buraco e uma caçamba de lixo cheia de latas vazias;
+- um poste com luminária e uma luminária sobre uma porta de garagem.
+Pombos andam e bicam o chão, levantando voo para os telhados quando um grafiteiro ou o zelador se aproxima. Um gato no telhado da garagem acompanha com a cabeça o movimento da lata que chia.
+
+Muro: uma textura de dados cobre todo o muro. Cada texel armazena cor, camada, umidade, idade e sua ordem dentro do traço. As artes são desenhadas progressivamente na ordem real: um contorno fino de esboço, o preenchimento, um degradê, o contorno final, a sombra 3D, os realces e, por último, a tag. Camadas antigas aparecem onde a camada de tinta é fina, e artes antigas desbotam e descascam com o tempo.
+
+Spray: cada lata pulveriza um cone de gotículas. A distância define a largura e a suavidade da linha, e a velocidade define a cobertura. Mover-se devagar demais ou perto demais faz a tinta acumular e escorrer, e os pingos descem pela textura sob a ação da gravidade até secarem. O vento sopra o excesso de spray para o lado. As latas ficam com pouca tinta (o chiado falha e a linha se desfaz), são agitadas com um chocalho e vão parar na caçamba quando ficam vazias.
+
+Crew (8 grafiteiros, cada um com habilidade, velocidade e controle da lata, além de um estilo: tagger / throw-up / peça / personagens):
+- Quatro pintam ao mesmo tempo e quatro esperam no meio-fio, desenhando em cadernos pretos. As letras vêm de um alfabeto original em pixel art, transformadas em traços, para que cada grafiteiro tenha um nome e um estilo de escrita diferentes.
+- Cada grafiteiro examina o muro em busca de um lugar, planeja uma arte que caiba no espaço livre, faz um esboço preliminar, recua para observar e então pinta em passadas. A crew entra em acordo sobre o esquema de cores, e os grafiteiros emprestam latas uns aos outros.
+- O código do muro: nunca passe por cima de uma arte melhor; apenas de uma pior ou mais antiga. Uma tag sobre a arte de alguém começa uma treta: a pessoa risca a tag, e os dois discutem. Com Código: Desligado, vale tudo.
+- Depois de cada arte, a crew a avalia (letras, fluidez, cores, limpeza e pingos). A melhor avaliação faz o grafiteiro subir na hierarquia. Um grafiteiro cuja arte é riscada ou apagada vai para o fim da fila. Todos os que estão abaixo avançam, e o próximo da fila vai para o muro.
+
+Zelador e IA: um zelador faz rondas em intervalos programados, com um rolo e um balde de tinta cinza que nunca combina exatamente com o muro. Um grafiteiro que está esperando fica de vigia. Quando o zelador aparece, o vigia assobia, todos pegam suas latas e se escondem atrás da cabine ou da caçamba, e voltam quando o zelador vai embora. O zelador apaga primeiro as tags novas, usando retângulos cinza irregulares, que se tornam uma tela limpa para a próxima arte. Os erros aumentam com a pressa (quando o zelador está perto), o vento, uma lata quase vazia e menor habilidade: linhas trêmulas, excesso de spray e pingos. Ocasionalmente, um bico entope e cospe uma bolota de tinta.
+
+Grafiteiros: com rigging de caixas e IK de dois ossos. A mão que segura a lata acompanha o caminho do traço à distância correta do muro. Poses: caminhar com uma sacola de latas, agitar a lata, agachar-se para pintar a parte de baixo, esticar-se na ponta dos pés ou subir em um caixote para alcançar o alto, recuar de braços cruzados, apontar um erro, bater o punho, discutir por causa de uma arte riscada, correr e se esconder, espiar para fora e sentar-se desenhando no meio-fio.
+
+Horário e clima: Dia / Crepúsculo / Noite (as luminárias iluminam o muro, e pintar à luz delas altera as cores), Seco / Ventoso / Chuva.
+- Chuva: riscos, respingos, asfalto mais escuro e um muro molhado e mais escuro, além de poças que refletem o muro por meio de uma passagem de renderização espelhada. A tinta fresca que ainda não curou escorre e é lavada em riscos coloridos, enquanto a tinta curada permanece.
+- Os grafiteiros se abrigam sob a parte saliente do telhado da garagem. Quando o muro seca, dois deles repintam as partes danificadas na mesma ordem dos traços, e a pintura recomeça.
+
+Interface (em inglês, com temas claro e escuro e layout para dispositivos móveis):
+- Um placar iluminado com as artes concluídas, relógio + status ("Pintando", "Zelador!", "Chuva"), a arte mais antiga e a arte mais bem avaliada.
+- Uma barra lateral com: Horário e clima (com barras de umidade do muro e cura da tinta); a hierarquia (Rei / Grafiteiro / Toy / Novato, além de "Próximo"); Regras (Código: Respeito / Desligado; Zelador: Ligado / Desligado; Vento: Calmo / Forte); um feed de eventos ("Riscada!", "Apagada", "Pingo", "Zelador a caminho") com "Todos passam por cima do Rei" e Pausar; Visualização (Repetir uma arte desde o primeiro traço).
+- Clique em um ponto do muro e o próximo grafiteiro pinta ali. Clique em um grafiteiro e a crew inteira o ajuda. Letras e design originais; nenhuma crew, marca ou nome real.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/fresh-coat-interactive-3d-graffiti-yard) · [Publicação original](https://x.com/halfofthemwork/status/2114738270466695553) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2114961338175033641"></a>
+
+### Mundo 3D de 2099 com humanos, alienígenas e criaturas
+
+[Rey Brando](https://x.com/ReyBrando1) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/2099-human-alien-creature-3d-world"><img src="../assets/previews/66f3527f036fcd7ee885cbe5bcb392ba99740dd8f950fe4282aa86b1820ba2cc.jpg" width="840" loading="lazy" alt="Mundo 3D de 2099 com humanos, alienígenas e criaturas"></a>
+
+Um prompt de uma única rodada compartilhado que, segundo o autor da publicação, foi usado para comparar o ChatGPT gratuito (GPT-6 Thinking) e o Claude Haiku. Ele pede um mundo 3D ambientado em 2099, habitado por humanos, alienígenas e criaturas.
+
+**Prompt**
+
+```text
+Crie um mundo 3D de 2099 habitado por humanos, alienígenas e criaturas.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/2099-human-alien-creature-3d-world) · [Publicação original](https://x.com/ReyBrando1/status/2114961338175033641) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2115035785179148694"></a>
+
+### O ÚLTIMO VAGÃO
+
+[Happycapy](https://x.com/happycapyai) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/haunted-halloween-train-station-3d-experience"><img src="../assets/previews/64294e6e82e623c92cc9421d86a247bfc4f263d0ad2d09886ded2e1918699dc1.jpg" width="840" loading="lazy" alt="O ÚLTIMO VAGÃO"></a>
+
+Um diorama 3D interativo para navegador: um trem fantasma em miniatura percorre uma vila ferroviária vitoriana encantada, enquanto passagens ocultas em túneis conduzem uma narrativa sobrenatural determinística. O prompt define cenários artesanais, abóboras esculpidas e iluminadas, um trem a vapor detalhado, predefinições de câmera, órbita por arraste, zoom com a rolagem, uma história em loop de 36 segundos, controles de acessibilidade, som e implementação em Three.js.
+
+**Prompt**
+
+```text
+Crie “THE LAST CARRIAGE”, uma experiência 3D interativa de Halloween para navegador, finalizada e com direção de arte primorosa.
+
+Um trem fantasma em miniatura circula por uma vila vitoriana encantada à meia-noite. Cada vez que desaparece em um túnel, algo muda silenciosamente.
+
+Entregue uma experiência funcional, não um conceito, mockup ou demonstração técnica. Trate-a como uma pequena obra de cinema interativo, com o esmero de um elaborado cenário de stop motion.
+
+Se estiver trabalhando no projeto existente, preserve sua identidade, a lógica útil do trem, as interações funcionais e a configuração de acesso privado. Aprimore o site existente em vez de criar uma duplicata.
+
+1. DIREÇÃO CRIATIVA
+
+A ideia central:
+“Uma vila ferroviária encantada de Halloween, criada à mão como um diorama mecânico com qualidade de peça de museu.”
+
+Equilíbrio emocional:
+- 60% de calor outonal encantado.
+- 30% de mistério gótico.
+- 10% de inquietação silenciosa.
+
+Torne-a convidativa o bastante para ser explorada e estranha o suficiente para ser inesquecível.
+
+Use uma paleta controlada:
+- Sombras azul-tinta e azul-aveludado.
+- Violeta suave e ameixa quase preta.
+- Folhas outonais em terra de Siena queimada e cobre.
+- Âmbar de abóbora e marfim quente.
+- Pintura vermelho-oxblood.
+- Ouro manchado e latão envelhecido.
+
+As luzes quentes devem ser o centro emocional da cena. Evite banhar toda a superfície em ciano ou teal escuro.
+
+Os materiais devem parecer táteis e feitos à mão: madeira pintada, metal escurecido pela fuligem, latão desgastado, reboco levemente abaulado, telhas de ardósia sobrepostas, paralelepípedos úmidos, casca cerosa de abóbora e vidro delicado.
+
+Introduza assimetria intencional, pequenas imperfeições e variações de superfície, mantendo uma escala coerente.
+
+Evite assets low-poly genéricos, caixas provisórias, árvores em forma de bolha, cores neon, bloom excessivo, neblina pesada, sustos repentinos, gore, efeitos piscantes e poluição visual.
+
+2. COMPOSIÇÃO E QUADRO DE ABERTURA
+
+Faça o mundo em miniatura ocupar aproximadamente 75–85% da viewport inicial. A cena deve dominar; a tipografia deve permanecer secundária.
+
+Crie uma composição intimista em três quartos:
+- Primeiro plano: três lanternas de abóbora lindamente esculpidas ao lado da ferrovia curva.
+- Plano intermediário: a locomotiva passando pela estação iluminada com calor.
+- Plano de fundo: telhados tortos da vila, uma torre de relógio esguia e a entrada de um túnel em meio à mata.
+
+Organize esses pontos focais como um triângulo visual. Use a curva da ferrovia como uma linha-guia marcante.
+
+Reduza a base vazia exposta e evite que o modelo pareça pequeno dentro de uma página grande. Preserve áreas mais tranquilas entre os agrupamentos detalhados.
+
+No tempo zero, mostre claramente:
+- A locomotiva e seus vagões de passageiros na curva em primeiro plano.
+- Pelo menos três rostos reconhecíveis de jack-o’-lanterns brilhando.
+- A entrada da estação e a janela quente da bilheteria.
+- A boca do túnel.
+- Uma silhueta arquitetônica legível.
+- Uma relação equilibrada entre a luz quente e a noite fria.
+
+A primeira entrada no túnel só deve acontecer depois que os espectadores tiverem tempo de apreciar o trem.
+
+O quadro de abertura deve funcionar como uma ilustração de Halloween finalizada antes de qualquer movimento. Não esconda a melhor composição até vinte segundos depois do início da experiência.
+
+Crie enquadramentos deliberados para desktop e para o modo retrato em dispositivos móveis. Uma composição vertical de vídeo deve manter o trem, a estação e as abóboras do primeiro plano.
+
+3. O MUNDO EM MINIATURA
+
+Crie uma paisagem compacta e ricamente composta, contendo:
+- Um circuito ferroviário curvo.
+- Um viaduto estreito de pedra sobre um riacho escuro.
+- Um túnel atravessando uma encosta arborizada.
+- Uma pequena estação vitoriana.
+- Algumas casas da vila, cada uma com design próprio.
+- Uma torre de relógio esguia.
+- Árvores esculturais com folhagem outonal esparsa.
+- Uma figura solitária esperando sob a luminária da plataforma.
+
+Concentre os detalhes ao redor do trem, da estação, das abóboras em primeiro plano e do portal do túnel, em vez de distribuir a decoração uniformemente.
+
+Arquitetura:
+- Paredes levemente abauladas e assimetria intencional.
+- Telhados íngremes e sutilmente curvos.
+- Telhas sobrepostas com espessura visível.
+- Águas-furtadas, chaminés tortas e estrutura de madeira aparente.
+- Portas recuadas e molduras de janelas.
+- Calhas de cobre envelhecido, cercas de ferro e placas suspensas.
+
+Estação:
+- Marquise recortada apoiada em suportes finos de ferro.
+- Uma janela quente da bilheteria.
+- Um relógio antigo se aproximando da meia-noite.
+- Um banco de madeira e malas empilhadas.
+- Uma pequena placa com a inscrição “ALL HALLOWS”.
+- Guirlandas outonais e um discreto cordão de lanternas quentes.
+
+Túnel:
+- Um portal de pedra trabalhada e um brasão antigo de ferro.
+- Hera, raízes, folhas caídas e degraus iluminados por abóboras ou uma trilha de manutenção.
+- Um interior quase completamente escuro.
+- Terreno em camadas, pedras, raízes e vegetação quebrando a uniformidade da encosta.
+
+Não deixe um grande monte liso e vazio.
+
+As árvores devem ter troncos afunilados e silhuetas ramificadas. Use agrupamentos irregulares de pequenas folhas cor de cobre e ferrugem, com variação de cor e densidade.
+
+4. JACK-O’-LANTERNS MARCANTES
+
+Crie aproximadamente 12–18 abóboras, organizadas em agrupamentos intencionais:
+- Três abóboras principais ao lado dos trilhos em primeiro plano.
+- Várias nos degraus da estação e sob a marquise.
+- Um agrupamento perto do túnel.
+- Algumas em um carrinho, nas janelas ou ao lado dos portões dos jardins.
+
+Varie a escala, as proporções, as nervuras, a curvatura dos cabos e as expressões esculpidas.
+
+As abóboras principais exigem:
+- Corpos arredondados com nervuras profundas.
+- Silhuetas levemente assimétricas.
+- Cabos secos e retorcidos.
+- Paredes esculpidas espessas, com profundidade visível.
+- Aberturas distintas para olhos e boca.
+- Interiores ocos convincentes e luz de vela visível.
+- Rugosidade sutil na casca e variação de cor.
+
+Use aberturas reais ou uma geometria de recorte rebaixado convincente, com paredes internas. Não cole triângulos pretos em esferas laranjas.
+
+Pelo menos três rostos esculpidos devem ser imediatamente legíveis pela câmera padrão.
+
+A luz deles deve iluminar os paralelepípedos, os degraus da estação e os trilhos próximos. Apenas superfícies laranjas emissivas não são suficientes.
+
+Use algumas luzes locais posicionadas estrategicamente e técnicas auxiliares eficientes. Não atribua uma luz cara com sombras a cada abóbora.
+
+A chama das velas deve tremular de forma suave, irregular e lenta.
+
+5. O TREM COMO OBJETO PRINCIPAL
+
+Crie uma locomotiva a vapor em miniatura detalhada, com três vagões de passageiros.
+
+Locomotiva:
+- Painéis pintados de vermelho-oxblood.
+- Caldeira preta como fuligem.
+- Acessórios de latão envelhecido e filetes finos dourados.
+- Farol dianteiro quente, com feixe discreto.
+- Rodas em camadas e bielas animadas.
+- Um pequeno sino de latão.
+- Uma modesta guirlanda outonal e uma pequena lanterna de abóbora perto da frente.
+
+Vagões:
+- Estruturas detalhadas e perfis de teto arredondados.
+- Janelas internas quentes.
+- Silhuetas de passageiros que continuem legíveis durante a reprodução normal.
+- Escala e espaçamento consistentes ao longo dos trilhos curvos.
+
+Dê ao último vagão uma identidade própria sutil:
+- Pintura mais escura.
+- Um pequeno emblema de lua.
+- Uma luz interna pálida entre as janelas quentes.
+
+Use um movimento suave e consistente para o trem e uma rotação convincente das rodas. Mantenha o espaçamento entre os vagões nas curvas.
+
+A fumaça deve ser formada por mechas suaves, variadas e dissipantes, não por uma cadeia óbvia de esferas opacas.
+
+6. ILUMINAÇÃO, MATERIAIS E ATMOSFERA
+
+Crie três camadas complementares de iluminação:
+
+A. Iluminação focal quente
+Âmbar intenso vindo da estação, das janelas do trem e das abóboras.
+
+B. Iluminação fria de forma
+Luz suave azul-violeta da lua, revelando beirais, galhos, fumaça e silhuetas do trem.
+
+C. Preenchimento ambiental suave
+Iluminação neutra e fria suficiente para preservar as cores dos materiais e tornar a arquitetura sem luz legível em um laptop ou celular comum.
+
+Mantenha os realces mais brilhantes pequenos e intencionais. Preserve a cor âmbar sem estourá-la até o branco.
+
+Apoie os objetos no chão com sombras de contato, sombras suaves cuidadosamente controladas e oclusão ambiente moderada quando o desempenho permitir.
+
+Pedras molhadas, trilhos, latão e o riacho devem captar reflexos sutis.
+
+Use névoa fina e localizada perto dos trilhos, do riacho e sob a ponte. Mantenha o trem, os rostos das abóboras e a estação nítidos.
+
+Adicione movimento ambiental moderado e assíncrono:
+- Algumas folhas flutuando.
+- Pequenas brasas ocasionais da locomotiva.
+- Fumaça suave da chaminé.
+- Leve movimento nas decorações suspensas.
+- Tremular lento das velas.
+
+Use granulação de filme sutil e tone mapping cuidadoso. Bloom e profundidade de campo são acabamentos opcionais, nunca substitutos para uma boa iluminação. Mantenha os principais detalhes do trem e das abóboras suficientemente nítidos para serem examinados.
+
+7. DECORAÇÃO DE HALLOWEEN
+
+O feriado deve ser reconhecível mesmo com todo o texto da interface oculto.
+
+Inclua uma seleção cuidadosamente escolhida de:
+- Abóboras esculpidas brilhando.
+- Folhas cor de cobre e ferrugem acumuladas nas bordas.
+- Um pequeno carrinho de madeira para abóboras.
+- Uma faixa desbotada de festival da colheita.
+- Pequenos enfeites de fantasmas pendurados sob a marquise.
+- Detalhes de lua crescente em ferro forjado.
+- Teias de aranha finas, visíveis onde captam a luz quente.
+- Um pequeno gato preto perto de uma lanterna.
+
+Componha os objetos em agrupamentos significativos, deixando espaço entre eles. Priorize o esmero e a narrativa, não a densidade da decoração.
+
+8. LOOP NARRATIVO DE 36 SEGUNDOS
+
+Crie uma sequência determinística e contínua de 36 segundos, dividida em três circuitos de aproximadamente 12 segundos.
+
+Circuito inicial:
+Três passageiros distintos são visíveis pelas janelas dos vagões. Uma figura solitária espera sob a luminária da estação.
+
+Segundo circuito:
+Depois de uma passagem oculta pelo túnel, um passageiro desapareceu. Uma janela antes escura em uma casa distante agora está iluminada.
+
+Terceiro circuito:
+Depois da próxima passagem oculta pelo túnel, a plataforma está vazia. A figura que esperava agora está sentada no último vagão, voltada para fora, na direção do espectador.
+
+Durante o terceiro circuito, quando o último vagão passar pelo agrupamento de abóboras em primeiro plano:
+- As chamas das velas se inclinam brevemente em sua direção.
+- Sua janela pálida revela a antiga figura que esperava.
+- A luminária da estação fica ligeiramente mais fraca.
+- A figura se vira.
+- Um reflexo fantasmagórico tênue permanece no vidro.
+
+Coreografe esse momento em torno da passagem pelo primeiro plano, aproximadamente 25–26 segundos depois do início do loop. Ele deve ser sutil, mas legível na velocidade normal de reprodução.
+
+Durante a passagem final, a luz do último vagão desaparece lentamente.
+
+Use a próxima passagem pelo túnel para ocultar o reinício do estado inicial.
+
+Todas as mudanças e reinicializações dos passageiros devem acontecer enquanto o trem afetado estiver totalmente escondido dentro do túnel. Evite aparições repentinas ou descontinuidades visíveis.
+
+A história deve recompensar a observação sem legendas explicativas e funcionar completamente sem som.
+
+9. CÂMERA, ROTAÇÃO POR ARRASTO E ZOOM POR ROLAGEM
+
+Disponibilize três predefinições de câmera:
+- DIORAMA: a vista padrão em três quartos, cuidadosamente dirigida pela arte.
+- FOLLOW: uma câmera suave que acompanha o trem.
+- STATION: uma vista mais próxima da plataforma e das janelas dos vagões.
+
+As transições devem ser suaves e intencionais.
+
+Antes da interação manual, permita uma deriva cinematográfica quase imperceptível. Interrompa essa deriva assim que o usuário ajustar a vista manualmente.
+
+Permita manipulação direta nas três predefinições:
+
+Rotação por arrasto:
+- Arrasto com o botão esquerdo do mouse no desktop.
+- Arrasto com um dedo em telas sensíveis ao toque.
+- Rotação horizontal suave em 360 graus.
+- Elevação vertical limitada a aproximadamente 12–65 graus acima do horizonte.
+- Nenhuma inversão para baixo da cena.
+- Captura do ponteiro para que o arrasto continue ao atravessar os controles.
+- Tratamento limpo de soltura e cancelamento.
+- Nenhuma rotação descontrolada após a soltura.
+
+Zoom por rolagem:
+- Role para cima para ampliar o modelo.
+- Role para baixo para reduzi-lo.
+- Compatibilidade com rodas do mouse e rolagem com dois dedos no trackpad.
+- Aproximação suave do zoom solicitado.
+- Limite o zoom a aproximadamente 65–185% do tamanho padrão da predefinição.
+- Use o zoom óptico da câmera para preservar uma distância segura de órbita e evitar atravessar o cenário com a câmera.
+- Normalize a entrada da roda entre os modos de delta em pixels, linhas e páginas.
+- Preserve os atalhos de zoom do navegador e os gestos de rolagem com modificadores.
+
+Redefinição:
+- Disponibilize um discreto botão Redefinir vista.
+- Um clique duplo na cena ou a tecla 0 restaura o ângulo padrão Diorama e o zoom de 100%.
+- Alterar a predefinição de câmera limpa a rotação e o zoom manuais.
+- Reiniciar a história redefine o tempo narrativo independentemente dos ajustes da câmera.
+
+Acessibilidade pelo teclado:
+- As teclas de seta giram a cena quando o canvas está em foco.
+- + e − ajustam o zoom quando o canvas está em foco.
+- Mostre o foco do teclado e instruções acessíveis concisas.
+
+Os gestos da cena não devem interferir nos botões da interface nem na interação com a luminária da estação.
+
+10. INTERFACE E SOM
+
+Abra diretamente na cena, sem tela de abertura do aplicativo ou onboarding desnecessário.
+
+Use um pequeno título elegante no canto:
+THE LAST CARRIAGE
+“Observe os passageiros.”
+
+Combine um título serifado refinado com um texto de apoio discreto e bem espaçado. Evite textos grandes demais, margens excessivas e rótulos decorativos competindo com o modelo.
+
+Inclua uma dica inicial sutil:
+“ARRASTE PARA GIRAR · ROLE PARA DAR ZOOM”
+Faça-a desaparecer após a interação.
+
+Disponibilize controles discretos para:
+- Som ligado/desligado — S.
+- Predefinição de câmera — C.
+- Redefinir vista e zoom — 0.
+- Reiniciar história — R.
+- Ocultar interface para gravação — H.
+- Restaurar interface — H, Escape ou um discreto botão de restauração.
+- Pausar/retomar — Espaço quando o plano de fundo da página estiver em foco.
+
+Clicar ou tocar na luminária da plataforma deve diminuir sua intensidade suavemente e revelar pegadas fantasmagóricas tênues. Esse detalhe opcional não deve alterar a história principal.
+
+Respeite as preferências de movimento reduzido: comece com um quadro de abertura estático e ofereça um controle explícito de Reprodução. Pause a animação e silencie o áudio quando a página estiver em segundo plano.
+
+O áudio só deve começar após um gesto do usuário que o habilite.
+
+Crie uma paisagem sonora em camadas e moderada:
+- Ritmo suave das rodas.
+- Apito distante de vapor.
+- Vento outonal.
+- Sino distante da estação.
+- Mudanças sutis de abafamento ou ambiência dentro do túnel.
+
+11. IMPLEMENTAÇÃO E HOSPEDAGEM PRIVADA
+
+Use Three.js com módulos limpos e fáceis de manter.
+
+Prefira geometria, materiais, texturas e áudio procedurais quando contribuírem para a direção de arte. Use assets com licenças adequadas quando forem úteis e inclua a atribuição.
+
+A cena, as interações e a história essenciais devem funcionar sem chamadas de IA em tempo de execução, chaves de API ou serviços externos de inferência.
+
+Empacote localmente as dependências e os assets essenciais sempre que for prático.
+
+Use:
+- Agrupamento de geometrias para detalhes estáticos.
+- Instancing para folhas e objetos repetidos.
+- Menor nível de detalhe para objetos menores ou distantes.
+- Configurações de sombras sensatas.
+- Um device pixel ratio limitado.
+- Qualidade de renderização adaptativa.
+- Fallbacks elegantes para efeitos pesados.
+- Uma mensagem clara de fallback quando o WebGL não estiver disponível.
+
+Priorize:
+1. Composição e iluminação.
+2. Abóboras principais e esmero na construção do trem.
+3. Movimento suave e narrativa legível.
+4. Personalidade arquitetônica e riqueza dos materiais.
+5. Decoração secundária.
+
+Mantenha o site hospedado privado e acessível somente à conta do proprietário. Preserve a autenticação gerenciada pela plataforma. Não o torne público nem substitua os controles de acesso da plataforma por uma tela de login meramente cosmética.
+
+12. VALIDAÇÃO E ENTREGA
+
+Compile, execute e inspecione a experiência realmente renderizada.
+
+Trabalhe em etapas visuais:
+1. Enquadramento da câmera e escala da cena.
+2. Iluminação e exposição.
+3. Abóboras principais e locomotiva.
+4. Estação e silhuetas arquitetônicas.
+5. Materiais e decoração organizada em agrupamentos.
+6. Movimento atmosférico.
+7. Refinamento da interface.
+
+Depois das três primeiras etapas, inspecione uma captura de tela renderizada de verdade antes de adicionar mais decoração.
+
+Revise:
+- O quadro de abertura.
+- A locomotiva passando pelas abóboras em primeiro plano.
+- Cada mudança de estado dos passageiros.
+- O momento sobrenatural.
+- A redefinição oculta e o loop completo.
+- O enquadramento retrato em dispositivos móveis.
+- O modo de gravação com a interface oculta.
+- As predefinições alternativas de câmera.
+- A rotação por arrasto e os limites de elevação.
+- O zoom por rolagem e seus limites.
+- O comportamento da redefinição.
+- Os controles do teclado.
+- As interações de som e da luminária da estação.
+
+Verifique os erros do navegador e o desempenho da renderização. Confirme o espaçamento consistente do trem, os estados narrativos determinísticos, as transições ocultas e a continuidade do loop.
+
+Revise os quadros que continuarem turvos, planos, esparsos, decorados em excesso ou dominados pela tipografia.
+
+Critérios finais de aceitação visual:
+- A cena comunica imediatamente Halloween sem texto.
+- Os rostos das abóboras parecem esculpidos e iluminam o entorno.
+- O trem é um belo ponto focal visível desde o quadro de abertura.
+- Os materiais e o esmero da construção são apreciáveis à distância de visualização padrão.
+- A luz quente permanece rica sem perder o mistério noturno.
+- A rotação e o zoom parecem suaves e controlados.
+- O próprio quadro de abertura poderia funcionar como uma atraente gravura de Halloween.
+
+Entregue:
+- A experiência privada funcional.
+- O código-fonte completo, com instruções claras para execução local.
+- Um guia conciso de controles.
+- Capturas de tela reais do resultado em execução.
+- Uma composição padrão adequada para gravar um vídeo em loop contínuo para X.
+
+O resultado deve dar a sensação de descobrir um pequeno mundo assombrado: bonito o bastante para ser observado antes que se perceba que há algo errado.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/haunted-halloween-train-station-3d-experience) · [Publicação original](https://x.com/happycapyai/status/2115035788891013525) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2115044315777163777"></a>
+
+### Exibição 3D e UI aninhada em uma UI 2D
+
+[frozenlib](https://x.com/frozenlib) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/nested-2d-ui-in-3d-display"><img src="../assets/previews/3a949e9ee7868c83061946e8102de667edfe424c47226d4491f047a23b858147.jpg" width="840" loading="lazy" alt="Exibição 3D e UI aninhada em uma UI 2D"></a>
+
+Solicitação para incorporar uma exibição 3D em uma UI 2D e permitir a inserção de uma UI 2D nesse espaço 3D. Também é necessário oferecer suporte a IME e ao foco do teclado, além de integrar o conceito de extensões interativas do glTF.
+
+**Prompt**
+
+```text
+Exiba conteúdo 3D dentro de uma UI 2D e permita posicionar uma UI 2D nesse espaço. Ofereça também suporte a recursos já disponíveis na UI 2D, como IME e foco do teclado, e integre o conceito de extensões interativas do glTF.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/nested-2d-ui-in-3d-display) · [Publicação original](https://x.com/frozenlib/status/2115044315777163777) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2115074545166287075"></a>
+
+### Modelo 3D de uma bicicleta montando uma vaca que monta um humano que anda de skate
+
+[Tim Jayas](https://x.com/TimJayas) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/cycle-cow-human-skateboard-3d-model"><img src="../assets/previews/d9524db110a1e5f52601425074815dd9bfd0ed01fe6b55fd94f2b0646c524447.jpg" width="840" loading="lazy" alt="Modelo 3D de uma bicicleta montando uma vaca que monta um humano que anda de skate"></a>
+
+Um prompt publicado por Tim Jayas para GPT-6-Astra e GPT-6.1-Terra cria um modelo 3D em Three.js de uma bicicleta montando uma vaca, que monta um humano, que anda de skate. Especifica um fundo branco e nenhum elemento de interface para manter o objeto principal visível.
+
+**Prompt**
+
+```text
+crie um modelo 3D em Three.js de uma bicicleta montando uma vaca que monta um humano que anda de skate; use um fundo branco para manter o objeto principal claramente visível e evite usar elementos de interface
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/cycle-cow-human-skateboard-3d-model) · [Publicação original](https://x.com/TimJayas/status/2115074545166287075) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Sinal vermelho, sinal verde: jogo de sobrevivência 3D
@@ -3771,73 +4204,6 @@ Entregar um projeto-fonte independente e editável, lockfile, instruções de np
 
 ---
 
-<a id="battle-city-3d"></a>
-
-### Battle City 3D: Defesa de Tanques sem Fim
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-22
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/battle-city-3d"><img src="../assets/previews/e9180abfae92dc2319bb9b62f6ee89602336de5599b5f1c98f0feffeda618cdb.png" width="840" loading="lazy" alt="Battle City 3D: Defesa de Tanques sem Fim"></a>
-
-Defenda a águia em campos de batalha intermináveis de grama, neve e áreas industriais, ou em 35 mapas clássicos. Colete dez suprimentos e derrote tanques inimigos pesados, que precisam de quatro tiros para serem destruídos.
-
-**Prompt**
-
-```text
-1. Objetivo do projeto
-Criar Battle City 3D, um jogo de defesa com tanques para navegador, inspirado no clássico de Famicom de 1985. O jogador dirige um tanque, destrói uma onda de 20 inimigos, coleta suprimentos e protege o quartel-general da águia. Recriar a versão atual em 3D com perspectiva mostrada na mídia de referência, incluindo uma campanha com semente infinita e 35 layouts clássicos selecionáveis. Preservar as regras claras do arcade, dando profundidade real aos tanques, muros e cenários.
-
-2. Estilo visual
-Usar uma PerspectiveCamera do Three.js com campo de visão de 60 graus. A visão padrão do campo de batalha deve ficar atrás e acima do jogador, a cerca de 13 unidades do mundo, com elevação de 0,43 radianos. Acompanhar suavemente a posição e um ponto à frente do tanque; nunca girar a câmera automaticamente quando o tanque virar. Oferecer uma visão tática mais alta, órbita manual por arraste e zoom com a roda do mouse. Usar os quatro eixos cardeais do mapa para movimentação e disparos. Depois de orbitar, mapear as teclas direcionais para a direção cardeal mais próxima em relação à câmera; nunca transformar o comando do teclado em movimento diagonal. Fazer o chassi apontar imediatamente para coincidir com a direção do disparo e calibrar a altura dos projéteis e do clarão do cano de acordo com o canhão real de cada modelo.
-Usar tanques sobre esteiras apoiados no chão, torres metálicas, tijolos de terracota, blocos de aço escuro, água azul, vegetação baixa e gelo refletivo. Estender o terreno além da área jogável, incluindo árvores, prédios em ruínas e névoa. Usar luz direcional quente, sombras suaves, preenchimento ambiente, tone mapping ACES e efeitos contidos de clarão do cano, recuo, faíscas e detritos quicando. A neve deve alterar a paleta do chão e das árvores; fases industriais devem privilegiar aço e prédios em ruínas.
-Enquadrar o jogo com uma interface de comando verde-oliva escura, ação principal em amarelo quente, pontuação, vidas compartilhadas, ícones dos inimigos restantes, nome da fase e radar. Colocar a alternância de modelos Tripo 3D / Three.js acima do campo de batalha, exibindo o modo selecionado e uma prévia giratória do tanque. Usar um guia ilustrado de suprimentos localizado e indicadores de efeitos temporários. Manter o campo de jogo e os controles essenciais de toque visíveis em telas estreitas.
-
-3. Mundo e cenas
-Representar o campo de batalha como uma grade de 26 por 26 tiles, com meia largura de colisão do tanque de 0,72. Colocar a águia em (13,25), cercada por uma defesa de tijolos destrutível em forma de U. Os pontos de surgimento dos jogadores são (9,25) e (17,25); os portões inimigos ficam em (1,1), (13,1) e (25,1).
-Oferecer duas campanhas: todos os 35 layouts clássicos com suas tabelas de ondas de 20 inimigos e um gerador infinito baseado em seed, alternando entre os biomas de grama, neve e industrial. Gerar corredores conectados com largura suficiente para o chassi inteiro, com conexões transitáveis entre os pontos de surgimento dos jogadores, os portões inimigos e os locais de coleta. Adicionar cobertura central de aço desencontrada para impedir uma linha de tiro direta entre o surgimento e a águia, mantendo o acesso entre ruas. Permitir selecionar o bioma inicial ou a fase clássica e sortear novamente um mapa aleatório. Levar a seed da partida, a pontuação, as vidas e as melhorias dos jogadores sobreviventes para a fase seguinte.
-Tijolos são destrutíveis; blocos de aço bloqueiam projéteis comuns e tanques; a água bloqueia tanques, mas permite a passagem de projéteis; a vegetação oculta os modelos inimigos; o gelo reduz a tração. Manter o ambiente distante apenas decorativo, separado das colisões da jogabilidade.
-
-4. Inventário de assets
-Usar estes slots estáveis de modelos 3D, substituíveis de forma independente. Priorizar o jogador, o inimigo, o tanque pesado e a águia; depois, todos os dez modelos de suprimentos. Apoiar cada asset no ponto mais baixo e normalizar sua orientação, centralização e escala. Reutilizar templates em vez de carregar um modelo por inimigo.
-- player: um tanque sobre esteiras amarelo-mostarda, com torre legível e canhão voltado para a frente; usado pelos tanques dos jogadores, com uma cor de aro separada para o segundo jogador.
-- enemy: um tanque inimigo compacto sobre esteiras, reutilizado com tonalidades distintas para as variantes básica, rápida e poderosa.
-- heavy: um tanque blindado visivelmente mais pesado, com malha separada da malha do inimigo padrão e quatro segmentos de blindagem visíveis acima dele.
-- eagle: uma estátua metálica dourada de águia sobre o pedestal do quartel-general.
-- pickup-star: uma estrela dourada de melhoria com cinco pontas.
-- pickup-helmet: um capacete militar de proteção para criar um escudo temporário.
-- pickup-clock: um relógio legível para congelar o movimento dos inimigos.
-- pickup-shovel: uma pá para reforçar o quartel-general.
-- pickup-life: um tanque em miniatura que representa uma vida extra.
-- pickup-grenade: uma granada de mão para destruir inimigos ativos.
-- pickup-ammo: uma caixa de munição para disparo rápido.
-- pickup-repair: uma caixa de ferramentas de reparo para restaurar a blindagem.
-- pickup-magnet: um ímã em forma de ferradura para coletar suprimentos à distância.
-- pickup-boost: uma bateria de energia para aumentar temporariamente a velocidade.
-- environment-building: um prédio de apartamentos em ruínas, desgastado pelo tempo, Tripo P2.0, orçamento solicitado de 1.800 triângulos.
-- environment-tree: um pinheiro irregular com tronco visível, Tripo P2.0, orçamento solicitado de 1.100 triângulos.
-- environment-bush: um arbusto baixo com folhas e tufos de grama, Tripo P2.0, orçamento solicitado de 650 triângulos.
-Exibir os suprimentos como modelos colecionáveis giratórios e flutuantes, com aros coloridos e miniaturas correspondentes no guia. Renderizar prédios, árvores e arbustos repetidos usando instâncias compartilhadas de geometria e materiais. Apoiar as raízes dos prédios e das árvores no chão; enterrar ligeiramente a base dos arbustos para integrá-los ao terreno. Adicionar neve às superfícies voltadas para cima nas fases de neve. Manter paredes de tiles, água, gelo, malhas de projéteis, UI, luzes, partículas e proxies de colisão de forma procedural. Animar a água com ondas fluidas no espaço do mundo, normais variáveis e pequeno deslocamento da superfície, de modo contínuo entre tiles adjacentes. A versão Tripo usa 17 modelos gerados; a versão de comparação substitui os tanques e o ambiente por geometria criada via código, com as mesmas regras e colisões. Ambas são renderizadas com Three.js.
-
-5. Jogabilidade e feedback
-Oferecer modo solo e cooperação local para dois jogadores, com um conjunto compartilhado de três vidas. No solo, usar WASD ou as teclas de seta e Espaço/J para disparar. No cooperativo, o jogador um usa WASD e Espaço/J; o jogador dois usa as teclas de seta e Enter/teclado numérico 0. P/Escape pausa; C muda a câmera; 1/2 seleciona o modo de modelo. Em telas sensíveis ao toque, permitir manter pressionados simultaneamente o direcional e o botão de disparo, liberar os comandos quando o ponteiro for cancelado e disponibilizar as ações de pausar, retomar, avançar para a próxima fase e tentar novamente sem rolagem.
-A velocidade do jogador é de 4,2 unidades por segundo, ou 6,3 com boost. Os inimigos incluem os tipos básico, rápido, poderoso e pesado; tanques pesados têm quatro pontos de vida e sobrevivem aos três primeiros acertos sem escudo. Destruir um tipo concede 100, 200, 300 ou 400 pontos; coletar qualquer suprimento concede 500 pontos. Concluir uma fase após derrotar 20 inimigos. Perder quando a águia for destruída ou quando as vidas compartilhadas acabarem sem nenhum jogador sobrevivente. Oferecer tentativa imediata, progressão explícita para a próxima fase e melhor pontuação salva localmente.
-Implementar os dez suprimentos: a estrela aprimora o disparo em três níveis (projéteis mais rápidos, dois projéteis simultâneos e, por fim, projéteis capazes de destruir aço); o capacete cria um escudo por 12 segundos; o relógio congela os inimigos por 9 segundos; a pá reforça a base por 16 segundos; o mini tanque adiciona uma vida; a granada destrói inimigos ativos; a munição concede 14 segundos de disparo rápido, com até quatro projéteis ativos; o reparo adiciona dois pontos de vida, limitado a três; o ímã coleta suprimentos visíveis em um raio de cinco unidades por 20 segundos; o boost dura 12 segundos. Os modelos dos suprimentos duram 25 segundos e aparecem em locais alcançáveis, usando um baralho embaralhado para variar os tipos. A coleta pelo ímã deve respeitar obstáculos sólidos.
-Usar amostras no estilo NES coletadas para a abertura da fase de 4,333 segundos, disparos, condução e marcha lenta, impactos em tijolos/aço, explosões de inimigos/jogadores, surgimento e coleta de suprimentos, vida extra, acerto na blindagem, gelo, pausa e fim de jogo. O projeto atual usa 15 faixas OGG de JustoSenka/BattleCity, commit 3a07004ba8e53baea74ff70d2ecc22b017eb9b20. Preservar a atribuição e o aviso de licença do repositório; descrevê-las como áudio coletado de um remake, sem alegar que são capturas perfeitas do hardware em nível de bit. Desbloquear o áudio após um gesto do usuário, calibrar os ganhos das amostras, oferecer volume/silenciar e sincronizar os sons aos eventos. Não adicionar música de batalha contínua não relacionada.
-
-6. Implementação técnica
-Usar TypeScript, Three.js 0.180.0 e Vite 7, com package.json e lockfile isolados. Manter a simulação independente da renderização, executada a 120 Hz. Usar AABBs sólidos para os chassis, movimento separado por eixo, limites e separação entre tanques, além de varreduras contínuas de projéteis até o contato mais próximo, incluindo colisão por movimento relativo entre projéteis opostos. Os projéteis devem surgir no chassi e percorrer o trajeto à frente para evitar atravessar paredes à queima-roupa. Adicionar aceleração/desaceleração no gelo e gravidade com quicadas amortecidas para os detritos. Esta é uma física arcade de chão, não um simulador de suspensão.
-Carregar assets GLB da mesma origem usando GLTFLoader. Manter os proxies de colisão independentes da geometria dos assets. O runtime atual usa atributos quantizados e texturas WebP (1024 px para veículos/base; 512 px para suprimentos e ambiente), sem simplificação de geometria nem decodificador WASM. Limitar o carregamento a quatro workers, usar URLs versionadas por hash e intervalos de 256 KiB, com timeout de 20 segundos e até três tentativas por intervalo. Liberar a partida depois que os quatro modelos principais e o áudio estiverem prontos; carregar os assets de suprimentos e do ambiente em segundo plano e gerar apenas os tipos de suprimento cujos modelos estejam prontos. Trocar o modo de modelo preserva o estado da jogabilidade.
-Oferecer UI em inglês, chinês simplificado, japonês e coreano. Selecionar um padrão com base no idioma do dispositivo, exceto zh-TW, zh-HK, zh-MO e zh-Hant, que devem usar inglês por padrão; persistir escolhas explícitas de idioma. Oferecer suporte a teclado, ponteiro em desktop e multitouch, pausando quando o foco for perdido. Manter todos os assets, créditos e scripts reproduzíveis locais ao projeto-fonte e entregar um diretório dist estático, sem credenciais privadas nem dependência de backend em runtime.
-
-7. Critérios de conclusão
-Entregar código-fonte editável, procedência dos assets e avisos de licença, um fluxo de desenvolvimento/build com npm e uma prévia estática jogável. Verificar a cena Tripo padrão, a comparação entre modelos, todos os biomas, um tanque pesado recebendo quatro acertos, todos os efeitos de suprimentos, pausar/retomar, derrota/tentativa novamente e progressão de fases. Testar 1.000 mapas com seed quanto à conectividade para a largura do chassi e a segurança dos pontos de surgimento, além de todos os mapas clássicos, atravessamento de paredes, disparos diagonais, separação entre tanques, impulso no gelo, comandos relativos à câmera em vários ângulos de yaw e trocas de modo que preservem o estado. Validar a UI localizada e os controles de dois dedos em telas estreitas, sem alegar testes em dispositivos físicos quando apenas emulação tiver sido usada. Comparar os frames reais de início e combate com as imagens/vídeo de referência; confirmar que os 17 modelos e as 15 faixas de áudio são carregados. Publicar usando o fluxo existente de Web Page do CMS e verificar a página pública final, em vez de considerar um registro salvo no CMS como uma implantação concluída.
-
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/battle-city-3d) · [Demonstração](https://battle-city-3d.tripo.page/) · [Voltar aos exemplos](#all-prompts)
-
----
-
 <a id="jelly-villa"></a>
 
 ### Vila de Gelatina
@@ -3908,7 +4274,7 @@ Publique um novo prompt de jelly-villa creditado a jared, com o autor original e
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 370 exemplos no site oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 376 exemplos no site oficial →</a></strong></p>
 <p><sub>Para manter a renderização do README do GitHub fluida, mostramos aqui apenas os 100 exemplos mais recentes.</sub></p>
 <br>
 </td></tr>
