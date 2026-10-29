@@ -28,7 +28,7 @@
 **다음 게임, 장면, 인터랙티브 세계를 위한 아이디어를 찾아보세요.**
 
 
-**376 · 최신 Astra 프롬프트**
+**379 · 최신 Astra 프롬프트**
 
 ## 추천 작품
 
@@ -50,9 +50,6 @@
 <details>
 <summary>사례 둘러보기</summary>
 
-- [체스 갬빗 학습을 위한 인터랙티브 3D 체스판](#2102788013902213508)
-- [무한한 솔라펑크 도시 셰이더](#2102826333550133520)
-- [1인칭 버거 시뮬레이터](#2102897258983313712)
 - [극사실적인 실시간 사막 모닥불 HTML 장면](#2102915300295369208)
 - [Three.js로 구현한 복셀 Codex](#2102956340482289944)
 - [인터랙티브 3D 구미 시트러스 슬라이스](#2103062348168618280)
@@ -146,72 +143,15 @@
 - [마지막 객차](#2115035785179148694)
 - [2D UI 내 3D 뷰와 중첩 UI](#2115044315777163777)
 - [소 위에 올라탄 자전거, 사람 위에 올라탄 소, 스케이트보드 위에 올라탄 사람의 3D 모델](#2115074545166287075)
+- [Blender에서 제작하는 시네마틱 3D 알프스 호수 장면](#2115164427657904336)
+- [거센 폭풍 속 등대 애니메이션](#2115204470573351126)
+- [Oasis Jelly: 출렁이는 젤리 큐브에 봉인된 사막의 오아시스](#2115449826481463529)
 - [무궁화꽃이 피었습니다: 3D 서바이벌 게임](#red-light-green-light)
 - [Golden Miner: 24레벨 3D 채굴 게임](#golden-miner)
 - [Crazy Tanks — 3D 아일랜드 포병전](#crazy-tanks-3d-island-artillery)
 - [젤리 빌라](#jelly-villa)
 
 </details>
-
-<a id="2102788013902213508"></a>
-
-### 체스 갬빗 학습을 위한 인터랙티브 3D 체스판
-
-[Diogo Santos](https://x.com/diogosantosbr) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102788013902213508"><img src="../assets/previews/512159568512c9d326a8bdacae73bb8f2597884676542a73504a253f2313ad7d.jpg" width="840" loading="lazy" alt="체스 갬빗 학습을 위한 인터랙티브 3D 체스판"></a>
-
-저자가 ‘시작하기 위한 프롬프트’로 공유한, 갬빗 학습용 인터랙티브 3D 체스판 웹 애플리케이션 프롬프트입니다. 저자는 3D 환경을 만들고 영상에서 벤코 갬빗을 살펴보는 모습을 보여줬다고 설명하지만, 이것이 영상에 표시된 결과물을 만드는 데 실제로 사용한 정확한 프롬프트였다고 명시하지는 않습니다.
-
-**프롬프트**
-
-```text
-주요 체스 갬빗을 학습할 수 있는 인터랙티브 3D 체스판 웹 애플리케이션을 만드세요. 수의 애니메이션을 포함하고, 앞뒤로 진행할 수 있는 컨트롤과 변형 수순, 각 오프닝의 핵심 아이디어를 설명하는 기능을 추가하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102788013902213508) · [원본 게시물](https://x.com/diogosantosbr/status/2102788013902213508) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="2102826333550133520"></a>
-
-### 무한한 솔라펑크 도시 셰이더
-
-[Jonas Fröller](https://x.com/jonasfroeller) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102826333550133520"><img src="../assets/previews/5e1edba84b202c83598f2f632c371cb143a0023bb7fe03d23a934645231b7f6c.jpg" width="840" loading="lazy" alt="무한한 솔라펑크 도시 셰이더"></a>
-
-솔라펑크풍 도로와 타워가 끝없이 이어지는 도시를 표현하고, 바람이 계속해서 보이는 셰이더를 위한 프롬프트입니다. twigl.app에서 실행되도록 설계되었습니다.
-
-**프롬프트**
-
-```text
-twigl-dot-app에서 실행할 수 있는 시각적으로 흥미로운 셰이더를 만들어 주세요. 솔라펑크풍 도로와 타워가 끝없이 이어지는 도시처럼 표현하고, 바람이 계속해서 보이도록 해 주세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102826333550133520) · [원본 게시물](https://x.com/jonasfroeller/status/2102826333550133520) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="2102897258983313712"></a>
-
-### 1인칭 버거 시뮬레이터
-
-[noclipepe](https://x.com/noclipepe) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/first-person-burger-cooking-simulator"><img src="../assets/previews/7081447827f1c3142a1e647eae36ba49c69fe17b4006156a64e6e5a7d8977779.jpg" width="840" loading="lazy" alt="1인칭 버거 시뮬레이터"></a>
-
-게시글 작성자가 GPT-6 Sol과 GPT-6 Luna를 포함한 세 모델에 1인칭 버거 시뮬레이터 게임을 만들도록 입력했다고 밝힌 프롬프트입니다.
-
-**프롬프트**
-
-```text
-1인칭 버거 시뮬레이터를 만들어 주세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/first-person-burger-cooking-simulator) · [원본 게시물](https://x.com/noclipepe/status/2102897258983313712) · [사례 목록으로](#all-prompts)
-
----
 
 <a id="2102915300295369208"></a>
 
@@ -4069,6 +4009,90 @@ Three.js를 사용해 소 위에 올라탄 자전거, 사람 위에 올라탄 �
 
 ---
 
+<a id="2115164427657904336"></a>
+
+### Blender에서 제작하는 시네마틱 3D 알프스 호수 장면
+
+[Lummox](https://x.com/Lummox_eth) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/cinematic-alpine-lake-blender-scene"><img src="../assets/previews/773edb9690f602a11230da507c491c4e13533ea105f38ab99bb1feca93c081bf.jpg" width="840" loading="lazy" alt="Blender에서 제작하는 시네마틱 3D 알프스 호수 장면"></a>
+
+Bl렌더에 연결된 AI 코딩 에이전트를 비교하기 위해 게시자가 추천한 재사용 가능한 과제입니다. 산맥, 폭포, 반사되는 수면, 움직이는 보트, 골든아워 조명과 10초 분량의 MP4 카메라 애니메이션을 포함한 시네마틱 알프스 호수 환경을 요청합니다. 게시물에는 비교 대상 워크플로 중 하나로 GPT 6 Astra가 소개되어 있지만, 게시물에 공개된 결과에 실제로 사용된 입력과 동일하다고 명시되어 있지는 않습니다.
+
+**프롬프트**
+
+```text
+Blender에서 산맥 2개, 높이 12m의 폭포, 사실적인 수면 반사가 있는 시네마틱 3D 알프스 호수를 제작하세요. 3 m/s로 이동하는 보트와 골든아워 조명을 적용하고, 30 FPS의 10초 카메라 애니메이션을 제작한 뒤 최종 장면을 MP4로 내보내세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/cinematic-alpine-lake-blender-scene) · [원본 게시물](https://x.com/Lummox_eth/status/2115164427657904336) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="2115204470573351126"></a>
+
+### 거센 폭풍 속 등대 애니메이션
+
+[Ivana](https://x.com/ivanainai) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/animated-lighthouse-violent-storm-scene"><img src="../assets/previews/3680c1078b3c72d869220ac86e8bee3d9289cf619a97c68d0883c66184cbce8d.jpg" width="840" loading="lazy" alt="거센 폭풍 속 등대 애니메이션"></a>
+
+게시물 작성자가 GPT-6.1 Terra와 Astra 6의 Blender 비교에 사용한 것과 동일한 프롬프트로 소개한 내용입니다. 거센 폭풍 속 등대 장면을 구성하고 해당 장면을 애니메이션으로 제작하도록 요청합니다.
+
+**프롬프트**
+
+```text
+거센 폭풍 한가운데에 있는 등대를 제작하고 애니메이션으로 구현하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/animated-lighthouse-violent-storm-scene) · [원본 게시물](https://x.com/ivanainai/status/2115204470573351126) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="2115449826481463529"></a>
+
+### Oasis Jelly: 출렁이는 젤리 큐브에 봉인된 사막의 오아시스
+
+[www.aicontenders.dev](https://www.aicontenders.dev/) · 2026-10-28
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/oasis-jelly-interactive-desert-diorama"><img src="../assets/previews/5be5c13d271a56793d2bd91b80195d61112cb9f0b4b4192d06a65ab8800d73c0.jpg" width="840" loading="lazy" alt="Oasis Jelly: 출렁이는 젤리 큐브에 봉인된 사막의 오아시스"></a>
+
+연결된 AIContenders 비교 문서에서 GPT-6 Astra와 Claude Opus 5.5로 테스트한 공동 작업용 프롬프트를 공개합니다. 이 프롬프트는 반투명 젤리 큐브 안에 떠 있는 사막 오아시스 디오라마를 Three.js로 절차적으로 제작하고, 궤도 컨트롤, 젤리 찌르기 물리 효과, 캐러밴, 정원 물주기와 모래폭풍 인터랙션, 시간대 인터페이스를 구현하도록 요청합니다.
+
+**프롬프트**
+
+```text
+"Oasis Jelly"를 제작하세요. 차분한 에디토리얼 웹페이지 위에 떠 있는 디오라마처럼, 작고 출렁이는 반투명 젤리 큐브 안에 봉인된 사막 오아시스 세계를 표현합니다. 단일 독립 실행형 HTML 파일로 제작하세요. Three.js와 CDN의 애드온은 import map을 통해 사용해도 됩니다. 모든 요소는 절차적으로 생성하고 외부 텍스처나 모델은 사용하지 마세요.
+
+디오라마 구성:
+- 겹겹이 쌓인 케이크를 자른 듯한 정사각형 사막 블록입니다. 꼭대기에는 바람에 물결무늬가 생긴 모래언덕이 있고, 뒤쪽을 따라 계단식 사암 절벽이 솟아오르며, 그 사이가 좁은 슬롯 캐니언으로 갈라집니다. 네 개의 절단면에는 연한 모래, 황토색 지층, 녹슨 붉은 사암, 회색 점토, 샘으로 이어지는 푸른 대수층 층, 짙은 기반암이 선명한 층리로 드러납니다.
+- 중앙에는 샘에서 물을 공급받는 호수가 있습니다. 맑은 청록색 물, 잔잔한 물결, 샘물이 솟는 지점의 동그란 물방울 파문, 물가를 둘러싼 초록 잔디 띠를 표현하세요. 주변에는 잎이 흔들리는 야자수 숲, 작은 수로가 연결된 관개 밭, 돔과 탑이 있는 흙벽돌 마을, 우물, 줄조명이 달린 빈티지 캠퍼 트레일러 몇 대, 알록달록한 텐트, 수면 위를 선회하는 새가 있습니다.
+- 전체 블록을 모서리가 둥근 두껍고 광택 있는 젤리 큐브로 감싸세요. 큐브는 내부 세계를 굴절시키고 은은한 색조, 선명한 하이라이트, 내부에 떠 있는 작은 기포를 지녀야 합니다. 실제 젤리처럼 출렁이며, 클릭하면 찌를 수 있어야 합니다. 큐브와 내부의 모든 요소가 감쇠 스프링 물리로 함께 흔들리고, 표면을 가로질러 파문이 퍼진 뒤 잦아들게 하세요.
+
+인터랙션(오른쪽 컨트롤 패널):
+- 캐러밴 호출: 낙타 행렬 뒤에 캠퍼 밴이 따라오는 행렬이 블록 가장자리에서 호수까지 구불구불한 길을 따라 이동한 뒤 그곳에 주차합니다.
+- 정원에 물주기: 호수의 물이 수로를 따라 밭을 하나씩 통과하며 흐릅니다. 흙의 색이 어두워지고 작물이 초록색으로 변하며 자랍니다. 호수 수위는 조금 낮아졌다가 샘물이 다시 채웁니다. 그대로 두면 정원은 다시 서서히 말라갑니다.
+- 모래폭풍: 햇빛을 받은 짙은 먼지 폭풍이 디오라마 전체를 소용돌이치며 휩쓸고 지나갑니다. 수천 개의 모래알과 부드러운 먼지 구름을 표현하세요. 빛이 어두워지면서 주황빛으로 변하고, 야자수가 휘며 모래 물결이 흘러갑니다. 젤리 벽이 폭풍을 가두고, 약 15초 후에 지나갑니다.
+- 슬라이더:
+  - 새벽부터 골든아워를 거쳐 밤까지 이어지는 시간대. 창문에는 조명이 켜지고, 줄조명이 빛나며, 달빛이 호수 위에 비칩니다.
+  - 바람 세기
+  - 젤리 출렁임 정도
+- 수위, 물을 준 정원 수, 방문객 수를 표시하는 작은 정보 표시 영역
+
+프레젠테이션:
+- 밝고 따뜻한 회색 톤의 에디토리얼 페이지를 구성하세요. 왼쪽에는 큰 이탤릭 세리프 제목 "Oasis Jelly."와 짧은 캡션을 배치하고, 오른쪽에는 깔끔한 카드 형태의 컨트롤을 두며, 중앙에는 부드러운 그림자 위로 떠 있는 디오라마를 배치합니다. 밤이 되면 페이지 자체도 어두워집니다.
+- 부드러운 태양 그림자와 ACES 톤 매핑을 적용하고, 조명에만 은은한 블룸을 사용하세요. 눈부심이나 헤이즈로 화면 전체가 뿌옇게 날아가지 않도록 하세요.
+- 드래그해 궤도를 회전하고, 스크롤해 확대·축소하며, 젤리를 클릭해 찌를 수 있어야 합니다.
+- 모든 요소는 자동으로 시작하며 첫 프레임부터 움직임이 보여야 합니다. 카메라는 천천히 궤도를 회전하고, 사용자가 조작하는 동안에는 일시 정지되는 자동 재생 루프가 젤리를 찌르고, 캐러밴을 호출하고, 정원에 물을 주고, 모래폭풍을 일으킨 뒤 밤 시간대로 전환합니다.
+- 휴대폰에서도 레이아웃이 제대로 작동해야 합니다.
+
+기획 설명은 간결하게 유지하고 코드를 작성하세요. 전체 분량은 약 700~1,000줄을 목표로 하며, 코드는 간결하고 구조적으로 작성합니다. 첫 실행부터 확실히 동작하도록 셰이더에서 사용하는 모든 상수와 uniform을 선언하고, 정의되지 않은 값에 대비해 방어적으로 처리하세요. 검은색이거나 텍스처가 없거나 플레이스홀더인 오브젝트가 어디에도 없어야 합니다.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/oasis-jelly-interactive-desert-diorama) · [원본 게시물](https://www.aicontenders.dev/c/xGiNFiXftYwHdmT4XJPu7A) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### 무궁화꽃이 피었습니다: 3D 서바이벌 게임
@@ -4340,7 +4364,7 @@ jared를 크레딧으로 표시한 새 jelly-villa 프롬프트를 게시하고,
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 376개 보기 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 379개 보기 →</a></strong></p>
 <p><sub>GitHub README가 원활하게 렌더링되도록 최신 사례 100개만 표시합니다.</sub></p>
 <br>
 </td></tr>

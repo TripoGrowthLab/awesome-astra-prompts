@@ -29,7 +29,7 @@
 
 探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。
 
-**376 条案例 · 14 种语言 · 12 条附项目源码**
+**379 条案例 · 14 种语言 · 12 条附项目源码**
 
 ## 精选作品
 
@@ -51,9 +51,6 @@
 <details>
 <summary>浏览案例</summary>
 
-- [用于学习国际象棋弃兵的互动式 3D 棋盘](#2102788013902213508)
-- [无限太阳朋克城市着色器](#2102826333550133520)
-- [第一人称汉堡制作模拟器](#2102897258983313712)
 - [超写实动态沙漠篝火 HTML 场景](#2102915300295369208)
 - [使用 Three.js 制作体素版 Codex](#2102956340482289944)
 - [可交互的 3D 软糖柑橘切片](#2103062348168618280)
@@ -147,72 +144,15 @@
 - [最后一节车厢](#2115035785179148694)
 - [2D UI 中的 3D 视图与嵌套 UI](#2115044315777163777)
 - [骑牛、骑人、骑滑板的自行车 3D 模型](#2115074545166287075)
+- [Blender 中的电影感 3D 阿尔卑斯湖泊场景](#2115164427657904336)
+- [狂暴风暴中的动画灯塔](#2115204470573351126)
+- [绿洲果冻：封存在摇晃果冻方块里的沙漠绿洲](#2115449826481463529)
 - [一二三，木头人：3D 生存游戏](#red-light-green-light)
 - [黄金矿工：24 关 3D 挖矿游戏](#golden-miner)
 - [疯狂坦克——3D 岛屿炮战](#crazy-tanks-3d-island-artillery)
 - [果冻别墅](#jelly-villa)
 
 </details>
-
-<a id="2102788013902213508"></a>
-
-### 用于学习国际象棋弃兵的互动式 3D 棋盘
-
-[Diogo Santos](https://x.com/diogosantosbr) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102788013902213508"><img src="assets/previews/512159568512c9d326a8bdacae73bb8f2597884676542a73504a253f2313ad7d.jpg" width="840" loading="lazy" alt="用于学习国际象棋弃兵的互动式 3D 棋盘"></a>
-
-作者将其分享为适用于互动式 3D 棋盘弃兵学习 Web 应用的“入门提示词”。作者表示自己创建了一个 3D 环境，并在视频中展示了对本科弃兵的探索，但未明确说明这就是生成视频所示结果时使用的确切提示词。
-
-**提示词**
-
-```text
-创建一个带有互动式 3D 棋盘的 Web 应用，用于学习国际象棋中的主要弃兵开局。加入走法动画、前进和后退控制、变化分支，以及对每种开局背后思路的讲解。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102788013902213508) · [查看原帖](https://x.com/diogosantosbr/status/2102788013902213508) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2102826333550133520"></a>
-
-### 无限太阳朋克城市着色器
-
-[Jonas Fröller](https://x.com/jonasfroeller) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102826333550133520"><img src="assets/previews/5e1edba84b202c83598f2f632c371cb143a0023bb7fe03d23a934645231b7f6c.jpg" width="840" loading="lazy" alt="无限太阳朋克城市着色器"></a>
-
-用于生成着色器的提示词：描绘一座由太阳朋克风格道路与高塔构成的无限城市，并持续呈现可见的微风效果，适用于在 twigl.app 中运行。
-
-**提示词**
-
-```text
-创建一个可在 twigl.app 中运行、视觉效果富有趣味的着色器：将场景设计为由太阳朋克风格道路与高塔构成的无限城市，并持续呈现清晰可见的微风效果
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102826333550133520) · [查看原帖](https://x.com/jonasfroeller/status/2102826333550133520) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2102897258983313712"></a>
-
-### 第一人称汉堡制作模拟器
-
-[noclipepe](https://x.com/noclipepe) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/first-person-burger-cooking-simulator"><img src="assets/previews/7081447827f1c3142a1e647eae36ba49c69fe17b4006156a64e6e5a7d8977779.jpg" width="840" loading="lazy" alt="第一人称汉堡制作模拟器"></a>
-
-发布者称，这是他们提供给包括 GPT-6 Sol 和 GPT-6 Luna 在内的三个模型的提示词，用于制作一款第一人称汉堡模拟游戏。
-
-**提示词**
-
-```text
-制作一款第一人称汉堡制作模拟器。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/first-person-burger-cooking-simulator) · [查看原帖](https://x.com/noclipepe/status/2102897258983313712) · [返回案例导航](#all-prompts)
-
----
 
 <a id="2102915300295369208"></a>
 
@@ -4013,6 +3953,90 @@ Tim Jayas 发布的一条提示词，用于让 GPT-6-Astra 和 GPT-6.1-Terra 创
 
 ---
 
+<a id="2115164427657904336"></a>
+
+### Blender 中的电影感 3D 阿尔卑斯湖泊场景
+
+[Lummox](https://x.com/Lummox_eth) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/cinematic-alpine-lake-blender-scene"><img src="assets/previews/773edb9690f602a11230da507c491c4e13533ea105f38ab99bb1feca93c081bf.jpg" width="840" loading="lazy" alt="Blender 中的电影感 3D 阿尔卑斯湖泊场景"></a>
+
+这是发帖作者推荐的一项可复用挑战，用于比较连接到 Blender 的 AI 编码代理。挑战要求创建电影感的阿尔卑斯湖泊环境，包括山脉、瀑布、具有反射效果的水面、一艘行驶中的船、黄金时段光照，以及一段 10 秒的 MP4 相机动画。帖子将 GPT 6 Astra 列为参与比较的工作流之一，但并未说明展示结果确实使用了这段输入。
+
+**提示词**
+
+```text
+在 Blender 中创建一个电影感的 3D 阿尔卑斯湖泊场景，包含 2 组山脉、一座 12m 高的瀑布、逼真的水面反射、一艘以 3 m/s 速度行驶的船、黄金时段光照，以及一段 30 FPS、时长 10 秒的相机动画；将最终场景导出为 MP4
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/cinematic-alpine-lake-blender-scene) · [查看原帖](https://x.com/Lummox_eth/status/2115164427657904336) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2115204470573351126"></a>
+
+### 狂暴风暴中的动画灯塔
+
+[Ivana](https://x.com/ivanainai) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/animated-lighthouse-violent-storm-scene"><img src="assets/previews/3680c1078b3c72d869220ac86e8bee3d9289cf619a97c68d0883c66184cbce8d.jpg" width="840" loading="lazy" alt="狂暴风暴中的动画灯塔"></a>
+
+发帖作者称，这是用于 Blender 对比 GPT-6.1 Terra 与 Astra 6 的同一条提示词。该提示词要求创建一处狂暴风暴中的灯塔场景，并为场景制作动画。
+
+**提示词**
+
+```text
+在狂暴的风暴中心创建一座灯塔，并为其制作动画。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/animated-lighthouse-violent-storm-scene) · [查看原帖](https://x.com/ivanainai/status/2115204470573351126) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2115449826481463529"></a>
+
+### 绿洲果冻：封存在摇晃果冻方块里的沙漠绿洲
+
+[www.aicontenders.dev](https://www.aicontenders.dev/) · 2026-10-28
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/oasis-jelly-interactive-desert-diorama"><img src="assets/previews/5be5c13d271a56793d2bd91b80195d61112cb9f0b4b4192d06a65ab8800d73c0.jpg" width="840" loading="lazy" alt="绿洲果冻：封存在摇晃果冻方块里的沙漠绿洲"></a>
+
+AIContenders 发布了一篇相关对比文章，展示了这条用于共同任务的提示词；该任务由 GPT-6 Astra 和 Claude Opus 5.5 进行测试。提示词要求使用程序化 Three.js，在半透明果冻方块中制作一个可交互的漂浮沙漠绿洲立体场景，并加入轨道控制、戳动果冻物理效果、商队、花园浇水和沙尘暴互动，以及时间段控制界面。
+
+**提示词**
+
+```text
+构建“绿洲果冻”：一个微型沙漠绿洲世界被封存在摇晃、半透明的果冻方块中，作为漂浮立体场景展示在宁静的编辑风网页上。使用单个自包含 HTML 文件；可以通过 import map 从 CDN 引入 Three.js 及其附加组件；所有内容都必须程序化生成，不使用外部纹理或模型。
+
+立体场景：
+- 一块方形沙漠地块，像切下一片千层蛋糕一样切出。顶部是被风吹出波纹的沙丘，向后方层层升高，形成阶梯状砂岩峭壁，中间裂开一道狭窄的峡谷。四个切面清晰呈现分层结构：浅色沙层、赭黄色土层、锈红色砂岩、灰色黏土、为泉水供水的蓝色含水层，以及深色基岩。
+- 中央是一片由泉水补给的湖泊，湖水清澈、呈绿松石色，带有轻柔涟漪；泉水涌出的地方有一圈圈气泡，岸边环绕着绿色草地。周围分布着棕榈林，叶片随风摇曳；有带小型水渠的灌溉农田、带穹顶和塔楼的土坯村落、一口井、几辆挂着串灯的复古露营拖车、色彩鲜艳的帐篷，以及在水面上空盘旋的鸟群。
+- 整个地块包裹在一个厚实、有光泽且边缘圆润的果冻方块中。方块会折射内部世界，带有淡淡的色调、清晰的高光和悬浮其中的微小气泡。它会像真正的果冻一样晃动：点击即可戳动。方块及其内部的一切都会在阻尼弹簧物理效果下抖动，表面会掠过一道波纹，随后逐渐平静。
+
+互动功能（右侧控制面板）：
+- 呼叫商队：一列骆驼跟在一辆露营车后面，沿着蜿蜒小路从地块边缘走向湖边，并在那里停下。
+- 给花园浇水：水从湖泊流入水渠，逐块灌溉农田。土壤颜色变深，作物变绿并逐渐长大；湖面略微下降，随后由泉水补满。无人操作时，花园会再次慢慢干涸。
+- 沙尘暴：浓密、旋转且被阳光照亮的沙尘暴席卷整个立体场景。风暴包含数千颗沙粒和柔和的尘雾；光线变暗并转为橙色，棕榈树弯曲，沙丘波纹缓缓移动。果冻墙会将沙尘暴限制在内部，约 15 秒后风暴消散。
+- 滑块：
+  - 时间段，从黎明经过黄金时刻到夜晚；窗户亮起灯光，串灯发光，月光映照湖面；
+  - 风力；
+  - 果冻晃动幅度。
+- 显示水位、已浇水的花园和访客数量的小型状态读数。
+
+呈现方式：
+- 使用明亮、温暖的灰色编辑风网页：左侧放置大号斜体衬线标题“Oasis Jelly.”和简短说明，右侧放置简洁的控制卡片，立体场景悬浮在中央柔和阴影上方。夜晚时，网页本身变暗。
+- 使用柔和的太阳阴影和 ACES 色调映射，仅让灯光产生轻微泛光。不要用眩光或雾气冲淡整个画面。
+- 拖动旋转视角，滚动缩放，点击果冻进行戳动。
+- 所有内容自动开始，并从第一帧起就能明显看到运动：摄像机缓慢环绕，以及一个自动播放循环（用户互动时暂停），依次戳动果冻、呼叫商队、给花园浇水、运行沙尘暴并进入夜晚。
+- 布局要适配手机。
+
+简要规划后直接编写代码。目标代码量约为 700 至 1,000 行，保持紧凑且结构清晰。确保首次运行即可正常工作：声明着色器使用的每一个常量和 uniform，并防止出现未定义值。任何地方都不能出现黑色、无纹理或占位对象。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/oasis-jelly-interactive-desert-diorama) · [查看原帖](https://www.aicontenders.dev/c/xGiNFiXftYwHdmT4XJPu7A) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### 一二三，木头人：3D 生存游戏
@@ -4284,7 +4308,7 @@ Tim Jayas 发布的一条提示词，用于让 GPT-6-Astra 和 GPT-6.1-Terra 创
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 376 条案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 379 条案例 →</a></strong></p>
 <p><sub>为保持 GitHub README 渲染流畅，这里仅展示最新 100 条案例。</sub></p>
 <br>
 </td></tr>

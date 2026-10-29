@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**376 · En yeni Astra istemleri**
+**379 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -50,9 +50,6 @@
 <details>
 <summary>Örnekleri keşfet</summary>
 
-- [Satranç gambitlerini çalışmak için etkileşimli 3B satranç tahtası](#2102788013902213508)
-- [Sonsuz solarpunk şehir shader'ı](#2102826333550133520)
-- [Birinci şahıs burger simülatörü](#2102897258983313712)
 - [Hipergerçekçi canlı çöl kamp ateşi HTML sahnesi](#2102915300295369208)
 - [Three.js'te Voxel Codex](#2102956340482289944)
 - [Etkileşimli 3B jelibon narenciye dilimi](#2103062348168618280)
@@ -146,72 +143,15 @@
 - [SON VAGON](#2115035785179148694)
 - [2B arayüz içinde 3B görünüm ve iç içe UI](#2115044315777163777)
 - [Kaykay süren bir insanı süren ineği süren bisikletin 3B modeli](#2115074545166287075)
+- [Blender’da sinematik 3B dağ gölü sahnesi](#2115164427657904336)
+- [Şiddetli fırtınada animasyonlu deniz feneri](#2115204470573351126)
+- [Oasis Jelly: yalpalayan bir jel küpün içine hapsolmuş çöl vahası](#2115449826481463529)
 - [Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu](#red-light-green-light)
 - [Golden Miner: 24 Seviyeli 3B Madencilik Oyunu](#golden-miner)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [Jöle Villa](#jelly-villa)
 
 </details>
-
-<a id="2102788013902213508"></a>
-
-### Satranç gambitlerini çalışmak için etkileşimli 3B satranç tahtası
-
-[Diogo Santos](https://x.com/diogosantosbr) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102788013902213508"><img src="../assets/previews/512159568512c9d326a8bdacae73bb8f2597884676542a73504a253f2313ad7d.jpg" width="840" loading="lazy" alt="Satranç gambitlerini çalışmak için etkileşimli 3B satranç tahtası"></a>
-
-Yazarın, gambitleri çalışmaya yönelik etkileşimli 3B satranç tahtasına sahip bir web uygulaması için “başlangıç için bir prompt” olarak paylaştığı prompt. Yazar, bir 3B ortam oluşturduğunu ve videoda Benko Gambiti üzerine bir inceleme gösterdiğini belirtiyor; ancak bunun gösterilen sonuçta kullanılan promptun tam olarak kendisi olduğunu açıkça ifade etmiyor.
-
-**İstem**
-
-```text
-Satrançtaki başlıca gambitleri çalışmak için etkileşimli bir 3B satranç tahtasına sahip web uygulaması oluşturun. Hamle animasyonlarını, ileri ve geri gitme kontrollerini, varyantları ve her açılışın ardındaki fikirleri açıklayan bilgileri ekleyin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102788013902213508) · [Orijinal gönderi](https://x.com/diogosantosbr/status/2102788013902213508) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2102826333550133520"></a>
-
-### Sonsuz solarpunk şehir shader'ı
-
-[Jonas Fröller](https://x.com/jonasfroeller) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102826333550133520"><img src="../assets/previews/5e1edba84b202c83598f2f632c371cb143a0023bb7fe03d23a934645231b7f6c.jpg" width="840" loading="lazy" alt="Sonsuz solarpunk şehir shader'ı"></a>
-
-Solarpunk yolları ve kulelerinden oluşan sonsuz bir şehri, sürekli görülebilen bir esinti efektiyle betimleyen ve twigl.app'te çalışacak şekilde tasarlanmış bir shader promptu.
-
-**İstem**
-
-```text
-Görsel açıdan ilgi çekici, twigl-dot-app'te çalışabilecek bir shader oluştur; solarpunk yolları ve kulelerinden oluşan sonsuz bir şehir gibi görünsün ve sürekli hareket eden, görünür bir esinti efekti içersin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102826333550133520) · [Orijinal gönderi](https://x.com/jonasfroeller/status/2102826333550133520) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2102897258983313712"></a>
-
-### Birinci şahıs burger simülatörü
-
-[noclipepe](https://x.com/noclipepe) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/first-person-burger-cooking-simulator"><img src="../assets/previews/7081447827f1c3142a1e647eae36ba49c69fe17b4006156a64e6e5a7d8977779.jpg" width="840" loading="lazy" alt="Birinci şahıs burger simülatörü"></a>
-
-Gönderiyi paylaşan kişinin, birinci şahıs burger simülatörü oyunu için GPT-6 Sol ve GPT-6 Luna da dâhil olmak üzere üç modele verdiğini söylediği bir prompt.
-
-**İstem**
-
-```text
-Birinci şahıs burger simülatörü oluştur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/first-person-burger-cooking-simulator) · [Orijinal gönderi](https://x.com/noclipepe/status/2102897258983313712) · [Örneklere dön](#all-prompts)
-
----
 
 <a id="2102915300295369208"></a>
 
@@ -4068,6 +4008,90 @@ Three.js kullanarak kaykay süren bir insanı süren ineği süren bir 3B bisikl
 
 ---
 
+<a id="2115164427657904336"></a>
+
+### Blender’da sinematik 3B dağ gölü sahnesi
+
+[Lummox](https://x.com/Lummox_eth) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/cinematic-alpine-lake-blender-scene"><img src="../assets/previews/773edb9690f602a11230da507c491c4e13533ea105f38ab99bb1feca93c081bf.jpg" width="840" loading="lazy" alt="Blender’da sinematik 3B dağ gölü sahnesi"></a>
+
+Blender’a bağlanan yapay zekâ kodlama ajanlarını karşılaştırmak için paylaşımın yazarı tarafından önerilen, yeniden kullanılabilir bir meydan okuma. Dağ sıraları, şelale, yansımaları gerçekçi su, hareket eden tekne, altın saat ışığı ve 10 saniyelik MP4 kamera animasyonuna sahip sinematik bir dağ gölü ortamı oluşturulmasını ister. Paylaşımda, karşılaştırılan iş akışları arasında GPT 6 Astra da listelenir; ancak bunun, gösterilen sonuç için kullanılan girdinin tam olarak bu olduğunu doğrulamaz.
+
+**İstem**
+
+```text
+Blender’da 2 dağ sırası, 12 m yüksekliğinde bir şelale, gerçekçi su yansımaları, 3 m/sn hızla hareket eden bir tekne, altın saat ışığı ve 30 FPS hızında 10 saniyelik kamera animasyonu içeren sinematik bir 3B dağ gölü oluştur; son sahneyi MP4 olarak dışa aktar
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/cinematic-alpine-lake-blender-scene) · [Orijinal gönderi](https://x.com/Lummox_eth/status/2115164427657904336) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2115204470573351126"></a>
+
+### Şiddetli fırtınada animasyonlu deniz feneri
+
+[Ivana](https://x.com/ivanainai) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/animated-lighthouse-violent-storm-scene"><img src="../assets/previews/3680c1078b3c72d869220ac86e8bee3d9289cf619a97c68d0883c66184cbce8d.jpg" width="840" loading="lazy" alt="Şiddetli fırtınada animasyonlu deniz feneri"></a>
+
+Gönderi sahibi tarafından, GPT-6.1 Terra ile Astra 6 arasındaki Blender karşılaştırmasında kullanılan istemin aynısı olarak sunulan bir istem. Şiddetli fırtınada bir deniz feneri sahnesi oluşturulmasını ve bu sahnenin canlandırılmasını ister.
+
+**İstem**
+
+```text
+Şiddetli bir fırtınanın ortasında bir deniz feneri oluştur ve canlandır.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/animated-lighthouse-violent-storm-scene) · [Orijinal gönderi](https://x.com/ivanainai/status/2115204470573351126) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2115449826481463529"></a>
+
+### Oasis Jelly: yalpalayan bir jel küpün içine hapsolmuş çöl vahası
+
+[www.aicontenders.dev](https://www.aicontenders.dev/) · 2026-10-28
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/oasis-jelly-interactive-desert-diorama"><img src="../assets/previews/5be5c13d271a56793d2bd91b80195d61112cb9f0b4b4192d06a65ab8800d73c0.jpg" width="840" loading="lazy" alt="Oasis Jelly: yalpalayan bir jel küpün içine hapsolmuş çöl vahası"></a>
+
+Bağlantıdaki AIContenders karşılaştırması, GPT-6 Astra ve Claude Opus 5.5 ile test edilen ortak görev için bu istemi yayımlar. İstem; yarı saydam bir jel küpün içinde, prosedürel olarak oluşturulmuş, etkileşimli bir Three.js çöl vahası diyoraması ister. Yörünge kontrolleri, jeli dürtme fiziği, kervan, bahçe sulama ve kum fırtınası etkileşimlerinin yanı sıra günün saatini ayarlayan bir arayüz de bulunur.
+
+**İstem**
+
+```text
+"Oasis Jelly"yi oluşturun: sakin bir editoryal web sayfasında, yalpalayan yarı saydam bir jel küpün içine hapsolmuş küçük bir çöl vahası dünyası; havada süzülen bir diyorama olarak gösterilsin. Tek ve kendi içinde çalışan bir HTML dosyası kullanın; Three.js ve CDN üzerinden import map aracılığıyla yüklenen eklentileri kullanabilirsiniz; her şeyi prosedürel olarak oluşturun, harici doku veya model kullanmayın.
+
+Diyorama:
+- Katmanlı bir pastadan kesilmiş dilim gibi görünen, kare biçimli bir çöl bloğu. Üst yüzeyde rüzgârın şekillendirdiği kum tepeleri yükselerek arka kısım boyunca uzanan teraslı bir kumtaşı uçurumuna ulaşır; uçurum dar bir kanyon yarığıyla bölünür. Dört kesit yüzünde belirgin katmanlar görülür: açık renk kum, aşı boyası, pas kırmızısı kumtaşı, gri kil, pınarı besleyen mavi bir akifer damarı ve koyu ana kaya.
+- Ortada berrak turkuaz sulu, hafif dalgalı, pınarın yükseldiği yerde köpüren halkaları bulunan ve kıyısında yeşil bir çimen kuşağı uzanan, pınarla beslenen bir göl. Çevresinde sallanan palmiye yapraklarıyla bir palmiye korusu, küçük su kanallarıyla sulanan bahçe parselleri, kubbeleri ve kulesi olan kerpiç bir köy, bir kuyu, ışık zincirleriyle süslenmiş birkaç nostaljik karavan, renkli çadırlar ve suyun üzerinde daireler çizen kuşlar bulunur.
+- Tüm blok, kenarları yuvarlatılmış, kalın ve parlak bir jel küpün içine alınmıştır. Küp, içindeki dünyayı kırarak gösterir; hafif bir renk tonuna, keskin parlak yansımalara ve içinde asılı duran minik kabarcıklara sahiptir. Gerçek jel gibi yalpalar: dürtmek için üzerine tıklayın. Küp ve içindeki her şey sönümlü yay fiziğiyle titreşir; yüzeyi boyunca bir dalgalanma ilerler ve ardından durulur.
+
+Etkileşimler (sağda bir kontrol paneli):
+- Kervanı çağırın: Develerden oluşan bir sıra ve onu takip eden bir karavan, bloğun kenarından göle uzanan kıvrımlı bir patikada ilerleyip oraya park eder.
+- Bahçeleri sulayın: Su, gölden kanallar aracılığıyla parsel parsel akar. Toprak koyulaşır, ürünler yeşerip büyür ve pınar gölü yeniden doldurmadan önce gölün su seviyesi biraz düşer. Bahçeler kendi hâline bırakıldığında yeniden yavaşça kurur.
+- Kum fırtınası: Yoğun, dönerek ilerleyen ve güneş ışığıyla aydınlanan bir toz fırtınası diyoramanın üzerinden geçer. Fırtınada binlerce kum tanesi ve yumuşak toz bulutu bulunur; ışık azalır ve turuncuya döner, palmiyeler eğilir, kum dalgaları sürüklenir. Jel duvarlar fırtınayı içeride tutar ve fırtına yaklaşık 15 saniye sonra geçer.
+- Kaydırıcılar:
+  - şafaktan altın saat üzerinden geceye uzanan günün saati; pencerelerden lamba ışığı sızar, ışık zincirleri parlar ve ay ışığı gölün üzerine vurur;
+  - rüzgâr şiddeti;
+  - jel yalpalaması.
+- Su seviyesi, sulanan bahçeler ve ziyaretçiler için küçük bir bilgi göstergesi.
+
+Sunum:
+- Açık, sıcak gri tonlarda bir editoryal sayfa: büyük, italik serif başlık "Oasis Jelly."; solda kısa bir açıklama, sağda temiz bir kart biçiminde kontroller ve ortada yumuşak bir gölgenin üzerinde havada süzülen diyorama. Gece olduğunda sayfanın kendisi kararır.
+- Yumuşak güneş gölgeleri, ACES ton eşleme ve yalnızca ışıklarda kullanılan hafif bir bloom efekti. Kareyi parlamayla veya sisle asla soluklaştırmayın.
+- Yörüngede döndürmek için sürükleyin, yakınlaştırmak için kaydırın, jeli dürtmek için üzerine tıklayın.
+- Her şey otomatik olarak başlar ve ilk kareden itibaren gözle görülür biçimde hareket eder: yavaş bir kamera yörüngesi ve kullanıcı etkileşimi sırasında duraklatılan bir otomatik oynatma döngüsü; bu döngü jeli dürter, kervanı çağırır, bahçeleri sular, kum fırtınası başlatır ve geceye geçer.
+- Düzen telefonda da düzgün çalışır.
+
+Planı kısa tutup kodu yazın. Yaklaşık 700 ila 1.000 satır hedefleyin; kod derli toplu ve iyi yapılandırılmış olsun. İlk denemede çalıştığından emin olun: shader'larınızın kullandığı her sabiti ve uniform'u tanımlayın, tanımsız değerlere karşı koruma ekleyin. Hiçbir yerde siyah, dokusuz veya yer tutucu nesne bulunmasın.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/oasis-jelly-interactive-desert-diorama) · [Orijinal gönderi](https://www.aicontenders.dev/c/xGiNFiXftYwHdmT4XJPu7A) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu
@@ -4339,7 +4363,7 @@ jared adına atıf yapılan yeni bir jelly-villa istemi yayımlayın; özgün ya
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 376 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 379 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

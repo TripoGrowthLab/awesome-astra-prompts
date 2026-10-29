@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**376 · Prompt Astra mới nhất**
+**379 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -50,9 +50,6 @@
 <details>
 <summary>Khám phá ví dụ</summary>
 
-- [Bàn cờ 3D tương tác để học các gambit cờ vua](#2102788013902213508)
-- [Shader thành phố solarpunk vô tận](#2102826333550133520)
-- [Trình mô phỏng làm burger góc nhìn thứ nhất](#2102897258983313712)
 - [Cảnh HTML lửa trại giữa sa mạc về đêm siêu chân thực](#2102915300295369208)
 - [Codex dạng voxel trong Three.js](#2102956340482289944)
 - [Lát cam dẻo 3D tương tác](#2103062348168618280)
@@ -146,72 +143,15 @@
 - [TOA TÀU CUỐI CÙNG](#2115035785179148694)
 - [Hiển thị 3D và UI lồng trong UI 2D](#2115044315777163777)
 - [Mô hình 3D xe đạp cưỡi bò, bò cưỡi người, người cưỡi ván trượt](#2115074545166287075)
+- [Cảnh hồ núi cao 3D phong cách điện ảnh trong Blender](#2115164427657904336)
+- [Hải đăng hoạt hình giữa cơn bão dữ dội](#2115204470573351126)
+- [Ốc đảo Thạch rau câu: ốc đảo sa mạc nằm trong một khối thạch rau câu rung rinh](#2115449826481463529)
 - [Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D](#red-light-green-light)
 - [Golden Miner: Game khai thác vàng 3D 24 cấp độ](#golden-miner)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
 - [Biệt thự Thạch rau câu](#jelly-villa)
 
 </details>
-
-<a id="2102788013902213508"></a>
-
-### Bàn cờ 3D tương tác để học các gambit cờ vua
-
-[Diogo Santos](https://x.com/diogosantosbr) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102788013902213508"><img src="../assets/previews/512159568512c9d326a8bdacae73bb8f2597884676542a73504a253f2313ad7d.jpg" width="840" loading="lazy" alt="Bàn cờ 3D tương tác để học các gambit cờ vua"></a>
-
-Prompt được tác giả chia sẻ như “một prompt để bắt đầu” cho một ứng dụng web có bàn cờ 3D tương tác nhằm học các gambit. Tác giả cho biết đã tạo một môi trường 3D và trình bày trong video phần khám phá Gambit Benko, nhưng không khẳng định rõ đây là prompt chính xác được dùng cho kết quả hiển thị.
-
-**Prompt**
-
-```text
-Tạo một ứng dụng web có bàn cờ 3D tương tác để học các gambit cờ vua phổ biến. Thêm hoạt ảnh cho các nước đi, điều khiển tiến và lùi, các biến và phần giải thích ý tưởng đằng sau từng khai cuộc.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102788013902213508) · [Bài đăng gốc](https://x.com/diogosantosbr/status/2102788013902213508) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2102826333550133520"></a>
-
-### Shader thành phố solarpunk vô tận
-
-[Jonas Fröller](https://x.com/jonasfroeller) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102826333550133520"><img src="../assets/previews/5e1edba84b202c83598f2f632c371cb143a0023bb7fe03d23a934645231b7f6c.jpg" width="840" loading="lazy" alt="Shader thành phố solarpunk vô tận"></a>
-
-Prompt tạo shader mô tả một thành phố vô tận với những con đường và tòa tháp mang phong cách solarpunk, kèm hiệu ứng gió nhẹ luôn hiển thị, được thiết kế để chạy trên twigl.app.
-
-**Prompt**
-
-```text
-Tạo một shader có hình ảnh thú vị, có thể chạy trên twigl-dot-app, mô phỏng một thành phố vô tận với những con đường và tòa tháp mang phong cách solarpunk, cùng hiệu ứng gió nhẹ hiển thị liên tục.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102826333550133520) · [Bài đăng gốc](https://x.com/jonasfroeller/status/2102826333550133520) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2102897258983313712"></a>
-
-### Trình mô phỏng làm burger góc nhìn thứ nhất
-
-[noclipepe](https://x.com/noclipepe) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/first-person-burger-cooking-simulator"><img src="../assets/previews/7081447827f1c3142a1e647eae36ba49c69fe17b4006156a64e6e5a7d8977779.jpg" width="840" loading="lazy" alt="Trình mô phỏng làm burger góc nhìn thứ nhất"></a>
-
-Prompt mà tác giả bài đăng cho biết họ đã đưa cho ba mô hình, trong đó có GPT-6 Sol và GPT-6 Luna, để tạo một game mô phỏng làm burger góc nhìn thứ nhất.
-
-**Prompt**
-
-```text
-tạo một game mô phỏng làm burger góc nhìn thứ nhất.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/first-person-burger-cooking-simulator) · [Bài đăng gốc](https://x.com/noclipepe/status/2102897258983313712) · [Về danh sách ví dụ](#all-prompts)
-
----
 
 <a id="2102915300295369208"></a>
 
@@ -4078,6 +4018,90 @@ Tạo mô hình 3D bằng Three.js về một chiếc xe đạp cưỡi bò, bò
 
 ---
 
+<a id="2115164427657904336"></a>
+
+### Cảnh hồ núi cao 3D phong cách điện ảnh trong Blender
+
+[Lummox](https://x.com/Lummox_eth) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/cinematic-alpine-lake-blender-scene"><img src="../assets/previews/773edb9690f602a11230da507c491c4e13533ea105f38ab99bb1feca93c081bf.jpg" width="840" loading="lazy" alt="Cảnh hồ núi cao 3D phong cách điện ảnh trong Blender"></a>
+
+Một thử thách có thể tái sử dụng do tác giả bài đăng đề xuất để so sánh các tác tử lập trình AI kết nối với Blender. Thử thách yêu cầu tạo môi trường hồ núi cao phong cách điện ảnh với các dãy núi, một thác nước, mặt nước phản chiếu, một chiếc thuyền đang di chuyển, ánh sáng giờ vàng và hoạt ảnh camera dài 10 giây xuất ở định dạng MP4. Bài đăng liệt kê GPT 6 Astra trong số các quy trình được so sánh, nhưng không khẳng định đây chính là đầu vào được sử dụng cho kết quả minh họa trong bài.
+
+**Prompt**
+
+```text
+Tạo một hồ núi cao 3D phong cách điện ảnh trong Blender với 2 dãy núi, một thác nước cao 12m, phản chiếu mặt nước chân thực, một chiếc thuyền di chuyển với tốc độ 3 m/s, ánh sáng giờ vàng và hoạt ảnh camera dài 10 giây ở 30 FPS; xuất cảnh cuối cùng ở định dạng MP4
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/cinematic-alpine-lake-blender-scene) · [Bài đăng gốc](https://x.com/Lummox_eth/status/2115164427657904336) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2115204470573351126"></a>
+
+### Hải đăng hoạt hình giữa cơn bão dữ dội
+
+[Ivana](https://x.com/ivanainai) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/animated-lighthouse-violent-storm-scene"><img src="../assets/previews/3680c1078b3c72d869220ac86e8bee3d9289cf619a97c68d0883c66184cbce8d.jpg" width="840" loading="lazy" alt="Hải đăng hoạt hình giữa cơn bão dữ dội"></a>
+
+Một prompt được tác giả bài đăng giới thiệu là prompt đã dùng trong phép so sánh Blender giữa GPT-6.1 Terra và Astra 6. Prompt này yêu cầu dựng một cảnh hải đăng giữa cơn bão dữ dội và tạo hoạt ảnh cho cảnh đó.
+
+**Prompt**
+
+```text
+dựng và tạo hoạt ảnh cho một ngọn hải đăng giữa cơn bão dữ dội.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/animated-lighthouse-violent-storm-scene) · [Bài đăng gốc](https://x.com/ivanainai/status/2115204470573351126) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2115449826481463529"></a>
+
+### Ốc đảo Thạch rau câu: ốc đảo sa mạc nằm trong một khối thạch rau câu rung rinh
+
+[www.aicontenders.dev](https://www.aicontenders.dev/) · 2026-10-28
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/oasis-jelly-interactive-desert-diorama"><img src="../assets/previews/5be5c13d271a56793d2bd91b80195d61112cb9f0b4b4192d06a65ab8800d73c0.jpg" width="840" loading="lazy" alt="Ốc đảo Thạch rau câu: ốc đảo sa mạc nằm trong một khối thạch rau câu rung rinh"></a>
+
+Một bài so sánh AIContenders được liên kết đã đăng prompt này cho nhiệm vụ chung, được thử nghiệm với GPT-6 Astra và Claude Opus 5.5. Prompt yêu cầu xây dựng một sa bàn ốc đảo sa mạc nổi tương tác bằng Three.js theo quy trình, nằm trong một khối thạch rau câu mờ, với điều khiển xoay quanh, vật lý chọc thạch, tương tác gọi đoàn lữ hành, tưới vườn và bão cát, cùng giao diện điều chỉnh thời gian trong ngày.
+
+**Prompt**
+
+```text
+Xây dựng “Oasis Jelly”: một thế giới ốc đảo sa mạc thu nhỏ nằm kín trong khối thạch rau câu mờ, rung rinh, được trình bày như một sa bàn nổi trên trang web mang phong cách biên tập, yên tĩnh. Dùng một tệp HTML độc lập duy nhất; có thể dùng Three.js và các addon từ CDN thông qua import map; tạo mọi thứ theo quy trình, không dùng kết cấu bề mặt hay mô hình bên ngoài.
+
+Sa bàn:
+- Một khối sa mạc hình vuông được cắt ra như một lát bánh nhiều lớp. Bề mặt là những cồn cát gợn theo gió, nhô lên thành vách đá sa thạch xếp tầng ở phía sau và bị chia cắt bởi một hẻm núi hẹp. Bốn mặt cắt để lộ các lớp địa chất sắc nét: cát nhạt màu, đất son, sa thạch đỏ gỉ, đất sét xám, một mạch tầng chứa nước màu xanh nuôi dưỡng mạch suối và nền đá tối màu.
+- Ở giữa là hồ nước do mạch suối cung cấp, với làn nước xanh ngọc trong vắt, gợn sóng nhẹ, các vòng bong bóng nơi mạch suối trồi lên và một vành cỏ xanh quanh bờ. Xung quanh có rặng cọ với tàu lá đung đưa, các luống vườn được tưới bằng những rãnh nước nhỏ, một ngôi làng gạch bùn với mái vòm và tháp, một cái giếng, vài xe caravan cổ điển giăng đèn dây, những chiếc lều nhiều màu sắc và chim bay vòng trên mặt nước.
+- Toàn bộ khối được bọc trong một khối thạch rau câu dày, bóng, có các cạnh bo tròn. Khối này khúc xạ thế giới bên trong, có sắc màu nhẹ, điểm sáng sắc nét và những bong bóng nhỏ lơ lửng. Nó rung rinh như thạch thật: nhấp vào để chọc. Khối thạch và mọi thứ bên trong cùng lắc lư theo vật lý lò xo giảm chấn; một gợn sóng chạy trên bề mặt rồi lắng xuống.
+
+Tương tác (bảng điều khiển ở bên phải):
+- Gọi đoàn lữ hành: một hàng lạc đà theo sau là xe van cắm trại đi dọc con đường uốn lượn từ rìa khối đất đến hồ rồi đỗ tại đó.
+- Tưới vườn: nước chảy từ hồ qua các rãnh, lần lượt đi qua từng luống. Đất sẫm màu hơn, cây trồng chuyển xanh và lớn lên, mực nước hồ hạ xuống một chút rồi được mạch suối bơm đầy trở lại. Nếu không được chăm sóc, các luống vườn sẽ từ từ khô đi.
+- Bão cát: một trận bão bụi dày đặc, cuộn xoáy trong nắng quét qua sa bàn. Bão có hàng nghìn hạt cát và những đám mây bụi mềm; ánh sáng tối đi và chuyển sang màu cam, các cây cọ nghiêng theo gió, còn những gợn cát trôi dạt. Các thành thạch giữ bão bên trong, và bão đi qua sau khoảng 15 giây.
+- Thanh trượt:
+  - thời gian trong ngày, từ bình minh qua giờ vàng đến ban đêm, với cửa sổ sáng đèn, đèn dây phát sáng và ánh trăng phản chiếu trên hồ;
+  - cường độ gió;
+  - độ rung của thạch.
+- Một bảng hiển thị nhỏ cho biết mực nước, số luống đã tưới và số khách tham quan.
+
+Trình bày:
+- Trang biên tập màu xám ấm, sáng: tiêu đề serif in nghiêng cỡ lớn “Oasis Jelly.” với chú thích ngắn ở bên trái, các điều khiển nằm trong một thẻ gọn gàng ở bên phải, còn sa bàn nổi ở giữa phía trên một vùng bóng mềm. Vào ban đêm, chính trang web cũng chuyển sang tông tối.
+- Bóng đổ mềm từ ánh nắng, ánh xạ tông màu ACES, chỉ dùng bloom nhẹ cho đèn. Không để khung hình bị bạc màu vì lóe sáng hoặc sương mù.
+- Kéo để xoay quanh, cuộn để thu phóng, nhấp vào thạch để chọc.
+- Mọi thứ tự động bắt đầu và đã chuyển động rõ ràng ngay từ khung hình đầu tiên: camera từ từ xoay quanh, cùng một vòng lặp tự động (tạm dừng khi người dùng tương tác) lần lượt chọc thạch, gọi đoàn lữ hành, tưới vườn, tạo bão cát và chuyển sang ban đêm.
+- Bố cục hoạt động tốt trên điện thoại.
+
+Giữ phần lập kế hoạch ngắn gọn và viết mã. Hướng đến khoảng 700 đến 1.000 dòng, ngắn gọn và có cấu trúc rõ ràng. Đảm bảo chạy được ngay lần đầu: khai báo mọi hằng số và uniform mà shader sử dụng, đồng thời kiểm tra các giá trị chưa được định nghĩa. Tuyệt đối không có vật thể màu đen, không có kết cấu bề mặt hoặc vật thể giữ chỗ ở bất kỳ đâu.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/oasis-jelly-interactive-desert-diorama) · [Bài đăng gốc](https://www.aicontenders.dev/c/xGiNFiXftYwHdmT4XJPu7A) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D
@@ -4349,7 +4373,7 @@ Xuất bản prompt jelly-villa mới, ghi công jared, ghi tác giả gốc tro
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 376 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 379 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

@@ -28,7 +28,7 @@
 **Um ponto de partida para seu próximo jogo, cena ou mundo interativo.**
 
 
-**376 · Prompts mais recentes do Astra**
+**379 · Prompts mais recentes do Astra**
 
 ## Projetos em destaque
 
@@ -50,9 +50,6 @@
 <details>
 <summary>Explorar exemplos</summary>
 
-- [Tabuleiro 3D interativo para estudar gambitos de xadrez](#2102788013902213508)
-- [Shader de cidade solarpunk infinita](#2102826333550133520)
-- [Simulador de hambúrguer em primeira pessoa](#2102897258983313712)
 - [Cena HTML hiper-realista de uma fogueira acesa no deserto](#2102915300295369208)
 - [Codex em Three.js](#2102956340482289944)
 - [Fatia cítrica de goma 3D interativa](#2103062348168618280)
@@ -146,72 +143,15 @@
 - [O ÚLTIMO VAGÃO](#2115035785179148694)
 - [Exibição 3D e UI aninhada em uma UI 2D](#2115044315777163777)
 - [Modelo 3D de uma bicicleta montando uma vaca que monta um humano que anda de skate](#2115074545166287075)
+- [Cena cinematográfica de lago alpino 3D no Blender](#2115164427657904336)
+- [Farol animado em uma tempestade violenta](#2115204470573351126)
+- [Oasis Jelly: um oásis no deserto selado em um cubo de gelatina maleável](#2115449826481463529)
 - [Sinal vermelho, sinal verde: jogo de sobrevivência 3D](#red-light-green-light)
 - [Golden Miner: jogo de mineração 3D com 24 níveis](#golden-miner)
 - [Crazy Tanks — Artilharia 3D em uma ilha](#crazy-tanks-3d-island-artillery)
 - [Vila de Gelatina](#jelly-villa)
 
 </details>
-
-<a id="2102788013902213508"></a>
-
-### Tabuleiro 3D interativo para estudar gambitos de xadrez
-
-[Diogo Santos](https://x.com/diogosantosbr) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2102788013902213508"><img src="../assets/previews/512159568512c9d326a8bdacae73bb8f2597884676542a73504a253f2313ad7d.jpg" width="840" loading="lazy" alt="Tabuleiro 3D interativo para estudar gambitos de xadrez"></a>
-
-Prompt compartilhado pelo autor como “um prompt para começar” para uma aplicação web com tabuleiro 3D interativo de estudo de gambitos. O autor relata ter criado um ambiente 3D e mostrado no vídeo uma exploração do Gambito Benko, mas não afirma explicitamente que este foi o prompt exato usado no resultado exibido.
-
-**Prompt**
-
-```text
-Crie uma aplicação web com um tabuleiro 3D interativo para estudar os principais gambitos do xadrez. Inclua animação dos movimentos, controles para avançar e voltar, variantes e explicações das ideias por trás de cada abertura.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2102788013902213508) · [Publicação original](https://x.com/diogosantosbr/status/2102788013902213508) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2102826333550133520"></a>
-
-### Shader de cidade solarpunk infinita
-
-[Jonas Fröller](https://x.com/jonasfroeller) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2102826333550133520"><img src="../assets/previews/5e1edba84b202c83598f2f632c371cb143a0023bb7fe03d23a934645231b7f6c.jpg" width="840" loading="lazy" alt="Shader de cidade solarpunk infinita"></a>
-
-Um prompt para um shader que represente uma cidade infinita de estradas e torres solarpunk, com um efeito de brisa continuamente visível, projetado para ser executado no twigl.app.
-
-**Prompt**
-
-```text
-Crie um shader visualmente interessante que possa ser executado no twigl.app. Faça com que ele represente uma cidade infinita de estradas e torres solarpunk, com uma brisa visível soprando continuamente.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2102826333550133520) · [Publicação original](https://x.com/jonasfroeller/status/2102826333550133520) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2102897258983313712"></a>
-
-### Simulador de hambúrguer em primeira pessoa
-
-[noclipepe](https://x.com/noclipepe) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/first-person-burger-cooking-simulator"><img src="../assets/previews/7081447827f1c3142a1e647eae36ba49c69fe17b4006156a64e6e5a7d8977779.jpg" width="840" loading="lazy" alt="Simulador de hambúrguer em primeira pessoa"></a>
-
-Um prompt que o autor da publicação afirma ter fornecido a três modelos, incluindo GPT-6 Sol e GPT-6 Luna, para um jogo de simulador de hambúrguer em primeira pessoa.
-
-**Prompt**
-
-```text
-crie um simulador de hambúrguer em primeira pessoa.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/first-person-burger-cooking-simulator) · [Publicação original](https://x.com/noclipepe/status/2102897258983313712) · [Voltar aos exemplos](#all-prompts)
-
----
 
 <a id="2102915300295369208"></a>
 
@@ -4003,6 +3943,90 @@ crie um modelo 3D em Three.js de uma bicicleta montando uma vaca que monta um hu
 
 ---
 
+<a id="2115164427657904336"></a>
+
+### Cena cinematográfica de lago alpino 3D no Blender
+
+[Lummox](https://x.com/Lummox_eth) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/cinematic-alpine-lake-blender-scene"><img src="../assets/previews/773edb9690f602a11230da507c491c4e13533ea105f38ab99bb1feca93c081bf.jpg" width="840" loading="lazy" alt="Cena cinematográfica de lago alpino 3D no Blender"></a>
+
+Um desafio reutilizável recomendado pelo autor da publicação para comparar agentes de programação de IA conectados ao Blender. Ele solicita um ambiente cinematográfico de lago alpino com duas cadeias de montanhas, uma cachoeira de 12 m, água com reflexos realistas, um barco em movimento, iluminação de hora dourada e uma animação de câmera de 10 segundos em MP4. A publicação lista GPT 6 Astra entre os fluxos de trabalho comparados, mas não afirma que essa foi exatamente a entrada usada no resultado apresentado.
+
+**Prompt**
+
+```text
+Crie no Blender um lago alpino 3D cinematográfico com duas cadeias de montanhas, uma cachoeira de 12 m, reflexos realistas na água, um barco se movendo a 3 m/s, iluminação de hora dourada e uma animação de câmera de 10 segundos a 30 FPS; exporte a cena final em MP4
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/cinematic-alpine-lake-blender-scene) · [Publicação original](https://x.com/Lummox_eth/status/2115164427657904336) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2115204470573351126"></a>
+
+### Farol animado em uma tempestade violenta
+
+[Ivana](https://x.com/ivanainai) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/animated-lighthouse-violent-storm-scene"><img src="../assets/previews/3680c1078b3c72d869220ac86e8bee3d9289cf619a97c68d0883c66184cbce8d.jpg" width="840" loading="lazy" alt="Farol animado em uma tempestade violenta"></a>
+
+Um prompt apresentado pelo autor da publicação como o mesmo usado em uma comparação no Blender entre GPT-6.1 Terra e Astra 6. Ele solicita uma cena de farol em uma tempestade violenta e a animação dessa cena.
+
+**Prompt**
+
+```text
+crie e anime um farol em meio a uma tempestade violenta.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/animated-lighthouse-violent-storm-scene) · [Publicação original](https://x.com/ivanainai/status/2115204470573351126) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2115449826481463529"></a>
+
+### Oasis Jelly: um oásis no deserto selado em um cubo de gelatina maleável
+
+[www.aicontenders.dev](https://www.aicontenders.dev/) · 2026-10-28
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/oasis-jelly-interactive-desert-diorama"><img src="../assets/previews/5be5c13d271a56793d2bd91b80195d61112cb9f0b4b4192d06a65ab8800d73c0.jpg" width="840" loading="lazy" alt="Oasis Jelly: um oásis no deserto selado em um cubo de gelatina maleável"></a>
+
+Uma comparação vinculada da AIContenders publica este prompt para a tarefa compartilhada, testada com GPT-6 Astra e Claude Opus 5.5. Ela solicita um diorama interativo procedural de um oásis flutuante no deserto, feito em Three.js dentro de um cubo translúcido de gelatina, com controles de órbita, física para cutucar a gelatina, interações de caravana, irrigação do jardim e tempestade de areia, além de uma interface de horário do dia.
+
+**Prompt**
+
+```text
+Crie "Oasis Jelly": um pequeno mundo de oásis no deserto, selado dentro de um cubo de gelatina translúcido e maleável, apresentado como um diorama flutuante em uma página web editorial tranquila. Um único arquivo HTML autocontido; Three.js e seus addons podem vir de uma CDN por meio de um import map; crie tudo proceduralmente, sem texturas ou modelos externos.
+
+O diorama:
+- Um bloco quadrado de deserto recortado como uma fatia de bolo em camadas. No topo, dunas com ondulações de vento sobem até um penhasco de arenito em terraços ao fundo, dividido por um cânion estreito. As quatro faces do corte exibem camadas estratificadas nítidas: areia clara, ocre, arenito vermelho-ferrugem, argila cinza, uma faixa de aquífero azul que alimenta a nascente e rocha-matriz escura.
+- No centro, um lago de águas claras e turquesa alimentado por uma nascente, com ondulações suaves, anéis de bolhas no ponto em que a nascente surge e um anel verde de grama na margem. Ao redor: um bosque de palmeiras com folhas balançando, canteiros irrigados com pequenos canais de água, uma aldeia de tijolos de barro com cúpulas e uma torre, um poço, alguns trailers vintage com cordões de luzes, tendas coloridas e pássaros circulando sobre a água.
+- Todo o bloco fica envolto em um cubo espesso e brilhante de gelatina, com bordas arredondadas. O cubo refrata o mundo em seu interior, tem uma leve tonalidade, reflexos nítidos e pequenas bolhas suspensas. Ele balança como gelatina de verdade: clique nele para cutucá-lo. O cubo e tudo dentro dele tremem com uma física de mola amortecida, e uma ondulação percorre sua superfície antes de se acalmar.
+
+Interações (um painel de controle à direita):
+- Chamar a caravana: uma fila de camelos seguida por uma van camper percorre um caminho sinuoso da borda do bloco até o lago e estaciona ali.
+- Irrigar os jardins: a água corre do lago pelos canais, passando de um canteiro a outro. O solo escurece, as plantações ficam verdes e crescem, e o nível do lago baixa um pouco antes que a nascente o reabasteça. Se forem deixados de lado, os jardins secam lentamente outra vez.
+- Tempestade de areia: uma densa nuvem de poeira, iluminada pelo sol e em redemoinho, atravessa o diorama. Ela tem milhares de grãos e nuvens suaves de poeira; a luz fica mais fraca e alaranjada, as palmeiras se curvam e as ondulações da areia se deslocam. As paredes de gelatina contêm a tempestade, que passa depois de cerca de 15 segundos.
+- Sliders:
+  - horário do dia, do amanhecer, passando pela hora dourada, até a noite, com janelas iluminadas por lâmpadas, cordões de luzes brilhantes e luar sobre o lago;
+  - intensidade do vento;
+  - maleabilidade da gelatina.
+- Um pequeno painel mostra o nível da água, os jardins irrigados e os visitantes.
+
+Apresentação:
+- Uma página editorial clara, em cinza-quente: um título grande em itálico com serifa, "Oasis Jelly.", e uma legenda curta à esquerda; os controles ficam em um card limpo à direita, e o diorama flutua no centro, acima de uma sombra suave. À noite, a própria página fica escura.
+- Sombras suaves do sol, tone mapping ACES e um bloom sutil apenas nas luzes. Nunca deixe o quadro esbranquiçado por excesso de brilho ou névoa.
+- Arraste para orbitar, role para aplicar zoom e clique na gelatina para cutucá-la.
+- Tudo começa automaticamente e já está visivelmente em movimento desde o primeiro quadro: uma órbita lenta da câmera e um loop de reprodução automática (pausado enquanto o usuário interage) que cutuca a gelatina, chama a caravana, irriga os jardins, inicia uma tempestade de areia e mergulha na noite.
+- O layout funciona em um celular.
+
+Mantenha o planejamento breve e escreva o código. Procure ficar entre aproximadamente 700 e 1.000 linhas, de forma compacta e bem estruturada. Garanta que funcione na primeira tentativa: declare todas as constantes e uniforms usados pelos shaders e proteja o código contra valores indefinidos. Não deixe objetos pretos, sem textura ou provisórios em lugar algum.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/oasis-jelly-interactive-desert-diorama) · [Publicação original](https://www.aicontenders.dev/c/xGiNFiXftYwHdmT4XJPu7A) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Sinal vermelho, sinal verde: jogo de sobrevivência 3D
@@ -4274,7 +4298,7 @@ Publique um novo prompt de jelly-villa creditado a jared, com o autor original e
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 376 exemplos no site oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 379 exemplos no site oficial →</a></strong></p>
 <p><sub>Para manter a renderização do README do GitHub fluida, mostramos aqui apenas os 100 exemplos mais recentes.</sub></p>
 <br>
 </td></tr>

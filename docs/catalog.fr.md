@@ -28,7 +28,7 @@
 **Un point de départ pour votre prochain jeu, scène ou monde interactif.**
 
 
-**376 · Derniers prompts Astra**
+**379 · Derniers prompts Astra**
 
 ## Projets à découvrir
 
@@ -50,9 +50,6 @@
 <details>
 <summary>Parcourir les exemples</summary>
 
-- [Échiquier 3D interactif pour étudier les gambits aux échecs](#2102788013902213508)
-- [Shader de ville solarpunk infinie](#2102826333550133520)
-- [Simulateur de burgers à la première personne](#2102897258983313712)
 - [Scène HTML interactive d’un feu de camp hyperréaliste dans le désert](#2102915300295369208)
 - [Codex en voxels avec Three.js](#2102956340482289944)
 - [Tranche d’agrume gélifiée interactive en 3D](#2103062348168618280)
@@ -146,72 +143,15 @@
 - [LE DERNIER WAGON](#2115035785179148694)
 - [Affichage 3D et interface imbriquée dans une interface 2D](#2115044315777163777)
 - [Modèle 3D d’un vélo chevauchant une vache, elle-même montée sur un humain qui chevauche un skateboard](#2115074545166287075)
+- [Scène 3D cinématique d’un lac alpin dans Blender](#2115164427657904336)
+- [Phare animé dans une violente tempête](#2115204470573351126)
+- [Oasis Jelly : une oasis désertique scellée dans un cube de gelée ondulant](#2115449826481463529)
 - [1, 2, 3, soleil : jeu de survie en 3D](#red-light-green-light)
 - [Golden Miner : jeu de minage 3D en 24 niveaux](#golden-miner)
 - [Crazy Tanks — Artillerie insulaire en 3D](#crazy-tanks-3d-island-artillery)
 - [Villa en gelée](#jelly-villa)
 
 </details>
-
-<a id="2102788013902213508"></a>
-
-### Échiquier 3D interactif pour étudier les gambits aux échecs
-
-[Diogo Santos](https://x.com/diogosantosbr) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2102788013902213508"><img src="../assets/previews/512159568512c9d326a8bdacae73bb8f2597884676542a73504a253f2313ad7d.jpg" width="840" loading="lazy" alt="Échiquier 3D interactif pour étudier les gambits aux échecs"></a>
-
-Prompt partagé par l’auteur comme « un prompt pour commencer » pour une application web dotée d’un échiquier 3D interactif consacré à l’étude des gambits. L’auteur indique avoir créé un environnement 3D et présenté dans la vidéo une exploration du gambit Benko, sans toutefois affirmer explicitement qu’il s’agissait du prompt exact utilisé pour obtenir le résultat présenté.
-
-**Prompt**
-
-```text
-Créez une application web avec un échiquier 3D interactif pour étudier les principaux gambits aux échecs. Incluez l’animation des coups, des commandes pour avancer et revenir en arrière, des variantes ainsi que des explications sur les idées qui sous-tendent chaque ouverture.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2102788013902213508) · [Publication originale](https://x.com/diogosantosbr/status/2102788013902213508) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2102826333550133520"></a>
-
-### Shader de ville solarpunk infinie
-
-[Jonas Fröller](https://x.com/jonasfroeller) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2102826333550133520"><img src="../assets/previews/5e1edba84b202c83598f2f632c371cb143a0023bb7fe03d23a934645231b7f6c.jpg" width="840" loading="lazy" alt="Shader de ville solarpunk infinie"></a>
-
-Prompt pour un shader représentant une ville infinie composée de routes et de tours solarpunk, avec un effet de brise visible en continu, conçu pour fonctionner dans twigl.app.
-
-**Prompt**
-
-```text
-crée un shader visuellement captivant compatible avec twigl.app, représentant une ville infinie faite de routes et de tours solarpunk, avec une brise visible qui souffle en continu
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2102826333550133520) · [Publication originale](https://x.com/jonasfroeller/status/2102826333550133520) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2102897258983313712"></a>
-
-### Simulateur de burgers à la première personne
-
-[noclipepe](https://x.com/noclipepe) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/first-person-burger-cooking-simulator"><img src="../assets/previews/7081447827f1c3142a1e647eae36ba49c69fe17b4006156a64e6e5a7d8977779.jpg" width="840" loading="lazy" alt="Simulateur de burgers à la première personne"></a>
-
-Un prompt que l’auteur de la publication affirme avoir fourni à trois modèles, dont GPT-6 Sol et GPT-6 Luna, pour créer un jeu de simulation de burgers à la première personne.
-
-**Prompt**
-
-```text
-crée un simulateur de burgers à la première personne.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/first-person-burger-cooking-simulator) · [Publication originale](https://x.com/noclipepe/status/2102897258983313712) · [Retour aux exemples](#all-prompts)
-
----
 
 <a id="2102915300295369208"></a>
 
@@ -4003,6 +3943,90 @@ Créez un modèle 3D d’un vélo chevauchant une vache, elle-même montée sur 
 
 ---
 
+<a id="2115164427657904336"></a>
+
+### Scène 3D cinématique d’un lac alpin dans Blender
+
+[Lummox](https://x.com/Lummox_eth) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/cinematic-alpine-lake-blender-scene"><img src="../assets/previews/773edb9690f602a11230da507c491c4e13533ea105f38ab99bb1feca93c081bf.jpg" width="840" loading="lazy" alt="Scène 3D cinématique d’un lac alpin dans Blender"></a>
+
+Défi réutilisable recommandé par l’auteur de la publication pour comparer des agents de codage IA connectés à Blender. Il demande de créer un environnement cinématique de lac alpin avec des chaînes de montagnes, une cascade, une eau réfléchissante, un bateau en mouvement, un éclairage d’heure dorée et une animation de caméra de 10 secondes au format MP4. La publication cite GPT 6 Astra parmi les workflows comparés, mais n’établit pas qu’il s’agissait de l’entrée exacte utilisée pour le résultat présenté.
+
+**Prompt**
+
+```text
+Créez dans Blender un lac alpin 3D cinématique avec 2 chaînes de montagnes, une cascade de 12 m, des reflets réalistes sur l’eau, un bateau se déplaçant à 3 m/s, un éclairage d’heure dorée et une animation de caméra de 10 secondes à 30 images par seconde, puis exportez la scène finale au format MP4
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/cinematic-alpine-lake-blender-scene) · [Publication originale](https://x.com/Lummox_eth/status/2115164427657904336) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2115204470573351126"></a>
+
+### Phare animé dans une violente tempête
+
+[Ivana](https://x.com/ivanainai) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/animated-lighthouse-violent-storm-scene"><img src="../assets/previews/3680c1078b3c72d869220ac86e8bee3d9289cf619a97c68d0883c66184cbce8d.jpg" width="840" loading="lazy" alt="Phare animé dans une violente tempête"></a>
+
+L’auteur de la publication présente ce prompt comme celui utilisé pour comparer Blender avec GPT-6.1 Terra et Astra 6. Il demande de créer une scène de phare au cœur d’une violente tempête et de l’animer.
+
+**Prompt**
+
+```text
+Construisez et animez un phare au cœur d’une violente tempête.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/animated-lighthouse-violent-storm-scene) · [Publication originale](https://x.com/ivanainai/status/2115204470573351126) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2115449826481463529"></a>
+
+### Oasis Jelly : une oasis désertique scellée dans un cube de gelée ondulant
+
+[www.aicontenders.dev](https://www.aicontenders.dev/) · 2026-10-28
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/oasis-jelly-interactive-desert-diorama"><img src="../assets/previews/5be5c13d271a56793d2bd91b80195d61112cb9f0b4b4192d06a65ab8800d73c0.jpg" width="840" loading="lazy" alt="Oasis Jelly : une oasis désertique scellée dans un cube de gelée ondulant"></a>
+
+Une comparaison publiée par AIContenders et accessible via un lien présente ce prompt pour la tâche commune testée avec GPT-6 Astra et Claude Opus 5.5. Il demande un diorama interactif procédural en Three.js représentant une oasis désertique flottante dans un cube de gelée translucide, avec contrôles orbitaux, physique de déformation de la gelée, interactions avec la caravane, l’arrosage du jardin et la tempête de sable, ainsi qu’une interface de réglage de l’heure de la journée.
+
+**Prompt**
+
+```text
+Créez « Oasis Jelly » : un petit monde d’oasis désertique scellé dans un cube de gelée translucide et ondulant, présenté sous la forme d’un diorama flottant sur une page web éditoriale apaisée. Un seul fichier HTML autonome ; Three.js et ses extensions peuvent être chargés depuis un CDN via une import map ; générez tout de manière procédurale, sans textures ni modèles externes.
+
+Le diorama :
+- Un bloc carré de désert, découpé comme une tranche de gâteau à étages. Le dessus présente des dunes striées par le vent, qui s’élèvent jusqu’à une falaise de grès en terrasses le long de l’arrière, traversée par un étroit canyon encaissé. Les quatre faces découpées révèlent des couches stratifiées nettes : sable pâle, sable ocre, grès rouge rouille, argile grise, une veine aquifère bleue qui alimente la source et une roche-mère sombre.
+- Au centre, un lac alimenté par une source, à l’eau turquoise limpide, avec de légères ondulations, des anneaux de bulles à l’endroit où la source jaillit et un anneau d’herbe verte sur la rive. Autour : une palmeraie aux palmes oscillantes, des parcelles de jardin irriguées par de petits canaux, un village en briques de terre avec des dômes et une tour, un puits, quelques caravanes résidentielles vintage décorées de guirlandes lumineuses, des tentes colorées et des oiseaux qui tournent au-dessus de l’eau.
+- Le bloc entier est enfermé dans un épais cube de gelée brillante aux arêtes arrondies. Le cube réfracte le monde intérieur, présente une légère teinte, des reflets nets et de minuscules bulles en suspension. Il ondule comme de la vraie gelée : cliquez dessus pour l’enfoncer. Le cube et tout ce qu’il contient vibrent selon une physique de ressort amorti, tandis qu’une ondulation parcourt sa surface avant de s’apaiser.
+
+Interactions (un panneau de contrôle à droite) :
+- Appeler la caravane : une file de chameaux suivie d’un camping-car avance sur un chemin sinueux depuis le bord du bloc jusqu’au lac, puis s’y gare.
+- Arroser les jardins : l’eau s’écoule du lac par les canaux, parcelle après parcelle. La terre s’assombrit, les cultures verdissent et poussent, tandis que le niveau du lac baisse légèrement avant que la source ne le remplisse à nouveau. Si on les laisse tranquilles, les jardins se dessèchent lentement.
+- Tempête de sable : une dense tempête de poussière tourbillonnante et baignée de soleil balaie le diorama. Elle comporte des milliers de grains et de doux nuages de poussière ; la lumière baisse et vire à l’orange, les palmiers se courbent et les ondulations du sable se déplacent. Les parois de gelée la contiennent et elle se dissipe au bout d’environ 15 secondes.
+- Curseurs :
+  - l’heure de la journée, de l’aube à la nuit en passant par l’heure dorée, avec des fenêtres éclairées par des lampes, des guirlandes lumineuses et le clair de lune sur le lac ;
+  - l’intensité du vent ;
+  - l’ondulation de la gelée.
+- Un petit affichage indique le niveau de l’eau, les jardins arrosés et le nombre de visiteurs.
+
+Présentation :
+- Une page éditoriale claire, dans des tons gris chaud : un grand titre en italique avec empattements, « Oasis Jelly. », et une courte légende à gauche ; les contrôles sont regroupés dans une carte épurée à droite ; le diorama flotte au centre, au-dessus d’une ombre douce. La nuit, la page elle-même s’assombrit.
+- Des ombres solaires douces, un tone mapping ACES et un bloom subtil uniquement sur les lumières. Ne voilez jamais l’image avec des reflets excessifs ni de la brume.
+- Faites glisser pour orbiter autour de la scène, faites défiler pour zoomer, cliquez sur la gelée pour l’enfoncer.
+- Tout démarre automatiquement et bouge visiblement dès la première image : une lente orbite de la caméra et une boucle en lecture automatique (mise en pause pendant les interactions de l’utilisateur) qui enfonce la gelée, appelle la caravane, arrose les jardins, déclenche une tempête de sable et plonge la scène dans la nuit.
+- La mise en page doit fonctionner sur téléphone.
+
+Restez bref dans la planification et écrivez le code. Visez environ 700 à 1 000 lignes, compactes et bien structurées. Assurez-vous que tout fonctionne du premier coup : déclarez chaque constante et chaque uniform utilisé par vos shaders, et protégez le code contre les valeurs indéfinies. Aucun objet noir, sans texture ou de remplacement ne doit apparaître.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/oasis-jelly-interactive-desert-diorama) · [Publication originale](https://www.aicontenders.dev/c/xGiNFiXftYwHdmT4XJPu7A) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### 1, 2, 3, soleil : jeu de survie en 3D
@@ -4274,7 +4298,7 @@ Publier un nouveau prompt jelly-villa attribué à jared, avec l’auteur origin
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 376 exemples sur le site officiel →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 379 exemples sur le site officiel →</a></strong></p>
 <p><sub>Pour préserver la fluidité du rendu du README sur GitHub, seuls les 100 exemples les plus récents sont affichés ici.</sub></p>
 <br>
 </td></tr>

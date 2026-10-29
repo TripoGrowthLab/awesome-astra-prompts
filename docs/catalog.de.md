@@ -28,7 +28,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**376 · Neueste Astra-Prompts**
+**379 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -50,9 +50,6 @@
 <details>
 <summary>Beispiele ansehen</summary>
 
-- [Interaktives 3D-Schachbrett zum Studieren von Schachgambits](#2102788013902213508)
-- [Shader für eine unendliche Solarpunk-Stadt](#2102826333550133520)
-- [Burger-Simulator aus der Ego-Perspektive](#2102897258983313712)
 - [Hyperrealistische interaktive HTML-Szene mit Lagerfeuer in der Wüste](#2102915300295369208)
 - [Voxel-Codex in Three.js](#2102956340482289944)
 - [Interaktive 3D-Zitrusgummischeibe](#2103062348168618280)
@@ -146,72 +143,15 @@
 - [DER LETZTE WAGEN](#2115035785179148694)
 - [3D-Darstellung in 2D-UI mit verschachteltem UI](#2115044315777163777)
 - [3D-Modell eines Fahrrads, das auf einer Kuh fährt, die auf einem Menschen fährt, der auf einem Skateboard fährt](#2115074545166287075)
+- [Kinematische 3D-Alpenseeszene in Blender](#2115164427657904336)
+- [Animierter Leuchtturm in einem heftigen Sturm](#2115204470573351126)
+- [Oasis Jelly: eine Wüstenoase in einem wackeligen Jelly-Würfel](#2115449826481463529)
 - [Rot, grünes Licht: 3D-Survival-Game](#red-light-green-light)
 - [Golden Miner: 3D-Bergbauspiel mit 24 Levels](#golden-miner)
 - [Crazy Tanks — 3D-Inselartillerie](#crazy-tanks-3d-island-artillery)
 - [Jelly-Villa](#jelly-villa)
 
 </details>
-
-<a id="2102788013902213508"></a>
-
-### Interaktives 3D-Schachbrett zum Studieren von Schachgambits
-
-[Diogo Santos](https://x.com/diogosantosbr) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102788013902213508"><img src="../assets/previews/512159568512c9d326a8bdacae73bb8f2597884676542a73504a253f2313ad7d.jpg" width="840" loading="lazy" alt="Interaktives 3D-Schachbrett zum Studieren von Schachgambits"></a>
-
-Vom Autor als „Prompt zum Einstieg“ geteilter Prompt für eine Webanwendung mit interaktivem 3D-Schachbrett zum Studieren wichtiger Schachgambits. Der Autor berichtet, eine 3D-Umgebung erstellt und im Video eine Untersuchung des Benko-Gambits gezeigt zu haben, behauptet jedoch nicht ausdrücklich, dass dies der exakt für das gezeigte Ergebnis verwendete Prompt war.
-
-**Prompt**
-
-```text
-Erstelle eine Webanwendung mit einem interaktiven 3D-Schachbrett zum Studieren der wichtigsten Schachgambits. Füge eine Animation der Züge, Steuerelemente zum Vor- und Zurückspulen, Varianten sowie Erklärungen der Ideen hinter jeder Eröffnung hinzu.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102788013902213508) · [Originalbeitrag](https://x.com/diogosantosbr/status/2102788013902213508) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2102826333550133520"></a>
-
-### Shader für eine unendliche Solarpunk-Stadt
-
-[Jonas Fröller](https://x.com/jonasfroeller) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102826333550133520"><img src="../assets/previews/5e1edba84b202c83598f2f632c371cb143a0023bb7fe03d23a934645231b7f6c.jpg" width="840" loading="lazy" alt="Shader für eine unendliche Solarpunk-Stadt"></a>
-
-Ein Prompt für einen Shader, der eine unendliche Stadt mit Solarpunk-Straßen und -Türmen darstellt und einen kontinuierlich sichtbaren Briseneffekt erzeugt – für die Ausführung in twigl.app.
-
-**Prompt**
-
-```text
-Erstelle einen visuell interessanten Shader, der in twigl.app ausgeführt werden kann. Stelle eine unendliche Stadt mit Solarpunk-Straßen und -Türmen dar, mit einer kontinuierlich sichtbaren Brise.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102826333550133520) · [Originalbeitrag](https://x.com/jonasfroeller/status/2102826333550133520) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2102897258983313712"></a>
-
-### Burger-Simulator aus der Ego-Perspektive
-
-[noclipepe](https://x.com/noclipepe) · 2026-09-23
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/first-person-burger-cooking-simulator"><img src="../assets/previews/7081447827f1c3142a1e647eae36ba49c69fe17b4006156a64e6e5a7d8977779.jpg" width="840" loading="lazy" alt="Burger-Simulator aus der Ego-Perspektive"></a>
-
-Ein Prompt, den der Verfasser des Beitrags eigenen Angaben zufolge drei Modellen, darunter GPT-6 Sol und GPT-6 Luna, für ein Burger-Simulator-Spiel aus der Ego-Perspektive gegeben hat.
-
-**Prompt**
-
-```text
-Erstelle einen Burger-Simulator aus der Ego-Perspektive.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/first-person-burger-cooking-simulator) · [Originalbeitrag](https://x.com/noclipepe/status/2102897258983313712) · [Zurück zu den Beispielen](#all-prompts)
-
----
 
 <a id="2102915300295369208"></a>
 
@@ -4003,6 +3943,90 @@ Erstelle mit Three.js ein 3D-Modell eines Fahrrads, das auf einer Kuh fährt, di
 
 ---
 
+<a id="2115164427657904336"></a>
+
+### Kinematische 3D-Alpenseeszene in Blender
+
+[Lummox](https://x.com/Lummox_eth) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/cinematic-alpine-lake-blender-scene"><img src="../assets/previews/773edb9690f602a11230da507c491c4e13533ea105f38ab99bb1feca93c081bf.jpg" width="840" loading="lazy" alt="Kinematische 3D-Alpenseeszene in Blender"></a>
+
+Eine wiederverwendbare Challenge, die der Autor des Beitrags zum Vergleich von mit Blender verbundenen KI-Coding-Agenten empfiehlt. Gefordert ist eine kinematische Alpenlandschaft mit Bergketten, einem Wasserfall, reflektierendem Wasser, einem fahrenden Boot, Golden-Hour-Beleuchtung und einer 10-sekündigen Kameraanimation als MP4. Im Beitrag wird GPT 6 Astra als einer der verglichenen Workflows aufgeführt; daraus geht jedoch nicht hervor, dass dies exakt die Eingabe für das gezeigte Ergebnis war.
+
+**Prompt**
+
+```text
+Erstelle in Blender einen kinematischen 3D-Alpensee mit 2 Bergketten, einem 12 m hohen Wasserfall, realistischen Wasserreflexionen, einem mit 3 m/s fahrenden Boot, Golden-Hour-Beleuchtung und einer 10-sekündigen Kameraanimation mit 30 FPS. Exportiere die fertige Szene als MP4.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/cinematic-alpine-lake-blender-scene) · [Originalbeitrag](https://x.com/Lummox_eth/status/2115164427657904336) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2115204470573351126"></a>
+
+### Animierter Leuchtturm in einem heftigen Sturm
+
+[Ivana](https://x.com/ivanainai) · 2026-10-27
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/animated-lighthouse-violent-storm-scene"><img src="../assets/previews/3680c1078b3c72d869220ac86e8bee3d9289cf619a97c68d0883c66184cbce8d.jpg" width="840" loading="lazy" alt="Animierter Leuchtturm in einem heftigen Sturm"></a>
+
+Ein vom Verfasser des Beitrags präsentierter Prompt, der angeblich derselbe Prompt ist, der für einen Blender-Vergleich zwischen GPT-6.1 Terra und Astra 6 verwendet wurde. Er fordert eine Leuchtturmszene in einem heftigen Sturm sowie deren Animation.
+
+**Prompt**
+
+```text
+Erstelle und animiere einen Leuchtturm mitten in einem heftigen Sturm.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/animated-lighthouse-violent-storm-scene) · [Originalbeitrag](https://x.com/ivanainai/status/2115204470573351126) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2115449826481463529"></a>
+
+### Oasis Jelly: eine Wüstenoase in einem wackeligen Jelly-Würfel
+
+[www.aicontenders.dev](https://www.aicontenders.dev/) · 2026-10-28
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/oasis-jelly-interactive-desert-diorama"><img src="../assets/previews/5be5c13d271a56793d2bd91b80195d61112cb9f0b4b4192d06a65ab8800d73c0.jpg" width="840" loading="lazy" alt="Oasis Jelly: eine Wüstenoase in einem wackeligen Jelly-Würfel"></a>
+
+Ein verlinkter Vergleich von AIContenders veröffentlicht diesen Prompt für die gemeinsame Aufgabe, die mit GPT-6 Astra und Claude Opus 5.5 getestet wurde. Gefordert ist ein prozedurales interaktives Wüstenoasen-Diorama in Three.js, schwebend in einem durchscheinenden Jelly-Würfel, mit Orbit-Steuerung, Physik zum Anstupsen des Jellies, Karawanen-, Gartenbewässerungs- und Sandsturm-Interaktionen sowie einer Benutzeroberfläche für die Tageszeit.
+
+**Prompt**
+
+```text
+Erstelle „Oasis Jelly“: eine winzige Wüstenoasenwelt, eingeschlossen in einem wackeligen, durchscheinenden Würfel aus Jelly, dargestellt als schwebendes Diorama auf einer ruhigen redaktionellen Webseite. Eine einzelne, eigenständige HTML-Datei; Three.js und die Add-ons dürfen über ein Import-Map von einem CDN eingebunden werden; erstelle alles prozedural, ohne externe Texturen oder Modelle.
+
+Das Diorama:
+- Ein quadratischer Wüstenblock, wie eine Scheibe aus einem Schichtkuchen herausgeschnitten. Oben liegen windgewellte Dünen, die zu einer terrassierten Sandsteinklippe am hinteren Rand ansteigen, geteilt von einer schmalen Slot-Schlucht. Die vier Schnittflächen zeigen klar erkennbare Schichten: hellen Sand, Ocker, rostroten Sandstein, grauen Lehm, eine blaue Aquiferspalte, die die Quelle speist, und dunkles Grundgestein.
+- In der Mitte liegt ein von einer Quelle gespeister See mit klarem türkisfarbenem Wasser, sanften Wellen, Blubberringen an der Stelle, an der die Quelle austritt, und einem grünen Grassaum am Ufer. Darum herum: eine Palmenhaine mit im Wind schwingenden Wedeln, bewässerte Gartenparzellen mit kleinen Wasserkanälen, ein Lehmziegeldorf mit Kuppeln und einem Turm, ein Brunnen, einige nostalgische Campinganhänger mit Lichterketten, bunte Zelte und Vögel, die über dem Wasser kreisen.
+- Der gesamte Block ist von einem dicken, glänzenden Jelly-Würfel mit abgerundeten Kanten umschlossen. Der Würfel bricht die Welt im Inneren optisch, hat eine leichte Tönung, scharfe Glanzlichter und winzige Schwebeblasen. Er wackelt wie echtes Jelly: Klicke darauf, um ihn anzustupsen. Der Würfel und alles darin wackeln mit gedämpfter Federphysik, und eine Welle läuft über seine Oberfläche, bevor sie abklingt.
+
+Interaktionen (ein Bedienfeld auf der rechten Seite):
+- Karawane rufen: Eine Reihe Kamele, gefolgt von einem Campingbus, läuft auf einem gewundenen Pfad vom Rand des Blocks zum See und parkt dort.
+- Gärten bewässern: Wasser läuft vom See durch die Kanäle, Parzelle für Parzelle. Der Boden wird dunkler, die Pflanzen werden grün und wachsen, und der Pegel des Sees sinkt etwas, bevor die Quelle ihn wieder auffüllt. Wenn man sie in Ruhe lässt, trocknen die Gärten langsam wieder aus.
+- Sandsturm: Ein dichter, wirbelnder, von der Sonne beleuchteter Staubsturm zieht über das Diorama hinweg. Er besteht aus Tausenden Sandkörnern und weichen Staubwolken; das Licht wird schwächer und orangefarben, die Palmen neigen sich und die Sandrippel wandern weiter. Die Jelly-Wände halten ihn auf, und nach etwa 15 Sekunden zieht er vorüber.
+- Regler:
+  - Tageszeit, von der Morgendämmerung über die goldene Stunde bis zur Nacht, mit von Lampen erhellten Fenstern, leuchtenden Lichterketten und Mondlicht auf dem See;
+  - Windstärke;
+  - Wackelintensität des Jellies.
+- Eine kleine Anzeige für Wasserstand, bewässerte Gärten und Besucher.
+
+Präsentation:
+- Eine helle, warmgraue redaktionelle Seite: links ein großer kursiver Serifentitel „Oasis Jelly.“ mit einer kurzen Bildunterschrift, rechts die Bedienelemente als übersichtliche Karte und in der Mitte das Diorama, schwebend über einem weichen Schatten. Nachts wird die Seite selbst dunkel.
+- Weiche Sonnenschatten, ACES-Tonemapping, dezentes Bloom ausschließlich bei den Lichtern. Das Bild niemals durch Blendlicht oder Dunst auswaschen.
+- Ziehen zum Rotieren der Ansicht, Scrollen zum Zoomen, auf das Jelly klicken, um es anzustupsen.
+- Alles startet automatisch und bewegt sich bereits im ersten Frame sichtbar: eine langsame Kamerafahrt um das Diorama und eine automatisch ablaufende Schleife (pausiert während der Interaktion), die das Jelly anstupst, die Karawane ruft, die Gärten bewässert, einen Sandsturm auslöst und in die Nacht überblendet.
+- Das Layout funktioniert auf dem Smartphone.
+
+Halte die Planung kurz und schreibe den Code. Ziel sind ungefähr 700 bis 1.000 Zeilen, kompakt und gut strukturiert. Stelle sicher, dass er beim ersten Versuch läuft: Deklariere jede Konstante und jedes Uniform, die deine Shader verwenden, und sichere dich gegen undefinierte Werte ab. Nirgendwo dürfen schwarze, untexturierte oder Platzhalterobjekte vorkommen.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/oasis-jelly-interactive-desert-diorama) · [Originalbeitrag](https://www.aicontenders.dev/c/xGiNFiXftYwHdmT4XJPu7A) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Rot, grünes Licht: 3D-Survival-Game
@@ -4274,7 +4298,7 @@ Einen neuen Jelly-Villa-Prompt mit Credit für jared veröffentlichen, den urspr
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 376 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 379 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>
