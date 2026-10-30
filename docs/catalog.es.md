@@ -28,7 +28,7 @@
 **Un punto de partida para tu próximo juego, escena o mundo interactivo.**
 
 
-**379 · Últimos prompts de Astra**
+**380 · Últimos prompts de Astra**
 
 ## Proyectos destacados
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Explorar ejemplos</summary>
 
-- [Escena HTML hiperrealista e interactiva de una fogata en el desierto](#2102915300295369208)
 - [Codex voxelizado en Three.js](#2102956340482289944)
 - [Rodaja de cítrico de gominola 3D interactiva](#2103062348168618280)
 - [Rumbo al norte: viaje interactivo en un barco vikingo](#2103187935759655167)
@@ -146,39 +145,13 @@
 - [Escena cinematográfica en 3D de un lago alpino en Blender](#2115164427657904336)
 - [Faro animado en una tormenta violenta](#2115204470573351126)
 - [Oasis Jelly: un oasis desértico encerrado en un cubo de gelatina tambaleante](#2115449826481463529)
+- [Mercado callejero de neón interactivo de Neo-Kowloon](#2115478001882374452)
 - [Luz roja, luz verde: juego de supervivencia 3D](#red-light-green-light)
 - [Golden Miner: juego de minería 3D de 24 niveles](#golden-miner)
 - [Crazy Tanks — Artillería 3D en una isla](#crazy-tanks-3d-island-artillery)
 - [Villa de gelatina](#jelly-villa)
 
 </details>
-
-<a id="2102915300295369208"></a>
-
-### Escena HTML hiperrealista e interactiva de una fogata en el desierto
-
-[Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/realistic-desert-campfire-interactive-scene"><img src="../assets/previews/764e2d668b97fd0ae51f70fab3b1b2878a2cb5e18d43651083eb08c41758cf91.jpg" width="840" loading="lazy" alt="Escena HTML hiperrealista e interactiva de una fogata en el desierto"></a>
-
-Prompt publicado por el autor y utilizado para comparar los harnesses de GPT 6 Sol y Opus 5.5. Solicita una única escena HTML interactiva que represente una fogata nocturna hiperrealista en el desierto, con asientos hechos de troncos cortos alrededor, estrellas visibles, fauna ocasional y sonido de alta calidad adaptado a la escena.
-
-**Prompt**
-
-```text
-No hagas referencia a ningún otro archivo ni trabajo previo. Esta tarea debe ser completamente original y no estar basada como una copia en ningún otro trabajo de aquí.
-
-Crea un único archivo HTML con una fogata encendida en el desierto. Es de noche y las estrellas son visibles. Hay tocones de troncos dispuestos como asientos alrededor del fuego. No aparece ninguna persona en la escena. Es posible que distintos animales salvajes aparezcan periódicamente y luego desaparezcan.
-
-Los sonidos también deben corresponder a la escena y ser de alta calidad.
-Haz que todo sea hiperrealista
-
-nombra el archivo (según el modelo)
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/realistic-desert-campfire-interactive-scene) · [Publicación original](https://x.com/Nixtrodamis/status/2102915567845794029) · [Volver a los ejemplos](#all-prompts)
-
----
 
 <a id="2102956340482289944"></a>
 
@@ -4092,6 +4065,26 @@ Mantén breve la planificación y escribe el código. Apunta aproximadamente a e
 
 ---
 
+<a id="2115478001882374452"></a>
+
+### Mercado callejero de neón interactivo de Neo-Kowloon
+
+[Sakata](https://x.com/sakatayasha) · 2026-10-28
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/neo-kowloon-neon-street-market"><img src="../assets/previews/a13490a0071ccfd4b4be53bc5d7532f048a8f4d71c63188d1dfde545760d3774.jpg" width="840" loading="lazy" alt="Mercado callejero de neón interactivo de Neo-Kowloon"></a>
+
+Prompt utilizado para comparar Qwen 4 (Kerria) y GPT 6 Astra. Solicita un mercado callejero de neón interactivo completo creado con Three.js, distribuido en cinco plantas de Neo-Kowloon durante una noche de tifón.
+
+**Prompt**
+
+```text
+un mercado callejero de neón interactivo completo creado con Three.js, distribuido en cinco plantas de Neo-Kowloon durante una noche de tifón
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/neo-kowloon-neon-street-market) · [Publicación original](https://x.com/sakatayasha/status/2115478001882374452) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Luz roja, luz verde: juego de supervivencia 3D
@@ -4363,7 +4356,7 @@ Publica un prompt nuevo de jelly-villa acreditado a jared, con el autor original
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 379 ejemplos en el sitio oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 380 ejemplos en el sitio oficial →</a></strong></p>
 <p><sub>Para que el README de GitHub se renderice con fluidez, aquí solo se muestran los 100 ejemplos más recientes.</sub></p>
 <br>
 </td></tr>

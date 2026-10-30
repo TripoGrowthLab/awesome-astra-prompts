@@ -29,7 +29,7 @@
 
 探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。
 
-**379 条案例 · 14 种语言 · 12 条附项目源码**
+**380 条案例 · 14 种语言 · 12 条附项目源码**
 
 ## 精选作品
 
@@ -51,7 +51,6 @@
 <details>
 <summary>浏览案例</summary>
 
-- [超写实动态沙漠篝火 HTML 场景](#2102915300295369208)
 - [使用 Three.js 制作体素版 Codex](#2102956340482289944)
 - [可交互的 3D 软糖柑橘切片](#2103062348168618280)
 - [北行：互动维京长船之旅](#2103187935759655167)
@@ -147,39 +146,13 @@
 - [Blender 中的电影感 3D 阿尔卑斯湖泊场景](#2115164427657904336)
 - [狂暴风暴中的动画灯塔](#2115204470573351126)
 - [绿洲果冻：封存在摇晃果冻方块里的沙漠绿洲](#2115449826481463529)
+- [新九龙霓虹街市互动场景](#2115478001882374452)
 - [一二三，木头人：3D 生存游戏](#red-light-green-light)
 - [黄金矿工：24 关 3D 挖矿游戏](#golden-miner)
 - [疯狂坦克——3D 岛屿炮战](#crazy-tanks-3d-island-artillery)
 - [果冻别墅](#jelly-villa)
 
 </details>
-
-<a id="2102915300295369208"></a>
-
-### 超写实动态沙漠篝火 HTML 场景
-
-[Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/realistic-desert-campfire-interactive-scene"><img src="assets/previews/764e2d668b97fd0ae51f70fab3b1b2878a2cb5e18d43651083eb08c41758cf91.jpg" width="840" loading="lazy" alt="超写实动态沙漠篝火 HTML 场景"></a>
-
-作者发布的提示词，用于比较 GPT 6 Sol 和 Opus 5.5 测试框架。提示词要求创建一个交互式 HTML 场景：呈现超写实的夜间沙漠篝火、篝火周围的原木树桩座椅、清晰可见的星空、偶尔出现的野生动物，以及与场景匹配的高品质声音。
-
-**提示词**
-
-```text
-不要引用任何其他文件或之前的作品。此任务必须完全原创，不得借鉴此处的任何其他作品来投机取巧。
-
-创建一个单独的 HTML 文件，呈现沙漠中的动态篝火。现在是夜晚，星星清晰可见。篝火周围摆放着用原木树桩制成的座椅。画面中不得出现人物。不同的野生动物可能会不时进入或离开画面。
-
-声音也应与场景相匹配，并具备高品质。
-让所有内容都达到超写实效果
-
-根据模型命名文件
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/realistic-desert-campfire-interactive-scene) · [查看原帖](https://x.com/Nixtrodamis/status/2102915567845794029) · [返回案例导航](#all-prompts)
-
----
 
 <a id="2102956340482289944"></a>
 
@@ -4037,6 +4010,26 @@ AIContenders 发布了一篇相关对比文章，展示了这条用于共同任�
 
 ---
 
+<a id="2115478001882374452"></a>
+
+### 新九龙霓虹街市互动场景
+
+[Sakata](https://x.com/sakatayasha) · 2026-10-28
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/neo-kowloon-neon-street-market"><img src="assets/previews/a13490a0071ccfd4b4be53bc5d7532f048a8f4d71c63188d1dfde545760d3774.jpg" width="840" loading="lazy" alt="新九龙霓虹街市互动场景"></a>
+
+用于比较 Qwen 4（Kerria）与 GPT 6 Astra 的提示词。该提示词要求在台风夜的新九龙，构建一座纵向叠建五层的完整 Three.js 互动霓虹街市。
+
+**提示词**
+
+```text
+在台风夜的新九龙，构建一座纵向叠建五层的完整 Three.js 互动霓虹街市
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/neo-kowloon-neon-street-market) · [查看原帖](https://x.com/sakatayasha/status/2115478001882374452) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### 一二三，木头人：3D 生存游戏
@@ -4308,7 +4301,7 @@ AIContenders 发布了一篇相关对比文章，展示了这条用于共同任�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 379 条案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 380 条案例 →</a></strong></p>
 <p><sub>为保持 GitHub README 渲染流畅，这里仅展示最新 100 条案例。</sub></p>
 <br>
 </td></tr>

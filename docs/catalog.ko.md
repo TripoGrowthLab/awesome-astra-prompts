@@ -28,7 +28,7 @@
 **다음 게임, 장면, 인터랙티브 세계를 위한 아이디어를 찾아보세요.**
 
 
-**379 · 최신 Astra 프롬프트**
+**380 · 최신 Astra 프롬프트**
 
 ## 추천 작품
 
@@ -50,7 +50,6 @@
 <details>
 <summary>사례 둘러보기</summary>
 
-- [극사실적인 실시간 사막 모닥불 HTML 장면](#2102915300295369208)
 - [Three.js로 구현한 복셀 Codex](#2102956340482289944)
 - [인터랙티브 3D 구미 시트러스 슬라이스](#2103062348168618280)
 - [Northbound: 인터랙티브 바이킹 롱십 여정](#2103187935759655167)
@@ -146,39 +145,13 @@
 - [Blender에서 제작하는 시네마틱 3D 알프스 호수 장면](#2115164427657904336)
 - [거센 폭풍 속 등대 애니메이션](#2115204470573351126)
 - [Oasis Jelly: 출렁이는 젤리 큐브에 봉인된 사막의 오아시스](#2115449826481463529)
+- [인터랙티브 네오카우룽 네온 야시장](#2115478001882374452)
 - [무궁화꽃이 피었습니다: 3D 서바이벌 게임](#red-light-green-light)
 - [Golden Miner: 24레벨 3D 채굴 게임](#golden-miner)
 - [Crazy Tanks — 3D 아일랜드 포병전](#crazy-tanks-3d-island-artillery)
 - [젤리 빌라](#jelly-villa)
 
 </details>
-
-<a id="2102915300295369208"></a>
-
-### 극사실적인 실시간 사막 모닥불 HTML 장면
-
-[Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/realistic-desert-campfire-interactive-scene"><img src="../assets/previews/764e2d668b97fd0ae51f70fab3b1b2878a2cb5e18d43651083eb08c41758cf91.jpg" width="840" loading="lazy" alt="극사실적인 실시간 사막 모닥불 HTML 장면"></a>
-
-GPT 6 Sol과 Opus 5.5 테스트 하네스를 비교하는 데 사용된 작성자 게시 프롬프트입니다. 밤의 사막에서 극사실적으로 표현한 모닥불 하나를 중심으로, 주변에 통나무 그루터기 좌석이 놓여 있고 별이 보이며 야생동물이 가끔 나타나는 단일 인터랙티브 HTML 장면을 요청합니다. 장면에 어울리는 고품질 사운드도 포함합니다.
-
-**프롬프트**
-
-```text
-다른 파일이나 이전 작업을 참조하지 마세요. 이 작업은 완전히 독창적이어야 하며, 여기 있는 다른 작업을 속임수처럼 활용해 만들어서는 안 됩니다.
-
-사막에서 타오르는 모닥불을 표현한 단일 HTML 파일을 만드세요. 시간대는 밤이며 별이 보입니다. 불 주변에는 통나무 그루터기를 좌석으로 배치하세요. 화면에 사람은 등장하지 않습니다. 다양한 야생동물이 가끔 화면에 나타났다가 사라질 수 있습니다.
-
-소리도 장면에 어울리도록 고품질로 구성해야 합니다.
-모든 요소를 극사실적으로 표현하세요
-
-파일 이름을 지정하세요(모델을 바탕으로).
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/realistic-desert-campfire-interactive-scene) · [원본 게시물](https://x.com/Nixtrodamis/status/2102915567845794029) · [사례 목록으로](#all-prompts)
-
----
 
 <a id="2102956340482289944"></a>
 
@@ -4093,6 +4066,26 @@ Blender에서 산맥 2개, 높이 12m의 폭포, 사실적인 수면 반사가 �
 
 ---
 
+<a id="2115478001882374452"></a>
+
+### 인터랙티브 네오카우룽 네온 야시장
+
+[Sakata](https://x.com/sakatayasha) · 2026-10-28
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/neo-kowloon-neon-street-market"><img src="../assets/previews/a13490a0071ccfd4b4be53bc5d7532f048a8f4d71c63188d1dfde545760d3774.jpg" width="840" loading="lazy" alt="인터랙티브 네오카우룽 네온 야시장"></a>
+
+Qwen 4(Kerria)와 GPT 6 Astra를 비교하는 데 사용된 프롬프트입니다. 태풍이 몰아치는 밤의 네오카우룽을 배경으로 5층 규모의 완전한 인터랙티브 Three.js 네온 야시장을 구현하도록 요청합니다.
+
+**프롬프트**
+
+```text
+태풍이 몰아치는 밤의 네오카우룽에 5개 층으로 들어선 완전한 인터랙티브 Three.js 네온 야시장
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/neo-kowloon-neon-street-market) · [원본 게시물](https://x.com/sakatayasha/status/2115478001882374452) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### 무궁화꽃이 피었습니다: 3D 서바이벌 게임
@@ -4364,7 +4357,7 @@ jared를 크레딧으로 표시한 새 jelly-villa 프롬프트를 게시하고,
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 379개 보기 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 380개 보기 →</a></strong></p>
 <p><sub>GitHub README가 원활하게 렌더링되도록 최신 사례 100개만 표시합니다.</sub></p>
 <br>
 </td></tr>

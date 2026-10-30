@@ -28,7 +28,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**379 · Neueste Astra-Prompts**
+**380 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Beispiele ansehen</summary>
 
-- [Hyperrealistische interaktive HTML-Szene mit Lagerfeuer in der Wüste](#2102915300295369208)
 - [Voxel-Codex in Three.js](#2102956340482289944)
 - [Interaktive 3D-Zitrusgummischeibe](#2103062348168618280)
 - [Northbound: Interaktive Reise im Wikingerschiff](#2103187935759655167)
@@ -146,39 +145,13 @@
 - [Kinematische 3D-Alpenseeszene in Blender](#2115164427657904336)
 - [Animierter Leuchtturm in einem heftigen Sturm](#2115204470573351126)
 - [Oasis Jelly: eine Wüstenoase in einem wackeligen Jelly-Würfel](#2115449826481463529)
+- [Interaktiver Neon-Straßenmarkt in Neo-Kowloon](#2115478001882374452)
 - [Rot, grünes Licht: 3D-Survival-Game](#red-light-green-light)
 - [Golden Miner: 3D-Bergbauspiel mit 24 Levels](#golden-miner)
 - [Crazy Tanks — 3D-Inselartillerie](#crazy-tanks-3d-island-artillery)
 - [Jelly-Villa](#jelly-villa)
 
 </details>
-
-<a id="2102915300295369208"></a>
-
-### Hyperrealistische interaktive HTML-Szene mit Lagerfeuer in der Wüste
-
-[Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/realistic-desert-campfire-interactive-scene"><img src="../assets/previews/764e2d668b97fd0ae51f70fab3b1b2878a2cb5e18d43651083eb08c41758cf91.jpg" width="840" loading="lazy" alt="Hyperrealistische interaktive HTML-Szene mit Lagerfeuer in der Wüste"></a>
-
-Von einem Autor verfasster Prompt für einen Vergleich der Testumgebungen von GPT 6 Sol und Opus 5.5. Gefordert ist eine einzelne interaktive HTML-Szene mit einem hyperrealistischen nächtlichen Lagerfeuer in der Wüste, Sitzgelegenheiten aus Baumstümpfen rund um das Feuer, sichtbaren Sternen, gelegentlich auftauchenden Wildtieren und hochwertigem, an die Szene angepasstem Sound.
-
-**Prompt**
-
-```text
-Verweise nicht auf andere Dateien oder frühere Arbeiten. Diese Aufgabe muss vollständig eigenständig sein und darf nicht als Kopie einer anderen hier vorhandenen Arbeit erstellt werden.
-
-Erstelle eine einzelne HTML-Datei mit einem brennenden Lagerfeuer in der Wüste. Es ist Nacht und die Sterne sind sichtbar. Rund um das Feuer stehen Baumstümpfe als Sitzgelegenheiten. Es sind keine Menschen im Bild. Verschiedene Wildtiere können gelegentlich ins Bild kommen und wieder verschwinden.
-
-Auch die Geräusche sollen zur Szene passen und von hoher Qualität sein.
-Gestalte alles hyperrealistisch.
-
-Benenne die Datei (basierend auf dem Modell).
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/realistic-desert-campfire-interactive-scene) · [Originalbeitrag](https://x.com/Nixtrodamis/status/2102915567845794029) · [Zurück zu den Beispielen](#all-prompts)
-
----
 
 <a id="2102956340482289944"></a>
 
@@ -4027,6 +4000,26 @@ Halte die Planung kurz und schreibe den Code. Ziel sind ungefähr 700 bis 1.000 
 
 ---
 
+<a id="2115478001882374452"></a>
+
+### Interaktiver Neon-Straßenmarkt in Neo-Kowloon
+
+[Sakata](https://x.com/sakatayasha) · 2026-10-28
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/neo-kowloon-neon-street-market"><img src="../assets/previews/a13490a0071ccfd4b4be53bc5d7532f048a8f4d71c63188d1dfde545760d3774.jpg" width="840" loading="lazy" alt="Interaktiver Neon-Straßenmarkt in Neo-Kowloon"></a>
+
+Ein Prompt für einen Vergleich zwischen Qwen 4 (Kerria) und GPT 6 Astra. Er fordert einen vollständig interaktiven Three.js-Neon-Straßenmarkt an, der sich während einer Taifunnacht über fünf Etagen in Neo-Kowloon erstreckt.
+
+**Prompt**
+
+```text
+ein vollständig interaktiver Three.js-Neon-Straßenmarkt, der sich während einer Taifunnacht über fünf Etagen in Neo-Kowloon erstreckt
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/neo-kowloon-neon-street-market) · [Originalbeitrag](https://x.com/sakatayasha/status/2115478001882374452) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Rot, grünes Licht: 3D-Survival-Game
@@ -4298,7 +4291,7 @@ Einen neuen Jelly-Villa-Prompt mit Credit für jared veröffentlichen, den urspr
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 379 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 380 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>

@@ -28,7 +28,7 @@
 **次のゲーム、シーン、インタラクティブな世界づくりのヒントに。**
 
 
-**379 · 最新の Astra プロンプト**
+**380 · 最新の Astra プロンプト**
 
 ## 注目の作品
 
@@ -50,7 +50,6 @@
 <details>
 <summary>作例を見る</summary>
 
-- [超リアルな砂漠の焚き火HTMLシーン](#2102915300295369208)
 - [Three.jsで作るボクセル版Codex](#2102956340482289944)
 - [インタラクティブな3Dグミの柑橘スライス](#2103062348168618280)
 - [Northbound：ヴァイキングのロングシップで巡るインタラクティブな旅](#2103187935759655167)
@@ -146,39 +145,13 @@
 - [Blenderで作るシネマティックな3Dアルプス湖畔シーン](#2115164427657904336)
 - [激しい嵐の中の灯台アニメーション](#2115204470573351126)
 - [Oasis Jelly：ぷるぷるのジェリーキューブに封じ込められた砂漠のオアシス](#2115449826481463529)
+- [インタラクティブなネオ・カオルーンのネオン街市場](#2115478001882374452)
 - [Red Light, Green Light：3Dサバイバルゲーム](#red-light-green-light)
 - [Golden Miner：全24レベルの3D採掘ゲーム](#golden-miner)
 - [Crazy Tanks — 3Dアイランド砲撃戦](#crazy-tanks-3d-island-artillery)
 - [ジェリー・ヴィラ](#jelly-villa)
 
 </details>
-
-<a id="2102915300295369208"></a>
-
-### 超リアルな砂漠の焚き火HTMLシーン
-
-[Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/realistic-desert-campfire-interactive-scene"><img src="../assets/previews/764e2d668b97fd0ae51f70fab3b1b2878a2cb5e18d43651083eb08c41758cf91.jpg" width="840" loading="lazy" alt="超リアルな砂漠の焚き火HTMLシーン"></a>
-
-GPT 6 SolとOpus 5.5の評価ハーネスを比較するために投稿されたプロンプトです。夜の砂漠で燃え続ける超リアルな焚き火を中心に、周囲に丸太の切り株の椅子があり、星が見え、ときどき野生動物が姿を現す、シーンに合った高品質なサウンド付きのインタラクティブなHTMLシーンを1つ作成するよう求めています。
-
-**プロンプト**
-
-```text
-他のファイルや過去の作品には一切言及しないでください。このタスクは完全にオリジナルである必要があり、ここにある他の作品をもとにした手抜きの再現であってはなりません。
-
-砂漠で燃え続ける焚き火を表現したHTMLファイルを1つ作成してください。夜で、星が見えます。焚き火の周囲には、座席として丸太の切り株が配置されています。画面内に人は登場させないでください。さまざまな野生動物が、ときどき画面内に現れたり画面外へ去ったりします。
-
-音もシーンに合った高品質なものにしてください。
-すべてを超リアルにしてください
-
-ファイル名を付けてください（モデルに基づく名前）
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/realistic-desert-campfire-interactive-scene) · [元の投稿](https://x.com/Nixtrodamis/status/2102915567845794029) · [作例一覧に戻る](#all-prompts)
-
----
 
 <a id="2102956340482289944"></a>
 
@@ -4101,6 +4074,26 @@ AIContendersの比較記事では、GPT-6 AstraとClaude Opus 5.5でテストし
 
 ---
 
+<a id="2115478001882374452"></a>
+
+### インタラクティブなネオ・カオルーンのネオン街市場
+
+[Sakata](https://x.com/sakatayasha) · 2026-10-28
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/neo-kowloon-neon-street-market"><img src="../assets/previews/a13490a0071ccfd4b4be53bc5d7532f048a8f4d71c63188d1dfde545760d3774.jpg" width="840" loading="lazy" alt="インタラクティブなネオ・カオルーンのネオン街市場"></a>
+
+Qwen 4 (Kerria)とGPT 6 Astraの比較に使用したプロンプトです。台風の夜のネオ・カオルーンを舞台に、5階建ての完全にインタラクティブなThree.js製ネオン街市場を作成します。
+
+**プロンプト**
+
+```text
+台風の夜のネオ・カオルーンに広がる、5層構造の完全にインタラクティブなThree.js製ネオン街市場
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/neo-kowloon-neon-street-market) · [元の投稿](https://x.com/sakatayasha/status/2115478001882374452) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Red Light, Green Light：3Dサバイバルゲーム
@@ -4372,7 +4365,7 @@ jaredのクレジットを付けた新しいjelly-villaプロンプトを公開�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 379 件の作例を公式サイトで見る →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 380 件の作例を公式サイトで見る →</a></strong></p>
 <p><sub>GitHub README をスムーズに表示するため、ここでは最新の作例 100 件のみを掲載しています。</sub></p>
 <br>
 </td></tr>

@@ -28,7 +28,7 @@
 **Um ponto de partida para seu próximo jogo, cena ou mundo interativo.**
 
 
-**379 · Prompts mais recentes do Astra**
+**380 · Prompts mais recentes do Astra**
 
 ## Projetos em destaque
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Explorar exemplos</summary>
 
-- [Cena HTML hiper-realista de uma fogueira acesa no deserto](#2102915300295369208)
 - [Codex em Three.js](#2102956340482289944)
 - [Fatia cítrica de goma 3D interativa](#2103062348168618280)
 - [Rumo ao Norte: Jornada Interativa em um Navio Viking](#2103187935759655167)
@@ -146,39 +145,13 @@
 - [Cena cinematográfica de lago alpino 3D no Blender](#2115164427657904336)
 - [Farol animado em uma tempestade violenta](#2115204470573351126)
 - [Oasis Jelly: um oásis no deserto selado em um cubo de gelatina maleável](#2115449826481463529)
+- [Mercado de rua neon interativo de Neo-Kowloon](#2115478001882374452)
 - [Sinal vermelho, sinal verde: jogo de sobrevivência 3D](#red-light-green-light)
 - [Golden Miner: jogo de mineração 3D com 24 níveis](#golden-miner)
 - [Crazy Tanks — Artilharia 3D em uma ilha](#crazy-tanks-3d-island-artillery)
 - [Vila de Gelatina](#jelly-villa)
 
 </details>
-
-<a id="2102915300295369208"></a>
-
-### Cena HTML hiper-realista de uma fogueira acesa no deserto
-
-[Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/realistic-desert-campfire-interactive-scene"><img src="../assets/previews/764e2d668b97fd0ae51f70fab3b1b2878a2cb5e18d43651083eb08c41758cf91.jpg" width="840" loading="lazy" alt="Cena HTML hiper-realista de uma fogueira acesa no deserto"></a>
-
-Prompt publicado pelo autor e usado em uma comparação entre os harnesses GPT 6 Sol e Opus 5.5. Ele solicita uma única cena HTML interativa que retrate uma fogueira hiper-realista no deserto à noite, com bancos feitos de tocos ao redor, estrelas visíveis, animais selvagens aparecendo ocasionalmente e som de alta qualidade compatível com a cena.
-
-**Prompt**
-
-```text
-Não faça referência a nenhum outro arquivo ou trabalho anterior. Esta tarefa deve ser totalmente original e não pode ser construída como uma cópia disfarçada de nenhum outro trabalho disponível aqui.
-
-Crie um único arquivo HTML com uma fogueira acesa no deserto. É noite, e as estrelas estão visíveis. Há tocos de madeira dispostos como bancos ao redor da fogueira. Não há pessoas na cena. Diferentes animais selvagens podem aparecer e desaparecer periodicamente.
-
-Os sons também devem combinar com a cena e ter alta qualidade.
-Deixe tudo hiper-realista
-
-dê um nome ao arquivo (com base no modelo)
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/realistic-desert-campfire-interactive-scene) · [Publicação original](https://x.com/Nixtrodamis/status/2102915567845794029) · [Voltar aos exemplos](#all-prompts)
-
----
 
 <a id="2102956340482289944"></a>
 
@@ -4027,6 +4000,26 @@ Mantenha o planejamento breve e escreva o código. Procure ficar entre aproximad
 
 ---
 
+<a id="2115478001882374452"></a>
+
+### Mercado de rua neon interativo de Neo-Kowloon
+
+[Sakata](https://x.com/sakatayasha) · 2026-10-28
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/neo-kowloon-neon-street-market"><img src="../assets/previews/a13490a0071ccfd4b4be53bc5d7532f048a8f4d71c63188d1dfde545760d3774.jpg" width="840" loading="lazy" alt="Mercado de rua neon interativo de Neo-Kowloon"></a>
+
+Um prompt usado em uma comparação entre Qwen 4 (Kerria) e GPT 6 Astra. Ele solicita um mercado de rua neon interativo completo em Three.js, distribuído por cinco andares em Neo-Kowloon durante uma noite de tufão.
+
+**Prompt**
+
+```text
+um mercado de rua neon interativo completo em Three.js, distribuído por cinco andares em Neo-Kowloon durante uma noite de tufão
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/neo-kowloon-neon-street-market) · [Publicação original](https://x.com/sakatayasha/status/2115478001882374452) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Sinal vermelho, sinal verde: jogo de sobrevivência 3D
@@ -4298,7 +4291,7 @@ Publique um novo prompt de jelly-villa creditado a jared, com o autor original e
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 379 exemplos no site oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 380 exemplos no site oficial →</a></strong></p>
 <p><sub>Para manter a renderização do README do GitHub fluida, mostramos aqui apenas os 100 exemplos mais recentes.</sub></p>
 <br>
 </td></tr>

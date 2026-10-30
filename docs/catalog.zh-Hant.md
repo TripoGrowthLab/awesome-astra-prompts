@@ -28,7 +28,7 @@
 **為你的下一個遊戲、場景或互動世界尋找靈感。**
 
 
-**379 · 最新 Astra 提示詞**
+**380 · 最新 Astra 提示詞**
 
 ## 精選作品
 
@@ -50,7 +50,6 @@
 <details>
 <summary>瀏覽案例</summary>
 
-- [超寫實互動式沙漠營火 HTML 場景](#2102915300295369208)
 - [使用 Three.js 製作體素 Codex](#2102956340482289944)
 - [互動式 3D 果凍柑橘切片](#2103062348168618280)
 - [向北：互動維京長船之旅](#2103187935759655167)
@@ -146,39 +145,13 @@
 - [Blender 電影感 3D 高山湖泊場景](#2115164427657904336)
 - [暴風雨中的動畫燈塔](#2115204470573351126)
 - [Oasis Jelly：封存在搖晃果凍立方體中的沙漠綠洲](#2115449826481463529)
+- [新九龍互動霓虹街市](#2115478001882374452)
 - [紅燈綠燈：3D 生存遊戲](#red-light-green-light)
 - [Golden Miner：24 關 3D 採礦遊戲](#golden-miner)
 - [Crazy Tanks — 3D 島嶼火砲戰](#crazy-tanks-3d-island-artillery)
 - [果凍別墅](#jelly-villa)
 
 </details>
-
-<a id="2102915300295369208"></a>
-
-### 超寫實互動式沙漠營火 HTML 場景
-
-[Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/realistic-desert-campfire-interactive-scene"><img src="../assets/previews/764e2d668b97fd0ae51f70fab3b1b2878a2cb5e18d43651083eb08c41758cf91.jpg" width="840" loading="lazy" alt="超寫實互動式沙漠營火 HTML 場景"></a>
-
-作者發布的提示詞，用於比較 GPT 6 Sol 與 Opus 5.5 測試框架。提示詞要求製作單一互動式 HTML 場景，呈現超寫實的夜間沙漠營火、營火周圍以木樁製成的座椅、清晰可見的星星、偶爾出現的野生動物，以及符合場景的高品質音效。
-
-**提示詞**
-
-```text
-不得參照任何其他檔案或先前作品。此任務必須完全原創，不得取巧挪用這裡的任何其他作品。
-
-建立一個單一 HTML 檔案，呈現沙漠中的真實營火。現在是夜晚，可以看見星星。營火周圍擺放著木樁座椅。畫面中不得出現任何人。不同的野生動物可能會不時進入或離開畫面。
-
-音效也應符合場景，並具備高品質。
-讓所有內容都達到超寫實效果
-
-命名檔案（依模型命名）
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/realistic-desert-campfire-interactive-scene) · [查看原文](https://x.com/Nixtrodamis/status/2102915567845794029) · [返回案例導覽](#all-prompts)
-
----
 
 <a id="2102956340482289944"></a>
 
@@ -4093,6 +4066,26 @@ AIContenders 的比較文章收錄了這個提示詞，供 GPT-6 Astra 與 Claud
 
 ---
 
+<a id="2115478001882374452"></a>
+
+### 新九龍互動霓虹街市
+
+[Sakata](https://x.com/sakatayasha) · 2026-10-28
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/neo-kowloon-neon-street-market"><img src="../assets/previews/a13490a0071ccfd4b4be53bc5d7532f048a8f4d71c63188d1dfde545760d3774.jpg" width="840" loading="lazy" alt="新九龍互動霓虹街市"></a>
+
+這是一則用於比較 Qwen 4（Kerria）與 GPT 6 Astra 的提示詞，要求在颱風夜的 Neo-Kowloon 打造一座橫跨五層樓、完整可互動的 Three.js 霓虹街市。
+
+**提示詞**
+
+```text
+在颱風夜的 Neo-Kowloon，打造一座完整可互動、縱向堆疊五層樓的 Three.js 霓虹街市
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/neo-kowloon-neon-street-market) · [查看原文](https://x.com/sakatayasha/status/2115478001882374452) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### 紅燈綠燈：3D 生存遊戲
@@ -4364,7 +4357,7 @@ yacht 會沿著封閉路線自動前進，速度約為每秒 0.38–0.48 個場�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 379 個案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 380 個案例 →</a></strong></p>
 <p><sub>為保持 GitHub README 渲染流暢，這裡僅展示最新 100 個案例。</sub></p>
 <br>
 </td></tr>

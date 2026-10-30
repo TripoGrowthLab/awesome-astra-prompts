@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**379 · Prompt Astra mới nhất**
+**380 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Khám phá ví dụ</summary>
 
-- [Cảnh HTML lửa trại giữa sa mạc về đêm siêu chân thực](#2102915300295369208)
 - [Codex dạng voxel trong Three.js](#2102956340482289944)
 - [Lát cam dẻo 3D tương tác](#2103062348168618280)
 - [Hướng Bắc: Hành trình tương tác trên thuyền dài Viking](#2103187935759655167)
@@ -146,39 +145,13 @@
 - [Cảnh hồ núi cao 3D phong cách điện ảnh trong Blender](#2115164427657904336)
 - [Hải đăng hoạt hình giữa cơn bão dữ dội](#2115204470573351126)
 - [Ốc đảo Thạch rau câu: ốc đảo sa mạc nằm trong một khối thạch rau câu rung rinh](#2115449826481463529)
+- [Chợ phố đèn neon Neo-Kowloon tương tác](#2115478001882374452)
 - [Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D](#red-light-green-light)
 - [Golden Miner: Game khai thác vàng 3D 24 cấp độ](#golden-miner)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
 - [Biệt thự Thạch rau câu](#jelly-villa)
 
 </details>
-
-<a id="2102915300295369208"></a>
-
-### Cảnh HTML lửa trại giữa sa mạc về đêm siêu chân thực
-
-[Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/realistic-desert-campfire-interactive-scene"><img src="../assets/previews/764e2d668b97fd0ae51f70fab3b1b2878a2cb5e18d43651083eb08c41758cf91.jpg" width="840" loading="lazy" alt="Cảnh HTML lửa trại giữa sa mạc về đêm siêu chân thực"></a>
-
-Prompt do tác giả đăng, được sử dụng để so sánh các harness GPT 6 Sol và Opus 5.5. Prompt yêu cầu một cảnh HTML tương tác duy nhất, mô phỏng lửa trại siêu chân thực giữa sa mạc về đêm, với các khúc gỗ làm chỗ ngồi xung quanh, những ngôi sao có thể nhìn thấy, động vật hoang dã thỉnh thoảng xuất hiện và âm thanh chất lượng cao phù hợp với khung cảnh.
-
-**Prompt**
-
-```text
-Không tham chiếu đến bất kỳ tệp nào khác hoặc tác phẩm trước đó. Tác vụ này phải hoàn toàn nguyên bản và không được tạo theo kiểu gian lận dựa trên bất kỳ tác phẩm nào khác ở đây.
-
-Tạo một tệp HTML duy nhất mô phỏng lửa trại đang cháy giữa sa mạc. Bối cảnh là ban đêm và có thể nhìn thấy các vì sao. Xung quanh đống lửa là những gốc cây được bố trí làm chỗ ngồi. Không có người nào trong khung hình. Thỉnh thoảng có thể có các loài động vật hoang dã xuất hiện rồi khuất khỏi tầm nhìn.
-
-Âm thanh cũng phải phù hợp với khung cảnh và có chất lượng cao.
-Làm cho mọi thứ siêu chân thực
-
-đặt tên tệp dựa trên model
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/realistic-desert-campfire-interactive-scene) · [Bài đăng gốc](https://x.com/Nixtrodamis/status/2102915567845794029) · [Về danh sách ví dụ](#all-prompts)
-
----
 
 <a id="2102956340482289944"></a>
 
@@ -4102,6 +4075,26 @@ Giữ phần lập kế hoạch ngắn gọn và viết mã. Hướng đến kho
 
 ---
 
+<a id="2115478001882374452"></a>
+
+### Chợ phố đèn neon Neo-Kowloon tương tác
+
+[Sakata](https://x.com/sakatayasha) · 2026-10-28
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/neo-kowloon-neon-street-market"><img src="../assets/previews/a13490a0071ccfd4b4be53bc5d7532f048a8f4d71c63188d1dfde545760d3774.jpg" width="840" loading="lazy" alt="Chợ phố đèn neon Neo-Kowloon tương tác"></a>
+
+Prompt được dùng để so sánh Qwen 4 (Kerria) và GPT 6 Astra. Prompt này yêu cầu tạo một chợ phố đèn neon Three.js tương tác hoàn chỉnh, trải dài qua năm tầng ở Neo-Kowloon trong một đêm bão.
+
+**Prompt**
+
+```text
+một chợ phố đèn neon Three.js tương tác hoàn chỉnh, trải dài qua năm tầng ở Neo-Kowloon trong một đêm bão
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/neo-kowloon-neon-street-market) · [Bài đăng gốc](https://x.com/sakatayasha/status/2115478001882374452) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D
@@ -4373,7 +4366,7 @@ Xuất bản prompt jelly-villa mới, ghi công jared, ghi tác giả gốc tro
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 379 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 380 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

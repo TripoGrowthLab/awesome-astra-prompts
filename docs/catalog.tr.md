@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**379 · En yeni Astra istemleri**
+**380 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Örnekleri keşfet</summary>
 
-- [Hipergerçekçi canlı çöl kamp ateşi HTML sahnesi](#2102915300295369208)
 - [Three.js'te Voxel Codex](#2102956340482289944)
 - [Etkileşimli 3B jelibon narenciye dilimi](#2103062348168618280)
 - [Northbound: Etkileşimli Viking Uzun Gemisi Yolculuğu](#2103187935759655167)
@@ -146,39 +145,13 @@
 - [Blender’da sinematik 3B dağ gölü sahnesi](#2115164427657904336)
 - [Şiddetli fırtınada animasyonlu deniz feneri](#2115204470573351126)
 - [Oasis Jelly: yalpalayan bir jel küpün içine hapsolmuş çöl vahası](#2115449826481463529)
+- [Neo-Kowloon Etkileşimli Neon Sokak Pazarı](#2115478001882374452)
 - [Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu](#red-light-green-light)
 - [Golden Miner: 24 Seviyeli 3B Madencilik Oyunu](#golden-miner)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [Jöle Villa](#jelly-villa)
 
 </details>
-
-<a id="2102915300295369208"></a>
-
-### Hipergerçekçi canlı çöl kamp ateşi HTML sahnesi
-
-[Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/realistic-desert-campfire-interactive-scene"><img src="../assets/previews/764e2d668b97fd0ae51f70fab3b1b2878a2cb5e18d43651083eb08c41758cf91.jpg" width="840" loading="lazy" alt="Hipergerçekçi canlı çöl kamp ateşi HTML sahnesi"></a>
-
-GPT 6 Sol ve Opus 5.5 harness'larının karşılaştırılmasında kullanılan, yazar tarafından paylaşılmış bir istem. İstem; hipergerçekçi, gece vakti çölde geçen, etrafında kütük oturaklar bulunan, yıldızların göründüğü, ara sıra yaban hayatının kadraja girdiği ve sahneyle uyumlu yüksek kaliteli sesler içeren tek bir etkileşimli HTML sahnesi talep ediyor.
-
-**İstem**
-
-```text
-Başka hiçbir dosyaya veya önceki çalışmaya atıfta bulunma. Bu görev tamamen özgün olmalı ve buradaki başka bir çalışmadan kopya çekilerek oluşturulmamalı.
-
-Çölde yanan bir kamp ateşini gösteren tek bir HTML dosyası oluştur. Gece olsun ve yıldızlar görünsün. Ateşin çevresine oturmak için kütük parçaları yerleştirilsin. Kadrajda hiç insan olmasın. Farklı yaban hayvanları zaman zaman görünüp kadrajdan çıkabilsin.
-
-Sesler de sahneyle uyumlu ve yüksek kaliteli olmalı.
-Her şeyi hipergerçekçi yap
-
-Dosyaya (modele göre) ad ver
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/realistic-desert-campfire-interactive-scene) · [Orijinal gönderi](https://x.com/Nixtrodamis/status/2102915567845794029) · [Örneklere dön](#all-prompts)
-
----
 
 <a id="2102956340482289944"></a>
 
@@ -4092,6 +4065,26 @@ Planı kısa tutup kodu yazın. Yaklaşık 700 ila 1.000 satır hedefleyin; kod 
 
 ---
 
+<a id="2115478001882374452"></a>
+
+### Neo-Kowloon Etkileşimli Neon Sokak Pazarı
+
+[Sakata](https://x.com/sakatayasha) · 2026-10-28
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/neo-kowloon-neon-street-market"><img src="../assets/previews/a13490a0071ccfd4b4be53bc5d7532f048a8f4d71c63188d1dfde545760d3774.jpg" width="840" loading="lazy" alt="Neo-Kowloon Etkileşimli Neon Sokak Pazarı"></a>
+
+Qwen 4 (Kerria) ile GPT 6 Astra arasındaki karşılaştırmada kullanılan bir istem. Neo-Kowloon'da, tayfun gecesinde beş kata yayılan, tamamen etkileşimli bir Three.js neon sokak pazarı oluşturulmasını ister.
+
+**İstem**
+
+```text
+Neo-Kowloon'da, tayfun gecesinde beş kata üst üste yayılan, tamamen etkileşimli bir Three.js neon sokak pazarı
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/neo-kowloon-neon-street-market) · [Orijinal gönderi](https://x.com/sakatayasha/status/2115478001882374452) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu
@@ -4363,7 +4356,7 @@ jared adına atıf yapılan yeni bir jelly-villa istemi yayımlayın; özgün ya
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 379 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 380 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

@@ -29,7 +29,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**379 examples · 14 languages · 12 examples with source code**
+**380 examples · 14 languages · 12 examples with source code**
 
 ## Featured projects
 
@@ -51,7 +51,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 <details>
 <summary>Browse examples</summary>
 
-- [Hyper-realistic live desert campfire HTML scene](#2102915300295369208)
 - [Voxel Codex in Three.js](#2102956340482289944)
 - [Interactive 3D gummy citrus slice](#2103062348168618280)
 - [Northbound: Interactive Viking Longship Journey](#2103187935759655167)
@@ -147,39 +146,13 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Cinematic 3D alpine lake scene in Blender](#2115164427657904336)
 - [Animated lighthouse in a violent storm](#2115204470573351126)
 - [Oasis Jelly: a desert oasis sealed in a wobbly jelly cube](#2115449826481463529)
+- [Interactive Neo-Kowloon neon street market](#2115478001882374452)
 - [Red Light, Green Light: 3D Survival Game](#red-light-green-light)
 - [Golden Miner: 24-Level 3D Mining Game](#golden-miner)
 - [Crazy Tanks — 3D Island Artillery](#crazy-tanks-3d-island-artillery)
 - [Jelly Villa](#jelly-villa)
 
 </details>
-
-<a id="2102915300295369208"></a>
-
-### Hyper-realistic live desert campfire HTML scene
-
-[Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/3d-prompts/realistic-desert-campfire-interactive-scene"><img src="../assets/previews/764e2d668b97fd0ae51f70fab3b1b2878a2cb5e18d43651083eb08c41758cf91.jpg" width="840" loading="lazy" alt="Hyper-realistic live desert campfire HTML scene"></a>
-
-Author-posted prompt used in a comparison of GPT 6 Sol and Opus 5.5 harnesses. It requests a single interactive HTML scene depicting a hyper-realistic nighttime desert campfire, surrounding log-stump seats, visible stars, occasional wildlife, and scene-matched high-quality sound.
-
-**Prompt**
-
-```text
-Do not reference any other file or previous work. This task must be fully original and not built as a cheat from any other work here.
-
-Create a single html file of a live campfire in the desert. It is night time and the stars are visible. there are log stumps set up as seats around the fire. no people are in the shot. different wildlife may periodically come into view and out.
-
-noises should also match the scene and be of high quality.
-Make everything hyper realistic
-
-name the file (based on model)
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/realistic-desert-campfire-interactive-scene) · [Original post](https://x.com/Nixtrodamis/status/2102915567845794029) · [Back to examples](#all-prompts)
-
----
 
 <a id="2102956340482289944"></a>
 
@@ -4028,6 +4001,26 @@ Keep planning brief and write the code. Aim for roughly 700 to 1,000 lines, comp
 
 ---
 
+<a id="2115478001882374452"></a>
+
+### Interactive Neo-Kowloon neon street market
+
+[Sakata](https://x.com/sakatayasha) · 2026-10-28
+
+<a href="https://www.tripo3d.ai/3d-prompts/neo-kowloon-neon-street-market"><img src="../assets/previews/a13490a0071ccfd4b4be53bc5d7532f048a8f4d71c63188d1dfde545760d3774.jpg" width="840" loading="lazy" alt="Interactive Neo-Kowloon neon street market"></a>
+
+A prompt used in a comparison between Qwen 4 (Kerria) and GPT 6 Astra. It requests a full interactive Three.js neon street market spanning five storeys in Neo-Kowloon during a typhoon night.
+
+**Prompt**
+
+```text
+a full interactive Three.js neon street market stacked five storeys in Neo-Kowloon during a typhoon night
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/neo-kowloon-neon-street-market) · [Original post](https://x.com/sakatayasha/status/2115478001882374452) · [Back to examples](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Red Light, Green Light: 3D Survival Game
@@ -4299,7 +4292,7 @@ Publish a new jelly-villa prompt credited to jared, with the original author in 
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 379 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 380 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>
