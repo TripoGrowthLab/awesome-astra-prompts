@@ -28,7 +28,7 @@
 **次のゲーム、シーン、インタラクティブな世界づくりのヒントに。**
 
 
-**380 · 最新の Astra プロンプト**
+**381 · 最新の Astra プロンプト**
 
 ## 注目の作品
 
@@ -50,7 +50,6 @@
 <details>
 <summary>作例を見る</summary>
 
-- [Three.jsで作るボクセル版Codex](#2102956340482289944)
 - [インタラクティブな3Dグミの柑橘スライス](#2103062348168618280)
 - [Northbound：ヴァイキングのロングシップで巡るインタラクティブな旅](#2103187935759655167)
 - [霧に包まれた秋の探索型Three.js体験](#2103211135214256350)
@@ -146,32 +145,13 @@
 - [激しい嵐の中の灯台アニメーション](#2115204470573351126)
 - [Oasis Jelly：ぷるぷるのジェリーキューブに封じ込められた砂漠のオアシス](#2115449826481463529)
 - [インタラクティブなネオ・カオルーンのネオン街市場](#2115478001882374452)
+- [マングローブ・ライツ：インタラクティブWebGLジオラマ](#2116024691533979940)
 - [Red Light, Green Light：3Dサバイバルゲーム](#red-light-green-light)
 - [Golden Miner：全24レベルの3D採掘ゲーム](#golden-miner)
 - [Crazy Tanks — 3Dアイランド砲撃戦](#crazy-tanks-3d-island-artillery)
 - [ジェリー・ヴィラ](#jelly-villa)
 
 </details>
-
-<a id="2102956340482289944"></a>
-
-### Three.jsで作るボクセル版Codex
-
-[Arsh - 16 y/o builder](https://x.com/be_arsh) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102956340482289944"><img src="../assets/previews/99b2ff17cd26386c8263b76b551d227260be222bfa037b09d6e74de8c6522369.jpg" width="840" loading="lazy" alt="Three.jsで作るボクセル版Codex"></a>
-
-スキルを使わず、CodexをボクセルベースのThree.js表現としてゼロから構築する、再利用可能な作者コメント用プロンプト。
-
-**プロンプト**
-
-```text
-CodexをThree.jsでボクセルを使って自作してください。すべてをゼロから作成し、スキルは一切使わないでください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102956340482289944) · [元の投稿](https://x.com/be_arsh/status/2102956424120979838) · [作例一覧に戻る](#all-prompts)
-
----
 
 <a id="2103062348168618280"></a>
 
@@ -4094,6 +4074,38 @@ Qwen 4 (Kerria)とGPT 6 Astraの比較に使用したプロンプトです。台
 
 ---
 
+<a id="2116024691533979940"></a>
+
+### マングローブ・ライツ：インタラクティブWebGLジオラマ
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-30
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/mangrove-lights-interactive-webgl-diorama"><img src="../assets/previews/f005c999f808ff6cd285156dd93b9a0afcf1dc8db1206287eb6367099e9304de.jpg" width="840" loading="lazy" alt="マングローブ・ライツ：インタラクティブWebGLジオラマ"></a>
+
+元投稿によると、Opus 5.5とGPT-6 Astraの両方に与えられた、作者共有のプロンプトです。プロシージャルな地形と樹木、水のシミュレーション、同期するホタル、野生動物、昼夜のライティング、調整可能なインターフェースを備えた、インタラクティブなThree.js/WebGL製マングローブ島のジオラマを求めています。
+
+**プロンプト**
+
+```text
+「Mangrove Lights」という名前の単一ファイルのインタラクティブWebGLジオラマを作成してください（import map経由のThree.js r160、OrbitControls、外部モデルやテクスチャは使用せず、UIは英語）。クリーム色の台座に、約10×10ユニット、深さ1.7ユニットの角丸長方形の水塊を配置し、その中にマングローブ島を浮かべます。透明なキャンバス上に表示し、柔らかな接地影を加えてください。
+
+島はプロシージャルなハイトフィールドで構成し、奥には乾いた森林床、浅い干潟、クリーク、手前の角には開けた入り江を設けます。カメラに面する両側のガラス壁沿いには、水深約0.5の場所にマングローブの林縁を配置し、支柱根が水面より上とガラス越しに見えるようにしてください。地形の側壁は、根の繊維を含む層状の泥の断面にします。満潮線より下の泥は、暗く濡れた光沢のある状態を保ちます。
+
+樹木は約140本。それぞれに短い幹、泥に伸びるCatmullRomチューブジオメトリ製のアーチ状の支柱根8～11本、垂れ下がる気根、変位を加えたイコスフィアの塊による密な樹冠を持たせます。インスタンスごとのAOと暗く光沢のある緑色を使用してください。樹皮の満潮線より下には、藻とフジツボの汚れを加えます。干潟には鉛筆根状の呼吸根を配置し、明かりの灯る窓とランプを備えた高床式の漁師小屋とボードウォーク、波に揺れるカヌー、歩くシラサギ、昼間に飛ぶシラサギ、根の間を泳ぎカーソルから逃げる銀色の魚群を追加してください。
+
+水には、屈折、実際の厚みに基づくBeer–Lambert吸収、空のフレネル反射、スクリーンスペースリフレクション、太陽のきらめきを実装し、岸辺の泡はほとんど表示しません。256²のGPU波動方程式による波紋シミュレーションを用い、カーソルとクリックに反応させます。低い霧のレイヤーはカーソルの周囲で分かれてください。
+
+ホタルは樹冠の周囲に約1600個のKuramoto振動子として配置し、ローカルな空間ハッシュの平均場とグローバル場に結合させます。位置に応じた位相オフセットを加え、同期した明滅が波のように森を横切るようにしてください。非対称の発光カーブと、深度テストを手動で行う加算合成のポイントスプライトを使用し、水の描画後に描画します。反転したコピーで水面の反射を表現します。2つのポイントライトは平均発光量に合わせて明滅させます。カーソルは近くのホタルの位相をランダム化して押しのけ、クリックするとより広い範囲に散らします。その後、ホタルは元の位置へ漂い戻り、再び同期します。
+
+ライティングには月明かりを含む昼夜のカラーパレット、暖色の小屋のランプ、ACESトーンマッピング、ティルトシフトを使用します。
+
+UIのブランド名は「bakau°」、見出しは「A forest that blinks in time.」とします。ドックにはReset、Night/Day、High/Low tide、Tune、Fullscreenのボタンを配置し、設定パネルにはtime、fireflies、pull to sync、mist、water color、tide、waves、ripples、clarity、light azimuth、tilt-shiftを用意します。同期率（%）と時計をリアルタイムで表示し、「How it's made」の注記も加えてください。夜になるとページのテーマが暗くなるようにします。DPRの自動調整、タッチデバイス向けの低ディテールモード、モーション低減への対応、WebGL2フォールバックを含めてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/mangrove-lights-interactive-webgl-diorama) · [元の投稿](https://x.com/vib3coded/status/2116024829639881137) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Red Light, Green Light：3Dサバイバルゲーム
@@ -4365,7 +4377,7 @@ jaredのクレジットを付けた新しいjelly-villaプロンプトを公開�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 380 件の作例を公式サイトで見る →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 381 件の作例を公式サイトで見る →</a></strong></p>
 <p><sub>GitHub README をスムーズに表示するため、ここでは最新の作例 100 件のみを掲載しています。</sub></p>
 <br>
 </td></tr>

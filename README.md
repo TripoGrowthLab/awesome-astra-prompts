@@ -29,7 +29,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**380 examples · 14 languages · 12 examples with source code**
+**381 examples · 14 languages · 12 examples with source code**
 
 ## Featured projects
 
@@ -51,7 +51,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 <details>
 <summary>Browse examples</summary>
 
-- [Voxel Codex in Three.js](#2102956340482289944)
 - [Interactive 3D gummy citrus slice](#2103062348168618280)
 - [Northbound: Interactive Viking Longship Journey](#2103187935759655167)
 - [Explorable misty autumn Three.js experience](#2103211135214256350)
@@ -147,32 +146,13 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Animated lighthouse in a violent storm](#2115204470573351126)
 - [Oasis Jelly: a desert oasis sealed in a wobbly jelly cube](#2115449826481463529)
 - [Interactive Neo-Kowloon neon street market](#2115478001882374452)
+- [Mangrove Lights interactive WebGL diorama](#2116024691533979940)
 - [Red Light, Green Light: 3D Survival Game](#red-light-green-light)
 - [Golden Miner: 24-Level 3D Mining Game](#golden-miner)
 - [Crazy Tanks — 3D Island Artillery](#crazy-tanks-3d-island-artillery)
 - [Jelly Villa](#jelly-villa)
 
 </details>
-
-<a id="2102956340482289944"></a>
-
-### Voxel Codex in Three.js
-
-[Arsh - 16 y/o builder](https://x.com/be_arsh) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102956340482289944"><img src="assets/previews/99b2ff17cd26386c8263b76b551d227260be222bfa037b09d6e74de8c6522369.jpg" width="840" loading="lazy" alt="Voxel Codex in Three.js"></a>
-
-A reusable author-comment prompt requesting a voxel-based Three.js representation of Codex, built from scratch without skills.
-
-**Prompt**
-
-```text
-make yourself, codex in threejs using voxels, make everything from scratch, dont use any skills
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102956340482289944) · [Original post](https://x.com/be_arsh/status/2102956424120979838) · [Back to examples](#all-prompts)
-
----
 
 <a id="2103062348168618280"></a>
 
@@ -4021,6 +4001,38 @@ a full interactive Three.js neon street market stacked five storeys in Neo-Kowlo
 
 ---
 
+<a id="2116024691533979940"></a>
+
+### Mangrove Lights interactive WebGL diorama
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-30
+
+<a href="https://www.tripo3d.ai/3d-prompts/mangrove-lights-interactive-webgl-diorama"><img src="assets/previews/f005c999f808ff6cd285156dd93b9a0afcf1dc8db1206287eb6367099e9304de.jpg" width="840" loading="lazy" alt="Mangrove Lights interactive WebGL diorama"></a>
+
+An author-shared prompt that the root post says was given to both Opus 5.5 and GPT-6 Astra. It requests an interactive Three.js/WebGL mangrove-island diorama with procedural terrain and trees, water simulation, synchronized fireflies, wildlife, day/night lighting, and an adjustable interface.
+
+**Prompt**
+
+```text
+Build a single-file interactive WebGL diorama called "Mangrove Lights" (Three.js r160 via import map, OrbitControls, no external models or textures, English UI). A mangrove island sits inside a rounded rectangular block of water, about 10×10 units and 1.7 deep, on a cream plinth, over a transparent canvas with a soft contact shadow.
+
+Island: a procedural heightfield with a dry forest floor at the back, shallow mud flats, creeks, and an open inlet at the front corner. Mangrove fringes stand in about 0.5 of water along both glass walls that face the camera, so the stilt roots show above the water and through the glass. The terrain's side walls are a layered mud cross-section with root fibres. Mud below the high-tide line stays dark, wet and glossy.
+
+Trees (about 140): each has a short trunk; 8–11 arching prop roots built as CatmullRom tube geometry that reach into the mud; hanging aerial roots; and a dense crown of displaced icosphere blobs with per-instance AO and dark glossy greens. Bark is algae- and barnacle-stained below the high-tide line. Add pencil-root pneumatophores on the flats, a fisherman's hut on stilts with a lit window and lamp plus a boardwalk, a canoe that bobs on the waves, wading egrets, an egret flying by day, and schools of silver fish that swim between the roots and flee the cursor.
+
+Water: refraction, Beer–Lambert absorption from real thickness, Fresnel sky, screen-space reflections, sun glints, and almost no shore foam. A 256² GPU wave-equation ripple sim responds to the cursor and clicks. Low mist layers part around the cursor.
+
+Fireflies: about 1600 Kuramoto oscillators around the crowns, coupled to a local spatial-hash mean field plus the global field, with a position-dependent phase offset so the synchronized flash sweeps across the forest as a wave. Use an asymmetric flash curve and additive point sprites drawn after the water, with a manual depth test. Mirrored copies show reflections on the water. Two point lights pulse with the average glow. The cursor randomizes the phase of nearby fireflies and pushes them away; a click scatters a wider area; they drift home and resync.
+
+Lighting: day/night palettes with moonlight, a warm hut lamp, ACES tone mapping and tilt-shift.
+
+UI: brand "bakau°"; headline "A forest that blinks in time."; dock buttons Reset, Night/Day, High/Low tide, Tune and Fullscreen; a settings panel (time, fireflies, pull to sync, mist, water color, tide, waves, ripples, clarity, light azimuth, tilt-shift); a live sync % and clock; a "How it's made" note. The page theme turns dark at night. Include adaptive DPR, a low-detail mode for touch devices, reduced-motion support and a WebGL2 fallback.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/mangrove-lights-interactive-webgl-diorama) · [Original post](https://x.com/vib3coded/status/2116024829639881137) · [Back to examples](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Red Light, Green Light: 3D Survival Game
@@ -4292,7 +4304,7 @@ Publish a new jelly-villa prompt credited to jared, with the original author in 
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 380 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 381 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>

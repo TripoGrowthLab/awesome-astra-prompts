@@ -29,7 +29,7 @@
 
 探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。
 
-**380 条案例 · 14 种语言 · 12 条附项目源码**
+**381 条案例 · 14 种语言 · 12 条附项目源码**
 
 ## 精选作品
 
@@ -51,7 +51,6 @@
 <details>
 <summary>浏览案例</summary>
 
-- [使用 Three.js 制作体素版 Codex](#2102956340482289944)
 - [可交互的 3D 软糖柑橘切片](#2103062348168618280)
 - [北行：互动维京长船之旅](#2103187935759655167)
 - [雾霭秋日可探索 Three.js 体验](#2103211135214256350)
@@ -147,32 +146,13 @@
 - [狂暴风暴中的动画灯塔](#2115204470573351126)
 - [绿洲果冻：封存在摇晃果冻方块里的沙漠绿洲](#2115449826481463529)
 - [新九龙霓虹街市互动场景](#2115478001882374452)
+- [红树林之光：交互式 WebGL 立体微缩景观](#2116024691533979940)
 - [一二三，木头人：3D 生存游戏](#red-light-green-light)
 - [黄金矿工：24 关 3D 挖矿游戏](#golden-miner)
 - [疯狂坦克——3D 岛屿炮战](#crazy-tanks-3d-island-artillery)
 - [果冻别墅](#jelly-villa)
 
 </details>
-
-<a id="2102956340482289944"></a>
-
-### 使用 Three.js 制作体素版 Codex
-
-[Arsh - 16 y/o builder](https://x.com/be_arsh) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102956340482289944"><img src="assets/previews/99b2ff17cd26386c8263b76b551d227260be222bfa037b09d6e74de8c6522369.jpg" width="840" loading="lazy" alt="使用 Three.js 制作体素版 Codex"></a>
-
-可复用的作者评论提示词，用于请求使用 Three.js 以体素方式呈现 Codex，并从零开始制作，不使用任何技能。
-
-**提示词**
-
-```text
-使用体素在 Three.js 中制作 Codex，全部从零开始，不使用任何技能
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102956340482289944) · [查看原帖](https://x.com/be_arsh/status/2102956424120979838) · [返回案例导航](#all-prompts)
-
----
 
 <a id="2103062348168618280"></a>
 
@@ -4030,6 +4010,38 @@ AIContenders 发布了一篇相关对比文章，展示了这条用于共同任�
 
 ---
 
+<a id="2116024691533979940"></a>
+
+### 红树林之光：交互式 WebGL 立体微缩景观
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-30
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/mangrove-lights-interactive-webgl-diorama"><img src="assets/previews/f005c999f808ff6cd285156dd93b9a0afcf1dc8db1206287eb6367099e9304de.jpg" width="840" loading="lazy" alt="红树林之光：交互式 WebGL 立体微缩景观"></a>
+
+作者分享的提示词；根帖称该提示词同时提供给了 Opus 5.5 和 GPT-6 Astra。它要求制作一个可交互的 Three.js/WebGL 红树林岛屿立体微缩景观，包含程序化地形与树木、水体模拟、同步萤火虫、野生动物、昼夜灯光，以及可调节的界面。
+
+**提示词**
+
+```text
+制作一个名为“Mangrove Lights”的单文件交互式 WebGL 立体微缩景观（通过导入映射使用 Three.js r160 和 OrbitControls，不使用外部模型或纹理，界面语言为英语）。一座红树林岛屿坐落在圆角矩形水体中，整体约为 10×10 个单位、深 1.7 个单位，置于米白色底座上；场景显示在带有柔和接触阴影的透明画布上。
+
+岛屿采用程序化高度场：后方是干燥的林地，分布着浅滩泥地、溪流，以及位于前方角落的开阔入海口。面向摄像机的两面玻璃墙边缘生长着红树林，树木立于约 0.5 深的水中，因此支柱根会露出水面，也能透过玻璃看到。地形侧壁表现为带有根系纤维的分层泥土剖面。高潮线以下的泥土应保持深色、湿润且有光泽。
+
+树木约 140 棵：每棵都有短树干、8–11 条由 CatmullRom 管状几何体构成并伸入泥中的拱形支柱根、垂挂的气生根，以及由经过位移的 icosphere 团块组成的浓密树冠；每个实例都带有 AO 和深色的高光绿色。高潮线以下的树皮应带有藻类和藤壶留下的污渍。在泥滩上添加铅笔根状呼吸根；放置一间架在桩柱上的渔民小屋，配有亮起的窗户和灯，以及一座栈桥；添加一艘随波起伏的独木舟、涉水的白鹭、一只白天飞过的白鹭，以及在根系间游动并会躲避光标的银色鱼群。
+
+水体应包含折射、基于真实厚度的 Beer–Lambert 吸收、菲涅耳天空反射、屏幕空间反射和阳光闪光，岸边几乎不产生泡沫。使用 256² 的 GPU 波动方程涟漪模拟，对光标移动和点击作出响应。低空雾层应在光标周围分开。
+
+萤火虫：在树冠周围布置约 1600 个 Kuramoto 振子，使其与局部空间哈希平均场及全局场耦合；加入随位置变化的相位偏移，让同步闪光像波浪一样扫过森林。使用非对称闪光曲线，并在水体渲染完成后绘制带加法混合的点精灵，同时手动进行深度测试。通过镜像副本在水面显示倒影。两盏点光源随平均亮度脉动。光标会随机改变附近萤火虫的相位并将它们推开；点击会驱散更大范围内的萤火虫；它们随后漂回原位并重新同步。
+
+灯光：提供带月光的昼夜色彩方案、温暖的小屋灯光、ACES 色调映射和移轴效果。
+
+界面：品牌名为“bakau°”；主标题为“A forest that blinks in time.”；底部工具栏按钮为 Reset、Night/Day、High/Low tide、Tune 和 Fullscreen；设置面板包含 time、fireflies、pull to sync、mist、water color、tide、waves、ripples、clarity、light azimuth 和 tilt-shift；显示实时同步百分比和时钟；添加一条“How it's made”说明。页面主题在夜间变暗。加入自适应 DPR、面向触控设备的低细节模式、减少动态效果支持，以及 WebGL2 回退方案。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/mangrove-lights-interactive-webgl-diorama) · [查看原帖](https://x.com/vib3coded/status/2116024829639881137) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### 一二三，木头人：3D 生存游戏
@@ -4301,7 +4313,7 @@ AIContenders 发布了一篇相关对比文章，展示了这条用于共同任�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 380 条案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 381 条案例 →</a></strong></p>
 <p><sub>为保持 GitHub README 渲染流畅，这里仅展示最新 100 条案例。</sub></p>
 <br>
 </td></tr>

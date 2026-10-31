@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**380 · En yeni Astra istemleri**
+**381 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Örnekleri keşfet</summary>
 
-- [Three.js'te Voxel Codex](#2102956340482289944)
 - [Etkileşimli 3B jelibon narenciye dilimi](#2103062348168618280)
 - [Northbound: Etkileşimli Viking Uzun Gemisi Yolculuğu](#2103187935759655167)
 - [Keşfedilebilir sisli sonbahar Three.js deneyimi](#2103211135214256350)
@@ -146,32 +145,13 @@
 - [Şiddetli fırtınada animasyonlu deniz feneri](#2115204470573351126)
 - [Oasis Jelly: yalpalayan bir jel küpün içine hapsolmuş çöl vahası](#2115449826481463529)
 - [Neo-Kowloon Etkileşimli Neon Sokak Pazarı](#2115478001882374452)
+- [Mangrov Işıkları etkileşimli WebGL diyoraması](#2116024691533979940)
 - [Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu](#red-light-green-light)
 - [Golden Miner: 24 Seviyeli 3B Madencilik Oyunu](#golden-miner)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [Jöle Villa](#jelly-villa)
 
 </details>
-
-<a id="2102956340482289944"></a>
-
-### Three.js'te Voxel Codex
-
-[Arsh - 16 y/o builder](https://x.com/be_arsh) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102956340482289944"><img src="../assets/previews/99b2ff17cd26386c8263b76b551d227260be222bfa037b09d6e74de8c6522369.jpg" width="840" loading="lazy" alt="Three.js'te Voxel Codex"></a>
-
-Codex'in, herhangi bir beceri kullanılmadan sıfırdan oluşturulan voxel tabanlı bir Three.js temsilini talep eden, yeniden kullanılabilir bir yorum istemi.
-
-**İstem**
-
-```text
-Kendin oluştur: Three.js kullanarak Codex'i voxel'larla yap; her şeyi sıfırdan oluştur, hiçbir beceri kullanma.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102956340482289944) · [Orijinal gönderi](https://x.com/be_arsh/status/2102956424120979838) · [Örneklere dön](#all-prompts)
-
----
 
 <a id="2103062348168618280"></a>
 
@@ -4085,6 +4065,38 @@ Neo-Kowloon'da, tayfun gecesinde beş kata üst üste yayılan, tamamen etkileş
 
 ---
 
+<a id="2116024691533979940"></a>
+
+### Mangrov Işıkları etkileşimli WebGL diyoraması
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-30
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/mangrove-lights-interactive-webgl-diorama"><img src="../assets/previews/f005c999f808ff6cd285156dd93b9a0afcf1dc8db1206287eb6367099e9304de.jpg" width="840" loading="lazy" alt="Mangrov Işıkları etkileşimli WebGL diyoraması"></a>
+
+Yazarın paylaştığı bu istemin, ana gönderide hem Opus 5.5'e hem de GPT-6 Astra'ya verildiği belirtiliyor. İstem; prosedürel arazi ve ağaçlar, su simülasyonu, senkronize ateş böcekleri, yaban hayatı, gündüz/gece aydınlatması ve ayarlanabilir bir arayüz içeren etkileşimli bir Three.js/WebGL mangrov adası diyoraması istiyor.
+
+**İstem**
+
+```text
+"Mangrov Işıkları" adlı, tek dosyalı ve etkileşimli bir WebGL diyoraması oluşturun (import map üzerinden Three.js r160, OrbitControls, harici model veya doku yok, İngilizce arayüz). Krem renkli bir kaide üzerinde, yumuşak bir temas gölgesiyle şeffaf bir canvas'ın içinde duran, yaklaşık 10×10 birim genişliğinde ve 1,7 birim derinliğinde, köşeleri yuvarlatılmış dikdörtgen bir su bloğunun ortasına bir mangrov adası yerleştirin.
+
+Ada: arka kısımda kuru bir orman zemini, sığ çamur düzlükleri, dereler ve ön köşede açık bir koy bulunan prosedürel bir yükseklik alanı kullanın. Mangrov şeritleri, kameraya bakan iki cam duvar boyunca yaklaşık 0,5 birim derinliğindeki suda dursun; böylece payanda kökleri suyun üstünde ve camın içinden görünsün. Arazinin yan duvarları kök lifleri içeren katmanlı bir çamur kesiti olsun. Gelgitin yüksek olduğu çizginin altındaki çamur karanlık, ıslak ve parlak kalsın.
+
+Ağaçlar (yaklaşık 140 adet): her birinde kısa bir gövde; çamura uzanan, CatmullRom tüp geometrisiyle oluşturulmuş 8–11 kavisli payanda kökü; sarkan hava kökleri ve örnek başına AO uygulanmış, koyu parlak yeşil tonlara sahip, yer değiştirme uygulanmış ikosfer parçacıklarından oluşan yoğun bir taç bulunsun. Kabuğun gelgitin yüksek olduğu çizginin altındaki kısmı alg ve kaya midyesi lekeleriyle kaplı olsun. Düzlüklere kalem kök pnömatoforları ekleyin; kazıklar üzerinde duran, aydınlatılmış penceresi ve lambası bulunan bir balıkçı kulübesi ile bir iskele; dalgalar üzerinde sallanan bir kano; suda yürüyen ak balıkçıllar; gündüz uçan bir ak balıkçıl ve köklerin arasında yüzen, imleçten kaçan gümüş balığı sürüleri oluşturun.
+
+Su: kırılma, gerçek kalınlığa dayalı Beer–Lambert soğurması, Fresnel gökyüzü, ekran uzayı yansımaları, güneş parıltıları ve neredeyse hiç kıyı köpüğü kullanın. 256² boyutunda bir GPU dalga denklemi kırılma simülasyonu, imleç ve tıklamalara tepki versin. Alçak sis katmanları imlecin çevresinden ayrılsın.
+
+Ateş böcekleri: taçların çevresinde yaklaşık 1600 Kuramoto osilatörü bulunsun; bunlar yerel bir uzamsal karma ortalama alanına ve genel alana bağlansın. Senkronize parlamanın ormanda bir dalga gibi süpürülmesini sağlamak için konuma bağlı bir faz ofseti kullanın. Asimetrik bir parlama eğrisi ve sudan sonra çizilen, manuel derinlik testi kullanan eklemeli nokta sprite'ları kullanın. Yansımaları göstermek için aynalanmış kopyalar oluşturun. İki nokta ışığı ortalama parıltıyla titreşsin. İmleç, yakındaki ateş böceklerinin fazını rastgeleleştirip onları itsin; tıklama daha geniş bir alanı dağıtsın; ateş böcekleri başlangıç konumlarına doğru süzülüp yeniden senkronize olsun.
+
+Aydınlatma: ay ışığı, sıcak kulübe lambası, ACES ton eşleme ve tilt-shift içeren gündüz/gece paletleri kullanın.
+
+Arayüz: marka adı "bakau°"; başlık "Zamanında göz kırpan bir orman."; dock düğmeleri Sıfırla, Gece/Gündüz, Yüksek/Alçak gelgit, Ayarla ve Tam ekran; ayarlar panelinde (zaman, ateş böcekleri, senkronizasyon için çekim, sis, su rengi, gelgit, dalgalar, kırılmalar, berraklık, ışık azimutu, tilt-shift) seçenekleri bulunsun; canlı senkronizasyon yüzdesi ve saat ile "Nasıl yapıldı" notu gösterilsin. Sayfa teması gece kararsın. Uyarlanabilir DPR, dokunmatik cihazlar için düşük ayrıntı modu, azaltılmış hareket desteği ve bir WebGL2 geri dönüşü ekleyin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/mangrove-lights-interactive-webgl-diorama) · [Orijinal gönderi](https://x.com/vib3coded/status/2116024829639881137) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu
@@ -4356,7 +4368,7 @@ jared adına atıf yapılan yeni bir jelly-villa istemi yayımlayın; özgün ya
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 380 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 381 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

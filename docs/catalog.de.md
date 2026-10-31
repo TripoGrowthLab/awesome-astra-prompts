@@ -28,7 +28,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**380 · Neueste Astra-Prompts**
+**381 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Beispiele ansehen</summary>
 
-- [Voxel-Codex in Three.js](#2102956340482289944)
 - [Interaktive 3D-Zitrusgummischeibe](#2103062348168618280)
 - [Northbound: Interaktive Reise im Wikingerschiff](#2103187935759655167)
 - [Erkundbare neblige Herbstwelt mit Three.js](#2103211135214256350)
@@ -146,32 +145,13 @@
 - [Animierter Leuchtturm in einem heftigen Sturm](#2115204470573351126)
 - [Oasis Jelly: eine Wüstenoase in einem wackeligen Jelly-Würfel](#2115449826481463529)
 - [Interaktiver Neon-Straßenmarkt in Neo-Kowloon](#2115478001882374452)
+- [Interaktives WebGL-Diorama „Mangrove Lights“](#2116024691533979940)
 - [Rot, grünes Licht: 3D-Survival-Game](#red-light-green-light)
 - [Golden Miner: 3D-Bergbauspiel mit 24 Levels](#golden-miner)
 - [Crazy Tanks — 3D-Inselartillerie](#crazy-tanks-3d-island-artillery)
 - [Jelly-Villa](#jelly-villa)
 
 </details>
-
-<a id="2102956340482289944"></a>
-
-### Voxel-Codex in Three.js
-
-[Arsh - 16 y/o builder](https://x.com/be_arsh) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102956340482289944"><img src="../assets/previews/99b2ff17cd26386c8263b76b551d227260be222bfa037b09d6e74de8c6522369.jpg" width="840" loading="lazy" alt="Voxel-Codex in Three.js"></a>
-
-Ein wiederverwendbarer Prompt in Form eines Autorenkommentars, der eine voxelbasierte Three.js-Darstellung von Codex anfordert – von Grund auf und ohne Skills erstellt.
-
-**Prompt**
-
-```text
-Erstelle Codex in Three.js mit Voxeln. Erstelle alles von Grund auf und verwende keine Skills.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2102956340482289944) · [Originalbeitrag](https://x.com/be_arsh/status/2102956424120979838) · [Zurück zu den Beispielen](#all-prompts)
-
----
 
 <a id="2103062348168618280"></a>
 
@@ -4020,6 +4000,38 @@ ein vollständig interaktiver Three.js-Neon-Straßenmarkt, der sich während ein
 
 ---
 
+<a id="2116024691533979940"></a>
+
+### Interaktives WebGL-Diorama „Mangrove Lights“
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-30
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/mangrove-lights-interactive-webgl-diorama"><img src="../assets/previews/f005c999f808ff6cd285156dd93b9a0afcf1dc8db1206287eb6367099e9304de.jpg" width="840" loading="lazy" alt="Interaktives WebGL-Diorama „Mangrove Lights“"></a>
+
+Ein vom Autor geteilter Prompt, der laut Ausgangsbeitrag sowohl Opus 5.5 als auch GPT-6 Astra vorgelegt wurde. Gefordert ist ein interaktives Three.js-/WebGL-Diorama einer Mangroveninsel mit prozeduralem Terrain und prozeduralen Bäumen, Wassersimulation, synchronisierten Glühwürmchen, Wildtieren, Tag-/Nachtbeleuchtung und anpassbarer Benutzeroberfläche.
+
+**Prompt**
+
+```text
+Erstelle ein interaktives WebGL-Diorama in einer einzigen Datei namens „Mangrove Lights“ (Three.js r160 über eine Import Map, OrbitControls, keine externen Modelle oder Texturen, englische Benutzeroberfläche). Eine Mangroveninsel liegt in einem abgerundeten rechteckigen Wasserblock von etwa 10×10 Einheiten und 1,7 Einheiten Tiefe auf einem cremefarbenen Sockel, über einer transparenten Canvas mit einem weichen Kontaktschatten.
+
+Insel: ein prozedurales Heightfield mit trockenem Waldboden im hinteren Bereich, flachen Schlickflächen, Prielen und einer offenen Bucht an der vorderen Ecke. Entlang beider gläserner, zur Kamera gerichteter Wände stehen Mangroven in etwa 0,5 Einheiten tiefem Wasser, sodass die Stelzwurzeln über dem Wasser und durch das Glas sichtbar sind. Die Seitenwände des Terrains zeigen einen geschichteten Schlick-Querschnitt mit Wurzelfasern. Schlick unterhalb der Hochwasserlinie bleibt dunkel, nass und glänzend.
+
+Bäume (etwa 140): Jeder Baum besitzt einen kurzen Stamm, 8–11 bogenförmige Stelzwurzeln aus CatmullRom-Röhrengeometrie, die in den Schlick hineinreichen, hängende Luftwurzeln und eine dichte Krone aus verformten Icosphere-Objekten mit per Instanz berechneter AO und dunkel glänzenden Grüntönen. Die Rinde ist unterhalb der Hochwasserlinie von Algen und Seepocken gezeichnet. Füge Stiftwurzel-Pneumatophoren auf den Schlickflächen hinzu, eine auf Stelzen stehende Fischerhütte mit beleuchtetem Fenster und Lampe sowie einen Laufsteg, ein Kanu, das auf den Wellen schaukelt, watende Reiher, einen tagsüber vorbeifliegenden Reiher und Schwärme silberner Fische, die zwischen den Wurzeln schwimmen und vor dem Cursor fliehen.
+
+Wasser: Brechung, Beer-Lambert-Absorption aus der tatsächlichen Wassertiefe, Fresnel-Himmel, Screen-Space-Reflexionen, Sonnenreflexe und nahezu kein Uferschaum. Eine GPU-Wellengleichungs-Simulation mit 256² Pixeln reagiert auf den Cursor und Klicks. Niedrige Nebelschichten weichen um den Cursor herum zurück.
+
+Glühwürmchen: etwa 1600 Kuramoto-Oszillatoren um die Baumkronen, gekoppelt an ein lokales räumliches Hash-Mittelfeld und das globale Feld, mit einem positionsabhängigen Phasenversatz, sodass der synchronisierte Lichtblitz wie eine Welle durch den Wald läuft. Verwende eine asymmetrische Blitzkurve und additive Point Sprites, die nach dem Wasser mit manuellem Tiefentest gezeichnet werden. Gespiegelte Kopien zeigen die Reflexionen auf dem Wasser. Zwei Punktlichter pulsieren mit der durchschnittlichen Leuchtintensität. Der Cursor setzt die Phase nahe gelegener Glühwürmchen zufällig und stößt sie weg; ein Klick zerstreut einen größeren Bereich. Anschließend driften sie zurück und synchronisieren sich erneut.
+
+Beleuchtung: Tag-/Nachtpaletten mit Mondlicht, einer warmen Hüttenlampe, ACES-Tonemapping und Tilt-Shift.
+
+Benutzeroberfläche: Marke „bakau°“; Überschrift „A forest that blinks in time.“; Dock-Schaltflächen Reset, Night/Day, High/Low tide, Tune und Fullscreen; ein Einstellungsbereich (time, fireflies, pull to sync, mist, water color, tide, waves, ripples, clarity, light azimuth, tilt-shift); eine Live-Anzeige der Synchronisation in Prozent und eine Uhr; ein Hinweis „How it's made“. Das Seitenthema wird nachts dunkel. Integriere eine adaptive DPR, einen Modus mit niedriger Detailstufe für Touch-Geräte, Unterstützung für reduzierte Bewegungen und einen WebGL2-Fallback.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/mangrove-lights-interactive-webgl-diorama) · [Originalbeitrag](https://x.com/vib3coded/status/2116024829639881137) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Rot, grünes Licht: 3D-Survival-Game
@@ -4291,7 +4303,7 @@ Einen neuen Jelly-Villa-Prompt mit Credit für jared veröffentlichen, den urspr
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 380 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 381 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>

@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**380 · Prompt Astra mới nhất**
+**381 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Khám phá ví dụ</summary>
 
-- [Codex dạng voxel trong Three.js](#2102956340482289944)
 - [Lát cam dẻo 3D tương tác](#2103062348168618280)
 - [Hướng Bắc: Hành trình tương tác trên thuyền dài Viking](#2103187935759655167)
 - [Trải nghiệm Three.js mùa thu mù sương có thể khám phá](#2103211135214256350)
@@ -146,32 +145,13 @@
 - [Hải đăng hoạt hình giữa cơn bão dữ dội](#2115204470573351126)
 - [Ốc đảo Thạch rau câu: ốc đảo sa mạc nằm trong một khối thạch rau câu rung rinh](#2115449826481463529)
 - [Chợ phố đèn neon Neo-Kowloon tương tác](#2115478001882374452)
+- [Mô hình tương tác WebGL &quot;Mangrove Lights&quot;](#2116024691533979940)
 - [Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D](#red-light-green-light)
 - [Golden Miner: Game khai thác vàng 3D 24 cấp độ](#golden-miner)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
 - [Biệt thự Thạch rau câu](#jelly-villa)
 
 </details>
-
-<a id="2102956340482289944"></a>
-
-### Codex dạng voxel trong Three.js
-
-[Arsh - 16 y/o builder](https://x.com/be_arsh) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102956340482289944"><img src="../assets/previews/99b2ff17cd26386c8263b76b551d227260be222bfa037b09d6e74de8c6522369.jpg" width="840" loading="lazy" alt="Codex dạng voxel trong Three.js"></a>
-
-Một prompt bình luận tác giả có thể tái sử dụng, yêu cầu tạo Codex trong Three.js dưới dạng voxel, dựng hoàn toàn từ đầu mà không dùng skill.
-
-**Prompt**
-
-```text
-tự tạo Codex trong Three.js bằng voxel, dựng mọi thứ từ đầu, không dùng bất kỳ skill nào
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102956340482289944) · [Bài đăng gốc](https://x.com/be_arsh/status/2102956424120979838) · [Về danh sách ví dụ](#all-prompts)
-
----
 
 <a id="2103062348168618280"></a>
 
@@ -4095,6 +4075,38 @@ một chợ phố đèn neon Three.js tương tác hoàn chỉnh, trải dài qu
 
 ---
 
+<a id="2116024691533979940"></a>
+
+### Mô hình tương tác WebGL &quot;Mangrove Lights&quot;
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-30
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/mangrove-lights-interactive-webgl-diorama"><img src="../assets/previews/f005c999f808ff6cd285156dd93b9a0afcf1dc8db1206287eb6367099e9304de.jpg" width="840" loading="lazy" alt="Mô hình tương tác WebGL &quot;Mangrove Lights&quot;"></a>
+
+Prompt do tác giả chia sẻ; bài đăng gốc cho biết prompt này được cung cấp cho cả Opus 5.5 và GPT-6 Astra. Prompt yêu cầu tạo một mô hình đảo rừng ngập mặn tương tác bằng Three.js/WebGL, với địa hình và cây tạo theo quy trình, mô phỏng nước, đom đóm đồng bộ, động vật hoang dã, ánh sáng ngày/đêm và giao diện có thể điều chỉnh.
+
+**Prompt**
+
+```text
+Tạo một mô hình WebGL tương tác trong một tệp duy nhất có tên "Mangrove Lights" (Three.js r160 thông qua import map, OrbitControls, không dùng mô hình hoặc kết cấu bề mặt bên ngoài, giao diện tiếng Anh). Một hòn đảo rừng ngập mặn nằm trong một khối nước hình chữ nhật bo góc, kích thước khoảng 10×10 đơn vị và sâu 1,7 đơn vị, đặt trên bệ màu kem, phía trên canvas trong suốt với bóng tiếp xúc mềm.
+
+Đảo gồm một địa hình độ cao tạo theo quy trình, với nền rừng khô ở phía sau, các bãi bùn nông, lạch nước và một cửa vịnh mở ở góc trước. Các dải rừng ngập mặn mọc trong vùng nước sâu khoảng 0,5 đơn vị dọc theo hai vách kính hướng về phía camera, để bộ rễ chống lộ ra trên mặt nước và xuyên qua lớp kính. Vách bên của địa hình là mặt cắt bùn nhiều lớp với các sợi rễ. Phần bùn dưới mực triều cao luôn tối màu, ướt và bóng.
+
+Cây (khoảng 140 cây): mỗi cây có thân ngắn; 8–11 rễ chống uốn cong được dựng bằng hình học ống CatmullRom, vươn xuống bùn; rễ khí sinh rủ xuống; và tán dày gồm các khối icosphere biến dạng, với AO theo từng đối tượng và sắc xanh đậm bóng. Phần vỏ cây dưới mực triều cao có vết tảo và hà bám. Thêm các rễ thở dạng bút chì trên bãi bùn, một chòi của ngư dân dựng trên cọc với cửa sổ và đèn sáng cùng lối đi bằng ván, một chiếc xuồng nhấp nhô theo sóng, những con cò lội nước, một con cò bay qua vào ban ngày và các đàn cá bạc bơi giữa những bộ rễ rồi bỏ chạy khi con trỏ đến gần.
+
+Nước: khúc xạ, hấp thụ Beer–Lambert theo độ dày thực, bầu trời Fresnel, phản xạ không gian màn hình, ánh nắng lấp lánh và hầu như không có bọt ven bờ. Mô phỏng gợn sóng bằng phương trình sóng trên GPU, độ phân giải 256², phản hồi theo con trỏ và thao tác nhấp. Các lớp sương thấp tách ra quanh con trỏ.
+
+Đom đóm: khoảng 1600 bộ dao động Kuramoto quanh các tán cây, liên kết với trường trung bình băm không gian cục bộ cùng trường toàn cục, kèm độ lệch pha phụ thuộc vị trí để ánh chớp đồng bộ quét qua khu rừng như một làn sóng. Dùng đường cong chớp bất đối xứng và các sprite điểm cộng sáng được vẽ sau mặt nước, với phép kiểm tra độ sâu thủ công. Các bản sao đối xứng hiển thị phần phản chiếu trên mặt nước. Hai đèn điểm phát xung theo độ sáng trung bình. Con trỏ sẽ ngẫu nhiên hóa pha của những con đom đóm ở gần và đẩy chúng ra xa; thao tác nhấp sẽ làm xáo trộn một khu vực rộng hơn; sau đó chúng từ từ trở về vị trí cũ và đồng bộ lại.
+
+Ánh sáng: bảng màu ngày/đêm với ánh trăng, đèn chòi màu ấm, ánh xạ tông màu ACES và hiệu ứng tilt-shift.
+
+Giao diện: thương hiệu "bakau°"; tiêu đề "A forest that blinks in time."; các nút trong thanh điều khiển gồm Reset, Night/Day, High/Low tide, Tune và Fullscreen; bảng cài đặt (thời gian, đom đóm, pull to sync, sương, màu nước, thủy triều, sóng, gợn sóng, độ trong, phương vị ánh sáng, tilt-shift); phần trăm đồng bộ và đồng hồ hiển thị trực tiếp; ghi chú "How it's made". Chủ đề trang chuyển sang tối vào ban đêm. Bao gồm DPR thích ứng, chế độ chi tiết thấp cho thiết bị cảm ứng, hỗ trợ giảm chuyển động và phương án dự phòng WebGL2.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/mangrove-lights-interactive-webgl-diorama) · [Bài đăng gốc](https://x.com/vib3coded/status/2116024829639881137) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D
@@ -4366,7 +4378,7 @@ Xuất bản prompt jelly-villa mới, ghi công jared, ghi tác giả gốc tro
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 380 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 381 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

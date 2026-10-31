@@ -28,7 +28,7 @@
 **다음 게임, 장면, 인터랙티브 세계를 위한 아이디어를 찾아보세요.**
 
 
-**380 · 최신 Astra 프롬프트**
+**381 · 최신 Astra 프롬프트**
 
 ## 추천 작품
 
@@ -50,7 +50,6 @@
 <details>
 <summary>사례 둘러보기</summary>
 
-- [Three.js로 구현한 복셀 Codex](#2102956340482289944)
 - [인터랙티브 3D 구미 시트러스 슬라이스](#2103062348168618280)
 - [Northbound: 인터랙티브 바이킹 롱십 여정](#2103187935759655167)
 - [안개 낀 가을의 탐험형 Three.js 경험](#2103211135214256350)
@@ -146,32 +145,13 @@
 - [거센 폭풍 속 등대 애니메이션](#2115204470573351126)
 - [Oasis Jelly: 출렁이는 젤리 큐브에 봉인된 사막의 오아시스](#2115449826481463529)
 - [인터랙티브 네오카우룽 네온 야시장](#2115478001882374452)
+- [Mangrove Lights 인터랙티브 WebGL 디오라마](#2116024691533979940)
 - [무궁화꽃이 피었습니다: 3D 서바이벌 게임](#red-light-green-light)
 - [Golden Miner: 24레벨 3D 채굴 게임](#golden-miner)
 - [Crazy Tanks — 3D 아일랜드 포병전](#crazy-tanks-3d-island-artillery)
 - [젤리 빌라](#jelly-villa)
 
 </details>
-
-<a id="2102956340482289944"></a>
-
-### Three.js로 구현한 복셀 Codex
-
-[Arsh - 16 y/o builder](https://x.com/be_arsh) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102956340482289944"><img src="../assets/previews/99b2ff17cd26386c8263b76b551d227260be222bfa037b09d6e74de8c6522369.jpg" width="840" loading="lazy" alt="Three.js로 구현한 복셀 Codex"></a>
-
-스킬을 사용하지 않고 처음부터 제작한 복셀 기반 Three.js Codex 구현을 요청하는 재사용 가능한 작성자 댓글용 프롬프트입니다.
-
-**프롬프트**
-
-```text
-복셀을 사용해 Three.js로 Codex를 직접 만들어 주세요. 모든 요소를 처음부터 제작하고, 스킬은 사용하지 마세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102956340482289944) · [원본 게시물](https://x.com/be_arsh/status/2102956424120979838) · [사례 목록으로](#all-prompts)
-
----
 
 <a id="2103062348168618280"></a>
 
@@ -4086,6 +4066,38 @@ Qwen 4(Kerria)와 GPT 6 Astra를 비교하는 데 사용된 프롬프트입니�
 
 ---
 
+<a id="2116024691533979940"></a>
+
+### Mangrove Lights 인터랙티브 WebGL 디오라마
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-30
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/mangrove-lights-interactive-webgl-diorama"><img src="../assets/previews/f005c999f808ff6cd285156dd93b9a0afcf1dc8db1206287eb6367099e9304de.jpg" width="840" loading="lazy" alt="Mangrove Lights 인터랙티브 WebGL 디오라마"></a>
+
+루트 게시물에 따르면 Opus 5.5와 GPT-6 Astra에 모두 전달한 작성자 공유 프롬프트입니다. 절차적 지형과 나무, 물 시뮬레이션, 동기화된 반딧불이, 야생 동물, 주야간 조명, 조절 가능한 인터페이스를 갖춘 인터랙티브 Three.js/WebGL 맹그로브 섬 디오라마를 요청합니다.
+
+**프롬프트**
+
+```text
+"Mangrove Lights"라는 이름의 단일 파일 인터랙티브 WebGL 디오라마를 구축하세요( import map을 통한 Three.js r160, OrbitControls 사용, 외부 모델이나 텍스처 없음, 영어 UI). 맹그로브 섬은 약 10×10 단위, 깊이 1.7의 모서리가 둥근 직사각형 수조 안에 놓이며, 크림색 받침대 위 투명 캔버스와 부드러운 접촉 그림자를 사용합니다.
+
+섬은 절차적으로 생성한 높이 필드로 구성하고, 뒤쪽에는 건조한 숲 바닥, 얕은 진흙 평지와 수로, 앞쪽 모서리에는 탁 트인 만을 배치하세요. 카메라를 향한 양쪽 유리 벽을 따라 약 0.5 깊이의 물에 맹그로브 군락을 세워, 지주근이 물 위와 유리 너머로 드러나게 하세요. 지형의 측면 벽은 뿌리 섬유가 보이는 층층이 쌓인 진흙 단면으로 만드세요. 만조선 아래의 진흙은 어둡고 젖은 광택을 유지해야 합니다.
+
+나무는 약 140그루로 구성하세요. 각 나무에는 짧은 줄기, 진흙 속까지 뻗는 CatmullRom 튜브 지오메트리 기반의 아치형 지주근 8~11개, 늘어진 공중 뿌리, 인스턴스별 AO와 어둡고 광택 있는 녹색을 적용한 변형 icosphere 블롭으로 이루어진 울창한 수관을 만드세요. 만조선 아래의 수피에는 조류와 따개비가 붙은 흔적을 표현하세요. 평지에는 연필뿌리형 호흡근을 추가하고, 불이 켜진 창문과 램프가 있는 수상 가옥 및 나무 데크, 파도에 따라 흔들리는 카누, 물가를 걷는 백로, 낮에 날아가는 백로, 뿌리 사이를 헤엄치며 커서를 피해 달아나는 은빛 물고기 떼를 배치하세요.
+
+물에는 굴절, 실제 두께에 따른 Beer–Lambert 흡수, 프레넬 하늘 반사, 화면 공간 반사, 햇빛 반짝임을 적용하고, 물가의 포말은 거의 표시하지 마세요. 256² 해상도의 GPU 파동 방정식 잔물결 시뮬레이션이 커서와 클릭에 반응하도록 하세요. 낮은 안개 레이어는 커서 주변에서 갈라지게 하세요.
+
+반딧불이는 수관 주변에 약 1600개의 Kuramoto 발진기로 배치하고, 로컬 공간 해시 평균장과 전역장을 결합하세요. 위치에 따라 위상 오프셋을 적용해 동기화된 섬광이 파도처럼 숲을 가로질러 흐르게 하세요. 비대칭 섬광 곡선을 사용하고, 물 렌더링 이후 수동 깊이 테스트를 적용한 가산 블렌딩 포인트 스프라이트로 그리세요. 물 위에는 반사된 모습이 보이도록 미러링한 복사본을 표시하세요. 두 개의 포인트 라이트는 평균 발광량에 맞춰 맥동하게 하세요. 커서는 주변 반딧불이의 위상을 무작위화하고 바깥쪽으로 밀어내며, 클릭하면 더 넓은 영역으로 흩어지게 하세요. 반딧불이는 다시 원래 위치로 천천히 돌아가며 재동기화되어야 합니다.
+
+조명에는 달빛과 따뜻한 오두막 램프를 포함한 주야간 팔레트, ACES 톤 매핑, 틸트 시프트를 적용하세요.
+
+UI 브랜드는 "bakau°"로 지정하고, 헤드라인은 "A forest that blinks in time."으로 표시하세요. 도크 버튼에는 Reset, Night/Day, High/Low tide, Tune, Fullscreen을 배치하고, 설정 패널에는 시간, 반딧불이, 동기화 당기기, 안개, 물 색상, 조수, 파도, 잔물결, 선명도, 광원 방위각, 틸트 시프트를 포함하세요. 실시간 동기화율과 시계를 표시하고, "How it's made" 메모를 추가하세요. 밤에는 페이지 테마가 어두워지게 하세요. 적응형 DPR, 터치 기기를 위한 저세부 모드, 모션 감소 지원, WebGL2 폴백을 포함하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/mangrove-lights-interactive-webgl-diorama) · [원본 게시물](https://x.com/vib3coded/status/2116024829639881137) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### 무궁화꽃이 피었습니다: 3D 서바이벌 게임
@@ -4357,7 +4369,7 @@ jared를 크레딧으로 표시한 새 jelly-villa 프롬프트를 게시하고,
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 380개 보기 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 381개 보기 →</a></strong></p>
 <p><sub>GitHub README가 원활하게 렌더링되도록 최신 사례 100개만 표시합니다.</sub></p>
 <br>
 </td></tr>

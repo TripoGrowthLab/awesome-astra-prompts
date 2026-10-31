@@ -28,7 +28,7 @@
 **為你的下一個遊戲、場景或互動世界尋找靈感。**
 
 
-**380 · 最新 Astra 提示詞**
+**381 · 最新 Astra 提示詞**
 
 ## 精選作品
 
@@ -50,7 +50,6 @@
 <details>
 <summary>瀏覽案例</summary>
 
-- [使用 Three.js 製作體素 Codex](#2102956340482289944)
 - [互動式 3D 果凍柑橘切片](#2103062348168618280)
 - [向北：互動維京長船之旅](#2103187935759655167)
 - [可探索的霧雨秋日 Three.js 體驗](#2103211135214256350)
@@ -146,32 +145,13 @@
 - [暴風雨中的動畫燈塔](#2115204470573351126)
 - [Oasis Jelly：封存在搖晃果凍立方體中的沙漠綠洲](#2115449826481463529)
 - [新九龍互動霓虹街市](#2115478001882374452)
+- [紅樹林之光互動式 WebGL 立體場景](#2116024691533979940)
 - [紅燈綠燈：3D 生存遊戲](#red-light-green-light)
 - [Golden Miner：24 關 3D 採礦遊戲](#golden-miner)
 - [Crazy Tanks — 3D 島嶼火砲戰](#crazy-tanks-3d-island-artillery)
 - [果凍別墅](#jelly-villa)
 
 </details>
-
-<a id="2102956340482289944"></a>
-
-### 使用 Three.js 製作體素 Codex
-
-[Arsh - 16 y/o builder](https://x.com/be_arsh) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102956340482289944"><img src="../assets/previews/99b2ff17cd26386c8263b76b551d227260be222bfa037b09d6e74de8c6522369.jpg" width="840" loading="lazy" alt="使用 Three.js 製作體素 Codex"></a>
-
-可重複使用的作者留言提示詞，要求以體素建立 Codex 的 Three.js 版本，從零開始製作，不使用任何技能。
-
-**提示詞**
-
-```text
-自行製作使用體素呈現的 Three.js Codex，所有內容都從零開始製作，不要使用任何技能
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102956340482289944) · [查看原文](https://x.com/be_arsh/status/2102956424120979838) · [返回案例導覽](#all-prompts)
-
----
 
 <a id="2103062348168618280"></a>
 
@@ -4086,6 +4066,38 @@ AIContenders 的比較文章收錄了這個提示詞，供 GPT-6 Astra 與 Claud
 
 ---
 
+<a id="2116024691533979940"></a>
+
+### 紅樹林之光互動式 WebGL 立體場景
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-10-30
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/mangrove-lights-interactive-webgl-diorama"><img src="../assets/previews/f005c999f808ff6cd285156dd93b9a0afcf1dc8db1206287eb6367099e9304de.jpg" width="840" loading="lazy" alt="紅樹林之光互動式 WebGL 立體場景"></a>
+
+作者分享的提示詞；根貼文表示這段提示詞同時提供給 Opus 5.5 與 GPT-6 Astra。它要求製作一個互動式 Three.js/WebGL 紅樹林島嶼立體場景，包含程序化地形與樹木、水體模擬、同步螢火蟲、野生動物、日夜光照，以及可調整的介面。
+
+**提示詞**
+
+```text
+製作一個名為「Mangrove Lights」的單檔互動式 WebGL 立體場景（透過 import map 使用 Three.js r160、OrbitControls、不使用外部模型或貼圖，介面使用英文）。一座紅樹林島嶼位於圓角矩形水體之中，尺寸約為 10×10 單位、深度 1.7，放在米白色底座上；場景呈現在具柔和接觸陰影的透明畫布上。
+
+島嶼採用程序化高度場，後方是乾燥的森林地表，並設有淺泥灘、溪流與前方角落的開放式入口。面向鏡頭的兩面玻璃牆旁，紅樹林邊緣生長在約 0.5 單位深的水中，讓支柱根露出水面，也能透過玻璃看見。地形側壁呈現帶有根纖維的分層泥土剖面。高潮線以下的泥土維持深色、濕潤且光澤明顯。
+
+樹木（約 140 棵）：每棵都有短樹幹、8–11 根以 CatmullRom 管狀幾何體製作並伸入泥中的拱形支柱根、垂掛的氣根，以及由位移 icosphere 團塊構成的茂密樹冠；每個實例都要有 AO，並使用深色且具光澤的綠色。高潮線以下的樹皮帶有藻類與藤壺污痕。在泥灘上加入筆根狀呼吸根；設置一間架高且有亮窗與燈具的漁夫小屋，並連接棧道；一艘獨木舟隨波起伏；幾隻涉水白鷺，以及一隻在白天飛過的白鷺；成群銀色魚群在根系間游動，並躲避游標。
+
+水體需要具備折射、根據實際厚度計算的 Beer–Lambert 吸收、菲涅耳天空反射、螢幕空間反射、陽光閃光，以及幾乎沒有的岸邊泡沫。使用 256² 的 GPU 波浪方程漣漪模擬，對游標與點擊做出反應。低矮霧層會在游標周圍分開。
+
+螢火蟲：在樹冠周圍配置約 1600 個 Kuramoto 振盪器，透過局部空間雜湊平均場與全域場耦合，並加入依位置變化的相位偏移，讓同步閃爍像波浪一樣掃過森林。使用非對稱閃爍曲線，以及在水體繪製完成後再繪製、並採用手動深度測試的加法式點精靈。鏡像副本會在水面呈現倒影。兩盞點光源會隨平均光芒脈動。游標會將附近螢火蟲的相位隨機化並推開；點擊會驅散更大範圍的螢火蟲；牠們會慢慢回到原位並重新同步。
+
+光照：提供包含月光的日夜色盤、溫暖的小屋燈光、ACES 色調映射與移軸效果。
+
+介面：品牌名稱為「bakau°」；標題為「一座隨節奏閃爍的森林。」；底部工具列按鈕包括重設、夜間／日間、大潮／小潮、調整與全螢幕；設定面板包含時間、螢火蟲、拉動同步、霧氣、水色、潮汐、波浪、漣漪、清晰度、光源方位角與移軸效果；顯示即時同步百分比與時鐘；加入「製作方式」說明。頁面主題在夜間切換為深色。加入自適應 DPR、適用於觸控裝置的低細節模式、減少動態效果支援，以及 WebGL2 備援。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/mangrove-lights-interactive-webgl-diorama) · [查看原文](https://x.com/vib3coded/status/2116024829639881137) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### 紅燈綠燈：3D 生存遊戲
@@ -4357,7 +4369,7 @@ yacht 會沿著封閉路線自動前進，速度約為每秒 0.38–0.48 個場�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 380 個案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 381 個案例 →</a></strong></p>
 <p><sub>為保持 GitHub README 渲染流暢，這裡僅展示最新 100 個案例。</sub></p>
 <br>
 </td></tr>
