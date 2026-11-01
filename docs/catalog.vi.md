@@ -28,14 +28,14 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**381 · Prompt Astra mới nhất**
+**383 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
 <table>
 <tr>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/golden-miner"><img src="../assets/featured/golden-miner.webp" width="420" loading="lazy" alt="Golden Miner: Game khai thác vàng 3D 24 cấp độ"></a><br><strong><a href="#golden-miner">Golden Miner: Game khai thác vàng 3D 24 cấp độ</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="#golden-miner">Prompt →</a></td>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/featured/crazy-tanks-3d-island-artillery.webp" width="420" loading="lazy" alt="Crazy Tanks — Pháo binh đảo 3D"></a><br><strong><a href="#crazy-tanks-3d-island-artillery">Crazy Tanks — Pháo binh đảo 3D</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="#crazy-tanks-3d-island-artillery">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/featured/crazy-tanks-3d-island-artillery.webp" width="420" loading="lazy" alt="Crazy Tanks — Pháo binh đảo 3D"></a><br><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/crazy-tanks-3d-island-artillery">Crazy Tanks — Pháo binh đảo 3D</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="https://www.tripo3d.ai/vi/3d-prompts/crazy-tanks-3d-island-artillery">Prompt →</a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/vi/3d-prompts/battle-city-3d"><img src="../assets/featured/battle-city-3d.webp" width="420" loading="lazy" alt="Battle City 3D: Phòng thủ xe tăng vô tận"></a><br><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/battle-city-3d">Battle City 3D: Phòng thủ xe tăng vô tận</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="https://www.tripo3d.ai/vi/3d-prompts/battle-city-3d">Prompt →</a></td>
@@ -50,7 +50,6 @@
 <details>
 <summary>Khám phá ví dụ</summary>
 
-- [Lát cam dẻo 3D tương tác](#2103062348168618280)
 - [Hướng Bắc: Hành trình tương tác trên thuyền dài Viking](#2103187935759655167)
 - [Trải nghiệm Three.js mùa thu mù sương có thể khám phá](#2103211135214256350)
 - [STILLWATER — Trải nghiệm đầm lầy ánh trăng trên trình duyệt](#2103308083242082314)
@@ -146,82 +145,13 @@
 - [Ốc đảo Thạch rau câu: ốc đảo sa mạc nằm trong một khối thạch rau câu rung rinh](#2115449826481463529)
 - [Chợ phố đèn neon Neo-Kowloon tương tác](#2115478001882374452)
 - [Mô hình tương tác WebGL &quot;Mangrove Lights&quot;](#2116024691533979940)
+- [Đảo rừng ngập mặn tương tác với động vật hoang dã chuyển động](#2116210452594401618)
+- [Thế giới mô phỏng thành phố 3D voxel thời gian thực](#2116350947467440157)
 - [Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D](#red-light-green-light)
 - [Golden Miner: Game khai thác vàng 3D 24 cấp độ](#golden-miner)
-- [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
 - [Biệt thự Thạch rau câu](#jelly-villa)
 
 </details>
-
-<a id="2103062348168618280"></a>
-
-### Lát cam dẻo 3D tương tác
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103062348168618280"><img src="../assets/previews/41edd4fdcfd514cd2e4a41c686561adaecd016ec2c1476bcd941a222a86a47ec.jpg" width="840" loading="lazy" alt="Lát cam dẻo 3D tương tác"></a>
-
-Tác giả bài đăng đã chia sẻ prompt này trong một bài so sánh Claude Opus 5.5 và ChatGPT-6 Astra. Prompt yêu cầu một mô phỏng vật thể mềm WebGPU độc lập cho lát cam dẻo có thể biến dạng, hỗ trợ tương tác bằng cảm ứng và chuột, hình học tạo theo quy trình, hiển thị bằng shader và các tùy chọn điều khiển mô phỏng.
-
-**Prompt**
-
-```text
-Tạo một lát cam dẻo 3D đẹp mắt, có thể tương tác bằng WebGPU. Cung cấp toàn bộ trải nghiệm trong một tệp HTML độc lập duy nhất, với JavaScript và shader WGSL được nhúng.
-
-Đây phải là mô phỏng 3D thời gian thực, không phải video, hình ảnh hay hoạt ảnh lặp.
-
-APPEARANCE
-
-Tạo một lát cam dày hình bán nguyệt với phần tép mọng nước bán trong suốt, tám múi riêng biệt, các màng bên trong mảnh, những bong bóng li ti, một lớp cùi trắng nhạt và vỏ cam mềm.
-
-Tạo vẻ ngoài như kẹo dẻo cao cấp: màu sắc bão hòa, điểm sáng bóng, ánh sáng xuyên qua phần tép, khúc xạ thuyết phục và bóng tiếp xúc mềm. Tránh bloom quá mức, màu bị nhợt hoặc vẻ ngoài như nhựa cứng.
-
-Sử dụng phông nền studio sáng, ấm và giao diện biên tập gọn gàng với nhiều khoảng trắng. Thêm tiêu đề serif in nghiêng cỡ lớn “Citrus Jelly.” Giữ các điều khiển nhỏ gọn và để lát cam luôn hiển thị rõ ràng.
-
-VẬT LÝ VẬT THỂ MỀM
-
-Cảm giác như thạch là yếu tố quan trọng nhất.
-
-- Dùng chuột hoặc ngón tay để nắm bất kỳ phần nào của lát cam.
-- Kéo, nhấc, kéo giãn, xoắn rồi thả nó ra.
-- Biến dạng phải mang tính cục bộ: kéo một mép sẽ làm phần tép gần đó giãn ra, trong khi phần còn lại chuyển động theo một cách tự nhiên.
-- Sau khi thả, lát cam phải rung lắc, vượt quá vị trí cân bằng rồi dần trở lại hình dạng ban đầu.
-- Bao gồm trọng lực, quán tính, lực giảm chấn, va chạm với mặt đất và độ nảy mềm.
-- Duy trì thể tích ở mức gần đúng và ngăn lưới bị sụp hoặc lộn mặt vào trong.
-- Làm phần vỏ cứng hơn phần tép một chút.
-- Các múi bên trong, màng và bong bóng phải biến dạng theo mà không trôi ra ngoài thân lát cam.
-
-Sử dụng bộ giải vật thể mềm thể tích ổn định, chẳng hạn lưới tứ diện với các ràng buộc XPBD. Không mô phỏng độ mềm bằng cách chỉ phóng to, thu nhỏ hoặc xoay toàn bộ đối tượng.
-
-CONTROLS
-
-Bao gồm ba thiết lập màu: Cam, Chanh và Ruby.
-
-Thêm:
-- Thanh trượt Độ cứng.
-- Thanh trượt Lực giảm chấn bên trong.
-- Nút “Đẩy nhẹ”.
-- Nút Đặt lại.
-- Ô chọn Tốc độ 1/4.
-- Ô chọn Hiện lưới.
-- Nút Tạm dừng/tiếp tục.
-
-Hiển thị các thông số trực tiếp nhỏ cho khối lượng, phần trăm thể tích ở trạng thái nghỉ và động năng.
-
-YÊU CẦU KỸ THUẬT
-
-Sử dụng kết xuất WebGPU thực sự với shader WGSL. Tạo toàn bộ hình học và chi tiết hình ảnh theo quy trình, không dùng mô hình hoặc tệp hình ảnh nhập vào.
-
-Tách độc lập việc cập nhật mô phỏng khỏi tốc độ khung hình kết xuất. Hỗ trợ thiết bị máy tính và thiết bị cảm ứng. Hiển thị thông báo dự phòng rõ ràng nếu WebGPU không khả dụng.
-
-Kiểm thử thao tác kéo mạnh, thả liên tiếp, toàn bộ điều khiển và màn hình hẹp. Khắc phục vật lý không ổn định, hình học bị lỗi và hiện tượng bất thường trong hình ảnh trước khi bàn giao tệp HTML hoàn chỉnh.
-
-Kết quả phải mang lại cảm giác như một thí nghiệm kẹo nhỏ bé, giàu tính tương tác và thực sự thú vị khi chơi.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103062348168618280) · [Bài đăng gốc](https://x.com/vib3coded/status/2103062415533371646) · [Về danh sách ví dụ](#all-prompts)
-
----
 
 <a id="2103187935759655167"></a>
 
@@ -4107,6 +4037,168 @@ Giao diện: thương hiệu "bakau°"; tiêu đề "A forest that blinks in tim
 
 ---
 
+<a id="2116210452594401618"></a>
+
+### Đảo rừng ngập mặn tương tác với động vật hoang dã chuyển động
+
+[EnzoXbt](https://x.com/Enzoxbt01) · 2026-10-30
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-mangrove-island-threejs"><img src="../assets/previews/00d9101a825b11da7fc8cb19535f51f6ea3ce81ec35761331b5dee9ff805a636.jpg" width="840" loading="lazy" alt="Đảo rừng ngập mặn tương tác với động vật hoang dã chuyển động"></a>
+
+Trải nghiệm đảo rừng ngập mặn tương tác được xây dựng bằng Three.js và WebGL, với shader nước tùy chỉnh, động vật hoang dã chuyển động và những đàn đom đóm đồng bộ.
+
+**Prompt**
+
+```text
+Xây dựng một đảo rừng ngập mặn tương tác bằng Three.js và WebGL, với shader nước tùy chỉnh, động vật hoang dã chuyển động và những đàn đom đóm đồng bộ.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-mangrove-island-threejs) · [Bài đăng gốc](https://x.com/Enzoxbt01/status/2116210452594401618) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2116350947467440157"></a>
+
+### Thế giới mô phỏng thành phố 3D voxel thời gian thực
+
+[CF长风](https://x.com/cfenghub) · 2026-10-31
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/voxel-city-real-time-3d-simulation"><img src="../assets/previews/1af329f1746ee2b46babc4675df8f583ff5fd0ab8ed41c93845dd01c86f41f7f.jpg" width="840" loading="lazy" alt="Thế giới mô phỏng thành phố 3D voxel thời gian thực"></a>
+
+Prompt tham khảo được tác giả công khai với ghi chú “Tham khảo prompt dưới đây” trong bài đăng so sánh mô phỏng thành phố trên GPT6-sol-max và GROK4.7-XHIGH. Prompt yêu cầu tạo từ đầu một dự án Three.js một trang có thể chạy trực tiếp: một thành phố voxel thu nhỏ với các tòa nhà, đường sá, phương tiện, người đi bộ và các hệ thống động liên tục, đồng thời cung cấp khả năng khám phá bằng camera, xem thông tin tòa nhà, tạm dừng mô phỏng và điều chỉnh tốc độ. Bài đăng không nói rõ prompt tham khảo này có phải là đầu vào thực tế của bất kỳ kết quả nào trong video hay không.
+
+**Prompt**
+
+```text
+### 1. Mục tiêu dự án
+
+Bạn là kỹ sư Three.js cấp cao, technical artist 3D và nhà thiết kế game mô phỏng đô thị giàu kinh nghiệm.
+
+Hãy bắt đầu từ con số không và tạo ngay một thế giới mô phỏng thành phố 3D voxel hoàn chỉnh, được chăm chút về hình ảnh và có thể chạy theo thời gian thực.
+
+Tên dự án: **VOXEL CITY — BUILD · LIVE · GROW**
+
+Đây là một thành phố thu nhỏ đang vận hành, không phải hình ảnh tĩnh để trình diễn.
+
+Thành phố phải có các tòa nhà 3D thực, mạng lưới đường sá liên tục, phương tiện, người đi bộ, trường học, bệnh viện, khu thương mại, công viên, cầu vượt và cảnh quan ven sông. Ô tô phải liên tục di chuyển, người đi bộ hoạt động dọc các tuyến đường, đèn tín hiệu giao thông chuyển chu kỳ, đài phun nước và mặt nước luôn chuyển động.
+
+Người dùng có thể tự do xoay, pan và zoom camera để khám phá các khu vực khác nhau trong thành phố, nhấp vào tòa nhà để xem thông tin, đồng thời điều khiển việc tạm dừng mô phỏng và tốc độ vận hành của thành phố.
+
+Tổng thể hình ảnh nên lấy cảm hứng từ các game xây dựng thành phố voxel chất lượng cao và mô hình thành phố thu nhỏ được chế tác tinh xảo. Hình ảnh cần sáng, đầy đặn, tự nhiên, nhiều màu sắc, có phân lớp không gian rõ ràng và chi tiết kiến trúc tinh tế.
+
+**Nguyên tắc cốt lõi: thà giữ quy mô thành phố gọn gàng còn hơn để mọi khu vực đều có nội dung, mọi yếu tố quan trọng dễ nhận biết và thành phố thực sự vận hành liên tục.**
+
+Không xuất báo cáo thiết kế hay kế hoạch triển khai trước. Hãy trực tiếp tạo dự án hoàn chỉnh.
+
+---
+
+### 2. Môi trường chạy và yêu cầu bàn giao
+
+Đây là yêu cầu bắt buộc có mức ưu tiên cao nhất.
+
+1. Bàn giao cuối cùng một tệp `index.html` hoàn chỉnh.
+2. Ưu tiên sử dụng HTML, CSS, JavaScript thuần và Three.js để xây dựng.
+3. Người dùng không cần cài Node.js, chạy npm, khởi động Vite, biên dịch hay cấu hình máy chủ cục bộ.
+4. Cố gắng đảm bảo tệp HTML có thể chạy khi mở trực tiếp bằng trình duyệt.
+5. Không phụ thuộc vào các tệp mô hình 3D, texture, hình ảnh, font hoặc âm thanh phải tải thêm. Tài sản trong thành phố nên được tạo chủ yếu bằng hình học và vật liệu dựng theo quy trình.
+6. Có thể sử dụng các dependency CDN ổn định, nhưng phải tính đến các hạn chế của việc mở trực tiếp `file://` trong trình duyệt đối với ES Modules, tài nguyên cross-origin và tệp cục bộ. Ưu tiên phương thức tải đã được kiểm chứng thực tế, không giả định rằng mọi môi trường trình duyệt đều cho phép tải module.
+7. Không dùng hình ảnh tĩnh, video ghép hoặc animation dựng sẵn làm phần chính của thành phố 3D.
+8. Không được dùng trang trí trực quan của nút để giả làm chức năng thực tế.
+9. Mọi animation chính phải được điều khiển bằng cập nhật JavaScript theo thời gian thực.
+10. Nếu môi trường Arena hiện tại hỗ trợ xem trước HTML theo thời gian thực, hãy trực tiếp tạo và kiểm tra dự án. Nếu môi trường hiện tại có giới hạn khi chạy, phải nêu rõ giới hạn cụ thể và không được tuyên bố rằng dự án đã chạy thành công.
+11. Mã nguồn phải hoàn chỉnh, không chỉ cung cấp đoạn mã, pseudocode hoặc những phần người dùng phải tự bổ sung.
+12. Trong phạm vi ngân sách phát triển hiện có, trước tiên hãy đảm bảo trang có thể khởi động, cảnh đầy đủ, camera hoạt động bình thường và các hệ thống động vận hành hiệu quả, sau đó mới thêm phần trang trí.
+
+Đặc biệt lưu ý: nếu môi trường thực thi hiện tại không tương thích với một phương thức tải Three.js nào đó, hãy dùng phương án thay thế thực sự hoạt động. Không được vì lỗi tải dependency mà bàn giao một trang trắng.
+
+---
+
+### 3. Định hướng mỹ thuật tổng thể
+
+Xây dựng một thành phố voxel nhiều màu sắc, sáng sủa, tự nhiên và có chi tiết rõ ràng.
+
+Từ khóa hình ảnh:
+
+- Môi trường ban ngày ngập nắng.
+- Hình học voxel chất lượng cao.
+- Cảnh quan thành phố thu nhỏ tinh xảo.
+- Đường nét kiến trúc rõ ràng.
+- Màu sắc phong phú nhưng có trật tự.
+- Quan hệ sáng tối tự nhiên.
+- Cấu trúc đường sá dễ nhận biết.
+- Mảng xanh và thảm thực vật nổi bật.
+- Các tòa nhà có đặc điểm nhận diện riêng.
+- Bóng đổ mềm nhưng vẫn nhìn rõ.
+- Chiều sâu không gian chân thực.
+- Hình ảnh hoàn chỉnh ở cấp độ game, không phải cảnh thử nghiệm khối hộp thô sơ.
+
+Phong cách nên gần với một game mô phỏng thành phố voxel được chế tác công phu: giữ vẻ đẹp hình học như những khối xếp hình, đồng thời có biến hóa vật liệu phong phú và nhiều lớp thị giác.
+
+**Cấm sử dụng phong cách u tối, ngột ngạt, cyberpunk hoặc tàn tích hậu tận thế.**
+
+Đồng thời, không được hiểu “sáng” là mọi vật thể đều phải trắng bệch.
+
+Không sử dụng các tòa nhà trắng tinh trên diện rộng, đường sá xám trắng có độ tương phản thấp, thảm cỏ xanh bạc nhợt hoặc cảnh bị ánh sáng môi trường mạnh làm bạc màu.
+
+Hình ảnh phải rõ ràng, đầy đặn và có cảm giác khối rõ nét.
+
+---
+
+### 4. Quy chuẩn màu bắt buộc
+
+Đây là một tiêu chí nghiệm thu quan trọng của dự án.
+Hãy tuân thủ nghiêm ngặt cách phân bổ màu dưới đây.
+#### 4.1 Bầu trời và môi trường
+
+- Bầu trời: xanh lam trung tính hơi nhạt, trong trẻo.
+- Môi trường phía xa: tự nhiên, thoáng sạch, không dùng sương trắng dày nặng nề.
+- Mặt nước: xanh lam pha lục, khác biệt rõ với bầu trời.
+- Mây: một lượng nhỏ mây trắng mềm, không được che khuất phần lớn thành phố.
+- Ánh nắng: sáng và tự nhiên, không phơi sáng quá mức.
+
+#### 4.2 Tòa nhà
+
+Các tòa nhà phải có sự phân biệt màu sắc rõ ràng.
+
+Khu dân cư sử dụng các phối màu như trắng ấm, vàng kem, cam gạch, đỏ san hô, vàng nhạt và xanh bạc hà.
+Khu thương mại sử dụng bảng màu đô thị hiện đại như kính xanh xám, mặt đứng trắng kem, chi tiết trang trí cam ấm và mặt dựng kính xanh lam pha lục.
+Trường học sử dụng các màu dễ nhận biết như vàng ấm, cam, đỏ hoặc xanh lam, đồng thời có sân thể thao và các hạng mục giáo dục.
+Bệnh viện sử dụng trắng ấm sạch và xanh lam nhạt, kết hợp biển hiệu y tế màu đỏ nổi bật.
+Công trình công nghiệp sử dụng các màu như xám trung tính, cam gạch và xanh lam, với nhà kho và hạ tầng logistics dễ nhận biết.
+Các công trình mang tính biểu tượng có thể sử dụng kính xanh xám, mặt đứng trắng ấm và một lượng vừa phải chi tiết màu vàng kim.
+**Không được biến toàn bộ tòa nhà trong thành phố thành những khối hộp trắng tinh giống hệt nhau.**
+Các tòa nhà cần được phân biệt qua sắc màu, độ sáng, hình dáng, mái và chi tiết mặt đứng.
+
+#### 4.3 Đường sá và mặt đất
+
+- Đường sá sử dụng màu xám trung tính rõ ràng hoặc xám trung tính đậm.
+- Vạch làn đường sử dụng màu trắng sạch hoặc vàng nhạt.
+- Vỉa hè sử dụng màu xám trung tính sáng hơn mặt đường một chút.
+- Bó vỉa phải có ranh giới rõ ràng.
+- Bãi cỏ sử dụng màu xanh lá tự nhiên, tươi và có độ sáng trung bình.
+- Tán cây sử dụng nhiều sắc xanh đậm nhạt khác nhau.
+- Ô đỗ xe, giao lộ, mũi tên rẽ và vạch dừng phải dễ nhận biết.
+
+Đường sá phải khác biệt rõ với mặt đất xung quanh, không được hòa lẫn cùng các tòa nhà vào một phông nền trắng nhợt.
+
+#### 4.4 Phương tiện
+
+Phương tiện sử dụng nhiều màu sắc như đỏ, vàng, xanh lam, xanh lá và trắng.
+Xe buýt, xe cứu thương, xe cứu hỏa, xe tải và ô tô thông thường phải có thể phân biệt ngay từ cái nhìn đầu tiên.
+Lốp xe sử dụng màu tối hơn, cửa kính sử dụng xanh xám hoặc xám đậm có độ tương phản rõ, tránh để toàn bộ xe chỉ có một màu nhạt duy nhất.
+
+#### 4.5 Bảng màu UI
+
+Giao diện sử dụng phong cách HUD của game mô phỏng thành phố hiện đại.
+Có thể dùng xanh biển sâu, xanh navy, trắng, xám nhạt và một lượng nhỏ xanh lá, cam làm màu chức năng.
+UI phải tạo độ tương phản phù hợp với hình ảnh thành phố nhưng không được lấn át khung cảnh.
+Các panel bán trong suốt phải giữ cho chữ rõ ràng, không để hiệu ứng trong suốt khiến màu nền làm cản trở việc đọc.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/voxel-city-real-time-3d-simulation) · [Bài đăng gốc](https://x.com/cfenghub/status/2116350947467440157) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D
@@ -4252,62 +4344,6 @@ So sánh trực quan tiêu đề, lúc chơi bình thường, từng vùng, bả
 
 ---
 
-<a id="crazy-tanks-3d-island-artillery"></a>
-
-### Crazy Tanks — Pháo binh đảo 3D
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/previews/7b026fd7cfcbf1398c6b77062abb333fe61e020e75b514aeab2eff40db94984e.png" width="840" loading="lazy" alt="Crazy Tanks — Pháo binh đảo 3D"></a>
-
-Ngắm bắn, đọc hướng gió và nạp lực từ 0 trong trận pháo binh trên đảo 3D hoàn toàn. Chọn một trong sáu loại đạn, tạo những hố sâu và sống sót giữa hỗn loạn ngày càng tăng.
-
-**Prompt**
-
-```text
-1. Mục tiêu dự án
-Xây dựng Crazy Tanks — Wild Tides, một game pháo binh theo lượt có thể chơi được và thực sự ba chiều trên một hòn đảo nhiệt đới. Người chơi điều khiển một xe tăng nhỏ, đọc hướng gió, canh thời điểm nạp lực từ 0 và định hình lại chiến trường bằng đạn pháo. Hỗ trợ chơi đơn đấu với AI và chơi chuyền lượt cục bộ, với chế độ mặc định ba xe tăng hỗn chiến và tùy chọn đấu tay đôi giữa hai xe. Xe tăng cuối cùng còn sống sẽ chiến thắng. Sử dụng gameplay và ảnh chụp màn hình tham chiếu hiện tại làm mục tiêu hình ảnh.
-
-2. Phong cách hình ảnh
-Sử dụng camera phối cảnh và hình học 3D có thể xoay tự do, không dùng sprite phẳng hay góc nhìn ngang cố định. Tạo một tiểu cảnh mô hình thu nhỏ dưới nắng, với các xe tăng bo tròn màu ngọc bích, cam san hô và xanh tím, cát màu kem, cỏ xanh nhạt, nước xanh ngọc phản chiếu, bóng mềm và lớp sương khí quyển nhẹ ở xa. Giữ nguyên dáng viền riêng biệt của ba xe tăng cùng các nòng pháo tương ứng. Đặt một bảng giáp/trạng thái tròn nhỏ màu kem phía trên chiến trường và một bảng điều khiển bo tròn màu xanh teal đậm bên dưới. Màu vàng biểu thị lực tham chiếu và thao tác khai hỏa; màu mint biểu thị lực nạp thực tế và trạng thái phe ta. Đặt nút chuyển giao diện Tripo / Three.js ở vị trí nổi bật phía trên, mặc định dùng asset Tripo. Khi chuyển giao diện, phải giữ nguyên trạng thái trận đấu và vật lý. Sử dụng các nét gạch teal mảnh, cách đều trong không gian màn hình và vòng tròn tiếp đất tiết chế; không phản chiếu đồ họa ngắm bắn xuống mặt nước.
-
-3. Thế giới và bối cảnh
-Sử dụng một hòn đảo địa hình độ cao có thể phá hủy, kích thước xấp xỉ 260 × 184 mét, được bao quanh bởi đại dương ở một mực nước biển cố định. Đặt các xe tăng ban đầu cách xa nhau trên nền đất ổn định; rải đá, cây cọ, xương rồng và các thùng tiếp tế có thể thu thập. Những đảo nhỏ trang trí tạo chiều sâu cho hậu cảnh và không được thay thế địa hình chính có thể phá hủy. Vụ nổ làm biến dạng bề mặt và có thể đào xuống dưới mực nước biển. Giữ màu bờ biển và bọt nước trên cùng một mặt nước để tránh các mặt phẳng chồng lấn và hiện tượng nhấp nháy. Chiếu số xe tăng từ vị trí trong thế giới ở mọi khung hình được render. Cung cấp góc nhìn toàn bộ quỹ đạo, xe tăng, xoay quanh và chiến thuật từ trên cao. Góc nhìn quỹ đạo phải đưa xe tăng khai hỏa, đường cong và điểm tiếp đất ước tính vào khoảng trống giữa HUD và bảng điều khiển. Trước mỗi phát bắn, hiển thị xe tăng khai hỏa trong khoảng 0,8 giây, dừng lại ở nòng pháo rồi bám theo đạn. Tương tác camera thủ công sẽ hủy chế độ bám theo điện ảnh.
-
-4. Danh mục asset
-Sử dụng các vị trí model ổn định và cho phép truy cập riêng từng model thay thế:
-- jade-body: thân xe tăng bánh xích màu xanh lá bo tròn, hình khiên; thân mặc định của người chơi. jade-cannon: nòng pháo jade tương ứng, có lòng nòng tối màu và điểm nhấn vàng, được điều khiển khớp độc lập.
-- ember-body: thân xe bọc giáp nhọn màu cam san hô, dáng cơ khí thấp. ember-cannon: nòng pháo màu cam dài hơn tương ứng, với đầu nòng tối màu.
-- bolt-body: thân xe bánh xích công nghiệp màu xanh tím, giáp ghép góc cạnh. bolt-cannon: nòng pháo xanh dày tương ứng.
-- shell: đạn pháo bằng đồng thau, đầu thuôn tối màu và điểm nhấn cyan. Tái sử dụng với màu và tỷ lệ riêng theo từng vũ khí.
-- crate: thùng tiếp tế bọc giáp màu vàng, ký hiệu cyan và các góc gia cố; thu thập để nhận 20 giáp, tối đa 100.
-- rock: cụm đá sa thạch bo tròn màu ấm; lặp lại với nhiều tỷ lệ khác nhau và dùng proxy va chạm riêng.
-- palm: thân cây cong và tán lá xanh nhiều lớp; lặp lại làm thảm thực vật trên đảo.
-- cactus: cây xương rồng xanh nhỏ gọn với các chi tiết hoa nhỏ; lặp lại trên địa hình khô.
-- islet: đảo nền tròn phủ cỏ, viền đá/cát màu nhạt; lặp lại ở phía ngoài đấu trường.
-Ưu tiên ba cặp thân/nòng tương ứng, sau đó đến đạn/thùng và các vật thể môi trường. Giữ biến dạng địa hình, đại dương, bọt nước, lửa, khói, sóng xung kích, mảnh vỡ, đồ họa ngắm bắn, ánh sáng, UI và proxy va chạm ở dạng thủ tục. Các bộ phận thân và nòng tương ứng dùng chung một thiết kế tham chiếu và tỷ lệ. Đặt pivot của nòng tại khớp cơ khí, căn trục trước theo +X và dùng đầu nòng hiển thị làm điểm phóng vật lý. Thân xe bám theo độ dốc bằng quaternion; hướng ngắm của tháp pháo vẫn là hướng trong không gian thế giới. Giữ nguyên texture PBR nguồn và các đường nối UV. Tách model tải xuống ở độ phân giải đầy đủ khỏi bản sao tối ưu hóa cho runtime game; thông tin tham chiếu và nguồn gốc file phải xác định đúng nguồn tạo.
-
-5. Gameplay và phản hồi
-Mỗi xe tăng còn hoạt động nhận 18 mét quãng đường di chuyển khi lượt bắt đầu. WASD và pad di chuyển theo tương quan với màn hình; phím mũi tên và pad ngắm điều chỉnh phương vị và góc nâng. Thanh trượt cung cấp phương vị, góc nâng 10–80 độ và lực tham chiếu 0–100. Chọn đối thủ chỉ khiến xe quay mặt về phía đó; không được tự giải bài toán bắn.
-Cung teal ước tính lực tham chiếu đã chọn khi KHÔNG có gió. Giữ cố định mức tham chiếu và dấu mốc vàng trong lúc nạp. Nhấn giữ Fire, Space hoặc Enter trên nút Fire đang được focus để bắt đầu lực thực tế từ 0 mỗi lần; tăng 18 điểm phần trăm mỗi giây, giữ ở mức 100 và chỉ khai hỏa đúng một lần khi thả nút, sử dụng lực thực tế tại thời điểm đó. Chạm nhanh sẽ bắn một phát yếu. Dải vàng trong phạm vi 3 điểm phần trăm chỉ là phản hồi hình ảnh, không tự làm tròn hay hiệu chỉnh ngầm. Hủy khi con trỏ bị hủy, cửa sổ mất focus hoặc trang không còn hiển thị. Khóa thay đổi di chuyển, mục tiêu và ngắm trong lúc nạp. Điều khiển bàn phím của input dạng range không được đồng thời xoay tháp pháo. Lực 0 biểu thị tốc độ phóng thấp nhất, không phải viên đạn đứng yên.
-Mũi tên và các vệt gió trôi nhìn thấy cho biết hướng gió đẩy viên đạn. Gắn nhãn cường độ gió và mét trên giây; nhấp vào thẻ gió để xem giải thích. Gió thổi sang trái nghĩa là người chơi nên ngắm lệch sang phải một chút. Gió mạnh hơn và thời gian bay lâu hơn sẽ tạo độ lệch lớn hơn. Gió giữ nguyên trong suốt một phát bắn và thay đổi sau mỗi lượt. Không bao giờ tự động bù gió trong phần xem trước của người chơi. Chỉ dự đoán gần đúng điểm tiếp đất trên địa hình; không hứa hẹn va chạm với xe tăng/đá, tách cụm hay bật nảy trong phần xem trước.
-Cung cấp sáu loại đạn: HE không giới hạn; đạn chùm tách thành năm bom con rơi xuống; Seismic tạo hố rộng tối đa 28 mét và sâu 13 mét; đạn ricochet nảy hai lần; mỗi xe tăng có một viên Cataclysm, tạo hố rộng tối đa 46 mét và sâu 22 mét; và Incendiary để lại vùng lửa bán kính 12 mét. Lửa gây 8 sát thương ở cuối mỗi một trong sáu lần kết thúc hành động; ra khỏi vùng lửa sẽ tránh được sát thương và các vùng chồng lấn không cộng dồn. Nước biển dập tắt lửa. Toàn bộ xe tăng, bao gồm cả nòng đã nâng, bị loại ngay lập tức khi chìm hoàn toàn dưới nước. Hiển thị sát thương thực tế, lượng giáp mất đi, địa hình sụp lở, nước bắn và kết quả bị loại.
-Sử dụng các lớp cầu lửa, vòng xung kích mở rộng, tia lửa phát sáng, mảnh đạn đạo, bụi và khói cùng hiệu ứng rung camera tiết chế. Sử dụng nhạc và âm thanh gốc do ElevenLabs cung cấp cho pháo, va chạm, ricochet, vụ nổ lớn, lửa và nước bắn. Bao gồm nút bật/tắt âm thanh, tạm dừng/tiếp tục, hướng dẫn, chơi lại và quay về menu. Trong lúc đạn đang bay hoặc AI đang đến lượt, cung cấp tùy chọn Back to my turn: chạy nhanh mô phỏng với cùng bước thời gian cố định và giữ nguyên mọi kết quả về sát thương, địa hình và mối nguy. Không bao giờ bỏ qua lượt nhập của người chơi cục bộ.
-
-6. Triển khai kỹ thuật
-Sử dụng Three.js với ES modules và Vite, font được đóng gói cục bộ, Web Audio cho hiệu ứng và phần tử audio HTML cho nhạc lặp. Giữ tài nguyên cùng origin và hỗ trợ bản build tĩnh. Sử dụng renderer phối cảnh với khử răng cưa, ngân sách hợp lý cho bóng và hậu kỳ, đồng thời giải phóng đúng cách hình học/vật liệu tạm thời. Phân biệt phần trang trí của model với va chạm gameplay.
-Giữ vật lý xác định, độc lập với quá trình render, dùng đơn vị mét/giây, gia tốc trọng trường 9.81 m/s² và bước cố định 1/120 giây. Sử dụng va chạm quét liên tục cho đạn tốc độ cao với mặt đất, nước, xe tăng và đá; áp dụng xung lực vụ nổ cùng trọng lực lên xe tăng bị hất. Tính vị trí phóng từ transform nòng riêng của từng xe tăng. Chế độ phát bình thường và tua nhanh phải gọi cùng các hàm cập nhật mô phỏng. Sát thương và phản ứng với gió là luật game được cách điệu, không phải trình mô phỏng vụ nổ kỹ thuật.
-Hỗ trợ UI tiếng Trung, tiếng Anh, tiếng Nhật và tiếng Hàn. Ban đầu chọn theo ngôn ngữ thiết bị; thiết bị tại Hong Kong, Macau, Đài Loan và thiết bị dùng tiếng Trung phồn thể mặc định chọn tiếng Anh. Ghi nhớ lựa chọn rõ ràng của người dùng và cho phép hiển thị bộ chọn ngôn ngữ. Hỗ trợ bố cục desktop, điện thoại dọc và màn hình ngang thấp; menu trên màn hình ngắn có thể cuộn, vùng chạm đủ lớn, bảng điều khiển có thể thu gọn và không để các nút chồng lấn. Không yêu cầu nhập bằng bàn phím trên thiết bị cảm ứng. Đưa các hàm thay đổi state và hỗ trợ ngắm chỉ dùng khi phát triển ra khỏi bản production.
-
-7. Tiêu chí hoàn thiện
-Bàn giao source project độc lập có thể chỉnh sửa, lockfile, hướng dẫn npm dev/build và bản preview tĩnh hoạt động. Bám sát ảnh chụp màn hình và video gameplay hiện tại, bao gồm bảng trạng thái màu kem, dấu mốc tham chiếu vàng cố định, lực thực tế bắt đầu từ 0 và cách trình bày xe tăng/hòn đảo 3D hoàn toàn. Kiểm tra lần khởi chạy đầu tiên, tải model, một chu kỳ lượt hoàn chỉnh, hành vi của từng loại đạn, tạm dừng, chơi lại và kết quả thắng/thua thực tế. Xác nhận chuyển giao diện vẫn giữ nguyên state, đồng thời thao tác hủy bằng bàn phím/cảm ứng không gây khai hỏa. Trong một phát bắn kiểm thử rõ ràng khi không có gió, thả nút ở lực tham chiếu phải tiếp đất gần vòng tròn tham chiếu; gió ngang ngược chiều phải làm viên đạn thực tế lệch thấy rõ trong khi vòng tròn đó không đổi. Kiểm tra hoạt động ở 30/60/144 Hz, va chạm tốc độ cao, hố sâu, thời điểm lửa tắt, loại xe khi chìm hoàn toàn và sự tương đương kết quả lượt giữa chế độ bình thường/tua nhanh. Kiểm tra bố cục desktop và màn hình hẹp ở cả bốn ngôn ngữ; phân biệt việc giả lập trình duyệt với kiểm thử trên thiết bị thật. Xác thực trang đã triển khai và media liên kết, không chỉ bản build cục bộ.
-
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/crazy-tanks-3d-island-artillery) · [Bản demo](https://super-tanks-aftershock.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
 <a id="jelly-villa"></a>
 
 ### Biệt thự Thạch rau câu
@@ -4378,7 +4414,7 @@ Xuất bản prompt jelly-villa mới, ghi công jared, ghi tác giả gốc tro
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 381 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 383 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

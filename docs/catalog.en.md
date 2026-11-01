@@ -29,14 +29,14 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**381 examples · 14 languages · 12 examples with source code**
+**383 examples · 14 languages · 12 examples with source code**
 
 ## Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/golden-miner"><img src="../assets/featured/golden-miner.webp" width="420" loading="lazy" alt="Golden Miner: 24-Level 3D Mining Game"></a><br><strong><a href="#golden-miner">Golden Miner: 24-Level 3D Mining Game</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="#golden-miner">Prompt →</a></td>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/featured/crazy-tanks-3d-island-artillery.webp" width="420" loading="lazy" alt="Crazy Tanks — 3D Island Artillery"></a><br><strong><a href="#crazy-tanks-3d-island-artillery">Crazy Tanks — 3D Island Artillery</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="#crazy-tanks-3d-island-artillery">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/featured/crazy-tanks-3d-island-artillery.webp" width="420" loading="lazy" alt="Crazy Tanks — 3D Island Artillery"></a><br><strong><a href="https://www.tripo3d.ai/3d-prompts/crazy-tanks-3d-island-artillery">Crazy Tanks — 3D Island Artillery</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="https://www.tripo3d.ai/3d-prompts/crazy-tanks-3d-island-artillery">Prompt →</a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/battle-city-3d"><img src="../assets/featured/battle-city-3d.webp" width="420" loading="lazy" alt="Battle City 3D: Endless Tank Defense"></a><br><strong><a href="https://www.tripo3d.ai/3d-prompts/battle-city-3d">Battle City 3D: Endless Tank Defense</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="https://www.tripo3d.ai/3d-prompts/battle-city-3d">Prompt →</a></td>
@@ -51,7 +51,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 <details>
 <summary>Browse examples</summary>
 
-- [Interactive 3D gummy citrus slice](#2103062348168618280)
 - [Northbound: Interactive Viking Longship Journey](#2103187935759655167)
 - [Explorable misty autumn Three.js experience](#2103211135214256350)
 - [STILLWATER — Moonlit Swamp Browser Experience](#2103308083242082314)
@@ -147,82 +146,13 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Oasis Jelly: a desert oasis sealed in a wobbly jelly cube](#2115449826481463529)
 - [Interactive Neo-Kowloon neon street market](#2115478001882374452)
 - [Mangrove Lights interactive WebGL diorama](#2116024691533979940)
+- [Interactive mangrove island with animated wildlife](#2116210452594401618)
+- [Real-Time Voxel 3D City Simulation World](#2116350947467440157)
 - [Red Light, Green Light: 3D Survival Game](#red-light-green-light)
 - [Golden Miner: 24-Level 3D Mining Game](#golden-miner)
-- [Crazy Tanks — 3D Island Artillery](#crazy-tanks-3d-island-artillery)
 - [Jelly Villa](#jelly-villa)
 
 </details>
-
-<a id="2103062348168618280"></a>
-
-### Interactive 3D gummy citrus slice
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103062348168618280"><img src="../assets/previews/41edd4fdcfd514cd2e4a41c686561adaecd016ec2c1476bcd941a222a86a47ec.jpg" width="840" loading="lazy" alt="Interactive 3D gummy citrus slice"></a>
-
-The posting author shared this prompt in a comparison of Claude Opus 5.5 and ChatGPT-6 Astra. It requests a standalone WebGPU soft-body simulation of a deformable gummy citrus slice with touch and mouse interaction, procedural geometry, shader-based rendering, and simulation controls.
-
-**Prompt**
-
-```text
-Create a beautiful, interactive 3D gummy citrus slice using WebGPU. Deliver the complete experience in one standalone HTML file with embedded JavaScript and WGSL shaders.
-
-This must be a real-time 3D simulation, not a video, image, or looping animation.
-
-APPEARANCE
-
-Create a thick, semicircular orange slice with translucent, juicy flesh, eight distinct segments, delicate internal membranes, tiny bubbles, a pale pith layer, and a soft orange rind.
-
-Make it look like premium gummy candy: saturated color, glossy highlights, light passing through the flesh, convincing refraction, and soft contact shadows. Avoid excessive bloom, washed-out colors, or a hard plastic appearance.
-
-Use a warm, light studio background and a clean editorial interface with generous whitespace. Add the large italic serif title “Citrus Jelly.” Keep controls compact and the slice clearly visible.
-
-SOFT-BODY PHYSICS
-
-The jelly feel is the most important part.
-
-- Grab any part of the slice with a mouse or finger.
-- Pull, lift, stretch, twist, and release it.
-- Make deformation local: pulling one edge should stretch nearby flesh while the rest follows naturally.
-- After release, the slice should wobble, overshoot, and gradually recover its original shape.
-- Include gravity, inertia, damping, ground collisions, and soft bouncing.
-- Preserve volume approximately and prevent the mesh from collapsing or turning inside out.
-- Make the rind slightly firmer than the flesh.
-- Internal segments, membranes, and bubbles must follow the deformation without floating outside the body.
-
-Use a stable volumetric soft-body solver, such as a tetrahedral mesh with XPBD constraints. Do not imitate softness by scaling or rotating the entire object.
-
-CONTROLS
-
-Include three color presets: Orange, Lemon, and Ruby.
-
-Add:
-- Firmness slider.
-- Internal damping slider.
-- “Give it a nudge” button.
-- Reset button.
-- Quarter-speed checkbox.
-- Show mesh checkbox.
-- Pause/resume button.
-
-Display small live readouts for mass, percentage of rest volume, and kinetic energy.
-
-TECHNICAL REQUIREMENTS
-
-Use genuine WebGPU rendering with WGSL shaders. Generate all geometry and visual details procedurally, without imported models or image files.
-
-Keep simulation updates independent of rendering frame rate. Support desktop and touch devices. Show a clear fallback message if WebGPU is unavailable.
-
-Test strong dragging, repeated releases, all controls, and narrow screens. Fix unstable physics, broken geometry, and visual artifacts before delivering the finished HTML.
-
-The result should feel like a tiny, tactile candy experiment that is genuinely satisfying to play with.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103062348168618280) · [Original post](https://x.com/vib3coded/status/2103062415533371646) · [Back to examples](#all-prompts)
-
----
 
 <a id="2103187935759655167"></a>
 
@@ -4033,6 +3963,168 @@ UI: brand "bakau°"; headline "A forest that blinks in time."; dock buttons Rese
 
 ---
 
+<a id="2116210452594401618"></a>
+
+### Interactive mangrove island with animated wildlife
+
+[EnzoXbt](https://x.com/Enzoxbt01) · 2026-10-30
+
+<a href="https://www.tripo3d.ai/3d-prompts/interactive-mangrove-island-threejs"><img src="../assets/previews/00d9101a825b11da7fc8cb19535f51f6ea3ce81ec35761331b5dee9ff805a636.jpg" width="840" loading="lazy" alt="Interactive mangrove island with animated wildlife"></a>
+
+An interactive Three.js and WebGL mangrove-island experience with custom water shaders, animated wildlife, and synchronized fireflies.
+
+**Prompt**
+
+```text
+build an interactive mangrove island using Three.js and WebGL, with custom water shaders, animated wildlife, and synchronized fireflies
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/interactive-mangrove-island-threejs) · [Original post](https://x.com/Enzoxbt01/status/2116210452594401618) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2116350947467440157"></a>
+
+### Real-Time Voxel 3D City Simulation World
+
+[CF长风](https://x.com/cfenghub) · 2026-10-31
+
+<a href="https://www.tripo3d.ai/3d-prompts/voxel-city-real-time-3d-simulation"><img src="../assets/previews/1af329f1746ee2b46babc4675df8f583ff5fd0ab8ed41c93845dd01c86f41f7f.jpg" width="840" loading="lazy" alt="Real-Time Voxel 3D City Simulation World"></a>
+
+A reference prompt shared by the author under “Prompt reference” in a city simulation comparison post featuring GPT6-sol-max and GROK4.7-XHIGH. It calls for a complete, runnable single-page Three.js project built from scratch: a voxel-style miniature city with buildings, roads, vehicles, pedestrians, and continuously running dynamic systems, plus camera exploration, building information panels, and simulation pause and speed controls. The post does not explicitly state that this reference prompt was the actual input for any result shown in the video.
+
+**Prompt**
+
+```text
+### 1. Project goal
+
+You are a senior Three.js engineer, 3D technical artist, and city simulation game designer.
+
+Create a complete, visually polished voxel-style 3D city simulation world from scratch that runs in real time.
+
+Project name: **VOXEL CITY — BUILD · LIVE · GROW**
+
+This is a functioning miniature city, not a static render.
+
+The city must include real 3D buildings, a continuous road network, vehicles, pedestrians, schools, hospitals, commercial districts, parks, overpasses, and waterfront scenery. Cars must keep moving, pedestrians must travel along the roads, traffic signals must cycle, and fountains and water surfaces must remain animated.
+
+Users must be able to freely orbit, pan, and zoom the camera to explore different areas of the city, click buildings to view information, and control whether the simulation is paused or running and at what speed.
+
+Use high-quality voxel city-building games and finely crafted miniature city models as the overall visual reference. The result should be bright, full-bodied, natural, and richly colored, with clear depth and finely detailed buildings.
+
+**Core principle: Keep the city compact rather than making it large; every area should have content, every important element should be easy to identify, and the city must genuinely keep running.**
+
+Do not output a design report or implementation plan first. Generate the complete project directly.
+
+---
+
+### 2. Runtime environment and delivery requirements
+
+These are hard requirements with the highest priority.
+
+1. Deliver one complete `index.html` file.
+2. Prefer HTML, CSS, vanilla JavaScript, and Three.js.
+3. The user must not need to install Node.js, run npm, start Vite, compile anything, or configure a local server.
+4. Make every effort to ensure that the HTML file runs when opened directly in a browser.
+5. Do not depend on additional downloaded 3D models, textures, images, fonts, or audio files. Generate city assets primarily with procedural geometry and materials.
+6. Stable CDN dependencies are allowed, but account for the limitations of opening `file://` directly in a browser, including ES Modules, cross-origin resources, and local files. Prefer loading methods that have been tested in practice; do not assume that every browser environment allows module loading.
+7. Do not use static images, video overlays, or prerendered animations as the 3D city itself.
+8. Do not use button styling to fake functionality.
+9. All major animations must be driven by real-time JavaScript updates.
+10. If the current Arena environment supports live HTML previews, create and validate the project directly. If the current environment has runtime limitations, clearly state the specific limitations and do not claim that the project ran successfully.
+11. The code must be complete. Do not provide only snippets, pseudocode, or sections the user must fill in.
+12. Within the available development budget, prioritize a page that starts, a complete scene, a working camera, and functional dynamic systems before adding extra decoration.
+
+Important: If the current execution environment is incompatible with a particular Three.js loading method, use a practical alternative that works. Do not deliver a blank page just because dependency loading failed.
+
+---
+
+### 3. Overall art direction
+
+Build a colorful, bright, natural voxel city with clear details.
+
+Visual keywords:
+
+- A sunny daytime setting.
+- High-quality voxel geometry.
+- A finely crafted miniature cityscape.
+- Clear building silhouettes.
+- Rich but orderly colors.
+- Natural light and shade.
+- A clear road layout.
+- Vivid green spaces and vegetation.
+- Distinctive buildings.
+- Soft but visible shadows.
+- A convincing sense of spatial depth.
+- A complete game-quality scene, not a crude blockout test environment.
+
+The style should be close to a carefully crafted voxel city simulation game: retain the geometric appeal of building blocks while adding rich material variation and visual depth.
+
+**Do not use a dark, oppressive, cyberpunk, or post-apocalyptic style.**
+
+Also, do not interpret “bright” to mean that every object must be washed out.
+
+Do not use large areas of pure-white buildings, low-contrast gray-white roads, pale mint-green grass, or a scene bleached by intense ambient light.
+
+The scene must be clear, richly colored, and dimensional.
+
+---
+
+### 4. Mandatory color specification
+
+This is an important acceptance criterion for the project.
+Follow the color assignments below strictly.
+#### 4.1 Sky and environment
+
+- Sky: a clear medium-light blue.
+- Distant environment: natural and fresh, without heavy white fog.
+- Water: a blue-green hue clearly distinct from the sky.
+- Clouds: a small number of soft white clouds that do not obscure much of the city.
+- Sunlight: bright and natural, without overexposure.
+
+#### 4.2 Buildings
+
+Buildings must have clearly differentiated colors.
+
+Residential areas should use warm white, beige, brick orange, coral red, pale yellow, mint green, and similar colors.
+Commercial areas should use modern urban colors such as blue-gray glass, off-white facades, warm orange accents, and teal glass curtain walls.
+Schools should use easy-to-recognize colors such as warm yellow, orange, red, or blue, and include a playground and educational facilities.
+Hospitals should use clean warm white and pale blue, with prominent red medical markings.
+Industrial buildings should use neutral gray, brick orange, blue, and similar colors, with recognizable warehouses and logistics facilities.
+Landmark buildings may use blue-gray glass, warm-white facades, and restrained gold accents.
+**Do not turn every building in the city into an identical pure-white block.**
+Differentiate buildings through hue, value, shape, roofs, and facade details.
+
+#### 4.3 Roads and ground
+
+- Use clear medium gray or dark medium gray for roads.
+- Use clean white or pale yellow for lane markings.
+- Use neutral gray sidewalks that are slightly lighter than the roads.
+- Curbs must have clear boundaries.
+- Use vivid, natural medium-bright green for lawns.
+- Use multiple shades of green for tree canopies.
+- Parking spaces, intersections, turn arrows, and stop lines must be clearly visible.
+
+Roads must be clearly distinct from the surrounding ground and must not blend into a washed-out background with the buildings.
+
+#### 4.4 Vehicles
+
+Use varied colors for vehicles, including red, yellow, blue, green, and white.
+Buses, ambulances, fire trucks, delivery trucks, and ordinary cars must be distinguishable at a glance.
+Use darker colors for tires and contrasting blue-gray or dark gray for windows; avoid making an entire vehicle a single pale color.
+
+#### 4.5 UI color scheme
+
+Use a modern city simulation game HUD style for the interface.
+You may use deep ocean blue, navy, white, light gray, and small amounts of green and orange as functional accent colors.
+The UI should contrast appropriately with the city scene without drawing too much attention.
+Transparent panels must keep text legible; do not let background colors interfere with reading through transparency effects.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/voxel-city-real-time-3d-simulation) · [Original post](https://x.com/cfenghub/status/2116350947467440157) · [Back to examples](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Red Light, Green Light: 3D Survival Game
@@ -4178,62 +4270,6 @@ Visually compare title, normal play, each region, map, upgrades, failure, and vi
 
 ---
 
-<a id="crazy-tanks-3d-island-artillery"></a>
-
-### Crazy Tanks — 3D Island Artillery
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/previews/7b026fd7cfcbf1398c6b77062abb333fe61e020e75b514aeab2eff40db94984e.png" width="840" loading="lazy" alt="Crazy Tanks — 3D Island Artillery"></a>
-
-Aim, read the wind and charge from zero in a fully 3D island artillery battle. Choose six shells, carve deep craters and survive the rising chaos.
-
-**Prompt**
-
-```text
-1. Project goal
-Build Crazy Tanks — Wild Tides, a playable, genuinely three-dimensional turn-based artillery game on a tropical island. The player aims a small tank, reads the wind, times a charge from zero, and reshapes the battlefield with shells. Support solo against AI and local pass-and-play, with a default three-tank free-for-all and an optional two-tank duel. The last surviving tank wins. Use the current reference gameplay and screenshots as the visual target.
-
-2. Visual style
-Use a perspective camera and freely orbitable 3D geometry, not flat sprites or a fixed side view. Create a sunny, miniature diorama with rounded jade, coral-orange and blue-violet tanks, creamy sand, pale green grass, turquoise reflective water, soft shadows and a light atmospheric distance haze. Preserve the three tanks' distinct silhouettes and matching barrels. Use a compact cream round/armor panel above the battlefield and a dark teal rounded control deck below it. Gold marks the reference power and firing action; mint marks actual charge and friendly status. Keep the Tripo / Three.js appearance switch prominent at the top, defaulting to Tripo assets. Switching appearances must preserve the match and physics state. Use thin, evenly spaced teal screen-space dashes and a restrained landing circle; do not reflect aiming graphics in the water.
-
-3. World and scene
-Use a destructible height-field island approximately 260 by 184 metres, surrounded by ocean at a fixed sea level. Place the starting tanks far apart on stable ground; distribute rocks, palms, cacti and collectible supply crates. Smaller decorative islands provide background depth and never substitute for the destructible main terrain. Blasts deform the surface and can dig below sea level. Keep shoreline color and foam in a single water surface to avoid overlapping planes and flicker. Project tank numbers from world positions every rendered frame. Provide full-trajectory, tank, orbit and tactical overhead views. The trajectory view must fit the firing tank, arc and estimated landing into the space between the HUD and control deck. Before each shot, show the firing tank for about 0.8 seconds, linger at the muzzle, then follow the projectile. Manual camera interaction cancels cinematic following.
-
-4. Asset inventory
-Use stable model slots and keep replacement models individually addressable:
-- jade-body: rounded green shield-like tracked hull; the player's default body. jade-cannon: matching jade barrel with a dark bore and gold accents, articulated independently.
-- ember-body: coral-orange pointed armored hull with a low mechanical profile. ember-cannon: its longer matching orange barrel and dark muzzle.
-- bolt-body: blue-violet industrial tracked hull with angular plated armor. bolt-cannon: matching thick blue barrel.
-- shell: a brass artillery projectile with a dark tapered tip and cyan accent. Reuse it with weapon-specific tint and scale.
-- crate: a yellow armored supply box with cyan marking and reinforced corners; collect it for 20 armor, capped at 100.
-- rock: warm rounded sandstone cluster; repeat at varied scale and use a separate collision proxy.
-- palm: curved trunk and layered green fronds; repeat as island vegetation.
-- cactus: compact green cactus with small flowering details; repeat on dry terrain.
-- islet: a rounded grassy background island with pale rock/sand edges; repeat beyond the arena.
-Prioritize the three matching body/barrel pairs, followed by shell/crate and environmental props. Keep terrain deformation, ocean, foam, fire, smoke, shockwaves, debris, aim graphics, lighting, UI and collision proxies procedural. Matching body and barrel parts share one design reference and scale. Place the barrel pivot at its mechanical joint, align its forward axis to +X, and use the visible muzzle as the physical launch point. Tank bodies conform to slopes using quaternions; turret aim remains a world-space direction. Preserve source PBR textures and UV seams. Keep full-resolution downloadable models separate from optimized game runtime copies; references and file provenance must identify the actual generation source.
-
-5. Gameplay and feedback
-Each living tank receives 18 metres of movement when its turn starts. WASD and the movement pad move relative to the screen; arrow keys and the aiming pad adjust bearing and elevation. Sliders provide bearing, 10–80 degree elevation and 0–100 reference power. Selecting a rival only faces it; it must not solve the shot.
-The teal arc estimates the chosen reference power with NO wind. Keep that reference and its gold marker fixed while charging. Hold Fire, Space, or Enter on the focused Fire button to start actual power at 0 every time; increase by 18 percentage points per second, hold at 100, and fire exactly once on release using the actual power at that instant. A quick tap fires a weak shot. The gold band within 3 percentage points is visual feedback only, with no snapping or hidden correction. Cancel on pointer cancellation, window blur or loss of visibility. Lock movement, target and aim changes during a charge. Range-input keyboard controls must not also turn the turret. Zero power represents the lowest launch speed, not a stationary shell.
-The arrow and visible drifting wind streaks show where wind pushes the shell. Label wind strength and metres per second; clicking the wind card explains it. Wind blowing left means the player should aim somewhat right. Stronger wind and longer airtime cause greater drift. Wind stays constant during a shot and changes each turn. Never compensate the player preview automatically. Predict terrain landing approximately; do not promise tank/rock collisions, cluster splitting or ricochets in the preview.
-Provide six payloads: unlimited HE; a cluster round that splits into five descending submunitions; Seismic with a crater up to 28 metres across and 13 deep; a ricochet round that bounces twice; one Cataclysm round per tank with a crater up to 46 metres across and 22 deep; and Incendiary that leaves a 12-metre-radius fire zone. Fire deals 8 damage at each of six action endings; moving outside avoids damage and overlapping zones do not stack. Seawater extinguishes flames. An entire tank, including its raised barrel, fully below the water is eliminated immediately. Show the real damage, armor loss, terrain collapse, water splash and elimination outcome.
-Use layered fireballs, expanding shock rings, emissive sparks, ballistic fragments, dust and smoke with restrained camera shake. Use the provided original ElevenLabs music and cannon, impact, ricochet, heavy blast, fire and splash sounds. Include sound toggle, pause/resume, instructions, replay and return to menu. During projectile flight or AI turns, offer Back to my turn: run the same fixed-step simulation quickly and preserve all damage, terrain and hazard outcomes. Never skip a local friend's input turn.
-
-6. Technical implementation
-Use Three.js with ES modules and Vite, local bundled fonts, Web Audio for effects and an HTML audio element for looping music. Keep resources on the same origin and support a static build. Use a perspective renderer with antialiasing, practical shadow and postprocessing budgets, and proper disposal of transient geometry/materials. Distinguish model decoration from gameplay collision.
-Keep deterministic physics independent of rendering, with metre/second units, gravity 9.81 m/s² and a 1/120-second fixed step. Use continuous swept collisions for high-speed projectiles against ground, water, tanks and rocks; apply blast impulses and gravity to displaced tanks. Derive launch positions from the actual tank-specific barrel transform. Normal playback and fast-forward must call the same simulation updates. Damage and wind response are stylized game rules, not an engineering blast simulator.
-Support Chinese, English, Japanese and Korean UI. Choose from device language initially; Hong Kong, Macau, Taiwan and Traditional Chinese devices default to English. Remember explicit choices and allow a visible language selector. Use responsive desktop, portrait phone and short landscape layouts, scrollable short-screen menus, comfortable touch targets, collapsible panels and no overlapping controls. Do not require keyboard input on touch devices. Keep development-only state mutation and aiming helpers out of production.
-
-7. Completion criteria
-Deliver an editable standalone source project, lockfile, npm dev/build instructions and a working static preview. Match the current screenshots and gameplay video, including the cream status panel, gold fixed reference marker, zero-start live charge and fully 3D tank/island presentation. Verify first launch, model loading, a complete turn cycle, each payload's behavior, pause, replay and a real win/loss outcome. Confirm appearance switching preserves state and keyboard/touch cancellation does not fire. At a clear no-wind test shot, releasing at reference power should land close to the reference circle; opposite crosswinds must visibly shift the actual shell while leaving that circle unchanged. Check 30/60/144 Hz behavior, high-speed collision, deep craters, fire expiry, complete submersion elimination and equality of normal/fast-forward turn outcomes. Inspect desktop and narrow layouts in all four languages; identify browser emulation separately from physical-device testing. Validate the hosted page and linked media, not only the local build.
-
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/crazy-tanks-3d-island-artillery) · [Live demo](https://super-tanks-aftershock.tripo.page/) · [Back to examples](#all-prompts)
-
----
-
 <a id="jelly-villa"></a>
 
 ### Jelly Villa
@@ -4304,7 +4340,7 @@ Publish a new jelly-villa prompt credited to jared, with the original author in 
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 381 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 383 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>

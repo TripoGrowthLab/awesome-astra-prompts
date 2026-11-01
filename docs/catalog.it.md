@@ -28,14 +28,14 @@
 **Un punto di partenza per il tuo prossimo gioco, scena o mondo interattivo.**
 
 
-**381 · Prompt Astra più recenti**
+**383 · Prompt Astra più recenti**
 
 ## Progetti in evidenza
 
 <table>
 <tr>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/it/3d-prompts/golden-miner"><img src="../assets/featured/golden-miner.webp" width="420" loading="lazy" alt="Golden Miner: gioco minerario 3D a 24 livelli"></a><br><strong><a href="#golden-miner">Golden Miner: gioco minerario 3D a 24 livelli</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="#golden-miner">Prompt →</a></td>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/it/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/featured/crazy-tanks-3d-island-artillery.webp" width="420" loading="lazy" alt="Crazy Tanks — Artiglieria 3D sulle isole"></a><br><strong><a href="#crazy-tanks-3d-island-artillery">Crazy Tanks — Artiglieria 3D sulle isole</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="#crazy-tanks-3d-island-artillery">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/it/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/featured/crazy-tanks-3d-island-artillery.webp" width="420" loading="lazy" alt="Crazy Tanks — Artiglieria 3D sulle isole"></a><br><strong><a href="https://www.tripo3d.ai/it/3d-prompts/crazy-tanks-3d-island-artillery">Crazy Tanks — Artiglieria 3D sulle isole</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="https://www.tripo3d.ai/it/3d-prompts/crazy-tanks-3d-island-artillery">Prompt →</a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/it/3d-prompts/battle-city-3d"><img src="../assets/featured/battle-city-3d.webp" width="420" loading="lazy" alt="Battle City 3D: Difesa infinita con i carri armati"></a><br><strong><a href="https://www.tripo3d.ai/it/3d-prompts/battle-city-3d">Battle City 3D: Difesa infinita con i carri armati</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="https://www.tripo3d.ai/it/3d-prompts/battle-city-3d">Prompt →</a></td>
@@ -50,7 +50,6 @@
 <details>
 <summary>Esplora gli esempi</summary>
 
-- [Fetta di agrume gommosa 3D interattiva](#2103062348168618280)
 - [Northbound: viaggio interattivo su una nave vichinga](#2103187935759655167)
 - [Esperienza esplorabile autunnale e nebbiosa in Three.js](#2103211135214256350)
 - [STILLWATER — Esperienza nel browser in una palude al chiaro di luna](#2103308083242082314)
@@ -146,82 +145,13 @@
 - [Oasis Jelly: un’oasi nel deserto racchiusa in un cubo di gelatina tremolante](#2115449826481463529)
 - [Mercato di strada al neon interattivo di Neo-Kowloon](#2115478001882374452)
 - [Diorama WebGL interattivo Mangrove Lights](#2116024691533979940)
+- [Isola interattiva di mangrovie con fauna selvatica animata](#2116210452594401618)
+- [Mondo di simulazione urbana 3D voxel in tempo reale](#2116350947467440157)
 - [Luce rossa, luce verde: gioco di sopravvivenza 3D](#red-light-green-light)
 - [Golden Miner: gioco minerario 3D a 24 livelli](#golden-miner)
-- [Crazy Tanks — Artiglieria 3D sulle isole](#crazy-tanks-3d-island-artillery)
 - [Jelly Villa](#jelly-villa)
 
 </details>
-
-<a id="2103062348168618280"></a>
-
-### Fetta di agrume gommosa 3D interattiva
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2103062348168618280"><img src="../assets/previews/41edd4fdcfd514cd2e4a41c686561adaecd016ec2c1476bcd941a222a86a47ec.jpg" width="840" loading="lazy" alt="Fetta di agrume gommosa 3D interattiva"></a>
-
-L’autore del post ha condiviso questo prompt in un confronto tra Claude Opus 5.5 e ChatGPT-6 Astra. Richiede una simulazione standalone di un corpo deformabile in WebGPU, con una fetta di agrume gommosa deformabile, interazione tramite touch e mouse, geometria procedurale, rendering basato su shader e controlli della simulazione.
-
-**Prompt**
-
-```text
-Crea una splendida fetta di agrume gommosa 3D interattiva usando WebGPU. Fornisci l’esperienza completa in un unico file HTML standalone, con JavaScript e shader WGSL incorporati.
-
-Deve essere una vera simulazione 3D in tempo reale, non un video, un’immagine o un’animazione in loop.
-
-APPEARANCE
-
-Crea una spessa fetta d’arancia semicircolare, con polpa traslucida e succosa, otto spicchi distinti, delicate membrane interne, minuscole bolle, uno strato chiaro di albedo e una morbida buccia arancione.
-
-Falla sembrare una caramella gommosa di alta qualità: colore intenso, riflessi lucidi, luce che attraversa la polpa, rifrazione convincente e morbide ombre di contatto. Evita un bloom eccessivo, colori slavati o un aspetto di plastica rigida.
-
-Usa uno sfondo da studio caldo e chiaro e un’interfaccia editoriale pulita, con ampi spazi vuoti. Aggiungi il grande titolo serif in corsivo “Citrus Jelly”. Mantieni i controlli compatti e la fetta ben visibile.
-
-FISICA DEL CORPO DEFORMABILE
-
-La sensazione gelatinosa è l’aspetto più importante.
-
-- Afferra qualsiasi punto della fetta con il mouse o con un dito.
-- Tirala, sollevala, allungala, ruotala e rilasciala.
-- Rendi la deformazione locale: tirando un bordo, la polpa vicina deve allungarsi mentre il resto segue in modo naturale.
-- Dopo il rilascio, la fetta deve oscillare, superare temporaneamente la posizione di equilibrio e recuperare gradualmente la forma originale.
-- Includi gravità, inerzia, smorzamento, collisioni con il terreno e rimbalzi morbidi.
-- Mantieni approssimativamente il volume e impedisci alla mesh di collassare o di rovesciarsi dall’interno verso l’esterno.
-- Rendi la buccia leggermente più rigida della polpa.
-- Gli spicchi interni, le membrane e le bolle devono seguire la deformazione senza fluttuare fuori dal corpo.
-
-Usa un solver volumetrico stabile per corpi deformabili, ad esempio una mesh tetraedrica con vincoli XPBD. Non simulare la morbidezza scalando o ruotando l’intero oggetto.
-
-CONTROLS
-
-Includi tre preset colore: Arancia, Limone e Rubino.
-
-Aggiungi:
-- Slider della consistenza.
-- Slider dello smorzamento interno.
-- Pulsante “Dalle una spinta”.
-- Pulsante di ripristino.
-- Casella di selezione della velocità a un quarto.
-- Casella di selezione per mostrare la mesh.
-- Pulsante di pausa/ripresa.
-
-Mostra piccoli valori aggiornati in tempo reale per la massa, la percentuale del volume a riposo e l’energia cinetica.
-
-REQUISITI TECNICI
-
-Usa un rendering WebGPU autentico con shader WGSL. Genera proceduralmente tutta la geometria e tutti i dettagli visivi, senza modelli importati o file immagine.
-
-Mantieni gli aggiornamenti della simulazione indipendenti dalla frequenza dei fotogrammi del rendering. Supporta dispositivi desktop e touch. Mostra un messaggio chiaro di fallback se WebGPU non è disponibile.
-
-Testa trascinamenti energici, rilasci ripetuti, tutti i controlli e gli schermi stretti. Risolvi i problemi di instabilità della fisica, la geometria danneggiata e gli artefatti visivi prima di consegnare il file HTML finito.
-
-Il risultato deve trasmettere la sensazione di un piccolo esperimento tattile con una caramella, davvero appagante da manipolare.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2103062348168618280) · [Post originale](https://x.com/vib3coded/status/2103062415533371646) · [Torna agli esempi](#all-prompts)
-
----
 
 <a id="2103187935759655167"></a>
 
@@ -4097,6 +4027,168 @@ UI: brand "bakau°"; titolo "Una foresta che lampeggia a tempo."; pulsanti nella
 
 ---
 
+<a id="2116210452594401618"></a>
+
+### Isola interattiva di mangrovie con fauna selvatica animata
+
+[EnzoXbt](https://x.com/Enzoxbt01) · 2026-10-30
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/interactive-mangrove-island-threejs"><img src="../assets/previews/00d9101a825b11da7fc8cb19535f51f6ea3ce81ec35761331b5dee9ff805a636.jpg" width="840" loading="lazy" alt="Isola interattiva di mangrovie con fauna selvatica animata"></a>
+
+Un’esperienza interattiva in Three.js e WebGL ambientata su un’isola di mangrovie, con shader dell’acqua personalizzati, fauna selvatica animata e lucciole sincronizzate.
+
+**Prompt**
+
+```text
+crea un’isola interattiva di mangrovie usando Three.js e WebGL, con shader dell’acqua personalizzati, fauna selvatica animata e lucciole sincronizzate
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/interactive-mangrove-island-threejs) · [Post originale](https://x.com/Enzoxbt01/status/2116210452594401618) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="2116350947467440157"></a>
+
+### Mondo di simulazione urbana 3D voxel in tempo reale
+
+[CF长风](https://x.com/cfenghub) · 2026-10-31
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/voxel-city-real-time-3d-simulation"><img src="../assets/previews/1af329f1746ee2b46babc4675df8f583ff5fd0ab8ed41c93845dd01c86f41f7f.jpg" width="840" loading="lazy" alt="Mondo di simulazione urbana 3D voxel in tempo reale"></a>
+
+Prompt di riferimento pubblicato dall’autore nel post di confronto sulla simulazione urbana tra GPT6-sol-max e GROK4.7-XHIGH, introdotto dalla dicitura «Ecco il prompt di riferimento». Richiede la generazione da zero di un progetto Three.js a pagina singola, direttamente eseguibile: una mini-città voxel con edifici, strade, veicoli, pedoni e sistemi dinamici continui, oltre a esplorazione tramite telecamera, visualizzazione delle informazioni sugli edifici e controlli per mettere in pausa la simulazione e regolarne la velocità. Il post non specifica chiaramente che questo prompt di riferimento sia stato effettivamente usato come input per uno dei risultati mostrati nel video.
+
+**Prompt**
+
+```text
+### 1. Obiettivo del progetto
+
+Sei un ingegnere senior Three.js, un technical artist 3D e un game designer specializzato in simulazioni urbane.
+
+Crea da zero, direttamente, un mondo completo di simulazione urbana 3D voxel, curato nell’aspetto e in grado di funzionare in tempo reale.
+
+Nome del progetto: **VOXEL CITY — BUILD · LIVE · GROW**
+
+Questa deve essere una mini-città in funzione, non un’immagine statica di presentazione.
+
+La città deve includere edifici 3D reali, una rete stradale continua, veicoli, pedoni, scuole, ospedali, zone commerciali, parchi, svincoli sopraelevati e paesaggi sul lungomare. Le auto devono circolare continuamente, i pedoni muoversi lungo le strade, i semafori cambiare ciclicamente e le fontane e le superfici d’acqua restare in movimento.
+
+L’utente deve poter ruotare, traslare e zoomare liberamente la telecamera per esplorare le diverse zone della città, fare clic sugli edifici per visualizzarne le informazioni e controllare la pausa e la velocità della simulazione urbana.
+
+L’estetica generale deve richiamare i giochi di costruzione di città voxel di alta qualità e i raffinati modelli di città in miniatura. Deve essere luminosa, ricca, naturale e colorata, con una stratificazione spaziale ben definita e dettagli architettonici accurati.
+
+**Principio fondamentale: meglio mantenere la città compatta, assicurandosi però che ogni area abbia contenuti, ogni elemento importante sia chiaramente riconoscibile e la città sia davvero in funzione in modo continuo.**
+
+Non produrre prima un report di progettazione o un piano di implementazione. Genera direttamente il progetto completo.
+
+---
+
+### 2. Ambiente di esecuzione e requisiti di consegna
+
+Questo è il requisito inderogabile con la massima priorità.
+
+1. Consegna finale di un file `index.html` completo.
+2. Usa preferibilmente HTML, CSS, JavaScript nativo e Three.js.
+3. L’utente non deve installare Node.js, eseguire npm, avviare Vite, effettuare build o configurare un server locale.
+4. Per quanto possibile, fai in modo che il file HTML funzioni aprendolo direttamente nel browser.
+5. Non dipendere da modelli 3D, texture, immagini, font o file audio aggiuntivi da scaricare. Genera gli asset della città principalmente con geometrie e materiali procedurali.
+6. Puoi usare dipendenze CDN stabili, ma devi considerare i limiti relativi a ES Modules, alle risorse cross-origin e ai file locali quando `file://` viene aperto direttamente nel browser. Scegli preferibilmente modalità di caricamento verificate nella pratica e non dare per scontato che tutti gli ambienti browser consentano il caricamento dei moduli.
+7. Non usare immagini statiche, video sovrapposti o animazioni prerenderizzate come elemento principale della città 3D.
+8. Non simulare funzionalità reali con la sola decorazione visiva dei pulsanti.
+9. Tutte le animazioni principali devono essere aggiornate in tempo reale tramite JavaScript.
+10. Se l’ambiente Arena attuale supporta l’anteprima HTML in tempo reale, crea e verifica direttamente il progetto. Se l’ambiente presenta limitazioni di esecuzione, indica chiaramente i limiti specifici senza dichiarare che il progetto è stato eseguito correttamente.
+11. Il codice deve essere completo: non fornire solo frammenti, pseudocodice o sezioni che l’utente debba completare autonomamente.
+12. Entro il budget di sviluppo disponibile, dai priorità all’avvio della pagina, alla completezza della scena, al corretto funzionamento della telecamera e all’efficacia dei sistemi dinamici, aggiungendo solo in seguito le decorazioni extra.
+
+Nota importante: se l’ambiente di esecuzione attuale non è compatibile con una determinata modalità di caricamento di Three.js, adotta un’alternativa realmente funzionante. Non consegnare direttamente una pagina vuota a causa di un errore nel caricamento delle dipendenze.
+
+---
+
+### 3. Direzione artistica generale
+
+Crea una città voxel colorata, luminosa, naturale e ricca di dettagli ben definiti.
+
+Parole chiave visive:
+
+- Ambiente diurno soleggiato.
+- Geometrie voxel di alta qualità.
+- Paesaggio urbano in miniatura raffinato.
+- Sagome architettoniche nitide.
+- Colori ricchi ma ordinati.
+- Rapporti naturali tra luci e ombre.
+- Struttura stradale chiaramente leggibile.
+- Aree verdi e vegetazione vivaci.
+- Edifici riconoscibili.
+- Ombre morbide ma visibili.
+- Profondità spaziale realistica.
+- Immagine completa, di livello videoludico, non una scena di test composta da semplici blocchi grezzi.
+
+Lo stile deve avvicinarsi a un gioco di simulazione urbana voxel realizzato con cura: deve conservare l’estetica geometrica dei blocchi, offrendo al contempo variazioni materiche e livelli di profondità visiva.
+
+**È vietato usare uno stile cupo, opprimente, cyberpunk o da rovina post-apocalittica.**
+
+Inoltre, non interpretare «luminoso» come l’obbligo di rendere ogni oggetto quasi bianco.
+
+Non usare edifici bianchi puri su vaste aree, strade grigio-biancastre a basso contrasto, prati verde menta pallido o scene sbiancate da una luce ambientale eccessivamente intensa.
+
+L’immagine deve essere nitida, ricca e dotata di una solida tridimensionalità.
+
+---
+
+### 4. Linee guida cromatiche obbligatorie
+
+Questo è un importante criterio di accettazione del progetto.
+Segui rigorosamente la seguente suddivisione cromatica.
+#### 4.1 Cielo e ambiente
+
+- Cielo: azzurro medio-chiaro e limpido.
+- Ambiente in lontananza: naturale e fresco, senza foschia densa e pesante.
+- Superficie dell’acqua: blu-verde, chiaramente distinta dal cielo.
+- Nuvole: poche nuvole bianche e morbide, che non devono coprire gran parte della città.
+- Luce solare: luminosa e naturale, senza sovraesposizione.
+
+#### 4.2 Edifici
+
+Gli edifici devono distinguersi chiaramente per colore.
+
+Le zone residenziali devono usare combinazioni di bianco caldo, beige, arancione mattone, rosso corallo, giallo chiaro e verde menta.
+Le zone commerciali devono usare colori urbani moderni come vetro grigio-blu, facciate bianco-beige, decorazioni arancione caldo e facciate continue in vetro blu-verde.
+Le scuole devono usare colori facilmente riconoscibili, come giallo caldo, arancione, rosso o blu, e includere un campo sportivo e strutture scolastiche.
+Gli ospedali devono usare bianco caldo pulito e azzurro chiaro, accompagnati da un evidente simbolo medico rosso.
+Gli edifici industriali devono usare combinazioni di grigio neutro, arancione mattone e blu, con magazzini e strutture logistiche chiaramente riconoscibili.
+Gli edifici simbolo possono usare vetro grigio-blu, facciate bianco caldo e una quantità moderata di decorazioni dorate.
+**Gli edifici dell’intera città non devono diventare tutti blocchi dello stesso bianco puro.**
+Gli edifici devono differenziarsi per tonalità, luminosità, forma, tetto e dettagli delle facciate.
+
+#### 4.3 Strade e terreno
+
+- Le strade devono usare un grigio medio o un grigio medio scuro ben definito.
+- La segnaletica orizzontale deve essere bianca pulita o giallo chiaro.
+- I marciapiedi devono usare un grigio neutro medio, leggermente più chiaro della strada.
+- I cordoli devono avere un bordo chiaramente visibile.
+- I prati devono usare un verde di luminosità media, vivace e naturale.
+- Le chiome degli alberi devono usare diverse tonalità di verde, più chiare e più scure.
+- Parcheggi, incroci, frecce direzionali e linee di arresto devono essere chiaramente riconoscibili.
+
+Le strade devono distinguersi chiaramente dal terreno circostante e non confondersi con gli edifici in uno sfondo sbiancato.
+
+#### 4.4 Mezzi di trasporto
+
+I veicoli devono usare colori vari come rosso, giallo, blu, verde e bianco.
+Autobus, ambulanze, camion dei pompieri, furgoni e automobili comuni devono essere distinguibili a colpo d’occhio.
+Gli pneumatici devono usare colori scuri, mentre i finestrini devono essere blu-grigio o grigio scuro, chiaramente distinti, evitando che l’intero veicolo abbia un unico colore chiaro.
+
+#### 4.5 Palette dell’interfaccia
+
+L’interfaccia deve adottare lo stile HUD dei moderni giochi di simulazione urbana.
+Puoi usare blu petrolio, blu navy, bianco, grigio chiaro e piccole quantità di verde e arancione come colori funzionali.
+La UI deve creare un contrasto adeguato con la scena urbana senza attirare eccessivamente l’attenzione.
+I pannelli semitrasparenti devono mantenere il testo leggibile; la trasparenza non deve permettere ai colori dello sfondo di interferire con la lettura.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/voxel-city-real-time-3d-simulation) · [Post originale](https://x.com/cfenghub/status/2116350947467440157) · [Torna agli esempi](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Luce rossa, luce verde: gioco di sopravvivenza 3D
@@ -4242,62 +4334,6 @@ Confronta visivamente titolo, gioco normale, ogni regione, mappa, potenziamenti,
 
 ---
 
-<a id="crazy-tanks-3d-island-artillery"></a>
-
-### Crazy Tanks — Artiglieria 3D sulle isole
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/previews/7b026fd7cfcbf1398c6b77062abb333fe61e020e75b514aeab2eff40db94984e.png" width="840" loading="lazy" alt="Crazy Tanks — Artiglieria 3D sulle isole"></a>
-
-Mira, leggi il vento e carica partendo da zero in una battaglia di artiglieria su un'isola completamente in 3D. Scegli tra sei proiettili, scava crateri profondi e sopravvivi al caos crescente.
-
-**Prompt**
-
-```text
-1. Obiettivo del progetto
-Crea Crazy Tanks — Wild Tides, un gioco di artiglieria a turni giocabile e autenticamente tridimensionale, ambientato su un'isola tropicale. Il giocatore mira con un piccolo carro armato, legge il vento, dosa una carica che parte da zero e rimodella il campo di battaglia con i proiettili. Supporta le partite in solitaria contro l'IA e il passaggio locale tra giocatori, con una modalità predefinita tutti contro tutti con tre carri e un duello opzionale tra due carri. Vince l'ultimo carro sopravvissuto. Usa l'attuale gameplay di riferimento e gli screenshot come obiettivo visivo.
-
-2. Stile visivo
-Usa una telecamera prospettica e geometrie 3D orbitabili liberamente, non sprite piatti o una visuale laterale fissa. Crea un diorama in miniatura soleggiato, con carri dalle forme arrotondate color giada, arancio corallo e blu-viola, sabbia color crema, erba verde chiaro, acqua turchese riflettente, ombre morbide e una leggera foschia atmosferica in lontananza. Mantieni distintive le sagome dei tre carri e abbina i rispettivi cannoni. Usa un compatto pannello circolare color crema, simile a un'armatura, sopra il campo di battaglia e una plancia di controllo arrotondata color verde petrolio scuro sotto di esso. L'oro indica la potenza di riferimento e l'azione di fuoco; il color menta indica la carica effettiva e lo stato degli alleati. Mantieni ben visibile in alto il selettore dell'aspetto Tripo / Three.js, con le risorse Tripo come impostazione predefinita. Il cambio di aspetto deve preservare lo stato della partita e della fisica. Usa trattini sottili color verde petrolio, equidistanti e nello spazio dello schermo, oltre a un cerchio di atterraggio discreto; non riflettere sull'acqua la grafica di mira.
-
-3. Mondo e scena
-Usa un'isola con height field deformabile di circa 260 per 184 metri, circondata dall'oceano a un livello del mare fisso. Posiziona i carri iniziali ben distanti tra loro su terreno stabile; distribuisci rocce, palme, cactus e casse di rifornimenti raccoglibili. Le isole decorative più piccole aggiungono profondità allo sfondo e non devono mai sostituire il terreno principale deformabile. Le esplosioni deformano la superficie e possono scavare sotto il livello del mare. Mantieni il colore della riva e la schiuma su un'unica superficie d'acqua, per evitare piani sovrapposti e sfarfallio. Proietta i numeri dei carri dalle posizioni nel mondo a ogni frame renderizzato. Fornisci visuali dell'intera traiettoria, del carro, orbitabile e tattica dall'alto. La visuale della traiettoria deve contenere il carro che spara, l'arco e il punto di atterraggio stimato nello spazio tra l'HUD e la plancia di controllo. Prima di ogni colpo, mostra il carro che spara per circa 0,8 secondi, soffermati sulla bocca da fuoco e poi segui il proiettile. L'interazione manuale con la telecamera annulla l'inseguimento cinematografico.
-
-4. Inventario delle risorse
-Usa slot stabili per i modelli e mantieni i modelli sostitutivi indirizzabili individualmente:
-- jade-body: scafo cingolato arrotondato a forma di scudo verde; il corpo predefinito del giocatore. jade-cannon: cannone coordinato color giada, con anima scura e dettagli dorati, articolato indipendentemente.
-- ember-body: scafo corazzato appuntito color arancio corallo, dal profilo meccanico ribassato. ember-cannon: il relativo cannone arancione più lungo, con bocca da fuoco scura.
-- bolt-body: scafo cingolato industriale blu-viola, con corazza angolare a piastre. bolt-cannon: cannone blu spesso coordinato.
-- shell: proiettile d'artiglieria in ottone, con punta rastremata scura e dettaglio ciano. Riutilizzalo con tinta e scala specifiche per l'arma.
-- crate: cassa di rifornimenti corazzata gialla, con marchio ciano e angoli rinforzati; raccoglila per ottenere 20 punti corazza, fino a un massimo di 100.
-- rock: gruppo arrotondato di arenaria dai toni caldi; ripetilo a scale variate e usa un proxy di collisione separato.
-- palm: tronco ricurvo e fronde verdi stratificate; ripetilo come vegetazione dell'isola.
-- cactus: cactus verde compatto con piccoli dettagli floreali; ripetilo sul terreno asciutto.
-- islet: isola erbosa arrotondata sullo sfondo, con bordi di roccia e sabbia chiara; ripetila oltre l'arena.
-Dai priorità alle tre coppie coordinate corpo/cannone, seguite da proiettile/cassa e dagli elementi ambientali. Mantieni procedurali la deformazione del terreno, l'oceano, la schiuma, il fuoco, il fumo, le onde d'urto, i detriti, la grafica di mira, l'illuminazione, l'interfaccia e i proxy di collisione. Le parti corpo e cannone coordinate condividono un unico riferimento di design e la stessa scala. Posiziona il pivot del cannone sul suo giunto meccanico, allinea il suo asse anteriore a +X e usa la bocca da fuoco visibile come punto fisico di lancio. I corpi dei carri seguono le pendenze usando quaternioni; la mira della torretta resta una direzione nello spazio del mondo. Conserva le texture PBR originali e le cuciture UV. Mantieni separati i modelli scaricabili a piena risoluzione dalle copie ottimizzate per il runtime di gioco; i riferimenti e la provenienza dei file devono identificare l'effettiva fonte di generazione.
-
-5. Gameplay e feedback
-Ogni carro in vita riceve 18 metri di movimento all'inizio del proprio turno. WASD e il pad di movimento si muovono in relazione allo schermo; i tasti freccia e il pad di mira regolano azimut ed elevazione. Gli slider consentono di impostare azimut, elevazione da 10 a 80 gradi e potenza di riferimento da 0 a 100. Selezionare un avversario serve solo a rivolgersi verso di lui; non deve calcolare il tiro.
-L'arco color verde petrolio stima la potenza di riferimento scelta in assenza di vento. Mantieni fissi tale riferimento e il relativo indicatore dorato durante la carica. Tieni premuto Fuoco, Spazio o Invio sul pulsante Fuoco attivo per avviare ogni volta la potenza effettiva da 0; aumentala di 18 punti percentuali al secondo, mantienila a 100 e spara esattamente una volta al rilascio, usando la potenza effettiva in quell'istante. Un tocco rapido produce un tiro debole. La fascia dorata entro 3 punti percentuali è solo feedback visivo, senza agganci o correzioni nascoste. Annulla in caso di annullamento del puntatore, perdita del focus della finestra o perdita di visibilità. Blocca i cambiamenti di movimento, bersaglio e mira durante la carica. I controlli da tastiera degli input range non devono anche ruotare la torretta. La potenza zero rappresenta la velocità di lancio minima, non un proiettile fermo.
-La freccia e le scie di vento visibili in movimento mostrano la direzione in cui il vento spinge il proiettile. Indica la forza del vento e i metri al secondo; facendo clic sulla scheda del vento se ne spiega il funzionamento. Se il vento soffia verso sinistra, il giocatore deve mirare un po' verso destra. Un vento più forte e un tempo di volo maggiore causano una deriva più ampia. Il vento resta costante durante il tiro e cambia a ogni turno. Non compensare mai automaticamente l'anteprima del giocatore. Prevedi approssimativamente l'atterraggio sul terreno; nell'anteprima non promettere collisioni con carri o rocce, suddivisione dei gruppi o rimbalzi.
-Fornisci sei tipi di munizioni: HE illimitate; un proiettile a grappolo che si divide in cinque submunizioni discendenti; Seismic, con un cratere fino a 28 metri di diametro e 13 di profondità; un proiettile rimbalzante che rimbalza due volte; un proiettile Cataclysm per carro, con un cratere fino a 46 metri di diametro e 22 di profondità; e Incendiary, che lascia una zona di fuoco con raggio di 12 metri. Il fuoco infligge 8 danni al termine di ciascuna delle sei azioni; uscire dalla zona evita i danni e le zone sovrapposte non cumulano gli effetti. L'acqua marina spegne le fiamme. Un carro intero, compreso il cannone sollevato, completamente sotto il livello dell'acqua viene eliminato immediatamente. Mostra i danni reali, la perdita di corazza, il cedimento del terreno, gli schizzi d'acqua e l'esito dell'eliminazione.
-Usa palle di fuoco stratificate, anelli d'urto in espansione, scintille emissive, frammenti balistici, polvere e fumo, con un tremolio della telecamera contenuto. Usa la musica originale e i suoni di cannone, impatto, rimbalzo, esplosione pesante, fuoco e schizzi forniti da ElevenLabs. Includi attivazione/disattivazione dell'audio, pausa/ripresa, istruzioni, rigioca e ritorno al menu. Durante il volo del proiettile o i turni dell'IA, offri Torna al mio turno: esegui rapidamente la stessa simulazione a passi fissi e conserva tutti gli esiti relativi a danni, terreno e pericoli. Non saltare mai il turno di input di un amico in una partita locale.
-
-6. Implementazione tecnica
-Usa Three.js con moduli ES e Vite, font locali inclusi nel pacchetto, Web Audio per gli effetti e un elemento audio HTML per la musica in loop. Mantieni le risorse sulla stessa origine e supporta una build statica. Usa un renderer prospettico con antialiasing, budget adeguati per ombre e post-processing e una corretta eliminazione della geometria e dei materiali temporanei. Distingui la decorazione dei modelli dalle collisioni di gioco.
-Mantieni la fisica deterministica indipendente dal rendering, con unità metro/secondo, gravità pari a 9.81 m/s² e un passo fisso di 1/120 di secondo. Usa collisioni continue con sweep per i proiettili ad alta velocità contro terreno, acqua, carri e rocce; applica impulsi d'esplosione e gravità ai carri spostati. Ricava le posizioni di lancio dal transform effettivo del cannone specifico del carro. La riproduzione normale e l'avanzamento rapido devono chiamare gli stessi aggiornamenti della simulazione. I danni e la risposta al vento sono regole di gioco stilizzate, non un simulatore ingegneristico di esplosioni.
-Supporta interfacce in cinese, inglese, giapponese e coreano. All'avvio scegli la lingua del dispositivo; i dispositivi impostati su Hong Kong, Macao, Taiwan e cinese tradizionale devono usare l'inglese come impostazione predefinita. Ricorda le scelte esplicite e consenti di selezionare la lingua tramite un selettore visibile. Usa layout responsive per desktop, telefoni in verticale e visualizzazioni orizzontali ridotte, menu scorrevoli per gli schermi bassi, target touch comodi, pannelli comprimibili e nessun controllo sovrapposto. Non richiedere input da tastiera sui dispositivi touch. Mantieni fuori dalla produzione la mutazione dello stato e gli helper di mira riservati allo sviluppo.
-
-7. Criteri di completamento
-Fornisci un progetto sorgente autonomo e modificabile, il lockfile, le istruzioni npm per dev/build e un'anteprima statica funzionante. Rispecchia gli screenshot e il video di gameplay attuali, incluso il pannello di stato color crema, l'indicatore dorato di riferimento fisso, la carica effettiva che parte da zero e la presentazione completamente 3D di carri e isola. Verifica il primo avvio, il caricamento dei modelli, un ciclo completo di turno, il comportamento di ogni tipo di munizione, la pausa, il replay e un esito reale di vittoria/sconfitta. Conferma che il cambio di aspetto preservi lo stato e che l'annullamento da tastiera/touch non provochi lo sparo. In un tiro di test chiaro e senza vento, il rilascio alla potenza di riferimento dovrebbe atterrare vicino al cerchio di riferimento; i venti trasversali opposti devono spostare visibilmente il proiettile effettivo lasciando invariato quel cerchio. Controlla il comportamento a 30/60/144 Hz, le collisioni ad alta velocità, i crateri profondi, la scadenza del fuoco, l'eliminazione per immersione completa e l'uguaglianza degli esiti del turno in modalità normale e avanzamento rapido. Esamina i layout desktop e stretti in tutte e quattro le lingue; identifica separatamente l'emulazione del browser dai test su dispositivi fisici. Convalida la pagina pubblicata e i media collegati, non solo la build locale.
-
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/crazy-tanks-3d-island-artillery) · [Demo](https://super-tanks-aftershock.tripo.page/) · [Torna agli esempi](#all-prompts)
-
----
-
 <a id="jelly-villa"></a>
 
 ### Jelly Villa
@@ -4368,7 +4404,7 @@ Pubblicare un nuovo prompt jelly-villa attribuito a jared, con l’autore origin
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 381 esempi sul sito ufficiale →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 383 esempi sul sito ufficiale →</a></strong></p>
 <p><sub>Per mantenere fluido il rendering del README su GitHub, qui mostriamo solo i 100 esempi più recenti.</sub></p>
 <br>
 </td></tr>

@@ -3,6 +3,16 @@
   "note": "Generated images from CMS. Source attribution remains in the catalogs. Featured previews preserve the complete frame.",
   "files": [
     {
+      "path": "assets/previews/00d9101a825b11da7fc8cb19535f51f6ea3ce81ec35761331b5dee9ff805a636.jpg",
+      "fingerprint": "1dfaad0c8a56897c4ee646c7acc1f7c45039ce700f859430204c619b4d2e3d46",
+      "sha256": "00d9101a825b11da7fc8cb19535f51f6ea3ce81ec35761331b5dee9ff805a636",
+      "bytes": 66075,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2116210285426176000/img/wZH2jjT07P_9rvzA.jpg",
+      "promptIds": [
+        "2116210452594401618"
+      ]
+    },
+    {
       "path": "assets/previews/04114d42ef8ceeef1a9cdb52e7c3a92f74c84ccd1615428ba180a52b597736b0.webp",
       "fingerprint": "e8b2f63c3aedb615792897990e30c6d9a1bca3dca23d201bfeee0a43ca20def3",
       "sha256": "04114d42ef8ceeef1a9cdb52e7c3a92f74c84ccd1615428ba180a52b597736b0",
@@ -70,6 +80,16 @@
       "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2113899168846716928/img/NukY8dZ7tuu5o-bo.jpg",
       "promptIds": [
         "2113900384695755129"
+      ]
+    },
+    {
+      "path": "assets/previews/1af329f1746ee2b46babc4675df8f583ff5fd0ab8ed41c93845dd01c86f41f7f.jpg",
+      "fingerprint": "69936b68116b1a99c3722d49478c741e05f31735e4cf12b3525da3f682bb3100",
+      "sha256": "1af329f1746ee2b46babc4675df8f583ff5fd0ab8ed41c93845dd01c86f41f7f",
+      "bytes": 259867,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2116208219320397824/img/lsye-fToFyGptzLb.jpg",
+      "promptIds": [
+        "2116350947467440157"
       ]
     },
     {
@@ -300,16 +320,6 @@
       "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2112556514934161408/img/gmw-rz9o9tgmtjVK.jpg",
       "promptIds": [
         "2112556579153178940"
-      ]
-    },
-    {
-      "path": "assets/previews/41edd4fdcfd514cd2e4a41c686561adaecd016ec2c1476bcd941a222a86a47ec.jpg",
-      "fingerprint": "4fd35d147632ee6e475e5549f27a1b4e2aadfbfb54e3df637d2e39bcfddb9bac",
-      "sha256": "41edd4fdcfd514cd2e4a41c686561adaecd016ec2c1476bcd941a222a86a47ec",
-      "bytes": 64361,
-      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103062279189127168/img/_ZVJvEx3rx40Wpsr.jpg",
-      "promptIds": [
-        "2103062348168618280"
       ]
     },
     {

@@ -28,14 +28,14 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**381 · En yeni Astra istemleri**
+**383 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
 <table>
 <tr>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/tr/3d-prompts/golden-miner"><img src="../assets/featured/golden-miner.webp" width="420" loading="lazy" alt="Golden Miner: 24 Seviyeli 3B Madencilik Oyunu"></a><br><strong><a href="#golden-miner">Golden Miner: 24 Seviyeli 3B Madencilik Oyunu</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="#golden-miner">İstem →</a></td>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/tr/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/featured/crazy-tanks-3d-island-artillery.webp" width="420" loading="lazy" alt="Crazy Tanks — 3B Ada Topçuluğu"></a><br><strong><a href="#crazy-tanks-3d-island-artillery">Crazy Tanks — 3B Ada Topçuluğu</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="#crazy-tanks-3d-island-artillery">İstem →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/tr/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/featured/crazy-tanks-3d-island-artillery.webp" width="420" loading="lazy" alt="Crazy Tanks — 3B Ada Topçuluğu"></a><br><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/crazy-tanks-3d-island-artillery">Crazy Tanks — 3B Ada Topçuluğu</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="https://www.tripo3d.ai/tr/3d-prompts/crazy-tanks-3d-island-artillery">İstem →</a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/tr/3d-prompts/battle-city-3d"><img src="../assets/featured/battle-city-3d.webp" width="420" loading="lazy" alt="Battle City 3D: Sonsuz Tank Savunması"></a><br><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/battle-city-3d">Battle City 3D: Sonsuz Tank Savunması</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">jared</a></sub><br><a href="https://www.tripo3d.ai/tr/3d-prompts/battle-city-3d">İstem →</a></td>
@@ -50,7 +50,6 @@
 <details>
 <summary>Örnekleri keşfet</summary>
 
-- [Etkileşimli 3B jelibon narenciye dilimi](#2103062348168618280)
 - [Northbound: Etkileşimli Viking Uzun Gemisi Yolculuğu](#2103187935759655167)
 - [Keşfedilebilir sisli sonbahar Three.js deneyimi](#2103211135214256350)
 - [STILLWATER — Ay Işığındaki Bataklık Tarayıcı Deneyimi](#2103308083242082314)
@@ -146,82 +145,13 @@
 - [Oasis Jelly: yalpalayan bir jel küpün içine hapsolmuş çöl vahası](#2115449826481463529)
 - [Neo-Kowloon Etkileşimli Neon Sokak Pazarı](#2115478001882374452)
 - [Mangrov Işıkları etkileşimli WebGL diyoraması](#2116024691533979940)
+- [Animasyonlu yaban hayatıyla etkileşimli mangrov adası](#2116210452594401618)
+- [Gerçek Zamanlı Voxel 3B Şehir Simülasyonu Dünyası](#2116350947467440157)
 - [Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu](#red-light-green-light)
 - [Golden Miner: 24 Seviyeli 3B Madencilik Oyunu](#golden-miner)
-- [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [Jöle Villa](#jelly-villa)
 
 </details>
-
-<a id="2103062348168618280"></a>
-
-### Etkileşimli 3B jelibon narenciye dilimi
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103062348168618280"><img src="../assets/previews/41edd4fdcfd514cd2e4a41c686561adaecd016ec2c1476bcd941a222a86a47ec.jpg" width="840" loading="lazy" alt="Etkileşimli 3B jelibon narenciye dilimi"></a>
-
-Gönderi yazarı bu istemi Claude Opus 5.5 ve ChatGPT-6 Astra karşılaştırmasında paylaşmıştır. İstem; dokunma ve fare etkileşimli, deforme olabilen bir jelibon narenciye dilimi için bağımsız bir WebGPU yumuşak cisim simülasyonu, prosedürel geometri, shader tabanlı görselleştirme ve simülasyon kontrolleri talep ediyor.
-
-**İstem**
-
-```text
-WebGPU kullanarak güzel ve etkileşimli bir 3B jelibon narenciye dilimi oluşturun. Gömülü JavaScript ve WGSL shader'ları içeren, tüm deneyimi tek bir bağımsız HTML dosyasında sunun.
-
-Bu, video, görsel veya döngüsel animasyon değil, gerçek zamanlı bir 3B simülasyon olmalıdır.
-
-APPEARANCE
-
-Yarı saydam ve sulu iç dokulu, sekiz belirgin dilimli, narin iç zarları, minik kabarcıkları, açık renkli beyaz dokusu ve yumuşak turuncu kabuğu olan kalın, yarım daire biçimli bir portakal dilimi oluşturun.
-
-Birinci sınıf jelibon şekerleme gibi görünmesini sağlayın: doygun renkler, parlak yansımalar, iç dokudan geçen ışık, inandırıcı kırılma ve yumuşak temas gölgeleri kullanın. Aşırı bloom efektinden, soluk renklerden veya sert plastik görünümünden kaçının.
-
-Sıcak ve açık renkli bir stüdyo arka planı ile bol beyaz alan kullanan sade, editoryal bir arayüz kullanın. Büyük, italik serif başlık olarak “Citrus Jelly” metnini ekleyin. Kontrolleri kompakt tutun ve dilimin net biçimde görünmesini sağlayın.
-
-YUMUŞAK CİSİM FİZİĞİ
-
-Jelibon hissi en önemli unsurdur.
-
-- Dilimin herhangi bir bölümünü fareyle veya parmağınızla tutun.
-- Çekin, kaldırın, esnetin, bükün ve bırakın.
-- Deformasyonu yerel tutun: Bir kenarı çektiğinizde yakındaki iç doku esnerken geri kalan kısım doğal biçimde onu takip etmelidir.
-- Bırakıldıktan sonra dilim sallanmalı, hedef şekli aşmalı ve giderek başlangıçtaki şekline dönmelidir.
-- Yerçekimi, atalet, sönümleme, zemin çarpışmaları ve yumuşak sekme ekleyin.
-- Hacmi yaklaşık olarak koruyun; ağın çökmesini veya ters yüz olmasını önleyin.
-- Kabuğu iç dokudan biraz daha sert yapın.
-- İç dilimler, zarlar ve kabarcıklar deformasyonu takip etmeli, gövdenin dışına taşarak havada kalmamalıdır.
-
-Tetrahedral mesh ve XPBD kısıtları gibi kararlı, hacimsel bir yumuşak cisim çözücüsü kullanın. Tüm nesneyi ölçeklendirerek veya döndürerek yumuşaklık taklidi yapmayın.
-
-CONTROLS
-
-Üç renk ön ayarı ekleyin: Orange, Lemon ve Ruby.
-
-Şunları ekleyin:
-- Sertlik kaydırıcısı.
-- İç sönümleme kaydırıcısı.
-- “Bir dürtme gönder” düğmesi.
-- Sıfırla düğmesi.
-- Çeyrek hız onay kutusu.
-- Ağı göster onay kutusu.
-- Duraklat/devam et düğmesi.
-
-Kütle, başlangıç hacminin yüzde kaçı ve kinetik enerji için küçük, canlı değer göstergeleri görüntüleyin.
-
-TEKNİK GEREKSİNİMLER
-
-WGSL shader'larıyla gerçek WebGPU işleme kullanın. İçe aktarılan model veya görsel dosyaları olmadan tüm geometriyi ve görsel ayrıntıları prosedürel olarak üretin.
-
-Simülasyon güncellemelerini işleme kare hızından bağımsız tutun. Masaüstü ve dokunmatik cihazları destekleyin. WebGPU kullanılamıyorsa anlaşılır bir geri dönüş mesajı gösterin.
-
-Kuvvetli sürüklemeyi, art arda bırakma işlemlerini, tüm kontrolleri ve dar ekranları test edin. Son HTML'yi teslim etmeden önce kararsız fiziği, bozuk geometriyi ve görsel kusurları düzeltin.
-
-Sonuç, oynaması gerçekten tatmin edici, küçük ve dokunsal bir şekerleme deneyi hissi vermelidir.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103062348168618280) · [Orijinal gönderi](https://x.com/vib3coded/status/2103062415533371646) · [Örneklere dön](#all-prompts)
-
----
 
 <a id="2103187935759655167"></a>
 
@@ -4097,6 +4027,168 @@ Arayüz: marka adı "bakau°"; başlık "Zamanında göz kırpan bir orman."; do
 
 ---
 
+<a id="2116210452594401618"></a>
+
+### Animasyonlu yaban hayatıyla etkileşimli mangrov adası
+
+[EnzoXbt](https://x.com/Enzoxbt01) · 2026-10-30
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-mangrove-island-threejs"><img src="../assets/previews/00d9101a825b11da7fc8cb19535f51f6ea3ce81ec35761331b5dee9ff805a636.jpg" width="840" loading="lazy" alt="Animasyonlu yaban hayatıyla etkileşimli mangrov adası"></a>
+
+Özel su shader’ları, animasyonlu yaban hayatı ve senkronize ateş böcekleri içeren etkileşimli bir Three.js ve WebGL mangrov adası deneyimi.
+
+**İstem**
+
+```text
+Özel su shader’ları, animasyonlu yaban hayatı ve senkronize ateş böcekleriyle Three.js ve WebGL kullanarak etkileşimli bir mangrov adası oluştur
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-mangrove-island-threejs) · [Orijinal gönderi](https://x.com/Enzoxbt01/status/2116210452594401618) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2116350947467440157"></a>
+
+### Gerçek Zamanlı Voxel 3B Şehir Simülasyonu Dünyası
+
+[CF长风](https://x.com/cfenghub) · 2026-10-31
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/voxel-city-real-time-3d-simulation"><img src="../assets/previews/1af329f1746ee2b46babc4675df8f583ff5fd0ab8ed41c93845dd01c86f41f7f.jpg" width="840" loading="lazy" alt="Gerçek Zamanlı Voxel 3B Şehir Simülasyonu Dünyası"></a>
+
+Yazar, GPT6-sol-max ve GROK4.7-XHIGH ile yapılan şehir simülasyonu karşılaştırma gönderisinde “İstem referansı aşağıdadır” diyerek bir referans istemi paylaşıyor. İstem, sıfırdan oluşturulan ve doğrudan çalıştırılabilen tek sayfalık bir Three.js projesi talep ediyor: binalar, yollar, araçlar, yayalar ve sürekli çalışan dinamik sistemler içeren voxel tarzı bir minyatür şehir. Ayrıca kamera ile keşif, bina bilgilerini görüntüleme ve simülasyonu duraklatma ya da hızını değiştirme özellikleri isteniyor. Gönderide, bu referans isteminin videodaki sonuçlardan herhangi birinin gerçek girdisi olduğu açıkça belirtilmiyor.
+
+**İstem**
+
+```text
+### 1. Proje hedefi
+
+Kıdemli bir Three.js mühendisi, 3B teknik sanatçı ve şehir simülasyonu oyunu tasarımcısısın.
+
+Sıfırdan başlayarak doğrudan eksiksiz, görsel açıdan özenli ve gerçek zamanlı çalışabilen voxel tarzı bir 3B şehir simülasyonu dünyası oluştur.
+
+Proje adı: **VOXEL CITY — BUILD · LIVE · GROW**
+
+Bu, statik bir görsel değil, aktif biçimde işleyen bir minyatür şehir olmalı.
+
+Şehirde gerçek 3B binalar, kesintisiz bir yol ağı, araçlar, yayalar, okullar, hastaneler, ticaret bölgeleri, parklar, kavşaklar ve kıyı manzaraları bulunmalı. Arabalar sürekli hareket etmeli, yayalar yollar boyunca ilerlemeli, trafik ışıkları döngüsel olarak değişmeli, çeşmeler ve su yüzeyleri sürekli hareket etmeli.
+
+Kullanıcı kamerayı serbestçe döndürebilmeli, kaydırabilmeli ve yakınlaştırıp uzaklaştırabilmeli; şehrin farklı bölgelerini keşfedebilmeli, binalara tıklayarak bilgi görüntüleyebilmeli ve şehir simülasyonunu duraklatıp çalışma hızını kontrol edebilmeli.
+
+Genel görsel referans, yüksek kaliteli voxel şehir kurma oyunları ve özenle hazırlanmış minyatür şehir maketleridir. Görsel; aydınlık, canlı, doğal ve renk açısından zengin olmalı, belirgin bir 3B katmanlı yapıya ve ayrıntılı bina detaylarına sahip olmalı.
+
+**Temel ilke: Şehrin ölçeğini kompakt tutmak pahasına her bölgeyi içerikle doldur, her önemli unsuru kolayca ayırt edilebilir kıl ve şehrin gerçekten sürekli çalışmasını sağla.**
+
+Önce tasarım raporu veya uygulama planı sunma. Eksiksiz projeyi doğrudan oluştur.
+
+---
+
+### 2. Çalışma ortamı ve teslim gereksinimleri
+
+Bu, en yüksek önceliğe sahip kesin gereksinimdir.
+
+1. Son teslimat eksiksiz bir `index.html` dosyası olmalı.
+2. Oluşturma için öncelikle HTML, CSS, yerel JavaScript ve Three.js kullan.
+3. Kullanıcının Node.js yüklemesi, npm çalıştırması, Vite başlatması, derleme yapması veya yerel sunucu yapılandırması gerekmemeli.
+4. HTML dosyasının tarayıcıda doğrudan açıldığında çalışabilmesini mümkün olduğunca garanti et.
+5. Harici olarak indirilmesi gereken 3B modellere, dokulara, görsellere, yazı tiplerine veya ses dosyalarına bağımlı olma. Şehir varlıklarını mümkün olduğunca prosedürel geometri ve materyallerle oluştur.
+6. Kararlı CDN bağımlılıkları kullanılabilir; ancak tarayıcıda doğrudan açıldığında `file://` ES Modules, çapraz kaynak kaynakları ve yerel dosyalarla ilgili kısıtlamalar dikkate alınmalı. Gerçekten doğrulanmış yükleme yöntemlerini tercih et; her tarayıcı ortamının modül yüklemeye izin verdiğini varsayma.
+7. Statik görselleri, video katmanlarını veya önceden oluşturulmuş animasyonları 3B şehrin ana unsuru olarak kullanma.
+8. Düğmelerin yalnızca görsel süslemesini gerçek işlev gibi gösterme.
+9. Tüm temel animasyonlar gerçek zamanlı JavaScript güncellemeleriyle sürdürülmeli.
+10. Mevcut Arena ortamı gerçek zamanlı HTML önizlemesini destekliyorsa projeyi doğrudan oluştur ve doğrula. Mevcut ortamda çalıştırma kısıtlamaları varsa belirli kısıtlamaları açıkça belirt; başarıyla çalıştığını iddia etme.
+11. Kod eksiksiz olmalı; yalnızca parçalar, sözde kod veya kullanıcının kendi tamamlamasını gerektiren bölümler sunma.
+12. Kullanılabilir geliştirme bütçesi dahilinde önceliği sayfanın başlatılmasına, sahnenin eksiksiz olmasına, kameranın düzgün çalışmasına ve dinamik sistemlerin etkin olmasına ver; ardından ek süslemeler ekle.
+
+Özellikle dikkat: Mevcut çalıştırma ortamı belirli bir Three.js yükleme yöntemiyle uyumlu değilse gerçekten kullanılabilir bir alternatif kullan. Bağımlılık yüklemesi başarısız oldu diye boş bir sayfa teslim etme.
+
+---
+
+### 3. Genel sanat yönü
+
+Renk açısından zengin, aydınlık, doğal ve ayrıntıları net bir voxel şehir oluştur.
+
+Görsel anahtar kelimeler:
+
+- Güneşli gündüz ortamı.
+- Yüksek kaliteli voxel geometrisi.
+- Özenle hazırlanmış minyatür şehir manzarası.
+- Net bina silüetleri.
+- Zengin ama düzenli renkler.
+- Doğal ışık ve gölge ilişkisi.
+- Net yol düzeni.
+- Belirgin yeşil alanlar ve bitki örtüsü.
+- Ayırt edici binalar.
+- Yumuşak ama görünür gölgeler.
+- Gerçekçi mekânsal derinlik.
+- Ham küp test sahnesi yerine oyun kalitesinde eksiksiz bir görüntü.
+
+Tarz, özenle hazırlanmış bir voxel şehir simülasyonu oyununa yaklaşmalı: blok benzeri geometrik estetiği korurken zengin materyal çeşitliliği ve görsel katmanlar sunmalı.
+
+**Karanlık, kasvetli, siberpunk veya kıyamet sonrası harabe tarzlarını kullanma.**
+
+Ayrıca “aydınlık” kavramını tüm nesnelerin beyaza bürünmesi olarak yorumlama.
+
+Geniş alanlarda saf beyaz binalar, düşük kontrastlı gri-beyaz yollar, soluk nane yeşili çimler veya güçlü ortam ışığıyla beyazlatılmış sahneler kullanma.
+
+Görüntü net, canlı ve üç boyut hissi veren bir yapıda olmalı.
+
+---
+
+### 4. Zorunlu renk düzeni
+
+Bu, projenin önemli kabul kriterlerinden biridir.
+Aşağıdaki renk ayrımına kesinlikle uy.
+#### 4.1 Gökyüzü ve çevre
+
+- Gökyüzü: berrak, orta-açık mavi.
+- Uzak çevre: doğal ve ferah; yoğun beyaz sis kullanma.
+- Su yüzeyi: gökyüzünden belirgin biçimde farklı mavi-yeşil bir ton.
+- Bulutlar: az miktarda yumuşak beyaz bulut; şehri geniş ölçüde kapatmamalı.
+- Güneş ışığı: aydınlık ve doğal; aşırı pozlama olmamalı.
+
+#### 4.2 Binalar
+
+Binalar arasında belirgin renk farkları bulunmalı.
+
+Konut bölgelerinde kırık beyaz, bej, tuğla turuncusu, mercan kırmızısı, açık sarı ve nane yeşili gibi renkler kullan.
+Ticaret bölgelerinde mavi-gri cam, kırık beyaz cepheler, sıcak turuncu dekorasyon ve mavi-yeşil cam giydirme cepheler gibi modern şehir renkleri kullan.
+Okullar, kolayca tanınabilen sıcak sarı, turuncu, kırmızı veya mavi gibi renklere sahip olmalı; ayrıca okul bahçesi ve eğitim tesisleri bulunmalı.
+Hastanelerde temiz sıcak beyaz ve açık mavi renkler, dikkat çekici kırmızı tıbbi işaretlerle birlikte kullanılmalı.
+Sanayi binalarında nötr gri, tuğla turuncusu ve mavi gibi renkler kullanılmalı; depo ve lojistik tesisleriyle kolayca tanınabilmeli.
+Simgesel binalarda mavi-gri cam, sıcak beyaz cepheler ve ölçülü miktarda altın rengi süsleme kullanılabilir.
+**Şehirdeki tüm binaların aynı saf beyaz küplere dönüşmesine izin verme.**
+Binalar; renk tonu, parlaklık, biçim, çatılar ve cephe detaylarıyla birbirinden ayrılmalı.
+
+#### 4.3 Yollar ve zemin
+
+- Yollarda belirgin orta gri veya koyu orta gri kullan.
+- Şerit çizgileri temiz beyaz veya açık sarı olmalı.
+- Kaldırımlar yollardan biraz daha açık nötr gri olmalı.
+- Bordürler belirgin sınırlara sahip olmalı.
+- Çimler canlı, doğal ve orta parlaklıkta yeşil olmalı.
+- Ağaç taçlarında farklı koyuluk ve açıklıktaki yeşiller kullanılmalı.
+- Park yerleri, kavşaklar, dönüş okları ve dur çizgileri açıkça ayırt edilebilmeli.
+
+Yollar çevredeki zeminden belirgin biçimde ayrılmalı; binalarla birlikte beyazımsı bir arka planda erimemeli.
+
+#### 4.4 Ulaşım araçları
+
+Araçlarda kırmızı, sarı, mavi, yeşil, beyaz ve benzeri çeşitli renkler kullanılmalı.
+Otobüsler, ambulanslar, itfaiye araçları, kamyonlar ve binek araçlar ilk bakışta birbirinden ayırt edilebilmeli.
+Lastiklerde daha koyu renkler, camlarda ise ayırt edici mavi-gri veya koyu gri tonlar kullanılmalı; aracın tamamının tek bir açık renkten oluşmasından kaçınılmalı.
+
+#### 4.5 UI renkleri
+
+Arayüzde modern şehir simülasyonu oyunlarının HUD tarzı kullanılmalı.
+İşlev renkleri olarak koyu deniz mavisi, lacivert, beyaz, açık gri ve az miktarda yeşil ile turuncu kullanılabilir.
+UI ile şehir görüntüsü arasında uygun bir kontrast olmalı; ancak UI aşırı dikkat çekmemeli.
+Yarı saydam paneller metnin netliğini korumalı; saydamlık nedeniyle arka plan renkleri okumayı zorlaştırmamalı.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/voxel-city-real-time-3d-simulation) · [Orijinal gönderi](https://x.com/cfenghub/status/2116350947467440157) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu
@@ -4242,62 +4334,6 @@ Başlık, normal oynanış, her bölge, harita, geliştirmeler, başarısızlık
 
 ---
 
-<a id="crazy-tanks-3d-island-artillery"></a>
-
-### Crazy Tanks — 3B Ada Topçuluğu
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/previews/7b026fd7cfcbf1398c6b77062abb333fe61e020e75b514aeab2eff40db94984e.png" width="840" loading="lazy" alt="Crazy Tanks — 3B Ada Topçuluğu"></a>
-
-Tamamen 3B bir ada topçuluğu savaşında nişan alın, rüzgârı okuyun ve gücü sıfırdan doldurun. Altı mermi arasından seçim yapın, derin kraterler açın ve giderek büyüyen kaostan sağ çıkın.
-
-**İstem**
-
-```text
-1. Proje amacı
-Crazy Tanks — Wild Tides adlı, tropik bir adada geçen, oynanabilir ve gerçek anlamda üç boyutlu, sıra tabanlı bir topçu oyunu oluşturun. Oyuncu küçük bir tankı nişan alır, rüzgârı okur, gücü sıfırdan doldurup doğru anda ateşler ve mermilerle savaş alanının şeklini değiştirir. Yapay zekâya karşı tek oyunculu ve yerel sırayla oynama modlarını destekleyin. Varsayılan modda üç tankın serbest savaşı, isteğe bağlı olarak da iki tanklı düello bulunsun. Hayatta kalan son tank kazanır. Görsel hedef olarak mevcut referans oynanışını ve ekran görüntülerini kullanın.
-
-2. Görsel stil
-Sabit bir yandan görünüm veya düz sprite'lar yerine perspektif kamera ve serbestçe döndürülebilen 3B geometri kullanın. Yuvarlatılmış yeşim yeşili, mercan turuncusu ve mavi-mor tanklar; krem rengi kum; açık yeşil çimen; turkuaz, yansıtıcı su; yumuşak gölgeler ve hafif atmosferik uzaklık sisiyle güneşli, minyatür bir diorama oluşturun. Üç tankın ayırt edici silüetlerini ve bunlarla eşleşen namluları koruyun. Savaş alanının üzerinde kompakt, krem renkli yuvarlak/zırh paneli; altında ise koyu teal renkli, yuvarlatılmış bir kontrol paneli kullanın. Altın rengi, referans gücü ve ateşleme eylemini; mint rengi ise gerçek dolum gücünü ve dost durumunu belirtir. Tripo / Three.js görünüm değiştirme seçeneğini üst kısımda belirgin tutun ve varsayılan olarak Tripo varlıklarını kullanın. Görünüm değiştirilirken karşılaşma ve fizik durumu korunmalıdır. İnce ve eşit aralıklı teal ekran-uzayı çizgileri ile sade bir iniş dairesi kullanın; nişan grafiklerini suya yansıtmayın.
-
-3. Dünya ve sahne
-Yaklaşık 260 × 184 metre boyutlarında, sabit deniz seviyesindeki okyanusla çevrili, parçalanabilir bir yükseklik alanı adası kullanın. Başlangıç tanklarını sağlam zeminde birbirinden uzağa yerleştirin; kayalar, palmiyeler, kaktüsler ve toplanabilir ikmal sandıkları dağıtın. Daha küçük dekoratif adalar arka plan derinliği sağlasın ve asla parçalanabilir ana arazinin yerine geçmesin. Patlamalar yüzeyi deforme edebilmeli ve deniz seviyesinin altına kadar kazabilmelidir. Üst üste binen düzlemleri ve titreşmeyi önlemek için kıyı rengini ve köpüğü tek bir su yüzeyinde tutun. Tank numaralarını her oluşturulan karede dünya konumlarından yansıtın. Tam yörünge, tank, serbest kamera dönüşü ve taktik kuş bakışı görünümleri sağlayın. Yörünge görünümü, ateş eden tankı, yayı ve tahmini iniş noktasını HUD ile kontrol paneli arasındaki alana sığdırmalıdır. Her atıştan önce ateş eden tankı yaklaşık 0,8 saniye gösterin, namluda kısa süre bekleyin ve ardından mermiyi takip edin. Manuel kamera etkileşimi sinematik takibi iptal eder.
-
-4. Varlık envanteri
-Kararlı model yuvaları kullanın ve yedek modellerin her birine ayrı ayrı erişilebilmesini sağlayın:
-- jade-body: yuvarlatılmış, yeşil, kalkan biçimli paletli gövde; oyuncunun varsayılan gövdesi. jade-cannon: koyu namlu ağzına ve altın rengi ayrıntılara sahip, eşleşen yeşim yeşili namlu; bağımsız olarak hareket ettirilebilir.
-- ember-body: alçak mekanik profile sahip, mercan turuncusu renkli, sivri zırhlı gövde. ember-cannon: daha uzun, eşleşen turuncu namlu ve koyu namlu ağzı.
-- bolt-body: köşeli plakalı zırha sahip, mavi-mor renkli endüstriyel paletli gövde. bolt-cannon: eşleşen kalın mavi namlu.
-- shell: koyu renkli, konik uçlu ve camgöbeği ayrıntılı pirinç topçu mermisi. Silaha özgü renk tonu ve ölçekle yeniden kullanın.
-- crate: camgöbeği işaretli ve güçlendirilmiş köşelere sahip sarı zırhlı ikmal sandığı; toplayınca 20 zırh verir, üst sınır 100'dür.
-- rock: sıcak tonlu, yuvarlak kumtaşı kümesi; farklı ölçeklerde tekrarlayın ve ayrı bir çarpışma vekili kullanın.
-- palm: kıvrımlı gövde ve katmanlı yeşil yapraklar; ada bitkisi olarak tekrarlayın.
-- cactus: küçük çiçek ayrıntılarına sahip kompakt yeşil kaktüs; kuru arazide tekrarlayın.
-- islet: açık renkli kaya/kum kenarlarına sahip, yuvarlak çimenli arka plan adası; arenanın ötesinde tekrarlayın.
-Önceliği üç eşleşen gövde/namlu çiftine, ardından mermi/sandık ve çevre nesnelerine verin. Arazi deformasyonunu, okyanusu, köpüğü, ateşi, dumanı, şok dalgalarını, enkazı, nişan grafiklerini, aydınlatmayı, kullanıcı arayüzünü ve çarpışma vekillerini prosedürel tutun. Eşleşen gövde ve namlu parçaları aynı tasarım referansını ve ölçeği paylaşır. Namlu pivotunu mekanik eklemine yerleştirin, ileri eksenini +X yönüne hizalayın ve görünen namlu ağzını fiziksel fırlatma noktası olarak kullanın. Tank gövdelerini eğimlere kuaterniyonlarla uydurun; taret nişanı dünya uzayı yönü olarak kalmalıdır. Kaynak PBR dokularını ve UV dikişlerini koruyun. Tam çözünürlüklü indirilebilir modelleri optimize edilmiş oyun çalışma zamanı kopyalarından ayrı tutun; referanslar ve dosya kökeni gerçek üretim kaynağını belirtmelidir.
-
-5. Oynanış ve geri bildirim
-Hayatta olan her tank, sırası başladığında 18 metre hareket hakkı kazanır. WASD ve hareket pedi ekrana göre hareket eder; ok tuşları ve nişan pedi yatay ve dikey nişanı ayarlar. Kaydırıcılar yatay nişanı, 10–80 derece dikey nişanı ve 0–100 referans gücünü sağlar. Rakip seçmek yalnızca tankı ona döndürür; atışı kendi başına hesaplamamalıdır.
-Teal yay, rüzgâr yokken seçilen referans gücünü tahmin eder. Şarj sırasında bu referansı ve altın işaretçisini sabit tutun. Odaklanmış Ateş Et düğmesinde Ateş Et, Boşluk veya Enter tuşuna basılı tutmak, her seferinde gerçek gücü 0'dan başlatır; güç saniyede 18 yüzde puanı artar, 100'de sabit kalır ve bırakıldığı anda gerçek güç neyse tam olarak bir kez ateş edilir. Hızlı dokunuş zayıf bir atış yapar. 3 yüzde puanı içindeki altın bant yalnızca görsel geri bildirimdir; yaklaştırma veya gizli düzeltme yapılmaz. İşaretçi iptalinde, pencere odağı kaybolduğunda veya görünürlük kaybında işlemi iptal edin. Şarj sırasında hareket, hedef ve nişan değişikliklerini kilitleyin. Aralık girişi klavye kontrolleri aynı zamanda tareti döndürmemelidir. Sıfır güç, sabit duran mermi değil, en düşük fırlatma hızını ifade eder.
-Ok ve görünür biçimde sürüklenen rüzgâr çizgileri, rüzgârın mermiyi ittiği yönü gösterir. Rüzgârın gücünü ve saniyedeki metre cinsinden hızını etiketleyin; rüzgâr kartına tıklamak açıklamasını açmalıdır. Rüzgâr sola esiyorsa oyuncu bir miktar sağa nişan almalıdır. Daha güçlü rüzgâr ve daha uzun havada kalma süresi daha fazla sürüklenmeye neden olur. Rüzgâr atış boyunca sabit kalır ve her tur değişir. Oyuncunun önizlemesini asla otomatik olarak telafi etmeyin. Araziye inişi yaklaşık olarak tahmin edin; önizlemede tank/kaya çarpışmaları, küme parçalanması veya sekme sözü vermeyin.
-Altı mühimmat sağlayın: sınırsız HE; beş alçalan alt mühimmata ayrılan kümeli mermi; 28 metre çapa ve 13 metre derinliğe kadar krater açan Seismic; iki kez seken bir sekmeli mermi; tank başına bir adet, 46 metre çapa ve 22 metre derinliğe kadar krater açan Cataclysm; ve 12 metre yarıçapında ateş bölgesi bırakan Incendiary. Ateş, altı eylem sonunun her birinde 8 hasar verir; bölgenin dışına çıkmak hasarı önler ve üst üste gelen bölgeler birikmez. Deniz suyu alevleri söndürür. Yükseltilmiş namlusu da dâhil olmak üzere tankın tamamı suyun tamamen altına girdiğinde hemen elenir. Gerçek hasarı, zırh kaybını, arazi çökmesini, su sıçramasını ve elenme sonucunu gösterin.
-Katmanlı ateş topları, genişleyen şok halkaları, ışık saçan kıvılcımlar, balistik parçacıklar, toz ve duman kullanın; kamera sarsıntısını ölçülü tutun. Sağlanan özgün ElevenLabs müziğini ve top, çarpma, sekme, ağır patlama, ateş ve sıçrama seslerini kullanın. Ses açma/kapatma, duraklatma/devam ettirme, talimatlar, yeniden oynatma ve menüye dönme seçeneklerini ekleyin. Mermi uçuşu veya yapay zekâ turları sırasında Turuma dön seçeneği sunun: aynı sabit zaman adımı simülasyonunu hızla çalıştırın ve tüm hasar, arazi ve tehlike sonuçlarını koruyun. Yerel arkadaşın giriş turunu asla atlamayın.
-
-6. Teknik uygulama
-ES modülleri ve Vite ile Three.js kullanın; yazı tiplerini yerel olarak paketleyin, efektler için Web Audio, döngüsel müzik için HTML audio öğesi kullanın. Kaynakları aynı origin üzerinde tutun ve statik derlemeyi destekleyin. Antialiasing kullanan perspektif bir oluşturucu, makul gölge ve post-processing bütçeleri ve geçici geometri/materyallerin doğru şekilde temizlenmesini sağlayın. Model süslemelerini oyun çarpışmalarından ayırın.
-Oluşturma işleminden bağımsız, metre/saniye birimli deterministik fizik kullanın; yer çekimi 9.81 m/s², sabit zaman adımı ise 1/120 saniye olsun. Yüksek hızlı mermilerin zemin, su, tank ve kayalarla çarpışması için sürekli süpürülmüş çarpışmalar kullanın; yerinden oynayan tanklara patlama itmeleri ve yer çekimi uygulayın. Fırlatma konumlarını tanka özgü gerçek namlu dönüşümünden türetin. Normal oynatma ve hızlı ileri sarma aynı simülasyon güncellemelerini çağırmalıdır. Hasar ve rüzgâra tepki, mühendislik amaçlı patlama simülasyonu değil, stilize oyun kurallarıdır.
-Çince, İngilizce, Japonca ve Korece kullanıcı arayüzlerini destekleyin. İlk açılışta cihaz dilini kullanın; Hong Kong, Makao, Tayvan ve Geleneksel Çince kullanan cihazlarda varsayılan dil İngilizce olsun. Açıkça yapılan seçimleri hatırlayın ve görünür bir dil seçici sunun. Masaüstü, dikey telefon ve kısa yatay ekran düzenlerine uyum sağlayın; kısa ekran menülerini kaydırılabilir yapın, dokunma hedeflerini rahat kullanılır boyutta tutun, panelleri daraltılabilir yapın ve kontrollerin üst üste binmesini önleyin. Dokunmatik cihazlarda klavye girişi gerektirmeyin. Yalnızca geliştirme amaçlı durum değişikliklerini ve nişan yardımcılarını üretim kodundan çıkarın.
-
-7. Tamamlanma kriterleri
-Düzenlenebilir, bağımsız bir kaynak proje, kilit dosyası, npm geliştirme/derleme talimatları ve çalışan bir statik önizleme teslim edin. Krem renkli durum paneli, sabit altın referans işaretçisi, sıfırdan başlayan canlı güç dolumu ve tamamen 3B tank/ada sunumu dâhil olmak üzere mevcut ekran görüntüleriyle oynanış videosuna uyun. İlk açılışı, model yüklemeyi, eksiksiz bir tur döngüsünü, her mühimmatın davranışını, duraklatmayı, yeniden oynatmayı ve gerçek bir kazanma/kaybetme sonucunu doğrulayın. Görünüm değiştirmenin durumu koruduğunu, klavye/dokunma iptalinin ateşlemeye yol açmadığını doğrulayın. Rüzgârsız, açık bir test atışında referans gücünde bırakıldığında mermi referans dairesine yakın düşmelidir; zıt yönlü yan rüzgârlar, bu daireyi değiştirmeden gerçek mermiyi görünür biçimde saptırmalıdır. 30/60/144 Hz davranışını, yüksek hızlı çarpışmayı, derin kraterleri, ateşin sönmesini, tamamen suya batma sonucu elenmeyi ve normal/hızlı ileri sarma turlarının aynı sonuçları üretmesini kontrol edin. Dört dilde masaüstü ve dar ekran düzenlerini inceleyin; tarayıcı emülasyonunu fiziksel cihaz testlerinden ayrı olarak belirtin. Yalnızca yerel derlemeyi değil, barındırılan sayfayı ve bağlantılı medyayı da doğrulayın.
-
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/crazy-tanks-3d-island-artillery) · [Canlı demo](https://super-tanks-aftershock.tripo.page/) · [Örneklere dön](#all-prompts)
-
----
-
 <a id="jelly-villa"></a>
 
 ### Jöle Villa
@@ -4368,7 +4404,7 @@ jared adına atıf yapılan yeni bir jelly-villa istemi yayımlayın; özgün ya
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 381 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 383 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

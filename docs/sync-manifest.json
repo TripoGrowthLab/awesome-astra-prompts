@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "model": "gpt-6-astra",
   "count": 100,
-  "totalCount": 381,
+  "totalCount": 383,
   "sourceCodeCount": 12,
   "limit": 100,
   "locales": [
@@ -22,7 +22,6 @@
     "vi"
   ],
   "promptIds": [
-    "2103062348168618280",
     "2103187935759655167",
     "2103211135214256350",
     "2103308083242082314",
@@ -118,9 +117,10 @@
     "2115449826481463529",
     "2115478001882374452",
     "2116024691533979940",
+    "2116210452594401618",
+    "2116350947467440157",
     "red-light-green-light",
     "golden-miner",
-    "crazy-tanks-3d-island-artillery",
     "jelly-villa"
   ],
   "featuredPromptIds": [
@@ -130,7 +130,6 @@
     "titanic-the-last-light"
   ],
   "imagePromptIds": [
-    "2103062348168618280",
     "2103187935759655167",
     "2103211135214256350",
     "2103308083242082314",
@@ -226,88 +225,90 @@
     "2115449826481463529",
     "2115478001882374452",
     "2116024691533979940",
+    "2116210452594401618",
+    "2116350947467440157",
     "red-light-green-light",
     "golden-miner",
-    "crazy-tanks-3d-island-artillery",
     "jelly-villa",
+    "crazy-tanks-3d-island-artillery",
     "battle-city-3d",
     "titanic-the-last-light"
   ],
   "files": [
     {
       "path": "assets/manifest.json",
-      "sha256": "17047ddb9b5602f4878753a6cdf6eb6f2c33d8a136a629348a86f3a2640e3e8a",
-      "bytes": 59189
+      "sha256": "3e9ce824aa69b5a08611303b2e519305073df02f2545a023c70873674262579c",
+      "bytes": 59668
     },
     {
       "path": "docs/catalog.de.md",
-      "sha256": "08bdf99b6e4578cd8e97470d03694e44f4c70734e40ed3cd621c988fefffba82",
-      "bytes": 385698
+      "sha256": "5b6b254b45cc17a36335b954d4ce8abb2a361d2b257b3a012867fef181665998",
+      "bytes": 379142
     },
     {
       "path": "docs/catalog.en.md",
-      "sha256": "f491b20b6bd169ccb3e34d1eeebe2ded515ac14a0ad3e4bd96f602d33c21f31f",
-      "bytes": 322858
+      "sha256": "559887667955568e331367a1ea8c5ea416dfd0d22fe50de989a742fb088825fa",
+      "bytes": 318386
     },
     {
       "path": "docs/catalog.es.md",
-      "sha256": "0eb1508409f2048f79da630108153b81693f76c044836a66ac6d97fac4dd16aa",
-      "bytes": 389769
+      "sha256": "94a2f32a3a6017395530cb58d24e6e5dbb559b30bdf46bed698b6b86d713f1a1",
+      "bytes": 383249
     },
     {
       "path": "docs/catalog.fr.md",
-      "sha256": "6f9381d8b7798048417d79b41f0bf0000bf1f46e6eed384ca27fb4c2c86ce2ce",
-      "bytes": 408275
+      "sha256": "5532978bc7e1c0cc2a5097ca09f9b4df3dce7f3738f0c0879e86b115bec31c84",
+      "bytes": 401489
     },
     {
       "path": "docs/catalog.it.md",
-      "sha256": "62283c2d0921c8718f8e6ab8865440c6610c93569c0eb61b87be3f6d9e6b757a",
-      "bytes": 380992
+      "sha256": "c6a900a496e2c5a5671447be5a20cf3cb7c56c087239db354fd6830f5e242194",
+      "bytes": 375014
     },
     {
       "path": "docs/catalog.ja.md",
-      "sha256": "d9250dae3fb2c51a0fdb955d734a895a14c371b7cda52cf0b7713f47b6fffdc1",
-      "bytes": 441731
+      "sha256": "ca31a69ce7207d59efa97b9147a89f02db2a81b501e75a5867dac8752a750ffc",
+      "bytes": 434683
     },
     {
       "path": "docs/catalog.ko.md",
-      "sha256": "f73de5151bdb40c2aecd43ba250f2de11c1c9ae19a6e384fa45dff9edc9e670b",
-      "bytes": 411222
+      "sha256": "c1acd6184aec9d76b4701205fe5afc046ad7a35742e9d8d0c4ccb10c5dfe5a67",
+      "bytes": 404753
     },
     {
       "path": "docs/catalog.pt.md",
-      "sha256": "3248dc07a6817c00e6db51aad2e9da22b199c54e934e8aa9738f52fb2f5fdea2",
-      "bytes": 377920
+      "sha256": "efb6644baccde38a75ed5672aec5dfa4fe8e0b21ea2252495551e372413d122c",
+      "bytes": 371698
     },
     {
       "path": "docs/catalog.ru.md",
-      "sha256": "73d120fd7d58fcec0aa68d07c51755f7a7c33f76b4ddda01a58776fbfc808ea1",
-      "bytes": 614296
+      "sha256": "0640db277c82daa49b85c0b2ec3d1c0653253957fc12096be04a99425febb370",
+      "bytes": 603776
     },
     {
       "path": "docs/catalog.tr.md",
-      "sha256": "ee6c9380f410df4326c40651c5cbc284a9eda5661ab58b8fed77e83720d68ff4",
-      "bytes": 386728
+      "sha256": "7501712c2edd89374f5c14e123fe904bb0f126a1ab94b0fb91d99b982913eb27",
+      "bytes": 380466
     },
     {
       "path": "docs/catalog.uk.md",
-      "sha256": "9d7b29c7671e7e1ddc32f590271633685abd07ef034e8ad24658b0077f311ffe",
-      "bytes": 593223
+      "sha256": "1c2ae93776568b502a46fb40a6c1d1c176cff4eb3cfd265cd284086dbb227206",
+      "bytes": 582261
     },
     {
       "path": "docs/catalog.vi.md",
-      "sha256": "656f9a09a369edebccf06e69ab914c9f1be98a72f5a405f0e70a1213a80ae19c",
-      "bytes": 425117
+      "sha256": "7e3e03b976ea2bcb2556ac85325f8a050ea96eb334f33bc0e82b88eda69d25c0",
+      "bytes": 418969
     },
     {
       "path": "docs/catalog.zh-Hant.md",
-      "sha256": "87396cee3bee95414c89d61482b746728c0c0d689c6baf6a71ce1c2f24fd1521",
-      "bytes": 326780
+      "sha256": "e5a26bc2a9e45cf0f4c84749e7199514432234493e44f91e59a33c6f9c7b80b0",
+      "bytes": 321677
     },
     {
       "path": "docs/catalog.zh.md",
-      "sha256": "0fbbcdde38595fa6c3b30c2616f39408416ad3c9ddea8808756a4f6a05da6035",
-      "bytes": 328361
+      "sha256": "41873e1418e8be8ed69b906543e6631a10cac34b8fc316e569476c76eb7aa276",
+      "bytes": 323245
     },
     {
       "path": "docs/with-code.md",
@@ -316,13 +317,13 @@
     },
     {
       "path": "README.md",
-      "sha256": "703ff70d8f9ab6b393c7cfff39bcb2be1270f7341529dd6f6e5c1be710c46049",
-      "bytes": 322423
+      "sha256": "9fa23a93701d6d0f541b20a12b2d964b0ff388ba45bf36dd3eb438978bffb884",
+      "bytes": 317951
     },
     {
       "path": "README.zh-CN.md",
-      "sha256": "52be891c7a49381f680318297ef6a71ac94fb7ea3a9d58fa16d47300354e0441",
-      "bytes": 327926
+      "sha256": "fba5a950f4ba10678aa441a41a3a9e61d29fa5d5466f7a58c9c376e37b79f4ff",
+      "bytes": 322810
     }
   ]
 }
