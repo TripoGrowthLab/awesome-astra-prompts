@@ -28,7 +28,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**383 · Neueste Astra-Prompts**
+**386 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -50,9 +50,6 @@
 <details>
 <summary>Beispiele ansehen</summary>
 
-- [Northbound: Interaktive Reise im Wikingerschiff](#2103187935759655167)
-- [Erkundbare neblige Herbstwelt mit Three.js](#2103211135214256350)
-- [STILLWATER — Browser-Erlebnis im mondbeschienenen Sumpf](#2103308083242082314)
 - [Römisches Schlachtfeld-Setpiece zur goldenen Stunde](#2103351755971207251)
 - [Pitaya-Gelee](#2103432732386664591)
 - [3D-Modellierung von VRChat-Outfits](#2103456264785424530)
@@ -147,136 +144,14 @@
 - [Interaktives WebGL-Diorama „Mangrove Lights“](#2116024691533979940)
 - [Interaktive Mangroveninsel mit animierter Tierwelt](#2116210452594401618)
 - [Echtzeit-3D-Stadtsimulation im Voxel-Stil](#2116350947467440157)
+- [Vulkaninsel in Blender vollständig per Code erstellt](#2116835082547740994)
+- [Einen 3D-Charizard entwerfen](#2116960427628532011)
+- [Realistischer Mario-inspirierter Hubschrauber in Three.js](#2117235402100940908)
 - [Rot, grünes Licht: 3D-Survival-Game](#red-light-green-light)
 - [Golden Miner: 3D-Bergbauspiel mit 24 Levels](#golden-miner)
 - [Jelly-Villa](#jelly-villa)
 
 </details>
-
-<a id="2103187935759655167"></a>
-
-### Northbound: Interaktive Reise im Wikingerschiff
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/viking-longship-fjord-threejs-journey"><img src="../assets/previews/d8520ab42c6973da4541907e224aed200b691613a7b7bb3183774bb39e1ffdef.jpg" width="840" loading="lazy" alt="Northbound: Interaktive Reise im Wikingerschiff"></a>
-
-Ein vom Autor erstellter Prompt für eine eigenständige interaktive 3D-Fjordfahrt mit Three.js und WebGL an Bord eines detaillierten Wikingerschiffs. Er beschreibt eine cineastische nordische Umgebung, einen physisch zusammenhängenden Schiffsbau, animierte Ruderbewegungen und Wasserkontakteffekte, Steuerungs- und Kamerafunktionen, Unterstützung für Mobilgeräte, Beleuchtungsmodi, Audioverhalten und eingebettete Bereitstellungs-Assets.
-
-**Prompt**
-
-```text
-Erstelle „Northbound“ – eine atmosphärische, interaktive 3D-Reise durch einen nordischen Fjord an Bord eines detaillierten Wikingerschiffs.
-
-Erzeuge eine echte Echtzeitszene mit Three.js und WebGL und liefere sie als einzelne, eigenständige HTML-Datei aus. Es muss sich um ein erkundbares Browser-Erlebnis handeln, nicht um ein vorgerendertes Video oder eine flache Illustration.
-
-VISUELLE AUSRICHTUNG
-
-Strebe eine ausgearbeitete, cineastische Umgebung mit realistischen Materialien, natürlichen Proportionen und zurückhaltenden Farben an. Vermeide eine cartoonhafte oder Low-Poly-Optik.
-
-Ein hölzernes Wikingerschiff fährt durch tiefgrünes bis blaugrünes Wasser zwischen hoch aufragenden Klippen, dichten Wäldern, Wasserfällen und kleinen nordischen Siedlungen hindurch. Verwende atmosphärische Perspektive, zarten Nebel, weiche Schatten und überzeugende Tiefenwirkung. Inszeniere während der gesamten Reise schöne Ansichten, nicht nur aus der anfänglichen Kameraposition.
-
-DAS WIKINGERSCHIFF
-
-Konstruiere einen detaillierten, wasserdichten Rumpf mit überlappenden Holzplanken, sichtbarer Maserung, Spanten, Bänken und einem durchgängigen Innenraum.
-Füge einen geschnitzten Drachenbug, ein gestreiftes Stoffsegel, einen Mast, Taue, Schilde, Vorräte und warm leuchtende Laternen hinzu.
-Integriere proportionierte Wikingerpassagiere und Ruderer mit mehrlagiger Kleidung, glaubwürdigen Sitzhaltungen und Händen in der Nähe ihrer Ruder.
-Achte darauf, dass alle Komponenten physisch miteinander verbunden sind. Keine schwebenden Passagiere, sich überschneidenden Accessoires oder sichtbaren Lücken im Rumpf.
-Animiere subtilen Auftrieb sowie Stampfen und Rollen. Das Segel soll sanft auf den Wind reagieren.
-
-WASSER UND RUDERN
-
-Mache das Wasser zu einem zentralen visuellen Element.
-
-Verwende einen benutzerdefinierten Shader mit planaren Reflexionen, Brechung, Fresnel-Highlights, tiefenabhängiger Absorption, sichtbaren Flachwasserbereichen und überlagerten Oberflächenwellen. Die Reflexionen müssen korrekt auf die bewegte Kamera und wechselnde Beleuchtung reagieren.
-
-Erzeuge eine glaubwürdige Heckwelle hinter dem Schiff.
-
-Animiere einen vollständigen Ruderschlag: Die Blätter tauchen ins Wasser ein, ziehen nach hinten, werden herausgehoben und kehren über die Wasseroberfläche zurück. Stimmen Sie dies mit den Bewegungen der Ruderer ab.
-
-Erzeuge an den tatsächlichen Kontaktpunkten zwischen Ruderblättern und Wasser Wellen, Schaum und kleine Spritzer. Die Spuren müssen im Weltraum verbleiben und allmählich verblassen. Vermeide Effekte, die erscheinen, während sich die Blätter in der Luft befinden.
-
-UMGEBUNG UND MATERIALIEN
-
-Verwende detailliertes Terrain, unregelmäßige Felsformationen, natürliche Baumkonturen, verzweigte Stämme und einzelne Blatt- oder Nadelbüschel.
-
-Verwende PBR-Materialien mit Normal- und Rauheits-Maps für Holz, Stein und Boden. Du kannst entsprechend lizenzierte Texturen einbetten; füge, falls erforderlich, eine Urheberangabe hinzu.
-
-Stelle sicher, dass sich das Unterwasserterrain unterhalb der Oberfläche fortsetzt. Keine hellen Übergänge, Lücken am Ufer, schwebende Vegetation oder Bäume, die die befahrbare Route versperren.
-
-CONTROLS
-
-A/D- oder Pfeiltasten: nach links und rechts steuern.
-W/S: Geschwindigkeit anpassen.
-Maus ziehen: die Umgebung betrachten.
-Biete Kamera-Modi für Verfolgung, Orbit und cineastische Aufnahmen.
-Integriere optional einen automatischen Reisemodus.
-Füge Steuerelemente für Pause, Zurücksetzen, Vollbild und das Ausblenden der Benutzeroberfläche hinzu.
-Unterstütze auf Mobilgeräten die Steuerung von Richtung und Geschwindigkeit per Touch.
-Verhindere, dass das Schiff Land oder Felsen durchquert.
-
-ATMOSPHÄRE UND BENUTZEROBERFLÄCHE
-
-Biete drei nahtlos ineinander übergehende Beleuchtungs-Presets: Morgen, Bewölkt und Mondlicht.
-
-Füge optional Umgebungsgeräusche von Wasser, Wind, Vögeln und Rudern hinzu. Die Audiowiedergabe darf erst nach einer Interaktion des Benutzers beginnen.
-
-Gestalte eine minimalistische, redaktionelle Benutzeroberfläche: „Northbound.“ in einer eleganten Serifenschrift, dezente Kapitelbezeichnungen und eine kompakte, transluzente Steuerleiste. Die Landschaft soll unverdeckt bleiben.
-
-PERFORMANCE UND AUSLIEFERUNG
-
-Verwende Instancing, sinnvolle Geometrie-Budgets, entfernungsabhängige Detailstufen und Reflexions-Renderziele in angemessener Größe. Passe die Renderqualität an das Gerät an, statt eine feste Bildrate zu versprechen.
-
-Liefere eine einzelne HTML-Datei mit eingebetteten Skripten und erforderlichen Assets, die sich direkt in einem modernen Browser öffnen lässt.
-
-Teste Steuerung, Kameramodi, Beleuchtungsübergänge und Rudern. Untersuche das Schiff aus mehreren Blickwinkeln und prüfe das Ufer aus niedrigen Kameraperspektiven. Behebe Geometrieüberschneidungen, Reflexionsartefakte, übermäßige Blendung und Konsolenfehler, bevor du die Szene als fertig betrachtest.
-
-Priorisiere überzeugendes Wasser, ein sorgfältig konstruiertes Wikingerschiff und eine stimmige Umgebung, statt weitere Objekte hinzuzufügen.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/viking-longship-fjord-threejs-journey) · [Originalbeitrag](https://x.com/vib3coded/status/2103189762672611675) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2103211135214256350"></a>
-
-### Erkundbare neblige Herbstwelt mit Three.js
-
-[Simonas](https://x.com/SimonasLTU1) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2103211135214256350"><img src="../assets/previews/21d3a73dd776ae76e027f6f8987d49b4326796d6bcecadcd8751ed9247a1c893.jpg" width="840" loading="lazy" alt="Erkundbare neblige Herbstwelt mit Three.js"></a>
-
-Erstelle eine erkundbare Three.js-Erfahrung mit nebliger, regnerischer, herbstlicher, geheimnisvoller und nostalgischer Atmosphäre – umgesetzt als einzelne HTML/CSS/JS-Datei.
-
-**Prompt**
-
-```text
-Erstelle eine erkundbare Three.js-Erfahrung mit einer nebligen, regnerischen und herbstlichen, geheimnisvollen sowie nostalgischen Atmosphäre – in einer einzigen HTML/CSS/JS-Datei.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2103211135214256350) · [Originalbeitrag](https://x.com/SimonasLTU1/status/2103211135214256350) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2103308083242082314"></a>
-
-### STILLWATER — Browser-Erlebnis im mondbeschienenen Sumpf
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2103308083242082314"><img src="../assets/previews/609344d27303517348f788d499244dbffce89132e635466fa012f1b8d2ee8109.jpg" width="840" loading="lazy" alt="STILLWATER — Browser-Erlebnis im mondbeschienenen Sumpf"></a>
-
-Ein ausführlicher Prompt, den der Autor des Beitrags in einer Antwort bereitgestellt hat, für eine interaktive Three.js-Sumpfwelt. Beschrieben werden eine geführte Fahrt mit einem Kabinen-Skiff durch eine überflutete Zypressenlandschaft, filmisch reflektierendes Wasser, atmosphärische Beleuchtung und Nebel, eine Kamera mit Drag-to-Look-Steuerung sowie redaktionell gestaltete HUD-Elemente. Das gewünschte Ergebnis schließt Kämpfe und andere Gameplay-Systeme ausdrücklich aus.
-
-**Prompt**
-
-```text
-Erstelle in Three.js ein Browser-Erlebnis namens STILLWATER. Tonalität: ein mondbeschienener Sumpf, in dem man sich verliert. Kein Spiel mit Gegnern. Kein fotorealistisches Unreal. Eine ruhige, hochwertig wirkende Webwelt, in der die Wasserreflexionen das zentrale Feature sind. Die Menschen sollen ungesund lange auf das Wasser starren.  SETTING – Ortstitel: THE DEEP SWAMP – Zeit im HUD: 19:26 – Erster benannter Ort: Heron Bend – Claim unter dem Ortsnamen: "Leave a little room for the wild." – Entdeckungshinweis bei der Ankunft: "Discovered: Heron Bend"  WELT Ein überfluteter Zypressensumpf bei Mondaufgang und in der späten Dämmerung. – Hohe Bäume mit knorrigen Wurzelknien, die aus schwarzgrünem Wasser ragen – Spanisches Moos, das in langen Strängen herabhängt – Seerosenblätter, die sich an den Ufern sammeln – Ein schmaler, gewundener Kanal, der sich zu einer breiteren Biegung öffnet – Dichter volumetrischer Nebel, eine türkisgrüne Ferne und ein violett-pinker Wolkenhimmel – Ein heller Mond mit einem langen, unterbrochenen Reflexionspfad auf dem Wasser – Einige Vögel, die den Himmel überqueren – Warmes Kabinenlicht vom Boot, das die Dunkelheit durchdringt  WASSER (hier nicht sparen) Das Wasser ist der Star. – Echtzeitreflexionen von Bäumen, Mond, Nebel und Bootslichtern – Sanftes Schwappen, keine Meereswellen – Seerosenblätter, die auf der Oberfläche liegen und auf und ab wippen – Uferschaum und dunkles, gerbstoffreiches Wasser in der Nähe der Wurzeln – Screen-Space- oder planare Reflexionen, die gut genug sind, damit der Mondpfad filmisch wirkt – 60 fps beibehalten. Bäume per LOD verwalten, Vegetation instanziieren.  BOOT Ein kleines, verwittertes Kabinen-Skiff bzw. Arbeitsboot. – Rumpfnummer 86 am Heck – Weiße Kabine, dunkelblauer Rumpf, warme Innenbeleuchtung – Ruhiges Treiben durch den Kanal, optional eine langsame geführte Tour – HUD-Geschwindigkeit etwa 15,9 KNOTEN – Modusbezeichnung: GUIDED DRIFT Der Spieler kann sich umsehen. Das Boot kann in einer filmischen Verfolgungs- oder seitlichen Orbitkamera begleitet werden.  KAMERA – Start in einer Dreiviertelansicht des Boots zwischen den Bäumen – Hinter dem Heck durch die mondbeschienene Fahrrinne treiben – Gelegentlich seitlich an einem Baumstamm im Vordergrund vorbeigleiten – Ziehen zum Umschauen – Optionaler FOTOMODUS Es soll sich wie eine Naturdokumentation anfühlen, nicht wie ein FPS.  UI – redaktionell, nicht spieltypisch Oben links: kleines Zeichen + STILLWATER Oben mittig: THE DEEP SWAMP / 19:26, eine Kompassrichtung (z. B. 314°) Oben rechts: unaufdringliche Utility-Symbole Unten links:   EXPLORING STILLWATER   Heron Bend   Leave a little room for the wild.   15,9 KNOTEN    GUIDED DRIFT Unten rechts: PHOTO MODE, fps, Pause Unten mittig: kleiner Hinweis "Discovered: Heron Bend" Kleine Hinweiszeile: Shaders / Wasser / Ziehen zum Umschauen / Fotos / Tierwelt  Look: dunkler, filmischer Farblook, gedämpfte Grüntöne, magentafarbene Wolken, ein einzelnes Mond-Highlight. Geschmack vor Realismus. Keine aufgeblähte Debug-GUI.  TECH Three.js im Browser. Prozedurale bzw. instanziierte Natur. Benutzerdefinierter Wassershader. Nebel. Weiche Schatten oder eine Beleuchtung mit dem Look gebackener Dämmerungsbeleuchtung. Wenn möglich kein Sumpf-Asset-Pack aus dem Asset Store, sondern eigene Assets erstellen.  NICHT hinzufügen: Kämpfe, Inventar, Schreckmomente oder eine Schatzsuche. Später kann etwas unter Wasser lauern – jetzt noch nicht.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2103308083242082314) · [Originalbeitrag](https://x.com/YouWareAI/status/2103310302993621090) · [Zurück zu den Beispielen](#all-prompts)
-
----
 
 <a id="2103351755971207251"></a>
 
@@ -4124,6 +3999,73 @@ Auf halbtransparenten Bedienfeldern muss der Text klar lesbar bleiben; die Trans
 
 ---
 
+<a id="2116835082547740994"></a>
+
+### Vulkaninsel in Blender vollständig per Code erstellt
+
+[Mr Tactical](https://x.com/MrTacticalX) · 2026-11-01
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/volcano-island-blender-code-scene"><img src="../assets/previews/0add32d8e9304a487a8e87bc8217cfe4fd1ce76b1dfee5454fe6f39465937849.jpg" width="840" loading="lazy" alt="Vulkaninsel in Blender vollständig per Code erstellt"></a>
+
+Ein Blender-Prompt für eine Vulkaninsel, der festlegt, dass die Szene vollständig per Code und ohne heruntergeladene Modelle oder Texturen erstellt werden muss. Im ursprünglichen Beitrag steht, dass genau dieser Prompt an GPT-6 Astra und Claude Opus 5.5 gegeben wurde.
+
+**Prompt**
+
+```text
+Erstelle in Blender eine Vulkaninsel vollständig per Code, ohne heruntergeladene Modelle oder Texturen.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/volcano-island-blender-code-scene) · [Originalbeitrag](https://x.com/MrTacticalX/status/2116835082547740994) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2116960427628532011"></a>
+
+### Einen 3D-Charizard entwerfen
+
+[Wizard of Doubt](https://x.com/CheerfulSkeptic) · 2026-11-01
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/charizard-3d-character-model"><img src="../assets/previews/20856527096bcb0fbed654e13d05ec56d87cf7e0a40c1dd7b3f90490b879b8fc.jpg" width="840" loading="lazy" alt="Einen 3D-Charizard entwerfen"></a>
+
+Eine zitierte Benchmark-Anfrage zum fehlerfreien Entwerfen eines 3D-Charizards. Im Beitrag wird erwähnt, dass Argon, Astra und Opus für den 3D-Druck getestet werden.
+
+**Prompt**
+
+```text
+Entwirfe einen 3D-Charizard ohne Fehler.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/charizard-3d-character-model) · [Originalbeitrag](https://x.com/CheerfulSkeptic/status/2116960427628532011) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2117235402100940908"></a>
+
+### Realistischer Mario-inspirierter Hubschrauber in Three.js
+
+[krisha](https://x.com/insanekrishnaa) · 2026-11-02
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/mario-themed-helicopter-threejs-model"><img src="../assets/previews/2c7053e4f10dcee0a031db0c7ec78d7ae559ad8d6ed0c92be5c45e982d3cf116.jpg" width="840" loading="lazy" alt="Realistischer Mario-inspirierter Hubschrauber in Three.js"></a>
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/mario-themed-helicopter-threejs-model"><img src="../assets/previews/b873bc834ff9c0ece236cfd1e8a3a01e98646842a79a86b35c57970842d1249c.jpg" width="840" loading="lazy" alt="Realistischer Mario-inspirierter Hubschrauber in Three.js"></a>
+
+Ein Prompt für einen Vergleichstest, der einen realistischen Mario-inspirierten Hubschrauber fordert, der in Three.js von Grund auf erstellt wird – ohne vorhandene 3D-Modelle oder Abkürzungen.
+
+**Prompt**
+
+```text
+Erstelle einen realistischen, Mario-inspirierten Hubschrauber in Three.js.
+
+Regeln:
+→ Keine vorhandenen 3D-Modelle.
+→ Keine Abkürzungen oder Tricks.
+→ Erstelle alles von Grund auf.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/mario-themed-helicopter-threejs-model) · [Originalbeitrag](https://x.com/insanekrishnaa/status/2117235402100940908) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Rot, grünes Licht: 3D-Survival-Game
@@ -4339,7 +4281,7 @@ Einen neuen Jelly-Villa-Prompt mit Credit für jared veröffentlichen, den urspr
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 383 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 386 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>

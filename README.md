@@ -29,7 +29,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**383 examples · 14 languages · 12 examples with source code**
+**386 examples · 14 languages · 12 examples with source code**
 
 ## Featured projects
 
@@ -51,9 +51,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 <details>
 <summary>Browse examples</summary>
 
-- [Northbound: Interactive Viking Longship Journey](#2103187935759655167)
-- [Explorable misty autumn Three.js experience](#2103211135214256350)
-- [STILLWATER — Moonlit Swamp Browser Experience](#2103308083242082314)
 - [Golden-hour Roman battlefield set piece](#2103351755971207251)
 - [Pitaya Jelly](#2103432732386664591)
 - [3D Modeling for VRChat Outfits](#2103456264785424530)
@@ -148,136 +145,14 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Mangrove Lights interactive WebGL diorama](#2116024691533979940)
 - [Interactive mangrove island with animated wildlife](#2116210452594401618)
 - [Real-Time Voxel 3D City Simulation World](#2116350947467440157)
+- [Volcano island in Blender built entirely from code](#2116835082547740994)
+- [Design a 3D Charizard](#2116960427628532011)
+- [Realistic Mario-themed helicopter in Three.js](#2117235402100940908)
 - [Red Light, Green Light: 3D Survival Game](#red-light-green-light)
 - [Golden Miner: 24-Level 3D Mining Game](#golden-miner)
 - [Jelly Villa](#jelly-villa)
 
 </details>
-
-<a id="2103187935759655167"></a>
-
-### Northbound: Interactive Viking Longship Journey
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/3d-prompts/viking-longship-fjord-threejs-journey"><img src="assets/previews/d8520ab42c6973da4541907e224aed200b691613a7b7bb3183774bb39e1ffdef.jpg" width="840" loading="lazy" alt="Northbound: Interactive Viking Longship Journey"></a>
-
-An author-supplied prompt for a standalone Three.js and WebGL interactive 3D fjord voyage aboard a detailed Viking longship. It specifies a cinematic Nordic environment, physically connected ship construction, animated rowing and water-contact effects, steering and camera controls, mobile support, lighting modes, audio behavior, and embedded delivery assets.
-
-**Prompt**
-
-```text
-Create “Northbound” - a beautiful, interactive 3D journey through a Nordic fjord aboard a detailed Viking longship.
-
-Build a genuine real-time scene using Three.js and WebGL, delivered as a single standalone HTML file. This must be an explorable browser experience, not a pre-rendered video or a flat illustration.
-
-VISUAL DIRECTION
-
-Aim for a polished, cinematic environment with realistic materials, natural proportions, and restrained colors. Avoid a cartoon or low-poly appearance.
-
-A wooden longship travels through deep green-blue water between towering cliffs, dense forests, waterfalls, and small Nordic settlements. Use atmospheric perspective, subtle mist, soft shadows, and convincing depth. Compose beautiful views throughout the journey, not just from the initial camera position.
-
-THE LONGSHIP
-
-Construct a detailed, watertight hull with overlapping wooden planks, visible grain, ribs, benches, and a continuous interior.
-Add a carved dragon prow, striped cloth sail, mast, ropes, shields, supplies, and warm lanterns.
-Include proportionate Viking passengers and rowers with layered clothing, believable seated poses, and hands positioned near their oars.
-Keep every component physically connected. No floating passengers, intersecting accessories, or visible gaps through the hull.
-Animate subtle buoyancy, pitch, and roll. The sail should respond gently to the wind.
-
-WATER AND ROWING
-
-Make the water a central visual feature.
-
-Use a custom shader with planar reflections, refraction, Fresnel highlights, depth-dependent absorption, visible shallow areas, and layered surface ripples. Reflections must respond correctly to the moving camera and changing lighting.
-
-Create a believable wake behind the ship.
-
-Animate a complete rowing cycle: blades enter the water, pull backward, lift out, and return above the surface. Coordinate this with the rowers’ movement.
-
-Generate ripples, foam, and small droplets at the actual blade-water contact points. Trails must remain in world space and gradually dissipate. Avoid effects appearing while the blades are in the air.
-
-ENVIRONMENT AND MATERIALS
-
-Use detailed terrain, irregular rock formations, natural tree silhouettes, branching trunks, and individual leaf or needle clusters.
-
-Use PBR materials with normal and roughness maps for wood, stone, and ground. You may embed appropriately licensed textures; include attribution where required.
-
-Ensure the underwater terrain continues beneath the surface. No bright seams, shoreline gaps, floating vegetation, or trees obstructing the navigable route.
-
-CONTROLS
-
-A/D or arrow keys: steer left and right.
-W/S: adjust speed.
-Mouse drag: look around.
-Provide follow, orbit, and cinematic camera modes.
-Include an optional automatic journey mode.
-Add pause, reset, fullscreen, and hide-interface controls.
-Support touch steering and speed controls on mobile.
-Prevent the ship from passing through land and rocks.
-
-ATMOSPHERE AND INTERFACE
-
-Provide three smoothly transitioning lighting presets: Morning, Overcast, and Moonlight.
-
-Add optional ambient water, wind, birds, and rowing sounds. Audio must begin only after user interaction.
-
-Design a minimal editorial interface: “Northbound.” in an elegant serif typeface, subtle chapter labels, and a compact translucent control bar. Keep the scenery unobstructed.
-
-PERFORMANCE AND DELIVERY
-
-Use instancing, sensible geometry budgets, distance-based detail, and appropriately sized reflection targets. Adapt rendering quality to the device instead of promising a fixed frame rate.
-
-Deliver one HTML file with scripts and required assets embedded so it can open directly in a modern browser.
-
-Test steering, camera modes, lighting transitions, and rowing. Inspect the ship from multiple angles and check the shoreline from low viewpoints. Fix geometry intersections, reflection artifacts, excessive glare, and console errors before considering the scene finished.
-
-Prioritize convincing water, a beautifully constructed longship, and a cohesive environment over adding more objects.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/viking-longship-fjord-threejs-journey) · [Original post](https://x.com/vib3coded/status/2103189762672611675) · [Back to examples](#all-prompts)
-
----
-
-<a id="2103211135214256350"></a>
-
-### Explorable misty autumn Three.js experience
-
-[Simonas](https://x.com/SimonasLTU1) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103211135214256350"><img src="assets/previews/21d3a73dd776ae76e027f6f8987d49b4326796d6bcecadcd8751ed9247a1c893.jpg" width="840" loading="lazy" alt="Explorable misty autumn Three.js experience"></a>
-
-Create an explorable Three.js experience with a misty, rainy, autumn-like, mysterious and nostalgic atmosphere, delivered in a single HTML/CSS/JS file.
-
-**Prompt**
-
-```text
-I want you to create me a misty, rainy, autumn-like mysterious atmosphere, nostalgic experience in an explorable Three.js in a single html/css/js file.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103211135214256350) · [Original post](https://x.com/SimonasLTU1/status/2103211135214256350) · [Back to examples](#all-prompts)
-
----
-
-<a id="2103308083242082314"></a>
-
-### STILLWATER — Moonlit Swamp Browser Experience
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103308083242082314"><img src="assets/previews/609344d27303517348f788d499244dbffce89132e635466fa012f1b8d2ee8109.jpg" width="840" loading="lazy" alt="STILLWATER — Moonlit Swamp Browser Experience"></a>
-
-A detailed prompt supplied by the posting author in a reply for an interactive Three.js swamp world. It specifies a guided cabin-skiff drift through a flooded cypress environment, cinematic reflective water, atmospheric lighting and fog, drag-to-look camera controls, and editorial HUD elements. The requested outcome explicitly excludes combat and other gameplay systems.
-
-**Prompt**
-
-```text
-Build a browser experience in Three.js called STILLWATER.  Tone: a moonlit swamp you get lost in. Not a game with enemies. Not photoreal Unreal. A quiet, expensive-looking web world where the water reflections are the feature. People should stare at the water for an unhealthy amount of time.  SETTING - Location title: THE DEEP SWAMP - Time on the HUD: 19:26 - First named place: Heron bend - Tagline under the place name: "Leave a little room for the wild." - Discovery toast when you arrive: "Discovered: Heron bend"  WORLD A flooded cypress swamp at moonrise / late dusk. - Tall knobby-kneed trees standing in black-green water - Spanish moss hanging in long strands - Lily pads clustered along the banks - Narrow winding channel that opens into a wider bend - Thick volumetric fog, teal-green distance, purple-pink cloudy sky - A bright moon with a long broken reflection path on the water - A few birds crossing the sky - Warm cabin light from the boat punching through the gloom  WATER (do not cheap out) This is the hero. - Real-time reflections of trees, moon, fog and boat lights - Gentle swell, not ocean waves - Lily pads that sit on the surface and bob - Shoreline foam / dark tannin water near roots - Screen-space or planar reflections good enough that the moon path feels cinematic - Keep 60fps. LOD the trees, instanced foliage.  BOAT A small weathered cabin skiff / workboat. - Hull number 86 on the stern - White cabin, dark blue hull, warm interior lamps - Idle drift through the channel, optional slow guided tour - HUD speed around 15.9 KNOTS - Mode label: GUIDED DRIFT Player can look around. Boat can be followed from a cinematic chase / side orbit.  CAMERA - Start on a three-quarter of the boat in the trees - Drift behind the stern down the moonlit lane - Occasional side slide past a foreground trunk - Drag to look - Optional PHOTO MODE Feel like a nature documentary, not an FPS.  UI — editorial, not gamey Top-left: small mark + STILLWATER Top-center: THE DEEP SWAMP / 19:26, a compass heading (e.g. 314°) Top-right: quiet utility icons Bottom-left:   EXPLORING STILLWATER   Heron bend   Leave a little room for the wild.   15.9 KNOTS    GUIDED DRIFT Bottom-right: PHOTO MODE, fps, Pause Center-bottom: small toast "Discovered: Heron bend" Tiny hint row: shaders / water / drag to look / photos / wildlife  Look: dark filmic grade, muted greens, magenta clouds, one moon highlight. Taste over realism. No bloated debug GUI.  TECH Three.js in the browser. Procedural / instanced nature. Custom water shader. Fog. Soft shadows or baked-looking dusk lighting. No asset-store swamp pack if you can author it.  DO NOT add combat, inventory, jump scares, or a treasure hunt. Something can lurk underwater later — not now.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103308083242082314) · [Original post](https://x.com/YouWareAI/status/2103310302993621090) · [Back to examples](#all-prompts)
-
----
 
 <a id="2103351755971207251"></a>
 
@@ -4125,6 +4000,73 @@ Transparent panels must keep text legible; do not let background colors interfer
 
 ---
 
+<a id="2116835082547740994"></a>
+
+### Volcano island in Blender built entirely from code
+
+[Mr Tactical](https://x.com/MrTacticalX) · 2026-11-01
+
+<a href="https://www.tripo3d.ai/3d-prompts/volcano-island-blender-code-scene"><img src="assets/previews/0add32d8e9304a487a8e87bc8217cfe4fd1ce76b1dfee5454fe6f39465937849.jpg" width="840" loading="lazy" alt="Volcano island in Blender built entirely from code"></a>
+
+A Blender prompt for a volcano island, specifying that the scene must be made entirely through code without downloaded models or textures. The root post states that this exact prompt was given to GPT-6 Astra and Claude Opus 5.5.
+
+**Prompt**
+
+```text
+build a volcano island in Blender, entirely from code, with no downloaded models or textures
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/volcano-island-blender-code-scene) · [Original post](https://x.com/MrTacticalX/status/2116835082547740994) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2116960427628532011"></a>
+
+### Design a 3D Charizard
+
+[Wizard of Doubt](https://x.com/CheerfulSkeptic) · 2026-11-01
+
+<a href="https://www.tripo3d.ai/3d-prompts/charizard-3d-character-model"><img src="assets/previews/20856527096bcb0fbed654e13d05ec56d87cf7e0a40c1dd7b3f90490b879b8fc.jpg" width="840" loading="lazy" alt="Design a 3D Charizard"></a>
+
+A quoted benchmark request to design a 3D Charizard without mistakes. The post says it is testing Argon, Astra, and Opus for 3D printing.
+
+**Prompt**
+
+```text
+design a 3D Charizard, make no mistakes.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/charizard-3d-character-model) · [Original post](https://x.com/CheerfulSkeptic/status/2116960427628532011) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2117235402100940908"></a>
+
+### Realistic Mario-themed helicopter in Three.js
+
+[krisha](https://x.com/insanekrishnaa) · 2026-11-02
+
+<a href="https://www.tripo3d.ai/3d-prompts/mario-themed-helicopter-threejs-model"><img src="assets/previews/2c7053e4f10dcee0a031db0c7ec78d7ae559ad8d6ed0c92be5c45e982d3cf116.jpg" width="840" loading="lazy" alt="Realistic Mario-themed helicopter in Three.js"></a>
+
+<a href="https://www.tripo3d.ai/3d-prompts/mario-themed-helicopter-threejs-model"><img src="assets/previews/b873bc834ff9c0ece236cfd1e8a3a01e98646842a79a86b35c57970842d1249c.jpg" width="840" loading="lazy" alt="Realistic Mario-themed helicopter in Three.js"></a>
+
+A comparison-test prompt requesting a realistic Mario-themed helicopter made in Three.js from scratch, without using existing 3D models or shortcuts.
+
+**Prompt**
+
+```text
+Build a realistic, Mario-themed helicopter in Three.js.
+
+Rules:
+→ No existing 3D models.
+→ No shortcuts or cheating.
+→ Build everything from scratch.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/mario-themed-helicopter-threejs-model) · [Original post](https://x.com/insanekrishnaa/status/2117235402100940908) · [Back to examples](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Red Light, Green Light: 3D Survival Game
@@ -4340,7 +4282,7 @@ Publish a new jelly-villa prompt credited to jared, with the original author in 
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 383 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 386 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>

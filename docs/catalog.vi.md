@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**383 · Prompt Astra mới nhất**
+**386 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -50,9 +50,6 @@
 <details>
 <summary>Khám phá ví dụ</summary>
 
-- [Hướng Bắc: Hành trình tương tác trên thuyền dài Viking](#2103187935759655167)
-- [Trải nghiệm Three.js mùa thu mù sương có thể khám phá](#2103211135214256350)
-- [STILLWATER — Trải nghiệm đầm lầy ánh trăng trên trình duyệt](#2103308083242082314)
 - [Bối cảnh chiến trường La Mã vào giờ vàng](#2103351755971207251)
 - [Thạch Pitaya](#2103432732386664591)
 - [Dựng mô hình 3D trang phục cho VRChat](#2103456264785424530)
@@ -147,201 +144,14 @@
 - [Mô hình tương tác WebGL &quot;Mangrove Lights&quot;](#2116024691533979940)
 - [Đảo rừng ngập mặn tương tác với động vật hoang dã chuyển động](#2116210452594401618)
 - [Thế giới mô phỏng thành phố 3D voxel thời gian thực](#2116350947467440157)
+- [Đảo núi lửa trong Blender được dựng hoàn toàn bằng mã](#2116835082547740994)
+- [Thiết kế Charizard 3D](#2116960427628532011)
+- [Trực thăng chủ đề Mario chân thực trong Three.js](#2117235402100940908)
 - [Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D](#red-light-green-light)
 - [Golden Miner: Game khai thác vàng 3D 24 cấp độ](#golden-miner)
 - [Biệt thự Thạch rau câu](#jelly-villa)
 
 </details>
-
-<a id="2103187935759655167"></a>
-
-### Hướng Bắc: Hành trình tương tác trên thuyền dài Viking
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/viking-longship-fjord-threejs-journey"><img src="../assets/previews/d8520ab42c6973da4541907e224aed200b691613a7b7bb3183774bb39e1ffdef.jpg" width="840" loading="lazy" alt="Hướng Bắc: Hành trình tương tác trên thuyền dài Viking"></a>
-
-Prompt do tác giả cung cấp cho chuyến du hành 3D tương tác độc lập qua vịnh hẹp bằng Three.js và WebGL, trên một chiếc thuyền dài Viking được tái hiện chi tiết. Prompt mô tả môi trường Bắc Âu mang tính điện ảnh, cấu trúc thuyền liên kết vật lý, hoạt ảnh chèo và hiệu ứng tiếp xúc với mặt nước, điều khiển lái và camera, hỗ trợ thiết bị di động, các chế độ chiếu sáng, âm thanh và tài nguyên được nhúng để triển khai.
-
-**Prompt**
-
-```text
-Tạo “Northbound” – một hành trình 3D tuyệt đẹp, có tính tương tác qua vịnh hẹp Bắc Âu trên một chiếc thuyền dài Viking được tái hiện chi tiết.
-
-Xây dựng một cảnh thời gian thực thực sự bằng Three.js và WebGL, được cung cấp dưới dạng một tệp HTML độc lập duy nhất. Đây phải là trải nghiệm trình duyệt có thể khám phá, không phải video dựng sẵn hay hình minh họa phẳng.
-
-ĐỊNH HƯỚNG HÌNH ẢNH
-
-Hướng đến một môi trường trau chuốt, mang tính điện ảnh, với vật liệu chân thực, tỷ lệ tự nhiên và bảng màu tiết chế. Tránh phong cách hoạt hình hoặc low-poly.
-
-Một chiếc thuyền dài bằng gỗ lướt qua làn nước xanh lục lam sâu, giữa những vách đá sừng sững, rừng rậm, thác nước và các khu định cư Bắc Âu nhỏ. Sử dụng phối cảnh khí quyển, sương mù nhẹ, bóng đổ mềm và chiều sâu thuyết phục. Hãy tạo ra những góc nhìn đẹp trong suốt hành trình, không chỉ từ vị trí camera ban đầu.
-
-THUYỀN DÀI
-
-Dựng một thân thuyền chi tiết, kín nước, với các ván gỗ chồng lên nhau, thớ gỗ lộ rõ, sườn thuyền, băng ghế và khoang bên trong liền mạch.
-Thêm mũi thuyền chạm khắc hình rồng, buồm vải sọc, cột buồm, dây thừng, khiên, vật dụng và những chiếc đèn lồng tỏa ánh sáng ấm.
-Đưa vào các hành khách và người chèo Viking có tỷ lệ cân đối, trang phục nhiều lớp, tư thế ngồi thuyết phục và bàn tay đặt gần mái chèo.
-Đảm bảo mọi thành phần được kết nối về mặt vật lý. Không để hành khách lơ lửng, phụ kiện giao cắt hoặc xuất hiện khoảng hở nhìn xuyên qua thân thuyền.
-Tạo hoạt ảnh mô phỏng độ nổi, chuyển động chúi-ngẩng và lắc ngang tinh tế. Buồm phải phản ứng nhẹ nhàng với gió.
-
-MẶT NƯỚC VÀ CHÈO THUYỀN
-
-Biến mặt nước thành một điểm nhấn hình ảnh trung tâm.
-
-Sử dụng shader tùy chỉnh với phản xạ phẳng, khúc xạ, điểm sáng Fresnel, khả năng hấp thụ phụ thuộc độ sâu, vùng nước nông hiển thị rõ và các lớp gợn sóng bề mặt. Phản xạ phải phản hồi chính xác theo camera chuyển động và điều kiện chiếu sáng thay đổi.
-
-Tạo vệt sóng phía sau thuyền một cách thuyết phục.
-
-Tạo hoạt ảnh cho một chu kỳ chèo hoàn chỉnh: lưỡi mái chèo đi vào nước, kéo về phía sau, nhấc lên khỏi mặt nước rồi trở lại phía trên bề mặt. Đồng bộ chuyển động này với người chèo.
-
-Tạo gợn sóng, bọt nước và các giọt nhỏ tại đúng những điểm lưỡi mái chèo tiếp xúc với nước. Vệt nước phải duy trì trong không gian thế giới và tan dần theo thời gian. Tránh để hiệu ứng xuất hiện khi mái chèo đang ở trên không.
-
-MÔI TRƯỜNG VÀ VẬT LIỆU
-
-Sử dụng địa hình chi tiết, các khối đá có hình dạng bất quy tắc, dáng cây tự nhiên, thân cây phân nhánh và từng cụm lá hoặc kim lá riêng biệt.
-
-Sử dụng vật liệu PBR với các bản đồ normal và roughness cho gỗ, đá và mặt đất. Có thể nhúng các kết cấu bề mặt được cấp phép phù hợp; hãy ghi công khi được yêu cầu.
-
-Đảm bảo địa hình dưới nước tiếp tục liền mạch bên dưới mặt nước. Không để xuất hiện đường nối sáng, khoảng hở ở bờ, thảm thực vật lơ lửng hoặc cây cối cản trở tuyến đường có thể điều khiển.
-
-CONTROLS
-
-A/D hoặc phím mũi tên: điều khiển lái sang trái và phải.
-W/S: điều chỉnh tốc độ.
-Kéo chuột: quan sát xung quanh.
-Cung cấp các chế độ camera bám theo, quỹ đạo và điện ảnh.
-Bao gồm chế độ hành trình tự động tùy chọn.
-Thêm các điều khiển tạm dừng, đặt lại, toàn màn hình và ẩn giao diện.
-Hỗ trợ điều khiển lái và tốc độ bằng cảm ứng trên thiết bị di động.
-Ngăn thuyền đi xuyên qua đất liền và đá.
-
-KHÔNG KHÍ VÀ GIAO DIỆN
-
-Cung cấp ba thiết lập chiếu sáng chuyển tiếp mượt mà: Buổi sáng, Nhiều mây và Ánh trăng.
-
-Thêm tùy chọn âm thanh môi trường của nước, gió, chim và tiếng chèo. Âm thanh chỉ được bắt đầu sau khi người dùng tương tác.
-
-Thiết kế giao diện biên tập tối giản: “Northbound.” bằng kiểu chữ serif thanh lịch, nhãn chương tinh tế và thanh điều khiển nhỏ gọn, bán trong suốt. Giữ cho phong cảnh không bị che khuất.
-
-HIỆU NĂNG VÀ TRIỂN KHAI
-
-Sử dụng instancing, ngân sách hình học hợp lý, mức độ chi tiết theo khoảng cách và các mục tiêu phản xạ có kích thước phù hợp. Điều chỉnh chất lượng render theo thiết bị thay vì cam kết một tốc độ khung hình cố định.
-
-Cung cấp một tệp HTML duy nhất với các script và tài nguyên cần thiết được nhúng, để có thể mở trực tiếp trong trình duyệt hiện đại.
-
-Kiểm tra điều khiển lái, các chế độ camera, chuyển cảnh chiếu sáng và hoạt ảnh chèo. Quan sát thuyền từ nhiều góc độ, đồng thời kiểm tra đường bờ từ các góc nhìn thấp. Sửa lỗi giao cắt hình học, hiện tượng bất thường trong phản xạ, độ chói quá mức và lỗi trong console trước khi xem cảnh là hoàn thiện.
-
-Ưu tiên mặt nước thuyết phục, một chiếc thuyền dài được dựng tuyệt đẹp và môi trường nhất quán, thay vì bổ sung thêm nhiều đối tượng.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/viking-longship-fjord-threejs-journey) · [Bài đăng gốc](https://x.com/vib3coded/status/2103189762672611675) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2103211135214256350"></a>
-
-### Trải nghiệm Three.js mùa thu mù sương có thể khám phá
-
-[Simonas](https://x.com/SimonasLTU1) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103211135214256350"><img src="../assets/previews/21d3a73dd776ae76e027f6f8987d49b4326796d6bcecadcd8751ed9247a1c893.jpg" width="840" loading="lazy" alt="Trải nghiệm Three.js mùa thu mù sương có thể khám phá"></a>
-
-Tạo một trải nghiệm Three.js có thể khám phá với bầu không khí mù sương, mưa rơi, đậm chất mùa thu, huyền bí và hoài niệm, được triển khai trong một tệp HTML/CSS/JS duy nhất.
-
-**Prompt**
-
-```text
-Tôi muốn bạn tạo một trải nghiệm Three.js có thể khám phá trong một tệp HTML/CSS/JS duy nhất, với bầu không khí mù sương, mưa rơi, đậm chất mùa thu, huyền bí và hoài niệm.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103211135214256350) · [Bài đăng gốc](https://x.com/SimonasLTU1/status/2103211135214256350) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2103308083242082314"></a>
-
-### STILLWATER — Trải nghiệm đầm lầy ánh trăng trên trình duyệt
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103308083242082314"><img src="../assets/previews/609344d27303517348f788d499244dbffce89132e635466fa012f1b8d2ee8109.jpg" width="840" loading="lazy" alt="STILLWATER — Trải nghiệm đầm lầy ánh trăng trên trình duyệt"></a>
-
-Một prompt chi tiết do tác giả bài đăng cung cấp trong phần trả lời, dành cho một thế giới đầm lầy tương tác xây dựng bằng Three.js. Prompt mô tả chuyến xuồng cabin trôi có hướng dẫn qua vùng bách ngập nước, mặt nước phản chiếu đậm chất điện ảnh, ánh sáng và sương mù giàu không khí, điều khiển camera bằng thao tác kéo để quan sát cùng các thành phần HUD mang tính biên tập. Kết quả được yêu cầu không có chiến đấu hay các hệ thống gameplay khác.
-
-**Prompt**
-
-```text
-Xây dựng một trải nghiệm trên trình duyệt bằng Three.js có tên STILLWATER. Tông màu: một đầm lầy dưới ánh trăng khiến người ta lạc lối. Không phải game có kẻ địch. Không phải hình ảnh siêu chân thực kiểu Unreal. Đây là một thế giới web yên tĩnh, trau chuốt và đắt giá, trong đó phản chiếu trên mặt nước là điểm nhấn. Người xem nên mải ngắm mặt nước lâu đến mức không lành mạnh.
-
-BỐI CẢNH
-- Tên địa điểm: THE DEEP SWAMP
-- Thời gian trên HUD: 19:26
-- Địa danh đầu tiên: Khúc quanh Heron
-- Khẩu hiệu bên dưới tên địa điểm: "Hãy chừa lại một khoảng cho thiên nhiên hoang dã."
-- Thông báo khám phá khi đến nơi: "Đã khám phá: Khúc quanh Heron"
-
-THẾ GIỚI
-Một đầm lầy bách ngập nước vào lúc trăng mọc / chạng vạng muộn.
-- Những cây cao, gốc nổi đầu gối, đứng giữa làn nước đen xanh
-- Rêu Tây Ban Nha buông thành những dải dài
-- Các cụm bèo súng dọc theo bờ
-- Kênh nước hẹp quanh co mở ra một khúc cua rộng hơn
-- Sương mù thể tích dày đặc, khoảng cách xa màu xanh teal-lục, bầu trời mây tím-hồng
-- Mặt trăng sáng với vệt phản chiếu dài, đứt đoạn trên mặt nước
-- Vài cánh chim bay ngang bầu trời
-- Ánh đèn cabin ấm áp từ con thuyền xuyên qua màn tối
-
-MẶT NƯỚC (đừng làm qua loa)
-Đây là nhân vật chính.
-- Phản chiếu theo thời gian thực của cây cối, mặt trăng, sương mù và đèn thuyền
-- Gợn dập dềnh nhẹ, không phải sóng biển
-- Bèo súng nằm trên mặt nước và nhấp nhô
-- Bọt ven bờ / nước giàu tannin sẫm màu gần các rễ cây
-- Phản chiếu không gian màn hình hoặc phản chiếu phẳng đủ tốt để vệt trăng có cảm giác điện ảnh
-- Duy trì 60 fps. Dùng LOD cho cây và foliage được instancing.
-
-THUYỀN
-Một chiếc xuồng cabin / thuyền công vụ nhỏ, cũ kỹ vì thời tiết.
-- Số hiệu thân tàu 86 ở đuôi
-- Cabin trắng, thân xanh đậm, đèn nội thất ấm áp
-- Trôi không tải qua kênh, có thể thêm chuyến tham quan chậm có hướng dẫn
-- Tốc độ trên HUD khoảng 15.9 KNOTS
-- Nhãn chế độ: GUIDED DRIFT
-Người chơi có thể quan sát xung quanh. Có thể bám theo thuyền bằng góc máy điện ảnh rượt đuổi / vòng ngang.
-
-CAMERA
-- Bắt đầu với góc ba phần tư, nhìn thuyền giữa những hàng cây
-- Trôi phía sau đuôi thuyền theo lối nước dưới ánh trăng
-- Thỉnh thoảng trượt ngang qua một thân cây ở tiền cảnh
-- Kéo để quan sát
-- PHOTO MODE tùy chọn
-Tạo cảm giác như phim tài liệu về thiên nhiên, không phải FPS.
-
-UI — mang tính biên tập, không giống game
-Góc trên bên trái: biểu tượng nhỏ + STILLWATER
-Chính giữa phía trên: THE DEEP SWAMP / 19:26, hướng la bàn (ví dụ 314°)
-Góc trên bên phải: các biểu tượng tiện ích tối giản
-Góc dưới bên trái:
-   ĐANG KHÁM PHÁ STILLWATER
-   Khúc quanh Heron
-   Hãy chừa lại một khoảng cho thiên nhiên hoang dã.
-   15.9 KNOTS
-   GUIDED DRIFT
-Góc dưới bên phải: PHOTO MODE, fps, Tạm dừng
-Chính giữa phía dưới: thông báo nhỏ "Đã khám phá: Khúc quanh Heron"
-Hàng gợi ý nhỏ: shader / mặt nước / kéo để quan sát / chụp ảnh / động vật hoang dã
-
-Hình ảnh: màu phim tối, xanh lục trầm, mây màu magenta, một điểm sáng từ mặt trăng. Ưu tiên gu thẩm mỹ hơn chủ nghĩa hiện thực. Không dùng GUI debug cồng kềnh.
-
-CÔNG NGHỆ
-Three.js trên trình duyệt. Thiên nhiên tạo theo quy trình / instancing. Shader mặt nước tùy chỉnh. Sương mù. Bóng mềm hoặc ánh sáng chạng vạng có cảm giác như được bake. Nếu có thể tự xây dựng thì không dùng asset pack đầm lầy từ marketplace.
-
-KHÔNG thêm chiến đấu, kho đồ, hù dọa bất ngờ hoặc nhiệm vụ truy tìm kho báu. Sau này có thể có thứ gì đó ẩn mình dưới nước — nhưng chưa phải lúc này.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103308083242082314) · [Bài đăng gốc](https://x.com/YouWareAI/status/2103310302993621090) · [Về danh sách ví dụ](#all-prompts)
-
----
 
 <a id="2103351755971207251"></a>
 
@@ -4199,6 +4009,73 @@ Các panel bán trong suốt phải giữ cho chữ rõ ràng, không để hi�
 
 ---
 
+<a id="2116835082547740994"></a>
+
+### Đảo núi lửa trong Blender được dựng hoàn toàn bằng mã
+
+[Mr Tactical](https://x.com/MrTacticalX) · 2026-11-01
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/volcano-island-blender-code-scene"><img src="../assets/previews/0add32d8e9304a487a8e87bc8217cfe4fd1ce76b1dfee5454fe6f39465937849.jpg" width="840" loading="lazy" alt="Đảo núi lửa trong Blender được dựng hoàn toàn bằng mã"></a>
+
+Prompt Blender để dựng một hòn đảo núi lửa, yêu cầu cảnh phải được tạo hoàn toàn bằng mã, không sử dụng mô hình hay kết cấu bề mặt tải xuống. Bài đăng gốc cho biết chính prompt này đã được đưa cho GPT-6 Astra và Claude Opus 5.5.
+
+**Prompt**
+
+```text
+dựng một hòn đảo núi lửa trong Blender hoàn toàn bằng mã, không sử dụng mô hình hay kết cấu bề mặt tải xuống
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/volcano-island-blender-code-scene) · [Bài đăng gốc](https://x.com/MrTacticalX/status/2116835082547740994) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2116960427628532011"></a>
+
+### Thiết kế Charizard 3D
+
+[Wizard of Doubt](https://x.com/CheerfulSkeptic) · 2026-11-01
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/charizard-3d-character-model"><img src="../assets/previews/20856527096bcb0fbed654e13d05ec56d87cf7e0a40c1dd7b3f90490b879b8fc.jpg" width="840" loading="lazy" alt="Thiết kế Charizard 3D"></a>
+
+Một yêu cầu benchmark được trích dẫn để thiết kế Charizard 3D không mắc lỗi. Bài đăng cho biết yêu cầu này dùng để kiểm thử Argon, Astra và Opus cho việc in 3D.
+
+**Prompt**
+
+```text
+thiết kế Charizard 3D, không được mắc lỗi.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/charizard-3d-character-model) · [Bài đăng gốc](https://x.com/CheerfulSkeptic/status/2116960427628532011) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2117235402100940908"></a>
+
+### Trực thăng chủ đề Mario chân thực trong Three.js
+
+[krisha](https://x.com/insanekrishnaa) · 2026-11-02
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/mario-themed-helicopter-threejs-model"><img src="../assets/previews/2c7053e4f10dcee0a031db0c7ec78d7ae559ad8d6ed0c92be5c45e982d3cf116.jpg" width="840" loading="lazy" alt="Trực thăng chủ đề Mario chân thực trong Three.js"></a>
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/mario-themed-helicopter-threejs-model"><img src="../assets/previews/b873bc834ff9c0ece236cfd1e8a3a01e98646842a79a86b35c57970842d1249c.jpg" width="840" loading="lazy" alt="Trực thăng chủ đề Mario chân thực trong Three.js"></a>
+
+Prompt thử nghiệm so sánh yêu cầu tạo một chiếc trực thăng chủ đề Mario chân thực bằng Three.js từ đầu, không sử dụng mô hình 3D có sẵn hay lối tắt.
+
+**Prompt**
+
+```text
+Tạo một chiếc trực thăng chủ đề Mario chân thực bằng Three.js.
+
+Quy tắc:
+→ Không sử dụng mô hình 3D có sẵn.
+→ Không dùng lối tắt hay gian lận.
+→ Tự xây dựng mọi thứ từ đầu.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/mario-themed-helicopter-threejs-model) · [Bài đăng gốc](https://x.com/insanekrishnaa/status/2117235402100940908) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D
@@ -4414,7 +4291,7 @@ Xuất bản prompt jelly-villa mới, ghi công jared, ghi tác giả gốc tro
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 383 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 386 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

@@ -28,7 +28,7 @@
 **為你的下一個遊戲、場景或互動世界尋找靈感。**
 
 
-**383 · 最新 Astra 提示詞**
+**386 · 最新 Astra 提示詞**
 
 ## 精選作品
 
@@ -50,9 +50,6 @@
 <details>
 <summary>瀏覽案例</summary>
 
-- [向北：互動維京長船之旅](#2103187935759655167)
-- [可探索的霧雨秋日 Three.js 體驗](#2103211135214256350)
-- [STILLWATER — 月下沼澤瀏覽器體驗](#2103308083242082314)
 - [黃金時刻羅馬戰場場景](#2103351755971207251)
 - [火龍果果凍](#2103432732386664591)
 - [VRChat 衣裝 3D 建模](#2103456264785424530)
@@ -147,202 +144,14 @@
 - [紅樹林之光互動式 WebGL 立體場景](#2116024691533979940)
 - [互動式紅樹林島嶼與動畫野生動物](#2116210452594401618)
 - [即時體素 3D 城市模擬世界](#2116350947467440157)
+- [完全以程式碼在 Blender 中打造的火山島](#2116835082547740994)
+- [設計 3D 噴火龍](#2116960427628532011)
+- [Three.js 中的瑪利歐主題寫實直升機](#2117235402100940908)
 - [紅燈綠燈：3D 生存遊戲](#red-light-green-light)
 - [Golden Miner：24 關 3D 採礦遊戲](#golden-miner)
 - [果凍別墅](#jelly-villa)
 
 </details>
-
-<a id="2103187935759655167"></a>
-
-### 向北：互動維京長船之旅
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/viking-longship-fjord-threejs-journey"><img src="../assets/previews/d8520ab42c6973da4541907e224aed200b691613a7b7bb3183774bb39e1ffdef.jpg" width="840" loading="lazy" alt="向北：互動維京長船之旅"></a>
-
-作者提供的提示詞，用於製作一段以 Three.js 和 WebGL 建構、可獨立運作的互動式 3D 峽灣航行體驗：搭乘細節豐富的維京長船，穿越峽灣。內容指定了電影感的北歐環境、船體各部件的實際連接、划槳與接觸水面的動畫效果、轉向與鏡頭控制、行動裝置支援、光照模式、音訊行為，以及內嵌的交付資產。
-
-**提示詞**
-
-```text
-建立「Northbound」——搭乘細節豐富的維京長船，展開一段優美且可互動的北歐峽灣 3D 旅程。
-
-使用 Three.js 和 WebGL 建立真正的即時場景，並以單一獨立 HTML 檔案交付。這必須是可在瀏覽器中探索的體驗，而不是預先算繪的影片或平面插畫。
-
-視覺方向
-
-以精緻、電影感的環境為目標，採用寫實材質、自然比例與內斂色彩。避免卡通或低多邊形風格。
-
-一艘木製長船航行於深綠藍色的水面上，兩側是高聳峭壁、茂密森林、瀑布與北歐小型聚落。使用大氣透視、細微霧氣、柔和陰影，營造可信的景深。整段旅程都要構圖出優美景色，而不只是初始鏡頭位置的畫面。
-
-長船
-
-製作細節豐富且不漏水的船體，包含彼此重疊的木板、清晰可見的木紋、肋材、長凳，以及連續完整的內部空間。
-加入雕刻龍首船艏、條紋布帆、桅杆、繩索、盾牌、補給品與溫暖的燈籠。
-配置比例自然的維京乘客與划槳手，穿著多層次服裝，採用可信的坐姿，雙手位於船槳附近。
-確保每個組件都實際連接。不得出現漂浮的乘客、彼此穿插的配件，或能從船體看見的縫隙。
-加入細微的浮力、俯仰與側傾動畫。帆應柔和地隨風反應。
-
-水面與划槳
-
-讓水面成為核心視覺特色。
-
-使用自訂著色器，實作平面反射、折射、菲涅耳高光、依深度變化的吸收效果、可見的淺水區域，以及分層的水面漣漪。反射必須正確回應移動中的鏡頭與變化中的光照。
-
-在船後製作可信的航跡。
-
-製作完整的划槳循環動畫：槳葉入水、向後划動、離開水面，再回到水面上方。這個動作要與划槳手的運動協調一致。
-
-在槳葉實際接觸水面的接觸點產生漣漪、泡沫與細小水滴。水痕必須維持在世界座標中，並逐漸消散。避免槳葉懸空時出現這些效果。
-
-環境與材質
-
-使用細節豐富的地形、不規則岩層、自然的樹木剪影、分枝樹幹，以及一簇簇獨立的葉片或針葉。
-
-為木材、石頭與地面使用具備法線貼圖和粗糙度貼圖的 PBR 材質。可以嵌入授權適當的貼圖；如有要求，請附上來源標示。
-
-確保水下地形延續至水面下方。不得出現明亮接縫、岸線缺口、漂浮植被，或阻擋可航行路線的樹木。
-
-CONTROLS
-
-A/D 或方向鍵：向左、向右轉向。
-W/S：調整速度。
-滑鼠拖曳：環顧四周。
-提供跟隨、環繞與電影感鏡頭模式。
-加入可選的自動航行模式。
-加入暫停、重設、全螢幕與隱藏介面控制項。
-在行動裝置上支援觸控轉向與速度控制。
-防止船隻穿越陸地與岩石。
-
-氛圍與介面
-
-提供三種可平順轉換的光照預設：清晨、陰天與月光。
-
-加入可選的環境水聲、風聲、鳥鳴與划槳聲。音訊只能在使用者互動後開始播放。
-
-設計極簡的編輯風格介面：「Northbound.」使用優雅的襯線字體，搭配細微的章節標籤與緊湊的半透明控制列。保持景色不受遮擋。
-
-效能與交付
-
-使用實例化、合理的幾何體預算、依距離調整細節，以及適當尺寸的反射目標。根據裝置調整算繪品質，不要承諾固定的影格率。
-
-交付一個內嵌腳本與必要資產的 HTML 檔案，讓它能在現代瀏覽器中直接開啟。
-
-測試轉向、鏡頭模式、光照轉換與划槳。從多個角度檢視船隻，並從低視角檢查岸線。在判定場景完成前，修正幾何體穿插、反射瑕疵、過度眩光與主控台錯誤。
-
-優先做好可信的水面、精心打造的長船與協調一致的環境，而不是加入更多物件。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/viking-longship-fjord-threejs-journey) · [查看原文](https://x.com/vib3coded/status/2103189762672611675) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2103211135214256350"></a>
-
-### 可探索的霧雨秋日 Three.js 體驗
-
-[Simonas](https://x.com/SimonasLTU1) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103211135214256350"><img src="../assets/previews/21d3a73dd776ae76e027f6f8987d49b4326796d6bcecadcd8751ed9247a1c893.jpg" width="840" loading="lazy" alt="可探索的霧雨秋日 Three.js 體驗"></a>
-
-建立一個可探索的 Three.js 體驗，營造霧濛、陰雨、秋日般神祕且懷舊的氛圍，並以單一 HTML/CSS/JS 檔案交付。
-
-**提示詞**
-
-```text
-請建立一個可探索的 Three.js 體驗，營造霧濛、陰雨、秋日般神祕且懷舊的氛圍，並整合在單一 HTML/CSS/JS 檔案中。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103211135214256350) · [查看原文](https://x.com/SimonasLTU1/status/2103211135214256350) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2103308083242082314"></a>
-
-### STILLWATER — 月下沼澤瀏覽器體驗
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103308083242082314"><img src="../assets/previews/609344d27303517348f788d499244dbffce89132e635466fa012f1b8d2ee8109.jpg" width="840" loading="lazy" alt="STILLWATER — 月下沼澤瀏覽器體驗"></a>
-
-這是一段由發文作者在回覆中提供的詳細提示詞，用於打造互動式 Three.js 沼澤世界。內容指定玩家乘坐小艇，在淹水的柏樹林環境中進行引導式漂流，呈現電影感反射水面、氛圍光影與霧氣、拖曳視角的攝影機控制，以及編輯風格的 HUD 元素。最終成果明確排除戰鬥和其他遊戲系統。
-
-**提示詞**
-
-```text
-使用 Three.js 打造一個名為 STILLWATER 的瀏覽器體驗。調性：一片讓人迷失其中的月下沼澤。不要做成有敵人的遊戲，也不要追求 Unreal 式的寫實畫面。這是一個安靜、質感高級的網頁世界，水面反射才是主角。要讓人盯著水面看上久到不太健康的程度。
-
-場景
-- 地點標題：THE DEEP SWAMP
-- HUD 時間：19:26
-- 第一個命名地點：Heron bend
-- 地點名稱下方的標語："Leave a little room for the wild."
-- 抵達時顯示的探索提示："Discovered: Heron bend"
-
-世界
-月升時分／暮色將盡的淹水柏樹沼澤。
-- 高聳、膝根突出的樹木立在黑綠色水面中
-- 西班牙苔蘚成串垂掛
-- 睡蓮葉沿著岸邊聚集
-- 狹窄蜿蜒的水道通往更寬闊的彎道
-- 濃厚的體積霧，遠景呈藍綠色，天空覆著紫粉色雲層
-- 明亮的月亮，在水面上投下漫長而斷續的倒影路徑
-- 幾隻鳥掠過天空
-- 船艙透出的暖黃色燈光穿透幽暗
-
-水面（不要偷工減料）
-這才是主角。
-- 即時反射樹木、月亮、霧氣與船燈
-- 輕柔起伏，不要做成海浪
-- 睡蓮葉漂在水面並隨波輕晃
-- 岸線泡沫／樹根附近深色的單寧水
-- 使用螢幕空間反射或平面反射，讓月光倒影路徑具備電影感
-- 維持 60fps。對樹木使用 LOD，植被採用實例化。
-
-船
-一艘小型、飽經風霜的船艙小艇／工作船。
-- 船尾標有船體編號 86
-- 白色船艙、深藍色船身、溫暖的室內燈
-- 沿水道閒適漂流，可選擇緩慢的引導式遊覽
-- HUD 速度約為 15.9 KNOTS
-- 模式標籤：GUIDED DRIFT
-玩家可以環顧四周。攝影機可從電影感追蹤視角或側向環繞視角跟隨船隻。
-
-攝影機
-- 從樹林中的船隻四分之三側前方視角開始
-- 沿著月光映照的水道漂到船尾後方
-- 偶爾從前景樹幹旁側滑掠過
-- 拖曳以環顧四周
-- 可選擇 PHOTO MODE
-要像自然紀錄片，不要像第一人稱射擊遊戲。
-
-UI — 編輯風格，不要有遊戲感
-左上角：小型標誌 + STILLWATER
-頂端中央：THE DEEP SWAMP / 19:26，以及羅盤方位（例如 314°）
-右上角：低調的功能圖示
-左下角：
-  EXPLORING STILLWATER
-  Heron bend
-  Leave a little room for the wild.
-  15.9 KNOTS
-  GUIDED DRIFT
-右下角：PHOTO MODE、fps、Pause
-中央底部：小型提示「Discovered: Heron bend」
-極小的提示列：著色器／水面／拖曳觀看／照片／野生動物
-
-視覺
-深色電影調色、低飽和綠色、洋紅色雲層，以及一道月光高光。重視品味，不必追求寫實。不要塞入臃腫的除錯 GUI。
-
-技術
-在瀏覽器中使用 Three.js。程序化／實例化自然環境。自訂水面著色器。霧氣。柔和陰影，或呈現烘焙光影效果的暮色照明。如果可以自行製作，就不要使用素材商店的沼澤套件。
-
-請勿加入戰鬥、物品欄、驚嚇橋段或尋寶遊戲。之後可以讓某種東西潛伏在水下——但現在不要。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103308083242082314) · [查看原文](https://x.com/YouWareAI/status/2103310302993621090) · [返回案例導覽](#all-prompts)
-
----
 
 <a id="2103351755971207251"></a>
 
@@ -4190,6 +3999,73 @@ UI 與城市畫面應形成適當對比，但不能過度搶眼。
 
 ---
 
+<a id="2116835082547740994"></a>
+
+### 完全以程式碼在 Blender 中打造的火山島
+
+[Mr Tactical](https://x.com/MrTacticalX) · 2026-11-01
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/volcano-island-blender-code-scene"><img src="../assets/previews/0add32d8e9304a487a8e87bc8217cfe4fd1ce76b1dfee5454fe6f39465937849.jpg" width="840" loading="lazy" alt="完全以程式碼在 Blender 中打造的火山島"></a>
+
+一則用於建立火山島的 Blender 提示詞，指定場景必須完全以程式碼製作，不得使用下載的模型或貼圖。原貼文指出，這則提示詞原封不動地提供給 GPT-6 Astra 與 Claude Opus 5.5。
+
+**提示詞**
+
+```text
+在 Blender 中完全以程式碼建立火山島，不使用任何下載的模型或貼圖
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/volcano-island-blender-code-scene) · [查看原文](https://x.com/MrTacticalX/status/2116835082547740994) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2116960427628532011"></a>
+
+### 設計 3D 噴火龍
+
+[Wizard of Doubt](https://x.com/CheerfulSkeptic) · 2026-11-01
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/charizard-3d-character-model"><img src="../assets/previews/20856527096bcb0fbed654e13d05ec56d87cf7e0a40c1dd7b3f90490b879b8fc.jpg" width="840" loading="lazy" alt="設計 3D 噴火龍"></a>
+
+一則要求無誤設計 3D 噴火龍的基準測試請求引文。貼文表示，這是在測試 Argon、Astra 和 Opus 用於 3D 列印的表現。
+
+**提示詞**
+
+```text
+設計一隻 3D 噴火龍，不得出錯。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/charizard-3d-character-model) · [查看原文](https://x.com/CheerfulSkeptic/status/2116960427628532011) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2117235402100940908"></a>
+
+### Three.js 中的瑪利歐主題寫實直升機
+
+[krisha](https://x.com/insanekrishnaa) · 2026-11-02
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/mario-themed-helicopter-threejs-model"><img src="../assets/previews/2c7053e4f10dcee0a031db0c7ec78d7ae559ad8d6ed0c92be5c45e982d3cf116.jpg" width="840" loading="lazy" alt="Three.js 中的瑪利歐主題寫實直升機"></a>
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/mario-themed-helicopter-threejs-model"><img src="../assets/previews/b873bc834ff9c0ece236cfd1e8a3a01e98646842a79a86b35c57970842d1249c.jpg" width="840" loading="lazy" alt="Three.js 中的瑪利歐主題寫實直升機"></a>
+
+用於比較測試的提示詞，要求從零開始使用 Three.js 製作一架瑪利歐主題的寫實直升機，不使用現成的 3D 模型或任何捷徑。
+
+**提示詞**
+
+```text
+使用 Three.js 建構一架寫實的瑪利歐主題直升機。
+
+規則：
+→ 不得使用現成的 3D 模型。
+→ 不得使用捷徑或作弊。
+→ 所有內容都必須從零開始製作。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/mario-themed-helicopter-threejs-model) · [查看原文](https://x.com/insanekrishnaa/status/2117235402100940908) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### 紅燈綠燈：3D 生存遊戲
@@ -4405,7 +4281,7 @@ yacht 會沿著封閉路線自動前進，速度約為每秒 0.38–0.48 個場�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 383 個案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 386 個案例 →</a></strong></p>
 <p><sub>為保持 GitHub README 渲染流暢，這裡僅展示最新 100 個案例。</sub></p>
 <br>
 </td></tr>

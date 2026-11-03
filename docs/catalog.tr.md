@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**383 · En yeni Astra istemleri**
+**386 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -50,9 +50,6 @@
 <details>
 <summary>Örnekleri keşfet</summary>
 
-- [Northbound: Etkileşimli Viking Uzun Gemisi Yolculuğu](#2103187935759655167)
-- [Keşfedilebilir sisli sonbahar Three.js deneyimi](#2103211135214256350)
-- [STILLWATER — Ay Işığındaki Bataklık Tarayıcı Deneyimi](#2103308083242082314)
 - [Altın saat ışığında Roma savaş alanı sahnesi](#2103351755971207251)
 - [Pitaya Jelly](#2103432732386664591)
 - [VRChat için kıyafet 3B modelleme](#2103456264785424530)
@@ -147,201 +144,14 @@
 - [Mangrov Işıkları etkileşimli WebGL diyoraması](#2116024691533979940)
 - [Animasyonlu yaban hayatıyla etkileşimli mangrov adası](#2116210452594401618)
 - [Gerçek Zamanlı Voxel 3B Şehir Simülasyonu Dünyası](#2116350947467440157)
+- [Blender’da tamamen kodla oluşturulmuş volkan adası](#2116835082547740994)
+- [3B Charizard Tasarla](#2116960427628532011)
+- [Three.js'te gerçekçi Mario temalı helikopter](#2117235402100940908)
 - [Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu](#red-light-green-light)
 - [Golden Miner: 24 Seviyeli 3B Madencilik Oyunu](#golden-miner)
 - [Jöle Villa](#jelly-villa)
 
 </details>
-
-<a id="2103187935759655167"></a>
-
-### Northbound: Etkileşimli Viking Uzun Gemisi Yolculuğu
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/viking-longship-fjord-threejs-journey"><img src="../assets/previews/d8520ab42c6973da4541907e224aed200b691613a7b7bb3183774bb39e1ffdef.jpg" width="840" loading="lazy" alt="Northbound: Etkileşimli Viking Uzun Gemisi Yolculuğu"></a>
-
-Ayrıntılı bir Viking uzun gemisiyle fiyortta gerçekleştirilen, bağımsız bir Three.js ve WebGL etkileşimli 3B yolculuk için yazar tarafından hazırlanmış bir istem. Sinematik bir Nordik ortamı, fiziksel olarak birbirine bağlı gemi yapısını, animasyonlu kürek çekme ve suya temas efektlerini, dümen ve kamera kontrollerini, mobil desteği, aydınlatma modlarını, ses davranışını ve gömülü teslim varlıklarını tanımlar.
-
-**İstem**
-
-```text
-“Northbound”u, ayrıntılı bir Viking uzun gemisiyle Nordik bir fiyortta gerçekleştirilen güzel ve etkileşimli bir 3B yolculuk olarak oluşturun.
-
-Three.js ve WebGL kullanarak, tek başına çalışabilen bir HTML dosyası olarak teslim edilen gerçek zamanlı bir sahne oluşturun. Bu, önceden oluşturulmuş bir video veya düz bir illüstrasyon değil, tarayıcıda keşfedilebilen bir deneyim olmalıdır.
-
-GÖRSEL YÖNLENDİRME
-
-Gerçekçi malzemelere, doğal oranlara ve ölçülü renklere sahip, özenle hazırlanmış sinematik bir ortam hedefleyin. Karikatür veya düşük poligon görünümünden kaçının.
-
-Ahşap bir uzun gemi; yüksek kayalıkların, sık ormanların, şelalelerin ve küçük Nordik yerleşimlerin arasındaki koyu yeşil-mavi sularda ilerler. Atmosferik perspektif, hafif sis, yumuşak gölgeler ve inandırıcı bir derinlik kullanın. Yolculuk boyunca yalnızca başlangıç kamera konumundan değil, farklı noktalardan da güzel manzaralar oluşturun.
-
-UZUN GEMİ
-
-Üst üste binen ahşap kaplama tahtaları, görünür damarlar, kaburgalar, oturma sıraları ve kesintisiz bir iç bölümü olan ayrıntılı, su geçirmez bir gövde oluşturun.
-Oyma ejderha pruvası, çizgili kumaş yelken, direk, halatlar, kalkanlar, erzaklar ve sıcak ışık veren fenerler ekleyin.
-Katmanlı kıyafetler giyen, inandırıcı oturma pozlarına sahip ve elleri küreklerine yakın konumlandırılmış, orantılı Viking yolcular ve kürekçiler ekleyin.
-Her bileşeni fiziksel olarak birbirine bağlı tutun. Havada duran yolculara, aksesuarların birbirinin içine geçmesine veya gövdenin içinden görünen boşluklara izin vermeyin.
-Hafif yüzme, baş-kıç yalpası ve yana yatma hareketlerini animasyonla verin. Yelken rüzgâra nazikçe tepki vermelidir.
-
-SU VE KÜREK ÇEKME
-
-Suyu görsel açıdan temel bir unsur hâline getirin.
-
-Düzlemsel yansımalar, kırılma, Fresnel parlamaları, derinliğe bağlı soğurma, görünür sığ alanlar ve katmanlı yüzey dalgacıkları içeren özel bir shader kullanın. Yansımalar, hareketli kameraya ve değişen aydınlatmaya doğru şekilde tepki vermelidir.
-
-Geminin arkasında inandırıcı bir iz oluşturun.
-
-Eksiksiz bir kürek çekme döngüsünü animasyonla verin: kürek palaları suya girsin, geriye doğru çekilsin, sudan kaldırılsın ve yüzeyin üzerinden başlangıç konumuna dönsün. Bu hareketi kürekçilerin hareketleriyle eşleştirin.
-
-Palaların suya gerçekten temas ettiği noktalarda dalgacıklar, köpük ve küçük su damlaları oluşturun. İzler dünya uzayında kalmalı ve zamanla yavaşça kaybolmalıdır. Palalar havadayken efektlerin görünmesinden kaçının.
-
-ORTAM VE MALZEMELER
-
-Ayrıntılı arazi, düzensiz kaya oluşumları, doğal ağaç siluetleri, dallanan gövdeler ve tek tek yaprak veya iğne kümeleri kullanın.
-
-Ahşap, taş ve zemin için normal ve pürüzlülük haritalarına sahip PBR malzemeleri kullanın. Uygun lisansa sahip dokuları gömebilirsiniz; gerektiğinde kaynak belirtin.
-
-Su altındaki arazi yüzeyin altında da devam etmelidir. Parlak dikişlere, kıyı boşluklarına, havada duran bitkilere veya seyir rotasını engelleyen ağaçlara izin vermeyin.
-
-CONTROLS
-
-A/D veya ok tuşları: sola ve sağa yön verin.
-W/S: hızı ayarlayın.
-Fareyle sürükleme: etrafa bakın.
-Takip, yörünge ve sinematik kamera modları sunun.
-İsteğe bağlı otomatik yolculuk modu ekleyin.
-Duraklatma, sıfırlama, tam ekran ve arayüzü gizleme kontrolleri ekleyin.
-Mobil cihazlarda dokunmatik yön ve hız kontrollerini destekleyin.
-Geminin karadan ve kayalardan geçmesini önleyin.
-
-ATMOSFER VE ARAYÜZ
-
-Üç aydınlatma ön ayarı sunun: Sabah, Bulutlu ve Ay Işığı. Bu ön ayarlar arasında yumuşak geçişler olmalıdır.
-
-İsteğe bağlı ortam suyu, rüzgâr, kuş ve kürek çekme sesleri ekleyin. Ses yalnızca kullanıcı etkileşiminden sonra başlamalıdır.
-
-Minimal bir editoryal arayüz tasarlayın: zarif serif yazı tipinde “Northbound.”, ince bölüm etiketleri ve kompakt, yarı saydam bir kontrol çubuğu kullanın. Manzaranın önünü kapatmayın.
-
-PERFORMANS VE TESLİM
-
-Instancing, makul geometri bütçeleri, mesafeye bağlı ayrıntı seviyesi ve uygun boyutlu yansıma hedefleri kullanın. Sabit bir kare hızı vaat etmek yerine işleme kalitesini cihaza göre uyarlayın.
-
-Komut dosyaları ve gerekli varlıklar gömülü olan tek bir HTML dosyası teslim edin; dosya modern bir tarayıcıda doğrudan açılabilmelidir.
-
-Yönlendirmeyi, kamera modlarını, aydınlatma geçişlerini ve kürek çekme animasyonunu test edin. Gemiyi farklı açılardan inceleyin ve kıyı hattını alçak bakış noktalarından kontrol edin. Sahneyi tamamlanmış kabul etmeden önce geometri kesişimlerini, yansıma kusurlarını, aşırı parlamayı ve konsol hatalarını düzeltin.
-
-Daha fazla nesne eklemek yerine inandırıcı suya, güzel tasarlanmış bir uzun gemiye ve bütünlüklü bir ortama öncelik verin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/viking-longship-fjord-threejs-journey) · [Orijinal gönderi](https://x.com/vib3coded/status/2103189762672611675) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2103211135214256350"></a>
-
-### Keşfedilebilir sisli sonbahar Three.js deneyimi
-
-[Simonas](https://x.com/SimonasLTU1) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103211135214256350"><img src="../assets/previews/21d3a73dd776ae76e027f6f8987d49b4326796d6bcecadcd8751ed9247a1c893.jpg" width="840" loading="lazy" alt="Keşfedilebilir sisli sonbahar Three.js deneyimi"></a>
-
-Sisli, yağmurlu, sonbaharı andıran, gizemli ve nostaljik bir atmosfere sahip, tek bir HTML/CSS/JS dosyasında sunulan keşfedilebilir bir Three.js deneyimi oluşturun.
-
-**İstem**
-
-```text
-Tek bir HTML/CSS/JS dosyasında, keşfedilebilir bir Three.js deneyimi içinde sisli, yağmurlu, sonbaharı andıran, gizemli ve nostaljik bir atmosfer oluşturmanızı istiyorum.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103211135214256350) · [Orijinal gönderi](https://x.com/SimonasLTU1/status/2103211135214256350) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2103308083242082314"></a>
-
-### STILLWATER — Ay Işığındaki Bataklık Tarayıcı Deneyimi
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103308083242082314"><img src="../assets/previews/609344d27303517348f788d499244dbffce89132e635466fa012f1b8d2ee8109.jpg" width="840" loading="lazy" alt="STILLWATER — Ay Işığındaki Bataklık Tarayıcı Deneyimi"></a>
-
-Yayını yapan kişinin yanıtında paylaştığı, etkileşimli bir Three.js bataklık dünyası için hazırlanmış ayrıntılı prompt. Sular altında kalmış servi ağaçlarıyla dolu bir ortamda, kabinli tekneyle yönlendirilmiş bir süzülüş; sinematik yansımalar, atmosferik aydınlatma ve sis, sürükleyerek bakış yönünü değiştirme kamera kontrolleri ve editoryal HUD öğeleri tanımlıyor. İstenen deneyim, çatışmayı ve diğer oynanış sistemlerini özellikle dışarıda bırakıyor.
-
-**İstem**
-
-```text
-Tarayıcıda çalışan, STILLWATER adlı bir Three.js deneyimi oluşturun. Ton: İçinde kaybolacağınız, ay ışığıyla aydınlanan bir bataklık. Düşmanların olduğu bir oyun değil. Fotogerçekçi bir Unreal deneyimi de değil. Su yansımalarının başrolde olduğu, sakin ve pahalı görünümlü bir web dünyası. İnsanlar suya sağlıksız denebilecek kadar uzun süre bakmak istemeli.
-
-MEKÂN
-- Konum başlığı: THE DEEP SWAMP
-- HUD saati: 19:26
-- İlk adlandırılmış yer: Heron bend
-- Yer adının altında slogan: "Vahşi doğa için biraz yer bırak."
-- Vardığınızda gösterilecek keşif bildirimi: "Keşfedildi: Heron bend"
-
-DÜNYA
-Ayın doğuşu / gün batımının sonları sırasında sular altında kalmış bir servi bataklığı.
-- Siyah-yeşil suların içinde yükselen, diz biçimli budakları olan uzun ağaçlar
-- Uzun şeritler hâlinde sarkan İspanyol yosunları
-- Kıyılar boyunca kümelenmiş nilüfer yaprakları
-- Daha geniş bir kıvrıma açılan dar ve dolambaçlı bir kanal
-- Yoğun hacimsel sis, uzakta teal-yeşili tonlar, mor-pembe bulutlu gökyüzü
-- Su üzerinde uzun ve parçalı bir yansıma yolu oluşturan parlak bir ay
-- Gökyüzünü geçen birkaç kuş
-- Karanlığı delen, tekneden yayılan sıcak kabin ışığı
-
-SU (ucuza kaçmayın)
-Başrol bu.
-- Ağaçların, ayın, sisin ve tekne ışıklarının gerçek zamanlı yansımaları
-- Okyanus dalgaları değil, hafif bir kabarma
-- Yüzeyde duran ve sallanan nilüfer yaprakları
-- Köklerin yakınında kıyı köpüğü / koyu tanenli su
-- Ay ışığı yolunun sinematik hissettireceği kadar iyi ekran uzayı veya düzlemsel yansımalar
-- 60 fps'yi koruyun. Ağaçlar için LOD, bitkiler için instancing kullanın.
-
-TEKNE
-Küçük, yıpranmış bir kabinli sandal / iş teknesi.
-- Kıçta 86 gövde numarası
-- Beyaz kabin, koyu mavi gövde, sıcak iç mekân lambaları
-- Kanal boyunca boşta süzülme, isteğe bağlı yavaş yönlendirilmiş tur
-- HUD hız göstergesi yaklaşık 15.9 KNOTS
-- Mod etiketi: GUIDED DRIFT
-Oyuncu çevresine bakabilmeli. Tekne sinematik bir takip kamerasıyla izlenebilmeli veya yandan yörüngesel olarak görüntülenebilmeli.
-
-KAMERA
-- Ağaçların arasında teknenin üç çeyrek açıdan görünümüyle başlayın
-- Ay ışığıyla aydınlanan geçitte kıçın arkasından süzülün
-- Ön plandaki bir gövdenin yanından ara sıra kayarak geçin
-- Bakış yönünü değiştirmek için sürükleyin
-- İsteğe bağlı PHOTO MODE
-Bir FPS değil, doğa belgeseli hissi vermeli.
-
-ARAYÜZ — oyunvari değil, editoryal
-Sol üst: küçük işaret + STILLWATER
-Üst orta: THE DEEP SWAMP / 19:26, pusula yönü (ör. 314°)
-Sağ üst: sade yardımcı araç simgeleri
-Sol alt:
-  EXPLORING STILLWATER
-  Heron bend
-  Vahşi doğa için biraz yer bırak.
-  15.9 KNOTS
-  GUIDED DRIFT
-Sağ alt: PHOTO MODE, fps, Duraklat
-Alt orta: küçük bildirim "Keşfedildi: Heron bend"
-Küçük ipucu satırı: shader'lar / su / bakış için sürükleyin / fotoğraflar / yaban hayatı
-
-Görünüm: koyu, filmik renk düzeni; soluk yeşiller, macenta bulutlar ve tek bir ay parıltısı. Gerçekçilikten çok estetik. Şişkin bir debug arayüzü olmasın.
-
-TEKNİK
-Tarayıcıda Three.js. Prosedürel / instanced doğa. Özel su shader'ı. Sis. Yumuşak gölgeler veya önceden oluşturulmuş hissi veren alacakaranlık aydınlatması. Kendiniz üretebiliyorsanız hazır asset mağazasından alınmış bataklık paketi kullanmayın.
-
-ÇATIŞMA, envanter, ani korkutma efektleri veya hazine avı EKLEMEYİN. İleride suyun altında bir şey gizlenebilir — ama şimdi değil.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103308083242082314) · [Orijinal gönderi](https://x.com/YouWareAI/status/2103310302993621090) · [Örneklere dön](#all-prompts)
-
----
 
 <a id="2103351755971207251"></a>
 
@@ -4189,6 +3999,73 @@ Yarı saydam paneller metnin netliğini korumalı; saydamlık nedeniyle arka pla
 
 ---
 
+<a id="2116835082547740994"></a>
+
+### Blender’da tamamen kodla oluşturulmuş volkan adası
+
+[Mr Tactical](https://x.com/MrTacticalX) · 2026-11-01
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/volcano-island-blender-code-scene"><img src="../assets/previews/0add32d8e9304a487a8e87bc8217cfe4fd1ce76b1dfee5454fe6f39465937849.jpg" width="840" loading="lazy" alt="Blender’da tamamen kodla oluşturulmuş volkan adası"></a>
+
+İndirilen model veya dokular kullanılmadan, sahnenin tamamen kodla oluşturulmasını belirten bir volkan adası Blender promptu. Ana gönderide, bu promptun aynısının GPT-6 Astra ve Claude Opus 5.5’e verildiği belirtiliyor.
+
+**İstem**
+
+```text
+Blender’da tamamen kodla, indirilen model veya doku kullanmadan bir volkan adası oluştur
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/volcano-island-blender-code-scene) · [Orijinal gönderi](https://x.com/MrTacticalX/status/2116835082547740994) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2116960427628532011"></a>
+
+### 3B Charizard Tasarla
+
+[Wizard of Doubt](https://x.com/CheerfulSkeptic) · 2026-11-01
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/charizard-3d-character-model"><img src="../assets/previews/20856527096bcb0fbed654e13d05ec56d87cf7e0a40c1dd7b3f90490b879b8fc.jpg" width="840" loading="lazy" alt="3B Charizard Tasarla"></a>
+
+Hatasız bir 3B Charizard tasarlamaya yönelik alıntılanmış bir kıyaslama isteği. Gönderide, 3B baskı için Argon, Astra ve Opus'un test edildiği belirtiliyor.
+
+**İstem**
+
+```text
+Bir 3B Charizard tasarla, hata yapma.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/charizard-3d-character-model) · [Orijinal gönderi](https://x.com/CheerfulSkeptic/status/2116960427628532011) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2117235402100940908"></a>
+
+### Three.js'te gerçekçi Mario temalı helikopter
+
+[krisha](https://x.com/insanekrishnaa) · 2026-11-02
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/mario-themed-helicopter-threejs-model"><img src="../assets/previews/2c7053e4f10dcee0a031db0c7ec78d7ae559ad8d6ed0c92be5c45e982d3cf116.jpg" width="840" loading="lazy" alt="Three.js'te gerçekçi Mario temalı helikopter"></a>
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/mario-themed-helicopter-threejs-model"><img src="../assets/previews/b873bc834ff9c0ece236cfd1e8a3a01e98646842a79a86b35c57970842d1249c.jpg" width="840" loading="lazy" alt="Three.js'te gerçekçi Mario temalı helikopter"></a>
+
+Mevcut 3B modelleri veya kestirme yolları kullanmadan, Three.js'te sıfırdan gerçekçi bir Mario temalı helikopter oluşturulmasını isteyen karşılaştırma testi promptu.
+
+**İstem**
+
+```text
+Three.js'te gerçekçi, Mario temalı bir helikopter oluşturun.
+
+Kurallar:
+→ Mevcut 3B model kullanmayın.
+→ Kestirme yollara başvurmayın veya hile yapmayın.
+→ Her şeyi sıfırdan oluşturun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/mario-themed-helicopter-threejs-model) · [Orijinal gönderi](https://x.com/insanekrishnaa/status/2117235402100940908) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu
@@ -4404,7 +4281,7 @@ jared adına atıf yapılan yeni bir jelly-villa istemi yayımlayın; özgün ya
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 383 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 386 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

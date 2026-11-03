@@ -29,7 +29,7 @@
 
 探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。
 
-**383 条案例 · 14 种语言 · 12 条附项目源码**
+**386 条案例 · 14 种语言 · 12 条附项目源码**
 
 ## 精选作品
 
@@ -51,9 +51,6 @@
 <details>
 <summary>浏览案例</summary>
 
-- [北行：互动维京长船之旅](#2103187935759655167)
-- [雾霭秋日可探索 Three.js 体验](#2103211135214256350)
-- [STILLWATER — 月夜沼泽浏览器体验](#2103308083242082314)
 - [黄金时刻的罗马战场场景](#2103351755971207251)
 - [火龙果果冻](#2103432732386664591)
 - [VRChat 服装 3D 建模](#2103456264785424530)
@@ -148,136 +145,14 @@
 - [红树林之光：交互式 WebGL 立体微缩景观](#2116024691533979940)
 - [带动态野生动物的交互式红树林岛屿](#2116210452594401618)
 - [实时体素 3D 城市模拟世界](#2116350947467440157)
+- [完全通过代码在 Blender 中构建火山岛](#2116835082547740994)
+- [设计一个 3D 喷火龙模型](#2116960427628532011)
+- [Three.js 马里奥主题写实直升机](#2117235402100940908)
 - [一二三，木头人：3D 生存游戏](#red-light-green-light)
 - [黄金矿工：24 关 3D 挖矿游戏](#golden-miner)
 - [果冻别墅](#jelly-villa)
 
 </details>
-
-<a id="2103187935759655167"></a>
-
-### 北行：互动维京长船之旅
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/viking-longship-fjord-threejs-journey"><img src="../assets/previews/d8520ab42c6973da4541907e224aed200b691613a7b7bb3183774bb39e1ffdef.jpg" width="840" loading="lazy" alt="北行：互动维京长船之旅"></a>
-
-作者提供的提示词，用于制作一场基于 Three.js 和 WebGL 的独立互动式 3D 峡湾航行体验：乘坐一艘细节丰富的维京长船，穿越壮丽的北欧峡湾。提示词涵盖电影感北欧环境、船体各部件的实体连接、划桨与接触水面的动画效果、转向与镜头控制、移动端支持、光照模式、音频行为以及内嵌交付资源。
-
-**提示词**
-
-```text
-创建“北行”——乘坐一艘细节丰富的维京长船，开启穿越北欧峡湾的精美互动 3D 旅程。
-
-使用 Three.js 和 WebGL 构建真正的实时场景，并以单个独立 HTML 文件交付。这必须是可在浏览器中探索的体验，而不是预渲染视频或平面插画。
-
-视觉方向
-
-打造精致、具有电影感的环境，使用逼真的材质、自然的比例和克制的配色。避免卡通风格或低多边形外观。
-
-一艘木制长船穿行于深绿与蓝色交织的水面，在高耸的悬崖、茂密的森林、瀑布和小型北欧聚落之间航行。使用大气透视、细微薄雾、柔和阴影和可信的景深效果。在整个旅程中持续构图出优美景观，而不只是设计初始镜头位置的画面。
-
-长船
-
-制作细节丰富且不漏水的船体，包含相互搭接的木板、清晰可见的木纹、肋骨、长凳和连续的内部结构。
-添加雕刻龙首、条纹布帆、桅杆、绳索、盾牌、补给品和温暖的灯笼。
-加入比例合理的维京乘客和桨手，为他们设计层次丰富的服装、可信的坐姿，以及靠近船桨的手部位置。
-确保每个部件都与船体实体连接。不得出现悬浮的乘客、相互穿插的配件，或能从船体看见的缝隙。
-制作细微的浮力、俯仰和横摇动画。船帆应随风轻柔摆动。
-
-水面与划桨
-
-让水面成为核心视觉元素。
-
-使用自定义着色器，实现平面反射、折射、菲涅耳高光、随深度变化的吸收效果、清晰可见的浅水区域和分层表面波纹。反射必须正确响应移动中的摄像机和不断变化的光照。
-
-在船后制作可信的航迹。
-
-制作完整的划桨循环动画：桨叶入水、向后划动、抬出水面，再回到水面上方。让这一过程与桨手的动作保持协调。
-
-在桨叶实际接触水面的位置生成波纹、泡沫和细小水滴。水痕必须保留在世界空间中，并逐渐消散。避免桨叶悬空时出现这些效果。
-
-环境与材质
-
-使用细节丰富的地形、不规则岩层、自然的树木轮廓、分叉树干，以及独立的叶簇或针叶簇。
-
-为木材、石头和地面使用带法线贴图与粗糙度贴图的 PBR 材质。可以嵌入许可适当的纹理；如有要求，请注明来源。
-
-确保水下地形在水面下方连续延伸。不得出现明亮接缝、岸线缺口、悬浮植被，或阻挡可航行路线的树木。
-
-CONTROLS
-
-A/D 或方向键：向左、向右转向。
-W/S：调节速度。
-鼠标拖拽：环顾四周。
-提供跟随、环绕和电影感镜头模式。
-加入可选的自动航行模式。
-添加暂停、重置、全屏和隐藏界面控件。
-在移动设备上支持触控转向和速度控制。
-防止船只穿过陆地和岩石。
-
-氛围与界面
-
-提供三种可平滑过渡的光照预设：清晨、阴天和月光。
-
-加入可选的环境水声、风声、鸟鸣和划桨声。音频只能在用户交互后开始播放。
-
-设计简约的编辑风格界面：使用优雅的衬线字体显示“Northbound.”，搭配低调的章节标签和紧凑的半透明控制栏。避免遮挡景色。
-
-性能与交付
-
-使用实例化、合理的几何体预算、基于距离的细节层级，以及尺寸适当的反射目标。根据设备调整渲染质量，而不是承诺固定帧率。
-
-交付一个包含内嵌脚本和所需资源的 HTML 文件，使其能够直接在现代浏览器中打开。
-
-测试转向、镜头模式、光照过渡和划桨效果。从多个角度检查船只，并从较低视角检查岸线。在认为场景完成前，修复几何体穿插、反射瑕疵、过度眩光和控制台错误。
-
-优先确保水面效果可信、长船构造精美、环境协调统一，而不是一味增加更多物体。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/viking-longship-fjord-threejs-journey) · [查看原帖](https://x.com/vib3coded/status/2103189762672611675) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2103211135214256350"></a>
-
-### 雾霭秋日可探索 Three.js 体验
-
-[Simonas](https://x.com/SimonasLTU1) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103211135214256350"><img src="../assets/previews/21d3a73dd776ae76e027f6f8987d49b4326796d6bcecadcd8751ed9247a1c893.jpg" width="840" loading="lazy" alt="雾霭秋日可探索 Three.js 体验"></a>
-
-创建一个可探索的 Three.js 体验：营造雾霭、雨天、秋日般神秘而怀旧的氛围，并以单个 HTML/CSS/JS 文件交付。
-
-**提示词**
-
-```text
-请创建一个雾霭、雨天、秋日般的神秘怀旧体验，使用 Three.js 构建为可探索场景，并整合在单个 HTML/CSS/JS 文件中。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103211135214256350) · [查看原帖](https://x.com/SimonasLTU1/status/2103211135214256350) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2103308083242082314"></a>
-
-### STILLWATER — 月夜沼泽浏览器体验
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103308083242082314"><img src="../assets/previews/609344d27303517348f788d499244dbffce89132e635466fa012f1b8d2ee8109.jpg" width="840" loading="lazy" alt="STILLWATER — 月夜沼泽浏览器体验"></a>
-
-发帖作者在回复中提供的一份详细提示词，用于制作交互式 Three.js 沼泽世界。内容要求玩家乘坐带舱小艇，在被洪水淹没的柏树沼泽中缓慢漂流；采用电影感的反射水面、氛围灯光与雾效、拖拽视角控制，以及具有编辑感的 HUD 界面。最终体验明确不包含战斗或其他游戏玩法系统。
-
-**提示词**
-
-```text
-使用 Three.js 构建一个名为 STILLWATER 的浏览器体验。基调：一片让人迷失其中的月夜沼泽。不要做成有敌人的游戏，也不要做成虚幻引擎式的照片级写实作品。打造一个安静、精致而昂贵感十足的网页世界，让水面倒影成为绝对主角。让人盯着水面看上很久，甚至久到有些不太健康。  场景设置 - 地点标题：深沼泽 - HUD 时间：19:26 - 第一个地点名称：苍鹭湾 - 地名下方的标语：“给荒野留一点余地。” - 抵达时显示的发现提示：“已发现：苍鹭湾”  世界：月升时分／暮色将尽的洪水柏树沼泽。 - 高大、膝状根节突出的树木伫立在黑绿色水面中 - 西班牙苔藓成缕垂挂 - 睡莲叶沿岸成簇分布 - 狭窄蜿蜒的水道汇入更宽的弯道 - 浓厚的体积雾，远处呈青绿色，天空是紫粉色的云层 - 明亮的月亮在水面投下绵延、断续的倒影 - 几只飞鸟掠过天空 - 小艇温暖的舱内灯光穿透幽暗  水面（不要敷衍）这是整个体验的核心。 - 实时反射树木、月亮、雾气和船灯 - 轻柔的涌动，不要做成海浪 - 睡莲叶贴在水面上并随波轻轻摇摆 - 岸线泡沫／树根附近的深色单宁水 - 使用屏幕空间反射或平面反射，确保月光倒影具有电影感 - 保持 60fps。对树木使用 LOD，对植被使用实例化。  小艇：一艘小型、饱经风霜的带舱小艇／工作船。 - 船尾编号 86 - 白色船舱、深蓝色船身、温暖的内部灯光 - 沿水道闲适漂流，可选缓慢引导游览 - HUD 速度约为 15.9 节 - 模式标签：引导漂流 玩家可以环顾四周。小艇可以采用电影感的追逐视角或侧方环绕视角进行跟拍。  摄像机 - 从树丛中以四分之三视角开始，看到小艇 - 漂到船尾后方，沿着月光照亮的水道前进 - 偶尔从前景树干旁侧滑经过 - 拖拽查看 - 可选摄影模式 要有自然纪录片的感觉，而不是第一人称射击游戏。  UI——有编辑感，不要像游戏界面 左上：小型标记 + STILLWATER 顶部居中：深沼泽／19:26，以及罗盘朝向（例如 314°） 右上：低调的功能图标 左下：   探索 STILLWATER   苍鹭湾   给荒野留一点余地。   15.9 节    引导漂流 右下：摄影模式、fps、暂停 底部居中：小型提示“已发现：苍鹭湾” 小型提示栏：着色器／水面／拖拽查看／照片／野生动物  画面风格：深沉的电影感调色，低饱和绿色，品红色云层，以及一处月光高光。重视审美，不必追求写实。不要堆满调试 GUI。  技术：在浏览器中使用 Three.js。程序化／实例化自然环境。自定义水面着色器。雾效。柔和阴影或仿佛烘焙出的暮色光照。如果可以自行制作，就不要使用资源商店里的沼泽素材包。  不要加入战斗、物品栏、惊吓桥段或寻宝任务。之后可以让某种东西潜伏在水下——但现在不要。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103308083242082314) · [查看原帖](https://x.com/YouWareAI/status/2103310302993621090) · [返回案例导航](#all-prompts)
-
----
 
 <a id="2103351755971207251"></a>
 
@@ -4134,6 +4009,73 @@ UI 与城市画面应形成适当对比，但不能过度抢眼。
 
 ---
 
+<a id="2116835082547740994"></a>
+
+### 完全通过代码在 Blender 中构建火山岛
+
+[Mr Tactical](https://x.com/MrTacticalX) · 2026-11-01
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/volcano-island-blender-code-scene"><img src="../assets/previews/0add32d8e9304a487a8e87bc8217cfe4fd1ce76b1dfee5454fe6f39465937849.jpg" width="840" loading="lazy" alt="完全通过代码在 Blender 中构建火山岛"></a>
+
+用于在 Blender 中创建火山岛的提示词，要求整个场景完全通过代码生成，不使用下载的模型或纹理。原帖称，这段提示词原样提供给了 GPT-6 Astra 和 Claude Opus 5.5。
+
+**提示词**
+
+```text
+在 Blender 中完全通过代码构建一座火山岛，不使用任何下载的模型或纹理
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/volcano-island-blender-code-scene) · [查看原帖](https://x.com/MrTacticalX/status/2116835082547740994) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2116960427628532011"></a>
+
+### 设计一个 3D 喷火龙模型
+
+[Wizard of Doubt](https://x.com/CheerfulSkeptic) · 2026-11-01
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/charizard-3d-character-model"><img src="../assets/previews/20856527096bcb0fbed654e13d05ec56d87cf7e0a40c1dd7b3f90490b879b8fc.jpg" width="840" loading="lazy" alt="设计一个 3D 喷火龙模型"></a>
+
+一条用于基准测试的 3D 喷火龙设计请求，要求零失误。帖子称，这是在测试 Argon、Astra 和 Opus 的 3D 打印能力。
+
+**提示词**
+
+```text
+设计一个 3D 喷火龙模型，不要出错。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/charizard-3d-character-model) · [查看原帖](https://x.com/CheerfulSkeptic/status/2116960427628532011) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2117235402100940908"></a>
+
+### Three.js 马里奥主题写实直升机
+
+[krisha](https://x.com/insanekrishnaa) · 2026-11-02
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/mario-themed-helicopter-threejs-model"><img src="../assets/previews/2c7053e4f10dcee0a031db0c7ec78d7ae559ad8d6ed0c92be5c45e982d3cf116.jpg" width="840" loading="lazy" alt="Three.js 马里奥主题写实直升机"></a>
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/mario-themed-helicopter-threejs-model"><img src="../assets/previews/b873bc834ff9c0ece236cfd1e8a3a01e98646842a79a86b35c57970842d1249c.jpg" width="840" loading="lazy" alt="Three.js 马里奥主题写实直升机"></a>
+
+用于对比测试的提示词：要求使用 Three.js 从零开始制作一架马里奥主题的写实直升机，不得使用现成的 3D 模型或任何捷径。
+
+**提示词**
+
+```text
+使用 Three.js 制作一架写实的马里奥主题直升机。
+
+规则：
+→ 不得使用现成的 3D 模型。
+→ 不得走捷径或作弊。
+→ 所有内容都必须从零开始制作。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/mario-themed-helicopter-threejs-model) · [查看原帖](https://x.com/insanekrishnaa/status/2117235402100940908) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### 一二三，木头人：3D 生存游戏
@@ -4349,7 +4291,7 @@ UI 与城市画面应形成适当对比，但不能过度抢眼。
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 383 条案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 386 条案例 →</a></strong></p>
 <p><sub>为保持 GitHub README 渲染流畅，这里仅展示最新 100 条案例。</sub></p>
 <br>
 </td></tr>

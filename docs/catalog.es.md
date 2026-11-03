@@ -28,7 +28,7 @@
 **Un punto de partida para tu próximo juego, escena o mundo interactivo.**
 
 
-**383 · Últimos prompts de Astra**
+**386 · Últimos prompts de Astra**
 
 ## Proyectos destacados
 
@@ -50,9 +50,6 @@
 <details>
 <summary>Explorar ejemplos</summary>
 
-- [Rumbo al norte: viaje interactivo en un barco vikingo](#2103187935759655167)
-- [Experiencia explorable de otoño brumoso en Three.js](#2103211135214256350)
-- [STILLWATER — Experiencia de pantano iluminado por la luna en el navegador](#2103308083242082314)
 - [Escena de campo de batalla romano a la hora dorada](#2103351755971207251)
 - [Pitaya Jelly](#2103432732386664591)
 - [Modelado 3D de ropa para VRChat](#2103456264785424530)
@@ -147,201 +144,14 @@
 - [Diorama WebGL interactivo «Mangrove Lights»](#2116024691533979940)
 - [Isla de manglar interactiva con fauna animada](#2116210452594401618)
 - [Mundo de simulación urbana 3D voxel en tiempo real](#2116350947467440157)
+- [Isla volcánica en Blender creada íntegramente mediante código](#2116835082547740994)
+- [Diseña un Charizard en 3D](#2116960427628532011)
+- [Helicóptero realista con temática de Mario en Three.js](#2117235402100940908)
 - [Luz roja, luz verde: juego de supervivencia 3D](#red-light-green-light)
 - [Golden Miner: juego de minería 3D de 24 niveles](#golden-miner)
 - [Villa de gelatina](#jelly-villa)
 
 </details>
-
-<a id="2103187935759655167"></a>
-
-### Rumbo al norte: viaje interactivo en un barco vikingo
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/viking-longship-fjord-threejs-journey"><img src="../assets/previews/d8520ab42c6973da4541907e224aed200b691613a7b7bb3183774bb39e1ffdef.jpg" width="840" loading="lazy" alt="Rumbo al norte: viaje interactivo en un barco vikingo"></a>
-
-Un prompt proporcionado por el autor para un viaje interactivo independiente en 3D por un fiordo, creado con Three.js y WebGL, a bordo de un detallado barco vikingo. Especifica un entorno nórdico cinematográfico, la construcción físicamente conectada del barco, animaciones de remo y efectos de contacto con el agua, controles de dirección y cámara, compatibilidad con dispositivos móviles, modos de iluminación, comportamiento del audio y recursos integrados para la entrega.
-
-**Prompt**
-
-```text
-Crea «Rumbo al norte», un hermoso viaje interactivo en 3D por un fiordo nórdico a bordo de un detallado barco vikingo.
-
-Construye una escena auténticamente interactiva en tiempo real con Three.js y WebGL, entregada como un único archivo HTML independiente. Debe ser una experiencia explorable en el navegador, no un vídeo prerrenderizado ni una ilustración plana.
-
-DIRECCIÓN VISUAL
-
-Busca un entorno pulido y cinematográfico, con materiales realistas, proporciones naturales y colores sobrios. Evita una apariencia caricaturesca o de pocos polígonos.
-
-Un barco vikingo de madera navega por aguas de color verde azulado intenso, entre imponentes acantilados, bosques frondosos, cascadas y pequeños asentamientos nórdicos. Usa perspectiva atmosférica, una niebla sutil, sombras suaves y una profundidad convincente. Compón vistas hermosas a lo largo de todo el viaje, no solo desde la posición inicial de la cámara.
-
-EL BARCO VIKINGO
-
-Construye un casco detallado y estanco, con tablones de madera superpuestos, vetas visibles, cuadernas, bancos y un interior continuo.
-Añade una proa tallada con forma de dragón, una vela de tela a rayas, mástil, cuerdas, escudos, provisiones y cálidos faroles.
-Incluye pasajeros y remeros vikingos de proporciones adecuadas, con ropa superpuesta, posturas sentadas creíbles y las manos colocadas cerca de los remos.
-Mantén todos los componentes físicamente conectados. No debe haber pasajeros flotando, accesorios intersecados ni huecos visibles a través del casco.
-Anima una flotabilidad, cabeceo y balanceo sutiles. La vela debe reaccionar suavemente al viento.
-
-AGUA Y REMADO
-
-Haz del agua un elemento visual central.
-
-Usa un shader personalizado con reflejos planares, refracción, brillos de Fresnel, absorción dependiente de la profundidad, zonas poco profundas visibles y ondulaciones de superficie en capas. Los reflejos deben responder correctamente a la cámara en movimiento y a los cambios de iluminación.
-
-Crea una estela creíble detrás del barco.
-
-Anima un ciclo completo de remado: las palas entran en el agua, tiran hacia atrás, salen y regresan por encima de la superficie. Coordínalo con el movimiento de los remeros.
-
-Genera ondulaciones, espuma y pequeñas gotas en los puntos reales de contacto entre las palas y el agua. Las estelas deben permanecer en el espacio del mundo y disiparse gradualmente. Evita que aparezcan efectos mientras las palas están en el aire.
-
-ENTORNO Y MATERIALES
-
-Usa un terreno detallado, formaciones rocosas irregulares, siluetas naturales de árboles, troncos ramificados y grupos individuales de hojas o agujas.
-
-Usa materiales PBR con mapas de normales y rugosidad para la madera, la piedra y el suelo. Puedes integrar texturas con licencias adecuadas; incluye la atribución cuando sea necesario.
-
-Asegúrate de que el terreno submarino continúe bajo la superficie. No debe haber costuras brillantes, huecos en la orilla, vegetación flotante ni árboles que obstruyan la ruta navegable.
-
-CONTROLS
-
-Teclas A/D o de flecha: gira a izquierda y derecha.
-W/S: ajusta la velocidad.
-Arrastrar con el ratón: mirar alrededor.
-Ofrece modos de cámara de seguimiento, órbita y cinematográfico.
-Incluye un modo opcional de viaje automático.
-Añade controles para pausar, reiniciar, activar la pantalla completa y ocultar la interfaz.
-Admite controles táctiles de dirección y velocidad en dispositivos móviles.
-Impide que el barco atraviese tierra firme y rocas.
-
-ATMÓSFERA E INTERFAZ
-
-Ofrece tres preajustes de iluminación con transiciones fluidas: Mañana, Nublado y Luz de luna.
-
-Añade, de forma opcional, sonidos ambientales de agua, viento, aves y remos. El audio debe comenzar únicamente después de la interacción del usuario.
-
-Diseña una interfaz editorial minimalista: «Rumbo al norte.» con una tipografía serif elegante, etiquetas de capítulo sutiles y una barra de controles compacta y translúcida. Mantén el paisaje despejado.
-
-RENDIMIENTO Y ENTREGA
-
-Usa instanciación, presupuestos de geometría razonables, nivel de detalle basado en la distancia y objetivos de reflejo de tamaño adecuado. Adapta la calidad del renderizado al dispositivo en lugar de prometer una frecuencia de fotogramas fija.
-
-Entrega un único archivo HTML con los scripts y recursos necesarios integrados, de modo que pueda abrirse directamente en un navegador moderno.
-
-Prueba la dirección, los modos de cámara, las transiciones de iluminación y el remado. Inspecciona el barco desde varios ángulos y comprueba la línea de costa desde puntos de vista bajos. Corrige las intersecciones de geometría, los artefactos de los reflejos, el exceso de brillo y los errores de la consola antes de considerar terminada la escena.
-
-Da prioridad a un agua convincente, un barco vikingo magníficamente construido y un entorno cohesionado por encima de añadir más objetos.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/viking-longship-fjord-threejs-journey) · [Publicación original](https://x.com/vib3coded/status/2103189762672611675) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2103211135214256350"></a>
-
-### Experiencia explorable de otoño brumoso en Three.js
-
-[Simonas](https://x.com/SimonasLTU1) · 2026-09-24
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2103211135214256350"><img src="../assets/previews/21d3a73dd776ae76e027f6f8987d49b4326796d6bcecadcd8751ed9247a1c893.jpg" width="840" loading="lazy" alt="Experiencia explorable de otoño brumoso en Three.js"></a>
-
-Crea una experiencia explorable en Three.js con una atmósfera brumosa y lluviosa, de aire otoñal, misteriosa y nostálgica, entregada en un único archivo HTML/CSS/JS.
-
-**Prompt**
-
-```text
-Quiero que crees una experiencia explorable en Three.js, en un único archivo HTML/CSS/JS, con una atmósfera brumosa y lluviosa, de aire otoñal, misteriosa y nostálgica.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2103211135214256350) · [Publicación original](https://x.com/SimonasLTU1/status/2103211135214256350) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2103308083242082314"></a>
-
-### STILLWATER — Experiencia de pantano iluminado por la luna en el navegador
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2103308083242082314"><img src="../assets/previews/609344d27303517348f788d499244dbffce89132e635466fa012f1b8d2ee8109.jpg" width="840" loading="lazy" alt="STILLWATER — Experiencia de pantano iluminado por la luna en el navegador"></a>
-
-Un prompt detallado proporcionado por el autor de la publicación en respuesta para crear un mundo pantanoso interactivo en Three.js. Especifica un recorrido guiado a la deriva en una barca con cabina por un entorno de cipreses inundado, agua reflectante de aspecto cinematográfico, iluminación atmosférica y niebla, controles de cámara para mirar arrastrando y elementos editoriales del HUD. El resultado solicitado excluye explícitamente el combate y cualquier otro sistema de juego.
-
-**Prompt**
-
-```text
-Crea una experiencia para navegador en Three.js llamada STILLWATER. Tono: un pantano iluminado por la luna en el que te pierdes. No es un juego con enemigos. No busca el fotorrealismo de Unreal. Es un mundo web sereno y de aspecto lujoso, donde los reflejos del agua son los protagonistas. La gente debería quedarse mirando el agua durante un tiempo poco saludable.
-
-ENTORNO
-- Título del lugar: THE DEEP SWAMP
-- Hora en el HUD: 19:26
-- Primer lugar con nombre: Heron bend
-- Lema bajo el nombre del lugar: "Leave a little room for the wild."
-- Notificación de descubrimiento al llegar: "Discovered: Heron bend"
-
-MUNDO
-Un pantano de cipreses inundado al salir la luna, durante el crepúsculo avanzado.
-- Árboles altos, de raíces nudosas, erguidos en aguas de color negro verdoso
-- Musgo español colgando en largos filamentos
-- Nenúfares agrupados a lo largo de las orillas
-- Un canal estrecho y sinuoso que desemboca en una curva más amplia
-- Niebla volumétrica densa, distancia verde azulada y cielo nublado entre rosa y púrpura
-- Una luna brillante con un largo sendero de reflejos fragmentados sobre el agua
-- Algunas aves cruzando el cielo
-- La luz cálida de la cabina del barco atravesando la penumbra
-
-AGUA (no escatimes en este aspecto)
-Este es el elemento protagonista.
-- Reflejos en tiempo real de los árboles, la luna, la niebla y las luces del barco
-- Oleaje suave, no olas oceánicas
-- Nenúfares apoyados en la superficie y balanceándose
-- Espuma en la orilla y agua oscura rica en taninos cerca de las raíces
-- Reflejos en espacio de pantalla o planos, con calidad suficiente para que el sendero lunar resulte cinematográfico
-- Mantén 60 fps. Usa LOD en los árboles y vegetación instanciada.
-
-BARCO
-Una pequeña barca de trabajo con cabina, desgastada por el clima.
-- Número de casco 86 en la popa
-- Cabina blanca, casco azul oscuro y lámparas interiores cálidas
-- Deriva pausada por el canal, con recorrido guiado lento opcional
-- Velocidad aproximada en el HUD: 15.9 KNOTS
-- Etiqueta de modo: GUIDED DRIFT
-El jugador puede mirar a su alrededor. La cámara puede seguir el barco en una persecución cinematográfica o mediante una órbita lateral.
-
-CÁMARA
-- Empieza mostrando el barco en tres cuartos, entre los árboles
-- Avanza a la deriva detrás de la popa por el canal iluminado por la luna
-- Desplazamiento lateral ocasional junto a un tronco en primer plano
-- Arrastra para mirar
-- PHOTO MODE opcional
-Debe sentirse como un documental de naturaleza, no como un FPS.
-
-INTERFAZ — editorial, no propia de un juego
-Arriba a la izquierda: distintivo pequeño + STILLWATER
-Arriba en el centro: THE DEEP SWAMP / 19:26 y un rumbo de brújula (por ejemplo, 314°)
-Arriba a la derecha: iconos utilitarios discretos
-Abajo a la izquierda:
-  EXPLORING STILLWATER
-  Heron bend
-  Leave a little room for the wild.
-  15.9 KNOTS
-  GUIDED DRIFT
-Abajo a la derecha: PHOTO MODE, fps, Pause
-Centro inferior: notificación pequeña "Discovered: Heron bend"
-Fila de indicaciones pequeñas: shaders / agua / arrastra para mirar / fotos / fauna
-
-Estética: gradación fílmica oscura, verdes apagados, nubes magenta y un único brillo lunar. Prima el gusto sobre el realismo. No añadas una interfaz de depuración recargada.
-
-TECNOLOGÍA
-Three.js en el navegador. Naturaleza procedural e instanciada. Shader de agua personalizado. Niebla. Sombras suaves o iluminación de crepúsculo con aspecto de iluminación precalculada. Si puedes crear los recursos tú mismo, no uses un paquete de pantano de una tienda de recursos.
-
-NO añadas combate, inventario, sustos repentinos ni una búsqueda del tesoro. Más adelante puede haber algo al acecho bajo el agua, pero no ahora.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2103308083242082314) · [Publicación original](https://x.com/YouWareAI/status/2103310302993621090) · [Volver a los ejemplos](#all-prompts)
-
----
 
 <a id="2103351755971207251"></a>
 
@@ -4189,6 +3999,73 @@ Los paneles semitransparentes deben mantener el texto legible; el efecto de tran
 
 ---
 
+<a id="2116835082547740994"></a>
+
+### Isla volcánica en Blender creada íntegramente mediante código
+
+[Mr Tactical](https://x.com/MrTacticalX) · 2026-11-01
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/volcano-island-blender-code-scene"><img src="../assets/previews/0add32d8e9304a487a8e87bc8217cfe4fd1ce76b1dfee5454fe6f39465937849.jpg" width="840" loading="lazy" alt="Isla volcánica en Blender creada íntegramente mediante código"></a>
+
+Un prompt para Blender sobre una isla volcánica que especifica que la escena debe crearse íntegramente mediante código, sin modelos ni texturas descargados. La publicación original indica que este mismo prompt se proporcionó a GPT-6 Astra y Claude Opus 5.5.
+
+**Prompt**
+
+```text
+crea una isla volcánica en Blender íntegramente mediante código, sin modelos ni texturas descargados
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/volcano-island-blender-code-scene) · [Publicación original](https://x.com/MrTacticalX/status/2116835082547740994) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2116960427628532011"></a>
+
+### Diseña un Charizard en 3D
+
+[Wizard of Doubt](https://x.com/CheerfulSkeptic) · 2026-11-01
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/charizard-3d-character-model"><img src="../assets/previews/20856527096bcb0fbed654e13d05ec56d87cf7e0a40c1dd7b3f90490b879b8fc.jpg" width="840" loading="lazy" alt="Diseña un Charizard en 3D"></a>
+
+Una solicitud de referencia citada para diseñar un Charizard en 3D sin errores. La publicación indica que se están probando Argon, Astra y Opus para impresión 3D.
+
+**Prompt**
+
+```text
+diseña un Charizard en 3D, sin cometer errores.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/charizard-3d-character-model) · [Publicación original](https://x.com/CheerfulSkeptic/status/2116960427628532011) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2117235402100940908"></a>
+
+### Helicóptero realista con temática de Mario en Three.js
+
+[krisha](https://x.com/insanekrishnaa) · 2026-11-02
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/mario-themed-helicopter-threejs-model"><img src="../assets/previews/2c7053e4f10dcee0a031db0c7ec78d7ae559ad8d6ed0c92be5c45e982d3cf116.jpg" width="840" loading="lazy" alt="Helicóptero realista con temática de Mario en Three.js"></a>
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/mario-themed-helicopter-threejs-model"><img src="../assets/previews/b873bc834ff9c0ece236cfd1e8a3a01e98646842a79a86b35c57970842d1249c.jpg" width="840" loading="lazy" alt="Helicóptero realista con temática de Mario en Three.js"></a>
+
+Un prompt de prueba comparativa para solicitar un helicóptero realista con temática de Mario, creado en Three.js desde cero y sin usar modelos 3D existentes ni atajos.
+
+**Prompt**
+
+```text
+Construye un helicóptero realista con temática de Mario en Three.js.
+
+Reglas:
+→ No uses modelos 3D existentes.
+→ No uses atajos ni hagas trampas.
+→ Construye todo desde cero.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/mario-themed-helicopter-threejs-model) · [Publicación original](https://x.com/insanekrishnaa/status/2117235402100940908) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Luz roja, luz verde: juego de supervivencia 3D
@@ -4404,7 +4281,7 @@ Publica un prompt nuevo de jelly-villa acreditado a jared, con el autor original
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 383 ejemplos en el sitio oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 386 ejemplos en el sitio oficial →</a></strong></p>
 <p><sub>Para que el README de GitHub se renderice con fluidez, aquí solo se muestran los 100 ejemplos más recientes.</sub></p>
 <br>
 </td></tr>
