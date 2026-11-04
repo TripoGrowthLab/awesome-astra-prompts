@@ -28,7 +28,7 @@
 **次のゲーム、シーン、インタラクティブな世界づくりのヒントに。**
 
 
-**386 · 最新の Astra プロンプト**
+**387 · 最新の Astra プロンプト**
 
 ## 注目の作品
 
@@ -50,7 +50,6 @@
 <details>
 <summary>作例を見る</summary>
 
-- [ゴールデンアワーのローマ戦場セットピース](#2103351755971207251)
 - [ピタヤゼリー](#2103432732386664591)
 - [VRChat用衣装の3Dモデリング](#2103456264785424530)
 - [Blenderでモルモットを作成](#2103482826519986544)
@@ -147,44 +146,12 @@
 - [コードだけで制作したBlenderの火山島](#2116835082547740994)
 - [3Dリザードンをデザイン](#2116960427628532011)
 - [Three.jsで作るリアルなマリオ風ヘリコプター](#2117235402100940908)
+- [Subway Surfersを2026年版のプレイ可能なHTMLゲームとして再現する](#2117354881950650743)
 - [Red Light, Green Light：3Dサバイバルゲーム](#red-light-green-light)
 - [Golden Miner：全24レベルの3D採掘ゲーム](#golden-miner)
 - [ジェリー・ヴィラ](#jelly-villa)
 
 </details>
-
-<a id="2103351755971207251"></a>
-
-### ゴールデンアワーのローマ戦場セットピース
-
-[tonysuri](https://x.com/tonysurix) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/golden-hour-roman-battlefield-blender-scene"><img src="../assets/previews/38d510439e2c3695b5acbb44c83317a5c0824a4b8b8305c45187d66ca6ebeccd.jpg" width="840" loading="lazy" alt="ゴールデンアワーのローマ戦場セットピース"></a>
-
-提供されたコンセプト画像をもとに、ゴールデンアワーのローマ戦場をリアルに再現する、Blender向けの詳細な制作タスクです。大きな岩で囲んだ1対1のアリーナ、バンプマップを使用した高精細な地面、可能な限りプロシージャルに生成したアセット、ゴールデンアワーのスカイボックス、硬い影、再利用可能なGLBアセットを指定し、.blendファイルと制作タイムラプスを納品します。
-
-**プロンプト**
-
-```text
-タスク
-提供されたコンセプト画像をもとに、Blenderでゴールデンアワーのローマ戦場セットピースを制作してください。生成の使用は許可されています。利用可能な生成ツール（https://t.co/JV0K8OtuWC)上のTripo）で環境および各パーツの3Dモデルを生成し、組み立てても構いません。ただし、すべてがスケール、マテリアル、ライティングの統一された、一貫性のある1つのシーンになるようにしてください。要件：地面にバンプマップを使用し、高いディテールを維持すること。
-地面に円形の空きスペースを作り、その周囲に大きな岩を配置して1対1のアリーナを形成すること。
-すべてをリアルにレンダリングすること。
-可能な箇所ではアセットをプロシージャルに生成すること。
-ゴールデンアワーの空を表現するスカイボックスを作成すること。
-硬い影を使用すること。
-オブジェクト（旗、バナー、兜、岩など）を再利用すること。各オブジェクトをGLBとして書き出し、それらのアセットを再利用すること。
-提供された画像に、可能な限り近く正確に合わせること。
-タイムラプス要件
-制作中は、意味のある追加（新しいオブジェクト、モディファイアの適用、マテリアルの工程、ライティングの工程など）を行うたびに、ビューポートのスクリーンショットを順番に番号付けしてtimelapse/フォルダーへ保存してください。作業完了後、それらのフレームを2 fps（1フレームあたり0.5秒）のタイムラプス動画にまとめ、最初から最後まで制作工程を確認できるようにしてください。タイムラプス動画をメインファイルとともに納品してください。
-DELIVERABLES
-カメラとビューポートを設定し、元画像と完全に一致する視点にした.blendファイル。
-制作タイムラプス動画。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/golden-hour-roman-battlefield-blender-scene) · [元の投稿](https://x.com/tonysurix/status/2103352274269675532) · [作例一覧に戻る](#all-prompts)
-
----
 
 <a id="2103432732386664591"></a>
 
@@ -4075,6 +4042,26 @@ UIと都市の画面には適度なコントラストを持たせますが、UI�
 
 ---
 
+<a id="2117354881950650743"></a>
+
+### Subway Surfersを2026年版のプレイ可能なHTMLゲームとして再現する
+
+[darkzodchi](https://x.com/zodchiii) · 2026-11-02
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/subway-surfers-2026-html-game"><img src="../assets/previews/7ac665cbfdd5c7bb70bf4f3622fe26f503b90015a4db5a60ff3b6ee9682c557c.jpg" width="840" loading="lazy" alt="Subway Surfersを2026年版のプレイ可能なHTMLゲームとして再現する"></a>
+
+元の投稿者は、同じプロンプトをGPT-6 Astra、Claude Opus 5.5、Kimi K3.1 Proに入力し、それぞれの生成結果を比較したと説明しています。2026年のリリース作品という設定で、プレイ可能なSubway SurfersのHTML版を作成するリクエストです。
+
+**プロンプト**
+
+```text
+2026年にリリースされたかのようなSubway Surfersを再現してください。1つのHTMLファイルだけでプレイできるゲームにしてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/subway-surfers-2026-html-game) · [元の投稿](https://x.com/zodchiii/status/2117354881950650743) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Red Light, Green Light：3Dサバイバルゲーム
@@ -4290,7 +4277,7 @@ jaredのクレジットを付けた新しいjelly-villaプロンプトを公開�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 386 件の作例を公式サイトで見る →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 387 件の作例を公式サイトで見る →</a></strong></p>
 <p><sub>GitHub README をスムーズに表示するため、ここでは最新の作例 100 件のみを掲載しています。</sub></p>
 <br>
 </td></tr>

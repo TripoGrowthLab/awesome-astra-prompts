@@ -28,7 +28,7 @@
 **다음 게임, 장면, 인터랙티브 세계를 위한 아이디어를 찾아보세요.**
 
 
-**386 · 최신 Astra 프롬프트**
+**387 · 최신 Astra 프롬프트**
 
 ## 추천 작품
 
@@ -50,7 +50,6 @@
 <details>
 <summary>사례 둘러보기</summary>
 
-- [골든아워의 로마 전장 세트 피스](#2103351755971207251)
 - [피타야 젤리](#2103432732386664591)
 - [VRChat용 의상 3D 모델링](#2103456264785424530)
 - [Blender에서 기니피그 만들기](#2103482826519986544)
@@ -147,44 +146,12 @@
 - [코드만으로 Blender에서 제작한 화산섬](#2116835082547740994)
 - [3D 리자몽 디자인](#2116960427628532011)
 - [Three.js로 제작한 사실적인 마리오 테마 헬리콥터](#2117235402100940908)
+- [Subway Surfers를 2026년 출시작으로 재현한 플레이 가능한 HTML 게임](#2117354881950650743)
 - [무궁화꽃이 피었습니다: 3D 서바이벌 게임](#red-light-green-light)
 - [Golden Miner: 24레벨 3D 채굴 게임](#golden-miner)
 - [젤리 빌라](#jelly-villa)
 
 </details>
-
-<a id="2103351755971207251"></a>
-
-### 골든아워의 로마 전장 세트 피스
-
-[tonysuri](https://x.com/tonysurix) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/golden-hour-roman-battlefield-blender-scene"><img src="../assets/previews/38d510439e2c3695b5acbb44c83317a5c0824a4b8b8305c45187d66ca6ebeccd.jpg" width="840" loading="lazy" alt="골든아워의 로마 전장 세트 피스"></a>
-
-제공된 콘셉트 이미지를 바탕으로 사실적인 골든아워 로마 전장 장면을 제작하는 상세한 Blender 작업입니다. 바위로 둘러싸인 1대1 아레나, 범프 맵이 적용된 디테일한 지면, 가능한 경우 프로시저럴 에셋 사용, 골든아워 스카이박스, 강한 그림자, 재사용 가능한 GLB 에셋, 그리고 .blend 파일과 제작 타임랩스 납품을 요구합니다.
-
-**프롬프트**
-
-```text
-작업
-제공된 콘셉트 이미지에서 골든아워의 로마 전장 세트 피스를 Blender로 제작합니다. 생성 기능을 사용해도 됩니다. 사용 가능한 생성 도구(Tripo on https://t.co/JV0K8OtuWC))로 환경과 구성 요소의 3D 모델을 생성한 뒤 조합할 수 있습니다. 모든 요소는 하나의 일관된 장면을 구성해야 합니다. 스케일을 맞추고, 머티리얼을 일관되게 유지하며, 조명을 통일하세요.  요구 사항: 지면에 범프 맵을 사용하고 지면을 매우 디테일하게 제작하세요.
-지면에 넓고 비어 있는 원형 공간을 만들고, 주변에 커다란 바위를 배치해 1대1 아레나를 구성하세요.
-모든 요소를 사실적으로 렌더링하세요.
-가능한 경우 에셋을 프로시저럴 방식으로 제작하세요.
-골든아워 하늘을 위한 스카이박스를 제작하세요.
-강한 그림자를 사용하세요.
-오브젝트(깃발, 배너, 투구, 바위 등)를 재사용하세요. 모든 오브젝트를 GLB로 내보내고 해당 에셋을 재사용하세요.
-제공된 이미지와 최대한 가깝고 정확하게 일치시키세요.
-타임랩스 요구 사항
-제작하는 동안 의미 있는 추가 작업이 완료될 때마다(새 오브젝트, 모디파이어 적용 단계, 머티리얼 작업 단계, 조명 작업 단계를 순서대로 포함) 뷰포트 스크린샷을 번호를 매겨 timelapse/ 폴더에 저장하세요. 작업이 끝나면 해당 프레임을 초당 2프레임(프레임당 0.5초)의 타임랩스 영상으로 조합해 처음부터 끝까지 전체 제작 과정을 볼 수 있도록 하세요. 타임랩스 영상은 메인 파일과 함께 납품하세요.
-DELIVERABLES
-카메라와 뷰포트를 설정해 원본 이미지와 시점이 정확히 일치하도록 구성한 .blend 파일.
-제작 타임랩스 영상.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/golden-hour-roman-battlefield-blender-scene) · [원본 게시물](https://x.com/tonysurix/status/2103352274269675532) · [사례 목록으로](#all-prompts)
-
----
 
 <a id="2103432732386664591"></a>
 
@@ -4066,6 +4033,26 @@ Three.js로 사실적인 마리오 테마 헬리콥터를 제작하세요.
 
 ---
 
+<a id="2117354881950650743"></a>
+
+### Subway Surfers를 2026년 출시작으로 재현한 플레이 가능한 HTML 게임
+
+[darkzodchi](https://x.com/zodchiii) · 2026-11-02
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/subway-surfers-2026-html-game"><img src="../assets/previews/7ac665cbfdd5c7bb70bf4f3622fe26f503b90015a4db5a60ff3b6ee9682c557c.jpg" width="840" loading="lazy" alt="Subway Surfers를 2026년 출시작으로 재현한 플레이 가능한 HTML 게임"></a>
+
+원문의 작성자는 동일한 프롬프트를 GPT-6 Astra, Claude Opus 5.5, Kimi K3.1 Pro에 각각 제공해 결과물을 비교했다고 설명합니다. 2026년 출시작을 콘셉트로 한 Subway Surfers의 플레이 가능한 HTML 재현을 요청하는 내용입니다.
+
+**프롬프트**
+
+```text
+Subway Surfers가 2026년에 출시된 것처럼 재현해 주세요. 플레이 가능한 단일 HTML 파일로 제작해 주세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/subway-surfers-2026-html-game) · [원본 게시물](https://x.com/zodchiii/status/2117354881950650743) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### 무궁화꽃이 피었습니다: 3D 서바이벌 게임
@@ -4281,7 +4268,7 @@ jared를 크레딧으로 표시한 새 jelly-villa 프롬프트를 게시하고,
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 386개 보기 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 387개 보기 →</a></strong></p>
 <p><sub>GitHub README가 원활하게 렌더링되도록 최신 사례 100개만 표시합니다.</sub></p>
 <br>
 </td></tr>

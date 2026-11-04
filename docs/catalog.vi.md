@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**386 · Prompt Astra mới nhất**
+**387 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Khám phá ví dụ</summary>
 
-- [Bối cảnh chiến trường La Mã vào giờ vàng](#2103351755971207251)
 - [Thạch Pitaya](#2103432732386664591)
 - [Dựng mô hình 3D trang phục cho VRChat](#2103456264785424530)
 - [Tạo chuột lang trong Blender](#2103482826519986544)
@@ -147,44 +146,12 @@
 - [Đảo núi lửa trong Blender được dựng hoàn toàn bằng mã](#2116835082547740994)
 - [Thiết kế Charizard 3D](#2116960427628532011)
 - [Trực thăng chủ đề Mario chân thực trong Three.js](#2117235402100940908)
+- [Tái tạo Subway Surfers thành game HTML có thể chơi được ra mắt năm 2026](#2117354881950650743)
 - [Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D](#red-light-green-light)
 - [Golden Miner: Game khai thác vàng 3D 24 cấp độ](#golden-miner)
 - [Biệt thự Thạch rau câu](#jelly-villa)
 
 </details>
-
-<a id="2103351755971207251"></a>
-
-### Bối cảnh chiến trường La Mã vào giờ vàng
-
-[tonysuri](https://x.com/tonysurix) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/golden-hour-roman-battlefield-blender-scene"><img src="../assets/previews/38d510439e2c3695b5acbb44c83317a5c0824a4b8b8305c45187d66ca6ebeccd.jpg" width="840" loading="lazy" alt="Bối cảnh chiến trường La Mã vào giờ vàng"></a>
-
-Một bài tập Blender chi tiết nhằm dựng cảnh chiến trường La Mã chân thực vào giờ vàng dựa trên ảnh ý tưởng được cung cấp. Yêu cầu gồm một đấu trường 1v1 bao quanh bởi các tảng đá lớn, mặt đất có chi tiết cao với bản đồ bump, tạo asset theo quy trình thủ tục khi có thể, skybox bầu trời giờ vàng, bóng đổ gắt, các asset GLB có thể tái sử dụng và bàn giao tệp .blend cùng video timelapse quá trình dựng.
-
-**Prompt**
-
-```text
-NHIỆM VỤ
-Dựng một bối cảnh chiến trường La Mã vào giờ vàng trong Blender dựa trên ảnh ý tưởng được cung cấp. Được phép sử dụng công cụ tạo sinh. Bạn có thể tạo mô hình 3D cho môi trường và các thành phần của môi trường bằng những công cụ tạo sinh hiện có (Tripo trên https://t.co/JV0K8OtuWC) rồi lắp ráp chúng. Tất cả vẫn phải tạo thành một cảnh thống nhất: tỷ lệ đồng bộ, vật liệu nhất quán và ánh sáng liền mạch. Yêu cầu: Sử dụng bản đồ bump cho mặt đất và giữ cho mặt đất có độ chi tiết cao.
-Tạo một khoảng trống hình tròn trên mặt đất, bao quanh bằng các tảng đá lớn để hình thành đấu trường 1v1.
-Dựng mọi thứ theo phong cách chân thực.
-Tạo asset theo quy trình thủ tục khi có thể.
-Tạo skybox cho bầu trời giờ vàng.
-Sử dụng bóng đổ gắt.
-Tái sử dụng các vật thể (cờ, biểu ngữ, mũ sắt, đá, v.v.). Xuất một tệp GLB cho mỗi vật thể và tái sử dụng các asset đó.
-Khớp với ảnh được cung cấp gần nhất và chính xác nhất có thể.
-YÊU CẦU VỀ TIMELAPSE
-Trong quá trình dựng, sau mỗi lần bổ sung có ý nghĩa (mỗi vật thể mới, lượt áp dụng modifier, bước tạo vật liệu và bước thiết lập ánh sáng), hãy lưu ảnh chụp viewport vào thư mục timelapse/ theo thứ tự và đánh số. Khi hoàn tất, ghép các khung hình đó thành video timelapse ở tốc độ 2 fps (0,5 giây mỗi khung hình) để có thể xem toàn bộ quá trình dựng từ đầu đến cuối. Bàn giao video timelapse cùng các tệp chính.
-DELIVERABLES
-Tệp .blend, với camera và viewport được thiết lập để góc nhìn khớp chính xác với ảnh gốc.
-Video timelapse quá trình dựng.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/golden-hour-roman-battlefield-blender-scene) · [Bài đăng gốc](https://x.com/tonysurix/status/2103352274269675532) · [Về danh sách ví dụ](#all-prompts)
-
----
 
 <a id="2103432732386664591"></a>
 
@@ -4076,6 +4043,26 @@ Quy tắc:
 
 ---
 
+<a id="2117354881950650743"></a>
+
+### Tái tạo Subway Surfers thành game HTML có thể chơi được ra mắt năm 2026
+
+[darkzodchi](https://x.com/zodchiii) · 2026-11-02
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/subway-surfers-2026-html-game"><img src="../assets/previews/7ac665cbfdd5c7bb70bf4f3622fe26f503b90015a4db5a60ff3b6ee9682c557c.jpg" width="840" loading="lazy" alt="Tái tạo Subway Surfers thành game HTML có thể chơi được ra mắt năm 2026"></a>
+
+Tác giả gốc cho biết họ đã đưa cùng một prompt này cho GPT-6 Astra, Claude Opus 5.5 và Kimi K3.1 Pro để so sánh kết quả mà mỗi mô hình tạo ra. Yêu cầu là tái tạo Subway Surfers dưới dạng game HTML có thể chơi được, với bối cảnh phát hành vào năm 2026.
+
+**Prompt**
+
+```text
+Tái tạo Subway Surfers như thể game được ra mắt vào năm 2026. Tạo thành một tệp HTML duy nhất có thể chơi được.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/subway-surfers-2026-html-game) · [Bài đăng gốc](https://x.com/zodchiii/status/2117354881950650743) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D
@@ -4291,7 +4278,7 @@ Xuất bản prompt jelly-villa mới, ghi công jared, ghi tác giả gốc tro
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 386 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 387 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

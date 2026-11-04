@@ -28,7 +28,7 @@
 **為你的下一個遊戲、場景或互動世界尋找靈感。**
 
 
-**386 · 最新 Astra 提示詞**
+**387 · 最新 Astra 提示詞**
 
 ## 精選作品
 
@@ -50,7 +50,6 @@
 <details>
 <summary>瀏覽案例</summary>
 
-- [黃金時刻羅馬戰場場景](#2103351755971207251)
 - [火龍果果凍](#2103432732386664591)
 - [VRChat 衣裝 3D 建模](#2103456264785424530)
 - [使用 Blender 製作天竺鼠](#2103482826519986544)
@@ -147,44 +146,12 @@
 - [完全以程式碼在 Blender 中打造的火山島](#2116835082547740994)
 - [設計 3D 噴火龍](#2116960427628532011)
 - [Three.js 中的瑪利歐主題寫實直升機](#2117235402100940908)
+- [重現《Subway Surfers》，打造一款 2026 年可遊玩的 HTML 遊戲](#2117354881950650743)
 - [紅燈綠燈：3D 生存遊戲](#red-light-green-light)
 - [Golden Miner：24 關 3D 採礦遊戲](#golden-miner)
 - [果凍別墅](#jelly-villa)
 
 </details>
-
-<a id="2103351755971207251"></a>
-
-### 黃金時刻羅馬戰場場景
-
-[tonysuri](https://x.com/tonysurix) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/golden-hour-roman-battlefield-blender-scene"><img src="../assets/previews/38d510439e2c3695b5acbb44c83317a5c0824a4b8b8305c45187d66ca6ebeccd.jpg" width="840" loading="lazy" alt="黃金時刻羅馬戰場場景"></a>
-
-一項詳細的 Blender 任務：根據提供的概念圖，製作寫實的黃金時刻羅馬戰場場景。內容指定以巨石環繞的一對一競技場、使用凹凸貼圖的高細節地面、可行時採用程序化製作的資產、黃金時刻天空盒、強烈陰影、可重複使用的 GLB 資產，以及交付 .blend 檔案與製作縮時影片。
-
-**提示詞**
-
-```text
-任務內容
-使用 Blender，根據提供的概念圖製作黃金時刻的羅馬戰場場景。允許使用生成工具。你可以使用可用的生成工具（Tripo 位於 https://t.co/JV0K8OtuWC)）生成環境及其組成部分的 3D 模型，並將它們組裝起來。整體仍必須構成一致的場景：比例相符、材質一致，且光照統一。要求：在地面使用凹凸貼圖，並維持地面的高細節。
-在地面建立一塊圓形空地，周圍放置大型巨石，形成一對一競技場。
-以寫實方式渲染所有內容。
-可行時採用程序化方式建立資產。
-建立黃金時刻天空的天空盒。
-使用強烈陰影。
-重複使用物件（旗幟、旗幡、頭盔、岩石等）。每個物件都匯出一個 GLB，並重複使用這些資產。
-盡可能精準地比照提供的圖片。
-縮時影片要求
-製作過程中，每完成一項有意義的新增內容（依序包含每個新物件、修改器處理階段、材質製作步驟與光照步驟），就將視窗截圖儲存至編號命名的 timelapse/ 資料夾。完成後，以每秒 2 格（每格 0.5 秒）將這些影格組成縮時影片，讓完整製作過程能從頭到尾播放觀看。將縮時影片與主要檔案一併交付。
-DELIVERABLES
-.blend 檔案，並設定相機與視窗，使視角與原始圖片完全一致。
-製作縮時影片。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/golden-hour-roman-battlefield-blender-scene) · [查看原文](https://x.com/tonysurix/status/2103352274269675532) · [返回案例導覽](#all-prompts)
-
----
 
 <a id="2103432732386664591"></a>
 
@@ -4066,6 +4033,26 @@ UI 與城市畫面應形成適當對比，但不能過度搶眼。
 
 ---
 
+<a id="2117354881950650743"></a>
+
+### 重現《Subway Surfers》，打造一款 2026 年可遊玩的 HTML 遊戲
+
+[darkzodchi](https://x.com/zodchiii) · 2026-11-02
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/subway-surfers-2026-html-game"><img src="../assets/previews/7ac665cbfdd5c7bb70bf4f3622fe26f503b90015a4db5a60ff3b6ee9682c557c.jpg" width="840" loading="lazy" alt="重現《Subway Surfers》，打造一款 2026 年可遊玩的 HTML 遊戲"></a>
+
+原作者表示，他們將這個相同的提示詞分別交給 GPT-6 Astra、Claude Opus 5.5 和 Kimi K3.1 Pro，以比較各模型產出的結果。這項請求是製作一款可遊玩的 HTML 版《Subway Surfers》重現作，並以 2026 年推出的遊戲為定位。
+
+**提示詞**
+
+```text
+將《Subway Surfers》重現成彷彿於 2026 年推出的版本。請製作成單一個可遊玩的 HTML 檔案。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/subway-surfers-2026-html-game) · [查看原文](https://x.com/zodchiii/status/2117354881950650743) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### 紅燈綠燈：3D 生存遊戲
@@ -4281,7 +4268,7 @@ yacht 會沿著封閉路線自動前進，速度約為每秒 0.38–0.48 個場�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 386 個案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 387 個案例 →</a></strong></p>
 <p><sub>為保持 GitHub README 渲染流暢，這裡僅展示最新 100 個案例。</sub></p>
 <br>
 </td></tr>

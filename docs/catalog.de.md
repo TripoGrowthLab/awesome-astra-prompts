@@ -28,7 +28,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**386 · Neueste Astra-Prompts**
+**387 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Beispiele ansehen</summary>
 
-- [Römisches Schlachtfeld-Setpiece zur goldenen Stunde](#2103351755971207251)
 - [Pitaya-Gelee](#2103432732386664591)
 - [3D-Modellierung von VRChat-Outfits](#2103456264785424530)
 - [Meerschweinchen in Blender erstellen](#2103482826519986544)
@@ -147,44 +146,12 @@
 - [Vulkaninsel in Blender vollständig per Code erstellt](#2116835082547740994)
 - [Einen 3D-Charizard entwerfen](#2116960427628532011)
 - [Realistischer Mario-inspirierter Hubschrauber in Three.js](#2117235402100940908)
+- [Subway Surfers als spielbares HTML-Spiel von 2026 neu umsetzen](#2117354881950650743)
 - [Rot, grünes Licht: 3D-Survival-Game](#red-light-green-light)
 - [Golden Miner: 3D-Bergbauspiel mit 24 Levels](#golden-miner)
 - [Jelly-Villa](#jelly-villa)
 
 </details>
-
-<a id="2103351755971207251"></a>
-
-### Römisches Schlachtfeld-Setpiece zur goldenen Stunde
-
-[tonysuri](https://x.com/tonysurix) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/golden-hour-roman-battlefield-blender-scene"><img src="../assets/previews/38d510439e2c3695b5acbb44c83317a5c0824a4b8b8305c45187d66ca6ebeccd.jpg" width="840" loading="lazy" alt="Römisches Schlachtfeld-Setpiece zur goldenen Stunde"></a>
-
-Eine detaillierte Blender-Aufgabe für eine realistische Szene eines römischen Schlachtfelds zur goldenen Stunde, basierend auf einem bereitgestellten Konzeptbild. Vorgesehen sind eine von Felsbrocken umringte 1v1-Arena, ein detaillierter Boden mit Bump-Maps, nach Möglichkeit prozedural erstellte Assets, ein Himmelspanorama zur goldenen Stunde, harte Schatten, wiederverwendbare GLB-Assets sowie die Übergabe der .blend-Datei und eines Build-Timelapses.
-
-**Prompt**
-
-```text
-DIE AUFGABE
-Erstelle in Blender anhand des bereitgestellten Konzeptbilds ein Setpiece eines römischen Schlachtfelds zur goldenen Stunde. Die Verwendung von Generierungstools ist erlaubt. Du darfst mit den verfügbaren Generierungstools 3D-Modelle für die Umgebung und ihre Bestandteile erstellen (Tripo unter https://t.co/JV0K8OtuWC)) und diese anschließend zusammenbauen. Alles muss dennoch eine kohärente Szene bilden: einheitlicher Maßstab, konsistente Materialien und eine durchgängige Beleuchtung. Anforderungen: Verwende Bump-Maps für den Boden und halte ihn äußerst detailliert.
-Erstelle eine kreisförmige freie Fläche auf dem Boden und umgib sie mit großen Felsbrocken, um eine 1v1-Arena zu bilden.
-Stelle alles realistisch dar.
-Erstelle Assets nach Möglichkeit prozedural.
-Erstelle ein Himmelspanorama für einen Himmel zur goldenen Stunde.
-Verwende harte Schatten.
-Verwende Objekte wie Flaggen, Banner, Helme, Felsen usw. wieder. Exportiere für jedes Objekt eine GLB-Datei und verwende diese Assets wieder.
-Halte dich so eng und genau wie möglich an das bereitgestellte Bild.
-ANFORDERUNG FÜR DEN TIMELAPSE
-Speichere während des Aufbaus nach jeder sinnvollen Ergänzung – also nach jedem neuen Objekt, jedem Durchlauf mit Modifikatoren, jedem Materialschritt und jedem Beleuchtungsschritt – in dieser Reihenfolge einen Screenshot des Ansichtsfensters in einem nummerierten Ordner „timelapse/“. Wenn die Arbeit abgeschlossen ist, füge diese Einzelbilder mit 2 fps (0,5 s pro Bild) zu einem Timelapse-Video zusammen, sodass der vollständige Aufbau von Anfang bis Ende verfolgt werden kann. Liefere das Timelapse-Video zusammen mit den Hauptdateien ab.
-DELIVERABLES
-Die .blend-Datei mit Kamera und Ansichtsfenster, die so eingestellt sind, dass die Ansicht exakt dem Originalbild entspricht.
-Das Timelapse-Video des Aufbaus.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/golden-hour-roman-battlefield-blender-scene) · [Originalbeitrag](https://x.com/tonysurix/status/2103352274269675532) · [Zurück zu den Beispielen](#all-prompts)
-
----
 
 <a id="2103432732386664591"></a>
 
@@ -4066,6 +4033,26 @@ Regeln:
 
 ---
 
+<a id="2117354881950650743"></a>
+
+### Subway Surfers als spielbares HTML-Spiel von 2026 neu umsetzen
+
+[darkzodchi](https://x.com/zodchiii) · 2026-11-02
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/subway-surfers-2026-html-game"><img src="../assets/previews/7ac665cbfdd5c7bb70bf4f3622fe26f503b90015a4db5a60ff3b6ee9682c557c.jpg" width="840" loading="lazy" alt="Subway Surfers als spielbares HTML-Spiel von 2026 neu umsetzen"></a>
+
+Der ursprüngliche Autor gibt an, GPT-6 Astra, Claude Opus 5.5 und Kimi K3.1 Pro denselben Prompt gegeben zu haben, um die Ergebnisse zu vergleichen. Gefordert ist eine spielbare HTML-Neuauflage von Subway Surfers, die als Veröffentlichung von 2026 gestaltet ist.
+
+**Prompt**
+
+```text
+Setze Subway Surfers so neu um, als wäre es 2026 veröffentlicht worden. Erstelle dafür eine einzelne spielbare HTML-Datei.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/subway-surfers-2026-html-game) · [Originalbeitrag](https://x.com/zodchiii/status/2117354881950650743) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Rot, grünes Licht: 3D-Survival-Game
@@ -4281,7 +4268,7 @@ Einen neuen Jelly-Villa-Prompt mit Credit für jared veröffentlichen, den urspr
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 386 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 387 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>

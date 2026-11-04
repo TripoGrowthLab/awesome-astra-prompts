@@ -28,7 +28,7 @@
 **Un punto de partida para tu próximo juego, escena o mundo interactivo.**
 
 
-**386 · Últimos prompts de Astra**
+**387 · Últimos prompts de Astra**
 
 ## Proyectos destacados
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Explorar ejemplos</summary>
 
-- [Escena de campo de batalla romano a la hora dorada](#2103351755971207251)
 - [Pitaya Jelly](#2103432732386664591)
 - [Modelado 3D de ropa para VRChat](#2103456264785424530)
 - [Crear un conejillo de Indias en Blender](#2103482826519986544)
@@ -147,44 +146,12 @@
 - [Isla volcánica en Blender creada íntegramente mediante código](#2116835082547740994)
 - [Diseña un Charizard en 3D](#2116960427628532011)
 - [Helicóptero realista con temática de Mario en Three.js](#2117235402100940908)
+- [Recrea Subway Surfers como un juego HTML jugable de 2026](#2117354881950650743)
 - [Luz roja, luz verde: juego de supervivencia 3D](#red-light-green-light)
 - [Golden Miner: juego de minería 3D de 24 niveles](#golden-miner)
 - [Villa de gelatina](#jelly-villa)
 
 </details>
-
-<a id="2103351755971207251"></a>
-
-### Escena de campo de batalla romano a la hora dorada
-
-[tonysuri](https://x.com/tonysurix) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/golden-hour-roman-battlefield-blender-scene"><img src="../assets/previews/38d510439e2c3695b5acbb44c83317a5c0824a4b8b8305c45187d66ca6ebeccd.jpg" width="840" loading="lazy" alt="Escena de campo de batalla romano a la hora dorada"></a>
-
-Una tarea detallada de Blender para crear una escena realista de un campo de batalla romano a la hora dorada, basada en una imagen conceptual proporcionada. Especifica una arena de 1 contra 1 rodeada de grandes rocas, un suelo muy detallado con mapas de relieve, recursos procedurales siempre que sea posible, un skybox con cielo de hora dorada, sombras marcadas, recursos GLB reutilizables y la entrega del archivo .blend junto con un vídeo time-lapse del proceso de construcción.
-
-**Prompt**
-
-```text
-LA TAREA
-Crea en Blender una escena de campo de batalla romano a la hora dorada a partir de la imagen conceptual proporcionada. Se permite usar generación. Puedes generar modelos 3D para el entorno y sus componentes con las herramientas de generación disponibles (Tripo en https://t.co/JV0K8OtuWC)) y ensamblarlos. Todo debe formar una escena coherente: escala equivalente, materiales consistentes e iluminación unificada. Requisitos: usa mapas de relieve en el suelo y mantén un nivel de detalle muy alto.
-Crea un espacio circular despejado en el suelo, rodeado de grandes rocas, para formar una arena de 1 contra 1.
-Representa todo con realismo.
-Crea recursos procedurales siempre que sea posible.
-Crea un skybox para el cielo de hora dorada.
-Usa sombras marcadas.
-Reutiliza objetos (banderas, estandartes, cascos, rocas, etc.). Exporta un GLB para cada objeto y reutiliza esos recursos.
-Ajusta la escena a la imagen proporcionada con la mayor cercanía y precisión posibles.
-REQUISITO DEL TIME-LAPSE
-Mientras trabajas, guarda una captura de pantalla del viewport en una carpeta timelapse/ numerada después de cada adición relevante (cada objeto nuevo, pasada de modificadores, etapa de materiales y etapa de iluminación, en orden). Cuando termines el trabajo, reúne esos fotogramas en un vídeo time-lapse a 2 fps (0,5 s por fotograma) para que todo el proceso de construcción pueda verse de principio a fin. Entrega el vídeo time-lapse junto con los archivos principales.
-DELIVERABLES
-El archivo .blend, con la cámara y el viewport configurados para que la vista coincida exactamente con la imagen original.
-El vídeo time-lapse del proceso de construcción.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/golden-hour-roman-battlefield-blender-scene) · [Publicación original](https://x.com/tonysurix/status/2103352274269675532) · [Volver a los ejemplos](#all-prompts)
-
----
 
 <a id="2103432732386664591"></a>
 
@@ -4066,6 +4033,26 @@ Reglas:
 
 ---
 
+<a id="2117354881950650743"></a>
+
+### Recrea Subway Surfers como un juego HTML jugable de 2026
+
+[darkzodchi](https://x.com/zodchiii) · 2026-11-02
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/subway-surfers-2026-html-game"><img src="../assets/previews/7ac665cbfdd5c7bb70bf4f3622fe26f503b90015a4db5a60ff3b6ee9682c557c.jpg" width="840" loading="lazy" alt="Recrea Subway Surfers como un juego HTML jugable de 2026"></a>
+
+El autor original afirma que proporcionó este mismo prompt a GPT-6 Astra, Claude Opus 5.5 y Kimi K3.1 Pro para comparar los resultados de cada uno. La solicitud consiste en recrear Subway Surfers en HTML como un juego jugable, presentado como un lanzamiento de 2026.
+
+**Prompt**
+
+```text
+Recrea Subway Surfers como si se hubiera lanzado en 2026. Haz que sea un único archivo HTML jugable.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/subway-surfers-2026-html-game) · [Publicación original](https://x.com/zodchiii/status/2117354881950650743) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Luz roja, luz verde: juego de supervivencia 3D
@@ -4281,7 +4268,7 @@ Publica un prompt nuevo de jelly-villa acreditado a jared, con el autor original
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 386 ejemplos en el sitio oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 387 ejemplos en el sitio oficial →</a></strong></p>
 <p><sub>Para que el README de GitHub se renderice con fluidez, aquí solo se muestran los 100 ejemplos más recientes.</sub></p>
 <br>
 </td></tr>

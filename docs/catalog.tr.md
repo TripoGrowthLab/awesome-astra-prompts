@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**386 · En yeni Astra istemleri**
+**387 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Örnekleri keşfet</summary>
 
-- [Altın saat ışığında Roma savaş alanı sahnesi](#2103351755971207251)
 - [Pitaya Jelly](#2103432732386664591)
 - [VRChat için kıyafet 3B modelleme](#2103456264785424530)
 - [Blender'da kobay oluştur](#2103482826519986544)
@@ -147,44 +146,12 @@
 - [Blender’da tamamen kodla oluşturulmuş volkan adası](#2116835082547740994)
 - [3B Charizard Tasarla](#2116960427628532011)
 - [Three.js'te gerçekçi Mario temalı helikopter](#2117235402100940908)
+- [Subway Surfers'ı 2026'da oynanabilir bir HTML oyunu olarak yeniden oluştur](#2117354881950650743)
 - [Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu](#red-light-green-light)
 - [Golden Miner: 24 Seviyeli 3B Madencilik Oyunu](#golden-miner)
 - [Jöle Villa](#jelly-villa)
 
 </details>
-
-<a id="2103351755971207251"></a>
-
-### Altın saat ışığında Roma savaş alanı sahnesi
-
-[tonysuri](https://x.com/tonysurix) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/golden-hour-roman-battlefield-blender-scene"><img src="../assets/previews/38d510439e2c3695b5acbb44c83317a5c0824a4b8b8305c45187d66ca6ebeccd.jpg" width="840" loading="lazy" alt="Altın saat ışığında Roma savaş alanı sahnesi"></a>
-
-Sağlanan konsept görsel temel alınarak gerçekçi, altın saat ışığındaki bir Roma savaş alanı sahnesi oluşturmayı amaçlayan ayrıntılı bir Blender görevi. Görev; büyük kayalarla çevrili 1'e 1 arena, ayrıntılı ve bump map uygulanmış zemin, mümkün olduğunca prosedürel oluşturulan varlıklar, altın saat gökyüzü için bir skybox, sert gölgeler, yeniden kullanılabilir GLB varlıkları ve .blend dosyasıyla birlikte yapım timelapse videosunun teslimini kapsıyor.
-
-**İstem**
-
-```text
-GÖREV
-Sağlanan konsept görselden yola çıkarak Blender'da altın saat ışığında bir Roma savaş alanı sahnesi oluşturun. Üretim yapılabilir. Ortam ve parçaları için mevcut üretim araçlarıyla (Tripo ile https://t.co/JV0K8OtuWC)) 3B modeller oluşturabilir ve bunları bir araya getirebilirsiniz. Yine de her şey ölçeği eşleşen, malzemeleri tutarlı ve ışıklandırması bütünleşik tek bir uyumlu sahne oluşturmalıdır. Gereksinimler: Zeminde bump map kullanın ve zemini son derece ayrıntılı tutun.
-Zeminde, etrafına büyük kayalar yerleştirerek 1'e 1 arena oluşturacak dairesel boş bir alan yaratın.
-Her şeyi gerçekçi şekilde render edin.
-Mümkün olan yerlerde varlıkları prosedürel olarak oluşturun.
-Altın saat gökyüzü için bir skybox oluşturun.
-Sert gölgeler kullanın.
-Nesneleri (bayraklar, sancaklar, miğferler, kayalar vb.) yeniden kullanın. Her nesne için bir GLB dışa aktarın ve bu varlıkları yeniden kullanın.
-Sağlanan görseli mümkün olduğunca yakından ve doğru şekilde eşleştirin.
-TİMELAPSE GEREKSİNİMİ
-Sahneyi oluştururken her anlamlı eklemeden sonra (sırayla her yeni nesne, modifier geçişi, malzeme adımı ve ışıklandırma adımı) görünüm alanının ekran görüntüsünü numaralandırılmış bir timelapse/ klasörüne kaydedin. Çalışma tamamlandığında bu kareleri 2 fps (kare başına 0,5 sn) hızında bir timelapse videosunda birleştirin; böylece yapım süreci baştan sona izlenebilsin. Timelapse videosunu ana dosyalarla birlikte teslim edin.
-DELIVERABLES
-Kamerası ve görünüm alanı, görüntünün orijinaliyle tam olarak eşleşeceği şekilde ayarlanmış .blend dosyası.
-Yapım timelapse videosu.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/golden-hour-roman-battlefield-blender-scene) · [Orijinal gönderi](https://x.com/tonysurix/status/2103352274269675532) · [Örneklere dön](#all-prompts)
-
----
 
 <a id="2103432732386664591"></a>
 
@@ -4066,6 +4033,26 @@ Kurallar:
 
 ---
 
+<a id="2117354881950650743"></a>
+
+### Subway Surfers'ı 2026'da oynanabilir bir HTML oyunu olarak yeniden oluştur
+
+[darkzodchi](https://x.com/zodchiii) · 2026-11-02
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/subway-surfers-2026-html-game"><img src="../assets/previews/7ac665cbfdd5c7bb70bf4f3622fe26f503b90015a4db5a60ff3b6ee9682c557c.jpg" width="840" loading="lazy" alt="Subway Surfers'ı 2026'da oynanabilir bir HTML oyunu olarak yeniden oluştur"></a>
+
+İçeriğin asıl yazarı, her birinin ortaya çıkardığı sonucu karşılaştırmak için aynı istemi GPT-6 Astra, Claude Opus 5.5 ve Kimi K3.1 Pro'ya verdiğini söylüyor. İstenen şey, 2026 sürümü olarak sunulan, Subway Surfers'ın oynanabilir bir HTML uyarlaması.
+
+**İstem**
+
+```text
+Subway Surfers'ı 2026'da piyasaya sürülmüş gibi yeniden oluştur. Tek bir oynanabilir HTML dosyası olsun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/subway-surfers-2026-html-game) · [Orijinal gönderi](https://x.com/zodchiii/status/2117354881950650743) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu
@@ -4281,7 +4268,7 @@ jared adına atıf yapılan yeni bir jelly-villa istemi yayımlayın; özgün ya
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 386 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 387 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

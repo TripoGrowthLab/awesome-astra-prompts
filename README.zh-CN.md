@@ -29,7 +29,7 @@
 
 探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。
 
-**386 条案例 · 14 种语言 · 12 条附项目源码**
+**387 条案例 · 14 种语言 · 12 条附项目源码**
 
 ## 精选作品
 
@@ -51,7 +51,6 @@
 <details>
 <summary>浏览案例</summary>
 
-- [黄金时刻的罗马战场场景](#2103351755971207251)
 - [火龙果果冻](#2103432732386664591)
 - [VRChat 服装 3D 建模](#2103456264785424530)
 - [在 Blender 中制作豚鼠](#2103482826519986544)
@@ -148,44 +147,12 @@
 - [完全通过代码在 Blender 中构建火山岛](#2116835082547740994)
 - [设计一个 3D 喷火龙模型](#2116960427628532011)
 - [Three.js 马里奥主题写实直升机](#2117235402100940908)
+- [将 Subway Surfers 重制为一款 2026 年可玩的 HTML 游戏](#2117354881950650743)
 - [一二三，木头人：3D 生存游戏](#red-light-green-light)
 - [黄金矿工：24 关 3D 挖矿游戏](#golden-miner)
 - [果冻别墅](#jelly-villa)
 
 </details>
-
-<a id="2103351755971207251"></a>
-
-### 黄金时刻的罗马战场场景
-
-[tonysuri](https://x.com/tonysurix) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/golden-hour-roman-battlefield-blender-scene"><img src="assets/previews/38d510439e2c3695b5acbb44c83317a5c0824a4b8b8305c45187d66ca6ebeccd.jpg" width="840" loading="lazy" alt="黄金时刻的罗马战场场景"></a>
-
-一项详细的 Blender 任务：根据提供的概念图，制作写实的黄金时刻罗马战场场景。场景需包含由巨石环绕的 1v1 竞技场、使用凹凸贴图且细节丰富的地面、尽可能采用程序化制作的资产、黄金时刻天空盒和强烈阴影，并交付可复用的 GLB 资产、.blend 文件及制作过程延时视频。
-
-**提示词**
-
-```text
-任务
-在 Blender 中根据提供的概念图，制作一个黄金时刻的罗马战场场景。允许使用生成工具。你可以使用可用的生成工具为环境及其组成部分生成 3D 模型（Tripo，位于 https://t.co/JV0K8OtuWC)），然后进行组装。最终所有内容必须构成一个统一的场景：比例匹配、材质一致、灯光统一。要求：为地面使用凹凸贴图，并确保地面细节丰富。
-在地面上创建一片圆形空地，并在周围摆放大型巨石，形成 1v1 竞技场。
-以写实效果渲染全部内容。
-尽可能使用程序化方式创建资产。
-创建黄金时刻天空的天空盒。
-使用强烈阴影。
-复用物体（旗帜、横幅、头盔、岩石等）。为每个物体导出一个 GLB，并复用这些资产。
-尽可能准确、贴近地匹配提供的图像。
-延时视频要求
-制作过程中，每完成一项有意义的新增内容（按顺序记录每个新物体、修改器处理、材质步骤和灯光步骤），就将视口截图保存到编号的 timelapse/ 文件夹中。完成全部工作后，以 2 fps（每帧 0.5 秒）将这些帧合成为延时视频，以便从头到尾观看完整的制作过程。将延时视频与主要文件一同交付。
-DELIVERABLES
-交付 .blend 文件，并设置好相机和视口，使画面与原始图像完全一致。
-制作过程延时视频。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/golden-hour-roman-battlefield-blender-scene) · [查看原帖](https://x.com/tonysurix/status/2103352274269675532) · [返回案例导航](#all-prompts)
-
----
 
 <a id="2103432732386664591"></a>
 
@@ -4076,6 +4043,26 @@ UI 与城市画面应形成适当对比，但不能过度抢眼。
 
 ---
 
+<a id="2117354881950650743"></a>
+
+### 将 Subway Surfers 重制为一款 2026 年可玩的 HTML 游戏
+
+[darkzodchi](https://x.com/zodchiii) · 2026-11-02
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/subway-surfers-2026-html-game"><img src="assets/previews/7ac665cbfdd5c7bb70bf4f3622fe26f503b90015a4db5a60ff3b6ee9682c557c.jpg" width="840" loading="lazy" alt="将 Subway Surfers 重制为一款 2026 年可玩的 HTML 游戏"></a>
+
+原作者表示，他们向 GPT-6 Astra、Claude Opus 5.5 和 Kimi K3.1 Pro 提供了同一条提示词，以比较各自生成的结果。该请求旨在将 Subway Surfers 重制为一款以 2026 年发布为背景的可玩 HTML 游戏。
+
+**提示词**
+
+```text
+将 Subway Surfers 重制成仿佛于 2026 年发布的版本，并制作成一个可玩的单文件 HTML。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/subway-surfers-2026-html-game) · [查看原帖](https://x.com/zodchiii/status/2117354881950650743) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### 一二三，木头人：3D 生存游戏
@@ -4291,7 +4278,7 @@ UI 与城市画面应形成适当对比，但不能过度抢眼。
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 386 条案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 387 条案例 →</a></strong></p>
 <p><sub>为保持 GitHub README 渲染流畅，这里仅展示最新 100 条案例。</sub></p>
 <br>
 </td></tr>

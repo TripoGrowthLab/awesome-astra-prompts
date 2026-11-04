@@ -283,16 +283,6 @@
       ]
     },
     {
-      "path": "assets/previews/38d510439e2c3695b5acbb44c83317a5c0824a4b8b8305c45187d66ca6ebeccd.jpg",
-      "fingerprint": "aef69aa5afdaad80708e76ac11f135ed436654697dfe7f2229ff0899a9ac299d",
-      "sha256": "38d510439e2c3695b5acbb44c83317a5c0824a4b8b8305c45187d66ca6ebeccd",
-      "bytes": 101352,
-      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103350546971361281/img/vcILOx3FI1G2AEMA.jpg",
-      "promptIds": [
-        "2103351755971207251"
-      ]
-    },
-    {
       "path": "assets/previews/3a86573361bba61c5eb7c7f4c34e3c92f4cd1d5bc816d311437cc79f274b2174.jpg",
       "fingerprint": "20cc98ba040beb8b72bdfb389ccd769aa2de042b9ea29480556f929796b5acbe",
       "sha256": "3a86573361bba61c5eb7c7f4c34e3c92f4cd1d5bc816d311437cc79f274b2174",
@@ -640,6 +630,16 @@
       "sourceUrl": "https://golden-miner.tripo.page/",
       "promptIds": [
         "golden-miner"
+      ]
+    },
+    {
+      "path": "assets/previews/7ac665cbfdd5c7bb70bf4f3622fe26f503b90015a4db5a60ff3b6ee9682c557c.jpg",
+      "fingerprint": "dbd51e7b3e28be924584cb2731f6b60592623cbdb0a5860cb83feeb91c0201ba",
+      "sha256": "7ac665cbfdd5c7bb70bf4f3622fe26f503b90015a4db5a60ff3b6ee9682c557c",
+      "bytes": 116383,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2117354298342522880/img/r0KmW21nj9mL8nbY.jpg",
+      "promptIds": [
+        "2117354881950650743"
       ]
     },
     {
