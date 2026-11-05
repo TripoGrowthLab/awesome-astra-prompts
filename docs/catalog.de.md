@@ -28,7 +28,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**387 · Neueste Astra-Prompts**
+**389 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -50,8 +50,6 @@
 <details>
 <summary>Beispiele ansehen</summary>
 
-- [Pitaya-Gelee](#2103432732386664591)
-- [3D-Modellierung von VRChat-Outfits](#2103456264785424530)
 - [Meerschweinchen in Blender erstellen](#2103482826519986544)
 - [Voxel-Garten im japanischen Stil mit Three.js](#2103486103831339269)
 - [Voxel-WebGL-Szene: Schiff in einer Flasche](#2103855977376125161)
@@ -147,120 +145,13 @@
 - [Einen 3D-Charizard entwerfen](#2116960427628532011)
 - [Realistischer Mario-inspirierter Hubschrauber in Three.js](#2117235402100940908)
 - [Subway Surfers als spielbares HTML-Spiel von 2026 neu umsetzen](#2117354881950650743)
+- [Loopende 3D-Animation: Schafe verwandeln sich in Wolken](#2117863398822342673)
+- [Game-Ready-Baba-Yaga-Hütte auf Vogelbeinen](#2117949666448883731)
 - [Rot, grünes Licht: 3D-Survival-Game](#red-light-green-light)
 - [Golden Miner: 3D-Bergbauspiel mit 24 Levels](#golden-miner)
 - [Jelly-Villa](#jelly-villa)
 
 </details>
-
-<a id="2103432732386664591"></a>
-
-### Pitaya-Gelee
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2103432732386664591"><img src="../assets/previews/7e480a4fe2b6b8dbe7c3cf58fb1b37907e4c7b12601559eec331eadf7080282a.jpg" width="840" loading="lazy" alt="Pitaya-Gelee"></a>
-
-Ein von einem Autor geteiltes Prompt für GPT-6 Astra zur Erstellung eines interaktiven, browserbasierten 3D-Experiments mit einem Gelee-Material in Form einer Drachenfrucht. Es umfasst prozedural erzeugte WebGPU-Geometrie, transluzente Gummi-Materialien, Softbody-Verformung, ziehbare Schalenblätter, Touch-Unterstützung, Presets, Simulationswerte und eine helle Studio-Oberfläche.
-
-**Prompt**
-
-```text
-Erstelle eine interaktive 3D-Szene namens „Pitaya-Gelee“ – eine halbierte Drachenfrucht aus weichem, transluzentem Gelee. Erstelle das gesamte Projekt in einer einzigen HTML-Datei mit echter WebGPU-Darstellung und WGSL-Shadern. Verwende keine vorgefertigten Modelle oder Bild-Assets.
-
-APPEARANCE
-
-Eine große halbierte Drachenfrucht liegt mit der Schnittfläche nach oben auf einer hellen Studiooberfläche.
-Eine kräftige himbeerrosa Schale, eine dünne helle innere Rindenschicht und perlweißes Fruchtfleisch.
-Etwa 250 winzige schwarze Kerne, natürlich über das Fruchtfleisch verteilt.
-12–14 fleischige Schalenblätter rund um die Frucht, mit einem Übergang von rosafarbenen Ansätzen zu grünen Spitzen.
-Eine glänzende, feuchte Oberfläche mit Lichtbrechung, kleinen eingeschlossenen Bläschen und einem weichen Kontaktschatten.
-Das Material soll wie weiches Fruchtgummi aussehen, nicht wie starrer Kunststoff. Erhalte die kräftigen Farben ohne ausgefressene Glanzlichter.
-
-PHYSIK UND INTERAKTION
-
-Implementiere eine echte Softbody-Verformung mit einem volumetrischen Mesh, elastischen Verbindungen und volumenerhaltenden Nebenbedingungen, etwa mit XPBD.
-Nutzer können mit der Maus oder dem Finger in das Fruchtfleisch greifen, es auseinanderziehen und wieder loslassen.
-Die Verformung soll sich um den Greifpunkt konzentrieren, statt einfach das gesamte Objekt zu verschieben.
-Nach dem Loslassen soll die Frucht wackeln, nachfedern und allmählich ihre ursprüngliche Form wieder annehmen.
-Mache die Schalenblätter einzeln ziehbar. Sie sollen weicher als das Fruchtfleisch sein, sich biegen und zurückfedern, dabei aber an der Frucht befestigt bleiben.
-Die Kerne müssen der verformten Oberfläche folgen, ohne davonzuschweben oder im Fruchtfleisch zu versinken.
-Halte die Simulation auch bei starkem Ziehen stabil, mit Bodenkontakt und Schutz vor invertierten Elementen.
-
-VISUELLES DESIGN
-
-Verwende eine minimalistische, helle Studio-Oberfläche mit redaktioneller Ästhetik: großzügiger Weißraum, dünne Rahmen, zurückhaltende Bedienelemente und keine unnötige Dekoration.
-
-Oben links:
-„MATERIAL STUDIES / NO. 019“
-Eine große kursive Serifenschrift-Überschrift über zwei Zeilen:
-„Pitaya-Gelee.“
-
-Darunter:
-„Ein bisschen wild.“
-„Ein bisschen süß.“
-„Ein sehr weicher Drache.“
-Füge rechts ein schwebendes Panel mit dem Titel „THE SPECIMEN“ hinzu, das Folgendes enthält:
-
-Dichte-Badge: ρ 1.04 g/cm³.
-Drei Presets:
-Pearl – weißes Fruchtfleisch und rosafarbene Schale.
-Ruby – himbeerfarbenes Fruchtfleisch und rosafarbene Schale.
-Gold – helles Fruchtfleisch und goldene Schale.
-Regler für Festigkeit und interne Dämpfung mit sichtbaren Werten.
-Schaltflächen „Einen Schubs geben“ und „Zurücksetzen“.
-
-Kontrollkästchen „¼ Geschwindigkeit“ und „Mesh anzeigen“.
-
-Eine Schaltfläche „Pausieren“.
-Füge außerdem Folgendes hinzu:
-Eine Vollbildschaltfläche mit Option zum Beenden des Vollbildmodus.
-Eine Statusanzeige „WEBGPU · LIVE“.
-Live-Anzeigen für Masse, prozentuales Ruhevolumen und kinetische Energie.
-Einen kurzen Interaktionshinweis: „Zieh am Fruchtfleisch. Zupf an einem Blatt. Lass los.“
-Einen aufklappbaren Bereich „Im Inneren des Experiments“, der die Implementierung korrekt erläutert.
-TECHNISCHE ANFORDERUNGEN
-Liefere eine eigenständige Datei namens pitaya-jelly-webgpu.html.
-
-Verwende echte WebGPU-Darstellung, keine 2D-Canvas-Imitation.
-
-Erzeuge die gesamte Geometrie prozedural.
-Verwende eine dickenabhängige Lichtbrechung, Fresnel-Reflexionen und weiche Studiobeleuchtung.
-Verwende einen festen Simulationszeitschritt für ein konsistentes Verhalten.
-Unterstütze Desktop- und Touch-Interaktion mit einem responsiven Layout.
-Vermeide während des Ziehens aufwendige Geometrie-Neuerzeugung oder Shader-Kompilierung.
-
-Zeige eine klare Fallback-Meldung an, wenn WebGPU nicht verfügbar ist.
-
-Überprüfe Ziehen, Loslassen, Formwiederherstellung, Presets, Zurücksetzen, Pausieren, Vollbild und das mobile Layout.
-Die wichtigsten Ziele sind ein überzeugendes Gelee-Verhalten, wunderschöne Materialien und eine befriedigende Interaktion. Das Ergebnis soll sich wie ein ausgefeiltes, spielbares Material-Experiment anfühlen.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2103432732386664591) · [Originalbeitrag](https://x.com/vib3coded/status/2103433535604265052) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2103456264785424530"></a>
-
-### 3D-Modellierung von VRChat-Outfits
-
-[のわ〜る👼🍆🐄](https://x.com/Noir4247) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2103456264785424530"><img src="../assets/previews/60090a53a9e0360367a1d5cba9481eec9d8360afd91640dfc431b8094207ae43.jpg" width="840" loading="lazy" alt="3D-Modellierung von VRChat-Outfits"></a>
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2103456264785424530"><img src="../assets/previews/dc0217bbe2b6526425252bd6e7bb1ba32317d9de5450561768507320ff81f20b.jpg" width="840" loading="lazy" alt="3D-Modellierung von VRChat-Outfits"></a>
-
-Der Verfasser berichtet, dass er Astra angewiesen hat, auf Grundlage eines mit ChatGPT erstellten Designentwurfs in Blender ein Outfit für VRChat zu modellieren.
-
-**Prompt**
-
-```text
-Erstelle ein Outfit für VRChat
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2103456264785424530) · [Originalbeitrag](https://x.com/Noir4247/status/2103456264785424530) · [Zurück zu den Beispielen](#all-prompts)
-
----
 
 <a id="2103482826519986544"></a>
 
@@ -4053,6 +3944,86 @@ Setze Subway Surfers so neu um, als wäre es 2026 veröffentlicht worden. Erstel
 
 ---
 
+<a id="2117863398822342673"></a>
+
+### Loopende 3D-Animation: Schafe verwandeln sich in Wolken
+
+[Regen](https://x.com/huqinyiyayuguan) · 2026-11-04
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/sheep-turning-into-clouds-3d-animation"><img src="../assets/previews/86d8b38be6cae582a9bf5fa0e733870e5e8b8bbbe8c6d2c2ebc2c26db367ce7c.jpg" width="840" loading="lazy" alt="Loopende 3D-Animation: Schafe verwandeln sich in Wolken"></a>
+
+Erstelle eine etwa 22-sekündige, vertikale 3D-Animation in einem durchgehenden Take: Ein weißes Schaf im Low-Poly-Spielzeugstil springt aus einem blauen Schafgehege und verwandelt sich in eine Wolke, bevor es wieder ins Gehege fällt und sich zurück in eine Schafherde verwandelt. Szene und Kamera bleiben unverändert; die Animation endet mit einer Komposition und Geschwindigkeit, die dem ersten Bild möglichst nahekommen – ideal für eine nahtlose Schleife.
+
+**Prompt**
+
+```text
+Erstelle eine etwa 22-sekündige, vertikale 3D-Animation im Format 3:4 mit 30 fps. Vor einem einfarbigen, hochgesättigten Elektroblau-Hintergrund befindet sich im unteren Bildbereich ein rundes blaues Schafgehege mit weißem Zaun aus zwei Querstreben und einem kleinen gelben Tor vorne links. Die blaue Plattform ist mit cyanblauen runden Flecken und weißen dreieckigen Grasbüscheln versehen. Im Gehege bewegen sich mehrere Dutzend rundliche weiße Schafe leicht. Ihre Körper bestehen aus cremeweißen Ballen, dazu kommen kleine schwarze Gesichter und kurze Beine. Der gesamte Look ist eine runde Low-Poly-Miniaturszene im Spielzeugstil mit weichen hellblauen Schatten und einem dezenten Leuchten. Die Kamera blickt aus erhöhter Position schräg nach unten; die Komposition ist nahezu orthografisch. Die Perspektive darf sich nur sehr leicht und kontinuierlich verändern.
+
+0 bis 1 Sekunde: Eine volle Schafherde wird etabliert, während sich das gelbe Tor langsam nach außen öffnet.
+1 bis 4 Sekunden: Die erste Gruppe von Schafen springt nacheinander durch das Tor auf der linken Seite aus dem Gehege und steigt in einem Bogen nach links oben auf. Schwarze Gesichter und Beine werden allmählich verborgen, während sich die weiße Wolle zu kleinen Wolkenballen aufbläht.
+4 bis 10 Sekunden: Die übrigen Schafe folgen zeitlich versetzt, steigen auf und verwandeln sich in flauschige weiße Wolken. Das Gehege leert sich allmählich, während sich darüber eine lockere Wolkengruppe aus weißen Wolken unterschiedlicher Größe bildet.
+10 bis 14 Sekunden: Das leere Gehege bleibt unten im Bild, während die weißen Wolken darüber sanft schweben und sich leicht auf und ab bewegen. Die Szene wechselt nicht.
+14 bis 19,5 Sekunden: Die weißen Wolken fallen eine nach der anderen zurück in den Zaunbereich. Die weißen Ballen werden allmählich kleiner, schwarze Gesichter und kurze Beine kommen wieder zum Vorschein, und sie verwandeln sich zurück in Schafe. Nach der Landung federn sie leicht zurück, während sich die Schafherde im Gehege nach und nach wieder formiert.
+19,5 bis 21,4 Sekunden: Der Himmel leert sich, die Schafherde nimmt wieder eine natürliche Verteilung ein und das gelbe Tor schließt sich langsam. Das Bild kehrt in einen Zustand zurück, der dem ersten Bild möglichst nahekommt.
+
+Während der gesamten Animation bleiben Hintergrund, Struktur des Geheges sowie Form und Farben der Schafherde unverändert. Die Bewegungen sind weich und leicht, die einzelnen Gruppen bewegen sich zeitlich versetzt. Eine durchgehende Einstellung ohne Schnitte, abrupte Zooms oder Schwenks und ohne Text im Bild. Komposition und Geschwindigkeit am Anfang und Ende möglichst angleichen, damit die Animation nahtlos wiederholt werden kann.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/sheep-turning-into-clouds-3d-animation) · [Originalbeitrag](https://x.com/huqinyiyayuguan/status/2117863398822342673) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2117949666448883731"></a>
+
+### Game-Ready-Baba-Yaga-Hütte auf Vogelbeinen
+
+[Max](https://x.com/maxt3chno) · 2026-11-04
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/baba-yaga-hut-rigged-game-model"><img src="../assets/previews/c7273ee1485637431e8bd46d72f85337335d63460119e2a4d66c5481ca5b5205.jpg" width="840" loading="lazy" alt="Game-Ready-Baba-Yaga-Hütte auf Vogelbeinen"></a>
+
+Der Autor hat einen Blender-MCP-Prompt für eine Game-Ready-Baba-Yaga-Hütte geteilt, die anhand einer angehängten Bildreferenz modelliert wird. Beschrieben werden eine schiefe Holzhütte auf geriggten, schuppigen Vogelbeinen, Budgets für Texturen und Dreiecke, benannte Objekte, Kollisionsgeometrie, eingebettete GLB- und Blend-Dateien sowie Renderings in einer stehenden Pose und einer Schrittpose.
+
+**Prompt**
+
+```text
+Erstelle mit Blender über Blender MCP ein Game-Ready-3D-Modell der Hütte auf riesigen Vogelbeinen aus dem angehängten Bild (einer unheimlichen Baba-Yaga-Hütte). Arbeite direkt in Blender: Baue das Modell, prüfe das Ergebnis, vergleiche es mit der Referenz und korrigiere es. Halte dich so genau wie möglich an die Referenz: Form, Proportionen, Materialien und Farben. Ignoriere den unscharfen Bildhintergrund und modelliere nur die Hütte.
+
+Das Modell: eine schiefe, verwitterte Holzhütte auf zwei riesigen, schuppigen Vogelbeinen in einem realistischen Shooter-Spiel auf einer tropischen Insel. Der Spieler sieht sie vom Boden aus und kann um sie herumgehen. Die Beine müssen sich bewegen können: gehen, in die Hocke gehen und das Gewicht verlagern.
+
+Beizubehaltende Details:
+Vorn ein kleiner, geneigter Turm mit einem gebogenen, hornartigen Haken an der Spitze; ein steiles, schiefes Dach aus überlappenden dunklen Schindeln, deren Kanten tief herabhängen und in scharfen, ausgefransten Spitzen enden; ein hoher, spitzer Rückgiebel.
+Verfaulte, schiefe Bretter, die übereinandergenagelt sind, eiserne Bänder und Nägel sowie abgebrochene Bretter, die wie Stacheln herausragen.
+Schmale, orange leuchtende Fensterschlitze.
+Eine gewölbte Tür mit einem rot bemalten Schild und einem Eisenring sowie eine schiefe Brettertreppe mit herabhängenden Seilgeländern.
+Ein gemauerter Schornstein, Moos und herabhängende Moosfäden sowie kleine Pilze, die an der Wand wachsen.
+Rostige Ketten mit Ringen, ein Knochenkreuz an einem Seil und abgerissene dunkelrote Stoffstreifen, die von den Kanten herabhängen.
+Zwei lange, schuppige Vogelbeine mit großen Kniegelenken, vierzehigen Füßen und langen, dunklen, gebogenen Krallen.
+Anforderungen:
+Maßstab der realen Welt: Im aufrechten Stand insgesamt etwa 12 m hoch, die Hütte etwa 7 m lang. Der Ursprung liegt am Boden zwischen den beiden Füßen. Die Tür zeigt in Richtung +Y.
+Erstelle das Modell in einer neutralen stehenden Pose: Beide Füße stehen auf dem Boden, die Beine sind gerade unter dem Körper. Die Schrittpose aus der Referenz wird später mit dem Rig erstellt.
+Insgesamt maximal 60.000 Dreiecke. Schuppen, Holzmaserung, Nägel und bemalte Schilder sollen größtenteils in den Texturen und der Normalmap umgesetzt werden. Die stachelige Silhouette (Schindelspitzen, abgebrochene Bretter, Krallen und der Haken am Turm) soll durch Geometrie entstehen.
+Moosfäden und Stoffstreifen als Alpha-Card-Flächen.
+Texturen bis 2048 px: Base Color, Normal, Roughness und Emissive für die Fensterschlitze. Maximal 4 Materialien (Holz und Dach, Beine, Stoff mit Ketten und Anhängern, Fenster).
+Skelett: eine Armature namens "hut_rig" mit: einem Root-Bone am Boden und einem Körper-Bone; die gesamte Hütte bewegt sich starr mit dem Körper-Bone;
+für jedes Bein eine Kette aus Oberschenkel, Unterschenkel, Knöchel, Fuß und jeweils einem Bone pro Zeh;
+saubere Weights an den Beinen, damit sie sich biegen, ohne aufzureißen.
+
+Objekte: "hut": das Haus mit Dach, Turm, Treppe und Schornstein, dem Körper-Bone untergeordnet;
+"legs": beide Beine, an "hut_rig" geskinnt;
+"charms": Ketten, Knochenkreuz und Stoffstreifen, damit sie sich im Spiel bewegen können;
+"window_light_1", "window_light_2" ...: Empties innerhalb jedes leuchtenden Fensterschlitzes (das Spiel fügt die Lichter hinzu);
+"collision": eine einfache Low-Poly-Form für Beine und Hütten-Körper mit weniger als 500 Dreiecken, in Renderings ausgeblendet.
+
+Ausgabe:
+Eine .glb-Datei mit allen Objekten, der Armature und eingebetteten Texturen.
+Die .blend-Datei.
+Renderings vor einem schlichten Hintergrund: eine Vorderansicht und eine Dreiviertelansicht in der stehenden Pose sowie eine Dreiviertelansicht in der Schrittpose aus der Referenz (ein angehobenes Bein mit nach vorn gerichteten Krallen), um zu zeigen, dass das Rig funktioniert.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/baba-yaga-hut-rigged-game-model) · [Originalbeitrag](https://x.com/maxt3chno/status/2117950126077391316) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Rot, grünes Licht: 3D-Survival-Game
@@ -4268,7 +4239,7 @@ Einen neuen Jelly-Villa-Prompt mit Credit für jared veröffentlichen, den urspr
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 387 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 389 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>

@@ -28,7 +28,7 @@
 **Un punto de partida para tu próximo juego, escena o mundo interactivo.**
 
 
-**387 · Últimos prompts de Astra**
+**389 · Últimos prompts de Astra**
 
 ## Proyectos destacados
 
@@ -50,8 +50,6 @@
 <details>
 <summary>Explorar ejemplos</summary>
 
-- [Pitaya Jelly](#2103432732386664591)
-- [Modelado 3D de ropa para VRChat](#2103456264785424530)
 - [Crear un conejillo de Indias en Blender](#2103482826519986544)
 - [Jardín japonés estilo vóxel en Three.js](#2103486103831339269)
 - [Escena WebGL de un barco de vóxeles dentro de una botella](#2103855977376125161)
@@ -147,120 +145,13 @@
 - [Diseña un Charizard en 3D](#2116960427628532011)
 - [Helicóptero realista con temática de Mario en Three.js](#2117235402100940908)
 - [Recrea Subway Surfers como un juego HTML jugable de 2026](#2117354881950650743)
+- [Animación 3D en bucle: las ovejas se convierten en nubes](#2117863398822342673)
+- [Cabaña de Baba Yaga lista para videojuegos sobre patas de ave](#2117949666448883731)
 - [Luz roja, luz verde: juego de supervivencia 3D](#red-light-green-light)
 - [Golden Miner: juego de minería 3D de 24 niveles](#golden-miner)
 - [Villa de gelatina](#jelly-villa)
 
 </details>
-
-<a id="2103432732386664591"></a>
-
-### Pitaya Jelly
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2103432732386664591"><img src="../assets/previews/7e480a4fe2b6b8dbe7c3cf58fb1b37907e4c7b12601559eec331eadf7080282a.jpg" width="840" loading="lazy" alt="Pitaya Jelly"></a>
-
-Un prompt compartido por un autor para que GPT-6 Astra cree un experimento interactivo de materiales de gelatina de pitaya en 3D, ejecutado en el navegador. Especifica geometría procedural con WebGPU, materiales de goma translúcidos, deformación de cuerpo blando, pétalos de la cáscara arrastrables, compatibilidad táctil, presets, lecturas de la simulación y una interfaz clara de estilo estudio.
-
-**Prompt**
-
-```text
-Crea una escena 3D interactiva llamada «Pitaya Jelly»: media pitaya hecha de gelatina blanda y translúcida. Desarrolla todo el proyecto en un único archivo HTML utilizando renderizado WebGPU real y sombreadores WGSL. No uses modelos prefabricados ni recursos de imagen.
-
-APPEARANCE
-
-Una mitad grande de pitaya, apoyada con el lado cortado hacia arriba sobre una superficie de estudio clara.
-Piel de color rosa frambuesa intenso, una fina capa interior pálida y pulpa blanca nacarada.
-Aproximadamente 250 semillas negras diminutas, distribuidas de forma natural por la pulpa.
-Entre 12 y 14 pétalos carnosos de la cáscara alrededor de la fruta, con una transición de bases rosas a puntas verdes.
-Una superficie brillante y húmeda, con refracción de la luz, pequeñas burbujas internas y una sombra de contacto suave.
-El material debe parecer un caramelo de goma blando, no plástico rígido. Conserva los colores saturados sin altas luces quemadas.
-
-FÍSICA E INTERACCIÓN
-
-Implementa una deformación de cuerpo blando real mediante una malla volumétrica con conexiones elásticas y restricciones que preserven el volumen, como XPBD.
-El usuario debe poder agarrar la pulpa con el ratón o un dedo, estirarla y soltarla.
-La deformación debe concentrarse alrededor del punto agarrado, en lugar de trasladar todo el objeto.
-Después de soltarla, la fruta debe oscilar, vibrar y recuperar gradualmente su forma original.
-Haz que los pétalos de la cáscara se puedan arrastrar individualmente. Deben ser más blandos que la pulpa, doblarse y recuperar su forma sin dejar de estar unidos a la fruta.
-Las semillas deben seguir la superficie deformable sin separarse ni hundirse en la pulpa.
-Mantén la simulación estable durante los tirones fuertes, con contacto con el suelo y protección contra elementos invertidos.
-
-DISEÑO VISUAL
-
-Utiliza una interfaz de estudio minimalista y clara, con una estética editorial: mucho espacio en blanco, bordes finos, controles discretos y ninguna decoración innecesaria.
-
-Arriba a la izquierda:
-«MATERIAL STUDIES / NO. 019»
-Un encabezado grande en cursiva con serifas, distribuido en dos líneas:
-«Pitaya Jelly».
-
-Debajo:
-«Un poco salvaje».
-«Un poco dulce».
-«Un dragón muy blando».
-A la derecha, añade un panel flotante titulado «THE SPECIMEN» que contenga:
-
-Indicador de densidad: ρ 1.04 g/cm³.
-Tres presets:
-Pearl — pulpa blanca y piel rosa.
-Ruby — pulpa color frambuesa y piel rosa.
-Gold — pulpa pálida y piel dorada.
-Deslizadores de firmeza y amortiguación interna con valores visibles.
-Botones «Dale un toque» y «Restablecer».
-
-Casillas «¼ de velocidad» y «Mostrar malla».
-
-Un botón «Pausar».
-Incluye también:
-Un botón de pantalla completa con una opción para salir.
-Un indicador de estado «WEBGPU · LIVE».
-Lecturas en tiempo real de la masa, el porcentaje del volumen en reposo y la energía cinética.
-Una breve indicación de interacción: «Estira la pulpa. Tira de un pétalo. Suelta».
-Una sección desplegable «Dentro del experimento» que explique con precisión la implementación.
-REQUISITOS TÉCNICOS
-Entrega un único archivo autocontenido llamado pitaya-jelly-webgpu.html.
-
-Utiliza renderizado WebGPU real, no una imitación con Canvas 2D.
-
-Construye toda la geometría de forma procedural.
-Utiliza refracción con grosor, reflejos de Fresnel e iluminación de estudio suave.
-Usa un paso de tiempo fijo para que el comportamiento sea uniforme.
-Admite interacción de escritorio y táctil con un diseño adaptable.
-Evita reconstrucciones de geometría costosas o la compilación de sombreadores durante el arrastre.
-
-Muestra un mensaje alternativo claro cuando WebGPU no esté disponible.
-
-Verifica el arrastre, la liberación, la recuperación de la forma, los presets, el restablecimiento, la pausa, la pantalla completa y el diseño móvil.
-Las prioridades principales son un comportamiento convincente de gelatina, materiales atractivos y una interacción satisfactoria. El resultado debe transmitir la sensación de un experimento de materiales pulido y jugable.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2103432732386664591) · [Publicación original](https://x.com/vib3coded/status/2103433535604265052) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="2103456264785424530"></a>
-
-### Modelado 3D de ropa para VRChat
-
-[のわ〜る👼🍆🐄](https://x.com/Noir4247) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2103456264785424530"><img src="../assets/previews/60090a53a9e0360367a1d5cba9481eec9d8360afd91640dfc431b8094207ae43.jpg" width="840" loading="lazy" alt="Modelado 3D de ropa para VRChat"></a>
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2103456264785424530"><img src="../assets/previews/dc0217bbe2b6526425252bd6e7bb1ba32317d9de5450561768507320ff81f20b.jpg" width="840" loading="lazy" alt="Modelado 3D de ropa para VRChat"></a>
-
-El autor informa que indicó a Astra que modelara una prenda para VRChat en Blender a partir de un diseño creado con ChatGPT.
-
-**Prompt**
-
-```text
-Crea una prenda para VRChat
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2103456264785424530) · [Publicación original](https://x.com/Noir4247/status/2103456264785424530) · [Volver a los ejemplos](#all-prompts)
-
----
 
 <a id="2103482826519986544"></a>
 
@@ -4053,6 +3944,86 @@ Recrea Subway Surfers como si se hubiera lanzado en 2026. Haz que sea un único 
 
 ---
 
+<a id="2117863398822342673"></a>
+
+### Animación 3D en bucle: las ovejas se convierten en nubes
+
+[Regen](https://x.com/huqinyiyayuguan) · 2026-11-04
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/sheep-turning-into-clouds-3d-animation"><img src="../assets/previews/86d8b38be6cae582a9bf5fa0e733870e5e8b8bbbe8c6d2c2ebc2c26db367ce7c.jpg" width="840" loading="lazy" alt="Animación 3D en bucle: las ovejas se convierten en nubes"></a>
+
+Crea una animación 3D vertical continua de unos 22 segundos: unas ovejas blancas, con estilo de juguete low poly, saltan fuera de un corral azul y se convierten en nubes; después vuelven a caer al corral y recuperan su forma de rebaño. Mantén la misma escena y cámara, y termina con una composición y una velocidad similares a las del primer fotograma para que la animación pueda reproducirse en bucle.
+
+**Prompt**
+
+```text
+Crea una animación 3D continua de unos 22 segundos, en formato vertical 3:4 y a 30 fps. El fondo es de color azul eléctrico, de alta saturación; en la zona central inferior hay un corral circular azul, una valla blanca de dos travesaños y una pequeña puerta amarilla en el lado delantero izquierdo. La plataforma azul tiene manchas circulares cian y pequeños grupos de hierba blanca en forma de triángulo. En el interior del corral se mueven suavemente varias decenas de ovejas blancas y rechonchas, cuyos cuerpos están formados por grupos de esferas de color blanco crema, con pequeñas caras negras y patas cortas. El conjunto debe tener el aspecto de una miniatura de juguete redondeada y low poly, con sombras azul claro suaves y un ligero resplandor. Usa una vista elevada en picado, una composición casi ortográfica y cambios de perspectiva muy leves y continuos.
+
+De 0 a 1 segundo: muestra el corral lleno de ovejas y abre lentamente la puerta amarilla hacia fuera.
+De 1 a 4 segundos: las primeras ovejas saltan una tras otra por la puerta del lado izquierdo y ascienden en un arco hacia la parte superior izquierda; sus caras negras y patas se ocultan gradualmente, mientras la lana blanca se hincha y se convierte en pequeñas nubes.
+De 4 a 10 segundos: las ovejas que quedan las siguen de forma escalonada, ascienden y se transforman en nubes blancas y esponjosas; el corral se va vaciando y arriba se forma un grupo de nubes blancas de distintos tamaños, distribuido de manera equilibrada.
+De 10 a 14 segundos: mantén el corral vacío abajo y deja que las nubes blancas floten y se balanceen suavemente arriba, sin cambiar de escena.
+De 14 a 19,5 segundos: las nubes blancas caen una tras otra dentro del corral; los bultos blancos se encogen poco a poco y vuelven a mostrar sus caras negras y patas cortas, transformándose de nuevo en ovejas. Tras aterrizar, rebotan ligeramente y el rebaño del corral se recupera de forma gradual.
+De 19,5 a 21,4 segundos: despeja el cielo, devuelve el rebaño a una distribución natural y cierra lentamente la puerta amarilla; recupera una imagen similar a la del primer fotograma.
+
+Durante todo el proceso, conserva el mismo fondo, la misma estructura del corral y el mismo diseño y color del rebaño. Los movimientos deben ser suaves y ligeros, con una progresión escalonada dentro del grupo. Un único plano secuencia, sin cortes, sin zooms repentinos y sin texto en pantalla. Haz que la composición y la velocidad iniciales y finales coincidan lo máximo posible para que la animación pueda reproducirse en bucle.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/sheep-turning-into-clouds-3d-animation) · [Publicación original](https://x.com/huqinyiyayuguan/status/2117863398822342673) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="2117949666448883731"></a>
+
+### Cabaña de Baba Yaga lista para videojuegos sobre patas de ave
+
+[Max](https://x.com/maxt3chno) · 2026-11-04
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/baba-yaga-hut-rigged-game-model"><img src="../assets/previews/c7273ee1485637431e8bd46d72f85337335d63460119e2a4d66c5481ca5b5205.jpg" width="840" loading="lazy" alt="Cabaña de Baba Yaga lista para videojuegos sobre patas de ave"></a>
+
+El autor compartió un prompt para Blender MCP con el que se creó una cabaña de Baba Yaga lista para videojuegos a partir de una imagen de referencia adjunta. Especifica una cabaña de madera torcida sobre patas de ave escamosas con rig, límites de texturas y triángulos, objetos con nombres definidos, geometría de colisión, entregables GLB y Blend con recursos incrustados, y renders en poses de reposo y de paso.
+
+**Prompt**
+
+```text
+Usando Blender mediante Blender MCP, crea un modelo 3D listo para videojuegos de la cabaña sobre unas patas de ave gigantes que aparecen en la imagen adjunta (una cabaña siniestra de Baba Yaga). Trabaja directamente en Blender: constrúyelo, observa el resultado, compáralo con la referencia y corrígelo. Reproduce la referencia con la mayor precisión posible: forma, proporciones, materiales y colores. Ignora el fondo desenfocado de la imagen y modela solo la cabaña.
+
+Qué es: una cabaña de madera podrida y torcida, sostenida por dos enormes patas de ave escamosas, en un juego de disparos realista ambientado en una isla tropical. El jugador la ve desde el suelo y camina a su alrededor. Las patas deben poder moverse: caminar, agacharse y cambiar el peso.
+
+Detalles que se deben conservar:
+Una pequeña torre inclinada en la parte delantera, con un gancho curvado parecido a un cuerno en la parte superior; un tejado alto y torcido de tejas oscuras superpuestas, cuyos bordes cuelgan bajo y terminan en puntas irregulares y afiladas; un hastial trasero alto y puntiagudo.
+Tablones podridos y torcidos clavados unos sobre otros, abrazaderas y clavos de hierro, tablas rotas que sobresalen como púas.
+ estrechas rendijas de ventana con un resplandor naranja.
+Una puerta arqueada con un letrero pintado de rojo y un aro de hierro, y una escalera torcida de tablones con barandillas de cuerda colgando de ella.
+Una chimenea de ladrillo, musgo y hebras de musgo colgantes, y pequeñas setas creciendo en la pared.
+Cadenas oxidadas con aros, una cruz de huesos sujeta a una cuerda y tiras de tela desgarrada de color rojo oscuro colgando de los bordes.
+Dos patas largas de ave con escamas, grandes articulaciones de rodilla, pies de cuatro dedos y garras largas, oscuras y curvadas.
+Requisitos:
+Escala real: unos 12 m de altura total cuando está erguida y una cabaña de unos 7 m de largo. El origen debe estar en el suelo, entre los dos pies. La puerta debe mirar hacia +Y.
+Constrúyela en una pose neutra de reposo: ambos pies en el suelo y las patas rectas bajo el cuerpo. La pose de paso de la referencia se creará después con el rig.
+Hasta 60 000 triángulos en total. Las escamas, la veta de la madera, los clavos y los letreros pintados deben estar principalmente en las texturas y el mapa normal. La silueta puntiaguda (puntas de las tejas, tablas rotas, garras y el gancho de la torre) debe estar en la geometría.
+Las hebras de musgo y las tiras de tela deben ser planos con tarjetas de alfa.
+Texturas de hasta 2048 px: color base, normal, rugosidad y emisiva para las rendijas de las ventanas. Hasta 4 materiales (madera y tejado, patas, tela con cadenas y amuletos, ventanas).
+Esqueleto: un único armature "hut_rig" con: un hueso raíz en el suelo y un hueso para el cuerpo; toda la cabaña se mueve rígidamente con el hueso del cuerpo;
+para cada pata, una cadena formada por: muslo, espinilla, tobillo, pie y un hueso por cada dedo;
+pesos limpios en las patas para que se doblen sin desgarrarse.
+
+Objetos: "hut": la casa con tejado, torre, escalera y chimenea, vinculada al hueso del cuerpo;
+"legs": las dos patas, con skinning aplicado a "hut_rig";
+"charms": cadenas, cruz de huesos y tiras de tela, para que puedan balancearse en el juego;
+"window_light_1", "window_light_2"...: objetos vacíos dentro de cada rendija de ventana luminosa (el juego añadirá las luces);
+"collision": una forma sencilla de baja poligonización para las patas y el cuerpo de la cabaña, con menos de 500 triángulos y oculta en los renders.
+
+Salida:
+Un archivo .glb con todos los objetos, el armature y las texturas incrustadas.
+El archivo .blend.
+Renders sobre un fondo liso: una vista frontal y una vista de tres cuartos en la pose de reposo, más una vista de tres cuartos en la pose de paso de la referencia (una pata levantada con las garras hacia delante), para demostrar que el rig funciona.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/baba-yaga-hut-rigged-game-model) · [Publicación original](https://x.com/maxt3chno/status/2117950126077391316) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Luz roja, luz verde: juego de supervivencia 3D
@@ -4268,7 +4239,7 @@ Publica un prompt nuevo de jelly-villa acreditado a jared, con el autor original
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 387 ejemplos en el sitio oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver los 389 ejemplos en el sitio oficial →</a></strong></p>
 <p><sub>Para que el README de GitHub se renderice con fluidez, aquí solo se muestran los 100 ejemplos más recientes.</sub></p>
 <br>
 </td></tr>

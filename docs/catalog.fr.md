@@ -28,7 +28,7 @@
 **Un point de départ pour votre prochain jeu, scène ou monde interactif.**
 
 
-**387 · Derniers prompts Astra**
+**389 · Derniers prompts Astra**
 
 ## Projets à découvrir
 
@@ -50,8 +50,6 @@
 <details>
 <summary>Parcourir les exemples</summary>
 
-- [Gelée de pitaya](#2103432732386664591)
-- [Modélisation 3D de tenues pour VRChat](#2103456264785424530)
 - [Créer un cochon d’Inde dans Blender](#2103482826519986544)
 - [Jardin japonais de style voxel dans Three.js](#2103486103831339269)
 - [Scène WebGL voxel d’un bateau dans une bouteille](#2103855977376125161)
@@ -147,120 +145,13 @@
 - [Concevoir un Charizard en 3D](#2116960427628532011)
 - [Hélicoptère réaliste sur le thème de Mario dans Three.js](#2117235402100940908)
 - [Recréer Subway Surfers sous la forme d’un jeu HTML jouable en 2026](#2117354881950650743)
+- [Animation 3D en boucle : des moutons se transforment en nuages](#2117863398822342673)
+- [Cabane de Baba Yaga prête pour le jeu, sur des pattes d’oiseau](#2117949666448883731)
 - [1, 2, 3, soleil : jeu de survie en 3D](#red-light-green-light)
 - [Golden Miner : jeu de minage 3D en 24 niveaux](#golden-miner)
 - [Villa en gelée](#jelly-villa)
 
 </details>
-
-<a id="2103432732386664591"></a>
-
-### Gelée de pitaya
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2103432732386664591"><img src="../assets/previews/7e480a4fe2b6b8dbe7c3cf58fb1b37907e4c7b12601559eec331eadf7080282a.jpg" width="840" loading="lazy" alt="Gelée de pitaya"></a>
-
-Un prompt partagé par son auteur pour GPT-6 Astra, afin de créer dans un navigateur une expérience interactive de matériau 3D représentant une gelée de pitaya. Il définit une géométrie procédurale WebGPU, des matériaux gommeux translucides, une déformation de corps mou, des pétales d’écorce que l’on peut faire glisser, la prise en charge du tactile, des préréglages, des indicateurs de simulation et une interface claire, inspirée d’un studio.
-
-**Prompt**
-
-```text
-Créez une scène 3D interactive appelée « Pitaya Jelly » : une moitié de fruit du dragon en gelée douce et translucide. Construisez l’intégralité du projet dans un seul fichier HTML, avec un rendu WebGPU véritable et des shaders WGSL. N’utilisez ni modèles prédéfinis ni ressources image.
-
-APPEARANCE
-
-Une grande moitié de fruit du dragon, face coupée vers le haut, posée sur une surface de studio claire.
-Une peau rose framboise intense, une fine couche interne pâle et une chair blanche nacrée.
-Environ 250 minuscules graines noires réparties naturellement dans la chair.
-12 à 14 pétales charnus autour du fruit, passant du rose à la base au vert à l’extrémité.
-Une surface brillante et humide, avec réfraction de la lumière, petites bulles internes et ombre de contact douce.
-Le matériau doit évoquer une gomme tendre, et non un plastique rigide. Préservez des couleurs saturées sans hautes lumières surexposées.
-
-PHYSIQUE ET INTERACTION
-
-Implémentez une véritable déformation de corps mou à l’aide d’un maillage volumique avec des connexions élastiques et des contraintes de conservation du volume, comme XPBD.
-Les utilisateurs doivent pouvoir saisir la chair avec la souris ou le doigt, l’étirer, puis la relâcher.
-La déformation doit se concentrer autour du point de saisie, plutôt que de simplement déplacer l’objet entier.
-Après le relâchement, le fruit doit onduler, gigoter et retrouver progressivement sa forme initiale.
-Rendez les pétales de la peau manipulables individuellement. Ils doivent être plus souples que la chair, se courber puis revenir en place tout en restant attachés au fruit.
-Les graines doivent suivre la surface déformée sans flotter au loin ni s’enfoncer dans la chair.
-Maintenez la stabilité de la simulation lors des tractions importantes, avec un contact au sol et une protection contre les éléments inversés.
-
-DIRECTION ARTISTIQUE
-
-Utilisez une interface de studio minimaliste et claire, à l’esthétique éditoriale : beaucoup d’espace blanc, des bordures fines, des contrôles discrets et aucune décoration superflue.
-
-En haut à gauche :
-« ÉTUDES DE MATÉRIAUX / N° 019 »
-Un grand titre à empattements, en italique, sur deux lignes :
-« Pitaya Jelly. »
-
-En dessous :
-« Un peu sauvage. »
-« Un peu sucré. »
-« Un dragon très tendre. »
-À droite, ajoutez un panneau flottant intitulé « LE SPÉCIMEN » contenant :
-
-Badge de densité : ρ 1,04 g/cm³.
-Trois préréglages :
-Pearl — chair blanche et peau rose.
-Ruby — chair couleur framboise et peau rose.
-Gold — chair pâle et peau dorée.
-Des curseurs de fermeté et d’amortissement interne, avec leurs valeurs visibles.
-Des boutons « Donner une impulsion » et « Réinitialiser ».
-
-Des cases à cocher « Vitesse ¼ » et « Afficher le maillage ».
-
-Un bouton « Pause ».
-Ajoutez également :
-Un bouton de plein écran avec une option pour quitter ce mode.
-Un indicateur d’état « WEBGPU · EN DIRECT ».
-Des relevés en temps réel de la masse, du pourcentage du volume au repos et de l’énergie cinétique.
-Une brève indication d’interaction : « Tirez la chair. Tirez un pétale. Relâchez. »
-Une section repliable « À l’intérieur de l’expérience » qui explique fidèlement l’implémentation.
-EXIGENCES TECHNIQUES
-Livrez un seul fichier autonome nommé pitaya-jelly-webgpu.html.
-
-Utilisez un véritable rendu WebGPU, et non une imitation en Canvas 2D.
-
-Générez toute la géométrie de manière procédurale.
-Utilisez une réfraction tenant compte de l’épaisseur, des réflexions de Fresnel et un éclairage de studio doux.
-Utilisez un pas de temps de simulation fixe pour garantir un comportement cohérent.
-Prenez en charge les interactions sur ordinateur et sur écran tactile, avec une mise en page adaptative.
-Évitez toute reconstruction coûteuse de la géométrie ou compilation de shaders pendant la manipulation.
-
-Affichez un message de secours clair lorsque WebGPU n’est pas disponible.
-
-Vérifiez la manipulation, le relâchement, le retour à la forme initiale, les préréglages, la réinitialisation, la pause, le plein écran et la mise en page mobile.
-Les priorités principales sont un comportement convaincant de gelée, de beaux matériaux et une interaction satisfaisante. Le résultat doit donner l’impression d’une expérience de matériau soignée et ludique.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2103432732386664591) · [Publication originale](https://x.com/vib3coded/status/2103433535604265052) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="2103456264785424530"></a>
-
-### Modélisation 3D de tenues pour VRChat
-
-[のわ〜る👼🍆🐄](https://x.com/Noir4247) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2103456264785424530"><img src="../assets/previews/60090a53a9e0360367a1d5cba9481eec9d8360afd91640dfc431b8094207ae43.jpg" width="840" loading="lazy" alt="Modélisation 3D de tenues pour VRChat"></a>
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2103456264785424530"><img src="../assets/previews/dc0217bbe2b6526425252bd6e7bb1ba32317d9de5450561768507320ff81f20b.jpg" width="840" loading="lazy" alt="Modélisation 3D de tenues pour VRChat"></a>
-
-L’auteur indique avoir demandé à Astra de modéliser une tenue dans Blender à partir d’une planche de design créée avec ChatGPT.
-
-**Prompt**
-
-```text
-Crée une tenue pour VRChat
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2103456264785424530) · [Publication originale](https://x.com/Noir4247/status/2103456264785424530) · [Retour aux exemples](#all-prompts)
-
----
 
 <a id="2103482826519986544"></a>
 
@@ -4053,6 +3944,86 @@ Recrée Subway Surfers comme s’il était sorti en 2026. Fais-en un fichier HTM
 
 ---
 
+<a id="2117863398822342673"></a>
+
+### Animation 3D en boucle : des moutons se transforment en nuages
+
+[Regen](https://x.com/huqinyiyayuguan) · 2026-11-04
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/sheep-turning-into-clouds-3d-animation"><img src="../assets/previews/86d8b38be6cae582a9bf5fa0e733870e5e8b8bbbe8c6d2c2ebc2c26db367ce7c.jpg" width="840" loading="lazy" alt="Animation 3D en boucle : des moutons se transforment en nuages"></a>
+
+Créez une animation 3D verticale continue d’environ 22 secondes : des moutons blancs au style jouet low poly sautent hors d’un enclos bleu et se transforment en nuages, puis retombent dans l’enclos et reprennent leur forme de moutons. L’animation conserve la même scène et le même cadrage, et se termine avec une composition et une vitesse proches de celles de la première image, pour permettre une lecture en boucle.
+
+**Prompt**
+
+```text
+Créez une animation 3D continue d’environ 22 secondes, au format vertical 3:4 et à 30 i/s. Le fond est entièrement bleu électrique très saturé. Dans la partie centrale inférieure de l’image se trouve un enclos circulaire bleu, avec une clôture blanche à deux traverses horizontales et une petite porte jaune à l’avant gauche. Le sol bleu présente des taches circulaires bleu cyan et des touffes d’herbe blanches triangulaires. Plusieurs dizaines de moutons blancs et tout ronds se déplacent doucement dans l’enclos ; leur corps est composé de boules blanc crème, avec de petits visages noirs et des pattes courtes. L’ensemble forme une mini-scène jouet low poly aux formes arrondies, avec des ombres bleu clair douces et une légère lueur. La caméra est placée en hauteur, en plongée oblique, avec une composition presque orthographique ; le point de vue ne doit varier que de manière très légère et continue.
+
+De 0 à 1 seconde : installez le troupeau dans un enclos plein, tandis que la porte jaune s’ouvre lentement vers l’extérieur.
+De 1 à 4 secondes : les premiers moutons bondissent successivement hors de l’enclos par la porte de gauche et s’élèvent vers le haut à gauche en suivant une trajectoire en arc. Leurs visages noirs et leurs pattes disparaissent progressivement, tandis que leur laine blanche gonfle pour former de petits nuages.
+De 4 à 10 secondes : les moutons suivants s’envolent à leur tour, de façon décalée, et se transforment en nuages blancs et cotonneux. L’enclos se vide progressivement, tandis qu’un groupe de nuages blancs de tailles variées se forme au-dessus, avec une disposition équilibrée entre zones plus ou moins denses.
+De 10 à 14 secondes : l’enclos vide reste en bas de l’image et les nuages blancs flottent et ondulent doucement au-dessus, sans changement de scène.
+De 14 à 19,5 secondes : les nuages blancs retombent un à un dans l’enclos. Les masses blanches rétrécissent progressivement, laissant réapparaître les visages noirs et les pattes courtes, jusqu’à redevenir des moutons. À l’atterrissage, ils rebondissent légèrement et le troupeau se reconstitue peu à peu dans l’enclos.
+De 19,5 à 21,4 secondes : le ciel se vide, le troupeau retrouve une répartition naturelle et la porte jaune se referme lentement. L’image revient à un état proche de celui de la première image.
+
+Pendant toute l’animation, conservez le même fond, la même structure d’enclos, ainsi que les mêmes formes et couleurs pour le troupeau. Les mouvements doivent rester souples et légers, avec une progression décalée au sein du groupe. Un seul plan continu, sans coupe, sans zoom soudain et sans texte à l’écran. Faites correspondre autant que possible la composition et la vitesse du début et de la fin pour permettre une lecture en boucle.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/sheep-turning-into-clouds-3d-animation) · [Publication originale](https://x.com/huqinyiyayuguan/status/2117863398822342673) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="2117949666448883731"></a>
+
+### Cabane de Baba Yaga prête pour le jeu, sur des pattes d’oiseau
+
+[Max](https://x.com/maxt3chno) · 2026-11-04
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/baba-yaga-hut-rigged-game-model"><img src="../assets/previews/c7273ee1485637431e8bd46d72f85337335d63460119e2a4d66c5481ca5b5205.jpg" width="840" loading="lazy" alt="Cabane de Baba Yaga prête pour le jeu, sur des pattes d’oiseau"></a>
+
+L’auteur a partagé un prompt Blender MCP pour créer une cabane de Baba Yaga prête pour le jeu, modélisée à partir d’une image de référence jointe. Il spécifie une cabane en bois biscornue montée sur des pattes d’oiseau écailleuses équipées d’un rig, des budgets de textures et de triangles, des objets nommés, une géométrie de collision, des livrables GLB et Blend avec textures intégrées, ainsi que des rendus en pose debout et en pose de marche.
+
+**Prompt**
+
+```text
+En utilisant Blender via Blender MCP, crée un modèle 3D prêt pour le jeu de la cabane montée sur d’immenses pattes d’oiseau visible sur l’image jointe (une cabane inquiétante de Baba Yaga). Travaille directement dans Blender : construis le modèle, observe le résultat, compare-le à la référence et corrige-le. Respecte la référence au plus près : forme, proportions, matériaux et couleurs. Ignore l’arrière-plan flou de l’image et modélise uniquement la cabane.
+
+Description : une cabane en bois pourrie et biscornue, dressée sur deux énormes pattes d’oiseau écailleuses, dans un jeu de tir réaliste se déroulant sur une île tropicale. Le joueur la voit depuis le sol et peut en faire le tour. Les pattes doivent pouvoir bouger : marcher, s’accroupir et transférer le poids.
+
+Éléments à conserver :
+À l’avant, une petite tour inclinée surmontée d’un crochet courbé en forme de corne ; un toit pentu et biscornu composé de bardeaux sombres qui se chevauchent, dont les bords pendent bas et se terminent en pointes irrégulières acérées ; un haut pignon arrière hérissé.
+Des planches pourries et tordues, clouées les unes sur les autres, des bandes de fer et des clous, ainsi que des planches cassées qui ressortent comme des pointes.
+De minces fentes de fenêtres orange lumineuses.
+Une porte cintrée avec une enseigne peinte en rouge et un anneau en fer, ainsi qu’un escalier en planches biscornu avec des cordes de garde-corps qui pendent.
+Une cheminée en briques, de la mousse et des filaments de mousse suspendus, ainsi que de petits champignons poussant sur le mur.
+Des chaînes rouillées avec des anneaux, une croix en os suspendue à une corde et des bandes de tissu rouge sombre déchiré accrochées aux bords.
+Deux longues pattes d’oiseau écailleuses, dotées de grosses articulations du genou, de pieds à quatre doigts et de longues serres sombres recourbées.
+Contraintes :
+Échelle réelle : environ 12 m de haut au total en position debout, et environ 7 m de long pour la cabane. L’origine doit se trouver au sol, entre les deux pieds. La porte doit être orientée vers +Y.
+Construis-la en pose debout neutre : les deux pieds au sol et les pattes droites sous le corps. La pose de marche visible sur la référence sera créée plus tard avec le rig.
+Jusqu’à 60 000 triangles au total. Les écailles, le veinage du bois, les clous et les enseignes peintes doivent être représentés principalement dans les textures et la normal map. La silhouette hérissée (pointes des bardeaux, planches cassées, serres et crochet de la tour) doit être modélisée en géométrie.
+Les filaments de mousse et les bandes de tissu doivent être des plans avec alpha.
+Textures jusqu’à 2048 px : base color, normal, roughness et emissive pour les fentes des fenêtres. Jusqu’à 4 matériaux (bois et toit, pattes, tissu avec chaînes et amulettes, fenêtres).
+Squelette : une seule armature « hut_rig » avec : un os racine au sol et un os du corps ; toute la cabane se déplace de manière rigide avec l’os du corps ;
+pour chaque patte, une chaîne composée de la cuisse, du tibia, de la cheville, du pied et d’un os par orteil ;
+des poids propres sur les pattes, afin qu’elles se plient sans se déchirer.
+
+Objets :« hut » : la maison avec le toit, la tour, l’escalier et la cheminée, parentée à l’os du corps ;
+« legs » : les deux pattes, skinnées sur « hut_rig » ;
+« charms » : les chaînes, la croix en os et les bandes de tissu, afin qu’elles puissent se balancer dans le jeu ;
+« window_light_1 », « window_light_2 »… : des empties à l’intérieur de chaque fente de fenêtre lumineuse (le jeu ajoutera les lumières) ;
+« collision » : une forme low-poly simple pour les pattes et le corps de la cabane, de moins de 500 triangles, masquée dans les rendus.
+
+Sortie :
+Un fichier .glb contenant tous les objets, l’armature et les textures intégrées.
+Le fichier .blend.
+Des rendus sur fond uni : une vue de face et une vue en trois-quarts en pose debout, ainsi qu’une vue en trois-quarts en pose de marche d’après la référence (une patte levée, les serres vers l’avant), afin de montrer que le rig fonctionne.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/baba-yaga-hut-rigged-game-model) · [Publication originale](https://x.com/maxt3chno/status/2117950126077391316) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### 1, 2, 3, soleil : jeu de survie en 3D
@@ -4268,7 +4239,7 @@ Publier un nouveau prompt jelly-villa attribué à jared, avec l’auteur origin
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 387 exemples sur le site officiel →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 389 exemples sur le site officiel →</a></strong></p>
 <p><sub>Pour préserver la fluidité du rendu du README sur GitHub, seuls les 100 exemples les plus récents sont affichés ici.</sub></p>
 <br>
 </td></tr>

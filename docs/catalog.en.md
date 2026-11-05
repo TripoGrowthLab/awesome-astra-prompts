@@ -29,7 +29,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**387 examples · 14 languages · 12 examples with source code**
+**389 examples · 14 languages · 12 examples with source code**
 
 ## Featured projects
 
@@ -51,8 +51,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 <details>
 <summary>Browse examples</summary>
 
-- [Pitaya Jelly](#2103432732386664591)
-- [3D Modeling for VRChat Outfits](#2103456264785424530)
 - [Create a Guinea Pig in Blender](#2103482826519986544)
 - [Voxel-style Japanese garden in Three.js](#2103486103831339269)
 - [Voxel ship-in-a-bottle WebGL scene](#2103855977376125161)
@@ -148,120 +146,13 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Design a 3D Charizard](#2116960427628532011)
 - [Realistic Mario-themed helicopter in Three.js](#2117235402100940908)
 - [Recreate Subway Surfers as a 2026 playable HTML game](#2117354881950650743)
+- [Looping 3D Animation: Sheep Turning into Clouds](#2117863398822342673)
+- [Game-ready Baba Yaga hut on bird legs](#2117949666448883731)
 - [Red Light, Green Light: 3D Survival Game](#red-light-green-light)
 - [Golden Miner: 24-Level 3D Mining Game](#golden-miner)
 - [Jelly Villa](#jelly-villa)
 
 </details>
-
-<a id="2103432732386664591"></a>
-
-### Pitaya Jelly
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103432732386664591"><img src="../assets/previews/7e480a4fe2b6b8dbe7c3cf58fb1b37907e4c7b12601559eec331eadf7080282a.jpg" width="840" loading="lazy" alt="Pitaya Jelly"></a>
-
-An author-shared prompt for GPT-6 Astra to create a browser-based interactive 3D dragon-fruit jelly material experiment. It specifies procedural WebGPU geometry, translucent gummy materials, soft-body deformation, draggable peel petals, touch support, presets, simulation readouts, and a light studio-style interface.
-
-**Prompt**
-
-```text
-Create an interactive 3D scene called “Pitaya Jelly” — a dragon fruit half made of soft, translucent jelly. Build the entire project in a single HTML file using genuine WebGPU rendering and WGSL shaders. Do not use premade models or image assets.
-
-APPEARANCE
-
-A large dragon fruit half resting cut-side up on a light studio surface.
-Rich raspberry-pink skin, a thin pale inner rind, and pearly white flesh.
-Approximately 250 tiny black seeds distributed naturally across the flesh.
-12–14 fleshy peel petals around the fruit, transitioning from pink bases to green tips.
-A glossy, wet surface with light refraction, small internal bubbles, and a soft contact shadow.
-The material should look like soft gummy candy, not rigid plastic. Preserve saturated colors without blown-out highlights.
-
-PHYSICS AND INTERACTION
-
-Implement genuine soft-body deformation using a volumetric mesh with elastic connections and volume-preserving constraints, such as XPBD.
-Users can grab the flesh with a mouse or finger, stretch it, and release it.
-Deformation should concentrate around the grabbed point rather than simply translating the entire object.
-After release, the fruit should wobble, jiggle, and gradually recover its original shape.
-Make the peel petals individually draggable. They should be softer than the flesh, bending and springing back while remaining attached to the fruit.
-Seeds must follow the deforming surface without floating away or sinking into the flesh.
-Keep the simulation stable during strong pulls, with floor contact and protection against inverted elements.
-
-VISUAL DESIGN
-
-Use a minimal, light-themed studio interface with an editorial aesthetic: generous whitespace, thin borders, restrained controls, and no unnecessary decoration.
-
-Top left:
-“MATERIAL STUDIES / NO. 019”
-A large italic serif heading on two lines:
-“Pitaya Jelly.”
-
-Below it:
-“A little wild.”
-“A little sweet.”
-“A very soft dragon.”
-On the right, add a floating panel titled “THE SPECIMEN” containing:
-
-Density badge: ρ 1.04 g/cm³.
-Three presets:
-Pearl — white flesh and pink skin.
-Ruby — raspberry-colored flesh and pink skin.
-Gold — pale flesh and golden skin.
-Firmness and Internal damping sliders with visible values.
-“Give it a nudge” and “Reset” buttons.
-
-“¼ speed” and “Show mesh” checkboxes.
-
-A “Pause” button.
-Also include:
-A fullscreen button with an exit option.
-A “WEBGPU · LIVE” status indicator.
-Live readouts for mass, percentage of rest volume, and kinetic energy.
-A short interaction hint: “Pull the flesh. Tug a petal. Let go.”
-A collapsible “Inside the experiment” section explaining the implementation accurately.
-TECHNICAL REQUIREMENTS
-Deliver one self-contained file named pitaya-jelly-webgpu.html.
-
-Use actual WebGPU rendering, not a Canvas 2D imitation.
-
-Build all geometry procedurally.
-Use thickness-aware refraction, Fresnel reflections, and soft studio lighting.
-Use a fixed simulation timestep for consistent behavior.
-Support desktop and touch interaction with a responsive layout.
-Avoid expensive geometry reconstruction or shader compilation during dragging.
-
-Show a clear fallback message when WebGPU is unavailable.
-
-Verify dragging, release, shape recovery, presets, reset, pause, fullscreen, and mobile layout.
-The main priorities are convincing jelly-like behavior, beautiful materials, and satisfying interaction. The result should feel like a polished, playable material experiment.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103432732386664591) · [Original post](https://x.com/vib3coded/status/2103433535604265052) · [Back to examples](#all-prompts)
-
----
-
-<a id="2103456264785424530"></a>
-
-### 3D Modeling for VRChat Outfits
-
-[のわ〜る👼🍆🐄](https://x.com/Noir4247) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103456264785424530"><img src="../assets/previews/60090a53a9e0360367a1d5cba9481eec9d8360afd91640dfc431b8094207ae43.jpg" width="840" loading="lazy" alt="3D Modeling for VRChat Outfits"></a>
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103456264785424530"><img src="../assets/previews/dc0217bbe2b6526425252bd6e7bb1ba32317d9de5450561768507320ff81f20b.jpg" width="840" loading="lazy" alt="3D Modeling for VRChat Outfits"></a>
-
-The creator reports instructing Astra to model an outfit in Blender based on a design created with ChatGPT, using the prompt “Create an outfit for VRChat.”
-
-**Prompt**
-
-```text
-Create an outfit for VRChat
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103456264785424530) · [Original post](https://x.com/Noir4247/status/2103456264785424530) · [Back to examples](#all-prompts)
-
----
 
 <a id="2103482826519986544"></a>
 
@@ -4054,6 +3945,86 @@ Recreate Subway Surfers as if it launched in 2026. Make it a single playable HTM
 
 ---
 
+<a id="2117863398822342673"></a>
+
+### Looping 3D Animation: Sheep Turning into Clouds
+
+[Regen](https://x.com/huqinyiyayuguan) · 2026-11-04
+
+<a href="https://www.tripo3d.ai/3d-prompts/sheep-turning-into-clouds-3d-animation"><img src="../assets/previews/86d8b38be6cae582a9bf5fa0e733870e5e8b8bbbe8c6d2c2ebc2c26db367ce7c.jpg" width="840" loading="lazy" alt="Looping 3D Animation: Sheep Turning into Clouds"></a>
+
+Create an approximately 22-second vertical continuous 3D animation: a white low-poly toy-style sheep jumps out of a blue pen and transforms into a cloud, then falls back into the pen and becomes part of the flock again. Keep the same scene and camera throughout, ending with framing and pacing close to the opening for seamless looping.
+
+**Prompt**
+
+```text
+Create an approximately 22-second, 3:4 vertical continuous 3D animation at 30 fps. Use a pure, highly saturated electric-blue background. In the lower middle of the frame is a circular blue sheep pen with white double-rail fencing and a small yellow gate at the front left. The blue platform has cyan-blue circular spots and clusters of white triangular grass. Dozens of round, plump white sheep move gently inside the pen. Their bodies are made of cream-white woolly spheres, with small black faces and short legs. The overall look is a rounded low-poly miniature toy scene, with soft light-blue shadows and a subtle glow. Use a high, angled top-down view and near-orthographic composition, with only very slight, continuous changes in perspective.
+
+0 to 1 second: Establish the full flock inside the pen as the yellow gate slowly swings outward.
+1 to 4 seconds: The first group of sheep takes turns bouncing out through the left gate, rising along an arc toward the upper left. Their black faces and legs gradually disappear as their white wool expands into small cloud puffs.
+4 to 10 seconds: The remaining sheep follow in staggered intervals, rising into the air and transforming into fluffy white clouds. The pen gradually empties while a varied group of white clouds forms overhead, with different sizes and spacing.
+10 to 14 seconds: Keep the empty pen below as the white clouds gently drift and billow above it, without changing scenes.
+14 to 19.5 seconds: The clouds fall back inside the fence one after another. The white forms gradually shrink and reveal black faces and short legs again, transforming back into sheep. Each sheep gives a slight bounce on landing as the flock inside the pen gradually returns.
+19.5 to 21.4 seconds: Clear the sky, return the flock to a natural distribution, and slowly close the yellow gate. Restore the frame to a state close to the opening.
+
+Keep the same background, pen structure, flock design, and colors throughout. Motion should feel soft and buoyant, with the flock moving in sequence rather than all at once. Use one continuous shot with no cuts, sudden zooms, or on-screen text. Match the opening and closing composition and pacing as closely as possible for seamless looping.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/sheep-turning-into-clouds-3d-animation) · [Original post](https://x.com/huqinyiyayuguan/status/2117863398822342673) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2117949666448883731"></a>
+
+### Game-ready Baba Yaga hut on bird legs
+
+[Max](https://x.com/maxt3chno) · 2026-11-04
+
+<a href="https://www.tripo3d.ai/3d-prompts/baba-yaga-hut-rigged-game-model"><img src="../assets/previews/c7273ee1485637431e8bd46d72f85337335d63460119e2a4d66c5481ca5b5205.jpg" width="840" loading="lazy" alt="Game-ready Baba Yaga hut on bird legs"></a>
+
+The author shared a Blender MCP prompt for a game-ready Baba Yaga hut modeled from an attached image reference. It specifies a crooked wooden hut on rigged scaly bird legs, texture and triangle budgets, named objects, collision geometry, embedded GLB and Blend deliverables, and standing and step-pose renders.
+
+**Prompt**
+
+```text
+Using Blender through Blender MCP, make a game-ready 3D model of the hut on giant bird legs in the attached image (a creepy Baba Yaga hut). Work directly in Blender: build, look at the result, compare it with the reference and fix it. Match the reference as closely as you can: shape, proportions, materials and colours. Ignore the blurred background of the image, model only the hut.
+
+What it is: a crooked, rotten wooden hut standing on two huge scaly bird legs, in a realistic tropical-island shooter game. The player sees it from the ground and walks around it. The legs must be able to move: walk, crouch, shift weight.
+
+Details to keep:
+A small leaning tower at the front with a curved horn-like hook on top; a steep crooked roof of overlapping dark shingles whose edges hang low and end in sharp ragged points; a tall spiky back gable.
+Rotten, crooked planks nailed over each other, iron straps and nails, broken boards sticking out like spikes.
+Narrow glowing orange window slits.
+An arched door with a red painted sign and an iron ring, a crooked plank stair with rope railings hanging down from it.
+A brick chimney, moss and hanging moss strands, small mushrooms growing on the wall.
+Rusty chains with rings, a bone cross on a rope, torn dark-red cloth strips hanging from the edges.
+Two long scaly bird legs with big knee joints, four-toed feet and long dark curved claws.
+Requirements:
+Real-world scale: about 12 m tall in total when standing, the hut about 7 m long. Origin on the ground between the two feet. The door facing +Y.
+Build it in a neutral standing pose: both feet on the ground, legs straight under the body. The step pose from the reference is made later with the rig.
+Up to 60,000 triangles in total. Scales, wood grain, nails and painted signs mostly in the textures and normal map. The spiky silhouette (shingle points, broken planks, claws, the hook on the tower) in the geometry.
+Moss strands and cloth strips as alpha-card planes.
+Textures up to 2048 px: base colour, normal, roughness, emissive for the window slits. Up to 4 materials (wood and roof, legs, cloth with chains and charms, windows).
+Skeleton: one armature "hut_rig" with:a root bone on the ground and a body bone; the whole hut moves rigidly with the body bone;
+for each leg a chain: thigh, shin, ankle, foot, and one bone per toe;
+clean weights on the legs, so they bend without tearing.
+
+Objects:"hut": the house with roof, tower, stair and chimney, parented to the body bone;
+"legs": both legs, skinned to "hut_rig";
+"charms": chains, bone cross and cloth strips, so they can swing in the game;
+"window_light_1", "window_light_2"...: empties inside each glowing window slit (the game will add the lights);
+"collision": a simple low-poly shape for the legs and the hut body, under 500 triangles, hidden in renders.
+
+Output:
+One .glb file with all objects, the armature and textures embedded.
+The .blend file.
+Renders on a plain background: a front view and a three-quarter view in the standing pose, plus one three-quarter view in the step pose from the reference (one leg lifted with claws forward), to show the rig works.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/baba-yaga-hut-rigged-game-model) · [Original post](https://x.com/maxt3chno/status/2117950126077391316) · [Back to examples](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Red Light, Green Light: 3D Survival Game
@@ -4269,7 +4240,7 @@ Publish a new jelly-villa prompt credited to jared, with the original author in 
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 387 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 389 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>

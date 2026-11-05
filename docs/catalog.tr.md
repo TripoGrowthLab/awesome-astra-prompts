@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**387 · En yeni Astra istemleri**
+**389 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -50,8 +50,6 @@
 <details>
 <summary>Örnekleri keşfet</summary>
 
-- [Pitaya Jelly](#2103432732386664591)
-- [VRChat için kıyafet 3B modelleme](#2103456264785424530)
 - [Blender'da kobay oluştur](#2103482826519986544)
 - [Three.js'te voxel tarzı Japon bahçesi](#2103486103831339269)
 - [Şişede voksel gemi WebGL sahnesi](#2103855977376125161)
@@ -147,120 +145,13 @@
 - [3B Charizard Tasarla](#2116960427628532011)
 - [Three.js'te gerçekçi Mario temalı helikopter](#2117235402100940908)
 - [Subway Surfers'ı 2026'da oynanabilir bir HTML oyunu olarak yeniden oluştur](#2117354881950650743)
+- [Koyunların Bulutlara Dönüştüğü Döngüsel 3B Animasyon](#2117863398822342673)
+- [Oyuna hazır, kuş bacakları üzerinde Baba Yaga kulübesi](#2117949666448883731)
 - [Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu](#red-light-green-light)
 - [Golden Miner: 24 Seviyeli 3B Madencilik Oyunu](#golden-miner)
 - [Jöle Villa](#jelly-villa)
 
 </details>
-
-<a id="2103432732386664591"></a>
-
-### Pitaya Jelly
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103432732386664591"><img src="../assets/previews/7e480a4fe2b6b8dbe7c3cf58fb1b37907e4c7b12601559eec331eadf7080282a.jpg" width="840" loading="lazy" alt="Pitaya Jelly"></a>
-
-GPT-6 Astra için yazar tarafından paylaşılan bu prompt, tarayıcı tabanlı, etkileşimli bir 3B ejder meyvesi jölesi malzeme deneyi oluşturur. Prosedürel WebGPU geometrisi, yarı saydam jelimsi malzemeler, yumuşak cisim deformasyonu, sürüklenebilir kabuk taç yaprakları, dokunmatik destek, hazır ayarlar, simülasyon verileri ve aydınlık, stüdyo tarzı bir arayüz tanımlar.
-
-**İstem**
-
-```text
-“Pitaya Jelly” adlı etkileşimli bir 3B sahne oluşturun — yumuşak, yarı saydam jöleden yapılmış bir ejder meyvesi yarımı. Projenin tamamını, gerçek WebGPU ile oluşturma ve WGSL shader'ları kullanarak tek bir HTML dosyasında geliştirin. Hazır model veya görsel varlık kullanmayın.
-
-APPEARANCE
-
-Açık renkli bir stüdyo yüzeyinde, kesik tarafı yukarı bakacak şekilde duran büyük bir ejder meyvesi yarımı.
-Yoğun frambuaz pembesi kabuk, ince ve açık renkli bir iç kabuk ile sedefimsi beyaz meyve eti.
-Meyve etine doğal biçimde dağılmış yaklaşık 250 küçük siyah çekirdek.
-Meyvenin çevresinde, pembe tabanlardan yeşil uçlara geçiş yapan 12–14 etli kabuk yaprağı.
-Işığı kıran, içinde küçük kabarcıklar bulunan parlak ve ıslak bir yüzey ile yumuşak bir temas gölgesi.
-Malzeme sert plastik gibi değil, yumuşak jelibon gibi görünmeli. Aşırı patlamış parlak alanlar oluşturmadan doygun renkleri koruyun.
-
-FİZİK VE ETKİLEŞİM
-
-Elastik bağlantılara ve hacmi koruyan kısıtlamalara, örneğin XPBD'ye sahip hacimsel bir mesh kullanarak gerçek yumuşak cisim deformasyonu uygulayın.
-Kullanıcılar meyve etini fare veya parmakla tutup esnetebilmeli ve bırakabilmeli.
-Deformasyon, tüm nesneyi yalnızca ötelemek yerine, tutulan noktanın çevresinde yoğunlaşmalı.
-Bırakıldıktan sonra meyve sallanmalı, titreşmeli ve yavaşça özgün şekline dönmeli.
-Kabuk yapraklarını tek tek sürüklenebilir yapın. Meyve etinden daha yumuşak olmalı, meyveye bağlı kalırken bükülüp eski hâline dönmeliler.
-Çekirdekler, yüzey deforme olurken yüzeyi takip etmeli; havada süzülmemeli veya meyve etinin içine gömülmemeli.
-Güçlü çekişler sırasında zemine temas sağlayarak ve ters dönmüş elemanlara karşı koruma uygulayarak simülasyonu kararlı tutun.
-
-GÖRSEL TASARIM
-
-Editoryal estetiğe sahip, minimal ve açık temalı bir stüdyo arayüzü kullanın: bol beyaz alan, ince kenarlıklar, ölçülü kontroller ve gereksiz süslemeler olmasın.
-
-Sol üst:
-“MALZEME ÇALIŞMALARI / NO. 019”
-İki satırdan oluşan, büyük ve italik serif başlık:
-“Pitaya Jelly.”
-
-Bunun altında:
-“Biraz vahşi.”
-“Biraz tatlı.”
-“Çok yumuşak bir ejderha.”
-Sağa, içinde aşağıdaki öğelerin bulunduğu ve başlığı “NUMUNE” olan yüzen bir panel ekleyin:
-
-Yoğunluk rozeti: ρ 1.04 g/cm³.
-Üç hazır ayar:
-Pearl — beyaz meyve eti ve pembe kabuk.
-Ruby — frambuaz renkli meyve eti ve pembe kabuk.
-Gold — açık renkli meyve eti ve altın rengi kabuk.
-Değerleri görünür olan Sertlik ve İç sönümleme kaydırıcıları.
-“Bir dürtme ver” ve “Sıfırla” düğmeleri.
-
-“¼ hız” ve “Mesh'i göster” onay kutuları.
-
-Bir “Duraklat” düğmesi.
-Ayrıca şunları ekleyin:
-Çıkış seçeneği bulunan bir tam ekran düğmesi.
-Bir “WEBGPU · CANLI” durum göstergesi.
-Kütle, dinlenim hacmi yüzdesi ve kinetik enerji için canlı değer göstergeleri.
-Kısa bir etkileşim ipucu: “Meyve etini çek. Bir yaprağı çekiştir. Bırak.”
-Uygulamanın nasıl çalıştığını doğru biçimde açıklayan, daraltılıp genişletilebilen bir “Deneyin içi” bölümü.
-TEKNİK GEREKSİNİMLER
-pitaya-jelly-webgpu.html adlı, kendi başına çalışabilen tek bir dosya teslim edin.
-
-Canvas 2D taklidi yerine gerçek WebGPU ile oluşturma kullanın.
-
-Tüm geometriyi prosedürel olarak oluşturun.
-Kalınlığı hesaba katan kırılma, Fresnel yansımaları ve yumuşak stüdyo aydınlatması kullanın.
-Tutarlı davranış için sabit bir simülasyon zaman adımı kullanın.
-Duyarlı bir yerleşimle masaüstü ve dokunmatik etkileşimi destekleyin.
-Sürükleme sırasında maliyetli geometri yeniden oluşturma veya shader derlemesinden kaçının.
-
-WebGPU kullanılamadığında net bir geri dönüş mesajı gösterin.
-
-Sürükleme, bırakma, şeklin geri kazanılması, hazır ayarlar, sıfırlama, duraklatma, tam ekran ve mobil yerleşimi doğrulayın.
-Temel öncelikler inandırıcı jöle davranışı, güzel malzemeler ve tatmin edici etkileşimdir. Sonuç, özenle hazırlanmış ve oynanabilir bir malzeme deneyi hissi vermeli.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103432732386664591) · [Orijinal gönderi](https://x.com/vib3coded/status/2103433535604265052) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2103456264785424530"></a>
-
-### VRChat için kıyafet 3B modelleme
-
-[のわ〜る👼🍆🐄](https://x.com/Noir4247) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103456264785424530"><img src="../assets/previews/60090a53a9e0360367a1d5cba9481eec9d8360afd91640dfc431b8094207ae43.jpg" width="840" loading="lazy" alt="VRChat için kıyafet 3B modelleme"></a>
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103456264785424530"><img src="../assets/previews/dc0217bbe2b6526425252bd6e7bb1ba32317d9de5450561768507320ff81f20b.jpg" width="840" loading="lazy" alt="VRChat için kıyafet 3B modelleme"></a>
-
-Paylaşımı yapan kişi, ChatGPT ile oluşturduğu tasarım çizimini temel alarak “VRChat için bir kıyafet oluştur” talimatını verdiğini ve Astra’nın Blender’da kıyafeti modellediğini bildiriyor.
-
-**İstem**
-
-```text
-VRChat için bir kıyafet oluştur
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103456264785424530) · [Orijinal gönderi](https://x.com/Noir4247/status/2103456264785424530) · [Örneklere dön](#all-prompts)
-
----
 
 <a id="2103482826519986544"></a>
 
@@ -4053,6 +3944,86 @@ Subway Surfers'ı 2026'da piyasaya sürülmüş gibi yeniden oluştur. Tek bir o
 
 ---
 
+<a id="2117863398822342673"></a>
+
+### Koyunların Bulutlara Dönüştüğü Döngüsel 3B Animasyon
+
+[Regen](https://x.com/huqinyiyayuguan) · 2026-11-04
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/sheep-turning-into-clouds-3d-animation"><img src="../assets/previews/86d8b38be6cae582a9bf5fa0e733870e5e8b8bbbe8c6d2c2ebc2c26db367ce7c.jpg" width="840" loading="lazy" alt="Koyunların Bulutlara Dönüştüğü Döngüsel 3B Animasyon"></a>
+
+Yaklaşık 22 saniyelik, dikey formatta kesintisiz bir 3B animasyon oluşturun: düşük poligonlu oyuncak stilindeki beyaz koyunlar mavi ağıldan sıçrayarak çıkar ve bulutlara dönüşür, ardından tekrar ağıla inip yeniden koyun sürüsüne dönüşür. Animasyon aynı sahneyi ve kamera açısını korusun; sona ererken ilk kareye yakın bir kompozisyon ve hız yakalasın, böylece döngü halinde oynatılmaya uygun olsun.
+
+**İstem**
+
+```text
+Yaklaşık 22 saniye uzunluğunda, 3:4 dikey formatta ve 30 fps bir kesintisiz 3B animasyon oluşturun. Arka plan tamamen yüksek doygunluklu elektrik mavisi olsun. Görüntünün alt-orta bölümünde dairesel mavi bir koyun ağılı, beyaz çift yatay çubuklu bir çit ve sol ön tarafta sarı küçük bir kapı bulunsun. Mavi zeminde camgöbeği-mavi dairesel lekeler ve beyaz üçgen çim kümeleri yer alsın. Ağılda onlarca tombul beyaz koyun hafifçe hareket etsin; gövdeleri krem beyazı yumaklardan oluşsun ve siyah küçük yüzleri ile kısa bacakları bulunsun. Genel görünüm yuvarlatılmış düşük poligonlu mini bir oyuncak sahnesi olsun; yumuşak açık mavi gölgeler ve hafif bir parlama kullanılsın. Kamera yüksek bir konumdan eğik üstten baksın, kompozisyon neredeyse ortografik olsun ve bakış açısında yalnızca çok hafif, kesintisiz değişikliklere izin verilsin.
+
+0–1 saniye: Ağılı tamamen dolduran koyun sürüsünü gösterin; sarı kapı yavaşça dışarı doğru açılsın.
+1–4 saniye: İlk koyun grubu sol taraftaki kapıdan sırayla zıplayarak ağıldan çıksın ve kavis çizerek sol üst tarafa doğru yükselsin; siyah yüzleri ve bacakları giderek gizlensin, beyaz yünleri şişerek küçük bulut kümelerine dönüşsün.
+4–10 saniye: Arkadaki koyunlar aralıklı bir düzenle onları takip ederek yükselsin ve kabarık beyaz bulutlara dönüşsün; ağıl giderek boşalsın, üst bölümde farklı yoğunluklara ve boyutlara sahip, dengeli dağılmış beyaz bulut kümeleri oluşsun.
+10–14 saniye: Boş ağıl aşağıda sabit kalsın; beyaz bulutlar yukarıda yumuşakça süzülüp hafifçe dalgalansın, sahne değişmesin.
+14–19,5 saniye: Beyaz bulutlar birbiri ardına çitin içine insin; beyaz kümeler giderek küçülürken siyah yüzler ve kısa bacaklar yeniden ortaya çıksın ve bulutlar koyunlara dönüşsün. Yere indiklerinde hafifçe sekerek ağıldaki sürü yavaş yavaş yeniden oluşsun.
+19,5–21,4 saniye: Gökyüzü temizlensin, koyunlar doğal dağılımlarına dönsün ve sarı kapı yavaşça kapansın; görüntü ilk kareye yakın durumuna geri dönsün.
+
+Tüm süreç boyunca aynı arka planı, aynı ağıl yapısını, aynı koyun tasarımlarını ve renkleri koruyun. Hareketler yumuşak ve hafif olsun; grup hareketleri sıralı ilerlesin. Tek bir kesintisiz çekim kullanın; kesme, ani yakınlaşma veya uzaklaşma ve görüntü üzerinde metin olmasın. Başlangıç ve bitiş kompozisyonu ile hızını mümkün olduğunca eşleştirin; animasyon döngü halinde oynatılmaya uygun olsun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/sheep-turning-into-clouds-3d-animation) · [Orijinal gönderi](https://x.com/huqinyiyayuguan/status/2117863398822342673) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2117949666448883731"></a>
+
+### Oyuna hazır, kuş bacakları üzerinde Baba Yaga kulübesi
+
+[Max](https://x.com/maxt3chno) · 2026-11-04
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/baba-yaga-hut-rigged-game-model"><img src="../assets/previews/c7273ee1485637431e8bd46d72f85337335d63460119e2a4d66c5481ca5b5205.jpg" width="840" loading="lazy" alt="Oyuna hazır, kuş bacakları üzerinde Baba Yaga kulübesi"></a>
+
+Yazar, ekli görsel referanstan modellenmiş, oyuna hazır bir Baba Yaga kulübesi için Blender MCP istemi paylaştı. İstem; riglenmiş, pullu kuş bacakları üzerinde duran çarpık ahşap kulübeyi, doku ve üçgen bütçelerini, adlandırılmış nesneleri, çarpışma geometrisini, gömülü GLB ve Blend çıktılarını, ayrıca ayakta duruş ve adım pozu renderlarını tanımlıyor.
+
+**İstem**
+
+```text
+Blender MCP aracılığıyla Blender'ı kullanarak, ekli görseldeki dev kuş bacakları üzerinde duran kulübenin (ürpertici bir Baba Yaga kulübesi) oyuna hazır 3B modelini oluştur. Doğrudan Blender'da çalış: modeli oluştur, sonucu incele, referansla karşılaştır ve gerekli düzeltmeleri yap. Şekli, oranları, malzemeleri ve renkleri referansa mümkün olduğunca yakından uyarla. Görselin bulanık arka planını yok say; yalnızca kulübeyi modelle.
+
+Bu nedir: Gerçekçi bir tropik ada nişancı oyununda, iki dev pullu kuş bacağı üzerinde duran çarpık, çürümüş ahşap bir kulübe. Oyuncu kulübeyi yerden görür ve çevresinde dolaşır. Bacaklar yürüyebilmeli, çömelebilmeli ve ağırlık aktarabilmeli.
+
+Korunacak ayrıntılar:
+Ön tarafta, tepesinde kıvrık boynuz biçimli bir kanca bulunan küçük, yana eğilmiş bir kule; kenarları aşağı sarkan ve keskin, düzensiz uçlarla biten, üst üste binmiş koyu renkli kiremitlerden oluşan dik ve çarpık bir çatı; arkada uzun, dikenli bir üçgen alınlık.
+Üst üste çakılmış çürük, çarpık tahtalar; demir kuşaklar ve çiviler; diken gibi dışarı çıkan kırık tahtalar.
+Dar, turuncu ışık saçan pencere yarıkları.
+Kırmızı boyalı bir tabelası ve demir halkası bulunan kemerli bir kapı; kapıdan aşağı sarkan ip korkuluklu, çarpık tahta merdiven.
+Tuğla bir baca, yosun ve sarkan yosun şeritleri, duvarda yetişen küçük mantarlar.
+Halkalı paslı zincirler, ipe asılı kemik haç, kenarlardan sarkan yırtık koyu kırmızı kumaş şeritleri.
+Büyük diz eklemlerine, dört parmaklı ayaklara ve uzun, koyu renkli kıvrık pençelere sahip iki uzun pullu kuş bacağı.
+Gereksinimler:
+Gerçek dünya ölçeği: Ayakta durduğunda toplam yüksekliği yaklaşık 12 m, kulübenin uzunluğu yaklaşık 7 m. Origin, iki ayağın arasındaki zeminde olmalı. Kapı +Y yönüne bakmalı.
+Modeli nötr ayakta duruş pozunda oluştur: iki ayak da zeminde, bacaklar gövdenin altında düz olsun. Referanstaki adım pozu daha sonra rig ile oluşturulacak.
+Toplamda en fazla 60.000 üçgen. Pullar, ahşap damarları, çiviler ve boyalı tabelalar çoğunlukla dokularda ve normal map'te yer almalı. Dikenli silüet (kiremit uçları, kırık tahtalar, pençeler ve kuledeki kanca) geometriyle oluşturulmalı.
+Yosun şeritleri ve kumaş parçaları alpha-card düzlemleri olarak oluşturulmalı.
+2048 px'e kadar dokular: base colour, normal, roughness ve pencere yarıkları için emissive. En fazla 4 malzeme (ahşap ve çatı, bacaklar, zincir ve tılsımlı kumaş, pencereler).
+İskelet: "hut_rig" adlı tek bir armature: zeminde bir root kemiği ve bir body kemiği; kulübenin tamamı body kemiğiyle rijit olarak hareket etmeli;
+her bacak için şu zincir: thigh, shin, ankle, foot ve her parmak için bir kemik;
+bacaklarda temiz weight dağılımı bulunmalı; böylece bacaklar yırtılma olmadan bükülebilmeli.
+
+Nesneler:"hut": çatı, kule, merdiven ve bacayı içeren ev; body kemiğine parent edilmeli;
+"legs": her iki bacak; "hut_rig" ile skin edilmeli;
+"charms": oyunda sallanabilmeleri için zincirler, kemik haç ve kumaş şeritleri;
+"window_light_1", "window_light_2"...: ışık saçan her pencere yarığının içindeki empty nesneleri (ışıkları oyun ekleyecek);
+"collision": bacaklar ve kulübe gövdesi için basit, düşük poligonlu bir şekil; 500 üçgenden az olmalı ve renderlarda gizlenmeli.
+
+Çıktı:
+Tüm nesneleri, armature'ı ve gömülü dokuları içeren tek bir .glb dosyası.
+.blend dosyası.
+Düz bir arka planda renderlar: ayakta duruş pozunda önden görünüş ve üç çeyrek görünüş; ayrıca referanstaki adım pozunda (bir bacak kaldırılmış, pençeler öne uzanmış) rig'in çalıştığını gösterecek bir üç çeyrek görünüş.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/baba-yaga-hut-rigged-game-model) · [Orijinal gönderi](https://x.com/maxt3chno/status/2117950126077391316) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu
@@ -4268,7 +4239,7 @@ jared adına atıf yapılan yeni bir jelly-villa istemi yayımlayın; özgün ya
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 387 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 389 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

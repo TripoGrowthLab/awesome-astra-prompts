@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**387 · Prompt Astra mới nhất**
+**389 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -50,8 +50,6 @@
 <details>
 <summary>Khám phá ví dụ</summary>
 
-- [Thạch Pitaya](#2103432732386664591)
-- [Dựng mô hình 3D trang phục cho VRChat](#2103456264785424530)
 - [Tạo chuột lang trong Blender](#2103482826519986544)
 - [Vườn Nhật phong cách voxel trong Three.js](#2103486103831339269)
 - [Cảnh WebGL voxel tàu trong chai](#2103855977376125161)
@@ -147,120 +145,13 @@
 - [Thiết kế Charizard 3D](#2116960427628532011)
 - [Trực thăng chủ đề Mario chân thực trong Three.js](#2117235402100940908)
 - [Tái tạo Subway Surfers thành game HTML có thể chơi được ra mắt năm 2026](#2117354881950650743)
+- [Hoạt ảnh 3D vòng lặp: cừu hóa thành mây](#2117863398822342673)
+- [Túp lều Baba Yaga trên chân chim, sẵn sàng đưa vào game](#2117949666448883731)
 - [Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D](#red-light-green-light)
 - [Golden Miner: Game khai thác vàng 3D 24 cấp độ](#golden-miner)
 - [Biệt thự Thạch rau câu](#jelly-villa)
 
 </details>
-
-<a id="2103432732386664591"></a>
-
-### Thạch Pitaya
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103432732386664591"><img src="../assets/previews/7e480a4fe2b6b8dbe7c3cf58fb1b37907e4c7b12601559eec331eadf7080282a.jpg" width="840" loading="lazy" alt="Thạch Pitaya"></a>
-
-Prompt do tác giả chia sẻ dành cho GPT-6 Astra, nhằm tạo một thử nghiệm vật liệu thạch thanh long 3D tương tác trên trình duyệt. Prompt này mô tả hình học WebGPU dựng theo quy trình, vật liệu dạng kẹo dẻo trong mờ, biến dạng vật thể mềm, các cánh vỏ có thể kéo, hỗ trợ cảm ứng, preset, thông số mô phỏng và giao diện sáng theo phong cách studio.
-
-**Prompt**
-
-```text
-Tạo một cảnh 3D tương tác có tên “Pitaya Jelly” — một nửa quả thanh long làm từ thạch mềm, trong mờ. Xây dựng toàn bộ dự án trong một tệp HTML duy nhất bằng tính năng kết xuất WebGPU thực tế và shader WGSL. Không sử dụng mô hình dựng sẵn hoặc nội dung hình ảnh.
-
-APPEARANCE
-
-Một nửa quả thanh long lớn đặt trên bề mặt studio sáng màu, với mặt cắt hướng lên trên.
-Vỏ màu hồng phúc bồn tử đậm, lớp cùi trắng ngà mỏng bên trong và phần ruột trắng như ngọc trai.
-Khoảng 250 hạt đen nhỏ phân bố tự nhiên trên phần ruột.
-12–14 cánh vỏ mọng nước bao quanh quả, chuyển màu từ phần gốc hồng sang đầu xanh lục.
-Bề mặt bóng ướt với hiệu ứng khúc xạ ánh sáng, các bong bóng nhỏ bên trong và bóng tiếp xúc mềm.
-Vật liệu phải trông như kẹo dẻo mềm, không phải nhựa cứng. Giữ màu sắc bão hòa mà không để vùng sáng bị cháy.
-
-VẬT LÝ VÀ TƯƠNG TÁC
-
-Triển khai biến dạng soft-body thực tế bằng lưới thể tích với các liên kết đàn hồi và ràng buộc bảo toàn thể tích, chẳng hạn như XPBD.
-Người dùng có thể dùng chuột hoặc ngón tay để nắm phần ruột, kéo giãn rồi thả ra.
-Biến dạng phải tập trung quanh điểm bị nắm thay vì chỉ tịnh tiến toàn bộ vật thể.
-Sau khi thả, quả phải lắc lư, rung nhẹ và dần trở về hình dạng ban đầu.
-Cho phép kéo từng cánh vỏ riêng lẻ. Cánh vỏ phải mềm hơn phần ruột, có thể uốn cong và bật trở lại nhưng vẫn gắn với quả.
-Các hạt phải bám theo bề mặt đang biến dạng, không bay ra ngoài hoặc chìm vào phần ruột.
-Giữ mô phỏng ổn định khi kéo mạnh, bảo đảm tiếp xúc với sàn và ngăn các phần tử bị đảo ngược.
-
-THIẾT KẾ HÌNH ẢNH
-
-Sử dụng giao diện studio tối giản, tông sáng với phong cách biên tập: nhiều khoảng trắng, đường viền mảnh, các điều khiển tiết chế và không có chi tiết trang trí thừa.
-
-Góc trên bên trái:
-“NGHIÊN CỨU VẬT LIỆU / SỐ 019”
-Tiêu đề serif nghiêng cỡ lớn, hiển thị trên hai dòng:
-“Pitaya Jelly.”
-
-Bên dưới:
-“Một chút hoang dã.”
-“Một chút ngọt ngào.”
-“Một chú rồng cực mềm.”
-Ở bên phải, thêm một bảng nổi có tiêu đề “MẪU VẬT” và chứa:
-
-Nhãn mật độ: ρ 1.04 g/cm³.
-Ba thiết lập có sẵn:
-Pearl — ruột trắng và vỏ hồng.
-Ruby — ruột màu phúc bồn tử và vỏ hồng.
-Gold — ruột nhạt màu và vỏ vàng.
-Thanh trượt Độ cứng và Độ giảm chấn bên trong, kèm giá trị hiển thị.
-Các nút “Chạm nhẹ” và “Đặt lại”.
-
-Các ô chọn “¼ tốc độ” và “Hiện lưới”.
-
-Một nút “Tạm dừng”.
-Đồng thời bao gồm:
-Một nút toàn màn hình kèm tùy chọn thoát.
-Chỉ báo trạng thái “WEBGPU · LIVE”.
-Các chỉ số trực tiếp về khối lượng, phần trăm thể tích ở trạng thái nghỉ và động năng.
-Một gợi ý tương tác ngắn: “Kéo phần ruột. Kéo một cánh vỏ. Thả ra.”
-Một mục có thể thu gọn “Bên trong thí nghiệm” giải thích chính xác cách triển khai.
-YÊU CẦU KỸ THUẬT
-Bàn giao một tệp độc lập duy nhất có tên pitaya-jelly-webgpu.html.
-
-Sử dụng tính năng kết xuất WebGPU thực tế, không giả lập bằng Canvas 2D.
-
-Tạo toàn bộ hình học bằng phương pháp thủ tục.
-Sử dụng khúc xạ có xét đến độ dày, phản xạ Fresnel và ánh sáng studio mềm.
-Sử dụng bước thời gian mô phỏng cố định để hành vi nhất quán.
-Hỗ trợ tương tác trên máy tính và cảm ứng, với bố cục responsive.
-Tránh tái tạo hình học hoặc biên dịch shader tốn kém trong khi kéo.
-
-Hiển thị thông báo dự phòng rõ ràng khi WebGPU không khả dụng.
-
-Kiểm tra thao tác kéo, thả, khôi phục hình dạng, thiết lập có sẵn, đặt lại, tạm dừng, toàn màn hình và bố cục trên thiết bị di động.
-Các ưu tiên chính là hành vi giống thạch thuyết phục, vật liệu đẹp mắt và tương tác đã tay. Kết quả phải mang lại cảm giác như một thí nghiệm vật liệu được trau chuốt, có thể chơi và khám phá.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103432732386664591) · [Bài đăng gốc](https://x.com/vib3coded/status/2103433535604265052) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2103456264785424530"></a>
-
-### Dựng mô hình 3D trang phục cho VRChat
-
-[のわ〜る👼🍆🐄](https://x.com/Noir4247) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103456264785424530"><img src="../assets/previews/60090a53a9e0360367a1d5cba9481eec9d8360afd91640dfc431b8094207ae43.jpg" width="840" loading="lazy" alt="Dựng mô hình 3D trang phục cho VRChat"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103456264785424530"><img src="../assets/previews/dc0217bbe2b6526425252bd6e7bb1ba32317d9de5450561768507320ff81f20b.jpg" width="840" loading="lazy" alt="Dựng mô hình 3D trang phục cho VRChat"></a>
-
-Người đăng cho biết đã dựa trên bản thiết kế được tạo bằng ChatGPT, yêu cầu “Hãy tạo trang phục cho VRChat” và để Astra dựng mô hình trang phục bằng Blender.
-
-**Prompt**
-
-```text
-Hãy tạo trang phục cho VRChat
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103456264785424530) · [Bài đăng gốc](https://x.com/Noir4247/status/2103456264785424530) · [Về danh sách ví dụ](#all-prompts)
-
----
 
 <a id="2103482826519986544"></a>
 
@@ -4063,6 +3954,86 @@ Tái tạo Subway Surfers như thể game được ra mắt vào năm 2026. Tạ
 
 ---
 
+<a id="2117863398822342673"></a>
+
+### Hoạt ảnh 3D vòng lặp: cừu hóa thành mây
+
+[Regen](https://x.com/huqinyiyayuguan) · 2026-11-04
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/sheep-turning-into-clouds-3d-animation"><img src="../assets/previews/86d8b38be6cae582a9bf5fa0e733870e5e8b8bbbe8c6d2c2ebc2c26db367ce7c.jpg" width="840" loading="lazy" alt="Hoạt ảnh 3D vòng lặp: cừu hóa thành mây"></a>
+
+Tạo một hoạt ảnh 3D dọc liền mạch dài khoảng 22 giây: những chú cừu trắng phong cách đồ chơi low-poly nhảy ra khỏi chuồng cừu màu xanh rồi hóa thành mây, sau đó rơi trở lại chuồng và biến về thành đàn cừu. Giữ nguyên bối cảnh và góc máy, kết thúc với bố cục và tốc độ gần giống khung hình đầu để phù hợp phát lại vòng lặp.
+
+**Prompt**
+
+```text
+Tạo một hoạt ảnh 3D liền mạch dài khoảng 22 giây, khung hình dọc 3:4, 30fps. Nền xanh điện bão hòa cao thuần nhất; ở nửa dưới khung hình là một chuồng cừu tròn màu xanh, hàng rào trắng gồm hai thanh ngang và một cánh cổng nhỏ màu vàng ở phía trước bên trái. Sàn xanh có các đốm tròn xanh lơ và cụm cỏ hình tam giác màu trắng. Hàng chục chú cừu trắng tròn mũm mĩm khẽ chuyển động trong chuồng, cơ thể tạo thành từ các khối cầu màu trắng kem, với khuôn mặt nhỏ màu đen và chân ngắn. Tổng thể là một cảnh đồ chơi mini low-poly bo tròn, bóng đổ xanh nhạt mềm mại và hiệu ứng phát sáng nhẹ, góc máy cao nhìn chếch xuống, bố cục gần chính giao, chỉ cho phép góc nhìn thay đổi rất nhẹ và liên tục.
+
+0 đến 1 giây: Dựng đàn cừu kín chuồng, cánh cổng vàng từ từ mở hướng ra ngoài.
+1 đến 4 giây: Lần lượt từng nhóm cừu đầu tiên bật nhảy ra khỏi cổng bên trái, bay lên theo một đường cong về phía trên bên trái; khuôn mặt đen và chân dần khuất đi, lông cừu trắng phồng lên thành những đám mây nhỏ.
+4 đến 10 giây: Những chú cừu phía sau lần lượt bay lên theo nhịp lệch nhau và hóa thành các đám mây trắng bồng bềnh; chuồng cừu dần trống, phía trên hình thành một cụm mây trắng có mật độ hài hòa và kích thước đa dạng.
+10 đến 14 giây: Chuồng cừu trống vẫn ở bên dưới, các đám mây trắng nhẹ nhàng trôi và phập phồng phía trên, không chuyển cảnh.
+14 đến 19.5 giây: Từng đám mây trắng lần lượt rơi trở lại bên trong hàng rào; các khối trắng dần thu nhỏ, để lộ lại khuôn mặt đen và chân ngắn, biến trở về thành cừu; sau khi tiếp đất, chúng nảy nhẹ, đàn cừu trong chuồng dần khôi phục.
+19.5 đến 21.4 giây: Bầu trời trở nên quang đãng, đàn cừu trở về trạng thái phân bố tự nhiên, cánh cổng vàng từ từ đóng lại, khung hình khôi phục gần giống trạng thái ban đầu.
+
+Trong suốt quá trình, giữ nguyên nền, cấu trúc chuồng cừu, kiểu dáng và màu sắc của đàn cừu; chuyển động mềm mại, nhẹ nhàng, các chuyển động theo nhóm diễn ra tuần tự. Chỉ dùng một cú máy liền mạch, không cắt cảnh, không đột ngột zoom vào hoặc zoom ra, không chèn chữ trên hình. Cố gắng khớp bố cục và tốc độ ở đầu-cuối để phù hợp phát lại vòng lặp.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/sheep-turning-into-clouds-3d-animation) · [Bài đăng gốc](https://x.com/huqinyiyayuguan/status/2117863398822342673) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2117949666448883731"></a>
+
+### Túp lều Baba Yaga trên chân chim, sẵn sàng đưa vào game
+
+[Max](https://x.com/maxt3chno) · 2026-11-04
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/baba-yaga-hut-rigged-game-model"><img src="../assets/previews/c7273ee1485637431e8bd46d72f85337335d63460119e2a4d66c5481ca5b5205.jpg" width="840" loading="lazy" alt="Túp lều Baba Yaga trên chân chim, sẵn sàng đưa vào game"></a>
+
+Tác giả đã chia sẻ một prompt Blender MCP để dựng túp lều Baba Yaga sẵn sàng đưa vào game, dựa trên ảnh tham chiếu đính kèm. Prompt yêu cầu một túp lều gỗ xiêu vẹo trên đôi chân chim có vảy được rigging, kèm ngân sách kết cấu bề mặt và số tam giác, các đối tượng được đặt tên, hình học va chạm, tệp GLB và Blend có nhúng dữ liệu, cùng các bản render ở tư thế đứng và bước đi.
+
+**Prompt**
+
+```text
+Sử dụng Blender thông qua Blender MCP, hãy tạo mô hình 3D sẵn sàng đưa vào game của túp lều trên đôi chân chim khổng lồ trong ảnh đính kèm (một túp lều Baba Yaga đáng sợ). Làm việc trực tiếp trong Blender: dựng mô hình, quan sát kết quả, so sánh với ảnh tham chiếu rồi chỉnh sửa. Cố gắng khớp ảnh tham chiếu sát nhất có thể về hình dáng, tỷ lệ, vật liệu và màu sắc. Bỏ qua phần nền bị làm mờ của ảnh, chỉ dựng túp lều.
+
+Đặc điểm: một túp lều gỗ xiêu vẹo, mục nát, đứng trên hai chân chim khổng lồ phủ vảy, trong một game bắn súng đảo nhiệt đới có phong cách chân thực. Người chơi nhìn thấy nó từ mặt đất và đi vòng quanh. Hai chân phải có thể chuyển động: bước đi, khom người, dồn trọng tâm.
+
+Các chi tiết cần giữ lại:
+Một tháp nhỏ nghiêng ở phía trước, trên đỉnh có móc cong như sừng; mái dốc xiêu vẹo lợp các tấm ván lợp màu tối chồng lên nhau, mép mái rủ thấp và kết thúc bằng những đầu nhọn xơ xác; một đầu hồi phía sau cao, tua tủa.
+Các tấm ván mục nát, xiêu vẹo đóng chồng lên nhau, đai sắt và đinh, những tấm ván gãy nhô ra như gai.
+Các khe cửa sổ hẹp phát sáng màu cam.
+Một cánh cửa vòm có biển sơn màu đỏ và vòng sắt, cùng một cầu thang ván xiêu vẹo với lan can dây thừng buông xuống.
+Một ống khói bằng gạch, rêu và các sợi rêu rủ xuống, những cây nấm nhỏ mọc trên tường.
+Các sợi xích gỉ có vòng, một cây thánh giá bằng xương treo trên dây thừng, những dải vải màu đỏ sẫm rách tả tơi rủ xuống từ các mép.
+Hai chân chim dài phủ vảy, với khớp gối lớn, bàn chân bốn ngón và các móng vuốt dài, cong, màu tối.
+Yêu cầu:
+Tỷ lệ theo kích thước thực: tổng chiều cao khoảng 12 m khi đứng, túp lều dài khoảng 7 m. Gốc tọa độ nằm trên mặt đất, giữa hai bàn chân. Cửa hướng về +Y.
+Dựng ở tư thế đứng trung tính: cả hai bàn chân chạm đất, hai chân duỗi thẳng bên dưới thân. Tư thế bước đi trong ảnh tham chiếu sẽ được tạo sau bằng rig.
+Tổng cộng tối đa 60.000 tam giác. Phần vảy, thớ gỗ, đinh và biển sơn chủ yếu thể hiện trong kết cấu bề mặt và normal map. Đường nét tua tủa của hình khối (đầu tấm ván lợp, ván gãy, móng vuốt và móc trên tháp) phải được thể hiện bằng hình học.
+Các sợi rêu và dải vải dùng các mặt phẳng alpha-card.
+Kết cấu bề mặt tối đa 2048 px: base color, normal, roughness và emissive cho các khe cửa sổ. Tối đa 4 vật liệu (gỗ và mái, chân, vải cùng xích và bùa, cửa sổ).
+Bộ xương: một armature duy nhất có tên "hut_rig" với: một xương gốc trên mặt đất và một xương thân; toàn bộ túp lều chuyển động cứng theo xương thân;
+mỗi chân có một chuỗi gồm: đùi, cẳng chân, cổ chân, bàn chân và một xương cho mỗi ngón;
+trọng số sạch trên hai chân để chúng có thể gập mà không bị rách hình học.
+
+Các đối tượng:"hut": phần nhà gồm mái, tháp, cầu thang và ống khói, được parent vào xương thân;
+"legs": cả hai chân, được skin vào "hut_rig";
+"charms": xích, cây thánh giá bằng xương và các dải vải, để chúng có thể đung đưa trong game;
+"window_light_1", "window_light_2"...: các empty bên trong từng khe cửa sổ phát sáng (game sẽ thêm đèn);
+"collision": hình dạng low-poly đơn giản cho phần chân và thân túp lều, dưới 500 tam giác, ẩn trong các bản render.
+
+Đầu ra:
+Một tệp .glb chứa toàn bộ đối tượng, armature và kết cấu bề mặt được nhúng.
+Tệp .blend.
+Các bản render trên nền trơn: góc nhìn chính diện và góc nhìn ba phần tư ở tư thế đứng, cùng một góc nhìn ba phần tư ở tư thế bước đi trong ảnh tham chiếu (một chân nhấc lên, móng vuốt hướng về phía trước), để cho thấy rig hoạt động đúng.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/baba-yaga-hut-rigged-game-model) · [Bài đăng gốc](https://x.com/maxt3chno/status/2117950126077391316) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D
@@ -4278,7 +4249,7 @@ Xuất bản prompt jelly-villa mới, ghi công jared, ghi tác giả gốc tro
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 387 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 389 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>
