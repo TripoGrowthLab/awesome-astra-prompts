@@ -29,7 +29,7 @@
 
 探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。
 
-**389 条案例 · 14 种语言 · 12 条附项目源码**
+**390 条案例 · 14 种语言 · 12 条附项目源码**
 
 ## 精选作品
 
@@ -51,7 +51,6 @@
 <details>
 <summary>浏览案例</summary>
 
-- [在 Blender 中制作豚鼠](#2103482826519986544)
 - [Three.js 体素风日式庭园](#2103486103831339269)
 - [瓶中体素帆船 WebGL 场景](#2103855977376125161)
 - [森林湖畔村庄环境](#2103860776419111285)
@@ -148,31 +147,12 @@
 - [将 Subway Surfers 重制为一款 2026 年可玩的 HTML 游戏](#2117354881950650743)
 - [绵羊变云朵的循环三维动画](#2117863398822342673)
 - [可用于游戏的鸟腿芭芭雅嘎小屋](#2117949666448883731)
+- [互动式《After Hours》收藏票](#2118332979030208748)
 - [一二三，木头人：3D 生存游戏](#red-light-green-light)
 - [黄金矿工：24 关 3D 挖矿游戏](#golden-miner)
 - [果冻别墅](#jelly-villa)
 
 </details>
-
-<a id="2103482826519986544"></a>
-
-### 在 Blender 中制作豚鼠
-
-[かよこ](https://x.com/kayokojoe) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103482826519986544"><img src="assets/previews/34127219152b8602865f0daa82890936efe4c212c105901ec6f6c98503b4e98e.jpg" width="840" loading="lazy" alt="在 Blender 中制作豚鼠"></a>
-
-投稿者请求 Codex（GPT-6 Astra High）在未提供照片的情况下制作豚鼠的提示词。
-
-**提示词**
-
-```text
-在 Blender 中制作一只豚鼠
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103482826519986544) · [查看原帖](https://x.com/kayokojoe/status/2103482826519986544) · [返回案例导航](#all-prompts)
-
----
 
 <a id="2103486103831339269"></a>
 
@@ -4034,6 +4014,38 @@ UI 与城市画面应形成适当对比，但不能过度抢眼。
 
 ---
 
+<a id="2118332979030208748"></a>
+
+### 互动式《After Hours》收藏票
+
+[M1shacle](https://x.com/M1shacl3) · 2026-11-05
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/night-city-interactive-collectible-ticket"><img src="assets/previews/1a3fa6c635f9aaa00faa5fa162a04001b48b73dbd17f5859e0a5579ae78a2625.jpg" width="840" loading="lazy" alt="互动式《After Hours》收藏票"></a>
+
+制作一张具有实体质感的收藏票，票面呈现一座动态的夜间城市。互动体验会随光标倾斜，点击后翻面，并包含程序化艺术、移动端触控支持、减少动态效果和 PNG 导出功能。
+
+**提示词**
+
+```text
+创建一张互动式夜间收藏票，品牌名为“M1shacl3”，标题为“After Hours”。
+
+让它具有真实纸质物件的质感：纹理奶油色纸张、打孔边缘、可撕票根、醒目的字体、条形码，以及细腻的全息箔效果。
+
+在票面内部构建一座动态的夜间城市，包含雨景、发光的窗户、驶过的列车、一弯新月，以及窗台上的猫。使用深海军蓝、暖琥珀色和柔和的虹彩色彩。
+
+票面应随光标轻柔倾斜，捕捉不断变化的高光，并在点击后翻面。设计细节丰富的背面，并加入短句“Somewhere between ideas & sleep.”
+
+使用 HTML、CSS、原生 JavaScript、Canvas 2D 和 WebGL 着色器。以程序化方式生成艺术内容。
+
+加入暂停、可选的雨声音频、全屏和 PNG 导出功能。支持移动端触控和减少动态效果。
+
+优先保证优美的构图、逼真的材质和流畅克制的动画。交付一套完整且可正常运行的体验。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/night-city-interactive-collectible-ticket) · [查看原帖](https://x.com/M1shacl3/status/2118333385579876524) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### 一二三，木头人：3D 生存游戏
@@ -4249,7 +4261,7 @@ UI 与城市画面应形成适当对比，但不能过度抢眼。
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 389 条案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 390 条案例 →</a></strong></p>
 <p><sub>为保持 GitHub README 渲染流畅，这里仅展示最新 100 条案例。</sub></p>
 <br>
 </td></tr>

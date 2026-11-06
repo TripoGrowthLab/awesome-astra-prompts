@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**389 · Prompt Astra mới nhất**
+**390 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Khám phá ví dụ</summary>
 
-- [Tạo chuột lang trong Blender](#2103482826519986544)
 - [Vườn Nhật phong cách voxel trong Three.js](#2103486103831339269)
 - [Cảnh WebGL voxel tàu trong chai](#2103855977376125161)
 - [Môi trường làng ven hồ giữa rừng](#2103860776419111285)
@@ -147,31 +146,12 @@
 - [Tái tạo Subway Surfers thành game HTML có thể chơi được ra mắt năm 2026](#2117354881950650743)
 - [Hoạt ảnh 3D vòng lặp: cừu hóa thành mây](#2117863398822342673)
 - [Túp lều Baba Yaga trên chân chim, sẵn sàng đưa vào game](#2117949666448883731)
+- [Vé sưu tầm tương tác: Đêm muộn](#2118332979030208748)
 - [Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D](#red-light-green-light)
 - [Golden Miner: Game khai thác vàng 3D 24 cấp độ](#golden-miner)
 - [Biệt thự Thạch rau câu](#jelly-villa)
 
 </details>
-
-<a id="2103482826519986544"></a>
-
-### Tạo chuột lang trong Blender
-
-[かよこ](https://x.com/kayokojoe) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103482826519986544"><img src="../assets/previews/34127219152b8602865f0daa82890936efe4c212c105901ec6f6c98503b4e98e.jpg" width="840" loading="lazy" alt="Tạo chuột lang trong Blender"></a>
-
-Prompt yêu cầu Codex（GPT-6 Astra High）tạo chuột lang mà không cung cấp ảnh tham chiếu.
-
-**Prompt**
-
-```text
-Tạo chuột lang trong Blender
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103482826519986544) · [Bài đăng gốc](https://x.com/kayokojoe/status/2103482826519986544) · [Về danh sách ví dụ](#all-prompts)
-
----
 
 <a id="2103486103831339269"></a>
 
@@ -4034,6 +4014,38 @@ Các bản render trên nền trơn: góc nhìn chính diện và góc nhìn ba 
 
 ---
 
+<a id="2118332979030208748"></a>
+
+### Vé sưu tầm tương tác: Đêm muộn
+
+[M1shacle](https://x.com/M1shacl3) · 2026-11-05
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/night-city-interactive-collectible-ticket"><img src="../assets/previews/1a3fa6c635f9aaa00faa5fa162a04001b48b73dbd17f5859e0a5579ae78a2625.jpg" width="840" loading="lazy" alt="Vé sưu tầm tương tác: Đêm muộn"></a>
+
+Tạo một chiếc vé sưu tầm trông như thật, bên trong là khung cảnh thành phố về đêm chuyển động. Trải nghiệm tương tác nghiêng theo con trỏ, lật khi nhấp và có hình minh họa tạo bằng thuật toán, hỗ trợ chạm trên thiết bị di động, giảm chuyển động và xuất PNG.
+
+**Prompt**
+
+```text
+Tạo một chiếc vé đêm sưu tầm có tính tương tác, mang thương hiệu “M1shacl3” và tiêu đề “After Hours”.
+
+Tạo cảm giác như một vật phẩm bằng giấy thật: giấy màu kem có vân, mép đục lỗ, cuống vé có thể xé rời, kiểu chữ đậm, mã vạch và lớp nhũ ba chiều tinh tế.
+
+Bên trong vé, dựng một thành phố về đêm chuyển động với mưa, cửa sổ sáng đèn, tàu chạy ngang qua, trăng lưỡi liềm và một chú mèo trên bậu cửa sổ. Dùng xanh navy đậm, màu hổ phách ấm và các sắc óng ánh dịu nhẹ.
+
+Vé khẽ nghiêng theo con trỏ, bắt những vệt sáng thay đổi và lật khi nhấp. Thiết kế mặt sau thật chi tiết, kèm câu “Somewhere between ideas & sleep.”
+
+Sử dụng HTML, CSS, JavaScript thuần, Canvas 2D và shader WebGL. Tạo hình minh họa bằng thuật toán.
+
+Thêm nút tạm dừng, âm thanh mưa tùy chọn, chế độ toàn màn hình và chức năng xuất PNG. Hỗ trợ thao tác chạm trên thiết bị di động và chế độ giảm chuyển động.
+
+Ưu tiên bố cục đẹp mắt, chất liệu chân thực và chuyển động mượt mà, tiết chế. Hoàn thiện trải nghiệm để có thể sử dụng trọn vẹn.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/night-city-interactive-collectible-ticket) · [Bài đăng gốc](https://x.com/M1shacl3/status/2118333385579876524) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D
@@ -4249,7 +4261,7 @@ Xuất bản prompt jelly-villa mới, ghi công jared, ghi tác giả gốc tro
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 389 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 390 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

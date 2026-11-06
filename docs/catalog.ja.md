@@ -28,7 +28,7 @@
 **次のゲーム、シーン、インタラクティブな世界づくりのヒントに。**
 
 
-**389 · 最新の Astra プロンプト**
+**390 · 最新の Astra プロンプト**
 
 ## 注目の作品
 
@@ -50,7 +50,6 @@
 <details>
 <summary>作例を見る</summary>
 
-- [Blenderでモルモットを作成](#2103482826519986544)
 - [Three.jsで作るボクセル風の日本庭園](#2103486103831339269)
 - [ボクセルのボトルシップ WebGLシーン](#2103855977376125161)
 - [森に囲まれた湖畔の村の環境](#2103860776419111285)
@@ -147,31 +146,12 @@
 - [Subway Surfersを2026年版のプレイ可能なHTMLゲームとして再現する](#2117354881950650743)
 - [羊が雲に変わるループ3Dアニメーション](#2117863398822342673)
 - [ゲーム用に仕上げた鳥脚のバーバ・ヤーガの小屋](#2117949666448883731)
+- [インタラクティブな夜更けのコレクタブルチケット](#2118332979030208748)
 - [Red Light, Green Light：3Dサバイバルゲーム](#red-light-green-light)
 - [Golden Miner：全24レベルの3D採掘ゲーム](#golden-miner)
 - [ジェリー・ヴィラ](#jelly-villa)
 
 </details>
-
-<a id="2103482826519986544"></a>
-
-### Blenderでモルモットを作成
-
-[かよこ](https://x.com/kayokojoe) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2103482826519986544"><img src="../assets/previews/34127219152b8602865f0daa82890936efe4c212c105901ec6f6c98503b4e98e.jpg" width="840" loading="lazy" alt="Blenderでモルモットを作成"></a>
-
-投稿者がCodex（GPT-6 Astra High）に、写真を見せずにモルモットの作成を依頼したプロンプト。
-
-**プロンプト**
-
-```text
-Blenderでモルモットを作って
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2103482826519986544) · [元の投稿](https://x.com/kayokojoe/status/2103482826519986544) · [作例一覧に戻る](#all-prompts)
-
----
 
 <a id="2103486103831339269"></a>
 
@@ -4033,6 +4013,38 @@ Blender MCPを使ってBlender上で、添付画像にある巨大な鳥の脚�
 
 ---
 
+<a id="2118332979030208748"></a>
+
+### インタラクティブな夜更けのコレクタブルチケット
+
+[M1shacle](https://x.com/M1shacl3) · 2026-11-05
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/night-city-interactive-collectible-ticket"><img src="../assets/previews/1a3fa6c635f9aaa00faa5fa162a04001b48b73dbd17f5859e0a5579ae78a2625.jpg" width="840" loading="lazy" alt="インタラクティブな夜更けのコレクタブルチケット"></a>
+
+夜の街がアニメーションする、実物のようなコレクタブルチケットを作成します。カーソルに合わせて傾き、クリックで裏返るインタラクティブな体験です。プロシージャルアート、モバイルのタッチ操作、動きを抑える設定、PNG書き出しに対応します。
+
+**プロンプト**
+
+```text
+「M1shacl3」ブランドの、インタラクティブな夜のコレクタブルチケットを作成してください。タイトルは「After Hours」です。
+
+質感のあるクリーム色の紙、ミシン目の入った縁、切り離せる半券、大胆なタイポグラフィ、バーコード、控えめなホログラム箔を使い、実物の紙チケットのように仕上げてください。
+
+チケットの内側には、雨、明かりの灯る窓、通り過ぎる電車、三日月、窓辺の猫が登場する、アニメーション付きの夜の街を描いてください。深いネイビー、温かみのあるアンバー、柔らかな虹色を使います。
+
+チケットはカーソルに合わせてゆるやかに傾き、光のハイライトが移ろい、クリックで裏返るようにしてください。裏面も細部までデザインし、「Somewhere between ideas & sleep.」のフレーズを入れてください。
+
+HTML、CSS、バニラJavaScript、Canvas 2D、WebGLシェーダーを使用してください。アートワークはプロシージャルに生成します。
+
+一時停止、任意で再生できる雨音、全画面表示、PNG書き出しを追加してください。モバイルのタッチ操作と、動きを抑える設定にも対応してください。
+
+美しい構図、リアルな素材感、滑らかで控えめなアニメーションを優先してください。完全に動作する体験として仕上げてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/night-city-interactive-collectible-ticket) · [元の投稿](https://x.com/M1shacl3/status/2118333385579876524) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Red Light, Green Light：3Dサバイバルゲーム
@@ -4248,7 +4260,7 @@ jaredのクレジットを付けた新しいjelly-villaプロンプトを公開�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 389 件の作例を公式サイトで見る →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 390 件の作例を公式サイトで見る →</a></strong></p>
 <p><sub>GitHub README をスムーズに表示するため、ここでは最新の作例 100 件のみを掲載しています。</sub></p>
 <br>
 </td></tr>

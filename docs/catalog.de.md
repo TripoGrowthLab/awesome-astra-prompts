@@ -28,7 +28,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**389 · Neueste Astra-Prompts**
+**390 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Beispiele ansehen</summary>
 
-- [Meerschweinchen in Blender erstellen](#2103482826519986544)
 - [Voxel-Garten im japanischen Stil mit Three.js](#2103486103831339269)
 - [Voxel-WebGL-Szene: Schiff in einer Flasche](#2103855977376125161)
 - [Waldsee-Dorfumgebung](#2103860776419111285)
@@ -147,31 +146,12 @@
 - [Subway Surfers als spielbares HTML-Spiel von 2026 neu umsetzen](#2117354881950650743)
 - [Loopende 3D-Animation: Schafe verwandeln sich in Wolken](#2117863398822342673)
 - [Game-Ready-Baba-Yaga-Hütte auf Vogelbeinen](#2117949666448883731)
+- [Interaktives After-Hours-Sammlerticket](#2118332979030208748)
 - [Rot, grünes Licht: 3D-Survival-Game](#red-light-green-light)
 - [Golden Miner: 3D-Bergbauspiel mit 24 Levels](#golden-miner)
 - [Jelly-Villa](#jelly-villa)
 
 </details>
-
-<a id="2103482826519986544"></a>
-
-### Meerschweinchen in Blender erstellen
-
-[かよこ](https://x.com/kayokojoe) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2103482826519986544"><img src="../assets/previews/34127219152b8602865f0daa82890936efe4c212c105901ec6f6c98503b4e98e.jpg" width="840" loading="lazy" alt="Meerschweinchen in Blender erstellen"></a>
-
-Prompt, mit dem der Ersteller Codex (GPT-6 Astra High) auffordert, ein Meerschweinchen zu erstellen, ohne ihm ein Foto zu zeigen.
-
-**Prompt**
-
-```text
-Erstelle ein Meerschweinchen in Blender
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2103482826519986544) · [Originalbeitrag](https://x.com/kayokojoe/status/2103482826519986544) · [Zurück zu den Beispielen](#all-prompts)
-
----
 
 <a id="2103486103831339269"></a>
 
@@ -4024,6 +4004,38 @@ Renderings vor einem schlichten Hintergrund: eine Vorderansicht und eine Dreivie
 
 ---
 
+<a id="2118332979030208748"></a>
+
+### Interaktives After-Hours-Sammlerticket
+
+[M1shacle](https://x.com/M1shacl3) · 2026-11-05
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/night-city-interactive-collectible-ticket"><img src="../assets/previews/1a3fa6c635f9aaa00faa5fa162a04001b48b73dbd17f5859e0a5579ae78a2625.jpg" width="840" loading="lazy" alt="Interaktives After-Hours-Sammlerticket"></a>
+
+Erstelle ein realistisch wirkendes Sammlerticket mit einer animierten nächtlichen Stadt. Die interaktive Gestaltung neigt sich mit dem Cursor, wendet sich beim Klicken und bietet prozedurale Grafiken, Touch-Unterstützung für Mobilgeräte, reduzierte Bewegung und PNG-Export.
+
+**Prompt**
+
+```text
+Erstelle ein interaktives Sammler-Nachtticket mit dem Branding „M1shacl3“ und dem Titel „After Hours“.
+
+Lass es wie ein echtes Papierobjekt wirken: strukturiertes cremefarbenes Papier, perforierte Kanten, einen abtrennbaren Abriss, markante Typografie, einen Barcode und eine dezente holografische Folienveredelung.
+
+Gestalte im Ticket eine animierte nächtliche Stadt mit Regen, leuchtenden Fenstern, einem vorbeifahrenden Zug, einer Mondsichel und einer Katze auf einer Fensterbank. Verwende tiefes Marineblau, warmes Bernstein und sanfte irisierende Farben.
+
+Das Ticket soll sich sanft mit dem Cursor neigen, wechselnde Lichtreflexe einfangen und sich beim Klicken wenden. Gestalte eine detaillierte Rückseite mit dem Satz „Somewhere between ideas & sleep.“
+
+Verwende HTML, CSS, Vanilla JavaScript, Canvas 2D und WebGL-Shader. Erzeuge die Grafiken prozedural.
+
+Füge eine Pausefunktion, optionalen Regenton, Vollbild und PNG-Export hinzu. Unterstütze Touch-Eingaben auf Mobilgeräten und reduzierte Bewegung.
+
+Setze auf eine schöne Komposition, überzeugende Materialien und eine flüssige, zurückhaltende Animation. Liefere ein vollständiges, funktionierendes Erlebnis.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/night-city-interactive-collectible-ticket) · [Originalbeitrag](https://x.com/M1shacl3/status/2118333385579876524) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Rot, grünes Licht: 3D-Survival-Game
@@ -4239,7 +4251,7 @@ Einen neuen Jelly-Villa-Prompt mit Credit für jared veröffentlichen, den urspr
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 389 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 390 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>

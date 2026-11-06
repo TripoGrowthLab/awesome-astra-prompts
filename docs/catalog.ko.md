@@ -28,7 +28,7 @@
 **다음 게임, 장면, 인터랙티브 세계를 위한 아이디어를 찾아보세요.**
 
 
-**389 · 최신 Astra 프롬프트**
+**390 · 최신 Astra 프롬프트**
 
 ## 추천 작품
 
@@ -50,7 +50,6 @@
 <details>
 <summary>사례 둘러보기</summary>
 
-- [Blender에서 기니피그 만들기](#2103482826519986544)
 - [Three.js로 구현한 복셀 스타일 일본식 정원](#2103486103831339269)
 - [복셀 병 속의 배 WebGL 장면](#2103855977376125161)
 - [숲속 호수 마을 환경](#2103860776419111285)
@@ -147,31 +146,12 @@
 - [Subway Surfers를 2026년 출시작으로 재현한 플레이 가능한 HTML 게임](#2117354881950650743)
 - [양이 구름으로 변하는 루프 3D 애니메이션](#2117863398822342673)
 - [게임용 바바 야가 오두막과 새 다리](#2117949666448883731)
+- [인터랙티브 심야 기념 티켓](#2118332979030208748)
 - [무궁화꽃이 피었습니다: 3D 서바이벌 게임](#red-light-green-light)
 - [Golden Miner: 24레벨 3D 채굴 게임](#golden-miner)
 - [젤리 빌라](#jelly-villa)
 
 </details>
-
-<a id="2103482826519986544"></a>
-
-### Blender에서 기니피그 만들기
-
-[かよこ](https://x.com/kayokojoe) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103482826519986544"><img src="../assets/previews/34127219152b8602865f0daa82890936efe4c212c105901ec6f6c98503b4e98e.jpg" width="840" loading="lazy" alt="Blender에서 기니피그 만들기"></a>
-
-게시자가 사진을 보여주지 않고 Codex（GPT-6 Astra High）에 기니피그 제작을 요청한 프롬프트입니다.
-
-**프롬프트**
-
-```text
-Blender에서 기니피그를 만들어 줘
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103482826519986544) · [원본 게시물](https://x.com/kayokojoe/status/2103482826519986544) · [사례 목록으로](#all-prompts)
-
----
 
 <a id="2103486103831339269"></a>
 
@@ -4024,6 +4004,38 @@ Blender MCP를 통해 Blender에서 첨부 이미지 속 거대한 새 다리 �
 
 ---
 
+<a id="2118332979030208748"></a>
+
+### 인터랙티브 심야 기념 티켓
+
+[M1shacle](https://x.com/M1shacl3) · 2026-11-05
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/night-city-interactive-collectible-ticket"><img src="../assets/previews/1a3fa6c635f9aaa00faa5fa162a04001b48b73dbd17f5859e0a5579ae78a2625.jpg" width="840" loading="lazy" alt="인터랙티브 심야 기념 티켓"></a>
+
+애니메이션으로 구현한 야경을 담은, 실물 같은 기념 티켓을 만들어 보세요. 커서 움직임에 따라 기울고 클릭하면 뒤집히며, 절차적으로 생성한 아트워크와 모바일 터치 지원, 모션 감소 옵션, PNG 내보내기를 포함합니다.
+
+**프롬프트**
+
+```text
+“M1shacl3” 브랜드의 인터랙티브 심야 기념 티켓을 만들어 주세요. 제목은 “After Hours”입니다.
+
+질감이 살아 있는 크림색 종이, 천공 가장자리, 떼어낼 수 있는 절취선, 굵직한 타이포그래피, 바코드, 은은한 홀로그램 포일을 사용해 실물 종이 티켓처럼 표현해 주세요.
+
+티켓 안에는 비 내리는 밤의 도시를 애니메이션으로 구현해 주세요. 빛나는 창문, 지나가는 열차, 초승달, 창턱에 앉은 고양이를 넣어 주세요. 짙은 네이비와 따뜻한 앰버, 은은한 무지갯빛 색상을 사용해 주세요.
+
+커서 움직임에 따라 티켓이 부드럽게 기울고, 빛 반사가 움직이며, 클릭하면 뒤집히도록 해 주세요. 뒷면은 “Somewhere between ideas & sleep.” 문구를 넣어 세밀하게 디자인해 주세요.
+
+HTML, CSS, 바닐라 JavaScript, Canvas 2D, WebGL 셰이더를 사용해 주세요. 아트워크는 절차적으로 생성해 주세요.
+
+일시 정지, 선택형 빗소리, 전체 화면, PNG 내보내기 기능을 추가해 주세요. 모바일 터치와 모션 감소 설정도 지원해 주세요.
+
+아름다운 구도와 설득력 있는 재질 표현, 부드럽고 절제된 애니메이션을 우선해 주세요. 완성된 상태로 작동하는 경험을 만들어 주세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/night-city-interactive-collectible-ticket) · [원본 게시물](https://x.com/M1shacl3/status/2118333385579876524) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### 무궁화꽃이 피었습니다: 3D 서바이벌 게임
@@ -4239,7 +4251,7 @@ jared를 크레딧으로 표시한 새 jelly-villa 프롬프트를 게시하고,
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 389개 보기 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 390개 보기 →</a></strong></p>
 <p><sub>GitHub README가 원활하게 렌더링되도록 최신 사례 100개만 표시합니다.</sub></p>
 <br>
 </td></tr>

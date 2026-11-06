@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**389 · En yeni Astra istemleri**
+**390 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Örnekleri keşfet</summary>
 
-- [Blender'da kobay oluştur](#2103482826519986544)
 - [Three.js'te voxel tarzı Japon bahçesi](#2103486103831339269)
 - [Şişede voksel gemi WebGL sahnesi](#2103855977376125161)
 - [Orman gölü köyü ortamı](#2103860776419111285)
@@ -147,31 +146,12 @@
 - [Subway Surfers'ı 2026'da oynanabilir bir HTML oyunu olarak yeniden oluştur](#2117354881950650743)
 - [Koyunların Bulutlara Dönüştüğü Döngüsel 3B Animasyon](#2117863398822342673)
 - [Oyuna hazır, kuş bacakları üzerinde Baba Yaga kulübesi](#2117949666448883731)
+- [Etkileşimli Gece Bileti Koleksiyonu](#2118332979030208748)
 - [Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu](#red-light-green-light)
 - [Golden Miner: 24 Seviyeli 3B Madencilik Oyunu](#golden-miner)
 - [Jöle Villa](#jelly-villa)
 
 </details>
-
-<a id="2103482826519986544"></a>
-
-### Blender'da kobay oluştur
-
-[かよこ](https://x.com/kayokojoe) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103482826519986544"><img src="../assets/previews/34127219152b8602865f0daa82890936efe4c212c105901ec6f6c98503b4e98e.jpg" width="840" loading="lazy" alt="Blender'da kobay oluştur"></a>
-
-Paylaşımı yapan kişinin, fotoğraf göstermeden Codex'ten (GPT-6 Astra High) kobay oluşturmasını istediği prompt.
-
-**İstem**
-
-```text
-Blender'da bir kobay oluştur
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103482826519986544) · [Orijinal gönderi](https://x.com/kayokojoe/status/2103482826519986544) · [Örneklere dön](#all-prompts)
-
----
 
 <a id="2103486103831339269"></a>
 
@@ -4024,6 +4004,38 @@ Düz bir arka planda renderlar: ayakta duruş pozunda önden görünüş ve üç
 
 ---
 
+<a id="2118332979030208748"></a>
+
+### Etkileşimli Gece Bileti Koleksiyonu
+
+[M1shacle](https://x.com/M1shacl3) · 2026-11-05
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/night-city-interactive-collectible-ticket"><img src="../assets/previews/1a3fa6c635f9aaa00faa5fa162a04001b48b73dbd17f5859e0a5579ae78a2625.jpg" width="840" loading="lazy" alt="Etkileşimli Gece Bileti Koleksiyonu"></a>
+
+Animasyonlu bir gece şehri içeren, gerçek bir nesne gibi görünen koleksiyonluk bir bilet oluşturun. Etkileşimli deneyim imleçle birlikte eğilir, tıklayınca tersine döner; prosedürel görseller, mobil dokunmatik desteği, azaltılmış hareket seçeneği ve PNG dışa aktarma içerir.
+
+**İstem**
+
+```text
+“M1shacl3” markalı, “After Hours” başlıklı etkileşimli ve koleksiyonluk bir gece bileti oluşturun.
+
+Gerçek bir kâğıt nesne hissi verin: dokulu krem rengi kâğıt, perforajlı kenarlar, koparılabilir bir kupon, çarpıcı tipografi, barkod ve hafif holografik folyo kullanın.
+
+Biletin içinde yağmur, ışıklı pencereler, geçen bir tren, hilal ve pencere pervazında bir kedi bulunan animasyonlu bir gece şehri oluşturun. Koyu lacivert, sıcak kehribar ve yumuşak, yanardöner renkler kullanın.
+
+Bilet imleçle birlikte hafifçe eğilsin, değişen ışık yansımaları yakalasın ve tıklayınca tersine dönsün. Arka yüzü “Somewhere between ideas & sleep.” ifadesiyle ayrıntılı biçimde tasarlayın.
+
+HTML, CSS, vanilla JavaScript, Canvas 2D ve WebGL shader’ları kullanın. Görselleri prosedürel olarak üretin.
+
+Duraklatma, isteğe bağlı yağmur sesi, tam ekran ve PNG dışa aktarma özellikleri ekleyin. Mobil dokunmayı ve azaltılmış hareket seçeneğini destekleyin.
+
+Güzel bir kompozisyona, inandırıcı malzemelere ve akıcı, ölçülü animasyona öncelik verin. Baştan sona çalışan eksiksiz bir deneyim sunun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/night-city-interactive-collectible-ticket) · [Orijinal gönderi](https://x.com/M1shacl3/status/2118333385579876524) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu
@@ -4239,7 +4251,7 @@ jared adına atıf yapılan yeni bir jelly-villa istemi yayımlayın; özgün ya
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 389 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 390 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

@@ -29,7 +29,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**389 examples · 14 languages · 12 examples with source code**
+**390 examples · 14 languages · 12 examples with source code**
 
 ## Featured projects
 
@@ -51,7 +51,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 <details>
 <summary>Browse examples</summary>
 
-- [Create a Guinea Pig in Blender](#2103482826519986544)
 - [Voxel-style Japanese garden in Three.js](#2103486103831339269)
 - [Voxel ship-in-a-bottle WebGL scene](#2103855977376125161)
 - [Forest lake village environment](#2103860776419111285)
@@ -148,31 +147,12 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Recreate Subway Surfers as a 2026 playable HTML game](#2117354881950650743)
 - [Looping 3D Animation: Sheep Turning into Clouds](#2117863398822342673)
 - [Game-ready Baba Yaga hut on bird legs](#2117949666448883731)
+- [Interactive After Hours Collectible Ticket](#2118332979030208748)
 - [Red Light, Green Light: 3D Survival Game](#red-light-green-light)
 - [Golden Miner: 24-Level 3D Mining Game](#golden-miner)
 - [Jelly Villa](#jelly-villa)
 
 </details>
-
-<a id="2103482826519986544"></a>
-
-### Create a Guinea Pig in Blender
-
-[かよこ](https://x.com/kayokojoe) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103482826519986544"><img src="assets/previews/34127219152b8602865f0daa82890936efe4c212c105901ec6f6c98503b4e98e.jpg" width="840" loading="lazy" alt="Create a Guinea Pig in Blender"></a>
-
-A prompt asking Codex (GPT-6 Astra High) to create a guinea pig without showing it a photo.
-
-**Prompt**
-
-```text
-Create a guinea pig in Blender
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103482826519986544) · [Original post](https://x.com/kayokojoe/status/2103482826519986544) · [Back to examples](#all-prompts)
-
----
 
 <a id="2103486103831339269"></a>
 
@@ -4025,6 +4005,38 @@ Renders on a plain background: a front view and a three-quarter view in the stan
 
 ---
 
+<a id="2118332979030208748"></a>
+
+### Interactive After Hours Collectible Ticket
+
+[M1shacle](https://x.com/M1shacl3) · 2026-11-05
+
+<a href="https://www.tripo3d.ai/3d-prompts/night-city-interactive-collectible-ticket"><img src="assets/previews/1a3fa6c635f9aaa00faa5fa162a04001b48b73dbd17f5859e0a5579ae78a2625.jpg" width="840" loading="lazy" alt="Interactive After Hours Collectible Ticket"></a>
+
+Create a physical-looking collectible ticket containing an animated nighttime city. The interactive experience tilts with the cursor, flips on click, and includes procedural artwork, mobile touch support, reduced motion, and PNG export.
+
+**Prompt**
+
+```text
+Create an interactive collectible night ticket branded “M1shacl3”, titled “After Hours”.
+
+Make it feel like a physical paper object: textured cream paper, perforated edges, a detachable stub, bold typography, a barcode, and subtle holographic foil.
+
+Inside the ticket, build an animated nighttime city with rain, glowing windows, a passing train, a crescent moon, and a cat on a windowsill. Use deep navy, warm amber, and soft iridescent colors.
+
+The ticket should gently tilt with the cursor, catch shifting highlights, and flip on click. Design a detailed reverse side with the phrase “Somewhere between ideas & sleep.”
+
+Use HTML, CSS, vanilla JavaScript, Canvas 2D, and WebGL shaders. Generate the artwork procedurally.
+
+Add pause, optional rain audio, fullscreen, and PNG export. Support mobile touch and reduced motion.
+
+Prioritize beautiful composition, convincing materials, and smooth, restrained animation. Deliver a complete working experience.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/night-city-interactive-collectible-ticket) · [Original post](https://x.com/M1shacl3/status/2118333385579876524) · [Back to examples](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Red Light, Green Light: 3D Survival Game
@@ -4240,7 +4252,7 @@ Publish a new jelly-villa prompt credited to jared, with the original author in 
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 389 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 390 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>

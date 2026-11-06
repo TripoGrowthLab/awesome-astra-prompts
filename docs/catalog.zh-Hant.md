@@ -28,7 +28,7 @@
 **為你的下一個遊戲、場景或互動世界尋找靈感。**
 
 
-**389 · 最新 Astra 提示詞**
+**390 · 最新 Astra 提示詞**
 
 ## 精選作品
 
@@ -50,7 +50,6 @@
 <details>
 <summary>瀏覽案例</summary>
 
-- [使用 Blender 製作天竺鼠](#2103482826519986544)
 - [Three.js 體素風格日本庭園](#2103486103831339269)
 - [瓶中船體素 WebGL 場景](#2103855977376125161)
 - [森林湖畔村落環境](#2103860776419111285)
@@ -147,31 +146,12 @@
 - [重現《Subway Surfers》，打造一款 2026 年可遊玩的 HTML 遊戲](#2117354881950650743)
 - [綿羊變雲朵的循環 3D 動畫](#2117863398822342673)
 - [可直接用於遊戲的鳥腿芭芭雅嘎小屋](#2117949666448883731)
+- [互動式 After Hours 收藏票券](#2118332979030208748)
 - [紅燈綠燈：3D 生存遊戲](#red-light-green-light)
 - [Golden Miner：24 關 3D 採礦遊戲](#golden-miner)
 - [果凍別墅](#jelly-villa)
 
 </details>
-
-<a id="2103482826519986544"></a>
-
-### 使用 Blender 製作天竺鼠
-
-[かよこ](https://x.com/kayokojoe) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103482826519986544"><img src="../assets/previews/34127219152b8602865f0daa82890936efe4c212c105901ec6f6c98503b4e98e.jpg" width="840" loading="lazy" alt="使用 Blender 製作天竺鼠"></a>
-
-發文者要求 Codex（GPT-6 Astra High）在未提供照片的情況下製作天竺鼠的提示詞。
-
-**提示詞**
-
-```text
-用 Blender 製作一隻天竺鼠
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103482826519986544) · [查看原文](https://x.com/kayokojoe/status/2103482826519986544) · [返回案例導覽](#all-prompts)
-
----
 
 <a id="2103486103831339269"></a>
 
@@ -4024,6 +4004,38 @@ UI 與城市畫面應形成適當對比，但不能過度搶眼。
 
 ---
 
+<a id="2118332979030208748"></a>
+
+### 互動式 After Hours 收藏票券
+
+[M1shacle](https://x.com/M1shacl3) · 2026-11-05
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/night-city-interactive-collectible-ticket"><img src="../assets/previews/1a3fa6c635f9aaa00faa5fa162a04001b48b73dbd17f5859e0a5579ae78a2625.jpg" width="840" loading="lazy" alt="互動式 After Hours 收藏票券"></a>
+
+打造一張具有實體質感的收藏票券，內含一座會動的夜間城市。互動體驗會隨游標傾斜、點擊翻面，並包含程序生成藝術、行動裝置觸控支援、減少動態效果與 PNG 匯出功能。
+
+**提示詞**
+
+```text
+打造一張以「M1shacl3」為品牌、標題為「After Hours」的互動式夜間收藏票券。
+
+讓它呈現實體紙本物件的質感：帶有紋理的奶油色紙張、打孔邊緣、可撕式票根、醒目的字體、條碼，以及細緻的全息箔效果。
+
+在票券內打造一座會動的夜間城市，加入雨景、發光的窗戶、駛過的列車、彎月，以及窗臺上的貓。使用深海軍藍、溫暖琥珀色與柔和的虹彩色。
+
+票券應隨游標輕柔傾斜、呈現不斷變化的高光，並在點擊時翻面。設計細節豐富的背面，加入句子「Somewhere between ideas & sleep.」
+
+使用 HTML、CSS、原生 JavaScript、Canvas 2D 與 WebGL 著色器。以程序化方式生成藝術內容。
+
+加入暫停、選用的雨聲音訊、全螢幕與 PNG 匯出功能。支援行動裝置觸控與減少動態效果。
+
+優先呈現優美的構圖、可信的材質與流暢而克制的動畫。交付一個完整可運作的體驗。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/night-city-interactive-collectible-ticket) · [查看原文](https://x.com/M1shacl3/status/2118333385579876524) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### 紅燈綠燈：3D 生存遊戲
@@ -4239,7 +4251,7 @@ yacht 會沿著封閉路線自動前進，速度約為每秒 0.38–0.48 個場�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 389 個案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 390 個案例 →</a></strong></p>
 <p><sub>為保持 GitHub README 渲染流暢，這裡僅展示最新 100 個案例。</sub></p>
 <br>
 </td></tr>

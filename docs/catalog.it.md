@@ -28,7 +28,7 @@
 **Un punto di partenza per il tuo prossimo gioco, scena o mondo interattivo.**
 
 
-**389 · Prompt Astra più recenti**
+**390 · Prompt Astra più recenti**
 
 ## Progetti in evidenza
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Esplora gli esempi</summary>
 
-- [Crea un porcellino d’India in Blender](#2103482826519986544)
 - [Giardino giapponese in stile voxel con Three.js](#2103486103831339269)
 - [Scena WebGL voxel: nave in bottiglia](#2103855977376125161)
 - [Ambiente di villaggio sul lago nella foresta](#2103860776419111285)
@@ -147,31 +146,12 @@
 - [Ricrea Subway Surfers come gioco HTML giocabile del 2026](#2117354881950650743)
 - [Animazione 3D in loop: le pecore si trasformano in nuvole](#2117863398822342673)
 - [Capanna di Baba Yaga pronta per il gioco su zampe di uccello](#2117949666448883731)
+- [Biglietto da collezione interattivo After Hours](#2118332979030208748)
 - [Luce rossa, luce verde: gioco di sopravvivenza 3D](#red-light-green-light)
 - [Golden Miner: gioco minerario 3D a 24 livelli](#golden-miner)
 - [Jelly Villa](#jelly-villa)
 
 </details>
-
-<a id="2103482826519986544"></a>
-
-### Crea un porcellino d’India in Blender
-
-[かよこ](https://x.com/kayokojoe) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2103482826519986544"><img src="../assets/previews/34127219152b8602865f0daa82890936efe4c212c105901ec6f6c98503b4e98e.jpg" width="840" loading="lazy" alt="Crea un porcellino d’India in Blender"></a>
-
-Prompt con cui l’autore ha chiesto a Codex (GPT-6 Astra High) di creare un porcellino d’India senza mostrargli alcuna foto.
-
-**Prompt**
-
-```text
-Crea un porcellino d’India in Blender
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2103482826519986544) · [Post originale](https://x.com/kayokojoe/status/2103482826519986544) · [Torna agli esempi](#all-prompts)
-
----
 
 <a id="2103486103831339269"></a>
 
@@ -4024,6 +4004,38 @@ Render su sfondo uniforme: una vista frontale e una vista a tre quarti in posa e
 
 ---
 
+<a id="2118332979030208748"></a>
+
+### Biglietto da collezione interattivo After Hours
+
+[M1shacle](https://x.com/M1shacl3) · 2026-11-05
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/night-city-interactive-collectible-ticket"><img src="../assets/previews/1a3fa6c635f9aaa00faa5fa162a04001b48b73dbd17f5859e0a5579ae78a2625.jpg" width="840" loading="lazy" alt="Biglietto da collezione interattivo After Hours"></a>
+
+Crea un biglietto da collezione dall’aspetto realistico, con una città notturna animata. L’esperienza interattiva si inclina seguendo il cursore, si gira al clic e include illustrazioni generate proceduralmente, supporto al tocco su dispositivi mobili, movimento ridotto ed esportazione in PNG.
+
+**Prompt**
+
+```text
+Crea un biglietto notturno interattivo da collezione con il marchio “M1shacl3” e il titolo “After Hours”.
+
+Dagli l’aspetto di un vero oggetto di carta: carta color crema con texture, bordi perforati, tagliando staccabile, tipografia d’impatto, codice a barre e una leggera lamina olografica.
+
+All’interno del biglietto, crea una città notturna animata con pioggia, finestre illuminate, un treno di passaggio, una luna crescente e un gatto sul davanzale. Usa blu navy intensi, ambra calda e tenui colori iridescenti.
+
+Il biglietto dovrebbe inclinarsi delicatamente seguendo il cursore, riflettere riflessi cangianti e girarsi al clic. Progetta un retro dettagliato con la frase “Somewhere between ideas & sleep.”
+
+Usa HTML, CSS, JavaScript vanilla, Canvas 2D e shader WebGL. Genera le illustrazioni proceduralmente.
+
+Aggiungi pausa, audio opzionale della pioggia, modalità a schermo intero ed esportazione in PNG. Supporta il tocco su dispositivi mobili e il movimento ridotto.
+
+Dai priorità a una composizione raffinata, materiali convincenti e animazioni fluide e misurate. Realizza un’esperienza completa e funzionante.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/night-city-interactive-collectible-ticket) · [Post originale](https://x.com/M1shacl3/status/2118333385579876524) · [Torna agli esempi](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Luce rossa, luce verde: gioco di sopravvivenza 3D
@@ -4239,7 +4251,7 @@ Pubblicare un nuovo prompt jelly-villa attribuito a jared, con l’autore origin
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 389 esempi sul sito ufficiale →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 390 esempi sul sito ufficiale →</a></strong></p>
 <p><sub>Per mantenere fluido il rendering del README su GitHub, qui mostriamo solo i 100 esempi più recenti.</sub></p>
 <br>
 </td></tr>

@@ -28,7 +28,7 @@
 **Un point de départ pour votre prochain jeu, scène ou monde interactif.**
 
 
-**389 · Derniers prompts Astra**
+**390 · Derniers prompts Astra**
 
 ## Projets à découvrir
 
@@ -50,7 +50,6 @@
 <details>
 <summary>Parcourir les exemples</summary>
 
-- [Créer un cochon d’Inde dans Blender](#2103482826519986544)
 - [Jardin japonais de style voxel dans Three.js](#2103486103831339269)
 - [Scène WebGL voxel d’un bateau dans une bouteille](#2103855977376125161)
 - [Environnement de village forestier autour d’un lac](#2103860776419111285)
@@ -147,31 +146,12 @@
 - [Recréer Subway Surfers sous la forme d’un jeu HTML jouable en 2026](#2117354881950650743)
 - [Animation 3D en boucle : des moutons se transforment en nuages](#2117863398822342673)
 - [Cabane de Baba Yaga prête pour le jeu, sur des pattes d’oiseau](#2117949666448883731)
+- [Billet de collection interactif « After Hours »](#2118332979030208748)
 - [1, 2, 3, soleil : jeu de survie en 3D](#red-light-green-light)
 - [Golden Miner : jeu de minage 3D en 24 niveaux](#golden-miner)
 - [Villa en gelée](#jelly-villa)
 
 </details>
-
-<a id="2103482826519986544"></a>
-
-### Créer un cochon d’Inde dans Blender
-
-[かよこ](https://x.com/kayokojoe) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2103482826519986544"><img src="../assets/previews/34127219152b8602865f0daa82890936efe4c212c105901ec6f6c98503b4e98e.jpg" width="840" loading="lazy" alt="Créer un cochon d’Inde dans Blender"></a>
-
-Prompt dans lequel l’auteur demande à Codex (GPT-6 Astra High) de créer un cochon d’Inde sans lui montrer de photo.
-
-**Prompt**
-
-```text
-Crée un cochon d’Inde dans Blender
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2103482826519986544) · [Publication originale](https://x.com/kayokojoe/status/2103482826519986544) · [Retour aux exemples](#all-prompts)
-
----
 
 <a id="2103486103831339269"></a>
 
@@ -4024,6 +4004,38 @@ Des rendus sur fond uni : une vue de face et une vue en trois-quarts en pose deb
 
 ---
 
+<a id="2118332979030208748"></a>
+
+### Billet de collection interactif « After Hours »
+
+[M1shacle](https://x.com/M1shacl3) · 2026-11-05
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/night-city-interactive-collectible-ticket"><img src="../assets/previews/1a3fa6c635f9aaa00faa5fa162a04001b48b73dbd17f5859e0a5579ae78a2625.jpg" width="840" loading="lazy" alt="Billet de collection interactif « After Hours »"></a>
+
+Créez un billet de collection à l’aspect réaliste, avec une ville nocturne animée. L’expérience interactive s’incline en suivant le curseur, se retourne au clic et comprend une illustration générée de façon procédurale, la prise en charge du tactile sur mobile, une option de réduction des animations et l’export au format PNG.
+
+**Prompt**
+
+```text
+Créez un billet de nuit interactif à collectionner, à l’effigie de « M1shacl3 » et intitulé « After Hours ».
+
+Donnez-lui l’aspect d’un véritable billet en papier : papier crème texturé, bords perforés, talon détachable, typographie imposante, code-barres et subtils reflets holographiques.
+
+À l’intérieur du billet, créez une ville nocturne animée, avec de la pluie, des fenêtres lumineuses, un train qui passe, un croissant de lune et un chat sur le rebord d’une fenêtre. Utilisez un bleu nuit profond, un ambre chaleureux et des teintes irisées délicates.
+
+Le billet doit s’incliner doucement en suivant le curseur, capter des reflets changeants et se retourner au clic. Créez un verso détaillé portant la phrase « Somewhere between ideas & sleep. »
+
+Utilisez HTML, CSS, JavaScript sans framework, Canvas 2D et des shaders WebGL. Générez l’illustration de façon procédurale.
+
+Ajoutez la mise en pause, une option audio de pluie, le plein écran et l’export au format PNG. Prenez en charge le tactile sur mobile et la réduction des animations.
+
+Privilégiez une composition soignée, des matériaux convaincants et des animations fluides et discrètes. Livrez une expérience complète et fonctionnelle.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/night-city-interactive-collectible-ticket) · [Publication originale](https://x.com/M1shacl3/status/2118333385579876524) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### 1, 2, 3, soleil : jeu de survie en 3D
@@ -4239,7 +4251,7 @@ Publier un nouveau prompt jelly-villa attribué à jared, avec l’auteur origin
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 389 exemples sur le site officiel →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 390 exemples sur le site officiel →</a></strong></p>
 <p><sub>Pour préserver la fluidité du rendu du README sur GitHub, seuls les 100 exemples les plus récents sont affichés ici.</sub></p>
 <br>
 </td></tr>
