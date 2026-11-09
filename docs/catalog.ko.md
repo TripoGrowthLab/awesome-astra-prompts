@@ -28,7 +28,7 @@
 **다음 게임, 장면, 인터랙티브 세계를 위한 아이디어를 찾아보세요.**
 
 
-**390 · 최신 Astra 프롬프트**
+**392 · 최신 Astra 프롬프트**
 
 ## 추천 작품
 
@@ -50,8 +50,6 @@
 <details>
 <summary>사례 둘러보기</summary>
 
-- [Three.js로 구현한 복셀 스타일 일본식 정원](#2103486103831339269)
-- [복셀 병 속의 배 WebGL 장면](#2103855977376125161)
 - [숲속 호수 마을 환경](#2103860776419111285)
 - [Blender에서 슈퍼 헤비 부스터 캐치 구현하기](#2103966922127630820)
 - [인터랙티브 3D 카메라 렌즈 광선 경로 데모](#2104077535315144878)
@@ -147,51 +145,13 @@
 - [양이 구름으로 변하는 루프 3D 애니메이션](#2117863398822342673)
 - [게임용 바바 야가 오두막과 새 다리](#2117949666448883731)
 - [인터랙티브 심야 기념 티켓](#2118332979030208748)
+- [하늘섬 위 인터랙티브 픽셀 아트 놀이공원](#2118732546246897872)
+- [모바일용 멀티플레이어 블록 어드벤처 게임](#2119410564489175551)
 - [무궁화꽃이 피었습니다: 3D 서바이벌 게임](#red-light-green-light)
 - [Golden Miner: 24레벨 3D 채굴 게임](#golden-miner)
 - [젤리 빌라](#jelly-villa)
 
 </details>
-
-<a id="2103486103831339269"></a>
-
-### Three.js로 구현한 복셀 스타일 일본식 정원
-
-[Marcel](https://x.com/marcthecreatorr) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103486103831339269"><img src="../assets/previews/b81a2575e66269b3d4175d1d6ed6250955d3a1d3c082c0bb5c26ad99afbed1c3.jpg" width="840" loading="lazy" alt="Three.js로 구현한 복셀 스타일 일본식 정원"></a>
-
-탑과 작은 마을 주민들, 하늘을 나는 용이 등장하는 인터랙티브 복셀 스타일 일본식 정원을 위한 프롬프트입니다. 게시자는 이 프롬프트를 Astra와 Space Bunny에 그대로 입력해 한 번에 비교했다고 밝혔습니다.
-
-**프롬프트**
-
-```text
-탑과 작은 마을 주민들, 하늘을 나는 용, 인터랙티브 요소가 어우러진 디테일한 복셀 스타일 일본식 정원을 Three.js로 제작하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103486103831339269) · [원본 게시물](https://x.com/marcthecreatorr/status/2103486103831339269) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="2103855977376125161"></a>
-
-### 복셀 병 속의 배 WebGL 장면
-
-[PEP PEPICH](https://x.com/Artless101) · 2026-09-26
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103855977376125161"><img src="../assets/previews/d8a74685a75a3f46e3e8ca5a4148d471823b51ea9e7e317e8eb3add7d7d18fa4.jpg" width="840" loading="lazy" alt="복셀 병 속의 배 WebGL 장면"></a>
-
-파도와 물리 시뮬레이션, 다양한 소품과 풍경을 더해 병 안에 갇힌 범선과 바다를 정교하고 다채로운 복셀 아트로 표현한 장면을 만드세요. 결과물은 Chrome에서 단일 HTML 파일로 실행할 수 있는 WebGL 장면이어야 합니다.
-
-**프롬프트**
-
-```text
-병 안에서 정교한 배가 바다를 항해하는 매우 창의적이고 화려하며 디테일한 복셀 아트 장면을 설계하고 제작하세요. 파도와 사실적인 물리 시뮬레이션을 포함하고, 장면 전체가 병 안에 들어가도록 구성하세요. 다채로운 복셀과 물리 시뮬레이션, 흥미로운 소품과 풍경을 활용해 인상적이고 다채로운 장면을 만드세요. WebGL과 필요한 라이브러리를 사용하되, 모든 코드를 하나의 HTML 파일에 붙여넣은 뒤 Chrome에서 열어 실행할 수 있어야 합니다.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103855977376125161) · [원본 게시물](https://x.com/Artless101/status/2103856049925071141) · [사례 목록으로](#all-prompts)
-
----
 
 <a id="2103860776419111285"></a>
 
@@ -4036,6 +3996,63 @@ HTML, CSS, 바닐라 JavaScript, Canvas 2D, WebGL 셰이더를 사용해 주세�
 
 ---
 
+<a id="2118732546246897872"></a>
+
+### 하늘섬 위 인터랙티브 픽셀 아트 놀이공원
+
+[NinjaCodex](https://x.com/N1njaCodex) · 2026-11-06
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/floating-island-amusement-park-3d"><img src="../assets/previews/dbf7f72b82e390f7427f23309eceacf587e704fa28ae683298038b9b32313cac.jpg" width="840" loading="lazy" alt="하늘섬 위 인터랙티브 픽셀 아트 놀이공원"></a>
+
+Wonderlight는 다섯 가지 어트랙션과 걸어 다니는 방문객, 정교한 복셀 스타일의 하늘섬으로 이루어진 인터랙티브 Three.js 놀이공원입니다. 카메라 조작, 조명 모드, 불꽃놀이를 포함하며 오프라인에서 실행되는 단일 HTML 파일로 제작합니다.
+
+**프롬프트**
+
+```text
+Three.js를 사용해 하늘섬 위에 Wonderlight라는 인터랙티브 3D 픽셀 아트 놀이공원을 만드세요.
+
+다섯 가지 어트랙션을 애니메이션으로 구현하세요.
+- 연속된 트랙과 급강하 구간, 완만하게 휘어지는 커브를 갖추고, 중력에 반응하는 5량 열차가 달리는 롤러코스터.
+- 바퀴가 회전해도 곤돌라가 똑바로 유지되는, 알록달록한 곤돌라 12대가 달린 관람차.
+- 줄무늬 지붕과 위아래로 움직이는 목마 8개가 있는 회전목마.
+- 회전하는 찻잔 6개.
+- 좌우로 흔들리는 해적선.
+
+공원을 걷는 방문객과 대기 줄, 음식 가판대, 벤치, 나무, 꽃, 랜턴, 풍선, 장식된 입구를 배치하세요. 놀이기구에는 탑승객도 보이게 하세요.
+
+정교한 복셀 스타일과 선명한 픽셀 렌더링을 적용하세요. 따뜻한 크림색과 코럴색에 청록색 포인트를 더하고, 사실적인 그림자와 직교 카메라를 사용하세요. 하늘섬에는 흙, 바위, 잔디가 층층이 드러나게 하고 주변에는 작은 바위가 떠다니게 하세요.
+
+사용자가 카메라를 회전하고 확대·축소하거나, 어트랙션을 클릭해 화면의 초점을 맞추고 롤러코스터 열차를 따라가도록 하세요. 일시 정지, 시뮬레이션 속도 조절, 픽셀 크기 조절 기능과 낮, 골든아워, 밤 조명을 제공하세요. 밤에는 놀이기구와 산책로를 밝히세요. 버튼을 눌러 다채로운 불꽃놀이를 시작하는 기능도 추가하세요.
+
+장면이 페이지의 중심이 되도록 세련되고 미니멀한 영어 인터페이스를 디자인하세요. 데스크톱과 모바일에서 작동하게 하고, 녹화할 때 컨트롤을 숨기는 모드도 제공하세요.
+
+오프라인에서도 작동하는 자체 완결형 HTML 파일 하나로 모두 제공하세요. 모든 지오메트리와 텍스처, 선택적 사운드는 코드로 생성하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/floating-island-amusement-park-3d) · [원본 게시물](https://x.com/N1njaCodex/status/2118733080974274872) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="2119410564489175551"></a>
+
+### 모바일용 멀티플레이어 블록 어드벤처 게임
+
+[combos.converge.ai](https://combos.converge.ai/) · 2026-11-08
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/multiplayer-block-adventure-mobile-game"><img src="../assets/previews/fa0aed745f8793f5d4343f4fe38e743657ab273dae8f8322e89ab691ec857b33.jpg" width="840" loading="lazy" alt="모바일용 멀티플레이어 블록 어드벤처 게임"></a>
+
+연결된 Combos 챌린지 페이지에서 모바일에 적합한 멀티플레이어 블록 어드벤처 게임을 만들기 위한 프롬프트로 추천합니다. 친구들과 함께 탐험하고, 재료를 모으고, 건축할 수 있습니다. 실제로 제작된 게임에 사용된 입력이 아니라, 시작점으로 활용할 수 있는 제안 프롬프트입니다.
+
+**프롬프트**
+
+```text
+모바일에 적합한 멀티플레이어 블록 어드벤처 게임을 만들어 주세요. 친구들과 함께 탐험하고, 재료를 모으고, 건축할 수 있게 해 주세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/multiplayer-block-adventure-mobile-game) · [원본 게시물](https://combos.converge.ai/events/block-world?utm=tech_arish) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### 무궁화꽃이 피었습니다: 3D 서바이벌 게임
@@ -4251,7 +4268,7 @@ jared를 크레딧으로 표시한 새 jelly-villa 프롬프트를 게시하고,
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 390개 보기 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 392개 보기 →</a></strong></p>
 <p><sub>GitHub README가 원활하게 렌더링되도록 최신 사례 100개만 표시합니다.</sub></p>
 <br>
 </td></tr>

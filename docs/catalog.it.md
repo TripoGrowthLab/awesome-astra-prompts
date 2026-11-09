@@ -28,7 +28,7 @@
 **Un punto di partenza per il tuo prossimo gioco, scena o mondo interattivo.**
 
 
-**390 · Prompt Astra più recenti**
+**392 · Prompt Astra più recenti**
 
 ## Progetti in evidenza
 
@@ -50,8 +50,6 @@
 <details>
 <summary>Esplora gli esempi</summary>
 
-- [Giardino giapponese in stile voxel con Three.js](#2103486103831339269)
-- [Scena WebGL voxel: nave in bottiglia](#2103855977376125161)
 - [Ambiente di villaggio sul lago nella foresta](#2103860776419111285)
 - [Cattura del booster Super Heavy in Blender](#2103966922127630820)
 - [Demo interattiva 3D del percorso della luce in un obiettivo fotografico](#2104077535315144878)
@@ -147,51 +145,13 @@
 - [Animazione 3D in loop: le pecore si trasformano in nuvole](#2117863398822342673)
 - [Capanna di Baba Yaga pronta per il gioco su zampe di uccello](#2117949666448883731)
 - [Biglietto da collezione interattivo After Hours](#2118332979030208748)
+- [Parco divertimenti interattivo in pixel art su un’isola fluttuante](#2118732546246897872)
+- [Avventura a blocchi multigiocatore per dispositivi mobili](#2119410564489175551)
 - [Luce rossa, luce verde: gioco di sopravvivenza 3D](#red-light-green-light)
 - [Golden Miner: gioco minerario 3D a 24 livelli](#golden-miner)
 - [Jelly Villa](#jelly-villa)
 
 </details>
-
-<a id="2103486103831339269"></a>
-
-### Giardino giapponese in stile voxel con Three.js
-
-[Marcel](https://x.com/marcthecreatorr) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2103486103831339269"><img src="../assets/previews/b81a2575e66269b3d4175d1d6ed6250955d3a1d3c082c0bb5c26ad99afbed1c3.jpg" width="840" loading="lazy" alt="Giardino giapponese in stile voxel con Three.js"></a>
-
-Un prompt per un giardino giapponese interattivo in stile voxel, con una pagoda, piccoli abitanti e un drago volante. L’autore del post afferma di aver fornito questo prompt identico ad Astra e Space Bunny per un confronto in un’unica esecuzione.
-
-**Prompt**
-
-```text
-Crea un giardino giapponese dettagliato in stile voxel con Three.js, completo di pagoda, piccoli abitanti, un drago volante ed elementi interattivi.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2103486103831339269) · [Post originale](https://x.com/marcthecreatorr/status/2103486103831339269) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="2103855977376125161"></a>
-
-### Scena WebGL voxel: nave in bottiglia
-
-[PEP PEPICH](https://x.com/Artless101) · 2026-09-26
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2103855977376125161"><img src="../assets/previews/d8a74685a75a3f46e3e8ca5a4148d471823b51ea9e7e317e8eb3add7d7d18fa4.jpg" width="840" loading="lazy" alt="Scena WebGL voxel: nave in bottiglia"></a>
-
-Crea un’elaborata e colorata scena in voxel art con una nave a vela e un oceano racchiusi in una bottiglia, completa di onde, fisica simulata e vari oggetti o paesaggi. Il risultato richiesto è una scena WebGL eseguibile in Chrome a partire da un singolo file HTML.
-
-**Prompt**
-
-```text
-Progetta e crea una scena voxel art estremamente creativa, elaborata e dettagliata, con una nave intricata che naviga nell’oceano all’interno di una bottiglia. Includi onde e una fisica realistica, racchiudendo l’intera scena nella bottiglia. Rendi la scena spettacolare e varia, usando voxel colorati, fisica simulata e oggetti o paesaggi interessanti, tutti racchiusi nella bottiglia. Usa WebGL e le librerie necessarie per realizzarla, ma assicurati che tutto il codice possa essere incollato in un singolo file HTML e aperto in Chrome
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2103855977376125161) · [Post originale](https://x.com/Artless101/status/2103856049925071141) · [Torna agli esempi](#all-prompts)
-
----
 
 <a id="2103860776419111285"></a>
 
@@ -4036,6 +3996,63 @@ Dai priorità a una composizione raffinata, materiali convincenti e animazioni f
 
 ---
 
+<a id="2118732546246897872"></a>
+
+### Parco divertimenti interattivo in pixel art su un’isola fluttuante
+
+[NinjaCodex](https://x.com/N1njaCodex) · 2026-11-06
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/floating-island-amusement-park-3d"><img src="../assets/previews/dbf7f72b82e390f7427f23309eceacf587e704fa28ae683298038b9b32313cac.jpg" width="840" loading="lazy" alt="Parco divertimenti interattivo in pixel art su un’isola fluttuante"></a>
+
+Crea Wonderlight, un parco divertimenti interattivo in Three.js con cinque attrazioni animate, visitatori in movimento e un’isola fluttuante dettagliata in stile voxel. Il prompt specifica i controlli della camera, le modalità di illuminazione, i fuochi d’artificio e un file HTML autonomo che funziona offline.
+
+**Prompt**
+
+```text
+Crea un parco divertimenti 3D interattivo in pixel art chiamato Wonderlight, su un’isola fluttuante, usando Three.js.
+
+Realizza cinque attrazioni animate:
+- Una montagna russa con un percorso continuo, discese ripide, curve ampie e un treno di cinque vagoni che reagisce alla gravità.
+- Una ruota panoramica con dodici gondole colorate che restano dritte mentre la ruota gira.
+- Una giostra con tetto a righe e otto cavalli che si muovono su e giù.
+- Sei tazze rotanti.
+- Una nave pirata oscillante.
+
+Riempi il parco di visitatori in movimento, file, chioschi gastronomici, panchine, alberi, fiori, lanterne, palloncini e un ingresso decorato. Aggiungi passeggeri visibili sulle attrazioni.
+
+Usa un’estetica voxel dettagliata, una resa pixel nitida, tonalità calde crema e corallo, accenti verde acqua, ombre realistiche e una camera ortografica. Dai all’isola fluttuante strati di terra, pietra e erba, con piccole rocce sospese intorno.
+
+Consenti agli utenti di ruotare la camera, ingrandire e ridurre, fare clic sulle attrazioni per inquadrarle e seguire il treno della montagna russa. Includi pausa, velocità di simulazione, dimensione dei pixel regolabile e illuminazione diurna, dell’ora dorata e notturna. Di notte, illumina le attrazioni e i percorsi. Aggiungi un pulsante per lanciare fuochi d’artificio colorati.
+
+Progetta un’interfaccia in inglese curata e minimalista, che lasci la scena al centro dell’attenzione. Deve funzionare su desktop e dispositivi mobili e includere una modalità che nasconde i controlli per registrare.
+
+Fornisci tutto in un unico file HTML autonomo che funzioni offline. Genera via codice tutta la geometria, le texture e gli eventuali effetti sonori.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/floating-island-amusement-park-3d) · [Post originale](https://x.com/N1njaCodex/status/2118733080974274872) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="2119410564489175551"></a>
+
+### Avventura a blocchi multigiocatore per dispositivi mobili
+
+[combos.converge.ai](https://combos.converge.ai/) · 2026-11-08
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/multiplayer-block-adventure-mobile-game"><img src="../assets/previews/fa0aed745f8793f5d4343f4fe38e743657ab273dae8f8322e89ab691ec857b33.jpg" width="840" loading="lazy" alt="Avventura a blocchi multigiocatore per dispositivi mobili"></a>
+
+La pagina della sfida Combos collegata consiglia questo prompt come punto di partenza per un’avventura a blocchi multigiocatore, ottimizzata per dispositivi mobili, in cui gli amici possono esplorare, raccogliere materiali e costruire insieme. È un prompt suggerito, non un input documentato per un gioco già mostrato.
+
+**Prompt**
+
+```text
+Crea un gioco d’avventura a blocchi ottimizzato per dispositivi mobili, con modalità multigiocatore, in cui gli amici possano esplorare, raccogliere materiali e costruire insieme.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/multiplayer-block-adventure-mobile-game) · [Post originale](https://combos.converge.ai/events/block-world?utm=tech_arish) · [Torna agli esempi](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Luce rossa, luce verde: gioco di sopravvivenza 3D
@@ -4251,7 +4268,7 @@ Pubblicare un nuovo prompt jelly-villa attribuito a jared, con l’autore origin
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 390 esempi sul sito ufficiale →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Esplora tutti i 392 esempi sul sito ufficiale →</a></strong></p>
 <p><sub>Per mantenere fluido il rendering del README su GitHub, qui mostriamo solo i 100 esempi più recenti.</sub></p>
 <br>
 </td></tr>

@@ -28,7 +28,7 @@
 **次のゲーム、シーン、インタラクティブな世界づくりのヒントに。**
 
 
-**390 · 最新の Astra プロンプト**
+**392 · 最新の Astra プロンプト**
 
 ## 注目の作品
 
@@ -50,8 +50,6 @@
 <details>
 <summary>作例を見る</summary>
 
-- [Three.jsで作るボクセル風の日本庭園](#2103486103831339269)
-- [ボクセルのボトルシップ WebGLシーン](#2103855977376125161)
 - [森に囲まれた湖畔の村の環境](#2103860776419111285)
 - [BlenderでSuper Heavyブースターをキャッチするシーン](#2103966922127630820)
 - [インタラクティブな3Dカメラレンズの光路デモ](#2104077535315144878)
@@ -147,51 +145,13 @@
 - [羊が雲に変わるループ3Dアニメーション](#2117863398822342673)
 - [ゲーム用に仕上げた鳥脚のバーバ・ヤーガの小屋](#2117949666448883731)
 - [インタラクティブな夜更けのコレクタブルチケット](#2118332979030208748)
+- [浮遊島のインタラクティブなピクセルアート遊園地](#2118732546246897872)
+- [モバイル向けマルチプレイ・ブロックアドベンチャー](#2119410564489175551)
 - [Red Light, Green Light：3Dサバイバルゲーム](#red-light-green-light)
 - [Golden Miner：全24レベルの3D採掘ゲーム](#golden-miner)
 - [ジェリー・ヴィラ](#jelly-villa)
 
 </details>
-
-<a id="2103486103831339269"></a>
-
-### Three.jsで作るボクセル風の日本庭園
-
-[Marcel](https://x.com/marcthecreatorr) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2103486103831339269"><img src="../assets/previews/b81a2575e66269b3d4175d1d6ed6250955d3a1d3c082c0bb5c26ad99afbed1c3.jpg" width="840" loading="lazy" alt="Three.jsで作るボクセル風の日本庭園"></a>
-
-五重塔や小さな村人、空を飛ぶドラゴンが登場する、インタラクティブなボクセル風日本庭園のプロンプトです。投稿者によると、このプロンプトをAstraとSpace Bunnyにそのまま入力し、ワンショットで比較したとのことです。
-
-**プロンプト**
-
-```text
-Three.jsで、五重塔、小さな村人、空を飛ぶドラゴン、インタラクティブな仕掛けを備えた、細部まで作り込んだボクセル風の日本庭園を作成してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2103486103831339269) · [元の投稿](https://x.com/marcthecreatorr/status/2103486103831339269) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="2103855977376125161"></a>
-
-### ボクセルのボトルシップ WebGLシーン
-
-[PEP PEPICH](https://x.com/Artless101) · 2026-09-26
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2103855977376125161"><img src="../assets/previews/d8a74685a75a3f46e3e8ca5a4148d471823b51ea9e7e317e8eb3add7d7d18fa4.jpg" width="840" loading="lazy" alt="ボクセルのボトルシップ WebGLシーン"></a>
-
-波や物理演算、さまざまな小物や風景を取り入れた、帆船と海をボトルの中に閉じ込めた、色鮮やかで精巧なボクセルアートのシーンを作成します。Chromeで単一のHTMLファイルから実行できるWebGLシーンを目指します。
-
-**プロンプト**
-
-```text
-ボトルの中で複雑な帆船が海を航行する、非常にクリエイティブで精巧かつ詳細なボクセルアートのシーンをデザイン・作成してください。波とリアルな物理演算を取り入れ、シーン全体をボトルの中に収めてください。印象的で変化に富んだシーンにするため、カラフルなボクセル、物理演算、小物や風景を組み合わせ、すべてをボトルの中に収めてください。WebGLや必要なライブラリを使って構いませんが、すべてを1つのHTMLファイルに貼り付けて、Chromeで開けるようにしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2103855977376125161) · [元の投稿](https://x.com/Artless101/status/2103856049925071141) · [作例一覧に戻る](#all-prompts)
-
----
 
 <a id="2103860776419111285"></a>
 
@@ -4045,6 +4005,63 @@ HTML、CSS、バニラJavaScript、Canvas 2D、WebGLシェーダーを使用し�
 
 ---
 
+<a id="2118732546246897872"></a>
+
+### 浮遊島のインタラクティブなピクセルアート遊園地
+
+[NinjaCodex](https://x.com/N1njaCodex) · 2026-11-06
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/floating-island-amusement-park-3d"><img src="../assets/previews/dbf7f72b82e390f7427f23309eceacf587e704fa28ae683298038b9b32313cac.jpg" width="840" loading="lazy" alt="浮遊島のインタラクティブなピクセルアート遊園地"></a>
+
+Wonderlightは、5つのアトラクションが動き、来園者が歩き回る、ボクセル調の浮遊島を舞台にしたインタラクティブなThree.js製遊園地です。カメラ操作、ライティングの切り替え、花火、オフラインで動作する単一HTMLファイルを指定しています。
+
+**プロンプト**
+
+```text
+Three.jsを使って、浮遊島にある「Wonderlight」というインタラクティブな3Dピクセルアートの遊園地を作成してください。
+
+5つの動くアトラクションを作成します。
+- 連続したコース、急降下、ダイナミックなカーブを備え、重力に応じて走行する5両編成のジェットコースター。
+- 回転中もゴンドラが水平を保つ、12基のカラフルなゴンドラ付き観覧車。
+- ストライプ柄の屋根と、上下に動く8頭の木馬を備えたメリーゴーラウンド。
+- 回転するティーカップ6台。
+- 揺れ動く海賊船。
+
+園内には歩く来園者や行列、フードスタンド、ベンチ、木々、花、ランタン、風船、装飾を施した入口を配置してください。アトラクションには乗客を見えるように乗せます。
+
+精細なボクセル調の美術表現、くっきりしたピクセル描画、温かみのあるクリーム色とコーラル色、ティールのアクセント、リアルな影を取り入れ、正投影カメラを使用してください。浮遊島には土、石、草の層を作り、周囲に小石を浮かべます。
+
+ユーザーがカメラを回転・ズームできるようにし、アトラクションをクリックすると注目表示に切り替わり、ジェットコースターの列車を追跡できるようにしてください。一時停止、シミュレーション速度、ピクセルサイズの調整に加え、昼、夕暮れ、夜のライティングを用意します。夜はアトラクションと小道をライトアップしてください。ボタンを押すとカラフルな花火が打ち上がるようにします。
+
+シーンがページの主役になる、洗練されたシンプルな英語インターフェースをデザインしてください。デスクトップとモバイルの両方に対応し、録画時に操作パネルを隠せるモードも用意します。
+
+オフラインで動作する、すべてを含んだ単一のHTMLファイルで納品してください。ジオメトリ、テクスチャ、必要に応じてサウンドもコードで生成します。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/floating-island-amusement-park-3d) · [元の投稿](https://x.com/N1njaCodex/status/2118733080974274872) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="2119410564489175551"></a>
+
+### モバイル向けマルチプレイ・ブロックアドベンチャー
+
+[combos.converge.ai](https://combos.converge.ai/) · 2026-11-08
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/multiplayer-block-adventure-mobile-game"><img src="../assets/previews/fa0aed745f8793f5d4343f4fe38e743657ab273dae8f8322e89ab691ec857b33.jpg" width="840" loading="lazy" alt="モバイル向けマルチプレイ・ブロックアドベンチャー"></a>
+
+リンク先の「Combos」チャレンジページでは、友だちと探索や素材集めを楽しみ、一緒に建築できるモバイル向けマルチプレイ・ブロックアドベンチャーの出発点として、このプロンプトを紹介しています。実際に制作されたゲームの入力例ではなく、参考用のプロンプトです。
+
+**プロンプト**
+
+```text
+友だちと探索や素材集めを楽しみ、一緒に建築できる、モバイル向けのマルチプレイ・ブロックアドベンチャーゲームを作成してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/multiplayer-block-adventure-mobile-game) · [元の投稿](https://combos.converge.ai/events/block-world?utm=tech_arish) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Red Light, Green Light：3Dサバイバルゲーム
@@ -4260,7 +4277,7 @@ jaredのクレジットを付けた新しいjelly-villaプロンプトを公開�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 390 件の作例を公式サイトで見る →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 392 件の作例を公式サイトで見る →</a></strong></p>
 <p><sub>GitHub README をスムーズに表示するため、ここでは最新の作例 100 件のみを掲載しています。</sub></p>
 <br>
 </td></tr>

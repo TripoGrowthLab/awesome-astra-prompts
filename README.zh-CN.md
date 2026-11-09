@@ -29,7 +29,7 @@
 
 探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。
 
-**390 条案例 · 14 种语言 · 12 条附项目源码**
+**392 条案例 · 14 种语言 · 12 条附项目源码**
 
 ## 精选作品
 
@@ -51,8 +51,6 @@
 <details>
 <summary>浏览案例</summary>
 
-- [Three.js 体素风日式庭园](#2103486103831339269)
-- [瓶中体素帆船 WebGL 场景](#2103855977376125161)
 - [森林湖畔村庄环境](#2103860776419111285)
 - [在 Blender 中制作 Super Heavy 助推器捕获装置](#2103966922127630820)
 - [交互式 3D 相机镜头光路演示](#2104077535315144878)
@@ -148,51 +146,13 @@
 - [绵羊变云朵的循环三维动画](#2117863398822342673)
 - [可用于游戏的鸟腿芭芭雅嘎小屋](#2117949666448883731)
 - [互动式《After Hours》收藏票](#2118332979030208748)
+- [漂浮岛上的互动像素风游乐园](#2118732546246897872)
+- [手机版多人方块冒险游戏](#2119410564489175551)
 - [一二三，木头人：3D 生存游戏](#red-light-green-light)
 - [黄金矿工：24 关 3D 挖矿游戏](#golden-miner)
 - [果冻别墅](#jelly-villa)
 
 </details>
-
-<a id="2103486103831339269"></a>
-
-### Three.js 体素风日式庭园
-
-[Marcel](https://x.com/marcthecreatorr) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103486103831339269"><img src="assets/previews/b81a2575e66269b3d4175d1d6ed6250955d3a1d3c082c0bb5c26ad99afbed1c3.jpg" width="840" loading="lazy" alt="Three.js 体素风日式庭园"></a>
-
-一个用于创建可交互体素风日式庭园的提示词，场景中包含宝塔、微型村民和飞行中的巨龙。发帖作者表示，已将这条完全相同的提示词分别提供给 Astra 和 Space Bunny，用于一次生成对比。
-
-**提示词**
-
-```text
-使用 Three.js 构建一个细节丰富的体素风日式庭园，包含一座宝塔、微型村民、一条飞行中的巨龙，以及可交互的细节。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103486103831339269) · [查看原帖](https://x.com/marcthecreatorr/status/2103486103831339269) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2103855977376125161"></a>
-
-### 瓶中体素帆船 WebGL 场景
-
-[PEP PEPICH](https://x.com/Artless101) · 2026-09-26
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103855977376125161"><img src="assets/previews/d8a74685a75a3f46e3e8ca5a4148d471823b51ea9e7e317e8eb3add7d7d18fa4.jpg" width="840" loading="lazy" alt="瓶中体素帆船 WebGL 场景"></a>
-
-创建一个精致多彩的瓶中体素艺术场景：一艘帆船航行在被封装于瓶中的海洋上，包含波浪、模拟物理效果以及丰富多样的道具或景观。最终结果应为一个可在 Chrome 中运行的 WebGL 场景，并且全部内容可放入单个 HTML 文件。
-
-**提示词**
-
-```text
-设计并创建一个极具创意、精致复杂且细节丰富的体素艺术场景：一艘造型精巧的船只在瓶中的海洋上航行。加入波浪和逼真的物理效果，让整个场景都封装在瓶内。使用色彩丰富的体素、模拟物理效果以及有趣的道具和景观，打造丰富多变、令人印象深刻的场景，并确保它们全部位于瓶中。使用 WebGL 及所需的各种库完成，但必须确保我可以将全部代码粘贴到单个 HTML 文件中，并在 Chrome 中打开运行
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103855977376125161) · [查看原帖](https://x.com/Artless101/status/2103856049925071141) · [返回案例导航](#all-prompts)
-
----
 
 <a id="2103860776419111285"></a>
 
@@ -4046,6 +4006,63 @@ UI 与城市画面应形成适当对比，但不能过度抢眼。
 
 ---
 
+<a id="2118732546246897872"></a>
+
+### 漂浮岛上的互动像素风游乐园
+
+[NinjaCodex](https://x.com/N1njaCodex) · 2026-11-06
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/floating-island-amusement-park-3d"><img src="assets/previews/dbf7f72b82e390f7427f23309eceacf587e704fa28ae683298038b9b32313cac.jpg" width="840" loading="lazy" alt="漂浮岛上的互动像素风游乐园"></a>
+
+打造 Wonderlight：一座基于 Three.js 的互动游乐园，包含五种动态游乐设施、步行游客和精致的体素风漂浮岛。提示词还指定了摄像机控制、灯光模式、烟花效果，以及可离线运行的独立 HTML 文件。
+
+**提示词**
+
+```text
+使用 Three.js，在漂浮岛上打造名为 Wonderlight 的互动 3D 像素风游乐园。
+
+建造五种动态游乐设施：
+- 一座拥有连续轨道、陡坡和大幅弯道的过山车，配备一列会根据重力运动的五节车厢。
+- 一座配有十二个彩色吊舱的摩天轮，吊舱在车轮转动时始终保持直立。
+- 一座带条纹顶棚的旋转木马，八匹木马会上下起伏。
+- 六个旋转茶杯。
+- 一艘摇摆的海盗船。
+
+在园区中安排步行游客、排队人群、餐饮摊位、长椅、树木、鲜花、灯笼、气球和装饰精美的入口。游乐设施上也要有清晰可见的乘客。
+
+采用精致的体素风格、清晰利落的像素渲染、暖奶油色与珊瑚色，并以青绿色点缀；呈现真实阴影，并使用正交摄像机。为漂浮岛打造分层的土壤、岩石和草地，并在岛屿周围点缀悬浮的小石块。
+
+允许用户旋转摄像机、缩放、点击游乐设施以聚焦查看，并跟随过山车。加入暂停、模拟速度调节、像素尺寸调节，以及白天、黄金时段和夜间灯光模式。夜间时点亮游乐设施和道路。添加一个可触发彩色烟花的按钮。
+
+设计精致简约的英文界面，让场景成为页面的视觉焦点。确保适配桌面和移动设备，并提供录制时可隐藏控件的模式。
+
+将所有内容整合到一个可离线运行的独立 HTML 文件中。所有几何体、纹理和可选音效均通过代码生成。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/floating-island-amusement-park-3d) · [查看原帖](https://x.com/N1njaCodex/status/2118733080974274872) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2119410564489175551"></a>
+
+### 手机版多人方块冒险游戏
+
+[combos.converge.ai](https://combos.converge.ai/) · 2026-11-08
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/multiplayer-block-adventure-mobile-game"><img src="assets/previews/fa0aed745f8793f5d4343f4fe38e743657ab273dae8f8322e89ab691ec857b33.jpg" width="840" loading="lazy" alt="手机版多人方块冒险游戏"></a>
+
+关联的 Combos 挑战页面推荐使用此提示词，创建一款适合手机游玩的多人方块冒险游戏，让朋友们一起探索、收集材料并建造。这是一个建议的起始提示词，并非已演示游戏的实际输入。
+
+**提示词**
+
+```text
+创建一款适合手机游玩的多人方块冒险游戏，让朋友们可以一起探索、收集材料并建造。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/multiplayer-block-adventure-mobile-game) · [查看原帖](https://combos.converge.ai/events/block-world?utm=tech_arish) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### 一二三，木头人：3D 生存游戏
@@ -4261,7 +4278,7 @@ UI 与城市画面应形成适当对比，但不能过度抢眼。
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 390 条案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 392 条案例 →</a></strong></p>
 <p><sub>为保持 GitHub README 渲染流畅，这里仅展示最新 100 条案例。</sub></p>
 <br>
 </td></tr>

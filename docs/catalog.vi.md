@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**390 · Prompt Astra mới nhất**
+**392 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -50,8 +50,6 @@
 <details>
 <summary>Khám phá ví dụ</summary>
 
-- [Vườn Nhật phong cách voxel trong Three.js](#2103486103831339269)
-- [Cảnh WebGL voxel tàu trong chai](#2103855977376125161)
 - [Môi trường làng ven hồ giữa rừng](#2103860776419111285)
 - [Mô phỏng bắt tầng đẩy Super Heavy trong Blender](#2103966922127630820)
 - [Demo tương tác 3D về đường đi của ánh sáng qua ống kính máy ảnh](#2104077535315144878)
@@ -147,51 +145,13 @@
 - [Hoạt ảnh 3D vòng lặp: cừu hóa thành mây](#2117863398822342673)
 - [Túp lều Baba Yaga trên chân chim, sẵn sàng đưa vào game](#2117949666448883731)
 - [Vé sưu tầm tương tác: Đêm muộn](#2118332979030208748)
+- [Công viên giải trí pixel art trên đảo bay tương tác](#2118732546246897872)
+- [Game phiêu lưu khối vuông nhiều người chơi trên di động](#2119410564489175551)
 - [Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D](#red-light-green-light)
 - [Golden Miner: Game khai thác vàng 3D 24 cấp độ](#golden-miner)
 - [Biệt thự Thạch rau câu](#jelly-villa)
 
 </details>
-
-<a id="2103486103831339269"></a>
-
-### Vườn Nhật phong cách voxel trong Three.js
-
-[Marcel](https://x.com/marcthecreatorr) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103486103831339269"><img src="../assets/previews/b81a2575e66269b3d4175d1d6ed6250955d3a1d3c082c0bb5c26ad99afbed1c3.jpg" width="840" loading="lazy" alt="Vườn Nhật phong cách voxel trong Three.js"></a>
-
-Prompt tạo một khu vườn Nhật phong cách voxel có thể tương tác, với một ngôi chùa tháp, những dân làng tí hon và một con rồng đang bay. Tác giả bài đăng cho biết prompt nguyên văn này đã được đưa cho Astra và Space Bunny để so sánh trong một lượt.
-
-**Prompt**
-
-```text
-Xây dựng một khu vườn Nhật phong cách voxel chi tiết trong Three.js, với một ngôi chùa tháp, những dân làng tí hon, một con rồng đang bay và các chi tiết tương tác.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103486103831339269) · [Bài đăng gốc](https://x.com/marcthecreatorr/status/2103486103831339269) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2103855977376125161"></a>
-
-### Cảnh WebGL voxel tàu trong chai
-
-[PEP PEPICH](https://x.com/Artless101) · 2026-09-26
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103855977376125161"><img src="../assets/previews/d8a74685a75a3f46e3e8ca5a4148d471823b51ea9e7e317e8eb3add7d7d18fa4.jpg" width="840" loading="lazy" alt="Cảnh WebGL voxel tàu trong chai"></a>
-
-Tạo một cảnh nghệ thuật voxel đầy màu sắc và công phu, mô phỏng tàu buồm cùng đại dương bên trong một chiếc chai, với sóng, vật lý được mô phỏng và nhiều đạo cụ hoặc phong cảnh đa dạng. Kết quả cần là một cảnh WebGL có thể chạy từ một tệp HTML duy nhất trong Chrome.
-
-**Prompt**
-
-```text
-Thiết kế và tạo một cảnh nghệ thuật voxel thật sáng tạo, công phu và chi tiết, mô phỏng một con tàu tinh xảo đang vượt đại dương bên trong một chiếc chai. Thêm các con sóng và hệ thống vật lý chân thực, đồng thời bao bọc toàn bộ cảnh trong chai. Hãy tạo một cảnh ấn tượng, đa dạng bằng các voxel nhiều màu, vật lý được mô phỏng cùng những đạo cụ và phong cảnh thú vị, tất cả đều nằm bên trong chai. Sử dụng WebGL và bất kỳ thư viện nào cần thiết, nhưng hãy đảm bảo tôi có thể dán toàn bộ mã vào một tệp HTML duy nhất và mở tệp đó trong Chrome
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103855977376125161) · [Bài đăng gốc](https://x.com/Artless101/status/2103856049925071141) · [Về danh sách ví dụ](#all-prompts)
-
----
 
 <a id="2103860776419111285"></a>
 
@@ -4046,6 +4006,63 @@ Thêm nút tạm dừng, âm thanh mưa tùy chọn, chế độ toàn màn hìn
 
 ---
 
+<a id="2118732546246897872"></a>
+
+### Công viên giải trí pixel art trên đảo bay tương tác
+
+[NinjaCodex](https://x.com/N1njaCodex) · 2026-11-06
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/floating-island-amusement-park-3d"><img src="../assets/previews/dbf7f72b82e390f7427f23309eceacf587e704fa28ae683298038b9b32313cac.jpg" width="840" loading="lazy" alt="Công viên giải trí pixel art trên đảo bay tương tác"></a>
+
+Tạo Wonderlight, một công viên giải trí tương tác bằng Three.js với năm trò chơi chuyển động, khách tham quan đi bộ và hòn đảo bay kiểu voxel được thiết kế chi tiết. Prompt nêu rõ các điều khiển camera, chế độ chiếu sáng, pháo hoa và yêu cầu tạo một tệp HTML độc lập chạy ngoại tuyến.
+
+**Prompt**
+
+```text
+Tạo một công viên giải trí 3D phong cách pixel art tương tác tên là Wonderlight trên một hòn đảo bay bằng Three.js.
+
+Tạo năm trò chơi chuyển động:
+- Tàu lượn siêu tốc có đường ray khép kín, những đoạn dốc đứng, khúc cua rộng và đoàn tàu gồm năm toa chuyển động theo trọng lực.
+- Vòng đu quay với mười hai cabin nhiều màu luôn giữ thăng bằng khi vòng quay chuyển động.
+- Đu quay ngựa gỗ với mái sọc và tám chú ngựa nhấp nhô lên xuống.
+- Sáu tách trà xoay tròn.
+- Tàu cướp biển đung đưa.
+
+Bố trí khách tham quan đi bộ, hàng người xếp hàng, quầy đồ ăn, ghế băng, cây cối, hoa, đèn lồng, bóng bay và cổng vào được trang trí khắp công viên. Thêm hành khách dễ nhìn thấy trên các trò chơi.
+
+Dùng phong cách voxel chi tiết, hình ảnh pixel sắc nét, gam màu kem ấm và san hô, điểm nhấn xanh ngọc, bóng đổ chân thực cùng camera trực giao. Tạo đảo bay với các lớp đất, đá, cỏ và những tảng đá nhỏ lơ lửng xung quanh.
+
+Cho phép người dùng xoay camera, phóng to thu nhỏ, nhấp vào trò chơi để lấy nét và theo dõi đoàn tàu lượn. Bổ sung các tùy chọn tạm dừng, tốc độ mô phỏng, kích thước pixel có thể điều chỉnh và ánh sáng ban ngày, giờ vàng, ban đêm. Khi trời tối, thắp sáng các trò chơi và lối đi. Thêm nút bắn pháo hoa nhiều màu.
+
+Thiết kế giao diện tiếng Anh tinh gọn, chỉn chu để khung cảnh chiếm vị trí nổi bật trên trang. Đảm bảo hoạt động trên máy tính và điện thoại, đồng thời có chế độ ẩn các nút điều khiển để quay video.
+
+Gói toàn bộ nội dung trong một tệp HTML độc lập chạy ngoại tuyến. Tạo toàn bộ hình học, kết cấu và âm thanh tùy chọn bằng mã.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/floating-island-amusement-park-3d) · [Bài đăng gốc](https://x.com/N1njaCodex/status/2118733080974274872) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2119410564489175551"></a>
+
+### Game phiêu lưu khối vuông nhiều người chơi trên di động
+
+[combos.converge.ai](https://combos.converge.ai/) · 2026-11-08
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/multiplayer-block-adventure-mobile-game"><img src="../assets/previews/fa0aed745f8793f5d4343f4fe38e743657ab273dae8f8322e89ab691ec857b33.jpg" width="840" loading="lazy" alt="Game phiêu lưu khối vuông nhiều người chơi trên di động"></a>
+
+Trang thử thách Combos được liên kết gợi ý prompt này để tạo game phiêu lưu khối vuông tối ưu cho thiết bị di động, nơi bạn bè cùng khám phá, thu thập vật liệu và xây dựng. Đây là prompt gợi ý để bắt đầu, không phải đầu vào đã được ghi nhận của một game mẫu.
+
+**Prompt**
+
+```text
+Tạo game phiêu lưu khối vuông tối ưu cho thiết bị di động, có chế độ nhiều người chơi để bạn bè cùng khám phá, thu thập vật liệu và xây dựng.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/multiplayer-block-adventure-mobile-game) · [Bài đăng gốc](https://combos.converge.ai/events/block-world?utm=tech_arish) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D
@@ -4261,7 +4278,7 @@ Xuất bản prompt jelly-villa mới, ghi công jared, ghi tác giả gốc tro
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 390 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 392 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

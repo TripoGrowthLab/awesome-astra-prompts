@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**390 · En yeni Astra istemleri**
+**392 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -50,8 +50,6 @@
 <details>
 <summary>Örnekleri keşfet</summary>
 
-- [Three.js'te voxel tarzı Japon bahçesi](#2103486103831339269)
-- [Şişede voksel gemi WebGL sahnesi](#2103855977376125161)
 - [Orman gölü köyü ortamı](#2103860776419111285)
 - [Blender'da Super Heavy güçlendirici yakalama sahnesi](#2103966922127630820)
 - [Etkileşimli 3B kamera lensi ışık yolu demosu](#2104077535315144878)
@@ -147,51 +145,13 @@
 - [Koyunların Bulutlara Dönüştüğü Döngüsel 3B Animasyon](#2117863398822342673)
 - [Oyuna hazır, kuş bacakları üzerinde Baba Yaga kulübesi](#2117949666448883731)
 - [Etkileşimli Gece Bileti Koleksiyonu](#2118332979030208748)
+- [Uçan Adada Etkileşimli Piksel Sanatı Eğlence Parkı](#2118732546246897872)
+- [Mobil için çok oyunculu blok macera oyunu](#2119410564489175551)
 - [Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu](#red-light-green-light)
 - [Golden Miner: 24 Seviyeli 3B Madencilik Oyunu](#golden-miner)
 - [Jöle Villa](#jelly-villa)
 
 </details>
-
-<a id="2103486103831339269"></a>
-
-### Three.js'te voxel tarzı Japon bahçesi
-
-[Marcel](https://x.com/marcthecreatorr) · 2026-09-25
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103486103831339269"><img src="../assets/previews/b81a2575e66269b3d4175d1d6ed6250955d3a1d3c082c0bb5c26ad99afbed1c3.jpg" width="840" loading="lazy" alt="Three.js'te voxel tarzı Japon bahçesi"></a>
-
-Pagoda, minik köylüler ve uçan bir ejderha içeren etkileşimli, voxel tarzı bir Japon bahçesi için prompt. Paylaşımı yapan kişi, bu promptun tek seferlik bir karşılaştırma için Astra ve Space Bunny'ye aynen verildiğini söylüyor.
-
-**İstem**
-
-```text
-Three.js'te pagoda, minik köylüler, uçan bir ejderha ve etkileşimli ayrıntılar içeren, ayrıntılı bir voxel tarzı Japon bahçesi oluştur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103486103831339269) · [Orijinal gönderi](https://x.com/marcthecreatorr/status/2103486103831339269) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2103855977376125161"></a>
-
-### Şişede voksel gemi WebGL sahnesi
-
-[PEP PEPICH](https://x.com/Artless101) · 2026-09-26
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103855977376125161"><img src="../assets/previews/d8a74685a75a3f46e3e8ca5a4148d471823b51ea9e7e317e8eb3add7d7d18fa4.jpg" width="840" loading="lazy" alt="Şişede voksel gemi WebGL sahnesi"></a>
-
-Dalgalar, modellenmiş fizik ve çeşitli objeler ya da manzaralar içeren, bir şişenin içine yerleştirilmiş yelkenli gemi ve okyanustan oluşan ayrıntılı, renkli bir voksel sanat sahnesi oluşturun. İstenen sonuç, Chrome'da çalışabilen ve tek bir HTML dosyasından açılabilen bir WebGL sahnesidir.
-
-**İstem**
-
-```text
-Şişenin içinde okyanusta ilerleyen karmaşık bir gemiyi gösteren, son derece yaratıcı, ayrıntılı ve özenle hazırlanmış bir voksel sanat sahnesi tasarlayıp oluşturun. Dalgalar ve gerçekçi fizik simülasyonu ekleyin; tüm sahne şişenin içinde kapsüllenmiş olsun. Sahneyi etkileyici ve çeşitli hale getirin; renkli vokseller, modellenmiş fizik ve ilgi çekici objeler ya da manzaralar kullanın ve bunların tamamını şişenin içinde tutun. Bunu gerçekleştirmek için WebGL ve gerekli kütüphaneleri kullanabilirsiniz; ancak tüm kodu tek bir HTML dosyasına yapıştırıp Chrome'da açabildiğimden emin olun.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103855977376125161) · [Orijinal gönderi](https://x.com/Artless101/status/2103856049925071141) · [Örneklere dön](#all-prompts)
-
----
 
 <a id="2103860776419111285"></a>
 
@@ -4036,6 +3996,63 @@ Güzel bir kompozisyona, inandırıcı malzemelere ve akıcı, ölçülü animas
 
 ---
 
+<a id="2118732546246897872"></a>
+
+### Uçan Adada Etkileşimli Piksel Sanatı Eğlence Parkı
+
+[NinjaCodex](https://x.com/N1njaCodex) · 2026-11-06
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/floating-island-amusement-park-3d"><img src="../assets/previews/dbf7f72b82e390f7427f23309eceacf587e704fa28ae683298038b9b32313cac.jpg" width="840" loading="lazy" alt="Uçan Adada Etkileşimli Piksel Sanatı Eğlence Parkı"></a>
+
+Wonderlight’ı; beş animasyonlu eğlence aracı, yürüyen ziyaretçiler ve ayrıntılı voksel tarzı uçan bir adayla, Three.js kullanarak etkileşimli bir eğlence parkı olarak oluşturun. İstemde kamera kontrolleri, ışıklandırma modları, havai fişekler ve çevrimdışı çalışan, tek başına kullanılabilir bir HTML dosyası isteniyor.
+
+**İstem**
+
+```text
+Three.js kullanarak, uçan bir adada Wonderlight adlı etkileşimli bir 3B piksel sanatı eğlence parkı oluşturun.
+
+Beş animasyonlu eğlence aracı yapın:
+- Kesintisiz bir parkuru, dik inişleri ve geniş dönüşleri olan; yer çekimine tepki veren beş vagonlu bir treni bulunan hız treni.
+- Dönerken gondolları dik duran, on iki renkli gondollu bir dönme dolap.
+- Çizgili çatısı ve aşağı yukarı hareket eden sekiz atı olan bir atlıkarınca.
+- Dönen altı fincan.
+- Sallanan bir korsan gemisi.
+
+Parkı yürüyen ziyaretçiler, kuyruklar, yiyecek tezgâhları, banklar, ağaçlar, çiçekler, fenerler, balonlar ve süslü bir girişle doldurun. Eğlence araçlarına binecek yolcuları görünür biçimde yerleştirin.
+
+Ayrıntılı bir voksel estetiği, net piksel görünümü, sıcak krem ve mercan tonları, turkuaz vurgular, gerçekçi gölgeler ve ortografik kamera kullanın. Uçan adaya katmanlı toprak, taş ve çimen ekleyin; çevresinde küçük kayalar havada süzülsün.
+
+Kullanıcıların kamerayı döndürmesine ve yakınlaştırmasına, eğlence araçlarına tıklayarak onları kadraja almasına ve hız treni trenini takip etmesine olanak tanıyın. Duraklatma, simülasyon hızı, ayarlanabilir piksel boyutu ile gündüz, altın saat ve gece ışıklandırma seçeneklerini ekleyin. Gece, eğlence araçlarını ve yolları aydınlatın. Renkli havai fişekler başlatan bir düğme ekleyin.
+
+Sahnenin sayfada öne çıkmasını sağlayan, şık ve minimal bir İngilizce arayüz tasarlayın. Masaüstü ve mobil cihazlarda çalışsın; kayıt için kontrolleri gizleyen bir mod da bulunsun.
+
+Her şeyi çevrimdışı çalışan, tek başına kullanılabilir bir HTML dosyasında sunun. Tüm geometrileri, dokuları ve isteğe bağlı sesleri kodla oluşturun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/floating-island-amusement-park-3d) · [Orijinal gönderi](https://x.com/N1njaCodex/status/2118733080974274872) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2119410564489175551"></a>
+
+### Mobil için çok oyunculu blok macera oyunu
+
+[combos.converge.ai](https://combos.converge.ai/) · 2026-11-08
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/multiplayer-block-adventure-mobile-game"><img src="../assets/previews/fa0aed745f8793f5d4343f4fe38e743657ab273dae8f8322e89ab691ec857b33.jpg" width="840" loading="lazy" alt="Mobil için çok oyunculu blok macera oyunu"></a>
+
+Bağlantıdaki Combos meydan okuma sayfası, arkadaşların keşfe çıkıp malzeme topladığı ve birlikte yapılar inşa ettiği, mobil cihazlara uygun çok oyunculu bir blok macera oyunu için bu istemi öneriyor. Bu, önerilen bir başlangıç istemidir; tanıtılan bir oyuna ait belgelenmiş bir girdi değildir.
+
+**İstem**
+
+```text
+Arkadaşların keşfe çıkıp malzeme toplayabileceği ve birlikte yapılar inşa edebileceği, mobil cihazlara uygun çok oyunculu bir blok macera oyunu oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/multiplayer-block-adventure-mobile-game) · [Orijinal gönderi](https://combos.converge.ai/events/block-world?utm=tech_arish) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu
@@ -4251,7 +4268,7 @@ jared adına atıf yapılan yeni bir jelly-villa istemi yayımlayın; özgün ya
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 390 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 392 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>
