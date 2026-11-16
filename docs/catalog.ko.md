@@ -28,7 +28,7 @@
 **다음 게임, 장면, 인터랙티브 세계를 위한 아이디어를 찾아보세요.**
 
 
-**392 · 최신 Astra 프롬프트**
+**393 · 최신 Astra 프롬프트**
 
 ## 추천 작품
 
@@ -50,7 +50,7 @@
 <details>
 <summary>사례 둘러보기</summary>
 
-- [숲속 호수 마을 환경](#2103860776419111285)
+- [CAD로 3D 프린트 설계하기](#2121330766919688268) · GitHub
 - [Blender에서 슈퍼 헤비 부스터 캐치 구현하기](#2103966922127630820)
 - [인터랙티브 3D 카메라 렌즈 광선 경로 데모](#2104077535315144878)
 - [인터랙티브 3D 젤리 수박 슬라이스](#2104504957173153951)
@@ -153,27 +153,33 @@
 
 </details>
 
-<a id="2103860776419111285"></a>
+<a id="2121330766919688268"></a>
 
-### 숲속 호수 마을 환경
+### CAD로 3D 프린트 설계하기
 
-[Givros](https://x.com/givros) · 2026-09-26
+[andrewimm](https://github.com/andrewimm) · 2026-11-13
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/9be4889a639ad97638c10be775f22e1121913e2d8ac6c3e25fca613c8510a2c1.jpg" width="840" loading="lazy" alt="숲속 호수 마을 환경"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/3d-print-cad-design-workflow"><img src="../assets/previews/fd7b1b200b9cab8f5ab2d12b573a364d25805d90500c6bfc1271e7831547e6e8.jpg" width="840" loading="lazy" alt="CAD로 3D 프린트 설계하기"></a>
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/fe415aed9bbd551d9c40c9b8264ce62bd71fd52d91d56f61680659112ae3377c.jpg" width="840" loading="lazy" alt="숲속 호수 마을 환경"></a>
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/ed31cdb42a8f2eb8c18d93e49bc070cc4ecfc7865c7f5cbb712bc29fa09a3bbb.jpg" width="840" loading="lazy" alt="숲속 호수 마을 환경"></a>
-
-Luna Light, Sol Light, Astra Light를 동일한 프롬프트로 비교하기 위해 루트 작성자가 사용하는 3D 환경 제작 브리프입니다. 중앙에 호수가 있고 주변을 숲이 둘러싸며, 호수 한가운데에는 버려진 집이 있고 호수 주변에는 꽃이 만발한 프랑스 마을과 주요 지점을 잇는 길이 배치됩니다.
+연결된 저장소에서는 cad CLI와 스킬을 설치하고, 무엇을 출력할지 물어본 다음 설계를 모델링하고 검증하며 렌더링을 보여 주고 슬라이서에서 사용할 수 있는 3MF로 내보내는 프롬프트를 권장합니다. 이 프롬프트는 권장 시작점이며, 실제로 입력해 시연한 예시는 아닙니다.
 
 **프롬프트**
 
 ```text
-호수가 중앙에 있는 숲. 호수 한가운데에 버려진 집. 호수 주변에 꽃이 만발한 프랑스 마을. 주요 지점을 연결하는 길.
+에이전트 중심 CAD 도구인 cad를 사용하도록 설정해 주세요. 제공처는 https://github.com/andrewimm/cli-cad, 그다음 저를 도와
+첫 3D 프린트를 설계해 주세요.
+
+1. 다음 주소의 Install 섹션에 따라 cad CLI를 설치하세요. https://github.com/andrewimm/cli-cad#install
+   (Linux에서는 먼저 안내된 시스템 라이브러리를 설치하세요.) 다음 명령으로 확인하세요. `cad --version`.
+2. 스킬을 불러오는 위치에 cad 스킬을 설치하세요: `npx skills add andrewimm/cli-cad --skill cad -g -y`
+   대부분의 에이전트에서는 이 명령으로 설치할 수 있습니다. 그렇지 않다면 다음을 다운로드하세요.
+   https://raw.githubusercontent.com/andrewimm/cli-cad/main/skills/cad/SKILL.md 스킬 디렉터리에
+   (기존 사본이 있다면 교체하세요.) 그런 다음 내용을 읽고 이후에는 그 지침을 따르세요.
+3. ~/cad-projects/first-print 프로젝트 폴더를 만들고 무엇을 출력하고 싶은지 물어보세요. cad로 모델링한 다음,
+   cad의 치수 측정 기능으로 확인하고 렌더링 결과를 보여 준 뒤, 슬라이서에서 열 수 있는 3MF로 내보내세요.
 ```
 
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103860776419111285) · [원본 게시물](https://x.com/givros/status/2103860776419111285) · [사례 목록으로](#all-prompts)
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/3d-print-cad-design-workflow) · [원본 게시물](https://github.com/andrewimm/cli-cad) · [소스 코드](https://github.com/andrewimm/cli-cad) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -4268,7 +4274,7 @@ jared를 크레딧으로 표시한 새 jelly-villa 프롬프트를 게시하고,
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 392개 보기 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 393개 보기 →</a></strong></p>
 <p><sub>GitHub README가 원활하게 렌더링되도록 최신 사례 100개만 표시합니다.</sub></p>
 <br>
 </td></tr>

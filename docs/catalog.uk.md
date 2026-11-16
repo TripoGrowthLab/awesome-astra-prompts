@@ -28,7 +28,7 @@
 **Ідеї для вашої наступної гри, сцени або інтерактивного світу.**
 
 
-**392 · Нові промпти Astra**
+**393 · Нові промпти Astra**
 
 ## Вибрані проєкти
 
@@ -50,7 +50,7 @@
 <details>
 <summary>Переглянути приклади</summary>
 
-- [Лісове село біля озера](#2103860776419111285)
+- [Спроєктуйте модель для 3D-друку за допомогою cad](#2121330766919688268) · GitHub
 - [Ловля прискорювача Super Heavy у Blender](#2103966922127630820)
 - [Інтерактивна 3D-демонстрація проходження світла через об’єктив](#2104077535315144878)
 - [Інтерактивна 3D-скибка кавунового желе](#2104504957173153951)
@@ -153,27 +153,33 @@
 
 </details>
 
-<a id="2103860776419111285"></a>
+<a id="2121330766919688268"></a>
 
-### Лісове село біля озера
+### Спроєктуйте модель для 3D-друку за допомогою cad
 
-[Givros](https://x.com/givros) · 2026-09-26
+[andrewimm](https://github.com/andrewimm) · 2026-11-13
 
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/9be4889a639ad97638c10be775f22e1121913e2d8ac6c3e25fca613c8510a2c1.jpg" width="840" loading="lazy" alt="Лісове село біля озера"></a>
+<a href="https://www.tripo3d.ai/uk/3d-prompts/3d-print-cad-design-workflow"><img src="../assets/previews/fd7b1b200b9cab8f5ab2d12b573a364d25805d90500c6bfc1271e7831547e6e8.jpg" width="840" loading="lazy" alt="Спроєктуйте модель для 3D-друку за допомогою cad"></a>
 
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/fe415aed9bbd551d9c40c9b8264ce62bd71fd52d91d56f61680659112ae3377c.jpg" width="840" loading="lazy" alt="Лісове село біля озера"></a>
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/ed31cdb42a8f2eb8c18d93e49bc070cc4ecfc7865c7f5cbb712bc29fa09a3bbb.jpg" width="840" loading="lazy" alt="Лісове село біля озера"></a>
-
-Опис 3D-середовища для автора оригіналу, призначений для порівняння Luna Light, Sol Light і Astra Light за одним і тим самим промптом. У ньому задано ліс навколо центрального озера, покинутий будинок посеред озера, французьке село в оточенні квітів і стежки, що їх з’єднують.
+Пов’язаний репозиторій рекомендує промпт, який установлює CLI та навичку cad, запитує, що саме користувач хоче надрукувати, потім моделює й перевіряє конструкцію, показує рендери та експортує файл 3MF, готовий для слайсера. Це рекомендований стартовий промпт, а не приклад уведених даних.
 
 **Промпт**
 
 ```text
-Ліс із озером у центрі. Посеред озера — покинутий будинок. Навколо озера — французьке село, потопаюче у квітах. Стежки, що з’єднують ключові локації.
+Налаштуй для мене cad — CAD-інструмент, орієнтований на агентів, із https://github.com/andrewimm/cli-cad,, а потім допоможи мені
+спроєктувати мою першу модель для 3D-друку.
+
+1. Установи CLI cad, дотримуючись розділу Install у https://github.com/andrewimm/cli-cad#install
+   (у Linux спочатку встанови системні бібліотеки, які там перелічено). Перевір його за допомогою `cad --version`.
+2. Установи навичку cad у каталог, звідки ти завантажуєш навички: `npx skills add andrewimm/cli-cad --skill cad -g -y`
+   працює для більшості агентів; інакше завантаж
+   https://raw.githubusercontent.com/andrewimm/cli-cad/main/skills/cad/SKILL.md у свій каталог навичок
+   (заміни будь-яку старішу копію). Потім прочитай її й надалі дотримуйся її вказівок.
+3. Створи папку проєкту ~/cad-projects/first-print і запитай мене, що я хочу надрукувати. Змоделюй це за допомогою cad,
+   перевір за допомогою вимірювань cad, покажи мені рендери та експортуй файл 3MF, який я зможу відкрити у своєму слайсері.
 ```
 
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2103860776419111285) · [Оригінальний допис](https://x.com/givros/status/2103860776419111285) · [Назад до прикладів](#all-prompts)
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/3d-print-cad-design-workflow) · [Оригінальний допис](https://github.com/andrewimm/cli-cad) · [Вихідний код](https://github.com/andrewimm/cli-cad) · [Назад до прикладів](#all-prompts)
 
 ---
 
@@ -4268,7 +4274,7 @@ THE LAST CARRIAGE
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/uk/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Усі приклади на офіційному сайті: 392 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/uk/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Усі приклади на офіційному сайті: 393 →</a></strong></p>
 <p><sub>Щоб README на GitHub відображався без затримок, тут показано лише 100 найновіших прикладів.</sub></p>
 <br>
 </td></tr>

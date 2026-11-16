@@ -29,7 +29,7 @@
 
 探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。
 
-**392 条案例 · 14 种语言 · 12 条附项目源码**
+**393 条案例 · 14 种语言 · 13 条附项目源码**
 
 ## 精选作品
 
@@ -51,7 +51,7 @@
 <details>
 <summary>浏览案例</summary>
 
-- [森林湖畔村庄环境](#2103860776419111285)
+- [使用 CAD 设计 3D 打印件](#2121330766919688268) · GitHub
 - [在 Blender 中制作 Super Heavy 助推器捕获装置](#2103966922127630820)
 - [交互式 3D 相机镜头光路演示](#2104077535315144878)
 - [可交互 3D 果冻西瓜切片](#2104504957173153951)
@@ -154,27 +154,33 @@
 
 </details>
 
-<a id="2103860776419111285"></a>
+<a id="2121330766919688268"></a>
 
-### 森林湖畔村庄环境
+### 使用 CAD 设计 3D 打印件
 
-[Givros](https://x.com/givros) · 2026-09-26
+[andrewimm](https://github.com/andrewimm) · 2026-11-13
 
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103860776419111285"><img src="assets/previews/9be4889a639ad97638c10be775f22e1121913e2d8ac6c3e25fca613c8510a2c1.jpg" width="840" loading="lazy" alt="森林湖畔村庄环境"></a>
+<a href="https://www.tripo3d.ai/zh/3d-prompts/3d-print-cad-design-workflow"><img src="assets/previews/fd7b1b200b9cab8f5ab2d12b573a364d25805d90500c6bfc1271e7831547e6e8.jpg" width="840" loading="lazy" alt="使用 CAD 设计 3D 打印件"></a>
 
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103860776419111285"><img src="assets/previews/fe415aed9bbd551d9c40c9b8264ce62bd71fd52d91d56f61680659112ae3377c.jpg" width="840" loading="lazy" alt="森林湖畔村庄环境"></a>
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103860776419111285"><img src="assets/previews/ed31cdb42a8f2eb8c18d93e49bc070cc4ecfc7865c7f5cbb712bc29fa09a3bbb.jpg" width="840" loading="lazy" alt="森林湖畔村庄环境"></a>
-
-供根作者用于在相同提示词下对比 Luna Light、Sol Light 和 Astra Light 的 3D 环境简介。场景设定为一片环绕中央湖泊的森林，湖中有一栋废弃房屋，湖畔分布着繁花盛开的法国村庄，并由道路彼此连接。
+链接的代码仓库推荐使用一段提示词：安装 cad CLI 和技能，询问用户想打印什么，然后进行建模和设计检查、展示渲染图，并导出可直接用于切片的 3MF 文件。这是一段推荐的起始提示词，并非演示输入。
 
 **提示词**
 
 ```text
-一片森林，中间有一座湖。湖的中央有一栋废弃房屋。湖泊四周是一座繁花盛开的法国村庄。用道路连接各个重要地点。
+请先用 https://github.com/andrewimm/cli-cad, 中面向智能体的 CAD 工具 cad 完成环境设置，然后帮我
+设计我的第一个 3D 打印件。
+
+1. 按照 https://github.com/andrewimm/cli-cad#install
+ 的 Install 部分安装 cad CLI（在 Linux 上，请先安装其中列出的系统库）。使用 `cad --version` 检查安装是否成功。
+2. 将 cad 技能安装到你加载技能的位置：`npx skills add andrewimm/cli-cad --skill cad -g -y`
+   这适用于大多数智能体；否则，请将
+   https://raw.githubusercontent.com/andrewimm/cli-cad/main/skills/cad/SKILL.md下载到你的技能目录
+   （替换任何旧版本）。然后阅读该技能，并从现在起遵循其中的说明。
+3. 创建项目文件夹 ~/cad-projects/first-print，并询问我想打印什么。使用 cad 建模，
+   使用 cad 的测量功能检查模型，向我展示渲染图，并导出一个可在我的切片软件中打开的 3MF 文件。
 ```
 
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103860776419111285) · [查看原帖](https://x.com/givros/status/2103860776419111285) · [返回案例导航](#all-prompts)
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/3d-print-cad-design-workflow) · [查看原帖](https://github.com/andrewimm/cli-cad) · [项目源码](https://github.com/andrewimm/cli-cad) · [返回案例导航](#all-prompts)
 
 ---
 
@@ -4278,7 +4284,7 @@ UI 与城市画面应形成适当对比，但不能过度抢眼。
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 392 条案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 393 条案例 →</a></strong></p>
 <p><sub>为保持 GitHub README 渲染流畅，这里仅展示最新 100 条案例。</sub></p>
 <br>
 </td></tr>

@@ -28,7 +28,7 @@
 **次のゲーム、シーン、インタラクティブな世界づくりのヒントに。**
 
 
-**392 · 最新の Astra プロンプト**
+**393 · 最新の Astra プロンプト**
 
 ## 注目の作品
 
@@ -50,7 +50,7 @@
 <details>
 <summary>作例を見る</summary>
 
-- [森に囲まれた湖畔の村の環境](#2103860776419111285)
+- [CADで3Dプリントを設計](#2121330766919688268) · GitHub
 - [BlenderでSuper Heavyブースターをキャッチするシーン](#2103966922127630820)
 - [インタラクティブな3Dカメラレンズの光路デモ](#2104077535315144878)
 - [インタラクティブな3Dゼリー状スイカスライス](#2104504957173153951)
@@ -153,27 +153,33 @@
 
 </details>
 
-<a id="2103860776419111285"></a>
+<a id="2121330766919688268"></a>
 
-### 森に囲まれた湖畔の村の環境
+### CADで3Dプリントを設計
 
-[Givros](https://x.com/givros) · 2026-09-26
+[andrewimm](https://github.com/andrewimm) · 2026-11-13
 
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/9be4889a639ad97638c10be775f22e1121913e2d8ac6c3e25fca613c8510a2c1.jpg" width="840" loading="lazy" alt="森に囲まれた湖畔の村の環境"></a>
+<a href="https://www.tripo3d.ai/ja/3d-prompts/3d-print-cad-design-workflow"><img src="../assets/previews/fd7b1b200b9cab8f5ab2d12b573a364d25805d90500c6bfc1271e7831547e6e8.jpg" width="840" loading="lazy" alt="CADで3Dプリントを設計"></a>
 
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/fe415aed9bbd551d9c40c9b8264ce62bd71fd52d91d56f61680659112ae3377c.jpg" width="840" loading="lazy" alt="森に囲まれた湖畔の村の環境"></a>
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/ed31cdb42a8f2eb8c18d93e49bc070cc4ecfc7865c7f5cbb712bc29fa09a3bbb.jpg" width="840" loading="lazy" alt="森に囲まれた湖畔の村の環境"></a>
-
-元の作者がLuna Light、Sol Light、Astra Lightを同じプロンプトで比較するために使用する、3D環境の概要です。中央の湖を取り囲む森、湖の中に建つ廃屋、その周囲に広がる花に彩られたフランスの村、そしてそれらをつなぐ道を指定しています。
+リンク先のリポジトリでは、cad CLIとスキルをインストールし、何を印刷したいかを確認してから、モデルの作成とデザインの検証、レンダリング画像の表示、スライサーで開ける3MFの書き出しまで行うプロンプトを推奨しています。実演済みの入力ではなく、開始時に使う推奨プロンプトです。
 
 **プロンプト**
 
 ```text
-中央に湖がある森。湖の中央には廃屋。湖の周囲には花に彩られたフランスの村。重要な場所をつなぐ道。
+エージェントファーストのCADツール、cadをセットアップして、 https://github.com/andrewimm/cli-cad, 続けて、私が
+初めての3Dプリントを設計するのを手伝ってください。
+
+Installセクションに従ってcad CLIをインストールします。 https://github.com/andrewimm/cli-cad#install
+   （Linuxでは、記載されているシステムライブラリを先にインストールしてください）。確認します `cad --version`。
+2. cadスキルを、スキルを読み込む場所にインストールします： `npx skills add andrewimm/cli-cad --skill cad -g -y`
+   多くのエージェントではこれで動作します。それ以外の場合はダウンロードします
+   https://raw.githubusercontent.com/andrewimm/cli-cad/main/skills/cad/SKILL.md スキルディレクトリに
+   （古いコピーがあれば置き換えてください）。その後、内容を読み、以降はその手順に従ってください。
+3. プロジェクトフォルダー ~/cad-projects/first-print を作成し、何を印刷したいか尋ねます。cadでモデリングし、
+   cadの計測機能で確認し、レンダー結果を表示して、スライサーで開ける3MFを書き出します。
 ```
 
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2103860776419111285) · [元の投稿](https://x.com/givros/status/2103860776419111285) · [作例一覧に戻る](#all-prompts)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/3d-print-cad-design-workflow) · [元の投稿](https://github.com/andrewimm/cli-cad) · [ソースコード](https://github.com/andrewimm/cli-cad) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -4277,7 +4283,7 @@ jaredのクレジットを付けた新しいjelly-villaプロンプトを公開�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 392 件の作例を公式サイトで見る →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 393 件の作例を公式サイトで見る →</a></strong></p>
 <p><sub>GitHub README をスムーズに表示するため、ここでは最新の作例 100 件のみを掲載しています。</sub></p>
 <br>
 </td></tr>

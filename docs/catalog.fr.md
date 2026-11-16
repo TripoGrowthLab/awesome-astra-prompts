@@ -28,7 +28,7 @@
 **Un point de départ pour votre prochain jeu, scène ou monde interactif.**
 
 
-**392 · Derniers prompts Astra**
+**393 · Derniers prompts Astra**
 
 ## Projets à découvrir
 
@@ -50,7 +50,7 @@
 <details>
 <summary>Parcourir les exemples</summary>
 
-- [Environnement de village forestier autour d’un lac](#2103860776419111285)
+- [Concevoir une impression 3D avec cad](#2121330766919688268) · GitHub
 - [Capture du booster Super Heavy dans Blender](#2103966922127630820)
 - [Démonstration interactive en 3D du trajet de la lumière dans un objectif photo](#2104077535315144878)
 - [Tranche de pastèque en gelée 3D interactive](#2104504957173153951)
@@ -153,27 +153,33 @@
 
 </details>
 
-<a id="2103860776419111285"></a>
+<a id="2121330766919688268"></a>
 
-### Environnement de village forestier autour d’un lac
+### Concevoir une impression 3D avec cad
 
-[Givros](https://x.com/givros) · 2026-09-26
+[andrewimm](https://github.com/andrewimm) · 2026-11-13
 
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/9be4889a639ad97638c10be775f22e1121913e2d8ac6c3e25fca613c8510a2c1.jpg" width="840" loading="lazy" alt="Environnement de village forestier autour d’un lac"></a>
+<a href="https://www.tripo3d.ai/fr/3d-prompts/3d-print-cad-design-workflow"><img src="../assets/previews/fd7b1b200b9cab8f5ab2d12b573a364d25805d90500c6bfc1271e7831547e6e8.jpg" width="840" loading="lazy" alt="Concevoir une impression 3D avec cad"></a>
 
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/fe415aed9bbd551d9c40c9b8264ce62bd71fd52d91d56f61680659112ae3377c.jpg" width="840" loading="lazy" alt="Environnement de village forestier autour d’un lac"></a>
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/ed31cdb42a8f2eb8c18d93e49bc070cc4ecfc7865c7f5cbb712bc29fa09a3bbb.jpg" width="840" loading="lazy" alt="Environnement de village forestier autour d’un lac"></a>
-
-Brief d’environnement 3D utilisé par l’auteur principal pour comparer Luna Light, Sol Light et Astra Light avec le même prompt. Il décrit une forêt entourant un lac central, une maison abandonnée au milieu du lac, un village français fleuri tout autour et des chemins reliant les différents points.
+Le dépôt associé recommande un prompt qui installe le CLI et le skill cad, demande à l’utilisateur ce qu’il souhaite imprimer, puis modélise et vérifie la conception, affiche les rendus et exporte un fichier 3MF prêt à être utilisé dans un slicer. Il s’agit d’un prompt de départ recommandé, et non d’une saisie présentée comme exemple.
 
 **Prompt**
 
 ```text
-Une forêt entourant un lac central. Au milieu du lac, une maison abandonnée. Autour du lac, un village français fleuri. Des chemins relient les points importants.
+Configurez cad, l’outil de CAO conçu pour les agents, depuis https://github.com/andrewimm/cli-cad,, puis aidez-moi à
+concevoir ma première impression 3D.
+
+1. Installez le CLI cad en suivant la section Install de https://github.com/andrewimm/cli-cad#install
+ (sous Linux, installez d’abord les bibliothèques système qui y sont indiquées). Vérifiez l’installation avec `cad --version`.
+2. Installez le skill cad à l’emplacement où vous chargez vos skills : `npx skills add andrewimm/cli-cad --skill cad -g -y`
+ fonctionne avec la plupart des agents ; sinon, téléchargez
+ https://raw.githubusercontent.com/andrewimm/cli-cad/main/skills/cad/SKILL.md dans votre dossier de skills
+ (en remplaçant toute version plus ancienne). Lisez-le ensuite et suivez ses instructions pour la suite.
+3. Créez le dossier de projet ~/cad-projects/first-print et demandez-moi ce que je souhaite imprimer. Modélisez-le avec cad,
+ vérifiez-le à l’aide des mesures de cad, affichez-moi les rendus et exportez un fichier 3MF que je pourrai ouvrir dans mon slicer.
 ```
 
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2103860776419111285) · [Publication originale](https://x.com/givros/status/2103860776419111285) · [Retour aux exemples](#all-prompts)
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/3d-print-cad-design-workflow) · [Publication originale](https://github.com/andrewimm/cli-cad) · [Code source](https://github.com/andrewimm/cli-cad) · [Retour aux exemples](#all-prompts)
 
 ---
 
@@ -4268,7 +4274,7 @@ Publier un nouveau prompt jelly-villa attribué à jared, avec l’auteur origin
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 392 exemples sur le site officiel →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 393 exemples sur le site officiel →</a></strong></p>
 <p><sub>Pour préserver la fluidité du rendu du README sur GitHub, seuls les 100 exemples les plus récents sont affichés ici.</sub></p>
 <br>
 </td></tr>

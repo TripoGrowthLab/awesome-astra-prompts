@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**392 · En yeni Astra istemleri**
+**393 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -50,7 +50,7 @@
 <details>
 <summary>Örnekleri keşfet</summary>
 
-- [Orman gölü köyü ortamı](#2103860776419111285)
+- [CAD ile 3B baskı tasarla](#2121330766919688268) · GitHub
 - [Blender'da Super Heavy güçlendirici yakalama sahnesi](#2103966922127630820)
 - [Etkileşimli 3B kamera lensi ışık yolu demosu](#2104077535315144878)
 - [Etkileşimli 3B jöle karpuz dilimi](#2104504957173153951)
@@ -153,27 +153,33 @@
 
 </details>
 
-<a id="2103860776419111285"></a>
+<a id="2121330766919688268"></a>
 
-### Orman gölü köyü ortamı
+### CAD ile 3B baskı tasarla
 
-[Givros](https://x.com/givros) · 2026-09-26
+[andrewimm](https://github.com/andrewimm) · 2026-11-13
 
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/9be4889a639ad97638c10be775f22e1121913e2d8ac6c3e25fca613c8510a2c1.jpg" width="840" loading="lazy" alt="Orman gölü köyü ortamı"></a>
+<a href="https://www.tripo3d.ai/tr/3d-prompts/3d-print-cad-design-workflow"><img src="../assets/previews/fd7b1b200b9cab8f5ab2d12b573a364d25805d90500c6bfc1271e7831547e6e8.jpg" width="840" loading="lazy" alt="CAD ile 3B baskı tasarla"></a>
 
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/fe415aed9bbd551d9c40c9b8264ce62bd71fd52d91d56f61680659112ae3377c.jpg" width="840" loading="lazy" alt="Orman gölü köyü ortamı"></a>
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/ed31cdb42a8f2eb8c18d93e49bc070cc4ecfc7865c7f5cbb712bc29fa09a3bbb.jpg" width="840" loading="lazy" alt="Orman gölü köyü ortamı"></a>
-
-Ana yazarın Luna Light, Sol Light ve Astra Light'ı aynı istemle karşılaştırması için kullanılan 3B ortam taslağı. Merkezinde bir göl bulunan ormanı, gölün içindeki terk edilmiş bir evi, gölün çevresindeki çiçeklerle dolu Fransız köyünü ve bu noktaları birbirine bağlayan yolları tanımlar.
+Bağlantısı verilen depo, cad CLI ve becerisini yükleyen; ne basmak istediğinizi soran; ardından tasarımı modelleyip kontrol eden, render’ları gösteren ve dilimleyicide kullanıma hazır bir 3MF dışa aktaran bir başlangıç istemi öneriyor. Bu, örnek olarak çalıştırılmış bir girdi değil, önerilen bir başlangıç istemidir.
 
 **İstem**
 
 ```text
-Merkezinde bir göl bulunan orman. Gölün ortasında terk edilmiş bir ev. Gölün çevresinde çiçeklerle dolu bir Fransız köyü. Önemli noktaları birbirine bağlayan yollar.
+https://github.com/andrewimm/cli-cad, adresindeki, önce aracı kullanan CAD aracı cad’i kurmama yardım et; ardından ilk 3B baskımı tasarlamama
+ yardım et.
+
+1. https://github.com/andrewimm/cli-cad#install
+ içindeki Install bölümündeki adımları izleyerek cad CLI’ı kur. (Linux’ta önce listelenen sistem kitaplıklarını kur.) `cad --version` ile kurulumu kontrol et.
+2. cad becerisini, becerileri yüklediğin konuma kur: `npx skills add andrewimm/cli-cad --skill cad -g -y`
+ çoğu ajan için uygundur; değilse
+https://raw.githubusercontent.com/andrewimm/cli-cad/main/skills/cad/SKILL.md dosyasını beceri dizinine indir
+ (eski bir kopya varsa üzerine yaz). Ardından beceriyi oku ve bundan sonra talimatlarını uygula.
+3. ~/cad-projects/first-print proje klasörünü oluştur ve bana ne basmak istediğimi sor. Cad ile modelle,
+ cad’in ölçüm araçlarıyla kontrol et, render’ları göster ve dilimleyicimde açabileceğim bir 3MF dışa aktar.
 ```
 
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103860776419111285) · [Orijinal gönderi](https://x.com/givros/status/2103860776419111285) · [Örneklere dön](#all-prompts)
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/3d-print-cad-design-workflow) · [Orijinal gönderi](https://github.com/andrewimm/cli-cad) · [Kaynak kodu](https://github.com/andrewimm/cli-cad) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -4268,7 +4274,7 @@ jared adına atıf yapılan yeni bir jelly-villa istemi yayımlayın; özgün ya
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 392 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 393 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

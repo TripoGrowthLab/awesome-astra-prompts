@@ -29,7 +29,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**392 examples · 14 languages · 12 examples with source code**
+**393 examples · 14 languages · 13 examples with source code**
 
 ## Featured projects
 
@@ -51,7 +51,7 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 <details>
 <summary>Browse examples</summary>
 
-- [Forest lake village environment](#2103860776419111285)
+- [Design a 3D print with cad](#2121330766919688268) · GitHub
 - [Super Heavy booster catch in Blender](#2103966922127630820)
 - [Interactive 3D camera lens light-path demo](#2104077535315144878)
 - [Interactive 3D Melon Jelly Slice](#2104504957173153951)
@@ -154,27 +154,33 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 
 </details>
 
-<a id="2103860776419111285"></a>
+<a id="2121330766919688268"></a>
 
-### Forest lake village environment
+### Design a 3D print with cad
 
-[Givros](https://x.com/givros) · 2026-09-26
+[andrewimm](https://github.com/andrewimm) · 2026-11-13
 
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103860776419111285"><img src="assets/previews/9be4889a639ad97638c10be775f22e1121913e2d8ac6c3e25fca613c8510a2c1.jpg" width="840" loading="lazy" alt="Forest lake village environment"></a>
+<a href="https://www.tripo3d.ai/3d-prompts/3d-print-cad-design-workflow"><img src="assets/previews/fd7b1b200b9cab8f5ab2d12b573a364d25805d90500c6bfc1271e7831547e6e8.jpg" width="840" loading="lazy" alt="Design a 3D print with cad"></a>
 
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103860776419111285"><img src="assets/previews/fe415aed9bbd551d9c40c9b8264ce62bd71fd52d91d56f61680659112ae3377c.jpg" width="840" loading="lazy" alt="Forest lake village environment"></a>
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103860776419111285"><img src="assets/previews/ed31cdb42a8f2eb8c18d93e49bc070cc4ecfc7865c7f5cbb712bc29fa09a3bbb.jpg" width="840" loading="lazy" alt="Forest lake village environment"></a>
-
-A 3D environment brief used by the root author for a same-prompt comparison of Luna Light, Sol Light, and Astra Light. It specifies a forest surrounding a central lake, an abandoned house in the lake, a flower-filled French village around it, and connecting paths.
+The linked repository recommends a prompt that installs the cad CLI and skill, asks what the user wants to print, then models and checks the design, displays renders, and exports a slicer-ready 3MF. It is a recommended starting prompt, not a demonstrated input.
 
 **Prompt**
 
 ```text
-A forest with a lake in the center. In the middle of the lake, an abandoned house. Around the lake, a flower-filled French village. Paths connecting the important points.
+Set me up with cad, the agent-first CAD tool from https://github.com/andrewimm/cli-cad, then help me
+design my first 3D print.
+
+1. Install the cad CLI by following the Install section of https://github.com/andrewimm/cli-cad#install
+   (on Linux, install the system libraries it lists first). Check it with `cad --version`.
+2. Install the cad skill wherever you load skills from: `npx skills add andrewimm/cli-cad --skill cad -g -y`
+   works for most agents; otherwise download
+   https://raw.githubusercontent.com/andrewimm/cli-cad/main/skills/cad/SKILL.md into your skills directory
+   (replace any older copy). Then read it and follow it from here on.
+3. Make a project folder ~/cad-projects/first-print and ask me what I want to print. Model it with cad,
+   check it with cad's measurements, show me the renders, and export a 3MF I can open in my slicer.
 ```
 
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103860776419111285) · [Original post](https://x.com/givros/status/2103860776419111285) · [Back to examples](#all-prompts)
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/3d-print-cad-design-workflow) · [Original post](https://github.com/andrewimm/cli-cad) · [Source code](https://github.com/andrewimm/cli-cad) · [Back to examples](#all-prompts)
 
 ---
 
@@ -4269,7 +4275,7 @@ Publish a new jelly-villa prompt credited to jared, with the original author in 
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 392 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 393 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>

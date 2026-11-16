@@ -28,7 +28,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**392 · Neueste Astra-Prompts**
+**393 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -50,7 +50,7 @@
 <details>
 <summary>Beispiele ansehen</summary>
 
-- [Waldsee-Dorfumgebung](#2103860776419111285)
+- [3D-Druck mit CAD entwerfen](#2121330766919688268) · GitHub
 - [Super-Heavy-Booster-Landung in Blender](#2103966922127630820)
 - [Interaktive 3D-Demo zum Lichtweg im Kameraobjektiv](#2104077535315144878)
 - [Interaktive 3D-Gelee-Wassermelonenscheibe](#2104504957173153951)
@@ -153,27 +153,33 @@
 
 </details>
 
-<a id="2103860776419111285"></a>
+<a id="2121330766919688268"></a>
 
-### Waldsee-Dorfumgebung
+### 3D-Druck mit CAD entwerfen
 
-[Givros](https://x.com/givros) · 2026-09-26
+[andrewimm](https://github.com/andrewimm) · 2026-11-13
 
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/9be4889a639ad97638c10be775f22e1121913e2d8ac6c3e25fca613c8510a2c1.jpg" width="840" loading="lazy" alt="Waldsee-Dorfumgebung"></a>
+<a href="https://www.tripo3d.ai/de/3d-prompts/3d-print-cad-design-workflow"><img src="../assets/previews/fd7b1b200b9cab8f5ab2d12b573a364d25805d90500c6bfc1271e7831547e6e8.jpg" width="840" loading="lazy" alt="3D-Druck mit CAD entwerfen"></a>
 
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/fe415aed9bbd551d9c40c9b8264ce62bd71fd52d91d56f61680659112ae3377c.jpg" width="840" loading="lazy" alt="Waldsee-Dorfumgebung"></a>
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/ed31cdb42a8f2eb8c18d93e49bc070cc4ecfc7865c7f5cbb712bc29fa09a3bbb.jpg" width="840" loading="lazy" alt="Waldsee-Dorfumgebung"></a>
-
-Ein 3D-Umgebungsbriefing, das der Hauptautor für einen Vergleich von Luna Light, Sol Light und Astra Light mit demselben Prompt verwendet. Es beschreibt einen Wald rund um einen zentralen See, ein verlassenes Haus im See, ein blumengeschmücktes französisches Dorf am Seeufer und verbindende Wege.
+Das verlinkte Repository empfiehlt einen Prompt, der die cad-CLI und das Skill installiert, fragt, was gedruckt werden soll, anschließend das Design modelliert und überprüft, Renderings zeigt und eine slicerfertige 3MF-Datei exportiert. Dies ist ein empfohlener Ausgangs-Prompt, keine beispielhafte Eingabe.
 
 **Prompt**
 
 ```text
-Ein Wald mit einem See in der Mitte. Inmitten des Sees steht ein verlassenes Haus. Rund um den See liegt ein blumengeschmücktes französisches Dorf. Wege verbinden die wichtigen Orte miteinander.
+Richte cad für mich ein, das agentenorientierte CAD-Tool von https://github.com/andrewimm/cli-cad,, und hilf mir dann,
+meinen ersten 3D-Druck zu entwerfen.
+
+1. Installiere die cad-CLI gemäß dem Abschnitt „Install“ unter https://github.com/andrewimm/cli-cad#install
+   (unter Linux zuerst die dort aufgeführten Systembibliotheken installieren). Prüfe die Installation mit `cad --version`.
+2. Installiere das cad-Skill an dem Ort, von dem du Skills lädst: `npx skills add andrewimm/cli-cad --skill cad -g -y`
+   funktioniert für die meisten Agenten; andernfalls lade
+   https://raw.githubusercontent.com/andrewimm/cli-cad/main/skills/cad/SKILL.md in dein Skills-Verzeichnis herunter
+   (ersetze eine ältere Version). Lies es anschließend und befolge es von nun an.
+3. Erstelle den Projektordner ~/cad-projects/first-print und frage mich, was ich drucken möchte. Modelliere es mit cad,
+   überprüfe es anhand der Messungen von cad, zeige mir die Renderings und exportiere eine 3MF-Datei, die ich in meinem Slicer öffnen kann.
 ```
 
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2103860776419111285) · [Originalbeitrag](https://x.com/givros/status/2103860776419111285) · [Zurück zu den Beispielen](#all-prompts)
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/3d-print-cad-design-workflow) · [Originalbeitrag](https://github.com/andrewimm/cli-cad) · [Quellcode](https://github.com/andrewimm/cli-cad) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 
@@ -4268,7 +4274,7 @@ Einen neuen Jelly-Villa-Prompt mit Credit für jared veröffentlichen, den urspr
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 392 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 393 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>

@@ -28,7 +28,7 @@
 **Um ponto de partida para seu próximo jogo, cena ou mundo interativo.**
 
 
-**392 · Prompts mais recentes do Astra**
+**393 · Prompts mais recentes do Astra**
 
 ## Projetos em destaque
 
@@ -50,7 +50,7 @@
 <details>
 <summary>Explorar exemplos</summary>
 
-- [Ambiente de vila lacustre na floresta](#2103860776419111285)
+- [Crie uma impressão 3D com CAD](#2121330766919688268) · GitHub
 - [Captura do propulsor Super Heavy no Blender](#2103966922127630820)
 - [Demonstração interativa do trajeto da luz em uma lente de câmera](#2104077535315144878)
 - [Fatia de melancia de gelatina 3D interativa](#2104504957173153951)
@@ -153,27 +153,33 @@
 
 </details>
 
-<a id="2103860776419111285"></a>
+<a id="2121330766919688268"></a>
 
-### Ambiente de vila lacustre na floresta
+### Crie uma impressão 3D com CAD
 
-[Givros](https://x.com/givros) · 2026-09-26
+[andrewimm](https://github.com/andrewimm) · 2026-11-13
 
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/9be4889a639ad97638c10be775f22e1121913e2d8ac6c3e25fca613c8510a2c1.jpg" width="840" loading="lazy" alt="Ambiente de vila lacustre na floresta"></a>
+<a href="https://www.tripo3d.ai/pt/3d-prompts/3d-print-cad-design-workflow"><img src="../assets/previews/fd7b1b200b9cab8f5ab2d12b573a364d25805d90500c6bfc1271e7831547e6e8.jpg" width="840" loading="lazy" alt="Crie uma impressão 3D com CAD"></a>
 
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/fe415aed9bbd551d9c40c9b8264ce62bd71fd52d91d56f61680659112ae3377c.jpg" width="840" loading="lazy" alt="Ambiente de vila lacustre na floresta"></a>
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/ed31cdb42a8f2eb8c18d93e49bc070cc4ecfc7865c7f5cbb712bc29fa09a3bbb.jpg" width="840" loading="lazy" alt="Ambiente de vila lacustre na floresta"></a>
-
-Briefing de ambiente 3D usado pelo autor principal para comparar Luna Light, Sol Light e Astra Light com o mesmo prompt. Ele especifica uma floresta ao redor de um lago central, uma casa abandonada no lago, uma vila francesa repleta de flores ao redor e caminhos conectando os pontos principais.
+O repositório vinculado recomenda um prompt que instala a CLI e a skill do cad, pergunta o que você quer imprimir, modela e verifica o projeto, exibe os renders e exporta um 3MF pronto para o slicer. É um prompt recomendado para começar, não uma entrada demonstrada.
 
 **Prompt**
 
 ```text
-Uma floresta com um lago no centro. No meio do lago, uma casa abandonada. Ao redor do lago, uma vila francesa repleta de flores. Caminhos conectando os pontos principais.
+Configure o cad para mim, a ferramenta CAD criada para agentes disponível em https://github.com/andrewimm/cli-cad, e depois me ajude
+a criar meu primeiro projeto de impressão 3D.
+
+1. Instale a CLI do cad seguindo a seção de instalação de https://github.com/andrewimm/cli-cad#install
+   (no Linux, instale primeiro as bibliotecas do sistema listadas). Verifique a instalação com `cad --version`.
+2. Instale a skill do cad no local de onde você carrega as skills: `npx skills add andrewimm/cli-cad --skill cad -g -y`
+   funciona para a maioria dos agentes; caso contrário, baixe
+   https://raw.githubusercontent.com/andrewimm/cli-cad/main/skills/cad/SKILL.md para o diretório de skills
+   (substitua qualquer cópia mais antiga). Depois, leia a skill e siga as instruções dela daqui em diante.
+3. Crie a pasta de projeto ~/cad-projects/first-print e pergunte o que eu quero imprimir. Modele usando o cad,
+   verifique usando as medições do cad, mostre os renders e exporte um 3MF que eu possa abrir no meu slicer.
 ```
 
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2103860776419111285) · [Publicação original](https://x.com/givros/status/2103860776419111285) · [Voltar aos exemplos](#all-prompts)
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/3d-print-cad-design-workflow) · [Publicação original](https://github.com/andrewimm/cli-cad) · [Código-fonte](https://github.com/andrewimm/cli-cad) · [Voltar aos exemplos](#all-prompts)
 
 ---
 
@@ -4268,7 +4274,7 @@ Publique um novo prompt de jelly-villa creditado a jared, com o autor original e
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 392 exemplos no site oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 393 exemplos no site oficial →</a></strong></p>
 <p><sub>Para manter a renderização do README do GitHub fluida, mostramos aqui apenas os 100 exemplos mais recentes.</sub></p>
 <br>
 </td></tr>

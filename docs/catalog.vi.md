@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**392 · Prompt Astra mới nhất**
+**393 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -50,7 +50,7 @@
 <details>
 <summary>Khám phá ví dụ</summary>
 
-- [Môi trường làng ven hồ giữa rừng](#2103860776419111285)
+- [Thiết kế mẫu in 3D bằng CAD](#2121330766919688268) · GitHub
 - [Mô phỏng bắt tầng đẩy Super Heavy trong Blender](#2103966922127630820)
 - [Demo tương tác 3D về đường đi của ánh sáng qua ống kính máy ảnh](#2104077535315144878)
 - [Lát dưa hấu thạch 3D tương tác](#2104504957173153951)
@@ -153,27 +153,33 @@
 
 </details>
 
-<a id="2103860776419111285"></a>
+<a id="2121330766919688268"></a>
 
-### Môi trường làng ven hồ giữa rừng
+### Thiết kế mẫu in 3D bằng CAD
 
-[Givros](https://x.com/givros) · 2026-09-26
+[andrewimm](https://github.com/andrewimm) · 2026-11-13
 
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/9be4889a639ad97638c10be775f22e1121913e2d8ac6c3e25fca613c8510a2c1.jpg" width="840" loading="lazy" alt="Môi trường làng ven hồ giữa rừng"></a>
+<a href="https://www.tripo3d.ai/vi/3d-prompts/3d-print-cad-design-workflow"><img src="../assets/previews/fd7b1b200b9cab8f5ab2d12b573a364d25805d90500c6bfc1271e7831547e6e8.jpg" width="840" loading="lazy" alt="Thiết kế mẫu in 3D bằng CAD"></a>
 
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/fe415aed9bbd551d9c40c9b8264ce62bd71fd52d91d56f61680659112ae3377c.jpg" width="840" loading="lazy" alt="Môi trường làng ven hồ giữa rừng"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/ed31cdb42a8f2eb8c18d93e49bc070cc4ecfc7865c7f5cbb712bc29fa09a3bbb.jpg" width="840" loading="lazy" alt="Môi trường làng ven hồ giữa rừng"></a>
-
-Bản mô tả môi trường 3D để tác giả gốc so sánh Luna Light, Sol Light và Astra Light với cùng một prompt. Mô tả một khu rừng bao quanh hồ nước ở trung tâm, một ngôi nhà bỏ hoang giữa hồ, một ngôi làng Pháp đầy hoa bên hồ và các lối đi kết nối.
+Kho lưu trữ được liên kết đề xuất một prompt để cài đặt CLI và skill của cad, hỏi bạn muốn in gì, sau đó dựng mô hình, kiểm tra thiết kế, hiển thị bản render và xuất tệp 3MF sẵn sàng đưa vào phần mềm cắt lớp. Đây là prompt khởi đầu được đề xuất, không phải đầu vào đã được dùng thử.
 
 **Prompt**
 
 ```text
-Một khu rừng với hồ nước ở trung tâm. Giữa hồ là một ngôi nhà bỏ hoang. Xung quanh hồ là một ngôi làng Pháp ngập tràn hoa. Các lối đi kết nối những địa điểm quan trọng.
+Thiết lập cad cho tôi — công cụ CAD ưu tiên tác tử từ https://github.com/andrewimm/cli-cad, — rồi giúp tôi
+thiết kế mẫu in 3D đầu tiên.
+
+1. Cài CLI của cad theo hướng dẫn trong mục Install tại https://github.com/andrewimm/cli-cad#install
+   (trên Linux, hãy cài các thư viện hệ thống được liệt kê trước). Kiểm tra bằng `cad --version`.
+2. Cài skill của cad vào thư mục dùng để tải skill: `npx skills add andrewimm/cli-cad --skill cad -g -y`
+   dùng được với hầu hết tác tử; nếu không, hãy tải xuống
+   https://raw.githubusercontent.com/andrewimm/cli-cad/main/skills/cad/SKILL.md vào thư mục skills của bạn
+   (thay thế mọi bản cũ). Sau đó đọc và làm theo hướng dẫn từ đây trở đi.
+3. Tạo thư mục dự án ~/cad-projects/first-print rồi hỏi tôi muốn in gì. Dùng cad để dựng mô hình,
+   kiểm tra bằng các phép đo của cad, cho tôi xem bản render và xuất tệp 3MF để tôi mở trong phần mềm cắt lớp.
 ```
 
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103860776419111285) · [Bài đăng gốc](https://x.com/givros/status/2103860776419111285) · [Về danh sách ví dụ](#all-prompts)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/3d-print-cad-design-workflow) · [Bài đăng gốc](https://github.com/andrewimm/cli-cad) · [Mã nguồn](https://github.com/andrewimm/cli-cad) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -4278,7 +4284,7 @@ Xuất bản prompt jelly-villa mới, ghi công jared, ghi tác giả gốc tro
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 392 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 393 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

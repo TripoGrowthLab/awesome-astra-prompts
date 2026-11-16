@@ -28,7 +28,7 @@
 **為你的下一個遊戲、場景或互動世界尋找靈感。**
 
 
-**392 · 最新 Astra 提示詞**
+**393 · 最新 Astra 提示詞**
 
 ## 精選作品
 
@@ -50,7 +50,7 @@
 <details>
 <summary>瀏覽案例</summary>
 
-- [森林湖畔村落環境](#2103860776419111285)
+- [使用 cad 設計 3D 列印模型](#2121330766919688268) · GitHub
 - [在 Blender 中製作 Super Heavy 助推器捕捉](#2103966922127630820)
 - [互動式 3D 相機鏡頭光線路徑示範](#2104077535315144878)
 - [可互動 3D 果凍西瓜切片](#2104504957173153951)
@@ -153,27 +153,33 @@
 
 </details>
 
-<a id="2103860776419111285"></a>
+<a id="2121330766919688268"></a>
 
-### 森林湖畔村落環境
+### 使用 cad 設計 3D 列印模型
 
-[Givros](https://x.com/givros) · 2026-09-26
+[andrewimm](https://github.com/andrewimm) · 2026-11-13
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/9be4889a639ad97638c10be775f22e1121913e2d8ac6c3e25fca613c8510a2c1.jpg" width="840" loading="lazy" alt="森林湖畔村落環境"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/3d-print-cad-design-workflow"><img src="../assets/previews/fd7b1b200b9cab8f5ab2d12b573a364d25805d90500c6bfc1271e7831547e6e8.jpg" width="840" loading="lazy" alt="使用 cad 設計 3D 列印模型"></a>
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/fe415aed9bbd551d9c40c9b8264ce62bd71fd52d91d56f61680659112ae3377c.jpg" width="840" loading="lazy" alt="森林湖畔村落環境"></a>
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/ed31cdb42a8f2eb8c18d93e49bc070cc4ecfc7865c7f5cbb712bc29fa09a3bbb.jpg" width="840" loading="lazy" alt="森林湖畔村落環境"></a>
-
-供根作者使用的 3D 環境簡介，用於以相同提示詞比較 Luna Light、Sol Light 與 Astra Light。內容設定為環繞中央湖泊的森林、湖中的廢棄房屋、湖畔周圍繁花盛開的法式村落，以及串聯各處的道路。
+連結的儲存庫推薦使用以下提示詞：安裝 cad CLI 與技能，詢問使用者想列印什麼，接著建立模型並檢查設計、顯示渲染圖，最後匯出可供切片軟體使用的 3MF。這是建議的起始提示詞，並非實際示範輸入。
 
 **提示詞**
 
 ```text
-中央有一座湖泊的森林。湖泊中央有一棟廢棄房屋。湖泊周圍是一座繁花盛開的法式村落。以道路連接各個重要地點。
+請先為我設定來自 https://github.com/andrewimm/cli-cad,、以代理程式為優先的 CAD 工具 cad，接著協助我
+設計我的第一個 3D 列印模型。
+
+1. 依照 https://github.com/andrewimm/cli-cad#install
+ 的 Install 區段安裝 cad CLI（在 Linux 上，請先安裝其中列出的系統函式庫）。使用 `cad --version` 檢查安裝結果。
+2. 將 cad 技能安裝到你載入技能的位置：`npx skills add andrewimm/cli-cad --skill cad -g -y`
+ 對大多數代理程式而言都適用；否則請將
+ https://raw.githubusercontent.com/andrewimm/cli-cad/main/skills/cad/SKILL.md下載到你的技能目錄
+（取代任何較舊的版本）。接著讀取該技能，並從現在開始遵循其中的指示。
+3. 建立專案資料夾 ~/cad-projects/first-print，並詢問我想列印什麼。使用 cad 建立模型、
+使用 cad 的測量功能檢查模型、顯示渲染圖，並匯出一個可在我的切片軟體中開啟的 3MF。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103860776419111285) · [查看原文](https://x.com/givros/status/2103860776419111285) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/3d-print-cad-design-workflow) · [查看原文](https://github.com/andrewimm/cli-cad) · [專案原始碼](https://github.com/andrewimm/cli-cad) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -4268,7 +4274,7 @@ yacht 會沿著封閉路線自動前進，速度約為每秒 0.38–0.48 個場�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 392 個案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 393 個案例 →</a></strong></p>
 <p><sub>為保持 GitHub README 渲染流暢，這裡僅展示最新 100 個案例。</sub></p>
 <br>
 </td></tr>
