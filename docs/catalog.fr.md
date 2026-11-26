@@ -28,7 +28,7 @@
 **Un point de départ pour votre prochain jeu, scène ou monde interactif.**
 
 
-**393 · Derniers prompts Astra**
+**394 · Derniers prompts Astra**
 
 ## Projets à découvrir
 
@@ -51,7 +51,7 @@
 <summary>Parcourir les exemples</summary>
 
 - [Concevoir une impression 3D avec cad](#2121330766919688268) · GitHub
-- [Capture du booster Super Heavy dans Blender](#2103966922127630820)
+- [Film en vue subjective d’un colibri, entièrement procédural, dans Blender](#2125142421960815075) · GitHub
 - [Démonstration interactive en 3D du trajet de la lumière dans un objectif photo](#2104077535315144878)
 - [Tranche de pastèque en gelée 3D interactive](#2104504957173153951)
 - [Jeu dans le style de Genshin Impact et outil d’édition de terrain](#2104531704740512143)
@@ -183,23 +183,27 @@ concevoir ma première impression 3D.
 
 ---
 
-<a id="2103966922127630820"></a>
+<a id="2125142421960815075"></a>
 
-### Capture du booster Super Heavy dans Blender
+### Film en vue subjective d’un colibri, entièrement procédural, dans Blender
 
-[Vortlyn](https://x.com/Vortlyn) · 2026-09-26
+[isilicon 🇺🇸](https://x.com/isiliconx) · 2026-11-24
 
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2103966922127630820"><img src="../assets/previews/bb6b6c09f4ef1f48696a70e00f481b40cbda21d93b13be919c352e1c47cb4fb7.jpg" width="840" loading="lazy" alt="Capture du booster Super Heavy dans Blender"></a>
+<a href="https://www.tripo3d.ai/fr/3d-prompts/procedural-hummingbird-pov-blender-film"><img src="../assets/previews/273690211b0ce7b55515acaec2166290d1f11c62431fb9ee3e042ef31b40da3e.jpg" width="840" loading="lazy" alt="Film en vue subjective d’un colibri, entièrement procédural, dans Blender"></a>
 
-Créez dans Blender un modèle généré par code de la capture d’un booster Super Heavy, sans modèles, textures ni HDRI téléchargés.
+Créez un film entièrement procédural en vue subjective d’un colibri à l’aide de Python, de Blender en mode headless avec le path tracing de Cycles, de NumPy et de FFmpeg. Le prompt spécifie une vallée, un lac, des montagnes, des plantes, des arbres, une toile d’araignée couverte de gouttes de rosée et une abeille recouverte de fourrure, le tout généré sans assets téléchargés. Il exige également un mouvement de vol semblable à celui d’un oiseau, un audio procédural synchronisé et l’inspection d’images de test pour repérer les bugs visuels.
 
 **Prompt**
 
 ```text
-Créez dans Blender une scène de capture d’un booster Super Heavy en utilisant uniquement Python. Aucun modèle téléchargé, aucune texture ni aucun HDRI : tout doit être généré par code.
+Le monde à travers les yeux d’un colibri
+100 % de code, pas de vidéo générée : écrivez en Python avec Blender en mode headless (path tracing de Cycles), NumPy et ffmpeg — sans textures, modèles ni extraits audio téléchargés.
+Monde procédural : une seule carte de hauteur mathématique construit la vallée, le lac et les montagnes, peuplés d’environ 300k plantes, de 47k arbres, d’une toile d’araignée avec 9k gouttes de rosée et d’une abeille avec 24k brins de fourrure.
+Vue subjective et audio fidèles au vol d’un oiseau : NumPy calcule les oscillations du vol, l’inclinaison et les mouvements brusques de la tête, puis synthétise le son à partir exactement des mêmes données (la hauteur du son des ailes suit l’effort, le bourdonnement de l’abeille suit sa position 3D).
+Effectuez le rendu d’images de test pour inspecter et corriger vous-même les bugs visuels.
 ```
 
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2103966922127630820) · [Publication originale](https://x.com/Vortlyn/status/2103966922127630820) · [Retour aux exemples](#all-prompts)
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/procedural-hummingbird-pov-blender-film) · [Publication originale](https://x.com/isiliconx/status/2125142421960815075) · [Code source](https://github.com/isiliconx/astra6.2-hummingbird) · [Retour aux exemples](#all-prompts)
 
 ---
 
@@ -4274,7 +4278,7 @@ Publier un nouveau prompt jelly-villa attribué à jared, avec l’auteur origin
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 393 exemples sur le site officiel →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/fr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Voir les 394 exemples sur le site officiel →</a></strong></p>
 <p><sub>Pour préserver la fluidité du rendu du README sur GitHub, seuls les 100 exemples les plus récents sont affichés ici.</sub></p>
 <br>
 </td></tr>

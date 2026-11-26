@@ -28,7 +28,7 @@
 **次のゲーム、シーン、インタラクティブな世界づくりのヒントに。**
 
 
-**393 · 最新の Astra プロンプト**
+**394 · 最新の Astra プロンプト**
 
 ## 注目の作品
 
@@ -51,7 +51,7 @@
 <summary>作例を見る</summary>
 
 - [CADで3Dプリントを設計](#2121330766919688268) · GitHub
-- [BlenderでSuper Heavyブースターをキャッチするシーン](#2103966922127630820)
+- [Blenderで作るプロシージャルなハチドリ視点映像](#2125142421960815075) · GitHub
 - [インタラクティブな3Dカメラレンズの光路デモ](#2104077535315144878)
 - [インタラクティブな3Dゼリー状スイカスライス](#2104504957173153951)
 - [原神風ゲームと地形編集ツール](#2104531704740512143)
@@ -183,23 +183,27 @@ Installセクションに従ってcad CLIをインストールします。 https
 
 ---
 
-<a id="2103966922127630820"></a>
+<a id="2125142421960815075"></a>
 
-### BlenderでSuper Heavyブースターをキャッチするシーン
+### Blenderで作るプロシージャルなハチドリ視点映像
 
-[Vortlyn](https://x.com/Vortlyn) · 2026-09-26
+[isilicon 🇺🇸](https://x.com/isiliconx) · 2026-11-24
 
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2103966922127630820"><img src="../assets/previews/bb6b6c09f4ef1f48696a70e00f481b40cbda21d93b13be919c352e1c47cb4fb7.jpg" width="840" loading="lazy" alt="BlenderでSuper Heavyブースターをキャッチするシーン"></a>
+<a href="https://www.tripo3d.ai/ja/3d-prompts/procedural-hummingbird-pov-blender-film"><img src="../assets/previews/273690211b0ce7b55515acaec2166290d1f11c62431fb9ee3e042ef31b40da3e.jpg" width="840" loading="lazy" alt="Blenderで作るプロシージャルなハチドリ視点映像"></a>
 
-ダウンロードしたモデル、テクスチャ、HDRIを使わず、コードで生成するSuper HeavyブースターのキャッチシーンをBlenderで作成します。
+Python、ヘッドレスBlenderのCyclesパストレーシング、NumPy、FFmpegを使って、完全にプロシージャルなハチドリ視点の映像を制作します。ダウンロードしたアセットを使わず、生成した谷、湖、山、植物、木々、 dew dropsに覆われたクモの巣、毛で覆われたハチをシーンに組み込みます。さらに、鳥らしい飛行モーション、同期したプロシージャルオーディオ、テストフレームによる映像上の不具合の確認も行います。
 
 **プロンプト**
 
 ```text
-Pythonだけを使って、BlenderでSuper Heavyブースターのキャッチシーンを作成する。ダウンロードしたモデル、テクスチャ、HDRIは使用せず、すべてコードで生成する
+ハチドリの目に映る世界
+100%コード、生成動画なし：ヘッドレスBlender（Cyclesパストレーシング）、NumPy、ffmpegを使ってPythonで記述します。ダウンロードしたテクスチャ、モデル、サウンドクリップは使用しません。
+プロシージャルな世界：1つの数式ハイトマップで谷、湖、山を構築し、約30万本の植物、4万7,000本の木、9,000個の水滴が付いたクモの巣、2万4,000本の毛が生えたハチを配置します。
+鳥として正確なPOVと音声：NumPyで飛行時の揺れ、バンク、素早い首振りを計算し、まったく同じデータから音声も合成します（羽音のピッチは飛行時の負荷に合わせ、ハチの羽音は3D位置を追跡します）。
+テストフレームをレンダリングして、映像上の不具合を自分で確認・修正します。
 ```
 
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2103966922127630820) · [元の投稿](https://x.com/Vortlyn/status/2103966922127630820) · [作例一覧に戻る](#all-prompts)
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/procedural-hummingbird-pov-blender-film) · [元の投稿](https://x.com/isiliconx/status/2125142421960815075) · [ソースコード](https://github.com/isiliconx/astra6.2-hummingbird) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -4283,7 +4287,7 @@ jaredのクレジットを付けた新しいjelly-villaプロンプトを公開�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 393 件の作例を公式サイトで見る →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">全 394 件の作例を公式サイトで見る →</a></strong></p>
 <p><sub>GitHub README をスムーズに表示するため、ここでは最新の作例 100 件のみを掲載しています。</sub></p>
 <br>
 </td></tr>

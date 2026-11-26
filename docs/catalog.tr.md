@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**393 · En yeni Astra istemleri**
+**394 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -51,7 +51,7 @@
 <summary>Örnekleri keşfet</summary>
 
 - [CAD ile 3B baskı tasarla](#2121330766919688268) · GitHub
-- [Blender'da Super Heavy güçlendirici yakalama sahnesi](#2103966922127630820)
+- [Blender'da Prosedürel Sinek Kuşu POV Filmi](#2125142421960815075) · GitHub
 - [Etkileşimli 3B kamera lensi ışık yolu demosu](#2104077535315144878)
 - [Etkileşimli 3B jöle karpuz dilimi](#2104504957173153951)
 - [Genshin Impact tarzı oyun ve arazi düzenleme aracı](#2104531704740512143)
@@ -183,23 +183,27 @@ https://raw.githubusercontent.com/andrewimm/cli-cad/main/skills/cad/SKILL.md dos
 
 ---
 
-<a id="2103966922127630820"></a>
+<a id="2125142421960815075"></a>
 
-### Blender'da Super Heavy güçlendirici yakalama sahnesi
+### Blender'da Prosedürel Sinek Kuşu POV Filmi
 
-[Vortlyn](https://x.com/Vortlyn) · 2026-09-26
+[isilicon 🇺🇸](https://x.com/isiliconx) · 2026-11-24
 
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103966922127630820"><img src="../assets/previews/bb6b6c09f4ef1f48696a70e00f481b40cbda21d93b13be919c352e1c47cb4fb7.jpg" width="840" loading="lazy" alt="Blender'da Super Heavy güçlendirici yakalama sahnesi"></a>
+<a href="https://www.tripo3d.ai/tr/3d-prompts/procedural-hummingbird-pov-blender-film"><img src="../assets/previews/273690211b0ce7b55515acaec2166290d1f11c62431fb9ee3e042ef31b40da3e.jpg" width="840" loading="lazy" alt="Blender'da Prosedürel Sinek Kuşu POV Filmi"></a>
 
-İndirilen model, doku veya HDRI kullanmadan, kodla oluşturulmuş bir Super Heavy güçlendirici yakalama sahnesi modeli oluşturun.
+Python, başsız Blender'da Cycles ışın izleme, NumPy ve FFmpeg kullanarak tamamen prosedürel bir sinek kuşu bakış açısı filmi oluşturun. İstem; indirilen varlıklar olmadan oluşturulan bir vadi, göl, dağlar, bitkiler, ağaçlar, çiğ damlalarıyla kaplı bir örümcek ağı ve tüylerle kaplı bir arı içerir. Ayrıca kuş uçuşunu andıran hareket, senkronize prosedürel ses ve görsel hataları tespit etmek için test karelerinin incelenmesi gerekir.
 
 **İstem**
 
 ```text
-Yalnızca Python kullanarak Blender'da bir Super Heavy güçlendirici yakalama sahnesi oluşturun. İndirilen model, doku veya HDRI kullanmayın; her şeyi kodla oluşturun.
+Sinek kuşunun gözünden dünya
+%100 kod, gen-video yok: Python ile başsız Blender (Cycles ışın izleme), NumPy ve ffmpeg kullanarak yazın—indirilen doku, model veya ses klibi kullanmayın.
+Prosedürel dünya: Tek bir matematiksel yükseklik haritası vadiyi, gölü ve dağları oluşturur; bunlar yaklaşık 300 bin bitki, 47 bin ağaç, 9 bin çiğ damlalı örümcek ağı ve 24 bin tüy telinden oluşan bir arıyla doldurulur.
+Kuş doğruluğunda POV ve ses: NumPy uçuş yalpalamasını, yatışı ve ani kafa dönüşlerini hesaplar; sesi de aynı verilerden sentezler (kanat perdesi efora göre değişir, arının vızıltısı 3B konumunu takip eder).
+Görsel hataları inceleyip düzeltmek için test kareleri oluşturun.
 ```
 
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103966922127630820) · [Orijinal gönderi](https://x.com/Vortlyn/status/2103966922127630820) · [Örneklere dön](#all-prompts)
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/procedural-hummingbird-pov-blender-film) · [Orijinal gönderi](https://x.com/isiliconx/status/2125142421960815075) · [Kaynak kodu](https://github.com/isiliconx/astra6.2-hummingbird) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -4274,7 +4278,7 @@ jared adına atıf yapılan yeni bir jelly-villa istemi yayımlayın; özgün ya
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 393 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 394 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

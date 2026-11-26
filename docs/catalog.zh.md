@@ -29,7 +29,7 @@
 
 探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。
 
-**393 条案例 · 14 种语言 · 13 条附项目源码**
+**394 条案例 · 14 种语言 · 14 条附项目源码**
 
 ## 精选作品
 
@@ -52,7 +52,7 @@
 <summary>浏览案例</summary>
 
 - [使用 CAD 设计 3D 打印件](#2121330766919688268) · GitHub
-- [在 Blender 中制作 Super Heavy 助推器捕获装置](#2103966922127630820)
+- [Blender 程序化蜂鸟第一人称视角影片](#2125142421960815075) · GitHub
 - [交互式 3D 相机镜头光路演示](#2104077535315144878)
 - [可交互 3D 果冻西瓜切片](#2104504957173153951)
 - [原神风格游戏与地形编辑工具](#2104531704740512143)
@@ -184,23 +184,27 @@
 
 ---
 
-<a id="2103966922127630820"></a>
+<a id="2125142421960815075"></a>
 
-### 在 Blender 中制作 Super Heavy 助推器捕获装置
+### Blender 程序化蜂鸟第一人称视角影片
 
-[Vortlyn](https://x.com/Vortlyn) · 2026-09-26
+[isilicon 🇺🇸](https://x.com/isiliconx) · 2026-11-24
 
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103966922127630820"><img src="../assets/previews/bb6b6c09f4ef1f48696a70e00f481b40cbda21d93b13be919c352e1c47cb4fb7.jpg" width="840" loading="lazy" alt="在 Blender 中制作 Super Heavy 助推器捕获装置"></a>
+<a href="https://www.tripo3d.ai/zh/3d-prompts/procedural-hummingbird-pov-blender-film"><img src="../assets/previews/273690211b0ce7b55515acaec2166290d1f11c62431fb9ee3e042ef31b40da3e.jpg" width="840" loading="lazy" alt="Blender 程序化蜂鸟第一人称视角影片"></a>
 
-使用代码生成 Blender 模型，还原 Super Heavy 助推器捕获装置；无需下载模型、纹理或 HDRI。
+使用 Python、无头模式 Blender 的 Cycles 路径追踪、NumPy 和 FFmpeg，制作一部完全程序化生成的蜂鸟第一人称视角影片。提示词要求生成山谷、湖泊、山脉、植物、树木、挂满露珠的蜘蛛网和一只长满绒毛的蜜蜂，且不得使用下载的素材。同时还要求实现鸟类般的飞行动作、同步的程序化音频，并检查测试帧以发现视觉问题。
 
 **提示词**
 
 ```text
-仅使用 Python 在 Blender 中制作 Super Heavy 助推器捕获装置。不使用下载的模型、纹理或 HDRI，所有内容均通过代码生成
+蜂鸟眼中的世界
+100% 代码，不使用生成视频：使用 Python 编写，运行无头模式 Blender（Cycles 路径追踪）、NumPy 和 ffmpeg——不得使用下载的纹理、模型或音效片段。
+程序化世界：通过一张数学高度图构建山谷、湖泊和山脉，并填充约 30 万株植物、4.7 万棵树、带有 9000 颗露珠的蜘蛛网，以及一只拥有 2.4 万根毛发的蜜蜂。
+符合鸟类特征的第一人称视角与音频：NumPy 计算飞行时的摇摆、侧倾和快速转头，并使用完全相同的数据合成声音（翅膀音调随飞行用力程度变化，蜜蜂嗡嗡声跟随其三维位置）。
+渲染测试帧，检查并修复自己的视觉问题。
 ```
 
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103966922127630820) · [查看原帖](https://x.com/Vortlyn/status/2103966922127630820) · [返回案例导航](#all-prompts)
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/procedural-hummingbird-pov-blender-film) · [查看原帖](https://x.com/isiliconx/status/2125142421960815075) · [项目源码](https://github.com/isiliconx/astra6.2-hummingbird) · [返回案例导航](#all-prompts)
 
 ---
 
@@ -4284,7 +4288,7 @@ UI 与城市画面应形成适当对比，但不能过度抢眼。
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 393 条案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 394 条案例 →</a></strong></p>
 <p><sub>为保持 GitHub README 渲染流畅，这里仅展示最新 100 条案例。</sub></p>
 <br>
 </td></tr>

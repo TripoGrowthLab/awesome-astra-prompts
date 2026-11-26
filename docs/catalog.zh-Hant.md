@@ -28,7 +28,7 @@
 **為你的下一個遊戲、場景或互動世界尋找靈感。**
 
 
-**393 · 最新 Astra 提示詞**
+**394 · 最新 Astra 提示詞**
 
 ## 精選作品
 
@@ -51,7 +51,7 @@
 <summary>瀏覽案例</summary>
 
 - [使用 cad 設計 3D 列印模型](#2121330766919688268) · GitHub
-- [在 Blender 中製作 Super Heavy 助推器捕捉](#2103966922127630820)
+- [Blender 程序化蜂鳥第一人稱視角影片](#2125142421960815075) · GitHub
 - [互動式 3D 相機鏡頭光線路徑示範](#2104077535315144878)
 - [可互動 3D 果凍西瓜切片](#2104504957173153951)
 - [原神風格遊戲與地形編輯工具](#2104531704740512143)
@@ -183,23 +183,27 @@
 
 ---
 
-<a id="2103966922127630820"></a>
+<a id="2125142421960815075"></a>
 
-### 在 Blender 中製作 Super Heavy 助推器捕捉
+### Blender 程序化蜂鳥第一人稱視角影片
 
-[Vortlyn](https://x.com/Vortlyn) · 2026-09-26
+[isilicon 🇺🇸](https://x.com/isiliconx) · 2026-11-24
 
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103966922127630820"><img src="../assets/previews/bb6b6c09f4ef1f48696a70e00f481b40cbda21d93b13be919c352e1c47cb4fb7.jpg" width="840" loading="lazy" alt="在 Blender 中製作 Super Heavy 助推器捕捉"></a>
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-hummingbird-pov-blender-film"><img src="../assets/previews/273690211b0ce7b55515acaec2166290d1f11c62431fb9ee3e042ef31b40da3e.jpg" width="840" loading="lazy" alt="Blender 程序化蜂鳥第一人稱視角影片"></a>
 
-使用程式碼生成 Blender 模型，製作 Super Heavy 助推器捕捉場景；不使用下載的模型、貼圖或 HDRI。
+使用 Python、無頭模式 Blender 的 Cycles 路徑追蹤、NumPy 與 FFmpeg，製作完全程序化的蜂鳥第一人稱視角影片。提示內容指定要生成山谷、湖泊、山脈、植物、樹木、佈滿露珠的蜘蛛網，以及覆滿絨毛的蜜蜂，且不得下載任何資產。此外，還要求具備鳥類般的飛行動態、同步的程序化音訊，以及檢查測試影格來找出視覺錯誤。
 
 **提示詞**
 
 ```text
-僅使用 Python 在 Blender 中製作 Super Heavy 助推器捕捉場景。不使用下載的模型、貼圖或 HDRI，所有內容都以程式碼生成。
+蜂鳥眼中的世界
+100% 程式碼，不使用生成影片：使用 Python 搭配無頭模式 Blender（Cycles 路徑追蹤）、NumPy 與 ffmpeg 撰寫——不得下載貼圖、模型或音效片段。
+程序化世界：使用一張數學高度圖建立山谷、湖泊與山脈，填入約 30 萬株植物、4.7 萬棵樹、9,000 顆露珠組成的蜘蛛網，以及擁有 2.4 萬根絨毛的蜜蜂。
+符合鳥類動態的第一人稱視角與音訊：NumPy 計算飛行晃動、側傾與快速轉頭，並使用完全相同的資料合成聲音（翅膀音高隨飛行用力程度變化，蜜蜂嗡嗡聲則追蹤其 3D 位置）。
+渲染測試影格，檢查並修正自己的視覺錯誤。
 ```
 
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103966922127630820) · [查看原文](https://x.com/Vortlyn/status/2103966922127630820) · [返回案例導覽](#all-prompts)
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-hummingbird-pov-blender-film) · [查看原文](https://x.com/isiliconx/status/2125142421960815075) · [專案原始碼](https://github.com/isiliconx/astra6.2-hummingbird) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -4274,7 +4278,7 @@ yacht 會沿著封閉路線自動前進，速度約為每秒 0.38–0.48 個場�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 393 個案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 394 個案例 →</a></strong></p>
 <p><sub>為保持 GitHub README 渲染流暢，這裡僅展示最新 100 個案例。</sub></p>
 <br>
 </td></tr>

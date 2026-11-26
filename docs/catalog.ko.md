@@ -28,7 +28,7 @@
 **다음 게임, 장면, 인터랙티브 세계를 위한 아이디어를 찾아보세요.**
 
 
-**393 · 최신 Astra 프롬프트**
+**394 · 최신 Astra 프롬프트**
 
 ## 추천 작품
 
@@ -51,7 +51,7 @@
 <summary>사례 둘러보기</summary>
 
 - [CAD로 3D 프린트 설계하기](#2121330766919688268) · GitHub
-- [Blender에서 슈퍼 헤비 부스터 캐치 구현하기](#2103966922127630820)
+- [Blender로 제작하는 절차적 벌새 1인칭 시점 영화](#2125142421960815075) · GitHub
 - [인터랙티브 3D 카메라 렌즈 광선 경로 데모](#2104077535315144878)
 - [인터랙티브 3D 젤리 수박 슬라이스](#2104504957173153951)
 - [원신풍 게임과 지형 편집 툴](#2104531704740512143)
@@ -183,23 +183,27 @@
 
 ---
 
-<a id="2103966922127630820"></a>
+<a id="2125142421960815075"></a>
 
-### Blender에서 슈퍼 헤비 부스터 캐치 구현하기
+### Blender로 제작하는 절차적 벌새 1인칭 시점 영화
 
-[Vortlyn](https://x.com/Vortlyn) · 2026-09-26
+[isilicon 🇺🇸](https://x.com/isiliconx) · 2026-11-24
 
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103966922127630820"><img src="../assets/previews/bb6b6c09f4ef1f48696a70e00f481b40cbda21d93b13be919c352e1c47cb4fb7.jpg" width="840" loading="lazy" alt="Blender에서 슈퍼 헤비 부스터 캐치 구현하기"></a>
+<a href="https://www.tripo3d.ai/ko/3d-prompts/procedural-hummingbird-pov-blender-film"><img src="../assets/previews/273690211b0ce7b55515acaec2166290d1f11c62431fb9ee3e042ef31b40da3e.jpg" width="840" loading="lazy" alt="Blender로 제작하는 절차적 벌새 1인칭 시점 영화"></a>
 
-다운로드한 모델, 텍스처 또는 HDRI 없이 코드로 생성하는 슈퍼 헤비 부스터 캐치 Blender 모델을 만들어 보세요.
+Python, 헤드리스 Blender의 Cycles 패스 트레이싱, NumPy, FFmpeg를 사용해 완전히 절차적으로 생성되는 벌새 1인칭 시점 영화를 제작합니다. 다운로드한 에셋 없이 계곡, 호수, 산, 식물, 나무, 이슬방울이 맺힌 거미줄, 털로 뒤덮인 벌을 생성합니다. 또한 새와 같은 비행 움직임, 동기화된 절차적 오디오, 시각적 버그를 확인하기 위한 테스트 프레임 검사가 필요합니다.
 
 **프롬프트**
 
 ```text
-Python만 사용해 Blender에서 슈퍼 헤비 부스터 캐치를 제작하세요. 다운로드한 모델과 텍스처, HDRI는 사용하지 말고 모든 요소를 코드로 생성하세요.
+벌새의 눈으로 보는 세계
+100% 코드, 생성형 비디오 없음: 헤드리스 Blender(Cycles 패스 트레이싱), NumPy, ffmpeg를 사용해 Python으로 작성하세요. 다운로드한 텍스처, 모델, 사운드 클립은 사용하지 않습니다.
+절차적으로 생성되는 세계: 하나의 수학적 높이 맵으로 계곡, 호수, 산을 만들고, 약 30만 개의 식물, 4만 7천 그루의 나무, 이슬방울 9천 개가 맺힌 거미줄, 2만 4천 가닥의 털을 지닌 벌을 배치하세요.
+새에 맞춘 1인칭 시점과 오디오: NumPy로 비행 흔들림, 기울기, 재빠른 머리 회전을 계산하고, 정확히 동일한 데이터로 사운드를 합성하세요(날갯짓의 음높이는 비행 강도를 따르고, 벌의 윙윙거리는 소리는 3D 위치를 추적합니다).
+테스트 프레임을 렌더링해 직접 시각적 버그를 확인하고 수정하세요.
 ```
 
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103966922127630820) · [원본 게시물](https://x.com/Vortlyn/status/2103966922127630820) · [사례 목록으로](#all-prompts)
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/procedural-hummingbird-pov-blender-film) · [원본 게시물](https://x.com/isiliconx/status/2125142421960815075) · [소스 코드](https://github.com/isiliconx/astra6.2-hummingbird) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -4274,7 +4278,7 @@ jared를 크레딧으로 표시한 새 jelly-villa 프롬프트를 게시하고,
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 393개 보기 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 394개 보기 →</a></strong></p>
 <p><sub>GitHub README가 원활하게 렌더링되도록 최신 사례 100개만 표시합니다.</sub></p>
 <br>
 </td></tr>

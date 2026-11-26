@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**393 · Prompt Astra mới nhất**
+**394 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -51,7 +51,7 @@
 <summary>Khám phá ví dụ</summary>
 
 - [Thiết kế mẫu in 3D bằng CAD](#2121330766919688268) · GitHub
-- [Mô phỏng bắt tầng đẩy Super Heavy trong Blender](#2103966922127630820)
+- [Phim POV chim ruồi dựng quy trình trong Blender](#2125142421960815075) · GitHub
 - [Demo tương tác 3D về đường đi của ánh sáng qua ống kính máy ảnh](#2104077535315144878)
 - [Lát dưa hấu thạch 3D tương tác](#2104504957173153951)
 - [Game phong cách Genshin và công cụ chỉnh sửa địa hình](#2104531704740512143)
@@ -183,23 +183,27 @@ thiết kế mẫu in 3D đầu tiên.
 
 ---
 
-<a id="2103966922127630820"></a>
+<a id="2125142421960815075"></a>
 
-### Mô phỏng bắt tầng đẩy Super Heavy trong Blender
+### Phim POV chim ruồi dựng quy trình trong Blender
 
-[Vortlyn](https://x.com/Vortlyn) · 2026-09-26
+[isilicon 🇺🇸](https://x.com/isiliconx) · 2026-11-24
 
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103966922127630820"><img src="../assets/previews/bb6b6c09f4ef1f48696a70e00f481b40cbda21d93b13be919c352e1c47cb4fb7.jpg" width="840" loading="lazy" alt="Mô phỏng bắt tầng đẩy Super Heavy trong Blender"></a>
+<a href="https://www.tripo3d.ai/vi/3d-prompts/procedural-hummingbird-pov-blender-film"><img src="../assets/previews/273690211b0ce7b55515acaec2166290d1f11c62431fb9ee3e042ef31b40da3e.jpg" width="840" loading="lazy" alt="Phim POV chim ruồi dựng quy trình trong Blender"></a>
 
-Tạo mô hình Blender bằng mã mô phỏng hệ thống bắt tầng đẩy Super Heavy, không dùng mô hình, kết cấu bề mặt hoặc HDRI tải xuống.
+Tạo một bộ phim góc nhìn chim ruồi hoàn toàn dựng theo quy trình bằng Python, Blender chạy không giao diện với Cycles path tracing, NumPy và FFmpeg. Prompt yêu cầu tạo một thung lũng, hồ nước, núi non, cây cối, mạng nhện phủ giọt sương và một chú ong phủ lông mà không dùng tài sản tải xuống. Phim cũng cần chuyển động bay giống chim, âm thanh dựng theo quy trình được đồng bộ và kiểm tra các khung hình thử để phát hiện lỗi hình ảnh.
 
 **Prompt**
 
 ```text
-dựng hệ thống bắt tầng đẩy Super Heavy trong Blender chỉ bằng Python. không dùng mô hình tải xuống, không dùng kết cấu bề mặt hay HDRI, mọi thứ đều được tạo bằng mã
+Thế giới qua đôi mắt chim ruồi
+100% mã, không gen-video: Viết bằng Python, sử dụng Blender chạy không giao diện (Cycles path tracing), NumPy và ffmpeg—không dùng kết cấu bề mặt, mô hình hay đoạn âm thanh tải xuống.
+Thế giới dựng theo quy trình: Một heightmap toán học duy nhất tạo nên thung lũng, hồ nước và núi non, với khoảng 300k cây cỏ, 47k cây, mạng nhện có 9k giọt sương và một chú ong có 24k sợi lông.
+POV và âm thanh chính xác như chim: NumPy tính toán độ lắc khi bay, độ nghiêng khi vào cua và những cú quay đầu nhanh—sau đó tổng hợp âm thanh từ chính dữ liệu đó (cao độ tiếng vỗ cánh thay đổi theo lực bay, tiếng vo ve của ong bám theo vị trí 3D).
+Kết xuất các khung hình thử để kiểm tra và tự sửa lỗi hình ảnh.
 ```
 
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103966922127630820) · [Bài đăng gốc](https://x.com/Vortlyn/status/2103966922127630820) · [Về danh sách ví dụ](#all-prompts)
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/procedural-hummingbird-pov-blender-film) · [Bài đăng gốc](https://x.com/isiliconx/status/2125142421960815075) · [Mã nguồn](https://github.com/isiliconx/astra6.2-hummingbird) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -4284,7 +4288,7 @@ Xuất bản prompt jelly-villa mới, ghi công jared, ghi tác giả gốc tro
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 393 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 394 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

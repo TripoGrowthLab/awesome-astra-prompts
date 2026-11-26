@@ -28,7 +28,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**393 · Neueste Astra-Prompts**
+**394 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -51,7 +51,7 @@
 <summary>Beispiele ansehen</summary>
 
 - [3D-Druck mit CAD entwerfen](#2121330766919688268) · GitHub
-- [Super-Heavy-Booster-Landung in Blender](#2103966922127630820)
+- [Prozeduraler Kolibri-POV-Film in Blender](#2125142421960815075) · GitHub
 - [Interaktive 3D-Demo zum Lichtweg im Kameraobjektiv](#2104077535315144878)
 - [Interaktive 3D-Gelee-Wassermelonenscheibe](#2104504957173153951)
 - [Genshin-ähnliches Spiel und Tool zur Geländebearbeitung](#2104531704740512143)
@@ -183,23 +183,27 @@ meinen ersten 3D-Druck zu entwerfen.
 
 ---
 
-<a id="2103966922127630820"></a>
+<a id="2125142421960815075"></a>
 
-### Super-Heavy-Booster-Landung in Blender
+### Prozeduraler Kolibri-POV-Film in Blender
 
-[Vortlyn](https://x.com/Vortlyn) · 2026-09-26
+[isilicon 🇺🇸](https://x.com/isiliconx) · 2026-11-24
 
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2103966922127630820"><img src="../assets/previews/bb6b6c09f4ef1f48696a70e00f481b40cbda21d93b13be919c352e1c47cb4fb7.jpg" width="840" loading="lazy" alt="Super-Heavy-Booster-Landung in Blender"></a>
+<a href="https://www.tripo3d.ai/de/3d-prompts/procedural-hummingbird-pov-blender-film"><img src="../assets/previews/273690211b0ce7b55515acaec2166290d1f11c62431fb9ee3e042ef31b40da3e.jpg" width="840" loading="lazy" alt="Prozeduraler Kolibri-POV-Film in Blender"></a>
 
-Erstelle in Blender ein per Code generiertes 3D-Modell einer Super-Heavy-Booster-Landung – ohne heruntergeladene Modelle, Texturen oder HDRIs.
+Erstelle mit Python, Blender im Headless-Modus mit Cycles-Path-Tracing, NumPy und FFmpeg einen vollständig prozeduralen Film aus der Perspektive eines Kolibris. Der Prompt beschreibt ein generiertes Tal mit See, Bergen, Pflanzen, Bäumen, einem mit Tautropfen bedeckten Spinnennetz und einer pelzbedeckten Biene – ganz ohne heruntergeladene Assets. Außerdem sind eine vogelgetreue Flugbewegung, synchroner prozeduraler Ton und die Prüfung von Testframes auf visuelle Fehler erforderlich.
 
 **Prompt**
 
 ```text
-Erstelle in Blender ausschließlich mit Python eine Super-Heavy-Booster-Landung. Keine heruntergeladenen Modelle, keine Texturen, keine HDRIs – alles wird per Code generiert.
+Die Welt aus den Augen eines Kolibris
+100 % Code, kein Gen-Video: Schreibe in Python mit Blender im Headless-Modus (Cycles-Path-Tracing), NumPy und ffmpeg – keine heruntergeladenen Texturen, Modelle oder Soundclips.
+Prozedurale Welt: Eine einzige mathematische Heightmap erzeugt Tal, See und Berge. Diese werden mit etwa 300k Pflanzen, 47k Bäumen, einem Spinnennetz mit 9k Tautropfen und einer Biene mit 24k Fellsträngen gefüllt.
+Vogelgetreue POV und Audio: NumPy berechnet das Flugwackeln, die Schräglage und die schnellen Kopfdrehungen – und erzeugt den Ton aus exakt denselben Daten (Die Flügelfrequenz folgt dem Kraftaufwand, das Summen der Biene ihrer 3D-Position).
+Rendere Testframes, um deine eigenen visuellen Fehler zu prüfen und zu beheben.
 ```
 
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2103966922127630820) · [Originalbeitrag](https://x.com/Vortlyn/status/2103966922127630820) · [Zurück zu den Beispielen](#all-prompts)
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/procedural-hummingbird-pov-blender-film) · [Originalbeitrag](https://x.com/isiliconx/status/2125142421960815075) · [Quellcode](https://github.com/isiliconx/astra6.2-hummingbird) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 
@@ -4274,7 +4278,7 @@ Einen neuen Jelly-Villa-Prompt mit Credit für jared veröffentlichen, den urspr
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 393 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 394 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>
