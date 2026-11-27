@@ -28,7 +28,7 @@
 **다음 게임, 장면, 인터랙티브 세계를 위한 아이디어를 찾아보세요.**
 
 
-**394 · 최신 Astra 프롬프트**
+**397 · 최신 Astra 프롬프트**
 
 ## 추천 작품
 
@@ -52,9 +52,6 @@
 
 - [CAD로 3D 프린트 설계하기](#2121330766919688268) · GitHub
 - [Blender로 제작하는 절차적 벌새 1인칭 시점 영화](#2125142421960815075) · GitHub
-- [인터랙티브 3D 카메라 렌즈 광선 경로 데모](#2104077535315144878)
-- [인터랙티브 3D 젤리 수박 슬라이스](#2104504957173153951)
-- [원신풍 게임과 지형 편집 툴](#2104531704740512143)
 - [강도 테스트용 3D 프린팅 J자 후크](#2104590493191479337)
 - [인터랙티브 교육용 3D CRISPR 표현](#2104605522640970208)
 - [달빛 아래 펼쳐지는 정글 보트 체험](#2104613125093998674)
@@ -147,6 +144,9 @@
 - [인터랙티브 심야 기념 티켓](#2118332979030208748)
 - [하늘섬 위 인터랙티브 픽셀 아트 놀이공원](#2118732546246897872)
 - [모바일용 멀티플레이어 블록 어드벤처 게임](#2119410564489175551)
+- [통나무를 실은 벌목 트럭이 달리는 산길](#2125683094019772805)
+- [실시간 3D 스타십 발사 및 부스터 타워 포획 시뮬레이션](#2125910899437269077)
+- [초실사 수상 비행기가 보라보라섬 상공을 비행한 뒤 수면에 착륙](#2125960271386578991)
 - [무궁화꽃이 피었습니다: 3D 서바이벌 게임](#red-light-green-light)
 - [Golden Miner: 24레벨 3D 채굴 게임](#golden-miner)
 - [젤리 빌라](#jelly-villa)
@@ -204,142 +204,6 @@ Python, 헤드리스 Blender의 Cycles 패스 트레이싱, NumPy, FFmpeg를 사
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/procedural-hummingbird-pov-blender-film) · [원본 게시물](https://x.com/isiliconx/status/2125142421960815075) · [소스 코드](https://github.com/isiliconx/astra6.2-hummingbird) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="2104077535315144878"></a>
-
-### 인터랙티브 3D 카메라 렌즈 광선 경로 데모
-
-[noah helms](https://x.com/haonv2) · 2026-09-27
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/23a0290532ea8418724ffc38cac2eb4c14a3a7043713608bd958d0c1c53d85a6.jpg" width="840" loading="lazy" alt="인터랙티브 3D 카메라 렌즈 광선 경로 데모"></a>
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/b0a7ef6ce5123b523b6a3a17379d8be3262082545b8eefea6b1b403e15161e2d.jpg" width="840" loading="lazy" alt="인터랙티브 3D 카메라 렌즈 광선 경로 데모"></a>
-
-빛이 카메라 렌즈를 통과해 센서에 도달하는 과정을 보여 주는 인터랙티브 3D 렌더입니다. 폭포와 푸른 잔디가 있는 산악 풍경을 배경으로 구성했습니다. 원문 게시물에서는 Astra-6와 Opus 5.5를 비교하는 데 사용한 프롬프트로 소개합니다.
-
-**프롬프트**
-
-```text
-빛이 카메라 렌즈를 통과해 센서에 도달하는 과정을 보여 주는 인터랙티브 3D 렌더를 만들어 주세요. 폭포와 아름답고 푸른 잔디가 있는 멋진 산악 풍경을 배경으로 데모를 구성해 주세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2104077535315144878) · [원본 게시물](https://x.com/haonv2/status/2104077535315144878) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="2104504957173153951"></a>
-
-### 인터랙티브 3D 젤리 수박 슬라이스
-
-[基恩-Keane 🌊](https://x.com/esrhengwu) · 2026-09-28
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2104504957173153951"><img src="../assets/previews/cf4d886fc6e8c499c9fa10a37204272099b89e9ca4336bb62f03dd93220ec069.jpg" width="840" loading="lazy" alt="인터랙티브 3D 젤리 수박 슬라이스"></a>
-
-작성자가 댓글을 통해 “Melon Jelly” 제작에 사용할 프롬프트를 공개했습니다. 브라우저에서 WebGPU와 WGSL을 사용해 잡고, 늘이고, 구부리고, 비틀 수 있는 3D 수박 젤리 소프트 바디 시뮬레이션을 구현하며, 머티리얼, 물리, 인터페이스와 검증 요건까지 포함하도록 요구합니다. 본문에서는 Opus 5.5와 GPT-6 Astra가 각각 젤리 수박을 제작했다고 소개하며, 이 댓글에는 작성자가 공개한 프롬프트가 담겨 있습니다.
-
-**프롬프트**
-
-```text
-“Melon Jelly”를 제작하세요. WebGPU와 WGSL 셰이더를 직접 사용해 브라우저에서 실행되는 완성도 높고 인터랙티브한 3D 수박 젤리 슬라이스를 구현하세요.
- JavaScript와 CSS가 포함된 단일 독립 실행형 HTML 파일로 제공하세요. 정적 렌더, 동영상 또는 2D 모방물이 아닌 실제 인터랙티브 3D 시뮬레이션이어야 합니다.
-수박
-다음 요소를 갖춘 두껍고 둥근 삼각형 모양의 수박 조각을 제작하세요.
-반투명한 루비 레드 젤리 과육.
-과육과 껍질 사이에 있는 옅고 약간 반투명한 층.
-불규칙한 짙은 녹색 줄무늬가 있는 윤기 나는 녹색 겉껍질.
-
-드러난 양쪽 면에 각각 모델링해 박아 넣은 짙은 색 씨.
-부드럽게 둥근 모서리와 보기 좋고 충분한 두께.
-스튜디오에서 촬영한 고급 구미 캔디처럼 보이게 하세요. 과즙이 풍부하고 부드러우며 거의 먹음직스럽게 느껴져야 합니다. 하이라이트를 과도하게 날리지 않으면서 색상은 풍부하게 유지하세요.
-소프트 바디 물리
-XPBD 탄성 및 체적 보존 제약이 적용된 사면체 메시와 같은 체적 소프트 바디 시뮬레이션을 사용하세요.
-사용자는 다음과 같은 조작을 할 수 있어야 합니다.
-끝부분, 모서리, 과육 또는 껍질을 잡습니다.
-조각을 늘이고, 구부리고, 들어 올리고, 부드럽게 비틉니다.
-
-놓은 뒤 흔들리다가 서서히 안정되는 모습을 확인할 수 있어야 합니다.
-조각 전체가 단순히 하나의 강체처럼 이동하거나 크기만 변하지 말고, 국소적으로 눈에 띄게 변형되어야 합니다. 전체 조각은 유연하게 유지하되 껍질은 과육보다 약간 더 단단하게 설정하세요.
-늘릴 때 체적을 합리적인 수준으로 유지하세요. 요소가 뒤집히거나 움직임이 폭발적으로 커지거나 영구적으로 무너지지 않도록 하세요. 안정성을 위해 고정 시뮬레이션 타임스텝과 제한된 서브스텝을 사용하세요.
-놓은 뒤에는 움직임이 자연스럽게 감쇠되어야 합니다. 즉시 튕겨 돌아오거나 끝없이 진동하지 않게 하세요.
-씨가 변형되는 과육에 붙어 있도록 하세요. 씨는 표면과 함께 이동하고 회전해야 하며, 따로 떠다니거나 공간에 고정되어 있어서는 안 됩니다.
-바닥 접촉, 약한 마찰과 부드러운 바운스를 포함하세요. 바닥을 뚫고 들어가는 현상이 눈에 띄지 않도록 하세요.
-RENDERING
-네이티브 WebGPU와 WGSL 셰이더를 사용하세요.
-다음 요소를 포함하세요.
-두께에 따른 빛 흡수.
-젤리를 통과하는 굴절.
-
-프레넬 반사와 윤기 나는 하이라이트.
-얇은 가장자리를 통과하는 부드러운 투과광.
-은은한 내부 디테일과 소량의 작은 기포.
-
-조각 아래에 드리워지는 부드러운 접촉 그림자.
-밝고 중립적인 스튜디오 배경.
-과육, 옅은색 껍질, 녹색 외피가 서로 다른 머티리얼 반응을 보여야 합니다. 모든 부분이 투명한 유리나 불투명한 플라스틱처럼 보이지 않게 하세요.
-조각을 크게 표시해 쉽게 살펴볼 수 있게 하고, 과육과 씨, 두께가 드러나는 3/4 카메라 앵글을 사용하세요.
-INTERFACE
-여백을 넉넉히 두고 얇은 테두리와 절제된 컨트롤을 사용하는 미니멀한 에디토리얼 레이아웃을 구성하세요. 장식적인 UI 그라디언트는 사용하지 마세요.
-왼쪽 상단:
-“MATERIAL STUDIES / NO. 009”
-두 줄로 나뉜 큰 이탤릭 세리프 제목: “Melon”과 “Jelly”.
-작은 캡션:
-“A slice of summer.”
-“A little wobble.”
-“Too soft to share.”
-오른쪽 상단:
-렌더러가 실행 중일 때 “WEBGPU · LIVE”를 표시하는 작은 상태 표시기.
-
-오른쪽 패널:
-“THE SPECIMEN”
-수박에서 영감을 받은 조화로운 색상 프리셋 3개.
-현재 값이 표시되는 탄성 슬라이더.
-현재 값이 표시되는 내부 감쇠 슬라이더.
-“Give it a nudge” 및 “Reset” 버튼.
-“¼ speed” 및 “Show mesh” 체크박스.
-
-일시정지 / 재개 버튼.
-왼쪽 하단:
-조각을 잡아 늘일 수 있다는 짧은 안내 문구.
-시뮬레이션에서 산출한 실시간 질량, 상대 체적, 운동 에너지 수치. 필요한 경우 예시 단위나 대략적인 값임을 명확히 표시하세요.
-오른쪽 하단:
-
-물리와 렌더링을 간략히 설명하는 접을 수 있는 “Inside the experiment” 섹션.
-동작 및 성능
-마우스와 터치 입력을 모두 지원하세요. 포인터가 오브젝트 영역을 벗어나도 드래그가 안정적으로 유지되도록 포인터 캡처를 사용하세요.
-컨트롤이 조각을 가리지 않도록 데스크톱과 모바일 모두에 맞는 레이아웃을 구성하세요.
-버퍼를 재사용하고 드래그 중에 지오메트리를 다시 생성하거나 셰이더를 컴파일하지 마세요. 인터랙션은 부드럽고 즉각적으로 반응해야 합니다.
-모션 감소 설정을 따르세요. WebGPU를 사용할 수 없는 경우 가짜 렌더러로 조용히 대체하지 말고 명확한 설명을 표시하세요.
-VALIDATION
-여러 위치에서의 드래그, 강하게 늘이기, 반복해서 놓기, 바닥 충돌, 모든 슬라이더, 프리셋, 일시정지, 리셋 및 슬로 모션을 테스트하세요.
-모델이 안정적인 정지 형태로 돌아오는지, 씨가 붙어 있는지, 메시가 손상되지 않는지, 렌더링 오류가 없는지 확인하세요.
-젤리의 반응과 조명의 품질을 우선하세요. 사람들이 계속 잡고 움직여 보고 싶어 하는 결과물을 만들어야 합니다.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2104504957173153951) · [원본 게시물](https://x.com/esrhengwu/status/2104505413857415515) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="2104531704740512143"></a>
-
-### 원신풍 게임과 지형 편집 툴
-
-[ふぐあい(ふぐおん)](https://x.com/fuguai1) · 2026-09-28
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2104531704740512143"><img src="../assets/previews/e95988d923e8e05de9065def3c72647ae3df702210e6d710057eb6ba530f4bf8.jpg" width="840" loading="lazy" alt="원신풍 게임과 지형 편집 툴"></a>
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2104531704740512143"><img src="../assets/previews/df7a40773c0a1b5dab8e29ea57b509f9c6db442166d113f5537ea20b82a6674a.jpg" width="840" loading="lazy" alt="원신풍 게임과 지형 편집 툴"></a>
-
-원신과 같은 게임과 게임 내 지형을 편집할 수 있는 툴을 만들도록 요청하는 프롬프트입니다.
-
-**프롬프트**
-
-```text
-원신 같은 게임과 게임 내 지형을 편집할 수 있는 툴을 만들어 줘
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2104531704740512143) · [원본 게시물](https://x.com/fuguai1/status/2104531704740512143) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -4063,6 +3927,66 @@ Three.js를 사용해 하늘섬 위에 Wonderlight라는 인터랙티브 3D 픽�
 
 ---
 
+<a id="2125683094019772805"></a>
+
+### 통나무를 실은 벌목 트럭이 달리는 산길
+
+[Satoshi](https://x.com/0xSatoshiv) · 2026-11-25
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/logging-truck-mountain-road-3d-scene"><img src="../assets/previews/097f64c77ff797b0325d56cda5e109fe3603bbbbe4ef4226ee78be0c94d66d7f.jpg" width="840" loading="lazy" alt="통나무를 실은 벌목 트럭이 달리는 산길"></a>
+
+게시물 작성자가 GPT 6 Astra를 포함한 비교 테스트에서 단일 요청으로 사용한 프롬프트입니다. 통나무를 실은 벌목 트럭이 산길을 내려가는 장면을 요청합니다.
+
+**프롬프트**
+
+```text
+통나무를 실은 벌목 트럭이 산길을 내려오는 모습
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/logging-truck-mountain-road-3d-scene) · [원본 게시물](https://x.com/0xSatoshiv/status/2125683094019772805) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="2125910899437269077"></a>
+
+### 실시간 3D 스타십 발사 및 부스터 타워 포획 시뮬레이션
+
+[cedric](https://x.com/cedric_chee) · 2026-11-26
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/starship-launch-booster-catch-simulation"><img src="../assets/previews/e13e841ce93733dace36b618e58f6ba2997da1b5da44363a54790f98706fa2d4.jpg" width="840" loading="lazy" alt="실시간 3D 스타십 발사 및 부스터 타워 포획 시뮬레이션"></a>
+
+스타십 발사와 부스터 타워 포획을 보여 주는 브라우저 기반 실시간 3D 시뮬레이션입니다.
+
+**프롬프트**
+
+```text
+브라우저에서 실행되는 스타십 발사 및 부스터 타워 포획 실시간 3D 시뮬레이션을 구축하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/starship-launch-booster-catch-simulation) · [원본 게시물](https://x.com/cedric_chee/status/2125910899437269077) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="2125960271386578991"></a>
+
+### 초실사 수상 비행기가 보라보라섬 상공을 비행한 뒤 수면에 착륙
+
+[小果](https://x.com/hayushuu1ft) · 2026-11-26
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/bora-bora-seaplane-3d-animation"><img src="../assets/previews/d9c3a6ea35bac22b901753a4917d7028dc0534add7b40da39f7e171ad8189576.jpg" width="840" loading="lazy" alt="초실사 수상 비행기가 보라보라섬 상공을 비행한 뒤 수면에 착륙"></a>
+
+초실사 3D 수상 비행기 애니메이션을 제작합니다. 비행기가 보라보라섬 상공을 비행하고 수면에 착륙한 다음, 승객들이 내립니다. 원문 게시물에서는 여러 모델에 사용하는 동일한 프롬프트라고 설명합니다.
+
+**프롬프트**
+
+```text
+초실사 수상 비행기가 보라보라섬 상공을 비행하고 수면에 착륙한 뒤 승객들이 내리는 장면
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/bora-bora-seaplane-3d-animation) · [원본 게시물](https://x.com/hayushuu1ft/status/2125960271386578991) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### 무궁화꽃이 피었습니다: 3D 서바이벌 게임
@@ -4278,7 +4202,7 @@ jared를 크레딧으로 표시한 새 jelly-villa 프롬프트를 게시하고,
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 394개 보기 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/ko/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">공식 사이트에서 전체 사례 397개 보기 →</a></strong></p>
 <p><sub>GitHub README가 원활하게 렌더링되도록 최신 사례 100개만 표시합니다.</sub></p>
 <br>
 </td></tr>

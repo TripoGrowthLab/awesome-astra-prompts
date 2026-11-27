@@ -28,7 +28,7 @@
 **Um ponto de partida para seu próximo jogo, cena ou mundo interativo.**
 
 
-**394 · Prompts mais recentes do Astra**
+**397 · Prompts mais recentes do Astra**
 
 ## Projetos em destaque
 
@@ -52,9 +52,6 @@
 
 - [Crie uma impressão 3D com CAD](#2121330766919688268) · GitHub
 - [Filme procedural em POV de beija-flor no Blender](#2125142421960815075) · GitHub
-- [Demonstração interativa do trajeto da luz em uma lente de câmera](#2104077535315144878)
-- [Fatia de melancia de gelatina 3D interativa](#2104504957173153951)
-- [Jogo no estilo de Genshin Impact e ferramenta de edição de terreno](#2104531704740512143)
 - [Gancho em J imprimível em 3D para teste de resistência](#2104590493191479337)
 - [Representação 3D interativa e educativa de CRISPR](#2104605522640970208)
 - [Passeio interativo de barco pela selva ao luar](#2104613125093998674)
@@ -147,6 +144,9 @@
 - [Ingresso colecionável interativo After Hours](#2118332979030208748)
 - [Parque de diversões interativo em pixel art numa ilha flutuante](#2118732546246897872)
 - [Aventura multiplayer de blocos para dispositivos móveis](#2119410564489175551)
+- [Caminhão madeireiro carregado em uma estrada de montanha](#2125683094019772805)
+- [Simulação 3D em tempo real do lançamento da Starship e da captura pela torre de recuperação](#2125910899437269077)
+- [Hidroavião ultrarrealista sobrevoa Bora Bora e pousa na água](#2125960271386578991)
 - [Sinal vermelho, sinal verde: jogo de sobrevivência 3D](#red-light-green-light)
 - [Golden Miner: jogo de mineração 3D com 24 níveis](#golden-miner)
 - [Vila de Gelatina](#jelly-villa)
@@ -204,142 +204,6 @@ Renderize frames de teste para inspecionar e corrigir suas próprias falhas visu
 ```
 
 [Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/procedural-hummingbird-pov-blender-film) · [Publicação original](https://x.com/isiliconx/status/2125142421960815075) · [Código-fonte](https://github.com/isiliconx/astra6.2-hummingbird) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2104077535315144878"></a>
-
-### Demonstração interativa do trajeto da luz em uma lente de câmera
-
-[noah helms](https://x.com/haonv2) · 2026-09-27
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/23a0290532ea8418724ffc38cac2eb4c14a3a7043713608bd958d0c1c53d85a6.jpg" width="840" loading="lazy" alt="Demonstração interativa do trajeto da luz em uma lente de câmera"></a>
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/b0a7ef6ce5123b523b6a3a17379d8be3262082545b8eefea6b1b403e15161e2d.jpg" width="840" loading="lazy" alt="Demonstração interativa do trajeto da luz em uma lente de câmera"></a>
-
-Uma renderização 3D interativa que demonstra como a luz atravessa uma lente de câmera até chegar ao sensor, ambientada em uma paisagem montanhosa com cachoeiras e grama verde. A publicação original apresenta este texto como o prompt usado na comparação entre Astra-6 e Opus 5.5.
-
-**Prompt**
-
-```text
-Quero que você crie uma renderização 3D interativa mostrando como a luz atravessa uma lente de câmera e chega ao sensor. Faça a demonstração usar uma bela paisagem montanhosa, com cachoeiras e uma bela grama verde.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2104077535315144878) · [Publicação original](https://x.com/haonv2/status/2104077535315144878) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2104504957173153951"></a>
-
-### Fatia de melancia de gelatina 3D interativa
-
-[基恩-Keane 🌊](https://x.com/esrhengwu) · 2026-09-28
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2104504957173153951"><img src="../assets/previews/cf4d886fc6e8c499c9fa10a37204272099b89e9ca4336bb62f03dd93220ec069.jpg" width="840" loading="lazy" alt="Fatia de melancia de gelatina 3D interativa"></a>
-
-O autor publicou nos comentários um prompt para criar “Melon Jelly”. Ele pede uma simulação de corpo deformável de uma fatia de melancia de gelatina 3D, executada no navegador com WebGPU e WGSL, que possa ser agarrada, esticada, dobrada e torcida, além de especificar requisitos de materiais, física, interface e validação. A publicação original afirma que Opus 5.5 e GPT-6 Astra criaram suas próprias melancias de gelatina; o comentário apresenta o prompt publicado pelo autor.
-
-**Prompt**
-
-```text
-Crie “Melon Jelly”, uma fatia de melancia de gelatina 3D refinada e interativa que seja executada diretamente no navegador usando WebGPU real e shaders WGSL.
-Entregue um único arquivo HTML independente, com JavaScript e CSS incorporados. Deve ser uma simulação 3D interativa de verdade, não uma renderização estática, um vídeo ou uma imitação em 2D.
-A MELANCIA
-Crie uma fatia triangular de melancia espessa, com cantos arredondados e:
-Polpa de gelatina vermelho-rubi translúcida.
-Uma camada clara e levemente translúcida entre a polpa e a casca.
-Uma casca externa verde brilhante com listras verde-escuras irregulares.
-
-Sementes escuras modeladas individualmente e incorporadas às duas faces expostas.
-Cantos suavemente arredondados e uma espessura marcante e substancial.
-Faça com que pareça uma bala de goma sofisticada, fotografada em estúdio. Ela deve transmitir uma sensação suculenta, macia e quase comestível. Mantenha as cores intensas sem estourar os realces.
-FÍSICA DE CORPO DEFORMÁVEL
-Use uma simulação volumétrica de corpo deformável, como uma malha tetraédrica com restrições elásticas e de preservação de volume baseadas em XPBD.
-O usuário deve poder:
-Agarrar a ponta, um canto, a polpa ou a casca.
-Esticar, dobrar, levantar e torcer suavemente a fatia.
-
-Soltá-la e observar sua oscilação antes de se estabilizar gradualmente.
-A fatia deve se deformar visivelmente de forma localizada, em vez de apenas se mover ou mudar de escala como um objeto rígido. Faça com que a casca seja um pouco mais firme que a polpa, mantendo a fatia inteira flexível.
-Preserve razoavelmente o volume durante o estiramento. Evite elementos invertidos, movimentos explosivos e colapso permanente. Use um passo de tempo fixo para a simulação e um número limitado de subpassos para garantir estabilidade.
-Depois de solta, a movimentação deve diminuir naturalmente: nada de retorno instantâneo nem de oscilação interminável.
-Mantenha as sementes presas à polpa deformável. Elas devem se mover e girar com a superfície, em vez de flutuar de forma independente ou permanecer fixas no espaço.
-Inclua contato com o chão, atrito suave e quique moderado. Evite a penetração visível no piso.
-RENDERING
-Use WebGPU nativo com shaders WGSL.
-Inclua:
-Absorção de luz dependente da espessura.
-Refração através da gelatina.
-
-Reflexos de Fresnel e realces brilhantes.
-Luz transmitida suave através das bordas finas.
-Detalhes internos sutis e algumas pequenas bolhas de ar.
-
-Sombras de contato suaves sob a fatia.
-Um fundo de estúdio claro e neutro.
-A polpa, a casca clara e a pele verde devem ter respostas distintas de material. Evite fazer tudo parecer vidro transparente ou plástico opaco.
-Mantenha a fatia grande e fácil de examinar, com a câmera em um ângulo de três quartos que revele a polpa, as sementes e a espessura.
-INTERFACE
-Use um layout editorial minimalista, com bastante espaço em branco, bordas finas, controles discretos e nenhuma graduação decorativa nos elementos da interface.
-No canto superior esquerdo:
-“MATERIAL STUDIES / NO. 009”
-Um título grande em serifa e itálico, dividido em duas linhas: “Melon” e “Jelly”.
-Legenda pequena:
-“Um pedaço do verão.”
-“Um leve balanço.”
-“Macia demais para compartilhar.”
-No canto superior direito:
-Um pequeno indicador de status exibindo “WEBGPU · LIVE” quando o renderizador estiver em execução.
-
-Painel lateral direito:
-“THE SPECIMEN”
-Três predefinições de cores inspiradas na melancia e visualmente coordenadas.
-Controle deslizante de firmeza com seu valor atual.
-Controle deslizante de amortecimento interno com seu valor atual.
-Botões “Give it a nudge” e “Reset”.
-Caixas de seleção “¼ speed” e “Show mesh”.
-
-Botão Pausar / Retomar.
-No canto inferior esquerdo:
-Uma dica curta explicando que a fatia pode ser agarrada e esticada.
-Leituras em tempo real da massa, do volume relativo e da energia cinética, derivadas da simulação. Descreva claramente as unidades ilustrativas ou os valores aproximados quando apropriado.
-No canto inferior direito:
-
-Uma seção recolhível chamada “Inside the experiment”, que explique brevemente a física e a renderização.
-COMPORTAMENTO E DESEMPENHO
-Aceite entrada por mouse e toque. Use captura do ponteiro para que o arraste continue confiável quando o ponteiro sair do objeto.
-Faça o layout funcionar em desktop e dispositivos móveis sem que os controles cubram a fatia.
-Reutilize buffers e evite reconstruir a geometria ou compilar shaders durante o arraste. Mantenha a interação fluida e responsiva.
-Respeite as preferências de redução de movimento. Se o WebGPU não estiver disponível, mostre uma explicação clara em vez de substituí-lo silenciosamente por um renderizador falso.
-VALIDATION
-Teste o arraste a partir de vários pontos, estiramentos fortes, solturas repetidas, colisões com o chão, todos os controles deslizantes, predefinições, pausa, reinício e câmera lenta.
-Verifique se o modelo retorna a uma forma de repouso estável, se as sementes permanecem presas, se a malha continua íntegra e se não há erros de renderização.
-Priorize a qualidade da resposta da gelatina e da iluminação. O resultado deve ser algo que as pessoas queiram continuar agarrando e manipulando.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2104504957173153951) · [Publicação original](https://x.com/esrhengwu/status/2104505413857415515) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="2104531704740512143"></a>
-
-### Jogo no estilo de Genshin Impact e ferramenta de edição de terreno
-
-[ふぐあい(ふぐおん)](https://x.com/fuguai1) · 2026-09-28
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2104531704740512143"><img src="../assets/previews/e95988d923e8e05de9065def3c72647ae3df702210e6d710057eb6ba530f4bf8.jpg" width="840" loading="lazy" alt="Jogo no estilo de Genshin Impact e ferramenta de edição de terreno"></a>
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2104531704740512143"><img src="../assets/previews/df7a40773c0a1b5dab8e29ea57b509f9c6db442166d113f5537ea20b82a6674a.jpg" width="840" loading="lazy" alt="Jogo no estilo de Genshin Impact e ferramenta de edição de terreno"></a>
-
-Um prompt que solicita a criação de um jogo no estilo de Genshin Impact e de uma ferramenta para editar o terreno do jogo.
-
-**Prompt**
-
-```text
-Crie um jogo no estilo de Genshin Impact e uma ferramenta para editar o terreno desse jogo.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2104531704740512143) · [Publicação original](https://x.com/fuguai1/status/2104531704740512143) · [Voltar aos exemplos](#all-prompts)
 
 ---
 
@@ -4063,6 +3927,66 @@ Crie um jogo de aventura de blocos otimizado para dispositivos móveis, com modo
 
 ---
 
+<a id="2125683094019772805"></a>
+
+### Caminhão madeireiro carregado em uma estrada de montanha
+
+[Satoshi](https://x.com/0xSatoshiv) · 2026-11-25
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/logging-truck-mountain-road-3d-scene"><img src="../assets/previews/097f64c77ff797b0325d56cda5e109fe3603bbbbe4ef4226ee78be0c94d66d7f.jpg" width="840" loading="lazy" alt="Caminhão madeireiro carregado em uma estrada de montanha"></a>
+
+Um prompt apresentado pelo autor da publicação como a única solicitação usada em uma comparação que inclui o GPT 6 Astra. Ele pede um caminhão madeireiro carregado descendo por uma estrada de montanha.
+
+**Prompt**
+
+```text
+um caminhão madeireiro carregado descendo por uma estrada de montanha
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/logging-truck-mountain-road-3d-scene) · [Publicação original](https://x.com/0xSatoshiv/status/2125683094019772805) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2125910899437269077"></a>
+
+### Simulação 3D em tempo real do lançamento da Starship e da captura pela torre de recuperação
+
+[cedric](https://x.com/cedric_chee) · 2026-11-26
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/starship-launch-booster-catch-simulation"><img src="../assets/previews/e13e841ce93733dace36b618e58f6ba2997da1b5da44363a54790f98706fa2d4.jpg" width="840" loading="lazy" alt="Simulação 3D em tempo real do lançamento da Starship e da captura pela torre de recuperação"></a>
+
+Uma simulação 3D em tempo real, executada no navegador, que mostra o lançamento da Starship e a captura do propulsor pela torre de recuperação.
+
+**Prompt**
+
+```text
+Crie uma simulação 3D em tempo real, executada no navegador, que mostre o lançamento da Starship e a captura do propulsor pela torre de recuperação
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/starship-launch-booster-catch-simulation) · [Publicação original](https://x.com/cedric_chee/status/2125910899437269077) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="2125960271386578991"></a>
+
+### Hidroavião ultrarrealista sobrevoa Bora Bora e pousa na água
+
+[小果](https://x.com/hayushuu1ft) · 2026-11-26
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/bora-bora-seaplane-3d-animation"><img src="../assets/previews/d9c3a6ea35bac22b901753a4917d7028dc0534add7b40da39f7e171ad8189576.jpg" width="840" loading="lazy" alt="Hidroavião ultrarrealista sobrevoa Bora Bora e pousa na água"></a>
+
+Para criar uma animação 3D ultrarrealista de um hidroavião: a aeronave sobrevoa Bora Bora, pousa na água e permite que os passageiros desembarquem. A postagem original descreve isso como o mesmo prompt usado em vários modelos.
+
+**Prompt**
+
+```text
+Hidroavião ultrarrealista sobrevoando Bora Bora, pousando na água e permitindo que os passageiros desembarquem
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/bora-bora-seaplane-3d-animation) · [Publicação original](https://x.com/hayushuu1ft/status/2125960271386578991) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Sinal vermelho, sinal verde: jogo de sobrevivência 3D
@@ -4278,7 +4202,7 @@ Publique um novo prompt de jelly-villa creditado a jared, com o autor original e
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 394 exemplos no site oficial →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/pt/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Ver todos os 397 exemplos no site oficial →</a></strong></p>
 <p><sub>Para manter a renderização do README do GitHub fluida, mostramos aqui apenas os 100 exemplos mais recentes.</sub></p>
 <br>
 </td></tr>

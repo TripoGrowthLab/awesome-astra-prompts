@@ -28,7 +28,7 @@
 **Bir sonraki oyununuz, sahneniz veya etkileşimli dünyanız için bir başlangıç noktası.**
 
 
-**394 · En yeni Astra istemleri**
+**397 · En yeni Astra istemleri**
 
 ## Öne çıkan projeler
 
@@ -52,9 +52,6 @@
 
 - [CAD ile 3B baskı tasarla](#2121330766919688268) · GitHub
 - [Blender'da Prosedürel Sinek Kuşu POV Filmi](#2125142421960815075) · GitHub
-- [Etkileşimli 3B kamera lensi ışık yolu demosu](#2104077535315144878)
-- [Etkileşimli 3B jöle karpuz dilimi](#2104504957173153951)
-- [Genshin Impact tarzı oyun ve arazi düzenleme aracı](#2104531704740512143)
 - [Mukavemet testi için 3B yazdırılabilir J kancası](#2104590493191479337)
 - [Etkileşimli eğitsel 3B CRISPR gösterimi](#2104605522640970208)
 - [Ay ışığında etkileşimli orman teknesi gezintisi](#2104613125093998674)
@@ -147,6 +144,9 @@
 - [Etkileşimli Gece Bileti Koleksiyonu](#2118332979030208748)
 - [Uçan Adada Etkileşimli Piksel Sanatı Eğlence Parkı](#2118732546246897872)
 - [Mobil için çok oyunculu blok macera oyunu](#2119410564489175551)
+- [Dağ yolunda tomruk yüklü kamyon](#2125683094019772805)
+- [Gerçek Zamanlı 3B Starship Fırlatma ve Güçlendirici Kule Yakalama Simülasyonu](#2125910899437269077)
+- [Ultra gerçekçi deniz uçağı Bora Bora Adası'nın üzerinden uçuyor ve suya iniş yapıyor](#2125960271386578991)
 - [Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu](#red-light-green-light)
 - [Golden Miner: 24 Seviyeli 3B Madencilik Oyunu](#golden-miner)
 - [Jöle Villa](#jelly-villa)
@@ -204,142 +204,6 @@ Görsel hataları inceleyip düzeltmek için test kareleri oluşturun.
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/procedural-hummingbird-pov-blender-film) · [Orijinal gönderi](https://x.com/isiliconx/status/2125142421960815075) · [Kaynak kodu](https://github.com/isiliconx/astra6.2-hummingbird) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2104077535315144878"></a>
-
-### Etkileşimli 3B kamera lensi ışık yolu demosu
-
-[noah helms](https://x.com/haonv2) · 2026-09-27
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/23a0290532ea8418724ffc38cac2eb4c14a3a7043713608bd958d0c1c53d85a6.jpg" width="840" loading="lazy" alt="Etkileşimli 3B kamera lensi ışık yolu demosu"></a>
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/b0a7ef6ce5123b523b6a3a17379d8be3262082545b8eefea6b1b403e15161e2d.jpg" width="840" loading="lazy" alt="Etkileşimli 3B kamera lensi ışık yolu demosu"></a>
-
-Işığın bir kamera lensinden geçerek sensöre nasıl ulaştığını gösteren etkileşimli bir 3B render. Demo; şelaleler ve yemyeşil çimlerle bezeli bir dağ manzarasında geçiyor. Ana gönderi, bunu Astra-6 ve Opus 5.5 karşılaştırmasında kullanılan prompt olarak sunuyor.
-
-**İstem**
-
-```text
-Işığın bir kamera lensinden geçerek sensöre nasıl ulaştığını gösteren etkileşimli bir 3B render oluşturmanı istiyorum. Demoda şelaleler ve yemyeşil çimlerle bezeli güzel bir dağ manzarası kullan.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104077535315144878) · [Orijinal gönderi](https://x.com/haonv2/status/2104077535315144878) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2104504957173153951"></a>
-
-### Etkileşimli 3B jöle karpuz dilimi
-
-[基恩-Keane 🌊](https://x.com/esrhengwu) · 2026-09-28
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104504957173153951"><img src="../assets/previews/cf4d886fc6e8c499c9fa10a37204272099b89e9ca4336bb62f03dd93220ec069.jpg" width="840" loading="lazy" alt="Etkileşimli 3B jöle karpuz dilimi"></a>
-
-Yazar, yorumlar bölümünde “Melon Jelly” oluşturmak için kullanılan bir prompt paylaştı. Prompt; tarayıcıda WebGPU ve WGSL kullanılarak kavranabilen, gerilebilen, bükülebilen ve burulabilen bir 3B karpuz jölesi yumuşak cisim simülasyonu oluşturulmasını, ayrıca malzeme, fizik, arayüz ve doğrulama gereksinimlerini belirtiyor. Ana gönderide Opus 5.5 ve GPT-6 Astra’nın ayrı ayrı jöle karpuzlar oluşturduğu söyleniyor; bu yorumda ise yazarın yayınladığı prompt yer alıyor.
-
-**İstem**
-
-```text
-“Melon Jelly” oluşturun: WebGPU ve WGSL shader’larını kullanarak doğrudan tarayıcıda çalışan, özenle hazırlanmış ve etkileşimli bir 3B karpuz jölesi dilimi.
-İçinde JavaScript ve CSS bulunan, kendi kendine yeten tek bir HTML dosyası teslim edin. Bu, statik bir render, video veya 2B taklit değil, gerçekten etkileşimli bir 3B simülasyon olmalıdır.
-KARPUZ
-Şunlara sahip, kalın ve köşeleri yuvarlatılmış üçgen biçimli bir karpuz dilimi oluşturun:
-Yarı saydam, yakut kırmızısı jöle iç kısım.
-İç kısım ile kabuk arasında soluk renkli, hafif saydam bir katman.
-Düzensiz koyu yeşil çizgilere sahip, parlak yeşil bir dış kabuk.
-
-Açıkta kalan iki yüzeye gömülü, ayrı ayrı modellenmiş koyu renkli çekirdekler.
-Yumuşakça yuvarlatılmış köşeler ve göze hoş gelen, belirgin bir kalınlık.
-Bir stüdyoda fotoğraflanmış pahalı bir jelibon gibi görünmesini sağlayın. Sulu, yumuşak ve neredeyse yenilebilir bir his vermeli. Renkleri zengin tutun; parlak alanları aşırı pozlamayın.
-YUMUŞAK CİSİM FİZİĞİ
-XPBD elastikiyet ve hacim koruma kısıtlarına sahip tetrahedral mesh gibi hacimsel bir yumuşak cisim simülasyonu kullanın.
-Kullanıcı şunları yapabilmelidir:
-Ucu, bir köşeyi, iç kısmı veya kabuğu kavramak.
-Dilimi germek, bükmek, kaldırmak ve nazikçe burmak.
-
-Bıraktığında dilimin sallanmasını ve ardından yavaşça durulmasını izlemek.
-Dilimin yalnızca tek parça, rijit bir nesne gibi hareket etmesi veya ölçeklenmesi yerine yerel olarak görünür biçimde deforme olması gerekir. Tüm dilimi esnek tutarken kabuğu iç kısımdan biraz daha sert yapın.
-Germe sırasında hacmi makul ölçüde koruyun. Ters dönmüş elemanları, kontrolden çıkan hareketleri ve kalıcı çökmeyi önleyin. Kararlılık için sabit bir simülasyon zaman adımı ve sınırlandırılmış alt adımlar kullanın.
-Bırakıldıktan sonra hareket doğal biçimde sönümlenmeli; anında eski hâline dönmemeli ve sonsuza kadar salınmamalı.
-Çekirdekleri deforme olan iç kısma bağlı tutun. Çekirdekler bağımsız biçimde süzülmek veya uzayda sabit kalmak yerine yüzeyle birlikte hareket edip dönmelidir.
-Zemin teması, hafif sürtünme ve yumuşak sekme ekleyin. Zeminin gözle görülür biçimde delinmesini önleyin.
-RENDERING
-WGSL shader’larıyla yerel WebGPU kullanın.
-Şunları ekleyin:
-Kalınlığa bağlı ışık soğurulması.
-Jöle içinden kırılma.
-
-Fresnel yansımaları ve parlak yansımalar.
-İnce kenarlardan geçen yumuşak ışık.
-İnce iç detaylar ve birkaç küçük hava kabarcığı.
-
-Dilim altında yumuşak temas gölgeleri.
-Açık renkli, nötr bir stüdyo arka planı.
-İç kısım, soluk kabuk ve yeşil dış kabuk farklı malzeme tepkilerine sahip olmalı. Her şeyi şeffaf cam veya opak plastik gibi göstermeyin.
-Dilim büyük ve kolayca incelenebilir olsun; iç kısmı, çekirdekleri ve kalınlığı gösterecek üç çeyrek kamera açısı kullanın.
-INTERFACE
-Bol beyaz alan, ince kenarlıklar, ölçülü kontroller ve dekoratif arayüz gradyanlarının bulunmadığı minimal bir editoryal düzen kullanın.
-Sol üst:
-“MATERIAL STUDIES / NO. 009”
-İki satıra bölünmüş, büyük ve italik serif başlık: “Melon” ve “Jelly.”
-Küçük açıklama:
-“A slice of summer.”
-“A little wobble.”
-“Too soft to share.”
-Sağ üst:
-Render işlemi çalışırken “WEBGPU · LIVE” gösteren küçük bir durum göstergesi.
-
-Sağ taraftaki panel:
-“THE SPECIMEN”
-Karpuzdan ilham alan, birbiriyle uyumlu üç renk ön ayarı.
-Mevcut değeri gösteren sertlik kaydırıcısı.
-Mevcut değeri gösteren iç sönümleme kaydırıcısı.
-“Give it a nudge” ve “Reset” düğmeleri.
-“¼ speed” ve “Show mesh” onay kutuları.
-
-Duraklat / Sürdür düğmesi.
-Sol alt:
-Dilim parçasının kavranıp gerilebileceğini açıklayan kısa bir ipucu.
-Simülasyondan elde edilen canlı kütle, göreli hacim ve kinetik enerji değerleri. Uygun yerlerde örnek birimleri veya yaklaşık değerleri açıkça belirtin.
-Sağ alt:
-
-Fiziği ve render işlemini kısaca açıklayan, daraltılabilir bir “Inside the experiment” bölümü.
-DAVRANIŞ VE PERFORMANS
-Hem fare hem de dokunmatik girişi destekleyin. Sürükleme sırasında işaretçi nesnenin dışına çıktığında da işlemin güvenilir biçimde sürmesi için pointer capture kullanın.
-Düzeni, kontroller dilimin üzerine gelmeyecek şekilde masaüstü ve mobil cihazlarda çalışacak biçimde tasarlayın.
-Buffer’ları yeniden kullanın; sürükleme sırasında geometriyi yeniden oluşturmayın veya shader derlemeyin. Etkileşimi akıcı ve duyarlı tutun.
-Azaltılmış hareket tercihlerini dikkate alın. WebGPU kullanılamıyorsa sahte bir render altyapısına sessizce geçmek yerine net bir açıklama gösterin.
-VALIDATION
-Farklı konumlardan sürüklemeyi, güçlü germeleri, art arda bırakmaları, zemin çarpışmalarını, tüm kaydırıcıları, ön ayarları, duraklatmayı, sıfırlamayı ve ağır çekimi test edin.
-Modelin kararlı bir dinlenme şekline döndüğünü, çekirdeklerin bağlı kaldığını, mesh’in bütünlüğünü koruduğunu ve render hatası bulunmadığını kontrol edin.
-Jölenin tepkisini ve aydınlatma kalitesini önceliklendirin. Sonuç, insanların tekrar tekrar kavrayıp oynamak isteyeceği bir şey olmalı.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104504957173153951) · [Orijinal gönderi](https://x.com/esrhengwu/status/2104505413857415515) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="2104531704740512143"></a>
-
-### Genshin Impact tarzı oyun ve arazi düzenleme aracı
-
-[ふぐあい(ふぐおん)](https://x.com/fuguai1) · 2026-09-28
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104531704740512143"><img src="../assets/previews/e95988d923e8e05de9065def3c72647ae3df702210e6d710057eb6ba530f4bf8.jpg" width="840" loading="lazy" alt="Genshin Impact tarzı oyun ve arazi düzenleme aracı"></a>
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104531704740512143"><img src="../assets/previews/df7a40773c0a1b5dab8e29ea57b509f9c6db442166d113f5537ea20b82a6674a.jpg" width="840" loading="lazy" alt="Genshin Impact tarzı oyun ve arazi düzenleme aracı"></a>
-
-Genshin Impact benzeri bir oyun ve oyunun arazisini düzenlemeye yarayan bir araç oluşturmayı isteyen prompt.
-
-**İstem**
-
-```text
-Genshin Impact benzeri bir oyun ve arazisini düzenleyebileceğim bir araç oluştur
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104531704740512143) · [Orijinal gönderi](https://x.com/fuguai1/status/2104531704740512143) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -4063,6 +3927,66 @@ Arkadaşların keşfe çıkıp malzeme toplayabileceği ve birlikte yapılar in�
 
 ---
 
+<a id="2125683094019772805"></a>
+
+### Dağ yolunda tomruk yüklü kamyon
+
+[Satoshi](https://x.com/0xSatoshiv) · 2026-11-25
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/logging-truck-mountain-road-3d-scene"><img src="../assets/previews/097f64c77ff797b0325d56cda5e109fe3603bbbbe4ef4226ee78be0c94d66d7f.jpg" width="840" loading="lazy" alt="Dağ yolunda tomruk yüklü kamyon"></a>
+
+Gönderi yazarı tarafından, GPT 6 Astra'nın da yer aldığı bir karşılaştırmada kullanılan tek istek olarak sunulan bir prompt. Dağ yolundan aşağı inen tomruk yüklü bir kamyon ister.
+
+**İstem**
+
+```text
+dağ yolundan aşağı inen tomruk yüklü bir kamyon
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/logging-truck-mountain-road-3d-scene) · [Orijinal gönderi](https://x.com/0xSatoshiv/status/2125683094019772805) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2125910899437269077"></a>
+
+### Gerçek Zamanlı 3B Starship Fırlatma ve Güçlendirici Kule Yakalama Simülasyonu
+
+[cedric](https://x.com/cedric_chee) · 2026-11-26
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/starship-launch-booster-catch-simulation"><img src="../assets/previews/e13e841ce93733dace36b618e58f6ba2997da1b5da44363a54790f98706fa2d4.jpg" width="840" loading="lazy" alt="Gerçek Zamanlı 3B Starship Fırlatma ve Güçlendirici Kule Yakalama Simülasyonu"></a>
+
+Starship fırlatmasını ve güçlendiricinin kule tarafından yakalanmasını gösteren, tarayıcı tabanlı gerçek zamanlı 3B simülasyon.
+
+**İstem**
+
+```text
+Tarayıcıda çalışan, Starship fırlatmasını ve güçlendiricinin kule tarafından yakalanmasını gerçek zamanlı olarak simüle eden bir 3B simülasyon oluştur
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/starship-launch-booster-catch-simulation) · [Orijinal gönderi](https://x.com/cedric_chee/status/2125910899437269077) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="2125960271386578991"></a>
+
+### Ultra gerçekçi deniz uçağı Bora Bora Adası'nın üzerinden uçuyor ve suya iniş yapıyor
+
+[小果](https://x.com/hayushuu1ft) · 2026-11-26
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/bora-bora-seaplane-3d-animation"><img src="../assets/previews/d9c3a6ea35bac22b901753a4917d7028dc0534add7b40da39f7e171ad8189576.jpg" width="840" loading="lazy" alt="Ultra gerçekçi deniz uçağı Bora Bora Adası'nın üzerinden uçuyor ve suya iniş yapıyor"></a>
+
+Ultra gerçekçi bir 3B deniz uçağı animasyonu oluşturun: uçak Bora Bora Adası'nın üzerinden uçsun, suya insin ve yolcular uçaktan insin. Gönderide, bunun birden fazla modelde kullanılan aynı istem olduğu belirtiliyor.
+
+**İstem**
+
+```text
+Ultra gerçekçi bir deniz uçağı Bora Bora Adası'nın üzerinden uçsun, suya insin ve yolcular uçaktan insin
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/bora-bora-seaplane-3d-animation) · [Orijinal gönderi](https://x.com/hayushuu1ft/status/2125960271386578991) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Kırmızı Işık, Yeşil Işık: 3B Hayatta Kalma Oyunu
@@ -4278,7 +4202,7 @@ jared adına atıf yapılan yeni bir jelly-villa istemi yayımlayın; özgün ya
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 394 örneğin tümünü keşfet →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Resmî sitede 397 örneğin tümünü keşfet →</a></strong></p>
 <p><sub>GitHub README sayfasının akıcı görüntülenmesi için burada yalnızca en yeni 100 örnek gösterilir.</sub></p>
 <br>
 </td></tr>

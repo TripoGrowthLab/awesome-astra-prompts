@@ -28,7 +28,7 @@
 **Khởi đầu cho trò chơi, cảnh 3D hoặc thế giới tương tác tiếp theo của bạn.**
 
 
-**394 · Prompt Astra mới nhất**
+**397 · Prompt Astra mới nhất**
 
 ## Dự án nổi bật
 
@@ -52,9 +52,6 @@
 
 - [Thiết kế mẫu in 3D bằng CAD](#2121330766919688268) · GitHub
 - [Phim POV chim ruồi dựng quy trình trong Blender](#2125142421960815075) · GitHub
-- [Demo tương tác 3D về đường đi của ánh sáng qua ống kính máy ảnh](#2104077535315144878)
-- [Lát dưa hấu thạch 3D tương tác](#2104504957173153951)
-- [Game phong cách Genshin và công cụ chỉnh sửa địa hình](#2104531704740512143)
 - [Móc chữ J có thể in 3D để thử độ bền](#2104590493191479337)
 - [Mô hình 3D tương tác về CRISPR dành cho giáo dục](#2104605522640970208)
 - [Chuyến du ngoạn bằng thuyền trong rừng rậm dưới ánh trăng tương tác](#2104613125093998674)
@@ -147,6 +144,9 @@
 - [Vé sưu tầm tương tác: Đêm muộn](#2118332979030208748)
 - [Công viên giải trí pixel art trên đảo bay tương tác](#2118732546246897872)
 - [Game phiêu lưu khối vuông nhiều người chơi trên di động](#2119410564489175551)
+- [Xe tải chở gỗ trên đường núi](#2125683094019772805)
+- [Mô phỏng 3D thời gian thực: phóng Starship và tháp bắt tầng đẩy](#2125910899437269077)
+- [Thủy phi cơ siêu chân thực bay qua đảo Bora Bora và hạ cánh trên mặt nước](#2125960271386578991)
 - [Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D](#red-light-green-light)
 - [Golden Miner: Game khai thác vàng 3D 24 cấp độ](#golden-miner)
 - [Biệt thự Thạch rau câu](#jelly-villa)
@@ -204,142 +204,6 @@ Kết xuất các khung hình thử để kiểm tra và tự sửa lỗi hình 
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/procedural-hummingbird-pov-blender-film) · [Bài đăng gốc](https://x.com/isiliconx/status/2125142421960815075) · [Mã nguồn](https://github.com/isiliconx/astra6.2-hummingbird) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2104077535315144878"></a>
-
-### Demo tương tác 3D về đường đi của ánh sáng qua ống kính máy ảnh
-
-[noah helms](https://x.com/haonv2) · 2026-09-27
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/23a0290532ea8418724ffc38cac2eb4c14a3a7043713608bd958d0c1c53d85a6.jpg" width="840" loading="lazy" alt="Demo tương tác 3D về đường đi của ánh sáng qua ống kính máy ảnh"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/b0a7ef6ce5123b523b6a3a17379d8be3262082545b8eefea6b1b403e15161e2d.jpg" width="840" loading="lazy" alt="Demo tương tác 3D về đường đi của ánh sáng qua ống kính máy ảnh"></a>
-
-Bản dựng 3D tương tác minh họa cách ánh sáng đi qua ống kính máy ảnh đến cảm biến, trong bối cảnh phong cảnh núi non với thác nước và thảm cỏ xanh. Bài đăng gốc giới thiệu đây là prompt dùng để so sánh Astra-6 và Opus 5.5.
-
-**Prompt**
-
-```text
-Tôi muốn bạn tạo một bản dựng 3D tương tác minh họa cách ánh sáng đi qua ống kính máy ảnh và đến cảm biến. Hãy đặt bản demo trong một phong cảnh núi non tuyệt đẹp, với những thác nước và thảm cỏ xanh tươi.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104077535315144878) · [Bài đăng gốc](https://x.com/haonv2/status/2104077535315144878) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2104504957173153951"></a>
-
-### Lát dưa hấu thạch 3D tương tác
-
-[基恩-Keane 🌊](https://x.com/esrhengwu) · 2026-09-28
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104504957173153951"><img src="../assets/previews/cf4d886fc6e8c499c9fa10a37204272099b89e9ca4336bb62f03dd93220ec069.jpg" width="840" loading="lazy" alt="Lát dưa hấu thạch 3D tương tác"></a>
-
-Tác giả đã công khai trong phần bình luận một prompt dùng để tạo “Melon Jelly”. Prompt yêu cầu xây dựng ngay trong trình duyệt một mô phỏng vật thể mềm là lát dưa hấu thạch 3D, có thể nắm, kéo giãn, bẻ cong và xoắn bằng WebGPU cùng shader WGSL, đồng thời nêu rõ các yêu cầu về vật liệu, vật lý, giao diện và kiểm thử. Bài đăng gốc cho biết Opus 5.5 và GPT-6 Astra lần lượt tạo ra những quả dưa hấu thạch; phần bình luận này cung cấp prompt do tác giả đăng.
-
-**Prompt**
-
-```text
-Tạo “Melon Jelly” — một lát dưa hấu thạch 3D tương tác, hoàn thiện về hình ảnh, chạy trực tiếp trong trình duyệt bằng WebGPU và shader WGSL thực thụ.
-Cung cấp một tệp HTML duy nhất, tự chứa, với JavaScript và CSS được nhúng bên trong. Đây phải là một mô phỏng 3D tương tác thực sự, không phải ảnh tĩnh, video hay mô phỏng 2D.
-DƯA HẤU
-Tạo một miếng dưa hấu hình nêm tam giác dày, bo tròn, với:
-Phần thịt thạch đỏ ruby trong mờ.
-Một lớp nhạt màu, hơi trong mờ nằm giữa phần thịt và vỏ.
-Lớp vỏ xanh bóng với các sọc xanh đậm không đều.
-
-Các hạt màu sẫm được mô hình hóa riêng và nằm bên trong cả hai mặt cắt lộ ra.
-Các góc bo mềm và độ dày rõ rệt, bắt mắt.
-Hãy khiến nó trông như một viên kẹo dẻo cao cấp được chụp trong studio. Nó cần gợi cảm giác mọng nước, mềm mại và gần như có thể ăn được. Giữ màu sắc đậm và giàu sức sống nhưng không để vùng sáng bị cháy sáng.
-VẬT LÝ VẬT THỂ MỀM
-Sử dụng mô phỏng vật thể mềm theo thể tích, chẳng hạn lưới tứ diện với các ràng buộc đàn hồi và bảo toàn thể tích XPBD.
-Người dùng phải có thể:
-Nắm phần chóp, một góc, phần thịt hoặc lớp vỏ.
-Kéo giãn, bẻ cong, nhấc lên và xoắn nhẹ lát dưa hấu.
-
-Thả ra và quan sát nó rung lắc trước khi dần ổn định.
-Lát dưa hấu phải biến dạng rõ rệt tại từng vùng, không chỉ di chuyển hoặc co giãn như một vật thể cứng duy nhất. Làm lớp vỏ cứng hơn phần thịt một chút nhưng vẫn giữ cho toàn bộ lát dưa hấu mềm dẻo.
-Duy trì thể tích ở mức hợp lý khi kéo giãn. Ngăn các phần tử bị lộn ngược, chuyển động bùng nổ và sụp đổ vĩnh viễn. Sử dụng bước thời gian mô phỏng cố định và số bước phụ có giới hạn để đảm bảo ổn định.
-Sau khi được thả ra, chuyển động phải suy giảm tự nhiên — không bật về ngay lập tức và cũng không dao động mãi.
-Giữ các hạt gắn với phần thịt đang biến dạng. Chúng phải di chuyển và xoay theo bề mặt, không được tự trôi độc lập hoặc đứng cố định trong không gian.
-Bao gồm tiếp xúc với mặt đất, ma sát nhẹ và độ nảy mềm. Tránh để sàn bị xuyên qua rõ rệt.
-RENDERING
-Sử dụng WebGPU gốc cùng shader WGSL.
-Bao gồm:
-Khả năng hấp thụ ánh sáng phụ thuộc vào độ dày.
-Khúc xạ xuyên qua lớp thạch.
-
-Phản xạ Fresnel và vùng sáng bóng.
-Ánh sáng truyền qua mềm ở các cạnh mỏng.
-Chi tiết bên trong tinh tế và một vài bong bóng khí rất nhỏ.
-
-Bóng đổ tiếp xúc mềm bên dưới lát dưa hấu.
-Phông nền studio sáng màu, trung tính.
-Phần thịt, lớp vỏ nhạt màu và lớp da xanh cần có phản hồi vật liệu riêng biệt. Tránh khiến mọi thứ trông như kính trong suốt hoặc nhựa đục.
-Giữ lát dưa hấu đủ lớn và dễ quan sát, với góc máy ba phần tư làm lộ rõ phần thịt, hạt và độ dày.
-INTERFACE
-Sử dụng bố cục biên tập tối giản với nhiều khoảng trắng, đường viền mảnh, các nút điều khiển tiết chế và không dùng gradient trang trí trong giao diện.
-Góc trên bên trái:
-“MATERIAL STUDIES / NO. 009”
-Một tiêu đề serif in nghiêng cỡ lớn, chia thành hai dòng: “Melon” và “Jelly.”
-Chú thích nhỏ:
-“A slice of summer.”
-“A little wobble.”
-“Too soft to share.”
-Góc trên bên phải:
-Một chỉ báo trạng thái nhỏ hiển thị “WEBGPU · LIVE” khi trình kết xuất đang chạy.
-
-Bảng điều khiển bên phải:
-“THE SPECIMEN”
-Ba preset màu lấy cảm hứng từ dưa hấu, phối hợp với nhau.
-Thanh trượt độ cứng kèm giá trị hiện tại.
-Thanh trượt giảm chấn bên trong kèm giá trị hiện tại.
-Các nút “Give it a nudge” và “Reset”.
-Các ô chọn “¼ speed” và “Show mesh”.
-
-Nút Tạm dừng / Tiếp tục.
-Góc dưới bên trái:
-Một gợi ý ngắn giải thích rằng có thể nắm và kéo giãn lát dưa hấu.
-Các thông số thời gian thực về khối lượng, thể tích tương đối và động năng, được suy ra từ mô phỏng. Mô tả rõ đơn vị minh họa hoặc giá trị gần đúng khi phù hợp.
-Góc dưới bên phải:
-
-Một mục có thể thu gọn mang tên “Inside the experiment”, giải thích ngắn gọn về vật lý và quá trình kết xuất.
-HÀNH VI VÀ HIỆU NĂNG
-Hỗ trợ thao tác bằng chuột và cảm ứng. Sử dụng pointer capture để thao tác kéo vẫn ổn định khi con trỏ rời khỏi vật thể.
-Đảm bảo bố cục hoạt động tốt trên máy tính và thiết bị di động, không để các nút điều khiển che lên lát dưa hấu.
-Tái sử dụng buffer và tránh dựng lại hình học hoặc biên dịch shader trong lúc kéo. Giữ trải nghiệm tương tác mượt mà và phản hồi nhanh.
-Tôn trọng tùy chọn giảm chuyển động. Nếu không có WebGPU, hãy hiển thị giải thích rõ ràng thay vì âm thầm thay thế bằng trình kết xuất giả.
-VALIDATION
-Kiểm thử thao tác kéo từ nhiều vị trí, kéo giãn mạnh, thả nhiều lần, va chạm với mặt đất, tất cả thanh trượt, preset, tạm dừng, đặt lại và chuyển động chậm.
-Kiểm tra để đảm bảo mô hình trở về hình dạng nghỉ ổn định, các hạt vẫn gắn với bề mặt, lưới không bị hỏng và không có lỗi kết xuất.
-Ưu tiên chất lượng phản hồi của thạch và ánh sáng. Kết quả cần khiến người dùng muốn tiếp tục nắm và chơi với nó.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104504957173153951) · [Bài đăng gốc](https://x.com/esrhengwu/status/2104505413857415515) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="2104531704740512143"></a>
-
-### Game phong cách Genshin và công cụ chỉnh sửa địa hình
-
-[ふぐあい(ふぐおん)](https://x.com/fuguai1) · 2026-09-28
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104531704740512143"><img src="../assets/previews/e95988d923e8e05de9065def3c72647ae3df702210e6d710057eb6ba530f4bf8.jpg" width="840" loading="lazy" alt="Game phong cách Genshin và công cụ chỉnh sửa địa hình"></a>
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104531704740512143"><img src="../assets/previews/df7a40773c0a1b5dab8e29ea57b509f9c6db442166d113f5537ea20b82a6674a.jpg" width="840" loading="lazy" alt="Game phong cách Genshin và công cụ chỉnh sửa địa hình"></a>
-
-Prompt yêu cầu tạo một game giống Genshin và công cụ cho phép chỉnh sửa địa hình trong game.
-
-**Prompt**
-
-```text
-Tạo một game giống Genshin và công cụ cho phép chỉnh sửa địa hình trong game.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104531704740512143) · [Bài đăng gốc](https://x.com/fuguai1/status/2104531704740512143) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
@@ -4073,6 +3937,66 @@ Tạo game phiêu lưu khối vuông tối ưu cho thiết bị di động, có 
 
 ---
 
+<a id="2125683094019772805"></a>
+
+### Xe tải chở gỗ trên đường núi
+
+[Satoshi](https://x.com/0xSatoshiv) · 2026-11-25
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/logging-truck-mountain-road-3d-scene"><img src="../assets/previews/097f64c77ff797b0325d56cda5e109fe3603bbbbe4ef4226ee78be0c94d66d7f.jpg" width="840" loading="lazy" alt="Xe tải chở gỗ trên đường núi"></a>
+
+Một prompt được tác giả bài đăng giới thiệu là yêu cầu duy nhất được sử dụng trong phép so sánh có GPT 6 Astra. Prompt yêu cầu tạo cảnh một xe tải chở đầy gỗ đang đi xuống đường núi.
+
+**Prompt**
+
+```text
+một xe tải chở đầy gỗ đang đi xuống đường núi
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/logging-truck-mountain-road-3d-scene) · [Bài đăng gốc](https://x.com/0xSatoshiv/status/2125683094019772805) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2125910899437269077"></a>
+
+### Mô phỏng 3D thời gian thực: phóng Starship và tháp bắt tầng đẩy
+
+[cedric](https://x.com/cedric_chee) · 2026-11-26
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/starship-launch-booster-catch-simulation"><img src="../assets/previews/e13e841ce93733dace36b618e58f6ba2997da1b5da44363a54790f98706fa2d4.jpg" width="840" loading="lazy" alt="Mô phỏng 3D thời gian thực: phóng Starship và tháp bắt tầng đẩy"></a>
+
+Mô phỏng 3D thời gian thực chạy trên trình duyệt, mô phỏng quá trình phóng Starship và tháp bắt tầng đẩy.
+
+**Prompt**
+
+```text
+Xây dựng một mô phỏng 3D thời gian thực chạy trên trình duyệt, mô phỏng quá trình phóng Starship và tháp bắt tầng đẩy
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/starship-launch-booster-catch-simulation) · [Bài đăng gốc](https://x.com/cedric_chee/status/2125910899437269077) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="2125960271386578991"></a>
+
+### Thủy phi cơ siêu chân thực bay qua đảo Bora Bora và hạ cánh trên mặt nước
+
+[小果](https://x.com/hayushuu1ft) · 2026-11-26
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/bora-bora-seaplane-3d-animation"><img src="../assets/previews/d9c3a6ea35bac22b901753a4917d7028dc0534add7b40da39f7e171ad8189576.jpg" width="840" loading="lazy" alt="Thủy phi cơ siêu chân thực bay qua đảo Bora Bora và hạ cánh trên mặt nước"></a>
+
+Dùng để tạo hoạt ảnh 3D siêu chân thực về một chiếc thủy phi cơ: máy bay bay qua đảo Bora Bora, hạ cánh trên mặt nước và cho hành khách xuống máy bay. Bài đăng gốc mô tả đây là cùng một prompt được sử dụng cho nhiều mô hình.
+
+**Prompt**
+
+```text
+Thủy phi cơ siêu chân thực bay qua đảo Bora Bora, hạ cánh trên mặt nước và cho hành khách xuống máy bay
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/bora-bora-seaplane-3d-animation) · [Bài đăng gốc](https://x.com/hayushuu1ft/status/2125960271386578991) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Đèn đỏ, đèn xanh: Trò chơi sinh tồn 3D
@@ -4288,7 +4212,7 @@ Xuất bản prompt jelly-villa mới, ghi công jared, ghi tác giả gốc tro
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 394 ví dụ trên trang chính thức →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Xem toàn bộ 397 ví dụ trên trang chính thức →</a></strong></p>
 <p><sub>Để README trên GitHub hiển thị mượt mà, chỉ 100 ví dụ mới nhất được trình bày tại đây.</sub></p>
 <br>
 </td></tr>

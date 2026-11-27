@@ -28,7 +28,7 @@
 **為你的下一個遊戲、場景或互動世界尋找靈感。**
 
 
-**394 · 最新 Astra 提示詞**
+**397 · 最新 Astra 提示詞**
 
 ## 精選作品
 
@@ -52,9 +52,6 @@
 
 - [使用 cad 設計 3D 列印模型](#2121330766919688268) · GitHub
 - [Blender 程序化蜂鳥第一人稱視角影片](#2125142421960815075) · GitHub
-- [互動式 3D 相機鏡頭光線路徑示範](#2104077535315144878)
-- [可互動 3D 果凍西瓜切片](#2104504957173153951)
-- [原神風格遊戲與地形編輯工具](#2104531704740512143)
 - [用於強度測試的可 3D 列印 J 形掛鉤](#2104590493191479337)
 - [互動式 CRISPR 教學 3D 模型](#2104605522640970208)
 - [互動式月光叢林泛舟體驗](#2104613125093998674)
@@ -147,6 +144,9 @@
 - [互動式 After Hours 收藏票券](#2118332979030208748)
 - [漂浮島上的互動式像素風遊樂園](#2118732546246897872)
 - [手機多人方塊冒險遊戲](#2119410564489175551)
+- [山路上的載木卡車](#2125683094019772805)
+- [即時 3D Starship 發射與塔架捕捉助推器模擬](#2125910899437269077)
+- [超逼真的水上飛機飛越波拉波拉島並在水面降落](#2125960271386578991)
 - [紅燈綠燈：3D 生存遊戲](#red-light-green-light)
 - [Golden Miner：24 關 3D 採礦遊戲](#golden-miner)
 - [果凍別墅](#jelly-villa)
@@ -204,142 +204,6 @@
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-hummingbird-pov-blender-film) · [查看原文](https://x.com/isiliconx/status/2125142421960815075) · [專案原始碼](https://github.com/isiliconx/astra6.2-hummingbird) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2104077535315144878"></a>
-
-### 互動式 3D 相機鏡頭光線路徑示範
-
-[noah helms](https://x.com/haonv2) · 2026-09-27
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/23a0290532ea8418724ffc38cac2eb4c14a3a7043713608bd958d0c1c53d85a6.jpg" width="840" loading="lazy" alt="互動式 3D 相機鏡頭光線路徑示範"></a>
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/b0a7ef6ce5123b523b6a3a17379d8be3262082545b8eefea6b1b403e15161e2d.jpg" width="840" loading="lazy" alt="互動式 3D 相機鏡頭光線路徑示範"></a>
-
-互動式 3D 渲染，示範光線如何穿過相機鏡頭抵達感光元件；場景設定在擁有瀑布與翠綠草地的山岳景觀中。根貼文將其介紹為用於比較 Astra-6 與 Opus 5.5 的提示詞。
-
-**提示詞**
-
-```text
-我想請你製作一個互動式 3D 渲染，呈現光線如何穿過相機鏡頭並抵達感光元件。請使用美麗的山岳景觀作為示範場景，加入瀑布與翠綠的草地。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104077535315144878) · [查看原文](https://x.com/haonv2/status/2104077535315144878) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2104504957173153951"></a>
-
-### 可互動 3D 果凍西瓜切片
-
-[基恩-Keane 🌊](https://x.com/esrhengwu) · 2026-09-28
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104504957173153951"><img src="../assets/previews/cf4d886fc6e8c499c9fa10a37204272099b89e9ca4336bb62f03dd93220ec069.jpg" width="840" loading="lazy" alt="可互動 3D 果凍西瓜切片"></a>
-
-作者在留言區公開了一段用於製作「Melon Jelly」的提示詞。這段提示詞要求在瀏覽器中使用 WebGPU 與 WGSL，製作可抓取、拉伸、彎折和扭轉的 3D 西瓜果凍軟體模擬，並提出材質、物理、介面與驗證要求。原貼文稱 Opus 5.5 與 GPT-6 Astra 分別製作了果凍西瓜；這則留言提供的是作者發布的提示詞。
-
-**提示詞**
-
-```text
-製作「Melon Jelly」——一片精緻、可互動的 3D 西瓜果凍切片，直接在瀏覽器中運作，使用真正的 WebGPU 與 WGSL 著色器。
-提供單一、獨立運作的 HTML 檔案，內嵌 JavaScript 與 CSS。這必須是實際可互動的 3D 模擬，而非靜態渲染、影片或 2D 仿製品。
-西瓜
-製作一片厚實、圓潤的三角形西瓜楔形切片，包含：
-半透明的紅寶石色果凍果肉。
-果肉與外皮之間一層淡色、略帶半透明的部分。
-帶有不規則深綠色條紋的亮面綠色外皮。
-
-在兩個外露表面中嵌入獨立建模的深色西瓜籽。
-邊角柔和圓潤，整體厚度討喜且有份量。
-讓它看起來像是在攝影棚拍攝的高級軟糖。應呈現多汁、柔軟、幾乎令人想直接入口的感覺。保持色彩濃郁，但避免高光過度曝光。
-軟體物理
-使用體積式軟體模擬，例如採用四面體網格，搭配 XPBD 彈性與體積保持約束。
-使用者必須能夠：
-抓住尖端、角落、果肉或外皮。
-拉伸、彎折、提起並輕柔地扭轉切片。
-
-放開後觀察它搖晃，接著逐漸穩定下來。
-切片必須呈現局部可見的變形，而不是只像剛體一樣整體移動或縮放。讓外皮比果肉稍微堅韌，同時保持整片切片的柔韌性。
-拉伸時合理地維持體積。避免元素翻轉、爆炸式運動與永久塌陷。使用固定的模擬時間步長及有上限的子步驟，以維持穩定性。
-放開後，運動應自然衰減——不要瞬間彈回，也不要無止境地振盪。
-讓西瓜籽附著在會變形的果肉上。它們必須隨表面移動與旋轉，而不是獨立漂浮或固定在空間中的原位置。
-加入地面接觸、輕微摩擦與柔和彈跳。避免明顯穿透地面。
-RENDERING
-使用原生 WebGPU 與 WGSL 著色器。
-包含：
-取決於厚度的光吸收。
-穿透果凍的折射。
-
-菲涅耳反射與亮面高光。
-透過薄邊緣的柔和透射光。
-細微的內部細節與少量微小氣泡。
-
-切片下方的柔和接觸陰影。
-明亮、 neutral 的攝影棚背景。
-果肉、淡色外皮與綠色表皮應呈現各自不同的材質反應。避免讓所有部分看起來都像透明玻璃或不透明塑膠。
-讓切片保持大尺寸、易於檢視，使用能展現果肉、西瓜籽與厚度的三分之四視角。
-INTERFACE
-使用極簡的編輯風格版面，保留充足留白、細邊框與克制的控制項，不使用裝飾性 UI 漸層。
-左上角：
-「MATERIAL STUDIES / NO. 009」
-使用大尺寸斜體襯線標題，分成兩行：「Melon」與「Jelly」。
-小字說明：
-「A slice of summer.」
-「A little wobble.」
-「Too soft to share.」
-右上角：
-渲染器運作時，顯示「WEBGPU · LIVE」的小型狀態指示器。
-
-右側面板：
-「THE SPECIMEN」
-三組相互協調、以西瓜為靈感的色彩預設。
-顯示目前數值的硬度滑桿。
-顯示目前數值的內部阻尼滑桿。
-「Give it a nudge」與「Reset」按鈕。
-「¼ speed」與「Show mesh」核取方塊。
-
-暫停／繼續按鈕。
-左下角：
-簡短提示，說明可以抓住並拉伸切片。
-顯示從模擬中取得的即時質量、相對體積與動能讀數。在適當處清楚說明示意單位或近似值。
-右下角：
-
-可摺疊的「Inside the experiment」區段，簡要說明物理與渲染方式。
-行為與效能
-支援滑鼠與觸控輸入。使用指標捕捉功能，讓指標離開物件後拖曳仍能可靠運作。
-讓版面適用於桌面與行動裝置，且控制項不會遮住切片。
-重複使用緩衝區，避免在拖曳期間重建幾何或編譯著色器。保持互動流暢且反應迅速。
-遵循減少動態效果的偏好設定。如果無法使用 WebGPU，請顯示清楚的說明，不要靜默改用虛假的渲染器。
-VALIDATION
-測試從多個位置拖曳、強力拉伸、重複放開、與地面碰撞、所有滑桿、預設、暫停、重設及慢動作。
-確認模型會回到穩定的靜止形狀、西瓜籽保持附著、網格維持完整，且沒有渲染錯誤。
-優先提升果凍的反應品質與光照效果。成果應讓人忍不住持續抓取並把玩。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104504957173153951) · [查看原文](https://x.com/esrhengwu/status/2104505413857415515) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="2104531704740512143"></a>
-
-### 原神風格遊戲與地形編輯工具
-
-[ふぐあい(ふぐおん)](https://x.com/fuguai1) · 2026-09-28
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104531704740512143"><img src="../assets/previews/e95988d923e8e05de9065def3c72647ae3df702210e6d710057eb6ba530f4bf8.jpg" width="840" loading="lazy" alt="原神風格遊戲與地形編輯工具"></a>
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104531704740512143"><img src="../assets/previews/df7a40773c0a1b5dab8e29ea57b509f9c6db442166d113f5537ea20b82a6674a.jpg" width="840" loading="lazy" alt="原神風格遊戲與地形編輯工具"></a>
-
-要求製作一款類似《原神》的遊戲，以及可編輯其地形的工具的提示詞。
-
-**提示詞**
-
-```text
-製作一款類似《原神》的遊戲，以及可編輯其地形的工具
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104531704740512143) · [查看原文](https://x.com/fuguai1/status/2104531704740512143) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -4063,6 +3927,66 @@ UI 與城市畫面應形成適當對比，但不能過度搶眼。
 
 ---
 
+<a id="2125683094019772805"></a>
+
+### 山路上的載木卡車
+
+[Satoshi](https://x.com/0xSatoshiv) · 2026-11-25
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/logging-truck-mountain-road-3d-scene"><img src="../assets/previews/097f64c77ff797b0325d56cda5e109fe3603bbbbe4ef4226ee78be0c94d66d7f.jpg" width="840" loading="lazy" alt="山路上的載木卡車"></a>
+
+貼文作者提供的提示詞，作為包含 GPT 6 Astra 在內的比較測試中唯一使用的請求。內容要求生成一輛滿載木材、行駛下山路的卡車。
+
+**提示詞**
+
+```text
+一輛滿載木材、沿著山路下行的載木卡車
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/logging-truck-mountain-road-3d-scene) · [查看原文](https://x.com/0xSatoshiv/status/2125683094019772805) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2125910899437269077"></a>
+
+### 即時 3D Starship 發射與塔架捕捉助推器模擬
+
+[cedric](https://x.com/cedric_chee) · 2026-11-26
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/starship-launch-booster-catch-simulation"><img src="../assets/previews/e13e841ce93733dace36b618e58f6ba2997da1b5da44363a54790f98706fa2d4.jpg" width="840" loading="lazy" alt="即時 3D Starship 發射與塔架捕捉助推器模擬"></a>
+
+以瀏覽器執行的即時 3D 模擬，呈現 Starship 發射及塔架捕捉助推器的過程。
+
+**提示詞**
+
+```text
+建立一個可在瀏覽器中執行的即時 3D 模擬，呈現 Starship 發射與塔架捕捉助推器的過程
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/starship-launch-booster-catch-simulation) · [查看原文](https://x.com/cedric_chee/status/2125910899437269077) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="2125960271386578991"></a>
+
+### 超逼真的水上飛機飛越波拉波拉島並在水面降落
+
+[小果](https://x.com/hayushuu1ft) · 2026-11-26
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/bora-bora-seaplane-3d-animation"><img src="../assets/previews/d9c3a6ea35bac22b901753a4917d7028dc0534add7b40da39f7e171ad8189576.jpg" width="840" loading="lazy" alt="超逼真的水上飛機飛越波拉波拉島並在水面降落"></a>
+
+用於建立一段超逼真的 3D 水上飛機動畫：飛機飛越波拉波拉島，在水面降落，並讓乘客下機。原始貼文將其描述為多個模型都能使用的同一則提示詞。
+
+**提示詞**
+
+```text
+超逼真的水上飛機飛越波拉波拉島，降落在水面上，讓乘客下機
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/bora-bora-seaplane-3d-animation) · [查看原文](https://x.com/hayushuu1ft/status/2125960271386578991) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### 紅燈綠燈：3D 生存遊戲
@@ -4278,7 +4202,7 @@ yacht 會沿著封閉路線自動前進，速度約為每秒 0.38–0.48 個場�
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 394 個案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官網查看全部 397 個案例 →</a></strong></p>
 <p><sub>為保持 GitHub README 渲染流暢，這裡僅展示最新 100 個案例。</sub></p>
 <br>
 </td></tr>

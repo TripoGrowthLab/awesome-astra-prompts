@@ -28,7 +28,7 @@
 **Ideen für dein nächstes Spiel, deine nächste Szene oder interaktive Welt.**
 
 
-**394 · Neueste Astra-Prompts**
+**397 · Neueste Astra-Prompts**
 
 ## Ausgewählte Projekte
 
@@ -52,9 +52,6 @@
 
 - [3D-Druck mit CAD entwerfen](#2121330766919688268) · GitHub
 - [Prozeduraler Kolibri-POV-Film in Blender](#2125142421960815075) · GitHub
-- [Interaktive 3D-Demo zum Lichtweg im Kameraobjektiv](#2104077535315144878)
-- [Interaktive 3D-Gelee-Wassermelonenscheibe](#2104504957173153951)
-- [Genshin-ähnliches Spiel und Tool zur Geländebearbeitung](#2104531704740512143)
 - [3D-druckbarer J-Haken für einen Belastungstest](#2104590493191479337)
 - [Interaktive pädagogische 3D-Darstellung von CRISPR](#2104605522640970208)
 - [Interaktive Bootsfahrt durch den mondbeschienenen Dschungel](#2104613125093998674)
@@ -147,6 +144,9 @@
 - [Interaktives After-Hours-Sammlerticket](#2118332979030208748)
 - [Interaktiver Pixel-Art-Vergnügungspark auf einer schwebenden Insel](#2118732546246897872)
 - [Block-Abenteuer für mehrere Spieler auf Mobilgeräten](#2119410564489175551)
+- [Beladener Holztransporter auf einer Bergstraße](#2125683094019772805)
+- [Echtzeit-3D-Simulation eines Starship-Starts und der Booster-Fangvorrichtung am Startturm](#2125910899437269077)
+- [Hochrealistisches Wasserflugzeug über Bora Bora mit Wasserlandung](#2125960271386578991)
 - [Rot, grünes Licht: 3D-Survival-Game](#red-light-green-light)
 - [Golden Miner: 3D-Bergbauspiel mit 24 Levels](#golden-miner)
 - [Jelly-Villa](#jelly-villa)
@@ -204,142 +204,6 @@ Rendere Testframes, um deine eigenen visuellen Fehler zu prüfen und zu beheben.
 ```
 
 [Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/procedural-hummingbird-pov-blender-film) · [Originalbeitrag](https://x.com/isiliconx/status/2125142421960815075) · [Quellcode](https://github.com/isiliconx/astra6.2-hummingbird) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2104077535315144878"></a>
-
-### Interaktive 3D-Demo zum Lichtweg im Kameraobjektiv
-
-[noah helms](https://x.com/haonv2) · 2026-09-27
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/23a0290532ea8418724ffc38cac2eb4c14a3a7043713608bd958d0c1c53d85a6.jpg" width="840" loading="lazy" alt="Interaktive 3D-Demo zum Lichtweg im Kameraobjektiv"></a>
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/b0a7ef6ce5123b523b6a3a17379d8be3262082545b8eefea6b1b403e15161e2d.jpg" width="840" loading="lazy" alt="Interaktive 3D-Demo zum Lichtweg im Kameraobjektiv"></a>
-
-Ein interaktives 3D-Rendering, das zeigt, wie Licht durch ein Kameraobjektiv zum Sensor gelangt – eingebettet in eine Berglandschaft mit Wasserfällen und grünem Gras. Der ursprüngliche Beitrag präsentiert dies als den für einen Vergleich von Astra-6 und Opus 5.5 verwendeten Prompt.
-
-**Prompt**
-
-```text
-Erstelle ein interaktives 3D-Rendering, das zeigt, wie Licht durch ein Kameraobjektiv gelangt und den Sensor erreicht. Gestalte die Demo mit einer beeindruckenden Berglandschaft, Wasserfällen und sattem grünem Gras.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2104077535315144878) · [Originalbeitrag](https://x.com/haonv2/status/2104077535315144878) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2104504957173153951"></a>
-
-### Interaktive 3D-Gelee-Wassermelonenscheibe
-
-[基恩-Keane 🌊](https://x.com/esrhengwu) · 2026-09-28
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2104504957173153951"><img src="../assets/previews/cf4d886fc6e8c499c9fa10a37204272099b89e9ca4336bb62f03dd93220ec069.jpg" width="840" loading="lazy" alt="Interaktive 3D-Gelee-Wassermelonenscheibe"></a>
-
-Der Autor hat in den Kommentaren einen Prompt zur Erstellung von „Melon Jelly“ veröffentlicht. Gefordert wird eine im Browser laufende 3D-Softbody-Simulation einer Wassermelonen-Geleescheibe mit WebGPU und WGSL, die sich greifen, dehnen, biegen und verdrehen lässt. Außerdem werden Anforderungen an Materialien, Physik, Benutzeroberfläche und Validierung beschrieben. Laut Hauptbeitrag haben Opus 5.5 und GPT-6 Astra jeweils eine Gelee-Wassermelone erstellt; der Kommentar enthält den vom Autor veröffentlichten Prompt.
-
-**Prompt**
-
-```text
-Erstelle „Melon Jelly“ – eine hochwertige, interaktive 3D-Gelee-Wassermelonenscheibe, die direkt im Browser mit echtem WebGPU und WGSL-Shadern läuft.
-Liefere eine einzelne, eigenständige HTML-Datei mit eingebettetem JavaScript und CSS. Es muss sich um eine tatsächlich interaktive 3D-Simulation handeln, nicht um ein statisches Rendering, ein Video oder eine 2D-Imitation.
-DIE WASSERMELONE
-Erstelle ein dickes, abgerundet-dreieckiges Wassermelonenstück mit:
-Durchscheinendem, rubinrotem Gelee-Fruchtfleisch.
-Einer hellen, leicht durchscheinenden Schicht zwischen Fruchtfleisch und Schale.
-Einer glänzenden grünen Außenschale mit unregelmäßigen dunkelgrünen Streifen.
-
-Einzeln modellierten dunklen Kernen, die in beiden sichtbaren Seiten eingebettet sind.
-Sanft abgerundeten Ecken und einer ansprechenden, kräftigen Dicke.
-Es soll wie ein teures Gummibonbon wirken, das im Studio fotografiert wurde. Die Scheibe soll saftig, weich und fast essbar wirken. Halte die Farben satt, ohne die Glanzlichter zu überbelichten.
-SOFTBODY-PHYSIK
-Verwende eine volumetrische Softbody-Simulation, zum Beispiel ein Tetraeder-Mesh mit XPBD-Bedingungen für Elastizität und Volumenerhalt.
-Der Benutzer muss Folgendes können:
-Die Spitze, eine Ecke, das Fruchtfleisch oder die Schale greifen.
-Die Scheibe dehnen, biegen, anheben und vorsichtig verdrehen.
-
-Sie loslassen und beobachten, wie sie wackelt, bevor sie sich allmählich beruhigt.
-Die Scheibe muss sich lokal sichtbar verformen und darf sich nicht einfach als einheitliches starres Objekt bewegen oder skalieren. Die Schale soll etwas fester als das Fruchtfleisch sein, während die gesamte Scheibe flexibel bleibt.
-Erhalte das Volumen beim Dehnen weitgehend. Verhindere invertierte Elemente, explosionsartige Bewegungen und dauerhaftes Zusammensacken. Verwende für Stabilität einen festen Simulationszeitschritt und eine begrenzte Anzahl von Substeps.
-Nach dem Loslassen soll die Bewegung natürlich abklingen – kein sofortiges Zurückschnappen und kein endloses Schwingen.
-Halte die Kerne am sich verformenden Fruchtfleisch befestigt. Sie müssen sich mit der Oberfläche bewegen und drehen, statt unabhängig zu schweben oder im Raum fixiert zu bleiben.
-Integriere Bodenkontakt, sanfte Reibung und leichtes Abprallen. Vermeide sichtbares Durchdringen des Bodens.
-RENDERING
-Verwende natives WebGPU mit WGSL-Shadern.
-Integriere:
-Eine von der Dicke abhängige Lichtabsorption.
-Brechung durch das Gelee.
-
-Fresnel-Reflexionen und glänzende Glanzlichter.
-Sanft durch dünne Kanten hindurchtretendes Licht.
-Subtile innere Details und einige winzige Luftblasen.
-
-Weiche Kontaktschatten unter der Scheibe.
-Einen hellen, neutralen Studiohintergrund.
-Fruchtfleisch, helle Schale und grüne Außenhaut sollen jeweils ein eigenes Materialverhalten zeigen. Vermeide, dass alles wie klares Glas oder undurchsichtiger Kunststoff aussieht.
-Halte die Scheibe groß und gut inspizierbar. Verwende einen Dreiviertel-Kamerawinkel, der Fruchtfleisch, Kerne und Dicke sichtbar macht.
-INTERFACE
-Verwende ein minimalistisches Editorial-Layout mit großzügigem Weißraum, dünnen Rahmen, zurückhaltenden Bedienelementen und ohne dekorative UI-Verläufe.
-Oben links:
-„MATERIAL STUDIES / NO. 009“
-Eine große kursive Serifenschrift-Überschrift, auf zwei Zeilen verteilt: „Melon“ und „Jelly“.
-Kleine Bildunterschriften:
-„Ein Stück Sommer.“
-„Ein kleines Wackeln.“
-„Zu weich zum Teilen.“
-Oben rechts:
-Eine kleine Statusanzeige mit „WEBGPU · LIVE“, sobald der Renderer läuft.
-
-Panel auf der rechten Seite:
-„THE SPECIMEN“
-Drei abgestimmte, von der Wassermelone inspirierte Farb-Presets.
-Regler für die Festigkeit mit aktuellem Wert.
-Regler für die interne Dämpfung mit aktuellem Wert.
-Schaltflächen „Give it a nudge“ und „Reset“.
-Kontrollkästchen „¼ speed“ und „Show mesh“.
-
-Schaltfläche „Pause / Resume“.
-Unten links:
-Ein kurzer Hinweis, dass sich die Scheibe greifen und dehnen lässt.
-Live-Anzeigen für Masse, relatives Volumen und kinetische Energie, abgeleitet aus der Simulation. Beschreibe illustrative Einheiten oder Näherungswerte dort, wo es sinnvoll ist, eindeutig.
-Unten rechts:
-
-Ein ausklappbarer Bereich „Inside the experiment“, der Physik und Rendering kurz erklärt.
-VERHALTEN UND PERFORMANCE
-Unterstütze Maus- und Touch-Eingaben. Verwende Pointer Capture, damit das Ziehen zuverlässig bleibt, wenn der Pointer das Objekt verlässt.
-Das Layout muss auf Desktop und Mobilgeräten funktionieren, ohne dass Bedienelemente die Scheibe verdecken.
-Verwende Buffer wieder und vermeide es, während des Ziehens Geometrie neu aufzubauen oder Shader zu kompilieren. Halte die Interaktion flüssig und reaktionsschnell.
-Berücksichtige Einstellungen für reduzierte Bewegung. Wenn WebGPU nicht verfügbar ist, zeige eine klare Erklärung an, statt stillschweigend einen Fake-Renderer einzusetzen.
-VALIDATION
-Teste das Ziehen an mehreren Stellen, starkes Dehnen, wiederholtes Loslassen, Bodenkollisionen, alle Regler, Presets, Pause, Zurücksetzen und Zeitlupe.
-Prüfe, ob das Modell in eine stabile Ruheform zurückkehrt, die Kerne befestigt bleiben, das Mesh intakt bleibt und keine Rendering-Fehler auftreten.
-Priorisiere die Qualität der Gelee-Reaktion und der Beleuchtung. Das Ergebnis soll dazu einladen, immer wieder danach zu greifen und damit zu spielen.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2104504957173153951) · [Originalbeitrag](https://x.com/esrhengwu/status/2104505413857415515) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="2104531704740512143"></a>
-
-### Genshin-ähnliches Spiel und Tool zur Geländebearbeitung
-
-[ふぐあい(ふぐおん)](https://x.com/fuguai1) · 2026-09-28
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2104531704740512143"><img src="../assets/previews/e95988d923e8e05de9065def3c72647ae3df702210e6d710057eb6ba530f4bf8.jpg" width="840" loading="lazy" alt="Genshin-ähnliches Spiel und Tool zur Geländebearbeitung"></a>
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2104531704740512143"><img src="../assets/previews/df7a40773c0a1b5dab8e29ea57b509f9c6db442166d113f5537ea20b82a6674a.jpg" width="840" loading="lazy" alt="Genshin-ähnliches Spiel und Tool zur Geländebearbeitung"></a>
-
-Ein Prompt, der die Erstellung eines Genshin-ähnlichen Spiels und eines Tools zur Bearbeitung des Geländes fordert.
-
-**Prompt**
-
-```text
-Erstelle ein Genshin-ähnliches Spiel und ein Tool, mit dem sich das Gelände bearbeiten lässt.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2104531704740512143) · [Originalbeitrag](https://x.com/fuguai1/status/2104531704740512143) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 
@@ -4063,6 +3927,66 @@ Erstelle ein mobilfreundliches Block-Abenteuerspiel mit Multiplayer-Modus, in de
 
 ---
 
+<a id="2125683094019772805"></a>
+
+### Beladener Holztransporter auf einer Bergstraße
+
+[Satoshi](https://x.com/0xSatoshiv) · 2026-11-25
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/logging-truck-mountain-road-3d-scene"><img src="../assets/previews/097f64c77ff797b0325d56cda5e109fe3603bbbbe4ef4226ee78be0c94d66d7f.jpg" width="840" loading="lazy" alt="Beladener Holztransporter auf einer Bergstraße"></a>
+
+Ein vom Verfasser des Beitrags präsentierter Prompt, der als einzige Anfrage in einem Vergleich mit GPT 6 Astra verwendet wurde. Darin wird ein beladener Holztransporter beschrieben, der eine Bergstraße hinunterfährt.
+
+**Prompt**
+
+```text
+ein beladener Holztransporter, der eine Bergstraße hinunterfährt
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/logging-truck-mountain-road-3d-scene) · [Originalbeitrag](https://x.com/0xSatoshiv/status/2125683094019772805) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2125910899437269077"></a>
+
+### Echtzeit-3D-Simulation eines Starship-Starts und der Booster-Fangvorrichtung am Startturm
+
+[cedric](https://x.com/cedric_chee) · 2026-11-26
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/starship-launch-booster-catch-simulation"><img src="../assets/previews/e13e841ce93733dace36b618e58f6ba2997da1b5da44363a54790f98706fa2d4.jpg" width="840" loading="lazy" alt="Echtzeit-3D-Simulation eines Starship-Starts und der Booster-Fangvorrichtung am Startturm"></a>
+
+Eine browserbasierte Echtzeit-3D-Simulation eines Starship-Starts und des Auffangens des Boosters durch den Startturm.
+
+**Prompt**
+
+```text
+Erstelle eine browserbasierte Echtzeit-3D-Simulation eines Starship-Starts und des Auffangens des Boosters durch den Startturm.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/starship-launch-booster-catch-simulation) · [Originalbeitrag](https://x.com/cedric_chee/status/2125910899437269077) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="2125960271386578991"></a>
+
+### Hochrealistisches Wasserflugzeug über Bora Bora mit Wasserlandung
+
+[小果](https://x.com/hayushuu1ft) · 2026-11-26
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/bora-bora-seaplane-3d-animation"><img src="../assets/previews/d9c3a6ea35bac22b901753a4917d7028dc0534add7b40da39f7e171ad8189576.jpg" width="840" loading="lazy" alt="Hochrealistisches Wasserflugzeug über Bora Bora mit Wasserlandung"></a>
+
+Erstellt eine hochrealistische 3D-Animation eines Wasserflugzeugs: Das Flugzeug fliegt über Bora Bora, landet auf dem Wasser und lässt die Passagiere aussteigen. Im Originalbeitrag wird dies als derselbe Prompt für mehrere Modelle beschrieben.
+
+**Prompt**
+
+```text
+Hochrealistisches Wasserflugzeug über Bora Bora, landet auf dem Wasser und lässt die Passagiere aussteigen
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/bora-bora-seaplane-3d-animation) · [Originalbeitrag](https://x.com/hayushuu1ft/status/2125960271386578991) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Rot, grünes Licht: 3D-Survival-Game
@@ -4278,7 +4202,7 @@ Einen neuen Jelly-Villa-Prompt mit Credit für jared veröffentlichen, den urspr
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 394 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/de/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Alle 397 Beispiele auf der offiziellen Website ansehen →</a></strong></p>
 <p><sub>Damit GitHub die README flüssig darstellen kann, zeigen wir hier nur die 100 neuesten Beispiele.</sub></p>
 <br>
 </td></tr>

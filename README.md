@@ -29,7 +29,7 @@
 
 Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser.
 
-**394 examples · 14 languages · 14 examples with source code**
+**397 examples · 14 languages · 14 examples with source code**
 
 ## Featured projects
 
@@ -53,9 +53,6 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 
 - [Design a 3D print with cad](#2121330766919688268) · GitHub
 - [Procedural Hummingbird POV Film in Blender](#2125142421960815075) · GitHub
-- [Interactive 3D camera lens light-path demo](#2104077535315144878)
-- [Interactive 3D Melon Jelly Slice](#2104504957173153951)
-- [Genshin-Style Game and Terrain Editor](#2104531704740512143)
 - [3D-printable J-hook for a strength test](#2104590493191479337)
 - [Interactive educational 3D CRISPR representation](#2104605522640970208)
 - [Interactive moonlit jungle boat ride](#2104613125093998674)
@@ -148,6 +145,9 @@ Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine
 - [Interactive After Hours Collectible Ticket](#2118332979030208748)
 - [Interactive Pixel-Art Amusement Park on a Floating Island](#2118732546246897872)
 - [Multiplayer block adventure game for mobile](#2119410564489175551)
+- [Loaded logging truck on a mountain road](#2125683094019772805)
+- [Real-Time 3D Starship Launch and Booster Tower Catch Simulation](#2125910899437269077)
+- [Ultra-realistic seaplane flying over Bora Bora and landing on the water](#2125960271386578991)
 - [Red Light, Green Light: 3D Survival Game](#red-light-green-light)
 - [Golden Miner: 24-Level 3D Mining Game](#golden-miner)
 - [Jelly Villa](#jelly-villa)
@@ -205,142 +205,6 @@ Render test frames to inspect and fix your own visual bugs.
 ```
 
 [View detail ↗](https://www.tripo3d.ai/3d-prompts/procedural-hummingbird-pov-blender-film) · [Original post](https://x.com/isiliconx/status/2125142421960815075) · [Source code](https://github.com/isiliconx/astra6.2-hummingbird) · [Back to examples](#all-prompts)
-
----
-
-<a id="2104077535315144878"></a>
-
-### Interactive 3D camera lens light-path demo
-
-[noah helms](https://x.com/haonv2) · 2026-09-27
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2104077535315144878"><img src="assets/previews/23a0290532ea8418724ffc38cac2eb4c14a3a7043713608bd958d0c1c53d85a6.jpg" width="840" loading="lazy" alt="Interactive 3D camera lens light-path demo"></a>
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2104077535315144878"><img src="assets/previews/b0a7ef6ce5123b523b6a3a17379d8be3262082545b8eefea6b1b403e15161e2d.jpg" width="840" loading="lazy" alt="Interactive 3D camera lens light-path demo"></a>
-
-An interactive 3D render demonstrating how light travels through a camera lens to the sensor, set in a mountain landscape with waterfalls and green grass. The root post presents this as the prompt used for an Astra-6 and Opus 5.5 comparison.
-
-**Prompt**
-
-```text
-i want you to create an interactive 3d render of how light travels through a camera lens and gets to the sensor. make the demo use a beautiful mountain scape with waterfalls and beautiful green grass
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2104077535315144878) · [Original post](https://x.com/haonv2/status/2104077535315144878) · [Back to examples](#all-prompts)
-
----
-
-<a id="2104504957173153951"></a>
-
-### Interactive 3D Melon Jelly Slice
-
-[基恩-Keane 🌊](https://x.com/esrhengwu) · 2026-09-28
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2104504957173153951"><img src="assets/previews/cf4d886fc6e8c499c9fa10a37204272099b89e9ca4336bb62f03dd93220ec069.jpg" width="840" loading="lazy" alt="Interactive 3D Melon Jelly Slice"></a>
-
-The creator shared a prompt in the comments for making “Melon Jelly.” It calls for a browser-based 3D watermelon jelly soft-body simulation built with WebGPU and WGSL, allowing users to grab, stretch, bend, and twist the slice, with requirements for materials, physics, interface, and validation. The original post says Opus 5.5 and GPT-6 Astra each created a jelly watermelon; this comment contains the prompt published by the creator.
-
-**Prompt**
-
-```text
-Create “Melon Jelly” — a polished, interactive 3D watermelon jelly slice that runs directly in the browser using genuine WebGPU and WGSL shaders.
-Deliver a single, self-contained HTML file with embedded JavaScript and CSS. This must be an actual interactive 3D simulation, not a static render, video, or 2D imitation.
-THE WATERMELON
-Create a thick, rounded triangular watermelon wedge with:
-Translucent ruby-red jelly flesh.
-A pale, slightly translucent layer between the flesh and rind.
-A glossy green outer rind with irregular dark-green stripes.
-
-Individually modeled dark seeds embedded in both exposed sides.
-Softly rounded corners and an appealing, substantial thickness.
-Make it look like an expensive gummy candy photographed in a studio. It should feel juicy, soft, and almost edible. Keep the colors rich without overexposing the highlights.
-SOFT-BODY PHYSICS
-Use a volumetric soft-body simulation, such as a tetrahedral mesh with XPBD elastic and volume-preservation constraints.
-The user must be able to:
-Grab the tip, a corner, the flesh, or the rind.
-Stretch, bend, lift, and gently twist the slice.
-
-Release it and watch it wobble before gradually settling.
-The slice must visibly deform locally, not simply move or scale as one rigid object. Make the rind slightly firmer than the flesh while keeping the whole slice flexible.
-Preserve volume reasonably during stretching. Prevent inverted elements, explosive motion, and permanent collapse. Use a fixed simulation timestep and bounded substeps for stability.
-After release, the motion should decay naturally — no instant snapping back and no endless oscillation.
-Keep seeds attached to the deforming flesh. They must move and rotate with the surface rather than float independently or remain fixed in space.
-Include ground contact, gentle friction, and soft bouncing. Avoid visible floor penetration.
-RENDERING
-Use native WebGPU with WGSL shaders.
-Include:
-Thickness-dependent light absorption.
-Refraction through the jelly.
-
-Fresnel reflections and glossy highlights.
-Soft transmitted light through thin edges.
-Subtle internal details and a few tiny air bubbles.
-
-Soft contact shadows beneath the slice.
-A light, neutral studio background.
-The flesh, pale rind, and green skin should have distinct material responses. Avoid making everything look like clear glass or opaque plastic.
-Keep the slice large and easy to inspect, with a three-quarter camera angle that reveals the flesh, seeds, and thickness.
-INTERFACE
-Use a minimal editorial layout with generous whitespace, thin borders, restrained controls, and no decorative UI gradients.
-Top left:
-“MATERIAL STUDIES / NO. 009”
-A large italic serif heading split across two lines: “Melon” and “Jelly.”
-Small caption:
-“A slice of summer.”
-“A little wobble.”
-“Too soft to share.”
-Top right:
-A small status indicator showing “WEBGPU · LIVE” when the renderer is running.
-
-Right-side panel:
-“THE SPECIMEN”
-Three coordinated watermelon-inspired color presets.
-Firmness slider with its current value.
-Internal damping slider with its current value.
-“Give it a nudge” and “Reset” buttons.
-“¼ speed” and “Show mesh” checkboxes.
-
-Pause / Resume button.
-Bottom left:
-A short hint explaining that the slice can be grabbed and stretched.
-Live mass, relative volume, and kinetic-energy readouts derived from the simulation. Clearly describe illustrative units or approximate values where appropriate.
-Bottom right:
-
-A collapsible “Inside the experiment” section briefly explaining the physics and rendering.
-BEHAVIOR AND PERFORMANCE
-Support both mouse and touch input. Use pointer capture so dragging remains reliable when the pointer leaves the object.
-Make the layout work on desktop and mobile without controls covering the slice.
-Reuse buffers and avoid rebuilding geometry or compiling shaders during dragging. Keep interaction smooth and responsive.
-Respect reduced-motion preferences. If WebGPU is unavailable, display a clear explanation instead of silently substituting a fake renderer.
-VALIDATION
-Test dragging from several locations, strong stretches, repeated releases, ground collisions, all sliders, presets, pause, reset, and slow motion.
-Check that the model returns to a stable resting shape, seeds stay attached, the mesh remains intact, and there are no rendering errors.
-Prioritize the quality of the jelly response and lighting. The result should be something people want to keep grabbing and playing with.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2104504957173153951) · [Original post](https://x.com/esrhengwu/status/2104505413857415515) · [Back to examples](#all-prompts)
-
----
-
-<a id="2104531704740512143"></a>
-
-### Genshin-Style Game and Terrain Editor
-
-[ふぐあい(ふぐおん)](https://x.com/fuguai1) · 2026-09-28
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2104531704740512143"><img src="assets/previews/e95988d923e8e05de9065def3c72647ae3df702210e6d710057eb6ba530f4bf8.jpg" width="840" loading="lazy" alt="Genshin-Style Game and Terrain Editor"></a>
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2104531704740512143"><img src="assets/previews/df7a40773c0a1b5dab8e29ea57b509f9c6db442166d113f5537ea20b82a6674a.jpg" width="840" loading="lazy" alt="Genshin-Style Game and Terrain Editor"></a>
-
-A prompt for creating a Genshin-like game and a tool for editing its terrain.
-
-**Prompt**
-
-```text
-Create a Genshin-like game and a tool for editing its terrain.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2104531704740512143) · [Original post](https://x.com/fuguai1/status/2104531704740512143) · [Back to examples](#all-prompts)
 
 ---
 
@@ -4064,6 +3928,66 @@ Create a mobile-friendly block adventure game with multiplayer, where friends ca
 
 ---
 
+<a id="2125683094019772805"></a>
+
+### Loaded logging truck on a mountain road
+
+[Satoshi](https://x.com/0xSatoshiv) · 2026-11-25
+
+<a href="https://www.tripo3d.ai/3d-prompts/logging-truck-mountain-road-3d-scene"><img src="assets/previews/097f64c77ff797b0325d56cda5e109fe3603bbbbe4ef4226ee78be0c94d66d7f.jpg" width="840" loading="lazy" alt="Loaded logging truck on a mountain road"></a>
+
+A prompt presented by the post author as the single request used in a comparison including GPT 6 Astra. It asks for a loaded logging truck traveling down a mountain road.
+
+**Prompt**
+
+```text
+a loaded logging truck coming down a mountain road
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/logging-truck-mountain-road-3d-scene) · [Original post](https://x.com/0xSatoshiv/status/2125683094019772805) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2125910899437269077"></a>
+
+### Real-Time 3D Starship Launch and Booster Tower Catch Simulation
+
+[cedric](https://x.com/cedric_chee) · 2026-11-26
+
+<a href="https://www.tripo3d.ai/3d-prompts/starship-launch-booster-catch-simulation"><img src="assets/previews/e13e841ce93733dace36b618e58f6ba2997da1b5da44363a54790f98706fa2d4.jpg" width="840" loading="lazy" alt="Real-Time 3D Starship Launch and Booster Tower Catch Simulation"></a>
+
+A browser-based real-time 3D simulation depicting a Starship launch and a booster tower catch.
+
+**Prompt**
+
+```text
+Build a real-time 3D simulation of a Starship launch and booster tower catch that runs in the browser
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/starship-launch-booster-catch-simulation) · [Original post](https://x.com/cedric_chee/status/2125910899437269077) · [Back to examples](#all-prompts)
+
+---
+
+<a id="2125960271386578991"></a>
+
+### Ultra-realistic seaplane flying over Bora Bora and landing on the water
+
+[小果](https://x.com/hayushuu1ft) · 2026-11-26
+
+<a href="https://www.tripo3d.ai/3d-prompts/bora-bora-seaplane-3d-animation"><img src="assets/previews/d9c3a6ea35bac22b901753a4917d7028dc0534add7b40da39f7e171ad8189576.jpg" width="840" loading="lazy" alt="Ultra-realistic seaplane flying over Bora Bora and landing on the water"></a>
+
+Create an ultra-realistic 3D seaplane animation: the plane flies over Bora Bora, lands on the water, and lets the passengers disembark. The original post describes this as the same prompt used with multiple models.
+
+**Prompt**
+
+```text
+Ultra-realistic seaplane flying over Bora Bora, landing on the water and letting the passengers disembark
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/bora-bora-seaplane-3d-animation) · [Original post](https://x.com/hayushuu1ft/status/2125960271386578991) · [Back to examples](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### Red Light, Green Light: 3D Survival Game
@@ -4279,7 +4203,7 @@ Publish a new jelly-villa prompt credited to jared, with the original author in 
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 394 examples →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">Explore all 397 examples →</a></strong></p>
 <p><sub>To keep GitHub README rendering smooth, only the latest 100 examples are shown here.</sub></p>
 <br>
 </td></tr>

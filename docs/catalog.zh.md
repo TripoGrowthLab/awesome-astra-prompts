@@ -29,7 +29,7 @@
 
 探索 GPT-6 Astra 在 Blender、Three.js、Unreal Engine、Unity 和浏览器中的提示词与 3D 作品。
 
-**394 条案例 · 14 种语言 · 14 条附项目源码**
+**397 条案例 · 14 种语言 · 14 条附项目源码**
 
 ## 精选作品
 
@@ -53,9 +53,6 @@
 
 - [使用 CAD 设计 3D 打印件](#2121330766919688268) · GitHub
 - [Blender 程序化蜂鸟第一人称视角影片](#2125142421960815075) · GitHub
-- [交互式 3D 相机镜头光路演示](#2104077535315144878)
-- [可交互 3D 果冻西瓜切片](#2104504957173153951)
-- [原神风格游戏与地形编辑工具](#2104531704740512143)
 - [用于强度测试的可 3D 打印 J 形挂钩](#2104590493191479337)
 - [交互式 CRISPR 三维科普展示](#2104605522640970208)
 - [月光下的丛林互动泛舟](#2104613125093998674)
@@ -148,6 +145,9 @@
 - [互动式《After Hours》收藏票](#2118332979030208748)
 - [漂浮岛上的互动像素风游乐园](#2118732546246897872)
 - [手机版多人方块冒险游戏](#2119410564489175551)
+- [山路上的满载运木卡车](#2125683094019772805)
+- [实时 3D 星舰发射与助推器塔架捕获模拟](#2125910899437269077)
+- [超逼真的水上飞机飞越波拉波拉岛并在水面降落](#2125960271386578991)
 - [一二三，木头人：3D 生存游戏](#red-light-green-light)
 - [黄金矿工：24 关 3D 挖矿游戏](#golden-miner)
 - [果冻别墅](#jelly-villa)
@@ -205,142 +205,6 @@
 ```
 
 [查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/procedural-hummingbird-pov-blender-film) · [查看原帖](https://x.com/isiliconx/status/2125142421960815075) · [项目源码](https://github.com/isiliconx/astra6.2-hummingbird) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2104077535315144878"></a>
-
-### 交互式 3D 相机镜头光路演示
-
-[noah helms](https://x.com/haonv2) · 2026-09-27
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/23a0290532ea8418724ffc38cac2eb4c14a3a7043713608bd958d0c1c53d85a6.jpg" width="840" loading="lazy" alt="交互式 3D 相机镜头光路演示"></a>
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/b0a7ef6ce5123b523b6a3a17379d8be3262082545b8eefea6b1b403e15161e2d.jpg" width="840" loading="lazy" alt="交互式 3D 相机镜头光路演示"></a>
-
-交互式 3D 渲染演示光线如何穿过相机镜头并到达传感器，场景设定在拥有瀑布和葱郁绿草的山地景观中。根帖将其介绍为用于比较 Astra-6 和 Opus 5.5 的提示词。
-
-**提示词**
-
-```text
-请创建一个交互式 3D 渲染，展示光线如何穿过相机镜头并到达传感器。演示场景应采用优美的山地景观，包含瀑布和葱郁的绿草。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104077535315144878) · [查看原帖](https://x.com/haonv2/status/2104077535315144878) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2104504957173153951"></a>
-
-### 可交互 3D 果冻西瓜切片
-
-[基恩-Keane 🌊](https://x.com/esrhengwu) · 2026-09-28
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104504957173153951"><img src="../assets/previews/cf4d886fc6e8c499c9fa10a37204272099b89e9ca4336bb62f03dd93220ec069.jpg" width="840" loading="lazy" alt="可交互 3D 果冻西瓜切片"></a>
-
-作者在评论区公开了一段用于制作“Melon Jelly”的提示词。它要求在浏览器中以 WebGPU 与 WGSL 制作可抓取、拉伸、弯折和扭转的 3D 西瓜果冻软体模拟，并提供材质、物理、界面和验证要求。根帖称 Opus 5.5 与 GPT-6 Astra 分别制作了果冻西瓜；该评论提供的是作者发布的提示词。
-
-**提示词**
-
-```text
-Create “Melon Jelly” - a polished, interactive 3D watermelon jelly slice that runs directly in the browser using genuine WebGPU and WGSL shaders.
-Deliver a single, self-contained HTML file with embedded JavaScript and CSS. This must be an actual interactive 3D simulation, not a static render, video, or 2D imitation.
-THE WATERMELON
-Create a thick, rounded triangular watermelon wedge with:
-Translucent ruby-red jelly flesh.
-A pale, slightly translucent layer between the flesh and rind.
-A glossy green outer rind with irregular dark-green stripes.
-
-Individually modeled dark seeds embedded in both exposed sides.
-Softly rounded corners and an appealing, substantial thickness.
-Make it look like an expensive gummy candy photographed in a studio. It should feel juicy, soft, and almost edible. Keep the colors rich without overexposing the highlights.
-SOFT-BODY PHYSICS
-Use a volumetric soft-body simulation, such as a tetrahedral mesh with XPBD elastic and volume-preservation constraints.
-The user must be able to:
-Grab the tip, a corner, the flesh, or the rind.
-Stretch, bend, lift, and gently twist the slice.
-
-Release it and watch it wobble before gradually settling.
-The slice must visibly deform locally, not simply move or scale as one rigid object. Make the rind slightly firmer than the flesh while keeping the whole slice flexible.
-Preserve volume reasonably during stretching. Prevent inverted elements, explosive motion, and permanent collapse. Use a fixed simulation timestep and bounded substeps for stability.
-After release, the motion should decay naturally - no instant snapping back and no endless oscillation.
-Keep seeds attached to the deforming flesh. They must move and rotate with the surface rather than float independently or remain fixed in space.
-Include ground contact, gentle friction, and soft bouncing. Avoid visible floor penetration.
-RENDERING
-Use native WebGPU with WGSL shaders.
-Include:
-Thickness-dependent light absorption.
-Refraction through the jelly.
-
-Fresnel reflections and glossy highlights.
-Soft transmitted light through thin edges.
-Subtle internal details and a few tiny air bubbles.
-
-Soft contact shadows beneath the slice.
-A light, neutral studio background.
-The flesh, pale rind, and green skin should have distinct material responses. Avoid making everything look like clear glass or opaque plastic.
-Keep the slice large and easy to inspect, with a three-quarter camera angle that reveals the flesh, seeds, and thickness.
-INTERFACE
-Use a minimal editorial layout with generous whitespace, thin borders, restrained controls, and no decorative UI gradients.
-Top left:
-“MATERIAL STUDIES / NO. 009”
-A large italic serif heading split across two lines: “Melon” and “Jelly.”
-Small caption:
-“A slice of summer.”
-“A little wobble.”
-“Too soft to share.”
-Top right:
-A small status indicator showing “WEBGPU · LIVE” when the renderer is running.
-
-Right-side panel:
-“THE SPECIMEN”
-Three coordinated watermelon-inspired color presets.
-Firmness slider with its current value.
-Internal damping slider with its current value.
-“Give it a nudge” and “Reset” buttons.
-“¼ speed” and “Show mesh” checkboxes.
-
-Pause / Resume button.
-Bottom left:
-A short hint explaining that the slice can be grabbed and stretched.
-Live mass, relative volume, and kinetic-energy readouts derived from the simulation. Clearly describe illustrative units or approximate values where appropriate.
-Bottom right:
-
-A collapsible “Inside the experiment” section briefly explaining the physics and rendering.
-BEHAVIOR AND PERFORMANCE
-Support both mouse and touch input. Use pointer capture so dragging remains reliable when the pointer leaves the object.
-Make the layout work on desktop and mobile without controls covering the slice.
-Reuse buffers and avoid rebuilding geometry or compiling shaders during dragging. Keep interaction smooth and responsive.
-Respect reduced-motion preferences. If WebGPU is unavailable, display a clear explanation instead of silently substituting a fake renderer.
-VALIDATION
-Test dragging from several locations, strong stretches, repeated releases, ground collisions, all sliders, presets, pause, reset, and slow motion.
-Check that the model returns to a stable resting shape, seeds stay attached, the mesh remains intact, and there are no rendering errors.
-Prioritize the quality of the jelly response and lighting. The result should be something people want to keep grabbing and playing with.
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104504957173153951) · [查看原帖](https://x.com/esrhengwu/status/2104505413857415515) · [返回案例导航](#all-prompts)
-
----
-
-<a id="2104531704740512143"></a>
-
-### 原神风格游戏与地形编辑工具
-
-[ふぐあい(ふぐおん)](https://x.com/fuguai1) · 2026-09-28
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104531704740512143"><img src="../assets/previews/e95988d923e8e05de9065def3c72647ae3df702210e6d710057eb6ba530f4bf8.jpg" width="840" loading="lazy" alt="原神风格游戏与地形编辑工具"></a>
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104531704740512143"><img src="../assets/previews/df7a40773c0a1b5dab8e29ea57b509f9c6db442166d113f5537ea20b82a6674a.jpg" width="840" loading="lazy" alt="原神风格游戏与地形编辑工具"></a>
-
-要求制作一款类似《原神》的游戏，以及一个可以编辑其地形的工具的提示词。
-
-**提示词**
-
-```text
-制作一款类似《原神》的游戏，以及一个可以编辑其地形的工具
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104531704740512143) · [查看原帖](https://x.com/fuguai1/status/2104531704740512143) · [返回案例导航](#all-prompts)
 
 ---
 
@@ -4073,6 +3937,66 @@ UI 与城市画面应形成适当对比，但不能过度抢眼。
 
 ---
 
+<a id="2125683094019772805"></a>
+
+### 山路上的满载运木卡车
+
+[Satoshi](https://x.com/0xSatoshiv) · 2026-11-25
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/logging-truck-mountain-road-3d-scene"><img src="../assets/previews/097f64c77ff797b0325d56cda5e109fe3603bbbbe4ef4226ee78be0c94d66d7f.jpg" width="840" loading="lazy" alt="山路上的满载运木卡车"></a>
+
+这是发帖作者在一项包含 GPT 6 Astra 的对比测试中使用的唯一提示词，要求生成一辆满载木材、沿山路下行的运木卡车。
+
+**提示词**
+
+```text
+一辆满载木材、沿山路下行的运木卡车
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/logging-truck-mountain-road-3d-scene) · [查看原帖](https://x.com/0xSatoshiv/status/2125683094019772805) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2125910899437269077"></a>
+
+### 实时 3D 星舰发射与助推器塔架捕获模拟
+
+[cedric](https://x.com/cedric_chee) · 2026-11-26
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/starship-launch-booster-catch-simulation"><img src="../assets/previews/e13e841ce93733dace36b618e58f6ba2997da1b5da44363a54790f98706fa2d4.jpg" width="840" loading="lazy" alt="实时 3D 星舰发射与助推器塔架捕获模拟"></a>
+
+一款基于浏览器的实时 3D 模拟，呈现星舰发射及塔架捕获助推器的过程。
+
+**提示词**
+
+```text
+构建一个可在浏览器中运行的实时 3D 模拟，展示星舰发射和塔架捕获助推器的过程
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/starship-launch-booster-catch-simulation) · [查看原帖](https://x.com/cedric_chee/status/2125910899437269077) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="2125960271386578991"></a>
+
+### 超逼真的水上飞机飞越波拉波拉岛并在水面降落
+
+[小果](https://x.com/hayushuu1ft) · 2026-11-26
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/bora-bora-seaplane-3d-animation"><img src="../assets/previews/d9c3a6ea35bac22b901753a4917d7028dc0534add7b40da39f7e171ad8189576.jpg" width="840" loading="lazy" alt="超逼真的水上飞机飞越波拉波拉岛并在水面降落"></a>
+
+用于创建一段超逼真的3D水上飞机动画：飞机飞越波拉波拉岛，在水面降落，并让乘客下机。根帖将其描述为多个模型使用的同一句提示词。
+
+**提示词**
+
+```text
+超逼真的水上飞机飞越波拉波拉岛，降落在水面上，让乘客下机
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/bora-bora-seaplane-3d-animation) · [查看原帖](https://x.com/hayushuu1ft/status/2125960271386578991) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="red-light-green-light"></a>
 
 ### 一二三，木头人：3D 生存游戏
@@ -4288,7 +4212,7 @@ UI 与城市画面应形成适当对比，但不能过度抢眼。
 <table align="center">
 <tr><td align="center">
 <br>
-<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 394 条案例 →</a></strong></p>
+<p><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/gpt-6-astra?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_astra_prompts&amp;utm_content=catalog_bottom">前往官网查看全部 397 条案例 →</a></strong></p>
 <p><sub>为保持 GitHub README 渲染流畅，这里仅展示最新 100 条案例。</sub></p>
 <br>
 </td></tr>
